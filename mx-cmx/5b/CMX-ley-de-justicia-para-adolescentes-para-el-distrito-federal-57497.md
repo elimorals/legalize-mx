@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-justicia-para-adolescentes-para-el-distrito-federal-5749
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-14"
-last_updated: "2014-04-15"
+last_updated: "2014-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57497&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-10-25"
 
 LEY DE JUSTICIA PARA ADOLESCENTES PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE OCTUBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 14 de noviembre de 2007.
 
@@ -238,7 +238,7 @@ VII. Especialización: Todas las actuaciones y diligencias estarán a cargo de �
 
 VIII. Flexibilidad: La autoridad tiene la posibilidad de suspender el proceso en cualquier momento en beneficio del adolescente;
 
-IX. Protección integral de los derechos del adolescente: En todo momento las autoridades del Sistema deberán respetar y garantizar la protección de los derechos del adolescente y adulto joven sujetos al mismo; (sic)
+IX. Protección integral de los derechos del adolescente: En todo momento las autoridades del Sistema deberán respetar y garantizar la protección de los derechos del adolescente y adulto joven sujetos al mismo;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -494,7 +494,7 @@ INMEDIACIÓN.
 
 Los Jueces están obligados a presenciar y dirigir de manera personal cada una de las diligencias y actuaciones que se practiquen en el proceso y no podrán delegar dicha obligación en persona alguna. El incumplimiento de dicha obligación será causa de nulidad y de responsabilidad para dicho funcionario.
 
-Durante el desarrollo del proceso, las partes no podrán referirse ni opinar ante el Juez o Tribunal sobre algún asunto en trámite, sin la presencia de la contraparte. La infracción a esta norma será considerada falta grave en el régimen disciplinario; (sic)
+Durante el desarrollo del proceso, las partes no podrán referirse ni opinar ante el Juez o Tribunal sobre algún asunto en trámite, sin la presencia de la contraparte. La infracción a esta norma será considerada falta grave en el régimen disciplinario;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -980,7 +980,7 @@ V. Violación previsto en los artículos 174, 175 y 181 Bis párrafos primero y 
 
 VI. Corrupción de personas menores de edad o personas que no tengan capacidad para comprender el significado del hecho o de personas que no tengan la capacidad de resistir la conducta, previsto en el artículo 183;
 
-VII. Robo Calificado cometido con violencia, previsto en el artículo 220, en relación al 225, cuando sea cometido con medios violentos como armas y explosivos, en términos del artículo 19 Constitucional; y (sic)
+VII. Robo Calificado cometido con violencia, previsto en el artículo 220, en relación al 225, cuando sea cometido con medios violentos como armas y explosivos, en términos del artículo 19 Constitucional; y
 
 VIII. Daño a la Propiedad, previsto en el artículo 239 fracción IV, con relación al 241.
 
@@ -2136,7 +2136,7 @@ Declarado visto el asunto, quedará cerrado el debate y el Tribunal Especializad
 
 Podrán ofrecerse las pruebas supervenientes que acrediten la ilegalidad de la resolución recurrida, desde el momento de la interposición del recurso hasta la audiencia de vista.
 
-Las pruebas a desahogarse en la audiencia de vista pueden ser de cualquier clase, excepto la testimonial y la confesional. Emitida la resolución, inmediatamente se notificará a las partes legitimadas y cesará la segunda instancia. * (sic)
+Las pruebas a desahogarse en la audiencia de vista pueden ser de cualquier clase, excepto la testimonial y la confesional. Emitida la resolución, inmediatamente se notificará a las partes legitimadas y cesará la segunda instancia. *
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -2148,7 +2148,7 @@ El recurso de denegada apelación procederá siempre que se hubiere negado la ap
 
 El recurso podrá interponerse verbalmente o por escrito, dentro de los dos días siguientes a la notificación del auto en que se negare la apelación.
 
-Interpuesto el recurso, el Juez sin más trámite, enviará al Tribunal de Alzada, dentro de los tres días siguientes, un certificado autorizado por el Secretario, en el conste (sic) la naturaleza y estado del proceso, el punto sobre que recaiga el auto apelado, insertándose éste a la letra y el que lo haya declarado inapelable, así como las actuaciones que creyere convenientes.
+Interpuesto el recurso, el Juez sin más trámite, enviará al Tribunal de Alzada, dentro de los tres días siguientes, un certificado autorizado por el Secretario, en el (sic) conste la naturaleza y estado del proceso, el punto sobre que recaiga el auto apelado, insertándose éste a la letra y el que lo haya declarado inapelable, así como las actuaciones que creyere convenientes.
 
 Cuando el Juez no cumpliere con lo prevenido en párrafo anterior, el interesado podrá ocurrir por escrito al Tribunal de Alzada respectivo haciendo relación del auto que hubiere apelado, expresando la fecha en que se le hubiere hecho la notificación, aquella en que interpuso el recurso y la providencia que a esa promoción hubiere recaído y solicitando se libre orden al Juez para que remita el certificado respectivo.
 
@@ -2202,7 +2202,7 @@ I. Viole, en lo que atañe al fondo de la cuestión debatida, un derecho fundame
 
 II. Carezca de fundamentación, motivación, o no se hubiese pronunciado sobre la reparación del daño;
 
-III. Haya tomado en cuenta una prueba ilícita trascienda (sic) al resultado del fallo;
+III. Haya tomado en cuenta una prueba ilícita (sic) trascienda al resultado del fallo;
 
 IV. No hubiese respetado el principio de congruencia con la acusación;
 
@@ -2216,7 +2216,7 @@ En estos casos, el Tribunal que conozca del recurso invalidará la sentencia y, 
 
 Interpuesto el recurso, el Juez que dictó la sentencia notificará a los interesados para que comparezcan ante el Tribunal competente para conocer del recurso de nulidad dentro de los tres días siguientes a la notificación.
 
-Si el Tribunal competente para conocer del recurso de apelación con efectos de nulidad estima que éste no es admisible, así lo declarará y devolverá las actuaciones al juzgado de origen, elevando la decisión a cosa juzgada.. (sic)
+Si el Tribunal competente para conocer del recurso de apelación con efectos de nulidad estima que éste no es admisible, así lo declarará y devolverá las actuaciones al juzgado de origen, elevando la decisión a cosa juzgada..
 
 Si se declara admisible convocará a una audiencia oral en los términos del artículo siguiente, en la cual podrá dictar la sentencia.
 
@@ -2880,7 +2880,7 @@ Cuarto. Se derogan las disposiciones que se opongan al presente Decreto.
 
 Quinto. Los actuales orientadores con que cuenta el Centro de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal pasarán a ocupar el cargo de mediador.
 
-Sexto. El Tribunal Superior de Justicia del Distrito Federal contará con sesenta días naturales posteriores a la publicación del presente Decreto para modificar el Reglamento Interno Centro (sic) de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal así como las disposiciones administrativas que lo requieran.
+Sexto. El Tribunal Superior de Justicia del Distrito Federal contará con sesenta días naturales posteriores a la publicación del presente Decreto para modificar el Reglamento Interno (sic) Centro de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal así como las disposiciones administrativas que lo requieran.
 
 Séptimo. El Consejo de la Judicatura del Distrito Federal evaluará la conveniencia de iniciar la aplicación de cuotas de recuperación a que se refiere el artículo 40, a efecto de evitar que se desaliente la utilización de los servicios de mediación, para lo cual diseñara un programa de mediano plazo para la aplicación de cuotas de manera escalonada.
 
@@ -2888,7 +2888,9 @@ G.O. 15 DE ABRIL DE 2014.
 
 PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal para su conocimiento y aplicación.
 
-SEGUNDO. El presente Decreto entrará en vigor a los 6 meses posteriores al día de su publicación.
+> <small>(REFORMADO, G.O. 14 DE OCTUBRE DE 2014)</small>
+
+SEGUNDO. El presente Decreto entrará en vigor el 1° de julio de 2016.
 
 TERCERO. Los procedimientos que se hayan iniciado antes de la entrada en vigor del presente Decreto, se seguirán tramitando en términos de la normatividad que se encontraba vigente al momento de iniciado el mismo, incluido el catalogo de delitos graves establecido en el artículo 30 de la Presente Ley.
 
@@ -2901,3 +2903,9 @@ SEXTO. Los adolescentes sujetos a procesamiento o que se encuentren cumpliendo u
 SÉPTIMO. Las Autoridades Locales del Gobierno del Distrito Federal celebrarán los convenios necesarios a efecto de que aquellos adolescentes que se encuentren cumpliendo una medida en libertad o en internamiento por conductas tipificadas como delitos, puedan contar con alternativas para su debida compurgación; igualmente quedan facultadas las autoridades locales, para celebrar los convenios necesarios con la Federación, para la aplicación de esta ley.
 
 OCTAVO. Las Instituciones públicas especializadas, encargadas del tratamiento para la desintoxicación de adolescentes con problemas de adicción a que se refiere esta Ley, deberán ser creadas dentro del plazo de iniciación de vigencia de este Decreto.
+
+G.O. 14 DE OCTUBRE DE 2014.
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
