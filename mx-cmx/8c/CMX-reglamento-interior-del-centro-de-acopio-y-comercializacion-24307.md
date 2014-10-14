@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-centro-de-acopio-y-comercializacion-243
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-03-26"
-last_updated: "2002-03-26"
+last_updated: "2014-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24307&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2002-03-18"
 ---
 # REGLAMENTO INTERIOR DEL CENTRO DE ACOPIO Y COMERCIALIZACION DE NOPAL-VERDURA, EN MILPA ALTA
 
-REGLAMENTO INTERIOR DEL CENTRO DE ACOPIO Y COMERCIALIZACION DE NOPAL-VERDURA, EN MILPA ALTA
+REGLAMENTO INTERIOR DEL CENTRO DE ACOPIO Y COMERCIALIZACIÓN DE NOPAL-VERDURA, EN MILPA ALTA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO INTERNO DEL CENTRO DE ACOPIO Y COMERCIALIZACIÓN DE NOPAL-VERDURA EN MILPA ALTA, DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 14 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE OCTUBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 26 de marzo de 2002.
 
@@ -52,7 +54,7 @@ Centro: el Centro de Acopio y Comercialización de Nopal-Verdura en la Delegaci�
 
 Código: El Código Financiero del Distrito Federal.
 
-Comercializadores : las personas físicas o morales que, mediante autorización de la Delegación, ofrecen sus productos en venta en el Centro.
+Comercializadores: las personas físicas o morales que, mediante autorización de la Delegación, ofrecen sus productos en venta en el Centro.
 
 Consejo Directivo: el cuerpo administrativo constituido para la administración del Centro;
 
@@ -62,7 +64,7 @@ Derechos: aquellos beneficios que se adquieren con la autorización que extiende
 
 Espacio: El lugar destinado a la realización de actividades comerciales en el interior del centro
 
-Gafete: Documento que expide la Delegación. en el cual autoriza el derecho de uso de un espacio del centro para desarrollar actividades comerciales.
+Gafete: Documento que expide la Delegación, en el cual autoriza el derecho de uso de un espacio del centro para desarrollar actividades comerciales.
 
 Local: Espacio físico destinado a desarrollar única y exclusivamente actividades de elaboración y preparación de comidas
 
@@ -78,7 +80,7 @@ Padrón de Productores: Los productores con derecho a comercializar nopal-verdur
 
 Plano de clasificación y distribución de zonas: el que especifica la forma en que se usarán las distintas áreas del Centro y que forma parte de las presentes normas;
 
-Prestadores de Servicios: Toda aquella persona física o moral que se encuentra debidamente registrada y autorizada por la Delegación de Milpa Alta para prestar servicios de apoyo a la operación del Centro de Acopio, tales como carretilleros. diableros, estibadores, repartidores y transportistas;
+Prestadores de Servicios: Toda aquella persona física o moral que se encuentra debidamente registrada y autorizada por la Delegación de Milpa Alta para prestar servicios de apoyo a la operación del Centro de Acopio, tales como carretilleros, diableros, estibadores, repartidores y transportistas;
 
 Productor: la persona física o moral que se dedica al cultivo y producción del nopal-verdura en la Delegación Milpa Alta;
 
@@ -148,7 +150,7 @@ Los Temporaleros Mayoristas que requieran vender por más de cinco días en el C
 
 ###### Artículo 10.
 
-Para acreditar la calidad de productores de verduras, hortalizas y frutas cosechadas en la región con ventas mayores de cien piezas o cien kilos, como los Temporaleros mayoristas. se debe expedir Constancias por los Representantes. Esta Constancia tendrá una vigencia de un año y, si el productor en cuestión cuenta con la autorización emitida por la Delegación, en dicha Constancia se indicará la asignación del espacio.
+Para acreditar la calidad de productores de verduras, hortalizas y frutas cosechadas en la región con ventas mayores de cien piezas o cien kilos, como los Temporaleros mayoristas, se debe expedir Constancias por los Representantes. Esta Constancia tendrá una vigencia de un año y, si el productor en cuestión cuenta con la autorización emitida por la Delegación, en dicha Constancia se indicará la asignación del espacio.
 
 ###### Artículo 11.
 
@@ -186,7 +188,7 @@ X. En la Nave D se destinarán espacios para la comercialización de verduras, f
 
 XI. La Nave D se integrará de 135 espacios de 1.50 metro cuadrado cada uno.
 
-XII. El área de trailers, clasificada en el plano como anexo 9, tiene una superficie de 410 mts. 2, la cual será destinada para la carga y descarga de los diferentes productos que se comercializan en el centro. Queda prohibido el estacionamiento de vehículos que no presten ese servicio en el área.
+XII. El área de trailers, clasificada en el plano como anexo 9, tiene una superficie de 410 mts2, la cual será destinada para la carga y descarga de los diferentes productos que se comercializan en el centro. Queda prohibido el estacionamiento de vehículos que no presten ese servicio en el área.
 
 XIII. La Zona Gravilla ubicada en la parte oriente que consta de 29 espacios de 1.50 metros cuadrados cada uno.
 
@@ -198,7 +200,7 @@ XV. El uso del salón de usos múltiples que cuenta con una superficie de 205 me
 
 ###### Artículo 14.
 
-los productos que podrán comercializarse en el Centro de Acopio son los siguientes:
+Los productos que podrán comercializarse en el Centro de Acopio son los siguientes:
 
 I. Nopal
 
@@ -362,7 +364,7 @@ La Delegación verificará a través del Administrador que los espacios comercia
 
 ###### Artículo 29.
 
-La Delegación propondrá al Consejo Directivo, las políticas y procedimientos para la asignación. cesión de derechos, clausuras, revocación y cambios de giro de los espacios comerciales así como los mecanismos para mantener actualizados los registros de comercializadores y prestadores de servicios de apoyo.
+La Delegación propondrá al Consejo Directivo, las políticas y procedimientos para la asignación, cesión de derechos, clausuras, revocación y cambios de giro de los espacios comerciales así como los mecanismos para mantener actualizados los registros de comercializadores y prestadores de servicios de apoyo.
 
 ###### Artículo 30.
 
@@ -370,11 +372,11 @@ La Delegación emitirá y otorgará los gafetes correspondientes para que sean o
 
 ###### Artículo 31.
 
-La Delegación independientemente del Administrador supervisará la correcta prestación de los servicios de vigilancia. limpieza de áreas comunes, recolección de desechos y demás servicios complementarios que la operación del Centro requiera.
+La Delegación independientemente del Administrador supervisará la correcta prestación de los servicios de vigilancia, limpieza de áreas comunes, recolección de desechos y demás servicios complementarios que la operación del Centro requiera.
 
 ###### Artículo 32.
 
-La Delegación. a través del Administrador vigilara y hará cumplir las Normas y el presente Reglamento, para garantizar el correcto funcionamiento del Centro.
+La Delegación, a través del Administrador vigilara y hará cumplir las Normas y el presente Reglamento, para garantizar el correcto funcionamiento del Centro.
 
 ###### Artículo 33.
 
@@ -404,7 +406,7 @@ V. Presentar a consideración de la Delegación a mas tardar los días 5 de cada
 
 VI. Promover y desarrollar programas de capacitación y de asistencia para usuarios y prestadores de servicios del Centro a efecto de mejorar la comercialización de productos alimenticios de consumo generalizado y el funcionamiento del propio Centro.
 
-VII. Supervisar la correcta prestación de los servicios de vigilancia, estacionamiento. limpieza de áreas comunes y de servicios, recolección de desechos y demás necesarios para mejorar la comercialización de los productos que se manejan en el Centro.
+VII. Supervisar la correcta prestación de los servicios de vigilancia, estacionamiento, limpieza de áreas comunes y de servicios, recolección de desechos y demás necesarios para mejorar la comercialización de los productos que se manejan en el Centro.
 
 VIII. Vigilar el cumplimiento de las disposiciones legales que normen la operación del Centro.
 
@@ -432,11 +434,9 @@ El incumplimiento de las obligaciones contenidas en el presente Reglamento, por 
 
 Son funciones del Coordinador de Administración, las siguientes:
 
-I. Establecer sistemas para la organización. control y supervisión de la administración y operación del Centro.
+I. Establecer sistemas para la organización, control y supervisión de la administración y operación del Centro.
 
-II. Administrar el presupuesto de operación que autorice la Delegación conforme a las instrucciones de la Dirección General de Administración con base en los lineamientos normativos
-
-aplicables.
+II. Administrar el presupuesto de operación que autorice la Delegación conforme a las instrucciones de la Dirección General de Administración con base en los lineamientos normativos aplicables.
 
 III. Proponer y supervisar los servicios de seguridad y vigilancia, así como aquellos necesarios para el adecuado funcionamiento del Centro.
 
@@ -520,11 +520,11 @@ Los comercializadores, productores, servicios de apoyo y usuarios del Centro, pa
 
 ###### Artículo 45.
 
-Los comercializadores, productores. servicios de apoyo y usuarios, están obligados a dar aviso inmediato al Administrador y/o la Delegación de cualquier irregularidad de funcionamiento del Centro o de sus servicios, accidentes o. siniestros que ocurran en las instalaciones del mismo.
+Los comercializadores, productores, servicios de apoyo y usuarios, están obligados a dar aviso inmediato al Administrador y/o la Delegación de cualquier irregularidad de funcionamiento del Centro o de sus servicios, accidentes o. siniestros que ocurran en las instalaciones del mismo.
 
 ###### Artículo 46.
 
-En los espacios donde se comercialice nopal limpio o sin espina. verduras, legumbres, hortalizas, flores, frutas, granos, semillas y otros al menudeo, queda prohibido dejar bultos con la finalidad de apartar espacios, por lo tanto cada usuario deberá retirar sus productos y basura al término de las labores.
+En los espacios donde se comercialice nopal limpio o sin espina, verduras, legumbres, hortalizas, flores, frutas, granos, semillas y otros al menudeo, queda prohibido dejar bultos con la finalidad de apartar espacios, por lo tanto cada usuario deberá retirar sus productos y basura al término de las labores.
 
 ###### Artículo 47.
 
@@ -558,7 +558,7 @@ En los contratos de arrendamiento se observarán las disposiciones que para el c
 
 ###### Artículo 53.
 
-Los comercializadores y usuarios tienen prohibido el uso, deposito. guarda y venta de toda clase de materiales inflamables, corrosivos, así como le (sic) uso de velas y veladoras dentro de las instalaciones del centro.
+Los comercializadores y usuarios tienen prohibido el uso, deposito, guarda y venta de toda clase de materiales inflamables, corrosivos, así como le (sic) uso de velas y veladoras dentro de las instalaciones del centro.
 
 ###### Artículo 54.
 
@@ -566,11 +566,11 @@ Los comercializadores, productores, servicios de apoyo y usuarios tienen prohibi
 
 ###### Artículo 55.
 
-Los comerciantes, productores y los servicios de apoyo. no podrán marcar con pintura o cualquier otro material sus espacios, ni en las columnas, pisos y paredes del Centro.
+Los comerciantes, productores y los servicios de apoyo, no podrán marcar con pintura o cualquier otro material sus espacios, ni en las columnas, pisos y paredes del Centro.
 
 ###### Artículo 56.
 
-Los comerciantes y servicios de apoyo no podrán portar armas de fuego, vender o ingerir bebidas alcohólicas, así como productos tóxicos. enervantes, inflamables, juegos pirotécnicos y veladoras dentro de las instalaciones del Centro.
+Los comerciantes y servicios de apoyo no podrán portar armas de fuego, vender o ingerir bebidas alcohólicas, así como productos tóxicos, enervantes, inflamables, juegos pirotécnicos y veladoras dentro de las instalaciones del Centro.
 
 ###### Artículo 57.
 
@@ -622,7 +622,7 @@ Corresponderá a la Delegación vigilar el cumplimiento de las disposiciones adm
 
 ###### Artículo 68.
 
-Para efectos de verificación o revocación administrativa de la autorización expedida por la Delegación, se realizará un procedimiento que se iniciará de oficio o por queja que por escrito reciba la Delegación de los usuarios o de otros comercializadores. Una vez que se reciba la queja, la Delegación procederá a realizar una visita de verificación de la que se levantara acta circunstanciada. otorgando al visitado un término de cinco días para que realice las manifestaciones que a su derecho convenga; ofrezca y desahogue las pruebas que considere procedentes para desvirtuar el contenido del acta.
+Para efectos de verificación o revocación administrativa de la autorización expedida por la Delegación, se realizará un procedimiento que se iniciará de oficio o por queja que por escrito reciba la Delegación de los usuarios o de otros comercializadores. Una vez que se reciba la queja, la Delegación procederá a realizar una visita de verificación de la que se levantara acta circunstanciada, otorgando al visitado un término de cinco días para que realice las manifestaciones que a su derecho convenga; ofrezca y desahogue las pruebas que considere procedentes para desvirtuar el contenido del acta.
 
 La Delegación una vez concluido el plazo de referencia, calificará el acta circunstanciada, valorará los elementos aportados por el visitado y en un término de 15 días hábiles emitirá la resolución correspondiente.
 
@@ -656,11 +656,11 @@ VIII. Recuperación Administrativa del espacio.
 
 Independientemente de las sanciones a que se hagan acreedores en otras materias, los comerciantes, productores, usuarios y servidores de apoyo, que incumplan con el presente Reglamento, se harán acreedores a las sanciones que a continuación se señalan:
 
-I. Quien infrinja el artículo 13, en cuanto al horario de funcionamiento, se emitirán dos amonestaciones con apercibimiento por escrito. En caso de reincidencia se procederá en primera instancia a la aplicación de una multa, conforme al Reglamento de Mercados para el Distrito Federal y, en segunda instancia. la revocación de la autorización.
+I. Quien infrinja el artículo 13, en cuanto al horario de funcionamiento, se emitirán dos amonestaciones con apercibimiento por escrito. En caso de reincidencia se procederá en primera instancia a la aplicación de una multa, conforme al Reglamento de Mercados para el Distrito Federal y, en segunda instancia, la revocación de la autorización.
 
 II. Quien infrinja el artículo 13 fracción VIII del presente Reglamento, se procederá al retiro de enseres y se le revocara la autorización para comercializar en el centro de manera definitiva.
 
-III. Quien infrina (sic) el artículo 13 fracciones I a VIII, se procederá al retiro de enseres y a la aplicación de una multa, conforme al Reglamento de Mercados para el Distrito Federal. En caso de reincidencia. se revocará la autorización correspondiente.
+III. Quien infrina (sic) el artículo 13 fracciones I a VIII, se procederá al retiro de enseres y a la aplicación de una multa, conforme al Reglamento de Mercados para el Distrito Federal. En caso de reincidencia, se revocará la autorización correspondiente.
 
 IV. Quien infrinja el artículo 39, se procederá a la revocación de la autorización.
 
@@ -670,7 +670,7 @@ VI. Quien infrinja el artículo 42, se procederá a la revocación de la autoriz
 
 VII. Quien infrinja el artículo 46, se procederá al retiro de los enseres y a la aplicación de una multa, conforme al Reglamento de Mercados para el Distrito Federal.
 
-VIII. Quien infrinja el artículo 47. se realizarán dos amonestaciones con apercibimiento por escrito. En caso de reincidencia, se aplicará multa conforme al Reglamento de Mercados para el Distrito Federal.
+VIII. Quien infrinja el artículo 47, se realizarán dos amonestaciones con apercibimiento por escrito. En caso de reincidencia, se aplicará multa conforme al Reglamento de Mercados para el Distrito Federal.
 
 IX. Quien infrinja el artículo 48, se procederá, a consideración de la Delegación, emitir uno o dos amonestaciones con apercibimiento por escrito o la revocación de la autorización.
 
@@ -686,7 +686,7 @@ XIV. Independientemente de las sanciones aplicables en materia penal o de justic
 
 XV. A quien infrinja el artículo 58, se procederá al retiro de los enseres y la aplicación de una multa, conforme a lo establecido en el Reglamento de Mercados para el Distrito Federal.
 
-XVI. A quien infrinja el artículo 59, se emitirá una amonestación con apercibimiento por escrito. En caso de reincidencia, se procederá al retiro de los enseres y la aplicación de una multa. conforme a lo establecido en el Reglamento de Mercados para el Distrito Federal.
+XVI. A quien infrinja el artículo 59, se emitirá una amonestación con apercibimiento por escrito. En caso de reincidencia, se procederá al retiro de los enseres y la aplicación de una multa, conforme a lo establecido en el Reglamento de Mercados para el Distrito Federal.
 
 XVII. A quien infrinja el artículo 60, se emitirá una amonestación con apercibimiento por escrito. En caso de reincidencia y atendiendo a la gravedad de la falta y a consideración de la Delegación, se procederá a la revocación de la autorización.
 
@@ -704,7 +704,7 @@ XXIII. A quien infrinja (sic) 102, procederá al retiro de los enseres y se apli
 
 ###### Artículo 72.
 
-Para la fijación de las sanciones administrativas, la Delegación tornará en consideración. la gravedad de las infracciones, la reincidencia, las condiciones económicas del comerciante y las demás circunstancias que sirvan para individualizar la sanción.
+Para la fijación de las sanciones administrativas, la Delegación tornará en consideración, la gravedad de las infracciones, la reincidencia, las condiciones económicas del comerciante y las demás circunstancias que sirvan para individualizar la sanción.
 
 ## Titulo Séptimo. De los Espacios Reservados a la Delegación
 
@@ -736,7 +736,7 @@ Los locales, espacios, pasillos interiores, andenes, estacionamientos y vialidad
 
 ###### Artículo 78.
 
-los locales y espacios de comercialización, así como las áreas comunes, deberán contar con depósitos o contenedores, para la recolección de basura. los cuales se cubrirán con tapa de cierre ajustado. Cuando estos depósitos se llenen a las tres cuartas partes de su capacidad deberá vaciarse su contenido en los contenedores generales o recolectores comunes evitando así la acumulación de desechos fuera de las áreas destinadas para tal efecto.
+Los locales y espacios de comercialización, así como las áreas comunes, deberán contar con depósitos o contenedores, para la recolección de basura, los cuales se cubrirán con tapa de cierre ajustado. Cuando estos depósitos se llenen a las tres cuartas partes de su capacidad deberá vaciarse su contenido en los contenedores generales o recolectores comunes evitando así la acumulación de desechos fuera de las áreas destinadas para tal efecto.
 
 ###### Artículo 79.
 
@@ -830,7 +830,7 @@ Queda estrictamente prohibido guardar o almacenar desechos o basura dentro de lo
 
 ###### Artículo 99.
 
-Los comercializadores, usuarios y servicios de apoyo. están obligados a reportar de inmediato a la Administración cualquier irregularidad que se presente con la recolección de basura y desecho en los contenedores generales o recolectores comunes.
+Los comercializadores, usuarios y servicios de apoyo, están obligados a reportar de inmediato a la Administración cualquier irregularidad que se presente con la recolección de basura y desecho en los contenedores generales o recolectores comunes.
 
 ###### Artículo 100.
 
@@ -857,3 +857,19 @@ Tercero: Lo no previsto por el presente Reglamento será determinado por el Cons
 México, Distrito Federal a los 30 días del mes de enero del año dos mil dos.- El Secretario de Desarrollo Económico. Lic. Alejandro Encinas Rodríguez Rúbrica, la Jefa Delegacional del Gobierno del Distrito Federal en Milpa Alta, C. María Guadalupe Chavira de la Rosa, Lic. Gustavo Calderón Villaverde, Representante de la Secretaría de Finanzas, Lic. Roció González Higuera, Directora de General de Comercio Abasto Comercio y Distribución por lo (sic) productores C. Marcos Cruz Ramírez, el C. Miguel Ángel Villanueva, el C. Germán Pedro Alvarado Galicia y el C. Javier Ríos Jiménez.
 
 México Distrito Federal, a los dieciocho días del mes de marzo del año dos mil dos.- La Secretaria de Desarrollo Económico, Lic. Jenny Saltiel Cohen, la Jefa Delegacional del Gobierno del Distrito Federal en Milpa Alta, C. Maña Guadalupe Chavira de la Rosa, Lic. Gustavo Calderón Villaverde, Representante de la Secretaria de Finanzas, Lic. Pablo Enriquez Maldonado, Director General de Abasto, Comercio y Distribución, por los productores C. Marcos Cruz Ramírez, el C. Miguel Angel Villanueva, el C. Germán Pedro Alvarado Galicia y el C. Javier Ríos Jiménez. (Firmas).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 14 DE OCTUBRE DE 2014.
+
+PRIMERO.- Se abroga el Reglamento Interior del Centro de Acopio y Comercialización de Nopal Verdura en Milpa Alta, Distrito Federal publicado el 26 de marzo de 2002.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- El presente Reglamento entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+CUARTO.- Los procedimientos que se encuentran en trámite serán resueltos, de conformidad con la normatividad anterior.
+
+QUINTO.- Los Órganos a que se refiere el presente Reglamento deberán de quedar integrados dentro de un plazo no mayor de 6 meses.
+
+SEXTO.- Lo no previsto en el presente Reglamento, será determinado por el Consejo Directivo.
