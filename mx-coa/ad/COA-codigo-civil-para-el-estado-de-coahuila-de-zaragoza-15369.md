@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2014-09-16"
+last_updated: "2014-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COA"
 ---
 # CODIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE OCTUBRE DE 2014 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2014.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 14 DE OCTUBRE DE 2014.</small>
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 25 de junio de 1999.
 
@@ -2579,9 +2579,9 @@ III. Trastorno mental incurable, previa declaración de interdicción que se hag
 
 En estos casos el juez podrá decretar esa suspensión, con conocimiento de causa, quedando subsistentes las demás obligaciones derivadas del matrimonio.
 
-> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2014) (F. DE E., P.O. 14 DE OCTUBRE DE 2014)
 
-### CAPÍTULO IV (SIC). DEL CONCUBINATO
+### CAPÍTULO VII. DEL CONCUBINATO
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE SEPTIEMBRE DE 2014)</small>
 
