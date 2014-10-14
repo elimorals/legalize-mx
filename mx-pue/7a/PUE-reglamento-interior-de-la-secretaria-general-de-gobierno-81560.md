@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-general-de-gobierno-81560"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-13"
-last_updated: "2011-08-03"
+last_updated: "2014-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE PUEBLA, PUBLICADO EN EL P.O. DE 14 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 13 de mayo de 2011.
 
@@ -737,7 +739,7 @@ XXIV. Proponer al Coordinador General de Administración, el diseño del materia
 
 XXV. Elaborar y actualizar los convenios y contratos materia de su competencia;
 
-XXVI. Coordinar el Programa Interno de Protección Civil; y (sic)
+XXVI. Coordinar el Programa Interno de Protección Civil; y
 
 > <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
 
@@ -1701,7 +1703,7 @@ IX. Mantener un archivo electrónico confiable que permita ofrecer información 
 
 X. Asesorar a los diferentes funcionarios municipales que así lo soliciten, sobre el correcto ejercicio de sus funciones, con apego a las disposiciones legales aplicables y en lo que para el efecto establezca el Secretario o el Subsecretario de Asuntos Políticos y Protección Civil; y
 
-XI. Las demás que en materia de su competencia se establezcan en este Reglamento, en los ordenamientos legales vigentes, reglamentos, decretos, acuerdos, convenios y contratos, así como las que le confiera el Secretario, el Subsecretario Asuntos (sic) Políticos y Protección Civil o el Director General de Gobierno.
+XI. Las demás que en materia de su competencia se establezcan en este Reglamento, en los ordenamientos legales vigentes, reglamentos, decretos, acuerdos, convenios y contratos, así como las que le confiera el Secretario, el Subsecretario (sic) Asuntos Políticos y Protección Civil o el Director General de Gobierno.
 
 La Dirección de Gobierno estará adscrita a la Dirección General de Gobierno y a cargo de un titular, auxiliado por los Subdirectores y demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas.
 
@@ -1779,7 +1781,7 @@ IV. Dar seguimiento a los problemas sociales que se generan en la entidad y sus 
 
 V. Realizar sondeos de opinión pública sobre asuntos políticos y gobernabilidad; y
 
-VI. Las demás que en materia de su competencia se establezcan en este Reglamento, en los ordenamientos legales vigentes, reglamentos, decretos, acuerdos, convenios y contratos, así como las que le confiera el Secretario, el Subsecretario Asuntos (sic) Políticos y Protección Civil o el Director General de Análisis Político.
+VI. Las demás que en materia de su competencia se establezcan en este Reglamento, en los ordenamientos legales vigentes, reglamentos, decretos, acuerdos, convenios y contratos, así como las que le confiera el Secretario, el Subsecretario (sic) Asuntos Políticos y Protección Civil o el Director General de Análisis Político.
 
 La Dirección de Estudios estará adscrita a la Dirección General de Análisis Político y a cargo de un titular, auxiliado por los Jefes de Departamento y demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas.
 
@@ -1957,7 +1959,7 @@ XII. Celebrar previo acuerdo del Secretario, convenios de colaboración con inst
 
 XIII. Coordinar, previo acuerdo del Secretario, los mecanismos para que todos los ciudadanos, sin exclusión alguna, se integren a los procesos de participación ciudadana activa y corresponsabilidad impulsados por el Gobierno del Estado;
 
-XIV. Proponer al Secretario, el establecimiento de políticas públicas, normas, programas y procedimientos en las (sic) que se sumen las capacidades y recursos del Gobierno del Estado, de las organizaciones económicas y de las organizaciones no lucrativas, con el objeto de atender problemas comunes que se presentan en los diversos sectores de la sociedad;
+XIV. Proponer al Secretario, el establecimiento de políticas públicas, normas, programas y procedimientos en las que se sumen las capacidades y recursos del Gobierno del Estado, de las organizaciones económicas y de las organizaciones no lucrativas, con el objeto de atender problemas comunes que se presentan en los diversos sectores de la sociedad;
 
 XV. Proponer al Secretario, cambios, sustentos normativos y legales en materia de participación ciudadana, cultura de valores, responsabilidades civiles y ciudadanas, y corresponsabilidad, para el fortalecimiento de los programas, proyectos y acciones correspondientes;
 
@@ -2281,6 +2283,20 @@ Dado en la Sede del Poder Ejecutivo del Estado, en la Heroica Puebla de Zaragoza
 
 P.O. 3 DE AGOSTO DE 2011.
 
-PRIMERO.- EI presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se dejan sin efecto todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE OCTUBRE DE 2014.
+
+PRIMERO. El presente Decreto, deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día siguiente al de su publicación.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría General de Gobierno del Estado de Puebla, publicado en el Periódico Oficial del Estado, el trece de mayo de dos mil once.
+
+TERCERO. Las unidades administrativas de la Secretaría, deberán realizar las modificaciones conducentes en los sellos y la papelería oficial que utilizan para el adecuado desarrollo de sus funciones.
+
+CUARTO. Los asuntos que hubiesen iniciado su trámite con anterioridad a la entrada en vigor del presente Decreto, serán de la competencia de la Unidad Administrativa de la Secretaría General de Gobierno a la que le sean conferidas las facultades que correspondan conforme a este Reglamento.
+
+QUINTO. Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material, que a la entrada en vigor del presente Decreto, se refiera a unidades administrativas que desaparecen o modifican su denominación, se entenderá atribuida a las unidades administrativas a que se refiere el presente ordenamiento y a las que atribuya la competencia específica que en cada caso se relacione.
+
+SEXTO. Se dejan sin efecto las disposiciones que se opongan al presente Decreto.
