@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-responsabilidades-de-los-servidores-publicos-del-6355"
 country: "mx"
 rank: "ley"
 publication_date: "1984-09-27"
-last_updated: "2012-12-14"
+last_updated: "2014-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES Y REGISTRO PATRIMONIAL DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE MICHOACÁN Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 14 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2014 (ABROGADA).
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el jueves 27 de septiembre de 1984.
 
@@ -782,3 +784,17 @@ P.O. 14 DE DICIEMBRE DE 2012.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. El Titular del Poder Ejecutivo del Estado realizará lo conducente para que el Registro Único de Personas Acreditadas en Michoacán comience a operar en un plazo no mayor a ciento ochenta días contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 14 DE OCTUBRE DE 2014.
+
+Artículo Primero. El presente Decreto entraraì (sic) en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo. Se abroga la Ley de Responsabilidades de los Servidores Públicos del Estado de Michoacán publicada en el Periódico Oficial el 27 de Septiembre de 1984.
+
+Artículo Tercero. Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente ordenamiento.
+
+Artículo Cuarto. El Titular del Poder Ejecutivo del Estado realizará lo conducente a efecto de establecer los órganos internos de control en cada una de sus dependencias y entidades paraestatales, de manera inmediata.
+
+Artículo Quinto. Las autoridades garantes publicarán el Código de Ética respectivo en un plazo de noventa días hábiles a partir de la entrada en vigor del presente Decreto.
+
+Artículo Sexto. Las acciones u omisiones irregulares relativas al servicio público, así como los procedimientos iniciados antes de la entrada en vigor del presente Decreto, seguirán rigiéndose conforme la normatividad aplicable al momento de su ejecución o inicio.
