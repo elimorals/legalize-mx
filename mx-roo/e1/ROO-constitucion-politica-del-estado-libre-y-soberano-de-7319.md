@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2014-10-09"
+last_updated: "2014-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2014.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -556,6 +556,10 @@ Toda persona tiene derecho al acceso, disposición y saneamiento de agua para co
 Toda persona tiene derecho a gozar individual y colectivamente de un medio ambiente sano para su desarrollo y bienestar, así como el deber de conservarlo en beneficio de las generaciones presentes y futuras.
 
 Es una obligación fundamental del Estado, con la activa participación de la sociedad, garantizar que la población se desenvuelva en un ambiente sano. El Estado y los Municipios dictarán, en el ámbito de sus respectivas competencias, las medidas que deberán llevar a cabo las autoridades para garantizar su protección, preservación, restauración y mejoramiento.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2014)</small>
+
+Toda persona tiene derecho al acceso a la cultura y al disfrute de los bienes y servicios que presta el Estado en la materia, así como el ejercicio de sus derechos culturales. El Estado promoverá los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa. La ley respectiva establecerá los mecanismos para el acceso y participación a cualquier manifestación cultural.
 
 Para quienes violen lo dispuesto en el presente artículo en los términos que fije la Ley, se establecerán sanciones penales, o en su caso administrativas, así como la obligación de reparar el daño.
 
@@ -1875,7 +1879,7 @@ III. Padecer incapacidad física o mental declarada legalmente, incluso cuando �
 
 > <small>(ADICIONADO, P.O. 14 DE MAYO DE 2013)</small>
 
-Los Magistrados Numerarios del Tribunal Superior de Justicia del Estado tienen derecho al haber de retiro, siempre y cuando hayan sido reelectos en el cargo mediante Decreto de la Legislatura del Estado, y concluyan los períodos que establece esta Constitución, de conformidad a las disposiciones que establece la Ley Orgánica del Poder Judicial del Estado.
+Los Magistrados Numerarios del Tribunal Superior de Justicia del Estado tienen derecho al haber de retiro, siempre y cuando hayan sido reelectos en el cargo mediante Decreto de la Legislatura del Estado, y concluyan los periodos que establece esta Constitución, de conformidad a las disposiciones que establece la Ley Orgánica del Poder Judicial del Estado.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -2667,9 +2671,25 @@ EST P.V. X Y
 
 42 43 S 65°25'58"E 833.981 467675.680 2257242.454 42
 
-43 1
+43 1 Sobre la línea de costa 468434.164 2256895.718 43
 
-Sobre la línea de costa del Mar Caribe hacia el sur hasta llegar al vértice 1. Se respeta el polígono del Xel-Ha perteneciente al Municipio de Cozumel descrito en el Artículo 128 fracción IV párrafo cuarto de la Constitución Política del Estado Libre y Soberano de Quintana Roo. 468434.164 2256895.718 43
+del Mar Caribe hacia
+
+el sur hasta llegar al vértice
+
+1. Se respeta el polígono
+
+del Xel-Ha perteneciente al
+
+Municipio de Cozumel descrito
+
+en el Artículo 128 fracción IV
+
+párrafo cuarto de la Constitución
+
+Política del Estado Libre y
+
+Soberano de Quintana Roo.
 
 Se excluyen de su jurisdicción, las áreas descritas en la fracción IV párrafo cuarto de este artículo.
 
@@ -4015,7 +4035,7 @@ P.O. 18 DE MARZO DE 2008.
 
 DECRETO NUM. 293, POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 80 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
 
-UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roa.
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 P.O. 19 DE MAYO DE 2008.
 
@@ -4512,3 +4532,7 @@ P.O. 9 DE OCTUBRE DE 2014.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Los Consejeros Ciudadanos que se encuentran en funciones podrán ser reelectos en términos del presente Decreto.
+
+P.O. 15 DE OCTUBRE DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
