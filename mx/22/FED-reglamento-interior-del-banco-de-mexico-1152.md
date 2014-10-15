@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2013-10-31"
+last_updated: "2014-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE OCTUBRE DE 2014.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -69,7 +69,7 @@ La Junta de Gobierno y sus miembros, contarán con los asesores que la propia Ju
 
 Las actas de las sesiones de la Junta de Gobierno se conservarán en volúmenes anuales y serán firmadas por quien haya presidido la Junta y por el Secretario, así como por los miembros de la Junta de Gobierno asistentes que quieran hacerlo, debiéndose conservar en un apéndice un ejemplar de los documentos que hubieran sido relacionados en la sesión de que se trate.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE OCTUBRE DE 2014)</small>
 
 ###### ARTICULO 4o.
 
@@ -95,6 +95,8 @@ Dirección General de Tecnologías de la Información
 
 Dirección General Jurídica
 
+Dirección de Administración de Emisión
+
 Dirección de Administración de Riesgos
 
 Dirección de Análisis Macroeconómico
@@ -107,7 +109,7 @@ Dirección de Asuntos Internacionales
 
 Dirección de Comunicación
 
-Dirección de Contabilidad y Presupuesto
+Dirección de Contabilidad, Planeación y Presupuesto
 
 Dirección de Control Interno
 
@@ -393,7 +395,9 @@ A esta Dirección General estará adscrita la Dirección de Intermediarios Finan
 
 La Dirección General de Sistemas de Pagos y Servicios Corporativos tendrá las atribuciones que se señalan en los artículos 20, 26, 27 y 27 Bis de este Reglamento.
 
-A esta Dirección General estarán adscritas las Direcciones de Sistemas de Pagos, de Recursos Humanos, de Recursos Materiales y de Contabilidad y Presupuesto.
+> <small>(REFORMADO, D.O.F. 15 DE OCTUBRE DE 2014)</small>
+
+A esta Dirección General estarán adscritas las Direcciones de Sistemas de Pagos, de Recursos Humanos, de Recursos Materiales y de Contabilidad, Planeación y Presupuesto.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -415,25 +419,13 @@ La Dirección General de Relaciones Institucionales tendrá las atribuciones que
 
 A esta Dirección General estarán adscritas las Direcciones de Comunicación y de Vinculación Institucional.
 
-> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 15 DE OCTUBRE DE 2014)</small>
 
 ###### ARTICULO 16.
 
-La Dirección General de Emisión tendrá las atribuciones que se señalan en los artículos 16 Bis, 16 Bis 1 y 28 Bis de este Reglamento, así como las siguientes:
+La Dirección General de Emisión tendrá las atribuciones que se señalan en los artículos 16 Bis, 16 Bis 1, 16 Bis 2 y 28 Bis de este Reglamento, así como la de atender y resolver los requerimientos que le presenten las autoridades o particulares, relativos al análisis de monedas nacionales o extranjeras, para determinar si las mismas son falsas o hubieren sido alteradas.
 
-I. Diseñar los billetes de banco y otros impresos de seguridad;
-
-II. Formular y coordinar, además de participar en la ejecución de medidas y programas en las áreas de medio ambiente y seguridad e higiene industrial, respecto de aquellas materias de su competencia;
-
-III. Supervisar el manejo de efectivo, metales preciosos, valores e insumos para la fabricación de billetes;
-
-IV. Atender y resolver los requerimientos que le presenten las autoridades o particulares, relativos al análisis de monedas nacionales o extranjeras, para determinar si las mismas son falsas o hubieren sido alteradas;
-
-V. Comercializar monedas o piezas que hubieren tenido ese carácter, con empaque o acabado especial y metales. También podrá comercializar bienes elaborados en la Fábrica de Billetes, conforme a lo dispuesto en el artículo 62 de la Ley, y
-
-VI. Registrar y controlar contablemente los costos e inventarios relacionados con la fabricación de billete y acuñación de moneda metálica.
-
-A esta Dirección General estarán adscritas las Direcciones de Programación y Distribución de Efectivos, de Fábrica de Billetes y de Seguridad.
+A esta Dirección General estarán adscritas las Direcciones de Programación y Distribución de Efectivos, de Fábrica de Billetes, de Administración de Emisión y de Seguridad.
 
 > <small>(ADICIONADO, D.O.F. 7 DE ABRIL DE 2004)</small>
 
@@ -492,6 +484,20 @@ I. Realizar los actos necesarios para la fabricación de billetes y su entrega a
 II. Realizar la manufactura de billetes de banco y otros impresos de seguridad en sus instalaciones, y
 
 III. Participar en la ejecución de medidas en las áreas de medio ambiente y seguridad e higiene industrial, respecto de aquellas materias que conforme a este artículo sean de su competencia.
+
+> <small>(ADICIONADO, D.O.F. 15 DE OCTUBRE DE 2014)</small>
+
+ARTICULO 16 BIS 2.- La Dirección de Administración de Emisión tendrá las atribuciones siguientes:
+
+I. Diseñar los billetes de banco y otros impresos de seguridad;
+
+II. Formular, coordinar y participar en la ejecución de programas en materia ambiental, así como de seguridad e higiene industrial, en el ámbito de competencia de la Dirección General de Emisión;
+
+III. Supervisar el manejo de efectivo, metales preciosos, valores e insumos para la fabricación de billetes;
+
+IV. Comercializar monedas o piezas que hubieren tenido ese carácter, con empaque o acabado especial, metales, medallas, así como los bienes elaborados en la Fábrica de Billetes conforme a lo dispuesto en el artículo 62, fracciones II y III, de la Ley, y
+
+V. Registrar y controlar contablemente los costos e inventarios relacionados con la fabricación de billete y acuñación de moneda metálica.
 
 ###### ARTICULO 17.
 
@@ -945,11 +951,9 @@ IV. Desempeñar las funciones encomendadas al Banco como fiduciario, en los fide
 
 V. Cumplir con las obligaciones legales y reglamentarias a cargo del Banco, en su carácter de patrón;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADA, D.O.F. 15 DE OCTUBRE DE 2014)</small>
 
-> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2009)</small>
-
-VI. Gestionar y administrar la venta de billetes, monedas y medallas, así como los seguros de vida y daños, contratados por cuenta del personal y pensionados;
+VI. Gestionar y administrar los seguros de vida y daños, contratados por cuenta del personal y pensionados;
 
 VII. Vigilar que los créditos otorgados por el Banco a sus trabajadores, se encuentren debidamente garantizados;
 
@@ -975,65 +979,39 @@ XI. Desempeñar las funciones encomendadas al Banco en el Fideicomiso para el De
 
 XII. Llevar el registro de la organización del Banco, aprobar sus adecuaciones, así como emitir opiniones y/o recomendaciones respecto a la estructura organizacional y sobre las propuestas que presenten las unidades administrativas que requieran aprobación del Gobernador o de la Junta de Gobierno, de conformidad con los términos y plazos que al efecto se acuerde con las citadas unidades administrativas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 15 DE OCTUBRE DE 2014)</small>
 
 ###### ARTICULO 27.
 
-La Dirección de Contabilidad y Presupuesto tendrá las atribuciones siguientes:
-
-> <small>(REFORMADA, D.O.F. 16 DE MARZO DE 2001)</small>
+La Dirección de Contabilidad, Planeación y Presupuesto tendrá las atribuciones siguientes:
 
 I. Proponer a la Junta de Gobierno las normas y criterios a que se refiere la fracción XI del artículo 46 de la Ley, así como vigilar su aplicación;
 
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2010)</small>
-
 II. Efectuar los pagos derivados del ejercicio del presupuesto de gasto corriente, inversión en activos fijos e inversión en activo circulante, por medio de los sistemas institucionales, con excepción de los efectuados por las sucursales del Banco, así como registrar en la contabilidad del Banco los pagos correspondientes;
-
-> <small>(REFORMADA, D.O.F. 16 DE MARZO DE 2001)</small>
 
 III. Elaborar y suscribir los estados financieros aprobados en términos de la fracción X del artículo 46 de la Ley;
 
-> <small>(REFORMADA, D.O.F. 16 DE MARZO DE 2001)</small>
-
 IV. Normar y supervisar el registro contable de las operaciones que realice el Banco y el cumplimiento de las obligaciones fiscales correspondientes;
-
-> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2013)</small>
 
 V. Registrar y controlar contablemente el activo fijo y los inventarios y costos distintos a los relacionados con la fabricación de billetes y acuñación de moneda metálica;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2009)</small>
-
 VI. Establecer los procedimientos que permitan evaluar la gestión de los recursos presupuestales y costos del Banco;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2009)</small>
 
 VII. Promover que el ejercicio presupuestal sea acorde con las normas y criterios presupuestales, procurando la eficiencia del gasto;
 
-> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2013)</small>
+VIII. Coordinar el proceso de planeación estratégica institucional;
 
-VIII. Coordinar la elaboración del programa de trabajo institucional, así como coordinar el seguimiento y la evaluación del cumplimiento del mismo;
+IX. Coordinar la elaboración del programa de trabajo institucional, así como coordinar el seguimiento y la evaluación del cumplimiento del mismo;
 
-> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2013)</small>
+X. Difundir entre el personal las metas y objetivos de la estrategia y el programa de trabajo institucionales y los resultados de su cumplimiento;
 
-IX. Difundir entre el personal las metas y objetivos de la estrategia y el programa de trabajo institucionales y los resultados de su cumplimiento;
+XI. Promover programas de modernización de los procesos a través de los cuales se realizan las funciones institucionales, buscando su congruencia con los objetivos y prioridades estratégicas del Banco;
 
-> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2013)</small>
+XII. Identificar los proyectos estratégicos de la institución que se incluyan en el presupuesto y dar seguimiento a su implementación;
 
-X. Promover programas de modernización de los procesos a través de los cuales se realizan las funciones institucionales, buscando su congruencia con los objetivos y prioridades estratégicas del Banco;
+XIII. Coordinar la realización de encuestas institucionales internas dirigidas al personal, y
 
-> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2013)</small>
-
-XI. Identificar los proyectos estratégicos de la institución que se incluyan en el presupuesto y dar seguimiento a su implementación, y
-
-> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2013)</small>
-
-XII. Apoyar al auditor externo en las actividades relacionadas con la elaboración de los dictámenes financieros correspondientes.
+XIV. Apoyar al auditor externo en las actividades relacionadas con la elaboración de los dictámenes financieros correspondientes.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -1195,7 +1173,7 @@ V. Evaluar mediante auditorías e investigaciones administrativas la gestión de
 
 VI. Dar seguimiento a las acciones y recomendaciones que deriven de las observaciones determinadas en los trabajos de auditoría y evaluación, tanto las propias, como las emitidas por la Auditoría Superior de la Federación y por el auditor externo, e informar al Comité de Auditoría sobre la situación que guardan las mismas;
 
-VII. Suscribir en términos de las disposiciones aplicables con las dependencias y entidades de la Administración Pública Federal, convenios, acuerdos o programas con fines de cooperación en materia de auditoría, y (sic)
+VII. Suscribir en términos de las disposiciones aplicables con las dependencias y entidades de la Administración Pública Federal, convenios, acuerdos o programas con fines de cooperación en materia de auditoría, y
 
 > <small>(REFORMADA, D.O.F. 1 DE NOVIEMBRE DE 2012)</small>
 
@@ -1507,13 +1485,11 @@ Además se incluirán en el capital contable, los rubros de Remanente de Operaci
 
 El rubro de Reserva Internacional corresponderá a la definición que se contiene en el artículo 19 de la Ley. En Valores Gubernamentales se presentará el neto de las tenencias de esos títulos después de descontar los Depósitos de Regulación Monetaria, sin considerar en este rubro los valores adquiridos o transmitidos mediante reportos, y en caso de saldo acreedor, éste se ubicará en el rubro Depósitos de Regulación Monetaria. En Valores IPAB se presentarán los títulos del Instituto para la Protección al Ahorro Bancario adquiridos por Banco de México. El Crédito a Instituciones Bancarias y Deudores por Reporto incluirá a la banca múltiple, la banca de desarrollo y operaciones de reporto. El rubro Otros Activos se presentará neto de las reservas complementarias de activo que en su caso existan. En los Depósitos Bancarios en Cuenta Corriente se consignará el saldo neto del conjunto de dichas cuentas, de ser acreedor; en caso de que el saldo neto sea deudor, se incluirá en el rubro de Crédito a Instituciones Bancarias y Deudores por Reporto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE OCTUBRE DE 2014)</small>
 
 ###### ARTICULO 39.
 
-Los estados financieros de cada ejercicio y los estados de cuenta consolidados mensuales, deberán ser suscritos por el Gobernador, el Director General de Estrategia, Riesgos y Sistemas de Pagos y el Director de Contabilidad y Presupuesto.
+Los estados financieros de cada ejercicio y los estados de cuenta consolidados mensuales deberán ser suscritos por el Gobernador, el Director General de Sistemas de Pagos y Servicios Corporativos y el Director de Contabilidad, Planeación y Presupuesto.
 
 Al publicarse el balance general se deberá insertar el dictamen del auditor externo del Banco.
 
@@ -1529,11 +1505,9 @@ El balance general deberá publicarse dentro de los cinco días hábiles siguien
 
 Dado a conocer el balance general, el Banco publicará, dentro de los quince días hábiles siguientes, los estados de cuenta consolidados de los meses que hayan transcurrido del ejercicio en curso, y sucesivamente, dentro de los primeros veinte días hábiles de cada mes, el estado de cuenta consolidado correspondiente al mes inmediato anterior, excepto diciembre.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADO, D.O.F. 15 DE OCTUBRE DE 2014)</small>
 
-> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2010)</small>
-
-El Banco publicará semanalmente, con cifras preliminares al cierre del último día hábil de cada semana y dentro de los tres días hábiles siguientes, información resumida sobre sus activos, así como sobre sus pasivos y capital contable, tomando como base los rubros a que se refiere el artículo 38 anterior. Dicha información deberá ser suscrita por el Director de Contabilidad y Presupuesto y, en las ausencias de éste, por el Gerente de Contabilidad e Información Financiera.
+El Banco publicará semanalmente, con cifras preliminares al cierre del último día hábil de cada semana y dentro de los tres días hábiles siguientes, información resumida sobre sus activos, así como sobre sus pasivos y capital contable, tomando como base los rubros a que se refiere el artículo 38 anterior. Dicha información deberá ser suscrita por el Director de Contabilidad, Planeación y Presupuesto y, en las ausencias de este, por el Gerente de Contabilidad e Información Financiera.
 
 ### CAPITULO V. DISPOSICIONES GENERALES
 
@@ -1970,3 +1944,11 @@ PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de Méxic
 SEGUNDO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legales.
 
 TERCERO. Las referencias a las Direcciones Generales o Direcciones que en virtud de la entrada en vigor de las presentes modificaciones hayan desaparecido o cambiado de denominación, y que se encuentren contenidas en cualquier otro acto jurídico, deberán entenderse hechas a las Direcciones Generales o Direcciones que las sustituyan o cuenten con las atribuciones respectivas.
+
+D.O.F. 15 DE OCTUBRE DE 2014.
+
+PRIMERO. Las presentes reformas y adición al Reglamento Interior del Banco de México entrarán en vigor el 16 de octubre de 2014.
+
+SEGUNDO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legales.
+
+TERCERO. Todas las referencias a las Direcciones Generales o Direcciones que en virtud de la entrada en vigor de las presentes modificaciones hayan desaparecido o cambiado de denominación, y que se encuentren contenidas en cualquier otro acto jurídico, deberán entenderse hechas a las Direcciones Generales o Direcciones que las sustituyan o cuenten con las atribuciones respectivas.
