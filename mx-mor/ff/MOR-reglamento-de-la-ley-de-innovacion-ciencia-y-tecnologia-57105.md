@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-ley-de-innovacion-ciencia-y-tecnologia-57105"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-09-26"
-last_updated: "2007-09-26"
+last_updated: "2014-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57105&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO DE LA LEY DE INNOVACION, CIENCIA Y TECNOLOGIA PARA EL ESTADO DE MORELOS
 
-REGLAMENTO DE LA LEY DE INNOVACION, CIENCIA Y TECNOLOGIA PARA EL ESTADO DE MORELOS
+REGLAMENTO DE LA LEY DE INNOVACIÓN, CIENCIA Y TECNOLOGÍA PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE INNOVACIÓN, CIENCIA Y TECNOLOGÍA PARA EL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 15 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en el Alcance del Periódico Oficial del Estado de Morelos, el miércoles 26 de septiembre de 2007.
 
@@ -261,7 +263,7 @@ III. Proponer una quinteta a la Junta Directiva, para que designe de ella a dos 
 
 IV. Expedir certificaciones de constancias de los expedientes relativos a los asuntos de su competencia;
 
-V. Las ausencias temporales del Director General del CCYTEM, serán cubiertas por el Director que éste designe; y (sic)
+V. Las ausencias temporales del Director General del CCYTEM, serán cubiertas por el Director que éste designe; y
 
 VI. La representación del CCYTEM, así como el trámite y resolución de los asuntos de su competencia, corresponden originalmente al Director General quien, para la mejor atención y despacho de los mismos, podrá delegar sus facultades en servidores públicos subalternos, sin perjuicio de su ejercicio directo, excepto aquellas que por disposición legal deban ser ejercidas directamente por él;
 
@@ -1028,3 +1030,15 @@ EL SECRETARIO DE GOBIERNO
 LIC. SERGIO ALVAREZ MATA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE OCTUBRE DE 2014.
+
+PRIMERA. El presente Reglamento iniciará su vigencia a los cinco días siguientes de su publicación en el Periódico Oficial "Tierra y Libertad"; órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones de igual o menor rango Jerárquico normativo que se opongan al presente Reglamento; y se abroga el Reglamento de la Ley de Innovación, Ciencia y Tecnología para el Estado de Morelos, publicado en el Periódico Oficial "Tierra y Libertad", número 4558 Alcance, el veintiséis de septiembre de 2007.
+
+TERCERA. Las disposiciones administrativas vigentes que se expidieron con fundamento en el Reglamento que se abroga, continuarán aplicándose en lo que no se opongan, al presente Reglamento y hasta en tanto no se expidan las nuevas.
+
+CUARTA. La Secretaría de Innovación, Ciencia y Tecnología, expedirá las bases de organización y funcionamiento del Sistema Estatal de Información y Comunicación de Ciencia y Tecnología, en un plazo no mayor a ciento veinte días hábiles contados a partir de la entrada en vigor del presente Reglamento.
