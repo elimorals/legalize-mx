@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-coordinacion-de-transportes-aereos-73
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-17"
-last_updated: "2012-12-07"
+last_updated: "2014-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DE LA COORDINACIÓN DE TRANSPORTES AÉREOS DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 17 de febrero de 2010.
 
@@ -47,11 +47,11 @@ Las disposiciones del presente Reglamento, son de orden e interés público, y t
 
 El presente Reglamento, es de observancia obligatoria para los servidores públicos adscritos a la Coordinación de Transportes Aéreos.
 
-> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 2°.
 
-La Coordinación de Transportes Aéreos es un Órgano Desconcentrado de la Secretaría de Transportes, con plena autonomía técnica, administrativa, operativa, presupuestal, y de ejecución, que tiene a su cargo el despacho de los asuntos que le confiere su Decreto de Creación, el presente Reglamento Interior y demás disposiciones legales aplicables dentro del ámbito de su competencia.
+La Coordinación de Transportes Aéreos, es un Órgano Desconcentrado de la Secretaría de Infraestructura y Comunicaciones, con plena autonomía técnica, administrativa, operativa, presupuestal y de ejecución, que tiene a su cargo el despacho de los asuntos que le confiere su Decreto de Creación, el presente Reglamento Interior y demás disposiciones legales aplicables dentro del ámbito de su competencia.
 
 ###### Artículo 3°.
 
@@ -161,9 +161,9 @@ El Coordinador tendrá las atribuciones indelegables siguientes:
 
 I. Fijar las políticas y organización de la Coordinación, así como evaluar los programas en los términos de la legislación aplicable.
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2014)</small>
 
-II. Acordar con el Titular del Ejecutivo, y en su caso con el titular de la Secretaría de Transportes, los asuntos encomendados a la Coordinación que así lo ameriten.
+II. Acordar con el Titular del Ejecutivo, y en su caso con el titular de la Secretaría de Infraestructura y Comunicaciones, los asuntos encomendados a la Coordinación que así lo ameriten.
 
 > <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
@@ -213,7 +213,7 @@ III. Autorizar comisiones y vacaciones del personal de su adscripción, que en t
 
 IV. Elaborar y ejecutar los programas y proyectos propios del Órgano Administrativo a su cargo.
 
-V. Desempeñar las comisiones y representaciones que le encomie de el Coordinador en el ámbito de su competencia, e informar su resultado.
+V. Desempeñar las comisiones y representaciones que le encomiende el Coordinador en el ámbito de su competencia, e informar su resultado.
 
 VI. Proponer proyectos de elaboración o actualización del Reglamento Interior y Manuales Administrativos de la Coordinación.
 
@@ -253,7 +253,7 @@ XXIII. Establecer normas y lineamientos para el cumplimiento de los programas en
 
 XXIV. Atender y dar respuesta, a las solicitudes de información pública que presenten los ciudadanos, en él ámbito de su competencia.
 
-XXV. Las demás que en el ámbito de su competencia les confieran las disposiciones legales aplicables así como lasque les asigne el Coordinador.
+XXV. Las demás que en el ámbito de su competencia les confieran las disposiciones legales aplicables así como las que les asigne el Coordinador.
 
 ### Capítulo II. De la Integración de las Unidades y de las Atribuciones de sus Titulares
 
@@ -430,3 +430,13 @@ Artículo Tercero. La Coordinación deberá establecer, controlar y evaluar el P
 Artículo Cuarto. En tanto se actualizan los Manuales Administrativos respectivos, el Coordinador resolverá las incidencias de procedimiento y operación que se originen por la aplicación de este ordenamiento legal.
 
 Artículo Quinto. Conforme a lo dispuesto por el artículo 8 de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
+
+P.O. 15 DE OCTUBRE DE 2014.
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+Artículo Tercero. La Coordinación deberá establecer, controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información, observando las normas necesarias para la operación, desarrollo y vigilancia del Programa que establezca la Unidad Estatal de Protección Civil.
+
+Artículo Cuarto. Conforme a lo dispuesto por el artículo 8° de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
