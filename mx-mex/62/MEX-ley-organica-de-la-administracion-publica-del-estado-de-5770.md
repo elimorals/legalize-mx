@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2013-12-02"
+last_updated: "2014-10-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE OCTUBRE DE 2014.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -779,11 +779,11 @@ XXVI. Vigilar y supervisar la operación de clínicas, hospitales y consultorios
 
 XXVII. Adquirir, con sujeción a las bases y procedimientos relativos, el equipo instrumental médico que requieran las unidades aplicativas, así como contratar, en su caso, los servicios para su reparación y mantenimiento, observando las disposiciones en la materia;
 
-XXVIII. Participar en el establecimiento y expedición, en coordinación con las dependencias competentes del Ejecutivo Estatal, de las bases y normas a las que deben sujetarse los concursos para la ejecución de obras del sector salud; y (sic)
+XXVIII. Participar en el establecimiento y expedición, en coordinación con las dependencias competentes del Ejecutivo Estatal, de las bases y normas a las que deben sujetarse los concursos para la ejecución de obras del sector salud; y
 
 > <small>(ADICIONADA, G.G. 26 DE OCTUBRE DE 2011)</small>
 
-XXIX. Participar en la prevención, tratamiento y rehabilitación de la farmacodependencia y coordinarse con las autoridades federales y las instituciones públicas, privadas o sociales para la planeación, programación, ejecución y evaluación de los programas y acciones del proceso para su recuperación, así como para la superación de la problemática; y (sic)
+XXIX. Participar en la prevención, tratamiento y rehabilitación de la farmacodependencia y coordinarse con las autoridades federales y las instituciones públicas, privadas o sociales para la planeación, programación, ejecución y evaluación de los programas y acciones del proceso para su recuperación, así como para la superación de la problemática; y
 
 > <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
 
@@ -1559,7 +1559,9 @@ XVII. Recibir y registrar la manifestación de bienes de los servidores público
 
 XVIII. Atender y dar seguimiento a las denuncias y quejas que presenten los particulares con motivo de acuerdos, convenios o contratos que celebren con las dependencias, organismos auxiliares y fideicomisos de la administración pública estatal.
 
-XIX. Conocer e investigar los actos, omisiones o conductas de los servidores públicos, para constituir responsabilidades administrativas y, en su caso, ordenar se hagan las denuncias correspondientes ante el Ministerio Público, proporcionándole los datos e información que requiera.
+> <small>(REFORMADA, G.G. 16 DE OCTUBRE DE 2014)</small>
+
+XIX. Conocer e investigar los actos, omisiones o conductas de los servidores públicos, para constituir responsabilidades administrativas y, en su caso, ordenar se hagan las denuncias correspondientes ante el ministerio público, proporcionándole los datos e información que requiera. Así como realizar investigaciones, inspecciones y supervisiones, mediante acciones encubiertas y usuario simulado, para verificar la legalidad, honradez, eficiencia y oportunidad de la prestación del servicio público.
 
 XX. Vigilar el cumplimiento de las normas internas de la Secretaría, constituir las responsabilidades administrativas de su personal, aplicándoles las correcciones que correspondan y formular las denuncias o querellas, acusaciones o quejas de naturaleza administrativa o penal, en caso necesario.
 
@@ -2496,3 +2498,21 @@ Fiscal C1i,t C2i,t
 2014 50% 50%
 
 2015 40% 60%
+
+G.G. 16 DE OCTUBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El Titular de la Secretaría de la Contraloría del Poder Ejecutivo del Estado de México, expedirá los lineamientos para el desarrollo y ejecución de las técnicas de investigación denominadas acciones encubiertas y usuario simulado.
+
+###### ARTÍCULO TERCERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO CUARTO.
+
+Se derogan las disposiciones legales de igual o menor jerarquía que sean contrarias a lo establecido en este Decreto.
