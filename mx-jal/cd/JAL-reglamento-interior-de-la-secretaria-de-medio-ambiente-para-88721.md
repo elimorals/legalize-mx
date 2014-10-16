@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-de-medio-ambiente-para-887
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-07-19"
-last_updated: "2012-07-19"
+last_updated: "2014-10-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE MEDIO AMBIENTE PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DE LA SECRETARÍA DE MEDIO AMBIENTE Y DESARROLLO TERRITORIAL, PUBLICADO EN EL P.O. DE 16 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el jueves 19 de julio de 2012.
 
@@ -1204,3 +1206,11 @@ DR. HÉCTOR EDUARDO GÓMEZ HERNÁNDEZ
 Secretario de Medio Ambiente para El Desarrollo Sustentable
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE OCTUBRE DE 2014.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Medio Ambiente para el Desarrollo Sustentable, publicado el 19 de Julio de 2012, sección IV en el Periódico Oficial "El Estado de Jalisco".
