@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2014-06-28"
+last_updated: "2014-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE OCTUBRE DE 2014.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -1373,7 +1373,7 @@ DELITOS CONTRA LA ADMINISTRACION PUBLICA
 
 ###### Artículo 117.
 
-Comete el delito de desobediencia el que sin causa legítima rehusare prestar un servicio de interés público a que la ley lo obligue.
+Comete el delito de desobediencia el que sin causa legítima, rehusare prestar un servicio de interés público a que la ley lo obligue.
 
 También comete este delito, quien desobedezca una medida cautelar, providencia precautoria o medida de protección dictada por el Ministerio Público o por una autoridad judicial o cualquier mandato legítimo de una autoridad competente.
 
@@ -1569,7 +1569,7 @@ VII. Cuando realice una conducta ilícita u omita una lícita debida, que lesion
 
 VIII. Cuando se detenga a una persona durante la averiguación previa fuera de los casos previstos por la ley; la retenga por más de cuarenta y ocho horas o de noventa y seis en los casos de delincuencia organizada; la consigne sin que preceda denuncia, acusación o querella; o la mantenga en incomunicación;
 
-IX. Cuando sin orden de la autoridad competente, obligue a los particulares a presentar documentos o realice la inspección en bienes de su propiedad o posesión; en incomunicación; vínculo familiar, de negocio o afectivo; y (sic)
+IX. Cuando sin orden de la autoridad competente, obligue a los particulares a presentar documentos o realice la inspección en bienes de su propiedad o posesión; en incomunicación; vínculo familiar, de negocio o afectivo; y
 
 X. Cuando después de haber ejecutado una orden de aprehensión, no ponga al inculpado a disposición del juez sin dilación alguna;
 
@@ -2069,15 +2069,17 @@ A los inculpados de los delitos previstos en las fracciones VII a XII, se les im
 
 Comete este delito quien:
 
-I. Aceche, vigile, espíe o proporcione información, sobre las actividades oficiales o personales que realicen o pretendan realizar los servidores públicos de las Instituciones de Seguridad Pública u Órganos Jurisdiccionales con la finalidad de entorpecer o evitar el cumplimiento de sus funciones u ocasionarles un daño a dichas instituciones, órganos o servidores públicos;
+> <small>(REFORMADA, G.G. 16 DE OCTUBRE DE 2014)</small>
+
+I. Aceche, vigile, espíe, rastree, proporcione información, o realice actos tendientes a obtener información sobre las actividades oficiales o personales, ubicación, operativos o, en general, relacionadas con sus funciones, que realicen o pretendan realizar los servidores públicos de las Instituciones de Seguridad Pública, los integrantes del ejército, marina armada o fuerza aérea nacional, cuando actúen en auxilio de las autoridades u Órganos Jurisdiccionales del Estado, con la finalidad de que, por sí o por tercera persona, se entorpezca o evite el cumplimiento de sus funciones o se ocasione un daño a dichas instituciones, órganos o servidores públicos;
 
 II. Ingrese, altere o acceda a información de las instituciones de seguridad pública u órganos jurisdiccionales con los fines señalados en el párrafo anterior;
 
 III. Aceche, vigile, espíe o proporcione información, sobre las actividades que realice o pretenda realizar cualquier persona con la finalidad de ocasionarle un daño; y
 
-> <small>(F. DE E., G.G. 9 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, G.G. 16 DE OCTUBRE DE 2014)</small>
 
-IV. Para fines de asechanza, vigilancia o espionaje porte tres o más teléfonos celulares, sistemas de comunicación electrónica o de radio comunicación, o bien, no justifique su propiedad o legítima posesión.
+IV. Para la realización de alguna de las conductas y fines descritos en la fracción I de este artículo, porte o posea teléfono celular, sistemas de telecomunicaciones o de radiocomunicación;
 
 > <small>(ADICIONADA, G.G. 14 DE MAYO DE 2014)</small>
 
@@ -2087,11 +2089,15 @@ V. Permita, tolere o facilite la introducción de teléfonos celulares, sistemas
 
 VI. Trafique o introduzca teléfonos celulares, sistemas de comunicación electrónica o de radiocomunicación, dinero, drogas o enervantes, armas, o cualquier otro objeto o substancia prohibida al interior de los Centros Preventivos y de Readaptación Social del Estado de México, con excepción de los casos previstos en las disposiciones jurídicas aplicables.
 
-Las conductas establecidas en este artículo se sancionarán con pena de 6 a 10 años de prisión y de cien a doscientos días multa (sic), sin perjuicio de las penas que les correspondan por los delitos que cometan.
+Las conductas establecidas en este artículo se sancionarán con pena de 6 a 10 años de prisión y de cien a doscientos días multa, sin perjuicio de las penas que les correspondan por los delitos que cometan.
 
 > <small>(ADICIONADO, G.G. 14 DE MAYO DE 2014)</small>
 
 No se actualizará el delito en el caso de los visitantes que ingresen y salgan de los Centros Preventivos y de Readaptación Social portando dinero de su propiedad, hasta por un monto de 17 días de salario mínimo, el cual deberá ser declarado al ingreso.
+
+> <small>(ADICIONADO, G.G. 16 DE OCTUBRE DE 2014)</small>
+
+Si derivado de la realización de alguna de las conductas del delito previstas en este artículo se cometiere otro delito, se sancionará al partícipe por ambos delitos, de conformidad con las reglas del concurso de delitos.
 
 > <small>(ADICIONADO, G.G. 6 DE ENERO DE 2012)</small>
 
@@ -2101,7 +2107,7 @@ La pena señalada en el artículo anterior se agravará en los siguientes térmi
 
 I. Si el delito es cometido por servidores públicos de Instituciones de Seguridad Pública u Órganos Jurisdiccionales del Estado de México, se aumentará la pena hasta una mitad más de la que corresponda. Además, se impondrá la destitución definitiva del empleo, cargo o comisión públicos e inhabilitación para desempeñar otro de 5 a 15 años;
 
-II. Tratándose de miembros de Instituciones Policiales de la Federación, del Distrito Federal o de otros (sic) Entidades Federativas, se aumentará la pena hasta una mitad más de la que corresponda. Además se impondrá inhabilitación para desempeñar igual o similar empleo, cargo o comisión de 5 a 15 años; y (sic)
+II. Tratándose de miembros de Instituciones Policiales de la Federación, del Distrito Federal o de otros (sic) Entidades Federativas, se aumentará la pena hasta una mitad más de la que corresponda. Además se impondrá inhabilitación para desempeñar igual o similar empleo, cargo o comisión de 5 a 15 años; y
 
 III. Si el delito fuera cometido por ex servidores públicos de Instituciones de Seguridad Pública u Órganos Jurisdiccionales de la Federación, del Distrito Federal, de los Estados o los Municipios, o de ex integrantes de las fuerzas armadas se aumentará la pena hasta una tercera parte más de la que corresponda.
 
@@ -2257,7 +2263,7 @@ Al que incurra en este delito, se le impondrá prisión de uno a tres años y de
 
 Comete este delito el que:
 
-I. Sin ser funcionario público se atribuya ese carácter o ejerza alguna función pública sin derecho; y (sic)
+I. Sin ser funcionario público se atribuya ese carácter o ejerza alguna función pública sin derecho; y
 
 II. Se atribuya o acepte por cualquier medio el carácter de profesionista sin tener título legal o ejerza los actos propios de una profesión sin título o sin autorización legal.
 
@@ -2759,7 +2765,7 @@ El Ministerio Público solicitará al Sistema Estatal para el Desarrollo Integra
 
 Este delito se perseguirá por querella, salvo cuando los ofendidos sean menores de edad o incapaces; en cuyo caso, se perseguirá de oficio. En el caso de las fracciones I y II, para que el perdón concedido por el ofendido pueda extinguir la pretensión punitiva, deberá el inculpado pagar todas las cantidades que hubiere dejado de ministrar por concepto de alimentos y garantizará el pago futuro de los mismos, por un término no menor a un año.
 
-Al inculpado de este delito, además de las sanciones señaladas, se le impondrá la pérdida de los derechos inherentes a la patria potestad del menor o incapaz agraviado, por resolución judicial.
+Al inculpado de este delito, además de las sanciones señaladas, se le impondrá la perdida de los derechos inherentes a la patria potestad del menor o incapaz agraviado, por resolución judicial.
 
 El inculpado de este delito, durante la investigación del mismo y al rendir su declaración, será apercibido por el Ministerio Público para que se abstenga de realizar cualquier conducta que pudiere causar daño a los pasivos.
 
@@ -3133,7 +3139,7 @@ VI. Cuando las lesiones sean calificadas, se aumentará la pena de prisión de s
 
 > <small>(REFORMADA, G.G. 18 DE MARZO DE 2011)</small>
 
-VII. Cuando la víctima u ofendido sea ascendiente, descendiente, hermano, pupilo, tutor, cónyuge, concubina o concubinario, o mantenga una relación sentimental o afectiva con el inculpado, se aumentarán de seis meses a dos años de prisión; y (sic)
+VII. Cuando la víctima u ofendido sea ascendiente, descendiente, hermano, pupilo, tutor, cónyuge, concubina o concubinario, o mantenga una relación sentimental o afectiva con el inculpado, se aumentarán de seis meses a dos años de prisión; y
 
 > <small>(REFORMADA, G.G. 26 DE NOVIEMBRE DE 2004)</small>
 
@@ -3267,7 +3273,7 @@ I. Premeditación: cuando se cometen después de haber reflexionado sobre su eje
 
 II. Ventaja: cuando el inculpado no corra riesgo alguno de ser muerto o lesionado por el ofendido;
 
-III. Alevosía: cuando se sorprende intencionalmente a alguien de improviso o empleando asechanza; y (sic)
+III. Alevosía: cuando se sorprende intencionalmente a alguien de improviso o empleando asechanza; y
 
 IV. Traición: cuando se emplea la perfidia, violando la fe o la seguridad que expresamente se había prometido a la víctima, o la tácita que ésta debía esperar en razón del parentesco, gratitud, amistad o cualquier otra que inspire confianza.
 
@@ -3795,7 +3801,7 @@ IV. Cuando por razón del delito de violación se causare la muerte, se impondr�
 
 > <small>(REFORMADA, G.G. 1 DE OCTUBRE DE 2010)</small>
 
-V. Cuando el ofendido sea menor de quince años o mayor de sesenta, se le impondrá de quince a treinta años de prisión y de trescientos a dos mil quinientos días multa. Sin perjuicio, en su caso, de la agravante contenida en la fracción II de este artículo; y (sic)
+V. Cuando el ofendido sea menor de quince años o mayor de sesenta, se le impondrá de quince a treinta años de prisión y de trescientos a dos mil quinientos días multa. Sin perjuicio, en su caso, de la agravante contenida en la fracción II de este artículo; y
 
 > <small>(ADICIONADA, G.G. 1 DE OCTUBRE DE 2010)</small>
 
@@ -4047,7 +4053,7 @@ I. El robo a que se refieren los artículos 288 fracciones I, II y III y 291, si
 
 > <small>(REFORMADA, G.G. 3 DE MAYO DE 2013)</small>
 
-II. El robo a que se refieren los artículos 289 fracciones I, II, III y VI; 290 fracciones VII, VIII, IX, X y XI, siempre que no concurra alguna de las circunstancias a que se refieren las fracciones I, II, III, IV, V, VI y XVIII de este último artículo y que el sujeto activo sea primodelincuente; circunstancias que deberán verificarse fehacientemente, con los elementos necesarios, entre otros, los antecedentes penales que obren en los archivos correspondientes, por el Ministerio Público Investigador o por la autoridad judicial, en su caso;
+II. El robo a que se refieren los artículos 289 fracciones I, II, III y VI; 290 fracciones VII, VIII, IX, X y XI, siempre que no concurra alguna de las circunstancias a que se refieren las fracciones I, II, III, IV, V, VI y XVIII de este último artículo y que el sujeto activo sea primodelincuente; circunstancias que deberán verificarse fehacientemente, con los elementos necesarios, entre otros, los antecedentes penales que obren en los archivos correspondientes, por el Ministerio Público Investigador o por la autoridad Judicial, en su caso;
 
 > <small>(REFORMADA, G.G. 1 DE ABRIL DE 2004)</small>
 
@@ -4365,7 +4371,7 @@ SEGUNDO.- Este Código, entrará en vigor cinco días después de su publicació
 
 TERCERO.- Se abroga el Código Penal para el Estado de México publicado en la Gaceta del Gobierno el veintiséis de enero de mil novecientos ochenta y seis.
 
-CUARTO.- El Código abrogado seguirá aplicándose para los hechos u omisiones ejecutados durante su vigencia, a menos que conforme al nuevo Código, hayan dejado de considerarse como delitos o que los sujetos al mismo manifiesten su voluntad de acogerse, al presente ordenamiento como mas favorable.
+CUARTO.- El Código abrogado seguirá aplicándose para los hechos u omisiones ejecutados durante su vigencia, a menos que conforme al nuevo Código, hayan dejado de considerarse como delitos o que los sujetos al mismo manifiesten su voluntad de acogerse, al presente ordenamiento como más favorable.
 
 QUINTO.- El artículo 148, que se refiere al delito de prestación ilícita del servicio público de transporte de pasajeros, entrará en vigor a los tres años, a partir del inicio de la vigencia del presente decreto.
 
@@ -4611,13 +4617,13 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 TERCERO.- La reforma al Penúltimo Párrafo del artículo 12, y la adición de un Segundo Párrafo a la fracción VI del artículo 162 del Código de Procedimientos Penales para el Estado de México, estarán en vigor en los siguientes términos:
 
-Hasta, el treinta y uno de marzo de dos mil diez en los Distritos Judiciales de Chalco, Otumba y Texcoco;
+Hasta, el treinta y uno de marzo de dos mil diez en los Distritos judiciales de Chalco, Otumba y Texcoco;
 
 Hasta, el treinta de septiembre de dos mil diez en los Distritos Judiciales de Nezahualcóyotl, El Oro. Ixtlahuaca. Sultepec y Temascaltepec;
 
 Hasta, el treinta y uno de marzo de dos mil once en los Distritos Judiciales de Tlalnepantla, Cuautitlán y Zumpango;
 
-Hasta, el treinta de septiembre de dos mil once en los Distritos Judiciales de Ecatepec de Morelos, Jilotepec y Valle de Chalco.
+Hasta, el treinta de septiembre de dos mil once en los Distritos judiciales de Ecatepec de Morelos, Jilotepec y Valle de Chalco.
 
 CUARTO.- Los artículos 2.134 al 2.140 del Código de Procedimientos Civiles del Estado de México, quedarán derogados en las fechas y términos señalados a continuación:
 
@@ -5244,3 +5250,9 @@ Se exhorta al Procurador General de Justicia del Estado de México, para que la 
 DÉCIMO SEXTO. La Legislatura del Estado, expedirá las normas aplicables para el cumplimiento de las funciones y fines del Instituto, señaladas en la fracción XV del artículo 168 y VIII del artículo 171 de este Decreto.
 
 DÉCIMO SÉPTIMO. Por única ocasión los procesos electorales ordinarios locales correspondientes a las elecciones que tendrán lugar el primer domingo de junio del año 2015, el proceso electoral iniciará en la primera semana del mes de octubre de 2014.
+
+G.G. 16 DE OCTUBRE DE 2014.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
