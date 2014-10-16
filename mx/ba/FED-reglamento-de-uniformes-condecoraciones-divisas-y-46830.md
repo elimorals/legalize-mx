@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-uniformes-condecoraciones-divisas-y-46830"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-11-21"
-last_updated: "2005-11-21"
+last_updated: "2014-10-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46830&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,13 @@ issue_date: "2005-11-14"
 ---
 # REGLAMENTO DE UNIFORMES, CONDECORACIONES, DIVISAS Y DISTINTIVOS DE LA ARMADA DE MEXICO
 
-REGLAMENTO DE UNIFORMES, CONDECORACIONES, DIVISAS Y DISTINTIVOS DE LA ARMADA DE MEXICO
+REGLAMENTO DE UNIFORMES, CONDECORACIONES, DIVISAS Y DISTINTIVOS DE LA ARMADA DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE UNIFORMES, DIVISAS Y DISTINTIVOS PARA LA ARMADA DE MÉXICO, PUBLICADO EN EL D.O.F. DE 16 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Reglamento publicado en la Primera Sección del Diario Oficial de la Federacion, el lunes 21 de noviembre de 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE OCTUBRE DE 2014 (ABROGADO).
+
+Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 21 de noviembre de 2005.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -2225,13 +2227,13 @@ Los distintivos del Cuerpo General serán los siguientes:
 
 Los distintivos del Cuerpo de Aeronáutica Naval serán los siguientes:
 
-(VEASE ARCHVIO ANEXO)
+(VEASE ARCHIVO ANEXO)
 
 ###### Artículo 94.
 
 Los distintivos del Cuerpo de Infantería de Marina serán los siguientes:
 
-(VEASZE ARCHIVO ANEXO)
+(VEASE ARCHIVO ANEXO)
 
 ###### Artículo 95.
 
@@ -2291,7 +2293,7 @@ Los distintivos del Servicio de Meteorología Naval serán los siguientes:
 
 Los distintivos del Servicio de Músicos Navales serán los siguientes:
 
-(VEASE ARCH IVO ANEXO)
+(VEASE ARCHIVO ANEXO)
 
 ###### Artículo 105.
 
@@ -2528,3 +2530,15 @@ PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su public
 SEGUNDO. Se abroga el Reglamento de Uniformes Divisas y Distintivos de la Armada de México publicado en el Diario Oficial de la Federación el 31 de mayo de 2000, y se abrogan todas las disposiciones que se opongan al presente Reglamento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los catorce días del mes de noviembre de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Marina, Marco Antonio Peyrot González.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 16 DE OCTUBRE DE 2014.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento de Uniformes, Condecoraciones, Divisas y Distintivos de la Armada de México, publicado en el Diario Oficial de la Federación el 21 de noviembre del 2005 y se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+TERCERO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Reglamento deberán cubrirse con cargo al presupuesto aprobado a la Secretaría de Marina en el Presupuesto de Egresos de la Federación correspondiente, por lo que no se requerirá de ampliaciones presupuestales y no se incrementará su presupuesto regularizable durante el presente ejercicio fiscal.
+
+CUARTO. La Secretaría de Marina emitirá el Manual de Uniformes, Divisas, Condecoraciones y Distintivos para la Armada de México en un plazo de ciento ochenta días contando a partir de la entrada en vigor del presente Reglamento.
