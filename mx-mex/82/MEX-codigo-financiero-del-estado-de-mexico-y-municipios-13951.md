@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2014-03-03"
+last_updated: "2014-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE DICIEMBRE DE 2013.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA G.G. DE 3 DE MARZO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE OCTUBRE DE 2014.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -1455,57 +1453,43 @@ VII. Recibir de las autoridades fiscales estatales en el inicio del ejercicio de
 
 VIII. Los demás que este Código y otros ordenamientos señalen.
 
+> <small>(REFORMADO, G.G. 16 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 47.
 
 Son obligaciones de los contribuyentes:
 
 I. Inscribirse en los registros fiscales en un plazo que no excederá de treinta días a partir de la fecha en que se genere la obligación fiscal, utilizando las formas oficiales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Tratándose del Impuesto sobre Tenencia o Uso de Vehículos, inscribir el vehículo en el padrón vehicular de la entidad, dentro de los treinta días siguientes contados a partir de la fecha de adquisición, así como realizar todos aquellos trámites de control vehicular que modifiquen y actualicen el registro del vehículo, conforme a los procedimientos y requisitos que establezca la Secretaría.
 
-> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
+II. Tramitar la baja del vehículo del padrón vehicular de la entidad, en caso de siniestro que derive en pérdida total del vehículo, robo, deje de ser el propietario, tenedor o usuario, en un término que no exceda de treinta días a partir de que ocurra el evento.
 
-Tratándose del Impuesto sobre Tenencia o Uso de Vehículos, inscribir el vehículo en el padrón vehicular de la entidad, dentro de los treinta días siguientes contados a partir de la fecha de adquisición.
+La presentación del aviso no libera de contribuciones pendientes de pago.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+III. Realizar el trámite de cambio de propietario del vehículo, en un término que no exceda de treinta días posteriores a la adquisición del mismo.
 
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+IV. Señalar el domicilio fiscal en el que realicen actividades que generen obligaciones fiscales que será único para aquellos contribuyentes que cuenten con una o más sucursales e informar de los cambios a éste. Cuando en las formas de declaración se prevea el señalamiento de cambio de domicilio fiscal y así se manifieste, se considerará presentado el aviso a que se refiere este artículo al presentar dicha declaración ante la autoridad recaudadora correspondiente.
 
-II. Señalar el domicilio fiscal en el que realicen actividades que generen obligaciones fiscales que será único para aquellos contribuyentes que cuenten con una o más sucursales e informar de los cambios a éste. Cuando en las formas de declaración se prevea el señalamiento de cambio de domicilio fiscal y así se manifieste, se considerará presentado el aviso a que se refiere este artículo al presentar dicha declaración ante la autoridad recaudadora correspondiente.
+V. Consignar en las declaraciones, manifestaciones y avisos previstos en este Código, la clave de registro asignada por la autoridad fiscal.
 
-III. Consignar en las declaraciones, manifestaciones y avisos previstos en este Código, la clave de registro asignada por la autoridad fiscal.
+VI. Declarar y en su caso, pagar los créditos fiscales en los términos que disponga este Código.
 
-IV. (DEROGADA, G.G. 2 DE DICIEMBRE DE 2013)
+VII. Firmar las declaraciones, manifestaciones y avisos previstos por este Código, bajo protesta de decir verdad.
 
-V. Declarar y en su caso, pagar los créditos fiscales en los términos que disponga este Código.
+VIII. Proporcionar en su domicilio fiscal o en las oficinas de la autoridad fiscal, dentro del plazo fijado para ello, los datos, informes y demás documentación relacionada con el cumplimiento de sus obligaciones fiscales, así como permitir que los visitadores obtengan copias de la misma para su cotejo y certificación.
 
-VI. Firmar las declaraciones, manifestaciones y avisos previstos por este Código, bajo protesta de decir verdad.
+IX. Llevar un registro en que se identifique el cumplimiento de cada una de sus obligaciones fiscales, que permita a la autoridad fiscal ejercer sus facultades de comprobación, cuando realicen actividades empresariales.
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-VII. Proporcionar en su domicilio fiscal o en las oficinas de la autoridad fiscal, dentro del plazo fijado para ello, los datos, informes y demás documentación relacionada con el cumplimiento de sus obligaciones fiscales, así como permitir que los visitadores obtengan copias de la misma para su cotejo y certificación.
-
-VIII. Llevar un registro en que se identifique el cumplimiento de cada una de sus obligaciones fiscales, que permita a la autoridad fiscal ejercer sus facultades de comprobación, cuando realicen actividades empresariales.
-
-IX. Conservar en su domicilio fiscal la documentación comprobatoria del cumplimiento de obligaciones fiscales, durante el período de cinco años, contados a partir de la fecha en que presentaron o debieron haberse presentado las declaraciones o avisos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
+X. Conservar en su domicilio fiscal la documentación comprobatoria del cumplimiento de obligaciones fiscales, durante el período de cinco años, contados a partir de la fecha en que se presentaron o debieron haberse presentado las declaraciones o avisos.
 
 El plazo para conservar la documentación respecto de aquellos conceptos en los cuales se hubiese promovido algún medio de defensa, se computará a partir de la fecha en la que quede firme la resolución correspondiente.
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+XI. Facilitar a las autoridades catastrales y fiscales el ejercicio de sus facultades de comprobación, cobro y los trabajos para la instalación de instrumentos de medición.
 
-X. Facilitar a las autoridades catastrales y fiscales el ejercicio de sus facultades de comprobación, cobro y los trabajos para la instalación de instrumentos de medición.
+XII. Proporcionar a las autoridades fiscales, cuando así se lo soliciten, la información sobre sus clientes y proveedores, así como aquélla relacionada con su contabilidad que tengan en los medios o registros electrónicos.
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-XI. Proporcionar a las autoridades fiscales, cuando así se lo soliciten, la información sobre sus clientes y proveedores, así como aquélla relacionada con su contabilidad que tengan en los medios o registros electrónicos.
-
-> <small>(REFORMADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
-
-XII. Presentar los avisos que modifiquen los datos declarados o la situación fiscal del contribuyente para efectos de su registro, de acuerdo a los siguientes supuestos:
+XIII. Presentar los avisos que modifiquen los datos declarados o la situación fiscal del contribuyente para efectos de su registro, de acuerdo a los siguientes supuestos:
 
 A). Cambio o corrección de nombre, denominación o razón social.
 
@@ -1553,49 +1537,17 @@ En el caso de suspensión de actividades se deberá señalar un domicilio fiscal
 
 En el caso de cambio de domicilio fiscal una vez iniciadas las facultades de comprobación con el contribuyente, sin que se le haya notificado la resolución a que se refiere el penúltimo párrafo de las fracciones I y III del artículo 48 de este Código, el contribuyente deberá presentar el aviso de cambio de domicilio con cinco días de anticipación a tal situación. La autoridad fiscal podrá considerar como domicilio fiscal del contribuyente aquél en el que se verifique alguno de los supuestos establecidos en el artículo 22 de este Código.
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-XIII. Dictaminar la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal por medio de Contador Público autorizado, en los términos de este Código y de conformidad con las reglas de carácter general que al efecto expidan las autoridades fiscales.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2011)</small>
-
-XIV. Tramitar la baja del vehículo del padrón vehicular de la entidad, en caso de siniestro que derive en pérdida total del vehículo, robo, deje de ser el propietario, tenedor o usuario, en un término que no exceda de treinta días a partir de que ocurra el evento.
-
-La presentación del aviso no libera de contribuciones pendientes de pago.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
+XIV. Dictaminar la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal por medio de Contador Público autorizado, en los términos de este Código y de conformidad con las reglas de carácter general que al efecto expidan las autoridades fiscales.
 
 XV. Entregar constancias de retención, en caso de estar obligado conforme a las disposiciones de este Código.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+XVI. Dictaminar la determinación de la base del Impuesto Predial conforme a las tablas de valores unitarios de suelo y construcciones publicadas en el Periódico Oficial “Gaceta del Gobierno” del Estado de México, de conformidad con este Código y las demás disposiciones que se expidan para tal efecto.
 
-> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2010)</small>
+XVII. Las demás que establezca este Código.
 
-XVI. Realizar el trámite de cambio de propietario del vehículo, en un término que no exceda de treinta días posteriores a la adquisición del mismo.
+En el ámbito municipal, las personas físicas o jurídicas colectivas que en términos de este Código no estén obligadas a pagar contribuciones y realicen por sí o por interpósita persona actividades industriales, mercantiles, comerciales o de prestación de servicios, de forma fija, semifija, temporal o permanentemente, estarán obligadas a registrarse dentro de un plazo que no excederá de 30 días a partir de que inicien funciones, ante la tesorería municipal o la autoridad que el ayuntamiento designe para efectos de ser dados de alta en el padrón correspondiente, obteniendo así su certificado de funcionamiento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, G.G. 16 DE DICIEMBRE DE 2011)</small>
-
-XVII. Dictaminar la determinación de la base del Impuesto Predial conforme a las tablas de valores unitarios de suelo y construcciones publicadas en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, de conformidad con éste Código y las demás disposiciones que se expidan para tal efecto.
-
-> <small>(ADICIONADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-XVIII. Las demás que establezca este Código.
-
-> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
-
-En el ámbito municipal, las personas físicas o jurídicas colectivas que en términos de este Código no estén obligadas a pagar contribuciones y realicen por si o por interpósita persona actividades industriales, mercantiles, comerciales o de prestación de servicios, de forma fija, semifija, temporal o permanentemente, estarán obligadas a registrarse dentro de un plazo que no excederá de 30 días a partir de que inicien funciones, ante la tesorería municipal o la autoridad que el ayuntamiento designe para efectos de ser dados de alta en el padrón correspondiente, obteniendo así su certificado de funcionamiento.
-
-> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-El registro a que se refiere la fracción VIII de este artículo incluirá los registros contables, cuentas especiales, documentos y papeles de trabajo que realicen o lleven los contribuyentes aún cuando no sean obligatorios, los libros y registros sociales a que obliguen las disposiciones fiscales de este Código y otras leyes, los cuales se consideran que forman parte de la contabilidad de los contribuyentes.
-
-> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+El registro a que se refiere la fracción IX de este artículo incluirá los registros contables, cuentas especiales, documentos y papeles de trabajo que realicen o lleven los contribuyentes aún cuando no sean obligatorios, los libros y registros sociales a que obliguen las disposiciones fiscales de este Código y otras leyes, los cuales se consideran que forman parte de la contabilidad de los contribuyentes.
 
 En los casos en los que las demás disposiciones de este Código hagan referencia a la contabilidad, se entenderá que la misma se integra por los registros contables, cuentas especiales, documentos, papeles de trabajo, libros y registros sociales señalados en el párrafo precedente, por los equipos y sistemas electrónicos de registro fiscal y sus registros, así como por la documentación comprobatoria de los asientos respectivos y los comprobantes de haber cumplido con las disposiciones fiscales.
 
@@ -1609,9 +1561,9 @@ Las personas físicas y jurídico colectivas que estén obligadas a determinar e
 
 I. Las que hayan realizado pagos por concepto de remuneraciones al trabajo personal prestado dentro del territorio del Estado a más de 200 trabajadores en promedio mensual.
 
-II. Las que hayan realizado pagos por concepto de remuneraciones al trabajo personal prestado dentro del territorio del Estado superiores a $400.000.00 en promedio mensual.
+II. Las que hayan realizado pagos por concepto de remuneraciones al trabajo personal prestado dentro del territorio del Estado superiores a $400,000.00 en promedio mensual.
 
-III. Las que se encuentren obligadas a retener y enterar dicho impuesto en términos del presente Código, que hayan contratado servicios que generen la prestación de trabajo personal dentro del territorio del Estado por más de 200 trabajadores o cuando la base para la determinación de dicha retención haya sido superior a $400.000.00, en promedio mensual.
+III. Las que se encuentren obligadas a retener y enterar dicho impuesto en términos del presente Código, que hayan contratado servicios que generen la prestación de trabajo personal dentro del territorio del Estado por más de 200 trabajadores o cuando la base para la determinación de dicha retención haya sido superior a $400,000.00, en promedio mensual.
 
 IV. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2008)
 
@@ -3583,7 +3535,7 @@ c) Llevar un registro en el que se consigne el monto correspondiente al valor de
 
 > <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 172, PUBLICADO EN LA G.G. DE 2 DE DICIEMBRE DE 2013, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE CAPÍTULO.</small>
 
-> <small>(REFORMADOA SU DENOMINACIÓN, G.G. 2 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 #### SECCION PRIMERA. DISPOSICIONES GENERALES
 
@@ -4981,7 +4933,7 @@ Se exceptúan de lo anterior, los permisos para servicio con vehículos de propu
 
 VII. Por la expedición de autorizaciones o modificaciones complementarias de las concesiones y permisos que correspondan, respecto de:
 
-A). Autorización de ruta o área geográfica de operación del servicio público de transporte en las modalidades de colectivo, mixto, de arrastre y de salvamento, y de arrastre y traslado, por cada vehículo. (Sic)
+A). Autorización de ruta o área geográfica de operación del servicio público de transporte en las modalidades de colectivo, mixto, de arrastre y de salvamento, y de arrastre y traslado, por cada vehículo.
 
 B). Modificación de rutas o área geográfica de operación del servicio público de transporte en las modalidades referidas en el inciso que antecede, por cada vehículo: $2,128
 
@@ -10589,7 +10541,7 @@ II. El Secretario de Finanzas;
 
 III. El Director General del Instituto de Información e Investigación Geográfica, Estadística y Catastral del Estado de México;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VEÁSE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 17 DE JULIO DE 2013)</small>
 
@@ -16575,7 +16527,7 @@ CUARTO.- Los Ayuntamientos u Organismos Públicos Descentralizados para la prest
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE JULIO DE 2007)</small>
 
-QUINTO.- Los organismos descentralizados municipales prestadores del servicio de agua, deberán llevar a cabo un diagnóstico que permita conocer la situación actual de cada uno de ellos, con la finalidad de mejorar las eficiencias (sic) físicas, operativas, financieras, comerciales, entre otras, motivo por el cual, se constituirá un fondo para contratar los servicio de empresas especializadas en este tipo de trabajados, que se integre con recursos del Gobierno del Estado, a través de la Comisión del Agua del Estado de México y de los ayuntamientos, por un monto de $120'000,000.00 (CIENTO VEINTE MILLONES DE PESOS 00/100 M.N.), en partes iguales, sin menoscabo de la participación de otras instituciones.
+QUINTO.- Los organismos descentralizados municipales prestadores del servicio de agua, deberán llevar a cabo un diagnóstico que permita conocer la situación actual de cada uno de ellos, con la finalidad de mejorar las eficiencias físicas, operativas, financieras, comerciales, entre otras, motivo por el cual, se constituirá un fondo para contratar los servicio de empresas especializadas en este tipo de trabajados, que se integre con recursos del Gobierno del Estado, a través de la Comisión del Agua del Estado de México y de los ayuntamientos, por un monto de $120'000,000.00 (CIENTO VEINTE MILLONES DE PESOS 00/100 M.N.), en partes iguales, sin menoscabo de la participación de otras instituciones.
 
 Para acceder a los recursos de este fondo, se deberá celebrar un convenio de coordinación entre los Gobiernos del Estado y los municipios, de acuerdo a las circunstancias particulares de cada municipio, en donde se establezca la intervención de cada uno de ellos.
 
@@ -16585,7 +16537,7 @@ SEXTO.- Los recursos presupuestarios que el Gobierno del Estado aporte al Fondo 
 
 En congruencia con lo anterior, los recursos que los ayuntamientos aporten al Fondo deberán reflejarse en su respectivo presupuesto de egresos para el ejercicio fiscal 2007.
 
-SÉPTIMO.- Para el seguimiento y vigilancia del cumplimiento del convenio, se constituye una comisión integrada por diputados de la Legislatura del Estado de México, representantes de la Secretaría del Agua y obra (sic) Pública, y la Comisión del Agua del Estado de México, así como representantes de los ayuntamientos por sí o a través de sus organismos descentralizados prestadores de los servicios de agua potable y, en su caso, con la asesoría de las autoridades federales competentes.
+SÉPTIMO.- Para el seguimiento y vigilancia del cumplimiento del convenio, se constituye una comisión integrada por diputados de la Legislatura del Estado de México, representantes de la Secretaría del Agua y obra Pública, y la Comisión del Agua del Estado de México, así como representantes de los ayuntamientos por sí o a través de sus organismos descentralizados prestadores de los servicios de agua potable y, en su caso, con la asesoría de las autoridades federales competentes.
 
 G.G. 1 DE FEBRERO DE 2007.
 
@@ -17154,3 +17106,11 @@ G.G. 1 DE ENERO DE 2014.
 Primero.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
 
 Segundo.- Hágase del conocimiento de las Dependencias de la Administración Pública del Gobierno del Estado de México, y de las Unidades Administrativas de la Subsecretaría de Ingresos.
+
+G.G. 16 DE OCTUBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- En un plazo de sesenta días hábiles siguientes a la entrada en vigor del presente Decreto, el Titular del Ejecutivo del Estado proveerá en la esfera administrativa el cumplimiento del mismo, expidiendo y en su caso, reformando las disposiciones reglamentarias respectivas.
