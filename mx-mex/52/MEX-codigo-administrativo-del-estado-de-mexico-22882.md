@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2014-08-01"
+last_updated: "2014-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE JULIO DE 2014.
-
-N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DE 1 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE OCTUBRE DE 2014.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -6365,11 +6363,13 @@ Con la finalidad de garantizar la seguridad de los pasajeros, los vehículos de 
 
 La Secretaría de Transporte deberá proporcionar en forma mensual a la Secretaría de Finanzas los datos, informes y documentos a fin de verificar, unificar y mantener actualizado el padrón vehicular para efectos fiscales.
 
-> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.G. 16 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 7.
 
-8.- Corresponde a la Secretaría de Finanzas matricular los vehículos destinados al transporte de uso particular, expidiendo las placas de matriculación, calcomanías, tarjetas de circulación y demás elementos de identificación que se estimen necesarios.
+8.- Corresponde a la Secretaría de Finanzas matricular los vehículos destinados al transporte de uso particular, expidiendo las placas de matriculación, calcomanías, tarjetas de circulación y demás elementos de identificación que se estimen necesarios; así como realizar todos aquellos trámites de control vehicular que modifiquen y actualicen el registro del vehículo.
+
+Para tal efecto, la Secretaría de Finanzas emitirá Reglas de Carácter General a través de las cuales se definan los procedimientos y requisitos para trámites de control vehicular, considerando, en su caso, el uso de medios electrónicos, debiendo publicarse en el Periódico Oficial "Gaceta del Gobierno".
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -16826,3 +16826,11 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Para el debido cumplimiento del programa en materia de prevención del suicidio, el Ejecutivo del Estado proveerá los recursos financieros para los siguientes ejercicios fiscales, de acuerdo a la disponibilidad presupuestal.
+
+G.G. 16 DE OCTUBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- En un plazo de sesenta días hábiles siguientes a la entrada en vigor del presente Decreto, el Titular del Ejecutivo del Estado proveerá en la esfera administrativa el cumplimiento del mismo, expidiendo y en su caso, reformando las disposiciones reglamentarias respectivas.
