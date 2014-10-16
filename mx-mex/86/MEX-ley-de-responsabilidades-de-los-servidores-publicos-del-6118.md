@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-responsabilidades-de-los-servidores-publicos-del-6118"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-11"
-last_updated: "2014-06-28"
+last_updated: "2014-10-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE OCTUBRE DE 2014.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 11 de septiembre de 1990.
 
@@ -655,7 +655,41 @@ Para los efectos de esta Ley se entenderá por salario mínimo mensual, el equiv
 
 La Secretaría y los órganos de control interno de las dependencias, de los organismos auxiliares y fideicomisos públicos, serán competentes para identificar, investigar y determinar las responsabilidades de los servidores públicos, así como para imponer las sanciones disciplinarias a que se refiere el artículo 49 de esta ley.
 
+> <small>(ADICIONADO, G.G. 16 DE OCTUBRE DE 2014)</small>
+
+La Secretaría podrá realizar acciones encubiertas y usuario simulado, en las investigaciones, inspecciones y supervisiones que realice a los servidores públicos en el ejercicio de sus atribuciones, permitiendo con ello, conocer la calidad con que ofrecen los servicios y trámites y detectar posibles actos de corrupción.
+
+> <small>(ADICIONADO, G.G. 16 DE OCTUBRE DE 2014)</small>
+
+Se entiende por acción encubierta la técnica empleada para identificar, investigar y sancionar hechos y conductas violatorias de la Ley y sus disposiciones reglamentarias, mediante la participación legalmente autorizada de los servidores públicos que actúan con una identidad supuesta. Y por usuario simulado, la investigación para evaluar la actuación de los servidores públicos, permitiendo conocer la calidad con que ofrecen los servicios y trámites, y detectar posibles actos de corrupción.
+
+> <small>(ADICIONADO, G.G. 16 DE OCTUBRE DE 2014)</small>
+
+Los medios de prueba que se recaben a través de las técnicas de investigación de acciones encubiertas y usuario simulado harán prueba plena.
+
+> <small>(ADICIONADO, G.G. 16 DE OCTUBRE DE 2014)</small>
+
+En caso de que de las investigaciones, inspecciones y supervisiones se desprendan hechos constitutivos de delito, la Secretaría dará vista al Ministerio Público.
+
 Tratándose de presidentes municipales, regidores y síndicos, la imposición de las sanciones a que se refiere este artículo, corresponde a la Legislatura, y respecto a los demás servidores públicos municipales, su aplicación corresponde al presidente municipal en términos del tercer párrafo del artículo 47 de esta ley.
+
+> <small>(ADICIONADO, G.G. 16 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 52 Bis.
+
+Los servidores públicos que realicen este tipo de acciones, deberán cumplir los siguientes requisitos:
+
+I. Ser ciudadano mexicano, en ejercicio de sus derechos políticos y civiles;
+
+II. Gozar de buena fama y solvencia moral;
+
+III. Ser residente del Estado de México;
+
+IV. Contar con estudios académicos mínimos de licenciatura o nivel superior,
+
+V. No estar inhabilitado por resolución firme para el desempeño de sus funciones públicas;
+
+VI. Aprobar el proceso de evaluación de control de confianza.
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
@@ -1412,3 +1446,21 @@ Se exhorta al Procurador General de Justicia del Estado de México, para que la 
 DÉCIMO SEXTO. La Legislatura del Estado, expedirá las normas aplicables para el cumplimiento de las fundones y fines del Instituto, señaladas en la fracción XV del artículo 168 y VIII del artículo 171 de este Decreto.
 
 DÉCIMO SÉPTIMO. Por única ocasión los procesos electorales ordinarios locales correspondientes a las elecciones que tendrán lugar el primer domingo de junio del año 2015, el proceso electoral iniciará en la primera semana del mes de octubre de 2014.
+
+G.G. 16 DE OCTUBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El Titular de la Secretaría de la Contraloría del Poder Ejecutivo del Estado de México, expedirá los lineamientos para el desarrollo y ejecución de las técnicas de investigación denominadas acciones encubiertas y usuario simulado.
+
+###### ARTÍCULO TERCERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO CUARTO.
+
+Se derogan las disposiciones legales de igual o menor jerarquía que sean contrarias a lo establecido en este Decreto.
