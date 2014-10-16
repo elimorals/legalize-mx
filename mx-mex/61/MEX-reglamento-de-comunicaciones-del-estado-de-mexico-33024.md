@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-comunicaciones-del-estado-de-mexico-33024"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-07-01"
-last_updated: "2009-02-05"
+last_updated: "2014-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO DE COMUNICACIONES DEL ESTADO DE MEXICO
 
-REGLAMENTO DE COMUNICACIONES DEL ESTADO DE MEXICO
+REGLAMENTO DE COMUNICACIONES DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE FEBRERO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE OCTUBRE DE 2014.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 1 de julio de 2003.
 
@@ -37,11 +37,11 @@ REGLAMENTO DE COMUNICACIONES DEL ESTADO DE MEXICO
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, G.G. 14 DE JULIO DE 2005)</small>
+> <small>(REFORMADO, G.G. 16 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 1.
 
-El presente ordenamiento tiene por objeto reglamentar las disposiciones del Libro Séptimo del Código Administrativo del Estado de México, en materia de comunicaciones de Infraestructura Vial Primaria.
+El presente ordenamiento es de orden público e interés social y tiene por objeto reglamentar las disposiciones del Libro Décimo Séptimo del Código Administrativo del Estado de México, en materia de comunicaciones de infraestructura vial primaria.
 
 ###### Artículo 2.
 
@@ -607,7 +607,7 @@ VII. Si el predio cuenta con construcción, se deberá anexar copia de la Licenc
 
 VIII. Los desarrollos, empresas, personas Físicas y/o Jurídicas Colectivas que tengan antecedentes de dictamen vial, deberán anexar copia del documento que ampare el cumplimiento del mismo.
 
-> <small>(DEROGADO ULTIMO PARRAFO, G.G. 5 DE FEBRERO DE 2009)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.G. 5 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 51.
 
@@ -691,55 +691,287 @@ Es competencia de la Secretaría el otorgamiento de concesiones para elaborar es
 
 Al término de la vigencia de la concesión o de sus prórrogas, los bienes afectos a la concesión pasarán al dominio del Estado sin costo alguno y libres de todo gravamen.
 
-### CAPITULO SEPTIMO. DE LA INTERVENCION
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 16 DE OCTUBRE DE 2014)</small>
+
+### CAPITULO SEPTIMO. DE LA REVOCACION
+
+> <small>(REFORMADO, G.G. 16 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 62.
 
-La intervención de la infraestructura vial y de los sistemas de transporte masivo, concesionados, tendrá por objeto evitar que se interrumpa o se afecte la prestación eficiente de los servicios, y establecer las medidas necesarias para su restablecimiento o corrección.
+La revocación de la concesión de la infraestructura vial de cuota y de los sistemas de transporte masivo es de orden público e interés social, la cual, implica la pérdida definitiva de los derechos de explotación de la concesión, evitando que se interrumpa o afecte la prestación eficiente de los servicios y estableciendo las medidas necesarias para su restablecimiento o corrección.
 
-La intervención se hará mediante decreto del Gobernador del Estado, a propuesta del Secretario, conforme a lo siguiente:
-
-I. Conocida la suspensión o afectación de los servicios, el Secretario propondrá al titular del Ejecutivo la intervención;
-
-II. El decreto de intervención contendrá:
-
-a) Nombre y domicilio del concesionario a quien se dirige la intervención;
-
-b) Designación de las personas que habrán de fungir como interventores y funciones que tendrán asignadas;
-
-c) Las causas que motiven la intervención y el objeto de la misma, así como los fundamentos legales;
-
-III. Los interventores designados se constituirán en el domicilio del concesionario o los concesionarios y notificarán la intervención decretada; se identificarán y procederán a intervenir los servicios concesionados;
-
-IV. Los interventores designados informarán diariamente al Secretario acerca del desarrollo de la intervención.
+> <small>(REFORMADO, G.G. 16 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 63.
 
-Cumplido el objeto de la intervención, el titular del Ejecutivo emitirá acuerdo fundado y motivado, ordenando se entregue al intervenido, los servicios, para lo cual se levantará acta de entrega - recepción.
+La revocación de la concesión será emitida por la Secretaría y se sujetará a lo siguiente:
+
+I. La Secretaría podrá ordenar visitas de verificación en el domicilio del titular de la concesión para comprobar el debido cumplimiento de las disposiciones contenidas en el Título de concesión y las aplicables en la materia, de conformidad a lo dispuesto por el Código Administrativo del Estado de México.
+
+II. Si de la orden de visita de verificación se detecta alguna irregularidad o se tiene conocimiento de alguna de las causas de revocación establecidas en el Libro Décimo Séptimo del Código o en el Título de la concesión respectivo, la Secretaría citará a garantía de audiencia al titular de la concesión para que ofrezca pruebas y alegue lo que a su derecho convenga.
+
+La Secretaría podrá determinar de manera precautoria la suspensión de los derechos del concesionario, con el fin de evitar un perjuicio al interés social y garantizar que el servicio concesionado se preste en óptimas condiciones en favor de los usuarios.
+
+El acuerdo de suspensión contendrá:
+
+a) Nombre y domicilio del concesionario a quien se dirige.
+
+b) Los fundamentos legales en que se sustenta y las causas que motiven la acción precautoria, así como el objeto de la misma.
+
+c) Designación de las personas que habrán de fungir como interventores y sus funciones.
+
+La designación de los interventores se realizará en coordinación con la Secretaría de Finanzas.
+
+d) El tiempo que dure la medida precautoria.
+
+III. Los interventores designados se constituirán en el domicilio del concesionario, quienes se identificarán y procederán a realizar las acciones necesarias para cumplir con sus funciones.
+
+IV. El concesionario está obligado a entregar toda la información y documentación que tenga en su poder desde el otorgamiento de la concesión, incluyendo la fiscal y de operación, con el propósito de atender las causas que originaron la medida preventiva.
+
+V. Los interventores elaborarán un acta circunstanciada para dejar constancia de la entrega y recepción de la información y documentación, en la que deberá considerarse:
+
+1. Relación de sellos oficiales. (Exhibirlos y entregarlos).
+
+2. Relación de bienes muebles.
+
+3. Relación de llaves, tokens y contraseñas.
+
+4. Relación de equipo de comunicación. (Exhibirlo y entregarlo).
+
+5. Organigrama.
+
+6. Manual de Organización y/o Procedimientos.
+
+7. Relación del personal.
+
+8. Relación de asuntos pendientes.
+
+9. Relación de asuntos jurídicos.
+
+10. Acuerdos de Consejo o Asamblea pendientes de cumplir.
+
+11. Inventario de archivo.
+
+12. Inventario de bienes de consumo/papelería.
+
+13. Inventarios varios. (No considerados en el Activo Fijo).
+
+14. Estado de posición financiera. (Con corte a la fecha del acta).
+
+15. Estado patrimonial de ingresos y egresos mensual y acumulado. (Con corte a la fecha del acta).
+
+16. Flujo de efectivo.
+
+17. Balanza de comprobación.
+
+18. Diario General de Pólizas.
+
+19. Conciliaciones bancarias.
+
+20. Análisis de antigüedad de saldos.
+
+21. Reporte de cheques: en tránsito, en recuperación o devueltos.
+
+22. Relación de préstamos por pagar.
+
+23. Relación de documentos por pagar.
+
+24. Estado de deuda.
+
+25. Reporte de remuneraciones al personal por periodo de pago.
+
+26. Nómina general.
+
+27. Estado de avance presupuestal de ingresos.
+
+28. Estado de avance presupuestal de egresos.
+
+29. Presupuesto anual definitivo.
+
+30. Relación de cuentas bancarias.
+
+31. Corte de chequeras. (Incluir fotocopia del último cheque expedido, el primero por expedirse y del último de cada una de las chequeras).
+
+32. Relación de créditos contratados.
+
+33. Relación de contratos de prestación de servicios.
+
+34. Relación de facturas emitidas.
+
+35. Sistema de contabilidad.
+
+36. Relación de pagos provisionales y declaraciones anuales enterados a la Secretaría de Hacienda y Crédito Público.
+
+37. Relación de expedientes de declaraciones de impuestos.
+
+38. Relación de adeudos.
+
+39. Relación de expedientes de retenciones y enteros al IMSS, INFONAVIT y otros.
+
+40. Relación de multas Impuestas por autoridades pendientes de pago.
+
+41. Relación de incrementos salariales y cambios de categoría.
+
+42. Relación de movimientos laborales.
+
+43. Relación de liquidaciones laborales.
+
+44. Relación de personal sindicalizado.
+
+45. Relación de convenios sindicales.
+
+46. Relación de juicios laborales vigentes.
+
+47. Relación de obras y avances físicos y financieros.
+
+48. Relación de expedientes técnicos de obras en proceso.
+
+49. Inventario general de bienes muebles patrimoniales.
+
+50. Inventario general de bienes muebles no patrimoniales.
+
+51. Inventario general de bienes inmuebles.
+
+52. Relación de bienes inmuebles en arrendamiento, comodato ó usufructo.
+
+53. Relación de bienes inmuebles enajenados.
+
+54. Relación de vehículos: en uso, accidentados ó en reparación.
+
+55. Relación de libros de actas de consejo.
+
+56. Próximos compromisos dentro de los treinta días siguientes.
+
+VI. En caso de faltar algún documento, la Secretaría requerirá al concesionario para que en un plazo de cinco días hábiles exhiba la documentación faltante, con excepción de los numerales 1, 3, 4, 7, 16, 18, 19, 21, 22, 23, 24, 26, 27, 31, 34 y 56, los cuales deberán exhibirse en el transcurso del día en que se realice el acta, por ser de orden público e interés social y necesarios para la continuación inmediata de la prestación del servicio público concesionado.
+
+VII. Los interventores designados entregarán un informe semanal acerca del desarrollo de su intervención.
+
+> <small>(REFORMADO, G.G. 16 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 64.
 
-Si durante el transcurso de la intervención se advierten causas que puedan fundar la revocación de la concesión, se harán constar en acta circunstanciada con asistencia del intervenido, la que se remitirá a la autoridad de transporte para que, en su caso, proceda a instaurar el procedimiento correspondiente.
+Una vez desahogado el procedimiento, se emitirá la resolución respectiva.
+
+> <small>(REFORMADO, G.G. 16 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 65.
+
+El concesionario tendrá derecho a interponer juicio contencioso administrativo ante el Tribunal de lo Contencioso Administrativo del Estado en contra de la resolución que le sea desfavorable a sus intereses.
+
+No se otorgará la suspensión del acto impugnado a efecto de continuar con la prestación del servicio público concesionado, al ser esta, una cuestión de orden público e interés social.
+
+> <small>(REFORMADO, G.G. 16 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 66.
+
+Revocada la concesión, esta se adjudicara de manera directa al concesionario sustituto. El acto de asignación de la nueva concesión quedará condicionado a que la resolución de revocación quede firme.
+
+El concesionario sustituto no podrá realizar ninguna reclamación, con excepción de las inversiones que haya realizado y no recuperado con su respectiva Tasa Interna de Retorno, siempre y cuando se hayan aprobado por escrito, por la autoridad competente.
+
+De ser favorable la sentencia definitiva al concesionario inicial, el acto de asignación de la nueva concesión quedará sin efecto y, éste será restituido en el pleno goce de sus derechos hasta antes de la medida precautoria determinada.
+
+> <small>(REFORMADO, G.G. 16 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 67.
+
+En el caso de que la declaratoria de revocación quede firme, los bienes materia de la concesión, sus mejoras y accesiones pasarán de pleno derecho al control y administración del Estado de México, sin pago de indemnización alguna al concesionario.
+
+El Gobierno del Estado respetará los compromisos asumidos con terceros por el concesionario, siempre y cuando tengan relación directa con la concesión otorgada y se hayan aprobado previamente por escrito a través de la Secretaría.
+
+> <small>(REFORMADO, G.G. 16 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 68.
+
+La Secretaría deberá establecer los mecanismos para la continuidad del servicio y reconocerá los derechos de los acreedores del concesionario al pago de los créditos que se hubieren contratado para la inversión o reinversión en el proyecto, destinando el mismo porcentaje de la Tarifa Base de la concesión que le correspondería al concesionario conforme al Título respectivo, hasta la amortización total de la deuda.
+
+Es aplicable a lo establecido en el párrafo anterior, lo señalado en el párrafo segundo el (sic) artículo 67 del presente reglamento.
+
+> <small>(REFORMADO, G.G. 16 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 69.
+
+La Secretaría establecerá los mecanismos para que los ingresos que se hubieran contratado con anterioridad a la declaratoria de revocación, se destinen al pago de los créditos que se hubieren contratado para la inversión en el desarrollo comercial de las Terminales hasta la vigencia de cada uno de los contratos.
+
+> <small>(ADICIONADO, G.G. 16 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 70.
+
+De conformidad con lo previsto en el Código, el titular de una concesión que hubiere sido revocada estará imposibilitado para obtener otro nuevo (sic) dentro de un plazo de quince años, contado a partir de que hubiere quedado firme la resolución respectiva.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 16 DE OCTUBRE DE 2014)</small>
+
+### CAPITULO OCTAVO. DE LA INTERVENCION
+
+> <small>(ADICIONADO, G.G. 16 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 71.
+
+La intervención de la infraestructura vial y de los sistemas de transporte masivo, concesionados, tendrá por objeto evitar que se interrumpa o se afecte la prestación eficiente de los servicios, y establecer las medidas necesarias para su restablecimiento o corrección.
+
+La intervención se hará mediante acuerdo del Secretario, conforme a lo siguiente:
+
+I. Conocida la suspensión o afectación de los servicios, el Secretario emitirá el acuerdo que contendrá:
+
+a) Nombre y domicilio del concesionario a quien se dirige la intervención.
+
+b) Designación de las personas que habrán de fungir como interventores y funciones que tendrán asignadas.
+
+c) Las causas que motiven la intervención y el objeto de la misma, así como los fundamentos legales.
+
+II. Los interventores designados se constituirán en el domicilio del concesionario o los concesionarios y notificarán la intervención decretada, se identificarán y procederán a intervenir los servicios concesionados.
+
+III. Los interventores designados informarán semanalmente al Secretario acerca del desarrollo de la intervención.
+
+> <small>(ADICIONADO, G.G. 16 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 72.
+
+Cumplido el objeto de la intervención, el Secretario emitirá el acuerdo debidamente fundado y motivado, en el que ordenando se entregue al intervenido, los servicios, para lo cual se levantará acta de entrega - recepción.
+
+> <small>(ADICIONADO, G.G. 16 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 73.
+
+Si durante el transcurso de la intervención se advierten causas que puedan fundar la revocación de la concesión, se harán constar en acta circunstanciada con asistencia del intervenido, la que se remitirá a la autoridad de transporte para que, en su caso, proceda a instaurar el procedimiento correspondiente.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 16 DE OCTUBRE DE 2014)</small>
+
+### CAPITULO NOVENO. DE LAS TELECOMUNICACIONES
+
+> <small>(ADICIONADO, G.G. 16 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 74.
 
 La Secretaría establecerá los mecanismos de gestión y coordinación con los gobiernos federal y municipales, y de concertación con los particulares, para la modernización, ampliación y óptimo funcionamiento de las telecomunicaciones en el Estado.
 
 Asimismo, evaluará periódicamente el funcionamiento de la infraestructura de telecomunicaciones, hará las recomendaciones necesarias y coadyuvará a su mejoramiento y conservación, promoviendo la capacitación, investigación y desarrollo tecnológico.
 
-###### Artículo 66.
+> <small>(ADICIONADO, G.G. 16 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 75.
 
 La Secretaría para la planeación y programación de sus actividades, podrá solicitar información a las empresas de telecomunicaciones que operen en el Estado, relacionada con el tipo y cobertura de servicios que presten o que pretendan prestar dichas empresas.
 
-###### Artículo 67.
+> <small>(ADICIONADO, G.G. 16 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 76.
 
 La Secretaría promoverá ante las autoridades competentes, que los centros de población cuenten con nomenclatura de calles y planos actualizados de sus colonias y barrios.
 
-###### Artículo 68.
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 16 DE OCTUBRE DE 2014)</small>
+
+### CAPITULO DECIMO. DE LAS INFRACCIONES Y SANCIONES
+
+> <small>(ADICIONADO, G.G. 16 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 77.
 
 Las infracciones cometidas por los concesionarios y permisionarios de las comunicaciones de jurisdicción local, serán sancionadas en términos del Libro Séptimo del Código, conforme a las reglas establecidas por los artículos 129, 131 y 137 del Código de Procedimientos Administrativos del Estado de México.
 
-###### Artículo 69.
+> <small>(ADICIONADO, G.G. 16 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 78.
 
 Las infracciones cometidas por los usuarios de la infraestructura vial, serán sancionadas con arreglo a las disposiciones reglamentarias en materia de tránsito estatal.
 
@@ -771,7 +1003,7 @@ MANUEL CADENA MORALES
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
 
 G.G. 14 DE JULIO DE 2005.
 
@@ -789,6 +1021,10 @@ SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente hábil de su publicac
 
 TERCERO.- Los trámites que se encuentren en proceso hasta antes de la entrada en vigor del presente acuerdo, se seguirán conforme a las fracciones del artículo que se reforma.
 
-### CAPITULO OCTAVO. DE LAS TELECOMUNICACIONES
+G.G. 16 DE OCTUBRE DE 2014.
 
-### CAPITULO NOVENO. DE LAS INFRACCIONES Y SANCIONES
+PRIMERO. Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor rango que se opongan a los preceptos del presente Reglamento.
