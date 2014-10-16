@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6457
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-20"
-last_updated: "2014-06-27"
+last_updated: "2014-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE OCTUBRE DE 2014.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el jueves 20 de noviembre de 2008.
 
@@ -109,31 +109,31 @@ Las modalidades son violencia familiar, laboral y docente, violencia en la comun
 
 XV. Víctima: La mujer de cualquier edad a quien se le inflige cualquier tipo de violencia;
 
-XVI. Persona agresora: la persona que inflige cualquier tipo de violencia de género contra las mujeres y las niñas;
+> <small>(ADICIONADA, G.G. 16 DE OCTUBRE DE 2014)</small>
 
-XVII. Derechos Humanos de las Mujeres y las Niñas: Refiere a los derechos que son parte inalienable, integrante e indivisible de los Derechos Humanos universales contenidos en la Convención sobre la Eliminación de todas las Formas de Discriminación contra la Mujer (CEDAW), la Convención sobre los Derechos de la Niñez, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer (Belem Do Pará), la Conferencia Mundial de Derechos Humanos de Viena, y demás Instrumentos y Acuerdos Internacionales en la materia;
+XVI. Noviazgo: Es un acto de voluntad transitorio entre dos personas que mantienen una relación sentimental por tiempo indefinido, el cual les brinda la oportunidad del conocimiento mutuo y que presuponen el propósito de tener una relación permanente o legalmente constituida.
 
-XVIII. Perspectiva de Género: Es una visión científica, analítica y política sobre las mujeres y los hombres; se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
+XVII. Persona agresora: La persona que inflige cualquier tipo de violencia de género contra las mujeres y las niñas;
 
-XIX. Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estado de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
+XVIII. Derechos Humanos de las Mujeres y las Niñas: Refiere a los derechos que son parte inalienable, integrante e indivisible de los Derechos Humanos universales contenidos en la Convención sobre la Eliminación de todas las Formas de Discriminación contra la Mujer (CEDAW), la Convención sobre los Derechos de la Niñez, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer (Belem Do Pará), la Conferencia Mundial de Derechos Humanos de Viena, y demás Instrumentos y Acuerdos Internacionales en la materia;
 
-XX. Formación General: Premisas teóricas, metodológicas y conceptos fundamentales sobre la perspectiva de género que deben recibir todas y todos los servidores públicos que integran la administración pública local, con la finalidad de incorporar esta visión al diseño, ejecución, seguimiento y evaluación de las políticas, las acciones y los programas de su competencia, así como en sus relaciones laborales;
+XIX. Perspectiva de Género: Es una visión científica, analítica y política sobre las mujeres y los hombres; se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
 
-XXI. Especialización: Son los conocimientos específicos construidos desde la perspectiva de género que deben articularse con la disciplina académica de las y los funcionarios, a fin de aplicar y asegurar la igualdad entre mujeres y hombres, los derechos humanos de las mujeres y el derecho a una vida libre de violencia. El CEMYBS será la instancia encargada de diseñar e instrumentar la formación de las y los servidores públicos, vía cursos, seminarios, talleres, diplomados y/o especialidades académicas;
+XX. Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estado de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
 
-XXII. Actualización: Proceso permanente de formación, desde la perspectiva de género, con la finalidad de incorporar a la administración y gestión pública los avances y nuevas perspectivas en materia de igualdad, equidad y derechos humanos de las mujeres; la formación, especialización y actualización deben entenderse como parte de un proceso integral y continuo de comprensión y conocimiento de la perspectiva de género;
+XXI. Formación General: Premisas teóricas, metodológicas y conceptos fundamentales sobre la perspectiva de género que deben recibir todas y todos los servidores públicos que integran la administración pública local, con la finalidad de incorporar esta visión al diseño, ejecución, seguimiento y evaluación de las políticas, las acciones y los programas de su competencia, así como en sus relaciones laborales;
 
-XXIII. Alerta de Violencia de Género: Es el conjunto de acciones gubernamentales de emergencia derivadas de la declaratoria emitida por la autoridad competente para enfrentar y erradicar la violencia feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad;
+XXII. Especialización: Son los conocimientos específicos construidos desde la perspectiva de género que deben articularse con la disciplina académica de las y los funcionarios, a fin de aplicar y asegurar la igualdad entre mujeres y hombres, los derechos humanos de las mujeres y el derecho a una vida libre de violencia. El CEMYBS será la instancia encargada de diseñar e instrumentar la formación de las y los servidores públicos, vía cursos, seminarios, talleres, diplomados y/o especialidades académicas;
 
-XXIV. Misoginia: Son conductas de odio contra las mujeres que se manifiestan en actos violentos y crueles contra ellas por el hecho de ser mujeres;
+XXIII. Actualización: Proceso permanente de formación, desde la perspectiva de género, con la finalidad de incorporar a la administración y gestión pública los avances y nuevas perspectivas en materia de igualdad, equidad y derechos humanos de las mujeres; la formación, especialización y actualización deben entenderse como parte de un proceso integral y continúo de comprensión y conocimiento de la perspectiva de género;
 
-> <small>(REFORMADA, G.G. 18 DE MARZO DE 2011)</small>
+XXIV. Alerta de Violencia de Género: Es el conjunto de acciones gubernamentales de emergencia derivadas de la declaratoria emitida por la autoridad competente para enfrentar y erradicar la violencia feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad;
 
-XXV. Refugios: Son los centros o establecimientos constituidos por instituciones gubernamentales y por asociaciones civiles para la atención y protección de las mujeres y sus familias víctimas de violencia; y
+XXV. Misoginia: Son conductas de odio contra las mujeres que se manifiestan en actos violentos y crueles contra ellas por el hecho de ser mujeres;
 
-> <small>(REFORMADA, G.G. 18 DE MARZO DE 2011)</small>
+XXVI Refugios: Son los centros o establecimientos constituidos por instituciones gubernamentales y por asociaciones civiles para la atención y protección de las mujeres y sus familias víctimas de violencia; y
 
-XXVI. Presupuestos con Perspectiva de Género: Presupuestos que en su diseño, implementación y evaluación consideran los intereses, necesidades y prioridades de mujeres y hombres. El objetivo primordial es la igualdad e integración transversal de la política de género en planes, programas y acciones gubernamentales.
+XXVII. Presupuestos con Perspectiva de Género: Presupuestos que en su diseño, implementación y evaluación consideran los intereses, necesidades y prioridades de mujeres y hombres. El objetivo primordial es la igualdad e integración transversal de la política de género en planes, programas y acciones gubernamentales.
 
 ###### Artículo 4.
 
@@ -273,7 +273,9 @@ III. El establecimiento de un banco de datos a nivel estatal sobre las órdenes 
 
 ### CAPÍTULO IV. DE LA VIOLENCIA INSTITUCIONAL
 
-### CAPÍTULO V. DE LA VIOLENCIA FEMINICIDA Y DE LA ALERTA DE VIOLENCIA DE GÉNERO CONTRA LAS MUJERES
+### CAPÍTULO IV BIS. DE LA VIOLENCIA EN EL NOVIAZGO
+
+> <small>(ADICIONADO, G.G. 16 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 17.
 
@@ -317,11 +319,33 @@ Asimismo, se deberá incluir a personas conocedoras de la lengua y cultura indí
 
 En ningún caso podrán laborar en los refugios personas que hayan sido sancionadas por ejercer algún tipo de violencia.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 16 DE OCTUBRE DE 2014)</small>
+
+### CAPÍTULO V. DE LA VIOLENCIA FEMINICIDA Y DE LA ALERTA DE VIOLENCIA DE GÉNERO CONTRA LAS MUJERES
+
+###### Artículo 20 Ter.
+
+La violencia en el noviazgo son todos los actos realizados por una de las partes en contra de la otra, dentro de una relación afectiva, en los cuales se inflijan ataques intencionales de tipo sexual, físico o psicológico, de manera forzada en la relación de romance, enamoramiento o noviazgo, con el objeto de ejercer presión, manipulación o maltrato hacia alguna de las partes.
+
+> <small>(ADICIONADO, G.G. 16 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 20 Quater.
+
+Son actos obligados, los no consentidos por alguna de las partes, orientados a satisfacer necesidades o deseos sexuales, mismos que atentan contra la integridad física, psicológica y moral de cualquiera de las partes.
+
+> <small>(ADICIONADO, G.G. 16 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 20 Quinquies.
+
+Las acciones orientadas a controlar, restringir, vigilar a cualquiera de las partes, con la intención de aislarla socialmente, desvalorizarla, denigrarla, humillarla, o hacerla sentir mal consigo misma, destruir su confianza en sí mismo o en la pareja, es considerado también violencia en el noviazgo.
+
+> <small>(ADICIONADO, G.G. 16 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 20 Sexies.
+
+El Gobierno del Estado y los Ayuntamientos, a través de sus dependencias en el respectivo ámbito de su competencia, llevarán a cabo, mediante la aplicación de políticas públicas, las acciones necesarias tendientes a identificar, prevenir, atender y disminuir los factores que propician los fenómenos de violencia de pareja, en cualquiera de sus tipos y en consecuencia, erradicar los roles discriminatorios, estereotipos sexistas, resolución violenta de conflictos y la misoginia.
+
 ### CAPÍTULO VI. DE LAS ÓRDENES DE PROTECCIÓN
-
-### CAPÍTULO I. DE LAS POLÍTICAS DE GOBIERNO PARA ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
-
-> <small>(REFORMADO, G.G. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 21.
 
@@ -373,6 +397,10 @@ a) El diseño e instrumentación de políticas públicas integrales que eviten l
 
 b) La verificación de los hechos y la publicidad de la verdad.
 
+### CAPÍTULO I. DE LAS POLÍTICAS DE GOBIERNO PARA ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+
+> <small>(REFORMADO, G.G. 18 DE MARZO DE 2011)</small>
+
 ### CAPÍTULO II
 
 DEL PROGRAMA INTEGRAL PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES Y PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
@@ -380,8 +408,6 @@ DEL PROGRAMA INTEGRAL PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE MARZO DE 2011)</small>
 
 ### CAPÍTULO I. DE LA COMPETENCIA ESTATAL
-
-### CAPÍTULO II. DE LA COMPETENCIA DEL PODER JUDICIAL
 
 ###### Artículo 28.
 
@@ -467,7 +493,7 @@ DE LAS POLÍTICAS DE GOBIERNO Y DEL SISTEMA ESTATAL PARA LA IGUALDAD DE TRATO Y 
 
 > <small>(REFORMADO EN SU DENOMINACIÓN, G.G. 18 DE MARZO DE 2011)</small>
 
-### CAPÍTULO III. DE LA COMPETENCIA DE LOS MUNICIPIOS
+### CAPÍTULO II. DE LA COMPETENCIA DEL PODER JUDICIAL
 
 ###### Artículo 33.
 
@@ -475,7 +501,7 @@ Las Políticas de Gobierno que las dependencias y organismos auxiliares del Esta
 
 > <small>(REFORMADO, G.G. 18 DE MARZO DE 2011)</small>
 
-### CAPÍTULO I. DE LA ATENCIÓN A LAS VÍCTIMAS
+### CAPÍTULO III. DE LA COMPETENCIA DE LOS MUNICIPIOS
 
 ###### Artículo 34.
 
@@ -542,6 +568,8 @@ V. Las acciones conjuntas para la protección de las mujeres víctimas de violen
 VI. Las relacionadas con las anteriores que sean necesarias para incrementar la eficacia de las medidas y acciones tendientes a erradicar la violencia de género contra las mujeres.
 
 > <small>(REFORMADO EN SU DENOMINACIÓN, G.G. 18 DE MARZO DE 2011)</small>
+
+### CAPÍTULO I. DE LA ATENCIÓN A LAS VÍCTIMAS
 
 ### CAPÍTULO II. DE LOS REFUGIOS PARA LAS VÍCTIMAS DE VIOLENCIA
 
@@ -1328,3 +1356,9 @@ G.G. 27 DE JUNIO DE 2014.
 PRIMERO.- Publíquese el Presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 16 DE OCTUBRE DE 2014.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
