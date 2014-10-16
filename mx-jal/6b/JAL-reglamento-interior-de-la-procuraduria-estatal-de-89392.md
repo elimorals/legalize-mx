@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-procuraduria-estatal-de-89392"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-09-08"
-last_updated: "2012-09-08"
+last_updated: "2014-10-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89392&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DE LA PROCURADURÍA ESTATAL DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DE LA PROCURADURÍA ESTATAL DE PROTECCIÓN AL AMBIENTE, PUBLICADO EN EL P.O. DE 16 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2014 (DEROGADO).
 
 Reglamento publicado en la Sección VIII del Periódico Oficial del Estado de Jalisco, el sábado 8 de septiembre de 2012.
 
@@ -213,7 +215,7 @@ IV. Coordinar la vigilancia de la aplicación de la normatividad ambiental con o
 
 V. Iniciar los procedimientos administrativos derivados de los actos de autoridad competencia de la Procuraduría, así como emitir las resoluciones respectivas;
 
-VI. Substanciar y resolver el procedimiento administrativo de inspección y vigilancia, proveyendo conforme a derecho y, en su caso, solicitar a las autoridades correspondientes, la revocación, modificación, suspensión o cancelación de registros, autorizaciones, permisos o concesiones, cuando éstas se conviertan en un peligro al equilibrio ecológico o perturben el proceso ecológico, o bien por violaciones a la normatividad ambienta;
+VI. Substanciar y resolver el procedimiento administrativo de inspección y vigilancia, proveyendo conforme a derecho y, en su caso, solicitar a las autoridades correspondientes, la revocación, modificación, suspensión o cancelación de registros, autorizaciones, permisos o concesiones, cuando éstas se conviertan en un peligro al equilibrio ecológico o perturben el proceso ecológico, o bien por violaciones a la normatividad ambiental;
 
 VII. Determinar las infracciones a la legislación en las materias competencia de la Procuraduría;
 
@@ -580,3 +582,15 @@ DR. HÉCTOR EDUARDO GÓMEZ HERNÁNDEZ
 Secretario de Medio Ambiente para el Desarrollo Sustentable
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE OCTUBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga el Reglamento Interior de la Procuraduría Estatal de Protección al Ambiente, publicado el día 8 de septiembre de 2012, sección VIII en el Periódico Oficial “El Estado de Jalisco”.
