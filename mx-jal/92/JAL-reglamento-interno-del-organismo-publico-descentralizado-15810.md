@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interno-del-organismo-publico-descentralizado-15810"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-01-11"
-last_updated: "2004-05-11"
+last_updated: "2014-10-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15810&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # REGLAMENTO INTERNO DEL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "COMITE ADMINISTRADOR DEL PROGRAMA ESTATAL DE CONSTRUCCIONES DE ESCUELAS" C.A.P.E.C.E
 
-REGLAMENTO INTERNO DEL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "COMITE ADMINISTRADOR DEL PROGRAMA ESTATAL DE CONSTRUCCION DE ESCUELAS" (C.A.P.E.C.E)
+REGLAMENTO INTERNO DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "COMITÉ ADMINISTRADOR DEL PROGRAMA ESTATAL DE CONSTRUCCIÓN DE ESCUELAS" (C.A.P.E.C.E)
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DEL INSTITUTO DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 16 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 11 de enero de 2000.
 
@@ -87,7 +89,7 @@ La Junta de Gobierno celebrará sesiones ordinarias cada dos meses, y extraordin
 
 ###### Artículo 7.
 
-En las sesiones ordinarias, el Director General del CAPECE presentará el informe correspondiente al periodo. Los asuntos propuestos por los integrantes de la Junta de Gobierno, deberán ser notificados previamente al Secretario de Actas, para ser incluidos en el orden del día. En el caso de no ser incluido en el orden del día previamente elaborada, éste podrá desahogarse a criterio de la Junta de Gobierno, en el punto de "asuntos varios".
+En las sesiones ordinarias, el Director General del CAPECE presentará el informe correspondiente al periodo. Los asuntos propuestos por los integrantes de la Junta de Gobierno, deberán ser notificados previamente al Secretario de Actas, para ser incluidos en el orden del día. En el caso de no ser incluido en el orden del día previamente elaborada (sic), éste podrá desahogarse a criterio de la Junta de Gobierno, en el punto de "asuntos varios".
 
 > <small>(REFORMADO, P.O. 11 DE MAYO DE 2004)</small>
 
@@ -207,7 +209,7 @@ I. Proponer, aplicar y vigilar el cumplimiento de las políticas normas y proced
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2004)</small>
 
-II. Vigilar el cumplimiento, y aplicar Io dispuesto en las condiciones generales de trabajo del CAPECE, las leyes, reglamentos y demás disposiciones legales en materia laboral;
+II. Vigilar el cumplimiento, y aplicar lo dispuesto en las condiciones generales de trabajo del CAPECE, las leyes, reglamentos y demás disposiciones legales en materia laboral;
 
 III. Dirigir y coordinar las actividades relacionadas con los procesos de admisión, contratación, desarrollo, control y remoción del personal del C.A.P.E.C.E., conforme a lo establecido en las Condiciones Generales de Trabajo del C.A.P.E.C.E.;
 
@@ -265,7 +267,7 @@ XIV. Revisar y turnar para el trámite consecuente, las estimaciones de obra pre
 
 XV. Llevar el control de las obras en proceso y terminadas así como del proceso de entrega y recepción de estas últimas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2004)</small>
 
 ###### Artículo 26.
 
@@ -333,7 +335,7 @@ X. Establecer y coordinar acciones en materia jurídica con otras entidades jur�
 
 XI. Elaborar los anteproyectos de reformas a reglamentos, decretos, acuerdos y convenios relacionados con la competencia del CAPECE.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2004)</small>
 
 ###### Artículo 28.
 
@@ -379,7 +381,7 @@ V. Analizar y evaluar las tendencias del mercado en materia de tecnología de re
 
 El C.A.P.E.C.E. contará con una Comisión Interna de Administración y Programación la cual será integrada por los coordinadores, directores de área y por el Director General quien la presidirá. Los integrantes de la comisión tendrán derecho a voz y voto.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2004)</small>
 
 ###### Artículo 30.
 
@@ -415,7 +417,7 @@ Estas sesiones, serán validas, cuando se desarrollen con la participación de l
 
 ###### Artículo 34.
 
-La Comisión Interna de Administración y Programación, contará con un Secretario Técnico, que será el Coordinador Jurídico del C.A.P.E.C.E. quien citará a sesiones, propondrá el calendario de las mismas y llevará el registro de actas, que deberá ser autorizado por el Director General. Asimismo notificará a los integrantes de la comisión, sobre la realización de sesiones extraordinarias (sic)
+La Comisión Interna de Administración y Programación, contará con un Secretario Técnico, que será el Coordinador Jurídico del C.A.P.E.C.E. quien citará a sesiones, propondrá el calendario de las mismas y llevará el registro de actas, que deberá ser autorizado por el Director General. Asimismo notificará a los integrantes de la comisión, sobre la realización de sesiones extraordinarias
 
 Artículo 39 (sic).- El C.A.P.E.C.E. formulará los programas de inversión escolar en materia de construcción, habilitación, equipamiento y mantenimiento de los espacios educativos en la Entidad, con base en las necesidades captadas, validadas, priorizadas y autorizadas por el sector educativo a través de sus diferentes instituciones, mecanismos y estructuras, contando asimismo, con las observaciones de los Ayuntamientos realizadas mediante los Consejos Municipales de Participación Social en la Educación.
 
@@ -431,7 +433,7 @@ Las obras de infraestructura educativa efectuadas en la entidad por el C.A.P.E.C
 
 Toda acción constructiva destinada al servicio educativo realizada por entidades diferentes al C.A.P.E.C.E., como ayuntamientos, organismos sociales y privados o por la comunidad en general, deberá contar con las validaciones y autorizaciones técnica constructiva del C.A.P.E.C.E. y de la instancia educativa competente.
 
-de la comisión, sobre la realización de sesiones extraordinarias de la comisión, sobre la realización de sesiones extraordinarias convocadas por el Director General. (sic)
+(sic) de la comisión, sobre la realización de sesiones extraordinarias de la comisión, sobre la realización de sesiones extraordinarias convocadas por el Director General. (sic)
 
 Artículo 35 (sic).- Cuando no pueda celebrarse una sesión por no contar con el número de asistentes requeridos, esta se verificará dentro de los siguientes tres días hábiles, para este efecto, el Secretario Técnico informará oportunamente a los miembros de la comisión el lugar y hora en que será llevada a cabo la sesión suspendida, la cual tendrá el carácter de extraordinaria.
 
@@ -527,8 +529,16 @@ LIC. MIGUEL AGUSTIN LIMÓN MACIAS
 
 La presente hoja de firmas corresponde al acuerdo que expide el reglamento interno del organismo público descentralizado denominado "Comité Administrador del Programa Estatal de Construcción de Escuelas" (C.A.P.E.C.E).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 11 DE MAYO DE 2004.
 
 Unico.- La presente reforma al reglamento entrara en vigor al día siguiente de su publicación en el periódico oficial "EL ESTADO DE JALISCO".
+
+P.O. 16 DE OCTUBRE DE 2014.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+SEGUNGO (SIC). Se abroga el Reglamento Interno del Organismo Público Descentralizado denominado Comité Administrador del Programa Estatal de Construcción de escuelas (CAPECE), publicado el 11 de enero de 2000, sección II en el Periódico Oficial “El Estado de Jalisco”.
+
+TERCERO. El Director General, deberá presentar en un plazo no mayor a 180 días hábiles, contados a partir de de (sic) la entrada en vigor del presente Acuerdo, el proyecto de Manual de Organización y Operación para su aprobación por parte de la Junta de Gobierno.
