@@ -4,7 +4,7 @@ identifier: "LGCC"
 country: "mx"
 rank: "ley_general"
 publication_date: "2012-06-06"
-last_updated: "2014-05-07"
+last_updated: "2014-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88121&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGCC"
 
 LEY GENERAL DE CAMBIO CLIMÁTICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE OCTUBRE DE 2014.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el miércoles 6 de junio de 2012.
 
@@ -74,7 +74,9 @@ Para efectos de esta Ley se entenderá por:
 
 I. Adaptación: Medidas y ajustes en sistemas humanos o naturales, como respuesta a estímulos climáticos, proyectados o reales, o sus efectos, que pueden moderar el daño, o aprovechar sus aspectos beneficiosos.
 
-II. Atlas de riesgo: Documento dinámico cuyas evaluaciones de riesgo en regiones o zonas geográficas vulnerables, consideran los actuales y futuros escenarios climáticos.
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2014)</small>
+
+II. Atlas de riesgo: Documento dinámico cuyas evaluaciones de riesgo en asentamientos humanos, regiones o zonas geográficas vulnerables, consideran los actuales y futuros escenarios climáticos.
 
 III. Cambio climático: Variación del clima atribuido directa o indirectamente a la actividad humana, que altera la composición de la atmósfera global y se suma a la variabilidad natural del clima observada durante períodos comparables.
 
@@ -1683,3 +1685,7 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 7 DE MAYO DE 2014.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE OCTUBRE DE 2014.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
