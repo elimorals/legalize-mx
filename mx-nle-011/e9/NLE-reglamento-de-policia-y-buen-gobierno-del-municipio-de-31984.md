@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-del-municipio-de-31984"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-07-08"
-last_updated: "2003-06-06"
+last_updated: "2014-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31984&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE CERRALVO, NUEVO LEON
 
-REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE CERRALVO NUEVO LEON
+REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE CERRALVO NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2003.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE CERRALVO NUEVO LEÓN, PUBLICADO EN EL P.O. DE 17 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 8 de julio de 1998.
 
@@ -579,8 +581,16 @@ EL TERCER REGIDOR
 
 C. ANSELMO ESPERICUETA MATA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
 
 P.O. 6 DE JUNIO DE 2003.
 
 PRIMERO.- El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial.
+
+P.O. 17 DE OCTUBRE DE 2014.
+
+PRIMERO: El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado;
+
+SEGUNDO: Al entrar en vigor el presente Reglamento quedará abrogado el de fecha 8 de Julio de 1998 mil novecientos noventa y ocho.
+
+TERCERO: La (sic) no previsto en el presente Reglamento serán resueltos (sic) por las autoridades competentes conforme a derecho.
