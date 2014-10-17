@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2014-05-23"
+last_updated: "2014-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CÓDIGO PENAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2014.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -175,11 +175,9 @@ VI.- Trata de personas a que se refieren los artículos 179-a, 179-b y 179-c.
 
 VII.- Violación previsto por los artículos 180, 181, 182 y 184, así como en grado de tentativa con relación al artículo 18.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
-
-VIII.- Robo calificado previsto por el artículo 194 en relación con la fracción IV del artículo 191; el previsto por las fracciones I y IV del artículo 194, con independencia de la cuantía del robo; así como el previsto en el artículo 194-a, con independencia de la cuantía.
+VIII.- Robo calificado previsto por el artículo 194 en relación con la fracción IV del artículo 191; el previsto por las fracciones I y IV del artículo 194, con independencia de la cuantía del robo; así como el robo previsto en los artículos 191-b y 194-a, con independencia de la cuantía.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -205,47 +203,27 @@ XI.- Extorsión previsto por el artículo 213.
 
 XII.- Tráfico de menores previsto en los párrafos primero y segundo del artículo 220.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
+XIII.- Falsificación de documentos y uso de documentos falsos previstos en el segundo párrafo de los artículos 233 y 234, respectivamente.
 
-XIII.- Corrupción de menores e incapaces, contemplada en los artículos 236, 236-b fracción II y 237.
+XIV.- Corrupción de menores e incapaces, contemplada en los artículos 236, 236-b fracción II y 237.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+XV.- Rebelión previsto por el artículo 241.
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
+XVI.- Terrorismo previsto por el artículo 245.
 
-XIV.- Rebelión previsto por el artículo 241.
+XVII.- Peculado previsto por el artículo 248, cuando el monto de lo dispuesto exceda de lo previsto en la fracción IV del artículo 191.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+XVIII.- Desaparición forzada de personas previsto por el artículo 262-a.
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
+XIX.- Tortura previsto por el artículo 264.
 
-XV.- Terrorismo previsto por el artículo 245.
+XX.- Evasión de detenidos, inculpados o condenados previsto por el artículo 269 segundo párrafo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
-
-XVI.- Peculado previsto por el artículo 248, cuando el monto de lo dispuesto exceda de lo previsto en la fracción IV del artículo 191.
-
-(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DEL DECRETO PUBLICADO EL 3 DE JUNIO DE 2011, SE APRECIA LA EXISTENCIA DE ESTA FRACCIÓN.
-
-XVII.- Desaparición forzada de personas previsto por el artículo 262-a.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
-
-XVIII.- Tortura previsto por el artículo 264.
-
-> <small>N. DE E. EL CONTENIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL TEXTO ORIGINAL EN LA FRACCIÓN XVIII, PERO DEL ANÁLISIS A LA PUBLICACIÓN DE 12 DE NOVIEMBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER XIX.</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
-
-XIX.- Evasión de detenidos, inculpados o condenados previsto por el artículo 269 segundo párrafo.
+XXI.- Encubrimiento previsto en el segundo párrafo del artículo 275.
 
 ###### Artículo 12.
 
@@ -2313,6 +2291,24 @@ En los casos de las fracciones I y II del presente artículo, este delito se per
 
 a.- A quien utilice un medio electrónico para sustraer, recibir, transferir o retirar recursos económicos que se encuentren depositados en cuentas bancarias o financieras sin la autorización de su titular, se le aplicará la misma punibilidad contemplada en el artículo 191 de este Código.
 
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 191
+
+b.- Se sancionará con prisión de tres a diez años y de treinta a cien días multa, a quien:
+
+I.- Altere o trasplante los números originales de identificación de vehículos automotores sin estar legítimamente autorizado para ello.
+
+II.- Trafique, detente, posea, custodie u oculte autopartes de vehículos automotores de procedencia ilícita.
+
+III.- Desmantele, trafique, detente, posea u oculte vehículos automotores robados o alterados de sus números de identificación vehicular.
+
+IV.- Detente, posea, custodie o tramite, de manera ilegítima, la documentación con la que se acredite o pretenda acreditar la propiedad o identificación de vehículos automotores robados o alterados de sus números de identificación vehicular.
+
+V.- Traslade de un lugar a otro, uno o varios vehículos automotores robados o alterados de sus números de identificación vehicular.
+
+VI.- Utilice uno o varios vehículos automotores robados o alterados de sus números de identificación vehicular, en la comisión de otro u otros delitos.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
@@ -3013,6 +3009,10 @@ II.- Enajene, adquiera o haga uso de sellos o marcas oficiales falsos.
 
 A quien con el fin de obtener provecho o causar daño imite o simule un documento verdadero, lo altere o cree uno con contenido ideológico falso, se le impondrá prisión de uno a cinco años y de diez a cincuenta días multa.
 
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+
+Si se realizan las conductas descritas en el párrafo anterior con el propósito de acreditar o pretender acreditar la propiedad o identificación de un vehículo automotor, se impondrá prisión de tres a diez años y de treinta a cien días multa.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
@@ -3020,6 +3020,10 @@ A quien con el fin de obtener provecho o causar daño imite o simule un document
 ###### Artículo 234.
 
 A quien ilícitamente hiciere uso de un documento falso, sea público o privado, se le aplicará de uno a cinco años de prisión y de diez a cincuenta días multa.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+
+Si se realizan las conductas descritas en el párrafo anterior con el propósito de acreditar o pretender acreditar la propiedad o identificación de un vehículo automotor, se impondrá prisión de tres a diez años y de treinta a cien días multa.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -3583,6 +3587,12 @@ Si en los actos mencionados participa algún servidor público que tenga a su ca
 
 Se impondrá prisión de dos a ocho años y de veinte a ochenta días multa a quien sin haber participado en la comisión de un delito, posea, detente, custodie, adquiera, venda, enajene, desmantele, comercialice, trafique, pignore, reciba, traslade, use, oculte, modifique o altere los objetos, instrumentos o productos de aquél, con conocimiento de esta circunstancia.
 
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+
+Si el delito a que se refiere el párrafo anterior, corresponde al robo de vehículos automotores, se impondrá prisión de cuatro a doce años y de cuarenta a cientoveinte (sic) días multa.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+
 Si en los actos mencionados participa algún servidor público que tenga a su cargo funciones de prevención, persecución, aplicación o ejecución de sanciones respecto de delitos, además de las penas a que se refiere este artículo, se le aplicará destitución de aquéllas y se le inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos por un período igual al de la pena de prisión.
 
 > <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2004)</small>
@@ -4012,5 +4022,9 @@ P.O. 3 DE DICIEMBRE DE 2013.
 Único. El presente Decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 P.O. 23 DE MAYO DE 2014.
+
+Artículo Único. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 17 DE OCTUBRE DE 2014
 
 Artículo Único. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
