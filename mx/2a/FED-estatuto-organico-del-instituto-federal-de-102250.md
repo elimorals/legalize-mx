@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-federal-de-102250"
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-09-04"
-last_updated: "2014-09-04"
+last_updated: "2014-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102250&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-08-27"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE OCTUBRE DE 2014.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de septiembre de 2014.
 
@@ -187,9 +187,13 @@ xviii) Concentraciones y Concesiones;
 
 xix) Consulta Económica;
 
-xx) Consulta Jurídica y Regulación;
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2014)</small>
 
-xxi) Dictaminación;
+xx) Consulta Jurídica;
+
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2014)</small>
+
+xxi) Instrumentación;
 
 xxii) Defensa Jurídica;
 
@@ -215,7 +219,7 @@ ii) Para la Transición a la Televisión Digital Terrestre;
 
 iii) De Vigilancia del Espectro Radioeléctrico;
 
-iv) De Asuntos Jurídicos de Competencia Económica;
+iv) (DEROGADO, D.O.F. 17 DE OCTUBRE DE 2014)
 
 v) De Atención en Procedimientos;
 
@@ -225,9 +229,11 @@ vii) De Planeación y Administración de Proyectos.
 
 El Instituto contará con el Consejo Consultivo encargado de fungir como órgano asesor respecto de los principios establecidos en los artículos 2o., 6o. y 7o. de la Constitución, así como con una Contraloría Interna, los cuales se regirán conforme a lo establecido en la Ley de Telecomunicaciones y el presente Estatuto Orgánico.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 5.
 
-En sus ausencias, el Titular de la Unidad de Política Regulatoria será suplido por el Director General de Regulación Técnica, el Director General de Desarrollo de las Telecomunicaciones y la Radiodifusión, el Director General de Regulación de Interconexión y Reventa de Servicios de Telecomunicaciones y el Director General de Compartición de Infraestructura, en el orden indicado; el Titular de la Unidad de Espectro Radioeléctrico será suplido por el Director General de Regulación del Espectro y Recursos Orbitales, el Director General de Economía del Espectro y Recursos Orbitales, el Director General de Planeación del Espectro y el Director General de Ingeniería del Espectro y Estudios Técnicos, en el orden indicado; el Titular de la Unidad de Concesiones y Servicios será suplido por el Director General de Concesiones de Telecomunicaciones, el Director General de Concesiones de Radiodifusión y el Director General de Autorizaciones y Servicios, en el orden indicado; el Titular de la Unidad de Medios y Contenidos Audiovisuales será suplido por el Director General de Política y Procedimientos Regulatorios en Medios y Contenidos Audiovisuales y el Director General de Análisis de Medios y Contenidos Audiovisuales, en el orden indicado; el Titular de la Unidad de Cumplimiento será suplido por el Director General de Supervisión, el Director General de Verificación y el Director General de Sanciones, en el orden indicado; el Titular de la Unidad de Competencia Económica será suplido por el Director General de Procedimientos de Competencia, el Director General de Concentraciones y Concesiones y el Director General de Consulta Económica, en el orden indicado; el Titular de la Unidad de Asuntos Jurídicos será suplido por el Director General de Consulta Jurídica y Regulación, el Director General de Dictaminación y el Director General de Defensa Jurídica, en el orden indicado; el Titular de la Unidad de Administración será suplido por el Director General de Administración, Organización y Desarrollo de Capital Humano, el Director General de Adquisiciones, Recursos Materiales y Servicios Generales, el Director General de Finanzas, Presupuesto y Contabilidad y el Director General de Tecnologías de la Información y Comunicaciones, en el orden indicado, y el Titular de la Autoridad Investigadora será suplido por el Director General de Prácticas Monopólicas y Concentraciones Ilícitas, el Director General de Condiciones de Mercado y el Director General de Análisis Económico, en el orden indicado.
+En sus ausencias, el Titular de la Unidad de Política Regulatoria será suplido por el Director General de Regulación Técnica, el Director General de Desarrollo de las Telecomunicaciones y la Radiodifusión, el Director General de Regulación de Interconexión y Reventa de Servicios de Telecomunicaciones y el Director General de Compartición de Infraestructura, en el orden indicado; el Titular de la Unidad de Espectro Radioeléctrico será suplido por el Director General de Regulación del Espectro y Recursos Orbitales, el Director General de Economía del Espectro y Recursos Orbitales, el Director General de Planeación del Espectro y el Director General de Ingeniería del Espectro y Estudios Técnicos, en el orden indicado; el Titular de la Unidad de Concesiones y Servicios será suplido por el Director General de Concesiones de Telecomunicaciones, el Director General de Concesiones de Radiodifusión y el Director General de Autorizaciones y Servicios, en el orden indicado; el Titular de la Unidad de Medios y Contenidos Audiovisuales será suplido por el Director General de Política y Procedimientos Regulatorios en Medios y Contenidos Audiovisuales y el Director General de Análisis de Medios y Contenidos Audiovisuales, en el orden indicado; el Titular de la Unidad de Cumplimiento será suplido por el Director General de Supervisión, el Director General de Verificación y el Director General de Sanciones, en el orden indicado; el Titular de la Unidad de Competencia Económica será suplido por el Director General de Procedimientos de Competencia, el Director General de Concentraciones y Concesiones y el Director General de Consulta Económica, en el orden indicado; el Titular de la Unidad de Asuntos Jurídicos será suplido por el Director General de Consulta Jurídica, el Director General de Instrumentación y el Director General de Defensa Jurídica, en el orden indicado; el Titular de la Unidad de Administración será suplido por el Director General de Administración, Organización y Desarrollo de Capital Humano, el Director General de Adquisiciones, Recursos Materiales y Servicios Generales, el Director General de Finanzas, Presupuesto y Contabilidad y el Director General de Tecnologías de la Información y Comunicaciones, en el orden indicado, y el Titular de la Autoridad Investigadora será suplido por el Director General de Prácticas Monopólicas y Concentraciones Ilícitas, el Director General de Condiciones de Mercado y el Director General de Análisis Económico, en el orden indicado.
 
 Los demás servidores públicos del Instituto, con excepción del Presidente, los Comisionados y el Titular de la Contraloría Interna, serán suplidos en sus ausencias por el servidor público designado para tales efectos por el Titular de la Unidad o el Coordinador General respectivo o, en su defecto, por el del nivel jerárquico inmediato inferior. A igualdad de niveles jerárquicos, la suplencia será ejercida por el servidor público de mayor antigüedad en el cargo.
 
@@ -1503,59 +1509,75 @@ XII. Las demás que le confieran el Pleno, el Presidente o el Titular de Unidad,
 
 ### CAPÍTULO XVII. De la Unidad de Asuntos Jurídicos
 
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 52.
 
-La Unidad de Asuntos Jurídicos tendrá adscritas a su cargo la Dirección General de Consulta Jurídica y Regulación, la Dirección General de Dictaminación, la Dirección General de Defensa Jurídica y la Dirección General Adjunta de Asuntos Jurídicos de Competencia Económica. Al Titular de la Unidad de Asuntos Jurídicos le corresponden originariamente las atribuciones conferidas a las Direcciones Generales y a la Dirección General Adjunta que se establecen en este Capítulo del Estatuto Orgánico.
+La Unidad de Asuntos Jurídicos tendrá adscritas a su cargo la Dirección General de Consulta Jurídica, la Dirección General de Instrumentación y la Dirección General de Defensa Jurídica. Al Titular de la Unidad de Asuntos Jurídicos le corresponden originariamente las atribuciones conferidas a las Direcciones Generales que se establecen en este Capítulo del Estatuto Orgánico.
+
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 53.
 
-La Dirección General de Consulta Jurídica y Regulación tendrá a su cargo intervenir como asesor jurídico del Pleno y del Presidente en las materias de telecomunicaciones y radiodifusión; revisar el marco jurídico de los lineamientos y disposiciones administrativas de carácter general que deban ser emitidos por el Pleno y la normativa interna que deba ser emitida por el Presidente, así como fungir como órgano de consulta interna en las materias de telecomunicaciones y radiodifusión. Corresponde a esta Dirección General el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección General de Consulta Jurídica desde ese punto de vista el ejercicio de las siguientes atribuciones:
 
-I. Intervenir como asesor jurídico del Pleno y del Presidente en los asuntos que sean competencia de los mismos;
+I. Participar con las demás unidades administrativas del Instituto para el análisis, estudio y, en su caso, dictamen de los anteproyectos y proyectos de iniciativas de leyes, reglamentos y disposiciones de carácter general;
 
-II. Emitir opinión cuando se lo requiera el Pleno o el Presidente sobre los asuntos y casos que les corresponda resolver o acordar conforme a sus atribuciones, así como de los que tengan relación con la competencia del Instituto;
+II. Emitir opinión a las unidades administrativas sobre los ordenamientos legales aplicables en el ámbito de competencia del Instituto, así como los criterios de interpretación administrativa y aplicación jurídica;
 
-III. Revisar y, en su caso, validar que los proyectos de convenios e instrumentos jurídicos que pretenda celebrar el Pleno o el Presidente, se adecuen a las disposiciones legales y administrativas aplicables;
+III. Fungir como órgano de consulta, así como elaborar y en su caso proponer al Pleno, los criterios para la adecuada aplicación de las disposiciones legales, reglamentarias y de las disposiciones administrativas de carácter general en el ámbito de competencia del Instituto;
 
-IV. Revisar que los proyectos de lineamientos y disposiciones administrativas de carácter general que deba emitir el Pleno, así como la normativa que deba emitir el Presidente, se adecuen a las disposiciones legales y administrativas aplicables;
+IV. Asesorar a las unidades administrativas del Instituto, cuando éstas lo requieran, tratándose de los instrumentos constitutivos de sociedades concesionarias, permisionarias o autorizadas o de cualquier otro promovente en materia de telecomunicaciones y radiodifusión;
 
-V. Elaborar y, en su caso, proponer al Pleno los criterios de interpretación de las disposiciones legales o administrativas en las materias de competencia del Instituto;
+V. Responder las consultas que en las materias precisadas en este artículo le formulen las unidades administrativas del Instituto;
 
-VI. Atender y responder las consultas relativas a criterios jurídicos que le formulen las distintas Unidades y Coordinaciones Generales del Instituto;
+VI. Revisar y, en su caso, validar que los proyectos de convenios e instrumentos jurídicos que pretenda celebrar el Presidente, se adecuen a las disposiciones legales y administrativas aplicables;
 
-VII. Determinar el criterio del Instituto cuando dos o más unidades administrativas emitan opiniones contradictorias de relevancia jurídica;
+VII. Revisar que los proyectos de disposiciones administrativas de carácter general que deba emitir el Pleno se adecuen a las disposiciones legales y administrativas aplicables;
 
-VIII. Coordinarse con las unidades administrativas del Instituto, en los trabajos de elaboración de proyectos de actualización de disposiciones legales y administrativas relacionadas con las materias que son competencia del Instituto, conforme a las indicaciones del Pleno y del Presidente;
+VIII. Fungir como asesor jurídico del Pleno, del Presidente y, en los asuntos en materia de competencia económica, del Comisionado Ponente, así como emitir opinión cuando se le requiera;
 
-IX. Aprobar la sistematización de los criterios fijados por el Pleno sobre la interpretación de las disposiciones legales o administrativas en el ámbito de competencia del Instituto que le presente la Secretaría Técnica del Pleno;
+IX. Elaborar y, en su caso, proponer al Pleno los criterios de interpretación de las disposiciones legales o administrativas en las materias precisadas en este artículo;
 
-X. Tramitar las solicitudes de confirmación de criterios de interpretación presentados por los agentes regulados;
+X. Fungir como enlace con las unidades o áreas de asuntos jurídicos de las dependencias y entidades de la Administración Pública Federal y demás Autoridades Públicas, en los asuntos de la competencia del Instituto;
 
-XI. Fungir como enlace con las unidades o áreas de asuntos jurídicos de las dependencias y entidades de la Administración Pública Federal y demás Autoridades Públicas, en los asuntos de la competencia del Instituto, y
+XI. Responder las consultas que le sean formuladas en materia de competencia económica;
 
 XII. Las demás que le confieran el Pleno, el Presidente o el Titular de Unidad, así como las que se señalen en otras disposiciones legales o administrativas.
 
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 54.
 
-Corresponde a la Dirección General de Dictaminación el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección General de Instrumentación desde el punto de vista jurídico el ejercicio de las siguientes atribuciones:
 
-I. Dictaminar los expedientes integrados, previo a que el Pleno emita resolución en los procedimientos sustanciados por infracciones a las leyes, disposiciones administrativas, títulos de concesión, permisos, asignaciones o autorizaciones en materia de telecomunicaciones y radiodifusión;
+I. Emitir opinión sobre el alcance legal de los instrumentos normativos internos, acuerdos, convenios y contratos, así como de su modificación, cuando proceda;
 
-II. Dictaminar los expedientes integrados, previo a que el Pleno emita resolución en los procedimientos de sanción por incumplimiento de los tiempos máximos establecidos para la transmisión de mensajes comerciales;
+II. Participar, en coordinación con las unidades administrativas competentes, en los procedimientos administrativos para resolver los desacuerdos en materia de telecomunicaciones y radiodifusión que se presenten ante el Instituto;
 
-III. Dictaminar los expedientes integrados, previo a que el Pleno emita resolución en los procedimientos de sanción por incumplimiento en las obligaciones en materia de defensa de las audiencias;
+III. Opinar sobre la cancelación o liberación de las garantías que deban constituirse para el cumplimiento de las obligaciones previstas en las concesiones, permisos, autorizaciones, contratos y convenios;
 
-IV. Dictaminar desde el punto de vista jurídico y, en su caso, participar en la elaboración de las bases y convocatorias de licitaciones de bandas de frecuencia del espectro radioeléctrico, para telecomunicaciones, radiodifusión y para ocupar recursos orbitales;
+IV. Elaborar y, en su caso, proponer al Pleno los criterios de interpretación de las disposiciones legales o administrativas en las materias precisadas en este artículo;
 
-V. Dictaminar desde el punto de vista jurídico, previo a que el Pleno emita resolución relativa al otorgamiento de concesiones mediante el procedimiento de licitación pública, así como al rescate o cambio de frecuencias;
+V. Asesorar a las unidades administrativas competentes en los procedimientos sancionatorios sustanciados por éstas, cuando así lo requieran;
 
-VI. Dictaminar, desde el punto de vista jurídico, el proyecto de resolución por el que el Pleno determine la existencia de agentes económicos preponderantes en los sectores de radiodifusión y de telecomunicaciones, e imponga las medidas necesarias;
+VI. Participar en la elaboración de las bases y convocatorias de licitaciones de bandas de frecuencia del espectro radioeléctrico en materia de telecomunicaciones y radiodifusión, así como para ocupar recursos orbitales;
 
-VII. Dictaminar, desde el punto de vista jurídico, que los proyectos de contratos y convenios específicos que le remita la Unidad de Administración derivados de procedimientos de licitación pública o que hubieren sido dictaminados por el Comité de Adquisiciones, Arrendamientos y Servicios del Instituto, así como aquellos sujetos a legislación extranjera, se adecuen a las disposiciones legales y demás normativa aplicable;
+VII. Participar en coordinación con las unidades administrativas competentes en la elaboración del título de concesión a otorgarse mediante el procedimiento de licitación pública, así como en el rescate o cambio de frecuencias;
 
-VIII. Dictaminar, desde el punto de vista jurídico, que los modelos de contratos y pedidos que le remita la Unidad de Administración para formalizar las contrataciones en materia de adquisiciones, arrendamientos y servicios, así como de obras públicas y servicios relacionados con las mismas, se adecuen a las disposiciones legales y demás normativa aplicables, y
+VIII. Opinar respecto de las cargas o gravámenes impuestos a las concesiones previstas en la Ley de Telecomunicaciones;
 
-IX. Las demás que le confieran el Pleno, el Presidente o el Titular de Unidad, así como las que se señalen en otras disposiciones legales o administrativas.
+IX. Revisar las condiciones que el concesionario debe aceptar previamente a la resolución de las solicitudes de prórroga de vigencia de títulos de concesión;
+
+X. Asesorar a la unidad administrativa competente en los procedimientos seguidos para la imposición o modificación de obligaciones específicas a los agentes económicos que hayan sido declarados con poder sustancial o como preponderantes;
+
+XI. Asesorar a la Unidad de Administración del Instituto, cuando ésta lo requiera, en la revisión de los instrumentos constitutivos de contratistas y proveedores, así como de los documentos relacionados con la contratación;
+
+XII. Dictaminar los proyectos de contratos y convenios específicos que le remita la Unidad de Administración, derivados de procedimientos de licitación pública o que hubieren sido aprobados por el Comité de Adquisiciones, Arrendamientos y Servicios del Instituto, a fin de que se adecuen a las disposiciones legales y demás normativa aplicable, así como aquellos sujetos a legislación extranjera;
+
+XIII. Dictaminar los modelos de contratos y pedidos que le remita la Unidad de Administración para formalizar las contrataciones en materia de adquisiciones, arrendamientos y servicios, así como de obras públicas y servicios relacionados con las mismas, a fin de que se adecuen a las disposiciones legales y demás normativa aplicables, y
+
+XIV. Las demás que le confieran el Pleno, el Presidente o el Titular de Unidad, así como las que se señalen en otras disposiciones legales o administrativas.
 
 ###### Artículo 55.
 
@@ -1585,19 +1607,7 @@ XI. Las demás que le confieran el Pleno, el Presidente o el Titular de Unidad, 
 
 ###### Artículo 56.
 
-La Dirección General Adjunta de Asuntos Jurídicos de Competencia Económica tendrá a su cargo intervenir como asesor jurídico del Pleno y del Presidente; revisar el marco jurídico de los lineamientos y disposiciones administrativas de carácter general que deban ser emitidos por aquéllos y fungir como órgano de consulta interna y dictaminar los asuntos, todos en la materia de competencia económica. Corresponde a esta Dirección General Adjunta el ejercicio de las siguientes atribuciones:
-
-I. Atender y responder las consultas relativas a criterios jurídicos que le formulen las distintas unidades administrativas, coordinaciones y la Autoridad Investigadora en materia de competencia económica, y fungir como órgano de consulta interna del Instituto en dicha materia;
-
-II. Dictaminar los expedientes integrados, previo a que el Pleno emita resolución de sanción en los procedimientos seguidos en forma de juicio conforme a la Ley de Competencia;
-
-III. Dictaminar los expedientes integrados, previo a que el Pleno emita resolución que objete o imponga condiciones en los procedimientos de notificación de concentraciones;
-
-IV. Dictaminar, desde el punto de vista jurídico, las medidas cautelares que se proponga al Pleno para ordenar la suspensión de los actos o hechos constitutivos de una probable conducta prohibida por la Ley de Competencia;
-
-V. En general, dictaminar desde el punto de vista jurídico los proyectos de resolución que se pretenda someter a consideración del Pleno en materia de competencia económica, excepto en los que deriven del procedimiento seguido en forma de juicio y solicitud de opinión formal, y
-
-VI. Las demás que le confieran el Pleno, el Presidente o el Titular de Unidad, así como las que se señalen en otras disposiciones legales o administrativas.
+(DEROGADO, D.O.F. 17 DE OCTUBRE DE 2014)
 
 ### CAPÍTULO XVIII. De la Unidad de Administración
 
@@ -1921,6 +1931,10 @@ II. Tramitar y realizar las investigaciones sobre condiciones de competencia en 
 
 III. Tramitar y realizar las investigaciones a que se refiere el quinto párrafo del artículo noveno transitorio del Decreto de la Ley de Telecomunicaciones, una vez que el Pleno haya resuelto que se cumple lo dispuesto en los párrafos primero al cuarto de dicho artículo;
 
+> <small>(ADICIONADA, D.O.F. 17 DE OCTUBRE DE 2014)</small>
+
+III Bis. Reiterar los requerimientos de información que formule en aquellos casos donde el desahogo de los mismos resulte insuficiente para tenerlos por desahogados;
+
 IV. Proponer al Titular de la Autoridad Investigadora las ampliaciones del periodo de investigación previstas en los artículos 94 y 96 de la Ley de Competencia, así como emitir el acuerdo de conclusión de la investigación correspondiente, y
 
 V. Las demás que le confieran el Pleno o el Titular de la Autoridad Investigadora, así como las que se señalen en otras disposiciones legales o administrativas.
@@ -1945,7 +1959,9 @@ I. Coadyuvar con el Titular de la Autoridad Investigadora, así como a las Direc
 
 II. Apoyar en los requerimientos que formule la Dirección General de Defensa Jurídica para la defensa de los actos emitidos por la Autoridad Investigadora ante los órganos jurisdiccionales competentes;
 
-III. Apoyar y asesorar jurídicamente a la Autoridad Investigadora y coadyuvar con la Dirección General de Prácticas Monopólicas y Concentraciones Ilícitas;
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2014)</small>
+
+III. Apoyar y asesorar jurídicamente a la Autoridad Investigadora y coadyuvar con las Direcciones Generales previstas en el presente capítulo;
 
 IV. Proponer al Titular de la Autoridad Investigadora lineamientos sobre uniformidad de criterios en la actuación de las Direcciones Generales que estén a su cargo;
 
@@ -2620,3 +2636,13 @@ El Presidente, Gabriel Oswaldo Contreras Saldívar.- Rúbrica.- Los Comisionados
 El presente Estatuto Orgánico fue aprobado por el Pleno del Instituto Federal de Telecomunicaciones en su XXII Sesión Extraordinaria celebrada el 27 de agosto de 2014, por unanimidad de votos de los Comisionados presentes Gabriel Oswaldo Contreras Saldívar, Luis Fernando Borjón Figueroa, Ernesto Estrada González, Adriana Sofía Labardini Inzunza, María Elena Estavillo Flores, Mario Germán Fromow Rangel y Adolfo Cuevas Teja, con fundamento en los párrafos vigésimo, fracciones I y III; y vigésimo primero, del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos; artículos 7, 16, 17 fracción II y 45 de la Ley Federal de Telecomunicaciones y Radiodifusión; así como en los artículos 1, 2, 11 y 12 del Estatuto Orgánico del Instituto Federal de Telecomunicaciones, mediante Acuerdo P/IFT/EXT/270814/209.
 
 La Comisionada María Elena Estavillo Flores asistió, participó y emitió su voto mediante comunicación electrónica a distancia, tal y como lo señala el artículo 45 de la Ley Federal de Telecomunicaciones y Radiodifusión.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 17 DE OCTUBRE DE 2014.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Para aquellos procedimientos que hubieran iniciado con anterioridad a la entrada en vigor de la Ley Federal de Competencia Económica, publicada en el Diario Oficial de la Federación el veintitrés de mayo de dos mil catorce, las atribuciones que confieran las normas aplicables al Secretario Ejecutivo, al Presidente o a la Comisión para la sustanciación de la etapa de investigación serán ejercidas por la Autoridad Investigadora, incluyendo el emplazamiento con el Oficio de Probable Responsabilidad.
+
+Las solicitudes que sean presentadas por agentes económicos en las que se comprometan a suspender, suprimir, corregir o no realizar una práctica monopólica relativa o concentración prohibida serán tramitadas y dictaminadas por la unidad administrativa que conozca del expediente en atención a su etapa procesal.
