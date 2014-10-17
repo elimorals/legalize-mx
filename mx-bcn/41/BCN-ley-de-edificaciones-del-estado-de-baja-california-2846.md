@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-edificaciones-del-estado-de-baja-california-2846"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-24"
-last_updated: "2008-07-11"
+last_updated: "2014-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2846&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2014.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 24 de junio de 1994.
 
@@ -345,7 +345,7 @@ INSTALACIONES DE EDIFICIOS.
 
 En relación a las instalaciones, los Reglamentos deberán atender a lo siguiente:
 
-I. HIDRAULICA Y SANITARIA.
+I. HIDRÁULICA Y SANITARIA.
 
 Se deberán establecer las condiciones de los edificios bajo las cuales se exigirá la instalación necesaria para almacenamiento de agua potable, su capacidad, características y materiales utilizados.
 
@@ -357,7 +357,11 @@ En caso de no existir ésta, o de tener la red pública una presión inferior a 
 
 Las edificaciones estarán provistas, con el número mínimo de servicios sanitarios, tipo de mueble y características de acuerdo al uso y capacidad de las mismas, debiendo contar por lo menos con uno acondicionado para personas minusválidas.
 
-La dotación de letrinas sanitarias y/o fosas sépticas será autorizado para zonas rurales y fraccionamientos populares donde no exista sistema de drenaje sanitario, regulando sus características de instalación a través de los Reglamentos y sus Normas Técnicas Complementarias.
+La dotación de letrinas sanitarias y/o fosas sépticas será autorizado (sic) para zonas rurales y fraccionamientos populares donde no exista sistema de drenaje sanitario, regulando sus características de instalación a través de los Reglamentos y sus Normas Técnicas Complementarias.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE OCTUBRE DE 2014)</small>
+
+Toda edificación pública deberá contar con sistemas adecuados que tengan como objetivo el ahorro del agua, así como su eficiente utilización.
 
 II. AGUAS PLUVIALES Y RESIDUALES.
 
@@ -365,11 +369,19 @@ Se deberá especificar el tratamiento y conducción de aguas pluviales en todo (
 
 Se proporcionarán los mecanismos para las conexiones de los albañales a la red pública y se especificarán los materiales, diámetros y pendientes mínimas en líneas de desagüe, incluyendo las dimensiones de los registros sanitarios.
 
-III. ELECTRICAS Y DE COMUNICACION.
+III. ELÉCTRICAS Y DE COMUNICACIÓN.
 
 Las instalaciones eléctricas de las edificaciones se ajustarán a las Disposiciones Reglamentarias establecidas por la Autoridad de la materia.
 
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+
+Sin perjuicio de lo anterior, toda edificación pública deberá contar con sistemas adecuados que tengan como objetivo el ahorro de energía eléctrica y el uso de fuentes más eficientes y menos contaminantes.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+
 Las edificaciones deberán equiparse con sistemas de iluminación de emergencia y pararrayos en los casos y bajo las condiciones que indiquen los Reglamentos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE OCTUBRE DE 2014)</small>
 
 Las instalaciones de distribución, suministro telefónico y antenas, deberán cumplir con las disposiciones de la Secretaría de Comunicaciones y Transportes y demás que se establezcan al respecto.
 
@@ -1205,7 +1217,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 C.P. FORTUNATO ALVAREZ ENRIQUEZ.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 3 DE NOVIEMBRE DE 2000.
 
@@ -1216,3 +1228,7 @@ SEGUNDO.- En un plazo de tres meses a partir del día en que inicie su vigencia 
 P.O. 11 DE JULIO DE 2008.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE OCTUBRE DE 2014.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
