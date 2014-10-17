@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-comite-de-control-y-evaluacion-de-la-687
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-06-01"
-last_updated: "2011-12-15"
+last_updated: "2014-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERNO DEL COMITÉ DE CONTROL Y EVALUACIÓN DE LA SECRETARÍA DEL TRABAJO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE OCTUBRE DE 2014.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el lunes 1 de junio de 2009.
 
@@ -115,25 +115,21 @@ V.- Dar seguimiento a los acuerdos del Comité sobre asuntos de control y evalua
 
 VI.- Los demás que señalen las Leyes y Reglamentos del Estado en materia de evaluación y control.
 
+> <small>(REFORMADO, G.G. 17 DE OCTUBRE DE 2014)</small>
+
 ###### ARTICULO 8.
 
-El Comité sesionará trimestralmente en forma ordinaria y podrá convocar a sesiones extraordinarias cuando lo requiera.
+El Comité sesionará al menos, dos sesiones semestrales al año en forma ordinaria y podrá convocar a sesiones extraordinarias cuando lo requiera.
 
-Para este efecto el Comité llevará a cabo las siguientes acciones:
+Las sesiones ordinarias se realizarán previa convocatoria escrita del Secretario Técnico, quien la remitirá a los integrantes del Comité por lo menos con cinco días hábiles de anticipación, dando a conocer el orden del día. La convocatoria se acompañará con la documentación soporte de los asuntos a tratar, la cual podrá ser enviada en medios electrónicos.
 
-I.- En la última sesión del ejercicio de que se trate, fijará las fechas en las que se efectuarán las sesiones ordinarias del siguiente ejercicio fiscal.
+Las sesiones extraordinarias se realizarán previa convocatoria suscrita por el Secretario Técnico, quien la remitirá a los integrantes del Comité por lo menos con dos días hábiles de anticipación dando a conocer el orden del día. La convocatoria se acompañará con la documentación soporte de los puntos a tratar.
 
-II.- Las sesiones ordinarias se realizarán previa convocatoria escrita del Secretario Técnico, quien la remitirá a los integrantes del Comité por lo menos con cinco días hábiles de anticipación, dando a conocer el orden del día. La convocatoria se acompañará con la documentación soporte de los asuntos a tratar.
-
-III.- Las sesiones extraordinarias se realizarán previa convocatoria suscrita por el Secretario Técnico, quien la remitirá a los integrantes del Comité por lo menos con tres días hábiles de anticipación dando a conocer el orden del día. La convocatoria se acompañará con la documentación soporte de los puntos a tratar.
-
-IV.- En los casos en que los integrantes del Comité soliciten la inclusión de asuntos en el orden del día, podrán hacerlo respetando los plazos que señala el artículo 23 del presente Reglamento y el Secretario Técnico deberá remitir a los demás integrantes, anexo a la convocatoria, copia de la documentación soporte e información sobre el asunto que se pretende incluir.
-
-V.- La convocatoria a los invitados se efectuará en los mismos términos que para los integrantes del Comité. En el caso de que se requiera información y documentación por parte de los invitados, relativa a los asuntos a tratar en el orden del día, se les solicitará en la convocatoria correspondiente.
+> <small>(REFORMADO, G.G. 17 DE OCTUBRE DE 2014)</small>
 
 ###### ARTICULO 9.
 
-Para que las sesiones ordinarias y extraordinarias sean válidas, se deberá contar con la asistencia del Presidente, del Secretario Técnico y de por lo menos tres vocales del Comité que tengan voz y voto.
+Para que las sesiones ordinarias y extraordinarias sean válidas, se deberá contar con la asistencia del Presidente, del Secretario Técnico y de por lo menos dos vocales del Comité que tengan voz y voto.
 
 ###### ARTICULO 10.
 
@@ -225,9 +221,11 @@ Todos los integrantes e invitados deberán cumplir con los acuerdos aprobados du
 
 Los integrantes del Comité y los invitados se obligan a guardar secreto profesional sobre la información de la Secretaría y a no utilizarla en beneficio propio o de intereses ajenos a la misma, aún después de que concluya su intervención en el Comité.
 
+> <small>(REFORMADO, G.G. 17 DE OCTUBRE DE 2014)</small>
+
 ###### ARTICULO 23.
 
-Los integrantes tienen la facultad de solicitar al Secretario Técnico, la inclusión de asuntos en el orden del día de las sesiones, siempre y cuando sean competencia del Comité y lo requieran con una anticipación de diez días hábiles en los casos de sesiones ordinarias y cinco días hábiles para las sesiones extraordinarias. A la solicitud, se deberá anexar el soporte documental correspondiente.
+Los integrantes tienen la facultad de solicitar al Secretario Técnico, la inclusión de asuntos en el orden del día de las sesiones, siempre y cuando sean competencia del Comité y lo requieran con una anticipación de diez días hábiles en los casos de sesiones ordinarias y tres días hábiles para las sesiones extraordinarias. A la solicitud, se deberá anexar el soporte documental correspondiente.
 
 ###### ARTICULO 24.
 
@@ -431,6 +429,10 @@ LIC. J. G. FEDERICO SALINAS ORTEGA
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-G.G. 15 DE DICIEMBRE DE 20011.
+G.G. 15 DE DICIEMBRE DE 2011.
 
-LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE MÉXICO.
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 1.2 CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE MÉXICO.
+
+G.G. 17 DE OCTUBRE DE 2014.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 1.2 CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE MÉXICO.
