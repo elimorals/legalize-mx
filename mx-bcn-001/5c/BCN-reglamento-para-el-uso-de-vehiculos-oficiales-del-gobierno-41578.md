@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-el-uso-de-vehiculos-oficiales-del-gobierno-4157
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-08"
-last_updated: "2007-09-21"
+last_updated: "2014-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 ---
 # REGLAMENTO PARA EL USO DE VEHICULOS OFICIALES DEL GOBIERNO MUNICIPAL DE ENSENADA, BAJA CALIFORNIA
 
-REGLAMENTO PARA EL USO DE VEHICULOS OFICIALES DEL GOBIERNO MUNICIPAL DE ENSENADA, BAJA CALIFORNIA
+REGLAMENTO PARA EL USO DE VEHÍCULOS OFICIALES DEL GOBIERNO MUNICIPAL DE ENSENADA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE SEPTIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2014.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 8 de octubre de 2004.
 
@@ -33,69 +33,133 @@ EL HONORABLE CABILDO DE ENSENADA, BAJA CALIFORNIA, CON LAS FACULTADES QUE LE CON
 
 TIENE A BIEN EXPEDIR EL SIGUIENTE:
 
+> <small>N. DE E. EL ACUERDO DE CABILDO RELATIVO AL DICTAMEN 068/2014, EXPEDIDO POR EL H. XXI AYUNTAMIENTO CONSTITUCIONAL DE ENSENADA, BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 17 DE OCTUBRE DE 2014, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.</small>
+
 REGLAMENTO PARA EL USO DE VEHICULOS OFICIALES DEL GOBIERNO MUNICIPAL DE ENSENADA, BAJA CALIFORNIA.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+
+## TITULO PRIMERO. Disposiciones generales
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 1.
 
-El presente Reglamento es de orden público y de observancia para los servidores públicos llámese Funcionarios y Empleados al servicio del Honorable Ayuntamiento Constitucional de Ensenada, Baja California.
+El presente Reglamento es de orden público y de observancia para los servidores públicos de la Administración Pública del Municipio de Ensenada, Baja California.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 2.
 
-El presente ordenamiento regula el uso de vehículos oficiales que estén comprendidos dentro del patrimonio del ayuntamiento o en posesión, sujetos por algún contrato.
+El presente ordenamiento tiene por objeto establecer las acciones y el procedimiento relativo al uso de vehículos oficiales que realicen:
+
+I.- Las Dependencias del Municipio de Ensenada.
+
+II.- Las Entidades del Municipio de Ensenada.
+
+III.- Sindicatura Municipal.
+
+IV.- Área de Regidores.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 3.
 
-El Gobierno Municipal de Ensenada, proporcionará al personal que labora en las diferentes dependencias de la Administración Pública Municipal, un vehículo cuando sus actividades así lo requieran, para el cumplimiento de sus obligaciones laborales. Así mismo, establecerá y mantendrá un programa de entrenamiento y mantenimiento preventivo para los usuarios de los vehículos oficiales.
+El Gobierno Municipal de Ensenada, proporcionará al personal que labora en las diferentes dependencias de la Administración Pública Municipal, un vehículo cuando sus actividades así lo requieran, para el cumplimiento de sus obligaciones laborales.
+
+Tratándose de las entidades, su titular asignará el uso del vehículo oficial al personal que por sus actividades lo requieran.
+
+Las dependencias y entidades deberán establecer y mantener un programa de mantenimiento preventivo para los usuarios de los vehículos oficiales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 3 Bis.
+
+Todo usuario de los vehículos tendrá que acudir al curso de Manejo Defensivo que imparte la Dirección de Seguridad Pública Municipal y deberá hacer llegar copia de la constancia de dicho curso a la Dirección de Administración de Bienes Patrimoniales, debiendo cursarlo por lo menos cada tres años.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 3 Ter.
+
+En lo Subsecuente y para el caso de las entidades cuando se hable del Oficial Mayor o del Director de Administración de Bienes Patrimoniales, se entenderá a la persona que de conformidad con sus ordenamientos legales se le atribuyan de manera análoga esas facultades, funciones y atribuciones.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 4.
 
-Los vehículos oficiales serán motivo de control y resguardo, según lo establece la Ley del Régimen Municipal del Estado de Baja California y quedan bajo el control de El Oficial Mayor del Ayuntamiento a través del Jefe del Departamento de Bienes Muebles e Inmuebles.
+Los vehículos oficiales serán motivo de control y resguardo, según lo establece la Ley del Régimen Municipal del Estado de Baja California y quedan bajo el control del Oficial Mayor del Ayuntamiento a través del Director de Administración de Bienes Patrimoniales.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 5.
 
-El uso de los vehículos sólo podrá hacerse por personal que labora en la Administración Pública Municipal y cuando su Director o Jefe lo haya autorizado, siempre y cuando el conductor cumpla con los requisitos que marque el Reglamento de Tránsito para el Municipio de Ensenada, Baja California, debiendo portar invariablemente su licencia de chofer vigente.
+El uso de los vehículos sólo podrá hacerse por personal que labora en la Administración Pública Municipal debidamente autorizado, siempre y cuando el conductor cumpla con los requisitos que marque el Reglamento de Tránsito para el Municipio de Ensenada, Baja California, debiendo portar invariablemente su licencia de chofer vigente.
 
-### CAPÍTULO I. Disposiciones Generales
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+
+### CAPÍTULO II (SIC). De las atribuciones de las Autoridades Competentes
 
 ###### Artículo 6.
 
-El Presidente Municipal tendrá como atribución el nombrar al Jefe del Departamento de Bienes Muebles e Inmuebles y las demás que determinen éste y otros reglamentos.
+(DEROGADO, P.O. 17 DE OCTUBRE DE 2014)
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 7.
 
-El Síndico Municipal tendrá la facultad de ejercitar cualquier acción civil o penal, que tenga que ejecutar en protección y defensa de lo señalado por este ordenamiento.
+El Síndico Procurador tendrá la facultad de ejercitar cualquier acción civil o penal, que tenga que ejecutar en protección y defensa de lo señalado por este ordenamiento.
+
+En el caso de las entidades el Síndico Procurador solo tendrá la facultad de control y vigilancia.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 8.
 
-Oficialía Mayor es la Dependencia del Ayuntamiento encargada de administrar, controlar, coordinar, adquirir y supervisar todo lo referente al patrimonio municipal; por lo tanto, los vehículos de uso oficial están bajo su mando directo e inmediato, delegando responsabilidades a los Directores de las dependencias que tengan bajo su resguardo algún vehículo propiedad del Ayuntamiento.
+Oficialía Mayor a través de la Dirección de Administración de Bienes Patrimoniales es la Dependencia del Ayuntamiento encargada de administrar, controlar, coordinar, adquirir y supervisar todo lo referente al patrimonio municipal; por lo tanto, los vehículos de uso oficial están bajo su mando directo e inmediato, delegando responsabilidades a los titulares de las dependencias que tengan bajo su resguardo algún vehículo propiedad del Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 9.
 
 El Oficial Mayor del Ayuntamiento establecerá los lineamientos para la dotación de combustible y reparación de los vehículos.
 
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 10.
 
-El Jefe del Departamento de Bienes Muebles e Inmuebles velará por el legal cumplimiento de este ordenamiento, teniendo las facultades que de aquí se desprenden.
+El Director de Administración de Bienes Patrimoniales velará por el legal cumplimiento de este ordenamiento, teniendo las facultades que de aquí se desprenden.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 11.
 
-En caso de accidente vial solo el Síndico Municipal y el Oficial Mayor del Ayuntamiento, estarán facultados para realizar convenios o negociaciones en cuanto a la reparación del daño.
+En caso de accidente vial sólo el Síndico Procurador y el Oficial Mayor del Ayuntamiento, estarán facultados para realizar convenios o negociaciones en cuanto a la reparación del daño.
+
+Las entidades a través de la persona que tenga la representación legal de su patrimonio deberán llevar a cabo las negociaciones o convenios a que se refiere el párrafo anterior y solo deberán hacer del conocimiento por escrito al Síndico Procurador.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 12.
 
-Los vehículos estarán bajo la responsabilidad del Director correspondiente cuyo patrimonio del Ayuntamiento le sea asignado bajo su custodia, en coordinación directa con Oficialía Mayor, quien supervisará el cumplimiento del presente ordenamiento.
+Los vehículos estarán bajo la responsabilidad y resguardo del Titular de la Dependencia o entidad, en coordinación directa con Oficialía Mayor y con el Director de Administración de Bienes Patrimoniales, quien supervisará el cumplimiento del presente ordenamiento.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 13.
 
-En caso de accidente en el que resulte dañado un vehículo propiedad del Ayuntamiento o que se causen daños a tercero en su persona o bienes se dará aviso de inmediato al Director correspondiente, al Síndico Municipal y a la Oficialía Mayor.
+En caso de accidente en el que resulte dañado un vehículo propiedad del Ayuntamiento o que se causen daños a tercero (sic), en su persona o bienes se dará aviso por escrito de manera inmediata al Titular de la Dependencia o entidad, al Oficial Mayor, Director de Administración de Bienes Patrimoniales y al Síndico Procurador.
 
-### CAPÍTULO II. De las atribuciones de las Autoridades Competentes
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+
+### CAPÍTULO III. De los Vehículos Oficiales
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 14.
 
-Para los efectos del presente reglamento se considera vehículo oficial toda unidad que independientemente de sus características, sea propiedad del Municipio.
+Para los efectos del presente reglamento se considera vehículo oficial toda unidad que independientemente de sus características, sea propiedad del Municipio o en su caso de las entidades.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 15.
 
@@ -103,17 +167,33 @@ Los vehículos oficiales deberán ser utilizados exclusivamente para el servicio
 
 ###### Artículo 16.
 
-(DEROGADO, P.O. 21 DE SEPTIEMBRE DE 2007)
+(DEROGADO, P.O. 17 DE OCTUBRE DE 2014)
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 17.
 
-A través de la Oficialía Mayor todos los vehículos oficiales se deberán rotular con el emblema de la dependencia asignada y marcar con el número económico visible que le corresponda a excepción de aquellos que por seguridad oficial no deban identificarse a juicio del Ayuntamiento.
+A través de la Oficialía Mayor todos los vehículos oficiales se deberán rotular y contener los siguientes datos:
+
+1.- Escudo del Municipio de Ensenada.
+
+2.- Nombre de la dependencia o de la entidad.
+
+3.- La leyenda "Vehículo Oficial".
+
+4.- Número económico.
+
+5.- Número de Teléfono para Reportar el uso inadecuado.
+
+Quedarán exceptuados aquellos que por seguridad oficial no deban identificarse a juicio del Ayuntamiento, para el caso de las entidades se realizará a juicio de su órgano de gobierno.
+
+En caso de los vehículos recién adquiridos deberán rotularse de manera inmediata.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 18.
 
-En cada vehículo se llevará una bitácora, misma que controlará y registrará el resguardante o quien sea designado para ello por el Titular de la Dependencia o Entidad, en la cual se anotará diariamente, cualquier eventualidad de importancia, como las siguientes:
+En cada vehículo se llevará una bitácora, misma que controlará y registrará el resguardante o quien sea designado para ello por el titular de la Dependencia o Entidad, en la cual se anotará diariamente, cualquier eventualidad de importancia, como las siguientes:
 
 I.- Conductor;
 
@@ -137,167 +217,219 @@ X.- Carrocería; y
 
 XI.- Demás detalles que pongan en riesgo la integridad del vehículo y su conductor.
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 19.
 
-Al recibir la unidad, el solicitante o resguardante es el responsable de la misma, así como también, se obliga a registrar los datos en la bitácora del vehículo, en los términos del artículo 18 del presente ordenamiento.
+Al recibir la unidad, el solicitante o resguardante es el responsable de la misma y se obliga a registrar los datos en la bitácora del vehículo, en los términos del artículo 18 del presente ordenamiento.
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 20.
 
-El Director o Jefe de Departamento según sea el caso, deberá firmar una ficha de resguardo de los vehículos a su cargo y será responsable del buen o mal uso que se haga de la unidad, debiendo reportar oportunamente las violaciones al presente reglamento.
+El responsable del resguardo será el encargado de supervisar el buen o mal uso que se haga de la unidad, debiendo reportar oportunamente al Oficial Mayor y al Sindico Procurador las violaciones al presente reglamento.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 21.
 
-Los Directores y Jefes, que tengan vehículo bajo su resguardo tendrán la facultad de asignarlos a los trabajadores que por el desempeño de su cargo así lo requieran, encargándose éstos de su limpieza, mantenimiento y buen uso.
+El titular de la dependencia o entidad, que tengan (sic) vehículo bajo su resguardo, tendrán (sic) la facultad de asignarlos a los trabajadores que por el desempeño de su cargo así lo requieran, encargándose éstos de su limpieza, mantenimiento y buen uso.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 22.
 
-El trabajador que tenga asignado un vehículo y que requiera utilizarlo fuera del horario de trabajo establecido, para servicio de la Administración Pública Municipal, deberá tener autorización por escrito de su Director o Jefe, y éste a su vez remitirá copia a la brevedad posible de la autorización, al Jefe del Departamento de Bienes Muebles e Inmuebles de Oficialía Mayor.
+El trabajador que tenga asignado un vehículo y que quiera utilizarlo fuera del horario de trabajo establecido, para servicio de la Administración Pública Municipal, deberá tener autorización por escrito de su superior jerárquico, y éste a su vez remitirá copia a la brevedad posible de la autorización, al Director de Administración de Bienes Patrimoniales de Oficialía Mayor.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 23.
 
-El trabajador deberá abstenerse de circular con el vehículo fuera de los límites del Municipio, o abandonar el territorio nacional, salvo autorización expresa y por escrito de su jefe inmediato o el Oficial Mayor, cuando la naturaleza del servicio o comisión así lo requiera.
+El usuario del vehículo deberá abstenerse de circular con el vehículo fuera de los límites del Municipio, o abandonar el territorio nacional, salvo autorización expresa y por escrito de su jefe inmediato o el Oficial Mayor, cuando la naturaleza del servicio o comisión así lo requiera.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 24.
 
-Los vehículos asignados al Presidente Municipal y a los Regidores estarán bajo su custodia las 24 horas del día.
-
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2007)</small>
+Los vehículos asignados al Presidente Municipal, Síndico Procurador, Síndico Social y Regidores estarán bajo su custodia las 24 horas del día.
 
 ###### Artículo 25.
 
-Cuando el conductor del vehículo oficial resulte responsable de un accidente de tránsito, según el parte del accidente de la Dirección de Tránsito y Transporte y el vehículo oficial presente pérdida total o parcial, el Director o Jefe de Área correspondiente deberá notificar por escrito en forma inmediata al Síndico Municipal, para que éste determine la responsabilidad del conductor de conformidad a la Ley de Responsabilidades de los Servidores Públicos del Estado, sin perjuicio de que a su vez se inicie el procedimientos (sic) civil o penal correspondiente.
+(DEROGADO, P.O. 17 DE OCTUBRE DE 2014)
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 26.
 
-Queda prohibido el uso de vehículos oficiales fuera de los horarios de trabajo, excepto lo previsto en el Artículo 22 del presente reglamento.
+Queda prohibido el uso de vehículos oficiales fuera de los horarios de trabajo, excepto lo previsto en el Artículo 22 y 24 del presente reglamento.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 27.
 
-Es obligación de los Directores o Jefes de Departamento de la Administración Pública Municipal, así como del Jefe del Departamento de Bienes Muebles e Inmuebles, asegurarse de que los vehículos sean guardados al término de la jornada de trabajo y el fin de semana en el estacionamiento designado para tal efecto.
+Es obligación de los Titulares de las dependencias o entidades de la Administración Pública Municipal, así como del Director de Administración de Bienes Patrimoniales, asegurarse de que los vehículos sean guardados al término de la jornada de trabajo y el fin de semana en el estacionamiento designado para tal efecto.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 28.
 
 Los vehículos cargarán combustible en el lugar que se indique por la Oficialía Mayor dentro del horario establecido y debiendo firmar la bitácora correspondiente, anotando la fecha, el kilometraje de la unidad y el número de litros recibidos.
 
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 29.
 
 Se otorgarán vales de combustible para vehículos oficiales únicamente cuando se justifique, conforme las disposiciones del Artículo 9 de este Reglamento.
 
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 30.
 
-Las personas contratadas como chóferes serán responsables del buen uso y estado de sus vehículos, de su limpieza y mantenimiento. Así mismo, que las unidades permanezcan en el estacionamiento asignado, al término de su labor encomendada; por las noches y el fin de semana.
+Las personas contratadas como chóferes serán responsables del buen uso y estado de sus vehículos, de su limpieza y mantenimiento. Asimismo, que las unidades permanezcan en el estacionamiento asignado, al término de su labor encomendada; por las noches y el fin de semana.
 
-### CAPÍTULO III. De los Vehículos Oficiales
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+
+### CAPÍTULO V (SIC). Del Mantenimiento y Reparaciones
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 31.
 
-La Administración Pública Municipal cuenta con un Taller de Mantenimiento para servicio de vehículos oficiales y maquinaria pesada y será el medio autorizado para efectuar las reparaciones y servicios de mantenimiento que requieran las unidades.
+Los vehículos que requieran alguna reparación y/o servicio de mantenimiento, serán enviados al departamento de Talleres de Mantenimiento, siendo éste el medio autorizado para llevarlo a cabo.
 
 Para su uso se deberá observar el siguiente procedimiento:
 
-I.- Toda solicitud de servicio deberá ser requerida por el Director o Jefe de Departamento haciendo uso del formato establecido.
+I.- Toda solicitud de servicio deberá ser requerida por el Titular de la dependencia o entidad, haciendo uso del formato establecido.
 
 II.- El vehículo será recibido por el Jefe del Taller previo inventario de la unidad por escrito y se notificará el tipo de reparación a realizar, así como el tiempo calculado para realizarse.
 
 III.- Queda prohibida la permanencia de personas y vehículos ajenos al área del taller, debiendo regresar posteriormente por la unidad en la fecha en que se informe por el encargado.
 
-IV.- El Jefe del Taller entregará a la persona autorizada la unidad y enviará por escrito al Director o Jefe correspondiente la descripción de la reparación y el costo de la misma.
+IV.- El Jefe del Taller entregará a la persona autorizada la unidad y enviará por escrito al Titular de la dependencia o entidad correspondiente, la descripción de la reparación y el costo de la misma.
 
 V.- Se enviará al encargado de la Oficialía Mayor del Ayuntamiento en la brevedad posible, el reporte desglosado de reparaciones y gastos por unidad, para su cargo al presupuesto del departamento que corresponda.
 
-VI.- Cuando el Jefe del Taller dictamine que la unidad presenta daños ocasionados por uso inadecuado, por descuido o franca negligencia, deberá presentar un reporte por escrito ante el Sindico Municipal con copia al Director o Jefe del área correspondiente.
+VI.- Cuando el Jefe del Taller dictamine que la unidad presenta daños ocasionados por uso inadecuado, por descuido o franca negligencia, deberá presentar un reporte por escrito ante el Sindico Procurador con copia al Titular de la dependencia o entidad correspondiente.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 32.
 
 Es responsabilidad del Jefe del Taller el implementar programas de mantenimiento preventivo para las unidades al servicio de la Administración Pública Municipal.
 
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 33.
 
-Todas las compras de refacciones e insumos se realizarán a través de la Oficialía Mayor del Ayuntamiento y las compras mayores habrán de sujetarse al reglamento respectivo.
+Todas las compras de refacciones e insumos se realizarán a través de la Oficialía Mayor del Ayuntamiento y las compras habrán de sujetarse al reglamento respectivo.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 34.
 
 Es responsabilidad del Jefe del Taller observar los servicios de garantía en vehículos nuevos o en reparaciones hechas por talleres especializados.
 
-### CAPÍTULO VI. De las Sanciones
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2007)</small>
+### CAPÍTULO VI. De los Daños a los vehículos y las Sanciones
 
-### CAPÍTULO IV. Del Uso de Vehículos Oficiales
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 35.
 
-Las violaciones al presente reglamento, serán sancionadas por el Síndico Procurador de conformidad a la Ley de Responsabilidades de los Servidores Públicos del Estado.
+Las violaciones al presente reglamento serán sancionadas por el Síndico Procurador de conformidad a la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 36.
 
-El uso inadecuado del vehículo y el uso con descuido y negligencia por parte del conductor será sancionado por el supervisor inmediato de su área mediante amonestación por escrito con copia para su expediente. Tratándose de reincidencia será sancionado por el Síndico Municipal de conformidad a la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
+El uso inadecuado del vehículo y el uso con descuido y negligencia por parte del conductor, será sancionado por su superior jerárquico, mediante amonestación por escrito con copia para su expediente. Tratándose de reincidencia será sancionado por el Síndico Procurador de conformidad a la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
 
 Para efecto de este artículo se entiende por:
 
-I.- Uso inadecuado:
+I.- Uso Inadecuado:
 
-a) uso de vehículo oficial para fines distintos al debido;
+a) Uso de vehículo oficial para fines distintos al debido;
 
-b) Uso de vehículo oficial fuera de los límites del Municipio y/o abandonar el territorio nacional, sin autorización expresa;
+b) Uso de vehículo oficial fuera de los límites del municipio y/o abandonar el territorio nacional, sin autorización expresa;
 
 c) Uso de vehículo en días y horas no autorizadas;
 
-d) Uso de vehículo oficial sin contar con la licencia correspondiente, expedida por autoridad competente;
+d) Uso de vehículo Oficial sin contar con la licencia correspondiente, expedida por autoridad competente;
 
 e) Uso de vehículo oficial por personas no autorizadas para hacerlo, y
 
-f) Uso de vehículo oficial cuando no se encuentre laborando, ya sea por incapacidad médica, periodo vacacional o suspensión laboral.
+f) Uso de Vehículo oficial cuando no se encuentre laborando, ya sea por incapacidad médica, periodo vacacional o suspensión laboral.
 
 II.- Uso con descuido o negligencia:
 
-a) Resguardar físicamente el vehículo en los lugares prohibidos, inadecuados o riesgosos;
+d) (sic) Resguardar físicamente el vehículo en los lugares prohibidos, inadecuados o riesgosos;
 
-b) Uso de vehículo oficial bajo el influjo de alcohol y/o enervantes y/o estupefacientes y/o sustancias psicotrópicas;
+e) Uso de vehículo oficial bajo el influjo de alcohol y/o enervantes y/o estupefacientes y/o sustancias psicotrópicas;
 
-c) Conducir el vehículo oficial en forma irresponsable sin respetar el Reglamento de Tránsito Municipal;
+f) Conducir el vehículo oficial en forma irresponsable sin respetar el régimen de Tránsito Municipal;
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 37.
 
-Los daños causados a vehículos oficiales, así como los causados a terceros, ocasionados por el mal uso de las unidades, entendiéndose como tal el uso fuera de horario de labores sin aviso al superior inmediato, manejar en estado de ebriedad o bajo el influjo de alguna droga o sustancia psicotrópica no prescrita por médico autorizado, serán pagados en su totalidad por el conductor responsable, asumiendo la responsabilidad civil y penal que de ello se derive.
+Los daños causados a vehículos oficiales, así como los causados a terceros, ocasionados por el uso inadecuado, con descuido o negligencia de las unidades, serán pagados en su totalidad por el conductor responsable, asumiendo la responsabilidad civil y penal que de ello se derive.
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 38.
 
-Cuando el daño a vehículo oficial se derive de un accidente provocado por el chofer del mismo, éste quedará obligado al pago y porcentaje que el Síndico Municipal determine, previo presupuesto de daños o acuerdo entre las partes. Cuando el conductor de un vehículo oficial cause daños a terceros, el afectado deberá acudir a la instancia correspondiente a efecto de reclamar lo procedente.
+Cuando el daño al vehículo oficial se derive de un accidente provocado por el chofer del mismo, éste quedará obligado al pago del deducible que determine la aseguradora, o en su caso cuando el monto del daño a reparar no exceda del deducible, este podrá pagarlo directamente al taller previamente autorizado.
 
-Los daños ocasionados por un tercero a un vehículo oficial, cuando así sea determinado por el parte de accidente de la Secretaría de Seguridad Pública Municipal, el Director o Coordinador Administrativo de la dependencia correspondiente, deberá remitir oficio al Síndico Municipal, a efecto de que éste a su vez, presente la querella procedente ante la Agencia del Ministerio Público que corresponda.
+En caso de que el conductor se niegue a pagar los daños el Síndico Procurador iniciará el procedimiento de responsabilidad administrativa, de conformidad con la Ley de Responsabilidades del Estado de Baja California.
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2007)</small>
+Cuando el conductor de un vehículo oficial cause daños a terceros, este deberá notificar a la aseguradora del accidente ocurrido, para efectos de que se realicen los tramites que correspondan.
+
+Cuando un tercero ocasione daños a un vehículo oficial, cuando así sea determinado por el parte de novedades del accidente emitido por la autoridad competente en materia de tránsito, el Titular de la Dependencia o entidad correspondiente, deberá remitir oficio al Síndico Procurador a efecto de que éste a su vez, presente la querella procedente ante la Agencia del Ministerio Público que corresponda.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 39.
 
-Cuando el accidente sea ocasionado por causas ajenas al chofer de la unidad según el parte de accidente de la Dirección de Tránsito y Transporte Municipal, el Gobierno Municipal a través de la aseguradora correspondiente cubrirá inmediatamente los daños ocasionados al vehículo oficial y en el caso de vehículos afectados previo requerimiento del ministerio Público del Fuero Común o en su caso del Juzgado Penal. Tratándose de vehículos que no estén asegurados el pago se hará por el Gobierno Municipal previo acuerdo de Cabildo.
+Cuando el accidente sea ocasionado por causas ajenas al chofer de la unidad, según el parte de novedades emitido por la autoridad competente en materia de tránsito, el Gobierno Municipal a través de la aseguradora correspondiente, cubrirá inmediatamente los daños ocasionados al vehículo Oficial.
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2007)</small>
+En el caso de que el vehículo Oficial afecte a vehículos de terceros y no esté asegurado el pago se hará por el Gobierno Municipal, previa conciliación ante el Ministerio Público del Fuero Común o en su caso por sentencia condenatoria dictada por el juez de lo penal.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 40.
 
-El Oficial Mayor a través del Departamento correspondiente, será responsable de que los vehículos que sean asegurables, cuenten con las pólizas de seguro correspondientes, en los términos y con las coberturas que se determinen por la Secretaría de Administración y Finanzas.
+El Oficial mayor a través de la Dirección correspondiente, será responsable de que los vehículos que sean asegurables, cuenten con pólizas de seguro correspondientes, en los términos y con las coberturas que se determinen por la Dirección de Planeación y Gestión Financiera.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 41.
 
-Las infracciones al Reglamento de Tránsito serán pagadas por el conductor que las ocasione.
+Las infracciones al Reglamento de Tránsito serán pagadas por el conductor que las ocasione, previo el informe del perito de transito que corresponda.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 42.
 
-Cualquier ciudadano podrá reportar las violaciones al presente reglamento a los departamentos de Sindicatura, Seguridad Pública, Tránsito y Vialidad, quienes informarán al Jefe del Departamento de Bienes Muebles e Inmuebles de las posibles anomalías.
+Cualquier persona podrá reportar ante el Sindico Procurador las violaciones al presente reglamento, Dirección de Seguridad Pública Municipal, quienes informarán al Director de Administración de Bienes Patrimoniales las posibles anomalías.
 
-### CAPÍTULO V. Del Mantenimiento y Reparaciones
+> <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], P.O. 17 DE OCTUBRE DE 2014)</small>
+
+### CAPÍTULO VII. Del Robo de los Vehículos Oficiales
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 43.
+
+Cuando el vehículo se extravía o roba, el resguardante tiene la obligación inmediata de presentar denuncia ante el Ministerio Público, comunicándolo a su vez al área administrativa y/o al superior jerárquico y éstos lo comunicarán al Director de Administración de Bienes Patrimoniales y al Síndico Procurador.
+
+En consecuencia, habrán de coordinarse para cumplir en lo general, con las normas y políticas que corresponden al procedimiento ordinario de inventarios y de resguardos y en su caso, deslindar la responsabilidad laboral o penal que corresponda.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 44.
+
+El resguardante deberá describir mediante un Acta Administrativa las características del bien mueble, así como las circunstancias de modo, tiempo y lugar de los hechos, anexando copia de la denuncia penal y turna (sic) dicha información al Director de Administración de Bienes Patrimoniales y a Sindicatura Municipal.
 
 ## TRANSITORIOS
 
@@ -315,8 +447,16 @@ LIC. GUILLERMO BERNARDO ISLAS LEON.
 
 SECRETARIO FEDATARIO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 21 DE SEPTIEMBRE DE 2007.
 
 UNICO.- La presente reforma entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 17 DE OCTUBRE DE 2014.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de la fecha de publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- la Dirección de Seguridad Pública Municipal contará con un año a partir de la entrada en vigor de la presente reforma, para impartir el curso de manejo defensivo previsto en el artículo 3bis de la presente reforma a todos los usuarios de vehículos oficiales del Gobierno Municipal.
+
+TERCERO.- La Oficialía Mayor contará con Seis meses a partir de la entrada en vigor de la presente reforma, para rotular en la totalidad los vehículos del Gobierno Municipal con las características previstas en la reforma del artículo 17 del presente ordenamiento.
