@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-instituto-electoral-del-distrito-80854"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-15"
-last_updated: "2011-04-15"
+last_updated: "2014-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80854&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-03-28"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE OCTUBRE DE 2014.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 15 de abril de 2011.
 
@@ -188,61 +188,119 @@ REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
 
 El presente Reglamento es de observancia obligatoria en el Instituto Electoral del Distrito Federal y tiene por objeto regular su organización y atribuciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 2.
 
-Para los efectos del presente ordenamiento se entenderá por:
+Para los efectos del presente ordenamiento se entenderá:
 
 A) En cuanto a los ordenamientos legales:
 
-I. Código: Código de Instituciones y Procedimientos Electorales del Distrito Federal;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-II. Estatuto del Servicio: Estatuto del Servicio Profesional Electoral del Instituto Electoral;
+I. Ley General: La Ley General de Instituciones y Procedimientos Electorales;
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+II. La ley General de Partidos: Ley General de Partidos Políticos;
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
 
 III. Estatuto de Gobierno: Estatuto de Gobierno del Distrito Federal;
 
-IV. Ley de Participación: Ley de Participación Ciudadana del Distrito Federal;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-V. Ley de Transparencia: Ley de Transparencia y Acceso a la Información Pública del Distrito Federal;
+IV. Código: Código de Instituciones y Procedimientos Electorales del Distrito Federal;
 
-VI. Reglamento de Procedimientos Administrativos: Reglamento para el trámite, sustanciación y resolución de los Procedimientos Administrativos Sancionadores del Instituto Electoral del Distrito Federal, y
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-VII. Reglamento: El presente ordenamiento.
+V. Ley de Participación: Ley de Participación Ciudadana del Distrito Federal;
 
-B) En cuanto a sus órganos y autoridades:
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+VI. Ley de Transparencia: Ley de Transparencia y Acceso a la Información Pública del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+VII. Estatuto del Servicio: Estatuto del Servicio Profesional Electoral Nacional;
+
+> <small>(ADICIONADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+VIII. Reglamento: El Reglamento Interior del Instituto Electoral del Distrito Federal, y
+
+> <small>(ADICIONADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+IX. Reglamento de Sustanciación: Reglamento para el Trámite y Sustanciación de Quejas y Procedimientos de Investigación del Instituto Electoral del Distrito Federal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+B) En cuanto a las autoridades y órganos:
 
 I. Asamblea Legislativa: Asamblea Legislativa del Distrito Federal;
 
-II. Comisión: Comisiones permanentes y provisionales del Consejo General del Instituto Electoral;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-III. Comité: Órganos especiales y técnicos creados por acuerdo del Consejo General, en términos de lo dispuesto por el Código;
+II. Instituto Electoral: Instituto Electoral del Distrito Federal;
 
-IV. Consejero Presidente: Presidente del Instituto Electoral, del Consejo General y de la Junta;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-V. Consejeros Electorales: Consejeros Electorales del Consejo General del Instituto Electoral;
+III. Instituto Nacional: Instituto Nacional Electoral;
 
-VI. Consejeros Distritales: Consejeros de los Consejos Distritales del Instituto Electoral;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-VII. Consejo General: Consejo General del Instituto Electoral;
+IV. Consejo General: Consejo General del Instituto Electoral;
 
-VIII. Consejos Distritales: Órganos desconcentrados del Instituto Electoral que funcionan en forma colegiada durante los procesos electorales en los cuarenta distritos electorales uninominales del Distrito Federal;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-IX. Direcciones Distritales: Órganos desconcentrados del Instituto Electoral, en cada uno de los cuarenta distritos electorales uninominales en que se divide el Distrito Federal;
+V. Comisiones: Comisiones permanentes y provisionales del Consejo General
 
-X. Instituto Electoral: Instituto Electoral del Distrito Federal;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-XI. Junta: Junta Administrativa del Instituto Electoral;
+VI. Junta: Junta Administrativa del Instituto Electoral;
 
-XII. Representantes de partido: Representantes de los partidos políticos acreditados ante el Consejo General del Instituto Electoral;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-XIII. Representantes parlamentarios: Representantes de los grupos parlamentarios de la Asamblea Legislativa;
+VII. Comités: Órganos especiales y técnicos creados por acuerdo del Consejo General, en términos de lo dispuesto por el Código;
 
-XIV. Secretario Administrativo: Titular de la Secretaría Administrativa del Instituto Electoral;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-XV. Secretario del Consejo: Secretario del Consejo General del Instituto Electoral;
+VIII. Consejos Distritales: Órganos desconcentrados de carácter temporal que funcionan en forma colegiada durante los procesos electorales en cada uno de los cuarenta distritos electorales uninominales del Distrito Federal;
 
-XVI. Secretario Técnico: Secretario Técnico de las Comisiones;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-XVII. Secretario Ejecutivo: Titular de la Secretaría Ejecutiva del Instituto Electoral;
+IX. Consejero Presidente: Consejera o Consejero Presidente del Consejo General;
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+X. Consejeros Electorales: Las y los Consejeros Electorales del Consejo General;
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+XI. Secretario del Consejo: Secretaria o Secretario del Consejo General;
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+XII. Representantes de partido: Las y los Representantes de los partidos políticos acreditados ante el Consejo General;
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+XIII. Invitadas e invitados permanentes: Las y los representantes de los grupos parlamentarios de la Asamblea Legislativa del Distrito Federal a las sesiones del Consejo General;
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+XIV. Secretario Ejecutivo: El o la titular de la Secretaría Ejecutiva del Instituto Electoral;
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+XV. Secretario Administrativo: El o la titular de la Secretaría Administrativa del Instituto Electoral;
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+XVI. Directores Ejecutivos: Las y los Directores de las Direcciones Ejecutivas del Instituto Electoral;
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+XVII. Direcciones Distritales: Órganos desconcentrados de carácter permanente en cada uno de los cuarenta distritos electorales uninominales del Distrito Federal;
 
 XVIII. Unidad de Apoyo Logístico: Unidad Técnica de Archivo, Logística y Apoyo a Órganos Desconcentrados;
 
@@ -250,15 +308,17 @@ XIX. Unidad Jurídica: Unidad Técnica de Asuntos Jurídicos, y
 
 XX. Unidades: Unidades Técnicas del Instituto Electoral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 3.
 
-El Instituto Electoral se rige por las disposiciones de la Constitución Política de los Estados Unidos Mexicanos, Estatuto de Gobierno, el Código, la Ley de Participación, el Reglamento y demás ordenamientos que lo regulan.
+El Instituto Electoral se rige por las disposiciones de la Constitución Política de los Estados Unidos Mexicanos, las leyes generales, el Estatuto de Gobierno, el Código, la Ley de Participación, este Reglamento y demás ordenamientos que lo regulan.
 
 La interpretación y aplicación de las disposiciones de este Reglamento se harán conforme a los principios establecidos en los párrafos segundo y tercero del artículo 3 del Código.
 
 ###### Artículo 4.
 
-Para el ejercicio de sus atribuciones, el Instituto Electoral cuenta con la estructura que establece el Código y aprueba el Consejo General, conforme a lo siguiente:
+Para el ejercicio de sus atribuciones, el Instituto Electoral cuenta con la estructura siguiente:
 
 I. Consejo General;
 
@@ -266,7 +326,9 @@ II. Comisiones Permanentes;
 
 III. Presidencia del Instituto Electoral;
 
-IV. Junta Administrativa;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+IV. Junta;
 
 V. Órganos Ejecutivos:
 
@@ -276,11 +338,15 @@ V. Órganos Ejecutivos:
 
 3) Direcciones Ejecutivas de:
 
-a) Capacitación Electoral y Educación Cívica;
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+a) Educación Cívica y Capacitación;
 
 b) Asociaciones Políticas;
 
-c) Organización y Geografía Electoral, y
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+c) Organización y Geoestadística Electoral; y
 
 d) Participación Ciudadana;
 
@@ -292,9 +358,17 @@ VI. Unidades Técnicas de:
 
 3) Archivo, Logística y Apoyo a Órganos Desconcentrados;
 
-4) Asuntos Jurídicos, y
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-5) Del Centro de Formación y Desarrollo;
+4) Asuntos Jurídicos;
+
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+5) Del Centro de Formación y Desarrollo; y
+
+> <small>(ADICIONADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+6) Vinculación con el Instituto Nacional;
 
 VII. Órganos con autonomía técnica y de gestión:
 
@@ -304,15 +378,21 @@ VII. Órganos con autonomía técnica y de gestión:
 
 VIII. Órganos desconcentrados:
 
-1) Consejos Distritales, y
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+1) Consejos Distritales; y
 
 2) Direcciones Distritales, y
 
 IX. Mesas Directivas de Casilla.
 
-Asimismo, las diversas áreas que componen la estructura del Instituto Electoral, de manera adicional al personal que hace referencia el respectivo Reglamento, contarán con el personal operativo necesario para llevar a cabo sus respectivas atribuciones y responsabilidades.
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-Durante los procesos electorales y procedimientos de participación ciudadana, o cuando se trate de programas y proyectos específicos a desarrollarse en el Distrito Federal, el Instituto Electoral podrá contratar personal eventual para apoyar en el desarrollo de las actividades de las diversas áreas que componen su estructura, de conformidad con la disponibilidad presupuestal.
+Las diversas áreas que componen la estructura del Instituto Electoral, contarán con el personal operativo necesario para llevar a cabo sus respectivas atribuciones y responsabilidades.
+
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+Durante los procesos electorales y procedimientos de participación ciudadana, o cuando se trate de programas y proyectos específicos a desarrollarse en el Distrito Federal, el Instituto Electoral podrá contratar personal eventual para apoyar en el desarrollo de las actividades de las diversas áreas que componen su estructura, considerando en lo conducente, las reglas que para tal efecto establezca el Estatuto del Servicio.
 
 ###### Artículo 5.
 
@@ -340,9 +420,15 @@ a) Comunicación Social, Transparencia y Protección de Datos Personales;
 
 b) Servicios Informáticos;
 
-c) Archivo, Logística y Apoyo a Órganos Desconcentrados, y
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+c) Archivo, Logística y Apoyo a Órganos Desconcentrados;
 
 d) Asuntos Jurídicos, y
+
+> <small>(ADICIONADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+e) Vinculación con el Instituto Nacional.
 
 3) Direcciones Distritales;
 
@@ -356,13 +442,17 @@ V. Mesas Directivas de Casilla.
 
 Las funciones del personal del Instituto Electoral, así como su relación jerárquica, se detallarán en el Manual de Organización y Funcionamiento.
 
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 7.
 
-Con apego a lo establecido en el Código, el Consejo General podrá modificar la estructura del Instituto Electoral, atendiendo a las necesidades del servicio y los recursos presupuestales autorizados.
+El Consejo General podrá modificar la estructura del Instituto Electoral, atendiendo a las necesidades del servicio y los recursos presupuestales autorizados, con apego a lo establecido en la Ley General y el Código, considerando las normas que para tal efecto se establezcan en el Estatuto del Servicio, relativas a la formación del catálogo de cargos y puestos de los organismos públicos locales.
 
 ## TÍTULO SEGUNDO. DE LA ESTRUCTURA Y ATRIBUCIONES EN SUS OFICINAS CENTRALES
 
 ### CAPÍTULO II. DE LA ESTRUCTURA EN GENERAL Y DE LAS ADSCRIPCIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
 ## TÍTULO SEGUNDO. DE LA ESTRUCTURA Y ATRIBUCIONES EN SUS OFICINAS CENTRALES
 
@@ -384,9 +474,59 @@ II. Realizar los exhortos y pronunciamientos que considere pertinentes;
 
 III. Cumplir las resoluciones de los órganos jurisdiccionales y autoridades administrativas en el ámbito de su competencia;
 
-IV. Aprobar los montos máximos a los recursos que podrán ser utilizados por las Agrupaciones Políticas Locales en la realización de las actividades tendentes a constituirse como Partido Político Local, y
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+IV. Aprobar los montos máximos de los recursos que podrán ser utilizados por las Agrupaciones Políticas Locales y las organizaciones de ciudadanos(as) en la realización de las actividades tendentes a constituirse como Partido Político Local;
 
 V. Conocer de los informes que presente el Secretario Ejecutivo.
+
+> <small>(ADICIONADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+VI. Designar al presidente e integrantes de las Comisiones Permanentes, Provisionales y Comités;
+
+> <small>(ADICIONADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+VII. Aprobar, en su caso, en enero de cada año el ajuste al Presupuesto de Egresos y al Programa Operativo Anual del Instituto Electoral, con base en la propuesta que le presente la Junta, por conducto de su Presidente(a);
+
+> <small>(ADICIONADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+VIII. Remover, por mayoría calificada de los Consejeros Electorales, a las y los titulares de la Secretaría Ejecutiva, Direcciones Ejecutivas, y las Unidades Técnicas;
+
+> <small>(ADICIONADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+IX. Requerir a través del Secretario del Consejo, informes específicos a las áreas del Instituto Electoral;
+
+> <small>(ADICIONADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+X. Designar para los procesos electorales a las y los Consejeros Distritales;
+
+> <small>(ADICIONADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+XI. Determinar los topes máximos de gastos de campaña y precampaña;
+
+> <small>(ADICIONADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+XII. Efectuar el cómputo total de las elecciones de Jefe(a) de Gobierno y de Diputados(as) de representación proporcional, así como otorgar las constancias respectivas;
+
+> <small>(ADICIONADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+XIII. Emitir los acuerdos generales, y realizar el cómputo total de los procesos y mecanismos de participación ciudadana, conforme a lo previsto en la normatividad de la materia;
+
+> <small>(ADICIONADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+XIV. Vigilar el cumplimiento de las reglas sobre el uso, características y colocación de propaganda electoral, así como su oportuno retiro;
+
+> <small>(ADICIONADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+XV. Emitir la declaratoria de pérdida de registro de Partido Político local o Agrupación Política local;
+
+> <small>(ADICIONADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+XVI. Aprobar el Programa Anual de Auditoría que presente la Contraloría General; y
+
+> <small>(ADICIONADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+XVII. Las demás que le confiera la normativa que rige al Instituto Electoral.
 
 #### SECCIÓN SEGUNDA. DE LA PRESIDENCIA
 
@@ -396,7 +536,9 @@ ESTRUCTURA Y ATRIBUCIONES
 
 Además de las atribuciones de Consejero Electoral, al Consejero Presidente corresponde:
 
-I. Desempeñar sus funciones con autonomía y probidad, observando los principios de certeza, legalidad, independencia, imparcialidad, objetividad y equidad;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+I. Desempeñar sus funciones con autonomía y probidad, observando los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, transparencia y objetividad;
 
 II. Representar al Instituto Electoral en el ámbito local, federal e internacional, en los actos o eventos en los que el Instituto Electoral participe o asista como invitado;
 
@@ -408,7 +550,9 @@ V. Remitir los asuntos que lleguen a su oficina y sean competencia de los órgan
 
 VI. Instruir a las Direcciones Ejecutivas o Unidades las acciones que considere pertinentes para el correcto funcionamiento del Instituto Electoral;
 
-VII. Autorizar las incidencias de los Secretarios Ejecutivo y Administrativo, Contralor General y Titular de la Unidad Técnica Especializada de Fiscalización;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+VII. Autorizar las incidencias de quienes sean titulares de la Secretaría Ejecutiva y Administrativa, Contraloría General y de la Unidad Técnica Especializada de Fiscalización;
 
 VIII. Convocar y presidir las sesiones de la Junta en términos del reglamento respectivo;
 
@@ -418,7 +562,9 @@ X. Acordar con los Secretarios Ejecutivo y Administrativo sobre los asuntos de s
 
 XI. Designar al personal adscrito a su oficina conforme a los procedimientos aplicables;
 
-XII. Firmar con el Secretario Administrativo, los nombramientos de los Directores Ejecutivos y Titulares de las Unidades designados por el Consejo General, y
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+XII. Firmar con el Secretario Administrativo, los nombramientos de los Directores Ejecutivos y Titulares de las Unidades designados(as) por el Consejo General;
 
 XIII. Las demás que le confiera la normativa que rige al Instituto Electoral.
 
@@ -428,13 +574,21 @@ La estructura de la Presidencia del Consejo General es:
 
 I. Consejero Presidente:
 
-I.1. Secretario Particular;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-I.2. Coordinador de asesores;
+I.1. Secretario(a) Particular;
 
-I.2.1. Asesores, y
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-I.3. Secretaria Ejecutiva.
+I.2. Coordinación de asesores(as);
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+I.2.1. Asesores(as); y
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+I.3. Secretario(a) Ejecutivo(a).
 
 #### SECCIÓN TERCERA. DE LA ELECCIÓN DEL CONSEJERO PRESIDENTE
 
@@ -442,57 +596,27 @@ I.3. Secretaria Ejecutiva.
 
 ###### Artículo 12.
 
-Para la elección del Consejero Presidente se observará el procedimiento siguiente:
-
-I. La elección se hará en sesión del Consejo General convocada para ese único efecto;
-
-II. Será convocada por el Consejero Presidente o quien ejerza las funciones de éste, precisando fecha, hora y lugar de celebración;
-
-III. El día y hora fijados para sesionar, el Secretario del Consejo pasará lista de asistencia y verificará que exista quórum;
-
-IV. El Consejero Presidente o quien ejerza las funciones de éste, solicitará a los Consejeros Electorales proponer públicamente, de entre ellos, candidatos para dicha elección;
-
-V. El Secretario del Consejo registrará los candidatos y procederá a recabar la votación en vía económica dando cuenta del resultado;
-
-VI. Será Consejero Presidente quien obtenga la mayoría calificada de votos, lo cual se hará constar en el acta correspondiente;
-
-VII. El Consejero Presidente electo rendirá protesta de la forma siguiente: "Protesto desempeñar leal y patrióticamente el cargo de Consejero Presidente del Instituto Electoral del Distrito Federal que me ha sido conferido, guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, el Estatuto de Gobierno del Distrito Federal, el Código de Instituciones y Procedimientos Electorales del Distrito Federal, la Ley Procesal Electoral para el Distrito Federal y la Ley de Participación Ciudadana del Distrito Federal, así como las disposiciones que de ellos emanen, mirando en todo momento por el bien y la prosperidad del Distrito Federal, y si no lo hiciere así que el pueblo de esta entidad federativa me lo demande", y
-
-VIII. Acto seguido, el Consejero Presidente electo ocupará el lugar para dirigir el Consejo General y continuar la sesión.
+(DEROGADO, G.O. 17 DE OCTUBRE DE 2014)
 
 #### SECCIÓN CUARTA. DE LAS AUSENCIAS DEL CONSEJERO PRESIDENTE
+
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
 #### SECCIÓN CUARTA. DE LAS AUSENCIAS DEL CONSEJERO PRESIDENTE
 
 ###### Artículo 13.
 
-Las ausencias temporales del Consejero Presidente podrán suplirse por el Consejero Electoral que él designe, esta designación se hará de forma rotatoria. Quedarán comprendidas las ausencias por motivos de salud, vacaciones y demás debidamente justificadas.
+Si transcurridos 30 minutos a la hora en que fue convocada la sesión del Consejo General, se verifica la ausencia del Consejero Presidente, el Secretario Ejecutivo declarará el inicio de la sesión y, acto seguido, consultará al Consejo General sobre el Consejero Electoral que designará para que presida.
 
-Se exceptúa de lo anterior, las ausencias previas al inicio de las sesiones de Consejo General, cuya sustitución se hará conforme al Código.
+Las ausencias momentáneas del Consejero Presidente en las sesiones del Consejo General podrán suplirse por el Consejero Electoral que el propio Consejero Presidente designe. Quedarán comprendidas las ausencias por motivos de salud, vacaciones y demás debidamente justificadas.
 
-En caso de ausencia definitiva, el Secretario del Consejo convocará a sesión del Consejo General, para que se designe de entre los Consejeros Electorales a quien ejerza las funciones de Consejero Presidente Interino, en tanto la Asamblea Legislativa elija al Consejero Electoral sustituto.
+En caso de ausencia definitiva del Consejero Presidente o de un Consejero Electoral, el Consejo General del Instituto Nacional hará la designación correspondiente en términos de la Constitución y la Ley General.
 
-Al cargo de Consejero Presidente Interino no le será aplicable el supuesto establecido en los artículos 125, segundo párrafo del Estatuto de Gobierno y 25, último párrafo del Código.
+Para efectos de este Reglamento, se reputa ausencia definitiva la renuncia, fallecimiento o remoción ejecutoriada del Consejero Presidente o algún Consejero Electoral del Instituto Electoral.
 
 ###### Artículo 14.
 
-Para la elección del Consejero Presidente Interino se observará el procedimiento siguiente:
-
-I. La elección se hará en sesión del Consejo General convocada para ese único efecto;
-
-II. Será convocada por el Secretario del Consejo; precisando fecha, hora y lugar de celebración;
-
-III. El día y hora fijados para sesionar, el Secretario del Consejo pasará lista de asistencia y verificará que exista quórum;
-
-IV. El Secretario del Consejo solicitará a los Consejeros Electorales proponer públicamente, de entre ellos, candidatos para dicha elección;
-
-V. El Secretario del Consejo registrará los candidatos y procederá a recabar la votación por cada uno de los Consejeros Electorales propuestos en vía económica, dando cuenta del resultado;
-
-VI. Será Consejero Presidente Interino quien obtenga la mayoría de votos, lo cual se hará constar en el acta correspondiente;
-
-VII. El Consejero Presidente Interino rendirá protesta de la forma siguiente: "Protesto desempeñar leal y patrióticamente el cargo de Consejero Presidente Interino del Instituto Electoral del Distrito Federal que me ha sido conferido, guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, el Estatuto de Gobierno del Distrito Federal, el Código de Instituciones y Procedimientos Electorales del Distrito Federal, la Ley Procesal Electoral para el Distrito Federal y la Ley de Participación Ciudadana del Distrito Federal, así como las disposiciones que de ellos emanen, mirando en todo momento por el bien y la prosperidad del Distrito Federal, y si no lo hiciere así que el pueblo de esta entidad federativa me lo demande", y
-
-VIII. Acto seguido, el Consejero Presidente Interino ocupará el lugar para dirigir el Consejo General y continuar la sesión.
+(DEROGADO, G.O. 17 DE OCTUBRE DE 2014)
 
 #### SECCIÓN QUINTA. DE LOS CONSEJEROS ELECTORALES
 
@@ -502,7 +626,9 @@ VIII. Acto seguido, el Consejero Presidente Interino ocupará el lugar para diri
 
 Son atribuciones de los Consejeros Electorales:
 
-I. Desempeñar sus funciones con autonomía y probidad, observando los principios de certeza, legalidad, independencia, imparcialidad, objetividad y equidad;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+I. Desempeñar sus funciones con autonomía y probidad, observando los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, transparencia y objetividad;
 
 II. Manifestarse libremente sobre los temas de las sesiones del Consejo General, de las Comisiones y de los Comités;
 
@@ -526,19 +652,29 @@ La estructura de la oficina de los Consejeros Electorales es:
 
 I. Consejero Electoral:
 
-I.1. Coordinación de asesores;
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-I.1.1. Asesores, y
+I.1. Coordinación de asesores(as);
 
-I.2. Secretaria Ejecutiva.
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-#### SECCIÓN SEXTA. DE LOS REPRESENTANTES DE PARTIDO Y PARLAMENTARIOS
+I.1.1. Asesores(as); y
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+I.2. Secretario(a) Ejecutivo(a).
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+#### SECCIÓN SEXTA. DE LOS REPRESENTANTES DE PARTIDO POLÍTICO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
 #### SECCIÓN SEXTA. DE LOS REPRESENTANTES DE PARTIDO Y PARLAMENTARIOS
 
 ###### Artículo 17.
 
-Corresponde a los representantes de partido y parlamentarios de la Asamblea Legislativa, lo siguiente:
+Corresponde a los Representantes de partido lo siguiente:
 
 I. Solicitar, para el adecuado desempeño de sus funciones como integrantes del Consejo General, de las Comisiones y de los Comités, la colaboración de los órganos del Instituto Electoral, a través del Secretario Ejecutivo o Administrativo, según corresponda;
 
@@ -546,11 +682,29 @@ II. Proponer ante las instancias correspondientes, al personal que deberá adscr
 
 III. Manifestarse libremente sobre los temas que se traten en las sesiones;
 
-IV. Sustituirse durante el desarrollo de las sesiones, entre propietarios y suplentes, y
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+IV. Sustituirse durante el desarrollo de las sesiones, entre propietarios(as) y suplentes; y
 
 V. Las demás actividades que les confiera la normativa que rige al Instituto Electoral.
 
-#### SECCIÓN PRIMERA. DE LA CONTRALORÍA GENERAL
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+#### SECCIÓN SÉPTIMA. DE LAS INVITADAS E INVITADOS PERMANENTES
+
+> <small>(ADICIONADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 17 Bis.
+
+Las invitadas e invitados permanentes podrán asistir a las sesiones del Consejo General y de las Comisiones Permanentes y Provisionales a las que también asistan los representantes de partido, así como, durante los procesos electorales, participarán en las sesiones del Comité Especial que dé seguimiento a los programas y procedimientos para recabar y difundir tendencias y resultados preliminares electorales.
+
+Corresponde a las invitadas e invitados permanentes lo siguiente:
+
+I. Participar sólo con derecho a voz en las sesiones;
+
+II. Manifestarse libremente sobre los temas que se traten en las sesiones; y
+
+III. Las demás actividades que les confiera la normativa que rige al Instituto Electoral.
 
 ### CAPÍTULO I. DEL CONSEJO GENERAL
 
@@ -562,11 +716,13 @@ V. Las demás actividades que les confiera la normativa que rige al Instituto El
 
 El Consejo General cuenta con Comisiones permanentes y provisionales conforme lo establecido en el Código.
 
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 19.
 
-Los Directores Ejecutivos, los Titulares de las Unidades y los Presidentes de los Comités participarán en las sesiones o reuniones de trabajo de las Comisiones, a invitación de su Presidente.
+Los Directores Ejecutivos, Titulares de las Unidades y Presidentes(as) de los Comités participarán en las sesiones o reuniones de trabajo de las Comisiones, a invitación de su Presidente(a).
 
-Asimismo, los Presidentes de las Comisiones podrán requerir la presencia de algún servidor público del Instituto Electoral, para coadyuvar en los trabajos de su respectiva Comisión.
+Asimismo, las y los Presidentes de las Comisiones podrán requerir la presencia de algún servidor público del Instituto Electoral, para coadyuvar en los trabajos de su respectiva Comisión.
 
 ### CAPÍTULO II. DE LAS COMISIONES DEL CONSEJO GENERAL
 
@@ -588,35 +744,53 @@ II. Las demás que disponga la normativa del Instituto Electoral.
 
 Son atribuciones del Secretario Ejecutivo:
 
-I. Desempeñar sus funciones con autonomía y probidad, observando los principios de certeza, legalidad, independencia, imparcialidad, objetividad y equidad;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-II. Remitir a los Consejeros Electorales, Representantes de partido y parlamentarios, Directores Ejecutivos y Titulares de las Unidades, los acuerdos, resoluciones y las actas de las sesiones aprobados por el Consejo General;
+I. Desempeñar sus funciones con autonomía y probidad, observando los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, transparencia y objetividad;
 
-III. Recibir de los presidentes de las Comisiones las convocatorias, minutas de las sesiones, informes, dictámenes y proyectos de acuerdo o resolución elaborados o aprobados por éstas;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+II. Remitir a los Consejeros Electorales, los Representantes de partido, los Directores Ejecutivos y Titulares de las Unidades, los acuerdos, resoluciones y las actas de las sesiones aprobados por el Consejo General;
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+III. Recibir de las y los presidentes de las Comisiones las convocatorias, minutas de las sesiones, informes, dictámenes y proyectos de acuerdo o resolución elaborados o aprobados por éstas;
 
 IV. Recibir y atender las solicitudes de apoyo técnico e información, así como las consultas que le sean formuladas directamente por los Consejeros Electorales;
 
 V. Acordar con el Consejero Presidente los asuntos de su competencia;
 
-VI. Dar aviso a las instancias competentes de los partidos políticos y de la Asamblea Legislativa, de las ausencias a las sesiones del Consejo General, que queden acreditadas a cargo de los Representantes de partido y parlamentarios;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+VI. Dar aviso a las instancias competentes de los partidos políticos, respecto a las ausencias acreditadas de los Representantes de partido a las sesiones del Consejo General;
 
 VII. Emitir circulares internas, en el ámbito de sus atribuciones, las cuales serán obligatorias para quienes estén dirigidas;
 
 VIII. Establecer con los Directores Ejecutivos y Titulares de las Unidades, los mecanismos de coordinación de sus trabajos;
 
-IX. Supervisar y coordinar las actividades de la Oficialía de Partes del Instituto Electoral;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+IX. Supervisar y coordinar las actividades de la Oficialía Electoral y de Partes del Instituto Electoral;
 
 X. Convocar a los Directores Ejecutivos y Titulares de las Unidades a reuniones de trabajo para definir las actividades de las mismas cuando se trate de materias que las involucren de manera conjunta y, en su caso, solicitar la coordinación del Secretario Administrativo;
 
 XI. Designar al personal adscrito a su oficina, conforme a los procedimientos aplicables;
 
-XII. Habilitar, mediante oficio, que será publicado en los estrados del Instituto Electoral, así como en su sitio de Internet, a los servidores públicos que fungirán como notificadores en los diversos trámites y procedimientos a cargo del Instituto Electoral;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-XIII. Sustanciar los procedimientos de determinación de sanciones a los servidores públicos del Instituto Electoral, en términos del Estatuto del Servicio;
+XII. Habilitar, mediante oficio, que será publicado en los estrados del Instituto Electoral, así como en su sitio de Internet, a los servidores públicos que fungirán como notificadores(as) en los diversos trámites y procedimientos a cargo del Instituto Electoral;
 
-XIV. Sustanciar los procedimientos administrativos sancionadores electorales, en términos de lo dispuesto en el Reglamento de Procedimientos Administrativos;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-XV. Informar al Consejero Presidente, sobre las solicitudes de apoyo técnico e información, así como de las consultas formuladas por los presidentes de las Comisiones y Comités;
+XIII. Conocer, sustanciar y resolver los procedimientos disciplinarios instruidos a los servidores públicos del Instituto Electoral, así como los recursos de inconformidad, en términos de lo previsto en la normativa aplicable;
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+XIV. Sustanciar los procedimientos ordinarios administrativos sancionadores electorales, y tramitar los especiales en términos de lo previsto en el Código y en el Reglamento de Sustanciación;
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+XV. Informar al Consejero Presidente sobre las solicitudes de apoyo técnico e información, así como de las consultas formuladas por las y los Presidentes de las Comisiones y Comités;
 
 XVI. Elaborar, con el apoyo de las áreas implicadas, el engrose señalado en el artículo 35, fracción XIII del Código;
 
@@ -628,19 +802,45 @@ XVIII. Las demás que le confieran el Consejo General y la normativa que rige al
 
 La estructura de la Secretaria Ejecutiva es:
 
-I. Secretario Ejecutivo:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-I.1. Coordinación de Asesores:
+I. Titular de la Secretaría Ejecutiva
 
-I.1.1. Asesores;
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-I.2. Asistente Ejecutivo:
+I.1. Coordinación de Asesores(as):
 
-I.2.1. Coordinación de Gestión;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-I.2.2. Departamento de Oficialía de Partes, y
+I.1.1. Asesores(as);
 
-I.3. Secretaria Ejecutiva.
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+I.2. Asistente Ejecutivo(a):
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+I.3 Coordinación de Gestión;
+
+> <small>(ADICIONADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+I.4. Oficialía Electoral y de Partes:
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+I.4.1. Oficial Electoral;
+
+> <small>(ADICIONADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+I.4.2. Departamento de Autenticación Electoral; y
+
+> <small>(ADICIONADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+I.4.3. Departamento de Recepción de Documentos;
+
+> <small>(ADICIONADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+I.5. Secretario(a) Ejecutivo(a).
 
 ### CAPÍTULO IV. DE LA SECRETARÍA EJECUTIVA
 
@@ -650,15 +850,21 @@ I.3. Secretaria Ejecutiva.
 
 Son atribuciones del Secretario Administrativo:
 
-I. Desempeñar sus funciones con autonomía y probidad, observando los principios de certeza, legalidad, independencia, imparcialidad, objetividad y equidad;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+I. Desempeñar sus funciones con autonomía y probidad, observando los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, transparencia y objetividad;
 
 II. Participar en las sesiones de las Comisiones y Comités, conforme a lo establecido por el Código, el Reglamento y demás ordenamientos aplicables;
 
 III. Presidir los Comités que determine el Consejo General;
 
-IV. Solicitar a los Titulares de los órganos del Instituto Electoral sus propuestas para integrar el proyecto de Programa Operativo Anual y el anteproyecto de presupuesto del Instituto Electoral, con base en los criterios generales y procedimientos aprobados por la Junta;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-V. Requerir a los Titulares de los órganos del Instituto Electoral la información necesaria para integrar el avance programático presupuestal y del ejercicio del gasto de sus respectivas áreas, para presentarlo a la Junta y al Consejo General;
+IV. Solicitar a las y los Titulares de los órganos del Instituto Electoral sus propuestas para integrar el proyecto de Programa Operativo Anual y el anteproyecto de presupuesto del Instituto Electoral, con base en los criterios generales y procedimientos aprobados por la Junta;
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+V. Requerir a las y los Titulares de los órganos del Instituto Electoral la información necesaria para integrar el avance programático presupuestal y del ejercicio del gasto de sus respectivas áreas, para presentarlo a la Junta y al Consejo General;
 
 VI. Emitir circulares internas, en el ámbito de sus atribuciones, las cuales serán obligatorias para quienes estén dirigidas;
 
@@ -666,7 +872,9 @@ VII. Mantener actualizado el inventario de los bienes del Instituto Electoral;
 
 VIII. Adoptar las medidas para la atención y seguimiento a las necesidades administrativas del Instituto Electoral, aplicando las normas que son de su competencia y adoptar las determinaciones correspondientes;
 
-IX. Instrumentar las medidas administrativas necesarias a fin de hacer efectivos los derechos de los servidores del Instituto Electoral consagrados en el Estatuto del Servicio, y
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+IX. Instrumentar las medidas administrativas necesarias a fin de hacer efectivos los derechos de los servidores públicos del Instituto Electoral consagrados en el Estatuto del Servicio y demás normativa aplicable; y
 
 X. Las demás que le confiera la normativa que rige al Instituto Electoral.
 
@@ -676,9 +884,13 @@ La estructura de la Secretaría Administrativa es:
 
 I. Secretario Administrativo:
 
-I.1. Asistente Ejecutivo;
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-I.1.1. Coordinador de Gestión;
+I.1. Asistente Ejecutivo(a);
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+I.1.1. Coordinación de Gestión;
 
 I.2. Coordinación de Planeación:
 
@@ -686,7 +898,9 @@ I.2.1. Departamento de Evaluación y Seguimiento;
 
 I.2.2. Departamento de Planeación y Prospectiva, y
 
-I.3. Secretaria Ejecutiva.
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+I.3. Secretario(a) Ejecutivo(a).
 
 II. Dirección de Recursos Humanos y Financieros:
 
@@ -730,7 +944,9 @@ III.3. Departamento de Seguridad y Protección Civil.
 
 ### CAPÍTULO V. DE LA SECRETARÍA ADMINISTRATIVA
 
-#### SECCIÓN SEGUNDA. DE LA UNIDAD TÉCNICA ESPECIALIZADA DE FISCALIZACIÓN
+#### SECCIÓN PRIMERA. DE LA CONTRALORÍA GENERAL
+
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
 ### CAPÍTULO V. DE LA SECRETARÍA ADMINISTRATIVA
 
@@ -738,9 +954,9 @@ III.3. Departamento de Seguridad y Protección Civil.
 
 ###### Artículo 25.
 
-El Contralor General, en atención a la autonomía técnica y de gestión de la Contraloría, realizará de manera directa la defensa jurídica de los actos o resoluciones que emita ante las diversas instancias administrativas y jurisdiccionales, en los asuntos relacionados con el ejercicio de sus atribuciones.
+La o el Contralor General, en atención a la autonomía técnica y de gestión de la Contraloría, realizará de manera directa la defensa jurídica de los actos o resoluciones que emita ante las diversas instancias administrativas y jurisdiccionales, en los asuntos relacionados con el ejercicio de sus atribuciones.
 
-La Contraloría General observará las normas, procedimientos y circulares que emitan, respectivamente, el Consejo General, la Junta y los Secretarios Ejecutivo y Administrativo, en materia de horarios, días laborales, finanzas, presupuestación, adquisiciones, servicios generales, formación y capacitación, selección y reclutamiento del personal administrativo y demás que competan al ámbito administrativo.
+La Contraloría General deberá sujetarse a las normas, procedimientos y circulares que emitan, respectivamente, el Consejo General, la Junta, las Secretarías Ejecutiva y Administrativa, así como lo establecido en el Estatuto del Servicio, en materia de horarios, días laborales, finanzas, presupuestación, adquisiciones, servicios generales, formación y capacitación, selección y reclutamiento del personal administrativo y demás que competan al ámbito administrativo.
 
 ###### Artículo 26.
 
@@ -770,9 +986,13 @@ X. Las demás que le confiera la normativa que rige al Instituto Electoral.
 
 La estructura de la Contraloría General es:
 
-I. Contralor General:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-I.1. Asesores;
+I. Contralor(a) General:
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+I.1. Asesores(as);
 
 II. Subcontraloría de Auditoría, Control y Evaluación:
 
@@ -800,21 +1020,45 @@ IV.2. Departamento de Atención a Comités, y
 
 IV.3. Departamento de Normatividad.
 
-El Contralor General someterá a la consideración de la Junta, con estricto apego al marco jurídico que regula su actuación, las atribuciones y funciones de las Subcontralorías que conforman su estructura, las cuales una vez aprobadas, se integrarán a los procedimientos, manuales e instructivos que sean necesarios para el desempeño de sus funciones, así como al Manual de Organización y Funcionamiento del Instituto Electoral.
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-#### SECCIÓN PRIMERA. DE SUS ATRIBUCIONES
+La o el Contralor General someterá a la consideración de la Junta, con estricto apego al marco jurídico que regula su actuación, las atribuciones y funciones de las Subcontralorías que conforman su estructura, las cuales una vez aprobadas, se integrarán a los procedimientos, manuales e instructivos que sean necesarios para el desempeño de sus funciones, así como al Manual de Organización y Funcionamiento del Instituto Electoral.
+
+#### SECCIÓN SEGUNDA. DE LA UNIDAD TÉCNICA ESPECIALIZADA DE FISCALIZACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
 #### SECCIÓN PRIMERA. DE SUS ATRIBUCIONES
 
 ###### Artículo 28.
 
-Además de las atribuciones que se establecen en el Código, la Unidad Técnica Especializada de Fiscalización tendrá las siguientes:
+De conformidad con la Ley General, el Código y este Reglamento, la Unidad Técnica Especializada de Fiscalización tendrá las atribuciones siguientes:
 
-I. Informar de manera periódica y detallada a la Comisión de Fiscalización, respecto del procedimiento de liquidación del patrimonio de las asociaciones políticas que hubieren perdido su registro;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-II. Generar medidas preventivas, orientadas a favorecer el adecuado registro contable y presentación de informes de las asociaciones políticas y a promover entre ellas cultura de la rendición de cuentas, en su vertiente de origen, monto y destino de los recursos que emplean, y
+I. La fiscalización relacionada con el origen y destino de los recursos de:
 
-III. Las demás que les confiera la normativa que rige al Instituto Electoral.
+a) Las Agrupaciones Políticas Locales y las organizaciones de ciudadanos(as) interesadas en constituirse como Partidos Políticos locales, utilizados para el desarrollo de actividades tendentes a la obtención del registro legal;
+
+b) Las y los aspirantes a candidatos independientes utilizados durante el proceso para la obtención de firmas ciudadanas a su favor; y
+
+c) Las organizaciones de observación electoral respecto del financiamiento que obtengan para el desarrollo de sus actividades relacionadas directamente con su función.
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+II. En caso de delegación, la fiscalización sobre el origen y destino de los recursos de los Partidos Políticos y candidatos(as) observando las disposiciones que para el efecto emita el Instituto Nacional;
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+III. Informar de manera periódica y detallada a la Comisión de Fiscalización, respecto del procedimiento de liquidación del patrimonio de las asociaciones políticas que hubieren perdido su registro;
+
+> <small>(ADICIONADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+IV. Generar medidas preventivas, orientadas a favorecer el adecuado registro contable y presentación de informes de las asociaciones políticas y a promover entre ellas cultura de la rendición de cuentas, en su vertiente de origen, monto y destino de los recursos que emplean, y
+
+> <small>(ADICIONADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+V. Las demás que les confiera la normativa que rige al Instituto Electoral.
 
 ###### Artículo 29.
 
@@ -838,7 +1082,7 @@ III.1.1. Departamentos de Proyectos.
 
 ### CAPÍTULO VI. DE LOS ÓRGANOS CON AUTONOMÍA TÉCNICA Y DE GESTIÓN
 
-#### SECCIÓN SEGUNDA. DE SU ESTRUCTURA ORGÁNICA
+#### SECCIÓN PRIMERA. DE SUS ATRIBUCIONES
 
 ### CAPÍTULO VI. DE LOS ÓRGANOS CON AUTONOMÍA TÉCNICA Y DE GESTIÓN
 
@@ -854,7 +1098,9 @@ II. Cumplir los acuerdos que emitan el Consejo General, las Comisiones, los Comi
 
 III. Proporcionar los informes y documentos que les requieran el Consejo General, las Comisiones, los Comités, el Consejero Presidente, los Consejeros Electorales, la Junta, el Secretario Ejecutivo y el Secretario Administrativo;
 
-IV. Coadyuvar y asesorar técnicamente a las Comisiones y Comités, en asuntos de su competencia, cuando así lo solicite el presidente de las mismas, informando al Secretario Ejecutivo o al Secretario Administrativo, según sea el caso;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+IV. Coadyuvar y asesorar técnicamente a las Comisiones y Comités, en asuntos de su competencia, cuando así lo solicite el presidente de las mismas, informando a las Secretarías Ejecutiva o Administrativa, según sea el caso;
 
 V. Emitir dictámenes y opiniones en el marco de su competencia sobre asuntos que le solicite el Consejo General, las Comisiones, los Comités, el Consejero Presidente, los Consejeros Electorales, la Secretaría Ejecutiva, la Secretaría Administrativa y la Junta, y
 
@@ -868,19 +1114,27 @@ I. Acordar con el Secretario Ejecutivo los asuntos de su competencia;
 
 II. Cumplir las instrucciones que emitan el Consejo General, los Consejeros Electorales, las Comisiones, los Comités, la Junta y el Secretario Ejecutivo;
 
-III. Asistir a las sesiones y reuniones de trabajo de las Comisiones y Comités a que sean convocados;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+III. Asistir a las sesiones y reuniones de trabajo de las Comisiones y Comités a que sean convocados(as);
 
 IV. Integrar la Junta y asistir a sus sesiones con derecho a voz y voto;
 
-V. Asistir a las reuniones de trabajo convocadas por los Presidentes de las Comisiones, Comités, Consejeros Electorales, Secretarios Ejecutivo y Administrativo, cuando se traten asuntos de su competencia;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+V. Asistir a las reuniones de trabajo convocadas por las y los Presidentes de las Comisiones o Comités, los Consejeros Electorales, el Secretario Ejecutivo y Administrativo; cuando se traten asuntos de su competencia;
 
 VI. Asistir a las sesiones de los Comités de los que formen parte;
 
-VII. Formular el anteproyecto del Programa Operativo Anual y el presupuesto de la Dirección Ejecutiva a su cargo y presentarlo al Secretario Administrativo, de conformidad con los criterios generales y los procedimientos aprobados por la Junta;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+VII. Formular el anteproyecto del Programa Operativo Anual y el presupuesto de la Dirección Ejecutiva a su cargo y presentarlo a la Secretaría Administrativa, de conformidad con los criterios generales y los procedimientos aprobados por la Junta;
 
 VIII. Supervisar el cumplimiento de las actividades institucionales contenidas en las fichas descriptivas del Programa Operativo Anual aprobado por el Consejo General, correspondientes a su área, así como la realización de las actividades conforme al calendario respectivo;
 
-IX. Presentar al Secretario Ejecutivo, para su remisión a la Junta, en la fecha que ésta determine, sus propuestas, según corresponda, para la integración de los programas institucionales establecidos en el Código;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+IX. Presentar a la Secretaría Ejecutiva, para su remisión a la Junta, en la fecha que ésta determine, sus propuestas, según corresponda, para la integración de los programas institucionales establecidos en el Código;
 
 X. Coordinar y supervisar el funcionamiento de las áreas y del personal que integra la estructura de la Dirección Ejecutiva a su cargo;
 
@@ -890,13 +1144,15 @@ XII. Designar al personal adscrito a su oficina, de conformidad con la clasifica
 
 XIII. Las demás que les confiera la normativa que rige al Instituto Electoral.
 
-#### SECCIÓN PRIMERA. DE SUS ATRIBUCIONES
+#### SECCIÓN SEGUNDA. DE SU ESTRUCTURA ORGÁNICA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
 #### SECCIÓN PRIMERA. DE SUS ATRIBUCIONES
 
 ###### Artículo 32.
 
-La estructura de la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica es:
+La estructura de la Dirección Ejecutiva de Educación Cívica y Capacitación es:
 
 I. Director Ejecutivo:
 
@@ -958,13 +1214,27 @@ II.1.4. Departamento de Financiamiento;
 
 III. Dirección de Quejas:
 
-III.1. Subdirección de Sustanciación y Resolución, y
+> <small>(REFORMADO PRIMER PÁRAFO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-III.1.1. Departamentos de Sustanciación y Resolución.
+III.1. Subdirección de Sustanciación; y
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+III.1.1. Departamento de Sustanciación.
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+III.2. Subdirección de Resolución; y
+
+> <small>(ADICIONADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+III.2.1. Departamento de Resolución.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 34.
 
-La estructura de la Dirección Ejecutiva de Organización y Geografía Electoral es:
+La estructura de la Dirección Ejecutiva de Organización y Geoestadística Electoral es:
 
 I. Director Ejecutivo:
 
@@ -990,25 +1260,41 @@ II.2.2. Departamento de Materiales Electorales;
 
 II.2.3. Departamento de Documentación Electoral;
 
-III. Dirección de Geografía, Estadística y Estudios Electorales:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-III.1. Subdirección de Sistemas e Información Geoelectoral;
+III. Dirección de Geoestadística y Estudios Electorales:
 
-III.1.1. Departamento de Procesamiento y Análisis Cartográfico;
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-III.1.2. Departamento de Administración de Productos Cartográficos;
+III.1. Subdirección de Sistemas e Información Geoestadística;
 
-III.1.3. Departamento de Desarrollo de Sistemas Electorales;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+III.1.1. Departamento de Procesamiento y Análisis Cartográfico para los procesos de participación ciudadana;
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+III.1.2. Departamento de Administración de Productos Cartográficos para los procesos de participación ciudadana;
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+III.1.3. Departamento de Desarrollo de Sistemas Geoelectorales;
 
 III.2. Subdirección de Estadística y Estudios Electorales;
 
 III.2.1. Departamento de Estadística Electoral;
 
-III.2.2. Departamento de Estudios Electorales;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-III.2.3. Departamento de Análisis e Investigación Electoral, y
+III.2.2. Departamento de Estudios Electorales y Gestión documental;
 
-III.2.4. Departamento de Gestión y Análisis de Instrumentos Electorales.
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+III.2.3. Departamento de Análisis, Investigación y Seguimiento Electoral; y
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+III.2.4. Departamento de normatividad y colaboración en materia registral.
 
 ###### Artículo 35.
 
@@ -1016,7 +1302,9 @@ La estructura de la Dirección Ejecutiva de Participación Ciudadana es:
 
 I. Director Ejecutivo:
 
-I.1. Coordinador de Gestión;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+I.1. Coordinación de Gestión;
 
 II. Dirección de Formación y Desarrollo Participativo:
 
@@ -1046,9 +1334,9 @@ III.2.2. Departamento de Instrumentos de Evaluación.
 
 ### CAPÍTULO VII. DE LAS DIRECCIONES EJECUTIVAS
 
-#### SECCIÓN SEGUNDA. DE LA UNIDAD TÉCNICA DE COMUNICACIÓN SOCIAL, TRANSPARENCIA Y PROTECCIÓN DE DATOS PERSONALES
+#### SECCIÓN PRIMERA. DE SUS ATRIBUCIONES
 
-ATRIBUCIONES Y ESTRUCTURA
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
 ### CAPÍTULO VII. DE LAS DIRECCIONES EJECUTIVAS
 
@@ -1058,23 +1346,35 @@ ATRIBUCIONES Y ESTRUCTURA
 
 ###### Artículo 36.
 
-Son atribuciones de los Titulares de las Unidades, con excepción del titular de la Unidad Técnica Especializada de Fiscalización:
+Son atribuciones de las y los Titulares de las Unidades, con excepción del o la Titular de la Unidad Técnica Especializada de Fiscalización:
 
 I. Acordar con el Secretario Ejecutivo los asuntos de su competencia;
 
 II. Cumplir las instrucciones que emita el Consejo General, las Comisiones, los Comités, la Junta, y los Secretario Ejecutivo y Administrativo, en el ámbito de sus atribuciones;
 
-III. Asistir a las sesiones y reuniones de trabajo de las Comisiones y Comités, cuando así lo soliciten los presidentes de los mismos, por tratarse de asuntos de su competencia e informar al Secretario Ejecutivo y Administrativo en el ámbito de sus atribuciones, los asuntos tratados y los acuerdos tomados;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-IV. Asistir a las sesiones de la Junta en su calidad de invitados;
+III. Asistir a las sesiones y reuniones de trabajo de las Comisiones y Comités, cuando así lo soliciten las y los Presidentes de los mismos, por tratarse de asuntos de su competencia e informar a la Secretaría Ejecutiva y Administrativa en el ámbito de sus atribuciones, los asuntos tratados y los acuerdos tomados;
 
-V. Asistir a las reuniones de trabajo convocadas por el Secretario Ejecutivo o el Secretario Administrativo, en el ámbito de sus atribuciones;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-VI. Asistir a las sesiones de los Comités de los que formen parte, en los que funjan como vocales, asesores o invitados;
+IV. Asistir a las sesiones de la Junta en su calidad de invitados(as);
 
-VII. Proporcionar los informes, datos y documentos que les soliciten, el Consejero Presidente, las Comisiones, los Comités, los Consejeros Electorales, la Junta, los Secretarios Administrativo y Ejecutivo, haciendo del conocimiento tal circunstancia a estos últimos, según corresponda;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-VIII. Formular los anteproyectos de Programa Operativo Anual y de presupuesto de la Unidad Técnica a su cargo y presentarlos al Secretario Ejecutivo o al Secretario Administrativo, de conformidad con los criterios generales y los procedimientos aprobados por la Junta;
+V. Asistir a las reuniones de trabajo convocadas por el Secretario Ejecutivo, en su caso, por el Secretario Administrativo en el ámbito de sus atribuciones;
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+VI. Asistir a las sesiones de los Comités de los que formen parte, en los que funjan como vocales, asesores(as) o invitados(a);
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+VII. Proporcionar los informes, datos y documentos que les soliciten, el Consejero Presidente, las Comisiones, los Comités, Consejeros Electorales, la Junta, las Secretarías Ejecutiva y Administrativa, haciendo del conocimiento tal circunstancia a estos últimos, según corresponda;
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+VIII. Formular los anteproyectos de Programa Operativo Anual y de presupuesto de la Unidad Técnica a su cargo y presentarlos a las Secretarías Ejecutiva o Administrativa, de conformidad con los criterios generales y los procedimientos aprobados por la Junta;
 
 IX. Presentar para la consideración del Secretario Ejecutivo y Administrativo, en el ámbito de sus atribuciones, los proyectos de procedimientos administrativos necesarios para el desarrollo de sus atribuciones;
 
@@ -1088,7 +1388,7 @@ XIII. Proporcionar la información necesaria, a efecto de que la Junta y el Secr
 
 XIV. Las demás que le confieran la normativa que rige al Instituto Electoral.
 
-#### SECCIÓN TERCERA. DE LA UNIDAD TÉCNICA DE SERVICIOS INFORMÁTICOS
+#### SECCIÓN SEGUNDA. DE LA UNIDAD TÉCNICA DE COMUNICACIÓN SOCIAL, TRANSPARENCIA Y PROTECCIÓN DE DATOS PERSONALES
 
 ATRIBUCIONES Y ESTRUCTURA
 
@@ -1100,9 +1400,13 @@ ATRIBUCIONES Y ESTRUCTURA
 
 A la Unidad Técnica de Comunicación Social, Transparencia y Protección de Datos Personales corresponde:
 
-I. Diseñar, producir y difundir las acciones para fortalecer la imagen institucional;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-II. Diseñar, producir y difundir las acciones para consolidar la comunicación institucional;
+I. Diseñar, producir y difundir las acciones para fortalecer la imagen institucional y consolidar la comunicación institucional;
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+II. Llevar a cabo la difusión integral de las actividades institucionales;
 
 III. Presentar al Secretario Ejecutivo la propuesta anual de la Estrategia de Difusión Institucional, para ser sometida a consideración de la Junta. La estrategia deberá procurar difundir de manera eficaz y eficiente los programas, políticas y actividades institucionales;
 
@@ -1112,7 +1416,9 @@ V. Operar las relaciones públicas e interinstitucionales;
 
 VI. Organizar conferencias de prensa, foros y entrevistas necesarias para la difusión de los planes, programas y actividades institucionales;
 
-VII. Presentar al Secretario Ejecutivo la propuesta anual de la Estrategia de Comunicación Institucional, para ser sometida a la consideración de la Junta;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+VII. Elaborar la síntesis informativa y reportes de monitoreo de medios de comunicación impresos y electrónicos de actividades institucionales y temas de interés;
 
 VIII. Ejecutar el Programa Operativo Anual aprobado por el Consejo General, respecto a los proyectos de comunicación social, transparencia y protección de datos personales elaborados por la propia Unidad;
 
@@ -1142,9 +1448,13 @@ XX. Facilitar el acceso a la información pública generada, administrada, o en 
 
 XXI. Difundir, en el sitio de Internet del Instituto Electoral, la información generada por las distintas áreas del mismo, con apego a la Ley de Transparencia;
 
-XXII. Informar al Consejero Presidente, a los Consejeros Electorales, los Secretarios Ejecutivo y Administrativo, así como a los Directores Ejecutivos y Titulares de Unidad de la difusión que realicen los medios de comunicación respecto de las actividades y funciones del Instituto Electoral;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-XXIII. Atender las solicitudes de los órganos del Instituto Electoral y brindar apoyo en materia de comunicación social, previa instrucción del Secretario Ejecutivo;
+XXII. Coadyuvar en el diseño y aplicación de estrategias y campañas de promoción del voto, de difusión de la cultura democrática y de participación ciudadana;
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+XXIII. Administrar las cuentas institucionales de redes sociales;
 
 XXIV. Actualizar la videoteca y el archivo fotográfico de las sesiones del Consejo General y demás actividades institucionales;
 
@@ -1178,7 +1488,7 @@ III.1.2. Departamento de Redacción, y
 
 III.1.3. Departamento de Diseño y Página Web.
 
-#### SECCIÓN CUARTA. DE LA UNIDAD TÉCNICA DE ARCHIVO, LOGÍSTICA Y APOYO A ÓRGANOS DESCONCENTRADOS
+#### SECCIÓN TERCERA. DE LA UNIDAD TÉCNICA DE SERVICIOS INFORMÁTICOS
 
 ATRIBUCIONES Y ESTRUCTURA
 
@@ -1196,7 +1506,9 @@ II. Elaborar y proponer los lineamientos técnicos para la adquisición de equip
 
 III. Atender los servicios en materia informática, cómputo y telecomunicación que se requieran para las actividades ordinarias y procesos electorales y procedimientos de participación ciudadana;
 
-IV. Identificar y determinar distintos perfiles de los usuarios del Instituto Electoral a efecto de atender las necesidades de capacitación y asesoría en el área de sistemas informáticos y de comunicaciones;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+IV. Identificar y determinar distintos perfiles de las y los usuarios del Instituto Electoral a efecto de atender las necesidades de capacitación y asesoría en el área de sistemas informáticos y de comunicaciones;
 
 V. Coadyuvar con las áreas del Instituto Electoral, para implementar sistemas informáticos;
 
@@ -1242,7 +1554,7 @@ II.2.3. Departamento de Redes y Comunicaciones, y
 
 II.2.4. Departamento de Web, Seguridad y Nuevas Tecnologías.
 
-#### SECCIÓN QUINTA. DE LA UNIDAD TÉCNICA DE ASUNTOS JURÍDICOS
+#### SECCIÓN CUARTA. DE LA UNIDAD TÉCNICA DE ARCHIVO, LOGÍSTICA Y APOYO A ÓRGANOS DESCONCENTRADOS
 
 ATRIBUCIONES Y ESTRUCTURA
 
@@ -1260,7 +1572,9 @@ a) Informar permanentemente al Secretario Ejecutivo sobre la coordinación, inte
 
 b) Proveer al Consejo General y/o a los Consejeros Electorales, por conducto del Secretario Ejecutivo, de información oportuna y sistematizada sobre el desempeño de las labores de los órganos desconcentrados del Instituto Electoral;
 
-c) Supervisar la observancia por parte de los órganos desconcentrados del Instituto Electoral, de los acuerdos emitidos por el Consejo General y demás ordenamientos legales relativos a los procesos electorales y procedimientos de participación ciudadana;
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+c) Supervisar la observancia por parte de los órganos desconcentrados del Instituto Electoral, de los acuerdos emitidos por el Consejo General de este Instituto Electoral y en lo conducente del Instituto Nacional, así como los demás ordenamientos legales relativos a los procesos electorales y procedimientos de participación ciudadana;
 
 d) Ser enlace entre las Direcciones Ejecutivas y Unidades con los órganos desconcentrados del Instituto Electoral, de conformidad con los criterios generales relativos al flujo de comunicación e información institucional establecidos por el Secretario Ejecutivo;
 
@@ -1276,9 +1590,13 @@ i) Proponer, con las demás áreas competentes, los criterios específicos de re
 
 j) Participar conjuntamente con las áreas competentes en las visitas de supervisión que se practiquen a los órganos desconcentrados e informar permanentemente al Secretario Ejecutivo sobre las recomendaciones y observaciones que se hubieren encontrado;
 
-k) Coadyuvar en el procedimiento de registro de candidatos de elección popular;
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-l) Concentrar y sistematizar la información relativa a la publicación de los acuerdos aprobados por el Consejo General en los estrados de los órganos desconcentrados;
+k) Coadyuvar en el procedimiento de registro de candidatos(as) de elección popular;
+
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+l) Concentrar y sistematizar la información relativa a la publicación de los acuerdos aprobados por el Consejo General en los estrados de los órganos desconcentrados y en los que se ordene su publicación en la Gaceta Oficial del Distrito Federal;
 
 m) Dar seguimiento a las recomendaciones y observaciones hechas por las autoridades competentes a los órganos desconcentrados;
 
@@ -1294,11 +1612,15 @@ II. Dar el apoyo logístico a las diversas áreas del Instituto Electoral para e
 
 a) Revisar y/o redactar, en coordinación con las Direcciones Ejecutivas y Unidades responsables, los proyectos de acuerdo del Consejo General que le ordene el Secretario Ejecutivo;
 
-b) Preparar, con el apoyo de las áreas responsables de la elaboración de las respectivas propuestas y proyectos, las versiones definitivas de los documentos del Consejo General, mismas que deben contener las observaciones que, en su caso haya aprobado esa instancia;
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+b) Al término de cada sesión del Consejo General, preparar, con el apoyo de las áreas responsables de la elaboración de las respectivas propuestas y proyectos, las versiones definitivas de los documentos de dicho órgano de dirección, mismas que deben contener las observaciones que, en su caso haya aprobado esa instancia;
 
 c) Elaborar las actas de las sesiones del Consejo General;
 
-d) Publicar o fijar en los estrados del Instituto Electoral, los acuerdos y resoluciones que determine el Consejo General y operar, su incorporación al sitio de Internet del Instituto Electoral;
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+d) Publicar o fijar en los estrados del Instituto Electoral, los acuerdos y resoluciones que determine el Consejo General y operar, su incorporación al sitio de Internet del Instituto Electoral; así como informar a la Secretaría Ejecutiva de la atención y el curso dado a los acuerdos definitivos que haya aprobado el Consejo General;
 
 e) Tramitar la publicación en la Gaceta Oficial del Distrito Federal, de los acuerdos y resoluciones que establezca el Código y los que determine el Consejo General, informando permanentemente al Secretario Ejecutivo;
 
@@ -1326,7 +1648,9 @@ h) Promover las acciones necesarias para la adquisición de material hemerobibli
 
 i) Coadyuvar en la elaboración de los documentos que acrediten la personalidad de los Consejeros Electorales Distritales y Representantes de partido, ante los Consejos Distritales y Mesas Directivas de Casilla, y
 
-j) Coadyuvar en el procedimiento de registro de observadores electorales, cuya competencia corresponda al Consejo General.
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+j). Coadyuvar en el procedimiento de registro de observadores(as) electorales, cuya competencia corresponda al Consejo General.
 
 IV. Las demás que le confiera la normativa que rige al Instituto Electoral.
 
@@ -1354,7 +1678,7 @@ III.2.1. Departamento de Archivo General y de Concentración, y
 
 III.2.2. Departamento del Centro de Documentación.
 
-#### SECCIÓN SEXTA. DE LA UNIDAD TÉCNICA DEL CENTRO DE FORMACIÓN Y DESARROLLO
+#### SECCIÓN QUINTA. DE LA UNIDAD TÉCNICA DE ASUNTOS JURÍDICOS
 
 ATRIBUCIONES Y ESTRUCTURA
 
@@ -1368,13 +1692,21 @@ A la Unidad de Asuntos Jurídicos corresponde:
 
 I. Prestar apoyo al Secretario Ejecutivo en la representación legal del Instituto Electoral;
 
-II. Litigar los juicios o procedimientos, con excepción de los que deriven de actos y resoluciones de la Contraloría General;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-III. Participar en pláticas conciliatorias con los trabajadores del Instituto Electoral o con quien haya demandado a éste, para contener o solucionar algún conflicto, así como llevar a cabo las negociaciones conducentes y el pago respectivo, previa instrucción y autorización del Secretario Ejecutivo, con base en el dictamen que esta área especializada emita, debiendo elaborar un informe de los resultados obtenidos al Secretario Ejecutivo quien, a su vez, lo presentará a la Junta y Consejeros Electorales;
+II. Litigar los juicios o procedimientos, con excepción de los que deriven de actos y resoluciones de la Contraloría General; informando periódicamente al Secretario Ejecutivo, respecto del estado procesal que guarda cada asunto;
 
-IV. Apoyar al Secretario Ejecutivo en la práctica de notificaciones que deriven de los acuerdos tomados por el Consejo General;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-V. Prestar apoyo al Secretario Ejecutivo en la formulación de denuncias de hechos o querellas penales;
+III. Proponer al Secretario Ejecutivo participar en pláticas conciliatorias con las y los trabajadores del Instituto Electoral o con quien haya demandado a éste, para contener o solucionar algún conflicto, así como llevar a cabo las negociaciones conducentes y el pago respectivo, previa instrucción y autorización del Secretario Ejecutivo, con base en el dictamen que esta área especializada emita, debiendo elaborar un informe de los resultados obtenidos a la Secretaría Ejecutiva quien, a su vez, lo presentará a la Junta, así como a los Consejeros Electorales;
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+IV. Apoyar al Secretario Ejecutivo en la práctica de notificaciones que deriven de los acuerdos y resoluciones emitidas por el Consejo General, así como de actos o determinaciones emitidas por otras instancias del Instituto Electoral, salvo aquellos casos en que se encuentre reservada la realización de la aludida diligencia al órgano emisor;
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+V. Prestar apoyo al Secretario Ejecutivo en la formulación de denuncias de hechos o querellas penales, tanto en el fuero común como federal;
 
 VI. Asesorar en materia jurídica a las áreas mediante el desahogo de consultas, y en sesiones y reuniones de los órganos del Instituto Electoral a que se convoque;
 
@@ -1382,15 +1714,39 @@ VII. Atender las consultas sobre la aplicación del Código que los órganos del
 
 VIII. Apoyar al Secretario Ejecutivo en la tramitación y sustanciación de los medios de impugnación en contra de actos o resoluciones de los órganos del Instituto Electoral y en los demás procedimientos o recursos establecidos en el Código o en otros ordenamientos, siempre que no formen parte del marco de atribuciones de otro órgano;
 
-IX. Formular, revisar o validar, en sus aspectos jurídicos, los proyectos de contratos y convenios en los que el Instituto Electoral sea parte;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+IX. Formular, revisar y, en su caso, validar en sus aspectos jurídicos, los proyectos de contratos, convenios y adendas en los que el Instituto Electoral sea parte;
 
 X. Apoyar, en su caso, en la elaboración de proyectos de normas internas y demás ordenamientos necesarios para el óptimo funcionamiento del Instituto Electoral;
 
-XI. Apoyar al Secretario Ejecutivo, en la expedición de copias certificadas o cotejadas de los documentos que obren en los archivos del Instituto Electoral en términos de lo establecido por la normativa aplicable;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-XII. Apoyar, cuando lo soliciten, el Consejo General, las Comisiones, los Comités o la Junta, en la redacción de proyectos de acuerdo, informes y resoluciones, y
+XI. Apoyar al Secretario Ejecutivo, en la expedición de copias certificadas de los documentos que obren en los archivos del Instituto Electoral en términos de lo establecido por la normativa aplicable;
 
-XIII. Las demás que le confiera la normativa que rige al Instituto Electoral.
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+XII. Apoyar, cuando lo soliciten, el Consejo General, las Comisiones, los Comités o la Junta, en la redacción de proyectos de acuerdo, informes y resoluciones;
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+XIII. Apoyar al Secretario Ejecutivo, cuando así lo requiera, en la elaboración de las certificaciones derivadas con motivo de la función de la oficialía electoral;
+
+> <small>(ADICIONADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+XIV. Auxiliar al Secretario Ejecutivo en la sustanciación de los procedimientos administrativos sancionadores electorales, en términos de lo previsto en el Código y el Reglamento de Sustanciación;
+
+> <small>(ADICIONADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+XV. Apoyar al Secretario Ejecutivo en el trámite y seguimiento de los expedientes formados con motivo de los procedimientos administrativos sancionadores de carácter especial, que sean remitidos al Tribunal para su resolución en términos de lo establecido en el Código;
+
+> <small>(ADICIONADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+XVI. En su caso, conocer, substanciar y resolver los procedimientos disciplinarios seguidos en contra de los trabajadores y trabajadoras del Instituto, así como los recursos de inconformidad, en términos de lo previsto en el Estatuto del Servicio; y
+
+> <small>(ADICIONADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+XVII. Las demás que le confiera la normativa que rige al Instituto Electoral.
 
 ###### Artículo 44.
 
@@ -1398,15 +1754,21 @@ La estructura de la Unidad Jurídica es:
 
 I. Titular de Unidad;
 
-II. Dirección de Atención a Impugnaciones, Quejas y Procedimientos Administrativos:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+II. Dirección de Atención a Impugnaciones y Procedimientos Administrativos:
 
 II.1. Subdirección de Atención a Impugnaciones;
 
 II.1.1. Departamento de Análisis de Impugnaciones e Integración de Expedientes;
 
-II.2. Subdirección de Instrucción Recursal y Quejas;
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-II.2.1. Departamento de Quejas;
+II.2. Subdirección de Instrucción, Seguimiento y Resolución de Procedimientos Administrativos;
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+II.2.1. Departamento de Análisis, Integración y Seguimiento de Expedientes;
 
 III. Dirección de lo Contencioso:
 
@@ -1428,11 +1790,87 @@ IV.1.2. Departamento de Registro, y
 
 IV.1.3. Departamento de Normatividad.
 
-#### SECCIÓN SÉPTIMA. DE LA SUPLENCIA DE LOS TÍTULARES DE LAS DIRECCIONES EJECUTIVAS, UNIDADES TÉCNICAS Y CONTRALORÍA GENERAL
+#### SECCIÓN SEXTA. DE LA UNIDAD TÉCNICA DEL CENTRO DE FORMACIÓN Y DESARROLLO
+
+ATRIBUCIONES Y ESTRUCTURA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 45.
 
-La Unidad Técnica del Centro de Formación y Desarrollo tiene las atribuciones establecidas en el Código, en el Estatuto del Servicio y demás normativa que rige al Instituto Electoral.
+La Unidad Técnica del Centro de Formación y Desarrollo tiene las atribuciones que para la operación del Servicio Profesional Electoral disponga la Ley General, el Código, el Estatuto del Servicio y demás normativa que emita (sic) Instituto Nacional y, en su caso, el Instituto Electoral en materia de Servicio Profesional Electoral Nacional y de la rama administrativa.
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+Adicionalmente, le corresponderá:
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+I. Operar los programas institucionales de:
+
+> <small>(ADICIONADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+a) Reclutamiento y Selección del Servicio Profesional Electoral;
+
+> <small>(ADICIONADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+b) Formación y Desarrollo del Personal del Servicio Profesional Electoral;
+
+> <small>(ADICIONADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+c) Selección e ingreso del Personal Administrativo;
+
+> <small>(ADICIONADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+d) Capacitación y Actualización del personal Administrativo; y
+
+> <small>(ADICIONADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+e) Capacitación a los Consejeros Electorales Distritales.
+
+> <small>(ADICIONADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+Asimismo, podrá proponer aquellos proyectos que contribuyan con la superación profesional y laboral del personal del Instituto Electoral, siempre que se apeguen a los principios y criterios metodológicos establecidos en los programas señalados en los incisos b) y d) de la presente fracción.
+
+> <small>(ADICIONADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+II. Informar trimestralmente a la Junta sobre el seguimiento y evaluación de los programas, cuya operación se encuentre a su cargo;
+
+> <small>(ADICIONADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+III. Informar bimestralmente a la Junta sobre las vacantes que se originen en el Servicio Profesional y en la Rama Administrativa del Instituto Electoral;
+
+> <small>(ADICIONADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+IV. Aplicar los procedimientos, lineamientos y/o demás normativa relacionada en el Servicio Profesional y la Rama Administrativa del Instituto Electoral, que aprueben las autoridades competentes para ello;
+
+> <small>(ADICIONADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+V. Realizar acciones en colaboración con instituciones académicas y de educación superior relacionadas con la detección de necesidades de formación, desarrollo, capacitación y actualización del personal del Instituto Electoral, así como aquellas que contribuyan a la operación y mejora de los programas a su cargo;
+
+> <small>(ADICIONADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+VI. Organizar la realización de foros, conferencias, talleres, congresos y otros eventos académicos en materia de administración y desarrollo de personal que puedan coadyuvar a la mejora del Servicio Profesional y de la Rama Administrativa del Instituto Electoral;
+
+> <small>(ADICIONADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+VII. Contribuir al fortalecimiento de la cultura democrática, de los procesos electorales y procedimientos de participación ciudadana en el Distrito Federal a través de la capacitación, actualización y desarrollo profesional del personal del Instituto Electoral;
+
+> <small>(ADICIONADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+VIII. Proponer a la Junta el otorgamiento de estímulos e incentivos al personal del Instituto Electoral, de conformidad con los lineamientos e instrumentos que para tal efecto emita el Instituto Nacional;
+
+> <small>(ADICIONADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+IX. Apoyar, cuando lo soliciten, las áreas ejecutivas y técnicas en la realización de actividades de capacitación y de evaluación del personal del Instituto Electoral;
+
+> <small>(ADICIONADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+X. Apoyar, cuando lo soliciten, las áreas ejecutivas y técnicas en la realización de actividades de capacitación y de evaluación relacionadas con las actividades que, en su caso, delegue el Instituto Nacional; y
+
+> <small>(ADICIONADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+XI. Las demás que, en el marco de sus atribuciones, deriven de la aplicación del Código, el Estatuto del Servicio y demás normativa interna del Instituto Electoral.
 
 #### SECCIÓN SÉPTIMA. DE LA SUPLENCIA DE LOS TÍTULARES DE LAS DIRECCIONES EJECUTIVAS, UNIDADES TÉCNICAS Y CONTRALORÍA GENERAL
 
@@ -1464,7 +1902,49 @@ III.1.3. Departamento de Vinculación Institucional, y
 
 III.1.4. Departamento de Evaluación.
 
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+#### SECCIÓN SÉPTIMA. DE LA UNIDAD TÉCNICA DE VINCULACIÓN CON EL INSTITUTO NACIONAL ELECTORAL
+
+> <small>(ADICIONADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
 #### SECCIÓN PRIMERA. DE LA INTEGRACIÓN DEL CONSEJO GENERAL
+
+###### Artículo 46 Bis.
+
+Corresponde a la Unidad Técnica de Vinculación con el Instituto Nacional las atribuciones siguientes:
+
+I. Canalizar las comunicaciones que se reciban del Instituto Nacional Electoral a los diversos órganos y áreas del Instituto Electoral para su debida atención, en el ámbito de sus atribuciones;
+
+II. Facilitar la coordinación entre las distintas áreas de este Instituto con la Unidad Técnica de Vinculación con los Organismos Públicos Locales, y con los demás órganos del Instituto Nacional Electoral;
+
+III. Analizar temas y aspectos relacionados con el Instituto Nacional Electoral a solicitud de la Comisión Permanente de Vinculación con Organismos Externos; y
+
+IV. Mantener permanentemente informados, por conducto de la Presidencia de la Comisión Permanente de Vinculación con Organismos Externos, a los integrantes del Consejo General de las actividades que el Instituto Nacional Electoral realice en coordinación con este Instituto Electoral.
+
+> <small>(ADICIONADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 46 Ter.
+
+La estructura de la Unidad Técnica de Vinculación es:
+
+I. Titular de Unidad;
+
+II. Dirección de Vinculación Institucional;
+
+II.1. Subdirección de Coordinación con Organismos Públicos y Privados;
+
+II.1.1. Departamento de Atención y Seguimiento Externo;
+
+II.2. Subdirección de Coordinación Interna; y
+
+II.2.1. Departamento de Atención y Seguimiento Interno.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+#### SECCIÓN OCTAVA. DE LA SUPLENCIA DE LAS Y LOS TITULARES DE LAS DIRECCIONES EJECUTIVAS, UNIDADES TÉCNICAS Y CONTRALORIA GENERAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
 #### SECCIÓN SEGUNDA. DE LA PRESIDENCIA
 
@@ -1472,7 +1952,7 @@ ESTRUCTURA Y ATRIBUCIONES
 
 ###### Artículo 47.
 
-Las ausencias de los titulares de las Direcciones Ejecutivas, Unidades y de la Unidad Técnica Especializada de Fiscalización se sujetarán a lo siguiente:
+Las ausencias de las y los titulares de las Direcciones Ejecutivas, Unidades y de la Unidad Técnica Especializada de Fiscalización se sujetarán a lo siguiente:
 
 I. Ausencias momentáneas:
 
@@ -1482,33 +1962,49 @@ II. Ausencias temporales:
 
 Mayores a quince días y hasta por cuarenta y cinco días hábiles, serán suplidas por un encargado del despacho que designe el Consejero Presidente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 48.
 
-Las ausencias del Titular de la Contraloría General se sujetarán a lo siguiente:
+Las ausencias del o la Titular de la Contraloría General se sujetaran a lo siguiente:
 
-I. Las ausencias momentáneas serán suplidas por el Subcontralor de Responsabilidades e Inconformidades; en ausencia de éste, por el de Auditoría, Control y Evaluación; o, en su caso, el de Atención Ciudadana y Normatividad, y
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-II. Tratándose de ausencias temporales, éstas serán suplidas por el encargado del despacho que determine el Consejero Presidente, en tanto la Asamblea Legislativa, en ejercicio de sus atribuciones, designa al nuevo titular, de acuerdo a lo previsto por el artículo 85 del Código.
+I. Las ausencias momentáneas serán suplidas por el Subcontralor(a) de Responsabilidades e Inconformidades; en ausencia de éste, por el Subcontralor(a) de Auditoría, Control y Evaluación; o, en su caso, el Subcontralor(a) de Atención Ciudadana y Normatividad; y
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+II. Tratándose de ausencias temporales, éstas serán suplidas por el encargado del despacho que determine el Consejero Presidente, en tanto la Asamblea Legislativa, en ejercicio de sus atribuciones, designa a la persona titular, de acuerdo a lo previsto por el artículo 55 del Código.
 
 En este supuesto, el Consejero Presidente deberá informar a la Asamblea Legislativa la vacancia de la Contraloría General, para los efectos de su designación.
 
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 49.
 
-Los encargados del despacho recibirán la remuneración salarial que corresponda al cargo y/o puesto que ocupen. Al término de la encargaduría deberán reincorporarse a su cargo y/o puesto de origen.
+Las y los encargados del despacho recibirán la remuneración salarial que corresponda al cargo y/o puesto que ocupen. Al término de la encargaduría deberán reincorporarse a su cargo y/o puesto de origen.
 
 ###### Artículo 50.
 
 Para los efectos de dar continuidad al Instituto Electoral en la debida atención de los asuntos a su cargo, serán competentes para suplir en la suscripción de los documentos respectivos:
 
-I. Al Contralor General, sus Subcontralores;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-II. Al Titular de la Unidad Técnica Especializada de Fiscalización, sus Directores;
+I. Contralor(a) General, sus Subcontralores(as);
 
-III. Al Secretario Ejecutivo, los Titulares de las Direcciones Ejecutivas o Titulares de Unidad, que le son adscritos, en el ámbito de sus respectivas competencias;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+II. Titular de la Unidad Técnica Especializada de Fiscalización, sus Directores(as);
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+III. Secretario Ejecutivo, las y los Titulares de las Direcciones Ejecutivas o Titulares de Unidad, que le son adscritos(as), en el ámbito de sus respectivas competencias;
 
 IV. A los Directores Ejecutivos y Titulares de Unidad, el Director que corresponda, en el ámbito de sus respectivas competencias, y
 
-V. A los Coordinadores Distritales, su Secretario Técnico Jurídico, como representante legal de su Dirección Distrital.
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+V. A las y los Coordinadores Distritales, su Secretario Técnico Jurídico, como representante legal de su Dirección Distrital.
 
 ### CAPÍTULO VIII. DE LAS UNIDADES TÉCNICAS
 
@@ -1530,11 +2026,15 @@ La integración y atribuciones de los Comités se establecen en el Código, en l
 
 Los órganos desconcentrados del Instituto Electoral se integran y funcionan de conformidad con lo establecido por el Código, el Reglamento, la Ley de Participación y demás normativa que rige al Instituto Electoral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 53.
 
-Son atribuciones de los Coordinadores Distritales:
+Son atribuciones de las y los Coordinadores Distritales:
 
-I. Encargarse de los trabajos de organización electoral;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+I. Coordinar los trabajos de organización, geoestadística electoral en el ámbito de su Distrito, y cuando así corresponda, los de Capacitación Electoral, la revisión del padrón electoral y lista nominal, así como las que, en su caso, sean delegadas por el Instituto Nacional al Instituto Electoral;
 
 II. Atender y coordinar las actividades previstas en la Ley de Participación;
 
@@ -1546,15 +2046,21 @@ V. Cumplir con las instrucciones del Consejo General y del Secretario Ejecutivo;
 
 VI. Coordinar y supervisar que el órgano distrital cuente con los elementos necesarios para su funcionamiento;
 
-VII. Mantener permanentemente informados a los integrantes de su Dirección Distrital, acerca de las actividades o instrucciones emitidas por los diversos servidores públicos de las oficinas centrales del Instituto Electoral;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+VII. Mantener permanentemente informados a las y los integrantes de su Dirección Distrital, acerca de las actividades o instrucciones emitidas por los diversos servidores públicos de las oficinas centrales del Instituto Electoral;
 
 VIII. Recibir y comprobar la aplicación de los recursos financieros para cubrir los gastos del órgano distrital en el desarrollo de los programas institucionales a su cargo;
 
 IX. Proporcionar a la Unidad de Apoyo Logístico, la información requerida para el seguimiento del calendario anual de actividades de los órganos desconcentrados;
 
-X. Convocar y dirigir las reuniones de trabajo con los integrantes del órgano distrital, e informar lo conducente al Secretario Ejecutivo, por conducto de la Unidad de Apoyo Logístico;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-XI. Coordinar y supervisar la elaboración de la memoria técnica de los procesos electorales y remitirla al Secretario Ejecutivo para su difusión;
+X. Convocar y dirigir las reuniones de trabajo con las y los integrantes del órgano distrital, e informar lo conducente a la Secretaría Ejecutiva, por conducto de la Unidad de Apoyo Logística (sic);
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+XI. Proporcionar la información que les soliciten los órganos centrales del Instituto Electoral, por conducto de la Secretaría Ejecutiva, para la elaboración de la estadística de los procesos electorales y de participación ciudadana;
 
 XII. Coordinar y supervisar la preparación de la información requerida en el ámbito distrital, para la elaboración de la estadística de los procesos electorales y de participación ciudadana, así como del catálogo de información básica por sección electoral;
 
@@ -1562,91 +2068,153 @@ XIII. Supervisar el avance cuantitativo y cualitativo del cumplimiento de los pr
 
 XIV. Dar seguimiento al cumplimiento de lo establecido en el calendario anual de actividades ordinarias o electorales de los órganos desconcentrados, que les remita la Unidad de Apoyo Logístico;
 
-XV. Informar al Secretario Ejecutivo, por conducto de la Unidad de Apoyo Logístico, sobre el desarrollo de las actividades y programas institucionales a cargo del órgano distrital;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-XVI. Elaborar y remitir al Secretario Ejecutivo, por conducto de la Unidad de Apoyo Logístico, el informe sobre los avances en la implementación de los Programas generales y particulares del Instituto Electoral, en su ámbito territorial;
+XV. Informar a la Secretaría Ejecutiva, por conducto de la Unidad de Apoyo Logístico, sobre el desarrollo de las actividades y programas institucionales a cargo del órgano distrital;
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+XVI. Elaborar y remitir a la Secretaría Ejecutiva, por conducto de la Unidad de Apoyo Logístico, el informe sobre los avances en la implementación de los Programas generales y particulares del Instituto Electoral, en su ámbito territorial;
 
 XVII. Atender, en el ámbito de su competencia, por conducto de la Unidad de Apoyo Logístico, los requerimientos de información de las áreas centrales, de conformidad con los flujos de comunicación e información establecidos por el Secretario Ejecutivo, y
 
 XVIII. Las demás que le confiera la normativa que rige al Instituto Electoral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 54.
 
-Son atribuciones de los Directores de Capacitación Electoral, Educación Cívica y Geografía Electoral:
+Son atribuciones de los Directores de Educación Cívica y Capacitación y Geoestadistica Electoral:
 
-I. Ejecutar, en el ámbito de su competencia, las políticas y programas generales y particulares del Instituto Electoral, así como las labores específicas que le asigne el Coordinador Distrital;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-II. Cumplir, en el ámbito de su competencia, los acuerdos del Consejo General y de su respectivo Consejo Distrital, e informar sobre la observancia de los mismos a su respectivo Coordinador Distrital;
+I. Ejecutar las políticas, programas y actividades relativas a la educación cívica y participación ciudadana, y cuando así corresponda, las de Capacitación Electoral, y Geografía y Organización Electoral, así como las que, en el ámbito de su competencia, le asigne la o el Coordinador Distrital;
 
-III. Cumplir con las instrucciones del Consejo General, del Secretario Ejecutivo y de su Coordinador Distrital;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-IV. Proporcionar los informes y documentos que le requieran las Comisiones de su Consejo Distrital, a través de su respectivo Consejero Presidente;
+II. Cumplir, en el ámbito de su competencia, los acuerdos del Consejo General y de su respectivo Consejo Distrital, e informar sobre la observancia de los mismos a su respectivo(a) Coordinador(a) Distrital;
 
-V. Informar al Coordinador Distrital sobre el desarrollo de sus actividades;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-VI. Participar, en el ámbito de su competencia, en la elaboración de la memoria técnica de los procesos electorales;
+III. Cumplir con las instrucciones del Consejo General, de las Comisiones, de la Junta Administrativa, del Secretario Ejecutivo y de su Coordinador(a) Distrital;
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+IV. Proporcionar los informes y documentos que le requieran las Comisiones de su Consejo Distrital, a través de su respectivo(a) Consejero Presidente;
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+V. Informar a la o al Coordinador Distrital sobre el desarrollo de sus actividades;
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+VI. Participar con las propuestas que se remitirán a las áreas correspondientes en materia de Educación Cívica, Participación Ciudadana y materiales electorales;
 
 VII. Atender, en el ámbito de su competencia, por conducto de la Unidad de Apoyo Logístico, los requerimientos de información de las áreas centrales, de conformidad con los flujos de comunicación e información establecidos por el Secretario Ejecutivo;
 
-VIII. Acordar con su respectivo Coordinador Distrital los asuntos de su competencia, y
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-IX. Las demás que le confiera la normativa que rige al Instituto Electoral.
+VIII. Acordar con su respectivo(a) Coordinador(a) Distrital los asuntos de su competencia;
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+IX. Ejecutar las actividades en materia de organización, geografía y estadística electoral; y
+
+> <small>(ADICIONADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+X. Las demás que le confiera la normativa que rige al Instituto Electoral.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 55.
 
-Son atribuciones de los Secretarios Técnicos Jurídicos:
+Son atribuciones de las y los Secretarios Técnicos Jurídicos:
 
-I. Ejecutar, en el ámbito de su competencia, las políticas y programas generales y particulares del Instituto Electoral, así como las labores específicas que le asigne el Coordinador Distrital;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-II. Cumplir, en el ámbito de su competencia, los acuerdos del Consejo General e informar sobre la observancia de los mismos a su Coordinador Distrital;
+I. Ejecutar, en el ámbito de su competencia, las políticas y programas generales y particulares del Instituto Electoral, así como las labores específicas que le asigne la o el Coordinador Distrital;
 
-III. Cumplir las instrucciones del Consejo General, del Secretario Ejecutivo y del Coordinador Distrital;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-IV. Cumplir las tareas que en materia de organización electoral le encomiende el Coordinador Distrital;
+II. Cumplir, en el ámbito de su competencia, los acuerdos del Consejo General e informar sobre la observancia de los mismos a su Coordinador(a) Distrital;
 
-V. Informar al Coordinador Distrital sobre el desarrollo de sus actividades;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-VI. Asesorar jurídicamente a la Dirección Distrital de su adscripción;
+III. Cumplir con las instrucciones del Consejo General, de las Comisiones, de la Junta Administrativa, del Secretario Ejecutivo y de su Coordinador(a) Distrital;
 
-VII. Colaborar con el Coordinador Distrital en la implementación de los Programas de Capacitación Electoral y de Educación Cívica y Democrática;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-VIII. Atender las consultas jurídicas de los ciudadanos que acudan a la respectiva Dirección Distrital, en cuanto a la protección de sus derechos-político electorales y sobre temas de justicia electoral llevándose una bitácora de la misma y su resultado;
+IV. Cumplir cuando, así corresponda, con las tareas que en materia de organización electoral le encomiende la o el Coordinador Distrital;
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+V. Informar a la o al Coordinador Distrital sobre el desarrollo de sus actividades;
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+VI. Asesorar jurídicamente a la Dirección Distrital de su adscripción y dar fe pública de los actos o hechos de naturaleza electoral que ocurran en el Distrito Federal, de conformidad con lo que determine el Secretario Ejecutivo;
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+VII. Colaborar con la o el Coordinador Distrital en la implementación de los Programas de Capacitación Electoral y de Educación Cívica y Democrática;
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+VIII. Atender las consultas jurídicas de la ciudadanía que acuda a la respectiva Dirección Distrital, en cuanto a la protección de sus derechos-político electorales y sobre temas de justicia electoral llevándose una bitácora de la misma y su resultado;
 
 IX. Coordinar y supervisar la integración, operación y actualización del archivo del órgano distrital, que estará bajo su resguardo físico y legal;
 
-X. Apoyar al Coordinador Distrital en las gestiones administrativas;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+X. Apoyar a la o al Coordinador Distrital en las gestiones administrativas;
 
 XI. Expedir copia certificada, previo cotejo y compulsa de todos aquellos documentos que obren en los archivos de la Dirección Distrital de su adscripción;
 
-XII. Participar, en el ámbito de su competencia, en la elaboración de la memoria técnica de los procesos electorales;
+XII. (DEROGADA, G.O. 17 DE OCTUBRE DE 2014)
 
 XIII. Atender, en el ámbito de su competencia, por conducto de la Unidad de Apoyo Logístico, los requerimientos de información de las áreas centrales, de conformidad con los flujos de comunicación e información establecidos por el Secretario Ejecutivo;
 
-XIV. Acordar con el Coordinador Distrital los asuntos de su competencia, y
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+XIV. Acordar con la o el Coordinador Distrital los asuntos de su competencia; y
 
 XV. Las demás que le confiera la normativa que rige al Instituto Electoral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 56.
 
-Son atribuciones de los Líderes de Proyecto:
+Son atribuciones de las y los Líderes de Proyecto:
 
-I. Ejecutar, en el ámbito de su competencia, las políticas y programas generales y particulares del Instituto Electoral, así como las labores específicas que les asigne su Coordinador Distrital;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-II. Cumplir, en el ámbito de su competencia, con los acuerdos del Consejo General y de su respectivo Consejo Distrital, e informar sobre la observancia de los mismos a su Coordinador Distrital;
+I. Ejecutar, en el ámbito de su competencia, las políticas y programas generales y particulares del Instituto Electoral, así como las labores específicas que les asigne su Coordinador(a) Distrital;
 
-III. Cumplir con las instrucciones del Consejo General, del Secretario Ejecutivo y de su respectivo Coordinador Distrital;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-IV. Informar a su respectivo Coordinador Distrital sobre el desarrollo de sus actividades;
+II. Cumplir, en el ámbito de su competencia, con los acuerdos del Consejo General y de su respectivo Consejo Distrital, e informar sobre la observancia de los mismos a su Coordinador(a) Distrital;
 
-V. Desarrollar los trabajos que en materia de organización electoral, capacitación electoral, educación cívica, geografía electoral, aspectos jurídicos, informáticos y administrativos, le sean encomendados por su Coordinador Distrital;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+III. Cumplir con las instrucciones del Consejo General, del Secretario Ejecutivo y de su respectivo(a) Coordinador(a) Distrital;
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+IV. Informar a su respectivo(a) Coordinador(a) Distrital sobre el desarrollo de sus actividades;
+
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+V. Desarrollar los trabajos que en materia de organización electoral, capacitación electoral, educación cívica, geografía electoral, aspectos jurídicos, informáticos y administrativos, le sean encomendados por su Coordinador(a) Distrital;
 
 VI. Fungir como enlace informático entre su respectiva Dirección Distrital y la Unidad Técnica de Servicios Informáticos;
 
-VII. Auxiliar a los demás integrantes de su Dirección Distrital en la elaboración de la memoria técnica de los procesos electorales;
+VII. (DEROGADA, G.O. 17 DE OCTUBRE DE 2014)
 
 VIII. Atender, en el ámbito de su competencia, a través de la Unidad de Apoyo Logístico, los requerimientos de información de las áreas centrales, de conformidad con los flujos de comunicación e información establecidos por el Secretario Ejecutivo;
 
-IX. Acordar con su Coordinador Distrital los asuntos de su competencia, y
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+IX. Acordar con su Coordinador(a) Distrital los asuntos de su competencia; y
 
 X. Las demás que le confiera la normativa que rige al Instituto Electoral.
 
@@ -1668,13 +2236,15 @@ Los Consejos Distritales, durante cada proceso electoral, se integran y funciona
 
 ###### Artículo 58.
 
-Las Mesas Directivas de Casilla son órganos electorales formados por ciudadanos que se integran para cada proceso electoral, en los términos y con las atribuciones establecidas en el Código, y que funcionan únicamente durante la jornada electoral.
+Las Mesas Directivas de Casilla son órganos electorales formados por ciudadanos(as) que se integran para cada proceso electoral, en los términos y con las atribuciones establecidas en la Ley General, el Código, y las reglas que para tal efecto emita el Instituto Nacional.
 
 ## TÍTULO CUARTO. DE LOS ESPACIOS DEL INSTITUTO ELECTORAL
 
 ### CAPÍTULO ÚNICO. DE SU USO
 
 ### CAPÍTULO III. DE LAS MESAS DIRECTIVAS DE CASILLA
+
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
 ## TÍTULO CUARTO. DE LOS ESPACIOS DEL INSTITUTO ELECTORAL
 
@@ -1694,13 +2264,17 @@ Al Salón de Sesiones estará estrictamente prohibida la entrada de toda persona
 
 En lo conducente, esta disposición será aplicable por lo que hace a los Consejos Distritales.
 
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 61.
 
-Los demás salones y espacios físicos del Instituto Electoral serán utilizados para la celebración de sesiones, reuniones, capacitación, ceremonias y/o eventos institucionales. El Titular de la Unidad de Apoyo Logístico cuidará que se observe lo anterior.
+Los demás salones y espacios físicos del Instituto Electoral serán utilizados para la celebración de sesiones, reuniones, capacitación, ceremonias y/o eventos institucionales. El o la Titular de la Unidad de Apoyo Logístico cuidará que se observe lo anterior.
+
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 62.
 
-Los integrantes del Consejo General podrán utilizar las instalaciones del Instituto Electoral para ruedas de prensa, previa solicitud que se haga al Secretario Ejecutivo quien las acordará con el Consejero Presidente para su autorización respetando lo establecido en el artículo anterior.
+Las y los integrantes del Consejo General podrán utilizar las instalaciones del Instituto Electoral para ruedas de prensa, previa solicitud que se haga al Secretario Ejecutivo quien las acordará con el Consejero Presidente para su autorización respetando lo establecido en el artículo anterior.
 
 ## TRANSITORIOS
 
@@ -1711,6 +2285,22 @@ SEGUNDO. Se abroga el "Reglamento Interior del Instituto Electoral del Distrito 
 TERCERO. Se derogan las disposiciones que se opongan al presente Reglamento.
 
 CUARTO. Remítase para su publicación dentro del plazo de diez días hábiles a la Gaceta Oficial del Distrito Federal, así como en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en la página de Internet www.iedf.org.mx.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 17 DE OCTUBRE DE 2014.
+
+PRIMERO. La reforma al Reglamento Interior del Instituto Electoral del Distrito Federal entrará en vigor al día siguiente de su publicación en los estrados del Instituto.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Reglamento.
+
+TERCERO. Las disposiciones del Estatuto del Servicio Profesional Electoral y demás personal que labore en el Instituto Electoral del Distrito Federal estarán vigentes hasta en tanto se expida el Estatuto del Servicio Profesional Electoral Nacional, asimismo, se observarán los criterios generales aprobados por el Instituto Nacional Electoral para la operación y administración transitoria de dicho servicio, aprobados mediante el Acuerdo INE/CG68/2014, conforme al aviso publicado el 9 de julio de 2014 en la Gaceta Oficial del Distrito Federal.
+
+CUARTO. Los servidores del Instituto que estén ocupando un cargo cuya denominación haya cambiado con motivo de esta reforma, seguirán ejerciendo sus funciones, sin demérito de sus derechos laborales. La Secretaría Administrativa deberá realizar los ajustes conducentes, dentro de los treinta días naturales siguientes a que entren en vigor las presentes modificaciones.
+
+QUINTO. Publíquese en la Gaceta Oficial del Distrito Federal, así como en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en portal de Internet www.iedf.org.mx.
+
+SEXTO. Remítase para su publicación dentro del plazo de los diez días hábiles a la Gaceta Oficial del Distrito Federal, así como en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en el portal de Internet www.iedf.org.mx.
 
 ## TRANSITORIOS
 
