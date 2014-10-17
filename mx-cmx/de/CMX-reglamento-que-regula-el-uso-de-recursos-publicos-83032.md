@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-que-regula-el-uso-de-recursos-publicos-83032"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-09-29"
-last_updated: "2012-02-20"
+last_updated: "2014-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83032&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,13 @@ issue_date: "2011-09-21"
 ---
 # REGLAMENTO QUE REGULA EL USO DE RECURSOS PUBLICOS, PROPAGANDA INSTITUCIONAL Y GUBERNAMENTAL, ASI COMO LOS ACTOS ANTICIPADOS DE PRECAMPAÑA Y DE CAMPAÑA, PARA LOS PROCESOS ELECTORALES ORDINARIOS DEL DISTRITO FEDERAL
 
-REGLAMENTO QUE REGULA EL USO DE RECURSOS PUBLICOS, PROPAGANDA INSTITUCIONAL Y GUBERNAMENTAL, ASI COMO LOS ACTOS ANTICIPADOS DE PRECAMPAÑA Y DE CAMPAÑA, PARA LOS PROCESOS ELECTORALES ORDINARIOS DEL DISTRITO FEDERAL
+REGLAMENTO QUE REGULA EL USO DE RECURSOS PÚBLICOS, PROPAGANDA INSTITUCIONAL Y GUBERNAMENTAL, ASÍ COMO LOS ACTOS ANTICIPADOS DE PRECAMPAÑA Y DE CAMPAÑA, PARA LOS PROCESOS ELECTORALES ORDINARIOS DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE OCTUBRE DE 2014.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 29 de septiembre de 2011.
+
+> <small>N. DE E. EL ACUERDO PUBLICADO EN LA G.O. DE 17 DE OCTUBRE DE 2014, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.</small>
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL POR EL QUE SE APRUEBA EL REGLAMENTO QUE REGULA EL USO DE RECURSOS PÚBLICOS, PROPAGANDA INSTITUCIONAL Y GUBERNAMENTAL, ASÍ COMO LOS ACTOS ANTICIPADOS DE PRECAMPAÑA Y DE CAMPAÑA, PARA LOS PROCESOS ELECTORALES ORDINARIOS DEL DISTRITO FEDERAL.
 
@@ -160,7 +162,7 @@ Sobre el particular se enuncian las tesis orientadoras siguientes:
 
 Cuarta Época:
 
-Recurso de apelación. SUP-RAP-14/2009 y acumulados. -Actores: Partido del Trabajo y otros.-Autoridad responsable: Consejo General del Instituto Federal Electoral.-19 de marzo de 2009.-Unanimidad de 6 votos.- Ponente: Constancio Carrasco Daza.-Secretario: Fidel Quiñones Rodríguez.
+Recurso de apelación. SUP-RAP-14/2009 y acumulados. - Actores: Partido del Trabajo y otros.- Autoridad responsable: Consejo General del Instituto Federal Electoral.- 19 de marzo de 2009.- Unanimidad de 6 votos.- Ponente: Constancio Carrasco Daza.- Secretario: Fidel Quiñones Rodríguez.
 
 La Sala Superior en sesión pública celebrada el diez de junio de dos mil nueve, aprobó por unanimidad de votos la tesis que antecede.
 
@@ -406,21 +408,29 @@ REGLAMENTO QUE REGULA EL USO DE RECURSOS PÚBLICOS, PROPAGANDA INSTITUCIONAL Y G
 
 REGLAMENTO QUE REGULA EL USO DE RECURSOS PÚBLICOS, PROPAGANDA INSTITUCIONAL Y GUBERNAMENTAL, ASÍ COMO LOS ACTOS ANTICIPADOS DE PRECAMPAÑA Y DE CAMPAÑA, PARA LOS PROCESOS ELECTORALES ORDINARIOS DEL DISTRITO FEDERAL.
 
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
 ### CAPÍTULO I. GENERALIDADES
+
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 1.
 
 El presente Reglamento es de orden público y de observancia obligatoria y tiene por objeto regular:
 
-I. La imparcialidad en el uso de recursos públicos, según lo disponen los artículos 2, 3, párrafo tercero; 4 y 6, párrafo primero, y 320 del Código, en relación con lo dispuesto por los artículos 134, párrafo séptimo, de la Constitución y, 120, párrafo cuarto del Estatuto de Gobierno;
+I. La imparcialidad en el uso de recursos públicos, según lo disponen los artículos 6, párrafo primero, y 320 del Código, en relación con lo dispuesto por los artículos 134, párrafo séptimo, de la Constitución y, 120, párrafo cuarto del Estatuto de Gobierno.
 
-II. La propaganda institucional y gubernamental; de conformidad con lo señalado por los artículos 6, párrafo segundo, y 320 del Código, en relación con lo ordenado en los numerales 134, párrafo octavo, de la Constitución y 120, párrafo quinto del Estatuto de Gobierno;
+II. La propaganda institucional y gubernamental; de conformidad con lo señalado por los artículos 6, párrafo segundo, y 320 del Código, en relación con lo ordenado en los numerales 134, párrafo octavo, de la Constitución y 120, párrafo quinto del Estatuto de Gobierno.
 
-III. Los actos anticipados de precampaña; de acuerdo con lo estipulado por los artículos 223; 224, párrafos cuarto y quinto; 225; 226; 227; 228; 229; 231, fracciones II y V; 235 fracción V; 257; 377, fracciones VII y XI, y 379 del Código, en relación con lo dispuesto en el artículo 41 de la Constitución y 122, fracciones V y VII del Estatuto de Gobierno, y
+III. Los actos anticipados de precampaña; de acuerdo con lo estipulado por los artículos 223, fracción III; 224, párrafos tercero, cuarto y quinto; 231, fracción I; 236, fracción I; 377, fracción VII y 379, fracción I del Código, en relación con lo dispuesto en el artículo 41, de la Constitución y 122, fracción VII del Estatuto de Gobierno.
 
-IV. Los actos anticipados de campaña, según lo determinan los artículos 312; 320; 322; 377, fracciones VII y XI, y 379 del Código, en relación con lo establecido en el artículo 41 de la Constitución y 122, fracciones V y VII del Estatuto de Gobierno.
+IV. Los actos anticipados de campaña, según lo determinan los artículos 223, fracción V; 223, fracción V; 231, fracción I; 311; 312; 320; 322; 377, fracción VII y 379, fracción I del Código, en relación con lo establecido en el artículo 41, de la Constitución y 122, fracción VII del Estatuto de Gobierno.
+
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 2.
 
@@ -430,107 +440,127 @@ A) En cuanto a los ordenamientos legales:
 
 I. Constitución: Constitución Política de los Estados Unidos Mexicanos;
 
-II. Estatuto de Gobierno: Estatuto de Gobierno del Distrito Federal;
+II. Ley General: Ley General de Instituciones y Procedimientos Electorales;
 
-III. Código: Código de Instituciones y Procedimientos Electorales del Distrito Federal;
+III. Estatuto de Gobierno: Estatuto de Gobierno del Distrito Federal;
 
-IV. Ley Procesal: Ley Procesal Electoral del Distrito Federal, y
+IV. Código: Código de Instituciones y Procedimientos Electorales del Distrito Federal;
 
-V. Reglamento: el presente ordenamiento.
+V. Ley Procesal: Ley Procesal Electoral del Distrito Federal, y
+
+VI. Reglamento: el presente ordenamiento.
 
 B) En cuanto a los órganos y autoridades:
 
-I. Instituto Electoral: Instituto Electoral del Distrito Federal;
+I. Instituto: Instituto Electoral del Distrito Federal;
 
 II. Consejo General: Consejo General del Instituto Electoral del Distrito Federal;
 
-III. Comisión: La Comisión de Asociaciones Políticas, y
+III. Comisión: Comisión de Asociaciones Políticas, y
 
 IV. Dirección Ejecutiva: Dirección Ejecutiva de Asociaciones Políticas.
 
 C) En cuanto a los términos:
 
-I. Actos de precampaña: Aquellos que se llevan a cabo por aspirantes a candidatos o precandidatos, o cualquier persona, dentro de un proceso de selección interna de candidatos, de acuerdo con la convocatoria y con la normativa interna de cada partido político, y que tienen por objeto promover, publicitar o apoyar a través de reuniones públicas, debates, asambleas, visitas, marchas, entre otros, la aspiración de una persona para ser postulada como candidato de algún cargo de elección popular;
+I. Actos de precampaña: Son todos aquellos sucesos que tienen por objeto promover, publicitar o apoyar las aspiraciones de una persona para ser postulado candidato a un cargo de elección popular;
 
-> <small>(REFORMADO PRIMER PÁRRAFO DE LA FRACCIÓN, G.O. 20 DE FEBRERO DE 2012)</small>
+II. Actos anticipados de precampaña: Son las expresiones que se realicen bajo cualquier modalidad y en cualquier momento durante el lapso que va desde el inicio del proceso electoral hasta antes del plazo legal para el inicio de las precampaña, que contengan llamados expresos al voto en contra o a favor de una precandidatura;
 
-II. Actos anticipados de precampaña: Aquellos que se lleven a cabo por aspirantes a candidatos o precandidatos o cualquier persona, que tengan por objeto promover, publicitar o apoyar la aspiración de una persona, para ser postulada como candidato a un cargo de elección popular y que se realicen en cualquier momento previo al inicio de las precampañas electorales de los partidos políticos.
+III. Actos de campaña: Aquellos que se lleven a cabo por candidatos, partidos políticos, coaliciones, candidatos independientes o cualquier persona que tengan por objeto promover, publicitar o apoyar a través de reuniones públicas, debates, asambleas, visitas, marchas, entre otros; y en general aquéllos en que los candidatos o sus voceros se dirigen al electorado para promover la aspiración de una persona para obtener un cargo de elección popular;
 
-La promoción, publicación y apoyo a que se refiere esta fracción podrá darse a través de cualquiera de los elementos contenidos en la definición de propaganda electoral a que se refiere este Reglamento;
-
-III. Actos de campaña: Aquellos que se lleven a cabo por candidatos partidos (sic) políticos, coaliciones o cualquier persona que tengan por objeto promover, publicitar o apoyar a través de reuniones públicas, debates, asambleas, visitas, marchas, entre otros; y en general aquellos en que los candidatos o sus voceros se dirigen al electorado para promover la aspiración de una persona para obtener un cargo de elección popular;
-
-IV. Actos anticipados de campaña: Aquellos que se lleven a cabo por precandidatos, precandidatos electos o postulados, candidatos, partidos políticos, coaliciones o cualquier persona que tengan por objeto promover, publicitar o apoyar la aspiración de una persona para obtener un cargo de elección popular y que se realicen en cualquier momento previo al inicio de las campañas electorales de los partidos políticos;
+IV. Actos anticipados de campaña: Son los actos de expresión que se realicen bajo cualquier modalidad y en cualquier momento fuera de la etapa de campañas. Que contengan llamados expresos al voto en contra o a favor de una candidatura o un partido político, o expresiones solicitando cualquier tipo de apoyo para contender en el proceso electoral por alguna candidatura o para un partido;
 
 V. Aspirante a candidato o precandidato: Ciudadano que decide contender al interior de un determinado partido político, con el fin de alcanzar su postulación como candidato a un cargo de elección popular;
 
-VI. Campaña: Conjunto de actividades llevadas a cabo por los partidos políticos, coaliciones, candidatos, simpatizantes y militantes, para la promoción del voto a favor de un determinado candidato o candidatos, a efecto de que obtenga un cargo de elección popular;
+VI. Campaña: Conjunto de actividades llevadas a cabo por los partidos políticos, coaliciones, candidatos, simpatizantes, militantes y candidatos independientes, para la promoción del voto a favor de una determinada persona, a efecto de que obtenga un cargo de elección popular;
 
-VII. Candidato: Persona postulada por uno o varios partidos políticos, o coalición y que se encuentre registrada ante la autoridad electoral para competir por un cargo de elección popular;
+VII. Candidato: Persona postulada por un partido político y registrada ante la autoridad electoral para competir por cargo de elección popular;
 
-VIII. Candidatura Común: Postulación efectuada por uno o más partidos políticos, sin mediar coalición respecto del mismo candidato, lista o fórmula, debiendo cumplir con lo señalado en el Código;
+VIII. Candidato Independiente: Persona que obtenga por parte de la autoridad electoral el acuerdo de registro, habiendo cumplido los requisitos que para tal efecto establece el Código;
 
-IX. Coalición: Alianza temporal entre dos o más partidos políticos, cuyo objetivo es presentar plataformas y postular candidatos a puestos de elección popular con un solo emblema o emblemas y color o colores, con los que participan actuando como si fuera un solo partido político, ésta podrá ser total o parcial de acuerdo con el convenio respectivo;
+IX. Candidatura Común: Postulación efectuada por uno o más partidos políticos, sin mediar coalición respecto del mismo candidato, lista o fórmula, debiendo cumplir con lo señalado en el Código;
 
-X. Imparcialidad en el uso de los recursos públicos: Aplicación objetiva de los recursos públicos por parte de cualquier servidor público, sin influir en la equidad de la competencia entre los partidos políticos;
+X. Coalición: Alianza temporal entre dos o más partidos políticos, cuyo objetivo es presentar plataformas y postular candidatos a puestos de elección popular con un solo emblema o emblemas y color o colores, con los que participan actuando como si fuera un solo partido político, ésta podrá ser total o parcial de acuerdo con el convenio respectivo;
 
-XI. Militante: Ciudadano mexicano que formalmente pertenece a un partido político, que participa en las actividades propias del mismo, tanto en su organización como en su funcionamiento, y que estatutariamente cuenta con derechos y obligaciones;
+XI. Imparcialidad en el uso de los recursos públicos: Aplicación objetiva de los recursos públicos por parte de cualquier servidor público, sin influir en la equidad de la competencia entre los precandidatos, candidatos, partidos políticos o candidatos independientes;
 
-XII. Partido político: Entidad de interés público con personalidad jurídica y patrimonio propio que goza de las prerrogativas y obligaciones que establecen la Constitución, el Estatuto de Gobierno y el Código;
+XII. Militante: Ciudadano mexicano que, en pleno goce y ejercicio de sus derechos político-electorales, formalmente pertenece de manera libre, voluntaria e individual a un partido político, que participa en las actividades propias del mismo, tanto en su organización como en su funcionamiento, y que estatutariamente cuenta con derechos y obligaciones;
 
-XIII. Precandidato: Ciudadano que participa en un proceso de selección interna y aspira a ser postulado por uno o varios partidos políticos, coalición o candidatura común, como candidato a un cargo de elección popular;
+XIII. Partido político: Entidad de interés público con personalidad jurídica y patrimonio propio que goza de las prerrogativas y obligaciones que establecen la Constitución, el Estatuto de Gobierno y el Código;
 
-XIV. Proceso de selección interna de candidatos: es el conjunto de actos, hechos y actividades establecidas en la convocatoria emitida por los partidos políticos o coaliciones con el propósito de elegir o designar a sus candidatos a diversos cargos de elección popular para los procesos electorales ordinarios en el Distrito Federal;
+XIV. Precampaña: Actividades de carácter propagandístico que forman parte de los procesos de selección interna de candidatos, y que tienen por objeto influir en la decisión de aquellos que integran el universo de votantes que eligen o designan al interior de un partido político o coalición, a los candidatos a cargos de elección popular en determinada circunscripción;
 
-XV. Propaganda electoral: Conjunto de escritos, publicaciones, imágenes, grabaciones, promocionales, proyecciones, impresos, publicidad por perifoneo y expresiones en general, que producen, fijan y difunden los partidos políticos, candidatos y sus simpatizantes, con el propósito de presentar ante la ciudadanía y la militancia del partido político o coalición, sus propuestas y/o plataforma electoral para el cargo público al que aspiran;
+XV. Precandidato: Ciudadano que participa en un proceso de selección interna y aspira a ser postulado por uno o varios partidos políticos, coalición o candidatura común, como candidato a un cargo de elección popular;
 
-XVI. Propaganda Institucional y gubernamental: Conjunto de escritos, publicaciones, imágenes, grabaciones, promocionales, proyecciones, impresos, encuestas, sondeos, publicidad por perifoneo y expresiones en general, que producen, fijan y difunden las autoridades para promover sus actividades y servicios y en general cualquier otro que sea cubierto con recursos públicos, siempre y cuando sea para fines de comunicación social con los ciudadanos o para rendición de cuentas;
+XVI. Proceso de selección interna de candidatos: Es el conjunto de actos, hechos y actividades establecidas en la convocatoria emitida por los partidos políticos o coaliciones con el propósito de elegir o designar a sus candidatos a diversos cargos de elección popular para los procesos electorales ordinarios en el Distrito Federal;
 
-XVII. Servidor público: Toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en los poderes ejecutivo, legislativo y judicial en cualquier nivel -federal, estatal o municipal-, en la Administración Pública Federal centralizada, o en la del Distrito Federal, organismos descentralizados, empresas de participación estatal mayoritaria, organizaciones y sociedades asimiladas a éstas, fideicomisos públicos, organismos a los que la Constitución y las Constituciones locales y el Estatuto de Gobierno del Distrito Federal otorguen autonomía y aquellas personas que manejen o apliquen recursos económicos locales y federales, y
+XVII. Proceso Electoral: Conjunto de actos ordenados por la Constitución, el Estatuto de Gobierno y el Código, realizado por las autoridades electorales, los partidos políticos, coaliciones y los ciudadanos, que tiene por objeto la renovación periódica de Diputados de la Asamblea Legislativa, Jefe de Gobierno y Jefes Delegacionales, todos ellos del Distrito Federal;
 
-XVIII. Simpatizante: Persona que se adhiere espontáneamente a un partido político por afinidad con las ideas que éste postula y que adquiere tal carácter de acuerdo a las normas estatutarias de cada asociación política.
+XVIII. Propaganda electoral: Conjunto de escritos, publicaciones, imágenes, grabaciones, promocionales, proyecciones, impresos, publicidad por perifoneo y expresiones en general, que producen, fijan y difunden los partidos políticos, candidatos, candidatos independientes y sus simpatizantes, con el propósito de presentar ante la ciudadanía y la militancia del partido político o coalición, sus propuestas y/o plataforma electoral para el cargo público al que aspiran;
+
+XIX. Propaganda Institucional y gubernamental: Conjunto de escritos, publicaciones, imágenes, grabaciones, promocionales, proyecciones, impresos, encuestas, sondeos, publicidad por perifoneo y expresiones en general, que producen, fijan y difunden las autoridades para promover sus actividades y servicios;
+
+XX. Servidor público: Toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en los poderes ejecutivo, legislativo y judicial en cualquier nivel -federal, estatal o municipal-, en la Administración Pública Federal centralizada, o en la del Distrito Federal, organismos descentralizados, empresas de participación estatal mayoritaria, organizaciones y sociedades asimiladas a éstas, fideicomisos públicos, organismos a los que la Constitución y las Constituciones locales y el Estatuto de Gobierno otorguen autonomía y aquellas personas que manejen o apliquen recursos económicos locales y federales, y
+
+XXI. Simpatizante: Persona que se adhiere espontáneamente a un partido político por afinidad con las ideas que éste postula y que adquiere tal carácter de acuerdo a las normas estatutarias de cada asociación política.
+
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 3.
 
 La interpretación y aplicación de las disposiciones de este Reglamento se harán conforme a los principios establecidos en los párrafos segundo y tercero del artículo 3 del Código.
 
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
 ### CAPÍTULO II. DE LA TEMPORALIDAD DE LOS ACTOS
+
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 4.
 
-El proceso electoral ordinario se inicia durante la primera semana del mes de octubre del año anterior a la elección y concluye una vez que el Tribunal Electoral del Distrito Federal o en su caso el Tribunal Electoral del Poder Judicial de la Federación haya resuelto el último de los medios de impugnación que se hubieren interpuesto en relación con dicho proceso o cuando se tenga constancia de que no se presentó ninguno.
+El proceso electoral ordinario se inicia durante la primera semana del mes de septiembre del año anterior a la elección y concluye una vez que el Tribunal Electoral del Distrito Federal o en su caso el Tribunal Electoral del Poder Judicial de la Federación haya resuelto el último de los medios de impugnación que se hubieren interpuesto en relación con dicho proceso o cuando se tenga constancia de que no se presentó ninguno.
+
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 5.
 
-El proceso de selección interna de los partidos políticos se integra por las etapas que cada partido político determine de acuerdo con su regulación interna. Los métodos de selección de candidatos serán notificados al Consejo General a más tardar el 21 de enero del año en que se realice la jornada electoral.
+El proceso de selección interna de candidatos se integra por las etapas que cada partido político determine de acuerdo con su regulación interna.
 
-Cuando la elección de candidatos se haya realizado por votación abierta o de su militancia, los partidos políticos notificarán al Instituto Electoral los nombres de los aspirantes que contendieron y los resultados del proceso de selección interna a más tardar cinco días después de realizada la elección.
+La convocatoria de selección de candidatos será notificada al Consejo General a más tardar el 19 de diciembre del año anterior al que se realice la jornada electoral.
+
+Cuando la elección de candidatos se haya realizado por votación abierta o a su militancia, los partidos políticos notificaran al Instituto los nombres de los aspirantes que contendieron y los resultados del proceso de selección interna a más tardar cinco días después de realizada la elección.
 
 Cuando la selección de candidatos haya sido por cualquier otro método establecido en sus estatutos, la notificación deberá realizarse dentro de las 24 horas siguientes.
 
-La propaganda que se utilice en los procesos de selección interna de candidatos deberá incluir una leyenda fácilmente legible en la que se refiera: “Proceso de selección interno de candidatos a ( )” o “Precandidato”, cuya tipografía deberá tener una dimensión no menor de una octava parte del tamaño del formato que se utilice.
-
-Los partidos políticos deberán notificar al Instituto Electoral a través de la Dirección Ejecutiva el listado de sus precandidatos dentro de las 48 horas siguientes a la fecha de aprobación por parte del órgano competente del partido político.
-
-En la notificación requerida en el párrafo anterior, los partidos políticos deberán precisar si alguno de sus precandidatos se registró previamente como precandidato en otro partido político, a fin de evitar que dicho precandidato rebase los plazos establecidos para las precampañas.
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 6.
 
-Las precampañas comprenden el período en el que los precandidatos de los partidos políticos o coaliciones podrán realizar actividades proselitistas tendentes a la obtención del voto, ya sea de la militancia de su partido político o de la ciudadanía del Distrito Federal en general, a efecto de ser postulado como candidato a un cargo de elección popular. Las precampañas están comprendidas dentro del proceso de selección interna conforme a lo siguiente:
+La propaganda que se utilice en los procesos de selección interna de candidatos deberá incluir una leyenda fácilmente legible en la que se refiera: "Proceso de selección interno de candidatos a ( )" o "Precandidato", cuya tipografía deberá tener una dimensión no menor de una octava parte del tamaño del formato que se utilice.
 
-I. Para la elección del candidato a Jefe de Gobierno, las precampañas no podrán durar más de cuarenta días y no podrán extenderse más allá del 18 de marzo del año de la elección.
+Los partidos políticos deberán notificar al Instituto a través de la Dirección Ejecutiva el listado de sus precandidatos dentro de las 48 horas siguientes a la fecha de aprobación por parte del órgano competente del partido político.
 
-II. Para la elección de los candidatos a Diputados a la Asamblea Legislativa del Distrito Federal y a Jefes Delegacionales, las precampañas no podrán durar más de treinta días y no podrán extenderse más allá del 18 de marzo del año de la elección.
+En la notificación requerida en el párrafo anterior, los partidos políticos deberán precisar si alguno de sus precandidatos se registró previamente como precandidato en otro partido político, a fin de evitar que dicho precandidato rebase los plazos establecidos para las precampañas.
 
-Los partidos políticos que presenten candidaturas comunes o que decidan formar coalición deberán ajustar los tiempos en que se desarrollarán sus procesos de selección interna y precampañas para los candidatos que serán postulados de manera conjunta.
-
-El periodo de registro de solicitudes de convenio de coalición deberá presentarse dentro de un plazo que concluirá a más tardar 15 días antes del inicio de registro de candidatos de la elección que la motive, según lo dispuesto por el artículo 241 del Código.
-
-Ningún precandidato o partido político de manera individual o coaligada podrá rebasar los cuarenta días para las precampañas de candidatos a Jefe de Gobierno, ni los treinta días para las precampañas de candidatos a los cargos de Diputados a la Asamblea Legislativa y Jefes Delegacionales.
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 7.
 
-Las campañas comprenden el período en el que los candidatos de los partidos o coaliciones, militantes o simpatizantes podrán realizar actividades proselitistas tendentes a la obtención del voto de la ciudadanía del Distrito Federal, conforme a lo siguiente:
+Las precampañas comprenden el período en el que los precandidatos podrán realizar actividades proselitistas tendentes a la obtención del voto, ya sea de la militancia de su partido político o de la ciudadanía del Distrito Federal en general, a efecto de ser postulado como candidato a un cargo de elección popular. Las precampañas están comprendidas dentro del proceso de selección interna conforme a lo siguiente:
+
+I. Para la elección del candidato a Jefe de Gobierno, las precampañas no podrán durar más de cuarenta días y no podrán extenderse más allá del 18 de febrero del año de la elección.
+
+II. Para la elección de los candidatos a Diputados a la Asamblea Legislativa del Distrito Federal y a Jefes Delegacionales, las precampañas no podrán durar más de treinta días y no podrán extenderse más allá del 18 de febrero del año de la elección.
+
+Los partidos políticos que presenten candidaturas comunes o que decidan formar coalición, deberán ajustar los tiempos en que se desarrollarán sus procesos de selección interna y precampañas para los candidatos que serán postulados de manera conjunta.
+
+La solicitud de registro de convenio de Coalición deberá presentarse al Presidente del Consejo General del Instituto, a más tardar 30 días antes del inicio del periodo de precampaña de la elección de que se trate, de conformidad con lo dispuesto por el artículo 241 del Código.
+
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 8.
+
+Las campañas comprenden el período en el que los candidatos de los partidos o coaliciones, militantes, simpatizantes o los candidatos independientes pueden realizar actividades proselitistas tendentes a la obtención del voto de la ciudadanía del Distrito Federal, conforme a lo siguiente:
 
 I. Para la elección del Jefe de Gobierno, las campañas electorales no podrán durar más de sesenta días debiendo concluir a más tardar tres días antes del día de la jornada electoral.
 
@@ -538,127 +568,229 @@ II. Para la elección de Diputados de Mayoría Relativa y Jefes Delegacionales, 
 
 El día de la jornada electoral y durante los tres días anteriores no se permitirá la celebración ni la difusión de reuniones o actos públicos de campaña, de propaganda o de proselitismo electoral.
 
-###### Artículo 8.
-
-De acuerdo con lo dispuesto en el artículo 134, párrafo séptimo, de la Constitución y 120 del Estatuto de Gobierno, los servidores públicos de la Federación, los estados y los municipios, así como del Distrito Federal y sus delegaciones, tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
 ## TÍTULO SEGUNDO. DE LA IMPARCIALIDAD EN EL USO DE RECURSOS PÚBLICOS
 
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
 ### CAPÍTULO ÚNICO. DEL PRINCIPIO DE IMPARCIALIDAD
+
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 9.
 
-Se considera que existe incumplimiento del principio de imparcialidad en el uso de los recursos públicos, y por tanto, afectación de la equidad de la competencia entre los partidos políticos, coaliciones, precandidatos y candidatos, cuando cualquiera de los servidores públicos incurra en las conductas que se enlistan a continuación:
+Los servidores públicos de la Federación, los estados y los municipios, así como del Distrito Federal y sus delegaciones, tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos, de acuerdo con lo dispuesto en el artículo 134, párrafo séptimo, de la Constitución y 120 del Estatuto de Gobierno.
 
-I. Se condicione la provisión de servicios, la entrega de recursos provenientes de programas públicos del Distrito Federal o la realización de obras públicas, a la promesa o demostración del voto a favor de algún precandidato, candidato o partido, o de la no emisión del voto para alguno de dichos contendientes;
-
-II. Se recoja la credencial de elector, sin causa prevista por ley, o amenace con ello, a cambio de la entrega o el mantenimiento de bienes o servicios en general;
-
-> <small>(REFORMADA, G.O. 20 DE FEBRERO DE 2012)</small>
-
-III. Se promueva con recursos públicos el voto a favor o en contra de algún precandidato, candidato, partido político o coalición;
-
-IV. Se entreguen recursos públicos con elementos o símbolos distintivos que conlleven la promoción del voto a favor o en contra de un determinado partido político, coalición, precandidato o candidato;
-
-V. Se solicite a cualquier ciudadano del Distrito Federal declaración firmada acerca de la intención o el sentido de su voto, o bien, que mediante la inducción, amenaza o promesa de pago o dádiva proveniente de recursos públicos, lo comprometa a emitir su voto a favor o en contra de determinado partido político, coalición, precandidato o candidato;
-
-VI. Se obligue a sus subordinados, mediante el uso de su autoridad o jerarquía, a apoyar o emitir su voto a favor o en contra de un partido político, coalición, precandidato o candidato;
-
-VII. Se destine de manera ilegal fondos, bienes o servicios que tengan a su disposición para apoyar a determinado partido político, coalición, precandidato o candidato;
-
-VIII. Se promueva con recursos públicos su imagen personal con la intención de obtener una precandidatura o candidatura a cargos de elección popular en el Distrito Federal, y
-
-IX. Se empleen recursos públicos con la finalidad de influir a favor o en contra de algún candidato, partido político o coalición, afectando la equidad de la competencia en los procesos electorales.
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 10.
 
-Los servidores públicos deberán abstenerse de asistir y organizar mítines o actos de apoyo a partidos, precandidatos o candidatos a cargos de elección popular en el Distrito Federal, así como de emitir expresiones a favor o en contra de los mismos, dentro de su horario de trabajo.
+Se considera que existe incumplimiento del principio de imparcialidad en el uso de los recursos públicos, y por tanto, afectación de la equidad de la competencia entre los partidos políticos, coaliciones, precandidatos, candidatos y candidatos independientes, cuando cualquiera de los servidores públicos incurra en las conductas que se enlistan a continuación:
 
-La intervención de servidores públicos en actos relacionados o con motivo de las funciones inherentes a su cargo no vulnera los principios de imparcialidad y equidad en la contienda, siempre y cuando no se difundan mensajes que contengan propuestas que impliquen la pretensión de ocupar un cargo de elección popular, la intención de obtener el voto, de favorecer o perjudicar a un partido político o candidato, o que de alguna manera los vincule a los procesos electorales.
+I. Se adjudique de manera explícita o implícita la realización de obras públicas o programas de gobierno, o bien se haga uso de los recursos bajo su responsabilidad, con la finalidad de posicionar su imagen, la de un candidato, partido político, coalición o candidato independiente con propósitos electorales;
+
+II. Condicione el otorgamiento de servicios, la entrega de recursos provenientes de programas públicos del Distrito Federal o la realización de obras públicas, a la promesa o demostración del voto a favor de algún precandidato, candidato, partido o candidato independiente, o de la no emisión del voto para alguno de dichos contendientes;
+
+III. Recoja la credencial de elector sin causa prevista por ley, o amenace con ello, a cambio de la entrega o el mantenimiento de bienes o servicios en general;
+
+IV. Se promueva el voto a favor o en contra de algún precandidato, candidato, partido político, coalición o candidato independiente durante el periodo que comprende su jornada laboral;
+
+V. Se entreguen recursos con elementos o símbolos distintivos (colores, emblemas, imágenes, símbolos, lemas, logos o frases) que conlleven la promoción del voto a favor o en contra de un determinado partido político, coalición, precandidato, candidato o candidato independiente;
+
+VI. Se solicite a cualquier ciudadano del Distrito Federal declaración firmada acerca de la intención o el sentido de su voto, o bien, que mediante la inducción, amenaza o promesa de pago o dádiva proveniente de recursos públicos, lo comprometa a emitir su voto a favor o en contra de determinado partido político, coalición, precandidato, candidato o candidato independiente;
+
+VII. Se realicen actos o eventos cuyo costo sea sufragado con fondos provenientes del erario público y que tengan por objetivo destacar logros o señalar las funciones que realiza algún servidor público;
+
+VIII. Obligue a sus subordinados, mediante el uso de su autoridad o jerarquía, a apoyar o emitir su voto a favor o en contra de un partido político, coalición, precandidato, candidato o candidato independiente;
+
+IX. Se destine de manera ilegal fondos, bienes o servicios que tengan a su disposición para apoyar a determinado partido político, coalición, precandidato, candidato o candidato independiente, y
+
+X. Promueva con recursos públicos su imagen personal con la intención de obtener una precandidatura o candidatura a cargos de elección popular en el Distrito Federal.
+
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 11.
 
-La propaganda institucional y gubernamental bajo cualquier modalidad de comunicación social que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente de los tres órdenes de gobierno, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
+Los servidores públicos deberán abstenerse de asistir y organizar mítines o actos de apoyo a partidos, precandidatos, candidatos o candidatos independientes a cargos de elección popular en el Distrito Federal, así como de emitir expresiones a favor o en contra de los mismos, dentro de su horario laboral.
+
+La intervención de servidores públicos en actos relacionados o con motivo de las funciones inherentes a su cargo no vulnera los principios de imparcialidad y equidad en la contienda, siempre y cuando no se difundan mensajes cuyo contenido implique la pretensión de ocupar un cargo de elección popular, la intención de obtener el voto, de favorecer o perjudicar a un partido político, candidato o candidato independiente, o que de alguna manera los vincule a los procesos electorales.
+
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 12.
 
-Desde el inicio de las campañas y hasta la conclusión de la jornada electoral, las autoridades del Distrito Federal y las autoridades federales en el ámbito del Distrito Federal, suspenderán las campañas publicitarias de todos aquellos programas, acciones gubernamentales, obras o logros de gobierno. Deberá suprimirse o retirarse toda propaganda gubernamental de publicidad exterior o circulación de cualquier medio impreso tanto de los poderes de los órganos de gobierno del Distrito Federal, sus delegaciones y cualquier otro ente público, en términos y con las excepciones establecidas en el siguiente párrafo.
+Los recursos utilizados para la difusión de los informes, deberá atender a los siguientes criterios:
 
-Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios de salud, de educación, las necesarias para protección civil en casos de emergencia, y la intervención de servidores públicos en actos relacionados o con motivo de las funciones inherentes a su cargo, siempre y cuando no se difundan mensajes que impliquen la pretensión de ocupar un cargo de elección popular, la intención de obtener el voto, de favorecer o perjudicar a un partido político o candidato, o que de alguna manera los vincule a los procesos electorales.
+I. Los gastos que se generen por este concepto sólo podrán ser cubiertos con los recursos públicos previstos para esos efectos en los programas de difusión de los entes públicos; y
 
-Las campañas relativas a los programas exceptuados no podrán usar la imagen del Jefe de Gobierno, Jefes Delegacionales, titulares de las Secretarías o cualquier otra autoridad administrativa del Distrito Federal, así como lemas, frases o logos.
+II. Los entes públicos harán del conocimiento de la ciudadanía en sus portales de Internet los recursos erogados con motivo del despliegue de propaganda y rendición de los informes de gestión y actividades de los servidores públicos, en cumplimiento de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal.
 
-Cuando se trate de incumplimiento a estas disposiciones por parte de servidores púbicos de los poderes federales y estatales se dará vista a la autoridad competente.
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
 ## TÍTULO TERCERO. DE LA PROPAGANDA
 
-### CAPÍTULO ÚNICO. DE LA PROPAGANDA INSTITUCIONAL Y GUBERNAMENTAL
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+### CAPÍTULO PRIMERO. DE LA PROPAGANDA INSTITUCIONAL Y GUBERNAMENTAL
+
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 13.
 
-Para efectos de lo dispuesto en el segundo párrafo del artículo 12 de este Reglamento, los mensajes informativos dirigidos a la población durante el período de campaña deberán cumplir con los siguientes parámetros:
+La propaganda institucional y gubernamental bajo cualquier modalidad de comunicación social que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente de los tres órdenes de gobierno, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, colores, voces, símbolos o emblemas que impliquen promoción personalizada de cualquier servidor público o que se relacionen con cualquier candidato o partido político nacional o local.
 
-I. Que no refieran logros, acciones y/o programas de gobierno;
-
-II. Se justifique el mensaje en el contexto de los hechos particulares que lo motivan;
-
-III. Se refieran específicamente a hechos particulares que motivan su difusión, y
-
-IV. Se trate de un mensaje inexcusable e incluso necesario, del gobernante hacia la población, para hacer del conocimiento público, la posición asumida por el gobierno ante esa situación particular.
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 14.
 
-(DEROGADO, G.O. 20 DE FEBRERO DE 2012)
+Desde el inicio de las campañas y hasta la conclusión de la jornada electoral, las autoridades del Distrito Federal y las autoridades federales en el ámbito del Distrito Federal, suspenderán las campañas publicitarias de todos aquellos programas, acciones gubernamentales, obras o logros de gobierno. Deberá suprimirse o retirarse toda propaganda gubernamental de publicidad exterior o circulación de cualquier medio impreso tanto de los poderes federales y estatales, así como de los órganos de gobierno del Distrito Federal, sus delegaciones y cualquier otro ente público, en términos y con las excepciones establecidas en el siguiente párrafo.
+
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 15.
 
-Se considerará que tiene fines electorales toda propaganda que se lleve a cabo durante la campaña y hasta el fin de la jornada electoral, con excepción de lo expresamente dispuesto por el artículo 320 del Código y el artículo 12, párrafo segundo del presente Reglamento.
+Las únicas excepciones a lo señalado en el artículo anterior, serán las campañas de información de las autoridades electorales o administrativas, relativas a servicios de salud, educación, las necesarias para protección civil en casos de emergencia, y la intervención de servidores públicos en actos relacionados o con motivo de las funciones inherentes a su cargo, siempre y cuando no se difundan mensajes que impliquen la pretensión de ocupar un cargo de elección popular, la intención de obtener el voto, de favorecer o perjudicar a un partido político, candidato o candidato independiente, o que de alguna manera los vincule a los procesos electorales.
+
+Para efectos de lo dispuesto en el párrafo anterior, los mensajes informativos dirigidos a la población durante el período de campaña deberán cumplir con los siguientes parámetros:
+
+I. No deberán incluir el nombre, ni la imagen de ningún servidor público, ni contener colores, emblemas, imágenes, símbolos, lemas, logos o frases que los vinculen con algún partido político;
+
+II. No deberán referir programas, acciones, obras o logros de gobierno, y
+
+III. El contenido de los mensajes deberá estar justificado en el contexto de los hechos particulares que motivan su difusión.
+
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 16.
 
-Serán considerados actos anticipados de precampaña, los que se señalan a continuación:
+El incumplimiento a las disposiciones establecidas en el presente capítulo por parte de los servidores públicos de los poderes federales y estatales, se hará del conocimiento de la autoridad competente.
 
-I. Los actos orientados a promover la imagen de un aspirante a precandidato, ciudadano, servidor público y/o militante de algún partido político no registrado ante un partido político, y
+> <small>(ADICIONADO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-II. Los actos orientados a promover la imagen de un aspirante a candidato por parte de un partido político.
+### CAPÍTULO SEGUNDO. DE LA PROMOCIÓN PERSONALIZADA
+
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 17.
+
+Será considerada promoción personalizada contraria a la ley, la propaganda que se difunda a través de prensa, mantas, bardas, anuncios espectaculares, volantes, u otros medios de comunicación, distintas a los medios de Radio y Televisión, que contenga alguno de los elementos siguientes:
+
+I. Promocionen, implícita o explícitamente, a un servidor público con fines político-electorales;
+
+II. Destaque elementos de un servidor público como su nombre, imagen, silueta, fotografía, voz, cualidades o calidades personales, logros políticos y económicos, partido de militancia, creencias religiosas, antecedentes familiares o sociales;
+
+III. Se asocie logros de gobierno con el servidor público más que con la institución;
+
+IV. Utilice expresiones vinculadas con el sufragio, difundiendo mensajes tendentes a la obtención del voto, o mencione o aluda la pretensión de ser precandidato, candidato o candidato independiente a un cargo de elección popular o cualquier referencia a los procesos de selección interna o electorales;
+
+V. Contenga expresiones como voto", "vota", "votar", "sufragio", "sufragar", "comicios", "elección", "elegir", "proceso electoral" y cualquier otra similar vinculada con las distintas etapas del proceso electoral; o
+
+VI. Utilice colores, emblemas, símbolos, lemas, logos o cualquier otro elemento que relacione a los servidores públicos con algún partido político, coalición, candidato, precandidato, candidato independiente o proceso electoral.
+
+> <small>(ADICIONADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+### CAPÍTULO TERCERO. DE LA DIFUSIÓN DE LOS INFORMES DE GESTIÓN
+
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 18.
+
+El informe anual o de gestión de los servidores públicos, así como los mensajes que para darlos a conocer se difundan en los medios de comunicación social, no serán considerados como propaganda, siempre que la difusión se limite a una vez al año, en estaciones y canales con cobertura regional correspondiente al ámbito geográfico de responsabilidad del servidor público, y no exceda de los siete días anteriores y cinco posteriores a la fecha en que se rinda el informe.
+
+En ningún caso la difusión de los informes señalados en el párrafo anterior podrá tener fines electorales, ni realizarse dentro del periodo de campaña electoral.
+
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 19.
+
+Sólo podrán difundir y rendir informes de gestión o actividades a la ciudadanía, los servidores públicos que tengan la obligación legal expresa para ello, quienes deberán ajustarse a la norma específica.
+
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 20.
+
+Atendiendo al principio de equidad e imparcialidad de los recursos, para la difusión de informes legislativos se estará a lo siguiente:
+
+I. Que la contratación de los mecanismos de difusión se realice con los recursos presupuestalmente asignados para ello;
+
+II. Que el contenido esté orientado a dar a conocer a la ciudadanía el desempeño de la actividad o logros propios de la responsabilidad del cargo que se ejerce. Además, deberá abstenerse de difundir logros de gobierno, obra pública e incluso emitir información sobre programas y acciones que promuevan innovaciones en beneficio de la ciudadanía, y
+
+III. Que en ningún caso la propaganda incluya nombres, imágenes, voces, símbolos o cualquier otro elemento que implique promoción personalizada de cualquier servidor público.
+
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 21.
+
+Se considerará que tiene fines electorales toda propaganda que se lleve a cabo durante la campaña y hasta el fin de la jornada electoral, con excepción de lo expresamente dispuesto por los artículos 6, párrafo tercero y 320 del Código.
+
+> <small>(ADICIONADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 22.
+
+Los servidores públicos deberán abstenerse de aparecer o participar voluntariamente en cualquier publicación, tales como revistas, semanarios, folletos, periódicos, entre otros, que tengan como finalidad promover su nombre y/o imagen a efecto de posicionarse ante la ciudadanía con fines político-electorales.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+### CAPÍTULO CUARTO. DE LA PROPAGANDA EN PÁGINAS DE INTERNET
+
+> <small>(ADICIONADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 23.
+
+Tendrá carácter institucional el uso que los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente de los tres órdenes de gobierno, y servidores públicos hagan de los portales de internet con la fotografía y nombre de cualquier servidor público, siempre y cuando tenga fines informativos, de comunicación con ciudadanos o rendición de cuentas.
+
+La difusión referida en el párrafo anterior no deberá contener expresiones que se encuentren vinculadas con las distintas etapas del proceso electoral ni mensajes destinados a influir en las preferencias electorales de la ciudadanía, a favor o en contra de aspirantes, precandidatos, candidatos, partidos políticos o candidatos independientes.
+
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+## TÍTULO CUARTO. DE LOS ACTOS ANTICIPADOS
+
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+### CAPÍTULO PRIMERO. DE LOS ACTOS ANTICIPADOS (SIC) PRECAMPAÑA
+
+> <small>(ADICIONADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 24.
+
+Serán considerados actos anticipados de precampaña, aquellos orientados a promover la imagen de un aspirante a precandidato, ciudadano, servidor público, militante de algún partido político, candidato o candidato independiente.
 
 A fin de determinar si se está ante actos anticipados de precampaña; la autoridad electoral deberá considerar los aspectos de temporalidad y contenido que se refieren a continuación:
 
 A. De temporalidad:
 
-I. Que se lleven a cabo en cualquier momento previo al inicio del período de precampaña para la selección interna de candidatos de los partidos políticos a los distintos cargos de elección popular en el Distrito Federal.
+I. Que se lleven a cabo durante el periodo que abarca desde el inicio del proceso electoral hasta antes del plazo legal para el inicio de las de las (sic) precampañas.
 
 B. De contenido:
 
-I. Se invite al voto de la militancia o de la ciudadanía en general, según corresponda para votar por el aspirante, para ser precandidato por el partido político de que se trate, siempre y cuando éste se realice fuera del periodo de precampaña, de conformidad a lo previsto en la Convocatoria que se haya emitido para tal efecto.
+I. Se invite al voto de la militancia o de la ciudadanía en general, según corresponda para votar por el aspirante, para ser precandidato por el partido político de que se trate, siempre y cuando éste se realice dentro del plazo establecido en la fracción anterior;
 
-II. Se promuevan planes o programas de gobierno con fines electorales para promover o apoyar a un aspirante a precandidato o candidato;
+II. Se promuevan planes o programas de gobierno con fines electorales para promover o apoyar a un aspirante a precandidato, candidato o candidato independiente;
 
 III. Se publicite el nombre, fotografía, silueta, imagen, voz, colores, o símbolos que identifiquen al aspirante y que por su contenido, lemas o frases, ubicación, frecuencia o sistematicidad, o cualquier otro elemento se refleje el propósito de efectuar promoción personalizada;
 
 IV. Se utilicen expresiones alusivas al proceso electoral vinculadas con cualquiera de sus distintas etapas;
 
-V. Se difundan mensajes tendentes a la obtención del voto a favor de algún partido político, o de algún servidor público como precandidato o candidato a obtener un cargo de elección popular en el Distrito Federal;
+V. Se difundan mensajes tendentes a la obtención del voto a favor de algún partido político, o de algún servidor público como precandidato, candidato o candidato independiente a obtener un cargo de elección popular en el Distrito Federal;
 
 VI. La mención de cualquier fecha o plazo del proceso electoral ordinario del Distrito Federal, ya sea de organización, precampaña, campaña, jornadas de selección interna o de elección, de cómputo o de calificación, u otras similares;
 
-VII. Los que tiendan a promover la imagen personal de algún servidor público y que no encuadren en el supuesto de excepción previsto en el artículo 12, párrafo segundo de este Reglamento, y
+VII. Los que tiendan a promover la imagen personal de algún servidor público y que no encuadren en el supuesto de excepción previsto en el artículo 15 de este Reglamento, y
 
-VIII. Cualquier otro mensaje similar, siempre que esté destinado a influir en las preferencias electorales de los ciudadanos, a favor o en contra de aspirantes, precandidatos, candidatos, partidos políticos o coaliciones.
+VIII. Cualquier otro mensaje similar, siempre que esté destinado a influir en las preferencias electorales de los ciudadanos, a favor o en contra de aspirantes, precandidatos, candidatos, partidos políticos, coaliciones o candidatos independientes.
 
-### CAPÍTULO I. DE LOS ACTOS ANTICIPADOS DE PRECAMPAÑA
-
-###### Artículo 17.
-
-Los partidos políticos que en el proceso de selección interna opten por la designación directa de candidatos deberán abstenerse de registrar como tales, a los ciudadanos que hayan incurrido en alguno de los supuestos previstos en el apartado B del artículo 16 de este Reglamento.
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
 ### CAPÍTULO II. DE LOS ACTOS ANTICIPADOS DE CAMPAÑA
 
-###### Artículo 18.
+> <small>(ADICIONADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 25.
 
 Serán considerados actos anticipados de campaña los que se señalan a continuación:
 
-I. Aquellos que se lleven a cabo previo al inicio de las campañas, incluso antes y durante los procesos de selección interna de candidatos, siempre y cuando se actualice alguna de las siguientes hipótesis:
+I. Aquellos que se lleven a cabo previo al inicio de las campañas, incluso durante los procesos de selección interna de candidatos, siempre y cuando se actualice alguna de las siguientes hipótesis:
 
 a) En dichos actos se promueva una plataforma electoral o programa de gobierno;
 
@@ -668,15 +800,31 @@ c) Se haga una invitación generalizada a la ciudadanía para emitir su voto a f
 
 d) Se utilicen emblemas, logotipos, colores, consignas o cualquier otro elemento que identifique a quien se promueve, con un partido político, coalición o con la jornada electoral y que con ello se haga difusión del partido o de su plataforma electoral.
 
-II. Aquellos que se lleven a cabo previo al inicio de las campañas, incluso antes y durante los procesos de selección interna de candidatos, siempre que se haga promoción del voto a favor o en contra de algún precandidato, candidato, partido político o coalición.
+II. Los actos de precampaña que realice un precandidato único o candidato electo por designación directa, cuando dichos actos trasciendan al conocimiento de la comunidad y cuya finalidad consista en solicitar el voto ciudadano a favor de un candidato, para acceder a un cargo de elección popular, publicitar sus plataformas electorales o programas de gobierno, o bien, posicionar su imagen frente al electorado.
 
-III. El no retiro de la propaganda electoral de precampaña de los partidos políticos después de la conclusión de las mismas o una vez que se haya realizado el evento para la designación de su candidato.
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-IV. Los actos de precampaña que realice un precandidato único o candidato electo por designación directa, cuando dichos actos trasciendan al conocimiento de la comunidad y cuya finalidad consista en solicitar el voto ciudadano a favor de un candidato, para acceder a un cargo de elección popular, publicitar sus plataformas electorales o programas de gobierno, o bien, posicionar su imagen frente al electorado.
+### CAPÍTULO III. DEL RETIRO DE LA PROPAGANDA
 
-###### Artículo 19.
+> <small>(ADICIONADO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-No serán atribuibles al aspirante a precandidato, precandidato o candidato, partido político o coalición, los actos realizados por terceros siempre y cuando el interesado demuestre haber realizado al menos las acciones siguientes:
+###### Artículo 26.
+
+La propaganda relativa a las precampañas y campañas deberá ser retirada por el Gobierno del Distrito Federal y los Órganos Político-Administrativos, en cada una de sus demarcaciones, al día siguiente de que concluya el periodo respectivo. La propaganda retirada de la vía pública deberá ser enviada a centros de reciclaje, acreditando mediante las constancias que éstos emiten, la entrega de dichos materiales.
+
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+## TÍTULO QUINTO. DISPOSICIONES FINALES
+
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+### CAPÍTULO ÚNICO. DISPOSICIONES FINALES
+
+> <small>(ADICIONADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 27.
+
+No serán atribuibles al aspirante a precandidato, precandidato (sic), candidato, partido político, coalición o candidato independiente los actos realizados por terceros, siempre y cuando el interesado demuestre haber realizado al menos las acciones siguientes:
 
 I. Que se haya pronunciado públicamente con el objeto de deslindarse de tal hecho;
 
@@ -696,19 +844,17 @@ d) Oportunidad: Que la actuación sea inmediata al desarrollo de los hechos que 
 
 e) Razonabilidad: Que la acción implementada sea la que de manera ordinaria se podría exigir a los partidos políticos.
 
-###### Artículo 20.
+> <small>(ADICIONADO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-Todo lo no previsto en el presente Reglamento será resuelto por la Comisión, de conformidad con la normativa electoral vigente y los reglamentos aplicables emitidos por el Instituto.
+###### Artículo 28.
 
-###### Artículo 21.
+Todo lo no previsto en el presente Reglamento, será resuelto por la Comisión, de conformidad con la normatividad electoral vigente y los reglamentos aplicables emitidos por el Instituto.
 
-Cuando se denuncien conductas que pudieran ser violatorias a lo dispuesto en el presente Reglamento, se seguirá el procedimiento establecido en el Reglamento para el trámite, sustanciación y resolución de los procedimientos administrativos sancionadores del Instituto Electoral del Distrito Federal, y en caso de ser procedente el Instituto Electoral al tener conocimiento de actos que pudieren constituirse en responsabilidades administrativas o penales deberá dar vista a las autoridades competentes para su conocimiento.
+> <small>(ADICIONADO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
-### CAPÍTULO ÚNICO. DISPOSICIONES FINALES
+###### Artículo 29.
 
-## TÍTULO TERCERO (SIC). DE LOS ACTOS ANTICIPADOS
-
-## TÍTULO CUARTO. DISPOSICIONES FINALES
+Cuando se denuncien conductas que pudieran ser violatorias de lo dispuesto en el presente reglamento, se seguirá el procedimiento establecido en el Reglamento para el trámite y sustanciación de quejas y procedimientos de investigación del Instituto Electoral del Distrito Federal, y en caso de ser procedente el Instituto al tener conocimiento de actos que pudieren constituirse en responsabilidades administrativas o penales deberá hacerlo del conocimiento de las autoridades competentes.
 
 ## TRANSITORIOS
 
@@ -737,3 +883,13 @@ CUARTO. Se instruye al Secretario Ejecutivo para que dentro del plazo de tres d�
 QUINTO. Se instruye a la Unidad Técnica de Comunicación Social, Transparencia y Protección de Datos Personales, para que dentro de los tres días hábiles siguientes a la aprobación de este Acuerdo, realice las adecuaciones que sean procedentes por virtud de la determinación asumida por el Consejo General, en el apartado de Transparencia del sitio www.iedf.org.mx
 
 SEXTO. El presente Acuerdo entrará en vigor al momento de su aprobación por el Consejo General.
+
+G.O. 17 DE OCTUBRE DE 2014.
+
+PRIMERO. El presente Reglamento entrará en vigor al momento de su publicación.
+
+SEGUNDO. Por única ocasión el Proceso Electoral Ordinario 2014-2015, dará inicio la primera semana del mes de octubre del 2014.
+
+TERCERO. Se derogan las disposiciones que se opongan al presente Reglamento.
+
+CUARTO. Remítase para su publicación dentro del plazo de diez días hábiles a la Gaceta Oficial del Distrito Federal, así como en los estrados del Instituto, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en la página de Internet www.iedf.org.mx
