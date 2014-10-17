@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-administracion-publica-para-el-municipio-60268
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-22"
-last_updated: "2014-10-10"
+last_updated: "2014-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60268&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2014.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 22 de febrero de 2008.
 
@@ -1493,6 +1493,24 @@ III.- Inspección y Denuncias Ambientales; y
 
 IV.- Educación Ambiental
 
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+
+ARTÍCULO 75 BIS.- La Subdirección de Ecología tendrá las siguientes funciones:
+
+I. Proponer a la Dirección en el ámbito de sus facultades el ejercicio y administración de los recursos presupuestarios, materiales y humanos asignados al área, cuando este sea requerido por la Dirección.
+
+II. Supervisar la operatividad de los Departamentos de Planeación y Gestión Ambiental, Inspecciones y Denuncias Ambientales y Educación Ambiental.
+
+III. Revisión de documentos oficiales generados en los Departamentos previo a la firma del Director. Así como emitir oficios de competencia de la Subdirección de manera interna e (sic) la Dependencia.
+
+IV. Apoyar a la Dirección de Ecología cuando sea requerido por esta en relación con los Programas Federales y/o Estatales que apoyen a la Reforestación y Limpieza en el Municipio de Ensenada, estando este siempre bajo la supervisión y responsabilidad de la Dirección.
+
+V. Suplir las ausencias del Director en la oficina de la Dirección de Ecología, cuando este faltare por cualquier causa.
+
+VI. Proponer la aplicación de multas a la Dirección.
+
+VII. Las demás que le encomiende el Director de Ecología.
+
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2014)</small>
 
 ###### ARTÍCULO 76.
@@ -2418,5 +2436,9 @@ Los derechos que se establecen en la Ley de Ingresos por los servicios que prest
 Se derogan las disposiciones que se opongan al presente Acuerdo.
 
 P.O. 10 DE OCTUBRE DE 2014.
+
+ÚNICO.- Una vez siendo aprobada la presente reforma, publíquese en el Periódico Oficial del Gobierno del Estado de Baja California, para que surta efectos al día siguiente de su publicación en todo el territorio del Municipio de Ensenada B. C.
+
+P.O. 17 DE OCTUBRE DE 2014.
 
 ÚNICO.- Una vez siendo aprobada la presente reforma, publíquese en el Periódico Oficial del Gobierno del Estado de Baja California, para que surta efectos al día siguiente de su publicación en todo el territorio del Municipio de Ensenada B. C.
