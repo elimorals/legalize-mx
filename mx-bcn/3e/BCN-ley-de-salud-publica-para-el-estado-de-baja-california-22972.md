@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2013-10-25"
+last_updated: "2014-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2014.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -281,7 +281,9 @@ El Sistema Estatal de Salud, con la intervención que corresponda al Comité de 
 
 El Sistema Estatal de Salud tiene los siguientes objetivos:
 
-I.- Proporcionar servicios de salud a toda la población del Estado y mejorar la calidad de los mismos, atendiendo a los problemas sanitarios prioritarios y a los factores que condicionen y causen daños a la salud, o signifiquen riesgos para la misma, con especial interés en las acciones preventivas;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2014)</small>
+
+I.- Proporcionar servicios de salud a toda la población del Estado y mejorar la calidad de los mismos, atendiendo a los problemas sanitarios prioritarios y a los factores que condicionen y causen daños a la salud, o signifiquen riesgos para la misma, con especial interés en la implementación e impulso de las acciones de atención integrada de carácter preventivo, acorde a la edad, sexo y factores de riesgo de las personas;
 
 II.- Contribuir al adecuado desarrollo demográfico del Estado;
 
@@ -321,13 +323,19 @@ IV.- Expresión de que las acciones no persiguen fines económicos o de lucro, y
 
 La competencia de las Autoridades Sanitarias del Estado en la planeación, regulación, organización y funcionamiento del Sistema Estatal de Salud, se regirá por las disposiciones de esta Ley y demás normas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2014)</small>
+
 ###### ARTÍCULO 11.
 
-Corresponde al Ejecutivo del Estado por conducto de la Secretaría de Salud del Estado:
+Corresponde al Ejecutivo del Estado por conducto de la Secretaría de Salud:
 
 I.- Coordinar el Sistema Estatal de Salud y coadyuvar a la consolidación y funcionamiento del Sistema Nacional de Salud;
 
 II.- Elaborar el programa de salud para el Estado, tomando en cuenta las prioridades y los servicios del Sistema Nacional y Estatal de Salud;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2014)</small>
+
+II bis.- Promover que las instituciones del Sistema Estatal de Salud implementen programas cuyo objeto consista en brindar atención médica integrada de carácter preventivo, acorde a la edad, sexo y factores de riesgo de las personas;
 
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
 
@@ -467,7 +475,11 @@ Conforme a las prioridades del Sistema Estatal de Salud, se garantizará la exte
 
 Para los efectos del derecho a la protección de la salud, se consideran servicios básicos de salud los referentes a:
 
-I.- La atención médica;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2014)</small>
+
+I.- La atención médica integral que comprende la atención médica integrada de carácter preventivo, acciones curativas, paliativas y de rehabilitación, incluyendo la atención de urgencias.
+
+Para efectos de esta fracción la atención médica de carácter preventivo consiste en realizar todas las acciones de prevención y promoción para la protección de la salud, de acuerdo a la edad, sexo y determinantes físicos y psíquicos de las personas, realizadas preferentemente en una sola consulta.
 
 II.- La atención materno infantil;
 
@@ -516,6 +528,10 @@ II.- Curativas, que tienen como fin efectuar un diagnóstico temprano y proporci
 > <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
 
 III.- De rehabilitación, que incluyen acciones tendientes a corregir las discapacidades físicas o mentales, o de enfermedad por adicción a los narcóticos.
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2014)</small>
+
+IV. Paliativas, que incluyen el cuidado integral para preservar la calidad de vida del paciente, a través de la prevención, tratamiento y control del dolor, y otros síntomas físicos y emocionales por parte de un equipo profesional multidisciplinario.
 
 #### SECCION III. DE LA ATENCION MATERNO-INFANTIL
 
@@ -685,7 +701,7 @@ La atención de las enfermedades mentales comprende:
 
 > <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
 
-I.- La atención de personas con padecimientos mentales, la rehabilitación psiquiátrica de enfermos crónicos, deficientes mentales, alcohólicos y personas enfermas que usen habitualmente estupefacientes o substancias psicotrópicas, o alguna droga; y (sic)
+I.- La atención de personas con padecimientos mentales, la rehabilitación psiquiátrica de enfermos crónicos, deficientes mentales, alcohólicos y personas enfermas que usen habitualmente estupefacientes o substancias psicotrópicas, o alguna droga; y
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2011)</small>
 
@@ -1045,7 +1061,7 @@ IV.- Desarrollar y aplicar acciones de prevención, tratamiento y rehabilitació
 
 > <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2012)</small>
 
-ARTÍCULO 50 QUINQUES (SIC).- El Banco Estatal de Sangre, será el establecimiento autorizado a cargo de la Secretaria de Salud Pública del Estado; para obtener, analizar, fraccionar, preparar, conservar, aplicar y proveer sangre humana y sus componentes sanguíneos. El cual tendrá una sede en cada uno de los municipios del Estado; pudiendo abastecer a otros bancos de sangre de Instituciones de Salud Pública en el Estado.
+ARTÍCULO 50 QUINQUES (SIC).- El Banco Estatal de Sangre, será el establecimiento autorizado a cargo de la Secretaria de Salud Pública del Estado; para obtener, analizar, fraccionar, preparar, conservar, aplicar y proveer sangre humana y sus componentes sanguíneos. El cual tendrá una sede en cada uno de los municipios del Estado; pudiendo abastecer a otros bancos de sangre de Instituciones de Salud Publica en el Estado.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
@@ -1543,7 +1559,7 @@ II.- Conocer los factores condicionantes o causales de parálisis cerebral infan
 
 III.- Dar seguimiento al desarrollo de la parálisis cerebral infantil;
 
-IV.- Planificar, acercar, evaluar y mejorar la atención médica, así como los servicios asistencia (sic) social que se deban otorgar; y
+IV.- Planificar, acercar, evaluar y mejorar la atención médica, así como los servicios (sic) asistencia social que se deban otorgar; y
 
 V.- Recabar cualquier otra información que se estime necesaria para la prevención y rehabilitación de la parálisis cerebral infantil.
 
@@ -2832,3 +2848,7 @@ La presente reforma entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se preverán los recursos necesarios en el Presupuesto de Egresos 2014, a fin de garantizar la implementación de los programas a que se refiere la presente reforma.
+
+P.O. 17 DE OCTUBRE DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
