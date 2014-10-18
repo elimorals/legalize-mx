@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2014-06-21"
+last_updated: "2014-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2014.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -503,9 +503,9 @@ I.- El Legislativo, en una asamblea que se denominará "Congreso del Estado".
 
 II.- El Ejecutivo, en un funcionario con el nombre de "Gobernador del Estado".
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2014)</small>
 
-III.- El Judicial, en un "Supremo Tribunal de Justicia" y en los jueces de primera instancia, menores y de paz.
+III.- El Judicial, en un “Supremo Tribunal de Justicia” y en los jueces de primera instancia y menores.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1057,9 +1057,9 @@ XV.- Constituido en Colegio Electoral:
 
 A.- Elegir Gobernador interino, provisional o sustituto en los casos que establezca esta Constitución.
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2014)</small>
 
-B) Nombrar los magistrados que deban integrar el Supremo Tribunal de Judicial; así como aprobar el nombramiento del Fiscal General del Estado que para tal efecto envíe el Gobernador.
+B) Nombrar a los magistrados del Supremo Tribunal de Justicia, de entre la terna que someta a su consideración la Comisión a que se refiere el artículo 103 de esta Constitución; así como aprobar el nombramiento del Fiscal General del Estado que para tal efecto envíe el Gobernador.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 10 DE SEPTIEMBRE DE 2005)</small>
 
@@ -1715,7 +1715,7 @@ XXXVIII.- Sujetándose a lo que establezcan las leyes respectivas, celebrar con 
 
 > <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
 
-XXXIX.- Enviar al Congreso el nombramiento del Fiscal General del Estado para la aprobación correspondiente; y (sic)
+XXXIX.- Enviar al Congreso el nombramiento del Fiscal General del Estado para la aprobación correspondiente; y
 
 > <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1805,21 +1805,17 @@ DEL PODER JUDICIAL.
 
 DISPOSICIONES GENERALES.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 457/2014 II P.O. PUBLICADO EN EL P.O. DE 28 DE MAYO DE 2014, SE DEROGA EL DECRETO NO. 1135/2012 I P.O. PUBLICADO EN EL P.O. NÚMERO 69, DE FECHA 28 DE AGOSTO DE 2013, MEDIANTE EL CUAL SE REFORMABAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA.</small>
-
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2014)</small>
 
 ###### Art. 99.
 
-La potestad de aplicar las leyes del fuero común en materia civil, familiar, penal, de adolescentes infractores y electoral en el territorio del Estado, corresponde al Poder Judicial, salvo las excepciones previstas en la ley.
+La potestad de aplicar las leyes del fuero común en materia civil, familiar, penal, de justicia para adolescentes, fiscal, administrativa, de extinción de dominio y justicia alternativa, en el territorio del Estado, corresponde al Poder Judicial, salvo las excepciones previstas en la ley. Lo anterior sin perjuicio de las potestades que deriven de otros ordenamientos.
 
 ### CAPITULO II.
 
 DEL SUPREMO TRIBUNAL DE JUSTICIA.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 457/2014 II P.O. PUBLICADO EN EL P.O. DE 28 DE MAYO DE 2014, SE DEROGA EL DECRETO NO. 1135/2012 I P.O. PUBLICADO EN EL P.O. NÚMERO 69, DE FECHA 28 DE AGOSTO DE 2013, MEDIANTE EL CUAL SE REFORMABAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA.</small>
-
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2014)</small>
 
 ###### Art. 100.
 
@@ -1831,35 +1827,29 @@ DEL SUPREMO TRIBUNAL DE JUSTICIA.
 
 Todos los cargos y empleos en el Poder Judicial son de aceptación y desempeño enteramente libres, pudiendo los nombrados tanto excusarse de aceptarlos como de renunciarlos ante la autoridad que haya hecho la designación.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 457/2014 II P.O. PUBLICADO EN EL P.O. DE 28 DE MAYO DE 2014, SE DEROGA EL DECRETO NO. 1135/2012 I P.O. PUBLICADO EN EL P.O. NÚMERO 69, DE FECHA 28 DE AGOSTO DE 2013, MEDIANTE EL CUAL SE REFORMABAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA.</small>
-
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2014)</small>
 
 ###### Art. 102.
 
-Si al terminarse el período señalado a los magistrados y jueces:
+En caso de que un magistrado hubiese cumplido los requisitos de ley para su jubilación, se deberá nombrar a quien habrá de sustituirlo dentro de los tres meses previos a que dicho supuesto se actualice.
 
-1.- No se hubiera emitido el dictamen de evaluación y, con base en el mismo, llevado a cabo su reelección, en su caso, se entenderá que han sido ratificados en sus cargos, sin perjuicio de las responsabilidades en que incurran los funcionarios legislativos o judiciales en quienes recaiga la omisión.
+Si habiendo concluido el periodo de encargo de los jueces del Poder Judicial, no se ha verificado su reelección, se entenderá que han sido ratificados.
 
-2.- No se hubieran electo o presentado quienes deban reemplazarlos, continuarán aquellos en el ejercicio de sus funciones hasta que se haga la elección o se presenten los electos o nombrados, respectivamente.
+Lo anterior, sin perjuicio de la responsabilidad en que incurran los funcionarios omisos.
 
-Si al terminarse el período señalado al resto de los funcionarios judiciales no hubieren sido electos o nombrados quienes deban reemplazarlos, o no se hubieren presentado éstos, continuarán aquellos en el ejercicio de sus funciones hasta que se haga la elección o el nombramiento o se presenten los electos o nombrados, respectivamente.
+En todo caso, cuando no se hubiese nombrado o electo a quien deba reemplazar al funcionario judicial cuyo cargo concluye o aquel no se hubiese presentado, asumirá el ejercicio de sus funciones quien conforme a la ley deba sustituirlo en caso de ausencia temporal, hasta en tanto se verifique el nombramiento o se presente a asumir el cargo quien fuere designado.
 
 ###### Art. 103.
 
-El Supremo Tribunal de Justicia se compondrá cuando menos de quince magistrados, que serán designados de la siguiente manera:
+El Supremo Tribunal de Justicia se compondrá de mínimo veinte y máximo treinta magistrados, quienes serán nombrados bajo el siguiente procedimiento:
 
-Cuando exista una vacante absoluta o se autorice la creación de una nueva Sala, el Supremo Tribunal de Justicia emitirá convocatoria pública dirigida a quienes satisfagan los requisitos que establece el artículo 108, por conducto de un Jurado, constituido por dos miembros del Poder Legislativo, dos del Poder Ejecutivo y dos magistrados del Poder Judicial.
+Cuando exista una vacante absoluta o se autorice la creación de una nueva Sala, el Supremo Tribunal de Justicia convocará a la Comisión especial integrada por un representante del Poder Legislativo, designado por la Junta de Coordinación Parlamentaria; uno del Poder Ejecutivo nombrado por el Gobernador, y el Presidente del Supremo Tribunal de Justicia como representante del Poder Judicial, a efecto de que esta envíe al Congreso una terna de candidatos, los que invariablemente deberán cumplir con los requisitos que establece el artículo 108 de esta Constitución.
 
-El Jurado elaborará los exámenes públicos de oposición que habrán de aprobar los aspirantes en los términos que disponga la Ley Orgánica respectiva. En igualdad de circunstancias se preferirá a aquellas personas que hayan prestado sus servicios con eficiencia y probidad en su honorabilidad, competencia y antecedentes, entre otras ramas de la profesión jurídica.
+La Comisión especial propondrá la terna para ocupar las vacantes, integrándola, en un caso, únicamente con personas que presten sus servicios al Poder Judicial y, en otro, solo con abogados externos a dicho Poder, de manera alternada.
 
-Los magistrados serán electos por el Congreso con la votación de las dos terceras partes de los diputados presentes, mediante escrutinio secreto. Si ninguno obtuviere tal mayoría en primera votación, se repetirá ésta entre los dos que hubieran obtenido más sufragios y se declarará electo al que obtenga el expresado número de votos. Si luego de celebrada la segunda ronda de votación ninguno obtuviese la mayoría calificada, se elegirá a quien logre la mayoría absoluta; en caso de empate, se designará magistrado a quien ya preste sus servicios al Poder Judicial o, en su caso, al que tenga más años haciéndolo.
+El Congreso del Estado nombrará a quien deba ocupar la magistratura, dentro del improrrogable plazo de treinta días y con el voto de las dos terceras partes de sus miembros presentes, previa comparecencia pública de los integrantes de la terna ante la Junta de Coordinación Parlamentaria. Durante la comparecencia se deberá garantizar la transparencia, objetividad, publicidad y el acceso a los perfiles de los aspirantes.
 
-El procedimiento de elección se establecerá en la Ley Orgánica del Poder Judicial.
-
-Los magistrados que concluyan su encargo podrán ser, en su caso, reelectos por el Congreso, por mayoría calificada de los diputados presentes.
-
-Los magistrados y jueces en funciones o que disfruten de licencia con goce de sueldo, no podrán desempeñar otro cargo, empleo o comisión que fueren retribuidos, salvo los de docencia y fuera de las horas designadas al despacho de los asuntos del Poder Judicial.
+Cuando el Congreso del Estado rechace la totalidad de la terna propuesta, la Comisión presentará una nueva, de la cual deberá surgir el nombramiento.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JUNIO DE 2013)</small>
 
@@ -1881,23 +1871,27 @@ Cuando la inaplicación a que se refiere el párrafo anterior la determinen las 
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
-### CAPITULO III.. DE LOS JUECES DE PRIMERA INSTANCIA, MENORES Y DE PAZ DEL SUPREMO TRIBUNAL DE JUSTICIA
+### CAPITULO III. DE LOS JUECES DE PRIMERA INSTANCIA Y MENORES DEL SUPREMO TRIBUNAL DE JUSTICIA
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2014)</small>
 
 ###### Art. 106.
 
 Nunca podrán desempeñar su función simultáneamente en el Tribunal, magistrados que entre sí sean cónyuges, parientes consanguíneos en línea recta o colateral dentro del cuarto grado. Tratándose de afines, la prohibición comprende la línea recta y la colateral dentro del segundo grado.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2014)</small>
 
 ###### Art. 107.
 
-Los magistrados del Supremo Tribunal de Justicia y los Jueces de Primera Instancia durarán en su encargo tres años, al término de los cuales, si fueren reelectos los primeros por el Congreso y los segundos por las dos terceras partes del número de magistrados presentes en el Pleno, serán inamovibles y sólo podrán ser destituidos en los casos que determine esta Constitución o las leyes.
+Los magistrados del Supremo Tribunal de Justicia serán nombrados para un único periodo de quince años. Sin embargo, concluirán su encargo y cesarán sus funciones, los magistrados que satisfagan los requisitos que exigen las leyes atinentes para gozar de la jubilación y además hayan desempeñado el cargo de magistrado cuando menos por un periodo de cinco años.
 
-La reelección, en su caso, de los magistrados del Supremo Tribunal de Justicia, se realizará previa emisión de un dictamen, en el que se tomarán en cuenta, de conformidad con la Ley Orgánica respectiva, el desempeño que hayan tenido en el ejercicio de su función; los resultados de las visitas de inspección; el grado académico, que comprende el nivel de estudios con que cuente el servidor público, así como los diversos cursos de actualización y especialización acreditados de manera fehaciente; no haber sido sancionado por falta grave, con motivo de una queja de carácter administrativa; y, los demás elementos que se consideren pertinentes, siempre que consten de manera indubitable.
+Los magistrados serán inamovibles durante su encargo y solo podrán ser destituidos en los casos que determinen esta Constitución o las leyes.
 
-Los jueces de primera instancia podrán ser reelectos en los términos de esta Constitución y la Ley Orgánica respectiva. En tanto, los jueces menores y de paz durarán indefinidamente en el cargo y podrán ser destituidos en los casos en que la ley lo estipule o cuando lo estime conveniente el Pleno del Supremo Tribunal de Justicia.
+Los jueces de primera instancia durarán en su encargo tres años y podrán ser reelectos por el voto de las dos terceras partes de los miembros presentes del Pleno del Supremo Tribunal de Justicia. En este caso, serán inamovibles y solo podrán ser destituidos en los casos que determinen esta Constitución o las leyes.
+
+Los jueces menores durarán indefinidamente en el cargo y podrán ser destituidos en términos de lo que la ley estipule.
+
+Los magistrados y jueces en funciones o que disfruten de licencia con goce de sueldo no podrán desempeñar otro cargo, empleo o comisión que fueren retribuidos, salvo los de docencia y fuera de las horas designadas al despacho de los asuntos del Poder Judicial.
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 1988)</small>
 
@@ -1937,11 +1931,13 @@ II.- Emitir su opinión sobre los proyectos de ley o decreto relativos a la legi
 
 III.- Crear la Sala correspondiente cuando la elección de un Magistrado así lo amerite.
 
-IV.- Nombrar y remover.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2014)</small>
 
-a).- A los Jueces del Estado.
+IV. Nombrar y remover a los funcionarios que señale su Ley Orgánica.
 
-b).- Libremente: a los Secretarios de Salas, visitadores judiciales y demás funcionarios y empleados, cuya designación y remoción no esté determinada de otra forma en esta Constitución o en la Ley.
+a).- (DEROGADO, P.O. 18 DE OCTUBRE DE 2014)
+
+b).- (DEROGADO, P.O. 18 DE OCTUBRE DE 2014)
 
 > <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
 
@@ -1951,31 +1947,23 @@ V.- Nombrar a su Presidente de entre sus integrantes, mediante votación por may
 
 VI.- Crear y suprimir juzgados de acuerdo a las necesidades de la administración de justicia.
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2014)</small>
 
-VII.- Conceder licencias a los magistrados, para separarse de sus cargos cuando aquéllas pasen de cinco días, pero no de veinte.
+VII. Conceder licencias a los magistrados, para separarse de sus cargos cuando aquellas fueren por más de cinco días, pero no más de veinte.
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+VIII.- (DEROGADA, P.O. 18 DE OCTUBRE DE 2014)
 
-VIII.- Conceder licencias por más de diez días y hasta por seis meses a funcionarios y empleados del Poder Judicial.
-
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
-
-IX.- Suspender hasta por tres meses, por causa grave y justificada que no sea motivo de proceso, a los funcionarios y empleados del Poder Judicial.
-
-Podrá suspenderlos también, durante todo el tiempo que fuere necesario para realizar las investigaciones conducentes, con objeto de determinar su responsabilidad.
+IX.- (DEROGADA, P.O. 18 DE OCTUBRE DE 2014)
 
 > <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
 
 X.- Aprobar sus reglamentos interiores.
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+XI.- (DEROGADA, P.O. 18 DE OCTUBRE DE 2014)
 
-XI.- Formular y aplicar los exámenes de oposición para la designación de los Jueces de Primera Instancia.
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
-
-XII.- Formular el Proyecto de Presupuesto de Egresos del Poder Judicial, así como administrar y ejercer el que le sea aprobado por el Congreso del Estado.
+XII. Aprobar el Proyecto de Presupuesto de Egresos del Poder Judicial.
 
 > <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
 
@@ -1991,27 +1979,25 @@ XV.- Resolver los conflictos que se susciten entre dos o más municipios de la e
 
 > <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-XVI. Resolver las cuestiones de límites entre los municipios del Estado, en los términos de la Ley.
+XVI.- Resolver las cuestiones de límites entre los municipios del Estado, en los términos de la Ley.
 
 > <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-XVII. Proponer al Congreso del Estado, la creación de organismos descentralizados del Poder Judicial.
+XVII.- Proponer al Congreso del Estado, la creación de organismos descentralizados del Poder Judicial.
 
 > <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-XVIII. Conocer sobre las violaciones a los derechos de los gobernados en los términos del artículo 200 de esta Constitución.
+XVIII.- Conocer sobre las violaciones a los derechos de los gobernados en los términos del artículo 200 de esta Constitución.
 
 > <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-XIX. Ejercer las demás atribuciones que le señalan las leyes.
+XIX.- Ejercer las demás atribuciones que le señalan las leyes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA DENOMINACIÓN DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE OCTUBRE DE 2014)</small>
 
 ###### Art. 110.
 
-Los Jueces del Estado serán nombrados por el Pleno del Supremo Tribunal de Justicia. Los de Primera Instancia lo serán mediante concurso de oposición.
+Los jueces del Estado serán nombrados en términos de Ley. Los de Primera Instancia lo serán mediante concurso de oposición.
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 1988)</small>
 
@@ -2025,19 +2011,19 @@ II.- Poseer el día de la elección, con antigüedad mínima de un año, título
 
 III.- Cumplir además con lo preceptuado en las fracciones I, IV, V, VI y VII del artículo 108 de esta Constitución.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2014)</small>
 
 ###### Art. 112.
 
-Para ser nombrado juez menor o de paz, se requiere ser ciudadano mexicano, chihuahuense, en pleno ejercicio de sus derechos, mayor de veinticinco años y de probidad notoria e intachable.
+Para ser nombrado juez menor se requiere ser ciudadano mexicano, chihuahuense, en pleno ejercicio de sus derechos, mayor de veinticinco años y de probidad notoria e intachable.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2014)</small>
 
 ###### Art. 113.
 
-Los Jueces de Primera Instancia otorgarán la protesta de Ley, ante el Presidente del Supremo Tribunal de Justicia; los Jueces Menores lo harán ante el Juez de Primera Instancia del Distrito que corresponda y los de Paz, ante el Juez Menor de su Municipio.
+Los jueces de primera instancia otorgarán la protesta de ley, ante el Presidente del Supremo Tribunal de Justicia; los jueces menores lo harán ante el juez de primera instancia del Distrito que corresponda.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2014)</small>
 
 ### CAPITULO I.
 
@@ -2047,13 +2033,13 @@ DE LA EDUCACION PUBLICA.
 
 ###### Art. 114.
 
-Los jueces menores y de paz estarán sujetos, en el desempeño de sus cargos, a la vigilancia de los jueces de primera instancia. Estos deberán desahogar las consultas que aquéllos les soliciten, pedirles informes, amonestarlos y, en su caso, dar cuenta al presidente del Supremo Tribunal de Justicia de las conductas por las que deba fincarse responsabilidad.
+Los jueces menores estarán sujetos, en el desempeño de sus cargos, a la vigilancia de los jueces de primera instancia. Estos deberán desahogar las consultas que aquellos les soliciten, pedirles informes, amonestarlos y, en su caso, dar cuenta al órgano competente de las conductas por las que deba fincarse responsabilidad.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2014)</small>
 
 ###### Art. 115.
 
-Los Jueces de Primer Instancia, Menores y de Paz, nombrarán y removerán con aprobación del Pleno del Supremo Tribunal de Justicia, a sus Secretarios y demás funcionarios y empleados, cuya designación y remoción no esté determinada de otro modo en las leyes y podrán concederles licencia hasta por diez días con o sin goce de sueldo, dando aviso al Presidente del Tribunal.
+Los jueces de primera instancia y menores, nombrarán y removerán, con la aprobación del órgano competente, a los empleados cuya designación y remoción no esté determinada de otro modo en las leyes, y podrán concederles licencia hasta por diez días sin goce de sueldo, dando el aviso correspondiente.
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 1988)</small>
 
@@ -4098,3 +4084,13 @@ P.O. 21 DE JUNIO DE 2014.
 PRIMERO.- Remítase copia de la Iniciativa, del Dictamen y de los Debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución Política del Estado; lo anterior, en cumplimiento a lo establecido por el Artículo 202 de la Constitución Política local. Realizado que sea, publíquese en el Periódico Oficial del Estado.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE OCTUBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La reforma constitucional contenida en el presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
