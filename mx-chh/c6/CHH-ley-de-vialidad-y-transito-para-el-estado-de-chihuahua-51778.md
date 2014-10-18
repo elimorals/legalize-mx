@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-vialidad-y-transito-para-el-estado-de-chihuahua-51778"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-20"
-last_updated: "2014-06-07"
+last_updated: "2014-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2014.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 20 de septiembre de 2006.
 
@@ -80,6 +80,10 @@ IV. La Fiscalía: La Fiscalía General del Estado.
 V. La Dirección: La Dirección de Vialidad.
 
 VI. El Municipio: Cualquiera de los sesenta y siete municipios del Estado de Chihuahua que presten el servicio público de Tránsito.
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2014)</small>
+
+VII. Foto-Infracción: Documento emitido por equipos o sistemas electrónicos certificados que genera la evidencia, mediante imágenes, de los vehículos que sean detectados cometiendo una infracción a la Ley de Vialidad y Tránsito para el Estado de Chihuahua o sus Reglamentos.
 
 ###### Artículo 3.
 
@@ -209,7 +213,7 @@ VIII. Coadyuvar por conducto de la Dirección de Vialidad en la elaboración de 
 
 IX. Resolver las controversias administrativas que se susciten sobre la interpretación o cumplimiento de esta Ley;
 
-X. Expedir a los particulares la licencia que los autorice para conducir vehículos por las vías públicas; y (sic)
+X. Expedir a los particulares la licencia que los autorice para conducir vehículos por las vías públicas; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1297,7 +1301,7 @@ En el supuesto que establece el artículo 83 de esta Ley, si los automovilistas 
 
 ###### Artículo 98.
 
-Se podrá arrestar hasta por treinta y seis horas cuando no pague su multa correspondiente aquel que conduzca, guíe o maniobre un vehículo en estado de intoxicación por alcohol, drogas u otras sustancias igualmente tóxicas que alteren la capacidad para conducir, guiar o maniobrar vehículos. También se podrá arrestar los (sic) conductores que se den a la fuga.
+Se podrá arrestar hasta por treinta y seis horas cuando no pague su multa correspondiente aquel que conduzca, guíe o maniobre un vehículo en estado de intoxicación por alcohol, drogas u otras sustancias igualmente tóxicas que alteren la capacidad para conducir, guiar o maniobrar vehículos. También se podrá arrestar (sic) los conductores que se den a la fuga.
 
 ###### Artículo 99.
 
@@ -1314,6 +1318,22 @@ III. Día, hora y lugar en que se cometió la infracción;
 IV. Nombre y número de identificación del oficial de tránsito que la elaboró; y
 
 V. La información de si se retuvo algún documento, y en su caso indicar cuál.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 99 Bis.
+
+Las infracciones a la Ley o sus Reglamentos, que sean detectadas a través de equipos o sistemas tecnológicos, se harán constar en una boleta de notificación de infracción y para que sean válidas, además de lo previsto en el artículo anterior, se requiere que se cumpla con los siguientes requisitos:
+
+I. Ser emitidas por el Director y/o Delegado de la División de Vialidad y Tránsito, o por el servidor público en el que se delegue esta atribución.
+
+II. Precisar el tipo de equipo o sistema tecnológico que se utilizó para determinar la infracción a la Ley o Reglamento e identificar la clave electrónica del equipo correspondiente.
+
+III. Adjuntar la imagen, evidencia o constancia generada por el equipo o sistema tecnológico.
+
+IV. La firma del servidor público facultado para emitirla.
+
+En el caso de las autoridades municipales, estas podrán generar la foto-infracción, así como calificar e imponer las sanciones correspondientes al ámbito de su competencia, para lo cual deberán sujetarse a lo establecido en la presente Ley, al Reglamento de esta y a los reglamentos municipales correspondientes.
 
 ###### Artículo 100.
 
@@ -1722,3 +1742,17 @@ P.O. 7 DE JUNIO DE 2014
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE OCTUBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las demás disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Túrnese copia del presente Decreto, a la Secretaría de Servicios Parlamentarios y Vinculación Ciudadana del H. Congreso del Estado, a efecto de que lleve a cabo una campaña de socialización respecto del contenido y alcance del mismo.
