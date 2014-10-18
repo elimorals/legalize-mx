@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-igualdad-entre-mujeres-y-hombres-para-el-estado-de-81205
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-23"
-last_updated: "2011-04-23"
+last_updated: "2014-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81205&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2014.
 
 Ley publicada en la Sección Tercera al Periódico Oficial del Estado de Nayarit, el sábado 23 de abril de 2011.
 
@@ -45,9 +45,11 @@ LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE NAYARIT
 
 ### CAPÍTULO ÚNICO. GENERALIDADES
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público y de observancia general en el Estado de Nayarit; tiene por objeto regular y garantizar la igualdad sustantiva entre mujeres y hombres en los ámbitos público y privado, mediante la implementación de los mecanismos institucionales, políticas públicas, programas y acciones correspondientes.
+La presente Ley es de orden público y de observancia general en el Estado de Nayarit; tiene por objeto regular y garantizar la igualdad sustantiva de oportunidades y trato entre mujeres y hombres en los ámbitos público y privado, promoviendo el empoderamiento de las mujeres y la lucha contra toda discriminación basada en el sexo, mediante la implementación de los mecanismos institucionales, políticas públicas, programas y acciones correspondientes.
 
 ###### Artículo 2.
 
@@ -57,7 +59,9 @@ La aplicación y debida observancia de la presente Ley corresponde a la Administ
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Acciones afirmativas.- Es el conjunto de acciones de carácter temporal encaminadas a acelerar la igualdad sustantiva entre mujeres y hombres;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2014)</small>
+
+I. Acciones afirmativas.- Es el conjunto de actividades de carácter temporal, correctivo, compensatorio y/o de promoción, encaminadas a acelerar la igualdad sustantiva entre mujeres y hombres;
 
 II. Administración pública.- Las diversas dependencias y entidades que conforman la administración Pública Estatal y Municipal;
 
@@ -65,17 +69,41 @@ III. Comisión.- La Comisión de Defensa de los Derechos Humanos para el Estado 
 
 IV. Consejo.- Consejo de Igualdad entre Mujeres y Hombres del Estado de Nayarit;
 
-V. Empoderamiento.- Es el proceso por medio del cual una persona logra conducirse con autonomía e independencia, ejerciendo plenamente y en libertad derechos y toma de decisiones, sin coacciones ni imposiciones de ningún tipo;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2014)</small>
 
-VI. Instituto.- El Instituto para la Mujer Nayarita;
+V. Discriminación.- Toda distinción, exclusión o restricción que, basada en el origen étnico o nacional, sexo, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, estado civil o cualquier otra, tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas;
 
-VII. Perspectiva de género.- Es la categoría científica, analítica y política que contribuye a desarticular las prácticas sociales, culturales y políticas que refuerzan la opresión de género. La perspectiva de género revisa críticamente la asimetría de poder entre mujeres y hombres en todos los ámbitos de la vida social, a fin de eliminar la desigualdad y discriminación en función del sexo;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2014)</small>
 
-VIII. Política de igualdad.- Es el conjunto de acciones implementadas por el Estado para mejorar la situación de las mujeres y los hombres de cualquier edad, condición o clase, cuyo objetivo es la construcción fáctica de la igualdad;
+VI. Empoderamiento.- Es el proceso por medio del cual una persona logra conducirse con autonomía e independencia, ejerciendo plenamente y en libertad derechos y toma de decisiones, sin coacciones ni imposiciones de ningún tipo;
 
-IX. Programa para la igualdad.- El Programa Estatal para garantizar la igualdad sustantiva entre mujeres y hombres, y
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2014)</small>
 
-X. Transversalidad.- Es el proceso que permite garantizar la incorporación de la perspectiva de género en la legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas, con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe.
+VII. Igualdad de género.- Acceso igualitario de las mujeres y hombres al uso, control y beneficio de bienes, servicios y recursos de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar;
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2014)</small>
+
+VIII. Igualdad sustantiva.- Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2014)</small>
+
+IX. Instituto.- El Instituto para la Mujer Nayarita;
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2014)</small>
+
+X. Perspectiva de género.- Concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, la desigualdad y la exclusión, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de género;
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2014)</small>
+
+XI. Política de igualdad.- Es el conjunto de acciones implementadas por el Estado para mejorar la situación de las mujeres y los hombres de cualquier edad, condición o clase, cuyo objetivo es la construcción fáctica de la igualdad;
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2014)</small>
+
+XII. Programa para la igualdad.- El Programa Estatal para garantizar la igualdad sustantiva entre mujeres y hombres, y
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2014)</small>
+
+XIII. Transversalidad.- Es el proceso que permite garantizar la incorporación de la perspectiva de género en la legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas, con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe.
 
 ###### Artículo 4.
 
@@ -209,9 +237,41 @@ IV. Establecer la certificación de buenas prácticas de igualdad entre mujeres 
 
 V. Contar con registros estadísticos desagregados por sexo;
 
-VI. Contar con la interlocución de representantes en el sector social y privado, y
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2014)</small>
 
-VII. Establecer mecanismos para su seguimiento y evaluación.
+VI. Contar con la interlocución de representantes en el sector social y privado;
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2014)</small>
+
+VII. Impulsar entre mujeres y hombres, a través de acciones institucionales de concientización, su igualdad en la vida civil;
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2014)</small>
+
+VIII. Eliminar las conductas discriminatorias y estereotipos basados en el género;
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2014)</small>
+
+IX. Adoptar las medidas y procedimientos necesarios para erradicar la violencia contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2014)</small>
+
+X. Establecer medidas que aseguren la corresponsabilidad en el trabajo, la vida personal y familiar de las mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2014)</small>
+
+XI. Utilizar un lenguaje con perspectiva de género y no sexista, en el ámbito administrativo y fomentarlo en la totalidad de las relaciones sociales;
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2014)</small>
+
+XII. Incluir entre los fines del sistema educativo, la formación en el respeto de los derechos, libertades y la igualdad entre géneros, así como en el ejercicio de la tolerancia y de la libertad dentro de los principios democráticos de convivencia, eliminando los obstáculos que dificulten la igualdad efectiva entre hombres y mujeres;
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2014)</small>
+
+XIII. Incluir los mecanismos para dar atención a las necesidades de mujeres y hombres en materia de salud, y
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2014)</small>
+
+XIV. Establecer mecanismos para su seguimiento y evaluación.
 
 ###### Artículo 12.
 
@@ -271,9 +331,15 @@ IV. Establecer la conformación de estructuras paralegales para la asesoría de 
 
 Serán objetivos de la Política de Igualdad entre Mujeres y Hombres en materia económica, los siguientes:
 
-I. Promover y vigilar el otorgamiento de salarios iguales a mujeres y a hombres por trabajos iguales, desempeñados en puestos, jornadas y condiciones de eficiencia idénticas;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2014)</small>
 
-II. Implementar el acceso igualitario de mujeres y hombres a procesos productivos;
+I. Impulsar el acceso de las mujeres al empleo y la aplicación efectiva del principio de igualdad de trato y no discriminación en las condiciones de trabajo entre mujeres y hombres.
+
+Para tal efecto se habrá de promover y vigilar el otorgamiento de salarios iguales a mujeres y a hombres por trabajos iguales, desempeñados en puestos, jornadas y condiciones de eficiencia idénticas;
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2014)</small>
+
+II. Fomentar la integración de políticas públicas con perspectiva de género en materia económica, impulsar el liderazgo equitativo de ambos géneros, además de promover el acceso de mujeres y hombres a procesos productivos, en igualdad de condiciones;
 
 III. Promover campañas de igualdad y respeto entre mujeres y hombres en el trabajo;
 
@@ -291,7 +357,9 @@ VIII. Impulsar la eliminación de la segmentación -horizontal y vertical- labor
 
 Para los efectos de lo previsto en el artículo anterior, la Administración Pública desarrollará las siguientes acciones:
 
-I. Diseñar y aplicar lineamientos que aseguren la igualdad en la contratación del personal y en las condiciones generales de trabajo;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2014)</small>
+
+I. Diseñar y aplicar políticas y programas de desarrollo y reducción de la pobreza con perspectiva de género, además de asegurar la igualdad en la contratación del personal y en las condiciones generales de trabajo;
 
 II. Establecer acciones de capacitación, educación y formación de las personas que en razón de su sexo estén relegadas;
 
@@ -301,7 +369,9 @@ IV. Propiciar estímulos fiscales y certificados de igualdad que se concederán 
 
 V. Apoyar el perfeccionamiento y la coordinación de los sistemas estadísticos estatales, para un mejor conocimiento de las cuestiones relativas a la igualdad entre mujeres y hombres en la estrategia estatal laboral, y
 
-VI. Implementar, en coordinación con las autoridades competentes, medidas destinadas a erradicar cualquier tipo de discriminación, violencia o acoso en el ámbito laboral que sean originadas por razones de género.
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2014)</small>
+
+VI. Implementar, en coordinación con las autoridades competentes, la elaboración y difusión de códigos de buenas prácticas, campañas informativas, acciones de formación, entre otras medidas destinadas a prevenir y erradicar cualquier tipo de discriminación, violencia o acoso en el ámbito laboral que sean originadas por razones de género.
 
 #### SECCIÓN CUARTA. IGUALDAD POLÍTICA ENTRE MUJERES Y HOMBRES
 
@@ -327,13 +397,23 @@ II. Implementar acciones afirmativas a fin de impulsar la paridad entre mujeres 
 
 Serán objetivos de la política de igualdad en materia de derechos sociales y culturales:
 
-I. Eliminar los estereotipos y roles de género en la sociedad;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2014)</small>
+
+I. Modificar los patrones socioculturales de conducta de hombres y mujeres con miras a alcanzar la eliminación de estereotipos, roles de género y las prácticas basadas en la idea de la inferioridad o superioridad de cualquiera de los sexos;
 
 II. Impulsar acciones que aseguren la igualdad de acceso de mujeres y hombres a la alimentación, la educación, la cultura y la salud;
 
-III. Evaluar periódicamente las acciones que el Estado Implementa para la erradicación de la violencia de género, y
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2014)</small>
 
-IV. Promover en los medios de comunicación electrónicos, digitales e impresos y en la propaganda gubernamental e institucional la presencia y representación equilibrada de mujeres y hombres, el tratamiento de la información libre de estereotipos de género, así como la eliminación de la publicidad sexista y los contenidos de mensajes androcéntricos.
+III. Evaluar periódicamente las acciones de prevención, atención, sanción y erradicación de la violencia de género que el Estado implemente;
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2014)</small>
+
+IV. Promover en los medios de comunicación electrónicos, digitales e impresos y en la propaganda gubernamental e institucional la presencia y representación equilibrada de mujeres y hombres, el tratamiento de la información libre de estereotipos de género, así como la eliminación de la publicidad sexista y los contenidos de mensajes androcéntricos, y
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2014)</small>
+
+V. Supervisar la integración de la perspectiva de género al constituir, aplicar y evaluar las políticas y actividades públicas, privadas y sociales que impactan en la vida cotidiana.
 
 ###### Artículo 20.
 
@@ -373,9 +453,21 @@ II. Promover las actividades de participación ciudadana respecto a la legislaci
 
 III. Establecer los mecanismos para la atención de las víctimas en todos los tipos de violencia de género;
 
-IV. Efectuar campañas encaminadas a promover las relaciones de respeto y no violencia que deben existir entre mujeres y hombres, en la comunidad y en las familias, y
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2014)</small>
 
-V. Promover campañas e información sobre paternidad responsable e igualdad en el trabajo doméstico.
+IV. Fomentar las investigaciones en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2014)</small>
+
+V. Participar en la distribución equilibrada de las responsabilidades familiares, reconociendo a los padres el derecho a un permiso y a una prestación por paternidad;
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2014)</small>
+
+VI. Efectuar campañas encaminadas a promover las relaciones de respeto y no violencia entre mujeres y hombres, en la comunidad y en las familias, y
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2014)</small>
+
+VII. Promover campañas e información sobre paternidad responsable e igualdad en las labores domésticas.
 
 ## TÍTULO CUARTO. DISTRIBUCIÓN DE COMPETENCIAS
 
@@ -554,3 +646,9 @@ D A D O en la Sala de Sesiones "Lic. Benito Juárez García" recinto oficial del
 Dip. Roberto Lomelí Madrigal, Presidente.- Rúbrica.- Dip. Juan José Castellanos Franco, Secretario.- Rúbrica.- Dip. Roberto Contreras Cantabrana, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en (sic) Fracción II del Artículo 69 de (sic) Constitución Política del Estado para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los veintitrés días del mes de abril del año dos mil once.- Lic. Ney González Sánchez.- Rubrica.- La Secretaria General de Gobierno.- Lic. Angélica Patricia Sánchez Medina.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE OCTUBRE DE 2014.
+
+Único.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
