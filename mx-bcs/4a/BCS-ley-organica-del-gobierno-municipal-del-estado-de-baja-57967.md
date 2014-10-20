@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-gobierno-municipal-del-estado-de-baja-57967"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-10-10"
-last_updated: "2014-06-30"
+last_updated: "2014-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE OCTUBRE DE 2014.
 
 Ley publicada en el Extraordinario Número 45-Bis al Boletín Oficial del Estado de Baja California Sur, el miércoles 10 de octubre de 2007.
 
@@ -281,7 +281,9 @@ I.- Los libros de actas de las reuniones del Ayuntamiento saliente y la informac
 
 II.- La documentación relativa a la situación financiera y estados contables, que deberán contener los libros de contabilidad y registros auxiliares, correspondientes al Ayuntamiento saliente;
 
-III.- La documentación relativa al estado que guarda la cuenta pública del Municipio; la que incluirá las observaciones pendientes de atender, requerimientos e informes que se hayan generado con motivo del ejercicio de las facultades de fiscalización a cargo de la Contaduría Mayor de Hacienda del Honorable Congreso del Estado;
+> <small>(REFORMADA, B.O. 20 DE OCTUBRE DE 2014)</small>
+
+III.- La documentación relativa al estado que guarda la cuenta pública del Municipio; la que incluirá las observaciones pendientes de atender, requerimientos e informes que se hayan generado con motivo del ejercicio de las facultades de fiscalización a cargo del Órgano de Fiscalización Superior del Honorable Congreso del Estado;
 
 IV.- La situación de la deuda pública municipal, la documentación relativa a la misma y su registro, así como la relación y registro de los pasivos a cargo del Municipio, que no constituyan deuda pública;
 
@@ -317,7 +319,9 @@ El informe deberá referirse a todos y cada uno de los puntos contenidos en el e
 
 Sometido a su consideración el dictamen, el Ayuntamiento emitirá el acuerdo correspondiente, mismo que no exime de responsabilidad a los integrantes y servidores públicos del Ayuntamiento saliente.
 
-El Ayuntamiento, dentro de los quince días hábiles siguientes, remitirá copia del expediente de entrega-recepción a la Contaduría Mayor de Hacienda el (sic) Honorable Congreso del Estado, para efecto de que en la revisión de las cuentas públicas municipales, sea tomado en cuenta.
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2014)</small>
+
+El Ayuntamiento, dentro de los quince días hábiles siguientes, remitirá copia del expediente de entrega-recepción al Órgano de Fiscalización Superior del Honorable Congreso del Estado, para efecto de que en la revisión de las cuentas públicas municipales, sea tomado en cuenta.
 
 ### CAPITULO QUINTO. De la Ética de los Integrantes del Ayuntamiento
 
@@ -709,7 +713,9 @@ XI.- Inscribir los bienes inmuebles municipales en el Registro Público de la Pr
 
 XII.- Revisar y firmar los Cortes de Caja de la Tesorería Municipal y cuidar que la aplicación de los gastos se haga llenando todos los requisitos legales y conforme al Presupuesto respectivo.
 
-XIII.- Asistir a las visitas de inspección que se hagan a la Tesorería Municipal, y hacer que oportunamente se rinda a la Contaduría Mayor de Hacienda del Honorable Congreso del Estado la Cuenta del Gasto Público del año anterior.
+> <small>(REFORMADA, B.O. 20 DE OCTUBRE DE 2014)</small>
+
+XIII.- Asistir a las visitas de inspección que se hagan a la Tesorería Municipal, y hacer que oportunamente se rinda al Órgano de Fiscalización Superior del Honorable Congreso del Estado la Cuenta del Gasto Público del año anterior.
 
 XIV.- Las demás que le señalen esta Ley y otras disposiciones legales aplicables.
 
@@ -1397,9 +1403,11 @@ XV.- Actuar de manera coordinada en la Tesorería a fin de vigilar que la recaud
 
 XVI.- Las demás que le confiera ésta u otras leyes, reglamentos, bandos municipales y acuerdos de Ayuntamiento.
 
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 129.
 
-Es obligación de los titulares de las dependencias y entidades de la Administración Pública Municipal, participar con el Tesorero y el Presidente Municipal en la solventación de las observaciones que formule la Contaduría Mayor de Hacienda.
+Es obligación de los titulares de las dependencias y entidades de la Administración Pública Municipal, participar con el Tesorero y el Presidente Municipal en la solventación de las observaciones que formule el Órgano de Fiscalización Superior.
 
 ### CAPITULO PRIMERO. De los Servicios Públicos Municipales
 
@@ -1965,14 +1973,6 @@ El presupuesto deberá ser aprobado por mayoría calificada del Ayuntamiento. En
 
 Para cualquier modificación al presupuesto, se deberá seguir el mismo procedimiento que para su aprobación y ser sancionado por mayoría calificada del Ayuntamiento.
 
-###### Artículo 107.
-
-Integrarán la administración pública descentralizada los organismos descentralizados, empresas de participación municipal, fideicomisos públicos municipales, comisiones, institutos, patronatos y comités.
-
-> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2008)</small>
-
-Los fideicomisos municipales, emisores de valores a que se refiere el Capítulo Quinto de la Ley de Deuda Pública para el Estado, así como los fideicomisos que se constituyan como mecanismos de pago y/o garantía, o ambos de obligaciones contraídas por los Municipios o Entidades Públicas municipales, no serán considerados fideicomisos públicos, ni formarán parte de la administración pública descentralizada, por lo que no les es aplicable lo previsto por la presente Ley.
-
 ###### Artículo 186.
 
 Ningún gasto podrá efectuarse sin que exista partida expresa del presupuesto que lo autorice y que tenga saldo disponible para cubrirlo, a excepción de las resoluciones de naturaleza jurisdiccional que determinen obligaciones a cargo del Municipio.
@@ -2400,3 +2400,7 @@ B.O. 30 DE JUNIO DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE OCTUBRE DE 2014.
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
