@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2014-06-28"
+last_updated: "2014-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE OCTUBRE DE 2014.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -519,7 +519,7 @@ XIX.- Proveer a través de la Oficialía Mayor, lo necesario para el trabajo de 
 
 XX.- Proponer programas de capacitación para los trabajadores del Congreso del Estado y cuidar que los trabajos del Congreso se realicen con oportunidad y eficiencia;
 
-XXI.- Llevar el Control y Vigilancia de los Servidores Público del Poder Legislativo, así como la aplicación de sanciones a que se hagan acreedores en el desempeño de sus labores, en los términos de la Legislación aplicable.
+XXI.- Llevar el Control y Vigilancia de los Servidores Públicos del Poder Legislativo, así como la aplicación de sanciones a que se hagan acreedores en el desempeño de sus labores, en los términos de la Legislación aplicable.
 
 XXII.- Las demás que se deriven de esta Ley o sus Reglamentos y de las disposiciones o acuerdos que emita el Congreso.
 
@@ -565,7 +565,7 @@ III.- DE DERECHOS HUMANOS Y DE ASUNTOS INDIGENAS.
 
 > <small>(REFORMADA, B.O. 7 DE AGOSTO DE 2008)</small>
 
-IV.- DE ASUNTOS AGROPECUARIOS, FORESTALES Y MINEROS: (SIC)
+IV.- DE ASUNTOS AGROPECUARIOS, FORESTALES Y MINEROS:
 
 V.- DE ASUNTOS COMERCIALES Y TURISTICOS.
 
@@ -963,7 +963,7 @@ a).- Los convenios de coordinación que celebre el Gobierno del Estado con la Fe
 
 b).- Los asuntos legislativos relacionados con la organización y coordinación de la política criminológica-penitenciaria en el Estado;
 
-c).- Los asuntos legislativos relacionados con el mantenimiento del orden, la tranquilidad pública y la protección jurídica de las personas, de sus propiedades y derechos, en el ámbito estatal; y (sic)
+c).- Los asuntos legislativos relacionados con el mantenimiento del orden, la tranquilidad pública y la protección jurídica de las personas, de sus propiedades y derechos, en el ámbito estatal; y
 
 d).- En coordinación con la Comisión de Puntos Constitucionales y de Justicia, dictaminar sobre las leyes que establezcan y regulen los sistemas integrales de tratamiento penal, así como el funcionamiento de los cuerpos de seguridad pública existentes, y de los que en el futuro sean creados;
 
@@ -981,7 +981,7 @@ g).- Las demás que establezcan la Mesa Directiva del Congreso y la Junta de Gob
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 31 DE JULIO DE 2009)</small>
 
-XXI.- DE LA COMISIÓN DE CIENCIA Y TECNOLOGÍA:
+XXI.- DE LA COMISION DE CIENCIA Y TECNOLOGÍA:
 
 a).- Las normas relativas a las materias de ciencia y tecnología, su fomento y desarrollo, en el Estado y los Municipios;
 
@@ -989,7 +989,7 @@ b).- Las leyes relacionadas con la ciencia y la tecnología;
 
 c).- La regulación de las acciones que realicen el Estado y los Municipios relacionadas con la ciencia y la tecnología;
 
-d).- Las normas que tengan por objeto impulsar el desarrollo científico y tecnológico, así como la vinculación de (sic) Estado y Municipios con los sectores productivo y social en materia de ciencia y tecnología; y (sic)
+d).- Las normas que tengan por objeto impulsar el desarrollo científico y tecnológico, así como la vinculación de (sic) Estado y Municipios con los sectores productivo y social en materia de ciencia y tecnología; y
 
 e).- Las relacionadas con instituciones y centros de educación superior e investigación científica.
 
@@ -1039,7 +1039,7 @@ a).- El conocimiento de los asuntos relacionados con la falta de transparencia d
 
 b).- Lo relacionado con la difusión de las iniciativas, pronunciamientos, puntos de acuerdo y dictámenes sobre iniciativas que se presenten ante el pleno del Congreso del Estado, así como la información financiera y administrativa;
 
-c).- Las quejas de particulares que tengan que ver con la falta de transparencia; y (sic)
+c).- Las quejas de particulares que tengan que ver con la falta de transparencia; y
 
 > <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -1341,7 +1341,7 @@ a) Rendir los informes previos y justificados que soliciten las Autoridades Judi
 
 b) Representar legalmente al Congreso ante cualquier autoridad en materia de acciones de inconstitucionalidad y controversias constitucionales a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos.
 
-c) Representar legalmente al Congreso en todos los juicios o controversias de carácter administrativo, civil, electoral, laboral, penal y en todos aquellos en los que el Congreso del Estado intervenga, sea porte, tenga interés jurídico o se afecte su patrimonio.
+c) Representar legalmente al Congreso en todos los juicios o controversias de carácter administrativo, civil, electoral, laboral, penal y en todos aquellos en los que el Congreso del Estado intervenga, sea parte, tenga interés jurídico o se afecte su patrimonio.
 
 La facultad de representación señalada en la presente fracción las podrá delegar o trasmitir en favor de apoderados o de terceros, de conformidad con las formalidades aplicables al caso concreto. Dichos apoderados o terceros responderán solidariamente en caso de que por su negligencia o descuido en la atención de los asuntos que se les encomienden le resulte al Congreso del Estado de Baja California Sur, tener que cumplir con resoluciones de autoridades competentes que establezcan condenas en cantidades determinadas y liquidas.
 
@@ -1481,9 +1481,9 @@ I. Ser de nacionalidad Mexicana;
 
 II. Ser Ciudadano o ciudadana Sudcaliforniana;
 
-III. Contar con Título y Cédula Profesional, así como de preferencia con estudios concluidos en nivel de Maestría" (sic);
+III. Contar con Título y Cédula Profesional, así como de preferencia con estudios concluidos en nivel de Maestría";
 
-IV. Contar con experiencia de al menos cinco años en el desempeño profesional y en actividades de carácter legislativo y/o parlamentario; (sic)
+IV. Contar con experiencia de al menos cinco años en el desempeño profesional y en actividades de carácter legislativo y/o parlamentario;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2029,7 +2029,7 @@ II.- Cuando se infrinjan disposiciones de esta Ley; en cuyo caso, deberá citars
 
 III.- Cuando se viertan injurias o calumnias en contra de alguna autoridad, corporación y persona;
 
-IV.- Cuando el orador sea parte del asunto a discusión o rebase el tiempo reglamentario permitido. En los casos respectivos, la Presidencia llamará al orden al orador; y
+IV.- Cuando el orador se aparte del asunto a discusión o rebase el tiempo reglamentario permitido. En los casos respectivos, la Presidencia llamará al orden al orador; y
 
 V.- Para solicitar al orador su autorización para formular alguna interpelación sobre el asunto a discusión.
 
@@ -2125,9 +2125,9 @@ II.- A efecto de dar orden a las preguntas e intervenciones de quienes integran 
 
 III.- Seguidamente, el Secretario de la Mesa Directiva registrará las intervenciones de las diputadas y los diputados, sin que haya límite para el número de preguntas, las que invariablemente deberán estar relacionadas con el ámbito de competencia de las dependencias integrantes del gabinete en turno y con la glosa del informe de gobierno correspondiente al año de las comparecencias;
 
-IV.- Cuando algún cuestionamiento tenga estrecha relación con dos o más dependencias integrantes del gabinete compareciente, el Titular del Poder Ejecutivo del Estado como Coordinador de Gabinete General y en sus ausencias el Secretario General de Gobierno, solicitará al Presidente de lo Mesa Directiva hacer uso de la voz y cederla en su caso al o a los funcionarios que correspondan según la naturaleza del cuestionamiento formulado; y
+IV.- Cuando algún cuestionamiento tenga estrecha relación con dos o más dependencias integrantes del gabinete compareciente, el Titular del Poder Ejecutivo del Estado como Coordinador de Gabinete General y en sus ausencias el Secretario General de Gobierno, solicitará al Presidente de la Mesa Directiva hacer uso de la voz y cederla en su caso al o a los funcionarios que correspondan según la naturaleza del cuestionamiento formulado; y
 
-V.- En todo caso, el Titular del Poder Ejecutivo del Estado como Coordinador de Gabinete General y en sus ausencias el Secretario General de Gobierno, podrá solicitar al Presidente de la Mesa Directiva y este lo concederá, que le permita contestar la o las preguntas que considere pertinentes, pudiendo hacerlo para esos efectos o sólo paro ceder la palabra al o los funcionarios integrantes del gabinete que corresponda, según la naturaleza de los planteamientos que se formulen.
+V.- En todo caso, el Titular del Poder Ejecutivo del Estado como Coordinador de Gabinete General y en sus ausencias el Secretario General de Gobierno, podrá solicitar al Presidente de la Mesa Directiva y este lo concederá, que le permita contestar la o las preguntas que considere pertinentes, pudiendo hacerlo para esos efectos o sólo para ceder la palabra al o los funcionarios integrantes del gabinete que corresponda, según la naturaleza de los planteamientos que se formulen.
 
 ### CAPITULO VIII
 
@@ -2319,7 +2319,7 @@ La Sesión inaugural de cada Primer Período Ordinario, que deberá ser invariab
 
 I.- Nombramiento, por la Presidencia, de comisiones que introduzcan al Recinto del Congreso y de las que acompañen a su salida del mismo, al Ciudadano Gobernador del Estado, a los Representantes de los Poderes Federales y del Poder Judicial del Estado que deban asistir especialmente a ella.
 
-Al entrar al Salón de Sesiones del Congreso los funcionarios mencionados, los concurrentes deberán estar de pié, excepto el Presidente del Congreso que permanecerá en su asiento, salvo que se toque el Himno Nacional y se rindan Honores a la Bandera Nacional, pues en tal caso deberá ponerse de pié.
+Al entrar al Salón de Sesiones del Congreso los funcionarios mencionados, los concurrentes deberán estar de pié, excepto el Presidente del Congreso que permanecerá en su asiento, salvo que se toque el Himno Nacional y se rindan Honores a la Bandera Nacional, pués en tal caso deberá ponerse de pié.
 
 II.- Ya en el Salón de Sesiones el Ciudadano Gobernador del Estado, el Presidente le concederá la palabra para que rinda el Informe a que se refiere la Fracción XX del Artículo 79 de la Constitución Política del Estado.
 
@@ -2595,7 +2595,9 @@ II.- Expedir, en su caso, el Bando Solemne para dar a conocer en todo el Estado 
 
 III.- Instalar y presidir la Primera Junta Preparatoria del nuevo Congreso del Estado;
 
-IV.- Nombrar interinamente al personal de la Contaduría Mayor de Hacienda;
+> <small>(REFORMADA, B.O. 20 DE OCTUBRE DE 2014)</small>
+
+IV.- Nombrar interinamente al personal del Órgano de Fiscalización Superior;
 
 > <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -3214,3 +3216,7 @@ Primero.- Las presentes Reformas y Adición, entrarán en vigor el mismo día de
 Segundo.- Para efectos de la aplicación del artículo 13 de la presente reforma, la fecha para dar cumplimiento a dicha disposición respecto de la elección a celebrarse el primer domingo de julio del año 2018, será el último día del mes de agosto del año de la elección.
 
 Tercero.- Para efectos de la aplicación del artículo 14 de la presente reforma, la fecha para dar cumplimiento a dicha disposición respecto de la elección a celebrarse el primer domingo de julio del año 2018, será a más tardar en la segunda quincena del mes de agosto del año de la elección.
+
+B.O. 20 DE OCTUBRE DE 2014.
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
