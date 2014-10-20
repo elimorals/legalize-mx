@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-judicial-del-estado-de-baja-2994"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-04-20"
-last_updated: "2014-06-28"
+last_updated: "2014-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE OCTUBRE DE 2014.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 20 de abril de 1996.
 
@@ -69,7 +69,7 @@ V. Los Jueces de Paz;
 
 VI. Los Árbitros;
 
-VII. El Jurado Popular, y (sic)
+VII. El Jurado Popular, y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 5 DE OCTUBRE DE 2006)</small>
 
@@ -113,7 +113,7 @@ El Tribunal Superior de Justicia tendrá su residencia en la capital del Estado 
 
 > <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2010)</small>
 
-Los Magistrados que aspiren a ser reelectos deberán ser evaluados y deben conservar los requisitos cumplidos para su elección previstos en la Constitución Política del Estado de Baja California Sur, así como no encontrarse en ninguno de los supuestos previstos en su artículo 93. La evaluación del desempeño de los magistrados deberá sujetarse a criterios objetivos relativos a la excelencia y ética profesionales (sic), honestidad, eficiencia, diligencia y buena reputación.
+Los Magistrados que aspiren a ser reelectos deberán ser evaluados y deben conservar los requisitos cumplidos para su elección previstos en la Constitución Política del Estado de Baja California Sur, así como no encontrarse en ninguno de los supuestos previstos en su artículo 93. La evaluación del desempeño de los magistrados deberá sujetarse a criterios objetivos relativos a la excelencia y ética profesionales, honestidad, eficiencia, diligencia y buena reputación.
 
 > <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2010)</small>
 
@@ -177,11 +177,11 @@ VI. Elegir al Presidente del Tribunal Superior de Justicia de entre los Magistra
 
 > <small>(REFORMADA, B.O. 5 DE OCTUBRE DE 2006)</small>
 
-VII. Nombrar a los Jueces de Primera Instancia, Jueces Especializados en Justicia para adolescentes, Menores y de Paz, sin expresar en los nombramientos respectivos la Jurisdicción Territorial en que deban ejercer sus funciones, y recibirles la protesta de Ley;
+VII. Nombrar a los Jueces de Primera Instancia, Jueces Especializados en Justicia para Adolescentes, Menores y de Paz, sin expresar en los nombramientos respectivos la Jurisdicción Territorial en que deban ejercer sus funciones, y recibirles la protesta de Ley;
 
 > <small>(REFORMADA, B.O. 5 DE OCTUBRE DE 2006)</small>
 
-VIII. Asignar la adscripción en que deban ejercer sus funciones los Jueces de Primera Instancia, Jueces Especializados en Justicia para Adolescentes, Menores y de Paz, y tratándose de los primeros, en los lugares en que haya dos o más, el Juzgado en que deban presentar sus servicios;
+VIII. Asignar la adscripción en que deban ejercer sus funciones los Jueces de Primera Instancia, Jueces Especializados en Justicia para Adolescentes, Menores y de Paz, y tratándose de los primeros, en los lugares en que haya dos o más, el Juzgado en que deban prestar sus servicios;
 
 IX. Cambiar a los Jueces de una misma categoría, de un Partido Judicial a otro o de un Juzgado a otro dentro del mismo Partido Judicial, siempre que las necesidades del servicio así lo requieran o que haya causa fundada y suficiente para el cambio;
 
@@ -253,9 +253,7 @@ V. La información de los resultados que el Pleno haya recibido en materia de qu
 
 VI. Las comisiones realizadas en el desempeño de su encargo;
 
-VII. La documentación que acredite la impartición de cursos, conferencias, seminarios por parte del Magistrado dentro del Poder Judicial, tendientes a mejorar la impartición de justicia y los dirigidos hacia la sociedad, para promover la cultura jurídica; así como las constancias que demuestren la preparación y actualización de sus conocimientos durante el desempeño de su
-
-cargo; y
+VII. La documentación que acredite la impartición de cursos, conferencias, seminarios por parte del Magistrado dentro del Poder Judicial, tendientes a mejorar la impartición de justicia y los dirigidos hacia la sociedad, para promover la cultura jurídica; así como las constancias que demuestren la preparación y actualización de sus conocimientos durante el desempeño de su cargo; y
 
 VIII. El total de sesiones del Pleno del Tribunal celebradas, tanto ordinarias como extraordinarias, y el número total de estas a las que asistió la magistrada o el magistrado sujeto al procedimiento de reelección.
 
@@ -389,7 +387,7 @@ ARTICULO 21 A.- (DEROGADO, B.O. 24 DE DICIEMBRE DE 2008)
 
 ARTICULO 21 B.- (DEROGADO, B.O. 24 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 24 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 22.
 
@@ -421,7 +419,7 @@ VI. Vigilar que los Secretarios de Acuerdos y demás servidores públicos de la 
 
 > <small>(REFORMADA, B.O. 10 DE AGOSTO DE 2004)</small>
 
-VII. Conocer de las excitativas de justicia que se promuevan en contra de los jueces, en los asuntos del orden civil, familiar o mercantil y administrativa (sic);
+VII. Conocer de las excitativas de justicia que se promuevan en contra de los jueces, en los asuntos del orden civil, familiar o mercantil y administrativa;
 
 > <small>(REFORMADA, B.O. 10 DE AGOSTO DE 2004)</small>
 
@@ -437,7 +435,7 @@ X. (DEROGADA, B.O. 24 DE DICIEMBRE DE 2008)
 
 XI. Conocer de los demás asuntos que le encomienden las Leyes.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 24 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
 ARTICULO 22 A.- Corresponde a los Magistrados de las Salas Penales:
 
@@ -613,7 +611,7 @@ VI. Las consignadas en las Fracciones V, VI, VII, VIII, IX, X, XI, XII, XIV y XV
 
 Para ser Secretario de Estudios y Proyectos, se requieren los requisitos previstos por el artículo 42 de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE AGOSTO DE 2004)</small>
 
 ###### ARTICULO 28.
 
@@ -667,7 +665,7 @@ En cada Partido Judicial habrá el número necesario de Juzgados de Primera Inst
 
 Los Jueces de Primera Instancia y Especializados en Justicia para Adolescentes, deberán residir en las cabeceras de sus respectivos Partidos Judiciales o en el lugar en el que tenga su asiento el Juzgado del que sean titulares, y no podrán salir de su Jurisdicción o lugar de asiento, sin licencia previa del Presidente del Tribunal.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 5 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 5 DE OCTUBRE DE 2006)</small>
 
 ###### ARTICULO 35.
 
@@ -739,7 +737,7 @@ En Justicia para Adolescentes, los Jueces Especializados conocerán:
 
 I. De las causas instauradas en contra de las personas a quienes se impute la realización de un acto tipificado como delito en las leyes locales, cuando teniendo entre doce años cumplidos y dieciocho años no cumplidos;
 
-II. Promover la conciliación entre el adolescente y la víctima u ofendido como alternativa al juzgamiento, a fin de cumplir con los principales de mínima intervención y subsidiariedad y en su caso, decretar la suspensión del procedimiento por arreglo conciliatorio;
+II. Promover la conciliación entre el adolescente y la víctima u ofendido como alternativa al juzgamiento, a fin de cumplir con los principios de mínima intervención y subsidiariedad y en su caso, decretar la suspensión del procedimiento por arreglo conciliatorio;
 
 III. Resolver los asuntos sometidos a su conocimiento, conforme a los plazos y términos previstos en la Ley de Justicia para Adolescentes; y
 
@@ -889,7 +887,7 @@ XII. Tener a su cargo el archivo del Juzgado, cuidando que esté debidamente ord
 
 XIII. Las demás que las Leyes o las autoridades superiores ordenen.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 5 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 5 DE OCTUBRE DE 2006)</small>
 
 ###### ARTICULO 44.
 
@@ -899,7 +897,7 @@ I. Haber cursado cuando menos la instrucción media básica y tener los conocimi
 
 II. Haber cumplido 21 años de edad y reunir los requisitos que establecen las fracciones III, V, VI, VII y VIII del artículo 42 de la presente Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 5 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 5 DE OCTUBRE DE 2006)</small>
 
 ###### ARTICULO 45.
 
@@ -1497,7 +1495,7 @@ La Dirección del Fondo Auxiliar para la Administración de Justicia, tendrá la
 
 ###### ARTICULO 117.
 
-La Dirección de Administración de Política PresupuestaI y Servicios Personales estará integrado por:
+La Dirección de Administración de Política Presupuestal y Servicios Personales estará integrado por:
 
 I.- Un Director;
 
@@ -1563,9 +1561,11 @@ Corresponde a la Administración de Política Presupuestal y Servicios Personale
 
 13.- Las atribuciones que le son designadas por disposiciones legales y las que confiera el Presidente Magistrado.
 
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2014)</small>
+
 ###### ARTICULO 119.
 
-La administración y el destino del Fondo Auxiliar para la Administración de Justicia será revisado por la Contaduría Mayor del Honorable Congreso del Estado.
+La administración y el destino del Fondo Auxiliar para la Administración de Justicia será revisado por el Órgano de Fiscalización Superior del Honorable Congreso del Estado.
 
 ###### ARTICULO 120.
 
@@ -2115,7 +2115,7 @@ III. Después de dos amonestaciones, se impondrá sanción económica no menor a
 
 IV. La triple sanción por faltas leves o la comisión de una falta grave, motivará la suspensión del cargo, empleo o comisión;
 
-V. La destitución se aplicará como primera sanción en caso de faltas graves o cuando después de una sanción de suspensión, se cometiere una nueva falta que ajuicio del Pleno así lo amerite.
+V. La destitución se aplicará como primera sanción en caso de faltas graves o cuando después de una sanción de suspensión, se cometiere una nueva falta que a juicio del Pleno así lo amerite.
 
 Para los efectos de esta Ley, se consideran faltas graves las previstas en los artículos 156 fracciones VI y X; 156 E fracción IV y 157 fracciones V, IX, XI, XIII, XIV, XV y XVI. La mala conducta pública, prevista en el artículo 157 A.
 
@@ -2253,11 +2253,11 @@ La suspensión temporal no deberá exceder de tres meses, salvo que a juicio del
 
 ARTICULO 166 C.- Entre tanto se substancia el procedimiento disciplinario, y una vez suspendido temporalmente al presunto infractor, deberá proveerse a quien en forma interina deberá suplirlo, a menos que durante el tiempo en que se desahoga este procedimiento, hubiese expirado el período para el que fue nombrado el presunto infractor, caso en el que podrá hacerse nombramiento definitivo. Si se declarara improcedente o infundada la queja a la fecha en que ya se hubiese hecho una designación definitiva, se le cubrirán las percepciones que debió recibir durante la suspensión hasta la fecha en que concluya el período para el que hubiera sido nombrado.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, B.O. 10 DE AGOSTO DE 2004)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, B.O. 10 DE AGOSTO DE 2004)</small>
 
 ## TITULO DECIMO. DE LAS EXCITATIVAS DE JUSTICIA
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 10 DE AGOSTO DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 10 DE AGOSTO DE 2004)</small>
 
 ### CAPITULO UNICO
 
@@ -2311,7 +2311,7 @@ Asimismo, se remitirá copia certificada de la resolución correspondiente, a la
 
 ARTICULO 166 N.- Cuando el quejoso se desista de su promoción, se tendrá por no interpuesta; pero se procederá a lo que haya lugar, conforme a los datos que arroje el expediente.
 
-> <small>(REFORMADA SU NUMERACION, B.O. 10 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA SU NUMERACIÓN, B.O. 10 DE AGOSTO DE 2004)</small>
 
 ## TITULO DECIMO PRIMERO. DE LAS AUSENCIAS, VACACIONES Y LICENCIAS
 
@@ -2383,11 +2383,11 @@ En el Poder Judicial del Estado se gozará de los períodos de vacaciones que fi
 
 Los Magistrados podrán obtener licencias, con o sin goce de sueldo, hasta por tres meses, solicitándola por conducto del Gobernador al Congreso del Estado conforme a la fracción XXI, del artículo 64, de la Constitución Política del Estado.
 
-> <small>(REFORMADA SU NUMERACION, B.O. 10 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA SU NUMERACIÓN, B.O. 10 DE AGOSTO DE 2004)</small>
 
 ## TITULO DECIMO SEGUNDO. DEL TRIBUNAL ESTATAL ELECTORAL
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 19 DE JUNIO DE 1998)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 19 DE JUNIO DE 1998)</small>
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -2399,7 +2399,7 @@ Los Magistrados podrán obtener licencias, con o sin goce de sueldo, hasta por t
 
 (DEROGADO, B.O. 28 DE JUNIO DE 2014)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 19 DE JUNIO DE 1998)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 19 DE JUNIO DE 1998)</small>
 
 ### CAPITULO SEGUNDO. DE SU INTEGRACION
 
@@ -2439,7 +2439,7 @@ Los Magistrados podrán obtener licencias, con o sin goce de sueldo, hasta por t
 
 (DEROGADO, B.O. 28 DE JUNIO DE 2014)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 19 DE JUNIO DE 1998)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 19 DE JUNIO DE 1998)</small>
 
 ### CAPITULO TERCERO. DE SU FUNCIONAMIENTO
 
@@ -2475,11 +2475,11 @@ Los Magistrados podrán obtener licencias, con o sin goce de sueldo, hasta por t
 
 (DEROGADO, B.O. 28 DE JUNIO DE 2014)
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, B.O. 31 DE JULIO DE 2009)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE JULIO DE 2009)</small>
 
 ## TITULO DECIMO TERCERO. DE LA ENTREGA-RECEPCION
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 31 DE JULIO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE JULIO DE 2009)</small>
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -2774,3 +2774,7 @@ Segundo.- Una vez que entren en vigor las disposiciones de este Decreto, los rec
 Primero.- La presente Derogación entrará en vigor, el mismo día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 Segundo.- Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen, salvo que esta reforma resulte más benéfica. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+B.O. 20 DE OCTUBRE DE 2014.
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
