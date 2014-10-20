@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-deuda-publica-para-el-estado-de-baja-california-sur-5240
 country: "mx"
 rank: "ley"
 publication_date: "2006-11-25"
-last_updated: "2008-03-11"
+last_updated: "2014-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52407&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCS"
 ---
 # LEY DE DEUDA PUBLICA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-LEY DE DEUDA PUBLICA PARA EL ESTADO DE BAJA CALIFORNIA SUR
+LEY DE DEUDA PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE MARZO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE OCTUBRE DE 2014.
 
 Ley publicada en el Extraordinario al Boletín Oficial del Estado de Baja California Sur, el sábado 25 de noviembre de 2006.
 
@@ -265,9 +265,11 @@ XXI.- Asesorar a las Entidades Públicas señaladas en las fracciones II, III, I
 
 XXII.- Las demás que, en materia de deuda pública, le confieran la Constitución Política del Estado de Baja California Sur, esta Ley u otras disposiciones legales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 15.
 
-A Los Municipios les corresponde, por conducto de los Ayuntamientos:
+A los Municipios les corresponde, por conducto de los Ayuntamientos:
 
 I.- Celebrar empréstitos, en forma individual o conjunta con otros Municipios, previa autorización del Congreso del Estado;
 
@@ -309,7 +311,9 @@ XV.- Aprobar, previamente a su autorización por el Congreso, los montos y conce
 
 XVI.- Informar al Congreso del Estado, sobre el ejercicio de las partidas correspondientes a los montos y conceptos de endeudamiento autorizado y con relación a la situación de su deuda pública, al rendir la cuenta pública municipal;
 
-XVII.- Proporcionar al Congreso, por conducto de la Contaduría Mayor de Hacienda y al Poder Ejecutivo, por conducto de la Secretaría de Finanzas, cuando el Estado funja como garante, avalista, deudor solidario, subsidiario o sustituto, la información que éstos le requieran en relación con las operaciones de deuda pública que celebren;
+> <small>(REFORMADA, B.O. 20 DE OCTUBRE DE 2014)</small>
+
+XVII.- Proporcionar al Congreso, por conducto del Órgano de Fiscalización Superior y al Poder Ejecutivo, por conducto de la Secretaría de Finanzas, cuando el Estado funja como garante, avalista, deudor solidario, subsidiario o sustituto, la información que éstos le requieran en relación con las operaciones de deuda pública que celebren;
 
 XVIII.- Contratar a instituciones calificadoras de valores debidamente autorizadas en México, a efecto de que emitan su opinión respecto de la calidad crediticia del Municipio y las calificaciones sobre la estructura y mecanismo de pago de los financiamientos o emisiones de valores que, se proponga instrumentar el Municipio y sus entidades paramunicipales, y para que realicen la revisión periódica de las calificaciones respectivas;
 
@@ -349,7 +353,9 @@ XI.- Incluir, anualmente, dentro de los proyectos de presupuestos de egresos de 
 
 XII.- Realizar oportunamente los pagos del servicio de la deuda pública, a cargo de las entidades de la administración pública paraestatal y paramunicipal;
 
-XIII.- Proporcionar al Congreso del Estado, por conducto de la Contaduría Mayor de Hacienda, al Poder Ejecutivo, por conducto de la Secretaría de Finanzas y a los Ayuntamientos, según corresponda, la información que éstos les requieran en relación con las operaciones de deuda pública que celebren las entidades de la administración pública paraestatal y paramunicipal;
+> <small>(REFORMADA, B.O. 20 DE OCTUBRE DE 2014)</small>
+
+XIII.- Proporcionar al Congreso del Estado, por conducto del Órgano de Fiscalización Superior, al Poder Ejecutivo, por conducto de la Secretaría de Finanzas y a los Ayuntamientos, según corresponda, la información que éstos les requieran en relación con las operaciones de deuda pública que celebren las entidades de la administración pública paraestatal y paramunicipal;
 
 XIV.- Contratar, cuando lo estimen conveniente, a instituciones calificadoras de valores debidamente autorizadas en México, a efecto de que emitan su opinión respecto de la calidad crediticia de las entidades y la calificación sobre la estructura y mecanismo de pago de los financiamientos o emisión de valores que, se propongan instrumentar las entidades de la administración pública paraestatal y paramunicipal y para que realicen la revisión periódica de las calificaciones respectivas;
 
@@ -413,7 +419,7 @@ También podrá autorizarse a los Ayuntamientos, la contratación de financiamie
 
 Las Entidades Públicas que se propongan contraer deuda pública, deberán analizar las diferentes opciones de financiamiento disponibles en el mercado financiero, para los conceptos a que se destinarán los empréstitos o créditos y optar por la opción (sic) que ofrezca las condiciones jurídicas, de disponibilidad y financieras, más favorables al interés público.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 11 DE MARZO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 11 DE MARZO DE 2008)</small>
 
 ### CAPÍTULO QUINTO. DE LA EMISIÓN Y COLOCACIÓN DE VALORES Y DE LOS FIDEICOMISOS EMISORES DE VALORES Y DE CAPTACIÓN DE RECURSOS
 
@@ -529,7 +535,7 @@ La autorización que otorgue la Legislatura del Estado, para que las Entidades P
 
 ### CAPÍTULO SEXTO. DEL PAGO Y GARANTÍA DE LOS EMPRÉSTITOS Y DE LAS EMISIONES DE VALORES
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 11 DE MARZO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE MARZO DE 2008)</small>
 
 ###### Artículo 37.
 
@@ -549,7 +555,7 @@ Las Entidades Públicas, en la contratación de las obligaciones, empréstitos o
 
 . El Estado o los Municipios podrán utilizar individual o conjuntamente, como fuente de pago directa o alterna de sus obligaciones, así como su deuda pública los ingresos o derechos que reciban por concepto de Ramos, Programas, Ingresos o Aportaciones Federales, y que conforme a la legislación aplicable, estén destinados y se puedan utilizar para el pago de dichas obligaciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 11 DE MARZO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE MARZO DE 2008)</small>
 
 ###### Artículo 40.
 
@@ -557,7 +563,7 @@ El Estado, los Municipios y las Entidades de la Administración Pública Paraest
 
 Los ingresos propios, tales como contribuciones, impuestos, derechos, productos o aprovechamientos, o aquellos que por cualquier rubro perciban las entidades señaladas en el párrafo anterior, son inembargables.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 11 DE MARZO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE MARZO DE 2008)</small>
 
 ###### Artículo 41.
 
@@ -593,7 +599,7 @@ El pago de obligaciones, a través de mecanismos legales de garantía o pago, im
 
 (DEROGADO, B.O. 11 DE MARZO DE 2008)
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 11 DE MARZO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE MARZO DE 2008)</small>
 
 ###### Artículo 47.
 
@@ -661,7 +667,7 @@ Las obligaciones directas e indirectas o contingentes, derivadas de la contratac
 
 ###### Artículo 60.
 
-Para que proceda la inscripción de los financiamientos en el Registro de Obligaciones y Empréstitos del Estado deBaja (sic) California Sur, se deberá cumplir con los siguientes requisitos:
+Para que proceda la inscripción de los financiamientos en el Registro de Obligaciones y Empréstitos del Estado de Baja California Sur, se deberá cumplir con los siguientes requisitos:
 
 I. Que la entidad solicitante, bajo protesta de decir verdad, manifieste que se trata de obligaciones pagaderas en México y en moneda nacional, contraídas con la Federación, con instituciones de crédito que operen en territorio nacional o con personas físicas o morales de nacionalidad mexicana, conforme a las bases establecidas en esta Ley, por los conceptos y hasta por los montos autorizados conforme a la misma.
 
@@ -725,8 +731,12 @@ EL C. SECRETARIO GENERAL DE GOBIERNO
 
 VÍCTOR MANUEL GULUARTE CASTRO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 B.O. 11 DE MARZO DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE OCTUBRE DE 2014.
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
