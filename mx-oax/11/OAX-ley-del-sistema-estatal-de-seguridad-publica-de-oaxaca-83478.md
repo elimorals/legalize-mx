@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-sistema-estatal-de-seguridad-publica-de-oaxaca-83478"
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-20"
-last_updated: "2014-03-31"
+last_updated: "2014-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83478&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2014.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 20 de septiembre del 2011.
 
@@ -337,11 +337,11 @@ Sus integrantes podrán proponer políticas públicas, proyectos, planes, progra
 
 ### CAPÍTULO II. DEL SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 22.
 
-El Secretariado Ejecutivo es un Órgano Desconcentrado de la Secretaría General de Gobierno, y operativo del Sistema Estatal de Seguridad Pública, con autonomía de gestión y responsable del funcionamiento del mismo.
+El Secretariado Ejecutivo es un Órgano Administrativo Desconcentrado de la Secretaría General de Gobierno y operativo del Sistema Estatal de Seguridad Pública, con autonomía técnica, de gestión y presupuestal, responsable del funcionamiento del mismo.
 
 > <small>N. DE E. DEL ANÁLISIS REALIZADO A LA REFORMA PUBLICADA EN EL P.O. EL 8 DE NOVIEMBRE DE 2013, SE ADVIERTE QUE SE AGREGÓ ESTE PÁRRAFO Y SUS FRACCIONES, TODA VEZ QUE EN EL TEXTO ORIGINAL CONSTABA SÓLO UNO.</small>
 
@@ -421,11 +421,13 @@ XIV. Analizar la viabilidad de los proyectos de Programas de Seguridad Púbica M
 
 XV. Coadyuvar con la Auditoría Superior de la Federación y demás instancias de fiscalización, proporcionando la información con la que cuente respecto del ejercicio de los recursos de los fondos de aportación y ayuda federal para la seguridad pública;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2014)</small>
 
-XVI. Supervisar, en coordinación con las demás instancias competentes, la correcta aplicación de los recursos de los fondos de aportación y ayuda federal para la seguridad pública por parte de las Instituciones de Seguridad Pública e instituciones policiales;
+XVI. Supervisar, en coordinación con las demás instancias competentes, la correcta aplicación de los recursos de los fondos de aportación y ayuda federal que reciba el estado, y aquellos que sean determinados en el presupuesto de egresos de la federación y que por convenio sean destinados al estado y a los municipios;
 
-XVII. Proponer las medidas necesarias para garantizar el adecuado funcionamiento del Sistema Estatal de Seguridad Pública;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2014)</small>
+
+XVII. Dictar las medidas necesarias para garantizar el adecuado funcionamiento del Sistema Estatal de Seguridad Pública;
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
 
@@ -435,9 +437,33 @@ XVIII. Gestionar ante las autoridades competentes, la ministración de los fondo
 
 XIX. Organizar, dirigir y administrar el Centro Estatal de Evaluación y Control de Confianza e implementar, coordinar y aplicar las medidas de evaluación y control de confianza en los procesos de selección a todo el personal de seguridad pública y procuración de justicia estatal y, en su caso, municipal, mediante diversos exámenes y pruebas de actitudes y aptitudes que permitan detectar irregularidades que puedan afectar el desarrollo laboral y personal del individuo, así como, a las propias instituciones de interés público. Así mismo, al personal que se establezca a través de convenios con instituciones públicas y cualquier otra, para la aplicación de exámenes de control de confianza, y
 
-> <small>N. DE E. DEL ANÁLISIS DE LA REFORMA PUBLICADA EN EL P.O. EL 8 DE NOVIEMBRE DE 2013, SE ADVIERTE QUE SE AGREGÓ ESTA FRACCIÓN, TODA VEZ QUE EN EL TEXTO ANTERIOR CONSTABA DE XIX.</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2014)</small>
 
-XX. Las que en el ámbito de sus respectivas competencias le confieran el Gobernador del Estado o el Secretario General de Gobierno, y le señalen la Ley, y demás disposiciones normativas aplicables.
+XX. Formular propuestas para el Programa Rector de Profesionalización;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2014)</small>
+
+XXI. Proponer al Consejo Estatal las políticas, lineamientos, protocolos y acciones para el buen desempeño de las Instituciones de Seguridad Pública;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2014)</small>
+
+XXII. Presentar quejas o denuncias ante las autoridades competentes por el incumplimiento de la Ley, los acuerdos generales, los convenios y demás disposiciones aplicables, así como por el uso ilícito o indebido de los recursos federales en materia de seguridad pública, e Informar al respecto al Consejo Estatal;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2014)</small>
+
+XXIII. Coordinar la homologación de la Carrera Policial, la Profesionalización y el Régimen Disciplinario en las Instituciones de Seguridad Pública;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2014)</small>
+
+XXIV. Celebrar toda clase de actos, contratos y convenios inherentes al objeto del Secretariado Ejecutivo;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2014)</small>
+
+XXV. Concentrar, controlar y administrar en una cuenta específica los recursos federales destinados a la seguridad pública que se programen, presupuesten o aporten para el Estado y, en su caso, los Municipios;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2014)</small>
+
+XXVI. Las que en el ámbito de sus respectivas competencias le confieran el Gobernador del Estado o el Secretario General de Gobierno, y le señalen la Ley, y demás disposiciones normativas aplicables.
 
 #### SECCIÓN PRIMERA. DEL CENTRO ESTATAL DE EVALUACIÓN Y CONTROL DE CONFIANZA
 
@@ -1139,7 +1165,7 @@ XXV. Abstenerse de consumir en las instalaciones de sus instituciones o en actos
 
 XXVI. Abstenerse de realizar conductas que desacrediten su persona o la imagen de las Instituciones, dentro o fuera del servicio;
 
-XXVII. No permitir que personas ajenas a sus instituciones realicen actos inherentes a las atribuciones que tenga encomendadas. Asimismo, no podrá hacerse acompañar de dichas personas al realizar actos del servicio, y (sic)
+XXVII. No permitir que personas ajenas a sus instituciones realicen actos inherentes a las atribuciones que tenga encomendadas. Asimismo, no podrá hacerse acompañar de dichas personas al realizar actos del servicio, y
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2014)</small>
 
@@ -2864,3 +2890,7 @@ SÉPTIMO. Las obligaciones y derechos derivados de contratos, convenios o cualqu
 P.O. 31 DE MARZO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor en la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 20 DE OCTUBRE DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
