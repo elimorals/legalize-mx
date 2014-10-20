@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-administracion-publica-del-estado-de-45700"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-07-14"
-last_updated: "2014-07-10"
+last_updated: "2014-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45700&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE OCTUBRE DE 2014.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el jueves 14 de julio de 2005
 
@@ -253,7 +253,7 @@ XI.- Proponer al Gobernador el nombramiento y remoción de los Subsecretarios, D
 
 > <small>(ADICIONADA, B.O. 4 DE OCTUBRE DE 2011)</small>
 
-XII.- Resolver las dudas o controversias en materia de competencia interna que se susciten (sic) las áreas a su cargo; y
+XII.- Resolver las dudas o controversias en materia de competencia interna que se susciten las áreas a su cargo; y
 
 > <small>(ADICIONADA, B.O. 4 DE OCTUBRE DE 2011)</small>
 
@@ -445,7 +445,9 @@ f) Organizar y llevar la contabilidad de la Hacienda Pública Estatal;
 
 g) Ejercer el Presupuesto de Egresos en los términos de las leyes respectivas;
 
-h) Elaborar los informes de la gestión financiera con los conceptos de gastos realizados y el cumplimiento de los objetivos específicos contenidos en los programas que conforman la cuenta pública del Estado, de conformidad con la legislación aplicable, y solventar conjuntamente con la Contraloría General del Estado, las observaciones que le formule la Contaduría Mayor de Hacienda del Congreso del Estado y las obligaciones de glosa que finque el Congreso del Estado a través de su órgano técnico de fiscalización;
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2014)</small>
+
+h) Elaborar los informes de la gestión financiera con los conceptos de gastos realizados y el cumplimiento de los objetivos específicos contenidos en los programas que conforman la cuenta pública del Estado, de conformidad con la legislación aplicable, y solventar conjuntamente con la Contraloría General del Estado, las observaciones que le formule el Órgano de Fiscalización Superior del Congreso del Estado y las obligaciones de glosa que finque el Congreso del Estado a través de su órgano técnico de fiscalización;
 
 i) Ejecutar los pagos de acuerdo a los programas y presupuestos aprobados;
 
@@ -919,7 +921,7 @@ b).- Impulsar y promover el fomento pesquero a través del apoyo a las personas 
 
 c).- Establecer campañas de fomento al consumo de productos pesqueros;
 
-d).- Promover la integración de cadenas productivas pesquera; (sic)
+d).- Promover la integración de cadenas productivas pesquera;
 
 e).- Impulsar la implementación del reordenamiento pesquero, en coordinación con el Gobierno Federal;
 
@@ -931,7 +933,7 @@ a).- Formular, promover y coordinar los planes y programas de acuacultura y serv
 
 b).- Promover y coordinar acciones en materia de sanidad acuícola, conjuntamente con las instancias federales y estatales correspondientes e instituciones de investigación;
 
-c).- Promover la integración de cadenas productivas acuícola; (sic)
+c).- Promover la integración de cadenas productivas acuícola;
 
 d).- Coordinar, supervisar y atender la observancia de la normatividad jurídica establecida en materia de sanidad acuícola, así como instrumentar y evaluar en coordinación con el Gobierno Federal, las campañas de prevención y las medidas de control para la movilización de productos que garanticen la protección sanitaria del sector;
 
@@ -1355,7 +1357,9 @@ Los servidores públicos al momento de terminar con su encomienda, deberán entr
 
 Los titulares de las dependencias y entidades, por acuerdo del Gobernador del Estado, informarán al Gobernador Electo o a quienes éste designe, sobre el estado de los asuntos que tengan encomendados, realizando con ellos las reuniones de trabajo que se requieran.
 
-ARÍCULO (SIC) 66.- Las disposiciones del presente capítulo serán aplicables para el caso de que por cualquier causa ocurra relevo del cargo de Gobernador del Estado.
+###### ARTÍCULO 66.
+
+Las disposiciones del presente capítulo serán aplicables para el caso de que por cualquier causa ocurra relevo del cargo de Gobernador del Estado.
 
 ## TRANSITORIOS
 
@@ -1620,3 +1624,7 @@ B.O. 10 DE JULIO DE 2014.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE OCTUBRE DE 2014.
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
