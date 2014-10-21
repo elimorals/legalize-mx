@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-condiciones-generales-de-trabajo-de-los-92364"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-02-15"
-last_updated: "2013-02-15"
+last_updated: "2014-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92364&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO DE CONDICIONES GENERALES DE TRABAJO DE LOS SERVIDORES PÚBLICOS DEL CENTRO DE CONTROL DE CONFIANZA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SÉPTIMO DEL REGLAMENTO DE CONDICIONES GENERALES DE TRABAJO DE LOS SERVIDORES PÚBLICOS DEL CENTRO DE CONTROL DE CONFIANZA DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 21 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE OCTUBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el viernes 15 de febrero de 2013.
 
@@ -429,7 +431,7 @@ Seis faltas de puntualidad Suspensión de tres días sin goce de sueldo
 
 Siete faltas de puntualidad Suspensión de cuatro días sin goce de sueldo
 
-Nota: Las faltas no son acumulativas de uno a otro mes; una vez sancionadas las faltas cometidas en el mes calendario no podrán considerarse para el siguiente: (sic)
+Nota: Las faltas no son acumulativas de uno a otro mes; una vez sancionadas las faltas cometidas en el mes calendario no podrán considerarse para el siguiente:
 
 V. Los servidores públicos que incurran en el transcurso de un mes calendario en inasistencias injustificadas, serán sancionados de acuerdo a lo siguiente:
 
@@ -751,7 +753,7 @@ III. Fallecimiento de un familiar en primer grado de parentesco consanguíneo pa
 
 IV. En caso de fallecimiento de un familiar de cuarto grado, se le otorgará el derecho de un día hábil.
 
-El trámite de licencia por examen profesional, por contraer nupcias, por fallecimiento de familiar o por nacimiento de hijos se regulará de conformidad con lo señalado en el capítulo IX del presente Reglamento "Justificación de Incidencias derivadas del Control de Puntualidad y Asistencia". Dicho trámite podrá realizarlo el servidor público el primer día en que se presente a reanudar sus labores, después de haberse registrado el acontecimiento. Esto no exime al servidor público de notificar previamente a su superior inmediato: (sic)
+El trámite de licencia por examen profesional, por contraer nupcias, por fallecimiento de familiar o por nacimiento de hijos se regulará de conformidad con lo señalado en el capítulo IX del presente Reglamento "Justificación de Incidencias derivadas del Control de Puntualidad y Asistencia". Dicho trámite podrá realizarlo el servidor público el primer día en que se presente a reanudar sus labores, después de haberse registrado el acontecimiento. Esto no exime al servidor público de notificar previamente a su superior inmediato:
 
 En caso de licencia por matrimonio, el día que hará uso de la misma, y las fechas en que no asistirá a laborar.
 
@@ -1268,3 +1270,23 @@ LIC. JUAN ARRIAGA COLÍN
 CONTRALOR INTERNO DEL CENTRO DE CONTROL DE CONFIANZA DEL ESTADO DE MÉXICO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 21 DE OCTUBRE DE 2014.
+
+PRIMERO.- Se deja (sic) sin efecto todas aquellas disposiciones sobre esta materia que contravenga (sic) lo establecido en este Reglamento.
+
+SEGUNDO.- En cumplimiento a lo previsto por el artículo 58 de la Ley del Trabajo de los Servidores Públicos del Estado y Municipios, el presente Reglamento surtirá sus efectos a partir de su depósito en el Tribunal.
+
+TERCERO.- El presente Reglamento es de aplicación obligatoria para los servidores públicos del Centro.
+
+CUARTO.- El Centro proveerá lo necesario con el objeto de adecuar al presente Reglamento los reglamentos, circulares y disposiciones que existan en materia laboral.
+
+QUINTO.- El Centro procurará por los medios idóneos difundir y dar a conocer el presente Reglamento a los Servidores Públicos del Centro.
+
+SEXTO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno del Estado de México".
+
+SÉPTIMO.- Se abroga el Reglamento de Condiciones Generales de Trabajo de los Servidores Públicos Generales del Centro de Control de Confianza del Estado de México, publicado en el periódico Oficial "Gaceta del Gobierno" el 15 de febrero de 2013.
+
+OCTAVO.- Publíquese en el periódico "Gaceta del Gobierno del Estado de México".
