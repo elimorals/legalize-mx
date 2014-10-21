@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2014-10-14"
+last_updated: "2014-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 14 DE OCTUBRE DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 25 de junio de 1999.
 
@@ -10585,7 +10583,13 @@ Quien hubiere poseído bienes inmuebles por el tiempo y con las condiciones exig
 
 La sentencia ejecutoria que declare procedente la acción a que se refiere el artículo anterior, se inscribirá en el Registro Público y servirá de título de propiedad al poseedor.
 
-#### SECCIÓN PRIMERA. DE LA RESPONSABILIDAD POR HECHOS PROPIOS
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 21 DE OCTUBRE DE 2014)</small>
+
+#### SECCIÓN CUARTA. DE LA INTERPOSICIÓN COLECTIVA DE LA INFORMACIÓN POSESORIA, DE LA INFORMACIÓN DE USUCAPIÓN Y DEL JUICIO DE USUCAPIÓN
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2014)</small>
+
+ARTÍCULO 1792 BIS. Los procedimientos a que se refiere este capítulo, podrán ejercerse colectivamente de acuerdo con las reglas generales de esta ley y a la modalidad colectiva regulada en el Capítulo Tercero Bis del Título Segundo del Libro Cuarto del Código Procesal Civil del Estado.
 
 ## TÍTULO SEXTO. DE LA TUTELA DE LOS DERECHOS REALES
 
@@ -10879,7 +10883,7 @@ El que ha pagado para cumplir una deuda prescrita, un deber moral o cualquiera o
 
 ### CAPÍTULO IV. DE LOS ILÍCITOS CIVILES
 
-#### SECCIÓN SEGUNDA. DE LA RESPONSABILIDAD POR HECHOS AJENOS
+#### SECCIÓN PRIMERA. DE LA RESPONSABILIDAD POR HECHOS PROPIOS
 
 ###### ARTÍCULO 1851.
 
@@ -10907,7 +10911,7 @@ Cuando al ejercitar un derecho se cause daño a otro, hay obligación de indemni
 
 ARTÍCULO 1855 BIS.- Quien se encuentre en la situación prevista en el artículo 1079, tendrá acción y derecho para pedir, a quien fuera su pareja, en igualdad de supuestos y condiciones, la indemnización que se establece en los artículos 385-15 y 1895 de este código, una vez que haya cesado la vida en común por cualquier causa; acción que prescribirá en un año contado a partir de esa circunstancia.
 
-#### SECCIÓN TERCERA. DE LA RESPONSABILIDAD POR CAUSA DE LOS BIENES
+#### SECCIÓN SEGUNDA. DE LA RESPONSABILIDAD POR HECHOS AJENOS
 
 ###### ARTÍCULO 1856.
 
@@ -10959,7 +10963,7 @@ La responsabilidad a que se refiere el artículo anterior es solidaria y podrá 
 
 El que paga el daño causado por sus sirvientes, obreros, empleados o funcionarios, puede repetir de ellos lo que hubiere pagado.
 
-#### SECCIÓN CUARTA. DE LA RESPONSABILIDAD POR CAUSA DE LOS BIENES PELIGROSOS POR SÍ MISMOS
+#### SECCIÓN TERCERA. DE LA RESPONSABILIDAD POR CAUSA DE LOS BIENES
 
 ###### ARTÍCULO 1868.
 
@@ -11013,7 +11017,7 @@ IV. Que el hecho resulte de caso fortuito o de fuerza mayor.
 
 Si el animal que hubiere causado el daño fuere excitado por un tercero la responsabilidad es de éste y no del dueño del animal.
 
-#### SECCIÓN QUINTA. DE LA CUANTIFICACIÓN Y REPARACIÓN DEL DAÑO
+#### SECCIÓN CUARTA. DE LA RESPONSABILIDAD POR CAUSA DE LOS BIENES PELIGROSOS POR SÍ MISMOS
 
 ###### ARTÍCULO 1879.
 
@@ -11055,11 +11059,7 @@ VIII. Por cualquiera causa producida, aún sin culpa o negligencia del poseedor 
 
 No existirá la responsabilidad a que se refiere este capítulo, cuando el daño se cause por caso fortuito o fuerza mayor.
 
-#### SECCIÓN PRIMERA. DE LA VOLUNTAD
-
-SUBSECCIÓN PRIMERA
-
-DE LA VALIDEZ DE LA VOLUNTAD Y DE LA FORMACIÓN DEL CONSENTIMIENTO
+#### SECCIÓN QUINTA. DE LA CUANTIFICACIÓN Y REPARACIÓN DEL DAÑO
 
 ###### ARTÍCULO 1885.
 
@@ -11243,7 +11243,11 @@ Los negocios jurídicos que no estén especialmente reglamentados en este códig
 
 ### CAPÍTULO II. DE LOS ELEMENTOS ESENCIALES DEL NEGOCIO JURÍDICO
 
-#### SECCIÓN SEGUNDA. DEL OBJETO DE LOS NEGOCIOS JURÍDICOS
+#### SECCIÓN PRIMERA. DE LA VOLUNTAD
+
+SUBSECCIÓN PRIMERA
+
+DE LA VALIDEZ DE LA VOLUNTAD Y DE LA FORMACIÓN DEL CONSENTIMIENTO
 
 ###### ARTÍCULO 1915.
 
@@ -11365,7 +11369,7 @@ Si al interpretar el negocio jurídico no es posible establecer la concordancia 
 
 El dolo o la mala fe del destinatario de la declaración impide el nacimiento de la responsabilidad civil.
 
-#### SECCIÓN TERCERA. DE LA SOLEMNIDAD
+#### SECCIÓN SEGUNDA. DEL OBJETO DE LOS NEGOCIOS JURÍDICOS
 
 ###### ARTÍCULO 1942.
 
@@ -11401,7 +11405,7 @@ II. Lícito.
 
 La ilicitud en el negocio jurídico impide que éste produzca los efectos que le serían propios; pero en virtud de él, su autor o autores incurren en las sanciones establecidas por la ley.
 
-#### SECCIÓN PRIMERA. DE LA CAPACIDAD Y LA REPRESENTACIÓN
+#### SECCIÓN TERCERA. DE LA SOLEMNIDAD
 
 ###### ARTÍCULO 1947.
 
@@ -11413,7 +11417,7 @@ Fuera del caso señalado en el artículo anterior, la falta de solemnidad sólo 
 
 ### CAPÍTULO III. DE LOS ELEMENTOS DE VALIDEZ DEL NEGOCIO JURÍDICO
 
-#### SECCIÓN SEGUNDA. DE LOS VICIOS DE LA VOLUNTAD
+#### SECCIÓN PRIMERA. DE LA CAPACIDAD Y LA REPRESENTACIÓN
 
 ###### ARTÍCULO 1949.
 
@@ -11457,7 +11461,7 @@ El representante no puede, en tanto que otra cosa no le esté permitida, celebra
 
 La impugnación sólo podrá ser propuesta por el representado.
 
-#### SECCIÓN TERCERA. DE LA LESIÓN
+#### SECCIÓN SEGUNDA. DE LOS VICIOS DE LA VOLUNTAD
 
 ###### ARTÍCULO 1956.
 
@@ -11539,7 +11543,7 @@ No es lícito renunciar para lo futuro la nulidad que resulte del dolo, de la ma
 
 Si habiendo cesado la violencia o siendo conocido el dolo o la mala fe, el que sufrió aquélla o padeció el engaño ratifica el negocio, no puede reclamar en lo sucesivo por tales vicios.
 
-#### SECCIÓN CUARTA. DE LA LICITUD DEL OBJETO, DEL MOTIVO Y DE LA CONDICIÓN DE LOS NEGOCIOS JURÍDICOS
+#### SECCIÓN TERCERA. DE LA LESIÓN
 
 ###### ARTÍCULO 1974.
 
@@ -11549,7 +11553,7 @@ Habrá lesión en los negocios jurídicos cuando una de las partes, abusando de 
 
 Es nulo el negocio jurídico en el que uno de los contratantes sufra lesión.
 
-#### SECCIÓN QUINTA. DE LA FORMA
+#### SECCIÓN CUARTA. DE LA LICITUD DEL OBJETO, DEL MOTIVO Y DE LA CONDICIÓN DE LOS NEGOCIOS JURÍDICOS
 
 ###### ARTÍCULO 1976.
 
@@ -11561,7 +11565,7 @@ Para determinar la clase de nulidad que se origina al respecto, se estará a lo 
 
 Para los efectos legales se entiende por causa del negocio jurídico, el motivo determinante de la voluntad de su autor o de las partes, si en el acto de la celebración se declara ese motivo, o si se prueba o se deduce fundamentalmente de las circunstancias del mismo negocio, que éste se celebró por ese motivo y no por otro.
 
-#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+#### SECCIÓN QUINTA. DE LA FORMA
 
 ###### ARTÍCULO 1978.
 
@@ -11643,7 +11647,7 @@ Es principal el contrato cuando no depende de otro para poder subsistir y acceso
 
 ### CAPÍTULO V. DE LOS NEGOCIOS JURÍDICOS UNILATERALES
 
-#### SECCIÓN SEGUNDA. DE LA OFERTA A PERSONAS INDETERMINADAS
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 1993.
 
@@ -11653,7 +11657,7 @@ Toda persona capaz puede obligarse por su sola declaración unilateral de volunt
 
 Las disposiciones legales sobre los negocios jurídicos en general, son aplicables a los casos innominados de declaración unilateral de voluntad.
 
-#### SECCIÓN TERCERA. DE LA PROMESA DE RECOMPENSA
+#### SECCIÓN SEGUNDA. DE LA OFERTA A PERSONAS INDETERMINADAS
 
 ###### ARTÍCULO 1995.
 
@@ -11673,7 +11677,7 @@ La falta del documento a que se refiere el artículo anterior, hace responsable 
 
 Si la oferta es de venta de bienes muebles, el solo hecho de exhibir al público la cosa con la indicación del precio, obliga al oferente a celebrar el contrato y a sostener el precio.
 
-#### SECCIÓN CUARTA. DEL CONCURSO CON PROMESA DE RECOMPENSA
+#### SECCIÓN TERCERA. DE LA PROMESA DE RECOMPENSA
 
 ###### ARTÍCULO 1999.
 
@@ -11705,7 +11709,7 @@ II. Si la ejecución fuere simultánea o varios llenaren al mismo tiempo la cond
 
 III. Si la recompensa no fuere divisible se sorteará entre los interesados.
 
-#### SECCIÓN QUINTA. DE LA ESTIPULACIÓN A FAVOR DE TERCERO
+#### SECCIÓN CUARTA. DEL CONCURSO CON PROMESA DE RECOMPENSA
 
 ###### ARTÍCULO 2005.
 
@@ -11715,7 +11719,7 @@ En los concursos en que haya promesa de recompensa para quienes llenaren ciertas
 
 El promitente tiene derecho a designar a la persona o personas que deban decidir, de acuerdo con los términos de la convocatoria respectiva, a quién o a quiénes de los concursantes se otorga la recompensa.
 
-#### SECCIÓN SEXTA. DE LA EXPEDICIÓN DE DOCUMENTOS CIVILES A LA ORDEN O AL PORTADOR
+#### SECCIÓN QUINTA. DE LA ESTIPULACIÓN A FAVOR DE TERCERO
 
 ###### ARTÍCULO 2007.
 
@@ -11741,7 +11745,7 @@ La estipulación puede ser revocada mientras que el tercero no haya manifestado 
 
 El promitente podrá, salvo pacto en contrario, oponer al tercero las excepciones derivadas del contrato, independientemente de las personales que tenga en su contra.
 
-#### SECCIÓN SÉPTIMA. DEL ACTO DISPOSITIVO A TÍTULO GRATUITO
+#### SECCIÓN SEXTA. DE LA EXPEDICIÓN DE DOCUMENTOS CIVILES A LA ORDEN O AL PORTADOR
 
 ###### ARTÍCULO 2013.
 
@@ -11815,7 +11819,7 @@ Puede el acreedor en el caso del artículo anterior, informar al deudor antes de
 
 Si no obstante la orden judicial de detener el pago o del informe hecho por el acreedor al deudor, éste paga a quien le presente el documento, se expondrá a doble pago en el caso de que en el juicio que le promoviera el acreedor desposeído, éste justificare plenamente que fue víctima de robo o desposesión indebida de los citados documentos y que oportunamente notificó y comprobó tales hechos al deudor.
 
-#### SECCIÓN OCTAVA. DE LA PROMESA ABSTRACTA DE DEUDA
+#### SECCIÓN SÉPTIMA. DEL ACTO DISPOSITIVO A TÍTULO GRATUITO
 
 ###### ARTÍCULO 2031.
 
@@ -11849,7 +11853,7 @@ Cuando la oposición o devolución a que se refiere el artículo anterior se hic
 
 En el caso del artículo anterior, el beneficiario del acto dispositivo a título gratuito podrá impedir que los acreedores acepten los bienes o valores objeto de éste, y que se revoque su devolución, pagando los créditos que tengan en su contra.
 
-#### SECCIÓN PRIMERA. DEL PLAZO
+#### SECCIÓN OCTAVA. DE LA PROMESA ABSTRACTA DE DEUDA
 
 ###### ARTÍCULO 2039.
 
@@ -12087,7 +12091,7 @@ Se puede declarar la inexistencia o la nulidad de una o más cláusulas simulada
 
 ### CAPÍTULO IX. DE LAS MODALIDADES DE LOS NEGOCIOS JURÍDICOS
 
-#### SECCIÓN SEGUNDA. DE LA CONDICIÓN
+#### SECCIÓN PRIMERA. DEL PLAZO
 
 ###### ARTÍCULO 2090.
 
@@ -12163,7 +12167,7 @@ II. Desde la fecha en que se entregue a un funcionario público por razón de su
 
 III. Desde la muerte de cualquiera de quienes lo firmaron como otorgantes o testigos.
 
-#### SECCIÓN TERCERA. DEL MODO
+#### SECCIÓN SEGUNDA. DE LA CONDICIÓN
 
 ###### ARTÍCULO 2103.
 
@@ -12237,7 +12241,7 @@ VI. Si el bien se mejorare a expensas del deudor, no tendrá éste otro derecho 
 
 Entiéndese que la cosa se pierde cuando se encuentra en alguno de los casos mencionados en el artículo 2220.
 
-#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+#### SECCIÓN TERCERA. DEL MODO
 
 ###### ARTÍCULO 2117.
 
@@ -12261,7 +12265,7 @@ Todo interesado puede exigir el cumplimiento de la carga y también puede exigir
 
 ### CAPÍTULO X. DE LA RESCISIÓN O RESOLUCIÓN DE LOS NEGOCIOS JURÍDICOS
 
-#### SECCIÓN SEGUNDA. DE LA IMPOSIBILIDAD SOBREVENIDA
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 2122.
 
@@ -12377,7 +12381,7 @@ En los casos en que la cláusula sea eficaz, el juez, si reconociera que concurr
 
 La acción para pedir la rescisión o resolución prescribe en un año.
 
-#### SECCIÓN TERCERA. DE LA EXCESIVA ONEROSIDAD SOBREVENIDA
+#### SECCIÓN SEGUNDA. DE LA IMPOSIBILIDAD SOBREVENIDA
 
 ###### ARTÍCULO 2142.
 
@@ -12399,7 +12403,7 @@ El adquirente no queda liberado de cumplir con su contraprestación, si siendo e
 
 Dejarán de aplicarse las disposiciones de esta sección, si la destrucción o perecimiento del bien ocurre estando el enajenante en mora.
 
-#### SECCIÓN PRIMERA. DE LA INEXISTENCIA
+#### SECCIÓN TERCERA. DE LA EXCESIVA ONEROSIDAD SOBREVENIDA
 
 ###### ARTÍCULO 2147.
 
@@ -12419,7 +12423,7 @@ No son aplicables las disposiciones de esta sección a los contratos aleatorios,
 
 ### CAPÍTULO XI. DE LA INEXISTENCIA, LA INVALIDEZ, LA CONVALIDACIÓN, LA CONVERSIÓN Y LA CONSERVACIÓN DE LOS NEGOCIOS JURÍDICOS
 
-#### SECCIÓN SEGUNDA. DE LAS NULIDADES
+#### SECCIÓN PRIMERA. DE LA INEXISTENCIA
 
 ###### ARTÍCULO 2151.
 
@@ -12441,7 +12445,7 @@ III. Un sordomudo que no sepa darse a entender por escrito o mediante intérpret
 
 IV. Una persona en estado de ebriedad absoluta, o completamente inconsciente por el efecto de drogas enervantes, si se prueba plenamente que carecía totalmente de voluntad al firmar o estampar sus huellas digitales en el documento en que pudiera aparecer haber contratado.
 
-#### SECCIÓN TERCERA. DE LA CONVALIDACIÓN
+#### SECCIÓN SEGUNDA. DE LAS NULIDADES
 
 ###### ARTÍCULO 2154.
 
@@ -12571,7 +12575,7 @@ Si sólo una de las partes fuere culpable del ilícito a que se refiere el artí
 
 La acción de nulidad sólo prescribe en los términos que específica y expresmante (sic) señale la ley al respecto.
 
-#### SECCIÓN CUARTA. DE LA CONVERSIÓN
+#### SECCIÓN TERCERA. DE LA CONVALIDACIÓN
 
 ###### ARTÍCULO 2186.
 
@@ -12617,7 +12621,7 @@ La convalidación, sea expresa o tácita, no exige el concurso de la parte a cuy
 
 La convalidación se retrotrae al día en que se celebró el negocio nulo; pero este efecto retroactivo no perjudicará derechos de tercero.
 
-#### SECCIÓN QUINTA. DE LA CONSERVACIÓN
+#### SECCIÓN CUARTA. DE LA CONVERSIÓN
 
 ###### ARTÍCULO 2195.
 
@@ -12631,7 +12635,7 @@ II. Que fundadamente pueda admitirse que el autor o las partes, de haber conocid
 
 La total ejecución voluntaria del negocio válido se tendrá por conversión tácita del nulo.
 
-#### SECCIÓN PRIMERA. GENERALIDADES
+#### SECCIÓN QUINTA. DE LA CONSERVACIÓN
 
 ###### ARTÍCULO 2197.
 
@@ -12681,7 +12685,7 @@ Las obligaciones personales, civiles o naturales a que se contraen los artículo
 
 ### CAPÍTULO I. DE LAS OBLIGACIONES DE DAR O DE PRESTACION DE BIENES
 
-#### SECCIÓN SEGUNDA. DE COMO SE TRASLADA LA PROPIEDAD DE LOS BIENES
+#### SECCIÓN PRIMERA. GENERALIDADES
 
 ###### ARTÍCULO 2206.
 
@@ -12731,7 +12735,7 @@ III. La entrega es simbólica cuando se hace por la sola recepción de un símbo
 
 IV. Si la obligación queda comprendida dentro de la clase a que se refiere la fracción I del artículo 2206 y el bien debido es un inmueble o derecho real sobre inmueble, se considera entregado al otorgarse la escritura pública.
 
-#### SECCIÓN TERCERA. DE LA RESPONSABILIDAD CULPOSA POR PERDIDA O DETERIORO DEL BIEN
+#### SECCIÓN SEGUNDA. DE COMO SE TRASLADA LA PROPIEDAD DE LOS BIENES
 
 ###### ARTÍCULO 2214.
 
@@ -12741,7 +12745,7 @@ Salvo convenio en contrario, en las enajenaciones de bienes ciertos y determinad
 
 En las enajenaciones de alguna especie indeterminada, la propiedad no se transferirá sino hasta el momento en que el bien se haga cierto y determinado con conocimiento del acreedor.
 
-#### SECCIÓN CUARTA. DE LA IMPUTACION DEL RIESGO
+#### SECCIÓN TERCERA. DE LA RESPONSABILIDAD CULPOSA POR PERDIDA O DETERIORO DEL BIEN
 
 ###### ARTÍCULO 2216.
 
@@ -12819,7 +12823,7 @@ III. Cuando la obligación sea indivisible.
 
 IV. Cuando por contrato se hayan establecido otras reglas.
 
-#### SECCIÓN PRIMERA. DEL PAGO
+#### SECCIÓN CUARTA. DE LA IMPUTACION DEL RIESGO
 
 ###### ARTÍCULO 2228.
 
@@ -12879,7 +12883,7 @@ El que estuviera obligado a no hacer algo, quedará sujeto al pago de daños y p
 
 ### CAPÍTULO I. DEL CUMPLIMIENTO DE LAS OBLIGACIONES
 
-#### SECCIÓN SEGUNDA. DE LA IMPUTACIÓN DEL PAGO
+#### SECCIÓN PRIMERA. DEL PAGO
 
 ###### ARTÍCULO 2240.
 
@@ -13033,7 +13037,7 @@ La entrega del título hecha al deudor hace presumir el pago de la deuda constan
 
 Ninguna de las presunciones establecidas en los tres artículos anteriores opera si hay prueba en contrario.
 
-#### SECCIÓN TERCERA. DE LA DACIÓN EN PAGO
+#### SECCIÓN SEGUNDA. DE LA IMPUTACIÓN DEL PAGO
 
 ###### ARTÍCULO 2275.
 
@@ -13047,7 +13051,7 @@ Si el deudor no hiciere la referida declaración, se entenderá hecho el pago po
 
 Las cantidades pagadas a cuenta de deudas con intereses, no se imputarán al capital mientras hubiere intereses vencidos y no pagados, salvo convenio en contrario.
 
-#### SECCIÓN CUARTA. DEL OFRECIMIENTO DEL PAGO Y DE LA CONSIGNACIÓN
+#### SECCIÓN TERCERA. DE LA DACIÓN EN PAGO
 
 ###### ARTÍCULO 2278.
 
@@ -13069,7 +13073,7 @@ La nulidad operará de pleno derecho, esto es, sin necesidad de declaración jud
 
 Si el bien dado en pago tiene vicios o defectos ocultos la obligación primitiva no renacerá, quedando expeditas las acciones del acreedor por dichos vicios o defectos ocultos.
 
-#### SECCIÓN PRIMERA. DE LAS CONSECUENCIAS DEL INCUMPLIMIENTO DE LAS OBLIGACIONES
+#### SECCIÓN CUARTA. DEL OFRECIMIENTO DEL PAGO Y DE LA CONSIGNACIÓN
 
 ###### ARTÍCULO 2283.
 
@@ -13123,11 +13127,7 @@ Cuando se siga un juicio de rescisión de contrato por falta de pago de prestaci
 
 ### CAPÍTULO II. DEL INCUMPLIMIENTO DE LAS OBLIGACIONES
 
-#### SECCIÓN SEGUNDA. DEL SANEAMIENTO POR CAUSA DE EVICCIÓN Y POR LOS VICIOS OCULTOS
-
-SUBSECCIÓN PRIMERA
-
-DEL SANEAMIENTO POR CAUSA DE EVICCIÓN
+#### SECCIÓN PRIMERA. DE LAS CONSECUENCIAS DEL INCUMPLIMIENTO DE LAS OBLIGACIONES
 
 ###### ARTÍCULO 2295.
 
@@ -13225,7 +13225,11 @@ Si la prestación consistiera en el pago de cierta cantidad de dinero, los daño
 
 El pago de los gastos judiciales será a cargo del que faltare al cumplimiento de la obligación y se hará en los términos que establezca el Código Procesal Civil.
 
-#### SECCIÓN PRIMERA. DE LA CESIÓN ORDINARIA
+#### SECCIÓN SEGUNDA. DEL SANEAMIENTO POR CAUSA DE EVICCIÓN Y POR LOS VICIOS OCULTOS
+
+SUBSECCIÓN PRIMERA
+
+DEL SANEAMIENTO POR CAUSA DE EVICCIÓN
 
 ###### ARTÍCULO 2316.
 
@@ -13613,7 +13617,7 @@ Son aplicables, en lo conducente, a las obligaciones sujetas a término, a condi
 
 ### CAPÍTULO I. DE LA CESIÓN DE DERECHOS
 
-#### SECCIÓN SEGUNDA. DE LA CESIÓN DE DERECHOS HEREDITARIOS
+#### SECCIÓN PRIMERA. DE LA CESIÓN ORDINARIA
 
 ###### ARTÍCULO 2390.
 
@@ -13721,7 +13725,7 @@ El que cede alzadamente o en globo la totalidad de ciertos derechos, cumple con 
 
 Las disposiciones relativas al negocio jurídico con el que tengan mayor analogía las cláusulas pactadas en la cesión de derechos, son aplicables a ella, en lo que no se opongan a las disposiciones de esta sección.
 
-#### SECCIÓN TERCERA. DE LA CESIÓN DE DERECHOS LITIGIOSOS
+#### SECCIÓN SEGUNDA. DE LA CESIÓN DE DERECHOS HEREDITARIOS
 
 ###### ARTÍCULO 2412.
 
@@ -13735,7 +13739,7 @@ Si el cedente se hubiere aprovechado de algunos frutos o percibido algún bien d
 
 El cesionario debe, por su parte, satisfacer al cedente todo lo que éste haya pagado por las deudas o cargas de la herencia y sus propios créditos contra ella, salvo si se hubiere pactado lo contrario.
 
-#### SECCIÓN CUARTA. DE LA TRANSMISIÓN DE DERECHOS REALES
+#### SECCIÓN TERCERA. DE LA CESIÓN DE DERECHOS LITIGIOSOS
 
 ###### ARTÍCULO 2415.
 
@@ -13745,7 +13749,7 @@ Es litigioso el crédito cuyo cobro esté sometido, sin que todavía exista sent
 
 En la cesión de créditos litigiosos, el cesionario estará a las resultas del juicio sin ninguna responsabilidad para el cedente, salvo pacto en contrario.
 
-#### SECCIÓN QUINTA. DE LAS ENAJENACIONES EN REMATE PÚBLICO
+#### SECCIÓN CUARTA. DE LA TRANSMISIÓN DE DERECHOS REALES
 
 ###### ARTÍCULO 2417.
 
@@ -13771,7 +13775,7 @@ El dueño o poseedor del bien gravado con los derechos reales cedidos, puede opo
 
 Para que el cesionario pueda ejercitar los derechos reales que se le hayan cedido, deberá registrar la cesión, si el registro es necesario, y notificarla al deudor con arreglo al artículo 2397.
 
-#### SECCIÓN PRIMERA. DE LA SUBROGACION PERSONAL
+#### SECCIÓN QUINTA. DE LAS ENAJENACIONES EN REMATE PÚBLICO
 
 ###### ARTÍCULO 2423.
 
@@ -13833,7 +13837,7 @@ El juez o la autoridad administrativa, mandará hacer la cancelación de los gra
 
 ### CAPÍTULO II. DE LA SUBROGACIÓN
 
-#### SECCIÓN SEGUNDA. DE LA SUBROGACIÓN REAL
+#### SECCIÓN PRIMERA. DE LA SUBROGACION PERSONAL
 
 ###### ARTÍCULO 2432.
 
@@ -13889,7 +13893,7 @@ El subrogado puede ejercitar todos los derechos que competen al acreedor, tanto 
 
 En el caso del artículo 2435, si el subrogado pagó al acreedor una suma menor al importe del crédito y se le subrogó en el total del mismo, puede el deudor liberarse de la deuda, pagando al subrogatario lo que éste pagó por la subrogación, más los gastos de ella y los intereses que vayan venciendo, calculados al tipo pactado.
 
-#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+#### SECCIÓN SEGUNDA. DE LA SUBROGACIÓN REAL
 
 ###### ARTÍCULO 2442.
 
@@ -14243,7 +14247,7 @@ Si la obligación es de hacer, el deudor quedará liberado cuando la prestación
 
 ### CAPÍTULO VI. DE LA PRESCRIPCIÓN
 
-#### SECCIÓN SEGUNDA. DE LA SUSPENSIÓN DE LA PRESCRIPCIÓN
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 2511.
 
@@ -14337,7 +14341,7 @@ I. La obligación de rendir cuentas y en este caso la prescripción comienza a c
 
 II. Las obligaciones líquidas que resulten de la rendición de cuentas. La prescripción comienza a correr, en este caso, desde el día que la liquidación es aprobada por los interesados o por sentencia que cause ejecutoria.
 
-#### SECCIÓN TERCERA. DE LA INTERRUPCIÓN DE LA PRESCRIPCIÓN
+#### SECCIÓN SEGUNDA. DE LA SUSPENSIÓN DE LA PRESCRIPCIÓN
 
 ###### ARTÍCULO 2528.
 
@@ -14357,7 +14361,7 @@ IV. Entre las personas morales y sus administradores mientras éstos estén en e
 
 Los incapaces tendrán derecho de exigir responsabilidad a sus representantes legales, cuando por culpa de éstos no se hubiera interrumpido la prescripción. El plazo para hacer valer este derecho es de un año, a partir de que salgan de la patria potestad o de la tutela.
 
-#### SECCIÓN CUARTA. DE LA MANERA DE CONTAR EL TIEMPO PARA LA PRESCRIPCIÓN
+#### SECCIÓN TERCERA. DE LA INTERRUPCIÓN DE LA PRESCRIPCIÓN
 
 ###### ARTÍCULO 2530.
 
@@ -14411,7 +14415,7 @@ La interrupción de la prescripción a favor de alguno de los acreedores solidar
 
 El efecto de la interrupción es inutilizar, para la prescripción, el tiempo corrido antes de ella.
 
-#### SECCIÓN PRIMERA. DE LAS OBLIGACIONES CONJUNTIVAS
+#### SECCIÓN CUARTA. DE LA MANERA DE CONTAR EL TIEMPO PARA LA PRESCRIPCIÓN
 
 ###### ARTÍCULO 2538.
 
@@ -14463,13 +14467,13 @@ Son obligaciones complejas aquellas en las que existe pluralidad de objetos, de 
 
 ### CAPÍTULO II. DE LA PLURALIDAD DE OBJETOS
 
-#### SECCIÓN SEGUNDA. DE LAS OBLIGACIONES ALTERNATIVAS
+#### SECCIÓN PRIMERA. DE LAS OBLIGACIONES CONJUNTIVAS
 
 ###### ARTÍCULO 2546.
 
 El objeto de la obligación conjuntiva lo constituyen varios bienes o hechos, o aquéllos y éstos, y en ella el deudor debe dar todos los primeros y prestar todos los segundos.
 
-#### SECCIÓN TERCERA. DE LAS OBLIGACIONES FACULTATIVAS
+#### SECCIÓN SEGUNDA. DE LAS OBLIGACIONES ALTERNATIVAS
 
 ###### ARTÍCULO 2547.
 
@@ -14581,7 +14585,7 @@ La falta de prestación del hecho se regirá por lo dispuesto en los artículos 
 
 Las reglas establecidas en esta sección se observarán también cuando la alternatividad se establezca entre más de dos prestaciones, bajo el concepto de que cuando éstas sean de hacer o de no hacer se tendrá en cuenta al respecto y en su caso, lo dispuesto en los artículos 2238 y 2239.
 
-#### SECCIÓN PRIMERA. DE LAS OBLIGACIONES MANCOMUNADAS GENÉRICAS
+#### SECCIÓN TERCERA. DE LAS OBLIGACIONES FACULTATIVAS
 
 ###### ARTÍCULO 2573.
 
@@ -14605,7 +14609,7 @@ En caso de duda sobre si la obligación es alternativa o facultativa, se tendrá
 
 ### CAPÍTULO III. DE LA PLURALIDAD DE SUJETOS
 
-#### SECCIÓN SEGUNDA. DE LAS OBLIGACIONES MANCOMUNADAS SIMPLES
+#### SECCIÓN PRIMERA. DE LAS OBLIGACIONES MANCOMUNADAS GENÉRICAS
 
 ###### ARTÍCULO 2577.
 
@@ -14615,7 +14619,7 @@ Son obligaciones mancomunadas aquellas en las cuales existe pluralidad de deudor
 
 Las obligaciones con pluralidad subjetiva pueden ser mancomunadas simples o solidarias.
 
-#### SECCIÓN TERCERA. DE LAS OBLIGACIONES SOLIDARIAS
+#### SECCIÓN SEGUNDA. DE LAS OBLIGACIONES MANCOMUNADAS SIMPLES
 
 ###### ARTÍCULO 2579.
 
@@ -14625,7 +14629,7 @@ En las obligaciones mancomunadas simples, cada uno de los deudores no tiene el d
 
 Las partes se presumen iguales a no ser que se pacte otra cosa o que la ley disponga lo contrario.
 
-#### SECCIÓN CUARTA. DE LAS OBLIGACIONES DISJUNTAS
+#### SECCIÓN TERCERA. DE LAS OBLIGACIONES SOLIDARIAS
 
 ###### ARTÍCULO 2581.
 
@@ -14751,7 +14755,7 @@ Si el bien objeto de la obligación hubiere perecido, o si la prestación se hub
 
 Cualquier acto que interrumpa la prescripción a favor de uno de los acreedores solidarios aprovecha a los demás acreedores de la misma clase.
 
-#### SECCIÓN QUINTA. DE LAS OBLIGACIONES DIVISIBLES E INDIVISIBLES
+#### SECCIÓN CUARTA. DE LAS OBLIGACIONES DISJUNTAS
 
 ###### ARTÍCULO 2607.
 
@@ -14759,7 +14763,7 @@ Son obligaciones disjuntas las que se contraen expresándose en el documento res
 
 Se expresan generalmente estas obligaciones empleándose en la redacción del documento respectivo la fórmula y/o, y les son aplicables las normas contenidas en la sección tercera, relativas a la solidaridad activa o pasiva según sea el caso.
 
-#### SECCIÓN PRIMERA. DE LA RESCISIÓN
+#### SECCIÓN QUINTA. DE LAS OBLIGACIONES DIVISIBLES E INDIVISIBLES
 
 ###### ARTÍCULO 2608.
 
@@ -15625,7 +15629,7 @@ Las donaciones hechas simulando otro contrato a personas que conforme a la ley n
 
 ### CAPÍTULO III. DE LA RESCISIÓN, LA REVOCACIÓN Y LA REDUCCIÓN DE LAS DONACIONES
 
-#### SECCIÓN SEGUNDA. DE LA REVOCACIÓN Y LA REDUCCIÓN DE LAS DONACIONES
+#### SECCIÓN PRIMERA. DE LA RESCISIÓN
 
 ###### ARTÍCULO 2771.
 
@@ -15659,7 +15663,7 @@ Cuando los bienes donados no puedan ser restituidos en especie, el valor exigibl
 
 Si el bien donado perece por caso fortuito o de fuerza mayor, queda el donatario libre de toda obligación.
 
-#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+#### SECCIÓN SEGUNDA. DE LA REVOCACIÓN Y LA REDUCCIÓN DE LAS DONACIONES
 
 ###### ARTÍCULO 2779.
 
@@ -17899,7 +17903,7 @@ DE LOS CONTRATOS ACCESORIOS
 
 ### CAPÍTULO I. DE LA FIANZA
 
-#### SECCIÓN SEGUNDA. DE LOS REQUISITOS DE EXISTENCIA Y DE VALIDEZ DE LA FIANZA
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 3220.
 
@@ -17953,7 +17957,7 @@ V. Fianza judicial es la que se otorga en cumplimiento de la resolución de un j
 
 Quedan sujetas a las disposiciones de este capítulo, las fianzas otorgadas accidentalmente por individuos o compañías en favor de determinadas personas, si no las extienden en forma de póliza, ni las anuncian públicamente por la prensa o por cualquier otro medio, ni emplean agentes que las ofrezcan.
 
-#### SECCIÓN TERCERA. DE LA CONSTITUCION DE LA FIANZA
+#### SECCIÓN SEGUNDA. DE LOS REQUISITOS DE EXISTENCIA Y DE VALIDEZ DE LA FIANZA
 
 ###### ARTÍCULO 3229.
 
@@ -17975,7 +17979,7 @@ Puede otorgarse fianza en garantía de deudas futuras, cuyo importe no sea aún 
 
 En el caso del artículo anterior, no podrá reclamarse al fiador hasta que la deuda sea líquida.
 
-#### SECCIÓN CUARTA. DE LAS OBLIGACIONES DEL FIADOR
+#### SECCIÓN TERCERA. DE LA CONSTITUCION DE LA FIANZA
 
 ###### ARTÍCULO 3234.
 
@@ -18013,7 +18017,7 @@ Si la fianza importa garantía de una cantidad que el deudor debe recibir, la su
 
 Si la fianza fuere para garantizar la administración de bienes, cesará ésta si aquélla no se da en el término convenido o señalado por la ley o por el juez, salvo los casos en que la ley disponga otra cosa.
 
-#### SECCIÓN QUINTA. DE LAS FORMALIDADES DE LA FIANZA
+#### SECCIÓN CUARTA. DE LAS OBLIGACIONES DEL FIADOR
 
 ###### ARTÍCULO 3242.
 
@@ -18099,7 +18103,7 @@ Si la obligación principal no se cumple y es de no hacer, el acreedor podrá ex
 
 Es nulo el pacto por virtud del cual se establece que la fianza será exigible, aun cuando no lo sea la obligación principal, o antes de que venza el plazo señalado para el cumplimiento de la misma.
 
-#### SECCIÓN SEXTA. DE LOS EFECTOS DE LA FIANZA ENTRE EL FIADOR Y EL ACREEDOR
+#### SECCIÓN QUINTA. DE LAS FORMALIDADES DE LA FIANZA
 
 ###### ARTÍCULO 3255.
 
@@ -18109,7 +18113,7 @@ La fianza debe otorgarse por escrito y cuando la obligación principal que garan
 
 Las fianzas judiciales se otorgarán en forma de acta ante el juez o tribunal.
 
-#### SECCIÓN SÉPTIMA. DE LOS EFECTOS DE LA FIANZA ENTRE EL FIADOR Y EL DEUDOR
+#### SECCIÓN SEXTA. DE LOS EFECTOS DE LA FIANZA ENTRE EL FIADOR Y EL ACREEDOR
 
 ###### ARTÍCULO 3257.
 
@@ -18235,7 +18239,7 @@ Los efectos de la cosa juzgada en contra del deudor, por sentencia obtenida en j
 
 Si muere el fiador dejando varios herederos, la responsabilidad de éstos se regirá por lo dispuesto en el artículo 2593.
 
-#### SECCIÓN OCTAVA. DE LOS EFECTOS DE LA FIANZA ENTRE LOS COFIADORES
+#### SECCIÓN SÉPTIMA. DE LOS EFECTOS DE LA FIANZA ENTRE EL FIADOR Y EL DEUDOR
 
 ###### ARTÍCULO 3280.
 
@@ -18333,7 +18337,7 @@ El fiador, para hacer efectivos los derechos que le otorga el artículo 3292, pu
 
 El aseguramiento decretado conforme a lo dispuesto en el artículo anterior quedará sin efecto, cuando se extinga la obligación del fiado o la del fiador.
 
-#### SECCIÓN NOVENA. DE LA EXTINCIÓN DE LA FIANZA
+#### SECCIÓN OCTAVA. DE LOS EFECTOS DE LA FIANZA ENTRE LOS COFIADORES
 
 ###### ARTÍCULO 3298.
 
@@ -18377,7 +18381,7 @@ El cofiador que pide el beneficio de división sólo responde por la parte del f
 
 El que fía a un cofiador, en el caso de insolvencia de éste, es responsable para con los otros cofiadores de la misma manera en que lo sería el cofiador fiado.
 
-#### SECCIÓN DÉCIMA. DE LA FIANZA LEGAL O JUDICIAL
+#### SECCIÓN NOVENA. DE LA EXTINCIÓN DE LA FIANZA
 
 ###### ARTÍCULO 3305.
 
@@ -18423,7 +18427,7 @@ Si la fianza se ha otorgado por tiempo indeterminado, tiene derecho el fiador, c
 
 Lo dispuesto en los dos artículos anteriores se aplicará tanto al caso en que el fiador haya renunciado al beneficio de orden, cuanto a aquél en que no haya hecho esta renuncia.
 
-#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+#### SECCIÓN DÉCIMA. DE LA FIANZA LEGAL O JUDICIAL
 
 ###### ARTÍCULO 3316.
 
@@ -18475,7 +18479,7 @@ No tendrá la responsabilidad a que se refiere el artículo anterior el que dio 
 
 ### CAPÍTULO II. DE LA PRENDA
 
-#### SECCIÓN SEGUNDA. DE LOS DERECHOS Y OBLIGACIONES DEL ACREEDOR PRENDARIO
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 3325.
 
@@ -18665,7 +18669,7 @@ En el caso de la fracción II del artículo anterior, la garantía se irá reduc
 
 Extinguida la obligación principal por cualquiera causa, se extingue el derecho de prenda.
 
-#### SECCIÓN TERCERA. DE LOS DERECHOS Y OBLIGACIONES DE LOS DEUDORES PRINCIPAL Y PRENDARIO
+#### SECCIÓN SEGUNDA. DE LOS DERECHOS Y OBLIGACIONES DEL ACREEDOR PRENDARIO
 
 ###### ARTÍCULO 3363.
 
@@ -18737,7 +18741,7 @@ Si por convenio el acreedor percibe los frutos del bien empeñado, el importe de
 
 Las partes podrán estipular compensación recíproca de intereses con los frutos del bien.
 
-#### SECCIÓN CUARTA. DE LA VENTA DEL BIEN PIGNORADO
+#### SECCIÓN TERCERA. DE LOS DERECHOS Y OBLIGACIONES DE LOS DEUDORES PRINCIPAL Y PRENDARIO
 
 ###### ARTÍCULO 3375.
 
@@ -18801,7 +18805,7 @@ II. Si el valor del beneficio recibido por el deudor principal, es menor que la 
 
 III. El deudor principal podrá oponer las excepciones que se enumeran en el artículo 3375.
 
-#### SECCIÓN PRIMERA. DE LA HIPOTECA EN GENERAL
+#### SECCIÓN CUARTA. DE LA VENTA DEL BIEN PIGNORADO
 
 ###### ARTÍCULO 3381.
 
@@ -18905,7 +18909,7 @@ Respecto del bien ajeno dado en anticresis, se observará lo dispuesto en los ar
 
 ### CAPÍTULO IV. DE LA HIPOTECA
 
-#### SECCIÓN SEGUNDA. DE LA HIPOTECA VOLUNTARIA
+#### SECCIÓN PRIMERA. DE LA HIPOTECA EN GENERAL
 
 ###### ARTÍCULO 3401.
 
@@ -19189,7 +19193,7 @@ La hipoteca no puede ser tácita ni general. Para producir efectos contra tercer
 
 La hipoteca puede constituirse por contrato, testamento o declaración unilateral de voluntad, así como por la ley, cuando ésta sujeta a alguna persona a prestar esa garantía. En los tres primeros casos la hipoteca se llama voluntaria, y en el último, necesaria.
 
-#### SECCIÓN TERCERA. DE LA HIPOTECA NECESARIA
+#### SECCIÓN SEGUNDA. DE LA HIPOTECA VOLUNTARIA
 
 ###### ARTÍCULO 3447.
 
@@ -19311,7 +19315,7 @@ Lo mismo se observará en el caso de que el acreedor conceda un nuevo plazo para
 
 En caso de prórroga, la prescripción empieza a correr al día siguiente del vencimiento de aquélla.
 
-#### SECCIÓN CUARTA. DE LA HIPOTECA DE PROPIETARIO
+#### SECCIÓN TERCERA. DE LA HIPOTECA NECESARIA
 
 ###### ARTÍCULO 3464.
 
@@ -19363,7 +19367,7 @@ Los que tienen derecho de exigir la constitución de hipoteca necesaria, tienen 
 
 Si el responsable de la hipoteca designada en las fracciones II, III y IV del artículo 3468 no tuviere inmuebles, el acreedor no gozará al respecto, más que del privilegio mencionado en el artículo 2641, fracción I, sin perjuicio de las protecciones que este código establece para el manejo, por ascendientes y tutores, de los bienes de menores y de incapaces en general, sujetos en sus respectivos casos, a patria potestad o a tutela.
 
-#### SECCIÓN QUINTA. DE LA EXTINCIÓN DE LA HIPOTECA
+#### SECCIÓN CUARTA. DE LA HIPOTECA DE PROPIETARIO
 
 ###### ARTÍCULO 3472.
 
@@ -19376,6 +19380,8 @@ Habrá también lugar a la hipoteca de propietario cuando el dueño del bien gra
 ###### ARTÍCULO 3474.
 
 Cuando el constituyente de una hipoteca para garantizar deuda ajena, pagare ésta, quedará subrogado en la hipoteca sobre su propio bien, en la forma y términos establecidos en el artículo anterior.
+
+#### SECCIÓN QUINTA. DE LA EXTINCIÓN DE LA HIPOTECA
 
 ###### ARTÍCULO 3475.
 
@@ -20325,6 +20331,10 @@ V. Que transcurra un plazo de treinta días a partir de la última publicación 
 
 Si hubiere oposición, sólo podrá tomarse en cuenta si se funda en la posesión o en titulación fehaciente del mismo inmueble.
 
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2014)</small>
+
+El procedimiento a que se refiere este artículo podrá ser ejercido colectivamente de acuerdo con las reglas del Capítulo Tercero Bis del Título Segundo del Libro Cuarto del Código Procesal Civil del Estado.
+
 ## TÍTULO TERCERO. DEL REGISTRO MOBILIARIO
 
 ### CAPÍTULO ÚNICO. DE LOS TÍTULOS INSCRIBIBLES
@@ -21204,3 +21214,13 @@ SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
 P.O. 16 DE SEPTIEMBRE DE 2014.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su Publicación en el Periódico oficial del Estado.
+
+P.O. 21 DE OCTUBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
