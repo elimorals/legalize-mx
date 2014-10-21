@@ -4,7 +4,7 @@ identifier: "YUC-codigo-civil-del-estado-de-yucatan-14490"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-12-31"
-last_updated: "2013-12-15"
+last_updated: "2014-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CÓDIGO CIVIL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE OCTUBRE DE 2014.
 
 Código publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 31 de diciembre de 1993.
 
@@ -4459,9 +4459,13 @@ Cuando se consume la venta de la parte alícuota de un condueño, a persona extr
 
 Si varios copropietarios de bienes indivisos hicieren uso del tanto, o de retracto en su caso, será preferido el que represente mayor parte y siendo iguales, el designado por la suerte, salvo convenio en contrario.
 
+> <small>(REFORMADO, D.O. 21 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 699.
 
-Cuando los diferentes pisos, departamentos, viviendas o locales de un edificio, susceptibles de aprovechamiento por tener salida propia a un elemento común de aquél o a la vía pública, pertenecieren a distintos propietarios, cada uno de éstos tendrá un derecho singular y exclusivo de propiedad sobre su piso departamento, vivienda o local y, además, un derecho de copropiedad sobre los elementos y partes comunes del edificio, necesarios para su adecuado uso o disfrute, tales como el suelo, cimientos, sótano, muros de carga, fosos, patios, pozos, escaleras, elevadores, pasos, corredores, cubiertas, canalizaciones, desagües, servidumbre, etc. El derecho de copropiedad sobre los elementos comunes del edificio sólo será enajenable, gravable o embargable por terceros, conjuntamente con el piso, departamento, vivienda o local de propiedad exclusiva respecto del cual se considera anexo inseparable. La copropiedad sobre los elementos comunes de edificios no es susceptible de división. Los derechos y obligaciones de los copropietarios a que se refiere este precepto se regirán por las escrituras en que se hubiere establecido el régimen de propiedad y por la ley sobre el régimen de propiedad y condominio inmobiliario del Estado de Yucatán.
+En los bienes inmuebles podrá constituirse el régimen de propiedad en condominio, bajo el cual dichos bienes se dividen en unidades de propiedad exclusiva y áreas y bienes de uso común, siempre que aquellas tengan acceso a estas. En este régimen los condóminos tienen un derecho de propiedad sobre sus unidades de propiedad exclusiva y un derecho de copropiedad sobre las áreas y bienes de uso común.
+
+Los propietarios que deseen constituir sus bienes bajo este régimen deberán observar las disposiciones establecidas en la Ley sobre el Régimen de Propiedad en Condominio para el Estado de Yucatán.
 
 ###### Artículo 700.
 
@@ -4943,7 +4947,7 @@ La extinción del patrimonio de familia por la causa invocada en la fracción I,
 
 ###### Artículo 799.
 
-La extinción fundada en la fracción (sic) II y III del artículo 797 de este código sólo podrá decretarse a petición del que lo constituyó y de sus herederos o beneficiarios, siempre que éstos sean mayores de edad. Será solicitada en diligencia de jurisdicción voluntaria, y para decretarla se oirá al ministerio público.
+La extinción fundada en la fracción II y III del artículo 797 de este código sólo podrá decretarse a petición del que lo constituyó y de sus herederos o beneficiarios, siempre que éstos sean mayores de edad. Será solicitada en diligencia de jurisdicción voluntaria, y para decretarla se oirá al ministerio público.
 
 ###### Artículo 800.
 
@@ -5441,7 +5445,7 @@ La cantidad de agua que puede hacerse pasar por un acueducto o tubería establec
 
 ###### Artículo 909.
 
-Si el que disfruta del acueducto o tubería necesitare ampliarlo, deberá costear las obras necesarias y pagar el terreno que nuevamente ocupe y los daños que cause conforme a lo dispuesto en la fracción (sic) IV y V del artículo 906 de este código.
+Si el que disfruta del acueducto o tubería necesitare ampliarlo, deberá costear las obras necesarias y pagar el terreno que nuevamente ocupe y los daños que cause conforme a lo dispuesto en la fracción IV y V del artículo 906 de este código.
 
 ###### Artículo 910.
 
@@ -5509,7 +5513,7 @@ El uso y la extensión de las servidumbres establecidas por la voluntad del prop
 
 Pueden constituir servidumbres voluntarias los que puedan enajenar.
 
-Si fueren varios los propietarios de un predio, no se podrá constituir la servidumbre, si no (sic) con el consentimiento de todos.
+Si fueren varios los propietarios de un predio, no se podrá constituir la servidumbre, si no con el consentimiento de todos.
 
 ###### Artículo 925.
 
@@ -5705,7 +5709,7 @@ Las cosas muebles se prescriben en tres años si la posesión es continua, pací
 
 ###### Artículo 964.
 
-Si la cosa mueble hubiera sido perdida por su dueño, o éste hubiere sido desposeído de ella en virtud de un delito, y la cosa hubiese pasado a tercero de buena fe, prescribirá a favor de este último pasados tres años; pero respecto a la acción para reclamar el predio (sic) de la cosa del adquirente de mala fe, se estará a lo dispuesto en el artículo siguiente.
+Si la cosa mueble hubiera sido perdida por su dueño, o éste hubiere sido desposeído de ella en virtud de un delito, y la cosa hubiese pasado a tercero de buena fe, prescribirá a favor de este último pasados tres años; pero respecto a la acción para reclamar el predio de la cosa del adquirente de mala fe, se estará a lo dispuesto en el artículo siguiente.
 
 ###### Artículo 965.
 
@@ -6875,7 +6879,7 @@ En las enajenaciones de cosas ciertas y determinadas, la traslación de la propi
 
 ###### Artículo 1193.
 
-En las enajenaciones de alguna especie indeterminada, la propiedad no se transferirá si no (sic) hasta el momento en que la cosa se hace cierta y determinada con conocimiento del acreedor.
+En las enajenaciones de alguna especie indeterminada, la propiedad no se transferirá si no hasta el momento en que la cosa se hace cierta y determinada con conocimiento del acreedor.
 
 ###### Artículo 1194.
 
@@ -9073,7 +9077,7 @@ Son aplicables al contrato de alquiler, las disposiciones sobre arrendamiento en
 
 ###### Artículo 1653.
 
-El arrendamiento de cosas muebles terminará en el plazo convenido, ha (sic) falta de plazo, luego que concluya el uso a que la cosa hubiere sido destinada conforme al contrato.
+El arrendamiento de cosas muebles terminará en el plazo convenido, ha falta de plazo, luego que concluya el uso a que la cosa hubiere sido destinada conforme al contrato.
 
 ###### Artículo 1654.
 
@@ -9101,7 +9105,7 @@ Si se arriendan un edificio o aposento amueblados, se entenderá que el arrendam
 
 ###### Artículo 1660.
 
-El arrendatario está obligado hacer las pequeñas comparaciones (sic) que exige la cosa dada en arrendamiento.
+El arrendatario está obligado hacer las pequeñas comparaciones que exige la cosa dada en arrendamiento.
 
 ###### Artículo 1661.
 
@@ -15140,3 +15144,25 @@ Este Decreto entrará en vigor el día 1 de enero del año 2014, previa su publi
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales y normativas de igual o menor rango en lo que se opongan al contenido de este Decreto.
+
+D.O. 21 DE OCTUBRE DE 2014.
+
+Artículo Primero. Entrada en vigor
+
+Este decreto entrará en vigor a los noventa días naturales siguientes al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo. Armonización conceptual
+
+Para efectos de los instrumentos constitutivos y normatividad interna de los regímenes de propiedad en condominio constituidos con anterioridad a la entrada en vigor de este decreto, se entenderá por indiviso o proindiviso a la cuota de participación, por reglamento interior a los estatutos, por cuota de mantenimiento a la cuota de administración.
+
+Artículo Tercero. Abrogación de la ley
+
+A partir de la entrada en vigor de este decreto quedará abrogada la Ley sobre el Régimen de Propiedad y Condominio Inmobiliario del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán el 22 de noviembre de 1962.
+
+Artículo Cuarto. Obligaciones registrales
+
+El Instituto de Seguridad Jurídica Patrimonial del Estado de Yucatán deberá realizar las gestiones necesarias para dar cumplimiento a lo dispuesto en este decreto.
+
+Artículo Quinto. Derogación tácita
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
