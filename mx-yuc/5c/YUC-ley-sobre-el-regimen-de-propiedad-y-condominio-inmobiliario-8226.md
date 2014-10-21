@@ -4,7 +4,7 @@ identifier: "YUC-ley-sobre-el-regimen-de-propiedad-y-condominio-inmobiliario-822
 country: "mx"
 rank: "ley"
 publication_date: "1962-11-22"
-last_updated: "1962-11-22"
+last_updated: "2014-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8226&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # LEY SOBRE EL REGIMEN DE PROPIEDAD Y CONDOMINIO INMOBILIARIO DEL ESTADO DE YUCATAN
 
-LEY SOBRE EL REGIMEN DE PROPIEDAD Y CONDOMINIO INMOBILIARIO DEL ESTADO DE YUCATAN
+LEY SOBRE EL RÉGIMEN DE PROPIEDAD Y CONDOMINIO INMOBILIARIO DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y TERCERO TRANSITORIOS DEL DECRETO QUE EXPIDE LA LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO DEL ESTADO DE YUCATÁN Y QUE MODIFICA EL CÓDIGO CIVIL DEL ESTADO DE YUCATÁN Y LA LEY DE DESARROLLOS INMOBILIARIOS DEL ESTADO DE YUCATÁN, PUBLICADO EN EL D.O. DE 21 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS NOVENTA DÍAS NATURALES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE OCTUBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el Jueves 22 de Noviembre de 1962.
 
@@ -368,3 +370,27 @@ AGUSTIN FRANCO AGUILAR.
 El Secretario General,
 
 MARIO ZAVALA TRACONIS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 21 DE OCTUBRE DE 2014.
+
+Artículo Primero. Entrada en vigor
+
+Este decreto entrará en vigor a los noventa días naturales siguientes al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo. Armonización conceptual
+
+Para efectos de los instrumentos constitutivos y normatividad interna de los regímenes de propiedad en condominio constituidos con anterioridad a la entrada en vigor de este decreto, se entenderá por indiviso o proindiviso a la cuota de participación, por reglamento interior a los estatutos, por cuota de mantenimiento a la cuota de administración.
+
+Artículo Tercero. Abrogación de la ley
+
+A partir de la entrada en vigor de este decreto quedará abrogada la Ley sobre el Régimen de Propiedad y Condominio Inmobiliario del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán el 22 de noviembre de 1962.
+
+Artículo Cuarto. Obligaciones registrales
+
+El Instituto de Seguridad Jurídica Patrimonial del Estado de Yucatán deberá realizar las gestiones necesarias para dar cumplimiento a lo dispuesto en este decreto.
+
+Artículo Quinto. Derogación tácita
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
