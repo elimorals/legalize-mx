@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-desarrollos-inmobiliarios-del-estado-de-yucatan-77611"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-07"
-last_updated: "2010-12-07"
+last_updated: "2014-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77611&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "YUC"
 ---
 # LEY DE DESARROLLOS INMOBILIARIOS DEL ESTADO DE YUCATAN
 
-LEY DE DESARROLLOS INMOBILIARIOS DEL ESTADO DE YUCATAN
+LEY DE DESARROLLOS INMOBILIARIOS DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE OCTUBRE DE 2014.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el martes 7 de diciembre de 2010.
 
@@ -61,7 +61,9 @@ III. Área verde: la superficie de terreno de uso público provista de vegetaci�
 
 IV. Desarrollador Inmobiliario: la persona física o moral interesada en la autorización, construcción y urbanización de terrenos que se constituirán como fraccionamientos o División de Lotes;
 
-V. Desarrollo Inmobiliario: el bien inmueble que por sus características físicas o el régimen de propiedad se constituye como Fraccionamiento, División de Lotes o condominio;
+> <small>(REFORMADA, D.O. 21 DE OCTUBRE DE 2014)</small>
+
+V. Desarrollo Inmobiliario: el bien inmueble que por sus características físicas o el régimen de propiedad se constituye como Fraccionamiento o División de Lotes;
 
 VI. Desarrollo sustentable: el proceso evolutivo sustentado en el equilibrio ecológico y el soporte vital de la región, con respeto pleno a la integridad étnica y cultural regional, nacional y local, así como en el fortalecimiento de la participación de la sociedad, en convivencia pacífica y en armonía con la naturaleza garantizando la calidad de vida de las generaciones futuras;
 
@@ -171,17 +173,11 @@ Los convenios se deberán publicar en la gaceta municipal correspondiente o, en 
 
 ### CAPÍTULO I. De la Clasificación
 
+> <small>(REFORMADO, D.O. 21 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 8.
 
-Los desarrollos inmobiliarios se clasifican en:
-
-I. Condominios;
-
-II. División de Lotes, y
-
-III. Fraccionamiento.
-
-Los desarrollos inmobiliarios clasificados como condominios se regirán por lo que establezca la ley especial de la materia.
+Los desarrollos inmobiliarios se clasifican en División de Lotes y Fraccionamientos.
 
 ###### Artículo 9.
 
@@ -438,3 +434,27 @@ GOBERNADORA DEL ESTADO DE YUCATÁN
 C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 21 DE OCTUBRE DE 2014.
+
+Artículo Primero. Entrada en vigor
+
+Este decreto entrará en vigor a los noventa días naturales siguientes al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo. Armonización conceptual
+
+Para efectos de los instrumentos constitutivos y normatividad interna de los regímenes de propiedad en condominio constituidos con anterioridad a la entrada en vigor de este decreto, se entenderá por indiviso o proindiviso a la cuota de participación, por reglamento interior a los estatutos, por cuota de mantenimiento a la cuota de administración.
+
+Artículo Tercero. Abrogación de la ley
+
+A partir de la entrada en vigor de este decreto quedará abrogada la Ley sobre el Régimen de Propiedad y Condominio Inmobiliario del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán el 22 de noviembre de 1962.
+
+Artículo Cuarto. Obligaciones registrales
+
+El Instituto de Seguridad Jurídica Patrimonial del Estado de Yucatán deberá realizar las gestiones necesarias para dar cumplimiento a lo dispuesto en este decreto.
+
+Artículo Quinto. Derogación tácita
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
