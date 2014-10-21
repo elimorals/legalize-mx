@@ -4,7 +4,7 @@ identifier: "COA-codigo-procesal-civil-para-el-estado-de-coahuila-de-zaragoza-15
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-29"
-last_updated: "2014-09-16"
+last_updated: "2014-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 29 de junio de 1999.
 
@@ -219,7 +219,7 @@ I. En el ejercicio de sus funciones legales, deben ser independientes, imparcial
 
 II. Dirigir la marcha ininterrumpida y ordenada del proceso y decidir en lo conducente para que se desarrolle en forma expedita, completa, imparcial y gratuita, con respeto a la potestad de defensa de las partes, aplicando las sanciones que correspondan a los que obstaculicen indebidamente su desarrollo y observen conducta incompatible con la ética profesional o con los principios de lealtad, probidad, decoro y dignidad de la justicia.
 
-III. Presidir personalmente las audiencias y exhortar a las partes, en cualquier fase del procedimiento, particularmente la destinada a este efecto, a intentar una conciliación sobre el fondo del litigio; para ello ofrecerán soluciones o tomarán en cuanta las que las mismas partes propongan para ventilar sus diferencias, con el fin de obtener un convenio procesal, que de lograrlo, elevarán a sentencia de fondo, con lo que darán por terminada la contienda.
+III. Presidir personalmente las audiencias y exhortar a las partes, en cualquier fase del procedimiento, particularmente la destinada a este efecto, a intentar una conciliación sobre el fondo del litigio; para ello ofrecerán soluciones o tomarán en cuanta (sic) las que las mismas partes propongan para ventilar sus diferencias, con el fin de obtener un convenio procesal, que de lograrlo, elevarán a sentencia de fondo, con lo que darán por terminada la contienda.
 
 IV. Procurar conocer la verdad sobre los hechos controvertidos o dudosos; para lo cual podrán valerse de cualquier persona, ya sea parte o tercero, y de cualquier cosa o documento, sea que pertenezca a un interesado o a un extraño; sin más limitaciones que su práctica no sea ilegal, ni contraria a la moral.
 
@@ -991,7 +991,7 @@ Pueden promoverse varias demandas en el mismo procedimiento contra una misma par
 
 Litisconsorcio: facultativo y necesario
 
-En la posición de parte demandante o demandada pueden haber varias personas en el mismo juicio.
+En la posición de parte demandante o demandada pueden (sic) haber varias personas en el mismo juicio.
 
 El litisconsorcio será facultativo cuando en las pretensiones o contrapretensiones que se promuevan por vía de acción o excepción, exista conexión sobre el objeto o sobre el título del cual dependan; o bien cuando la decisión esté subordinada total o parcialmente a la resolución de cuestiones idénticas.
 
@@ -1865,7 +1865,7 @@ Días y horas hábiles.
 
 Las actuaciones judiciales se practicarán en días y horas hábiles.
 
-Son días hábiles todos los del año, menos los sábados y domingos; aquellos que las leyes declaren festivos y los de vacaciones de los tribunales; así como los en que éstos, de hecho, suspendan sus labores.
+Son días hábiles todos los del año, menos los sábados y domingos; aquellos que las leyes declaren festivos y los de vacaciones de los tribunales; así como los en (sic) que éstos, de hecho, suspendan sus labores.
 
 Se entenderán como horas de labores de los tribunales las que medien entre las nueve y quince horas y entre las diecisiete y las diecinueve horas. Para las actuaciones que se practiquen fuera de la sede del tribunal o juzgado, serán horas hábiles las que medien entre las siete y las diecinueve horas. Iniciada una diligencia en hora hábil, podrá concluirse válidamente en horas inhábiles, sin necesidad de determinación especial del juzgador.
 
@@ -2831,9 +2831,17 @@ Acción con pretensión de protección de intereses de grupos determinados para 
 
 La acción de regularización colectiva del derecho de propiedad sobre inmuebles rústicos o urbanos es de interés social y se ejerce bajo las reglas aplicables de la adquisición por usucapión tanto en juicio contradictorio como en procedimiento no contencioso.
 
-Tiene por finalidad la titulación e inscripción definitiva individualizada de predios rústicos o urbanos que constituyen asentamientos humanos irregulares, a efecto de otorgar a sus poseedores la seguridad jurídica de la legal tenencia de la tierra.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2014)</small>
 
-Este código y las leyes en materia urbana dispondrán los entes jurídicos públicos o privados que estarán legitimados para ejercer esta acción y las condiciones de la misma.
+De igual forma, con las reglas señaladas en las leyes respectivas, podrán ejercerse colectivamente tanto los procedimientos de registro de la posesión apta para prescribir y la inmatriculación mediante resolución judicial, así como la acción de otorgamiento de escrituras relativa a la compra venta de inmuebles.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2014)</small>
+
+Estas acciones tendrán como finalidad la titulación e inscripción definitiva individualizada de predios rústicos o urbanos que constituyen asentamientos humanos irregulares, a efecto de otorgar a sus poseedores la seguridad jurídica de la legal tenencia de la tierra
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2014)</small>
+
+Este código y las leyes en materia urbana dispondrán los entes jurídicos públicos o privados que estarán legitimados para ejercer esta acción. Las condiciones de la misma serán las señaladas en el Capítulo Tercero Bis del Título Segundo del Libro Cuarto de este Código.
 
 ###### ARTÍCULO 286.
 
@@ -7585,9 +7593,221 @@ Efectos de la sentencia reivindicatoria.
 
 Por virtud de la sentencia que se dicte en los juicios reivindicatorios, se pierde la propiedad y la posesión del que resulte vencido en favor del vencedor.
 
-### CAPÍTULO CUARTO. Juicios sobre liberación de gravámenes y servidumbres
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE OCTUBRE DE 2014)</small>
 
-### CAPÍTULO QUINTO. Juicios sobre bienes indivisos y de división de cosa común
+### CAPÍTULO TERCERO BIS. Juicios Colectivos Declarativos de Propiedad
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2014)</small>
+
+###### ARTÍCULO 709 Bis.
+
+Adquisición colectiva.
+
+Los procedimientos de adquisición por usucapión en juicio contradictorio y por prescripción en procedimiento no contencioso señalados en el capítulo anterior, podrán ejercerse colectivamente con las condiciones y requisitos que ahí se señalan, además de las modalidades señaladas en el presente capitulo.
+
+De igual forma, con las reglas señaladas en las leyes respectivas y mediante las modalidades del presente capitulo, podrán ejercerse colectivamente tanto los procedimientos de registro de la posesión apta para prescribir y la inmatriculación mediante resolución judicial, así como la acción de otorgamiento de escrituras relativa a la compra venta de inmuebles.
+
+Estos procedimientos procederán tratándose de inmuebles rústicos o urbanos independientemente de las divisiones o fracciones autorizadas o irregulares que de dicho inmueble hayan hecho los accionantes.
+
+Si la demanda de nulidad o cancelación de la inscripción a que se refiere el segundo párrafo del Artículo 700 de este Código se ejerce al mismo tiempo que el juicio de usucapión colectivo contradictorio a que se hace referencia en el primer párrafo de este artículo, ésta se entablará también de forma colectiva de acuerdo a las reglas de este capítulo.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2014)</small>
+
+###### ARTÍCULO 709 Bis 2.
+
+Requisitos de procedencia.
+
+Las acciones y solicitudes señaladas en el artículo anterior sólo podrán ser ejercitadas colectivamente si:
+
+I. Existen cuestiones comunes de hecho o de derecho entre los miembros de la colectividad o grupo de que se trate, de tal forma que éstas permiten una decisión uniforme respecto de la controversia o solicitud colectiva.
+
+II. Los sujetos a los que se refiere el artículo siguiente representan adecuadamente los derechos o intereses de la colectividad o grupo y no se encuentran en conflicto de interés con éstos.
+
+El juzgador a petición de cualquier interesado podrá verificar el cumplimiento de estos requisitos durante el procedimiento.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2014)</small>
+
+###### ARTÍCULO 709 Bis 3.
+
+Legitimación activa.
+
+Tienen legitimación activa para ejercitar las acciones y las solicitudes colectivas a que se (sic) hacen referencia los artículos anteriores:
+
+a) Cualquier grupo de por lo menos veinte personas, compareciendo cada una por igual número de inmuebles, o fracciones y divisiones de estos, que cumplan con los requisitos de procedencia señalados en el artículo 709 Bis 2, debidamente representados.
+
+Sin perjuicio de lo anterior, podrán comparecer dos o más personas por cada inmueble, fracción o división sobre el que verse el litigio, de acuerdo a las reglas de representación de este artículo.
+
+b) Los organismos, dependencias y entidades estatales y municipales a cargo de la regularización de la tenencia de la tierra urbana y/o rústica, siempre que representen al número de miembros que se señalan en el inciso anterior.
+
+c) Las asociaciones civiles sin fines de lucro legalmente constituidas al menos dos años anteriores a la presentación de la demanda, cuyo objeto social incluya la promoción o defensa de los derechos e intereses colectivos relativos a la regularización de la tenencia de la tierra urbana y/o rústica, siempre que representen al número de miembros que se señala en el inciso a) de este artículo.
+
+En todos los casos, las colectividades como tales y sus miembros son la parte en el proceso colectivo, representados en juicio por un apoderado común, conforme a las reglas del artículo 96 de este Código, sin perjuicio de hacerse asistir por cualquier otro tipo de patrocinio o representación que permita este Código.
+
+Siempre que sea posible, el grupo será representado en juicio por más de un representante colectivo, para promover una representación adecuada de los derechos del grupo y sus miembros.
+
+En todo caso, el defensor profesional legal del grupo hará valer en juicio los derechos e intereses del grupo y de los miembros del grupo, no los del representante o miembros de la colectividad que lo haya contratado.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2014)</small>
+
+###### ARTÍCULO 709 Bis 4.
+
+Interrupción de la prescripción.
+
+El ejercicio de las acciones y solicitudes colectivas a que hace referencia este capítulo interrumpirá el plazo de prescripción de las acciones y solicitudes individuales relacionadas con la controversia colectiva.
+
+El plazo prescriptivo volverá a transcurrir a partir de la notificación de la sentencia firme de la controversia colectiva.
+
+Las acciones y solicitudes individuales podrán ser iniciadas una vez que cese la suspensión del procedimiento conforme a las reglas señaladas en el Artículo 709 Bis 10.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2014)</small>
+
+###### ARTÍCULO 709 Bis 5.
+
+Depuración.
+
+En la fase de depuración del proceso, el juzgador, además de cumplir con las disposiciones que señala en general este Código para los procedimientos a que se hace referencia en el Artículo 709 Bis, en decisión motivada:
+
+I. Decidirá sí la acción o solicitud cumplen con las condiciones para proseguir en forma colectiva.
+
+II. Definirá de oficio el objeto del proceso colectivo de la forma más amplia posible, independientemente de lo solicitado por las partes.
+
+III. Describirá, con toda la precisión posible y necesaria, la definición del grupo titular de la pretensión colectiva.
+
+IV. En caso de que la colectividad no lo haya hecho, seleccionará al representante más adecuado para representar a los intereses del grupo en el juicio.
+
+V. A solicitud de los interesados, autorizara que las entidades federales, estatales o municipales introduzcan, incluso mientras dure el proceso, los servicios públicos necesarios, así como que los accionantes celebren los contratos necesarios para la obtención de estos servicios.
+
+En caso de resolución adversa a los accionantes, tratándose de los servicios contratados a que hace referencia esta fracción, se seguirán las reglas sobre mejoras necesarias, útiles y voluntarias dispuestas en el Código Civil del Estado.
+
+La autorización a la que hace referencia esta fracción no prejuzga de manera definitiva sobre el fondo de litigio colectivo.
+
+VI. En los procedimientos que puedan ejercerse colectivamente según este capítulo que requieran la publicación de la solicitud en el Periódico Oficial del Estado y en los periódicos de mayor circulación, esta se hará colectivamente. De igual forma, en los mismos procesos que requieran avisos o citación de autoridades, estas se harán a nombre de la colectividad.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2014)</small>
+
+###### ARTÍCULO 709 Bis 6.
+
+Facultades del juzgador.
+
+El juzgador motivando su decisión, podrá separar las pretensiones o las causas de pedir en distintas acciones y solicitudes colectivas, si dicha separación favorece la economía procesal o facilita la tramitación del proceso colectivo.
+
+De igual forma el juzgador podrá dividir al grupo en subgrupos con derechos o intereses semejantes para una mejor decisión y tramitación del proceso colectivo. Si hubiere conflictos o divergencias sustanciales de intereses entre los miembros del grupo, el juez podrá nombrar un representante por cada subgrupo.
+
+El juzgador podrá limitar el objeto de la acción colectiva a la parte de la controversia que pueda ser juzgada en forma colectiva, dejando las cuestiones que no sean comunes al grupo para que sean decididas mediante acciones individuales o en una fase posterior del propio proceso colectivo. En resolución motivada, el juez comunicará las cuestiones que serán parte del proceso colectivo y las que serán decididas en acciones individuales o en una fase posterior del proceso colectivo.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2014)</small>
+
+###### ARTÍCULO 709 Bis 7.
+
+Prueba.
+
+Los procedimientos colectivos señalados en este capítulo seguirán las mismas reglas sobre las pruebas idóneas y relevantes que este Código disponga para justificar la pretensión de la acción o solicitud de que se trate, con la excepción de que no será necesario que la parte actora ofrezca y desahogue pruebas individualizadas por cada uno de los miembros de la colectividad o grupo, o por cada pretensión de cada uno de los accionantes, sino que las mismas serán evaluadas colectivamente, y redundarán en provecho o en perjuicio de los otros miembros de la colectividad.
+
+Los representantes e intervinientes que participen en el proceso deberán presentar pruebas, documentos, alegaciones y peticiones de forma conjunta a fin de evitar repeticiones o contradicciones. El juzgador solamente admitirá actos procesales, documentos y pruebas presentadas por separado, en la medida en que no sean repetitivos.
+
+El uso de la prueba estadística o por muestreo será permitido como complemento de la prueba directa o cuando la prueba directa sea costosa, de práctica difícil o imposible, repetitiva, innecesaria o afecte la economía procesal.
+
+De igual forma tratándose de las acciones y solicitudes colectivas iniciadas por organismos, dependencias y entidades estatales y municipales a cargo de la regularización de la tenencia de la tierra urbana y/o rustica, los indicios y pruebas que se perfeccionen ante dichos organismos consistentes en gestiones, oficios, documentos, planos y demás documentos recabados por estas dependencias, cumplimentados los requisitos que para ello establezca dichas dependencias, podrán, a juicio motivado del juzgador y siempre que con ello se evite la repetición ociosa de diligencias y actuaciones, considerarse como indicios o pruebas preconstitutidas (sic) en el proceso colectivo.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2014)</small>
+
+###### ARTÍCULO 709 Bis 8.
+
+Sentencia.
+
+La resolución definitiva resolverá la controversia colectiva de la forma más amplia posible, decidiendo tanto sobre las pretensiones colectivas como sobre las individuales ya sean constitutivas, declarativas y/o de condena.
+
+Cuando la sentencia ejecutoria declare procedente la acción colectiva, a petición de parte interesada, los organismos, dependencias y entidades estatales y municipales a cargo de la regularización de la tenencia de la tierra urbana o rústica en el ámbito de sus respectivas competencias y siempre que sea procedente de acuerdo a las disposiciones aplicables, procederán a realizar los trámites necesarios para la inscripción en las oficinas catastrales y en el Registro Público de la Propiedad de los predios identificados individualmente en sus medidas y colindancias físicas y su adjudicación al miembro de la colectividad que corresponda, de acuerdo a las pretensiones y reclamaciones individuales y colectivas probadas en el procedimiento.
+
+La inscripción de la sentencia ejecutoria, tramitada por organismos, dependencias y entidades estatales y municipales a cargo de la regularización de la tenencia de la tierra urbana o rústica en el ámbito de sus respectivas competencia (sic) no causará ningún impuesto, contribución, derecho o carga fiscal, por la transmisión del dominio ni por su inscripción en el Registro Público de la Propiedad, y servirá de título de propiedad individual para cada uno de los miembros de la colectividad.
+
+La inscripción de esta sentencia no causara ningún impuesto, contribución, derecho o carga fiscal, por la trasmisión del dominio ni por su inscripción en el Registro Público de la Propiedad, y servirá de título de propiedad individual para cada uno de los miembros de la colectividad.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2014)</small>
+
+###### ARTÍCULO 709 Bis 9.
+
+Cosa juzgada colectiva.
+
+La cosa juzgada colectiva vinculará a la colectividad y a los miembros individuales independientemente del resultado de la demanda, excepto si la improcedencia fuese causada por:
+
+I. La representación inadecuada de los derechos y los intereses del grupo y de sus miembros;
+
+II. Insuficiencia de pruebas.
+
+La cosa juzgada colectiva no podrá ser interpuesta por la misma colectividad, excepto por los supuestos de excepción señalados, aunque comparezca posteriormente un numero distinto de miembros.
+
+Si la acción o solicitud colectiva fuera declarada improcedente por las razones señaladas en las fracciones anteriores, cualquier legitimado colectivo podrá proponer la misma acción o solicitud de forma colectiva, basándose en una nueva prueba que pudiera llegar a producir un resultado diferente o sustituyendo la representación inadecuada, en un plazo no mayor a un año posterior a que haya surtido efectos la notificación de la sentencia que la declaro improcedente.
+
+Los defectos de los que trata este artículo serán objeto de conocimiento tanto por el juez de la causa como por el juez de la acción o solicitud colectiva posteriormente ejercitada, así como por el Juez de la demanda individual que declare improcedente esta por las razones señaladas en el artículo siguiente
+
+En la acción individual ejercitada por un miembro del grupo vinculado por la cosa juzgada colectiva solamente podrán discutirse cuestiones no incluidas en la cosa juzgada colectiva y cuestiones de naturaleza Individual.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2014)</small>
+
+###### ARTÍCULO 709 Bis 10.
+
+La acción o solicitud colectiva y las correspondientes acciones y solicitudes individuales.
+
+La acción o solicitud individual que también sea materia de una acción colectiva solo podrá ejercerse conforme a las reglas siguientes:
+
+I. La resolución definitiva sobre la pretensión colectiva vincula a todos los miembros de la colectividad si resulta favorable para esta; si resulta desfavorable, solamente podrán ejercitarse, en el pazo (sic) correspondiente, las acciones individuales, si en estas se discuten cuestiones no incluidas en la cosa juzgada colectiva y cuestiones de naturaleza individual.
+
+II. En el caso de solicitudes o acciones individuales iniciadas previamente, los términos de estas se suspenderán conforme a las reglas de este Código, si el interesado individual se adhiere posteriormente a una demanda colectiva. El resultado favorable a la colectividad vincula al accionante cuyo proceso estaba suspendido y extingue el proceso individual; de ser desfavorable, se podrá reanudar la acción individual suspendida, conforme a las reglas de este Código, solo si en esta se discuten cuestiones no incluidas en la cosa juzgada colectiva y cuestiones de naturaleza individual.
+
+Los accionantes individuales solo podrán adherirse a la acción colectiva hasta antes de la fase de depuración del procedimiento. El juzgador, a su criterio según las solicitudes recibidas, podrá ampliar el plazo, hasta por 60 días naturales, previa solicitud de los accionantes colectivos o de los presuntos adherentes, para que otros demandantes individuales se adhieran a la acción colectiva.
+
+III. Las solicitudes o acciones individuales iniciadas posteriormente a que se haya participado, con las mismas pretensiones, en una demanda colectiva que se encuentre en proceso, excluyen siempre del resultado de dicha petición colectiva al peticionario individual.
+
+Los miembros de la colectividad solo podrán ejercer acciones individuales sobre las mismas pretensiones, y por tanto excluirse de la acción colectiva, hasta antes de la fase de alegatos.
+
+IV. En todo caso, se excluirá de los efectos del proceso colectivo a los demandantes individuales que hayan participado en una acción colectiva, cuando por cualquier causa la acción colectiva quede imprejuzgada en el fondo o sin eficacia de cosa juzgada colectiva. De igual forma, los procesos individuales suspendidos en virtud de lo señalado en la fracción II de este artículo, podrán reanudarse por las mismas causas.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2014)</small>
+
+###### ARTÍCULO 709 Bis 11.
+
+Notificaciones.
+
+Las notificaciones que se hagan en el procedimiento a la parte actora se tendrán por hechas con la sola notificación al representante del organismo, asociación o grupo de que se trate, de acuerdo con las reglas señaladas en el tercer párrafo del artículo 96 de este Código.
+
+Sin perjuicio de la anterior, todas las actuaciones y resoluciones dictadas en los procedimientos colectivos a que se refiere este capítulo serán publicadas en las listas de acuerdos del juzgado o tribunal que las dicta, y los miembros no representantes de la colectividad o grupo tendrán acceso a estas.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2014)</small>
+
+###### ARTÍCULO 709 Bis 12.
+
+Obligación de informar a las partes sobre el procedimiento.
+
+Cuando la acción o solicitud sea interpuesta por una asociación o grupo de personas, éstos estarán obligados a informar a través de los medios idóneos, a los miembros de la colectividad o grupo sobre el estado que guarda el procedimiento, sin perjuicio de lo dispuesto en el Artículo 709 Bis 11 de este Código, respecto de los miembros no representantes.
+
+A juicio motivado del juzgador, cuando estime insuficiente la notificación por el representante, podrá ordenar que se practique la notificación de cada uno de los miembros, siempre que esta no resulte desproporcionadamente costosa o considere que el procedimiento ya ha tenido la suficiente publicidad.
+
+La falta de información a los miembros por parte del representante actualiza la representación inadecuada de los derechos y los intereses del grupo y de sus miembros, para los efectos del artículo 709 Bis 13. El juzgador, motivadamente, estimará conforme a su criterio si se actualiza esta situación.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2014)</small>
+
+###### ARTÍCULO 709 Bis 13.
+
+Intervención colectiva.
+
+Cualquier legitimado miembro de la colectividad podrá intervenir en el proceso colectivo en cualquier momento e instancia procesal para demostrar que la representación del apoderado común es inadecuada, o para auxiliarlo en la tutela de los derechos del grupo.
+
+Los miembros del grupo también podrán participar en el proceso colectivo como informantes, aportando pruebas, información y alegatos nuevos, en los términos del último párrafo del artículo 96 de este Código.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2014)</small>
+
+###### ARTÍCULO 709 Bis 14.
+
+Interpretación flexible.
+
+Las disposiciones de este capítulo serán interpretadas de forma abierta y flexible procurando aplicar sus disposiciones de forma compatible con la tutela colectiva de los intereses y derechos de que se trate.
+
+Se aplicarán complementariamente al proceso colectivo al que hace referencia este capítulo, las normas principios y garantías procesales civiles individuales que no sean incompatibles con el objeto y finalidad del proceso colectivo.
+
+Siempre que sea posible y necesario, las normas, principios y garantías incompatibles con el objeto y finalidad del proceso colectivo deberán ser adaptadas a las necesidades y peculiaridades de la tutela colectiva a la que hace referencia este Capítulo.
+
+### CAPÍTULO CUARTO. Juicios sobre liberación de gravámenes y servidumbres
 
 ###### ARTÍCULO 710.
 
@@ -7677,7 +7897,7 @@ Subsidiaridad de los interdictos de retener y recuperar respecto a la pretensió
 
 Las perturbaciones o despojos mediante violencia o que impliquen un daño grave e inmediato, pueden corregirse mediante interdicto, a reserva de que la decisión definitiva sobre la preservación del derecho real o de servidumbre se tramite posteriormente de acuerdo con las reglas de los artículos anteriores de este Capítulo.
 
-### CAPÍTULO SEXTO. Apeo o deslinde
+### CAPÍTULO QUINTO. Juicios sobre bienes indivisos y de división de cosa común
 
 ###### ARTÍCULO 723.
 
@@ -7701,7 +7921,7 @@ Venta de bienes que no admitan cómoda división.
 
 Siempre que fuere necesario proceder a la venta de bienes mueble (sic) o inmuebles, por no admitir éstos cómoda división, se llevará a cabo en la forma que determinen las partes si hubiere acuerdo. En caso contrario, la venta se efectuará con sujeción a las reglas de la ejecución forzosa.
 
-### CAPÍTULO PRIMERO. Juicio ejecutivo
+### CAPÍTULO SEXTO. Apeo o deslinde
 
 ###### ARTÍCULO 725.
 
@@ -7775,7 +7995,7 @@ Los gastos generales del apeo o deslinde se harán por el que lo promueva. Los q
 
 ## TÍTULO TERCERO. Juicios ejecutivos
 
-### CAPÍTULO SEGUNDO. Juicios ejecutivos sobre derechos reales
+### CAPÍTULO PRIMERO. Juicio ejecutivo
 
 ###### ARTÍCULO 730.
 
@@ -7933,7 +8153,7 @@ Cuando la demanda tenga por objeto mercaderías u otras cosas fungibles, valores
 
 Si los bienes de que habla este artículo no existen o no se encuentran en poder del deudor, la ejecución se llevará a cabo embargando otros bienes por el valor fijado.
 
-### CAPÍTULO TERCERO. Juicio hipotecario
+### CAPÍTULO SEGUNDO. Juicios ejecutivos sobre derechos reales
 
 ###### ARTÍCULO 745.
 
@@ -7975,7 +8195,7 @@ Procedimiento.
 
 Con las modificaciones que se expresan en este capítulo, los juicios se tramitarán y decidirán de acuerdo con las reglas establecidas en el Capítulo anterior.
 
-### CAPÍTULO CUARTO. Juicio de desahucio
+### CAPÍTULO TERCERO. Juicio hipotecario
 
 ###### ARTÍCULO 749.
 
@@ -8169,7 +8389,7 @@ Otras vías para reclamar créditos hipotecarios.
 
 Además de la vía hipotecaria, el crédito garantizado con hipoteca también podrá cobrarse en la vía ejecutiva o en juicio ordinario.
 
-### CAPÍTULO PRIMERO. Estando ausente el rebelde
+### CAPÍTULO CUARTO. Juicio de desahucio
 
 ###### ARTÍCULO 766.
 
@@ -8283,7 +8503,7 @@ Por causa grave justificada, como enfermedad del inquilino, o trastornos económ
 
 ## TÍTULO CUARTO. Juicios en rebeldía
 
-### CAPÍTULO SEGUNDO. Personación (sic) tardía del rebelde
+### CAPÍTULO PRIMERO. Estando ausente el rebelde
 
 ###### ARTÍCULO 778.
 
@@ -8329,7 +8549,7 @@ En el caso de que el emplazamiento al rebelde se hubiere hecho por edictos, la s
 
 En los casos de rebeldía tratándose de juicios de pérdida de patria potestad, podrá ejecutarse inmediatamente, sin la posibilidad de exhibir fianza a que se refiere el mismo.
 
-### CAPÍTULO PRIMERO. Disposiciones generales
+### CAPÍTULO SEGUNDO. Personación (sic) tardía del rebelde
 
 ###### ARTÍCULO 782.
 
@@ -8373,7 +8593,7 @@ El litigante rebelde a quien haya sido notificado personalmente el emplazamiento
 
 ## TÍTULO PRIMERO. Arbitraje privado
 
-### CAPÍTULO SEGUNDO. Del convenio arbitral y sus efectos
+### CAPÍTULO PRIMERO. Disposiciones generales
 
 ###### ARTÍCULO 788.
 
@@ -8411,7 +8631,7 @@ VI. Los divorcios, excepto en cuanto a la separación de bienes y a las demás d
 
 VII. Los demás en que lo prohíba expresamente la ley.
 
-### CAPÍTULO TERCERO. De los árbitros
+### CAPÍTULO SEGUNDO. Del convenio arbitral y sus efectos
 
 ###### ARTÍCULO 791.
 
@@ -8497,7 +8717,7 @@ El convenio arbitral obliga a las partes a estar y pasar por lo estipulado e imp
 
 Las partes podrán renunciar por convenio al arbitraje pactado, quedando expedita la vía judicial. En todo caso, se entenderá que renuncian cuando, interpuesta demanda por cualquiera de ellas, el demandado o demandados realicen, después de personados (sic) en juicio, cualquier actividad procesal que no sea proponer en forma, la defensa pertinente.
 
-### CAPÍTULO CUARTO. Del procedimiento
+### CAPÍTULO TERCERO. De los árbitros
 
 ###### ARTÍCULO 800.
 
@@ -8593,7 +8813,7 @@ Cuando haya árbitro único, las partes son libres de nombrar un secretario, y s
 
 Cuando fueren varios los árbitros, entre ellos mismos eligirán (sic) al que fungirá como secretario, sin que por esto tenga derecho a mayores emolumentos.
 
-### CAPÍTULO QUINTO. Pronunciamiento del laudo arbitral y terminación de las actuaciones
+### CAPÍTULO CUARTO. Del procedimiento
 
 ###### ARTÍCULO 811.
 
@@ -8677,7 +8897,7 @@ Alegatos en el procedimiento arbitral.
 
 Los árbitros podrán acordar, una vez practicadas las pruebas, oír en alegatos a las partes o a sus representantes.
 
-### CAPÍTULO SEXTO. De la nulidad del laudo
+### CAPÍTULO QUINTO. Pronunciamiento del laudo arbitral y terminación de las actuaciones
 
 ###### ARTÍCULO 821.
 
@@ -8799,7 +9019,7 @@ VII. Por pronunciamiento del laudo.
 
 Los árbitros cesarán en sus funciones al terminar las actuaciones arbitrales salvo lo dispuesto en los artículo (sic) 828 y 833.
 
-### CAPÍTULO SEPTIMO. De la ejecución forzosa del laudo
+### CAPÍTULO SEXTO. De la nulidad del laudo
 
 ###### ARTÍCULO 831.
 
@@ -8857,7 +9077,7 @@ La petición se formulará por escrito, acompañando copia del laudo y el juzgad
 
 Las medidas cautelares se mantendrán hasta la resolución en definitiva del juicio de nulidad.
 
-### CAPÍTULO PRIMERO. Amigable composición
+### CAPÍTULO SEPTIMO. De la ejecución forzosa del laudo
 
 ###### ARTÍCULO 835.
 
@@ -8891,7 +9111,7 @@ Para que los laudos arbitrales extranjeros sean ejecutados en el Estado, se obse
 
 ## TITULO SEGUNDO. Otros equivalentes jurisdiccionales
 
-### CAPÍTULO SEGUNDO. De la conciliación
+### CAPÍTULO PRIMERO. Amigable composición
 
 ###### ARTÍCULO 839.
 
@@ -8927,7 +9147,7 @@ El juzgador revisará de oficio, dentro de los diez días que sigan a la recepci
 
 Su fallo podrá confirmar o revocar la decisión del arbitrador. En ambos casos no se podrá impugnar la sentencia judicial por recurso ordinario.
 
-### CAPÍTULO PRIMERO. Disposiciones comunes
+### CAPÍTULO SEGUNDO. De la conciliación
 
 ###### ARTÍCULO 844.
 
@@ -8989,7 +9209,7 @@ La transacción de la controversia, que se obtenga por la vía de la conciliaci�
 
 ## TITULO PRIMERO. De los recursos
 
-### CAPÍTULO SEGUNDO. Reconsideración
+### CAPÍTULO PRIMERO. Disposiciones comunes
 
 ###### ARTÍCULO 849.
 
@@ -9089,7 +9309,7 @@ Supletoriedad normativa.
 
 Los procesos impugnativos están regulados además de las normas de este Libro, por las demás contenidas en este ordenamiento, en cuanto no sean incompatibles.
 
-### CAPÍTULO TERCERO. Apelación
+### CAPÍTULO SEGUNDO. Reconsideración
 
 ###### ARTÍCULO 861.
 
@@ -9123,7 +9343,7 @@ Carácter irrecurrible de la resolución que resuelve la reconsideración.
 
 La resolución que resuelva la reconsideración no es susceptible de ningún recurso, salvo que contenga puntos no decididos en la anterior; caso en el cual podrán interponerse los recursos pertinentes, respecto de los puntos nuevos.
 
-### CAPÍTULO CUARTO. Queja
+### CAPÍTULO TERCERO. Apelación
 
 ###### ARTÍCULO 864.
 
@@ -9441,7 +9661,7 @@ Ejecutoriedad de las sentencias definitivas de segunda instancia.
 
 Las sentencias definitivas de segunda instancia causan ejecutoria por ministerio de ley.
 
-### CAPÍTULO PRIMERO. Procedencia del juicio de nulidad
+### CAPÍTULO CUARTO. Queja
 
 ###### ARTÍCULO 886.
 
@@ -9521,7 +9741,7 @@ Si la queja no está apoyada en hechos ciertos o no estuviere fundada en derecho
 
 ## TITULO SEGUNDO. Juicio de nulidad
 
-### CAPÍTULO SEGUNDO. Sustanciación del juicio de nulidad
+### CAPÍTULO PRIMERO. Procedencia del juicio de nulidad
 
 ###### ARTÍCULO 892.
 
@@ -9559,7 +9779,7 @@ Para que pueda tenerse por interpuesta la demanda de nulidad será indispensable
 
 En caso de que lo sentenciado no haya versado sobre cuestiones patrimoniales, el tribunal, antes de admitir la demanda requerirá al demandante para que otorgue una caución que fijará prudencialmente.
 
-### CAPÍTULO TERCERO. Sentencia de nulidad de la cosa juzgada
+### CAPÍTULO SEGUNDO. Sustanciación del juicio de nulidad
 
 ###### ARTÍCULO 895.
 
@@ -9581,7 +9801,7 @@ Improcedencia de la suspensión de los efectos de la sentencia.
 
 El juicio de nulidad no suspenderá los efectos de la sentencia con fuerza de cosa juzgada que se impugne, mientras no haya recaído sentencia firme que declare la nulidad.
 
-### CAPÍTULO PRIMERO. Disposiciones comunes
+### CAPÍTULO TERCERO. Sentencia de nulidad de la cosa juzgada
 
 ###### ARTÍCULO 898.
 
@@ -9609,7 +9829,7 @@ Contra la sentencia que pone fin al juicio de nulidad de la cosa juzgada, no pro
 
 ## TITULO PRIMERO. De la ejecución forzada
 
-### CAPÍTULO SEGUNDO. Formas de ejecución
+### CAPÍTULO PRIMERO. Disposiciones comunes
 
 ###### ARTÍCULO 900.
 
@@ -9821,7 +10041,7 @@ Extensión de las normas de este libro.
 
 Lo que en este Libro se dispone respecto a ejecución de resoluciones, comprende también a las transacciones y convenios judiciales, así como a los laudos dictados en juicios arbitrales, en cuanto sus preceptos resulten aplicables, aún cuando los textos relativos no lo mencionen explícitamente.
 
-### CAPÍTULO TERCERO. Embargos
+### CAPÍTULO SEGUNDO. Formas de ejecución
 
 ###### ARTÍCULO 922.
 
@@ -10045,7 +10265,7 @@ Para la ejecución de sentencias o resoluciones judiciales que deban tener lugar
 
 La ejecución de sentencia que deban tener lugar en el extranjero, se solicitará por medio de exhorto o carta rogatoria, en los términos previstos en los tratados o convenios internacionales, en los que México sea parte o, en su defecto, en el Código Federal Procedimientos Civiles.
 
-### CAPÍTULO CUARTO. Procedimientos de enajenación, adjudicación y administración forzosa de los bienes embargados
+### CAPÍTULO TERCERO. Embargos
 
 ###### ARTÍCULO 938.
 
@@ -10521,7 +10741,7 @@ Embargos simultáneos en juicios distintos.
 
 En caso de que los ejecutores practiquen simultáneamente embargos ordenados en juicios distintos, sobre los mismos bienes; los realizaran asociados y tendrán igual preferencia, levantándose un acta para cada expediente y correspondiendo el nombramiento del depositario a los interesados en los diversos juicios si se pusieren de acuerdo; en caso contrario el nombramiento se hará bajo la responsabilidad del acreedor ejecutante en el juicio que primero se hubiere iniciado.
 
-### CAPÍTULO QUINTO. Periodo final de la ejecución forzosa
+### CAPÍTULO CUARTO. Procedimientos de enajenación, adjudicación y administración forzosa de los bienes embargados
 
 ###### ARTÍCULO 963.
 
@@ -11001,7 +11221,7 @@ Autorización judicial para gastos de ejecución.
 
 Cualquier liquidación que tenga que hacerse respecto al pago de los gravámenes que afecten a los bienes vendidos, gastos de ejecución y demás, se regulará por el juzgador con un escrito de cada parte, y resolución dentro de los tres días siguientes.
 
-### CAPÍTULO PRIMERO. Ejecución de sentencias dictadas por tribunales de otros estados y del Distrito Federal
+### CAPÍTULO QUINTO. Periodo final de la ejecución forzosa
 
 ###### ARTÍCULO 993.
 
@@ -11073,7 +11293,7 @@ En caso de que la distribución de la suma obtenida no alcanzare a cubrir el cr�
 
 ## TÍTULO SEGUNDO. Procedimiento de ejecución de sentencia de otros estados, del Distrito Federal y extranjeras
 
-### CAPÍTULO SEGUNDO. Reconocimiento y ejecución de sentencias dictadas en el extranjero
+### CAPÍTULO PRIMERO. Ejecución de sentencias dictadas por tribunales de otros estados y del Distrito Federal
 
 ###### ARTÍCULO 999.
 
@@ -11119,7 +11339,7 @@ Duplicado de exhortos.
 
 Los exhortos que se reciban deberán tramitarse por duplicado, el cual se conservará en el juzgado exhortado para constancia de las diligencias practicadas.
 
-### CAPÍTULO PRIMERO. Reglas generales
+### CAPÍTULO SEGUNDO. Reconocimiento y ejecución de sentencias dictadas en el extranjero
 
 ###### ARTÍCULO 1004.
 
@@ -11195,7 +11415,7 @@ V. Si una sentencia, laudo o resolución jurisdiccional extranjera no pudiera te
 
 ## TÍTULO PRIMERO. Juicios concursales
 
-### CAPÍTULO SEGUNDO. Reconocimiento y graduación de créditos
+### CAPÍTULO PRIMERO. Reglas generales
 
 ###### ARTÍCULO 1009.
 
@@ -11307,7 +11527,7 @@ II. Presentar dentro de los cinco días de la notificación del auto que declar�
 
 III. Se abstendrá de seguir administrando sus bienes así como de continuar cualquier otra administración que por ley le corresponda.
 
-### CAPÍTULO TERCERO. Administración del concurso
+### CAPÍTULO SEGUNDO. Reconocimiento y graduación de créditos
 
 ###### ARTÍCULO 1019.
 
@@ -11397,7 +11617,7 @@ Concurso especial entre acreedores hipotecarios.
 
 Si hubiere varios acreedores hipotecarios garantizados con los mismos bienes, podrán formar un concurso especial entre ellos, y serán pagados por el orden de fechas con que se otorgaron las hipotecas, si éstas se registraron dentro del plazo legal, o según el orden en que se hayan registrado los gravámenes, si la inscripción se hizo fuera del plazo de ley. Cuando en el concurso sólo hubiere acreedores hipotecarios, se nombrará síndico al acreedor hipotecario primero en tiempo, quien litigará en representación de los demás, observándose lo dispuesto en los artículos precedentes.
 
-### CAPÍTULO CUARTO. Deudor común
+### CAPÍTULO TERCERO. Administración del concurso
 
 ###### ARTÍCULO 1027.
 
@@ -11495,7 +11715,7 @@ El que promueva litigará a sus expensas y bajo su exclusiva responsabilidad, si
 
 Los que sostengan una misma causa, litigarán unidos bajo un representante común.
 
-### CAPÍTULO PRIMERO. Disposiciones comunes
+### CAPÍTULO CUARTO. Deudor común
 
 ###### ARTÍCULO 1038.
 
@@ -11537,7 +11757,7 @@ Esta rehabilitación se entenderá sin perjuicio de los derechos de los acreedor
 
 ## TÍTULO SEGUNDO. Juicios sucesorios
 
-### CAPÍTULO SEGUNDO. Testamentarias
+### CAPÍTULO PRIMERO. Disposiciones comunes
 
 ###### ARTÍCULO 1041.
 
@@ -11873,7 +12093,7 @@ Si el juicio esta radicado en un lugar distinto al cual estaba ubicado el últim
 
 Si el valor del activo de la sucesión no excediere de quinientas veces el salario mínimo general vigente en la capital del Estado, no se hará publicación de edictos y sólo se fijarán éstos en la tabla de avisos del Juzgado.
 
-### CAPÍTULO TERCERO. Intestados
+### CAPÍTULO SEGUNDO. Testamentarias
 
 ###### ARTÍCULO 1066.
 
@@ -12031,7 +12251,7 @@ Trámites posteriores del juicio testamentario.
 
 Una vez celebrada la audiencia a que se refiere el artículo anterior y dictadas las resoluciones que correspondan, los trámites de juicio testamentario serán los mismos que los establecidos por los artículos siguientes, respecto a las secciones de inventarios, administración y partición.
 
-### CAPÍTULO CUARTO. Inventario
+### CAPÍTULO TERCERO. Intestados
 
 ###### ARTÍCULO 1083.
 
@@ -12147,7 +12367,7 @@ Renuncia a la junta y designación del albacea.
 
 Cuando todos los interesados estén conformes o el heredero sea único, podrán renunciar a la junta y hacer por escrito la designación de albacea. El heredero único será siempre nombrado albacea.
 
-### CAPÍTULO QUINTO. Avalúo
+### CAPÍTULO CUARTO. Inventario
 
 ###### ARTÍCULO 1093.
 
@@ -12225,7 +12445,7 @@ El inventario perjudica a los que lo hicieron y a los que lo aprobaron.
 
 Aprobado el inventario por el juzgador o por el consentimiento de todos los interesados, no podrá reformarse sino por error o dolo declarados por sentencia definitiva pronunciada en juicio; pero siempre se entenderá aprobado con la reserva de que si aparecieren nuevos bienes o deudas, se agreguen como corresponda.
 
-### CAPÍTULO SEXTO. Administración
+### CAPÍTULO QUINTO. Avalúo
 
 ###### ARTÍCULO 1101.
 
@@ -12267,7 +12487,7 @@ Oposición del avalúo.
 
 La oposición a los avalúos se tramitará conforme a las reglas establecidas en el artículo 1098.
 
-### CAPÍTULO SEPTIMO. Liquidación y partición de la herencia
+### CAPÍTULO SEXTO. Administración
 
 ###### ARTÍCULO 1105.
 
@@ -12367,7 +12587,7 @@ VIII. Si todos los interesados aprobaren la cuenta, o no la impugnaren, el juzga
 
 IX. El auto que apruebe o repruebe la cuenta será apelable en el efecto devolutivo.
 
-### CAPÍTULO OCTAVO. Juicio sucesorio especial
+### CAPÍTULO SEPTIMO. Liquidación y partición de la herencia
 
 ###### ARTÍCULO 1111.
 
@@ -12495,7 +12715,7 @@ Apelación de la sentencia de partición.
 
 La sentencia que apruebe o repruebe la partición es apelable en el efecto suspensivo.
 
-### CAPÍTULO NOVENO. Transmisión hereditaria del patrimonio familiar
+### CAPÍTULO OCTAVO. Juicio sucesorio especial
 
 ###### ARTÍCULO 1122.
 
@@ -12531,7 +12751,7 @@ Normas supletorias del juicio sucesorio especial.
 
 Los preceptos de este Título podrán aplicarse supletoriamente en el trámite de los juicios sucesorios especiales, cuando ello fuere necesario.
 
-### CAPÍTULO DÉCIMO. Tramitación extrajudicial ante notarios
+### CAPÍTULO NOVENO. Transmisión hereditaria del patrimonio familiar
 
 ###### ARTÍCULO 1124.
 
@@ -12559,17 +12779,7 @@ VI. El acta o actas en que consten las adjudicaciones servirán de título a los
 
 VII. La transmisión de los bienes del patrimonio familiar estará exenta de impuestos, cualquiera que sea su naturaleza.
 
-### CAPÍTULO PRIMERO. Disposiciones generales
-
-ARTÍCULO 1135
-
-Procedimientos judiciales sin litigio.
-
-Los procedimientos sin litigio comprenden todos los actos en que por disposición de la Ley o por solicitud de los interesados se requiere la intervención del juzgador, sin que esté promovida ni se promueva cuestión alguna entre partes determinadas.
-
-Los procedimientos sin litigio podrán tramitarse también ante notario con sujeción a las disposiciones de este código, excepción hecha de los casos en los que en él o en otras leyes o en tratados o convenciones internacionales se requiera la intervención de la autoridad judicial o de cualquier otra clase de autoridades o de aquellos otros que deban iniciarse mediante la presentación de una demanda, independientemente de que exista o no controversia.
-
-Los notarios que hayan intervenido en el nombramiento de un tutor o hayan autorizado a los representantes legítimos de un menor para que enajenen bienes inmuebles o muebles preciosos que les pertenezcan, no podrán tomar a su cargo la escrituración de negocios jurídicos en los que deba intervenir el tutor nombrado o deba hacerse efectiva la autorización concedida.
+### CAPÍTULO DÉCIMO. Tramitación extrajudicial ante notarios
 
 ###### ARTÍCULO 1126.
 
@@ -12673,7 +12883,17 @@ Si fuere menester rendir alguna información supletoria, los testigos declarará
 
 ## TÍTULO UNICO. Negocios no contenciosos promovidos en la vía judicial
 
-### CAPÍTULO SEGUNDO. Informaciones a perpetua memoria
+### CAPÍTULO PRIMERO. Disposiciones generales
+
+ARTÍCULO 1135
+
+Procedimientos judiciales sin litigio.
+
+Los procedimientos sin litigio comprenden todos los actos en que por disposición de la Ley o por solicitud de los interesados se requiere la intervención del juzgador, sin que esté promovida ni se promueva cuestión alguna entre partes determinadas.
+
+Los procedimientos sin litigio podrán tramitarse también ante notario con sujeción a las disposiciones de este código, excepción hecha de los casos en los que en él o en otras leyes o en tratados o convenciones internacionales se requiera la intervención de la autoridad judicial o de cualquier otra clase de autoridades o de aquellos otros que deban iniciarse mediante la presentación de una demanda, independientemente de que exista o no controversia.
+
+Los notarios que hayan intervenido en el nombramiento de un tutor o hayan autorizado a los representantes legítimos de un menor para que enajenen bienes inmuebles o muebles preciosos que les pertenezcan, no podrán tomar a su cargo la escrituración de negocios jurídicos en los que deba intervenir el tutor nombrado o deba hacerse efectiva la autorización concedida.
 
 ###### ARTÍCULO 1136.
 
@@ -12795,29 +13015,7 @@ Carácter supletorio de las normas de este CAPÍTULO respecto a todos los proced
 
 Son extensivas a los procedimientos sin litigio que se regulan en este código, las disposiciones contenidas en los artículos precedentes en cuanto no se opongan a lo que se ordena respecto a cada uno de ellos.
 
-### CAPÍTULO TERCERO. Intervención judicial en otros negocios no contenciosos
-
-ARTÍCULO 1157
-
-Regulación de varios procedimientos judiciales no contenciosos.
-
-También se tramitarán en procedimientos judiciales no contenciosos:
-
-I. La solicitud que tenga por objeto la protocolización de instrumentos públicos procedentes del extranjero.
-
-II. Los demás actos que determinen las leyes.
-
-ARTÍCULO 1158
-
-Cotejo de documentos en idioma extranjero.
-
-El juzgador queda facultado para hacer cotejar documentos redactados en idioma distinto del español por el perito oficial que designe, o aceptar traducciones oficiales, o las hechas por traductor autorizado.
-
-ARTÍCULO 1159
-
-Aplicación de normas de otros capítulos y leyes respectivas en procedimientos no contenciosos.
-
-Para tramitar los asuntos que no suponen jurisdicción contenciosa, se estará a lo que particularmente establecen como requisito especial las leyes respectivas, y en lo demás, con arreglo a las disposiciones de este Título.
+### CAPÍTULO SEGUNDO. Informaciones a perpetua memoria
 
 ###### ARTÍCULO 1150.
 
@@ -12873,13 +13071,35 @@ Informaciones posesorias.
 
 Las informaciones posesorias para inscribir algún derecho real sobre bienes inmuebles, se practicarán con sujeción a las reglas establecidas en los artículos 699 y 701 de este código.
 
-### CAPÍTULO PRIMERO. Reglas generales
+### CAPÍTULO TERCERO. Intervención judicial en otros negocios no contenciosos
+
+ARTÍCULO 1157
+
+Regulación de varios procedimientos judiciales no contenciosos.
+
+También se tramitarán en procedimientos judiciales no contenciosos:
+
+I. La solicitud que tenga por objeto la protocolización de instrumentos públicos procedentes del extranjero.
+
+II. Los demás actos que determinen las leyes.
+
+ARTÍCULO 1158
+
+Cotejo de documentos en idioma extranjero.
+
+El juzgador queda facultado para hacer cotejar documentos redactados en idioma distinto del español por el perito oficial que designe, o aceptar traducciones oficiales, o las hechas por traductor autorizado.
+
+ARTÍCULO 1159
+
+Aplicación de normas de otros capítulos y leyes respectivas en procedimientos no contenciosos.
+
+Para tramitar los asuntos que no suponen jurisdicción contenciosa, se estará a lo que particularmente establecen como requisito especial las leyes respectivas, y en lo demás, con arreglo a las disposiciones de este Título.
 
 # LIBRO DECIMO. Procesos menores
 
 ## TÍTULO UNICO. Del procedimiento en los negocios de la competencia de los juzgados letrados y de los de conciliación
 
-### CAPÍTULO SEGUNDO. Competencia objetiva y subjetiva
+### CAPÍTULO PRIMERO. Reglas generales
 
 ###### ARTÍCULO 1160.
 
@@ -12931,7 +13151,7 @@ Normas complementarias.
 
 Las disposiciones relativas al juicio ordinario podrán aplicarse a los procesos menores como supletorias, pero en su aplicación el juzgador deberá tener en cuenta la naturaleza de estos, para no desvirtuarlos en ningún caso.
 
-### CAPÍTULO TERCERO. Preliminares de los procedimientos ante los jueces letrados y de conciliación
+### CAPÍTULO SEGUNDO. Competencia objetiva y subjetiva
 
 ###### ARTÍCULO 1168.
 
@@ -12983,7 +13203,7 @@ Las recusaciones de los secretarios de los juzgados se substanciarán en la form
 
 Si se declara improcedente o no probada la causa de recusación, se impondrá al recusante la sanción de multa que establece el artículo 81.
 
-### CAPÍTULO CUARTO. Procedimiento ante los jueces letrados
+### CAPÍTULO TERCERO. Preliminares de los procedimientos ante los jueces letrados y de conciliación
 
 ###### ARTÍCULO 1175.
 
@@ -13067,7 +13287,7 @@ No será necesaria la identificación aunque se trate de personas desconocidas, 
 
 El que se presente como actor o como demandado usando el nombre de otro para hacerse pasar por él, se considerará como falsario, y quedará sujeto a las sanciones que determine el Código Penal.
 
-### CAPÍTULO QUINTO. Ejecución de las sentencias dictadas por los jueces letrados
+### CAPÍTULO CUARTO. Procedimiento ante los jueces letrados
 
 ###### ARTÍCULO 1182.
 
@@ -13135,7 +13355,7 @@ Contra las resoluciones pronunciadas por los jueces letrados procederá el recur
 
 La sustanciación de la apelación se regirá por el procedimiento establecido para la de los autos.
 
-### CAPÍTULO SEXTO. Incidentes en los procesos menores
+### CAPÍTULO QUINTO. Ejecución de las sentencias dictadas por los jueces letrados
 
 ###### ARTÍCULO 1189.
 
@@ -13193,7 +13413,7 @@ El tercero que considere perjudicados sus derechos al ejecutarse la sentencia, o
 
 Cuando el interés de la tercería exceda del que la ley someta a la jurisdicción de los jueces letrados, será aplicable lo que a este respecto dispone el artículo 43.
 
-### CAPÍTULO SÉPTIMO. Procedimiento ante los jueces de conciliación
+### CAPÍTULO SEXTO. Incidentes en los procesos menores
 
 ###### ARTÍCULO 1195.
 
@@ -13212,6 +13432,8 @@ La conexidad sólo procederá cuando se trate de juicios que se sigan ante un mi
 Nulidad de actuaciones.
 
 Las promociones de nulidad de actuaciones por falta o defecto de citación o notificación, o por defectos y omisiones procesales, serán resueltas de plano por el juzgador, sin formar artículo ni suspender el procedimiento.
+
+### CAPÍTULO SÉPTIMO. Procedimiento ante los jueces de conciliación
 
 ###### ARTÍCULO 1198.
 
@@ -13504,3 +13726,13 @@ SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
 P.O. 16 DE SEPTIEMBRE DE 2014.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su Publicación en el Periódico oficial del Estado.
+
+P.O. 21 DE OCTUBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
