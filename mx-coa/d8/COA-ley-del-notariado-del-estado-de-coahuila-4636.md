@@ -4,7 +4,7 @@ identifier: "COA-ley-del-notariado-del-estado-de-coahuila-4636"
 country: "mx"
 rank: "ley"
 publication_date: "1979-02-06"
-last_updated: "2014-07-11"
+last_updated: "2014-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4636&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL NOTARIADO DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 6 de febrero de 1979.
 
@@ -166,6 +166,26 @@ XIV.- Intervenir en la tramitación extrajudicial de sucesiones testamentarias e
 XV.- Presentar al usuario de los servicios notariales un presupuesto detallado del monto de los impuestos, derechos y honorarios que se causarán con motivo del acto o negocio jurídico a formalizar, conforme a las leyes de carácter fiscal Federal, Estatal y Municipales, y del Arancel de los Notarios vigentes al momento de la solicitud de los servicios; así como a informar del tiempo estimado para la conclusión del trámite solicitado, conforme a los plazos establecidos en las leyes que resulten aplicables a dicho trámite; y
 
 XVI.- Las demás que establezcan las leyes.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2014)</small>
+
+ARTICULO 9o BIS.- Son obligaciones de los notarios, en materia de transparencia, las siguientes:
+
+I. Difundir su nombre, domicilio, teléfono oficial y número de fiat notarial;
+
+II. Publicar los servicios que ofrece y su costo;
+
+III. Divulgar la plantilla de personal y tipo de seguridad social que se le ofrece;
+
+IV. Publicar los índices de protocolo;
+
+V. Difundir las versiones públicas de las actas fuera de protocolo;
+
+VI. Divulgar la relación de cursos o programas de actualización o capacitación que se realicen y los que se ofrezca al personal;
+
+VII. Un listado con el número de recepción o de identificación que entregue la autoridad fiscal, de aquellas retenciones enteradas ante la misma; y
+
+VIII. Las demás que establezcan las leyes en materia de Transparencia y Acceso a la Información.
 
 ### CAPITULO SEGUNDO. DEL PROTOCOLO
 
@@ -355,7 +375,7 @@ En los casos de protestas, interpelaciones, requerimientos y demás diligencias 
 
 XVI.- Si las partes quisieren hacer alguna adición o modificación antes de que firme el Notario, se asentarán aquellas, sin dejar espacio en blanco, mediante declaración de que se leyeron, la cual será suscrita por los interesados y el Notario, quien sellará al pie la adición o variación verificada;
 
-XVII.- Los espacios en blanco que puedan quedar antes de las firmas en las actas notariales, deberán ser llenadas con líneas de tinta;
+XVII.- Los espacios en blanco que puedan quedar antes de las firmas en las actas notariales, deberán ser llenadas (sic) con líneas de tinta;
 
 > <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2006)</small>
 
@@ -559,7 +579,7 @@ Está prohibido a los Notarios consignar revocaciones, aclaraciones, rescisiones
 
 ###### ARTICULO 57.
 
-En las escrituras que importen transmisión, creación, modificación o extinción de derechos reales, el Notario, deberá exigir la exhibición de los testimonios de las escrituras públicas o de los documentos privados que acreditan los derechos de los otorgantes y una vez autorizado el acto, anotará al calce de los documentos exhibidos una razón que contenga la descripción suscinta del acto otorgado, en relación con tales derechos. De la misma manera anotará los documentos que se exhiban en caso de substitución, delegación o revocación de poderes o de rescisión o modificación de arrendamientos y otros actos jurídicos de tracto sucesivo.
+En las escrituras que importen transmisión, creación, modificación o extinción de derechos reales, el Notario, deberá exigir la exhibición de los testimonios de las escrituras públicas o de los documentos privados que acreditan los derechos de los otorgantes y una vez autorizado el acto, anotará al calce de los documentos exhibidos una razón que contenga la descripción suscinta (sic) del acto otorgado, en relación con tales derechos. De la misma manera anotará los documentos que se exhiban en caso de substitución, delegación o revocación de poderes o de rescisión o modificación de arrendamientos y otros actos jurídicos de tracto sucesivo.
 
 ###### ARTICULO 58.
 
@@ -751,7 +771,7 @@ Declarada la procedencia de la solicitud el Ejecutivo del Estado, señalará loc
 
 ###### ARTICULO 81.
 
-El jurado que lleve a cabo el examen se compondrá de 5 sinodales que serán: Un Representante del Ejecutivo, que deberá ser Licenciado en Derecho y de preferencia Notario, el cual fungirá como Presidente del jurado; el Presidente del Supremo Tribunal del Justicia; el Presidente del Consejo de Notarios; el Director del Archivo de Notarías y un representante de Colegio de Notarios. El Secretario del jurado será designado de entre los cuatro sinodales restantes por mayoría de votos. Los sinodales no podrán abstenerse de votar.
+El jurado que lleve a cabo el examen se compondrá de 5 sinodales que serán: Un Representante del Ejecutivo, que deberá ser Licenciado en Derecho y de preferencia Notario, el cual fungirá como Presidente del jurado; el Presidente del Supremo Tribunal del (sic) Justicia; el Presidente del Consejo de Notarios; el Director del Archivo de Notarías y un representante de Colegio de Notarios. El Secretario del jurado será designado de entre los cuatro sinodales restantes por mayoría de votos. Los sinodales no podrán abstenerse de votar.
 
 ###### ARTICULO 82.
 
@@ -789,7 +809,7 @@ No podrán considerarse como aspirante a Notario los Jueces que por ministerio d
 
 ### CAPITULO CUARTO. DEL NOMBRAMIENTO DE LOS NOTARIOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 1980)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 1980)</small>
 
 ###### ARTICULO 90.
 
@@ -937,7 +957,7 @@ El Notario de número tiene derecho de proponer al Ejecutivo del Estado el nombr
 
 El Notario podrá interrumpir el uso de la licencia concedida reintegrándose al ejercicio del cargo y proseguir después el disfrute de aquélla por el tiempo que restare, con tal que la interrupción no exceda de la mitad del plazo concedido. La interrupción deberá comunicarse a las Autoridades mencionadas en el artículo 110 de esta Ley y publicarse en los términos de la misma disposición legal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 1980)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 1980)</small>
 
 ###### ARTICULO 113.
 
@@ -1215,7 +1235,7 @@ Las visitas ordinarias se practicarán por orden del Secretario de Gobierno y se
 
 ## TITULO QUINTO
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE OCTUBRE DE 1980)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE OCTUBRE DE 1980)</small>
 
 ### CAPITULO UNICO. DE LA DIRECCION DE NOTARIAS
 
@@ -1814,3 +1834,7 @@ Se derogan las disposiciones contrarias al presente decreto.
 ###### ARTÍCULO TERCERO.
 
 Se aplicará de manera supletoria lo establecido en la Ley del Procedimiento Administrativo, Código Civil y Código Procesal Civil del Estado de Coahuila de Zaragoza.
+
+P.O. 21 DE OCTUBRE DE 2014.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza y la aplicación de lo que se dispone en el mismo, se hará conforme al plazo establecido en el Transitorio Séptimo de la Ley de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Coahuila de Zaragoza, con relación al Artículo 46 del propio ordenamiento, publicado en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza el 26 de agosto de 2014.
