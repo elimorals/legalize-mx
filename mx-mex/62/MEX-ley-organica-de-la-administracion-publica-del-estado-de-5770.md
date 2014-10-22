@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2014-10-16"
+last_updated: "2014-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE OCTUBRE DE 2014.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -75,9 +75,11 @@ Todas las leyes, decretos, reglamentos y demás disposiciones que el Gobernador 
 
 El Gobernador del Estado expedirá los Reglamentos Interiores, los Acuerdos, Circulares y otras disposiciones que tiendan a regular el funcionamiento de las dependencias del Ejecutivo y autorizará la expedición de los manuales administrativos.
 
+> <small>(REFORMADO, G.G. 22 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 9.
 
-El Gobernador del Estado podrá nombrar y remover libremente a los funcionarios y empleados del Poder Ejecutivo, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución Política o en las Leyes del Estado.
+El Gobernador del Estado, al nombrar y remover libremente a los funcionarios y empleados del Poder Ejecutivo, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución Política o en las Leyes del Estado, favorecerá el principio de igualdad y equidad de género.
 
 > <small>(REFORMADO, G.G. 19 DE OCTUBRE DE 1992)</small>
 
@@ -101,9 +103,11 @@ El Ejecutivo del Estado por conducto de la SECRETARIA GENERAL DE GOBIERNO, resol
 
 ### CAPITULO SEGUNDO. De las Dependencias del Ejecutivo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 13.
 
-Las dependencias del Ejecutivo y los organismos auxiliares a que se refiere el artículo 45 de esta Ley, deberán conducir sus actividades en forma programada y con base en las políticas, prioridades y restricciones que establezca el Gobierno del Estado, para el logro de los objetivos y metas de los planes de Gobierno.
+Las dependencias del Ejecutivo y los organismos auxiliares a que se refiere el artículo 45 de esta Ley, deberán conducir sus actividades bajo el principio de igualdad y equidad de género, en forma programada y con base en las políticas, prioridades y restricciones que establezca el Gobierno del Estado, para el logro de los objetivos y metas de los planes de Gobierno.
 
 > <small>(ADICIONADO, G.G. 6 DE MARZO DE 2010)</small>
 
@@ -2516,3 +2520,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO CUARTO.
 
 Se derogan las disposiciones legales de igual o menor jerarquía que sean contrarias a lo establecido en este Decreto.
+
+G.G. 22 DE OCTUBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
