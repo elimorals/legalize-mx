@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-fomento-para-el-desarrollo-forestal-sustentable-del-3974
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-22"
-last_updated: "2012-02-04"
+last_updated: "2014-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39747&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2014.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 22 de mayo de 2004.
 
@@ -49,9 +49,11 @@ LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE CHIHUAHUA
 
 ### CAPÍTULO I. Del Objeto y Aplicación de la Ley
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2014)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público e interés social y tiene por objeto establecer los lineamientos generales para la conservación, protección, restauración, producción, manejo y aprovechamiento de los ecosistemas forestales en el Estado de Chihuahua y sus Municipios.
+La presente Ley es de orden público e interés social y tiene por objeto establecer los lineamientos generales para la conservación, protección, restauración, producción, manejo y aprovechamiento sustentable de los ecosistemas forestales en el Estado de Chihuahua y sus Municipios.
 
 ###### ARTÍCULO 2.
 
@@ -609,7 +611,7 @@ Los interesados en el cambio de uso de suelo de terrenos forestales deberán acr
 
 ### CAPÍTULO V. De la Sanidad Forestal
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 48.
 
@@ -939,7 +941,7 @@ Cuando se imponga alguna o algunas de las medidas de seguridad previstas en el a
 
 Además de las consideradas en la Ley General, se consideran infracciones a esta Ley, las siguientes:
 
-I. Cambiar el medio de trasporte (sic) al movilizar materias primas forestales, sin autorización de la dependencia oficial correspondiente.
+I. Cambiar el medio de trasporte al movilizar materias primas forestales, sin autorización de la dependencia oficial correspondiente.
 
 II. Cambiar de domicilio o de giro los centros de transformación, almacenamiento o depósito de productos forestales, modificar o adicionar maquinaria, modificar o cambiar la fuente de abastecimiento, sin la autorización correspondiente.
 
@@ -1007,7 +1009,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. SERGIO ANTONIO MARTÍNEZ GARZA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 20 DE NOVIEMBRE DE 2010.
 
@@ -1016,6 +1018,12 @@ P.O. 20 DE NOVIEMBRE DE 2010.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 4 DE FEBRERO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE OCTUBRE DE 2014.
 
 ###### ARTÍCULO ÚNICO.
 
