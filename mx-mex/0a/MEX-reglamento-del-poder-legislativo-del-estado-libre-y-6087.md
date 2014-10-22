@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2014-08-08"
+last_updated: "2014-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE OCTUBRE DE 2014.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -319,7 +319,9 @@ e) Los de coordinación de seguridad pública entre el Estado y municipios; y
 
 f) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
 
-XVI. La Comisión de Asuntos Electorales, conocerá de los temas siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE OCTUBRE DE 2014)</small>
+
+XVI. La Comisión Electoral y de Desarrollo Democrático, conocerá de los temas siguientes:
 
 a) De reformas y adiciones a la Constitución del Estado, al Código Electoral y demás Leyes en materia electoral;
 
@@ -1697,7 +1699,7 @@ I.- Instaurar y llevar a cabo el procedimiento administrativo previsto por la Le
 
 II.- Conocer de las responsabilidades administrativas y hacer efectivas las sanciones que correspondan, cuando así lo acuerde la Junta de Coordinación Política;
 
-> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
 
 III.- Ejecutar, por acuerdo de la Junta de Coordinación Política, y en su caso, verificar se hagan efectivas las sanciones administrativas impuestas a los miembros de los ayuntamientos de los municipios de la entidad, en términos de las leyes respectivas;
 
@@ -2420,3 +2422,11 @@ G.G. 8 DE AGOSTO DE 2014.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 22 DE OCTUBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Cuando se haga referencia en disposiciones legales o administrativas a la Comisión Legislativa de Asuntos Electorales, se entenderá que corresponde a la Comisión Legislativa Electoral y de Desarrollo Democrático.
