@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ganaderia-para-el-estado-de-chihuahua-73731"
 country: "mx"
 rank: "ley"
 publication_date: "2010-02-27"
-last_updated: "2014-05-10"
+last_updated: "2014-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE GANADERÍA PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2014.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de febrero de 2010.
 
@@ -59,7 +59,9 @@ I.- La planeación y fomento de las actividades pecuarias en todas sus modalidad
 
 II.- El establecimiento de las formas y los procedimientos para adquirir, proteger y transmitir la propiedad del ganado;
 
-III.- La protección, conservación, mejoramiento y explotación racional de los recursos naturales relacionados con las actividades pecuarias, y de la flora y fauna de interés cinegético, y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2014)</small>
+
+III. La protección, conservación, mejoramiento y aprovechamiento sustentable de los recursos naturales relacionados con las actividades pecuarias, y de la flora y fauna de interés cinegético, y
 
 IV.- El cumplimiento de las disposiciones sanitarias, derivadas de la normatividad federal aplicable.
 
@@ -219,9 +221,17 @@ V.- Promover el mejoramiento de la calidad genética del ganado;
 
 VI.- Promover la conservación y mejoramiento de las tierras de agostadero;
 
-VII.- Celebrar convenios o acuerdos de coordinación con la Federación y los ayuntamientos para la realización de acciones conjuntas en materia de protección de la sanidad pecuaria en el Estado, y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2014)</small>
 
-VIII.- Las demás que le confiere esta Ley y su Reglamento.
+VII.- Celebrar convenios o acuerdos de coordinación con la Federación y los ayuntamientos para la realización de acciones conjuntas en materia de protección de la sanidad pecuaria en el Estado.
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2014)</small>
+
+VIII.- Fomentar el estímulo y la promoción de técnicas de manejo sustentable de los recursos naturales en el desarrollo de las actividades pecuarias en la Entidad.
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2014)</small>
+
+IX.- Las demás que le confiere esta Ley y su Reglamento.
 
 ###### Artículo 5.
 
@@ -1115,13 +1125,17 @@ En todo programa o acción sanitaria que emprenda la Secretaría, podrá tomar e
 
 ## TÍTULO SEXTO. DE LA CONSERVACIÓN Y APROVECHAMIENTO SUSTENTABLE DE LA FLORA Y FAUNA
 
-### CAPÍTULO I. DE LA CONSERVACIÓN Y APROVECHAMIENTO DE LOS PASTIZALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE OCTUBRE DE 2014)</small>
+
+### CAPÍTULO I. DE LA CONSERVACIÓN Y APROVECHAMIENTO SUSTENTABLE DE LOS PASTIZALES
 
 ###### Artículo 143.
 
 Se considera de interés público:
 
-I.- El manejo racional, la utilización adecuada y la conservación de los recursos naturales relacionados con la ganadería;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2014)</small>
+
+I.- La conservación y aprovechamiento sustentable de los recursos naturales relacionados con la ganadería;
 
 II.- El cumplimiento de la carga animal óptima;
 
@@ -1131,13 +1145,17 @@ IV.- El mejoramiento de los pastizales deteriorados, incluyendo el control de la
 
 V.- Las obras, trabajos y construcciones para la conservación del suelo y el agua;
 
-VI.- El fomento de la educación y de la investigación sobre la importancia, valor y conservación de los recursos naturales de los pastizales, así como la divulgación adecuada de los resultados obtenidos, y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2014)</small>
+
+VI. El fomento de la educación ambiental, la transferencia de tecnología y de la investigación sobre la importancia, valor y conservación de los recursos naturales de los pastizales, así como la divulgación adecuada de los resultados obtenidos, y
 
 VII.- La conservación y fomento de la fauna de interés cinegético con el objeto de mantener el equilibrio del ecosistema.
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 144.
 
-Los ganaderos que tengan en explotación pastizales naturales, deberán observar los coeficientes de agostadero que establezca la autoridad competente.
+Los ganaderos que tengan en explotación pastizales naturales, deberán observar los coeficientes de agostadero que establezca la autoridad competente y permitir la recuperación de los recursos forrajeros de tal forma que no se elimine su cobertura; garantizando el balance de la producción ganadera con la protección y conservación del hábitat de las especies de fauna silvestre nativas.
 
 ###### Artículo 145.
 
@@ -1487,7 +1505,7 @@ II.- Transporten ganado, sus productos y subproductos, sin la documentación en 
 
 III.- Introduzcan al Estado, ganado por vías de comunicación en las cuales no existan casetas de inspección ganadera o estaciones cuarentenarias.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 213.
 
@@ -1609,7 +1627,7 @@ En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veintidós día
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JOSÉ REYES BAEZA TERRAZAS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. LIC. SERGIO GRANADOS PINEDA Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 25 DE SEPTIEMBRE DE 2010.
 
@@ -1662,6 +1680,12 @@ P.O. 8 DE OCTUBRE DE 2011.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 10 DE MAYO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE OCTUBRE DE 2014
 
 ###### ARTÍCULO ÚNICO.
 
