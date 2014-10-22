@@ -4,7 +4,7 @@ identifier: "MOR-estatuto-organico-de-la-comision-estatal-de-reservas-70809"
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-11-04"
-last_updated: "2009-11-04"
+last_updated: "2014-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # ESTATUTO ORGANICO DE LA COMISION ESTATAL DE RESERVAS TERRITORIALES
 
-ESTATUTO ORGANICO DE LA COMISION ESTATAL DE RESERVAS TERRITORIALES
+ESTATUTO ORGÁNICO DE LA COMISIÓN ESTATAL DE RESERVAS TERRITORIALES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA TERCERA DEL ESTATUTO ORGÁNICO DE LA COMISIÓN ESTATAL DE RESERVAS TERRITORIALES, PUBLICADO EN EL P.O. DE 22 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2014 (ABROGADO).
 
 Estatuto publicado en el Periódico Oficial del Estado de Morelos, el miércoles 4 de noviembre de 2009.
 
@@ -31,7 +33,7 @@ Al margen izquierdo un sello con el Escudo del Estado de Morelos que dice: "Tier
 
 MARCO ANTONIO ADAME CASTILLO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIEREN LOS ARTÍCULOS 70 FRACCIONES XVII Y XXVI DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, Y 2, 4, Y 8 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS; Y
 
-CONSIDERANDO.
+CONSIDERANDO...
 
 Por lo anteriormente expuesto y fundado, tengo bien a expedir el siguiente:
 
@@ -372,3 +374,19 @@ EL ENCARGADO DE DESPACHO DE LA DIRECCIÓN GENERAL DE LA COMISIÓN ESTATAL DE RES
 C. CARLOS GÓMEZ LINARES.
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE OCTUBRE DE 2014.
+
+PRIMERA. El presente Estatuto Orgánico, iniciará su vigencia a los dos días hábiles siguientes de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDA. Inscríbase el presente Estatuto Orgánico en el Registro Público de los Organismos Descentralizados del Estado de Morelos, en cumplimiento a lo dispuesto en los artículos 78, penúltimo párrafo, y 86, fracción II, de la Ley Orgánica de la Administración Pública del Estado de Morelos.
+
+TERCERA. Se abroga el Estatuto Orgánico de la Comisión Estatal de Reservas Territoriales, publicado en el Periódico Oficial "Tierra y Libertad", número 4753, el cuatro de noviembre de 2009, y se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Estatuto Orgánico.
+
+CUARTA. Dentro de un plazo de sesenta días hábiles, contados a partir de la publicación del presente Estatuto Orgánico, se deberán expedir los Manuales Administrativos, en tanto sucede esto, se mantendrán vigentes los actuales, en lo que no se opongan al presente instrumento, con la aplicación por cada Unidad Administrativa, según su ámbito de competencia.
+
+QUINTA. De conformidad con lo dispuesto en los artículos 21, fracción XXX, de la Ley Orgánica de la Administración Pública del Estado de Morelos; y en los artículos 6, fracción XXXV, y 24, fracción I, del Reglamento Interior de la Secretaría de Gobierno; la Comisión Estatal de Reservas Territoriales, dentro del plazo de dos días hábiles a que hace referencia la Disposición Primera Transitoria para la entrada en vigor del presente instrumento, debe informar a la citada Secretaría de Gobierno, los cambios de denominación de las unidades administrativas de aquella, sufridos en virtud de este instrumento, así como registrar conforme a los formatos que expida la Dirección General Jurídica de la Secretaría de Gobierno, las firmas autógrafas de los funcionarios y servidores públicos titulares de las mismas y los sellos correspondientes, para los efectos legales y administrativos a que haya lugar.
+
+SEXTA. Dentro del plazo a que se refiere la Disposición Transitoria que antecede, la Comisión Estatal de Reservas Territoriales, deberá realizar los trámites correspondientes para la identificación y asignación de plazas, así como para la expedición de los nombramientos respectivos por parte de la autoridad competente.
