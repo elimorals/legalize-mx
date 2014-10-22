@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2014-08-18"
+last_updated: "2014-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE OCTUBRE DE 2014.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -501,7 +501,7 @@ El Ayuntamiento brindará las facilidades necesarias a fin de que se lleve a cab
 
 ###### Artículo 19.
 
-A las nueve horas del día 1 de enero del año inmediato siguiente a aquel en que se hayan efectuado las elecciones municipales, el ayuntamiento saliente dará posesión de las oficinas municipales a los miembros del ayuntamiento entrante, que hubieren rendido la protesta de ley, cuyo presidente municipal hará la siguiente declaratoria formal y solemne: "Queda legítimamente instalado el ayuntamiento del municipio de ..., que deberá funcionar durante los años de ...".
+A las nueve horas del día 1 de enero del año inmediato siguiente a aquel en que se hayan efectuado las elecciones municipales, el ayuntamiento saliente dará posesión de las oficinas municipales a los miembros del ayuntamiento entrante, que hubieren rendido la protesta de ley, cuyo presidente municipal hará la siguiente declaratoria formal y solemne: "Queda legítimamente instalado el ayuntamiento del municipio de..., que deberá funcionar durante los años de...".
 
 > <small>(ADICIONADO, G.G. 16 DE AGOSTO DE 2011)</small>
 
@@ -1075,7 +1075,9 @@ IV. Asumir la representación jurídica del Municipio y del ayuntamiento, así c
 
 V. Convocar a sesiones ordinarias y extraordinarias a los integrantes del ayuntamiento;
 
-VI. Proponer al ayuntamiento los nombramientos de secretario, tesorero y titulares de las dependencias y organismos auxiliares de la administración pública municipal;
+> <small>(REFORMADA, G.G. 22 DE OCTUBRE DE 2014)</small>
+
+VI. Proponer al ayuntamiento los nombramientos de secretario, tesorero y titulares de las dependencias y organismos auxiliares de la administración pública municipal, favoreciendo para tal efecto el principio de igualdad y equidad de género;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 22 DE FEBRERO DE 2013)</small>
 
@@ -2279,9 +2281,9 @@ VIII. Seguridad pública y tránsito;
 
 IX. Embellecimiento y conservación de los poblados, centros urbanos y obras de interés social;
 
-> <small>(REFORMADA, G.G. 11 DE DICIEMBRE DEL 2002)</small>
+> <small>(REFORMADA, G.G. 22 DE OCTUBRE DE 2014)</small>
 
-X. Asistencia social en el ámbito de su competencia, y atención para el desarrollo integral de la mujer, para lograr su incorporación plena y activa en todos los ámbitos;
+X. Asistencia social en el ámbito de su competencia, atención para el desarrollo integral de la mujer y grupos vulnerables, para lograr su incorporación plena y activa en todos los ámbitos;
 
 XI. De empleo.
 
@@ -4106,3 +4108,9 @@ G.G. 18 DE AGOSTO DE 2014.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 22 DE OCTUBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
