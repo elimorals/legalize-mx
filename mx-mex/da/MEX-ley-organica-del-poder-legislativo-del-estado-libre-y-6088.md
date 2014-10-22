@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2014-08-08"
+last_updated: "2014-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE OCTUBRE DE 2014.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -763,7 +763,7 @@ IX.- Conocer y resolver sobre las responsabilidades administrativas en que incur
 
 > <small>(REFORMADA Y REUBICADA, G.G. 21 DE JULIO DE 2006)</small>
 
-X.- Conocer y resolver sobre las responsabilidades administrativas en que incurra cualquier servidor público del Poder Legislativo y los integrantes de los ayuntamientos de los municipios de la entidad, por el incumplimiento de las obligaciones que señala la ley de la materia, delegando la facultad a los diputados Presidente y Secretario de la Junta de Coordinación Política, para que suscriban en su nombre las resoluciones de los procedimientos administrativos, así como que representen a la Junta de Coordinación Política, previo conocimiento de la misma, en las impugnaciones o medios de defensa que se haga valer contra tales resoluciones;
+X.- Conocer y resolver sobre las responsabilidades administrativas en que incurra cualquier servidor público del Poder Legislativo y los integrantes de los ayuntamientos de los municipios de la entidad, por el incumplimiento de las obligaciones que señala la ley de la materia, delegando la facultad a los diputados Presidente y Secretario de la Junta de Coordinación Política, para que suscriban en su nombre las resoluciones de los procedimientos administrativos, así como que representen a la Junta de Coordinación Política, previo conocimiento de la misma, en las impugnaciones o medios de defensa que se hagan valer contra tales resoluciones;
 
 > <small>(REFORMADA Y REUBICADA, G.G. 21 DE JULIO DE 2006)</small>
 
@@ -1035,9 +1035,9 @@ A más tardar, en la tercera sesión del primer periodo de sesiones ordinarias, 
 
 - Seguridad Pública y Tránsito
 
-> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+> <small>(REFORMADO, G.G. 22 DE OCTUBRE DE 2014)</small>
 
-- Asuntos Electorales
+- Electoral y de Desarrollo Democrático
 
 > <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
@@ -1455,7 +1455,7 @@ Asimismo, podrá disponer la creación de otras que sean necesarias.
 
 ###### Artículo 94 Bis.
 
-El Poder Legislativo se auxiliará de un órgano de consulta denominado Consejo Consultivo de Valoración Salarial, cuya integración y funciones estarán señaladas por el Reglamento del Poder Legislativo del Estado Libre y Soberano de México.
+El Poder Legislativo se auxiliará de un órgano de consulta denominado Consejo Consultivo de Valoración Salarial, cuya integración y funciones estarán señaladas por el reglamento del Poder Legislativo del Estado Libre y Soberano de México.
 
 > <small>(ADICIONADO, G.G. 2 DE FEBRERO DE 2010)</small>
 
@@ -2092,3 +2092,11 @@ G.G. 8 DE AGOSTO DE 2014.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 22 DE OCTUBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Cuando se haga referencia en disposiciones legales o administrativas a la Comisión Legislativa de Asuntos Electorales, se entenderá que corresponde a la Comisión Legislativa Electoral y de Desarrollo Democrático.
