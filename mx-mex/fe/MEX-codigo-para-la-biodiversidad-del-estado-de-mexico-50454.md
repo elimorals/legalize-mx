@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2014-07-16"
+last_updated: "2014-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TÉRMINO PERSONAS CON CAPACIDADES DIFERENTES, SE ENTENDERÁ QUE CORRESPONDE AL TÉRMINO PERSONAS CON DISCAPACIDAD.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE OCTUBRE DE 2014.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -71,19 +71,25 @@ Se regulan estas materias con el fin de impulsar y promover la conservación, la
 
 I. Garantizar el derecho de toda persona a vivir en un ambiente adecuado para su desarrollo, salud y bienestar;
 
-II. Promover y regular el uso y aprovechamiento sostenible, la conservación, la remediación, la rehabilitación y la restauración de elementos naturales, recursos naturales y de los bienes ambientales, asimismo alentar promoviendo a los componentes de la biodiversidad de forma que sea compatible la obtención de beneficios económicos con la recuperación y la preservación de los ecosistemas y sus hábitats;
+> <small>(REFORMADA, G.G. 22 DE OCTUBRE DE 2014)</small>
 
-III. Diseño, desarrollo e instrumentación de estímulos fiscales impulsando instrumentos económicos en favor del mejoramiento, conservación, preservación, mejoramiento, recuperación, remediación, restauración, uso, aprovechamiento y desarrollo sostenible de la biodiversidad en su conjunto;
+II. Promover y regular el uso y aprovechamiento sostenible, la conservación, la remediación, la rehabilitación y la restauración de elementos naturales, recursos naturales y de los bienes ambientales, la protección y promoción de los conocimientos tradicionales de los pueblos indígenas relacionados con el aprovechamiento y manejo de los recursos naturales; asimismo alentar el cuidado de la biodiversidad de forma que sea compatible la obtención de beneficios económicos con la recuperación y la preservación de los ecosistemas y sus hábitats;
 
-IV. Fomentar la participación corresponsable de la sociedad en las acciones de preservación, remediación, rehabilitación y restauración del equilibrio ecológico y del medio ambiente y de todas las actividades en favor de la protección a la biodiversidad;
+> <small>(ADICIONADA, G.G. 22 DE OCTUBRE DE 2014)</small>
 
-V. Regular y promover la educación y la cultura ambiental en todos los sectores de la sociedad del uso y aprovechamiento racional de la biodiversidad de sus elementos y recursos naturales y de la tecnología e investigación ambiental;
+III. Garantizar el derecho de las comunidades y pueblos indígenas, al uso y disfrute de los recursos naturales localizados en los lugares que ocupen o habiten, en los términos de los artículos 1° y 2° de la Constitución Política de los Estados Unidos Mexicanos;
 
-VI. Propiciar el desarrollo sostenible mediante el aprovechamiento y uso racional de los elementos naturales, de los recursos naturales y de los bienes ambientales;
+IV. Diseño, desarrollo e instrumentación de estímulos fiscales impulsando instrumentos económicos en favor del mejoramiento, conservación, preservación, mejoramiento, recuperación, remediación, restauración, uso, aprovechamiento y desarrollo sostenible de la biodiversidad en su conjunto;
 
-VII. Protección, conservación, preservación, rehabilitación, restauración, recuperación y remediación de la biodiversidad y sus componentes; y
+V. Fomentar la participación corresponsable de la sociedad en las acciones de preservación, remediación, rehabilitación y restauración del equilibrio ecológico y del medio ambiente y de todas las actividades en favor de la protección a la biodiversidad;
 
-VIII. Promover la aplicación racional y el manejo de los pagos de servicios ambientales o ecosistémicos derivados de las actividades humanas sostenibles.
+VI. Regular y promover la educación y la cultura ambiental en todos los sectores de la sociedad del uso y aprovechamiento racional de la biodiversidad de sus elementos y recursos naturales y de la tecnología e investigación ambiental;
+
+VII. Propiciar el desarrollo sostenible mediante el aprovechamiento y uso racional de los elementos naturales, de los recursos naturales y de los bienes ambientales;
+
+VIII. Protección, conservación, preservación, rehabilitación, restauración, recuperación y remediación de la biodiversidad y sus componentes; y
+
+IX. Promover la aplicación racional y el manejo de los pagos de servicios ambientales o ecosistémicos derivados de las actividades humanas sostenibles.
 
 ###### Artículo 1.
 
@@ -165,7 +171,9 @@ Se reconoce el derecho de toda persona física o jurídica colectiva para ejerci
 
 I. Regular el ejercicio de las atribuciones que en materia ambiental corresponden a las autoridades estatal y municipales del Estado de México en el ámbito de sus respectivas competencias bajo los principios previstos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de México y la Ley General del Equilibrio Ecológico y la Protección al Ambiente y demás leyes relacionadas con la materia; para integrar la conservación y el uso sostenible de los elementos de la biodiversidad en el desarrollo de políticas ambientales, socioculturales y de uso del suelo;
 
-II. Asegurar el derecho y la obligación corresponsable de la participación de las personas dentro del territorio del Estado, ya sea en forma individual o colectiva en la preservación de la diversidad biológica, la restauración del equilibrio ecológico, el desarrollo sostenible y la protección al medio ambiente;
+> <small>(REFORMADA, G.G. 22 DE OCTUBRE DE 2014)</small>
+
+II. Asegurar el derecho y la obligación corresponsable de la participación de las personas dentro del territorio del Estado, ya sea en forma individual o colectiva en la preservación de la diversidad biológica, la restauración del equilibrio ecológico, el desarrollo sostenible y la protección al medio ambiente; se procurará la participación de los pueblos y las comunidades indígenas, así como de los ejidos y comunidades agrarias, a través de mecanismos que posibiliten la aplicación de sus conocimientos en la preservación de la diversidad biológica y la protección del medio ambiente;
 
 III. Establecer criterios ambientales para el manejo de los recursos y elementos de la naturaleza para la prevención y control de la contaminación del agua, aire y suelo logrando ordenar ecológicamente el territorio de la Entidad, mediante la preservación del patrimonio natural del Estado y de los procesos ambientales esenciales, de los que depende la supervivencia de los ecosistemas, considerados de forma integral;
 
@@ -493,7 +501,9 @@ II. Aplicar en coordinación con las dependencias o entidades competentes los in
 
 III. Aplicar el Reglamento a que se refiere la fracción III del artículo 2.7 del presente Libro;
 
-IV. Elaborar y someter a consideración del titular del Poder Ejecutivo las declaratorias de las áreas naturales protegidas;
+> <small>(REFORMADA, G.G. 22 DE OCTUBRE DE 2014)</small>
+
+IV. Elaborar y someter a consideración del titular del Poder Ejecutivo las declaratorias de las áreas naturales protegidas, de conformidad con el artículo 2.105 del presente Código;
 
 V. Formular y proponer al titular del Poder Ejecutivo del Estado todo lo relativo al medio ambiente e instrumentar en coordinación con las dependencias competentes y los Municipios el ordenamiento ecológico del Estado y sus programas estatales;
 
@@ -505,7 +515,7 @@ VIII. Prevenir y controlar la contaminación generada por el aprovechamiento de 
 
 IX. Evaluar y dictaminar en la competencia estatal el impacto ambiental de los proyectos, obras, acciones y servicios que se ejecuten o pretendan ejecutar en el Estado de conformidad con las normas oficiales mexicanas y las demás disposiciones aplicables;
 
-> <small>(REFORMADA G.G. 22 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
 
 X. Expedir los lineamientos necesarios para la regulación, administración y vigilancia de las áreas naturales protegidas del Estado;
 
@@ -1523,7 +1533,13 @@ I. Los Gobiernos Municipales en cuyas circunscripciones territoriales se localic
 
 II. las dependencias de la administración pública estatal que deban intervenir de conformidad con sus atribuciones;
 
-III. los grupos y organizaciones de la sociedad civil y demás personas físicas o jurídicas colectivas interesadas, así como las comunidades asentadas en el área natural protegida de que se trate; y
+> <small>(ADICIONADA, G.G. 22 DE OCTUBRE DE 2014)</small>
+
+II Bis. Los pueblos y las comunidades indígenas de conformidad con los derechos que les reconoce la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales firmados y ratificados por el estado mexicano y la Constitución Política del Estado Libre y Soberano de México;
+
+> <small>(REFORMADA, G.G. 22 DE OCTUBRE DE 2014)</small>
+
+III. Los grupos y organizaciones de la sociedad civil y demás personas físicas o jurídico colectivas interesadas en el área natural protegida de que se trate;
 
 IV. Las universidades, centros de investigación, instituciones y organismos de los sectores público, social y privado interesados.
 
@@ -1643,7 +1659,7 @@ La Secretaría deberá supervisar y evaluar el cumplimiento de los acuerdos y co
 
 119. La Secretaría integrará el Registro Público Estatal de Areas Naturales Protegidas donde deberán inscribirse todos los decretos y actos mediante los cuales se declaren las áreas de interés estatal y municipal y aquellos que los modifiquen, asimismo se harán constar las declaratorias de áreas naturales protegidas de interés federal asentadas en el territorio del Estado. Deberán consignarse en dicho registro los datos de la inscripción de los decretos respectivos en los Registros Públicos de la Propiedad que correspondan.
 
-Cualquier interesado podrá consultar el Registro Público Estatal de Areas Naturales Protegidas el cual deberá ser integrado a los Sistemas Estatal y Nacional de Información Ambiental y de Recursos Naturales.
+Cualquier interesado podrá consultar el Registro Público Estatal de Áreas Naturales Protegidas el cual deberá ser integrado a los Sistemas Estatal y Nacional de Información Ambiental y de Recursos Naturales.
 
 ###### Artículo 2.
 
@@ -2911,7 +2927,7 @@ IV. Si se reincide en la omisión para llevar a cabo la reparación y verificaci
 
 I. Realice actividades de explotación o aprovechamiento de recursos en áreas naturales protegidas, de competencia estatal sin sujetarse al programa de manejo del área respectiva;
 
-II. Opere sistemas o plantas de tratamiento sin cumplir con las condiciones particulares de descarga de aguas residuales, así como suspender su operación sin dar aviso a la Secretaria cuando menos con diez días hábiles de anticipación si la suspensión estaba prevista o programada y dentro de los cinco días hábiles siguientes si la suspensión fue imprevisible;
+II. Opere sistemas o plantas de tratamiento sin cumplir con las condiciones particulares de descarga de aguas residuales, así como suspender su operación sin dar aviso a la Secretaría cuando menos con diez días hábiles de anticipación si la suspensión estaba prevista o programada y dentro de los cinco días hábiles siguientes si la suspensión fue imprevisible;
 
 III. Incumpla las medidas que apliquen las autoridades competentes para limitar, suspender o restringir la circulación vehicular en caso de contingencia ambiental;
 
@@ -5287,7 +5303,7 @@ III. Programa de preparación y respuesta a emergencias y contingencias que pued
 
 IV. Bitácora en la cual se registren los residuos que se reciben indicando tipo, peso o volumen, destino, fecha de entrada y salida de los mismos;
 
-V. Área para segregar y almacenar temporalmente los residuos por tiempos acordes con lo que establezcan las disposiciones respectivas: y
+V. Area para segregar y almacenar temporalmente los residuos por tiempos acordes con lo que establezcan las disposiciones respectivas: y
 
 VI. Los demás requisitos que determine la normatividad aplicable.
 
@@ -6987,7 +7003,7 @@ III. Los productos de sus operaciones y de la inversión de fondos; y
 
 IV. Los demás recursos que se generen por cualquier otro concepto en relación con la protección y bienestar animal.
 
-### CAPITULO VI. DE LA CULTURA Y EDUCACION PARA LA PROTECCION Y CUIDADO A LOS ANIMALES
+### CAPITULO VI. DE LA CULTURA Y EDUCACION PARA LA PROTECCION y CUIDADO A LOS ANIMALES
 
 ###### Artículo 6.
 
@@ -7774,3 +7790,13 @@ G.G. 16 DE JULIO DE 2014.
 PRIMERO.- Publíquese el Presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 22 DE OCTUBRE DE 2014.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
