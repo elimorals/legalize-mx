@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-presupuesto-de-egresos-contabilidad-gubernamental-y-9698
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-28"
-last_updated: "2013-12-28"
+last_updated: "2014-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PRESUPUESTO DE EGRESOS, CONTABILIDAD GUBERNAMENTAL Y GASTO PÚBLICO DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2014.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 28 de diciembre de 2013.
 
@@ -1175,6 +1175,14 @@ En las cuentas bancarias productivas específicas se manejarán, exclusivamente,
 
 Los recursos federales solo podrán ser transferidos por las dependencias y entidades de la Administración Pública Federal a dichas cuentas bancarias productivas específicas, a través de las unidades administrativas competentes de los entes públicos y los municipios, salvo en el caso de ministraciones relacionadas con obligaciones que estén garantizadas con la afectación de sus participaciones o aportaciones federales, en términos de lo dispuesto por la Ley de Coordinación Fiscal y los demás casos previstos en las disposiciones legales aplicables.
 
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2014)</small>
+
+La Comisión Nacional del Agua podrá solicitar por escrito al Gobierno del Estado, a través de la Secretaría, previa acreditación del incumplimiento del pago de los derechos y aprovechamientos por concepto de agua y descargas residuales, la retención de la cantidad que cubra el pago incumplido, con cargo a los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y Demarcaciones Territoriales del Distrito Federal, que correspondan al Municipio de que se trate, en términos de los (sic) previsto en el artículo 51 de la Ley de Coordinación Fiscal.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2014)</small>
+
+La Comisión Nacional del Agua solo podrá solicitar al Gobierno del Estado la retención y pago a que se hace referencia en el párrafo anterior, en aquellos casos en que los adeudos generados por el incumplimiento tengan una antigüedad mayor a 90 días naturales.
+
 ###### ARTÍCULO 143.
 
 Los entes públicos y los municipios, para la integración de la información financiera relativa a los recursos federales transferidos, deberán observar lo siguiente:
@@ -1514,3 +1522,17 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los trece días del mes de diciembre del año dos mil trece.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. RAYMUNDO ROMERO MALDONADO. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE OCTUBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para la retención de los ingresos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y Demarcaciones Territoriales del Distrito Federal, el Municipio, previa aprobación del cabildo, celebrará el acuerdo correspondiente con la Secretaría de Hacienda de Gobierno del Estado.
+
+En todo caso los recursos que sean retenidos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y Demarcaciones Territoriales del Distrito Federal, en términos de lo dispuesto por los párrafos segundo y tercero del artículo 142, la Secretaría compensará a los municipios el ingreso que dejarían de percibir por dicho concepto, en los términos que se establezcan en los citados acuerdos.
