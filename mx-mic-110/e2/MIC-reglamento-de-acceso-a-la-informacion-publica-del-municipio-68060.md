@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-acceso-a-la-informacion-publica-del-municipio-680
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-06"
-last_updated: "2009-04-06"
+last_updated: "2014-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68060&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "MIC"
 ---
 # REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE ZINAPECUARO, MICHOACAN
 
-REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE ZINAPECUARO
+REGLAMENTO DE ACCESO A LA INFORMACIÓN PÚBLICA DEL MUNICIPIO DE ZINAPECUARO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE TRANSPARENCIA, PROTECCIÓN DE DATOS PERSONALES Y ACCESO A LA INFORMACIÓN PÚBLICA DEL MUNICIPIO DE ZINAPÉCUARO, MICHOACÁN, PUBLICADO EN EL P.O. DE 22 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el lunes 6 de abril del 2009.
 
@@ -690,3 +692,15 @@ El presente Reglamento de Acceso a la Información Pública del Municipio de Zin
 A fin de dar cumplimiento a lo dispuesto por el artículo 49 Fracción V de la Ley Orgánica Municipal del Estado de Michoacán de Ocampo; el Presidente Municipal deberá promulgar y publicar el presente Reglamento.
 
 PALACIO MUNICIPAL.- Zinapécuaro, Michoacán; a 6 de marzo del año 2009 dos mil nueve.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- C. Biol. Jorge Piña Rubio, Presidente Municipal; C. Lic. Antonio Torres Quezada, Síndico Municipal; C. Prof. Eleuterio Galíndez Aguilar, Secretario Municipal; C. Maribel Canizal Hernández, C. Jaime Sánchez Delgado, C. Francisco Guadarrama Chávez, C. José Fernando Soto Duran, C. Mariana Morales Ávila, C. J. Jesús Álvarez Rubio, C. José Luís Serrato Tapia, C. José Martín Ortíz García, C. Aizar Raffoul López de Arriaga, C. José Carmen Sandoval Soto, Regidores Municipales.- (Firmados).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE OCTUBRE DE 2014.
+
+Artículo Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Michoacán de Ocampo, y para el conocimiento ciudadano publíquese en los estrados de la Presidencia Municipal y de las Tenencias, en los diarios de mayor circulación del municipio, en la página de internet, oficial del Ayuntamiento.
+
+Artículo Segundo. Se abroga el Reglamento de Transparencia y Acceso a la Información Pública del Municipio de Zinapécuaro, Michoacán publicado en el Periódico Oficial del Estado de Michoacán de Ocampo el 01 de mayo de 2009.
+
+Artículo Tercero. Se deberá conformar dentro de un plazo no mayor de noventa días naturales, contados a partir de la vigencia de este Reglamento, el Comité de Transparencia a que se refiere el presente, así mismo, deberá sesionar por primera vez dentro del mismo plazo.
+
+Artículo Cuarto. Conforme a lo previsto en los artículos 144,145 y 149 de la Ley Orgánica Municipal del Estado de Michoacán de Ocampo, remítase un ejemplar con el texto íntegro al H. Congreso del Estado, al Titular del Poder Ejecutivo Estatal y al Consejero Presidente del Instituto para la Transparencia y Acceso a la Información del Estado de Michoacán de Ocampo para su conocimiento y efectos legales conducentes. (Firmados).
