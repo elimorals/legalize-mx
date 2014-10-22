@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2014-08-08"
+last_updated: "2014-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2014.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -93,7 +93,11 @@ VIII. Toda persona afectada por informaciones emitidas en su perjuicio a través
 
 IX. Los ciudadanos tienen derecho a acceder, en condiciones de igualdad, a las funciones y cargos públicos, con excepción de los sujetos a elección popular que se regirán por su propia normativa, en los términos que establezca la ley del servicio civil de carrera.
 
-X. Toda persona es inocente mientras no se determine su culpabilidad por decisión firme.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2014)</small>
+
+X. Toda persona es inocente en tanto no se declare su responsabilidad mediante sentencia emitida por el juez de la causa;
 
 XI. Se prohíbe la obtención y el uso en cualquier procedimiento de la prueba obtenida ilícitamente.
 
@@ -243,7 +247,11 @@ I. Por la suspensión de los derechos o prerrogativas del ciudadano mexicano.
 
 II. Por incapacidad declarada conforme a la ley.
 
-III. Por tener pendiente proceso: desde la fecha del auto de formal prisión, si se trata de un juicio del orden penal común, o desde la declaración de haber lugar a formación de causa, en los casos de omisiones, faltas o delitos oficiales.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2014)</small>
+
+III. Por tener pendiente proceso y estar privado de la libertad desde la fecha del auto de vinculación a proceso si se trata de un juicio del orden penal común, o desde la declaración de haber lugar a formación de causa, en los casos de omisiones, faltas o delitos oficiales.
 
 IV. Por la falta de cumplimiento, sin causa justificada a cualquiera de las obligaciones que esta Constitución impone al ciudadano sinaloense.
 
@@ -1447,6 +1455,18 @@ Esta Constitución garantiza la independencia e inamovilidad de los Magistrados 
 
 Los Magistrados del Supremo Tribunal de Justicia, los Magistrados de Circuito y los Jueces percibirán una remuneración digna, decorosa e irrenunciable, que no podrá ser disminuida durante sus encargos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2014)</small>
+
+###### Art. 93 Bis.
+
+El proceso penal será acusatorio y oral. Se regirá por los principios de publicidad, contradicción, concentración, continuidad e inmediación y tendrá por objeto el esclarecimiento de los hechos, proteger al inocente, procurar que el culpable no quede impune y que los daños causados por el delito se reparen.
+
+La imposición de las penas, su modificación y duración son propias y exclusivas de la autoridad judicial.
+
+Toda persona Imputada y la víctima u ofendido tendrán los derechos que consagra la Constitución Política de los Estados Unidos Mexicanos, el Código Nacional de Procedimientos Penales, la Ley General de Víctimas, la Ley de Atención y Protección a Víctimas del Estado y demás disposiciones aplicables.
+
 #### SECCION II. DE LAS SALAS DE CIRCUITO
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
@@ -1581,9 +1601,9 @@ II. Resolver, como jurado de sentencia, de las acusaciones penales formuladas po
 
 III. Conocer y resolver las controversias de cualquier orden que se susciten, entre los Poderes del Estado, entre uno o más Poderes del Estado, y los Ayuntamientos, o entre éstos entre sí.
 
-> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III Bis. Conocer y resolver de las solicitudes de reconocimiento de inocencia de reos sentenciados por delitos del fuero común, en los términos de Ley;
+III Bis. (DEROGADA, P.O. 22 DE OCTUBRE DE 2014)
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -2513,7 +2533,7 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 
 P.O. 13 DE NOVIEMBRE DE 1928.
 
-LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN LOS ARTICULOS 3° Y 4° DEL CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+LA MODIFICACION CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN LOS ARTÍCULOS 3° Y 4° DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
 P.O. 31 DE MAYO DE 1930.
 
@@ -2989,7 +3009,7 @@ El Presente Decreto empezará a surtir sus efectos a partir de su publicación e
 
 P.O. 27 DE ENERO DE 1984.
 
-DECRETO No. 23 POR EL QUE SE REFORMA EL TÍITULO V DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
+DECRETO No. 23 POR EL QUE SE REFORMA EL TÍTULO V DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
 
 ###### ARTICULO PRIMERO.
 
@@ -3476,3 +3496,21 @@ TERCERO.- El H. Congreso del Estado expedirá la reforma necesaria a la Ley de E
 P.O. 8 DE AGOSTO DE 2014.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+P.O. 22 DE OCTUBRE DE 2014.
+
+DECRETO NO. 147 POR EL QUE SE REFORMA EL ARTÍCULO 12, FRACCIÓN III Y SE DEROGA LA FRACCIÓN III BIS DEL ARTÍCULO 104, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA.
+
+PRIMERO. El presente Decreto entrará en vigor en los términos que establezca la Declaratoria que para tales efectos emita el H. Congreso del Estado de Sinaloa, de conformidad con lo dispuesto en el artículo segundo transitorio, tercer párrafo, del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación de fecha 18 de junio de 2008, así como en el artículo segundo transitorio, segundo párrafo, del Decreto por el que se expide el Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación de fecha 5 de marzo de 2014.
+
+SEGUNDO. Publíquese en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 22 DE OCTUBRE DE 2014.
+
+DECRETO NO. 157 POR EL QUE SE REFORMA EL ARTÍCULO 4° BIS A, FRACCIÓN X Y ADICIONA EL ARTÍCULO 93 BIS, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA.
+
+PRIMERO. El presente Decreto entrará en vigor en los términos que establezca la Declaratoria que para tales efectos emita el H. Congreso del Estado de Sinaloa, de conformidad con lo dispuesto en el artículo segundo transitorio, tercer párrafo, del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación de fecha 18 de junio de 2008, así como en el artículo segundo transitorio, segundo párrafo, del Decreto por el que se expide el Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación de fecha 5 de marzo de 2014.
+
+SEGUNDO. Los procedimientos penales iniciados con anterioridad a la entrada en vigor del nuevo Sistema de Justicia Penal Acusatorio, serán concluidos conforme a las disposiciones vigentes con anterioridad a dicho acto.
+
+TERCERO. Publíquese el presente Decreto en el Periódico Oficial "El Estado de Sinaloa".
