@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2014-10-16"
+last_updated: "2014-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE OCTUBRE DE 2014.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -6271,11 +6271,11 @@ III. De cuatro mil uno a cinco mil días de salario mínimo general vigente del 
 
 1.- Este Libro tiene por objeto regular el transporte público.
 
-> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.G. 23 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 7.
 
-2.- Las disposiciones de este Libro tienen como finalidad que se cuente con transporte público seguro, eficiente y de calidad.
+2.- Las disposiciones de este Libro tienen como finalidad que se cuente con transporte público seguro, eficiente, sustentable con el medio ambiente y de calidad.
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -6346,6 +6346,10 @@ En la normatividad reglamentaria respectiva podrán establecerse otras modalidad
 ###### Artículo 7.
 
 6.- La Secretaría de Transporte expedirá las normas técnicas relativas a las características de los equipos, sistemas, dispositivos y accesorios de seguridad con que deberán contar los vehículos de su competencia que transiten por la infraestructura vial, así como sobre los demás conceptos que regula el presente Libro, incluyendo la eficiencia y sustentabilidad del transporte, y podrá así mismo, expedir al respecto disposiciones de carácter general cuando lo estime procedente.
+
+> <small>(ADICIONADO, G.G. 23 DE OCTUBRE DE 2014)</small>
+
+La Secretaría de Transporte en coordinación con la del Medio Ambiente, establecerá un programa de reducción de contaminantes que incluirá los indicadores que sean necesarios.
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -16834,3 +16838,13 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- En un plazo de sesenta días hábiles siguientes a la entrada en vigor del presente Decreto, el Titular del Ejecutivo del Estado proveerá en la esfera administrativa el cumplimiento del mismo, expidiendo y en su caso, reformando las disposiciones reglamentarias respectivas.
+
+G.G. 23 DE OCTUBRE DE 2014.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
