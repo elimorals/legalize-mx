@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-comite-administrador-poblano-para-94479
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-05-27"
-last_updated: "2013-05-27"
+last_updated: "2014-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94479&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL COMITÉ ADMINISTRADOR POBLANO PARA LA CONSTRUCCIÓN DE ESPACIOS EDUCATIVOS DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2014.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 27 de mayo de 2013.
 
@@ -53,9 +53,13 @@ I. CAPCEE: Al Comité Administrador Poblano para la Construcción de Espacios Ed
 
 II. Decreto: Al Decreto que crea el Comité Administrador Poblano para la Construcción de Espacios Educativos;
 
-III. Infraestructura física educativa oficial: A los bienes muebles e inmuebles en los que se imparte la educación pública por las autoridades del Estado;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2014)</small>
 
-IV. Infraestructura física educativa privada: A los bienes muebles e inmuebles en los que se imparte la educación por los particulares con autorización o reconocimiento de validez oficial de estudios;
+III. Infraestructura física educativa: Los muebles e inmuebles destinados a la educación impartida por el Estado y los particulares, con autorización o reconocimiento de validez oficial de estudios, en el marco del sistema educativo nacional, en términos de la Ley General de Educación y la Ley de Educación del Estado de Puebla, así como los servicios e instalaciones necesarios para su correcta operación.
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2014)</small>
+
+IV. Infraestructura física especial: La construcción, rehabilitación y equipamiento de inmuebles destinados a eventos culturales, deportivos, artísticos, ocupacionales, de recreación, museos, seguridad, prevención, capacitación, oficinas administrativas, así como cualquier otra obra o proyecto que se requiera en el Estado, siempre que alguna dependencia o entidad solicite la colaboración del CAPCEE. Lo anterior sin perjuicio de las atribuciones conferidas en la Ley de la materia, a otras dependencias o entidades.
 
 V. Junta de Gobierno: Al órgano de gobierno y máxima autoridad del Comité Administrador Poblano para la Construcción de Espacios Educativos; y
 
@@ -83,7 +87,13 @@ c) Dirección de Construcción y Supervisión;
 
 d) Dirección Jurídica; y
 
-e) Dirección Administrativa.
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2014)</small>
+
+e) Dirección Administrativa, y
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2014)</small>
+
+f) Dirección de Proyectos Especiales.
 
 ###### ARTÍCULO 5.
 
@@ -193,7 +203,9 @@ XVI. Las demás que en materia de su competencia se establezcan en los ordenamie
 
 El Titular de la Dirección de Desarrollo y Seguimiento Operacional dependerá directamente del Director General, y tendrá además de las atribuciones señaladas en el artículo 12 del Reglamento, las siguientes:
 
-I. Coadyuvar con la Secretaría de Educación Pública en la elaboración del Programa Anual de Infraestructura Educativa del Estado y demás programas en el ámbito de competencia del CAPCEE;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2014)</small>
+
+I. Coadyuvar con la Secretaría de Educación Pública en la elaboración del Programa Anual de Infraestructura Física Educativa Oficial del Estado y demás programas en el ámbito de competencia del CAPCEE;
 
 II. Asesorar a las unidades administrativas del CAPCEE en la integración de los planes y programas anuales de trabajo correspondientes para que se establezcan metas e indicadores en congruencia con sus atribuciones y esquemas presupuestales determinados, de conformidad con los Planes Nacional y Estatal de Desarrollo, del Programa Sectorial correspondiente y demás disposiciones aplicables, así como proponer a su superior jerárquico las adecuaciones necesarias;
 
@@ -231,7 +243,9 @@ XVI. Administrar los medios de comunicación electrónica al interior y exterior
 
 El Titular de la Dirección de Proyectos y Costos dependerá directamente del Director General, y tendrá además de las atribuciones señaladas en el artículo 12 del Reglamento, las siguientes:
 
-I. Proponer a su superior jerárquico los estudios y proyectos técnicos que serán integrados al Programa Anual de Infraestructura Educativa del Estado de Puebla, y demás programas en el ámbito de competencia del CAPCEE, de conformidad con las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2014)</small>
+
+I. Proponer a su superior jerárquico los estudios y proyectos técnicos que serán integrados al Programa Anual de Infraestructura Física Educativa Oficial, y demás programas en el ámbito de competencia del CAPCEE, de conformidad con las disposiciones aplicables;
 
 II. Verificar y validar que los planos de cada proyecto de los programas del CAPCEE, se apeguen a las especificaciones técnicas de construcción de las obras públicas y servicios relacionados con las mismas, de conformidad con las disposiciones aplicables;
 
@@ -247,7 +261,9 @@ VII. Aplicar las normas, políticas y procedimientos para la determinación de p
 
 VIII. Asesorar técnicamente a petición de parte y en el ámbito de su competencia a los ayuntamientos de la Entidad, en lo concerniente a los planes, programas y proyectos de espacios educativos; y
 
-IX. Revisar y evaluar con la participación de la Dirección de Construcción y Supervisión, la Infraestructura Física Educativa Privada, para los fines de certificación de la calidad de ésta.
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2014)</small>
+
+IX. Revisar y evaluar con la participación de la Dirección de Construcción y Supervisión, la Infraestructura Física Educativa, para los fines de certificación de la calidad de ésta.
 
 ### CAPÍTULO VI. DE LA DIRECCIÓN DE CONSTRUCCIÓN Y SUPERVISIÓN
 
@@ -257,7 +273,7 @@ El Titular de la Dirección de Construcción y Supervisión dependerá directame
 
 I. Coordinar la ejecución de las obras públicas y servicios relacionados con las mismas que integran el Programa Anual de Infraestructura Física Educativa Oficial y los demás programas que en el ámbito de su competencia realice el CAPCEE;
 
-II. Ejecutar por acuerdo del Director General las obras públicas y servicios relacionados con las mismas bajo el régimen de administración directa, en estricto cumplimiento con las disposiciones aplicables;
+II. (DEROGADA, P.O. 23 DE OCTUBRE DE 2014)
 
 III. Coordinar la supervisión por sí o por terceros de la obra pública, y en su caso, de los servicios relacionados con las mismas, competencia del CAPCEE, para que se cumpla con los avances físicos y temporales previstos en los instrumentos respectivos;
 
@@ -271,7 +287,9 @@ VII. Asesorar técnicamente a los ayuntamientos de la Entidad, a petición de pa
 
 VIII. Informar a su superior jerárquico los resultados de su participación en las comisiones interinstitucionales que le sean requeridos en materia de construcción y supervisión de las obras públicas y servicios relacionados con las mismas que le competan al CAPCEE; y
 
-IX. Participar en coordinación con la Dirección de Proyectos y Costos, en la revisión y evaluación de la Infraestructura Física Educativa Privada para los fines de certificación de la calidad de ésta.
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2014)</small>
+
+IX. Participar en coordinación con la Dirección de Proyectos y Costos, en la revisión y evaluación de la Infraestructura Física Especial, para los fines de certificación de la calidad de ésta.
 
 ### CAPÍTULO VII. DE LA DIRECCIÓN JURÍDICA
 
@@ -305,7 +323,9 @@ El Titular de la Dirección Administrativa dependerá directamente del Director 
 
 I. Administrar de conformidad con las disposiciones aplicables, los recursos financieros, humanos y materiales bajo responsabilidad del CAPCEE;
 
-II. Ejecutar las políticas, normas, sistemas y procedimientos organización presupuestal, en apego a la normatividad aplicable;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2014)</small>
+
+II. Ejecutar las políticas, normas, sistemas y procedimientos en materia presupuestal, en apego a la normatividad aplicable;
 
 III. Elaborar el anteproyecto anual del presupuesto de ingresos y egresos del CAPCEE que por ejercicio fiscal le corresponda, a fin de someterlo a consideración del Director General para la aprobación de la Junta de Gobierno;
 
@@ -333,9 +353,47 @@ XIV. Verificar la correcta aplicación de los procedimientos administrativos par
 
 XV. Coordinar el establecimiento, control y evaluación del programa interno de protección civil, de conformidad con las disposiciones legales aplicables.
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE OCTUBRE DE 2014)</small>
+
+### CAPÍTULO IX. DE LA DIRECCIÓN DE PROYECTOS ESPECIALES
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2014)</small>
+
+###### ARTÍCULO 17 Bis.
+
+El Titular de la Dirección de Proyectos Especiales, dependerá directamente del Director General, y tendrá, además de las atribuciones señaladas en el artículo 12 del Reglamento, las siguientes:
+
+I. Proponer a su superior jerárquico los estudios y propuestas técnicas de los proyectos especiales y de obras por administración directa, que serán integrados al Programa Anual de Infraestructura Física Educativa Oficial y demás programas en el ámbito de competencia del CAPCEE, de conformidad con las disposiciones aplicables;
+
+II. Verificar y validar los planos de las propuestas técnicas de los proyectos especiales y de obras por administración directa, conforme a los programas del CAPCEE, de conformidad con las disposiciones aplicables;
+
+III. Ejecutar por acuerdo del Director General las obras públicas por administración directa y los servicios relacionados; así como, de infraestructura física especial;
+
+IV. Coordinar acciones con la unidad administrativa competente para la adquisición de bienes e insumos que se requieran para ejecutar las obras que se lleven a cabo por administración directa;
+
+V. Elaborar el dictamen en los casos de obra de administración directa y ponerlo a consideración y aprobación de su superior jerárquico; así como, hacerlo del conocimiento de la Secretaría de la Contraloría, conforme a las disposiciones legales de la materia;
+
+VI. Elaborar proyectos ejecutivos, planos, catálogos de estudios para planeación, programación y presupuestación, especificaciones, programas de ejecución y presupuestos;
+
+VII. Emitir el acuerdo que contenga los requisitos que señala la ley aplicable en materia de obra pública y su respectivo reglamento, estatal o federal;
+
+VIII. Elaborar los programas de ejecución y erogaciones de suministro de materiales, en las que se especifiquen las características, cantidades, unidades de materiales y equipo que se requiera, calendarizadas por semana o mes;
+
+IX. Comunicar mensualmente a la Secretaría de la Contraloría del avance físico y financiero de los trabajos;
+
+X. Llevar control de inventario de maquinaria, de equipo, de estudios, de proyectos y demás documentos que se realicen sobre la obra en administración directa y ponerlo a consideración de la Secretaría de la Contraloría;
+
+XI. Coordinar la ejecución de las obras públicas y servicios relacionados con las mismas, así como con las demás áreas según corresponda, para cumplir con las infraestructuras especiales y de administración directa que en el ámbito de su competencia realice el CAPCEE;
+
+XII. El Director de Proyectos Especiales designará al supervisor o residente de obra, quien se encargará directamente de las infraestructuras especiales o de administración directa según corresponda;
+
+XIII. Elaborar y requisitar bitácoras, actas de entrega-recepción de las obras o de suministros por administración directa y así como de infraestructura física especial;
+
+XIV. Coordinarse con las demás áreas para la debida planeación y ejecución de la infraestructura física especial y obra por administración directa, incluyendo los trámites administrativos y legales que se requieran.
 
 ## TÍTULO TERCERO. DE LAS SUPLENCIAS
+
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 18.
 
@@ -352,3 +410,11 @@ PRIMERO.- El presente Reglamento se publicará en el Periódico Oficial del Esta
 SEGUNDO.- Queda sin efecto el Reglamento Interior del Comité Administrador Poblano para la Construcción de Espacios Educativos, publicado en el Periódico Oficial del Estado el veinticuatro de septiembre de dos mil uno, así como las disposiciones que se opongan al presente Reglamento.
 
 Dado en la sede del Poder Ejecutivo del Estado, en la Heroica Puebla de Zaragoza, el nueve de julio de dos mil doce.- El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. FERNANDO LUIS MANZANILLA PRIETO.- Rúbrica.- El Secretario de Educación Pública.- C. LUIS MALDONADO VENEGAS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE OCTUBRE DE 2014.
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día hábil siguiente al de su publicación.
+
+SEGUNDO. Se dejan sin efecto las disposiciones de la misma naturaleza que se opongan al presente Decreto.
