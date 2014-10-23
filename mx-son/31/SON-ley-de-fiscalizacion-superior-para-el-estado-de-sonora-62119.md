@@ -4,7 +4,7 @@ identifier: "SON-ley-de-fiscalizacion-superior-para-el-estado-de-sonora-62119"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-14"
-last_updated: "2008-07-14"
+last_updated: "2014-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62119&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # LEY DE FISCALIZACION SUPERIOR PARA EL ESTADO DE SONORA
 
-LEY DE FISCALIZACION SUPERIOR PARA EL ESTADO DE SONORA
+LEY DE FISCALIZACIÓN SUPERIOR PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE OCTUBRE DE 2014.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 14 de julio de 2008.
 
@@ -313,9 +313,17 @@ VII.- Designar al despacho externo que auditará los recursos públicos ejercido
 
 VIII.- Presentar al Pleno del Congreso las propuestas de aspirantes a ocupar el cargo de Auditor Mayor, y a los Auditores Adjuntos propuestos por el Auditor Mayor, así como las solicitudes de remoción;
 
-IX.- Acordar con el Instituto Establecer los lineamientos para la operación del Fondo para el Fortalecimiento de la Fiscalización Superior del Estado de Sonora; y
+> <small>(REFORMADA, B.O. 23 DE OCTUBRE DE 2014)</small>
 
-X.- Las demás que le asignen esta ley y otras disposiciones aplicables.
+IX.- Acordar con el Instituto establecer los lineamientos para la operación del Fondo para el Fortalecimiento de la Fiscalización Superior del Estado de Sonora;
+
+> <small>(REFORMADA, B.O. 23 DE OCTUBRE DE 2014)</small>
+
+X.- Dar seguimiento a las opiniones que emitan las Comisiones de dictamen del Congreso del Estado, en relación con el desempeño en el cumplimiento de metas y aspectos presupuestales contenidos en los Estados Financieros trimestrales y las cuentas públicas de los entes públicos sujetos a la presente Ley; y
+
+> <small>(ADICIONADA, B.O. 23 DE OCTUBRE DE 2014)</small>
+
+XI.- Las demás que le asignen esta ley y otras disposiciones aplicables.
 
 ### CAPÍTULO IV. DE LA COORDINACIÓN
 
@@ -507,7 +515,7 @@ IX.- El Pliego de Observaciones y medidas de solventación que hubiere emitido;
 
 X.- La relación de las solicitudes de información que los sujetos de fiscalización se hubieran negado a cumplir en tiempo y forma ante el Instituto para el desarrollo de sus funciones; y
 
-XI.- En su caso, los comentarios y observaciones de los sujetos de fiscalización; (sic)
+XI.- En su caso, los comentarios y observaciones de los sujetos de fiscalización;
 
 ###### ARTÍCULO 41.
 
@@ -770,3 +778,11 @@ EDUARDO BOURS CASTELO
 EL SECRETARIO DE GOBIERNO
 
 ROBERTO RUIBAL ASTIAZARAN
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 23 DE OCTUBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
