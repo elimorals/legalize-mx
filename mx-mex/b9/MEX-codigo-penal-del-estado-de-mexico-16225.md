@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2014-10-16"
+last_updated: "2014-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE OCTUBRE DE 2014.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -2575,6 +2575,10 @@ l. Al consumo de bebidas alcohólicas, narcóticos o sustancias tóxicas, se le 
 
 La pena señalada en el párrafo anterior, se aumentará hasta en una mitad a quien venda alguna bebida alcohólica a menores de edad, ya sea en envase cerrado, abierto o para consumo por copeo;
 
+> <small>(ADICIONADO, G.G. 23 DE OCTUBRE DE 2014)</small>
+
+Se impondrá la pena señalada en el párrafo primero, al que organice o realice eventos, reuniones, fiestas o convivios al interior de inmuebles particulares con la finalidad de obtener una ganancia derivada de la venta y consumo de alcohol, drogas, estupefacientes a menores de 18 años o personas que no tengan la capacidad de comprender el significado del hecho, o personas que no tienen capacidad de resistir la conducta.
+
 II. A formar parte de una asociación delictuosa o de delincuencia organizada, se le impondrá pena de cinco a diez años de prisión y de quinientos a dos mil días multa.
 
 III. A realizar a través de cualquier medio y sin fines de lucro actos eróticos o sexuales, así como exhibiciones corporales, lascivas o sexuales, públicas o privadas, será castigado con pena de prisión de tres a cinco años de prisión y de doscientos a quinientos días multa.
@@ -2593,9 +2597,9 @@ No se actualizará el delito tratándose de programas preventivos, educativos o 
 
 Las penas a que se refiere este artículo se incrementarán hasta en una mitad, cuando la conducta se realice en un radio menor o igual a quinientos metros de alguna estancia infantil, institución educativa, parques públicos o centros deportivos.
 
-> <small>(ADICIONADO, G.G. 22 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, G.G. 23 DE OCTUBRE DE 2014)</small>
 
-A quien permita directa o indirectamente el acceso a personas menores de edad a establecimientos dedicados a la venta de bebidas alcohólicas como discotecas, bares, cantinas, pulquerías, centros nocturnos, centros de espectáculos, billares, centros de venta de cervezas o similares, se le aplicará de seis meses a dos años de prisión y de cincuenta a trescientos días multa.
+A quien permita directa o indirectamente el acceso a personas menores de edad a establecimientos dedicados a la venta de bebidas alcohólicas como discotecas, bares, cantinas, pulquerías, centros nocturnos, centros de espectáculos, billares, centros de venta de cervezas o similares, así como a eventos, reuniones, fiestas o convivios al interior de inmuebles particulares, se le aplicará de seis meses a dos años de prisión y de cincuenta a trescientos días multa.
 
 > <small>(REFORMADO Y REUBICADO, G.G. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -2765,7 +2769,7 @@ El Ministerio Público solicitará al Sistema Estatal para el Desarrollo Integra
 
 Este delito se perseguirá por querella, salvo cuando los ofendidos sean menores de edad o incapaces; en cuyo caso, se perseguirá de oficio. En el caso de las fracciones I y II, para que el perdón concedido por el ofendido pueda extinguir la pretensión punitiva, deberá el inculpado pagar todas las cantidades que hubiere dejado de ministrar por concepto de alimentos y garantizará el pago futuro de los mismos, por un término no menor a un año.
 
-Al inculpado de este delito, además de las sanciones señaladas, se le impondrá la perdida de los derechos inherentes a la patria potestad del menor o incapaz agraviado, por resolución judicial.
+Al inculpado de este delito, además de las sanciones señaladas, se le impondrá la pérdida de los derechos inherentes a la patria potestad del menor o incapaz agraviado, por resolución judicial.
 
 El inculpado de este delito, durante la investigación del mismo y al rendir su declaración, será apercibido por el Ministerio Público para que se abstenga de realizar cualquier conducta que pudiere causar daño a los pasivos.
 
@@ -4053,7 +4057,7 @@ I. El robo a que se refieren los artículos 288 fracciones I, II y III y 291, si
 
 > <small>(REFORMADA, G.G. 3 DE MAYO DE 2013)</small>
 
-II. El robo a que se refieren los artículos 289 fracciones I, II, III y VI; 290 fracciones VII, VIII, IX, X y XI, siempre que no concurra alguna de las circunstancias a que se refieren las fracciones I, II, III, IV, V, VI y XVIII de este último artículo y que el sujeto activo sea primodelincuente; circunstancias que deberán verificarse fehacientemente, con los elementos necesarios, entre otros, los antecedentes penales que obren en los archivos correspondientes, por el Ministerio Público Investigador o por la autoridad Judicial, en su caso;
+II. El robo a que se refieren los artículos 289 fracciones I, II, III y VI; 290 fracciones VII, VIII, IX, X y XI, siempre que no concurra alguna de las circunstancias a que se refieren las fracciones I, II, III, IV, V, VI y XVIII de este último artículo y que el sujeto activo sea primodelincuente; circunstancias que deberán verificarse fehacientemente, con los elementos necesarios, entre otros, los antecedentes penales que obren en los archivos correspondientes, por el Ministerio Público Investigador o por la autoridad judicial, en su caso;
 
 > <small>(REFORMADA, G.G. 1 DE ABRIL DE 2004)</small>
 
@@ -4371,7 +4375,7 @@ SEGUNDO.- Este Código, entrará en vigor cinco días después de su publicació
 
 TERCERO.- Se abroga el Código Penal para el Estado de México publicado en la Gaceta del Gobierno el veintiséis de enero de mil novecientos ochenta y seis.
 
-CUARTO.- El Código abrogado seguirá aplicándose para los hechos u omisiones ejecutados durante su vigencia, a menos que conforme al nuevo Código, hayan dejado de considerarse como delitos o que los sujetos al mismo manifiesten su voluntad de acogerse, al presente ordenamiento como más favorable.
+CUARTO.- El Código abrogado seguirá aplicándose para los hechos u omisiones ejecutados durante su vigencia, a menos que conforme al nuevo Código, hayan dejado de considerarse como delitos o que los sujetos al mismo manifiesten su voluntad de acogerse, al presente ordenamiento como mas favorable.
 
 QUINTO.- El artículo 148, que se refiere al delito de prestación ilícita del servicio público de transporte de pasajeros, entrará en vigor a los tres años, a partir del inicio de la vigencia del presente decreto.
 
@@ -4617,13 +4621,13 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 TERCERO.- La reforma al Penúltimo Párrafo del artículo 12, y la adición de un Segundo Párrafo a la fracción VI del artículo 162 del Código de Procedimientos Penales para el Estado de México, estarán en vigor en los siguientes términos:
 
-Hasta, el treinta y uno de marzo de dos mil diez en los Distritos judiciales de Chalco, Otumba y Texcoco;
+Hasta, el treinta y uno de marzo de dos mil diez en los Distritos Judiciales de Chalco, Otumba y Texcoco;
 
 Hasta, el treinta de septiembre de dos mil diez en los Distritos Judiciales de Nezahualcóyotl, El Oro. Ixtlahuaca. Sultepec y Temascaltepec;
 
 Hasta, el treinta y uno de marzo de dos mil once en los Distritos Judiciales de Tlalnepantla, Cuautitlán y Zumpango;
 
-Hasta, el treinta de septiembre de dos mil once en los Distritos judiciales de Ecatepec de Morelos, Jilotepec y Valle de Chalco.
+Hasta, el treinta de septiembre de dos mil once en los Distritos Judiciales de Ecatepec de Morelos, Jilotepec y Valle de Chalco.
 
 CUARTO.- Los artículos 2.134 al 2.140 del Código de Procedimientos Civiles del Estado de México, quedarán derogados en las fechas y términos señalados a continuación:
 
@@ -5256,3 +5260,9 @@ G.G. 16 DE OCTUBRE DE 2014.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 23 DE OCTUBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
