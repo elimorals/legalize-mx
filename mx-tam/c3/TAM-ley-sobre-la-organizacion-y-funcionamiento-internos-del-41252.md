@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2014-04-24"
+last_updated: "2014-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2014.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -597,13 +597,17 @@ v) Recurso Agua;
 
 w) Fomento al Comercio Exterior;
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2014)</small>
 
-x) Juventud; y
+x) Juventud;
 
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2014)</small>
 
-y) Desarrollo de Zonas Metropolitanas.
+y) Desarrollo de Zonas Metropolitanas; y
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2014)</small>
+
+z) Transparencia y Acceso a la Información Pública.
 
 3. La competencia de las comisiones enunciadas en el párrafo anterior se corresponde, en lo general, con las otorgadas a las dependencias de la administración pública del Estado en esas esferas.
 
@@ -1303,7 +1307,7 @@ f) Realicen visitas delegaciones parlamentarias del Congreso de la Unión, de la
 
 g) Se abran los períodos ordinarios de sesiones;
 
-h) Se imponga la Medalla al Mérito "Luis García de Arellano" del Congreso del Estado, e (sic)
+h) Se imponga la Medalla al Mérito "Luis García de Arellano" del Congreso del Estado, e
 
 > <small>(ADICIONADO, P.O. 30 DE MAYO DE 2006)</small>
 
@@ -2700,3 +2704,9 @@ DECRETO NÚMERO LXII-230 MEDIANTE EL CUAL SE REFORMA EL INCISO K) DEL PÁRRAFO 2
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su expedición y se publicará en el Periódico Oficial del Estado.
+
+P.O. 23 DE OCTUBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El Presente Decreto entrará en vigor a partir de su expedición, y se publicará en el Periódico Oficial del Estado de Tamaulipas.
