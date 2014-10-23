@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-financiera-nacional-de-desarrollo-30022
 country: "mx"
 rank: "estatuto"
 publication_date: "2003-04-21"
-last_updated: "2013-09-10"
+last_updated: "2014-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30022&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-04-09"
 
 ESTATUTO ORGÁNICO DE LA FINANCIERA RURAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE OCTUBRE DE 2014.
 
 Estatuto publicado en el Diario Oficial de la Federación, el lunes 21 de abril de 2003.
 
@@ -333,7 +333,7 @@ XIII. Instruir la constitución de comités internos de trabajo distintos a los 
 
 XIV. Rendir al Consejo informes semestrales, con la intervención que corresponda a los comisarios;
 
-XV. Realizar toda clase de actos jurídicos necesarios para cumplir con los fines de la Financiera, y (sic)
+XV. Realizar toda clase de actos jurídicos necesarios para cumplir con los fines de la Financiera, y
 
 > <small>(REFORMADA, D.O.F. 23 DE JULIO DE 2008)</small>
 
@@ -413,9 +413,9 @@ III. Planear y dirigir acciones para llevar a cabo permanentemente las funciones
 
 > <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2009)</small>
 
-IV. Coadyuvar con el Comité de Auditoría y con el Comité de Administración Integral de Riesgos en el cumplimiento de las disposiciones aplicables a la administración del riesgo operativo, tecnológico, de mercado, liquidez, crédito, legal, y en función a las necesidades de la Institución; y (sic)
+IV. Coadyuvar con el Comité de Auditoría y con el Comité de Administración Integral de Riesgos en el cumplimiento de las disposiciones aplicables a la administración del riesgo operativo, tecnológico, de mercado, liquidez, crédito, legal, y en función a las necesidades de la Institución; y
 
-V. Dirigir las actividades de administración y control de la Normateca Institucional de la Financiera, y (sic)
+V. Dirigir las actividades de administración y control de la Normateca Institucional de la Financiera, y
 
 > <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
 
@@ -555,7 +555,7 @@ V. Coadyuvar en la coordinación técnica dirigida a las gerencias jurídicas de
 
 VI. Coadyuvar con la Dirección General Adjunta Jurídica y Fiduciaria en las funciones derivadas de la fracción VIII del artículo 23 de este Estatuto;
 
-VII. Supervisar la implementación de acciones para la administración del riesgo legal de la Financiera; y (sic)
+VII. Supervisar la implementación de acciones para la administración del riesgo legal de la Financiera; y
 
 > <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -1047,7 +1047,7 @@ IX. Dirigir y vigilar los mecanismos para la supervisión y cobranza extrajudici
 
 > <small>(REFORMADA, D.O.F. 18 DE ENERO DE 2012)</small>
 
-X. Dirigir y vigilar la correcta aplicación de los lineamientos, políticas y procedimientos para la cobranza administrativa y extrajudicial de la cartera crediticia de la Financiera; y (sic)
+X. Dirigir y vigilar la correcta aplicación de los lineamientos, políticas y procedimientos para la cobranza administrativa y extrajudicial de la cartera crediticia de la Financiera; y
 
 XI. (DEROGADA, D.O.F. 31 DE MAYO DE 2011)
 
@@ -1289,7 +1289,7 @@ IX. (DEROGADA, D.O.F. 23 DE ENERO DE 2008)
 
 > <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
-X. Fomentar el desarrollo de esquemas y programas de detección de necesidades de financiamiento e inversión a nivel estatal y municipal, con objeto de vincularlos a los programas de instituciones nacionales e internacionales, y (sic)
+X. Fomentar el desarrollo de esquemas y programas de detección de necesidades de financiamiento e inversión a nivel estatal y municipal, con objeto de vincularlos a los programas de instituciones nacionales e internacionales, y
 
 > <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -1307,7 +1307,7 @@ XIV. (DEROGADA, D.O.F. 13 DE MARZO DE 2013)
 
 > <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
 
-XV. Establecer, dirigir y supervisar la función de promoción a través de técnicas de mercadeo, la venta de productos y servicios crediticios, así como la detección de zonas y clientes potenciales para el desarrollo; y (sic)
+XV. Establecer, dirigir y supervisar la función de promoción a través de técnicas de mercadeo, la venta de productos y servicios crediticios, así como la detección de zonas y clientes potenciales para el desarrollo; y
 
 > <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
 
@@ -1467,7 +1467,7 @@ II. Coordinar las estrategias para simplificar la atención de los usuarios de l
 
 III. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
 
-IV. Aprobar y coordinar la asignación de los recursos destinados a los apoyos y servicios para los proyectos productivos, empresas rurales y organizaciones de Productores, y (sic)
+IV. Aprobar y coordinar la asignación de los recursos destinados a los apoyos y servicios para los proyectos productivos, empresas rurales y organizaciones de Productores, y
 
 V. Solicitar información relacionada con el ejercicio de sus atribuciones a los particulares;
 
@@ -1587,7 +1587,7 @@ IX. Aprobar políticas sobre la utilización, conservación, salvaguarda y asegu
 
 X. Dictar las normas en materia de almacenes y supervisar los sistemas de control de inventarios de bienes, dictaminando, controlando y vigilando su afectación, baja y destino final;
 
-XI. Aprobar políticas relativas a los recursos materiales y servicios generales en la Financiera, y (sic)
+XI. Aprobar políticas relativas a los recursos materiales y servicios generales en la Financiera, y
 
 XII. Aprobar políticas de seguridad, vigilancia y protección civil que resguarden la integridad del personal, y salvaguarden los bienes muebles e inmuebles patrimonio de la Financiera;
 
@@ -1623,7 +1623,7 @@ X. Coordinar el pago de remuneraciones y el otorgamiento de prestaciones en bene
 
 XI. Vigilar el cumplimiento del contrato colectivo de trabajo y de otros instrumentos normativos internos que rigen las relaciones laborales;
 
-XII. Vigilar que las unidades administrativas de la Financiera se ajusten a las estructuras orgánicas ocupacionales y salariales, y (sic)
+XII. Vigilar que las unidades administrativas de la Financiera se ajusten a las estructuras orgánicas ocupacionales y salariales, y
 
 XIII. Representar a la Financiera ante autoridades laborales, así como ante las instituciones de seguridad social y empresas que permitan mejorar los beneficios y prestaciones del personal, así como ante las organizaciones sindicales de la Institución, interviniendo en las negociaciones de las condiciones laborales, con la participación correspondiente del área jurídica;
 
@@ -1687,7 +1687,7 @@ XI. Dirigir la instrumentación de las políticas de seguridad y protección civ
 
 > <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
 
-XII. Coordinar el funcionamiento de los comités de Adquisiciones, Arrendamientos y Servicios; de Obras Públicas y Servicios Relacionados con las Mismas, el de Bienes, el Interno de Ahorro de Energía y aquellos que se instalen competencia de su área, y (sic)
+XII. Coordinar el funcionamiento de los comités de Adquisiciones, Arrendamientos y Servicios; de Obras Públicas y Servicios Relacionados con las Mismas, el de Bienes, el Interno de Ahorro de Energía y aquellos que se instalen competencia de su área, y
 
 XIII. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
 
@@ -1721,7 +1721,7 @@ V. (DEROGADA, D.O.F. 13 DE MARZO DE 2013)
 
 > <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
-VI. Dictar políticas y estrategias en materia presupuestal, y (sic)
+VI. Dictar políticas y estrategias en materia presupuestal, y
 
 VII. (DEROGADA, D.O.F. 13 DE MARZO DE 2013)
 
@@ -1765,7 +1765,7 @@ VI. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
 
 VII. Dictar lineamientos para el cumplimiento de las normas y políticas para el registro contable, control y reportes a las autoridades de acuerdo a las distintas directrices establecidas por las autoridades financieras;
 
-VIII. Emitir lineamientos para el control de pagos relacionados con los servicios administrados por el área de recursos materiales y servicios, y (sic)
+VIII. Emitir lineamientos para el control de pagos relacionados con los servicios administrados por el área de recursos materiales y servicios, y
 
 IX. Proponer estrategias y proyectos encaminados a mejorar los resultados financieros institucionales;
 
@@ -1851,7 +1851,7 @@ III. Establecer los mecanismos para la administración, control y operación de 
 
 > <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
 
-IV. Establecer los lineamientos y mecanismos por los cuales optimice, con base en las necesidades de operación de la institución, la funcionalidad de los sistemas, relativos a la operación de financiamientos y apoyos institucionales; y (sic)
+IV. Establecer los lineamientos y mecanismos por los cuales optimice, con base en las necesidades de operación de la institución, la funcionalidad de los sistemas, relativos a la operación de financiamientos y apoyos institucionales; y
 
 > <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
 
@@ -1887,7 +1887,7 @@ II. Coordinar la aplicación de la concentración de los recursos recibidos;
 
 III. Coordinar que se lleve a cabo la conciliación de las cifras de cartera con la contabilidad institucional así como la definición de los perfiles de usuarios para la operación;
 
-IV. Coordinar el procesamiento de las operaciones de crédito que le envíe la mesa de control; y (sic)
+IV. Coordinar el procesamiento de las operaciones de crédito que le envíe la mesa de control; y
 
 V. Coordinar la definición, administración y operación de la base de datos de cartera institucional;
 
@@ -2053,7 +2053,7 @@ XI. Determinar el domicilio de las propias coordinaciones regionales, agencias y
 
 > <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
-XII. Coordinar la vigilancia, evaluación y control necesario para asegurar la adecuada operación con apego a la normatividad vigente, y (sic)
+XII. Coordinar la vigilancia, evaluación y control necesario para asegurar la adecuada operación con apego a la normatividad vigente, y
 
 > <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2009)</small>
 
@@ -2433,83 +2433,65 @@ Los integrantes previstos en los incisos I, II, IX, X y XI acudirán con derecho
 
 En el caso del Director General Adjunto Jurídico y Fiduciario, éste podrá nombrar como suplente indistintamente al Director Ejecutivo Jurídico o a los Subdirectores Corporativos que dependen de éste.
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE OCTUBRE DE 2014)</small>
 
 ###### ARTICULO 70.
 
 El Comité de Crédito tendrá las facultades siguientes:
 
-I. Autorizar el otorgamiento de préstamos o créditos, de conformidad con la fracción II del artículo 9o. de la Ley;
+I. Autorizar el otorgamiento de préstamos o créditos, de conformidad con los montos y lineamientos que apruebe el Consejo;
 
-II. Opinar al Consejo sobre el otorgamiento de préstamos o créditos complementarios, conforme a lo señalado en la fracción III del artículo 9o. de la Ley;
+II. Opinar al Consejo sobre el otorgamiento de préstamos o créditos, conforme a los montos y lineamientos que apruebe el Consejo;
 
 III. Opinar al Comité de Administración Integral de Riesgos sobre la metodología para la estimación de pérdidas y, en su caso, la constitución de reservas;
 
-IV. (DEROGADA, D.O.F. 20 DE JULIO DE 2010)
+IV. Opinar al Consejo, a través del Presidente del Comité de Crédito, sobre la aplicación de reservas de la cartera crediticia de la Financiera;
 
-> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2010)</small>
+V. Autorizar u opinar el otorgamiento de préstamos o créditos a Intermediarios Financieros Rurales, conforme a los Lineamientos Generales para el Otorgamiento de Crédito a Intermediarios Financieros Rurales aprobados por el Consejo;
 
-V. Opinar al Consejo, a través del Presidente del Comité de Crédito, sobre la aplicación de reservas de la cartera crediticia de la Financiera;
+VI. Autorizar u opinar el otorgamiento de líneas de reporto, de conformidad con los Lineamientos Generales para la Operación de Reportos y del Manual de Normas y Políticas de Reporto, y
 
-> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2010)</small>
+VII. Las demás que le confieran las disposiciones legales y reglamentarias correspondientes, así como las que le encomiende expresamente el Consejo.
 
-VI. Autorizar el otorgamiento de préstamos o créditos a Intermediarios Financieros Rurales, conforme a los Lineamientos Generales para el Otorgamiento de Crédito a Intermediarios Financieros Rurales aprobados por el Consejo Directivo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2010)</small>
-
-VII. Autorizar el otorgamiento de líneas de reporto, de conformidad con los Lineamientos Generales para la Operación de Reportos y del Manual de Normas y Políticas de Reporto, y
-
-> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2010)</small>
-
-VIII. Las demás que determine la Ley, el Estatuto, el Consejo y las Reglas de Operación del Comité.
-
-> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 23 DE OCTUBRE DE 2014)</small>
 
 ###### ARTICULO 71.
 
 El Comité de Crédito estará integrado de la siguiente forma:
 
-I. Presidente: El Director General Adjunto de Crédito;
+I. Presidente: El Titular de la Unidad de Banca de Desarrollo de la Secretaría de Hacienda y Crédito Público / Suplente: A quien designe el Presidente;
 
-> <small>(REFORMADA, D.O.F. 13 DE MARZO DE 2013)</small>
+II. Un representante de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
 
-II. El Director General Adjunto de Promoción de Negocios y Coordinación Regional;
+III. Un representante de Banco de México;
 
-> <small>(REFORMADA, D.O.F. 13 DE MARZO DE 2013)</small>
+IV. Un experto independiente nombrado por el Consejo Directivo;
 
-III. El Director General Adjunto de Planeación Estratégica, Análisis Sectorial y Tecnologías de la Información;
+V. El Director General Adjunto de Crédito de la Financiera;
 
-IV. El Titular de la Unidad para la Administración Integral de Riesgos;
+VI. El Director General Adjunto de Promoción de Negocios y Coordinación Regional de la Financiera;
 
-> <small>(REFORMADA, D.O.F. 13 DE MARZO DE 2013)</small>
+VII. El Director General Adjunto de Finanzas y Operaciones de la Financiera;
 
-V. El Director General Adjunto de Finanzas y Operaciones;
+VIII. Secretario: El Director General Adjunto Jurídico y Fiduciario de la Financiera / Suplente: Director Ejecutivo Jurídico de la Financiera;
 
-VI. El Director Ejecutivo de Análisis y Normatividad de Crédito;
+IX. El Titular de la Contraloría Interna, en calidad de asesor;
 
-VII. Un representante de la Secretaría de Hacienda y Crédito Público, en calidad de asesor;
+X. El Director Ejecutivo Jurídico, en calidad de asesor;
 
-VIII. Un representante del Banco de México, en calidad de asesor;
+XI. El Director Ejecutivo de Análisis y Normatividad de Crédito, en calidad de asesor;
 
-IX. Un representante del área jurídica de la Financiera Rural, en calidad de asesor;
+XII. El Director Ejecutivo de Operación; en calidad de asesor, y
 
-X. El Titular del Organo Interno de Control de la Financiera, en calidad de asesor;
+XIII. El Director Ejecutivo de Programas y Productos, en calidad de asesor.
 
-XI. El Titular de la Contraloría Interna, en calidad de asesor;
+Los integrantes previstos en los incisos I al VII acudirán con derecho a voz y voto. En el caso de los integrantes de los incisos VIII al XIII acudirán sólo con derecho a voz. En los casos en que los titulares integrantes del Comité no puedan asistir a la sesión, nombrarán a un suplente del que ostente un nivel jerárquico inmediato inferior.
 
-XII. El Subdirector Corporativo de Supervisión y Cobranza, en calidad de asesor;
-
-XIII. El Subdirector Corporativo de Normatividad de Crédito, en calidad de asesor, y
-
-XIV. El Subdirector Corporativo de Análisis de Crédito, en calidad de secretario;
-
-Los integrantes previstos en los incisos I al VI acudirán con derecho a voz y voto. En el caso de los integrantes de los incisos VII al XIV acudirán sólo con derecho a voz. En los casos en que los titulares integrantes del Comité no puedan asistir a la sesión, nombrarán a un suplente con el nivel jerárquico inmediato inferior al de ellos.
-
-Para casos específicos podrán invitarse a expertos externos en calidad de asesores.
-
-El suplente del presidente del Comité será el Director Ejecutivo de Análisis y Normatividad de Crédito y en la ausencia de ambos, será designado conforme a la mecánica establecida en las Reglas de Operación del Comité de Crédito.
-
-El representante del área jurídica deberá tener un nivel jerárquico mínimo de Subdirector Corporativo.
+La Dirección General Adjunta de Crédito o la persona que la represente será la encargada de presentar los asuntos.
 
 > <small>(REFORMADO, D.O.F. 22 DE ENERO DE 2010)</small>
 
@@ -2764,3 +2746,7 @@ UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguien
 D.O.F. 10 DE SEPTIEMBRE DE 2013.
 
 ÚNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE OCTUBRE DE 2014.
+
+ÚNICO.- La presente reforma al Estatuto Orgánico entrará en vigor hasta en tanto se dicten las reglas de operación del comité de crédito, mientras tanto, las instancias actuales de autorización continuarán vigentes. Asimismo y mientras se ajusta la normatividad interna de la institución todas las referencias que se hagan respecto del Comité de Crédito, se entenderán realizadas al Comité de Créditos Menores. Dicha reforma, en su momento, deberá publicarse en el Diario Oficial de la Federación.
