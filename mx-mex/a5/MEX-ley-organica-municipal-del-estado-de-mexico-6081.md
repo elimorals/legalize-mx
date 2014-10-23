@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2014-10-22"
+last_updated: "2014-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE OCTUBRE DE 2014.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -1699,9 +1699,11 @@ Las dependencias y entidades de la administración pública municipal, tales com
 
 Los titulares de cada una de las dependencias y entidades de la administración pública municipal, acordarán directamente con el presidente municipal o con quien éste determine, y deberán cumplir los requisitos señalados en esta Ley; éstos servidores públicos preferentemente serán vecinos del municipio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 23 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 91.
 
-Son atribuciones del secretario del ayuntamiento las siguientes:
+La Secretaría del Ayuntamiento estará a cargo de un Secretario, el que, sin ser miembro del mismo, deberá ser nombrado por el propio Ayuntamiento a propuesta del Presidente Municipal como lo marca el artículo 31 de la presente ley. Sus faltas temporales serán cubiertas por quien designe el Ayuntamiento y sus atribuciones son las siguientes:
 
 I. Asistir a las sesiones del ayuntamiento y levantar las actas correspondientes;
 
@@ -4114,3 +4116,9 @@ G.G. 22 DE OCTUBRE DE 2014.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
+
+G.G. 23 DE OCTUBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
