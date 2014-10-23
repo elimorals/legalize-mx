@@ -4,7 +4,7 @@ identifier: "SON-ley-de-educacion-para-el-estado-de-sonora-8518"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2014-06-26"
+last_updated: "2014-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE OCTUBRE DE 2014.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 30 de diciembre de 1994.
 
@@ -519,6 +519,10 @@ XV.- Realizar campañas que tiendan a elevar los niveles culturales, sociales y 
 
 XVI.- Colaborar con el Poder Ejecutivo Federal, por conducto de la Secretaría de Educación Pública, en la formación y desarrollo de planes estatales, nacionales e internacionales en materia de docencia, investigación y difusión de la cultura;
 
+> <small>(ADICIONADA, B.O. 23 DE OCTUBRE DE 2014)</small>
+
+XVI Bis.- Crear un expediente único para todo alumno que curse estudios en el Estado de Sonora en los niveles que imparta el Estado, siendo estos de preescolar a media superior;
+
 > <small>(REFORMADA, B.O. 3 DE ABRIL DE 2014)</small>
 
 XVII. Participar con la autoridad educativa federal, en la operación de los mecanismos de administración escolar; y
@@ -673,11 +677,27 @@ En las actividades de supervisión las autoridades educativas darán preferencia
 
 ARTICULO 26 BIS.- Será obligatorio que las escuelas públicas de educación básica establecidas dentro del territorio estatal, cuenten con los servicios públicos de agua, energía eléctrica, drenaje, alumbrado público y pavimentación, dentro de un perímetro que comprenda los alrededores de dichos planteles escolares; para tales efectos, el Estado, a través de la Secretaría, implantará programas de coordinación con los municipios, a efecto de establecer las acciones, mecanismos y previsiones presupuestales que resulten necesarias para dar cumplimiento a lo anterior.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 23 DE OCTUBRE DE 2014)</small>
+
+### CAPITULO III BIS. DEL EXPEDIENTE UNICO DEL ESTUDIANTE
+
+> <small>(ADICIONADO, B.O. 23 DE OCTUBRE DE 2014)</small>
+
+ARTICULO 26 TER.- El Estado, a través de la Secretaría de Educación y Cultura, creará para cada alumno un expediente único que deberá contener sus evaluaciones, reportes de conducta, accidentes, enfermedades crónicas, enfermedades psicológicas y situación familiar.
+
+La Secretaría deberá proporcionar copias simples o certificadas del expediente único cuando así lo soliciten las siguientes personas:
+
+I.- El alumno;
+
+II.- El padre, madre o tutor;
+
+III.- La institución educativa pública o privada en que se encuentre inscrito; y
+
+IV.- Las instituciones de educación básica o superior en las que haya solicitud de inscripción.
+
 ### CAPITULO IV. DEL SISTEMA EDUCATIVO ESTATAL
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE ABRIL DE 2014)</small>
-
-### CAPITULO V. DE LA EDUCACION QUE IMPARTAN LOS PARTICULARES
 
 ###### ARTICULO 27.
 
@@ -899,7 +919,7 @@ Las actividades no previstas en los planes y programas de estudio, o bien la sus
 
 De presentarse interrupciones por caso extraordinario o de fuerza mayor, la Secretaria tomará las medidas necesarias para recuperar los días y horas perdidas.
 
-### CAPITULO VI. DE LA VALIDEZ OFICIAL DE ESTUDIOS Y DE LA CERTIFICACION DE CONOCIMIENTOS
+### CAPITULO V. DE LA EDUCACION QUE IMPARTAN LOS PARTICULARES
 
 ###### ARTICULO 44.
 
@@ -1021,9 +1041,7 @@ Los particulares que presten servicios por los que se impartan estudios sin reco
 
 En el caso de la educación inicial y de preescolar deberán, además, contar con personal que acredite la preparación adecuada para impartir educación; contar con instalaciones que satisfagan las condiciones higiénicas, de seguridad y pedagógicas que la Secretaría determine; cumplir los requisitos a que alude el artículo 25 de esta Ley; presentar las evaluaciones que correspondan, de conformidad con lo dispuesto en esta Ley y demás disposiciones correspondientes que deriven en el marco del Sistema Nacional de Evaluación Educativa, y tomar las medidas a que se refiere el artículo 33 de la presente Ley; así como facilitar la inspección y vigilancia de la autoridad competente de la Secretaría.
 
-### CAPITULO VII. DE LA EDUCACION MEDIA SUPERIOR
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE ABRIL DE 2014)</small>
+### CAPITULO VI. DE LA VALIDEZ OFICIAL DE ESTUDIOS Y DE LA CERTIFICACION DE CONOCIMIENTOS
 
 ###### ARTICULO 50.
 
@@ -1055,7 +1073,9 @@ Las revalidaciones y equivalencias otorgadas por el Estado a través de la Secre
 
 ARTICULO 54 BIS.- (DEROGADO, B.O. 3 DE ABRIL DE 2014)
 
-### CAPITULO VIII. DE LA COORDINACION DE LA EDUCACION SUPERIOR
+### CAPITULO VII. DE LA EDUCACION MEDIA SUPERIOR
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 55.
 
@@ -1129,9 +1149,7 @@ El Estado podrá establecer en la Entidad, de acuerdo a sus necesidades, organis
 
 Toda institución de enseñanza media superior que tenga sede u oficina en otra entidad federativa, podrá ofrecer estudios dentro del territorio del Estado, con aprobación expresa del Estado, a través de la Secretaría la cual será otorgada previa consulta a la Comisión Estatal para la Planeación de la Educación Media Superior.
 
-### CAPITULO IX. DE LA PARTICIPACION SOCIAL EN LA EDUCACION
-
-> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2013)</small>
+### CAPITULO VIII. DE LA COORDINACION DE LA EDUCACION SUPERIOR
 
 ###### ARTICULO 63.
 
@@ -1189,21 +1207,9 @@ El Estado, podrá establecer en la Entidad, de acuerdo a sus necesidades, organi
 
 Toda institución de enseñanza superior que tenga sede u oficina central en otra entidad federativa o el Distrito Federal, podrá ofrecer estudios dentro del territorio del Estado, con aprobación expresa del Estado, a través de la Secretaria, la cual será otorgada previa consulta a la Comisión Estatal para la Planeación de la Educación Superior.
 
-### CAPITULO X. DEL INGRESO, PROMOCION, RECONOCIMIENTO Y PERMANENCIA EN EL SERVICIO DOCENTE
+### CAPITULO IX. DE LA PARTICIPACION SOCIAL EN LA EDUCACION
 
-(NOTA: EL 22 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 40/2014, EN EXTENSIVA DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(ADICIONADO, B.O. 3 DE ABRIL DE 2014)</small>
-
-ARTICULO 80 BIS.- El ingreso, promoción, reconocimiento y permanencia del personal docente o con funciones de dirección o supervisión en la educación básica y media superior que impartan el Estado, organismos descentralizados o los municipios, se ajustarán a lo dispuesto en el presente capítulo y además observarán lo establecido en la Ley General Docente.
-
-(NOTA: EL 22 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO, SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 40/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(ADICIONADO, B.O. 3 DE ABRIL DE 2014)</small>
-
-ARTICULO 80 BIS 1.- El Gobierno del Estado de Sonora se obliga a respetar íntegramente los derechos adquiridos de los trabajadores de la educación, así como, a reconocer los acuerdos alcanzados a través de contratos colectivos de trabajo, convenios, minutas y acuerdos celebrados por éste a través de las instancias respectivas y las organizaciones sindicales, que estipulan beneficios laborales, profesionales, salariales y sociales. Para tal efecto, las personas que decidan aceptar el desempeño de un empleo, cargo o comisión que impidan el ejercicio de su función docente, de dirección o supervisión, deberán separarse del Servicio, sin goce de sueldo, mientras dure el empleo, cargo o comisión, con excepción de los casos previstos en la fracción VI del artículo 38 de la Ley del Servicio Civil del Estado y lo establecido en los contratos colectivos de trabajo.
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 3 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 72.
 
@@ -1381,9 +1387,21 @@ Quienes hayan sido beneficiados directamente por los servicios educativos de los
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 3 DE ABRIL DE 2014)</small>
 
-### CAPITULO XI. DEL FINANCIAMIENTO DE LA EDUCACION
+### CAPITULO X. DEL INGRESO, PROMOCION, RECONOCIMIENTO Y PERMANENCIA EN EL SERVICIO DOCENTE
 
-> <small>(REFORMADO, B.O. 3 DE ABRIL DE 2014)</small>
+(NOTA: EL 22 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 40/2014, EN EXTENSIVA DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(ADICIONADO, B.O. 3 DE ABRIL DE 2014)</small>
+
+ARTICULO 80 BIS.- El ingreso, promoción, reconocimiento y permanencia del personal docente o con funciones de dirección o supervisión en la educación básica y media superior que impartan el Estado, organismos descentralizados o los municipios, se ajustarán a lo dispuesto en el presente capítulo y además observarán lo establecido en la Ley General Docente.
+
+(NOTA: EL 22 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO, SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 40/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(ADICIONADO, B.O. 3 DE ABRIL DE 2014)</small>
+
+ARTICULO 80 BIS 1.- El Gobierno del Estado de Sonora se obliga a respetar íntegramente los derechos adquiridos de los trabajadores de la educación, así como, a reconocer los acuerdos alcanzados a través de contratos colectivos de trabajo, convenios, minutas y acuerdos celebrados por éste a través de las instancias respectivas y las organizaciones sindicales, que estipulan beneficios laborales, profesionales, salariales y sociales. Para tal efecto, las personas que decidan aceptar el desempeño de un empleo, cargo o comisión que impidan el ejercicio de su función docente, de dirección o supervisión, deberán separarse del Servicio, sin goce de sueldo, mientras dure el empleo, cargo o comisión, con excepción de los casos previstos en la fracción VI del artículo 38 de la Ley del Servicio Civil del Estado y lo establecido en los contratos colectivos de trabajo.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 3 DE ABRIL DE 2014)</small>
 
 #### SECCION I. DEL INGRESO AL SERVICIO
 
@@ -1885,7 +1903,7 @@ VIII. Desarrollar investigación pedagógica y promover innovaciones educativas 
 
 > <small>(ADICIONADO, B.O. 3 DE ABRIL DE 2014)</small>
 
-### CAPITULO XII. DE LA EQUIDAD EDUCATIVA E INCLUSIÓN SOCIAL
+### CAPITULO XI. DEL FINANCIAMIENTO DE LA EDUCACION
 
 > <small>(REFORMADO, B.O. 3 DE ABRIL DE 2014)</small>
 
@@ -1915,7 +1933,7 @@ III. Administrar en forma transparente y eficiente los recursos que reciba para 
 
 > <small>(ADICIONADO, B.O. 3 DE ABRIL DE 2014)</small>
 
-### CAPITULO XIII. DE LAS INFRACCIONES, LAS SANCIONES Y EL RECURSO ADMINISTRATIVO
+### CAPITULO XII. DE LA EQUIDAD EDUCATIVA E INCLUSIÓN SOCIAL
 
 > <small>(REFORMADO, B.O. 3 DE ABRIL DE 2014)</small>
 
@@ -1936,6 +1954,10 @@ V. Realizar las demás actividades que permitan mejorar la calidad y ampliar la 
 VI. Establecer, de forma paulatina y conforme a la suficiencia presupuestal y los apoyos federales, escuelas de tiempo completo, con jornadas de entre 6 y 8 horas diarias, para aprovechar mejor el tiempo disponible para el desarrollo académico, deportivo y cultural.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 3 DE ABRIL DE 2014)</small>
+
+### CAPITULO XIII. DE LAS INFRACCIONES, LAS SANCIONES Y EL RECURSO ADMINISTRATIVO
+
+> <small>(REFORMADO, B.O. 3 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 84.
 
@@ -2392,3 +2414,13 @@ B.O. 26 DE JUNIO DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor el día siguiente al de su publicación el (sic) Boletín Oficial del Estado de Sonora.
+
+B.O. 23 DE OCTUBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial.
+
+###### ARTÍCULO SEGUNDO.
+
+Se establece un plazo de 90 días contado a partir de la publicación del presente decreto en el Boletín Oficial del Gobierno del Estado para que la Secretaría de Educación y Cultura incorpore el Expediente Único del Estudiante en el Estado.
