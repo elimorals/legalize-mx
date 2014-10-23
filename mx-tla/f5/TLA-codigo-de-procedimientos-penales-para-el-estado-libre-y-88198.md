@@ -4,7 +4,7 @@ identifier: "TLA-codigo-de-procedimientos-penales-para-el-estado-libre-y-88198"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-05-30"
-last_updated: "2013-12-23"
+last_updated: "2014-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TLA"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO No. 38 DE LA DECLARATORIA DE QUE EL SISTEMA PROCESAL PENAL ACUSATORIO HA SIDO INCORPORADO AL RÉGIMEN JURÍDICO DEL ESTADO DE TLAXCALA, PUBLICADO EN EL NÚMERO EXTRAORDINARIO DEL P.O. DE 23 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2014 (ABROGADO).
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Tlaxcala, el miércoles 30 de mayo de 2012.
 
@@ -6328,3 +6330,65 @@ P.O. 23 DE DICIEMBRE DE 2013.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE OCTUBRE DE 2014.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO No. 38 DE LA DECLARATORIA DE QUE EL SISTEMA PROCESAL PENAL ACUSATORIO HA SIDO INCORPORADO AL RÉGIMEN JURÍDICO DEL ESTADO DE TLAXCALA.</small>
+
+"ARTÍCULO PRIMERO. Con fundamento en lo dispuesto por los artículos 45, 47 y 54 fracción LIX de la Constitución Política del Estado Libre y Soberano de Tlaxcala; 3, 5 fracción I, 7, 9 fracción II y 10 Apartado A fracción II de la Ley Orgánica del Poder Legislativo del Estado de Tlaxcala, y para los efectos señalados en el ARTÍCULO SEGUNDO TRANSITORIO del Decreto de reformas y adiciones a la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el dieciocho de junio de dos mil ocho, se declara que el sistema procesal penal acusatorio ha sido incorporado al régimen jurídico del estado de tlaxcala y, en consecuencia, las garantías que consagra la Constitución Política de los Estados Unidos Mexicanos empezarán a regular la forma y términos en que se substanciarán los procedimientos penales, ordenando su entrada en vigor de manera gradual, por Distritos Judiciales y por delitos, de acuerdo con las prevenciones siguientes:
+
+A) El inicio de operaciones del Sistema Procesal Penal Acusatorio y la entrada en vigor del Código Nacional de Procedimientos Penales en el Estado Libre y Soberano de Tlaxcala, será a partir del día treinta y uno de diciembre de dos mil catorce en el Distrito Judicial de Guridi y Alcocer, excepto en las investigaciones y procedimientos que versen sobre los delitos siguientes:
+
+1. Homicidio Doloso y su Tentativa, previsto en los artículos 19, 79, 224 a 228, 230 y 231; Rebelión, previsto en los artículos 138 a 141; Evasión de Presos, previsto en los artículos 200 y 201; Terrorismo, previsto en los artículos 134 a 136; Peligro de Contagio, previsto en el artículo 302; Delitos contra la Formación de las Personas Menores de Edad y Protección Integral de Personas que no tienen la Capacidad para Comprender el Significado del Hecho que señalan los artículos 355 a 357; Trata de Personas, previsto en el artículo 284; Violación y su Tentativa, previsto en los artículos 19, 79, 285 a 289; Retención o Sustracción de Menores o Incapaces, previsto en el artículo 261; Asalto, previsto en los artículos 271 a 273; Secuestro y su Tentativa, previsto en el artículo 283; Lesiones, previsto en los artículos 232 fracción VII y 237 a excepción de los supuestos previstos en las fracciones I a VI del artículo 232; Ayuda o Inducción al Suicidio, previsto en los artículos 244 a 246 y 248; Aborto, previsto en el párrafo tercero del artículo 242; Feminicidio, previsto en el artículo 229 en relación con el artículo 240; Extorsión, previsto en los artículos 268 al 270; Narcomenudeo, previsto en el artículo 309; Robo Calificado, previsto en los artículos 328, 329 fracción VI y 330; Robo de Ganado, previsto en los artículos 331 al 334 y Daños, previsto en los artículos 349 y 350 párrafo segundo, todos del Código Penal para el Estado Libre y Soberano de Tlaxcala, publicado en el Periódico Oficial del Gobierno del Estado de Tlaxcala el treinta y uno de mayo del dos mil trece, y
+
+2. Los señalados en el artículo 167 del Código Nacional de Procedimientos Penales que ameritan prisión preventiva oficiosa.
+
+B) En el Distrito Judicial de Sánchez Piedras, la operación del Sistema Procesal Penal Acusatorio y las disposiciones del Código Nacional de Procedimientos Penales comenzarán a regir a partir del día treinta de noviembre de dos mil quince, excepto en las investigaciones y procedimientos que versen sobre los delitos siguientes:
+
+1. Homicidio Doloso y su Tentativa, previsto en los artículos 19, 79, 224 a 228, 230 y 231; Rebelión, previsto en los artículos 138 a 141; Evasión de Presos, previsto en los artículos 200 y 201; Terrorismo, previsto en los artículos 134 a 136; Peligro de Contagio, contenido en el artículo 302; Delitos contra la Formación de las Personas Menores de Edad y Protección Integral de Personas que no tienen la Capacidad para Comprender el significado del hecho que señalan los artículos 355 a 357; Trata de Personas, previsto en el artículo 284; Violación y su Tentativa, previsto en los artículos 19, 79, 285 a 289; Retención o Sustracción de Menores o Incapaces, previsto en el artículo 261; Asalto, previsto en los artículos 271 a 273; Secuestro y su Tentativa, previsto en el artículo 283; Lesiones, previsto en los artículos 232 fracción VII y 237 a excepción de los supuestos previstos en las fracciones I a VI del artículo 232; Ayuda o Inducción al Suicidio, previsto en los artículos 244 a 246 y 248; Aborto, previsto en el párrafo tercero del artículo 242; Feminicidio, previsto en el artículo 229 en relación con el artículo 240; Extorsión, previsto en los artículos 268 al 270; Narcomenudeo, previsto en el artículo 309; Robo Calificado, previsto en los artículos 328, 329 fracción VI y 330; Robo de Ganado, previsto en los artículos 331 al 334 y Daños, previsto en los artículos 349 y 350 párrafo segundo, todos del Código Penal para el Estado Libre y Soberano de Tlaxcala, publicado en el Periódico Oficial del Gobierno del Estado de Tlaxcala el treinta y uno de mayo del dos mil trece, y
+
+2. Los señalados en el artículo 167 del Código Nacional de Procedimientos Penales que ameritan prisión preventiva oficiosa.
+
+C) A partir del dieciocho de junio de dos mil dieciséis, el Sistema Penal Acusatorio y las disposiciones del Código Nacional de Procedimientos Penales regirán en todo el Estado respecto de cualquier delito previsto y sancionado en el Código Penal para el Estado Libre y Soberano de Tlaxcala, así como respecto de los delitos especiales previstos en los ordenamientos legales vigentes en el Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Para los efectos señalados en el ARTÍCULO SEGUNDO TRANSITORIO del Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el día cinco de marzo de dos mil catorce, se declara que el Estado de Tlaxcala incorpora a su régimen jurídico el Código Nacional de Procedimientos Penales, que entrará en vigor de manera gradual, por Distritos Judiciales y por delitos y de acuerdo con las prevenciones siguientes:
+
+A) El inicio de operaciones del Sistema Procesal Penal Acusatorio y la entrada en vigor del Código Nacional de Procedimientos Penales en el Estado Libre y Soberano de Tlaxcala, será a partir del día treinta y uno de diciembre de dos mil catorce en el Distrito Judicial de Guridi y Alcocer, excepto en las investigaciones y procedimientos que versen sobre los delitos siguientes:
+
+1. Homicidio Doloso y su Tentativa, previsto en los artículos 19, 79, 224 a 228, 230 y 231; Rebelión, previsto en los artículos 138 a 141; Evasión de Presos, previsto en los artículos 200 y 201; Terrorismo, previsto en los artículos 134 a 136; Peligro de Contagio, previsto en el artículo 302; Delitos contra la Formación de las Personas Menores de Edad y Protección Integral de Personas que no tienen la Capacidad para Comprender el Significado del Hecho que señalan los artículos 355 a 357; Trata de Personas, previsto en el artículo 284; Violación y su Tentativa, previsto en los artículos 19, 79, 285 a 289; Retención o Sustracción de Menores o Incapaces, previsto en el artículo 261; Asalto, previsto en los artículos 271 a 273; Secuestro y su Tentativa, previsto en el artículo 283; Lesiones, previsto en los artículos 232 fracción VII y 237 a excepción de los supuestos previstos en las fracciones I a VI del artículo 232; Ayuda o Inducción al Suicidio, previsto en los artículos 244 a 246 y 248; Aborto, previsto en el párrafo tercero del artículo 242; Feminicidio, previsto en el artículo 229 en relación con el artículo 240; Extorsión, previsto en los artículos 268 al 270; Narcomenudeo, previsto en el artículo 309; Robo Calificado, previsto en los artículos 328, 329 fracción VI y 330; Robo de Ganado, previsto en los artículos 331 al 334 y Daños, previsto en los artículos 349 y 350 párrafo segundo, todos del Código Penal para el Estado Libre y Soberano de Tlaxcala, publicado en el Periódico Oficial del Gobierno del Estado de Tlaxcala el treinta y uno de mayo del dos mil trece, y
+
+2. Los señalados en el artículo 167 del Código Nacional de Procedimientos Penales que ameritan prisión preventiva oficiosa.
+
+B) En el Distrito Judicial de Sánchez Piedras, la operación del Sistema Procesal Penal Acusatorio y las disposiciones del Código Nacional de Procedimientos Penales comenzarán a regir a partir del día treinta de noviembre de dos mil quince, excepto en las investigaciones y procedimientos que versen sobre los delitos siguientes:
+
+1. Homicidio Doloso y su Tentativa, previsto en los artículos 19, 79, 224 a 228, 230 y 231; Rebelión, previsto en los artículos 138 a 141; Evasión de Presos, previsto en los artículos 200 y 201; Terrorismo, previsto en los artículos 134 a 136; Peligro de Contagio, previsto en el artículo 302; Delitos contra la Formación de las Personas Menores de Edad y Protección Integral de Personas que no tienen la Capacidad para Comprender el Significado del Hecho que señalan los artículos 355 a 357; Trata de Personas, previsto en el artículo 284; Violación y su Tentativa, previsto en los artículos 19, 79, 285 a 289; Retención o Sustracción de Menores o Incapaces, previsto en el artículo 261; Asalto, previsto en los artículos 271 a 273; Secuestro y su Tentativa, previsto en el artículo 283; Lesiones, previsto en los artículos 232 fracción VII y 237 a excepción de los supuestos previstos en las fracciones I a VI del artículo 232; Ayuda o Inducción al Suicidio, previsto en los artículos 244 a 246 y 248; Aborto, previsto en el párrafo tercero del artículo 242; Feminicidio, previsto en el artículo 229 en relación con el artículo 240; Extorsión, previsto en los artículos 268 al 270; Narcomenudeo, previsto en el artículo 309; Robo Calificado, previsto en los artículos 328, 329 fracción VI y 330; Robo de Ganado, previsto en los artículos 331 al 334 y Daños, previsto en los artículos 349 y 350 párrafo segundo, todos del Código Penal para el Estado Libre y Soberano de Tlaxcala, publicado en el Periódico Oficial del Gobierno del Estado de Tlaxcala, el treinta y uno de mayo del dos mil trece, y
+
+2. Los señalados en el artículo 167 del Código Nacional de Procedimientos Penales que ameritan prisión preventiva oficiosa.
+
+C) A partir del dieciocho de junio de dos mil dieciséis, el Sistema Penal Acusatorio y las disposiciones del Código Nacional de Procedimientos Penales regirán en todo el Estado respecto de cualquier delito previsto y sancionado en el Código Penal para el Estado Libre y Soberano de Tlaxcala, así como respecto de los delitos especiales previstos en los ordenamientos legales vigentes en el Estado de Tlaxcala.
+
+En consecuencia, comenzarán a regular la forma y términos en que se substanciarán los procedimientos penales en el Estado de Tlaxcala.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos penales iniciados con antelación a la entrada en vigor del Código Nacional de Procedimientos Penales en el Estado de Tlaxcala, se regirán por las disposiciones vigentes al momento de su inicio."
+
+> <small>N. DE E. SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DEL DECRETO No. 38 DE LA DECLARATORIA DE QUE EL SISTEMA PROCESAL PENAL ACUSATORIO HA SIDO INCORPORADO AL RÉGIMEN JURÍDICO DEL ESTADO DE TLAXCALA.</small>
+
+###### ARTÍCULO PRIMERO.
+
+El Presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Con fundamento en lo dispuesto por el artículo 104 fracciones I y XIII de la Ley Orgánica del Poder Legislativo del Estado de Tlaxcala, se instruye al Secretario Parlamentario de este Congreso del Estado, para que una vez aprobado este Decreto, lo comunique a los Poderes Ejecutivo, Legislativo y Judicial de la Federación y de las Entidades Federativas, del Distrito Federal, así como a los Poderes Ejecutivo y Judicial del Estado de Tlaxcala, para su conocimiento y efectos conducentes.
+
+###### ARTÍCULO TERCERO.
+
+El Código de Procedimientos Penales para el Estado Libre y Soberano de Tlaxcala, publicado en el Periódico Oficial del Gobierno del Estado con fecha dos de enero de mil novecientos ochenta y sus reformas, se abrogará de manera paulatina conforme entre en vigor el Código Nacional de Procedimientos Penales, de acuerdo a la gradualidad establecida en los ARTÍCULOS PRIMERO y SEGUNDO del presente Decreto que contiene la Declaratoria; sin embargo sus disposiciones seguirán siendo aplicables para los delitos cometidos con anterioridad a la entrada en vigor del Código Nacional de Procedimientos Penales, conforme a lo dispuesto por el ARTÍCULO TERCERO TRANSITORIO de dicho ordenamiento.
+
+###### ARTÍCULO CUARTO.
+
+Con fundamento en lo dispuesto por el artículo 54 fracción II de la Constitución Política del Estado Libre y Soberano de Tlaxcala, se abroga el Decreto número 101 que contiene el Código de Procedimientos Penales para el Estado Libre y Soberano de Tlaxcala, publicado en el Periódico Oficial del Gobierno del Estado número 22 primera sección, segunda época, tomo XCI de fecha treinta de mayo del año dos mil doce, así como sus correspondientes reformas.
