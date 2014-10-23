@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2014-09-24"
+last_updated: "2014-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY NÚMERO 77 ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE OCTUBRE DE 2014.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -267,7 +267,9 @@ XII.- Tener acceso a la información y documentación necesarias para el cumplim
 
 XIII.- Cuando así lo requiera, le sean proporcionadas, en un plazo no mayor de tres días hábiles, copias en archivos electrónicos de la documentación oficial relativa al ejercicio presupuestal del Congreso del Estado, estados financieros y toda clase de documentación administrativa que obre en los archivos de los órganos técnicos, unidades administrativas y dependencias del Congreso del Estado, así como de la documentación relacionada con el proceso legislativo en su conjunto;
 
-XIV.- Contar con servicio postal para el desempeño de sus funciones;
+> <small>(REFORMADA, B.O. 23 DE OCTUBRE DE 2014)</small>
+
+XIV.- Contar con franquicia y servicio postal para el desempeño de sus funciones;
 
 XV.- Solicitar licencia o renuncia, de conformidad con lo que establece esta ley;
 
@@ -785,13 +787,21 @@ XXIV.- De Transporte y Movilidad;
 
 XXV.- De Minería;
 
-> <small>(ADICIONADA, B.O. 20 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, B.O. 23 DE OCTUBRE DE 2014)</small>
 
-XXVI.- De Vivienda; y
+XXVI.- De Vivienda;
 
-> <small>(ADICIONADA, B.O. 20 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, B.O. 23 DE OCTUBRE DE 2014)</small>
 
-XXVII.- Especiales aprobadas por el pleno del Congreso del Estado con tal carácter.
+XXVII.- De Protección Civil;
+
+> <small>(ADICIONADA, B.O. 23 DE OCTUBRE DE 2014)</small>
+
+XXVIII.- De los Derechos de la Niñez y la Adolescencia; y
+
+> <small>(ADICIONADA, B.O. 23 DE OCTUBRE DE 2014)</small>
+
+XXIX.- Especiales aprobadas por el pleno del Congreso del Estado con tal carácter.
 
 ###### ARTÍCULO 93.
 
@@ -809,9 +819,17 @@ III.- Elaborar y enviar su informe anual de actividades a la Comisión de Régim
 
 IV.- Presentar al pleno del Congreso del Estado los dictámenes e informes y demás documentos relativos a los asuntos que les son turnados o remitidos;
 
-V.- Invitar, por conducto de la presidencia de la Mesa Directiva o de la Diputación Permanente, según sea el caso, a los titulares de las distintas dependencias o entidades federales, estatales o municipales, en los casos en que su presencia sea necesaria para el adecuado desempeño de sus atribuciones; y
+> <small>(REFORMADA, B.O. 23 DE OCTUBRE DE 2014)</small>
 
-VI.- Solicitar, por conducto de la presidencia de la Mesa Directiva o de la Diputación Permanente, según sea el caso, oficialmente a cualquier dependencia o funcionario del Estado o municipios, de acuerdo a la normatividad correspondiente, copias certificadas o informe documental que estime necesarios para el mejor despacho de los asuntos. La omisión, negativa o imprecisión de la información y documentos solicitados, en un plazo razonable de acuerdo a la naturaleza del caso, motivará que la comisión, por conducto del Presidente del Congreso del Estado, lo haga del conocimiento del Gobernador del Estado o Ayuntamiento respectivo, para los efectos legales correspondientes.
+V.- Invitar, por conducto de la presidencia de la Mesa Directiva o de la Diputación Permanente, según sea el caso, a los titulares de las distintas dependencias o entidades federales, estatales o municipales, en los casos en que su presencia sea necesaria para el adecuado desempeño de sus atribuciones;
+
+> <small>(REFORMADA, B.O. 23 DE OCTUBRE DE 2014)</small>
+
+VI.- Solicitar, por conducto de la presidencia de la Mesa Directiva o de la Diputación Permanente, según sea el caso, oficialmente a cualquier dependencia o funcionario del Estado o municipios, de acuerdo a la normatividad correspondiente, copias certificadas o informe documental que estime necesarios para el mejor despacho de los asuntos. La omisión, negativa o imprecisión de la información y documentos solicitados, en un plazo razonable de acuerdo a la naturaleza del caso, motivará que la comisión, por conducto del Presidente del Congreso del Estado, lo haga del conocimiento del Gobernador del Estado o Ayuntamiento respectivo, para los efectos legales correspondientes; y
+
+> <small>(ADICIONADA, B.O. 23 DE OCTUBRE DE 2014)</small>
+
+VII.- Emitir su opinión ante la Comisión de Vigilancia del Instituto Superior de Auditoría y Fiscalización en el ámbito de su competencia, sobre el cumplimiento de metas y aspectos presupuestales contenidos en los Estados Financieros trimestrales y las cuentas públicas de los entes públicos sujetos a la Ley de Fiscalización.
 
 ###### ARTÍCULO 95.
 
@@ -1409,7 +1427,7 @@ Siempre que un alto funcionario, un representante diplomático o consular o algu
 
 ###### ARTÍCULO 182.
 
-Los diputados en ejercicio de sus funciones, se presentarán en el salón de sesiones con traje completo. Cuando se trate de un acto solemne usarán vestimenta formal.
+(DEROGADO, B.O. 23 DE OCTUBRE DE 2014)
 
 > <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2013)</small>
 
@@ -1926,3 +1944,19 @@ SECRETARIO: Diputado del Grupo Parlamentario del Partido Verde Ecologista de Mé
 SUPLENTE: Diputado del Partido de la Revolución Democrática
 
 Para los efectos del presente artículo, los Coordinadores de los Grupos Parlamentarios y los diputados del Partido de la Revolución Democrática, informarán a la Comisión de Régimen Interno y Concertación Política, con la debida anticipación, los nombres de los diputados que integrarán cada una de las mesas directivas señaladas en este artículo.
+
+B.O. 23 DE OCTUBRE DE 2014.
+
+DECRETO NÚMERO 117, POR EL QUE SE REFORMAN LAS FRACCIONES V Y VI Y SE ADICIONA UNA FRACCIÓN VII AL ARTÍCULO 94 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 23 DE OCTUBRE DE 2014.
+
+DECRETO NÚMERO 118, POR EL QUE SE REFORMAN LOS ARTÍCULOS 32, FRACCIÓN XIV, 92 FRACCIONES XXVI Y XXVII, Y SE ADICIONAN LAS FRACCIONES XXVIII Y XXIX, Y SE DEROGA EL ARTÍCULO 182 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
