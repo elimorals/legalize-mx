@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2014-05-14"
+last_updated: "2014-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE OCTUBRE DE 2014.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -2723,7 +2723,7 @@ V. (DEROGADA, G.G. 15 DE MAYO DE 2012)
 
 > <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
 
-VI. Cuando el que la ejerza sea condenado a la pérdida de ese derecho; y (sic)
+VI. Cuando el que la ejerza sea condenado a la pérdida de ese derecho; y
 
 VII. (DEROGADA, G.G. 15 DE MAYO DE 2012)
 
@@ -5071,11 +5071,13 @@ VII. Contra los militares en servicio activo que se encuentren fuera del Estado;
 
 VIII. Contra bienes inmuebles del Estado y municipios.
 
-Improcedencia de la usucapión en fusión o división de predios
+> <small>(REFORMADO, G.G. 23 DE OCTUBRE DE 2014)</small>
+
+Improcedencia de la usucapión en fusión de predios
 
 ###### Artículo 5.
 
-138.- Tampoco operará la usucapión cuando como resultado de ésta se pretenda la fusión o división de predios, sin que al efecto se hayan cumplido los requisitos que para estos casos prevé la ley administrativa de la materia y sus reglamentos.
+138.- Tampoco operará la usucapión cuando como resultado de ésta se pretenda la fusión de predios, sin que al efecto se hayan cumplido los requisitos que para estos casos prevé la ley administrativa de la materia y sus reglamentos.
 
 Interrupción del plazo para usucapir
 
@@ -17710,3 +17712,9 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- El Ejecutivo del Estado proveerá en la esfera administrativa la exacta observancia del presente Decreto.
 
 CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 23 DE OCTUBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
