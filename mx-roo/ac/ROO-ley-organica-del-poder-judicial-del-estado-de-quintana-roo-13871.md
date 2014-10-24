@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-judicial-del-estado-de-quintana-roo-1387
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-15"
-last_updated: "2014-10-08"
+last_updated: "2014-10-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de febrero de 1999.
 
@@ -2297,7 +2297,7 @@ El Consejo de la Judicatura, por conducto de su Presidente, podrá ordenar la ce
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO VI. DEL INGRESO, FORMACIÓN Y PERMANENCIA DE LOS SERVIDORES PÚBLICOS DEL PODER JUDICIAL DEL ESTADO
+### CAPÍTULO VI. DEL INGRESO, FORMACIÓN Y PERMANENCIA DE LOS SERVIDORES PÚBLICOS DEL PODER JUDICIAL DEL ESTADO
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -3387,7 +3387,7 @@ a) En el Distrito Judicial de Cozumel, hasta el día diecisiete del mes de marzo
 
 b) En el Distrito Judicial de Solidaridad, hasta el día diecisiete de noviembre de 2014.
 
-c) En el Distrito Judicial de Cancún, hasta el diecisiete de marzo de 2015.
+c) (DEROGADO, P.O. 24 DE OCTUBRE DE 2014)
 
 d) En los restantes Distritos Judiciales de la entidad, hasta el diecisiete de marzo de 2016.
 
@@ -3428,3 +3428,7 @@ P.O. 8 DE OCTUBRE DE 2014.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 Segundo. Se derogan las disposiciones que se opongan a las contenidas en el presente Decreto.
+
+P.O. 24 DE OCTUBRE DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
