@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-contraloria-del-tribunal-electoral-del-88695"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-07-06"
-last_updated: "2012-07-06"
+last_updated: "2014-10-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88695&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "GUA"
 
 REGLAMENTO DE LA CONTRALORÍA DEL TRIBUNAL ELECTORAL DEL ESTADO DE GUANAJUATO
 
-Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 6 de julio del 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ESTATAL ELECTORAL DE GUANAJUATO, PUBLICADO EN EL P.O. DE 24 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2014 (ABROGADO).
+
+Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 6 de julio del 2012.
 
 El Pleno del Tribunal Electoral del Estado de Guanajuato, con fundamento en lo dispuesto por los artículos 31 de la Constitución Política para el Estado de Guanajuato; 350, fracción VIII y 351, fracción XV del Código de Instituciones y Procedimientos Electorales para el Estado de Guanajuato; 10, fracciones XII y XX del Reglamento Interior del Tribunal Electoral del Estado de Guanajuato, y en relación con el Acuerdo del Pleno del Tribunal Electoral del Estado de Guanajuato, publicado el día 2 de marzo de 2012 en el Periódico Oficial del Gobierno del Estado de Guanajuato, mediante el cual se reformaron y derogaron diversas disposiciones del Reglamento Interior mencionado, se expide el siguiente:
 
@@ -154,3 +156,15 @@ MAGISTRADO PROPIETARIO
 LIC. ALEJANDRO JAVIER MARTÍNEZ MEJÍA
 
 SECRETARIO GENERAL
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE OCTUBRE DE 2014.
+
+Artículo Primero.- El presente Reglamento Interior entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Los procedimientos, recursos; juicios y en general, las instancias administrativas, solicitudes o trámites iniciados con anterioridad a la entrada en vigor del presente Reglamento, se resolverán con arreglo a las disposiciones reglamentarias vigentes al iniciarse los procedimientos o trámites respectivos.
+
+Artículo Tercero.- Se abroga el Reglamento Interior del Tribunal Electoral del Estado de Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato número 172, Segunda Parte, de fecha 27 de octubre de 2006; con sus reformas y modificaciones.
+
+Artículo Cuarto.- Se abroga el Reglamento de la Contraloría del Tribunal Electoral del Estado de Guanajuato publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato número 108, Segunda Parte, de fecha 6 de julio de 2012.
