@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-tribunal-electoral-del-estado-de-52284"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-10-27"
-last_updated: "2012-03-02"
+last_updated: "2014-10-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ESTATAL ELECTORAL DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 24 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 27 de octubre de 2006.
 
@@ -465,7 +467,7 @@ Durante el proceso electoral, para el cumplimiento de sus responsabilidades, con
 
 ###### Artículo 25.
 
-El Oficial Mayor deberá reunir todos los requisitos que establece (sic) el artículo 349 del Código, así como los señalados en el segundo párrafo del artículo 23 del Reglamento y tener como mínimo tres años de experiencia en su actividad profesional.
+El Oficial Mayor deberá reunir todos los requisitos que establece el artículo 349 del Código, así como los señalados en el segundo párrafo del artículo 23 del Reglamento y tener como mínimo tres años de experiencia en su actividad profesional.
 
 ### CAPÍTULO SÉPTIMO. DEL SECRETARIO DE SALA
 
@@ -1590,3 +1592,13 @@ Artículo Único.- El presente Acuerdo entrará en vigor al cuarto día siguient
 P.O. 2 DE MARZO DE 2012.
 
 Artículo Único.- El presente Acuerdo entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE OCTUBRE DE 2014.
+
+Artículo Primero.- El presente Reglamento Interior entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Los procedimientos, recursos, juicios y en general, las instancias administrativas, solicitudes o trámites iniciados con anterioridad a la entrada en vigor del presente Reglamento, se resolverán con arreglo a las disposiciones reglamentarias vigentes al iniciarse los procedimientos o trámites respectivos.
+
+Artículo Tercero.- Se abroga el Reglamento Interior del Tribunal Electoral del Estado de Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato número 172, Segunda Parte, de fecha 27 de octubre de 2006; con sus reformas y modificaciones.
+
+Artículo Cuarto.- Se abroga el Reglamento de la Contraloría del Tribunal Electoral del Estado de Guanajuato publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato número 108, Segunda Parte, de fecha 6 de julio de 2012.
