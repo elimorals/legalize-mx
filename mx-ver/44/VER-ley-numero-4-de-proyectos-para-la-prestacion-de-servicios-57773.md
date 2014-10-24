@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-4-de-proyectos-para-la-prestacion-de-servicios-57773
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-27"
-last_updated: "2007-11-27"
+last_updated: "2014-10-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 4 DE PROYECTOS PARA LA PRESTACION DE SERVICIOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY NUMERO 4 DE PROYECTOS PARA LA PRESTACION DE SERVICIOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY NUMERO 4 DE PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY NUMERO 300 LEY DE ASOCIACIONES PÚBLICO-PRIVADAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 24 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE OCTUBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Número Extraordinario 358 a la Gaceta Oficial del Estado de Veracruz, el martes 27 de noviembre de 2007.
 
@@ -179,7 +181,7 @@ i) Secretaría de Salud
 
 j) Secretaría de Turismo y Cultura.
 
-IlI. Los Titulares de la Contraloría General y de la Oficina del Programa de Gobierno y Consejería Jurídica se integrarán a la Comisión como asesores, con derecho a voz.
+III. Los Titulares de la Contraloría General y de la Oficina del Programa de Gobierno y Consejería Jurídica se integrarán a la Comisión como asesores, con derecho a voz.
 
 La Comisión invitará a sus sesiones a tres representantes de la iniciativa privada.
 
@@ -392,3 +394,13 @@ Diputado secretario
 Rúbrica.
 
 Por lo tanto, en atención a lo dispuesto por el artículo 49 fracción II de la Constitución Política del Estado, y en cumplimiento del oficio SG/000065 de los diputados, presidente y secretario de la Sexagésima Primera Legislatura del Honorable Congreso del Estado, mando se publique y se le dé cumplimiento. Residencia del Poder Ejecutivo Estatal, a los veinte días del mes de noviembre año dos mil siete.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 24 DE OCTUBRE DE 2014.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Proyectos para la Prestación de Servicios para el Estado de Veracruz de Ignacio de la Llave Los proyectos que se hayan iniciado bajo la vigencia de dicha Ley podrán continuar rigiéndose por las disposiciones de la misma pero previo acuerdo de los que en ellos intervienen podrán modificarse para adecuarse a los términos de la presente Ley.
+
+TERCERO. Las concesiones que hayan sido otorgadas por el Ejecutivo del Estado y los Municipios antes de la entrada en vigor de la presente Ley, continuarán sujetándose a los ordenamientos legales bajo los cuales hayan sido otorgadas, salvo aquéllas en que en los títulos respectivos se establezca lo contrario. Las concesiones que se hayan modificado sin cumplir con la Constitución y las leyes podrán ser revocadas por el Ejecutivo del Estado y Municipios y, en estos casos, la indemnización se realizará de acuerdo a lo estipulado en el título original de las mismas.
