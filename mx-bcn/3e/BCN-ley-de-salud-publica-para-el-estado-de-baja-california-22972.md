@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2014-10-17"
+last_updated: "2014-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2014.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -221,13 +221,11 @@ VI.- Centros de reunión y espectáculos;
 
 VII.- Establecimientos de hospedaje;
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2014)</small>
 
-VIII.- Establecimientos dedicados a la prestación de servicios estéticos, como peluquerías, salas de belleza y de masaje.
+VIII.- Establecimientos dedicados al Embellecimiento Físico y Medicina Estética;
 
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
-
-IX.- Los establecimientos estrictamente dedicados a la práctica de la medicina estética, en donde no se practique intervenciones quirúrgicas;
+IX.- (DEROGADA, P.O. 24 DE OCTUBRE DE 2014)
 
 > <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
 
@@ -1135,6 +1133,10 @@ La Secretaría de Salud, tomando en cuenta la información que le proporcione el
 
 La lista a que se refiere el párrafo anterior, deberá actualizarse de manera permanente de acuerdo con la información que al efecto proporcione el Departamento de Profesiones del Estado.
 
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+Las sociedades, asociaciones, colegios o federaciones de profesionistas pondrán a disposición de la Secretaría de Salud del Estado un directorio electrónico con acceso al público que contenga los nombres, datos de los profesionistas que lleven a cabo procedimientos médico-quirúrgicos y certificado de especialización vigente, además de proporcionar el nombre y datos de la Institución y/o Instituciones educativas que avalen su ejercicio profesional.
+
 ###### ARTÍCULO 55.
 
 Quienes ejerzan en el servicio de salud privado, actividades profesionales, técnicas y auxiliares, así como las especialidades a que se refiere este Capítulo, deberán poner a la vista del público en los establecimientos correspondientes, un anuncio que indique la institución que les expidió el diploma, certificado, título o cédula profesional y su correspondiente número de registro ante las Autoridades Educativas y de Salud.
@@ -1769,7 +1771,37 @@ Para establecer un nuevo panteón, se necesita licencia expedida por el Ayuntami
 
 El funcionamiento de los panteones, estará sujeto a la Ley General de Salud, a lo dispuesto en esta Ley, a los Reglamentos Municipales correspondientes y a la normatividad aplicable.
 
-#### SECCION X. DE LOS TRANSPORTES DE CARGA
+#### SECCIÓN IX BIS. EJERCICIO ESPECIALIZADO DE LA CIRUGÍA
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+ARTÍCULO 144 QUÁTER.- Para la realización de cualquier procedimiento médico quirúrgico de especialidad, los profesionales que lo ejerzan requieren, además de lo previsto en el artículo 52 de esta Ley, lo siguiente:
+
+I. Cédula de especialista legalmente expedida por la autoridad educativa competente.
+
+II. Certificado vigente de especialista que acredite capacidad y experiencia en la práctica de los procedimientos y técnicas correspondientes en la materia, expedido por el Consejo de la especialidad, según corresponda, de conformidad con el artículo 272 BIS de la Ley General de Salud.
+
+Los médicos especialistas podrán pertenecer a una agrupación médica cuyas bases de organización y funcionamiento estarán a cargo de las asociaciones, sociedades, colegios o federaciones de profesionales de su especialidad. Tales agrupaciones se encargarán de garantizar el profesionalismo y ética de los expertos en esta práctica de la Medicina.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+ARTÍCULO 144 QUINQUIES.- Para la expedición de la cédula de médico especialista, la Secretaría de Educación y Bienestar Social solicitará la opinión del Comité Estatal Interinstitucional para la Formación y Capacitación de Recursos Humanos e Investigación en Salud, órgano consultivo de la Administración Pública Estatal, creado por Decreto publicado en el Periódico Oficial de fecha 12 de julio de 2013.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+ARTÍCULO 144 SEXIES.- La cirugía plástica, estética y reconstructiva relacionada con cambiar o corregir el contorno o forma de diferentes zonas o regiones de la cara y del cuerpo, deberá efectuarse en establecimientos o unidades médicas con licencia sanitaria vigente, atendidos por profesionales de la salud especializados en dichas materias, de conformidad con lo que establece el artículo 52 y 144 QUÁTER de esta Ley.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+ARTÍCULO 144 SEPTIES.- Los profesionistas a que refiere la presente sección tienen la obligación de dar aviso a la Secretaría de Salud del Estado antes de iniciar el ejercicio de los procedimientos especializados de cirugía.
+
+Dicha obligación también la tienen quienes administren clínicas privadas cuyas instalaciones sean utilizadas por profesionistas que pretendan llevar a cabo este tipo de procedimientos.
+
+Esta información servirá de base para que la Secretaría de Salud del Estado integre y actualice su propio Registro de profesionistas con especialidad en cirugía que operen en el Estado.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+ARTÍCULO 144 OCTIES.- El incumplimiento a lo previsto en el artículo anterior, así como a lo previsto en el artículo 144 QUATER, dará lugar a que Secretaría (sic) de Salud del Estado aplique medidas de seguridad y/o sanciones a que refiere esta Ley.
 
 ###### ARTÍCULO 120.
 
@@ -1783,11 +1815,7 @@ La basura deberá ser manejada en su destino final como relleno sanitario o dest
 
 El manejo, recolección, transporte, tratamiento y disposición final de basura se realizará en los términos que señalen la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Baja California, sus reglamentos y demás disposiciones que resulten aplicables.
 
-#### SECCION XI. DE LOS CENTROS DE DESARROLLO INFANTIL Y ESTANCIAS INFANTILES FAMILIARES
-
-(NOTA: EL 10 DE FEBRERO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 86/2009, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE FEBRERO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+#### SECCION X. DE LOS TRANSPORTES DE CARGA
 
 ###### ARTÍCULO 123.
 
@@ -1827,7 +1855,9 @@ Queda prohibida la descarga de aguas residuales o de contaminantes en cualquier 
 
 Los usuarios que aprovechen en su servicio aguas que posteriormente serán utilizadas para uso o consumo humano, están obligados a darles el tratamiento correspondiente a fin de evitar riesgos para la salud humana, de conformidad con las disposiciones aplicables.
 
-#### SECCION I. DE LAS AUTORIZACIONES
+#### SECCION XI. DE LOS CENTROS DE DESARROLLO INFANTIL Y ESTANCIAS INFANTILES FAMILIARES
+
+(NOTA: EL 10 DE FEBRERO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 86/2009, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE FEBRERO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -1857,9 +1887,9 @@ Para abrir los servicios al público, los establecimientos señalados en el art�
 
 La actividad de los establecimientos señalados en la presente sección está sujeta a lo dispuesto por esta Ley y la normatividad aplicable.
 
-#### SECCION II. DE LA REVOCACION DE LAS AUTORIZACIONES
+#### SECCION I. DE LAS AUTORIZACIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 138.
 
@@ -1869,7 +1899,9 @@ Para los efectos de esta Ley, se entiende por centros de reunión, todas aquella
 
 La Autoridad Sanitaria competente una vez terminada la edificación del centro de reunión y antes de abrirse al público hará la inspección sanitaria y declaración correspondiente. Asimismo, podrá en cualquier momento ordenar la clausura de los centros públicos de reunión que no reúnan las condiciones de seguridad e higiene suficientes para garantizar la vida y la salud de las personas que a ellos concurran, en los términos de esta Ley. Dicha clausura prevalecerá entre tanto no sean corregidas las causas que la motivaron.
 
-#### SECCION III. DE LOS CERTIFICADOS
+#### SECCION II. DE LA REVOCACION DE LAS AUTORIZACIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 140.
 
@@ -1883,15 +1915,15 @@ La Autoridad Sanitaria del Estado realizará las inspecciones sanitarias que con
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE ENERO DE 2012)</small>
 
+#### SECCION III. DE LOS CERTIFICADOS
+
 ###### ARTÍCULO 142.
 
 Se entiende por tratamientos del área de Medicina Estética, como aquellos actos que no sean quirúrgicos y que no requieren de anestesia general ni regional y que tienden a mejorar el aspecto y la condición de salud de los pacientes; los cuales se conforman por terapias médicas y cosméticas que mejoran la apariencia, la salud y la autoestima del paciente, enmarcándose en maniobras terapéuticas diferentes al campo invasivo quirúrgico propio de la cirugía plástica y estética, y de otras ramas de la medicina.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2012)</small>
-
 ###### ARTÍCULO 143.
 
-Los profesionales de la medicina que presten los tratamientos referidos en el artículo anterior, deberán contar con el Título que ampare sus estudios como se establece en el Artículo 11 en sus fracciones LXXXI, CVII y CVIII de la Ley de Ejercicio de las Profesiones para el Estado, además de contar con la cédula profesional respectiva y con la documentación académica que compruebe su capacitación científica en Medicina Estética en diversas instituciones debidamente reconocidas por la autoridad en materia de educación superior o posgrado, de igual forma, deberán de ser autorizados por las autoridades sanitarias del Estado de Baja California en los términos del Capítulo Décimo Primero de la presente Ley.
+(DEROGADO, P.O. 24 DE OCTUBRE DE 2014)
 
 > <small>(REFORMADO, P.O. 6 DE ENERO DE 2012)</small>
 
@@ -1906,6 +1938,8 @@ ARTÍCULO 144 BIS.- Los establecimientos en los que se lleven a cabo los procedi
 > <small>(ADICIONADO, P.O. 6 DE ENERO DE 2012)</small>
 
 ARTÍCULO 144 TER.- Los establecimientos señalados en el artículo anterior, tienen prohibido realizar en sus instalaciones cualquier tipo de tratamientos o procedimientos invasivos como implantaciones, infiltraciones de sustancias o empleo de aparatos relacionados con cambiar o corregir el contorno o forma de diferentes zonas o regiones de la cara o del cuerpo humano que requieran de intervención médica.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 24 DE OCTUBRE DE 2014)</small>
 
 ###### ARTÍCULO 145.
 
@@ -2850,5 +2884,9 @@ La presente reforma entrará en vigor al día siguiente de su publicación en el
 Se preverán los recursos necesarios en el Presupuesto de Egresos 2014, a fin de garantizar la implementación de los programas a que se refiere la presente reforma.
 
 P.O. 17 DE OCTUBRE DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE OCTUBRE DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
