@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-procedimientos-civiles-para-el-estado-libre-y-9895"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-01-08"
-last_updated: "2014-07-25"
+last_updated: "2014-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9895&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el jueves 8 de enero de 1981.
 
@@ -1849,9 +1849,9 @@ En la excepción de falta de personalidad del actor o en la impugnación que se 
 
 No se procederá a la conciliación en los siguientes casos: (sic)
 
-l.- a la V.- ... ; (sic)
+I.- a la V.- ... ; (sic)
 
-VI.- En los casos de Violencia Familiar, queda prohibido al juzgador hacer uso de la mediación El incumplimiento a esta prohibición dará pie a responsabilidades para los servidores que la lleven a cabo de conformidad con las disposiciones administrativas y penales aplicables. (sic)
+VI.- En los casos de Violencia Familiar, queda prohibido al juzgador hacer uso de la mediación El incumplimiento a esta prohibición dará pie a responsabilidades para los servidores que la lleven a cabo de conformidad con las disposiciones administrativas y penales aplicables.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3235,7 +3235,7 @@ Todos los gastos y costas que se originen en la ejecución de una sentencia, ser
 
 ###### Artículo 483.
 
-La acción para pedir la ejecución de una sentencia, transacción o convenio judiciales durará diez años (sic) contados desde el día en que se venció el término judicial para el cumplimiento voluntario de lo juzgado y sentenciado.
+La acción para pedir la ejecución de una sentencia, transacción o convenio judiciales durará diez años contados desde el día en que se venció el término judicial para el cumplimiento voluntario de lo juzgado y sentenciado.
 
 ###### Artículo 484.
 
@@ -8281,7 +8281,9 @@ a) En el Distrito Judicial de Cozumel, hasta el día diecisiete del mes de marzo
 
 b) En el Distrito Judicial de Solidaridad, hasta el día diecisiete de noviembre de 2014.
 
-c) En el Distrito Judicial de Cancún, hasta el diecisiete de marzo de 2015.
+> <small>N. DE E. DE CONFORMIDAD CON EL PRIMERO DEL DECRETO NÚMERO 147, PUBLICADO EN EL P.O. DE 24 DE OCTUBRE DE 2014, LOS PROCEDIMIENTOS ORALES EN MATERIA FAMILIAR Y CIVIL PREVISTOS EN EL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, ENTRAN EN VIGOR EN EL DISTRITO JUDICIAL DE CANCÚN, CON CABECERA EN LA CIUDAD DEL MISMO NOMBRE, EL CUAL COMPRENDE LA CIRCUNSCRIPCIÓN TERRITORIAL DEL MUNICIPIO DE BENITO JUÁREZ DEL ESTADO DE QUINTANA ROO Y LA ZONA CONTINENTAL DEL MUNICIPIO DE ISLA MUJERES DEL ESTADO DE QUINTANA ROO, CUANDO EL PRESENTE DECRETO SE PUBLIQUE EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUINTANA ROO.</small>
+
+c) (DEROGADO, P.O. 24 DE OCTUBRE DE 2014)
 
 d) En los restantes Distritos Judiciales de la entidad, hasta el diecisiete de marzo de 2016.
 
@@ -8294,3 +8296,17 @@ Quinto.- El Consejo de la Judicatura del Estado debe realizar las adecuaciones n
 P.O. 25 DE JULIO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 24 DE OCTUBRE DE 2014.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO NÚMERO 147.</small>
+
+“PRIMERO. La H. XIV Legislatura del Estado, determina que los Procedimientos Orales en materia Familiar y Civil previstos en el Código de Procedimientos Civiles para el Estado Libre y Soberano de Quintana Roo, entran en vigor en el Distrito Judicial de Cancún, Quintana Roo, de la siguiente manera:
+
+ÚNICO. Los Procedimientos Orales en materia Familiar y Civil previstos en el Código de Procedimientos Civiles para el Estado Libre y Soberano de Quintana Roo, entran en vigor en el Distrito Judicial de Cancún, con cabecera en la ciudad del mismo nombre, el cual comprende la circunscripción territorial del Municipio de Benito Juárez del Estado de Quintana Roo y la Zona Continental del Municipio de Isla Mujeres del Estado de Quintana Roo, cuando el presente Decreto se publique en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se deroga el inciso e) del artículo tercero transitorio del Decreto Número 304, expedido por la H. XIII Legislatura del Estado de Quintana Roo, publicado el día treinta de agosto del año dos mil trece en el Periódico Oficial del Estado …”
+
+> <small>N. DE E. SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DEL DECRETO NÚMERO 147.</small>
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
