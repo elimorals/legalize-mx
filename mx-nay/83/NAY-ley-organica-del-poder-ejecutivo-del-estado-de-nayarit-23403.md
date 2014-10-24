@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-ejecutivo-del-estado-de-nayarit-23403"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-21"
-last_updated: "2012-12-24"
+last_updated: "2014-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE DICIEMBRE DE 2014 EN EL PERIÓDICO OFICIAL DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el jueves 21 de diciembre del 2000.
 
@@ -47,7 +49,11 @@ LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
 
 La presente Ley establece las bases para la organización y el funcionamiento de la Administración Pública Estatal, Centralizada y Paraestatal.
 
-El Despacho del Gobernador del Estado, las Secretarías del Despacho y la Procuraduría General de Justicia integran la Administración Pública Centralizada a las cuales, para los efectos de esta Ley, se les denominará genéricamente dependencias.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+El Despacho del Gobernador del Estado, las Secretarías del Despacho y la Fiscalía General integran la Administración Pública Centralizada a las cuales, para los efectos de esta Ley, se les denominará genéricamente dependencias.
 
 Para atender de manera eficiente el despacho de los asuntos de su competencia, las dependencias de la Administración Pública Centralizada, podrán contar con órganos administrativos desconcentrados, que les estarán jerárquicamente subordinados y tendrán facultades específicas para resolver sobre la materia y dentro del ámbito de competencia que se determine en cada caso, ya sea en su acuerdo de creación, en su reglamento interior o en las disposiciones legales que se dicten.
 
@@ -111,9 +117,13 @@ Al Gobernador del Estado corresponderá el mando de las corporaciones de segurid
 
 ### CAPITULO I. De las dependencias
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 12.
 
-Las Secretarías del Despacho y la Procuraduría tendrán igual jerarquía y entre ellas no habrá, por lo tanto, preeminencia alguna.
+Las Secretarías del Despacho y la Fiscalía tendrán igual jerarquía y entre ellas no habrá, por lo tanto, preeminencia alguna.
 
 Cuando deba decidirse sobre la competencia de alguna de las dependencias, el Gobernador del Estado decidirá a cuál de ellas le corresponde atenderlo.
 
@@ -289,7 +299,11 @@ VI. Secretaría de la Contraloría General;
 
 VII. Secretaría de Agricultura, Ganadería, Desarrollo Rural y Pesca;
 
-VIII. Secretaría de Desarrollo Económico;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+VIII. Secretaría del Trabajo, Productividad y Desarrollo Económico;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE SEPTIEMBRE DE 2005)</small>
 
@@ -305,19 +319,19 @@ X. Secretaría de Salud;
 
 XI. Secretaría del Medio Ambiente;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2014)</small>
 
-XII. Procuraduría General de Justicia;
+XII. Fiscalía General del Estado;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 XIII. (DEROGADO, P.O. 17 DE DICIEMBRE DE 2011)
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XIV. Secretaría del Trabajo;
+XIV. (DEROGADA, P.O. 24 DE OCTUBRE DE 2014)
 
 > <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
 
@@ -1063,73 +1077,283 @@ XXI. Coordinar con el gobierno federal y con las entidades federativas los progr
 
 XXII. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado.
 
-> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 39.
 
-A la Secretaría de Desarrollo Económico le corresponden las siguientes atribuciones:
+A la Secretaría del Trabajo, Productividad y Desarrollo Económico le corresponden las siguientes atribuciones:
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2005)</small>
 
 I. Promover, fomentar, dirigir, coordinar y controlar la ejecución de las políticas, programas y actividades de promoción y fomento para la creación de fuentes de empleo y el desarrollo socioeconómico del estado;
 
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2005)</small>
+
 II. Proponer al Gobernador del Estado las políticas, programas y proyectos relativos a la promoción y fomento de las actividades señaladas en la fracción anterior, y ejecutarlos en el ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2005)</small>
 
 III. Promover, detectar, revisar, evaluar y apoyar en su caso, todos aquellos proyectos o programas que impulsen el crecimiento económico del estado;
 
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2005)</small>
+
 IV. Promover y apoyar la relación con empresarios locales, nacionales y extranjeros, para el establecimiento en el estado de empresas productivas permanentes;
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2005)</small>
 
 V. Generar y difundir en el estado una cultura empresarial, basada en parámetros de competitividad internacional;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2014)</small>
 
-VI. Fomentar, en participación con la Secretaría del Trabajo, el incremento de la productividad y calidad en el trabajo entre los Sectores de la Producción; y en coordinación con ésta y con la Secretaría de Educación Media Superior, Superior e Investigación Científica y Tecnológica, promover el desarrollo de la capacitación y el adiestramiento para el trabajo;
+VI. Fomentar el incremento de la productividad y calidad en el trabajo entre los sectores de la producción y en coordinación con la Secretaría de Educación, promover el desarrollo de la capacitación y el adiestramiento para el trabajo;
 
-VII. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2008) (REPUBLICADA, P.O. 23 DE JUNIO DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE OCTUBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+VII. Procurar el equilibrio entre los factores de la producción de conformidad con las disposiciones legales aplicables;
 
-VIII. Diseñar y proponer, con la participación de la Secretaría del Trabajo, las alianzas estratégicas para la generación de empleo y productividad, promoviendo la coordinación de las instituciones, científicas, tecnológicas, educativas, de la iniciativa privada, de los sectores oficiales, sociales, asociaciones y sociedad civil organizada y demás relacionadas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+VIII. Diseñar y proponer acciones para la generación de empleo y productividad, promoviendo la coordinación de las instituciones, científicas, tecnológicas, educativas, de la iniciativa privada, de los sectores oficiales, sociales, asociaciones y sociedad civil organizada y demás relacionadas;
 
 > <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2011)</small>
 
 IX. Participar en coordinación con la Secretaría de Administración y Finanzas en la integración del proyecto general de criterios de política económica del Gobierno del Estado;
 
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2005)</small>
+
 X. Fomentar, supervisar y coadyuvar a la promoción de la alimentación y el abasto popular;
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2005)</small>
 
 XI. Promover y coadyuvar en la regulación y supervisión de las actividades industrial y minera, el comercio en general y los servicios para la producción de conformidad con las leyes aplicables;
 
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2005)</small>
+
 XII. Proponer programas de simplificación para el establecimiento de empresas, así como la promoción de nuevas disposiciones que enriquezcan la materia, con el objeto de promover las ventajas competitivas respecto de otras entidades;
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2005)</small>
 
 XIII. Formular, evaluar y promover la participación de todos los sectores involucrados en la promoción económica del estado, para proponer a los gobiernos federal, estatales y municipales, los programas de inversión, gasto y financiamiento para la entidad y sus municipios, que apoyen la ejecución de obras públicas estratégicas para el desarrollo económico integral y sustentable del estado;
 
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2005)</small>
+
 XIV. Coadyuvar con la producción agropecuaria, pesquera y silvícola;
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2005)</small>
 
 XV. Asesorar técnicamente a los ayuntamientos del estado y a quienes lo solicite, en el establecimiento de nuevas empresas y en la ejecución de proyectos productivos;
 
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2005)</small>
+
 XVI. Apoyar el desarrollo de agroindustrias en el estado;
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2005)</small>
 
 XVII. Promover la realización de ferias, seminarios, exposiciones y congresos industriales, comerciales y demás relacionados con el desarrollo económico del estado;
 
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2005)</small>
+
 XVIII. Promover la creación de parques y corredores industriales, buscando el desarrollo económico de conformidad con las leyes aplicables;
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2005)</small>
 
 XIX. Fomentar y apoyar las organizaciones de empresas para realizar programas de investigación y aplicación de tecnología en la industria estatal;
 
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2005)</small>
+
 XX. Fomentar y promover la exploración y explotación sustentable de los recursos naturales no renovables, de conformidad con las leyes aplicables;
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2005)</small>
 
 XXI. Previo acuerdo con el Gobernador del Estado, dar cumplimiento a los convenios en materia industrial, comercial artesanal y minera, de servicios, agropecuarios, silvícola y pesqueros;
 
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2005)</small>
+
 XXII. Organizar y fomentar la producción artesanal en el estado, promoviendo su comercialización;
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2005)</small>
 
 XXIII. Formular y proponer mecanismos para el fomento y protección del sector comercial de la Entidad;
 
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2005)</small>
+
 XXIV. Coadyuvar en la ejecución de los diversos programas que provengan de subsidios Federales o Estatales referentes a las actividades productivas;
 
-XXV. Fomentar la creación de consejos consultivos que coadyuven con la Secretaría en el debido cumplimiento de sus atribuciones; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXVI. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado.
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+XXV. Fomentar la creación de consejos consultivos que coadyuven con la Secretaría en el debido cumplimiento de sus atribuciones;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+XXVI. Elaborar y desarrollar programas de trabajo y empleo, de acuerdo con el Plan Estatal de Desarrollo:
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+XXVII. Establecer, presidir y dirigir el Servicio Estatal de Empleo y vigilar su funcionamiento;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+XXVIII. Diseñar alianzas estratégicas para la generación de empleo y productividad;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+XXIX. Instrumentar acciones que mejoren las condiciones laborales de las mujeres;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+XXX. Vigilar el cumplimiento de las disposiciones legales que prohíban la discriminación laboral;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+XXXI. Promover la integración laboral de las personas recluidas en los centros de readaptación social que hayan mostrado capacitación en el trabajo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+XXXII. Promover la intervención en los sectores productivos para la inclusión laboral de las personas adultas mayores o con discapacidad;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+XXXIII. Aplicar políticas públicas para combatir la explotación laboral de menores;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+XXXIV. Promover e impulsar el desarrollo social, cultural y recreativo entre los trabajadores y sus familias;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+XXXV. Organizar, dirigir, ordenar y supervisar los servicios de visita de verificación y de inspección que le correspondan, para comprobar el cumplimiento de las disposiciones legales y reglamentarias, en los ámbitos de su competencia;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+XXXVI. Coadyuvar con las autoridades federales a la aplicación y vigilancia de las normas de trabajo y poner a su disposición la información que soliciten para el cumplimiento de sus funciones;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+XXXVII. Coordinar el funcionamiento de la Junta Local y las Juntas Especiales de Conciliación y Arbitraje, de las comisiones que se formen para regular las relaciones obrero patronal y del Tribunal de Conciliación y Arbitraje, así como vigilar el funcionamiento de los mismos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+XXXVIII. Coordinar y vigilar el debido funcionamiento de la Procuraduría Estatal de la Defensa del Trabajo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+XXXIX. Coordinar y vigilar el debido funcionamiento del Departamento del Trabajo y Previsión Social;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+XL. Intervenir, a petición de parte, en la revisión de los contratos colectivos de trabajo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+XLI. Mediar y conciliar, a petición de parte, en los conflictos colectivos que surjan de presuntas violaciones a la ley o a los contratos colectivos de trabajo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+XLII. Llevar a cabo los programas de educación, capacitación y vinculación para el empleo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+XLIII. Vigilar el cumplimiento de las normas relativas a la capacitación, adiestramiento de los trabajadores y seguridad e higiene de los centros de trabajo; y elaborar y ejecutar los programas correspondientes;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+XLIV. Organizar y llevar el registro de las asociaciones sociales, obreras, patronales y profesionales y demás que funcionen en el Estado a través de la Junta Local de Conciliación y Arbitraje;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+XLV. Prestar asistencia jurídica gratuita a los trabajadores y a sus sindicatos que así lo soliciten y representarlos ante los tribunales del trabajo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+XLVI. Ejercer dentro del ámbito estatal y de conformidad con los ordenamientos legales vigentes en la materia, las funciones en materia de trabajo y previsión social;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+XLVII. Establecer los programas y acciones necesarios para impulsar el incremento de la productividad y calidad en el trabajo entre los sectores de producción;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+XLVIII. Difundir por los conductos pertinentes las modificaciones que se den en las normas laborales;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+XLIX. Imponer y hacer efectivas las sanciones establecidas en el Título XVI de la Ley Federal del Trabajo, en el ámbito de su competencia;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+L. Conocer y resolver en el ámbito de su competencia, los recursos y demás medios administrativos de impugnación interpuestos en contra de los actos emanados de ésta Secretaría o que por mandato legal le corresponda tramitar en los términos de los ordenamientos aplicables;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+LI. Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico de conformidad con las facultades otorgadas por los ordenamientos aplicables y los convenios o anexos celebrados entre la Administración Pública Estatal con la Federación y los Municipios, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+LII. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado.
 
 > <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2005)</small>
 
@@ -1161,9 +1385,11 @@ XI. Estimular la participación de los sectores social y privado con capitales n
 
 XII. Fomentar el incremento de la productividad en el trabajo dentro del sector turístico;
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XIII. Promover el desarrollo de la capacitación y el adiestramiento para el trabajo en el sector turístico en coordinación con las Secretarías del Trabajo y de Educación Media Superior, Superior e Investigación Científica y Tecnológica;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+XIII. Promover el desarrollo de la capacitación y el adiestramiento para el trabajo en el sector turístico en coordinación con las Secretarías del Trabajo, Productividad y Desarrollo Económico y de Educación;
 
 XIV. Formular, evaluar y promover los programas de promoción y divulgación turística del estado y sus municipios;
 
@@ -1343,7 +1569,11 @@ XVIII. Establecer un sistema destinado a obtener, analizar, estudiar y procesar 
 
 XIX. Elaborar y difundir estudios multidisciplinarios y estadísticas sobre el fenómeno delictivo;
 
-XX. Efectuar, en coordinación con la Procuraduría General de Justicia, estudios sobre los actos delictivos no denunciados e incorporar esta variable en el diseño de las políticas en materia de prevención del delito;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+XX. Efectuar, en coordinación con la Fiscalía General del Estado, estudios sobre los actos delictivos no denunciados e incorporar esta variable en el diseño de las políticas en materia de prevención del delito;
 
 XXI. Organizar, dirigir y administrar un servicio para la atención a las víctimas del delito y celebrar acuerdos de colaboración con otras instituciones del sector público y privado para el mejor cumplimiento de esta atribución;
 
@@ -1357,9 +1587,11 @@ XXV. Celebrar convenios de colaboración, en el ámbito de su competencia y en e
 
 XXVI. Colaborar, en el marco del Sistema Nacional y Estatal de Seguridad Pública, cuando así lo soliciten otras autoridades federales, estatales, municipales o del Distrito Federal competentes, en la protección de la integridad física de las personas y en la preservación de sus bienes, en situaciones de peligro cuando se vean amenazadas por disturbios u otras situaciones que impliquen violencia o riesgo inminente;
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXVII. Auxiliar al Poder Judicial y a la Procuraduría General de Justicia, cuando así lo requieran, para el debido ejercicio de sus funciones, participando en la prevención y combate a las actividades de posesión, comercio o suministro de estupefacientes y psicotrópicos cuando dichas actividades se realicen en lugares públicos, actuando conforme a sus atribuciones; así como remitiendo los informes relativos a la investigación de los delitos contra la salud en su modalidad de narcomenudeo a que se refiere el capítulo VII del título XVIII de la Ley General de Salud, cuando así lo solicite el Ministerio Público de la Federación;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+XXVII. Auxiliar al Poder Judicial y a la Fiscalía General del Estado, cuando así lo requieran, para el debido ejercicio de sus funciones, participando en la prevención y combate a las actividades de posesión, comercio o suministro de estupefacientes y psicotrópicos cuando dichas actividades se realicen en lugares públicos, actuando conforme a sus atribuciones; así como remitiendo los informes relativos a la investigación de los delitos contra la salud en su modalidad de narcomenudeo a que se refiere el capítulo VII del título XVIII de la Ley General de Salud, cuando así lo solicite el Ministerio Público de la Federación;
 
 > <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
 
@@ -1375,9 +1607,13 @@ XXXII. Administrar los Centros de Readaptación y Reintegración Social; y
 
 XXXIII. Las demás que le atribuyan expresamente las leyes y reglamentos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 41.
 
-A la Procuraduría General de Justicia le corresponden además de las atribuciones que le confiere la Constitución Política de los Estados Unidos Mexicanos y la particular del estado, las siguientes atribuciones:
+A la Fiscalía General del Estado le corresponde además de las atribuciones que le confieren la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado, las siguientes atribuciones:
 
 I. Investigar y perseguir los delitos del orden común perpetrados dentro del territorio estatal, así como los que se inicien, preparen o cometan en otras entidades federativas, siempre y cuando se produzcan, continúen o permanezcan efectos en el estado, observando lo dispuesto por las leyes aplicables, implementando para ello las medidas técnicas y científicas que sean procedentes;
 
@@ -1435,71 +1671,11 @@ XXIII. Prestar consejo jurídico y representar al estado ante los tribunales y a
 
 XXIV. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 41 Bis.
 
-A la Secretaría del Trabajo le corresponden las siguientes atribuciones:
-
-I.- Ejercer dentro del ámbito estatal y de conformidad con los ordenamientos legales vigentes en la materia, las funciones en materia de trabajo y previsión social;
-
-II.- Procurar el equilibrio entre los factores de la producción, de conformidad con las disposiciones legales aplicables;
-
-III.- Coadyuvar con las autoridades federales a la aplicación y vigilancia de las normas de trabajo y poner a su disposición la información que soliciten para el cumplimiento de sus funciones;
-
-IV.- Coordinar el funcionamiento de la Junta de Conciliación y Arbitraje, de las comisiones que se formen para regular las relaciones obrero patronal y del Tribunal de Conciliación y Arbitraje, así como vigilar el funcionamiento de los mismos;
-
-V.- Coordinar y vigilar el debido funcionamiento de la Procuraduría Estatal de la Defensa del Trabajo;
-
-VI.- Coordinar y vigilar el debido funcionamiento del Departamento del Trabajo y Previsión Social;
-
-VII.- Intervenir, a petición de parte, en la revisión de los contratos colectivos de trabajo;
-
-VIII.- Mediar y conciliar, a petición de parte, en los conflictos colectivos que surjan de presuntas violaciones a la Ley o a los contratos colectivos de trabajo;
-
-IX.- Llevar a cabo los programas de educación, capacitación y vinculación para el empleo;
-
-X.- Vigilar el cumplimiento de las normas relativas a la capacitación, adiestramiento, seguridad e higiene de los trabajadores; y elaborar y ejecutar los programas correspondientes;
-
-XI.- Elaborar y desarrollar programas de trabajo y empleo, de acuerdo con el Plan Estatal de Desarrollo;
-
-XII.- Organizar y llevar el registro de las asociaciones sociales, obreras, patronales y profesionales y demás que funcionen en el Estado a través de la Junta Local de Conciliación y Arbitraje;
-
-XIII.- Prestar asistencia jurídica gratuita a los trabajadores y a sus sindicatos que así lo soliciten y representarlos ante los tribunales del trabajo;
-
-XIV.- Fomentar, en participación con la Secretaría de Desarrollo Económico, el incremento de la productividad y calidad en el trabajo entre los Sectores de la Producción; y en coordinación con ésta y la Secretaría de Educación Media Superior, Superior e Investigación Científica y Tecnológica, promover el desarrollo de la capacitación y el adiestramiento para el trabajo;
-
-XV.- Difundir por los conductos pertinentes las modificaciones que se den en las normas laborales;
-
-XVI.- Imponer las sanciones establecidas en el Título XVI de la Ley Federal del Trabajo, en el ámbito de su competencia;
-
-XVII.- Establecer y dirigir el Servicio Estatal de Empleo y vigilar su funcionamiento;
-
-XVIII.- Participar con la Secretaría de Desarrollo Económico, en el diseño de alianzas estratégicas para la generación de empleo y productividad;
-
-XIX.- Instrumentar acciones que mejoren las condiciones laborales de las mujeres;
-
-XX.- Vigilar el cumplimiento de las disposiciones legales que prohíban la discriminación laboral;
-
-XXI.- Promover la integración laboral de las personas recluidas en los Centros de Readaptación Social que hayan mostrado capacitación en el trabajo;
-
-XXII.- Promover la intervención en los sectores productivos para la inclusión laboral de las personas adultas mayores o con discapacidad;
-
-XXIII.- Aplicar políticas públicas para combatir la explotación laboral de menores;
-
-XXIV.- Promover e impulsar el desarrollo social, cultural y recreativo entre los trabajadores y sus familias;
-
-XXV.- Organizar, dirigir, ordenar y supervisar los servicios de visitas de verificación y de inspección que le correspondan, para comprobar el cumplimiento de las disposiciones legales y reglamentarias, en los ámbitos de su competencia;
-
-XXVI.- Aplicar medidas preventivas o de seguridad e imponer sanciones administrativas, en los ámbitos de su competencia y con sujeción a las leyes, reglamentos y demás disposiciones aplicables, así como promover la aplicación de las que correspondan a otras autoridades con relación a los asuntos de su despacho;
-
-XXVII.- Conocer y resolver, en el ámbito de su competencia, los recursos y demás medios administrativos de impugnación interpuestos en contra de los actos emanados de esta Secretaría o que por mandato legal le corresponda tramitar, en los términos de los ordenamientos aplicables;
-
-XXVIII.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades otorgadas por los ordenamientos aplicables y los convenios o anexos celebrados entre la Administración Pública Estatal con la Federación y los Municipios; y
-
-XXIX.- Las demás que le atribuyan las leyes, reglamentos, convenios, otras disposiciones legales y las que le confiera el Gobernador del Estado.
+(DEROGADO, P.O. 24 DE OCTUBRE DE 2014)
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
@@ -1529,13 +1705,21 @@ IX. Elaborar, apoyar y ejecutar programas para satisfacer las necesidades de sue
 
 X. Promover y concertar programas de vivienda y de desarrollo urbano, y apoyar su ejecución, con la participación de los gobiernos estatales y municipales, y los sectores social y privado;
 
-XI. Fomentar la organización de sociedades cooperativas de vivienda y materiales de construcción, en coordinación con las Secretarías del Trabajo y Desarrollo Económico respectivamente;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+XI. Fomentar la organización de sociedades cooperativas de vivienda y materiales de construcción, en coordinación con la Secretaría del Trabajo, Productividad y Desarrollo Económico;
 
 XII. Promover y apoyar mecanismos de financiamiento para el desarrollo regional y urbano, así como para la vivienda, con la participación de las dependencias y entidades de la Administración Pública Estatal correspondientes, de los gobiernos federal y municipales, de las instituciones de crédito y de los diversos grupos sociales;
 
 XIII. Promover la construcción de obras de infraestructura y equipamiento para el desarrollo regional y urbano, y el bienestar social, en coordinación con los gobiernos estatales y municipales y con la participación de los sectores social y privado;
 
-XIV. Asegurar la adecuada distribución, comercialización y abastecimiento de los productos de consumo básico de la población de escasos recursos, con la intervención que corresponde a las Secretarías de Desarrollo Económico y Desarrollo Rural; bajo principios que eviten el uso o aprovechamiento indebido y ajenos a los objetivos institucionales;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+XIV. Asegurar la adecuada distribución, comercialización y abastecimiento de los productos de consumo básico de la población de escasos recursos, con la intervención que corresponde a las Secretarías del Trabajo, Productividad y Desarrollo Económico y de Desarrollo Rural; bale principios que eviten el uso o aprovechamiento indebido y ajenos a los objetivos institucionales, y
 
 XV. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado.
 
@@ -1545,7 +1729,7 @@ XV. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le c
 
 ## TÍTULO TERCERO. De la Administración Pública Paraestatal
 
-### CAPÍTULO PRIMERO (SIC). De las Entidades
+### CAPÍTULO PRIMERO. De las Entidades
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
 
@@ -1990,3 +2174,13 @@ Artículo Primero.- El presente decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- El Honorable Congreso del Estado deberá realizar las adecuaciones legales conducentes en un plazo que no excederá de los 120 días posteriores a la entrada en vigor del presente decreto.
 
 Artículo Tercero.- El titular del Poder Ejecutivo del Estado, deberá expedir el acuerdo administrativo que crea el Organismo Público Descentralizado encargado de dirigir los programas y políticas públicas en materia de Cultura, dentro del término de 30 días posteriores a la entrada en vigor del presente decreto.
+
+P.O. 24 DE OCTUBRE DE 2014.
+
+Primero.- El presente Decreto deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, y entrará en vigor a partir del día; 1° de enero del 2015.
+
+Segundo.- Una vez publicado el presente Decreto y para los efectos conducentes, la Secretaría de Administración y Finanzas deberá contemplar las adecuaciones correspondientes en el anteproyecto del presupuesto de egresos para el ejercicio fiscal 2015.
+
+Tercero.- A la entrada en vigor del presente Decreto se realizará el traspaso de los recursos humanos, materiales, técnicos y financieros, de conformidad con los acuerdos de transferencia que al efecto disponga el Titular del Poder Ejecutivo.
+
+Cuarto.- Los servidores públicos adscritos a la Secretaría del Trabajo y a la Secretaría de Desarrollo Económico no resultarán afectados en sus derechos laborales adquiridos, al incorporarse a la Secretaría del Trabajo, Productividad y Desarrollo Económico.
