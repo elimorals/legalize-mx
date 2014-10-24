@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-instituto-de-la-mujer-guanajuatense-253
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-07-02"
-last_updated: "2005-05-20"
+last_updated: "2014-10-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,15 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE LA MUJER GUANAJUATENSE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MAYO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO PARA LAS MUJERES GUANAJUATENSES, PUBLICADO EN EL P.O. DE 24 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 2 de julio de 2002.
 
 Juan Carlos Romero Hicks, Gobernador Constitucional del Estado Libre y Soberano de Guanajuato, en ejercicio de las facultades que me confieren los artículos 77 fracciones II, III y XXIII y 79 de la Constitución Política del Estado de Guanajuato: y en observancia de lo dispuesto por los artículos 2o, 3o, 9o y 38 de la Ley Orgánica del Poder Ejecutivo para el Estado, y
 
-CONSIDERANDO.
+CONSIDERANDO...
 
 Por lo anteriormente expuesto y con fundamento en las disposiciones legales y consideraciones previamente señaladas, he tenido a bien expedir el siguiente:
 
@@ -327,7 +329,7 @@ VII.- Supervisar, en colaboración de la Coordinación Administrativa, la correc
 
 VIII.- Dirigir la elaboración de los planes de trabajo de la Unidad y someterlos a consideración de la Dirección General para su presentación ante el Consejo Directivo, así como supervisar su correcta y oportuna ejecución;
 
-IX.- Participar en las comisiones o comités internos del lMUG que les designe la Dirección General;
+IX.- Participar en las comisiones o comités internos del IMUG que les designe la Dirección General;
 
 X.- Suscribir los documentos relativos al ejercicio de sus facultades, así como aquellos que les sean señalados por delegación o les correspondan por suplencia;
 
@@ -347,13 +349,13 @@ XVII.- Diseñar y elaborar material de difusión y didáctico incluyente con rel
 
 XVIII.- Elaborar, a nombre del IMUG, artículos para su publicación en medios impresos;
 
-XIX.- Promover y coordinar publicaciones especializadas relacionadas con los objetivos deI IMUG;
+XIX.- Promover y coordinar publicaciones especializadas relacionadas con los objetivos del IMUG;
 
 XX.- Participar en eventos de actualización relativos a la materia de su competencia;
 
 XXI.- Participar en eventos académicos, científicos y culturales o cualquier otra actividad, relacionados con la materia y objetivos de la Unidad que corresponda y que sean promovidos por otras instituciones;
 
-XXII.- Crear, fortalecer y participar en redes de mujeres y con mujeres, afines a los objetivos del lMUG, a nivel local, nacional e internacional;
+XXII.- Crear, fortalecer y participar en redes de mujeres y con mujeres, afines a los objetivos del IMUG, a nivel local, nacional e internacional;
 
 XXIII.- Brindar asesoría y capacitación a personas, grupos de mujeres e instituciones sobre aspectos específicos del área que corresponda; y
 
@@ -601,7 +603,7 @@ La consejera representante, deberá sujetar su actuación a lo que decida el Con
 
 En todo lo no previsto en este Capítulo, se aplicará en lo conducente lo relativo al Consejo Directivo del IMUG.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MAYO DE 2005)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MAYO DE 2005)</small>
 
 ### CAPÍTULO QUINTO. DEL COMITÉ DE LA MUJER
 
@@ -645,11 +647,11 @@ El órgano de vigilancia del IMUG tendrá el carácter de Contraloría Interna, 
 
 ###### Artículo 66.
 
-La Contraloría Interna, además de las facultades conferidas en el Decreto de Creación del lMUG, tendrá las siguientes:
+La Contraloría Interna, además de las facultades conferidas en el Decreto de Creación del IMUG, tendrá las siguientes:
 
 I.- Elaborar el programa anual de auditaría y remitirlo al Titular de la Secretaría de la Contraloría para su aprobación; así como, coordinar la ejecución de sus operaciones con las unidades administrativas que de acuerdo a su competencia le señale la Secretaría de la Contraloría;
 
-II.- Vigilar que en el desarrollo de sus funciones, las unidades administrativas del lMUG se apeguen a las disposiciones legales aplicables;
+II.- Vigilar que en el desarrollo de sus funciones, las unidades administrativas del IMUG se apeguen a las disposiciones legales aplicables;
 
 III.- Practicar auditarías a las unidades administrativas del IMUG, con el fin de verificar la eficacia y transparencia en sus operaciones así como, el cumplimiento de programas, objetivos y metas;
 
@@ -669,7 +671,7 @@ X.- Informar periódicamente al Consejo Directivo y a la Secretaría de la Contr
 
 XI.- Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquéllas que le confiera el o la Titular de la Secretaría de la Contraloría.
 
-### CAPÍTULO SÉPTIMO. DE LOS ASESORES DEL lMUG
+### CAPÍTULO SÉPTIMO. DE LOS ASESORES DEL IMUG
 
 ###### Artículo 67.
 
@@ -731,8 +733,22 @@ EL SECRETARIO DE DESARROLLO SOCIAL Y HUMANO
 
 ARTURO NÚÑEZ SERRANO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 20 DE MAYO DE 2005.
 
 Artículo Único.- El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de la publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE OCTUBRE DE 2014.
+
+Vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del Reglamento vigente
+
+Artículo Segundo. Se abroga el Reglamento Interior del Instituto de la Mujer Guanajuatense, expedido mediante el Decreto Gubernativo número 118, publicado en el Periódico Oficial del Gobierno del Estado número 78, Segunda Parte, de fecha 2 de julio de 2002.
+
+Implementación de Unidades Administrativas
+
+Artículo Tercero. La implementación de las unidades administrativa (sic) del Instituto para las Mujeres Guanajuatenses contempladas en el presente Decreto Gubernativo se ajustará a la disponibilidad presupuestaria existente.
