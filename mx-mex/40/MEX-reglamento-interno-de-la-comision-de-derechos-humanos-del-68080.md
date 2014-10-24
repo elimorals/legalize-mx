@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-de-la-comision-de-derechos-humanos-del-68080
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-14"
-last_updated: "2012-07-11"
+last_updated: "2014-10-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE OCTUBRE DE 2014.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 14 de abril de 2009.
 
@@ -143,13 +143,9 @@ II. Unidad de Información, Planeación y Evaluación; y
 
 III. Unidad de Comunicación Social.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, G.G. 24 DE OCTUBRE DE 2014)</small>
 
-> <small>(REFORMADO, G.G. 11 DE JULIO DE 2012)</small>
-
-###### Artículo 8.
-
-Para la atención de quejas y el despacho de los asuntos que directamente correspondan a la Primera Visitaduría General, ésta contará con siete Visitadurías Generales, la Dirección de Programas Especiales, así como las unidades administrativas establecidas en el Manual General de Organización de la Comisión.
+Artículo. 8.- Para la atención de quejas y el despacho de los asuntos que directamente correspondan a la Primera Visitaduría General, ésta contará con ocho Visitadurías Generales con competencia para tramitar expedientes de queja y ejecutar los programas que encomiende el Presidente, así como las unidades administrativas establecidas en el Manual General de Organización de la Comisión.
 
 > <small>(REFORMADO, G.G. 4 DE MAYO DE 2011)</small>
 
@@ -194,6 +190,10 @@ VI. La Visitaduría General sede Atlacomulco, tendrá competencia en el territor
 > <small>(ADICIONADA, G.G. 11 DE JULIO DE 2012)</small>
 
 VII. La Visitaduría General sede Naucalpan, tendrá competencia en el territorio que comprenden los municipios de: Huixquilucan; Isidro Fabela; Jilotzingo; Melchor Ocampo; Naucalpan de Juárez; Nicolás Romero; Teoloyucan y Villa del Carbón.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 24 DE OCTUBRE DE 2014)</small>
+
+VIII. La Visitaduría General de Supervisión Penitenciaria, tendrá competencia para supervisar el debido respeto a los derechos humanos en los Centros de Prevención y Readaptación Social del Estado de México, la Escuela de Reintegración Social para Adolescentes, áreas de aseguramiento e internamiento, y conocerá de presuntas violaciones a derechos fundamentales de las personas privadas de libertad en territorio estatal.
 
 ###### Artículo 10.
 
@@ -297,7 +297,7 @@ VII. Elaborar el proyecto de informe anual de actividades del Presidente, así c
 
 VIII. Asistir y participar en las sesiones de Comités y Subcomités del Organismo en los que tenga intervención, conforme a las disposiciones aplicables;
 
-IX. Realizar las funciones correspondientes a la unidad de información del Organismo, en materia de transparencia y acceso a la información pública; y (sic)
+IX. Realizar las funciones correspondientes a la unidad de información del Organismo, en materia de transparencia y acceso a la información pública; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -363,23 +363,13 @@ VI. Asistir y participar en las sesiones de Comités y Subcomités de la Comisi�
 
 VII. Las demás que le confieren otras disposiciones y aquellas que le encomiende el Presidente.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 4 DE MAYO DE 2011)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 24 DE OCTUBRE DE 2014)</small>
 
 ### Capítulo VI. De las atribuciones específicas de la Dirección de Programas Especiales
 
-> <small>(REFORMADO, G.G. 4 DE MAYO DE 2011)</small>
-
 ###### Artículo 16.
 
-Corresponde a la Dirección de Programas Especiales:
-
-I. Elaborar, los planes de trabajo y líneas de acción de los programas que el Organismo le encomiende;
-
-II. Coadyuvar con las unidades administrativas de la Comisión, en la atención de los casos derivados de los programas que le sean delegados;
-
-III. Requerir a los Visitadores correspondientes, la información necesaria para integrar los planes de trabajo de los programas que le sean encomendados; así como para la elaboración de los informes necesarios que se deriven de los mismos; y
-
-IV. Las demás que le confieren otras disposiciones y aquellas que le encomiende el Primer Visitador General.
+(DEROGADO, G.G. 24 DE OCTUBRE DE 2014)
 
 ### Capítulo VII. De las atribuciones específicas de la Secretaría General
 
@@ -509,7 +499,7 @@ VIII. Crear y desarrollar programas que permitan tener acceso a la información 
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE JUNIO DE 2010)</small>
 
-IX. Asistir y participar en las sesiones de Comités y Subcomités de la Comisión, en los que tenga intervención, conforme a las disposiciones aplicables; y (sic)
+IX. Asistir y participar en las sesiones de Comités y Subcomités de la Comisión, en los que tenga intervención, conforme a las disposiciones aplicables; y
 
 > <small>(ADICIONADA G.G. 5 DE OCTUBRE DE 2011)</small>
 
@@ -1160,3 +1150,13 @@ CUARTO.- La Visitaduría General sede Atlacomulco y la Visitaduría General sede
 QUINTO.- Derivado de la redistribución de la competencia territorial de las visitadurías generales de esta Defensoría de Habitantes, se faculta a los visitadores generales a efecto de realizar las modificaciones correspondientes en los comités de defensores municipales de derechos humanos, para su debido funcionamiento, de conformidad con las disposiciones legales, reglamentarias y administrativas aplicables.
 
 SEXTO.- El Primer Visitador General, en el ejercicio de sus atribuciones y derivado de las presentes modificaciones, deberá prever lo necesario a efecto de que los expedientes de queja que se iniciaron con anterioridad a la entrada en vigor de las modificaciones en comento, en su caso, sean remitidos a la visitaduría que corresponda para su debida sustanciación, privilegiando en todo momento los derechos de los quejosos.
+
+G.G. 24 DE OCTUBRE DE 2014.
+
+PRIMERO. Publíquense las presentes modificaciones en el Periódico Oficial "Gaceta del Gobierno" y en la Gaceta de Derechos Humanos órgano informativo de la Comisión de Derechos Humanos del Estado de México.
+
+SEGUNDO. Estas modificaciones entrarán en vigor el día hábil siguiente a su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Derivado del punto que antecede, se instruye a la Dirección General de Administración y Finanzas para que realice las modificaciones conducentes al Organigrama, así como al Manual General de Organización de la Comisión de Derechos Humanos del Estado de México, y efectúe las acciones administrativas que se deriven de las reformas de mérito.
+
+CUARTO. Los procedimientos de queja que involucren violaciones a derechos humanos de personas privadas de libertad, previo a la entrada en vigor de estas modificaciones se sustanciarán y resolverán de acuerdo a lo previsto (sic) en la normatividad vigente; en beneficio de los interesados, serán aplicables los preceptos contenidos en este acuerdo.
