@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-transportes-para-el-estado-de-tabasco-35503"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-20"
-last_updated: "2003-12-20"
+last_updated: "2014-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 LEY DE TRANSPORTES PARA EL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE TRANSPORTES PARA EL ESTADO DE TABASCO, PUBLICADA EN EL P.O. DE 25 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Suplemento B al Periódico Oficial del Estado de Tabasco, el 20 de diciembre de 2003.
 
@@ -201,7 +203,7 @@ Para la utilización en cualquier forma de los derechos de vía en materia de tr
 
 ###### ARTÍCULO 13.
 
-Los vehículos destinados a la prestación del servido público de transporte deberán cumplir con las especificaciones sobre antigüedad, técnicas, ecológicas, físicas, antropométricas, de seguridad, de capacidad, de comodidad y especiales para usuarios convencionales, con discapacidad, mujeres en período de gestación y adultos mayores, que se establezcan en la concesión y permisos.
+Los vehículos destinados a la prestación del servido (sic) público de transporte deberán cumplir con las especificaciones sobre antigüedad, técnicas, ecológicas, físicas, antropométricas, de seguridad, de capacidad, de comodidad y especiales para usuarios convencionales, con discapacidad, mujeres en período de gestación y adultos mayores, que se establezcan en la concesión y permisos.
 
 Ningún vehículo destinado a la prestación del servicio público de pasajeros, "Plus" y de primera clase, podrá realizar sus servicios llevando a bordo a un número mayor de usuarios que los de asientos con los que cuente, por lo que no podrán viajar personas de pie o sentadas, ni en pasillos o espacios entre asientos.
 
@@ -1116,3 +1118,29 @@ GOBERNADOR DEL ESTADO DE TABASCO
 LIC. JAIME HUMBERTO LASTRA BASTAR
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE OCTUBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Transportes para el Estado de Tabasco, publicada en el Periódico Oficial mediante el Decreto 289, el 20 de diciembre de 2003, en el Periódico Oficial del Estado bajo el Suplemento 6395-B, N° 18517.
+
+Asimismo, se derogan todas aquellas disposiciones contrarias a esta Ley.
+
+TERCERO. La autoridad correspondiente deberá expedir el Reglamento respectivo en un plazo no mayor a los 180 días posteriores a partir de la publicación del presente decreto en el Periódico Oficial del Estado.
+
+CUARTO. Los procedimientos y recursos que se encuentren en trámite a la entrada en vigor de esta Ley se substanciarán y resolverán con arreglo a la Ley que se abroga.
+
+QUINTO. Las personas físicas o jurídicas colectivas que actualmente se encuentren detentando u operando un permiso de transporte público vigente por parte de la Secretaría, dentro de los 365 días posteriores de la entrada en vigor de la presente Ley, deberán:
+
+I. Solicitar la prórroga de dicho permiso de transporte público, cumpliendo con lo señalado en el artículo 78, primer párrafo, fracciones II a VIII, de la presente Ley; o
+
+II. Solicitar la sustitución de su permiso de transporte público por una concesión, para lo cual se deberá cumplir con lo señalado en el artículo 78, primer párrafo, fracciones II a VIII, de la presente Ley.
+
+En el caso que los permisionarios no soliciten la prórroga o sustitución de su permiso, dentro del plazo señalado en el párrafo primero de este artículo, éste se considerará anulado.
+
+SEXTO. Las concesiones que se hubieren expedido con antelación a la entrada en vigor de esta Ley y se encuentren vigentes, continuarán en las mismas condiciones hasta la conclusión del plazo fijado para su vigencia. Los concesionarios podrán, con 6 meses de anterioridad al vencimiento de su concesión, solicitar la prórroga de la misma en los términos del artículo 78 de la presente Ley.
+
+SÉPTIMO. Los titulares de concesiones y permisos de transporte público que se hubieren expedido con antelación a la entrada en vigor de esta Ley, y se encuentren vigentes, tendrán un año a partir de la entrada en vigor de la presente Ley para sustituir los vehículos autorizados para prestar el servicio de transporte público por los que cumplan los plazos de antigüedad y operación establecidos en el artículo 31 de la presente Ley.
