@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-ministerio-publico-para-el-estado-de-colima-11
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-04"
-last_updated: "2013-06-22"
+last_updated: "2014-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY ORGANICA DEL MINISTERIO PUBLICO PARA EL ESTADO DE COLIMA
 
-LEY ORGÁNICA DEL MINISTERIO PUBLICO PARA EL ESTADO DE COLIMA
+LEY ORGÁNICA DEL MINISTERIO PÚBLICO PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 25 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO DE MANERA PROGRESIVA Y GRADUAL, CONFORME VAYA INICIANDO SU VIGENCIA LA CITADA LEY EN LOS TÉRMINOS DEL DECRETO 399 MEDIANTE EL CUAL SE PUBLICA Y CON LA SALVEDAD DE LOS PROCEDIMIENTOS INICIADOS CON ANTELACIÓN A SU ENTRADA EN VIGOR, LOS CUALES SE REGIRÁN POR LAS DISPOSICIONES VIGENTES AL MOMENTO DE SU INICIO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2014.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 4 de octubre de 1997.
 
@@ -903,7 +905,7 @@ Son atribuciones y obligaciones del Subdirector del Servicio Médico Forense:
 
 I.- Auxiliar en todo lo concerniente de su área al titular de la Dirección General sustituyéndolo en su ausencia previo acuerdo del Procurador, realizando aquellas actividades que le sean encomendadas por la superioridad para el buen desempeño de sus funciones;
 
-II.- Cuidar que el trabajo que desarrolla el Servicio Médico Forense se desempeño (sic) eficaz y cumplidamente en todo el Estado;
+II.- Cuidar que el trabajo que desarrolla el Servicio Médico Forense se desempeño eficaz y cumplidamente en todo el Estado;
 
 III.- Distribuir el trabajo en forma equitativa entre sus subordinados y compartirlo con ellos;
 
@@ -1258,3 +1260,59 @@ P.O. 18 DE FEBRERO DE 2012.
 P.O. 22 DE JUNIO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 25 DE OCTUBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Previa publicación en el Periódico Oficial "El Estado de Colima", el presente Decreto entrará en vigor en la fecha, en las regiones y mediante las modalidades siguientes:
+
+I. El 19 de noviembre del año 2014, en los municipios de Colima y Villa de Álvarez, correspondientes al primer partido judicial;
+
+II. El 1° de abril del año 2015, en los municipios de Cuauhtémoc, Comala, Coquimatlán y Minatitlán, correspondientes al primer partido judicial;
+
+III. En materia de Justicia Penal para Adolecentes entrará en vigor el 1° de abril del año 2015 en todo el territorio del Estado y con motivo de las infracciones que se cometan al Código Penal para el Estado de Colima;
+
+IV. El 5 de agosto del año 2015, en el municipio de Manzanillo, correspondiente al tercer partido judicial; y
+
+V. El 12 de agosto del año 2015, en los municipios de Tecomán, Armería e Ixtlahuacán, correspondientes al segundo partido judicial.
+
+En consecuencia, comenzará a regular la forma y términos en que se substanciará (sic) los procedimientos penales en la Entidad.
+
+Los procedimientos penales iniciados con antelación a la entrada en vigor del presente Decreto, se regirán por las disposiciones vigentes al momento de su inicio.
+
+En el caso de que no se dieran las condiciones necesarias para la implantación del Nuevo Sistema de Justicia de (sic) Penal en el Estado, en la fecha señalada en el párrafo anterior, se hará una declaratoria de ampliación del término para la entrada en vigor del mismo.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedarán abrogados, de manera progresiva y gradual, los preceptos de la Ley Orgánica del Ministerio Público para el Estado de Colima, contenida en el Decreto 339 publicado en el Periódico Oficial "El Estado de Colima" el 04 de octubre de 1997, así como sus reformas, esto conforme vaya iniciando su vigencia la presente Ley Orgánica de la Procuraduría General de Justicia del Estado de Colima en los términos de este Decreto, con la salvedad de los procedimientos iniciados con antelación a su entrada en vigor, los cuales se regirán por las disposiciones vigentes al momento de su inicio.
+
+###### ARTÍCULO TERCERO.
+
+La Procuraduría General de Justicia del Estado, deberá disponer del personal necesario para el desahogo de los procedimientos seguidos con base en el sistema de justicia tradicional que se sigan tramitando en las distintas regiones pertenecientes a los diversos partidos judiciales en que se compone la Entidad, para tal efecto se realizarán las conversiones siguientes:
+
+I. La actual Subprocuraduría Operativa, se convertirá en la Subprocuraduría General de Procedimientos Penales, misma que operará en ambos sistemas;
+
+II. La actual Subprocuraduría Técnica, se convertirá en la Subprocuraduría General de Justicia Familiar y Civil, Soluciones Alternas, Prevención del Delito y Atención a Víctimas, la que operará para ambos sistemas;
+
+III. La Dirección General de Averiguaciones Previas, permanecerá en el sistema tradicional en razón de la necesidad del servicio;
+
+IV. La Subdirección General de Averiguaciones Previas se convertirá en la Dirección General de Procedimientos Penales;
+
+V. La Dirección General de Control de Procesos permanecerá en el sistema tradicional en razón de la necesidad del servicio;
+
+VI. La Subdirección General de Control de Procesos se convertirá en la Dirección de Justicia Familiar y Civil;
+
+VII. La Dirección General de la Policía de Procuración de Justicia se convertirá en la Dirección General de la Policía Investigadora, operando en ambos sistemas;
+
+VIII. La Dirección de Servicios Sociales permanecerá en el sistema tradicional en razón de la necesidad del Servicio;
+
+IX. La Dirección del Centro de Capacitación de Personal se convertirá en la Dirección de Capacitación y Formación Profesional;
+
+X. La Jefatura de Informática y Sistemas se convertirá en la Dirección de Informática, Sistemas y Estadística; y
+
+XI. La Coordinación General, se convertirá en la Dirección Jurídica y de Asesoría.
+
+###### ARTÍCULO CUARTO.
+
+Para dar cumplimiento a lo señalado en la presente Ley, se deberá programar la partida presupuestal correspondiente por parte de la Secretaría de Finanzas y Administración del Gobierno del Estado, previo anteproyecto presentado por la Procuraduría General de Justicia.
