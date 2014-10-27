@@ -4,7 +4,7 @@ identifier: "HID-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-2549
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-15"
-last_updated: "2013-09-02"
+last_updated: "2014-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 27 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 15 de julio de 2002.
 
@@ -688,3 +690,11 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del pre
 P.O. 2 DE SEPTIEMBRE DE 2013.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 27 DE OCTUBRE DE 2014.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Hidalgo, publicada en el Periódico Oficial del Estado el 15 de julio de 2002.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a la presente Ley.
