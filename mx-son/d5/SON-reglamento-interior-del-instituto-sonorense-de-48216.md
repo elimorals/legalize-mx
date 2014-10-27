@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-del-instituto-sonorense-de-48216"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-22"
-last_updated: "2008-07-07"
+last_updated: "2014-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48216&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 REGLAMENTO INTERIOR DEL INSTITUTO SONORENSE DE INFRAESTRUCTURA EDUCATIVA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE JULIO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO SONORENSE DE INFRAESTRUCTURA EDUCATIVA, PUBLICADO EN EL B.O. DE 27 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE OCTUBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Sección III del Boletín Oficial del Estado de Sonora, el jueves 22 de diciembre de 2005.
 
@@ -77,7 +79,7 @@ El máximo Órgano de Gobierno del Instituto Sonorense de Infraestructura Educat
 
 El Consejo Directivo evaluará la forma en que los objetivos serán alcanzados y la manera en que las estrategias básicas serán conducidas, atendiendo además, los informes que en materia de control y auditoria le sean turnados y vigilará la implementación de las medidas correctivas a que hubiese lugar.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 5º.
 
@@ -313,7 +315,7 @@ El Comité de Adquisiciones, Arrendamientos y Servicios tiene como objetivo dete
 
 ###### ARTÍCULO 22.
 
-El Comité de Adquisiciones, Arrendamientos y Servicios, estará integrado por un Presidente, que será el Director General; Secretario Ejecutivo, que será el Director de Finanzas y Administración; un Secretario Técnico, que será el Subdirector General de de Recursos Humanos y Apoyo Material y Vocal, el Subdirector General de Costos, Contratos y Licitaciones.
+El Comité de Adquisiciones, Arrendamientos y Servicios, estará integrado por un Presidente, que será el Director General; Secretario Ejecutivo, que será el Director de Finanzas y Administración; un Secretario Técnico, que será el Subdirector General de de (sic) Recursos Humanos y Apoyo Material y Vocal, el Subdirector General de Costos, Contratos y Licitaciones.
 
 ###### ARTÍCULO 23.
 
@@ -641,10 +643,28 @@ Director General Jurídico del Estado
 
 > <small>N. DE E. VÉASE ORGANIGRAMA EN B. O. E. DEL 22 DE DICIEMBRE DE 2006, PÁGINA 25.</small>
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 B.O. 7 DE JULIO DE 2008.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado.
+
+B.O. 27 DE OCTUBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior del Instituto Sonorense de Infraestructura Educativa publicado en el Boletín Oficial del Gobierno del Estado de Sonora No. 50, sección III del día 22 de diciembre del 2005.
+
+###### ARTÍCULO TERCERO.
+
+Los manuales de Organización, de Procedimientos y, en su caso, de Servicios al Público del Instituto deberán expedirse dentro de los sesenta días posteriores a la publicación de este Reglamento Interior; así mismo, el Coordinador Ejecutivo queda facultado para resolver las cuestiones que se presenten relacionadas con las materias de dichos manuales en tanto éstos se expidan.
+
+###### ARTÍCULO CUARTO.
+
+Los trámites o procedimientos iniciados con las disposiciones anteriores a la publicación del presente Reglamento Interno, deberán concluirse de conformidad con ellas.
