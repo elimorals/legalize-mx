@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2014-10-13"
+last_updated: "2014-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -5869,7 +5869,7 @@ III. Colaborar con las autoridades del Estado y del Municipio para el debido cum
 
 ###### Artículo 382.
 
-Los administradores, gerentes, poseedores, arrendatarios o propietarios de inmuebles que por su propia naturaleza o por el uso a que sean destinados, reciban una afluencia multitudinaria de personas, están obligados a preparar un programa específico de protección civil, estableciendo para ello su comité interno de protección civil, conforme a las disposiciones del programa municipal, elaborando además su análisis de riesgos y su plan de prevención de contingencias; contado (sic) para ello con la asesoría técnica de la Unidad Operativa Municipal de Protección Civil.
+Los administradores, gerentes, poseedores, arrendatarios o propietarios de inmuebles que por su propia naturaleza o por el uso a que sean destinados, reciban una afluencia multitudinaria de personas, están obligados a preparar un programa específico de protección civil, estableciendo para ello su comité interno de protección civil, conforme a las disposiciones del programa municipal, elaborando además su análisis de riesgos y su plan de prevención de contingencias; contado para ello con la asesoría técnica de la Unidad Operativa Municipal de Protección Civil.
 
 > <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
@@ -5987,7 +5987,7 @@ Los hospitales, sanatorios, clínicas, fabricas, industrias, comercios, oficinas
 
 ###### Artículo 392 Bis.
 
-El Consejo Municipal de Protección Civil, es el órgano de planeación, consulta y apoyo del Sistema Municipal, que tiene por objeto integrar a todas las dependencias y entidades municipales, representantes del sector social y privado, para implementar acciones de protección civil en beneficio de la sociedad.
+El Consejo Municipal de Protección Civil, es el órgano de planeación, consulta y apoyo del Sistema Municipal, que tiene por objeto integrar a todas las dependencias y entidades municipales, representantes del sector social Y privado, para implementar acciones de protección civil en beneficio de la sociedad.
 
 > <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
@@ -6429,7 +6429,7 @@ Los vehículos que contengan y transporten materiales y sustancias inflamables, 
 
 No se permitirán maniobras de carga y descarga después de las dieciocho horas y ninguna hora de acceso a la ciudad los días sábados y domingos. Los carros tanques que abastezcan la gasolina y combustibles a los expendios urbanos, quedan exceptuados de lo anterior.
 
-Los propietarios o responsables deberán de proveer a los conductores de los vehículos de materiales o substancias químicas o con riesgo de incendio, del equipo de protección de personal e información necesaria para la prevención, manejo y control en caso de fuga o derrame.
+Los propietarios o responsables deberán de proveer a los conductores de los vehículos de materiales o substancias químicas o con riesgo de incendio, del equipo de protección de personal e información necesaria para la prevención, manejo Y control en caso de fuga o derrame.
 
 ###### Artículo 426.
 
@@ -8227,7 +8227,7 @@ La suerte del rejoneo seguirá las formas y modalidades que se establecen en est
 
 ###### Artículo 570.
 
-Los rejoneadores se presentarán ante la Autoridad en la forma términos (sic) previstos en este Capítulo, en relación con matadores. En las corridas en que tomen parte dirigirán la lidia de sus toros tomando las atribuciones propias del matador. Podrán emplear el auxilio de los peones para colocar al toro en la ejecución de las suertes que realicen, para correrlo, sacarlo de las querencias y cualquiera otra acción necesaria de acuerdo con lo que rige este Capítulo.
+Los rejoneadores se presentarán ante la Autoridad en la forma (sic) términos previstos en este Capítulo, en relación con matadores. En las corridas en que tomen parte dirigirán la lidia de sus toros tomando las atribuciones propias del matador. Podrán emplear el auxilio de los peones para colocar al toro en la ejecución de las suertes que realicen, para correrlo, sacarlo de las querencias y cualquiera otra acción necesaria de acuerdo con lo que rige este Capítulo.
 
 ###### Artículo 571.
 
@@ -15665,7 +15665,7 @@ II. El método simplificado de análisis.- Es el que se especifica en este Capí
 
 1. En cada planta, al menos el 75 por ciento de las cargas verticales estarán soportadas por muros ligados entre sí mediante losas monolíticas u otros sistemas de piso suficientemente resistentes y rígidos al corte. Dichos muros tendrán distribución sensiblemente simétrica con respecto a dos ejes ortogonales y deberán satisfacer las condiciones que establecen las correspondientes normas técnicas del RCDF para estructuras de concreto o mampostería. Será admisible cierta asimetría en la distribución de los muros cuando existan en todos los pisos cuando menos dos muros de carga perimetrales paralelos entre sí, cada uno con longitud no menor de la mitad de la dimensión mayor en planta de la estructura. Los muros a que se refiere este párrafo podrán ser de mampostería, concreto reforzado o madera; en este último caso, estarán arriostrados con diagonales.
 
-2. La relación entra (sic) la longitud y anchura de la planta de la estructura no excederá de 2, a menos, que, para fines de análisis sísmicos, se pueda suponer divida (sic) dicha planta en tramos independientes cuya relación entre longitud y anchura esta (sic) restricción y cada tramo resistencia la fuerza cortante que le corresponde calculada como se indica.
+2. La relación entra (sic) la longitud y anchura de la planta de la estructura no excederá de 2, a menos, que, para fines de análisis sísmicos, se pueda suponer divida (sic) dicha planta en tramos independientes cuya relación entre longitud y anchura (sic) esta restricción y cada tramo resistencia la fuerza cortante que le corresponde calculada como se indica.
 
 3. La relación entre la altura y la dimensión mínima de la base estructura excederá de 1.5 y la altura de la estructura no será mayor de 13 m.
 
@@ -15717,7 +15717,7 @@ FACTOR DE COMPORTAMIENTO SÍSMICO: Se adoptarán los siguientes valores del fact
 
 Se usará Q = 4 cuando se cumplan los requisitos siguientes:
 
-I. La resistencia en todos los entrepisos es suministrada exclusivamente por marcos no contraventeados de acero o concreto reforzado, o bien por marcos contraventeados o con muros de concreto reforzado en los que, en cada entrepiso, los marcos son capaces de resistir, sin contar muros ni contravientos, cuando menos 50 por ciento (sic) de la fuerza sísmica actuante.
+I. La resistencia en todos los entrepisos es suministrada exclusivamente por marcos no contraventeados de acero o concreto reforzado, o bien por marcos contraventeados o con muros de concreto reforzado en los que, en cada entrepiso, los marcos son capaces de resistir, sin contar muros ni contravientos, cuando menos 50 por ciento de la fuerza sísmica actuante.
 
 II. Si hay muros ligados adecuadamente en todo su perímetro a los marcos estructurales o a castillos y dalas ligadas a los marcos, éstos se deben tener en cuenta en el análisis de la estructura, pero su contribución a la capacidad ante fuerzas laterales sólo se tomará en cuenta si estos muros son de piezas macizas, y los marcos, sean o no contraventeados, y los muros de concreto reforzado son capaces de resistir al menos 80 por ciento de las fuerzas laterales totales sin la contribución de los muros de mampostería.
 
@@ -15727,7 +15727,7 @@ IV. Los marcos y muros de concreto reforzado cumplen con los requisitos que fija
 
 V. Los marcos rígidos de acero satisfacen los requisitos para marcos dúctiles que fijan las normas técnicas del RCDF para las estructuras metálicas.
 
-VI. Se usará Q = 3 cuando se satisface lo dispuesto en los numerales 2, 4 y 5 de la fracción anterior y si en cualquier entrepiso dejan de satisfacerse las condiciones 1 ó 3 especificadas para el caso I, pero la resistencia en todo los (sic) entrepisos es suministrada por columnas de acero o de concreto reforzado con losas planas, por marcos rígidos de acero, por marcos de concreto reforzado, por muros de este material, por combinaciones de éstos y marcos o por diafragmas de madera contrachapada. Las estructuras con losas planas deberán además satisfacer los requisitos que sobre el particular marcan las normas técnicas del RCDF para estructuras de concreto.
+VI. Se usará Q = 3 cuando se satisface lo dispuesto en los numerales 2, 4 y 5 de la fracción anterior y si en cualquier entrepiso dejan de satisfacerse las condiciones 1 ó 3 especificadas para el caso I, pero la resistencia en todo (sic) los entrepisos es suministrada por columnas de acero o de concreto reforzado con losas planas, por marcos rígidos de acero, por marcos de concreto reforzado, por muros de este material, por combinaciones de éstos y marcos o por diafragmas de madera contrachapada. Las estructuras con losas planas deberán además satisfacer los requisitos que sobre el particular marcan las normas técnicas del RCDF para estructuras de concreto.
 
 VII. Se usará Q = 2 cuando la resistencia a fuerzas laterales es suministrada por losas planas con columnas de acero o de concreto reforzado, por marcos de acero o de concreto reforzado, contraventeados o no, o por muros o columnas de concreto reforzado, que no cumplen en algún entrepiso lo especificado para los casos I y II, o por muros de mampostería de piezas macizas confinados por castillos, dalas, columnas o trabes de concreto reforzado o de acero, que satisfagan los requisitos de las normas técnicas del RCDF para estructuras de mampostería, o diafragmas construidos con duelas inclinadas o por sistemas de muros formados por duelas de madera horizontales o verticales combinados con elementos diagonales de madera maciza. También se usará Q = 2 cuando la resistencia es suministrada por elementos de concreto prefabricado o presforzado, con las excepciones que sobre el particular marcan las normas técnicas del RCDF para estructuras de concreto.
 
@@ -16647,7 +16647,7 @@ Queda prohibido el paso de tuberías conductoras de gas por el interior de las p
 
 ###### Artículo 1068.
 
-CALENTADORES: Los calentadores de gas para agua, podrán colocarse en patio o azoteas y cuando se instalen en cocina, deberán colocarse adosados a algunos de lo muros (sic) que limiten con el exterior y provistos de un sistema que permita una ventilación constante.
+CALENTADORES: Los calentadores de gas para agua, podrán colocarse en patio o azoteas y cuando se instalen en cocina, deberán colocarse adosados a algunos de lo (sic) muros que limiten con el exterior y provistos de un sistema que permita una ventilación constante.
 
 ###### Artículo 1069.
 
@@ -16913,11 +16913,11 @@ V. UOMPC - Unidad Operativa Municipal de Protección Civil.
 
 El cumplimiento del presente apartado, es responsabilidad de los propietarios, administradores o responsables de los inmuebles regulados en el mismo.
 
-> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 1106.
 
-La verificación del cumplimiento del presente apartado corresponde a la UOMPC y la Dirección.
+La verificación del cumplimiento del presente apartado, corresponde a la UOMPROCI y a la Dirección.
 
 ###### Artículo 1107.
 
@@ -18009,9 +18009,7 @@ V. Regular y especificar el contenido de el Programa de Desarrollo Urbano aplica
 
 VI. Regular conjuntamente con el Capítulo correspondiente de este Código Reglamentario, la colocación, fijación y diseño de anuncios y mobiliario urbano, así como su mantenimiento y conservación a fin de preservar la fisonomía e imagen urbana de la zona, preservándola de la contaminación visual, auditiva y ambiental;
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2006)</small>
-
-VII. Establecer las normas y principios básicos conforme a los cuales se llevarán a cabo las acciones de protección civil en la zona, a través de los organismos federales, estatales y municipales (Unidad Operativa Municipal de Protección Civil), así como los organismos sociales y académicos competentes en la materia;
+VII. Establecer las normas y principios básicos conforme a los cuales se llevarán a cabo las acciones de protección civil en la zona, a través de los organismos federales, estatales y municipales, así como los organismos sociales y académicos competentes en la materia;
 
 VIII. Normar la ubicación y prestación de los servicios urbanos y de equipamiento en la zona;
 
@@ -25081,13 +25079,13 @@ Para el cumplimiento de lo dispuesto en el artículo anterior se contará con el
 
 Las visitas de inspección se regirán y sujetarán a lo dispuesto en el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos; artículos 51, 52 y 53 del Reglamento del Código Fiscal y Presupuestario para el Municipio de Puebla y normatividad aplicable.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 1637 Bis.
 
 El producto cárnico que no esté amparado con la documentación de sanidad, legal procedencia y el sello del Rastro Municipal o del Rastro al que pertenece será inspeccionado por la autoridad sanitaria municipal; la disposición de éste será de acuerdo al criterio del médico veterinario responsable oficial o aprobado; cuando el producto cárnico esté en condiciones de sanidad que permitan su uso en la alimentación humana, previo pago de los derechos correspondientes, será resellado con la leyenda "Inspeccionado y Aprobado", pudiendo el propietario aprovecharlo en su venta directa o en la elaboración de productos comestibles; en caso contrario deberá ser decomisado haciéndose constar tal situación en el acta de decomiso correspondiente y el propietario, a su costa, deberá enviarlo a la planta de rendimiento de su elección para su aprovechamiento como harina de carne y/o desnaturalización, o en su caso, incineración.
 
-> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 1637 Bis 1.
 
@@ -25097,7 +25095,7 @@ I. Si se encuentran alteraciones que los hagan impropios para el consumo humano,
 
 II. Cuando estén en condiciones de sanidad que permitan su uso en la alimentación humana, previo pago de los derechos correspondientes, serán resellados con la leyenda "Inspeccionado y Aprobado", pudiendo el propietario aprovecharlo en su venta directa o en la elaboración de productos comestibles; esto también se hará constar en el acta respectiva.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1637 Ter.
 
@@ -25371,7 +25369,7 @@ Los productos cárnicos que se transporten en el Municipio, deberán estar ampar
 
 El producto cárnico que se transporte sin cumplir con lo dispuesto en el artículo anterior será decomisado por la autoridad municipal y sometido a inspección sanitaria; adoptando las medidas señaladas en el artículo 1637 Bis del presente Código.
 
-Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación “México Calidad Suprema”, los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
+Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación "México Calidad Suprema", los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
@@ -27141,7 +27139,7 @@ Los vocales tendrán derecho solamente a voz. Cada uno de los vocales contará c
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-Los Trabajos de la Comisión se realizarán con base a lo establecido en la Ley Orgánica Municipal y en el Capítulo 5 del presente Código Reglamentario, con excepción de lo dispuesto en el artículo 103 de la citado (sic) Código, toda vez que la reunión de esta Comisión será válida si asisten la mayoría de los integrantes con derecho a voto.
+Los Trabajos de la Comisión se realizarán con base a lo establecido en la Ley Orgánica Municipal y en el Capítulo 5 del presente Código Reglamentario, con excepción de lo dispuesto en el artículo 103 de la (sic) citado Código, toda vez que la reunión de esta Comisión será válida si asisten la mayoría de los integrantes con derecho a voto.
 
 ###### Artículo 1720.
 
@@ -27161,7 +27159,7 @@ V. Proponer al H. Ayuntamiento, la suscripción de acuerdos de colaboración, as
 
 VI. Proponer al H. Ayuntamiento, previo acuerdo de coordinación con la Federación y, en su caso, con el Gobierno Estatal, los mecanismos de vigilancia para evitar el comercio y el tráfico ilegal de flora y fauna, así como la degradación general del medio ambiente;
 
-VII. Proponer programas la (sic) educación ambiental y participación ciudadana para el cuidado y mejoramiento del ambiente;
+VII. Proponer programas (sic) la educación ambiental y participación ciudadana para el cuidado y mejoramiento del ambiente;
 
 VIII. Desarrollar programas de educación ambiental para promover el estudio y conocimiento de los ecosistemas que se encuentran en el Municipio;
 
@@ -28787,7 +28785,7 @@ XXIII. Criadero: Área de cohabitación de dos ejemplares de la misma raza y dif
 
 > <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-XXIV. Crueldad: El acto de brutalidad, sádico o zoofóbico contra cualquier animal.; (sic)
+XXIV. Crueldad: El acto de brutalidad, sádico o zoofóbico contra cualquier animal.;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -33995,7 +33993,7 @@ Si alguno de los boxeadores al verificar el peso oficial está fuera de la divis
 
 ###### ARTÍCULO 2226.
 
-Si el Campeón no se encuentra dentro de la división correspondiente, perderá automáticamente el título, pero el encuentro se celebrará a doce "asaltos".
+Si el Campeón no se encuentra dentro de la división correspondiente, perderá automáticamente el titulo, pero el encuentro se celebrará a doce "asaltos".
 
 Si al efectuarse la pelea, el retador resulta vencedor, será reconocido como nuevo campeón de la división, si el ex-campeón fuera el vencedor, el título será declarado vacante. Si el resultado del encuentro fuera de empate, el título también será declarado vacante.
 
@@ -34647,13 +34645,25 @@ VIII. Premio al "Mérito Empresarial";
 
 IX. Premio al "Mérito Laboral";
 
-X. Reconocimiento de "Visitante Distinguido";
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2014)</small>
 
-XI. Reconocimiento de "Poblano Distinguido";
+X. Premio al "Compromiso por la inclusión de las personas con discapacidad: María Eugenia Antúnez Farrugia";
 
-XII. Reconocimiento "Copia de la declaración de la UNESCO a la Ciudad de Puebla como Patrimonio Mundial"; y
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2014)</small>
 
-XIII. Reconocimiento "Juan de Palafox y Mendoza".
+XI. Reconocimiento de "Visitante Distinguido";
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2014)</small>
+
+XII. Reconocimiento de "Poblano Distinguido";
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2014)</small>
+
+XIII. Reconocimiento de "Copia de la declaración de la UNESCO a la Ciudad de Puebla como Patrimonio Mundial"; y
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2014)</small>
+
+XIV. Reconocimiento "Juan de Palafox y Mendoza”.
 
 > <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
 
@@ -35277,6 +35287,62 @@ III. Todas las propuestas deberán expresar las actividades, trayectoria y logro
 
 IV. Los demás que a juicio del Consejo de Premiación, estime convenientes.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE OCTUBRE DE 2014)</small>
+
+EL PREMIO AL "COMPROMISO POR LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD: MARÍA EUGENIA ANTÚNEZ FARRUGIA"
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 2335 Bis.
+
+El Premio al "Compromiso por la inclusión de las personas con discapacidad: María Eugenia Antúnez Farrugia", va encaminado a reconocer a las personas con discapacidad nacidas o avecindadas en el territorio del Municipio de Puebla; así como a personas físicas o morales nacidas o radicadas en una entidad diferente siempre que hayan realizado méritos excepcionales en beneficio de las personas con discapacidad en el Municipio de Puebla.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 2335 Ter.
+
+El Premio al "Compromiso por la inclusión de las personas con discapacidad: María Eugenia Antúnez Farrugia", será entregado en las categorías siguientes:
+
+l. Primera Categoría: Otorgado a quienes destaquen en alguno de los rubros siguientes:
+
+a) Persona sobresaliente con discapacidad. Que genere una imagen notable y destacada comprometida con el esfuerzo diario.
+
+b) Inclusión educativa. Persona comprometida con la inclusión de alumnos con discapacidad en sus aulas, o bien que aporte experiencias relevantes de apoyo y/o impulso para su desarrollo educativo.
+
+c) Investigación. Persona que genere conocimiento relevante sobre la discapacidad o el desarrollo de ayudas técnicas y tecnológicas que faciliten la participación de las personas con discapacidad.
+
+II. Segunda Categoría: Otorgado a quienes destaquen en alguno de los rubros siguientes:
+
+a) Accesibilidad universal. Empresas o instituciones que hayan generado soluciones innovadoras de accesibilidad al medio físico, la educación, el ocio, la cultura, el deporte, el transporte, el turismo y las nuevas tecnologías de la información y de la comunicación.
+
+b) Asociación u Organización no Gubernamental de o para personas con discapacidad. Con logros importantes para sus agremiados o en general para la población con discapacidad.
+
+c) Inclusión laboral o educativa. Se otorga a una empresa o institución que genere incorporación al mundo laboral, capacitación para lograrlo o bien, que desarrolle las habilidades socio laborales requeridas para integrarse en el campo de trabajo o con responsabilidad Social Empresarial.
+
+d) Medios de Comunicación e Imagen Social. Que generen una imagen positiva de las personas con discapacidad, colaborando en la generación de una cultura de respeto e inclusión.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 2335 Quáter.
+
+El Premio al "Compromiso por la inclusión de las personas con discapacidad: María Eugenia Antúnez Farrugia", consistirá en un diploma, el cual será entregado en la primera quincena del mes de diciembre de cada año, en Acto Protocolario de Cabildo. La convocatoria deberá ser emitida al menos un mes antes de la premiación.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 2335 Quinquies.
+
+El Premio al "Compromiso por la inclusión de las personas con discapacidad: María Eugenia Antúnez Farrugia", será evaluado por un Consejo de Premiación, el cual estará integrado por:
+
+I. Un Presidente, quien será el Presidente Municipal con voz y voto; quien en caso de empate tendrá voto de calidad;
+
+II. Un Secretario, quien será el Secretario del Ayuntamiento, quien tendrá voz y voto; quien fungirá como Secretario Técnico;
+
+III. El Presidente de la Comisión de Salud y Grupos en Situación de Vulnerabilidad y los Regidores integrantes de la misma, quienes serán los vocales, teniendo voz y voto;
+
+IV. El Presidente del Consejo Ciudadano de Discapacidad, teniendo voz y voto; y
+
+V. Un representante del Sistema Municipal para el Desarrollo Integral de la Familia, teniendo voz y voto.
+
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
 
 DE LOS RECONOCIMIENTOS
@@ -35701,10 +35767,6 @@ PRIMERO.- Las presentes reformas, entrarán en vigor a partir del día siguiente
 
 SEGUNDO.- Se derogan las demás disposiciones que sean contrarias al presente Decreto.
 
-P.O. 6 DE DICIEMBRE DE 2006.
-
-ÚNICO.- Se derogan las disposiciones que se opongan al presente Dictamen.
-
 P.O. 8 DE DICIEMBRE DE 2006.
 
 PRIMERO.- El presente Dictamen surtirá efectos a partir de la fecha de aprobación.
@@ -36063,7 +36125,7 @@ PRIMERO.- Se aprueba la reforma de la fracción XII del artículo 1255 del Capí
 
 SEGUNDO.- Se instruye a la Secretaria del Honorable Ayuntamiento para que en el ámbito de sus atribuciones, realice las acciones y trámites pertinentes a fin de que el presente Dictamen se envíe a la Secretaría General de Gobierno para su publicación en el Periódico Oficial del Estado.
 
-TERCERO.- Las reformas entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial Estado (sic).
+TERCERO.- Las reformas entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial (sic) Estado.
 
 P.O. 13 DE MAYO DE 2013.
 
@@ -36144,3 +36206,9 @@ TERCERO.- Se instruye a las Dependencias competentes a realizar las adecuaciones
 P.O. 13 DE OCTUBRE DE 2014.
 
 ÚNICO. El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+P.O. 27 DE OCTUBRE DE 2014.
+
+PRIMERO.- El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Dictamen.
