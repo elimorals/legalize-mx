@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-quejas-y-denuncias-del-instituto-federal-81891"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-30"
-last_updated: "2011-09-05"
+last_updated: "2014-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81891&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2011-06-23"
 
 REGLAMENTO DE QUEJAS Y DENUNCIAS DEL INSTITUTO FEDERAL ELECTORAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE SEPTIEMBRE DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO TERCERO DEL ACUERDO POR EL QUE SE APRUEBA EL REGLAMENTO DE QUEJAS Y DENUNCIAS DEL INSTITUTO NACIONAL ELECTORAL, PUBLICADO EN EL D.O.F. DE 27 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE OCTUBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 30 de junio de 2011.
 
@@ -1291,7 +1293,7 @@ De la admisión y el emplazamiento
 
 1. El Secretario contará con un plazo de veinticuatro horas para emitir el Acuerdo de admisión o propuesta de desechamiento, contado a partir del día en que reciba el escrito original de queja o denuncia en el que conste firma autógrafa del promovente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE EL PUNTO TERCERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE EL PUNTO TERCERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2011)</small>
 
@@ -1323,7 +1325,7 @@ d) Concluido el desahogo de las pruebas, el Secretario concederá en forma suces
 
 5. Las reglas establecidas en los Capítulos Tercero y Cuarto, del Título Segundo de este Reglamento serán aplicables al procedimiento que se regula en este Título, en todo aquello que no se oponga a la naturaleza del mismo y a las reglas contenidas en este artículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE EL PUNTO TERCERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE EL PUNTO TERCERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2011)</small>
 
@@ -1395,7 +1397,7 @@ iii) El vocal ejecutivo contará con veinticuatro horas para elaborar el engrose
 
 6. En el caso de la propaganda impresa, podrá interponerse la queja respectiva ante el vocal ejecutivo o ante el vocal secretario de la Junta Distrital que corresponda al ámbito territorial en que se presente el hecho motivo de la impugnación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE EL PUNTO TERCERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE EL PUNTO TERCERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2011)</small>
 
@@ -1601,11 +1603,11 @@ Se aprobó en lo particular el Punto Quinto Transitorio del Reglamento de Quejas
 
 El Consejero Presidente del Consejo General, Leonardo Valdés Zurita.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O.F. 5 DE SEPTIEMBRE DE 2011.
 
-> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACION SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO DE REFORMAS.</small>
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO DE REFORMAS.</small>
 
 ...
 
@@ -1618,3 +1620,17 @@ Quinto.- Se instruye al Secretario del Consejo a efecto de que notifique el cont
 Sexto.- El Secretario Ejecutivo dispondrá, a la brevedad posible, la edición del número de ejemplares de este Reglamento que estime necesarios para su adecuada difusión.
 
 Séptimo.- Publíquese el presente Acuerdo en la Gaceta Electoral del Instituto Federal Electoral.
+
+D.O.F. 27 DE OCTUBRE DE 2014.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+
+Segundo. El presente Acuerdo entrará en vigor y surtirá efectos al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Tercero. Se abroga el Reglamento de Quejas y Denuncias del Instituto Federal Electoral, publicado en el Diario Oficial de la Federación el 5 de septiembre de 2011.
+
+Cuarto. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Acuerdo, serán resueltos conforme a las normas sustantivas vigentes al momento de su inicio.
+
+Quinto. Para efectos de la notificación electrónica a que se refiere el artículo 33 del Reglamento se deberán emitir los Lineamientos correspondientes en un plazo de ciento veinte días naturales.
+
+Sexto. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en la Gaceta del Instituto Nacional Electoral, así como en la página de internet de este Instituto.
