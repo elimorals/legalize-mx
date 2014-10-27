@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-consejo-municipal-de-la-juventud-de-57931"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-12-31"
-last_updated: "2011-08-11"
+last_updated: "2014-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 REGLAMENTO DEL CONSEJO MUNICIPAL DE LA JUVENTUD DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO DEL CONSEJO MUNICIPAL DE LA JUVENTUD DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 27 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 31 de diciembre de 2007.
 
@@ -440,3 +442,17 @@ PRIMERO: El presente Reglamento entrará en vigor a partir del día siguiente de
 SEGUNDO: El Departamento de Atención a la Juventud del Municipio de Aguascalientes tendrá treinta días naturales a partir de la entrada en vigor del presente Reglamento para emitir y publicar la convocatoria a que se hace mención en el mismo.
 
 TERCERO: Una vez instalado el Consejo Municipal de la Juventud de Aguascalientes, éste contará con sesenta días para emitir su Reglamento Interior.
+
+P.O. 27 DE OCTUBRE DE 2014.
+
+PRIMERO.- Se abroga el Reglamento del Consejo Municipal de la Juventud de Aguascalientes, publicado en el Periódico Oficial del Estado de fecha 31 de diciembre del 2007, en el Tomo LXX, número 53.
+
+SEGUNDO.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Con la finalidad de que el Consejo Municipal de la Juventud de Aguascalientes pueda funcionar en el presente año 2014, el Área de Atención a la Juventud del Gobierno Municipal de Aguascalientes tendrá dos días hábiles a partir de la entrada en vigor del presente Reglamento, para emitir la convocatoria que determinará las bases y lineamientos para elegir a los vocales del Consejo Municipal de la Juventud de Aguascalientes.
+
+CUARTO.- De acuerdo al transitorio tercero, el Consejo Municipal de la Juventud de Aguascalientes deberá ser instalado antes del día 21 de noviembre del año 2014.
+
+QUINTO.- Una vez instalado el Consejo Municipal de la Juventud de Aguascalientes en el presente año 2014, éste de conformidad con el artículo 32 del presente reglamento, emitirá la convocatoria para el Premio Municipal de la Juventud.
+
+SEXTO.- Con relación al presente año 2014 el Premio Municipal de la Juventud será entregado en sesión Ordinaria o Extraordinaria de Cabildo en el mes de diciembre.
