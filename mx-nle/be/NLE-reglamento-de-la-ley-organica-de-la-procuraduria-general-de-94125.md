@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-941
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-04-20"
-last_updated: "2014-03-28"
+last_updated: "2014-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94125&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 20 de abril de 2013.
 
@@ -303,13 +303,17 @@ c) La Fiscalía Regional Sur, de la cual dependerán:
 
 d) La Dirección de Averiguaciones Previas;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2014)</small>
 
-e) La Dirección de Procesos y Amparo, y
+e) La Dirección de Procesos y Amparo;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2014)</small>
 
-f) La Dirección de Bienes Asegurados, Recuperados e Instrumentos del Delito.
+f) La Dirección de Bienes Asegurados, Recuperados e Instrumentos del Delito, y
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2014)</small>
+
+g) La Fiscalía Especializada en Operaciones Estratégicas.
 
 II. La Visitaduría General;
 
@@ -317,9 +321,21 @@ III. El Centro de Evaluación y Control de Confianza;
 
 IV. La Agencia Estatal de Investigaciones, de la que formarán parte:
 
-a) La Dirección de Análisis e Información, y
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2014)</small>
 
-b) La Dirección de Despliegue Policial.
+a) La Dirección de Análisis e Información;
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2014)</small>
+
+b) La Dirección de Investigaciones Región Centro:
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2014)</small>
+
+c) La Dirección de Investigaciones Región Norte, y
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2014)</small>
+
+d) La Dirección de Investigaciones Región Sur.
 
 V. El Instituto de Criminalística y Servicios Periciales;
 
@@ -559,9 +575,9 @@ III. Supervisar el cumplimiento de las bases o lineamientos expedidos por el Pro
 
 IV. Coordinar, con base en los lineamientos que señale el Procurador, el intercambio de criterios de aplicación técnico penal con otras Procuradurías y órganos jurisdiccionales para mejorar la procuración e impartición de justicia en el Estado y promover la difusión para su debida observancia;
 
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2014)</small>
 
-V. Establecer, con los titulares de las Fiscalías Regionales, Dirección de Averiguaciones Previas, Dirección de Procesos y Amparo, Agencia Estatal de Investigaciones e Instituto de Criminalística y Servicios Periciales, los métodos y lineamientos para mejorar la calidad técnica y jurídica del desempeño del Ministerio Público, la investigación policial y los dictámenes periciales, con pleno respeto a los derechos humanos;
+V. Establecer, con los titulares de las Fiscalías Regionales, Dirección de Averiguaciones Previas, Dirección de Procesos y Amparo, Fiscalía Especializada en Operaciones Estratégicas, Agencia Estatal de Investigaciones e Instituto de Criminalística y Servicios Periciales, los métodos y lineamientos para mejorar la calidad técnica y jurídica del desempeño del Ministerio Público, la investigación policial y los dictámenes periciales, con pleno respeto a los derechos humanos;
 
 VI. Supervisar el registro y administración de los bienes asegurados, recuperados e instrumentos del delito vinculados a las indagatorias;
 
@@ -643,7 +659,7 @@ III. Revisar las carpetas de investigación que le sean sometidas a consulta, an
 
 IV. Supervisar que el personal de su adscripción realice sus funciones con la diligencia necesaria para la pronta, completa e imparcial procuración de justicia, rigiéndose con los principios de legalidad, profesionalismo, honradez, lealtad, imparcialidad y responsabilidad, y con el debido respeto de los derechos humanos;
 
-V. Practicar la supervisión al personal a su cargo, a fin de observar o inspeccionar las investigaciones que ventilan, e informar al Fiscal Regional de su adscripción en caso de observar alguna anormalidad: (sic)
+V. Practicar la supervisión al personal a su cargo, a fin de observar o inspeccionar las investigaciones que ventilan, e informar al Fiscal Regional de su adscripción en caso de observar alguna anormalidad:
 
 VI. Establecer y hacer cumplir las políticas de calidad que determine el Procurador General de Justicia, Subprocurador del Ministerio Publico y el Fiscal Regional de su adscripción;
 
@@ -735,13 +751,13 @@ XIII. Mantener comunicación con el Poder Judicial del Estado y el Poder Judicia
 
 XIV. Implementar y mantener actualizado un sistema de compilación de tesis judiciales dictadas en materia de amparo contra actos de la Procuraduría y del Poder Judicial Estatal y en general, de todos aquellos criterios judiciales que sean relevantes;
 
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2014)</small>
 
 XV. Proponer al Procurador, en los casos que corresponda, la denuncia de contradicción de tesis que provenga de los juicios de amparo, ante las autoridades competentes;
 
-> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2014)</small>
 
-XVI. Ejercer las acciones necesarias para la debida representación de la Procuraduría frente a los órganos de control constitucional, en los términos del párrafo primero del artículo 9 de la Ley de Amparo, a los delegados en los juicios de garantías en que se señalen como autoridad responsable al Procurador, Subprocurador del Ministerio Público, Director General de la Fiscalía Regional Centro, Director General de la Fiscalía Regional Norte, Director General de la Fiscalía Regional Sur, Directores de las Fiscalías de Zona, Directores de las Fiscalías Especializadas, Director de Averiguaciones Previas, Director General de la Agencia Estatal de Investigaciones, Director de Análisis e Información, Director de Despliegue Policial, Director del Instituto de Criminalística y Servicios Periciales, Director General de Atención Ciudadana y Justicia Penal Alternativa, Director de Atención Ciudadana, Director de Justicia Penal Alternativa, Director de Orientación, Protección y Apoyo a Víctimas de Delitos y Testigos, Director de la Unidad Especializada Antisecuestros, Director del Instituto de Formación Profesional y Agentes del Ministerio Público; para que concurran a las audiencias a efecto de que en ellas rindan pruebas, alegatos o hagan promociones, a excepción de aquellas relativas a recursos de inconformidad interpuestos contra el no ejercicio de la acción penal; tal acreditación podrá recaer en servidores públicos que sean profesionistas del derecho y laboren en la Dirección;
+XVI. Ejercer las acciones necesarias para la debida representación de la Procuraduría frente a los órganos de control constitucional, en los términos del párrafo primero del artículo 9 de la Ley de Amparo, a los delegados en los juicios de garantías en que se señalen como autoridad responsable al Procurador, Subprocurador del Ministerio Público, Director General de la Fiscalía Regional Centro, Director General de la Fiscalía Regional Norte, Director General de la Fiscalía Regional Sur, Directores de las Fiscalías de Zona, Directores de las Fiscalías Especializadas, Director de Averiguaciones Previas, Director General de la Agencia Estatal de Investigaciones, Director de Investigación Región Centro, Director de Investigación Región Norte, y Director de Investigación Región Sur, Director de Análisis e Información, Director del Instituto de Criminalística y Servicios Periciales, Director General de Atención Ciudadana y Justicia Penal Alternativa, Director de Atención Ciudadana, Director de Justicia Penal Alternativa, Director de Orientación, Protección y Apoyo a Víctimas de Delitos y Testigos, Director de la Unidad Especializada Antisecuestros, Director del Instituto de Formación Profesional y Agentes del Ministerio Público; para que concurran a las audiencias a efecto de que en ellas rindan pruebas, alegatos o hagan promociones, a excepción de aquellas relativas a recursos de inconformidad interpuestos contra el no ejercicio de la acción penal; tal acreditación podrá recaer en servidores públicos que sean profesionistas del derecho y laboren en la Dirección;
 
 > <small>(ADICIONADA, P.O. 28 DE MARZO DE 2014)</small>
 
@@ -818,6 +834,46 @@ XII. Solicitar al Ministerio Público un informe y documentación sobre la situa
 XIII. Administrar la información sobre los vehículos recuperados y servir como conducto para llamar al ciudadano sobre la recuperación de los vehículos, y
 
 XIV. Las que le encomiende el Subprocurador del Ministerio Público o le otorgue la Ley, este Reglamento y demás normas aplicables.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 29 Bis.
+
+De la Fiscalía Especializada en Operaciones Estratégicas
+
+La Fiscalía Especializada en Operaciones Estratégicas depende de la Subprocuraduría del Ministerio Público y es una unidad administrativa central responsable de investigar y perseguir los delitos contra la salud en su modalidad de narcomenudeo que sean competencia del fuero común; los relacionados con agrupación delictuosa; los delitos cuya investigación implique un grave riesgo para los sujetos que intervienen en el proceso; y sobre denuncias relativas a ausencias, desapariciones y extravíos de personas, siendo competentes para realizar las acciones referidas en los artículos 6 y 7 de la Ley, 5 y 7 de este Reglamento, y para las siguientes:
+
+I. Vigilar que los Agentes del Ministerio Público Investigadores, de las Unidades de Investigación a su mando, se conduzcan con estricto apego a lo establecido en la normatividad aplicable, respetando los derechos humanos;
+
+II. Supervisar a los Agentes del Ministerio Público Investigadores para que realicen las actuaciones necesarias dentro de las carpetas de investigación que tengan a su cargo, y en las que se proponga cualquier acto a realizar en la etapa de Investigación, Audiencia Intermedia, Audiencia de Juicio Oral y en la segunda Instancia, haciendo el estudio respectivo para determinar lo procedente;
+
+III. Recibir de los Agentes del Ministerio Público de su adscripción, en los términos de los acuerdos que al efecto emita el Procurador, las carpetas de investigación debidamente agotadas en las que se proponga el no ejercicio de la acción penal, haciendo el estudio respectivo para determinar lo procedente;
+
+IV. Supervisar las carpetas de investigación que estime incompletas y señalar las diligencias que deban practicarse o los medios de prueba que deban recabarse, para su debida integración y perfeccionamiento;
+
+V. Resolver los conflictos de competencia que se presenten entre sus Agentes del Ministerio Público, así como las diferencias de criterio que surjan entre ellos;
+
+VI. Someter a la aprobación del Procurador los casos en los que se pretenda prescindir, total o parcialmente, de la persecución penal, que se limite a alguno o varios hechos o a alguna de las personas que participaron en su realización, debiendo adoptar los criterios de oportunidad señalados en el artículo 94 fracción II del Código Procesal Penal;
+
+VII. Poner a la consideración del Subprocurador del Ministerio Público, los criterios que deban observarse en las solicitudes de medidas cautelares, criterios de oportunidad, procedimiento abreviado, suspensión del proceso a prueba y acusaciones, de conformidad con los lineamientos respectivos ya establecidos;
+
+VIII. Dictar las medidas idóneas para que las investigaciones se lleven a cabo bajo los principios de legalidad, eficiencia, profesionalismo y honradez, así como para que el personal que le esté adscrito siga métodos científicos que garanticen el aprovechamiento óptimo de los recursos humanos, materiales y tecnológicos a su cargo;
+
+IX. Establecer, en coordinación con la Dirección de Orientación, Protección y Apoyo a Víctimas de Delitos y Testigos, los mecanismos necesarios para que las víctimas y ofendidos por delitos reciban el apoyo jurídico, psicológico y social y, en caso de ser necesario, a sus familiares o testigos;
+
+X. Remitir a la Dirección de Orientación, Protección y Apoyo a Víctimas de Delitos y Testigos, a los menores e incapaces para su debida atención, o a cualquier otra persona, cuando de los casos en que intervenga se desprenda que es necesaria su atención;
+
+XI. Supervisar el correcto funcionamiento de las Unidades de Investigación;
+
+XII. Aplicar los métodos y lineamientos establecidos por el Subprocurador del Ministerio Público para mejorar la calidad técnica y jurídica de los Agentes del Ministerio Público a su cargo, así como los necesarios para la operatividad funcional conforme al marco legal;
+
+XIII. Dirigir y vigilar las acciones requeridas para la representación de la Procuraduría frente a los órganos de control constitucional en los términos previstos por la Ley, este Reglamento y demás disposiciones legalmente aplicables;
+
+XIV. Tener a su cargo la actuación procesal del Ministerio Público en el sistema procesal penal acusatorio;
+
+XV. Coordinar y vigilar la ejecución de los mandamientos que ordene la autoridad judicial, así como vigilar su cumplimiento, y
+
+XVI. Las que le encomiende el Subprocurador del Ministerio Público o le otorguen la Ley, este Reglamento y demás normas aplicables.
 
 ###### Artículo 30.
 
@@ -977,9 +1033,15 @@ XXII. Planear, coordinar y dirigir la operación de un grupo de elementos de la 
 
 XXIII. Vigilar que se atiendan de inmediato y con eficacia, las llamadas de auxilio de la comunidad;
 
-XXIV. Proponer al Procurador los manuales y procedimientos sistemáticos operativos para la debida actuación de los integrantes de la Agencia, y
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2014)</small>
 
-XXV. Las que le encomiende el Procurador o le otorguen la Ley, este Reglamento y demás normas aplicables.
+XXIV. Proponer al Procurador los manuales y procedimientos sistemáticos operativos para la debida actuación de los integrantes de la Agencia;
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2014)</small>
+
+XXV. Coordinar el servicio de seguridad a las personas, prestado por los Agentes de la Policía Ministerial, en los términos de las instrucciones que al efecto emita el Procurador, y
+
+XXVI. Las que le encomiende el Procurador o le otorguen la Ley, este Reglamento y demás normas aplicables.
 
 ###### Artículo 33.
 
@@ -1015,37 +1077,31 @@ XIII. Coordinar los servicios técnicos y de apoyo logístico que requieran las 
 
 XIV. Las que le encomiende el Director General de la Agencia Estatal de Investigaciones o le otorguen la Ley, este Reglamento y demás disposiciones legalmente aplicables.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 34.
 
-De la Dirección de Despliegue Policial
+De las Direcciones de Investigaciones
 
-La Dirección de Despliegue Policial depende de la Agencia Estatal de Investigaciones y es la unidad administrativa central responsable de auxiliar al Ministerio Público, a través de la Policía Ministerial, en la investigación, persecución y esclarecimiento de los hechos delictuosos, buscando las pruebas que determinen la responsabilidad de los que en ellos participaron, ejecutando los mandamientos judiciales y ministeriales, de manera especializada, según sean los tipos de delitos o las zonas geográficas del Estado donde presuntamente se cometieron, siendo competente para:
+La Dirección de Investigaciones Región Centro, la Dirección de Investigaciones Región Norte y la Dirección de Investigaciones Región Sur, dependen de la Agencia Estatal de Investigaciones y son las unidades administrativas centrales responsables de auxiliar al Ministerio Público, a través de la Policía Ministerial, en la investigación, persecución y esclarecimiento de los hechos delictuosos, buscando las pruebas que determinen la responsabilidad de los que en ellos participaron, ejecutando los mandamientos judiciales y ministeriales, siendo competente para:
 
-I. Dirigir, coordinar y vigilar a los elementos de la Policía Ministerial, así como todas las actividades que éstos realicen;
+I. Dirigir, coordinar y vigilar a los Comandantes en Jefe de las zonas o especialidades de su competencia y a los elementos de la Policía Ministerial, así como todas las actividades que éstos realicen;
 
-II. Elaborar programas para hacer eficientes las actividades de la Policía Ministerial en la investigación de delitos y persecución de los delincuentes;
+II. Instruir a los elementos de la Policía Ministerial, sobre las acciones que les ordene el Ministerio Público, vigilando que se respeten las formalidades previstas para la investigación y que sus actos se subordinen a las instrucciones que emita el Ministerio Público;
 
-III. Instruir a los elementos de la Policía Ministerial, sobre las acciones que les ordene el Ministerio Público y vigilar que los mismos realicen las investigaciones y se recaben todas las pruebas para acreditar los elementos del cuerpo del delito y la probable responsabilidad dé los inculpados;
+III. Supervisar que los elementos de la Policía Ministerial ejecuten con toda oportunidad los mandamientos judiciales y ministeriales asignados;
 
-IV. Instruir y supervisar a los elementos de la Policía Ministerial, sobre los elementos o indicios que deben ser investigados o recabados, así como de otras acciones de investigación que fueren necesarias para la acreditación del cuerpo del delito y la probable responsabilidad del imputado;
+IV. Vigilar que se lleve el registro de las diligencias de investigación ejecutadas por elementos a su cargo;
 
-V. Cuidar que los elementos de la Policía Ministerial ejecuten con toda oportunidad las órdenes de presentación, comparecencia, aprehensión, reaprehensión, cateo y arresto que emitan los órganos jurisdiccionales y apoyar al Ministerio Público en el cumplimiento de las órdenes y diligencias que éste le asigne;
+V. Verificar que los Agentes de la Policía Ministerial, al realizar sus funciones, lo hagan con apego (sic) respeto absoluto a los derechos humanos, así como a los principios de actuación que establece la Ley del Sistema de Seguridad Pública del Estado de Nuevo León y las demás disposiciones legalmente aplicables;; (sic)
 
-VI. Vigilar que se lleve el registro de todos los servicios prestados por la Dirección;
+VI. Ordenar el arresto de hasta por treinta y seis horas del personal de la Policía Ministerial que merezca tal sanción e informarlo al Director General de la Agencia Estatal de Investigaciones;
 
-VII. Supervisar que los Agentes de la Policía Ministerial, al realizar sus funciones, lo hagan con apego al principio de legalidad y respeto absoluto a los derechos humanos;
+VII. Vigilar que los elementos de la Policía Ministerial asistan a los cursos de capacitación y adiestramiento que establezca la Procuraduría, y
 
-VIII. Ordenar el arresto de hasta por treinta y seis horas del personal de la Policía Ministerial que merezca tal sanción e informarlo al Director General de la Agencia Estatal de Investigaciones;
+VIII. Las que les encomiende el Director General de la Agencia Estatal de Investigaciones o le otorguen la Ley, este Reglamento y demás normas aplicables.
 
-IX. Vigilar que durante el desarrollo de las investigaciones, los elementos de la Policía Ministerial se apeguen a los principios de actuación que establece la Ley del Sistema de Seguridad Pública del Estado de Nuevo León y las demás disposiciones legalmente aplicables;
-
-X. Vigilar que los elementos de la Policía Ministerial asistan a los cursos de capacitación y adiestramiento que establezca la Procuraduría;
-
-XI. Llevar el control de radiocomunicación de la Policía Ministerial y del personal de la misma en cuanto a los servicios que presta, así como canalizar a las instancias pertinentes la información respectiva;
-
-XII. Coordinar el servicio de seguridad a las personas, prestado por los Agentes de la Policía Ministerial, en los términos de las instrucciones que al efecto emita el Procurador, y
-
-XIII. Las que le encomiende el Director General de la Agencia Estatal de Investigaciones o le otorguen la Ley, este Reglamento y demás normas aplicables.
+La competencia de las Direcciones de Investigaciones estará sujeta al acuerdo que al efecto expida el Procurador.
 
 ###### Artículo 35.
 
@@ -1549,7 +1605,7 @@ b) Formular el proyecto de autorización o desautorización del no ejercicio de 
 
 c) (DEROGADO, P.O. 28 DE MARZO DE 2014)
 
-d) (DEROGADO, P.O. 28 DE MARZO DE 2014), y (sic)
+d) (DEROGADO, P.O. 28 DE MARZO DE 2014), y
 
 e) Atender las peticiones de indemnización que hagan directamente al Procurador, por posible error del Ministerio Público, las que se tramitarán con arreglo a las Normas Reguladoras de la Responsabilidad Patrimonial del Estado.
 
@@ -2404,3 +2460,9 @@ RODOLFO GÓMEZ ACOSTA
 P.O. 28 DE MARZO DE 2014.
 
 ÚNICO. El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el día 1 de abril de 2014.
+
+P.O. 27 DE OCTUBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO. La Fiscalía Especializada de Operaciones Estratégicas entrará en funciones el día 1 de abril de 2015.
