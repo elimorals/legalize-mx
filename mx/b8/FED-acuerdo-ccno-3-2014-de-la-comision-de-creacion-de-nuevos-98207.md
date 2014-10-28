@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ccno-3-2014-de-la-comision-de-creacion-de-nuevos-98207"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-01-31"
-last_updated: "2014-01-31"
+last_updated: "2014-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98207&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-01-20"
 
 ACUERDO CCNO/3/2014, DE LA COMISIÓN DE CREACIÓN DE NUEVOS ÓRGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL INICIO DE LA COMPETENCIA TEMPORAL COMPARTIDA Y TURNO REGULADO DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN MATERIA CIVIL EN EL ESTADO DE JALISCO, CON SEDE EN ZAPOPAN, Y EL JUZGADO TERCERO DE DISTRITO EN MATERIA MERCANTIL, ESPECIALIZADO EN JUICIOS DE CUANTÍA MENOR EN LA MISMA RESIDENCIA, PARA CONOCER DE JUICIOS ORALES MERCANTILES Y JUICIOS EJECUTIVOS MERCANTILES DE CUANTÍA MENOR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE OCTUBRE DE 2014.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 31 de enero de 2014.
 
@@ -51,7 +51,9 @@ ACUERDO
 
 PRIMERO. A partir del cuatro de febrero de dos mil catorce, se establece la competencia temporal de los Juzgados de Distrito en Materia Civil en el Estado de Jalisco, con sede en Zapopan, para conocer, junto con el Juzgado Tercero de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con sede en la misma residencia, de juicios orales mercantiles, de conformidad con lo dispuesto por el artículo 1390 bis del Código de Comercio.
 
-En la misma fecha se establece la competencia temporal del Juzgado Tercero de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con sede en Zapopan, para conocer, junto con sus homólogos en materia civil en la misma residencia, de juicios ejecutivos mercantiles cuya cuantía sea igual a la establecida para el caso de los juicios orales mercantiles, de conformidad con lo dispuesto por el artículo 1390 bis del Código de Comercio.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO CCNO/20/2014 DE LA COMISIÓN DE CREACIÓN DE NUEVOS ÓRGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE OCTUBRE DE 2014)</small>
+
+En la misma fecha se establece la competencia temporal del Juzgado Tercero de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con sede en Zapopan, para conocer, junto con sus homólogos en materia civil en la misma residencia, de juicios ejecutivos mercantiles cuya cuantía sea igual a la establecida para el caso de los juicios orales mercantiles, de conformidad con lo dispuesto por el artículo 1390 bis del Código de Comercio, así como para diligenciar las comunicaciones oficiales relacionadas con éstos, en auxilio de los diversos órganos jurisdiccionales que lo requieran.
 
 SEGUNDO. A partir de la fecha señalada en el punto anterior y hasta nuevo aviso, la Oficina de Correspondencia Común de los Juzgados de Distrito en Materia Civil en el Estado de Jalisco, con residencia en Zapopan, turnará a los Juzgados de Distrito en Materia Civil en el Estado de Jalisco, con residencia en Zapopan, tres de cada diez asuntos orales mercantiles que se presenten ante ésta.
 
@@ -84,3 +86,13 @@ La referida dirección general brindará la capacitación y asistencia técnica 
 CUARTO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL MAGISTRADO EDWIN NOÉ GARCÍA BAEZA, SECRETARIO EJECUTIVO DE CARRERA JUDICIAL, ADSCRIPCIÓN Y CREACIÓN DE NUEVOS ÓRGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo CCNO/3/2014, de la Comisión de Creación de Nuevos Órganos del Consejo de la Judicatura Federal, relativo al inicio de la competencia temporal compartida y turno regulado de asuntos entre los Juzgados de Distrito en Materia Civil en el Estado de Jalisco, con sede en Zapopan, y el Juzgado Tercero de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor en la misma residencia, para conocer de Juicios Orales Mercantiles y Juicios Ejecutivos Mercantiles de Cuantía Menor, fue aprobado por la propia Comisión en sesión privada ordinaria celebrada el veinte de enero de dos mil catorce, por los señores Consejeros: Presidente en funciones César Esquinca Muñoa y Daniel Francisco Cabeza de Vaca Hernández.- México, Distrito Federal, a veinte de enero de dos mil catorce.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 28 DE OCTUBRE DE 2014.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar el texto de la reforma, al Acuerdo CCNO/3/2014 de la Comisión de Creación de Nuevos Órganos del Consejo de la Judicatura Federal.
