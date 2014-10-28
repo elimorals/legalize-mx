@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-comite-de-control-y-evaluacion-del-95915
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-09-03"
-last_updated: "2013-09-03"
+last_updated: "2014-10-28"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95915&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL COMITÉ DE CONTROL Y EVALUACIÓN DEL INSTITUTO MATERNO INFANTIL DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DEL COMITÉ DE CONTROL Y EVALUACIÓN DEL INSTITUTO MATERNO INFANTIL DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 28 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE OCTUBRE DE 2014 (SIN EFECTO).
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el martes 3 de septiembre de 2013.
 
@@ -454,3 +456,15 @@ Lic. María de la Luz Delgado Olivares
 Jefe de la Unidad de Planeación y Desarrollo Institucional y Vocal del Comité
 
 (Rúbrica).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 28 DE OCTUBRE DE 2014.
+
+PRIMERO. Publíquese el presente Reglamento Interior en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se deja sin efecto el Reglamento Interior del COCOE aprobado el 02 de julio de 2013.
+
+CUARTO.- Las dudas que se susciten con motivo de la interpretación o aplicación del presente Reglamento, así como lo no previsto en el mismo, será resuelto por la Secretaría de la Contraloría.
