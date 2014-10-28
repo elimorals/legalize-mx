@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-70505
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2014-06-28"
+last_updated: "2014-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
@@ -411,7 +411,7 @@ d) Cuando los particulares o algún otro agente social utilice por cualquier mot
 
 > <small>(REFORMADA, P.O. 28 DE JUNIO DE 2014)</small>
 
-XVIII. Conocer de actos u omisiones de otras autoridades o particulares que le sean enviados o devueltos por la Comisión Nacional de Derechos Humanos en ejercicio de las facultades de coordinación y revisión que confiere a ese organismo, la Constitución Política de los Estados Unidos Mexicanos y su Ley, y (sic);
+XVIII. Conocer de actos u omisiones de otras autoridades o particulares que le sean enviados o devueltos por la Comisión Nacional de Derechos Humanos en ejercicio de las facultades de coordinación y revisión que confiere a ese organismo, la Constitución Política de los Estados Unidos Mexicanos y su Ley, y;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -545,9 +545,17 @@ XIV. Elaborar anualmente el Proyecto de Presupuesto de Egresos de la Comisión p
 
 XV. Proponer al Consejo el proyecto de Reglamento Interno de la Comisión;
 
-XVI. Promover y fortalecer las relaciones de la Comisión con instituciones públicas o privadas, organizaciones civiles o sociales, en todos los órdenes de gobierno dentro (sic) nacional y a nivel internacional, y
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2014)</small>
 
-XVII. Las demás que se deriven de las anteriores, las que sean necesarias para la consecución de los fines de la Comisión, y las que le otorgue la presente Ley y otros ordenamientos.
+XVI. Promover y fortalecer las relaciones de la Comisión con instituciones públicas o privadas, organizaciones civiles o sociales, en todos los órdenes de gobierno dentro (sic) nacional y a nivel internacional;
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2014)</small>
+
+XVII. Asistir a las sesiones solemnes de los ayuntamientos en la que los jefes de las coordinaciones municipales de los Derechos Humanos, rindan informe de actividades o, en su caso, asignar al funcionario de la Comisión que lo represente en dicho acto, y
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2014)</small>
+
+XVIII. Las demás que se deriven de las anteriores; las que sean necesarias para la consecución de los fines de la Comisión; y las que le otorgue la presente Ley y otros ordenamientos.
 
 ###### ARTICULO 34.
 
@@ -1654,3 +1662,9 @@ P.O. 28 DE JUNIO DE 2014.
 PRIMERO. Este Decreto entrará en vigor cuando se publique en el Periódico Oficial del Estado la reforma al artículo 17 en su párrafo segundo, de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE OCTUBRE DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
