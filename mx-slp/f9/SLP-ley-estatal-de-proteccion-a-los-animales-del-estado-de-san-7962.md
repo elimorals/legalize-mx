@@ -4,7 +4,7 @@ identifier: "SLP-ley-estatal-de-proteccion-a-los-animales-del-estado-de-san-7962
 country: "mx"
 rank: "ley"
 publication_date: "1995-03-17"
-last_updated: "2012-07-31"
+last_updated: "2014-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7962&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 17 de marzo de 1995.
 
@@ -131,7 +131,7 @@ Toda persona que transite con su mascota por la vía pública, está obligada a 
 
 Las autoridades competentes, en el ámbito de sus atribuciones, emitirán los reglamentos necesarios para la aplicación de esta Ley.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE FEBREO DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE FEBRERO DE 2012)</small>
 
 ## Título Segundo.
 
@@ -283,47 +283,57 @@ VIII. Herrar con accesorios inadecuados a equinos utilizados para carga, tiro y 
 
 Las disposiciones contenidas en este capítulo se aplicarán en lo conducente a los animales de silla.
 
-(REUBICADO [N. DE E. ANTES CAPÍTULO III], P.O. 16 DE FEBRERO DE 2012)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2014)</small>
 
 ### Capítulo IV.
 
-Animales en Espectáculo.
+Animales en Espectáculo y en Exhibición.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2014)</small>
 
 ###### ARTICULO 24.
 
-El trato y protección a los animales utilizados en espectáculos públicos, será el siguiente:
+Las autoridades municipales garantizarán que no se establezcan ni operen espectáculos circenses que utilicen animales vivos con fines de explotación y entretenimiento; la Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos vigilará el cumplimiento de esta disposición
 
-I.- Los animales de circos nacionales o extranjeros, que se establezcan en el Estado y que representen peligro para el público asistente, deberán estar confinados en jaulas seguras; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 7 DE MARZO DE 2009)</small>
-
-II. Antes o después del desempeño de un acto en que participen animales, no deberán ser hostigados, maltratados o torturados.
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2014)</small>
 
 ###### ARTICULO 25.
 
-Las autoridades previstas en el artículo 67 de esta Ley vigilaran que los circos que se instalen, mantengan espacio suficiente que les permita a los animales libertad y amplitud de movimientos; y durante su traslado no sean inmovilizados en un aposición que les ocasione lesiones o sufrimiento. Además, vigilarán que los animales tengan condiciones adecuadas de higiene y medidas de seguridad, tanto para la protección de ellos, como del público espectador.
+No se autorizarán espectáculos circenses en que se hostigue, maltrate o torture a los animales
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Asimismo, no se deberán autorizar espectáculos como peleas de animales, o aquéllos en que se hostigue, maltrate o torture a los mismos; a excepción de los eventos autorizados por disposición de la Secretaría de Gobernación de la Administración Pública Federal.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2014)</small>
 
 ###### ARTICULO 26.
 
-Los animales que por su gran tamaño, no sea factible que se encuentren confinados en jaulas, lo estarán en espacios protegidos por cercas o en su defecto, sujetos con cadena.
+Las autoridades competentes vigilarán que los zoológicos mantengan espacio suficiente, que les permita a los animales libertad y amplitud de movimientos; además, verificarán que los animales tengan condiciones adecuadas de higiene, así como medidas de seguridad tanto para los animales, como para los visitantes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2014)</small>
 
 ###### ARTICULO 27.
 
-Los dueños o personas responsables de los circos, al solicitar el permiso para presentar su espectáculo, deberán comprobar que los animales cumplen con lo establecido en el Artículo 12 de esta Ley.
+Los animales de zoológicos serán sujeto (sic) de enajenación, donación, comodato y permuta, de conformidad con la legislación aplicable.
 
 ###### ARTICULO 28.
 
 Todos los zoológicos, deberán contar con la asesoría de un profesional debidamente acreditado en el ramo correspondiente.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2014)</small>
+
 ###### ARTICULO 29.
 
-Deberá informarse al público que asiste a los zoológicos y circos, que no está permitido darles alimentos a los animales.
+Deberá informarse al público que asiste a los zoológicos, que no está permitido dar alimento a los animales, salvo los autorizados por los propios zoológicos.
 
 ### Capítulo I.
 
@@ -753,6 +763,12 @@ II.- Mutilar, desollar o descuartizar a los animales estando vivos.
 
 Se prohíbe la venta de animales en la vía pública.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2014)</small>
+
+ARTICULO 79 BIS.- Se prohíbe el establecimiento y operación de espectáculos circenses en los que se utilicen animales vivos.
+
 ### Capítulo Tercero.
 
 Del Procedimiento Administrativo.
@@ -798,6 +814,14 @@ IV. Hostigue, maltrate o torture a cualquier animal.
 De comprobarse que los animales han sido torturados y maltratados con brutalidad excesiva y grave negligencia, la sanción podrá ser de trescientos hasta seiscientos días de salario mínimo vigente en la Entidad.
 
 Igual sanción se impondrá a las personas reincidentes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2014)</small>
+
+ARTICULO 84 BIS.- Se sancionará con el equivalente de dos mil a cinco mil días de salario mínimo vigente en la zona, a quien celebre o realice espectáculos circenses que utilicen animales vivos además se exigirá el retiro inmediato del espectáculo y de ser necesario podrá pedirse el auxilio de la fuerza pública para tal fin.
+
+Se sancionará con el equivalente de tres mil a seis mil días de salario mínimo vigente en la zona, al funcionario estatal o municipal que expida autorización para la operación y el establecimiento de espectáculos circenses en los cuales se utilicen animales vivos.
 
 ###### ARTICULO 85.
 
@@ -910,3 +934,11 @@ P.O. 31 DE JULIO DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 28 DE OCTUBRE DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor el uno de enero del dos mil quince, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. A partir de su entrada en vigor, los empresarios circenses deberán modificar el concepto de sus funciones; y los ayuntamientos deberán adecuar sus reglamentos respectivos acorde a lo establecido en este Decreto.
