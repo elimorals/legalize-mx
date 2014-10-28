@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-impacto-ambiental-y-riesgo-38411"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-26"
-last_updated: "2004-03-26"
+last_updated: "2014-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38411&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-01-10"
 
 REGLAMENTO DE IMPACTO AMBIENTAL Y RIESGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE OCTUBRE DE 2014.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 26 de marzo de 2004.
 
@@ -42,13 +42,19 @@ El presente ordenamiento es de observancia general en el territorio del Distrito
 
 La aplicación de este Reglamento compete al Gobierno del Distrito Federal a través de las autoridades ambientales, de conformidad con las disposiciones legales y reglamentarias aplicables en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 3.
 
-Para los efectos del presente Reglamento, además de las definiciones contenidas en la Ley Ambiental del Distrito Federal, se entenderá por:
+Para los efectos del presente Reglamento, además de las definiciones contenidas en la Ley Ambiental de Protección a la Tierra en el Distrito Federal, se entenderá por:
 
 I. Área urbanizada: Superficie de suelo ubicada dentro de los centros de población o poblados rurales, que es utilizada para una función de habitación, producción, comercio o algún otro tipo de servicio comunitario, y que forma parte del conjunto de edificaciones y trazado de calles, incluyéndose los cascos antiguos y las superficies que, aún no estando edificadas, han sido objeto de traza vial y urbanización, con la aprobación de la autoridad competente y de conformidad con los programas de desarrollo urbano y de ordenamiento ecológico;
 
 II. Aviso de ejecución de obras o acciones: documento a través del cual los interesados informan a la Secretaría sobre la realización de las obras que no requieren de autorización previa en materia de impacto ambiental por así indicarlo este Reglamento;
+
+> <small>(ADICIONADA, G.O. 28 DE OCTUBRE DE 2014)</small>
+
+II BIS. Aviso de inicio de operaciones. Escrito mediante el cual, el representante legal o propietario de una autorización de impacto ambiental otorgada conforme al Capítulo VI bis de este Reglamento, hace del conocimiento de la Dirección General el inicio de operaciones de las actividades cubiertas por dicha autorización.
 
 III. Central de abasto: Instalaciones en un predio o lotes que en su conjunto tengan más de cinco mil metros cuadrados de superficie o diez mil metros cuadrados de construcción, que se destinen al almacenamiento, acopio, expendio y distribución de productos alimenticios perecederos o no perecederos, así como vehículos, maquinaria, madera, entre otros;
 
@@ -56,11 +62,17 @@ IV. Centro comercial: Instalaciones en predios de más de cinco mil metros cuadr
 
 V. Centro de concentración masiva: Inmuebles, espacios abiertos o estructuras destinadas a actividades por las que llegan a reunirse cincuenta o más personas y los que se indican a continuación, sin importar el número de personas concentradas: escuelas y centros de enseñanza, hospitales, clínicas, iglesias, templos, centros comerciales, mercados, cines y teatros, entre otros;
 
-VI. Condicionante: Acción, medida o disposición de carácter obligatorio, que la Secretaría establece en las resoluciones administrativas que contienen autorizaciones en materia de impacto ambiental o riesgo, como condición para la instrumentación de los programas o la realización de las obras o actividades de que se trate;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2014)</small>
+
+VI. Condicionante. Acción, criterio, lineamiento, medida o disposición de carácter obligatorio, que la Dirección General establece en las resoluciones administrativas de impacto ambiental o riesgo ambiental que contienen las autorizaciones condicionadas en materia de impacto ambiental o riesgo ambiental, como condición para la instrumentación de los programas o la realización de las obras o actividades de que se trate, que deberá observarse por el promovente tanto en la etapa previa al inicio de la obra o actividad, como en sus etapas de construcción, operación, cierre, clausura o desarrollo de la actividad;
 
 VII. Daño grave al ambiente: Alteración o modificación en cualquiera de los factores ambientales en uno o más predios, ocasionado por la incidencia puntual, acumulativa o sinérgica de impactos ambientales significativos y relevantes que lesionan u ocasionan la pérdida irreversible de uno o varios de los componentes de un ecosistema, afectando su estructura y función, y que en consecuencia repercute en la calidad y cantidad de los servicios ambientales que ofrece y modifica sus patrones de evolución natural;
 
 VIII. Desequilibrio ecológico: Condición de inestabilidad, permanente o temporal, como consecuencia de la perturbación de las relaciones de interdependencia entre los elementos que conforman el ambiente, ocasionada por acciones antropogénicas, y que pone en riesgo el desarrollo del hombre y la existencia de los demás seres vivos;
+
+> <small>(ADICIONADA, G.O. 28 DE OCTUBRE DE 2014)</small>
+
+VIII BIS. Dirección General. La Dirección General de Regulación Ambiental adscrita a la Secretaría del Medio Ambiente del Distrito Federal.
 
 IX. Emergencia: Evento repentino e imprevisto que obliga a tomar medidas de prevención, protección y control, inmediatas, para minimizar sus consecuencias;
 
@@ -73,6 +85,10 @@ XII. Estaciones duales: Estaciones en las que se pueden suministrar simultáneam
 XIII. Estudio de impacto ambiental: Documento técnico de carácter interdisciplinario, cuyo fin es dar a conocer las características de un programa, obra o actividad, y del predio donde pretende desarrollarse, así como identificar los impactos ambientales de su ejecución y las medidas para prevenir, minimizar y compensar sus efectos adversos;
 
 XIV. Estudio de riesgo: Análisis mediante el cual el promovente da a conocer, con base en la revisión de las acciones proyectadas para el desarrollo de una actividad considerada riesgosa, los riesgos probables que éstas representan para los ecosistemas, la salud o el ambiente, y que incluye las medidas técnicas preventivas, correctivas y de seguridad, tendientes a mitigar o evitar los efectos adversos que se causen en caso de un posible accidente, durante la realización u operación normal de la obra o actividad de que se trate;
+
+> <small>(ADICIONADA, G.O. 28 DE OCTUBRE DE 2014)</small>
+
+XIV BIS. Estudio de riesgo ambiental sujeto a reporte y visto bueno. Análisis mediante el cual el promovente da a conocer, con base en la revisión de las acciones proyectadas para el establecimiento y operación de estaciones y terminales de almacenamiento y distribución de gasolina, diesel, combustibles, aceites, lubricantes y aditivos en cualquiera de sus modalidades, los riesgos probables que representa para los ecosistemas, la salud, la seguridad y el medio ambiente, y que incluye las medidas técnicas preventivas, correctivas y de seguridad tendientes a mitigar o evitar efectos adversos que se causen en caso de un posible accidente durante el establecimiento, operación y/o cierre de la obra; las cuales deben de ser periódicamente reportadas a la Dirección General, para su visto bueno.
 
 XV. Evaluación de impacto ambiental: Es el instrumento de política ambiental y el procedimiento a través del cual la Secretaría, con base en el informe preventivo, manifestación de impacto ambiental o estudio de riesgo, presentado por el promovente, determina la procedencia ambiental de realizar un programa, obra o actividad, pública o privada, dentro del territorio del Distrito Federal, e identifica las medidas que se impondrán de manera obligatoria, para evitar o reducir al mínimo sus efectos negativos sobre el ambiente, prevenir futuros daños a éste y propiciar el aprovechamiento sustentable de los recursos naturales;
 
@@ -106,7 +122,9 @@ XXIX. Promovente: El interesado, persona física o moral, con personalidad jurí
 
 XXX. Predios de cobertura forestal significativa: Aquellos que contengan superficies de vegetación forestal mayor a mil metros cuadrados;
 
-XXXI. Resolución administrativa de impacto ambiental o riesgo: Acto administrativo emanado de la Secretaría o Delegación, en su caso, para concluir el procedimiento de evaluación de un informe preventivo o de una manifestación de impacto ambiental o estudio de riesgo, a través del cual se otorga o se niega la autorización para la realización de programas, obras o actividades, una vez que han sido ponderados sus posibles impactos ambientales negativos, sus medidas de prevención, mitigación y compensación, así como, en su caso, los riesgos ambientales;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2014)</small>
+
+XXXI. Resolución administrativa de impacto ambiental o riesgo ambiental. Acto administrativo emanado de la Dirección General, para concluir el procedimiento de evaluación de un informe preventivo o de una manifestación de impacto ambiental, estudio de riesgo ambiental o cualquier otro estudio ambiental en su caso requerido, en cualquiera de sus modalidades, a través del cual se otorga o se niega la autorización para la realización de programas, obras o actividades, una vez que han sido evaluados sus posibles impactos negativos o daños al ambiente, y mediante la cual se establecen medidas de prevención, mitigación y compensación, así como condicionantes que deberá cumplir el promovente, así como, en su caso, los riesgos ambientales;
 
 XXXII. Reglamento: El Reglamento de Impacto Ambiental y Riesgo;
 
@@ -117,6 +135,10 @@ XXXIV. Suelo de conservación: El territorio determinado en el Programa General 
 XXXV. Suelo urbano: El territorio del Distrito Federal sujeto a las regulaciones de uso del suelo de los programas de desarrollo urbano;
 
 XXXVI. Vegetación de galería: La que crece circundante a los cuerpos de agua y en las laderas de las depresiones orográficas o pendientes; y
+
+> <small>(ADICIONADA, G.O. 28 DE OCTUBRE DE 2014)</small>
+
+XXXVI BIS. Visto Bueno. Procedimiento a través de (sic) cual la Dirección General otorga su autorización al programa de cumplimiento de obligaciones en materia de impacto y riesgo ambiental, otorgada conforme al Capítulo VI Bis de este Reglamento, incluyendo el reporte de cumplimiento de las condicionantes impuestas, así como de la implementación de las medidas técnicas preventivas, correctivas y de seguridad a ser ejecutadas para mitigar o evitar efectos adversos que se causen acaso (sic) de un posible accidente durante el establecimiento, operación y/o cierre de la obra y actividades.
 
 XXXVII. Yacimiento pétreo: Todo aquél depósito de material en su estado natural de reposo, como arena, grava, tepetate, tezontle, arcilla, piedra o cualquier otro material derivado de las rocas, que sea susceptible de ser utilizado como material de construcción.
 
@@ -1024,7 +1046,13 @@ I. General;
 
 II. Específica, y
 
-III. Con estudio de riesgo.
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2014)</small>
+
+III. Con estudio de riesgo ambiental.
+
+> <small>(ADICIONADO, G.O. 28 DE OCTUBRE DE 2014)</small>
+
+Tratándose de obras o actividades incluidas en el apartado K) fracciones XXVI y XXVII del artículo 6 del presente ordenamiento, el estudio de riesgo ambiental a que se refiere la fracción III del presente artículo, estará sujeto a un reporte y visto bueno, conforme a las disposiciones y el procedimiento establecido por el Capítulo VI Bis del presente Reglamento.
 
 ###### Artículo 37.
 
@@ -1034,9 +1062,13 @@ Las manifestaciones de impacto ambiental se presentarán en la modalidad general
 
 Las manifestaciones de impacto ambiental se presentarán en la modalidad específica, cuando se refieran a los programas, obras o actividades incluidos en los apartados: A) fracciones I y III; B) fracciones I, II y III; C) fracción I; D) fracciones I y III; E); F); J) fracción II; L) fracción II y M) fracción I del artículo 6º, del presente ordenamiento.
 
+> <small>(REFORMADO, G.O. 28 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 39.
 
-Las manifestaciones de impacto ambiental con estudio de riesgo se presentarán cuando se trate de obras o actividades incluidas en el apartado K) del artículo 6º del presente ordenamiento, o aquéllas contempladas en la fracción I del apartado J) que impliquen la incineración.
+Las manifestaciones de impacto ambiental con estudio de riesgo ambiental se presentarán cuando se trate de obras o actividades incluidas en el apartado K) fracciones I a XXV y XXVIII a XXIX del artículo 6 del presente ordenamiento, o aquéllas contempladas en la fracción I del apartado J) que impliquen la incineración.
+
+Las manifestaciones de impacto ambiental con estudio de riesgo ambiental sujeto a reporte y visto bueno se presentarán cuando se trate de obras o actividades incluidas en el apartado K) fracciones XXVI y XXVII del artículo 6.
 
 ###### Artículo 40.
 
@@ -1106,9 +1138,11 @@ a) Proyecto de alternativas de solución para el caso de afectación del ambient
 
 b) Escenarios sobre la posible modificación de las condicionantes originales del área del proyecto en los cuales se incluyan los efectos de las medidas de mitigación, prevención y compensación propuestas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 42.
 
-La manifestación de impacto ambiental con estudio de riesgo deberá contener la siguiente información:
+La manifestación de impacto ambiental con estudio de riesgo ambiental deberá contener la siguiente información:
 
 I. Nombre, denominación o razón social, nacionalidad, domicilio y teléfono de quien pretenda realizar la obra o actividad para la cual se solicita autorización;
 
@@ -1130,13 +1164,43 @@ VI. Descripción de los residuos generados, incluyendo, en su caso, tecnologías
 
 VII. Escenarios resultantes del análisis de los riesgos ambientales, relacionados con el proyecto;
 
-VIII. Estudio de características de suelo y evaluación de riesgo asociado a la presencia de contaminantes en suelo;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2014)</small>
+
+VIII. Estudio de características de suelo y evaluación de riesgo ambiental asociado a la presencia de contaminantes en suelo conforme a las Normas Oficiales Mexicanas aplicables;
 
 IX. Descripción de los radios de afectación y de las zonas de riesgo, así como de las zonas de protección en torno a las instalaciones, en su caso;
 
 X. Programa de Prevención de Accidentes, y
 
 XI. Costo previsto para la construcción del proyecto y monto destinado a la instrumentación de medidas de seguridad y de prevención, mitigación y compensación de impactos ambientales.
+
+> <small>(ADICIONADO, G.O. 28 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 42 Bis.
+
+La manifestación de impacto ambiental con estudio de riesgo ambiental que se encuentre sujeta a reporte y visto bueno, además de lo establecido por el artículo 42, deberá contener la siguiente información:
+
+I. Resultados del estudio de caracterización de sitio conforme a las Normas Oficiales Mexicanas aplicables, mediante el cual se acredite que, en su caso, los niveles de hidrocarburos y metales pesados presentes en el suelo y subsuelo se encuentran por debajo de los límites máximos permisibles;
+
+II. Programa calendarizado de evaluación y monitoreo semestral de emisión de vapores; la Dirección General, podrá solicitar información adicional respecto de los elementos suelo, subsuelo y agua, o cualquier otro que a juicio de la Dirección por el tipo de actividad se requiera en términos de lo dispuesto por las Normas Oficiales Mexicanas, Normas ambientales para el Distrito Federal y demás ordenamientos aplicables;
+
+Dentro de este programa calendarizado se deberá incluir un apartado específico donde se reporte el cumplimiento de:
+
+(a) Los estándares y requisitos que conforme a: (i) las Normas Oficiales Mexicanas y Normas Ambientales para el Distrito Federal y (ii) la legislación y reglamentación local y federal, que resulten aplicables, y
+
+(b) Cuando menos, los Criterios de Operación y Mantenimiento establecidos en los Manuales de Operación que para tal efecto expida Petróleos Mexicanos. Dichos criterios se tomarán como un estándar mínimo de referencia para todas las estaciones y terminales de almacenamiento y distribución de gasolina, diesel, combustibles, aceites, lubricantes y aditivos en cualquiera de sus modalidades. Lo anterior en el entendido que dicho requisito podrá ser sustituido en el futuro por nueva reglamentación y normalización expedida por las autoridades federales o locales competentes.
+
+III. Contar con póliza de seguros que ampare:
+
+1.- La responsabilidad civil por daños a terceros en sus personas y/o bienes con un límite de responsabilidad de por lo menos $5'000,000.00 (Cinco millones de pesos 00/100 M.N.)
+
+2.- La responsabilidad civil por daños causados al ambiente con un límite de responsabilidad de por lo menos $3'000,000.00 (Tres millones de pesos 00/100 M.N.)
+
+El concesionario deberá presentar la póliza vigente con el recibo de pago correspondiente por el periodo amparado en la póliza. Las cantidades mencionadas en los numerales l y 2 de esta fracción, se actualizarán anualmente de conformidad con el incremento al Índice Nacional de Precios al Consumidor.
+
+IV. En su caso, las justificaciones, estudios técnicos, avales de y autorizaciones a que se refiere el artículo 76 octies, y
+
+La documentación a que se refiere el presente artículo deberá ser entregada por el promovente en original, para su cotejo.
 
 ###### Artículo 43.
 
@@ -1330,7 +1394,9 @@ Las observaciones y propuestas a que se refiere el párrafo anterior deben formu
 
 IV. Una vez presentados los comentarios y observaciones, la Secretaría los ponderará y considerará al momento de emitir la resolución correspondiente en materia de impacto ambiental.
 
-### CAPÍTULO VII. DE LOS SEGUROS Y LAS GARANTÍAS
+### CAPÍTULO VI BIS. DE LAS ACTIVIDADES SUJETAS A EVALUACIÓN DE IMPACTO AMBIENTAL QUE REQUIEREN ESTUDIO DE RIESGO AMBIENTAL SUJETO A REPORTE Y VISTO BUENO
+
+> <small>(ADICIONADO, G.O. 28 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 62.
 
@@ -1344,9 +1410,11 @@ III. Las medidas preventivas, de mitigación, de compensación y las demás que 
 
 IV. En su caso, los proyectos de alternativas de adecuación o modificación al proyecto original, como resultado de las medidas señaladas en la fracción anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 63.
 
-Para analizar y resolver las manifestaciones de impacto ambiental con estudio de riesgo relativas a obras o actividades determinadas como riesgosas, las autoridades competentes deben ajustar su actuación a las (sic) siguientes criterios, tendientes a garantizar la integridad del ambiente y de las personas:
+Para analizar y resolver las manifestaciones de impacto ambiental con estudio de riesgo ambiental relativas a obras o actividades determinadas como riesgosas, las autoridades competentes deben considerar los siguientes criterios, tendientes a garantizar la conservación, preservación e integridad del ambiente y de las personas:
 
 I. La densidad de estaciones de servicio de gasolina y diesel por delegación, no deberá exceder de una por cada dos kilómetros cuadrados de la superficie total de la delegación;
 
@@ -1358,9 +1426,23 @@ IV. Deberá estimarse un distanciamiento mínimo de cincuenta metros desde los p
 
 V. La distancia mínima deberá ser de cien metros desde los puntos relevantes de riesgo, que incluyen, pero no se limitan, a despachadores o tanques de combustible, hasta centros de concentración masiva.
 
+> <small>(ADICIONADA, G.O. 28 DE OCTUBRE DE 2014)</small>
+
+VI. Los criterios ambientales establecidos en el Programa de Ordenamiento Ecológico Territorial aplicable conforme a la Unidad Administrativa que corresponda y/o a cualquier programa vigente;
+
+> <small>(ADICIONADA, G.O. 28 DE OCTUBRE DE 2014)</small>
+
+VII. Los decretos, programas de manejo y planes rectores de áreas de valor ambiental y áreas naturales protegidas de competencia del Distrito Federal, y
+
+> <small>(ADICIONADA, G.O. 28 DE OCTUBRE DE 2014)</small>
+
+VIII. Los demás que se establezcan en otras disposiciones jurídicas aplicables a la materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 64.
 
-Para evaluar y resolver las manifestaciones de impacto ambiental con estudio de riesgo relativas a estaciones de autoconsumo, en los términos que las define la fracción XIII del artículo 3º de este Reglamento, la Secretaría ajustará su actuación a los siguientes criterios tendientes a garantizar la integridad del ambiente y de las personas:
+Para evaluar y resolver las manifestaciones de impacto ambiental con estudio de riesgo relativas a estaciones de autoconsumo, en los términos que las define la fracción XI del artículo 3 de este Reglamento, la Dirección General deberá considerar los siguientes criterios, tendientes a garantizar la integridad del ambiente:
 
 I. Deberá existir un distanciamiento de al menos cien metros entre los puntos relevantes de riesgo de dos estaciones de autoconsumo;
 
@@ -1398,9 +1480,11 @@ b) La obra o actividad afecte a la población en su salud o una o más especies 
 
 c) Exista falsedad en la información presentada por los promoventes, respecto de los impactos ambientales asociados con su instrumentación o realización.
 
+> <small>(REFORMADO, G.O. 28 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 68.
 
-Los estudios de impacto ambiental para la realización de conjuntos habitacionales en predios que colinden con una actividad riesgosa o con estaciones de gasolina, diesel, gas natural o gas licuado de petróleo, cuyo lindero más cercano a los tanques y dispensarios o a instalaciones donde se manejen o almacenen sustancias incluidas en los listados a los que se refiere el artículo 7º de este Reglamento, se encuentre a una distancia igual o menor a los 25 metros; o bien cuando dentro del predio existan ductos para el transporte de sustancias peligrosas, deben incluir la propuesta de medidas de minimización de los riesgos, mismos que la Secretaría podrá aceptar como condicionantes para la realización de la obra o imponer otras adicionales que resulten necesarias para dichos efectos.
+Los estudios de impacto ambiental y riesgo ambiental para la realización de conjuntos habitacionales en predios que colinden con una actividad riesgosa o con estaciones de gasolina, diesel, gas natural o gas licuado de petróleo, cuyo lindero más cercano a los tanques de combustible, despachadores y dispensarios o a instalaciones donde se manejen o almacenen sustancias incluidas en los listados a los que se refiere el artículo 7 de este Reglamento, se encuentren a una distancia igual o menor a los 25 metros, o bien cuando dentro del predio existan ductos para el transporte de sustancias peligrosas, deben incluir además de los criterios y estudios señalados en el artículo 63 del presente Reglamento, una propuesta de medidas de seguridad para prevenir el daño y/o impacto ambiental y minimización de los riesgos, mismos que la Dirección General podrá aceptar como parte de medidas condicionantes para la realización de la obra e impondrá otras adicionales que resulten necesarias para dichos efectos.
 
 ###### Artículo 69.
 
@@ -1446,9 +1530,155 @@ II. Dejar sin efectos la autorización cuando la comunicación se haga después 
 
 En el caso a que se refiere la fracción anterior, cuando se hayan causado efectos dañinos al ambiente la Secretaría hará efectivas las garantías que se hubiesen otorgado respecto del cumplimiento de las condicionantes establecidas en la autorización, iniciará las acciones tendientes a exigir la reparación del daño y ordenará la adopción de las medidas de mitigación que correspondan.
 
-### CAPÍTULO VIII. DEL PROCEDIMIENTO DERIVADO DE LA PRESENTACIÓN DEL INFORME PREVENTIVO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE OCTUBRE DE 2014)</small>
 
-### CAPÍTULO IX. DISPOSICIONES COMUNES A LA EVALUACIÓN DE IMPACTO AMBIENTAL Y RIESGO, Y A LA AUTORIZACIÓN DEL INFORME PREVENTIVO
+### CAPÍTULO VII. DE LOS SEGUROS Y LAS GARANTÍAS
+
+###### Artículo 76 Bis.
+
+Las disposiciones del presente Capítulo son de orden público y serán aplicables a las obras o actividades incluidas en el apartado K) fracciones XXVI y XXVII del artículo 6 de este Reglamento y prevalecerán sobre cualquier otra disposición ya sea prevista por este Reglamento u otro, que se oponga a lo previsto por el presente Capítulo.
+
+> <small>(ADICIONADO, G.O. 28 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 76 Ter.
+
+En el establecimiento, operación y cierre de las actividades reguladas por el presente Capítulo, los particulares responsables deberán procurar la implementación de cualquier tipo de tecnología, metodología, ingeniería y/o procedimiento que sirvan como herramienta para prevenir y mitigar los daños ambientales que pudieran causarse por su operación. Lo anterior, debiendo observar cada uno de los requisitos necesarios para la obtención de la autorización de impacto ambiental conforme al presente Capítulo.
+
+> <small>(ADICIONADO, G.O. 28 DE OCTUBRE DE 2014)</small>
+
+Artículo 76 Cuater. Para la elaboración de los estudios técnicos que conforme al presente Capítulo se requieran para la instalación y operación de las obras y actividades correspondientes, se deberá aplicar la tecnología, metodología y procesos contenidos en las Normas Oficiales Mexicanas y Normas Ambientales para el Distrito Federal aplicables.
+
+En caso de no existir Normas Oficiales Mexicanas o Normas Ambientales para el Distrito Federal en la materia que corresponda, se deberán utilizar los Criterios de Operación y Mantenimiento establecidos en los Manuales de Operación que para tal efecto expida Petróleos Mexicanos. Dichos criterios se tomarán como un estándar mínimo de referencia para todas las estaciones y terminales de almacenamiento y distribución de gasolina, diesel, combustibles, aceites, lubricantes y aditivos en cualquiera de sus modalidades. Lo anterior en el entendido que dichos criterios podrán ser sustituidos en el futuro por nueva reglamentación y normalización expedida por las autoridades federales o locales competentes.
+
+> <small>(ADICIONADO, G.O. 28 DE OCTUBRE DE 2014)</small>
+
+Artículo 76 Quintus. Para la evaluación del impacto ambiental de las obras y actividades reguladas por el presente Capítulo, se estará al procedimiento general establecido por los Capítulos IV, V y VI de este Reglamento, en tanto no se oponga a lo establecido de manera específica en este Capítulo.
+
+> <small>(ADICIONADO, G.O. 28 DE OCTUBRE DE 2014)</small>
+
+Artículo 76 Sextus. La evaluación de impacto ambiental de las obras y actividades previstas por el presente Capítulo, deberá realizarse a través de una manifestación de impacto ambiental con estudio de riesgo ambiental el cual estará sujeto a reporte y visto bueno, la cual deberá contener la información a que se refieren los artículos 42 y 42 Bis del presente Reglamento.
+
+> <small>(ADICIONADO, G.O. 28 DE OCTUBRE DE 2014)</small>
+
+Artículo 76 Septimus. En el establecimiento de las obras relacionadas con las actividades a que se refiere el presente Capítulo, el responsable deberá en todo momento apegarse a las reglas y disposiciones aplicables en materia de imagen urbanística y publicidad exterior, con el fin de lograr armonía visual entre las obras nuevas y las ya existentes.
+
+> <small>(ADICIONADO, G.O. 28 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 76 Octies.
+
+La Dirección General podrá autorizar la instalación de una estación de almacenamiento y distribución de gasolina, diesel, aceites, lubricantes y aditivos en cualquiera de sus modalidades, que se encuentre bajo alguno de los supuestos a que se refieren los artículos 63 y 64 del presente Reglamento, siempre y cuando el promovente acredite mediante las justificaciones técnicas y estudios correspondientes que su establecimiento y operación no implica riesgo, o bien, el riesgo puede ser prevenido mediante la propuesta de medidas de prevención y mitigación específicas, las cuales deberán describirse de manera exhaustiva y detallada en el estudio de riesgo correspondiente.
+
+Para analizar y resolver las manifestaciones de impacto ambiental con estudio de riesgo ambiental sujeto a reporte y visto bueno en términos de lo dispuesto por este artículo, la Dirección General deberá considerar los siguientes criterios, tendientes a garantizar la conservación, preservación e integridad del ambiente:
+
+I. Cuando se pretenda establecer una estación de almacenamiento y distribución de gasolina, diesel, aceites, lubricantes y aditivos en cualquiera de sus modalidades dentro de terrenos cavernosos o que hubiesen sido minas de materiales de construcción o sitios vulnerables en función de fallas geológicas, el promovente deberá incluir en el estudio de riesgo ambiental sujeto a reporte y visto bueno correspondiente, la justificación y estudios técnicos mediante los cuales se acredite que el establecimiento de dichas estaciones no implica riesgo ambiental o bien, el riesgo ambiental puede ser prevenido mediante la propuesta de medidas de prevención y mitigación específicas, las cuales deberán describirse de manera exhaustiva y detallada.
+
+Las justificaciones y estudios técnicos a que se refiere esta fracción, deberán ser elaborados por instituciones académicas y/o de investigación públicas reconocidas a nivel nacional;
+
+II. En ningún caso se podrá autorizar el establecimiento de una estación de almacenamiento y distribución de gasolina, diesel, aceites, lubricantes y aditivos en cualquiera de sus modalidades, que pretenda ubicarse debajo de puentes u obras análogas;
+
+III. De existir oposición manifiesta de los vecinos para la implementación del proyecto correspondiente, el promovente deberá exhibir autorización por escrito del Comité Vecinal, mediante la cual se exprese su conformidad para la implementación del proyecto respectivo; y/o en su caso se inicie el procedimiento de consulta pública correspondiente, conforme a lo establecido por la Ley y este Reglamento;
+
+IV. Cuando conforme a lo establecido en los artículos 63 y 64 del presente Reglamento, la densidad correspondiente ya haya sido excedida o cuente con alguna restricción de distanciamiento, la Dirección General solamente podrá autorizar el establecimiento de nuevas estaciones de almacenamiento y distribución de gasolina, diesel, aceites, lubricantes y aditivos en cualquiera de sus modalidades, cuando el promovente acredite con un estudio de mercado que mediante el establecimiento de dicha estación de almacenamiento y distribución, se está satisfaciendo una necesidad relacionada con la demanda para el abastecimiento de combustible donde se pretenda ubicar, y;
+
+V. Cualquier otro criterio que, conforme a las justificaciones técnicas correspondientes, la Dirección General considere necesario para garantizar la conservación, preservación e integridad del ambiente.
+
+> <small>(ADICIONADO, G.O. 28 DE OCTUBRE DE 2014)</small>
+
+Artículo 76 Novenus. En la evaluación de impacto ambiental de las obras y actividades reguladas por el presente Capítulo, la Dirección General tomará en consideración las medidas de seguridad propuestas por el promovente y, de ser necesario, ordenará la implementación de otras medidas adicionales de cualquier naturaleza, a efecto de garantizar la prevención de los riesgos ambientales que pudieran ocasionarse por el establecimiento y operación de dichas obras y actividades.
+
+En el caso de que la Dirección General advierta que debido a las condiciones y características específicas del proyecto y del sitio donde se pretende implementar, existe riesgo en la operación de una estación de almacenamiento y distribución de gasolina, diesel, aceites, lubricantes y aditivos en cualquiera de sus modalidades, ésta podrá solicitar al promovente en cualquier momento del procedimiento de evaluación de impacto ambiental correspondiente, la realización de cualquier tipo de estudio técnico o justificativo adicional que sea necesario para establecer y/o implementar las medidas de prevención y mitigación a los riesgos detectados por la Dirección General.
+
+Asimismo, para analizar y resolver las manifestaciones de impacto ambiental con estudio de riesgo sujeto ha visto bueno que se encuentren bajo alguno de los supuestos a que se refieren las fracciones I y V del artículo 76 octies de este Reglamento, la Dirección General deberá solicitar y obtener de la Secretaría de Protección Civil del Distrito Federal y/o de cualquier otra autoridad competente, su visto bueno el cual avale la justificación y estudios técnicos realizados por el promovente que efectivamente acreditan que el desarrollo del proyecto no implica riesgo o bien, el riesgo puede ser prevenido mediante las medidas de prevención y mitigación propuestas por el promovente.
+
+> <small>(ADICIONADO, G.O. 28 DE OCTUBRE DE 2014)</small>
+
+Artículo 76 Decimus. Una vez concluida la evaluación de impacto ambiental, la Dirección General deberá emitir en forma fundada y motivada, la resolución correspondiente en la que podrá:
+
+I. Autorizar la realización de la obra o actividad de que se trate, bajo los términos solicitados;
+
+II. Autorizar de manera condicionada la realización de la obra o actividad de que se trate, estableciendo condicionantes y medidas adicionales de prevención, mitigación y, en su caso compensación, a fin de que se eviten, atenúen o compensen los impactos ambientales adversos y los riesgos ambientales que pudieran derivarse por la instalación y operación del proyecto, y;
+
+III. Negar la autorización solicitada.
+
+> <small>(ADICIONADO, G.O. 28 DE OCTUBRE DE 2014)</small>
+
+Artículo 76 Undecimus. Previo al inicio de la operación de las actividades cubiertas por la autorización de impacto ambiental otorgada conforme a las disposiciones de este Capítulo, el representante legal o propietario deberá presentar a la Dirección General un aviso de inicio de operaciones, el cual deberá incluir por lo menos lo siguiente:
+
+I. Fecha en la que se pretende dar inicio a las actividades contempladas por la autorización correspondiente;
+
+II. Certificado Único de Zonificación;
+
+III. Licencia o Manifestación de Construcción;
+
+IV. Autorización de Uso y Ocupación;
+
+V. Visto Bueno de Seguridad y Operación, conforme al artículo 68 del Reglamento de Construcciones para el Distrito Federal.
+
+VI. Visto Bueno del Programa Interno de Protección Civil;
+
+VII. Dictamen de Seguridad Estructural, conforme al artículo 71 del Reglamento de Construcciones para el Distrito Federal;
+
+VIII. En su caso, autorización del proyecto de la obra en materia de publicidad exterior, ordenamiento de paisaje, imagen y mobiliario urbano, y;
+
+IX. Cualquier otra autorización, permiso, visto bueno o similar, que conforme a la Ley de Desarrollo Urbano del Distrito Federal, la Ley de Establecimientos Mercantiles del Distrito Federal, la Ley del Sistema de Protección Civil del Distrito Federal y el Reglamento de Construcciones para el Distrito Federal y demás aplicables, se requiera para tal efecto.
+
+Una vez presentado el aviso de inicio de operaciones, la Dirección General evaluará la información presentada y en un término que no podrá exceder de 30 días hábiles, en su caso, expedirá su conformidad para que el representante legal o propietario inicie la operación de las actividades amparadas por la autorización de impacto ambiental correspondiente. Una vez transcurrido el mencionado plazo sin que la Dirección General haya expedido la conformidad respectiva, se entenderá como negada.
+
+La conformidad de inicio de operaciones por parte de la Dirección General a que se refieren los párrafos anteriores, será necesaria para que el representante legal o propietario de la autorización de impacto ambiental correspondiente pueda dar inicio a las obras y actividades cubiertas por la misma.
+
+> <small>(ADICIONADO, G.O. 28 DE OCTUBRE DE 2014)</small>
+
+Artículo 76 Duodecies. Una vez obtenida la conformidad para el inicio de operaciones a que se refiere el artículo anterior, el representante legal o propietario de la autorización de impacto ambiental otorgada conforme a las disposiciones de este Capítulo, deberá presentar bajo protesta de decir verdad de manera semestral a la Dirección General un reporte de evaluación y cumplimiento, el cual deberá contener por lo menos la siguiente información.
+
+I. Cantidad de gasolina, diesel, combustibles, aceites, lubricantes y aditivos, adquirida para su venta durante dicho período;
+
+II. Cantidad de gasolina, diesel, combustibles, aceites, lubricantes y aditivos vendida durante dicho período;
+
+III. Relación detallada de accidentes y contingencias derivadas de la operación de la obra o actividad, relacionados con derrame o liberación de cualquier tipo de sustancia, material o residuos, al suelo, subsuelo, cuerpos de agua y atmósfera, incluyendo entre otros la manifestación de la emisión de vapores de los equipos instalados, siendo que dicha medición deberá ser realizada por institutos previamente autorizados por la Secretaría del Medio Ambiente, así como las medidas que se llevaron a cabo para combatir el accidente o contingencia;
+
+IV. Resultados de la implementación del programa calendarizado de evaluación y monitoreo de las condiciones ambientales del sitio, a que se refiere el artículo 42 Bis de este Reglamento;
+
+V. Contar con una póliza de seguros que ampare:
+
+1.- La responsabilidad civil por daños a terceros en sus personas y/o bienes con un límite de responsabilidad de por lo menos $5'000,000.00 (Cinco millones de pesos 00/100 M.N.).
+
+2.- La responsabilidad civil por daños causados al ambiente con un límite de responsabilidad de por lo menos $3'000,000.00 (Tres millones de pesos 00/100 M.N.).
+
+El concesionario deberá presentar la póliza vigente con el recibo de pago correspondiente por el periodo amparado en la póliza. Las cantidades mencionadas en los numerales 1 y 2 de esta fracción, se actualizarán anualmente de conformidad con el incremento al Índice Nacional de Precios al Consumidor.
+
+VI. Reporte de cumplimiento de las medidas condicionantes impuestas por la autorización de impacto correspondiente;
+
+VII. Reporte de cumplimiento de las medidas de mitigación o compensación propuestas en la manifestación de impacto ambiental con estudio de riesgo ambiental sujeto a reporte y visto bueno;
+
+VIII. Licencia Ambiental Única vigente y/o actualización vigente, y
+
+IX. De ser aplicable, las autorizaciones, permisos, vistos buenos y cualquier otro documento que conforme a la legislación aplicable, el establecimiento y operación de las actividades reguladas por este Capítulo, requieran conforme a la Ley de Desarrollo Urbano del Distrito Federal, la Ley de Establecimientos Mercantiles del Distrito Federal, la Ley del Sistema de Protección Civil del Distrito Federal y el Reglamento de Construcciones para el Distrito Federal, y demás aplicables.
+
+La información y documentación a que se refieren las fracciones anteriores, así como cualquier otra que se incluya en el reporte semestral a que se refiere el presente artículo, deberá manifestarse y entregarse bajo protesta de decir verdad.
+
+Derivado de la revisión del reporte de evaluación y cumplimiento a que se refiere este artículo, la Secretaría podrá imponer medidas de prevención y mitigación adicionales a las incluidas en la autorización correspondiente a fin de garantizar la integridad al ambiente y de las personas.
+
+> <small>(ADICIONADO, G.O. 28 DE OCTUBRE DE 2014)</small>
+
+Artículo 76 Terdecies. Con base en la documentación e información reflejada en el reporte semestral de evaluación y cumplimiento a que se refiere el artículo anterior, la Dirección General evaluará anualmente el nivel de cumplimiento del representante legal o propietario de la autorización de impacto ambiental otorgada conforme a las disposiciones de este Capítulo, con respecto a sus obligaciones ambientales previstas por la Ley, este Reglamento y cualquier otra disposición aplicable en la materia y, de ser procedente, en un término que no podrá exceder de 30 días hábiles a partir de la recepción del segundo reporte semestral, emitirá su visto bueno para continuar la operación de la obra o actividad de que se trate. Una vez transcurrido el mencionado plazo sin que la Dirección General haya expedido resolución al respecto, se entenderá como negado el Visto Bueno.
+
+En caso de que derivado de la revisión del reporte semestral de evaluación y cumplimiento, la Dirección General advierta que el representante legal o propietario de la autorización de impacto ambiental correspondiente, no se encuentra en cabal cumplimiento de sus obligaciones, no se emitirá el visto bueno correspondiente hasta en tanto el responsable acredite a la Dirección General que las irregularidades correspondientes han sido subsanadas.
+
+Si durante la revisión de la documentación e información contenida en reporte de evaluación y cumplimiento correspondiente, la Dirección General advirtiera que el representante legal o propietario pudiera estar infringiendo alguna disposición de cualquier naturaleza, la Dirección General a través de la unidad administrativa que corresponda, deberá dar aviso a la Dirección Ejecutiva de Vigilancia Ambiental de la Secretaría, así como a las autoridades correspondientes, incluyendo al Ministerio Público, a efecto de que éstas determinen lo conducente.
+
+El visto bueno de la Dirección General será necesario para operar la obra o actividad materia de la autorización de impacto ambiental respectiva.
+
+El visto bueno correspondiente especificará el periodo de operación que ampara, así como la fecha límite para tramitar su renovación.
+
+> <small>(ADICIONADO, G.O. 28 DE OCTUBRE DE 2014)</small>
+
+Artículo 76 Cuaterdecies. Para el caso de cierre de operaciones o desistimiento de las obras y actividades reguladas en este Capítulo, el representante legal o propietario de la autorización de impacto ambiental correspondiente, deberá dar aviso a la Dirección General del cierre de operaciones o desistimiento, incluyendo un estudio de caracterización de sitio donde se corrobore que el mismo no cuenta con presencia de hidrocarburos, metales pesados, emisión de vapores u otras sustancias peligrosas, por encima de los límites máximos permisibles contenidos en las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, G.O. 28 DE OCTUBRE DE 2014)</small>
+
+Artículo 76 Quindecies. La modificación del proyecto amparado por una autorización de impacto ambiental, incluyendo requerimientos técnicos, cambio de propietario y cambio de titular, requiere previa autorización por escrito de la Dirección General.
+
+### CAPÍTULO VIII. DEL PROCEDIMIENTO DERIVADO DE LA PRESENTACIÓN DEL INFORME PREVENTIVO
 
 ###### Artículo 77.
 
@@ -1484,7 +1714,7 @@ Los recursos que se obtengan por el cobro de seguros o la ejecución de garantí
 
 Asimismo dichos recursos serán aplicados a la reparación de los daños causados por la realización de las obras o actividades de que se trate.
 
-### CAPÍTULO X. DE LOS PRESTADORES DE SERVICIOS DE EVALUACIÓN DE IMPACTO AMBIENTAL Y RIESGO
+### CAPÍTULO IX. DISPOSICIONES COMUNES A LA EVALUACIÓN DE IMPACTO AMBIENTAL Y RIESGO, Y A LA AUTORIZACIÓN DEL INFORME PREVENTIVO
 
 ###### Artículo 81.
 
@@ -1578,7 +1808,7 @@ Transcurrido el plazo a que se refiere el párrafo anterior, sin que la autorida
 
 En aquellos casos en que por negligencia, dolo o mala fe, se ingrese el informe preventivo pretendiendo se aplique la afirmativa ficta, la Secretaría o Delegación, en su caso, tendrá por no presentado el trámite correspondiente, y en caso de que se hubiere emitido resolución o aplicado la referida afirmativa ficta, ésta se declarará sin efectos por la autoridad, independientemente de las sanciones que procedan.
 
-### CAPÍTULO XI. DE LA INSPECCIÓN, MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPÍTULO X. DE LOS PRESTADORES DE SERVICIOS DE EVALUACIÓN DE IMPACTO AMBIENTAL Y RIESGO
 
 ###### Artículo 86.
 
@@ -1614,7 +1844,7 @@ La persona que construya una obra nueva, amplíe una existente, explote recursos
 
 En estos casos, la Secretaría podrá solicitar a la Procuraduría Ambiental y del Ordenamiento Territorial del Distrito Federal el dictamen del daño causado y procederá a iniciar las acciones que correspondan para exigir su reparación.
 
-### CAPÍTULO XII. DE LA DENUNCIA CIUDADANA
+### CAPÍTULO XI. DE LA INSPECCIÓN, MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### Artículo 91.
 
@@ -1650,7 +1880,7 @@ IV. Informar de inmediato a la Secretaría sobre la existencia de riesgos ambien
 
 V. Las demás que se establezcan en otras deposiciones jurídicas aplicables.
 
-### CAPÍTULO XIII. DEL RECURSO DE INCONFORMIDAD
+### CAPÍTULO XII. DE LA DENUNCIA CIUDADANA
 
 ###### Artículo 96.
 
@@ -1732,6 +1962,8 @@ XI. Quien incurra más de una vez en conductas que impliquen infracciones a las 
 
 La Secretaría, además de las sanciones previstas en las fracciones anteriores podrá imponer una o más de las señaladas en el artículo 213 de la Ley, tomando en cuenta para ello los criterios establecidos en el artículo 214 de dicho ordenamiento.
 
+### CAPÍTULO XIII. DEL RECURSO DE INCONFORMIDAD
+
 ###### Artículo 105.
 
 Toda persona física o moral podrá denunciar ante la autoridad ambiental competente todo hecho, acto u omisión que produzca o pueda producir desequilibrios ecológicos o daños al ambiente o a los recursos naturales, o contravengan las disposiciones de la ley, y este reglamento en los términos de lo dispuesto en el Capítulo XII, del Título Tercero de la propia Ley.
@@ -1765,3 +1997,15 @@ Sexto.- El Capítulo II del Acuerdo que establece el listado de obras o activida
 Séptimo.- La Secretaría instrumentará un sistema electrónico para la presentación de los avisos a que se refieren los artículos 9º, 12, 13, 14, 21, 27 y 32 del Reglamento, mismo que entrará en vigor una vez publicado en la Gaceta Oficial del Distrito Federal.
 
 Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los diez días del mes de enero del año 2004.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.- LA SECRETARIA DE DESARROLLO URBANO Y VIVIENDA, LAURA ITZEL CASTILLO JUÁREZ.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, CLAUDIA SHEINBAUM PARDO.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 28 DE OCTUBRE DE 2014.
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. Aquellas personas que lleven a cabo actividades incluidas en el apartado K) fracciones XXVI y XXVII de este Reglamento bajo el amparo de una autorización de impacto ambiental otorgada con anterioridad a la entrada en vigor del presente Decreto, contarán con un término de 3 (tres) meses contados a partir de la entrada en vigor de este Decreto, para llevar a cabo la actualización del estudio de riesgo que deberá sujetarse a reporte semestral y visto bueno de la Dirección General conforme a lo dispuesto por (sic) artículo 42 Bis; el cual en lo sucesivo se someterá al procedimiento de reporte y visto bueno previsto por el Capítulo VI Bis de este Reglamento.
+
+CUARTO. Aquellas personas que lleven a cabo actividades incluidas en el apartado K) fracciones XXVI y XXVII de este Reglamento sin contar con la autorización de impacto ambiental correspondiente por no haberse requerido debido a la posterior entrada en vigor de la legislación ambiental en el Distrito Federal, deberán someter a consideración de la Dirección General el estudio de riesgo que deberá sujetarse a reporte semestral y visto bueno conforme a lo dispuesto por (sic) artículo 42 Bis dentro un término de 3 (tres) meses contados a partir de la entrada en vigor de este Decreto y, en lo sucesivo, someterse al procedimiento de reporte y visto bueno previsto por el Capítulo VI Bis de este Reglamento.
