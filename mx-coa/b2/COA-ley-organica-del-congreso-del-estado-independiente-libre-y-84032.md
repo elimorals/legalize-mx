@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-8403
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-25"
-last_updated: "2014-05-16"
+last_updated: "2014-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2014.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 25 de noviembre de 2011.
 
@@ -247,7 +247,7 @@ VI. Formar parte de un grupo parlamentario, siempre y cuando se cumpla con los r
 
 VII. Percibir por concepto de dieta, una remuneración que incluye en la misma, como parte integral, las prestaciones y viáticos que les permita desempeñar con decoro y eficacia su función. En ningún caso podrán percibir, durante su encargo o al finalizar este, retribuciones no autorizadas de manera expresa en el Presupuesto de Egresos, cualquiera que sea su denominación;
 
-VIII. Solicitar licencia para separarse del cargo en los términos de ley; y (sic)
+VIII. Solicitar licencia para separarse del cargo en los términos de ley; y
 
 > <small>(REFORMADA, P.O. 16 DE MAYO DE 2014)</small>
 
@@ -785,7 +785,9 @@ XVIII. De Asuntos Fronterizos;
 
 XIX. De Atención a Grupos Vulnerables;
 
-XX. De Energía y Minas;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2014)</small>
+
+XX. De Energía, Minería e Hidrocarburos.
 
 XXI. Instructora de Juicio Político y de Declaración de Procedencia en Materia de Responsabilidad Penal.
 
@@ -1127,7 +1129,7 @@ VI. Promoción de una cultura de igualdad entre los géneros;
 
 VII. Cumplimiento de los Acuerdos, Convenios y Conferencias Internacionales en materia de igualdad de género;
 
-VIII. Creación de espacios de expresión plural y de género, de las personas que trabajan por la igualdad de la mujer y contra la violencia hacia las mismas; promoviendo respetuosamente la esfera competencial del Instituto Coahuilense de las Mujeres, para impulsar las políticas públicas en esta materia; y (sic)
+VIII. Creación de espacios de expresión plural y de género, de las personas que trabajan por la igualdad de la mujer y contra la violencia hacia las mismas; promoviendo respetuosamente la esfera competencial del Instituto Coahuilense de las Mujeres, para impulsar las políticas públicas en esta materia; y
 
 > <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2014)</small>
 
@@ -1241,23 +1243,33 @@ V. Legislación para mejorar la calidad de vida las personas de capacidades dife
 
 VI. Otros aspectos que sean o se consideren de la competencia de esta comisión.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2014)</small>
+
 ###### ARTÍCULO 87.
 
-La Comisión de Energía y Minas conocerá de los asuntos relacionados con:
+La Comisión de Energía, Minería e Hidrocarburos conocerá de los asuntos relacionados con:
 
-I. Industria Minera;
+I.- Industria Minera;
 
-II. Aprovechamiento de los recursos minerales y energéticos existentes en el Estado;
+II.- Condiciones de trabajo y seguridad en las minas del Estado;
 
-III. Comercialización de los recursos mineros;
+III.- Aprovechamiento de los recursos minerales y energéticos existentes en el Estado;
 
-IV. Infraestructura para el desarrollo de la minería;
+IV.- Producción de Energía en el Estado;
 
-V. Abasto, ahorro y costo del servicio de energía eléctrica;
+V.- Contratos de materia energética entre el Estado y empresas gubernamentales o particulares;
 
-VI. Abasto de gas y gasolina; y
+VI.- Infraestructura para el desarrollo de las industrias minera y energética;
 
-VII. Otros que sean o se consideren de la competencia de esta comisión.
+VII.- Extracción, explotación, investigación y aprovechamiento del gas shale y demás hidrocarburos en el Estado.
+
+VIII.- Comercialización de los recursos mineros y energía en el Estado;
+
+IX.- Abasto, ahorro y costo del servicio de energía eléctrica;
+
+X.- Abastos de gas natural y gasolina;
+
+XI.- Otros que sean o se consideren de la competencia de esta Comisión.
 
 > <small>(ADICIONADO, P.O. 2 DE MAYO DE 2014)</small>
 
@@ -2952,3 +2964,17 @@ DECRETO NO. 494, QUE REFORMA LOS ARTÍCULOS 22 FRACCIÓN II, IX Y X, 23 FRACCIÓ
 PRIMERO.- El presente Decreto surtirá efectos a partir del momento de su aprobación.
 
 SEGUNDO.- Publíquese este Decreto en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
+
+P.O. 28 DE OCTUBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente en el que sea aprobado por el Pleno del H. Congreso del Estado, Independiente, Libre y Soberano de Coahuila de Zaragoza.
+
+###### ARTÍCULO SEGUNDO.
+
+Toda mención referida a la Comisión de Energía y Minas, se entenderá hecha a la Comisión de Energía, Minería e Hidrocarburos; así mismo, todo asunto turnado y que ya se encuentre en estudio en la propia Comisión de Energía y Minas, será desahogado por la Comisión de Energía, Minería e Hidrocarburos.
+
+###### ARTÍCULO TERCERO.
+
+En lo que respecta a las atribuciones asignadas en el Artículo 87, Fracción II, las mismas serán asumidas por la Comisión de Energía, Minería e Hidrocarburos en cuanto se extinga la Comisión Especial que se informará de la inspección, vigilancia y control de las condiciones de trabajo y seguridad que se tienen en las minas del Estado, creada el 6 de mayo del presente año.
