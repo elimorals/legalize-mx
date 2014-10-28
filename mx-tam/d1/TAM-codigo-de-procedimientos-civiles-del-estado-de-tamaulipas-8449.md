@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-civiles-del-estado-de-tamaulipas-8449"
 country: "mx"
 rank: "codigo"
 publication_date: "1961-10-04"
-last_updated: "2014-04-15"
+last_updated: "2014-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE OCTUBRE DE 2014 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el 4 de octubre de 1961.
 
@@ -157,23 +159,25 @@ Los jueces tomarán personalmente las protestas y autorizarán bajo su responsab
 
 Las audiencias serán presididas por el juez, quien podrá disponer lo que fuere necesario para que se desarrollen en forma ordenada y expedita; dirigirá el debate y señalará los puntos a que debe circunscribirse, pudiendo suspenderlo o declararlo cerrado cuando prudentemente lo estime oportuno. Serán públicas, exceptuándose las que se refieran a negocios de divorcio, nulidad de matrimonio y las demás en que a su juicio convenga el secreto.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2014)</small>
 
 ###### ARTICULO 15.
 
-Los jueces deben mantener el orden y exigir que se les guarde respeto y consideración que corresponde, corrigiendo en el acto, con las sanciones autorizadas por la Ley, las faltas que se cometieren. Si llegaren a constituir delito, se procederá con arreglo a lo dispuesto en el Código Penal, consignando al culpable a la autoridad competente.
+Los jueces deben mantener el orden y la conducta procesal adecuada, exigiendo que se les guarde el respeto y consideración que corresponde, sancionando en el acto, con las correcciones disciplinarias autorizadas por la Ley, las faltas que se cometieren, ya se trate de los servidores públicos adscritos al Tribunal que imponga la corrección o de las personas o litigantes que acudan al mismo. Si llegaren a constituir delito, se procederá con arreglo a lo dispuesto en el Código Penal para el Estado, consignando al culpable a la autoridad competente.
 
 Se autorizan como correcciones disciplinarias, las siguientes:
 
-I.- El apercibimiento;
+I.- El apercibimiento, consistente en la prevención verbal o escrita, que se haga al infractor, en el sentido de que, de incurrir en nueva falta, se le aplicarán una o más de las sanciones previstas por la ley;
 
-II.- La multa que no exceda del equivalente al importe de sesenta días de salario mínimo vigente en la Capital del Estado; y,
+II.- La amonestación, consistente en la reprensión verbal o escrita, que se haga al infractor por la falta cometida;
 
-III.- Suspensión de empleo hasta por quince días sin goce de sueldo.
+III.- La multa hasta por ciento veinte días de salario mínimo, vigente en la capital del Estado;
 
-Esta última fracción sólo es aplicable al Secretario y demás empleados del Tribunal que imponga la corrección.
+IV.- Desalojo del recinto judicial con auxilio de la fuerza pública; y
 
-Dentro de los tres días de haberse hecho saber una corrección disciplinaria a la persona a quien se hubiese impuesto, podrá ésta pedir, ante el mismo Tribunal, que la oiga en justicia. Recibida la petición, el Tribunal citará, para dentro de los cinco días siguientes a una audiencia, en la cual, después de escuchar lo que el interesado expusiere en su descargo, resolverá dentro de las ulteriores veinticuatro horas. La resolución que se dicte no admitirá recurso.
+V.- La suspensión del empleo hasta por un máximo de cinco días, únicamente aplicable a los servidores públicos adscritos al tribunal que la impone.
+
+Dentro de los tres días de haberse hecho saber la corrección disciplinaria a la persona a quien se hubiese impuesto, podrá ésta pedir, ante el mismo Tribunal, que la oiga en justicia. Recibida la petición, el Tribunal citará, para dentro de los cinco días siguientes a una audiencia, en la cual, y después de escuchar lo que el interesado expusiere en su descargo, y de exhibir las pruebas que sustenten su dicho si las hubiere, resolverá dentro de las ulteriores cuarenta y ocho horas. La resolución que se dicte no admitirá recurso en su contra.
 
 ###### ARTICULO 15 Bis.
 
@@ -211,11 +215,19 @@ Si fuese insuficiente el apremio, se procederá contra el rebelde conforme al C�
 
 ###### ARTICULO 17.
 
-Cuando el secretario, actuario, o cualquiera otro empleado judicial, cometiere infracción a las disposiciones de este Capítulo o a alguna otra prevención procesal, el juez le impondrá suspensión hasta de un mes, o alguna de las otras correcciones disciplinarias a que se refiere el artículo 15 según el caso, y así se hará constar en el mismo expediente. En caso de que la falta esté sancionada por disposición expresa, ésta será la aplicable.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2014)
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2014)</small>
 
 ###### ARTICULO 18.
 
-Cuando el Supremo Tribunal de Justicia en Pleno, o el magistrado que conozca de algún asunto dentro de sus respectivas competencias encontraren que el juez de primer grado no cumplió con lo dispuesto en el artículo anterior, impondrá a éste una corrección disciplinaria sin perjuicio de la que corresponda al secretario y que debió imponerle su superior inmediato, la que también se aplicará en el mismo acto.
+Cuando con motivo de los asuntos que vía recurso de apelación sean sometidos al conocimiento de los magistrados del Supremo Tribunal de Justicia, éstos adviertan un notorio descuido u omisión grave en cuanto a la aplicación de normas y jurisprudencia relativas al debido proceso dentro de los actos o resoluciones de los órganos jurisdiccionales recurridos, o una notoria dilación en la remisión de los autos al Supremo Tribunal para la integración del testimonio de apelación, según constancias a la vista, lo expresarán así dentro de la sentencia que recaiga a la apelación, en la que señalarán puntualmente las razones, fundamentos y motivos que los llevaron a la detección del descuido, omisión o dilación, teniendo a la vez la facultad de sancionar racionalmente tales actos acorde a la gravedad de la falta, con las correcciones disciplinarias que contempla el artículo 15 del presente Código en contra del Juez, o servidor judicial responsable, debiendo remitir copia de la resolución respectiva al Consejo de la Judicatura para los efectos conducentes, sin perjuicio de las responsabilidades de diversa índole que pudieran surgir de la realización de dichos actos. La sanción que se imponga en base a este artículo deberá ser notificada mediante oficio.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2014)</small>
+
+ARTÍCULO 18 BIS.- Las sanciones que se impongan con fundamento en el artículo inmediato anterior podrán ser impugnadas por el servidor público, ante la propia Sala sancionadora, dentro de los tres días siguientes al en que quede notificado de la misma, otorgándose un día más de plazo para su presentación por cada ochenta kilómetros o fracción que exceda de la décima parte por razón de la distancia que medie entre la capital y la ciudad donde se ubique el juzgado donde labore el servidor público sancionado, mediante la interposición por escrito de los agravios, motivos y fundamentos de la inconformidad. Dentro de los cinco días posteriores a la recepción de ésta, la Sala, emitirá la resolución que corresponda.
+
+En contra del fallo recaído no cabe recurso alguno.
 
 ###### ARTICULO 19.
 
@@ -2001,7 +2013,7 @@ Con toda demanda deberá acompañarse:
 
 I.- El poder que acredite la personalidad o representación del que comparece en nombre de otro;
 
-II.- Los documentos en que la parte interesada funde su derecho. Si el demandante no tuviere en su poder los documentos aludidos, deberá indicar el lugar en que se encuentren, solicitando las medidas tendientes a su incorporación a los autos o a la expedición de testimonios de los mismos para ser agregados. Se entiende que el actor tiene a su disposición los documentos, siempre que legalmente pueda pedir copia autorizada de los originales. Si los documentos obran en poder del demandado, el actor podrá pedir en la demanda que los exhiba, y el juez lo apremiará por los medios legales, y si aun se resistiere a hacer la exhibición o destruyere, deteriorare u ocultare aquellos, o con dolo o malicia dejare de poseerlos, satisfará todos los daños y perjuicios que se hayan seguido, quedando, además, sujeto a la correspondiente responsabilidad penal por desobediencia a un mandato legítimo de autoridad. Si alegare alguna causa para no hacer la exhibición, se le oirá incidentalmente; y, (sic)
+II.- Los documentos en que la parte interesada funde su derecho. Si el demandante no tuviere en su poder los documentos aludidos, deberá indicar el lugar en que se encuentren, solicitando las medidas tendientes a su incorporación a los autos o a la expedición de testimonios de los mismos para ser agregados. Se entiende que el actor tiene a su disposición los documentos, siempre que legalmente pueda pedir copia autorizada de los originales. Si los documentos obran en poder del demandado, el actor podrá pedir en la demanda que los exhiba, y el juez lo apremiará por los medios legales, y si aun se resistiere a hacer la exhibición o destruyere, deteriorare u ocultare aquellos, o con dolo o malicia dejare de poseerlos, satisfará todos los daños y perjuicios que se hayan seguido, quedando, además, sujeto a la correspondiente responsabilidad penal por desobediencia a un mandato legítimo de autoridad. Si alegare alguna causa para no hacer la exhibición, se le oirá incidentalmente; y,
 
 III.- Tantas copias simples del escrito de demanda y de los documentos que acompañe, cuantas fueren las personas demandadas.
 
@@ -4503,7 +4515,7 @@ La oposición deberá fundarse en que el tutor o curador nombrados no reúnen lo
 
 ###### ARTICULO 585.
 
-En todos los casos en que se suscite impedimento o excusa de tutores o curadores, o se promueva su separación, se nombrará desde luego tutor o curador interino mientras se decide el punto. La decisión se tramitará en la forma incidental, y la resolución que se dicte será apelable en el efecto devolutivo.
+En todos los casos en que se suscite impedimento o excusa de tutores o curadores, o se promueva su separación, se nombrará desde luego tutor o curador interino mientras se decide el punto. La decisión se tramitará en la forma incidental y la resolución que se dicte será apelable en el efecto devolutivo.
 
 Si se decidiere que existe impedimento o motivo de excusa o se decreta la separación del tutor o curador, se hará nuevo nombramiento conforme a derecho.
 
@@ -6763,7 +6775,7 @@ II.- Si consta de estos documentos quiénes son los miembros de la familia benef
 
 III.- El inventario y avalúo se practicará desde luego por el cónyuge que sobreviva o por el albacea, si estuviere designado, y en su defecto, por el heredero que sea de más edad. No se requerirá que el avalúo vaya firmado por perito si al constituirse el patrimonio familiar consta el valor de los bienes;
 
-IV.- Presentado el inventario, el juez convocará a una junta a los interesados, nombrando en ella tutor especial a los menores que no tuvieren representante legítimo, o cuando el interés de éste fuere opuesto al de aquéllos, y procurará ponerlos de acuerdo sobre la forma de hacer la partición. Si no logra el acuerdo, nombrará un partidor para que en el término de cinco días presente el proyecto de partición que dará a conocer a los interesados en una junta a la que serán convocados. En esa misma audiencia oirá y decidirá las oposiciones, mandando hacer la adjudicación;
+IV.- Presentado el inventario, el juez convocará a una junta a los interesados, nombrando en ella tutor especial a los menores que no tuvieren representante legítimo, o cuando el interés de éste fuere opuesto al de aquéllos y procurará ponerlos de acuerdo sobre la forma de hacer la partición. Si no logra el acuerdo, nombrará un partidor para que en el término de cinco días presente el proyecto de partición que dará a conocer a los interesados en una junta a la que serán convocados. En esa misma audiencia oirá y decidirá las oposiciones, mandando hacer la adjudicación;
 
 V.- Todas las resoluciones se harán constar en actas y no se requieren peticiones escritas de parte interesada para la tramitación del juicio;
 
@@ -6989,7 +7001,7 @@ Si la sentencia quedó firme por haberse consentido expresa o tácitamente enten
 
 ###### ARTICULO 858.
 
-Para llevar a cabo el remate de los bienes embargados, se practicará avalúo conforme a las reglas de los artículos 695 y 696.También podrá practicarse avalúo por medio de cualquier clase de pruebas que el juez podrá allegar de oficio.
+Para llevar a cabo el remate de los bienes embargados, se practicará avalúo conforme a las reglas de los artículos 695 y 696. También podrá practicarse avalúo por medio de cualquier clase de pruebas que el juez podrá allegar de oficio.
 
 ###### ARTICULO 859.
 
@@ -7635,9 +7647,11 @@ V.- En todo lo demás serán aplicables a las sentencias de segunda instancia la
 
 Las apelaciones contra autos en cualesquier clase de juicios se sustanciarán en la forma prevista en este Capítulo, con excepción de que se reducirá al escrito de agravios y la contestación, sin que proceda la apertura de término probatorio.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2014)</small>
+
 ###### ARTICULO 951.
 
-El magistrado impondrá en la sentencia de segunda instancia las sanciones o correcciones disciplinarias procedentes al juez o secretario por las faltas en que hayan incurrido durante la tramitación del juicio. Asimismo, aplicará dichos correctivos al juez de primer grado cuando aparezca que éste debió haber corregido disciplinariamente al secretario o actuario y no lo hizo.
+El Magistrado impondrá en la sentencia de segunda instancia las sanciones o correcciones disciplinarias procedentes al Juez o Secretario por las faltas que advierta al debido proceso que se hayan generado durante la tramitación del juicio. Asimismo, aplicará dichos correctivos al Juez de primer grado cuando aparezca que éste debió haber corregido disciplinariamente al Secretario o Actuario y no lo hizo.
 
 ## TITULO DECIMO SÉPTIMO. RESPONSABILIDAD DE FUNCIONARIOS JUDICIALES
 
@@ -7899,7 +7913,7 @@ El presente Decreto entrará en vigor a los 30 días posteriores de su publicaci
 
 I.- Las adiciones de la Sección Sexta, del Capítulo Único, del Título Octavo, la de la fracción XXVI del artículo 20, recorriéndose en su orden la anterior fracción XXVI para ahora ser XXVII y el artículo 179 Bis; las reformas a los artículos 20 fracción XXV, 25 fracción IV, 44, 100 párrafo cuarto y 122 fracción XVIII; y la derogación de la fracción VIII del artículo 122 de la Ley Orgánica del Poder Judicial del Estado; y las reformas al artículo 22 fracción IV y su párrafo segundo; y la derogación de la fracción II del artículo 68 del Código de Procedimientos Civiles del Estado de Tamaulipas, las cuales entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado; y
 
-II.- Las reformas de los artículos 38 fracción III y 51 inciso A) fracción I, de Ley (sic) Orgánica del Poder Judicial del Estado; y las reformas a los artículo (sic) 192 fracción III y 844 primer párrafo del Código de Procedimientos Civiles del Estado de Tamaulipas, mismas que entrarán en vigor el día veintisiete de enero de dos mil doce, en consonancia con lo establecido en el Artículo Primero Transitorio del Decreto que reformó el Código de Comercio, publicado en el Diario Oficial de la Federación de fecha 27 de enero de 2011.
+II.- Las reformas de los artículos 38 fracción III y 51 inciso A) fracción I, de (sic) Ley Orgánica del Poder Judicial del Estado; y las reformas a los artículo (sic) 192 fracción III y 844 primer párrafo del Código de Procedimientos Civiles del Estado de Tamaulipas, mismas que entrarán en vigor el día veintisiete de enero de dos mil doce, en consonancia con lo establecido en el Artículo Primero Transitorio del Decreto que reformó el Código de Comercio, publicado en el Diario Oficial de la Federación de fecha 27 de enero de 2011.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -7938,3 +7952,13 @@ P.O. 15 DE ABRIL DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE OCTUBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos de queja administrativa que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, deberán concluir conforme al procedimiento con el que hayan dado comienzo.
