@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-los-municipios-de-san-luis-potosi-26384"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-06"
-last_updated: "2014-08-14"
+last_updated: "2014-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2014.
 
 Ley publicada en la Sección Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 6 de noviembre de 2001.
 
@@ -77,9 +77,15 @@ VII. Los bienes y derechos que formen su patrimonio.
 
 Además de esta Ley, la hacienda pública municipal se regirá por la Constitución Política del Estado, la Ley Orgánica del Municipio Libre, las respectivas leyes de ingresos aprobadas por la Legislatura Estatal, por los respectivos presupuestos de ingresos y egresos de vigencia anual aprobados por los propios ayuntamientos; así como por la Ley de Coordinación Fiscal del Estado, la Ley de Deuda Pública Municipal, la Ley de Catastro del Estado y Municipios de San Luis Potosí, la Ley para la Administración de las Aportaciones Transferidas al Estado y Municipios de San Luis Potosí, y los Reglamentos Municipales respectivos y aplicables; y por los convenios de coordinación y colaboración suscritos o que se suscriban con el Gobierno del Estado. El Código Fiscal del Estado se aplicará en forma supletoria de estas disposiciones. Sólo en ausencia de norma fiscal estatal se aplicarán las reglas del derecho fiscal y del derecho común.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2014)</small>
+
 ###### ARTICULO 6°.
 
-Los municipios por conducto de sus ayuntamientos, someterán anualmente ante el Congreso del Estado su correspondiente iniciativa de Ley de Ingresos, en la que se establecerán las tasas y tarifas que deben aplicarse a las contribuciones respectivas, sin modificar los demás elementos de las contribuciones, como sujetos, objeto, bases y períodos de pago.
+Los municipios, por conducto de sus ayuntamientos, someterán anualmente ante el Congreso del Estado su correspondiente iniciativa de Ley de Ingresos, en la que se especificarán las fuentes de sus ingresos, sean ordinarios o extraordinarios, desagregando el monto de cada una, incluyendo los recursos federales que se estime serán transferidos por la Federación, a través de los fondos de participaciones y aportaciones federales, subsidios y convenios de reasignación; así como los ingresos recaudados con base en las disposiciones locales. Asimismo, se establecerán las tasas y tarifas que deben aplicarse a las contribuciones respectivas, sin modificar los demás elementos de las contribuciones, como sujetos, objeto, bases y períodos de pago.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2014)</small>
+
+Dicha iniciativa debe incluir también las obligaciones de garantía o pago causante de deuda pública u otros pasivos de cualquier naturaleza con contrapartes, proveedores, contratistas y acreedores, incluyendo la disposición de bienes o expectativa de derechos sobre éstos, contraídos directamente o, a través de cualquier instrumento jurídico considerado o no dentro de la estructura orgánica de la administración pública correspondiente, y la celebración de actos jurídicos análogos a los anteriores y sin perjuicio de que dichas obligaciones tengan como propósito el canje o refinanciamiento de otras, o de que sea considerado o no como deuda pública en los ordenamientos aplicables. Además, la composición de dichas obligaciones y el destino de los recursos obtenidos.
 
 De conformidad con la Ley de Catastro del Estado y Municipios de San Luis Potosí, someterán asimismo a la Legislatura estatal, la aprobación de las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
 
@@ -978,3 +984,9 @@ P.O. 14 DE AGOSTO DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto
+
+P.O. 28 DE OCTUBRE DE 2014.
+
+PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
