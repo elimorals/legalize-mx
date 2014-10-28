@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-penales-para-el-estado-de-7994"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-17"
-last_updated: "2014-07-09"
+last_updated: "2014-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "TAM"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TAMAULIPAS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE OCTUBRE DE 2014 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TAMAULIPAS
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO LXII-232 MEDIANTE EL CUAL SE EMITE LA DECLARATORIA DE ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, PUBLICADA EN EL P.O. DE 1 DE MAYO DE 2014, EL PRESENTE ORDENAMIENTO PARA EFECTOS DE SU APLICACIÓN EN LOS PROCEDIMIENTOS PENALES INICIADOS POR LOS DELITOS MENCIONADOS EN LA FRACCIÓN I DEL ARTÍCULO ÚNICO DEL PRESENTE DECRETO QUEDARÁ ABROGADO; SIN EMBARGO, RESPECTO A LOS PROCEDIMIENTOS PENALES QUE A LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO SE ENCUENTREN EN TRÁMITE, CONTINUARÁN SU SUSTANCIACIÓN DE CONFORMIDAD CON LA LEGISLACIÓN APLICABLE EN EL MOMENTO DEL INICIO DE LOS MISMOS.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 17 de enero de 1987.
 
@@ -509,19 +511,23 @@ Las promociones verbales de las partes durante el procedimiento que no sean de l
 
 En caso de urgencia, los Magistrados o Jueces podrán comisionar a sus Secretarios para la práctica de cualquier acto judicial incluyendo las notificaciones.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2014)</small>
+
 ###### ARTICULO 43.
 
 Son correcciones disciplinarias:
 
-I.- El apercibimiento;
+I.- El apercibimiento, consistente en la prevención verbal o escrita, que se haga al infractor, en el sentido de que de incurrir en nueva falta, se le aplicarán una o más de las sanciones previstas por la ley;
 
-II.- Multa hasta de treinta días salario;
+II.- La amonestación, consistente en la reprensión verbal o escrita, que se haga al infractor por la falta cometida;
 
-III.- La suspensión hasta por un mes; y
+III.- La multa hasta por ciento veinte días de salario mínimo, vigente en la capital del Estado;
 
-IV.- Arresto hasta de 36 horas.
+IV.- El arresto hasta por 36 horas;
 
-La suspensión sólo se podrá aplicar a los funcionarios o empleados judiciales.
+V.- Desalojo del recinto judicial con auxilio de la fuerza pública; y
+
+VI.- La suspensión del empleo hasta por un máximo de cinco días, únicamente aplicable a los servidores públicos adscritos al tribunal que la impone.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 1988)</small>
 
@@ -3227,6 +3233,16 @@ XVI.- Por no habérsele ministrado los datos que necesitare para su defensa y qu
 
 Siempre que la Sala encuentre retardo indebido en el despacho de una causa o violada una Ley en la instrucción o en la sentencia, aun cuando esta violación no amerite la reposición del procedimiento ni la revocación de la sentencia, llamará sobre tal hecho la atención del Juez y podrá imponerle cualquiera corrección disciplinaria; si dicha violación, a su juicio, constituye delito, lo comunicará al Ministerio Público.
 
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2014)</small>
+
+ARTICULO 382 BIS.- Cuando con motivo de los asuntos que vía recurso de apelación sean sometidos al conocimiento de los magistrados del Supremo Tribunal de Justicia, éstos adviertan un notorio descuido u omisión grave en cuanto a la aplicación de normas y jurisprudencia relativas al debido proceso dentro (sic) los actos o resoluciones de los órganos jurisdiccionales recurridos, o una notoria dilación en la remisión de los autos al Supremo Tribunal para la integración del testimonio de apelación, según constancias a la vista, lo expresarán así dentro de la sentencia que recaiga a la apelación, en la que señalarán puntualmente las razones, fundamentos y motivos que los llevaron a la detección del descuido, omisión o dilación, teniendo a la vez la facultad de sancionar racionalmente tales actos acorde a la gravedad de la falta, con las correcciones disciplinarias que contempla el artículo 43 del presente Código en contra del Juez, o servidor judicial responsable, debiendo remitir copia de la resolución respectiva al Consejo de la Judicatura para los efectos conducentes, sin perjuicio de las responsabilidades de diversa índole que pudieran surgir de la realización de dichos actos.
+
+La sanción que se imponga en base a este artículo deberá ser notificada mediante oficio.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2014)</small>
+
+ARTICULO 382 TER.- Las sanciones que se impongan con fundamento en el artículo inmediato anterior podrán ser impugnadas por el servidor público, ante la propia Sala sancionadora, dentro de los tres días siguientes al en que quede notificado de la misma, otorgándose un día más de plazo para su presentación por cada ochenta kilómetros o fracción que exceda de la décima parte por razón de la distancia que medie entre la capital y la ciudad donde se ubique el juzgado donde labore el servidor público sancionado, mediante la interposición por escrito de los agravios, motivos y fundamentos de la inconformidad. Dentro de los cinco días posteriores a la recepción de ésta, la Sala, emitirá la resolución que corresponda. En contra del fallo recaído no cabe recurso alguno.
+
 ###### ARTICULO 383.
 
 Cuando la Sala notare que el defensor hubiere faltado a sus deberes, no interponiendo los recursos que procedieren o abandonado los interpuestos que por las constancias de la causa apareciere que debían prosperar; no alegare circunstancias probadas en el proceso y que habrían favorecido notablemente al acusado, o alegue hechos falsos o puntos de derecho notoriamente inaplicables, se procederá como previene el Artículo anterior.
@@ -5128,3 +5144,13 @@ P.O. 9 DE JULIO DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE OCTUBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos de queja administrativa que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, deberán concluir conforme al procedimiento con el que hayan dado comienzo.
