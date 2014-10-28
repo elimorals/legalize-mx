@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2014-06-19"
+last_updated: "2014-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -601,13 +601,17 @@ X. La asistencia social a los grupos más vulnerables;
 
 XI. La atención y asistencia a personas víctimas de violencia;
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2014)</small>
 
-XII. La atención médica a los adultos mayores en áreas de salud geriátrica, y
+XII. La atención médica a los adultos mayores en áreas de salud geriátrica;
 
-> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2014)</small>
 
-XIII. Las demás que establezca esta Ley o disposiciones legales aplicables.
+XIII. El desarrollo y fortalecimiento de programas en materia de prevención y control de las enfermedades de los hombres y, específicamente, de la próstata;
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2014)</small>
+
+XIV. Las demás que establezca esta Ley o disposiciones legales aplicables.
 
 ###### ARTICULO 26.
 
@@ -3916,6 +3920,12 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 19 DE JUNIO DE 2014.
 
 DECRETO No. 596, POR EL QUE SE REFORMA LOS ARTÍCULOS, 5° EN SU LETRA A LA FRACCIÓN XVI, 28 EN SUS FRACCIONES, III, Y IV, 84 EN SU FRACCIÓN VI, 92 EN SU FRACCIÓN IV, Y 136, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 28 DE OCTUBRE DE 2014.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
