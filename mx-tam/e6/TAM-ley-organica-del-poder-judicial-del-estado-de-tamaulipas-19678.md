@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2014-06-26"
+last_updated: "2014-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "TAM"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE OCTUBRE DE 2014 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO No. LXII-249, PUBLICADO EN EL P.O. DE 26 DE JUNIO DE 2014, LAS PRESENTES REFORMAS ENTRAN EN VIGOR EL 1° DE JULIO DE 2014, Y DE MANERA SUCESIVA, CONFORME A LAS FECHAS DE APLICACIÓN QUE SE ESTABLECEN EN EL ARTÍCULO ÚNICO DEL DECRETO No. LXII-232 PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO NÚMERO 53 DE FECHA 01 DE MAYO DEL 2014.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -721,7 +723,9 @@ VIII.- Rendir al Pleno del Supremo Tribunal con la oportunidad debida, los infor
 
 IX.- Proponer al Pleno la designación y, en su caso, remoción del Secretario de Acuerdos de Sala;
 
-X.- Imponer a su personal, así como a Jueces, Secretarios y demás servidores públicos que intervengan en primera instancia en el asunto que se conozca con motivo del recurso de apelación, las correcciones disciplinarias de amonestación y multa hasta por el importe de un mes de salario mínimo general vigente en la Capital del Estado y, si a su juicio la falta fuere grave, dar vista al Pleno del Supremo Tribunal de Justicia; y,
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2014)</small>
+
+X.- Imponer a su personal, así como a Jueces, Secretarios y demás servidores públicos que intervengan en primera instancia en el asunto que se conozca con motivo del recurso de apelación, las correcciones disciplinarias de apercibimiento, amonestación, multa y suspensión, en los términos del Código Procesal aplicable a la materia del asunto y, si a su juicio la falta fuere grave, dar vista al Pleno del Supremo Tribunal de Justicia; y,
 
 XI.- Ejercer las demás atribuciones que le asigne esta ley y los acuerdos generales del Pleno del Supremo Tribunal.
 
@@ -797,9 +801,17 @@ Corresponde a los Magistrados:
 
 I.- Presentar los proyectos de resolución de los asuntos que les sean asignados, para su discusión y aprobación, en su caso, en la Sala Colegiada correspondiente;
 
-II.- Proponer al Pleno del Supremo Tribunal de Justicia, el nombramiento de los servidores públicos de la Sala de la que sean titulares; y
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2014)</small>
 
-III.- Las demás que se deriven de la ley.
+II.- Proponer al Pleno del Supremo Tribunal de Justicia, el nombramiento de los servidores públicos de la Sala de la que sean titulares;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2014)</small>
+
+III.- Imponer a su personal, así como a Jueces, Secretarios y demás servidores públicos que intervengan en primera instancia en el asunto que se conozca con motivo del recurso de apelación, las correcciones disciplinarias de apercibimiento, amonestación, multa y suspensión, en los términos del Código Procesal aplicable a la materia del asunto y, si a su juicio la falta fuere grave, dar vista al Pleno del Supremo Tribunal de Justicia; y,
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2014)</small>
+
+IV.- Las demás que se deriven de la ley.
 
 > <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
@@ -1943,9 +1955,17 @@ Corresponde al Pleno del Supremo Tribunal de Justicia conocer de las faltas come
 
 ### CAPITULO II. DEL PROCEDIMIENTO DE QUEJA ADMINISTRATIVA
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2014)</small>
+
 ###### ARTICULO 111.
 
-Quien tenga interés jurídico podrá presentar queja administrativa ante la Presidencia del Supremo Tribunal de Justicia, en contra de cualquiera de los servidores públicos del Poder Judicial, dentro de los diez días siguientes al en que se haya suscitado el acto o la omisión que de origen al procedimiento.
+Quien tenga interés jurídico, podrá presentar queja administrativa ante el Consejo de la Judicatura del Estado, en contra de cualquiera de los servidores públicos del Poder Judicial, dentro de los quince días siguientes a aquél en el que, quien se queja, haya tenido conocimiento del acto o la omisión de naturaleza administrativa generadora de la queja; teniendo como consecuencia únicamente, la aplicación de una sanción al servidor público responsable, en los términos dispuestos por el presente ordenamiento y las leyes aplicables.
+
+En el supuesto que el procedimiento de donde emane la queja administrativa se desarrolle fuera de la capital del Estado de Tamaulipas, quien la interponga tendrá un día más de plazo para su presentación por cada ochenta kilómetros o fracción que exceda de la décima parte por razón de la distancia que medie entre la capital y la localidad donde se ubique el juzgado o la unidad administrativa de que se trate.
+
+Si la queja se efectúa en contra de algún Magistrado, la misma se deberá presentar ante la Presidencia del Supremo Tribunal de Justicia del Estado.
+
+No serán materia de queja administrativa, los aspectos estrictamente de orden jurisdiccional o aquellos derivados de cuestiones procesales comunes, en cuyos casos proceden los recursos e incidentes previstos por la ley. En cambio, los motivos de queja administrativa podrán referirse a la actuación irregular del servidor público cuando objetivamente aparezca que se apartó de los principios de imparcialidad, honestidad y legalidad que deben regir su desempeño.
 
 ### CAPITULO UNICO
 
@@ -1965,23 +1985,39 @@ IV.- Las asociaciones de abogados registradas en el Supremo Tribunal de Justicia
 
 Las asociaciones de abogados debidamente registradas ante la Presidencia del Supremo Tribunal de Justicia podrán ejercer las acciones a que se refiere este capítulo cuando se afecte el interés general de la agrupación profesional, por medio del órgano que prescriban sus estatutos o el que acuerde la Asamblea General para todos los casos, pero nunca para casos especiales.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2014)</small>
+
 ###### ARTICULO 114.
 
 El procedimiento de queja se substanciará conforme a las siguientes reglas:
 
-I.- La queja deberá presentarse por escrito con expresión del domicilio para oír notificaciones, en cuyo defecto se harán por lista o cédula, según corresponda, y el interesado deberá acompañar o en su caso anunciar las pruebas que sustenten sus imputaciones. Sin dichos requisitos no se dará trámite a la misma;
+I.- La queja deberá presentarse por escrito, con expresión del nombre y firma de quien la promueve, carácter con el que comparece, domicilio para oír y recibir notificaciones dentro de la capital del Estado, en cuyo defecto se harán por lista o cédula, según corresponda; el interesado además deberá precisar dentro de su escrito, el nombre y cargo del servidor público sujeto de la queja, la narración de los actos y omisiones que den motivo a la queja de una forma clara y precisa, así como, en su caso, ofrecer las pruebas que sustenten sus imputaciones. Sin la cobertura de dichos requisitos no se dará trámite a la queja;
 
-II.- La queja se notificará al servidor público involucrado para que exprese lo que a su derecho convenga en un término de cinco días; la Presidencia o el Pleno, según el caso, podrán recibir y desahogar por si, o a través de los Jueces, cualquier medio de prueba, de los permitidos por la ley, que a su juicio influya al mejor conocimiento de los hechos. Las pruebas sólo podrán recibirse en el lapso, que será común para ofrecerlas y desahogarlas, comprendido entre la conclusión del otorgado al servidor y el día anterior al en que deba resolverse. Las pruebas se recibirán conforme a las reglas del Código de Procedimientos Civiles; y,
+II.- La queja se notificará al servidor público involucrado, para que exprese lo que a su derecho convenga en cuanto a lo que se le imputa ante el órgano competente para la resolución de la queja, así como para acompañar u ofrecer las pruebas de su intención, dentro del término de cinco días, aumentándose un día por cada ochenta kilómetros o fracción que exceda de la décima parte por razón de la distancia que medie entre la capital y la localidad donde se ubique el órgano jurisdiccional o la unidad administrativa en donde se desempeñe el servidor público involucrado. La falta de contestación oportuna de la queja, acarreará la pérdida del derecho para ofrecer y desahogar pruebas al servidor público.
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+En caso de que el servidor público, ya no se encuentre desempeñando el cargo que ostentaba al ocurrir los hechos u omisiones motivo de la queja, el órgano competente para resolver proveerá y tomará las medidas que sean necesarias para efectos de que dicho servidor público tenga acceso a las actuaciones, testimonios y documentos relativos al asunto de donde emana la queja a fin de que pueda integrar el informe mencionado en el párrafo inmediato anterior, corriendo el término correspondiente hasta en tanto tenga el acceso antes descrito.
 
-III.- Transcurrido el plazo descrito en la fracción anterior, se dictará resolución en un término que no podrá exceder de quince días. Si la queja fuere desechada, maliciosa o notoriamente improcedente se impondrá al quejoso y a su asesor una multa hasta por el importe de treinta días de salario mínimo vigente en la capital del Estado, si se tratare de un Juez de Primera Instancia, Juez Menor o Juez de Paz y, de sesenta si se trata de un Magistrado. La multa podrá ser de hasta veinte días de salario si se tratare de cualquier otro servidor público del Poder Judicial. No se dará curso a ninguna queja si el interesado o su asesor no acompañan a su escrito inicial certificado por el importe del máximo de la multa.
+El órgano competente para resolver, podrá recibir y desahogar por si, cualquier medio de prueba de los permitidos por la ley, que a su juicio pudieran conducir al mejor conocimiento de los hechos, teniendo la facultad de interrogar libremente al denunciante y al denunciado, practicar careos, decretar medidas para mejor proveer, así como poder encomendar la práctica de las diligencias probatorias que deban tener lugar fuera de la capital del Estado a los jueces competentes en las localidades correspondientes. Las pruebas sólo podrán ofrecerse dentro del escrito mediante el cual se presente la queja, así como en la contestación que de la misma elabore el servidor público, teniéndose un plazo común para su desahogo de diez días contados a partir de que haya vencido el término para la presentación de la contestación del servidor público sujeto de la queja;
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+III.- El órgano que resuelva tiene la facultad, en cualquier momento, desde la recepción del escrito de queja hasta antes de la conclusión del período probatorio, de proseguir con el procedimiento de manera oficiosa, por razones de interés público;
+
+IV.- Transcurrido el plazo para el desahogo de las pruebas, se dictará resolución en un término que no podrá exceder de quince días. Si la queja fuere notoriamente improcedente, se impondrá al quejoso una multa hasta por el importe de treinta días de salario mínimo vigente en la capital del Estado, si se tratare de un Juez de Primera Instancia, Juez Menor o Juez de Paz y, de sesenta si se trata de un Magistrado. La multa podrá ser de hasta veinte días de salario si se tratare de cualquier otro servidor público del Poder Judicial.
+
+No se dará curso a ninguna queja si el interesado o su asesor no acompañan a su escrito inicial certificado por el importe del máximo de la multa, a menos que a juicio del órgano que resuelva, basándose en evidencias o antecedentes, las conductas o hechos denunciados dentro del escrito deban ser objeto del presente procedimiento llevado de manera oficiosa;
+
+V.- Si el servidor público aceptare su responsabilidad en la realización de los hechos u omisiones objeto de la queja, se procederá de inmediato a dictar resolución, a no ser que quien conoce el procedimiento, disponga la recepción de pruebas para robustecer la veracidad de los hechos. La aceptación de responsabilidad en la comisión de los hechos, podrá tomarse en cuenta, acorde al arbitrio prudencial de quien resuelva, para atenuar la severidad de la sanción a imponer; y
+
+VI.- En contra de la resolución que se dicte sobre la queja administrativa, no se admitirá recurso alguno.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2014)</small>
+
+ARTICULO 114 BIS.- Para toda cuestión que emane del procedimiento de queja administrativa y que no sea contemplada dentro del presente Capítulo, se estará a lo dispuesto por el Código de Procedimientos Civiles del Estado de Tamaulipas.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2014)</small>
 
 ###### ARTICULO 115.
 
-Cuando se tenga conocimiento de hechos que pudieran constituir alguna falta administrativa, se dará vista al Consejo de la Judicatura para los efectos de iniciar el procedimiento previsto en el presente capítulo, con la modalidad que su trámite implique.
+Cuando algún servidor público del Poder Judicial del Estado tenga conocimiento de hechos u omisiones que pudieran constituir alguna falta administrativa, dará vista al Consejo de la Judicatura para, en su caso, iniciar el procedimiento previsto en el presente Capítulo.
 
 ## TITULO SEXTO. DE LAS VISITAS A LOS RECLUSORIOS
 
@@ -2545,7 +2581,7 @@ VII.- Informar acerca de las características técnicas de los productos o servi
 
 VIII.- Actualización constante sobre los avances tecnológicos y científicos que convengan y puedan aplicarse en los programas de modernización del Poder Judicial;
 
-IX.- Instalar y mantener en adecuado funcionamiento las redes de computadoras en las diferentes áreas del Poder Judicial; y (sic),
+IX.- Instalar y mantener en adecuado funcionamiento las redes de computadoras en las diferentes áreas del Poder Judicial; y,
 
 > <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
 
@@ -3940,3 +3976,13 @@ El Consejo de la Judicatura del Estado proveerá lo conducente para contar con l
 ###### ARTÍCULO QUINTO.
 
 El Consejo de la Judicatura del Estado, en razón de la cantidad de causas penales que existiesen durante el desarrollo de la implementación del Sistema de Justicia Penal Acusatorio y Oral, podrá facultar a los Jueces de Control para actuar en los diferentes Distritos que integran la Región Judicial que les corresponda; y a los Tribunales de Enjuiciamiento para actuar de manera itinerante y realizar sus atribuciones en las diferentes Regiones Judiciales. Asimismo, en la designación de Jueces de Control y de quienes integren Tribunales de Enjuiciamiento, designación de Jueces de Control el Consejo podrá habilitar a Jueces de Primera Instancia, que estén suficientemente capacitados, para que temporalmente realicen las funciones inherentes a dicho Sistema, sin dejar de atender las relativas a su encargo.
+
+P.O. 28 DE OCTUBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos de queja administrativa que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, deberán concluir conforme al procedimiento con el que hayan dado comienzo.
