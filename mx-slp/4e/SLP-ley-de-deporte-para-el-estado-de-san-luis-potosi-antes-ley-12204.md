@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-deporte-para-el-estado-de-san-luis-potosi-antes-ley-1220
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-26"
-last_updated: "2013-08-01"
+last_updated: "2014-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DEPORTE PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 26 de agosto de 1996.
 
@@ -399,6 +399,10 @@ Las personas físicas y morales e instituciones deportivas, que cuenten con inst
 
 El Instituto Potosino del Deporte promoverá el funcionamiento eficiente de instalaciones deportivas de uso público, programándolas de tal manera que presten servicio al mayor número de deportistas.
 
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2014)</small>
+
+Para el caso de deportistas destacados que comprueben participar en justas deportivas como representantes de la Entidad a nivel regional, nacional o internacional, y/o que ostenten la obtención de algún campeonato mundial o nacional, tendrán acceso en forma gratuita a las instalaciones deportivas de uso público dependientes del Estado.
+
 ###### ARTICULO 42.
 
 Los equipos, clubes, ligas y asociaciones deportivas procurarán con recursos propios, la construcción, mantenimiento y diversificación de las instalaciones que utilicen, con el propósito de tener mejores condiciones para la práctica del deporte.
@@ -694,6 +698,12 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 P.O. 1 DE AGOSTO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 28 DE OCTUBRE DE 2014.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
