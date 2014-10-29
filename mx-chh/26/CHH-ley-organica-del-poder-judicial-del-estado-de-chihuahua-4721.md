@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-4721"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-01-04"
-last_updated: "2014-05-28"
+last_updated: "2014-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA, PUBLICADO EN EL P.O. DE 29 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de enero de 1989.
 
@@ -489,7 +491,7 @@ VI. Centrales de notificadores y ministros ejecutores.
 
 VII. Departamento de estudios sicológicos y socioeconómicos.
 
-VIII. Departamento de evaluación y control presupuesta.
+VIII. Departamento de evaluación y control presupuesta (sic).
 
 IX. Fondo auxiliar para la administración de justicia.
 
@@ -911,7 +913,7 @@ X. Encomendar a los Jueces del Estado conforme a su ramo, la práctica de dilige
 
 XI. Proveer en la esfera administrativa todo lo necesario para el buen despacho de la oficina;
 
-XII. Otorgar licencia al personal de la Sala hasta por diez días, comunicando su concesión a la Secretaría General del Tribunal; y (sic)
+XII. Otorgar licencia al personal de la Sala hasta por diez días, comunicando su concesión a la Secretaría General del Tribunal; y
 
 > <small>(REFORMADA, P.O. 29 DE JUNIO DE 2013)</small>
 
@@ -3580,3 +3582,95 @@ Los bienes muebles e inmuebles, derechos, recursos financieros y demás activos 
 ###### ARTÍCULO QUINTO.
 
 Los servidores públicos y empleados del Tribunal Estatal Electoral, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral y continuarán con el sistema de seguridad social empleado hasta la entrada en vigor del presente Decreto.
+
+P.O. 29 DE OCTUBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica del Poder Judicial del Estado, publicada en el Periódico Oficial del Estado de Chihuahua número 1, del cuatro de enero de mil novecientos ochenta y nueve.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley de la Defensoría Pública del Estado de Chihuahua.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan, de la Ley de Mediación del Estado de Chihuahua y de otros ordenamientos legales, las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Los magistrados que al día de la entrada en vigor del presente Decreto, se encuentren en situación de jubilación en términos de la ley aplicable y hayan desempeñado sus funciones al menos por un periodo de cinco años, concluirán su encargo y cesarán sus funciones a partir de esa fecha y recibirán los beneficios correspondientes a los magistrados, de conformidad con la legislación vigente al momento de su designación.
+
+A efecto de lo anterior, el día de la entrada en vigor del presente Decreto, el Instituto de Pensiones Civiles del Estado emitirá las constancias relativas a los años de servicio que tengan registrados como trabajados la totalidad de los magistrados integrantes del Pleno del Supremo Tribunal de Justicia, con independencia de sus aportaciones al fondo propio; mismas que serán entregadas de forma inmediata al Secretario General de dicho Tribunal, quien hará del conocimiento a cada uno de los magistrados en situación de jubilación que se encuentran en la hipótesis del párrafo anterior, y a su vez dará inicio a los trámites respectivos.
+
+La notificación a que refiere el párrafo anterior, se realizará de manera personal en la sala de su adscripción y en caso de no encontrarse presente alguno de los magistrados, se hará mediante cédula que se fije en los estrados de la misma. En ambos casos, la notificación surtirá efectos de manera inmediata.
+
+###### ARTÍCULO SEXTO.
+
+Los magistrados designados conforme al artículo 103 de la Constitución local, vigente antes de la reforma aprobada mediante Decreto No. 579/2014 I P.O., publicado en el Periódico Oficial del Estado número 84 de fecha dieciocho de octubre de 2014, que no se ubiquen en el supuesto a que se refiere el artículo anterior, concluirán su encargo y cesarán sus funciones a partir de la fecha en que se encuentren en situación de jubilación, siempre y cuando hayan desempeñado el cargo cuando menos por un periodo de cinco años.
+
+En el supuesto de que un magistrado cumpliere los requisitos para su jubilación, mas no haya desempeñado el cargo por el plazo señalado, concluirá su encargo y cesará en sus funciones al momento en que esto último suceda.
+
+En ambos supuestos, recibirán los beneficios correspondientes, de conformidad con la legislación vigente al momento de su designación.
+
+###### ARTÍCULO SÉPTIMO.
+
+A fin de cubrir las ausencias absolutas que se originen en términos del Artículo Quinto Transitorio, deberá conformarse la Comisión especial que señala el artículo 103 de la Constitución Política del Estado de Chihuahua.
+
+La Comisión deberá quedar integrada e instalada dentro de los tres días siguientes a partir del inicio de vigencia de este Decreto y presentará ante el Congreso del Estado las ternas necesarias para cubrir las vacantes de magistrados, dentro de los treinta días siguientes a su instalación, a fin de que este nombre a quienes asumirán el cargo en un plazo máximo de treinta días posteriores a la recepción de las propuestas.
+
+Durante el plazo que transcurra entre la notificación que realice el Secretario General a los magistrados en situación de jubilación a que se refiere el Artículo Quinto Transitorio y la designación de quienes habrán de ocupar las magistraturas vacantes, ejercerá las funciones de magistrado el secretario de acuerdos de la sala que corresponda o, en su defecto, el funcionario que designe el Presidente del Supremo Tribunal de Justicia del Estado.
+
+###### ARTÍCULO OCTAVO.
+
+La Comisión referida en el artículo precedente, dentro del plazo señalado en el mismo, hará la propuesta de la terna para la designación del Magistrado de la Sala de lo Contencioso Administrativo y Fiscal, así como de las magistraturas que se encuentren pendientes de designar de forma definitiva.
+
+###### ARTÍCULO NOVENO.
+
+Para las designaciones aludidas en los artículos transitorios precedentes, según el número de cargos por cubrir, la Comisión especial propondrá las ternas para ocupar las vacantes, integrándolas, en un caso, únicamente con personas que presten sus servicios al Poder Judicial, y en otro, solo con abogados externos a dicho Poder, de manera alternada.
+
+###### ARTÍCULO DÉCIMO.
+
+Las disposiciones de la Ley Orgánica del Poder Judicial que contiene el presente Decreto, referentes a la duración del período de gestión de la Presidencia del Supremo Tribunal surtirán efectos a partir de su entrada en vigor, por lo que el Magistrado Presidente en funciones deberá concluir su encargo en la fecha que corresponda del año 2017.
+
+###### ARTÍCULO UNDÉCIMO.
+
+El Pleno expedirá el Reglamento Interior y demás disposiciones complementarias a que se refiere esta Ley, en un plazo no mayor de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO DUODÉCIMO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y los que se presenten antes de la instalación de la Sala de lo Contencioso Administrativo y Fiscal serán sustanciados y resueltos en términos de las disposiciones que se reforman.
+
+ARTÍCULO DECIMOTERCERO.- En tanto se expidan las disposiciones reglamentarias a que hace referencia este Decreto, seguirán vigentes aquellas expedidas con fundamento en la ley abrogada, en todo aquello que no contravenga las nuevas disposiciones.
+
+ARTÍCULO DECIMOCUARTO.- Hasta en tanto se conformen los órganos que establece este Decreto, continuarán en funciones los que ejercen las atribuciones correlativas.
+
+ARTÍCULO DECIMOQUINTO.- En tanto se expidan los nombramientos de conformidad con la Ley Orgánica del Poder Judicial del Estado, contenida en el Artículo Primero del presente Decreto, continuarán en vigor los otorgados por los órganos competentes en términos de la ley abrogada.
+
+ARTÍCULO DECIMOSEXTO.- Los procedimientos y actos administrativos que se encuentren en trámite o pendientes de ejecución a la entrada en vigor del presente Decreto, se regirán bajo las reglas procedimentales vigentes al inicio de su trámite.
+
+ARTÍCULO DECIMOSÉPTIMO.- A partir de la entrada en vigor del presente Decreto, se fija un término de treinta días para realizar el procedimiento de entrega recepción de los expedientes y demás documentos que conforman el archivo de la Defensoría de Oficio, a la Secretaría General del Supremo Tribunal de Justicia, por conducto del personal que esta designe.
+
+ARTÍCULO DECIMOCTAVO.- Los servidores públicos que en aplicación del presente Decreto pasen a formar parte del Instituto de la Defensoría Pública, en ninguna forma resultarán afectados en sus derechos laborales. Por cuanto hace a sus prestaciones de seguridad social, continuarán bajo el marco que actualmente les rige.
+
+ARTÍCULO DECIMONOVENO.- A partir de la entrada en vigor del presente Decreto, el Poder Ejecutivo contará con un plazo que no exceda de seis meses para efectuar la transferencia de la propiedad de los recursos materiales que correspondan a la Defensoría Pública en favor del Poder Judicial.
+
+###### ARTÍCULO VIGÉSIMO.
+
+Las menciones que se hagan en otras normas, a los órganos, instituciones y funcionarios, previstas en las normas y leyes abrogadas se entenderán referidas a los correlativos que este Decreto prevé.
+
+###### ARTÍCULO VIGÉSIMO PRIMERO.
+
+Se autoriza al Presidente del Supremo Tribunal de Justicia para realizar los ajustes presupuesta les y gestiones necesarias para dar cumplimiento a lo dispuesto en el presente Decreto, así como para asegurar la marcha del Poder Judicial.
+
+###### ARTÍCULO VIGÉSIMO SEGUNDO.
+
+Los derechos y obligaciones que se establecen en el presente Decreto para los funcionarios de carrera judicial, serán aplicables también para quienes fueron nombrados con fundamento en la ley que se abroga.
+
+###### ARTÍCULO VIGÉSIMO TERCERO.
+
+Se derogan las disposiciones que se opongan a lo dispuesto por el Artículo Segundo del presente Decreto.
