@@ -4,7 +4,7 @@ identifier: "CHP-codigo-penal-para-el-estado-de-chiapas-55156"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-14"
-last_updated: "2014-09-18"
+last_updated: "2014-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2014.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 14 de marzo de 2007.
 
@@ -2325,6 +2325,8 @@ Sólo se procederá por el delito de estupro por querella de la parte ofendida.
 
 ### Capítulo II. Abigeato
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 241.
 
 Comete el delito de abuso sexual, la persona que sin consentimiento de otra, ejecute en ésta un acto sexual, distinto a la cópula y sin el propósito de llegar a ella, o la obligue a observarlo o ejecutarlo.
@@ -2761,17 +2763,19 @@ Comete el delito de abigeato, el que se apodere de una o más cabezas de ganado 
 
 El delito de abigeato se sancionará conforme a lo siguiente:
 
-I. Si el robo fuere de una cabeza de ganado, se impondrá de tres años seis meses a siete años de prisión y multa de cinco a veinte días de salario.
+I. Si el robo fuere de una cabeza de ganado, se impondrá de cuatro a ocho años de prisión y multa de diez a treinta días de salario.
 
-II. Si el robo fuere de dos a diez cabezas de ganado, con la pena de seis a ocho años de prisión y multa de diez a veinticinco días de salario.
+II. Si el robo fuere de dos a diez cabezas de ganado, con la pena de ocho a diez años de prisión y multa de treinta a sesenta días de salario.
 
-III. Si excediere de diez y no de quince cabezas, con sanción de ocho a diez años de prisión y multa de quince a cincuenta días de salario.
+III. Si excediere de diez y no de quince cabezas, con sanción de doce a quince años de prisión y multa de cincuenta a setenta y cinco días de salario.
 
-IV. Si el número de cabezas fuere mayor de quince, con sanción de diez a doce años de prisión y multa de veinticinco a cien días de salario.
+IV. Si el número de cabezas fuere mayor de quince, con sanción de quince a veinte años de prisión y multa de ochenta a ciento veinte días de salario.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 292.
 
-Además de la pena que corresponda conforme al artículo anterior, se aplicará al sujeto activo, de seis meses a tres años de prisión, cuando realice la conducta en cualesquiera de las circunstancias siguientes:
+Además de la pena que corresponda conforme al artículo anterior, se aplicará al sujeto activo, de dos años a seis años de prisión, cuando realice la conducta en cualquiera de las circunstancias siguientes:
 
 a) Quebrantando la confianza o seguridad de una relación de servicio, trabajo o contractual sobre los semovientes, entre el sujeto activo y el ofendido.
 
@@ -5308,3 +5312,9 @@ Artículo Segundo.- Se derogan las disposiciones que tengan similar o menor jera
 P.O. 18 DE SEPTIEMBRE DE 2014.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE OCTUBRE DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
