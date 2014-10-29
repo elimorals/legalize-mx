@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-procuraduria-federal-de-la-defensa-del-15323"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-12-14"
-last_updated: "1999-12-14"
+last_updated: "2014-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15323&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1999-12-09"
 ---
 # REGLAMENTO DE LA PROCURADURIA FEDERAL DE LA DEFENSA DEL TRABAJO
 
-REGLAMENTO DE LA PROCURADURIA FEDERAL DE LA DEFENSA DEL TRABAJO
+REGLAMENTO DE LA PROCURADURÍA FEDERAL DE LA DEFENSA DEL TRABAJO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA PROCURADURÍA FEDERAL DE LA DEFENSA DEL TRABAJO, PUBLICADO EN EL D.O.F. DE 29 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE OCTUBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 14 de diciembre de 1999.
 
@@ -564,3 +566,15 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente al de su pu
 SEGUNDO.- Se abroga el Reglamento de la Procuraduría Federal de la Defensa del Trabajo, publicado en el Diario Oficial de la Federación el dos de junio de mil novecientos setenta y cinco.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los nueve días del mes de diciembre de mil novecientos noventa y nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Mariano Palacios Alcocer.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 29 DE OCTUBRE DE 2014.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento de la Procuraduría Federal de la Defensa del Trabajo, publicado en el Diario Oficial de la Federación el catorce de diciembre de mil novecientos noventa y nueve.
+
+TERCERO.- Continuarán en vigor las disposiciones administrativas vigentes, en lo que no se opongan al presente Reglamento.
+
+CUARTO.- Los asuntos que se encuentren en trámite a la entrada en vigor del presente Reglamento, se atenderán por las unidades administrativas hasta su conclusión conforme a las disposiciones vigentes al momento de su inicio.
