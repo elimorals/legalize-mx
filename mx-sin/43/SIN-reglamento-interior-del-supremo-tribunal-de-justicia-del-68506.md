@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-del-supremo-tribunal-de-justicia-del-68506"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-11"
-last_updated: "2013-10-28"
+last_updated: "2014-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO INTERIOR DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el lunes 11 de mayo de 2009.
 
@@ -205,7 +205,7 @@ I. Secretaría Particular;
 
 II. Secretaría Técnica;
 
-III. Auditoría interna; y, (sic)
+III. Auditoría interna; y,
 
 > <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2013)</small>
 
@@ -289,9 +289,9 @@ XI. Las demás que le sean asignadas por el Pleno o el Presidente.
 
 Son atribuciones de la Oficialía de Partes, las siguientes:
 
-I. Recibir y registrar los expedientes en los que se hubiere interpuesto recurso de apelación, escritos en los que se promuevan solicitudes de reconocimiento de inocencia, quejas oficiales y administrativas, incompetencias y promociones, cartas rogatorias, excitativas de justicia y solicitudes de restitución de menores, así como los exhortos que vienen de otros Estados, y los de los Jueces de Primera Instancia del Estado de Sinaloa que deban ser diligenciados en otras entidades federativas;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2014)</small>
 
-Los asuntos, escritos y promociones a que se refiere el párrafo anterior, deberán ser turnados a la autoridad competente que corresponda dentro de las primeras horas de labores del día hábil siguiente al de su recepción. Tratándose de asuntos urgentes que el oficial de partes calificará bajo su estricta responsabilidad, la remisión se hará inmediatamente.
+I. Recibir y registrar los expedientes en los que se hubiere interpuesto recurso de apelación, escritos en los que se promuevan solicitudes de reconocimiento de inocencia, quejas oficiales y administrativas, incompetencias y promociones, cartas rogatorias, excitativas de justicia y solicitudes de restitución de menores;
 
 II. Recibir, registrar, clasificar y remitir de manera oportuna a la Presidencia del Supremo Tribunal de Justicia, la correspondencia dirigida a ésta y al Pleno, con excepción de la que se refiere en la fracción IV del artículo 33 de este Reglamento;
 
@@ -419,7 +419,7 @@ XIII. Llevar los libros siguientes:
 
 a) De actas de Acuerdos del Tribunal Pleno, por orden cronológico.
 
-b) De exhortos y despachos.
+b) (DEROGADO, P.O. 29 DE OCTUBRE DE 2014)
 
 c) De registro de quejas.
 
@@ -501,15 +501,11 @@ II. Dar trámite a las Cartas Rogatorias y Solicitudes de Restitución de Menore
 
 III. Recepción de documentación de peritos oficiales y actualización de la Lista correspondiente;
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+IV. (DEROGADA, P.O. 29 DE OCTUBRE DE 2014)
 
-IV. Atender los exhortos que vienen de otros Estados, elaborando los oficios para los Jueces exhortados;
+V. (DEROGADA, P.O. 29 DE OCTUBRE DE 2014)
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
-
-V. Atender los exhortos de los Jueces que serán diligenciados en otras entidades federativas, elaborando los oficios respectivos, así como la certificación de las firmas del Juez y del Secretario con que actúa. En tratándose de exhortos emitidos y dirigidos en el Estado, tan sólo se elabora el oficio;
-
-VI. Analizar cada exhorto, y si se encuentran razones que imposibiliten su diligenciación, proponer al Secretario de Acuerdos su devolución;
+VI. (DEROGADA, P.O. 29 DE OCTUBRE DE 2014)
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
 
@@ -875,11 +871,11 @@ XI. Garantizar la eficiencia del sistema de información contable, control de in
 
 XII. Brindar asesoría en la ejecución de las labores financieras y presupuestarias a todas las áreas destinatarias de recursos presupuestales del Poder Judicial;
 
-XIII. Gestionar programas de capacitación y asesoría informática y contable para el personal adscrito a sus Unidades; y, (sic)
+XIII. Gestionar programas de capacitación y asesoría informática y contable para el personal adscrito a sus Unidades; y,
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2012)</small>
 
-XIV. Sustituir al Oficial Mayor en sus ausencias temporales, accidentales o en los asuntos en que aquél tenga un impedimento legal; y, (sic)
+XIV. Sustituir al Oficial Mayor en sus ausencias temporales, accidentales o en los asuntos en que aquél tenga un impedimento legal; y,
 
 > <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2012)</small>
 
@@ -1409,7 +1405,7 @@ VII. Dirigir y promover las políticas de seguridad sobre información, sistemas
 
 VIII. Coordinar las áreas a su cargo respecto a informes de labores y requerimientos administrativos;
 
-IX. Representar al Poder Judicial ante el Consejo Estatal de Seguridad Pública, en la gestión y administración de los recursos que se le asignen, ejerciéndolos en coordinación con la dependencia a la que se destinen; y (sic),
+IX. Representar al Poder Judicial ante el Consejo Estatal de Seguridad Pública, en la gestión y administración de los recursos que se le asignen, ejerciéndolos en coordinación con la dependencia a la que se destinen; y,
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2012)</small>
 
@@ -1457,7 +1453,9 @@ XX. Las demás que se deriven de los ordenamientos aplicables, acuerdos del Plen
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2012)</small>
 
-#### SECCIÓN II. DEL ADMINISTRADOR DE PROYECTOS Y ESTÁNDARES TECNOLOGÍCOS; (SIC)
+#### SECCIÓN II
+
+DEL ADMINISTRADOR DE PROYECTOS Y ESTÁNDARES TECNOLOGÍCOS;
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2012)</small>
 
@@ -1581,7 +1579,7 @@ XII. Las demás que acuerde el Pleno, el Presidente, o el Director.
 
 La Dirección contará con Departamentos de Tecnologías de Información y Comunicaciones Regionales en las siguientes Zonas:
 
-I. Zona Norte , con residencia en la ciudad de Los Mochis, proporcionará el servicio a los Distritos Judiciales de Ahome, El Fuerte, Choix, Guasave, Sinaloa, Angostura Salvador Alvarado y Mocorito;
+I. Zona Norte, con residencia en la ciudad de Los Mochis, proporcionará el servicio a los Distritos Judiciales de Ahome, El Fuerte, Choix, Guasave, Sinaloa, Angostura Salvador Alvarado y Mocorito;
 
 II. Zona Centro, con residencia en la cuidad de Culiacán Rosales, proporcionará el servicio a los Distritos Judiciales de Culiacán, Badiraguato y Navolato; y,
 
@@ -1794,3 +1792,13 @@ P.O. 28 DE OCTUBRE DE 2013.
 PRIMERO.- Se fija el día 04 de noviembre del 2013 como fecha en la que iniciará su funcionamiento la Oficialía de Partes del Supremo Tribunal de Justicia.
 
 SEGUNDO.- Publíquese este acuerdo en el Periódico Oficial "El Estado de Sinaloa" y comuníquese a los órganos jurisdiccionales y administrativos del Poder Judicial del Estado para su debido cumplimiento.
+
+P.O. 29 DE OCTUBRE DE 2014.
+
+###### ARTICULO PRIMERO.
+
+El presente Acuerdo entrará en vigor el día tres de noviembre de dos mil catorce.
+
+###### ARTICULO SEGUNDO.
+
+Publíquese el presente Acuerdo en el Periódico Oficial "El Estado de Sinaloa".
