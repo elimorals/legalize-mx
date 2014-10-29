@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-procuraduria-general-de-justicia-del-70288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-08-19"
-last_updated: "2014-08-13"
+last_updated: "2014-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 19 de agosto de 2009.
 
@@ -1098,6 +1098,10 @@ XVI. Fiscalía Especializada Jurídica, Consultiva y de Legislación.
 XVII. Fiscalía Especializada para la Atención de los Delitos Ambientales.
 
 XVIII. Fiscalía Especializada para la Atención e Investigación de los Delitos Cometidos por Adolescentes.
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2014)</small>
+
+XIX. Fiscalía Especializada para la Atención del Delito de Abigeato.
 
 El funcionamiento y atribuciones específicas de las Fiscalías Especializadas, estarán determinadas en la presente Ley, el Reglamento de la misma y demás disposiciones aplicables.
 
@@ -2384,3 +2388,11 @@ Artículo Tercero.- Los recursos humanos, materiales y financieros, que a la ent
 Artículo Cuarto.- Los asuntos que se encuentren en trámite en la Coordinación de Proyectos Estratégicos, Consultivos y Enlace Interinstitucional, exclusivamente por lo que hace a las funciones relacionadas con la Implementación del Sistema de Justicia Penal, seguirán su trámite y serán atendidos por la Fiscalía Especializada en la Implementación y Evaluación del Sistema Penal Acusatorio; y por lo que respecta a las funciones de proyectos estratégicos, consultivas, de legislación, transparencia y de enlace interinstitucional, seguirán su trámite ante la Fiscalía Especializada Jurídica, Consultiva y de Legislación.
 
 Artículo Quinto.- El Titular de la Procuraduría, en un término no mayor a 30 días hábiles, contados a partir de la entrada en vigor del presente Decreto, someterá a consideración del Ejecutivo del Estado, las adecuaciones que al efecto requiera el Reglamento de su Ley Orgánica, para su aprobación, expedición y publicación correspondiente.
+
+P.O. 29 DE OCTUBRE DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- El Titular de la Procuraduría General de Justicia del Estado, en un término no mayor de 30 días hábiles, contados a partir de la entrada en vigor del presente Decreto, someterá a consideración del Ejecutivo del Estado, las adecuaciones que al efecto requiera el Reglamento de su Ley Orgánica, para su aprobación, expedición y publicación correspondiente.
