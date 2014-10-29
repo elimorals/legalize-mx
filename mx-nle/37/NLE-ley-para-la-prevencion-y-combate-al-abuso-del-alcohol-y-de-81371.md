@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-prevencion-y-combate-al-abuso-del-alcohol-y-de-8137
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-18"
-last_updated: "2014-04-16"
+last_updated: "2014-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA LA PREVENCIÓN Y COMBATE AL ABUSO DEL ALCOHOL Y DE REGULACIÓN PARA SU VENTA Y CONSUMO PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 18 de mayo de 2011.
 
@@ -1205,23 +1205,39 @@ c) La comisión revisora que constituya el municipio, analizará la documentaci�
 
 d) En el caso que la resolución de la comisión confirme procedencia de la clausura definitiva, emitirá resolución en tal sentido y se notificará a la Tesorería a fin de que proceda en los términos del artículo 77 de esta Ley. En caso contrario, ordenará el levantamiento inmediato de los sellos de clausura.
 
-### CAPÍTULO II. PROCEDIMIENTO PARA LA SUSPENSIÓN DE LA LICENCIA DE CONDUCIR
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE OCTUBRE DE 2014)</small>
+
+### CAPÍTULO II. PROCEDIMIENTO PARA LA SUSPENSIÓN O CANCELACIÓN DE LA LICENCIA DE CONDUCIR
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2014)</small>
 
 ###### ARTÍCULO 81.
 
-Las autoridades, al tener conocimiento de la comisión de infracciones que tengan como sanción la suspensión de licencias de conducir, lo notificarán de inmediato a la autoridad competente, remitiéndole la licencia cuando sea posible y la documentación en la que consten las infracciones cometidas, debiendo retener en un plazo de hasta 45 días naturales la licencia de conducir, así como tomar las demás medidas necesarias para evitar que la persona continúe conduciendo cualquier vehículo.
+Las autoridades municipales, al tener conocimiento de la comisión de infracciones que tengan como sanción la suspensión o cancelación de licencias de conducir.
 
-Inmediatamente después, la autoridad encargada de la expedición y renovación de licencias de conducir, dentro de los siguientes diez días hábiles notificará al titular de la licencia a fin de que dentro del plazo de quince días hábiles manifieste lo que a su derecho convenga, presente las pruebas y genere los alegatos de su intención.
+I. Retendrán inmediatamente de forma provisional, como medida preventiva, la licencia del conductor del vehículo;
 
-Vencido el término para su defensa, la autoridad resolverá en definitiva y lo notificará dentro de los quince días hábiles siguientes al titular de la licencia.
+II. Tomarán las medidas necesarias, de acuerdo a la normativa, para evitar que el titular de la licencia continúe conduciendo;
+
+III. Notificarán de inmediato la retención a la autoridad estatal competente en materia de expedición de licencias; y
+
+IV. Notificarán a la autoridad municipal competente, remitiéndole la licencia y copia del documento en el que consten las infracciones cometidas para efectos de que ésta sustancie el procedimiento correspondiente y emita la resolución que proceda.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2014)</small>
 
 ###### ARTÍCULO 82.
 
-Una vez decretada la suspensión de la licencia de conducir, la autoridad encargada de la expedición y renovación de las licencias de conducir efectuará las anotaciones correspondientes en el registro y control de dichas sanciones, así como del cumplimiento de las mismas, lo cual deberá tomarse en cuenta para determinar la reincidencia.
+La autoridad municipal dentro de los siguientes diez días hábiles, contados a partir de la fecha de la infracción, notificará al titular de la licencia a fin de que dentro del plazo de quince días hábiles manifieste lo que a su derecho convenga, presente las pruebas y genere los alegatos de su intención.
+
+Vencido el término para su defensa, dicha autoridad resolverá en definitiva y lo notificará dentro de los quince días hábiles siguientes al titular de la licencia.
+
+Posteriormente, la mencionada autoridad municipal notificará a la autoridad estatal competente en materia de expedición de licencias, sobre la resolución definitiva y en su caso le remitirá la licencia retenida, a fin de que ésta efectúe las anotaciones correspondientes en la Base de Datos donde se registren dichas sanciones, así como su cumplimiento, lo cual deberá tomarse en cuenta para determinar la reincidencia.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2014)</small>
 
 ###### ARTÍCULO 83.
 
-La autoridad encargada de la expedición y renovación de las licencias de conducir podrá reactivar la licencia de conducir si el infractor demuestra haber cumplido la sanción, o en su caso, solicite y realice 20 horas de servicio en la comunidad por cada mes que se le haya decretado la suspensión de la licencia de conducir.
+Dicha autoridad municipal podrá reactivar la licencia de conducir si el infractor demuestra haber cumplido la sanción, o en su caso, solicite y realice 30 horas de servicio en la comunidad por cada mes que se le haya decretado la suspensión de la licencia de conducir, informando de (sic) a la autoridad estatal competente de la procedencia de esta reactivación.
 
 ###### ARTÍCULO 84.
 
@@ -1445,7 +1461,7 @@ El recurso de inconformidad procederá a instancia del interesado, contra las re
 
 I. Nieguen una licencia o permiso especial;
 
-II. Nieguen el cambio de domicilio, de giro o de titular del la licencia o el permiso especial;
+II. Nieguen el cambio de domicilio, de giro o de titular del (sic) la licencia o el permiso especial;
 
 III. Determinen la revocación de una licencia o permiso especial; y
 
@@ -1646,3 +1662,11 @@ P.O. 27 DE DICIEMBRE DE 2013.
 P.O. 16 DE ABRIL DE 2014.
 
 Único.- El presente Decreto entrara en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 29 DE OCTUBRE DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Artículo Segundo.- Los Municipios deberán adecuar sus reglamentos, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+Artículo Tercero.- Los procedimientos administrativos iniciados con anterioridad, continuarán hasta su conclusión conforme a las normas vigentes al momento de su inicio.
