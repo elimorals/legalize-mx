@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2014-08-15"
+last_updated: "2014-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -10803,7 +10803,9 @@ La reparación del daño debe consistir en el restablecimiento de la situación 
 
 Si el daño se causa a las personas son producir su muerte ni su incapacidad permanente, total o parcial, la reparación consistirá en el pago de los servicios médicos, medicinas, de hospitalización y los necesarios para la curación de la víctima.
 
-En cuanto el monto de la indemnización, será de hasta tres tantos de lo establecido en la Ley Federal del Trabajo para el cálculo de la misma.
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2014)</small>
+
+En cuanto al monto de la indemnización, será conforme a lo establecido en la Ley Federal del Trabajo para el cálculo de la misma.
 
 El pago de los daños, así como de la indemnización señalada en el párrafo anterior, deberán ser proporcionales a la necesidad de la víctima y a la capacidad de quien está obligado a pagarla, sin que pueda llegar a constituir una suma que lesione los legítimos derechos de la familia de quien infiera el daño.
 
@@ -10817,9 +10819,11 @@ Art. 1812 Bis II.- Si el daño origina la muerte, o la incapacidad permanente to
 
 La reparación del daño a que se refiere el párrafo anterior deberá ser proporcional a la necesidad de la víctima y a la capacidad de quien está obligado a pagarla, sin que pueda llegar a constituir una suma que lesione los legítimos derechos de la familia de quien infiera el daño.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2014)</small>
 
-Art. 1812 Bis III.- En el caso del artículo anterior, el responsable pagará además, una indemnización que será de hasta tres tantos de lo establecido en la Ley Federal del Trabajo para el cálculo de la misma, la cual deberá ser proporcional a la necesidad de la víctima y a la capacidad de quien está obligado a pagarla, sin que pueda llegar a constituir una suma que lesione los legítimos derechos de la familia de quien infiera el daño.
+Art. 1812 Bis III.- En el caso del artículo anterior, el responsable pagará además, una indemnización que será conforme a lo establecido en la Ley Federal del Trabajo para el cálculo de la misma, la cual deberá ser proporcional a la necesidad de la víctima y a la capacidad de quien está obligado a pagarla, sin que pueda llegar a constituir una suma que lesione los legítimos derechos de la familia de quien infiera el daño.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 Los créditos por indemnización, cuando la víctima fuere asalariado, son intransferibles y se cubrirán en una sola exhibición, salvo convenio entre las partes.
 
@@ -17080,3 +17084,7 @@ Segundo.- Para efectos de lo dispuesto en la fracción III del artículo 1149 de
 P.O. 15 DE AGOSTO DE 2014.
 
 Único: El presente Decreto entrará en vigor al día siguiente al de su publicación.
+
+P.O. 29 DE OCTUBRE DE 2014.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
