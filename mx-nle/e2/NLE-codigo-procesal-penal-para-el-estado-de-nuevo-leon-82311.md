@@ -4,7 +4,7 @@ identifier: "NLE-codigo-procesal-penal-para-el-estado-de-nuevo-leon-82311"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-07-05"
-last_updated: "2013-12-31"
+last_updated: "2014-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82311&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CÓDIGO PROCESAL PENAL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el martes 5 de julio de 2011.
 
@@ -987,7 +987,7 @@ Efectos del criterio de oportunidad.
 
 Si se aplica un criterio de oportunidad, se extinguirá la acción penal, exclusivamente con respecto al autor o partícipe en cuyo beneficio se dispuso.
 
-No obstante, en el caso de las fracciones II y IV del artículo 94, en su caso, se suspenderá el ejercicio de la acción penal en relación con los hechos o las personas en cuyo favor se aplicó el criterio de oportunidad, hasta quince días naturales después de que quede firme la sentencia emitida en el juicio en el que haya colaborado (sic) proporcionando información que permita obtener una sentencia condenatoria o la sentencia condenatoria dictada en el diverso proceso, momento en que el Agente del Ministerio Público, deberá resolver definitivamente sobre el cese de esa persecución. En caso de que el Ministerio Público no resuelva en definitiva o niegue el cese definitivo de la persecución penal el imputado que haya prestado colaboración en el Juicio donde se dictó la sentencia condenatoria, podrá acudir dentro de los tres días posteriores a la notificación ante el Juez de Control en vía de queja o para impugnar dicha resolución, según sea el caso. Presentada la queja o la impugnación el Juez convocará a los intervinientes a una audiencia para resolver lo que corresponda.
+No obstante, en el caso de las fracciones II y IV del artículo 94, en su caso, se suspenderá el ejercicio de la acción penal en relación con los hechos o las personas en cuyo favor se aplicó el criterio de oportunidad, hasta quince días naturales después de que quede firme la sentencia emitida en el juicio en el que haya colaborado proporcionando información que permita obtener una sentencia condenatoria o la sentencia condenatoria dictada en el diverso proceso, momento en que el Agente del Ministerio Público, deberá resolver definitivamente sobre el cese de esa persecución. En caso de que el Ministerio Público no resuelva en definitiva o niegue el cese definitivo de la persecución penal el imputado que haya prestado colaboración en el Juicio donde se dictó la sentencia condenatoria, podrá acudir dentro de los tres días posteriores a la notificación ante el Juez de Control en vía de queja o para impugnar dicha resolución, según sea el caso. Presentada la queja o la impugnación el Juez convocará a los intervinientes a una audiencia para resolver lo que corresponda.
 
 Si la colaboración a que se refiere la fracción II del artículo 94 consiste en información falsa, o es proporcionada con el propósito de obstaculizar la investigación, el Agente del Ministerio Público reanudará el proceso en cualquier momento.
 
@@ -3973,7 +3973,7 @@ Inmediación.
 
 La audiencia se realizará con la presencia ininterrumpida de quienes deban intervenir. La presencia del Ministerio Público y del defensor del imputado durante la audiencia constituye un requisito de validez de la misma. En caso de que no asistan se procederá en términos del Artículo 167 de este Código.
 
-El Ministerio Público o el defensor sustituto podrá (sic) solicitar al Tribunal que aplace el inicio de la audiencia por un plazo razonable para la adecuada preparación de su intervención, y el Tribunal resolverá considerando la complejidad del caso, las circunstancias del abandono así como las posibilidades de aplazamiento.
+El Ministerio Público o el defensor sustituto podrá solicitar al Tribunal que aplace el inicio de la audiencia por un plazo razonable para la adecuada preparación de su intervención, y el Tribunal resolverá considerando la complejidad del caso, las circunstancias del abandono así como las posibilidades de aplazamiento.
 
 ###### Artículo 347.
 
@@ -4621,19 +4621,15 @@ Resolución del procedimiento abreviado.
 
 Admitida la solicitud del procedimiento abreviado, el Juez corroborará que se cumpla con lo dispuesto por el primer párrafo del Artículo 404, otorgará la palabra para que se realicen las manifestaciones que consideren convenientes y emitirá su fallo sobre condena o absolución. Citará a lectura pública de la sentencia, dentro de un plazo de cuarenta y ocho horas.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 409.
 
-Sentencia en el procedimiento abreviado.
+Sentencia en el procedimiento abreviado
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+En el procedimiento abreviado, el Ministerio Público solicitará al juez que en la sentencia se determine la proporción de la sanción que se cumplirá en prisión, la forma en que habrá de cumplirse el resto de la misma, así como los términos en los que operarán los beneficios a que se refieren las leyes aplicables.
 
-En caso de que el Juez condene al imputado aplicará la pena o sanción solicitada por el Ministerio Público.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2012)</small>
-
-El imputado que sea condenado por sentencia dictada en el procedimiento abreviado, no tendrá derecho a gozar del perdón judicial, conmutación de sanciones, remisión parcial de la pena, tratamiento preliberacional o libertad preparatoria.
-
-En ningún caso el procedimiento abreviado obstara a la concesión de alguna de las medidas alternativas consideradas en la Ley, cuando correspondiere.
+En caso de que el Juez condene al imputado, impondrá las sanciones en los términos solicitados por el Ministerio Público.
 
 ### Capítulo III. Procedimiento para inimputables
 
@@ -5463,6 +5459,8 @@ EL C. SECRETARIO DE SEGURIDAD PÚBLICA DEL ESTADO
 
 JAIME CASTAÑEDA BRAVO
 
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
 P.O. 28 DE DICIEMBRE DE 2012.
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
@@ -5484,3 +5482,11 @@ Lo anterior en los términos de los Artículos Transitorios Segundo y Quinto del
 P.O. 31 DE DICIEMBRE DE 2013.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 29 DE OCTUBRE DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Artículo Segundo.- Los Municipios deberán adecuar sus reglamentos, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+Artículo Tercero.- Los procedimientos administrativos iniciados con anterioridad, continuarán hasta su conclusión conforme a las normas vigentes al momento de su inicio.
