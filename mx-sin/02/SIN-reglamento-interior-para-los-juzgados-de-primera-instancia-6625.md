@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-para-los-juzgados-de-primera-instancia-6625
 country: "mx"
 rank: "reglamento"
 publication_date: "1983-10-05"
-last_updated: "2009-12-09"
+last_updated: "2014-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO INTERIOR PARA LOS JUZGADOS DE PRIMERA INSTANCIA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2014.
 
 Reglamento publicado en el Bis del Periódico Oficial del Estado de Sinaloa, el miércoles 5 de octubre de 1983.
 
@@ -255,7 +255,7 @@ Los Secretarios de los Juzgados tendrán las atribuciones que establecen los Có
 
 El Secretario Primero o el Secretario único en su caso, será el jefe inmediato de la oficina en el orden administrativo y dirigirá las labores de la misma de acuerdo con este Reglamento y las instrucciones y determinaciones del Juez que no se opongan a la Ley y al propio Reglamento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 1998)</small>
 
 ###### ARTICULO 32.
 
@@ -273,7 +273,7 @@ IV.- Ejercer bajo su responsabilidad por sí mismos y auxiliados por los emplead
 
 V.- Tener a su cargo el Archivo del Juzgado, manejándolo en su caso a través de los empleados correspondientes y cuidando que se mantenga debidamente ordenado;
 
-VI.- Auxiliar al Juez en las funciones administrativas que prevee (sic) este Reglamento;
+VI.- Auxiliar al Juez en las funciones administrativas que prevee este Reglamento;
 
 VII.- En unión del Juez firmar las resoluciones, actuaciones, oficios y demás correspondencia;
 
@@ -283,13 +283,27 @@ IX.- Guardar en la caja de seguridad del Juzgado los pliegos, escritos o documen
 
 X.- Vigilar la existencia de materiales y útiles de oficina, los que quedarán bajo su responsabilidad, haciendo los pedidos de faltantes oportunamente;
 
-XI.- Cuidar que se cumpla el presente Reglamento.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE OCTUBRE DE 2014)</small>
+
+XII. Atender los exhortos provenientes de otras entidades federativas;
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2014)</small>
+
+XIII. Atender los exhortos del Juzgado que serán diligenciados en otras entidades federativas, elaborando los oficios respectivos;
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2014)</small>
+
+XIV. Analizar cada exhorto, y si se encuentran razones que imposibiliten su diligenciación, realizar el procedimiento para la devolución a su lugar de origen; y,
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2014)</small>
+
+XV. Cuidar que se cumpla el presente Reglamento.
 
 ###### ARTICULO 33.
 
 Las atribuciones y obligaciones a que se refiere el artículo anterior serán cumplidas, en lo que sean aplicables, por el Secretario que tenga a su cargo el expediente.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO V. DE LOS ACTUARIOS ADSCRITOS A LOS JUZGADOS DE PRIMERA INSTANCIA
 
@@ -451,7 +465,7 @@ T R A N S I T O R I O
 
 Es dado en el Palacio del Poder Judicial del Estado, en la ciudad de Culiacán Rosales, Sinaloa, a los veintinueve días del mes de septiembre de mil novecientos ochenta y tres.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 17 DE ABRIL DE 1998.
 
@@ -464,3 +478,13 @@ PRIMERO.- El presente acuerdo entrará en vigor el día de su publicación en el
 P.O. 9 DE DICIEMBRE DE 2009.
 
 ÚNICO. Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 29 DE OCTUBRE DE 2014.
+
+###### ARTICULO PRIMERO.
+
+El presente Acuerdo entrará en vigor el día tres de noviembre de dos mil catorce.
+
+###### ARTICULO SEGUNDO.
+
+Publíquese el presente Acuerdo en el Periódico Oficial "El Estado de Sinaloa".
