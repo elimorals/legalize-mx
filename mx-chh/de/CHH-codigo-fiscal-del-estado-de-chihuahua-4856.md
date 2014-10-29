@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "2014-03-29"
+last_updated: "2014-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 CÓDIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2013.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 29 DE MARZO DE 2014 NO APLICA AL ARTICULADO DEL DECRETO 1307/2013 II P.O. PUBLICADO EN EL P.O. DE 18 DE DICIEMBRE DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2014.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -163,9 +161,9 @@ Se entiende que hay abuso o uso indebido del derecho privado, en todos los casos
 
 18.- Cuando las autoridades fiscales de acuerdo con una disposición legal, deban dictar una resolución que se apoye en las apreciaciones de determinados hechos y circunstancias, la resolución se fundará en el derecho y la equidad.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 29 OCTUBRE DE 2014)</small>
 
-19.- Las autoridades fiscales no podrán modificar ni revocar sus resoluciones favorables a los particulares, pero el Secretario de Hacienda podrá promover, ante el Supremo Tribunal de Justicia del Estado, la nulidad total o parcial de dichas resoluciones mediante juicio de oposición.
+19.- Las autoridades fiscales no podrán modificar ni revocar sus resoluciones favorables a los particulares, pero el Secretario de Hacienda del Estado podrá promover, ante el Supremo Tribunal de Justicia del Estado, la nulidad total o parcial de dichas resoluciones mediante juicio de oposición.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
@@ -665,7 +663,7 @@ El Secretario podrá dispensar la garantía del interés fiscal cuando, en relac
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2010)</small>
 
 70.- Las personas físicas o morales, mexicanas o extranjeras; la Federación, el Estado, los municipios y sus organismos descentralizados y demás entidades paraestatales, así como las personas de derecho público con autonomía derivada de la Constitución Política de los Estados Unidos Mexicanos o de la Constitución Política del Estado de Chihuahua, están obligadas a contribuir para los gastos públicos conforme a este Código y demás disposiciones fiscales estatales.
 
@@ -1603,7 +1601,7 @@ Si los causantes no cumplen con los requisitos que establece el párrafo anterio
 
 Disposiciones generales.
 
-> <small>(REFORMADO PRIMER PÁRARFO, P.O. 26 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE FEBRERO DE 2005)</small>
 
 186.- Están obligadas al pago de los impuestos cedulares establecidos en este Código, las personas físicas que perciban ingresos:
 
@@ -3537,11 +3535,15 @@ No se exigirá garantía adicional si en el procedimiento administrativo de ejec
 
 #### SECCION PRIMERA. DISPOSICIONES GENERALES
 
-398.- El Supremo Tribunal de Justicia del Estado conocerá en única instancia de los juicios de oposición.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2014)</small>
 
-La tramitación de dichos juicios se llevará ante las Salas de lo Civil, por riguroso turno, en la forma y términos que especifica este Código.
+398.- Las Salas de lo Contencioso Administrativo y Fiscal del Supremo Tribunal de Justicia del Estado conocerán en única instancia de los juicios de oposición, en la forma y términos que específica este Código.
 
-399.- Los magistrados del Supremo Tribunal de Justicia del Estado, no podrán ser recursados (sic) sin causa en los juicios de oposición, pero deberán excusarse y podrán ser recusados en la forma y términos que señala el Código de Procedimientos Civiles del Estado.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 29 DE OCTUBRE DE 2014)</small>
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2014)</small>
+
+399.- Los magistrados de las Salas de lo Contencioso Administrativo y Fiscal del Supremo Tribunal de Justicia del Estado, no podrán ser recusados sin causa en los juicios de oposición, pero deberán excusarse y podrán ser recusados en la forma y términos que señala el Código de Procedimientos Civiles del Estado.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
 
@@ -3631,7 +3633,9 @@ III.- Los términos serán comunes con excepción de los que se conceden para la
 
 I.- Contra actos que no afecten los intereses jurídicos del actor;
 
-II.- Contra actos que sean materia de otro juicio que se encuentre pendiente de resolución ante el Tribunal de Justicia, o que hayan sido materia de sentencia pronunciada por el mismo Tribunal, siempre que hubiere identidad de partes y se trate del mismo acto impugnado, aunque las violaciones alegadas sean diversas. También contra los actos o resoluciones respecto de los cuales se esté tramitando algún recurso administrativo;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2014)</small>
+
+II.- Contra actos que sean materia de otro juicio que se encuentre pendiente de resolución ante las Salas de lo Contencioso Administrativo y Fiscal, o que hayan sido materia de sentencia pronunciada por las mismas, siempre que hubiere identidad de partes y se trate del mismo acto impugnado, aunque las violaciones alegadas sean diversas. También contra los actos o resoluciones respecto de los cuales se esté tramitando algún recurso administrativo;
 
 III.- Contra actos consentidos, expresa o tácitamente, entendiéndose por estos últimos aquellos contra los que no se promovió el juicio dentro del término señalado en este Código;
 
@@ -3645,17 +3649,23 @@ VII.- Cuando de las constancias de autos apareciere claramente que no existe el 
 
 VIII.- En los demás casos en que la improcedencia resulte de alguna otra causa.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2014)</small>
 
-413.- El sobreseimiento del juicio es de orden público, en consecuencia se hará valer de oficio tanto por el Magistrado instructor cuanto por el Tribunal en pleno aún cuando aquél hubiese negado su procedencia. Procede el sobreseimiento del juicio:
+413.- El sobreseimiento del juicio es de orden público, en consecuencia, se hará valer de oficio por el magistrado de la Sala de lo Contencioso Administrativo y Fiscal que conozca del asunto. Procede el sobreseimiento del juicio:
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
 I.- Cuando el demandante desista del juicio.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
 II.- Cuando durante el juicio apareciere o sobreviniese alguna de las causas de improcedencia a que se refiere el artículo anterior.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 1973)</small>
 
 III.- Cuando, cualquiera que sea el estado del juicio, no se haya efectuado ningún acto procesal durante el término de ciento ochenta días, incluyendo los inhábiles y el demandante no haya promovido en ese mismo lapso.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
 IV.- En los demás casos en que por disposición legal haya impedimento para emitir resolución en cuanto al fondo.
 
@@ -3743,9 +3753,9 @@ X.- Contra los acuerdos dictados durante el procedimiento, no procederá ningún
 
 #### SECCION CUARTA. DEMANDA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2014)</small>
 
-414.- La demanda deberá presentarse directamente al Tribunal de Justicia o enviarse por correo certificado dentro de los quince días siguientes al en que surta efectos la notificación del acto impugnado, al en que haya tenido conocimiento de ellos ó de su ejecución o al en que se hubiese ostentado sabedor de los mismos. Cuando la notificación no sea necesaria, el plazo contará a partir del día siguiente al en que se haya practicado el requerimiento de pago.
+414.- La demanda deberá presentarse directamente ante las Salas de lo Contencioso Administrativo y Fiscal del Supremo Tribunal de Justicia o enviarse por correo certificado, dentro de los quince días siguientes al en que surta efectos la notificación del acto impugnado, al en que haya tenido conocimiento de ellos o de su ejecución o al en que se hubiese ostentado sabedor de los mismos. Cuando la notificación no sea necesaria, el plazo contará a partir del día siguiente al en que se haya practicado el requerimiento de pago.
 
 En los casos de negativa ficta, el interesado no está obligado a interponer la demanda dentro del término a que se refiere este artículo, pudiendo presentarla en cualquier tiempo mientras no se dicte resolución expresa y siempre que haya transcurrido el término respectivo.
 
@@ -3813,9 +3823,11 @@ c).- Cuando sin causa justificada el demandado no exhiba la prueba que le haya s
 
 423.- Procede la acumulación aunque las partes sean diversas y se invoquen distintas violaciones legales, cuando estén pendientes de resolución dos o más juicios intentados contra el mismo acto o contra varios puntos decisorios de una misma resolución o contra actos que, aunque diversos, sean unos antecedentes o consecuencia de los otros. También procederá la acumulación cuando las partes sean las mismas y se invoquen idénticas violaciones legales.
 
-424.- La acumulación se tramitará de oficio o a petición de parte ante la Sala que conoce del juicio que se haya promovido primero, en una sola audiencia en la que se hará la relación de los autos, se oirán los alegatos y se dictará la resolución que corresponda. Entre tanto se resuelve sobre la acumulación, se suspenderá el procedimiento en los juicios respectivos.
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2014)</small>
 
-Las solicitudes de acumulación notoriamente infundadas se desecharán de plano. Decretada la acumulación pasarán todos los autos a la Sala que conozca el asunto más antiguo.
+424.- La acumulación se tramitará de oficio o a petición de parte en el juicio que se haya promovido primero, en una sola audiencia en la que se hará la relación de los autos, se oirán los alegatos y se dictará la resolución que corresponda. Entre tanto se resuelve sobre la acumulación, se suspenderá el procedimiento en los juicios respectivos.
+
+Las solicitudes de acumulación notoriamente infundadas se desecharán de plano. Decretada la acumulación se integrarán todos los autos al asunto más antiguo.
 
 425.- Si la autoridad niega la suspensión del procedimiento de ejecución o rechaza la garantía ofrecida, podrá promoverse, hasta antes de notificarse la resolución que ponga fin a la instancia ante el Supremo Tribunal de Justicia, el incidente respectivo ante la Sala en que este radicado el juicio.
 
@@ -3823,7 +3835,9 @@ Las solicitudes de acumulación notoriamente infundadas se desecharán de plano.
 
 El Secretario de Hacienda podrá promover el mismo incidente para combatir las decisiones dictadas por las autoridades fiscales en materia de suspensión, que no se ajusten a las normas legales aplicables.
 
-426.- Promovido el incidente a que se refiere el artículo anterior, el magistrado instructor correrá traslado a la autoridad que haya negado la suspensión, rechazado la garantía o dictado la decisión impugnada por el término de tres días y citará, a una audiencia de pruebas y alegatos para dentro del decimoquinto día, en la que la sala dictará resolución que corresponda.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2014)</small>
+
+426.- Promovido el incidente a que se refiere el artículo anterior, el magistrado correrá traslado a la autoridad que haya negado la suspensión, rechazado la garantía o dictado la decisión impugnada por el término de tres días, y citará a una audiencia de pruebas y alegatos para dentro del decimoquinto día, dictar la resolución que corresponda.
 
 Si la autoridad no contesta el traslado o no se refiere a todos los hechos en su contestación, se presumirán ciertos, salvo prueba en contrario, los hechos que el promovente le impute de manera precisa.
 
@@ -3833,7 +3847,9 @@ Si la autoridad no contesta el traslado o no se refiere a todos los hechos en su
 
 427.- Todos los autos dictados dentro del procedimiento serán reclamables mediante el recurso de revocación. Este deberá interponerse a más tardar dentro del siguiente día al en que surta efectos la notificación del auto que se va a impugnar, excepto los acuerdos que se dicten dentro de la audiencia que deberán ser reclamados y resueltos de plano en ella.
 
-Interpuesto en tiempo el recurso el Tribunal suspenderá la ejecución del auto recurrido y ordenará correr traslado del escrito del recurrente a la parte contraria por el término de tres días. Evacuado que sea o concluído el plazo para hacerlo, sin más trámite se dictará resolución dentro de las 24 horas siguientes. No será necesario cumplir estas formalidades si el recurso se interpone contra acuerdos dictados dentro de la audiencia.
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2014)</small>
+
+Interpuesto en tiempo el recurso se suspenderá la ejecución del auto recurrido y ordenará correr traslado del escrito del recurrente a la parte contraria por el término de tres días. Evacuado que sea o concluido el plazo para hacerlo, sin más trámite se dictará resolución dentro de las 24 horas siguientes. No será necesario cumplir estas formalidades si el recurso se interpone contra acuerdos dictados dentro de la audiencia.
 
 #### SECCION OCTAVA. AUDIENCIA Y FALLO
 
@@ -3895,7 +3911,9 @@ c).- Violación de la disposición aplicada, o no haberse aplicado la disposici�
 
 d).- Desvío de poder, tratándose de sanciones.
 
-434.- Los fallos del Tribunal tendrán fuerza de cosa juzgada. Se fundarán en la Ley y examinarán todos y cada uno de los puntos controvertidos. En sus puntos resolutivos se expresará con claridad los actos cuya nulidad se declare o cuya validez se reconozca.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2014)</small>
+
+434.- Los fallos de las Salas de lo Contencioso Administrativo y Fiscal tendrán carácter de cosa juzgada. Se fundarán en la Ley y examinarán todos y cada uno de los puntos controvertidos. En sus puntos resolutivos se expresará con claridad los actos cuya nulidad se declare o cuya validez se reconozca.
 
 Si la sentencia declara la nulidad del acto impugnado, indicará las bases conforme a las cuales deberá dictar nueva resolución la autoridad fiscal, la que se pronunciará en un término no mayor de quince días.
 
@@ -4716,3 +4734,95 @@ DECRETO NO. 206/2013 I P.O., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 169 Y SE
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día primero de enero de 2014.
+
+P.O. 29 DE OCTUBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica del Poder Judicial del Estado, publicada en el Periódico Oficial del Estado de Chihuahua número 1, del cuatro de enero de mil novecientos ochenta y nueve.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley de la Defensoría Pública del Estado de Chihuahua.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan, de la Ley de Mediación del Estado de Chihuahua y de otros ordenamientos legales, las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Los magistrados que al día de la entrada en vigor del presente Decreto, se encuentren en situación de jubilación en términos de la ley aplicable y hayan desempeñado sus funciones al menos por un periodo de cinco años, concluirán su encargo y cesarán sus funciones a partir de esa fecha y recibirán los beneficios correspondientes a los magistrados, de conformidad con la legislación vigente al momento de su designación.
+
+A efecto de lo anterior, el día de la entrada en vigor del presente Decreto, el Instituto de Pensiones Civiles del Estado emitirá las constancias relativas a los años de servicio que tengan registrados como trabajados la totalidad de los magistrados integrantes del Pleno del Supremo Tribunal de Justicia, con independencia de sus aportaciones al fondo propio; mismas que serán entregadas de forma inmediata al Secretario General de dicho Tribunal, quien hará del conocimiento a cada uno de los magistrados en situación de jubilación que se encuentran en la hipótesis del párrafo anterior, y a su vez dará inicio a los trámites respectivos.
+
+La notificación a que refiere el párrafo anterior, se realizará de manera personal en la sala de su adscripción y en caso de no encontrarse presente alguno de los magistrados, se hará mediante cédula que se fije en los estrados de la misma. En ambos casos, la notificación surtirá efectos de manera inmediata.
+
+###### ARTÍCULO SEXTO.
+
+Los magistrados designados conforme al artículo 103 de la Constitución local, vigente antes de la reforma aprobada mediante Decreto No. 579/2014 I P.O., publicado en el Periódico Oficial del Estado número 84 de fecha dieciocho de octubre de 2014, que no se ubiquen en el supuesto a que se refiere el artículo anterior, concluirán su encargo y cesarán sus funciones a partir de la fecha en que se encuentren en situación de jubilación, siempre y cuando hayan desempeñado el cargo cuando menos por un periodo de cinco años.
+
+En el supuesto de que un magistrado cumpliere los requisitos para su jubilación, mas no haya desempeñado el cargo por el plazo señalado, concluirá su encargo y cesará en sus funciones al momento en que esto último suceda.
+
+En ambos supuestos, recibirán los beneficios correspondientes, de conformidad con la legislación vigente al momento de su designación.
+
+###### ARTÍCULO SÉPTIMO.
+
+A fin de cubrir las ausencias absolutas que se originen en términos del Artículo Quinto Transitorio, deberá conformarse la Comisión especial que señala el artículo 103 de la Constitución Política del Estado de Chihuahua.
+
+La Comisión deberá quedar integrada e instalada dentro de los tres días siguientes a partir del inicio de vigencia de este Decreto y presentará ante el Congreso del Estado las ternas necesarias para cubrir las vacantes de magistrados, dentro de los treinta días siguientes a su instalación, a fin de que este nombre a quienes asumirán el cargo en un plazo máximo de treinta días posteriores a la recepción de las propuestas.
+
+Durante el plazo que transcurra entre la notificación que realice el Secretario General a los magistrados en situación de jubilación a que se refiere el Artículo Quinto Transitorio y la designación de quienes habrán de ocupar las magistraturas vacantes, ejercerá las funciones de magistrado el secretario de acuerdos de la sala que corresponda o, en su defecto, el funcionario que designe el Presidente del Supremo Tribunal de Justicia del Estado.
+
+###### ARTÍCULO OCTAVO.
+
+La Comisión referida en el artículo precedente, dentro del plazo señalado en el mismo, hará la propuesta de la terna para la designación del Magistrado de la Sala de lo Contencioso Administrativo y Fiscal, así como de las magistraturas que se encuentren pendientes de designar de forma definitiva.
+
+###### ARTÍCULO NOVENO.
+
+Para las designaciones aludidas en los artículos transitorios precedentes, según el número de cargos por cubrir, la Comisión especial propondrá las ternas para ocupar las vacantes, integrándolas, en un caso, únicamente con personas que presten sus servicios al Poder Judicial, y en otro, solo con abogados externos a dicho Poder, de manera alternada.
+
+###### ARTÍCULO DÉCIMO.
+
+Las disposiciones de la Ley Orgánica del Poder Judicial que contiene el presente Decreto, referentes a la duración del período de gestión de la Presidencia del Supremo Tribunal surtirán efectos a partir de su entrada en vigor, por lo que el Magistrado Presidente en funciones deberá concluir su encargo en la fecha que corresponda del año 2017.
+
+###### ARTÍCULO UNDÉCIMO.
+
+El Pleno expedirá el Reglamento Interior y demás disposiciones complementarias a que se refiere esta Ley, en un plazo no mayor de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO DUODÉCIMO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y los que se presenten antes de la instalación de la Sala de lo Contencioso Administrativo y Fiscal serán sustanciados y resueltos en términos de las disposiciones que se reforman.
+
+ARTÍCULO DECIMOTERCERO.- En tanto se expidan las disposiciones reglamentarias a que hace referencia este Decreto, seguirán vigentes aquellas expedidas con fundamento en la ley abrogada, en todo aquello que no contravenga las nuevas disposiciones.
+
+ARTÍCULO DECIMOCUARTO.- Hasta en tanto se conformen los órganos que establece este Decreto, continuarán en funciones los que ejercen las atribuciones correlativas.
+
+ARTÍCULO DECIMOQUINTO.- En tanto se expidan los nombramientos de conformidad con la Ley Orgánica del Poder Judicial del Estado, contenida en el Artículo Primero del presente Decreto, continuarán en vigor los otorgados por los órganos competentes en términos de la ley abrogada.
+
+ARTÍCULO DECIMOSEXTO.- Los procedimientos y actos administrativos que se encuentren en trámite o pendientes de ejecución a la entrada en vigor del presente Decreto, se regirán bajo las reglas procedimentales vigentes al inicio de su trámite.
+
+ARTÍCULO DECIMOSÉPTIMO.- A partir de la entrada en vigor del presente Decreto, se fija un término de treinta días para realizar el procedimiento de entrega recepción de los expedientes y demás documentos que conforman el archivo de la Defensoría de Oficio, a la Secretaría General del Supremo Tribunal de Justicia, por conducto del personal que esta designe.
+
+ARTÍCULO DECIMOCTAVO.- Los servidores públicos que en aplicación del presente Decreto pasen a formar parte del Instituto de la Defensoría Pública, en ninguna forma resultarán afectados en sus derechos laborales. Por cuanto hace a sus prestaciones de seguridad social, continuarán bajo el marco que actualmente les rige.
+
+ARTÍCULO DECIMONOVENO.- A partir de la entrada en vigor del presente Decreto, el Poder Ejecutivo contará con un plazo que no exceda de seis meses para efectuar la transferencia de la propiedad de los recursos materiales que correspondan a la Defensoría Pública en favor del Poder Judicial.
+
+###### ARTÍCULO VIGÉSIMO.
+
+Las menciones que se hagan en otras normas, a los órganos, instituciones y funcionarios, previstas en las normas y leyes abrogadas se entenderán referidas a los correlativos que este Decreto prevé.
+
+###### ARTÍCULO VIGÉSIMO PRIMERO.
+
+Se autoriza al Presidente del Supremo Tribunal de Justicia para realizar los ajustes presupuestales y gestiones necesarias para dar cumplimiento a lo dispuesto en el presente Decreto, así como para asegurar la marcha del Poder Judicial.
+
+###### ARTÍCULO VIGÉSIMO SEGUNDO.
+
+Los derechos y obligaciones que se establecen en el presente Decreto para los funcionarios de carrera judicial, serán aplicables también para quienes fueron nombrados con fundamento en la ley que se abroga.
+
+###### ARTÍCULO VIGÉSIMO TERCERO.
+
+Se derogan las disposiciones que se opongan a lo dispuesto por el Artículo Segundo del presente Decreto.
