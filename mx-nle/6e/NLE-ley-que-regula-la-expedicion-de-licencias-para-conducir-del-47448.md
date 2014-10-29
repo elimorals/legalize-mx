@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-regula-la-expedicion-de-licencias-para-conducir-del-474
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-30"
-last_updated: "2011-12-14"
+last_updated: "2014-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE REGULA LA EXPEDICIÓN DE LICENCIAS PARA CONDUCIR DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de diciembre de 2005.
 
@@ -209,7 +209,9 @@ En caso de trámites de reposición o renovación de las licencias para conducir
 
 Para la expedición de licencias especiales, reposición o renovación de las mismas, se deberá presentar a la autoridad estatal competente en materia de expedición de licencias la autorización de la Agencia, de acuerdo a lo dispuesto en la Ley de Transporte para la Movilidad Sustentable del Estado de Nuevo León.
 
-El curso de manejo deberá incluir una presentación audiovisual, por medio de la cual se les informará con relación a los inconvenientes y consecuencias de conducir bajo el efecto de las bebidas alcohólicas o intoxicado con cualquier sustancia.
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2014)</small>
+
+El curso de manejo deberá incluir una presentación audiovisual, por medio de la cual se les informará con relación a los inconvenientes y consecuencias de conducir bajo el efecto de las bebidas alcohólicas o intoxicado con cualquier sustancia, además de incluir los riesgos de los accidentes que se pueden ocasionar cuando al conducir vehículos motores se utilice teléfono celular, radio o cualquier aparato de comunicación, ya sea para hablar o enviar cualquier tipo de mensajes de texto utilizando dispositivos móviles de comunicación.
 
 ###### Artículo 15.
 
@@ -289,27 +291,61 @@ Al autorizarse una licencia, su titular quedará inscrito en la Base de Datos de
 
 ### CAPÍTULO III. DE LA SUSPENSIÓN, CANCELACIÓN O REVOCACIÓN DE LA LICENCIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 20.
 
-Las autoridades municipales al tener conocimiento de la comisión de infracciones que tengan como sanciones la suspensión, cancelación o revocación de la licencia:
+Las autoridades municipales, al tener conocimiento de la comisión de infracciones que tengan como sanción la suspensión, cancelación o revocación de licencias de conducir:
 
 I. Retendrán provisionalmente, como medida preventiva, la licencia del conductor del vehículo;
 
 II. Tomarán las medidas necesarias, de acuerdo a la normativa, para evitar que el titular de la licencia continúe conduciendo;
 
-III. Notificarán de inmediato la retención a la autoridad estatal competente en materia de expedición de licencias, remitiéndole copia en la que consten las infracciones cometidas; y
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2014)</small>
 
-IV. Informarán de inmediato a la autoridad estatal competente para efectos de que ésta emita la resolución correspondiente y sustancie, en su caso, los procedimientos que se deriven de dichas resoluciones.
+III. Notificarán de inmediato la retención a la autoridad estatal competente en materia de expedición de licencias; y
+
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2014)</small>
+
+IV. Notificarán (sic) la autoridad municipal competente, remitiéndole la licencia y copia del documento en el que consten las infracciones cometidas para efectos de que ésta sustancie el procedimiento correspondiente y emita la resolución que proceda.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 20 Bis.
+
+La conducción de vehículo automotor en estado de voluntaria intoxicación que afecten la capacidad de manejo, o utilizando simultáneamente algún tipo de aparato de comunicación, salvo que se utilice con tecnología de manos libres u otra tecnología que evite la distracción del conductor, será sancionada al menos, en los términos siguientes:
+
+I. Por conducir en alguna de las referidas condiciones, multa de 50 a 200 cuotas, tratamiento para los conductores en estado de voluntaria intoxicación, suspensión de la vigencia de la licencia hasta por tres meses y arresto administrativo de ocho a doce horas;
+
+II. Por conducir en alguna de las referidas condiciones, y cometer cualquier infracción administrativa, una multa de 100 a 300 cuotas, tratamiento para los conductores en estado de voluntaria intoxicación, suspensión de la vigencia de la licencia hasta por seis meses y arresto administrativo de doce a veinticuatro horas;
+
+III. Por conducir en alguna de las referidas condiciones, por más de dos veces en un lapso de un año, procederá multa de 200 a 600 cuotas, tratamiento para los conductores en estado de voluntaria intoxicación, suspensión de la vigencia de la licencia hasta por doce meses y arresto administrativo de veinticuatro a treinta y seis horas;
+
+IV. Por no acreditar haber acudido al menos al 90 % de las sesiones de tratamiento decretadas, multa de 100 a 200 cuotas y suspensión de la licencia para conducir hasta por 18 meses.
+
+En todos los casos de infracciones con motivo de conducción en estado de voluntaria intoxicación que afecten la capacidad de manejo, el infractor se deberá comprometer a asistir a tratamiento o cursos de rehabilitación y acreditar su cumplimiento ante la autoridad competente. De no efectuar el compromiso o no acreditarlo, se le suspenderá la vigencia de la licencia para conducir hasta por 18 meses.
+
+Tratándose de menores no emancipados que hayan cometido infracciones con motivo de conducción de vehículos en alguna de las condiciones señaladas en el primer párrafo de este artículo, se les cancelará la licencia para conducir o estarán inhabilitados para obtenerla hasta por doce meses, y en su caso el tratamiento o curso se acordará con quienes ejerzan la patria potestad o custodia, quienes deberán acompañar al infractor a dicho tratamiento o curso.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 21.
 
-Al resolver sobre la suspensión, cancelación o revocación de una licencia, las autoridades municipales correspondientes remitirán de inmediato a la autoridad estatal competente en materia de expedición de licencias:
+La autoridad municipal dentro de los siguientes diez días hábiles, contados a partir de la fecha de la infracción, notificará al titular de la licencia a fin de que dentro del plazo de quince días hábiles manifieste lo que a su derecho convenga, presente las pruebas y genere los alegatos de su intención.
 
-I. Copia de la resolución correspondiente; y
+Vencido el término para su defensa, dicha autoridad resolverá en definitiva y lo notificará dentro de los quince días hábiles siguientes al titular de la licencia.
 
-II. En su caso, la licencia cancelada o revocada.
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2014)</small>
 
-La autoridad estatal competente que reciba lo anterior procederá a realizar las anotaciones correspondientes en la Base de Datos para efectos de que las autoridades competentes, cuando así lo soliciten, puedan tener las referencias relativas a la reincidencia de infracciones por parte de los conductores de vehículos.
+###### Artículo 21 Bis.
+
+Posteriormente, la mencionada autoridad municipal notificará a la autoridad estatal competente en materia de expedición de licencias, sobre la resolución definitiva y en su caso le remitirá la licencia retenida, a fin de que ésta efectúe las anotaciones correspondientes en la Base de Datos donde se registren dichas sanciones, así como su cumplimiento, lo cual deberá tomarse en cuenta para determinar la reincidencia.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 21 Bis 1.
+
+Dicha autoridad podrá reactivar la licencia de conducir si el infractor demuestra haber cumplido la sanción, o en su caso, solicite y realice 30 horas de servicio en la comunidad por cada mes que se le haya decretado la suspensión de la licencia de conducir.
 
 ###### Artículo 22.
 
@@ -378,3 +414,11 @@ P.O. 24 DE DICIEMBRE DE 2010.
 P.O. 14 DE DICIEMBRE DE 2011.
 
 Único. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
+
+P.O. 29 DE OCTUBRE DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Artículo Segundo.- Los Municipios deberán adecuar sus reglamentos, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+Artículo Tercero.- Los procedimientos administrativos iniciados con anterioridad, continuarán hasta su conclusión conforme a las normas vigentes al momento de su inicio.
