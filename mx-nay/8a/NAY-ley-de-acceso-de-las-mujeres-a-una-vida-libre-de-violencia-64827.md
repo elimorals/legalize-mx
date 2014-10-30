@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6482
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-15"
-last_updated: "2008-11-15"
+last_updated: "2014-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64827&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 15 de noviembre de 2008.
 
@@ -175,9 +175,11 @@ III. Proporcionar psicoterapia diferencial a mujeres víctimas de violencia fami
 
 ### CAPÍTULO II. DE LA VIOLENCIA EN EL ÁMBITO LABORAL Y DOCENTE
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 11.
 
-La violencia laboral es toda acción u omisión encaminada a restringir, desacreditar, intimidar, descalificar o nulificar el trabajo realizado por las mujeres, mediante la discriminación de género, las amenazas, y la explotación laboral, que afecte la permanencia, ascensos, reconocimiento, salario y prestaciones en su relación de trabajo.
+La violencia laboral es toda acción u omisión encaminada a restringir, desacreditar, descalificar o nulificar el trabajo realizado por las mujeres, mediante la intimidación, las humillaciones, las amenazas, la explotación, el impedimento de llevar a cabo el periodo de lactancia conforme a la ley, así como todo tipo de discriminación basada en el género, que afecte la permanencia, ascensos, reconocimiento, salario y prestaciones en su relación de trabajo.
 
 ###### Artículo 12.
 
@@ -894,3 +896,9 @@ Dado en la Universidad Tecnológica de Nayarit, decretado recinto provisional de
 Dip. Emilio González Benites, Presidente.- Rúbrica.-Dip. Antonio Carrillo Ramos, Secretario.- Rúbrica.- Dip. José Luis Lozano Gárate, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los catorce días del mes de noviembre del año dos mil ocho.- Lic. Ney González Sánchez.- Rúbrica.- La Secretaria General de Gobierno, Profa. Cora Cecilia Pinedo Alonso.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE OCTUBRE DE 2014.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
