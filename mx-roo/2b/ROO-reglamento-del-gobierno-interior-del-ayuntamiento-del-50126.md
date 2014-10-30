@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-del-gobierno-interior-del-ayuntamiento-del-50126"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-03-17"
-last_updated: "2014-06-20"
+last_updated: "2014-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO DEL GOBIERNO INTERIOR DEL AYUNTAMIENTO DEL MUNICIPIO DE BENITO JUÁREZ, QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2014.
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 17 de marzo de 2006.
 
@@ -639,7 +639,7 @@ II. Solicitar algún receso durante la sesión;
 
 III. Solicitar la resolución sobre un aspecto del debate en lo particular;
 
-IV. Suspender la sesión por alguna de las causas establecidas en este Reglamento; (sic)
+IV. Suspender la sesión por alguna de las causas establecidas en este Reglamento;
 
 ###### Artículo 71.
 
@@ -701,7 +701,7 @@ Las votaciones serán nominales:
 
 I. Cuando se pregunte si ha o no lugar a aprobar algún proyecto de reforma al Bando de Policía y Buen Gobierno.
 
-II. Cuando se pregunte si se aprueba o no cada artículo de los que compongan el indicado proyecto o cada proposición de las que formen el artículo, y (sic)
+II. Cuando se pregunte si se aprueba o no cada artículo de los que compongan el indicado proyecto o cada proposición de las que formen el artículo, y
 
 III. Cuando un tercio de los miembros del Ayuntamiento así lo soliciten.
 
@@ -921,7 +921,9 @@ III. De Desarrollo Urbano y Transporte;
 
 IV. De Educación, Cultura y Deportes;
 
-V. De Equidad y Género;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2014)</small>
+
+V. Para la Igualdad de Género;
 
 VI. De Espectáculos y Diversiones;
 
@@ -1021,9 +1023,11 @@ VIII. Procurar la protección, preservación, desarrollo y difusión de las leng
 
 IX. Proponer y vigilar que se promuevan y estimulen acciones tendientes a la práctica de los deportes dentro del Municipio favoreciendo el deporte popular para procurar el desarrollo físico y mental de sus habitantes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 112.
 
-Corresponde a la Comisión de Equidad y Género:
+Corresponde a la Comisión Para la Igualdad de Género:
 
 I. Proponer, analizar, estudiar y dictaminar las iniciativas en materia de igualdad de oportunidades para las mujeres y hombres en el Municipio;
 
@@ -1551,7 +1555,7 @@ VI. Destitución;
 
 VII. Inhabilitación;
 
-VIII. La sentencia condenatoria que halla (sic) causado estado por algún delito intencional; (sic)
+VIII. La sentencia condenatoria que halla (sic) causado estado por algún delito intencional;
 
 ###### Artículo 168.
 
@@ -1631,7 +1635,7 @@ I. No concurra a una Sesión del pleno, sin causa justificada no tendrá derecho
 
 II. No concurra a una de las reuniones de trabajo previstas en el artículo 38 de este Reglamento sin causa justificada y no tendrá derecho al cien por ciento de la dieta correspondiente al día en que falte; y
 
-III. No concurra a una sesión de Comisión o Comité, sin causa justificada y no tendrá derecho al cincuenta por ciento de la dieta correspondiente al día en que falte; (sic)
+III. No concurra a una sesión de Comisión o Comité, sin causa justificada y no tendrá derecho al cincuenta por ciento de la dieta correspondiente al día en que falte;
 
 ###### Artículo 177.
 
@@ -1775,16 +1779,22 @@ LIC. RODOLFO GARCIA PLIEGO
 
 EL SECRETARIO GENERAL DEL AYUNTAMIENTO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-P.O. 26 DE DICIEMBRE DE 2009.
+P.O. 26 DE DICIEMBRE DE 2009
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
 
 TERCERO.- El presente acuerdo entrara en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
 
 P.O. 20 DE JUNIO DE 2014.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
 
 CUARTO.- En su caso, las modificaciones reglamentarias objeto del presente acuerdo, entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+P.O. 30 DE OCTUBRE DE 2014.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
+
+CUARTO.- El presente acuerdo entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
