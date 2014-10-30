@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-salud-para-el-estado-de-nayarit-14461"
 country: "mx"
 rank: "ley"
 publication_date: "1994-04-30"
-last_updated: "2014-05-21"
+last_updated: "2014-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE SALUD PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 30 de abril de 1994.
 
@@ -135,7 +135,7 @@ XVIII.- Ejercer la verificación y el control sanitario de los establecimientos 
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
-XIX.- Prevención de la violencia familiar e intrafamiliar; y (sic)
+XIX.- Prevención de la violencia familiar e intrafamiliar; y
 
 > <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
 
@@ -717,9 +717,21 @@ En la organización y operación de los servicios de salud destinados a la atenc
 
 I.- Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los usuarios;
 
-II.- Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y, en su caso, la ayuda alimenticia directa tendiente a mejorar el estado nutricional del grupo materno-infantil, y;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2014)</small>
 
-III.- Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarréicos y las infecciones respiratorias agudas de los menores de 5 años.
+II.- Acciones de orientación y vigilancia institucional, capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de vida y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno infantil;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2014)</small>
+
+III.- Acciones de promoción para la creación de bancos de leche humana en los establecimientos de salud que cuenten con servicios neonatales;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2014)</small>
+
+IV.- Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas de los menores de 5 años de edad, y
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2014)</small>
+
+V.- Acciones de capacitación para fortalecer la competencia técnica de las parteras tradicionales, para la atención del embarazo, parto y puerperio.
 
 ###### ARTICULO 60.
 
@@ -733,7 +745,7 @@ II.- Las actividades respectivas de esparcimiento y culturales destinadas a fort
 
 III.- La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas;
 
-IV.- Acciones relacionadas con la educación básica, alfabetización de adultos, accesos al agua potable y medios sanitarios de eliminación de excreta, y (sic);
+IV.- Acciones relacionadas con la educación básica, alfabetización de adultos, accesos al agua potable y medios sanitarios de eliminación de excreta, y;
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
@@ -1283,7 +1295,7 @@ II.- Nutrición;
 
 III.- Control de los efectos nocivos del ambiente en la salud;
 
-IV.- Salud ocupacional; y (sic)
+IV.- Salud ocupacional; y
 
 > <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
 
@@ -1419,7 +1431,7 @@ II.- Apoyar en el Estado el sistema nacional de vigilancia epidemiológica, de c
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
-III.- Coadyuvar en la aplicación de programas y actividades que establezca la Secretaría de Salud para la prevención de accidentes, violencia intrafamiliar y enfermedades así como para el control de estas últimas; y (sic)
+III.- Coadyuvar en la aplicación de programas y actividades que establezca la Secretaría de Salud para la prevención de accidentes, violencia intrafamiliar y enfermedades así como para el control de estas últimas; y
 
 ### CAPITULO II. ENFERMEDADES TRANSMISIBLES
 
@@ -2251,7 +2263,7 @@ Para efectos de esta ley, se entienden por centros de reunión y espectáculos p
 
 ###### ARTICULO 221.
 
-La autoridad sanitaria municipal, podrá en cualquier momento realizar la verificación y en caso que así se requiera ordenar la cláusula (sic) de los centros públicos de reunión que no cumplan con las condiciones de seguridad e higiene, suficientes para garantizar la vida y la salud de las personas que a ellos concurran, dicha clausura prevalecerá entre tanto no sean corregidas las causas que la motivaron.
+La autoridad sanitaria municipal, podrá en cualquier momento realizar la verificación y en caso que así se requiera ordenar la cláusula de los centros públicos de reunión que no cumplan con las condiciones de seguridad e higiene, suficientes para garantizar la vida y la salud de las personas que a ellos concurran, dicha clausura prevalecerá entre tanto no sean corregidas las causas que la motivaron.
 
 ###### ARTICULO 222.
 
@@ -3072,3 +3084,7 @@ Artículo Tercero.- En un término de 120 días el Titular del Poder Ejecutivo d
 P.O. 21 DE MAYO DE 2014.
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 30 DE OCTUBRE DE 2014.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
