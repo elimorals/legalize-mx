@@ -4,7 +4,7 @@ identifier: "LMIGRA"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-25"
-last_updated: "2013-06-07"
+last_updated: "2014-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81425&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMIGRA"
 
 LEY DE MIGRACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE OCTUBRE DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 25 de mayo de 2011.
 
@@ -92,7 +92,9 @@ I. Autoridad migratoria, al servidor público que ejerce la potestad legal expre
 
 II. Acuerdo de readmisión: al acto por el cual la Secretaría determina autorizar la internación al país de un extranjero deportado con anterioridad;
 
-III. Asilado político: a quien solicita el ingreso a territorio nacional para proteger su libertad o su vida de persecuciones políticas, en los términos de los tratados y convenios internacionales de los cuales sea parte el Estado mexicano;
+> <small>(REFORMADA, D.O.F. 30 DE OCTUBRE DE 2014)</small>
+
+III. Asilado: a todo extranjero que sea reconocido como tal en los términos de la Ley sobre Refugiados, Protección Complementaria y Asilo Político;
 
 IV. Apátrida: toda persona que no sea considerada como nacional por, ningún Estado, conforme a su legislación. La ley concederá igual trato a las personas que tienen una nacionalidad pero que no es efectiva.
 
@@ -482,7 +484,7 @@ Para internarse al país, los extranjeros deberán:
 
 I. Presentar en el filtro de revisión migratoria ante el Instituto, los documentos siguientes:
 
-a) Pasaporte o documento de identidad y viaje que sea válido de conformidad con el derecho internacional vigente, y (sic)
+a) Pasaporte o documento de identidad y viaje que sea válido de conformidad con el derecho internacional vigente, y
 
 b) Cuando así se requiera, visa válidamente expedida y en vigor, en términos del artículo 40 de esta Ley; o
 
@@ -730,7 +732,9 @@ IV. Hijos del residente permanente y los hijos del cónyuge o concubinario o con
 
 V. Hermanos del residente permanente, siempre y cuando sean niñas, niños y adolescentes y no hayan contraído matrimonio, o estén bajo su representación legal.
 
-Para el ejercicio del derecho consagrado en el presente artículo de las personas que obtengan el reconocimiento de la condición de refugiado, se atenderá a lo dispuesto en los tratados y convenios internacionales de los cuales sea parte el Estado mexicano y demás legislación aplicable.
+> <small>(REFORMADO, D.O.F. 30 DE OCTUBRE DE 2014)</small>
+
+Para el ejercicio del derecho consagrado en el presente artículo de las personas que se les otorgue asilo político u obtengan el reconocimiento de la condición de refugiado, se atenderá a lo dispuesto en los tratados internacionales de los que el Estado Mexicano sea parte y demás legislación aplicable.
 
 ###### Artículo 56.
 
@@ -1641,3 +1645,13 @@ D.O.F. 7 DE JUNIO DE 2013.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Dentro de un plazo de noventa días naturales, contados a partir de la vigencia de este Decreto, el Ejecutivo Federal publicará las modificaciones que sean necesarias.
+
+D.O.F. 30 DE OCTUBRE DE 2014.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Los asilados reconocidos anteriormente a la entrada en vigor del presente Decreto podrán solicitar que se les expida el documento migratorio, que acredite su condición de estancia en el país de conformidad con lo establecido en la Ley de Migración.
+
+Tercero. La Secretaría de Gobernación y la Secretaría de Relaciones Exteriores realizarán las acciones necesarias para que la implementación de las presentes modificaciones se lleven a cabo con los recursos aprobados en su presupuesto, por lo que no requerirán recursos adicionales para tales efectos y no incrementarán su presupuesto regularizable para el presente ejercicio fiscal y los subsecuentes.
+
+Cuarto. Se deberá establecer en los reglamentos respectivos el procedimiento por medio del cual la Comisión Mexicana de Ayuda a Refugiados atenderá y desahogará los casos a los que hacen referencia los artículos 35 Bis y 70 de la presente Ley.
