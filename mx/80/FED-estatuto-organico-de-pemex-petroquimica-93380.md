@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-pemex-petroquimica-93380"
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-03-28"
-last_updated: "2014-02-25"
+last_updated: "2014-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93380&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-03-21"
 
 ESTATUTO ORGÁNICO DE PEMEX-PETROQUÍMICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE OCTUBRE DE 2014.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 28 de marzo de 2013.
 
@@ -363,6 +363,10 @@ VI. Expedir constancias, para efectos administrativos, de los documentos que obr
 
 VII. Ejercer los derechos corporativos en las sociedades mercantiles nacionales o extranjeras consideradas filiales y en aquellas sociedades en las que el Organismo ejerza una influencia significativa o tenga alguna participación accionaria; o designar al servidor público que deberá ejercerlos para el caso de las filiales que no se consideren entidades paraestatales;
 
+> <small>(ADICIONADA, D.O.F. 30 DE OCTUBRE DE 2014)</small>
+
+VII-A. Dirigir las actividades y la prestación de servicios derivados de las alianzas, asociaciones, convenios y/o contratos que celebre Pemex-Petroquímica con terceros;
+
 VIII. Participar en las actividades o administración de las sociedades mercantiles consideradas filiales y sociedades en las que el Organismo ejerza una influencia significativa o tenga alguna participación accionaria, cuando se les haya designado para tal efecto;
 
 IX. Representar legalmente al Organismo en los asuntos relacionados con su Subdirección, así como en aquellas responsabilidades o funciones que le asigne o delegue expresamente el Director General para lo cual, contará con las facultades para actos de dominio, administración, pleitos y cobranzas, incluso las que requieran poder o cláusula especial en términos de las disposiciones aplicables; para formular querellas en casos de delitos que sólo se pueden perseguir a petición de parte afectada; otorgar perdón; para ejercitar y desistirse de acciones judiciales, inclusive en el juicio de amparo; así como para comprometerse en árbitros y transigir; en términos de lo previsto en el artículo 5o. de la Ley;
@@ -436,6 +440,10 @@ V-A. Atender, en el ámbito de su competencia, los reclamos, controversias y con
 VI. Expedir constancias, para efectos administrativos, de los documentos que obren en los archivos de su unidad administrativa;
 
 VII. Participar en las actividades o administración de las filiales y en aquellas sociedades en las que el Organismo ejerza una influencia significativa o tenga alguna participación accionaria, cuando se les haya designado para tal efecto y, en su caso, ejercer los derechos corporativos en las mismas cuando se les haya designado para tal efecto;
+
+> <small>(ADICIONADA, D.O.F. 30 DE OCTUBRE DE 2014)</small>
+
+VII-A. Coordinar las actividades y la prestación de servicios derivados de las alianzas, asociaciones, convenios y/o contratos que celebre Pemex-Petroquímica con terceros;
 
 VIII. Asignar responsabilidades y delegar funciones, en los servidores públicos de las unidades administrativas de su adscripción, en el ámbito de las funciones de estos últimos, salvo aquéllas que sean indelegables;
 
@@ -1121,7 +1129,7 @@ En caso de no designarse suplente, los respectivos titulares de las unidades adm
 
 ###### Artículo 64.
 
-Pemex-Petroquímica contará con un Organo de Vigilancia que estará integrado por un Comisario Público Propietario y un Suplente, designados por la Secretaría de la Función Pública, quienes asistirán con voz pero sin voto a las sesiones ordinarias y extraordinarias del Consejo de Administración y ejercerán las atribuciones que les confieren la Ley Federal de las Entidades Paraestatales, su Reglamento y demás disposiciones aplicables. . (sic)
+Pemex-Petroquímica contará con un Organo de Vigilancia que estará integrado por un Comisario Público Propietario y un Suplente, designados por la Secretaría de la Función Pública, quienes asistirán con voz pero sin voto a las sesiones ordinarias y extraordinarias del Consejo de Administración y ejercerán las atribuciones que les confieren la Ley Federal de las Entidades Paraestatales, su Reglamento y demás disposiciones aplicables. .
 
 Los Comisarios Públicos, en ejercicio de sus funciones, atenderán lo previsto en los lineamientos que en materia de control interno y evaluación del desempeño emita el Consejo de Administración de PEMEX.
 
@@ -1188,3 +1196,7 @@ DÉCIMO. Los derechos laborales serán respetados en todo momento, de acuerdo co
 DÉCIMO PRIMERO. El Organismo Subsidiario seguirá realizando las funciones para dirigir, supervisar, coordinar y ejecutar los procedimientos de contratación en materia de adquisiciones, arrendamientos, servicios y obra, en el ámbito de su respectiva competencia, hasta en tanto se realice lo necesario para la total transferencia de las funciones referidas y recursos relacionados con las mismas.
 
 DÉCIMO SEGUNDO. Las transferencias a que se refiere el artículo cuarto transitorio deberán quedar formalizadas en un plazo no mayor a un año, a partir de la publicación de las presentes modificaciones en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE OCTUBRE DE 2014.
+
+ÚNICO. Las modificaciones al Estatuto Orgánico de Pemex-Petroquímica, entrarán en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
