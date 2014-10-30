@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2014-04-29"
+last_updated: "2014-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2014.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -1107,9 +1107,9 @@ LIV. Resolver, en definitiva, sobre las medidas adoptadas por el Gobernador, en 
 
 LV. Legislar en materia de planeación sobre la formulación, instrumentación, control, evaluación y actualización del Plan Estatal de Desarrollo, cuidando que la planeación del desarrollo económico y social sea democrática y obligatoria para el Estado y los Municipios; así como legislar sobre los procesos de participación directa de la ciudadanía, y fijar las bases generales para que los Ayuntamientos establezcan los procesos en esta materia;
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2014)</small>
 
-LVI. Para expedir leyes en materia de impartición de justicia administrativa, mediante órganos dotados de plena autonomía para dictar sus fallos, que tengan a su cargo dirimir las controversias de carácter administrativo que se susciten entre los particulares y las autoridades del Estado, de los ayuntamientos y de las entidades estatales y municipales, estableciéndose las normas para su organización, funcionamiento, procedimientos y recursos contra sus resoluciones; así como aprobar los nombramientos de quienes tengan a su cargo esa función en términos de ley, y recibir la protesta de dichos titulares;
+LVI.- Para expedir leyes en materia de impartición de justicia administrativa, mediante órganos dotados de plena autonomía para dictar sus fallos, que tengan a su cargo dirimir las controversias de carácter administrativo que se susciten entre los particulares y las autoridades del Estado, de los ayuntamientos y de las entidades estatales y municipales, estableciéndose las normas para su organización, funcionamiento, procedimientos y recursos contra sus resoluciones; así como aprobar el nombramiento de quien tenga a su cargo esa función en el Gobierno del Estado en términos de ley, y recibir la protesta del titular;
 
 > <small>(REFORMADA, P.O. 12 DE JUNIO DE 2009)</small>
 
@@ -4240,6 +4240,12 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 En un plazo no mayor a 180 días naturales, contados a partir de la publicación del presente Decreto, se deberán realizar las adecuaciones conducentes a la ley reglamentaria respectiva.
 
 P.O. 29 DE ABRIL DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE OCTUBRE DE 2014.
 
 ###### ARTÍCULO ÚNICO.
 
