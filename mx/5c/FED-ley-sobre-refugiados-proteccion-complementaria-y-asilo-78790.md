@@ -4,7 +4,7 @@ identifier: "FED-ley-sobre-refugiados-proteccion-complementaria-y-asilo-78790"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-27"
-last_updated: "2011-01-27"
+last_updated: "2014-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78790&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2011-01-26"
 ---
 # LEY SOBRE REFUGIADOS, PROTECCION COMPLEMENTARIA Y ASILO POLITICO - ANTES - LEY SOBRE REFUGIADOS Y PROTECCION COMPLEMENTARIA -
 
-LEY SOBRE REFUGIADOS Y PROTECCION COMPLEMENTARIA
+LEY SOBRE REFUGIADOS, PROTECCIÓN COMPLEMENTARIA Y ASILO POLÍTICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE OCTUBRE DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 27 de enero de 2011.
 
@@ -39,7 +39,9 @@ SE EXPIDE LA LEY SOBRE REFUGIADOS Y PROTECCIÓN COMPLEMENTARIA Y SE REFORMAN, AD
 
 Artículo Primero.- Se expide la Ley sobre Refugiados y Protección Complementaria, para quedar como sigue:
 
-LEY SOBRE REFUGIADOS Y PROTECCIÓN COMPLEMENTARIA
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 30 DE OCTUBRE DE 2014)</small>
+
+LEY SOBRE REFUGIADOS, PROTECCIÓN COMPLEMENTARIA Y ASILO POLÍTICO
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -49,29 +51,41 @@ LEY SOBRE REFUGIADOS Y PROTECCIÓN COMPLEMENTARIA
 
 Las disposiciones de esta Ley son de orden público y de observancia general en la República.
 
+> <small>(REFORMADO, D.O.F. 30 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 2.
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Fundados Temores: Los actos y hechos que den o hayan dado lugar a una persecución, y que por su naturaleza, carácter reiterado, o bien, por una acumulación de acciones por parte de un tercero, ponen o podrían poner en riesgo la vida, la libertad o la seguridad de una persona.
+I. Asilo Político: Protección que el Estado Mexicano otorga a un extranjero considerado perseguido por motivos o delitos de carácter político o por aquellos delitos del fuero común que tengan conexión con motivos políticos, cuya vida, libertad o seguridad se encuentre en peligro, el cual podrá ser solicitado por vía diplomática o territorial. En todo momento se entenderá por Asilo el Asilo Político.
 
-II. Ley: Ley sobre Refugiados y Protección Complementaria.
+II. Asilado: El extranjero que encontrándose en el supuesto establecido en el artículo 61 de la Ley recibe la protección del Estado Mexicano.
 
-III. País de Origen: El país de nacionalidad o de residencia habitual del solicitante o del refugiado, así como del extranjero al que se le otorgue protección complementaria.
+III. Fundados Temores: Los actos y hechos que den o hayan dado lugar a una persecución, y que por su naturaleza, carácter reiterado, o bien, por una acumulación de acciones por parte de un tercero, ponen o podrían poner en riesgo la vida, la libertad o la seguridad de una persona.
 
-IV. Protección Complementaria: Protección que la Secretaría de Gobernación otorga al extranjero que no ha sido reconocido como refugiado en los términos de la presente Ley, consistente en no devolverlo al territorio de otro país en donde su vida, se vería amenazada o se encontraría en peligro de ser sometido a tortura u otros tratos o penas crueles, inhumanos o degradantes.
+IV. Ley: Ley sobre Refugiados, Protección Complementaria y Asilo Político.
 
-V. Refugiado: El extranjero que encontrándose en los supuestos establecidos en el artículo 13 de la Ley es reconocido como tal por la Secretaría de Gobernación.
+V. Reglamento: Reglamento de la Ley sobre Refugiados, Protección Complementaria y Asilo Político.
 
-VI. Reglamento: El reglamento de la presente Ley.
+VI. País de Origen: El país de nacionalidad o de residencia habitual del solicitante de la condición de refugiado, del solicitante de asilo político o asilado, así como del extranjero al que se le otorgue protección complementaria.
 
-VII. Secretaría: Secretaría de Gobernación.
+VII. Protección Complementaria: Protección que la Secretaría de Gobernación otorga al extranjero que no ha sido reconocido como refugiado en los términos de la presente Ley, consistente en no devolverlo al territorio de otro país en donde su vida, se vería amenazada o se encontraría en peligro de ser sometido a tortura u otros tratos o penas crueles, inhumanos o degradantes.
 
-VIII. Solicitante: El extranjero que solicita a la Secretaría ser reconocido como refugiado, independientemente de su situación migratoria.
+VIII. Condición de Refugiado: Estatus jurídico del extranjero que encontrándose en los supuestos establecidos en el artículo 13 de la Ley, es reconocido como refugiado, por la Secretaría de Gobernación y recibe protección como tal.
+
+IX. Representación: Las señaladas en el artículo 1 Bis, fracción VIII de la Ley del Servicio Exterior Mexicano.
+
+X. Secretaría: Secretaría de Gobernación.
+
+XI. Solicitante de Asilo Político: El extranjero que solicita a la Secretaría de Relaciones Exteriores, a sus delegaciones localizadas fuera del Distrito Federal o a la Representación, según corresponda, el otorgamiento de asilo político.
+
+XII. Solicitante de la Condición de Refugiado: El extranjero que solicita a la Secretaría el reconocimiento de la condición de refugiado, independientemente de su situación migratoria.
+
+> <small>(REFORMADO, D.O.F. 30 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 3.
 
-La presente Ley tiene por objeto regular la condición de refugiado y el otorgamiento de protección complementaria, así como establecer las bases para la atención y asistencia a los refugiados que se encuentran en territorio nacional, con la finalidad de garantizar el pleno respeto a sus derechos humanos.
+La presente Ley tiene por objeto regular el otorgamiento de asilo político, el reconocimiento de la condición de refugiado y el otorgamiento de protección complementaria, así como establecer las bases para la atención a los solicitantes y asistencia a los asilados y refugiados que se encuentran en territorio nacional, con la finalidad de garantizar el pleno respeto a sus derechos humanos.
 
 ###### Artículo 4.
 
@@ -149,9 +163,43 @@ III. Que debido a circunstancias que hayan surgido en su país de origen o como 
 
 Los refugiados reconocidos bajo los supuestos de la fracción III del artículo 13 de esta Ley, que previo a su reconocimiento hayan generado derechos de residencia, podrán optar por mantener su situación migratoria o acogerse a lo dispuesto por esta Ley y su reglamento.
 
-## TÍTULO TERCERO. DE LAS ATRIBUCIONES EN MATERIA DE REFUGIADOS Y PROTECCIÓN COMPLEMENTARIA
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 30 DE OCTUBRE DE 2014)</small>
+
+## TÍTULO TERCERO. DE LAS ATRIBUCIONES EN MATERIA DE REFUGIADOS, PROTECCIÓN COMPLEMENTARIA Y ASILO POLÍTICO
 
 ### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, D.O.F. 30 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 14 Bis.
+
+En materia de Asilo Político, compete a la Secretaría de Relaciones Exteriores:
+
+I. Resolver sobre el otorgamiento de asilo político a los extranjeros que encontrándose en la representación o en territorio nacional, presenten su solicitud de conformidad con los supuestos previstos en la presente Ley y su reglamento. En todos los casos a que se refiere esta fracción recabará previamente la opinión de la Secretaría;
+
+II. Orientar a los solicitantes de asilo político y asilados sobre sus derechos y obligaciones;
+
+III. Llevar un registro actualizado de los solicitantes de asilo político y asilados;
+
+IV. Resolver sobre el retiro y la renuncia de asilo político;
+
+V. Las demás atribuciones que le confieran el reglamento y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, D.O.F. 30 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 14 Ter.
+
+En materia de Asilo Político, le compete a la Secretaría lo siguiente:
+
+I. De manera conjunta con la Secretaría de Relaciones Exteriores, promover y coordinar acciones públicas, estrategias y programas orientados a la protección y asistencia de asilados conforme a lo establecido en esta Ley y su reglamento;
+
+II. En coordinación con la Secretaría de Relaciones Exteriores y demás autoridades competentes en términos del reglamento, promover soluciones a la problemática que enfrentan los asilados, durante su estancia en territorio nacional, de conformidad con los supuestos previstos en la presente Ley;
+
+III. Formular, coordinar, dar seguimiento, evaluar y difundir criterios y programas encaminados a la atención de asilados, en coordinación con la Secretaría de Relaciones Exteriores;
+
+IV. Establecer las bases y los procedimientos de coordinación entre las dependencias y entidades federales, estatales, municipales, del Distrito Federal y sus Delegaciones, que participen en la atención a asilados, y
+
+V. Atender a los asilados con pleno respeto a sus derechos humanos.
 
 ###### Artículo 15.
 
@@ -235,9 +283,11 @@ Durante el procedimiento, la Secretaría tomará las medidas necesarias para gar
 
 Cuando un solicitante en situación de vulnerabilidad haya sido admitido provisionalmente o se encuentre en alguna estación migratoria, la Secretaría valorará las medidas que mejor favorezcan al solicitante, de conformidad con las circunstancias del caso. En el caso de niñas, niños y adolescentes deberá determinarse su interés superior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 21.
 
-Cuando un extranjero que se encuentre en alguno de los lugares destinados al tránsito internacional de personas, o sujeto a un procedimiento migratorio, sin importar la etapa de dicho procedimiento, o bien, carezca de documentación que acredite su legal estancia en el territorio nacional, solicite el reconocimiento de la condición de refugiado, la Secretaría deberá dictar las medidas que resulten estrictamente necesarias en cada caso, de conformidad con el reglamento de esta Ley.
+Cuando un extranjero que se encuentre en alguno de los lugares destinados al tránsito internacional de personas, o sujeto a un procedimiento administrativo migratorio, sin importar la etapa de dicho procedimiento, o bien, carezca de documentación que acredite su situación migratoria regular en el territorio nacional, solicite el reconocimiento de la condición de refugiado, la Secretaría deberá dictar las medidas que resulten estrictamente necesarias en cada caso, de conformidad con el reglamento.
 
 La presentación de la solicitud de un extranjero no dejará sin efectos las medidas que se hayan dictado con anterioridad a la solicitud.
 
@@ -281,7 +331,9 @@ V. Cualquier otra circunstancia derivada del caso fortuito o fuerza mayor que im
 
 La resolución deberá ser notificada por escrito al solicitante. La Secretaría al momento de realizar las notificaciones procurará que el solicitante comprenda el sentido de la resolución.
 
-En los casos de reconocimiento de la condición de refugiado, la Secretaría expedirá a la brevedad el documento migratorio correspondiente que acredite su legal estancia. Si la resolución fuese en sentido negativo, el extranjero podrá interponer recurso de revisión dentro de los 15 días hábiles contados a partir de la notificación respectiva, de conformidad con lo establecido en el reglamento; de igual forma el extranjero podrá interponer los medios de defensa que estime pertinentes de conformidad con las disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 30 DE OCTUBRE DE 2014)</small>
+
+En los casos de reconocimiento de la condición de refugiado, la Secretaría expedirá el documento migratorio correspondiente que acredite su situación migratoria regular en el país en los términos de las disposiciones aplicables. Si la resolución fuese en sentido negativo, el extranjero podrá interponer recurso de revisión dentro de los 15 días hábiles contados a partir de la notificación respectiva, de conformidad con lo establecido en el reglamento; de igual forma el extranjero podrá interponer los medios de defensa que estime pertinentes, de conformidad con las disposiciones aplicables.
 
 ###### Artículo 26.
 
@@ -319,9 +371,11 @@ Cuando la Secretaría determine que un solicitante no reúne los requisitos para
 
 La evaluación de protección complementaria deberá ser notificada al extranjero en la misma resolución recaída en el procedimiento de reconocimiento de la condición de refugiado.
 
+> <small>(REFORMADO, D.O.F. 30 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 31.
 
-Si la Secretaría determina que un extranjero requiere protección complementaria, expedirá a la brevedad el documento migratorio correspondiente que acredite su legal estancia en el país. En caso contrario, éste quedará sujeto a las disposiciones migratorias correspondientes.
+Si la Secretaría determina que un extranjero requiere protección complementaria, expedirá el documento migratorio correspondiente que acredite su situación migratoria regular en el país en los términos de las disposiciones aplicables. En caso contrario, éste quedará sujeto a las disposiciones migratorias correspondientes.
 
 ###### Artículo 32.
 
@@ -361,6 +415,16 @@ La Secretaría revocará el reconocimiento de la condición de refugiado cuando,
 
 La Secretaría cancelará el reconocimiento de la condición de refugiado, cuando tenga en su poder pruebas fehacientes que demuestren que el solicitante ocultó o falseó los hechos declarados sobre los que basó su solicitud de tal forma que, de haberse conocido oportunamente, hubieran ocasionado el no reconocimiento de la condición.
 
+> <small>(ADICIONADO, D.O.F. 30 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 35 Bis.
+
+Los refugiados y extranjeros que reciban protección complementaria, podrán solicitar que se suspenda en cualquier momento la condición o protección que reciben, para lo cual será necesario dar aviso a la Secretaría.
+
+En caso de que un refugiado o extranjero que reciba protección complementaria abandone el país y solicite el reconocimiento de la condición de refugiado, otorgamiento de una condición similar o la residencia permanente en otro país, la Secretaría procederá a la suspensión de la condición de refugiado misma que podría ser reactivada mediante solicitud y su evaluación en un eventual retorno.
+
+En los casos a que se refiere este artículo, la Secretaría realizará las acciones necesarias para dar por terminados los efectos de su condición de estancia en territorio nacional en los términos previstos por el reglamento.
+
 ### CAPÍTULO II. DISPOSICIONES COMUNES
 
 ###### Artículo 36.
@@ -391,7 +455,9 @@ Durante la substanciación de un procedimiento de cesación, revocación o cance
 
 En relación con el cónyuge, concubinario, concubina, hijos y aquellos dependientes del extranjero cuyo reconocimiento de la condición de refugiado fuere cesado, revocado o cancelado, tendrán el derecho de solicitar el reconocimiento de la condición de refugiado. En caso de no presentar la solicitud correspondiente, la cesación, revocación o cancelación será efectiva, transcurrido el plazo de 30 días hábiles a partir de la determinación correspondiente al refugiado principal.
 
-No obstante, podrán solicitar a la autoridad migratoria les sea concedida legal estancia en el país.
+> <small>(REFORMADO, D.O.F. 30 DE OCTUBRE DE 2014)</small>
+
+No obstante, podrán solicitar a la autoridad migratoria les sea otorgada una condición de estancia en el país.
 
 ###### Artículo 39.
 
@@ -441,7 +507,9 @@ V. Obtener el documento de identidad y viaje expedido por la Secretaría de Rela
 
 VI. Solicitar la reunificación familiar, y
 
-VII. Obtener el documento migratorio expedido por la Secretaría, que acredite su legal estancia en el país como refugiado.
+> <small>(REFORMADA, D.O.F. 30 DE OCTUBRE DE 2014)</small>
+
+VII. Obtener el documento migratorio expedido por la Secretaría, que acredite su condición de estancia como residente permanente.
 
 ###### Artículo 45.
 
@@ -519,13 +587,177 @@ Cuando para el ejercicio de sus derechos y obligaciones el refugiado requiera de
 
 Para efectos de la reunificación familiar, la Secretaría podrá autorizar, por derivación de la condición de refugiado, la internación a territorio nacional del cónyuge, concubinario, concubina, hijos, parientes consanguíneos hasta el cuarto grado, parientes consanguíneos del cónyuge, concubinario, concubina, hasta el segundo grado que dependan económicamente del refugiado, así como la capacidad económica para su manutención.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 30 DE OCTUBRE DE 2014)</small>
+
+## TÍTULO SÉPTIMO. DEL ASILO POLÍTICO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 30 DE OCTUBRE DE 2014)</small>
+
+### CAPÍTULO I. PRINCIPIOS
+
+> <small>(ADICIONADO, D.O.F. 30 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 59.
+
+La Secretaría, sin perjuicio de las obligaciones que les corresponda a otras autoridades y en coordinación con las mismas, adoptará las medidas que estén a su alcance para que los asilados no sean objeto de discriminación motivada por origen étnico o nacional, género, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, religión, opiniones, preferencias sexuales, estado civil o cualquiera otra que tenga como efecto impedir o anular el reconocimiento o el ejercicio de sus derechos.
+
+> <small>(ADICIONADO, D.O.F. 30 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 60.
+
+La información aportada por los solicitantes de asilo político y asilados será tratada con la más estricta confidencialidad, en términos de lo establecido por la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+
+Cuando alguna autoridad requiera información respecto a los solicitantes de asilo político o asilados, deberá solicitarla a la Secretaría de Relaciones Exteriores; en caso de que se le proporcione dicha información, ésta deberá ser tratada de manera confidencial, en términos de la ley citada.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 30 DE OCTUBRE DE 2014)</small>
+
+### CAPÍTULO II. DEL OTORGAMIENTO DE ASILO POLÍTICO
+
+> <small>(ADICIONADO, D.O.F. 30 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 61.
+
+Todo extranjero que encuentre en peligro su vida, su libertad o seguridad por ideas o actividades políticas directamente relacionadas con su perfil público, y carezca de la protección de su país, podrá solicitar el otorgamiento de asilo político ante la Secretaría de Relaciones Exteriores, sus delegaciones localizadas fuera del Distrito Federal o la Representación, según corresponda.
+
+> <small>(ADICIONADO, D.O.F. 30 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 62.
+
+La Secretaría de Relaciones Exteriores podrá hacer extensivo, por derivación el otorgamiento de asilo político al cónyuge, concubinario, concubina, sus hijos y los de su cónyuge, concubinario o concubina, que dependan económicamente del asilado, que se encuentren en su país de origen o en territorio nacional con el solicitante, para lo cual deberá considerar la opinión que emita la Secretaría.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 30 DE OCTUBRE DE 2014)</small>
+
+### CAPÍTULO III. DEL PROCEDIMIENTO DE OTORGAMIENTO DE ASILO POLÍTICO
+
+> <small>(ADICIONADO, D.O.F. 30 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 63.
+
+El solicitante de asilo político deberá presentarse físicamente en la Representación, en la sede de la Secretaría de Relaciones Exteriores o en sus delegaciones localizadas fuera del Distrito Federal, a efecto de presentar por escrito su solicitud, y proporcionar sus datos de identificación, los motivos en los cuales fundamenta su solicitud de asilo político, así como de todos los elementos que disponga para sustentarla.
+
+En el caso en que al solicitante no le sea posible presentar la solicitud por escrito, podrá hacerlo verbalmente.
+
+> <small>(ADICIONADO, D.O.F. 30 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 64.
+
+El solicitante de asilo político recibirá información clara, oportuna y gratuita sobre el procedimiento de otorgamiento de asilo político, así como sobre sus derechos y obligaciones.
+
+> <small>(ADICIONADO, D.O.F. 30 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 65.
+
+Las Representaciones solo recibirán solicitudes de asilo político de los nacionales de aquellos países ante los que se encuentren acreditadas.
+
+Las Representaciones deberán remitir las solicitudes a la Secretaría de Relaciones Exteriores.
+
+> <small>(ADICIONADO, D.O.F. 30 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 66.
+
+Durante el procedimiento, la Secretaría de Relaciones Exteriores o la Representación de considerarlo pertinente, tomará las medidas a su alcance para proveer protección a los solicitantes de asilo político.
+
+> <small>(ADICIONADO, D.O.F. 30 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 67.
+
+La Representación podrá entrevistar al solicitante hasta en dos ocasiones, a fin de recabar elementos suficientes para el análisis de la solicitud. Asimismo recabará la mayor información posible sobre la situación prevaleciente en el país de origen.
+
+> <small>(ADICIONADO, D.O.F. 30 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 68.
+
+Corresponde a la Secretaría de Relaciones Exteriores la decisión de conceder o no el asilo político, previa opinión de la Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 30 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 69.
+
+La decisión sobre el otorgamiento o no del asilo político será comunicada al solicitante del mismo; el reglamento de esta Ley establecerá el plazo para tales efectos.
+
+En los casos en los cuales la Secretaría de Relaciones Exteriores, otorgue asilo político, ésta y la Representación, de manera coordinada, tomarán las medidas necesarias para que, en su caso, el asilado sea trasladado a territorio nacional.
+
+Otorgado el asilo político, la Secretaría de Relaciones Exteriores notificará su decisión a la Secretaría a efecto de que esta expida el documento migratorio de conformidad con lo establecido en la Ley de Migración.
+
+> <small>(ADICIONADO, D.O.F. 30 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 70.
+
+En caso de que un extranjero se presente en un lugar destinado en México al tránsito internacional de personas y solicite se le conceda asilo político, la Secretaría determinará si la solicitud corresponde a un posible caso de condición de refugiado o de asilo político. En este último supuesto, informará de inmediato a la Secretaría de Relaciones Exteriores de tal situación, debiendo remitir los datos que lo identifiquen, así como las razones que exponga para sustentar su solicitud.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 30 DE OCTUBRE DE 2014)</small>
+
+### CAPÍTULO IV. DEL RETIRO Y RENUNCIA DEL ASILO POLÍTICO
+
+> <small>(ADICIONADO, D.O.F. 30 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 71.
+
+La Secretaría de Relaciones Exteriores podrá retirar el otorgamiento de asilo político en los siguientes casos:
+
+I. En los que se acredite que el asilado ocultó o falseó la información proporcionada;
+
+II. Por realizar actos en territorio nacional que constituyan un riesgo o amenaza para la seguridad nacional;
+
+III. Cuando existan razones fundadas para considerar que el asilado ha cometido un delito contra la paz, el crimen de genocidio, crímenes de lesa humanidad o crímenes de guerra de los definidos en los tratados internacionales de los que el Estado Mexicano sea parte o del delito de terrorismo, o
+
+IV. Cuando desaparezcan las circunstancias que motivaron su otorgamiento.
+
+> <small>(ADICIONADO, D.O.F. 30 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 72.
+
+Los asilados podrán renunciar en cualquier momento a la protección que les fue otorgada, para lo cual será necesario dar aviso por escrito a la Secretaría de Relaciones Exteriores, la que comunicará lo conducente a la Secretaría.
+
+En caso de que un asilado solicite la protección o residencia permanente en otro país, se entenderá que renuncia a la protección que se le otorgó en los Estados Unidos Mexicanos.
+
+En los casos de renuncia a que se refiere el presente artículo, la Secretaría de Relaciones Exteriores realizará las acciones necesarias para dar por terminados los efectos de su condición de estancia en territorio nacional en los términos previstos por el reglamento.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 30 DE OCTUBRE DE 2014)</small>
+
+### CAPÍTULO V. DE LA ESTANCIA EN TERRITORIO NACIONAL
+
+> <small>(ADICIONADO, D.O.F. 30 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 73.
+
+Al solicitante de asilo político se le concederá la condición de estancia de conformidad con lo establecido en la Ley de Migración.
+
+> <small>(ADICIONADO, D.O.F. 30 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 74.
+
+En caso de presentarse una solicitud de extradición de un asilado, la Secretaría de Relaciones Exteriores incluirá la condición de asilado como un elemento al considerar la solicitud de extradición.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 30 DE OCTUBRE DE 2014)</small>
+
+### CAPÍTULO VI. DE LA ASISTENCIA INSTITUCIONAL
+
+> <small>(ADICIONADO, D.O.F. 30 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 75.
+
+La Secretaría, en el ámbito de sus atribuciones y en coordinación con la Secretaría de Relaciones Exteriores, adoptará las medidas necesarias para brindar asistencia institucional a los asilados, en los mismos términos que lo establecido en los artículos 54, 55, 56 y 57 de la Ley.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 30 DE OCTUBRE DE 2014)</small>
+
+### CAPÍTULO VII. DE LOS TRÁMITES PREVISTOS EN LA LEY
+
+> <small>(ADICIONADO, D.O.F. 30 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 76.
+
+El detalle de los procedimientos, plazos, requisitos y criterios de los trámites relacionados con la solicitud de otorgamiento de asilo político, el reconocimiento de la condición de refugiado y de protección complementaria, se sujetará a lo establecido en el reglamento de la presente Ley.
+
 ## TRANSITORIOS
 
 PRIMERO. La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Los procedimientos de solicitantes y refugiados que hayan sido iniciados conforme a lo previsto en la Ley General de Población y su reglamento, y que se encuentren pendientes de resolución podrán substanciarse conforme a lo dispuesto por la presente Ley y su reglamento.
 
-TERCERO. Los refugiados reconocidos anteriormente a la entrada en vigor de la presente Ley podrán solicitar que se les expida el documento migratorio que acredite su legal estancia en el país como refugiado en los términos de la presente Ley y su reglamento.
+> <small>(REFORMADO, D.O.F. 30 DE OCTUBRE DE 2014)</small>
+
+TERCERO. Los refugiados reconocidos anteriormente a la entrada en vigor de la presente Ley podrán solicitar que se les expida el documento migratorio que acredite su condición de legal estancia en el país como residente permanente.
 
 CUARTO. Las secretarías de Gobernación, Educación Pública, Trabajo y Previsión Social, Salud, Relaciones Exteriores y la Procuraduría General de la República realizarán las acciones necesarias para que la implementación del presente Decreto se realice, en su caso, con los recursos aprobados a las mismas, para el ejercicio fiscal que corresponda, por lo que no requerirán recursos adicionales para tales efectos y no incrementarán sus presupuestos regularizables.
 
@@ -534,3 +766,15 @@ QUINTO. El Ejecutivo a través de la Secretaría de Gobernación, contará con u
 México, D.F., a 9 de diciembre de 2010.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Maria Guadalupe Garcia Almanza, Secretaria.- Sen. Arturo Herviz Reyes, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiséis de enero de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 30 DE OCTUBRE DE 2014.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Los asilados reconocidos anteriormente a la entrada en vigor del presente Decreto podrán solicitar que se les expida el documento migratorio, que acredite su condición de estancia en el país de conformidad con lo establecido en la Ley de Migración.
+
+Tercero. La Secretaría de Gobernación y la Secretaría de Relaciones Exteriores realizarán las acciones necesarias para que la implementación de las presentes modificaciones se lleven a cabo con los recursos aprobados en su presupuesto, por lo que no requerirán recursos adicionales para tales efectos y no incrementarán su presupuesto regularizable para el presente ejercicio fiscal y los subsecuentes.
+
+Cuarto. Se deberá establecer en los reglamentos respectivos el procedimiento por medio del cual la Comisión Mexicana de Ayuda a Refugiados atenderá y desahogará los casos a los que hacen referencia los artículos 35 Bis y 70 de la presente Ley.
