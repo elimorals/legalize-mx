@@ -4,7 +4,7 @@ identifier: "NAY-estatuto-juridico-para-los-trabajadores-al-servicio-del-12567"
 country: "mx"
 rank: "estatuto"
 publication_date: "1975-05-14"
-last_updated: "1975-05-14"
+last_updated: "2014-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NAY"
 ---
 # ESTATUTO JURIDICO PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO, MUNICIPIOS E INSTITUCIONES DESCENTRALIZADAS DE CARACTER ESTATAL
 
-ESTATUTO JURÍDICO PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO, MUNICIPIOS E INSTITUCIONES DESCENTRALIZADAS DE CARÁCTER ESTATAL
+ESTATUTO JURÍDICO PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO, MUNICIPIOS E INSTITUCIONES DESCENTRALIZADAS DE CARÁCTER ESTATAL DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2014.
 
 Estatuto publicado en el Periódico Oficial del Estado de Nayarit, el miércoles 14 de mayo de 1975.
 
@@ -235,9 +235,11 @@ En los reglamentos de esta Ley se procurará que los dos días de descanso en la
 
 Los trabajadores que presten sus servicios ordinariamente el sábado y domingo, tendrán derecho a una prima adicional de un veinticinco por ciento por los menos, sobre el salario de los días ordinarios de trabajo.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2014)</small>
+
 ###### ARTICULO 32.
 
-Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto y de dos después del mismo. Durante la lactancia tendrán dos descansos extraordinarios por día de media hora cada uno para alimentar a sus hijos.
+Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto, y de otros dos después del mismo. Durante la lactancia tendrán derecho a decidir entre contar con dos reposos extraordinarios por día, de media hora cada uno, o bien, un descanso extraordinario por día, de una hora para amamantar a sus hijos o para realizar la extracción manual de leche, en lugar adecuado e higiénico que designe la institución o dependencia y tendrán acceso a la capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de edad.
 
 ###### ARTICULO 33.
 
@@ -367,7 +369,7 @@ El salario no es susceptible de embargo judicial o administrativo, fuera de lo e
 
 Es nula la cesión de salarios a favor de tercera persona.
 
-### Capítulo V. DE LAS OBLIGACIONES DEL ESTADO, AYUNTAMIENTOS E INSTITUCIONES DECENTRALIZADOS CON SUS TRABAJADORES CONSIDERADOS INDIVIDUALMENTE
+### Capítulo V. DE LAS OBLIGACIONES DEL ESTADO, AYUNTAMIENTOS E INSTITUCIONES DESCENTRALIZADAS CON SUS TRABAJADORES CONSIDERADOS INDIVIDUALMENTE
 
 ###### ARTICULO 59.
 
@@ -1152,3 +1154,11 @@ LIC. ROBERTO GOMEZ REYES. Rúbrica
 El Director General de Gobernación,
 
 LIC. HECTOR VELAZQUEZ RODRIGUEZ. Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE OCTUBRE DE 2014.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo.- Se concede un plazo de trescientos sesenta y cinco días naturales, contados a partir de la fecha en que entren en vigor estas modificaciones, para que los sujetos obligados efectúen las adecuaciones físicas necesarias para dar cumplimiento a las disposiciones de este Decreto.
