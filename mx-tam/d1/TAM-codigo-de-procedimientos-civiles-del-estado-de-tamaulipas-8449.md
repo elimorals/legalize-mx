@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-civiles-del-estado-de-tamaulipas-8449"
 country: "mx"
 rank: "codigo"
 publication_date: "1961-10-04"
-last_updated: "2014-10-28"
+last_updated: "2014-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE OCTUBRE DE 2014 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2014.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 30 DE OCTUBRE DE 2014 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO LXII-275 PUBLICADO EN EL P.O. DE 28 DE OCTUBRE DE 2014.</small>
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el 4 de octubre de 1961.
 
@@ -5421,7 +5421,7 @@ I.- El depositario que se nombre tendrá el carácter de simple custodio de los 
 
 II.- Si los muebles embargados produjeren frutos o rendimientos, el depositario quedará obligado a rendir una cuenta mensual, que presentará al juzgado dentro de los primeros diez días de cada mes natural;
 
-III.- El depositario pondrá en conocimiento del juzgado el lugar en que quede constituído el depósito y recabará la autorización para hacer, en caso necesario, los gastos de almacenaje. Si no pudiere el depositario hacer los gastos que demande el depósito, pondrá esta circunstancia en conocimiento del juez para que éste, oyendo a las partes en una junta que se celebrará dentro de tres días, decrete el modo de hacer los gastos, en la forma en que acuerden aquéllas o en caso de que no estén de acuerdo, imponga tal obligación a quien obtuvo la orden de secuestro;
+III.- El depositario pondrá en conocimiento del juzgado el lugar en que quede constituído el depósito, y recabará la autorización para hacer, en caso necesario, los gastos de almacenaje. Si no pudiere el depositario hacer los gastos que demande el depósito, pondrá esta circunstancia en conocimiento del juez para que éste, oyendo a las partes en una junta que se celebrará dentro de tres días, decrete el modo de hacer los gastos, en la forma en que acuerden aquéllas o en caso de que no estén de acuerdo, imponga tal obligación a quien obtuvo la orden de secuestro;
 
 IV.- Si los muebles depositados fueren cosas fungibles, el depositario tendrá, además de la obligación que le impone la fracción anterior, la de investigar el precio que en plaza tengan los efectos confiados a su guarda, a fin de que si encuentra ocasión favorable para la venta, lo ponga desde luego en conocimiento del juez, con objeto de que éste determine lo que fuere conveniente; y,
 
