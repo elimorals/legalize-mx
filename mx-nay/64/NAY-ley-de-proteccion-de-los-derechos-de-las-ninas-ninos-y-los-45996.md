@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-proteccion-de-los-derechos-de-las-ninas-ninos-y-los-4599
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-30"
-last_updated: "2006-09-07"
+last_updated: "2014-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NAY"
 ---
 # LEY DE PROTECCION DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y LOS ADOLESCENTES DEL ESTADO DE NAYARIT
 
-LEY DE PROTECCION DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y LOS ADOLESCENTES DEL ESTADO DE NAYARIT
+LEY DE PROTECCIÓN DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y LOS ADOLESCENTES DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE SEPTIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2014.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Nayarit, el sábado 30 de julio de 2005.
 
@@ -265,7 +265,9 @@ a) Reducir la mortalidad infantil.
 
 b) Asegurarles asistencia médica y sanitaria para la prevención, tratamiento y la rehabilitación de su salud.
 
-c) Promover la lactancia materna.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2014)</small>
+
+c) Capacitar y fomentar la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de edad.
 
 d) Combatir la desnutrición mediante la promoción de una alimentación adecuada.
 
@@ -571,7 +573,9 @@ La Secretaría de Planeación y Desarrollo, de Salud y el Sistema para el Desarr
 
 ### CAPÍTULO CUARTO. De la Secretaría de Salud
 
-Artículo 6I. Corresponde a la Secretaría de Salud del Estado, en relación con las niñas, niños y adolescentes:
+###### Artículo 61.
+
+Corresponde a la Secretaría de Salud del Estado, en relación con las niñas, niños y adolescentes:
 
 I. Realizar las acciones necesarias de prevención y provisión, para garantizar la salud;
 
@@ -617,11 +621,11 @@ IV. Desarrollar campañas en materia de educación sexual, encaminadas a la prev
 
 ### CAPÍTULO QUINTO. Del Derecho a la Educación y la Cultura
 
-###### ARTICULO 63.
+###### Artículo 63.
 
 Niñas, niños y adolescentes tienen derecho a una educación tendiente a desarrollar armónicamente todas las facultades del ser humano, y fomentar a la vez el amor a la patria, y la conciencia de la solidaridad internacional en la independencia y en la justicia, en los términos del artículo 3° de la Constitución General de la República.
 
-###### ARTICULO 64.
+###### Artículo 64.
 
 Las autoridades educativas locales fortalecerán las medidas necesarias para:
 
@@ -643,11 +647,11 @@ VIII. Difundir programas formativos para que a través de coordinaciones interin
 
 IX. Promover dentro de las bibliotecas públicas, la creación de espacios especialmente para niñas, niños y adolescentes, fomentado así la lectura y el conocimiento.
 
-###### ARTICULO 65.
+###### Artículo 65.
 
 Quien ejerza la patria potestad o tutela de las niñas, niños y adolescentes estará obligado a hacer que sus hijos o pupilos concurran a recibir educación preescolar, primaria y secundaria; su incumplimiento se sujetará a las sanciones establecidas en esta Ley.
 
-###### ARTICULO 66.
+###### Artículo 66.
 
 Las instituciones educativas, públicas y privadas, elaborarán el reglamento escolar que las rija, tomando en cuenta los principios rectores de esta Ley.
 
@@ -987,7 +991,7 @@ El incumplimiento a las disposiciones contenidas en esta ley, será motivo para 
 
 I. Amonestación;
 
-II. Multa de una (sic) hasta quinientas veces el salario mínimo vigente en la entidad a la fecha en que ocurra el incumplimiento;
+II. Multa de una hasta quinientas veces el salario mínimo vigente en la entidad a la fecha en que ocurra el incumplimiento;
 
 III. Arresto hasta por treinta y seis horas;
 
@@ -1047,8 +1051,12 @@ Dip. Presidente, Yolanda del Real Ureña.- Rúbrica.-Dip. Secretario, Everardo S
 
 Y en cumplimiento a lo dispuesto de la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los veintinueve días del mes de julio del año dos mil cinco.- C.P. ANTONIO ECHEVARRÍA DOMÍNGUEZ.- Rúbrica.- El Secretario General de Gobierno, Lic. Adán Meza Barajas.- Rubrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 7 DE SEPTIEMBRE DE 2006.
 
 Artículo Único.- Las reformas contenidas en el presente Decreto entrarán en vigor el 13 de septiembre del 2006, previa publicación en el Periódico Oficial.
+
+P.O. 30 DE OCTUBRE DE 2014.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
