@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2014-10-09"
+last_updated: "2014-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2014.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -289,7 +289,7 @@ La disposición de cuerpos, órganos y tejidos de seres humanos con fines terap�
 
 ###### Art. 39.
 
-En caso de disposición de cuerpos, total o parcialmente para después de la muerte o en el caso de muerte cerebral, el consentimiento para ello se regirá por cualesquiera de las siguientes formas:
+En caso de disposición de cuerpos, total o parcialmente para después de la muerte o en el caso de muerte cerebral, el consentimiento para ello se regirá por cualquiera de las siguientes formas:
 
 > <small>(REFORMADA, P.O. 30 DE JULIO DE 2011)</small>
 
@@ -319,195 +319,87 @@ V. En caso de concurrencia entre dos o más sujetos de los considerados en las f
 
 VI. (DEROGADA, P.O. 26 DE AGOSTO DE 2006) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 2006)
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE OCTUBRE DE 2014)</small>
 
 ### CAPITULO III. De la información privada
 
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+Art. 40 bis 1.- (DEROGADO, P.O. 30 DE OCTUBRE DE 2014)
 
-Art. 40 bis 1.- información privada es la que se genera a partir de los datos referidos a una persona física, cuya divulgación no esté prevista en disposiciones de orden público.
+Art. 40 bis 2.- (DEROGADO, P.O. 30 DE OCTUBRE DE 2014)
 
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+Art. 40 bis 3.- (DEROGADO, P.O. 30 DE OCTUBRE DE 2014)
 
-Art. 40 bis 2.- Los datos de las personas físicas constituyen un derecho que sólo corresponde disponer al titular en los términos de la ley.
+Art. 40 bis 4.- (DEROGADO, P.O. 30 DE OCTUBRE DE 2014)
 
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+Art. 40 bis 5.- (DEROGADO, P.O. 30 DE OCTUBRE DE 2014)
 
-Art. 40 bis 3.- Son datos personales las referencias personales de cualquier tipo, tales como nombre, domicilio, estado civil, empleo, escolaridad o cualquier otra que describa la situación o estado de la persona con relación a su vida familiar, social o laboral.
+Art. 40 bis 6.- (DEROGADO, P.O. 30 DE OCTUBRE DE 2014)
 
-Se consideran datos sensibles la información personal que revelan origen racial y étnico, opiniones políticas, convicciones religiosas, filosóficas o morales, afiliación política e información referente a la salud o a la vida sexual.
+Art. 40 bis 7.- (DEROGADO, P.O. 30 DE OCTUBRE DE 2014)
 
-Son datos informatizados, los personales sometidos al tratamiento o procesamiento electrónico o automatizado.
+Art. 40 bis 8.- (DEROGADO, P.O. 30 DE OCTUBRE DE 2014)
 
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+Art. 40 bis 9.- (DEROGADO, P.O. 30 DE OCTUBRE DE 2014)
 
-Art. 40 bis 4.- Es titular de los datos toda persona física con domicilio en el Estado de Jalisco, cuya información sean (sic) objeto del tratamiento al que se refiere este capítulo.
+Art. 40 bis 10.- (DEROGADO, P.O. 30 DE OCTUBRE DE 2014)
 
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+Art. 40 bis 11.- (DEROGADO, P.O. 30 DE OCTUBRE DE 2014)
 
-Art. 40 bis 5.- La administración de información privada que posean instituciones públicas se regirá por la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco, las demás leyes de la materia y este capítulo, en su caso.
+Art. 40 bis 12.- (DEROGADO, P.O. 30 DE OCTUBRE DE 2014)
 
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+Art. 40 bis 13.- (DEROGADO, P.O. 30 DE OCTUBRE DE 2014)
 
-Art. 40 bis 6.- Los datos personales sólo pueden ser utilizados para fines lícitos.
+Art. 40 bis 14.- (DEROGADO, P.O. 30 DE OCTUBRE DE 2014)
 
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+Art. 40 bis 15.- (DEROGADO, P.O. 30 DE OCTUBRE DE 2014)
 
-Art. 40 bis 7.- Los registros de datos personales deben contener información cierta, adecuada, pertinente y no excesivos en relación al ámbito y finalidad para los que se hubieren obtenido.
+Art. 40 bis 16.- (DEROGADO, P.O. 30 DE OCTUBRE DE 2014)
 
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+Art. 40 bis 17.- (DEROGADO, P.O. 30 DE OCTUBRE DE 2014)
 
-Art. 40 bis 8.- La recolección de datos no puede hacerse por medios desleales, fraudulentos o en forma contraria a las disposiciones de este capítulo.
+Art. 40 bis 18.- (DEROGADO, P.O. 30 DE OCTUBRE DE 2014)
 
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+Art. 40 bis 19.- (DEROGADO, P.O. 30 DE OCTUBRE DE 2014)
 
-Art. 40 bis 9.- Los datos personales no pueden ser utilizados para finalidades distintas a las que motivaron su obtención.
+Art. 40 bis 20.- (DEROGADO, P.O. 30 DE OCTUBRE DE 2014)
 
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+Art. 40 bis 21.- (DEROGADO, P.O. 30 DE OCTUBRE DE 2014)
 
-Art. 40 bis 10.- Los datos total o parcialmente inexactos, o que sean incompletos, deben ser suprimidos y sustituidos, o en su caso completados por el responsable del archivo o base de datos, cuando se tenga conocimiento de la inexactitud o carácter incompleto de la información de que se trate, sin perjuicio de los derechos del titular establecidos en este artículo.
+Art. 40 bis 22.- (DEROGADO, P.O. 30 DE OCTUBRE DE 2014)
 
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+Art. 40 bis 23.- (DEROGADO, P.O. 30 DE OCTUBRE DE 2014)
 
-Art. 40 bis 11.- Sea cual fuere la forma de almacenamiento de datos o la persona que posea la información, el titular tiene derecho de acceso a los mismos para imponerse de su contenido.
+Art. 40 bis 24.- (DEROGADO, P.O. 30 DE OCTUBRE DE 2014)
 
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+Art. 40 bis 25.- (DEROGADO, P.O. 30 DE OCTUBRE DE 2014)
 
-Art. 40 bis 12.- Quien administre registros de datos personales deberá destruirlos cuando hayan dejado de ser necesarios o pertinentes a los fines para los cuales hubiesen sido recolectados.
+Art. 40 bis 26.- (DEROGADO, P.O. 30 DE OCTUBRE DE 2014)
 
-De la destrucción se deberá levantar acta circunstanciada ante notario público o dos testigos.
+Art. 40 bis 27.- (DEROGADO, P.O. 30 DE OCTUBRE DE 2014)
 
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+Art. 40 bis 28.- (DEROGADO, P.O. 30 DE OCTUBRE DE 2014)
 
-Art. 40 bis 13.- La información personal contenida en registros particulares puede transferirse a terceros mediante convenio suscrito con arreglo a este capítulo.
+Art. 40 bis 29.- (DEROGADO, P.O. 30 DE OCTUBRE DE 2014)
 
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+Art. 40 bis 30.- (DEROGADO, P.O. 30 DE OCTUBRE DE 2014)
 
-Art. 40 bis 14.- El uso de datos personales es ilícito cuando el titular no hubiere prestado su consentimiento libre, expreso e informado.
+Art. 40 bis 31.- (DEROGADO, P.O. 30 DE OCTUBRE DE 2014)
 
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+Art. 40 bis 32.- (DEROGADO, P.O. 30 DE OCTUBRE DE 2014)
 
-Art. 40 bis 15.- No será necesario el consentimiento cuando:
+Art. 40 bis 33.- (DEROGADO, P.O. 30 DE OCTUBRE DE 2014)
 
-I. Los datos se obtengan de fuentes de acceso público irrestricto;
+Art. 40 bis 34.- (DEROGADO, P.O. 30 DE OCTUBRE DE 2014)
 
-II. Se recaben en virtud de una obligación legal;
+Art. 40 bis 35.- (DEROGADO, P.O. 30 DE OCTUBRE DE 2014)
 
-III. Se trate de listados cuyos datos se limiten a información que obre en registros públicos;
+Art. 40 bis 36.- (DEROGADO, P.O. 30 DE OCTUBRE DE 2014)
 
-IV. Deriven de una relación contractual del titular de los datos, y resulte necesario su uso para el desarrollo o cumplimiento de una obligación;
+Art. 40 bis 37.- (DEROGADO, P.O. 30 DE OCTUBRE DE 2014)
 
-V. Se trate de datos que tengan fines estadísticos y se despersonalicen de tal forma que no puedan ser vinculados con el titular; y
+Art. 40 bis 38.- (DEROGADO, P.O. 30 DE OCTUBRE DE 2014)
 
-VI. Se trate de información recabada sin fines de lucro, destinada a apoyar instituciones de beneficiencia (sic) pública.
-
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
-
-Art. 40 bis 16.- Cuando se recaben datos personales se deberá informar previamente a sus titulares en forma expresa y clara:
-
-I. La finalidad del registro y quiénes pueden ser sus destinatarios o clase de destinatarios;
-
-II. La existencia del archivo, registro, banco de datos, electrónico o de cualquier otro tipo de que se trate y la identidad y domicilio de su responsable;
-
-III. El carácter obligatorio o facultativo de las respuestas al cuestionario que se le proponga.
-
-IV. Las consecuencias de proporcionar los datos, de la negativa de hacerlo o de la inexactitud de los mismos; y
-
-V. La posibilidad del interesado de ejercer los derechos de acceso, rectificación y supresión de los datos.
-
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
-
-Art. 40 bis 17.- Queda prohibida la formación y transferencia de archivos, bancos o registros que almacenen información que directa o indirectamente revele datos sensibles de la persona.
-
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
-
-Art. 40 bis 18.- Los datos sensibles sólo pueden ser recolectados y objeto de registro y transferencia cuando medien razones de interés general autorizadas por ley. También podrán ser tratados con finalidades estadísticas o científicas cuando no puedan ser identificados sus titulares.
-
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
-
-Art. 40 bis 19.- Los establecimientos y profesionales vinculados a los servicios de salud pueden recolectar y tratar los datos personales relativos al estado físico o mental de los pacientes que acudan a los mismos o que estén o hubieren estado bajo tratamiento de aquellos, debiendo guardar en secreto los datos del paciente.
-
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
-
-Art. 40 bis 20.- El responsable o usuario del archivo de datos debe adoptar las medidas técnicas y organizativas que resulten necesarias para garantizar la seguridad y confidencialidad de los datos personales, de modo de evitar su adulteración, pérdida, consulta o tratamiento no autorizado y que permitan detectar desviaciones de información.
-
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
-
-Art. 40 bis 21.- El responsable y las personas que intervengan en cualquier fase de registro o transferencia de datos personales están obligados al secreto profesional respecto de los mismos. Tal obligación subsistirá aún después de finalizada su relación con el titular del archivo de datos.
-
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
-
-Art. 40 bis 22.- Los datos personales objeto de registro sólo pueden ser transferidos para el cumplimiento de los fines directamente relacionados con el interés legítimo del cedente y del cesionario y con el previo consentimiento del titular de los datos, al que se le debe informar sobre la finalidad de la cesión e identificar al cesionario o los elementos que permitan hacerlo. Será nulo el consentimiento cuando no recaiga sobre un cesionario determinado o determinable, o si no constase con claridad la finalidad de la cesión que se consiente.
-
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
-
-Art. 40 bis 23.- El consentimiento para la transferencia de información personal será revocable hasta que no se lleve a cabo la operación.
-
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
-
-Art. 40 bis 24.- Toda persona en cuanto titular de los datos, tiene derecho a solicitar y obtener información de sus datos personales incluidos en los bancos de datos privados destinados a proveer informes.
-
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
-
-Art. 40 bis 25.- El poseedor de información personal tiene la obligación de proporcionar la información que se le solicite en los términos de la fracción anterior dentro de los diez días siguientes a la presentación de la solicitud.
-
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
-
-Art. 40 bis 26.- El derecho de acceso a la información personal en registros privados por parte del titular será ejercido en forma gratuita.
-
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
-
-Art. 40 bis 27.- El ejercicio del derecho a que se refiere la fracción anterior, respecto a los datos de personas fallecidas le corresponderá a sus sucesores.
-
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
-
-Art. 40 bis 28.- En ningún caso el informe que rinda el registro podrá revelar datos pertenecientes a terceros, aun cuando se vinculen con el interesado.
-
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
-
-Art. 40 bis 29.- El responsable o usuario de un registro o banco de datos, debe proceder a la rectificación, supresión o actualización de los datos personales del afectado, realizando las operaciones necesarias a tal fin en el plazo máximo de cinco días hábiles de haber recibido la solicitud del titular de los datos o advertido el error o falsedad.
-
-No procede la supresión de datos cuando pudiese causar perjuicios a derechos o intereses legítimos de terceros, o cuando existiera una obligación legal de conservar los datos.
-
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
-
-Art. 40 bis 30.- Los datos personales deben ser conservados durante los plazos previstos en las disposiciones contractuales que se hubieren suscrito entre el responsable o usuario del banco de datos y el titular de los datos.
-
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
-
-Art. 40 bis 31.- Los responsables de bancos de datos privados denegarán el acceso, rectificación o la supresión de datos de carácter personal en función de la protección de los derechos e intereses de terceros.
-
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
-
-Art. 40 bis 32.- La rectificación, actualización o supresión de datos personales inexactos o incompletos que obren en registros privados se efectuará sin cargo alguno para el interesado.
-
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
-
-Art. 40 bis 33.- Las personas que transfieran archivos, registros o bancos de datos con finalidad de lucro, deberán tener dentro de su objeto social dicha actividad.
-
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
-
-Art. 40 bis 34.- En la prestación de servicios de información para el otorgamiento de créditos sólo pueden tratarse datos personales de carácter patrimonial relativos a la solvencia económica y al crédito, obtenidos de fuentes accesibles al público o procedentes de informaciones facilitadas por el interesado o con su consentimiento.
-
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
-
-Art. 40 bis 35.- Sólo se podrán archivar, registrar o ceder los datos personales que sean significativos para evaluar la solvencia económico-financiera de los afectados durante los últimos cinco años. Dicho plazo se reducirá a dos años cuando el deudor cancele o de otro modo extinga la obligación, debiéndose hacer constar dicho hecho. En los casos de datos originados en concursos este plazo se extenderá a diez años.
-
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
-
-Art. 40 bis 36.- La prestación de servicios de información crediticia no requerirá el previo consentimiento del titular de los datos, cuando su cesión esté relacionada con el giro de las actividades comerciales o crediticias de los cesionarios.
-
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
-
-Art. 40 bis 37.- Se podrán recabar datos personales cuando éstos figuren en documentos accesibles al público o hayan sido facilitados por los propios titulares u obtenidos con su consentimiento. Solo se podrá ceder a un tercero esta información en forma total o parcial si cuenta con el consentimiento expreso y previo del titular de los datos, pudiendo esta conformidad para cesiones posteriores ser prestada en el momento de la recopilación.
-
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
-
-Art. 40 bis 38.- Las disposiciones de este capítulo no se aplicarán a las encuestas de opinión, mediciones, trabajos de prospección de mercados, investigaciones científicas o médicas y actividades análogas, en la medida que los datos recogidos no puedan atribuirse a una persona determinada o determinable.
-
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
-
-Art. 40 bis 39.- Quien administre información privada y afecte su titular responderá por los daños y perjuicios derivados de la inobservancia de este capítulo.
+Art. 40 bis 39.- (DEROGADO, P.O. 30 DE OCTUBRE DE 2014)
 
 ### CAPITULO IV. Del patrimonio
 
@@ -3281,7 +3173,7 @@ En toda adopción se deberá asegurar:
 
 > <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
 
-I. Que las personas y organismos, cuyo consentimiento se requiera para l (sic) adopción, han sido convenientemente asesoradas y debidamente informad (sic) por el Consejero Estatal o Municipal de familia, de las consecuencias legal (sic) que la adopción implica y del consentimiento otorgado en particular de l (sic) ruptura de los vínculos jurídicos entre el infante y su origen en su caso;
+I. Que las personas y organismos, cuyo consentimiento se requiera para l (sic) adopción, han sido convenientemente asesoradas y debidamente informad (sic) por el Consejo Estatal o Municipal de familia, de las consecuencias legal (sic) que la adopción implica y del consentimiento otorgado en particular de l (sic) ruptura de los vínculos jurídicos entre el infante y su origen en su caso;
 
 > <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
@@ -18147,7 +18039,7 @@ TERCERO. El Presupuesto de Egresos del Estado para el ejercicio Fiscal 2007 debe
 
 CUARTO. El Ejecutivo deberá de integrar la Comisión Estatal Indígena dentro de los 45 días siguientes a la entrada en vigor de la presente Ley.
 
-QUINTO. La Junta de Gobierno de la Comisión Estatal Indígena expedirá el Reglamento Interno de dicha entidad en un plazo de dentro noventa días, contados a partir de la entrada en vigor de esta Ley.
+QUINTO. La Junta de Gobierno de la Comisión Estatal Indígena expedirá el Reglamento Interno de dicha entidad en un plazo de noventa días, contados a partir de la entrada en vigor de esta Ley.
 
 SEXTO. Los bienes en posesión o los adquiridos por la Procuraduría para Asuntos Indígenas del Gobierno del Estado, pasarán a formar parte del patrimonio de la Comisión Estatal Indígena.
 
@@ -18334,5 +18226,9 @@ P.O. 7 DE AGOSTO DE 2014.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 9 DE OCTUBRE DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 30 DE OCTUBRE DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
