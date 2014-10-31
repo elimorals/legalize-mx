@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-inversion-extranjera-y-del-registro-121
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-09-08"
-last_updated: "2009-05-04"
+last_updated: "2014-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12146&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "1998-08-27"
 ---
 # REGLAMENTO DE LA LEY DE INVERSION EXTRANJERA Y DEL REGISTRO NACIONAL DE INVERSIONES EXTRANJERAS
 
-REGLAMENTO DE LA LEY DE INVERSION EXTRANJERA Y DEL REGISTRO NACIONAL DE INVERSIONES EXTRANJERAS
+REGLAMENTO DE LA LEY DE INVERSIÓN EXTRANJERA Y DEL REGISTRO NACIONAL DE INVERSIONES EXTRANJERAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE MAYO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE OCTUBRE DE 2014.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el martes 8 de septiembre de 1998.
 
@@ -51,49 +51,11 @@ VI. Resoluciones Generales: los criterios para la aplicación de las disposicion
 
 VII. Sociedades: las personas morales civiles, mercantiles o de cualquier otro carácter constituidas conforme a la legislación mexicana.
 
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
 ###### ARTÍCULO 2.
 
-Para efectos de lo establecido en el Título Primero de la Ley, se estará a lo siguiente:
-
-I. Se encuentran excluidas:
-
-a) De la fracción I del artículo 5o., las actividades relativas al transporte, el almacenamiento y la distribución de gas distinto al licuado de petróleo, en términos de lo dispuesto en la Ley Reglamentaria del artículo 27 Constitucional en el Ramo del Petróleo;
-
-b) De la fracción III del artículo 5o., las actividades que se mencionan a continuación, en los términos de lo dispuesto en la Ley del Servicio Público de Energía Eléctrica:
-
-1. Generación de energía eléctrica para autoabastecimiento, cogeneración o pequeña producción;
-
-2. Generación de energía eléctrica que realicen los productores independientes para su venta a la Comisión Federal de Electricidad;
-
-3. Generación de energía eléctrica para su exportación, derivada de cogeneración, producción independiente y pequeña producción;
-
-4. Importación de energía eléctrica por parte de personas físicas o morales, destinada exclusivamente al autoabastecimiento para usos propios, y
-
-5. Generación de energía eléctrica destinada a uso en emergencias derivadas de interrupciones en el servicio público de energía eléctrica.
-
-c) De la fracción X del artículo 8o., en los términos de lo dispuesto en la Ley Reglamentaria del Artículo 27 Constitucional en el Ramo del Petróleo, la construcción, operación y propiedad de ductos, instalaciones y equipos, relativos al transporte y distribución de gas natural;
-
-II. En lo que se refiere a la fracción II del artículo 5o., constituyen petroquímicos básicos, en los términos de lo dispuesto en la Ley Reglamentaria del Artículo 27 Constitucional en el Ramo del Petróleo, los que a continuación se enumeran:
-
-a) Etano;
-
-b) Propano;
-
-c) Butanos;
-
-d) Pentanos;
-
-e) Hexano;
-
-g) (sic) Heptano;
-
-h) (sic) Materia prima para negro de humo;
-
-i) (sic) Naftas, e
-
-j) (sic) Metano, cuando provenga de carburos de hidrógeno, obtenidos de yacimientos ubicados en el territorio nacional y se utilice como materia prima en procesos industriales petroquímicos, y
-
-III. Las acciones serie “T” a que se refiere el artículo 7o., fracción III, inciso r), representan exclusivamente el capital aportado en tierras agrícolas, ganaderas o forestales, o el destinado a la adquisición de las mismas, en los términos de lo dispuesto en la Ley Agraria.
+Para efectos del inciso r) de la fracción III del artículo 7o. de la Ley, las acciones serie “T” a que se refiere dicho inciso representan exclusivamente el capital aportado en tierras agrícolas, ganaderas o forestales, o el destinado a la adquisición de las mismas, en términos de la Ley Agraria.
 
 ###### ARTÍCULO 3.
 
@@ -193,7 +155,7 @@ VII. Distancia del inmueble respecto de la frontera o de la Zona Federal Maríti
 
 A la solicitud deberá acompañarse un anexo que contenga las medidas y colindancias del inmueble.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE MAYO DE 2009)</small>
 
 ###### ARTÍCULO 10.
 
@@ -259,9 +221,7 @@ Para efectos de lo dispuesto en el artículo 13 de la Ley, los interesados, por 
 
 ###### ARTÍCULO 13.
 
-El permiso para la constitución de sociedades a que se refiere el artículo 15 de la Ley se otorgará solamente cuando la denominación o razón social que se pretenda utilizar no se encuentre reservada por una sociedad distinta.
-
-Si en la denominación o razón social solicitada, se incluyen palabras o vocablos cuyo uso se encuentre regulado específicamente por otras leyes, la Secretaría de Relaciones Exteriores condicionará el uso de los permisos a la obtención de las autorizaciones que establezcan dichas disposiciones legales.
+(DEROGADO, D.O.F. 31 DE OCTUBRE DE 2014)
 
 ###### ARTÍCULO 14.
 
@@ -277,31 +237,23 @@ El convenio o pacto señalados deberán incluir la renuncia a invocar la protecc
 
 ###### ARTÍCULO 15.
 
-La Secretaría de Relaciones Exteriores otorgará el permiso para el cambio de denominación o razón social a que se refiere el artículo 16 de la Ley siempre que, además de cumplirse con lo dispuesto en el artículo 13 de este Reglamento, se acredite la voluntad de la persona moral de efectuar la modificación solicitada.
+(DEROGADO, D.O.F. 31 DE OCTUBRE DE 2014)
 
 ###### ARTÍCULO 16.
 
-Los permisos para la constitución de sociedades o modificación de denominación o razón social o, en su caso, las constancias correspondientes a que se refiere el artículo 17 de la Ley Federal de Procedimiento Administrativo, que no sean recogidos por los interesados dentro de los veinte días hábiles posteriores a su expedición, quedarán sin efectos.
+(DEROGADO, D.O.F. 31 DE OCTUBRE DE 2014)
 
 ###### ARTÍCULO 17.
 
-Dentro de los noventa días hábiles siguientes a la fecha en que la Secretaría de Relaciones Exteriores otorgue los permisos para la constitución de sociedades o modificación de denominación o razón social, los interesados deben acudir a otorgar ante fedatario público el instrumento correspondiente a la constitución o a las reformas estatutarias de la sociedad de que se trate.
-
-Transcurrido el término antes citado sin que se hubiere otorgado el instrumento público correspondiente, el permiso quedará sin efectos.
+(DEROGADO, D.O.F. 31 DE OCTUBRE DE 2014)
 
 ###### ARTÍCULO 18.
 
-Dentro de los seis meses siguientes a la expedición de los permisos para la constitución de sociedades o cambio de denominación o razón social a que se refieren los artículos 15 y primer párrafo del 16 de la Ley, el interesado debe dar aviso del uso del mismo a la Secretaría de Relaciones Exteriores.
-
-Tratándose del permiso para la constitución de sociedades, el aviso debe especificar la inclusión en el instrumento correspondiente de la cláusula de exclusión de extranjeros o, en su caso, del convenio previsto en el artículo 14 de este Reglamento.
-
-Tratándose de liquidación, fusión o escisión de sociedades, se deberá dar aviso a la Secretaría de Relaciones Exteriores, dentro del mes siguiente en que el acto se haya llevado a cabo.
-
-Los interesados podrán optar por presentar los avisos por conducto de la Secretaría de Hacienda y Crédito Público, cuando conforme a las disposiciones fiscales se deban presentar avisos ante el Registro Federal de Contribuyentes relativos a la constitución, cambio de denominación o razón social, liquidación, fusión o escisión de sociedades. La Secretaría de Hacienda y Crédito Público deberá hacer llegar a la Secretaría de Relaciones Exteriores la información contenida en los mismos dentro de los tres meses siguientes a su presentación.
+(DEROGADO, D.O.F. 31 DE OCTUBRE DE 2014)
 
 ###### ARTÍCULO 19.
 
-La Secretaría de Relaciones Exteriores reservará a las sociedades el uso exclusivo de sus denominaciones o razones sociales conforme a los permisos que otorgue, salvo cuando el interesado incumpla lo dispuesto en el primer párrafo del artículo anterior o se extinga la sociedad correspondiente.
+(DEROGADO, D.O.F. 31 DE OCTUBRE DE 2014)
 
 ###### ARTÍCULO 20.
 
@@ -427,9 +379,37 @@ En el caso de sociedades extranjeras, el acta constitutiva a que se refiere la f
 
 Los documentos que se presenten en un idioma distinto al español deberán acompañarse con su traducción hecha por perito traductor.
 
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+ARTÍCULO 29 BIS.- Para que la Comisión resuelva la solicitud de opinión a que se refiere el artículo 77 de la Ley Federal de Telecomunicaciones y Radiodifusión, la sociedad de que se trate deberá presentar ante el Secretario Ejecutivo de la Comisión, lo siguiente:
+
+I. Solicitud por escrito, en original y copia simple, en la cual se describan los datos de identificación de la sociedad solicitante, así como su estructura actual o propuesta de capital, incluyendo a todos los socios, asociados, accionistas, fondos, fideicomisos o cualquier entidad que participe o participaría en el capital de dicha sociedad, de forma directa o indirecta;
+
+II. Escritura, acta, certificado o cualquier otro instrumento de constitución, así como los estatutos sociales o instrumento por el cual se rige la sociedad solicitante. Dichos documentos deberán ser presentados también de cualquier persona o entidad que participe o pretenda participar de manera directa en el capital de la sociedad solicitante o de manera indirecta, en este último caso de conformidad con la fracción V de este artículo;
+
+III. Los datos y documentos que acrediten fehacientemente el detalle de la estructura actual o propuesta de capital de la sociedad solicitante a que se refiere la fracción I de este artículo, así como los necesarios para determinar, según corresponda, la nacionalidad, valor y características de cada participación, incluyendo a cualquier persona o entidad que participe o pretenda participar de manera directa en el capital de ésta o de manera indirecta, en este último caso de conformidad con la fracción V de este artículo;
+
+IV. En su caso, cualquier fideicomiso, convenio, pacto social o estatutario, esquema o cualquier otro mecanismo que otorgue control, una participación mayor o derechos especiales en favor de cualquiera de las personas o entidades referidas en la fracción I de este artículo, tanto para el caso de los que participen de forma directa como indirecta, en este último caso de conformidad con la fracción V del presente artículo;
+
+V. Los datos y documentos señalados en las fracciones II, III y IV de este artículo, deberán presentarse cuando una persona o entidad participe indirectamente en la sociedad solicitante cuando:
+
+a) Tenga un porcentaje superior al 49% en, o que por cualquier medio controle a, los que participen directa o indirectamente en el capital de la sociedad solicitante, y/o
+
+b) Participe, en cualquier proporción, en el capital de una sociedad que participe directa o indirectamente en la sociedad solicitante, cuando no exista persona o entidad que tenga un porcentaje superior al 49% o ejerza el control de la persona o entidad de que se trate, y
+
+VI. Comprobante de pago de derechos previstos en la Ley Federal de Derechos.
+
+En el caso de personas morales o entidades extranjeras, el acta constitutiva o equivalente deberá estar legalizada ante cónsul mexicano o, cuando resulte aplicable, apostillada de conformidad con la Convención por la que se suprime el requisito de Legalización de los Documentos Públicos Extranjeros.
+
+Los documentos que se presenten en un idioma distinto al español deberán acompañarse con su traducción hecha por perito traductor.
+
 ## TÍTULO SÉPTIMO. DEL REGISTRO NACIONAL DE INVERSIONES EXTRANJERAS
 
-### Capítulo I. De la Organización y Funcionamiento, y de las Inscripciones en General
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+### Capítulo I. De la Organización y Funcionamiento, y de los Trámites en General
 
 ###### ARTÍCULO 30.
 
@@ -467,33 +447,41 @@ Los documentos que se presenten en un idioma distinto al español deberán acomp
 
 Los formatos en los que se formulen las solicitudes, avisos e informes dirigidos al Registro deberán presentarse en idioma español, en forma veraz, completos y debidamente requisitados en original y copia simple, ante las correspondientes oficinas receptoras de documentos de la Secretaría, las que devolverán al interesado la copia simple de los mismos con indicación del número y fecha de presentación, así como con el sello de la Secretaría. Asimismo, en la copia simple que se entregue al particular, se indicará si la solicitud, aviso o informe se presentó con o sin errores u omisiones obvias.
 
-En caso de que los formatos a que hace referencia el párrafo anterior se presenten por correo, mensajería privada o telecopia, se enviará por correo la copia simple mencionada en dicho párrafo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Si una vez recibido el formato original a que hace referencia el primer párrafo de este artículo, y como resultado de un análisis detallado de dicho formato, se detecta que no contiene todos los datos y documentos correspondientes o se omitió alguna notificación al Registro, se requerirá al particular para que subsane las omisiones o incumplimientos dentro de los cinco días hábiles siguientes a la notificación del requerimiento correspondiente. En el supuesto de que no se desahogue el requerimiento en el plazo mencionado, la autoridad desechará el formato original y el asunto de que se trate se entenderá como no tramitado. En caso de que la Secretaría no realice el requerimiento dentro de los veinte días hábiles siguientes a la presentación del formato original, se entenderá que éste fue debidamente requisitado.
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+En caso de que los formatos a que hace referencia el párrafo anterior se presenten por correo certificado con acuse de recibo o mensajería, se enviará por correo la copia simple mencionada en dicho párrafo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+Si una vez recibido el formato original a que hace referencia el primer párrafo de este artículo, y como resultado de un análisis detallado de dicho formato, se detecta que no contiene todos los datos y documentos correspondientes o se omitió alguna notificación al Registro, se requerirá al particular para que subsane las omisiones o incumplimientos dentro de los cinco días hábiles siguientes a la notificación del requerimiento correspondiente. En el supuesto de que no se desahogue el requerimiento en el plazo mencionado, la autoridad desechará el formato original y el asunto de que se trate se entenderá como no presentado. En caso de que la Secretaría no realice el requerimiento a que se refiere este párrafo dentro de los diez días hábiles siguientes a la presentación del formato original, se entenderá que éste fue debidamente requisitado.
 
 ###### ARTÍCULO 35.
 
 La copia simple del formato a que se refiere el primer párrafo del artículo anterior, será considerada como constancia de inscripción, renovación de constancia de inscripción, cancelación de inscripción, o confirmación de toma de nota, según sea el caso, siempre que tenga el sello de la Secretaría, el número y fecha de presentación e indique que el escrito fue presentado sin errores u omisiones obvias.
 
-La copia simple mencionada en el párrafo anterior será válida como constancia del trámite de que se trate, siempre y cuando:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-I. El trámite proceda en los términos del artículo 36 de este Reglamento, y
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-II. El formato original correspondiente no haya sido desechado como resultado del incumplimiento de requerimientos.
+La copia simple mencionada en el párrafo anterior será válida como constancia del trámite de que se trate, siempre y cuando el formato original correspondiente no haya sido desechado como resultado de algún incumplimiento de conformidad con la Ley y este Reglamento, o se haya señalado en la solicitud, aviso o informe que se presentó con errores u omisiones obvias.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+I. (DEROGADA, D.O.F. 31 DE OCTUBRE DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+II. (DEROGADA, D.O.F. 31 DE OCTUBRE DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 36.
 
-Las inscripciones, renovaciones de constancias de inscripción, cancelaciones de inscripción, avisos, informes y anotaciones en el Registro, procederán siempre que:
-
-I. Se observen las disposiciones previstas en la Ley y en este Reglamento y, en su caso, se obtengan las autorizaciones o permisos que correspondan;
-
-II. No se hubiere omitido la presentación al Registro de los avisos o informes previstos en este Reglamento;
-
-III. Se presenten en los formatos a que se refiere la fracción I del artículo 33 de este Reglamento, completos y debidamente requisitados, así como con la documentación comprobatoria que, en su caso, sustente las solicitudes y los avisos que deban notificarse al Registro;
-
-IV. Se acredite previamente el pago de los derechos previstos en la Ley Federal de Derechos, y
-
-V. Se acredite previamente el pago de la sanción que, en su caso, se determine de conformidad con el artículo 38 de la Ley.
+(DEROGADO, D.O.F. 31 DE OCTUBRE DE 2014)
 
 ### Capítulo II. De la Inscripción de las Personas Físicas, Personas Morales Extranjeras y de las Sociedades Mexicanas
 
@@ -501,49 +489,55 @@ V. Se acredite previamente el pago de la sanción que, en su caso, se determine 
 
 Las personas físicas y las personas morales extranjeras deberán presentar su solicitud de inscripción al Registro dentro de los cuarenta días hábiles siguientes a la fecha en que inicien la realización habitual de actos de comercio.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
 ###### ARTÍCULO 38.
 
-Para obtener su inscripción y mantener actualizada la información presentada ante el Registro, las personas físicas, personas morales extranjeras, y las sociedades mexicanas deben proporcionar:
+Para obtener su inscripción y mantener actualizada la información presentada ante el Registro, los sujetos a que se refieren las fracciones I y II del artículo 32 de la Ley deben proporcionar:
 
 I. Fecha en que inician la realización habitual de actos de comercio o el establecimiento de la sucursal o fecha de constitución y fecha de ingreso de la inversión extranjera; datos para determinar la nacionalidad, origen, valor y características generales de la inversión realizada en el capital o haber social; datos del representante legal; nombre de las personas autorizadas para oír y recibir notificaciones, y datos para determinar la identidad, actividad económica y ubicación de las personas sujetas a inscripción.
 
-Esta información deberá proporcionarse al momento de presentar la solicitud de inscripción y dentro de los cuarenta días hábiles siguientes a la fecha en que se produzca cualquier cambio a dicha información;
+La información a que se refiere el párrafo anterior deberá proporcionarse al momento de presentar la solicitud de inscripción.
+
+La actualización de la información a que se refiere esta fracción deberá realizarse de forma trimestral por los periodos comprendidos de enero a marzo; abril a junio; julio a septiembre, y octubre a diciembre y sólo cuando la inversión supere el monto que la Comisión establezca mediante resolución general publicada en el Diario Oficial de la Federación.
+
+La presentación de la actualización de la información a que se refiere el párrafo anterior deberá efectuarse dentro de los diez días hábiles siguientes al cierre del trimestre en el que se haya realizado la modificación a dicha información;
 
 II. Datos para determinar el valor de los ingresos y egresos derivados de:
 
-a) Nuevas aportaciones o retiro de éstas, que no afecten el capital social;
+a) Nuevas aportaciones y reservas o retiro de alguna de éstas, que no afecten el capital social;
 
 b) Retención de utilidades del último ejercicio fiscal y disposición de utilidades retenidas acumuladas, o
 
-c) Préstamos por pagar o por cobrar a: subsidiarias residentes en el exterior; a la matriz en el exterior; a inversionistas extranjeros residentes en el exterior que participen como socios o accionistas, y a inversionistas extranjeros residentes en el exterior que sean parte del grupo corporativo al que pertenece la persona física, persona moral extranjera o sociedad mexicana que presenta el reporte.
+c) Préstamos por pagar o por cobrar a: subsidiarias residentes en el exterior; a la matriz en el exterior; a inversionistas extranjeros residentes en el exterior que participen como socios o accionistas, y a inversionistas extranjeros residentes en el exterior que sean parte del grupo corporativo al que pertenece el sujeto obligado a presentar el reporte.
 
-Esta información deberá presentarse dentro de los veinte días hábiles siguientes al cierre de cada trimestre. Se entenderá que los trimestres a considerar son los siguientes: de enero a marzo; de abril a junio; de julio a septiembre, y de octubre a diciembre.
+La información a que se refiere esta fracción deberá presentarse dentro de los diez días hábiles siguientes al cierre de cada trimestre. Se entenderá que los trimestres a considerar son los siguientes: de enero a marzo; de abril a junio; de julio a septiembre, y de octubre a diciembre.
 
 En el caso de las personas físicas y personas morales extranjeras la información debe presentarse sólo por lo que se refiere a sus operaciones en territorio nacional.
 
-Sólo se tendrá la obligación de notificar al Registro las modificaciones a que hace referencia esta fracción, cuando los ingresos o egresos totales trimestrales por los conceptos mencionados sean mayores a tres mil veces el salario mínimo general vigente para el Distrito Federal, y
+Sólo se tendrá la obligación de notificar al Registro las modificaciones a que hace referencia esta fracción, cuando los ingresos o egresos totales trimestrales por los conceptos mencionados sean mayores al monto que determine la Comisión, mediante resolución general publicada en el Diario Oficial de la Federación.
 
-III. Datos corporativos, contables, financieros, de empleo, de producción y relativos a la actividad económica de cada establecimiento de la persona sujeta a inscripción, así como datos de identificación y de la persona que puede ser consultada para aclaraciones. La información señalada en esta fracción deberá presentarse:
+Los préstamos a que se refiere el inciso c) de esta fracción incluye valores negociables como los bonos, las obligaciones, el papel comercial, los pagarés y otros valores negociables representativos de empréstitos, así como préstamos, depósitos, crédito comercial y otras cuentas por pagar o por cobrar, con plazo de vencimiento superior a un mes.
+
+Además de presentar la información a que se refiere esta fracción, se deberá señalar el nombre, nacionalidad, país de origen y actividad de los socios o accionistas, acreedores y deudores que participen en la operación reportada, y
+
+III. Datos corporativos, contables, financieros, de empleo, de producción y relativos a la actividad económica de la persona sujeta a inscripción, así como datos de identificación y de la persona que puede ser consultada para aclaraciones. La información señalada en esta fracción deberá presentarse:
 
 a) Al entregar su solicitud de inscripción. En este caso, la información deberá corresponder a la fecha en que estuvieron obligados a inscribirse;
 
-b) Dentro de los siete primeros meses siguientes al día de cierre de cada ejercicio fiscal, de acuerdo a lo establecido en el artículo 43 de este Reglamento. En este caso, la información deberá corresponder al ejercicio fiscal del año inmediato anterior, y
+b) Dentro de los cinco primeros meses siguientes al día de cierre de cada ejercicio fiscal, de acuerdo a lo establecido en el artículo 43 de este Reglamento. En este caso, la información deberá corresponder al ejercicio fiscal del año inmediato anterior, y
 
 c) En caso de solicitar la inscripción de manera extemporánea, por cada ejercicio fiscal transcurrido desde la fecha a partir de la cual estuvieron obligadas a inscribirse, y hasta el último ejercicio fiscal concluido.
 
-La Secretaría podrá exigir la presentación de la información a que se refiere esta fracción correspondiente sólo a los últimos cinco ejercicios fiscales y sociales de las personas físicas, personas morales extranjeras y de las sociedades mexicanas de que se trate.
+La presentación de la información a que se refiere esta fracción sólo deberá considerar los últimos cinco ejercicios fiscales de los sujetos obligados y supere el monto que determine la Comisión mediante resolución general, publicada en el Diario Oficial de la Federación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 39.
 
-Para los efectos de la información a que se refiere el artículo 38 anterior, se entiende por:
-
-I. Domicilio:
-
-a) En el caso de la oficina principal, el lugar o establecimiento en el país en donde se encuentre la administración principal del negocio; de no existir aquél, el domicilio fiscal;
-
-b) En el caso de la planta o establecimiento principal, el lugar en territorio nacional en donde se realizan primordialmente las actividades económicas, y
-
-II. Establecimiento: el lugar donde se desarrolla cualquier actividad económica, entendiéndose como tal, de manera enunciativa y no limitativa, las de carácter comercial, industrial, forestal, avícola, agrícola, ganadero, pesquero, silvícola o de prestación de servicios.
+(DEROGADO, D.O.F. 31 DE OCTUBRE DE 2014)
 
 ###### ARTÍCULO 40.
 
@@ -557,23 +551,29 @@ Para obtener la inscripción de los fideicomisos y mantener actualizada la infor
 
 La información señalada en el párrafo anterior deberá proporcionarse al momento de presentar la solicitud de inscripción y dentro de los cuarenta días hábiles siguientes a la fecha en que se produzca cualquier cambio a dicha información.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+Sólo se tendrá la obligación de actualizar la información a que se refiere este artículo, cuando la inversión supere el monto que determine la Comisión mediante resolución general, publicada en el Diario Oficial de la Federación.
+
 ###### ARTÍCULO 42.
 
 Las instituciones fiduciarias deberán solicitar la cancelación de la inscripción de los fideicomisos en caso de que dejen de encontrarse en los supuestos a que se hace referencia en la fracción III del artículo 32 de la Ley, dentro de los cuarenta días hábiles siguientes a la fecha en que ello ocurra.
 
 ### Capítulo IV. De las Disposiciones Comunes al Registro
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
 ###### ARTÍCULO 43.
 
-Las personas físicas, personas morales extranjeras y las sociedades mexicanas a que se hace referencia en las fracciones I y II del artículo 32 de la Ley, están obligadas a renovar anualmente su constancia de inscripción durante los primeros siete meses de cada año, para lo cual bastará presentar la información a que se refiere el inciso b) de la fracción III del artículo 38 de este Reglamento, de conformidad con el siguiente calendario que depende de la letra con la cual inicia el nombre, denominación o razón social de la persona que presentará el informe:
+Los sujetos a que se refieren las fracciones I y II del artículo 32 de la Ley, deberán renovar anualmente su constancia de conformidad con la resolución general que al efecto emita la Comisión, durante los primeros cinco meses de cada año, para lo cual bastará presentar la información a que se refiere la fracción III del artículo 38 de este Reglamento, de acuerdo con el siguiente calendario que depende de la letra con la cual inicia el nombre, denominación o razón social del sujeto que presentará la información:
 
-I. De la A a la D, durante abril de cada año;
+I. De la A a la J, durante abril de cada año, y
 
-II. De la E a la J, durante mayo de cada año;
-
-III. De la K a la P, durante junio de cada año, y
-
-IV. De la Q a la Z, durante julio de cada año.
+II. De la K a la Z, durante mayo de cada año.
 
 En caso de que la información a que se refiere este artículo se presente antes del mes en que le corresponde presentarla, se tendrá como fecha de presentación el primer día hábil de dicho mes.
 
@@ -603,11 +603,21 @@ d) Otorgamiento de fideicomisos de los que se deriven derechos en favor de la in
 
 II. Notificar al Registro, cuando intervengan en la protocolización de actas de asamblea relativas a actos jurídicos de sociedades en las que participe la inversión extranjera, referentes a modificación en:
 
-a) La denominación o razón social;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-b) El capital social o estructura accionaria, o
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-c) El objeto social.
+a) La denominación o razón social, o
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+b) El capital social o estructura accionaria.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+c) (DEROGADO, D.O.F. 31 DE OCTUBRE DE 2014)
 
 ###### ARTÍCULO 46.
 
@@ -633,6 +643,22 @@ Para efectos de mantener actualizada y completa la información relativa a las p
 
 Los requerimientos que expida la Secretaría, con base en las facultades establecidas en este artículo, deberán cumplirse por las personas requeridas dentro de los plazos expresamente fijados en los mismos, los cuales no podrán ser inferiores a cinco días hábiles.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+###### ARTÍCULO 50.
+
+La Comisión al establecer en resoluciones generales los montos de inversión que determinarán la obligación de presentar al Registro la información a que se refiere el presente Reglamento, considerará las inversiones que estadísticamente sean significativas para la medición de los flujos de inversión extranjera.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+###### ARTÍCULO 51.
+
+La Secretaría podrá en cualquier momento realizar encuestas a los sujetos inscritos en el Registro a fin de obtener información relevante para la elaboración de estadísticas o diagnósticos sobre el impacto de la inversión extranjera en la economía nacional.
+
 ## TRANSITORIOS
 
 PRIMERO. El presente Reglamento entrará en vigor a los veinte días hábiles siguientes a la fecha de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en el párrafo cuarto del artículo 18, que entrará en vigor a los seis meses siguientes de dicha publicación.
@@ -649,8 +675,16 @@ SEXTO. A quienes tengan obligaciones pendientes en materia del Registro Nacional
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de agosto de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Francisco Labastida Ochoa.- Rúbrica.- La Secretaria de Relaciones Exteriores, Rosario Green.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Ángel Gurría Treviño.- Rúbrica.- El Secretario de Desarrollo Social, Esteban Moctezuma Barragán.- Rúbrica.- La Secretaria de Medio Ambiente, Recursos Naturales y Pesca, Julia Carabias Lillo.- Rúbrica.- El Secretario de Energía, Luis Téllez Kuenzler.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Herminio Blanco Mendoza.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Carlos Ruiz Sacristán.- Rúbrica.- El Secretario del Trabajo y Previsión Social, José Antonio González Fernández.- Rúbrica.- El Secretario de Turismo, Óscar Espinosa Villarreal.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 4 DE MAYO DE 2009.
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 31 DE OCTUBRE DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor a los sesenta días hábiles siguientes a la fecha de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los artículos 2, 13, 15, 16, 17, 18, 19 y 29 Bis del presente ordenamiento, que entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Los trámites presentados ante el Registro que se encuentren pendientes de ser resueltos a la fecha en que entre en vigor el presente Decreto, y aquéllos cuya obligación de presentación al Registro se hubieran generado antes de la entrada en vigor de este Decreto, se resolverán conforme a lo previsto en el presente ordenamiento en todo aquello que beneficie a los solicitantes.
+
+TERCERO.- A quienes tengan obligaciones pendientes en materia del Registro Nacional de Inversiones Extranjeras y que cumplan con las disposiciones previstas en el Título Séptimo de la Ley de Inversión Extranjera dentro de los sesenta días hábiles siguientes a la fecha de entrada en vigor del presente Decreto, la Secretaría de Economía impondrá, en su caso, la sanción mínima establecida en la fracción IV del artículo 38 de la Ley.
