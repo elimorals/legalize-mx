@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-del-equilibrio-ecologico-y-la-1625
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-05-30"
-last_updated: "2012-04-27"
+last_updated: "2014-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16259&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2000-05-23"
 
 REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE EVALUACIÓN DEL IMPACTO AMBIENTAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE ABRIL DE 2012.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 27 DE ABRIL DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE OCTUBRE DE 2014.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 30 de mayo de 2000.
 
@@ -39,23 +37,49 @@ REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIE
 
 El presente ordenamiento es de observancia general en todo el territorio nacional y en las zonas donde la Nación ejerce su jurisdicción; tiene por objeto reglamentar la Ley General del Equilibrio Ecológico y la Protección al Ambiente, en materia de evaluación del impacto ambiental a nivel federal.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 2o.
 
-La aplicación de este reglamento compete al Ejecutivo Federal, por conducto de la Secretaría de Medio Ambiente, Recursos Naturales y Pesca, de conformidad con las disposiciones legales y reglamentarias en la materia.
+La aplicación de este Reglamento compete al Ejecutivo Federal, por conducto de la Secretaría de Medio Ambiente y Recursos Naturales, de conformidad con las disposiciones legales y reglamentarias en la materia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+La Secretaría ejercerá las atribuciones contenidas en el presente ordenamiento, incluidas las disposiciones relativas a la inspección, vigilancia y sanción, por conducto de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, cuando se trate de las obras, instalaciones o actividades del sector hidrocarburos y, cuando se trate de actividades distintas a dicho sector, la Secretaría ejercerá las atribuciones correspondientes a través de las unidades administrativas que defina su reglamento interior.
 
 ###### Artículo 3o.
 
 Para los efectos del presente reglamento se considerarán las definiciones contenidas en la ley y las siguientes:
 
-I. Cambio de uso de suelo: Modificación de la vocación natural o predominante de los terrenos, llevada a cabo por el hombre a través de la remoción total o parcial de la vegetación;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+I. Actividades del Sector Hidrocarburos: Las actividades definidas como tal en el artículo 3o., fracción XI de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+I Bis. Agencia: La Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+I Ter. Cambio de uso de suelo: Modificación de la vocación natural o predominante de los terrenos, llevada a cabo por el hombre a través de la remoción total o parcial de la vegetación;
 
 II. Especies de difícil regeneración: Las especies vulnerables a la extinción biológica por la especificidad de sus requerimientos de hábitat y de las condiciones para su reproducción;
 
-III.- Daño ambiental: Es el que ocurre sobre algún elemento ambiental a consecuencia de un impacto ambiental adverso;
+III. Daño ambiental: Es el que ocurre sobre algún elemento ambiental a consecuencia de un impacto ambiental adverso;
 
-IV.- Daño a los ecosistemas: Es el resultado de uno o más impactos ambientales sobre uno o varios elementos ambientales o procesos del ecosistema que desencadenan un desequilibrio ecológico;
+IV. Daño a los ecosistemas: Es el resultado de uno o más impactos ambientales sobre uno o varios elementos ambientales o procesos del ecosistema que desencadenan un desequilibrio ecológico;
 
-V.- Daño grave al ecosistema: Es aquel que propicia la pérdida de uno o varios elementos ambientales, que afecta la estructura o función, o que modifica las tendencias evolutivas o sucesionales del ecosistema;
+V. Daño grave al ecosistema: Es aquel que propicia la pérdida de uno o varios elementos ambientales, que afecta la estructura o función, o que modifica las tendencias evolutivas o sucesionales del ecosistema;
 
 VI. Desequilibrio ecológico grave: Alteración significativa de las condiciones ambientales en las que se prevén impactos acumulativos, sinérgicos y residuales que ocasionarían la destrucción, el aislamiento o la fragmentación de los ecosistemas;
 
@@ -79,7 +103,11 @@ XV. Parque industrial: Es la superficie geográficamente delimitada y diseñada 
 
 XVI. Reglamento: Este reglamento, y
 
-XVII. Secretaría: La Secretaría de Medio Ambiente, Recursos Naturales y Pesca.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XVII. Secretaría: La Secretaría de Medio Ambiente y Recursos Naturales.
 
 ###### Artículo 4o.
 
@@ -161,11 +189,23 @@ c) Las carreteras que se construyan, sobre caminos ya existentes, para un tráns
 
 C) OLEODUCTOS, GASODUCTOS, CARBODUCTOS Y POLIDUCTOS:
 
-Construcción de oleoductos, gasoductos, carboductos o poliductos para la conducción o distribución de hidrocarburos o materiales o sustancias consideradas peligrosas conforme a la regulación correspondiente, excepto los que se realicen en derechos de vía existentes en zonas agrícolas, ganaderas o eriales.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-D) INDUSTRIA PETROLERA:
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-I. Actividades de perforación de pozos para la exploración y producción petrolera, excepto:
+Construcción de oleoductos, gasoductos, carboductos o poliductos para la conducción, distribución o transporte por ductos de hidrocarburos o materiales o sustancias consideradas peligrosas conforme a la regulación correspondiente, excepto los que se realicen en derechos de vía existentes en zonas agrícolas, ganaderas o eriales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+D) ACTIVIDADES DEL SECTOR HIDROCARBUROS:
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+I. Actividades de perforación de pozos para la exploración y extracción de hidrocarburos, excepto:
 
 a) Las que se realicen en zonas agrícolas, ganaderas o de eriales, siempre que éstas se localicen fuera de áreas naturales protegidas, y
 
@@ -177,13 +217,49 @@ III. Construcción de refinerías petroleras, excepto la limpieza de sitios cont
 
 IV. Construcción de centros de almacenamiento o distribución de hidrocarburos que prevean actividades altamente riesgosas;
 
-V. Prospecciones sismológicas marinas distintas a las que utilizan pistones neumáticos, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-VI. Prospecciones sismológicas terrestres excepto las que utilicen vibrosismos.
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-E) INDUSTRIA PETROQUÍMICA:
+V. Prospecciones sismológicas marinas distintas a las que utilizan pistones neumáticos;
 
-Construcción y operación de plantas y complejos de producción petroquímica.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+VI. Prospecciones sismológicas terrestres excepto las que utilicen vibrosismos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+VII. Construcción y operación de instalaciones para el procesamiento, compresión, licuefacción, descompresión y regasificación, así como de instalaciones para el transporte, almacenamiento, distribución y expendio al público de gas natural;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+VIII. Construcción y operación de instalaciones para transporte, almacenamiento, distribución y expendio al público de gas licuado de petróleo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+IX. Construcción y operación de instalaciones para la producción, transporte, almacenamiento, distribución y expendio al público de petrolíferos, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+X. Construcción y operación de instalaciones para el transporte por ducto y el almacenamiento, que se encuentre vinculado a ductos de petroquímicos producto del procesamiento del gas natural y de la refinación del petróleo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+E) PETROQUÍMICOS:
+
+Construcción y operación de instalaciones de producción de petroquímicos, entendiendo por éstos los productos referidos en la fracción XXIX del artículo 4 de la Ley de Hidrocarburos.
 
 F) INDUSTRIA QUÍMICA:
 
@@ -253,7 +329,11 @@ II. Aprovechamiento de cualquier recurso forestal maderable y no maderable en se
 
 III. Cualquier aprovechamiento persistente de especies de difícil regeneración, y
 
-IV. Aprovechamientos forestales en áreas naturales protegidas, de conformidad con lo establecido en el artículo 12, fracción IV de la Ley Forestal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+IV. Aprovechamientos forestales en áreas naturales protegidas, de conformidad con lo establecido en el artículo 76, fracción III de la Ley General de Desarrollo Forestal Sustentable.
 
 Ñ) PLANTACIONES FORESTALES:
 
@@ -287,7 +367,11 @@ R) OBRAS Y ACTIVIDADES EN HUMEDALES, MANGLARES, LAGUNAS, RÍOS, LAGOS Y ESTEROS 
 
 I. Cualquier tipo de obra civil, con excepción de la construcción de viviendas unifamiliares para las comunidades asentadas en estos ecosistemas, y
 
-II. Cualquier actividad que tenga fines u objetivos comerciales, con excepción de las actividades pesqueras que no se encuentran previstas en la fracción XII del artículo 28 de la Ley y que de acuerdo con la Ley de Pesca y su reglamento no requieren de la presentación de una manifestación de impacto ambiental, así como de las de navegación, autoconsumo o subsistencia de las comunidades asentadas en estos ecosistemas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+II. Cualquier actividad que tenga fines u objetivos comerciales, con excepción de las actividades pesqueras que no se encuentran previstas en la fracción XII del artículo 28 de la Ley, y que de acuerdo con la Ley General de Pesca y Acuacultura Sustentables y su reglamento no requieren de la presentación de una manifestación de impacto ambiental, así como de las de navegación, autoconsumo o subsistencia de las comunidades asentadas en estos ecosistemas.
 
 S) OBRAS EN ÁREAS NATURALES PROTEGIDAS:
 
@@ -809,11 +893,15 @@ La Secretaría constituirá un Fideicomiso para el destino de los recursos que s
 
 ### CAPÍTULO IX. DE LA INSPECCIÓN, MEDIDAS DE SEGURIDAD Y SANCIONES
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 55.
 
-La Secretaría, por conducto de la Procuraduría Federal de Protección al Ambiente, realizará los actos de inspección y vigilancia del cumplimiento de las disposiciones contenidas en el presente ordenamiento, así como de las que del mismo se deriven, e impondrá las medidas de seguridad y sanciones que resulten procedentes.
+La Secretaría, por conducto de la Procuraduría Federal de Protección al Ambiente o, en su caso, por conducto de la Agencia, en el ámbito de sus respectivas competencias, realizará los actos de inspección y vigilancia del cumplimiento de las disposiciones contenidas en el presente Reglamento, así como de las que deriven del mismo, e impondrá las medidas de seguridad y sanciones que resulten procedentes.
 
-Asimismo, la Secretaría podrá requerir a los responsables que corresponda, la presentación de información y documentación relativa al cumplimiento de las disposiciones anteriormente referidas.
+Para efectos de lo anterior, la Secretaría, por conducto de las unidades administrativas señaladas en el párrafo anterior, según sea el caso, podrá requerir a las personas sujetas a los actos de inspección y vigilancia, la presentación de información y documentación relativa al cumplimiento de las disposiciones anteriormente referidas.
 
 ###### Artículo 56.
 
@@ -835,9 +923,13 @@ El interesado, dentro del plazo de cinco días contados a partir de la notificac
 
 Los plazos ordenados para la realización de las medidas correctivas referidas en el párrafo que antecede, se suspenderán en tanto la autoridad resuelva sobre la procedencia o no de las medidas alternativas propuestas respecto de ellas. Dicha suspensión procederá cuando lo solicite expresamente el promovente, y no se ocasionen daños y perjuicio a terceros, a menos que se garanticen éstos para el caso de no obtener resolución favorable.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 59.
 
-Cuando el responsable de una obra o actividad autorizada en materia de impacto ambiental, incumpla con las condiciones previstas en la autorización y se den los casos del artículo 170 de la Ley, la Procuraduría Federal de Protección al Ambiente, ordenará la imposición de las medidas de seguridad que correspondan, independientemente de las medidas correctivas y las sanciones que corresponda aplicar.
+Cuando el responsable de una obra o actividad autorizada en materia de impacto ambiental, incumpla con las condiciones previstas en la autorización y se den los casos del artículo 170 de la Ley, la Procuraduría Federal de Protección al Ambiente o, en su caso, la Agencia, en el ámbito de sus respectivas competencias, ordenarán la imposición de las medidas de seguridad que correspondan, independientemente de las medidas correctivas y las sanciones que corresponda aplicar.
 
 Lo anterior sin perjuicio del ejercicio de las acciones civiles y penales que procedan por las irregularidades detectadas por la autoridad en el ejercicio de sus atribuciones de inspección y vigilancia.
 
@@ -869,9 +961,13 @@ La Secretaría promoverá la creación de fondos, fideicomisos u otros instrumen
 
 ### CAPÍTULO X. DE LA DENUNCIA POPULAR
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 65.
 
-Toda persona, grupos sociales, organizaciones no gubernamentales, asociaciones y sociedades podrán denunciar ante la Procuraduría Federal de Protección al Ambiente o ante otras autoridades todo hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico o daños al ambiente o a los recursos naturales, o contravengan las disposiciones jurídicas en esta materia, y se relacionen con las obras o actividades mencionadas en el artículo 28 de la Ley y en el presente reglamento. Las denuncias que se presentaren serán substanciadas de conformidad con lo previsto en el Capítulo VII del Título sexto de la propia Ley.
+Toda persona, grupos sociales, organizaciones no gubernamentales, asociaciones y sociedades podrán denunciar ante la Procuraduría Federal de Protección al Ambiente, la Agencia o ante las autoridades correspondientes todo hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico o daños al ambiente o a los recursos naturales, o contravengan las disposiciones jurídicas en esta materia, y se relacionen con las obras o actividades mencionadas en el artículo 28 de la Ley y en el presente Reglamento. Las denuncias que se presentaren serán substanciadas de conformidad con lo previsto en el Capítulo VII del Título Sexto de la Ley.
 
 ## TRANSITORIOS
 
@@ -892,3 +988,9 @@ D.O.F. 26 DE ABRIL DE 2012.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Los trámites que a la entrada en vigor del presente Decreto se encuentren pendientes de resolución, se resolverán conforme a las disposiciones vigentes en el momento de su iniciación.
+
+D.O.F. 31 DE OCTUBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor el día 2 de marzo de 2015.
+
+SEGUNDO. Los asuntos que se encuentren en trámite a la entrada en vigor del Reglamento, se resolverán en los términos que establece el transitorio Cuarto de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, publicada en el Diario Oficial de la Federación el 11 de agosto de 2014.
