@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-el-ejercicio-y-control-de-los-recursos-publicos-33345"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-12"
-last_updated: "2014-01-24"
+last_updated: "2014-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33345&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 LEY PARA EL EJERCICIO Y CONTROL DE LOS RECURSOS PÚBLICOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2013.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 24 DE ENERO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2014.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 12 de agosto del 2003.
 
@@ -113,7 +111,7 @@ XVI.- Viáticos: Subvención a servidores públicos en dinero, especie o cualqui
 
 XVII.- Subsidios: Recursos estatales que se asignen para apoyar el desarrollo de actividades prioritarias de interés general con el propósito de: Apoyar sus operaciones; mantener los niveles de los precios; apoyar el consumo, la distribución y comercialización de los bienes; motivar la inversión; cubrir impactos financieros; así como para el fomento de las actividades agropecuarias, industriales o de servicios;
 
-XVIII.- Transferencias: Ministraciones de recursos y apoyos extraordinarios que se asignan para el desempeño de las atribuciones que realizan los Municipios y Entidades, con base en los presupuestos de egresos; y (sic)
+XVIII.- Transferencias: Ministraciones de recursos y apoyos extraordinarios que se asignan para el desempeño de las atribuciones que realizan los Municipios y Entidades, con base en los presupuestos de egresos; y
 
 XIX.- Traspaso: Movimientos que consisten en trasladar el importe total o parcial de la asignación de una clave presupuestaria a otra, previa autorización de la autoridad facultada de conformidad con las leyes y reglamentos aplicables.
 
@@ -541,9 +539,11 @@ Para efectos de lo dispuesto en el párrafo anterior, los sujetos de la Ley por 
 
 En la ejecución del gasto público, los sujetos de la Ley deberán realizar sus actividades con sujeción a los programas aprobados en los presupuestos de egresos, que correspondan a sus prioridades y estrategias.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 57.
 
-Ningún gasto podrá efectuarse sin que exista partida expresa del presupuesto de egresos que lo autorice. Para que proceda una erogación y esta sea lícita, deberá sujetarse al texto y suficiencia de la partida. Tampoco podrán utilizarse las partidas para cubrir necesidades distintas a aquéllas que comprenden su definición.
+Ningún gasto podrá efectuarse sin que exista partida expresa del presupuesto de egresos que lo autorice. Para que proceda una erogación y esta sea lícita, deberá sujetarse al texto y suficiencia de la partida. Tampoco podrán utilizarse las partidas para cubrir necesidades distintas a aquéllas que comprenden su definición, salvo lo dispuesto en el artículo 149 de la Ley del Trabajo de los Servidores Públicos al Servicio del Estado y de los Municipios.
 
 ###### Artículo 58.
 
@@ -1021,7 +1021,7 @@ Artículo Segundo. Se derogan todas las disposiciones que contravengan lo establ
 
 Artículo Tercero. Los Ayuntamientos emitirán en un término no mayor a tres meses, contados a partir de la entrada en vigor del presente decreto, los lineamientos del sistema de evaluación para el ejercicio fiscal 2006, procediendo a su publicación en el Periódico Oficial del Gobierno del Estado.
 
-Artículo Cuarto. El monto ejercido por concepto de estímulos deberá ser informado por los sujetos de la Ley en el Cuenta Pública.
+Artículo Cuarto. El monto ejercido por concepto de estímulos deberá ser informado por los sujetos de la Ley en el (sic) Cuenta Pública.
 
 P.O. 27 DE NOVIEMBRE DE 2007.
 
@@ -1054,3 +1054,9 @@ P.O. 27 DE DICIEMBRE DE 2013.
 Artículo Primero. El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. En lo relativo a los registros del patrimonio inmobiliario y su valuación, el Poder Ejecutivo del Estado deberá realizar lo conducente para cumplir con lo previsto en el presente Decreto, a más tardar el 31 de diciembre de 2014 y los Municipios antes del 31 de diciembre de 2015.
+
+P.O. 31 DE OCTUBRE DE 2014.
+
+Artículo Primero. El presente Decreto entrará en vigencia al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Los juicios laborales iniciados con anterioridad a la entrada en vigencia del presente Decreto, continuarán su trámite con la normativa con la que se iniciaron hasta su conclusión.
