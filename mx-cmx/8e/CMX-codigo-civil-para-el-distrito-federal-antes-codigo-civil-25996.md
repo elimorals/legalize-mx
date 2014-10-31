@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2014-07-28"
+last_updated: "2014-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE OCTUBRE DE 2014.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -2343,6 +2343,18 @@ No es necesario el transcurso del período mencionado cuando, reunidos los demá
 
 Si con una misma persona se establecen varias uniones del tipo antes descrito, en ninguna se reputará concubinato. Quien haya actuado de buena fe podrá demandar del otro, una indemnización por daños y perjuicios.
 
+> <small>(ADICIONADO, G.O. 31 DE OCTUBRE DE 2014)</small>
+
+Los Jueces del Registro Civil podrán recibir declaraciones con relación a existencia o cesación de concubinato, existencia o cesación de cohabitación y otros hechos relativos a relaciones de pareja que no constituyan modificaciones al estado civil, y que las personas deseen hacer constar, ante el referido Juez del Registro Civil.
+
+> <small>(ADICIONADO, G.O. 31 DE OCTUBRE DE 2014)</small>
+
+Los Jueces del Registro Civil harán constar por escrito y en los formatos que al efecto se aprueben, las declaraciones emitidas por las personas que acudan a formular las mismas. Estos formatos serán conservados por la Dirección General del Registro Civil y se podrán expedir constancias de las mismas, las cuales sólo acreditan el hecho de la comparecencia y de haber emitido las declaraciones en ella contenidas. Las constancias emitidas por Dirección General del Registro Civil en los términos del presente artículo no constituyen modificaciones al estado civil de las personas, circunstancia que se asentará en los formatos respectivos.
+
+> <small>(ADICIONADO, G.O. 31 DE OCTUBRE DE 2014)</small>
+
+En caso de que, mediante las declaraciones se pretenda hacer constar actos que pudieran constituir un ilícito o una modificación al estado civil de las personas, el Juez del Registro Civil podrá negar el servicio, fundando y motivando su negativa.
+
 > <small>(ADICIONADO, G.O. 25 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 291 Ter.
@@ -3765,7 +3777,7 @@ VI. Cuando el que la ejerza hubiera cometido contra la persona o bienes de los h
 
 > <small>(REFORMADA, G.O. 24 DE JUNIO DE 2011)</small>
 
-VII. Cuando el que la ejerza sea condenado dos o más veces por delitos graves; y (sic)
+VII. Cuando el que la ejerza sea condenado dos o más veces por delitos graves; y
 
 > <small>(REFORMADA, G.O. 1 DE JUNIO DE 2012)</small>
 
@@ -3801,7 +3813,7 @@ II.- Por la ausencia declarada en forma;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 25 DE MAYO DE 2000)</small>
 
-III.- Cuando el consumo del alcohol, el hábito de juego, el uso no terapéutico de las substancias ilícitas a que hace referencia la Ley General de Salud y de las lícitas no destinadas a ese uso, que produzcan efectos psicotrópicos, amenacen causar algún perjuicio cualquiera que este sea al menor; y (sic)
+III.- Cuando el consumo del alcohol, el hábito de juego, el uso no terapéutico de las substancias ilícitas a que hace referencia la Ley General de Salud y de las lícitas no destinadas a ese uso, que produzcan efectos psicotrópicos, amenacen causar algún perjuicio cualquiera que este sea al menor; y
 
 > <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -3887,7 +3899,7 @@ Las personas físicas podrán desempeñar el cargo de tutor o curador hasta de t
 
 Las personas morales que no tengan finalidad lucrativa y cuyo fin primordial sea la protección y atención a las personas a que se refiere el artículo 450, fracción II de este Código, podrán desempeñarse como tutores del número de personas que su capacidad lo permita, siempre que cuenten con el beneplácito de los ascendientes del Pupilo o así lo determine el juicio de interdicción y que la persona sujeta a Tutela carezca de bienes.
 
-Cuando la Tutela se decida por medio de Juicio del Interdicción, (sic) se presentará, por parte de la persona moral, informe anual pormenorizado del desempeño del cargo conferido, ante el Juez, el cual se hará de forma individualizada por cada persona. De igual forma se presentará informe en los casos de Tutela Testamentaria o dativa a los ascendientes del Pupilo.
+Cuando la Tutela se decida por medio de Juicio del Interdicción, se presentará, por parte de la persona moral, informe anual pormenorizado del desempeño del cargo conferido, ante el Juez, el cual se hará de forma individualizada por cada persona. De igual forma se presentará informe en los casos de Tutela Testamentaria o dativa a los ascendientes del Pupilo.
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -13387,7 +13399,7 @@ VI.- Cuando tratándose de cédula hipotecaria o de embargo, hayan transcurrido 
 
 > <small>(ADICIONADO, G.O. 23 DE JULIO DE 2012)</small>
 
-Tratándose de cancelaciones de hipotecas, se consideraran accesorias a las mismas y en consecuencia deberán cancelarse simultáneamente de oficio, aún cuando no hayan sido mencionadas expresamente en el instrumento correspondiente, los asientos que contengan cédulas hipotecarias, reestructuras, ampliaciones o modificaciones a las mismas; y (sic)
+Tratándose de cancelaciones de hipotecas, se consideraran accesorias a las mismas y en consecuencia deberán cancelarse simultáneamente de oficio, aún cuando no hayan sido mencionadas expresamente en el instrumento correspondiente, los asientos que contengan cédulas hipotecarias, reestructuras, ampliaciones o modificaciones a las mismas; y
 
 > <small>(REFORMADA, G.O. 20 DE JUNIO DE 2014)</small>
 
@@ -14582,3 +14594,11 @@ PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario O
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO.- El Jefe de Gobierno tendrá un plazo de noventa días a partir de la entrada en vigor del presente Decreto, para realizar las modificaciones necesarias al Reglamento del Registro Civil del Distrito Federal.
+
+G.O. 31 DE OCTUBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor publicación.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- El Jefe de Gobierno deberá realizar las modificaciones necesarias al Reglamento del Registro Civil del Distrito Federal, dentro de los sesenta días siguientes a la publicación del presente Decreto.
