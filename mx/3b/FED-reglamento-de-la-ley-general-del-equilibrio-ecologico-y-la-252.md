@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-del-equilibrio-ecologico-y-la-252"
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-11-25"
-last_updated: "2004-06-03"
+last_updated: "2014-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=252&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "1988-11-23"
 ---
 # REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE EN MATERIA DE PREVENCION Y CONTROL DE LA CONTAMINACION DE LA ATMOSFERA
 
-REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE EN MATERIA DE PREVENCION Y CONTROL DE LA CONTAMINACION DE LA ATMOSFERA
+REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DE LA ATMOSFERA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE JUNIO DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE OCTUBRE DE 2014.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 25 de noviembre de 1988.
 
@@ -41,23 +41,41 @@ El presente Reglamento rige en todo el territorio nacional y las zonas donde la 
 
 Las atribuciones que en esta materia tiene el Estado y que son objeto de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, serán ejercidas de manera concurrente por la Federación, las Entidades Federativas y los Municipios.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
 ###### ARTICULO 3o.
 
-Son asuntos de competencia Federal, por tener alcance general en la nación o ser de interés de la Federación, en materia de prevención y control de la contaminación de la atmósfera, los que señala el artículo 5o. de la Ley y en especial los siguientes:
+Son asuntos de competencia Federal, en materia de prevención y control de la contaminación de la atmósfera, los que señalan (sic) el artículo 5o. de la Ley y el artículo 3o., fracción XI de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos.
 
-I.- La formulación de los criterios ecológicos generales;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-II.- Los que por su naturaleza y complejidad requieran de la participación de la Federación;
+I.- (DEROGADA, D.O.F. 31 DE OCTUBRE DE 2014)
 
-III.- Las acciones que se realicen en la materia, en bienes y zonas de jurisdicción federal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-IV.- Los originados en otros países, que afecten el equilibrio ecológico dentro del territorio nacional o las zonas sobre las que la nación ejerce derecho de soberanía y jurisdicción;
+II.- (DEROGADA, D.O.F. 31 DE OCTUBRE DE 2014)
 
-V.- Los originados dentro del territorio nacional o las zonas sobre las que la nación ejerce derechos de soberanía y jurisdicción, que afecten el equilibrio ecológico de otros países;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-VI.- Los que afecten el equilibrio ecológico de dos o más Entidades Federativas; y,
+III.- (DEROGADA, D.O.F. 31 DE OCTUBRE DE 2014)
 
-VII.- La protección de la atmósfera en zonas o en casos de fuentes emisoras de jurisdicción federal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+IV.- (DEROGADA, D.O.F. 31 DE OCTUBRE DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+V.- (DEROGADA, D.O.F. 31 DE OCTUBRE DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+VI.- (DEROGADA, D.O.F. 31 DE OCTUBRE DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+VII.- (DEROGADA, D.O.F. 31 DE OCTUBRE DE 2014)
 
 ###### ARTICULO 4o.
 
@@ -71,39 +89,115 @@ III.- La prevención y el control de la contaminación de la atmósfera generada
 
 IV.- La preservación y restauración del equilibrio ecológico y la protección al ambiente en los centros de población, en relación con los efectos derivados de los servicios de alcantarillado, limpia, mercados y centrales de abasto, panteones, rastros, tránsito y transporte locales.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
 ###### ARTICULO 5o.
 
-La aplicación de este Reglamento compete al Ejecutivo Federal por conducto de la Secretaría de Desarrollo Urbano y Ecología, sin perjuicio de las atribuciones que correspondan a otras dependencias del propio Ejecutivo Federal, de conformidad con las disposiciones legales aplicables, y a las autoridades del Distrito Federal, de los Estados y de los Municipios en la esfera de su competencia.
+La aplicación de este Reglamento compete al Ejecutivo Federal por conducto de la Secretaría de Medio Ambiente y Recursos Naturales, sin perjuicio de las atribuciones que correspondan a otras dependencias del propio Ejecutivo Federal, de conformidad con las disposiciones legales aplicables.
 
 Las autoridades del Distrito Federal, de los Estados y de los Municipios, podrán participar como auxiliares de la Federación, en la aplicación del presente Reglamento, para la atención de asuntos de competencia federal, en los términos de los instrumentos de coordinación correspondientes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+Tratándose de las Actividades del Sector Hidrocarburos, la Secretaría ejercerá las atribuciones contenidas en el presente ordenamiento, incluidas las disposiciones relativas a la inspección, vigilancia y sanción, por conducto de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos.
 
 ###### ARTICULO 6o.
 
 Para los efectos de este Reglamento se estará a las definiciones que se contienen en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, así como a las siguientes:
 
-Emisión: La descarga directa o indirecta a la atmósfera de toda sustancia, en cualquiera de sus estados físicos, o de energía.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Fuente nueva: Es aquella en la que se instale por primera vez un proceso o se modifiquen los existentes.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-Fuente fija: Es toda instalación establecida en un sólo lugar, que tenga como finalidad desarrollar operaciones o procesos industriales, comerciales, de servicios o actividades que generen o puedan generar emisiones contaminantes a la atmósfera.
+I.- Actividades del Sector Hidrocarburos: Las actividades comprendidas en el artículo 3o., fracción XI, de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos;
 
-Fuente móvil: Aviones, helicópteros, ferrocarriles, tranvías, tractocamiones, autobuses integrales, camiones, automóviles, motocicletas, embarcaciones, equipo y maquinarias no fijos con motores de combustión y similares, que con motivo de su operación generen o puedan generar emisiones contaminantes a la atmósfera.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Fuente múltiple: Aquella fuente fija que tiene dos o más ductos o chimeneas por las que se descargan las emisiones a la atmósfera, provenientes de un sólo proceso.
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-Inmisión: La presencia de contaminantes en la atmósfera, a nivel de piso.
+II.- Emisión: La descarga directa o indirecta a la atmósfera de toda sustancia, en cualquiera de sus estados físicos, o de energía;
 
-Ley: La Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Plataforma y puertos de muestreo: Instalaciones para realizar el muestreo de gases o partículas en ductos o chimeneas.
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-Reglamento: El Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en materia de prevención y control de la contaminación de la atmósfera.
+III.- Fuente nueva: Aquélla en la que se instale por primera vez un proceso o se modifiquen los existentes;
 
-Secretaría: Secretaría de Desarrollo Urbano y Ecología.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Verificación: Medición de las emisiones de gases o partículas sólidas o líquidas a la atmósfera, provenientes de vehículos automotores.
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-Zona crítica: Aquella en la que por sus condiciones topográficas y meteorológicas se dificulte la dispersión o se registren altas concentraciones de contaminantes a la atmósfera.
+IV.- Fuente fija: Toda instalación establecida en un sólo lugar, que tenga como finalidad desarrollar operaciones o procesos industriales, comerciales, de servicios o actividades que generen o puedan generar emisiones contaminantes a la atmósfera;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+V.- Fuente móvil: Los aviones, helicópteros, ferrocarriles, tranvías, tractocamiones, autobuses integrales, camiones, automóviles, motocicletas, embarcaciones, equipo y maquinarias no fijos con motores de combustión y similares, que con motivo de su operación generen o puedan generar emisiones contaminantes a la atmósfera;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+VI.- Fuente múltiple: Aquélla fuente fija que tiene dos o más ductos o chimeneas por las que se descargan las emisiones a la atmósfera, provenientes de un solo proceso;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+VII.- Inmisión: La presencia de contaminantes en la atmósfera, a nivel de piso;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+VIII.- Ley: La Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+IX.- Licencia de Funcionamiento: La Licencia Ambiental Única o la autorización que expide la Secretaría para la operación y funcionamiento de las fuentes fijas de jurisdicción federal en términos de lo dispuesto en el artículo 111 Bis de la Ley. Esta definición comprende a la autorización a que se refiere el artículo 7o., fracción II, de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+X.- Normas técnicas ecológicas: Las normas oficiales mexicanas;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XI.- Plataforma y puertos de muestreo: Las instalaciones para realizar el muestreo de gases o partículas en ductos o chimeneas;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XII.- Reglamento: El Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en materia de prevención y control de la contaminación de la atmósfera;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XIII.- Secretaría: La Secretaría de Medio Ambiente y Recursos Naturales;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XIV.- Verificación: La medición de las emisiones de gases o partículas sólidas o líquidas a la atmósfera, provenientes de vehículos automotores, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XV.- Zona crítica: Aquélla en la que por sus condiciones topográficas y meteorológicas se dificulte la dispersión o se registren altas concentraciones de contaminantes a la atmósfera.
 
 ###### ARTICULO 7o.
 
@@ -117,7 +211,11 @@ III.- Expedir las normas técnicas ecológicas que deberán incorporarse a las n
 
 IV.- Expedir las normas técnicas ecológicas para la certificación por la autoridad competente, de los niveles de emisión de contaminantes a la atmósfera provenientes de fuentes determinadas;
 
-V.- Determinar en coordinación con las Secretarías de Energía, Minas e Industria Paraestatal y de Comercio y Fomento Industrial la aplicación de métodos, procedimientos, partes, componentes y equipos que reduzcan las emisiones de contaminantes a la atmósfera, generados por los vehículos automotores;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+V.- Determinar, en coordinación con las secretarías de Energía y de Economía, la aplicación de métodos, procedimientos, partes, componentes y equipos que reduzcan las emisiones de contaminantes a la atmósfera, generados por los vehículos automotores;
 
 VI.- Emitir dictamen técnico sobre los sistemas de monitoreo de la calidad del aire a cargo de los Estados y Municipios;
 
@@ -169,31 +267,11 @@ IV.- Determinar las tarifas que regirán en la prestación de los servicios de v
 
 V.- Expedir las calcomanías de baja emisión previstas en el Reglamento.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTICULO 9o.
 
-En el Distrito Federal la Secretaria ejercerá las atribuciones a que se refiere el artículo 3o. del Reglamento y el Departamento del Distrito Federal ejercerá las que se prevén para las autoridades locales, sin perjuicio de las que competan a la Asamblea de Representantes del Distrito Federal, ajustándose a las siguientes disposiciones especiales:
-
-A) Corresponde a la Secretaría:
-
-I.- Prevenir y controlar la contaminación de la atmósfera generada en el Distrito Federal por fuentes fijas que no funcionen como establecimientos mercantiles y espectáculos públicos; y
-
-II.- Establecer y operar los sistemas de monitoreo de la contaminación atmosférica en el Distrito Federal.
-
-B) Corresponde al Departamento del Distrito Federal:
-
-I.- Prevenir y controlar la contaminación de la atmósfera generada en el Distrito Federal por fuentes fijas que funcionen como establecimientos mercantiles y espectáculos públicos;
-
-II.- Operar la red regional de laboratorios de análisis de la contaminación atmosférica;
-
-III.- Determinar los criterios ecológicos que serán incorporados en los programas de desarrollo urbano y demás instrumentos aplicables en esta materia;
-
-IV.- Participar, en el ámbito de su competencia, en la formulación y ejecución de los programas especiales que establezca la Federación para la restauración del equilibrio ecológico, en aquellas zonas y áreas del Distrito Federal que presenten graves desequilibrios;
-
-V.- Vigilar la observancia de las declaratorias que expida el Ejecutivo Federal para regular las actividades que generen contaminación atmosférica en las zonas y áreas del Distrito Federal que presenten graves desequilibrios ecológicos;
-
-VI.- Observar las normas técnicas ecológicas en la prestación de los servicios públicos de alcantarillado, limpia, mercados y centrales de abasto, panteones, rastros, tránsito y transportes locales; y
-
-VII.- Inspeccionar, vigilar e imponer sanciones en los asuntos de su competencia.
+(DEROGADO, D.O.F. 31 DE OCTUBRE DE 2014)
 
 ###### ARTICULO 10.
 
@@ -215,11 +293,21 @@ II.- Fuentes de Jurisdicción Federal;
 
 a) Las instalaciones, obras o actividades industriales, comerciales y de servicios que realicen las dependencias y entidades de la administración Pública Federal, en los términos de la Ley orgánica de la Administración Pública Federal;
 
-b) La industria del asbesto, así como la prevista en la fracción III del artículo 29 de la Ley;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-c) La industria que se localice en la zona conurbada del Distrito Federal;
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-d) Las obras o actividades localizadas en un Estado, cuyas emisiones a la atmósfera contaminen o afecten el equilibrio ecológico de otro u otros Estados, cuando así lo determine la Secretaría o lo solicite a la Federación el Estado afectado por las emisiones contaminantes a la atmósfera;
+b) Las instalaciones, obras o actividades de los subsectores que se señalan en el artículo 17 Bis de este Reglamento;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+c) (DEROGADO, D.O.F. 31 DE OCTUBRE DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+d) Las obras o actividades localizadas en una entidad federativa, cuyas emisiones a la atmósfera contaminen o afecten el equilibrio ecológico de otra u otras entidades federativas, cuando así lo determine la Secretaría o lo solicite a la Federación la entidad federativa afectada por las emisiones contaminantes a la atmósfera;
 
 e) Las obras o actividades localizadas en el territorio nacional que puedan afectar el equilibrio ecológico de otros países;
 
@@ -303,21 +391,45 @@ IX.- Las demás que establezcan la Ley y el Reglamento.
 
 Para los efectos del presente Reglamento, se consideran subsectores específicos pertenecientes a cada uno de los sectores industriales señalados en el artículo 111 Bis de la Ley, como fuentes fijas de jurisdicción Federal los siguientes:
 
-A) INDUSTRIA DEL PETRÓLEO Y PETROQUÍMICA
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-I. Extracción de petróleo y gas natural;
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+A) ACTIVIDADES DEL SECTOR HIDROCARBUROS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+I.- Extracción de hidrocarburos;
 
 II. Refinación de petróleo;
 
-III. Petroquímica básica; incluye procesamiento de cualquier tipo de gas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-IV. Fabricación de petroquímicos secundarios;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+III.- Petroquímicos; incluye procesamiento de cualquier tipo de gas;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+IV.- Fabricación de petrolíferos;
 
 V. Transportación de petróleo crudo por ductos; incluye operación de las instalaciones;
 
-VI. Transportación de gas natural y otros tipos de gases por ductos; incluye operación de las instalaciones; excluye la distribución de gas por ducto a consumidores;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-VII. Almacenamiento y distribución de productos derivados del petróleo; excluye distribuidores a usuarios finales;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+VI.- Transportación de gas natural y otros tipos de gases por ductos; incluye operación de las instalaciones; incluye la distribución de gas por ducto a consumidores;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+VII.- Almacenamiento y distribución de petrolíferos y petroquímicos; incluye distribuidores a usuarios finales;
 
 VIII. Transportación de petroquímicos por ductos; incluye la operación de las instalaciones, y
 
@@ -601,11 +713,13 @@ IV.- El equipo y aquellas otras condiciones que la Secretaría determine, para p
 
 La Secretaría podrá fijar en la licencia de funcionamiento, niveles máximos de emisión específicos para aquellas fuentes fijas que por sus características especiales de construcción o por las peculiaridades en los procesos que comprenden no puedan encuadrarse dentro de las normas técnicas ecológicas que establezcan niveles máximos permisibles de emisión de contaminantes a la atmósfera.
 
-> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-###### Artículo 21.
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-Los responsables de fuentes fijas de jurisdicción federal que cuenten con licencia otorgada por la Secretaría, deberán presentar ante ésta, una Cédula de Operación Anual dentro del periodo comprendido entre el primero 1o. de enero y el 30 de abril de cada año, los interesados deberán utilizar la Cédula de Operación Anual a que se refiere el artículo 10 del Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en materia de Registro de Emisiones y Transferencia de Contaminantes.
+###### ARTÍCULO 21.
+
+Los responsables de fuentes fijas de jurisdicción federal que cuenten con licencia otorgada por las unidades administrativas competentes de la Secretaría deberán presentar ante ésta, una Cédula de Operación Anual dentro del periodo comprendido entre el 1o. de marzo y el 30 de junio de cada año, los interesados deberán utilizar la Cédula de Operación Anual a que se refiere el artículo 10 del Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en materia de Registro de Emisiones y Transferencia de Contaminantes.
 
 ###### ARTICULO 22.
 
@@ -627,9 +741,13 @@ Cuando por razones de índole técnica no pueda cumplirse con lo dispuesto por e
 
 Los ductos o las chimeneas a que se refiere el artículo anterior, deberán tener la altura efectiva necesaria, de acuerdo con la norma técnica ecológica correspondiente, para dispersar las emisiones contaminantes.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
 ###### ARTICULO 25.
 
-Las mediciones de las emisiones contaminantes a la atmósfera, se llevarán a cabo conforme a los procedimientos de muestreo y cuantificación establecidos en las Normas Oficiales Mexicanas o, en su caso, en las normas técnicas ecológicas correspondientes. Para evaluar la emisión total de contaminantes atmosféricos de una fuente múltiple, se deberán sumar las emisiones individuales de las chimeneas existentes.
+Las mediciones de las emisiones contaminantes a la atmósfera, se llevarán a cabo conforme a los procedimientos de muestreo y cuantificación establecidos en las normas técnicas ecológicas correspondientes. Para evaluar la emisión total de contaminantes atmosféricos de una fuente múltiple, se deberán sumar las emisiones individuales de las chimeneas existentes.
 
 ###### ARTICULO 26.
 
@@ -651,9 +769,13 @@ La Secretaría podrá suspender de manera temporal o definitiva el permiso a que
 
 ### CAPITULO III. DE LA EMISION DE CONTAMINANTES A LA ATMOSFERA GENERADA POR FUENTES MOVILES
 
-###### ARTICULO 28.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Las emisiones de olores, gases, así como de partículas sólidas y liquidas a la atmósfera que se generen por fuentes móviles, no deberán exceder los niveles máximos permisibles de emisión que se establezcan en las normas técnicas ecológicas que expida la Secretaría en coordinación con la Secretaría de Comercio y Fomento Industrial y de Energía, Minas e Industria Paraestatal, tomando en cuenta los valores de concentración máxima permisible para el ser humano de contaminantes en el ambiente determinados por la Secretaría de Salud.
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+###### ARTÍCULO 28.
+
+Las emisiones de olores, gases, así como de partículas sólidas y liquidas a la atmósfera que se generen por fuentes móviles, no deberán exceder los niveles máximos permisibles de emisión que se establezcan en las normas técnicas ecológicas que expida la Secretaría en coordinación con las secretarías de Economía y de Energía, tomando en cuenta los valores de concentración máxima permisible para el ser humano de contaminantes en el ambiente determinados por la Secretaría de Salud.
 
 ###### ARTICULO 29.
 
@@ -661,11 +783,15 @@ Los fabricantes de vehículos automotores deberán aplicar los métodos, procedi
 
 La certificación de los niveles máximos permisibles de emisión deberá sujetarse a los procedimientos y llevarse a cabo con los equipos que determinen las normas técnicas ecológicas correspondientes.
 
-###### ARTICULO 30.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-La Secretaría de Comercio y Fomento Industrial, de acuerdo con sus facultades, únicamente autorizará la fabricación y ensamble de vehículos automotores que no rebasen los niveles máximos de emisión de contaminantes a la atmósfera previstos en las normas técnicas ecológicas correspondientes.
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-La Secretaría, en coordinación con la Secretaría de Comercio y Fomento Industrial, deberá verificar que el procedimiento de certificación de emisiones contaminantes a la atmósfera se ajuste a lo dispuesto en las normas técnicas ecológicas aplicables.
+###### ARTÍCULO 30.
+
+La Secretaría de Economía, de acuerdo con sus facultades, únicamente autorizará la fabricación y ensamble de vehículos automotores que no rebasen los niveles máximos de emisión de contaminantes a la atmósfera previstos en las normas técnicas ecológicas correspondientes.
+
+La Secretaría, en coordinación con la Secretaría de Economía, deberá verificar que el procedimiento de certificación de emisiones contaminantes a la atmósfera se ajuste a lo dispuesto en las normas técnicas ecológicas aplicables.
 
 ###### ARTICULO 31.
 
@@ -773,11 +899,17 @@ Por su parte, la Secretaría prestará el apoyo técnico que requieran los Estad
 
 El establecimiento y operación de los Sistemas de Monitoreo de la Calidad del Aire, deberán sujetarse a las normas técnicas ecológicas que al efecto expida la Secretaría, en coordinación con la Secretaría de Salud en lo referente a la salud humana.
 
-###### ARTICULO 44.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-La Secretaría, mediante acuerdos de coordinación, promoverá ante los Estados y Municipios, la incorporación de sus sistemas de monitoreo, así como de sus inventarios de zonas y fuentes de jurisdicción local, al Sistema Nacional de Información de la Calidad del Aire.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-Asimismo, promoverá ante el Departamento del Distrito Federal, la incorporación de sus inventarios de zonas y fuentes, a dicho Sistema Nacional.
+###### ARTÍCULO 44.
+
+La Secretaría, mediante acuerdos de coordinación, promoverá ante las entidades federativas y los Municipios, la incorporación de sus sistemas de monitoreo, así como de sus inventarios de zonas y fuentes de jurisdicción local, al Sistema Nacional de Información de la Calidad del Aire.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
 ###### ARTICULO 45.
 
@@ -865,7 +997,7 @@ En el caso del Distrito Federal, corresponderá al Departamento del Distrito Fed
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de noviembre de mil novecientos ochenta y ocho.- Miguel de la Madrid H.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Héctor Hernández Cervantes.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Daniel Díaz Díaz.- Rúbrica.- El Secretario de Desarrollo Urbano y Ecología, Gabino Fraga Mouret.- Rúbrica.- El Secretario de Salud, Guillermo Soberón Acevedo.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Ramón Aguirre Velázquez.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 3 DE JUNIO DE 2004.
 
@@ -882,3 +1014,13 @@ Artículo Quinto. Para el número de identificación a que hacen referencia los 
 Artículo Sexto. En tanto se expide el Reglamento de la Ley General para la Prevención y Gestión Integral de los Residuos, el informe de movimiento de residuos peligrosos a que se refiere el artículo 8, fracción XI, del Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en materia de Residuos Peligrosos, se presentará en el formato de la Cédula de Operación Anual descrito en el artículo 10 del Reglamento previsto en el diverso primero del presente Decreto.
 
 Artículo Séptimo. Las acciones previstas en este Reglamento, deberán llevarse a cabo conforme a las disposiciones presupuestarias vigentes y con cargo al presupuesto autorizado a la Secretaría.
+
+D.O.F. 31 DE OCTUBRE DE 2014.
+
+Primero. El presente Decreto entrará en vigor el día 2 de marzo de 2015.
+
+Segundo. A la entrada en vigor del presente Decreto, las facultades que corresponde ejercer a la Procuraduría Federal de Protección al Ambiente o a cualquier otra unidad administrativa de la Secretaría de Medio Ambiente y Recursos Naturales, contenida en normas oficiales mexicanas, normas mexicanas, acuerdos, convocatorias o cualquier otra disposición administrativa que deriven del presente Reglamento, respecto de las instalaciones o actividades previstas en las fracciones VII y XI del artículo 3 de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, serán ejercidas por dicha Agencia.
+
+Tercero. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto se resolverán en los términos que establece el transitorio Cuarto de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, publicada en el Diario Oficial de la Federación el 11 de agosto de 2014.
+
+Cuarto. Por única ocasión y considerando lo previsto en el artículo primero transitorio que antecede, la Cédula de Operación Anual correspondiente al año 2014, se presentará ante las unidades administrativas competentes de la Secretaría durante el período comprendido entre el 1 de mayo y el 31 de agosto de 2015.
