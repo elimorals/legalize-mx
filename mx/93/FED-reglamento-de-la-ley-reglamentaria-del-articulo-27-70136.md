@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-reglamentaria-del-articulo-27-70136"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-22"
-last_updated: "2009-09-22"
+last_updated: "2014-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70136&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2009-09-18"
 ---
 # REGLAMENTO DE LA LEY REGLAMENTARIA DEL ARTICULO 27 CONSTITUCIONAL EN EL RAMO DEL PETROLEO
 
-REGLAMENTO DE LA LEY REGLAMENTARIA DEL ARTICULO 27 CONSTITUCIONAL EN EL RAMO DEL PETROLEO
+REGLAMENTO DE LA LEY REGLAMENTARIA DEL ARTÍCULO 27 CONSTITUCIONAL EN EL RAMO DEL PETRÓLEO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE HIDROCARBUROS, PUBLICADO EN EL D.O.F. DE 31 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE OCTUBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 22 de septiembre de 2009.
 
@@ -546,3 +548,75 @@ II. Las disposiciones administrativas a que hace referencia el artículo 23 de e
 OCTAVO.- En tanto se expiden los decretos de creación o de reorganización de los Organismos Subsidiarios de Petróleos Mexicanos, las disposiciones del presente reglamento se aplicarán a los Organismos Subsidiarios Pemex Exploración y Producción; Pemex Refinación; Pemex Gas y Petroquímica Básica, y Pemex Petroquímica, creados por la Ley Orgánica de Petróleos Mexicanos y Organismos Subsidiarios.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciocho de septiembre de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- La Secretaria de Energía, Georgina Yamilet Kessel Martínez.- Rúbrica.
+
+D.O.F. 31 DE OCTUBRE DE 2014.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abroga el Reglamento de la Ley Reglamentaria del Artículo 27 Constitucional en el Ramo del Petróleo, publicado en el Diario Oficial de la Federación el 22 de septiembre de 2009 y las disposiciones jurídicas derivadas del mismo que se opongan a lo establecido en el presente Reglamento.
+
+Tercero.- A más tardar dentro de los ciento ochenta días hábiles siguientes a la entrada en vigor del presente Reglamento, la Secretaría de Energía y la Comisión Nacional de Hidrocarburos emitirán, en el ámbito de sus respectivas competencias, las metodologías, los lineamientos y las disposiciones administrativas de carácter general en las materias referidas en el presente ordenamiento, salvo por lo señalado en los Transitorios Séptimo a Décimo del presente Reglamento.
+
+Los modelos de contrato y las metodologías a que se refieren los artículos 67 y 68 del presente Reglamento, se publicarán en un plazo de noventa días hábiles a partir de la entrada en vigor del presente ordenamiento.
+
+Cuarto.- Las Asignaciones a las que se refiere el Transitorio Sexto del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos en Materia de Energía, publicado el 20 de diciembre de 2013, y demás contratos y actos jurídicos que se hayan otorgado o celebrado con fundamento en el Reglamento de la Ley Reglamentaria del Artículo 27 Constitucional en el Ramo del Petróleo, permanecerán vigentes en todo aquello que no se oponga a las disposiciones de este ordenamiento.
+
+Lo anterior, sin perjuicio de que puedan ser adecuados, modificados o sustituidos en términos de la Ley, este Reglamento y demás disposiciones jurídicas aplicables.
+
+Las solicitudes de contratos, permisos y autorizaciones que se encuentren en trámite a la entrada en vigor del presente Reglamento se resolverán conforme a las disposiciones jurídicas vigentes al momento de la presentación de la solicitud correspondiente.
+
+El presente Transitorio será aplicable sin menoscabo de lo establecido en los Transitorios Quinto y Décimo de la Ley de Hidrocarburos.
+
+Quinto.- La Secretaría de Energía emitirá el primer Plan Quinquenal a que se refiere el artículo 26 de este Reglamento durante el primer semestre de 2015. Por única ocasión, la Comisión Nacional de Hidrocarburos enviará a la Secretaría la propuesta correspondiente en el mes de abril de 2015.
+
+Sexto.- Respecto de la migración prevista en el Transitorio Vigésimo Octavo de la Ley, las partes de los contratos integrales de exploración y producción y de los contratos de obra pública financiada que quieran optar por la migración deberán presentar conjuntamente a la Secretaría de Energía una solicitud que incluya cuando menos:
+
+I. La identificación de la Asignación a migrar;
+
+II. La justificación de la conveniencia de la migración para la Nación en términos de:
+
+a) La producción base e incremental de Hidrocarburos, desglosada en Petróleo, Gas Natural Asociado, Gas Natural no Asociado y condensados;
+
+b) La incorporación de Reservas adicionales;
+
+c) El escenario de gastos, costos e inversiones necesarios para un desarrollo eficiente desde un punto de vista técnico, que incluyan un programa adicional de trabajo con respecto al original.
+
+III. Los escenarios de precios utilizados;
+
+IV. Las características geológicas del área;
+
+V. La información sobre la calidad, el contenido de azufre y grados API de los Hidrocarburos, según corresponda, desglosada en Petróleo, Gas Natural Asociado, Gas Natural no Asociado y condensados;
+
+VI. La descripción de la infraestructura existente dentro y alrededor del Área de Asignación a migrar, y
+
+VII. La propuesta de los términos bajo los cuales desean asociarse y del acuerdo de operación conjunta del Área Contractual.
+
+Séptimo.- La Secretaría de Energía resolverá sobre la procedencia de la solicitud de migración a que se refiere el Transitorio anterior, de conformidad con el procedimiento siguiente:
+
+I. En un plazo de quince días hábiles, remitirá a Petróleos Mexicanos la propuesta de lineamientos que regularán las etapas del procedimiento de migración de los contratos referidos. Petróleos Mexicanos deberá emitir su opinión sobre dichos lineamientos en un plazo de cinco días hábiles. La Secretaría emitirá la versión final de los lineamientos que regularán las etapas del procedimiento de migración de los contratos referidos en un periodo de cinco días hábiles.
+
+II. La Secretaría de Energía remitirá a la Secretaría de Hacienda y Crédito Público y a la Comisión Nacional de Hidrocarburos, en un plazo de quince días hábiles, la solicitud de migración completa, los lineamientos que regularán las etapas del procedimiento de migración de los contratos referidos, la propuesta de Modelo de Contratación que corresponderá al Área Contractual y la información soporte que se determine en los convenios de coordinación que al efecto suscriban dichas dependencias.
+
+La Secretaría de Hacienda y Crédito Público y la Comisión Nacional de Hidrocarburos emitirán su opinión sobre la propuesta de Modelo de Contratación, en un plazo de cinco días hábiles. En el mismo plazo, la Secretaría de Hacienda y Crédito Público emitirá opinión respecto de la información prevista en la fracción VII del Transitorio Sexto.
+
+III. Una vez determinado el Modelo de Contratación, la Secretaría de Energía contará con un plazo de veinte días hábiles para determinar los Términos y Condiciones Técnicos y solicitar a la Secretaría de Hacienda y Crédito Público que establezca las condiciones económicas relativas a los términos fiscales conforme a la Ley de Ingresos sobre Hidrocarburos y su Reglamento.
+
+IV. La Secretaría de Energía enviará a las partes de los contratos integrales de exploración y producción y de los contratos de obra pública financiada los Términos y Condiciones Técnicos y las condiciones económicas relativas a los términos fiscales que al efecto se hayan establecido para que manifiesten la aceptación o rechazo de los mismos, en un plazo de diez días hábiles.
+
+En caso de rechazo, las partes de los contratos integrales de exploración y producción y de los contratos de obra pública financiada tendrán el derecho de mantener su relación contractual en sus términos originales.
+
+En caso de que a las partes de los contratos integrales de exploración y producción y de los contratos de obra pública financiada manifiesten su aceptación, la Secretaría de Energía enviará a la Comisión Nacional de Hidrocarburos la información necesaria para la suscripción del Contrato para la Exploración y Extracción, en un plazo de diez días hábiles.
+
+Octavo.- A más tardar el último día hábil de mayo de 2015, la Secretaría de Energía emitirá las metodologías, parámetros y lineamientos a que se refiere el inciso c) de la fracción VI del artículo 101 de la Ley, para lo cual podrá ser asistida técnicamente por la Comisión Nacional de Hidrocarburos.
+
+Noveno.- Dentro de los noventa días naturales siguientes a la entrada en vigor del presente Reglamento, la Secretaría de Energía emitirá los lineamientos a que se refiere el artículo 69 de este ordenamiento.
+
+Décimo.- En un plazo de noventa días hábiles contado a partir de la entrada en vigor del presente Reglamento, la Secretaría de Energía publicará las disposiciones administrativas de carácter general, la guía y el formato a que se refiere el artículo 81 de este ordenamiento.
+
+Décimo Primero.- Dentro de los sesenta días naturales posteriores a la entrada en vigor del presente Reglamento y a solicitud de la Secretaría de Energía, el Instituto de Administración y Avalúos de Bienes Nacionales emitirá los tabuladores sobre los valores promedio de la tierra conforme a la normativa del mismo y, en su caso, de sus accesorios para su uso, ocupación o adquisición a que se refiere el artículo 103 de la Ley.
+
+Décimo Segundo.- Dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Reglamento la Secretaría de Desarrollo Agrario, Territorial y Urbano publicará los lineamientos que regularán el proceso de mediación a que se refiere el artículo 76 de este Reglamento.
+
+Décimo Tercero.- Para efectos de lo dispuesto en el artículo 65 del presente Reglamento, se otorgará a los Asignatarios y Contratistas, un plazo de ciento ochenta días hábiles para adecuar su infraestructura, de tal forma que cuenten con los equipos que les permitan la adecuada medición de los Hidrocarburos.
