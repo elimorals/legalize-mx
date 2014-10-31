@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-petroleos-mexicanos-69917"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-04"
-last_updated: "2009-09-04"
+last_updated: "2014-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69917&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2009-09-03"
 
 REGLAMENTO DE LA LEY DE PETROLEOS MEXICANOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE PETRÓLEOS MEXICANOS, PUBLICADO EN EL D.O.F. EL 31 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO AL DÍA SIGUIENTE DE LA PUBLICACIÓN DE LA DECLARATORIA A QUE SE REFIERE EL PÁRRAFO SEGUNDO DE LA REFERIDA DISPOSICIÓN TRANSITORIA Y QUE SE HAYA ACTUALIZADO EL SUPUESTO SEÑALADO EN EL PÁRRAFO CUARTO DE LA MISMA.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 31 DE OCTUBRE DE 2014.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 4 de septiembre de 2009.
 
@@ -856,3 +858,35 @@ I. En sesenta días naturales, las disposiciones a que se refieren los artículo
 II. En ciento veinte días naturales las disposiciones a que hacen referencia los artículos 68, 72, 73 y 74 de este ordenamiento.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a tres de septiembre de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.- La Secretaria de Energía, Georgina Yamilet Kessel Martínez.- Rúbrica.- El Secretario de Economía, Gerardo Ruiz Mateos.- Rúbrica.- El Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, Alberto Cárdenas Jiménez.- Rúbrica.- El Secretario de la Función Pública, Salvador Vega Casillas.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 31 DE OCTUBRE DE 2014.
+
+Primero. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo por lo dispuesto en los tres párrafos siguientes.
+
+Los artículos 46 a 49 de este Reglamento entrarán en vigor al día siguiente de la publicación de la declaratoria a que se refiere el Transitorio Décimo de la Ley de Petróleos Mexicanos.
+
+El artículo 54 de este Reglamento entrará en vigor el 1 de enero de 2016.
+
+Los artículos 26 a 45 de este Reglamento, relativos al recurso de reconsideración, así como los artículos 50 a 52 entrarán en vigor el día en que entre en vigor el régimen especial en materia de adquisiciones, arrendamientos, servicios y obras conforme al Transitorio Décimo, párrafo cuarto de la Ley de Petróleos Mexicanos.
+
+Segundo. El Reglamento de la Ley de Petróleos Mexicanos publicado el 4 de septiembre de 2009 en el Diario Oficial de la Federación, seguirá siendo aplicable en términos del Transitorio Décimo, párrafo tercero de la Ley de Petróleos Mexicanos, y quedará abrogado al día siguiente de la publicación de la declaratoria a que se refiere el párrafo segundo de la referida disposición transitoria y que se haya actualizado el supuesto señalado en el párrafo cuarto de la misma.
+
+Tercero. Las referencias en el presente Reglamento a las empresas productivas subsidiarias de Petróleos Mexicanos se entenderán a los organismos subsidiarios de Petróleos Mexicanos, en términos del Transitorio Octavo de la Ley de Petróleos Mexicanos, hasta en tanto no se verifique la reorganización corporativa prevista en dicha disposición transitoria.
+
+Cuarto. El Consejo de Administración podrá determinar, observando lo dispuesto en el Transitorio Octavo, apartado B, de la Ley de Petróleos Mexicanos y demás disposiciones aplicables, que las empresas de participación estatal mayoritaria que se señalan en el Transitorio Décimo Quinto de la Ley se transformen en empresas productivas subsidiarias o empresas filiales bajo el esquema previsto en el Título Cuarto de la Ley de Petróleos Mexicanos, sin perjuicio de que puedan reorganizarse corporativamente como más convenga.
+
+Al actualizarse la transformación señalada en el párrafo anterior, no será necesario llevar a cabo el proceso de desincorporación de la Administración Pública Federal Paraestatal, por lo que bastará con que Petróleos Mexicanos notifique, exclusivamente con fines informativos, a la Comisión Intersecretarial de Gasto Público, Financiamiento y Desincorporación de la transformación de las empresas.
+
+Quinto. El Comisario de Petróleos Mexicanos realizará la primera evaluación de la empresa conforme al artículo 117 de la Ley de Petróleos Mexicanos, durante el año 2016, respecto del año 2015.
+
+Sexto. Las inconformidades y procedimientos de conciliación iniciados con anterioridad a la entrada en vigor del presente Reglamento continuarán tramitándose hasta su resolución final conforme a las disposiciones vigentes al momento de su inicio.
+
+Séptimo. Los titulares de las áreas de la Unidad de Responsabilidades de Petróleos Mexicanos serán nombrados por la Secretaría de la Función Pública. Lo anterior, hasta en tanto entre en vigor la derogación del artículo 37 de la Ley Orgánica de la Administración Pública Federal, conforme al Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 2 de enero de 2013.
+
+Octavo. Para efectos de lo dispuesto en el Transitorio Décimo Cuarto, segundo párrafo, de la Ley de Petróleos Mexicanos, el ingreso después de impuestos de cada empresa productiva del Estado se determinará disminuyendo de los ingresos totales, los costos, gastos e inversiones deducibles conforme la Ley del Impuesto sobre la Renta y las contribuciones a cargo de dichas empresas.
+
+Noveno. Las empresas productivas subsidiarias o empresas filiales considerarán el valor de mercado que tengan los bienes, derechos y obligaciones al momento en que surta efectos la transmisión a que se refiere el Transitorio Octavo, apartado A, de la Ley de Petróleos Mexicanos para todos los efectos fiscales que se deriven con posterioridad a su transferencia. El Consejo de Administración, previa opinión del Comité Especial, establecerá las metodologías para la determinación del valor de mercado. El mencionado Comité dará seguimiento a su aplicación.
+
+Décimo. En términos del Décimo Octavo Transitorio de la Ley de Petróleos Mexicanos, la actualización de los programas y proyectos de inversión a cargo de Petróleos Mexicanos o sus organismos subsidiarios que hayan sido registrados o que estuviesen en proceso de registro en la Cartera que integra y administra la Secretaría de Hacienda y Crédito Público, con anterioridad a la entrada en vigor del régimen especial previsto en la Ley de Petróleos Mexicanos, se realizará conforme a los lineamientos vigentes al momento de su registro o solicitud, así como a las modificaciones que, en su caso, se realicen a dichos lineamientos, mismos que establecerán los plazos aplicables.
