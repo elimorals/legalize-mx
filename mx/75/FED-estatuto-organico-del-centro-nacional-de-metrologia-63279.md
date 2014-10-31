@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-centro-nacional-de-metrologia-63279"
 country: "mx"
 rank: "estatuto"
 publication_date: "2008-10-01"
-last_updated: "2013-10-14"
+last_updated: "2014-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63279&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2008-09-12"
 
 ESTATUTO ORGÁNICO DEL CENTRO NACIONAL DE METROLOGÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE MAYO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS SEGUNDO Y TERCERO TRANSITORIOS DEL ESTATUTO ORGÁNICO DEL CENTRO NACIONAL DE METROLOGÍA, PUBLICADO EN EL D.O.F. DE 31 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO EL DÍA SIGUIENTE DE QUE SE APRUEBE Y REGISTRE LA ESTRUCTURA ORGÁNICA DEL CENTRO NACIONAL DE METROLOGÍA POR LA SECRETARÍA DE LA FUNCIÓN PÚBLICA..</small>
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 14 DE OCTUBRE DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2014 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 1 de octubre de 2008.
 
@@ -733,7 +733,7 @@ XII. Participar en la ejecución de los programas de intercambio técnico y metr
 
 > <small>(REFORMADA, D.O.F. 10 DE MAYO DE 2013)</small>
 
-XIII. Promover la realización de alianzas estratégicas que permitan fomentar la creación de laboratorios secundarios de calibración y de productores de materiales de referencia certificados, que contribuyan a satisfacer las necesidades de servicios existentes en la materia; y (sic)
+XIII. Promover la realización de alianzas estratégicas que permitan fomentar la creación de laboratorios secundarios de calibración y de productores de materiales de referencia certificados, que contribuyan a satisfacer las necesidades de servicios existentes en la materia; y
 
 > <small>(REFORMADA, D.O.F. 10 DE MAYO DE 2013)</small>
 
@@ -1030,3 +1030,17 @@ A partir de la entrada en vigor de las presentes reformas, quedarán derogados e
 D.O.F. 10 DE MAYO DE 2013.
 
 ARTICULO PRIMERO (SIC). Las presentes reformas al Estatuto Orgánico del Centro Nacional de Metrología, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 31 DE OCTUBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Se aprueba el presente Estatuto por el Consejo Directivo del Centro Nacional de Metrología.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Estatuto Orgánico entrará en vigor el día siguiente de que se apruebe y registre la estructura orgánica del Centro Nacional de Metrología por la Secretaría de la Función Pública.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente Estatuto, quedará abrogado el Estatuto Orgánico del Centro Nacional de Metrología publicado en el Diario Oficial de la Federación con fecha 1o. de octubre de 2008, así como sus modificaciones y cualquier disposición administrativa que se oponga al presente.
