@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-del-servicio-publico-de-energia-12528"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-11-10"
-last_updated: "2011-12-16"
+last_updated: "2014-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12528&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1998-11-02"
 
 REGLAMENTO DE LA LEY DEL SERVICIO PÚBLICO DE ENERGÍA ELÉCTRICA, EN MATERIA DE APORTACIONES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE DICIEMBRE DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE LA INDUSTRIA ELÉCTRICA, PUBLICADO EN EL D.O.F. DE 31 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO PERMANECERÁ EN VIGOR, EN LO QUE NO SE OPONGA AL REGLAMENTO DE LA LEY DE LA INDUSTRIA ELÉCTRICA, EN TANTO LA COMISIÓN REGULADORA DE ENERGÍA EMITA LAS DISPOSICIONES ADMINISTRATIVAS DE CARÁCTER GENERAL EN LA MATERIA A QUE SE REFIERE EL ARTÍCULO 53 DEL REGLAMENTO EN CITA.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE OCTUBRE DE 2014.
 
 Reglamento Publicado en la Primera Sección del Diario Oficial de la Federación el martes 10 de noviembre de 1998.
 
@@ -483,7 +485,7 @@ II. Conjuntos, unidades y condominios habitacionales;
 
 III. Centros comerciales, edificios comerciales, de oficinas o mixtos con más de un servicio;
 
-IV. Parques industriales, y (sic)
+IV. Parques industriales, y
 
 V. Desarrollos turísticos.
 
@@ -898,3 +900,39 @@ II. Para el servicio en baja tensión en solicitudes individuales, de 3 kilovolt
 III. Para el servicio en baja tensión en solicitudes colectivas, de 3 kilovolt-ampere por usuario hasta un máximo de 500 kilovolt-ampere.
 
 DÉCIMO.- Los procedimientos a que se hace referencia en el Capítulo VI del Reglamento de la Ley del Servicio Público de Energía Eléctrica, en Materia de Aportaciones que se encuentren en trámite a la fecha de la entrada en vigor del presente Decreto, se sustanciarán conforme a las disposiciones vigentes al inicio de los procedimientos.
+
+D.O.F. 31 DE OCTUBRE DE 2014.
+
+Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abrogan el Reglamento de la Ley del Servicio Público de Energía Eléctrica y las disposiciones administrativas que se opongan al presente Reglamento.
+
+El Reglamento de la Ley del Servicio Público de Energía Eléctrica en materia de Aportaciones permanecerá en vigor, en lo que no se oponga al presente Reglamento, en tanto la CRE emite las disposiciones administrativas de carácter general en la materia a que se refiere el artículo 53 de este Reglamento.
+
+Tercero. En tanto la Secretaría establezca los términos para la separación legal a que se refiere el Transitorio Cuarto de la Ley, la Comisión Federal de Electricidad será responsable de completar los procesos de licitación, celebrar y administrar los contratos respectivos y supervisar la construcción de las Centrales Eléctricas que se hayan incluido en el Presupuesto de Egresos de la Federación para su desarrollo en modalidad de inversión condicionada.
+
+Cuarto. La exención de los requerimientos de obtener Certificados de Energías Limpias establecida en el Transitorio Décimo Sexto de la Ley aplicará a la porción del consumo de los Centros de Carga incluidos en cada Contrato de Interconexión Legado que se haya suministrado en su totalidad a partir de Energías Limpias por las Centrales Eléctricas contempladas en el mismo contrato.
+
+Cuando una porción del consumo de dichos Centros de Carga se suministre en los términos de la Ley de la Industria Eléctrica, las obligaciones de adquirir Certificados de Energías Limpias asociadas con dicho consumo corresponderán al representante de dichos Centros de Carga en el Mercado Eléctrico Mayorista.
+
+Por lo anterior, la obligación que corresponda al titular de cada Contrato de Interconexión Legado se basará en la porción del consumo de los Centros de Carga incluidos en dicho contrato que se haya suministrado a partir de fuentes que no se consideran Energías Limpias por las Centrales Eléctricas contempladas en el mismo contrato.
+
+Los titulares de Contratos de Interconexión Legados informarán a la CRE la manera en la que darán cumplimiento a las obligaciones de energías limpias derivadas de los Centros de Carga que se encuentren incluidos en dichos Contratos; para este efecto tomarán en cuenta la proporción del consumo de energía de cada uno de dichos Centros de Carga.
+
+Quinto. Hasta que la Comisión Reguladora de Energía emite las disposiciones o criterios en materia de Calidad, Confiabilidad, Continuidad y Seguridad del Despacho del Sistema Eléctrico Nacional, seguirán vigentes aquéllas que se hayan emitido con anterioridad a la entrada en vigor de la Ley de la Industria Eléctrica.
+
+Sexto. Las disposiciones emitidas con anterioridad a la entrada en vigor de la Ley de la Industria Eléctrica relativas a contratación, tarifas, medición facturación, cobranza y demás conceptos relacionados con el Suministro y venta de energía eléctrica seguirán vigentes hasta en tanto se expiden nuevas disposiciones sobre estas materias.
+
+Séptimo. En tanto se emiten las Reglas del Mercado, el Centro Nacional de Control de Energía vigilará que las cargas del Usuario Final cumplan con los límites de distorsión armónica de la corriente que inyectan o trasmiten al Sistema Eléctrico Nacional, de tal forma que se asegure que los sistemas y los equipos que lo conforman operen correctamente
+
+Octavo. La Secretaría, el Centro Nacional de Control de Energía, Transportistas y los Distribuidores, para la elaboración del primer programa de ampliación y modernización de la Red Nacional de Transmisión y de las Redes Generales de Distribución, así como el primer Programa de Desarrollo del Sistema Eléctrico Nacional, quedaran exentos de lo señalado en el artículo 9 del presente Reglamento. Las propuestas de los primeros programas de ampliación y modernización de la Red Nacional de Transmisión y de las Redes Generales de Distribución deberán someterse a la SENER en abril de 2015, la cual deberá emitir el primer Programa de Desarrollo del Sistema Eléctrico Nacional a más tardar el 30 de junio de 2015.
+
+Noveno. Para la elaboración del Programa de Desarrollo del Sistema Eléctrico Nacional, la Secretaría tomará en cuenta las condiciones generales para la Prestación del Servicio Público de Transmisión y Distribución que establezca la CRE considerando además, la mejora gradual establecida en los programas sectoriales.
+
+Décimo. Cuando un Contrato Legado para el Suministro Básico se basa en una Central Eléctrica Legada, el costo y la cantidad de la energía eléctrica y Productos Asociados se basarán en los resultados históricos de dicho central, de tal forma que el Generador podrá beneficiarse de las mejoras en capacidad o eficiencia que realice.
+
+Décimo Primero. El Reglamento de la Ley del Servicio Público de Energía Eléctrica en Materia de Aportaciones seguirá vigente en tanto la Comisión Reguladora de Energía no emita las Disposiciones a que se refiere el artículo 53 de este Reglamento.
+
+Décimo Segundo. El CENACE realizará la gestión y llevará a cabo los estudios relacionados con la celebración y modificación de los Contratos de Interconexión Legados. La obligación de los Transportistas y los Distribuidores para celebrar los contratos de interconexión a que se refiere el artículo 33 de la Ley es aplicable a los Contratos de Interconexión Legados y los demás instrumentos relacionados con ellos. Dicha obligación corresponderá a la Comisión Federal de Electricidad hasta en tanto realice la separación legal a que se refiere el Transitorio Cuarto de la Ley.
+
+Décimo Tercero. Hasta por un periodo máximo de dos años contados a partir del inicio de operaciones del Mercado Eléctrico Mayorista, el CENACE realizará, a nombre de los Suministradores y Usuarios Calificados Participantes del Mercado, la estimación de la demanda y consumo eléctrico de sus Centros de Carga, para fines de planeación del despacho y operación del Sistema Eléctrico Nacional.
