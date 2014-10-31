@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-federal-de-presupuesto-y-50856"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-06-28"
-last_updated: "2014-04-25"
+last_updated: "2014-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50856&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-06-27"
 
 REGLAMENTO DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE OCTUBRE DE 2014.
 
 Reglamento publicado en la Cuarta Sección del Diario Oficial de la Federación, el miércoles 28 de junio de 2006.
 
@@ -187,31 +187,65 @@ Artículo 8 B. La autorización a que se refiere el artículo 8 de la Ley se emi
 
 La coordinadora de sector o la unidad responsable informarán a la Tesorería de la aplicación de la autorización. Las unidades administrativas de programación y presupuesto sectoriales de la Secretaría, remitirán a la Tesorería, para los efectos conducentes, el expediente que se integre en términos de los artículos 8 C y 8 D de este Reglamento.
 
-> <small>(ADICIONADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Artículo 8 C. Para la obtención de la autorización a que se refiere el artículo anterior, respecto a la creación de empresas de participación estatal mayoritaria o sociedades y asociaciones, civiles o mercantiles, las dependencias y entidades presentarán a la Secretaría un informe respecto del régimen jurídico para la constitución de la empresa, sociedad o asociación de que se trate; la viabilidad económica o financiera de la participación estatal y la procedencia jurídica de dicha participación; asimismo, indicarán en su solicitud el monto y fuente de recursos con cargo a los cuales se realizará la participación estatal.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+Artículo 8 C. Para la obtención de la autorización a que se refiere el artículo anterior, respecto a la creación de empresas de participación estatal mayoritaria, las dependencias y entidades presentarán a la Secretaría un informe respecto del régimen jurídico para la constitución de la empresa de que se trate; la viabilidad económica o financiera de la participación estatal y la procedencia jurídica de dicha participación; asimismo, indicarán en su solicitud el monto y fuente de recursos con cargo a los cuales se realizará la participación estatal.
+
+> <small>(ADICIONADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
 
 El trámite para la obtención de la autorización deberá realizarse ante la Secretaría por conducto de la Oficialía Mayor o equivalente en el caso de las dependencias, y por conducto de la unidad o área de la dependencia o entidad que realice las funciones de coordinación sectorial, en el caso de las entidades, quienes si no tuvieren objeción lo continuarán ante la Secretaría.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+Artículo 8 D. Las dependencias o entidades que tramiten la autorización a que se refiere el artículo 8 B de este Reglamento, para la participación estatal en el aumento del capital de empresas mercantiles, o en la adquisición de todo o parte de dicho capital, deberán cumplir con lo dispuesto en el artículo anterior, excepto por lo que se refiere al régimen jurídico de la constitución de la empresa de que se trate.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+Asimismo se deberá indicar, de ser el caso, si la participación estatal en el aumento del capital o en la adquisición de todo o parte de éste tendrá como consecuencia la actualización de la hipótesis correspondiente para que las sociedades mercantiles, sean consideradas entidades, supuesto en el cual será obligación de la unidad responsable con cargo a cuyo presupuesto se realice la participación estatal o que realizará las funciones de coordinadora de sector, llevar a cabo los trámites o actos conducentes, con la intervención que corresponda a dichas sociedades, a fin de que se ajusten al marco normativo aplicable a las entidades.
+
 > <small>(ADICIONADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-Artículo 8 D. Las dependencias o entidades que tramiten la autorización a que se refiere el artículo 8 B de este Reglamento, para la participación estatal en el aumento del capital o patrimonio de empresas, sociedades y asociaciones, civiles o mercantiles, o en la adquisición de todo o parte de dicho capital o patrimonio, deberán cumplir con lo dispuesto en el artículo anterior, excepto por lo que se refiere al régimen jurídico de la constitución de la empresa, sociedad o asociación de que se trate.
-
-Asimismo se deberá indicar, de ser el caso, si la participación estatal en el aumento del capital o patrimonio o en la adquisición de todo o parte de éstos tendrá como consecuencia la actualización de la hipótesis correspondiente para que las sociedades o asociaciones, civiles o mercantiles, sean consideradas entidades, supuesto en el cual será obligación de la unidad responsable con cargo a cuyo presupuesto se realice la participación estatal o que realizará las funciones de coordinadora de sector, llevar a cabo los trámites o actos conducentes, con la intervención que corresponda a dichas sociedades o asociaciones, a fin de que se ajusten al marco normativo aplicable a las entidades.
 
 Para efectos de la autorización a que se refiere este artículo la Secretaría podrá solicitar la opinión de la Comisión cuando así lo estime conveniente.
 
-> <small>(ADICIONADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Artículo 8 E. En el caso de las autorizaciones que impliquen la realización de aportaciones económicas preponderantes a sociedades o asociaciones civiles, el efecto de dichas aportaciones tendrá por consecuencia que las sociedades o asociaciones que las reciban se sujeten a la Ley, a este Reglamento y a las demás disposiciones aplicables en materia de gasto público federal.
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+Artículo 8 E. Para la constitución de sociedades o asociaciones civiles como entidades, o en el caso de que la participación de alguna dependencia o entidad en las mismas actualice los supuestos para que se considere entidad en términos del artículo 46 de la Ley Orgánica de la Administración Pública Federal, las dependencias coordinadoras de sector deberán observar lo dispuesto en los artículos 8 C y 8 D, y en la operación de las mismas deberán sujetarse a la Ley, a este Reglamento y a las demás disposiciones aplicables en materia de gasto público federal.
 
-Artículo 8 F. Cualquier recurso público que las dependencias y entidades otorguen a particulares con cargo al Presupuesto de Egresos, no deberá ser afectado por éstos a la constitución o aportación de fideicomisos, mandatos o contratos análogos, salvo que se cuente con la previa autorización de la propia dependencia o entidad y siempre que en el instrumento jurídico que al efecto suscriban, el particular convenga que instruirá al fiduciario, mandatario o análogo a éstos, para que proporcione a las instancias fiscalizadoras federales la información que permita la vigilancia y fiscalización de los recursos públicos, así como las facilidades para realizar las auditorías y visitas de inspección respecto del ejercicio de dichos recursos, o asuma el compromiso de responsabilizarse de la comprobación de los recursos públicos que aporte a un fideicomiso, mandato o análogo, cuando éstos no hayan sido constituidos por el particular.
+No se considerarán aportaciones económicas preponderantes a sociedades o asociaciones civiles, en términos del artículo 46 de la Ley Orgánica de la Administración Pública Federal, los subsidios que se otorguen a éstas para apoyar su operación, siempre y cuando se reúnan los siguientes requisitos:
 
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+I. Exista la obligación prevista expresamente en un tratado internacional, en una disposición legal o en un ordenamiento emitido por el Titular del Ejecutivo Federal, de otorgar apoyos para la operación de la sociedad o asociación civil correspondiente;
 
-Artículo 8 G. En caso de que las dependencias reciban recursos por concepto de donativos del exterior o de particulares, para que por su conducto se canalicen directamente a los terceros beneficiarios de los mismos, la unidad administrativa encargada de la política y del control presupuestario de la Secretaría emitirá el mecanismo presupuestario respectivo, para registrar las erogaciones en las partidas específicas del Clasificador por objeto del gasto.
+II. La sociedad o asociación civil tenga exclusivamente por objeto actividades de carácter educativo, académico o cultural y no tenga fines de lucro;
+
+III. Las dependencias y entidades que pretendan otorgar los subsidios cuenten con la autorización de la Secretaría, previa opinión de la Comisión, y
+
+IV. El apoyo se otorgue a través de un programa de subsidios, en términos de los artículos 175 Bis y 175 Ter de este Reglamento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+Artículo 8 F. Las dependencias o entidades que pretendan participar en una sociedad mercantil, sociedad o asociación civil deberán informar a la Secretaría si en ella participa alguna otra dependencia o entidad, así como la forma y términos de dicha participación, con el objeto de llevar el registro de la participación de las dependencias y entidades en las sociedades mercantiles, sociedades o asociaciones civiles.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+Artículo 8 G. Cualquier recurso público que las dependencias y entidades otorguen a particulares con cargo al Presupuesto de Egresos, no deberá ser afectado por éstos a la constitución o aportación de fideicomisos, mandatos o contratos análogos, salvo que se cuente con la previa autorización de la propia dependencia o entidad y siempre que en el instrumento jurídico que al efecto suscriban, el particular convenga que instruirá al fiduciario, mandatario o análogo a éstos, para que proporcione a las instancias fiscalizadoras federales la información que permita la vigilancia y fiscalización de los recursos públicos, así como las facilidades para realizar las auditorías y visitas de inspección respecto del ejercicio de dichos recursos, o asuma el compromiso de responsabilizarse de la comprobación de los recursos públicos que aporte a un fideicomiso, mandato o análogo, cuando éstos no hayan sido constituidos por el particular.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+Artículo 8 H. En caso de que las dependencias reciban recursos por concepto de donativos del exterior o de particulares, para que por su conducto se canalicen directamente a los terceros beneficiarios de los mismos, la unidad administrativa encargada de la política y del control presupuestario de la Secretaría emitirá el mecanismo presupuestario respectivo, para registrar las erogaciones en las partidas específicas del Clasificador por objeto del gasto.
 
 #### SECCIÓN II. De los sistemas electrónicos
 
@@ -347,11 +381,13 @@ Para efectos de lo dispuesto en el párrafo anterior, se entenderán por documen
 
 ### CAPÍTULO I. De los Mecanismos de Estabilización
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 11.
 
-El déficit presupuestario, sin considerar el gasto de inversión de Petróleos Mexicanos y sus organismos subsidiarios, deberá ser igual a cero. Excepcionalmente se podrá prever un déficit presupuestario distinto de cero, por las siguientes razones:
+El déficit presupuestario, sin considerar el gasto de inversión de Petróleos Mexicanos y sus empresas productivas subsidiarias, deberá ser igual a cero. Excepcionalmente se podrá prever un déficit presupuestario distinto de cero, por las siguientes razones:
 
 I. La previsión de un aumento en el costo financiero del sector público, derivado de un incremento en las tasas de interés, que exceda el equivalente al 25 por ciento del costo financiero aprobado en el Presupuesto de Egresos del ejercicio fiscal inmediato anterior;
 
@@ -361,11 +397,15 @@ III. La previsión de un costo mayor al 2 por ciento del gasto programable aprob
 
 IV. La previsión del pago de pasivos correspondientes a ejercicios fiscales anteriores que superen el 2 por ciento del gasto programable aprobado en el Presupuesto de Egresos del ejercicio fiscal inmediato anterior, o
 
-> <small>(REFORMADA, D.O.F. 25 DE ABRIL DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V. La previsión de una caída de los ingresos tributarios no petroleros que exceda el 2.5 por ciento real del monto aprobado en la Ley de Ingresos del ejercicio fiscal inmediato anterior que resulte de una previsión de un débil desempeño de la economía que se refleje en una estimación del Producto Interno Bruto que lo sitúe por debajo del Producto Interno Bruto potencial estimado, así como la previsión de una caída en el precio del petróleo mayor a 10 por ciento respecto al precio previsto en la Ley de Ingresos de la Federación del ejercicio fiscal inmediato anterior.
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 25 DE ABRIL DE 2014)</small>
+V. La previsión de una caída de los ingresos tributarios no petroleros que exceda el 2.5 por ciento real del monto aprobado en la Ley de Ingresos del ejercicio fiscal inmediato anterior que resulte de una previsión de un débil desempeño de la economía que se refleje en una estimación del Producto Interno Bruto que lo sitúe por debajo del Producto Interno Bruto potencial estimado, así como las previsiones de una caída en el precio del petróleo mayor a 10 por ciento respecto al precio previsto en la Ley de Ingresos de la Federación del ejercicio fiscal inmediato anterior, o de una caída transitoria de la plataforma de producción de petróleo en el país.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
 > <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 25 DE ABRIL DE 2014)</small>
 
@@ -383,21 +423,19 @@ Se considerará que el gasto neto total ejercido durante el año fiscal correspo
 
 Artículo 11 A. La Secretaría elaborará el proyecto de Presupuesto de Egresos y la iniciativa de Ley de Ingresos de forma que el saldo histórico de los requerimientos financieros del sector público, expresado como proporción del Producto Interno Bruto, muestre una trayectoria que no ponga en riesgo la solvencia del sector público para el periodo de proyección en su conjunto. Si para un año en específico se prevé que dicho saldo aumentará como proporción del Producto Interno Bruto con respecto al del año anterior, en los criterios generales de política económica correspondientes deberán explicarse las causas de dicho aumento.
 
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Para efecto de lo indicado en el párrafo anterior se considerará:
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-I. El escenario indicativo de las metas de balance financiero de Petróleos Mexicanos a que hace referencia el artículo 49, fracción I, de la Ley de Petróleos Mexicanos que se tenga disponible al 15 de julio de cada ejercicio fiscal, y
+Para efecto de lo indicado en el párrafo anterior, la Secretaría incluirá en el proyecto de Presupuesto de Egresos y la iniciativa de Ley de Ingresos, la estimación del balance presupuestario desagregado en Gobierno Federal, entidades de control directo y empresas productivas del Estado, consistente con la meta de los requerimientos financieros del sector público.
 
-II. Las inversiones a realizar por Petróleos Mexicanos con base en el Plan a que hace referencia el artículo 19, fracción III, de la Ley de Petróleos Mexicanos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-Es responsabilidad de la Secretaría verificar que la propuesta de gasto de inversión del proyecto de presupuesto de Petróleos Mexicanos, así como el escenario indicativo de metas de balance financiero, sean congruentes con la capacidad global de financiamiento del sector público, y con una evolución ordenada de los requerimientos financieros del sector público y de su saldo histórico. De no ser así, la Secretaría comunicará a Petróleos Mexicanos, a más tardar el 15 de agosto de cada ejercicio fiscal, los ajustes correspondientes para que se cumpla con lo establecido en el artículo 17 de la Ley. Dicha entidad deberá enviar a la Secretaría los ajustes a más tardar el 25 de agosto del ejercicio correspondiente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-En el año en que el Ejecutivo Federal termine su encargo, los plazos previstos en el párrafo anterior se ajustarán por la Secretaría en términos del artículo 43 de la Ley.
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
 > <small>(REFORMADO, D.O.F. 25 DE ABRIL DE 2014)</small>
 
@@ -425,17 +463,17 @@ I. Se prevea un incremento en el nivel de ingresos permanentes del sector públi
 
 II. En los casos excepcionales que el Ejecutivo Federal exponga para su aprobación al Congreso de la Unión. En estos casos, se deberá presentar un plan de ajuste del gasto corriente estructural que exponga las acciones que se deberán llevar a cabo para lograr que, en un plazo no mayor a tres años, el gasto corriente estructural como proporción del Producto Interno Bruto Potencial recupere el nivel observado antes de la desviación.
 
-> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 12.
 
-A cuenta del monto anual de los ingresos excedentes correspondientes a las aportaciones a los fondos de Estabilización de los Ingresos de las Entidades Federativas, de Estabilización para la Inversión en Infraestructura de Petróleos Mexicanos y de Estabilización de los Ingresos Petroleros, a que se refiere el artículo 19, fracción IV, incisos a), b) y c), de la Ley, se realizará un anticipo el primer semestre del año, con base en una proyección de las finanzas públicas para el año que elabore la Secretaría, dentro de los 20 días hábiles siguientes a la entrega de los informes trimestrales correspondientes al segundo trimestre y un anticipo a más tardar el último día hábil del año, una vez que la Secretaría con base en las cifras preliminares al mes de noviembre y la estimación del cierre anual de las finanzas públicas, calcule los recursos excedentes anuales.
+A cuenta del monto anual de los ingresos excedentes correspondientes a las aportaciones a los fondos de Estabilización de los Ingresos de las Entidades Federativas y de Estabilización de los Ingresos Presupuestarios, a que se refiere el artículo 19, fracción IV, incisos a) y c), de la Ley, se realizará un anticipo el primer semestre del año, con base en una proyección de las finanzas públicas para el año que elabore la Secretaría, dentro de los 20 días hábiles siguientes a la entrega de los informes trimestrales correspondientes al segundo trimestre y un anticipo a más tardar el último día hábil del año, una vez que la Secretaría con base en las cifras preliminares al mes de noviembre y la estimación del cierre anual de las finanzas públicas, calcule los recursos excedentes anuales.
 
 En caso de que el anticipo correspondiente al primer semestre genere un saldo a favor de la Federación, el fiduciario de cada uno de los fondos señalados en el párrafo anterior, por instrucciones del Comité Técnico, enterará al Gobierno Federal los recursos determinados bajo el concepto de reintegro al Presupuesto de Egresos. Para la determinación de este reintegro no se considerarán actualizaciones ni rendimientos financieros. Dicho reintegro se realizará a más tardar a los 10 días hábiles posteriores a la determinación del saldo a favor.
 
 Una vez presentado el informe correspondiente al cuarto trimestre, la Secretaría realizará el cálculo anual definitivo de las aportaciones mencionadas en el primer párrafo de este artículo y determinará la diferencia que, en su caso, resulte entre el monto anual definitivo y los anticipos cubiertos.
-
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
 
 En caso de determinarse un saldo a favor de los fondos, la Secretaría realizará los depósitos correspondientes con cargo al ramo de adeudos de ejercicios fiscales anteriores dentro de los siguientes 10 días hábiles a la presentación del cuarto informe trimestral.
 
@@ -455,65 +493,39 @@ A más tardar el 26 de diciembre, la Secretaría, con base en las cifras prelimi
 
 El Ejecutivo Federal, por conducto de la Secretaría, establecerá convenios con las entidades federativas para definir los mecanismos que permitan ajustar las diferencias que, en su caso, resulten entre los anticipos trimestrales y las cantidades correspondientes al monto anual definitivo presentado en el informe correspondiente al cuarto trimestre del ejercicio fiscal de que se trate.
 
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+Se realizarán las transferencias de recursos que correspondan a los fondos a que se refieren los artículos 87 y 88 de la Ley a más tardar el último día hábil de enero.
 
-Los ingresos excedentes a que se refieren los artículos 256 y 257 de la Ley Federal de Derechos se aportarán en el Fondo de Estabilización de los Ingresos de las Entidades Federativas y el Fondo de Estabilización de los Ingresos Petroleros, respectivamente, conforme se cubran efectivamente los pagos en flujo de efectivo del derecho extraordinario sobre la exportación de petróleo crudo y del derecho sobre hidrocarburos para el fondo de estabilización en abril, julio y octubre del ejercicio de que se trate, y enero del ejercicio fiscal siguiente, a más tardar a los 10 días hábiles posteriores a la realización de dichos pagos. Los ingresos a que se refiere el artículo 257 Bis de la Ley Federal de Derechos, o cualquier otra contribución que por disposición general distinta de la Ley tenga como destino el Fondo de Estabilización de los Ingresos Petroleros, se aportarán en el Fondo en las mismas fechas en que deba realizarse la aportación del derecho a que se refiere el artículo 256 de la Ley Federal de Derechos.
+Las respectivas reservas de los fondos de Estabilización de los Ingresos de las Entidades Federativas y de Estabilización de los Ingresos Presupuestarios, a que se refiere el artículo 19, fracción IV, de la Ley estarán constituidas con los recursos provenientes de las transferencias del Fondo Mexicano del Petróleo, así como de las aportaciones que realice el Gobierno Federal por los conceptos y contribuciones que, en su caso, señalen la Ley o disposiciones generales distintas a ésta y aquéllos que se determinen expresamente en las reglas de operación de cada fondo para integrar la reserva.
 
-A cuenta del monto anual, se aportarán en el fondo que corresponda los anticipos conforme a los pagos provisionales del derecho extraordinario sobre la exportación de petróleo crudo y del derecho sobre hidrocarburos para los Fondos de Estabilización que se cubran en abril, julio y octubre del ejercicio de que se trate y enero del siguiente año, a más tardar a los 10 días hábiles posteriores a la realización de dichos pagos.
+No se considerarán dentro de las reservas citadas en el párrafo anterior, los rendimientos financieros que generen los recursos depositados en el fondo correspondiente, ni aquéllos provenientes de la operación propia del fondo.
 
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Para el derecho sobre extracción de hidrocarburos, el anticipo se realizará en la misma fecha que se deba realizar el del derecho sobre hidrocarburos para el fondo de estabilización.
-
-> <small>(REFORMADO, D.O.F. 25 DE ABRIL DE 2014)</small>
-
-En caso de que la recaudación anual neta del derecho extraordinario sobre la exportación de petróleo crudo y del derecho sobre hidrocarburos para los fondos de estabilización resulte menor al monto de los anticipos aportados a los fondos, el fiduciario, por instrucciones del Comité Técnico del fideicomiso de cada fondo, deberá enterar al Gobierno Federal los recursos por el monto del saldo a favor de la Federación, como un reintegro al Presupuesto de Egresos sin considerar actualizaciones ni rendimientos financieros. El reintegro se deberá realizar a más tardar a los 10 días hábiles posteriores a la determinación del saldo a favor de la Federación.
-
-> <small>(DEROGADO DÉCIMO SEGUNDO PÁRRAFO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-> <small>(DEROGADO DÉCIMO TERCER PÁRRAFO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-La reserva de cada uno de los fondos de Estabilización de los Ingresos de las Entidades Federativas, de Estabilización para la Inversión en Infraestructura de Petróleos Mexicanos y de Estabilización de los Ingresos Petroleros, a que se refiere el artículo 19, fracción IV de la Ley, estará constituida con los recursos provenientes de las aportaciones que realice el Gobierno Federal por los conceptos y contribuciones que señale la Ley o disposiciones generales distintas a ésta y aquéllos que se determinen expresamente en las reglas de operación de cada fondo para integrar la reserva.
-
-No se considerarán dentro de la reserva de cada uno de los fondos de Estabilización de los Ingresos de las Entidades Federativas, de Estabilización para la Inversión en Infraestructura de Petróleos Mexicanos y de Estabilización de los Ingresos Petroleros, a que se refiere el artículo 19, fracción IV de la Ley, los rendimientos financieros que generen los recursos depositados en el fondo, ni aquéllos provenientes de la operación propia del fondo.
-
-Tratándose del Fondo de Estabilización de los Ingresos Petroleros y del Fondo de Estabilización de los Ingresos de las Entidades Federativas, cuando el conjunto de aportaciones provenientes, por un lado, de los ingresos excedentes a que se refiere el artículo 19, fracción IV de la Ley y, por otro, del derecho sobre hidrocarburos para el fondo de estabilización y del derecho extraordinario sobre la exportación de petróleo crudo, en cada caso, implique que se rebase el límite de la reserva que señala el artículo 19, fracción IV de la Ley, el monto a depositar de cada una de las aportaciones corresponderá a la proporción que cada una de éstas represente en el total de recursos disponibles para aportar al fondo respectivo.
+En cada ejercicio fiscal se realizarán, en primer lugar, las aportaciones a los fondos a que se refiere este artículo provenientes de las transferencias del Fondo Mexicano del Petróleo que correspondan y, en segundo lugar, se realizarán las aportaciones a que se refiere el artículo 19, fracción IV, de la Ley hasta llegar al límite de la reserva de cada fondo.
 
 Cuando alguno de los fondos a que se refiere el artículo 19, fracción IV de la Ley alcance el monto máximo de su reserva, los ingresos excedentes que le correspondan se destinarán a los fines establecidos en la fracción V del mismo artículo, para ello se realizará un anticipo el primer semestre del año, con base en una proyección de las finanzas públicas para el año que elabore la Secretaría, dentro de los 20 días hábiles siguientes a la entrega de los informes trimestrales correspondientes al segundo trimestre y un pago anual a más tardar el último día hábil del año, una vez que la Secretaría con base en las cifras preliminares al mes de noviembre y la estimación del cierre anual de las finanzas públicas, calcule los recursos excedentes anuales. El pago anual tendrá el carácter de definitivo. Los montos que durante el ejercicio se determinen para dichos destinos se depositarán en la Tesorería hasta que se determine su aplicación definitiva a los destinos mencionados.
 
 Cuando el cálculo del límite de la reserva señalada en el artículo 19, fracción IV de la Ley indique un nivel inferior al correspondiente en el ejercicio fiscal inmediato anterior, prevalecerá el de este último.
 
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
 Para los cálculos de la distribución de los ingresos excedentes se podrá utilizar la información preliminar observada en la misma unidad de valor expresada en las cifras estimadas que se presenten en la Ley de Ingresos.
 
-Petróleos Mexicanos definirá el concepto de plataforma de hidrocarburos líquidos a que se refiere el artículo 19 de la Ley. Asimismo, informará a la Secretaría sobre la estimación para el siguiente año de la misma plataforma, a más tardar el último día hábil del mes de julio, a efecto de que el cálculo de la reserva para cada uno de los fondos a que se refiere el artículo 19 de la Ley se presente en los Criterios Generales de Política Económica.
-
-Para dicho cálculo, el tipo de cambio del dólar de los Estados Unidos de América con respecto al peso esperado para el ejercicio será el que se presente en los Criterios Generales de Política Económica del año correspondiente.
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Si el tipo de cambio del dólar de los Estados Unidos de América con respecto al peso que se haya utilizado para la estimación de la Ley de Ingresos es distinto al previsto en los Criterios Generales de Política Económica, la Secretaría revisará el cálculo de la reserva para cada uno de los fondos a que se refiere el artículo 19 de la Ley y publicará los nuevos resultados en el Diario Oficial de la Federación a más tardar el último día hábil de enero del año correspondiente.
-
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
 La Secretaría publicará las reglas de operación de dichos fondos y sus modificaciones en el Diario Oficial de la Federación.
-
-> <small>(ADICIONADO, D.O.F. 25 DE ABRIL DE 2014)</small>
-
-Para calcular el costo de los combustibles que no se repercuten en las tarifas eléctricas a que se refiere el artículo 19 de la Ley, se considerará la ponderación de las tarifas correspondientes dentro del total del volumen comercializado, conforme a lo que informe la Comisión Federal de Electricidad dentro de los 10 días hábiles siguientes a la entrega del segundo informe trimestral del ejercicio y a más tardar el 15 de diciembre.
 
 > <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
 
 Artículo 12 A. La disminución de los ingresos a que se refiere el artículo 21, fracción II, de la Ley se considerará en términos anuales con relación a los estimados para la Ley de Ingresos.
 
-Asimismo, la compensación de la recaudación de los ingresos a que se refiere el mismo artículo, con los recursos del Fondo de Estabilización de los Ingresos Petroleros, del Fondo de Estabilización de los Ingresos de las Entidades Federativas y del Fondo de Estabilización para la Inversión en Infraestructura de Petróleos Mexicanos, respectivamente, deberá ser también en términos anuales. Para ello, dichos fondos deberán contar con el mecanismo que permita garantizar reintegros en caso de que al final del ejercicio se determine saldo a favor de los mismos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+Asimismo, la compensación de la recaudación de los ingresos a que se refiere el mismo artículo, con los recursos del Fondo de Estabilización de los Ingresos Presupuestarios y del Fondo de Estabilización de los Ingresos de las Entidades Federativas, respectivamente, deberá ser también en términos anuales. Para ello, dichos fondos deberán contar con el mecanismo que permita garantizar reintegros en caso de que al final del ejercicio se determine saldo a favor de los mismos.
 
 En el transcurso del ejercicio fiscal se podrán realizar las compensaciones señaladas con los recursos de los fondos a que se refiere el artículo 21 de la Ley cuando con base en una proyección de las finanzas públicas para el año que elabore la Secretaría, se determine una disminución de los ingresos asociada a las causas señaladas en la Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE ABRIL DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Las compensaciones con cargo al Fondo de Estabilización de los Ingresos Petroleros se realizarán con base en la información preliminar que se presente en los informes trimestrales y a lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+Las compensaciones con cargo al Fondo de Estabilización de los Ingresos Presupuestarios se realizarán con base en la información preliminar que se presente en los informes trimestrales y a lo siguiente:
 
 I. La compensación correspondiente al primer trimestre será hasta por el equivalente al 75 por ciento de la disminución que corresponda del monto total determinado para dicho periodo;
 
@@ -523,21 +535,43 @@ III. La compensación correspondiente al tercer trimestre será hasta por el equ
 
 IV. La compensación correspondiente al cierre anual será hasta por el equivalente al 100 por ciento de la disminución que corresponda del monto total determinado para dicho periodo, descontando las compensaciones correspondientes a las fracciones I, II y III anteriores y observando lo dispuesto en los siguientes párrafos.
 
-> <small>(REFORMADO, D.O.F. 25 DE ABRIL DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-A más tardar el 26 de diciembre, la Secretaría, con base en las cifras preliminares al mes de noviembre y la estimación del cierre anual de las finanzas públicas, calculará los ingresos faltantes anuales, y podrán compensarse hasta el monto que se determine con los recursos disponibles en el Fondo de Estabilización de los Ingresos Petroleros, en los términos establecidos en el artículo 21 de la Ley, a más tardar el último día hábil del año.
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+A más tardar el 26 de diciembre, la Secretaría, con base en las cifras preliminares al mes de noviembre y la estimación del cierre anual de las finanzas públicas, calculará los ingresos faltantes anuales, y podrán compensarse hasta el monto que se determine con los recursos disponibles en el Fondo de Estabilización de los Ingresos Presupuestarios y, en su caso, con recursos de la Reserva del Fondo, en términos de lo previsto en los artículos 21 y 97 de la Ley, a más tardar el último día hábil del año.
 
 > <small>(ADICIONADO, D.O.F. 25 DE ABRIL DE 2014)</small>
 
 Las compensaciones con cargo a los recursos del Fondo de Estabilización de los Ingresos de las Entidades Federativas se realizarán mediante anticipos con base en la información preliminar que se presente en los informes trimestrales, a más tardar a los 10 días hábiles siguientes a la terminación de cada uno de los primeros tres trimestres y, para el cuarto trimestre, a más tardar el 15 de diciembre. La compensación será por el equivalente al 75 por ciento de la disminución de participaciones, conforme a dicha información. La compensación podrá ser hasta por el 100 por ciento de la disminución de ingresos correspondiente a cada trimestre, siempre y cuando las entidades federativas convengan con la Secretaría que el saldo deudor de aquéllas que, en su caso se genere conforme a la información definitiva del ejercicio fiscal en cuestión, se descuente de sus participaciones correspondientes al siguiente ejercicio fiscal.
 
-Las compensaciones que se determinen con los recursos del Fondo de Estabilización de los Ingresos de las Entidades Federativas y del Fondo de Estabilización para la Inversión en Infraestructura de Petróleos Mexicanos se podrán realizar, en primera instancia, con los recursos de los fondos distintos de su reserva y, en segunda instancia, con los recursos de la reserva hasta por el monto establecido en las reglas de operación de cada fondo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-La compensación que se determine con los recursos del Fondo de Estabilización de los Ingresos Petroleros se podrá realizar, en primera instancia con los recursos de la reserva hasta por el monto establecido en las reglas de operación del mismo y, en segunda instancia, con los recursos distintos de la reserva. Una vez realizada la compensación en caso de que se determinen remanentes en los recursos del Fondo distintos de la reserva, éstos se podrán utilizar para compensar la disminución de ingresos presupuestarios respecto a la Ley de Ingresos.
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-La disminución de ingresos distintos a aquéllos que se cubren con recursos del Fondo de Estabilización de los Ingresos de las Entidades Federativas y del Fondo de Estabilización para la Inversión en Infraestructura de Petróleos Mexicanos, se podrá compensar directamente mediante el mecanismo previsto en el artículo 21, fracción III, de la Ley.
+Las compensaciones que se determinen con los recursos del Fondo de Estabilización de los Ingresos de las Entidades Federativas se podrán realizar, en primera instancia, con los recursos distintos de su reserva y, en segunda instancia, con los recursos de la reserva hasta por el monto establecido en las reglas de operación del fondo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+La compensación que se determine con los recursos del Fondo de Estabilización de los Ingresos Presupuestarios se podrá realizar, en primera instancia con los recursos de la reserva hasta por el monto establecido en las reglas de operación del mismo y, en segunda instancia, con los recursos distintos de la reserva. Una vez realizada la compensación en caso de que se determinen remanentes en los recursos del Fondo distintos de la reserva, éstos se podrán utilizar para compensar la disminución de ingresos presupuestarios respecto a la Ley de Ingresos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+La disminución de ingresos distintos a aquéllos que se cubren con recursos del Fondo de Estabilización de los Ingresos de las Entidades Federativas, se podrá compensar directamente mediante el mecanismo previsto en el artículo 21, fracción III, de la Ley.
 
 Para los cálculos de las compensaciones de la disminución de los ingresos se podrá utilizar la información preliminar observada en la misma unidad de valor expresada en las cifras estimadas que se presenten en la Ley de Ingresos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+Artículo 12 B. Los recursos del Fondo Mexicano del Petróleo a los que se refiere el artículo 93, párrafo tercero, de la Ley serán determinados por el Comité Técnico de dicho Fondo.
+
+La orden del Comité Técnico a que se refiere el artículo 96 de la Ley deberá realizarse cuando el saldo acumulado de la Reserva del Fondo al 31 de diciembre del año previo supere el 10 por ciento del Producto Interno Bruto. Dicha orden deberá incluir un calendario que detalle la periodicidad con la que el Fondo Mexicano del Petróleo deba transferir los rendimientos financieros reales anuales a la Tesorería de la Federación, de conformidad con la instrucción que para tal efecto emita la Secretaría.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
 
@@ -569,7 +603,11 @@ Los titulares y los servidores públicos competentes de las entidades deberán c
 
 El cómputo del precio de referencia de la mezcla de petróleo mexicano se podrá realizar hasta siete días antes de la fecha en que el documento que lo contenga deba ser entregado al Congreso de la Unión, conforme a lo siguiente:
 
-I. Para el cálculo del componente descrito en el artículo 31, fracción I, inciso a) de la Ley, se emplearán los precios promedio mensuales para la mezcla de petróleo mexicano reportados por Petróleos Mexicanos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+I. Para el cálculo del componente descrito en el artículo 31, fracción I, inciso a) de la Ley, se emplearán los precios promedio mensuales para la mezcla de petróleo mexicano;
 
 > <small>(REFORMADA, D.O.F. 25 DE ABRIL DE 2014)</small>
 
@@ -603,13 +641,21 @@ En dichos casos, la Secretaría deberá exponer en los criterios generales de po
 
 Las estimaciones sobre las principales variables macroeconómicas para el siguiente año a que se refiere el artículo 42, fracción I, inciso b) de la Ley, podrán referirse a dos o más escenarios globales, o bien, a un escenario general y un estudio de sensibilidad al cambio de algunas variables macroeconómicas relevantes.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+Las acciones que se propongan en los Criterios Generales de Política Económica para hacer frente a los riesgos de corto plazo, de acuerdo con el artículo 16 de la Ley, deberán estar orientadas a alcanzar la meta de los requerimientos financieros del sector público propuesta para el ejercicio fiscal correspondiente.
+
 > <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 17.
 
 Los requerimientos financieros del sector público agrupan, entre otros, al balance presupuestario más el balance de las entidades de control indirecto, a los requerimientos financieros de la banca de desarrollo y los fondos de fomento, a los requerimientos financieros del Instituto de Protección al Ahorro Bancario, una vez descontadas las transferencias del Gobierno Federal, a los proyectos de infraestructura productiva de largo plazo de inversión directa y otros proyectos de inversión en infraestructura con impacto económico cuyo registro presupuestario se difiera en el tiempo.
 
-La Secretaría deberá entregar a las Comisiones de Hacienda y Crédito Público y de Presupuesto y Cuenta Pública de la Cámara de Diputados y a la Comisión de Hacienda y Crédito Público de la Cámara de Senadores y publicar en su página de Internet a más tardar el 30 de abril de cada ejercicio fiscal, la metodología para el cálculo de los requerimientos financieros del sector público.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
 ### CAPÍTULO II. Del Impacto Presupuestario
 
@@ -1231,9 +1277,11 @@ No se podrán emitir los oficios de inversión a que se refiere el artículo 156
 
 En los casos de programas y proyectos de inversión para cuya realización no se requiera la emisión de un oficio de inversión, deberá contarse con el registro en la Cartera previamente al inicio del procedimiento de contratación correspondiente.
 
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Artículo 48 A. Una vez registrados en la Cartera los programas y proyectos de inversión a que se refiere el artículo 46 de este Reglamento, salvo los de Petróleos Mexicanos, serán analizados por la Comisión para determinar la prelación para su inclusión en el proyecto de Presupuesto de Egresos, así como el orden de ejecución.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+Artículo 48 A. Una vez registrados en la Cartera los programas y proyectos de inversión a que se refiere el artículo 46 de este Reglamento, serán analizados por la Comisión para determinar la prelación para su inclusión en el proyecto de Presupuesto de Egresos, así como el orden de ejecución.
 
 > <small>(REFORMADO, D.O.F. 25 DE ABRIL DE 2014)</small>
 
@@ -1243,13 +1291,23 @@ Para la determinación de la prelación anterior, las dependencias y entidades d
 
 Previo a que los programas y proyectos de inversión se sometan a la consideración de la Comisión, las dependencias y entidades:
 
+> <small>(ADICIONADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+
 I. De conformidad a las características específicas de cada sector, las condiciones técnicas, económicas y sociales; así como la importancia para alcanzar los objetivos establecidos en el Plan Nacional de Desarrollo y los programas sectoriales, regionales y especiales vigentes, propondrán la prelación y orden de ejecución entre los programas y proyectos de inversión;
+
+> <small>(ADICIONADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
 
 II. Podrán proponer a la Comisión, para su análisis, criterios adicionales a los previstos en el artículo 34, fracción IV, de la Ley, de conformidad con las particularidades, importancia y demás elementos del sector económico al que pertenezcan;
 
+> <small>(ADICIONADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+
 III. En términos del artículo 44 de este Reglamento, utilizarán los elementos del mecanismo de planeación para sugerir el establecimiento de prioridades y orden de prelación de los programas y proyectos de inversión, y
 
+> <small>(ADICIONADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+
 IV. Podrán utilizar, cuando proceda, los lineamientos y criterios que sobre reducción de la pobreza extrema y desarrollo regional emita la Secretaría de Desarrollo Social en términos de la Ley General de Desarrollo Social, para apoyar el análisis que realice la Comisión.
+
+> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
 
 La información anterior se hará llegar a la Comisión por conducto de la dependencia que ejerza las funciones de coordinadora de sector, o bien directamente por las entidades no coordinadas, a través de la unidad administrativa responsable de la inversión pública de la Secretaría.
 
@@ -1283,23 +1341,9 @@ III. Rechazar la solicitud de registro del programa o proyecto de inversión en 
 
 Las dependencias y entidades deberán informar a la Secretaría, con base en los lineamientos que ésta emita, sobre el desarrollo de los programas y proyectos de inversión, incluyendo la comparación de los beneficios netos considerados en el último análisis costo y beneficio presentado para registrar el programa o proyecto, o actualizar su registro en la Cartera con aquéllos efectivamente generados, así como sus avances físicos y financieros.
 
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Tratándose de los proyectos de inversión de Petróleos Mexicanos y sus organismos subsidiarios, relacionados con actividades sustantivas de carácter productivo que impliquen un esquema de financiamiento, se deberá informar a la Secretaría, por conducto de la coordinadora de sector, además de lo establecido en el párrafo anterior, lo siguiente:
-
-I. Los ingresos asociados;
-
-II. La inversión presupuestaria;
-
-III. Los gastos de operación y mantenimiento;
-
-IV. Los demás gastos y obligaciones asociadas;
-
-V. Las obligaciones fiscales correspondientes;
-
-VI. La diferencia entre los ingresos asociados y los conceptos señalados en las fracciones II a V anteriores, y
-
-VII. El valor presente neto considerando el horizonte de evaluación y la diferencia a que se refiere la fracción anterior.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
 > <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1559,11 +1603,23 @@ f) Tomo V. Entidades de control directo, que comprende la estrategia programáti
 
 g) Tomo VI. Entidades de control indirecto, que comprende el presupuesto en flujo de efectivo;
 
-h) Tomo VII. Programas y Proyectos de Inversión;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-i) Tomo VIII. Analítico de Plazas y Remuneraciones;
+h) Tomo VII. Empresas productivas del Estado;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+i) Tomo VIII. Programas y Proyectos de Inversión;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+j) Tomo IX. Analítico de Plazas y Remuneraciones;
 
 V. Anexo informativo, con la distribución del proyecto de Presupuesto de Egresos de los ramos y entidades de control directo por unidad responsable y al nivel de desagregación de capítulo y concepto de gasto, en cumplimiento a lo dispuesto en el artículo 41, fracción III, inciso b) de la Ley, y
 
@@ -1572,6 +1628,16 @@ VI. La demás información, en términos del artículo 41, fracción III, inciso
 ###### Artículo 59.
 
 La Secretaría en la elaboración del proyecto de Presupuesto de Egresos, incluirá el anteproyecto de presupuesto del Instituto Mexicano del Seguro Social que se formule en los términos de la Ley del Seguro Social.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 59 Bis.
+
+La Secretaría incluirá en el proyecto de Decreto de Presupuesto de Egresos, la propuesta de meta de balance financiero y de techo de servicios personales de las empresas productivas del Estado, incluyendo sus respectivas empresas productivas subsidiarias, en los términos de lo dispuesto en las respectivas leyes de su creación.
+
+Asimismo, en los términos de dichas disposiciones, la Secretaría incluirá en el proyecto de Presupuesto de Egresos, el respectivo proyecto de presupuesto consolidado de dichas empresas productivas del Estado.
 
 ###### Artículo 60.
 
@@ -3277,6 +3343,46 @@ Las variaciones a los subsidios no deberán implicar su traspaso a otros program
 
 Los subsidios se considerarán devengados una vez que se haya constituido la obligación de entregar el recurso al beneficiario por haberse acreditado su elegibilidad antes del 31 de diciembre de cada ejercicio fiscal. Los subsidios cuyos beneficiarios sean los gobiernos de las entidades federativas y, en su caso, de los municipios, se considerarán devengados a partir de la entrega de los recursos a dichos órdenes de gobierno.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 175 Bis.
+
+Las dependencias y entidades, previa autorización de la Secretaría, podrán otorgar subsidios con cargo a sus presupuestos, para apoyar la operación de sociedades y asociaciones civiles, siempre y cuando se sujeten a lo siguiente:
+
+I. Exista la obligación de otorgar apoyos para su operación, prevista expresamente en un tratado internacional, en una disposición legal o en un ordenamiento emitido por el Titular del Ejecutivo Federal;
+
+II. No tengan fines de lucro y su objeto o fines sean exclusivamente actividades educativas, académicas o culturales;
+
+III. La dependencia o entidad que otorgue el subsidio deberá contar con el programa presupuestario respectivo y, en su caso, con reglas de operación;
+
+IV. Los recursos podrán otorgarse únicamente para el cumplimiento del objeto o fines de los sujetos de apoyo y serán fiscalizados conforme a las disposiciones aplicables;
+
+V. Los beneficiarios deberán encontrarse al corriente en el cumplimiento de sus obligaciones fiscales;
+
+VI. En caso de que los subsidios rebasen el 51 por ciento del gasto de operación de la sociedad o asociación civil para el ejercicio fiscal correspondiente, la dependencia o entidad que pretenda otorgar el subsidio deberá solicitar la autorización a que se refiere el artículo 8 E, fracción III, de este Reglamento, y
+
+VII. Los subsidios quedarán sujetos a los recursos que para tal fin se aprueben en el Presupuesto de Egresos del ejercicio fiscal correspondiente.
+
+Las dependencias y entidades deberán reportar en los informes trimestrales correspondientes, el monto de los recursos públicos otorgados a los beneficiarios señalados en este artículo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 175 Ter.
+
+Para formalizar el otorgamiento de los recursos indicados en el artículo anterior, deberá celebrarse un convenio conforme al modelo que para tal efecto sea difundido en la página de Internet de la Secretaría, en el cual se establecerán al menos, las previsiones siguientes:
+
+I. El programa de trabajo y los plazos que deberán observar los sujetos de apoyo indicados en el artículo anterior, para la aplicación de los recursos, así como para el cumplimiento del objeto que se establezca en dicho instrumento;
+
+II. La obligación para los beneficiarios de sujetarse a los mecanismos de registro, transparencia y rendición de cuentas de los recursos otorgados, en términos de las disposiciones aplicables; así como de proporcionar a las instancias fiscalizadoras federales la información que permita la vigilancia y fiscalización de los recursos públicos, y permitir las facilidades necesarias para la realización de auditorías y visitas de inspección respecto del ejercicio de dichos recursos;
+
+III. La obligación de que invariablemente los recursos públicos federales deberán mantenerse plenamente identificados en una cuenta bancaria específica para tal efecto, y
+
+IV. La obligación de facilitar a las dependencias y entidades, la información que sea requerida para la integración de los informes trimestrales y la Cuenta Pública, respecto del ejercicio de los recursos otorgados.
+
 #### SECCIÓN IV. De los programas sujetos a reglas de operación
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE ABRIL DE 2014)</small>
@@ -4866,3 +4972,31 @@ Tercero.- El Comité Técnico de Información a que se refiere el artículo 298 
 Los lineamientos relativos al funcionamiento, organización y requerimientos del sistema integral de información de los ingresos y gasto público que correspondan emitir a la Secretaría de Hacienda y Crédito Público y a la Secretaría de la Función Pública deberán expedirse dentro de los 90 días posteriores a la integración del Comité Técnico de Información.
 
 Cuarto.- La reforma al artículo 44 del Reglamento prevista en este Decreto, entrará en vigor a partir del 1 de enero de 2015.
+
+D.O.F. 31 DE OCTUBRE DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el 1 de enero de 2015.
+
+SEGUNDO.- Las reformas, adiciones y derogaciones del presente Decreto relativas a Petróleos Mexicanos y a la Comisión Federal de Electricidad, entrarán en vigor, para cada una de dichas empresas productivas del Estado, conforme a lo señalado en el Transitorio Quinto del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y de la Ley General de Deuda Pública, publicado en el Diario Oficial de la Federación el 11 de agosto de 2014.
+
+TERCERO.- De conformidad con lo dispuesto en el artículo Segundo, fracción IV, del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y de la Ley General de Deuda Pública, publicado en el Diario Oficial de la Federación el 11 de agosto de 2014, en tanto entra en vigor la reforma al párrafo segundo de la fracción I, del artículo 19 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, para calcular el costo de los combustibles que no se repercuten en las tarifas eléctricas, se considerará la ponderación de las tarifas correspondientes dentro del total del volumen comercializado, conforme a lo que informe la Comisión Federal de Electricidad dentro de los 10 días hábiles siguientes a la entrega del segundo informe trimestral y a más tardar el 15 de diciembre del ejercicio fiscal correspondiente.
+
+CUARTO.- Dentro de los 90 días naturales siguientes a la entrada en vigor del presente Decreto, la Secretaría realizará las acciones necesarias para que el fideicomiso público denominado Fondo de Estabilización de los Ingresos Petroleros cambie su denominación a Fondo de Estabilización de los Ingresos Presupuestarios y se modifique, a efecto de ajustarse a lo establecido en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, así como para ajustar en consecuencia sus reglas de operación.
+
+Las menciones y referencias al Fondo de Estabilización de los Ingresos Petroleros contenidos en las disposiciones administrativas, instrumentos jurídicos, y en los registros contables y presupuestarios, se entenderán hechas al Fondo de Estabilización de los Ingresos Presupuestarios.
+
+QUINTO.- Las asociaciones civiles y el fideicomiso que a continuación se indican, seguirán recibiendo apoyos económicos para su operación, en los términos del artículo 175 Bis del Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y de acuerdo con los recursos que para tal fin se aprueben en el Presupuesto de Egresos del ejercicio fiscal correspondiente:
+
+I. Academia Mexicana de la Lengua, Asociación Civil;
+
+II. El Colegio Nacional, Asociación Civil, y
+
+III. Fideicomiso Museo Dolores Olmedo Patiño.
+
+Las dependencias y entidades con cargo a cuyos presupuestos se han otorgado los apoyos económicos a que se refiere este artículo, contarán con 90 días naturales, contados a partir de la entrada en vigor de este Decreto, para realizar las acciones que sean necesarias y celebrar los convenios a que se refiere el artículo 175 Ter del Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
+Las sociedades o asociaciones civiles y el fideicomiso a que se refiere este artículo, no requerirán la autorización a que se refiere el artículo 8 E, fracción III, del Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria para continuar recibiendo los apoyos económicos correspondientes.
+
+SEXTO.- Dentro de los noventa días hábiles siguientes a la entrada en vigor del presente Decreto, las dependencias y entidades deberán informar a la Secretaría de los recursos públicos otorgados en el último ejercicio fiscal, bajo cualquier figura, a cualquier empresa mercantil, sociedad o asociación civil.
+
+Una vez completado el informe a que se refiere el párrafo anterior, la Secretaría ordenará, en su caso, las medidas que resulten conducentes.
