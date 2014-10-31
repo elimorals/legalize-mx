@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-hacienda-y-credito-8649
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-09-11"
-last_updated: "2013-12-30"
+last_updated: "2014-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8649&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1996-09-06"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE OCTUBRE DE 2014.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 11 de septiembre de 1996.
 
@@ -91,9 +91,13 @@ d) Dirección General Adjunta de Infraestructura Tecnológica;
 
 III. Unidad de Planeación Económica de la Hacienda Pública:
 
-a) Dirección General Adjunta de Finanzas Públicas;
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-b) Dirección General Adjunta de Estadística de la Hacienda Pública, y
+a) Dirección General de Finanzas Públicas;
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+b) Dirección General de Estadística de la Hacienda Pública, y
 
 c) Dirección General Adjunta de Análisis de Políticas Públicas;
 
@@ -167,7 +171,9 @@ a) Dirección General de Política de Ingresos no Tributarios:
 
 1. Dirección General Adjunta de Derechos, Productos y Aprovechamientos, y
 
-2. Dirección General Adjunta de Precios y Tarifas y del Régimen Fiscal de Petróleos Mexicanos;
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+2. Dirección General Adjunta de Precios, Tarifas y Dividendos Estatales;
 
 X. Unidad de Política de Ingresos Tributarios:
 
@@ -198,6 +204,16 @@ a) Dirección General Adjunta de Transferencias Federales;
 b) Dirección General Adjunta Jurídica de Coordinación Fiscal, y
 
 c) Dirección General Adjunta de Deuda y Análisis de la Hacienda Pública Local;
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XII Bis. Unidad de Ingresos sobre Hidrocarburos:
+
+a) Dirección General Adjunta de Diseño Económico de Contratos;
+
+b) Dirección General Adjunta de Supervisión de Operaciones de Ingresos sobre Hidrocarburos, y
+
+c) Dirección General Adjunta de Análisis y Verificación de Ingresos sobre Hidrocarburos;
 
 XIII. Unidad de Inversiones;
 
@@ -234,6 +250,10 @@ XXVI. Dirección General de Tecnologías y Seguridad de la Información;
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
 
 XXVI Bis. Conservaduría de Palacio Nacional;
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XXVI Ter. Unidad de Igualdad de Género;
 
 XXVII. Subprocuraduría Fiscal Federal de Legislación y Consulta:
 
@@ -427,7 +447,9 @@ El Secretario tendrá las siguientes facultades no delegables:
 
 I. Proponer al Presidente de la República la política del Gobierno Federal en las materias financiera, fiscal, de gasto público, crediticia, bancaria, monetaria, de divisas y de precios y tarifas de bienes y servicios del sector público, para la formulación del Plan Nacional de Desarrollo y sus programas;
 
-II. Someter a la consideración y, en su caso, aprobación del Presidente de la República, el Plan Nacional de Desarrollo, los programas sectoriales, regionales y especiales correspondientes, así como formular los programas anuales respectivos, en los términos de la legislación legal aplicable;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+II. Someter a la consideración y, en su caso, aprobación del Presidente de la República, el Plan Nacional de Desarrollo y los programas sectoriales, regionales y especiales correspondientes, en los términos de la legislación aplicable;
 
 III. Proponer, para aprobación del Presidente de la República, el Programa Nacional de Financiamiento del Desarrollo, el Programa Operativo Anual de Financiamiento y el Programa del Gasto Público Federal conforme a la política del Gobierno Federal en las materias a que se refiere la fracción anterior, y dirigir la ejecución de los mismos para apoyar el Plan Nacional de Desarrollo, así como evaluar sus resultados;
 
@@ -457,7 +479,9 @@ XIII. Designar a los servidores públicos que deban representarlo o a la Secreta
 
 XIV. Aprobar los programas financieros de las entidades paraestatales incluidas en la Ley de Ingresos de la Federación, considerando las fuentes, montos y objetivos de los mismos;
 
-XV. Coordinar la elaboración de los programas anuales de las entidades paraestatales del sector coordinado por la Secretaría y, en su caso, de los programas institucionales, así como aprobarlos cuando proceda;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XV. Aprobar los programas institucionales de las entidades paraestatales del sector coordinado por la Secretaría;
 
 XVI. Proponer el proyecto de presupuesto de la Secretaría, el de los ramos de la deuda pública y de participaciones a entidades federativas y municipios, así como el del sector paraestatal coordinado por ella, en congruencia con los programas respectivos;
 
@@ -611,6 +635,10 @@ XV Bis. Supervisar los programas de inspección, cuidado, protección, conservac
 
 XVI. Proponer al Secretario los proyectos de programas que establece el Sistema Nacional de Protección Civil en lo que corresponda a la Secretaría, y llevar a cabo la comunicación y coordinación permanentes con el citado sistema;
 
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XVI Bis. Supervisar y coordinar los programas y acciones que en materia de igualdad deba llevar a cabo la Secretaría de conformidad con la Ley General para la Igualdad entre Mujeres y Hombres y demás disposiciones aplicables;
+
 XVII. Conducir las acciones para la atención de los requerimientos formulados por la Auditoría Superior de la Federación y para el control estadístico de las auditorías y observaciones determinadas por el Órgano Interno de Control en la Secretaría, ante las unidades administrativas de la Secretaría;
 
 XVIII. Representar al Secretario ante el Tribunal Federal de Conciliación y Arbitraje y Juntas Locales y Federales de Conciliación y Arbitraje y demás autoridades del trabajo en las controversias que no estén encomendadas expresamente a otra unidad administrativa de la propia Secretaría, ejercitando las acciones, excepciones y defensas, conciliar, allanarse y transigir en los juicios en que intervenga en representación de la Secretaría, interponiendo los recursos que procedan, ante el citado Tribunal y Juntas mencionadas, absolver posiciones a nombre del Secretario, ejerciendo la representación en el curso del proceso respectivo;
@@ -629,9 +657,9 @@ XXIV. Participar en el Consejo Consultivo del Sistema de Servicio Profesional de
 
 XXV. Las demás que le señalan otras disposiciones y las que le confiera directamente el Secretario.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-El Oficial Mayor será asistido por los Directores Generales de Recursos Financieros; de Recursos Humanos; de Recursos Materiales, Obra Pública y Servicios Generales; de Talleres de Impresión de Estampillas y Valores; de Promoción Cultural y Acervo Patrimonial; de Tecnologías y Seguridad de la Información, y de Conservaduría de Palacio Nacional, así como por el personal que se requiera para satisfacer las necesidades del servicio.
+El Oficial Mayor será asistido por los Directores Generales de Recursos Financieros; de Recursos Humanos; de Recursos Materiales, Obra Pública y Servicios Generales; de Talleres de Impresión de Estampillas y Valores; de Promoción Cultural y Acervo Patrimonial; de Tecnologías y Seguridad de la Información, de Conservaduría de Palacio Nacional, y por la Directora General Adjunta de Igualdad de Género y el personal que se requiera para satisfacer las necesidades del servicio.
 
 ### CAPÍTULO V. DE LAS FACULTADES DEL PROCURADOR FISCAL DE LA FEDERACIÓN Y DEL TESORERO DE LA FEDERACIÓN
 
@@ -751,9 +779,9 @@ XXVIII. Denunciar o querellarse ante el Ministerio Público de la Federación po
 
 XXIX. Ejercer en materia penal, en las materias que no estén expresamente asignadas por este Reglamento a otras unidades administrativas de la Secretaría, las facultades que señalen a ella misma las leyes que rigen a las instituciones de crédito, de seguros y de fianzas, a las organizaciones y actividades auxiliares del crédito, al mercado de valores, al sistema de ahorro para el retiro, así como las previstas en otras leyes de la competencia de la Secretaría;
 
-> <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-XXX. Determinar que un proyecto presentado por las dependencias y entidades en términos del artículo 18, fracción IV del Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria no tiene impacto presupuestario;
+XXX. Determinar que un proyecto presentado por las dependencias y entidades en términos del artículo 18, fracción IV del Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria no requiere dictamen de impacto presupuestario;
 
 XXXI. Participar en foros y eventos nacionales e internacionales en asuntos relativos a la materia de su competencia;
 
@@ -1727,53 +1755,53 @@ XXXI. Coordinar el Sistema Integral de Información de los Ingresos y Gasto Púb
 
 XXXII. Representar a la Secretaría, en las materias a que se refiere el presente artículo, en organismos nacionales e internacionales, así como participar en los órganos colegiados o grupos de trabajo, cuando se le designe para tal efecto.
 
-> <small>(REFORMADO, D.O.F. 10 DE OCTUBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 16-A.
 
-Compete a la Dirección General Adjunta de Finanzas Públicas:
+Compete a la Dirección General de Finanzas Públicas:
 
-I. Coordinar el seguimiento y análisis de la evolución de las finanzas públicas, así como elaborar e integrar las proyecciones fiscales;
+I. Coordinar el seguimiento y evaluación de los resultados financieros del sector público para proporcionar elementos que apoyen la toma de decisiones de las autoridades superiores;
 
-II. Atender los asuntos que el Comité Técnico del Fideicomiso Fondo de Estabilización de los Ingresos Petroleros le asigne;
+II. Coordinar la integración de las proyecciones de finanzas públicas;
 
-III. Presidir el Comité Técnico de Información de la Comisión Intersecretarial de Gasto Público, Financiamiento y Desincorporación y administrar el Sistema Integral de Información de los Ingresos y Gasto Público;
+III. Participar en la formulación de las políticas y programas de financiamiento mediante la evaluación de indicadores y proyecciones financieras;
 
-IV. Hacer compatibles los requerimientos de información que deban rendir las dependencias y entidades de la Administración Pública Federal a través del Sistema Integral de Información de los Ingresos y Gasto Público;
+IV. Participar en la elaboración de los programas financieros de las entidades paraestatales incluidas en la Ley de Ingresos de la Federación;
 
-V. Constituir un foro permanente para el intercambio de opiniones en materia de técnica y logística de información sobre ingreso, gasto y financiamiento públicos;
+V. Participar en la elaboración de los Criterios Generales de Política Económica que acompañan a la iniciativa de Ley de Ingresos de la Federación y al Proyecto de Presupuesto de Egresos de la Federación en lo relativo a las proyecciones de finanzas públicas;
 
-VI. Proponer modificaciones a los lineamientos del Sistema Integral de Información de los Ingresos y Gasto Público y difundirlos a los usuarios e informantes;
+VI. Atender los asuntos que el Comité Técnico del Fideicomiso Fondo de Estabilización de los Ingresos Presupuestarios le asigne;
 
-VII. Ejercer, previo acuerdo superior, las facultades para prevenir a las dependencias y entidades de la Administración Pública Federal por incumplimiento en la entrega oportuna de la información al Sistema Integral de Información de los Ingresos y Gasto Público, y
+VII. Presidir el Comité Técnico de Información y coordinar la operación del Sistema Integral de Información de los Ingresos y Gasto Público;
 
-VIII. Coordinarse con las unidades administrativas de la Secretaría responsables de la operación de sistemas de control presupuestario, a fin de que se proporcione al Sistema Integral de Información de los Ingresos y Gasto Público la información que requiera y evitar duplicidad de requerimientos a las entidades y dependencias de la Administración Pública Federal.
+VIII. Coordinar la atención de las revisiones y auditorías que se realicen a la Unidad de Planeación Económica de la Hacienda Pública, a fin de cumplir con las disposiciones normativas;
 
-> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2003)</small>
+IX. Participar en foros y eventos nacionales e internacionales en temas relacionados con el ámbito de su competencia y representar a la Secretaría, ante los órganos colegiados, comisiones, instancias o grupos de trabajo cuando se le designe para tal efecto;
+
+X. Proponer para acuerdo superior las modificaciones a los lineamientos del Sistema Integral de Información de los Ingresos y Gasto Público;
+
+XI. Ejercer, previo acuerdo superior, las facultades para prevenir a las dependencias y entidades de la Administración Pública Federal por incumplimiento en la entrega oportuna de la información al Sistema Integral de Información de los Ingresos y Gasto Público, y
+
+XII. Coordinar, con las unidades administrativas de la Secretaría responsables de la operación de sistemas de control presupuestario, que se proporcione al Sistema Integral de Información de los Ingresos y Gasto Público la información que requiera para evitar duplicidad de requerimientos a las entidades y dependencias de la Administración Pública Federal.
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 16-B.
 
-Compete a la Dirección General Adjunta de Estadística de la Hacienda Pública:
+Compete a la Dirección General de Estadística de la Hacienda Pública:
 
-> <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
+I. Diseñar y coordinar la operación del almacén de datos de la Secretaría, con información económica, financiera, fiscal y externa del sistema de administración financiera federal, para apoyar la toma de decisiones de las autoridades competentes, con la participación que corresponda a la Dirección General de Tecnologías y Seguridad de la Información;
 
-I. Operar el módulo de información fiscal del sistema de administración financiera federal, para apoyar la toma de decisiones de las autoridades competentes con la participación que corresponda a la Dirección General de Tecnologías y Seguridad de la Información;
+II. Integrar, consolidar y difundir las estadísticas de finanzas públicas por ingresos, gastos y financiamiento del Gobierno Federal, entidades paraestatales no financieras, entidades paraestatales financieras, sector público presupuestario y sector público federal, apoyándose en los registros contables y administrativos del Poder Ejecutivo Federal, del sistema de administración financiera federal, del Sistema Integral de Información de los Ingresos y Gasto Público, así como de cualquier otro sistema y registro administrativo de la Secretaría;
 
-> <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
+III. Definir necesidades de información que pueden ser atendidas a través del almacén de datos de la Secretaría y, en colaboración con la Dirección General de Tecnologías y Seguridad de la Información, determinar los elementos necesarios para generar soluciones de análisis de información;
 
-II. Integrar y consolidar las estadísticas de finanzas públicas por ingresos, gastos y financiamiento del Gobierno Federal, entidades paraestatales no financieras, entidades paraestatales financieras, sector público presupuestario y sector público federal, apoyándose en los registros contables y administrativos del Poder Ejecutivo Federal, del sistema de administración financiera federal, del Sistema Integral de Información de los Ingresos y Gasto Público, así como de cualquier otro sistema y registro administrativo de la Secretaría;
-
-III. Llevar el seguimiento y evaluación de los resultados financieros del sector público para proporcionar elementos que apoyen la toma de decisiones de las autoridades superiores;
-
-> <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
-
-IV. Elaborar y mantener actualizadas las metodologías para integrar y consolidar las estadísticas de finanzas públicas, de los requerimientos financieros del sector público y sobre las obligaciones totales del sector público, así como las directrices para la integración y análisis de los componentes de las finanzas públicas a partir del proceso presupuestario y los registros contables, que incluyan los principales indicadores sobre la postura fiscal y las diversas clasificaciones de los ingresos y los gastos;
-
-> <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
+IV. Elaborar, emitir y mantener actualizadas las metodologías para generar el balance presupuestario, los requerimientos financieros del sector público y sobre las obligaciones totales del sector público, así como las directrices para la integración y análisis de los componentes de las finanzas públicas a partir del proceso presupuestario y los registros contables, que incluyan los principales indicadores sobre la postura fiscal y las diversas clasificaciones de los ingresos y los gastos;
 
 V. Participar, en coordinación con las áreas administrativas competentes, en la elaboración de propuestas de normas, metodologías, clasificaciones, valoraciones y registros contables de ingresos, gastos, activos, pasivos y patrimonio que se sometan a la aprobación del Consejo Nacional de Armonización Contable, así como en otros asuntos del Consejo cuando se solicite;
-
-> <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
 
 VI. Difundir, en coordinación con la Unidad de Comunicación Social y Vocero, las estadísticas de finanzas y deuda públicas en bases periódicas, así como atender, en materia de estadísticas de finanzas públicas los requerimientos de información del Sistema Nacional de Información Estadística y Geográfica, de los organismos internacionales de los que el Estado mexicano es miembro y de cualquier otro usuario, con base en la información del sistema de administración financiera federal, de acuerdo con las disposiciones aplicables en materia de transparencia;
 
@@ -1781,11 +1809,11 @@ VII. Verificar la congruencia de las estadísticas de finanzas públicas con las
 
 VIII. Llevar el seguimiento de los fondos y valores del Gobierno Federal, y de los saldos de depósitos e inversiones en dinero, valores y demás operaciones financieras que las dependencias y entidades de la Administración Pública Federal tengan tanto en instituciones financieras como no financieras que operan en el país o en el extranjero, así como un registro de las cuentas que para tal fin se constituyan, conforme a las normas que dicte la Secretaría;
 
-> <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
+IX. Establecer las directrices en el sistema de administración financiera federal para la generación y consolidación de las estadísticas de finanzas públicas que divulga la Secretaría, así como las que proporciona al Sistema Nacional de Información Estadística y Geográfica y a los organismos internacionales en la materia;
 
-IX. Proponer las directrices en el sistema de administración financiera federal para la generación y consolidación de las estadísticas de finanzas públicas que divulga la Secretaría, así como las que proporciona al Sistema Nacional de Información Estadística y Geográfica y a los organismos internacionales en la materia, y
+X. Evaluar la incidencia de los cambios a las normas emitidas por el Consejo Nacional de Armonización Contable en el almacén de datos de la Secretaría y las estadísticas de finanzas públicas, y
 
-X. Representar a la Unidad de Planeación Económica de la Hacienda Pública en los distintos foros relacionados con las estadísticas de finanzas públicas, y con el seguimiento y control presupuestario.
+XI. Representar a la Unidad de Planeación Económica de la Hacienda Pública en los distintos foros relacionados con las estadísticas de finanzas públicas, contabilidad gubernamental y con el seguimiento y control presupuestario.
 
 > <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 2004)</small>
 
@@ -3537,17 +3565,37 @@ XXI. Participar en el Comité de Crédito Externo en coordinación con la Unidad
 
 Compete a la Unidad de Política de Ingresos no Tributarios:
 
-I. Proponer, para aprobación superior, la política de ingresos en materia de derechos, de productos, de aprovechamientos y de precios y tarifas de los bienes y servicios de las dependencias y entidades de la Administración Pública Federal, en coordinación con otras unidades administrativas competentes de la Secretaría y del Servicio de Administración Tributaria, así como con otras dependencias y entidades de la Administración Pública Federal, en congruencia con las políticas de la hacienda pública, económica y social del país;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-II. Colaborar, con las unidades competentes de la Secretaría y del Servicio de Administración Tributaria, en el análisis y evaluación del régimen fiscal aplicable a Petróleos Mexicanos, sus organismos subsidiarios y sus empresas filiales, así como en materia de contribuciones, y de aprovechamientos sobre hidrocarburos;
+I. Proponer para aprobación superior, la política de ingresos en materia de derechos, de productos, de aprovechamientos, de los derivados de los contratos para la exploración y extracción de hidrocarburos, del dividendo estatal de las empresas productivas del Estado y de precios y tarifas de los bienes y servicios de las dependencias, entidades de la Administración Pública Federal, en coordinación con otras unidades administrativas competentes de la Secretaría y del Servicio de Administración Tributaria, así como con otras dependencias y entidades de la Administración Pública Federal, en congruencia con las políticas de la hacienda pública, económica y social del país;
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+II. Colaborar con las unidades competentes de la Secretaría y, en su caso, del Servicio de Administración Tributaria, en el análisis y evaluación del régimen fiscal aplicable a las empresas productivas del Estado y sus empresas filiales, así como en materia de las condiciones económicas relativas a los términos fiscales de los contratos para la exploración y extracción de hidrocarburos, de contribuciones, y de aprovechamientos sobre hidrocarburos;
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+II Bis. Definir las condiciones económicas relativas a los términos fiscales de los contratos para la exploración y extracción de hidrocarburos, previa propuesta de las unidades administrativas competentes de la Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+II Ter. Determinar las condiciones económicas relativas a los términos fiscales que deberán incluirse en las bases de las licitaciones para la adjudicación de los contratos para la exploración y extracción de hidrocarburos, incluyendo, entre otros, los mecanismos y variables de adjudicación, así como los valores mínimos y los criterios de desempate para las mismas, previa propuesta de las unidades administrativas competentes de la Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+II Quáter. Emitir y publicar el reporte anual a que se refiere el artículo 5 de la Ley de Ingresos sobre Hidrocarburos, previa propuesta de las unidades administrativas competentes de la Secretaría;
 
 III. Participar, con las unidades administrativas competentes de la Secretaría, en la formulación del Programa Nacional de Financiamiento del Desarrollo y los criterios generales de política económica para la iniciativa de Ley de Ingresos y Proyecto de Presupuesto de Egresos de la Federación;
 
-IV. Participar, con las unidades administrativas competentes de la Secretaría, en la formulación de los presupuestos de ingresos de las dependencias y entidades de la Administración Pública Federal para integrarlos al anteproyecto de iniciativa de Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+IV. Participar con las unidades administrativas competentes de la Secretaría, en la formulación de los presupuestos de ingresos de las dependencias, entidades de la Administración Pública Federal, así como recibir la información de los ingresos de las empresas productivas del Estado, para integrarlos al anteproyecto de iniciativa de Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda;
 
 V. Proponer los bienes y servicios cuyos precios y tarifas deban ser fijados por la Secretaría;
 
-VI. Fijar los precios y tarifas de los bienes y servicios de la Administración Pública Federal, establecer las bases para fijarlos y proponer los anteproyectos de acuerdos mediante los cuales éstos se fijen, inclusive en las operaciones que celebren las entidades con partes relacionadas, en coordinación con las dependencias y entidades competentes para ello, así como con otras unidades administrativas de la Secretaría, en congruencia con las políticas de la hacienda pública, económica y social del país;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+VI. Fijar los precios y tarifas de los bienes y servicios de la Administración Pública Federal y participar en la fijación de aquéllos que deba establecer la Secretaría en términos de los acuerdos que emita el Ejecutivo Federal, establecer las bases para fijarlos y proponer los anteproyectos de acuerdos mediante los cuales éstos se fijen, inclusive en las operaciones que celebren las entidades con partes relacionadas, en coordinación con las dependencias y entidades competentes para ello, así como con otras unidades administrativas de la Secretaría, en congruencia con las políticas de la hacienda pública, económica y social del país;
 
 VII. Participar con las unidades administrativas competentes de la Secretaría, en la elaboración de los anteproyectos de iniciativas de leyes o decretos, así como de anteproyectos de reglamentos, decretos, acuerdos, reglas de carácter general y otras disposiciones relacionadas con las materias a que se refieren las fracciones I y II de este artículo, así como opinar sobre las iniciativas de leyes o decretos que se presenten al Congreso de la Unión en dichas materias;
 
@@ -3565,9 +3613,13 @@ XIII. Resolver, en coordinación con otras unidades administrativas de la Secret
 
 XIV. Conocer la problemática y opiniones vertidas por las dependencias y entidades de la Administración Pública Federal y por los diversos grupos sociales, sobre las medidas de política de ingresos en las materias a que se refiere la fracción I de este artículo;
 
-XV. Emitir opinión en las materias a que se refieren las fracciones I y II de este artículo a las unidades administrativas competentes de la Secretaría;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-XVI. Enviar a la unidad administrativa competente de la Secretaría las estimaciones de ingresos de la Administración Pública Federal centralizada, así como de las entidades paraestatales federales sujetas a control presupuestario directo, en las materias a que se refiere la fracción I de este artículo y su calendarización mensual;
+XV. Asesorar y, en su caso, emitir opinión en las materias a que se refiere este artículo, sin perjuicio de las atribuciones de las demás unidades administrativas de la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XVI. Enviar a la unidad administrativa competente de la Secretaría las estimaciones de ingresos de la Administración Pública Federal centralizada, de las entidades paraestatales federales sujetas a control presupuestario directo y, en su caso, de las empresas productivas del Estado en las materias a que se refiere la fracción I de este artículo y, en su caso, su calendarización mensual;
 
 XVII. Participar en las reuniones de los asuntos relacionados con el cumplimiento de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, así como proporcionar la información que le sea solicitada, en los términos de dicha Ley, respecto a las materias a que se refieren las fracciones I y II de este artículo;
 
@@ -3579,9 +3631,41 @@ XX. Participar en la elaboración del presupuesto de los gastos fiscales, y reca
 
 XXI. Clasificar los ingresos excedentes en inherentes, no inherentes y de carácter excepcional conforme a lo previsto en la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, respecto a las materias a que se refiere la fracción I de este artículo;
 
-XXII. Fijar o modificar los productos y aprovechamientos de la Administración Pública Federal centralizada, salvo aquéllos que estén previstos en ley, en congruencia con las políticas de la hacienda pública, económica y social del país, y
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-XXIII. Autorizar la variación del monto de los pagos diarios y semanales establecidos en las disposiciones relativas al régimen fiscal aplicable a Petróleos Mexicanos, sus organismos subsidiarios y empresas filiales, de conformidad con lo que establezca la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda.
+XXII. Fijar o modificar los productos y aprovechamientos de la Administración Pública Federal centralizada, salvo aquéllos que estén previstos en ley, en congruencia con las políticas de la hacienda pública, económica y social del país;
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XXIII. Autorizar la variación del monto de los pagos establecidos en las disposiciones jurídicas por concepto de derechos por la exploración y extracción de hidrocarburos, del derecho por la utilidad compartida, del impuesto sobre la renta, así como de la calendarización mensual de las distintas transferencias que deba realizar el Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo de conformidad con lo que establezca la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda;
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XXIV. Determinar la metodología, en coordinación con las unidades administrativas competentes de la Secretaría, y realizar los estudios necesarios para establecer la política del dividendo estatal de las empresas productivas del Estado;
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XXV. Participar con las unidades competentes de la Administración Pública Federal en el análisis y evaluación de la política ambiental que derive en ingresos no tributarios para el Estado en los mercados de reducción de emisiones de contaminantes al medio ambiente o a través de mecanismos que para tal efecto se diseñen;
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XXVI. Participar con las dependencias competentes de la Administración Pública Federal en el diseño de los programas de apoyo focalizados y la estimación de los ingresos relacionados con precios que deba establecer la Secretaría en términos de los acuerdos que emita el Ejecutivo Federal;
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XXVII. Colaborar con las unidades administrativas competentes de la Secretaría en el estudio y análisis de los asuntos que se discutan en comités, comisiones o cualquier órgano colegiado del que forme parte la Secretaría, en el ámbito de competencia de la Unidad y, en su caso, participar en las sesiones correspondientes;
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XXVIII. Ejercer las facultades conferidas a la Secretaría en las leyes y disposiciones en materia de hidrocarburos y energía eléctrica que no estén conferidas expresamente a otra unidad administrativa;
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XXIX. Emitir opinión a la Secretaría de Economía, respecto de la determinación de precios y tarifas máximos que realice para los bienes y servicios, y
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XXX. Celebrar las bases de coordinación y convenios en representación de la Secretaría en las materias que se refiere este artículo.
 
 > <small>(REFORMADO, D.O.F. 10 DE OCTUBRE DE 2012)</small>
 
@@ -3589,41 +3673,85 @@ XXIII. Autorizar la variación del monto de los pagos diarios y semanales establ
 
 Compete a la Dirección General de Política de Ingresos no Tributarios:
 
-I. Proponer, para aprobación superior, la política de ingresos en materia de derechos, de productos, de aprovechamientos y de precios y tarifas de los bienes y servicios de las dependencias y entidades de la Administración Pública Federal, en coordinación con otras unidades administrativas competentes de la Secretaría y del Servicio de Administración Tributaria, así como con otras dependencias y entidades de la Administración Pública Federal en congruencia con las políticas de la hacienda pública, económica y social del país;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-II. Participar, con las unidades administrativas competentes de la Secretaría, en la formulación de los presupuestos de ingresos de las dependencias y entidades de la Administración Pública Federal, para integrarlos al anteproyecto de iniciativa de Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda;
+I. Proponer para aprobación superior, la política de ingresos en materia de derechos, de productos, de aprovechamientos, del dividendo estatal de las empresas productivas del Estado y de precios y tarifas de los bienes y servicios de las dependencias y entidades de la Administración Pública Federal, en coordinación con otras unidades administrativas competentes de la Secretaría y del Servicio de Administración Tributaria, así como con otras dependencias y entidades de la Administración Pública Federal, en congruencia con las políticas de la hacienda pública, económica y social del país;
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+II. Participar con las unidades administrativas competentes de la Secretaría, en la formulación de los presupuestos de ingresos de las dependencias y entidades de la Administración Pública Federal y, en su caso, revisar la información de los ingresos de las empresas productivas del Estado, para integrarlos al anteproyecto de iniciativa de Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda;
 
 III. Coordinar los estudios para proponer los bienes y servicios de las entidades paraestatales cuyos precios y tarifas deban ser fijados por la Secretaría;
 
 IV. Fijar o modificar los productos y aprovechamientos de la Administración Pública Federal centralizada salvo aquéllos que estén previstos en ley, en congruencia con las políticas de la hacienda pública, económica y social del país;
 
-V. Fijar o modificar los precios y tarifas de los bienes y servicios de la Administración Pública Federal, establecer las bases para fijarlos y supervisar la elaboración de los anteproyectos de acuerdos mediante los cuales éstos se fijen, inclusive en las operaciones que celebren las entidades con partes relacionadas, en coordinación con las dependencias y entidades competentes para ello, así como con otras unidades administrativas de la Secretaría, en congruencia con las políticas de la hacienda pública, económica y social del país;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-VI. Conocer la problemática y opiniones formuladas por las dependencias y entidades de la Administración Pública Federal y por los diversos grupos sociales, sobre las medidas de política de ingresos en materia de derechos, de productos, de aprovechamientos y de precios y tarifas de los bienes y servicios de la Administración Pública Federal;
+V. Fijar o modificar los precios y tarifas de los bienes y servicios de la Administración Pública Federal y de aquéllos que deba establecer la Secretaría en términos de los acuerdos que emita el Ejecutivo Federal, establecer las bases para fijarlos y supervisar la elaboración de los anteproyectos de acuerdos mediante los cuales éstos se fijen, inclusive en las operaciones que celebren las entidades con partes relacionadas, en coordinación con las dependencias y entidades competentes para ello, así como con otras unidades administrativas de la Secretaría, en congruencia con las políticas de la hacienda pública, económica y social del país;
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+VI. Conocer la problemática y opiniones formuladas por las dependencias y entidades de la Administración Pública Federal y por los diversos grupos sociales, sobre las medidas de política de ingresos en las materias señaladas en las fracciones I y V de este artículo;
 
 VII. Resolver los asuntos que determine el titular de la Unidad de Política de Ingresos no Tributarios en materia de ingresos excedentes, siempre que no formen parte de las facultades indelegables del Secretario;
 
-VIII. Colaborar, con las unidades administrativas competentes de la Secretaría y del Servicio de Administración Tributaria, sobre el análisis y evaluación del régimen fiscal aplicable a Petróleos Mexicanos, sus organismos subsidiarios y sus empresas filiales, así como en materia de contribuciones y de aprovechamientos sobre hidrocarburos;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-IX. Participar en la elaboración de propuestas de los anteproyectos de iniciativas de leyes o decretos, así como de anteproyectos de reglamentos, decretos, acuerdos, reglas de carácter general y demás disposiciones relacionadas con los derechos, productos, aprovechamientos, precios y tarifas de los bienes y servicios de la Administración Pública Federal, así como opinar sobre las iniciativas de leyes o decretos que se presenten al Congreso de la Unión en dichas materias;
+VIII. Colaborar con las unidades administrativas competentes de la Secretaría y, en su caso, del Servicio de Administración Tributaria, sobre el análisis y evaluación del régimen fiscal aplicable a las empresas productivas del Estado y sus empresas filiales, así como en materia de condiciones económicas relativas a los términos fiscales de los contratos para la exploración y extracción de hidrocarburos, de contribuciones y de aprovechamientos sobre hidrocarburos;
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+IX. Participar en la elaboración de propuestas de los anteproyectos de iniciativas de leyes o decretos, así como de anteproyectos de reglamentos, decretos, acuerdos, reglas de carácter general y demás disposiciones relacionadas con las materias señaladas en las fracciones I, V y VIII de este artículo, así como opinar sobre las iniciativas de leyes o decretos que se presenten al Congreso de la Unión en dichas materias
 
 X. Proponer los conceptos de ingresos que integran la clasificación de los ingresos excedentes inherentes, no inherentes y de carácter excepcional de acuerdo a lo previsto en la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda;
 
 XI. Participar en la elaboración del presupuesto de los gastos fiscales, y recabar de las dependencias y entidades de la Administración Pública Federal la información necesaria para elaborar dicho presupuesto;
 
-XII. Participar en reuniones de trabajo, eventos y foros sobre asuntos relacionados con las materias a que se refieren las fracciones I y VIII de este artículo;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-XIII. Autorizar, en los casos que determine el Titular de la Unidad de Política de Ingresos no Tributarios, la variación del monto de los pagos diarios y semanales establecidos en las disposiciones relativas al régimen fiscal aplicable a Petróleos Mexicanos, sus organismos subsidiarios y empresas filiales, de conformidad con lo que establezca la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda;
+XII. Participar en reuniones de trabajo, eventos y foros sobre asuntos relacionados con las materias a que se refieren las fracciones I, V y VIII de este artículo;
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XIII. Autorizar, en los casos que determine el Titular de la Unidad de Política de Ingresos no Tributarios, la variación del monto de los pagos establecidos en las disposiciones jurídicas por concepto de derechos por la exploración y extracción de hidrocarburos, del derecho por la utilidad compartida, del impuesto sobre la renta, así como de la calendarización mensual de las distintas transferencias que deba realizar el Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, de conformidad con lo que establezca la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda;
 
 XIV. Supervisar el registro de los ingresos de los Poderes Legislativo y Judicial; del Instituto Nacional de Estadística y Geografía; del Instituto Federal Electoral; de la Comisión Nacional de los Derechos Humanos y de los demás organismos públicos autónomos;
 
-XV. Participar con las unidades administrativas competentes del Servicio de Administración Tributaria, en el diseño de las formas oficiales de avisos, declaraciones, manifestaciones y demás documentos requeridos por las disposiciones fiscales, así como de la información que deba incorporarse a los programas electrónicos correspondientes, relacionados con los asuntos a que se refieren las fracciones I y VIII de este artículo;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-XVI. Supervisar la elaboración de las estimaciones de ingresos de la Administración Pública Federal centralizada, así como de las entidades paraestatales federales sujetas a control presupuestario directo, en las materias a que se refiere la fracción I de este artículo y su calendarización mensual;
+XV. Participar con las unidades administrativas competentes del Servicio de Administración Tributaria, en el diseño de las formas oficiales de avisos, declaraciones, manifestaciones y demás documentos requeridos por las disposiciones fiscales, así como de la información que deba incorporarse a los programas electrónicos correspondientes, relacionados con los asuntos a que se refieren las fracciones I, V y VIII de este artículo;
 
-XVII. Colaborar en la emisión de opiniones en las materias a que se refieren las fracciones I y VIII de este artículo, con las unidades administrativas competentes de la Secretaría, y
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-XVIII. Resolver los asuntos que las disposiciones jurídicas aplicables a la política de ingresos de la Federación atribuyan a la Secretaría, en materia de derechos, de productos, de aprovechamientos y de precios y tarifas de la Administración Pública Federal, siempre que no formen parte de las facultades indelegables del Secretario.
+XVI. Supervisar la elaboración de las estimaciones de ingresos de la Administración Pública Federal centralizada, así como de las entidades paraestatales federales sujetas a control presupuestario directo y, en su caso, de las empresas productivas del Estado, en las materias a que se refiere la fracción I de este artículo y su calendarización mensual;
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XVII. Colaborar en la emisión de opiniones en las materias a que se refieren las fracciones I, V y VIII de este artículo, con las unidades administrativas competentes de la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XVIII. Resolver los asuntos que las disposiciones jurídicas aplicables a la política de ingresos de la Federación atribuyan a la Secretaría, en las materias a que se refieren las fracciones I y V de este artículo, siempre que no formen parte de las facultades indelegables del Secretario;
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XIX. Proponer, para autorización superior, en coordinación con las unidades administrativas competentes de la Secretaría, la metodología y estudios necesarios para establecer la política del dividendo estatal de las empresas productivas del Estado;
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XX. Solicitar la opinión del Comité Técnico del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo respecto de la propuesta anual que formule del dividendo estatal a cargo de Petróleos Mexicanos y sus empresas productivas subsidiarias;
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XXI. Colaborar con las unidades competentes de la Administración Pública Federal en el análisis y evaluación de la política ambiental que derive en ingresos no tributarios para el Estado en los mercados de reducción de emisiones de contaminantes al medio ambiente o a través de mecanismos que para tal efecto se diseñen;
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XXII. Colaborar con las unidades administrativas de la Secretaría y las dependencias de la Administración Pública Federal competentes, en el diseño y administración de mecanismos presupuestales y de ingresos relacionados con precios al público administrados y programas de apoyo focalizados a que se refieren la Ley de Hidrocarburos y la Ley de la Industria Eléctrica, y
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XXIII. Colaborar con las unidades administrativas competentes de la Secretaría en el estudio y análisis de los asuntos que se discutan en comités, comisiones o cualquier órgano colegiado del que forme parte la Secretaría, en el ámbito de competencia de la Unidad de Política de Ingresos no Tributarios y, en su caso, participar en las sesiones correspondientes.
 
 > <small>(REFORMADO, D.O.F. 10 DE OCTUBRE DE 2012)</small>
 
@@ -3633,9 +3761,13 @@ Compete a la Dirección General Adjunta de Derechos, Productos y Aprovechamiento
 
 I. Elaborar, considerando la opinión de las unidades administrativas competentes de la Secretaría, del Servicio de Administración Tributaria y de otras dependencias de la Administración Pública Federal, las propuestas que se deban someter a aprobación superior sobre la política de ingresos en materia de derechos, de productos y de aprovechamientos, en congruencia con las políticas de la hacienda pública, económica y social del país;
 
-II. Participar en la realización de estudios sobre derechos, productos y aprovechamientos, así como recabar de las dependencias de la Administración Pública Federal la información necesaria para ello;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-III. Participar en la elaboración de los anteproyectos de iniciativas de leyes o decretos y de anteproyectos de reglamentos, decretos, acuerdos, reglas de carácter general y demás disposiciones relacionadas con los derechos, productos y aprovechamientos, así como opinar sobre las iniciativas de leyes o decretos que se presenten al Congreso de la Unión en dichas materias;
+II. Participar en la realización de estudios sobre las condiciones económicas relativas a los términos fiscales de los contratos para la exploración y extracción de hidrocarburos; derechos, productos y aprovechamientos, así como recabar de las dependencias de la Administración Pública Federal la información necesaria para ello;
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+III. Participar en la elaboración de los anteproyectos de iniciativas de leyes o decretos, de reglamentos, decretos, acuerdos, reglas de carácter general y demás disposiciones relacionadas con las condiciones económicas relativas a los términos fiscales de los contratos para la exploración y extracción de hidrocarburos; derechos, productos y aprovechamientos, así como opinar sobre las iniciativas de leyes o decretos que se presenten al Congreso de la Unión en dichas materias;
 
 IV. Participar con las unidades administrativas competentes del Servicio de Administración Tributaria, en el diseño de las formas oficiales de avisos, declaraciones, manifestaciones y demás documentos requeridos por las disposiciones fiscales, así como de la información que deba incorporarse a los programas electrónicos correspondientes, relacionados con los asuntos a que se refiere la fracción I de este artículo;
 
@@ -3655,41 +3787,87 @@ XI. Realizar el análisis correspondiente para proponer los conceptos de ingreso
 
 XII. Atender las consultas, así como emitir opinión en los asuntos a que se refiere la fracción I de este artículo.
 
-> <small>(REFORMADO, D.O.F. 10 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 41.
 
-Compete a la Dirección General Adjunta de Precios y Tarifas y del Régimen Fiscal de Petróleos Mexicanos:
+Compete a la Dirección General Adjunta de Precios, Tarifas y Dividendos Estatales:
 
-I. Elaborar, para aprobación superior, la política de ingresos referente a los precios y tarifas de los bienes y servicios de las entidades de la Administración Pública Federal, en congruencia con las políticas de la hacienda pública, económica y social del país, así como analizar y evaluar el comportamiento de dichos ingresos;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-II. Elaborar los anteproyectos de acuerdos mediante los cuales se fijen los precios y tarifas de los bienes y servicios de la Administración Pública Federal, con la participación que corresponda a otras dependencias y entidades de la Administración Pública Federal, inclusive en las operaciones que celebren las entidades con partes relacionadas, en coordinación con las dependencias y entidades competentes para ello, así como con otras unidades administrativas de la Secretaría, en congruencia con las políticas de la hacienda pública, económica y social del país;
+I. Proponer para aprobación superior, la política de ingresos referente a los precios y tarifas de los bienes y servicios de las entidades de la Administración Pública Federal y del dividendo estatal de las empresas productivas del Estado, en congruencia con las políticas de la hacienda pública, económica y social del país y, en el caso del dividendo estatal, en congruencia con los planes, opciones y perspectivas de inversión y financiamiento identificados por las empresas productivas del Estado, así como analizar y evaluar el comportamiento de dichos ingresos;
 
-III. Estudiar y formular las bases para fijar y registrar los precios y tarifas de los bienes y servicios de las entidades de la Administración Pública Federal, en coordinación con las unidades administrativas de la Secretaría;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+II. Elaborar los anteproyectos de acuerdos mediante los cuales se fijen los precios y tarifas de los bienes y servicios de la Administración Pública Federal y de aquéllos que deba establecer la Secretaría en términos de los acuerdos que emita el Ejecutivo Federal, con la participación que corresponda a otras dependencias y entidades de la Administración Pública Federal, inclusive en las operaciones que celebren las entidades con partes relacionadas, en coordinación con las dependencias y entidades competentes para ello, así como con otras unidades administrativas de la Secretaría, en congruencia con las políticas de la hacienda pública, económica y social del país;
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+III. Estudiar y formular las bases para fijar y registrar los precios y tarifas de los bienes y servicios de las entidades de la Administración Pública Federal y de aquéllos que deba establecer la Secretaría en términos de los acuerdos que emita el Ejecutivo Federal, en coordinación con las unidades administrativas de la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
 
 IV. Elaborar el estudio mediante el cual se determinen y propongan los bienes y servicios cuyos precios y tarifas deban ser fijados por la Secretaría;
 
-V. Participar en la formulación de los presupuestos de ingresos de las entidades de la Administración Pública Federal para integrarlos al anteproyecto de iniciativa de Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+V. Participar en la formulación de los presupuestos de ingresos de las entidades de la Administración Pública Federal y, en su caso, revisar la información relativa a los ingresos de las empresas productivas del Estado, para integrarlos al anteproyecto de iniciativa de Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda;
+
+> <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
 
 VI. Emitir dictámenes y recibir notificaciones, sobre los ingresos excedentes de las entidades de la Administración Pública Federal;
 
+> <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
+
 VII. Realizar el análisis correspondiente para proponer la clasificación de los ingresos excedentes inherentes, no inherentes y de carácter excepcional a que se refiere la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, para las entidades paraestatales de control directo;
 
-VIII. Conocer, en el ámbito de su competencia, la problemática y opiniones vertidas por las dependencias y entidades de la Administración Pública Federal, sobre las medidas de política de precios y tarifas de los bienes y servicios de las entidades de la Administración Pública Federal, así como del régimen fiscal de Petróleos Mexicanos, sus organismos subsidiarios y sus empresas filiales, que deban instrumentarse;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+VIII. Conocer, en el ámbito de competencia de este artículo, la problemática y opiniones vertidas por las dependencias y entidades de la Administración Pública Federal, sobre las medidas de política de precios y tarifas de los bienes y servicios de las entidades de la Administración Pública Federal, así como del dividendo estatal por parte de las empresas productivas del Estado, que deban instrumentarse;
+
+> <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
 
 IX. Participar en reuniones de trabajo, eventos y foros sobre asuntos relacionados con la fracción I de este artículo;
 
+> <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
+
 X. Atender las consultas y emitir opiniones que se le formulen en las materias a que se refiere la fracción I de este artículo;
 
-XI. Participar con las unidades administrativas competentes de la Secretaría en la elaboración de los anteproyectos de iniciativas de leyes o decretos, así como de anteproyectos de reglamentos, decretos, acuerdos, reglas de carácter general y demás disposiciones relacionadas con los precios y tarifas de los bienes y servicios de las entidades de la Administración Pública Federal, así como con el régimen fiscal aplicable a Petróleos Mexicanos, sus organismos subsidiarios y sus empresas filiales, así como opinar sobre las iniciativas de leyes o decretos que se presenten al Congreso de la Unión en dichas materias;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-XII. Colaborar, con las unidades administrativas competentes de la Secretaría y del Servicio de Administración Tributaria, en el análisis y evaluación del régimen fiscal aplicable a Petróleos Mexicanos, sus organismos subsidiarios y sus empresas filiales, así como en materia de contribuciones, y aprovechamientos sobre hidrocarburos;
+XI. Participar con las unidades administrativas competentes de la Secretaría en la elaboración de los anteproyectos de iniciativas de leyes o decretos, así como de anteproyectos de reglamentos, decretos, acuerdos, reglas de carácter general y demás disposiciones relacionadas con lo señalado en la fracción I de este artículo, así como opinar sobre las iniciativas de leyes o decretos que se presenten al Congreso de la Unión en dichas materias;
 
-XIII. Proponer, para aprobación superior, las variaciones al monto de los pagos diarios y semanales establecidos en las disposiciones relativas al régimen fiscal aplicable a Petróleos Mexicanos, sus organismos subsidiarios y empresas filiales, de conformidad con lo que establezca la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-XIV. Participar en la elaboración del presupuesto de los gastos fiscales, y recabar de las entidades de la Administración Pública Federal la información necesaria para elaborar dicho presupuesto, y
+XII. Colaborar con las unidades administrativas competentes de la Secretaría y, en su caso, con el Servicio de Administración Tributaria, en el análisis y evaluación de la política ambiental que derive en ingresos no tributarios para el Estado en los mercados de reducción de emisiones de contaminantes al medio ambiente o a través de mecanismos que para tal efecto se diseñen, y del régimen fiscal aplicable a las empresas productivas del Estado y sus empresas filiales, así como en materia de contribuciones, y aprovechamientos sobre hidrocarburos;
 
-XV. Elaborar, para aprobación superior, las estimaciones de ingresos de las entidades paraestatales federales sujetas a control presupuestario directo, así como su calendarización mensual, excepto las de Petróleos Mexicanos.
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XIII. Proponer para aprobación superior, las variaciones al monto de los pagos establecidos en las disposiciones relativas a los derechos por la exploración y extracción de hidrocarburos, del derecho por la utilidad compartida y del impuesto sobre la renta, de conformidad con lo que establezca la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda;
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XIV. Participar en la elaboración del presupuesto de los gastos fiscales, y recabar de las entidades de la Administración Pública Federal la información necesaria para elaborar dicho presupuesto;
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XV. Elaborar para aprobación superior, las estimaciones de ingresos de las entidades paraestatales federales sujetas a control presupuestario directo, así como su calendarización mensual;
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XVI. Formular para aprobación superior, la opinión que, en su caso, se deba otorgar a la Secretaría de Economía, respecto de la determinación de precios y tarifas máximos de los bienes y servicios;
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XVII. Participar, con las unidades administrativas competentes de la Secretaría, en la elaboración de la metodología y estudios necesarios para proponer la política del dividendo estatal de las empresas productivas del Estado;
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XVIII. Apoyar al Titular de la Unidad de Política de Ingresos No Tributarios y las dependencias competentes de la Administración Pública Federal, en el diseño de los programas de apoyo focalizados y la estimación de los ingresos relacionados con precios que deba establecer la Secretaría en términos de los acuerdos que emita el Ejecutivo Federal, y
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XIX. Colaborar con las unidades administrativas competentes de la Secretaría, en el estudio y análisis de los asuntos que se discutan en comités, comisiones o cualquier órgano colegiado del que forme parte la Secretaría, en el ámbito de competencia de la Unidad de Política de Ingresos No Tributarios y, en su caso, participar en las sesiones correspondientes.
 
 > <small>(REFORMADO, D.O.F. 10 DE OCTUBRE DE 2012)</small>
 
@@ -4409,9 +4587,179 @@ XIV. Integrar el programa operativo anual y elaborar los avances programáticos 
 
 XV. Las demás atribuciones que sean necesarias para el adecuado ejercicio de lo dispuesto en las fracciones anteriores, y en aquéllas que le otorguen reglamentos, acuerdos, convenios y demás disposiciones jurídicas relativas a la coordinación fiscal con las entidades federativas y municipios, así como, atender aquellos asuntos que le encomiende el Jefe de la Unidad de Coordinación con Entidades Federativas.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 60.
 
-(DEROGADO, D.O.F. 18 DE JULIO DE 2006)
+Compete a la Unidad de Ingresos sobre Hidrocarburos:
+
+I. Proponer a las unidades administrativas competentes de la Secretaría las condiciones económicas relativas a los términos fiscales de los contratos para la exploración y extracción de hidrocarburos;
+
+II. Proponer a las unidades administrativas competentes de la Secretaría las condiciones económicas relativas a los términos fiscales que deberán incluirse en las bases de las licitaciones para la adjudicación de los contratos para la exploración y extracción de hidrocarburos, incluyendo entre otros, los mecanismos y las variables de adjudicación, así como los valores mínimos y los criterios de desempate para las mismas;
+
+III. Proponer a las unidades administrativas competentes de la Secretaría el reporte anual a que se refiere el artículo 5 de la Ley de Ingresos sobre Hidrocarburos para su publicación;
+
+IV. Participar, en el ámbito de su competencia, en el diseño de los contratos para la exploración y extracción de hidrocarburos, con el apoyo, en su caso, de las demás unidades administrativas de la Secretaría;
+
+V. Supervisar el desarrollo e implementación de los registros y modelos económicos, financieros y estadísticos necesarios para el diseño de las condiciones económicas relativas a los términos fiscales de los contratos para la exploración y extracción de hidrocarburos;
+
+VI. Asesorar y apoyar, en el ámbito de las materias a que se refiere este artículo, a la Comisión Nacional de Hidrocarburos en el desarrollo y ejecución de los procesos de licitación de contratos para la exploración y extracción de hidrocarburos;
+
+VII. Participar con las unidades administrativas competentes de la Secretaría, en la formulación de los presupuestos de ingresos petroleros del Gobierno Federal para integrarlos al anteproyecto de iniciativa de Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda;
+
+VIII. Participar en los grupos de trabajo, foros y eventos nacionales e internacionales en asuntos relativos a las materias a que se refiere este artículo, en su caso, en coordinación con las unidades administrativas de la Secretaría, órganos administrativos desconcentrados, y dependencias y entidades de la Administración Pública Federal;
+
+IX. Emitir los lineamientos a que se sujetarán las bases y reglas sobre el registro de costos, gastos e inversiones y sobre la procura de bienes y servicios para las actividades llevadas a cabo al amparo de contratos y asignaciones a que se refieren la Ley de Hidrocarburos y la Ley de Ingresos sobre Hidrocarburos;
+
+X. Establecer los mecanismos de coordinación con la Secretaría de Energía y la Comisión Nacional de Hidrocarburos que permitan solicitar y recibir la información y el apoyo técnico que requiera para el ejercicio de las atribuciones a que se refiere este artículo;
+
+XI. Solicitar al Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, y al Servicio de Administración Tributaria la información, documentación y registros que requiera para el cumplimiento de sus atribuciones;
+
+XII. Elaborar registros de la información y documentación de los costos, gastos e inversiones, así como de la deducción de inversiones que el Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo le proporcione, así como de aquella información adicional que se requiera para la verificación de las contraprestaciones establecidas en los contratos para la exploración y extracción de hidrocarburos, y para realizar las demás funciones a su cargo;
+
+XIII. Realizar las funciones de verificación de los aspectos financieros de los contratos para la exploración y extracción de hidrocarburos;
+
+XIV. Verificar que el pago de las contraprestaciones que correspondan al Estado y al contratista derivado de los contratos para la exploración y extracción de hidrocarburos, se realice conforme a lo que establece la Ley de Ingresos sobre Hidrocarburos, el contrato respectivo, los registros de información con que se cuente, y demás disposiciones jurídicas aplicables;
+
+XV. Solicitar a los contratistas y a terceros la información que requiera para la verificación de las contraprestaciones y registros contables derivados de los contratos para la exploración y extracción de hidrocarburos, conforme a lo que se establece en los mismos;
+
+XVI. Solicitar a la Comisión Nacional de Hidrocarburos que realice visitas de campo o de otro tipo para verificar las operaciones y registros contables vinculados con los contratos a que se refieren la Ley de Hidrocarburos y la Ley de Ingresos sobre Hidrocarburos;
+
+XVII. Solicitar al Servicio de Administración Tributaria la realización de las auditorías y visitas a contratistas en términos de la Ley de Ingresos sobre Hidrocarburos;
+
+XVIII. Notificar al Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y a la Comisión Nacional de Hidrocarburos, así como a las demás instancias competentes, las irregularidades en el cumplimiento de las bases y reglas que formen parte de los contratos para la exploración y extracción de hidrocarburos, en materia de registro y recuperación de costos, gastos e inversiones, procura de bienes y servicios, en la ejecución de los contratos y en el pago de las contraprestaciones previstas en los mismos;
+
+XIX. Resolver, en coordinación con otras unidades administrativas de la Secretaría los asuntos que las disposiciones jurídicas atribuyan a la misma, relacionadas con los contratos y asignaciones para la exploración y extracción de hidrocarburos;
+
+XX. Informar a la Procuraduría Fiscal de la Federación o a la autoridad competente, de los hechos de que tenga conocimiento en el ejercicio de sus facultades, que puedan constituir delitos;
+
+XXI. Colaborar con las unidades administrativas competentes de la Secretaría, en el estudio y análisis de los asuntos que se discutan en comités, comisiones o cualquier órgano colegiado del que forme parte la Secretaría en las materias a que se refiere este artículo y, en caso de ser necesario, participar en las sesiones correspondientes;
+
+XXII. Participar con otras unidades administrativas de la Secretaría, en la elaboración de anteproyectos de iniciativas de leyes, decretos, reglamentos, lineamientos, acuerdos, reglas de carácter general y demás instrumentos normativos, cuando éstos contengan disposiciones relacionadas con las materias a que se refiere este artículo;
+
+XXIII. Colaborar con la Comisión Nacional de Hidrocarburos, unidades administrativas de la Secretaría y de otras dependencias y entidades de la Administración Pública Federal, cuando éstas lo soliciten, para el ejercicio de sus funciones en materia de verificación de operaciones, supervisión y auditoría de los contratos y asignaciones;
+
+XXIV. Proporcionar la información que le sea solicitada en los términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, respecto de las materias a que se refiere este artículo;
+
+XXV. Aplicar las sanciones previstas en la Ley de Hidrocarburos, en el ámbito de las materias a que se refiere este artículo;
+
+XXVI. Publicar y actualizar, por medios electrónicos, la información prevista en el artículo 58 de la Ley de Ingresos sobre Hidrocarburos que corresponda a la Secretaría, coordinándose al efecto con el Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, la Secretaría de Energía, la Comisión Nacional de Hidrocarburos y el Servicio de Administración Tributaria, y con el apoyo de las demás unidades administrativas de la Secretaría;
+
+XXVII. Asesorar y, en su caso, emitir opinión en las materias a que se refiere este artículo, sin perjuicio de las atribuciones de las demás unidades administrativas de la Secretaría, y
+
+XXVIII. Celebrar las bases de coordinación y convenios, que no tengan por objeto generar obligaciones de pago, en representación de la Secretaría en las materias a que se refiere este artículo.
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 60-A.
+
+Compete a la Dirección General Adjunta de Diseño Económico de Contratos:
+
+I. Proponer para aprobación superior, las condiciones económicas relativas a los términos fiscales de los contratos para la exploración y extracción de hidrocarburos;
+
+II. Proponer para aprobación superior, las condiciones económicas relativas a los términos fiscales que deberán incluirse en las bases de las licitaciones para la adjudicación de los contratos para la exploración y extracción de hidrocarburos, incluyendo, entre otros, los mecanismos y las variables de adjudicación, así como los valores mínimos y los criterios de desempate para las mismas;
+
+III. Formular y proponer al Titular de la Unidad de Ingresos sobre Hidrocarburos el reporte anual a que se refiere el artículo 5 de la Ley de Ingresos sobre Hidrocarburos;
+
+IV. Participar, en el ámbito de las materias a que se refiere este artículo, en el diseño de los contratos para la exploración y extracción de hidrocarburos;
+
+V. Dirigir el desarrollo de los modelos económicos referentes a las condiciones económicas relativas a los términos fiscales de los contratos para la exploración y extracción de hidrocarburos, así como los estudios y análisis necesarios para proponer a las autoridades superiores las condiciones económicas a que se refieren las fracciones I y II de este artículo;
+
+VI. Orientar y apoyar, en el ámbito de competencia a que se refiere este artículo, a la Comisión Nacional de Hidrocarburos en el desarrollo y ejecución de los procesos de licitación de contratos para la exploración y extracción de hidrocarburos;
+
+VII. Colaborar con las unidades administrativas competentes de la Secretaría, en la formulación de los presupuestos de ingresos petroleros del Gobierno Federal, para integrarlos al anteproyecto de iniciativa de Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda;
+
+VIII. Proponer al Titular de la Unidad de Ingresos sobre Hidrocarburos los mecanismos de coordinación con la Secretaría de Energía y la Comisión Nacional de Hidrocarburos que le permitan solicitar y recibir la información y el apoyo técnico que requiera para el ejercicio de las atribuciones que se refieren las fracciones I, II y III de este artículo;
+
+IX. Solicitar al Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y al Servicio de Administración Tributaria los registros de información que considere convenientes para la realización de sus funciones;
+
+X. Asesorar y, en su caso, representar al Titular de la Unidad de Ingresos sobre Hidrocarburos en los comités, comisiones o cualquier órgano colegiado en el ámbito de las materias a que se refiere este artículo;
+
+XI. Participar en los grupos de trabajo, foros y eventos nacionales e internacionales en asuntos relativos a las materias a que se refiere este artículo, en su caso, en coordinación con las unidades administrativas de la Secretaría, incluyendo a los órganos administrativos desconcentrados, así como con dependencias y entidades de la Administración Pública Federal;
+
+XII. Participar con otras unidades administrativas de la Secretaría en la elaboración de anteproyectos de iniciativas de leyes, decretos, reglamentos, lineamientos, acuerdos, reglas de carácter general y demás instrumentos normativos, cuando éstos contengan disposiciones relacionadas con las materias a que se refiere este artículo;
+
+XIII. Emitir opinión en las materias a que se refiere este artículo, sin perjuicio de las atribuciones de las demás unidades administrativas de la Secretaría;
+
+XIV. Proponer para aprobación superior, la aplicación de las sanciones previstas en la Ley de Hidrocarburos, en el ámbito de las materias a que se refiere este artículo, y
+
+XV. Las demás que instruya el Titular de la Unidad de Ingresos sobre Hidrocarburos.
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 60-B.
+
+Compete a la Dirección General Adjunta de Supervisión de Operaciones de Ingresos sobre Hidrocarburos:
+
+I. Recibir la información y documentación relacionada con los costos, gastos e inversiones de los contratistas y asignatarios y, en su caso, la información relativa a la deducción de dichas inversiones, que el Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo le proporcione;
+
+II. Elaborar registros de la información y documentación de los costos, gastos e inversiones, así como de la deducción de inversiones que el Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo le proporcione, así como de aquella información adicional que se requiera para la verificación de las contraprestaciones establecidas en los contratos para la exploración y extracción de hidrocarburos y para realizar las demás funciones a su cargo;
+
+III. Realizar las funciones que correspondan a la Secretaría para la verificación de los aspectos financieros de los contratos para la exploración y extracción de hidrocarburos previstas en dichos contratos, y todas aquéllas señaladas en la Ley de Ingresos sobre Hidrocarburos, su Reglamento y demás disposiciones aplicables;
+
+IV. Analizar las operaciones económicas y los registros contables derivados de los contratos para la exploración y extracción de hidrocarburos en relación con el correcto cumplimento de las reglas y bases, así como los lineamientos, establecidos en lo relativo al registro de costos, gastos e inversiones y en materia de procura de bienes y servicios;
+
+V. Colaborar, a través de los mecanismos institucionales que al efecto se establezcan, con otras unidades administrativas de la Secretaría y dependencias y entidades de la Administración Pública Federal, para la verificación de los aspectos financieros de los contratos para la exploración y extracción de hidrocarburos;
+
+VI. Informar a la Procuraduría Fiscal de la Federación o a la autoridad competente, de los hechos de que tenga conocimiento en el ejercicio de sus facultades, que puedan constituir delitos;
+
+VII. Participar con otras unidades administrativas de la Secretaría en la formulación de estudios, dictámenes y opiniones que se requieran para la elaboración de anteproyectos de iniciativas de leyes, decretos, reglamentos y lineamientos relativos a las bases y reglas sobre el registro de costos, gastos e inversiones, así como sobre la procura de bienes y servicios para las actividades llevadas a cabo al amparo de contratos para la exploración y extracción de hidrocarburos y asignaciones a que se refieren la Ley de Hidrocarburos y la Ley de Ingresos sobre Hidrocarburos;
+
+VIII. Solicitar a los contratistas y terceros, la información que requiera con base en las disposiciones establecidas en los contratos para la exploración y extracción de hidrocarburos a que se refieren la Ley de Hidrocarburos y la Ley de Ingresos sobre Hidrocarburos;
+
+IX. Emitir opinión en las materias a que se refiere este artículo, sin perjuicio de las atribuciones de las demás unidades administrativas de la Secretaría;
+
+X. Proponer al Titular de la Unidad de Ingresos sobre Hidrocarburos los mecanismos de coordinación con la Comisión Nacional de Hidrocarburos para recibir el apoyo técnico que requiera para el ejercicio de sus atribuciones;
+
+XI. Solicitar la información técnica que se requiera a la Secretaría de Energía y a la Comisión Nacional de Hidrocarburos;
+
+XII. Participar en los grupos de trabajo, foros y eventos nacionales e internacionales en asuntos relativos a las materias a que se refiere este artículo, en su caso, en coordinación con las unidades administrativas de la Secretaría, órganos administrativos desconcentrados, y dependencias y entidades de la Administración Pública Federal;
+
+XIII. Proponer para aprobación superior, la aplicación de las sanciones previstas en la Ley de Hidrocarburos en el ámbito de las materias a que se refiere este artículo, y
+
+XIV. Las demás que instruya el Titular de la Unidad de Ingresos sobre Hidrocarburos.
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 60-C.
+
+Dirección General Adjunta de Análisis y Verificación de Ingresos sobre Hidrocarburos:
+
+I. Diseñar y proponer los lineamientos a que se sujetarán las bases y reglas sobre el registro de costos, gastos e inversiones y sobre la procura de bienes y servicios para las actividades llevadas a cabo al amparo de las asignaciones y de cada contrato para la exploración y extracción de hidrocarburos a que se refieren la Ley de Hidrocarburos y la Ley de Ingresos sobre Hidrocarburos;
+
+II. Apoyar en el diseño de los contratos para la exploración y extracción de hidrocarburos respecto de los aspectos previstos en la fracción I de este artículo;
+
+III. Verificar que el pago de las contraprestaciones que correspondan al Estado y al contratista derivado de los contratos para la exploración y extracción de hidrocarburos, se realice conforme a lo establecido en la Ley de Ingresos sobre Hidrocarburos, el contrato respectivo, los registros de información con que se cuente, y demás disposiciones jurídicas aplicables;
+
+IV. Identificar los requerimientos de auditorías o visitas a contratistas, así como apoyar y dar seguimiento a la realización de las mismas;
+
+V. Notificar al Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y la Comisión Nacional de Hidrocarburos así como a las demás instancias competentes, las irregularidades en el cumplimiento de las bases y reglas que formen parte de los contratos para la exploración y extracción de hidrocarburos, en materia de registro y recuperación de costos, gastos e inversiones, procura de bienes y servicios, en la ejecución de los citados contratos y en el pago de las contraprestaciones previstas en los mismos;
+
+VI. Informar a la Procuraduría Fiscal de la Federación o a la autoridad competente, de los hechos de que tenga conocimiento en el ejercicio de sus facultades, que puedan constituir delitos;
+
+VII. Solicitar a la Comisión Nacional de Hidrocarburos que realice visitas de campo o de otro tipo para verificar las operaciones y registros contables vinculados con los contratos para la exploración y extracción de hidrocarburos a que se refieren la Ley de Hidrocarburos y la Ley de Ingresos sobre Hidrocarburos;
+
+VIII. Colaborar con otras unidades administrativas de la Secretaría y otras dependencias y entidades de la Administración Pública Federal, en cualquier aspecto relacionado con las labores de verificación y auditoría contable y financiera de los contratos para la exploración y extracción de hidrocarburos y asignaciones a que se refieren la Ley de Hidrocarburos y la Ley de Ingresos sobre Hidrocarburos;
+
+IX. Recibir del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo la información contable y financiera sobre el pago de contraprestaciones y de derechos sobre hidrocarburos, para analizar y evaluar la política de ingresos en la materia;
+
+X. Solicitar al Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, al Servicio de Administración Tributaria, y a los asignatarios y contratistas los registros de información que considere convenientes para el ejercicio de sus funciones;
+
+XI. Evaluar la suficiencia y analizar el contenido de la información que reciba del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y, en su caso, aquella información que haya solicitado directamente a los contratistas;
+
+XII. Emitir opinión en las materias a que se refiere este artículo, sin perjuicio de las atribuciones de las demás unidades administrativas de la Secretaría;
+
+XIII. Colaborar con la Comisión Nacional de Hidrocarburos, otras unidades administrativas de la Secretaría y otras dependencias y entidades de la Administración Pública Federal, cuando éstas lo soliciten, para el correcto ejercicio de sus funciones en las labores de verificación y auditoría de los contratos para la exploración y extracción de hidrocarburos y las asignaciones a que se refieren la Ley de Hidrocarburos y la Ley de Ingresos sobre Hidrocarburos;
+
+XIV. Solicitar a los contratistas y terceros, la información que requiera con base en las disposiciones establecidas en los contratos para la exploración y extracción de hidrocarburos a que se refieren la Ley de Hidrocarburos y la Ley de Ingresos sobre Hidrocarburos;
+
+XV. Participar en los grupos de trabajo, foros y eventos nacionales e internacionales en asuntos relativos a las materias a que se refiere este artículo, en su caso, en coordinación con las unidades administrativas de la Secretaría, incluyendo a sus órganos administrativos desconcentrados, así como con dependencias y entidades de la Administración Pública Federal;
+
+XVI. Proponer la publicación y actualización de la información prevista en el artículo 58 de la Ley de Ingresos sobre Hidrocarburos a través de medios electrónicos, así como solicitar la información que para tal efecto requiera la Secretaría de Energía, la Comisión Nacional de Hidrocarburos y el Servicio de Administración Tributaria;
+
+XVII. Proponer para aprobación superior, la aplicación de las sanciones previstas en la Ley de Hidrocarburos en el ámbito de las materias a que se refiere este artículo, y
+
+XVIII. Las demás que instruya el Titular de la Unidad de Ingresos sobre Hidrocarburos.
 
 > <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -4861,7 +5209,9 @@ El Director General de Recursos Financieros, se auxiliará de los Directores Gen
 
 Compete a la Dirección General de Recursos Humanos:
 
-I. Instrumentar los procesos y programas en materia de administración de personal; profesionalización; educación y cultura organizacional; desarrollo humano y social; equidad de género; derechos humanos; reconocimiento laboral; motivación; reclutamiento, selección, nombramientos, contratación y movimientos del personal; innovación; remuneraciones; relaciones laborales; formación, capacitación y certificación por competencias laborales; evaluación del desempeño; servicio social; becas; prestaciones; salud, deporte, cultura y recreación del personal y, en su caso, para los pensionados y jubilados; servicios educacionales y asistenciales para los trabajadores y sus familiares a través de las escuelas primarias de la Secretaría y de los sistemas de educación abierta; de administración y operación del Deportivo y de seguridad, higiene, riesgos profesionales y medio ambiente en el trabajo, así como coordinar su difusión de conformidad con las disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+I. Instrumentar los procesos y programas en materia de administración de personal; profesionalización; educación y cultura organizacional; desarrollo humano y social; derechos humanos; reconocimiento laboral; motivación; reclutamiento, selección, nombramientos, contratación y movimientos del personal; innovación; remuneraciones; relaciones laborales; formación, capacitación y certificación por competencias laborales; evaluación del desempeño; servicio social; becas; prestaciones; salud, deporte, cultura y recreación del personal y, en su caso, para los pensionados y jubilados; servicios educacionales y asistenciales para los trabajadores y sus familiares a través de las escuelas primarias de la Secretaría y de los sistemas de educación abierta; y de seguridad, higiene, riesgos profesionales y medio ambiente en el trabajo, así como coordinar su difusión de conformidad con las disposiciones aplicables;
 
 II. Someter a consideración del Oficial Mayor las directrices y criterios en materia de recursos humanos;
 
@@ -4911,7 +5261,11 @@ XXIV. Instrumentar, aplicar, administrar y difundir las disposiciones en materia
 
 XXV. Coordinar la integración del programa operativo anual del Servicio Profesional de Carrera en la Secretaría y proponer su aprobación al Comité Técnico de Profesionalización, así como coordinar la operación y actualización del Registro Único de Servidores Públicos de la Secretaría, y
 
-XXVI. Asesorar a las unidades administrativas de la Secretaría en materia laboral y de recursos humanos, así como en la aplicación de las disposiciones en estas materias.
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XXVI. Coordinar con la Unidad de Igualdad de Género la instrumentación de los programas para la formación, capacitación y certificación del personal en materia de igualdad de género, y
+
+XXVII. Asesorar a las unidades administrativas de la Secretaría en materia laboral y de recursos humanos, así como en la aplicación de las disposiciones en estas materias.
 
 El Director General de Recursos Humanos se auxiliará de los Directores Generales Adjuntos de Desarrollo Profesional; de Administración de Personal, y de Planeación y de Estudios Organizacionales.
 
@@ -4923,7 +5277,9 @@ Compete a la Dirección General de Recursos Materiales, Obra Pública y Servicio
 
 I. Someter a consideración superior las directrices y criterios en materia de administración de recursos materiales, servicios generales, obras públicas y servicios relacionados con las mismas, de conformidad con las disposiciones aplicables;
 
-II. Integrar los programas anuales de la Secretaría en materia de recursos materiales y servicios generales; de uso, conservación, mantenimiento y aprovechamiento de inmuebles; de mantenimiento preventivo y correctivo de mobiliario y equipo; de adquisiciones, arrendamientos y servicios; de obras públicas y de servicios relacionados con las mismas; de disposición final y baja de bienes muebles; de aseguramiento integral; de asignación, servicio y mantenimiento de parque vehicular; de servicios generales y el de protección civil, así como coordinar y supervisar su ejecución, evaluación, seguimiento y actualización periódica, de conformidad con las disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+II. Integrar los programas anuales de la Secretaría en materia de recursos materiales y servicios generales; de uso, conservación, mantenimiento y aprovechamiento de inmuebles; de administración y operación del Deportivo; de mantenimiento preventivo y correctivo de mobiliario y equipo; de adquisiciones, arrendamientos y servicios; de obras públicas y de servicios relacionados con las mismas; de disposición final y baja de bienes muebles; de aseguramiento integral; de asignación, servicio y mantenimiento de parque vehicular; de servicios generales y el de protección civil, así como coordinar y supervisar su ejecución, evaluación, seguimiento y actualización periódica, de conformidad con las disposiciones aplicables;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
 
@@ -5141,9 +5497,41 @@ VII. Proponer a la Comisión Interinstitucional prevista en el Reglamento para e
 
 La Conservaduría de Palacio Nacional se auxiliará para el despacho de los asuntos a su cargo, de los Directores de Administración de Conservaduría de Palacio Nacional, y de Conservación de Monumentos y Acervo Patrimonial de Palacio Nacional.
 
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 69-D.
 
-(DEROGADO, D.O.F. 7 DE MAYO DE 2004)
+Compete a la Unidad de Igualdad de Género:
+
+I. Promover la institucionalización de la perspectiva y transversalidad de género en la cultura organizacional y quehacer institucional de la Secretaría;
+
+II. Planear, programar y difundir acciones que incorporen la perspectiva y transversalidad de género de conformidad con el presupuesto anual asignado a la Secretaría para tal efecto;
+
+III. Impulsar y difundir el conocimiento de las obligaciones y derechos contraídos por los Estados Unidos Mexicanos, en tratados y convenciones internacionales de derechos humanos de las mujeres, en el ámbito de su competencia;
+
+IV. Proponer acuerdos a las unidades administrativas de la Secretaría para ejecutar las políticas, acciones y programas de su competencia establecidos en el Programa Nacional para la Igualdad entre Mujeres y Hombres;
+
+V. Asesorar en materia de igualdad de género a las unidades administrativas de la Secretaría, incluyendo a sus órganos administrativos desconcentrados, así como a las entidades del sector coordinado, y coadyuvar con éstas en la formulación de sus planes de acción para la igualdad de género;
+
+VI. Instrumentar, en coordinación con la Dirección General de Recursos Humanos y, en su caso, con las unidades homólogas de los órganos administrativos desconcentrados y entidades coordinadas del sector, programas para la formación, capacitación y certificación del personal en materia de igualdad de género;
+
+VII. Fungir como enlace de la Secretaría ante el Instituto Nacional de las Mujeres y otras dependencias y entidades de la Administración Pública Federal para coordinar acciones en materia de igualdad de género;
+
+VIII. Participar como representante de la Secretaría en los órganos colegiados en los que deba intervenir en materia de igualdad de género;
+
+IX. Elaborar, con la participación de las unidades administrativas de la Secretaría y proponer, para aprobación superior, el Programa de Acción para la Igualdad de Género de la Secretaría;
+
+X. Coordinar con el Instituto Nacional de las Mujeres las acciones que deba realizar la Secretaría en materia de política pública con perspectiva de género, de conformidad con lo establecido en las disposiciones jurídicas aplicables y en cumplimiento al Programa Nacional para la igualdad entre Mujeres y Hombres;
+
+XI. Elaborar estudios e investigaciones para instrumentar en la Secretaría, sus órganos administrativos desconcentrados y las entidades coordinadas del sector, un sistema de información, registro, seguimiento y evaluación de la situación de mujeres y hombres en materia de igualdad de género;
+
+XII. Elaborar y difundir los informes de evaluación periódica sobre los resultados alcanzados en el cumplimiento de los objetivos, estrategias y políticas ejecutadas por la Secretaría en cumplimiento del Programa Nacional para la Igualdad entre Mujeres y Hombres;
+
+XIII. Acordar con el Titular de la Oficialía Mayor los asuntos de su competencia, así como atender los demás asuntos que éste le encomiende, y
+
+XIV. Las demás facultades que en el ámbito de sus respectivas competencias le atribuyan las disposiciones jurídicas aplicables o le confiera el Secretario.
+
+La Unidad de Igualdad de Género para el ejercicio de sus funciones se asistirá por el personal autorizado conforme las disposiciones jurídicas aplicables y que se requiera para satisfacer las necesidades del servicio.
 
 ###### Artículo 70.
 
@@ -5201,6 +5589,10 @@ XIII. Expedir certificaciones de constancias de los expedientes relativos a los 
 
 XIV. Revisar y, en su caso, elaborar los anteproyectos de instrumentos jurídicos que deban ser sometidos a la consideración del Presidente de la República y del Secretario a efecto de crear, modificar, disolver, liquidar, extinguir, fusionar, enajenar o transferir las entidades paraestatales de la administración pública federal;
 
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XIV Bis. Realizar estudios, propuestas y análisis, así como opinar jurídicamente, sobre el diseño Institucional de los entes que conforman la Administración Pública Federal para fines de congruencia global, en los proyectos de iniciativas de leyes, reglamentos, decretos y acuerdos presidenciales en cuya formulación o emisión deba participar la Secretaría;
+
 > <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
 
 XV. Emitir las opiniones jurídicas, los criterios, interpretaciones administrativas y medidas para la correcta aplicación de las leyes y demás disposiciones de carácter general en las materias competencia de la Secretaría, y de la Subprocuraduría Fiscal Federal de Legislación y Consulta, que no correspondan a otra unidad administrativa de la Secretaría;
@@ -5233,9 +5625,9 @@ XXI. Acordar con el Procurador Fiscal de la Federación los asuntos de su compet
 
 XXII. Resolver los asuntos relacionados con todas aquellas leyes que confieran alguna atribución a la Secretaría, en las materias que no estén expresamente asignadas por este Reglamento a otras unidades administrativas de la misma;
 
-> <small>(ADICIONADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-XXIII. Determinar que un proyecto presentado por las dependencias y entidades en términos del artículo 18, fracción IV del Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria no tiene impacto presupuestario;
+XXIII. Determinar que un proyecto presentado por las dependencias y entidades en términos del artículo 18, fracción IV del Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria no requiere dictamen de impacto presupuestario;
 
 > <small>(ADICIONADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
 
@@ -5254,6 +5646,14 @@ I. Opinar, coordinar la formulación y proponer los anteproyectos de iniciativas
 II. Auxiliar y asesorar jurídicamente a las unidades administrativas de la Secretaría en el ejercicio de sus atribuciones en las materias de su competencia conforme a lo señalado en la fracción I de este artículo;
 
 III. Conducir la revisión y la emisión de la opinión de los anteproyectos de instrumentos jurídicos que deban ser sometidos a la consideración del Presidente de la República y del Secretario a efecto de crear, modificar, disolver, liquidar, extinguir, fusionar, enajenar o transferir las entidades paraestatales de la Administración Pública Federal;
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+III Bis. Realizar estudios, propuestas y análisis, así como opinar jurídicamente, sobre el diseño Institucional de los entes que conforman la Administración Pública Federal para fines de congruencia global, en los proyectos de iniciativas de leyes, reglamentos, decretos y acuerdos presidenciales en cuya formulación o emisión deba participar la Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+III Ter. Opinar y asesorar jurídicamente a las unidades administrativas de la Secretaría en materia del régimen jurídico de las empresas productivas del Estado;
 
 IV. Supervisar la integración de la relación de las entidades paraestatales de la Administración Pública Federal, en coordinación con las áreas competentes de la Secretaría y de otras dependencias;
 
@@ -5277,9 +5677,13 @@ XIII. Orientar, de manera conjunta con las demás unidades administrativas compe
 
 XIV. Solicitar la publicación en el Diario Oficial de la Federación de las disposiciones de carácter general, así como de aquéllas que deban publicarse en dicho medio de difusión oficial, que emita la Secretaría, siempre que dicha atribución no correspondan a otra unidad administrativa de la Secretaría;
 
-XV. Apoyar al Procurador Fiscal de la Federación y al Subprocurador Fiscal Federal de Legislación y Consulta, en el análisis y, en su caso, opinión respecto de los asuntos que se agenden en las sesiones de los órganos colegiados en que participen;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-XVI. Coordinar la compilación de la legislación en las materias competencia de la Secretaría, proponer alternativas para conservar el acervo bibliográfico y hemerográfico de la Procuraduría Fiscal de la Federación y coordinar el servicio de préstamo bibliotecario de la Procuraduría, así como proponer, para aprobación superior, los convenios que sean necesarios para llevar a cabo dichas atribuciones;
+XV. Apoyar al Secretario, al Procurador Fiscal de la Federación y al Subprocurador Fiscal Federal de Legislación y Consulta, en el análisis y, en su caso, opinión respecto de los asuntos que se agenden en las sesiones de los órganos colegiados en que participen;
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XVI. Coordinar la compilación de la legislación en las materias competencia de la Secretaría, así como proponer esquemas de colaboración interinstitucional para facilitar y promover que las unidades administrativas de la Procuraduría Fiscal de la Federación cuenten con fuentes de acceso a acervos bibliográficos y hemerográficos;
 
 XVII. Establecer, el criterio de la Secretaría cuando las unidades administrativas de la misma emitan opiniones contradictorias en aspectos jurídicos;
 
@@ -5303,6 +5707,14 @@ II. Auxiliar y asesorar jurídicamente a las unidades administrativas de la Secr
 
 III. Opinar, coordinar y supervisar la revisión y la emisión de la opinión de los anteproyectos de instrumentos jurídicos que deban ser sometidos a la consideración del Presidente de la República y del Secretario a efecto de crear, modificar, disolver, liquidar, extinguir, fusionar, enajenar o transferir las entidades paraestatales de la Administración Pública Federal;
 
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+III Bis. Realizar estudios, propuestas y análisis, así como opinar jurídicamente, sobre el diseño Institucional de los entes que conforman la Administración Pública Federal para fines de congruencia global, en los proyectos de iniciativas de leyes, reglamentos, decretos y acuerdos presidenciales en cuya formulación o emisión deba participar la Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+III Ter. Opinar y asesorar jurídicamente a las unidades administrativas de la Secretaría en materia del régimen jurídico de las empresas productivas del Estado;
+
 IV. Supervisar la emisión de la opinión sobre los aspectos jurídicos de los convenios, contratos, acuerdos y, en general, sobre cualquier instrumento jurídico que deban suscribir el Secretario o el Procurador Fiscal de la Federación, en el ámbito de competencia de la Dirección General de Legislación y Consulta;
 
 V. Elaborar las propuestas de criterios, interpretaciones administrativas y medidas para la correcta aplicación de las leyes y demás disposiciones de carácter general en el ámbito de competencia de la Dirección General de Legislación y Consulta;
@@ -5323,11 +5735,19 @@ XII. Dirigir las actividades relativas al Registro Público de Organismos Descen
 
 XIII. Analizar y, en su caso, opinar respecto de los asuntos relacionados con la creación, modificación, disolución, liquidación, extinción, fusión, enajenación o transferencia o desincorporación de entidades paraestatales, que se agenden en las sesiones de la Comisión Intersecretarial de Gasto Público, Financiamiento y Desincorporación, para apoyar las funciones del Procurador Fiscal de la Federación y del Subprocurador Fiscal Federal de Legislación y Consulta, en su carácter de asesores de la misma;
 
-XIV. Coordinar la compilación de la legislación en las materias competencia de la Secretaría, proponer alternativas para conservar el acervo bibliográfico y hemerográfico de la Procuraduría Fiscal de la Federación y coordinar el servicio de préstamo bibliotecario de la Procuraduría, así como proponer, para aprobación superior, los convenios que sean necesarios para llevar a cabo dichas atribuciones;
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XIII. Bis. Apoyar en el análisis y, en su caso, opinar cuando se le requiera, respecto de los asuntos que se agenden en las sesiones de los órganos colegiados, en el ámbito de funciones a que se refiere este artículo;
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XIV. Coordinar la compilación de la legislación en las materias competencia de la Secretaría, así como proponer esquemas de colaboración interinstitucional para facilitar y promover que las unidades administrativas de la Procuraduría Fiscal de la Federación cuenten con fuentes de acceso a acervos bibliográficos y hemerográficos;
 
 XV. Establecer el criterio de la Secretaría cuando las unidades administrativas de la misma emitan opiniones contradictorias en aspectos jurídicos;
 
-XVI. Elaborar, revisar, emitir opinión y, en su caso, someter a consideración superior los documentos que deba suscribir el Secretario para la designación o nombramiento de servidores públicos de la Secretaría y de las entidades paraestatales agrupadas en el sector coordinado por la misma, así como de aquéllos que deban someterse a consideración del Secretario para la designación de representantes ante las entidades paraestatales, órganos administrativos desconcentrados, comités técnicos de los fideicomisos públicos, comisiones intersecretariales, grupos de trabajo u otros órganos o instancias;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XVI. Elaborar, revisar, emitir opinión y, en su caso, someter a consideración superior los documentos que deba suscribir el Secretario para la designación o nombramiento de servidores públicos de la Secretaría y de las entidades paraestatales agrupadas en el sector coordinado por la misma, así como de aquéllos que deban someterse a consideración del Secretario para la designación de representantes ante las entidades paraestatales, órganos administrativos desconcentrados, comités técnicos de los fideicomisos públicos, comisiones intersecretariales y demás órganos colegiados que se establezcan en leyes, reglamentos o instrumentos emitidos por el Presidente de la República;
 
 XVII. Conducir la emisión de opiniones, en coordinación con las unidades administrativas de la Secretaría, sobre la elaboración de los anteproyectos de acuerdos, tratados o convenios internacionales en las materias de su competencia, y
 
@@ -7808,3 +8228,13 @@ CUARTO.- Las modificaciones a la estructura orgánica del Servicio de Administra
 QUINTO.- Las referencias que se hagan y las atribuciones que se otorgan en decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones, a las unidades administrativas del Servicio de Administración Tributaria y de la Secretaría de Hacienda y Crédito Público que cambien de denominación o que se eliminen por virtud del presente Decreto, se entenderán hechas o conferidas a las unidades administrativas que resulten competentes conforme al mismo.
 
 SEXTO.- Los asuntos en trámite que son atendidos por unidades administrativas que desaparecen, cambian de denominación o modifican sus atribuciones en virtud de la entrada en vigor del presente Decreto, serán atendidos y resueltos por las unidades administrativas a las que se les da la competencia correspondiente en este instrumento.
+
+D.O.F. 31 DE OCTUBRE DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación, con excepción de lo previsto en el artículo 16-A, fracción VI cuyo contenido entrará en vigor el 1 de enero de 2015.
+
+SEGUNDO.- Las modificaciones a la estructura orgánica de las unidades administrativas de la Secretaría de Hacienda y Crédito Público que deriven de la entrada en vigor del presente Decreto, se realizarán a través de movimientos compensados del presupuesto autorizado de servicios personales de dicha Secretaría para el ejercicio fiscal en curso, por lo que no se incrementará el presupuesto regularizable de servicios personales para el siguiente ejercicio fiscal.
+
+TERCERO.- Las referencias que se hagan y las atribuciones que se otorgan en decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones, a las unidades administrativas de la Secretaría de Hacienda y Crédito Público que cambien de denominación por virtud del presente Decreto, se entenderán hechas o conferidas a las unidades administrativas que resulten competentes conforme al mismo.
+
+CUARTO.- Los asuntos en trámite que son atendidos por unidades administrativas que modifican sus atribuciones en virtud de la entrada en vigor del presente Decreto, serán atendidos y resueltos por las unidades administrativas a las que se les da la competencia correspondiente en este instrumento.
