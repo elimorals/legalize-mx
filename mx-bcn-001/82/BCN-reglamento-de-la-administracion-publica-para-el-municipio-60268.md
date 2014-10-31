@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-administracion-publica-para-el-municipio-60268
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-22"
-last_updated: "2014-10-17"
+last_updated: "2014-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60268&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2014.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 22 de febrero de 2008.
 
@@ -533,6 +533,10 @@ f. Secretaría Privada
 
 g. Unidad Municipal Concentradora de Transparencia y Acceso a la Información Pública
 
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2014)</small>
+
+h. Unidad Municipal de Gestión Empresarial y Mejora Regulatoria.
+
 II. Instruir al Coordinador Administrativo para la realización del presupuesto, así como supervisar que la aplicación del mismo se efectúe en las actividades propias de la Oficina del Presidente Municipal, tomando en cuenta las actividades de la agenda temática anual, y apegándose a las políticas que (sic) en materia de egresos.
 
 III. Asegurar que las actividades de la Ayudantía del Gobierno Municipal sean llevadas a cabo con eficiencia y, que su intervención en eventos se maneje de forma coordinada.
@@ -555,7 +559,13 @@ XI. Recibir para su evaluación de la Dirección de Relaciones Públicas manuale
 
 XII. Aplicar las disposiciones relativas a la administración de documentos públicos de Transparencia y acceso a la información pública, operando el archivo de trámite la Unidad Municipal Concentradora de Transparencia y acceso a la información.
 
-XIII. Las demás que expresamente le encomienden las leyes, reglamentos o lo instruya el Presidente.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2014)</small>
+
+XIII.- Verificar el correcto funcionamiento de la Unidad Municipal de Gestión Empresarial y Mejora Regulatoria, así como el cumplimiento de la reglamentación relativa vigente para el municipio de Ensenada; y
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2014)</small>
+
+XIV.- Las demás que expresamente le encomienden las leyes, reglamentos o lo instruya el Presidente.
 
 ###### ARTÍCULO 37.
 
@@ -672,6 +682,38 @@ XVII. Supervisar y revisar que el Portal sea actualizado con la periodicidad deb
 XVIII. Fomentar la cultura de transparencia; y
 
 XIX. Las demás obligaciones que señalen la ley y los reglamentos de la materia.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2014)</small>
+
+ARTÍCULO 40 TER.- A la Unidad Municipal de Gestión Empresarial y Mejora Regulatoria le corresponde:
+
+I.- Proponer al Presidente Municipal, las políticas municipales relativas al fomento a la competitividad y promoción del desarrollo económico del Municipio;
+
+II.- Promover y gestionar la creación de nuevas empresas con el propósito de generar fuentes de trabajo;
+
+III.- Revisar continuamente la regulación en materia económica del Municipio de Ensenada, diagnosticar los efectos de su aplicación y elaborar propuestas al Presidente Municipal de proyectos de disposiciones normativas y administrativas para mejorar la regulación de la actividad de sectores económicos específicos;
+
+IV.- Promover estrategias y acciones encaminadas a fortalecer las relaciones con el sector empresarial e inversionista;
+
+V.- Diseñar, formular e implementar la política municipal de mejora regulatoria y de simplificación administrativa que facilite la inversión, la generación de empleos y la eficiencia en los trámites administrativos del ámbito municipal;
+
+VI.- Dirigir y vigilar el buen funcionamiento del Sistema de Apertura Rápida de Empresas;
+
+VII.- Integrar y Administrar el Registro del Municipio de Trámites Empresariales;
+
+VIII.- Generar, compilar y sistematizar información en materia de desarrollo económico y mejora regulatoria en el ámbito municipal, así como información sobre indicadores económicos para su publicación periódica;
+
+IX.- Coordinarse con las instituciones educativas del nivel medio superior y superior, sector empresarial y gubernamental para fomentar la cultura emprendedora;
+
+X.- Impulsar y fomentar la organización cooperativa en el ámbito de su competencia;
+
+XI.- Elaborar proyectos de viabilidad para el establecimiento de industrias y empresas que alienten la inversión pública, privada y social y promuevan el empleo;
+
+XII.- Planear, elaborar, instrumentar y promover, conjuntamente con la Tesorería Municipal, Programas de Estímulos e Incentivos Fiscales y Financieros en materia municipal a favor de personas físicas y morales, que realicen actividades productivas y generen fuentes de empleo, para fomentar la instalación de nuevas empresas dentro del municipio, así como para aquellas que regularicen su situación ante el fisco municipal;
+
+XIII.- Desarrollar los programas y proyectos para el fomento de las actividades productivas, sectoriales y delegacionales, conservando un balance equilibrado con el desarrollo urbano y el bienestar de la comunidad; y
+
+XIV.- Las demás obligaciones que señalen leyes y reglamentos de la materia.
 
 > <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE FEBRERO DE 2014)</small>
 
@@ -1845,6 +1887,24 @@ XIV. Fomentar los valores cívicos, morales, la cultura de la legalidad, de la p
 
 XV. Las demás que le atribuyan la ley del Régimen Municipal, las leyes, y reglamentos, así como las que le asigne el Presidente Municipal.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2014)</small>
+
+ARTÍCULO 88 BIS.- Le Corresponde a La Unidad de Atención a Grupos Indígenas:
+
+a). Manejar programas sociales de atención a los grupos y comunidades indígenas nativos y asentados de este Municipio.
+
+b). Coadyuvar con el departamento de Comunicación Social para difundir los programas de atención a los pueblos indígenas y también con las dependencias y entidades de la Administración Pública Municipal en el ámbito de su competencia para el efectivo cumplimiento de este Reglamento.
+
+c). Promover cursos de capacitación y de sensibilización a las personas que atiendan a los indígenas;
+
+d). Promover programas de ayuda y asistencia social enfocada a las necesidades de los indígenas, buscando políticas públicas dirigidas a las diferentes etnias de nativos y asentados en este municipio.
+
+e). Contará con facultades a través de su titular para concertar todas las acciones necesarias ante las instituciones públicas, privadas o afines a la cuestión étnica, con el fin de que los indígenas nativos y asentados tengan acceso a la seguridad social, a la atención médica, a los servicios asistenciales y a la adquisición o mejoramiento de sus viviendas.
+
+f). Procurará el bienestar y protección de las mujeres, niños y ancianos de las comunidades indígenas, por cuanto que constituyen la base de las familias que integran y sustentan los pueblos indígenas del Estado.
+
 ### CAPITULO OCTAVO. DE LAS DELEGACIONES MUNICIPALES
 
 ###### ARTÍCULO 89.
@@ -2442,3 +2502,21 @@ P.O. 10 DE OCTUBRE DE 2014.
 P.O. 17 DE OCTUBRE DE 2014.
 
 ÚNICO.- Una vez siendo aprobada la presente reforma, publíquese en el Periódico Oficial del Gobierno del Estado de Baja California, para que surta efectos al día siguiente de su publicación en todo el territorio del Municipio de Ensenada B. C.
+
+P.O. 31 DE OCTUBRE DE 2014.
+
+ACUERDO POR EL QUE SE ADICIONA EL INCISO H DE LA FRACCIÓN I, SE REFORMA LA FRACCIÓN XIII Y SE ADICIONA LA FRACCIÓN XIV DEL ARTÍCULO 36; Y SE ADICIONA EL ARTÍCULO 40 TER DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el periódico oficial del estado de Baja California.
+
+SEGUNDO.- La Oficina de la Presidencia Municipal en coordinación con la Oficialía Mayor, la Dirección de Planeación y Gestión Financiera y la Tesorería dispondrán de las medidas presupuestales y administrativas necesarias para que la Unidad Municipal de Gestión Empresarial y Mejora Regulatoria inicie sus funciones en el ejercicio fiscal del año 2015.
+
+P.O. 31 DE OCTUBRE DE 2014.
+
+ACUERDO POR EL QUE SE ADICIONA EL ARTÍCULO 88 BIS DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA.
+
+PRIMERO.- Una vez siendo aprobada la presente reforma, publíquese en el Periódico Oficial del Gobierno del Estado de Baja California, para que surta efectos a partir del día primero de Enero del año 2015 en todo el territorio del Municipio de Ensenada B. C.
+
+SEGUNDO.- La Unidad de Atención a Grupos Indígenas iniciará sus funciones a partir del día 1ro de Enero del año 2015, para tales efectos el titular del ejecutivo designará al titular de dicha unidad.
+
+TERCERO.- La partida con la que operará la Unidad de Atención a los Grupos Indígenas deberá ser asignada del mismo presupuesto de la Secretaría de Desarrollo Social Municipal.
