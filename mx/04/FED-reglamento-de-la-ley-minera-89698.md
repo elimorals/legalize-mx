@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-minera-89698"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-10-12"
-last_updated: "2012-10-12"
+last_updated: "2014-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89698&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-10-09"
 
 REGLAMENTO DE LA LEY MINERA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE OCTUBRE DE 2014.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 12 de octubre de 2012.
 
@@ -95,9 +95,11 @@ XXIV. Valor de Liquidación: el importe resultante de la proforma de liquidació
 
 En lo no previsto en el presente Reglamento y en la Ley, se aplicarán supletoriamente las disposiciones de la Ley Federal de Procedimiento Administrativo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
 ###### ARTÍCULO 3o.
 
-Las solicitudes, avisos, informes y promociones a que se refiere la Ley se presentarán ante la Secretaría en los términos previstos en el presente Reglamento, utilizando los formatos que para tal efecto la Secretaría publique en el Diario Oficial de la Federación.
+Las solicitudes, avisos, informes y promociones a que se refiere la Ley se presentarán ante la Secretaría en los términos previstos en el presente Reglamento, utilizando los formatos que para tal efecto la Secretaría publique en el Diario Oficial de la Federación o a través de medios electrónicos en términos de la Ley de Firma Electrónica Avanzada y su Reglamento.
 
 En todos los casos, se deberá adjuntar a la promoción la copia del comprobante de pago de los derechos correspondientes.
 
@@ -132,6 +134,10 @@ Cuando dos o más personas sean cosolicitantes de una concesión minera, deberá
 Las resoluciones que emita la Secretaría con motivo de la aplicación de la Ley y este Reglamento se notificarán a los interesados conforme a lo dispuesto en la Ley Federal de Procedimiento Administrativo.
 
 Cuando la notificación se haga por correo certificado con acuse de recibo y sea devuelta con la anotación de no haber sido localizado el interesado en su domicilio o no se proporcione el acuse de recibo respectivo dentro de los veintiún días siguientes a la fecha de su envío, la notificación se fijará en la Tabla de Avisos de las Oficinas Centrales, así como de las unidades administrativas regionales de la Secretaría que correspondan a la jurisdicción de la ubicación del lote. En este caso, la notificación surtirá sus efectos a los veintiún días de la fecha de su fijación en la Tabla de Avisos y las resoluciones deberán permanecer a la vista del público durante este plazo, haciéndose constar la fecha de fijación en el propio documento que las contenga.
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+Cuando el solicitante o concesionario decida o requiera la formulación y envío de promociones a través de medios electrónicos, así como la recepción de notificaciones, citatorios, emplazamientos, requerimientos, solicitudes de informes o documentos y resoluciones administrativas definitivas que se emitan por la misma vía, estará obligado a otorgar su consentimiento expreso en términos de la Ley de Firma Electrónica Avanzada y su Reglamento.
 
 ###### ARTÍCULO 7o.
 
@@ -297,15 +303,33 @@ Dicho certificado contendrá el apercibimiento de que la persona que impida u ob
 
 II. Si del estudio de la solicitud la unidad administrativa concluye que a la misma le falta algún requisito que impida su tramitación, prevendrá por escrito al interesado en los términos señalados al efecto por la Ley Federal de Procedimiento Administrativo. De no desahogarse la prevención notificará al solicitante que se desechará su trámite;
 
-III. Si la solicitud cumple con los requisitos para ser tramitada, o bien se desahogó en debida forma el requerimiento previsto en la fracción anterior, la unidad administrativa procederá al dictamen del informe de los trabajos periciales del lote minero, debiendo concluirlo en el término de veinte días hábiles contados a partir de la fecha de la presentación de éstos;
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-IV. De incumplir los trabajos periciales con las disposiciones previstas la unidad administrativa, dentro del término antes referido deberá prevenir por una sola vez al solicitante para que dentro de un plazo de veinte días hábiles subsane las deficiencias detectadas. Si no se satisface el requerimiento aludido, procederá a notificar el desechamiento de la solicitud, y
+II. Bis. Si la solicitud cumple con los requisitos para ser tramitada, o bien se desahogó en debida forma el requerimiento previsto en la fracción anterior, la unidad administrativa solicitará la información necesaria a las autoridades competentes, a fin de verificar si, dentro de la superficie en la que se solicita la concesión, se realiza alguna de las actividades preferentes de exploración y extracción de petróleo y de los demás hidrocarburos o del servicio público de transmisión y distribución de energía eléctrica. Las autoridades competentes contarán con un plazo de diez días hábiles, contado a partir del día siguiente al de la fecha de recepción de la solicitud de información correspondiente, para dar respuesta.
+
+En caso de que la información solicitada confirme la realización de alguna de las actividades preferentes a que se refiere el párrafo anterior dentro de la superficie para la que se solicita la concesión minera, la unidad administrativa deberá realizar en un plazo de noventa días hábiles el estudio técnico, en coordinación con la Secretaría de Energía, para determinar la factibilidad de que coexistan las actividades mineras con las actividades preferentes de exploración y extracción de petróleo y demás hidrocarburos, o con las del servicio público de transmisión y distribución de energía eléctrica en la misma superficie.
+
+Si derivado del estudio técnico a que se refiere el párrafo anterior se desprende la imposibilidad de la coexistencia de las actividades mineras con las actividades preferentes de exploración y extracción de petróleo y demás hidrocarburos, o del servicio público de transmisión y distribución de energía eléctrica en la misma superficie, se negará la solicitud correspondiente.
+
+En caso de que el estudio técnico a que se refiere esta fracción determine la incompatibilidad de las actividades mineras con las actividades preferentes sólo en algunas partes de la superficie solicitada, el solicitante deberá manifestar por escrito, dentro de los quince días hábiles siguientes al que se le notifique el estudio técnico, su intención de continuar con el trámite de concesión minera correspondiente, únicamente respecto de la superficie en la que exista la compatibilidad entre las actividades mineras y las actividades preferentes de exploración y extracción de petróleo y demás hidrocarburos, o del servicio público de transmisión y distribución de energía eléctrica. En caso de no realizar dicha manifestación en el plazo establecido se desechará la solicitud.
+
+La Secretaría y la Secretaría de Energía emitirán conjuntamente, y publicarán en el Diario Oficial de la Federación, las especificaciones que deberá contener el estudio técnico para determinar la factibilidad de la coexistencia de actividades mineras con las actividades preferentes de exploración y extracción de petróleo y demás hidrocarburos, o con las del servicio público de transmisión y distribución de energía eléctrica en la misma superficie.
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+III. Una vez que se determine la factibilidad de la coexistencia de las actividades mineras con las actividades preferentes conforme a la fracción anterior, así como, en su caso, de la recepción de la manifestación a que se refiere dicha fracción, la unidad administrativa procederá al dictamen del informe de los trabajos periciales del lote minero, debiendo concluirlo en el término de veinte días hábiles contados a partir de la fecha de la presentación de éstos;
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+IV. De incumplir los trabajos periciales con las disposiciones previstas la unidad administrativa, dentro del término antes referido deberá prevenir por una sola vez al solicitante para que dentro de un plazo de veinte días hábiles contado a partir del día siguiente al que se notifique la prevención, subsane las deficiencias detectadas. Si no se satisface el requerimiento aludido, procederá a notificar el desechamiento de la solicitud, y
 
 V. Si los trabajos periciales cumplen con los requisitos legales o se subsana el requerimiento formulado, la unidad administrativa dispondrá de un plazo de cinco días hábiles contado a partir de que concluya el término a que se refiere la fracción III anterior para emitir la proposición a título y continúe la tramitación de la solicitud.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
 ###### ARTÍCULO 18.
 
-El terreno a que se refiere una solicitud dejará de ser libre a partir de su registro, siempre y cuando los lados, rumbos y distancias del lote descrito configuren un polígono cerrado, se acredite el pago completo de los derechos por estudio y trámite de la solicitud, su punto de partida esté ligado con el perímetro del lote o ubicado sobre el mismo, y se cumpla con la presentación del informe de los trabajos periciales del lote minero, y en su caso se subsanen las deficiencias encontradas en ellos, lo anterior, a efecto de que legalmente constituya un lote minero, desde el momento de la presentación de la solicitud respectiva.
+El terreno a que se refiere una solicitud dejará de ser libre a partir de su registro, siempre y cuando los lados, rumbos y distancias del lote descrito configuren un polígono cerrado, se acredite el pago completo de los derechos por estudio y trámite de la solicitud, su punto de partida esté ligado con el perímetro del lote o ubicado sobre el mismo, no existan actividades preferentes de exploración y extracción de petróleo y demás hidrocarburos, o de servicio público de transmisión y distribución de energía eléctrica, en la misma superficie, o se determine la factibilidad de que dichas actividades coexistan con las actividades mineras y se cumpla con la presentación del informe de los trabajos periciales del lote minero, así como, en su caso, se subsanen las deficiencias encontradas en ellos, lo anterior, a efecto de que legalmente constituya un lote minero, desde el momento de la presentación de la solicitud respectiva.
 
 El terreno objeto de las solicitudes simultáneas a que se refiere el artículo 20 de este Reglamento, dejará de ser libre también a partir de su registro, siempre y cuando, además del cumplimiento de los requisitos mencionados en el párrafo anterior, tales solicitudes obtengan los mejores derechos en el sorteo que se efectúe para tal efecto y sean admitidas a estudio y trámite, o bien, hayan sido admitidas sin que se hubiere requerido la celebración del sorteo.
 
@@ -381,17 +405,23 @@ I. Dentro de los sesenta días hábiles siguientes a aquél en que sea admitida 
 
 II. En un plazo de veinte días hábiles, contado a partir de la fecha de recepción de los trabajos periciales por la unidad administrativa competente, la misma deberá determinar si éstos se apegan a lo previsto en este Reglamento y en las Normas Técnicas, y procederá, según el caso, conforme a lo señalado por las fracciones IV y V del artículo 17 de este Reglamento.
 
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
 ###### ARTÍCULO 23.
 
 A partir del día siguiente a aquél en que se reciba la proposición a título de la solicitud en Oficinas Centrales, la Secretaría procederá a convalidar cartográficamente dicha proposición contando con quince días hábiles para resolver sobre el otorgamiento del título de la concesión o asignación minera.
 
-Durante el plazo de respuesta antes citado, la Secretaría constatará el carácter libre del lote objeto de la solicitud y, si se satisfacen las demás condiciones y requisitos previstos por la Ley y este Reglamento, expedirá el título de concesión o de asignación minera, de acuerdo con los datos derivados de la propia solicitud, de la cartografía minera, de los expedientes involucrados y de los datos del Registro, por el lote solicitado o por la parte que tenga carácter de libre. En este caso, comunicará al solicitante los antecedentes de los terrenos que abarquen la parte no libre.
+Durante el plazo de respuesta antes citado, la Secretaría constatará el carácter libre del lote objeto de la solicitud, y, si se satisfacen las demás condiciones y requisitos previstos por la Ley y este Reglamento, expedirá el título de concesión o de asignación minera, de acuerdo con los datos derivados de la propia solicitud, del resultado del estudio técnico para determinar, en su caso, la factibilidad de la coexistencia de las actividades mineras con las actividades preferentes de exploración y extracción de petróleo y demás hidrocarburos, o de servicio público de transmisión y distribución de energía eléctrica, de la cartografía minera, de los expedientes involucrados y de los datos del Registro, por el lote solicitado o por la parte que tenga carácter de libre. En este caso, comunicará al solicitante los antecedentes de los terrenos que abarquen la parte no libre.
 
 Si la solicitud no satisface las condiciones y requisitos que establecen la Ley y este Reglamento, será desechada.
 
-El otorgamiento de las concesiones y de las asignaciones mineras a que se refiere este artículo, no exime a sus titulares de la obligación de cumplir con las disposiciones en materia ambiental, laboral, de asistencia social y de uso y manejo de explosivos, contenidas en la legislación aplicable.
+La Secretaría podrá negar la concesión minera cuando ésta determine con base en el estudio técnico que realice en coordinación con la Secretaría de Energía, que no puede coexistir en la misma superficie la actividad minera con las actividades preferentes de exploración y extracción de petróleo y demás hidrocarburos, o con las de servicio público de transmisión y distribución de energía eléctrica u otorgarla excluyendo la superficie que comprendan dichas actividades preferentes, en la medida en que resulten incompatibles con la explotación minera.
 
-La Secretaría dará aviso a las autoridades competentes en materia ambiental, laboral, de asistencia social y de uso y manejo de explosivos, de las concesiones y de las asignaciones mineras que otorgue.
+Con base en el estudio técnico a que se refiere el artículo 6 de la Ley, la Secretaría y la Secretaría de Energía podrán establecer de manera conjunta las reglas de convivencia entre las actividades mineras y las actividades estratégicas de exploración y extracción del petróleo y de los demás hidrocarburos y del servicio público de transmisión y distribución de energía eléctrica.
+
+El otorgamiento de las concesiones y de las asignaciones mineras a que se refiere este artículo, no exime a sus titulares de la obligación de cumplir con las disposiciones en materia energética, ambiental, laboral, de asistencia social y de uso y manejo de explosivos, contenidas en las disposiciones jurídicas aplicables.
+
+La Secretaría dará aviso a las autoridades competentes en materia energética, ambiental, laboral, de asistencia social y de uso y manejo de explosivos, de las concesiones y de las asignaciones mineras que otorgue.
 
 ###### ARTÍCULO 24.
 
@@ -401,11 +431,17 @@ De ser el caso, el solicitante identificará la posición del punto de partida m
 
 En caso de incertidumbre en la ubicación del punto de partida, se procederá a practicar visita de inspección a costa del titular, para que previa identificación del terreno se precise dicho punto.
 
-La Secretaría, dispondrá de un plazo de quince días hábiles, contado a partir de la recepción de la solicitud, para aprobar o negar la prórroga de vigencia de la concesión minera. Concluido dicho plazo sin que se emita resolución, se entenderá aprobada la solicitud respectiva.
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-Sin perjuicio de lo anterior, la Secretaría desaprobará la solicitud de prórroga de vigencia de la concesión, si sus titulares incumplieron con las obligaciones establecidas en el artículo 27 de la Ley, previo requerimiento al interesado para su cumplimiento.
+La Secretaría dispondrá de un plazo de quince días hábiles, contado a partir del día siguiente a la recepción de la solicitud, para aprobar o negar la prórroga de vigencia de la concesión minera. Concluido dicho plazo sin que se emita resolución, se entenderá aprobada la solicitud respectiva.
 
-En el caso de haber concluido la vigencia de la concesión sin haberse presentado la solicitud de prórroga o bien haberse presentado ésta extemporáneamente, la concesión se tendrá por cancelada en los términos de la fracción I del artículo 42 de la Ley, y se deberá publicar la libertad de terreno.
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+Sin perjuicio de lo anterior, la Secretaría desaprobará la solicitud de prórroga de vigencia de la concesión, si sus titulares incumplieron con las obligaciones establecidas en el artículo 27 de la Ley y, en su caso, las reglas de convivencia que emitan la Secretaría y la Secretaría de Energía, previo requerimiento al interesado para su cumplimiento.
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+En el caso de haber concluido la vigencia de la concesión sin haberse presentado la solicitud de prórroga o bien haberse presentado ésta extemporáneamente, la concesión se tendrá por cancelada en los términos de la fracción I del artículo 42 de la Ley, y se deberá publicar la libertad de terreno en el Diario Oficial de la Federación.
 
 ###### ARTÍCULO 25.
 
@@ -461,7 +497,33 @@ Cuando dicha declaratoria surta efectos en un día inhábil, el terreno o parte 
 
 VI. Unidad administrativa ante la cual los interesados podrán presentar, en su caso, solicitud de concesión o asignación minera, independientemente si el terreno objeto de libertad se encuentre en dos o más entidades federativas en los términos de los artículos 16 y 20 de este Reglamento.
 
-La Secretaría deberá proporcionar a los interesados la información que se le requiera en relación con el lote objeto de la declaratoria, incluyendo los trabajos periciales, siempre y cuando obren en el expediente, a partir de la publicación de la referida declaratoria, en el Diario Oficial de la Federación, para lo cual se estará al procedimiento establecido en el artículo 94 de este Reglamento.
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+Previo a la emisión de la declaratoria de libertad de terrenos, la Secretaría deberá solicitar a las autoridades competentes la información necesaria que le permita verificar si, dentro de la superficie en la que se emitirá la declaratoria de libertad, se realiza alguna de las actividades preferentes de exploración y extracción de petróleo y de los demás hidrocarburos o del servicio público de transmisión y distribución de energía eléctrica. Las autoridades competentes contarán con un plazo de cinco días hábiles, contado a partir del día siguiente al de la fecha de recepción de la solicitud de información correspondiente, para dar respuesta.
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+En caso de que la información solicitada confirme que en el terreno sobre el cual se pretende emitir la declaratoria de libertad se realiza alguna de las actividades preferentes a que se refiere el párrafo anterior, la Secretaría en un plazo de noventa días hábiles, deberá realizar un estudio técnico en coordinación con la Secretaría de Energía para determinar la factibilidad de la coexistencia de actividades mineras con las actividades de exploración y extracción de petróleo y demás hidrocarburos, o con las de servicio público de transmisión y distribución de energía eléctrica, en la misma superficie.
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+Si el estudio técnico determina que es factible la realización de ambas actividades en la misma superficie, emitirá la declaratoria sobre libertad de terreno, en caso contrario, quedará suspendida la declaratoria sobre libertad de terrenos hasta que concluyan las actividades preferentes en el terreno.
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+Si el estudio técnico a que se refiere este artículo determina que sólo una parte del terreno resulta incompatible para realizar actividades mineras con actividades preferentes, la Secretaría expedirá la declaratoria sobre libertad de terrenos excluyendo la superficie que comprendan las actividades preferentes.
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+En caso de que el terreno sobre el cual se pretenda emitir una declaratoria sobre libertad ya cuente con un estudio técnico sobre la factibilidad de la coexistencia de actividades mineras con las actividades preferentes de exploración y extracción de petróleo y demás hidrocarburos, o con las de servicio público de transmisión y distribución de energía eléctrica, se estará a lo establecido en dicho estudio y conforme a lo dispuesto en los párrafos anteriores.
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+Los plazos previstos en la Ley para la emisión de la declaratoria sobre libertad de terrenos quedarán suspendidos hasta que se haya emitido el estudio técnico sobre la factibilidad a que se refiere el artículo 6 de la Ley.
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+La Secretaría deberá proporcionar a los interesados la información que se le requiera en relación con el lote objeto de la declaratoria, incluyendo los trabajos periciales y el resultado del estudio técnico a que se refiere este artículo, siempre y cuando obren en el expediente, a partir de la publicación de la referida declaratoria en el Diario Oficial de la Federación, para lo cual se estará al procedimiento establecido en el artículo 94 de este Reglamento.
 
 ### CAPÍTULO II. De los Concursos para el Otorgamiento de Concesiones Mineras
 
@@ -484,6 +546,26 @@ VI. Mencionar las principales sustancias encontradas hasta el momento;
 VII. El lugar, fechas y horarios en que podrán ser adquiridas las bases del concurso, así como su costo, y
 
 VIII. La demás información que la Secretaría considere apropiada para propiciar la mayor participación en los concursos.
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+Previo a la emisión de la convocatoria a concurso, la Secretaría deberá solicitar a las autoridades competentes la información necesaria que le permita verificar si dentro de la superficie en la que se emitirá la convocatoria, se realiza alguna de las actividades preferentes de exploración y extracción de petróleo y de los demás hidrocarburos o del servicio público de transmisión y distribución de energía eléctrica. Las autoridades competentes contarán con un plazo de cinco días hábiles, contado a partir del día siguiente al de la fecha de recepción de la solicitud de información correspondiente, para dar respuesta.
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+En caso de que la información solicitada confirme que en el terreno sobre el cual se pretende emitir la convocatoria se realiza alguna de las actividades preferentes a que se refiere el párrafo anterior, la Secretaría en un plazo de noventa días hábiles, deberá realizar un estudio técnico en coordinación con la Secretaría de Energía para determinar la factibilidad de la coexistencia de actividades mineras con las actividades de exploración y extracción de petróleo y demás hidrocarburos, o con las de servicio público de transmisión y distribución de energía eléctrica, en la misma superficie.
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+Si el estudio técnico determina que es factible la realización de ambas actividades en la misma superficie, emitirá la convocatoria a concurso del terreno.
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+Asimismo, si el estudio técnico a que se refiere este artículo determina que sólo una parte del terreno es incompatible para realizar actividades mineras con actividades preferentes, la Secretaría emitirá la convocatoria a concurso sobre la superficie de terreno compatible excluyendo por tanto la superficie que comprendan las actividades preferentes.
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+En caso de que el terreno sobre el cual se pretenda emitir una convocatoria a concurso ya cuente con un estudio técnico sobre la factibilidad de la coexistencia de actividades mineras con las actividades preferentes de exploración y extracción de petróleo y demás hidrocarburos, o con las de servicio público de transmisión y distribución de energía eléctrica, se estará a lo establecido en dicho estudio y conforme a lo dispuesto en los párrafos anteriores.
 
 ###### ARTÍCULO 30.
 
@@ -639,21 +721,29 @@ Para incorporar una zona a reservas mineras, la Secretaría previamente deberá 
 
 ### CAPÍTULO I. De los Derechos Diversos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
 ###### ARTÍCULO 41.
 
-Conforme a lo dispuesto por el primer párrafo del artículo 20 de la Ley, las solicitudes para realizar obras y trabajos de exploración y de explotación de carbón en todas sus variedades en terrenos amparados por asignaciones petroleras, deberán contener:
+Conforme a lo dispuesto por el primer párrafo del artículo 20 de la Ley, las solicitudes para realizar obras y trabajos de exploración y de explotación de carbón en todas sus variedades, en terrenos amparados por asignaciones o por contratos para la exploración y extracción de hidrocarburos, en términos de la Ley de Hidrocarburos y demás disposiciones jurídicas aplicables, deberán contener:
 
 I. Nombre del concesionario o de quien lleve a cabo las obras y trabajos de exploración o de explotación mediante contrato;
 
 II. Los datos señalados en el artículo 16, fracciones II a VII de este Reglamento, referidos al lote minero que ampare la concesión, así como número de título;
 
-III. Datos que identifiquen a la asignación petrolera donde se desarrollarán las obras y trabajos, y
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+III. Datos que identifiquen a la asignación o los contratos para la exploración y extracción de hidrocarburos, donde se desarrollarán las obras y trabajos, y
 
 IV. Naturaleza de las obras y trabajos que se desarrollarán y la forma como se llevarán a cabo.
 
-La Secretaría turnará a la Secretaría de Energía copia de la solicitud para que, dentro de un plazo de veinte días contado a partir de la fecha de su recepción, opine sobre las condiciones técnicas a que deberán sujetarse. Transcurrido el plazo sin que se haya emitido opinión, ésta se entenderá emitida sin objeciones y la Secretaría resolverá lo que corresponda.
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-Si la Secretaría no notifica al interesado su resolución dentro de los veinticinco días siguientes a la fecha de recepción de la solicitud o de sus aclaraciones, ésta se tendrá por aprobada.
+La Secretaría turnará a la Secretaría de Energía copia de la solicitud para que, dentro de un plazo de veinte días hábiles contado a partir de la fecha de su recepción, opine sobre las condiciones técnicas a que deberán sujetarse. Transcurrido el plazo sin que se haya emitido opinión, ésta se entenderá emitida favorablemente.
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+La Secretaría autorizará las obras y trabajos de exploración y explotación de carbón en todas sus variedades, en terrenos amparados por asignaciones o por contratos para la exploración y extracción de hidrocarburos, cuando se cuente con la opinión favorable de la Secretaría de Energía.
 
 ###### ARTÍCULO 42.
 
@@ -1562,3 +1652,15 @@ Asimismo, la Secretaría seguirá expidiendo los acuerdos por los que se cancele
 SÉPTIMO.- Las referencias que los instrumentos jurídicos existentes y vigentes que se emitieron con fundamento en el Reglamento de la Ley Minera, publicado en el Diario Oficial de la Federación el 15 de febrero de 1999 que se abroga, hacen al Consejo de Recursos Minerales, se entenderán referidas al Servicio Geológico Mexicano.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de octubre de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Medio Ambiente y Recursos Naturales, Juan Rafael Elvira Quesada.- Rúbrica.- El Secretario de Energía, Jordy Hernán Herrera Flores.- Rúbrica.- El Secretario de Economía, Bruno Francisco Ferrari García de Alba.- Rúbrica.- El Secretario de la Función Pública, Rafael Morgan Ríos.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 31 DE OCTUBRE DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los trámites y procedimientos de cualquier naturaleza, pendientes de resolución al momento de entrar en vigor el presente Decreto, se substanciarán conforme a la regulación aplicable al momento de la presentación de los mismos, salvo lo relativo a la solicitud de estudio técnico para determinar la factibilidad de la coexistencia de actividades mineras con las actividades de exploración y extracción de petróleo y demás hidrocarburos, o con las de servicio público de transmisión y distribución de energía eléctrica, en la misma superficie, a que se refiere el artículo 6 de la Ley.
+
+TERCERO.- La Secretaría y la Secretaría de Energía podrán elaborar reglas para que las actividades mineras vigentes a la entrada en vigor del Decreto por el que se expide la Ley de Hidrocarburos y se reforman diversas disposiciones de la Ley de Inversión Extranjera; Ley Minera, y la Ley de Asociaciones Público Privadas, publicado en el Diario Oficial de la Federación el 11 de agosto de 2014, coexistan con las actividades de exploración y extracción de petróleo y demás hidrocarburos, en términos del numeral Cuarto del Artículo Cuarto de dicho Decreto.
+
+CUARTO.- Durante el primer año siguiente a la entrada en vigor de este Decreto, los plazos o términos previstos en él, que correspondan a la Secretaría de Energía, se ampliarán hasta por el tercio del tiempo previsto en dicho ordenamiento.
