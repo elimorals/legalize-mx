@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-medio-ambiente-y-90244"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-11-26"
-last_updated: "2012-11-26"
+last_updated: "2014-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90244&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-11-14"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE MEDIO AMBIENTE Y RECURSOS NATURALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE OCTUBRE DE 2014.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 26 de noviembre de 2012.
 
@@ -37,7 +37,27 @@ REGLAMENTO INTERIOR DE LA SECRETARÍA DE MEDIO AMBIENTE Y RECURSOS NATURALES
 
 La Secretaría de Medio Ambiente y Recursos Naturales, en lo sucesivo la Secretaría, como Dependencia del Poder Ejecutivo Federal, tiene a su cargo el ejercicio de las atribuciones que le confieren la Ley Orgánica de la Administración Pública Federal y otras leyes, así como los reglamentos, decretos, acuerdos y órdenes del Presidente de la República.
 
-Los términos “Secretario”, “Procurador” o “Comisionado”, se entenderán referidos respectivamente al Titular de la Secretaría de Medio Ambiente y Recursos Naturales, al Procurador Federal de Protección al Ambiente y al Comisionado Nacional de Áreas Naturales Protegidas. Del mismo modo, los términos “Secretaría”, “Procuraduría” o “Comisión”, corresponden respectivamente a la Secretaría de Medio Ambiente y Recursos Naturales, a la Procuraduría Federal de Protección al Ambiente y a la Comisión Nacional de Áreas Naturales Protegidas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+Para los efectos de este Reglamento se entenderá, por:
+
+I. Actividades del Sector Hidrocarburos: Las actividades descritas en el artículo 3, fracción XI de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos;
+
+II. Agencia: Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos;
+
+III. Comisión: Comisión Nacional de Áreas Naturales Protegidas;
+
+IV. Comisionado: Comisionado Nacional de Áreas Naturales Protegidas;
+
+V. Procurador: Procurador Federal de Protección al Ambiente;
+
+VI. Procuraduría: Procuraduría Federal de Protección al Ambiente;
+
+VII. Secretaría: Secretaría de Medio Ambiente y Recursos Naturales, y
+
+VIII. Secretario: Secretario de Medio Ambiente y Recursos Naturales.
 
 ###### ARTÍCULO 2.
 
@@ -101,21 +121,57 @@ XXVIII. Dirección General de Recursos Materiales, Inmuebles y Servicios;
 
 XXIX. Dirección General de Informática y Telecomunicaciones;
 
-XXX. Delegaciones Federales, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXXI. Órganos Desconcentrados:
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XXX. Delegaciones Federales;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XXXI. Órganos Administrativos Desconcentrados:
 
 a. Procuraduría Federal de Protección al Ambiente;
 
-b. Comisión Nacional de Áreas Naturales Protegidas, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-c. Comisión Nacional del Agua.
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-La Comisión Nacional del Agua ejercerá las atribuciones que se señalen en su propio Reglamento Interior.
+b. Comisión Nacional de Áreas Naturales Protegidas;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+c. Comisión Nacional del Agua, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+d. Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XXXII. Coordinación Ejecutiva de Vinculación Institucional.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+La Comisión Nacional del Agua y la Agencia ejercerán las atribuciones que se señalen en su propio Reglamento Interior.
 
 La Secretaría contará con un Órgano Interno de Control que se regirá por lo dispuesto en el artículo 88 de este Reglamento.
 
-Asimismo, la Dependencia contará con las unidades subalternas que se señalen en el Manual de Organización General de la Secretaría y, en su caso, en el de sus órganos desconcentrados, previa autorización de las Secretarías de Hacienda y Crédito Público y de la Función Pública.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+Asimismo, la Secretaría contará con las unidades subalternas que se señalen en el Manual de Organización General de la Secretaría y, en su caso, en el de sus órganos administrativos desconcentrados, previa autorización de las Secretarías de Hacienda y Crédito Público y de la Función Pública.
 
 ###### ARTÍCULO 3.
 
@@ -133,7 +189,11 @@ Corresponde originalmente al Secretario, la representación, trámite y resoluci
 
 El Secretario tendrá las facultades indelegables siguientes:
 
-I. Establecer, dirigir y controlar las políticas ambientales de la Secretaría, incluidos sus órganos desconcentrados y las entidades del Sector, de conformidad con la legislación aplicable y con las políticas nacionales, el Plan Nacional de Desarrollo y demás programas, objetivos y metas que determine el Presidente de la República, así como emitir normas, lineamientos, políticas y otras disposiciones de carácter general en ejercicio de las atribuciones que conforme a las leyes competan a la Dependencia;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+I. Establecer, dirigir y controlar las políticas ambientales de la Secretaría, incluidos sus órganos administrativos desconcentrados y las entidades del Sector, de conformidad con la legislación aplicable y con las políticas nacionales, el Plan Nacional de Desarrollo y demás programas, objetivos y metas que determine el Presidente de la República, así como emitir normas, lineamientos, políticas y otras disposiciones de carácter general en ejercicio de las atribuciones que conforme a las leyes competan a la Dependencia, excepto aquellas disposiciones administrativas de carácter general y las normas oficiales mexicanas aplicables a las Actividades del Sector Hidrocarburos;
 
 II. Acordar con el Presidente de la República, los asuntos encomendados a la Secretaría y a las entidades del Sector, que así lo ameriten y desempeñar las comisiones y funciones que le confiera, manteniéndolo informado sobre el desarrollo de las mismas;
 
@@ -255,11 +315,19 @@ XXI. Las demás que les confiera el Titular de la Secretaría, las que les seña
 
 El Subsecretario de Planeación y Política Ambiental tendrá las siguientes atribuciones:
 
-I. Formular, coordinar e integrar las políticas ambientales de la Secretaría, con la participación de las unidades administrativas competentes, así como los programas, las acciones, las directrices y metas de planeación del Sector Medio Ambiente y Recursos Naturales que, en el marco del Sistema Nacional de Planeación Democrática, correspondan;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+I. Formular, coordinar e integrar las políticas ambientales de la Secretaría, con la participación de las unidades administrativas y órganos administrativos desconcentrados competentes, así como los programas, las acciones, las directrices y metas de planeación del Sector Medio Ambiente y Recursos Naturales que, en el marco del Sistema Nacional de Planeación Democrática, correspondan;
 
 II. Proponer al Secretario las acciones y estrategias que se requieran para la formulación, ejecución y evaluación de los instrumentos de planeación del Sector Medio Ambiente y Recursos Naturales, con la participación que corresponda a las demás unidades administrativas, órganos desconcentrados de la Secretaría y organismos públicos descentralizados del Sector;
 
-III. Formular, coordinar, conducir y evaluar, con la participación de las unidades administrativas competentes, la política ambiental nacional en las materias de competencia del Sector Medio Ambiente y Recursos Naturales;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+III. Formular, coordinar, conducir y evaluar, con la participación de las unidades administrativas y órganos administrativos desconcentrados competentes, la política ambiental nacional en las materias de competencia del Sector Medio Ambiente y Recursos Naturales;
 
 IV. Formular y coordinar la política nacional de cambio climático con la participación que corresponda a las unidades administrativas, órganos desconcentrados de la Secretaría, y organismos públicos descentralizados del Sector, así como a las dependencias y entidades de la Administración Pública Federal;
 
@@ -271,7 +339,11 @@ VII. Dar seguimiento a las acciones realizadas con base en los financiamientos p
 
 VIII. Asesorar a las unidades administrativas de la Secretaría y sus órganos desconcentrados en materia de financiamiento estratégico;
 
-IX. Proponer al Secretario, con la participación que corresponda a las Subsecretarías de Fomento y Normatividad Ambiental, y de Gestión para la Protección al Ambiente, las políticas y lineamientos de carácter integral, que permitan realizar la planeación regional;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+IX. Proponer al Secretario, con la participación que corresponda a las Subsecretarías de Fomento y Normatividad Ambiental, de Gestión para la Protección al Ambiente y los órganos administrativos desconcentrados, las políticas y lineamientos de carácter integral, que permitan realizar la planeación regional;
 
 X. Fungir, con la participación que corresponda de la Dependencia competente, como autoridad nacional designada conforme al Mecanismo para un Desarrollo Limpio del Protocolo de Kioto, emitir las cartas de aprobación de proyectos que se propongan y promover el desarrollo de proyectos del Mecanismo para un Desarrollo Limpio en otras nacionales, así como sus fuentes de financiamiento;
 
@@ -295,21 +367,49 @@ XVIII. Las demás que le confiera el Titular de la Secretaría y las que le señ
 
 El Subsecretario de Fomento y Normatividad Ambiental tendrá las siguientes atribuciones:
 
-I. Proponer al Secretario y coordinar la ejecución de los programas de mejora regulatoria a cargo de la Secretaría y ser el enlace institucional ante la Comisión Federal de Mejora Regulatoria;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Proponer al Secretario, con la participación que corresponda a las unidades administrativas centrales y órganos desconcentrados de la Secretaría, las políticas institucionales en materia regulatoria y dictar los criterios que en materia de normalización y fomento ambiental resulten aplicables;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-III. Expedir, previa aprobación del Comité Consultivo Nacional de Normalización de Medio Ambiente y Recursos Naturales, con la participación que corresponda a las unidades administrativas centrales y órganos desconcentrados competentes de la Secretaría, las normas oficiales mexicanas competencia de la Secretaría, con excepción de aquellas que por disposición de ley corresponda expedir al Secretario, así como los avisos de prórroga de vigencia de las normas oficiales mexicanas de emergencia, de conformidad con la legislación aplicable;
+I. Proponer al Secretario y coordinar la ejecución de los programas de mejora regulatoria a cargo de la Secretaría y fungir como enlace institucional ante la Comisión Federal de Mejora Regulatoria; excepto cuando se trate de las Actividades del Sector Hidrocarburos, en cuyo caso la Agencia ejercerá las atribuciones señaladas en la presente fracción;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+II. Proponer al Secretario, con la participación que corresponda a las unidades administrativas centrales y órganos administrativos desconcentrados de la Secretaría, las políticas institucionales en materia regulatoria y dictar los criterios que en materia de normalización y fomento ambiental resulten aplicables, con excepción de criterios en materia de normalización y fomento ambiental que se relacionen con Actividades del Sector Hidrocarburos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+III. Expedir, previa aprobación del Comité Consultivo Nacional de Normalización de Medio Ambiente y Recursos Naturales, con la participación que corresponda a las unidades administrativas y órganos administrativos desconcentrados competentes de la Secretaría, las normas oficiales mexicanas competencia de la Secretaría, con excepción de aquéllas que por disposición de ley corresponda expedir al Secretario o a los titulares de los órganos administrativos desconcentrados. Del mismo modo, en las materias de su competencia expedirá, en su caso, los avisos de cancelación de las normas oficiales mexicanas o sus acuerdos modificatorios, así como los avisos de prórroga de vigencia de las normas oficiales mexicanas de emergencia, de conformidad con la legislación aplicable;
 
 IV. Presidir el Comité Consultivo Nacional de Normalización de Medio Ambiente y Recursos Naturales;
 
-V. Expedir lineamientos y procedimientos de evaluación de la conformidad de las normas oficiales mexicanas, de conformidad con la Ley Federal sobre Metrología y Normalización;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VI. Elaborar y expedir, con la participación que corresponda a las unidades administrativas centrales de la Secretaría y sus órganos desconcentrados, los criterios, lineamientos y procedimientos de certificación de calidad ambiental, de conformidad con la Ley Federal sobre Metrología y Normalización;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-VII. Promover, diseñar e impulsar la creación de los instrumentos de fomento ambiental que incentiven la realización de acciones para la preservación y restauración del equilibrio ecológico y la protección al ambiente con apoyo, en su caso, de la Unidad Coordinadora de Asuntos Jurídicos;
+V. Expedir lineamientos y procedimientos de evaluación de la conformidad de las normas oficiales mexicanas que expida, observando las disposiciones contenidas en la Ley Federal sobre Metrología y Normalización;
 
-VIII. Evaluar y, en su caso apoyar, las manifestaciones de impacto regulatorio que elaboren las distintas áreas de la Secretaría y emitir las observaciones necesarias para garantizar que los beneficios sean mayores que los costos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+VI. Elaborar y expedir, con la participación que corresponda a las unidades administrativas de la Secretaría y sus órganos administrativos desconcentrados, los criterios, lineamientos y procedimientos de certificación de calidad ambiental, de conformidad con la Ley Federal sobre Metrología y Normalización. Se excluye el ejercicio de esta facultad cuando se trate de criterios, lineamientos y procedimientos de certificación de calidad ambiental relativas a las Actividades del Sector Hidrocarburos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+VII. Promover, diseñar e impulsar la creación de los instrumentos de fomento ambiental que incentiven la realización de acciones para la preservación y restauración del equilibrio ecológico y la protección al ambiente. Se excluye el ejercicio de esta facultad cuando se trate de instrumentos de fomento ambiental relativos a las Actividades del Sector Hidrocarburos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+VIII. Evaluar las manifestaciones de impacto regulatorio que elaboren las distintas áreas de la Secretaría y, en su caso, apoyar a éstas en dicha elaboración, así como emitir las observaciones necesarias para garantizar que los beneficios sean mayores que los costos. Se excluye el ejercicio de esta facultad cuando se trate de manifestaciones de impacto regulatorio relativas a las Actividades del Sector Hidrocarburos;
 
 IX. Coordinar la inscripción de trámites y servicios a cargo de la Secretaría y sus órganos desconcentrados, así como elaborar y proponer los instrumentos jurídicos necesarios para tal efecto, y
 
@@ -367,6 +467,12 @@ V. Establecer las normas, sistemas y procedimientos para la administración de l
 
 VI. Intervenir en la constitución y gestión de instrumentos financieros que, de acuerdo con la normatividad aplicable, permitan recibir donativos a favor de la Secretaría, en coordinación con la Subsecretaría de Planeación y Política Ambiental;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+VI Bis. Constituir el fideicomiso público al cual hace referencia el artículo 37 de la Ley de la Agencia en los términos de las disposiciones jurídicas aplicables;
+
 VII. Administrar los donativos que reciba la Secretaría, conforme a la normatividad aplicable, y verificar su exacta aplicación para los fines que fueron otorgados;
 
 VIII. Establecer, desarrollar e implementar en el Sector Medio Ambiente y Recursos Naturales, en coordinación con las áreas competentes, prácticas administrativas, programas y estrategias de transparencia, rendición de cuentas y combate a la corrupción, innovación, calidad y dignificación del servicio público, a fin de que contribuyan a mejorar procesos y servicios del mismo, así como verificar su observancia y difundir sus resultados;
@@ -401,7 +507,11 @@ XXII. Establecer las políticas para la operación de los sistemas de correspond
 
 XXIII. Autorizar los programas internos de protección civil y de seguridad, así como establecer sus normas de operación, desarrollo y evaluación;
 
-XXIV. Presidir los Comités de Adquisiciones, Arrendamientos y Servicios, de Bienes Muebles, así como la Unidad Interna de Protección Civil;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XXIV. Presidir los Comités de Adquisiciones, Arrendamientos y Servicios, de Obra Pública, de Bienes Muebles, así como la Unidad Interna de Protección Civil, excepto en los casos en que dicha presidencia se atribuya expresamente a unidades administrativas específicas adscritas a órganos administrativos desconcentrados;
 
 XXV. Autorizar las propuestas de modificación a las estructuras orgánicas y ocupacionales, así como de las plantillas de personal operativo de la Secretaría, conforme a las disposiciones establecidas en la materia y que para tal efecto emitan las dependencias competentes de la Administración Pública Federal;
 
@@ -411,7 +521,11 @@ XXVII. Programar la distribución del presupuesto asignado a la Secretaría, tom
 
 XXVIII. Poner a disposición del público en general, a través de medios remotos o locales de comunicación electrónica, la información que generen las unidades administrativas de su adscripción, en los términos de la legislación aplicable;
 
-XXIX. Establecer los mecanismos necesarios para que las unidades administrativas de la Secretaría, cuenten con los recursos humanos y materiales que se requieran para atender lo relacionado con la materia de transparencia y acceso a la información;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XXIX. Establecer los mecanismos necesarios para que las unidades administrativas de la Secretaría, cuenten con los recursos humanos y materiales que se requieran para atender lo relacionado con la materia de transparencia y acceso a la información, salvo en lo que corresponda a las Actividades del Sector Hidrocarburos;
 
 XXX. Proponer al Secretario la política del Sector en materia de informática y telecomunicaciones, y
 
@@ -482,6 +596,12 @@ XXVI. Auxiliar en la coordinación de las gestiones que las unidades administrat
 XXVII. Impulsar, cuando se vincule con la materia de la competencia de la Secretaría, la generación de estudios, disposiciones jurídicas, lineamientos y políticas con perspectiva de derechos humanos, de igualdad de género, de desarrollo de los pueblos indígenas y de la juventud, conforme a los estándares internacionales en dichas materias, y
 
 XXVIII. Las demás que le confiera el Titular de la Secretaría y las que le señalen las disposiciones legales y reglamentarias.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+Las atribuciones señaladas en las fracciones I, III, IV, VII, IX, X, XI y XIII del presente artículo se ejercerán por la Agencia cuando se trate de materias, proyectos u obras relacionadas con las Actividades del Sector Hidrocarburos.
 
 ###### ARTÍCULO 13.
 
@@ -557,7 +677,11 @@ VIII. Representar al Secretario ante el Tribunal Federal de Conciliación y Arbi
 
 IX. Formular, a nombre de la Secretaría, las denuncias y querellas que a su juicio correspondan, otorgar discrecionalmente el perdón, aprobar el otorgamiento de éste, solicitado por los delegados federales de la Secretaría; solicitar al órgano jurisdiccional en el procedimiento penal la coadyuvancia, y vigilar la secuencia de las diligencias o juicios respectivos;
 
-X. Coadyuvar con las unidades administrativas competentes para presentar denuncias penales por ocupaciones ilegales de los inmuebles federales a su cargo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+X. Coadyuvar con las unidades administrativas competentes, que no tengan atribución expresa para ello, para presentar denuncias penales por ocupaciones ilegales de los inmuebles federales a su cargo;
 
 XI. Solicitar la intervención del Procurador General de la República en los asuntos contenciosos que le competan en los términos del artículo 102 de la Constitución Política de los Estados Unidos Mexicanos, proporcionándole opinión jurídica y elementos de juicio en cada caso;
 
@@ -571,7 +695,9 @@ XV. Suscribir todo tipo de convenios ante autoridades administrativas, judiciale
 
 XVI. Designar, autorizar y delegar tanto a los servidores públicos adscritos a la Unidad Coordinadora de Asuntos Jurídicos como a los servidores públicos que ostenten puestos en los que se desempeñen funciones internas de asesoría, dictaminación y defensa jurídica, adscritos a las unidades administrativas de la Secretaría, facultades para ejercer las atribuciones previstas en este artículo, así como para representar, contestar demandas, denunciar, querellarse, comparecer a audiencias e intervenir en todo tipo de diligencias y actuaciones jurisdiccionales, ofrecer pruebas, interponer recursos y, en general, realizar todo tipo de actos tendentes a la defensa de los intereses de la Secretaría;
 
-XVII. Coadyuvar, en el ámbito de su competencia, en las actividades que correspondan al funcionamiento de los órganos de gobierno de las entidades sectorizadas a la Secretaría, así como fungir como secretaría técnica de las juntas de gobierno de los organismos descentralizados, consejos técnicos o equivalentes en los que el Secretario sea presidente y ser el encargado de dictar los lineamientos para el seguimiento de las reuniones, de conformidad con las disposiciones jurídicas aplicables;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+XVII. (DEROGADA, D.O.F. 31 DE OCTUBRE DE 2014)
 
 XVIII. Designar, dentro de los notarios autorizados por la Dependencia competente para ello, a los que deben intervenir en las operaciones inmobiliarias o de otra índole competencia de la Secretaría;
 
@@ -595,7 +721,11 @@ XXVII. Fijar, sistematizar, unificar y difundir, para efectos administrativos, l
 
 XXVIII. Validar los actos de naturaleza jurídica que en uso de sus facultades indelegables deba emitir el Secretario, y someterlos a su consideración y, en su caso, aprobación;
 
-XXIX. Dictaminar jurídicamente, previo a su presentación ante el Comité Consultivo Nacional de Normalización correspondiente, los proyectos de normas oficiales mexicanas, las respuestas a los comentarios derivados de su consulta pública y las normas oficiales mexicanas definitivas que en el ámbito de su competencia expida la Secretaría, así como gestionar la publicación correspondiente en el Diario Oficial de la Federación;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XXIX. Dictaminar jurídicamente, previo a su presentación ante el Comité Consultivo Nacional de Normalización correspondiente, los proyectos de normas oficiales mexicanas, las respuestas a los comentarios derivados de su consulta pública y las normas oficiales mexicanas definitivas que en el ámbito de su competencia expida la Secretaría, así como gestionar la publicación correspondiente en el Diario Oficial de la Federación. Se excluyen del ejercicio de esta facultad las normas oficiales mexicanas o proyectos de éstas, así como las normas oficiales mexicanas de emergencia relativas a las Actividades del Sector Hidrocarburos;
 
 XXX. Solicitar a la Dependencia competente la reivindicación de la propiedad federal administrada por la Secretaría, así como la destinada a ésta;
 
@@ -603,7 +733,11 @@ XXXI. Participar con las unidades administrativas competentes de la Secretaría 
 
 XXXII. Tramitar y someter a la consideración del Secretario, los expedientes relativos a los procedimientos previstos en la Ley de Expropiación y otras disposiciones legales aplicables, en los casos de afectaciones de todo tipo que realice la Secretaría;
 
-XXXIII. Gestionar ante el Diario Oficial de la Federación, las publicaciones de los instrumentos jurídicos que emita la Secretaría y sus órganos desconcentrados;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XXXIII. Gestionar ante el Diario Oficial de la Federación, las publicaciones de los instrumentos jurídicos que emita la Secretaría y sus órganos administrativos desconcentrados, cuando dicha atribución no esté asignada expresamente a otro órgano administrativo desconcentrado de la Secretaría;
 
 XXXIV. Participar, en coordinación con la Unidad Coordinadora de Asuntos Internacionales, en la atención de peticiones ciudadanas en el marco del Acuerdo de Cooperación Ambiental de América del Norte;
 
@@ -639,7 +773,11 @@ VIII. Organizar conferencias de prensa, expedir boletines y otros materiales inf
 
 IX. Realizar estudios de opinión en materia ambiental en la población abierta, así como en audiencias específicas, para orientar las acciones de la Coordinación;
 
-X. Actuar como vocero oficial de la Secretaría, de acuerdo a los lineamientos establecidos por la Secretaría de Gobernación;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+X. Actuar como vocero oficial de la Secretaría, de acuerdo a los lineamientos establecidos por la Secretaría de Gobernación. Se excluye del ejercicio de esta facultad lo relativo a la información que corresponda a las Actividades del Sector Hidrocarburos o a la actuación y actividades que desarrolle la Agencia;
 
 XI. Manejar e incrementar el acervo gráfico institucional;
 
@@ -665,7 +803,11 @@ II. Establecer criterios para conducir las relaciones entre las unidades adminis
 
 III. Fijar criterios y lineamientos, con base en las políticas que determine el Secretario, respecto de la concertación de las delegaciones federales con los sectores social y privado, para su participación en los diversos planes y programas;
 
-IV. Participar en la celebración de acuerdos de coordinación y convenios de concertación, según corresponda, conjuntamente con las unidades administrativas y órganos desconcentrados de la Secretaría, con los gobiernos de las entidades federativas y municipales, así como con organizaciones de los sectores social y privado, para promover el ejercicio de las atribuciones asignadas a la Dependencia;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+IV. Participar en la celebración de acuerdos de coordinación y convenios de concertación, según corresponda, conjuntamente con las unidades administrativas y órganos administrativos desconcentrados de la Secretaría, con los gobiernos de las entidades federativas y municipales, así como con organizaciones de los sectores social y privado, para promover el ejercicio de las atribuciones asignadas a la Dependencia. Se excluye del ejercicio de esta facultad la participación en la celebración de acuerdos de coordinación y convenios de concertación, cuando se trate de las materias relativas a las Actividades del Sector Hidrocarburos;
 
 V. Proponer al Secretario y participar en el diseño, instrumentación y seguimiento de normas, programas y disposiciones de observancia general que corresponda aplicar a las delegaciones federales y emitir, en su caso, las recomendaciones respectivas;
 
@@ -953,7 +1095,11 @@ XI. Participar, en colaboración con la Unidad Coordinadora de Participación So
 
 XII. Emitir, en el ámbito de su competencia y previa solicitud de la unidad administrativa correspondiente de la Secretaría, opinión de congruencia sobre las actividades sujetas al procedimiento de evaluación de impacto ambiental y a otros procesos deliberativos que deriven del ejercicio de sus atribuciones; así como de la implementación de proyectos y programas de aprovechamiento sustentable de los recursos naturales, cuando se ubiquen en zonas reguladas por programas de ordenamiento ecológico del territorio vigentes;
 
-XIII. Coordinar las políticas y establecer los lineamientos y estrategias de actuación sobre manejo de riesgo ambiental a nivel nacional, con la participación que corresponda a las unidades administrativas, órganos desconcentrados, delegaciones federales de la Secretaría, en coordinación con otras dependencias y entidades federales y en colaboración con los gobiernos de las entidades federativas y municipios;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XIII. Coordinar las políticas y establecer los lineamientos y estrategias de actuación sobre manejo de riesgo ambiental a nivel nacional, con la participación que corresponda a las unidades administrativas, órganos administrativos desconcentrados, delegaciones federales de la Secretaría, en coordinación con otras dependencias y entidades federales y en colaboración con los gobiernos de las entidades federativas y municipios, salvo en las materias que correspondan al Sector Hidrocarburos;
 
 XIV. Promover la integración de las políticas ambientales con las demás políticas sectoriales en el contexto regional, y realizar las acciones y estrategias necesarias para su ejecución territorial con la participación de las autoridades federales, de las entidades federativas y de los municipios competentes;
 
@@ -967,7 +1113,11 @@ XVII. Las demás que expresamente le confiera el Titular de la Secretaría y las
 
 La Dirección General del Sector Primario y Recursos Naturales Renovables tendrá las atribuciones siguientes:
 
-I. Diseñar, coordinar y promover, en el ámbito de competencia de la Secretaría, instrumentos de fomento y normatividad ambiental para el desarrollo sustentable de las actividades del sector primario en la agricultura, ganadería, silvicultura, acuacultura, caza, pesca y la bioseguridad de organismos genéticamente modificados, a fin de impulsar el aprovechamiento, conservación y restauración de suelos y agua, así como de los recursos naturales renovables en ecosistemas terrestres, marinos y acuáticos, preservar la biodiversidad y los recursos genéticos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+I. Diseñar, coordinar y promover, en el ámbito de competencia de la Secretaría, instrumentos de fomento y normatividad ambiental para el desarrollo sustentable de las actividades del sector primario en la agricultura, ganadería, silvicultura, acuacultura, caza, pesca y bioseguridad de organismos genéticamente modificados, a fin de impulsar el aprovechamiento, conservación y restauración de suelos y aguas, así como de los recursos naturales renovables en ecosistemas terrestres, marinos y acuáticos, y de preservar la biodiversidad y los recursos genéticos, con excepción de la bioseguridad de los organismos genéticamente modificados que se utilicen en la remediación de sitios en donde se ubiquen instalaciones en las que se realicen o hayan realizado Actividades del Sector Hidrocarburos;
 
 II. Identificar las causas, elementos y efectos de los problemas ambientales de las actividades del sector primario y recursos a que se refiere la fracción I de este artículo, y del aprovechamiento sustentable en dichas actividades de los recursos naturales y genéticos citados en la misma fracción, a través de estudios e investigaciones con la participación de las correspondientes unidades administrativas y órganos desconcentrados de la Secretaría, de las dependencias y entidades competentes de la Administración Pública Federal y de los gobiernos estatales, municipales o del Distrito Federal, así como de los sectores social y privado;
 
@@ -997,11 +1147,19 @@ XIV. Promover ante los distintos sectores de la sociedad, el desarrollo sustenta
 
 XV. Diseñar y promover procedimientos, criterios, políticas y lineamientos que se deberán seguir para la aprobación de los organismos de certificación, los laboratorios de prueba o de calibración y las unidades de verificación, que realicen o pretendan realizar la evaluación de la conformidad de normas oficiales mexicanas, respecto de las actividades y recursos a que se refiere la fracción I de este artículo;
 
-XVI. Desarrollar y promover, conjuntamente con las autoridades competentes, los instrumentos normativos y de fomento a que se refiere la Ley de Bioseguridad de Organismos Genéticamente Modificados y su Reglamento;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XVI. Desarrollar y promover, conjuntamente con las autoridades competentes, los instrumentos normativos y de fomento a que se refiere la Ley de Bioseguridad de Organismos Genéticamente Modificados y su Reglamento; con excepción de los relativos a los organismos genéticamente modificados que se utilicen en la remediación de sitios en donde se ubiquen instalaciones en las que se realicen o hayan realizado actividades del Sector Hidrocarburos;
 
 XVII. Participar en la formulación del proyecto de Carta Nacional Pesquera y sus actualizaciones en los términos de la Ley General de Pesca y Acuacultura Sustentable y su Reglamento, en coordinación con la Dirección General de Vida Silvestre;
 
-XVIII. Proponer, diseñar y promover mecanismos para el manejo, aprovechamiento sustentable y conservación de la calidad del agua superficial y subterránea, que incorporen tecnologías para el tratamiento de las aguas residuales y de su reúso;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XVIII. Proponer, diseñar y promover mecanismos para el manejo, aprovechamiento sustentable y conservación de la calidad del agua superficial y subterránea, que incorporen tecnologías para el tratamiento de las aguas residuales y de su reúso; siempre que esa atribución no esté conferida de manera expresa o implícitamente a otras unidades administrativas u órganos administrativos desconcentrados de la Secretaría;
 
 XIX. Proponer las normas oficiales mexicanas a inscribir en el Programa Nacional de Normalización y las nuevas regulaciones a inscribir en el Programa de Mejora Regulatoria, respecto de las actividades y recursos a que se refiere la fracción I de este artículo, y
 
@@ -1011,15 +1169,35 @@ XX. Las demás que expresamente le confiera el Titular de la Secretaría y las q
 
 La Dirección General de Industria tendrá las atribuciones siguientes:
 
-I. Identificar las causas y efectos de los problemas ambientales de las actividades de los sectores industrial y del consumo, a través del diagnóstico, análisis, estudios e investigaciones, con la participación de las correspondientes unidades administrativas y órganos desconcentrados de la Secretaría, de las dependencias y entidades competentes de la Administración Pública Federal y de los gobiernos estatales, municipales y del Distrito Federal, así como de los sectores social y privado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Proponer a la Subsecretaría de Fomento y Normatividad Ambiental, los objetivos y estrategias de regulación, normatividad y fomento, respecto de los impactos de las actividades de producción y consumo, en la contaminación de la atmósfera por fuentes fijas y fuentes móviles nuevas, así como respecto de la generación de residuos peligrosos y la operación de las actividades consideradas como altamente riesgosas, para su incorporación en los instrumentos de planeación a cargo de la Secretaría. Asimismo, diseñar programas de mejora regulatoria y elaborar los reportes de avance de los mismos, respecto de los sectores de su competencia;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-III. Impulsar la integración de un sistema normativo y de fomento ambiental respecto de las actividades de los sectores de la producción y el consumo, para el aprovechamiento sustentable y la protección de los recursos naturales y ecosistemas de la contaminación y residuos generados en dichas actividades, en el que participen los gobiernos federal, estatal, municipal o, en su caso, del Distrito Federal así como proponer a la unidad administrativa competente de la Secretaría, las reformas jurídicas para tal efecto;
+I. Identificar las causas y efectos de los problemas ambientales de las actividades de los sectores industrial y del consumo, excepto las que se relacionen con las Actividades del Sector Hidrocarburos, a través del diagnóstico, análisis, estudios e investigaciones, con la participación de las correspondientes unidades administrativas y órganos administrativos desconcentrados de la Secretaría, de las dependencias y entidades competentes de la Administración Pública Federal y de los gobiernos estatales, municipales y del Distrito Federal, así como de los sectores social y privado;
 
-IV. Evaluar los efectos ambientales generados por la aplicación de las normas e instrumentos de fomento ambiental para el desarrollo sustentable de las actividades de los sectores industrial y del consumo, así como para el aprovechamiento sustentable y la protección de los recursos naturales y ecosistemas de la contaminación y residuos generados en dichas actividades;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V. Diseñar y promover, en el ámbito de competencia de la Secretaría, instrumentos de fomento y normatividad ambiental para proteger los recursos naturales y los ecosistemas, respecto de la contaminación al suelo, al agua y a la atmósfera, visual, térmica, lumínica, sonora, vibraciones y de olores, de los residuos peligrosos, y del riesgo ambiental, que generen las actividades de los sectores de la industria de la transformación y el consumo;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+II. Proponer a la Subsecretaría de Fomento y Normatividad Ambiental, los objetivos y estrategias de regulación, normatividad y fomento, respecto de los impactos de las actividades de producción y consumo, en la contaminación de la atmósfera por fuentes fijas y fuentes móviles nuevas, así como respecto de la generación de residuos peligrosos y la operación de las actividades consideradas como altamente riesgosas, con excepción de las relativas a las Actividades del Sector Hidrocarburos, para su incorporación en los instrumentos de planeación a cargo de la Secretaría. Asimismo, diseñar programas de mejora regulatoria y elaborar los reportes de avance de los mismos, respecto de los sectores de su competencia;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+III. Impulsar la integración de un sistema normativo y de fomento ambiental respecto de las actividades de los sectores de su competencia, para el aprovechamiento sustentable y la protección de los recursos naturales y ecosistemas de la contaminación y residuos generados en dichas actividades, en el que participen los gobiernos federal, estatal, municipal o, en su caso, del Distrito Federal así como proponer a la unidad administrativa competente de la Secretaría, las reformas jurídicas para tal efecto;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+IV. Evaluar los efectos ambientales generados por la aplicación de las normas e instrumentos de fomento ambiental para el desarrollo sustentable de las actividades de los sectores de su competencia, así como para el aprovechamiento sustentable y la protección de los recursos naturales y ecosistemas de la contaminación y residuos generados en dichas actividades;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+V. Diseñar y promover, en el ámbito de competencia de la Secretaría, instrumentos de fomento y normatividad ambiental para proteger los recursos naturales y los ecosistemas, respecto de la contaminación al suelo, al agua y a la atmósfera, visual, térmica, lumínica, sonora, vibraciones y de olores, de los residuos peligrosos, y del riesgo ambiental, que generen las actividades de los sectores de la industria de la transformación y el consumo, con excepción de las Actividades del Sector Hidrocarburos;
 
 VI. Diseñar los procedimientos para la evaluación de la conformidad del cumplimiento con las normas oficiales mexicanas y coordinar la elaboración de las manifestaciones de impacto regulatorio respecto de los sectores de su competencia;
 
@@ -1039,7 +1217,11 @@ XII. Las demás que expresamente le confiera el Titular de la Secretaría y las 
 
 La Dirección General de Fomento Ambiental, Urbano y Turístico tendrá las atribuciones siguientes:
 
-I. Diseñar, coordinar, promover y, en su caso implementar o realizar, en el ámbito de competencia de la Secretaría, los instrumentos de fomento y la normatividad ambiental para proteger los recursos naturales y los ecosistemas, así como la calidad del medio ambiente; prevenir y mitigar los efectos del cambio climático generados por los gases de efecto invernadero respecto de la contaminación a la atmósfera, al agua y al suelo, visual, lumínica, térmica, sonora, vibraciones y de olores, así como de los residuos sólidos, que generen las actividades de los sectores del desarrollo urbano, el transporte, los servicios y el turismo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+I. Diseñar, coordinar, promover y, en su caso, implementar o realizar, en el ámbito de competencia de la Secretaría, los instrumentos de fomento y la normatividad ambiental para proteger los recursos naturales y los ecosistemas, así como la calidad del medio ambiente; prevenir y mitigar los efectos del cambio climático generados por los gases de efecto invernadero respecto de la contaminación a la atmósfera, al agua y al suelo, visual, lumínica, térmica, sonora, vibraciones y de olores, así como de los residuos sólidos, que generen las actividades de los sectores del desarrollo urbano, el transporte, los servicios y el turismo, con excepción de las Actividades del Sector Hidrocarburos;
 
 II. Identificar las causas, elementos y efectos de los problemas ambientales, así como respecto al aprovechamiento sustentable y la protección de los recursos naturales y ecosistemas de la contaminación y residuos generados en dichas actividades, a través de estudios e investigaciones, que permitan sustentar el diseño de instrumentos normativos y de fomento ambiental que coadyuven a la atención integral de la problemática ambiental de los sectores a que se refiere la fracción I de este artículo, con la participación de las correspondientes unidades administrativas y órganos desconcentrados de la Secretaría, de las dependencias y entidades competentes de la Administración Pública Federal y de los gobiernos de las entidades federativas y municipales, así como de los sectores social y privado;
 
@@ -1105,47 +1287,121 @@ XXXII. Diseñar, coordinar y llevar a cabo el registro de los planes de manejo e
 
 XXXIII. Las demás que expresamente le confiera el Titular de la Secretaría y las que le señalen las disposiciones legales y reglamentarias.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+Las atribuciones contenidas en las fracciones XXIII, XXIV, XXV, XXIX y XXX del presente artículo se ejercerán por la Agencia en términos de su Reglamento Interior, cuando se trate de residuos peligrosos y de manejo especial generados por las actividades del Sector Hidrocarburos.
+
 ###### ARTÍCULO 27.
 
 La Dirección General de Energía y Actividades Extractivas tendrá las siguientes atribuciones:
 
-I. Diseñar y promover en el ámbito de competencia de la Secretaría, los instrumentos de fomento y de normatividad para prevenir, controlar y remediar la contaminación proveniente de cualquier tipo de fuente y energía al aire, al agua y al suelo, que generen los sectores de energía y de actividades extractivas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+I. Diseñar y promover en el ámbito de la competencia de la Secretaría, los instrumentos de fomento y de normatividad para prevenir, controlar y remediar la contaminación proveniente de cualquier tipo de fuente y energía al aire, al agua y al suelo, que generen los sectores de su competencia;
 
 II. Realizar y coordinar estudios o investigaciones, con la participación de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría, de las dependencias de la Administración Pública Federal competentes, de los gobiernos estatales, municipales o del Distrito Federal, así como de los sectores social y privado para:
 
-a) Determinar las causas y efectos de los problemas ambientales generados por los sectores de energía y actividades extractivas, respecto del aprovechamiento racional y sustentable de los recursos naturales no renovables, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+a) Determinar las causas y efectos de los problemas ambientales generados por los sectores de su competencia, respecto del aprovechamiento racional y sustentable de los recursos naturales no renovables, y
 
 b) Determinar las mejores prácticas para la prevención, control y remediación de la contaminación que pudieran generar dichos sectores;
 
-III. Coordinar y concertar, en el ámbito de su competencia, con instituciones de investigación y de educación superior, organizaciones no gubernamentales, empresas y particulares, la elaboración de estudios, análisis, diagnósticos y propuestas sobre la problemática ambiental;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV. Diseñar normas, criterios e instrumentos de fomento que apoyen la adopción de tecnologías ambientalmente sustentables e inocuas en las actividades de los sectores de energía y de actividades extractivas;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-V. Dictaminar los proyectos normativos e instrumentos de fomento ambiental que se generen en las unidades administrativas y órganos desconcentrados de la Secretaría, así como opinar sobre los que se generen en otras dependencias federales respecto de las actividades a que se refiere la fracción I de este artículo;
+III. Coordinar y concertar con instituciones de investigación y de educación superior, organizaciones no gubernamentales, empresas y particulares, la elaboración de estudios, análisis, diagnósticos y propuestas sobre la problemática ambiental que se genera o puede generarse por las actividades que desarrollan los sectores de su competencia;
 
-VI. Formular o promover, conforme a su competencia, la elaboración y modificación de disposiciones jurídicas y administrativas para lograr objetivos de regulación, normatividad y fomento de desarrollo sustentable en los sectores de energía y actividades extractivas, así como respecto del aprovechamiento racional y sustentable de los recursos naturales no renovables y de la prevención, remediación y control de la contaminación generada por dichos sectores, que afecte los recursos naturales y los ecosistemas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VII. Impulsar el establecimiento de un sistema normativo y de fomento ambiental respecto de los sectores de energía y actividades extractivas, así como del aprovechamiento racional y sustentable de los recursos naturales no renovables y de la prevención, remediación y control de la contaminación generada por dichos sectores, que afecte los recursos naturales y los ecosistemas, en el que participen los gobiernos federal, estatal, municipal, o del Distrito Federal, así como promover las modificaciones jurídicas necesarias para tal efecto;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-VIII. Diseñar instrumentos de fomento ambiental de carácter económico, social, ecológico y jurídico para promover el desarrollo sustentable de los sectores de energía y actividades extractivas, así como para el aprovechamiento racional y sustentable de los recursos naturales no renovables y la prevención, remediación y control de la contaminación generada por dichos sectores, que afecte los recursos naturales y los ecosistemas;
+IV. Diseñar normas, criterios e instrumentos de fomento que apoyen la adopción de tecnologías ambientalmente sustentables e inocuas en las actividades de los sectores de su competencia;
 
-IX. Diseñar criterios y lineamientos ambientales para la elaboración de programas y proyectos de desarrollo sustentable de los sectores de energía y actividades extractivas, así como para el aprovechamiento racional y sustentable de los recursos naturales no renovables y la prevención, remediación y control de la contaminación generada por dichos sectores, que afecte los recursos naturales y los ecosistemas e impulsar su aplicación con las entidades federativas y municipios;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-X. Participar en consejos consultivos, comités y otros grupos colegiados para la elaboración de instrumentos de fomento y normatividad ambiental para el desarrollo sustentable de los sectores de energía y actividades extractivas, así como para el aprovechamiento racional y sustentable de los recursos naturales no renovables y la prevención, remediación y control de la contaminación generada por dichos sectores que afecte los recursos naturales y los ecosistemas; asimismo, coordinar los grupos de trabajo respectivos;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-XI. Promover la participación de los responsables de las industrias de los sectores energético y de actividades extractivas, en el diseño e instrumentación de normas y programas de fomento ambiental y desarrollo sustentable aplicables a los sectores de energía y actividades extractivas, así como para el aprovechamiento racional y sustentable de los recursos naturales no renovables y a la prevención, remediación y control de la contaminación generada por dichos sectores, que afecte los recursos naturales y los ecosistemas;
+V. Dictaminar los proyectos normativos e instrumentos de fomento ambiental que se generen en las unidades administrativas y órganos administrativos desconcentrados de la Secretaría, así como opinar sobre los que se generen en otras dependencias federales respecto de las actividades que efectúan los sectores de su competencia;
 
-XII. Impulsar la difusión, capacitación y adiestramiento de los encargados de la aplicación y certificación de los instrumentos normativos y de fomento ambiental, para el desarrollo sustentable de los sectores de energía y actividades extractivas, así como para el aprovechamiento racional y sustentable de los recursos naturales no renovables y la prevención, remediación y control de la contaminación generada por dichos sectores, que afecte los recursos naturales y los ecosistemas, con criterios de industria limpia, sistemas de administración ambiental, mecanismos de prevención de riesgos y convenios de autorregulación;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XIII. Elaborar y suscribir acuerdos de seguimiento, aplicación y evaluación, respecto de la elaboración y modificación de normas e instrumentos de fomento ambiental respecto de los sectores de energía y actividades extractivas, así como para el aprovechamiento racional y sustentable de los recursos naturales no renovables y la prevención, remediación y control de la contaminación generada por dichos sectores, que afecte los recursos naturales y los ecosistemas, en coordinación con las autoridades federales, estatales y municipales o del Distrito Federal correspondientes;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-XIV. Promover, en coordinación con otras unidades administrativas de la Secretaría, la celebración de contratos, convenios y acuerdos de cooperación y asistencia técnica con organismos internacionales y nacionales, públicos o privados, para apoyar el desarrollo sustentable de los sectores de energía y actividades extractivas, así como para el aprovechamiento racional y sustentable de los recursos naturales no renovables y la prevención, remediación y control de la contaminación generada por dichos sectores, que afecte los recursos naturales y los ecosistemas, en su caso, bajo las políticas y lineamientos que emita la Unidad Coordinadora de Asuntos Internacionales;
+VI. Promover ante las instancias competentes la elaboración y modificación de disposiciones jurídicas y administrativas para lograr objetivos de regulación, normatividad y fomento de desarrollo sustentable en los sectores de su competencia, así como respecto del aprovechamiento racional y sustentable de los recursos naturales no renovables y de la prevención, remediación y control de la contaminación generada por dichos sectores, que afecte los recursos naturales y los ecosistemas;
 
-XV. Proponer, ante las autoridades competentes, la expedición de declaratorias y programas para el desarrollo sustentable de los sectores de energía y actividades extractivas, así como para el aprovechamiento racional y sustentable de los recursos naturales no renovables y la prevención, remediación y control de la contaminación generada por dichos sectores, que afecte los recursos naturales y los ecosistemas, conforme a las disposiciones jurídicas aplicables;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XVI. Organizar y coadyuvar con las unidades administrativas competentes de la Secretaría, en la celebración de congresos, ferias, seminarios, foros, exposiciones, certámenes nacionales e internacionales que fomenten la cultura del desarrollo sustentable de los sectores de energía y actividades extractivas, así como del aprovechamiento racional y sustentable de los recursos naturales no renovables y la prevención, remediación y control de la contaminación generada por dichos sectores, que afecte los recursos naturales y los ecosistemas;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-XVII. Evaluar los efectos ambientales generados por la aplicación de las normas e instrumentos de fomento ambiental para el desarrollo sustentable de los sectores de energía y actividades extractivas, así como para el aprovechamiento racional y sustentable de los recursos naturales no renovables y la prevención, remediación y control de la contaminación generada por dichos sectores, que afecte los recursos naturales y los ecosistemas;
+VII. Impulsar el establecimiento de un sistema normativo y de fomento ambiental respecto a las actividades efectuadas por los sectores de su competencia, así como del aprovechamiento racional y sustentable de los recursos naturales no renovables y de la prevención, remediación y control de la contaminación generada por dichos sectores, que afecten los recursos naturales y los ecosistemas, en el que participen los gobiernos federal, estatal, municipal, o del Distrito Federal, así como promover las modificaciones jurídicas necesarias para tal efecto;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+VIII. Diseñar instrumentos de fomento ambiental de carácter económico, social, ecológico y jurídico para promover el desarrollo sustentable de los sectores de su competencia, así como para el aprovechamiento racional y sustentable de los recursos naturales no renovables y la prevención, remediación y control de la contaminación generada por dichos sectores, que afecte los recursos naturales y los ecosistemas;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+IX. Diseñar criterios y lineamientos ambientales para la elaboración de programas y proyectos de desarrollo sustentable de los sectores de su competencia, así como para el aprovechamiento racional y sustentable de los recursos naturales no renovables y la prevención, remediación y control de la contaminación generada por dichos sectores, que afecte los recursos naturales y los ecosistemas e impulsar su aplicación con las entidades federativas y municipios;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+X. Participar en consejos consultivos, comités y otros grupos colegiados para la elaboración de instrumentos de fomento y normatividad ambiental para el desarrollo sustentable de los sectores de su competencia, así como para el aprovechamiento racional y sustentable de los recursos naturales no renovables y la prevención, remediación y control de la contaminación generada por dichos sectores que afecte los recursos naturales y los ecosistemas; asimismo, coordinar los grupos de trabajo respectivos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XI. Promover la participación de los responsables de las industrias de los sectores de su competencia, en el diseño e instrumentación de normas y programas de fomento ambiental y desarrollo sustentable aplicables a los sectores de energía y actividades extractivas, así como para el aprovechamiento racional y sustentable de los recursos naturales no renovables y a la prevención, remediación y control de la contaminación generada por dichos sectores, que afecte los recursos naturales y los ecosistemas;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XII. Impulsar la difusión, capacitación y adiestramiento de los encargados de la aplicación y certificación de los instrumentos normativos y de fomento ambiental, para el desarrollo sustentable de los sectores de su competencia, así como para el aprovechamiento racional y sustentable de los recursos naturales no renovables y la prevención, remediación y control de la contaminación generada por dichos sectores, que afecte los recursos naturales y los ecosistemas, con criterios de industria limpia, sistemas de administración ambiental, mecanismos de prevención de riesgos y convenios de autorregulación;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XIII. Elaborar y suscribir acuerdos de seguimiento, aplicación y evaluación, respecto de la elaboración y modificación de normas e instrumentos de fomento ambiental respecto de los sectores de su competencia, así como para el aprovechamiento racional y sustentable de los recursos naturales no renovables y la prevención, remediación y control de la contaminación generada por dichos sectores, que afecte los recursos naturales y los ecosistemas, en coordinación con las autoridades federales, estatales y municipales o del Distrito Federal correspondientes;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XIV. Promover, en coordinación con otras unidades administrativas de la Secretaría, la celebración de contratos, convenios y acuerdos de cooperación y asistencia técnica con organismos internacionales y nacionales, públicos o privados, para apoyar el desarrollo sustentable de los sectores de su competencia, así como para el aprovechamiento racional y sustentable de los recursos naturales no renovables y la prevención, remediación y control de la contaminación generada por dichos sectores, que afecte los recursos naturales y los ecosistemas, en su caso, bajo las políticas y lineamientos que emita la Unidad Coordinadora de Asuntos Internacionales;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XV. Proponer, ante las autoridades competentes, la expedición de declaratorias y programas para el desarrollo sustentable de los sectores de su competencia, así como para el aprovechamiento racional y sustentable de los recursos naturales no renovables y la prevención, remediación y control de la contaminación generada por dichos sectores, que afecte los recursos naturales y los ecosistemas, conforme a las disposiciones jurídicas aplicables;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XVI. Organizar y coadyuvar con las unidades administrativas competentes de la Secretaría, en la celebración de congresos, ferias, seminarios, foros, exposiciones, certámenes nacionales e internacionales que fomenten la cultura del desarrollo sustentable de los sectores de su competencia, así como del aprovechamiento racional y sustentable de los recursos naturales no renovables y la prevención, remediación y control de la contaminación generada por dichos sectores, que afecte los recursos naturales y los ecosistemas;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XVII. Evaluar los efectos ambientales generados por la aplicación de las normas e instrumentos de fomento ambiental para el desarrollo sustentable de los sectores de su competencia, así como para el aprovechamiento racional y sustentable de los recursos naturales no renovables y la prevención, remediación y control de la contaminación generada por dichos sectores, que afecte los recursos naturales y los ecosistemas;
 
 XVIII. Diseñar y operar evaluaciones de instrumentos normativos y de fomento, respecto de las actividades a que se refiere la fracción I de este artículo;
 
@@ -1159,15 +1415,33 @@ XXII. Promover ante las autoridades competentes, programas ambientales e instrum
 
 XXIII. Promover acciones de concertación con el sector privado, tendentes a la ampliación de la generación de energía eléctrica a través de fuentes de energía renovables, así como mecanismos para su interconexión;
 
-XXIV. Promover la inversión para el aprovechamiento racional y sustentable de los recursos naturales no renovables y para la prevención, remediación y control de la contaminación generada por las actividades a que se refiere la fracción I de este artículo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXV. Proponer a la Subsecretaría de Fomento y Normatividad Ambiental la participación de la Secretaría en los paneles de negociación del Tratado de Libre Comercio de América del Norte, y en los de otros instrumentos internacionales en los que se involucre al sector de energía, el aprovechamiento racional y sustentable de los recursos naturales no renovables, y la prevención, remediación y control de la contaminación generada por las actividades a que se refiere la fracción I de este artículo, en coordinación con la Unidad Coordinadora de Asuntos Internacionales;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-XXVI. Promover el cumplimiento de los compromisos que sobre normatividad y fomento ambiental en energía y actividades extractivas, establezcan las dependencias y organismos del Gobierno Federal en el Programa Sectorial de Medio Ambiente y Recursos Naturales;
+XXIV. Promover la inversión para la prevención, remediación y control de la contaminación generada por las actividades efectuadas por los sectores de su competencia;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XXV. Proponer a la Subsecretaría de Fomento y Normatividad Ambiental la participación de la Secretaría en los paneles de negociación del Tratado de Libre Comercio de América del Norte, y en los de otros instrumentos internacionales en los que se involucre a las actividades que efectúan los sectores de su competencia, en coordinación con la Unidad Coordinadora de Asuntos Internacionales;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XXVI. Promover el cumplimiento de los compromisos que sobre normatividad y fomento ambiental en los sectores de su competencia, establezcan las dependencias y organismos del Gobierno Federal en el Programa Sectorial de Medio Ambiente y Recursos Naturales;
 
 XXVII. Proponer a la Subsecretaría de Fomento y Normatividad Ambiental, los objetivos y estrategias de regulación, normatividad y fomento, respecto de las actividades a que se refiere la fracción I de este artículo, para su incorporación en los instrumentos de planeación a cargo de la Secretaría, y
 
 XXVIII. Las demás que expresamente le confiera el Titular de la Secretaría y las que le señalen las disposiciones legales y reglamentarias.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+Para los efectos de este artículo, los sectores que son competencia de la Dirección General de Energía y Actividades Extractivas son todos aquéllos que efectúan actividades relacionadas con la producción de energía y con actividades extractivas, con excepción de las Actividades del Sector Hidrocarburos.
 
 ###### ARTÍCULO 28.
 
@@ -1213,13 +1487,27 @@ XIX. Remitir al Subsecretario de su adscripción, en la etapa procesal que se en
 
 XX. Las demás que expresamente le confiera el Titular de la Secretaría y las que le señalen las disposiciones legales y reglamentarias.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+Las atribuciones contenidas en el presente artículo no son de la competencia de la Dirección General de Impacto y Riesgo Ambiental cuando se trate de proyectos, obras o actividades del Sector Hidrocarburos, cuyos trámites, gestión, regulación, supervisión y demás actos administrativos corresponden a la Agencia, conforme a lo previsto en el artículo 7o., fracción I de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos.
+
 ###### ARTÍCULO 29.
 
 La Dirección General de Gestión Integral de Materiales y Actividades Riesgosas tendrá las atribuciones siguientes:
 
-I. Aplicar la política general sobre materiales y residuos peligrosos, la remediación de sitios contaminados por los mismos y la realización de actividades altamente riesgosas, así como participar en su formulación con las unidades administrativas competentes de la Secretaría;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Expedir, suspender, revocar o anular, total o parcialmente, conforme a las disposiciones jurídicas aplicables, autorizaciones, y registros para la realización de actividades altamente riesgosas, el manejo de materiales y residuos peligrosos, la transferencia de sitios contaminados, el tratamiento de suelos contaminados y materiales semejantes a suelos y la prestación de los servicios correspondientes, así como autorizar la transferencia, modificación o prórroga de las mismas, de conformidad con las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+I. Aplicar la política general sobre materiales y residuos peligrosos, la remediación de sitios contaminados por los mismos y la realización de actividades altamente riesgosas, así como participar en su formulación con las unidades administrativas competentes de la Secretaría, salvo cuando se trate de residuos generados por las Actividades del Sector Hidrocarburos y la remediación de sitios donde se ubiquen las instalaciones en las que se realicen o hayan realizado las Actividades del Sector Hidrocarburos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+II. Expedir, suspender, revocar o anular, total o parcialmente, conforme a las disposiciones jurídicas aplicables, autorizaciones y registros para la realización de actividades altamente riesgosas, el manejo de materiales y residuos peligrosos, la transferencia de la propiedad de sitios contaminados, el tratamiento de suelos contaminados y materiales semejantes a suelos y la prestación de los servicios correspondientes, así como autorizar la transferencia, modificación o prórroga de las mismas, de conformidad con las disposiciones jurídicas aplicables. Se excluyen del ejercicio de esta facultad las actividades señaladas en esta fracción cuando las mismas correspondan a las Actividades del Sector Hidrocarburos;
 
 III. Coordinarse con las entidades federativas y los municipios para formular y ejecutar programas de remediación en sitios contaminados con residuos peligrosos que se encuentren abandonados o que se desconozca su propietario o poseedor de conformidad con las disposiciones jurídicas aplicables, así como para llevar a cabo acciones para identificar, inventariar, registrar y categorizar los sitios contaminados con residuos peligrosos con objeto de determinar si procede su remediación;
 
@@ -1229,9 +1517,17 @@ V. Apoyar a la Unidad Coordinadora de Participación Social y Transparencia en l
 
 VI. Participar, como miembro permanente, en los comités consultivos nacionales de normalización que se constituyan en la Secretaría, en las materias a que se refiere el presente artículo;
 
-VII. Desarrollar los criterios técnicos para el manejo de materiales y residuos peligrosos, así como la prevención y control de la contaminación del suelo por materiales y residuos peligrosos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VIII. Emitir observaciones y recomendaciones sobre los estudios de riesgo ambiental de actividades altamente riesgosas en operación, analizar, y participar en la evaluación de los estudios de riesgo que se presenten con las manifestaciones de impacto ambiental e informes preventivos de nuevos proyectos, así como expedir, modificar, suspender, revocar o anular, total o parcialmente la aprobación de los programas para la prevención de accidentes, de conformidad con las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+VII. Desarrollar los criterios técnicos para el manejo de materiales y residuos peligrosos, así como la prevención y control de la contaminación del suelo por materiales y residuos peligrosos, con excepción de los materiales y residuos que se generen por Actividades del Sector Hidrocarburos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+VIII. Emitir observaciones y recomendaciones sobre los estudios de riesgo ambiental de actividades altamente riesgosas en operación, analizar, y participar en la evaluación de los estudios de riesgo que se presenten con las manifestaciones de impacto ambiental e informes preventivos de nuevos proyectos, así como expedir, modificar, suspender, revocar o anular, total o parcialmente la aprobación de los programas para la prevención de accidentes, de conformidad con las disposiciones jurídicas aplicables, con excepción de los estudios y programas que correspondan a las Actividades del Sector Hidrocarburos;
 
 IX. Participar con la Dirección General de Estadística e Información Ambiental en el establecimiento de los requerimientos y elementos para obtener información relevante sobre materiales y residuos peligrosos, sitios contaminados y actividades altamente riesgosas;
 
@@ -1241,13 +1537,21 @@ XI. Suscribir, en las materias de su competencia, convenios con los gobiernos de
 
 XII. Aplicar el procedimiento de notificación relativo a la importación y exportación de materiales y residuos peligrosos, en cumplimiento de los tratados internacionales en los que el país sea parte, y respecto a los accidentes que los involucren, con la participación que, en su caso, que corresponda a otras dependencias y entidades de la Administración Pública Federal;
 
-XIII. Dar cumplimiento a los compromisos y proyectos internacionales relacionados con el manejo sustentable de materiales y residuos peligrosos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XIII. Dar cumplimiento a los compromisos y proyectos internacionales relacionados con el manejo sustentable de materiales y residuos peligrosos, salvo que se trate de materiales o residuos peligrosos provenientes de Actividades del Sector Hidrocarburos;
 
 XIV. Participar en el proceso de evaluación para el registro de plaguicidas, nutrientes vegetales y sustancias y materiales tóxicos o peligrosos, conjuntamente con las dependencias competentes en la materia; autorizar su importación y exportación, emitir criterios técnicos en la materia e intervenir como suplente del representante de la Secretaría ante los organismos intersecretariales que tengan a cargo dichas actividades;
 
 XV. Apoyar a las autoridades competentes, en la formulación y ejecución de programas vinculados al manejo de materiales y residuos peligrosos o sitios contaminados que puedan causar desequilibrios ecológicos;
 
-XVI. Evaluar las acciones para la remediación de sitios contaminados que se propongan en los programas respectivos y determinar las acciones de remediación que procedan;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XVI. Evaluar las acciones para la remediación de sitios contaminados que se propongan en los programas respectivos y, en su caso, determinar las acciones de remediación que procedan, salvo que se trate de acciones de remediación de sitios en donde se ubiquen instalaciones en las que se realicen o hayan realizado Actividades del Sector Hidrocarburos;
 
 XVII. Participar con las unidades administrativas competentes, en la elaboración del Diagnóstico Básico para la Gestión Integral de los Residuos;
 
@@ -1261,7 +1565,17 @@ XXI. Participar en la integración de los subsistemas de información nacional s
 
 XXII. Coadyuvar con las entidades federativas para la instrumentación de los programas para la prevención y gestión integral de los residuos y otorgar asistencia técnica;
 
-XXIII. Integrar y actualizar el registro de generadores de residuos peligrosos, así como registrar los planes de manejo que se presenten ante la Secretaría y, en su caso, emitir observaciones y recomendaciones respecto de aquéllos que, de conformidad con las disposiciones jurídicas aplicables, deban someterse a la consideración de ésta;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XXIII. Integrar y actualizar el registro de generadores de residuos peligrosos, salvo que se trate de residuos peligrosos generados por Actividades del Sector Hidrocarburos, en cuyo caso, la Agencia integrará y actualizará el registro correspondiente y, en su caso, se coordinará con esta Dirección General para la actualización de la información que ésta requiera;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XXIII Bis. Registrar los planes de manejo de residuos peligrosos que se presenten ante la Secretaría y, en su caso, emitir observaciones y recomendaciones respecto de aquéllos que, de conformidad con las disposiciones jurídicas aplicables, deban someterse a la consideración de esta Dependencia, excepto cuando los planes de manejo correspondan a los residuos peligrosos generados por las Actividades del Sector Hidrocarburos;
 
 XXIV. Tramitar los procedimientos relativos al otorgamiento, modificación, prórroga, revocación, suspensión, anulación, declaración de nulidad, ineficacia o extinción, parcial o total, de los permisos, licencias o autorizaciones, en las materias de su competencia, que se hayan presentado ante las delegaciones federales cuando hayan sido atraídos por el Subsecretario de su adscripción en términos de la fracción VIII del artículo 9 del presente Reglamento y, formular y proponerle el proyecto de resolución correspondiente;
 
@@ -1275,7 +1589,11 @@ La Dirección General de Gestión de la Calidad del Aire y Registro de Emisiones
 
 I. Instrumentar y participar en la formulación de la política general de gestión ambiental y manejo sustentable de cuencas atmosféricas, con un enfoque de planeación regional determinada por la existencia de uno o varios ecosistemas o cuencas, en coordinación con las autoridades competentes de los tres órdenes de gobierno y, en su caso, con las unidades administrativas de la Secretaría;
 
-II. Expedir las autorizaciones en materia de emisiones a la atmósfera, así como las licencias, permisos o constancias en las materias de su competencia, resolver sobre su actualización o modificación y suscribir todos los actos de autoridad de competencia federal en materia de atmósfera, conforme a las disposiciones jurídicas aplicables, así como suspenderlas, revocarlas o cancelarlas en cumplimiento a resoluciones administrativas o judiciales;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+II. Expedir las autorizaciones en materia de emisiones a la atmósfera, así como las licencias, permisos o constancias en las materias de su competencia, resolver sobre su actualización o modificación y suscribir todos los actos de autoridad de competencia federal en materia de atmósfera, conforme a las disposiciones jurídicas aplicables, así como suspenderlas, revocarlas o cancelarlas en cumplimiento a resoluciones administrativas o judiciales. Se excluyen del ejercicio de esta facultad las emisiones generadas por Actividades del Sector Hidrocarburos o en las instalaciones de dichos sectores;
 
 III. Integrar y difundir el Registro de Emisiones y Transferencia de Contaminantes al aire, agua, suelo y subsuelo, materiales y residuos competencia de la Secretaría, y de aquellas substancias que determinen las autoridades competentes, con la participación que corresponda a las demás unidades administrativas de la Secretaría, así como definir e instrumentar los mecanismos de recopilación y seguimiento de información, incluyendo la cédula de operación anual;
 
@@ -1283,11 +1601,19 @@ IV. Gestionar que las entidades federativas y los municipios, instrumenten, en e
 
 V. Promover y apoyar técnicamente a los gobiernos locales en la elaboración y aplicación de los programas de gestión de la calidad del aire, y en la gestión del monitoreo ambiental, así como aprobar los programas de gestión de calidad del aire elaborados por los gobiernos locales para el cumplimiento de las normas oficiales mexicanas respectivas;
 
-VI. Llevar a cabo la gestión en la prevención y control de la contaminación originada por ruido, vibraciones, energía térmica y lumínica provenientes de fuentes fijas y móviles de competencia federal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+VI. Llevar a cabo la gestión en la prevención y control de la contaminación originada por ruido, vibraciones, energía térmica y lumínica provenientes de fuentes fijas y móviles de competencia federal, excepto cuando ésta se produzca por las Actividades del Sector Hidrocarburos o en las instalaciones de dicho sector;
 
 VII. Planear y organizar el seguimiento y evaluación de los avances en el abatimiento de emisiones de contaminantes a la atmósfera, con la colaboración de las autoridades federales, de las entidades federativas y municipales competentes;
 
-VIII. Participar en la definición y aplicación de políticas, estrategias e instrumentos en materia de prevención y control de la contaminación al aire generada por emisiones proveniente de las fuentes fijas y móviles de jurisdicción federal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+VIII. Participar en la definición y aplicación de políticas, estrategias e instrumentos en materia de prevención y control de la contaminación al aire generada por emisiones proveniente de las fuentes fijas y móviles de jurisdicción federal, excepto cuando se trate de contaminación producida por Actividades del Sector Hidrocarburos o en las instalaciones de dicho sector;
 
 IX. Participar con los órganos desconcentrados y unidades administrativas competentes de la Secretaría y de otras dependencias y entidades de las administraciones federal, estatal y municipal o del Distrito Federal, en la promoción de acciones y medidas para la protección ambiental de las cuencas atmosféricas, así como en las materias de su competencia;
 
@@ -1295,9 +1621,17 @@ X. Participar y representar a la Secretaría en las instancias de coordinación 
 
 XI. Promover ante los gobiernos de las entidades federativas y municipios, el fortalecimiento institucional local en materia de gestión de la calidad del aire y del Registro de Emisiones y Transferencia de Contaminantes, con la participación de las unidades administrativas y órganos desconcentrados competentes de la Secretaría;
 
-XII. Participar en coordinación con las autoridades locales en el diseño, establecimiento y actualización de los programas de contingencias ambientales atmosféricas, y dictaminar la inclusión o exención de las fuentes fijas de jurisdicción federal en dichos programas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XIII. Representar a la Secretaría y participar en la formulación de compromisos y proyectos internacionales relacionados con el manejo sustentable de cuencas atmosféricas, con la participación que corresponda a la Unidad Coordinadora de Asuntos Internacionales, así como ejecutar las acciones que le competan derivadas de los acuerdos establecidos;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XII. Participar en coordinación con las autoridades locales en el diseño, establecimiento y actualización de los programas de contingencias ambientales atmosféricas, y dictaminar la inclusión o exención de las fuentes fijas de jurisdicción federal en dichos programas, con la intervención que, en su caso, corresponda a la Agencia respecto de aquellas fuentes fijas en donde se desarrollen Actividades del Sector Hidrocarburos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XIII. Representar a la Secretaría y participar en la formulación de compromisos y proyectos internacionales relacionados con el manejo sustentable de cuencas atmosféricas, con la participación que corresponda a la Unidad Coordinadora de Asuntos Internacionales y a los órganos administrativos desconcentrados de la Secretaría competentes, así como ejecutar las acciones que le competan derivadas de los acuerdos establecidos;
 
 XIV. Aplicar las políticas nacionales y la normatividad sobre protección de la capa de ozono;
 
@@ -1307,7 +1641,11 @@ XVI. Promover el desarrollo de capacidades y, en su caso, asesorar técnicamente
 
 XVII. Participar en comités, comisiones y fideicomisos nacionales e internacionales para definir la gestión ambiental de las cuencas atmosféricas;
 
-XVIII. Participar y, en su caso, coordinar el diseño e instrumentación de estrategias integrales de gestión de la calidad del aire y su relación con la agenda nacional de energía y los programas de transporte y desarrollo urbano, entre otros, representando a la Secretaría en las diferentes actividades regionales y metropolitanas relacionadas con el manejo sustentable de las cuencas atmosféricas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XVIII. Participar y, en su caso, coordinar el diseño e instrumentación de estrategias integrales de gestión de la calidad del aire y su relación con la agenda nacional de energía y los programas de transporte y desarrollo urbano, entre otros, representando a la Secretaría en las diferentes actividades regionales y metropolitanas relacionadas con el manejo sustentable de las cuencas atmosféricas, sin perjuicio de las atribuciones que correspondan a la Agencia respecto de las emisiones del Sector Hidrocarburos;
 
 XIX. Participar con la Dirección General de Estadística e Información Ambiental, en el establecimiento de los requerimientos y elementos para generar, procesar y divulgar información sobre la emisión y transferencia de contaminantes, y sobre el seguimiento de los programas y acciones de gestión de la calidad del aire;
 
@@ -1357,7 +1695,11 @@ VII. Organizar y administrar el registro y padrón de destinatarios y concesiona
 
 VIII. Establecer lineamientos internos de carácter técnico y administrativo, sistemas y procedimientos para realizar y, en su caso, autorizar los trabajos de deslinde, delimitación, amojonamiento, zonificación y equipamiento de los bienes nacionales a que se refiere la fracción I de este artículo;
 
-IX. Otorgar, anular, nulificar y revocar, total o parcialmente, los proyectos de construcción, ampliación, reparación, adaptación o demolición de obras, acciones y servicios en los bienes nacionales a que se refiere la fracción I de este artículo, sin perjuicio de las atribuciones que correspondan a la Dirección General de Impacto y Riesgo Ambiental, así como a otras dependencias de la Administración Pública Federal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+IX. Otorgar, anular, nulificar y revocar, total o parcialmente, los proyectos de construcción, ampliación, reparación, adaptación o demolición de obras, acciones y servicios en los bienes nacionales a que se refiere la fracción I de este artículo, sin perjuicio de las atribuciones que corresponda ejercer a la Dirección General de Impacto y Riesgo Ambiental, a los órganos administrativos desconcentrados de la Secretaría, así como a otras dependencias de la Administración Pública Federal;
 
 X. Participar en la formulación y, en su caso, celebración de acuerdos y convenios de coordinación y concertación relativos a los bienes nacionales y ambientes costeros a que se refiere la fracción I de este artículo;
 
@@ -1477,7 +1819,11 @@ III. Apoyar a las unidades administrativas de la Secretaría y a las entidades d
 
 IV. Formular y coordinar la aplicación de los criterios ambientales para la preservación y aprovechamiento sustentable de los recursos forestales y del suelo, de conformidad con las disposiciones jurídicas aplicables, con la participación que corresponda a otras unidades administrativas competentes, a las entidades del Sector y a los gobiernos de las entidades federativas y de los municipios;
 
-V. Autorizar, suspender, revocar, anular y nulificar el cambio de uso de suelo en terrenos forestales, siempre que lo soliciten entidades o dependencias de la Administración Pública federal, estatal, municipal o del Distrito Federal de acuerdo con las disposiciones jurídicas aplicables;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+V. Autorizar, suspender, revocar, anular y nulificar el cambio de uso de suelo en terrenos forestales, siempre que lo soliciten entidades o dependencias de la Administración Pública Federal, estatal, municipal o del Distrito Federal de acuerdo con las disposiciones jurídicas aplicables, con excepción del cambio de uso de suelo en terrenos forestales que se solicite para la realización de obras o actividades del Sector Hidrocarburos;
 
 VI. Ejercer las atribuciones que a la Secretaría le confiere la Ley General de Desarrollo Forestal Sustentable en materia del Inventario Nacional Forestal y de Suelos y de la zonificación forestal;
 
@@ -1785,17 +2131,33 @@ IX. Otorgar permisos, licencias, autorizaciones y sus respectivas modificaciones
 
 a. Uso, explotación y aprovechamiento de la zona federal marítimo terrestre, playas marítimas, terrenos ganados al mar o a cualquier otro depósito de aguas marítimas, que determinen las unidades administrativas centrales competentes;
 
-b. Manifiestos y documentación de manejo de materiales y residuos peligrosos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-c. Informes preventivos; manifestaciones de impacto ambiental en su modalidad particular, con excepción de aquellas que el presente Reglamento atribuye a la Dirección General de Impacto y Riesgo Ambiental; autorizaciones en materia de atmósfera; licencias de funcionamiento; licencias ambientales únicas respecto de obras y actividades públicas y privadas, con excepción de aquellas que corresponden a la industria del petróleo y petroquímica, así como a los tratadores de residuos peligrosos;
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+b. Manifiestos y documentación de manejo de materiales y residuos peligrosos, con excepción de los generados por las Actividades del Sector Hidrocarburos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+c. Informes preventivos; manifestaciones de impacto ambiental en su modalidad particular, con excepción de aquéllas que el presente Reglamento atribuye a la Dirección General de Impacto y Riesgo Ambiental o que correspondan a la Agencia en términos de su Reglamento Interior; autorizaciones en materia de atmósfera; licencias de funcionamiento; licencias ambientales únicas respecto de obras y actividades públicas y privadas, con excepción de aquéllas que corresponden a las Actividades del Sector Hidrocarburos, así como a los tratadores de residuos peligrosos;
 
 d. Aprovechamiento de recursos forestales maderables y no maderables, plantaciones forestales comerciales, centros de almacenamiento y transformación de materias primas forestales, modificaciones de los programas de manejo forestal, y otorgar la documentación fitosanitaria forestal que se requiera para la exportación, importación y movilización de productos y subproductos forestales;
 
 e. Registros de prestadores de servicios vinculados a la transformación, tratamiento y preparación de vida silvestre; registros de prestadores de servicios vinculados a la comercialización de ejemplares, partes o derivados de la vida silvestre y los registros de organizaciones relacionadas con la conservación y el aprovechamiento sustentable de la vida silvestre;
 
-f. Recolección, almacenamiento y transporte de residuos peligrosos, así como los biológicos-infecciosos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-g. Prestación de servicios a terceros para el almacenamiento de residuos peligrosos, incluyendo los biológico-infecciosos;
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+f. Recolección, almacenamiento y transporte de residuos peligrosos, así como los biológicos-infecciosos, con excepción de los generados por las Actividades del Sector Hidrocarburos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+g. Prestación de servicios a terceros para el almacenamiento de residuos peligrosos, incluyendo los biológico-infecciosos, con excepción de los generados por las Actividades del Sector Hidrocarburos;
 
 h. Combustión a cielo abierto en zonas de jurisdicción federal para adiestramiento de incendios;
 
@@ -1805,7 +2167,11 @@ j. Registros de ejemplares, partes o derivados de la vida silvestre tales como m
 
 k. Licencias de caza deportiva en sus diferentes modalidades.
 
-X. Integrar y actualizar los inventarios de recursos naturales y fuentes contaminantes, así como realizar los monitoreos correspondientes;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+X. Integrar y actualizar los inventarios de recursos naturales y fuentes contaminantes, así como realizar los monitoreos correspondientes, salvo que se trate de fuentes que correspondan a las Actividades del Sector Hidrocarburos;
 
 XI. Coadyuvar en la administración y desarrollo de las áreas naturales protegidas, bajo los criterios y lineamientos que defina la Comisión Nacional de Áreas Naturales Protegidas;
 
@@ -1843,7 +2209,11 @@ XXVII. Otorgar permisos para ejercer el comercio ambulante en las playas y la zo
 
 XXVIII. Participar en el fomento de los programas de desarrollo forestal a cargo de la Comisión Nacional Forestal;
 
-XXIX. Autorizar, suspender, revocar y nulificar el cambio de uso de suelo de terrenos forestales, siempre que sea solicitado por particulares de acuerdo con las disposiciones jurídicas aplicables;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XXIX. Autorizar, suspender, revocar y nulificar el cambio de uso de suelo de terrenos forestales, siempre que sea solicitado por particulares, con excepción de los solicitados para las obras y las Actividades del Sector Hidrocarburos, de acuerdo con las disposiciones jurídicas aplicables;
 
 XXX. Expedir las constancias de verificación para realizar el aprovechamiento de recursos forestales que provengan de terrenos diversos a los forestales;
 
@@ -1861,7 +2231,11 @@ XXXVI. Proporcionar a los servidores públicos encargados de las áreas jurídic
 
 XXXVII. Realizar en apoyo de la Dirección General de Gestión Forestal y de Suelos, a solicitud expresa de ésta, la visita técnica y solicitar la opinión del Consejo Estatal Forestal respecto de las solicitudes en materia forestal y de suelos, así como elaborar el informe correspondiente, en aquellos casos en que el trámite correspondiente competa a dicha Dirección General;
 
-XXXVIII. Recibir, revisar y dar el trámite que corresponda a la Cédula de Operación Anual de los sujetos obligados y establecimientos sujetos a reporte, en la circunscripción territorial de la Delegación, de conformidad con lo previsto en el Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en materia del Registro de Emisiones y Transferencia de Contaminantes, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XXXVIII. Recibir, revisar y dar el trámite que corresponda a la Cédula de Operación Anual de los sujetos obligados y establecimientos sujetos a reporte, en la circunscripción territorial de la Delegación, de conformidad con lo previsto en el Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en materia de Registro de Emisiones y Transferencia de Contaminantes, excepto las que corresponda presentar a los sujetos y establecimientos que realicen actividades del Sector Hidrocarburos, y
 
 XXXIX. Las demás que le señalen las disposiciones legales aplicables y las que expresamente le encomiende el Secretario.
 
@@ -1871,11 +2245,15 @@ Para otorgar el perdón a que se refiere el artículo 14, fracción IX de este R
 
 ### CAPÍTULO OCTAVO. DE LA COMPETENCIA Y ORGANIZACIÓN DE LOS ÓRGANOS DESCONCENTRADOS
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
 ###### ARTÍCULO 41.
 
-Para la más eficaz atención y eficiente despacho de sus asuntos, la Secretaría contará con los órganos desconcentrados que le estarán jerárquicamente subordinados, con atribuciones específicas para resolver sobre las materias que a cada uno se determine, de conformidad con las disposiciones aplicables.
+La Secretaría, para la más eficaz atención y eficiente despacho de sus asuntos, contará con los órganos administrativos desconcentrados que le estarán jerárquicamente subordinados, con atribuciones específicas para resolver sobre las materias que a cada uno se determine, de conformidad con las disposiciones aplicables.
 
-El titular de la Secretaría podrá revisar, confirmar, modificar, revocar o nulificar, en su caso, los actos y resoluciones dictadas por los órganos desconcentrados.
+El titular de la Secretaría podrá revisar, confirmar, modificar, revocar o nulificar, en su caso, los actos y resoluciones dictadas por los titulares de los órganos desconcentrados, salvo que los reglamentos interiores correspondientes atribuyan dicha facultad a los propios titulares de dichos órganos.
 
 ###### ARTÍCULO 42.
 
@@ -2020,6 +2398,16 @@ XLVIII. Iniciar la acción colectiva de conformidad con lo dispuesto en el Libro
 XLIX. Las demás que le confieran las disposiciones jurídicas aplicables para el cumplimiento de sus atribuciones, así como las que deriven de las instrucciones del Secretario del Ramo.
 
 Las facultades anteriores serán ejercidas a través de las unidades administrativas de la Procuraduría, sin perjuicio de su ejercicio directo por parte de su titular.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+ARTÍCULO 45 BIS. Las atribuciones que en el presente Capítulo se otorgan a la Procuraduría, al Procurador, a los Subprocuradores, a los Directores Generales, así como a las unidades administrativas señaladas en el artículo siguiente, no aplicarán en las materias, obras o actividades del Sector Hidrocarburos.
+
+Corresponde a la Agencia, en términos de su Reglamento Interior, la realización de todos los actos y procedimientos administrativos de verificación, inspección, vigilancia y sanción y todos los demás previstos en el presente Capítulo, que correspondan a dicho Sector, conforme a las disposiciones jurídicas aplicables.
+
+La Procuraduría conservará las atribuciones señaladas en el artículo 60 del presente Capítulo, respecto a los movimientos transfronterizos de materiales o residuos peligrosos, así como en materia de organismos genéticamente modificados, salvo los que tengan como finalidad la remediación de los sitios contaminados en donde se realicen o pretendan realizar actividades del Sector Hidrocarburos.
 
 ###### ARTÍCULO 46.
 
@@ -3583,6 +3971,112 @@ Los servidores públicos a que se refieren los párrafos anteriores, en el ámbi
 
 Para el debido cumplimiento de sus funciones, los titulares de los Órganos Internos de Control y de las áreas de auditoría, quejas y responsabilidades, a que se refiere este Reglamento, contarán con el apoyo que sea necesario por parte de la Secretaría y de sus órganos desconcentrados, según corresponda.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+### CAPÍTULO DÉCIMO TERCERO. DE LA COORDINACIÓN EJECUTIVA DE VINCULACIÓN INSTITUCIONAL
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+###### ARTÍCULO 89.
+
+La Coordinación Ejecutiva de Vinculación Institucional, se adscribirá directamente al Secretario y estará a cargo de un Coordinador Ejecutivo quien tendrá las siguientes atribuciones:
+
+I. Elaborar y proponer al Secretario las políticas para la atención de la problemática ambiental de las ciudades y de zonas conurbadas o metropolitanas; y ejecutar las que éste apruebe;
+
+II. Formular y ejecutar los criterios y acciones de vinculación y coordinación con las autoridades federales, estatales, del Distrito Federal y municipales, para la atención de la problemática ambiental de las ciudades y de zonas conurbadas o metropolitanas;
+
+III. Actuar como enlace e instancia operativa de vinculación y coordinación integral de la Secretaría, cuando ésta actúe como representante del Gobierno Federal, ante gobiernos de las entidades federativas y de los municipios, para la atención de los asuntos que afecten el equilibrio ecológico de dos o más entidades federativas;
+
+IV. Identificar y proponer al Secretario la participación y coordinación que la Secretaría requiera establecer con otras dependencias y entidades de la Administración Pública Federal y con los gobiernos de las entidades federativas, para la atención de asuntos que afecten las zonas conurbadas y áreas metropolitanas que repercutan en el equilibrio ecológico de dos o más entidades federativas;
+
+V. Diseñar y ejecutar los mecanismos de coordinación correspondientes para el cumplimiento de los objetivos de la planeación nacional en materia de prevención y control de la contaminación urbana, particularmente la que se genera en zonas metropolitanas;
+
+VI. Participar en la definición de criterios y lineamientos de vinculación y coordinación para la integración de los programas, proyectos y acciones específicas a fin de prevenir y controlar la contaminación ambiental en las ciudades y zonas metropolitanas;
+
+VII. Proponer al Secretario y, en su caso, establecer y ejecutar las acciones de coordinación y comunicación correspondiente con las autoridades de las entidades federativas para evaluar los índices de la calidad del aire en las zonas metropolitanas de las entidades federativas con mayor contaminación ambiental;
+
+VIII. Dar seguimiento a los acuerdos que adopte la Secretaría con las autoridades correspondientes de las entidades federativas, de los municipios o, en su caso, de las demarcaciones territoriales del Distrito Federal, relativos a la atención de la problemática ambiental en las zonas metropolitanas que involucren el equilibrio ecológico de dos o más entidades federativas, así como supervisar el cumplimiento de dichos acuerdos;
+
+IX. Diseñar, proponer al Secretario, coordinar la integración de la agenda ambiental a través de los mecanismos de coordinación, cooperación y colaboración intra-institucional e inter-institucional con las dependencias y entidades de las Administración Pública Federal, Estatal, Municipal del Distrito Federal, para la atención de problemáticas específicas que requieran de la actuación concurrente de todos los órdenes de gobierno, cuando éstos involucren la protección a la salud y los bienes de las personas.
+
+X. Diseñar, proponer al Secretario y coordinar los mecanismos de monitoreo, evaluación y actualización de la agenda ambiental señalada en la fracción anterior;
+
+XI. Proponer y asesorar a las autoridades de las entidades federativas, municipios y demarcaciones territoriales del Distrito Federal que forman parte de una zona metropolitana en la adecuación y homologación de la normatividad en materia de protección al ambiente, preservación y restauración del equilibrio ecológico;
+
+XII. Identificar los instrumentos jurídicos aplicables por las autoridades federales, estatales y municipales, conforme a sus respectivas competencias, para regular actividades en zonas urbanas y metropolitanas que afecten o puedan afectar el equilibrio ecológico de dos o más entidades federativas y que requieran de adecuación, armonización u homologación y proponer al Secretario las acciones de coordinación, cooperación y colaboración correspondientes;
+
+XIII. Proponer, a las instancias estatales y del Distrito Federal que correspondan, opiniones sobre la legislación ambiental para armonizar la regulación en materia de protección del medio ambiente;
+
+XIV. Formular y, en su caso, proponer criterios para la elaboración de normatividad orientada a atender la problemática ambiental de las ciudades, zonas conurbadas o áreas metropolitanas de las entidades federativas, municipios y demarcaciones territoriales;
+
+XV. Recomendar a las autoridades correspondientes de las entidades federativas o de los municipios, los mecanismos, esquemas o acciones para la implementación y seguimiento de políticas, programas, proyectos y acciones, para la atención de áreas que formen parte de una conurbación, ciudad o zona metropolitana y que se requieran para la protección del medio ambiente, la preservación o restauración del equilibrio ecológico;
+
+XVI. Coordinar la elaboración de estudios para promover el desarrollo sustentable de las ciudades, zonas metropolitanas o áreas conurbadas y someterlos a consideración del Secretario o, en su caso, de las autoridades correspondientes de los tres órdenes de gobierno;
+
+XVII. Conducir la integración de la información que se genere de los estudios en materia de contaminación, que se realicen en las zonas urbanas con mayores índices de contaminación;
+
+XVIII. Participar en los estudios de evaluación de las tecnologías tendentes al control de la contaminación generada por las fuentes móviles y valorar su aplicación en las entidades federativas con mayores índices de contaminación;
+
+XIX. Asesorar técnica y jurídicamente en la elaboración de convenios y contratos necesarios para el diseño, instrumentación y desarrollo de los mecanismos de coordinación entre las entidades federativas y municipios que cuenten con zonas metropolitanas;
+
+XX. Conducir y, en su caso, llevar a cabo las negociaciones para la instrumentación de políticas, criterios o acciones que la Secretaría acuerde con las autoridades ambientales de las entidades federativas para la prevención, atención y control de la contaminación urbana, con la intervención que corresponda a otras unidades administrativas de la Secretaría y Dependencias de la Administración Pública Federal;
+
+XXI. Identificar y atender las sugerencias, recomendaciones, opiniones y, en su caso, posicionamientos de las autoridades de las entidades federativas y de los municipios, que formen parte de una conurbación, ciudad o zona metropolitana; respecto a las recomendaciones planteadas en los términos de la fracción XIV del presente artículo;
+
+XXII. Asesorar a las autoridades de las entidades federativas, municipios y demarcaciones territoriales, que formen parte de una conurbación, ciudad o zona metropolitana en los temas jurídicos, técnicos y económicos en materia de contaminación urbana;
+
+XXIII. Analizar, con la intervención que corresponda a las unidades administrativas de la Secretaría, la procedencia de la implementación y diseño de políticas públicas que se propongan en las zonas metropolitanas, en materia ambiental y de cambio climático;
+
+XXIV. Identificar y, en su caso, ejecutar y dar seguimiento, en coordinación con las entidades federativas, a los estudios tendentes al mejoramiento del equilibrio ecológico y la protección al ambiente, y que contribuyen a controlar los efectos del deterioro de los elementos que integran al sistema ecológico de las zonas metropolitanas;
+
+XXV. Conducir, con la intervención que corresponda a otras unidades administrativas de la Secretaría, la aplicación de estrategias que contribuyan a prevenir y, en su caso, coordinar los protocolos de acciones tendentes a atender a las contingencias que se presenten en materia de medio ambiente, en zonas metropolitanas y áreas conurbadas;
+
+XXVI. Intervenir y, en su caso, dirigir la difusión de programas, proyectos y acciones en materia de calidad del aire de las ciudades o zonas metropolitanas con mayor índice de contaminación, incluida la que generen sus parques vehiculares;
+
+XXVII. Atender la vinculación con las comisiones e instancias metropolitanas en materia de contaminación urbana;
+
+XXVIII. Recabar la información que requiera el Secretario para el seguimiento de los acuerdos que en materia de contaminación urbana que se instrumenten con las entidades federativas o municipios que cuenten con zonas metropolitanas;
+
+XXIX. Elaborar y revisar las convocatorias, actas, minutas, acuerdos y demás documentos que generen los órganos colegiados en los que participe el Secretario y cuyo objeto sea atender temas de contaminación urbana en zonas metropolitanas; así como fungir como coordinador de dichos órganos colegiados cuando el Secretario los presida;
+
+XXX. Analizar las causas, elementos y efectos de los problemas ambientales en materia de residuos sólidos urbanos, de manejo especial y peligrosos, que se generen en las entidades federativas, municipios y demarcaciones territoriales que cuenten con zonas conurbadas y metropolitanas;
+
+XXXI. Identificar y contactar con instituciones de investigación y de educación superior, organizaciones no gubernamentales, empresas y particulares, para la elaboración de estudios, análisis, diagnósticos y propuestas sobre la problemática ambiental del desarrollo urbano, incluidas las causadas por la generación de residuos sólidos urbanos, de manejo especial y peligrosos, en las entidades federativas, municipios y delegaciones que formen parte de zonas metropolitanas;
+
+XXXII. Proponer al Secretario y, en su caso, promover la homologación normativa en las políticas de residuos sólidos urbanos, de manejo especial y peligrosos, que generen las actividades en zonas urbanas y metropolitanas, con la participación que corresponda a las unidades administrativas y órganos desconcentrados de la Secretaría;
+
+XXXIII. Detectar las causas, elementos y efectos de los problemas ambientales en materia de calidad del aire, agua, suelos, adaptación y mitigación del cambio climático, conservación de especies, residuos sólidos urbanos, de manejo especial y peligrosos que generen las actividades urbanas, con la participación que corresponda de las unidades administrativas y órganos desconcentrados de la Secretaría, de las dependencias y entidades competentes de la Administración Pública Federal y de los gobiernos estatales, municipales y de las demarcaciones territoriales que integren zonas metropolitanas, así como de los sectores social y privado;
+
+XXXIV. Identificar la participación de los responsables de la infraestructura urbana en el diseño e instrumentación de normas y programas de fomento ambiental y desarrollo urbano sustentable, así como del manejo de residuos urbanos;
+
+XXXV. Participar en la formulación o, en su caso, formular propuestas de convenios y acuerdos de cooperación y asistencia técnica con organismos internacionales y nacionales, públicos o privados, en materia de calidad del aire, agua, suelos, adaptación y mitigación del cambio climático, conservación de especies, residuos sólidos urbanos o de manejo especial, principalmente generados en actividades urbanas, a fin de lograr un desarrollo sustentable en las ciudades y zonas metropolitanas;
+
+XXXVI. Apoyar en el desarrollo de criterios y lineamientos para el diseño de programas y proyectos en zonas metropolitanas y áreas conurbadas, en los que se solicite la opinión o intervención de la Secretaría, para prevenir y controlar la generación de residuos sólidos urbanos, de manejo especial y peligrosos;
+
+XXXVII. Estudiar y proponer instrumentos económicos, fiscales, financieros y de mercado, destinados a disminuir los costos ambientales y articular las decisiones económicas y ambientales de los sectores productivos de las entidades federativas en coordinación con las unidades administrativas de la Secretaría, y sus entidades sectorizadas, así como con las dependencias competentes de la Administración Pública Federal;
+
+XXXVIII. Identificar los determinantes y efectos económicos del cumplimiento de la normatividad ambiental, en coordinación con las unidades administrativas del sector medio ambiente y las entidades federativas;
+
+XXXIX. Coordinar estudios en las entidades federativas relacionados con el análisis de cuentas económico-ambientales, a partir de la evaluación de gastos incurridos en el cuidado ambiental y la estimación del desgaste del capital natural;
+
+XL. Analizar estudios en las entidades federativas relacionados con el análisis de cuentas económico-ambientales, a partir de la evaluación de gastos incurridos en el cuidado ambiental y la estimación del desgaste del capital natural;
+
+XLI. Desarrollar los instrumentos necesarios para realizar el diseño de la normatividad que regule y controle las fuentes móviles que se encuentren en las zonas urbanas;
+
+XLII. Valorar y formular proyectos que contribuyan al mejoramiento de la calidad ambiental en las ciudades y zonas metropolitanas;
+
+XLIII. Integrar la información que se genere de los estudios en materia de contaminación que se realicen en las zonas urbanas para la estimación de demanda, aforos vehiculares, encuestas origen-destino y líneas base; para los sistemas integrados de transporte; para los programas integrales de movilidad urbana sustentable y, en su caso, asesorar en su implementación; así como promover los esquemas financieros para asegurar la viabilidad técnica y financiera de los servicios de movilidad en las zonas metropolitanas;
+
+XLIV. Elaborar, revisar y dar seguimiento a los programas, proyectos y estudios en materia de calidad del aire, agua, suelos, adaptación y mitigación del cambio climático, conservación de especies, residuos sólidos urbanos, de manejo especial y peligrosos, de transporte y movilidad y de protección del equilibrio ecológico en general vinculados con zonas urbanas y metropolitanas;
+
+XLV. Suscribir los documentos relativos al ejercicio de sus atribuciones;
+
+XLVI. Integrar al archivo los documentos que se generen de la participación del Secretario en órganos colegiados vinculados con temas de contaminación urbana en zonas metropolitanas; y, expedir, cuando proceda, copia certificada de los mismos, y
+
+XLVII. Las demás que le confiera el Titular de la Secretaría.
+
 ## TRANSITORIOS
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -4020,3 +4514,15 @@ XXX. Supervisar el adecuado funcionamiento de los archivos y guías de los siste
 XXXI. Las demás que expresamente le confiera o le delegue quien ejerza la Dirección General del Instituto Nacional de Ecología y Cambio Climático y las que le señalen las demás disposiciones legales y reglamentarias.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a catorce de noviembre de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Medio Ambiente y Recursos Naturales, Juan Rafael Elvira Quesada.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 31 DE OCTUBRE DE 2014.
+
+PRIMERO. El artículo 89 del presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Las demás reformas, adiciones y derogaciones contenidas en el presente Decreto, entrarán en vigor el 2 de marzo de 2015.
+
+SEGUNDO. El personal, los recursos, los expedientes en trámite, el archivo, el mobiliario y, en general, el equipo que las unidades administrativas a que se refiere este Decreto, hubieren utilizado en el ejercicio de sus atribuciones, deberán trasladarse a las unidades administrativas que se crean en el mismo, debiendo distribuirse, en su caso, de conformidad con las atribuciones que a cada una de ellas correspondan y de acuerdo con los lineamientos que emita la Oficialía Mayor.
+
+TERCERO. Los asuntos pendientes de resolución a la entrada en vigor de este Decreto, que conforme al mismo deban pasar de la Agencia, se suspenderán conforme a los términos y plazos previstos en la Ley de la Agencia Nacional de Seguridad Industrial, Seguridad Operativa y Protección Ambiental del Sector Hidrocarburos y serán resueltos por dicho órgano administrativo desconcentrado.
