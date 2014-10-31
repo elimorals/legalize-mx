@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-energia-89691"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-10-11"
-last_updated: "2012-10-11"
+last_updated: "2014-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89691&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2012-10-09"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE ENERGÍA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE ENERGÍA, PUBLICADO EN EL D.O.F. DE 31 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE OCTUBRE DE 2014 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 11 de octubre de 2012.
 
@@ -1434,3 +1436,57 @@ Artículo Sexto.- En casos extraordinarios o cuando exista duda de la competenci
 Artículo Séptimo.- Las modificaciones a la estructura orgánica de la Secretaría de Energía que deriven de la entrada en vigor del presente reglamento, serán realizadas mediante movimientos compensados, por lo que no aumentarán el presupuesto regularizable de la Secretaría.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de octubre de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Energía, Jordy Hernán Herrera Flores.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 31 DE OCTUBRE DE 2014.
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abroga el Reglamento Interior de la Secretaría de Energía publicado en el Diario Oficial de la Federación el 11 de octubre de 2012 y se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+Los asuntos en trámite que son llevados por unidades administrativas que desaparecen, en virtud de la entrada en vigor del presente Reglamento, serán atendidos y resueltos por las unidades administrativas a las que se les da la competencia correspondiente en este ordenamiento. Dichas unidades administrativas notificarán a los interesados el cambio respectivo.
+
+En el caso de que las unidades administrativas no desaparezcan pero sus facultades sean modificadas, corresponderá a la unidad administrativa competente conforme al Reglamento Interior abrogado, terminar la sustanciación de los asuntos que se encuentren en trámite y, en su caso, dictar la resolución que corresponda.
+
+Las referencias que se hacen y las facultades que se otorgan en reglamentos, decretos, acuerdos, manuales y demás disposiciones a las unidades administrativas que cambian de denominación o desaparecen por virtud del presente ordenamiento, se entenderán hechas o conferidas a las unidades administrativas que correspondan conforme a lo establecido en el mismo.
+
+Tercero.- La Oficialía Mayor realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a las unidades o áreas que se modifican o desaparecen, sean transferidos a las unidades administrativas que correspondan, en los términos del presente ordenamiento y de conformidad con las normas aplicables y la disponibilidad presupuestaria.
+
+Cuarto.- A partir de la entrada en vigor del presente Reglamento y hasta en tanto se cumple el plazo previsto en el transitorio Vigésimo Séptimo de la Ley de Hidrocarburos, corresponderá a la Dirección General de Petrolíferos el ejercicio de las facultades siguientes:
+
+I. Aplicar los ordenamientos legales y demás normas jurídicas que de éstos deriven, cuyas disposiciones regulen las actividades de transporte y distribución de gas licuado de petróleo, que se realice por medios distintos a ductos y el almacenamiento que no forme parte integral de las terminales de importación o distribución de gas licuado de petróleo;
+
+II. Elaborar y proponer a su superior jerárquico, los anteproyectos de políticas en materia de gas licuado de petróleo;
+
+III. Conducir y supervisar la programación de las actividades de transporte, almacenamiento y distribución de gas licuado de petróleo, en el ámbito de su competencia;
+
+IV. Emitir opinión ante las autoridades competentes, respecto del ajuste o modificación de los precios del gas licuado de petróleo, así como brindar la asesoría que en su caso requieran;
+
+V. Otorgar, modificar, autorizar la cesión, prorrogar, revocar y extinguir los permisos para el transporte y distribución de gas licuado de petróleo, que se realice por medios distintos a ductos, y el almacenamiento que no forme parte integral de las terminales de importación o distribución de gas licuado de petróleo;
+
+VI. Otorgar y administrar el registro a los Centros de Intercambio;
+
+VII. Requerir a los permisionarios y aprobadas en materia de gas licuado de petróleo, la entrega de datos, información y documentos, con el objeto de verificar el cumplimiento de las obligaciones a su cargo, así como de las disposiciones jurídicas y administrativas aplicables;
+
+VIII. Iniciar, tramitar y resolver los procedimientos administrativos e imponer las sanciones, en materia de gas licuado de petróleo;
+
+IX. Otorgar, autorizar y, en su caso, prevenir, devolver o desechar los avisos, las solicitudes de autorización, y ampliación de plazo, así como la revocación, cancelación y suspensión, previstos, en los asuntos y trámites que sean de su competencia;
+
+X. Informar a la Comisión Federal de Competencia Económica, sobre la posible existencia de subsidios cruzados o prácticas monopólicas en el mercado de Gas Licuado de Petróleo;
+
+XI. Administrar y tener actualizados, en el ámbito de su competencia, los registros relacionados con las actividades contenidas en el Reglamento de las actividades a que se refiere el Título Tercero de la Ley de Hidrocarburos;
+
+XII. Requerir información o reportes de servidores públicos de las empresas productivas del Estado, los organismos descentralizados y de los titulares de los permisos o de su representante legal, que realicen alguna de las actividades reguladas por la Ley de Hidrocarburos, y
+
+XIII. Las demás que le señalen otras disposiciones jurídicas, las que les confiera el superior jerárquico y, las que correspondan a sus áreas administrativas.
+
+La Dirección General de Petrolíferos, en el ejercicio de las facultades señaladas en el presente transitorio, podrá ser asistida por:
+
+a) La Dirección de Gas Licuado de Petróleo, a quien corresponderá el ejercicio de las facultades establecidas en las fracciones I, V, VII, IX, XI y XII;
+
+b) La Dirección de Apoyo Legal en Petrolíferos, a quien corresponderá el ejercicio de las facultades establecidas en las fracciones I, VII, VIII, X y XII;
+
+c) La Dirección de Expendio al Público, a quien corresponderá el ejercicio de las facultades establecidas en las fracciones I, VI, VII, IX, X y XII, y
+
+d) La Dirección de Apoyo Técnico en Petrolíferos, a quien corresponderá el ejercicio de las facultades establecidas en las fracciones I, IV, VI, VII, IX, X, XI y XII.
