@@ -4,7 +4,7 @@ identifier: "QUE-codigo-urbano-del-estado-de-queretaro-88087"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-05-31"
-last_updated: "2014-02-07"
+last_updated: "2014-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO URBANO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 31 de mayo de 2012.
 
@@ -2351,9 +2351,17 @@ V. Hacer uso indebido de los bienes comunes, servicios e instalaciones generales
 
 VI. Ocupar el área de estacionamiento de otro condómino;
 
-VII. Realizar actos que alteren la paz o que afecten a la seguridad de las personas o bienes de los demás ocupantes del condominio; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2014)</small>
 
-VIII. Realizar cualquier actividad que cause molestia o no permita el descanso de los demás habitantes del condominio.
+VII. Realizar actos que alteren la paz o que afecten a la seguridad de las personas o bienes de los demás ocupantes del condominio;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2014)</small>
+
+VIII. Realizar cualquier actividad que cause molestia o no permita el descanso de los demás habitantes del condominio; y
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2014)</small>
+
+IX. Obstaculizar, de la forma que sea, el acceso al condominio del personal de cualquier organismo operador de servicios públicos a efecto de realizar la toma de lectura, inspección, notificación, reconexión o limitación de los servicios, cuando así corresponda.
 
 Las prohibiciones establecidas en este artículo, son aplicables a todos los ocupantes del condominio, con independencia del acto del que derive su posesión.
 
@@ -2783,9 +2791,17 @@ VI. La forma en que debe designarse el administrador y el Comité de Vigilancia;
 
 VII. Las facultades que, en su caso, se otorguen de manera adicional a las establecidas en este Código al Administrador y al Comité de Vigilancia;
 
-VIII. Previsiones relativas a las cuotas de mantenimiento, así como a las del fondo de reserva; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2014)</small>
 
-IX. Formas de extinción del condominio.
+VIII. Previsiones relativas a las cuotas de mantenimiento, así como a las del fondo de reserva;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2014)</small>
+
+IX. Formas de extinción del condominio; y
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2014)</small>
+
+X. Las facilidades que deberán otorgarse al personal de los diversos organismos operadores para la adecuada inspección y prestación de los servicios públicos.
 
 ###### Artículo 288.
 
@@ -3907,11 +3923,23 @@ Para cada predio, giro o establecimiento, deberá instalarse una toma independie
 
 En los condominios se establecerá una toma general para todo el condominio, además de las tomas individuales que puedan instalarse.
 
-En caso de condominios horizontales deberán instalarse un número de tomas y medidores equivalentes al número de unidades privativas que conforman el condominio, siempre y cuando el constructor o desarrollador construya la infraestructura hidráulica independiente para todos y cada uno de los locales, departamentos, casas o unidades privativas y esta infraestructura permita a la Comisión Estatal de Aguas instalar los aparatos medidores correspondientes en los límites del condominio con la vía pública.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2014)</small>
 
-En los demás casos de condominios diferentes a los señalados en el párrafo anterior, la contratación individual estará sujeta a las condiciones que establezca la Comisión Estatal de Aguas en el convenio que se suscriba para tal efecto. Principalmente deberá establecerse el acta de Asamblea condominal, donde todos los condóminos, manifiesten su consentimiento para individualizarse y responsabilizarse de sus consumos.
+En caso de condominios horizontales y verticales deberán instalarse un número de tomas y medidores equivalentes al número de unidades privativas que conforman el condominio, por lo cual, el constructor o desarrollador deberá edificar la infraestructura hidráulica independiente para todos y cada uno de los locales, departamentos, casas o unidades privativas, de tal forma que esta infraestructura permita a la Comisión Estatal de Aguas instalar los aparatos medidores correspondientes en los límites del condominio con la vía pública.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2014)</small>
+
+En los demás casos de condominios diferentes a los señalados en el párrafo anterior, la contratación individual estará sujeta a las condiciones que establezca la Comisión Estatal de Aguas en el convenio que se suscriba para tal efecto. Principalmente deberá establecerse el acta de Asamblea condominal, donde los condóminos, manifiesten su consentimiento para individualizarse y responsabilizarse de sus consumos.
 
 Los constructores o desarrolladores deberán someter a la revisión y aprobación de la Comisión Estatal de Aguas, los proyectos hidráulicos para la construcción del condominio, debiendo ceñirse en el mismo, a las especificaciones técnicas que para tal efecto se determinen.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2014)</small>
+
+Una vez realizada la individualización de tomas, los condóminos estarán obligados al pago del suministro de agua potable, alcantarillado y saneamiento, con base en las lecturas que arroje el aparato medidor individual instalado en cada unidad privativa, así como al pago proporcional de las diferencias registradas, en su caso, por el área común, a través del aparato medidor que pudiera para tal efecto encontrarse instalado.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2014)</small>
+
+En su caso, el pago de las diferencias señaladas en el párrafo anterior, podrá hacerse mediante el cargo realizado a los recibos individuales de cada uno de los condóminos, dividiéndose en partes iguales entre el número de contratos que conformen el condominio.
 
 ###### Artículo 430.
 
@@ -4936,3 +4964,9 @@ Artículo Primero. La presente Ley entrará en vigor a los 45 días hábiles sig
 Artículo Segundo. La Secretaría de Desarrollo Sustentable, en un plazo no mayor a 45 días hábiles, contados a partir de la publicación de la presente Ley deberá contar con el catálogo de especies nativas de la región, el cual habrá de publicar en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", además de tenerlo disponible para la ciudadanía de manera electrónica en su portal de internet.
 
 Artículo Tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 31 DE OCTUBRE DE 2014.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
