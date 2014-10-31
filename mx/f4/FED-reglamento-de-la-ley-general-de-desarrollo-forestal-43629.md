@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-de-desarrollo-forestal-43629"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-21"
-last_updated: "2014-02-24"
+last_updated: "2014-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43629&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-02-16"
 
 REGLAMENTO DE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE OCTUBRE DE 2014.
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 21 de febrero de 2005.
 
@@ -48,6 +48,18 @@ I. Acahual, vegetación secundaria nativa que surge de manera espontánea en ter
 a) En selvas altas o medianas, cuenta con menos de quince árboles por hectárea con un diámetro normal mayor a veinticinco centímetros, o bien, con un área basal menor a cuatro metros cuadrados por hectárea, y
 
 b) En selvas bajas, cuenta con menos de quince árboles por hectárea con un diámetro normal mayor a diez centímetros, o bien, con un área basal menor a dos metros cuadrados por hectárea;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+I Bis. Actividades del Sector Hidrocarburos, las actividades definidas como tal en el artículo 3, fracción XI de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+I Ter. Agencia, la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos;
 
 II. Aprovechamiento restringido, extracción autorizada con limitaciones y medidas especiales de precaución sobre volúmenes, especies y productos forestales para evitar poner en riesgo la biodiversidad y los servicios ambientales en la zona del aprovechamiento;
 
@@ -133,9 +145,13 @@ Los informes, avisos y solicitudes a los que hacen referencia la Ley y este Regl
 
 La presentación de informes y solicitudes deberán acompañarse del comprobante de pago de derechos respectivo, de conformidad con las disposiciones aplicables.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 4.
 
-Los originales o copias certificadas de instrumentos jurídicos y actas de asamblea que sean presentados ante la Secretaría para el trámite de autorizaciones y avisos a que hace referencia el presente Reglamento, una vez cotejados, quedarán a disposición de los interesados en la oficina en que se haya realizado el trámite para su devolución.
+Los originales o copias certificadas de instrumentos jurídicos y actas de asamblea que sean presentados ante las unidades administrativas competentes de la Secretaría para el trámite de autorizaciones y avisos a que hace referencia el presente Reglamento, una vez cotejados, quedarán a disposición de los interesados en la oficina en que se haya realizado el trámite, para su devolución.
 
 ###### Artículo 5.
 
@@ -1613,7 +1629,11 @@ La Secretaría asignará código de identificación para el funcionamiento de lo
 
 Los terrenos forestales seguirán considerándose como tales aunque pierdan su cubierta forestal por acciones ilícitas, plagas, enfermedades, incendios, deslaves, huracanes o cualquier otra causa.
 
-Para acreditar la regeneración total de los ecosistemas forestales en terrenos que se hayan incendiado, en términos del artículo 117 de la Ley, se deberá presentar un estudio técnico, de conformidad con el acuerdo que emita el Titular de la Secretaría, el cual será publicado en el Diario Oficial de la Federación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+Para acreditar la regeneración total de los ecosistemas forestales en terrenos que se hayan incendiado, en términos del artículo 117 de la Ley, se deberá presentar ante las unidades administrativas competentes de la Secretaría un estudio técnico que así lo acredite.
 
 ### CAPÍTULO SEGUNDO. Del Cambio de Uso del Suelo en los Terrenos Forestales
 
@@ -1631,7 +1651,17 @@ IV. Superficie forestal solicitada para el cambio de uso de suelo y el tipo de v
 
 Junto con la solicitud deberá presentarse el estudio técnico justificativo, así como copia simple de la identificación oficial del solicitante y original o copia certificada del título de propiedad, debidamente inscrito en el registro público que corresponda o, en su caso, del documento que acredite la posesión o el derecho para realizar actividades que impliquen el cambio de uso del suelo en terrenos forestales, así como copia simple para su cotejo. Tratándose de ejidos o comunidades agrarias, deberá presentarse original o copia certificada del acta de asamblea en la que conste el acuerdo de cambio del uso del suelo en el terreno respectivo, así como copia simple para su cotejo.
 
-El derecho para realizar actividades que impliquen el cambio de uso del suelo, con motivo del reconocimiento, exploración superficial y explotación petrolera en terrenos forestales, se podrá acreditar con la documentación que establezcan las disposiciones aplicables en materia petrolera.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+El derecho para realizar actividades que impliquen el cambio de uso del suelo, con motivo de las Actividades del Sector Hidrocarburos en terrenos forestales, se podrá acreditar con la documentación que establezcan las disposiciones aplicables en las materias de dicho sector.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+La Secretaría, por conducto de la Agencia, resolverá las solicitudes de autorización de cambio de uso de suelo en terrenos forestales para la realización de cualquiera de las Actividades del Sector Hidrocarburos, en los términos previstos en el presente capítulo.
 
 ###### Artículo 121.
 
@@ -1679,15 +1709,23 @@ III. La Secretaría enviará copia del expediente integrado al Consejo Estatal F
 
 IV. Transcurrido el plazo a que se refiere la fracción anterior, dentro de los cinco días hábiles siguientes, la Secretaría notificará al interesado de la visita técnica al predio objeto de la solicitud, misma que deberá efectuarse en un plazo de quince días hábiles, contados a partir de la fecha en que surta efectos la notificación, y
 
-V. Realizada la visita técnica, la Secretaría resolverá lo conducente dentro de los quince días hábiles siguientes. Transcurrido este plazo sin que la Secretaría resuelva la solicitud, se entenderá que la misma es en sentido negativo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+V. Realizada la visita técnica, la Secretaría dentro de los quince días hábiles siguientes y sólo en caso de que el cambio de uso de suelo solicitado actualice los supuestos a que se refiere el primer párrafo del artículo 117 de la Ley, determinará el monto de la compensación ambiental correspondiente de conformidad con lo establecido en el artículo 124 del presente Reglamento y notificará al interesado requiriéndole para que realice el depósito respectivo ante el Fondo. Transcurrido este plazo sin que la Secretaría haya formulado el requerimiento de depósito ante el Fondo, se entenderá que la solicitud se resolvió en sentido negativo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 123.
 
-La Secretaría otorgará la autorización de cambio de uso del suelo en terreno forestal, una vez que el interesado haya realizado el depósito a que se refiere el artículo 118 de la Ley, por el monto económico de la compensación ambiental determinado de conformidad con lo establecido en el artículo 124 del presente Reglamento.
+La Secretaría, a través de sus unidades administrativas competentes, expedirá la autorización de cambio de uso del suelo en terreno forestal, una vez que el interesado haya realizado el depósito a que se refiere el artículo 118 de la Ley, por el monto económico de la compensación ambiental determinado de conformidad con lo establecido en el artículo 124 del presente Reglamento.
 
-El trámite será desechado en caso de que el interesado no acredite el depósito a que se refiere el párrafo anterior dentro de los treinta días hábiles siguientes a que surta efectos la notificación.
+La autorización será negada en caso de que el interesado no acredite haber realizado el depósito a que se refiere el párrafo anterior dentro de los treinta días hábiles siguientes a que surta efectos la notificación del requerimiento señalado en la fracción V del artículo anterior.
 
-Una vez acreditado el depósito, la Secretaría expedirá la autorización correspondiente dentro de los diez días hábiles siguientes. Transcurrido este plazo sin que la Secretaría otorgue la autorización, ésta se entenderá concedida.
+Una vez acreditado el depósito, la Secretaría, a través de sus unidades administrativas competentes, expedirá la autorización correspondiente dentro de los diez días hábiles siguientes. Transcurrido este plazo sin que se expida la autorización, ésta se entenderá concedida.
 
 > <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
@@ -1712,6 +1750,12 @@ Los recursos que se obtengan por concepto de compensación ambiental serán dest
 ###### Artículo 125.
 
 Para efectos de lo dispuesto en el artículo 117, párrafo séptimo, de la Ley, la Secretaría podrá celebrar convenios de coordinación con dependencias y entidades públicas de los sectores energético, eléctrico, hidráulico, petrolero y de comunicaciones.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+Tratándose de las Actividades del Sector Hidrocarburos la Secretaría celebrará los convenios señalados en el párrafo anterior, por conducto de la Agencia.
 
 ###### Artículo 126.
 
@@ -2195,6 +2239,14 @@ La Procuraduría promoverá la constitución de comités u organismos técnicos 
 
 Asimismo, promoverá la capacitación y profesionalización en materia forestal del personal que participe en las visitas y operativos de inspección.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 174 Bis.
+
+La Secretaría, por conducto de la Agencia, ejercerá todas las atribuciones contenidas en el Título Octavo de la Ley y en el presente Título, cuando se trate del cambio de uso de suelo en terrenos forestales para la realización de las Actividades del Sector Hidrocarburos o para obras o instalaciones de dicho sector.
+
 ###### Artículo 175.
 
 Cuando la Procuraduría detecte la posible comisión de infracciones a la Ley o el presente Reglamento en flagrancia, levantará acta circunstanciada.
@@ -2260,3 +2312,11 @@ Dado en la Residencia Oficial del Poder Ejecutivo Federal, en la Ciudad de Méxi
 D.O.F. 24 DE FEBRERO DE 2014.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 31 DE OCTUBRE DE 2014.
+
+Primero. El presente Decreto entrará en vigor el día 2 de marzo de 2015.
+
+Segundo. A la entrada en vigor del presente Decreto, las facultades que corresponde ejercer a la Procuraduría Federal de Protección al Ambiente o a cualquier otra unidad administrativa de la Secretaría de Medio Ambiente y Recursos Naturales, contenidas en normas oficiales mexicanas, normas mexicanas, acuerdos, convocatorias o cualquier otra disposición administrativa que deriva del presente Reglamento, respecto de las instalaciones o actividades previstas en las fracciones VII y XI del artículo 3 de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, serán ejercidas por dicha Agencia.
+
+Tercero. Los procedimientos relacionados con Actividades del Sector Hidrocarburos que se encuentren en trámite a la entrada en vigor del presente Reglamento, se resolverán por la Agencia conforme al presente ordenamiento.
