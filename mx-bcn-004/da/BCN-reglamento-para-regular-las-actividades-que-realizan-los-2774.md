@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-regular-las-actividades-que-realizan-los-2774"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-10-10"
-last_updated: "2010-12-27"
+last_updated: "2014-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA REGULAR LAS ACTIVIDADES QUE REALIZAN LOS COMERCIANTES AMBULANTES, DE PUESTOS FIJOS Y SEMI-FIJOS, Y LOS DE MERCADOS SOBRE RUEDAS PARA EL MUNICIPIO DE TIJUANA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2014.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el sábado 10 de octubre de 1992.
 
@@ -81,9 +81,17 @@ Las personas fisicas afectos al presente Reglamento, por cuanto a las licencias 
 
 Los permisos y licencias que expida la Autoridad Municipal a los vendedores sujetos a este Reglamento, tendrán el carácter de temporales y su duración no podrá exceder de un año, cuyo vencimiento cada año es en el mes de Enero, mismo que podrá prorrogarse a Juicio del propio Ayuntamiento al cumplirse con la normatividad vigente, y cumplimiento con las obligaciones fiscales, siempre y cuando las condiciones de vialidad, tránsito, prestación de los servicios públicos Municipales y el Desarrollo Urbano de Tijuana lo permitan.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2014)</small>
+
 ###### ARTICULO 8o.
 
-Unicamente podran otorgarse o prorrogarse el otorgamiento de permisos a las personas que mediante estudio socio economico que practique institucion oficial, se demuestre que se trata de una persona de edad avanzada y no asalariada o bien un minusvalido y que carezca de otra fuente de ingresos que le permita sobrevivir.
+Únicamente podrán otorgarse los permisos a las personas que mediante estudio socioeconómico que practique Desarrollo Social Municipal o DIF, en el que arroje como resultado que se trata de una persona adulta mayor de 60 años y no asalariada; madre soltera que no tenga una fuente de empleo o de una persona con discapacidad que carezca de otros ingresos que le permitan sobrevivir.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2014)</small>
+
+###### ARTICULO 8o.
+
+BIS.- Si de los estudios socioeconómicos descritos en el artículo anterior se desprende que el solicitante no se encuentra en posibilidades de cubrir el costo total del permiso podrá prorrogarse el otorgamiento del mismo hasta por 30 días.
 
 ###### ARTICULO 9o.
 
@@ -123,7 +131,7 @@ B.- Pago de inicio de tramite ante Tesoreria, sin que el mismo le confiera al so
 
 C.- La solicitud puede ser rechazada de plano en el instante mismo de su presentacion;
 
-D.- Una vez que la solicitud hubiese sido declarada procedente por el Departamento de Reglamentos se turnara a la Secretaria del Ayuntamiento para la autorizacion de tramite o en su caso podra solicitarse el dictamen de la Direccion de Planeacion del Desarrollo Urbano y Ecologia o de la·Direccion de Obras y Servicios Publicos Municipales;
+D.- Una vez que la solicitud hubiese sido declarada procedente por el Departamento de Reglamentos se turnara a la Secretaria del Ayuntamiento para la autorizacion de tramite o en su caso podra solicitarse el dictamen de la Direccion de Planeacion del Desarrollo Urbano y Ecologia o de la Direccion de Obras y Servicios Publicos Municipales;
 
 E.- Otorgamiento o negativa definitiva del permiso o licencia.
 
@@ -157,7 +165,7 @@ B.- Carta de Residencia que expide la Autoridad Municipal;
 
 C.- Carta de NO ANTECEDENTES PENALES que expide la Autoridad Municipal;
 
-D.- Carta de Autorizacion que presente el menor de edad comprendida entre los l5 a los 18 anos (sic) de edad, que expida el Departamento de Reglamentos, la cual ratifique en comparecencia personal ante dicha dependencia municipal el Padre o Tutor;
+D.- Carta de Autorizacion que presente el menor de edad comprendida entre los 15 a los 18 anos (sic) de edad, que expida el Departamento de Reglamentos, la cual ratifique en comparecencia personal ante dicha dependencia municipal el Padre o Tutor;
 
 F (SIC).- Recibo de pago de derechos por tramite de la solicitud de permiso expedida por la Tesoreria Municipal;
 
@@ -261,7 +269,7 @@ VI.- Mantener el espacio que ocupan en perfecto estado de limpieza, absteniendos
 
 VII.- En el caso de quienes se dedican al expendio de pescado o mariscos. deberan utilizar aserrín dentro de un deposito mobible adecuado para ello, que permita captar el agua residual del producto expendido, con el objeto de evitar malos olores y presencia de insectos a su alrededor;
 
-lX (SIC).- Cumplir con las normas y disposiciones que tengan correlacion con esta materia y se encuentren previstos por las Leyes, el presente Reglamento y los demas Reglamentos Municipales.
+IX (SIC).- Cumplir con las normas y disposiciones que tengan correlacion con esta materia y se encuentren previstos por las Leyes, el presente Reglamento y los demas Reglamentos Municipales.
 
 ###### ARTICULO 19.
 
@@ -353,7 +361,7 @@ La Comision Trilateral Municipal estara integrada de la siguiente manera:
 
 POR EL AYUNTAMIENTO DE TIJUANA:
 
-I.- El C.Secretario del Ayuntamiento, o la persona que venga a designar para que lo sustituya en su ausencia;
+I.- El C. Secretario del Ayuntamiento, o la persona que venga a designar para que lo sustituya en su ausencia;
 
 II.- El C. Director de Promocion Economica y Social, o la persona que venga a designar en su lugar por cuestiones de ausencia;
 
@@ -525,7 +533,7 @@ REGIDOR
 
 Sin Rúbrica
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 21 DE NOVIEMBRE DE 1997.
 
@@ -560,3 +568,7 @@ SEGUNDO.- Se derogan todas las disposiciones que contravengan lo contenido en el
 P.O. 27 DE DICIEMBRE DE 2010.
 
 QUINTO.- El presente acuerdo entrara en vigor al momento de su aprobación.
+
+P.O. 31 DE OCTUBRE DE 2014.
+
+PRIMERO: El presente acuerdo una vez aprobado, entrara en vigor a partir del momento de su publicación en el Periódico Oficial del Estado de Baja California, y se publicara en la Gaceta Municipal, Órgano de difusión del Ayuntamiento de Tijuana, Baja California, para conocimiento de la ciudadanía.
