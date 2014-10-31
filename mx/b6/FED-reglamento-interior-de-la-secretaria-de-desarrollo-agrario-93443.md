@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-desarrollo-agrario-9344
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-04-02"
-last_updated: "2013-04-02"
+last_updated: "2014-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93443&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-04-01"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE OCTUBRE DE 2014.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 2 de abril de 2013.
 
@@ -59,9 +59,15 @@ a) Unidad de Asuntos Jurídicos;
 
 b) Unidad de Políticas, Planeación y Enlace Institucional;
 
-c) Unidad de Programas de Apoyo a la Infraestructura y Servicios, y
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-d) Coordinación General de Modernización y Vinculación Registral y Catastral;
+c) Unidad de Programas de Apoyo a la Infraestructura y Servicios;
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+d) Unidad de Utilización del Suelo para Proyectos en Energía e Inversiones Físicas de los Fondos Mineros, y
+
+e) Coordinación General de Modernización y Vinculación Registral y Catastral;
 
 IV. Direcciones Generales:
 
@@ -94,6 +100,14 @@ m) De Capital Humano y Desarrollo Organizacional;
 n) De Programación y Presupuestación;
 
 ñ) De Tecnologías de la Información y Comunicaciones;
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+o) De Contratos y Negociaciones, y
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+p) De Organización y Evaluación del Fondo para el Desarrollo Regional Sustentable de Estados y Municipios Mineros, y
 
 V. Delegaciones Estatales, y
 
@@ -177,9 +191,15 @@ XXIV. Designar al servidor público encargado provisionalmente del despacho de l
 
 XXV. Resolver las dudas que se presenten con motivo de la interpretación o aplicación de este Reglamento y los casos no previstos en el mismo;
 
-XXVI. Establecer los mecanismos de supervisión regional de las delegaciones estatales de la Secretaría, y
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-XXVII. Las demás que con ese carácter le correspondan conforme a las disposiciones jurídicas aplicables.
+XXVI. Establecer los mecanismos de supervisión regional de las delegaciones estatales de la Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XXVII. Designar a los servidores públicos de la Secretaría que auxiliarán a la Unidad de Utilización del Suelo para Proyectos en Energía e Inversiones Físicas de los Fondos Mineros, para el desarrollo de los procedimientos de mediación contemplados en la Ley de Hidrocarburos y en la Ley de la Industria Eléctrica, y
+
+XXVIII. Las demás que con ese carácter le correspondan conforme a las disposiciones jurídicas aplicables.
 
 ### CAPÍTULO III. DE LAS FACULTADES GENÉRICAS DE LAS SUBSECRETARÍAS Y DE LA OFICIALÍA MAYOR
 
@@ -359,7 +379,9 @@ XX. Establecer la normativa técnica y operativa para la ejecución de los progr
 
 A la Subsecretaría de Desarrollo Agrario le corresponde el ejercicio de las atribuciones siguientes:
 
-I. Formular y proponer al Secretario la política de desarrollo agrario;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+I. Formular y proponer al Secretario la política de desarrollo agrario, así como las políticas tendientes a facilitar la resolución de conflictos por la utilización del suelo para proyectos en materia energética;
 
 II. Participar en materia de desarrollo agrario en la formulación de los programas nacionales, sectorial (sic), regionales y especiales de la Secretaría y de las entidades paraestatales sectorizadas, así como coadyuvar en la promoción, control y evaluación del cumplimiento de dichos programas;
 
@@ -397,9 +419,21 @@ j) Instrumentar mecanismos para fortalecer las capacidades de las organizaciones
 
 IX. Coordinar junto con las dependencias y entidades competentes de la Administración Pública Federal, así como con los gobiernos de las entidades federativas y de los municipios que correspondan, la planeación, financiamiento y ejecución de programas y acciones necesarios para la constitución de reservas de crecimiento referidas en el inciso f) de la fracción anterior;
 
-X. Implementar las acciones necesarias para la promoción y el desarrollo de la vivienda rural sustentable, y
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-XI. Promover la participación del sector social en la planeación, ejecución y evaluación de los programas de desarrollo agrario, en los términos de las disposiciones aplicables.
+X. Implementar las acciones necesarias para la promoción y el desarrollo de la vivienda rural sustentable;
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XI. Promover la participación del sector social en la planeación, ejecución y evaluación de los programas de desarrollo agrario, en los términos de las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XII. Coordinar los procesos que realice la Secretaría en términos de la Ley de Hidrocarburos, la Ley de la Industria Eléctrica y sus Reglamentos, así como las acciones para la aplicación de los recursos del Fondo para el Desarrollo Regional Sustentable de Estados y Municipios Mineros, y su organización en términos de la Ley Federal de Derechos, y
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XIII. Coordinar la intervención que corresponda a la Secretaría para la elaboración de los estudios de impacto social, respecto del área objeto de las asignaciones o los contratos en materia de hidrocarburos.
 
 ### CAPÍTULO V. DE LA OFICIALÍA MAYOR
 
@@ -646,6 +680,46 @@ VIII. Integrar un banco de información con los análisis, prospectiva y estadí
 IX. Desarrollar programas, proyectos, estudios y acciones de asistencia técnica y capacitación a los administradores y técnicos de los organismos operadores de la infraestructura y el equipamiento básico, así como de los servicios públicos municipales, y
 
 X. Mantener informadas a las delegaciones estatales de la Secretaría sobre los programas y presupuestos anuales aprobados en el ámbito de su competencia.
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 16 Bis.
+
+La Unidad de Utilización del Suelo para Proyectos en Energía e Inversiones Físicas de los Fondos Mineros estará adscrita a la Subsecretaría de Desarrollo Agrario, y tendrá las atribuciones siguientes:
+
+I. Ejercer las atribuciones que la Ley de Hidrocarburos, la Ley de la Industria Eléctrica y sus Reglamentos, le confieren a la Secretaría;
+
+II. Proponer acciones tendientes a facilitar la resolución de conflictos entre los asignatarios, contratistas, generadores, transportistas o distribuidores de energéticos y los propietarios o titulares de terrenos, o de bienes o derechos sobre los mismos, cuando sea requerida formalmente la participación de la Secretaría por persona legitimada para ello, en términos de la Ley de Hidrocarburos, la Ley de la Industria Eléctrica, sus reglamentos y demás disposiciones jurídicas aplicables;
+
+III. Promover e impulsar acciones que propicien condiciones de igualdad entre los ejidatarios y comuneros y los asignatarios, contratistas, generadores, transportistas o distribuidores de energéticos en las negociaciones que lleven a cabo para llegar a un acuerdo sobre el uso, goce o afectación de terrenos, bienes o derechos y la contraprestación que corresponda;
+
+IV. Impulsar acciones que permitan llegar a un acuerdo en las negociaciones que se lleven a cabo entre los asignatarios, contratistas, generadores, transportistas o distribuidores de energéticos y los propietarios o titulares de terrenos, bienes o derechos;
+
+V. Formular, en el ámbito de competencia de la Secretaría, las disposiciones y lineamientos necesarios para regular los procesos de negociación y mediación, tendientes a lograr una solución acordada entre los asignatarios, contratistas, generadores, trasportistas o distribuidores de energéticos y los propietarios o titulares de terrenos, bienes o derechos, sobre las formas o modalidades de adquisición, uso, goce o afectación de los terrenos, bienes o derechos, así como la contraprestación que corresponda;
+
+VI. Supervisar el registro y dar seguimiento de las notificaciones de inicio de negociaciones que presenten ante la Secretaría los asignatarios, contratistas, generadores, transportistas o distribuidores de energéticos, para llegar a un acuerdo con los propietarios o titulares de terrenos, bienes o derechos sobre el uso, goce o afectación de éstos, para la realización de las actividades de exploración y extracción de hidrocarburos, de transporte por medio de ductos de hidrocarburos, petrolíferos o petroquímicos y de reconocimiento y exploración superficial, así como de generación, transmisión y distribución de energía eléctrica;
+
+VII. Formular opiniones para coadyuvar con la Secretaría de Energía en la emisión de lineamientos y modelos de contratos entre los asignatarios y contratistas, y los propietarios o titulares de terrenos, bienes o derechos sobre el uso, goce o afectación de éstos, necesarios para realizar las actividades de exploración y extracción de hidrocarburos, de transporte por medio de ductos de hidrocarburos, petrolíferos o petroquímicos y de reconocimiento y exploración superficial en términos de los artículos 101, fracción VIII y 117 de la Ley de Hidrocarburos;
+
+VIII. Intervenir en el ámbito de competencia de la Secretaría, en la elaboración de los estudios de impacto social respecto del área objeto de las asignaciones o los contratos para la exploración y extracción de hidrocarburos;
+
+IX. Establecer los lineamientos y procedimientos para dar trámite a la constitución de servidumbres legales, por vía administrativa, conforme a las disposiciones de la Ley de Hidrocarburos, de la Ley de la Industria Eléctrica y de sus Reglamentos;
+
+X. Elaborar los dictámenes preliminares sobre la procedencia para decretar una servidumbre legal, por vía administrativa, así como los proyectos de resolución mediante los cuales el Ejecutivo Federal constituye las servidumbres legales, por vía administrativa, conforme a las disposiciones de la Ley de Hidrocarburos, de la Ley de la Industria Eléctrica y de sus reglamentos;
+
+XI. Emitir las opiniones que le solicite a la Secretaría y la Comisión Reguladora de Energía, respecto de las determinaciones de zonas geográficas para la Distribución por ducto de Gas Natural;
+
+XII. Ejercer las atribuciones que corresponden a la Secretaría respecto del Fondo para el Desarrollo Regional Sustentable de Estados y Municipios Mineros;
+
+XIII. Coadyuvar con otras dependencias y entidades de la Administración Pública Federal, cuando así lo soliciten, en la resolución de conflictos, cuando se expropien o afecten tierras tuteladas por la legislación agraria, para destinarlas a la actividad minera;
+
+XIV. Coordinar acciones con los representantes que sean designados por el Secretario, en los Comités de Desarrollo Regional para las Zonas Mineras;
+
+XV. Proponer las reglas generales de operación a las que deberán sujetarse los Comités de Desarrollo Regional para las Zonas Mineras, conforme a la Ley Federal de Derechos y demás disposiciones jurídicas aplicables;
+
+XVI. Supervisar las actividades de los Comités de Desarrollo Regional para las Zonas Mineras y documentar sus actos y acuerdos, y
+
+XVII. Someter a la aprobación de los Comités de Desarrollo Regional para las Zonas Mineras, los proyectos de inversión física que reúnan los requisitos establecidos en la Ley Federal de Derechos, los Lineamientos del Fondo para el Desarrollo Regional Sustentable de Estados y Municipios Mineros y las reglas generales de operación de dichos Comités y demás disposiciones jurídicas aplicables.
 
 ###### Artículo 17.
 
@@ -1131,6 +1205,56 @@ XVI. Recibir, custodiar y, en su caso, efectuar la cancelación de las garantía
 
 XVII. Coordinar el funcionamiento de los Comités de Adquisiciones, Arrendamientos y Servicios; de Obras Públicas y Servicios Relacionados con las mismas; de Bienes Muebles, y de los subcomités respectivos, así como dar seguimiento a los acuerdos que éstos tomen.
 
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 29 Bis.
+
+La Dirección General de Contratos y Negociaciones estará adscrita a la Unidad de Utilización del Suelo para Proyectos en Energía e Inversiones Físicas de los Fondos Mineros, y tendrá las atribuciones siguientes:
+
+I. Realizar las acciones tendientes a facilitar la resolución de conflictos entre los asignatarios, contratistas, generadores, transportistas o distribuidores de energéticos y los propietarios o titulares de terrenos o de bienes o derechos sobre los mismos, respecto de los procedimientos en los que intervenga la Unidad de Utilización del Suelo para Proyectos en Energía e Inversiones Físicas de los Fondos Mineros;
+
+II. Participar en la formulación e impulso de acciones que propicien condiciones de igualdad entre los ejidatarios y comuneros y los asignatarios, contratistas, generadores, transportistas o distribuidores de energéticos en las negociaciones que lleven a cabo para llegar a un acuerdo sobre el uso, goce o afectación de terrenos, bienes o derechos y la contraprestación que corresponda;
+
+III. Implementar un sistema de registro de las notificaciones de inicio de negociaciones que presenten ante la Secretaría los asignatarios, contratistas, generadores, transportistas o distribuidores de energéticos, para llegar a un acuerdo con los propietarios o titulares de terrenos, bienes o derechos sobre el uso, goce o afectación de éstos, para la realización de las actividades de exploración y extracción de hidrocarburos, de transporte por medio de ductos de hidrocarburos, petrolíferos o petroquímicos y de reconocimiento y exploración superficial, así como de generación, transmisión y distribución de energía eléctrica;
+
+IV. Integrar, revisar y proponer al titular de la Unidad de Utilización del Suelo para Proyectos en Energía e Inversiones Físicas de los Fondos Mineros, las opiniones para coadyuvar con la Secretaría de Energía en la emisión de lineamientos y modelos de contratos entre los asignatarios y contratistas y los propietarios o titulares de terrenos, bienes o derechos sobre el uso, goce o afectación de los mismos, necesarios para realizar las actividades de exploración y extracción de hidrocarburos, de transporte por medio de ductos de hidrocarburos, petrolíferos o petroquímicos y de reconocimiento y exploración superficial en términos de los artículos 101, fracción VIII y 117 de la Ley de Hidrocarburos;
+
+V. Instrumentar y aplicar, en el ámbito de competencia de la Secretaría, los procesos de negociación y mediación tendientes a lograr una solución acordada entre los asignatarios, contratistas, generadores, transportistas y distribuidores de energéticos y los propietarios o titulares de terrenos, bienes o derechos sobre los mismos;
+
+VI. Integrar y resguardar los expedientes que deriven de los procesos de negociación y de mediación a que se refiere la fracción anterior, conforme a las disposiciones jurídicas aplicables;
+
+VII. Tramitar los procedimientos administrativos para la constitución de servidumbres legales, por vía administrativa, conforme a las disposiciones de la Ley de Hidrocarburos, la Ley de la Industria Eléctrica y sus reglamentos;
+
+VIII. Elaborar manuales y folletos para que los ejidatarios y comuneros estén informados de sus derechos y puedan hacerlos valer en los procesos de negociación y mediación a que se refieren la Ley de Hidrocarburos, la Ley de la Industria Eléctrica y sus reglamentos, y
+
+IX. Coordinar un programa de capacitación integral y permanente que permita profesionalizar a los servidores públicos de la Secretaría que participan en los procesos de mediación, así como organizar y participar en foros, seminarios, diplomados y cursos sobre la materia de su competencia.
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 29 Ter.
+
+La Dirección General de Organización y Evaluación del Fondo para el Desarrollo Regional Sustentable de Estados y Municipios Mineros estará adscrita a la Unidad de Utilización del Suelo para Proyectos en Energía e Inversiones Físicas de los Fondos Mineros, y tendrá las atribuciones siguientes:
+
+I. Coordinar la integración y vigilar el funcionamiento de los Comités de Desarrollo Regional para las Zonas Mineras en las entidades federativas;
+
+II. Ser la instancia de enlace interinstitucional de la Secretaría con los distintos órdenes de gobierno respecto de las actividades de los Comités de Desarrollo Regional para las Zonas Mineras;
+
+III. Elaborar los proyectos de reglas generales de operación de los Comités de Desarrollo Regional para las Zonas Mineras y, en su caso, sus modificaciones, así como someterlas a la consideración del titular de la Unidad de Utilización del Suelo para Proyectos en Energía e Inversiones Físicas de los Fondos Mineros;
+
+IV. Elaborar los lineamientos de actuación de los representantes de la Secretaría en los Comités de Desarrollo Regional para las Zonas Mineras y, en su caso, sus modificaciones, así como someterlas a la consideración del titular de la Unidad de Utilización del Suelo para Proyectos en Energía e Inversiones Físicas de los Fondos Mineros;
+
+V. Proponer el plan de actividades de los Comités de Desarrollo Regional para las Zonas Mineras, que corresponde desempeñar a la Secretaría;
+
+VI. Dar seguimiento a las actividades de los representantes del Secretario, de los secretarios ejecutivos y de actas de los Comités de Desarrollo Regional para las Zonas Mineras, y demás servidores públicos de la Secretaría que participen en dichos Comités;
+
+VII. Establecer mecanismos para que se realicen las convocatorias a las sesiones de los Comités de Desarrollo Regional para las Zonas Mineras, se verifique el quórum, se preparare el orden del día, se levanten las actas de las sesiones correspondientes, y se realice la formalización y archivo de éstas;
+
+VIII. Difundir de manera permanente las disposiciones que rigen la operación del Fondo para el Desarrollo Regional Sustentable de Estados y Municipios Mineros;
+
+IX. Coordinar la elaboración de las opiniones sobre si los proyectos de inversión física que sean sometidos a los Comités de Desarrollo Regional para las Zonas Mineras, cumplen con los requisitos previstos en la Ley Federal de Derechos, los Lineamientos del Fondo para el Desarrollo Regional Sustentable de Estados y Municipios Mineros, las reglas generales de operación de dichos Comités, y demás disposiciones jurídicas aplicables, y
+
+X. Coordinar la elaboración de medidas que permitan unificar la actividad y funcionamiento de los Comités de Desarrollo Regional para las Zonas Mineras.
+
 ###### Artículo 30.
 
 La Dirección General de Capital Humano y Desarrollo Organizacional estará adscrita a la Oficialía Mayor y tendrá las atribuciones siguientes:
@@ -1364,3 +1488,9 @@ Lo dispuesto en el párrafo anterior no aplicará en los casos en que exista rie
 En relación a los expedientes, asuntos, procedimientos y recursos instaurados en la Secretaría de la Reforma Agraria, que serán asumidos por la Secretaría de Desarrollo Agrario, Territorial y Urbano, la publicación en el Diario Oficial de la Federación del presente Reglamento, hace las veces de notificación de que esta Secretaría continuará con el trámite y resolución de los mismos, para todos los efectos legales.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a primero de abril de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Desarrollo Agrario, Territorial y Urbano, Jorge Carlos Ramírez Marín.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 31 DE OCTUBRE DE 2014.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
