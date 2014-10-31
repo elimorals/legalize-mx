@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-economia-90212"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-11-22"
-last_updated: "2013-01-14"
+last_updated: "2014-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90212&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ REGLAMENTO INTERIOR DE LA SECRETARÍA DE ECONOMÍA
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO TERCERO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. DE 14 DE ENERO DE 2013, LAS REFERENCIAS QUE SE HAGAN EN OTRAS DISPOSICIONES A LA SUBSECRETARÍA PARA LA PEQUEÑA Y MEDIANA EMPRESA, SE ENTENDERÁN HECHAS AL INSTITUTO NACIONAL DEL EMPRENDEDOR.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE OCTUBRE DE 2014.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 22 de noviembre de 2012.
 
@@ -68,6 +68,10 @@ IV. Unidad de Asuntos Jurídicos;
 V. Unidad de Prácticas Comerciales Internacionales;
 
 VI. Unidad de Compras de Gobierno;
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+VI Bis. Unidad de Contenido Nacional y Fomento de Cadenas Productivas e Inversión en el Sector Energético;
 
 VII. Unidad de Negociaciones Internacionales;
 
@@ -129,13 +133,21 @@ XXXV. Dirección General de Comunicación Social;
 
 XXXVI. Dirección General de Vinculación Política;
 
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XXXVI Bis. Dirección General de Fomento de Cadenas Productivas e Inversión en el Sector Energético;
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XXXVI Ter. Dirección General de Contenido Nacional en el Sector Energético;
+
 XXXVII. Delegaciones y subdelegaciones federales, y
 
 XXXVIII. Representaciones Comerciales en el Extranjero.
 
 C. Los órganos administrativos desconcentrados siguientes:
 
-I. Comisión Federal de Competencia;
+I. (DEROGADA, D.O.F. 31 DE OCTUBRE DE 2014)
 
 > <small>(REFORMADA, D.O.F. 14 DE ENERO DE 2013)</small>
 
@@ -363,7 +375,9 @@ XVI. Las demás que les atribuyan las disposiciones legales o reglamentarias o l
 
 Son atribuciones de la Coordinación General de Minería:
 
-I. Supervisar y coordinar las actividades que en materia minera deriven del artículo 27 constitucional y aplicar la Ley Minera, su Reglamento y demás disposiciones administrativas, en el ámbito de su competencia, auxiliándose del Servicio Geológico Mexicano y Fideicomiso de Fomento Minero;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+I. Supervisar y coordinar las actividades que en materia minera deriven del artículo 27 constitucional y aplicar, en el ámbito de competencia de la Secretaría, la Ley Minera, la Ley de Hidrocarburos, la Ley de la Industria Eléctrica, así como sus respectivos Reglamentos y demás disposiciones administrativas, auxiliándose del Servicio Geológico Mexicano y del Fideicomiso de Fomento Minero;
 
 II. Coordinar la elaboración, seguimiento, evaluación y, en su caso, modificación del programa sectorial en materia minera de conformidad con los ordenamientos jurídicos aplicables, así como participar en la elaboración de los programas regionales y especiales que determine el Ejecutivo Federal en la materia;
 
@@ -575,6 +589,38 @@ XIX. Las demás en materia de compras de gobierno que sean competencia de la Sec
 
 La Unidad de Compras de Gobierno estará a cargo de un Jefe de Unidad, auxiliado en el ejercicio de sus atribuciones, por el Director “A”, Subdirector “A” y Subdirector “B”.
 
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+ARTÍCULO 16 BIS.- Son atribuciones de la Unidad de Contenido Nacional y Fomento de Cadenas Productivas e Inversión en el Sector Energético:
+
+I. Establecer la meta de contenido nacional en términos de la Ley de Hidrocarburos;
+
+II. Supervisar la elaboración, así como autorizar y proponer a su superior jerárquico, la metodología para medir el contenido nacional en asignaciones y contratos de exploración y extracción de hidrocarburos y demás actividades de la industria de hidrocarburos, así como en la industria eléctrica;
+
+III. Llevar el control y seguimiento de los resultados derivados de la verificación del cumplimiento de las metas de contenido nacional establecidas en las asignaciones y contratos de exploración y extracción de hidrocarburos;
+
+IV. Supervisar la verificación del contenido nacional en asignaciones y contratos de exploración y extracción de hidrocarburos y demás actividades de la industria de hidrocarburos, así como en la industria eléctrica, en términos de la Ley de Hidrocarburos y la Ley de la Industria Eléctrica;
+
+V. Revisar y requerir la información a un tercero independiente o a las autoridades competentes para verificar el contenido nacional en asignaciones y contratos de exploración y extracción de hidrocarburos y demás actividades de la industria de hidrocarburos, así como en la industria eléctrica, en términos de la Ley de Hidrocarburos y la Ley de la Industria Eléctrica;
+
+VI. Revisar y requerir, en su caso, la información a las empresas de la industria de hidrocarburos y de la industria eléctrica sobre el contenido nacional en las actividades que realicen, en términos de las disposiciones jurídicas aplicables;
+
+VII. Emitir la opinión respecto del porcentaje mínimo de contenido nacional que deberán cumplir individualmente y de forma progresiva los asignatarios y contratistas para la exploración y extracción de hidrocarburos, conforme a la Ley de Hidrocarburos;
+
+VIII. Definir, con la opinión de la Secretaría de Energía, las estrategias para el fomento industrial de cadenas productivas locales y para el fomento de la inversión directa en las industrias de hidrocarburos y eléctrica, conforme a la Ley de Hidrocarburos y la Ley de la Industria Eléctrica;
+
+IX. Supervisar el seguimiento al avance de las estrategias para el fomento industrial de cadenas productivas locales y para el fomento de la inversión directa en las industrias de hidrocarburos y eléctrica;
+
+X. Proponer a su superior jerárquico, y publicar, el informe sobre los avances en la implementación de las estrategias para el fomento industrial de cadenas productivas locales y para el fomento de la inversión directa en las industrias de hidrocarburos y eléctrica;
+
+XI. Coordinar y verificar la operación de fideicomisos y demás instrumentos enfocados a la ejecución de la política nacional en materia de contenido nacional y desarrollo de proveedores y contratistas de la industria energética conforme a lo dispuesto en la Ley de Hidrocarburos y la Ley de la Industria Eléctrica;
+
+XII. Imponer las sanciones que corresponden a la Secretaría conforme a lo previsto en la Ley de Hidrocarburos, y
+
+XIII. Las demás que le confieran otras disposiciones jurídicas en el ámbito de su competencia, así como aquellas funciones que le encomiende el Secretario.
+
+La Unidad de Contenido Nacional y Fomento de Cadenas Productivas e Inversión en el Sector Energético estará a cargo de un Jefe de Unidad, y será auxiliado en el ejercicio de sus atribuciones, por los Directores Generales de Fomento de Cadenas Productivas e Inversión en el Sector Energético y, de Contenido Nacional en el Sector Energético.
+
 ###### ARTÍCULO 17.
 
 Son atribuciones de la Unidad de Negociaciones Internacionales:
@@ -625,7 +671,9 @@ El Secretariado Técnico de la Competitividad estará a cargo de un Secretario T
 
 Son atribuciones de la Dirección General de Inversión Extranjera:
 
-I. Ejecutar los lineamientos de política en materia de inversión extranjera;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+I. Ejecutar los lineamientos de política en materia de inversión extranjera, así como las resoluciones generales de la Comisión Nacional de Inversiones Extranjeras;
 
 II. Representar a la Secretaría en los foros internacionales en materia de inversión extranjera y, en su caso, coordinar e implementar los compromisos asumidos;
 
@@ -653,7 +701,9 @@ La Dirección General de Inversión Extranjera estará a cargo de un Director Ge
 
 Son atribuciones de la Dirección General de Normas:
 
-I. Ejercer las atribuciones conferidas a la Secretaría en la Ley Federal sobre Metrología y Normalización, la Ley Federal de Protección al Consumidor, los reglamentos y demás disposiciones aplicables en materia de normalización, metrología y evaluación de la conformidad, así como los acuerdos y tratados internacionales en esa materia sin perjuicio de las facultades conferidas a la Subsecretaría de Comercio Exterior, así como coordinarse con otras dependencias y entidades de la Administración Pública Federal para el cumplimiento de dichos ordenamientos;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+I. Ejercer las atribuciones conferidas a la Secretaría en la Ley Federal sobre Metrología y Normalización, la Ley Federal de Protección al Consumidor, la Ley de Hidrocarburos, Ley Federal de Telecomunicaciones y Radiodifusión, los reglamentos y demás disposiciones aplicables en materia de normalización, metrología y evaluación de la conformidad, así como los acuerdos y tratados internacionales en esa materia sin perjuicio de las facultades conferidas a la Subsecretaría de Comercio Exterior, así como coordinarse con otras dependencias y entidades de la Administración Pública Federal para el cumplimiento de dichos ordenamientos;
 
 II. Diseñar, promover y difundir políticas públicas y estrategias en materia de metrología, normalización y evaluación de la conformidad, en el ámbito nacional y en el internacional sin perjuicio de las facultades conferidas a la Subsecretaría de Comercio Exterior en cuanto a la promoción y difusión de las mismas a nivel internacional;
 
@@ -687,7 +737,9 @@ XVI. Autorizar la operación de las entidades de acreditación, previa opinión 
 
 XVII. Aprobar, en su caso, a las personas acreditadas que se requieran para realizar la evaluación de la conformidad con las normas oficiales mexicanas, así como renovar, suspender o revocar la aprobación conforme a lo dispuesto en la Ley Federal sobre Metrología y Normalización y su Reglamento;
 
-XVIII. Revisar y verificar las actividades de las entidades de acreditación y de las personas acreditadas competencia de la Secretaría; coordinar con ellas la promoción del Sistema Nacional de Evaluación de la Conformidad y establecerles obligaciones específicas relacionadas con las tarifas, calidad y oportunidad del servicio, cuando tengan poder sustancial en el mercado relevante, de conformidad con las resoluciones que al efecto emita la Comisión Federal de Competencia;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XVIII. Revisar y verificar las actividades de las entidades de acreditación y de las personas acreditadas competencia de la Secretaría; coordinar con ellas la promoción del Sistema Nacional de Evaluación de la Conformidad y establecerles obligaciones específicas relacionadas con las tarifas, calidad y oportunidad del servicio, cuando tengan poder sustancial en el mercado relevante, de conformidad con las resoluciones que al efecto emita la Comisión Federal de Competencia Económica;
 
 XIX. Recibir y resolver sobre las reclamaciones e inconformidades que se presenten en contra de las entidades de acreditación o de las personas acreditadas y, en su caso, aprobadas, competencia de la Secretaría; requerirles información, vigilar y verificar su actuación, opinar sobre la suspensión o cancelación de las acreditaciones que otorguen y, en su caso, revisar dichas acreditaciones;
 
@@ -947,7 +999,9 @@ VI. Coordinar las actividades necesarias para la celebración de concursos para 
 
 VII. Formular las declaratorias de libertad de terreno o de insubsistencia de las mismas y solicitar su publicación en el Diario Oficial de la Federación;
 
-VIII. Autorizar la realización de obras y trabajos mineros de exploración y explotación de carbón en todas sus variedades en terrenos amparados por asignaciones petroleras, previa opinión de la autoridad competente, así como los agrupamientos de concesiones mineras o la incorporación o separación de éstas a dichos agrupamientos;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+VIII. Autorizar la realización de obras y trabajos mineros de exploración y explotación de carbón en todas sus variedades en terrenos amparados por asignaciones o por contratos para la exploración y extracción de hidrocarburos, en términos de la Ley de Hidrocarburos y su Reglamento, así como los agrupamientos de concesiones mineras o la incorporación o separación de éstas a dichos agrupamientos;
 
 IX. Tramitar y resolver los expedientes de expropiación, ocupación temporal y constitución de servidumbres e insubsistencia de éstas;
 
@@ -957,9 +1011,33 @@ XI. Ejercer las facultades de verificación que le confieren a la Secretaría la
 
 XII. Resolver los recursos de revisión interpuestos en contra de resoluciones emitidas por sus inferiores jerárquicos, en su caso, en coordinación con la Unidad de Asuntos Jurídicos;
 
-XIII. Participar en los órganos de gobierno de las entidades del sector coordinado en materia minera, cuando se le designe, y
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-XIV. Resolver sobre la suspensión o insubsistencia de los derechos que deriven de la concesión, así como de la realización de obras y trabajos mineros.
+XIII. Participar en los órganos de gobierno de las entidades del sector coordinado en materia minera, cuando se le designe;
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XIV. Resolver sobre la suspensión o insubsistencia de los derechos que deriven de la concesión, así como de la realización de obras y trabajos mineros;
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XV. Realizar estudios técnicos, en coordinación con la Secretaría de Energía, para determinar la factibilidad de la coexistencia de actividades mineras con las actividades preferentes de exploración y extracción de petróleo y demás hidrocarburos, o con las del servicio público de transmisión y distribución de energía eléctrica;
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XVI. Diseñar, elaborar y proponer, en conjunto con la Secretaría de Energía, reglas de convivencia entre las actividades mineras y las actividades preferentes de exploración y extracción del petróleo y de los demás hidrocarburos y del servicio público de transmisión y distribución de energía eléctrica;
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XVII. Llevar a cabo todas las acciones necesarias para la debida coordinación con las autoridades competentes en materia energética, a fin de cumplir con las disposiciones de la Ley Minera, la Ley de Hidrocarburos, la Ley de la Industria Eléctrica y sus Reglamentos, así como con las demás disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XVIII. Participar con las autoridades competentes, para determinar si en la superficie donde se encuentra el lote minero concesionado pueden coexistir las actividades mineras con las actividades preferentes de exploración y extracción de petróleo y demás hidrocarburos, o con las del servicio público de transmisión y distribución de energía eléctrica, así como si existe afectación a los derechos de una concesión minera donde se pretendan realizar las actividades preferentes a las que hace referencia esta fracción, y
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+XIX. Las demás que le confieran otras disposiciones jurídicas en el ámbito de su competencia, así como aquellas funciones que le encomiende el Secretario.
 
 La Dirección General de Regulación Minera estará a cargo de un Director General, auxiliado en el ejercicio de sus facultades, por los Directores de Control Documental; de Cartografía y Concesiones Mineras; del Registro Público de Minería y Derechos Mineros, y de Revisión de Obligaciones; por los Subdirectores de Control Documental; de Estadística; de Concesiones y Asignaciones; de Cartografía Minera; del Registro Público de Minería; de Control de Obligaciones; de Medio Ambiente, y de Derechos Mineros, y por los Jefes de los Departamentos de Dictaminación; de Inscripciones; de Cartografía; de Concesiones de Exploración; de Registro de Obligaciones; de Agrupamientos y Desistimientos, y de Verificación de Obligaciones.
 
@@ -1279,6 +1357,62 @@ VII. Las demás que le encomiende el Secretario o le confieran otras disposicion
 
 La Dirección General de Vinculación Política estará a cargo de un Director General, auxiliado en el ejercicio de sus facultades por el Director de Enlace; los Subdirectores de Enlace con la Cámara de Senadores; de Enlace con la Cámara de Diputados; de Enlace con el Gobierno Federal y Organizaciones Sociales, y de los Jefes de Departamento de Enlace con la Cámara de Diputados, y de Seguimiento Legislativo.
 
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+ARTÍCULO 48 BIS.- Son atribuciones de la Dirección General de Fomento de Cadenas Productivas e Inversión en el Sector Energético:
+
+I. Emitir opinión respecto del establecimiento de condiciones en los contratos para el financiamiento, instalación, mantenimiento, gestión, operación y ampliación de la infraestructura necesaria para prestar el servicio público de transmisión y distribución de energía eléctrica, que bajo las mismas circunstancias, se dé para dar cumplimiento con las preferencias que señala el artículo 93 de Ley de la Industria Eléctrica;
+
+II. Solicitar, en su caso, a las dependencias y entidades de la Administración Pública Federal, a las empresas productivas del Estado, así como a órganos constitucionales autónomos y demás órganos y organismos de las entidades federativas y municipales, las opiniones, información y documentación necesaria, en el ámbito de sus atribuciones, a efecto de coadyuvar en el desarrollo de la política nacional de fomento industrial de cadenas productivas locales y para el fomento de la inversión directa en las industrias de hidrocarburos y eléctrica;
+
+III. Emitir opinión respecto del establecimiento de condiciones que deberán incluirse en las asignaciones y los contratos para la exploración y extracción, así como en los permisos que contempla la Ley de Hidrocarburos, que bajo las mismas circunstancias, se dé para dar cumplimiento con las preferencias que señala el artículo 128 de dicha Ley;
+
+IV. Diseñar, proponer y dar seguimiento al avance de las estrategias para el fomento industrial de cadenas productivas locales y para el fomento de la inversión directa en las industrias de hidrocarburos y eléctrica, así como elaborar el informe sobre los avances en la implementación de dichas estrategias;
+
+V. Fungir como Secretaría Técnica de los Consejos Consultivos a los que se refieren los artículos 125 de Ley de Hidrocarburos y 90 de la Ley de la Industria Eléctrica, así como vigilar y dar seguimiento sobre el cumplimiento de las resoluciones y compromisos adoptados en dichos Consejos Consultivos;
+
+VI. Integrar, administrar y actualizar el registro de proveedores nacionales para la industria de hidrocarburos;
+
+VII. Integrar, administrar y actualizar el catálogo de proveedores nacionales para la industria eléctrica, y
+
+VIII. Las demás que le confieran otras disposiciones jurídicas en el ámbito de su competencia, así como aquellas funciones que le encomiende el Secretario.
+
+La Dirección General de Fomento de Cadenas Productivas e Inversión en el Sector Energético estará a cargo de un Director General, el cual se podrá auxiliar, en el ejercicio de sus atribuciones, por los directores generales adjuntos de Fomento de la Industria Eléctrica y de Fomento de la Industria de Hidrocarburos.
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+ARTÍCULO 48 TER.- Son atribuciones de la Dirección General de Contenido Nacional en el Sector Energético:
+
+I. Elaborar y proponer a su superior jerárquico la meta de contenido nacional en términos de la Ley de Hidrocarburos;
+
+II. Elaborar la metodología para medir el contenido nacional en asignaciones y contratos de exploración y extracción de hidrocarburos y demás actividades de la industria de hidrocarburos, así como en la industria eléctrica;
+
+III. Solicitar, en su caso, a las dependencias y entidades de la Administración Pública Federal, a las empresas productivas del Estado, así como a órganos constitucionales autónomos y demás órganos y organismos de las entidades federativas y municipales, las opiniones, información y documentación necesaria, en el ámbito de sus atribuciones en materia de contenido nacional en el sector energético;
+
+IV. Medir y verificar el cumplimiento de las metas de contenido nacional establecidas en las asignaciones y contratos de exploración y extracción de hidrocarburos;
+
+V. Realizar visitas de verificación para comprobar el cumplimiento de las disposiciones legales y reglamentarias en materia de contenido nacional;
+
+VI. Medir y verificar el cumplimiento de los porcentajes mínimos de contenido nacional establecidos en las asignaciones y contratos de exploración y extracción de hidrocarburos y demás actividades de la industria de hidrocarburos, así como en la industria eléctrica, en términos de la Ley de Hidrocarburos y la Ley de la Industria Eléctrica;
+
+VII. Solicitar el apoyo de un tercero independiente o de las autoridades competentes para verificar el contenido nacional en asignaciones y contratos de exploración y extracción de hidrocarburos y demás actividades de la industria de hidrocarburos, así como en la Industria Eléctrica, en términos de la Ley de Hidrocarburos y la Ley de la Industria Eléctrica;
+
+VIII. Requerir, en su caso, la información a las empresas de la industria de hidrocarburos y de la industria eléctrica sobre el contenido nacional en las actividades que realicen, en términos de las disposiciones jurídicas aplicables;
+
+IX. Elaborar la opinión respecto del porcentaje mínimo de contenido nacional que deberán cumplir individualmente y de forma progresiva los asignatarios y contratistas para la exploración y extracción de hidrocarburos, conforme a la Ley de Hidrocarburos;
+
+X. Determinar e informar a la autoridad competente sobre el incumplimiento del porcentaje de contenido nacional que corresponda por parte de un asignatario o contratista de exploración y extracción de Hidrocarburos, en términos de la Ley de Hidrocarburos;
+
+XI. Informar a la autoridad competente sobre el incumplimiento de la entrega de información por parte de las empresas de la industria eléctrica y del porcentaje de contenido nacional conforme a lo que establecen el inciso a) de la fracción II y la fracción VIII del artículo 165 de la Ley de la Industria Eléctrica;
+
+XII. Operar el Fideicomiso Público para Promover el Desarrollo de Proveedores y Contratistas Nacionales de la Industria Energética, a fin de dar cumplimiento a lo dispuesto en la Ley de Hidrocarburos y la Ley de la Industria Eléctrica;
+
+XIII. Imponer las sanciones que corresponden a la Secretaría conforme a lo previsto en la Ley de Hidrocarburos, y
+
+XIV. Las demás que le confieran otras disposiciones jurídicas en el ámbito de su competencia, así como aquellas funciones que le encomiende el Secretario.
+
+La Dirección General de Contenido Nacional en el Sector Energético estará a cargo de un Director General, el cual podrá auxiliarse en el ejercicio de sus atribuciones por los directores generales adjuntos de Verificación de Contenido Nacional y de Política de Contenido Nacional; por los directores de Verificación de Contenido Nacional A y B, de Política de Contenido Nacional A y B, y por los Subdirectores de Verificación de Contenido Nacional A, B, C, D y E y de Política de Contenido Nacional A, B, C, D y E.
+
 ### CAPÍTULO VI. De las Delegaciones y Subdelegaciones Federales
 
 ###### ARTÍCULO 49.
@@ -1558,3 +1692,7 @@ Las referencias que se hagan en otras disposiciones a la Subsecretaría para la 
 CUARTO.- Los asuntos pendientes al entrar en vigor este Decreto, que conforme al mismo deban pasar al Instituto Nacional del Emprendedor continuarán su trámite y serán resueltos hasta su conclusión por el Instituto.
 
 QUINTO.- Las modificaciones a la estructura orgánica de la Secretaría de Economía que deriven de la entrada en vigor del presente Decreto serán realizadas mediante movimientos compensados, por lo que no aumentarán el presupuesto regularizable de la Dependencia.
+
+D.O.F. 31 DE OCTUBRE DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
