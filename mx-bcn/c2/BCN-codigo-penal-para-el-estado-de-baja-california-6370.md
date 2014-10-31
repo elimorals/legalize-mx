@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2014-09-19"
+last_updated: "2014-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2014.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1475,7 +1475,7 @@ Concepto de ventaja condicionada.- Sólo será considerada la ventaja como calif
 
 ###### Artículo 150.
 
-Concepto de alevosía.- La alevosía consiste en sorprender intencionalmente, a alguien de improviso, o empleando acechanza (sic) u otro medio que no le dé lugar a defenderse ni evitar el daño que se le quiere hacer.
+Concepto de alevosía.- La alevosía consiste en sorprender intencionalmente, a alguien de improviso, o empleando acechanza u otro medio que no le dé lugar a defenderse ni evitar el daño que se le quiere hacer.
 
 ###### Artículo 151.
 
@@ -1487,9 +1487,7 @@ Homicidio o lesiones culposos.- Son punibles el homicidio y las lesiones causado
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2011)</small>
 
-###### Artículo 152 Bis.
-
-Sin menoscabo de la responsabilidad civil que corresponda, no será punible el Homicidio o las Lesiones, cuando estas sean resultado directo de reacciones o complicaciones propias de tratamientos o procedimientos médicos, necesarios para mantener o recuperar la salud, o tratándose de cirugías para modificar la apariencia, necesarias o no para la salud, siempre que concurra lo siguiente:
+Artículo 152 BIS.- Sin menoscabo de la responsabilidad civil que corresponda, no será punible el Homicidio o las Lesiones, cuando estas sean resultado directo de reacciones o complicaciones propias de tratamientos o procedimientos médicos, necesarios para mantener o recuperar la salud, o tratándose de cirugías para modificar la apariencia, necesarias o no para la salud, siempre que concurra lo siguiente:
 
 I.- Que exista evidencia que el médico explico el procedimiento o tratamiento al paciente, sus complicaciones o consecuencias posibles, el tiempo de recuperación y los cuidados y tratamientos que este deberá tener después de recibir el tratamiento o procedimiento médico y que cuente con el consentimiento expreso del paciente;
 
@@ -2143,9 +2141,7 @@ Cuando el valor de lo robado no exceda de 40 días de salario mínimo y se trate
 
 > <small>(REFORMADO, P.O. 28 DE JUNIO DE 2013)</small>
 
-###### Artículo 201 Bis.
-
-Tipo y punibilidad. A quien cometa el delito de robo en terreno rústico, además de las penas previstas en el artículo 201, se le impondrán de uno a cinco años de prisión y de cien hasta doscientos días multa, cuando este se realice respecto de semillas, frutos recolectados o pendientes de recolectar, postes o alambres integrantes de una cerca, motor eléctrico o cualquier parte de este, tubería para riego, maquinaria agrícola o cualesquiera otro equipo, componente o accesorio destinado al aprovechamiento agropecuario, pesquero o acuícola.
+Artículo 201 BIS.- Tipo y punibilidad. A quien cometa el delito de robo en terreno rústico, además de las penas previstas en el artículo 201, se le impondrán de uno a cinco años de prisión y de cien hasta doscientos días multa, cuando este se realice respecto de semillas, frutos recolectados o pendientes de recolectar, postes o alambres integrantes de una cerca, motor eléctrico o cualquier parte de este, tubería para riego, maquinaria agrícola o cualesquiera otro equipo, componente o accesorio destinado al aprovechamiento agropecuario, pesquero o acuícola.
 
 En el presente artículo será aplicable la excluyente de pretensión punitiva, prevista en los términos del último párrafo del artículo 201 de este Código.
 
@@ -3829,7 +3825,7 @@ Tipo y punibilidad.- Al que indebidamente destruya, retire, o de cualquier otro 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE ENERO DE 1997)</small>
 
-### CAPITULO UNICO
+### CAPITULO I. DELITOS CONTRA EL MEDIO AMBIENTE
 
 > <small>(REFORMADO, P.O. 27 DE ABRIL DE 2007)</small>
 
@@ -3841,7 +3837,7 @@ Para los efectos de esta disposición, se entiende por ultraje toda acción o ex
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2009)</small>
 
-Artículo 317 BIS.- delitos cometidos contra miembros de las instituciones policiales del Estado.- .Al que cometa un delito en contra de los miembros activos de las instituciones policiales del Estado, en el acto de ejercer sus funciones o con motivo de ellas se le impondrá prisión de cuatro a doce años, además de la que le corresponda por el delito cometido.
+Artículo 317 BIS.- delitos cometidos contra miembros de las instituciones policiales del Estado.- Al que cometa un delito en contra de los miembros activos de las instituciones policiales del Estado, en el acto de ejercer sus funciones o con motivo de ellas se le impondrá prisión de cuatro a doce años, además de la que le corresponda por el delito cometido.
 
 > <small>(ADICIONADO, P.O. 3 DE ENERO DE 1997)</small>
 
@@ -3851,9 +3847,9 @@ Esta disposición no surtirá efectos en los casos de delitos no graves por culp
 
 En el caso de Homicidio y lesiones calificadas contra algún miembro activo de las instituciones policiales del Estado, se atenderá a los (sic) dispuesto en el artículo 147 del presente Código.
 
-### CAPITULO UNICO
+### CAPITULO II. MALTRATO O CRUELDAD ANIMAL
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 318.
 
@@ -3861,11 +3857,15 @@ Tipo y punibilidad.- Se impondrá prisión de uno a seis años y de cien a tresc
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1995)</small>
 
 ###### Artículo 319.
 
 Tipo y punibilidad.- Se impondrá prisión de uno a seis años y cien a trescientos días multa, al que usare uniforme, insignia, distintivo o condecoración a que no tenga derecho, con el propósito de obtener un beneficio indebido o lesionar la dignidad o respeto de la corporación o de la investidura que correspondan aquellos.
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2013)</small>
 
 ###### Artículo 320.
 
@@ -4057,11 +4057,11 @@ Abandono de defensa.- Al defensor de oficio o particular de un inculpado que no 
 
 Este delito se perseguirá por querella de parte ofendida.
 
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE MARZO DE 1992)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE OCTUBRE DE 2014)</small>
 
-## TITULO QUINTO. DELITOS CONTRA EL MEDIO AMBIENTE
+## TITULO QUINTO. DELITOS CONTRA EL MEDIO AMBIENTE Y LOS ANIMALES
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE MARZO DE 1992)</small>
+> <small>(REFORMADA SU NUMERACIÓN Y DENOMINACIÓN, P.O. 31 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 339.
 
@@ -4111,9 +4111,53 @@ VI.- Sea sancionado por la autoridad ambiental estatal competente, por incurrir 
 
 Cuando las conductas a que se refiere este artículo se lleven a cabo por los auditores ambientales, prestadores de servicio, peritos en monitoreo, señalados en la Ley de Protección al Ambiente para el Estado de Baja California, la pena correspondiente se aumentará de tres hasta siete años de prisión y multa hasta cinco mil quinientos días de salario mínimo vigente en la entidad.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 342.
 
-(REFORMADO [N. DE E. DEROGADO], P.O. 27 DE ABRIL DE 2007)
+Al que intencionalmente realice algún acto de maltrato o crueldad en contra de un animal, se le impondrá de tres meses a dos años de prisión y multa de cincuenta a cien días de salario mínimo vigente en el Estado.
+
+Se consideran actos de maltrato o crueldad animal:
+
+I.- Causar la muerte de un animal injustificadamente, sacrificar un animal empleando métodos diversos a los establecidos en las normas oficiales mexicanas, o privar de la vida a un animal utilizando cualquier medio que le provoque un sufrimiento extremo o prolongue su agonía;
+
+II.- La tortura, el sadismo, la zoofilia o cualquier acción análoga que le implique sufrimiento;
+
+III.- Cualquier mutilación sin fines médicos;
+
+IV.- Las lesiones que pongan en peligro la vida de un animal, que le generen una incapacidad parcial o total permanente, que disminuyan alguna de sus facultades, o que afecten el normal funcionamiento de un órgano o miembro;
+
+V.- El suministro o aplicación de substancias u objetos tóxicos que pongan en peligro la vida de un animal o le provoque la muerte; y
+
+VI.- Azuzar a los animales para que se ataquen entre ellos, siempre que con dicha acción se provoquen lesiones o la muerte.
+
+Cuando el acto de maltrato o crueldad animal sea realizado por médico veterinario o persona relacionada con el cuidado o resguardo de animales, o sea realizado por un servidor público en ejercicio o con motivo de sus funciones, además se le inhabilitará por un lapso de seis meses a un año del empleo, cargo, autorización o licencia respectiva, y en caso de reincidencia, serán privados definitivamente del derecho a ejercer la actividad de que se trate, o se revocará en forma definitiva la autorización o licencia respectiva.
+
+Cuando las lesiones o la muerte del animal se cause con la finalidad de evitar un mal igual o mayor a una persona o animal, no se aplicará sanción alguna siempre y cuando se justifique el hecho en la necesidad de salvaguardar la integridad de la persona o el animal en peligro.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2014)</small>
+
+Artículo 342 BIS.- Para efectos del presente capítulo, se entenderá por animal, al organismo vivo, no humano, sensible, que no constituya plaga, que posee movilidad propia, y capacidad de respuesta a los estímulos del medio ambiente perteneciente a una especie doméstica o silvestre.
+
+Para los efectos del presente capítulo se entenderá por plaga, la población excesiva de alguna especie animal que tiene un efecto dañino sobre el medio ambiente, otras poblaciones animales, o el ser humano.
+
+No se consideraran como plaga, los animales que habiendo estado bajo el cuidado y protección del ser humano queden abandonados o sin el cuidado o protección de sus propietarios o poseedores, así como los que deambulen libremente por la vía pública sin placa de identidad u otra forma de identificación, y sus descendencias.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2014)</small>
+
+Artículo 342 TER.- Cuando se realicen algún acto de maltrato o crueldad a un animal, el Ministerio Público o el Juez correspondiente podrán decretar el aseguramiento del mismo, así como el de todos aquellos animales que pudiera tener el inculpado bajo su cuidado o resguardo. En caso de resultar responsable del delito, se privará al sentenciado de todo derecho sobre dichos animales o los que aun tenga bajo su custodia o resguardo.
+
+En cualquiera de los casos anteriores, los animales se canalizarán a los albergues municipales respectivos o a lugares adecuados para su debido cuidado. Asimismo, se dará aviso inmediato a las asociaciones u organizaciones protectoras o dedicadas al cuidado de animales debidamente constituidas, las cuales podrán solicitar en cualquier momento al Ministerio Público o al Juez correspondiente, el resguardo temporal o definitivo del o los animales de que se traten.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2014)</small>
+
+Artículo 342 QUATER.- El delito de crueldad animal se perseguirá por querella del propietario o poseedor del animal y de oficio en los casos en que se cometa por el propietario, custodio o poseedor del animal o cuando el animal carezca de propietario, custodio o poseedor.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2014)</small>
+
+Artículo 342 QUINQUIES.- Se exceptúan de las disposiciones de este capítulo, las corridas de toros, novillos y festivales taurinos, así como las faenas camperas como tientas y acoso y derribo, necesarias para el ganado de lidia. En igual forma, las peleas de gallos, charreadas, jaripeos, coleadores.
+
+Asimismo, se exceptúa la caza, la pesca, las buenas prácticas pecuarias, las de control animal y salubridad llevadas a cabo por autoridad competente, así como las actividades científicas, de investigación y demás similares, siempre que se realicen en términos de las disposiciones que resulten aplicables.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 1992)</small>
 
@@ -5096,3 +5140,13 @@ P.O. 19 DE SEPTIEMBRE DE 2014.
 DECRETO No. 109, POR EL QUE SE APRUEBA LA REFORMA QUE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 52, REFORMA FRACCIONES IV Y V Y ADICIONA UNA FRACCIÓN VI AL ARTÍCULO 105 DEL CÓDIGO PENAL DEL ESTADO DE BAJA CALIFORNIA.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE OCTUBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes Reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial Órgano del Gobierno del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
