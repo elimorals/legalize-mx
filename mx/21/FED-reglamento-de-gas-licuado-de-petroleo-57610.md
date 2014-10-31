@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-gas-licuado-de-petroleo-57610"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-12-05"
-last_updated: "2007-12-05"
+last_updated: "2014-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57610&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2007-12-04"
 ---
 # REGLAMENTO DE GAS LICUADO DE PETROLEO
 
-REGLAMENTO DE GAS LICUADO DE PETROLEO
+REGLAMENTO DE GAS LICUADO DE PETRÓLEO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LAS ACTIVIDADES A QUE SE REFIERE EL TÍTULO TERCERO DE LA LEY DE HIDROCARBUROS, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO, SALVO LO PREVISTO EN LOS TRANSITORIOS TERCERO Y QUINTO DEL CITADO REGLAMENTO, PUBLICADO EN EL D.O.F. DE 31 DE OCTUBRE DE 2014.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE OCTUBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 5 de diciembre de 2007.
 
@@ -45,7 +47,7 @@ Para los efectos de este Reglamento, se entenderá por:
 
 I. Adquirente: El Permisionario que adquiere o solicita adquirir Gas L.P., objeto de Venta de Primera Mano, o que recibe o solicita recibir un servicio de Transporte, Almacenamiento o Distribución;
 
-II. Almacenamiento: La actividad de recibir y conservar Gas L.P., a Granel. para (sic) su posterior suministro, para consumo propio, o para su posterior devolución a terceros;
+II. Almacenamiento: La actividad de recibir y conservar Gas L.P., a Granel. para su posterior suministro, para consumo propio, o para su posterior devolución a terceros;
 
 III. Almacenista: El titular de un permiso de Almacenamiento en cualquiera de las modalidades previstas en este Reglamento;
 
@@ -1930,3 +1932,45 @@ DÉCIMO.- Cuando no existan o no se encuentren en vigor las Normas Oficiales Mex
 DÉCIMO PRIMERO.- Las obligaciones contenidas en el presente Reglamento que sean a cargo de los Permisionarios y que no sean susceptibles de cumplirse en forma inmediata a la entrada en vigor del mismo, podrán quedar aplazadas en su aplicación por un término de hasta ciento ochenta días naturales contados a partir de la fecha de entrada en vigor de este Reglamento, según lo establezca la Secretaría o la Comisión en el ámbito de sus atribuciones.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los cuatro días del mes de diciembre del año dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- La Secretaria de Energía, Georgina Yamilet Kessel Martínez.- Rúbrica.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 31 DE OCTUBRE DE 2014.
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abrogan el Reglamento de Gas Natural, publicado el 8 de noviembre de 1995 en el Diario Oficial de la Federación, y el Reglamento de Gas Licuado de Petróleo, publicado el 5 de diciembre de 2007 en el Diario Oficial de la Federación, salvo lo previsto en los Transitorios Tercero y Quinto de este Reglamento.
+
+Tercero.- La Secretaría de Energía y la Comisión Reguladora de Energía, en su caso, podrán aplicar las disposiciones jurídicas en materia de otorgamiento y regulación de permisos, incluyendo las disposiciones administrativas de carácter general y demás disposiciones emitidas por la Secretaría de Energía y la Comisión Reguladora de Energía que se encuentren vigentes, en lo que no se opongan a la Ley y el presente Reglamento, hasta en tanto se expiden las disposiciones administrativas de carácter general y demás ordenamientos correspondientes.
+
+Cuarto.- La Secretaría de Energía y la Comisión Reguladora de Energía deberán emitir las disposiciones administrativas de carácter general y demás ordenamientos correspondientes que deriven de la Ley y el presente Reglamento a más tardar el 31 de diciembre de 2015, sin perjuicio de lo establecido en los Transitorios Décimo Primero y Décimo Quinto del Artículo Primero por el que se expide la Ley de Hidrocarburos del Decreto por el que se expide la Ley de Hidrocarburos y se reforman diversas disposiciones de la Ley de Inversión Extranjera; Ley Minera, y Ley de Asociaciones Público Privadas, publicado el 11 de agosto de 2014 en el Diario Oficial de la Federación.
+
+Quinto.- Las disposiciones del Reglamento de Gas Natural, publicado el 8 de noviembre de 1995 en el Diario Oficial de la Federación y el Reglamento de Gas Licuado de Petróleo, publicado el 5 de diciembre de 2007 en el Diario Oficial de la Federación, se continuarán aplicando para los permisos con modalidad de usos propios que se encuentren vigentes siempre que no se opongan a la Ley de Hidrocarburos y el presente ordenamiento y hasta en tanto se emitan las disposiciones administrativas de carácter general a que se refiere el artículo 12 de este Reglamento.
+
+Cualquier modificación de los términos y condiciones de los permisos que fueron otorgados con anterioridad a la entrada en vigor del presente Reglamento, se realizará conforme a lo dispuesto en la Ley de Hidrocarburos, el Reglamento de la Ley de Hidrocarburos, este Reglamento y demás disposiciones jurídicas aplicables, de conformidad con lo establecido en el Transitorio Décimo del Artículo Primero por el que se expide la Ley de Hidrocarburos del Decreto por el que se expide la Ley de Hidrocarburos y se reforman diversas disposiciones de la Ley de Inversión Extranjera; Ley Minera, y Ley de Asociaciones Público Privadas, publicado el 11 de agosto de 2014 en el Diario Oficial de la Federación, a partir de la entrada en vigor del presente Reglamento.
+
+Sexto.- En materia de seguridad, la Secretaría de Energía y la Comisión Reguladora de Energía, según sea el caso, continuarán realizando las verificaciones del cumplimiento de las normas oficiales mexicanas aplicables, hasta en tanto entre en funciones la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos de conformidad con los Transitorios Cuarto, Quinto y Séptimo del Artículo Tercero por el cual se expide la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos del Decreto por el que se expide la Ley de los Órganos Reguladores Coordinados en Materia Energética; se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal y, se expide la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, publicado el 11 de agosto de 2014 en el Diario Oficial de la Federación.
+
+Séptimo.- La Comisión Reguladora de Energía expedirá las disposiciones administrativas de carácter general aplicables a las ventas de primera mano y comercialización, conforme a lo establecido en el Décimo Tercero Transitorio del Artículo Primero por el que se expide la Ley de Hidrocarburos del Decreto por el que se expide la Ley de Hidrocarburos y se reforman diversas disposiciones de la Ley de Inversión Extranjera; Ley Minera, y Ley de Asociaciones Público Privadas, publicado el 11 de agosto de 2014 en el Diario Oficial de la Federación, en un plazo de doce meses contado a partir de la entrada en vigor del presente Reglamento.
+
+Octavo.- No se otorgarán los permisos a que se refiere el artículo 42 del presente Reglamento para Estaciones de Servicio con fin Específico que permitan el llenado parcial o total de Gas Licuado de Petróleo a Recipientes Portátiles en ningún tipo de instalación, hasta que se emitan las normas oficiales mexicanas en materia de seguridad por la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, o la Secretaría de Energía en términos del Vigésimo Primero Transitorio del Artículo Primero por el que se expide la Ley de Hidrocarburos del Decreto por el que se expide la Ley de Hidrocarburos y se reforman diversas disposiciones de la Ley de Inversión Extranjera; Ley Minera, y Ley de Asociaciones Público Privadas, publicado el 11 de agosto de 2014 en el Diario Oficial de la Federación, y en materia de medición de pesos por la Secretaría de Economía.
+
+Noveno.- Los permisos expedidos por la Secretaría de Energía que son materia de regulación de la Comisión Reguladora de Energía, conforme a la Ley y el presente Reglamento, deberán ser transferidos a más tardar el 31 de diciembre de 2015.
+
+Décimo.- La Comisión Reguladora de Energía deberá publicar, en el Diario Oficial de la Federación a más tardar el 31 de diciembre de 2015, los procedimientos a los que se deberán sujetar los Permisionarios para el registro de las transacciones comerciales, volúmenes manejados, calidad y precios aplicados a los que se refiere el artículo 88 del presente Reglamento.
+
+Décimo Primero.- A más tardar el 30 de junio de 2015, Petróleos Mexicanos deberá entregar a la Comisión Reguladora de Energía la información y registros que tenga en bases de datos respecto de las personas que realicen las actividades de Expendio al Público de gasolinas y diésel.
+
+Décimo Segundo.- En tanto se emite el plan quinquenal de expansión del Sistema de Transporte y Almacenamiento Nacional Integrado de Gas Natural a que se refiere el artículo 69 de la Ley de Hidrocarburos, la Secretaría de Energía determinará, conforme a lo previsto en el artículo 67 del presente Reglamento, los proyectos de cobertura social y los estratégicos en materia de Gas Natural, tomando como base aquéllos contenidos en el Programa Nacional de Infraestructura 2014-2018.
+
+La Secretaría de Energía emitirá el primer plan quinquenal de expansión del Sistema de Transporte y Almacenamiento Nacional Integrado de Gas Natural a más tardar el segundo semestre de 2016. El Centro Nacional de Control del Gas Natural enviará a la Secretaría, previa opinión de la Comisión Reguladora de Energía, la propuesta correspondiente a más tardar el 30 de junio de 2016.
+
+Décimo Tercero.- El procedimiento descrito en el artículo 85 del presente Reglamento será aplicable a las licitaciones de proyectos de cobertura social y estratégicos que, en su caso, lleven a cabo las empresas productivas del Estado o las que se convoquen conjuntamente por dichas empresas y el Centro Nacional de Control del Gas Natural, hasta en tanto éste obtenga la aprobación de su Consejo de Administración y cuente con los recursos presupuestarios y las capacidades técnicas a que se refiere el Transitorio Décimo Segundo del Artículo Primero por el que se expide la Ley de Hidrocarburos del Decreto por el que se expide la Ley de Hidrocarburos y se reforman diversas disposiciones de la Ley de Inversión Extranjera; Ley Minera, y Ley de Asociaciones Público Privadas, publicado el 11 de agosto de 2014 en el Diario Oficial de la Federación, así como el Transitorio Noveno del Decreto por el que se crea el Centro Nacional de Control del Gas Natural, publicado el 28 de agosto de 2014 en el Diario Oficial de la Federación.
+
+Décimo Cuarto.- La implementación del programa de apoyos focalizados a que se refiere el Transitorio Vigésimo Noveno del Artículo Primero por el que se expide la Ley de Hidrocarburos del Decreto por el que se expide la Ley de Hidrocarburos y se reforman diversas disposiciones de la Ley de Inversión Extranjera; Ley Minera, y Ley de Asociaciones Público Privadas, publicado el 11 de agosto de 2014 en el Diario Oficial de la Federación, se enfocará a la atención de los grupos prioritarios en zonas rurales y zonas urbanas marginadas a efecto de que dicho programa coadyuve a elevar el poder adquisitivo de los citados grupos para la sustitución de combustibles primarios. Para ello se promoverá el uso de Recipientes Portátiles de hasta diez kilogramos, con el apoyo de los Permisionarios de Distribución y Expendio al Público, sin afectar la política de precios establecida en la propia Ley de Hidrocarburos.
+
+Décimo Quinto.- La Comisión Reguladora de Energía emitirá, en un plazo de doce meses, las normas oficiales mexicanas a que se refiere el artículo 78 de la Ley de Hidrocarburos.
+
+Hasta en tanto se emitan las normas a que se refiere el presente transitorio, la Comisión Reguladora de Energía tomará en cuenta las especificaciones de calidad actuales de los Hidrocarburos, Petrolíferos y Petroquímicos, con el fin de no afectar el suministro nacional de los mismos.
+
+Décimo Sexto.- Las personas que a la fecha de entrada en vigor del presente Reglamento cuenten con instalaciones diseñadas como estaciones de servicio para el autoconsumo y suministro de combustibles a vehículos automotores utilizados en la realización de sus actividades, requerirán del otorgamiento de permisos de Almacenamiento para usos propios en términos de las disposiciones administrativas de carácter general que expida la Comisión, de conformidad con el artículo 12 del presente Reglamento.
