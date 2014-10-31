@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-administracion-publica-antes-17660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2014-02-21"
+last_updated: "2014-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2014.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -325,7 +325,7 @@ XIX.- Procurar que el personal de la dependencia, entidad o departamento, cuente
 
 XX.- Vigilar que el personal de la dependencia, entidad o departamento, que se encuentre adscrito a las Delegaciones Municipales, se sujete a los Delegados y a su supervisión, con excepción del personal de Sindicatura Municipal;
 
-XXI.- Supervisar que las tareas encomendadas a la dependencia, entidad o departamento a su cargo, se lleven a cabo con calidad y eficiencia; y (sic),
+XXI.- Supervisar que las tareas encomendadas a la dependencia, entidad o departamento a su cargo, se lleven a cabo con calidad y eficiencia; y
 
 XXII.- Supervisar el buen uso y mantenimiento de los recursos materiales que tenga asignada (sic) la dependencia, entidad o departamento;
 
@@ -1389,7 +1389,7 @@ III.- Prestar servicios de salud a la comunidad en casos de emergencia, privileg
 
 IV.- Brindar asistencia técnica al Departamento de Jueces Calificadores, en la expedición de certificados de esencia y psicofisiológicos, a las personas que les sean presentadas;
 
-V.- Desarrollar programas de vigilancia epidemiológica de las enfermedades de transmisión sexual en población de alto riesgo; y (sic),
+V.- Desarrollar programas de vigilancia epidemiológica de las enfermedades de transmisión sexual en población de alto riesgo; y,
 
 VI.- Expedir certificados de salud prenupciales y de discapacidad;
 
@@ -1667,7 +1667,7 @@ l.- Las de orden ejecutivo que en materia de preservación y restauración del e
 
 II.- Determinar las políticas de utilización de uso del suelo para la preservación ecológica del municipio;
 
-III.- Aplicar las normas y programas que se establezcan en el ámbito municipal, para la preservación y restauración del equilibrio ecológico y la protección al ambiente; y, (sic)
+III.- Aplicar las normas y programas que se establezcan en el ámbito municipal, para la preservación y restauración del equilibrio ecológico y la protección al ambiente; y,
 
 IV.- Promover con instancias u organizaciones públicas o privadas, nacionales o extranjeras, el intercambio, cooperación o elaboración de información, estudios o proyectos de interés o beneficio municipal, dentro de la rama del medio ambiente.
 
@@ -1709,7 +1709,7 @@ I.- Formular dictámenes técnicos que fundamenten declaratorias para zonas o si
 
 II.- Dictaminar las factibilidades y opiniones técnicas ambientales para el uso de suelo de desarrollos ubicados dentro y fuera de los centros de población;
 
-III.- Formular proyectos de normatividad que tenga (sic) por objeto permitir aplicar los criterios de protección y preservación del medio ambiente; y, (sic)
+III.- Formular proyectos de normatividad que tenga (sic) por objeto permitir aplicar los criterios de protección y preservación del medio ambiente; y,
 
 IV.- Guiar y preservar el ordenamiento ecológico de los asentamientos humanos y áreas naturales del municipio.
 
@@ -1733,7 +1733,7 @@ El Departamento de educación y difusión ambiental tendrá corno (sic) función
 
 I.- Elevar la calidad de vida de los habitantes del municipio, mediante programas de restauración y prevención del deterioro ambiental;
 
-II.- Ser el órgano de divulgación ecológica y fomento de la cultura ambiental en las comunidades del municipio; y, (sic)
+II.- Ser el órgano de divulgación ecológica y fomento de la cultura ambiental en las comunidades del municipio; y,
 
 III.- Promover la investigación, desarrollo de programas y estudios sobre el medio ambiente con las instituciones educativas.
 
@@ -2237,7 +2237,7 @@ VIII.- Convocar a cursos para la capacitación permanente de los agentes activos
 
 IX.- Informar a la Subdirección de Policía y Tránsito, de los resultados de los exámenes aplicados a los agentes activos;
 
-X.- Aplicar sanciones y medidas disciplinarias a los cadetes y al personal operativo de la Dirección, cuando en actividades de la Academia, incurra (sic) en una o más faltas; y (sic),
+X.- Aplicar sanciones y medidas disciplinarias a los cadetes y al personal operativo de la Dirección, cuando en actividades de la Academia, incurra (sic) en una o más faltas; y,
 
 XI.- Estar en contacto con otros institutos de formación policial, para intercambiar opiniones o sugerencias;
 
@@ -3411,6 +3411,20 @@ VI.- Nombrar y remover al personal a su cargo; y
 
 VII.- Todas aquéllas que el Ayuntamiento le confiera en su reglamentación interior o de gobierno, o en los acuerdos específicos que adopte.
 
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 143.
+
+La Sindicatura Social para el cumplimiento de sus atribuciones contará con una Coordinación Administrativa; también tendrá bajo su cargo un Departamento de Operación y Seguimiento Social, que auxiliará en el desempeño de sus facultades establecidas en las fracciones I, II, III, IV y V del artículo 142, así como aquellas que le sean encomendadas por el Síndico Social.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 144.
+
+El Departamento de Operación y Seguimiento Social para un mejor desempeño de sus atribuciones contará con una coordinación:
+
+I.- Coordinación de Programas Sociales y Obra Pública, que tendrá encomendado apoyar al Departamento respecto a los temas establecidos en las fracciones I, III y V del artículo 140, y las demás que le sean encomendadas por el Jefe del Departamento. Asimismo la Dirección de Obras Públicas, Tesorería Municipal, Desarrollo Social Municipal, Desarrollo Integral de la Familia, y las demás dependencias municipales que en su momento operen y ejecuten programas sociales, brindarán las facilidades a la Sindicatura Social para lograr su cometido.
+
 ## ARTÍCULOS TRANSITORIOS
 
 PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
@@ -3630,5 +3644,11 @@ TERCERO.- Dentro de los treinta días siguientes a la entrada en vigor del prese
 CUARTO.- Transfiéranse los expedientes, relativos al programa de atención 072 (cero setenta y dos) a la Sindicatura Social para el correspondiente seguimiento, de acuerdo al artículo 142 fracción IV de la presente reforma.
 
 QUINTO.- Se deberá realizar la adecuación necesaria en los reglamentos, acuerdos y demás normatividad municipal, para efecto de cumplir con lo dispuesto en el artículo 142 del presente Reglamento, en lo relativo a la figura del Síndico Social.
+
+P.O. 31 DE OCTUBRE DE 2014.
+
+PRIMERO.- La presente reforma de adición al Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO.- Dentro de los sesenta días siguientes a la entrada en vigor del presente, la Tesorería Municipal y la Oficialía Mayor deberán realizar los ajustes de recursos presupuestales, materiales y humanos correspondientes, que sean necesarios para que desempeñe sus labores la Sindicatura Social.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 238, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ASISTENCIA SOCIAL, DE LA LEY DE HACIENDA DEL ESTADO Y DE LA LEY PARA EL FOMENTO Y LA PARTICIPACIÓN DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL PARA EL ESTADO DE SONORA”.]
