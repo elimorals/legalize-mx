@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-para-la-prevencion-y-gestion-52333
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-11-30"
-last_updated: "2006-11-30"
+last_updated: "2014-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52333&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2006-11-29"
 ---
 # REGLAMENTO DE LA LEY GENERAL PARA LA PREVENCION Y GESTION INTEGRAL DE LOS RESIDUOS
 
-REGLAMENTO DE LA LEY GENERAL PARA LA PREVENCION Y GESTION INTEGRAL DE LOS RESIDUOS
+REGLAMENTO DE LA LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE OCTUBRE DE 2014.
 
 Reglamento publicado en la Séptima Sección del Diario Oficial de la Federación, el jueves 30 de noviembre de 2006.
 
@@ -37,6 +37,10 @@ REGLAMENTO DE LA LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESI
 
 El presente ordenamiento tiene por objeto reglamentar la Ley General para la Prevención y Gestión Integral de los Residuos y rige en todo el territorio nacional y las zonas donde la Nación ejerce su jurisdicción y su aplicación corresponde al Ejecutivo Federal, por conducto de la Secretaría de Medio Ambiente y Recursos Naturales.
 
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+La Secretaría ejercerá las atribuciones contenidas en el presente ordenamiento, incluidas las disposiciones relativas a la inspección, vigilancia y sanción, por conducto de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, cuando se trate de las obras, instalaciones o actividades de dicho sector y, cuando se trate de actividades distintas a dicho sector, la Secretaría ejercerá la (sic) atribuciones correspondientes a través de las unidades administrativas que defina su reglamento interior.
+
 ###### Artículo 2.
 
 Para efectos del presente Reglamento, además de las definiciones contenidas en la Ley General para la Prevención y Gestión Integral de los Residuos y en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, se entenderá por:
@@ -44,6 +48,14 @@ Para efectos del presente Reglamento, además de las definiciones contenidas en 
 I. Almacenamiento de residuos peligrosos, acción de retener temporalmente los residuos peligrosos en áreas que cumplen con las condiciones establecidas en las disposiciones aplicables para evitar su liberación, en tanto se procesan para su aprovechamiento, se les aplica un tratamiento, se transportan o se dispone finalmente de ellos;
 
 II. Acopio, acción de reunir los residuos de una o diferentes fuentes para su manejo;
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+II Bis. Actividades del Sector Hidrocarburos, las actividades definidas como tales en el artículo 3o., fracción XI de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos;
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+II Ter. Agencia, la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos;
 
 III. Cadena de custodia, documento donde los responsables, ya sea que se trate de generadores o manejadores, registran la obtención de muestras, su transporte y entrega de éstas al laboratorio para la realización de pruebas o de análisis;
 
@@ -413,9 +425,19 @@ La disposición final de residuos de la industria minera se efectuará de confor
 
 En todo caso, las normas oficiales mexicanas relativas a la disposición final de los residuos señalados en el presente artículo establecerán condiciones de construcción, operación, cierre y, en su caso, almacenamiento temporal que requieran los proyectos.
 
-## TÍTULO CUARTO. RESIDUOS PELIGROSOS
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-## TÍTULO QUINTO. IMPORTACIÓN Y EXPORTACIÓN DE RESIDUOS PELIGROSOS
+## TÍTULO TERCERO BIS. RESIDUOS PROVENIENTES DEL SECTOR HIDROCARBUROS
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 34 Bis.
+
+En términos del artículo 95 de la Ley de Hidrocarburos son de competencia federal los residuos generados en las Actividades del Sector Hidrocarburos.
+
+Los residuos peligrosos que se generen en las actividades señaladas en el párrafo anterior se sujetarán a lo previsto en el presente Reglamento. Los residuos de manejo especial se sujetarán a las reglas y disposiciones de carácter general que para tal efecto expida la Agencia.
+
+## TÍTULO CUARTO. RESIDUOS PELIGROSOS
 
 ### CAPÍTULO I. Identificación de Residuos Peligrosos
 
@@ -1099,7 +1121,9 @@ Cuando el generador que reporta sea subcontratado por otra persona, indicará en
 
 La presentación de informes a través de la Cédula de Operación Anual se sujetará al siguiente procedimiento:
 
-I. Se realizará dentro del periodo comprendido entre el 1 de enero al 30 de abril de cada año, debiendo reportarse la información relativa al periodo del 1 de enero al 31 de diciembre del año inmediato anterior;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+I. Se realizará dentro del periodo comprendido entre el 1 de marzo al 30 de junio de cada año, debiendo reportarse la información relativa al periodo del 1 de enero al 31 de diciembre del año inmediato anterior;
 
 II. Se presentarán en formato impreso, electrónico o (sic) través del portal electrónico de la Secretaría o de sus Delegaciones Federales. La Secretaría pondrá a disposición de los interesados los formatos a que se refiere la presente fracción para su libre reproducción;
 
@@ -1541,7 +1565,7 @@ I. Recubrimiento de suelos: la acción de colocar capas o películas de residuos
 
 II. Dilución de residuos peligrosos: la acción de adicionar un material o residuo determinado a un residuo peligroso, con el propósito específico de reducir la concentración de uno o más contaminantes.
 
-## TÍTULO SEXTO. REMEDIACIÓN DE SITIOS CONTAMINADOS
+## TÍTULO QUINTO. IMPORTACIÓN Y EXPORTACIÓN DE RESIDUOS PELIGROSOS
 
 ### CAPÍTULO I. Disposiciones Generales
 
@@ -1765,7 +1789,7 @@ Las industrias a que se refiere el artículo 94 de la Ley, deberán contar con u
 
 Se reconocerá como válido el seguro del prestador de servicios que se contrate para el movimiento.
 
-## TÍTULO SÉPTIMO. MEDIDAS DE CONTROL Y DE SEGURIDAD, INFRACCIONES Y SANCIONES
+## TÍTULO SEXTO. REMEDIACIÓN DE SITIOS CONTAMINADOS
 
 ### CAPÍTULO I. Disposiciones comunes
 
@@ -2123,6 +2147,8 @@ En los casos en que a juicio de la Secretaría resulte necesaria la intervenció
 
 Cuando las autoridades estatales o municipales soliciten la expedición de la declaratoria de remediación elaborarán a su costa los estudios técnicos justificativos respectivos y los presentarán ante la Secretaría para su evaluación.
 
+## TÍTULO SÉPTIMO. MEDIDAS DE CONTROL Y DE SEGURIDAD, INFRACCIONES Y SANCIONES
+
 ###### Artículo 154.
 
 La Secretaría, por conducto de la Procuraduría, realizará los actos de inspección y vigilancia a que se refiere el artículo 101 de la Ley, así como los relativos al cumplimiento de las disposiciones contenidas en el presente ordenamiento y las que del mismo se deriven, e impondrá las medidas de seguridad, correctivas o de urgente aplicación y sanciones que resulten procedentes.
@@ -2250,3 +2276,11 @@ VII. Propuesta de manejo de residuos y efluentes del proceso.
 El protocolo de pruebas a que se refiere el presente artículo se desarrollará atendiendo a la propuesta del interesado junto con las recomendaciones que realice la Secretaría.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de noviembre de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Medio Ambiente y Recursos Naturales, José Luis Luege Tamargo.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Pedro Cerisola y Weber.- Rúbrica.- El Secretario de Salud, Julio Frenk Mora.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 31 DE OCTUBRE DE 2014.
+
+Primero. El presente Decreto entrará en vigor el día 2 de marzo de 2015.
+
+Segundo. A la entrada en vigor del presente Decreto, las facultades que corresponde ejercer a la Procuraduría Federal de Protección al Ambiente o a cualquier otra unidad administrativa de la Secretaría de Medio Ambiente y Recursos Naturales contenida en normas oficiales mexicanas, normas mexicanas, acuerdos, convocatorias o cualquier otra disposición administrativa que deriven del presente Reglamento, respecto de las instalaciones o actividades previstas en las fracciones VII y XI del artículo 3 de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, serán ejercidas por dicha Agencia.
