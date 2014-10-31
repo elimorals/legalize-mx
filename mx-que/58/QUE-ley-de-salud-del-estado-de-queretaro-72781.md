@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-salud-del-estado-de-queretaro-72781"
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-30"
-last_updated: "2012-11-09"
+last_updated: "2014-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE SALUD DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 30 de enero de 2010.
 
@@ -298,6 +298,10 @@ VI. La Dirección de Fomento y Regulación Sanitaria.
 ###### Artículo 6.
 
 El Sistema de Salud del Estado de Querétaro tendrá como principal objetivo, prestar los servicios de salud en el Estado a la población en general y asegurar el acceso efectivo a dichos servicios a las comunidades indígenas, mediante la ampliación de la cobertura.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE OCTUBRE DE 2014)</small>
+
+Los municipios del Estado en los que existan pueblos y comunidades indígenas, deberán contar por lo menos con un médico, enfermera o traductor, por cada centro de salud, que hable la lengua indígena predominante del lugar y tenga los conocimientos sobre la cultura y costumbres indígenas, para la atención de su población.
 
 ###### Artículo 7.
 
@@ -599,11 +603,11 @@ Compete a los ayuntamientos:
 
 I. Suscribir los convenios con el Poder Ejecutivo del Estado, en materia de salud y prestación de servicios;
 
-II. Asumir la administración de los establecimientos de salud que descentralice en su favor el Poder Ejecutivo del Estado, en los términos de las leyes aplicables y de los convenios que a los efectos (sic) se celebren;
+II. Asumir la administración de los establecimientos de salud que descentralice en su favor el Poder Ejecutivo del Estado, en los términos de las leyes aplicables y de los convenios que a los efectos se celebren;
 
 III. Formular y desarrollar programas municipales de salud, en el marco del Sistema Nacional de Salud, del Sistema de Salud del Estado de Querétaro y de acuerdo con los principios y objetivos de los planes nacional, estatal y municipales de desarrollo;
 
-IV. Vigilar y hacer cumplir, en la esfera de su competencia, la Ley General de Salud, la presente Ley y las demás disposiciones generales aplicables; y (sic)
+IV. Vigilar y hacer cumplir, en la esfera de su competencia, la Ley General de Salud, la presente Ley y las demás disposiciones generales aplicables; y
 
 > <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
 
@@ -715,7 +719,7 @@ I. Vigilar que en los establecimientos que expendan bebidas alcohólicas, éstas
 
 II. Constatar que el contenido de las bebidas alcohólicas se ajuste a lo especificado en la etiqueta correspondiente; y
 
-III. Realizar muestreos, cuando el contenido de las bebidas alcohólicas no se ajusten a lo especificado en las etiquetas, para, en caso de encontrar irregularidades, hacer la remisión a la autoridad competente.
+III. Realizar muestreos, cuando el contenido de las bebidas alcohólicas no se ajuste a lo especificado en las etiquetas, para, en caso de encontrar irregularidades, hacer la remisión a la autoridad competente.
 
 ###### Artículo 35.
 
@@ -945,7 +949,7 @@ II. La atención del niño, previo y durante su nacimiento, así como la vigilan
 
 III. La protección de la integración y del bienestar familiar;
 
-IV. La detección temprana de la pérdida de audición y enfermedades visuales, y su tratamiento en todos sus grados, desde los primeros días del nacimiento; y (sic)
+IV. La detección temprana de la pérdida de audición y enfermedades visuales, y su tratamiento en todos sus grados, desde los primeros días del nacimiento; y
 
 V. El diagnóstico oportuno para resolver los problemas de salud visual y auditiva de los niños, en escuelas públicas y privadas.
 
@@ -983,11 +987,11 @@ I. Los programas para padres destinados a promover la atención materno infantil
 
 II. Las actividades recreativas, de esparcimiento y culturales, destinadas a fortalecer el núcleo familiar y promover la salud física y mental de sus integrantes;
 
-III. La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas; y (sic)
+III. La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas; y
 
 > <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
 
-IV. La vigilancia de los alimentos que se expendan en las cooperativas, así como en espacios comerciales donde se tenga a la venta o consuman alimentos en las instituciones de nivel básico, a efecto de que los mismos cumplan con alto contenido nutricional y evitar problemas de mal nutrición de menores de edad y adolescentes; y (sic)
+IV. La vigilancia de los alimentos que se expendan en las cooperativas, así como en espacios comerciales donde se tenga a la venta o consuman alimentos en las instituciones de nivel básico, a efecto de que los mismos cumplan con alto contenido nutricional y evitar problemas de mal nutrición de menores de edad y adolescentes; y
 
 > <small>(ADICIONADA, P.O. 9 DE MARZO DE 2012)</small>
 
@@ -1219,7 +1223,7 @@ En materia de salud, la educación tiene por objeto:
 
 I. Fomentar en la población el desarrollo de actividades y conductas que le permitan participar en la prevención de enfermedades individuales, colectivas y accidentes;
 
-II. Proporcionar a la población los conocimientos sobre las causas de las enfermedades, los daños provocados por éstas y los efectos del medio ambiente en la salud; y (sic)
+II. Proporcionar a la población los conocimientos sobre las causas de las enfermedades, los daños provocados por éstas y los efectos del medio ambiente en la salud; y
 
 III. Orientar y capacitar a la población en materia de nutrición; salud visual, mental, bucal y ocupacional; educación sexual y planificación familiar; prevención de riesgos de automedicación, fármaco dependencia, accidentes y discapacidad; uso adecuado de los servicios de salud y rehabilitación de las personas con discapacidad, detección de otras enfermedades y vigilancia sanitaria.
 
@@ -2127,7 +2131,7 @@ P.O. 26 DE NOVIEMBRE DE 2010.
 
 SE REFORMAN LAS FRACCIONES IV, VII Y IX DEL ARTÍCULO 111 DE LA LEY DE SALUD DEL ESTADO DE QUERÉTARO.
 
-Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado."La Sombra de Arteaga".
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
@@ -2184,3 +2188,9 @@ P.O. 9 DE NOVIEMBRE DE 2012.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 31 DE OCTUBRE DE 2014.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
