@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-del-equilibrio-ecologico-y-la-3962
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-03"
-last_updated: "2004-06-03"
+last_updated: "2014-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39627&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2004-06-02"
 ---
 # REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE EN MATERIA DE REGISTRO DE EMISIONES Y TRANSFERENCIA DE CONTAMINANTES
 
-REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE EN MATERIA DE REGISTRO DE EMISIONES Y TRANSFERENCIA DE CONTAMINANTES
+REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE REGISTRO DE EMISIONES Y TRANSFERENCIA DE CONTAMINANTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE OCTUBRE DE 2014.
 
 Reglamento publicado en el Diario Oficial de la Federación, el Jueves 3 de Junio de 2004.
 
@@ -47,15 +47,39 @@ El presente ordenamiento es de observancia general en todo el territorio naciona
 
 La aplicación de este Reglamento corresponde al Ejecutivo Federal, por conducto de la Secretaría de Medio Ambiente y Recursos Naturales, sin perjuicio de las atribuciones que correspondan a otras dependencias del Ejecutivo Federal.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+La Secretaría ejercerá las atribuciones contenidas en el presente Reglamento, incluidas las disposiciones relativas a la inspección, vigilancia y sanción, por conducto de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, cuando se trate de las Actividades del Sector Hidrocarburos y de obras e instalaciones de dicho sector y, cuando se trate de actividades distintas a dicho sector, la Secretaría ejercerá la (sic) atribuciones correspondientes a través de las unidades administrativas que defina su reglamento interior.
+
 ###### Artículo 3o.
 
 Sin perjuicio de las definiciones que establezcan otros ordenamientos jurídicos, para los efectos del presente Reglamento, se considerarán las definiciones contenidas en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, así como las siguientes:
 
-I. Base de datos: Conjunto de información almacenada en forma ordenada y lógica en un sistema de cómputo, para la cual se diseñan y estructuran aplicaciones especiales, así como de seguridad e integridad de la misma;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+I. Actividades del Sector Hidrocarburos: Las actividades definidas como tal en el artículo 3o., fracción XI de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+I Bis. Agencia: La Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+I Ter. Base de datos: Conjunto de información almacenada en forma ordenada y lógica en un sistema de cómputo, para la cual se diseñan y estructuran aplicaciones especiales, así como de seguridad e integridad de la misma;
 
 II. Cédula: Cédula de Operación Anual, instrumento de reporte y recopilación de información de emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, materiales y residuos peligrosos, empleado para la actualización de la Base de datos del Registro;
 
-III. Centro Integral de Servicios: Área de recepción de trámites de la Secretaría de Medio Ambiente y Recursos Naturales;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+III. (DEROGADA, D.O.F. 31 DE OCTUBRE DE 2014)
 
 IV. Delegaciones Federales y Coordinaciones Regionales: Las que la Secretaría de Medio Ambiente y Recursos Naturales tenga establecidas en su Reglamento Interior;
 
@@ -64,6 +88,12 @@ V. Emisión: Sustancia en cualquier estado físico liberada de forma directa o i
 VI. Error de concepto: Toda alteración o variación del sentido de la información contenida en la Cédula;
 
 VII. Error material: Cuando se escriban letras, palabras o números por otros, sin alterar el sentido de la información contenida en la Cédula;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+VII Bis. Espacio de Contacto Ciudadano: Área de recepción de trámites de la Secretaría de Medio Ambiente y Recursos Naturales;
 
 VIII. Establecimiento sujeto a reporte: Toda instalación que de acuerdo con la Ley y este Reglamento, deba reportar sus emisiones y transferencia de contaminantes generados por sus actividades industriales;
 
@@ -95,9 +125,13 @@ La información de la Base de datos del Registro se integrará con los datos y d
 
 La información que se integre a la Base de datos del Registro que presenten los establecimientos sujetos a reporte de competencia federal, será actualizada con los datos correspondientes a sus emisiones, transferencias de contaminantes y sustancias sujetas a reporte de competencia federal.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 6o.
 
-La Base de datos del Registro se actualizará con la información que presenten las personas físicas y morales responsables del establecimiento sujeto a reporte, ante la Secretaría o la autoridad competente del Gobierno del Distrito Federal, de los Estados y, de los Municipios, en la cual, se integrarán los datos desagregados por sustancia y por fuente.
+La Base de datos del Registro se actualizará con la información que presenten las personas físicas y morales responsables del Establecimiento sujeto a reporte, ante las unidades administrativas competentes de la Secretaría o la autoridad competente del Gobierno del Distrito Federal, de los Estados y, de los Municipios, en la cual, se integrarán los datos desagregados por sustancia y por fuente.
 
 ###### Artículo 7o.
 
@@ -111,9 +145,19 @@ La Secretaría podrá celebrar acuerdos de colaboración con otras dependencias 
 
 #### Sección II. De la Conformación de la Información Federal a la Base de Datos
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 9o.
 
-Se consideran establecimientos sujetos a reporte de competencia federal, los señalados en el segundo párrafo del artículo 111 Bis de la Ley, los generadores de residuos peligrosos en términos de las disposiciones aplicables, así como aquellos que descarguen aguas residuales en cuerpos receptores que sean aguas nacionales.
+Se consideran Establecimientos sujetos a reporte de competencia federal los siguientes:
+
+I. Los señalados en el segundo párrafo del artículo 111 Bis de la Ley, incluyendo a aquéllos que realizan Actividades del Sector Hidrocarburos;
+
+II. Los generadores de residuos peligrosos en términos de las disposiciones aplicables, y
+
+III. Aquéllos que descarguen aguas residuales en cuerpos receptores que sean aguas nacionales.
 
 ###### Artículo 10.
 
@@ -141,13 +185,27 @@ IX. La referente para aquellas emisiones o transferencias derivadas de accidente
 
 X. La relativa a la prevención y manejo de la contaminación, en la cual se describirán las actividades de prevención realizadas en la fuente y su área de aplicación, así como las de reutilización, reciclaje, obtención de energía, tratamiento, control o disposición final de las sustancias a que se refiere la fracción VIII del presente artículo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+La Secretaría, por conducto de la Agencia, expedirá la Norma Oficial Mexicana que determine las Sustancias sujetas a reporte de competencia federal relativas a las Actividades del Sector Hidrocarburos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 11.
 
-La Cédula deberá presentarse a la Secretaría dentro del periodo comprendido entre el 1o. de enero al 30 de abril de cada año, en el formato que dicha autoridad determine, debiendo reportarse el periodo de operaciones realizadas por el establecimiento sujeto a reporte de competencia federal, del 1o. de enero al 31 de diciembre del año inmediato anterior.
+La Cédula deberá presentarse a la Secretaría dentro del periodo comprendido entre el 1 de marzo al 30 de junio de cada año, en el formato que dicha autoridad determine, debiendo reportarse el periodo de operaciones realizadas por el Establecimiento sujeto a reporte de competencia federal, del 1o. de enero al 31 de diciembre del año inmediato anterior.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 12.
 
-El establecimiento sujeto a reporte de competencia federal presentará ante la Secretaría la Cédula por cualquiera de los siguientes medios:
+El Establecimiento sujeto a reporte de competencia federal presentará ante las unidades administrativas competentes de la Secretaría, la Cédula por cualquiera de los siguientes medios:
 
 I. En formato impreso, al cual se deberá anexar un disco magnético que contenga el archivo electrónico de dicha Cédula;
 
@@ -155,15 +213,27 @@ II. En archivo electrónico, contenida en un disco magnético, anexando la impre
 
 III. A través del portal electrónico que se establezca para su recepción.
 
-Los establecimientos sujetos a reporte de competencia federal que presenten la Cédula conforme a las fracciones I y II, deberán acudir para tal efecto a alguno de los siguientes lugares: Centro Integral de Servicios, Delegaciones Federales o Coordinaciones Regionales de la Secretaría.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+Los Establecimientos sujetos a reporte de competencia federal que presenten la Cédula conforme a las fracciones I y II de este artículo, deberán acudir para tal efecto a alguno de los siguientes lugares: Espacio de Contacto Ciudadano, Delegaciones Federales y Coordinaciones Regionales de la Secretaría o, en su caso, a la Agencia.
 
 La Secretaría a través de su portal electrónico, del Centro Integral de Servicios, de sus Delegaciones Federales y Coordinaciones Regionales, pondrá a disposición de los interesados los formatos a que se refiere el presente artículo para su libre reproducción.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 13.
 
-Las Cédulas que se reciban por conducto de las Delegaciones Federales o Coordinaciones Regionales de la Secretaría, deberán remitirse al Registro, dentro de los 40 días hábiles siguientes a la fecha de su recepción.
+Las Cédulas que se reciban por conducto de las Delegaciones Federales y Coordinaciones Regionales o por la Agencia, deberán remitirse al Registro, dentro de los 40 días hábiles siguientes a la fecha de su recepción.
 
-Dentro de este periodo, las Delegaciones Federales y Coordinaciones Regionales contarán con un plazo de 20 días hábiles para revisar que la información contenida en la Cédula se encuentre debidamente requisitada, en caso contrario, se requerirá al promovente para que complemente, rectifique, aclare o confirme la información presentada dentro de un plazo que no excederá de 15 días hábiles contados a partir de su notificación, la cual se formulará en los términos de la Ley Federal de Procedimiento Administrativo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+Dentro de este periodo, las Delegaciones Federales y Coordinaciones Regionales, así como la Agencia, contarán con un plazo de 20 días hábiles para revisar que la información contenida en la Cédula se encuentre debidamente requisitada, en caso contrario, se requerirá al promovente para que complemente, rectifique, aclare o confirme la información presentada dentro de un plazo que no excederá de 15 días hábiles contados a partir de su notificación, la cual se formulará en los términos de la Ley Federal de Procedimiento Administrativo.
 
 En caso de que el promovente no desahogue el requerimiento a que se refiere el párrafo anterior, se tendrá por no presentada la Cédula. Cuando dicha Cédula no sea presentada o ésta contenga datos falsos se aplicarán las sanciones administrativas correspondientes establecidas en la Ley, sin perjuicio de las sanciones penales a que haya lugar. En todo caso, se tomará en consideración la gravedad de la infracción.
 
@@ -171,9 +241,13 @@ Cuando el promovente detecte que el formato no está debidamente requisitado, de
 
 #### Sección III. De la Operación del Registro
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 14.
 
-Las Cédulas recibidas en el Registro por medio impreso o electrónico, a través del Centro Integral de Servicios, así como las Cédulas que sean remitidas por las Delegaciones Federales, y las Coordinaciones Regionales, se ordenarán conforme a los datos de identificación del establecimiento.
+Las Cédulas recibidas en el Registro por medio impreso o electrónico, a través del Espacio de Contacto Ciudadano, así como las Cédulas que sean remitidas por las Delegaciones Federales y Coordinaciones Regionales o, en su caso, por la Agencia, se ordenarán conforme a los datos de identificación del establecimiento.
 
 Al integrar las Cédulas a la Base de datos se asentará la fecha, nombre, firma o clave de identificación electrónica del servidor público que realice la integración.
 
@@ -181,11 +255,15 @@ Al integrar las Cédulas a la Base de datos se asentará la fecha, nombre, firma
 
 La Cédula deberá contar en cada caso con la firma autógrafa o electrónica del representante legal del establecimiento sujeto a reporte, para lo cual el promovente deberá acreditar su personalidad al momento de iniciar el trámite de registro.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 16.
 
-Previo a la presentación de la Cédula a través del portal electrónico, el promovente o su representante legal, deberán solicitar a la Secretaría un certificado de identificación para obtener la firma electrónica, conforme a los lineamientos que para tal efecto se establezcan y que se publiquen en el Diario Oficial de la Federación.
+Previo a la presentación de la Cédula a través del portal electrónico, el promovente o su representante legal, deberán solicitar a la Secretaría, por conducto de sus unidades administrativas competentes, un certificado de identificación para obtener la firma electrónica avanzada, conforme a lo previsto en la Ley de Firma Electrónica Avanzada y las disposiciones jurídicas que de ésta se derivan.
 
-Cuando la Cédula sea presentada a través del portal, la Secretaría generará el acuse de recibo electrónico correspondiente.
+Cuando la Cédula sea presentada a través de los portales electrónicos en los que se habilite su recepción, los sistemas correspondientes generarán el acuse de recibo electrónico correspondiente.
 
 ###### Artículo 17.
 
@@ -219,6 +297,12 @@ Los Organismos Empresariales, las Cámaras, las Asociaciones Industriales, Insti
 
 El Registro estará a cargo de la Secretaría y será operado por el titular de la unidad administrativa que corresponda conforme a lo establecido en su Reglamento Interior, quien para la integración de la información a la Base de Datos se auxiliará de los servidores públicos adscritos a dicha unidad administrativa.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+La Secretaría, por conducto de la Agencia, operará la información relativa a los Establecimientos sujetos a reporte que correspondan a las Actividades del Sector Hidrocarburos, aplicará los procedimientos de recopilación, actualización y modificación de la información previstos en el presente Reglamento para la incorporación de dicha información en el Registro y para la integración de la misma en la Base de datos.
+
 ###### Artículo 24.
 
 Los servidores públicos que integren la información a la Base de datos se encargarán de:
@@ -251,9 +335,21 @@ La Secretaría publicará un Informe Anual el cual se difundirá por medios elec
 
 La Secretaría dará a conocer una versión preliminar del Informe Anual en un periodo no mayor a 60 días naturales antes de la publicación definitiva de dicho Informe, a efecto de que los establecimientos sujetos a reporte revisen que la información preliminar coincida con lo reportado a la Secretaría. En caso de haber discrepancia, los interesados podrán solicitar por escrito, en un plazo no mayor a 30 días naturales a partir de la publicación de la versión preliminar del informe las aclaraciones a que haya lugar.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+Tratándose de las Actividades del Sector Hidrocarburos, la Secretaría, por conducto de la Agencia, atenderá las aclaraciones a que se refiere el párrafo anterior y, en su caso, integrará la información correspondiente en la versión definitiva del Informe Anual.
+
 ###### Artículo 27.
 
 Cualquier interesado que desee obtener información relativa a la Base de datos del Registro, deberá presentar su solicitud por escrito ante la Secretaría, conforme al procedimiento previsto en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+Tratándose de las Actividades del Sector Hidrocarburos, la Secretaría atenderá las solicitudes de información a que se refiere el párrafo anterior, por conducto de la Agencia.
 
 ###### Artículo 28.
 
@@ -271,11 +367,15 @@ Los servidores públicos a que se refiere el presente artículo serán responsab
 
 ### Capítulo V. De la Inspección, Vigilancia y Sanciones Administrativas
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 30.
 
-La Secretaría, por conducto de la Procuraduría Federal de Protección al Ambiente, realizará actos de inspección y vigilancia en los establecimientos sujetos a reporte de competencia federal para verificar la información proporcionada a la Secretaría, así como su entrega en tiempo y forma.
+La Secretaría, por conducto de la Procuraduría Federal de Protección al Ambiente o de la Agencia, en el ámbito de sus respectivas competencias, realizará actos de inspección y vigilancia en los Establecimientos sujetos a reporte de competencia federal para verificar la información proporcionada por los Establecimientos sujetos a reporte de competencia federal, así como su entrega en tiempo y forma.
 
-Cuando del procedimiento de inspección y vigilancia se desprendan infracciones a la normatividad ambiental, la Secretaría por conducto de la Procuraduría Federal de Protección al Ambiente, procederá conforme a lo establecido en la Ley y las disposiciones que de ella deriven.
+Cuando del procedimiento de inspección y vigilancia se desprendan infracciones a la normatividad ambiental, la Secretaría, por conducto de la Procuraduría Federal de Protección al Ambiente o de la Agencia, en el ámbito de sus respectivas competencias, procederá conforme a lo establecido en la Ley y las disposiciones que de ella deriven.
 
 ###### Artículo 31.
 
@@ -285,9 +385,13 @@ I. Requerimiento de informes, datos o documentos, y
 
 II. Visitas de inspección a instalaciones sujetas a reporte de competencia federal.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 32.
 
-Quienes sean requeridos por la Secretaría para proporcionar informes, datos o documentos tendrán la obligación de hacerlo dentro de un plazo no mayor a 15 días hábiles, contados a partir del día siguiente al de la fecha de su notificación. En caso de no entregar lo requerido por la Secretaría en el plazo indicado, serán acreedores a las sanciones correspondientes.
+Quienes sean requeridos por la Secretaría, por conducto de sus unidades administrativas competentes, para proporcionar informes, datos o documentos tendrán la obligación de hacerlo dentro de un plazo no mayor a 15 días hábiles, contados a partir del día siguiente al de la fecha de su notificación. En caso de no entregar lo requerido por la Secretaría en el plazo indicado, serán acreedores a las sanciones correspondientes.
 
 ## TRANSITORIOS
 
@@ -306,3 +410,15 @@ Artículo Sexto. En tanto se expide el Reglamento de la Ley General para la Prev
 Artículo Séptimo. Las acciones previstas en este Reglamento, deberán llevarse a cabo conforme a las disposiciones presupuestarias vigentes y con cargo al presupuesto autorizado a la Secretaría.
 
 Dado en la Residencia Oficial del Poder Ejecutivo Federal, en la Ciudad de México, D.F., a los dos días del mes de junio de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Medio Ambiente y Recursos Naturales, Alberto Cárdenas Jiménez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 31 DE OCTUBRE DE 2014.
+
+Primero. El presente Decreto entrará en vigor el día 2 de marzo de 2015.
+
+Segundo. La Agencia dará a conocer, mediante aviso que publicará en el Diario Oficial de la Federación los datos relativos a su portal electrónico habilitado para la recepción de las Cédulas de los Establecimientos sujetos a reporte por Actividades del Sector Hidrocarburos, así como el domicilio de las oficinas en las que, en su caso, se recibirán las Cédulas impresas.
+
+En tanto la Agencia publica el aviso señalado en el párrafo anterior, los establecimientos sujetos a reporte que realicen Actividades del Sector Hidrocarburos continuarán presentando sus Cédulas a través del portal electrónico de la Secretaría o, de forma impresa, en el Centro Integral de Servicios o en las Delegaciones Federales y Coordinaciones Regionales de la propia Dependencia, quienes las remitirán a la Agencia para el trámite a que se refiere el artículo 13 del presente Reglamento.
+
+Tercero. Por única ocasión y considerando lo previsto en el artículo primero transitorio que antecede, la Cédula correspondiente al año 2014, se presentará ante las unidades administrativas competentes de la Secretaría durante el período comprendido entre el 1 de mayo y el 31 de agosto de 2015.
