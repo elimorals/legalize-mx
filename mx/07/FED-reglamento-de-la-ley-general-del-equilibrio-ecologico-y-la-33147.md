@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-del-equilibrio-ecologico-y-la-3314
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-08-08"
-last_updated: "2010-09-28"
+last_updated: "2014-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33147&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2003-08-06"
 ---
 # REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE EN MATERIA DE ORDENAMIENTO ECOLOGICO
 
-REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE EN MATERIA DE ORDENAMIENTO ECOLOGICO
+REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE ORDENAMIENTO ECOLÓGICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE OCTUBRE DE 2014.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 8 de agosto de 2003.
 
@@ -361,7 +361,7 @@ El programa de ordenamiento ecológico general del territorio vinculará las acc
 
 La Secretaría integrará un grupo de trabajo intersecretarial para el ordenamiento ecológico general del territorio, en el que estarán representadas las dependencias y entidades de la Administración Pública Federal cuyas atribuciones incidan en el patrón de ocupación del territorio.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 21.
 
@@ -561,7 +561,9 @@ Para la suscripción de los convenios de coordinación a que se refiere el artí
 
 Los convenios que suscriba la Secretaría con los estados y el Distrito Federal, con la participación que corresponda a los municipios y delegaciones, respectivamente, para la formulación de los programas de ordenamiento ecológico a que se refiere el artículo 20 BIS 2 de la Ley, además de los requisitos señalados en el artículo 8o. de este Reglamento, deberán establecer, entre otros aspectos:
 
-I. Las materias y actividades que constituyen el objeto del convenio respectivo;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+I. Las materias y actividades que constituyen el objeto del convenio respectivo. No podrán ser objeto de estos convenios las actividades que permiten el desarrollo de la industria de hidrocarburos, ni las actividades a que se refiere el artículo 3o., fracción XI de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, conforme lo previsto en el artículo 95 de la Ley de Hidrocarburos;
 
 II. La congruencia con las disposiciones del Plan Nacional de Desarrollo, la programación sectorial ambiental, y el programa de ordenamiento ecológico general del territorio;
 
@@ -601,6 +603,10 @@ II. Ubicar las zonas donde se presenten conflictos ambientales que deban resolve
 
 III. Generar un modelo de ordenamiento ecológico que maximice el consenso entre los sectores, minimice los conflictos ambientales y favorezca el desarrollo sustentable en la región.
 
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+Los programas de ordenamiento ecológico regional, referidos en este artículo, no podrán considerar o regular las actividades que permiten el desarrollo de la industria de hidrocarburos, ni las actividades a que se refiere el artículo 3o., fracción XI de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, en acatamiento a lo previsto en el artículo 95 de la Ley de Hidrocarburos.
+
 ###### Artículo 41.
 
 Los estudios técnicos para la realización de los programas de ordenamiento ecológico regional deberán realizarse a través de las siguientes etapas de caracterización, diagnóstico, pronóstico y propuesta.
@@ -611,7 +617,21 @@ La ejecución de estas etapas se sujetará a los lineamientos y mecanismos que d
 
 La etapa de caracterización tendrá por objeto describir el estado de los componentes natural, social y económico del área de estudio, considerando, entre otras, las siguientes acciones:
 
-I. Delimitar el área de estudio, considerando las actividades sectoriales, las cuencas, los ecosistemas, las unidades geomorfológicas y los límites político-administrativos, las áreas de atención prioritaria, y demás información necesaria;
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+I. Delimitar el área de estudio, considerando:
+
+a. Las actividades sectoriales;
+
+b. Las cuencas, los ecosistemas, las unidades geomorfológicas;
+
+c. Los límites político-administrativos;
+
+d. Las áreas de atención prioritaria;
+
+e. Las áreas de desarrollo de la industria de hidrocarburos, la cual es de exclusiva jurisdicción federal, en los términos previstos en el artículo 95 de la Ley de Hidrocarburos, y
+
+f. La demás información necesaria para lograr la etapa de caracterización;
 
 II. Identificar y describir el conjunto de atributos ambientales que reflejen los intereses sectoriales dentro del área de estudio;
 
@@ -643,6 +663,10 @@ e. Susceptibilidad a riesgos naturales o a efectos negativos del cambio climáti
 
 f. Los demás que se requieran para efectos de esta fracción.
 
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+La etapa de diagnóstico prevista en este artículo no podrá considerar como objeto las actividades que permiten el desarrollo de la industria de hidrocarburos, ni las actividades a que se refiere el artículo 3o., fracción XI de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, en acatamiento a lo previsto en el artículo 95 de la Ley de Hidrocarburos.
+
 ###### Artículo 44.
 
 La etapa de pronóstico tendrá por objeto examinar la evolución de los conflictos ambientales, a partir de la previsión de las variables naturales, sociales y económicas. En esta etapa se considerará, de manera enunciativa, mas no limitativa:
@@ -658,6 +682,10 @@ IV. Las tendencias de crecimiento poblacional y las demandas de infraestructura 
 V. Los impactos ambientales acumulativos considerando sus causas y efectos en tiempo y lugar; y
 
 VI. Las tendencias de degradación de los recursos naturales y de cambio de los atributos ambientales que determinan la aptitud del territorio para el desarrollo de las actividades sectoriales.
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+La etapa de pronóstico prevista en este artículo no podrá considerar como objeto las actividades que permiten el desarrollo de la industria de hidrocarburos, ni las actividades a que se refiere el artículo 3o., fracción XI de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, en acatamiento a lo previsto en el artículo 95 de la Ley de Hidrocarburos.
 
 ###### Artículo 45.
 
@@ -683,11 +711,19 @@ La Secretaría promoverá la modificación de los programas de ordenamiento ecol
 
 I. Los lineamientos y estrategias ecológicas ya no resulten necesarios o adecuados para la disminución de los conflictos ambientales y el logro de los indicadores ambientales respectivos; y
 
-II. Las perturbaciones en los ecosistemas causadas por fenómenos físicos o meteorológicos que se traduzcan en contingencias ambientales que sean significativas y pongan en riesgo el aprovechamiento sustentable de los recursos naturales, el mantenimiento de los bienes y servicios ambientales y la conservación de los ecosistemas y la biodiversidad.
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+II. Las perturbaciones en los ecosistemas causadas por fenómenos físicos o meteorológicos que se traduzcan en contingencias ambientales que sean significativas y pongan en riesgo el aprovechamiento sustentable de los recursos naturales, el mantenimiento de los bienes y servicios ambientales y la conservación de los ecosistemas y la biodiversidad, y
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+III. Los programas de ordenamiento ecológico que incluyan Unidades de Gestión Ambiental, criterios, lineamientos, estrategias, directrices o cualquier otra previsión relacionadas con actividades que permiten el desarrollo de la industria de hidrocarburos o las actividades a que se refiere el artículo 3o., fracción XI de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, en acatamiento a lo previsto en el artículo 95 de la Ley de Hidrocarburos.
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 49.
 
-La modificación de los lineamientos y estrategias ecológicas a que hace referencia la fracción I del artículo anterior se podrá realizar, entre otros supuestos, cuando conduzca a la disminución de los impactos ambientales adversos ocasionados por las actividades productivas, los asentamientos humanos y el aprovechamiento de los recursos naturales.
+La modificación de los lineamientos y estrategias ecológicas a que hace referencia la fracción I del artículo anterior se podrá realizar, entre otros supuestos, cuando conduzca a la disminución de los impactos ambientales adversos ocasionados por las actividades productivas, los asentamientos humanos y el aprovechamiento de los recursos naturales o cuando se actualice la hipótesis prevista en la fracción III del artículo anterior.
 
 ###### Artículo 50.
 
@@ -739,9 +775,17 @@ La participación de la Secretaría en la formulación y aprobación de los prog
 
 I. Propondrá la realización de procesos de ordenamiento ecológico;
 
-II. Promoverá que los estudios técnicos correspondientes se realicen conforme a lo dispuesto en el artículo 41 del presente Reglamento; y
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-III. Promoverá que para la aprobación del programa respectivo, los gobiernos de los estados, sus municipios y del Distrito Federal y sus delegaciones observen las formalidades establecidas en la legislación aplicable en el ámbito de su competencia.
+II. Promoverá que los estudios técnicos correspondientes se realicen conforme a lo dispuesto en el artículo 41 del presente Reglamento;
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+III. Promoverá que para la aprobación del programa respectivo, los gobiernos de los estados, sus municipios y del Distrito Federal y sus delegaciones observen las formalidades establecidas en la legislación aplicable en el ámbito de su competencia, y
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+IV. Dictaminará y, en su caso, aprobará la procedencia de los criterios ambientales que se propongan incluir respecto de obras y actividades que se desarrollen en zonas donde la Nación tenga soberanía y jurisdicción o correspondan a actividades de exclusiva competencia federal. La Secretaría no aprobará criterio, lineamiento, directriz, zonificación o regulación alguna que pretenda incluirse en los programas de ordenamiento a que se refiere el presente capítulo, cuando dicha normativa pretenda regular las actividades u obras relacionadas con la industria de hidrocarburos, la cual es de exclusiva jurisdicción federal, en los términos previstos en el artículo 95 de la Ley de Hidrocarburos.
 
 ### CAPÍTULO SÉPTIMO. DEL APOYO TÉCNICO PARA LA FORMULACIÓN Y LA EJECUCIÓN DE LOS PROGRAMAS DE ORDENAMIENTO ECOLÓGICO REGIONAL Y LOS PROGRAMAS DE ORDENAMIENTO ECOLÓGICO LOCAL
 
@@ -895,7 +939,7 @@ CUARTO.- Las acciones previstas en este Reglamento deberán llevarse a cabo conf
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los seis días del mes de agosto de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Marina, Marco Antonio Peyrot González.- Rúbrica.- El Secretario de Medio Ambiente y Recursos Naturales, Víctor Lichtinger Waisman.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 28 DE SEPTIEMBRE DE 2010.
 
@@ -904,3 +948,7 @@ Primero.- El presente decreto entrará en vigor al día siguiente de su publicac
 Segundo.- El grupo de trabajo intersecretarial expedirá sus Reglas de Funcionamiento, en un plazo no mayor de ciento ochenta días contados a partir de la publicación del presente Decreto en el Diario Oficial de la Federación.
 
 Tercero.- Los procesos relacionados con la formulación, expedición, aplicación, ejecución, evaluación y modificación de los programas de ordenamiento ecológico previstos en este Reglamento que se hayan iniciado previo a la entrada en vigor del presente Decreto, deberán sustanciarse de conformidad con las disposiciones vigentes al momento de su inicio.
+
+D.O.F. 31 DE OCTUBRE DE 2014.
+
+Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
