@@ -4,7 +4,7 @@ identifier: "OAX-codigo-procesal-penal-para-el-estado-de-oaxaca-52026"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-09"
-last_updated: "2014-02-28"
+last_updated: "2014-11-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "OAX"
 
 CÓDIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL CÓDIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 9 DE SEPTIEMBRE DE 2006, 5 DE SEPTIEMBRE DE 2009, 2 DE MARZO DE 2010, 23 DE AGOSTO DE 2010 Y 5 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR SUCESIVAMENTE EN LOS TÉRMINOS SEÑALADOS EN EL PROPIO TRANSITORIO.</small>
+NOTA 1: DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL CÓDIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 9 DE SEPTIEMBRE DE 2006, 5 DE SEPTIEMBRE DE 2009, 2 DE MARZO DE 2010, 23 DE AGOSTO DE 2010, 5 DE MAYO DE 2011 Y 1 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR SUCESIVAMENTE EN LOS TÉRMINOS SEÑALADOS EN EL PROPIO TRANSITORIO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2014.
+NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 637, PUBLICADO EN EL P.O. DE 1 DE NOVIEMBRE DE 2014, SE DECLARA QUE EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES ENTRARÁ EN VIGOR EN EL ESTADO DE OAXACA, DE MANERA GRADUAL PARA TODOS LOS DELITOS TIPIFICADOS EN EL CÓDIGO PENAL POR REGIONES DEL ESTADO.
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2014.
 
 Código publicado en la Cuarta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de septiembre de 2006.
 
@@ -887,7 +889,7 @@ La acción para obtener la reparación del daño comprende el reclamo de:
 
 I. La restitución de la cosa obtenida por el delito y sus frutos, o, en su defecto, el pago del precio correspondiente;
 
-II. El resarcimiento del daño material y moral causados, en su caso; y (sic)
+II. El resarcimiento del daño material y moral causados, en su caso; y
 
 III. El resarcimiento de los perjuicios ocasionados.
 
@@ -1269,7 +1271,7 @@ III. A la persona que hubiere vivido de forma permanente con el ofendido durante
 
 IV. A los socios, asociados o miembros, respecto de su parte alícuota, tratándose de los delitos que afectan a una persona jurídica;
 
-V. A las asociaciones, fundaciones y otros entes, en los delitos que afectan intereses colectivos o difusos, siempre que el objeto de la agrupación se vincule directamente con esos intereses; y (sic)
+V. A las asociaciones, fundaciones y otros entes, en los delitos que afectan intereses colectivos o difusos, siempre que el objeto de la agrupación se vincule directamente con esos intereses; y
 
 VI. A las comunidades indígenas, en los hechos punibles que impliquen discriminación o genocidio respecto de los miembros de la etnia o generen regresión demográfica, depredación de su hábitat, contaminación ambiental, explotación económica o alienación cultural.
 
@@ -1319,7 +1321,7 @@ XI. Apelar del sobreseimiento;
 
 > <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
-XII. Solicitar las medidas de coerción y providencias necesarias para la protección y restitución de sus derechos; y (sic)
+XII. Solicitar las medidas de coerción y providencias necesarias para la protección y restitución de sus derechos; y
 
 > <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1877,7 +1879,7 @@ VIII. Delitos cometidos en perjuicio de personas menores de edad y de quienes no
 
 IX. Abuso sexual agravado, previsto y sancionado en el artículo 241, cuando concurran las circunstancias señaladas en sus fracciones I y II, así como el Abuso Sexual Infantil previsto en la última parte del artículo 241;
 
-X. Delito de trata de personas, previstos (sic) en los artículos 348 BIS F y sancionado en el artículo 348 BIS H; y (sic)
+X. Delito de trata de personas, previstos (sic) en los artículos 348 BIS F y sancionado en el artículo 348 BIS H; y
 
 XI. Lesiones dolosas, previsto en el artículo 271 y sancionado en los artículos 274, 275 y 276.
 
@@ -5245,11 +5247,11 @@ Si se suscita controversia sobre la restitución o su forma, se dispondrá que l
 
 ## ARTICULOS TRANSITORIOS
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
 
-PRIMERO. Este Código entrará en vigor sucesivamente en las regiones del Estado de la siguiente manera: doce meses después de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca en la región del Istmo, dos años después de su publicación en la región de la Mixteca; el 9 de mayo de 2012 en la región de la Costa; el 27 de septiembre de 2013 en la región de la Cuenca; el 17 de noviembre de 2014 en la región de la Cañada; el 17 de noviembre de 2015 en las regiones de la Sierra Sur y Sierra Norte y por último el 18 de junio de 2016 en la región de Valles Centrales.
+PRIMERO. Este Código entrará en vigor sucesivamente en las regiones del Estado de la siguiente manera: doce meses después de su publicación en el Periódico Oficial del Gobierno del Estado en la región del Istmo; dos años después de su publicación en la región de la Mixteca; el 9 de mayo de 2012 en la región de la Costa; el 27 de septiembre de 2013 en la región de la cuenca del Papaloapan.
 
-En caso de que las partidas presupuestales lo permitan, los periodos para que entre en vigencia en las tres últimas regiones, podrán anticiparse por acuerdo del Consejo de Coordinación para la implementación del Sistema Acusatorio en el Estado de Oaxaca.
+En caso de que las partidas presupuestales lo permitan, los periodos para que entre en vigencia en las regiones faltantes, podrán determinarse por acuerdo del Consejo de Coordinación para la Implementación del Sistema Acusatorio en el Estado de Oaxaca.
 
 SEGUNDO. Derogaciones
 
@@ -5468,3 +5470,45 @@ SEGUNDO. Los procedimientos penales iniciados antes de la entrada en vigor del p
 P.O. 28 DE FEBRERO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 1 DE NOVIEMBRE DE 2014.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE LA DECLARATORIA DE ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES.</small>
+
+D E C R E T A:
+
+###### ARTICULO PRIMERO.
+
+La Sexagésima Segunda Legislatura Constitucional del Estado declara que el Código Nacional de Procedimientos Penales entrará en vigor en el Estado de Oaxaca, de manera gradual para todos los delitos tipificados en el Código Penal por regiones del Estado, de acuerdo a las prevenciones siguientes:
+
+a).- En las regiones de la Sierra Norte y Sierra Sur, a partir del día dos de diciembre del año dos mil quince.
+
+b).- En las regiones del Istmo, Mixteca, Costa y Cuenca del Papaloapan, a partir del día dos de febrero del año dos mil dieciséis.
+
+c).- En la región de La Cañada a partir del día dos de marzo del año dos mil dieciséis.
+
+d).- En la región de Valles Centrales, a partir del día tres de mayo del año dos mil dieciséis.
+
+###### ARTICULO SEGUNDO.
+
+Se reforma el artículo Primero Transitorio del Código Procesal Penal para el Estado de Oaxaca, para quedar como sigue:
+
+Artículo Primero Transitorio: Este Código entrará en vigor sucesivamente en las regiones del Estado de la siguiente manera: doce meses después de su publicación en el Periódico Oficial del Gobierno del Estado en la región del Istmo; dos años después de su publicación en la región de la Mixteca; el 9 de mayo de 2012 en la región de la Costa; el 27 de septiembre de 2013 en la región de la cuenca del Papaloapan.
+
+En caso de que las partidas presupuestales lo permitan, los periodos para que entre en vigencia en las regiones faltantes, podrán determinarse por acuerdo del Consejo de Coordinación para la Implementación del Sistema Acusatorio en el Estado de Oaxaca.
+
+ARTÍCULOS TRANSITORIOS:
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Código de Procedimientos Penales para el Estado Libre y Soberano de Oaxaca aprobado mediante decreto 153 y publicado en el Periódico Oficial del Estado el 9 de Agosto de 1980 y el Código Procesal Penal para el Estado de Oaxaca aprobado mediante decreto número 308 y publicado en el Periódico Oficial de fecha 9 de Septiembre de 2006, quedarán abrogados en términos de la entrada en vigor de manera gradual del Código Nacional de Procedimientos Penales.
+
+TERCERO.- Los procedimientos iniciados, que se inicien o se encuentren pendientes de resolución por hechos suscitados antes de la entrada en vigor del Código Nacional de Procedimientos Penales, se tramitarán y concluirán conforme a lo establecido en el Código Procesal Penal para el Estado de Oaxaca y el Código de Procedimientos Penales para el Estado Libre y Soberano de Oaxaca publicado en el Periódico Oficial.
+
+CUARTO.- Los hechos delictuosos de carácter permanente o continuado que se hayan iniciado bajo la vigencia del Código de Procedimientos Penales o del Código Procesal Penal y que continúen desarrollándose en un territorio donde se encuentra vigente el Código Nacional de Procedimientos Penales, serán tratados de conformidad con las reglas de las dos primeras legislaciones, según corresponda.
+
+QUINTO.- En caso de que las partidas presupuestales lo permitan, los periodos para que entre en vigencia en las restantes regiones, podrán anticiparse por acuerdo del Consejo de Coordinación para la Implementación del Sistema Acusatorio.
+
+SEXTO.- Comuníquese esta determinación a las Cámaras que componen el Honorable Congreso de la Unión, a las demás Legislaturas Estatales, a la Asamblea Legislativa del Distrito Federal, a la Secretaría Técnica del Consejo de Coordinación Para la Implementación del Sistema de Justicia Penal y a la Secretaría Ejecutiva del Consejo de Coordinación Para la Implementación del Sistema Acusatorio en el Estado de Oaxaca.
+
+SÉPTIMO.- Publíquese el presente Decreto en el Periódico oficial del Gobierno del Estado de Oaxaca.
