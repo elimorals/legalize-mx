@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-de-la-procuraduria-general-de-justicia-del-102310"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-09-03"
-last_updated: "2014-09-03"
+last_updated: "2014-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102310&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ZAC"
 ---
 # LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE ZACATECAS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE NOVIEMBRE DE 2014 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE ZACATECAS
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 1 DE NOVIEMBRE DE 2014.</small>
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 3 de septiembre de 2014.
 
@@ -503,7 +503,9 @@ I. Interponer, a través de los Agentes del Ministerio Público que conozcan del
 
 II. Interponer, a través de los Agentes del Ministerio Público que conozcan del caso, el recurso de apelación en contra de las resoluciones del Juez de Control que nieguen el anticipo de prueba, la posibilidad de celebrar acuerdos reparatorios o no los ratifiquen, la orden de aprehensión, la orden de cateo, las resoluciones que se pronuncien sobre las providencias precautorias o medidas cautelares, las que pongan término al procedimiento o lo suspendan, el auto que resuelve la vinculación del imputado a proceso, las que concedan, nieguen o revoquen la suspensión condicional del proceso, la negativa de abrir el procedimiento abreviado, la sentencia definitiva dictada en el procedimiento abreviado, o las que excluyan algún medio de prueba;
 
-III. Interponer, a través de los Agentes del Ministerio Público que conozcan del caso, las resoluciones del tribunal de enjuiciamiento que versen sobre el desistimiento de la acción penal por el Ministerio Público, y la sentencia definitiva en relación a aquellas consideraciones contenidas en la misma, distintas a la valoración de la prueba siempre y cuando no comprometan el principio de inmediación, o bien aquellos actos que impliquen una violación grave del debido proceso;
+> <small>(F. DE E., P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+III. Interponer, a través de los Agentes del Ministerio Público que conozcan del caso, el recurso de apelación en contra de las resoluciones del tribunal de enjuiciamiento que versen sobre el desistimiento de la acción penal por el Ministerio Público, y la sentencia definitiva en relación a aquellas consideraciones contenidas en la misma, distintas a la valoración de la prueba siempre y cuando no comprometan el principio de inmediación, o bien aquellos actos que impliquen una violación grave del debido proceso;
 
 IV. Interponer, a través de los Agentes del Ministerio Público que conozcan del caso y cuando así proceda, los juicios de amparo indirecto previstos en el artículo 107 de la Ley de Amparo;
 
@@ -957,15 +959,23 @@ Las relaciones jerárquicas en la Policía Ministerial, su estructura operativa,
 
 El Director General de la Policía Ministerial será el responsable de coordinar a los Agentes y demás personal que conforma la Policía Ministerial e implementar las acciones y medidas correctivas para lograr la disciplina de dicho personal; asimismo, deberá administrar y preservar el mobiliario, equipo, armamento y demás recursos afectos a las funciones propias de la corporación.
 
-### CAPÍTULO II. De la Policía Procesal
+> <small>(F. DE E., P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO II. De la Policía Cautelar
+
+> <small>(F. DE E., P.O. 1 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 43.
 
-Dentro de la estructura de la Policía Ministerial habrá un grupo especializado denominado Policía Procesal encargado de la supervisión de medidas cautelares distintas a la prisión preventiva y de la suspensión condicional del proceso que se regirá por los principios de neutralidad, objetividad, imparcialidad y confidencialidad.
+Dentro de la estructura de la Policía Ministerial habrá un grupo especializado denominado Policía Cautelar encargado de la supervisión de medidas cautelares distintas a la prisión preventiva y de la suspensión condicional del proceso que se regirá por los principios de neutralidad, objetividad, imparcialidad y confidencialidad.
 
-Para decidir sobre la necesidad de la revisión de las medidas cautelares, la Policía Procesal proporcionará a las partes la información necesaria para ello, de modo que puedan hacer la solicitud correspondiente al Órgano Jurisdiccional.
+> <small>(F. DE E., P.O. 1 DE NOVIEMBRE DE 2014)</small>
 
-Para tal efecto, la Policía Procesal tendrá acceso a los sistemas y bases de datos del Sistema Nacional de Información y demás de carácter público, y contará con una base de datos para dar seguimiento al cumplimiento de las medidas cautelares distintas a la prisión preventiva.
+Para decidir sobre la necesidad de la revisión de las medidas cautelares, la Policía Cautelar proporcionará a las partes la información necesaria para ello, de modo que puedan hacer la solicitud correspondiente al Órgano Jurisdiccional.
+
+> <small>(F. DE E., P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+Para tal efecto, la Policía Cautelar tendrá acceso a los sistemas y bases de datos del Sistema Nacional de Información y demás de carácter público, y contará con una base de datos para dar seguimiento al cumplimiento de las medidas cautelares distintas a la prisión preventiva.
 
 La supervisión de la prisión preventiva quedará a cargo de la autoridad penitenciaria en los términos de la ley de la materia.
 
