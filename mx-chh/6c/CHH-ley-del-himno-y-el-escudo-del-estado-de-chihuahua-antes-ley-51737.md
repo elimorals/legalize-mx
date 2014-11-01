@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-himno-y-el-escudo-del-estado-de-chihuahua-antes-ley-517
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-26"
-last_updated: "2006-08-26"
+last_updated: "2014-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL HIMNO DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 26 de agosto de 2006.
 
@@ -163,9 +163,11 @@ Queda estrictamente prohibido alterar la letra o la música del Himno del Estado
 
 Todas las ediciones o reproducciones del Himno del Estado de Chihuahua requerirán de la autorización expresa de la Secretaría General de Gobierno del Poder Ejecutivo del Estado de Chihuahua.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 7°.
 
-EL Himno del Estado de Chihuahua deberá ejecutarse total o parcialmente en los actos solemnes de carácter oficial, cívico, cultural, escolar o deportivo.
+El Himno del Estado de Chihuahua deberá ejecutarse total o parcialmente después del Himno Nacional, o antes de concluir los actos solemnes de carácter oficial, cívico, cultural, escolar o deportivo.
 
 En caso de que se ejecute parcialmente, debe atenderse a la versión corta de la letra y música que aparece en la presente Ley.
 
@@ -214,6 +216,12 @@ La demostración civil de respeto al Himno del Estado de Chihuahua se hará en p
 ###### Artículo 9°.
 
 El Himno del Estado de Chihuahua deberá entonarse en su totalidad inmediatamente después de que haya sido interpretado el Himno Nacional en las ceremonias cívicas conmemorativas al 5 de febrero, 21 de marzo, 16 de septiembre, 12 de octubre, 20 de noviembre y en las ceremonias de toma de posesión del Gobernador del Estado.
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 9° Bis.
+
+Durante la entonación del Himno del Estado de Chihuahua, se proveerá lo necesario a efecto de que la Bandera del Estado, se encuentre presente en el recinto en el cual se esté llevando a cabo el acto oficial de que se trate.
 
 ###### Artículo 10.
 
@@ -267,4 +275,22 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FERNANDO RODRIGUEZ MORENO.
 
-> <small>N. DE E. VEASE PARTITURA DEL HIMNO AL ESTADO DE CHIHUAHUA EN EL FOLLETO ANEXO AL P.O. DE 26 DE AGOSTO DE 2006, PAGS. 9 - 62.</small>
+> <small>N. DE E. VÉASE PARTITURA DEL HIMNO AL ESTADO DE CHIHUAHUA EN EL FOLLETO ANEXO AL P.O. DE 26 DE AGOSTO DE 2006, PAGS. 9 - 62.</small>
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE NOVIEMBRE DE 2014.
+
+DECRETO NÚMERO 508/2014 IV P.E., POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 7° DE LA LEY DEL HIMNO DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE NOVIEMBRE DE 2014.
+
+DECRETO NÚMERO 533/2014 V P.E., POR EL QUE SE ADICIONA UN ARTÍCULO 9° BIS A LA LEY DEL HIMNO DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su aprobación, sin perjuicio de su publicación en el Periódico Oficial del Estado.
