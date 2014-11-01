@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-coordinacion-general-de-94764"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-30"
-last_updated: "2013-12-04"
+last_updated: "2014-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DE LA COORDINACIÓN GENERAL DE DESARROLLO REGIONAL Y PROYECTOS ESTRATÉGICOS DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2014.
 
 Reglamento publicado en el Suplemento K del Periódico Oficial del Estado de Tabasco, el sábado 30 de marzo de 2013.
 
@@ -99,7 +99,9 @@ Para la realización de estudios, conducción, planeación, ejecución y despach
 
 1.1 Secretaría Particular.
 
-1.2 Dirección de Tecnologías de Información y Comunicación.
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+1.2 Dirección de Cooperación Internacional.
 
 1.3 Unidad de Apoyo Ejecutivo.
 
@@ -227,29 +229,35 @@ IX. Participar en las sesiones del Comité Técnico de Revisión y Análisis de 
 
 X. Las demás que le otorgue el presente Reglamento y los ordenamientos legales aplicables, así como las que le confiera el Titular.
 
-### CAPÍTULO II. DE LA DIRECCIÓN DE TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO II. DE LA DIRECCIÓN DE COOPERACIÓN INTERNACIONAL
 
 ###### Artículo 12.
 
-A la Dirección de Tecnologías de Información y Comunicación le corresponde el ejercicio de las siguientes atribuciones:
+(DEROGADO, P.O. 1 DE NOVIEMBRE DE 2014)
 
-I. Administrar, operar y mantener los bienes y servicios informáticos y de telecomunicaciones de la Coordinación General;
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
 
-II. Asesorar y proporcionar la asistencia técnica que requieran las unidades administrativas;
+###### Artículo 12 Bis.
 
-III. Coordinar la integración, ejecución, evaluación y seguimiento del Programa de Desarrollo Informático de la Coordinación General;
+A la Dirección de Cooperación Internacional le corresponde el ejercicio de las siguientes atribuciones:
 
-IV. Proporcionar a la Coordinación General la infraestructura de telecomunicaciones que permita mantener enlaces continuos de voz y datos;
+I. Concertar, coordinar y promover acciones de cooperación internacional;
 
-V. Procurar la optimización y aplicación de recursos, en el empleo de los sistemas informáticos y de telecomunicaciones;
+II. Brindar asesoría en materia de cooperación internacional a Dependencias y Entidades de la Administración Pública Estatal, cuando estos así lo requieran o la Coordinación General lo considere necesario;
 
-VI. Observar los lineamientos generales de licenciamiento y contratación de servicios de tecnologías de información y comunicaciones, en coordinación con la Secretaría de Administración;
+III. Promover el desarrollo de actividades y proyectos de cooperación internacional;
 
-VII. Supervisar el mantenimiento preventivo y correctivo de los equipos de cómputo, software, telecomunicaciones, periféricos, conmutadores, sistemas de aplicación y bases de datos de la Coordinación General;
+IV. Mantener actualizada la base de datos de fuentes de cooperación internacional para la detección oportuna de acuerdos de colaboración;
 
-VIII. Promover el desarrollo tecnológico y apoyar los programas de modernización administrativa en materia de informática y telecomunicaciones en la Coordinación General; y
+V. Informar a las unidades administrativas de la Coordinación General sobre convocatorias y oportunidades de cooperación internacional;
 
-IX. Las demás que le otorgue el presente Reglamento y los ordenamientos legales aplicables, así como las que le confiera el Titular.
+VI. Desempeñar diversas comisiones de trabajo dentro y fuera del Estado, tanto para el desarrollo de las funciones encomendadas, como en las que indique el Titular;
+
+VII. Participar en los diferentes foros, conferencias, exposiciones y seminarios relacionados con el desarrollo interestatal y/o de cooperación internacional; y
+
+VIII. Las demás que le otorgue el presente Reglamento y los ordenamientos legales aplicables, así como las que le confiera el Titular.
 
 ### CAPÍTULO III. DE LA UNIDAD DE APOYO EJECUTIVO
 
@@ -273,9 +281,19 @@ VII. Servir de enlace informativo entre el Titular y los titulares de las depend
 
 VIII. Procurar la coordinación eficiente de las giras de trabajo del Titular y colaborar en la organización de los eventos que realice la Coordinación General;
 
-IX. Acordar con el Titular los asuntos específicos y turnar a las diferentes instancias las indicaciones o resoluciones emitidas; y
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2014)</small>
 
-X. Las demás que le otorgue el presente Reglamento y los ordenamientos legales aplicables, así como las que le confiera el Titular.
+IX. Acordar con el Titular los asuntos específicos y turnar a las diferentes instancias las indicaciones o resoluciones emitidas;
+
+> <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+X. Coordinar la elaboración de boletines informativos, respecto de reuniones de trabajo y eventos gubernamentales en los que participe el Titular;
+
+> <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+XI. Coordinar la actualización de la información contenida en la página oficial de la Coordinación General; y
+
+XII. Las demás que les otorgue el presente Reglamento y los ordenamientos legales aplicables, así como las que le confiera el Titular.
 
 ### CAPITULO IV. DE LA UNIDAD DE ASUNTOS JURÍDICOS Y DE ACCESO A LA INFORMACIÓN
 
@@ -323,7 +341,9 @@ II. Realizar análisis, informes y autoevaluaciones sobre los requerimientos y e
 
 III. Administrar el patrimonio y los recursos asignados a la Coordinación General;
 
-IV. Optimizar el uso y aplicación de los recursos humanos, financieros y materiales asignados a la Coordinación General;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+IV. Optimizar el uso y aplicación de los recursos humanos, financieros y materiales e informáticos asignados a la Coordinación General;
 
 V. Administrar y actualizar la plantilla de personal adscrito a la Coordinación General;
 
@@ -355,9 +375,19 @@ XVIII. Analizar la estructura orgánica y ocupacional de la Coordinación Genera
 
 XIX. Coordinar, elaborar y en su caso actualizar, en colaboración con la Unidad de Asuntos Jurídicos y de Acceso a la Información, los manuales de organización y procedimientos de la Coordinación General;
 
-XX. Rendir los informes sobre gasto público que soliciten al Titular los Órganos de Control y Fiscalización; y
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2014)</small>
 
-XXI. Las demás que le otorgue el presente Reglamento y los ordenamientos Legales aplicables, así como las que le confiera el Titular.
+XX. Rendir los informes sobre gasto público que soliciten al Titular los Órganos de Control y Fiscalización;
+
+> <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+XXI. Administrar, operar y mantener los bienes y servicios informáticos y de telecomunicaciones de la Coordinación General;
+
+> <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+XXII. Coadyuvar la ejecución, evaluación y seguimiento del desarrollo informático de la Coordinación General; y
+
+XXIII. Las demás que les otorgue el presente Reglamento y los ordenamientos legales aplicables, así como las que le confiera el Titular.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
@@ -670,3 +700,9 @@ COORDINADOR GENERAL DE DESARROLLO REGIONAL Y PROYECTOS ESTRATÉGICOS
 P.O. 4 DE DICIEMBRE DE 2013.
 
 ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+P.O. 1 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Las presentes reformas, adiciones y derogaciones al Reglamento Interior entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En tanto no se efectúen las modificaciones correspondientes y se expidan los manuales respectivos, el Titular queda facultado para resolver las cuestiones de la aplicación de este ordenamiento legal para fines del ámbito administrativo.
