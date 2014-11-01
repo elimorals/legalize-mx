@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2014-07-12"
+last_updated: "2014-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2014.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -1509,9 +1509,9 @@ Sin perjuicio de los informes a que se refiere el párrafo anterior, en situacio
 
 También, sin perjuicio del principio de posterioridad, en las situaciones excepcionales que determine la ley, derivado de denuncias, podrá requerir a las entidades fiscalizadas que procedan a la revisión, durante el ejercicio fiscal en curso, de los conceptos denunciados y le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la Ley, se impondrán las sanciones previstas en la misma. La Entidad de Fiscalización Superior del Estado rendirá un informe específico a la Legislatura y, en su caso, fincará las responsabilidades correspondientes o promoverá otras responsabilidades ante las autoridades competentes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
 
-II. Entregar el informe del resultado de la revisión de la Cuenta Pública a la Legislatura, dentro de los cinco meses posteriores a su presentación. Dentro de dicho informe se incluirán las auditorías practicadas, los dictámenes de su revisión y el apartado correspondiente a la fiscalización del manejo de los recursos y la verificación del desempeño en el cumplimiento de los objetivos de los programas, así como un apartado específico con las observaciones de la Entidad de Fiscalización Superior que incluya las justificaciones y aclaraciones que, en su caso, los entes fiscalizados hayan presentado. Este informe del resultado será sometido a la consideración del pleno de la Legislatura y tendrá carácter público.
+II. Entregar el informe del resultado de la revisión de la Cuenta Pública a la Legislatura, dentro de los seis meses posteriores a su presentación. Dentro de dicho informe se incluirán las auditorías practicadas, los dictámenes de su revisión y el apartado correspondiente a la fiscalización del manejo de los recursos y la verificación del desempeño en el cumplimiento de los objetivos de los programas, así como un apartado específico con las observaciones de la Entidad de Fiscalización Superior que incluya las justificaciones y aclaraciones que, en su caso, los entes fiscalizados hayan presentado. Este informe del resultado será sometido a la consideración del pleno de la Legislatura y tendrá carácter público.
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -1521,9 +1521,9 @@ Para tal efecto, de manera previa a la presentación del informe del resultado, 
 
 La Entidad de Fiscalización Superior del Estado enviará a los entes fiscalizados, a más tardar dentro de los 10 días hábiles posteriores a que sea entregado a la Legislatura el informe del resultado, las observaciones y acciones promovidas que correspondan para que, en un plazo de hasta 20 días hábiles, presenten la información y realicen las consideraciones que estimen pertinentes, en caso de no hacerlo se harán acreedores a las sanciones establecidas en ley. Lo anterior, no aplicará a las denuncias penales y a las promociones de responsabilidades, las cuales se sujetarán a los procedimientos y términos que señale la ley.
 
-> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
 
-La Entidad de Fiscalización Superior del Estado deberá pronunciarse en un plazo de 120 días hábiles sobre las respuestas emitidas por los entes fiscalizados, en caso de no hacerlo, se tendrán por atendidas las observaciones y acciones promovidas.
+La Entidad de Fiscalización Superior del Estado deberá pronunciarse en un plazo de 90 días hábiles sobre las respuestas emitidas por los entes fiscalizados, en caso de no hacerlo, se tendrán por atendidas las observaciones y acciones promovidas.
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -3408,3 +3408,11 @@ DÉCIMO TERCERO.- Por única ocasión, los integrantes de Legislatura del Estado
 DÉCIMO CUARTO.- Por única ocasión, el Titular del Ejecutivo que sea electo en el proceso electoral del año 2016, durará en su encargo cinco años y se realizará elección de Gobernador en el año 2021, para dar cumplimiento al artículo 116 fracción IV inciso n) de la Constitución Política de los Estados Unidos Mexicanos.
 
 DÉCIMO QUINTO.- Se derogan las disposiciones que contravienen el presente Decreto.
+
+P.O. 1 DE NOVIEMBRE DE 2014.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+Artículo tercero.- Los procedimientos, auditorías y revisiones incoados con anterioridad a la entrada en vigor del presente Decreto, se seguirán tramitando hasta su conclusión, conforme a las disposiciones vigentes al momento de iniciados los mismos.
