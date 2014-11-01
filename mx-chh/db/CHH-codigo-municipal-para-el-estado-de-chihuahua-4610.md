@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2014-03-29"
+last_updated: "2014-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2013.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 29 DE MARZO DE 2014 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 1307 PUBLICADO EN EL P.O. DE 18 DE DICIEMBRE DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2014.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -283,7 +281,7 @@ LIX.- SAN FRANCISCO DEL ORO; con cabecera en el pueblo del mismo nombre;
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2006)</small>
 
-LX.- Santa Bárbara (sic); con cabecera del mismo nombre;
+LX.- Santa Bárbara; con cabecera del mismo nombre;
 
 LXI.- SANTA ISABEL; con cabecera en el pueblo del mismo nombre;
 
@@ -675,7 +673,7 @@ XXXVI.- Los Ayuntamientos podrán solicitar la comparecencia de cualquier funcio
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE OCTUBRE DE 2000)</small>
 
-XXXVII.- Establecer un sistema permanente de capacitación a los servidores de las diversas dependencias municipales a las que se refiere el artículo 60 de este Código; y (sic)
+XXXVII.- Establecer un sistema permanente de capacitación a los servidores de las diversas dependencias municipales a las que se refiere el artículo 60 de este Código; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2001)</small>
 
@@ -809,11 +807,11 @@ XXXII.- Resolver los recursos, que de acuerdo con éste y otros ordenamientos se
 
 XXXIII.- Cumplir las disposiciones contenidas en las leyes y reglamentos, así como lo pactado en convenios celebrados por el Municipio con las autoridades federales y estatales;
 
-XXXIV.- Recabar de los servidores públicos municipales, la declaración de situación patrimonial y rendir la suya propia en el plazo y términos que establece éste Código; y (sic)
+XXXIV.- Recabar de los servidores públicos municipales, la declaración de situación patrimonial y rendir la suya propia en el plazo y términos que establece éste Código; y
 
 XXXV.- Elaborar la tarifa de valores para la enajenación de terrenos municipales, por conducto de la dependencia correspondiente, en base a los lineamientos contemplados en la ley de catastro;
 
-XXXVI.- Establecer las bases conforme a las cuales deban llevarse a cabo los registros y autorizaciones de los peritos valuadores, de conformidad con el reglamento que se expida; y (sic)
+XXXVI.- Establecer las bases conforme a las cuales deban llevarse a cabo los registros y autorizaciones de los peritos valuadores, de conformidad con el reglamento que se expida; y
 
 > <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2005)</small>
 
@@ -871,7 +869,7 @@ II.- De Hacienda;
 
 III.- De Obras y Servicios Públicos;
 
-IV.- De Seguridad Pública; y (sic)
+IV.- De Seguridad Pública; y
 
 > <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
 
@@ -905,7 +903,7 @@ VI.- Informar al Ayuntamiento sobre cualquier deficiencia que notare en los dife
 
 VII.- Proponer al Ayuntamiento, iniciativas de reglamentos y de iniciativa de ley, al Congreso del Estado en asuntos municipales;
 
-VIII.- No podrán ser reconvenidos por las opiniones que manifiesten, en el desempeño de su cargo, disfrutarán de las dietas, que acuerde el Ayuntamiento y contarán con los apoyos que les corresponda, conforme al reglamento interior, para realizar las gestorías de auxilio a los habitantes del Municipio; y (sic)
+VIII.- No podrán ser reconvenidos por las opiniones que manifiesten, en el desempeño de su cargo, disfrutarán de las dietas, que acuerde el Ayuntamiento y contarán con los apoyos que les corresponda, conforme al reglamento interior, para realizar las gestorías de auxilio a los habitantes del Municipio; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE ABRIL DE 2003)</small>
 
@@ -1013,7 +1011,7 @@ XI.- Revisar la situación de los rezagos fiscales para que éstos sean liquidad
 
 XII.- Asociarse a cualquier comisión encomendada a los Regidores cuando la importancia de la misma y los intereses del Municipio, así lo ameriten;
 
-XIII.- Conocer de las condonaciones o reducciones de créditos fiscales que realicen el tesorero o el presidente municipal; y (sic)
+XIII.- Conocer de las condonaciones o reducciones de créditos fiscales que realicen el tesorero o el presidente municipal; y
 
 > <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 1998)</small>
 
@@ -1237,7 +1235,7 @@ X.- Sobre Adquisiciones, Almacenamiento, Conservación y Mantenimiento de Bienes
 
 XI.- Interior de Trabajo de los Servidores Públicos del Municipio;
 
-XII.- Para el Catastro Municipal; y (sic)
+XII.- Para el Catastro Municipal; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE ABRIL DE 2009)</small>
 
@@ -1395,7 +1393,7 @@ I.- Tener, por lo menos, veintiún años, salvo el caso del titular del área de
 
 II.- Ser mexicano y del estado seglar;
 
-III.- Tener buena conducta y la capacidad suficiente para el desempeño del cargo; y (sic)
+III.- Tener buena conducta y la capacidad suficiente para el desempeño del cargo; y
 
 (REFORMADA, P.O. 29 DE AGOSTO DE 2009) (F. DE E., P.O. 26 DE SEPTIEMBRE DE 2009)
 
@@ -1519,7 +1517,7 @@ XIII.- Las demás que fijen las leyes, reglamentos y manuales de organización.
 
 ###### ARTICULO 65.
 
-El tesorero al iniciar sus funciones, deberá caucionar su manejo con la garantía suficiente que fije el Ayuntamiento, la cual podrá ser revisada cada año y, en su caso, podrá aumentarse o disminuirse. La caución podrá otorgarse por los siguientes medios:
+El tesorero al iniciar sus funciones, deberá caucionar su manejo con la garantía que fije el Ayuntamiento, la cual podrá ser revisada cada año y, en su caso, podrá aumentarse o disminuirse. La caución podrá otorgarse por los siguientes medios:
 
 A).- Fianza, deberá ser otorgada por una institución autorizada para dichos fines.
 
@@ -1889,7 +1887,7 @@ II.- Promover la participación y colaboración de los habitantes y vecinos del 
 
 III.- Dar a conocer a la autoridad municipal los problemas que afectan a sus representados, proponer las soluciones pertinentes e informar a dichas autoridades sobre deficiencias en la ejecución de los programas de obras y servicios;
 
-IV.- Proponer a las autoridades municipales las medidas que estimen convenientes para el mejor aprovechamiento y aplicación de sus recursos y la adecuada prestación de los servicios públicos; y (sic)
+IV.- Proponer a las autoridades municipales las medidas que estimen convenientes para el mejor aprovechamiento y aplicación de sus recursos y la adecuada prestación de los servicios públicos; y
 
 > <small>(REFORMADA, P.O. 4 DE ABRIL DE 2009)</small>
 
@@ -2231,11 +2229,19 @@ Los derechos de tránsito, vistas, luces y otros semejantes se regirán por las 
 
 Al otorgamiento, ejecución, terminación y en general al régimen jurídico de las concesiones para el aprovechamiento de los bienes del dominio municipal, les serán aplicables en los (sic) conducente, las disposiciones de este Código, relativas a los contratos de obra y las concesiones de servicio público.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 110.
 
-Los bienes inmuebles destinados a oficinas de gobierno, que cuenten con infraestructura y estén en uso, requieren para su enajenación, la previa desafectación del régimen de dominio público decretada por el Congreso del Estado. No podrán desafectarse los bienes de dominio público del Municipio, dentro de los últimos seis meses de la Administración.
+Los bienes inmuebles destinados a oficinas de gobierno, que cuenten con infraestructura y estén en uso, requieren para su enajenación, la previa desafectación del régimen de dominio público decretada por el Congreso del Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+No podrán desafectarse los bienes de dominio público del Municipio, dentro de los últimos seis meses de la Administración.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+No es aplicable lo dispuesto en el párrafo anterior tratándose de bienes que se encuentren en trámite de regularización para uso habitacional con un propósito de carácter social.
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2006)</small>
 
@@ -3265,7 +3271,7 @@ III.- Porque el concesionario no preste el servicio de manera regular, continua,
 
 IV.- Porque el concesionario no otorgue o amplíe las garantías en los términos que le fueron fijadas;
 
-V.- Porque hipoteque, enajene o de cualquier manera se grave (sic) la concesión o algunos de los derechos en ella establecidos o los bienes afectos al servicio público de que se trate sin la previa autorización por escrito del Ayuntamiento y siempre que haya transcurrido cuando menos un año de su otorgamiento;
+V.- Porque hipoteque, enajene o de cualquier manera se grave la concesión o algunos de los derechos en ella establecidos o los bienes afectos al servicio público de que se trate sin la previa autorización por escrito del Ayuntamiento y siempre que haya transcurrido cuando menos un año de su otorgamiento;
 
 VI.- Cuando se deje de prestar el servicio en todo o en parte, temporal o permanentemente sin causa justificada, a juicio del Ayuntamiento o sin previa autorización por escrito del mismo;
 
@@ -4483,7 +4489,7 @@ P.O. 31 DE AGOSTO DE 2013.
 
 ###### ARTÍCULO ÚNICO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación el (sic) Periódico Oficial del Estado.
+El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Estado.
 
 P.O. 7 DE SEPTIEMBRE DE 2013.
 
@@ -4512,6 +4518,12 @@ P.O. 23 DE OCTUBRE DE 2013.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 18 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE NOVIEMBRE DE 2014.
 
 ###### ARTÍCULO ÚNICO.
 
