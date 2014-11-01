@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-penales-para-el-estado-libre-y-6909"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2013-12-20"
+last_updated: "2014-11-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "OAX"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO NÚMERO 637, PUBLICADO EN EL P.O. DE 1 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO EN TÉRMINOS DE LA ENTRADA EN VIGOR DE MANERA GRADUAL DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES.]
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 9 DE SEPTIEMBRE DE 2006, 5 DE SEPTIEMBRE DE 2009, 2 DE MARZO DE 2010, 23 DE AGOSTO DE 2010, 5 DE MAYO DE 2011 Y 20 DE FEBRERO DE 2013, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO EN LOS TÉRMINOS DEL TRANSITORIO PRIMERO DEL NUEVO CÓDIGO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2014.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -459,7 +459,7 @@ LA TENTATIVA, a que se refiere el artículo 10 fracción II y 57 primer párrafo
 
 > <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
 
-VIOLENCIA INTRAFAMILIAR, previsto en el artículo 404, y tipificado por el artículo 405 (sic) Código Penal para el Estado Libre y soberano de Oaxaca, en vigor.
+VIOLENCIA INTRAFAMILIAR, previsto en el artículo 404, y tipificado por el artículo 405 Código Penal para el Estado Libre y soberano de Oaxaca, en vigor.
 
 > <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
 
@@ -1957,7 +1957,7 @@ Cuando un inculpado se encuentre imposibilitado físicamente para rendir su decl
 
 ###### Art. 240.
 
-La declaración preparatoria se recibirá en local al que tenga acceso el público, sin que puedan estar presentes los testigos que deban ser examinados con relación a los hechos que se averiguen (sic).
+La declaración preparatoria se recibirá en local al que tenga acceso el público, sin que puedan estar presentes los testigos que deban ser examinados con relación a los hechos que se averiguen.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
@@ -3301,7 +3301,7 @@ CAREOS.
 
 ###### Art. 432.
 
-Cuando exista contradicción sustancial en las declaraciones de dos personas o más, se practicarán entre ellas un careo que podrá repetirse cuando el juez lo estime necesario o cuando surjan nuevos puntos de contradicción, excepto en los casos en que expresamente el inculpado lo solicite que no se lleven acabo (sic) y el juez estime innecesaria su práctica.
+Cuando exista contradicción sustancial en las declaraciones de dos personas o más, se practicarán entre ellas un careo que podrá repetirse cuando el juez lo estime necesario o cuando surjan nuevos puntos de contradicción, excepto en los casos en que expresamente el inculpado lo solicite que no se lleven acabo y el juez estime innecesaria su práctica.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2003)</small>
 
@@ -3955,7 +3955,7 @@ Habrá lugar a la reposición del procedimiento por alguna de las causas siguien
 
 I.- Por no haberse hecho saber al procesado durante la instrucción, ni al celebrarse el juicio, el motivo del procedimiento, o el nombre de las personas que le imputen la comisión del delito;
 
-II.- Por no habérsele admitido nombrar defensor o no nombrársele de oficio en los términos que señala la ley; por (sic) habérsele facilitado la manera de hacer saber al defensor su nombramiento, o por habérsele impedido comunicarse con él o que dicho defensor lo asistiere en alguna de las diligencias del proceso;
+II.- Por no habérsele admitido nombrar defensor o no nombrársele de oficio en los términos que señala la ley; por habérsele facilitado la manera de hacer saber al defensor su nombramiento, o por habérsele impedido comunicarse con él o que dicho defensor lo asistiere en alguna de las diligencias del proceso;
 
 > <small>(ADICIONADA, P.O. 3 DE JUNIO DE 1995)</small>
 
@@ -4566,3 +4566,19 @@ P.O. 20 DE DICIEMBRE DE 2013.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto, por los delitos contemplados en los artículos 217 Bis A, 241, 247, 348 Bis D, 348 Bis E, 357, 357 Bis, 407 y 408, todos del Código Penal para el Estado Libre y Soberano de Oaxaca, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que le dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+P.O. 1 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Código de Procedimientos Penales para el Estado Libre y Soberano de Oaxaca aprobado mediante decreto 153 y publicado en el Periódico Oficial del Estado el 9 de Agosto de 1980 y el Código Procesal Penal para el Estado de Oaxaca aprobado mediante decreto número 308 y publicado en el Periódico Oficial de fecha 9 de Septiembre de 2006, quedarán abrogados en términos de la entrada en vigor de manera gradual del Código Nacional de Procedimientos Penales.
+
+TERCERO.- Los procedimientos iniciados, que se inicien o se encuentren pendientes de resolución por hechos suscitados antes de la entrada en vigor del Código Nacional de Procedimientos Penales, se tramitarán y concluirán conforme a lo establecido en el Código Procesal Penal para el Estado de Oaxaca y el Código de Procedimientos Penales para el Estado Libre y Soberano de Oaxaca publicado en el Periódico Oficial.
+
+CUARTO.- Los hechos delictuosos de carácter permanente o continuado que se hayan iniciado bajo la vigencia del Código de Procedimientos Penales o del Código Procesal Penal y que continúen desarrollándose en un territorio donde se encuentra vigente el Código Nacional de Procedimientos Penales, serán tratados de conformidad con las reglas de las dos primeras legislaciones, según corresponda.
+
+QUINTO.- En caso de que las partidas presupuestales lo permitan, los periodos para que entre en vigencia en las restantes regiones, podrán anticiparse por acuerdo del Consejo de Coordinación para la Implementación del Sistema Acusatorio.
+
+SEXTO.- Comuníquese esta determinación a las Cámaras que componen el Honorable Congreso de la Unión, a las demás Legislaturas Estatales, a la Asamblea Legislativa del Distrito Federal, a la Secretaría Técnica del Consejo de Coordinación Para la Implementación del Sistema de Justicia Penal y a la Secretaría Ejecutiva del Consejo de Coordinación Para la Implementación del Sistema Acusatorio en el Estado de Oaxaca.
+
+SÉPTIMO.- Publíquese el presente Decreto en el Periódico oficial del Gobierno del Estado de Oaxaca.
