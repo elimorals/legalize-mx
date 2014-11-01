@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-procedimientos-penales-para-el-estado-de-zacatecas-82
 country: "mx"
 rank: "codigo"
 publication_date: "1967-07-19"
-last_updated: "2009-01-28"
+last_updated: "2014-11-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8293&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,9 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE ZACATECAS
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO TERCERO TRANSITORIO DEL CÓDIGO PROCESAL PENAL PARA EL ESTADO DE ZACATECAS, PUBLICADO POR DECRETO NO. 511 EN EL P.O. DE 15 DE SEPTIEMBRE DE 2007, SEGUIRÁ RIGIENDO EN LO CONDUCENTE, EN LOS PROCEDIMIENTOS INICIADOS CON ANTERIORIDAD A LA APLICACIÓN DEL NUEVO CÓDIGO, Y QUEDARÁ ABROGADO EN LA MEDIDA EN QUE AQUÉLLOS QUEDEN AGOTADOS.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 215 PUBLICADO EN EL P.O. DE 1 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO Y SEGUIRÁ RIGIENDO, EN LO CONDUCENTE, CONFORME A LA GRADUALIDAD SEÑALADA EN LA DECLARATORIA ÚNICA DEL PRESENTE DECRETO, EN LOS PROCEDIMIENTOS INICIADOS CON ANTERIORIDAD A LA APLICACIÓN DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN LA ENTIDAD, DEBIÉNDOSE OBSERVAR PARA ELLO LAS DISPOSICIONES PROCESALES VIGENTES AL MOMENTO DE LA COMISIÓN DE LOS HECHOS.</small>
 
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 28 DE ENERO DE 2009, NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 229 PUBLICADO EN EL P.O. DE 24 DE DICIEMBRE DE 2008.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2014.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el 19 de julio de 1967.
 
@@ -3614,3 +3614,43 @@ Artículo sexto.- Dentro de los noventa días naturales siguientes a la publicac
 Artículo séptimo.- En el Presupuesto de Egresos del Estado para el ejercicio fiscal 2009, deberán incluirse las partidas correspondientes para el funcionamiento de la Secretaría de Seguridad Pública.
 
 Artículo octavo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE NOVIEMBRE DE 2014.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO NÚMERO 215 QUE EXPIDE LA DECLARATORIA.</small>
+
+DECRETA
+
+LA HONORABLE SEXAGÉSIMA PRIMERA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS, DECLARA QUE EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, SE INCORPORA AL RÉGIMEN JURÍDICO DEL ESTADO DE ZACATECAS.
+
+La Honorable Sexagésima Primera Legislatura del Estado Libre y Soberano de Zacatecas, en cumplimiento de lo previsto en el Artículo Segundo Transitorio del Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el día 5 de marzo de 2014, tiene a bien emitir la siguiente
+
+D E C L A R A T O R I A
+
+ÚNICO.- La Honorable Sexagésima Primera Legislatura del Estado de Zacatecas, con fundamento en el Artículo Segundo Transitorio del Decreto que expide el Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el cinco de marzo de dos mil catorce. DECLARA que el Estado de Zacatecas incorpora a su régimen jurídico el Código Nacional de Procedimientos Penales, el cual entrará en vigor de manera progresiva y por distritos judiciales, de conformidad con las siguientes consideraciones:
+
+I. A las cero horas del día cinco de enero de dos mil quince, para los Distritos Judiciales de Zacatecas, Calera, Ojocaliente, Villanueva, Jalpa, Juchipila, Nochistlán, Tlaltenango, Teúl de González Ortega, Jerez, Valparaíso, Miguel Auza, Concepción del Oro y Río Grande.
+
+II. A las cero horas del día cuatro de enero de dos mil dieciséis, para los Distritos Judiciales de Pinos, Loreto, Sombrerete y Fresnillo.
+
+T R A N S I T O R I O S
+
+Artículo primero.- Publíquese la presente Declaratoria en el Periódico Oficial, Órgano del Gobierno del Estado, sesenta días naturales anteriores a la entrada en vigor en esta entidad federativa, del Código Nacional de Procedimientos Penales.
+
+Artículo segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo tercero.- De acuerdo a lo previsto en el Artículo Tercero Transitorio del Código Nacional de Procedimientos Penales, se abroga el Código de Procedimientos Penales para el Estado de Zacatecas y el Código Procesal Penal para el Estado de Zacatecas, en los términos siguientes:
+
+El Código de Procedimientos Penales para el Estado de Zacatecas, publicado en el Periódico Oficial, Órgano del Gobierno del Estado número 57, correspondiente al día 19 de julio de 1967, seguirá rigiendo, en lo conducente, conforme a la gradualidad señalada en la Declaratoria única del presente Decreto, en los procedimientos iniciados con anterioridad a la aplicación del Código Nacional de Procedimientos Penales en la Entidad y quedará abrogado en la medida en que aquellos queden agotados, debiéndose observar para ellos las disposiciones procesales vigentes al momento de la comisión de los hechos.
+
+El Código Procesal Penal para el Estado de Zacatecas, contenido en el Decreto Número 511 publicado en Suplemento 1 al número 74 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al Sábado 15 de septiembre de 2007, seguirá rigiendo, en lo conducente, en los procedimientos iniciados con anterioridad a la aplicación del Código Nacional de Procedimientos Penales en la Entidad y quedará abrogado en la medida en que aquellos queden agotados, debiéndose observar para ellos las disposiciones procesales vigentes al momento de la comisión de los hechos.
+
+Asimismo, seguirá vigente el contenido del Artículo Segundo Transitorio del citado Código Procesal Penal para el Estado de Zacatecas, relativo a la implementación del Sistema de Justicia Penal del Estado.
+
+Artículo cuarto.- No procederá la acumulación de procesos penales cuando uno de ellos se esté tramitando conforme al Código Nacional de Procedimientos Penales y el otro de acuerdo al Código Procesal Penal o el Código de Procedimientos Penales para el Estado.
+
+Artículo quinto.- Remítase copia de este Decreto a las Cámaras de Senadores y Diputados del Honorable Congreso de la Unión, a los congresos locales de las entidades federativas y a la Asamblea Legislativa del Distrito Federal, así como al Titular del Poder Ejecutivo del Estado de Zacatecas y al Presidente del Tribunal Superior de Justicia del Estado.
+
+Artículo sexto.- Se derogan las disposiciones que contravengan este Decreto.
+
+Artículo séptimo.- Para que llegue al conocimiento del pueblo zacatecano, la presente Declaratoria deberá publicarse en un medio de mayor circulación en esta entidad federativa, así como en otros medios de comunicación estatales.
