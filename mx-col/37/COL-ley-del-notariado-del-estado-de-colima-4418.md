@@ -4,7 +4,7 @@ identifier: "COL-ley-del-notariado-del-estado-de-colima-4418"
 country: "mx"
 rank: "ley"
 publication_date: "1964-01-04"
-last_updated: "2010-11-25"
+last_updated: "2014-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL NOTARIADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA APLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, los días 4, 11, 18 y 25 de enero de 1964.
 
@@ -45,7 +45,15 @@ LEY DEL NOTARIADO
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
-ART. 1.- El ejercicio del Notariado en el Estado de Colima es una función de orden público. Está a cargo del Ejecutivo de la Entidad y, por delegación se encomienda a notarios profesionales del derecho, en virtud de la patente que para tal efecto les otorga el propio Ejecutivo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+ART. 1.- La presente Ley es de orden público, y tiene por objeto regular los principios, organización y funciones de los Notarios en el Estado de Colima.
+
+La fé pública compete originalmente al Estado de Colima y su ejercicio corresponde al Ejecutivo, quien por delegación la encomienda a profesionales del derecho, a quienes satisfaciendo los requisitos legales previstos, les otorga la patente notarial correspondiente, adquiriendo con ello las atribuciones y obligaciones previstas en la presente Ley, quedando de la misma forma sujetos a las sanciones previstas por su incumplimiento.
+
+A falta de disposición en esta Ley, se aplicarán las del Código Civil y las del Código de Procedimientos Civiles del Estado.
 
 ART. 2.- El notario es el funcionario investido de fe pública autorizado para autenticar los actos y los hechos jurídicos a los que los interesados deban o quieran dar autenticidad conforme a las leyes; ejerce la fe pública material que tiene y ampara un doble contenido:
 
@@ -53,15 +61,33 @@ I.- En la esfera del derecho, la autenticidad y fuerza probatorias a las declara
 
 II.- En la autenticación de los hechos, la exactitud de los que el notario perciba por sus sentidos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+El ejercicio de la función notarial impone al Notario el respeto cabal al orden jurídico y a los derechos humanos.
+
 > <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
 
 ART 2 BIS.- El notario público podrá utilizar los medios electrónicos, ópticos, magnéticos o cualquier otra tecnología, para el ejercicio de su función, en los casos previstos en esta ley, supuesto en el cual se sujetará a lo establecido en la Ley Sobre el Uso de Medios Electrónicos y Firma Electrónica para el Estado de Colima.
 
 ART. 3.- El notario guarda en el protocolo, escritos y firmados, los instrumentos relativos a los actos y a los hechos a que se refiere el artículo 2, con sus anexos, y expide los testimonios o copias que legalmente puedan darse.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+En la misma forma, mediante el uso de sistemas electrónicos, digitales y cualesquiera otro medio autorizado que se diere, podrá y deberá en su caso, guardar y conservar las claves o medios que permitan la identificación y reproducción de firmas electrónicas, así como los documentos, carpetas, archivos, mensajes y demás que contengan dichas firmas electrónicas derivados aquellos de su actividad notarial.
+
 ART. 4.- El notario, a la vez que funcionario público, es profesional del derecho que ilustra a las partes en materia jurídica y que tiene el deber de explicarles el valor y las consecuencias legales de los actos que vayan a otorgar, ya sea por la naturaleza o complejidad del acto o por las circunstancias en que se encuentran los interesados. Se exceptuarán de esta explicación a los abogados y licenciados en derecho.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+Aunque es funcionario por ejercer una función pública en los términos de esta Ley, el Notario no forma parte de la administración pública, ni está comprendido dentro de la organización administrativa ni burocrática del Estado de Colima.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 1994)</small>
 
 ART. 5.- Bastará la petición de parte interesada, para que el notario esté obligado a ejercer su función.
 
@@ -93,45 +119,107 @@ II.- Si alguna circunstancia fortuita o transitoria le impide atender con la imp
 
 III.- Si los interesados no le anticipan los gastos y honorarios, excepción hecha de un testamento urgente, el cual será autorizado por el notario, sin anticipo de gastos y honorarios.
 
-ART. 7.- El notario no puede desempeñar empleos, cargos o comisiones públicas, ni de particulares, si lo sujetan a dependencia física o moral.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-El notario podrá:
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
 
-I.- Aceptar cargos docentes o asistenciales;
+ART. 7.- Al Notario le competen las actividades siguientes, en ejercicio de su función pública:
 
-II.- Ser mandatario o patrono en juicio o fuera de él, excepto en asuntos contenciosos en los que haya intervenido como notario y viceversa;
+a) Interpretar y aplicar normas legales en cada caso particular o concreto;
 
-III.- Desempeñar cargos en los cuerpos directivos o como comisarios o como secretarios en sociedades, asociaciones u otras personas morales similares;
+b) Percibir, redactar, formar y autenticar las declaraciones de voluntad y de verdad de las personas, y ajustarlas a los mandatos constitucionales y legales;
 
-IV.- Resolver consultas jurídicas;
+c) Dar autenticidad y certeza jurídica a los actos y hechos acaecidos ante su fe pública, y formalizados en instrumentos notariales; y
 
-V.- Recibir declaraciones sobre construcciones o mejoras de fincas rústicas o urbanas, producidas por quien las hubiere realizado, con la comparecencia de dos testigos idóneos a juicio del notario, las que tendrán la misma fuerza probatoria que las rendidas ante la autoridad judicial;
+d) Prestar asesoría jurídica a las personas que requieran sus servicios.
 
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 1994)</small>
+Para ese fin, el Notario deberá cumplir las disposiciones del Código de Procedimientos Civiles, en lo conducente.
 
-VI.- Autorizar su testamento y sus poderes, las modificaciones o revocaciones de ambos, las substituciones de éstos y sus declaraciones unilaterales de voluntad, y
+El Notario no puede desempeñar empleos, cargos o comisiones públicas, ni de particulares, si lo sujetan a dependencia física o moral, ni dar fe de actos, hechos o situaciones sin identificarse como Notario.
 
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 1994)</small>
+El Notario podrá:
 
-VII.- Ser árbitro o secretario en juicio arbitral.
+I. Aceptar cargos docentes o asistenciales;
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+II. Ser mandatario o patrono en juicio o fuera de él, excepto en asuntos contenciosos en los que haya intervenido como Notario y viceversa;
 
-ART. 8.- El notario tendrá su residencia y su oficina en la población designada en su nombramiento, sólo podrá actuar dentro de la demarcación que le sea asignada pero está facultado para autenticar actos referentes a cualquier otro lugar. Se prohibe al notario establecer u operar más de una oficina notarial.
+III. Desempeñar cargos en los cuerpos directivos o como comisarios o como secretarios en sociedades, asociaciones u otras personas morales similares;
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+IV. Resolver consultas jurídicas;
 
-ART. 9.- Los notarios no serán remunerados por el Gobierno del Estado. Además de los gastos que se eroguen, ellos tendrán derecho a cobrar los honorarios que se originen, en cada caso, conforme a lo convenido con los interesados o a lo estipulado en el arancel que expida el Gobernador del Estado.
+V. Recibir declaraciones sobre construcciones o mejoras de fincas rústicas o urbanas, producidas por quien las hubiere realizado, con la comparecencia de dos testigos idóneos a juicio del Notario, las que tendrán la misma fuerza probatoria que las rendidas ante la autoridad judicial;
+
+VI. Autorizar su testamento y sus poderes, las modificaciones o revocaciones de ambos, las substituciones de éstos y sus declaraciones unilaterales de voluntad;
+
+VII. En concurrencia con los jueces en materia civil, intervenir en el trámite de procedimientos sucesorios y de jurisdicción voluntaria, excepción hecha de aquellos en que surja controversia entre las partes o cuando intervengan menores de edad o incapacitados. Para ese fin, el Notario deberá cumplir las disposiciones del Código de Procedimientos Civiles para el Estado de Colima, en lo conducente; y
+
+VIII. Recibir y tramitar informaciones testimoniales.
+
+A petición de los servidores públicos, de los interesados o de los abogados autorizados para ello, podrá cotejar o certificar copias o fotografías de constancias que existan en expedientes judiciales o administrativos, y dar fe de hechos o situaciones relacionados con esos expedientes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+ART. 8.- El Notario tendrá su residencia y su oficina en la población designada en su nombramiento, sólo podrá actuar dentro de la demarcación que le sea asignada pero está facultado para autenticar actos referentes a cualquier otro lugar. En el caso de instrumentos públicos otorgados ante él, mediante los cuales se constituya, modifique o extinga algún derecho real sobre bienes inmuebles localizados en su demarcación, el Notario bajo su más estricta responsabilidad, podrá dar lectura y recabar las firmas de los interesados en lugar distinto a su demarcación.
+
+Se prohíbe al Notario establecer u operar más de una oficina notarial.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+ART. 9.- Los Notarios no serán remunerados por el Gobierno del Estado. Además de los gastos que se eroguen, ellos tendrán derecho a cobrar los honorarios que se originen, en cada caso, conforme a lo estipulado en el arancel que expida el Gobernador del Estado.
+
+Este arancel será obligatorio para los Notarios del Estado una vez publicado en el Periódico Oficial, cuya actualización se realizará conforme al Índice Nacional de Precios al Consumidor; para lo cual, los Notarios tendrán visible el arancel para todo público que solicite sus servicios.
+
+Los Notarios del Estado estarán obligados a participar en las políticas públicas de beneficio social, y por tanto deberán, observar los aranceles especiales que establezca el Titular del Poder Ejecutivo, para impulsar programas sociales de interés general, por sí o a través de organismos descentralizados.
 
 El cobro judicial de gastos y honorarios notariales se tramitará en juicio sumario. Para el pago de estas prestaciones, los otorgantes del instrumento serán considerados como deudores solidarios.
+
+Los interesados tendrán derecho a ser atendidos por el Notario, a recibir asesoría jurídica, a conocer el costo de gastos y honorarios que deben pagar por el servicio notarial, a obtener comprobantes de los pagos que realicen y a recibir información sobre el trámite de sus asuntos.
+
+La elección de Notario corresponde, a falta de pacto, al que paga los servicios notariales.
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
 ART. 10.- El notario está obligado a ajustar sus actos a las leyes, a actuar con imparcialidad y a respetar los derechos de las personas.
 
-Las autoridades prestarán a los notarios el auxilio que requieran en el ejercicio de su función y podrán requerirlos, y éstos estarán obligados a la prestación de los servicios públicos notariales, cuando se trate de atender asuntos de interés social. A este efecto, las citadas autoridades fijarán las condiciones a las que deberá sujetarse la prestación de dichos servicios.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-ART. 11.- Los notarios en el ejercicio de su profesión reciben las confidencias de sus clientes.- En consecuencia deben guardar reserva sobre lo pasado ante ellos y están sujetos a las disposiciones del Código Penal sobre secreto profesional, salvo los informes que obligatoriamente establezcan las leyes respectivas y los actos que deben inscribirse en el Registro Público, de los cuales podrán enterarse las personas que no hubiesen intervenido en ellos, siempre que a juicio del notario tengan algún interés legítimo en el asunto.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+Cuando así lo acuerde el Ejecutivo, la Secretaría requerirá a los Notarios para que colaboren en la prestación de servicios notariales, para satisfacer demandas de interés social, electoral o cumplir con programas o campañas de atención a grupos vulnerables y/o marginados. En estos casos, las condiciones para la prestación del servicio se fijarán por la Secretaría, considerando las características de los propios servicios y la opinión del Colegio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+Se impondrán las penas que corresponden al delito de abuso de autoridad al servidor público que obstaculice o impida a un Notario ejercer su función pública o no le preste el auxilio que requiera para ello.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+Al que ante Notario declare falsamente u oculte la verdad al firmar un instrumento notarial, se le impondrán las penas que corresponden al delito tipificado en el artículo 116 del Código Penal para el Estado de Colima.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+Al que sin ser Notario se ostente como tal o al Notario de otra entidad que ejerza función notarial en el Estado de Colima, se le aplicarán las penas señaladas en el artículo 152 del Código Penal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+ART. 11.- Los Notarios en el ejercicio de su profesión reciben las confidencias de sus clientes. En consecuencia ellos y sus colaboradores deben guardar reserva sobre lo pasado ante ellos y están sujetos a las disposiciones del Código Penal sobre secreto profesional, salvo los informes que obligatoriamente establezcan las leyes respectivas y los actos que deben inscribirse en el Instituto para el Registro del Territorio, de los cuales podrán enterarse las personas que no hubiesen intervenido en ellos, siempre que a juicio del Notario tengan algún interés legítimo en el asunto.
+
+En los procedimientos administrativos o en los juicios que se tramiten ante dependencias administrativas o instancias judiciales, la autoridad competente pedirá al Notario, a través de oficio fundado y motivado, que en forma escrita envíe informe, absuelva posiciones o rinda testimonio o declaración de parte, si se trata de hechos relacionados con su función. Si la petición de la autoridad cumple los anteriores requisitos, el Notario dará respuesta al oficio, a las posiciones o a las preguntas, mediante informe escrito que envíe a la autoridad dentro de los quince días hábiles siguientes a la recepción del oficio.
+
+El Notario es auxiliar de las autoridades fiscales, en los términos previstos en las leyes; pero no es retenedor o recaudador de contribuciones. El Notario sólo tiene el deber de calcular y enterar esos tributos dentro de los plazos fijados en las leyes y con base en los datos que los otorgantes le proporcionen, si éstos le entregan en forma voluntaria el importe de ellas.
+
+En el ejercicio de su función pública, el Notario no tendrá más responsabilidad fiscal que la derivada de sus errores evidentes o de su mala intención. Esta responsabilidad lo obliga a pagar los accesorios de las contribuciones y, en su caso, las prestaciones fiscales que los otorgantes le hayan entregado. El Notario no tendrá responsabilidad fiscal por falsedades o inexactitudes de los otorgantes, ni por declaraciones o cláusulas que ellos acepten al otorgar el instrumento notarial.
 
 ### CAPITULO SEGUNDO. DEL PROTOCOLO
 
@@ -145,13 +233,29 @@ II.- Los libros que se formen con la colección ordenada de 150 de esas hojas, u
 
 III.- El apéndice y el índice de instrumentos.
 
-> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-ART. 12 BIS.- Los documentos que integran el protocolo podrán ser digitalizados por el notario, para incorporarse a un archivo electrónico. El notario deberá autorizar los documentos digitalizados con su firma electrónica certificada.
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
 
-El notario podrá optar por llevar el apéndice en forma electrónica. En este caso, los documentos que el notario agregue al apéndice electrónico deberán de ser digitalizados por él, cuando se trate de documentos en soporte material que se conviertan a documentos en soporte electrónico. Los documentos públicos electrónicos, que sean requeridos por el notario, deberá solicitarlos en forma directa y obtenerlos suscritos por su autor con firma electrónica certificada. Cuando tales documentos estén disponibles en Internet, el notario deberá obtenerlos directamente y conservar el documento electrónico, en su apéndice electrónico, para su ulterior consulta.
+Los documentos que integran el protocolo podrán ser digitalizados por el Notario, para incorporarse a un archivo electrónico. La certificación de cualquier documento del archivo electrónico tendrá el mismo valor probatorio que las leyes aplicables conceden a sus originales, si tienen el respaldo suficiente con los documentos y requisitos que señala este capítulo.
 
-Los documentos a que se refiere este artículo tendrán la misma validez y eficacia que los documentos físicos. Igualmente la tendrán, los archivos digitalizados que se materialicen en papel, firmados en forma autógrafa o con la firma electrónica certificada del notario.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+ART. 12 BIS.- El Notario podrá contar con un protocolo electrónico, el cual se integra con:
+
+a) Los registros electrónicos de actos y escrituras otorgados ante la fe del Notario; y
+
+b) El apéndice y el índice de instrumentos electrónicos.
+
+Cada libro del protocolo electrónico deberá contener ochocientos registros electrónicos, entendiendo por estos los asientos de actos y escrituras.
+
+Para efecto de celebrar un acto o escritura en el protocolo electrónico el Notario público y las partes que intervengan deben contar con la firma electrónica certificada proporcionada por la autoridad competente.
+
+Las copias de los documentos autorizados en el protocolo electrónico deberán expedirse y remitirse por medio magnético, electrónico u óptico con la firma electrónica certificada por el Notario Público que autorizó el acto.
+
+Serán aplicables al protocolo electrónico las disposiciones relativas al protocolo en cuanto no las contravengan.
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
@@ -177,6 +281,18 @@ ART. 16.- Los instrumentos se enumerarán progresivamente, incluyendo los que no
 
 Cuando se inutilice un folio se cruzará con líneas de tinta y se colocará al final del respectivo instrumento.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+En caso de utilizar el mismo número dos o más veces o la expresión bis después de un número, en los instrumentos notariales y en los libros, el Notario deberá notificar tal situación en un plazo máximo de 15 días hábiles a la Secretaría General de Gobierno.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+En caso de utilizar el mismo número dos o más veces, el Notario deberá asentar la razón al margen y, en lo conducente, proceder en términos del artículo 44 de la Ley.
+
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
 ART. 17.- Siempre que haya cambio de notario, el que va a actuar asentará, a continuación del último instrumento extendido por el anterior y en una hoja adicional, su nombre, sus apellidos, su firma y su sello de autorizar. Esto se observará en todos los casos, inclusive cuando el titular reanude el ejercicio de sus funciones.
@@ -193,23 +309,51 @@ ART. 19.- Cada instrumento se iniciará al principio de una hoja. Si después de
 
 ART. 20.- Las hojas y los libros estarán siempre en la notaría, salvo cuando el notario deba recabar firmas o cuando lo permita esta Ley. En cuyo caso lo hará el notario personalmente.
 
-Si alguna autoridad con facultades legales ordena la inspección del protocolo o de algún instrumento, el acto se efectuará en presencia del notario y en la oficina notarial.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+Si alguna autoridad con facultades legales ordena mediante resolución fundada y motivada, la inspección de algún instrumento notarial o de algún documento que obre en el apéndice, el acto se efectuará en presencia del Notario y en la oficina notarial. La orden de inspección especificará los actos a realizarse, tales como toma de notas, de fotografías y de copias, y se notificará al Notario al menos con tres días hábiles de anticipación a la diligencia.
 
 > <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
 
 En el caso de que el apéndice o instrumento conste en archivo electrónico, las inspecciones podrán efectuarse en la base de datos que se lleve para tal efecto, en los términos del capítulo tercero del título tercero de esta Ley.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-ART. 21.- Dentro de los cuarenta y cinco días hábiles siguientes al de la integración o conclusión de una decena de libros, el notario asentará en hoja adicional, que agregará al final del último libro, una razón de cierre que autorizará al calce con su firma y sello, y en la que indicará la fecha del asiento, el número de hojas utilizadas e inutilizadas, y la cantidad de instrumentos autorizados, la de los que estén pendientes de autorizar y la de los que no pasaron.
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+ART. 21.- Dentro de los cuarenta y cinco días hábiles siguientes al de la integración o conclusión de una decena de libros, el Notario asentará en hoja adicional, que agregará al final del último libro, una razón de cierre que autorizará al calce con su firma y sello, en los términos prevenidos en el artículo subsecuente.
 
-ART. 22.- A partir de la fecha en que se asiente la razón de cierre, el notario dispondrá de un plazo de cuatro meses para encuadernar la decena de libros y enviarla a la Secretaría General de Gobierno, la cual revisará solamente la exactitud de la razón, devolverá los libros al notario dentro de los diez días siguientes a su recepción y asentará la certificación correspondiente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
 
-En caso de existir los archivos electrónicos respectivos, estos serán enviados a la Secretaría General de Gobierno.
+ART. 22.- A partir de la fecha en que se asiente la razón de cierre, el Notario dispondrá de un plazo de cuatro meses para encuadernar la decena de libros y enviará aviso en formato escrito o electrónico que contenga esa razón a la Secretaría General de Gobierno para su certificación; esta razón notarial deberá contener lo siguiente:
+
+a) Nombre completo del Notario (apellido paterno, materno y nombres);
+
+b) Clave Única del Registro Nacional de Población (CURP) del Notario;
+
+c) Tipo de Notario (titular, adscrito, auxiliar, sustituto, asociado, interino o cualquier otro tipo);
+
+d) Número de Notaría;
+
+e) Demarcación o municipio;
+
+f) Volumen y número de libro;
+
+g) Número de escritura;
+
+h) Fecha de escritura;
+
+i) Tipo de acto o hecho;
+
+j) Otorgantes;
+
+k) Valor de la operación; y
+
+l) Números de folios o fojas.
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
@@ -229,139 +373,205 @@ ART. 24.- El notario llevará un índice de instrumentos en el que asentará, di
 
 El notario podrá optar por llevar el índice de instrumentos en forma electrónica.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-ART. 25.- Los notarios llevarán un protocolo especial para actos y contratos en que intervengan autoridades estatales o municipales. Este protocolo se integrará en la forma indicada en el artículo 12 y tendrá las mismas características que se señalan en este capítulo.
-
-Los instrumentos, hojas, libros y apéndices del protocolo especial se numerarán en forma progresiva e independiente de la que corresponda al protocolo ordinario, y al número se antepondrán las siglas P E.
-
-Los notarios asentarán también en este protocolo especial las actas y escrituras en que intervengan dependencias y entidades de la Administración Pública Federal, cuando actúen para el fomento de la vivienda o con motivo de programas para la regularización de la propiedad inmueble en el Estado.
-
-> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
-
-Los instrumentos y apéndices, mencionados en los párrafos que anteceden, se podrán digitalizar en archivos electrónicos, que se integrarán a la base de datos de la notaría.
+ART. 25.- (DEROGADO P.O. 1 DE NOVIEMBRE DE 2014)
 
 > <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
 
 ART. 26.- Tan pronto como tenga conocimiento de que un instrumento o libro se ha deteriorado, extraviado o destruido, así como algún archivo electrónico se encuentre dañado, el Ejecutivo del Estado dictará cuantas providencias juzgue necesarias para que se reconstruya o reponga.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-ART. 27.- El sello de cada notario tendrá forma circular, con un diámetro de tres y medio a cuatro centímetros, en su centro el Escudo Nacional y, alrededor de éste, el nombre y apellidos del notario, el número de la notaría y el lugar de su residencia.
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
 
-El sello se imprimirá en el ángulo superior izquierdo del anverso de cada hoja que se vaya a utilizar, así como en cualquier documento que autorice, certifique o expida el notario.
+Estos actos se llevarán a cabo con apoyo en documentos o copias que aporten los Notarios, los servidores públicos y los otorgantes. Esas copias harán prueba plena, a no ser que se demuestre su falsedad. El apéndice se repondrá, de ser posible, con los documentos que se logren obtener.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-ART. 28.- Si se pierde o altera el sello, el notario se proveerá de otro, en el que pondrá un signo especial que lo distinga del anterior.
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
 
-Si se pierde el sello, el notario levantará acta ante el Ministerio Público.
+Cuando la reposición o reconstrucción sea imposible, el Ejecutivo dictará el acuerdo respectivo, dejando a salvo los derechos de los otorgantes para comprobar la existencia de tales documentos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+ART. 27.- El sello del Notario representa o simboliza la potestad que el Notario tiene de dar fe y autenticar instrumentos a nombre del Estado de Colima.
+
+El sello tendrá forma circular, con un diámetro de tres y medio a cuatro centímetros, en su centro el Escudo Nacional y, alrededor de éste, el nombre y apellidos del Notario, el número de la notaría y el lugar de su residencia.
+
+El sello se imprimirá en el ángulo superior izquierdo del anverso de cada hoja que se vaya a utilizar, así como a un lado de la firma que el Notario estampe en cualquier documento que autorice, certifique o expida.
+
+Si el Notario opta por la firma electrónica certificada, ésta tendrá los mismos efectos que la firma manuscrita, acompañada del Sello Notarial.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+ART. 28.- Si se pierde o altera el sello, el Notario dará aviso a la Secretaría General de Gobierno, además de realizar la denuncia correspondiente ante el Ministerio Público. Cumplido lo anterior, el Notario tramitará la autorización de otro, el cual se diferenciará del anterior.
 
 ART. 29.- (DEROGADO, P.O. 9 DE JULIO DE 1994)
 
 ### CAPITULO TERCERO. DE LAS ESCRITURAS
 
-ART. 30.- Escritura es el instrumento que el notario asienta en el protocolo para hacer constar un acto jurídico, y que tiene la firma y el sello del notario.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+ART. 30.- Escritura es el instrumento que el Notario asienta en el protocolo para hacer constar un acto jurídico, y que tiene la firma y el sello del Notario, y que los otorgantes firman como prueba de su conformidad o consentimiento.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 25 DE NOVIEMBRE DE 2010)</small>
 
 Se tendrá como parte de la escritura el documento en que se consigne el contrato o acto jurídico de que se trate, siempre que, firmado por el notario y por las partes que en él intervengan, en cada una de las hojas, se agregue el apéndice, llene los requisitos que señala este capítulo, y en el protocolo se levante un acta en las que se haga un extracto del documento, indicando sus elementos esenciales.- En este caso, la escritura, se integrará por dicha acta y el documento que se agregue al apéndice, en el que se consigne el contrato o acto jurídico de que se trate. El acta y el contrato o acto jurídico podrán digitalizarse e incorporarse a la base de datos de la notaria.
 
-ART. 31.- Las escrituras se asentarán empleándose tinta indeleble, con letra clara, sin abreviaturas, salvo el caso de inserción de documentos y sin guarismos, a no ser que la misma cantidad aparezca asentada en letras. Los blancos o hueco si los hubiere, se cubrirán con líneas de tinta fuertemente grabadas, precisamente antes de que se firme la escritura. Al final de ella se salvarán las palabras testadas y entrerrenglonadas; las testaduras se harán con una línea horizontal que las deje legibles; haciendo constar que se valen; las entrerrenglonadas se harán constar que sí valen.- El espacio en blanco que pueda quedar antes de las firmas en las escrituras, deberá ser llenado con líneas de tinta.- Se prohiben las enmendaduras y raspaduras.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-ART. 32.- El notario redactará las escrituras en lengua nacional y observando las reglas siguientes:
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
 
-I.- Expresará el lugar y fecha en que se extienda la escritura, su nombre y apellidos y el número de la notaría;
+Deberán celebrase por escritura pública todos los actos y contratos de disposición o gravamen de bienes inmuebles, y en general aquellos para los cuales la ley exige esa solemnidad.
 
-II.- Indicará la hora en los casos en que la Ley así lo prevenga;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA EN SU PRIMER PARRAFO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
 
-III.- Consignará los antecedentes y certificará que ha tenido a la vista los documentos que se le hubieren presentado para la formación de la escritura, aún cuando se trate de documentos públicos electrónicos. Si se tratare de inmuebles relacionará cuando menos el último título de propiedad del bien o del derecho a que se refiere la escritura, y citará su inscripción en el Registro Público de la Propiedad o expresará la razón por la cual aún no está registrada.
+ART. 31.- Las escrituras se asentarán empleándose tinta indeleble, con letra clara, sin abreviaturas, salvo el caso de inserción de documentos y sin guarismos, a no ser que la misma cantidad aparezca asentada en letras. Los blancos o huecos si los hubiere, se cubrirán con líneas de tinta fuertemente grabadas, precisamente antes de que se firme la escritura. Al final de ella se salvarán las palabras testadas y entrerrenglonadas; las testaduras se harán con una línea horizontal que las deje legibles; haciendo constar que no valen; las entrerrenglonadas se harán constar que sí valen. El espacio en blanco que pueda quedar antes de las firmas en las escrituras, deberá ser llenado con líneas de tinta. Se prohíben las enmendaduras y raspaduras.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+El Notario podrá realizar, redactar, asentar e imprimir sus escrituras usando medios electrónicos o de cualquier otra tecnología, siempre que su impresión final, proporcione textos indelebles. En este supuesto deberá conservar bajo su resguardo y responsabilidad, mediante el uso de los mismos medios, dichos asientos y archivos debidamente resguardados o respaldados en forma electrónica para su ulterior consulta.
 
-El notario solicitará al Registro Público de la Propiedad certificados, ya sea de forma física o electrónica, sobre existencia o inexistencia de gravámenes en relación con esos inmuebles. En la solicitud consignará los nombres de los contratantes, el acto jurídico que éstos van a otorgar, el inmueble de que se trate, el antecedente registral, el sello notarial, su firma y la fecha.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
 
-Cuando dicha solicitud sea hecha por un notario de la entidad, el registrador la anotará preventivamente en el folio correspondiente, tan pronto como la reciba y sin cobro de derechos. Esta anotación producirá plenos efectos jurídicos desde la fecha en que se presentó la solicitud y hasta 30 días naturales posteriores al día en que el registrador entregue al notario el certificado registral.
+ART. 32.- El Notario redactará las escrituras en lengua nacional y observando las reglas siguientes:
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+I. Expresará el número que corresponda a la escritura, el lugar y fecha de impresión en los folios, nombre y apellidos del Notario y de los otorgantes, en su caso la denominación de la persona moral, comparecientes y el número de la notaría a su cargo, identificando los contratos o actos a formalizar;
 
-Dentro de las 48 horas siguientes a la firma de la escritura correspondiente, el notario dará aviso en soporte documental o vía electrónica al Registro Público asentando los datos mencionados en el párrafo segundo de esta fracción. Sin cobro de derechos e inmediatamente, el registrador practicará otra anotación preventiva en el folio respectivo, la cual producirá efectos por un término de 90 noventa días naturales, contados a partir de la fecha de presentación del aviso notarial y podrá prorrogarse hasta tres veces más, por 90 días cada vez, a petición del notario y siempre que la prórroga sea anotada antes de que caduque esa anotación registral. Si el aviso se da dentro del término de 30 días, establecido en el párrafo anterior, sus efectos preventivos se retrotraerán a la fecha en que el notario presentó la solicitud de certificado registral.
+II. Indicará la hora en los casos en que la Ley así lo prevenga o ello juzgue pertinente;
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+III. Consignará los antecedentes y certificará que ha tenido a la vista los documentos físicos o electrónicos que se le hubieren presentado para la formación de la escritura, aún cuando se trate de documentos públicos electrónicos. Si se tratare de inmuebles relacionará cuando menos el último título de propiedad del bien o del derecho a que se refiere la escritura, y citará su inscripción en el Instituto para el Registro del Territorio o expresará la razón por la cual aún no está registrada.
 
-Si el testimonio notarial se presenta al Registro Público dentro de cualquiera de los plazos señalados en el párrafo anterior, su inscripción surtirá efectos contra terceros desde la fecha en que el notario presentó la solicitud de certificado. Si se presenta después, surtirá esos efectos desde la fecha de su presentación.
+A petición de los otorgantes, el Notario podrá, al formalizar la escritura pública, rectificar los datos que aparezcan equivocados o que no coincidan con la realidad. Sin embargo, sólo podrá aumentarse más de un diez por ciento la superficie del inmueble consignada en el título de propiedad, siempre y cuando exista resolución judicial o administrativa que lo autorice.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+El Notario solicitará al Instituto para el Registro del Territorio certificados, ya sea de forma física o electrónica, sobre existencia o inexistencia de gravámenes en relación con esos inmuebles. En la solicitud consignará los nombres de los contratantes, el acto jurídico que éstos van a otorgar, el inmueble de que se trate, el antecedente registral, el sello notarial, su firma y la fecha;
 
-Si el aviso notarial carece de algún dato o contiene algún error, el registrador requerirá al notario, por la misma vía en que realizó el aviso, para que subsane la omisión o rectifique el error dentro de las cuarenta y ocho horas siguientes. En caso de que el notario dé cumplimiento oportuno a este requerimiento, el aviso surtirá efectos desde la fecha en que fue presentado; en caso contrario, los surtirá a partir de la fecha en que cumpla ese requerimiento.
+IV. Si el Notario otorga varios actos respecto de inmuebles con un mismo antecedente de propiedad por tratarse de predios resultantes de fraccionamientos, relotificación, fusión, subdivisión o de unidades sujetas al régimen de condominio, el mismo podrá, si realiza un primer instrumento que denominará de "certificación de antecedentes", relacionar todos los títulos y demás documentos necesarios para el otorgamiento de actos posteriores; con ello, en las escrituras posteriores en las que individualice los inmuebles afectos a dicho antecedente, no necesitará relacionar todos los antecedentes que consten en aquel instrumento, sino solo hará mención de este último y que quien dispone puede hacerlo legítimamente, describiendo únicamente el inmueble materia de la operación y citando el antecedente registral en el que haya quedado inscrita la lotificación en los casos de fraccionamiento, relotificación o la constitución del régimen en propiedad de condominio, cuando se trate de actos cuyo objeto sean las unidades del inmueble de que se trate, así como los relativos a gravámenes o fideicomisos que se extingan.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+La escritura de protocolización de planos de fraccionamientos, lotificación, de relotificación, fusión, subdivisión o constitución del régimen de propiedad en condominio hará los efectos del instrumento de certificación de antecedentes. Surtirá también esos efectos la escritura en la que por operación anterior consten los antecedentes de propiedad de un inmueble.
 
-Si se suspende o deniega la inscripción de un testimonio notarial, el registrador hará inmediatamente la anotación preventiva a que se refiere la fracción V del artículo 2932 del Código Civil, a fin de que surta efectos contra terceros durante el término señalado en el artículo 2924 de ese Código.
+A los testimonios de las escrituras autorizadas de conformidad con esta fracción, el Notario anexará una copia, en lo conducente, del instrumento de certificación de antecedentes;
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+V. Al consultar un folio, si el mismo aparece libre de gravamen, podrá el Notario imprimir desde su equipo de cómputo la página que tenga a la vista en el mismo y la impresión que realice, podrá certificar que la misma concuerda con el folio que ha tenido a la vista electrónicamente en su equipo, fecharla y con ello podrá iniciar sus actos notariales relacionados con el inmueble a que se refiere dicha impresión, pudiendo servirle inclusive como Certificado provisional en tanto cuenta con el definitivo si se obtiene en forma directa o mediante el procedimiento que se especifica en el inciso siguiente;
 
-La resolución del registrador que suspenda o deniegue la inscripción de un testimonio podrá ser recurrida ante el Director del Registro, mientras no caduque la anotación preventiva mencionada en el párrafo anterior.
+VI. El Notario Público de la entidad, podrá solicitar en cualquiera de las formas permitidas por la Ley, los certificados sobre existencia o inexistencia de gravámenes al Instituto para el Registro del Territorio, pudiendo usar medios electrónicos o de cualquier otra tecnología y a través de sistemas de comunicación electrónica.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+Cuando la solicitud de un certificado sea hecha por un Notario de la entidad, utilizando cualquiera de los medios anteriores y los que lleguen a determinar la autoridad respectiva, el registrador practicará una anotación preventiva en el folio correspondiente, tan pronto como la reciba y sin cobro de derechos. Esta anotación la realizará el registrador por cualquiera de los medios, inclusive electrónicos o de cualquier otra naturaleza y producirá plenos efectos jurídicos desde la fecha en que se presentó la solicitud y hasta 30 días hábiles posteriores al día en que el registrador entregue al Notario el certificado registral.
 
-Si en el certificado registral aparecen gravámenes, éstos se inscribirán o anotarán en el folio en que se registre la enajenación del inmueble a favor del adquirente, a no ser que ya esté cancelados (sic) en el folio del enajenante.
+En el caso de que el Notario y de acuerdo con lo dispuesto en los párrafos que anteceden, reciba por vía electrónica y por parte del Instituto para el Registro del Territorio, los certificados de gravámenes respectivos, al cerciorarse de que los recibe con la correspondiente firma electrónica del registrador debidamente autorizada por la Secretaría General de Gobierno, podrá certificar en su protocolo que lo tiene en esa forma, expedir si es necesario una copia de dichos certificados, con la certificación de que ostenta la firma electrónica citada y conservar sus archivos electrónicos en los medios ya mencionados.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+Dentro de las 48 horas siguientes a la firma de la escritura correspondiente, el Notario dará aviso en soporte documental o vía electrónica al Instituto para el Registro del Territorio asentando los datos mencionados en la fracción I. Sin cobro de derechos e inmediatamente, el registrador practicará otra anotación preventiva en el folio respectivo, la cual producirá efectos por un término de noventa días naturales, contados a partir de la fecha de presentación del aviso notarial y podrá prorrogarse hasta tres veces más, por noventa días cada vez, a petición del Notario y siempre que la prórroga sea anotada antes de que caduque esa anotación registral. Si el aviso se da dentro del término de treinta días, establecido en el párrafo segundo de esta fracción, sus efectos preventivos se retrotraerán a la fecha en que el Notario presentó la solicitud de certificado registral.
 
-Para los efectos previstos en los párrafos anteriores y en las disposiciones del Código Civil referentes al registro de la propiedad, se considerará como tercero al titular de un derecho real;
+Si el testimonio notarial se presenta al Instituto para el Registro del Territorio en cualquiera de las formas permitidas por la Ley, dentro de cualquiera de los plazos señalados en el párrafo anterior, su inscripción surtirá efectos contra terceros desde la fecha en que el Notario presentó la solicitud de certificado. Si se presenta después, surtirá esos efectos desde la fecha de su presentación.
 
-IV.- Al citar el nombre de un notario de número o adscrito ante cuya fe haya pasado algún instrumento, mencionará precisamente su fecha y el número de la notaría en la que el de número o adscrito despachaba al otorgarse el documento indicado;
+Si el aviso notarial carece de algún dato o contiene algún error, el registrador requerirá al Notario, por la misma vía en que realizó el aviso, para que subsane la omisión o rectifique el error dentro de los tres días hábiles siguientes. En caso de que el Notario dé cumplimiento oportuno a este requerimiento, el aviso surtirá efectos desde la fecha en que fue presentado; en caso contrario, los surtirá a partir de la fecha en que cumpla ese requerimiento.
 
-V.- Consignará el acto en cláusulas redactadas con claridad y concisión, evitando toda palabra y fórmula inútil o anticuada;
+Si se suspende o deniega la inscripción de un testimonio notarial, el registrador hará inmediatamente la anotación preventiva a que se refiere la fracción V del artículo 84 de la Ley del Instituto para el Registro del Territorio del Estado de Colima, a fin de que surta efectos contra terceros durante el término señalado en el artículo 66 de la citada Ley.
 
-VI.- Designará con puntualidad las cosas que sean objeto del acto, de tal modo que no puedan confundirse con otras y si se tratare de bienes inmuebles, determinará su naturaleza, su ubicación y sus colindancias o linderos y en cuanto fuere posible su extensión superficial;
+La resolución del registrador que suspenda o deniegue la inscripción de un testimonio podrá ser recurrida ante el Director General del Instituto para el Registro del Territorio, mientras no caduque la anotación preventiva mencionada en el párrafo anterior.
 
-VII.- Determinará las renuncias de derechos o de leyes que hagan los contratantes válidamente;
+Si en el certificado registral aparecen gravámenes, éstos se inscribirán o anotarán en el folio en que se registre la enajenación del inmueble a favor del adquirente, a no ser que ya estén cancelados en el folio del enajenante.
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 1994)</small>
+Para los efectos previstos en los párrafos anteriores y en las disposiciones de la Ley del Instituto para el Registro del Territorio del Estado de Colima, referentes al registro de la propiedad, se considerará como tercero al titular de un derecho real.
 
-VIII.- Dejará acreditada la personalidad de quien comparezca en representación de otra persona, relacionando o insertando los documentos respectivos o bien agregándolos en original o en copia certificada al apéndice, haciendo mención de ellos en la escritura.
+Los actos antes mencionados, podrán ser realizados tanto por el Notario de la entidad, como por el registrador, mediante el uso de sistemas electrónicos o de cualquier otra naturaleza que determine el Registro del Territorio del Estado de Colima;
+
+VII. Al citar el nombre de un Notario titular o adscrito ante cuya fe haya pasado algún instrumento, mencionará precisamente su fecha y el número de la notaría en la que el de número o adscrito despachaba al otorgarse el documento indicado;
+
+VIII. Consignará el acto en cláusulas redactadas con claridad y concisión, evitando toda palabra y fórmula inútil o anticuada;
+
+IX. Designará con precisión las cosas que sean objeto del acto, de tal modo que no puedan confundirse con otras y si se tratare de bienes inmuebles, determinará su naturaleza, su ubicación, sus medidas, colindancias o linderos; y extensión superficial;
+
+X. Compulsara los documentos físicos o electrónicos de que deba hacerse la inserción a la letra, los cuales a su juicio agregará al apéndice. Evitará insertar los documentos que no sean indispensables;
+
+XI. Determinará las renuncias de derechos de ley que hagan los contratantes válidamente;
+
+XII. Dejará acreditada la personalidad de quien comparezca en representación de otro, de cualquiera de las siguientes maneras:
+
+a).- Si se trata de documentos que se encuentran inscritos en el Registro del Territorio del Estado de Colima, o que obren en algún archivo público del que cualquier interesado pueda pedir copia, bastará con que el Notario los relacione, es decir, que haga una breve descripción de los mismos, indicando sus datos que los identifiquen, señalando su origen, lugar y partida de registro;
+
+b).- Si se trata de documentos que no se encuentran en el caso del inciso que antecede, el Notario deberá insertarlos, es decir, transcribirlos total o parcialmente, o bien, podrá agregar copia de ellos al apéndice, cotejada por él mismo, haciendo mención de ellos en la escritura.
+
+El Notario podrá hacer la relación o transcripción a que se refieren los incisos que anteceden, en hojas fuera de su protocolo pero, en dicho caso, deberá agregar el original de la certificación al apéndice de la escritura y otro tanto a los testimonios que expida de la misma.
 
 Los representantes de personas morales o físicas declararán, bajo protesta de decir verdad, que sus facultades están vigentes.
 
-Los funcionarios públicos no necesitarán presentar documentos que justifiquen su cargo cuando al notario le conste por notoriedad;
+Los funcionarios públicos no necesitarán presentar documentos que justifiquen su cargo cuando al Notario le conste por notoriedad; y
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+c).- El Notario podrá optar por llevar un apéndice especial, que se llamará "Apéndice de Personalidades”, en el que debidamente numerados en forma consecutiva, lleve un control especial y archive, los documentos que acrediten la existencia y personalidad de todas y cada una de las personas morales, debidamente actualizada, así como la de sus representantes legales y apoderados. Si así fuere, bastará con que relacione en el instrumento público que realice, el o los números que le correspondan del apéndice de personalidades y se remita a los documentos que en el mismo tenga, documentos estos que deberá dejar a la disposición de autoridades y parte interesada en su caso, o bien, expedir las copias fotostáticas certificadas que se requieran de dicho apéndice.
 
-IX.- Compulsará los documentos físicos o electrónicos de que deba hacerse la inserción a la letra, los cuales a su juicio agregará al apéndice. Evitará insertar los documentos que no sean indispensables;
+La personalidad así acreditada, hará fe en juicio y fuera de él, salvo prueba en contrario.
 
-X.- Al agregar al apéndice cualquier documento, expresará el número del legajo y la letra bajo la cual se coloca en el legajo;
+El Notario no autorizará la escritura, si el que comparece en nombre de otro no acredita su representación en la forma y términos que determine la ley de la materia;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+XIII. Compulsará los documentos físicos o electrónicos de que deba hacerse la inserción a la letra, los cuales a su juicio agregará al apéndice. Evitará insertar los documentos que no sean indispensables;
 
-XI.- Expresará el nombre y los apellidos, edad, estado civil, lugar de origen, nacionalidad, profesión o ejercicio y domicilio de los contratantes y de los testigos de conocimiento o instrumentales, cuando alguna ley los prevenga, como en testamentos y de los intérpretes, cuando sea necesario la intervención de éstos. Al expresar el domicilio, no solo mencionará la población en general, sino también el número de la casa, nombre de la calle o cualquier otro dato que precise dicho domicilio, hasta donde sea posible; y
+XIV. Al agregar al apéndice cualquier documento, expresará el número del legajo y la letra bajo la cual se coloca en el legajo.
 
-XII.- Hará constar bajo su fe:
+XV. Expresará el nombre y los apellidos, nacionalidad, estado civil, lugar y fecha de nacimiento, ocupación y domicilio de los otorgantes y de los testigos de conocimiento o instrumentales, cuando alguna ley los provea como en testamentos y de los intérpretes, cuando sea necesaria la intervención de éstos. Al expresar el domicilio, no solo mencionará la población en general, sino también el número de la casa, nombre de la calle o cualquier otro dato que precise dicho domicilio, hasta donde sea posible; y
 
-a).- Que conoce a los comparecientes y que tienen capacidad legal;
+XVI. Hará constar bajo su fe:
 
-b).- Que les leyó la escritura, así como a los testigos de conocimiento e intérpretes, si los hubiere, o que los comparecientes la leyeron por sí mismos;
+a) Que conoce a los comparecientes o que se identifican por alguno de los medios señalados en el artículo 34 de esta Ley, y que tienen capacidad legal, a su juicio, por no observar en ellos manifestaciones patentes de incapacidad natural y por no tener noticia de que estén sujetos a incapacidad civil;
 
-c).- Que a los comparecientes les explicó el valor y las consecuencias legales del contenido de la escritura, cuando proceda;
+b) Que les leyó la escritura, así como a los testigos de conocimiento e intérpretes, si los hubiere, o que los comparecientes la leyeron por sí mismos;
 
-d).- Que otorgaron la escritura los comparecientes, es decir, que ante el notario manifestaron su conformidad con la escritura y firmaron ésta o no lo hicieron por declarar que no saben o no puedan firmar. En este caso el compareciente imprimirá su huella digital y firmará a su ruego la persona que al efecto elija;
+c) Que a los comparecientes les explicó el valor y las consecuencias legales del contenido de la escritura, cuando proceda;
 
-e).- La fecha o fechas en que firmaren la escritura los comparecientes o la persona o personas elegidas por ellos, los testigos e intérpretes si los hubiere;
+d) Que otorgaron la escritura los comparecientes, es decir, que ante el Notario manifestaron su conformidad con la escritura y firmaron ésta o no lo hicieron por declarar que no saben o no puedan firmar. En este caso el compareciente imprimirá su huella digital y firmará a su ruego la persona que al efecto elija;
 
-f).- Los hechos que presencie el notario y que sean integrantes del acto que autorice, como entrega de dinero o de títulos y otras.
+e) La fecha o fechas en que firmen en la escritura los comparecientes o la persona o personas elegidas por ellos, los testigos e intérpretes si los hubiere;
+
+f) Los hechos que presencie el Notario y que sean integrantes del acto que autorice, como entrega de dinero o de títulos y otras; y
+
+g) Que enteró a los otorgantes de las penas en que incurren quienes declaran con falsedad u omiten decir la verdad ante Notario.
 
 ART. 33.- Para que el notario dé fe de conocer a los comparecientes y de que tienen capacidad legal, bastará que sepa su nombre y apellidos, que no observe en ellos manifestaciones patentes de incapacidad natural y que no tenga noticia de que estén sujetos a incapacidad civil.
 
-ART. 34.- En caso de no serle conocidos, hará constar su identidad y capacidad si le presentan documentos oficiales que los acrediten o por la declaración de dos testigos a quienes conozca el notario, quien así lo expresará en la escritura. Los testigos podrán ser de sexo masculino y femenino y deberán ser mayores de dieciocho años. Para que los testigos aseguren la identidad y capacidad legal de los otorgantes, bastará que sepan su nombre y apellidos, que no observen en ellos manifestaciones patentes de incapacidad natural y que no tengan conocimiento de que están sujetos a incapacidad civil, para lo cual el notario les explicará cuales son las incapacidades naturales y civiles, exceptuando de esta explicación al testigo que sea perito en derecho. En substitución del testigo que no supiere o no pudiere firmar lo hará otra persona que al efecto elija y aquel imprimirá su huella digital.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+El Notario valorará la capacidad de los otorgantes atendiendo sólo al estado en que se hallen al formalizar el instrumento notarial.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+Se presumen la capacidad y la buena fe de los otorgantes de un instrumento notarial, así como la autenticidad de los documentos que ellos exhiben ante el Notario, siempre y cuando no exista algún registro en donde se pueda verificar dicha autenticidad.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+ART. 34.- En caso de que no conozca a los otorgantes, el Notario hará constar su identidad y capacidad, si le presentan documentos oficiales que los acrediten o por la declaración de dos testigos que el Notario conozca o que se identifiquen con esos documentos, expresándolo así en la escritura. Los testigos deberán ser mayores de dieciocho años.
+
+Para que los testigos aseguren la identidad y capacidad legal de los otorgantes, bastará que sepan su nombre y apellidos, que no observen en ellos manifestaciones patentes de incapacidad natural y que no tengan conocimiento de que están sujetos a incapacidad civil, para lo cual el Notario les explicará cuales son las incapacidades naturales y civiles, exceptuando de esta explicación al testigo que sea perito en derecho. En substitución del testigo que no supiere o no pudiere firmar lo hará otra persona que al efecto elija y aquel imprimirá su huella digital.
+
+El Notario no incurrirá en responsabilidad alguna, si identifica a uno o más otorgantes con apoyo en documentos, declaraciones, dictámenes o datos que resulten falsos, aportados por cualquiera de ellos o por testigos, por ascendientes o descendientes o por peritos de ellos.
 
 ART. 35.- Si no hubiere testigos de conocimiento o éstos carecieren de los requisitos legales para testificar, no se otorgará la escritura si no es en caso grave y urgente, expresando el notario la razón de ello, si se le presentare algún documento no oficial que acredite la identidad del otorgante, lo referirá también. La escritura se confirmará, comprobada que sea plenamente la identidad de los comparecientes.
 
-ART. 36.- Si alguno de los comparecientes fuere sordo, leerá por sí mismo la escritura; si declarare no saber o no poder leer designará a una persona que lea en substitución de él, persona que le dará a conocer el contenido de la escritura por medio de signos o de otra manera todo lo cual hará constar el notario.- Si el otorgante fuere ciego, la escritura le será leída por la persona que él designe, haciéndose constar esta circunstancia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+ART. 36.- Si alguno de los otorgantes fuere sordo, leerá la escritura en presencia del Notario. Si declara que no sabe o no puede leer, designará una persona que la lea y le dé a conocer su contenido, por medio de signos inequívocos.
+
+Si el otorgante fuere ciego, la escritura le será leída por el Notario y por la persona que designe.
+
+Si el otorgante fuere persona muda, manifestará por escrito su voluntad de otorgar el acto jurídico y leerá la escritura en presencia del Notario. Si no sabe o no puede escribir, manifestará su consentimiento ante dos testigos, a través del alfabeto manual o dactilológico o de signos inequívocos.
+
+En cada uno de los casos previstos en este artículo, el Notario hará constar los hechos respectivos en la escritura que autorice, y podrá, si lo juzga pertinente, valerse de cualquier medio probatorio para cerciorarse de la voluntad del otorgante.
 
 ART. 37.- La parte que no supiere lengua nacional, se acompañará de un intérprete elegido por ella, que hará protesta formal ante el notario de cumplir lealmente su cargo.- La parte que conozca la lengua nacional podrá también llevar otro intérprete para lo que a su derecho convenga.
 
@@ -371,15 +581,27 @@ ART. 38.- Si las partes quisieren hacer alguna adición o variación antes de fi
 
 ART. 39.- Firmada la escritura por todos los otorgantes, y por los testigos e intérpretes en su caso, inmediatamente después, será autorizada por el notario con la razón "Ante mí", su firma y su sello, asentando además la hora y fecha en que se firme.
 
-Cuando la escritura no sea firmada simultáneamente por todos los otorgantes, siempre que no se deba firmar en un solo acto por su naturaleza o por disposición legal, el notario irá asentando la razón "Ante mí" y su firma, a medida que sea firmada por las partes, y cuando todos la hayan firmado imprimirá además su sello y hará constar la fecha y hora en que se terminó de firmar, con todo lo cual quedará autorizada.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+Cuando la escritura no sea firmada simultáneamente por todos los otorgantes, siempre que no se deba firmar en un solo acto por su naturaleza o por disposición legal, el Notario irá asentando la razón "Ante mí" y su firma, a medida que sea firmada por las partes, y cuando todos la hayan firmado imprimirá además su sello y hará constar la fecha y hora en que se terminó de firmar, con todo lo cual quedará autorizada. Las firmas de los otorgantes de un instrumento, podrán ser recogidas por el Notario Público titular o por el adscrito según corresponda.
 
 Tan luego como autorice una escritura, el notario deberá cumplir con las disposiciones fiscales correspondientes, a no ser que los otorgantes no le hayan entregado el importe de los gastos y honorarios o que exista fuerza mayor.
 
-En todo caso, el notario no entregará testimonio de la escritura sino hasta que se cerciore que se cumplieron aquellas disposiciones.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+En todo caso, el Notario no entregará testimonio de la escritura sino hasta que reciba sus honorarios y se cerciore que se cumplieron aquellas disposiciones y además suspenderá cualquier trámite notarial derivado de esta ley, sin responsabilidad para él.
 
 ART. 40.- Si quienes deban suscribir una escritura no se presentan a firmarla dentro del término de un mes, contado de fecha a fecha inclusive, a partir del día en que se extendió en el protocolo, la misma escritura quedará sin efecto y el notario pondrá al pie de ella y firmará una razón de "No pasó".
 
-ART. 41.- Si la escritura fuere firmada dentro del mes a que se refiere el artículo treinta y ocho, pero no se acredita al notario el pago del impuesto o derechos cuyas leyes así lo establezcan dentro del plazo que señalan, el notario pondrá al margen la nota de ``No pasó''.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+ART. 41.- Si la escritura fuere firmada dentro del mes a que se refiere el artículo cuarenta, pero no se acredita al Notario el pago de impuestos y derechos o no le entreguen el importe de ellos y de los honorarios causados, dentro del plazo que señalan las leyes fiscales, el Notario hará constar esta omisión al pie o al margen de ese instrumento público, con lo cual se liberará de cualquier responsabilidad fiscal y civil, y además no realizará trámite alguno relacionado con esa escritura. En este caso, se asentará también la nota siguiente: no pasó, pendiente de trámite u otra equivalente.
 
 ART. 42.- Si en una escritura se contienen varios actos jurídicos, el notario deberá autorizarla por lo que se refiere a aquellos que hayan sido firmados por las partes dentro del término legal y pondrá nota marginal asentando qué actos no pasaron.
 
@@ -387,11 +609,103 @@ ART. 43.- Cada escritura llevará al margen, además de su número progresivo, l
 
 ART. 44.- Se prohibe a los notarios consignar revocaciones, rescisiones o modificaciones al contenido de una escritura por simple razón al margen de ella.- En estos casos debe extenderse nueva escritura y anotar después la antigua, salvo disposición expresa de la ley, en sentido contrario.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+ART. 44 BIS.- Siempre que se otorgue un poder ante Notario Público por persona física o moral que no estén sujetas a otro registro, el fedatario deberá formular de forma electrónica dentro de los tres días hábiles siguientes, un aviso de su otorgamiento o de su revocación, según sea el caso, al Sistema del Registro Nacional de Avisos de Poderes Notariales.
+
+a) Nombre completo del Notario (apellido paterno, materno y nombres);
+
+b) CURP del Notario;
+
+c) Tipo de Notario (titular, adscrito o sustituto);
+
+d) Número de la notaría;
+
+e) Demarcación o Municipio;
+
+f) Fecha de la escritura;
+
+g) Número de la escritura;
+
+h) Volumen o tomo;
+
+i) Libro;
+
+j) Lugar de otorgamiento;
+
+k) Nombre completo del (los) poderdante (s) y del (los) apoderado (s) (apellido paterno, materno y nombres);
+
+l) Tratándose de personas morales sin actividad mercantil, su denominación o razón social;
+
+m) Cuando se trate de personas físicas el sexo del (los) poderdante (s) y el del (los) apoderado (s);
+
+n) CURP del (los) poderdante (s);
+
+o) CURP del (los) apoderado (s);
+
+p) Nacionalidad del (los) poderdante (s);
+
+q) Tipo de Poder (Actos de dominio);
+
+r) Facultades conferidas al apoderado (General, general limitado, especial, irrevocable, conferir, revocar); y
+
+s) Vigencia del poder en su caso.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+ART. 44 TER.- Cuando ante un Juez o Notario presenten un poder para actos de dominio sobre bienes inmuebles, otorgado por persona física o moral, y que dicho poder no esté sujeto a otro registro, deberá solicitar en forma escrita o electrónica el informe relativo de la existencia o inexistencia, y en su caso, de la vigencia de algún poder, mediante la solicitud de revisión a la Secretaría General de Gobierno y ésta a su vez solicitará vía Internet el reporte de revisión al Registro Nacional de Avisos de Poderes Notariales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+ART. 44 QUATER.- Cuando ante un Notario Público se revoque un poder otorgado por persona física o moral que no esté sujeta a otro registro, el fedatario en forma electrónica dará aviso al Registro Nacional de Avisos de Poderes Notariales, en el que proporcione los siguientes datos:
+
+a) Nombre completo del Notario ante quien se revoca (apellido paterno, materno y nombres);
+
+b) CURP del Notario ante quien se revoca;
+
+c) Número de la notaría del fedatario ante quien se revoca el poder;
+
+d) Tipo de Notario ante quien se revoca (titular, adscrito o sustituto);
+
+e) Demarcación o Municipio del Notario ante quien se revoca;
+
+f) Ciudad del Notario ante quien se revoca;
+
+g) Entidad Federativa del Notario ante quien se revoca;
+
+h) Número de la escritura que se revoca;
+
+i) Volumen o tomo de la escritura que se revoca;
+
+j) Fecha de otorgamiento de la escritura que se revoca;
+
+k) Número de la notaría que expidió la escritura que se revoca;
+
+l) Lugar de otorgamiento de la escritura que se revoca;
+
+m) Nombre completo del Notario (apellido paterno, materno y nombres) ante quien se otorgó la escritura que se revoca;
+
+n) Demarcación o municipio del Notario que expidió la escritura que se revoca; y
+
+o) Nombre completo (s) del (los) apoderado (s) que se revocan (apellido paterno, materno y nombres).
+
 ART. 45.- El notario no podrá autorizar acto alguno, sino haciéndolo constar en el protocolo y observando las formalidades prescritas en esta ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+El Notario no expedirá testimonio o copia certificada de un instrumento notarial a quien no tenga derecho o interés que derive del contenido de ese instrumento.
 
 ART. 46.- La obligación que tiene el notario de redactar por escrito las cláusulas de los testamentos públicos abiertos, no implica que deba escribirlas el notario por sí mismo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
 
 ART. 47.- Siempre que se otorgue un testamento ante Notario Público, éste dará dentro de los diez días hábiles siguientes a su otorgamiento, aviso por escrito o vía electrónica a la Secretaría General de Gobierno conteniendo los siguientes datos:
 
@@ -455,9 +769,11 @@ n) Lugar de otorgamiento;
 
 o) Nombre completo del Notario (apellido paterno, materno y nombres);
 
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-p) Tipo de Notario (titular, adscrito, auxiliar, suplente, asociado, interino o cualquier otro tipo);
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+p) Tipo de Notario (titular, adscrito, auxiliar, sustituto, asociado, interino o cualquier otro tipo);
 
 > <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2007)</small>
 
@@ -469,7 +785,7 @@ r) Demarcación o municipio.
 
 > <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2007)</small>
 
-ART.47 bis.- La Secretaría General de Gobierno contará con una base de datos electrónica destinada a asentar las inscripciones relativas con los datos que se mencionan para tal efecto en el aviso, la que una vez realizada, será remitida vía Internet al Registro Nacional de Avisos del Testamento con todos los datos necesarios según sea el caso para el registro en la base nacional correspondiente.
+ART.47 BIS.- La Secretaría General de Gobierno contará con una base de datos electrónica destinada a asentar las inscripciones relativas con los datos que se mencionan para tal efecto en el aviso, la que una vez realizada, será remitida vía Internet al Registro Nacional de Avisos del Testamento con todos los datos necesarios según sea el caso para el registro en la base nacional correspondiente.
 
 > <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
 
@@ -479,11 +795,39 @@ Los jueces o cualquier otra autoridad, ante quienes se denuncie un juicio suceso
 
 La Secretaría General de Gobierno, habilitará a los notarios y a los jueces que soliciten información sobre testamentos, para que puedan acceder a la base de datos del Registro Nacional de Avisos de Testamento, llevando un estricto control electrónico de esas consultas.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+Estos trámites podrá realizarlos el Notario vía electrónica con la Secretaría General de Gobierno si esta determina la forma o sistema con la debida certificación en los términos de esta Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+Los trámites que realice el Notario en el desempeño de su función ante autoridades diferentes al Instituto para el Registro del Territorio, podrá realizarlos vía electrónica, con base a lo dispuesto en este capítulo respecto a la certificación de firma digital o cualquier otro medio electrónico que determine la Secretaría General de Gobierno, de conformidad con los convenios, sistemas y registros correspondientes.
+
 ### CAPITULO CUARTO. DE LAS ACTAS
 
 ART. 48.- Acta notarial es el instrumento que el notario asienta en el protocolo para hacer constar un hecho jurídico y que tiene la firma y el sello del notario.
 
-ART. 49.- Las actas se asentarán en el protocolo.- Los preceptos del capítulo relativo a las escrituras serán aplicables a las actas en cuanto sean compatibles con la naturaleza de ellas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+El Notario podrá intervenir, apegándose a lo ordenado en las leyes, en toda clase de hechos, estados o situaciones que pueda relatar y apreciar por sus sentidos. Su actuación podrá comprender, por lo tanto, documentos, cosas y actos, dichos u omisiones de personas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+Cuando se solicite al Notario que dé fe de varios hechos relacionados entre sí, pero que tengan lugar en diversos sitios y días seguidos, él podrá asentarlos en una sola acta, tan pronto como concluya su intervención.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+ART. 49.- Las actas se asentarán en el protocolo.- Los preceptos del capítulo relativo a las escrituras serán aplicables a las actas en cuanto sean compatibles con la naturaleza de ellas, incluyendo la realización, redacción, asentamiento e impresión, usando medios electrónicos o de cualquier otra tecnología, siempre que su impresión final, proporcione textos indelebles. En este último caso, deberá conservar bajo su resguardo y responsabilidad, mediante el uso de los mismos medios, dichos asientos y archivos debidamente resguardados o respaldados en forma electrónica para su ulterior consulta.
 
 En las notificaciones, interpelaciones, requerimientos, protesto de documentos y otras diligencias en las que deba intervenir el notario según las leyes:
 
@@ -501,6 +845,12 @@ En los casos a que se refieren las fracciones anteriores, el acta podrá ser ase
 
 VI.- La fuerza pública prestará a los notarios el auxilio que requieran para llevar a cabo las diligencias que aquellos deban practicar conforme a la Ley, cuando se les opusiere resistencia o se use o pueda usarse violencia en contra de los mismos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+Al desahogar la diligencia, el Notario podrá certificar las fotografías, impresiones y películas, grabaciones, planos, declaraciones, peritajes y cualquier documento que derivado de la propia diligencia, sirva para acreditar los hechos y circunstancias en que se desarrolló, así como la certeza y alcance de su contenido y en general, cualquier ejecución de cualquier otro acto tendiente a demostrar el objeto de la actuación notarial.
+
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
 ART. 50.- No se asentarán en el protocolo:
@@ -513,17 +863,35 @@ III.- Las copias certificadas que se expidan de documentos originales que se pre
 
 IV.- La certificación sobre existencia, identidad, capacidad legal, domicilio y comprobación de firmas o huellas dactilares de personas conocidas por el notario;
 
-V.- La certificación sobre autenticidad de firmas o huellas dactilares y ratificación de documentos privados, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2014)</small>
 
-VI.- El cotejo de que la copia escrita, fotográfica, fotostática, digital, electrónica o de cualquier otra clase, coincide con el documento original o con su copia certificada. En este caso, el notario asentará la certificación en la propia copia, en la que imprimirá su firma y sello, el lugar y la fecha.
+V. La certificación sobre autenticidad de firmas o huellas dactilares y ratificación de documentos privados;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+VI. El cotejo de que la copia escrita, fotográfica, fotostática, digital, electrónica o de cualquier otra clase, coincide con el documento original o con su copia certificada. En este caso, el Notario asentará la certificación en la propia copia, en la que imprimirá su firma y sello, el lugar y la fecha; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+VII. La certificación relativa a declaraciones de personas sobre hechos que les consten, sean propios o de terceros.
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
 ART. 51.- En los casos de las fracciones I, IV y V del artículo 50, el notario levantará acta en el propio documento o en hoja que se le adhiera. Estas actas deberán ser numeradas progresivamente y contener, además del cotejo o certificación respectivo, los nombres y apellidos de los solicitantes o de los otorgantes del documento privado, y de los testigos, si los exige la ley. Los interesados firmarán tales actas o, en su defecto, imprimirán su huella dactilar. El notario certificará la identidad y capacidad de ellos e imprimirá su firma y su sello, en por lo menos dos ejemplares del documento. Uno de estos quedará en poder del notario.
 
 Con los ejemplares que vaya acumulando, el notario formará el libro de certificaciones, que se numerará progresivamente y contendrá no más de ciento cincuenta actas numeradas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+El Notario tiene prohibido realizar certificaciones relacionadas con contratos privados de enajenación o de hipoteca de inmuebles o de actos jurídicos que deban constar en escritura pública, la certificación que haga será nula.
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
@@ -539,9 +907,17 @@ ART. 55.- En las actas de protocolización hará constar el notario que el docum
 
 ### CAPITULO QUINTO. DE LOS TESTIMONIOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-ART. 56.- Testimonio es la copia que transcribe íntegramente una escritura o acta notarial con los documentos anexos que obren en el apéndice, en soporte papel o en soporte electrónico, con excepción de los que ya se hayan insertos en el instrumento. Tratándose de documentos en idioma extranjero que obren en el apéndice, podrán ser o no transcritos en el testimonio y podrá certificarse copia de éstos que concuerden con los originales protocolizados.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+ART. 56.- Testimonio es el documento en el que se transcribe íntegramente una escritura o acta notarial o la imagen de la misma, con los documentos anexos que obren en el apéndice, en soporte papel o en soporte electrónico, con excepción de los que ya se hayan insertos en el instrumento. Tratándose de documentos en idioma extranjero que obren en el apéndice, podrán ser o no transcritos en el testimonio y podrá certificarse copia de éstos que concuerden con los originales protocolizados.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+Si el Notario lleva el "Apéndice de Personalidades" a que se refiere el inciso c) de la fracción XII del artículo 32, bastará que en el testimonio relacione los números de dicho apéndice en que se encuentran los documentos que acrediten la existencia legal de personas morales o la representación legal de los comparecientes, documentos estos que deberá dejar a la disposición de autoridades y parte interesada en su caso, o bien, expedir las copias fotostáticas certificadas que se le requieren de dicho apéndice. La personalidad así acreditada, hará fe en juicio y fuera de él, salvo prueba en contrario.
 
 El testimonio será parcial cuando en él solo se transcriba parte ya sea de la escritura o del acta, ya de los documentos del apéndice.- El Notario no expedirá testimonio o copia parcial sino cuando por la emisión de lo que no se transcribe pueda seguirse perjuicio a tercera persona.
 
@@ -570,6 +946,12 @@ ART. 60.- A cada parte interviniente o interesada podrá expedir el notario un p
 ### CAPITULO SEXTO. DEL VALOR DE LAS ESCRITURAS, ACTAS Y TESTIMONIOS
 
 ART. 61.- Las escrituras, las actas y sus testimonios, mientras no fuere declarada su falsedad, probarán plenamente que los otorgantes manifestaron su voluntad de celebrar el acto consignado en la escritura, que hicieren las declaraciones y se realizaren los hechos de los que haya dado fe el notario y que éste observó las formalidades que mencione.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+Si el Notario lleva el archivo electrónico a que se refiere el último párrafo del artículo 12 de esta Ley, los documentos que lo integran tendrán fuerza probatoria de la manifestación de voluntad de los otorgantes y comparecientes, mientras no se demuestre lo contrario.
 
 ART. 62.- Las correcciones no salvadas en las escrituras; actas y testimonios, se tendrán por no hechas.
 
@@ -659,6 +1041,24 @@ ART. 74.- Los notarios actualmente en ejercicio, así como los que fueren nombra
 
 ART. 75.- La notaría pública estará abierta por lo menos siete horas de cada día hábil y se identificará con el número que le corresponda. En lugar visible, sea en la puerta de entrada o en los muros adyacentes, habrá un rótulo con el nombre y apellidos del notario y con el número de la notaría.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+El Notario podrá actuar en cualquier día y hora, sean hábiles o inhábiles.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+Para los efectos previstos en esta Ley, son días inhábiles todos los sábados y domingos, los señalados en la Ley Federal del Trabajo y cualesquier otro en que las oficinas del Gobierno del Estado permanezcan cerradas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+En los plazos no se contarán los días inhábiles, salvo disposición en contrario. Cuando el último día sea feriado, el plazo se extenderá hasta el primer día hábil siguiente.
+
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
 ART. 76.- En cada demarcación notarial habrá un notario por cada treinta mil habitantes.
@@ -677,19 +1077,55 @@ III.- La de Tecomán, que corresponderá a los municipios de Armería, Ixtlahuac
 
 ART. 78.- El Ejecutivo creará el número de notarías que se requiera en cada demarcación notarial aplicando lo dispuesto por el artículo setenta y seis.
 
-ART. 79.- Cada notaría será servida por un notario titular o por quien deba substituirlo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+ART. 79.- La notaría será atendida por el Notario titular o por el adscrito, sea como suplente o como sustituto. Todo Notario está obligado a desempeñar su función en forma personal.
 
 ART. 80.- Pueden autorizarse permutas de notarías dentro de cada demarcación notarial siempre que a juicio del Gobierno del Estado y del Consejo de Notarios no se perjudique el servicio público.
 
 ### CAPITULO TERCERO. DE LOS NOTARIOS
 
-ART. 81.- La notaría será servida por el notario titulado o por quien deba substituirlo en su caso.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+ART. 81.- La notaría será servida por el Notario titular, quien podrá tener un solo adscrito, o bien, por quien deba sustituirlo en su caso.
+
+De la misma forma, dos Notarios titulares o el Notario titular y su adscrito pueden celebrar convenio de asociación notarial en forma libre, durante el tiempo que estimaren conveniente, siempre y cuando se cumplan los siguientes requisitos:
+
+I. Que ambos establezcan una oficina notarial única;
+
+II. Que no se incluyan en su convenio disposiciones contrarias a la equidad o a la Ley; y
+
+III. Que se registre debidamente dicho convenio ante la Secretaría General de Gobierno del Estado, quien dará aviso de ello al Colegio de Notarios del Estado, así como a las oficinas del Instituto para el Registro del Territorio y autoridades que considere pertinentes, publicándolo en el Periódico Oficial del Estado.
+
+A partir de la fecha del convenio:
+
+a).- Ambos Notarios actuarán en un solo protocolo de manera indistinta, en el entendido de que en la asociación entre titulares corresponderá al protocolo del Notario titular con mayor antigüedad en el encargo;
+
+b).- Ambos Notarios autorizarán con el mismo sello, correspondiendo al del Notario titular con mayor antigüedad en el encargo;
+
+c).- No podrán intervenir ambos en un mismo acto notarial, salvo el caso de que uno de ellos inicie un instrumento y el otro lo cierre en virtud de las fechas, pudiendo uno u otro, expedir testimonios, copias certificadas, dar avisos y tramitar lo relativo a actos autorizados por el otro;
+
+d).- En el caso de suspensión de alguno de los asociados por cualquiera de las causas previstas por la presente Ley, el otro podrá actuar íntegramente en el protocolo, hasta en tanto termine la suspensión;
+
+e).- De existir falta definitiva de cualquiera de los asociados, en el caso de la sociedad entre Notarios titulares su Notario adscrito lo sustituirá en los términos previstos por el artículo 124 BIS de la presente ley; cuando la sociedad sea entre Notario titular y su adscrito, la falta definitiva de cualquiera de los asociados es causa de terminación de la asociación, debiendo procederse en su caso en términos del artículo 122 o 124 BIS de la presente ley, según corresponda. En todos los supuestos enumerados el Notario subsistente debe concluir los trámites de los instrumentos públicos pendientes autorizados por el faltante; y
+
+f).- La terminación de la asociación podrá efectuarse a voluntad de cualquiera de los asociados, en cuyo caso, el Notario más antiguo seguirá actuando en el Protocolo y con el mismo sello que venía haciéndolo la asociación y el menos antiguo se proveerá de protocolo y sello, en los términos de esta Ley; debiendo registrar y publicar la terminación en la misma forma que su inicio.
+
+Para los efectos de la presente Ley Notario Titular es aquel que obtiene el nombramiento expedido por el Ejecutivo del Estado, en cumplimiento a lo dispuesto en esta Ley; Notario adscrito es el designado por el Ejecutivo del Estado conforme al procedimiento previsto en esta legislación, para suplir las separaciones temporales del titular; Notario Asociado es el Notario Titular que en su caso haya celebrado convenio de asociación con otro Notario Titular, Notario Sustituto es el adscrito que sustituye en forma temporal al Titular en caso de falta definitiva de este.
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1973)</small>
 
 ART. 82.- Para obtener el nombramiento de Notario y ejercer se requiere:
 
-I.- Ser mexicano por nacimiento;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+I.- Ser mexicano por nacimiento y no haber optado por otra nacionalidad;
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
@@ -699,11 +1135,23 @@ III.- Ser Licenciado en Derecho o Abogado con cinco años cuando menos de ejerci
 
 IV.- No tener enfermedad habitual que impida el ejercicio de las facultades intelectuales ni impedimento físico que se oponga a las funciones de Notario;
 
-V.- Acreditar haber tenido y tener buena conducta;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VI.- Ser vecino del Estado;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2014)</small>
 
-VII.- Ser aspirante al ejercicio del notariado;
+V.- Acreditar ser persona honesta y haber observado buena conducta;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+VI.- Ser vecino del Estado, por lo menos cinco años antes de presentar solicitud para obtener el nombramiento de Notario;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+VII.- Ser aspirante al ejercicio del notariado y acreditar por lo menos un año de práctica ininterrumpida con algún Notario del Estado de Colima;
 
 VIII.- No haber sido condenado en proceso penal por delito intencional;
 
@@ -711,23 +1159,41 @@ IX.- No haber sido separado del ejercicio de Notario dentro de la República;
 
 X.- No ser ministro de culto;
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XI.- Existir alguna notaría de nueva creación o vacante, y triunfar en el examen de oposición.
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2014)</small>
 
-ART. 83.- Los requisitos que fijan las fracciones I y II del Art. 82 se comprobarán por los medios que establece el Código Civil para justificar el estado civil de las personas; los de la fracción III por el título correspondiente debidamente registrado y por constancias expedidas por jueces locales o por el Consejo de Notarios; el de las (sic) fracción IV, con certificado de dos médicos con título oficial; el de la fracción V, por información testimonial de dos testigos idóneos y de representación social, recibida con audiencia del Ministerio Público y del delegado del Consejo de Notarios quien a su vez puede rendir pruebas en contrario; el de la fracción VI con certificado expedido por la presidencia municipal correspondiente; el de la fracción VII, con la patente respectiva; los de las fracciones VIII, IX y X no requieren prueba, pero su afirmación admite prueba en contrario; el de la fracción XI con copia del acta del examen de oposición.
+XI.- Existir alguna notaría de nueva creación o vacante, y triunfar en el examen de oposición, o estar en alguno de los casos regulados en el último párrafo del artículo 110 o en el artículo 124 BIS de esta Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+ART. 83.- Los requisitos que fijan las fracciones I y II del ARTICULO 82 que antecede, se comprobarán por los medios que establece el Código Civil para justificar el estado civil de las personas; los de la fracción III por el título correspondiente debidamente registrado y por constancias expedidas por jueces locales o por el Consejo de Notarios; el de la fracción IV, con certificado de dos médicos con título oficial; el de la fracción V, por información testimonial de dos testigos idóneos y de representación social, mayores de treinta y cinco años y radicados en el Estado al menos diez años antes de rendir su testimonio, recibida con audiencia del Ministerio Público y del delegado del Consejo de Notarios quien a su vez puede rendir pruebas en contrario; el de la fracción VI con certificado expedido por la presidencia municipal correspondiente; el de la fracción VII, con la patente respectiva; los de las fracciones VIII, IX y X no requieren prueba, pero su afirmación admite prueba en contrario; el de la fracción XI con copia de los documentos oficiales respectivos.
 
 ART. 84.- Al ser citado el presidente del Consejo de Notarios para informar sobre la conducta de algún aspirante a notario, convocará al Consejo para que manifiesten los miembros del mismo Consejo si conocen a ciencia cierta algo que contradiga la pretensión del promovente o si están conformes con ella. En el primer caso, el Consejo acordará las preguntas que deben hacerse a los testigos y proporcionará los elementos de prueba que acrediten las objeciones que formule, en el concepto de que cada miembro está obligado a suministrar al Consejo cuantos datos tenga acerca de los puntos objeto de la información.
 
 ART. 85.- Para que el notario pueda ejercer su profesión, no basta que obtenga el nombramiento; debe, además:
 
-I.- Dar fianza por valor de cinco mil pesos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II.- Proveerse a su costa del sello y libros del protocolo y hacer registrar su sello y firma en la Secretaría General de Gobierno del Estado, en el Registro Público de la Propiedad y del Comercio respectivo y en la Secretaría del Consejo de Notarios;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+I.- Dar fianza por valor de cinco mil pesos. El Notario estará exento de la obligación de otorgar la fianza referida en las disposiciones de esta Ley, cuando compruebe contar con algún seguro, fianza o sistema especial de garantía que cubra las responsabilidades en que incurra tanto él como el personal a su cargo, debiendo comprobar cuando se le requiera, la vigencia del mismo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+II.- Proveerse a su costa del sello y libros del protocolo y hacer registrar su sello y firma en la Secretaría General de Gobierno del Estado, en el Instituto para el Registro del Territorio respectivo y en la Secretaría del Consejo de Notarios;
 
 III.- Otorgar la protesta legal ante el Gobernador del Estado o funcionario que designe;
 
-IV.- Establecer su oficina o notaría en el lugar en que va a desempeñar su cargo, dentro de treinta días contados desde la fecha que otorgó la protesta de su cargo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+IV.- Podrá solicitar al Instituto Colimense para la Sociedad de la Información y del Conocimiento, la asignación de su firma electrónica certificada, que deberá mantener vigente en los términos que establezca ésta;
 
 V.- Pertenecer al Colegio de Notarios del Estado.
 
@@ -739,21 +1205,31 @@ VI.- Podrá solicitar a la Secretaría de Administración, la asignación de su 
 
 VII.- Podrá contar con los medios e instrumentos electrónicos necesarios para la administración de su información electrónica y la utilización de la firma electrónica certificada.
 
-ART. 86.- En vez de la fianza de que trata la fracción I del artículo anterior, es potestativo para el notario constituir hipoteca o depósito por la cantidad que señala esta Ley.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+ART. 86.- En vez de la fianza de que trata la fracción I del artículo anterior, es potestativo para el Notario constituir hipoteca o depósito por la cantidad que señala esta Ley, salvo lo dispuesto en la parte final de la fracción I del Artículo 85.
 
 ART. 87.- El notario, en cualquier tiempo, puede substituir una garantía por otra, según le convenga, con aviso al Gobierno del Estado.
 
 ART. 88.- La fianza se otorgará ante la Secretaría General de Gobierno por compañía de fianzas autorizada. La hipoteca y el depósito, en sus respectivos casos, se constituirán conforme a las leyes comunes. El bien hipotecado se valuará por cualquiera institución de crédito autorizada por el Gobierno para practicar avalúos comerciales para efectos fiscales, a fin de estimar lo adecuado de la garantía.
 
-ART. 89.- Se registrará el nombramiento de notario titular en la Secretaría General de Gobierno del Estado, en el Registro Público de la Propiedad correspondiente y en la Secretaría del Consejo de Notarios.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+ART. 89.- Se registrará el nombramiento de Notario titular en la Secretaría General de Gobierno del Estado, en el Instituto para el Registro del Territorio correspondiente y en la Secretaría del Consejo de Notarios.
 
 ART. 90.- Llenados los requisitos del artículo ochenta y cinco, se mandará publicar, sin costo alguno, el nombramiento en el Periódico Oficial el Estado.
 
 ART. 91.- Inmediatamente que el notario comience a ejercer sus funciones, dará aviso al público por medio del Periódico Oficial del Estado y un periódico de la localidad, y lo comunicará a la Secretaría General de Gobierno del Estado y al Consejo del Colegio de Notarios.
 
-> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-La Secretaría de Administración, en su carácter de Autoridad Certificadora, al asignarle la firma electrónica certificada, publicará su autorización en el Periódico Oficial y en su página de Internet.
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+El Instituto Colimense para la Sociedad de la información y del Conocimiento, en su carácter de Autoridad Certificadora, al asignarle la firma electrónica certificada, publicará su autorización en el Periódico Oficial y en su página de Internet.
 
 ### CAPITULO CUARTO. DE LOS ASPIRANTES AL EJERCICIO DEL NOTARIADO
 
@@ -763,9 +1239,11 @@ ART. 92.- Para obtener patente de aspirante al ejercicio del notariado se deber�
 
 I.- Llenar los requisitos de las fracciones I, IV, V, VI, VIII, IX, y X del artículo 82 de esta Ley;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II.- Tener treinta años de edad cumplidos;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+II.- Tener treinta años de edad cumplidos y no más de sesenta años de edad;
 
 III.- Ser Licenciado en Derecho o Abogado con título debidamente registrado;
 
@@ -783,13 +1261,21 @@ ART. 94.- El que pretenda examen de aspirante de notario, deberá presentar soli
 
 ART. 95.- Realizado el estudio por el Ejecutivo del Estado la documentación presentada por el solicitante y aprobada se turnará al Director General de Gobierno del Estado, quien señalará la hora, el día y el lugar donde tendrá verificación el examen.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-ART. 96.- El examen se efectuará en el lugar señalado por el Director General de Gobierno y el jurado estará integrado por cinco miembros, que serán el Gobernador del Estado, quien fungirá como Presidente; el Secretario General de Gobierno; el Director General de Gobierno; que desempeñará las funciones de Secretario; el Presidente del Supremo Tribunal de Justicia y el Director del Registro Público de la propiedad y el Comercio.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+ART. 96.- El examen se efectuará en el lugar señalado por el Director General de Gobierno y el jurado estará integrado por cinco miembros, que serán el Gobernador del Estado, quien fungirá como Presidente; el Secretario General de Gobierno; el Director General de Gobierno; que desempeñará las funciones de Secretario; el Presidente del Colegio de Notarios y un Delegado Especial designado por el propio Colegio de Notarios.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 En ausencia del Gobernador, el jurado lo presidirá el Secretario General de Gobierno, en cuyo caso éste designará a quien lo represente.
 
-Además fungirán como suplentes, para el caso de que alguno de los integrantes del jurado estuviera impedido, el Director de Asuntos Jurídicos y Consultoría de la Secretaría General de Gobierno y el Director Jurídico del Registro Público de la Propiedad y del Comercio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+Además fungirán como suplentes, para el caso de que alguno de los integrantes del jurado estuviera impedido, el Director de Asuntos Jurídicos y Consultoría de la Secretaría General de Gobierno y el Subdirector Jurídico de la Secretaría General de Gobierno.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
@@ -809,9 +1295,11 @@ En caso de que alguno de los integrantes tuviera un impedimento para actuar como
 
 ART. 100.- No podrán formar parte del jurado, con excepción del Gobernador, los demás integrantes del jurado, cuando tengan la titularidad de la notaría en la cual el sustente (sic) haya hecho su práctica. Asimismo estarán impedidos todos los integrantes para fungir como jurado cuando exista parentesco por consanguinidad o afín con el sustentante, o relación íntima de amistad con el mismo. Los miembros del jurado en los que concurra alguno de los impedimentos señalados, deberán excusarse de intervenir en el examen.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-ART. 101.- El día, hora y lugar señalado, reunido el jurado y el sustentante para la celebración del examen, el Secretario del jurado pondrá a disposición del aspirante los 20 sobres cerrados, sellados y rubricados por los miembros del jurado, que contienen los temas seleccionados, de los cuales éste deberá escogerá uno de ellos, procediendo el Secretario abrirlo (sic) y dar a conocer el tema al jurado y al interesado, quien dispondrá de 5 horas in-interrumpidas para desarrollarlo y bajo la vigilancia de aquel, sin auxilio de personas extrañas, aunque previstos de los códigos y libros que sean necesarios para la ejecución del tema.
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+ART. 101.- El día, hora y lugar señalado, reunido el jurado y el sustentante para la celebración del examen, el Secretario del jurado pondrá a disposición del aspirante los 20 sobres cerrados, sellados y rubricados por los miembros del jurado, que contienen los temas seleccionados, de los cuales éste deberá escoger uno de ellos, procediendo el Secretario a abrirlo y dar a conocer el tema al jurado y al interesado, quien dispondrá de 5 horas ininterrumpidas para desarrollarlo y bajo la vigilancia de aquel, sin auxilio de personas extrañas, pudiendo proveerse de los códigos y libros que sean necesarios para la ejecución del tema.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
@@ -819,7 +1307,7 @@ ART. 102.- Una vez que el sustentante haya terminado su examen del tema desarrol
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-ART. 103.- Al hacerse la calificación del instrumento redactado se tomará en cuenta no solo la parte jurídica, si no también la redacción gramatical en lo que se refiere a claridad y precisión del lenguaje, así como la competencia que demuestre el examinado al responder a las preguntas hechas por los miembros del jurado.
+ART. 103.- Al hacerse la calificación del instrumento redactado se tomará en cuenta no solo la parte jurídica, si no (sic) también la redacción gramatical en lo que se refiere a claridad y precisión del lenguaje, así como la competencia que demuestre el examinado al responder a las preguntas hechas por los miembros del jurado.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
@@ -839,23 +1327,39 @@ ART. 109.- Si después de extendida la patente de aspirante al ejercicio del not
 
 ### CAPITULO QUINTO. DEL NOMBRAMIENTO DE LOS NOTARIOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-ART. 110.- Cuando se acuerde la creación de alguna nueva notaría, en los términos del artículo 78, o cuando quede vacante una de las existentes, la Secretaría General de Gobierno publicará un anuncio por una sola ocasión en el Periódico Oficial del Estado y en uno de los de circulación estatal, así como en la página de Internet del Gobierno del Estado, convocando a los aspirantes que pretenden obtener por oposición el nombramiento de notario.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+ART. 110.- Cuando se acuerde la creación de alguna nueva notaría, en los términos del artículo 78 o cuando quede vacante una de las existentes, la Secretaría General de Gobierno publicará un anuncio por una sola ocasión en el Periódico Oficial del Estado y dos ocasiones en uno de los periódicos de mayor circulación estatal, con un intervalo de diez en diez días, así como en la página de Internet del Gobierno del Estado, convocando a los aspirantes que pretenden obtener por oposición el nombramiento de Notario. Se entenderá que una notaría ha quedado vacante cuando no exista Notario adscrito que sustituya al titular, o el adscrito no reúna las condiciones y requisitos para desempeñar la titularidad de la misma.
 
 Dentro de los cinco días naturales, contados a partir de la publicación de la convocatoria en el Periódico Oficial del Gobierno del Estado “El Estado de Colima”, los aspirantes solicitarán ser admitidos al examen de oposición, mediante escrito que presentará al Secretario General de Gobierno, quien anotará en cada solicitud, la fecha y hora de su presentación y remitirá copia de la misma al Director General de Gobierno.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+Cuando sólo se recibiese una solicitud o al examen sólo se presentase uno de los solicitantes, el jurado examinará al sustentante y, de resultar aprobado, tendrá derecho a que el Gobernador del Estado le extienda el nombramiento de Notario titular.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 ART. 111.- El Director General de Gobierno, señalará el día, la hora y lugar para la celebración de los exámenes de oposición, el cual lo dará a conocer a los aspirantes cuando menos con cuarenta y ocho horas de anticipación por oficio y medio legal que estime pertinente que compruebe que el aspirante tuvo conocimiento, en la dirección que al efecto hubiere designado en su solicitud.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-ART. 112.- El jurado se compondrá de cinco miembros que serán el Gobernador del Estado o el representante que designe, que será el Presidente; el Secretario General de Gobierno; el Director General de Gobierno, que desempeñará las funciones de Secretario; el Presidente del Supremo Tribunal de Justicia del Estado y el Director del Registro Público de la Propiedad y del Comercio.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+ART. 112.- El jurado se compondrá de cinco miembros que serán el Gobernador del Estado o el representante que designe, que será el Presidente; el Secretario General de Gobierno; el Director General de Gobierno, que desempeñará las funciones de Secretario; el Presidente del Colegio de Notarios y un Delegado Especial designado por el propio Colegio de Notarios.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 En ausencia del Gobernador, el jurado lo presidirá el Secretario General de Gobierno, en cuyo caso éste designará a quien lo represente.
 
-Además fungirán como suplentes, para el caso de que alguno de los integrantes del jurado estuviera impedido, el Director de Asuntos Jurídicos y Consultoría de la Secretaría General de Gobierno y el Director Jurídico del Registro Público de la Propiedad y del Comercio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+Además fungirán como suplentes, para el caso de que alguno de los integrantes del jurado estuviera impedido, el Director de Asuntos Jurídicos y Consultoría de la Secretaría General de Gobierno y el Subdirector Jurídico de la Secretaría General de Gobierno.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
@@ -879,51 +1383,131 @@ ART. 117.- Si la mayoría del jurado vota la reprobación del sustentante no se 
 
 ART. 118.- (DEROGADO, P.O. 3 DE OCTUBRE DE 2009)
 
-ART. 119.- Cumplidos los requisitos a que se refieren los artículos anteriores, el Gobernador del Estado extenderá el nombramiento de notario titular al triunfador de la oposición. El nombramiento se registrará en la Secretaría de Gobierno, en el Registro Público de la Propiedad y del Comercio respectivos y en el Consejo de Notarios.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+ART. 119.- Cumplidos los requisitos a que se refieren los artículos anteriores, el Gobernador del Estado extenderá el nombramiento de Notario titular, al triunfador de la oposición. El nombramiento se registrará en la Secretaría de Gobierno, en el Instituto para el Registro del Territorio respectivo y en el Consejo de Notarios.
 
 ART. 120.- El monto de la garantía que constituye el notario, cuando se haga efectiva, se aplicará de preferencia al pago de la responsabilidad civil contraída por el notario, y en segundo lugar, al pago de las multas que se hubieren impuesto a los mismos. Otro tanto debe hacerse respecto de la hipoteca o depósito, cuando éstas seguridades substituyan a la fianza.
 
-### CAPITULO SEXTO. DE LOS ADSCRITOS DE LA SUBSTITUCION TEMPORAL Y DE LA SEPARACION DE LOS NOTARIOS
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO SEXTO. DE LOS ADSCRITOS, DE LA SUSTITUCIÓN Y DE LA SEPARACIÓN DE LOS NOTARIOS
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
 ART. 121.- Por cada notario en ejercicio habrá un adscrito, que deberá reunir los requisitos establecidos en el artículo 92 de esta Ley.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-ART. 122.- El notario titular tiene derecho para proponer al Ejecutivo del Estado el nombramiento de un aspirante para que ejerza como notario adscrito de dicho titular, exclusivamente para suplirlo.
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
 
-El Gobernador expedirá el nombramiento al propuesto, si llena los requisitos de Ley, y revocará su nombramiento inmediatamente que el notario lo solicite. El nombramiento y las remociones se darán a conocer a la Secretaría General de Gobierno, al Registro Público de la Propiedad y al Colegio de Notarios, y se publicarán por una sola vez, sin costo alguno, en el Periódico Oficial del Estado.
+ART. 122.- El Notario titular tiene derecho para proponer al Ejecutivo del Estado el nombramiento de un aspirante para que ejerza como Notario adscrito de dicho titular, exclusivamente para suplirlo o sustituirlo. Salvo que se celebre convenio de asociación entre el titular y el adscrito, supuesto en el cual este último actuará indistintamente en el protocolo del titular.
 
-ART. 123.- El notario adscrito cuando actúe, tendrá igual capacidad funcional que la del titular; en consecuencia, los instrumentos que autorice tendrán el mismo valor probatorio que los autorizados por el titular.
+El Gobernador expedirá el nombramiento al propuesto, si llena los requisitos de Ley, y revocará su nombramiento inmediatamente que el Notario lo solicite. El nombramiento y las remociones se darán a conocer a la Secretaría General de Gobierno, al Instituto para el Registro del Territorio del Estado y al Colegio de Notarios, y se publicarán por una sola vez, sin costo alguno, en el Periódico Oficial del Estado.
 
-ART. 124.- La garantía constituida por el notario de número cubrirá la de su notario adscrito.
+Si no tuviera adscrito, el Ejecutivo del Estado nombrará adscrito en forma provisional a uno de los que tengan patente de aspirante al ejercicio del notariado y no sea adscrito de otro Notario. Este nombramiento quedará sin efecto, tan pronto como el Ejecutivo expida nombramiento al adscrito que el titular designe.
 
-ART. 125.- Los notarios podrán separarse del ejercicio de sus funciones o ausentarse del lugar de su residencia, en cada trimestre por quince días sucesivos o alternados, o en un semestre por un mes, dando aviso a la Secretaría General de Gobierno.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+ART. 123.- El Notario adscrito cuando actúe, tendrá igual capacidad funcional que la del titular; en consecuencia, los instrumentos que autorice tendrán el mismo valor probatorio que los autorizados por el titular. Utilizará el sello de autorizar y las hojas del titular, aun en el caso de que actúe como sustituto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+ART. 124.- La garantía constituida por el Notario titular cubrirá la de su Notario adscrito. En igual forma el seguro a que se refiere esta ley, deberá cubrir tanto la actividad que realice el Notario, como su adscrito y el personal a su cargo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+ART. 124 BIS.- Cuando el Notario titular pida licencia para separarse definitivamente de su notaría en los términos de la presente Ley, fallezca o presente incapacidad que determine su imposibilidad de continuar su función, con el objeto de que la notaría no deje de prestar sus servicios haya o no celebrado convenio de asociación, el adscrito lo sustituirá en forma inmediata y provisional notificando a la Secretaría General de Gobierno de ello. A partir de que el Notario sustituto entra en funciones tiene hasta dos años para solicitar a la Secretaría la evaluación de su desempeño como Notario sustituto a fin de que le sea otorgada la titularidad de la notaría, la cual podrá obtener si cubre los requisitos siguientes:
+
+I. Haberse conducido con eficiencia, honestidad, probidad y eficacia en el desempeño de la función;
+
+II. Haber cumplido con las obligaciones inherentes al cargo;
+
+III. No tener resolución fundada en su contra relativa a los procedimientos de queja administrativa o de responsabilidad, en los términos previstos por esta ley; y
+
+IV. Aprobar la evaluación que haga el jurado integrado en los términos del artículo 112 de esta ley.
+
+Si el sustentante no acredita alguno de los requisitos previstos en las fracciones I, II y III de este artículo no tendrá derecho a la evaluación prevista en la fracción IV.
+
+Para efecto de tener por acreditados los requisitos previstos en las fracciones I y II antes enumerados, la Secretaría General de Gobierno se apoyará en las visitas de inspección a la notaría a cargo del sustituto para verificar materialmente su actuación en el protocolo que actúa.
+
+En cuanto al requisito previsto en la fracción III, deberá constatarse y certificarse de los archivos que obran en la Secretaría General de Gobierno.
+
+El requisito señalado en la fracción IV se acreditará con el documento que demuestre que aprobó la evaluación.
+
+De no ser favorable la evaluación para que el Notario sustituto adquiera la titularidad de la notaría, ésta quedará vacante y posteriormente dentro de los próximos veinte días hábiles se convocará a examen en los términos prevenidos en el artículo 110 de la presente ley; en tanto se nombra al Notario titular el ejecutivo designará a un Notario sustituto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+ART. 125.- Los Notarios podrán separarse del ejercicio de sus funciones o ausentarse del lugar de su residencia, hasta sesenta días hábiles sucesivos o alternados en un año, previo aviso escrito a la Secretaría General de Gobierno.
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
 ART. 126.- El notario tiene derecho a obtener licencia del Ejecutivo, para estar separado de su cargo hasta por el término de un año. No podrá solicitar nueva licencia sino después de un año de ejercicio personal de su función notarial, salvo causa justificada.
 
-El notario tiene derecho a que el Ejecutivo le otorgue licencia renunciable por todo el tiempo que dure en el desempeño de un cargo público o de elección popular, o para que participe en cualquier proceso electoral como candidato, desde la fecha en que sea registrado ante cualquier organismo electoral y hasta el día de la elección correspondiente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
 
-ART. 127.- El notario será suplido por el adscrito. Si no tuviere adscrito, lo suplirá otro notario de su demarcación, previa aprobación del Ejecutivo del Estado.
+El Notario tiene derecho a que el Ejecutivo le otorgue licencia renunciable por todo el tiempo que dure su incapacidad temporal, en el desempeño de un cargo público, de elección popular, o para que participe en cualquier proceso electoral como candidato, desde la fecha en que sea registrado ante cualquier organismo electoral y hasta el día de la elección correspondiente.
 
-ART. 128.- Son causas de suspensión de un notario en el ejercicio de sus funciones:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I.- Sujeción a proceso en que haya sido declarado formalmente preso por delito intencional, mientras no se pronuncie sentencia definitiva;
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
 
-II.- Sanción administrativa impuesta por el Gobierno del Estado, por si o a solicitud del Consejo de Notarios, por faltas comprobadas al notario en ejercicio de sus funciones y;
+ART. 127.- El Notario será suplido por el adscrito en los casos de las ausencias y licencias mencionados en los artículos que preceden, independientemente de lo dispuesto por el artículo 124 BIS, si no tuviere adscrito, lo suplirá otro Notario de su demarcación, previa aprobación del Ejecutivo del Estado.
 
-III.- Impedimentos físicos o intelectuales transitorios que coloquen al notario en la imposibilidad de actuar, por tiempo máximo de dos años, caso en el cual surtirá efectos la suspensión durante todo el tiempo que dure el impedimento.
+A fin de que el servicio notarial no se interrumpa y entorpezca, el Notario adscrito asumirá, sin más trámite y de inmediato, la función notarial como Notario sustituto, en los casos a que se refiere el artículo 124 BIS, desde la fecha en que ocurra alguno de esos eventos y hasta que el nuevo Notario titular inicie su ejercicio, tras cumplir lo ordenado en esta Ley.
 
-ART. 129.- En el caso de la fracción III del artículo anterior tan luego como el Gobierno del Estado tenga conocimiento de que un notario adolece de impedimento, procederá a designar dos médicos oficiales para que dictaminen acerca de la naturaleza del padecimiento, si éste lo imposibilita para actuar y la duración del mismo.
+En los demás casos a que se refiere el artículo 133 de esta Ley, el Ejecutivo del Estado nombrará de inmediato como Notario sustituto al adscrito del removido, desde la fecha en que ocurra (sic) algunos de esos eventos y hasta que el nuevo Notario titular inicie su ejercicio, tras cumplir lo ordenado en esta Ley. A fin de que la función notarial no se interrumpa mientras el Ejecutivo nombra al sustituto, el Notario adscrito del titular atenderá la notaría.
 
-ART. 130.- El Juez que instruya un proceso en contra de cualquier notario dará cuenta inmediata al Gobierno del Estado, en caso de que el notario sea declarado formalmente preso.
+En cualquiera de los supuestos previstos en los dos párrafos anteriores, el Notario sustituto seguirá prestando servicios notariales y autorizando los instrumentos y documentos notariales con el sello y en las hojas del Notario sustituido.
 
-### CAPITULO SEPTIMO. DE LA CESACION DEFINITIVA O CESACION DEL CARGO DE NOTARIO
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+ART. 128.- Son causas de suspensión de un Notario en el ejercicio de sus funciones:
+
+I. Sujeción a proceso en que haya sido declarado formalmente preso por delito intencional, mientras no se pronuncie sentencia definitiva;
+
+II. Sanción administrativa impuesta por el Ejecutivo del Estado, por sí o a solicitud del Consejo del Colegio de Notarios, cuando el Notario contravenga alguna disposición de esta Ley o incurra en falta comprobada, en ejercicio de su función pública;
+
+III. Impedimentos físicos o intelectuales transitorios que coloquen al Notario en la imposibilidad de actuar, caso en el cual surtirá efectos la suspensión durante todo el tiempo que dure el impedimento; y
+
+IV. No cumplir con los cursos de actualización y capacitación en la forma y términos previstos en esta ley.
+
+La Secretaría General de Gobierno impondrá la sanción prevista en este artículo estableciendo el plazo de suspensión y las condiciones para su terminación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+ART. 129.-Tan luego como el Ejecutivo del Estado tenga conocimiento de que un Notario adolece de alguno de los impedimentos a que se refiere la fracción III del artículo anterior, procederá a designar dos médicos oficiales para que dictaminen acerca de la naturaleza del padecimiento, si éste lo imposibilita para actuar y la duración del mismo, si esto es posible.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+ART. 130.- El juez que instruya un proceso en contra de cualquier Notario dará cuenta inmediata al Ejecutivo del Estado, en caso de que el Notario sea declarado formalmente preso.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+### CAPITULO SEPTIMO. DE LA TERMINACION DEL CARGO DE NOTARIO
 
 ART. 131.- Quedará sin efecto el nombramiento de notario, si dentro del término de treinta días siguientes al de la protesta que haya rendido ante la autoridad respectiva, no procede a iniciar sus funciones y a fijar su residencia en el lugar en que deba desempeñarlas.
 
@@ -945,17 +1529,31 @@ VI.- Si dentro de cada año natural en que ejerciere, intervinieren en menos de 
 
 VII.- Hechos supervenientes de los que impiden su ingreso a la función, o que los impedimentos indicados en la fracción III del artículo 128 duren más de dos años.
 
-ART. 134.- La declaración de que el notario queda separado definitivamente de su cargo, la hará el Gobierno del Estado previa comprobación de alguna o algunas de las causas señaladas en el artículo ciento treinta y tres, oyendo previamente al interesado y al Consejo de Notarios, salvo que se tratare de renuncia o muerte y siguiendo el procedimiento señalado en el artículo setenta y dos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-ART. 135.- El notario puede renunciar su cargo ante el Gobierno del Estado, pero como abogado, quedará impedido para intervenir, con cualquier carácter, en los litigios que se relacionen con las escrituras o actas notariales que hubiere autorizado.
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
 
-ART. 136.- Siempre que se promueva judicialmente la interdicción de algún notario, el juez respectivo comunicará el hecho por escrito, al Gobierno y al Consejo de Notarios del Estado.
+ART. 134.- La declaración de que el Notario queda separado definitivamente de su cargo, la hará el Ejecutivo del Estado previa comprobación de alguna o algunas de las causas señaladas en el artículo ciento treinta y tres; oyendo previamente al interesado y al Consejo de Notarios, salvo que se tratare de renuncia o muerte y siguiendo el procedimiento señalado en el artículo setenta y dos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+ART. 135.- El Notario puede renunciar su cargo ante el Ejecutivo del Estado, pero como abogado, quedará impedido para intervenir, con cualquier carácter, en los litigios que se relacionen con las escrituras o actas notariales que hubiere autorizado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+ART. 136.- Siempre que se promueva judicialmente la interdicción de algún Notario, el juez respectivo comunicará el hecho por escrito, al Ejecutivo del Estado y al Consejo de Notarios del Estado.
 
 ART. 137.- Los encargados de las oficinas del Registro Civil ante quienes se consignare el fallecimiento de un notario, lo comunicarán inmediatamente al Gobierno y al Consejo de Notarios del Estado.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-ART. 138.- Cuando un notario dejare de prestar sus servicios por cualquiera causa, la Secretaría General de Gobierno del Estado lo publicará por una vez en el Periódico Oficial del Estado y en la página de Internet del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+ART. 138.- Cuando un Notario dejare de prestar sus servicios por cualquiera causa, la Secretaría General de Gobierno del Estado lo publicará por una vez en el Periódico Oficial del Estado y en la página de Internet del Gobierno del Estado, publicando también el Notario que lo sustituirá provisionalmente.
 
 ART. 139.- Sólo se acordará la cancelación de la garantía constituída por el notario, si se llenan previamente los siguientes requisitos:
 
@@ -1003,7 +1601,13 @@ ART. 147.- La comisión instructora tomará sus decisiones por mayoría de votos
 
 ### CAPITULO NOVENO. DE LA CLAUSURA DE PROTOCOLOS
 
-ART. 148.- Cuando por cualquiera circunstancia haya lugar a clausurar un protocolo, esta diligencia se efectuará siempre con la intervención de un representante del Gobierno del Estado y otro del Consejo de Notarios.- El interventor del Estado será designado de entre los inspectores visitadores de notarías.- Los interventores al cerrar los libros del protocolo, procederán a poner razón en cada libro, de la causa que motiva el acto y agregarán todas las circunstancias que estimen convenientes, suscribiendo dicha razón con sus firmas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+ART. 148.- Cuando por cualquier circunstancia haya lugar a clausurar un protocolo, esta diligencia se efectuará siempre con la intervención de un representante del Ejecutivo del Estado y otro del Consejo del Colegio de Notarios. El interventor del Estado será designado de entre los inspectores visitadores de notarías. Los interventores al cerrar los libros del protocolo, procederán a poner razón en cada libro, de la causa que motiva el acto y agregarán todas las circunstancias que estimen convenientes, suscribiendo dicha razón con sus firmas.
+
+En los casos previstos en los artículos 124 BIS y 134 de esta Ley, el protocolo se clausurará hasta que el nuevo Notario titular inicie el ejercicio de su función pública.
 
 ART. 149.- Los interventores que fueren designados para actuar en la clausura de un protocolo, harán que en el inventario correspondiente se incluyan todos los libros que conforme a la Ley deban llevarse; las minutas si las hubiere y los valores depositados; los testamentos cerrados que estuvieren en guarda, con expresión del estado de sus cubiertas y sellos; los títulos, expedientes y cualesquier otro documento de su archivo y clientela.- Además formarán otro inventario de los muebles, valores y documentos personales de los notarios, para que con la intervención del Consejo de Notarios sean entregados a quien corresponda.
 
@@ -1019,13 +1623,21 @@ ART. 151.- El notario que se encuentre en cualesquiera de las condiciones a que 
 
 ### CAPITULO PRIMERO. DEL COLEGIO Y DEL CONSEJO DE NOTARIOS DEL ESTADO
 
-ART. 152.- El Colegio de Notarios del Estado de Colima queda creado en la forma que establece la Ley Reglamentaría de los artículos Cuarto y Quinto Constitucionales y su Reglamento; comprenderá a todos los notarios del Estado y tendrá además las funciones que se deriven de la presente ley.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Todos los notarios del Estado están obligados a cubrir las cuotas que acordare el Colegio; si no cubrieren dos cuotas consecutivas, el Ejecutivo, a solicitud del Consejo, los sancionará de acuerdo con lo prevenido en el artículo setenta y uno.
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+ART. 152.- El Colegio de Notarios del Estado de Colima queda creado en la forma que establece la Ley Reglamentaria de los Artículos Cuarto y Quinto constitucionales y su Reglamento. El Colegio de Notarios por el solo hecho de su creación tiene personalidad jurídica propia, contando con las funciones que se derivan en la presente ley.
+
+Todos los Notarios del Estado incluyendo a los Notarios Adscritos pertenecerán al Colegio quedando sujetos a las disposiciones de esta ley, a los acuerdos generales que aquel tome en beneficio del notariado, estando obligados a cumplir el arancel previsto en el artículo nueve de la presente ley, a cubrir las cuotas ordinarias o extraordinarias acordadas por el Colegio, para lo cual el Tesorero del Consejo del propio Colegio tendrá facultades de expedir los recibos o comprobantes respectivos, mismos que deberá entregar a cada uno de sus miembros. Si no cubrieren dos cuotas consecutivas, el Ejecutivo, a solicitud del Consejo, los sancionará de acuerdo con lo prevenido en el artículo setenta y uno.
 
 ART. 153.- Al Colegio de Notarios le corresponden las siguientes atribuciones:
 
-I.- Exigir a cada notario que se ajuste a las leyes y a la ética;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+I.- La organización y representación de los Notarios del Estado;
 
 II.- Elegir a los integrantes del Consejo de Notarios;
 
@@ -1035,31 +1647,93 @@ IV.- Formular el reglamento de sus funciones;
 
 V.- Adoptar medidas tendientes al mejoramiento de la función notarial, con el propósito de acrecentar el prestigio y la dignidad del notariado;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+Para cumplimentar lo anterior, deberá promover, organizar y desarrollar cuando menos tres veces al año, cursos de actualización y capacitación notarial en los que se traten entre otros objetivos, los expuestos en las fracciones VII y VIII subsiguientes. Esta actividad podrá desarrollarla con otras organizaciones notariales de la República o con Instituciones de enseñanza superior y en todo caso, deberá desarrollarla en conjunción con la Secretaría General de Gobierno del Estado, quien deberá auxiliar en la misma e inclusive vigilar su cumplimiento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+Los Notarios tendrán la obligación de participar en esos cursos, bajo la pena de suspensión temporal de su cargo, salvo causa justificada, que comprueben en forma fehaciente a satisfacción de la Secretaría, o que ante esta autoridad demuestren haber cumplido en otra forma con dicha actualización o capacitación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+Esos cursos deberán ser con cargo al Colegio, salvo que éste obtenga fondos especiales o patrocinio para realizarlos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+Podrá acreditarse la capacitación requerida, mediante la comprobación de cursos especiales realizados en cualquier otro lugar y por Asociaciones, Colegios o Instituciones debidamente reconocidos, como el Colegio Nacional del Notariado Mexicano, Asociación Civil.
+
 VI.- Formular y proponer al Ejecutivo del Estado reformas a leyes y reglamentos relacionados con la función notarial;
 
 VII.- Adoptar medidas para lograr la unificación de la práctica notarial y de criterios legales relacionados con la función notarial;
 
 VIII.- Promover la corrección de hábitos notariales opuestos a la ética y a los derechos de las personas;
 
-IX.- Cualquiera otra establecida en esta y otras leyes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 2014)</small>
 
-ART. 154.- El Colegio de Notarios será representado y dirigido por un Consejo de Notarios, que estará compuesto por un Presidente, un Secretario y un Tesorero.
+IX.- Otorgar y revocar poderes especiales o generales judiciales para pleitos y cobranzas, para actos de administración y de dominio y para suscribir títulos de crédito;
 
-Los miembros del Consejo durarán en funciones dos años y podrán ser reelectos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+X.- Celebrar convenios con instituciones u organismos, para regular la prestación del servicio notarial y para la distribución equitativa del trabajo notarial entre los Notarios;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+XI.- Celebrar convenios con otros Colegios de Notarios o con organismos afines, para unificar la teoría y la práctica notariales y para defender los postulados y derechos del notariado; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+XII.- Cualquier otra establecida en esta y otras leyes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+ART. 154.- El Colegio de Notarios será representado y dirigido por un Consejo de Notarios, que estará compuesto por un Presidente, un Vice-Presidente, un Secretario, un Subsecretario, un Tesorero, un Subtesorero y dos Vocales, salvo el Presidente, el Secretario y el Tesorero, el resto de los integrantes del Consejo contará con sus respectivos Suplentes, la ausencia del Presidente será cubierta por el Vicepresidente, la del Secretario por el Subsecretario y la del Tesorero por el Subtesorero. El Consejo de Notarios será el representante legal del Colegio.
+
+Los miembros del Consejo durarán en funciones dos años y podrán ser reelectos una sola vez.
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
 ART. 155.- El Consejo será electo por mayoría mediante voto individual, escrito y público que cada notario emita en la asamblea. Esta asamblea se celebrará el primer sábado de diciembre de cada dos años y será válida si asiste como mínimo el cincuenta por ciento de integrantes del Colegio de Notarios del Estado.
 
-La convocatoria para la asamblea será hecha por el Consejo o por no menos del treinta por ciento de miembros del Colegio de Notarios del Estado, contendrá la orden del día y será firmada por quienes la hagan.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
 
-ART. 156.- Si no hubiere el quórum requerido en la asamblea a que se refiere el artículo anterior, se celebrará una segunda asamblea cuarenta y ocho horas después, sin necesidad de nueva convocatoria, y en ella se tomarán acuerdos cualquiera que sea el número de notarios asistentes.
+La convocatoria para la asamblea será hecha por la mayoría del Consejo o por no menos del treinta por ciento de miembros del Colegio de Notarios del Estado, contendrá la orden del día y será firmada por quienes la hagan.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+ART. 156.- Si no hubiere el quórum requerido en la asamblea a que se refiere el artículo anterior, se celebrará una segunda asamblea dentro de las cuarenta y ocho horas siguientes, sin necesidad de nueva convocatoria, y en ella se tomarán los acuerdos conducentes con los Notarios asistentes.
 
 Lo previsto en este artículo y en el anterior será aplicable, en lo conducente, para cualquier asamblea del Colegio.
+
+En la celebración de las asambleas los Notarios que pertenezcan al Colegio incluyendo los Adscritos, tendrán derecho a un voto, salvo la que se celebre para la elección del Consejo, en la que solo tendrán derecho a voto los Notarios Titulares o quienes los suplan en sus funciones.
+
+Los Notarios titulares y los Notarios adscritos tendrán la obligación de asistir a todas las asambleas del Colegio de Notarios, a no ser que tengan causa justificada, a juicio del Consejo del Colegio de Notarios.
+
+Los cargos de Presidente, Vicepresidente, Secretario y Tesorero deberán ser ocupados por Notarios Públicos Titulares. Los demás podrán ser ocupados por Notarios Adscritos.
+
+El acta de la asamblea de elección del Consejo de Notarios, debidamente protocolizada por cualquiera de los miembros del Colegio, con excepción de los electos, será el documento que acredite la personalidad de aquel ante terceros.
 
 ART. 157.- Los cargos del Consejo de Notarios son gratuitos e irrenunciables sin causa justificada. Los consejeros sólo podrán estar separados de su cargo, durante el tiempo en que legalmente lo estén del desempeño de sus funciones notariales. La cesación en el ejercicio del notariado importa la del cargo de consejero.
 
@@ -1071,23 +1745,49 @@ II.- Estudiar los asuntos que le encomiende el Gobernador del Estado;
 
 III.- Resolver las consultas que se le hicieren por los notarios del Estado, referentes al ejercicio de sus funciones;
 
-IV.- Las demás que le confieran esta ley, sus reglamentos y los Estatutos del Colegio de Notarios del Estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+IV.- En forma específica, vigilar y hacer cumplir, las funciones mencionadas en el artículo 153 de esta Ley, especialmente los cursos de actualización en beneficio del Notariado;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+V.- Ejecutar los acuerdos y resoluciones del Colegio de Notarios, y
+
+VI.- Las demás que le confieran esta ley, sus reglamentos y los Estatutos del Colegio de Notarios del Estado.
 
 ART. 159.- Toda vacante por más de un mes de un consejero, será cubierta por un notario que nombrará el Consejo, a mayoría de votos.
 
 ART. 160.- El presidente del Consejo proveerá la ejecución de los acuerdos del Gobernador del Estado en materia de notariado y la de las resoluciones del Consejo de Notarios; presidirá las sesiones del Colegio y del propio Consejo a los que representará en su calidad de corporación legal; vigilará el exacto cumplimiento de los derechos de los mismos y a la recaudación y empleo de los fondos.
 
-El Presidente será substituido en caso de falta o impedimento por el Secretario.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-ART. 161.- El secretario dará cuenta al presidente de los asuntos y comunicará sus acuerdos; redactará las actas de las sesiones del Colegio y del Consejo; llevará la correspondencia y los libros del registro y tendrá a su cargo el archivo y la biblioteca. En caso de falta o impedimento será substituído por el notario que designe el mismo Consejo.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 1 DE NOVIEMBRE DE 2014)</small>
 
-El tesorero hará los pagos, previo acuerdo del presidente; llevará la contabilidad y rendirá cuenta justificada al término de cada ejercicio. El tesorero será suplido en sus faltas por el notario que designe el Consejo.
+El Presidente será substituido en caso de falta o impedimento por el Vicepresidente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+ART. 161.- El Secretario dará cuenta al Presidente de los asuntos y comunicará sus acuerdos; redactará las actas de las sesiones del Colegio y del Consejo; llevará la correspondencia y los libros del registro y tendrá a su cargo el archivo y la biblioteca. En caso de falta o impedimento será substituido por el Subsecretario.
+
+El Tesorero hará los pagos, previo acuerdo del Presidente; llevará la contabilidad y rendirá cuenta justificada al término de cada ejercicio. El Tesorero será suplido en sus faltas por el Subtesorero.
+
+Los Vocales, Vicepresidente, Subsecretario y Subtesorero serán sustituidos por sus suplentes en su caso.
 
 ART. 162.- El Consejo de Notarios formulará el reglamento de sus funciones.
 
 ### CAPITULO SEGUNDO. DEL ARCHIVO GENERAL DE NOTARIAS
 
-ART. 163.- Habrá en el Estado un archivo General de Notarías en la Capital y otro en la Ciudad de Manzanillo, que se organizarán como Secciones dependientes del Registro Público de la Propiedad de los propios lugares y su funcionamiento se regirá por las disposiciones del Reglamento que al efecto expida el Ejecutivo del Estado, a quien se faculta para ello.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+ART. 163.- Habrá en el Estado un Archivo General de Notarías en la Capital, que se organizará como sección dependiente de la Secretaría General de Gobierno y su funcionamiento se regirá por las disposiciones del Reglamento que al efecto expida el Ejecutivo del Estado, a quien se faculta para ello.
 
 > <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
 
@@ -1114,6 +1814,34 @@ ART. 166.- Las visitas se practicarán en las oficinas de las notarías, en día
 ART. 167.- El notario está obligado a dar las facilidades que requiera el visitador, para practicar la inspección que le sea ordenada. En caso de que se impida o entorpezca la inspección, el visitador lo hará del conocimiento del Ejecutivo del Estado, quien procederá a imponer cualquiera de las sanciones establecidas en el artículo 71 de esta Ley.
 
 ART. 168.- El Consejo de Notarios del Estado, podrá también cuando lo estime conveniente, nombrar a cualquiera de sus miembros o del Colegio, para la práctica de visitas a algún notario o a varios, observándose en ellas lo dispuesto en los artículos procedentes, debiendo dar cuenta del resultado de la visita o visitas al Gobierno del Estado, por conducto del mismo Consejo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+### CAPITULO CUARTO. DE LA COMISION DE HONOR Y JUSTICIA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+ART. 169.- La Comisión de Honor y Justicia se integrará por el Gobernador del Estado o el representante que designe, el Secretario General de Gobierno, el Director General de Gobierno, y dos integrantes del Colegio de Notarios, que a solicitud del Consejo, apruebe la asamblea y tendrá el carácter de permanente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+ART. 170.- Son atribuciones de la Comisión de Honor y Justicia:
+
+I. Conocer y determinar sobre las conductas a las que deben sujetar su actuación los Notarios y los adscritos, cuando suplan a éstos, y contravengan la ética notarial;
+
+II. Desempeñar la función de mediación, conciliación y en su caso arbitraje, en los conflictos que surjan entre los Notarios por la violación a las normas de la ética notarial, cuando el interesado o afectado lo solicite y la otra parte en conflicto lo admita voluntariamente, de acuerdo a la observancia del reglamento que al efecto se establezca y con sujeción a la ley de la materia;
+
+III. Conocer de las denuncias que se formulen por los Notarios cuando consideren que en el ejercicio de la función notarial se infringen las normas previstas por ésta u otras leyes que regulen esta última, determinando si procede, la instauración del procedimiento arbitral en los términos de este capítulo o por su gravedad se requiera hacerlo del conocimiento del Ejecutivo del Estado para el inicio del procedimiento de responsabilidad respectivo;
+
+IV. Opinar en los asuntos que por su trascendencia les sean sometidos a su consideración por el Consejo o por el Colegio de Notarios; y
+
+V. Las demás que deriven de la propia ley o del Consejo de Notarios.
 
 TRANSITORIOS:
 
@@ -1143,7 +1871,7 @@ Salón de Sesiones del H. Congreso del Estado.- Colima, Col., Diciembre 29 de 19
 
 Por tanto mando se imprima, publique, circule y observe.- Palacio de Gobierno, Colima, Col., Diciembre 29 de 1963.- El Gobernador Constitucional del Estado, LIC. FRANCISCO VELASCO CURIEL.- Rúbrica.- El Secretario General de Gobierno, LIC. JULIO SANTA ANA E.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 10 DE JULIO DE 1965.
 
@@ -1194,3 +1922,37 @@ P.O. 3 DE OCTUBRE DE 2009.
 P.O. 25 DE NOVIEMBRE DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 1 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor treinta días después de su publicación en el Periódico Oficial "El Estado de Colima".
+
+###### ARTÍCULO SEGUNDO.
+
+El Consejo del Colegio de Notarios en funciones continuará integrado en la misma forma, pero el primer sábado de diciembre del año en curso deberá integrarse con los miembros a que se refieren estas reformas.
+
+###### ARTÍCULO TERCERO.
+
+Los Notarios adscritos designados al entrar en vigor las presentes reformas, quedarán incluidos ipso jure en el Colegio de Notarios.
+
+###### ARTÍCULO CUARTO.
+
+Dentro de los primeros 60 días siguientes a la vigencia de las presentes reformas, se deberá expedir por el Ejecutivo del Estado, el Arancel del Notario que deberá ser observado por todos los Notarios del Estado.
+
+###### ARTÍCULO QUINTO.
+
+Las reformas y adiciones relativas al Protocolo Electrónico instituido en el artículo 12 BIS de la presente Ley, entrarán en vigor una vez que el Ejecutivo del Estado expida el Reglamento correspondiente.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan las disposiciones legales que se opongan a estas reformas.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las disposiciones relativas al Archivo General de Notarías a que alude el Capítulo Segundo del Título Tercero de la presente Ley, entrarán en vigor una vez que el Ejecutivo del Estado implemente lo necesario para su correcto y eficaz funcionamiento, por tanto, hasta ese momento continuarán archivándose los documentos como se ha venido practicando.
+
+###### ARTÍCULO OCTAVO.
+
+En los instrumentos notariales en los que se haya utilizado la firma electrónica con anterioridad a las presentes reformas, se entenderá que tiene los mismos efectos que el sello notarial.
