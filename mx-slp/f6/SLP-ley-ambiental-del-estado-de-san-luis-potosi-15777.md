@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2014-06-28"
+last_updated: "2014-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -2547,7 +2547,9 @@ Dentro del más breve plazo posible, los bienes o especies animales que sean ret
 
 La SEGAM, el respectivo ayuntamiento o los organismos operadores del agua, en los asuntos de su competencia podrán imponer al infractor, previa garantía de audiencia y según fuere la naturaleza, gravedad y circunstancias del hecho, la o las sanciones administrativas siguientes:
 
-I. Multa equivalente de veinte a veinte mil días de salario mínimo general vigente en la zona económica correspondiente en el momento de imponer la sanción;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+
+I. Multa equivalente de cincuenta a sesenta mil días de salario mínimo general vigente en la zona económica correspondiente en el momento de imponer la sanción;
 
 II. Clausura temporal o definitiva, parcial o total, cuando:
 
@@ -3026,3 +3028,9 @@ SEGUNDO. Los Consejos Consultivos Municipales de Medio Ambiente y Desarrollo Sus
 TERCERO. Una vez integrados los Consejos Consultivos Municipales de Medio Ambiente Sustentable, tendrá un plazo de ciento ochenta días para la elaboración de su reglamento interno.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 1 DE NOVIEMBRE DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
