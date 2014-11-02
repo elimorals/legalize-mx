@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-de-transito-y-vialidad-del-municipio-de-gomez-71205"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-08"
-last_updated: "2012-01-08"
+last_updated: "2014-11-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71205&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "DUR"
 
 REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE GÓMEZ PALACIO, DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE GÓMEZ PALACIO, DURANGO. PUBLICADO EN EL P.O. DE 2 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el domingo 8 de noviembre de 2009.
 
@@ -1802,3 +1804,17 @@ P.O. 8 DE ENERO DE 2012.
 PRIMERO.- Se aprueban las reformas a los Artículos 3 Fracción II; 4 Fracción I; 5 Fracciones III y X; 6 Fracciones XI y XII; 7 Fracción I; 9 Fracción IV, Párrafo Segundo; 24 Segundo Párrafo; 27 Fracción I, Segundo Párrafo; 28 Segundo Párrafo; 31 Primer Párrafo, Fracciones II y IV; 34 Primero y Segundo Párrafos; El Título del Capítulo VII; Artículos 36 Primer Párrafo, Fracción III; Artículo 37 Primero, Segundo y Tercer Párrafos; 39 Primero y Segundo Párrafos; 40 Primero, Segundo y Cuarto Párrafos; 43 y 44 en las Claves 22, 23, 112 y 131 y la adición de la Clave 73-Bis del Reglamento de Tránsito y Vialidad del Municipio de Gómez Palacio, Durango, mismas que entrarán en vigor el día siguiente de su Publicación.
 
 SEGUNDO.- Publíquense estas Reformas en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+P.O. 2 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Se abroga el Reglamento de Tránsito y Vialidad del Municipio de Gómez Palacio, Durango, aprobado en Sesión Ordinaria del H. Cabildo el día 08 de Enero de 2012 y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango con fecha 8 de noviembre de 2009
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan o contravengan al presente Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+Este Reglamento entrará en vigor al día siguiente de su publicación del Periódico Oficial del Gobierno Constitucional del Estado de Durango.
