@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2014-07-28"
+last_updated: "2014-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2014.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -165,7 +165,11 @@ El derecho de réplica será ejercido en los términos dispuestos por la Ley.
 
 Artículo 5° Sin distinción alguna, todas y todos los habitantes del Estado tienen los derechos y obligaciones, así como los derechos humanos, consagrados en esta Constitución.
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+
 El varón y la mujer son iguales ante la ley. Esta protegerá la organización y el desarrollo de la familia.
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
 Toda persona tiene derecho a decidir, de manera libre, responsable e informada, sobre el número y el espaciamiento de sus hijos.
 
@@ -180,6 +184,8 @@ Los ascendientes, tutores y custodios tienen la obligación de preservar y exigi
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 El Estado otorgará facilidades a los particulares, para que se coadyuve al cumplimiento de los derechos de la niñez.
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
 Es deber de los padres preservar el derecho de los menores a la satisfacción de sus necesidades y a la salud física y mental. La ley determinará los apoyos a la protección de los menores, a cargo de las instituciones públicas.
 
@@ -365,6 +371,18 @@ Toda persona tiene derecho a que se le administre justicia por tribunales que es
 
 El Estado regulará un Sistema de Justicia Alternativa, cuyo servicio también será gratuito.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE NOVIEMBRE DE 2014)</small>
+
+El proceso penal será acusatorio y oral. Se regirá por los principios de publicidad, contradicción, concentración, continuidad e inmediación, conforme a la ley respectiva.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE NOVIEMBRE DE 2014)</small>
+
+El imputado, la víctima o el ofendido gozarán de los derechos que consagra la Constitución Política de los Estados Unidos Mexicanos, el Código Penal del Estado y el Código Nacional de Procedimientos Penales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE NOVIEMBRE DE 2014)</small>
+
+La ley respectiva preverá mecanismos alternativos de solución de controversias. En la materia penal regulará su aplicación, asegurará la reparación del daño y establecerá los casos en los que se requerirá supervisión judicial.
+
 Las leyes locales establecerán los medios necesarios para que se garantice la independencia de los tribunales y la plena ejecución de sus resoluciones.
 
 Nadie puede ser aprisionado por deudas de carácter puramente civil.
@@ -382,6 +400,10 @@ El Gobierno del Estado creará instancias especiales para el tratamiento de los 
 > <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2007)</small>
 
 El Estado implementará un Sistema Integral de Justicia para Adolescentes, en los términos de la Ley en la materia.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2014)</small>
+
+El Estado garantizará la existencia de un servicio de defensoría pública de calidad para la población y asegurará las condiciones para un servicio profesional de carrera para los defensores. Las percepciones de los defensores no podrán ser inferiores a las que correspondan a los agentes del Ministerio Público.
 
 > <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
 
@@ -413,7 +435,7 @@ Para el cumplimiento de sus funciones, contará con una persona titular de la Pr
 
 La elección de la o el titular de la Presidencia de la Comisión de Derechos Humanos del Estado de Hidalgo, así como de los integrantes del Consejo Consultivo, se ajustarán a un procedimiento de consulta pública, que deberá ser transparente, en los términos y condiciones que determine la Ley, para tal efecto, el Congreso del Estado expedirá previamente una convocatoria pública abierta.
 
-El Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Hidalgo será de carácter honorífico e integrado por ocho personas. Las Consejeras y los Consejeros durarán un año en el cargo con la posibilidad de ser reelectos. En la integración del Consejo se buscará la equidad de género.
+El Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Hidalgo será de carácter honorífico e integrado por ocho personas. Las Consejeras y los Consejeros, durarán un año en el cargo con la posibilidad de ser reelectos. En la integración del Consejo se buscará la equidad de género.
 
 La persona titular de la Presidencia de la Comisión de Derechos Humanos del Estado de Hidalgo, quien lo será también del Consejo Consultivo, sólo podrá ser removido de sus funciones en los términos señalados en el Título Décimo de esta Constitución. Requerirá conocer el tema de derechos humanos y cumplir con los demás requisitos que determine la Ley de la materia, durará en su encargo cinco años sin posibilidad de ser reelecta.
 
@@ -1307,7 +1329,7 @@ II. Conceder licencia al Gobernador del Estado cuando sea por un lapso mayor de 
 
 > <small>(REFORMADA, P.O. 17 DE JULIO DE 2006)</small>
 
-III. Recibir la protesta al Cargo de Gobernador y Magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo y del Tribunal Electoral, Consejeros del Consejo de la Judicatura , así como al Procurador General de Justicia y al Subprocurador de Asuntos Electorales;
+III. Recibir la protesta al Cargo de Gobernador y Magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo y del Tribunal Electoral, Consejeros del Consejo de la Judicatura, así como al Procurador General de Justicia y al Subprocurador de Asuntos Electorales;
 
 > <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1777,11 +1799,15 @@ Artículo 88d. (DEROGADO, P.O. 1 DE OCTUBRE DE 1987)
 
 El Ministerio Público, representante del interés social, es una institución de buena fe, con autonomía técnica y administrativa para garantizar su independencia en la emisión de las determinaciones de su competencia.
 
-> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 90.
 
-Son facultades y obligaciones del Ministerio Público: velar por la legalidad como principio rector de la convivencia social, mantener el orden jurídico, ejercitar la acción penal, exigir el cumplimiento de la pena, cuidar de la correcta aplicación de las medidas de política anticriminal que establezca el Ejecutivo del Estado y proteger los intereses colectivos e individuales contra toda violación de las leyes, así como las establecidas en su Ley Orgánica.
+Son facultades y obligaciones del Ministerio Público: velar por la legalidad como principio rector de la convivencia social, mantener el orden jurídico, exigir el cumplimiento de la pena, cuidar de la correcta aplicación de las medidas de política anticriminal que establezca el Ejecutivo del Estado y proteger los intereses colectivos e individuales contra toda violación de las leyes, así como las establecidas en su Ley Orgánica.
+
+De conformidad con lo dispuesto por el párrafo tercero del artículo 9° de esta Constitución y la ley de la materia, es competencia del Ministerio Público conducir la investigación de los delitos, coordinar a las Policías y a los servicios periciales durante la investigación, resolver sobre el ejercicio de la acción penal en la forma establecida por la ley y, en su caso, ordenar las diligencias pertinentes y útiles para demostrar, o no, la existencia del hecho que la ley señale como delito y la responsabilidad de quien lo cometió o participó en su comisión.
+
+El Ministerio Público sólo podrá solicitar al Juez la prisión preventiva cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia del imputado en el juicio, el desarrollo de la investigación, la protección de la víctima, de los testigos o de la comunidad, así como cuando el imputado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso.
 
 > <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1995)</small>
 
@@ -1809,11 +1835,23 @@ El Procurador General de Justicia y el Sub-procurador de Asuntos Electorales, du
 
 Solo podrán ser removidos en los términos previstos por esta Constitución; por la comisión de delitos; por faltas establecidas en las leyes vigentes y por incumplimiento grave de sus atribuciones de ley calificado así, por el pleno del Tribunal Superior de Justicia, a solicitud del Congreso o a virtud de la demanda que al efecto formule el titular del Ejecutivo ante el Congreso del Estado.
 
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 3 DE NOVIEMBRE DE 2014)</small>
+
+#### SECCION VI. SEGURIDAD PUBLICA
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 92 Bis.
+
+La Seguridad Pública en la Entidad, será una función a cargo del Estado y de los municipios, en sus respectivos ámbitos de competencia para la prevención e investigación de los delitos, así como para determinar las sanciones a infracciones de carácter administrativo, en términos de la ley.
+
+La Seguridad Pública deberá regirse por los principios de eficiencia, legalidad, objetividad, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales en materia de derechos humanos que hayan sido ratificados por el Estado Mexicano y por esta Constitución.
+
+Las instituciones encargadas de la Seguridad Pública en el Estado, serán de carácter civil, disciplinado y profesional. Deberán coordinarse con el Ministerio Público a fin de cumplir con los objetivos establecidos en el Sistema Nacional de Seguridad Pública, lo anterior en términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública y la Ley de Seguridad Pública para el Estado de Hidalgo.
+
+Las policías de investigación actuarán bajo la conducción y el mando del Ministerio Público en la investigación de los delitos.
+
 > <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
-
-#### SECCION II. DEL PRESIDENTE MUNICIPAL
-
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
 ### CAPITULO I. DEL PATRIMONIO
 
@@ -1978,6 +2016,10 @@ I. Conocer de las controversias en que el Estado fuere parte, salvo lo dispuesto
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
 II. Resolver las controversias que se susciten en materia civil, familiar, penal, mercantil y especializada en justicia para adolescentes;
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2014)</small>
+
+El Tribunal Superior de Justicia y los jueces del fuero común, en asuntos de materia penal, ejercerán sus actuaciones con base en los principios que rigen el proceso penal acusatorio, en términos de lo dispuesto en el párrafo tercero del artículo 9° de esta Constitución y la ley correspondiente.
 
 III. Conocer de las controversias que resulten por la aplicación de leyes federales, en los casos que establezca la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -2895,11 +2937,11 @@ Esta Constitución mantendrá su vigencia aun cuando por alguna rebelión se int
 
 ###### Artículo 1°.
 
-Esta Constitución se protestara con toda solemnidad en todo el Estado, quedando derogada desde luego la anterior, así como sus adiciones y reformas.
+Esta Constitución se protestará con toda solemnidad en todo el Estado, quedando derogada desde luego la anterior, así como sus adiciones y reformas.
 
 ###### Artículo 2°.
 
-En tanto se expiden las leyes orgánicas relativas, continuaran rigiendo en el Estado, las vigentes en la actualidad así como los decretos y reglamentos que no se opongan a la presente Constitución ni a la General de 5 de febrero de 1917.
+En tanto se expiden las leyes orgánicas relativas, continuarán rigiendo en el Estado, las vigentes en la actualidad así como los decretos y reglamentos que no se opongan a la presente Constitución ni a la General de 5 de febrero de 1917.
 
 ###### Artículo 2°.
 
@@ -2909,7 +2951,7 @@ La Constitución Política de los Estados Unidos Mexicanos como Ley Suprema, est
 
 ###### Artículo 3°.
 
-El período Constitucional de la actual Legislatura, terminara el último día de febrero de 1921; el del Gobernador, el 31 de marzo del mismo año y el de los Magistrados del Superior Tribunal de Justicia, el 4 de mayo de 1923.
+El período Constitucional de la actual Legislatura, terminará el último día de febrero de 1921; el del Gobernador, el 31 de marzo del mismo año y el de los Magistrados del Superior Tribunal de Justicia, el 4 de mayo de 1923.
 
 ###### Artículo 4°.
 
@@ -3638,3 +3680,7 @@ P.O. 28 DE JULIO DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO.- Se derogan las disposiciones que contravengan lo dispuesto en el presente Decreto de reforma y adición a la Constitución Política del Estado de Hidalgo.
+
+P.O. 3 DE NOVIEMBRE DE 2014.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
