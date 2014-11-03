@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-contaduria-mayor-de-hacienda-de-88849
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-08-09"
-last_updated: "2012-08-09"
+last_updated: "2014-11-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88849&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2012-07-24"
 
 REGLAMENTO INTERIOR DE LA CONTADURÍA MAYOR DE HACIENDA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 3 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE NOVIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 9 de agosto de 2012.
 
@@ -807,3 +809,21 @@ DR. DAVID MANUEL VEGA VERA
 CONTADOR MAYOR DE HACIENDA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
 (Firma)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 3 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día hábil siguiente de su publicación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el nueve de agosto de dos mil doce, y se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+TERCERO.- Los procedimientos que se hubieren iniciado durante la vigencia del Reglamento Interior abrogado, se continuarán de conformidad con las disposiciones de dicho Reglamento.
+
+CUARTO.- Toda la normatividad interna de la Contaduría, continuará vigente en todo aquello que no se oponga al contenido del presente Reglamento y en tanto no se emita la normatividad interna de la Auditoría Superior.
+
+QUINTO.- En un plazo no mayor a un año calendario, contado a partir del día hábil siguiente de la publicación del presente Reglamento, se emitirá la normatividad interna de la Auditoría Superior.
+
+SEXTO.- Los asuntos no previstos en el presente Reglamento, serán resueltos por el Auditor Superior mediante las circulares o acuerdos respectivos.
+
+SÉPTIMO.- Publíquese en la Gaceta Oficial del Distrito Federal.
