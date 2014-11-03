@@ -4,7 +4,7 @@ identifier: "SON-ley-de-proteccion-a-los-animales-para-el-estado-de-sonora-96091
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-27"
-last_updated: "2013-06-27"
+last_updated: "2014-11-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96091&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "SON"
 ---
 # LEY DE PROTECCION A LOS ANIMALES PARA EL ESTADO DE SONORA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE DICIEMBRE DE 2014 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Sección VII del Boletín Oficial del Estado de Sonora, el jueves 27 de junio de 2013.
 
@@ -101,7 +99,7 @@ g) Mantenerlos permanentemente amarrados o encadenados o en azoteas, balcones o 
 
 h) Utilizar bozales sin rejillas que permitan al animal jadear o beber agua libremente;
 
-i) Descuidar su morada y las condiciones de aire, abrigo, alimento, movilidad, higiene y albergue, a tal grado que pueda causarles angustia, stress (sic), sed, insolación, dolores considerables o atentar gravemente contra su salud, así como no prestar atención médica o preventiva; y
+i) Descuidar su morada y las condiciones de aire, abrigo, alimento, movilidad, higiene y albergue, a tal grado que pueda causarles angustia, stress, sed, insolación, dolores considerables o atentar gravemente contra su salud, así como no prestar atención médica o preventiva; y
 
 j) Los actos u omisiones carentes de un motivo razonable o legítimo que sean susceptibles de causarles dolores, sufrimientos considerables o afectación grave de su salud.
 
@@ -333,9 +331,11 @@ Ningún animal destinado al tiro o carga podrá ser golpeado, fustigado o espole
 
 ###### Artículo 46.
 
-Los abrevaderos y lugares donde se alojen los animales deberán estar a cubierto (sic) del sol y la lluvia y distribuidos en el campo en forma conveniente, observando las disposiciones de las autoridades sanitarias.
+Los abrevaderos y lugares donde se alojen los animales deberán estar a (sic) cubierto del sol y la lluvia y distribuidos en el campo en forma conveniente, observando las disposiciones de las autoridades sanitarias.
 
 ### CAPÍTULO V. De los Animales en Actividades de Entretenimiento Público
+
+> <small>(REFORMADO, B.O. 3 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 47.
 
@@ -343,7 +343,11 @@ Las disposiciones de este Capítulo se aplicarán en lo conducente a los animale
 
 ###### Artículo 48.
 
-Corresponde a las autoridades municipales, vigilar las condiciones en que se encuentren los animales en exposiciones o concursos.
+Los ayuntamientos expedirán el permiso para la celebración de festividades públicas y espectáculos, en los que se utilicen animales, de conformidad con las disposiciones correspondientes. Si se verifican infracciones del permisionario que impliquen maltrato hacia los animales, la autoridad municipal revocará el permiso y procederá a la cancelación del evento.
+
+Queda prohibida la celebración y realización de espectáculos circenses públicos o privados en los cuales se utilicen animales vivos sea cual sea su especie, con fines de explotación, exposición, exhibición y/o participación.
+
+Se sancionará con el equivalente de cinco mil veces el salario mínimo general diario vigente en la zona, a quién celebre o realice espectáculos circenses públicos o privados en los cuales se utilicen animales vivos.
 
 ###### Artículo 49.
 
@@ -351,7 +355,7 @@ Los ayuntamientos expedirán el permiso para la celebración de festividades pú
 
 ###### Artículo 50.
 
-Los propietarios o responsables de la empresa o negociación que utilice (sic) animales para ofrecer espectáculos públicos, sacrificarán inmediatamente a los que por cualquier causa se hubiesen lesionado gravemente o mutilado un miembro u órgano necesarios para su desarrollo o subsistencia.
+Los propietarios o responsables de la empresa o negociación que utilice animales para ofrecer espectáculos públicos, sacrificarán inmediatamente a los que por cualquier causa se hubiesen lesionado gravemente o mutilado un miembro u órgano necesarios para su desarrollo o subsistencia.
 
 ###### Artículo 51.
 
@@ -364,6 +368,12 @@ Será obligación de los responsables de animales que se encuentren en exhibici�
 ###### Artículo 53.
 
 Los dueños o responsables de los centros de espectáculos que intencionalmente o por negligencia contribuyan a que sus animales en exhibición o durante su actuación causen daños y perjuicios al público, serán sancionados en los términos del reglamento respectivo y sin perjuicio de lo que impongan las leyes aplicables en esta materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 53 (sic).- Queda prohibido ofrecer a los animales que permanezcan en cautiverio en ferias y jardines zoológicos, cualquier clase de alimento u objetos cuya ingestión o presencia pueda causarles daños o enfermedades.
+
+Asimismo, estos centros deberán mantener a los animales en locales con una extensión de espacio tal, que les permita libertad y amplitud de movimientos y, durante su traslado, no podrán ser inmovilizados en una posición que les ocasione lesiones o sufrimientos. En todo momento o circunstancia, se observarán condiciones razonables de higiene y seguridad pública.
 
 ### CAPÍTULO VI. De la Captura de los Animales
 
@@ -626,3 +636,15 @@ SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Hermosillo, Sonora, 2 de Mayo de 
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la Ciudad de Hermosillo, Sonora, a los trece días del mes de mayo del año dos mil trece.- SUFRAGIO EFECTIVO. NO REELECCION. EL GOBERNADOR DEL ESTADO.- GUILLERMO PADRÉS ELIAS.- EL SECRETARIO DE GOBIERNO.- LIC. ROBERTO ROMERO LOPEZ.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 3 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Ayuntamientos del Estado, contarán con un plazo de 60 días naturales, contados a partir de la entrada en vigor del presente decreto, para adecuar su reglamento conforme a las disposiciones contenidas en este ordenamiento.
