@@ -4,7 +4,7 @@ identifier: "SON-ley-de-educacion-para-el-estado-de-sonora-8518"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2014-10-23"
+last_updated: "2014-11-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 30 de diciembre de 1994.
 
@@ -297,9 +297,9 @@ VII.- Fomentar actitudes que estimulen la investigación y la innovación cient�
 
 VIII.- Impulsar la creación artística y propiciar la adquisición, el enriquecimiento y la difusión de los bienes y valores de la cultura universal, en especial de aquéllos que constituyen el patrimonio cultural de la Nación;
 
-> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, B.O. 3 DE NOVIEMBRE DE 2014)</small>
 
-IX.- Fomentar la educación en materia de nutrición y estimular la educación física y la práctica del deporte;
+IX.- Fomentar la educación en materia de nutrición, prevención de accidentes, primeros auxilios y estimular la educación física y la práctica del deporte;
 
 > <small>(ADICIONADA, B.O. 28 DE JUNIO DE 2010)</small>
 
@@ -335,23 +335,23 @@ XV.- Propiciar la salud mental y la prevención de alteraciones o problemas del 
 
 > <small>(ADICIONADA, B.O. 27 DE JUNIO DE 2013)</small>
 
-XVI. Fomentar los valores y principios del cooperativismo.
+XVI.- Fomentar los valores y principios del cooperativismo.
 
 > <small>(ADICIONADA, B.O. 27 DE JUNIO DE 2013)</small>
 
-XVII. Fomentar la cultura de la transparencia y la rendición de cuentas, así como el conocimiento en los educandos de su derecho al acceso a la información pública gubernamental y de las mejores prácticas para ejercerlo.
+XVII.- Fomentar la cultura de la transparencia y la rendición de cuentas, así como el conocimiento en los educandos de su derecho al acceso a la información pública gubernamental y de las mejores prácticas para ejercerlo.
 
 > <small>(ADICIONADA, B.O. 27 DE JUNIO DE 2013)</small>
 
-XVIII. Promover y fomentar la lectura y el libro.
+XVIII.- Promover y fomentar la lectura y el libro.
 
 > <small>(ADICIONADA, B.O. 27 DE JUNIO DE 2013)</small>
 
-XIX. Difundir los derechos y deberes de niños, niñas y adolescentes y las formas de protección con que cuentan para ejercitarlos; y
+XIX.- Difundir los derechos y deberes de niños, niñas y adolescentes y las formas de protección con que cuentan para ejercitarlos; y
 
 > <small>(ADICIONADA, B.O. 27 DE JUNIO DE 2013)</small>
 
-XX. Realizar acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de dieciocho años de edad o de personas que no tenga la capacidad de comprender el significado del hecho o para resistirlo.
+XX.- Realizar acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de dieciocho años de edad o de personas que no tenga la capacidad de comprender el significado del hecho o para resistirlo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE ABRIL DE 2014)</small>
 
@@ -449,6 +449,10 @@ II Bis A.- Coordinarse con las autoridades en materia de seguridad pública y sa
 
 II Bis B.- Coordinarse con la Secretaría de Salud y las Asociaciones de Padres de Familia de las escuelas de nivel básico para implementar acciones de inspección y vigilancia en las tiendas escolares, con el fin de evitar la venta de alimentos con bajo o nulo valor nutricional;
 
+> <small>(ADICIONADA, B.O. 3 DE NOVIEMBRE DE 2014)</small>
+
+II Bis C.- Coordinarse con la Secretaría de Salud para implementar programas y ejecutar cursos de prevención de accidentes y primeros auxilios para los educandos y para el personal que labora en las escuelas de educación básica;
+
 III.- Ajustar, en su caso, el calendario escolar para cada ciclo lectivo de la educación primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, con respecto al calendario fijado por la Secretaría de Educación Pública;
 
 > <small>(ADICIONADA, B.O. 26 DE JUNIO DE 2014)</small>
@@ -509,11 +513,11 @@ XIV.- Expedir constancias y certificados de estudios, otorgar diplomas, títulos
 
 > <small>(ADICIONADA, B.O. 11 DE OCTUBRE DE 2012)</small>
 
-XIV Bis. Garantizar que en escuelas públicas y privadas no se niegue inscripción o suspenda la educación a alumnos a consecuencia de padecer trastorno por déficit de atención con hiperactividad, alteraciones neuroconductuales y otros trastornos del comportamiento;
+XIV Bis.- Garantizar que en escuelas públicas y privadas no se niegue inscripción o suspenda la educación a alumnos a consecuencia de padecer trastorno por déficit de atención con hiperactividad, alteraciones neuroconductuales y otros trastornos del comportamiento;
 
 > <small>(ADICIONADA, B.O. 11 DE OCTUBRE DE 2012)</small>
 
-XIV Bis A. Garantizar que en los establecimientos educativos públicos o privados, se brinde el apoyo a los educandos que presenten problemas de bajo rendimiento escolar o síntomas de trastorno por déficit de atención con hiperactividad, alteraciones neuroconductuales u otros trastornos del comportamiento, para reconocerlos y derivarlos, con el consentimiento de los padres o tutores, al sector salud y a las instancias de apoyo pedagógico o psicológico, oficiales o privadas, correspondientes;
+XIV Bis A.- Garantizar que en los establecimientos educativos públicos o privados, se brinde el apoyo a los educandos que presenten problemas de bajo rendimiento escolar o síntomas de trastorno por déficit de atención con hiperactividad, alteraciones neuroconductuales u otros trastornos del comportamiento, para reconocerlos y derivarlos, con el consentimiento de los padres o tutores, al sector salud y a las instancias de apoyo pedagógico o psicológico, oficiales o privadas, correspondientes;
 
 XV.- Realizar campañas que tiendan a elevar los niveles culturales, sociales y económicos de la población y, en especial, los de las zonas rurales y urbanas marginadas;
 
@@ -525,11 +529,11 @@ XVI Bis.- Crear un expediente único para todo alumno que curse estudios en el E
 
 > <small>(REFORMADA, B.O. 3 DE ABRIL DE 2014)</small>
 
-XVII. Participar con la autoridad educativa federal, en la operación de los mecanismos de administración escolar; y
+XVII.- Participar con la autoridad educativa federal, en la operación de los mecanismos de administración escolar; y
 
 > <small>(REFORMADA, B.O. 3 DE ABRIL DE 2014)</small>
 
-XVIII. Coordinar y operar un padrón estatal de estudiantes, docentes, instituciones y centros escolares y un registro estatal de emisión, validación e inscripción de documentos académicos. Para estos efectos, la autoridad educativa local deberá coordinarse en el marco del Sistema de Información y Gestión Educativa.
+XVIII.- Coordinar y operar un padrón estatal de estudiantes, docentes, instituciones y centros escolares y un registro estatal de emisión, validación e inscripción de documentos académicos. Para estos efectos, la autoridad educativa local deberá coordinarse en el marco del Sistema de Información y Gestión Educativa.
 
 > <small>(ADICIONADO, B.O. 3 DE ABRIL DE 2014)</small>
 
@@ -679,11 +683,11 @@ ARTICULO 26 BIS.- Será obligatorio que las escuelas públicas de educación bá
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 23 DE OCTUBRE DE 2014)</small>
 
-### CAPITULO III BIS. DEL EXPEDIENTE UNICO DEL ESTUDIANTE
+### CAPÍTULO III BIS. DEL EXPEDIENTE ÚNICO DEL ESTUDIANTE
 
 > <small>(ADICIONADO, B.O. 23 DE OCTUBRE DE 2014)</small>
 
-ARTICULO 26 TER.- El Estado, a través de la Secretaría de Educación y Cultura, creará para cada alumno un expediente único que deberá contener sus evaluaciones, reportes de conducta, accidentes, enfermedades crónicas, enfermedades psicológicas y situación familiar.
+Artículo 26 TER.- El Estado, a través de la Secretaría de Educación y Cultura, creará para cada alumno un expediente único que deberá contener sus evaluaciones, reportes de conducta, accidentes, enfermedades crónicas, enfermedades psicológicas y situación familiar.
 
 La Secretaría deberá proporcionar copias simples o certificadas del expediente único cuando así lo soliciten las siguientes personas:
 
@@ -2145,7 +2149,7 @@ Las autoridades competentes respetarán íntegramente los derechos de los trabaj
 
 Comuníquese al Ejecutivo para su sanción y promulgación.- SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Hermosillo, Sonora, a 29 de diciembre de 1994.- DIPUTADO PRESIDENTE.- ROBERTO DIAZ GALLARDO.- RUBRICA.- DIPUTADO SECRETARIO.- LIC. MARIA DEL ROSARIO OROZ IBARRA.- RUBRICA.- DIPUTADO SECRETARIO.- RAUL ROMERO FONTES.- RUBRICA.-
 
-POR TANTO MANDO (sic), mando se publique en el Boletín Oficial del Estado y se le dé el debido cumplimiento.- PALACIO DE GOBIERNO, Hermosilo (sic), Sonora, a veintinueve de diciembre de mil novecientos noventa y cuatro.- SUFRAGIO EFECTIVO. NO REELECCION. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. MANLIO FABIO BELTRONES RIVERA. RUBRICA.- EL SECRETARIO DE GOBIERNO. LIC. ROBERTO SANCHEZ CEREZO.- RUBRICA.-
+POR TANTO MANDO, mando (sic) se publique en el Boletín Oficial del Estado y se le dé el debido cumplimiento.- PALACIO DE GOBIERNO, Hermosilo (sic), Sonora, a veintinueve de diciembre de mil novecientos noventa y cuatro.- SUFRAGIO EFECTIVO. NO REELECCION. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. MANLIO FABIO BELTRONES RIVERA. RUBRICA.- EL SECRETARIO DE GOBIERNO. LIC. ROBERTO SANCHEZ CEREZO.- RUBRICA.-
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
@@ -2413,7 +2417,7 @@ B.O. 26 DE JUNIO DE 2014.
 
 ###### ARTÍCULO ÚNICO.
 
-El presente decreto entrará en vigor el día siguiente al de su publicación el (sic) Boletín Oficial del Estado de Sonora.
+El presente decreto entrará en vigor el día siguiente al de su publicación (sic) el Boletín Oficial del Estado de Sonora.
 
 B.O. 23 DE OCTUBRE DE 2014.
 
@@ -2424,3 +2428,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se establece un plazo de 90 días contado a partir de la publicación del presente decreto en el Boletín Oficial del Gobierno del Estado para que la Secretaría de Educación y Cultura incorpore el Expediente Único del Estudiante en el Estado.
+
+B.O. 3 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
