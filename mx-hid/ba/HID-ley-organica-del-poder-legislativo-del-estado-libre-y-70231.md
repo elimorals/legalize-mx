@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-libre-y-70231"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-21"
-last_updated: "2014-07-28"
+last_updated: "2014-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 28 DE JULIO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de septiembre de 2009.
 
@@ -75,7 +73,7 @@ El Congreso del Estado, se integra con Diputados electos en su totalidad por suf
 
 Durante su Ejercicio Constitucional, el Congreso del Estado tendrá dos Períodos Ordinarios de Sesiones cada año, en los términos previstos por el Titulo Sexto, de la Constitución Política del Estado de Hidalgo. Los períodos no podrán prorrogarse más allá de las fechas previstas en este Título.
 
-El Congreso del Estado, tendrá dos períodos de receso al año, en los que funcionará la Diputación Permanente.
+El Congreso del Estado, tendrá dos perídos de receso al año, en los que funcionará la Diputación Permanente.
 
 El Congreso, podrá celebrar Sesiones Extraordinarias durante los períodos de receso, mismas que serán convocados por la Diputación Permanente o a solicitud del Titular del Poder Ejecutivo del Estado, en dichos períodos sólo se tratarán los asuntos que se precisen en la Convocatoria, pudiendo prolongarse por el tiempo necesario hasta lograr su objetivo. Para el caso en que termine el período de receso, sin haberse resuelto el asunto motivo de la Convocatoria, éste se incluirá en la agenda de los asuntos a tratar del Periodo Ordinario de Sesiones siguiente.
 
@@ -601,9 +599,9 @@ XXI.- Llamar al Diputado Suplente que ejercerá el cargo, en los casos estableci
 
 XXII.- Representar legalmente al Congreso en los asuntos en que éste sea parte, pudiendo delegar tal representación, por conducto de los servidores públicos a quienes en cada caso corresponda el asunto, según la distribución de competencias establecidas en la presente Ley;
 
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2014)</small>
 
-XXIII.- Someter a consideración del Pleno la dispensa de la lectura de los Dictámenes emitidos por las Comisiones Legislativas, cuando ya sean conocidos por los integrantes del Pleno; y
+XXIII.- Someter a consideración del Pleno, la lectura de un extracto o la dispensa de la lectura de los Dictámenes emitidos por las Comisiones Legislativas, cuando ya sean conocidos por los integrantes del Pleno; y
 
 > <small>(ADICIONADA, P.O. 28 DE MARZO DE 2011)</small>
 
@@ -1311,9 +1309,11 @@ La lectura del párrafo que antecede puede ser dispensada a solicitud del Presid
 
 Todo proyecto de Ley o Decreto, se discutirá en lo general y en lo particular; es decir, en su conjunto y en cada uno de sus Artículos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 144.
 
-La discusión de un Dictamen, se iniciará con la lectura del mismo y del voto particular si lo hubiere.
+La discusión de un Dictamen, se iniciará con la lectura, un extracto o la dispensa de la lectura del mismo y del voto particular si lo hubiere.
 
 En aquellos casos en que la iniciativa haya pasado directamente a Comisiones, se leerá ésta, a propuesta de algún Diputado y con la aprobación del Pleno.
 
@@ -2104,3 +2104,7 @@ Primero.- Envíese el presente Decreto al Titular del Ejecutivo del Estado para 
 Segundo.- El Director General de Servicios Administrativos designará en un plazo no mayor a 30 días naturales contados a partir de la entrada en vigor del presente Decreto, el espacio físico que ocupará la Unidad Institucional de Género en el Congreso del Estado y proveerá del mobiliario, equipo y todo lo necesario para la organización y funcionamiento de la Unidad atendiendo a las posibilidades del presupuesto.
 
 Tercero.- En un plazo no mayor a 40 días naturales el responsable de la Unidad Institucional de Género, bajo la coordinación de las Presidencias de las Comisiones de Seguridad Ciudadana y Justicia, Derechos Humanos y Atención de las personas con Discapacidad e Igualdad de Género, elaborará el Programa Institucional de Acciones Afirmativas para la Implementación de la Perspectiva de Género, así como el Manual de Prácticas Conductuales con Perspectiva de Género para integrantes del Poder Legislativo a fin de someterlo a la consideración y aprobación del Pleno del Congreso.
+
+P.O. 3 DE NOVIEMBRE DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
