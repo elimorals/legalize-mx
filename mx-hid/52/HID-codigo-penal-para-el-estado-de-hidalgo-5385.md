@@ -4,7 +4,7 @@ identifier: "HID-codigo-penal-para-el-estado-de-hidalgo-5385"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2013-08-05"
+last_updated: "2014-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CÓDIGO PENAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2014.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990.
 
@@ -1603,15 +1603,17 @@ La misma pena se aplicará al particular que por cualquier medio, obligue a una 
 
 ARTICULO 163 BIS.- Se considera también como privación ilegal de la libertad, cuando el ascendiente sin limitación de grado o pariente consanguíneo colateral hasta el cuarto grado de un menor de edad, lo sustraiga o cambie de domicilio donde habitualmente resida, lo retenga o impida que regrese al mismo sin autorización de quienes ejerzan la patria potestad, entendiéndose que se necesita la autorización de todos los que ejercen este derecho aunque no se tenga la custodia y no permita que el padre o la madre visiten o convivan con el menor, se aplicará una pena de uno a tres años de prisión y multa de 30 a 300 días. En este contexto, sólo podrán cambiar de domicilio o impedir que regrese al mismo de manera unilateral, cuando exista resolución de autoridad competente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 164.
 
-La punibilidad prevista en el artículo anterior se aumentará en una mitad, cuando en la privación de la libertad concurra alguna de las circunstancias siguientes:
+La punibilidad prevista en el artículo 163 se aumentará en una mitad, cuando en la privación de la libertad concurra alguna de las circunstancias siguientes:
 
 I.- Que se realice con violencia o se veje a la víctima;
 
-II.- Que la víctima sea menor de dieciséis o mayor de setenta años de edad, o por cualquier otra circunstancia esté en situación de inferioridad física respecto al agente; o
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2014)</small>
+
+II.- Que la víctima sea menor de dieciséis o mayor de sesenta años de edad, o por cualquier otra circunstancia esté en situación de inferioridad física respecto al agente; o
 
 III.- Que la privación se prolongue por más de ocho días.
 
@@ -2369,7 +2371,9 @@ IV.- El incapaz sobre el que se es tutor.
 
 A quién cometa el delito de violencia familiar, se le impondrá de uno a seis años de prisión, multa de 50 a 100 días y perderá el derecho de pensión alimenticia. Asimismo, se sujetará a tratamiento psicoterapéutico reeducativo especializado para personas agresoras que refiere la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Hidalgo, el que en ningún caso excederá del tiempo impuesto en la pena de prisión.
 
-En caso de que la víctima sea menor de edad o incapaz, se aumentará en una mitad la pena que corresponda.
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2014)</small>
+
+En caso de que la víctima sea menor de edad, incapaz o persona mayor de sesenta años, se aumentará en una mitad la pena que corresponda.
 
 No se justifica en ningún caso como tratamiento médico o rehabilitación la violencia hacia cualquier persona con algún trastorno mental o adicción.
 
@@ -2456,6 +2460,10 @@ Lo dispuesto en el párrafo anterior no será aplicable si el delito fue cometid
 ###### ARTICULO 228.
 
 La cuantía del objeto o producto del delito se estimará atendiendo a su valor de cambio. Si el objeto o producto no fuere estimable en dinero o si por su naturaleza no fuere posible fijar su valor, se aplicará le (sic) punibilidad prevista en la fracción V del Artículo 203.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2014)</small>
+
+ARTICULO 228 BIS.- La punibilidad que corresponda a los delitos previstos por este título, se aumentara en una mitad, cuando sean cometidos dolosamente por descendientes sin límite de grado, parientes colaterales hasta el cuarto grado, cónyuge, concubino, adoptado, pariente por afinidad hasta el segundo grado y por los terceros que hubieren intervenido en su ejecución con aquéllos y la víctima se (sic) mayor de sesenta años.
 
 ###### ARTICULO 229.
 
@@ -3493,7 +3501,7 @@ Se aplicara el doble de la punibilidad que corresponda, al servidor público que
 
 > <small>(REFORMADO, P.O. 8 DE ABRIL DE 2013)</small>
 
-ARTICULO 322 BIS.- AI servidor público que, en ejercicio de sus funciones o aduciendo su encargo, por sí o a través de un tercero, ordene, instigue o induzca para infligir a una persona dolores o sufrimientos graves sean físicos o mentales, con el fin de obtener del torturado o de un tercero, información o una confesión, de intimidar o coaccionar a la víctima para que realice o deje de hacer una conducta determinada, castigarla por un acto que haya cometido o se sospeche ha cometido, o anular su personalidad o disminuir su capacidad física o mental, aunque los métodos empleados no causen dolor físico o angustia psíquica, se le impondrá prisión de tres a doce años y multa de 200 a 500 días, privación de su cargo e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos hasta por el máximo de la punibilidad señalada.
+ARTICULO 322 BIS.- Al servidor público que, en ejercicio de sus funciones o aduciendo su encargo, por sí o a través de un tercero, ordene, instigue o induzca para infligir a una persona dolores o sufrimientos graves sean físicos o mentales, con el fin de obtener del torturado o de un tercero, información o una confesión, de intimidar o coaccionar a la víctima para que realice o deje de hacer una conducta determinada, castigarla por un acto que haya cometido o se sospeche ha cometido, o anular su personalidad o disminuir su capacidad física o mental, aunque los métodos empleados no causen dolor físico o angustia psíquica, se le impondrá prisión de tres a doce años y multa de 200 a 500 días, privación de su cargo e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos hasta por el máximo de la punibilidad señalada.
 
 Se impondrá la misma pena a quien, aún careciendo de la calidad de servidor público, pero instigado o autorizado explícita o implícitamente por éste, ejerza actos de tortura.
 
@@ -3503,7 +3511,7 @@ EI servidor público que en el ejercicio de sus funciones conozca de un hecho de
 
 No podrá invocarse como causa de justificación en la comisión del delito de tortura, la orden de un superior jerárquico o de cualquier otra autoridad, la existencia de situaciones excepcionales como peligrosidad del indiciado, urgencia en las investigaciones o cualquier otra circunstancia análoga o de emergencia pública.
 
-En el delito previsto por este artículo, la reparación de los daños y perjuicios comprenderá además, los gastos de atención médica y/o psicológica, rehabilitación, asesoría legal, servicio funerario o de cualquier otra índole, que haya erogado la víctima o sus familiares como consecuencia del delito. Asimismo, el sentenciado estará obligado a reparar el daño y a indemnizar por los perjuicios causados a la víctima, en los siguientes casos: pérdida de la vida, de algún órgano o algún miembro de su cuerpo, alteración de la salud física o mental, pérdida de la Iibertad, pérdida de ingresos económicos, incapacidad laboral, pérdida o el daño en la propiedad y/o menoscabo de su reputación.
+En el delito previsto por este artículo, la reparación de los daños y perjuicios comprenderá además, los gastos de atención médica y/o psicológica, rehabilitación, asesoría legal, servicio funerario o de cualquier otra índole, que haya erogado la víctima o sus familiares como consecuencia del delito. Asimismo, el sentenciado estará obligado a reparar el daño y a indemnizar por los perjuicios causados a la víctima, en los siguientes casos: pérdida de la vida, de algún órgano o algún miembro de su cuerpo, alteración de la salud física o mental, pérdida de la libertad, pérdida de ingresos económicos, incapacidad laboral, pérdida o el daño en la propiedad y/o menoscabo de su reputación.
 
 > <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2013)</small>
 
@@ -4206,3 +4214,9 @@ TERCERO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
 P.O. 5 DE AGOSTO DE 2013.
 
 ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entra en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
