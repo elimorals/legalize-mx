@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-proteccion-de-la-familia-del-estado-de-yucatan-1495
 country: "mx"
 rank: "ley"
 publication_date: "1999-08-09"
-last_updated: "1999-08-09"
+last_updated: "2014-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14955&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "YUC"
 ---
 # LEY PARA LA PROTECCION DE LA FAMILIA DEL ESTADO DE YUCATAN
 
-LEY PARA LA PROTECCION DE LA FAMILIA DEL ESTADO DE YUCATAN
+LEY PARA LA PROTECCIÓN DE LA FAMILIA DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE NOVIEMBRE DE 2014.
 
-Ley publicada en el Diario Oficial el Lunes 9 de Agosto de 1999.
+Ley publicada en el Diario Oficial el lunes 9 de Agosto de 1999.
 
 GOBIERNO DEL ESTADO
 
@@ -47,13 +47,13 @@ LEY PARA LA PROTECCIÓN DE LA FAMILIA DEL ESTADO DE YUCATÁN
 
 Las disposiciones contenidas en esta Ley son de orden público e interés social, y tienen por objeto establecer:
 
-I.Los lineamientos generales para la realización de actividades que fortalezcan a la familia como institución básica de la sociedad;
+I. Los lineamientos generales para la realización de actividades que fortalezcan a la familia como institución básica de la sociedad;
 
-II.Las reglas de organización y funcionamiento de las escuelas para padres de familia en el Estado;
+II. Las reglas de organización y funcionamiento de las escuelas para padres de familia en el Estado;
 
-III.Las bases y procedimientos de protección contra la violencia familiar en el Estado, y
+III. Las bases y procedimientos de protección contra la violencia familiar en el Estado, y
 
-IV.Los derechos de las mujeres, de los menores, y de las personas en edad senescente o con discapacidad, así como la manera de garantizar su observancia.
+IV. Los derechos de las mujeres, de los menores, y de las personas en edad senescente o con discapacidad, así como la manera de garantizar su observancia.
 
 ###### ARTÍCULO 2.
 
@@ -73,15 +73,15 @@ Son sujetos de esta Ley, todos los integrantes de la familia, incluyendo a los m
 
 Son instituciones encargadas de la aplicación de esta Ley:
 
-I.El Sistema Estatal para el Desarrollo Integral de la Familia;
+I. El Sistema Estatal para el Desarrollo Integral de la Familia;
 
-II.La Procuraduría de la Defensa del Menor y la Familia, que se entenderá citada en esta Ley cuando se mencione la Procuraduría;
+II. La Procuraduría de la Defensa del Menor y la Familia, que se entenderá citada en esta Ley cuando se mencione la Procuraduría;
 
-III.El Ministerio Público;
+III. El Ministerio Público;
 
-IV.Las Unidades de Asistencia Familiar, y
+IV. Las Unidades de Asistencia Familiar, y
 
-V.Las demás que determinen esta Ley y los demás ordenamientos legales aplicables.
+V. Las demás que determinen esta Ley y los demás ordenamientos legales aplicables.
 
 ## TÍTULO SEGUNDO. DE LA PROTECCIÓN DE LA FAMILIA
 
@@ -97,31 +97,31 @@ Para efectos de esta Ley, se entiende por protección de la familia, al conjunto
 
 El Consejo para la Protección de la Familia y la Prevención de la Violencia Familiar estará integrado por:
 
-I.El Titular del Poder Ejecutivo, quien lo presidirá;
+I. El Titular del Poder Ejecutivo, quien lo presidirá;
 
-II.El Secretario General de Gobierno, quien lo presidirá en ausencia del Presidente;
+II. El Secretario General de Gobierno, quien lo presidirá en ausencia del Presidente;
 
-III.El Secretario de Educación;
+III. El Secretario de Educación;
 
-IV.El Secretario de Salud;
+IV. El Secretario de Salud;
 
-V.El Secretario de Protección y Vialidad;
+V. El Secretario de Protección y Vialidad;
 
-VI.El Director General del Sistema para el Desarrollo Integral de la Familia;
+VI. El Director General del Sistema para el Desarrollo Integral de la Familia;
 
-VII.La Directora del Instituto de la Mujer en Yucatán;
+VII. La Directora del Instituto de la Mujer en Yucatán;
 
-VIII.El Presidente del Consejo Tutelar de Menores;
+VIII. El Presidente del Consejo Tutelar de Menores;
 
-IX.El Director de la Escuela de Educación Social de Menores;
+IX. El Director de la Escuela de Educación Social de Menores;
 
-X.El Titular de la Procuraduría de la Defensa del Menor y la Familia;
+X. El Titular de la Procuraduría de la Defensa del Menor y la Familia;
 
-XI.Dos miembros designados por el Congreso del Estado;
+XI. Dos miembros designados por el Congreso del Estado;
 
-XII.Los representantes de organizaciones sociales dedicadas a promover el desarrollo de la familia y a prevenir la violencia familiar que sean invitados por el Titular del Poder Ejecutivo, y
+XII. Los representantes de organizaciones sociales dedicadas a promover el desarrollo de la familia y a prevenir la violencia familiar que sean invitados por el Titular del Poder Ejecutivo, y
 
-XIII.Los ciudadanos de reconocido prestigio personal que sean invitados por el Titular del Poder Ejecutivo.
+XIII. Los ciudadanos de reconocido prestigio personal que sean invitados por el Titular del Poder Ejecutivo.
 
 Los cargos de los miembros del Consejo serán honorarios y el Gobernador del Estado designará, de entre ellos, a un Secretario Técnico.
 
@@ -143,17 +143,17 @@ El Consejo sesionará cada tres meses de manera ordinaria, sin perjuicio de cele
 
 El Consejo tendrá las siguientes atribuciones:
 
-I.Aprobar el Programa para la Protección de la Familia y Prevención de la Violencia Familiar;
+I. Aprobar el Programa para la Protección de la Familia y Prevención de la Violencia Familiar;
 
-II.Fomentar la coordinación, colaboración y el intercambio de información entre las instituciones representadas en el mismo;
+II. Fomentar la coordinación, colaboración y el intercambio de información entre las instituciones representadas en el mismo;
 
-III.Evaluar anualmente los logros y avances del Programa;
+III. Evaluar anualmente los logros y avances del Programa;
 
-IV.Analizar el establecimiento de lineamientos administrativos y técnicos en esta materia, así como de los modelos de atención a la problemática familiar;
+IV. Analizar el establecimiento de lineamientos administrativos y técnicos en esta materia, así como de los modelos de atención a la problemática familiar;
 
-V.Promover la creación de mecanismos para allegarse recursos necesarios para dar cumplimiento a sus fines, y
+V. Promover la creación de mecanismos para allegarse recursos necesarios para dar cumplimiento a sus fines, y
 
-VI.Las demás que le encomiende el Titular del Poder Ejecutivo del Estado.
+VI. Las demás que le encomiende el Titular del Poder Ejecutivo del Estado.
 
 ### CAPÍTULO III. DEL PROGRAMA PARA LA PROTECCIÓN DE LA FAMILIA Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR
 
@@ -161,15 +161,15 @@ VI.Las demás que le encomiende el Titular del Poder Ejecutivo del Estado.
 
 El Programa para la Protección de la Familia y Prevención de la Violencia Familiar deberá contener, al menos lo siguiente:
 
-I.El diagnóstico de la situación existente en el Estado en materia de protección de la familia y de violencia familiar;
+I. El diagnóstico de la situación existente en el Estado en materia de protección de la familia y de violencia familiar;
 
-II.Las estrategias de atención educativas y sociales para brindar protección a la familia y para combatir la violencia familiar;
+II. Las estrategias de atención educativas y sociales para brindar protección a la familia y para combatir la violencia familiar;
 
-III.Los mecanismos para desarrollar una cultura de valores familiares y cívicos;
+III. Los mecanismos para desarrollar una cultura de valores familiares y cívicos;
 
-IV.Las acciones para difundir entre la población la legislación existente sobre protección a la familia y violencia familiar en el Estado, a través de los diferentes medios de comunicación, y
+IV. Las acciones para difundir entre la población la legislación existente sobre protección a la familia y violencia familiar en el Estado, a través de los diferentes medios de comunicación, y
 
-V.Las acciones inmediatas para la atención de los receptores de la violencia familiar y de quienes la generen.
+V. Las acciones inmediatas para la atención de los receptores de la violencia familiar y de quienes la generen.
 
 ###### ARTÍCULO 13.
 
@@ -191,15 +191,15 @@ La Escuela para padres tendrá como objetivo proporcionar a los padres de famili
 
 Las tareas a desarrollar en la Escuela para Padres serán:
 
-I.Orientar a los padres y maestros para que cumplan con sus responsabilidades en el ámbito familiar en forma más efectiva a través de la organización y planificación de grupos de discusión e intercambio y otras actividades como debates, conferencias en escuelas, talleres educativos y seminarios;
+I. Orientar a los padres y maestros para que cumplan con sus responsabilidades en el ámbito familiar en forma más efectiva a través de la organización y planificación de grupos de discusión e intercambio y otras actividades como debates, conferencias en escuelas, talleres educativos y seminarios;
 
-II.Cooperar con otras instituciones, organizaciones o agrupaciones cuyos objetivos estén dirigidos al desarrollo armónico de mujeres, niños y jóvenes así como personas en edad senescente o con discapacidad;
+II. Cooperar con otras instituciones, organizaciones o agrupaciones cuyos objetivos estén dirigidos al desarrollo armónico de mujeres, niños y jóvenes así como personas en edad senescente o con discapacidad;
 
-III.Vincularse con las escuelas e instituciones u organizaciones que dirijan sus esfuerzos educativos a las relaciones humanas en general;
+III. Vincularse con las escuelas e instituciones u organizaciones que dirijan sus esfuerzos educativos a las relaciones humanas en general;
 
-IV.Llevar a cabo todas aquellas actividades que tiendan a fortalecer los vínculos que distinguen a la familia como estructura básica de la sociedad, y
+IV. Llevar a cabo todas aquellas actividades que tiendan a fortalecer los vínculos que distinguen a la familia como estructura básica de la sociedad, y
 
-V.Las demás que le confieran otros ordenamientos legales aplicables.
+V. Las demás que le confieran otros ordenamientos legales aplicables.
 
 ## TÍTULO TERCERO. DE LOS INTEGRANTES DEL NÚCLEO FAMILIAR
 
@@ -221,43 +221,43 @@ Todas las personas que se encuentren comprendidas en alguno o varios de los supu
 
 Las personas a que se refiere el presente Título serán sujetos de la Tutela Pública en los siguientes casos:
 
-I.Cuando no tengan familia;
+I. Cuando no tengan familia;
 
-II.Cuando teniendo familia, ésta esté imposibilitada para proporcionarles alimentos o los cuidados y asistencia especiales y adecuados que exijan sus condiciones particulares, y
+II. Cuando teniendo familia, ésta esté imposibilitada para proporcionarles alimentos o los cuidados y asistencia especiales y adecuados que exijan sus condiciones particulares, y
 
-III.Cuando sean víctimas de situaciones irremediables de violencia familiar.
+III. Cuando sean víctimas de situaciones irremediables de violencia familiar.
 
 ###### ARTÍCULO 20.
 
 Las instituciones encargadas de la aplicación de esta Ley vigilarán que se observen los derechos de cada una de las personas a las que hace referencia el presente Título, que comprenderán principalmente:
 
-I.Ser tratado sin discriminación alguna en razón de su condición de mujer, menor, senescente o discapacitado, o bien en razón de su raza, lengua, costumbres y demás circunstancias análogas;
+I. Ser tratado sin discriminación alguna en razón de su condición de mujer, menor, senescente o discapacitado, o bien en razón de su raza, lengua, costumbres y demás circunstancias análogas;
 
-II.Disfrutar en el mayor grado posible de buena salud. Para salvaguardar este derecho, el Estado y los Municipios deberán brindar el servicio y la atención médica, hospitalaria y de medicación en las Instituciones de Asistencia Social que tengan para tal efecto;
+II. Disfrutar en el mayor grado posible de buena salud. Para salvaguardar este derecho, el Estado y los Municipios deberán brindar el servicio y la atención médica, hospitalaria y de medicación en las Instituciones de Asistencia Social que tengan para tal efecto;
 
-III.Tener acceso a los medios para su subsistencia;
+III. Tener acceso a los medios para su subsistencia;
 
-IV.Recibir alimentos de quienes tengan la obligación de proporcionárselos, de acuerdo con la legislación civil del Estado, en caso de no estar en condiciones de trabajar;
+IV. Recibir alimentos de quienes tengan la obligación de proporcionárselos, de acuerdo con la legislación civil del Estado, en caso de no estar en condiciones de trabajar;
 
-V.Protección contra toda forma de explotación y agresión sexual, laboral o de cualquier otra índole;
+V. Protección contra toda forma de explotación y agresión sexual, laboral o de cualquier otra índole;
 
-VI.Recibir los cuidados y asistencia especiales y adecuados que exijan sus condiciones particulares, de acuerdo a sus recursos, los de las personas que los tengan a su cargo y, en su caso, del Estado;
+VI. Recibir los cuidados y asistencia especiales y adecuados que exijan sus condiciones particulares, de acuerdo a sus recursos, los de las personas que los tengan a su cargo y, en su caso, del Estado;
 
-VII.La libertad de expresión, información, asociación, para concurrir a reuniones pacíficas y apropiadas para su edad, de conciencia y religión, cuyo ejercicio se efectuará conforme a la evolución de sus facultades, sujetándose a las limitaciones que señale la Ley con respecto a toda persona en pleno goce de sus derechos;
+VII. La libertad de expresión, información, asociación, para concurrir a reuniones pacíficas y apropiadas para su edad, de conciencia y religión, cuyo ejercicio se efectuará conforme a la evolución de sus facultades, sujetándose a las limitaciones que señale la Ley con respecto a toda persona en pleno goce de sus derechos;
 
-VIII.El libre ejercicio de sus derechos políticos;
+VIII. El libre ejercicio de sus derechos políticos;
 
-IX.El descanso y actividades recreativas y culturales sanas y propias de sus condiciones particulares;
+IX. El descanso y actividades recreativas y culturales sanas y propias de sus condiciones particulares;
 
-X.Su integración a un núcleo familiar;
+X. Su integración a un núcleo familiar;
 
-XI.Recibir, en particular de quienes formen parte del núcleo familiar al que estén integrados, y en general de toda persona, un trato digno y humano, un ambiente de afecto y de seguridad moral y material para su estabilidad emocional, física y mental;
+XI. Recibir, en particular de quienes formen parte del núcleo familiar al que estén integrados, y en general de toda persona, un trato digno y humano, un ambiente de afecto y de seguridad moral y material para su estabilidad emocional, física y mental;
 
-XII.Recibir del Estado la protección que corresponda en los casos en que peligren o se vean afectados sus derechos;
+XII. Recibir del Estado la protección que corresponda en los casos en que peligren o se vean afectados sus derechos;
 
-XIII.La protección contra injerencias arbitrarias y a un trato humanitario en cualquier circunstancia, y
+XIII. La protección contra injerencias arbitrarias y a un trato humanitario en cualquier circunstancia, y
 
-XIV.Gozar de un medio ambiente sano y equilibrado.
+XIV. Gozar de un medio ambiente sano y equilibrado.
 
 En los casos de violación de los derechos de algún miembro de un núcleo familiar o cuando sea víctima de violencia familiar, se aplicarán los procedimientos establecidos en el artículo 68 de esta Ley, sin perjuicio de las sanciones a que se haga acreedor el infractor.
 
@@ -273,17 +273,17 @@ Cada uno de los establecimientos a que se refiere el artículo anterior, deberá
 
 La atención que se preste en los establecimientos referidos en los dos artículos que anteceden deberá comprender los servicios que, en forma enunciativa mas no limitativa, se expresan a continuación:
 
-I.Bolsas de trabajo para las personas en las que se especialice el establecimiento, que estén en condiciones de trabajar;
+I. Bolsas de trabajo para las personas en las que se especialice el establecimiento, que estén en condiciones de trabajar;
 
 II. Programas de capacitación para el trabajo para las personas a que se refiere la fracción que antecede;
 
-III.Asistencia psicológica, médica y legal, siempre que se cuente con personal debidamente calificado;
+III. Asistencia psicológica, médica y legal, siempre que se cuente con personal debidamente calificado;
 
-IV.Programas recreativos, culturales, especiales, para las personas en las que se especialice el establecimiento;
+IV. Programas recreativos, culturales, especiales, para las personas en las que se especialice el establecimiento;
 
-V.Asilos especiales para las personas a las que se dedique el establecimiento, para el caso de que éstas no tengan familia o, por algún motivo, no puedan vivir con ella, y
+V. Asilos especiales para las personas a las que se dedique el establecimiento, para el caso de que éstas no tengan familia o, por algún motivo, no puedan vivir con ella, y
 
-VI.Los demás que señale la legislación aplicable.
+VI. Los demás que señale la legislación aplicable.
 
 Deberá procurarse, dentro de lo posible, que los servicios a que se refiere este artículo se presten tanto en lugares fijos como a domicilio.
 
@@ -295,15 +295,15 @@ Los asilos a que se refiere la fracción V se sujetarán, en lo aplicable, a las
 
 Además de los derechos que le conceden la Constitución Política de los Estados Unidos Mexicanos, las leyes federales y estatales así como los establecidos en el artículo 20 de esta Ley, las mujeres tendrán los siguientes derechos:
 
-I.Gozar de igualdad de oportunidades y de desarrollo, sin ningún tipo de distinción, exclusión o restricción que se base en el género;
+I. Gozar de igualdad de oportunidades y de desarrollo, sin ningún tipo de distinción, exclusión o restricción que se base en el género;
 
-II.Gozar de una vida reproductiva adecuada, ejerciendo el derecho de decidir libremente, conjuntamente con su pareja el número y frecuencia del nacimiento de sus hijos;
+II. Gozar de una vida reproductiva adecuada, ejerciendo el derecho de decidir libremente, conjuntamente con su pareja el número y frecuencia del nacimiento de sus hijos;
 
-III.Tener acceso a la justicia pronta, oportuna y expedita, disponiendo para ello de las instancias específicas que se encarguen de recibir las denuncias en casos de delitos sexuales o contra su integridad física;
+III. Tener acceso a la justicia pronta, oportuna y expedita, disponiendo para ello de las instancias específicas que se encarguen de recibir las denuncias en casos de delitos sexuales o contra su integridad física;
 
-IV.Disfrutar de actividades culturales y promover aquéllas que les son propias e identifican el entorno regional donde habiten, en el marco de la cultura nacional, y
+IV. Disfrutar de actividades culturales y promover aquéllas que les son propias e identifican el entorno regional donde habiten, en el marco de la cultura nacional, y
 
-V.Garantizar el goce de sus derechos políticos, en iguales circunstancias que el hombre.
+V. Garantizar el goce de sus derechos políticos, en iguales circunstancias que el hombre.
 
 ###### ARTÍCULO 25.
 
@@ -315,49 +315,49 @@ El Ejecutivo del Estado, por conducto del Instituto de la Mujer en Yucatán, ela
 
 Los programas a que se refiere el artículo anterior, establecerán políticas, estrategias y acciones encaminadas a:
 
-I.Favorecer la incorporación efectiva de las mujeres al desarrollo del Estado en igualdad de circunstancias respecto a los hombres;
+I. Favorecer la incorporación efectiva de las mujeres al desarrollo del Estado en igualdad de circunstancias respecto a los hombres;
 
-II.Difundir los derechos de la mujer, a efecto de fomentar en la sociedad la cultura de equidad de género;
+II. Difundir los derechos de la mujer, a efecto de fomentar en la sociedad la cultura de equidad de género;
 
-III.Brindar atención a las mujeres que hubieren sido víctimas de alguna agresión;
+III. Brindar atención a las mujeres que hubieren sido víctimas de alguna agresión;
 
-IV.Eliminar imágenes estereotipadas de la mujer en los medios masivos de comunicación;
+IV. Eliminar imágenes estereotipadas de la mujer en los medios masivos de comunicación;
 
-V.Promover una distribución más equitativa de las responsabilidades familiares;
+V. Promover una distribución más equitativa de las responsabilidades familiares;
 
-VI.Garantizar el acceso y permanencia de la mujer en todos los niveles y modalidades del sistema educativo;
+VI. Garantizar el acceso y permanencia de la mujer en todos los niveles y modalidades del sistema educativo;
 
-VII.Garantizar el acceso de la mujer a los servicios integrales de atención a la salud tomando en cuenta sus características particulares;
+VII. Garantizar el acceso de la mujer a los servicios integrales de atención a la salud tomando en cuenta sus características particulares;
 
-VIII.Garantizar su acceso a las oportunidades de empleo y participación económica, y
+VIII. Garantizar su acceso a las oportunidades de empleo y participación económica, y
 
-IX.Combatir a la pobreza desde una perspectiva de género.
+IX. Combatir a la pobreza desde una perspectiva de género.
 
 ###### ARTÍCULO 27.
 
 Para la elaboración de los programas antes citados, se considerarán los siguientes principios:
 
-I.El desarrollo pleno de la sociedad sólo podrá alcanzarse en la medida que las mujeres cuenten con igualdad de condiciones que los hombres, que les permitan su desarrollo armónico en todos los ámbitos de la vida personal y comunitaria;
+I. El desarrollo pleno de la sociedad sólo podrá alcanzarse en la medida que las mujeres cuenten con igualdad de condiciones que los hombres, que les permitan su desarrollo armónico en todos los ámbitos de la vida personal y comunitaria;
 
-II.Es necesario impulsar la participación de las mujeres en actividades profesionales o laborales tradicionalmente no realizadas por este sector de la población;
+II. Es necesario impulsar la participación de las mujeres en actividades profesionales o laborales tradicionalmente no realizadas por este sector de la población;
 
-III.La incorporación de estrategias de difusión que tiendan a fomentar la cultura de igualdad de género, es primordial para fomentar el desarrollo integral de la mujer;
+III. La incorporación de estrategias de difusión que tiendan a fomentar la cultura de igualdad de género, es primordial para fomentar el desarrollo integral de la mujer;
 
-IV.Para que las estrategias tendientes a alcanzar la equidad de género, sean efectivas, es necesario la participación de la sociedad, y
+IV. Para que las estrategias tendientes a alcanzar la equidad de género, sean efectivas, es necesario la participación de la sociedad, y
 
-V.Se propiciará la superación personal de la mujer, se apoyará en esquemas adecuados a las necesidades de los diferentes núcleos de mujeres.
+V. Se propiciará la superación personal de la mujer, se apoyará en esquemas adecuados a las necesidades de los diferentes núcleos de mujeres.
 
 ###### ARTÍCULO 28.
 
 El Sistema para el Desarrollo Integral de la Familia, en coordinación con las instituciones de salud en el Estado, establecerán programas a través de los cuales se proporcione a las mujeres embarazadas, entre otros servicios, los siguientes:
 
-I.Entrenamiento a fin de preparar a la mujer embarazada para un parto en las mejores condiciones posibles;
+I. Entrenamiento a fin de preparar a la mujer embarazada para un parto en las mejores condiciones posibles;
 
-II.La asistencia psicológica y jurídica que se requiera en cada caso;
+II. La asistencia psicológica y jurídica que se requiera en cada caso;
 
-III.La asistencia médica y hospitalaria que se requiera antes, durante y después del parto, y
+III. La asistencia médica y hospitalaria que se requiera antes, durante y después del parto, y
 
-IV.Orientación especial en caso de embarazos no deseados, encaminada a proteger tanto los derechos de la madre como los del producto en los términos de la presente Ley.
+IV. Orientación especial en caso de embarazos no deseados, encaminada a proteger tanto los derechos de la madre como los del producto en los términos de la presente Ley.
 
 Dichos programas deberán, asimismo, ocuparse de buscar posibles adoptantes para los menores que se encuentren en la situación prevista en la fracción IV de este artículo si la madre renunciara expresamente a sus derechos de familia con relación al menor, en cuyo caso el menor será puesto de inmediato a disposición de la Procuraduría de la Defensa del Menor y la Familia.
 
@@ -385,11 +385,11 @@ El Estado, en todo tiempo promoverá y vigilará la observancia de los derechos 
 
 Todo menor gozará, en general, de los derechos contenidos en la Convención sobre los Derechos del Niño y, en particular, gozará del derecho a una vida digna y decorosa que comprenderá, además de los derechos establecidos en el artículo 20 de esta Ley, los siguientes:
 
-I.Una identidad, que incluye nacionalidad, nombre y filiación de conformidad con lo establecido por las leyes correspondientes, así como el derecho de conocer en todo tiempo la identidad de sus padres o, en su caso, de sus adoptantes con conocimiento pleno de esta última circunstancia;
+I. Una identidad, que incluye nacionalidad, nombre y filiación de conformidad con lo establecido por las leyes correspondientes, así como el derecho de conocer en todo tiempo la identidad de sus padres o, en su caso, de sus adoptantes con conocimiento pleno de esta última circunstancia;
 
-II.Una educación que desarrolle íntegramente su personalidad, en los términos que establecen las leyes relativas, y
+II. Una educación que desarrolle íntegramente su personalidad, en los términos que establecen las leyes relativas, y
 
-III.El derecho a desarrollar sus capacidades, atendiendo al interés superior del infante.
+III. El derecho a desarrollar sus capacidades, atendiendo al interés superior del infante.
 
 ###### ARTÍCULO 34.
 
@@ -399,29 +399,29 @@ Toda persona que conozca de hechos que amenacen o vulneren los derechos de los m
 
 Son deberes de los menores:
 
-I.Respetar a sus padres, tutores y familiares, así como a las autoridades e instituciones del Estado;
+I. Respetar a sus padres, tutores y familiares, así como a las autoridades e instituciones del Estado;
 
-II.Cooperar responsablemente en las actividades realizadas en su grupo familiar;
+II. Cooperar responsablemente en las actividades realizadas en su grupo familiar;
 
-III.Colaborar con las instituciones en la realización de actividades que tengan como finalidad el mejoramiento de las condiciones de vida familiar y su comunidad, siempre de acuerdo con sus posibilidades y según sus circunstancias;
+III. Colaborar con las instituciones en la realización de actividades que tengan como finalidad el mejoramiento de las condiciones de vida familiar y su comunidad, siempre de acuerdo con sus posibilidades y según sus circunstancias;
 
-IV.Cumplir responsablemente con las actividades y tareas que les sean asignadas por los maestros de los centros de enseñanza a los que asista;
+IV. Cumplir responsablemente con las actividades y tareas que les sean asignadas por los maestros de los centros de enseñanza a los que asista;
 
-V.Cuidar y preservar su ambiente ecológico, y
+V. Cuidar y preservar su ambiente ecológico, y
 
-VI.Todas las demás que les sean indicadas por los padres o tutores que no afecten su dignidad, sus derechos ni su normal desarrollo y que coadyuven al orden público dentro y fuera del núcleo familiar.
+VI. Todas las demás que les sean indicadas por los padres o tutores que no afecten su dignidad, sus derechos ni su normal desarrollo y que coadyuven al orden público dentro y fuera del núcleo familiar.
 
 ###### ARTÍCULO 36.
 
 El menor será sujeto de la tutela pública en los casos siguientes:
 
-I.Cuando sea afectado por la violencia familiar;
+I. Cuando sea afectado por la violencia familiar;
 
-II.Cuando se trate de expósitos y abandonados;
+II. Cuando se trate de expósitos y abandonados;
 
-III.Cuando se trate de presuntos menores infractores o de menores infractores, y
+III. Cuando se trate de presuntos menores infractores o de menores infractores, y
 
-IV.En los demás casos que establezca la legislación aplicable.
+IV. En los demás casos que establezca la legislación aplicable.
 
 ###### ARTÍCULO 37.
 
@@ -431,13 +431,13 @@ En las acciones de protección y tutela públicas a que se refiere este capítul
 
 La tutela del poder público será ejercida:
 
-I.Por la Procuraduría, en los siguientes casos:
+I. Por la Procuraduría, en los siguientes casos:
 
 a). Cuando no se trate de presuntos menores infractores o de menores infractores, de acuerdo con la legislación aplicable, y
 
 b). Tratándose de presuntos menores infractores, mientras no sea resuelta la situación del menor sometido a procedimiento de acuerdo con la legislación aplicable.
 
-II.Por el Consejo Tutelar de Menores, tratándose de presuntos menores infractores o de menores infractores, desde que se resuelva la situación del menor hasta concluir el procedimiento o las medidas de tratamiento, de acuerdo con la legislación aplicable.
+II. Por el Consejo Tutelar de Menores, tratándose de presuntos menores infractores o de menores infractores, desde que se resuelva la situación del menor hasta concluir el procedimiento o las medidas de tratamiento, de acuerdo con la legislación aplicable.
 
 ###### ARTÍCULO 39.
 
@@ -463,9 +463,9 @@ Cualquier autoridad ante la que sea presentado un menor en los casos del artícu
 
 En los casos de divorcio, cuando se esté en la situación a que hacen referencia los artículos 191 y 192 del Código Civil del Estado, la autoridad judicial deberá tomar en cuenta el parecer de la Procuraduría antes de aprobar el convenio respectivo. Igualmente, si hubiere hijos menores en alguno de los casos de divorcio originados por alguna de las causas señaladas en el artículo 194 del Código Civil, se deberá oír el parecer de la Procuraduría antes de dictar:
 
-I.Las medidas provisionales previstas en el artículo 199 del Código Civil, y
+I. Las medidas provisionales previstas en el artículo 199 del Código Civil, y
 
-II.La sentencia definitiva.
+II. La sentencia definitiva.
 
 ###### ARTÍCULO 44.
 
@@ -477,23 +477,23 @@ El personal que realice tales visitas deberá presentar a la Procuraduría un in
 
 Los establecimientos a que hace referencia el artículo que antecede, deberán satisfacer, por lo menos, los siguientes requisitos:
 
-I.El personal encargado de dichos establecimientos vigilará y tomará las medidas pertinentes para asegurar a los menores a su cargo el goce efectivo de sus derechos;
+I. El personal encargado de dichos establecimientos vigilará y tomará las medidas pertinentes para asegurar a los menores a su cargo el goce efectivo de sus derechos;
 
-II.El establecimiento contará con las instalaciones físicas adecuadas y dispondrá de secciones especiales atendiendo a la edad, sexo, estado de salud y demás circunstancias de los menores que reciba. En ningún caso deberá recibirse a un menor en un establecimiento que no cuente con la sección que le corresponda;
+II. El establecimiento contará con las instalaciones físicas adecuadas y dispondrá de secciones especiales atendiendo a la edad, sexo, estado de salud y demás circunstancias de los menores que reciba. En ningún caso deberá recibirse a un menor en un establecimiento que no cuente con la sección que le corresponda;
 
-III.Deberá tenerse en cuenta y tomar las medidas necesarias para satisfacer la necesidad del menor de intimidad, de posibilidades de asociación con sus compañeros y de participación en actividades de esparcimiento;
+III. Deberá tenerse en cuenta y tomar las medidas necesarias para satisfacer la necesidad del menor de intimidad, de posibilidades de asociación con sus compañeros y de participación en actividades de esparcimiento;
 
-IV.Las instalaciones sanitarias deberán ser de un nivel adecuado y estar situadas de modo que el menor pueda satisfacer sus necesidades fisiológicas en la intimidad y en forma aseada y decente;
+IV. Las instalaciones sanitarias deberán ser de un nivel adecuado y estar situadas de modo que el menor pueda satisfacer sus necesidades fisiológicas en la intimidad y en forma aseada y decente;
 
-V.En dichos establecimientos deberá garantizarse que todo menor disponga de una alimentación adecuada;
+V. En dichos establecimientos deberá garantizarse que todo menor disponga de una alimentación adecuada;
 
-VI.Todo menor deberá disponer en todo momento de agua limpia y potable;
+VI. Todo menor deberá disponer en todo momento de agua limpia y potable;
 
-VII.El personal encargado de los establecimientos deberá permitir a los menores a su cargo la satisfacción de sus necesidades religiosas, recreativas, educativas y de atención médica en su caso;
+VII. El personal encargado de los establecimientos deberá permitir a los menores a su cargo la satisfacción de sus necesidades religiosas, recreativas, educativas y de atención médica en su caso;
 
-VIII.Todo menor tendrá derecho a recibir visitas regulares y frecuentes, en condiciones que respeten la necesidad de intimidad del menor, el contacto y la comunicación con la familia, siempre que éstas sean benéficas para el menor, y
+VIII. Todo menor tendrá derecho a recibir visitas regulares y frecuentes, en condiciones que respeten la necesidad de intimidad del menor, el contacto y la comunicación con la familia, siempre que éstas sean benéficas para el menor, y
 
-IX.Todo menor tendrá derecho a comunicarse por escrito o por teléfono, con la persona de su elección, siempre que sea benéfico para el menor, y deberá recibir la asistencia necesaria para que pueda ejercer eficazmente ese derecho.
+IX. Todo menor tendrá derecho a comunicarse por escrito o por teléfono, con la persona de su elección, siempre que sea benéfico para el menor, y deberá recibir la asistencia necesaria para que pueda ejercer eficazmente ese derecho.
 
 ###### ARTÍCULO 46.
 
@@ -541,11 +541,11 @@ En caso de negativa de las personas obligadas conforme al artículo anterior, la
 
 De no ser posible la reintegración del menor al núcleo familiar y habiendo resolución de la autoridad judicial competente sobre la pérdida de la patria potestad, custodia o tutela del menor, la Procuraduría podrá tomar, según lo que considere más conveniente para el menor, una de las medidas que se enuncian a continuación en orden de preferencia:
 
-I.Solicitar a la autoridad judicial que ordene la integración del menor al hogar de la persona que deba sustituir a aquel que ha perdido la patria potestad en el ejercicio de la misma;
+I. Solicitar a la autoridad judicial que ordene la integración del menor al hogar de la persona que deba sustituir a aquel que ha perdido la patria potestad en el ejercicio de la misma;
 
-II.Solicitar a la autoridad judicial que ordene la integración del menor al hogar de la persona que deba ejercer la tutela legítima sobre el menor, o
+II. Solicitar a la autoridad judicial que ordene la integración del menor al hogar de la persona que deba ejercer la tutela legítima sobre el menor, o
 
-III.Localizar a la persona que, de conformidad con esta Ley y con la legislación civil del Estado, reúna las condiciones idóneas para adoptar y que desee hacerlo y, de ser procedente, solicitar, necesariamente al Ministerio Público, el consentimiento a que se refiere el artículo 316 del Código Civil del Estado y canalizar a los adoptantes hacia la Oficialía del Registro Civil que corresponda.
+III. Localizar a la persona que, de conformidad con esta Ley y con la legislación civil del Estado, reúna las condiciones idóneas para adoptar y que desee hacerlo y, de ser procedente, solicitar, necesariamente al Ministerio Público, el consentimiento a que se refiere el artículo 316 del Código Civil del Estado y canalizar a los adoptantes hacia la Oficialía del Registro Civil que corresponda.
 
 ###### ARTÍCULO 57.
 
@@ -569,15 +569,15 @@ Inmediatamente que la Procuraduría conozca del asunto hará del conocimiento de
 
 Se exceptúan de lo dispuesto en los artículos anteriores, los casos en que mediante custodia otorgada por quienes ejercen la patria potestad, se entreguen menores a instituciones o particulares para su cuidado temporal; para ello, las instituciones que tengan bajo su custodia menores llevarán un registro de los que tengan bajo su cuidado, en donde aparezcan:
 
-I.Nombre, datos de identificación y estado de salud del menor;
+I. Nombre, datos de identificación y estado de salud del menor;
 
-II.Motivo y fecha de admisión;
+II. Motivo y fecha de admisión;
 
-III.Motivo y fecha de salida;
+III. Motivo y fecha de salida;
 
-IV.Nombre y domicilio de la persona que hace entrega, y
+IV. Nombre y domicilio de la persona que hace entrega, y
 
-V.Nombre y domicilio de quienes ejercen la patria potestad o tutela.
+V. Nombre y domicilio de quienes ejercen la patria potestad o tutela.
 
 ###### ARTÍCULO 62.
 
@@ -585,17 +585,13 @@ Las instituciones mencionadas en el artículo anterior informarán a la Procurad
 
 Para un adecuado control la Procuraduría deberá integrar y mantener actualizado el registro de los menores que se encuentren en estas condiciones.
 
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE YUCATÁN, D.O. 3 DE NOVIEMBRE DE 2014)</small>
+
 ### CAPÍTULO V. DE LAS PERSONAS EN EDAD SENESCENTE O CON DISCAPACIDAD
 
 ###### ARTÍCULO 63.
 
-Las personas en edad senescente o con discapacidad gozarán de los derechos y de los beneficios establecidos en esta Ley, ajustándose a lo que dispongan de manera específica los ordenamientos legales que correspondan así como:
-
-I.Recibir un trato digno, sin ningún tipo de discriminación que se sustente en la edad o en su condición física;
-
-II.Tener acceso a la justicia pronta, oportuna y expedita, así como asesoría adecuada para tal fin, y
-
-III.Disfrutar de las actividades culturales y sociales que de manera específica organice el Ejecutivo del Estado, a través del Sistema Estatal para el Desarrollo Integral de la Familia.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE YUCATÁN, D.O. 3 DE NOVIEMBRE DE 2014)
 
 ### CAPITULO VI. DE LA ASISTENCIA SOCIAL Y PRIVADA
 
@@ -609,23 +605,23 @@ Los patronatos, asociaciones y fundaciones a que se refiere el presente capítul
 
 La asistencia a que se refiere el artículo anterior tiene por objeto:
 
-I.Orientación a los padres de familia o tutores y maestros, en asuntos de carácter familiar;
+I. Orientación a los padres de familia o tutores y maestros, en asuntos de carácter familiar;
 
-II.Guarda de personas en los centros de asistencia habilitados para ello;
+II. Guarda de personas en los centros de asistencia habilitados para ello;
 
-III.Realización de actos o eventos que formen en los integrantes de la familia, inclinaciones educativas, deportivas, artísticas o culturales;
+III. Realización de actos o eventos que formen en los integrantes de la familia, inclinaciones educativas, deportivas, artísticas o culturales;
 
-IV.Realización de actividades de promoción de los derechos de los miembros de la familia;
+IV. Realización de actividades de promoción de los derechos de los miembros de la familia;
 
-V.Formación y mantenimiento de talleres de artes, oficios, habilidades o destrezas;
+V. Formación y mantenimiento de talleres de artes, oficios, habilidades o destrezas;
 
-VI.Recaudación de fondos para el mejoramiento de los talleres;
+VI. Recaudación de fondos para el mejoramiento de los talleres;
 
-VII.Constituir bolsas de trabajo exclusivamente para la ocupación de personas en condiciones desfavorables;
+VII. Constituir bolsas de trabajo exclusivamente para la ocupación de personas en condiciones desfavorables;
 
-VIII.Proporcionar auxilio material y moral a las víctimas, en los casos de violencia familiar, y
+VIII. Proporcionar auxilio material y moral a las víctimas, en los casos de violencia familiar, y
 
-IX.Todas las demás en beneficio de la familia que no interfieran en las que competan exclusivamente a las instituciones públicas encargadas de la aplicación de esta Ley y demás ordenamientos legales aplicables.
+IX. Todas las demás en beneficio de la familia que no interfieran en las que competan exclusivamente a las instituciones públicas encargadas de la aplicación de esta Ley y demás ordenamientos legales aplicables.
 
 ###### ARTÍCULO 66.
 
@@ -641,9 +637,9 @@ Las instituciones a que se refiere este capítulo deberán coordinarse con el Si
 
 Las partes en un conflicto familiar podrán resolver sus diferencias mediante los procedimientos:
 
-I.De conciliación, y
+I. De conciliación, y
 
-II.De arbitraje.
+II. De arbitraje.
 
 Quedan exceptuadas aquellas controversias que versen sobre el derecho a alimentos o delitos que se persigan de oficio.
 
@@ -667,13 +663,13 @@ De no verificarse el supuesto anterior, la Procuraduría procederá, una vez que
 
 El procedimiento de arbitraje a que hace alusión el artículo anterior, se verificará de la siguiente forma:
 
-I.Se iniciará con la comparecencia de ambas partes o con la presentación de la constancia administrativa a que hace referencia el artículo 83, fracción I, de esta Ley, por alguna de las partes en conflicto, que contendrá los datos generales y la relación sucinta de los hechos, así como la aceptación expresa de someterse al procedimiento;
+I. Se iniciará con la comparecencia de ambas partes o con la presentación de la constancia administrativa a que hace referencia el artículo 83, fracción I, de esta Ley, por alguna de las partes en conflicto, que contendrá los datos generales y la relación sucinta de los hechos, así como la aceptación expresa de someterse al procedimiento;
 
-II.Las partes en dicha comparecencia ofrecerán las pruebas que a su derecho convenga a excepción de la confesional, pudiendo allegarse la Procuraduría de todos los medios de prueba que estén reconocidos legalmente, que le permitan emitir su resolución, aplicándose supletoriamente el Código de Procedimientos Civiles del Estado;
+II. Las partes en dicha comparecencia ofrecerán las pruebas que a su derecho convenga a excepción de la confesional, pudiendo allegarse la Procuraduría de todos los medios de prueba que estén reconocidos legalmente, que le permitan emitir su resolución, aplicándose supletoriamente el Código de Procedimientos Civiles del Estado;
 
-III.Las partes contarán con un plazo de cinco días hábiles, contados a partir de la fecha de la comparecencia, para desahogar las pruebas que hayan ofrecido, y
+III. Las partes contarán con un plazo de cinco días hábiles, contados a partir de la fecha de la comparecencia, para desahogar las pruebas que hayan ofrecido, y
 
-IV.Una vez admitidas y desahogadas las pruebas, se recibirán los alegatos verbales de las partes, dentro de un plazo máximo de cinco días, quedando asentados en autos, procediendo la Procuraduría a emitir su resolución dentro de los tres días hábiles siguientes.
+IV. Una vez admitidas y desahogadas las pruebas, se recibirán los alegatos verbales de las partes, dentro de un plazo máximo de cinco días, quedando asentados en autos, procediendo la Procuraduría a emitir su resolución dentro de los tres días hábiles siguientes.
 
 En cualquier momento del procedimiento de arbitraje, las partes podrán llegar a un acuerdo de amigable composición y dar por concluido el conflicto en los términos de esta Ley.
 
@@ -695,29 +691,29 @@ Para los efectos de esta Ley, se entiende por violencia familiar el uso de la fu
 
 En materia de prevención de violencia familiar, corresponden al Sistema Estatal para el Desarrollo Integral de la Familia las siguientes funciones:
 
-I.Brindar asistencia social mediante personal especializado en la materia, en los sitios diversos donde exista violencia familiar, para combatirla;
+I. Brindar asistencia social mediante personal especializado en la materia, en los sitios diversos donde exista violencia familiar, para combatirla;
 
-II.Fomentar, en coordinación con las instancias competentes, la instalación de centros de atención inmediata a aquellas personas que estén siendo o hayan sido afectadas por la violencia familiar;
+II. Fomentar, en coordinación con las instancias competentes, la instalación de centros de atención inmediata a aquellas personas que estén siendo o hayan sido afectadas por la violencia familiar;
 
-III.Promover, con las instancias competentes, programas educativos para la prevención de la violencia familiar;
+III. Promover, con las instancias competentes, programas educativos para la prevención de la violencia familiar;
 
-IV.Sensibilizar y concientizar a los usuarios de las instituciones de salud públicas y privadas sobre violencia familiar, así como propocionarles, formación y capacitación para prevenirla;
+IV. Sensibilizar y concientizar a los usuarios de las instituciones de salud públicas y privadas sobre violencia familiar, así como propocionarles (sic), formación y capacitación para prevenirla;
 
-V.Promover acciones y programas de protección social a las personas afectadas por la violencia familiar;
+V. Promover acciones y programas de protección social a las personas afectadas por la violencia familiar;
 
-VI.Fomentar, en coordinación con los organismos competentes, campañas públicas encaminadas a sensibilizar y formar conciencia en la población sobre las formas en que se expresa y se puede prevenir y combatir la violencia familiar;
+VI. Fomentar, en coordinación con los organismos competentes, campañas públicas encaminadas a sensibilizar y formar conciencia en la población sobre las formas en que se expresa y se puede prevenir y combatir la violencia familiar;
 
-VII.Establecer las bases para el sistema de registro de la información estadística en el Estado de Yucatán sobre violencia familiar;
+VII. Establecer las bases para el sistema de registro de la información estadística en el Estado de Yucatán sobre violencia familiar;
 
-VIII.Encargarse del establecimiento y funcionamiento del Registro de Instituciones en Materia de Prevención de la Violencia Familiar en el Estado de Yucatán;
+VIII. Encargarse del establecimiento y funcionamiento del Registro de Instituciones en Materia de Prevención de la Violencia Familiar en el Estado de Yucatán;
 
-IX.Promover la incorporación de las acciones y estadísticas que realicen las organizaciones sociales, al Registro de Información en el Estado de Yucatán sobre Violencia Familiar;
+IX. Promover la incorporación de las acciones y estadísticas que realicen las organizaciones sociales, al Registro de Información en el Estado de Yucatán sobre Violencia Familiar;
 
-X.Promover programas de intervención temprana en comunidades con rezago social o cultural para prevenir, desde donde se genere, la violencia familiar, incorporando a la población en la operación de dichos programas;
+X. Promover programas de intervención temprana en comunidades con rezago social o cultural para prevenir, desde donde se genere, la violencia familiar, incorporando a la población en la operación de dichos programas;
 
-XI.Impulsar la formación de promotores comunitarios cuya función básica será estimular los programas de prevención de la violencia familiar, y
+XI. Impulsar la formación de promotores comunitarios cuya función básica será estimular los programas de prevención de la violencia familiar, y
 
-XII.Fomentar, en coordinación con instituciones especiales públicas, privadas y sociales, la realización de investigaciones sobre el fenómeno de la violencia familiar, cuyos resultados servirán para diseñar nuevos modelos para la prevención y atención de la violencia familiar.
+XII. Fomentar, en coordinación con instituciones especiales públicas, privadas y sociales, la realización de investigaciones sobre el fenómeno de la violencia familiar, cuyos resultados servirán para diseñar nuevos modelos para la prevención y atención de la violencia familiar.
 
 ### CAPÍTULO III. DE LAS UNIDADES DE ASISTENCIA FAMILIAR
 
@@ -761,35 +757,35 @@ La asistencia jurídica que se proporcione protegerá los derechos de los recept
 
 Las Unidades de Asistencia Familiar deberán:
 
-I.Expedir y conservar constancias administrativas de aquellos actos que de conformidad con la presente Ley, se consideren violencia familiar y que sean hechos de su conocimiento, y remitirlas a la Procuraduría;
+I. Expedir y conservar constancias administrativas de aquellos actos que de conformidad con la presente Ley, se consideren violencia familiar y que sean hechos de su conocimiento, y remitirlas a la Procuraduría;
 
-II.Citar a los involucrados y reincidentes en actos de violencia familiar a efecto de que se apliquen las medidas asistenciales que erradiquen dicha violencia;
+II. Citar a los involucrados y reincidentes en actos de violencia familiar a efecto de que se apliquen las medidas asistenciales que erradiquen dicha violencia;
 
-III.Atender las solicitudes de las personas que tengan conocimiento de la violencia familiar;
+III. Atender las solicitudes de las personas que tengan conocimiento de la violencia familiar;
 
-IV.Proporcionar psicoterapia especializada gratuita, en coordinación con las instituciones autorizadas, a los receptores de la violencia familiar que sean maltratados, así como a los agresores o familiares involucrados, dentro de una atención psicológica y jurídica, y
+IV. Proporcionar psicoterapia especializada gratuita, en coordinación con las instituciones autorizadas, a los receptores de la violencia familiar que sean maltratados, así como a los agresores o familiares involucrados, dentro de una atención psicológica y jurídica, y
 
-V.Elaborar convenios entre las partes involucradas cuando así lo soliciten, y vigilar su cumplimiento.
+V. Elaborar convenios entre las partes involucradas cuando así lo soliciten, y vigilar su cumplimiento.
 
 ###### ARTÍCULO 84.
 
 El Sistema Estatal para el Desarrollo Integral de la Familia deberá:
 
-I.Coadyuvar a la difusión del contenido y alcances de la presente Ley;
+I. Coadyuvar a la difusión del contenido y alcances de la presente Ley;
 
-II.Promover la capacitación y sensibilización de los defensores y personal profesional auxiliar, que presten sus servicios en la Defensoría de Oficio, a efecto de mejorar la atención de los receptores de la violencia familiar que requieran la intervención de dicha defensoría, y
+II. Promover la capacitación y sensibilización de los defensores y personal profesional auxiliar, que presten sus servicios en la Defensoría de Oficio, a efecto de mejorar la atención de los receptores de la violencia familiar que requieran la intervención de dicha defensoría, y
 
-III.Emitir los lineamientos técnicos a que se sujetará el procedimiento a que alude el Capítulo VI del Título Tercero de esta Ley.
+III. Emitir los lineamientos técnicos a que se sujetará el procedimiento a que alude el Capítulo VI del Título Tercero de esta Ley.
 
 ###### ARTÍCULO 85.
 
-La Procuraduría podrá solicitar al Ministerio Público que :
+La Procuraduría podrá solicitar al Ministerio Público que:
 
-I.Le sean canalizadas todas aquellas personas afectadas por la violencia familiar y a las que la generen para los efectos del procedimiento que le confiere esta Ley, cuando no exista ilícito penal;
+I. Le sean canalizadas todas aquellas personas afectadas por la violencia familiar y a las que la generen para los efectos del procedimiento que le confiere esta Ley, cuando no exista ilícito penal;
 
-II.Requiera a la autoridad competente la certificación de las lesiones y del daño psíquico y emocional que sea causado como consecuencia de actos de violencia familiar, y
+II. Requiera a la autoridad competente la certificación de las lesiones y del daño psíquico y emocional que sea causado como consecuencia de actos de violencia familiar, y
 
-III.Pida al órgano jurisdiccional competente que dicte las medidas correspondientes a fin de proteger a las personas afectadas por la violencia familiar.
+III. Pida al órgano jurisdiccional competente que dicte las medidas correspondientes a fin de proteger a las personas afectadas por la violencia familiar.
 
 ###### ARTÍCULO 86.
 
@@ -811,17 +807,17 @@ En los casos que con motivo de actos de violencia familiar, se hubieren cometido
 
 El Sistema Estatal para el Desarrollo Integral de la Familia establecerá y se encargará del funcionamiento del Registro de Instituciones en Materia de Violencia Familiar, el cual contendrá:
 
-I.Los datos generales del instrumento de creación de la institución u organización correspondiente;
+I. Los datos generales del instrumento de creación de la institución u organización correspondiente;
 
-II.Los nombres y tipo de especialización de las personas responsables de prestar los servicios;
+II. Los nombres y tipo de especialización de las personas responsables de prestar los servicios;
 
-III.Las estadísticas respecto al número de casos y personas atendidas;
+III. Las estadísticas respecto al número de casos y personas atendidas;
 
-IV.El programa de trabajo, especificando el tipo de servicios que se proporcionan;
+IV. El programa de trabajo, especificando el tipo de servicios que se proporcionan;
 
-V.El modelo de atención y plan terapéutico, y
+V. El modelo de atención y plan terapéutico, y
 
-VI.La infraestructura física, técnica y administrativa.
+VI. La infraestructura física, técnica y administrativa.
 
 ## TÍTULO QUINTO. DE LAS SANCIONES Y MEDIOS DE IMPUGNACIÓN
 
@@ -831,11 +827,11 @@ VI.La infraestructura física, técnica y administrativa.
 
 La Procuraduría, podrá sancionar las infracciones a esta Ley de conformidad con lo siguiente:
 
-I.Amonestación por escrito;
+I. Amonestación por escrito;
 
-II.Multa de tres a cincuenta veces el salario mínimo general vigente en el lugar al momento de realizarse las infracciones, y
+II. Multa de tres a cincuenta veces el salario mínimo general vigente en el lugar al momento de realizarse las infracciones, y
 
-III.Arresto inconmutable hasta por treinta y seis horas, en los casos de reincidencia.
+III. Arresto inconmutable hasta por treinta y seis horas, en los casos de reincidencia.
 
 ###### ARTÍCULO 91.
 
@@ -845,21 +841,21 @@ Para que pueda ser aplicada una sanción de las señaladas en el artículo anter
 
 Se consideran infracciones a la presente Ley:
 
-I.La violación de los derechos de los integrantes de la familia a que hace referencia esta Ley;
+I. La violación de los derechos de los integrantes de la familia a que hace referencia esta Ley;
 
-II.Tratándose de particulares, realizar alguna de las actividades a que hace referencia esta Ley, sin el registro correspondiente o contraviniendo una o varias de las disposiciones contenidas en esta Ley;
+II. Tratándose de particulares, realizar alguna de las actividades a que hace referencia esta Ley, sin el registro correspondiente o contraviniendo una o varias de las disposiciones contenidas en esta Ley;
 
-III.El no asistir sin causa justificada a los citatorios que se señalan en el artículo 83 fracción II de esta Ley, o a los que emita la Procuraduría con motivo de sus funciones;
+III. El no asistir sin causa justificada a los citatorios que se señalan en el artículo 83 fracción II de esta Ley, o a los que emita la Procuraduría con motivo de sus funciones;
 
-IV.El incumplimiento del convenio derivado del procedimiento de conciliación;
+IV. El incumplimiento del convenio derivado del procedimiento de conciliación;
 
-V.El incumplimiento de la resolución dictada en el procedimiento de arbitraje al que se sometieron las partes de común acuerdo;
+V. El incumplimiento de la resolución dictada en el procedimiento de arbitraje al que se sometieron las partes de común acuerdo;
 
-VI.Los actos de violencia familiar señalados en el artículo 74 de esta Ley, que no estén previstos como delito por otros ordenamientos;
+VI. Los actos de violencia familiar señalados en el artículo 74 de esta Ley, que no estén previstos como delito por otros ordenamientos;
 
-VII.No hacer del conocimiento de la Procuraduría los casos de menores que deban ser sujetos de la tutela pública, y
+VII. No hacer del conocimiento de la Procuraduría los casos de menores que deban ser sujetos de la tutela pública, y
 
-VIII.En general, la contravención de cualquier disposición contenida en esta Ley.
+VIII. En general, la contravención de cualquier disposición contenida en esta Ley.
 
 Las infracciones señaladas en este artículo serán sancionadas con amonestación por escrito, además de la multa que corresponda de acuerdo con lo que dispone el párrafo siguiente:
 
@@ -896,3 +892,35 @@ C. VÍCTOR MANUEL CERVERA PACHECO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ABOG. R. CLEOMINIO ZOREDA NOVELO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 3 DE NOVIEMBRE DE 2014.
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Abrogación
+
+A partir de la entrada en vigor de este decreto, quedará abrogada la Ley Para la Protección Social de las Personas en Edad Senescente del Estado de Yucatán, promulgada mediante Decreto 214 del Poder Ejecutivo y publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el 16 de agosto de 1999.
+
+Tercero. Derogación de la Ley para la Protección de la Familia del Estado de Yucatán
+
+A partir de la entrada en vigor de este decreto, quedará derogado el Capítulo V denominado de las personas en edad senescente o con discapacidad, así como el artículo 63 a que se refiere la Ley para la Protección de la Familia del Estado de Yucatán.
+
+Cuarto. Instalación del consejo
+
+El Consejo Estatal para la Protección y Atención Integral de los Derechos de los Adultos Mayores deberá instalarse dentro de los noventa días naturales siguientes contados a partir de la entrada en vigor de ese decreto.
+
+Quinto. Expedición de la convocatoria
+
+El Presidente del Consejo Estatal para la Protección y Atención Integral de los Derechos de los Adultos Mayores, para los efectos de lo dispuesto en el artículo transitorio anterior, deberá expedir la convocatoria para la designación de los representantes a que se refiere el artículo 18, dentro de los treinta días naturales contados a partir de la entrada en vigor de este decreto.
+
+Sexto. Reglamento interno
+
+El Consejo Estatal para la Protección y Atención Integral de los Derechos de los Adultos Mayores deberá aprobar su reglamento interno en un plazo de noventa días contados a partir de la fecha de su instalación.
+
+Séptimo. Derogación tácita
+
+Se derogan todas las disposiciones legales y normativas de igual o menor jerarquía que se opongan al contenido de este decreto.
