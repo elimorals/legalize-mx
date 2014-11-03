@@ -4,7 +4,7 @@ identifier: "SON-ley-de-transito-del-estado-de-sonora-8409"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-27"
-last_updated: "2013-12-19"
+last_updated: "2014-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8409&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE TRÁNSITO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 19 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 27 de febrero de 1984.
 
@@ -39,7 +39,7 @@ LEY DE TRANSITO DEL ESTADO DE SONORA.
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 3 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 3 DE SEPTIEMBRE DE 1987)</small>
 
 ### CAPITULO I. DE LAS DISPOSICIONES GENERALES
 
@@ -105,7 +105,7 @@ II.- Aprobar, con sujeción a la presente Ley, los reglamentos, las circulares y
 
 > <small>(REFORMADA, B.O. 3 DE SEPTIEMBRE DE 1987)</small>
 
-III.- Emitir los manuales de organización, de procedimientos y de servicios al público de las Policías de Tránsito Municipales;
+III.- Emitir los manuales de organización, de procedimientos y de servicios al público de los Policías de Tránsito Municipales;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -207,7 +207,7 @@ VII.- AGENTE DE TRANSITO.
 
 Todo lo relativo a uniformes, insignias, divisas, manifestación, posesión y portación de armas, deberes y prohibiciones que, para los integrantes de las Policías Preventivas, señala la Ley de Seguridad Pública para el Estado de Sonora, será aplicable para los integrantes de las Policías de Tránsito Municipales.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 8 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 9o.
 
@@ -409,7 +409,7 @@ III.- Tomar curso teórico-vial impartido por las autoridades de tránsito compe
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-IV.- Aprobar las evaluaciones teóricas y prácticas establecidas por el personal autorizado del departamento de tránsito en el que demuestre su pericia en el manejo de estos vehículos y que no tiene impedimento físico o mental; (sic)
+IV.- Aprobar las evaluaciones teóricas y prácticas establecidas por el personal autorizado del departamento de tránsito en el que demuestre su pericia en el manejo de estos vehículos y que no tiene impedimento físico o mental;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1555,7 +1555,7 @@ Queda prohibido realizar estas maniobras en las bocacalles.
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-#### SECCIÓN IlI. CONDUCCIÓN DE BICICLETAS
+#### SECCIÓN III. CONDUCCIÓN DE BICICLETAS
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2347,7 +2347,7 @@ Indican los caminos según el número que les haya sido asignado. Tienen forma d
 
 d) (sic) De destino.
 
-Indican las vías que pueden seguirse para llevar a determinados lugares y en algunos casos las distancias a que éstos se encuentran. Son de forma rectangular con su mayor dimensión, horizontal de color blanco, con caracteres, símbolos y filetes negros. A excepción de las elevadas que son verdes con caracteres, símbolos y filetes blancos.
+Indican las vías que pueden seguirse para llevar a determinados lugares y en algunos casos las distancias a que estos se encuentran. Son de forma rectangular con su mayor dimensión, horizontal de color blanco, con caracteres, símbolos y filetes negros. A excepción de las elevadas que son verdes con caracteres, símbolos y filetes blancos.
 
 c) De servicio.
 
@@ -2783,7 +2783,27 @@ Cuando un vehículo de transporte público de pasaje colectivo por alguna razón
 
 Los vehículos destinados al servicio particular para el transporte colectivo de personas o de carga, deberán ostentar en las portezuelas el número de permiso, la razón social y la palabra "PARTICULAR" o cualquier otra que denote que no es para servicio público.
 
-#### SECCION I. DISPOSICIONES GENERALES
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, B.O. 3 DE NOVIEMBRE DE 2014)</small>
+
+#### SECCION XI. DISPOSITIVOS PREVENTIVOS DE ALCOHOLEMIA
+
+> <small>(ADICIONADO, B.O. 3 DE NOVIEMBRE DE 2014)</small>
+
+ARTICULO 213 BIS.- Los Municipios que implementen operativos de alcoholimetría para determinar el grado de alcoholemia de conductores de vehículos deberán cumplir, como mínimo, con los siguientes requisitos:
+
+I.- Establecerse en lugares de máxima visibilidad y seguridad adecuada para los conductores y el personal de los operativos;
+
+II.- Contar con iluminación necesaria para mantener la seguridad para los conductores y para el personal de los operativos;
+
+III.- Contar con un área de acercamiento inicial o primer contacto;
+
+IV.- Contar con un área de prueba de alcoholimetría;
+
+V.- Contar con la presencia por lo menos de un médico legista y un juez calificador autorizado por el ayuntamiento, así como personal de Organizaciones de la Sociedad Civil y de personal autorizado por la Comisión Estatal de los Derechos Humanos;
+
+VI.- Se deberá imprimir el resultado de la prueba de alcoholemia; y
+
+VII.- Contar con todos los recursos materiales establecidos en el Programa Nacional del (sic) Alcoholimetría.
 
 ### CAPITULO VIII. DE LOS ACCIDENTES
 
@@ -2825,11 +2845,13 @@ La falta de licencia hace presumir la impericia del conductor, en caso de un acc
 
 ###### ARTICULO 221.
 
-Los Agentes de Tránsito actuarán en los términos del Artículo 223 de la presente Ley al darse cuanta o tomar conocimiento de un accidente.
+Los Agentes de Tránsito actuarán en los términos del Artículo 223 de la presente Ley al darse cuenta o tomar conocimiento de un accidente.
 
 ## TITULO TERCERO. SANCIONES Y RECURSOS
 
 ### CAPITULO I. SANCIONES
+
+#### SECCION I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 222.
 
@@ -3025,7 +3047,7 @@ d) Por no presentar los vehículos para la verificación de emisiones contaminan
 
 En los casos en que se compruebe que el vehículo no aprobó el examen de verificación de emisiones contaminantes, y no ha sido presentado a segunda verificación en el plazo que se le haya concedido, en lugar de la multa señalada en el primer párrafo de este artículo, se impondrá una multa equivalente a veinticuatro veces el salario mínimo diario vigente en la cabecera del Municipio que se trate.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 8 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 232.
 
@@ -3045,7 +3067,7 @@ e) Por prestar el servicio público de pasaje fuera de la ruta o del horario aut
 
 f) Por hacer terminal sobre la vía pública o en lugares no autorizados a los vehículos de servicio público de pasaje.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 8 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 233.
 
@@ -3057,7 +3079,7 @@ b) Por causar daños a la vía pública o bienes del Estado o del Municipio, con
 
 c) Por falta de permiso para circular con equipo especial movible.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 8 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 234.
 
@@ -3087,7 +3109,7 @@ k) Por no realizar la limpieza, tanto interior como exterior de vehículos de se
 
 l) Por efectuar reparaciones que no sean de urgencia, así como lavados de vehículos en las vías públicas.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 8 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 235.
 
@@ -3125,7 +3147,7 @@ k) Por circular los vehículos de servicio público de pasaje:
 
 2.- Falta de identificación del tipo de servicio que se presta y cuando proceda el nombre de la ruta.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 8 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 236.
 
@@ -3191,7 +3213,7 @@ v) Circular careciendo de tarjeta de circulación o con una que no corresponda a
 
 w) Por dejar niños menores de 8 años de edad o animales, sin supervisión adulta al estacionarse.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 8 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 237.
 
@@ -3325,7 +3347,7 @@ EL SECRETARIO DE GOBIERNO,
 
 Lic. Carlos Gámez Fimbres.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 26 DE DICIEMBRE DE 1986.
 
@@ -3436,3 +3458,9 @@ Para efectos del artículo 312, numeral 1, inciso b de la Ley de Hacienda del Es
 ###### ARTÍCULO CUARTO.
 
 Para efectos de la reforma al artículo 42 de la Ley de Tránsito para el Estado de Sonora, los propietarios de los vehículos deberán reponer las placas de circulación en el año 2014 sin costo.
+
+B.O. 3 DE NOVIEMBRE DE 2014.
+
+###### ARTICULO ÚNICO.
+
+El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
