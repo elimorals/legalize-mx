@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-6-2009-del-pleno-del-consejo-de-la-67773"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-03-30"
-last_updated: "2014-09-17"
+last_updated: "2014-11-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67773&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-02-18"
 
 ACUERDO GENERAL 6/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS BASES PARA QUE LAS ADQUISICIONES, ARRENDAMIENTO DE BIENES MUEBLES, PRESTACIÓN DE SERVICIOS, OBRA PÚBLICA Y LOS SERVICIOS RELACIONADOS CON LA MISMA, SE AJUSTEN A LOS CRITERIOS CONTEMPLADOS EN EL ARTÍCULO 134 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE NOVIEMBRE DE 2014.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 30 de marzo de 2009.
 
@@ -2593,7 +2593,7 @@ Una vez elaborado el finiquito de los trabajos, el Consejo dará por concluido e
 
 ###### ARTICULO 148.
 
-NOTIFICACION DE LA REALIZACION DEL FINIQUITO. El área operativa competente deberá notificar al contratista o proveedor y, en su caso, al Director Responsable de Obra y al Supervisor Externo, tratándose de supervisión externa, la fecha, lugar y hora en que se llevará a cabo el finiquito, el que deberá realizarse dentro de un plazo de sesenta días naturales contados a partir de la fecha en que se realice la recepción física de los trabajos, bienes o servicios. Los contratistas o proveedores, Director Responsable de Obra y Supervisor Externo, en su caso, tendrán la obligación de acudir al llamado que se les haga por escrito; de no hacerlo, se les comunicará el resultado conforme lo establece el tercer párrafo del artículo 144 de de este Acuerdo.
+NOTIFICACION DE LA REALIZACION DEL FINIQUITO. El área operativa competente deberá notificar al contratista o proveedor y, en su caso, al Director Responsable de Obra y al Supervisor Externo, tratándose de supervisión externa, la fecha, lugar y hora en que se llevará a cabo el finiquito, el que deberá realizarse dentro de un plazo de sesenta días naturales contados a partir de la fecha en que se realice la recepción física de los trabajos, bienes o servicios. Los contratistas o proveedores, Director Responsable de Obra y Supervisor Externo, en su caso, tendrán la obligación de acudir al llamado que se les haga por escrito; de no hacerlo, se les comunicará el resultado conforme lo establece el tercer párrafo del artículo 144 de de (sic) este Acuerdo.
 
 ###### ARTICULO 149.
 
@@ -2695,23 +2695,35 @@ PENA CONVENCIONAL. El incumplimiento de cualquiera de las obligaciones adquirida
 
 En caso de incumplimiento parcial, la pena se ajustará proporcionalmente al porcentaje incumplido.
 
-> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
-
-###### ARTICULO 157.
-
-PENA CONVENCIONAL POR ATRASO. En el caso de que no se otorgue prórroga al proveedor o contratista respecto al cumplimiento de los plazos establecidos en el contrato por causas imputables a él, se aplicará una pena convencional por atraso en la entrega de los bienes, prestación de los servicios o trabajos, equivalente al monto que resulte de aplicar el diez al millar diario a la cantidad que importen los bienes pendientes de entrega, los servicios no prestados y/o trabajos.
-
-En determinados servicios o trabajos en que su prestación se requiera bajo condiciones especiales para el Consejo, el Comité podrá autorizar que en las bases y en los pedidos o contratos, se establezca una pena convencional bajo criterios diferentes a los señalados en el párrafo precedente, que invariablemente deberá ser proporcional al incumplimiento o retraso en la ejecución de tales servicios.
-
-El importe que resulte de la pena por atraso se descontará del pago que se le deba al proveedor o contratista.
-
-En materia de obra pública las penas serán determinadas en función del importe de los trabajos que no se hayan ejecutado o prestado oportunamente, conforme al programa de ejecución general, aun en el caso de los contratos a precio alzado, y se aplicarán en los de precios unitarios o en su parte del mixto considerando los ajustes de costos, sin aplicar el Impuesto al Valor Agregado.
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 35/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE NOVIEMBRE DE 2014)</small>
 
 Las penas convencionales en ningún caso podrán ser superiores, en su conjunto, al monto de la garantía de cumplimiento.
 
-En caso de rescisión del contrato por causas imputables al contratista, una vez emitida la determinación respectiva, el Consejo desde el inicio de la misma, se abstendrá de cubrir los importes resultantes de trabajos ejecutados aún no liquidados, hasta que se otorgue el finiquito en el plazo que conforme al contrato proceda. En el finiquito deberá preverse el sobrecosto de los trabajos aún no ejecutados que se encuentren atrasados conforme al programa vigente, así como lo relativo a la recuperación de los materiales y equipos que, en su caso, hayan sido entregados.
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 35/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE NOVIEMBRE DE 2014)</small>
 
-El Secretario de Administración podrá optar entre aplicar las penas convencionales o el sobrecosto que resulte de la rescisión, debiendo motivar las causas de la aplicación de uno o de otro.
+En caso de rescisión del contrato por causas imputables al contratista, una vez emitida la determinación respectiva, el Consejo desde el inicio de la misma, se abstendrá de cubrir los importes resultantes de trabajos ejecutados aún no liquidados, hasta que se otorgue el finiquito en el plazo que conforme al contrato proceda.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 35/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE NOVIEMBRE DE 2014)</small>
+
+En el finiquito deberá preverse el sobrecosto de los trabajos aún no ejecutados que se encuentren atrasados conforme al programa vigente, así como lo relativo a la recuperación de los materiales y equipos que, en su caso, hayan sido entregados.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 35/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE NOVIEMBRE DE 2014)</small>
+
+El Secretario de Administración, a propuesta y opinión técnica del Titular del área operativa, podrá optar entre aplicar las penas convencionales o el sobrecosto que resulte de la rescisión, debiendo motivar las causas de la aplicación de uno o de otro.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 35/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE NOVIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 157.
+
+PENA CONVENCIONAL POR ATRASO. En el caso de que no se otorgue la modificación de los plazos al proveedor o contratista respecto al cumplimiento de lo establecido en el contrato por causas imputables a él, se aplicará una pena convencional por atraso en la entrega de los bienes, prestación de los servicios o terminación de trabajos. La pena convencional se calculará tomando como base el importe de los bienes, servicios o trabajos que únicamente se encuentren pendientes de entrega, prestación o terminación, en la fecha fijada para el cumplimiento. Esta base se multiplicará por el diez al millar diario hasta el cumplimiento total. El importe resultante de la base será ajustado de manera proporcional al cumplimiento pendiente aplicando la misma fórmula.
+
+En el supuesto de incumplimiento por atraso sólo será aplicable la pena por ese concepto, salvo los casos en que existan incumplimientos diversos, en los cuales se aplicará la pena convencional que corresponda a cada uno de ellos, sin perjuicio de las deductivas que procedan.
+
+El Comité podrá autorizar que en las bases, en los pedidos, contratos o convenios, se establezca una pena convencional bajo criterios diferentes a los señalados en el primer párrafo, en aquellos casos en que considere que resulta favorable para el Consejo, que invariablemente deberá ser proporcional al incumplimiento o retraso en la ejecución de tales servicios.
+
+En materia de obra pública y servicios relacionados con ésta, las penas serán determinadas en función del importe de los trabajos que no se hayan ejecutado o prestado oportunamente, conforme al programa de ejecución general, aun en el caso de los contratos a precio alzado, y se aplicarán en los de precios unitarios o en su parte del mixto considerando los ajustes de costos, sin aplicar el Impuesto al Valor Agregado.
+
+El importe que resulte de la pena por atraso se descontará del pago que se le deba al proveedor o contratista.
 
 ###### ARTICULO 158.
 
@@ -3362,3 +3374,11 @@ SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su
 TERCERO. La Oficialía Mayor llevará a cabo las gestiones necesarias para la suscripción de los instrumentos convencionales necesarios para la implementación del presente Acuerdo.
 
 Dichos instrumentos convencionales deberán prever los aspectos técnicos y operativos necesarios para llevar a cabo la referida implementación.
+
+D.O.F. 3 DE NOVIEMBRE DE 2014.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se derogan las disposiciones que se opongan al presente Acuerdo General. En contratos suscritos con antelación que no estén finiquitados a la entrada en vigor del mismo, se podrán aplicar las normas emitidas con posterioridad a su celebración, para lo cual se deberán formalizar los convenios modificatorios respectivos con sujeción a la normatividad vigente.
