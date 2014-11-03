@@ -4,7 +4,7 @@ identifier: "SON-ley-de-seguridad-publica-para-el-estado-de-sonora-82228"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-14"
-last_updated: "2011-07-14"
+last_updated: "2014-11-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE SONORA
 
-LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE SONORA
+LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 14 de julio de 2011.
 
@@ -49,13 +49,17 @@ LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA
 
 La presente Ley es de orden e interés público y tiene por objeto determinar las instancias encargadas de la seguridad pública en la entidad, regular la integración, organización y funcionamiento del Sistema Estatal de Seguridad Pública, así como establecer las bases de coordinación entre el Estado y los municipios en la materia, a fin de integrar y regular la correspondencia de aquel con el Sistema Nacional de Seguridad Pública.
 
-###### ARTÍCULO 2º.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE NOVIEMBRE DE 2014)</small>
 
-El Sistema Estatal de Seguridad Pública, contará para su funcionamiento y operación con políticas de seguridad pública, las cuales estarán basadas en el resultado del diagnóstico de los factores criminógenos del Estado. Asimismo contará con instancias e instrumentos, a fin de ejecutar las acciones, brindar los servicios previstos en la presente Ley y cumplir con los fines de la seguridad pública. El Sistema Estatal de Seguridad Pública también contará con un Programa de Prevención del Delito, el cual deberá contener:
+###### ARTÍCULO 2°.
+
+El Sistema Estatal de Seguridad Pública contará para su funcionamiento y operación, con políticas de seguridad pública, las cuales estarán basadas en el resultado del diagnóstico de los factores criminógenos del Estado. Asimismo, contará con instancias e instrumentos, a fin de ejecutar las acciones, brindar los servicios previstos en la presente Ley y cumplir con los fines de la seguridad pública. El Sistema Estatal de Seguridad Publica también contará con un Programa Estatal de Prevención Social de la Violencia y la Delincuencia, el cual deberá contener:
 
 I.- El diagnóstico de los factores criminógenos;
 
-II.- Las bases para la participación de la comunidad en la ejecución del Programa de Prevención del Delito;
+> <small>(REFORMADA, B.O. 3 DE NOVIEMBRE DE 2014)</small>
+
+II.- Las bases para la participación ciudadana y comunitaria en la ejecución del Programa Estatal de Prevención Social de la Violencia y la Delincuencia;
 
 III.- Los mecanismos para evaluar las acciones que se lleven a cabo; y
 
@@ -105,7 +109,13 @@ XIV.- Ley General: La Ley General del Sistema Nacional de Seguridad Pública;
 
 XV.- Mapa geodelictivo: Trazo que representa una zona geográfica determinada en la que se señalan de forma relevante, las áreas con incidencias delictivas;
 
-XVI.- Participación de la comunidad: La intervención de la sociedad civil, tenga o no estructura organizativa, en acciones de seguridad pública en apoyo a las autoridades, cultura de la legalidad y la denuncia, que coadyuvará, entre otros, en los procesos de evaluación de las políticas de atención y prevención del delito, así como de las Instituciones de Seguridad Pública;
+> <small>(REFORMADA, B.O. 3 DE NOVIEMBRE DE 2014)</small>
+
+XVI.- Participación ciudadana y comunitaria: La participación de los diferentes sectores y grupos de la sociedad civil, organizada y no organizada, así como de la comunidad académica, en acciones de seguridad pública en apoyo a las autoridades, cultura de la legalidad y la denuncia, que coadyuvará, entre otros, en los procesos de evaluación de las políticas de atención y prevención social de la violencia y la delincuencia, así como de las Instituciones de Seguridad Pública;
+
+> <small>(ADICIONADA, B.O. 3 DE NOVIEMBRE DE 2014)</small>
+
+XVI Bis.- Prevención social de la violencia y la delincuencia: Conjunto de políticas públicas, programas y acciones orientadas a reducir factores de riesgo que favorezcan la generación de violencia y delincuencia, así como a combatir las distintas causas y factores que la generan;
 
 XVII.- Profesionalización: Proceso permanente y progresivo de formación que se integra por las etapas de formación inicial, actualización, promoción, especialización y alta dirección, para desarrollar al máximo las competencias, capacidades y habilidades de los integrantes de las Instituciones Policiales;
 
@@ -177,7 +187,9 @@ IX.- Establecer y controlar los Registros Estatales;
 
 X.- Definir criterios para la realización de acciones y operativos conjuntos de las Instituciones Policiales;
 
-XI.- Promover la participación de la comunidad y de las instituciones académicas en coadyuvancia con las Instituciones de Seguridad Pública en los procesos de evaluación de las políticas de prevención del delito, a través de mecanismos eficaces;
+> <small>(REFORMADA, B.O. 3 DE NOVIEMBRE DE 2014)</small>
+
+XI.- Promover la participación ciudadana y comunitaria en coadyuvancia con las Instituciones de Seguridad Pública en los procesos de evaluación de las políticas de prevención del delito, a través de mecanismos eficaces;
 
 XII.- Implementar mecanismos de evaluación en la aplicación de los recursos para la seguridad pública, incluidos los fondos de ayuda federal para la seguridad pública;
 
@@ -195,13 +207,13 @@ En todo caso, las políticas, lineamientos y las acciones de coordinación se ll
 
 ### CAPÍTULO II. DEL MANDO ÚNICO POLICIAL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO TERCERO DE ESTE ORDENAMIENTO, PUBLICADO EN EL B.O. 14 DE JULIO DE 2011.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DE ESTE ORDENAMIENTO, PUBLICADO EN EL B.O. 14 DE JULIO DE 2011.</small>
 
 ###### ARTÍCULO 11.
 
 Sin perjuicio de lo dispuesto en el artículo 115, fracción VII, de la Constitución Política de los Estados Unidos Mexicanos, cuando un municipio no cumpla con las condiciones objetivas de desarrollo institucional que prevé esta Ley para la prestación del servicio de seguridad pública y policía municipales, el Gobernador del Estado podrá celebrar convenios con el Ayuntamiento respectivo, previa aprobación de éste, para hacerse cargo de tales servicios de manera temporal y por conducto de la Secretaría de Seguridad Pública, o bien para que tales servicios se presten de manera coordinada bajo el mando de las Instituciones de Seguridad Pública del Gobierno del Estado, conforme a las prescripciones que prevé la normatividad aplicable y en los términos del convenio respectivo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO TERCERO DE ESTE ORDENAMIENTO, PUBLICADO EN EL B.O. 14 DE JULIO DE 2011.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DE ESTE ORDENAMIENTO, PUBLICADO EN EL B.O. 14 DE JULIO DE 2011.</small>
 
 ###### ARTÍCULO 12.
 
@@ -269,9 +281,11 @@ XV.- El Jefe de la Región Sonora de la Policía Federal.
 
 Serán invitados permanentes de este Consejo Estatal los Presidentes del Supremo Tribunal de Justicia, de la Comisión de Seguridad Pública del Congreso del Estado de Sonora y de la Comisión Estatal de Derechos Humanos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 15.
 
-Para el conocimiento y la atención de los aspectos que sean materia de coordinación, el Sistema Estatal contará con las comisiones que por acuerdo el Consejo considere pertinentes, dentro de las cuales se establecerán como mínimo la de Información, la de Certificación y Acreditación y la de Prevención del Delito y Participación Ciudadana.
+Para el conocimiento y la atención de los aspectos que sean materia de coordinación, el Sistema Estatal contará con las comisiones que por acuerdo el Consejo considere pertinentes, dentro de las cuales se establecerán como mínimo la de Información, la de Certificación y Acreditación y la de Prevención del Delito y Participación Ciudadana. Estas comisiones se coordinarán con el Secretario de Seguridad Pública del Estado a efecto de dar seguimiento al cumplimiento de las disposiciones aplicables por parte de los Centros Estatales que forman parte de la estructura orgánica de la Secretaría de Seguridad Pública.
 
 En estas comisiones podrán participar las dependencias u organismos públicos relacionados con estas actividades, así como los expertos y las instituciones académicas o agrupaciones del sector privado y la sociedad civil en general, por acuerdo del Consejo Estatal.
 
@@ -309,7 +323,9 @@ XIV.- Promover el desarrollo de los modelos ministerial, policial y pericial, as
 
 XV.- Establecer las políticas en materia de suministro, intercambio, sistematización y actualización de la información que sobre seguridad pública generen las instituciones de seguridad pública estatales y municipales;
 
-XVI.- Promover la participación de la comunidad en los procesos de evaluación de las políticas de prevención del delito, así como de las instituciones de seguridad pública;
+> <small>(REFORMADA, B.O. 3 DE NOVIEMBRE DE 2014)</small>
+
+XVI.- Promover la participación ciudadana y comunitaria en los procesos de evaluación de las políticas de prevención social de la violencia y la delincuencia, así como de las instituciones de seguridad pública;
 
 XVII.- Promover políticas de coordinación y colaboración con el Poder Judicial del Estado;
 
@@ -501,13 +517,23 @@ X.- Promover y participar en la evaluación objetiva de la situación que guarda
 
 XI.- Promover la realización de estudios e investigaciones criminológicas que sean pertinentes, a fin de analizar los datos, cifras, indicadores o estadísticas que se generen sobre aspectos relacionados con los fines de la seguridad pública;
 
-XII.- Coadyuvar en la realización de eventos de carácter informativo y formativo, con el fin de dar a conocer a la comunidad los programas en materia de seguridad pública y a fomentar la cultura de la legalidad, de la denuncia ciudadana y de la prevención o autoprotección del delito, estableciendo mecanismos que permitan incorporar las propuestas sociales;
+> <small>(REFORMADA, B.O. 3 DE NOVIEMBRE DE 2014)</small>
 
-XIV (SIC).- Invitar, por conducto de su Coordinador, a los servidores y funcionarios públicos de las instituciones de seguridad pública en el Estado, a efecto de discutir, analizar y proponer acciones relacionadas con el objeto y fines de esta Ley;
+XII.- Coadyuvar en la realización de eventos de carácter informativo y formativo, con el fin de dar a conocer a la comunidad los programas en materia de seguridad pública y a fomentar la cultura de la legalidad, de la denuncia ciudadana y de la prevención o autoprotección de la violencia y la delincuencia, estableciendo mecanismos que permitan incorporar las propuestas sociales;
 
-XV.- Actuar como observatorio ciudadano; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 3 DE NOVIEMBRE DE 2014)</small>
 
-XVI.- Las demás que le confieran la presente Ley, el reglamento respectivo y aquellas que le asignen el Consejo Estatal o el Presidente del mismo.
+XIII.- Invitar, por conducto de su Coordinador, a los servidores y funcionarios públicos de las instituciones de seguridad publica en el Estado, a efecto de discutir, analizar y proponer acciones relacionadas con el objeto y fines de esta Ley;
+
+> <small>(REFORMADA, B.O. 3 DE NOVIEMBRE DE 2014)</small>
+
+XIV.- Actuar como observatorio ciudadano; y
+
+> <small>(REFORMADA, B.O. 3 DE NOVIEMBRE DE 2014)</small>
+
+XV.- Las demás que le confieran la presente Ley, el reglamento respectivo y aquellas que le asignen el Consejo Estatal o el Presidente del mismo.
+
+XVI.- (DEROGADA, B.O. 3 DE NOVIEMBRE DE 2014)
 
 ###### ARTÍCULO 33.
 
@@ -791,13 +817,19 @@ En todo caso, el Ministerio Público y las autoridades judiciales, podrán acced
 
 Cuando alguna persona autorizada para acceder a la información sobre seguridad pública estime que la misma es falsa o errónea, podrá solicitar la investigación correspondiente con el objeto de que, en su caso, se anote la corrección que proceda. Las correcciones se llevarán a cabo conforme al procedimiento determinado en las Bases para la Integración de la Información sobre Seguridad Pública, emitidas por el Consejo.
 
-## TÍTULO CUARTO. DEL PROGRAMA ESTATAL DE PREVENCIÓN SOCIAL DEL DELITO
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 3 DE NOVIEMBRE DE 2014)</small>
 
-### CAPÍTULO ÚNICO. DEL PROGRAMA ESTATAL DE PREVENCIÓN SOCIAL DEL DELITO
+## TÍTULO CUARTO. DEL PROGRAMA ESTATAL DE PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA
+
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 3 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO ÚNICO. DEL PROGRAMA ESTATAL DE PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 73.
 
-Se establece como política pública el Programa Estatal de Prevención Social del Delito, el cual buscará contrarrestar los factores criminógenos e impulsar una vida comunitaria en armonía y tranquilidad, a través de la promoción de la cultura de la paz, la legalidad, el respeto a los derechos humanos y el derecho de los sonorenses a una vida libre de adicciones y violencia, sustentándose en tres ejes fundamentales:
+Se establece como política pública el Programa Estatal de Prevención Social de la Violencia y la Delincuencia, el cual buscará contrarrestar los factores criminógenos e impulsar una vida comunitaria en armonía y tranquilidad, a través de la promoción de la cultura de la paz, la legalidad, el respeto a los derechos humanos y el derecho de los sonorenses a una vida libre de adicciones y violencia, sustentándose en tres ejes fundamentales:
 
 I.- La transversalidad de sus acciones y subprogramas;
 
@@ -805,9 +837,11 @@ II.- La participación activa de la comunidad; y
 
 III.- La publicidad de la información delictiva georreferenciada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 74.
 
-El programa de Prevención Social del Delito deberá incluir, dentro de sus subprogramas, como mínimo, lo siguiente:
+El Programa Estatal de Prevención Social de la Violencia y la Delincuencia deberá incluir, dentro de sus subprogramas, como mínimo, lo siguiente:
 
 I.- Mecanismos para incorporar contenidos relativos a la prevención del delito en los programas educativos, de salud, de desarrollo social y de desarrollo integral de la familia;
 
@@ -815,13 +849,17 @@ II.- Mecanismos enfocados a la prevención de la violencia en todos los ámbitos
 
 III.- Mecanismos enfocados a la prevención del consumo de alcohol, drogas y de cualquier otra sustancia adictiva, en coordinación con la Secretaría de Salud Pública.
 
+> <small>(REFORMADO, B.O. 3 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 75.
 
-El Programa de Prevención Social del Delito será público y transparente y pondrá a disposición de la comunidad, a través de medios electrónicos de comunicación, los indicadores mensuales delictivos georreferenciados y los perfiles estadísticos, los diagnósticos y estudios sociodelictivos y de victimización, así como las medidas recomendadas para autoprotección y prevención que contribuyan a mejorar la seguridad de las personas, sus familias y sus bienes.
+El Programa Estatal de Prevención Social de la Violencia y la Delincuencia será público y transparente y pondrá a disposición de la comunidad, a través de medios electrónicos de comunicación, los indicadores mensuales delictivos georeferenciados y los perfiles estadísticos, los diagnósticos y estudios sociodelictivos y de victimización, así como las medidas recomendadas para autoprotección y prevención que contribuyan a mejorar la seguridad de las personas, sus familias y sus bienes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 76.
 
-El Programa de Prevención Social del Delito podrá disponer para su coordinación y dirección, de los siguientes órganos:
+El Programa Estatal de Prevención Social de la Violencia y la Delincuencia podrá disponer para su coordinación y dirección de los siguientes órganos:
 
 I.- Un Consejo Directivo de Transversalidad, el cual tendrá como objetivo vincular a una estrategia interinstitucional de políticas y programas de prevención, a dependencias y entidades del gobierno federal, estatal y municipal e instituciones de la sociedad civil;
 
@@ -830,6 +868,42 @@ II.- Un Consejo Operativo, el cual estará integrado por los titulares de las po
 III.- Un Consejo Social, el cual estará integrado por los coordinadores regionales de vinculación, quienes se constituirán en el puente de contacto y vinculación de la Secretaría de Seguridad Pública con los municipios y la comunidad.
 
 Los tres órganos de coordinación y dirección se reunirán una vez al mes para realizar un ejercicio de evaluación, análisis y toma de decisiones, con el propósito de orientar y focalizar las acciones de prevención secundaria y consolidar los resultados del programa.
+
+> <small>(ADICIONADO, B.O. 3 DE NOVIEMBRE DE 2014)</small>
+
+ARTÍCULO 76 BIS.- El Centro Estatal de Prevención del Delito y Participación Ciudadana forma parte de la estructura orgánica de la Secretaria, y tiene por objeto instrumentar el Programa Estatal de Prevención Social de la Violencia y la Delincuencia, a través del diseño y promoción de las políticas, estrategias, lineamientos y acciones que fomenten en la comunidad valores culturales y cívicos, fortalezcan el tejido social, induzcan el respeto a la legalidad, promuevan la paz y la solidaridad, el respeto a los derechos humanos, la participación activa de la comunidad y una vida libre de violencia.
+
+> <small>(ADICIONADO, B.O. 3 DE NOVIEMBRE DE 2014)</small>
+
+ARTÍCULO 76 BIS A.- Al frente del Centro Estatal de Prevención del Delito y Participación Ciudadana, estará el funcionario de la Secretaría que determine el Secretario de Seguridad Pública del Estado y contará con las unidades administrativas, responsabilidades y obligaciones, así como los requisitos para ocupar el cargo, que se fijen en las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, B.O. 3 DE NOVIEMBRE DE 2014)</small>
+
+ARTÍCULO 76 BIS B.- El Centro Estatal de Prevención del Delito y Participación Ciudadana tendrá como principales atribuciones, las siguientes:
+
+I.- Proponer al Secretario de Seguridad Pública del Estado los lineamientos y el Programa Estatal de Prevención Social de la Violencia y la Delincuencia, a través del diseño de políticas transversales de prevención, cuyas acciones serán estratégicas;
+
+II.- Evaluar, de manera periódica, las acciones derivadas de las políticas de prevención del Programa Estatal de Prevención Social de la Violencia y la Delincuencia, para determinar la eficacia de las mismas y en su caso, realizar las modificaciones o redireccionamiento de las mismas;
+
+III.- Promover en la entidad una cultura de paz, legalidad, respeto a los derechos humanos, participación ciudadana y comunitaria y una vida libre de violencia;
+
+IV.- Emitir opiniones y recomendaciones, brindar apoyo, asistencia técnica y coadyuvar en los procesos de seguimiento y monitoreo de los programas de prevención social de la violencia y la delincuencia implementados por los municipios, instituciones de los tres órdenes de gobierno y de la sociedad civil;
+
+V.- Dar seguimiento, evaluar y comunicar los resultados de las evaluaciones de los programas implementados por las instituciones de Seguridad Pública, en materia de prevención social de la violencia y la delincuencia, verificando que los mismos cumplan entre sus fines con la prevención y promoción de la erradicación de la violencia contra los grupos más vulnerables;
+
+VI.- Realizar, por si o por terceros, estudios sobre las causas estructurales del delito, su distribución geodelictiva, estadísticas de conductas ilícitas no denunciadas, tendencias históricas y patrones de comportamiento que permitan actualizar y perfeccionar las políticas de seguridad pública y prevención social de la violencia y la delincuencia en el Estado;
+
+VII.- Elaborar y aplicar encuestas victimológicas de percepción de inseguridad, fenómenos delictivos y otras que coadyuven a la prevención social de la violencia y la delincuencia;
+
+VIII.- Promover la inclusión de contenidos relativos a la prevención social de la violencia y la delincuencia en los programas educativos, de salud, desarrollo social y en general en los diversos programas de las dependencias y entidades del Estado, en los que por la temática resulte aplicable;
+
+IX.- Organizar seminarios, conferencias y ponencias sobre prevención social de la violencia y la delincuencia;
+
+X.- Coordinarse con otras instancias competentes en la materia para el ejercicio de sus funciones;
+
+XI.- Promover la participación ciudadana y comunitaria para el fortalecimiento del Sistema Estatal, en los términos de esta Ley; y
+
+XII.- Las demás que establezcan otras disposiciones, el Consejo Estatal, su Presidente o el Secretario de Seguridad Pública del Estado.
 
 ###### ARTÍCULO 77.
 
@@ -943,13 +1017,17 @@ IX.- Elaborar y mantener permanentemente actualizados el catálogo y el inventar
 
 X.- Relacionar y describir, en forma pormenorizada y en capítulo especial del Presupuesto de Egresos del Municipio, el gasto destinado a la función de seguridad pública;
 
-XI.- Celebrar convenios con autoridades estatales y federales, para alcanzar los objetivos de los programas de seguridad pública y de prevención social del delito;
+> <small>(REFORMADA, B.O. 3 DE NOVIEMBRE DE 2014)</small>
+
+XI.- Celebrar convenios con autoridades estatales y federales, para alcanzar los objetivos de los programas de seguridad pública y de prevención social de la violencia y la delincuencia;
 
 XII.- Instalar el Consejo Municipal de Seguridad Pública y, por su conducto, vincularse a los Sistemas Estatal y Nacional de seguridad pública;
 
 XIII.- Determinar reglamentariamente los lineamientos para la integración de sus comités ciudadanos de seguridad pública municipales correspondientes;
 
-XIV.- Incentivar la participación de la comunidad y de instituciones académicas en coadyuvancia con los procesos de evaluación de las políticas de prevención del delito, así como de las instituciones de seguridad pública, a través de mecanismos eficaces; y
+> <small>(REFORMADA, B.O. 3 DE NOVIEMBRE DE 2014)</small>
+
+XIV.- Incentivar la participación de la comunidad y de instituciones académicas en coadyuvancia con los procesos de evaluación de las políticas de prevención social de la violencia y la delincuencia, así como de las instituciones de seguridad pública, a través de mecanismos eficaces; y
 
 XV.- Lo demás que señalen los ordenamientos jurídicos aplicables.
 
@@ -2764,3 +2842,15 @@ Se abroga la Ley de Seguridad Pública, publicada en el Boletín Oficial del Est
 ###### ARTÍCULO DÉCIMO NOVENO.
 
 Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 3 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de un plazo no mayor a 60 días, contado a partir de la entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo deberá realizar las adecuaciones pertinentes a la normatividad correspondiente, para efecto de crear el Centro Estatal de Prevención del Delito y Participación Ciudadana dentro de la estructura orgánica de la Secretaría de Seguridad Pública del Estado.
