@@ -4,7 +4,7 @@ identifier: "SON-ley-de-gobierno-y-administracion-municipal-del-estado-de-30437"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2013-06-27"
+last_updated: "2014-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 15 de octubre de 2001.
 
@@ -589,7 +589,7 @@ f) Rastros;
 
 g) Calles, parques, jardines y campos deportivos y su equipamiento;
 
-h) Seguridad pública, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, policía preventiva y de tránsito municipal, los cuales no podrán ser concesionados; y (sic)
+h) Seguridad pública, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, policía preventiva y de tránsito municipal, los cuales no podrán ser concesionados; y
 
 i) Los demás que les señale el Congreso del Estado, según las condiciones territoriales y socioeconómicas de los municipios, así como su capacidad administrativa, técnica y financiera.
 
@@ -695,7 +695,7 @@ III. Las demás previstas en la presente ley.
 
 Los acuerdos del Congreso del Estado tendrán carácter vinculatorio para los servidores públicos de los Ayuntamientos, quienes contarán con un plazo de quince días hábiles, contado a partir del día siguiente en que se le notifique el contenido del resolutivo respectivo, para emitir una respuesta por escrito fundada y motivada dirigida al Congreso del Estado.
 
-La respuesta de los servidores públicos a que se refiere el párrafo anterior deberá contener, al menos, un informe de las acciones llevadas a cabo y, en su caso, las que se realizarán, así como una fecha probable, para dar oportuno cumplimiento a los planteamientos contenidos en el acuerdo notificado. En caso de disentir del sentido del resolutivo emitido por el Congreso del Estado, el servidor público a quien se dirigió el exhorto emitirá la respuesta expresando las razones de su postura, caso en el cual deberá generarse un seguimiento al tema entre el o los diputados que presentaron la iniciativa con punto de acuerdo y los servidores públicos respectivos mediante la celebración de reuniones públicas o privadas que al efecto estimen pertinente (sic).
+La respuesta de los servidores públicos a que se refiere el párrafo anterior deberá contener, al menos, un informe de las acciones llevadas a cabo y, en su caso, las que se realizarán, así como una fecha probable, para dar oportuno cumplimiento a los planteamientos contenidos en el acuerdo notificado. En caso de disentir del sentido del resolutivo emitido por el Congreso del Estado, el servidor público a quien se dirigió el exhorto emitirá la respuesta expresando las razones de su postura, caso en el cual deberá generarse un seguimiento al tema entre el o los diputados que presentaron la iniciativa con punto de acuerdo y los servidores públicos respectivos mediante la celebración de reuniones públicas o privadas que al efecto estimen pertinente.
 
 Será causa de responsabilidad administrativa y se entenderá actualizado el supuesto de incumplimiento previsto en el artículo 63, fracción XXVI de la ley de Responsabilidades de los Servidores Públicos del Estado y los Municipios, la falta de respuesta o seguimiento a que se refieren los párrafos anteriores, por parte del servidor público a quien se dirigió el contenido del acuerdo aprobado por el Congreso del Estado y dará lugar a que el Presidente de la Mesa Directiva del Congreso del Estado de Sonora interponga, ante el Órgano de Control y Evaluación Gubernamental del ayuntamiento que corresponda, la denuncia y seguimiento al procedimiento respectivo para lograr que se sancione al omiso.
 
@@ -2735,6 +2735,14 @@ El barrido de las vías públicas se realizará conforme a las prioridades y pre
 
 La recolección de basuras, desperdicios o residuos sólidos se efectuará en los días, horarios y lugares que determine el Ayuntamiento en su ámbito territorial, los cuales serán comunicados a la población de manera fehaciente.
 
+> <small>(ADICIONADO, B.O. 3 DE NOVIEMBRE DE 2014)</small>
+
+Los Generadores de residuos sólidos deben separarlos en orgánicos e inorgánicos, dentro de sus empresas, establecimientos mercantiles, industriales y de servicios, instituciones públicas y privadas, centros educativos y dependencias gubernamentales y similares.
+
+> <small>(ADICIONADO, B.O. 3 DE NOVIEMBRE DE 2014)</small>
+
+Estos residuos sólidos, deben depositarse en contenedores separados para su recolección, con el fin de facilitar su aprovechamiento, tratamiento, reutilización, reciclaje y disposición final.
+
 ###### Artículo 297.
 
 Las basuras, los desperdicios o residuos sólidos que se recolecten, transporten o reciban en los lugares de destino final, serán de la exclusiva propiedad del Ayuntamiento y, cuando por razones de orden económico sean susceptibles de explotarse industrialmente, éste podrá concesionar dicha actividad en los términos de la presente Ley.
@@ -2743,9 +2751,11 @@ Las basuras, los desperdicios o residuos sólidos que se recolecten, transporten
 
 Los lugares de destino final de las basuras, de los desperdicios o de los residuos sólidos se ubicarán en distancias convenientes de los centros de población, previos los estudios técnicos que para tales efectos se realicen.
 
+> <small>(REFORMADO, B.O. 3 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 299.
 
-El transporte de basuras, desperdicios o residuos sólidos se llevará a cabo en vehículos destinados a este fin, los cuales reunirán los requisitos que establezca la autoridad sanitaria.
+El transporte de basuras, desperdicios o residuos sólidos se llevará a cabo en vehículos destinados a este fin, los cuales deberán mantener separados los residuos orgánicos e inorgánicos con el fin de facilitar su reutilización y reciclaje, además de reunir los requisitos que establezca la autoridad sanitaria.
 
 ###### Artículo 300.
 
@@ -3848,6 +3858,12 @@ B.O. 27 DE JUNIO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 3 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Estado de Sonora.
 
 ## [N. DE E. TRANSITORIOS DE LA “NOTA ACLARATORIA A LA PUBLICACIÓN POR EL CUAL SE DA A CONOCER LA VERSIÓN DIGITALIZADA DE LA CIRCULAR OAJPJCDMX-09/2026 QUE CONTIENE EL “REGLAMENTO INTERIOR DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO”, PUBLICADO EL 10 DE MARZO DE 2026, EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, NÚMERO 1816”.]
 
