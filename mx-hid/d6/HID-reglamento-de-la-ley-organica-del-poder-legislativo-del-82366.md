@@ -4,7 +4,7 @@ identifier: "HID-reglamento-de-la-ley-organica-del-poder-legislativo-del-82366"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-01"
-last_updated: "2014-06-30"
+last_updated: "2014-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 1 de agosto de 2011.
 
@@ -745,6 +745,10 @@ Todos los Acuerdos Económicos que sean entregados a la Secretaría de Servicios
 
 Todos los Dictámenes que sean entregados a la Secretaría de Servicios Legislativos, para su inclusión en el Orden del Día de la sesión que corresponda, serán en forma escrita y magnética y deberán estar debidamente firmados por los integrantes de la Comisión o Comisiones, anexando los votos particulares en caso de que los hubiere.
 
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2014)</small>
+
+Los dictámenes serán enviados a los Diputados, por escrito y al correo electrónico oficial que al respecto se autorice, para efecto de que se pueda leer en el Pleno, un extracto del mismo o se dispense la lectura del Dictamen respectivo.
+
 ###### ARTÍCULO 71.
 
 Los Dictámenes aprobados por el Pleno, serán turnados por el Presidente de la Directiva a la Secretaría, para que por conducto de la Secretaría de Servicios Legislativos, se elabore el Decreto correspondiente y se envíe al Titular del Ejecutivo para que lo sancione y mande publicar en el Periódico Oficial del Estado a excepción de aquellos que no ameritan Decreto y solo se notifican.
@@ -1432,3 +1436,7 @@ Primero.- Envíese el presente Decreto al Titular del Ejecutivo del Estado para 
 Segundo.- El Director General de Servicios Administrativos designará en un plazo no mayor a 30 días naturales contados a partir de la entrada en vigor del presente Decreto, el espacio físico que ocupará la Unidad Institucional de Género en el Congreso del Estado y proveerá del mobiliario, equipo y todo lo necesario para la organización y funcionamiento de la Unidad atendiendo a las posibilidades del presupuesto.
 
 Tercero.- En un plazo no mayor a 40 días naturales el responsable de la Unidad Institucional de Género, bajo la coordinación de las Presidencias de las Comisiones de Seguridad Ciudadana y Justicia, Derechos Humanos y Atención de las personas con Discapacidad e Igualdad de Género, elaborará el Programa Institucional de Acciones Afirmativas para la Implementación de la Perspectiva de Género, así como el Manual de Prácticas Conductuales con Perspectiva de Género para integrantes del Poder Legislativo a fin de someterlo a la consideración y aprobación del Pleno del Congreso.
+
+P.O. 3 DE NOVIEMBRE DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
