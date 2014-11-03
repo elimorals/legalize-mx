@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-proteccion-social-de-las-personas-en-edad-15179"
 country: "mx"
 rank: "ley"
 publication_date: "1999-08-16"
-last_updated: "2012-01-03"
+last_updated: "2014-11-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15179&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "YUC"
 ---
 # LEY PARA LA PROTECCION SOCIAL DE LAS PERSONAS EN EDAD SENESCENTE DEL ESTADO DE YUCATAN
 
-LEY PARA LA PROTECCIÓN SOCIAL DE LAS PERSONAS EN EDAD SENESCENTE DEL ESTADO DE YUCATAN
+LEY PARA LA PROTECCIÓN SOCIAL DE LAS PERSONAS EN EDAD SENESCENTE DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE ENERO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE YUCATÁN, PUBLICADA EN EL D.O. DE 3 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Ley publicada en el Diario Oficial el Lunes 16 de Agosto de 1999.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE NOVIEMBRE DE 2014 (ABROGADA).
+
+Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 16 de agosto de 1999.
 
 GOBIERNO DEL ESTADO
 
@@ -37,9 +39,7 @@ CIUDADANO VÍCTOR MANUEL CERVERA PACHECO, GOBERNADOR CONSTITUCIONAL DEL ESTADO L
 
 "EL H. CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, D E C R E T A:
 
-LEY PARA LA PROTECCIÓN SOCIAL DE LAS PERSONAS
-
-EN EDAD SENESCENTE DEL ESTADO DE YUCATÁN
+LEY PARA LA PROTECCIÓN SOCIAL DE LAS PERSONAS EN EDAD SENESCENTE DEL ESTADO DE YUCATÁN
 
 ## TÍTULO PRIMERO. DE LAS PERSONAS EN EDAD SENESCENTE
 
@@ -814,3 +814,33 @@ Este decreto entrará en vigor al día siguiente al de su publicación en el Dia
 ###### ARTÍCULO SEGUNDO.
 
 El Poder Ejecutivo del Estado, deberá emitir dentro de los 120 días siguientes a la entrada en vigor de este decreto, el programa mediante el cual se definan los mecanismos para la instrumentación de lo dispuesto en el último párrafo adicionado al artículo 3 de la Ley para la Protección Social de las Personas en Edad Senescente del Estado de Yucatán.
+
+D.O. 3 DE NOVIEMBRE DE 2014.
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Abrogación
+
+A partir de la entrada en vigor de este decreto, quedará abrogada la Ley Para la Protección Social de las Personas en Edad Senescente del Estado de Yucatán, promulgada mediante Decreto 214 del Poder Ejecutivo y publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el 16 de agosto de 1999.
+
+Tercero. Derogación de la Ley para la Protección de la Familia del Estado de Yucatán
+
+A partir de la entrada en vigor de este decreto, quedará derogado el Capítulo V denominado de las personas en edad senescente o con discapacidad, así como el artículo 63 a que se refiere la Ley para la Protección de la Familia del Estado de Yucatán.
+
+Cuarto. Instalación del consejo
+
+El Consejo Estatal para la Protección y Atención Integral de los Derechos de los Adultos Mayores deberá instalarse dentro de los noventa días naturales siguientes contados a partir de la entrada en vigor de ese (sic) decreto.
+
+Quinto. Expedición de la convocatoria
+
+El Presidente del Consejo Estatal para la Protección y Atención Integral de los Derechos de los Adultos Mayores, para los efectos de lo dispuesto en el artículo transitorio anterior, deberá expedir la convocatoria para la designación de los representantes a que se refiere el artículo 18, dentro de los treinta días naturales contados a partir de la entrada en vigor de este decreto.
+
+Sexto. Reglamento interno
+
+El Consejo Estatal para la Protección y Atención Integral de los Derechos de los Adultos Mayores deberá aprobar su reglamento interno en un plazo de noventa días contados a partir de la fecha de su instalación.
+
+Séptimo. Derogación tácita
+
+Se derogan todas las disposiciones legales y normativas de igual o menor jerarquía que se opongan al contenido de este decreto.
