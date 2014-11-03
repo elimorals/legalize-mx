@@ -4,7 +4,7 @@ identifier: "SON-ley-de-obras-publicas-y-servicios-relacionados-con-las-54634"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-01"
-last_updated: "2008-07-14"
+last_updated: "2014-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA
 
-LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA
+LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE JULIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Sección Uno del Boletín Oficial del Estado de Sonora, el jueves 1 de marzo de 2007.
 
@@ -583,11 +583,13 @@ Si resultare que dos o más proposiciones son solventes, porque satisfacen la to
 
 Si existen dos o más proposiciones solventes, cuya diferencia en su propuesta económica no sea superior al cinco por ciento, el contrato debe adjudicarse:
 
-I.- Al licitante estatal sobre el nacional, o a este último sobre el extranjero;
+> <small>(REFORMADA, B.O. 3 DE NOVIEMBRE DE 2014)</small>
+
+I.- Al licitante municipal sobre el estatal, o al estatal sobre el nacional, o a éste último sobre el extranjero.
 
 II.- Al licitante registrado en alguna cámara empresarial, o en el organismo profesional que corresponda de acuerdo a su actividad, sobre el que no pertenece a ninguno; y
 
-III.- Al que acredite mayor esfuerzo de capacitación y certificaciones de calidad de sus procesos y cumpla con las obligaciones establecidas en la Ley Federal del Trabajo en materia de capacitación, con relación al resto de los licitantes.
+III.- (DEROGADA, B.O. 3 DE NOVIEMBRE DE 2014)
 
 En los casos de obras a ejecutarse bajo la modalidad de financiamiento, la adjudicación del contrato será a favor del licitante cuya suma de su proposición económica y financiera sea la más baja, habiendo considerado las actualizaciones, plazos de pago y las tasas de interés a los flujos de efectivo de la obra en cuestión. Los criterios referidos en líneas anteriores deberán ser determinados por la dependencia, el ayuntamiento o la entidad, según corresponda, para su inserción en las bases de la obra en licitación.
 
@@ -833,7 +835,7 @@ Lo anterior, sin perjuicio de que en los casos de incumplimiento de los contrato
 
 ###### ARTÍCULO 77.
 
-La inobservancia, incumplimiento o violación a lo dispuesto en este Titulo originará la nulidad del procedimiento de licitación pública, así como de los contratos y convenios respectivos.
+La inobservancia, incumplimiento o violación a lo dispuesto en este Título originará la nulidad del procedimiento de licitación pública, así como de los contratos y convenios respectivos.
 
 La convocante o la Contraloría o, en su caso, el Órgano de Control y Evaluación Gubernamental del Ayuntamiento, podrán solicitar ante el Tribunal de lo Contencioso Administrativo la nulidad de dichos contratos.
 
@@ -1171,6 +1173,18 @@ La audiencia se podrá realizar en varias sesiones y el procedimiento de mediaci
 
 En el supuesto de que las partes lleguen a una conciliación, el convenio respectivo obligará a las mismas, y su cumplimiento podrá ser demandado ante el Tribunal de lo Contencioso Administrativo.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 3 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO VI. DE LA CAPACITACIÓN EN LAS EMPRESAS
+
+> <small>(ADICIONADO, B.O. 3 DE NOVIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 124.
+
+Las personas físicas o morales que pretendan participar en cualquier procedimiento de licitación pública o de invitación restringida, deberán acreditar que han cumplido con la capacitación de su personal, ya sea que ésta haya sido realizada por la Secretaría del Trabajo y Previsión Social, por el Instituto de Capacitación de la Industria de la Construcción o por Colegios de Arquitectos, Ingenieros Civiles u otros del ramo de la construcción que cuenten con su acreditación como entidad capacitadora ante la propia Secretaría del Trabajo y Previsión Social.
+
+En caso de que una persona física o moral resulte ganador de un procedimiento de licitación pública o de invitación restringida y no cumpla con lo dispuesto en el párrafo anterior, el contrato estará afectado de nulidad y se deberá reponer el procedimiento respectivo.
+
 T R A N S I T O R I O S
 
 ###### ARTÍCULO PRIMERO.
@@ -1185,9 +1199,7 @@ A la entrada en vigor de la presente ley, quedará abrogada la anterior Ley de O
 
 ###### ARTÍCULO TERCERO.
 
-Los procedimientos de licitación y contratación de obras públicas que con anterioridad a la entrada en vigor de este ordenamiento se vengan desarrollando, deberán concluirse de conformidad con l
-
-a ley mencionada en el artículo anterior.
+Los procedimientos de licitación y contratación de obras públicas que con anterioridad a la entrada en vigor de este ordenamiento se vengan desarrollando, deberán concluirse de conformidad con la ley mencionada en el artículo anterior.
 
 ###### ARTÍCULO CUARTO.
 
@@ -1215,10 +1227,16 @@ Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN. EL GOBERNADOR DEL ESTADO, EDUARDO BOURS CASTELO, RÚBRICA. EL SECRETARIO DE GOBIERNO, ROBERTO RUIBALASTIAZARÁN, RÚBRICA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 B.O. 14 DE JULIO DE 2008.
 
 ###### ARTÍCULO ÚNICO.
 
 El Presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 3 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
