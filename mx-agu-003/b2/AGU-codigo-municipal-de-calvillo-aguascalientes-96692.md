@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-calvillo-aguascalientes-96692"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-25"
-last_updated: "2014-10-13"
+last_updated: "2014-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE CALVILLO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2014.
 
 Código Publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de noviembre de 2013.
 
@@ -2703,7 +2703,7 @@ XII. Secretaría Ejecutiva.
 
 ###### Artículo 312.
 
-Al frente de cada Secretaría habrá un Secretario y al frente de cada una de sus dependencias estará un funcionario con la denominación que se da al cargo respectivo, (sic) caso de los Departamentos y Unidades será un jefe.
+Al frente de cada Secretaría habrá un Secretario y al frente de cada una de sus dependencias estará un funcionario con la denominación que se da al cargo respectivo, (sic) caso de los Departamentos y Unidades será un jefe
 
 ###### Artículo 313.
 
@@ -19439,6 +19439,52 @@ No se expedirán las licencias a que se refiere este Capítulo, a las personas o
 
 Para el otorgamiento de licencia de tortillería para la producción o venta de tortilla de maíz, además, de los requisitos legales aplicables, la autoridad municipal deberá considerar las necesidades del abasto de tortilla y la densidad de población, a fin de que los establecimientos se distribuyan en los centros de población y comunidades propiciando el acercamiento de la producción a los consumidores y se evite la concentración inconveniente de la producción.
 
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2014)</small>
+
+Todo establecimiento con giro de molino de nixtamal y tortillería, deberá establecerse a una distancia mínima de 600 metros una de otra.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 1956-A.
+
+Para la venta de masa y tortillas de maíz en establecimientos comerciales y espacios públicos o privados, se observará que no existan tortillerías establecidas en un radio de 600 metros.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 1956-B.
+
+Para el otorgamiento de licencias con giro de molino de nixtamal y tortillerías, la autoridad municipal podrá escuchar la opinión de los industriales del ramo.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 1956-C.
+
+Para el reparto de masa y tortillas de maíz, se requiere autorización de la autoridad municipal, quien deberá cerciorarse de que el reparto del producto se realice en las mejores condiciones de higiene y seguridad y que estos productos lleguen a la población.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 1956-D.
+
+Previa autorización de la autoridad municipal, los industriales de la masa y las tortillas de maíz, podrán establecer rutas para el reparto de estos productos, señalando la ruta, el titular de la misma, los expendios y las condiciones de higiene y seguridad en que se realizará el reparto y la venta del producto.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 1956-E.
+
+Para cambio de domicilio de una licencia con giro de molino de nixtamal o tortillería, se requiere que el domicilio propuesto se ubique a una distancia máxima de 50 metros.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 1956-F.
+
+La licencia de tortillería se extingue por falta de operación del establecimiento por un periodo de 90 días naturales a partir de que se le otorgue la licencia.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 1956-G.
+
+Los industriales de la masa y la tortilla, participarán en los planes de capacitación y programas sociales, culturales y de salud que convoque la autoridad municipal.
+
 ###### Artículo 1957.
 
 No se otorgará licencia para el establecimiento de tortillerías al interior de los mercados públicos o privados.
@@ -23996,5 +24042,15 @@ P.O. 13 DE OCTUBRE DE 2014.
 Artículo Segundo.- Publíquese el presente Acuerdo en el Periódico Oficial del Estado para los efectos legales conducentes.
 
 Artículo Tercero.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Cuarto.- Cúmplase.
+
+> <small>N. DE E. POR SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE LOS PUNTOS DEL DECRETO POR EL QUE SE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DEL CÓDIGO MUNICIPAL DE CALVILLO, AGUASCALIENTES.</small>
+
+P.O. 3 DE NOVIEMBRE DE 2014.
+
+Artículo Segundo.- Las presentes reformas y adiciones al Código Municipal de Calvillo, Aguascalientes, deberán publicarse en el Periódico Oficial del Estado de Aguascalientes y en los Estrados de esta Presidencia Municipal.
+
+Artículo Tercero.- Las presentes reformas y adiciones al Código Municipal de Calvillo, Aguascalientes, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 Artículo Cuarto.- Cúmplase.
