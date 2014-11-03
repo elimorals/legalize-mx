@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-acuerdo-de-52301"
 country: "mx"
 rank: "otro"
 publication_date: "2001-02-13"
-last_updated: "2012-06-29"
+last_updated: "2014-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52301&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,52 +19,60 @@ issue_date: "2001-02-06"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL ACUERDO DE COMPLEMENTACION ECONOMICA NO. 51 (REPUBLICA DE CUBA, 2000)
 
-ACUERDO DE COMPLEMENTACIÓN ECONÓMICA NO. 51 SUSCRITO ENTRE EL GOBIERNO DE LOS ESTADOS UNIDOS MEXICANOS Y EL GOBIERNO DE LA REPÚBLICA DE CUBA
+ACUERDO POR EL QUE SE DAN A CONOCER LAS PREFERENCIAS ARANCELARIAS DEL TERCER PROTOCOLO ADICIONAL AL ACUERDO DE COMPLEMENTACIÓN ECONÓMICA NO. 51 CELEBRADO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPÚBLICA DE CUBA
 
-Acuerdo publicado en la Séptima Sección del Diario Oficial de la Federación, el viernes 29 de junio de 2012.
+Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el lunes 3 de noviembre de 2014.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-Con fundamento en los artículos 133 de la Constitución Política de los Estados Unidos Mexicanos; 34, fracción XXXI de la Ley Orgánica de la Administración Pública Federal; 5o., fracción X de la Ley de Comercio Exterior; 5, fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+Con fundamento en los artículos 133 de la Constitución Política de los Estados Unidos Mexicanos; 34, fracción XXXIII de la Ley Orgánica de la Administración Pública Federal; 5o., fracción X de la Ley de Comercio Exterior; 5, fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que el 28 de diciembre de 1980 el Senado de la República aprobó el Tratado de Montevideo 1980 (Tratado), cuyo Decreto de promulgación se publicó en el Diario Oficial de la Federación el 31 de marzo de 1981, con objeto de dar continuidad al proceso de integración latinoamericano y establecer a largo plazo, en forma gradual y progresiva, un mercado común, para lo cual se instituyó la Asociación Latinoamericana de Integración;
+Que el 28 de diciembre de 1980 el Senado de la República aprobó el Tratado de Montevideo 1980 (Tratado), cuyo Decreto de promulgación se publicó en el Diario Oficial de la Federación (DOF) el 31 de marzo de 1981, con el objeto de dar continuidad al proceso de integración latinoamericano y establecer a largo plazo, en forma gradual y progresiva, un mercado común, para lo cual se instituyó la Asociación Latinoamericana de Integración.
 
-Que en el marco del Tratado, el 17 de octubre de 2000 los Estados Unidos Mexicanos y la República de Cuba suscribieron el Acuerdo de Complementación Económica No. 51 (ACE No. 51), mediante el cual ambos países se otorgaron preferencias arancelarias para la importación de diversas mercancías;
+Que (sic) 17 de octubre de 2000 en el marco del Tratado de Montevideo 1980, los Estados Unidos Mexicanos y la República de Cuba suscribieron el Acuerdo de Complementación Económica No. 51 (ACE No. 51), mediante el cual ambos países se otorgaron preferencias arancelarias para la importación de diversas mercancías.
 
-Que el 16 de julio de 2001 y el 23 de mayo de 2002, los Estados Unidos Mexicanos y la República de Cuba suscribieron el Primer Protocolo Adicional y el Segundo Protocolo Adicional al ACE No. 51, los cuales se dieron a conocer mediante Acuerdos publicados en el Diario Oficial de la Federación el 20 de septiembre de 2001 y el 10 de julio de 2002, respectivamente;
+Que el 16 de julio de 2001 y el 23 de mayo de 2002, respectivamente, ambos países suscribieron el Primer y el Segundo Protocolos Adicionales al ACE No. 51, mismos que se dieron a conocer mediante Acuerdos publicados en el DOF, el 20 de septiembre de 2001 y el 10 de julio de 2002, respectivamente.
 
-Que el 26 de junio de 2009 la Organización Mundial de Aduanas adoptó la Quinta Enmienda al Sistema Armonizado de Designación y Codificación de Mercancías que incluye, entre otras, modificaciones a las notas legales, la eliminación de varias subpartidas que describen productos que han reportado escaso movimiento comercial, así como la creación o reestructuración de otras para identificar productos nuevos en el comercio mundial;
+Que el 29 de junio de 2012, se publicó en el DOF el Acuerdo a través del cual se dieron a conocer las preferencias arancelarias aplicables a la República de Cuba de conformidad con el ACE No. 51.
 
-Que el 18 de junio de 2007 se publicó en el Diario Oficial de la Federación la Ley de los Impuestos Generales de Importación y de Exportación, en la que se establece la Tarifa con los aranceles aplicables a la importación de mercancías al territorio nacional;
+Que el 1 de noviembre de 2013 ambos países suscribieron el Tercer Protocolo Adicional al ACE No. 51, mediante el cual acordaron, entre otros temas, otorgar preferencias arancelarias para la importación de diversas mercancías.
 
-Que el Decreto por el que se modifican la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación; el diverso por el que se modifican diversos aranceles de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación; los diversos por los que se establece el esquema de importación a la Franja Fronteriza Norte y Región Fronteriza, y el diverso por el que se establece el impuesto general de importación para la región fronteriza y la franja fronteriza norte, tiene por objeto adoptar a partir del 1 de julio de 2012, las modificaciones derivadas de la Quinta Enmienda antes señalada, y
+Que en el Artículo Tercero del Tercer Protocolo Adicional al ACE No. 51 ambos países pactaron, entre otros acuerdos, que en caso de que un mismo producto se encuentre en los Anexos I A, I B y I C del Acuerdo, las preferencias arancelarias establecidas en el Anexo I C sustituirán a las establecidas en los Anexos I A y I B para dicho producto, y
 
-Que en razón de lo anterior, y siendo necesario dar a conocer a los operadores y autoridades aduaneras las preferencias arancelarias acordadas en el ACE No. 51, se expide el siguiente
+Que en razón de lo anterior, resulta necesario dar a conocer a los operadores económicos y autoridades aduaneras, las preferencias arancelarias acordadas en el marco del ACE No. 51, se expide el siguiente
 
 Acuerdo
 
 Primero.- Para la aplicación de las preferencias arancelarias porcentuales, otorgadas por los Estados Unidos Mexicanos a la República de Cuba, para la importación al mercado interno, se estará a la siguiente:
 
-Tabla de las preferencias arancelarias porcentuales que otorgan los Estados Unidos Mexicanos a la República de Cuba, para la importación al mercado interno en el marco del Acuerdo de Complementación Económica No. 51
+Tabla de las preferencias arancelarias porcentuales que otorgan los Estados Unidos Mexicanos a la República de Cuba en el Anexo I A del Acuerdo de Complementación Económica No. 51, para la importación al mercado interno
 
-> <small>N. DE E. VÉASE TABLAS EN LA SÉPTIMA SECCIÓN DEL D.O.F. DE 29 DE JUNIO DE 2012, PÁGINAS DE LA 79 A LA 100.</small>
+> <small>N. DE E. VÉASE TABLA EN EL D.O.F. DE 3 DE NOVIEMBRE DE 2014, PÁGINAS DE LA 31 A LA 34.</small>
 
 Segundo.- Para la aplicación de las preferencias arancelarias porcentuales, otorgadas por los Estados Unidos Mexicanos a la República de Cuba, en la importación a la Franja Fronteriza Norte y a la Región Fronteriza, con excepción de la Franja Fronteriza Sur colindante con Guatemala, se estará a la siguiente:
 
-Tabla de las preferencias arancelarias otorgadas por los Estados Unidos Mexicanos a la República de Cuba, en la importación a la Franja Fronteriza Norte y a la Región Fronteriza, con excepción de la Franja Fronteriza Sur colindante con Guatemala
+Tabla de las preferencias arancelarias otorgadas por los Estados Unidos Mexicanos a la República de Cuba en el Anexo I B del Acuerdo de Complementación Económica No. 51, para la importación a la Franja Fronteriza Norte y a la Región Fronteriza, con excepción de la Franja Fronteriza Sur colindante con Guatemala
 
-> <small>N. DE E. VÉASE TABLAS EN LA SÉPTIMA SECCIÓN DEL D.O.F. DE 29 DE JUNIO DE 2012, PÁGINAS DE LA 100 A LA 110.</small>
+> <small>N. DE E. VÉASE TABLA EN EL D.O.F. DE 3 DE NOVIEMBRE DE 2014, PÁGINAS DE LA 35 A LA 37.</small>
 
-Tercero.- Los beneficios derivados de las preferencias otorgadas, se aplicarán a los productos originarios y provenientes del territorio de la República de Cuba que cumplan con lo previsto en el Anexo III “Régimen de Origen y Procedimientos Aduaneros para el Control y Verificación del Origen de las Mercancías” del Segundo Protocolo Adicional al Acuerdo de Complementación Económica No. 51 celebrado entre los Estados Unidos Mexicanos y la República de Cuba.
+Tercero.- Para la aplicación de las preferencias arancelarias porcentuales, otorgadas por los Estados Unidos Mexicanos a la República de Cuba, en la importación en todo el territorio nacional, se estará a la siguiente:
 
-Cuarto.- Los cupos de importación, en la cantidad o volumen que aplicarán los Estados Unidos Mexicanos, señalados en la columna (3) de las Tablas de los puntos Primero y Segundo del presente Acuerdo, se aplicarán a productos que cuenten con certificado de cupo expedido por la Secretaría de Economía, de conformidad con lo dispuesto por la Ley de Comercio Exterior.
+Tabla de las preferencias arancelarias porcentuales que otorgan los Estados Unidos Mexicanos a la República de Cuba en el Anexo I C del Acuerdo de Complementación Económica No 51, para la importación en todo el territorio nacional
 
-Quinto.- Lo dispuesto en el presente Acuerdo no libera del cumplimiento de las medidas de regulación y restricción no arancelarias, en términos de lo dispuesto en los tratados de libre comercio celebrados por México, la Ley de Comercio Exterior, la Ley Aduanera y las demás disposiciones aplicables.
+> <small>N. DE E. VÉASE TABLA EN EL D.O.F. DE 3 DE NOVIEMBRE DE 2014, PÁGINAS DE LA 38 A LA 128.</small>
 
-## TRANSITORIO
+Cuarto.- Los beneficios derivados de las preferencias otorgadas de conformidad con el presente Acuerdo, se aplicarán a los productos originarios y provenientes del territorio de la República de Cuba que cumplan con lo previsto en el Anexo III “Régimen de Origen y Procedimientos Aduaneros para el Control y Verificación del Origen de las Mercancías” del Acuerdo de Complementación Económica No. 51.
 
-UNICO.- El presente Acuerdo entrará en vigor el 1 de julio de 2012.
+Quinto.- Los cupos de importación, en la cantidad o volumen que aplicarán los Estados Unidos Mexicanos, señalados en la columna 3 de las Tablas previstas en los puntos Primero, Segundo y Tercero del presente Acuerdo, se aplicarán a productos que cuenten con certificado de cupo expedido por la Secretaría de Economía, de conformidad con lo dispuesto por la Ley de Comercio Exterior.
 
-México, D.F., a 15 de junio de 2012.- El Secretario de Economía, Bruno Ferrari García de Alba.- Rúbrica.
+Sexto.- Lo dispuesto en el presente Acuerdo no libera del cumplimiento de las medidas de regulación y restricción no arancelarias en términos de lo dispuesto en el Acuerdo de Complementación Económica No. 51, la Ley de Comercio Exterior, la Ley Aduanera y las demás disposiciones aplicables.
+
+## TRANSITORIOS
+
+PRIMERO.- El presente Acuerdo entrará en vigor el 4 de noviembre de 2014.
+
+SEGUNDO.- Se abroga el Acuerdo publicado en el Diario Oficial de la Federación el 29 de junio de 2012, mediante el cual se dieron a conocer las preferencias arancelarias acordadas en el Acuerdo de Complementación Económica No. 51 celebrado entre los Estados Unidos Mexicanos y la República de Cuba.
+
+México, D.F., a 16 de octubre de 2014.- El Secretario de Economía, Ildefonso Guajardo Villarreal.- Rúbrica.
