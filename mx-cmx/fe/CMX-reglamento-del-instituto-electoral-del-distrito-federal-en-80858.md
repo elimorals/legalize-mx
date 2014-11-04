@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-instituto-electoral-del-distrito-federal-en-8085
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-15"
-last_updated: "2011-10-20"
+last_updated: "2014-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80858&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2011-03-28"
 ---
 # REGLAMENTO DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA
 
-REGLAMENTO DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA
+REGLAMENTO DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE NOVIEMBRE DE 2014.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 15 de abril de 2011.
 
@@ -216,9 +216,11 @@ REGLAMENTO DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL EN MATERIA DE TRANSPAREN
 
 ### CAPÍTULO ÚNICO. GENERALIDADES
 
+> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 1.
 
-El presente Reglamento es de observancia general y obligatoria para los servidores públicos del Instituto Electoral del Distrito Federal, tiene por objeto transparentar el ejercicio de la función pública del mismo, el acceso de toda persona a la información pública generada, administrada o en posesión del propio organismo, así como, garantizar a los interesados el derecho de acceso, rectificación, cancelación u oposición de sus datos personales que obren en sus sistemas de datos personales.
+El presente Reglamento es de observancia general y obligatoria para las y los servidores públicos del Instituto Electoral del Distrito Federal, tiene por objeto transparentar el ejercicio de la función pública del mismo, el acceso de toda persona a la información pública generada, administrada o en posesión del propio organismo, así como, garantizar a las personas interesadas el derecho de acceso, rectificación, cancelación u oposición de sus datos personales que obren en sus sistemas de datos personales.
 
 ###### Artículo 2.
 
@@ -280,21 +282,21 @@ III. Derechos ARCO: Los derechos de acceso, rectificación, cancelación y oposi
 
 IV. Derecho de Acceso a la Información Pública: Prerrogativa que tiene toda persona para acceder a la información generada, administrada o en poder del Instituto Electoral, en los términos de la Ley de Transparencia;
 
-> <small>(REFORMADA, G.O. 20 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, G.O. 4 DE NOVIEMBRE DE 2014)</small>
 
-V. Derecho de acceso: Prerrogativa que tiene el solicitante para acceder a la información y/o datos de carácter personal, generados, administrados o en poder del Instituto Electoral, así como el tratamiento que le dé a los mismos en los términos de las leyes respectivas;
+V. Derecho de acceso: Prerrogativa que tiene toda persona para acceder a la información pública y/o a los datos de carácter personal, generados, administrados o en poder del Instituto Electoral, así como el tratamiento que le dé a los mismos en los términos de las leyes respectivas;
 
-> <small>(REFORMADA, G.O. 20 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, G.O. 4 DE NOVIEMBRE DE 2014)</small>
 
-VI. Derecho de cancelación: Prerrogativa con que cuenta el interesado para solicitar la supresión de sus datos personales en posesión del Instituto Electoral, cuando así proceda en términos de la Ley de Protección de Datos;
+VI. Derecho de cancelación: Prerrogativa con que cuenta la persona interesada para solicitar la supresión de sus datos personales en posesión de los entes públicos, cuando así proceda en términos de la Ley de Protección de Datos;
 
-> <small>(REFORMADA, G.O. 20 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, G.O. 4 DE NOVIEMBRE DE 2014)</small>
 
-VII. Derecho de oposición: Potestad con que cuenta el interesado para no permitir el tratamiento de los datos personales que le conciernen;
+VII. Derecho de oposición: Potestad con que cuenta la persona interesada para no permitir el tratamiento de los datos personales que le conciernen;
 
-> <small>(REFORMADA, G.O. 20 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, G.O. 4 DE NOVIEMBRE DE 2014)</small>
 
-VIII. Derecho de rectificación: Prerrogativa del interesado para solicitar correcciones a sus datos personales en los términos de la legislación aplicable;
+VIII. Derecho de rectificación: Prerrogativa de la persona interesada para solicitar correcciones a sus datos personales en los términos de la legislación aplicable;
 
 > <small>(REFORMADA, G.O. 20 DE OCTUBRE DE 2011)</small>
 
@@ -332,9 +334,9 @@ XVI. Información pública: Es público todo archivo, registro o dato contenido 
 
 XVII. Información reservada: Información pública que se encuentre temporalmente sujeta a alguna de las excepciones previstas en la Ley de Transparencia;
 
-> <small>(REFORMADA, G.O. 20 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, G.O. 4 DE NOVIEMBRE DE 2014)</small>
 
-XVIII. Instancias: Órganos del Instituto Electoral que a continuación se enlistan: Consejo General; oficinas de los Consejeros Electorales; Comisiones del Consejo General; Presidencia del Consejo General; Junta Administrativa; Secretaría Ejecutiva; Secretaría Administrativa; Contraloría General; Direcciones Ejecutivas; Unidades Técnicas; Órganos Desconcentrados y Comités;
+XVIII. Instancias: Órganos del Instituto Electoral que a continuación se enlistan: Consejo General; oficinas de las y los Consejeros Electorales; Comisiones del Consejo General; Presidencia del Consejo General; Junta Administrativa; Secretaría Ejecutiva; Secretaría Administrativa; Contraloría General; Direcciones Ejecutivas; Unidades Técnicas; Órganos Desconcentrados y Comités;
 
 > <small>(ADICIONADA, G.O. 20 DE OCTUBRE DE 2011)</small>
 
@@ -348,17 +350,17 @@ XX. Sistema de Datos Personales: Todo conjunto organizado de archivos, registros
 
 XXI. Sitio de Internet: Sitio www.iedf.org.mx;
 
-> <small>(ADICIONADA, G.O. 20 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, G.O. 4 DE NOVIEMBRE DE 2014)</small>
 
-XXII. Solicitante: Toda persona que pide información, cancelación, rectificación u oposición de datos personales al Instituto Electoral;
+XXII. Solicitante: Toda persona que pide información pública, así como el acceso, cancelación, rectificación u oposición de datos personales al Instituto Electoral;
 
 > <small>(ADICIONADA, G.O. 20 DE OCTUBRE DE 2011)</small>
 
 XXIII. Solicitud: Escrito libre o los formatos impresos o electrónicos mediante el cual el solicitante presenta su requerimiento de información pública o de acceso, rectificación, cancelación u oposición de datos personales, y
 
-> <small>(ADICIONADA, G.O. 20 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, G.O. 4 DE NOVIEMBRE DE 2014)</small>
 
-XXIV. Versión pública: Documento en el que se elimina la información clasificada como reservada o confidencial para permitir su acceso, previa autorización del Comité de Transparencia.
+XXIV. Versión pública: Documento en el que se elimina la información clasificada como reservada o confidencial para permitir su acceso, previa autorización del Comité.
 
 ###### Artículo 3.
 
@@ -370,9 +372,11 @@ El Instituto Electoral garantizará el acceso a la información relacionada con 
 
 Lo anterior, siempre que no se haya efectuado la destrucción de la misma en términos del Código.
 
+> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 5.
 
-Los servidores públicos del Instituto Electoral recibirán los diplomados, cursos, seminarios, talleres, conferencias, entre otras formas de enseñanza o capacitación, por conducto de la Unidad Técnica del Centro de Formación y Desarrollo, en materia de transparencia y acceso a la información pública, y del ejercicio al derecho a la protección de datos personales para lo cual, de ser el caso, se suscribirán los instrumentos jurídicos respectivos con entes públicos federales y locales, e instancias académicas de reconocido prestigio.
+Las y los servidores públicos del Instituto Electoral recibirán los diplomados, cursos, seminarios, talleres, conferencias, entre otras formas de enseñanza o capacitación, por conducto de la Unidad Técnica del Centro de Formación y Desarrollo, en materia de transparencia y acceso a la información pública, y del ejercicio al derecho a la protección de datos personales para lo cual, de ser el caso, se suscribirán los instrumentos jurídicos respectivos con entes públicos federales y locales, e instancias académicas de reconocido prestigio.
 
 ## TÍTULO SEGUNDO. DE LA INFORMACIÓN PÚBLICA Y DE LOS DERECHOS EN MATERIA DE DATOS PERSONALES
 
@@ -392,37 +396,37 @@ Cuando el Instituto Electoral por disposición de la normatividad en materia de 
 
 La información de acceso restringido en sus modalidades de reservada y confidencial, no podrá ser divulgada, salvo por las excepciones determinadas en la Ley de Transparencia.
 
-Cuando el Instituto Electoral en ejercicio de sus atribuciones transmita a otro ente información de acceso restringido, deberá incluir, en el oficio de remisión, una leyenda donde se refiera que la información es de esa naturaleza y que su divulgación es motivo de responsabilidad en términos de Ley.
+> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, G.O. 20 DE OCTUBRE DE 2011)</small>
+Cuando el Instituto Electoral en ejercicio de sus atribuciones transmita a otro ente información de acceso restringido, deberá incluir, en el oficio de remisión, una leyenda donde se refiera que la información es de esa naturaleza y que su divulgación es motivo de responsabilidad en términos de la Ley de Transparencia.
+
+> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 8.
 
-Es reservada la información mencionada en el artículo 37 de la Ley de Transparencia, la cual no puede ser divulgada por un periodo de hasta siete años contados a partir de su clasificación, salvo en los supuestos establecidos en la misma Ley de Transparencia, periodo que podrá prorrogarse hasta por cinco años adicionales siempre que subsista alguna de las causas que motivó la reserva de la información.
+Es reservada la información mencionada en el artículo 37 de la Ley de Transparencia, la cual no puede ser divulgada por un periodo de hasta siete años contados a partir de su clasificación, salvo en los supuestos establecidos en la misma, periodo que podrá prorrogarse hasta por cinco años adicionales siempre que subsista alguna de las causas que motivó la reserva de la información.
 
-En caso de que el Instituto Electoral cuente con información reservada, el titular de la instancia que posea o genere la información deberá fundar y motivar la negativa de su acceso, acreditando que el daño que pueda producirse con la publicidad de dicha información es mayor que el interés público de conocerla. Asimismo, es la responsable de proponer la clasificación al Comité de Transparencia, por conducto de la OIP y se estará al procedimiento previsto en la Ley de Transparencia.
+En caso de que el Instituto Electoral cuente con información reservada, el titular de la instancia que posea o genere la información deberá fundar y motivar la negativa de su acceso, acreditando que el daño que pueda producirse con la publicidad de dicha información es mayor que el interés público de conocerla. Asimismo, es la responsable de proponer la clasificación al Comité, por conducto de la OIP y se estará al procedimiento previsto en la Ley de Transparencia.
 
 ###### Artículo 9.
 
 Es confidencial de manera indefinida la información establecida en el artículo 38 de la Ley de Transparencia, las instancias tomarán las previsiones necesarias para que sólo tengan acceso los titulares de la información y los servidores públicos que requieran conocerla para el ejercicio de sus funciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 20 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 10.
 
-Cuando la información solicitada se refiera a expedientes o documentos que contengan información reservada o confidencial, y/o datos que contengan parcialmente información cuyo acceso se encuentre restringido en los términos de la Ley de Transparencia, deberá proporcionarse el resto que no tenga tal carácter, las instancias propondrán al Comité la elaboración de una versión pública, con base en la normativa aplicable, pudiendo excluir o tachar palabras, renglones, párrafos o partes del documento.
+Cuando la información solicitada se refiera a expedientes o documentos que contengan información reservada o confidencial, y/o datos que contengan parcialmente información cuyo acceso se encuentre restringido en los términos de la Ley de Transparencia, deberá proporcionarse el resto que no tenga tal carácter, las instancias propondrán al Comité la elaboración de una versión pública, fundando y motivando la clasificación respectiva. Asimismo, señalar cuando así proceda los costos de la reproducción de la misma, de acuerdo con las distintas modalidades de acceso.
 
-> <small>(REFORMADO, G.O. 20 DE OCTUBRE DE 2011)</small>
+Cuando dicha información conste en expedientes o archivos digitalizados, podrá protegerse con base en los términos del párrafo que antecede.
 
-Así también, cuando dicha información conste en expedientes o archivos digitalizados, podrá protegerse con base en los términos del párrafo que antecede.
+Cuando la modalidad elegida no implique costos, la instancia deberá elaborar la versión pública correspondiente en los términos aprobados en la resolución por el Comité, remitiéndola a la OIP para que por su conducto sea notificada al solicitante.
 
-> <small>(ADICIONADO, G.O. 20 DE OCTUBRE DE 2011)</small>
-
-La Versión Pública debe atender al “Criterio para digitalizar información solicitada y dar respuesta a las solicitudes presentadas ante el Instituto Electoral del Distrito Federal”, aprobado por el Comité de Transparencia, mediante Acuerdo 66TCT-038/09, salvo que el INFODF ordene la entrega de la información y, en su caso, el envío de la misma.
+En el caso de que la modalidad seleccionada implique costos, una vez que el solicitante acredite el pago de los derechos correspondientes, la instancia procederá a elaborar la versión pública correspondiente en los términos aprobados en la resolución por el Comité, remitiéndola a la OIP para que por su conducto sea notificada al solicitante.
 
 Por cuanto hace a la información pública de oficio que deba publicarse en el sitio de Internet del Instituto Electoral, las instancias deberán proteger los datos personales y, en su caso, la información reservada que se contenga. Las instancias serán responsables del contenido de la información que remitan para su publicación en el sitio de Internet.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 20 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 20 DE OCTUBRE DE 2011)</small>
 
 ### CAPÍTULO II. DEL EJERCICIO AL DERECHO FUNDAMENTAL A LA INFORMACIÓN
 
@@ -436,27 +440,43 @@ La OIP recibirá las solicitudes de información presentadas en escrito material
 
 Las Direcciones Distritales destinarán un espacio físico y un equipo de cómputo con acceso a Internet, para atender solicitantes que quieran presentar una solicitud de información.
 
-El personal de las Direcciones Distritales orientará a los peticionarios para que ingresen su solicitud mediante el sistema INFOMEX o por vía correo electrónico dirigido a la OIP.
+> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
+
+El personal de las Direcciones Distritales orientará a las y los peticionarios para que ingresen su solicitud mediante el sistema INFOMEX o por vía correo electrónico dirigido a la OIP.
 
 El horario de atención en las Direcciones Distritales será de lunes a viernes de las nueve a las diecisiete horas.
 
+> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 13.
 
-Cuando la información solicitada derive de un procedimiento administrativo o que se trámite en forma de juicio y quien la requiera forme o haya formado parte del mismo, la instancia, en caso de ser procedente, proporcionará la información directamente sin remitir al solicitante a la OIP.
+Cuando la información solicitada derive de un procedimiento administrativo o que se tramite en forma de juicio y quien la requiera forme o haya formado parte del mismo, la instancia que sustancie o haya sustanciado, en caso de ser procedente, proporcionará la información directamente sin remitir a la OIP.
 
 ###### Artículo 14.
 
 Los plazos previstos en la Ley de Transparencia se computarán a partir del día siguiente que la solicitud de acceso a la información haya ingresado al sistema INFOMEX, de conformidad con los lineamientos de dicho sistema.
 
-La Oficialía de Partes, así como los encargados de la correspondencia de las instancias que reciban una solicitud de información de conformidad con la Ley de Transparencia, deberán remitirla a la OIP a más tardar el día hábil siguiente de la recepción.
+> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
+
+La Oficialía Electoral y de Partes, así como las y los encargados de la correspondencia de las instancias que reciban una solicitud de información de conformidad con la Ley de Transparencia, deberán remitirla a la OIP a más tardar el día hábil siguiente de la recepción.
 
 Será responsabilidad de la instancia que reciba la solicitud, remitir la misma dentro de los plazos establecidos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 15.
 
-Cuando al presentarse la solicitud ésta no sea precisa o no contenga los datos señalados por la ley, la OIP prevendrá al solicitante, debiendo ayudarlo a subsanar las deficiencias.
+Cuando al presentarse la solicitud ésta no sea precisa o no contenga los datos señalados por la ley, la OIP deberá ayudar a la persona solicitante a subsanar las deficiencias.
 
 En el caso de que las instancias, a las que les sea turnada una solicitud de información, consideren que ésta no es clara o precisa, deberán de remitir a la OIP en un plazo no mayor de tres días siguientes a la recepción de la misma, la propuesta de prevención respectiva, debidamente fundada y motivada.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 4 DE NOVIEMBRE DE 2014)</small>
+
+Si la prevención es de uno o varios contenidos de la solicitud, pero no de la totalidad de ésta, la instancia remitirá a la OIP la respuesta de aquellos puntos que no fueron prevenidos, en los plazos señalados por el último párrafo del artículo 20 de este Reglamento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 4 DE NOVIEMBRE DE 2014)</small>
+
+La OIP prevendrá a la persona solicitante sólo cuando al presentarse la solicitud, de ésta no se desprenda la información requerida o no contenga los datos señalados por la Ley de Transparencia, debiendo orientarla para que subsane las deficiencias; en los demás casos deberá turnar la solicitud a la instancia correspondiente.
 
 ###### Artículo 16.
 
@@ -476,17 +496,25 @@ c) En el supuesto que al realizar la diligencia se advierta que no corresponde a
 
 La OIP notificará a los solicitantes, por conducto de los notificadores habilitados por el Secretario Ejecutivo adscritos a la Unidad Jurídica, para lo cual proporcionará a esa Unidad en tiempo y forma los oficios de respuesta y, en su caso, la documentación anexa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 18.
 
-La OIP no está obligada a tramitar las solicitudes de acceso a la información pública, cuando sea formulada en términos ofensivos, y se tendrá por no presentada, cuando el solicitante no haya atendido la prevención que se le formuló o habiendo desahogado la misma no sea posible desprender los datos necesarios para atender su petición.
+Cuando la persona solicitante no haya atendido la prevención que se le formuló, la solicitud se tendrá por presentada únicamente por aquellos contenidos que no fueron prevenidos.
 
 Si la solicitud es rechazada por actualizarse alguno de los supuestos anteriores, la OIP notificará la negativa mediante oficio, fundado y motivado, por el medio elegido por el solicitante, dentro de los diez días hábiles siguientes de recibida la solicitud.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 4 DE NOVIEMBRE DE 2014)</small>
+
+Cuando una solicitud sea formulada en términos ofensivos se tendrá como rechazada. La negativa deberá estar debidamente fundada y motivada, y será notificada a la persona solicitante mediante oficio, en el medio señalado y dentro del plazo de los diez días hábiles siguientes a aquel en que fue recibida la solicitud.
+
+> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 19.
 
-Para los efectos del presente Reglamento, el cómputo de los plazos tomará en cuenta días y horas hábiles, entendiéndose por tales, aún durante los procesos electorales y de participación ciudadana, todos los días a excepción de los sábados, los domingos y los no laborables en términos de la normativa aplicable y por horas, de las nueve a las diecisiete horas. Los días inhábiles se declararán por circular del Secretario Administrativo.
+Para efecto de este Reglamento, el cómputo de los plazos tomará en cuenta días y horas hábiles, entendiéndose por tales, aún durante los procesos electorales y de participación ciudadana, todos los días a excepción de los sábados, los domingos y los no laborables en términos de la normativa aplicable y por horas, de las nueve a las diecisiete horas. Los días inhábiles se declararán por circular del Secretario Ejecutivo, que se publicará en la Gaceta Oficial del Distrito Federal, misma que será fijada en los Estrados de la OIP y en el sitio de Internet.
 
-En el caso de las solicitudes presentadas a través de INFOMEX, se estará a lo dispuesto en los Lineamientos emitidos por el INFODF en lo que no contravenga a la normativa del Instituto Electoral.
+En el caso de las solicitudes presentadas a través del sistema INFOMEX, se estará a lo dispuesto en los Lineamientos emitidos por el INFODF en lo que no contravenga a la normativa del Instituto Electoral.
 
 ###### Artículo 20.
 
@@ -528,35 +556,25 @@ I. A la OIP, mediante oficio, que la información solicitada no se encuentre en 
 
 II. Tratándose de información que verse sobre el funcionamiento y actividades que desarrolla este Instituto y que por alguna circunstancia no obre en los archivos, el Comité conocerá del asunto y, de ser procedente, declarará la inexistencia de la información, antes del vencimiento del plazo de respuesta.
 
+> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 23.
 
-En caso de que el titular de la instancia considere que la información es restringida, dentro de los tres días hábiles siguientes contados a partir de que haya recibido la solicitud, lo hará del conocimiento a la OIP para que ésta presente al Comité la propuesta de clasificación de la información, quien resolverá lo conducente.
+Si el titular de la instancia considera que la información es restringida, dentro de los tres días hábiles siguientes contados a partir de que haya recibido la solicitud, lo hará del conocimiento a la OIP para que ésta presente al Comité la propuesta de clasificación de la información, quien resolverá lo conducente.
 
-> <small>(ADICIONADO, G.O. 20 DE OCTUBRE DE 2011)</small>
+En el caso de que mediante una nueva solicitud se requiera información que contenga datos personales de la misma naturaleza de los que ya fueron clasificados por el Comité, conforme al artículo 50 de la Ley de Transparencia, la instancia en coordinación con la OIP la atenderán, refiriendo la resolución o los acuerdos con los que el Comité los clasificó como información confidencial, incluyendo además, la motivación y fundamentación correspondiente.
 
-En las solicitudes que exista duda de que la información pudiera tener el carácter de acceso restringido, antes de someterla a consideración del Comité, la OIP podrá solicitar opinión de la Unidad Jurídica o al área administrativa que estime conveniente, con el objeto de brindar de mejores elementos de convicción para justificar adecuadamente si se clasifica o no, la información como reservada o confidencial.
+Si la información solicitada contiene datos confidenciales distintos a los que previamente el Comité haya clasificado, la respuesta a dicha solicitud deberá someterse a consideración del mencionado Comité.
+
+Cuando exista duda de que la información pudiera tener el carácter de acceso restringido, antes de someterla a consideración del Comité, la OIP podrá solicitar la opinión de la Unidad Jurídica o al área administrativa que estime conveniente, con el objeto de allegarse de mejores elementos de convicción para justificar adecuadamente si se clasifica o no, la información solicitada como reservada o confidencial.
+
+> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 24.
 
-Cuando la OIP considere que puede otorgarse acceso parcial a la información solicitada o negarse la totalidad de la misma, por estar clasificada como de acceso restringido, su propuesta deberá estar fundada y motivada.
+Cuando la instancia considere que puede otorgarse acceso parcial a la información solicitada o negarse la totalidad de la misma por estar clasificada como de acceso restringido, su propuesta deberá estar fundada y motivada.
 
-Tratándose de información reservada deberá indicar lo siguiente:
-
-I. La fuente de la información;
-
-II. Que la información encuadra legítimamente en alguna de las hipótesis de excepción previstas en la Ley de Transparencia, señalando de cuál se trata;
-
-III. Que la divulgación de la información lesiona el interés que protege, explicando detalladamente la causa, motivo, razón o circunstancia;
-
-IV. Que el daño que puede producirse con la publicidad de la información es mayor que el interés público de conocerla, explicando detalladamente la causa, motivo, razón o circunstancia;
-
-V. Las partes de los documentos que se reservan;
-
-VI. El plazo de reserva, y
-
-VII. La autoridad responsable de su conservación, guarda y custodia, que en todo caso será el titular de la instancia.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 20 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 25.
 
@@ -588,21 +606,27 @@ Si la información solicitada no se entregó en tiempo por el Instituto Electora
 
 Los temas referidos en las solicitudes de acceso a la información serán públicos, al igual que las respuestas que se otorguen, incluyendo, en su caso, la información entregada, salvo la clasificada como reservada y la confidencial.
 
+> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 29.
 
-La consulta de la información pública es gratuita. En caso de que el solicitante requiera la reproducción material de la información, o bien, ésta se encuentre únicamente en medio material, el peticionario deberá cubrir el pago de derechos correspondientes que le sean notificados o, en su caso, acudir a la consulta directa.
+La consulta de la información pública es gratuita. En caso de que la persona solicitante requiera la reproducción material de la información, o bien, ésta se encuentre únicamente en medio material, deberá cubrir el pago por costos de reproducción correspondientes que le sean notificados o, en su caso, acudir a la consulta directa.
 
-El sistema INFOMEX indica a los solicitantes los derechos o cuotas de recuperación a cubrir por la reproducción de la información y contiene el formato de pago ante la institución bancaria respectiva, una vez realizado el pago dicho sistema lo hace del conocimiento a la OIP para que ésta requiera a la instancia la reproducción de la información.
+El sistema INFOMEX indica a las personas solicitantes los derechos o cuotas de recuperación a cubrir por la reproducción de la información y contiene el formato de pago ante la institución bancaria respectiva, una vez realizado el pago dicho sistema lo hace del conocimiento a la OIP para que ésta requiera a la instancia la reproducción de la información.
 
-En caso de que la información requiera del pago de derechos por concepto de reproducción y el solicitante hubiera señalado un domicilio fuera del DistritoFederal (sic) para su entrega, la OIP le solicitará señalar un domicilio dentro del Distrito Federal, o bien, en caso contrario, la información le sea entregada en la OIP.
+Cuando la información pública esté en forma material y la persona solicitante la requiera en formato electrónico, el Instituto Electoral la proporcionará en esta última modalidad sin costo, siempre y cuando el número de fojas a digitalizar en respuesta a una solicitud de información sea hasta cincuenta.
 
-Cuando el solicitante realice el pago del servicio de paquetería conforme a lo previsto en el Sistema INFOMEX y señale un domicilio dentro del Distrito Federal, la OIP realizará la entrega de la información conforme a lo previsto en el artículo 16 del presente Reglamento.
+Cuando se advierta que la misma persona solicitante está requiriendo mediante diversas solicitudes un documento mayor a cincuenta fojas, la solicitud será satisfecha en términos del párrafo anterior; la información restante se hará, en forma material, previo pago de derechos.
+
+En caso de que la información requiera del pago por costos de reproducción y la persona solicitante hubiera señalado un domicilio fuera del Distrito Federal para su entrega, la OIP le solicitará señalar un domicilio dentro del Distrito Federal, o bien, en caso contrario la información le será entrega en la OIP.
+
+Cuando la persona solicitante realice el pago del servicio de paquetería conforme a lo previsto en el sistema INFOMEX y señale un domicilio dentro del Distrito Federal, la OIP realizará la entrega de la información conforme a lo previsto en el artículo 16 del presente Reglamento.
 
 ###### Artículo 30.
 
 Las solicitudes relacionadas con los datos personales se tramitarán en los términos de la Ley de Protección de Datos, los Lineamientos de Datos Personales, los Lineamientos INFOMEX y lo establecido en el Capítulo III de este Reglamento.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 20 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 20 DE OCTUBRE DE 2011)</small>
 
 ### CAPÍTULO III. DEL EJERCICIO DE LOS DERECHOS ARCO
 
@@ -626,7 +650,9 @@ IV. Por el sistema electrónico INFOMEX, y
 
 V. Por vía telefónica, en términos de los lineamientos que expida el INFODF.
 
-En el caso de que la solicitud sea presentada por correo electrónico, en el formato respectivo, escrito material o verbalmente se estará a lo dispuesto por el artículo 10 del Reglamento.
+> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
+
+En el caso de que la solicitud sea presentada por correo electrónico en el formato respectivo, escrito material o verbalmente se estará a lo dispuesto por el artículo 11 del Reglamento.
 
 ###### Artículo 33.
 
@@ -758,35 +784,53 @@ a) El Secretario Ejecutivo;
 
 b) El Secretario Administrativo;
 
-c) El Titular de la Unidad de Apoyo Logístico, y (sic)
+c) El Titular de la Unidad de Apoyo Logístico, y
 
 > <small>(REFORMADA, G.O. 20 DE OCTUBRE DE 2011)</small>
 
 d) El Titular de la Unidad de Sistemas; y
 
-> <small>(ADICIONADA, G.O. 20 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
 
-IV. Invitados Eventuales:
-
-a) Director Ejecutivo de Asociaciones Políticas;
-
-b) Director Ejecutivo de Capacitación Electoral y Educación Cívica;
-
-c) Director Ejecutivo de Organización y Geografía Electoral;
-
-d) Director Ejecutivo de Participación Ciudadana;
-
-e) Titular de la Unidad Técnica del Centro de Formación y Desarrollo;
-
-f) Titular de la Unidad Técnica de Fiscalización;
-
-g) Cualquier persona cuyos conocimientos técnicos o administrativos sean necesarios para el adecuado desahogo de los asuntos a tratar en la sesión respectiva.
-
-El Contralor General y el Titular de la Unidad Jurídica formarán parte del Comité como integrantes, quienes proporcionarán la asesoría correspondiente en el ámbito de su competencia.
+IV. Las y los Invitados Eventuales:
 
 > <small>(ADICIONADO, G.O. 20 DE OCTUBRE DE 2011)</small>
 
-Los invitados eventuales serán convocados únicamente cuando propongan la reserva, clasificación o que declaren la inexistencia de información, o sea necesaria su participación para brindar una opinión técnica o administrativa.
+a) Director Ejecutivo de Asociaciones Políticas;
+
+> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
+
+b) Director Ejecutivo de Educación Cívica y Capacitación;
+
+> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
+
+c) Director Ejecutivo de Organización y Geoestadística Electoral;
+
+> <small>(ADICIONADO, G.O. 20 DE OCTUBRE DE 2011)</small>
+
+d) Director Ejecutivo de Participación Ciudadana;
+
+> <small>(ADICIONADO, G.O. 20 DE OCTUBRE DE 2011)</small>
+
+e) Titular de la Unidad Técnica del Centro de Formación y Desarrollo;
+
+> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
+
+f) Titular de la Unidad Técnica de Vinculación con el Instituto Nacional;
+
+> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
+
+g) Titular de la Unidad Técnica de Fiscalización;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 4 DE NOVIEMBRE DE 2014)</small>
+
+h) Cualquier persona cuyos conocimientos técnicos o administrativos sean necesarios para el adecuado desahogo de los asuntos a tratar en la sesión respectiva.
+
+El Contralor General y el Titular de la Unidad Jurídica formarán parte del Comité como integrantes, quienes proporcionarán la asesoría correspondiente en el ámbito de su competencia.
+
+> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
+
+Los invitados eventuales serán convocados por la Presidencia del Comité únicamente cuando propongan la clasificación como reservada, confidencial o declaración de inexistencia de la información, o sea necesaria su participación para brindar una opinión técnica o administrativa en el ámbito de sus funciones.
 
 ###### Artículo 45.
 
@@ -796,19 +840,41 @@ El Presidente podrá solicitar la asistencia de algún servidor público del Ins
 
 El Presidente y los vocales del Comité, tendrán derecho a voz y voto, en el caso del Contralor General y el Titular de la Unidad Jurídica, sólo tendrán derecho a voz, igual que el Secretario, Asesores e Invitados.
 
+> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 46.
 
-Los integrantes están obligados a guardar discreción y confidencialidad en los asuntos que conozcan. La contravención a esta disposición es objeto de responsabilidad administrativa.
+El Comité podrá celebrar sesiones ordinarias, extraordinarias o urgentes.
+
+I. Las sesiones ordinarias serán convocadas por escrito, cuando menos, con 72 horas de anticipación a la fecha y hora fijada para su inicio.
+
+II. Las sesiones extraordinarias serán convocadas por escrito, cuando menos con 24 horas de anticipación a la fecha y hora programada para su inicio.
+
+III. Las sesiones urgentes podrán ser convocadas mediante oficio, correo electrónico o vía telefónica, dentro de las 12 horas para su celebración.
+
+La Presidencia del Comité convocará a sesiones extraordinarias o urgentes cuando lo estime necesario o a petición de la mayoría de sus integrantes.
+
+La Presidencia precisará en las convocatorias el tipo de sesión de que se trate.
+
+En la minuta correspondiente, se dejará constancia del tipo de sesión y la forma en que la Presidencia convocó.
+
+> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 47.
 
-El Comité se reunirá en sesión ordinaria cada mes. El Presidente del Comité podrá convocar a sesión extraordinaria cuando lo estime necesario o a petición por escrito, firmada por la mayoría de sus integrantes. El tipo de sesión se precisará en la convocatoria emitida por el Presidente del Comité.
+El Comité se reunirá en sesión ordinaria cada mes conforme al calendario que apruebe, el cual puede presentar ajustes o modificaciones, en términos de la dinámica institucional.
 
-El Comité tomará sus decisiones por mayoría de votos. En caso de empate el Presidente tiene voto de calidad.
+La Presidencia del Comité convocará a sesiones extraordinarias cuando se deba pronunciar respecto a la propuesta de clasificación de la información pública, en términos del artículo 25 de este Reglamento, así como para conocer de asuntos no previsibles para ser presentados en sesión ordinaria.
+
+En las sesiones urgentes se tratarán asuntos relacionados con solicitudes de acceso a la información cuya atención requiera un tratamiento apremiante.
+
+> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 48.
 
-Tratándose de asuntos relacionados con solicitudes de acceso a la información, cuya atención requiera un tratamiento urgente, las convocatorias a sesión del Comité se realizarán por escrito sin que medie tiempo perentorio de por medio, dejándose constancia en la minuta de la sesión.
+El Comité tomará sus decisiones por mayoría de votos. En caso de empate el Presidente tiene voto de calidad.
+
+Los integrantes del Comité están obligados a guardar discreción y confidencialidad en los asuntos que conozcan. La contravención a esta disposición es objeto de responsabilidad administrativa.
 
 ###### Artículo 49.
 
@@ -850,13 +916,13 @@ XVI. Elaborar, modificar y aprobar el Manual de la OIP;
 
 XVII. Hacer del conocimiento de la Contraloría General, las conductas en las que incurran los servidores públicos del Instituto que pudieran constituir infracciones administrativas, con motivo del incumplimiento de la Ley de Transparencia, la Ley de Protección de Datos y la normativa aplicable emitida por el INFODF o del Reglamento;
 
-XVIII. Interpretar las disposiciones del Reglamento conforme a lo establecido en el Código y en la Ley de Transparencia, así como resolver lo no previsto en dicho Reglamento, y (sic)
+XVIII. Interpretar las disposiciones del Reglamento conforme a lo establecido en el Código y en la Ley de Transparencia, así como resolver lo no previsto en dicho Reglamento, y
 
 > <small>(REFORMADA, G.O. 20 DE OCTUBRE DE 2011)</small>
 
 XIX. Vigilar el cumplimiento de las resoluciones y recomendaciones que emita el Instituto, y
 
-Las demás que le sean conferidas por el presente Reglamento y el Consejo General. (sic)
+Las demás que le sean conferidas por el presente Reglamento y el Consejo General.
 
 > <small>(ADICIONADA, G.O. 20 DE OCTUBRE DE 2011)</small>
 
@@ -916,7 +982,9 @@ XI. Elaborar la propuesta de clasificación de la información, con base en los 
 
 XII. Coadyuvar con el Comité en la elaboración de las versiones públicas de la información junto con los enlaces de las instancias;
 
-XIII. Revisar periódicamente el sitio de Internet, a efecto de verificar la publicación y actualización de la información del Instituto Electoral y rendir un informe de dicha revisión al Comité y a la Comisión;
+> <small>(REFORMADA, G.O. 4 DE NOVIEMBRE DE 2014)</small>
+
+XIII. Revisar trimestralmente el sitio de Internet, a efecto de verificar la publicación y actualización de la información del Instituto Electoral y rendir un informe de dicha revisión al Comité y a la Comisión;
 
 XIV. Elaborar el informe referido en el artículo 73 de la Ley de Transparencia;
 
@@ -926,17 +994,51 @@ XVI. Asistir a las reuniones de trabajo convocadas por el INFODF e informar al C
 
 XVII. Las demás que establezcan la Ley de Transparencia y el presente Reglamento, así como las que el Comité le asigne en el ámbito de sus atribuciones.
 
-### CAPÍTULO ÚNICO. DEL RECURSO DE REVISIÓN
+> <small>(ADICIONADO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO III. DE LA COMISIÓN PERMANENTE DE NORMATIVIDAD Y TRANSPARENCIA
+
+> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 55.
 
-El solicitante inconforme podrá presentar el recurso de revisión ante el INFODF, en los supuestos establecidos en el artículo 77 de la Ley de Transparencia y 38 de la Ley de Protección de Datos.
+La Comisión tendrá, además de las atribuciones previstas en el artículo 49 del Código, la de emitir opiniones respecto de proyectos de informes que en materia de transparencia y acceso a la información se presenten al Consejo General.
 
-La OIP orientará al solicitante sobre su derecho de interponer el recurso, así como el modo y plazo para hacerlo.
+> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 56.
 
-Tratándose de recursos de revisión interpuestos en contra del Instituto Electoral, corresponde al Titular de la Unidad de Comunicación:
+La Comisión podrá emitir opiniones respecto del cumplimiento de la normativa en materia de transparencia y acceso a la información en la toma de decisiones, acuerdos o resoluciones, siempre y cuando medie una solicitud formal de la parte interesada. En ningún caso dicha opinión tendrá efectos vinculantes.
+
+> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 57.
+
+Para emitir las opiniones que se le soliciten, la Comisión podrá pedir la información que estime necesaria a las Direcciones Ejecutivas o Unidades Técnicas del Instituto.
+
+> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 58.
+
+La Comisión aprobará la opinión de que se trate y la hará del conocimiento del Consejo General.
+
+## TÍTULO CUARTO. DE LOS MEDIOS DE DEFENSA
+
+### CAPÍTULO ÚNICO. DEL RECURSO DE REVISIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REUBICADO, ANTES ARTÍCULO 55], G.O. 4 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 59.
+
+La persona solicitante inconforme podrá presentar el recurso de revisión ante el INFODF, en los supuestos establecidos en el artículo 77 de la Ley de Transparencia y 38 de la Ley de Protección de Datos.
+
+La OIP orientará al solicitante sobre su derecho de interponer el recurso, así como el modo y plazo para hacerlo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REUBICADO, ANTES ARTÍCULO 56], G.O. 4 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 60.
+
+Tratándose de recursos de revisión interpuestos en contra del Instituto Electoral, corresponde a quien funja como Titular de la Unidad de Comunicación:
 
 I. Elaborar el informe respecto del acto o resolución recurrida, dentro de los cinco días hábiles siguientes a que se refiere la fracción II del artículo 80 de la Ley de Transparencia;
 
@@ -948,13 +1050,19 @@ IV. En su caso, informar al INFODF del cumplimiento de sus resoluciones en un pl
 
 Para lo anterior, el Titular de la Unidad de Comunicación contará con la participación del titular del área responsable de la emisión u omisión de respuesta al recurrente, así como con la asesoría de la Unidad Jurídica.
 
-###### Artículo 57.
+## TÍTULO QUINTO. DE LA TRANSPARENCIA
+
+### CAPÍTULO ÚNICO. DE LA INCORPORACIÓN Y ACTUALIZACIÓN DE LA INFORMACIÓN EN EL SITIO DE INTERNET
+
+> <small>(REFORMADO [N. DE E. REUBICADO -ANTES ARTÍCULO 57-], G.O. 4 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61.
 
 Durante los diez días hábiles posteriores a la conclusión de cada trimestre, las instancias entregarán a la OIP la actualización de la información en términos de los artículos 13, 14, 19 y 39 de la Ley de Transparencia, para su incorporación al sitio de Internet, conforme a lo siguiente:
 
-> <small>(REFORMADA, G.O. 20 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, G.O. 4 DE NOVIEMBRE DE 2014)</small>
 
-I. Las instancias, al remitir la información pública de oficio para su publicación en la sección de transparencia del sitio de Internet, deberán observar lo establecido en los “Criterios de Evaluación de los Portales de Internet aprobados por el Pleno del INFODF”.
+I. Las instancias, al remitir la información pública de oficio para su publicación en la sección de transparencia del sitio de Internet, deberán observar lo establecido en los "Criterios y metodología de evaluación de la información pública de oficio que deben dar a conocer los Entes Obligados en sus portales de Internet", emitidos por el INFODF;
 
 II. La información deberá encontrarse lista para su publicación, correlacionada con el artículo y fracción de la Ley de Transparencia que corresponda, y
 
@@ -962,27 +1070,25 @@ II. La información deberá encontrarse lista para su publicación, correlaciona
 
 III En formato electrónico y mediante bases de datos que permitan la búsqueda y extracción de información.
 
-> <small>(REFORMADO, G.O. 20 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 4 DE NOVIEMBRE DE 2014)</small>
 
-###### Artículo 58.
+###### Artículo 62.
 
-Los titulares de las instancias serán responsables de verificar que la información que les corresponde en términos de los artículos 13, 14, 19, 19 bis y 39, último párrafo de la Ley de Transparencia, se incorpore debidamente en la sección de transparencia del sitio institucional en Internet, se mantenga actualizada y cumpla con los criterios establecidos por el INFODF.
+Las y los titulares de las instancias serán responsables de verificar que la información que les corresponde en términos de los artículos 13, 14, 19, 19 bis y 39, último párrafo de la Ley de Transparencia, se incorpore debidamente en la sección de transparencia del sitio de Internet, se mantenga actualizada y cumpla con los criterios establecidos por el INFODF.
 
-## TÍTULO CUARTO. DE LOS MEDIOS DE DEFENSA
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 4 DE NOVIEMBRE DE 2014)</small>
 
-### CAPÍTULO ÚNICO. DE LA INCORPORACIÓN Y ACTUALIZACIÓN DE LA INFORMACIÓN EN EL SITIO DE INTERNET
+###### Artículo 63.
 
-###### Artículo 59.
+La OIP recabará, publicará y actualizará la información en el sitio de Internet, con la colaboración del personal de la Unidad de Comunicación y de la Unidad de Sistemas. De lo anterior la OIP mantendrá puntual y oportunamente informado al Comité.
 
-La OIP recabará, publicará y actualizará la información en el sitio institucional de Internet, con la colaboración del personal de la Unidad de Comunicación, y de la Unidad de Sistemas. De lo anterior la OIP mantendrá puntual y oportunamente informado al Comité de Transparencia.
+La inobservancia de esta obligación por parte de las y los titulares de las instancias o de cualquier otro servidor público será causa de responsabilidad administrativa.
 
-La inobservancia de esta obligación por parte de los titulares de las instancias o de cualquier otro servidor público será causa de responsabilidad administrativa.
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 4 DE NOVIEMBRE DE 2014)</small>
 
-###### Artículo 60.
+###### Artículo 64.
 
-Se presentarán de forma trimestral ante el Comité de Transparencia los Informes relativos a la actualización en la sección de transparencia en el sitio institucional de Internet.
-
-## TÍTULO QUINTO. DE LA TRANSPARENCIA
+Se presentarán de forma trimestral ante el Comité los informes relativos a la actualización en la sección de transparencia en el sitio de Internet.
 
 ## TRANSITORIOS
 
@@ -996,8 +1102,18 @@ CUARTO. El Comité de Transparencia tendrá un plazo de hasta 45 días hábiles,
 
 QUINTO. Remítase para su publicación dentro del plazo de diez días hábiles a la Gaceta Oficial del Distrito Federal, así como en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en la página de Internet www.iedf.org.mx.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.O. 20 DE OCTUBRE DE 2011.
 
 ÚNICO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+G.O. 4 DE NOVIEMBRE DE 2014.
+
+PRIMERO. La reforma al presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Reglamento.
+
+TERCERO. Publíquese de inmediato en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en la página de Internet www.iedf.org.mx.
+
+CUARTO. Remítase para su publicación a la Gaceta Oficial del Distrito Federal, dentro del plazo de diez días hábiles contados a partir de su aprobación.
