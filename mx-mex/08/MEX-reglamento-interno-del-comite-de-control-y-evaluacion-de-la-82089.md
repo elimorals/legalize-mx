@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-comite-de-control-y-evaluacion-de-la-820
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-07-01"
-last_updated: "2011-07-01"
+last_updated: "2014-11-04"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82089&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERNO DEL COMITE DE CONTROL Y EVALUACION DE LA UNIVERSIDAD MEXIQUENSE DEL BICENTENARIO, DEL ESTADO DE MEXICO
 
-REGLAMENTO INTERNO DEL COMITE DE CONTROL Y EVALUACION DE LA UNIVERSIDAD MEXIQUENSE DEL BICENTENARIO
+REGLAMENTO INTERNO DEL COMITÉ DE CONTROL Y EVALUACIÓN DE LA UNIVERSIDAD MEXIQUENSE DEL BICENTENARIO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DEL COMITÉ DE CONTROL Y EVALUACIÓN DE LA UNIVERSIDAD MEXIQUENSE DEL BICENTENARIO (COCOE), PUBLICADO EN LA G.G. DE 4 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE NOVIEMBRE DE 2014 (SIN EFECTOS).
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el viernes 1 de julio de 2011.
 
@@ -121,7 +123,7 @@ X. Las demás necesarias para el logro de los objetivos del COCOE.
 
 ###### Artículo 9.
 
-El COCOE sesionará en forma ordinaria o extraordinaria, las veces que el Presidente lo estime necesario o la instancia de la Secretaría de la Contraloría del Gobierno del Estado de México, a través del representante de la Dirección General de Control Evaluación (sic) “A”.
+El COCOE sesionará en forma ordinaria o extraordinaria, las veces que el Presidente lo estime necesario o la instancia de la Secretaría de la Contraloría del Gobierno del Estado de México, a través del representante de la Dirección General de Control (sic) Evaluación “A”.
 
 En ambos casos, se procederá de acuerdo a lo siguiente:
 
@@ -310,3 +312,15 @@ ING. L. GILBERTO CORTÉS BASTIDA
 SECRETARIO DEL H. CONSEJO DIRECTIVO DE LA UNIVERSIDAD MEXIQUENSE DEL BICENTENARIO Y RECTOR
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 4 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Reglamento Interno en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se deja sin efectos el Reglamento Interno del COCOE aprobado el 17 de febrero de 2011.
+
+CUARTO.- Las dudas que se susciten con motivo de la interpretación o aplicación del presente Reglamento, así como lo no previsto en el mismo, serán resueltas por la Secretaría de la Contraloría.
