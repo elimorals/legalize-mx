@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-tramite-y-sustanciacion-de-quejas-y-102306"
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-09-09"
-last_updated: "2014-09-09"
+last_updated: "2014-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102306&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2014-08-25"
 
 REGLAMENTO PARA EL TRÁMITE Y SUSTANCIACIÓN DE QUEJAS Y PROCEDIMIENTOS DE INVESTIGACIÓN DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE NOVIEMBRE DE 2014.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 9 de septiembre de 2014.
 
@@ -222,11 +222,15 @@ Cuando las cargas de trabajo lo ameriten, el Secretario Ejecutivo podrá auxilia
 
 ### CAPÍTULO II. TRÁMITE E INTEGRACIÓN DE LOS EXPEDIENTES
 
+> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 10.
 
-Los procedimientos se tramitarán y realizarán de forma congruente, idónea, eficaz, expedita, completa y exhaustiva, fundada y motivada, observando en todo momento el sigilo necesario para que no se vea afectada la investigación; y por lo tanto, durante la consulta de los expedientes, no se permitirá la reproducción de las constancias, por cualquier medio electrónico.
+La tramitación de los procedimientos se realizará de forma congruente, idónea, eficaz, expedita, completa y exhaustiva observando en todo momento el apego a los principios electorales de certeza, imparcialidad, independencia, legalidad, máxima publicidad y objetividad.
 
-Los expedientes podrán ser consultados siempre y en todo momento por los Consejeros Electorales, o por las personas autorizadas por ellos, para tal efecto.
+Los expedientes podrán ser consultados por los Consejeros Electorales o la persona designada por los mismos dentro del recinto de la Dirección Ejecutiva o Unidad que lo posea.
+
+Los Consejeros Electorales, así como las partes involucradas en los procedimientos, podrán solicitar, por escrito, la reproducción total o parcial del expediente, la entrega respectiva se hará mediante oficio. En todo caso los solicitantes se abstendrán de distribuir en cualquier forma la documentación e información recibida.
 
 ###### Artículo 11.
 
@@ -258,7 +262,7 @@ c. Los preceptos legales que se estimen violados por los hechos presuntamente co
 
 d. Las circunstancias de modo, tiempo y lugar en que presuntamente se suscitaron los hechos;
 
-IV. Instruir, en su caso, a la instancia competente, la realización de actuaciones previas, con el objeto de determinar con carácter preliminar, si concurren circunstancias que justifiquen el inicio de un procedimiento. De será así, el plazo para la presentación del acuerdo de petición razonada, comenzará a contar a partir de que se hubieran desahogado dichas diligencias y;
+IV. Instruir, en su caso, a la instancia competente, la realización de actuaciones previas, con el objeto de determinar con carácter preliminar, si concurren circunstancias que justifiquen el inicio de un procedimiento. De será (sic) así, el plazo para la presentación del acuerdo de petición razonada, comenzará a contar a partir de que se hubieran desahogado dichas diligencias y;
 
 V. Poner a consideración de los integrantes de la Comisión las constancias respectivas y formular el proyecto de acuerdo de petición razonada, en el que se determine, si a su consideración ha lugar el inicio del procedimiento, o en su caso, proponga el no inicio del procedimiento por falta de elementos. En ese sentido, el Secretario Ejecutivo propondrá a la Comisión desde el primer acuerdo y atendiendo al caso en concreto, el tipo de procedimiento que será iniciado, tomando en consideración los actos denunciados y las circunstancias de tiempo, modo y lugar en que presuntamente se cometió el acto ilícito.
 
@@ -797,3 +801,15 @@ SEGUNDO. Se abroga el Reglamento para el Trámite, Sustanciación y Resolución 
 TERCERO. Se derogan las disposiciones que se opongan al presente Reglamento.
 
 CUARTO. Remítase para su publicación a la Gaceta Oficial del Distrito Federal, así como en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en la página de Internet www.iedf.org.mx
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 4 DE NOVIEMBRE DE 2014.
+
+PRIMERO. La reforma al presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Reglamento.
+
+TERCERO. Publíquese de inmediato en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en la página de Internet www.iedf.org.mx.
+
+CUARTO. Remítase para su publicación a la Gaceta Oficial del Distrito Federal, dentro del plazo de diez días hábiles contados a partir de su aprobación.
