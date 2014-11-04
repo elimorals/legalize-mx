@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-sesiones-del-consejo-general-y-comisiones-del-808
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-15"
-last_updated: "2014-09-11"
+last_updated: "2014-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80856&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-03-28"
 
 REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE NOVIEMBRE DE 2014.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 15 de abril de 2011.
 
@@ -664,9 +664,11 @@ El Consejo General, mediante votación y a solicitud de alguno de sus integrante
 
 Al aprobarse el orden del día, se consultará en votación económica si se dispensa la lectura de los documentos previamente circulados. A petición de algún integrante del Consejo General, el Secretario del Consejo dará lectura a los documentos que se le soliciten para ilustrar la discusión.
 
+> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 25.
 
-Los asuntos contenidos en el orden del día serán discutidos y, en su caso, votados, salvo cuando el propio Consejo General acuerde, mediante votación, posponer la discusión o votación de algún asunto en particular, así como su devolución para su adecuación y posterior presentación al Consejo General.
+En el caso de que un punto del orden del día aprobado este integrado con varios apartados, cuando se aborde el mismo, cualquiera de los integrantes del Consejo General podrá solicitar se separe para su discusión en lo particular uno o más apartados, observándose en cada caso lo establecido en el artículo 29 del presente Reglamento.
 
 > <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
 
@@ -738,9 +740,11 @@ La votación se tomará en el siguiente orden: contando el número de votos a fa
 
 En caso de empate, el Consejero Presidente tendrá voto de calidad.
 
+> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 32.
 
-Los asuntos contenidos en el orden del día serán discutidos y, en su caso, votados, salvo cuando el propio Consejo General acuerde, mediante votación, posponer la discusión o votación de algún asunto en particular.
+Los asuntos contenidos en el orden del día serán discutidos y, en su caso, votados, salvo cuando el propio Consejo General acuerde, mediante votación, posponer la discusión o votación de algún asunto en particular, así como su devolución para su adecuación y posterior presentación al Consejo General.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
 
@@ -790,11 +794,11 @@ II. Cuando dejen de prevalecer las condiciones que garanticen el buen desarrollo
 
 III. Las demás que expresamente se establecen en el Reglamento.
 
-> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 37.
 
-En caso de suspenderse la sesión, el Consejero Presidente citará para su continuación dentro de los mismos plazos a que se refiere el tercer párrafo del artículo 19 del Reglamento, o bien, cuando se haya superado la causa que motivó la suspensión.
+En caso de suspenderse la sesión, el Consejero Presidente citará para su continuación dentro de los mismos plazos a que se refiere el último párrafo del artículo 19 del Reglamento, o bien, cuando se haya superado la causa que motivó la suspensión.
 
 #### SECCIÓN SÉPTIMA. DE LAS ACTAS DE SESIONES
 
@@ -926,13 +930,11 @@ VII. Firmar las minutas de las sesiones a las que haya asistido, y
 
 VIII. Las demás que les confiera el Código, el Reglamento Interior y la normativa que rige al Instituto Electoral.
 
-> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 44.
 
-Las y los Directores Ejecutivos, así como las y los Titulares de Unidad fungirán como Secretario Técnico de la materia más afín a la Comisión de que se trate.
-
-En caso de no contar con la o el Director Ejecutivo o Titular de Unidad afín a la materia de la comisión, el Presidente de la Comisión podrá proponer a cualquier servidor público del Instituto Electoral para fungir como Secretario Técnico.
+Los Presidentes de las Comisiones tienen la facultad de proponer como Secretario Técnico de su Comisión a un servidor público adscrito a su oficina que tenga un perfil profesional acorde con los trabajos de la Comisión en la que se desempeñará o al Director Ejecutivo o Titular de la Unidad de la materia más afín, con excepción de lo dispuesto en el artículo 90 del Código.
 
 ###### Artículo 45.
 
@@ -1237,3 +1239,13 @@ SEGUNDO. Se derogan las disposiciones que se opongan a este Reglamento.
 TERCERO. Publíquese en la Gaceta Oficial del Distrito Federal, así como en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en la página de Internet www.iedf.org.mx.
 
 CUARTO. Remítase para su publicación dentro del plazo de diez días hábiles a la Gaceta Oficial del Distrito Federal, así como en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en la página de Internet www.iedf.org.mx.
+
+G.O. 4 DE NOVIEMBRE DE 2014.
+
+PRIMERO. La reforma al presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Reglamento.
+
+TERCERO. Publíquese de inmediato en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en la página de Internet www.iedf.org.mx.
+
+CUARTO. Remítase para su publicación a la Gaceta Oficial del Distrito Federal, dentro del plazo de diez días hábiles contados a partir de su aprobación.
