@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2014-10-22"
+last_updated: "2014-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE NOVIEMBRE DE 2014.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -427,9 +427,13 @@ b) Crear y suprimir municipios, tomando en cuenta criterios de orden demográfic
 
 c) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
 
-XXVI. La Comisión de Equidad y Género, conocerá de los temas siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE NOVIEMBRE DE 2014)</small>
 
-a) De equidad entre el hombre y la mujer;
+XXVI. La Comisión Para la Igualdad de Género, conocerá de los temas siguientes:
+
+> <small>(REFORMADO, G.G. 4 DE NOVIEMBRE DE 2014)</small>
+
+a) De igualdad entre el hombre y la mujer;
 
 b) Los relacionados con la participación de la mujer;
 
@@ -2430,3 +2434,9 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Cuando se haga referencia en disposiciones legales o administrativas a la Comisión Legislativa de Asuntos Electorales, se entenderá que corresponde a la Comisión Legislativa Electoral y de Desarrollo Democrático.
+
+G.G. 4 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el Presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
