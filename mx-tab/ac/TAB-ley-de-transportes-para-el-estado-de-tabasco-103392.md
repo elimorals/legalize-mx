@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-transportes-para-el-estado-de-tabasco-103392"
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-25"
-last_updated: "2014-10-25"
+last_updated: "2014-11-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103392&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAB"
 ---
 # LEY DE TRANSPORTES PARA EL ESTADO DE TABASCO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE NOVIEMBRE DE 2014 EN EL P.O. DEL ESTADO DE TABASCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE TRANSPORTES PARA EL ESTADO DE TABASCO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 5 DE NOVIEMBRE DE 2014.</small>
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 25 de octubre de 2014.
 
@@ -1207,7 +1207,9 @@ VIII. Mantener cerradas las puertas durante el recorrido y solamente abrirlas pa
 
 IX. Abstenerse de ingerir bebidas alcohólicas durante las horas de servicio o con veinticuatro horas de anticipación al inicio de su turno respectivo de trabajo;
 
-X. Consumir sustancias psicotrópicas o enervantes de cualquier naturaleza, dentro o fuera del servicio;
+> <small>(F. DE E., P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+X. Abstenerse de consumir sustancias psicotrópicas o enervantes de cualquier naturaleza, dentro o fuera del servicio;
 
 XI. Abstenerse de abastecer combustible llevando pasajeros a bordo;
 
