@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-participacion-ciudadana-del-municipio-de-57673"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-16"
-last_updated: "2011-11-11"
+last_updated: "2014-11-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE PARTICIPACIÓN CIUDADANA DEL MUNICIPIO DE MONTERREY, N. L.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 16 de Noviembre de 2007.
 
@@ -63,7 +63,7 @@ d) Los Consejos Consultivos Ciudadanos.
 
 e) Los Comités de Participación Ciudadana.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 3.
 
@@ -165,7 +165,7 @@ Si en una colonia existen menos de 50 casas habitación, podrá constituir su pr
 
 Cuando dentro de una misma colonia existan dos o más Juntas de Vecinos, exceptuando los casos previstos en el artículo 9, la dirección citará a sus representantes a fin de promover que se pongan de acuerdo en constituir una sola.
 
-> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], P.O. 5 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 5 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 12.
 
@@ -217,7 +217,7 @@ Cuando una Junta de Vecinos cambie de representantes, esta deberá informar dent
 
 Las Juntas de Vecinos no deberán ser utilizadas para hacer proselitismo religioso o partidista, ni actos que alteren el orden público. En caso de que así lo hicieren, la dirección, con la aprobación de la Comisión de Participación Ciudadana del R. Ayuntamiento, tendrá la facultad de desconocer a los miembros de la mesa directiva que intervinieren en ello, previa audiencia que sea otorgada para tal efecto.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE FEBRERO DE 2010)</small>
 
 ### CAPÍTULO TERCERO
 
@@ -225,7 +225,7 @@ Las Juntas de Vecinos no deberán ser utilizadas para hacer proselitismo religio
 
 #### SECCIÓN PRIMERA. DE LA FORMA DE PARTICIPACION CIUDADANA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 16.
 
@@ -511,7 +511,7 @@ XV.- Los demás relacionados con los fines que en su creación se le encomendaro
 
 Una vez que los miembros de los consejos consultivos ciudadanos hayan aceptado participar en el mismo, les será tomada la protesta de ley por el mismo Presidente Municipal o quien él designe para tal efecto.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 39.
 
@@ -591,25 +591,25 @@ El Presidente del Consejo Consultivo Ciudadano no podrá ejercer la presidencia 
 
 El Presidente Municipal y los miembros de los consejos consultivos ciudadanos podrán crear subcomisiones dentro de cada consejo para el mejor desempeño de sus funciones.
 
-(ABROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LOS COMITES DE ACCION COMUNITARIA, P.O. 18 DE MARZO DE 2011)
+(ABROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LOS COMITÉS DE ACCIÓN COMUNITARIA, P.O. 18 DE MARZO DE 2011)
 
 ### CAPÍTULO QUINTO. DE LOS COMITÉS DE PARTICIPACIÓN CIUDADANA
 
-(ABROGADA POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LOS COMITES DE ACCION COMUNITARIA, P.O. 18 DE MARZO DE 2011)
+(ABROGADA POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LOS COMITÉS DE ACCIÓN COMUNITARIA, P.O. 18 DE MARZO DE 2011)
 
 DISPOSICIONES GENERALES
 
 ###### Artículo 50.
 
-(ABROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LOS COMITES DE ACCION COMUNITARIA, P.O. 18 DE MARZO DE 2011)
+(ABROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LOS COMITÉS DE ACCIÓN COMUNITARIA, P.O. 18 DE MARZO DE 2011)
 
 ###### Artículo 51.
 
-(ABROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LOS COMITES DE ACCION COMUNITARIA, P.O. 18 DE MARZO DE 2011)
+(ABROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LOS COMITÉS DE ACCIÓN COMUNITARIA, P.O. 18 DE MARZO DE 2011)
 
 ###### Artículo 52.
 
-(ABROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LOS COMITES DE ACCION COMUNITARIA, P.O. 18 DE MARZO DE 2011)
+(ABROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LOS COMITÉS DE ACCIÓN COMUNITARIA, P.O. 18 DE MARZO DE 2011)
 
 ### CAPÍTULO SEXTO. DE LAS AUDIENCIAS PÚBLICAS
 
@@ -631,51 +631,467 @@ A las audiencias deberán asistir, salvo causa justificada, tanto el Presidente 
 
 Cada Secretaría deberá llevar un control de lo manifestado por cada uno de los ciudadanos y se le deberá dar seguimiento según su naturaleza hasta su total conclusión, debiendo informar a la dirección dentro de los siguientes 45 días la solución que se dio a cada una de ellas.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE NOVIEMBRE DE 2014)</small>
 
-### CAPÍTULO SÉPTIMO. DE LAS CONSULTAS CIUDADANAS
+### CAPÍTULO SÉPTIMO. DE LOS INSTRUMENTOS DE PARTICIPACIÓN CIUDADANA
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2011)</small>
+> <small>(ADICIONADA CON LOS APARTADOS Y ARTÍCULOS QUE LOS INTEGRAN, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+#### SECCIÓN PRIMERA. DE LAS CONSULTAS CIUDADANAS
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+APARTADO PRIMERO
+
+DE LAS DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 56.
 
-La consulta es un mecanismo de participación ciudadana mediante la cual se realiza un cuestionamiento a la ciudadanía sobre algún tema en particular. Se podrá realizar consulta a la población en general, colonia o grupo en particular, según sea el caso, a través de la cual los ciudadanos podrán emitir sus opiniones.
+Las consultas ciudadanas son instrumentos de participación ciudadana, a través de los cuales los vecinos del Municipio manifiestan sus opiniones, propuestas y planteamientos respecto a un asunto municipal o de trascendencia para el Municipio en términos de la convocatoria.
 
-Se deberán realizar una o varias consultas ciudadanas al elaborar el Plan Municipal de Desarrollo, así como su Plan Operativo Anual.
-
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 57.
 
-La consulta ciudadana será convocada por el Presidente Municipal en conjunto con el Secretario del Ayuntamiento y el titular de la dependencia correspondiente según el tema a tratar.
+Las consultas ciudadanas serán convocadas por el Ayuntamiento o por el Presidente Municipal y podrán ser públicas o por invitación.
 
-La convocatoria de la consulta ciudadana deberá ser aprobada por el Ayuntamiento, en la convocatoria se deberá expresará (sic) el motivo de la misma así como la fecha, lugar y forma como se recibirán las ponencias, opiniones, propuestas o planteamientos.
-
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 58.
 
-La convocatoria deberá ser difundida por los medios de comunicaciones idóneas para hacerla del conocimiento de los ciudadanos interesados y en caso de interesar solamente a algún sector del Municipio, se hará llegar a los Delegados Municipales correspondientes y demás organizaciones ciudadanas, para que coadyuven con la autoridad municipal en la difusión de ésta en la zona vecinal que les corresponde.
+El resultado de las consultas ciudadanas únicamente tendrá el carácter de recomendación.
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 59.
 
-El resultado de la consulta será elaborado por la autoridad convocante y se hará público. De igual manera se hará del conocimiento de los vecinos las acciones que realizara la autoridad municipal.
+Las opiniones, propuestas o planteamientos de los vecinos en las consultas ciudadanas podrán manifestarse por medios electrónicos o por escrito, según lo determine la convocatoria.
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 60.
 
-El Municipio podrá realizar consulta cerrada a algún grupo de personas u organizaciones en particular, relacionada con la problemática a consultar, la cual no se requerirá ser difundida en los medios de comunicación masiva y se hará llegar por escrito a las personas que la autoridad estime pertinente con reconocido prestigio en la materia y con la anticipación necesaria para su realización.
+Para recibir las opiniones, propuestas o planteamientos de los vecinos en las consultas ciudadanas, el Ayuntamiento o el Presidente Municipal, organizarán foros, mesas de trabajo, reuniones públicas o encuestas; habilitarán sitios en internet o a través de las redes sociales; o bien designarán una oficina pública para recibirlas.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 11 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 61.
 
-El resultado de las opiniones, propuestas o planteamientos de los ciudadanos o especialistas, no tendrán carácter obligatorio o vinculatorio, pero serán importantes elementos de juicio para la toma de decisiones de la Autoridad Municipal.
+Las convocatorias a las consultas ciudadanas deberán contener cuando menos:
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE FEBRERO DE 2010)</small>
+I. La determinación de si se trata de una consulta ciudadana pública o por invitación;
+
+II. El asunto objeto de la consulta ciudadana;
+
+III. Las circunstancias de tiempo, forma, lugar y requisitos para manifestar opiniones, propuestas o planteamientos; y
+
+IV. En su caso, la fecha, hora y lugar en que se llevarán a cabo los foros, mesas de trabajo o reuniones públicas.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+APARTADO SEGUNDO
+
+DE LAS CONSULTAS CIUDADANAS PÚBLICAS
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis.
+
+Serán consultas ciudadanas públicas aquellas en las que para su realización se convoque a los vecinos del Municipio para que expongan sus opiniones, propuestas y planteamientos en relación con algún asunto determinado.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 1.
+
+Las convocatorias a las consultas ciudadanas públicas deberán difundirse cuando menos a través del Periódico Oficial del Estado, el Portal de Internet del Municipio y en al menos dos de los diarios de mayor circulación.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 2.
+
+Las conclusiones de estas consultas serán elaboradas por la instancia que la haya convocado y serán públicas al igual que las acciones que, con base en ellas, vaya a realizar el Municipio.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+APARTADO TERCERO
+
+DE LAS CONSULTAS CIUDADANAS POR INVITACIÓN
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61. Bis 3.
+
+Serán consultas ciudadanas por invitación aquellas en las que para su realización se convoque únicamente a un grupo determinado de personas en razón a su domicilio, trayectoria, profesión o especialidad.
+
+La convocatoria para la consulta ciudadana por invitación se hará llegar por escrito a los destinatarios, debidamente firmada por el titular de la Dependencia municipal o el presidente de la Comisión del Ayuntamiento que haya propuesto la convocatoria.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 4.
+
+Las conclusiones de las consultas ciudadanas por invitación serán elaboradas por la instancia que la haya convocado y serán públicas al igual que las acciones que, con base en ellas, vaya a realizar el Municipio.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+#### SECCIÓN SEGUNDA. DEL REFERÉNDUM
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 5.
+
+El Referéndum es un instrumento de participación directa mediante el cual la ciudadanía manifiesta su aprobación o rechazo sobre la creación, modificación, derogación o abrogación de Reglamentos o de disposición administrativa de observancia general que sea competencia del Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 6.
+
+Es facultad exclusiva del Ayuntamiento decidir por acuerdo de las dos terceras partes de sus integrantes si somete o no a Referéndum la creación, modificación, derogación o abrogación de Reglamentos o de disposición administrativa de observancia general, competencia del Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 7.
+
+La realización del Referéndum estará sujeta a las siguientes reglas:
+
+I. Podrán solicitar al Ayuntamiento la realización del Referéndum el Presidente Municipal o uno o varios Regidores y Síndicos del Ayuntamiento. La solicitud de los miembros del Ayuntamiento se podrá presentar en cualquier momento del proceso reglamentario, pero siempre antes de la aprobación del Reglamento o de las disposiciones administrativas de observancia general para el Municipio.
+
+II. También podrá solicitar al Ayuntamiento la realización del Referéndum por lo menos el 2% de los ciudadanos inscritos en la lista nominal de electores cuyo domicilio esté en el Municipio de Monterrey.
+
+Las firmas no se computarán para los efectos del porcentaje requerido cuando:
+
+1) Se presenten nombres con datos incompletos, falsos o erróneos;
+
+2) No se acompañen la clave de elector y el número identificador al reverso de la credencial de elector derivado del reconocimiento óptico de caracteres (OCR) de la credencial para votar con fotografía vigente;
+
+3) Un ciudadano haya suscrito dos o más veces la misma solicitud de Referéndum; en este caso, sólo se contabilizará una de las firmas;
+
+4) Los ciudadanos hayan sido dados de baja de la lista nominal por alguno de los supuestos previstos en la Ley General de Instituciones y Procedimientos Electorales.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 8.
+
+Toda solicitud de Referéndum deberá estar contenida en un escrito que cumplirá por lo menos con los siguientes elementos:
+
+I. Nombre completo y firma del solicitante o solicitantes;
+
+II. Señalar domicilio dentro del Municipio para oír y recibir las notificaciones;
+
+III. Las razones por las cuales el acto, ordenamiento o parte de su articulado deben someterse a la consideración de la ciudadanía, previa a la entrada en vigor del acto reglamentario; y
+
+La solicitud que provenga de los ciudadanos, además de los requisitos previstos, deberá complementarse con:
+
+1) Nombre completo y domicilio del representante para recibir notificaciones;
+
+2) Designar de entre ellos mismos, un representante común propietario y un suplente, quienes quedarán facultados para oír y recibir notificaciones y documentos y podrán realizar todos los actos necesarios para tramitar y en su caso desahogar el Referéndum.
+
+3) Anexo que contenga los nombres completos de los ciudadanos y su firma, además de la clave de elector y el número identificador al reverso de la credencial de elector derivado del reconocimiento óptico de caracteres (OCR) de la credencial para votar con fotografía vigente.
+
+Toda la documentación, así como los anexos, deberán estar plenamente identificados, señalando en la parte superior de cada hoja el ordenamiento o articulado que se somete a Referéndum.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 9.
+
+El Ayuntamiento deberá dictaminar la solicitud presentada dentro de un plazo de 45 días hábiles, y podrá, en su caso:
+
+I. Aprobarla en sus términos, dándole trámite para que se someta a Referéndum en los términos del presente Reglamento;
+
+II. Proponer modificaciones al texto de la propuesta, sin alterar la sustancia de la misma e informando de ello al promovente por conducto de su representante, para que en un término de 10 días hábiles manifieste su aceptación o rechazo; o
+
+III. Rechazarla en caso de ser improcedente por contravenir las disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 10.
+
+El Ayuntamiento declarará la improcedencia de la solicitud de Referéndum en los siguientes casos:
+
+I. Cuando no cumpla con los requisitos establecidos en los artículos 61 Bis 7 o 61 Bis 8 del presente Reglamento;
+
+II. Para corroborar el porcentaje del 2% al que se refiere el artículo 61 Bis 7 fracción II, el Ayuntamiento, a través de la Secretaría del Ayuntamiento dentro del plazo al que se refiere el artículo anterior, solicitará a la autoridad electoral los datos estadísticos a fin de realizar el cómputo correspondiente.
+
+Una vez que se corrobore que se alcanzó el requisito porcentual la Dirección de Participación Ciudadana deberá realizar un muestreo para verificar el apoyo del ciudadano a la solicitud de Referéndum.
+
+También podrá el Municipio celebrar un convenio con la autoridad electoral Federal o Estatal a fin de que ésta verifique el porcentaje de ciudadanos requeridos para solicitar el Referéndum.
+
+III. Cuando se refiera a las materias que señala el artículo 61 bis 15 del presente Reglamento;
+
+IV. Cuando se solicite durante los seis meses anteriores al mes en que tengan verificación elecciones constitucionales para la renovación de los poderes públicos;
+
+V. Cuando la decisión materia del Referéndum se haya aprobado; y
+
+VI. En los demás casos en que la improcedencia resulte por disposición legal aplicable.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 11.
+
+En el supuesto de que el Ayuntamiento no manifieste su aprobación, propuesta de modificaciones o rechazo de la solicitud de Referéndum dentro del término de 45 días hábiles señalado en el artículo 61 Bis 9 del presente Reglamento, la misma se tendrá por aprobada y se procederá a la realización del Referéndum.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 12.
+
+En el supuesto de que el promovente no responda la propuesta a que refiere la fracción II del artículo 61 bis 9 del presente Reglamento en un plazo de 10 días hábiles, se tendrá por aceptada y en consecuencia el Ayuntamiento aprobará la realización del Referéndum en los términos del presente Reglamento.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 13.
+
+El procedimiento de Referéndum deberá iniciarse por medio de la convocatoria que expida el Ayuntamiento, misma que se publicará en el Periódico Oficial del Estado y en al menos en uno de los principales diarios de Monterrey, Nuevo León, cuando menos noventa días naturales antes de la fecha de realización del mismo.
+
+En todo caso, la procedencia del Referéndum suspenderá la aprobación de la creación, reforma o abrogación del reglamento o disposición administrativa de carácter general materia del Referéndum, hasta en tanto se conozcan los resultados del mismo.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 14.
+
+La convocatoria a Referéndum que expida el Ayuntamiento contendrá:
+
+I. La fecha en que habrá de realizarse la votación;
+
+II. El texto de la(s) pregunta(s) que se someterá(n) a Referéndum, que versará(n) sobre el mismo tema;
+
+III. Un extracto de la presentación de la exposición de los motivos por los que se propone el Referéndum.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 15.
+
+No podrán someterse a Referéndum aquellos Reglamento (sic), Artículos o disposición de observancia general que traten sobre las siguientes materias:
+
+I. La restricción de los Derechos Humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos;
+
+II. Los principios consagrados en el artículo 40 de la Constitución Política de los Estados Unidos Mexicanos;
+
+III. Tributaria, fiscal o de egresos del Municipio de Monterrey, Nuevo León;
+
+IV. Régimen interno de la Administración Pública del Municipio;
+
+V. Regulación interna del Ayuntamiento;
+
+VI. Regulación interna de los organismos descentralizados del Municipio;
+
+VII. Las demás que determinen las disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 16.
+
+Durante los seis meses anteriores al día en que tengan verificativo elecciones de representantes populares, no podrán realizarse procedimientos de Referéndum, ni durante los sesenta días posteriores a su conclusión.
+
+No podrá realizarse más de un procedimiento de Referéndum en un mismo año.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 17.
+
+Son requisitos para participar en el proceso de Referéndum:
+
+I. Ser ciudadano mexicano conforme al artículo 34 de la Constitución Política de los Estados Unidos Mexicanos;
+
+II. Estar inscrito en la Lista Nominal de Electores;
+
+III. Tener credencial para votar con fotografía vigente, cuyo domicilio esté en el Municipio de Monterrey, y;
+
+IV. No estar suspendido en sus derechos políticos.
+
+El Ayuntamiento es responsable de la organización, desarrollo y cómputo del Referéndum, para tales efectos conformará a propuesta del Presidente Municipal, una comisión plural que será auxiliada por el Secretario del Ayuntamiento. Los Resultados deberán informarse al Pleno.
+
+Para la emisión del voto en los procesos de Referéndum se deberán imprimir las papeletas, debiendo contener como mínimo:
+
+a) Breve descripción sobre la creación, modificación, derogación o abrogación de Reglamentos o de disposición administrativa de observancia general;
+
+b) La(s) pregunta(s) a realizar, seguida(s) por cuadros para el “SÍ” y para el “NO”, colocados simétricamente y en tamaño apropiado para facilitar su identificación por el ciudadano al momento de emitir su voto;
+
+c) Las firmas impresas del Presidente Municipal y Síndico Segundo del Ayuntamiento.
+
+Las papeletas estarán adheridas a un talón con folio, cuyo número será progresivo, del cual serán desprendibles.
+
+Para determinar la nulidad o validez de los votos, se observarán las siguientes reglas:
+
+1) Se contará un voto válido por la marca que haga el ciudadano en un solo cuadro que determine claramente el sentido del voto como “SÍ” o “NO”, y;
+
+2) Se contará como un voto nulo la sección de la papeleta que el ciudadano marque de forma diferente a lo señalado en la fracción anterior o cuando la deposite en blanco o altere con leyendas el texto de la papeleta.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 18.
+
+Cuando la participación total en el Referéndum corresponda, al menos, al cuarenta por ciento de los ciudadanos inscritos en la lista nominal de electores del Municipio de Monterrey, el resultado será vinculatorio para el Ayuntamiento. De lo contrario, su resultado sólo servirá como elementos (sic) de valoración para la autoridad.
+
+Los resultados del Referéndum se publicarán en el Periódico Oficial del Estado, en la Gaceta Municipal y en al menos dos de los diarios de mayor circulación.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+#### SECCIÓN TERCERA. DEL PLEBISCITO
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 19.
+
+A través del Plebiscito, dos terceras partes del Ayuntamiento o el Presidente Municipal podrán consultar a los electores para que expresen su aprobación o rechazo previo a actos o decisiones del mismo, que a su juicio sean trascendentes para la vida pública del Municipio.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 20.
+
+Podrán solicitar al Ayuntamiento o al Presidente Municipal que convoque a Plebiscito, las dos terceras partes del Ayuntamiento o por lo menos el 2% de los ciudadanos inscritos en la lista nominal electoral, cuyo domicilio esté en el Municipio de Monterrey quienes deberán anexar a su solicitud un listado con sus nombres, firmas y clave de su credencial de elector.
+
+Las firmas no se computarán para los efectos del porcentaje requerido cuando:
+
+I. Se presenten nombres con datos incompletos, falsos o erróneos;
+
+II. No se acompañen la clave de elector y el número identificador al reverso de la credencial de elector derivado del reconocimiento óptico de caracteres (OCR) de la credencial para votar con fotografía vigente;
+
+III. Un ciudadano haya suscrito dos o más veces la misma solicitud de Plebiscito; en este caso, sólo se contabilizará una de las firmas;
+
+Cuando el Plebiscito sea solicitado por los ciudadanos, deberán nombrar un representante común.
+
+La autoridad a la que se le haya solicitado convocar a Plebiscito, mediante solicitud de los ciudadanos deberá en un plazo de treinta días hábiles:
+
+1) Aprobarla en sus términos, dándole trámite para que se someta a Plebiscito;
+
+2) Proponer modificaciones técnicas al texto de la propuesta, sin alterar la sustancia de la misma, o;
+
+3) Rechazarla, en caso de ser improcedente porque violente ordenamientos locales o federales.
+
+En caso de no haber determinación escrita de la autoridad en el plazo indicado, se considerará aprobada la solicitud.
+
+El Presidente Municipal hará la convocatoria respectiva y la Secretaría del Ayuntamiento le dará trámite de inmediato.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 21.
+
+Toda solicitud de Plebiscito deberá contener, por lo menos:
+
+I. Instancia a quien va dirigida la solicitud;
+
+II. Nombre completo y firma del solicitante o solicitantes;
+
+III. El acto de gobierno que se pretende someter a Plebiscito, así como el órgano u órganos de la administración que lo aplicarán en caso de ser aprobado;
+
+IV. La exposición de los motivos y razones por las cuales el acto se considera de importancia para el Municipio y las razones por las cuales debe someterse a Plebiscito;
+
+La solicitud que provenga de los ciudadanos, además de los requisitos previstos, deberá complementarse con:
+
+1) Nombre completo y domicilio del representante para recibir notificaciones;
+
+2) Designar de entre ellos mismos, un representante común propietario y un suplente, quienes quedarán facultados para oír y recibir notificaciones y documentos y podrán realizar todos los actos necesarios para el trámite y desahogo del Plebiscito.
+
+3) Anexo que contenga los nombres completos de los ciudadanos inscritos en la lista nominal del municipio de Monterrey y su firma, además de la clave de elector y el número identificador al reverso de la credencial de elector derivado del reconocimiento óptico de caracteres (OCR) de la credencial para votar con fotografía vigente.
+
+Para corroborar el porcentaje del 2% al que se refiere el artículo 61 Bis 20, el Ayuntamiento, a través de la Secretaría del Ayuntamiento dentro del plazo al que se refiere el artículo anterior, solicitará a la autoridad electoral los datos estadísticos a fin de realizar el cómputo correspondiente.
+
+Una vez que se corrobore que se alcanzó el requisito porcentual la Dirección de Participación Ciudadana deberá realizar un muestreo para verificar el apoyo del ciudadano a la solicitud de Plebiscito.
+
+También podrá el Municipio celebrar un convenio con la autoridad electoral Federal o Estatal a fin de que ésta verifique el porcentaje de ciudadanos requeridos para solicitar el Plebiscito.
+
+Toda la documentación, así como los anexos, deberán estar plenamente identificados, señalando en la parte superior de cada hoja el asunto que se propone someter a Plebiscito.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 22.
+
+No podrán someterse a Plebiscito, los actos relativos a:
+
+I. Los actos administrativos cuya realización sea obligatoria en los términos de las leyes y reglamentos vigentes;
+
+II. La ejecución de los acuerdos del Ayuntamiento;
+
+III. Régimen Interno del Ayuntamiento;
+
+IV. Régimen interno de la Administración Pública del Municipio;
+
+V. Materias de carácter tributario, fiscal o de egresos del Municipio;
+
+VI. Los actos cuya realización sea obligatoria en los términos de las leyes aplicables, y;
+
+VII. Los demás que determinen las disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 23.
+
+El Ayuntamiento o el Presidente Municipal iniciará el procedimiento de Plebiscito mediante convocatoria que se deberá expedir cuando menos 90-noventa días naturales antes de la fecha de su realización.
+
+La convocatoria se hará del conocimiento a la Secretaría del Ayuntamiento, con la finalidad de que ésta inicie la organización del proceso plebiscitario. Se publicará en el Periódico Oficial, en la Gaceta Municipal y en los principales diarios de circulación en la Ciudad y contendrá:
+
+I. La descripción del acto de autoridad sometido a Plebiscito, así como su exposición de motivos.
+
+II. La explicación del mecanismo de aplicación del acto de gobierno, así como de los efectos de aprobación o rechazo;
+
+III. La fecha en que habrá de realizarse la votación; y
+
+IV. La(s) pregunta(s) conforme a la cual(es) los electores expresarán su aprobación o rechazo.
+
+El Presidente Municipal o el Ayuntamiento podrán negar la solicitud de Plebiscito fundando y motivando su resolución.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 24.
+
+El Presidente Municipal o el Ayuntamiento podrán auxiliarse de los órganos locales de gobierno, instituciones de educación superior o de organismos sociales y civiles relacionados con la materia de que trate el Plebiscito para la elaboración de la(s) pregunta(s).
+
+La(s) pregunta(s) que se proponga(n) para la consulta deberá(n) ser elaborada(s) sin contenidos tendenciosos o juicios de valor y formulada(s) de tal manera que produzca(n) una respuesta categórica en sentido positivo o negativo; y deberá(n) estar relacionada(s) con el tema de la consulta.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 25.
+
+Durante los seis meses anteriores al día en que tengan verificativo elecciones de representantes populares, no podrá realizarse procedimiento Plebiscitario alguno, ni durante los sesenta días posteriores a su conclusión.
+
+No podrá realizarse más de un procedimiento de Plebiscito en un mismo año.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 26.
+
+Son requisitos para participar en el proceso de Plebiscito:
+
+I. Ser ciudadano mexicano conforme al artículo 34 de la Constitución Política de los Estados Unidos Mexicanos;
+
+II. Estar inscrito en la Lista Nominal Electoral;
+
+III. Tener credencial para votar con fotografía vigente, con domicilio en el Municipio de Monterrey, y;
+
+IV. No estar suspendido en sus derechos políticos.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 27.
+
+Cuando el Plebiscito lo convoque el Presidente Municipal, la Secretaría del Ayuntamiento será la responsable de la organización y desarrollo del Plebiscito, el cómputo respectivo y remitirá los resultados definitivos a la Comisión de Gobernación y Reglamentación, la que deberá realizar el Dictamen correspondiente para someterlo al Ayuntamiento. Cuando el Plebiscito lo convoque el Ayuntamiento, éste nombrará una Comisión Plural que será auxiliada por la Secretaría del Ayuntamiento para la organización, desarrollo y cómputo del Plebiscito. En ambos casos podrá celebrarse un convenio con la autoridad electoral Estatal o Federal para la organización, desarrollo y cómputo del Plebiscito.
+
+Para la emisión del voto en los procesos de Plebiscito se deberán imprimir las papeletas, debiendo contener como mínimo:
+
+a) La(s) pregunta(s) sujeta(s) a Plebiscito;
+
+b) Cuadros para el “SÍ” y para el “NO”, colocados simétricamente y en tamaño apropiado para facilitar su identificación por el ciudadano al momento de emitir su voto;
+
+c) Las firmas impresas del Presidente Municipal y Síndico Segundo del Ayuntamiento.
+
+Las papeletas estarán adheridas a un talón con folio, cuyo número será progresivo, del cual serán desprendibles.
+
+Para determinar la nulidad o validez de los votos, se observarán las siguientes reglas:
+
+1) Se contará un voto válido por la marca que haga el ciudadano en un solo cuadro que determine claramente el sentido del voto como “SÍ” o “NO”, y;
+
+2) Se contará como un voto nulo la sección de la papeleta que el ciudadano marque de forma diferente a lo señalado en la fracción anterior o cuando la deposite en blanco o altere con leyendas el texto de la papeleta.
+
+Los resultados del Plebiscito se publicarán en el Periódico Oficial del Estado, en la Gaceta Municipal, y en al menos dos de los diarios de mayor circulación.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 28.
+
+Cuando la participación total en el Plebiscito corresponda, al menos, al cuarenta por ciento de los ciudadanos inscritos en la lista nominal de electores del Municipio de Monterrey, el resultado será vinculatorio para el Municipio. De lo contrario, sus resultados sólo servirán como elementos de valoración para la autoridad convocante.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE FEBRERO DE 2010)</small>
 
 ### CAPÍTULO OCTAVO. DEL CENTRO DE MEDIACIÓN MUNICIPAL
 
@@ -809,7 +1225,7 @@ Si hay acuerdo total o parcial, se establecerán de manera clara y precisa los p
 
 En supletoriedad de este Reglamento serán aplicables la Ley de Métodos Alternos para la Solución de Conflictos del Estado de Nuevo León y el Reglamento del Centro Estatal de Métodos Alternos para la Solución de Conflictos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 70.
 
@@ -892,3 +1308,7 @@ Las presentes reformas por modificación y adición del Reglamento de Participac
 ###### ARTÍCULO SEGUNDO
 
 La (sic) disposiciones contenidas en los artículos 62 y 63 del Reglamento de Participación Ciudadana del municipio de Monterrey, Nuevo León, entraran en vigor a partir de la publicación en el Periódico Oficial del Estado, de las reformas al Reglamento Orgánico del Gobierno Municipal de Monterrey, referente a establecer atribuciones a las dependencias para que estas se encuentren facultadas para conocer de métodos alternos.
+
+P.O. 5 DE NOVIEMBRE DE 2014.
+
+ÚNICO.- Las presentes Reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
