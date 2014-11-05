@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-del-municipio-de-18473"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-07-14"
-last_updated: "2008-07-07"
+last_updated: "2014-11-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18473&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE MONTERREY, NUEVO LEON
 
-REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE MONTERREY, NUEVO LEON
+REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE MONTERREY, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 14 de julio de 2000.
 
@@ -63,7 +63,7 @@ Es deber de todo ciudadano dentro de sus posibilidades y sin menoscabo de sus de
 
 Todo ciudadano puede denunciar ante las autoridades correspondientes, las conductas que infrinjan este Reglamento o cualquier otro de carácter municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2008)</small>
 
 ###### Art. 7º.
 
@@ -73,11 +73,11 @@ I.- El C. Presidente Municipal
 
 II.- El C. Secretario del R. Ayuntamiento
 
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2014)</small>
 
-III.- El C. Secretario de Policía Preventiva Municipal de Monterrey
+III.- El C. Secretario de Seguridad Pública y Vialidad
 
-IV.- El C. Secretario de Vialidad y Tránsito
+IV.- (DEROGADA, P.O. 5 DE NOVIEMBRE DE 2014)
 
 > <small>(REFORMADA, P.O. 7 DE JULIO DE 2008)</small>
 
@@ -99,13 +99,11 @@ VIII. Los Comisarios
 
 IX.- Los Inspectores Municipales
 
-> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2014)</small>
 
-X.- Los Oficiales de Vialidad y Tránsito
+X.- Los Oficiales de la Secretaría de Seguridad Pública y Vialidad.
 
-> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2008)</small>
-
-XI.- Los Oficiales de la Secretaría de Policía Preventiva de Monterrey
+XI.- (DEROGADA, P.O. 5 DE NOVIEMBRE DE 2014)
 
 ###### Art. 8º.
 
@@ -123,25 +121,25 @@ Para efectos de este Reglamento se considera como lugar público todo espacio de
 
 (DEROGADO, P.O. 7 DE JULIO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL REGLAMENTO INTERNO DE LA SECRETARIA DE POLICIA PREVENTIVA MUNICIPAL DE MONTERREY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL REGLAMENTO INTERNO DE LA SECRETARÍA DE POLICÍA PREVENTIVA MUNICIPAL DE MONTERREY.</small>
 
 ###### Art. 11º.
 
-(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DE LA SECRETARIA DE POLICIA PREVENTIVA MUNICIPAL DE MONTERREY, P.O. 21 DE JUNIO DE 2002)
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DE LA SECRETARÍA DE POLICÍA PREVENTIVA MUNICIPAL DE MONTERREY, P.O. 21 DE JUNIO DE 2002)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL REGLAMENTO INTERNO DE LA SECRETARIA DE POLICIA PREVENTIVA MUNICIPAL DE MONTERREY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL REGLAMENTO INTERNO DE LA SECRETARÍA DE POLICÍA PREVENTIVA MUNICIPAL DE MONTERREY.</small>
 
 ###### Art. 12º.
 
-(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DE LA SECRETARIA DE POLICIA PREVENTIVA MUNICIPAL DE MONTERREY, P.O. 21 DE JUNIO DE 2002)
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DE LA SECRETARÍA DE POLICÍA PREVENTIVA MUNICIPAL DE MONTERREY, P.O. 21 DE JUNIO DE 2002)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL REGLAMENTO INTERNO DE LA SECRETARIA DE POLICIA PREVENTIVA MUNICIPAL DE MONTERREY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL REGLAMENTO INTERNO DE LA SECRETARÍA DE POLICÍA PREVENTIVA MUNICIPAL DE MONTERREY.</small>
 
 ###### Art. 13º.
 
-(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DE LA SECRETARIA DE POLICIA PREVENTIVA MUNICIPAL DE MONTERREY, P.O. 21 DE JUNIO DE 2002)
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DE LA SECRETARÍA DE POLICÍA PREVENTIVA MUNICIPAL DE MONTERREY, P.O. 21 DE JUNIO DE 2002)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2008)</small>
 
 ###### Art. 14º.
 
@@ -227,7 +225,7 @@ XII.- Impedir, dificultar o entorpecer la prestación de los servicios públicos
 
 XIII.- Permitir, tolerar o promover cualquier tipo de juego de azar con cruce de apuestas sin el permiso de la autoridad correspondiente.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE JULIO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JULIO DE 2008)</small>
 
 ### Capítulo V. Infracciones contra la Seguridad de la Población
 
@@ -367,9 +365,13 @@ VIII.- Introducirse a lugares públicos de acceso reservado sin el permiso de la
 
 ### Capítulo VIII. Infracciones al Ejercicio del Comercio y del Trabajo
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
 ###### Art. 21°.
 
-(DEROGADO, P.O. 7 DE JULIO DE 2008)
+Son prohibiciones:
+
+I. Ofrecer los servicios para trámite o gestión de autorizaciones, licencias o permisos en las oficinas para la administración pública municipal y/o las áreas de atención al ciudadano.
 
 ### Capítulo IX. Infracciones contra la Salud
 
@@ -411,9 +413,13 @@ V.- Incinerar basura sin autorización de autoridad competente.
 
 VI.- Atrapar o cazar fauna, desmontar, retirar tierra de bosques o zonas de reserva ecológica, sin permiso de la autoridad competente.
 
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2014)</small>
 
-VII.- Causar ruidos o sonidos que moleste, perjudique o afecte la tranquilidad de la ciudadanía, tales como los producidos por estéreos, radios, radio grabadoras, instrumentos musicales o aparatos de sonido que excedan el nivel de 68dB (decibeles) de las 6:00 a las 22:00 horas y de 65dB (decibeles) de las 22:00 a las 6:00 horas del día siguiente.
+VII.- Causar emisiones provenientes de aparatos de sonido, fuentes móviles, así como ruidos o sonidos que molesten, perjudiquen o afecten la tranquilidad, tales como vehículos móviles que transiten por la ciudad, los producidos por estéreos, radios, grabadoras, instrumentos musicales o aparatos de sonido y/o cualquier otra actividad ruidosa, que excedan los siguientes niveles:
+
+> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 5 DE NOVIEMBRE DE 2014, PÁGINA 97.</small>
+
+Cuando la infracción a que se refiere la fracción VII de este artículo ocurra en propiedad privada, los Oficiales de la Secretaría de Seguridad Pública y Vialidad levantarán un reporte y lo remitirán a la Secretaría de Desarrollo Urbano y Ecología para la instauración del procedimiento administrativo correspondiente.
 
 ### Capítulo XI. Infracciones de Carácter Administrativo
 
@@ -483,13 +489,21 @@ III.- Arresto hasta por 36 horas.
 
 En la imposición de la sanción se deberán apreciar las circunstancias de la falta, considerando atenuantes, si existiere, y los siguientes agravantes:
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
 
-a).- Reincidencia, es decir, la comisión de la misma infracción 2 veces o más dentro del período de 6 meses, que se contarán a partir de la comisión de la primera infracción.
+a) Reincidencia, es decir, la comisión de la misma infracción 2 veces o más dentro del periodo de 2 años, que se contarán a partir de la comisión de la primera infracción.
 
 b).- Uso de Violencia Física o Moral.
 
 c).- La gravedad de la infracción y el peligro de la conducta del infractor.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+Sin perjuicio de lo establecido en el artículo 34 Bis del presente Reglamento, a solicitud del infractor, las sanciones administrativas podrán conmutarse por trabajo a favor de la comunidad, el cual sólo procederá cuando el infractor no sea reincidente y se garantice ante la Tesorería Municipal el monto de la multa que se hubiere impuesto. El juez calificador determinará la actividad y el número de horas que deberán cumplirse, las cuales serán de 3 a 36 horas, dependiendo el monto de la multa aplicada y deberán verificarse en un máximo de 20 días naturales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+En caso de que se incumpla con la totalidad de las horas de trabajo a favor de la comunidad, se hará efectiva proporcionalmente la garantía entregada ante la Tesorería Municipal. El juez calificador autorizará la devolución de la garantía al demostrar el infractor el cumplimiento de las horas en las actividades asignadas.
 
 > <small>(REFORMADO, P.O. 7 DE JULIO DE 2008)</small>
 
@@ -497,11 +511,13 @@ c).- La gravedad de la infracción y el peligro de la conducta del infractor.
 
 El Presidente Municipal delega la facultad de determinar la calificación de las infracciones y la aplicación de las sanciones al Sub-Director, Coordinadores y Jueces Calificadores, los que sin perder el carácter de auxiliares de éste, dependen jerárquicamente del Secretario del Ayuntamiento.
 
-> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 34° Bis.
 
-En el caso de la comisión, por primera ocasión, de las infracciones contenidas en los artículos 17 fracciones I, II, VIII, IX, XI, 18 fracción II, 19 fracciones I, II, VII y IX y 23 fracción VII, el Juez Calificador aplicará al infractor la sanción consistente en amonestación.
+En el caso de la comisión, por primera ocasión, de las infracciones contenidas en los artículos 17, fracciones I, II, VIII, IX, XI, 18, fracción II, y 19, fracciones I, II, VII y IX, el Juez Calificador aplicará al infractor la sanción consistente en amonestación.
+
+En el caso de la comisión, por primera ocasión, de la infracción contenida en el artículo 23 fracciones I, II, III y VII, el Juez Calificador, a petición de parte, podrá aplicar trabajo a favor de la comunidad, de conformidad con el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, P.O. 7 DE JULIO DE 2008)</small>
 
@@ -511,7 +527,9 @@ Si la sanción aplicada fuese una multa, ésta será determinada en cuotas, ente
 
 Las multas a aplicar serán las siguientes:
 
-(VEASE ARCHIVO ANEXO)
+> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 7 DE JULIO DE 2008, PÁGINAS DE LA 82 A LA 88.</small>
+
+> <small>N. DE E. VÉASE REFORMAS A LA TABLA P.O. 5 DE NOVIEMBRE DE 2014, PÁGINAS 98 A 100.</small>
 
 ###### Art. 36º.
 
@@ -687,11 +705,11 @@ El C. Secretario del R. Ayuntamiento
 
 Lic. Arnulfo Flores Rodríguez.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 27 DE SEPTIEMBRE DE 2000.
 
-LA REFORMA CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+LA REFORMA CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
 
 P.O. 6 DE DICIEMBRE DE 2000.
 
@@ -722,3 +740,11 @@ Artículo Único.- Las reformas por modificación y derogación al REGLAMENTO DE
 P.O. 7 DE JULIO DE 2008.
 
 Artículo Único.- Las reformas por Adición, modificación y derogación al REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE MONTERREY, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose hacer su posterior publicación en la Gaceta Municipal.
+
+P.O. 5 DE NOVIEMBRE DE 2014.
+
+PRIMERO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Las disposiciones sobre el trabajo comunitario entrarán en vigor 30 días naturales posteriores a su publicación en el Periódico Oficial del Estado, plazo en el cual la Secretaría del Ayuntamiento, a través de la Dirección Jurídica realizará el listado de actividades que podrán incluirse en la aplicación de esta sanción.
+
+TERCERO. Publíquense las presentes reformas en el Periódico Oficial del Estado.
