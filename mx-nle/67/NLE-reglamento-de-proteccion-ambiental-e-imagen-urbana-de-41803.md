@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-proteccion-ambiental-e-imagen-urbana-de-41803"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-09-02"
-last_updated: "2008-10-27"
+last_updated: "2014-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41803&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE PROTECCIÓN AMBIENTAL E IMAGEN URBANA DE MONTERREY
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 2 de septiembre de 1998.
 
@@ -44,6 +44,10 @@ Las disposiciones contenidas en el presente reglamento son de orden público e i
 ###### ARTÍCULO 2.
 
 El objeto del presente Reglamento es facilitar y crear las condiciones para la implementación de la Política de Gestión Ambiental Municipal, mediante la instrumentación de la protección, conservación y restauración de los ecosistemas en el municipio, así como prevenir y controlar los procesos de deterioro ambiental.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+Previa la obtención de las autorizaciones a que se refiere este Reglamento, si así se requiere, deberán acompañarse a la solicitud de las mismas: los resolutivos en materia de manifestación del impacto ambiental, estudios técnicos justificativos y demás instrumentos legales emitidos por las Autoridades competentes en materia ambiental, los cuales en su estructura y alcance legal deberán de ser de conformidad con las leyes y reglamentos ambientales aplicables.
 
 ###### ARTÍCULO 3.
 
@@ -77,55 +81,101 @@ VIII. El fomento y promoción de la Cultura Ambiental en la sociedad; y,
 
 IX. La forestación y reforestación de las áreas verdes urbanas.
 
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 4.
 
-Para los efectos de este Reglamento serán consideradas las definiciones establecidas en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley General para la Prevención y Gestión Integral de los Residuos, Ley General de Desarrollo Forestal Sustentable, la Ley General de Vida Silvestre, los reglamentos que complementan estas leyes, las derivadas de la legislación social en la materia y las siguientes:
+Para los efectos de este Reglamento serán consideradas las definiciones establecidas en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley General para la Prevención y Gestión Integral de los Residuos, Ley General de Desarrollo Forestal Sustentable, la Ley General de Vida Silvestre, Ley General de Cambio Climático, Ley para la Conservación y Protección del Arbolado Urbano del Estado de Nuevo León, Ley Ambiental del Estado de Nuevo León, y los reglamentos que complementan estas leyes, las derivadas de la legislación social en la materia y las siguientes:
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2008)</small>
 
 I. ÁREAS VERDES.- Superficie de terreno de uso público dentro del área urbana o en su periferia, provista de vegetación, jardines, arboledas y edificaciones menores complementarias;
 
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2008)</small>
+
 II. CUBIERTA VEGETAL.- Conjunto de elementos naturales que cubren o pueblan determinada área terrestre;
 
-III. CONSERVACIÓN.- Forma de aprovechamiento que permite el máximo rendimiento sostenido de los recursos naturales con el mínimo deterioro ambiental, logrado mediante la planeación ambiental del desarrollo, asegurando un ambiente propicio y los recursos naturales que permitan satisfacer las necesidades futuras con base en el desarrollo sustentable;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+III. CONSERVACIÓN.- El conjunto de políticas y medidas para mantener dinámicamente las condiciones que propicien la permanencia de los elementos naturales, a través de la planeación ambiental del desarrollo; así como proteger, cuidar, manejar, mantener y en su caso el aprovechamiento de los ecosistemas, los hábitat, las especies y las poblaciones de la vida silvestre, dentro o fuera de sus entornos naturales, de manera que se salvaguarden las condiciones naturales para su permanencia a largo plazo;
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2008)</small>
 
 IV. CONTAMINACIÓN POR ENERGÍA LUMÍNICA.- Es la originada por emisión de rayos de luz o destellos luminosos ya sea en forma continua, intermitente o esporádica, que cause molestias no tolerables o efectos negativos en la salud de las personas;
 
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2008)</small>
+
 V. CONTAMINACIÓN POR ENERGÍA TÉRMICA.- Emisión no natural excesiva de calor susceptible de alterar o modificar la temperatura del ambiente o de los espacios, muros o pisos de las edificaciones colindantes a la fuente fija que la genera, causando molestias o efectos negativos en la salud de las personas;
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2008)</small>
 
 VI. CONTAMINACIÓN POR OLOR.- Es la sensación desagradable producida en el sentido del olfato originado por la emisión de partículas de un cuerpo sólido, líquido o gaseoso, que se perciban al exterior de los inmuebles, establecimientos o áreas y que no sean toleradas por los vecinos colindantes por causarles malestar;
 
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2008)</small>
+
 VII. CONTAMINACIÓN POR RUIDO.- La provocada por sonidos indeseables continuos o intermitentes, emitidos por cuerpos fijos o móviles, susceptibles de causar problemas de salud o ambientales, riesgos, molestias o perjuicios a las personas y que sobrepasen los límites máximos permitidos en las Normas Oficiales Mexicanas correspondientes;
 
-VIII. CONTAMINACIÓN VISUAL.- Desorden producido por desperdicios en áreas públicas incluyendo mal manejo de grabados en edificios, casas, etc., anuncios publicitarios en número excesivo o mal colocados que obstruyen la visibilidad o que alteran la fisonomía de la arquitectura urbana o la naturaleza y que por consecuencia de ello, ocasionen molestias, distracciones o prejuicios (sic) a la comunidad;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+VIII. CONTAMINACIÓN VISUAL.- La alteración nociva de las cualidades de la imagen o del orden de un paraje natural o urbano, causado por uno o más elementos que únicamente tengan la finalidad de ser vistos, incluyéndose dentro de éstos a las estructuras, anuncios, objetos o imágenes fijas o móviles, que por su colocación o número, impidan al espectador apreciar a plenitud las características del entorno o distraigan la atención de las personas, creando situaciones de riesgo para las mismas;
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2008)</small>
 
 IX. CONTAMINACIÓN POR VIBRACIÓN.- Todo movimiento o sacudimiento oscilatorio o trepidatorio, generado por fuentes fijas o móviles que se perciban por las personas en muros o pisos colindantes o en el límite de propiedad del establecimiento;
 
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2008)</small>
+
 X. CORRECCIÓN AMBIENTAL.- Acción de ajustar y modificar de manera positiva los procesos causales de deterioro ambiental, de acuerdo a la normatividad que la ley prevé para cada caso en particular;
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2008)</small>
 
 XI. CORREDOR BIOLÓGICO RIPARIO.- Son áreas de vegetación con un estado de conservación significativo o que requieren ser preservados o restaurados, localizados a lo largo de cuerpos de agua, permanentes o temporales, con el objeto de permitir el flujo genético entre los individuos de flora y fauna, terrestre y acuática, de dos o más regiones o ecosistemas;
 
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2008)</small>
+
 XII. DASONOMÍA URBANA.- Disciplina que se relaciona con el estudio e inventario de la foresta urbana, enseñándonos a manejar y mantener el desarrollo de la misma;
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2008)</small>
 
 XIII. DETERIORO AMBIENTAL.- Alteración de carácter negativo de la calidad del ambiente, en su conjunto o de los elementos que lo integren, cuyo impacto puede provocar afectación a la biodiversidad, a los procesos naturales en los ecosistemas, a la salud y a la calidad de vida de la población;
 
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2008)</small>
+
 XIV. IMAGEN URBANA.- Conjunto de elementos naturales y artificiales que constituyen la Ciudad y que forman el marco visual de los habitantes, tales como edificios, calles, plazas, parques, anuncios, entre otros;
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2008)</small>
 
 XV. MONUMENTO NATURAL MUNICIPAL.- Son aquellas áreas que por sus características naturales propias y singulares representan valores estéticos excepcionales o emblemáticos del municipio, y que se incorporen a un régimen de protección;
 
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2008)</small>
+
 XVI. NORMAS OFICIALES MEXICANAS.- Conjunto de reglas científico-técnicas emitidas por el Gobierno Federal o Estatal, que establecen los principios, criterios, políticas, estrategias, requerimientos, especificaciones, condiciones, procedimientos y límites permisibles que deberán observarse en el desarrollo de actividades, uso y destino de bienes que causen o puedan causar daños al ambiente;
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2008)</small>
 
 XVII. PARQUE URBANO.- Son áreas de interés municipal de uso público que contienen áreas verdes ubicadas en los centros de población, cuyo objetivo es fomentar un ambiente sano y propiciar el esparcimiento y la recreación de la ciudadanía así como proteger y conservar los valores artísticos, históricos, culturales o de belleza natural que sean significativos para la comunidad;
 
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2008)</small>
+
 XVIII. SECRETARIA.- La Secretaría de Desarrollo Urbano y Ecología;
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2008)</small>
 
 XIX. SISTEMA DE DRENAJE Y ALCANTARILLADO.- Es el conjunto de dispositivos y tuberías instalados con el propósito de recolectar, conducir y depositar en un lugar determinado las aguas residuales y pluviales que se generan;
 
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2008)</small>
+
 XX. SISTEMA INTEGRAL DE MONITOREO AMBIENTAL (SIMA).- Sistema concebido con la finalidad de contar con información continua y fidedigna de los niveles de contaminación ambiental en el Área Metropolitana de Monterrey;
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2008)</small>
 
 XXI. TALA.- Arrancar los árboles desde su raíz o cortarlos por el pie o tronco principal;
 
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2008)</small>
+
 XXII. TRANSPLANTE.- La acción de reubicar un árbol o arbusto de un sitio a otro;
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2008)</small>
 
 XXIII. VERIFICACIÓN DE EMISIONES A LA ATMÓSFERA.- Es la medición de las emisiones de gases o partículas sólidas o líquidas proveniente de fuentes fijas y móviles;
 
@@ -185,7 +235,7 @@ En concordancia con este reglamento, se aplicará en lo conducente la Ley Ambien
 
 ### CAPÍTULO II. DE LAS AUTORIDADES COMPETENTES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE OCTUBRE DE 2008)</small>
 
 ###### ARTÍCULO 6.
 
@@ -199,9 +249,9 @@ II. Presidente Municipal;
 
 III. Secretario de Desarrollo Urbano y Ecología;
 
-> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2014)</small>
 
-IV. Secretario de Vialidad y Tránsito;
+IV. Secretario de Seguridad Pública y Vialidad;
 
 > <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2008)</small>
 
@@ -210,6 +260,60 @@ V. Secretario de Servicios Públicos; y,
 > <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2008)</small>
 
 VI. Tesorero.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+VII. Los inspectores adscritos a la Secretaría de Desarrollo Urbano y Ecología, y;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+VIII. Los Oficiales de la Secretaría de Seguridad Pública y Vialidad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+Los inspectores mencionados en este artículo, serán responsables de la inspección, vigilancia y ejecución de las medidas de seguridad y sanciones, y tendrán las atribuciones que establezcan este Reglamento y las demás disposiciones de la materia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+Cuando la infracción ocurra en propiedad privada, los Oficiales de la Secretaría de Seguridad Pública y Vialidad, con el objeto de detectar el incumplimiento a este reglamento, estarán facultados para levantar un reporte de lo encontrado, respecto a las personas o la fuente que causen emisiones provenientes de aparatos de sonido, fuentes móviles, así como ruidos o sonidos que molesten, perjudiquen o afecten la tranquilidad, tales como los producidos por estéreos, radios, grabadoras, instrumentos musicales o aparatos de sonido y/o cualquier otra actividad ruidosa; cuando éstas excedan los siguientes niveles:
+
+ZONA HORARIO LÍMITE MÁXIMO
+
+PERMISIBLE dB
+
+(decibeles)
+
+Residencial; 6:00 a 22:00 55
+
+exclusivamente 22:00 a 6:00 50
+
+relacionado con
+
+zonas habitacionales
+
+(unifamiliares y
+
+multifamiliares).
+
+Industriales y 6:00 a 22:00 68
+
+comerciales. 22:00 a 6:00 65
+
+Escuelas (áreas Durante el juego 55
+
+exteriores de
+
+juego)
+
+Ceremonias, 4 horas 100
+
+festivales y
+
+eventos de
+
+entretenimiento
+
+Dicho reporte se remitirá a la Secretaría para la instauración del procedimiento administrativo correspondiente.
 
 ###### ARTÍCULO 7.
 
@@ -239,7 +343,7 @@ VI. Promover y fomentar la Cultura Ambiental;
 
 > <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2008)</small>
 
-VII. Formular. ejecutar, y evaluar el Programa de educación ambiental del Municipio de Monterrey;
+VII. Formular, ejecutar, y evaluar el Programa de educación ambiental del Municipio de Monterrey;
 
 > <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2008)</small>
 
@@ -397,7 +501,7 @@ II. Asegurar la calidad óptima y sostenida de los ecosistemas y de sus elemento
 
 III. Promover la participación y concertación de los diferentes sectores de la población de acuerdo con el Plan Municipal de Desarrollo para asumir la responsabilidad de la protección de los ecosistemas, elaborando y ejecutando planes y programas tendientes a prevenir, preservar y restaurar el deterioro del ambiente y el equilibrio ecológico, a través de la implementación de un modelo de desarrollo integral;
 
-IV. Asegurar que prevalezca el ambiente sano al que todos los habitantes del municipio tienen derecho; y, (sic)
+IV. Asegurar que prevalezca el ambiente sano al que todos los habitantes del municipio tienen derecho; y,
 
 V. Corregir los desequilibrios que deterioran la calidad de vida de la población mediante la regulación, promoción, restricción, prohibición, orientación e inducción de las acciones de los particulares para la conservación del equilibrio ecológico que junto con el control, la prevención de la contaminación ambiental y el mejoramiento del entorno natural de los asentamientos humanos, son elementos fundamentales para conservar y en su caso elevar la calidad de vida de la población;
 
@@ -521,7 +625,7 @@ La Secretaría de Servicios Públicos podrá determinar la restricción temporal
 
 Las áreas que deban cederse a favor del municipio como parques, jardines o áreas verdes deberán entregarse habilitadas y forestadas, con las especies nativas que determine la Secretaría, a razón de 1-un árbol por cada 64-sesenta y cuatro metros cuadrados de área verde.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE OCTUBRE DE 2008)</small>
 
 ### CAPÍTULO V. DEL IMPACTO AMBIENTAL
 
@@ -561,11 +665,11 @@ Los taludes y áreas que por un proceso de urbanización han sido afectadas, ind
 
 Queda prohibido remover la cubierta vegetal de cualquier predio, excepto en las áreas a ocuparse por las construcciones aprobadas por las autoridades competentes, para lo cual la Secretaría señalará los lineamientos de la remoción y lo conducente para la debida ejecución de lo dispuesto por la Ley de Hacienda para los Municipios del Estado en cuanto al deshierbe de los predios. Cuando por negligencia y mal uso del suelo, se propicien o aceleren los procesos de erosión, la Autoridad Municipal requerirá al propietario y/o responsable para que de inmediato lleve a cabo las acciones de remediación necesarias, independientemente de la aplicación de sanciones que correspondan.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 27 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 29.
 
-Los residuos productos de las construcciones, excavaciones, remodelaciones, modificación parcial o total de edificaciones, deberán depositarse en los lugares que al efecto autorice la Autoridad Estatal. Queda expresamente prohibido arrojarlos a las cañadas, laderas de cerros o predios vecinos.
+Los residuos productos de las construcciones, excavaciones, remodelaciones, modificación parcial o total de edificaciones, deberán depositarse en los lugares que al efecto autorice la Autoridad Estatal. Queda expresamente prohibido arrojarlos a las cañadas, laderas de cerros, escurrimientos, cuerpos de aguas, causes, vados, o similares, así como a los predios vecinos.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 27 DE OCTUBRE DE 2008)</small>
 
@@ -591,11 +695,11 @@ La selección, plantación, mantenimiento, podas, talas y trasplante de especies
 
 La Secretaría dictará las medidas precautorias así como las correctivas necesarias, cuando árboles y/o arbustos provoquen o puedan provocar riesgos y daños a personas o bienes.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 27 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 34.
 
-Los proyectos de construcción y de otros desarrollos urbanísticos, cuya autorización se solicite ante la Secretaría y en cuyos sitios existan árboles nativos tales como: Anacua, Encinos, Nogal, Álamo Sicomoro, Sabino, Ébano, Palma Yuca, Palo Blanco y Mezquite por ser especies propias de la región, de alta resistencia y bajo requerimiento de agua, el proyecto y diseño arquitectónico deberán de ajustarse de tal manera que se garantice la permanencia de los árboles en cuestión.
+Los proyectos de construcción y de otros desarrollos urbanísticos, cuya autorización se solicite ante la Secretaría y en cuyos sitios existan árboles nativos tales como: Anacua, Encinos, Nogal, Álamo Sicomoro, Sabino, Ébano, Palma Yuca, Palo Blanco, Mezquite, Potro, Anacahuita, Huizache y Retama, por ser especies propias de la región y de alta resistencia; el proyecto y diseño arquitectónico deberán de ajustarse de tal manera que se garantice la supervivencia de los mismos, en el sitio del proyecto, dentro de un radio menor a un kilómetro, o en el lugar en donde cause mayor beneficio a consideración de la Secretaría.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 27 DE OCTUBRE DE 2008)</small>
 
@@ -605,27 +709,59 @@ Queda prohibida la tala, poda, trasplante y derribo de árboles de cualquier esp
 
 I. El interesado presentara ante la Secretaría la solicitud por escrito o vía telefónica, debiendo precisar los datos generales, ubicación del árbol y motivo de la solicitud;
 
-II. La Secretaría ordenará a su departamento de inspección una visita de verificación, y se elaborará un dictamen técnico para su valoración y evaluación;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2014)</small>
 
-III. Una vez elaborada la evaluación, dentro de un término de 5 días hábiles de haberse recibido la petición se le informará al peticionario el resultado de procedencia y lineamientos correspondiente, los cuales recibirá en las oficinas de la Autoridad;
+II. La Secretaría ordenará una visita de verificación y se elaborará un dictamen técnico para su valoración y evaluación; para lo cual, en caso de requerirse, el promovente, deberá de acompañar los resolutivos en materia de manifestación del impacto ambiental, estudios técnicos justificativos y otros instrumentos legales emitidos por la Autoridad competente, los cuales en su estructura y alcance legal deberán de ser de conformidad con las leyes y reglamentos ambientales aplicables.
 
-IV. El interesado deberá compensar los árboles o biomasa vegetal cuya tala se haya autorizado, de acuerdo a lo dispuesto por este artículo. El peticionario deberá plantar o cubrir en el Municipio la cantidad que de acuerdo al tabulador de reposición de arboles establecido por la Secretaría de Desarrollo Urbano y Ecología; y,
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2014)</small>
 
-La poda de arbustos con fines de ornato o estética, no requiere autorización de la citada Dependencia.
+III. Una vez elaborada la evaluación o generado el folio respectivo, dentro de un término de 5 días hábiles de haberse recibido la petición se le informará al peticionario el resultado de procedencia y lineamientos correspondientes, los cuales recibirá en las oficinas de la Autoridad;
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+IV. El interesado deberá reponer los árboles o biomasa vegetal cuya tala se haya autorizado, de acuerdo a lo dispuesto por este artículo. El peticionario deberá plantar o cubrir la cantidad de acuerdo al tabulador de reposición de árboles establecido por la Secretaría de Desarrollo Urbano y Ecología; la cual se realizará en el sitio del derribo, en un radio menor a un kilómetro o en el lugar en donde cause mayor beneficio a consideración de la Autoridad Municipal;
+
+La tala de los árboles que constituyan una amenaza contra la seguridad de personas o bienes, o se encuentren secos o enfermos, no implica reposición.
+
+La poda de arbustos con fines de ornato, no requiere autorización de la Secretaría. Se considera arbusto, aquella planta perenne, de tallos leñosos y ramas desde la base.
+
+La Secretaría, podrá decretar, fundada y motivadamente, la suspensión o modificación de las autorizaciones anteriormente mencionadas, cuando detecte irregularidades en su operación y funcionamiento, o cuando no se cumplan los lineamientos establecidos para la misma.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 35 Bis.
+
+Cuando se trate de arbolado urbano, las personas que pretendan realizar servicios al vivero municipal, deberán de presentar ante la Secretaría, los siguientes requisitos, para autorizar su operación:
+
+I. Escrito libre, debidamente firmado por el promovente, señalando domicilio para oír y recibir notificaciones;
+
+II. Carta responsiva del cuidado de los árboles y plantas, señalando a la persona encargada o con jerarquía para la toma de decisiones;
+
+III. Presentar el diploma o la constancia que acrediten la especialización en la materia, o en su caso la realización de los estudios especiales de perfeccionamiento respectivos, en el manejo de las especies; dicha documentación, deberá de estar a nombre del encargado o responsable del servicio.
+
+IV. Acreditar la propiedad o la posesión del predio en donde se localicen las actividades de producción;
+
+V. Comprobante del pago del impuesto predial actualizado;
+
+VI. En su caso, contar con las licencias federales, estatales o municipales, correspondientes;
+
+VII. Presentar la constancia de Inscripción en el Registro Federal de Contribuyentes (RFC).
+
+Los prestadores de servicios al vivero municipal, deberán de obtener la autorización antes mencionada; en caso de no contar con la misma, la Secretaría, no podrá ejercer operación alguna con el mismo.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 27 DE OCTUBRE DE 2008)</small>
 
 ###### ARTÍCULO 36.
 
-Cuando la solicitud de derribo de árbol corresponda en propiedad privada o área de baquetas (sic) de predios destinados a casa habitación, y el o los arboles estén causando un daño a la construcción o a la banqueta, o a sistemas de suministro de servicios subterráneos o un riesgo calificado se considerara la reposición de arbolado con la plantación de otro árbol por cada árbol derribado de especies nativas señaladas en el presente reglamento en el mismo predio, en caso de no existir factibilidad en la plantación de este, se deberá donar dicho árbol al vivero municipal.
+Cuando la solicitud de derribo de árbol corresponda en propiedad privada o área de baquetas de predios destinados a casa habitación, y el o los arboles estén causando un daño a la construcción o a la banqueta, o a sistemas de suministro de servicios subterráneos o un riesgo calificado se considerara la reposición de arbolado con la plantación de otro árbol por cada árbol derribado de especies nativas señaladas en el presente reglamento en el mismo predio, en caso de no existir factibilidad en la plantación de este, se deberá donar dicho árbol al vivero municipal.
 
 La intensidad de las podas de los árboles o plantas que se encuentren en propiedad privada, estará sujeta a una previa inspección técnica y autorización por parte de la Secretaría.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 27 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 37.
 
-Previa autorización de la Secretaría sólo podrán trasplantarse o talarse árboles que constituyan una amenaza contra la seguridad de personas y/o bienes y que se encuentren en las áreas de desplante del proyecto de edificación, vías de acceso autorizadas, vías públicas, áreas que alojan la infraestructura y otras áreas de construcción accesorias. El responsable debe de trasplantar o sembrar la misma cantidad de árboles garantizando su sobrevivencia, siendo éstos de la misma especie o de especies nativas y aproximadamente del mismo diámetro de sección transversal de la que fue talada, o reponer al Municipio el equivalente en especie y cantidad, de acuerdo con la Tabla de Reposición de Árboles. La tala de los árboles que constituyan una amenaza contra la seguridad de personas o bienes, o se encuentren secos o enfermos, no implica reposición.
+Previa autorización de la Secretaría sólo podrán trasplantarse o talarse árboles que constituyan una amenaza contra la seguridad de personas y/o bienes y que se encuentren en las áreas de desplante del proyecto de edificación, vías de acceso autorizadas, vías públicas, áreas que alojan la infraestructura y otras áreas de construcción accesorias. Así como los casos señalados en los artículos 14 y 16 de la Ley para la Conservación y Protección del Arbolado Urbano del Estado de Nuevo León. El responsable debe de trasplantar o sembrar la misma cantidad de árboles garantizando su sobrevivencia, siendo estos de la misma especie o de especies nativas y aproximadamente del mismo diámetro de sección transversal de la que fue talada, o reponer al Municipio el equivalente en especie y cantidad, de acuerdo con la Tabla de Reposición de Árboles.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 27 DE OCTUBRE DE 2008)</small>
 
@@ -645,7 +781,9 @@ En cualquier desarrollo se deberá preservar la vegetación natural, evitando pe
 
 Queda prohibido atentar contra la salud de los árboles mediante mutilación, poda excesiva o innecesaria, remoción de la corteza, envenenamiento, ahogamiento, aplicación de químicos u otros agentes nocivos a la flora.
 
-Así mismo queda prohibido realizar, sin previa autorización, poda excesiva con el propósito de proteger líneas conductoras de electricidad, cables de teléfono o de cualquier otro tipo.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+Así mismo queda prohibido realizar, sin previa autorización, poda excesiva con el propósito de proteger líneas conductoras de electricidad, cables de teléfono o de cualquier otro tipo, a excepción de lo que disponga la legislación aplicable.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 27 DE OCTUBRE DE 2008)</small>
 
@@ -695,7 +833,7 @@ Queda prohibido alterar el curso natural de cañadas y escurrimientos pluviales,
 
 En el caso de obras que pretendan realizarse en predios con presencia de flora o fauna endémica, amenazada o en peligro de extinción, la Secretaría fijará las condiciones de protección preservación y plan de manejo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE OCTUBRE DE 2008)</small>
 
 ### CAPÍTULO VI. DE LAS ÁREAS NATURALES PROTEGIDAS
 
@@ -729,7 +867,7 @@ En las Áreas Naturales Protegidas, queda prohibida la colocación de puestos fi
 
 Los recursos naturales municipales son de prioridad fundamental para sus habitantes, por lo tanto, queda prohibido el daño a la flora y fauna y la contaminación del agua, el suelo y aire.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE OCTUBRE DE 2008)</small>
 
 ### CAPÍTULO VII. DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN A LA ATMÓSFERA
 
@@ -781,11 +919,11 @@ Las personas o empresas dedicadas a la instalación o reparación de equipos de 
 
 Quienes realicen actividades de construcción, remodelación o demolición, que generen polvos, deben humedecer sus materiales y colocar mamparas o barreras de contención, a fin de mitigar la emisión de tales polvos a la atmósfera.
 
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 61.
 
-La Secretaría se coordinará con la Secretaría de Vialidad y Tránsito para la implementación de los programas metropolitanos de prevención, verificación y control de la contaminación proveniente de los vehículos automotores que circulen por el territorio municipal.
+La Secretaría se coordinará con la Secretaría de Seguridad Pública y Vialidad para la implementación de los programas metropolitanos de prevención, verificación y control de la contaminación proveniente de los vehículos automotores que circulen por el territorio municipal.
 
 > <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2008)</small>
 
@@ -805,13 +943,59 @@ Aquellos vehículos automotores de servicio público o privado, de gasolina o di
 
 Todas las actividades Industriales, Comerciales y de Servicios que generen partículas y polvos, deberán sujetarse a un programa de disminución de emisiones y adoptar las medidas de control correspondientes, así como realizar periódicamente monitoreos o verificaciones ambientales para la determinación de partículas suspendidas.
 
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 64 Bis.
+
+Sin perjuicio de las autorizaciones que expidan otras autoridades competentes, las fuentes fijas de competencia municipal que emitan o puedan emitir olores, gases, partículas contaminantes sólidas o líquidas a la atmósfera, requerirán según el ámbito de competencia conforme a la Ley Ambiental del Estado de Nuevo León, lineamientos de operación expedidos por la Secretaría.
+
+Para los efectos de este Reglamento, se considera como fuentes fijas, emisoras de contaminación atmosférica de competencia municipal:
+
+a) Los establecimientos comerciales o de servicios, excepto los sectores que sean competencia exclusiva de la Federación establecidos en el artículo 111 Bis de la Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+
+b) Los Bienes y zonas de competencia municipal;
+
+c) Las que no sean de competencia estatal o federal.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 64 Bis 1.
+
+Para obtener los lineamientos de operación a que se refiere el artículo anterior, los responsables de las fuentes fijas deberán presentar a la Secretaría, solicitud por escrito acompañada de la información y documentación siguiente:
+
+I. Datos generales del solicitante, y en su caso del representante legal;
+
+II. Ubicación;
+
+III. Descripción del proceso que genere las emisiones a la atmósfera;
+
+IV. Distribución de maquinaria y equipo; materias primas o combustibles que se utilicen en su proceso y forma de almacenamiento;
+
+V. Transporte de materias primas o combustibles al área de proceso;
+
+VI. Transformación de materias primas o combustibles;
+
+VII. Productos, subproductos y desechos que vayan a generarse;
+
+VIII. Almacenamiento, transporte y distribución de productos y subproductos;
+
+IX. Cantidad y naturaleza de los contaminantes a la atmósfera esperados o reales en el caso de que se encuentre en operación;
+
+X. Equipos para el control de la contaminación a la atmósfera que vayan a utilizarse; programas de contingencias, que contengan las medidas y acciones que se llevarán a cabo cuando las condiciones meteorológicas de la región sean desfavorables, o cuando se presenten emisiones de olores, gases, así como de partículas sólidas y líquidas extraordinarias, o no controladas, y,
+
+XI. Documentación legal que acredite la información proporcionada.
+
+La información a que se refiere este artículo deberá presentarse en el formato que determine la Secretaría; quien justificadamente, podrá requerir la información y documentación adicional y verificar en cualquier momento la veracidad de la misma.
+
+Una vez recibida tal información, la Secretaría otorgará o negará los lineamientos de operación respectivamente, dentro del plazo de 20-veinte días hábiles, contados a partir de la fecha en que se reciba la solicitud.
+
 > <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2008)</small>
 
 ###### ARTÍCULO 65.
 
 Aquellos propietarios de lotes o zonas baldías que generen o puedan generar tolvaneras en el territorio municipal, deberán protegerlos con cubierta vegetal.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE OCTUBRE DE 2008)</small>
 
 ### CAPÍTULO VIII. DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL AGUA
 
@@ -845,7 +1029,7 @@ Queda prohibido descargar residuos líquidos a la vía pública.
 
 Se prohíbe la utilización de corrientes naturales o los cauces de ríos y arroyos para lavado de vehículos automotores, o similares; así mismo, verter en ellos residuos líquidos, producto de procesos industriales.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE OCTUBRE DE 2008)</small>
 
 ### CAPÍTULO IX. DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN AL SUELO
 
@@ -925,13 +1109,13 @@ IV. (DEROGADA, P.O. 27 DE OCTUBRE DE 2008)
 
 V. La aplicación de plaguicidas u otras sustancias similares que no cumplan con las normas oficiales mexicanas y sin la autorización respectiva;
 
-VI. Verter al suelo aceites lubricantes; y, (sic)
+VI. Verter al suelo aceites lubricantes; y,
 
 VII. Arrojar sin la debida autorización, desde aeronaves o edificaciones material sólido con propósitos publicitarios o de cualquier índole que no corresponda con la atención de una contingencia o emergencia ambiental;
 
 VIII. Desechar Pilas eléctricas secas al sistema de recolección de residuos domésticos y/o al suelo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE OCTUBRE DE 2008)</small>
 
 ### CAPÍTULO X. DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN PRODUCIDA POR ENERGÍA TÉRMICA, LUMÍNICA, OLORES, VISUAL, ACUSTICA Y VIBRACIONES
 
@@ -989,11 +1173,11 @@ En inmuebles destinados a casa-habitación donde se manufacture, comercialice o 
 
 Los establecimientos de manufactura, comercio y de servicio cuyos procesos generen vibraciones o ruidos al entorno, deberán contar con sistemas y equipos de aislamiento acústico necesario para que las vibraciones, el ruido generado y medido de acuerdo a la normatividad oficial no rebase los límites permitidos. Cuando las vibraciones se perciban o puedan ocasionar daños o molestias a las personas o a las propiedades vecinas, la Secretaría requerirá al propietario o responsable para que suspenda de inmediato sus actividades, hasta que controle o aísle la fuente generadora.
 
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 89.
 
-Los vehículos automotores de cualquier tipo, que cuenten con equipos de sonido o auto estéreos, se abstendrán de provocar contaminación por ruido, o rebasar los niveles máximos permitidos por las Normas Oficiales Mexicanas, Normas Técnicas Ambientales, y demás normatividad aplicable en materia de ruido. Para el cumplimiento de esta disposición, el Municipio se apoyara en los cuerpos de tránsito y vialidad, quienes coadyuvaran en la implementación de medidas preventivas y correctivas que correspondan, en términos del presente reglamento.
+Los vehículos automotores de cualquier tipo, que emitan ruido y/o emisiones provenientes de aparatos de sonido, no deberán provocar contaminación por ruido, o rebasar los niveles máximos permitidos por las Normas Oficiales Mexicanas, Normas Técnicas Ambientales, y demás normatividad aplicable en materia de ruido. Para el cumplimiento de esta disposición, el Municipio se apoyará en los cuerpos de Seguridad Pública y Vialidad, quienes coadyuvarán en la implementación de medidas preventivas y correctivas que correspondan, en términos del presente reglamento.
 
 > <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2008)</small>
 
@@ -1055,7 +1239,7 @@ Queda prohibido colocar anuncios, propaganda y pintas que cubra las placas de la
 
 Cuando al vencimiento del término de la autorización o permiso, no hayan sido retirados cualquier tipo de anuncios, carteles o propaganda, la Secretaría de Desarrollo Urbano y Ecología requerirá al autorizado para que los retire y en caso de ser omiso, ordenará el retiro de los mismos resultando a cargo del permisionario los gastos en que se incurra.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE OCTUBRE DE 2008)</small>
 
 ### CAPÍTULO XI. DE LA SEGURIDAD, PREVENCIÓN Y CONTROL DEL RIESGO AMBIENTAL
 
@@ -1113,7 +1297,7 @@ Los simulacros contra incendio se deberán realizar únicamente cuando las condi
 
 A efecto de prevenir y contrarrestar las emisiones de partículas sólidas a la atmósfera en condiciones no satisfactorias de calidad de aire, los ocupantes y propietarios de predios deberán abstenerse de realizar movimientos de suelos y retiro de cubierta vegetal sin el consentimiento de la Secretaria.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE OCTUBRE DE 2008)</small>
 
 ### CAPÍTULO XII. DEL CONTROL Y VIGILANCIA
 
@@ -1285,7 +1469,7 @@ Dentro de los cinco días hábiles siguientes al vencimiento del plazo otorgado 
 
 Cuando se trate de una segunda o posterior inspección para verificar el cumplimiento de un requerimiento o requerimientos anteriores, y del acta correspondiente se desprenda que no se ha dado cumplimiento a las medidas ordenadas, persistiendo el problema que causa desequilibrio en el entorno, la Secretaría podrá imponer la sanción o sanciones que procedan.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE OCTUBRE DE 2008)</small>
 
 ### CAPÍTULO XIII. DE LAS MEDIDAS DE SEGURIDAD
 
@@ -1303,7 +1487,7 @@ III. Restricción al horario de labores o días de trabajo;
 
 IV. La inmovilización de productos, materiales o sustancias, que no cumplen con los parámetros máximos autorizados por la Normatividad Oficial Mexicana en la materia.
 
-V. El aseguramiento precautorio de materiales y residuos peligrosos, especimenes, productos o subproductos de especies de flora y fauna silvestre o su material genético, mismos que podrá quedar en custodia de su poseedor al momento de decretarse la medida de seguridad, previo inventario circunstanciado; y, (sic)
+V. El aseguramiento precautorio de materiales y residuos peligrosos, especimenes, productos o subproductos de especies de flora y fauna silvestre o su material genético, mismos que podrá quedar en custodia de su poseedor al momento de decretarse la medida de seguridad, previo inventario circunstanciado; y,
 
 VI. La clausura temporal, parcial o total de los establecimientos, giros, actividades o fuentes contaminantes o presuntamente contaminantes.
 
@@ -1349,7 +1533,7 @@ Cuando la contrariedad al interés público, la contaminación o el riesgo de de
 
 El infractor responsable que incumpla con la implementación de las medidas de seguridad dictadas o de una obligación fijada legalmente y que ante este acto de rebeldía, sea la Autoridad Municipal quien realice las correcciones necesarias; sin perjuicio de las sanciones que se le impongan, tiene la obligación de cubrir los gastos que resulten en la ejecución del servicio, en ello se incluirán entre otros los derivados de la restauración, saneamiento y reparación de daños o afectaciones ocasionados por hechos contrarios a las disposiciones de éste Reglamento, sea a los ecosistemas, sus componentes o al entorno urbano de que se trate.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE OCTUBRE DE 2008)</small>
 
 ### CAPÍTULO XIV. DE LAS SANCIONES
 
@@ -1365,89 +1549,101 @@ II. El Secretario de Desarrollo Urbano y Ecología; y,
 
 III. El Secretario de Finanzas y Tesorero Municipal.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 27 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 137.
 
-Con la independencia de las sanciones que señalan otras disposiciones legales, la falta de cumplimiento a las disposiciones de este Reglamento y a las determinaciones y requerimientos que con fundamento en él se dicten, dará lugar a la imposición de las siguientes sanciones:
+Con la independencia de las sanciones que señalan otras disposiciones legales, la falta de cumplimiento a las disposiciones de este reglamento y a las determinaciones y requerimientos que con fundamento en él se dicten, dará lugar a la imposición de una o más de las siguientes sanciones:
+
+> <small>(REFORMADA Y REUBICADA, P.O. 27 DE OCTUBRE DE 2008)</small>
 
 I. Amonestación;
 
+> <small>(REFORMADA Y REUBICADA, P.O. 27 DE OCTUBRE DE 2008)</small>
+
 II. Multa;
+
+> <small>(REFORMADA Y REUBICADA, P.O. 27 DE OCTUBRE DE 2008)</small>
 
 III. Clausura temporal o definitiva, parcial o total;
 
+> <small>(REFORMADA Y REUBICADA, P.O. 27 DE OCTUBRE DE 2008)</small>
+
 IV. Revocación de las autorizaciones, permisos o licencias otorgadas;
+
+> <small>(REFORMADA Y REUBICADA, P.O. 27 DE OCTUBRE DE 2008)</small>
 
 V. Demolición de construcciones e instalaciones efectuadas en contravención a lo dispuesto por este reglamento;
 
+> <small>(REFORMADA Y REUBICADA, P.O. 27 DE OCTUBRE DE 2008)</small>
+
 VI. Reposición en especie de la biomasa vegetal perdida; y,
+
+> <small>(REFORMADA Y REUBICADA, P.O. 27 DE OCTUBRE DE 2008)</small>
 
 VII. Arresto hasta por 36-treinta y seis horas.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+VIII. Trabajo a favor de la comunidad.
+
 El importe de las multas por concepto de daños al equilibrio ecológico deberá aplicarse en programas, obras y/o acciones ambientales que compensen los daños causados.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 27 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+El trabajo a favor de la comunidad señalado con anterioridad, tendrá una duración mínima de 3 horas y máxima de 8 horas; y dentro de la misma se valorará el daño ambiental causado y la gravedad del caso; y las actividades a desarrollar serán señaladas por la Secretaría, y tendrán como objetivo atenuar o mitigar el daño ambiental, en el inmueble o en el lugar en donde cause mayor beneficio a consideración de la Secretaría.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+El trabajo a favor de la comunidad sólo podrá reemplazar la multa cuando el infractor no tenga los recursos económicos para cubrirla.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+La Secretaría podrá imponer la sanción de trabajo a favor de la comunidad a través de su vinculación temporal en alguno de los programas, proyectos o actividades que tenga en curso directamente o en convenio con otras autoridades u organizaciones sin fines de lucro.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 138.
 
-Si la sanción aplicada fuese una multa, ésta será determinada en cuotas, entendiéndose como tal el equivalente a un día de salario mínimo general vigente de la zona económica a la que corresponda este Municipio. Las multas a aplicar serán las siguientes:
+Si la sanción aplicada fuere una multa, ésta será determinada en cuotas, entendiéndose como tal el equivalente a un día de salario mínimo general vigente de la zona económica a la que corresponda este municipio, al momento de cometerse la infracción. Las multas a aplicar serán las siguientes:
 
-INFRACCIONES SANCIONES
+I.- Con un equivalente de 1 a 5 cuotas, por no acudir a dos cédulas citatorias de manera consecutiva, y/o por omitir rendir informes a la autoridad.
 
-No acudir a dos cédulas citatorias de
+II.- Con un equivalente de 50 a 100 cuotas, por obstaculizar las prácticas de las diligencias ordenadas por la Secretaría.
 
-manera consecutiva. 1 a 5 CUOTAS
+III.- Con un equivalente de 200 a 2,000 cuotas, por retirar sellos de suspensión, clausura, aseguramiento o inmovilización impuestos, y/o violentar el estado de suspensión o clausura.
 
-Omitir rendir informes a la autoridad. 1 a 5 CUOTAS
+IV.- Con un equivalente de 200 a 2,000 cuotas, por violentar la medida de seguridad impuesta mediante el uso, operación o disposición de equipos o aparatos afectados por una medida de seguridad.
 
-Proferir amenazas e insultos a personal
+V.- Con un equivalente de 20 a 30,000 cuotas, por contravenir los artículos 28, 29, 47, 70 y 79 fracciones III y V.
 
-adscrito a la Secretaría. 50 a 100 CUOTAS
+VI.- Con un equivalente de 20 a 2,000 cuotas, por contravenir los artículos 26, 42, 43, 44, 54, 55, 58, 59, 60, 64, 64 Bis, 66, 67, 68, 69, 77, 78, 79 fracciones I, II, VI, VII y VIII, 80, 81, 83, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 103, 104, 105 y 108.
 
-Obstaculizar las prácticas de las diligencias
+VII.- Con un equivalente de 10 a 300 cuotas, por cada árbol afectado, por la poda excesiva, derribo o trasplante de árboles urbanos sin la autorización correspondiente; y/o se realice la plantación, poda, derribo o trasplante de árboles urbanos sin respetar las condiciones, requisitos y disposiciones señaladas en el presente reglamento; y/o se provoque la muerte o daño físico a algún árbol urbano.
 
-ordenadas por la Autoridad. 50 a 100 CUOTAS
+VIII.- Con un equivalente de 50 a 2,000 cuotas, por incumplir con la obligación de restitución de árboles, la cual será solidaria al prestador de servicios al vivero municipal, contratado para tal efecto.
 
-Retirar sellos de suspensión, clausura, aseguramiento
+IX.- Con un equivalente de 20 a 1,000 cuotas, todos aquellos incumplimientos en contravención a lo dispuesto en el presente Reglamento, que no se encuentren comprendidas en las fracciones anteriores.
 
-o inmovilización impuestos. 100 a 200 CUOTAS
-
-Incumplimiento de los artículos 66, 67, 68, 69,
-
-70, 77, 78, 79 fracción VI, 80, 81, 83, 85, 86,
-
-87, 88, 89, 90, 93, 94, 95, 96, 97, 98, 99, 103,
-
-104, 105. 100 a 200 CUOTAS
-
-Violentar la medida de seguridad impuesta
-
-mediante el uso, operación o disposición de
-
-equipos o aparatos afectados por una medida
-
-de seguridad. 200 a 300 CUOTAS
-
-Incumplimiento a los artículos 54, 55, 58, 60, 64,
-
-78, 91 y 92 200 a 300 CUOTAS
-
-Incumplimiento a los artículos 26, 28, 29, 35, 37,
-
-38, 39, 40, 41, 42, 43, 44, 47, 75,
-
-79 fracciones II y III y 108. TABLA DE REPOSICIÓN DE ARBOLADO Y/O TABLA DE FACTORES DE CALCULO SEGÚN SEA EL CASO.
-
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 139.
 
-Si la sanción aplicada fuese la reposición de Árboles, ésta deberá ser cubierta dentro de un término no mayor de treinta días hábiles contados a partir de la fecha de la resolución que se notifique por escrito al infractor, de acuerdo a:
+Si la sanción aplicada fuere la reposición de árboles, ésta deberá ser cubierta dentro de un término no mayor a treinta días hábiles contados a partir de la fecha de la resolución que se notifique por escrito al infractor, de acuerdo a:
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2008)</small>
 
 I. Tabla de factores de cálculo de sanciones económicas por tala, poda, trasplante y retiro de cubierta vegetal:
 
 > <small>N. DE E. VEASE TABLA EN EL P.O. DE 27 DE OCTUBRE DE 2008, PAGINA DE LA 102 A LA 104.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+III. A las anteriores tablas, deberá de agregarse el costo por mano de obra, siendo de un día de salario mínimo general vigente de la zona económica a la que corresponda este municipio, por cada reposición de árbol; o en su defecto, podrá realizar dicha reposición por sus propios medios.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+IV. La reposición de arbolado, podrá realizarse en cierto porcentaje, en especies arbustivas, de ornato o similares, previo dictamen de la Secretaría.
 
 > <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2008)</small>
 
@@ -1517,7 +1713,7 @@ V. Las demás que expresamente prevé este reglamento.
 
 Para la calificación y sanción correspondiente de las faltas cometidas a este Reglamento, deberá observarse lo señalado en el Capítulo XIV.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE OCTUBRE DE 2008)</small>
 
 ### CAPÍTULO XV. DE LOS PLAZOS Y NOTIFICACIONES
 
@@ -1539,7 +1735,19 @@ Las notificaciones surtirán efecto el día hábil siguiente a aquel en que fuer
 
 Cuando la notificación deba de efectuarse personalmente y el personal comisionado para practicarla no encuentre a quien deba de notificar, le dejara cita para que dentro de las veinticuatro horas siguientes espere al inspector adscrito en el domicilio indicado para tal efecto. Si la persona citada en el domicilio o su representante legal no acuden al citatorio señalado, se practicará la diligencia con cualquier persona que se encuentre en el domicilio del establecimiento, o en su defecto con un vecino, adhiriendo además en un sitio visible de la instalación, una copia de la resolución que se notifica.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE OCTUBRE DE 2008)</small>
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 150 Bis.
+
+Quienes comparezcan o deban comparecer a algún procedimiento administrativo, deberán acreditar su interés jurídico, debiendo designar domicilio para oír y recibir notificaciones dentro del Área Metropolitana de Monterrey, Nuevo León.
+
+Cuando no se cumpla con la prevención referida en el párrafo que antecede, o para el caso en el que el domicilio que se designe para efectos de oír y recibir notificaciones no exista, no se encuentre persona alguna que atienda la diligencia; o el inmueble se encuentre desocupado, la notificación y en su caso las ulteriores notificaciones, serán efectuadas por medio de instructivo que se fijará en la tabla de avisos o en lugar visible del recinto oficial de la Secretaría.
+
+En el instructivo a que se refiere este artículo, se hará constar el número de expediente administrativo que corresponda, señalando a quien va dirigido, copia íntegra de la determinación materia de la notificación y la fecha y hora en que se publique el instructivo.
+
+En los casos de notificaciones, donde la persona con quien se atiende el asunto se negare a recibir o a firmar cualquier tipo de notificación, el inspector o notificador dará razón de ello, en presencia de dos testigos, entregando copia a la persona con quien entendió la diligencia, aunque se hubiere negado a firmar, lo cual no afectará la validez de la diligencia, ni del documento de que se trate, siempre y cuando el inspector o notificador haga constar tal circunstancia en el instructivo.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE OCTUBRE DE 2008)</small>
 
 ### CAPÍTULO XVI. DEL RECURSO DE INCONFORMIDAD
 
@@ -1596,3 +1804,9 @@ Lic. Armando Javier Rodríguez Corona
 P.O. 27 DE OCTUBRE DE 2008.
 
 Artículo único.- Las Reformas por Adición y Modificación al Reglamento de Protección Ambiental e Imagen Urbana, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose hacer su posterior publicación en la Gaceta Municipal.
+
+P.O. 5 DE NOVIEMBRE DE 2014.
+
+PRIMERO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Publíquense las presentes reformas en el Periódico Oficial del Estado.
