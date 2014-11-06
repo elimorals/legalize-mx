@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-secretaria-de-hacienda-del-estado-961
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-09-04"
-last_updated: "2013-11-27"
+last_updated: "2014-11-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96188&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2014.
 
 Reglamento publicado en el Periódico oficial del Estado de Chiapas, el miércoles 4 de septiembre de 2013.
 
@@ -49,9 +49,11 @@ Las disposiciones del presente Reglamento Interior, son de orden público, de in
 
 La Secretaría de Hacienda, es la Dependencia del Poder Ejecutivo del Estado, que tiene a su cargo la responsabilidad de los asuntos que establecen la Constitución Política del Estado de Chiapas, la Ley Orgánica de la Administración Pública del Estado de Chiapas, el Código de la Hacienda Pública para el Estado de Chiapas, la Ley de Adquisiciones, Arrendamiento de Bienes Muebles y Contratación de Servicios para el Estado de Chiapas y demás disposiciones legales, así como los decretos, acuerdos, convenios, circulares e instrucciones que emita el Gobernador del Estado, conforme a las leyes estatales.
 
-###### Artículo 3°.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2014)</small>
 
-La Secretaría de Hacienda, tiene como objetivo formular, normar e implantar las políticas hacendarias, de administración de los recursos humanos, materiales y de servicios, definiendo específicamente las que correspondan a la materia de recaudación, presupuestación del gasto institucional y de inversión, financiamiento e inversión de los recursos públicos, la contabilidad gubernamental y la deuda pública, con el fin de aprovechar racionalmente los recursos estatales y promover el desarrollo en beneficio de los habitantes de la Entidad.
+###### Artículo 3°
+
+La Secretaría de Hacienda tiene como objetivo formular, normar e implementar las políticas hacendarias, de administración de los recursos humanos, materiales y de servicios, definiendo específicamente las que correspondan a la materia de recaudación, presupuestación del gasto institucional y de inversión, financiamiento e inversión de los recursos públicos, la contabilidad gubernamental y la deuda pública, con el fin de aprovechar racionalmente los recursos estatales y promover el desarrollo de tecnologías de información y comunicaciones, en beneficio del Estado.
 
 ###### Artículo 4°.
 
@@ -85,6 +87,8 @@ Los Titulares de los Órganos Administrativos que integran a la Secretaría, imp
 
 ### Capítulo I. De la Estructura Orgánica de la Secretaría
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 7°.
 
 Para la realización de los estudios, conducción, planeación, ejecución y desempeño de las atribuciones; así como para el despacho de los asuntos de su competencia, la Secretaría contará con los Órganos Administrativos siguientes:
@@ -93,17 +97,51 @@ I. Oficina del C. Secretario.
 
 a) Unidad de Apoyo Administrativo.
 
+1) Área de Recursos Humanos.
+
+2) Área de Recursos Financieros y Contabilidad.
+
+3) Área de Recursos Materiales y Servicios Generales.
+
+4) Área Regional Administrativa en Tapachula.
+
+5) Área Regional Administrativa en San Cristóbal de Las Casas.
+
+6) Área Regional Administrativa en Yajalón.
+
 b) Unidad de Informática.
+
+1) Área de Informática de Programación y Presupuesto.
+
+2) Área de Informática de Ingresos.
+
+3) Área de Soporte Técnico.
+
+4) Área de Informática de Tesorería.
+
+5) Área de Sistemas y Web.
+
+6) Área del SIAHE.
 
 c) Unidad de Planeación.
 
+1) Área de Organización.
+
+2) Área de Planeación y Evaluación.
+
+3) Área de Sistemas de Calidad.
+
 d) Coordinación de Unidades Administrativas.
+
+1) Área de Evaluación y Seguimiento al Gasto de Recursos Financieros.
+
+2) Área de Evaluación y Seguimiento al Gasto de Recursos Materiales y Humanos.
 
 e) Coordinación Técnica.
 
-1. Unidad de Coordinación Hacendaria.
+1) Unidad de Coordinación Hacendaria.
 
-2. Unidad de Estructuración Financiera.
+2) Unidad de Estructuración Financiera.
 
 f) Unidad de Inteligencia Patrimonial y Económica.
 
@@ -189,11 +227,23 @@ b) Dirección General de Recursos Materiales y Servicios.
 
 3. Dirección Operativa del FOPROVEP.
 
+c) Dirección General de Tecnologías de Información y Comunicaciones.
+
+1. Dirección de Normatividad e Infraestructura Tecnológica.
+
+2. Dirección de Innovación y Desarrollo Tecnológico.
+
 VII. Subsecretaría de Entidades Paraestatales.
 
 a) Dirección de Fideicomisos Estatales.
 
 b) Dirección de Organismos y Empresas Públicas.
+
+c) Dirección Operativa de la Torre Chiapas.
+
+VIII. Órgano Desconcentrado.
+
+a) BANCHIAPAS.
 
 ###### Artículo 8°.
 
@@ -221,9 +271,9 @@ La representación, trámite y resolución de los asuntos, competencia de la Sec
 
 El Secretario tendrá las atribuciones delegables siguientes:
 
-I. Representar legalmente a la Secretaría en el ámbito de su competencia, ante toda clase de autoridades, organismos, instituciones y personas públicas o privadas, nacionales e internacionales.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
 
-La representación a que se refiere esta fracción, comprende el ejercicio de todo tipo de acciones y constituye una representación amplísima.
+I. Ejercer la representación legal de la Secretaría, ante todo tipo de autoridades judiciales, administrativas y militares, en los juicios, procesos o procedimientos de toda índole, del ámbito federal, estatal y municipal; así como ante todo tipo de personas físicas o morales.
 
 II. Vigilar que las acciones competencia de la Secretaría, se ejecuten con eficiencia y se realicen de conformidad con las normas, políticas y procedimientos establecidos.
 
@@ -253,7 +303,9 @@ XIV. Dirigir el proceso de calificación crediticia de las finanzas estatales.
 
 XV. Vigilar el cumplimiento de las obligaciones fiscales de los contribuyentes, a través de visitas domiciliarias, auditorías, inspecciones y verificaciones, así como en su caso, aplicar el procedimiento administrativo de ejecución.
 
-XVI. Ejercer las atribuciones que en materia fiscal federal y municipal, le confiera el Convenio de Colaboración Administrativa al Gobierno del Estado.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XVI. Ejercer las atribuciones que al Gobierno del Estado le confiere el Convenio de Colaboración Administrativa en materia Fiscal Federal, así como los anexos que del mismo emanen, celebrados con la Secretaría de Hacienda y Crédito Público.
 
 XVII. Vigilar la elaboración del Programa General de Ingresos y del Gasto Público del Estado.
 
@@ -267,7 +319,9 @@ XXI. Vigilar que se realice el pago de proyectos de inversión, de adquisiciones
 
 XXII. Emitir la autorización para la condonación de multas impuestas en términos del Código de la Hacienda Pública para el Estado de Chiapas, y en materia federal, en términos del Código Fiscal de la Federación, y de acuerdo al Convenio de Colaboración Administrativa en materia fiscal federal, celebrado con la Secretaría de Hacienda y Crédito Público, la condonación de multas impuestas por infracciones a las disposiciones fiscales, salvo que por disposición legal competa a otra Dependencia o Entidad.
 
-XXIII. Aprobar el cálculo de nóminas, el pago de sueldos, percepciones y compensaciones de los servidores públicos de la Administración Pública Centralizada.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XXIII. Conocer del cálculo de nóminas para el pago de sueldos, percepciones y compensaciones de los servidores públicos de la Administración Pública Centralizada.
 
 XXIV. Emitir y dejar sin efectos, cuando proceda conforme a derecho, sus propias resoluciones y actos, y dejar sin efectos las de sus subalternos.
 
@@ -287,7 +341,37 @@ XXXI. Promover que los Organismos Públicos difundan la información financiera 
 
 XXXII. Aprobar la creación, cancelación y/o adecuación, de estructuras orgánicas y plantillas de plazas que soliciten los Organismos Públicos del Ejecutivo.
 
-XXXIII. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Ejecutivo del Estado, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XXXIII. Conocer de las autorizaciones que emita la Dirección General de Presupuesto y Cuenta Pública a los Organismos Públicos del Ejecutivo; con la finalidad de que contraten adquisiciones, arrendamiento de bienes muebles y prestación de servicios, cuando no cuenten con saldo disponible, dentro del presupuesto aprobado en la partida correspondiente.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XXXIV. Conocer de los dictámenes de viabilidad técnica previa validación de la Comisión lntersecretarial de Tecnologías de Información y Comunicaciones del Poder Ejecutivo del Estado, así como de las órdenes de supervisión en materia de tecnologías de información y comunicaciones para los Organismos Públicos del Ejecutivo, de conformidad con la normatividad aplicable.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XXXV. Representar a la Secretaría en las sesiones de la Comisión Intersecretarial de Tecnologías de Información y Comunicaciones del Poder Ejecutivo del Estado.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XXXVI. Conocer de la administración, operación y mantenimiento del bien inmueble denominado Torre Chiapas y sus anexos.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XXXVII. Conocer de la emisión de los nombramientos de los servidores públicos de la Administración Centralizada y aquellos otros que se expidan en términos de las leyes respectivas.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XXXVIII. Recaudar, fiscalizar y administrar los impuestos y otras contribuciones, los productos y aprovechamientos; así como determinar los créditos fiscales y sus accesorios y/o verificar el correcto cumplimiento de las obligaciones fiscales; recibir y registrar las participaciones y aportaciones federales, los ingresos que por cualquier concepto perciba el Estado.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XXXIX. Otorgar los estímulos fiscales, en los términos del Código de la Hacienda Pública para el Estado de Chiapas, del Convenio de Colaboración Administrativa en Materia Fiscal Federal y la Ley de Derechos del Estado de Chiapas.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XL. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Ejecutivo del Estado, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 14.
 
@@ -301,7 +385,9 @@ III. Proporcionar asesoría al Ejecutivo del Estado, en materia de desarrollo de
 
 IV. Celebrar y suscribir contratos, convenios y demás actos jurídicos en representación del Ejecutivo del Estado, relacionados con los asuntos competencia de la Secretaría.
 
-V. Presentar al Ejecutivo del Estado, los programas y proyectos en materia de recaudación, presupuestación, financiamiento y la contabilidad gubernamental.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+V. Presentar al Ejecutivo del Estado, los programas y proyectos en materia de recaudación, presupuestación, financiamiento, la contabilidad gubernamental y de tecnologías de información y comunicaciones.
 
 VI. Presentar al Ejecutivo del Estado, los proyectos de la Ley de Ingresos del Estado, del Presupuesto de Egresos del Estado, así como el Informe de Avance de Gestión Financiera y la Cuenta Pública.
 
@@ -563,7 +649,9 @@ XVII. Atender las solicitudes de dictamen de factibilidad técnica relacionadas 
 
 XVIII. Suscribir los dictámenes que deriven de las propuestas técnicas presentadas en los procesos de licitación ante el Comité de Adquisiciones; de bienes informáticos o contratación de servicios relacionados con las tecnologías de información, realizados en beneficio de la Secretaría, conforme a las disposiciones aplicables.
 
-XIX. Autorizar el análisis y evaluación de propuestas técnicas que derivan de los procesos de licitación del Subcomité de Adquisiciones; bienes informáticos o contratación de servicios relacionados con las tecnologías de información, realizados en beneficio de la Secretaría, conforme a las disposiciones aplicables.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XIX. Autorizar y emitir análisis y evaluación de propuestas técnicas que deriven de los procesos de licitación del Comité de Adquisiciones; bienes informáticos o contratación de servicios relacionados con las tecnologías de información, realizados en beneficio de la Secretaría, conforme a las disposiciones aplicables.
 
 XX. Supervisar el proceso de adquisición de tecnología de información realizados en beneficio de la Secretaría, conforme a las disposiciones aplicables.
 
@@ -617,13 +705,23 @@ XVI. Proponer al Secretario, procesos viables para iniciar la certificación de 
 
 XVII. Administrar y asegurar el mantenimiento del Sistema de Gestión de Calidad establecido en los diferentes procesos de la Secretaría.
 
-XVIII. Fungir como vocal del subcomité de adquisiciones de la Secretaría, en las sesiones de análisis de adquisiciones, arrendamientos y servicios de bienes muebles.
+XVIII. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2014)
 
 XIX. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Secretario, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 23.
 
-El Titular de la Coordinación de Unidades Administrativas, tendrá las atribuciones siguientes:
+La Coordinación de Unidades Administrativas, contará con los Órganos Administrativos siguientes:
+
+a) Área de Evaluación y Seguimiento del Gasto de Recursos Financieros.
+
+b) Área de Evaluación y Seguimiento del Gasto de Recursos Humanos y Materiales.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 23 A.- El Titular de la Coordinación de Unidades Administrativas, tendrá las atribuciones siguientes:
 
 I. Proponer al Secretario las medidas de austeridad y racionalidad del gasto público que se destine para la adquisición de bienes y servicios de la Secretaría.
 
@@ -819,7 +917,13 @@ XVIII. Promover la implementación del proceso de armonización contable estable
 
 XIX. Promover que los Organismos Públicos difundan la información financiera en los formatos publicados por el Consejo Nacional de Armonización Contable.
 
-XX. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Secretario, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XX. Conocer de las autorizaciones, que emitan a los Organismos Públicos del Ejecutivo respecto de la adquisición, arrendamiento de bienes muebles y prestación de servicios, cuando no cuenten con saldo disponible dentro del presupuesto aprobado en la partida correspondiente.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XXI. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Secretario, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 30.
 
@@ -979,7 +1083,21 @@ LVI. Proporcionar a las sociedades de información crediticia que obtengan autor
 
 LVII. Expedir normas y criterios en materia de su competencia.
 
-LVIII. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Secretario, así como las que les confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+LVIII. Rendir informe al Procurador Fiscal del resultado de las auditorías practicadas a los contribuyentes en materia de impuestos estatales y los que deriven del Convenio de Colaboración Administrativa en Materia Fiscal Federal celebrado con la Secretaría de Hacienda y Crédito Público en un término de 5 días hábiles contados a partir de la determinación del crédito; así como del embargo practicado dentro del Procedimiento Administrativo de Ejecución, a efecto de salvaguardar el interés del Fisco Estatal.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+LIX. Informar al Procurador Fiscal de la atención y seguimiento puntual del Procedimiento Administrativo de Ejecución, para hacer efectivo los créditos fiscales a cargo de los contribuyentes, responsables solidarios y demás obligados, y de la conclusión del mismo en un término de 5 días hábiles contados a partir de dicha conclusión.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+LX. Vigilar el debido cumplimiento de las determinaciones y resoluciones emitidas por el Procurador Fiscal.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+LXI. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Secretario, así como las que les confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 32.
 
@@ -1065,39 +1183,57 @@ b) Subprocuraduría de Resoluciones y de lo Contencioso.
 
 El Titular de la Procuraduría Fiscal, tendrá las atribuciones siguientes:
 
-I. Intervenir y/o representar a la Secretaría, como órgano jurídico competente ante todo tipo de autoridades, judiciales, administrativas, del trabajo, militares, fiscales y del fuero federal, estatal y/o municipal; así como ante sociedades, asociaciones y particulares en los procedimientos y procesos, de cualquier índole, con las facultades generales y especiales que se requieran de un poder para pleitos y cobranzas y actos de administración.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
 
-La intervención y/o representación a que se refiere esta fracción, comprende el desahogo de todo tipo de pruebas, promoción de incidentes, rendición de informes, presentación de recursos o medios de impugnación en cualquier acción o controversia ante cualquier autoridad, y constituye una representación amplísima.
+I. Ejercer la representación legal de la Secretaría, ante todo tipo de autoridades judiciales, administrativas y militares en los juicios, procesos y procedimientos de toda índole del ámbito federal, estatal y municipal; así como ante todo tipo de personas físicas y morales.
+
+La legitimación antes mencionada incluye la representación de la Secretaría para interponer ante los Tribunales Colegiados de Circuito, los recursos de que se refiere el artículo 63 de la Ley Federal de Procedimiento Contencioso Administrativo en contra de las sentencias emitidas por el pleno, sección, salas regionales o magistrados del Tribunal Federal de Justicia Fiscal y Administrativa que se dicten en los juicios contenciosos administrativos en los que se controviertan actos o resoluciones emitidos por los órganos administrativos de la Secretaría, con motivo o en calidad de entidad federativa coordinada en ingresos federales.
 
 II. Fungir como consejero jurídico de la Secretaría, asesorando legalmente a los Órganos Administrativos de ésta, cuando así lo requieran y, en general, a los Organismos Públicos del Ejecutivo, cuando se trate de asuntos de su competencia.
 
 III. Intervenir como órgano jurídico competente de la Secretaría, en los procedimientos y procesos, que se ventilen ante las autoridades administrativas, judiciales estatales y federales, por actos o resoluciones del Secretario y de los titulares de los Órganos Administrativos adscritos a la Secretaría, presentar las demandas o contestaciones, ofrecer pruebas, formular alegatos, interponer recursos en los juicios civiles, administrativos, laborales y mercantiles, y actuar en los juicios de amparo que promuevan los quejosos.
 
-IV. Emitir opinión jurídica sobre la procedencia o improcedencia de actas circunstanciadas y/o administrativas instruidas en contra de los servidores públicos adscritos a la Secretaría, con la finalidad de salvaguardar los intereses de la misma, cuidando en todo momento que se respeten los derechos de los trabajadores.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+IV. Emitir acuerdo sobre la procedencia o improcedencia de actas circunstanciadas y/o administrativas instrumentadas en contra de los servidores públicos adscritos a la Secretaría, con la finalidad de salvaguardar los intereses de la misma, cuidando en todo momento que se respeten los derechos de los trabajadores.
 
 V. Hacer del conocimiento del Servicio de Administración Tributaria, cuando exista la presunción de delitos fiscales, aportando las pruebas necesarias para tal efecto, colaborando con la Procuraduría Fiscal de la Federación y el Ministerio Público Federal en las acciones penales que ejerciten en materia de impuestos federales coordinados.
 
-VI. Representar el interés del Estado en asuntos de carácter hacendario y fiscal, ante cualquier autoridad federal o estatal.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+VI. Representar el interés del Estado en asuntos de carácter hacendario, fiscal y aduanero, ante cualquier autoridad federal o estatal.
 
 VII. Querellarse y denunciar todos aquellos actos y hechos que pudieran constituir delitos, que lesionen los intereses de la Secretaría, y coadyuvar con los Fiscales del Ministerio Público del Fuero Común y/o Federal, en representación de la misma en los procesos penales correspondientes.
 
-VIII. Vigilar el control de las pólizas de fianzas administrativas que se hayan otorgado ante los Organismos Públicos del Ejecutivo y aquellas que garanticen el interés del Estado, así como sustituir las pólizas y/o hacerlas efectivas ante las instituciones de fianzas que las hayan expedido y en su caso, intervenir en el Procedimiento Contencioso Administrativo; solicitar cuando proceda, el remate de valores propiedad de la institución fiadora; realizar la cancelación y/o devolución, previa acreditación del cumplimiento del acto garantizado; y en caso de ser procedente, requerir el cobro de intereses e indemnizaciones en los términos del artículo 95 bis, de la Ley Federal de Instituciones de Fianzas.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
 
-IX. Requerir de pago a las instituciones de fianzas que hayan expedido pólizas que garanticen fianzas judiciales penales, civiles y administrativas ante el Poder Judicial del Estado, y en su caso, intervenir en el Procedimiento Contencioso Administrativo. Cuando proceda, solicitar el remate de valores propiedad de la institución fiadora para hacer efectiva la póliza de fianza requerida; de ser procedente, requerir el cobro de intereses e indemnizaciones en los términos de la fracción anterior.
+VIII. Vigilar el control de las pólizas de fianza administrativas que garanticen obligaciones relativas a Obra Pública, Adquisiciones, Arrendamiento y Prestación de Servicios, así como Concesiones, Permisos, o cualquier otra obligación de naturaleza análoga, que se hayan otorgado ante los Organismos Públicos del Ejecutivo; Requerir a los Organismos Públicos del Ejecutivo información y documentación relativa a las fianzas y del cumplimiento de las obligaciones garantizadas por estas y hacer las recomendaciones procedentes; Emitir las disposiciones administrativas de carácter general a las que deberán sujetarse los Organismos Públicos del Ejecutivo, para la calificación, aceptación, cancelación, devolución y efectividad de las fianzas que se otorguen a favor de la Secretaría; Hacer efectivas las fianzas administrativas que garanticen obligaciones relativas a Obra Pública, Adquisiciones, Permisos, o cualquier otra obligación de naturaleza análoga, en términos de la legislación aplicable; Intervenir en el Procedimiento Contencioso Administrativo, Revisión Administrativa, Juicio de Amparo o cualquier otro proceso o procedimiento, relacionado con la cancelación, devolución o requerimiento de pago de fianzas; Solicitar el remate de valores propiedad de la institución fiadora conforme a la legislación vigente aplicable; Realizar la cancelación y devolución de las fianzas, cuando se acredite debidamente el cumplimiento de las obligaciones garantizadas, o se haya terminado anticipadamente la obligación garantizada; Requerir el cobro de intereses e indemnizaciones así como solicitar el remate de títulos o valores ante las instituciones de fianzas, en términos de la legislación aplicable.
 
-X. Vigilar el control de las pólizas de fianzas fiscales que se hayan otorgado ante las autoridades fiscales y hacendarias, que garanticen el interés fiscal estatal y/o federal, así como sustituir y/o hacerlas efectivas ante las instituciones de fianzas que las hayan expedido, y en su caso, intervenir en el procedimiento contencioso administrativo. Cuando proceda, solicitar el remate de valores propiedad de la institución fiadora, la cancelación y devolución previa acreditación del cumplimiento del acto garantizado y, de ser procedente, requerir cobro de intereses e indemnizaciones en los términos del artículo 95 bis de la Ley Federal de Instituciones de Fianzas.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+IX. Requerir de pago a las instituciones de fianzas que hayan expedido pólizas que garanticen obligaciones judiciales penales, civiles y/o administrativas a favor del Consejo de la Judicatura del Poder Judicial del Estado de Chiapas; Intervenir en el Procedimiento Contencioso Administrativo, Revisión Administrativa; Juicio de Amparo o cualquier otro que se derive del requerimiento de pago de las fianzas administrativas o judiciales; Solicitar el remate de valores propiedad de la institución fiadora y requerir el cobro de intereses e indemnizaciones, en términos de la legislación aplicable.
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+X. Vigilar el control de las pólizas de fianzas fiscales que se hayan otorgado ante las autoridades hacendarias para garantizar el interés fiscal estatal y/o federal; hacer efectivas las fianzas fiscales ante las instituciones de fianzas que las hayan expedido en términos de la legislación aplicable; Intervenir en el Procedimiento Contencioso Administrativo, Revisión Administrativa, Juicio de Amparo o cualquier otro proceso o procedimiento, relacionado con las fianzas fiscales; Solicitar y/o ejecutar el remate de valores y/o títulos propiedad de la institución fiadora, conforme a la legislación aplicable; Realizar la cancelación y devolución de las pólizas de fianza, previa acreditación del cumplimiento de la obligación garantizada; Requerir el cobro de intereses, indemnizaciones, actualizaciones, recargos o cualquier otro de naturaleza análoga, según corresponda.
 
 XI. Ejercitar las acciones, excepciones y defensas e interponer los recursos que procedan; así como allanarse, transigir, desistirse y abstenerse de interponer los recursos en toda clase de juicios, cuando así convengan a los intereses de la Secretaría y/o del Fisco Estatal.
 
 XII. Designar con carácter de delegados, apoderados legales y/o albacea, al personal adscrito a la Procuraduría Fiscal, o bien a terceros, para que comparezcan en calidad de parte, en los procedimientos, procesos o juicios que se ventilen ante las autoridades administrativas, judiciales estatales y/o federales competentes.
 
-XIII. Coordinarse con la Procuraduría Fiscal de la Federación y con las autoridades fiscales o hacendarias de las entidades federativas y las municipales del Estado, con el fin de proporcionar asesoría en materia de su competencia.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XIII. Coordinarse con la Procuraduría Fiscal de la Federación y con las autoridades fiscales, hacendarias y aduaneras de las entidades federativas y las municipales del Estado, con el fin de proporcionar asesoría en materia de su competencia
 
 XIV. Intervenir como órgano jurídico competente de la Secretaría, en los remates de bienes embargados a través del Procedimiento Administrativo de Ejecución, convocados por cualquier autoridad.
 
-XV. Aprobar la adjudicación de los bienes muebles e inmuebles a favor del Fisco Estatal, y autorizar su venta fuera de subasta, en términos de las disposiciones aplicables.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
 
-XVI. Ejercitar la acción de nulidad por lesividad, contra los actos y resoluciones de autoridad administrativa, que se hubieren dictado en perjuicio del Fisco Estatal.
+XV. Expedir disposiciones administrativas relacionadas con las fianzas que reciban los Organismos Públicos del Ejecutivo a favor de la Secretaría, en relación a licitaciones o adjudicaciones de obras, adquisiciones, contratos administrativos, anticipos, permisos, autorizaciones, concesiones, prórrogas y otras obligaciones de naturaleza análoga.
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XVI. Ejercitar la acción de nulidad por lesividad, contra los actos y resoluciones de autoridad fiscal, hacendaria y aduanera, que se hubieren dictado en perjuicio del Fisco Estatal.
 
 XVII. Rendir los informes previos y justificados en los juicios de amparo en los que la Secretaría sea parte.
 
@@ -1105,11 +1241,15 @@ XVIII. Representar, sustituir e intervenir a nombre del Secretario, en la presen
 
 XIX. Resolver los recursos administrativos a que se refieren las disposiciones hacendarias estatales, interpuestos contra actos y resoluciones de las autoridades hacendarias del Estado, así como los establecidos en el Código Fiscal de la Federación, en relación con los actos o resoluciones emitidos en ejercicio de las facultades que le confiere el Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado con la Secretaría de Hacienda y Crédito Público.
 
-XX. Emitir opinión jurídica sobre la procedencia o improcedencia de exenciones fiscales o condonaciones de multas por infracciones a las disposiciones estatales aplicables.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XX. Emitir acuerdo para la procedencia o improcedencia de exenciones fiscales estatales.
 
 XXI. Proponer al Secretario, el criterio aplicable en los casos en que dos o más órganos administrativos de la misma Secretaría emitan opiniones contradictorias en cuestiones legales y administrativas, y fungir como órgano de consulta interna de la Secretaría, para establecer la interpretación de las disposiciones materia de su competencia, constituyéndose como obligatoria para tales órganos.
 
-XXII. Emitir opinión jurídica sobre la procedencia o improcedencia de las devoluciones de pagos efectuados indebidamente al Fisco Estatal, por acuerdo del Secretario, cuando hayan sido objeto de reclamo o controversia.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XXII. Emitir acuerdo para la procedencia o improcedencia de las devoluciones de pagos efectuados indebidamente al Fisco Estatal, por acuerdo del Secretario, cuando hayan sido objeto de reclamo o controversia.
 
 XXIII. Emitir la validación a los proyectos de convenios, contratos, decretos, acuerdos y demás actos jurídicos en los que la Secretaría sea parte a través de su titular, y remitirlos al órgano administrativo correspondiente para su resguardo.
 
@@ -1121,7 +1261,9 @@ XXVI. Presentar al Secretario, estudios comparados en materia hacendaria y fisca
 
 XXVII. Vigilar que se realice la recopilación y actualización del acervo digital que contiene el marco jurídico de la Secretaría, para la consulta del personal adscrito, así como para el público en general.
 
-XXVIII. Proponer al Secretario, los proyectos de capacitación y actualización para el personal de la Procuraduría Fiscal, en materia hacendaria y fiscal.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XXVIII. Proponer al Secretario, los proyectos de capacitación y actualización para el personal de la Procuraduría Fiscal, en materia hacendaria, fiscal y aduanera.
 
 XXIX. Expedir las credenciales o constancias de identificación del personal adscrito a la Procuraduría Fiscal, para realizar las notificaciones de sus propias resoluciones.
 
@@ -1129,17 +1271,37 @@ XXX. Vigilar que se aplique en términos de la legislación vigente, el Procedim
 
 XXXI. Intervenir como parte, en los juicios que se susciten con motivo del ejercicio de las facultades delegadas a través del Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado con la Secretaría de Hacienda y Crédito Público, así como asumir la responsabilidad en la defensa de los mismos, sin perjuicio de la intervención que corresponda a la dependencia federal.
 
-XXXII. Resolver las consultas que por escrito formulen los contribuyentes, sobre situaciones reales y concretas, en materia hacendaria.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
 
-XXXIII. Emitir opinión jurídica sobre la prescripción de los créditos fiscales estatales, para determinar las contribuciones omitidas y sus accesorios, cuando se le requiera.
+XXXII. Resolver las consultas que por escrito formulen los contribuyentes, sobre situaciones reales y concretas, en materia hacendaria, fiscal y aduanera.
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XXXIII. Emitir acuerdo para la prescripción de los créditos fiscales estatales, en los que se determinen las contribuciones omitidas y sus accesorios, cuando se requiera.
 
 XXXIV. Proponer al Secretario, los proyectos de decretos y acuerdos que reforman, adicionan, derogan o abrogan las disposiciones jurídicas o administrativas competencia de la Secretaría.
 
 XXXV. Proponer al Secretario el proyecto del Paquete Hacendario del Estado, para su presentación al Ejecutivo del Estado.
 
-XXXVI. Ordenar la notificación de los actos y resoluciones a través del personal adscrito a la Procuraduría Fiscal, y en su caso, solicitar de las demás autoridades hacendarias que las mismas se lleven a cabo en los términos de las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
 
-XXXVII. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Secretario, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+XXXVI. Ordenar la notificación de los actos y resoluciones a través del personal adscrito a la Procuraduría Fiscal, y en su caso, solicitar de las demás autoridades hacendarias, fiscales y aduaneras, que las mismas se lleven a cabo en los términos de las disposiciones legales aplicables.
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XXXVII. Requerir al Subsecretario de Ingresos informe el resultado de las auditorías practicadas a los contribuyentes en materia de impuestos estatales y los que deriven del convenio de colaboración administrativa en materia fiscal federal celebrado con la Secretaría de Hacienda y Crédito Público; así como respecto al procedimiento de embargo practicado dentro del procedimiento administrativo de ejecución, a efecto de salvaguardar el interés del fisco estatal.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XXXVIII. Solicitar al Subsecretario de Ingresos informe acerca de la atención y seguimiento puntual del procedimiento administrativo de ejecución, para hacer efectivo los créditos fiscales a cargo de los contribuyentes, responsables solidarios y demás obligados hasta la conclusión del mismo.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XXXIX. Requerir el debido cumplimiento de las determinaciones y resoluciones que emita.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XL. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Secretario, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 36.
 
@@ -1159,7 +1321,9 @@ II. Coordinar la aplicación de la normatividad, lineamientos y criterios, refer
 
 III. Proponer al Secretario para su autorización, la actualización de los catálogos de categorías y sueldos, así como prestaciones de los trabajadores de la Administración Pública Centralizada.
 
-IV. Vigilar el proceso de cálculo de nóminas, para el pago de sueldos, percepciones en general y compensaciones generales o individuales, que se otorguen a los servidores públicos, así como el proceso de cálculo de las retenciones al salario por mandato judicial, contrato o convenio u otras resulten aplicables al salario al personal activo y pensionado de la Administración Pública Centralizada.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+IV. Coordinar el proceso de cálculo de nóminas para el pago de sueldos, percepciones en general y compensaciones generales o individuales, que se otorguen a los servidores públicos, así como el proceso de cálculo de las retenciones al salario por mandato judicial, contrato o convenio u otras que resulten aplicables al salario del personal activo y pensionado de la Administración Pública Centralizada.
 
 V. Representar al Secretario, ante el Comité de Subasta Pública para la Enajenación de Bienes Muebles del Poder Ejecutivo del Estado, en términos de las disposiciones aplicables.
 
@@ -1173,7 +1337,33 @@ IX. Vigilar que las asesorías que se proporcionen a los Organismos Públicos de
 
 X. Realizar la contratación de bienes y servicios de uso que, en forma consolidada, podrán adquirir, arrendar o contratar para las Dependencias y Entidades de la Administración Pública Estatal, así como suscribir los contratos, convenios y demás actos jurídicos y administrativos que se deriven de la misma.
 
-XI. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Secretario, así como las que les confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XI. Vigilar que las acciones para el uso, estandarización y aprovechamiento de las tecnologías de información y comunicaciones en los organismos públicos del Ejecutivo se realicen de conformidad con la normatividad aplicable.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XII. Acordar con el Secretario los proyectos de tecnologías de información y comunicaciones orientados al mejoramiento tecnológico de los Organismos Públicos del Ejecutivo.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XIII. Vigilar la emisión de dictámenes, técnicos de bienes informáticos, de conformidad con la normatividad aplicable.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XIV. Informar al Secretario los resultados de las supervisiones, en materia de tecnologías de información y comunicaciones, practicadas a los Organismos Públicos del Ejecutivo.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XV. Vigilar que se proporcionen las asesorías en materia de propiedad intelectual y manuales administrativos; así como la capacitación en materia de tecnologías de información, proporcionadas a los Organismos Públicos del Ejecutivo se realicen conforme a la normatividad aplicable.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XVI. Coordinar la emisión de los nombramientos de los servidores públicos de la Administración Centralizada.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XVII. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Secretario, así como las que les confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 38.
 
@@ -1184,6 +1374,10 @@ a) Área de Consolidación Financiera.
 b) Dirección de Fideicomisos Estatales.
 
 c) Dirección de Organismos y Empresas Públicas.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+d) Dirección Operativa de la Torre Chiapas.
 
 ###### Artículo 39.
 
@@ -1235,7 +1429,13 @@ XXII. Coordinar la operación del Sistema de Registro Público de las Entidades 
 
 XXIII. Conocer la disponibilidad financiera y presupuestaria de los recursos previstos para el Fondo Estatal de Desastres Naturales, para proponer al Secretario la viabilidad de los proyectos presentados por los Organismos Públicos del Ejecutivo.
 
-XXIV. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Secretario, así como las que les confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XXIV. Coordinar la administración, operación y mantenimiento del bien inmueble denominado Torre Chiapas y sus anexos.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XXV. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Secretario, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ### Capítulo III. De la Integración de las Direcciones Generales y Atribuciones de sus Titulares
 
@@ -1365,15 +1565,19 @@ b) Dirección de Obligaciones Fiscales y Retenciones.
 
 c) Dirección de Estructuras Orgánicas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 44.
 
-El Titular de la Dirección General Recursos Humanos, tendrá las atribuciones siguientes:
+El Titular de la Dirección General de Recursos Humanos, tendrá las atribuciones siguientes:
 
 I. Realizar las retenciones de contribuciones por pagos de nóminas y honorarios, de conformidad con las disposiciones aplicables.
 
 II. Proponer a su superior inmediato, la revisión anual de salarios y prestaciones del Personal de Base con el Sindicato de Trabajadores al Servicio del Gobierno del Estado, así como, del Personal de Confianza y Temporal de Gasto Corriente.
 
-III. Vigilar el proceso de cálculo de nóminas, pago de sueldos, percepciones en general y compensaciones generales o individuales, que se otorguen a los servidores públicos de la Administración Pública Centralizada.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+III. Emitir y autorizar el proceso de cálculo de nóminas, pago de sueldos, percepciones en general y compensaciones generales o individuales, que se otorguen a los servidores públicos, así como el proceso de cálculo de las retenciones al salario por mandato judicial, contrato o convenio u otras resulten aplicables al salario del personal activo y pensionado de la Administración Pública Centralizada.
 
 IV. Suscribir los dictámenes de estructuras orgánicas y la consecuente creación, modificación o cancelación de categorías y/o plazas, aprobando los mismos funcionalmente.
 
@@ -1387,7 +1591,17 @@ VIII. Proponer a su superior inmediato, las compensaciones generales o individua
 
 IX. Coordinar y emitir la autorización para el pago de la nómina de complemento de sueldos, al personal activo en la Administración Pública Centralizada, así como los movimientos por incrementos o reducciones con recursos compensados.
 
-X. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Subsecretario de Administración, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+X. Coordinar que las asesorías para la elaboración y actualización de los reglamentos interiores y manuales administrativos, se realicen conforme a la normatividad aplicable.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XI. Expedir y suscribir los nombramientos, las constancias de categoría y percepciones salariales para el personal de la Administración Pública Centralizada.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XII. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Subsecretario de Administración, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 45.
 
@@ -1405,15 +1619,65 @@ El Titular de la Dirección General de Recursos Materiales y Servicios, tendrá 
 
 I. Representar al Secretario o asistir a su superior inmediato, ante el Comité de Subasta Pública para la Enajenación de Bienes Muebles del Poder Ejecutivo del Estado en términos de las disposiciones aplicables.
 
-II. Participar personal o conjuntamente con su superior inmediato, en el Comité de Adquisiciones, Arrendamientos y Servicios de Bienes Muebles, para los procesos de licitación o autorización para la adquisición de bienes y servicios que requiera la Administración Pública Centralizada, para el cumplimiento de sus objetivos.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+II. Participar personal o conjuntamente con su superior inmediato, en el Comité de Adquisiciones, Arrendamientos y Servicios de Bienes Muebles, en los procesos de licitación o autorización para la adquisición de bienes y servicios que requieran los Organismos Públicos del Ejecutivo, para el cumplimiento de sus objetivos.
 
 III. Coordinar la asesoría que se proporcione a los Organismos Públicos del Ejecutivo, en materia de recursos materiales y servicios.
 
 IV. Representar al Secretario o asistir a su superior inmediato, ante el Comité Técnico del Fondo de Protección para Vehículos Propiedad del Poder Ejecutivo Estatal, en términos de las disposiciones aplicables.
 
-V. Proponer a su superior inmediato, el resultado de la investigación de mercado para la adquisición de bienes, arrendamientos o servicios, a efecto de buscar las mejores condiciones para el Estado.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
 
-VI. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Subsecretario de Administración, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+V. Coordinar la investigación de mercado previo a las convocatorias de adquisición de bienes, arrendamientos o servicios, a efecto de garantizar las mejores condiciones para el Estado.
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+VI. Coordinar la emisión de políticas y procedimientos para la contratación de servicios básicos de requerimiento generalizado.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+VII. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Subsecretario de Administración, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 46 A.- La Dirección General de Tecnologías de Información y Comunicaciones, contará con los Órganos Administrativos siguientes:
+
+a) Dirección de Normatividad e Infraestructura Tecnológica.
+
+b) Dirección de Innovación y Desarrollo Tecnológico.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 46 B.- El Titular de la Dirección General de Tecnologías de Información y Comunicaciones, tendrá las atribuciones siguientes:
+
+I. Impulsar y promover el uso, estandarización y aprovechamiento de los recursos tecnológicos en los Organismos Públicos del Ejecutivo.
+
+II. Representar al Secretario en las sesiones de la Comisión Intersecretarial de Tecnologías de Información y Comunicaciones del Poder Ejecutivo del Estado, de conformidad con la normatividad aplicable e informar el resultado de las mismas.
+
+III. Proponer al Subsecretario, convenios de colaboración y/o acuerdos interinstitucionales estatales y/o nacionales, para impulsar la transferencia tecnológica y mecanismos de cooperación técnica y científica en los Organismos Públicos.
+
+IV. Proponer al Subsecretario, los proyectos de tecnologías de información y comunicaciones orientados al mejoramiento tecnológico de los Organismos Públicos del Ejecutivo.
+
+V. Someter a consideración de la Comisión Intersecretarial de Tecnologías de Información y Comunicaciones del Poder Ejecutivo del Estado, proyectos de tecnologías de información y comunicaciones de alto impacto social, económico y de seguridad; así como las características técnicas mínimas de los bienes informáticos y equipos de comunicaciones, de conformidad con la legislación aplicable.
+
+VI. Emitir y autorizar el dictamen de viabilidad técnica en materia de tecnologías de información y comunicaciones, previa autorización de la Comisión Intersecretarial de Tecnologías de Información y Comunicaciones del Poder Ejecutivo del Estado, cuando así lo soliciten los Organismos Públicos del Ejecutivo, de conformidad con la normatividad aplicable.
+
+VII. Emitir las órdenes de supervisión en materia de tecnologías de información y comunicaciones, dirigidas a los Organismos Públicos del Ejecutivo, y vigilar que se ejecuten de conformidad con la normatividad aplicable.
+
+VIII. Presentar a su superior inmediato, los informes de resultados de las supervisiones en materia de tecnologías de información y comunicaciones, practicadas a los Organismos Públicos del Ejecutivo.
+
+IX. Coordinar las capacitaciones en materia de tecnologías de información y comunicaciones a los Organismos Públicos del Ejecutivo, de conformidad con la normatividad aplicable.
+
+X. Vigilar que la emisión de dictámenes técnicos de validación y de diagnósticos técnicos para la autorización de baja o transferencia de bienes informáticos de los Organismos Públicos del Ejecutivo, se realicen de conformidad con la normatividad aplicable.
+
+XI. Impulsar el mejoramiento de procesos y servicios a solicitud de los Organismos Públicos del Ejecutivo, a través de la innovación y desarrollo de sistemas de información, sistemas electrónicos, multimedia y aplicaciones móviles.
+
+XII. Proporcionar las asesorías para los registros de propiedad intelectual ante el Instituto Mexicano de la Propiedad Industrial e Instituto Nacional de Derechos de Autor, de los proyectos en materia de tecnologías de información y comunicaciones.
+
+XIII. Administrar la infraestructura de la Red de Información Gubernamental de la Administración Pública Estatal, salvo las que por disposición legal correspondan a otras instancias de Gobierno.
+
+XIV. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Subsecretario de Administración, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ### Capítulo IV
 
@@ -1529,9 +1793,13 @@ IX. Vigilar el seguimiento de los proyectos de inversión, para verificar su gra
 
 X. Determinar el proceso y el mecanismo de administración y seguimiento de los proyectos estratégicos del Estado.
 
-XI. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Coordinador Técnico, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
 
-XII. Promover que los Organismos Públicos registren con oportunidad y eficiencia los indicadores, metas y acciones previstas en sus respectivos programas y proyectos.
+XI. Promover que los Organismos Públicos registren con oportunidad y eficiencia los indicadores, metas y acciones previstas en sus respectivos programas y proyectos.
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XII. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Coordinador Técnico, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 51.
 
@@ -1863,7 +2131,9 @@ XXI. Representar al Subsecretario de Ingresos en materia tributaria ante autorid
 
 XXII. Establecer el control de los pagos radicados por las Delegaciones de Hacienda, y vigilar que se rindan en tiempo y forma a la cuenta de movimiento de fondos y valores.
 
-XXIII. Representar al Secretario cuando así se le instruya, para gestionar ante la Tesorería Única de la Federación, la obtención de constancias de compensación, fichas de identificación y demás trámites inherentes, así como el rendimiento de la Cuenta Comprobada Federal, con intervención de la Tesorería Única.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XXIII. Representar al Secretario cuando así se le instruya, para gestionar ante la Tesorería de la Federación, la obtención de constancias de compensación, fichas de identificación y demás trámites inherentes, así como el rendimiento de la Cuenta Comprobada Federal, con intervención de la Tesorería Única.
 
 XXIV. Realizar la concentración, traspaso o reclasificación de ingresos estatales, federales y municipales coordinados, con la finalidad de verificar las metas alcanzadas en materia de recaudación y participaciones a Municipios.
 
@@ -1987,7 +2257,17 @@ XL. Delegar las atribuciones establecidas en el presente artículo, a los jefes 
 
 XLI. Llevar a cabo las acciones que correspondan para dar cumplimiento a las sentencias ejecutoriadas o resoluciones firmes dictadas por autoridades judiciales o administrativas, respecto de los asuntos de su competencia.
 
-XLII. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Subsecretario de Ingresos, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XLII. Elaborar el informe al Subsecretario de Ingresos del resultado de las auditorías practicadas a los contribuyentes en materia de impuestos estatales y los que deriven del Convenio de Colaboración Administrativa en Materia Fiscal Federal celebrado con la Secretaría de Hacienda y Crédito Público, en el término establecido en el artículo 31 fracción LVIII, a efecto de salvaguardar el interés del Fisco Estatal.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XLIII. Dar cumplimiento a las determinaciones y resoluciones emitidas por el Procurador Fiscal.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XLIV. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Subsecretario de Ingresos, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 65.
 
@@ -2067,7 +2347,21 @@ XXXII. Recibir de las autoridades federales y estatales, los documentos determin
 
 XXXIII. Efectuar el embargo de cuentas bancarias e inversiones y en su caso solicitar a las instituciones bancarias, así como a las organizaciones auxiliares del crédito, que ejecuten el embargo o aseguramiento de cuentas bancarias y de inversiones a nombre de los contribuyentes o de los responsables solidarios y solicitar su levantamiento cuando así proceda.
 
-XXXIV. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Subsecretario de Ingresos, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XXXIV. Elaborar el informe al Subsecretario de Ingresos respecto del embargo practicado dentro del Procedimiento Administrativo de Ejecución, en el término establecido en el artículo 31 fracción LVIII, a efecto de salvaguardar el interés del Fisco Estatal.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XXXV. Elaborar y proponer al Subsecretario de Ingresos informe de la atención y puntual seguimiento del Procedimiento Administrativo de Ejecución, para hacer efectivo los créditos fiscales a cargo de los contribuyentes, responsables solidarios y demás obligados, y hasta la conclusión del mismo.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XXXVI. Dar cumplimiento a las determinaciones y resoluciones emitidas por el Procurador Fiscal.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XXXVII. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Subsecretario de Ingresos, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 67.
 
@@ -2553,7 +2847,9 @@ XIII. Las demás atribuciones que en el ámbito de su competencia, le sean encom
 
 La Subprocuraduría de Legislación y Asuntos Jurídicos de la Procuraduría Fiscal, contará con los Órganos Administrativos siguientes:
 
-a) Departamento de Legislación, Consulta y Capacitación Fiscal.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+a) Departamento de Legislación y Consulta.
 
 b) Departamento de Asuntos Jurídicos.
 
@@ -2583,11 +2879,15 @@ IX. Coordinarse, previa instrucción del Procurador Fiscal, con las autoridades 
 
 X. Proponer al Procurador Fiscal, los proyectos de informes previos y justificados, en los juicios de amparo en los que la Secretaría sean parte, y promover los recursos que procedan, dentro del ámbito de su competencia.
 
-XI. Proponer al Procurador Fiscal, el proyecto de opinión jurídica sobre la procedencia o improcedencia de exenciones fiscales o condonación de multas por infracciones a las disposiciones estatales aplicables.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XI. Proponer al Procurador Fiscal, el proyecto de acuerdo sobre la procedencia o improcedencia de estímulos fiscales o condonación de multas por infracciones a las disposiciones estatales aplicables.
 
 XII. Proponer al Procurador Fiscal, el criterio aplicable cuando dos o más órganos administrativos de la misma Secretaría, emitan opiniones contradictorias en cuestiones legales y administrativas y ser órgano de consulta interna de la Secretaría, para establecer la interpretación de las disposiciones competencia de la Secretaría, misma que será obligatoria para dichos órganos administrativos.
 
-XIII. Proponer al Procurador Fiscal, el proyecto de opinión jurídica sobre la procedencia o improcedencia en las solicitudes de las devoluciones de pagos efectuados indebidamente al Fisco Estatal, cuando hayan sido objeto de duda, reclamo o controversia.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XIII. Proponer al Procurador Fiscal, el proyecto de Acuerdo sobre la procedencia o improcedencia en las solicitudes de las devoluciones de pagos efectuados indebidamente al Fisco Estatal, cuando hayan sido objeto de duda, reclamo o controversia.
 
 XIV. Proponer al Procurador Fiscal, para su validación, los proyectos de convenios, contratos, decretos, acuerdos y demás actos jurídicos en que la Secretaría sea parte y remitirlos al órgano administrativo correspondiente para su resguardo.
 
@@ -2599,9 +2899,13 @@ XVII. Proponer al Procurador Fiscal, los proyectos de capacitación y actualizac
 
 XVIII. Coordinar la elaboración de las credenciales o constancias de identificación del personal adscrito a la Procuraduría Fiscal, para realizar las notificaciones de las resoluciones emitidas por el Procurador Fiscal.
 
-XIX. Proponer al Procurador Fiscal, el criterio aplicable sobre las consultas que por escrito formulen los contribuyentes, sobre situaciones reales y concretas, en materia hacendaria.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
 
-XX. Proponer al Procurador Fiscal, el proyecto de opinión jurídica sobre la prescripción de los créditos fiscales estatales, para determinar las contribuciones omitidas y sus accesorios.
+XIX. Proponer al Procurador Fiscal; el proyecto de opinión jurídica sobre las consultas que por escrito formulen los contribuyentes.
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XX. Proponer al Procurador Fiscal, el proyecto de acuerdo sobre procedencia o improcedencia de prescripción de los créditos fiscales estatales, para determinar las contribuciones omitidas y sus accesorios.
 
 XXI. Proponer al Procurador Fiscal, para su validación, los proyectos de decretos y acuerdos que reforman, adicionan, derogan o abrogan disposiciones jurídicas o administrativas competencia de la Secretaría.
 
@@ -2627,19 +2931,29 @@ b) Departamento de Fianzas.
 
 El Titular de la Subprocuraduría de Resoluciones y de lo Contencioso, tendrá las atribuciones siguientes:
 
-I. Intervenir en los procedimientos y procesos de carácter hacendario o fiscal, que se ventilen ante las autoridades administrativas, judiciales locales y federales, en que aquélla sea parte e informar a superior inmediato.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
 
-II. Intervenir y/o representar a la Secretaría en los juicios de amparo en los que la misma sea parte, que deriven de resoluciones o actos emitidos por autoridades hacendarias, o con motivo de la aplicación de disposiciones hacendarias o fiscales.
+I. Intervenir en los procedimientos y procesos de carácter hacendario, fiscal y aduanero que se ventilen ante las autoridades administrativas, judiciales locales y federales, en que la Secretaría sea parte e informar a superior inmediato.
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+II. Intervenir y/o representar a la Secretaría en los juicios de amparo en los que la misma sea parte, que deriven de resoluciones o actos emitidos por autoridades fiscales, hacendarias y aduaneras, o con motivo de la aplicación de disposiciones hacendarias o fiscales.
 
 III. Hacer del conocimiento del Servicio de Administración Tributaria cuando exista la presunción de delitos fiscales; allegándole las pruebas necesarias para tal efecto, colaborando con la Procuraduría Fiscal de la Federación y el Ministerio Público de la Federación, en las acciones penales que ejerciten en materia de impuestos federales coordinados.
 
 IV. Querellarse y denunciar a nombre de la Secretaría, todos los actos y hechos, que pudieran constituir delitos, que lesionen los intereses de la Secretaría y coadyuvar con los Fiscales del Ministerio Público del fuero común y/o federal, en los procesos penales de carácter fiscal y/o hacendario que se hayan instaurado, dentro del ámbito de su competencia.
 
-V. Vigilar el control de las pólizas de fianzas administrativas que se hayan otorgado ante los Organismos Públicos del Ejecutivo y aquellas que garanticen el interés del Estado, así como sustituir las pólizas y/o hacerlas efectivas, ante las instituciones de fianzas que las hayan expedido, y en su caso, intervenir en el Procedimiento Contencioso Administrativo; cuando proceda, solicitar el remate de valores propiedad de la institución fiadora; realizar la cancelación y devolución, previa acreditación del cumplimiento del acto garantizado; de ser procedente, requerir el cobro de intereses e indemnizaciones en los términos del artículo 95 bis de la Ley Federal de Instituciones de Fianzas.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
 
-VI. Proponer al Procurador Fiscal, el proyecto de requerimiento de pago a las instituciones de fianzas que hayan expedido pólizas que garanticen fianzas judiciales penales, civiles y administrativas ante el Tribunal Superior de Justicia del Estado y en su caso, intervenir en el Procedimiento Contencioso Administrativo; cuando proceda, solicitar el remate de valores propiedad de la institución fiadora para hacer efectiva la póliza de fianza requerida; y de ser procedente, requerir el cobro de intereses e indemnizaciones en los términos de la fracción anterior.
+V. Vigilar el control de las pólizas de fianzas administrativas que garanticen obligaciones relativas a obra pública, Adquisiciones, Arrendamiento y Prestación de Servicios, así como Concesiones, Permisos, o cualquier otra obligación de naturaleza análoga, que se hayan otorgado ante los Organismos Públicos del Ejecutivo; Requerir a los Organismos Públicos del Ejecutivo información y documentación relativa a las fianzas y del cumplimiento de Las obligaciones garantizadas por estas y hacer las recomendaciones procedentes; Proponer al Procurador Fiscal las disposiciones administrativas de carácter general a las que deberán sujetarse los Organismos Públicos del Ejecutivo, para la calificación, aceptación, cancelación, devolución y efectividad de las fianzas que se otorguen a favor de la Secretaría; Proponer al procurador Fiscal, el proyecto de requerimiento para hacer efectivas las fianzas administrativas en términos de la legislación aplicable; Intervenir en el Procedimiento Contencioso Administrativo, Revisión Administrativa, Juicio de Amparo o cualquier otro proceso o procedimiento, relacionado con la cancelación, devolución o requerimiento de pago de fianzas; Solicitar el remate de valores propiedad de la institución fiadora conforme a la legislación vigente aplicable; Realizar la cancelación y devolución de las fianzas, cuando se acredite debidamente el cumplimiento de las obligaciones garantizadas, o se haya terminado anticipadamente la obligación garantizada; Requerir el cobro de intereses e indemnizaciones así como solicitar el remate de títulos o valores ante las instituciones de fianzas, en términos de la legislación, aplicable.
 
-VII. Vigilar el control de las pólizas de fianzas fiscales que se hayan otorgado ante las autoridades fiscales y hacendarias, que garanticen el interés fiscal estatal y/o federal, así como sustituir las pólizas y/o hacerlas efectivas, ante las instituciones de fianzas que las hayan expedido, y en su caso, intervenir en el Procedimiento Contencioso Administrativo; cuando proceda, solicitar el remate de valores propiedad de la institución fiadora; realizar la cancelación y devolución, previa acreditación del cumplimiento del acto garantizado; de ser procedente, requerir el cobro de intereses e indemnizaciones en los términos del artículo 95 bis de la Ley Federal de Instituciones de Fianzas.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+VI. Proponer al Procurador Fiscal, el proyecto de requerimiento de pago para las instituciones de fianzas que hayan expedido pólizas que garanticen obligaciones judiciales penales, civiles y/o administrativas a favor del Consejo de la Judicatura del Poder Judicial del Estado de Chiapas; intervenir en el Procedimiento Contencioso Administrativo, Revisión Administrativa, Juicio de Amparo o cualquier otro, que se derive del requerimiento de pago de las fianzas administrativas o judiciales; solicitar el remate de valores propiedad de la institución fiadora y requerir el cobro de intereses e indemnizaciones
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+VII. Vigilar el control de las pólizas de fianzas fiscales que se hayan otorgado ante las autoridades hacendarias para garantizar el interés fiscal estatal y/o federal; Proponer al Procurador Fiscal, el proyecto para hacer efectivas las fianzas fiscales en términos de la legislación aplicable; Intervenir en el Procedimiento Contencioso Administrativo, Revisión Administrativa, Juicio de Amparo o cualquier otro proceso o procedimiento, relacionado con las fianzas fiscales; Solicitar el remate de valores y/o títulos propiedad de la institución fiadora, conforme la legislación aplicable; Realizar la cancelación y devolución, previa acreditación del cumplimiento del acto garantizado; Requerir el cobro de intereses, indemnizaciones, actualizaciones, recargos o cualquier otra de naturaleza análogas, según corresponda.
 
 VIII. Proponer al Procurador Fiscal, los proyectos de informes previos y justificados, en los juicios de amparo en los que la Secretaría sea parte, y promover los recursos que procedan, dentro del ámbito de su competencia.
 
@@ -2653,11 +2967,15 @@ XII. Intervenir, previa instrucción del Procurador Fiscal, en representación d
 
 XIII. Proponer al Procurador Fiscal el criterio aplicable para aprobar la adjudicación de los bienes muebles e inmuebles a favor del Fisco Estatal, así como para realizar su venta fuera de subasta en los términos de las disposiciones aplicables.
 
-XIV. Ejercitar la acción de nulidad por lesividad, contra los actos y resoluciones de autoridad administrativa, que se hubieren dictado con perjuicio del Fisco.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XIV. Ejercitar la acción de nulidad por lesividad, contra los actos y resoluciones de autoridad fiscal, hacendaria y aduanera, que se hubieren dictado en perjuicio del Fisco.
 
 XV. Tramitar la resolución de los recursos administrativos, a que se refieren las disposiciones hacendarias estatales, interpuestos contra actos y resoluciones de las autoridades hacendarias que sean de su competencia, así como el establecido en el Código Fiscal de la Federación, en relación con los actos o resoluciones de aquéllas, emitidos en ejercicio de las facultades que le confiere el Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado con la Secretaría de Hacienda y Crédito Público.
 
-XVI. Proponer al Procurador Fiscal, el proyecto de resolución de los recursos administrativos a que se refieren las disposiciones hacendarias estatales, interpuestos contra actos y resoluciones de las autoridades hacendarias que sean de su competencia, así como el establecido en el Código Fiscal de la Federación, en relación con los actos o resoluciones de aquéllas, emitidos en ejercicio de las facultades que le confieren el Convenio de Colaboración Administrativa en materia fiscal federal, celebrado con la Secretaría de Hacienda y Crédito Público.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XVI. Proponer al Procurador Fiscal, el proyecto de resolución de los recursos administrativos a que se refieren las disposiciones hacendarias estatales, interpuestos contra actos y resoluciones de las autoridades fiscales, hacendarias y aduaneras que sean de su competencia, así como lo establecido en el Código Fiscal de la Federación, en relación con los actos o resoluciones de aquéllas, emitidos en ejercicio de las facultades que le confieren el Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado con la Secretaría de Hacienda y Crédito Público.
 
 XVII. Ejercer las atribuciones delegadas en el Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado con la Secretaría de Hacienda y Crédito Público, cuya naturaleza sean iguales a las que tiene expresamente conferidas en materia hacendaria estatal.
 
@@ -2667,13 +2985,23 @@ XIX. Intervenir como parte, en los juicios que se susciten con motivo del ejerci
 
 XX. Participar en foros nacionales y estatales, que se relacionen con los asuntos de su competencia, previo acuerdo con el Procurador Fiscal.
 
-XXI. Vigilar que se realicen las notificaciones de los actos y resoluciones emitidas por el Procurador Fiscal, a través del personal adscrito del órgano administrativo a su cargo, y en su caso, solicitar de las demás autoridades hacendarias que las mismas se lleven a cabo en los términos de las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XXI. Vigilar que se realicen las notificaciones de los actos y resoluciones emitidas por el Procurador Fiscal, a través del personal adscrito al órgano administrativo a su cargo, y en su caso, solicitar de las demás autoridades fiscales, hacendarias y aduaneras que las mismas se lleven a cabo en los términos de las disposiciones legales aplicables.
 
 XXII. Colaborar con la Subprocuraduría de Legislación y de Asuntos Jurídicos en los asuntos que se requieran, en defensa de los intereses del Fisco o de la Secretaría, así como con los demás órganos administrativos de la misma.
 
-XXIII. Proponer al Procurador Fiscal, el criterio aplicable sobre las consultas que por escrito formulen los contribuyentes, sobre situaciones reales y concretas, en materia hacendaria y fiscal.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
 
-XXIV. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Procurador Fiscal, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+XXIII. Proponer al Procurador Fiscal, el criterio aplicable sobre las consultas que por escrito formulen los contribuyentes, sobre situaciones reales y concretas, en materia fiscal, hacendaria y aduanera.
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XXIV. Proponer al Procurador Fiscal, disposiciones administrativas relacionadas con las fianzas que reciban los Organismos Públicos del Ejecutivo a favor de la Secretaría, en relación a licitaciones o adjudicaciones de obras, adquisiciones, contratos administrativos, anticipos, permisos, autorizaciones, concesiones, prórrogas y otras obligaciones de naturaleza análoga.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XXV. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Procurador Fiscal, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 79.
 
@@ -2713,7 +3041,13 @@ X. Realizar el proceso de cálculo de las retenciones al salario que por mandato
 
 XI. Coordinar la depuración de los expedientes del personal que cause baja de la Administración Centralizada.
 
-XII. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Director General de Recursos Humanos, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XII. Coordinar la elaboración de los nombramientos, constancia de categoría y percepciones salariales para el personal de la Administración Pública Centralizada.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XIII. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Director General de Recursos Humanos, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 81.
 
@@ -2753,49 +3087,59 @@ XII. Emitir las constancias de percepciones que soliciten los trabajadores de ba
 
 XIII. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Director General de Recursos Humanos, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 83.
 
 La Dirección de Estructuras Orgánicas de la Dirección General de Recursos Humanos, contará con los Órganos Administrativos siguientes:
 
-a) Departamento de Programas.
+a) Departamento Sector Gobierno, Seguridad y Medio Ambiente.
 
-b) Departamento de Entidades.
+b) Departamento Sector Administración, Finanzas y Obra Pública.
 
-c) Departamento de Dependencias.
+c) Departamento Sector Educación, Salud, Desarrollo Social y Campo.
 
-d) Departamento de Diagnósticos Administrativos.
+d) Departamento de Reglamentos Interiores y Manuales Administrativos.
 
 ###### Artículo 84.
 
 El Titular de la Dirección de Estructuras Orgánicas, tendrá las atribuciones siguientes:
 
-I. Suscribir los dictámenes de estructuras orgánicas de los Organismos de la Administración Pública Estatal y la consecuente creación, modificación o cancelación de categorías y/o plazas; aprobando los mismos funcionalmente.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
 
-II. Promover la difusión de las políticas, normas y lineamientos para la elaboración de los proyectos de estructuración o reestructuración de Órganos Administrativos y plantilla de plazas de la Administración Pública Estatal.
+I. Suscribir los dictámenes de estructuras orgánicas y/o creación, modificación o cancelación de plantillas de plazas, aprobando los mismos funcionalmente.
 
-III. Presentar a su superior inmediato, el diagnóstico de las estructuras orgánicas y plantillas de plazas de los Organismos Públicos del Ejecutivo, cuando así lo soliciten.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+II. Promover la difusión de las políticas, normas y lineamientos para la elaboración de los proyectos de estructuración o reestructuración de Órganos Administrativos y/o plantilla de plazas de la Administración Pública Estatal.
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+III. Proporcionar asesorías a los Organismos de la Administración Pública Estatal, en la elaboración o actualización de sus Reglamentos Interiores y Manuales Administrativos, acorde a su estructura orgánica vigente dictaminada, observando los aspectos técnicos y administrativos.
 
 IV. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Director General de Recursos Humanos, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 85.
 
 La Dirección de Adquisiciones de la Dirección General de Recursos Materiales y Servicios, contará con los Órganos Administrativos siguientes:
 
-a) Departamento de Convocatorias y Bases.
+a) Departamento 1 de Atención al Gabinete de Gobierno.
 
-b) Departamento de Aclaraciones y Aperturas.
+b) Departamento 2 de Atención al Gabinete de Educación y de Asistencia Social.
 
-c) Departamento de Adjudicaciones.
+c) Departamento 3 de Atención al Gabinete de Salud, de Seguridad Pública y de Protección Civil.
 
-d) Departamento de Pedidos y Archivos.
-
-e) Departamento de Gestión y Operación de Adquisiciones.
+d) Departamento 4 de Atención al Gabinete Económico, de Infraestructura y de Medio Ambiente.
 
 ###### Artículo 86.
 
 El Titular de la Dirección de Adquisiciones, tendrá las atribuciones siguientes:
 
-I. Presentar a su superior inmediato, el resultado de la investigación de mercado para la adquisición de bienes, arrendamientos o servicios, a efecto de buscar las mejores condiciones para el Estado, cuando así se requiera.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+I. Presentar en el acto de apertura de propuestas técnicas y económicas, el resultado de la investigación de mercado para la adquisición de bienes, arrendamientos o servicios, a efecto de garantizar las mejores condiciones para el Estado, cuando así se requiera.
 
 II. Fungir como Secretario Técnico del Comité de Adquisiciones, Arrendamientos y Servicios de Bienes Muebles, de conformidad con las disposiciones aplicables.
 
@@ -2815,29 +3159,37 @@ IX. Promover la mejora continua de los procedimientos de adquisiciones y contrat
 
 X. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Director General de Recursos Materiales y Servicios, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 87.
 
 La Dirección de Servicios de la Dirección General de Recursos Materiales y Servicios, contará con los Órganos Administrativos siguientes:
 
-a) Departamento de Información y Servicios.
+a) Departamento de Normatividad y Seguimiento.
 
-b) Departamento de Mantenimiento e Intendencia.
+b) Departamento de Operación de Servicios.
 
-c) Departamento de Control de Gestión y Correspondencia.
+c) Departamento de Administración de Seguros de Vida y Bienes Patrimoniales.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 88.
 
 El Titular de la Dirección de Servicios, tendrá las atribuciones siguientes:
 
-I. Proporcionar asesoría a los Organismos Públicos del Ejecutivo, en materia de recursos materiales y servicios, a través de los módulos de orientación e información.
+I. Emitir políticas y procedimientos en materia de servicios generales básicos.
 
-II. Promover la actualización y difusión del Directorio de Servidores Públicos de la Administración Centralizada.
+II. Promover, integrar y proponer a la Dirección de Adquisiciones, las bases para la consolidación de la licitación de servicios de uso generalizado.
 
-III. Implementar y dirigir el programa de fotocredencialización del personal al servicio de la Administración Centralizada.
+III. Vigilar la actualización de información que registran los organismos en el Directorio de Funcionarios Públicos a nivel federal, estatal, municipal, así como del sector privado, que se difunde en el portal del Gobierno del Estado.
 
-IV. Proporcionar servicios de mantenimiento a las Dependencias del Estado, cuando así se requiera.
+IV. Coordinar y operar la atención en los módulos de información para orientar a la ciudadanía sobre la gestión de trámites y servicios.
 
-V. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Director General de Recursos Materiales y Servicios, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+V. Vigilar el desarrollo del programa de mantenimiento preventivo y correctivo de bienes muebles e inmuebles.
+
+VI. Emitir las políticas y procedimientos para la contratación del programa anual de aseguramiento de vida y de bienes patrimoniales del Gobierno del Estado.
+
+VII. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Director General de Recursos Materiales y Servicios, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 89.
 
@@ -2859,13 +3211,85 @@ III. Emitir la instrucción a la Institución Fiduciaria para que realice los pa
 
 IV. Designar a los prestadores de servicios y proveedores de apoyo al FOPROVEP, de acuerdo al procedimiento previamente establecido.
 
-V. Vigilar la actualización del padrón de vehículos oficiales asignados a los Organismos Públicos del Ejecutivo.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+V. Vigilar la actualización del padrón de vehículos oficiales asignados a los Organismos Públicos del Ejecutivo que se encuentran asegurados con el FOPROVEP.
 
 VI. Coordinar la integración de la información financiera y presentarla al Comité Técnico del FOPROVEP, así como la elaboración de la Cuenta Pública, conforme a las disposiciones aplicables.
 
 VII. Emitir la instrucción para el análisis, revisión y conciliación de la información financiera generada, con la enviada por la Institución Fiduciaria.
 
 VIII. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Director General de Recursos Materiales y Servicios, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 90 A.- La Dirección de Normatividad e Infraestructura Tecnológica de la Dirección General de Tecnologías de Información y Comunicaciones, contará con los Órganos Administrativos siguientes:
+
+a) Departamento de Capacitación en Tecnologías de Información.
+
+b) Departamento de Infraestructura Tecnológica y Comunicaciones.
+
+c) Departamento de Normatividad y Proyectos Informáticos.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 90 B.- El Titular de la Dirección de Normatividad e Infraestructura Tecnológica, tendrá las atribuciones siguientes:
+
+I. Proponer a su superior inmediato, las normas, políticas, procedimientos y las características técnicas mínimas de los bienes informáticos, equipos de comunicaciones, así como los proyectos de tecnologías de información de alto impacto social, económico y de seguridad de los Organismos Públicos del Ejecutivo, de conformidad con la normatividad aplicable.
+
+II. Promover y proporcionar la capacitación en tecnologías de información, a los servidores públicos adscritos a los Organismos Públicos del Ejecutivo, previa solicitud que estos realicen, conforme al catálogo establecido para tal efecto.
+
+III. Participar en los proyectos especiales de infraestructura tecnológica y proyectos interinstitucionales de los tres órdenes de gobierno, para fortalecer la Red de Información Gubernamental.
+
+IV. Administrar la Red de Información Gubernamental de los Organismos Públicos del Ejecutivo, salvo las que por disposición legal correspondan a otras instancias de Gobierno.
+
+V. Emitir previa validación de la Comisión Intersecretarial de Tecnologías de Información y Comunicaciones del Poder Ejecutivo del Estado, el dictamen de viabilidad técnica en materia de tecnologías de información y comunicaciones, solicitados por los Organismos Públicos del Ejecutivo, de conformidad con la normatividad aplicable, así como aquellos proyectos que no sean necesarios someterlos a dicha Comisión.
+
+VI. Emitir los dictámenes técnicos para la autorización de baja o transferencia de los bienes informáticos y equipos de comunicaciones de los Organismos Públicos del Ejecutivo, previa solicitud, de conformidad con la normatividad aplicable.
+
+VII. Realizar la supervisión a los proyectos informáticos de los Organismos Públicos del Ejecutivo, de conformidad con la normatividad aplicable.
+
+VIII. Informar al Director General de su adscripción, los resultados de las supervisiones practicadas a los Organismos Públicos del Ejecutivo.
+
+IX. Participar en las reuniones de la Comisión Intersecretarial de Tecnologías de Información y Comunicaciones del Poder Ejecutivo del Estado, para contribuir en el mejoramiento de tecnologías de información y comunicaciones en los Organismos Públicos del Ejecutivo, de conformidad con la normatividad aplicable.
+
+X. Las demás que en el ámbito de su competencia le sean encomendadas por el Director General de Tecnologías de Información y Comunicaciones, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 90 C.- La Dirección de Innovación y Desarrollo Tecnológico de la Dirección General de Tecnologías de Información y Comunicaciones, contará con los Órganos Administrativos siguientes:
+
+a) Departamento de Desarrollo Tecnológico.
+
+b) Departamento de Ingeniería y Gestión Tecnológica.
+
+c) Departamento de Análisis y Desarrollo de Sistemas.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 90 D.- El Titular de la Dirección de Innovación y Desarrollo Tecnológico, tendrá las atribuciones siguientes:
+
+I. Impulsar el mejoramiento de procesos y servicios a solicitud de los Organismos Públicos del Ejecutivo, a través de la innovación y desarrollo de sistemas de información, sistemas electrónicos, multimedia y aplicaciones móviles.
+
+II. Proponer a su superior inmediato, los proyectos de sistemas de información, sistemas electrónicos, multimedia y aplicaciones móviles orientados al mejoramiento tecnológico de los Organismos Públicos del Ejecutivo.
+
+III. Proponer a su superior inmediato, convenios de colaboración y/o acuerdos interinstitucionales estatales, nacionales, para impulsar la transferencia tecnológica y mecanismos de cooperación técnica y científica.
+
+IV. Emitir el dictamen técnico de validación para los sistemas de información desarrollados por los Organismos Públicos del Ejecutivo, de conformidad con la normatividad aplicable.
+
+V. Emitir el dictamen de diagnóstico técnico para la autorización de baja o transferencia de bienes informáticos (software) de la Administración Pública Estatal, previa solicitud, en términos de lo dispuesto por la normatividad respectiva.
+
+VI. Emitir la validación y aprobación de los dictámenes de viabilidad técnica en materia de sistemas de información y software normativo, solicitados por la Dirección de Normatividad e Infraestructura Tecnológica.
+
+VII. Proporcionar asesorías en la gestión de registros de propiedad intelectual ante el Instituto Mexicano de la Propiedad Industrial y/o Instituto Nacional de Derechos de Autor de los proyectos en materia de tecnologías de información y comunicaciones.
+
+VIII. Realizar revisiones físicas de los sistemas de información y software normativo a los Organismos Públicos del Ejecutivo, de conformidad con la normatividad aplicable.
+
+IX. Presentar a su superior inmediato, el informe de resultados de las revisiones físicas practicadas a los Organismos Públicos del Ejecutivo.
+
+X. Fungir como Secretario Técnico en las sesiones de la Comisión Intersecretarial de Tecnologías de Información y Comunicaciones del Poder Ejecutivo del Estado, de conformidad con la normatividad aplicable.
+
+XI. Las demás que en el ámbito de su competencia le sean encomendadas por el Director General de Tecnologías de Información y Comunicaciones, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 91.
 
@@ -2941,6 +3365,44 @@ IX. Acordar con su superior inmediato, la validación de propuestas presentadas 
 
 X. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Subsecretario de Entidades Paraestatales, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 94 A.- La Dirección de Operativa de la Torre Chiapas de la Subsecretaría de Entidades Paraestatales, contará con los Órganos Administrativos siguientes:
+
+a) Departamento de Logística y Servicios de Arrendamiento.
+
+b) Departamento de Mantenimiento General.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 94 B.- El Titular de la Dirección Operativa de la Torre Chiapas, tendrá las atribuciones siguientes:
+
+I. Dirigir la administración, operación y mantenimiento del bien inmueble denominado Torre Chiapas y sus anexos.
+
+II. Promover el arrendamiento de los espacios de la Torre Chiapas y sus anexos destinados para tal fin.
+
+III. Coordinar los trámites para la autorización de convenios de comodato y contratos de arrendamiento, así como de la prestación de servicios con base a los lineamientos establecidos.
+
+IV. Preparar el tabulador de tarifas de arrendamiento y servicios que se presten en la Torre Chiapas.
+
+V. Autorizar la ejecución de proyectos de remodelación o mantenimiento de las áreas y espacios que le presenten los comodantes y arrendatarios de la Torre Chiapas.
+
+VI. Coordinar la entrega y recepción de los espacios arrendados o en comodato a las instituciones y empresas públicas.
+
+VII. Vigilar las acciones de mantenimiento preventivo y correctivo de las instalaciones de la Torre Chiapas.
+
+VIII. Coordinar las acciones de control de acceso y salida del público y del personal que labora en la Torre Chiapas, para mantener la seguridad interna del edificio.
+
+IX. Vigilar las acciones de control de acceso y salida vehicular del público y personal que labora en la Torre Chiapas.
+
+X. Autorizar la asignación de espacios del estacionamiento del edificio Torre Chiapas.
+
+XI. Vigilar la operatividad del sistema de voz y datos de la Torre Chiapas.
+
+XII. Coordinar el sistema interno de protección civil.
+
+XIII. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Subsecretario de Entidades Paraestatales, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+
 ## Título Cuarto. De las Suplencias de los Servidores Públicos
 
 ### Capítulo Único. De las Ausencias y el Orden de Suplencias
@@ -2949,21 +3411,41 @@ X. Las demás atribuciones que en el ámbito de su competencia, le sean encomend
 
 Las ausencias temporales del Secretario, serán suplidas por el servidor público que éste designe.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 96.
 
-Los Titulares de las Unidades, Coordinación Técnica, Subsecretarías, Tesorería Única y Procuraduría Fiscal, serán suplidos en sus ausencias temporales por el servidor público que designe el Secretario.
+Los Titulares de las Unidades, Coordinación Técnica, Subsecretarías, Tesorería Única, Procuraduría Fiscal y Direcciones Generales, que integran la Secretaría, serán suplidos en sus ausencias temporales por el servidor público que designe el Secretario.
+
+En caso de ausencias definitivas el Secretario, podrá designar a un encargado de despacho para continuar con la gestión de la misma, hasta en tanto se dé el nombramiento del titular respectivo, el cual tendrá las mismas atribuciones y facultades de los titulares.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 97.
 
-Los Titulares de las Direcciones Generales, serán suplidos en sus ausencias temporales por el servidor público que designe el Subsecretario de su adscripción, previo acuerdo y aprobación del Secretario.
+Los Titulares de las Unidades de Coordinación Hacendaria, de Estructuración Financiera, Direcciones, Coordinación de Programas Especiales y Evaluación Operativa, los Subprocuradores de resoluciones y de lo Contencioso y de Legislación Asuntos Jurídicos; así como los Titulares de la (sic) las Delegaciones de Hacienda, Áreas y Departamentos, serán suplidos en sus ausencias temporales por el servidor público que designe el Subsecretario y/o su equivalente.
 
 ###### Artículo 98.
 
-Los Titulares de las Unidades de Coordinación Hacendaria, de Estructuración Financiera, Direcciones, Coordinación de Programas Especiales y Evaluación Operativa y los Subprocuradores de Legislación y Asuntos Jurídicos y de Resoluciones y de lo Contencioso, serán suplidos en sus ausencias temporales por el servidor público que designe su superior inmediato, previa aprobación del Subsecretario de su adscripción, cuando así corresponda.
+(DEROGADO, P.O. 6 DE NOVIEMBRE DE 2014)
 
 ###### Artículo 99.
 
-Los Titulares de las Delegaciones de Hacienda, Áreas y Departamentos, serán suplidos en sus ausencias temporales por el servidor público que designe su superior inmediato.
+(DEROGADO, P.O. 6 DE NOVIEMBRE DE 2014)
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+## Título Quinto. Del Órgano Desconcentrado de la Secretaría
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+### Capítulo Único. De BANCHIAPAS
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 100.
+
+La Secretaría contará con un órgano administrativo desconcentrado, jerárquicamente subordinado a ésta, denominado BANCHIAPAS, el cual tendrá la atribución que se establezca en su respectivo Decreto de Creación, Reglamento Interior y demás disposiciones legales y administrativas aplicables.
 
 T r a n s i t o r i o s
 
@@ -2996,3 +3478,11 @@ Artículo Primero.- El presente Decreto entrará en vigencia al día siguiente d
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Artículo Tercero.- En cumplimiento a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Reglamento Interior en el Periódico Oficial.
+
+P.O. 6 DE NOVIEMBRE DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Conforme a lo dispuesto por el artículo 8° de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
