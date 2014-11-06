@@ -4,7 +4,7 @@ identifier: "LOEFAM"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-12-26"
-last_updated: "2012-04-03"
+last_updated: "2014-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=417&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOEFAM"
 
 LEY ORGÁNICA DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 26 de diciembre de 1986.
 
@@ -504,11 +504,19 @@ IX. Justicia;
 
 X. Veterinaria y Remonta;
 
-XI. Meteorológico;
+> <small>(ADICIONADA, D.O.F. 6 DE NOVIEMBRE DE 2014)</small>
 
-XII. Control de Vuelo; y
+XI. Informática;
 
-XIII. Material Aéreo.
+XII. Meteorológico;
+
+> <small>(REFORMADA, D.O.F. 6 DE NOVIEMBRE DE 2014)</small>
+
+XIII. Control de vuelo; y
+
+> <small>(REFORMADA, D.O.F. 6 DE NOVIEMBRE DE 2014)</small>
+
+XIV. Material aéreo.
 
 ###### ARTICULO 69.
 
@@ -751,6 +759,30 @@ V. Recibir, almacenar, abastecer, reparar, mantener, recuperar y controlar el ma
 ###### ARTICULO 95.
 
 El jefe del Servicio de Veterinaria y Remonta será un Coronel Médico Veterinario.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 6 DE NOVIEMBRE DE 2014)</small>
+
+Servicio de Informática
+
+> <small>(ADICIONADO, D.O.F. 6 DE NOVIEMBRE DE 2014)</small>
+
+ARTICULO 95 BIS. El servicio de informática tendrá a su cargo la instalación, operación y mantenimiento de los bienes y servicios informáticos del Ejército y Fuerza Aérea; además realizará las actividades siguientes:
+
+I. Diseñar, desarrollar, recibir, almacenar, abastecer, evacuar, reparar, recuperar y controlar los bienes y servicios informáticos del Ejército y Fuerza Aérea;
+
+II. Fijar normas técnicas para los bienes y servicios informáticos;
+
+III. Planear, organizar, implementar, conservar, explotar y adaptar bienes y servicios informáticos del Ejército y Fuerza Aérea, así como los que queden bajo control militar;
+
+IV. Auxiliar en los procedimientos de auditoría y seguridad informática;
+
+V. Auxiliar a los mandos en todos los niveles en el empleo, operación y conservación de los bienes informáticos, capacitar al personal del servicio y fomentar la cultura informática, y
+
+VI. Las demás que le confieran esta Ley y cualquier disposición aplicable.
+
+> <small>(ADICIONADO, D.O.F. 6 DE NOVIEMBRE DE 2014)</small>
+
+ARTICULO 95 TER. El Director del Servicio de informática será un General Ingeniero en Computación e Informática.
 
 Servicio Meteorológico
 
@@ -1222,7 +1254,13 @@ II. Por enganche voluntario, seleccionando a los individuos que lo soliciten, ba
 
 El personal civil o militar que sea admitido para efectuar Cursos de Formación en los Planteles de Educación Militar, deberá firmar contrato o compromiso, respectivamente, en el que se establezca que queda obligado a servir al Ejército y Fuerza Aérea, como mínimo, un tiempo doble al que haya durado el Curso correspondiente.
 
-Los miembros del Ejército y Fuerza Aérea, que sean designados o autorizados a su solicitud, para efectuar Cursos de Aplicación, Especialización, Perfeccionamiento, de Postgraduados, Superiores y otros en el país, además del tiempo a que ya están obligados por disposición legal o por compromiso suscrito, servirán un año adicional por cada año o fracción que duren en esa situación; en el caso de que los Cursos se realicen en el Extranjero y a su costa, ese tiempo adicional se duplicará y si las erogaciones que causen sus gastos son a cargo del Erario Nacional, el tiempo adicional de servicios se triplicará.
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2014)</small>
+
+Los miembros del Ejército y Fuerza Aérea, que sean designados o autorizados a su solicitud, para efectuar Cursos de Capacitación, Actualización, Aplicación, Especialización, Perfeccionamiento, de Postgraduados, Superiores y otros en el país, además del tiempo a que ya están obligados por disposición legal o por compromiso suscrito, servirán un año adicional por cada año o fracción igual o mayor a seis meses y, en el supuesto que dicho periodo sea menor de seis meses, el tiempo adicional será igual a la duración del Curso.
+
+> <small>(ADICIONADO, D.O.F. 6 DE NOVIEMBRE DE 2014)</small>
+
+En todos los casos, cuando los Cursos se realicen en el extranjero y a costa del interesado, el tiempo adicional se duplicará y, si las erogaciones son a cargo del Erario Nacional, el tiempo adicional de servicios se triplicará.
 
 ###### ARTICULO 151.
 
@@ -1388,9 +1426,9 @@ Si la baja se le da al Auxiliar sin que la hubiera motivado su mala conducta y h
 
 F. Por adquirir otra nacionalidad, y
 
-> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2014)</small>
 
-G. Por rescisión del contrato de enganche, conforme a las disposiciones jurídicas aplicables.
+G. Para los Soldados y Cabos, por la rescisión del contrato de enganche o del de su renovación, otorgándoles la garantía de audiencia por quince días hábiles en los términos del Reglamento de Reclutamiento de Personal para el Ejército y Fuerza Aérea Mexicanos.
 
 Salvo los casos de la Fracción I apartado A y Fracción II apartado E, la baja del Ejército y Fuerza Aérea, implica la pérdida del derecho a reclamar prestaciones o beneficios con base en el tiempo de servicios que se tuvo y en todos los casos el de usar uniformes, condecoraciones y divisas militares.
 
@@ -1708,9 +1746,11 @@ A. Ingenieros Industriales.
 
 De Subteniente a General de Brigada, y
 
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2014)</small>
+
 B. De Materiales de Guerra.
 
-De Soldado a Teniente Coronel.
+De Soldado a Coronel.
 
 VI. De Transportes, que se divide en cuatro grupos:
 
@@ -1768,13 +1808,17 @@ B. Cirujanos Dentistas.
 
 De Subteniente a General Brigadier;
 
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2014)</small>
+
 C. Personal de Sanidad.
 
-De Soldado a Teniente Coronel;
+De Soldado a Coronel;
+
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2014)</small>
 
 D. Enfermeras.
 
-De Soldados a Teniente Coronel; y
+De Soldado a Coronel; y
 
 E. Especialistas del Servicio de Sanidad. De Soldado a Teniente Coronel.
 
@@ -1802,7 +1846,19 @@ B. Personal de Veterinaria y Remonta.
 
 De Soldado a Teniente Coronel.
 
-XII. Del Servicio Meteorológico Militar, que se divide en tres grupos:
+> <small>(ADICIONADA, D.O.F. 6 DE NOVIEMBRE DE 2014)</small>
+
+XII. De Informática, que se divide en dos grupos:
+
+A. Ingeniero en Computación e Informática.
+
+De Subteniente a General de Brigada; y
+
+B. Especialistas del Servicio de Informática.
+
+De Soldado a Teniente Coronel.
+
+XIII. Del Servicio Meteorológico Militar, que se divide en tres grupos:
 
 > <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2011)</small>
 
@@ -1818,15 +1874,15 @@ C. Especialistas del Servicio Meteorológico.
 
 De Soldado a Teniente Coronel.
 
-XIII. Del Servicio de Control de Vuelo.
+XIV. Del Servicio de Control de Vuelo.
 
 De Subteniente a Coronel.
 
-XIV. Del Servicio del Material Aéreo, que se divide en seis grupos;
+> <small>(REFORMADA, D.O.F. 6 DE NOVIEMBRE DE 2014)</small>
+
+XV. Del Servicio de Material Aéreo, que se divide en seis grupos;
 
 A. Mantenimiento de Material Aéreo, que se subdivide en:
-
-> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2011)</small>
 
 a. Ingenieros en Aeronáutica.
 
@@ -1841,8 +1897,6 @@ B. Abastecimiento de Material Aéreo.
 De Sargento Segundo a Coronel;
 
 C. Material Aéreo Electrónico, que se subdivide en:
-
-> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2011)</small>
 
 a. Ingenieros en Electrónica de Aviación.
 
@@ -1860,9 +1914,9 @@ E. Mantenimiento de Paracaídas.
 
 De Cabo a Capitán Primero; y
 
-> <small>(F. DE E., D.O.F. 13 DE FEBRERO DE 1987)</small>
-
 F. Especialistas del Servicio de Material Aéreo.
+
+De Soldado a Teniente Coronel.
 
 De Soldado a Teniente Coronel.
 
@@ -2023,3 +2077,17 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 D.O.F. 3 DE ABRIL DE 2012.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 6 DE NOVIEMBRE DE 2014.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El personal de Servicio de Materiales de Guerra y de Sanidad, comprendidos en el artículo 193 fracción V inciso B, fracción IX, incisos C y D; que ostentan el grado de Teniente Coronel y perciben un haber complementario por encontrarse en los supuestos que establece el artículo 45 de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, conservarán sus derechos adquiridos, hasta en tanto asciendan al grado de Coronel, o bien pasen a situación de retiro.
+
+Tercero.- Para los efectos de lo previsto en el artículo 95 Ter, en tanto no exista un General Ingeniero en Computación e Informática, se podrá nombrar como Director General del servicio a quien designe la Secretaría de la Defensa Nacional.
+
+Cuarto.- El Ejecutivo Federal deberá realizar las reformas necesarias al Reglamento de Reclutamiento de Personal para el Ejército y Fuerza Aérea Mexicanos de conformidad con lo previsto en este Decreto, dentro de los 180 días naturales posteriores a su entrada en vigor.
+
+Quinto.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Sexto.- Las erogaciones que deriven de la aplicación de este Decreto serán realizadas mediante movimientos compensados y no se requerirán recursos adicionales por lo que la Secretaría de la Defensa Nacional, debe sujetarse a su presupuesto autorizado para el presente ejercicio fiscal y no incrementar su presupuesto regularizable.
