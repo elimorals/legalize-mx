@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-del-comite-organizador-de-los-juegos-96208"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-12-11"
-last_updated: "2013-06-19"
+last_updated: "2014-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96208&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO INTERIOR DEL COMITÉ ORGANIZADOR DE LOS JUEGOS DEPORTIVOS CENTROAMERICANOS, PARACENTROAMERICANOS Y DEL CARIBE VERACRUZ 2014
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 19 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE NOVIEMBRE DE 2014.
 
 Reglamento publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el martes 11 de diciembre de 2012.
 
@@ -47,7 +47,9 @@ II. Consejo Directivo: El órgano superior de dirección del Comité Organizador
 
 III. Director General: El Director General del Comité Organizador.
 
-IV. Juegos Deportivos: Los Juegos Deportivos Centroamericanos, Paracentroamericanos y del Caribe Veracruz 2014;
+> <small>(REFORMADA, G.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+IV. Juegos Deportivos: Los Juegos Deportivos Centroamericanos y del Caribe Veracruz 2014;
 
 V. ODECABE: La Organización Deportiva Centroamericana y del Caribe;
 
@@ -73,19 +75,41 @@ I. Dirección General;
 
 II. Coordinación General de Estrategias Deportivas;
 
-III. Subdirección de Administración;
+> <small>(REFORMADA, G.O. 6 DE NOVIEMBRE DE 2014)</small>
 
-IV. Subdirección Jurídica;
+III. Subdirección Técnica y Deportiva;
 
-V. Subdirección Técnica y Deportiva;
+> <small>(REFORMADA, G.O. 6 DE NOVIEMBRE DE 2014)</small>
 
-VI. Subdirección de Relaciones Públicas;
+IV. Subdirección de Servicios a los Juegos;
 
-VII. Subdirección Comercial y Mercadotecnia;
+> <small>(REFORMADA, G.O. 6 DE NOVIEMBRE DE 2014)</small>
 
-VIII. Subdirección de Servicios a los Juegos; y
+V. Subdirección de Operaciones;
 
-IX. Oficina de Enlace de Comunicación Social.
+> <small>(REFORMADA, G.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+VI. Subdirección Comercial y de Mercadotecnia;
+
+> <small>(REFORMADA, G.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+VII. Subdirección de Tecnología de los Juegos;
+
+> <small>(REFORMADA, G.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+VIII. Subdirección de Servicios Médicos y Control de Dopaje;
+
+> <small>(REFORMADA, G.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+IX. Subdirección de Administración;
+
+> <small>(ADICIONADA, G.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+X. Subdirección Jurídica; y
+
+> <small>(ADICIONADA, G.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XI. Oficina de Enlace de Comunicación Social.
 
 De las anteriores Áreas o Unidades Administrativas se derivarán los Departamentos u Oficinas necesarios para el cumplimiento de los fines del Organismo, en términos de presupuesto disponible, previa autorización del Consejo Directivo.
 
@@ -121,11 +145,21 @@ a) El Secretario de Finanzas y Planeación;
 
 b) El Secretario de Educación;
 
-c) El Secretario de Comunicaciones;
+> <small>(REFORMADO, G.O. 6 DE NOVIEMBRE DE 2014)</small>
 
-d) El Coordinador General de Comunicación Social; y
+c) El Secretario de Infraestructura y Obras Públicas;
 
-e) El Director General del Instituto Veracruzano del Deporte.
+> <small>(REFORMADO, G.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+d) El Coordinador de Comunicación Social;
+
+> <small>(REFORMADO, G.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+e) El Director del Instituto Veracruzano del Deporte; y
+
+> <small>(ADICIONADO, G.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+f) Dos miembros del Comité Olímpico Mexicano, designados por el Comité.
 
 III. El Contralor General, en carácter de Comisario, quien tendrá voz, pero no voto.
 
@@ -147,7 +181,9 @@ IV. Analizar y aprobar anualmente el presupuesto de egresos, el programa operati
 
 V. Aprobar los estados financieros que le sean presentados por el Director General;
 
-VI. Autorizar las solicitudes de autorización para la venta, permuta y disposición en general de los bienes del Comité, conforme a las disposiciones legales aplicables,
+> <small>(REFORMADA, G.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+VI. Aprobar las solicitudes de autorización para la venta, permuta y disposición en general de los bienes del Comité, conforme a las disposiciones legales aplicables;
 
 VII. Vigilar el cumplimiento de los programas y presupuestos, supervisando el avance de las actividades y el apego a la normativa aplicable;
 
@@ -391,13 +427,187 @@ V. Suplir al Director General en sus ausencias temporales, que no excedan de un 
 
 VI. Las demás que deriven de lo dispuesto por el presente Reglamento o por acuerdo del Consejo Directivo.
 
-### CAPÍTULO SEXTO. De la Subdirección de Administración
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO SEXTO. De la Subdirección Técnica y Deportiva
+
+> <small>(REFORMADO, G.O. 6 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 25.
 
+La Subdirección Técnica y Deportiva es la responsable de la organización de los eventos deportivos, tanto los eventos de prueba, como los eventos deportivos de los Juegos Centroamericanos y del Caribe Veracruz 2014.
+
+Corresponde a la Subdirección Técnica y Deportiva:
+
+I. La operación técnica y montaje de las instalaciones deportivas;
+
+II. La definición de todos los aspectos técnicos deportivos, jueces, equipamiento y material deportivo, competencia, políticas deportivas, programa deportivo y requerimientos técnicos provenientes de la Organización Deportiva Centroamericana y del Caribe, así como de otros organismos nacionales o internacionales en materia del deporte, en su caso;
+
+III. La organización de eventos deportivos así como las gestiones técnicas deportivas para llevar a cabo congresos técnicos, asambleas y reuniones técnicas, en coordinación con la Organización Deportiva Centroamericana y del Caribe;
+
+IV. La gestión, supervisión, control, concentración y distribución del material de equipamiento deportivo necesario para entrenamiento y competencia de los participantes en la justa deportiva;
+
+V. La elaboración y validación de los programas de entrenamiento y competencia, supervisión de las disciplinas deportivas, y la dirección y control de los voluntarios técnicos participantes;
+
+VI. El seguimiento a la clasificación y la validación de la información de los atletas participantes, así como la operación del proceso de inscripción deportiva;
+
+VII. La operación de servicios técnicos, atención a organismos deportivos tanto nacionales como internacionales, jueces y oficiales, así como la regulación de las funciones de los delegados técnicos de las diferentes organizaciones deportivas;
+
+VIII. La elaboración, seguimiento y publicación de la información deportiva;
+
+IX. Recabar los datos para la acreditación de los atletas, jueces y oficiales, tanto nacionales como internacionales;
+
+X. Las actividades relacionadas con la producción deportiva, tanto la operación y logística de premiaciones, como la organización de las actividades de entretenimiento y animación durante las competencias; y
+
+XI. Las demás funciones necesarias para el desarrollo de los Juegos Deportivos Centroamericanos y del Caribe que deriven de lineamientos, normas o los Estatutos de la ODECABE u organismos deportivos nacionales, se determinen por el Consejo Directivo o se establezcan en el Manual de Organización y Procedimientos del Comité Organizador.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO SÉPTIMO. De la Subdirección de Servicios a los Juegos
+
+> <small>(REFORMADO, G.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 26.
+
+La Subdirección de Servicios a los Juegos tiene a su cargo proveer de todos los servicios a deportistas, jueces, entrenadores, miembros de los Comités Olímpicos y organismos deportivos, voluntarios y público en general.
+
+Para el cumplimiento de sus atribuciones, la Subdirección tendrá las siguientes funciones:
+
+I. Asegurar la correcta atención y orientación a los espectadores nacionales e internacionales durante la realización de la justa deportiva, a través de la supervisión y control del acceso a estadios, acomodo de espectadores e implementación de módulos de información;
+
+II. La provisión de los uniformes al personal de staff, voluntarios y jueces que colaborarán durante los Juegos Deportivos;
+
+III. Implementar las estrategias y procesos necesarios para la selección y participación de los voluntarios durante el evento deportivo;
+
+IV. Organizar, supervisar y ejecutar las acciones que permitan la operación eficiente de las villas deportivas y/o del alojamiento en general;
+
+V. Coordinar la provisión de alimentos, gestionar y administrar el servicio de catering en las instalaciones y áreas que así lo requieran, así como el de abastecimiento de hidratación de los participantes;
+
+VI. Establecer y supervisar las estrategias, medidas y planes de sanidad e higiene, así como los programas de nutrición y control de comedores para participantes;
+
+VII. Coadyuvar y coordinar en conjunto con las instancias de seguridad y protección civil municipal, estatal y federal, las estrategias para garantizar la integridad y seguridad de los participantes y asistentes a la justa deportiva;
+
+VIII. Todas aquellas actividades que le asigne el Director General y que se deriven de este Reglamento.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO OCTAVO. De la Subdirección de Operaciones
+
+> <small>(REFORMADO, G.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 27.
+
+Corresponde a la Subdirección de Operaciones la implementación y control de los servicios de logística, protocolo, hospedaje, transportación, eventos especiales y atención a los Comités Olímpicos Nacionales.
+
+Para el desempeño de la Subdirección de Operaciones, tendrá a su cargo las siguientes atribuciones:
+
+I. Establecer las estrategias, políticas y líneas de acción así como la planeación de la logística, antes y durante de la celebración de los Juegos;
+
+II. Garantizar el cumplimiento de las formalidades y el protocolo que deben guardarse durante los eventos deportivos y oficiales, así como brindar los servicios de traducción e interpretación durante la organización y desarrollo de los Juegos;
+
+III. Gestionar y coordinar las actividades de hospitalidad, incluyendo el servicio de alojamiento de los Comités Olímpicos Nacionales, directivos e invitados especiales, en las reuniones previas y durante los Juegos, así como la atención y logística dentro de aeropuertos;
+
+IV. Organizar y supervisar todas las ceremonias, congresos y asambleas preparativas que lleve a cabo el Comité Organizador, previas al evento deportivo;
+
+V. La organización de las ceremonias de inauguración y clausura de los Juegos así como eventos especiales y culturales relacionados con ellos;
+
+VI. Coordinar y establecer las actividades de los Comités Olímpicos Nacionales, así como el control y supervisión del centro operativo de trabajo destinado a la atención de los mismos;
+
+VII. Recabar los datos para la acreditación de las delegaciones de directivos, invitados especiales y de los diferentes órdenes de gobierno, tanto nacionales como internacionales;
+
+VIII. Implementar la logística de transporte para todos los participantes de la justa deportiva;
+
+IX. Las demás que le confiera el presente Reglamento, las disposiciones legales aplicables o el Director General, en la esfera de sus atribuciones.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO NOVENO. De la Subdirección Comercial y Mercadotecnia
+
+> <small>(REFORMADO, G.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 28.
+
+La Subdirección Comercial y de Mercadotecnia es responsable de los servicios de promoción y comercialización de los Juegos.
+
+Para el cumplimiento de sus funciones tendrá a su cargo:
+
+I. La comercialización de los Juegos a través de patrocinios, licencias, tiendas oficiales y boletos de acceso a eventos deportivos;
+
+II. La coordinación de los servicios de Rate Card, mediante el proceso de venta y/o renta de productos y servicios otorgados a los Comités Olímpicos Nacionales.
+
+III. La gestión para la comercialización de alimentos y bebidas en las instalaciones deportivas;
+
+IV. La producción de televisión;
+
+V. El diseño gráfico de la imagen de los Juegos, así como el vestido y señalización de instalaciones operativas y deportivas;
+
+VI. La planeación y ejecución de la promoción y difusión de los Juegos, así como la implementación de estrategias publicitarias, y el manejo de web y redes sociales;
+
+VII. Las actividades dirigidas a la protección de marcas e imagen de los Juegos;
+
+VIII. La planeación y realización del recorrido de antorcha;
+
+IX. Las demás actividades que le asigne el Director General y que se deriven de este Reglamento.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO DÉCIMO. De la Subdirección de Tecnología de los Juegos
+
+> <small>(REFORMADO, G.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 29.
+
+La Subdirección de Tecnología de los Juegos es la responsable de diseñar y operar los recursos tecnológicos necesarios para el desarrollo de los Juegos Deportivos Centroamericanos y del Caribe Veracruz 2014.
+
+Para el cumplimiento de sus atribuciones, corresponde a la Subdirección de Tecnología de los Juegos:
+
+I. Organizar, controlar, promover y evaluar el desarrollo y operación de los sistemas informáticos que el Comité Organizador requiera;
+
+II. Supervisar la implantación, mantenimiento y disponibilidad de la infraestructura tecnológica necesaria, para el funcionamiento del Comité y el desarrollo de los Juegos;
+
+III. Coordinar la gestión de los tipos de comunicación imprescindible y el conjunto sistemático de vías de comunicación o servicios, abasteciendo la (sic) necesidades derivadas de la operación del Comité Organizador;
+
+IV. Coordinar el proceso de diseño, recopilación de datos, validación y entrega de acreditaciones;
+
+V. Las demás que le confiera el Director General.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO DÉCIMO PRIMERO. De la Subdirección de Servicio Médico y Control de Dopaje
+
+> <small>(REFORMADO, G.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 30.
+
+La Subdirección de Servicios Médicos y Control de Dopaje es responsable de garantizar la atención médica de manera eficiente y oportuna de los participantes y público en general durante el evento deportivo, así como asegurar el control del dopaje de las delegaciones deportivas participantes.
+
+Para el cumplimiento de sus atribuciones, tendrá a cargo:
+
+I. Planificar y organizar el XXII Congreso Centroamericano y del Caribe de Medicina del Deporte;
+
+II. Gestionar ante las instituciones Federales, Estatales y Municipales el apoyo médico y hospitalario necesario durante la justa deportiva;
+
+III. Coordinar y vigilar la instalación y funcionamiento de las clínicas que estarán ubicadas dentro de las villas deportivas;
+
+IV. Planificar, coordinar y vigilar el control de dopaje, así como la publicación de los resultados;
+
+V. Supervisar el manejo adecuado de los residuos biológicos que las clínicas generen como resultado de su actividad;
+
+VI. Las demás que le confiera el presente Reglamento, las disposiciones legales aplicables o el Director General, en la esfera de sus atribuciones.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO DÉCIMO SEGUNDO. De la Subdirección de Administración
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 25], G.O. 6 DE NOVIEMBRE DE 2014)
+
+###### Artículo 31.
+
 El Subdirector de Administración será responsable de la presupuestación, programación y ejercicio del presupuesto a cargo del Comité Organizador, así como de la administración, coordinación y supervisión de los recursos financieros, humanos y materiales, en los términos de las disposiciones aplicables.
 
-Además de las facultades que le confiere el Código Financiero para el Estado a los titulares de las Unidades Administrativas, el Subdirector tendrá las siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+Además de las facultades que les confiere el Código Financiero para el Estado a los titulares de las Unidades Administrativas, el Subdirector tendrá las siguientes:
 
 I. Supervisar la aplicación y rendimiento eficiente de los recursos financieros, humanos y materiales con que cuenta el Comité Organizador;
 
@@ -425,7 +635,9 @@ XII. Integrar y remitir a la Secretaría de Finanzas y Planeación del Gobierno 
 
 XIII. Autorizar los pagos de las adquisiciones, arrendamientos y prestación de servicios profesionales en términos de las normas aplicables;
 
-XIV. Celebrar y firmar contratos de adquisiciones, prestación de servicios y de arrendamientos de bienes muebles e inmuebles, ajustándose en todo momento a la Legislación aplicable;
+> <small>(REFORMADA, G.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XIV. Celebrar y firmar contratos de adquisiciones, mercantiles, civiles, prestación de servicios y de arrendamientos de bienes muebles e inmuebles, ajustándose en todo momento a la Legislación aplicable;
 
 XV. Proponer al Director General los métodos y las técnicas necesarios para revisar y mejorar los mecanismos de control administrativos internos;
 
@@ -433,13 +645,29 @@ XVI. Coordinar la elaboración de los proyectos de manuales de organización y p
 
 XVII. Coadyuvar en la solución de los conflictos laborales que se susciten en el Organismo;
 
-XVIII. Representar al Comité Organizador ante la Secretaría de Hacienda y Crédito Público y el Servicio de Administración Tributaria, para la realización de trámites administrativos y fiscales, así como para solicitar y obtener de estas autoridades la firma electrónica avanzada; y
+> <small>(REFORMADA, G.O. 6 DE NOVIEMBRE DE 2014)</small>
 
-XIX. Las demás que expresamente le atribuyan las leyes del Estado, este Reglamento y demás disposiciones aplicables.
+XVIII. Representar al Comité Organizador ante la Secretaría de Hacienda y Crédito Público y el Servicio de Administración Tributaria, para la realización de trámites administrativos y fiscales, así como para solicitar y obtener de estas autoridades la firma electrónica avanzada;
 
-### CAPÍTULO SÉPTIMO. De la Subdirección Jurídica
+> <small>(REFORMADA, G.O. 6 DE NOVIEMBRE DE 2014)</small>
 
-###### Artículo 26.
+XIX. Representar al Comité Organizador ante las instituciones bancarias para realizar trámites de apertura, manejo y cancelación de cuentas, y en general cualquier trámite bancario;
+
+> <small>(ADICIONADA, G.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XX. Controlar y supervisar el uso, conservación y mantenimiento adecuado de las instalaciones, vehículos y demás insumos a cargo del Comité Organizador; y
+
+> <small>(ADICIONADA, G.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+XXI. Las demás que expresamente le atribuyan las leyes del Estado, este Reglamento y demás disposiciones aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO DÉCIMO TERCERO. De la Subdirección Jurídica
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 26], G.O. 6 DE NOVIEMBRE DE 2014)
+
+###### Artículo 32.
 
 Son atribuciones del Subdirector Jurídico, las siguientes:
 
@@ -447,7 +675,7 @@ I. Brindar asesoría jurídica al Director General y a las diversas áreas o Uni
 
 II. Representar legalmente al Organismo en los términos de los poderes que se le otorguen;
 
-III. Asesorar jurídicamente en la elaboración de circulares, resoluciones, contratos, convenios, bases de coordinación y acuerdos que sean competencia al Organismo;
+III. Asesorar jurídicamente en la elaboración de circulares, resoluciones, contratos, convenios, bases de coordinación y acuerdos que sean competencia al (sic) Organismo;
 
 IV. Intervenir como representante legal o apoderado del Organismo, previo acuerdo del Director General, ante las diversas autoridades administrativas o judiciales y comparecer ante todo tipo de autoridades Federales, Estatales y Municipales, en los asuntos en que sea parte, con las más amplias facultades que las leyes civiles, laborales o administrativas requieran al efecto;
 
@@ -469,59 +697,13 @@ XII. Coadyuvar con el Secretario Técnico del Consejo Directivo en la elaboraci�
 
 XIII. Las demás que le confiera el presente Reglamento, las disposiciones legales aplicables o el Director General, en la esfera de sus atribuciones.
 
-### CAPÍTULO OCTAVO. De la Subdirección Técnica y Deportiva
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 6 DE NOVIEMBRE DE 2014)</small>
 
-###### Artículo 27.
+### CAPÍTULO DÉCIMO CUARTO. De la Oficina de Enlace de Comunicación Social
 
-La Subdirección Técnica y Deportiva es la responsable de la organización de los eventos deportivos, tanto los eventos de prueba, como los eventos deportivos de los Juegos Centroamericanos, Paracentroamericanos y del Caribe Veracruz 2014.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 31], G.O. 6 DE NOVIEMBRE DE 2014)
 
-Corresponde a la Subdirección Técnica y Deportiva:
-
-I. La organización de eventos deportivos, así como la operación y logística de los eventos, alimentación, hospedaje, transportación, acreditación, seguridad en las instalaciones y control de accesos, la aplicación de pruebas antidoping y el otorgamiento de servicios médicos;
-
-II. La definición de todos los aspectos técnicos deportivos, jueces, equipamiento y material deportivo, competencia, políticas deportivas, programa deportivo y requerimientos técnicos provenientes de la Organización Deportiva Centroamericana y del Caribe, así como de otros organismos nacionales o internacionales en materia del Deporte, en su caso;
-
-III. La organización de congresos técnicos, reuniones de jefes de misión, congresos de Medicina del Deporte, asambleas y reuniones, en coordinación con la Organización Deportiva Centroamericana y del Caribe;
-
-IV. Apoyar técnicamente los servicios de procesamiento de datos; y
-
-V. Las demás funciones necesarias para el desarrollo de los Juegos Deportivos Centroamericanos y del Caribe que deriven de lineamientos, normas o los Estatutos de la ODECABE u organismos deportivos nacionales, se determinen por el Consejo Directivo o se establezcan en el Manual de Organización y Procedimientos del Comité Organizador.
-
-### CAPÍTULO NOVENO. De la Subdirección de Relaciones Públicas
-
-###### Artículo 28.
-
-Corresponde a la Subdirección de Relaciones Públicas la implementación y control de los servicios de logística, protocolo, hospedaje, alimentación, transportación y acreditación de delegaciones de directivos y representantes de organismos deportivos, medios de comunicación, invitados especiales y público en general.
-
-La Subdirección coordinará la organización de las ceremonias de inauguración y clausura de los Juegos así como eventos especiales y culturales relacionados con ellos. Asimismo, será responsable de garantizar el cumplimiento de las formalidades y el protocolo que deben guardarse durante los eventos deportivos y oficiales.
-
-### CAPÍTULO DÉCIMO. De la Subdirección Comercial y Mercadotecnia
-
-###### Artículo 29.
-
-La Subdirección Comercial y Mercadotecnia es responsable de los servicios de promoción y comercialización de los Juegos.
-
-Para el cumplimiento de sus funciones tendrá a su cargo:
-
-I. La comercialización de los juegos a través de patrocinios, licencias y boletos de acceso a eventos deportivos;
-
-II. La producción de televisión;
-
-III. El diseño de la imagen de los juegos;
-
-IV. El diseño y mantenimiento de la pagina web del Comité Organizador de los Juegos Deportivos Centroamericanos, Paracentroamericanos y del Caribe Veracruz 2014.
-
-### CAPÍTULO DÉCIMO PRIMERO. De la Subdirección de Servicios a los Juegos
-
-###### Artículo 30.
-
-La Subdirección de Servicios a los Juegos tiene a su cargo proveer de todos los servicios a deportistas, jueces, entrenadores, miembros de los Comités Olímpicos y organismos deportivos, voluntarios y público en general.
-
-Para el cumplimiento de sus atribuciones, la Subdirección tendrá, entre otras, las funciones de coordinación, vigilancia, organización, dirección, control y supervisión de las actividades relativas al programa de voluntarios, alimentación, operación de villas para atletas, hidratación, transporte, logística y seguridad, a través de los departamentos u oficinas a su cargo, así como las que le asigne el Director General.
-
-### CAPÍTULO DÉCIMO SEGUNDO. De la Oficina de Enlace de Comunicación Social
-
-###### Artículo 31.
+###### Artículo 33.
 
 La Oficina de Enlace de Comunicación Social es responsable de la coordinación de la difusión informativa y publicitaria de las actividades del Comité Organizador a través de los diversos medios de comunicación.
 
@@ -533,47 +715,71 @@ II. La atención a medios de comunicación nacionales e internacionales que cubr
 
 III. Planear y orientar las actividades de difusión informativa y comunicación social del Comité Organizador;
 
-IV. Registrar, analizar y sistematizar la información remitida en los medios de comunicación referente a los Juegos Deportivos Centroamericanos, Paracentroamericanos y del Caribe, así como de acontecimientos relacionados con el evento;
+> <small>(REFORMADA, G.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+IV. Registrar, analizar y sistematizar la información remitida en los medios de comunicación referente a los Juegos Deportivos Centroamericanos y del Caribe, así como de acontecimientos relacionados con el evento;
 
 V. Mantener actualizado un banco hemerográfico, la fototeca, la videoteca, las grabaciones radiofónicas y producciones sobre las actividades del Comité Organizador, que servirá de base para la elaboración de la Memoria de los Juegos;
 
-VI. Participar en la planeación, diseño, producción y evaluación de las campañas de publicidad;
+> <small>(REFORMADA, G.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+VI. Participar en la planeación, diseño, producción y evaluación de las campañas de publicidad en coordinación con la Subdirección Comercial y de Mercadotecnia;
 
 VII. Proveer a los medios de comunicación de la información que emita el Consejo Directivo o el Director General, y generar los instrumentos, tiempos y espacios pertinentes para su difusión;
 
 VIII. Fungir como vínculo y enlace con las áreas de comunicación de la ODECABE y demás organismos nacionales e internacionales del Deporte;
 
-IX. Proponer convenios, acuerdos o programas de promoción y desarrollo comunicacional.
+> <small>(REFORMADA, G.O. 6 DE NOVIEMBRE DE 2014)</small>
 
-### CAPÍTULO DÉCIMO TERCERO. Del Órgano Interno de Control
+IX. Proponer convenios, acuerdos o programas de promoción y desarrollo comunicacional en coordinación con la Subdirección Comercial y de Mercadotecnia.
 
-###### Artículo 32.
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO DÉCIMO QUINTO. Del Órgano Interno de Control
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 32], G.O. 6 DE NOVIEMBRE DE 2014)
+
+###### Artículo 34.
 
 El Órgano Interno de Control se establecerá en términos de lo dispuesto por el Capítulo XII del Reglamento Interior de la Contraloría General del Estado y será un área de asesoría en el desarrollo de los procesos de auditoría interna, control y evaluación de la gestión pública, atención y trámite de quejas y denuncias interpuestas contra servidores públicos, así como para la organización y coordinación del desarrollo administrativo integral.
 
 Los titulares de las áreas administrativas del Comité Organizador deberán proporcionar toda la información que se requiera y brindar las facilidades necesarias para el cumplimiento de sus funciones.
 
-### CAPÍTULO DÉCIMO CUARTO. De la Suplencia de los Funcionarios
+> <small>(ADICIONADO, G.O. 6 DE NOVIEMBRE DE 2014)</small>
 
-###### Artículo 33.
+### CAPÍTULO DÉCIMO SEXTO. De la Suplencia de los Funcionarios
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 33], G.O. 6 DE NOVIEMBRE DE 2014)
+
+###### Artículo 35.
 
 El Director General, en sus ausencias temporales que no excedan de 30 días, será suplido por el Coordinador General de la Consultoría de Estrategias Deportivas y Vinculación Institucional. Cuando sean por un período superior o definitivo, será suplido por el servidor público que designe el Presidente del Consejo Directivo.
 
-### CAPÍTULO DÉCIMO QUINTO. De las Reformas y Adiciones al Reglamento
+(REUBICADO [N. DE E. ANTES ARTÍCULO 34], G.O. 6 DE NOVIEMBRE DE 2014)
 
-###### Artículo 34.
+###### Artículo 36.
 
 Los Subdirectores y titulares de otras áreas administrativas del Comité Organizador, así como sus subalternos, en sus ausencias temporales, serán suplidos por el servidor público que designe el Director General.
 
-###### Artículo 35.
+> <small>(ADICIONADO, G.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO DÉCIMO SÉPTIMO. De las Reformas y Adiciones al Reglamento
+
+> <small>(ADICIONADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 35], G.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 37.
 
 El Consejo Directivo podrá modificar el presente Reglamento, para lo cual se requerirá del voto aprobatorio de la mayoría de los integrantes presentes en sesión ordinaria o extraordinaria.
 
 Aprobadas que fueren las disposiciones de que se trate, serán publicadas en la Gaceta Oficial del estado.
 
-###### Artículo 36.
+> <small>(ADICIONADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 36], G.O. 6 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 38.
 
 En caso de duda sobre alguna disposición del presente Reglamento, corresponde al Consejo Directivo hacer la interpretación respectiva.
+
+El presente Acuerdo fue aprobado en Sesión Ordinaria del Consejo Directivo del Comité Organizador de los Juegos Deportivos Centroamericanos, Paracentroamericanos y del Caribe Veracruz 2014, en la ciudad de Xalapa-Enríquez, Veracruz, a los veinticinco días del mes de agosto de 2014.
 
 T R A N S I T O R I O S
 
@@ -638,3 +844,7 @@ Rúbrica.
 G.O. 19 DE JUNIO DE 2013.
 
 > <small>N. DE E. EL DECRETO DE LA LEY CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2° DEL CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ.</small>
+
+G.O. 6 DE NOVIEMBRE DE 2014.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2 DEL CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ VIGENTE.
