@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-presupuesto-y-ejercicio-del-gasto-publico-del-estado-770
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-22"
-last_updated: "2014-08-01"
+last_updated: "2014-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 22 de octubre de 2010.
 
@@ -478,6 +478,14 @@ Las proposiciones que hagan los miembros del Congreso del Estado para modificar 
 ###### ARTÍCULO 37.
 
 A toda proposición de aumento de recursos a partidas presupuestales o a la creación de partidas en los Proyectos de Presupuestos de Egresos, deberán agregarse las correspondientes iniciativas de ingresos, si con tal proposición se altera el equilibrio presupuestal. En los casos de transferencia de recursos entre partidas presupuestales o de supresión de partidas y de los recursos presupuestales asignados, deberá acompañarse de los programas de nueva creación, de los suprimidos, o los que hayan sido afectados.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2014)</small>
+
+En el cumplimiento de lo dispuesto en este artículo, el Poder Ejecutivo del Estado tomará en cuenta el carácter prioritario de la inversión pública para los fines del desarrollo estatal.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2014)</small>
+
+En todo tiempo procurará fortalecer las fuentes de financiamiento a dicha tarea y destinar recursos presupuestarios crecientes, en términos reales, para la inversión pública. Para dar cabal cumplimiento a esta disposición, el Presupuesto del Poder Ejecutivo contemplará un incremento progresivo cada año.
 
 ###### ARTÍCULO 38.
 
@@ -963,7 +971,7 @@ b. La Conciliación de la disponibilidad en caja, bancos e inversiones al inicio
 
 c. El Catálogo de Cuentas Contable y de partidas presupuestales;
 
-d. El archivo de la balanza de comprobación de cierre del ejercicio; y, (sic)
+d. El archivo de la balanza de comprobación de cierre del ejercicio; y,
 
 e. El archivo de pólizas contables; y,
 
@@ -1298,3 +1306,7 @@ P.O. 1 DE AGOSTO DE 2014.
 PRIMERO.- Por única ocasión se les concede a todos los sujetos obligados que hubiesen iniciado administración en el ejercicio fiscal 2013, un plazo de 45 días para cumplir con la obligación a que se refiere el último párrafo del artículo 39 de la Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California.
 
 SEGUNDO.- La Presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 7 DE NOVIEMBRE DE 2014.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
