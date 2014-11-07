@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-nacional-para-la-75705"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-07-16"
-last_updated: "2014-06-02"
+last_updated: "2014-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75705&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,581 +19,1373 @@ issue_date: "2010-06-29"
 ---
 # ESTATUTO ORGANICO DE LA COMISION NACIONAL PARA LA PROTECCION Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL PARA LA PROTECCIÓN Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS
 
-LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, DEL ESTADO DE TABASCO
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE NOVIEMBRE DE 2014.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2023.
+Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 16 de julio de 2010.
 
-Ley publicada en el Suplemento Q del Periódico Oficial del Estado de Tabasco, el sábado 29 de diciembre de 2012.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Hacienda y Crédito Público.- Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros.
 
-QUÍM. ANDRÉS RAFAEL GRANIER MELO, GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE TABASCO, CON FUNDAMENTO EN LO DISPUESTO POR EL ARTÍCULO 51 FRACCIÓN I, DE LA CONSTITUCIÓN POLÍTICA LOCAL; A SUS HABITANTES SABED:
+ESTATUTO ORGANICO DE LA COMISION NACIONAL PARA LA PROTECCION Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS.
 
-Que el H. Congreso del Estado, se ha servido dirigirme lo siguiente:
+LUIS ALBERTO PAZOS DE LA TORRE, Presidente de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, con fundamento en lo dispuesto por los artículos 16, 26, fracciones I y II, y 28 de la Ley de Protección y Defensa al Usuario de Servicios Financieros 58, fracción VIII y 59, fracciones I y XII, de la Ley Federal de las Entidades Paraestatales, y
 
-LA SEXAGÉSIMA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO, EN EJERCICIO DE LAS FACULTADES CONFERIDAS POR EL ARTÍCULO 36, FRACCIÓN I, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TABASCO, Y CON BASE EN LO SIGUIENTE:
+CONSIDERANDO
 
-ANTECEDENTES
+I.- Que, con fecha 18 de enero de 1999, se publicó en el Diario Oficial de la Federación la Ley de Protección y Defensa al Usuario de Servicios Financieros, que encomienda a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, organismo público descentralizado con personalidad jurídica y patrimonio propios, la protección y defensa de los derechos e intereses de los Usuarios de servicios financieros;
 
-[...]
+II.- Que, con fechas 22 de febrero de 2002; 22 de diciembre de 2005 y 4 de octubre de 2007, se publicaron en el Diario Oficial de la Federación, los Estatutos Orgánicos que, en su momento, rigieron a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros;
 
-OCTAVO.- Por las anteriores consideraciones y tomando en cuenta que el Honorable Congreso del Estado, está facultado para expedir, reformar, adicionar, derogar y abrogar Leyes y Decretos para la mejor Administración del Estado, planeando su desarrollo económico y social, de conformidad con lo establecido en el artículo 36, fracción I, de la Constitución Política del Estado Libre y Soberano de Tabasco, ha tenido a bien emitir el siguiente:
+III.- Que, el 25 de junio de 2009, se publicó en el Diario Oficial de la Federación el "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Instituciones de Crédito, la Ley para la Transparencia y Ordenamiento de los Servicios Financieros y la Ley de Protección y Defensa al Usuario de Servicios Financieros";
 
-DECRETO 262
+IV.- Que, en virtud de las reformas señaladas en el considerando anterior, se hace necesario contar con una nueva estructura orgánica para la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, que le permita dar cumplimiento a sus nuevas atribuciones;
 
-###### ARTÍCULO ÚNICO.
+V.- Que, mediante acuerdo CONDUSEF/JG/65/08 del 26 de mayo de 2010, la Junta de Gobierno de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros aprobó el Estatuto Orgánico de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros.
 
-Se expide la Ley para la Prevención y Gestión Integral de los Residuos, del Estado de Tabasco, para quedar como sigue;
+En cumplimiento al acuerdo referido en el punto V de los presentes considerandos, se ordena la publicación en el Diario Oficial de la Federación del:
 
-LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, DEL ESTADO DE TABASCO
+ESTATUTO ORGANICO DE LA COMISION NACIONAL PARA LA PROTECCION Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS
 
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+## TITULO PRIMERO. DE LA ORGANIZACION
 
-### CAPÍTULO ÚNICO. DEL OBJETO Y ÁMBITO DE APLICACIÓN DE LA LEY
+### CAPITULO I. GENERALIDADES
 
-###### ARTÍCULO 1.
+###### Artículo 1.
 
-Las disposiciones contenidas en la presente Ley son de orden público, interés social y obligatorias en todo el territorio del Estado de Tabasco y tienen por objeto propiciar el desarrollo sustentable a través de la prevención de la generación, la valorización, la gestión y el manejo integral de los residuos de manejo especial y sólidos urbanos, así como de la prevención de la contaminación de sitios por residuos y su remediación.
+La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, como organismo público descentralizado de la Administración Pública Federal, tendrá autonomía técnica y jurídica para dictar sus resoluciones y laudos, facultades de autoridad para imponer las sanciones correspondientes, así como las atribuciones y obligaciones que le confiere la Ley de Protección y Defensa al Usuario de Servicios Financieros y las demás leyes, reglamentos y disposiciones aplicables que hagan referencia a la Comisión Nacional.
 
-###### ARTÍCULO 2.
+###### Artículo 2.
 
-Para los efectos de la presente Ley se entiende por:
+Además de las definiciones que establece el artículo 2 de la Ley de Protección y Defensa al Usuario de Servicios Financieros, para los efectos del presente Estatuto Orgánico se entenderá por:
 
-I. Acopio: La acción de reunir residuos de una o diferentes fuentes para su manejo;
+I. Ley, a la Ley de Protección y Defensa al Usuario de Servicios Financieros;
 
-II. Almacenamiento: Retención temporal de los residuos en áreas adecuadas para prevenir daños al ambiente, los recursos naturales y la salud de la población, cumpliendo con las condiciones establecidas en las disposiciones legales aplicables, en tanto se procesan para su aprovechamiento, se les aplica un tratamiento, se transportan o se disponen finalmente;
+II. Delegación, en singular o plural, a la Unidad Administrativa desconcentrada de la Comisión Nacional.
 
-III. Aprovechamiento de los residuos: Conjunto de acciones cuyo objetivo es recuperar el valor económico de los residuos mediante su reutilización, remanufactura, rediseño, reciclado y recuperación de materiales y de energía;
+### CAPITULO II. DE LA ESTRUCTURA ORGANICA
 
-IV. Cédula de operación anual: Instrumento de reporte y recopilación de información de emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, materiales y residuos de manejo especial empleado para la actualización de la base de datos del Registro Estatal de Emisiones y Transferencia de Contaminantes;
+###### Artículo 3.
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2019)</small>
+Para el despacho de los asuntos de su competencia, la Comisión Nacional contará con los siguientes órganos y unidades administrativas:
 
-V. Centro de acopio: Instalación autorizada por la Secretaría de Bienestar, Sustentabilidad y Cambio Climático para la prestación de servicios a terceros en donde se reciben, reúnen, trasvasan y acumulan temporalmente residuos de manejo especial para después ser enviados a instalaciones autorizadas para su tratamiento, reciclaje, reutilización, co-procesamiento o disposición final;
+I. Junta de Gobierno
 
-VI. Composteo: Proceso de descomposición de la materia orgánica mediante la acción de microorganismos;
+a) Secretaría de la Junta, y
 
-VII. Co-procesamiento: Integración ambientalmente segura de los residuos generados por una industria o fuente conocida, como insumo a otro proceso productivo;
+b) Prosecretaría de la Junta.
 
-VIII. Contenedor: Recipiente destinado al depósito adecuado y de forma temporal de residuos;
+II. Presidencia
 
-IX. Disposición final: La acción de depositar o confinar permanentemente residuos en sitios e instalaciones cuyas características permitan prevenir su liberación al ambiente y las consecuentes afectaciones a la salud de la población, a los ecosistemas y sus elementos;
+a) Secretaría Técnica.
 
-X. Estaciones de transferencia: Las instalaciones para el trasbordo de los residuos de los vehículos de recolección a los vehículos de transferencia;
+III. Vicepresidencias
 
-XI. Generación: Acción de producir residuos a través del desarrollo de procesos productivos o de consumo;
+a) Técnica;
 
-XII. Generador: Persona física o jurídica colectiva que produce residuos derivados del desarrollo de procesos productivos o de consumo;
+b) Jurídica;
 
-XIII. Gestión Integral de Residuos: Conjunto articulado e interrelacionado de acciones normativas, operativas, financieras, de planeación, administrativas, sociales, educativas, de monitoreo, supervisión y evaluación para el manejo de residuos, desde su generación hasta la disposición final, a fin de proteger el ambiente, la optimización de su manejo, aprovechamiento y su aceptación social, respondiendo a las necesidades y circunstancias de cada localidad o región;
+c) De Delegaciones, y
 
-XIV. Gran Generador: Persona física o jurídica colectiva que genere una cantidad igual o superior a 10 toneladas en peso bruto total de residuos al año o su equivalente en otra unidad de medida;
+d) De Planeación y Administración.
 
-XV. Instalaciones: Aquéllas en donde se desarrolla el proceso generador de residuos de manejo especial y sólidos urbanos o donde se realizan las actividades de manejo de este tipo de residuos. Se incluye a los predios que pertenecen al generador de residuos o aquéllos sobre los cuales tiene una posesión derivada y que tengan relación directa con su actividad;
+IV. Direcciones Generales
 
-XVI. Inventario de Residuos: Base de datos en la cual se asientan con orden y clasificación los volúmenes de generación de los diferentes residuos que se integran, a partir de la información proporcionada por los generadores en los formatos establecidos para tal fin, de conformidad con lo dispuesto en este ordenamiento;
+a) De Desarrollo Financiero, Estadístico y Operativo;
 
-XVII. Ley: Ley para la Prevención y Gestión Integral de los Residuos, del Estado de Tabasco;
+b) De Educación Financiera;
 
-XVIII. Ley General: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+c) De Evaluación y Vigilancia;
 
-XIX. LGPGIR: La Ley General para la Prevención y Gestión Integral de los Residuos;
+d) De Dictaminación y Supervisión;
 
-XX. LPAET: La Ley de Protección Ambiental del Estado de Tabasco;
+e) De Defensoría, Interventoría y Consultiva;
 
-XXI. Liberación al ambiente de residuos: Acción de descargar, depositar, derramar, emitir, vaciar, arrojar, colocar, rociar, abandonar, escurrir, gotear, escapar, enterrar, tirar o verter residuos en los elementos naturales;
+f) De Servicios Legales;
 
-XXII. Manejo Integral: Las actividades de reducción en la fuente, separación, reutilización, reciclaje, coprocesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, transporte y disposición final de residuos, individualmente realizadas o combinadas de manera apropiada, para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social;
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
 
-XXIII. Manifiesto: Documento en el cual se registran las actividades de manejo de residuos de manejo especial que deben elaborar y conservar los generadores y en su caso los prestadores de servicio de dichos residuos, el cual se debe utilizar como base para la elaboración de la cédula de operación anual;
+f) Bis De Arbitraje y Sanciones;
 
-XXIV. Material: Sustancia, compuesto o mezcla de ellos, que se usa como insumo y es un componente de productos de consumo, de envases, empaques, embalajes y de los residuos que éstos generan;
+g) De Delegaciones Centro-Occidente;
 
-XXV. Minimización: Conjunto de medidas tendientes a reducir la generación de los residuos;
+h) De Delegaciones Norte-Sur;
 
-XXVI. Microgenerador: Persona física o jurídica colectiva que realiza actividades industriales, comerciales o de servicios que generen una cantidad de hasta cuatrocientos kilogramos de residuos al año o su equivalente en otra unidad de medida;
+i) De Bienes y Servicios;
 
-XXVII. Pequeño Generador: Persona física o jurídica colectiva que realiza actividades industriales, comerciales o de servicios que genere una cantidad mayor a cuatrocientos kilogramos y menor a diez toneladas de residuos al año o su equivalente en otra unidad de medida;
+j) De Personal y Organización, y
 
-XXVIII. Plan de manejo: Instrumento cuyo objetivo es minimizar la generación de residuos y maximizar la valorización de los mismos bajo criterios de eficiencia ambiental, tecnológica, económica y social, diseñado bajo los criterios de responsabilidad compartida y manejo integral, que considera el conjunto de acciones, procedimientos y medios viables, involucrando a productores, importadores, exportadores, distribuidores, comerciantes, consumidores, usuarios de subproductos y grandes generadores de residuos, según corresponda, así como a los tres órdenes de gobierno;
+k) De Planeación.
 
-XXIX. Prestadores de servicios: Persona física o jurídica colectiva autorizada en los términos de este ordenamiento, para realizar la prestación de los servicios del manejo individual o integral de los residuos;
+V. Direcciones
 
-XXX. Proceso productivo: Conjunto de actividades relacionadas con la extracción, beneficio, transformación, procesamiento y utilización de materiales para producir bienes y servicios;
+a) De Valuación y Desarrollo Financiero;
 
-XXXI. Producto: Bien que generan los procesos productivos a partir de la utilización de materiales primarios o secundarios. Para los fines de los planes de manejo, un producto envasado comprende sus ingredientes o componentes y su envase;
+b) De Desarrollo y Evaluación del Proceso Operativo;
 
-XXXII. Protocolo de pruebas: Programa sistemático de verificación aplicado para el control de la calidad de la tecnología y operación de un equipo o proceso, así como sus condiciones de seguridad y confiabilidad, validado por una organización o institución acreditada;
+c) De Información y Desarrollo Estadístico;
 
-XXXIII. Reciclaje: Transformación de los residuos a través de distintos procesos que permiten restituir su valor económico, evitando así su disposición final;
+d) De Análisis de Servicios y Productos Financieros;
 
-XXXIV. Recolección: Acción de recoger residuos para transportarlos o trasladarlos a otras áreas o instalaciones para su manejo integral;
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
 
-XXXV. Reducción: Acción de disminuir los residuos de los procesos o actividades industriales, comerciales, domesticas y de servicios;
+d) Bis Del Buró de Entidades Financieras;
 
-XXXVI. Reglamento: El Reglamento de la Ley para la Prevención y Gestión Integral de los Residuos, del Estado de Tabasco;
+e) De Comunicación Social;
 
-XXXVII. Remediación: Conjunto de medidas a las que se someten los sitios contaminados para eliminar o reducir los contaminantes hasta un nivel seguro para la salud y el ambiente o prevenir su dispersión en el ambiente sin modificarlos, de conformidad con lo que se establece en esta Ley;
+f) De Promoción y Desarrollo Educativo;
 
-XXXVIII. Residuo: Material o producto cuyo propietario o poseedor desecha y que se encuentra en estado sólido o semisólido, o es un líquido o gas contenido en recipientes o depósitos y que puede ser susceptible de ser valorizado o requiere sujetarse a tratamiento o disposición final, conforme a lo dispuesto en esta Ley y demás ordenamientos que de ella deriven;
+g) De Evaluación de Productos de Crédito y Captación;
 
-XXXIX. Residuos de manejo especial: Son aquellos generados en los procesos productivos, que no reúnen las características para ser considerados como peligrosos o como residuos sólidos urbanos. También se considerarán residuos de manejo especial los residuos sólidos urbanos producidos por grandes generadores;
+h) De Evaluación de Productos de Seguros, Fianzas y Ahorro;
 
-XL. Residuos sólidos urbanos: Son aquellos generados en las casas habitación o viviendas, que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques; los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por esta Ley como residuos de otra índole;
+i) De Vigilancia, Cumplimiento y Enlace con Autoridades;
 
-XLI. Responsabilidad Compartida: Principio mediante el cual se reconoce que los residuos sólidos urbanos y de manejo especial son generados a partir de la realización de actividades que satisfacen necesidades de la sociedad, mediante cadenas de valor tipo producción, proceso, envasado, distribución, consumo de productos, y que en consecuencia su manejo integral es una corresponsabilidad social y requiere la participación conjunta, coordinada y diferenciada de productores, distribuidores, consumidores, usuarios de subproductos y de los tres órdenes de gobierno según corresponda, bajo un esquema de factibilidad de mercado y eficiencia ambiental, tecnológica, económica y social;
+j) De Dictaminación;
 
-XLII. Reutilización: El empleo de residuos o materiales previamente usados, sin que medie un proceso de transformación;
+k) De Verificación, Control Normativo y Unidades Especializadas;
 
-XLIII. Riesgo: Probabilidad o posibilidad de que el manejo, la liberación al ambiente y la exposición a un material o residuo ocasionen efectos adversos en la salud humana, en los demás organismos vivos, en el agua, aire, suelo, en los ecosistemas o en los bienes y propiedades pertenecientes a los particulares;
+l) Consultiva;
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2019)</small>
+m) De Defensa a Usuarios;
 
-XLIV. Secretaría: Secretaría de Bienestar, Sustentabilidad y Cambio Climático;
+n) De Interventoría y Asuntos Penales;
 
-XLV. Sistema de Información Ambiental: Conjunto de bases de datos estadísticos, cartográficos, gráficos, documentales, informáticos, humanos, programas y procedimientos dedicados a recopilar, organizar y difundir la información acerca del ambiente y los recursos naturales del Estado;
+ñ) (DEROGADO, D.O.F. 7 DE NOVIEMBRE DE 2014)
 
-XLVI. Tratamiento: El procedimiento físico, químico, biológico o térmico, mediante el cual se cambian las características de los residuos de manejo especial y sólidos urbanos; y
+o) Contenciosa;
 
-XLVII. Valorización: Principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de responsabilidad compartida, manejo integral, eficiencia ambiental, tecnológica y económica.
+> <small>(REFORMADO, D.O.F. 18 DE OCTUBRE DE 2011)</small>
 
-### CAPÍTULO I. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
+p) De Disposiciones, Convenios, Contratos y Recursos de Revisión;
 
-###### ARTÍCULO 3.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
 
-Son objetivos de esta Ley:
+q) De Arbitraje y Sanciones a Entidades Financieras;
 
-I. Establecer las políticas públicas en materia de gestión y manejo integral de residuos en el Estado;
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
 
-II. Promover el establecimiento de medidas que prevengan el deterioro de los ecosistemas en el manejo y disposición final de residuos, reconociendo la responsabilidad compartida de todos los actores involucrados;
+q) Bis De Sanciones a Instituciones Financieras;
 
-III. Establecer las bases para la participación ciudadana en la reutilización y manejo de residuos;
+r) Enlace y Análisis Regional Centro-Occidente;
 
-IV. Involucrar a los generadores de residuos con el objeto de que se adopten medidas de prevención y manejo, para evitar riesgos a la salud o al ambiente;
+s) Enlace y Análisis Regional Norte-Sur;
 
-V. Garantizar el derecho a toda persona a un ambiente adecuado y propiciar el desarrollo sustentable, a través de la aplicación de principios de valorización, responsabilidad compartida y manejo integral de residuos, bajo criterios de eficiencia ambiental, tecnológica, económica y social, los cuales deben de considerarse en el diseño de instrumentos, programas y planes de política ambiental para la gestión de residuos;
+t) De Adquisiciones;
 
-VI. Regular la generación y manejo integral de los residuos de manejo especial y sólidos urbanos;
+u) De Gestión y Control Documental;
 
-VII. Fomentar la valorización de residuos, así como el desarrollo de mercados de subproductos, bajo criterios de eficiencia ambiental, tecnológica y económica, y esquemas de financiamiento adecuados;
+v) De Servicios Generales;
 
-VIII. Promover la participación corresponsable de todos los sectores sociales, en las acciones tendientes a prevenir la generación, valorización y lograr una gestión integral de los residuos ambientalmente adecuada, así como tecnológica, económica y socialmente viable, de conformidad con las disposiciones de esta Ley;
+w) De Administración de Personal;
 
-IX. Fortalecer el Sistema de Información Ambiental con datos relativos a la generación y manejo integral de los residuos de manejo especial y sólidos urbanos, así como de sitios contaminados y remediados;
+x) De Desarrollo de Personal;
 
-X. Fortalecer la investigación y desarrollo científico, así como la innovación tecnológica para reducir la generación de residuos y diseñar alternativas para su tratamiento, orientadas a procesos productivos más limpios;
+> <small>(REFORMADO, D.O.F. 18 DE OCTUBRE DE 2011)</small>
 
-XI. Establecer medidas de urgente aplicación o correctivas y de seguridad para garantizar el cumplimiento y la aplicación de esta Ley y las disposiciones que de ella se deriven, así como para la imposición de las sanciones que corresponda;
+y) De Organización y Selección de Personal;
 
-XII. Establecer mecanismos de coordinación entre el Estado y los Municipios;
+> <small>(REFORMADO, D.O.F. 18 DE OCTUBRE DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 20 DE MAYO DE 2023)</small>
+z) De Programación y Finanzas, y
 
-XIII. Promover el control y la prevención de la contaminación y remediación de áreas o sitios contaminados;
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 20 DE MAYO DE 2023)</small>
+aa) De Informática y Telecomunicaciones.
 
-XIV. Fomentar la reutilización y valorización de los materiales contenidos en los residuos que se generan en el Estado, a través de la promoción, desarrollo y establecimiento de esquemas e instrumentos voluntarios y flexibles de manejo integral; y
+> <small>(ADICIONADA, D.O.F. 14 DE MARZO DE 2012)</small>
 
-> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2023)</small>
+V Bis. Escuela de Estudios Financieros.
 
-XV. Crear mecanismos que incentiven el aprovechamiento de la materia orgánica de los residuos sólidos urbanos en procesos de generación de energía.
+VI. Delegaciones, que podrán ser Regionales, Estatales o Locales.
 
-###### ARTÍCULO 4.
+VII. Organos colegiados:
 
-En la formulación y conducción de la política en materia de prevención, manejo y gestión integral de los residuos a que se refiere esta Ley, la expedición de disposiciones jurídicas y la emisión de actos que de ella deriven, se observarán los siguientes principios:
+a) Consejo Consultivo Nacional;
 
-I. El derecho de toda persona a vivir en un ambiente adecuado para su desarrollo y bienestar;
+b) Consejos Consultivos Regionales, Estatales y Locales;
 
-II. Sujetar las actividades relacionadas con la generación y manejo integral de los residuos a las modalidades que dicten el orden e interés público para lograr el desarrollo sustentable en el Estado;
+c) Comité de Dictámenes;
 
-III. La prevención y minimización de la generación de los residuos, de su liberación al ambiente, y su transferencia de un medio a otro, así como su manejo integral para evitar riesgos a la salud y daños a los ecosistemas;
+d) Comité de Condonación de Multas;
 
-IV. Corresponde a quien genere residuos, asumir los costos derivados del manejo integral de los mismos y, en su caso, de la reparación de los daños;
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2012)</small>
 
-V. La responsabilidad compartida de los productores, comercializadores, consumidores, generadores, empresas de servicios de manejo de residuos y de los tres órdenes de gobierno es fundamental para lograr que el manejo integral de los residuos sea ambientalmente eficiente, tecnológicamente viable y económicamente factible;
+e) Comité de Acciones Colectivas;
 
-VI. La valorización de los residuos para su aprovechamiento como insumos en las actividades productivas, privilegiando la recuperación de materia y energía;
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
 
-VII. El acceso público a la información, la educación ambiental y la capacitación para lograr la prevención de la generación y el manejo integral de los residuos;
+f) Comité de Supervisión, y
 
-VIII. La disposición final de residuos limitada sólo a aquellos cuya valorización o tratamiento no sea económicamente viable, tecnológicamente factible y ambientalmente adecuada;
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
 
-IX. La selección de sitios para la disposición final de residuos, de conformidad con las normas oficiales mexicanas, los programas de ordenamiento ecológico y desarrollo urbano del Estado y municipales según corresponda;
+g) Los demás Comités previstos en otras leyes.
 
-X. La promoción de la realización de acciones de remediación de los sitios contaminados, para prevenir o reducir los riesgos inminentes a la salud y al ambiente;
+La Comisión Nacional contará con un Organo Interno de Control, que se regirá conforme al artículo 42 del presente Estatuto Orgánico.
 
-XI. La producción limpia como medio para alcanzar el desarrollo sustentable; y
+###### Artículo 4.
 
-XII. La valorización, la responsabilidad compartida y el manejo integral de residuos, aplicados bajo condiciones de eficiencia ambiental, tecnológica, económica y social en el diseño de instrumentos, programas y planes de política ambiental para la gestión de residuos.
+Se adscriben a la Presidencia: la Secretaría Técnica, las Vicepresidencias Técnica, Jurídica, de Delegaciones y de Planeación y Administración;
 
-## TÍTULO SEGUNDO. DE LAS FACULTADES Y COORDINACIÓN DE LAS AUTORIDADES
+I. A la Vicepresidencia Técnica, las Direcciones Generales de:
 
-### CAPÍTULO II. DE LA COORDINACIÓN DE LAS AUTORIDADES
+a) Desarrollo Financiero, Estadístico y Operativo;
 
-###### ARTÍCULO 5.
+b) Educación Financiera, y
 
-Serán de aplicación supletoria a esta Ley, las disposiciones de:
+c) Evaluación y Vigilancia.
 
-I. La Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+II. A la Vicepresidencia Jurídica, las Direcciones Generales de:
 
-II. La Ley General para la Prevención y Gestión Integral de los Residuos;
+a) Dictaminación y Supervisión;
 
-III. La Ley de Protección Ambiental del Estado de Tabasco;
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
 
-IV. El Código Civil para el Estado de Tabasco; y
+b) Defensoría, Interventoría y Consultiva;
 
-V. El Código de Procedimientos Civiles para el Estado de Tabasco.
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
 
-###### ARTÍCULO 6.
+c) Servicios Legales, y
 
-Se consideran de utilidad pública:
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
 
-I. Las medidas y acciones necesarias para evitar el deterioro o la destrucción que los elementos naturales puedan sufrir en perjuicio de la colectividad, por la liberación al ambiente de residuos;
+d) De Arbitraje y Sanciones.
 
-II. La ejecución de obras destinadas a la prevención, conservación, protección del ambiente y remediación de sitios contaminados, cuando éstas sean imprescindibles para reducir riesgos a la salud;
+III. A la Vicepresidencia de Delegaciones, las Direcciones Generales de:
 
-III. Las medidas de emergencia que las autoridades apliquen en caso fortuito o fuerza mayor, tratándose de contaminación por residuos de manejo especial y sólidos urbanos;
+a) Delegaciones Centro-Occidente, y;
 
-IV. Las acciones de emergencia para contener los riesgos a la salud derivados del manejo de residuos; y
+b) Delegaciones Norte-Sur.
 
-V. Las acciones de manejo integral de los residuos de manejo especial y sólidos urbanos, conforme a la normatividad aplicable.
+IV. A la Vicepresidencia de Planeación y Administración, las Direcciones Generales de:
 
-Las medidas, obras y acciones a que se refiere este artículo, se deberán sujetar a los procedimientos que establezcan la presente Ley y su Reglamento.
+a) Bienes y Servicios;
 
-###### ARTÍCULO 7.
+b) Personal y Organización, y
 
-Son autoridades competentes para aplicar la presente Ley las siguientes:
+c) Planeación.
 
-I. El Titular del Poder Ejecutivo del Estado;
+> <small>(ADICIONADA, D.O.F. 14 DE MARZO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2019)</small>
+IV Bis. A la Dirección General de Personal y Organización se adscribe la Escuela de Estudios Financieros.
 
-II. La Secretaría de Bienestar, Sustentabilidad y Cambio Climático y sus unidades administrativas respectivas; y
+V. Las Delegaciones se adscriben de la siguiente manera:
 
-III. Los Municipios de la Entidad, a través de su Dirección de Protección Ambiental y Desarrollo Sustentable.
+a) A la Dirección General de Delegaciones Norte-Sur: Baja California, Baja California Sur, Campeche, Chiapas, Chihuahua, Ciudad Juárez, Guerrero, Nuevo León, Oaxaca, Quintana Roo, Sinaloa, Sonora, Tabasco, Tamaulipas, Veracruz y Yucatán.
 
-###### ARTÍCULO 8.
+b) A la Dirección General de Delegaciones Centro-Occidente: Aguascalientes, Coahuila, Colima, Durango, Estado de México, Guanajuato, Hidalgo, Jalisco, Metropolitana Central, Metropolitana Norte, Metropolitana Sur, Metropolitana Oriente, Michoacán, Morelos, Nayarit, Puebla, Querétaro, San Luis Potosí, Tlaxcala y Zacatecas.
 
-Las autoridades estatales y municipales ejercerán sus atribuciones en el ámbito de su competencia, en materia de prevención de la generación, manejo y gestión integral de los residuos, de prevención de la contaminación de sitios y su remediación, de conformidad con lo dispuesto en esta Ley, la LPAET, la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco y la Ley Orgánica de los Municipios del Estado de Tabasco.
+## TITULO SEGUNDO. DE LAS ATRIBUCIONES
 
-###### ARTÍCULO 9.
+### CAPITULO I. DE LA JUNTA DE GOBIERNO
 
-El Titular del Poder Ejecutivo del Estado tendrá las siguientes atribuciones:
+###### Artículo 5.
 
-I. Formular, establecer, conducir y evaluar la política en materia de gestión y manejo integral de residuos en el Estado, conforme al Plan Nacional de Desarrollo, al Plan Estatal de Desarrollo, y a los Programas Sectoriales correspondientes;
+La Junta se integrará y funcionará de acuerdo a lo previsto en los artículos 17, 18, 19, 20 y 22 de la Ley y tendrá las facultades y obligaciones consignadas en dicho ordenamiento.
 
-II. Proponer en la Ley de Hacienda del Estado de Tabasco, el pago de derechos por trámites en materia de manejo integral de residuos de manejo especial;
+A las sesiones de la Junta podrán asistir como invitados, con voz pero sin voto, servidores públicos de la Comisión Nacional, de las dependencias y/o entidades federales, así como aquellas personas del sector público o privado de las que se requiera su asistencia debido a la naturaleza o relevancia de los asuntos a tratar.
 
-III. Establecer o, en su caso, proponer la creación de instrumentos económicos que incentiven el cumplimiento de los objetivos de la política en materia de gestión y manejo integral de residuos en el Estado;
+###### Artículo 6.
 
-IV. Celebrar convenios o acuerdos con la Federación, con el objeto de que el Estado asuma y ejerza las facultades que por virtud de tales actos jurídicos, sean descentralizadas a favor del Estado;
+Corresponden a la Secretaría de la Junta, las atribuciones siguientes:
 
-V. Celebrar convenios o acuerdos con otras entidades federativas, con el propósito de atender y resolver problemas ambientales comunes ocasionados por la generación y el manejo de residuos;
+I. Elaborar y enviar a los miembros de la Junta, con una antelación no menor a siete días hábiles a la celebración de la sesión, la convocatoria, el orden del día y la carpeta que contenga la información y documentación necesarias que permitan el conocimiento de los asuntos a tratar en la correspondiente sesión;
 
-VI. Celebrar convenios o acuerdos con los Municipios del Estado, con la finalidad de atender o resolver de manera conjunta problemas ambientales ocasionados por la generación y el manejo de residuos, y para descentralizar atribuciones, acciones, infraestructura y recursos que los fortalezcan;
+II. Llevar un registro de los acuerdos tomados en las sesiones de la Junta, comunicándolos al Presidente para su ejecución, dando seguimiento a los mismos;
 
-VII. Celebrar convenios o acuerdos en materia de gestión y manejo de residuos con organismos de los sectores público, privado y social;
+III. Informar a los miembros de la Junta sobre el estado que guardan los acuerdos tomados;
 
-VIII. Celebrar convenios o acuerdos con las instituciones de educación superior e investigación en todos los niveles y con organismos internacionales, mediante los cuales se obtengan u otorguen recursos materiales y económicos para realizar investigaciones pertinentes a la problemática de la generación y manejo de residuos en el Estado;
+IV. Expedir y certificar las constancias que las autoridades competentes le requieran en ejercicio de sus atribuciones, así como las que le sean solicitadas de conformidad a la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
 
-> <small>(REFORMADA, P.O. 20 DE MAYO DE 2023)</small>
+V. Rendir periódicamente informes al Presidente de la Junta, respecto del seguimiento que se dé a la ejecución de los acuerdos emitidos;
 
-IX. Expedir los reglamentos, ordenamientos y demás disposiciones necesarias para proveer el cumplimiento de la presente Ley;
+VI. Presentar a la Junta la información que sea solicitada por los Comisarios Públicos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE MAYO DE 2023)</small>
+VII. Realizar las tareas que le encomienden el Consejo Consultivo Nacional y/o el Consejo de Pensiones a que se refiere la Ley de los Sistemas de Ahorro para el Retiro, y
 
-X. La vigilancia de las normas oficiales mexicanas expedidas por la Federación a las que deberán sujetarse los sitios, el diseño, la construcción y la operación de las instalaciones destinadas a la disposición final de los residuos sólidos urbanos para el aprovechamiento de la materia orgánica en proceso de generación de energía; y
+VIII. Las demás que expresamente le asigne la Junta.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE MAYO DE 2023)</small>
+###### Artículo 7.
 
-XI. Las demás que se establezcan en esta Ley y otros ordenamientos jurídicos aplicables.
+Corresponde a la Prosecretaría el ejercicio de las siguientes atribuciones:
 
-### CAPÍTULO III. DE LA GESTIÓN INTEGRAL DE RESIDUOS A NIVEL REGIONAL
+I. Reunir las solicitudes de acuerdo que presenten las distintas unidades administrativas de la Comisión Nacional o los miembros de la Junta y someterlas a consideración de la Secretaría de la Junta;
 
-###### ARTÍCULO 10.
+II. Acordar con la Secretaría de la Junta, la convocatoria, el orden del día y la carpeta que contenga la información y documentación necesarias que permitan el conocimiento de los asuntos a tratar en la sesión correspondiente;
 
-La Secretaría tendrá las siguientes atribuciones:
+III. Levantar las actas de las sesiones, sometiéndolas a la autorización y firma del presidente de la Junta y de la Secretaría de la misma;
 
-I. Formular, conducir y evaluar la política ambiental estatal en materia de residuos de manejo especial y sólidos urbanos;
+IV. Elaborar el registro de acuerdos, compilando la información sobre el seguimiento y cumplimiento de los mismos;
 
-II. Elaborar, actualizar y difundir el diagnóstico básico para la gestión integral de residuos de manejo especial y sólidos urbanos, con la colaboración de las autoridades municipales, los generadores y las empresas prestadoras de servicios para el manejo de residuos;
+V. Obtener de las unidades administrativas de la Comisión Nacional la información necesaria que deberá proporcionarse a la Junta;
 
-III. Elaborar, ejecutar, evaluar, difundir y actualizar el Programa Estatal para la Prevención y Gestión Integral de los Residuos, el de Remediación de Sitios Contaminados con éstos y el de Manejo de Residuos en Situaciones de Desastres, acordes a los programas nacionales correspondientes;
+VI. Colaborar con el Consejo Consultivo Nacional y/o el Consejo de Pensiones regulado en la Ley de los Sistemas de Ahorro para el Retiro;
 
-IV. Elaborar el proyecto de Reglamento de la presente Ley, normas ambientales estatales, guías y formatos para el manejo integral de residuos, así como las demás disposiciones jurídicas en materia de generación y manejo integral de los residuos de manejo especial y sólidos urbanos; así como de la prevención de la contaminación de sitios con dichos residuos;
+VII. Auxiliar a la Secretaría de la Junta en el ejercicio de sus atribuciones, y
 
-V. Regular y autorizar el manejo integral de los residuos de manejo especial;
+VIII. Las demás que expresamente le asigne la Junta o la Secretaría de la misma.
 
-VI. Realizar visitas técnicas con la finalidad de efectuar el reconocimiento físico del sitio donde se pretenda llevar a cabo el manejo de residuos y constatar la información proporcionada por el promovente;
+###### Artículo 8.
 
-VII. Identificar y proponer a la Federación los residuos de manejo especial que puedan agregarse al listado de las normas oficiales mexicanas, por considerarse sujetos a planes de manejo;
+Los miembros de la Junta deliberarán libremente y podrán hacer constar en actas, de manera textual, su opinión o voto particular sobre los asuntos que se traten.
 
-VIII. Verificar el cumplimiento de los términos y condicionantes de las autorizaciones y demás disposiciones jurídicas en materia de residuos de manejo especial e imponer las sanciones y medidas correctivas y de seguridad que resulten aplicables;
+La Junta conocerá de los impedimentos que tengan sus miembros para deliberar, resolver y votar asuntos concretos, debiendo el interesado exponer las razones por las cuales se encuentra impedido para participar en la sesión en la cual haya de discutirse el asunto en cuestión.
 
-IX. Establecer el registro de los generadores de residuos de manejo especial y mantenerlo actualizado;
+###### Artículo 9.
 
-X. Integrar el padrón de registro de los generadores de residuos de su competencia y de empresas de servicios de manejo de esos residuos, para incorporarlos al sistema de información ambiental;
+En cada sesión de la Junta, se levantará un acta que autorizarán el Presidente y la Secretaría de la misma, en donde se establecerá con claridad y precisión, los acuerdos y recomendaciones adoptadas.
 
-XI. Autorizar y llevar el control de los residuos peligrosos generados o manejados por microgeneradores, así como imponer las sanciones que procedan, de acuerdo con la normatividad aplicable y lo que establezcan los convenios o acuerdos que se suscriban con la Federación, conforme a lo dispuesto en la LGPGIR;
+Los acuerdos de la Junta serán ejecutivos y corresponderá al Presidente ordenar y vigilar su oportuno cumplimiento.
 
-XII. Establecer y mantener actualizado el registro de planes de manejo y programas para la instalación de sistemas destinados a la recolección, acopio, almacenamiento, transporte, tratamiento, valorización y disposición final de los residuos de manejo especial, conforme a los lineamientos establecidos en la presente Ley, las normas oficiales mexicanas y las normas ambientales estatales que al efecto se emitan, en el ámbito de su competencia;
+### CAPITULO II. DE LA PRESIDENCIA
 
-XIII. Promover, en coordinación con el Gobierno Federal y las autoridades municipales, la creación de infraestructura para el manejo integral de residuos sólidos urbanos, de manejo especial y residuos peligrosos, en el Estado, y en su caso, con la participación del sector privado u otros sectores sociales interesados;
+###### Artículo 10.
 
-XIV. Promover los programas municipales para la prevención y gestión integral de los residuos de su competencia y de prevención de la contaminación de sitios con tales residuos;
+El Presidente es la máxima autoridad administrativa de la Comisión Nacional y tendrá las facultades y obligaciones consignadas en la Ley y demás disposiciones legales aplicables.
 
-XV. Participar en el marco del Sistema Estatal de Protección Civil y en coordinación con la Federación y los Municipios, en la prevención y control de contingencias y emergencias ambientales derivadas de la generación y manejo de residuos de su competencia;
+Corresponderá al Presidente proponer a la Junta, para su autorización, la estructura de la organización administrativa de la Comisión Nacional, así como sus modificaciones.
 
-XVI. Promover la investigación, desarrollo y aplicación de tecnologías, equipos, sistemas y procesos que eliminen, reduzcan o minimicen la liberación al ambiente y la transferencia de uno a otro de sus elementos, de contaminantes provenientes del manejo integral de los residuos de su competencia;
+El Presidente de la Comisión Nacional contará con el apoyo de una Secretaría Técnica, que tendrá las funciones que aquél establezca.
 
-XVII. Promover la participación de los sectores privado y social en el diseño e instrumentación de acciones para prevenir la generación de residuos de manejo especial y llevar a cabo su gestión integral adecuada, así como para la prevención de la contaminación de sitios con estos residuos, conforme a los lineamientos de esta Ley, su Reglamento, las normas oficiales mexicanas y normas ambientales estatales correspondientes;
+###### Artículo 11.
 
-XVIII. Promover la educación y capacitación de personas y grupos u organizaciones de todos los sectores de la sociedad, con el objeto de contribuir al cambio de hábitos negativos para el ambiente, en la producción y consumo de bienes, así como en el manejo de residuos;
+El Presidente efectuará las designaciones y nombramientos de representantes ante las autoridades y organismos en los que se requiera la participación, opinión o apoyo de la Comisión Nacional. Para el desempeño de las comisiones conferidas con relación a las funciones que corresponden a la Comisión Nacional, no se requerirá que las personas que actúen conforme a esta disposición revistan el carácter de apoderados o mandatarios de la Comisión Nacional. En todo caso, se indicará en el oficio respectivo los términos de la designación o nombramiento, así como el alcance o extensión de la encomienda que les haya sido conferida.
 
-XIX. Celebrar convenios o acuerdos con los Municipios del Estado, con la finalidad de descentralizar atribuciones en materia de generación de residuos de manejo especial realizada por microgeneradores;
+En ejercicio de las facultades de representación conferidas al Presidente en la Ley, éste podrá otorgar poderes y comisiones, sin que sus facultades se entiendan limitadas, sustituidas o modificadas. Para acreditar su personalidad, bastará exhibir copias certificadas de su nombramiento, incluso cuando se trate de los instrumentos en que consten poderes y comisiones.
 
-XX. Celebrar convenios o acuerdos con las cámaras industriales, comerciales y de otras actividades productivas, los grupos y organizaciones privadas y sociales, para llevar a cabo acciones tendientes a cumplir con los objetivos de esta Ley y su Reglamento;
+Las facultades del Presidente incluyen las de designar a servidores públicos para que absuelvan posiciones y realicen toda clase de gestiones pertinentes ante autoridades judiciales o administrativas, incluyendo las de carácter penal o laboral.
 
-XXI. Diseñar y promover ante el Titular del Poder Ejecutivo del Estado, el establecimiento y aplicación de instrumentos económicos y fiscales que tengan por objeto prevenir o evitar la generación de residuos, su valorización y su gestión integral y sustentable, así como prevenir la contaminación de sitios por residuos;
+### CAPITULO III. DE LAS VICEPRESIDENCIAS
 
-XXII. Regular y establecer las bases para el cobro por la prestación de uno o varios de los servicios del manejo integral de residuos de manejo especial y sólidos urbanos, a través de mecanismos transparentes que induzcan la minimización y permitan destinar los ingresos correspondientes al fortalecimiento de la infraestructura respectiva;
+###### Artículo 12.
 
-XXIII. Proponer al Titular del Poder Ejecutivo del Estado, la expedición de los ordenamientos jurídicos que permitan la gestión integral de los residuos de manejo especial, así como la prevención de la contaminación de sitios con dichos residuos;
+Los vicepresidentes tendrán las atribuciones siguientes:
 
-XXIV. Integrar los inventarios de tiraderos de residuos o sitios donde se han abandonado clandestinamente residuos de diferente índole, conforme a lo dispuesto por la LGPGIR, la presente Ley y su Reglamento;
+I. Acordar con el Presidente los asuntos de su competencia e informarle sobre el desarrollo de las actividades de las unidades administrativas que les son adscritas;
 
-XXV. Realizar y promover campañas, programas y difundir entre la población prácticas de separación, reutilización y reciclaje de residuos de manejo especial;
+II. Proponer al Presidente los asuntos de su competencia que deban someterse a la consideración y/o aprobación de la Junta;
 
-XXVI. Coadyuvar en la promoción de la prevención de la contaminación de sitios con residuos de manejo especial, sólidos urbanos y peligrosos;
+III. Representar legalmente a la Comisión Nacional, en el ámbito de su competencia, a indicación del Presidente o en sustitución del mismo;
 
-XXVII. Promover la regionalización de los servicios de transferencia, tratamiento y disposición final en el Estado cuando así convenga;
+IV. Planear, formular, dirigir y evaluar los programas anuales de labores y los programas específicos que determinen las disposiciones aplicables, así como las actividades de las unidades administrativas a ellos adscritas, conforme a los criterios que determine el Presidente;
 
-XXVIII. Ordenar, de oficio o derivada del seguimiento de la denuncia popular, la realización de visitas de inspección;
+V. Ejercer en forma directa las atribuciones que sean competencia de las unidades administrativas a su cargo;
 
-XXIX. Vigilar, inspeccionar y verificar el cumplimiento de las disposiciones jurídicas de la presente Ley y demás normatividad aplicable;
+VI. Acordar con los Directores Generales de su adscripción los asuntos de su competencia, así como los programas específicos, estableciendo objetivos, metas y esquemas de evaluación en correspondencia con los de la Comisión Nacional en su conjunto;
 
-XXX. Sustanciar y emitir los acuerdos de trámite y resoluciones correspondientes al procedimiento respectivo de inspección y vigilancia, imponiendo las sanciones y medidas correctivas que procedan por infracciones a la presente Ley y demás disposiciones aplicable (sic);
+VII. Definir, en conjunto con sus similares, los criterios de coordinación entre sus unidades administrativas;
 
-XXXI. Sustanciar los procedimientos administrativos de suspensión, extinción, nulidad, revocación caducidad de las autorizaciones, así como emitir la resolución que corresponda;
+VIII. Someter a consideración de sus similares, aquellos asuntos de su competencia que les sean comunes;
 
-XXXII. Sustanciar los recursos de revisión que se interpongan ante la Secretaría o sus unidades administrativas, así como emitir la resolución que corresponda;
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
 
-XXXIII. Presentar denuncias y querellas ante la autoridad competente cuando se detecte la comisión de un delito; y
+IX. Concertar y celebrar, previo acuerdo con el Presidente, en el ámbito de su competencia, convenios y acuerdos con las Instituciones Financieras, Asociaciones, la Secretaría, las Comisiones Nacionales, así como las demás Autoridades competentes en materia financiera nacionales y, en su caso, del exterior, en términos de lo dispuesto por el artículo 12 de la Ley y demás disposiciones legales aplicables;
 
-XXXIV. Las demás que se establezcan en esta Ley, su Reglamento y otros ordenamientos jurídicos que resulten aplicables.
+> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2014)</small>
 
-###### ARTÍCULO 11.
+IX Bis. Participar en foros nacionales e internacionales para dar cumplimiento al objeto de la Ley;
 
-Corresponde a los Municipios el ejercicio de las siguientes atribuciones:
+X. Notificar y ejecutar los acuerdos de la Junta, previa orden del Presidente;
 
-I. Elaborar, ejecutar, evaluar, difundir y actualizar los programas municipales para la prevención y gestión integral de los residuos sólidos urbanos, los cuales deberán observar lo dispuesto en el Programa Estatal para la Prevención y Gestión Integral de los Residuos;
+XI. Informar a la Secretaría respecto de los asuntos concretos que ésta solicite;
 
-II. Formular y actualizar la normatividad municipal en materia de manejo de residuos sólidos urbanos, en concordancia con la presente Ley y demás disposiciones aplicables;
+XII. Desempeñar las comisiones y demás funciones que les encomiende en forma directa el Presidente;
 
-III. Elaborar, actualizar y difundir el diagnóstico básico municipal de la situación de los residuos sólidos urbanos y la capacidad instalada para su manejo integral;
+XIII. Nombrar y remover al personal adscrito a su unidad administrativa, y
 
-IV. Promover la reducción de la generación y regular o controlar el manejo integral de los residuos sólidos urbanos;
+XIV. Las demás que, dentro de su competencia, se deriven de las disposiciones aplicables, así como las que correspondan a las unidades administrativas que se les adscriban.
 
-V. Prestar por sí o a través de terceros, el servicio público de limpia, recolección, traslado, tratamiento y disposición final de los residuos sólidos urbanos, observando lo dispuesto por esta Ley y las demás disposiciones aplicables;
+Los Vicepresidentes contarán con el auxilio de un Asistente Técnico, el cual tendrá las funciones que aquéllos establezcan.
 
-VI. Prestar, previo pago, el servicio público de limpia, recolección, traslado, tratamiento y disposición final, si así lo requieren los grandes generadores de residuos sólidos urbanos;
+### CAPITULO IV. DE LAS DIRECCIONES GENERALES
 
-VII. Concesionar de manera total o parcial la prestación del servicio público de limpia, recolección, traslado, tratamiento y disposición final de residuos sólidos urbanos, con fundamento en la Ley Orgánica de los Municipios del Estado de Tabasco y la presente Ley. En los casos que el sitio de disposición final haya sido financiado por el Ejecutivo del Estado, la concesión requerirá de previo acuerdo con la Secretaría;
+###### Artículo 13.
 
-VIII. Autorizar aquellas etapas del manejo integral de residuos sólidos urbanos que no sean consideradas como servicio público;
+Los directores generales contarán con las siguientes atribuciones:
 
-IX. Celebrar convenios o acuerdos con otros Municipios para la prestación total o parcial del servicio público de limpia, recolección, traslado, tratamiento y disposición final de residuos sólidos urbanos;
+I. Acordar, con el Vicepresidente de su adscripción, los asuntos de su competencia e informarle sobre el desarrollo de las actividades de las áreas que integran la unidad administrativa a su cargo;
 
-X. Capacitar a los servidores públicos que intervengan en la prestación del servicio público de limpia, recolección, traslado, tratamiento y disposición final de residuos;
+II. Formular los programas de actividades y los anteproyectos de presupuesto de las áreas que integran sus unidades administrativas, así como organizar, dirigir y evaluar dichas actividades;
 
-XI. Establecer y mantener actualizado el registro de los grandes generadores de residuos sólidos urbanos;
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
 
-XII. Verificar el cumplimiento de las disposiciones de esta Ley, las normas oficiales mexicanas, normas ambientales estatales, términos y condicionantes de las concesiones y autorizaciones respectivas y demás ordenamientos jurídicos en materia de residuos sólidos urbanos e imponer las sanciones, medidas correctivas y de seguridad que resulten aplicables;
+III. Establecer los criterios administrativos de actuación a seguir en el desempeño del personal de la Unidad Administrativa a su cargo, en relación con las funciones que les son atribuidas, así como emitir sus manuales de procedimientos;
 
-XIII. Participar en el control de los residuos peligrosos generados o manejados por microgeneradores, así como imponer las sanciones que procedan, de acuerdo con la normatividad aplicable y lo que establezcan los convenios o acuerdos que se suscriban entre la Federación, los Municipios y el Estado;
+IV. Formular, en el ámbito de su competencia, las guías y protocolos necesarios para verificar la aplicación y cumplimiento de las disposiciones que rigen el quehacer de la Comisión Nacional;
 
-XIV. Coadyuvar en la prevención de la contaminación de sitios con residuos peligrosos y de manejo especial;
+V. Coordinar, supervisar y evaluar la ejecución de las funciones que les son atribuidas;
 
-XV. Proponer al Congreso del Estado, las tarifas aplicables al derecho por la prestación del servicio público de limpia, recolección, traslado, tratamiento y disposición final de residuos sólidos urbanos;
+VI. Participar en las visitas de supervisión a las unidades administrativas desconcentradas de la Comisión Nacional;
 
-XVI. Efectuar el cobro de los servicios públicos referidos en la fracción anterior y destinar los ingresos a la operación y el fortalecimiento de los mismos;
+VII. Acordar y resolver los asuntos de la competencia de las áreas administrativas a su cargo;
 
-XVII. Prevenir y erradicar la existencia de tiraderos a cielo abierto clandestinos o sitios no controlados de disposición final de residuos sólidos urbanos y sancionar a los responsables de los mismos;
+VIII. Coordinarse con las demás unidades administrativas de la Comisión Nacional para el mejor ejercicio de las funciones que les son atribuidas;
 
-XVIII. Realizar campañas, programas y difundir entre la población prácticas de separación, reutilización y reciclaje de residuos;
+IX. Expedir copia certificada de las constancias de los expedientes relativos a los asuntos de su competencia, previo pago de su costo cuando así proceda, así como las que les sean solicitadas de conformidad con la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental u otras disposiciones aplicables;
 
-XIX. Establecer programas graduales de separación desde la fuente de residuos sólidos urbanos, separando como mínimo en orgánico e inorgánico y establecer los mecanismos para promover su valorización y aprovechamiento;
+> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2014)</small>
 
-XX. Instalar y supervisar el equipamiento para el depósito separado de los Residuos Sólidos Urbanos en la vía pública y áreas comunes, así como, mantener su buen estado y funcionamiento;
+IX Bis. Solicitar a las Instituciones Financieras y a las autoridades correspondientes, la información y documentación necesarias para el ejercicio de sus atribuciones;
 
-XXI. Establecer instalaciones de disposición final de residuos sólidos urbanos y de manejo especial, que cumplan con la normatividad aplicable en la materia;
+X. Gestionar ante las autoridades competentes la celebración de convenios de colaboración, previa autorización de la Dirección General de Servicios Legales, y
 
-XXII. Establecer las rutas, horarios y frecuencias en que debe prestarse el servicio de recolección selectiva de los residuos de su competencia, pudiendo modificarlos de acuerdo a las necesidades de dicho servicio;
+XI. Las demás que, en el ámbito de sus respectivas competencias, se deriven de las disposiciones aplicables o les sean atribuidas o delegadas.
 
-XXIII. Participar en el marco del Sistema Estatal de Protección Civil y en coordinación con la Federación y el Estado, en la prevención y control de contingencias y emergencias ambientales derivadas de la generación y manejo de residuos de su competencia;
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 20 DE MAYO DE 2023)</small>
+Los Directores de Área, Delegados, Subdirectores, Subdelegados o Jefes de Departamento, en el ámbito de su respectiva competencia, podrán ejercer la atribución conferida en la fracción IX del presente artículo.
 
-XXIV. Inspeccionar y vigilar en el ámbito de su competencia, el cumplimiento de la presente Ley, su Reglamento y demás disposiciones aplicables;
+Con excepción de las fracciones I, III, IV y VI anteriores, los delegados, en el ámbito de su competencia, tendrán las atribuciones señaladas en el presente artículo.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE MAYO DE 2023)</small>
+###### Artículo 14.
 
-XXV. Controlar los residuos sólidos urbanos y en coordinación con el Ejecutivo Estatal, aprovechar la materia orgánica en procesos de generación de energía;
+Corresponde a la Dirección General de Desarrollo Financiero, Estadístico y Operativo, el ejercicio de las siguientes atribuciones:
 
-> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2023)</small>
+I. Actuar como enlace con las dependencias y entidades de la Administración Pública Federal en asuntos relacionados con el ejercicio de sus atribuciones, en coordinación con la Dirección General de Servicios Legales;
 
-XXVI. Llevar un registro y control de empresas y particulares concesionarios dedicados a la prestación del servicio de limpia de su competencia;
+II. Coadyuvar, en el ámbito de su competencia, con las autoridades en materia financiera para lograr una relación equitativa entre las Instituciones Financieras y los Usuarios, así como el sano desarrollo del sistema financiero mexicano;
 
-> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2023)</small>
+III. (DEROGADA, D.O.F. 2 DE JUNIO DE 2014)
 
-XXVII. Establecer el registro de planes de manejo de residuos sólidos urbanos, así como programas para la instalación de sistemas destinados a su recolección, acopio, almacenamiento, transporte, tratamiento, valorización y disposición final, conforme a los lineamientos establecidos en la presente Ley, las Normas Oficiales Mexicanas y las Normas Técnicas Ambientales que al efecto se emitan, en el ámbito de su competencia; y
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE MAYO DE 2023)</small>
+IV. Remitir a la Dirección General de Arbitraje y Sanciones, en un plazo que no excederá de treinta días hábiles contado a partir del día siguiente a aquél en que haya tenido conocimiento de la infracción de que se trate, los casos en los que presuntamente se ha contravenido la Ley o aquellas disposiciones cuyo incumplimiento corresponda sancionar a la Comisión Nacional, para efectos de que se emplace e imponga la multa correspondiente;
 
-XXVIII. Las demás que se establezcan en esta Ley, las normas oficiales mexicanas, normas ambientales estatales y otros ordenamientos jurídicos que resulten aplicables.
+V. Emitir, en el ámbito de su competencia, previa opinión de la Dirección General de Servicios Legales, recomendaciones a las autoridades e Instituciones Financieras para coadyuvar al cumplimiento del objeto de la Ley y el de la Comisión Nacional, así como para el sano desarrollo del sistema financiero mexicano;
 
-### CAPÍTULO I. DEL INVENTARIO DE LOS RESIDUOS DE MANEJO ESPECIAL
+VI. Proporcionar la información a las unidades administrativas de la Comisión Nacional que así lo requieran, respecto de las condiciones técnico financieras de los productos y servicios que ofrecen las Instituciones Financieras;
 
-###### ARTÍCULO 12.
+VII. Desarrollar las herramientas técnico financieras que permitan conocer a los Usuarios las características y funcionamiento de los productos y servicios que ofrecen las Instituciones Financieras;
 
-El Titular del Poder Ejecutivo del Estado podrá celebrar convenios o acuerdos con la Federación, de conformidad con esta Ley, la Ley General y la LGPGIR, para asumir las siguientes funciones:
+VIII. Elaborar el análisis e investigaciones del sector, para el desarrollo de las herramientas de productos financieros, que permitan a la Comisión Nacional proponer estrategias de orientación y asesoramiento a los Usuarios y a las Instituciones Financieras y, en su caso, informar a las autoridades competentes sobre hechos significativos que afecten la desigualdad entre las partes;
 
-I. La autorización y el control de las actividades realizadas por los microgeneradores de residuos peligrosos, de conformidad con las normas oficiales mexicanas correspondientes;
+IX. Llevar el Registro de Comisiones Vigentes que cobren las Instituciones Financieras;
 
-II. El control de los residuos peligrosos que estén sujetos a los planes de manejo, de conformidad con lo previsto en la LGPGIR;
+X. Desarrollar, administrar y actualizar el registro de tarifas de seguros básicos;
 
-III. El establecimiento y actualización de los registros que correspondan en los casos anteriores; y
+XI. Atender y resolver las consultas que remitan las unidades administrativas de atención a Usuarios de la Comisión Nacional, así como las provenientes de dependencias, autoridades o entidades, respecto de los asuntos que requieran un análisis contable y financiero que permita determinar el alcance de las pretensiones de los Usuarios y, en su caso, llevar a cabo la cuantificación de lo reclamado;
 
-IV. La imposición de las sanciones aplicables, relacionadas con las fracciones anteriores.
+XII. Solicitar al Banco de México evalúe si existen o no condiciones razonables de competencia en materia de comisiones;
 
-Los instrumentos a que se refiere este artículo, deberán ser publicados en el Periódico Oficial del Estado para que surtan sus efectos jurídicos.
+XIII. Formular observaciones a la aplicación de las comisiones que cobren las sociedades financieras de objeto múltiple, entidades no reguladas, conforme a las disposiciones legales aplicables;
 
-### CAPÍTULO II. DE LA CLASIFICACIÓN
+XIV. Vigilar el comportamiento de las comisiones o cargos máximos y mínimos que cobren las sociedades financieras de objeto múltiple, entidades no reguladas, por las operaciones y servicios que presten, para darlos a conocer al público en general;
 
-###### ARTÍCULO 13.
+> <small>(ADICIONADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
 
-El Titular del Poder Ejecutivo del Estado podrá celebrar con los Municipios, acuerdos o convenios, a efecto de que participen en la realización de las funciones señaladas en el artículo anterior.
+XIV Bis. Diseñar, desarrollar, administrar y optimizar el sitio web de la Comisión Nacional, en coordinación con las áreas técnicas correspondientes;
 
-###### ARTÍCULO 14.
+XV. Solicitar y analizar la información que reporten las áreas de atención a Usuarios, respecto de los servicios proporcionados por la Comisión Nacional a los Usuarios, así como elaborar los análisis estadísticos que deriven de esa información;
 
-La Secretaría podrá celebrar con los Municipios, convenios o acuerdos, con el propósito de que éstos asuman las siguientes funciones, de conformidad con lo que se (sic) establece esta Ley, su Reglamento, las normas oficiales mexicanas, normas ambientales estatales y demás disposiciones legales aplicables:
+XVI. Elaborar y presentar sobre bases estadísticas, informes para la Junta, la Presidencia y Vicepresidencias de la Comisión Nacional sobre la información que proporcionen mensualmente las unidades de la Comisión Nacional que otorguen servicios a los Usuarios, así como la que se derive de las Unidades Especializadas de atención a Usuarios de las Instituciones Financieras, fungiendo, para este fin, como unidad concentradora de esta información;
 
-I. El registro y control de las actividades realizadas por los microgeneradores de residuos de manejo especial;
+XVII. Elaborar los índices sobre las reclamaciones más recurrentes que se presenten ante la Comisión Nacional sobre los servicios y productos que ofrecen las Instituciones Financieras;
 
-II. La actualización de los registros que corresponda en los casos anteriores; y
+XVIII. Proporcionar, como fuente oficial, a las unidades de la Comisión Nacional, Instituciones Financieras y autoridades que así lo requieran, la información de las cifras estadísticas derivadas de los servicios proporcionados por la Comisión Nacional a los Usuarios, así como de los índices de reclamación, en relación a los productos y servicios que ofrecen las Instituciones Financieras;
 
-III. La imposición de las sanciones aplicables, relacionadas con los actos a los que se refiere este artículo.
+XIX. Establecer los criterios para evaluar la información que reporten las áreas de atención a Usuarios, respecto de los servicios proporcionados por la Comisión Nacional a los mismos;
 
-###### ARTÍCULO 15.
+XX. Proporcionar información sobre la situación de los servicios que prestan las Instituciones Financieras y sus niveles de atención;
 
-Para la atención de los residuos de manejo especial, el Titular del Poder Ejecutivo del Estado de conformidad con su capacidad presupuestal, podrá constituir las entidades paraestatales que se consideren necesarias para el manejo integral a nivel regional. Las funciones y atribuciones de dichas entidades estarán determinadas en el acuerdo de creación correspondiente. Los Municipios podrán coadyuvar con las entidades paraestatales en la operación del manejo integral a nivel regional, en cuanto a los residuos de su competencia.
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
 
-###### ARTÍCULO 16.
+XXI. Formular, desarrollar, implementar y actualizar los procesos de atención a Usuarios y manuales de procedimientos inherentes, en coordinación con las unidades administrativas correspondientes, turnándolos a la Dirección General de Personal y Organización para su registro y difusión;
 
-La Secretaría elaborará y mantendrá actualizado un inventario que contenga tipos de residuos de manejo especial, cantidad y volumen, las fuentes generadoras y tipo de manejo aplicado, tomando en consideración la información y lineamientos del diagnóstico básico para la gestión integral de residuos, con la finalidad de:
+XXII. Diseñar, desarrollar, administrar, actualizar y optimizar los sistemas y herramientas automatizados que soportan las operaciones de las áreas técnicas y de atención a Usuarios, así como capacitar al personal que los aplique;
 
-I. Orientar la toma de decisiones tendientes a la prevención, control y minimización de dicha generación;
+XXIII. Elaborar y actualizar los manuales de usuario de sistemas y herramientas automatizados correspondientes;
 
-II. Proporcionar a quien genere, recolecte, trate o disponga finalmente los residuos, indicaciones acerca del estado físico y propiedades o características inherentes que permitan anticipar su comportamiento en el ambiente;
+XXIV. Definir parámetros y estándares, así como establecer mecanismos para evaluar los procesos de atención a Usuarios;
 
-III. Dar a conocer la relación existente entre las características físicas, químicas o biológicas inherentes a los residuos y la probabilidad de que ocasionen o puedan ocasionar efectos adversos a la salud, al ambiente o a los bienes en función de sus volúmenes, sus formas de manejo y la exposición que de éste se derive; y
+XXV. Instrumentar los sistemas de soporte a los procesos estadísticos y de evaluación de información;
 
-IV. Identificar las fuentes generadoras, los diferentes tipos de residuos generados dentro de sus procesos o actividad, los distintos materiales que los constituyen y los aspectos relacionados con su valorización.
+XXVI. Diseñar e instrumentar la metodología que permita a las unidades administrativas supervisar, en forma efectiva, el cumplimiento de la normativa aplicable a los procesos de atención a Usuarios;
 
-###### ARTÍCULO 17.
+XXVII. (DEROGADA, D.O.F. 2 DE JUNIO DE 2014)
 
-La generación y el manejo de los residuos de manejo especial para fines de prevención o reducción de riesgos y daños al ambiente o sus ecosistemas, se determinará considerando la forma de manejo, cantidad y si poseen características físicas, químicas o biológicas que los hacen:
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
 
-I. Inertes;
+XXVIII. Recibir el aviso de constitución de las Instituciones Financieras, así como los datos de la Unidad Especializada y sus encargados regionales, de ser el caso, con el objeto de establecer y mantener actualizado el Registro de Prestadores de Servicios Financieros, así como desarrollar, administrar y actualizar las herramientas informáticas elaboradas para tal efecto;
 
-II. Fermentables;
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
 
-III. Capaces de combustión;
+XXIX. Establecer y mantener actualizado el Registro Público de Usuarios que no deseen que su información sea utilizada para fines mercadotécnicos o publicitarios, así como emitir sus reglas de operación;
 
-IV. Volátiles;
+> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2014)</small>
 
-V. Solubles en distintos medios;
+XXX. Integrar y mantener actualizado el Registro de Sociedades Financieras de Objeto Múltiple;
 
-VI. Capaces de salinizar o de acidificar los suelos o mantos acuíferos;
+> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2014)</small>
 
-VII. Capaces de incrementar la carga orgánica en cuerpos de agua y el crecimiento excesivo de especies acuáticas que pongan en riesgo la supervivencia de otras; y
+XXXI. Revisar, ordenar modificaciones y autorizar, en el ámbito de su competencia, los programas de autocorrección de las Instituciones Financieras;
 
-VIII. Capaces de provocar daños a la salud o a los ecosistemas, en caso de condiciones de exposición.
+> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2014)</small>
 
-###### ARTÍCULO 18.
+XXXII. Vigilar que las Instituciones Financieras cumplan con las disposiciones legales referentes a los registros que tenga a su cargo, con el objeto de procurar la protección de los intereses de los Usuarios;
 
-Para los efectos de esta Ley, los residuos se clasifican en:
+> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2014)</small>
 
-I. Residuos de manejo especial; y
+XXXIII. Llevar a cabo la supervisión de las Instituciones Financieras, en el ámbito de su respectiva competencia;
 
-II. Residuos sólidos urbanos.
+> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2014)</small>
 
-###### ARTÍCULO 19.
+XXXIV. Ordenar, previa opinión de la Dirección General de Servicios Legales, e informar al Comité de Supervisión, los programas de cumplimiento forzoso, que llevarán a cabo las Instituciones Financieras con motivo de las observaciones e irregularidades detectadas en las facultades de supervisión, dentro de su respectivo ámbito de competencia, y
 
-Salvo que sean considerados residuos sólidos urbanos o peligrosos en los términos de la presente Ley, la LGPGIR, las normas oficiales mexicanas y normas ambientales estatales, los residuos de manejo especial, se clasifican en los términos siguientes:
+> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2014)</small>
 
-I. Los residuos de las rocas o los productos de su descomposición que sólo puedan utilizarse para la fabricación de materiales de construcción o se destinen para este fin, excepto los considerados de competencia federal conforme a la Ley Minera, tales como grava, roca triturada, corte y cerrado de piedra;
+XXXV. Notificar la opinión que la Dirección General de Servicios Legales dé a los proyectos de estatutos presentados por aquellos interesados en constituirse como Sociedad Financiera de Objeto Múltiple.
 
-II. Residuos de servicios de salud, tales como papel y cartón, ropa clínica, ropa de cama y colchones, plásticos, madera y vidrio generados en centros médico asistenciales, incluyendo centros de investigación, laboratorios de análisis clínicos, con excepción de aquellos considerados biológicos - infecciosos;
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2014)</small>
 
-III. Residuos orgánicos e inorgánicos generados por actividades intensivas agrícolas, silvícolas y forestales, tales como agro plásticos, entre otros;
+Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el de Valuación y Desarrollo Financiero, las contenidas en las fracciones I a XIV Bis y XXXI a XXXIV; el de Información y Desarrollo Estadístico, las contenidas en las fracciones I a IV y XV a XX, y el de Desarrollo y Evaluación del Proceso Operativo, las contenidas en las fracciones I a IV y XXI a XXXV.
 
-IV. Residuos orgánicos e inorgánicos de las actividades intensivas avícolas, ganaderas y pesqueras, tales como pollinaza, gallinaza, estiércol de ganado, contenedores metálicos y de plástico, mallas y techos metálicos, saco de alimento, alambre de púas, postes para cerca, redes e instrumentos de pesca, embarcaciones, entre otros;
+> <small>(REFORMADO, D.O.F. 18 DE OCTUBRE DE 2011)</small>
 
-V. Residuos de las actividades de transporte, que incluye servicios en los puertos, aeropuertos, centrales camioneras, estaciones de auto transporte y los del transporte público, que incluye a los prestadores de servicio que cuenten con terminales, talleres o estaciones que generen una cantidad mayor a diez toneladas al año por residuo o su equivalente de los siguientes: envases metálicos, envases y embalajes de papel y cartón, envases de vidrio, envases de tereftalato de polietileno (PET), envases de poliestireno expandido, bolsas de polietileno, tarimas de madera, entre otros;
+###### Artículo 15.
 
-VI. Lodos provenientes de plantas de tratamiento de aguas residuales;
+Corresponde a la Dirección General de Educación Financiera, el ejercicio de las siguientes atribuciones:
 
-VII. Residuos de la construcción, mantenimiento y demolición en general, tales como madera, plástico, metálicos, escombro, sacos de cemento, tubos de cloruro de polivinilo, poliestireno expandido, cables eléctricos, entre otros;
+I. Actuar como enlace con las instituciones financieras, dependencias y entidades de la Administración Pública Federal y organismos internacionales, en asuntos relacionados con el ejercicio de sus atribuciones;
 
-VIII. Residuos tecnológicos provenientes de establecimientos comerciales o industriales, así como aquellos producidos en las industrias de informática, fabricantes de electrónicos o de vehículos automotores, equipos electrónicos u otros que al transcurrir su vida útil, por sus características requieren de un manejo específico, tales como computadoras personales de escritorio, portátiles y sus accesorios, teléfonos celulares, monitores con tubos de rayos catódicos (incluyendo televisores), pantallas de luz emisora de diodo, cristal líquido y plasma (incluyendo televisores), reproductores de audio y video portátiles, cables para equipos electrónicos, impresoras, fotocopiadoras y multifuncionales, fax, escáners; vehículos al final de su vida útil; refrigeradores, aire acondicionado, lavadoras, secadoras, hornos de microondas; neumáticos de desecho; artículos de plástico como: politereftalato de etileno (PET), polietileno de alta y baja densidad (PEAD y PEBD), poli cloruro de vinilo (PVC), polipropileno (PP), poliestireno (PS) y policarbonato (PC), bolsas de polietileno, envases, embalajes y artículos de madera, envases, embalajes y perfiles de aluminio, envases, embalajes y perfiles de metal ferroso, envases, embalajes y perfiles de metal no ferroso, entre otros;
+II. Ser el enlace de la Comisión Nacional y fungir como Secretario Técnico del Comité de Educación Financiera que preside la Secretaría;
 
-IX. Residuos de origen industrial y agroindustrial que por sus características no sean considerados peligrosos, tales como recortes de perforación impregnados con fluidos base agua y base aceite, aguas residuales aceitosas y líquidos remanentes, alúmina gastada, hidróxido de calcio, carbón activado; cascarilla de arroz, de cacao, de concha de coco, cascara de piña y cítricos, bagazo de caña, pedúnculo de plátano, entre otros;
+III. Difundir los precios, comisiones y características de los servicios y productos financieros, con la finalidad de apoyar a los Usuarios en la toma de decisiones y fomentar la competencia entre Instituciones Financieras;
 
-X. Residuos de tiendas de autoservicios, departamentales, restaurantes, hoteles, moteles, establecimientos comerciales y de servicio, tales como envases metálicos, de vidrio, de tereftalato de polietileno (PET), de poliestireno expandido (unicel), envases y embalajes de papel y cartón, tarimas de madera y plástico, residuos orgánicos (restos de alimentos), película de polietileno para embalaje (playo), aceite vegetal usado, entre otros; y
+> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2014)</small>
 
-XI. Otros que determinen la Secretaría, la Federación y los Municipios, que así convengan para facilitar su gestión integral.
+III Bis. Integrar, mantener actualizado y difundir el Buró de Entidades Financieras;
 
-Además de los señalados anteriormente, también se consideran residuos de manejo especial los clasificados en las normas ambientales estatales, los que no se encuentren clasificados en las normas oficiales mexicanas como residuos peligrosos, así como los que después de haberles realizado las pruebas de corrosividad, reactividad, explosividad, toxicidad e inflamabilidad, resultaren que no están considerados como residuos peligrosos, de acuerdo a la normatividad aplicable.
+IV. Realizar, coordinar y publicar investigaciones y estudios sobre productos y servicios financieros, educación financiera y protección a los Usuarios;
 
-###### ARTÍCULO 20.
+V. Diseñar e instrumentar propuestas y estrategias que faciliten a la población en general, la comprensión de las características de los servicios y productos financieros que se ofrecen en el mercado;
 
-Los residuos sólidos urbanos deberán clasificarse en orgánicos e inorgánicos, con objeto de facilitar su separación primaria y secundaria, de conformidad con los Programas Estatal y Municipal para la Prevención y Gestión Integral de los Residuos que al efecto se elaboren y demás disposiciones aplicables.
+VI. Desarrollar y, en su caso, coadyuvar junto con otras instituciones públicas y privadas en la realización de acciones y proyectos que contribuyan al fomento de la educación financiera;
 
-> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2023)</small>
+VII. Establecer y mantener relaciones con instituciones educativas, financieras, medios de comunicación, autoridades y organismos públicos y privados, y organismos internacionales, con la finalidad de fomentar la educación financiera;
 
-Todo generador de residuos sólidos urbanos tiene la obligación de separarlos en orgánicos e inorgánicos desde su fuente.
+> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 2023)</small>
+VII Bis. Establecer los mecanismos de colaboración con las Instituciones Financieras para elaborar y difundir los programas y contenidos en materia de educación financiera;
 
-Para tal efecto, las autoridades municipales, en el marco de sus respectivas competencias, promoverán programas de concientización, para la separación de los residuos sólidos urbanos, distinguiendo entre orgánicos e inorgánicos. De igual manera, implementarán acciones, medidas y sanciones para su cumplimiento.
+VIII. Proponer a las autoridades competentes, programas y contenidos en materia de educación financiera;
 
-###### ARTÍCULO 21.
+IX. Coordinar y ejecutar el Programa anual de publicaciones de la Comisión Nacional;
 
-En aquellas actividades que en cualquiera de sus procesos de producción la materia prima no sea reintegrada a éstos o se desechen, deberán ser analizados mediante las pruebas respectivas, para determinar si son considerados residuos peligrosos, en caso de que no lo sea (sic), se considerarán como residuos de manejo especial, por tanto estarán sujeto (sic) a la regulación de la presente Ley y su Reglamento.
+X. Diseñar y administrar herramientas web que difundan información o contenidos en materia de educación financiera;
 
-###### ARTÍCULO 22.
+XI. Administrar y actualizar el Sitio Web de Cuadros Comparativos de servicios y productos financieros de la Comisión Nacional
 
-La clasificación de los residuos de manejo especial y sólidos urbanos sujetos a planes de manejo, se llevará a cabo de conformidad con los criterios que establezcan la presente Ley y su Reglamento, la LGPGIR, las normas oficiales mexicanas, las normas ambientales estatales y demás disposiciones jurídicas aplicables.
+XII. Coordinar el Consejo Editorial de la revista “Proteja su Dinero”;
 
-###### ARTÍCULO 23.
+XIII. Elaborar investigaciones, entrevistas, crónicas, reportajes y otros productos periodísticos para la revista “Proteja su Dinero”;
 
-La Secretaría y los Municipios en el ámbito de sus respectivas competencias, deberán elaborar instrumentar los programas locales para la prevención y gestión integral de los residuos sólidos urbanos y de manejo especial, de conformidad con esta Ley y demás disposiciones jurídicas aplicables. Dichos programas deberán contener al menos lo siguiente:
+XIV. Planear y coordinar la realización de eventos para difundir y promover la educación financiera entre la población;
 
-I. El diagnóstico básico para la gestión integral de residuos, en el que se precise la capacidad y efectividad de la infraestructura disponible para satisfacer la demanda de servicios;
+XV. Participar y promover la realización de foros nacionales e internacionales cuyo objeto sea acorde con el de la Comisión Nacional, a fin de facilitar el intercambio de experiencias;
 
-II. La política estatal y municipal en materia de residuos de manejo especial y sólidos urbanos;
+XVI. Planear y ejecutar los programas de difusión y comunicación social de la Comisión Nacional;
 
-III. La definición de objetivos y metas estatales para la prevención de la generación y el mejoramiento; de la gestión de los residuos sólidos urbanos y de manejo especial, así como las estrategias y plazos para su cumplimiento;
+XVII. Establecer y mantener vínculos con los distintos medios de comunicación, a fin de promover entrevistas con los servidores públicos de la Comisión Nacional para la difusión de los servicios y acciones relevantes del Organismo;
 
-IV. Los medios de financiamiento de las acciones consideradas en los programas;
+XVIII. Organizar y supervisar entrevistas y conferencias de prensa, así como emitir boletines informativos en las materias competencia de la Comisión Nacional;
 
-V. Los mecanismos para fomentar la vinculación entre los programas municipales correspondientes, a fin de crear sinergias; y
+XIX. Evaluar las campañas informativas de la Comisión Nacional;
 
-VI. La asistencia técnica que en su caso brinde la Secretaría.
+XX. Elaborar y difundir de publicaciones institucionales, campañas informativas y cualquier otro material que contribuya al fomento de la educación financiera;
 
-### CAPÍTULO I. DE LOS PROGRAMAS ESTATAL Y MUNICIPALES PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS
+XXI. Dar seguimiento a la información divulgada por los medios de comunicación acerca de las actividades de la Comisión Nacional, informando de ello a las unidades administrativas de la misma;
+
+XXII. Coordinar la distribución de las publicaciones desarrolladas por la Comisión Nacional para el cumplimiento de sus fines, y
+
+XXIII. Diseñar y desarrollar estrategias que permitan consolidar la imagen y posicionamiento de la Comisión Nacional ante la población en general.
+
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
+
+Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el de Análisis de Servicios y Productos Financieros, las contenidas en las fracciones I, III, IV, V, VII, X, XI, XIII y XV; el del Buró de Entidades Financieras, la contenida en la fracción III Bis; el de Promoción y Desarrollo Educativo, las contenidas en las fracciones I, II, V a VIII, X, XII a XV, y XX; el de Comunicación Social, las contenidas en las fracciones IX, y XVI a XXIII.
+
+###### Artículo 16.
+
+Corresponde a la Dirección General de Evaluación y Vigilancia, el ejercicio de las siguientes atribuciones:
+
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+
+I. Llevar a cabo la supervisión de las Instituciones Financieras, en el ámbito de su respectiva competencia;
+
+II. Establecer los programas de transparencia financiera y calidad de la información respecto al análisis, evaluación y dictaminación de contratos de adhesión, publicidad, estados de cuenta y comprobantes de operación de las Instituciones Financieras;
+
+III. Coadyuvar y actuar como enlace, en el ámbito de su competencia, con las autoridades, organizaciones gremiales e Instituciones Financieras, para lograr una relación equitativa entre estas últimas y los Usuarios;
+
+IV. Actuar como enlace con las dependencias y entidades de la Administración Pública Federal en asuntos relacionados con el ejercicio de sus atribuciones;
+
+V. Solicitar a las Instituciones Financieras y a las autoridades correspondientes, la información necesaria para el ejercicio de la facultad de vigilancia y las demás atribuciones conferidas a esta Dirección General por el presente Estatuto;
+
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
+
+VI. Remitir a la Dirección General de Arbitraje y Sanciones, en un plazo que no excederá de treinta días hábiles contado a partir del día siguiente a aquél en que concluido el procedimiento de supervisión respectivo, los casos en los que presuntamente se ha contravenido la Ley o aquellas disposiciones cuyo incumplimiento corresponda sancionar a la Comisión Nacional, para efectos de que se emplace e imponga la multa correspondiente;
+
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+
+VII. Emitir recomendaciones a las Instituciones Financieras, previa opinión de la Dirección General de Servicios Legales, y, en su caso, hacerlas del conocimiento de sus organismos, asociaciones gremiales y del público en general;
+
+> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+
+VII Bis. Actuar como consultor en materia de productos y servicios financieros y elaborar estudios relacionados con dichas materias. Asimismo, emitir las opiniones técnicas financieras, respecto a los productos y servicios que otorguen las Instituciones Financieras, para resolver las consultas de los Usuarios;
+
+VIII. Resolver las consultas que se presenten sobre transparencia financiera y calidad de la información;
+
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+
+IX. Revisar y, en su caso, ordenar la modificación de los modelos de contratos de adhesión de las Instituciones Financieras;
+
+X. (DEROGADA, D.O.F. 2 DE JUNIO DE 2014)
+
+XI. (DEROGADA, D.O.F. 2 DE JUNIO DE 2014)
+
+XII. Ordenar, previa opinión de la Dirección General de Servicios Legales, la suspensión del uso de los modelos de contratos de adhesión utilizados por las Entidades Financieras, hasta en tanto sean modificados;
+
+XIII. Autorizar los contratos de adhesión que así lo requieran, previo a su operación e inscripción en el Registro de Contratos de Adhesión;
+
+XIV. Integrar y mantener actualizado en términos de ley, el Registro de Contratos de Adhesión;
+
+> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+
+XIV Bis. Determinar la existencia de cláusulas abusivas en los contratos de adhesión y ordenar a las Instituciones Financieras la supresión de éstas, previa opinión de la Dirección General de Servicios Legales;
+
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+
+XV. Revisar y, en su caso, ordenar modificaciones a los estados de cuenta, comprobantes de operación y documentos que utilizan las Instituciones Financieras para informar a los Usuarios sobre el estado que guardan las operaciones relacionadas con el servicio que éstos hayan contratado con aquéllas, en los términos de las disposiciones legales aplicables;
+
+XVI. (DEROGADA, D.O.F. 2 DE JUNIO DE 2014)
+
+XVII. Requerir, revisar y, en su caso, autorizar a las Instituciones Financieras la información que dirijan a los Usuarios, relativa a las características de sus operaciones activas, pasivas y de servicios;
+
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+
+XVIII. Analizar y, en su caso, ordenar la suspensión, previa opinión de la Dirección General de Servicios Legales, de la publicidad y de la información que induzca a error dirigida a los Usuarios sobre los servicios y productos financieros que ofrezcan las Instituciones Financieras, así como aquella que no cumpla con las disposiciones de carácter general que la Comisión Nacional emita para tal efecto;
+
+XIX. Elaborar, previa opinión de la Dirección General de Servicios Legales los proyectos y actualizar el contenido técnico y operativo de las disposiciones de carácter general que emita la Comisión Nacional;
+
+XX. Vigilar que las Instituciones Financieras cumplan con las disposiciones legales referentes al Sistema Financiero, así como las de carácter general emitidas por la Comisión Nacional, con el objeto de procurar la protección de los intereses de los Usuarios;
+
+XXI. Solicitar a las Sociedades Financieras de Objeto Múltiple, Entidades No Reguladas, que le exhiban las autorizaciones de las personas respecto de las cuales hayan solicitado información a las sociedades de información crediticia;
+
+XXII. Solicitar, previa opinión de la Dirección General de Servicios Legales, a las autoridades competentes en materia de radio, televisión y otros medios de prensa, la suspensión de la difusión de publicidad, en términos de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros;
+
+> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+
+XXII Bis. Vigilar que las instituciones de crédito den por terminadas las operaciones de los Usuarios que lo soliciten de conformidad con la Ley de Instituciones de Crédito;
+
+> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+
+XXII Ter. Vigilar que las entidades financieras den por terminados los créditos al consumo de los Clientes que lo soliciten de conformidad con la Ley para la Transparencia y Ordenamiento de los Servicios Financieros;
+
+> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+
+XXII Quáter. Vigilar que las Instituciones de Crédito que abran cuentas propias con destino a catástrofes naturales cumplan con las disposiciones aplicables;
+
+XXIII. Fungir como Titular de la Unidad de Enlace coordinando las actividades de atención y resolución a las solicitudes de acceso a la información pública gubernamental que se reciban en la Comisión Nacional, en términos de (sic) Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
+
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+XXIV. Establecer, en coordinación con la Dirección General de Dictaminación y Supervisión, el Programa Anual de Supervisión de las Sociedades Financieras de Objeto Múltiple, Entidades No Reguladas, con base en los lineamientos que al efecto emita la Comisión Nacional;
+
+XXV. Proponer a la Dirección General de Dictaminación y Supervisión, la realización de visitas de inspección especiales, así como visitas de verificación especiales;
+
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
+
+XXV Bis. Solicitar a la Comisión Nacional Bancaria y de Valores, la realización de visitas de inspección ordinarias y especiales a las Instituciones Financieras, así como el resultado que se obtenga con motivo de dichas visitas, y llevar a cabo dicha solicitud, en coordinación con la Dirección General de Dictaminación y Supervisión, en el supuesto previsto en la fracción IV del artículo 17 del presente Estatuto;
+
+> <small>(ADICIONADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+XXV Ter. Proponer a la Dirección General de Educación Financiera, los temas sobre transparencia financiera a difundir entre los Usuarios.
+
+> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+
+XXV Quáter. Revisar, ordenar modificaciones y autorizar, en el ámbito de su competencia, los programas de autocorrección de las Instituciones Financieras;
+
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+
+XXVI. Supervisar que las Instituciones Financieras no incurran en actividades que se apartan de las sanas prácticas;
+
+> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+
+XXVII. Ordenar, previa opinión de la Dirección General de Servicios Legales, e informar al Comité de Supervisión, los programas de cumplimiento forzoso, que llevarán a cabo las Instituciones Financieras con motivo de las observaciones e irregularidades detectadas en las facultades de supervisión, dentro de su respectivo ámbito de competencia;
+
+XXVIII. Publicar, cuando se considere pertinente, los resultados de los programas de supervisión en materia de transparencia financiera;
+
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
+
+XXIX. Solicitar a la Dirección General de Arbitraje y Sanciones la orden de suspensión de la celebración de nuevas operaciones y servicios similares a las Entidades Financieras, en los casos previstos en el artículo 13 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.
+
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2014)</small>
+
+Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia; el de Evaluación de Productos de Crédito y Captación, las contenidas en las fracciones I, II, III, V a XX, XXII a XXII Quáter, XXV Bis a XXIX; el de Evaluación de Productos de Seguros, Fianzas y Ahorro, las contenidas en las fracciones I, II, III, V a XII, XIV Bis, XV a XX, XXII, XXII Ter, XXIII; XXV Bis a XXV Quáter, XXVI a XXIX, el de Vigilancia, Cumplimiento y Enlace con Autoridades, las contenidas en las fracciones I, II, III a XIII, XV a XXII, XXII Ter, XXIV a XXIX.
+
+###### Artículo 17.
+
+Corresponde a la Dirección General de Dictaminación y Supervisión el ejercicio de las siguientes atribuciones:
+
+I. Solicitar a las Instituciones Financieras y a las autoridades correspondientes, la información, documentación y elementos necesarios para el ejercicio de las atribuciones previstas en el presente artículo, ya sea por escrito o por cualquier otro medio, incluyendo los electromagnéticos, de conformidad con la Ley y otras disposiciones legales;
+
+II. Coadyuvar con la Dirección General de Evaluación y Vigilancia en el establecimiento del Programa Anual de Supervisión, con base en los lineamientos que al efecto emita la Comisión Nacional;
+
+III. Realizar las visitas de verificación a las sociedades financieras de objeto múltiple, entidades no reguladas, conforme al Programa Anual de Supervisión de la Comisión Nacional;
+
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
+
+IV. Solicitar a la Comisión Nacional Bancaria y de Valores, en coordinación con la Dirección General de Evaluación y Vigilancia, la realización de visitas de inspección ordinarias y especiales a las Unidades Especializadas de las Instituciones Financieras, así como el resultado que se obtenga con motivo de dichas visitas;
+
+V. Requerir a las Delegaciones la realización de visitas de verificación a las sociedades financieras de objeto múltiple, entidades no reguladas;
+
+VI. Determinar, en coordinación con la Dirección General de Evaluación y Vigilancia, la realización de visitas de inspección especiales, así como visitas de verificación especiales;
+
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+VII. Recabar, durante las visitas de verificación que realice, elementos que sirvan para acreditar hechos, actos u omisiones de los cuales pueda presumirse la violación a disposiciones cuya supervisión se encuentre conferida a la Comisión Nacional;
+
+VIII. Expedir y notificar los oficios de comisión para el ejercicio de las atribuciones previstas en las fracciones III y V anteriores;
+
+IX. Aprobar el informe general de las visitas efectuadas por cada Verificador;
+
+> <small>(ADICIONADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+IX Bis. Enviar a la Dirección General de Evaluación y Vigilancia, los resultados de las acciones realizadas en ejercicio de la facultad de verificación;
+
+> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+
+IX Ter. Revisar, ordenar modificaciones y autorizar, en el ámbito de su competencia, los programas de autocorrección de las Instituciones Financieras;
+
+> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+
+IX Quáter. Llevar a cabo la supervisión de las Instituciones Financieras, en el ámbito de su respectiva competencia;
+
+> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+
+IX Quinquies. Ordenar, previa opinión de la Dirección General de Servicios Legales, e informar al Comité de Supervisión, los programas de cumplimiento forzoso, que llevarán a cabo las Instituciones Financieras con motivo de las observaciones e irregularidades detectadas en las facultades de vigilancia y verificación, dentro de su respectivo ámbito de competencia;
+
+X. (DEROGADA, D.O.F. 2 DE JUNIO DE 2014)
+
+XI. (DEROGADA, D.O.F. 2 DE JUNIO DE 2014)
+
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+
+XII. Requerir el cumplimiento de las obligaciones de las Unidades Especializadas respecto al artículo 50 Bis de la Ley;
+
+XIII. (DEROGADA, D.O.F. 18 DE OCTUBRE DE 2011)
+
+XIV. (DEROGADA, D.O.F. 18 DE OCTUBRE DE 2011)
+
+XV. Administrar los sistemas empleados por las Unidades Especializadas de las Instituciones Financieras para enviar la información relativa a su constitución y el número de consultas y reclamaciones recibidas; así como capacitar al personal de las mismas en la utilización de dichos sistemas;
+
+XVI. Mantener actualizado el Directorio de Unidades Especializadas de las Instituciones Financieras que tengan por objeto la atención a Usuarios y el Registro de Información de Unidades Especializadas;
+
+XVII. (DEROGADA, D.O.F. 2 DE JUNIO DE 2014)
+
+XVIII. Verificar que el procedimiento de conciliación se lleve a cabo en la forma y términos previstos en la Ley y demás disposiciones aplicables, así como emitir las observaciones correspondientes, a fin de subsanar las irregularidades detectadas o evitar actos, hechos u omisiones que impliquen el incumplimiento a lo establecido en la Ley y en dichas disposiciones;
+
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+
+XIX. Autorizar a las Delegaciones la admisión a trámite de las reclamaciones que sean presentadas en contra de las Instituciones Financieras, que se determinen relevantes;
+
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+
+XX. Desechar mediante oficio, las solicitudes de emisión de acuerdos de trámite que contengan el dictamen por notoria improcedencia, cuando no se cuente con los elementos y las cuantías que establece el artículo 68 Bis de la Ley, en cada supuesto; así como atender las solicitudes de dictámenes de los Usuarios que en los supuestos de esta fracción, aporten nuevos elementos para solicitar de nueva cuenta la emisión del dictamen;
+
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+
+XXI. Emitir los acuerdos de trámite que contengan el dictamen que establece el artículo 68 Bis de la Ley, previo acuerdo del Comité de Dictámenes;
+
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+
+XXII. Solicitar a los Usuarios y a las Instituciones Financieras información para allegarse de elementos en términos del artículo 68 Bis de la Ley;
+
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+XXIII. Asesorar a las Delegaciones sobre la documentación e información que los expedientes habrán de contener para la elaboración de los dictámenes solicitados por los Usuarios;
+
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+
+XXIV. Dar seguimiento a los acuerdos de trámite que contengan el Dictamen que establece el artículo 68 Bis de la Ley, que el Usuario presente como prueba en los procedimientos de defensoría legal que brinde la Comisión Nacional;
+
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+XXV. Convocar a las sesiones del Comité de Dictámenes;
+
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+XXVI. Fungir como Secretario del Comité a que se refiere la fracción anterior;
+
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+XXVII. Notificar los actos, acuerdos y resoluciones que se deriven de los procedimientos que le corresponda conocer y que deban hacerse del conocimiento de las partes;
+
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
+
+XXVIII. Remitir a la Dirección General de Arbitraje y Sanciones, en un plazo que no excederá de treinta días hábiles contado a partir del día siguiente a aquél en que haya tenido conocimiento de la infracción de que se trate, los casos en los que presuntamente se ha contravenido la Ley o aquellas disposiciones cuyo incumplimiento corresponda sancionar a la Comisión Nacional, para efectos de que se emplace e imponga la multa correspondiente;
+
+> <small>(ADICIONADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+XXIX. Turnar a la Dirección General de Servicios Legales, en un plazo no mayor a cinco días hábiles, contados a partir del día siguiente a aquél en que los haya recibido, los recursos de revisión con el expediente respectivo para su substanciación, y desechar por improcedentes aquellos que se refieran a actos distintos a los que prevé el artículo 99 de la Ley; 50 de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros y 110 de la Ley de Instituciones de Crédito, según corresponda, y
+
+> <small>(ADICIONADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+XXX. Elaborar la información estadística relacionada con los servicios proporcionados conforme a sus atribuciones, para su remisión a la Dirección General de Desarrollo Financiero y Operativo.
+
+(REFORMADO, D.O.F. 18 DE OCTUBRE DE 2011) (F. DE E. D.O.F. 9 DE NOVIEMBRE DE 2011)
+
+Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el de Dictaminación, las contenidas en las fracciones I y de la XX a XXVI, y el de Verificación, Control Normativo y Unidades Especializadas, las contenidas en las fracciones I a XVIII.
+
+###### Artículo 18.
+
+Corresponde a la Dirección General de Defensoría, Interventoría y Consultiva el ejercicio de las siguientes atribuciones:
+
+I. Recibir y atender las solicitudes de defensoría legal, así como de asistencia jurídica en materia penal, que presenten los Usuarios;
+
+II. Procurar, proteger y representar individualmente los intereses de los Usuarios;
+
+III. Llevar a cabo las acciones, recursos, trámites o gestiones que procedan ante autoridades administrativas y jurisdiccionales en defensa de los Usuarios;
+
+IV. Asesorar y apoyar a los defensores de la Comisión Nacional;
+
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
+
+V. Supervisar y evaluar el desempeño de los defensores adscritos a esta unidad administrativa;
+
+VI. Brindar a los Usuarios el servicio de orientación jurídica especializada;
+
+VII. Determinar, con base en los criterios establecidos por la Junta, la procedencia del servicio de defensoría y asistencia jurídica a los Usuarios en materia penal;
+
+VIII. Asignar defensores para la atención de los asuntos que presenten los Usuarios;
+
+IX. Desempeñar el servicio de defensoría legal y autorizar a las Delegaciones la prestación de dicho servicio;
+
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
+
+X. Dar seguimiento y emitir las observaciones que correspondan, respecto de los informes rendidos por las Delegaciones con motivo del servicio de defensoría legal que presten;
+
+XI. Brindar a las Delegaciones asesoría en materia de asistencia jurídica penal, así como en materia de orientación jurídica especializada;
+
+XII. Emplear todos los medios legales existentes a fin de lograr el cumplimiento o ejecución de las sentencias que resulten favorables para los Usuarios;
+
+XIII. Brindar asistencia al Usuario que pretenda coadyuvar con el Ministerio Público cuando a juicio de la Comisión Nacional sea víctima u ofendido por algún delito derivado de la contratación de productos o servicios financieros, cometido por las Instituciones, sus consejeros, directivos, funcionarios, empleados y representantes;
+
+XIV. Procurar a través de los procedimientos establecidos en las leyes que regulan el Sistema Financiero que las Instituciones cumplan con las operaciones y servicios contratados con los Usuarios;
+
+XV. Asistir a los Usuarios para demandar el cumplimiento forzoso de los convenios que den por terminado el procedimiento conciliatorio;
+
+XVI. Notificar los actos, acuerdos y resoluciones que se deriven de los procedimientos que le corresponda conocer y que deban hacerse del conocimiento de los Usuarios y las autoridades;
+
+XVII. Elaborar sinopsis de los juicios en los que se hayan obtenido sentencias favorables para los Usuarios y proponer su publicación;
+
+XVIII. Designar, previa autorización del Vicepresidente Jurídico, a los Interventores que protegerán los intereses de los acreedores en los concursos mercantiles, de acuerdo con lo señalado en la ley de la materia. Tratándose de servidores públicos de las Delegaciones, la designación de Interventores se efectuará, además, en coordinación con el Vicepresidente de Delegaciones;
+
+> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+
+XVIII Bis. Representar los intereses colectivos de los acreedores de las Instituciones de Banca Múltiple en liquidación Judicial, pudiendo formular observaciones y solicitar aclaraciones respecto del contenido de los informes a que se refiere el artículo 236 de la Ley de Instituciones de Crédito, así como solicitar al Liquidador Judicial el examen de algún libro o documento, o medio de almacenamiento de datos respecto de cuestiones que puedan afectar los intereses de los acreedores;
+
+XIX. Vigilar que los interventores designados por la Comisión Nacional ejerzan adecuadamente las obligaciones previstas en la Ley de Concursos Mercantiles;
+
+XX. Mantener comunicación permanente con las autoridades competentes, a fin de proteger adecuadamente los intereses de los acreedores en todos los procesos de concursos mercantiles en los que tenga intervención la Comisión Nacional;
+
+XXI. Representar a la Comisión Nacional en los comités técnicos de los fideicomisos que al efecto se establezcan, como consecuencia de los distintos procesos de concursos mercantiles de Instituciones de Crédito;
+
+XXII. Solicitar a las instituciones financieras y autoridades competentes, la información y/o documentación necesarias para desempeñar adecuadamente las funciones que le competen;
+
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+XXIII. Atender y resolver las consultas de las Instituciones Financieras y de los Usuarios y en coordinación con la Dirección General de Desarrollo Financiero, Estadístico y Operativo en materia financiera y contable;
+
+XXIV. Recibir y tramitar las solicitudes de los Usuarios que se presuman beneficiarios de algún seguro de vida, ya sean individuales o colectivos, incluyendo aquellos que se obtienen por la contratación de productos y servicios financieros;
+
+XXV. Coordinar la forma y términos en que se atenderán las solicitudes de los Usuarios que se presuman beneficiarios de algún seguro de vida, presentadas en las Delegaciones;
+
+XXVI. Participar en el diseño y ejecución de los programas de capacitación permanente para los Defensores de la Comisión Nacional;
+
+XXVII. Elaborar la información estadística relacionada con los servicios proporcionados conforme a sus atribuciones, para su remisión a la Dirección General de Desarrollo Financiero y Operativo;
+
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
+
+XXVIII. Remitir a la Dirección General de Arbitraje y Sanciones, en un plazo que no excederá de treinta días hábiles contado a partir del día siguiente a aquél en que haya tenido conocimiento de la infracción de que se trate, los casos en los que presuntamente se ha contravenido la Ley o aquellas disposiciones cuyo incumplimiento corresponda sancionar a la Comisión Nacional, para efectos de que se emplace e imponga la multa correspondiente;
+
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+
+XXIX. Ejercitar las acciones colectivas, o asumir la representación de la colectividad, en nombre de los Usuarios, que determine el Comité de Acciones Colectivas e informar a dicho órgano colegiado sobre el avance y seguimiento de los juicios que se interpongan en esta materia, asimismo, ejercer las atribuciones que le correspondan a la Comisión Nacional en términos de lo dispuesto en el Libro Quinto del Código Federal de Procedimientos Civiles;
+
+> <small>(ADICIONADA, D.O.F. 14 DE MARZO DE 2012)</small>
+
+XXIX Bis. Convocar al Comité de Acciones Colectivas y fungir como secretario del mismo, y
+
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
+
+XXX. Hacer del conocimiento de las autoridades reguladoras, los actos u omisiones que se deriven de las operaciones de carácter financiero en perjuicio de los Usuarios, para la determinación de sanciones administrativas.
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2012)</small>
+
+Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el Consultivo, las contenidas en las fracciones I, III, VI, VII, IX, XI, XVI y XXII a XXVIII; el de Defensa a Usuarios, las contenidas en las fracciones II, III a V, VIII a X, XII, XV a XVII, XXII, XXVI, XXVII, XXVIII, XXIX y XXIX Bis, y el de Interventoría y Asuntos Penales, las contenidas en las fracciones III, XI, XIII, XIV, XVI, XVIII a XXII, XXVI, XXVII, XXVIII y XXX.
+
+###### Artículo 19.
+
+Corresponde a la Dirección General de Servicios Legales el ejercicio de las siguientes atribuciones:
+
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+I. Actuar como consejero jurídico de la Comisión Nacional, y proporcionar apoyo y asesoría jurídica a las diversas unidades administrativas del organismo;
+
+II. Actuar como enlace y atender los comunicados, requerimientos y consultas emitidos por las dependencias y entidades de la Administración Pública Federal en asuntos de carácter jurídico;
+
+III. Fungir como órgano de consulta del Gobierno Federal en materia de protección al Usuario;
+
+IV. Coadyuvar, en el ámbito de su competencia, con las autoridades en materia financiera para lograr una relación equitativa entre las Instituciones Financieras y los Usuarios, así como el sano desarrollo del sistema financiero mexicano;
+
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+
+V. Emitir los criterios jurídicos a seguir por la Comisión Nacional, en relación con las atribuciones que le son conferidas en diversos ordenamientos;
+
+VI. Difundir entre las unidades administrativas de la Comisión Nacional las disposiciones normativas que regulan al sistema financiero mexicano o cualquier otra disposición jurídica que pueda ser del interés del organismo;
+
+VII. Compilar las disposiciones jurídicas y administrativas, la jurisprudencia y la doctrina que se relaciona con el sistema financiero mexicano y turnarlas para su sistematización a la Dirección General de Desarrollo Financiero, Estadístico y Operativo, en un plazo no mayor a diez días hábiles, contados a partir del día siguiente a aquél en que se hayan publicado en el Diario Oficial de la Federación;
+
+VIII. Elaborar estudios jurídicos y de derecho comparado relacionados con el sistema financiero mexicano, y proponer, en su caso, a la Dirección General de Educación Financiera la publicación de los mismos;
+
+IX. Proponer a la Dirección General de Desarrollo Financiero, Estadístico y Operativo, con base en la información derivada de los procedimientos a cargo de la Vicepresidencia Jurídica, la elaboración de recomendaciones dirigidas a las Instituciones Financieras;
+
+X. Emitir recomendaciones a las autoridades federales sobre los aspectos jurídicos de iniciativas de leyes, anteproyectos y proyectos de reglamentos, acuerdos, circulares, bases y demás ordenamientos relacionados con las actividades de la Comisión Nacional;
+
+XI. Formular los proyectos de iniciativas de leyes, reglamentos, decretos y demás ordenamientos jurídicos relacionados con las actividades de la Comisión Nacional;
+
+XII. Elaborar acuerdos, circulares, bases y demás ordenamientos jurídicos relacionados con las actividades de la Comisión Nacional;
+
+XIII. Elaborar las disposiciones de carácter general que expresamente le confiere la Ley y otros ordenamientos;
+
+XIV. Formular recomendaciones al Ejecutivo Federal a través de la Secretaría, para la elaboración de iniciativas de leyes, reglamentos, decretos y acuerdos en las materias competencia del organismo;
+
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+
+XV. Emitir opinión respecto de las recomendaciones que proponga la Dirección General de Evaluación y Vigilancia;
+
+XVI. Revisar y autorizar los convenios, contratos y demás actos jurídicos que vaya a suscribir la Comisión Nacional a través de sus diferentes unidades administrativas, así como establecer los criterios jurídicos a que deberán sujetarse estos instrumentos y llevar el registro de los mismos;
+
+XVII. Otorgar asesoría jurídica a las unidades administrativas de la Comisión Nacional respecto de la contratación de obras públicas, adquisición y enajenación de bienes, arrendamientos y la prestación de servicios de cualquier naturaleza;
+
+XVIII. Asesorar a la Dirección General de Bienes y Servicios en el procedimiento de conciliación a que se refieren la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y la Ley de Obras Públicas y Servicios Relacionados con las Mismas, así como participar en el procedimiento administrativo de rescisión de contratos o pedidos previsto en las citadas leyes;
+
+XIX. Fungir como enlace técnico entre la Comisión Nacional y la Comisión Federal de Mejora Regulatoria;
+
+XX. Coordinar el proceso de mejora regulatoria al interior de la Comisión Nacional;
+
+XXI. Someter a la consideración de la Comisión Federal de Mejora Regulatoria los programas de mejora regulatoria en relación con la normativa y trámites que aplica la Comisión Nacional, previa opinión de las Vicepresidencias involucradas, así como elaborar y enviar los reportes periódicos sobre los avances correspondientes;
+
+XXII. Dictaminar las políticas, lineamientos, procedimientos, criterios y demás documentos normativos internos que pretendan emitir las unidades administrativas del organismo;
+
+XXIII. Gestionar la publicación en el Diario Oficial de la Federación de las disposiciones, resoluciones o avisos que deban emitirse conforme a la Ley, la Ley General de Organizaciones y Actividades Auxiliares del Crédito, la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, este Estatuto Orgánico y demás disposiciones aplicables, con excepción de aquellas que correspondan a la Dirección General de Bienes y Servicios;
+
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+
+XXIV. Tener a su cargo la representación legal de la Comisión Nacional y de las autoridades centrales para intervenir en los procedimientos judiciales, administrativos o laborales en los que éstas sean parte o puedan resultar afectadas, ejecutando las acciones y oponiendo excepciones y defensas, así como interponer los recursos que procedan y, en su caso, desistirse de éstos;
+
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+XXV. Representar a la Comisión Nacional en los juicios de amparo e intervenir en éstos cuando el organismo tenga el carácter de tercero perjudicado, elaborar los informes previos y justificados, así como interponer los recursos correspondientes y proveer el cumplimiento de las ejecutorias;
+
+XXVI. Denunciar ante el Ministerio Público, cuando se tenga conocimiento de hechos que puedan ser constitutivos de delitos en general y ante la Secretaría cuando se trate de delitos tipificados en leyes que establezcan que el delito se persiga a petición de dicha Secretaría, siempre y cuando se encuentre dentro del ámbito de competencia de la Comisión Nacional;
+
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+
+XXVII. Asesorar en materia laboral a las unidades administrativas de la Comisión Nacional y apoyarles en la elaboración de constancias y actas administrativas relacionadas con las bajas y las sanciones que se pretenda imponer al personal de base o de confianza y, en general, participar en los asuntos laborales del organismo;
+
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+
+XXVIII. Atender los comunicados, requerimientos y recomendaciones dirigidos al organismo por las autoridades, solicitando a las unidades administrativas la información conducente;
+
+XXIX. Ordenar el remate de valores invertidos propiedad de las Instituciones y Sociedades Mutualistas de Seguros y de las Instituciones de Fianzas, conforme a lo previsto en las disposiciones legales aplicables;
+
+XXX. Atender, substanciar y resolver los recursos de revisión que se interpongan en contra de las resoluciones que emitan las diversas unidades administrativas de la Comisión Nacional, en términos de las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+
+XXX Bis. Revisar y emitir opinión a los proyectos de estatutos, que le haga llegar la Dirección General de Desarrollo Financiero Estadístico y Operativo, que presenten los interesados en constituirse como Sociedad Financiera de Objeto Múltiple, para que esta última les notifique dicha opinión;
+
+XXXI. Solicitar información o documentación a las unidades administrativas de la Comisión Nacional, necesarias para el ejercicio de las atribuciones establecidas en el presente Estatuto;
+
+XXXII. Notificar los actos, acuerdos y resoluciones que se deriven de los procedimientos que le corresponda conocer y que deban hacerse del conocimiento de los particulares;
+
+XXXIII. Solicitar a las autoridades federales, así como a las Instituciones Financieras, la información y elementos necesarios para el cumplimiento de sus atribuciones;
+
+XXXIV. (DEROGADA, D.O.F. 7 DE NOVIEMBRE DE 2014)
+
+XXXV. (DEROGADA, D.O.F. 7 DE NOVIEMBRE DE 2014)
+
+XXXVI. (DEROGADA, D.O.F. 7 DE NOVIEMBRE DE 2014)
+
+XXXVII. (DEROGADA, D.O.F. 7 DE NOVIEMBRE DE 2014)
+
+XXXVII Bis. (DEROGADA, D.O.F. 7 DE NOVIEMBRE DE 2014)
+
+XXXVIII. (DEROGADA, D.O.F. 7 DE NOVIEMBRE DE 2014)
+
+XXXVIII Bis. (DEROGADA, D.O.F. 7 DE NOVIEMBRE DE 2014)
+
+XXXIX. (DEROGADA, D.O.F. 7 DE NOVIEMBRE DE 2014)
+
+XL. (DEROGADA, D.O.F. 7 DE NOVIEMBRE DE 2014)
+
+XLI. (DEROGADA, D.O.F. 7 DE NOVIEMBRE DE 2014)
+
+XLII. Establecer los lineamientos con base en los cuales se ejercerán las funciones de vigilancia, verificación, prevención y corrección, así como la forma en que la Comisión Nacional ordenará a las Instituciones Financieras los programas de cumplimiento forzoso correspondientes;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+XLII Bis. Fungir como secretario del Comité de Supervisión;
+
+XLIII. Opinar, previa solicitud de la Dirección General de Evaluación y Vigilancia, sobre la modificación o la suspensión del uso de los modelos de contratos de adhesión utilizados por las Entidades Financieras;
+
+XLIV. Opinar, previa solicitud de la Dirección General de Evaluación y Vigilancia, sobre la suspensión de la publicidad que realicen las Entidades Financieras;
+
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+
+XLV. Dar vista a la Comisión Federal de Competencia Económica, cuando en el ejercicio de sus facultades detecten la existencia de alguna de las prácticas mencionadas en el artículo 144 de la Ley de Instituciones de Crédito y 4 de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros;
+
+XLVI. (DEROGADA, D.O.F. 2 DE JUNIO DE 2014)
+
+> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+
+XLVI Bis. Administrar el registro de los despachos de cobranza, así como, dar trámite a las quejas por las malas prácticas de cobranza;
+
+XLVII. (DEROGADA, D.O.F. 7 DE NOVIEMBRE DE 2014)
+
+XLVIII. (DEROGADA, D.O.F. 7 DE NOVIEMBRE DE 2014)
+
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2012)</small>
+
+XLIX. Substanciar el Procedimiento de Responsabilidad Patrimonial del Estado, de conformidad con la Ley de la materia y la Ley Federal de Procedimiento Administrativo;
+
+> <small>(ADICIONADA, D.O.F. 14 DE MARZO DE 2012)</small>
+
+L. Fungir como coordinador académico de la Escuela de Estudios Financieros, y
+
+> <small>(ADICIONADA, D.O.F. 14 DE MARZO DE 2012)</small>
+
+LI. Ejercer las atribuciones contenidas en las fracciones I a IV, del artículo 23 Ter del presente Estatuto.
+
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
+
+Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el de Disposiciones, Convenios, Contratos y Recursos de Revisión, las contenidas en las fracciones I a XVII, XIX a XXIII, XXX a XXXIII, XLII a XLIII y XLVI Bis, L y LI; y el Contencioso, las contenidas en las fracciones XVIII, XXIV a XXIX, XXXI a XXXIII y XLIX.
+
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 19 Bis.
+
+Corresponde a la Dirección General de Arbitraje y Sanciones, el ejercicio de las siguientes atribuciones:
+
+I. Solicitar información o documentación a las unidades administrativas de la Comisión Nacional, necesarias para el ejercicio de las atribuciones establecidas en el presente Estatuto;
+
+II. Notificar los actos, acuerdos y resoluciones que se deriven de los procedimientos que le corresponda conocer y que deban hacerse del conocimiento de los particulares;
+
+III. Solicitar a las autoridades federales, así como a las Instituciones Financieras, la información y elementos necesarios para el cumplimiento de sus atribuciones;
+
+IV. Actuar como árbitro en los procedimientos de arbitraje previstos en la Ley, así como, emitir los laudos que deriven de ellos;
+
+V. Someter a la aprobación del Comité Arbitral Especializado los proyectos de laudos derivados de los procedimientos arbitrales substanciados dentro del Sistema Arbitral ante esta Comisión Nacional, así como, fungir como secretario de dicho Comité;
+
+VI. Llevar a cabo las acciones necesarias para el cumplimiento del laudo arbitral, así como la sentencia ejecutoriada derivada del mismo;
+
+VII. Operar y actualizar el "Registro de Ofertas Públicas";
+
+VIII. Operar y actualizar el "Registro de Árbitros Independientes";
+
+IX. Integrar, mantener actualizado y promover el Sistema Arbitral;
+
+X. Resolver sobre las cuestiones que se generen y emitir los criterios jurídicos a seguir por la Comisión Nacional en materia de arbitraje;
+
+XI. Atender y presentar ante el Comité de Condonación de Multas las solicitudes de condonación total o parcial de las multas impuestas a las Instituciones Financieras por la Comisión Nacional en los términos que establece la Ley y los demás ordenamientos legales aplicables;
+
+XII. Convocar a las sesiones del Comité de Condonación de Multas y fungir como secretario del mismo;
+
+XIII. Emplear las medidas de apremio a que se refiere la Ley y demás ordenamientos aplicables en los que se faculte a la Comisión Nacional su aplicación;
+
+XIV. Emplazar e imponer las multas y sanciones correspondientes a las Instituciones Financieras en términos de la Ley de Instituciones de Crédito y de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, y en su caso, hacerlas del conocimiento del público en general;
+
+XV. Emplazar e imponer las multas y sanciones correspondientes a las Instituciones Financieras, y en su caso, hacerlas del conocimiento del público en general;
+
+XVI. Emitir el acuerdo de abstención de sanción a las Instituciones Financieras;
+
+XVII. Fungir como secretario del Comité de Abstención de Sanciones;
+
+XVIII. Turnar a la Dirección General de Planeación, en un plazo no mayor a treinta días hábiles, contado a partir de la fecha en que haya quedado firme, la información relativa a las multas impuestas por la Comisión Nacional, para los efectos del artículo 23, fracción XIII, del presente Estatuto Orgánico;
+
+XIX. Ordenar, previa solicitud de la Dirección General de Evaluación y Vigilancia, la suspensión de la celebración de nuevas operaciones y servicios similares a las Entidades Financieras, en los casos previstos en el artículo 13 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, y
+
+XX. Ordenar la suspensión, inhabilitación o remoción de los funcionarios, empleados o apoderados de las Entidades Financieras que sean responsables de las infracciones previstas en los artículos 43 y 43 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.
+
+Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el de Arbitraje y Sanciones a Entidades Financieras, las contenidas en las fracciones I a XIV, XIX y XX, el de Sanciones a Instituciones Financieras, las contenidas en las fracciones I a III, y XV a XX.
+
+###### Artículo 20.
+
+Corresponde a las Direcciones Generales de Delegaciones Norte-Sur y Centro-Occidente, el ejercicio de las siguientes atribuciones:
+
+I. Acordar con el Vicepresidente de Delegaciones los asuntos de su competencia e informarle sobre el desarrollo de las actividades de las Delegaciones a su cargo;
+
+II. Supervisar y controlar los programas anuales de labores, así como los programas específicos de las Delegaciones, vigilando su cumplimiento, en coordinación con las unidades administrativas de la Comisión Nacional;
+
+III. Fijar los lineamientos para que las Delegaciones coordinen, con dependencias y entidades estatales y municipales, acciones concretas en beneficio de los Usuarios de servicios financieros;
+
+IV. Fijar los lineamientos para que las Delegaciones coordinen con agrupaciones privadas y sociales de la entidad federativa que corresponda, acciones concretas en beneficio de los Usuarios de servicios financieros;
+
+V. Coadyuvar con las unidades administrativas de la Comisión Nacional en la difusión y aplicación de la normativa que regula las actividades y competencia de cada una de ellas, sin perjuicio de la comunicación directa que puedan establecer las propias unidades administrativas del organismo con las Delegaciones, en cuyo caso, se deberá hacer del conocimiento de la Dirección General que corresponda;
+
+VI. Conocer y resolver sobre los asuntos que les sean planteados por las Delegaciones;
+
+VII. Coordinar las acciones de las Delegaciones que les sean adscritas;
+
+VIII. Acordar con el Vicepresidente de Delegaciones, la contratación del personal y asignación de los recursos materiales y financieros que requieran las Delegaciones, de conformidad con la normativa aplicable;
+
+IX. Evaluar el desempeño de las Delegaciones que se encuentren bajo su coordinación de conformidad con los lineamientos establecidos para tal efecto;
+
+X. Evaluar, analizar y participar con las autoridades en aquellos asuntos que por su impacto regional afecten a Usuarios respecto de uno o varios servicios o productos ofrecidos por las Instituciones Financieras;
+
+XI. Mantener comunicación con las Unidades Especializadas de las Instituciones Financieras para la atención de consultas y reclamaciones de los Usuarios;
+
+XII. Fijar las acciones para que las Delegaciones convoquen a sesionar a los consejos consultivos regionales, estatales y locales, así como el calendario anual en que sesionarán, para dar a conocer al Consejo Consultivo Nacional los asuntos que por su importancia así lo ameriten para coordinar su aprobación respectiva;
+
+XIII. Colaborar con las Delegaciones en el desarrollo de acciones específicas para el mejoramiento de los servicios de atención a los Usuarios;
+
+XIV. Establecer y mantener relaciones con autoridades e Instituciones Financieras, así como con organizaciones e instituciones estatales públicas y privadas, en coordinación con la Dirección General de Desarrollo Financiero, Estadístico y Operativo, para intercambiar estudios e información financiera;
+
+XV. Conocer de la información obtenida por la Dirección General de Desarrollo Financiero, Estadístico y Operativo, para los fines de supervisión y evaluación del desempeño de las Delegaciones;
+
+XVI. Gestionar en el ámbito de su competencia, previo acuerdo del Presidente y del Vicepresidente de Delegaciones, la celebración de acuerdos de coordinación y convenios con las autoridades federales o locales, con los sectores social y/o privado, con las Instituciones Financieras, asociaciones, organismos u otras agrupaciones, supervisando el cumplimiento de los compromisos que de ellos se deriven;
+
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
+
+XVII. Turnar a la Dirección General de Arbitraje y Sanciones, en el caso de infracciones cometidas durante el procedimiento conciliatorio, en un plazo que no excederá de treinta días hábiles, contado a partir del día siguiente a aquél en que haya concluido el procedimiento respectivo, los asuntos en que presuntamente se ha contravenido la Ley, para efectos de que se emplace e imponga la multa correspondiente;
+
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
+
+XVIII. Turnar a la Dirección General de Arbitraje y Sanciones, en el caso de infracciones cometidas fuera del procedimiento conciliatorio, en un plazo de treinta días hábiles, contado a partir del día siguiente a aquél en que haya tenido conocimiento de la infracción de que se trate, los asuntos en que presuntamente se ha contravenido la Ley o aquellas disposiciones cuyo incumplimiento corresponda sancionar a la Comisión Nacional, para efectos de que se emplace e imponga la multa correspondiente, y
+
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+
+XIX. Participar, en coordinación con la Dirección General de Evaluación y Vigilancia, con las autoridades, en apoyo al desarrollo de soluciones a problemáticas generadas por operaciones que no se apeguen a sanas prácticas financieras.
+
+Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de Enlace y Análisis Regional, conforme a su adscripción, las contenidas en las fracciones I a XVI.
+
+###### Artículo 21.
+
+Corresponde a la Dirección General de Bienes y Servicios el ejercicio de las siguientes atribuciones:
+
+I. Formular las políticas, bases, criterios y lineamientos de la Comisión Nacional en materia de adquisiciones, arrendamientos y servicios;
+
+II. Formular, proponer, instrumentar, ejecutar, controlar y evaluar los programas de la Comisión Nacional, en materia de adquisiciones, arrendamientos y servicios;
+
+III. Vigilar el cumplimiento de la normativa en materia de adquisiciones, arrendamientos y servicios;
+
+IV. Celebrar convenios y contratos, previa opinión de la Dirección General de Servicios Legales, para la contratación y adquisición de bienes, arrendamientos y servicios;
+
+V. Gestionar en el Diario Oficial de la Federación las publicaciones relacionadas con los procesos de licitación, así como aquellas que les soliciten las unidades administrativas de la Comisión Nacional, con excepción de las previstas en el artículo 19, fracción XXIII, del presente Estatuto Orgánico;
+
+VI. Atender el procedimiento de conciliación a que se refieren la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y la Ley de Obras Públicas y Servicios Relacionados con las Mismas;
+
+VII. Formular las políticas, bases, criterios y lineamientos de la Comisión Nacional en materia de almacenes y enajenación de bienes y verificar su cumplimiento;
+
+VIII. Formular, proponer, instrumentar, ejecutar, controlar y evaluar los programas de la Comisión Nacional, en materia de almacenes y enajenación de bienes muebles e inmuebles;
+
+IX. Vigilar el cumplimiento de la normativa en materia de almacenes y enajenación de bienes;
+
+X. Supervisar los sistemas de control e inventarios de bienes muebles e inmuebles;
+
+XI. Formular las políticas, bases, criterios y lineamientos de la Comisión Nacional en materia de servicios generales, protección civil, ahorro de energía y administración sustentable;
+
+XII. Formular, proponer, instrumentar, ejecutar, controlar y evaluar los programas de la Comisión Nacional en materia de servicios generales, protección civil, ahorro de energía y administración sustentable;
+
+XIII. Vigilar el cumplimiento de la normativa en materia de servicios generales, protección civil, ahorro de energía y administración sustentable;
+
+XIV. Formular las políticas, bases, criterios y lineamientos de la Comisión Nacional en materia de organización y conservación de archivos y verificar su cumplimiento;
+
+XV. Formular, proponer, instrumentar, ejecutar, controlar y evaluar los programas de la Comisión Nacional, en materia de organización y conservación de archivos, así como, los servicios de mensajería local y foránea, y
+
+XVI. Vigilar el cumplimiento de la normativa en materia de organización y conservación de archivos.
+
+> <small>(REFORMADO, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+Las atribuciones establecidas en el presente artículo serán ser (sic) ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el de Adquisiciones, las contenidas en las fracciones I a X; el de Servicios Generales, las contenidas en las fracciones XI a XIII, y el de Gestión y Control Documental, las contenidas en las fracciones XIV a XVI.
+
+###### Artículo 22.
+
+Corresponde a la Dirección General de Personal y Organización el ejercicio de las siguientes atribuciones:
+
+I. Negociar y proponer, previa validación de la Dirección General de Servicios Legales, las condiciones laborales de la Comisión Nacional;
+
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+II. Establecer las guías en materia de administración y desarrollo de personal;
+
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+III. Determinar y establecer guías para los procesos de reclutamiento, selección, contratación y evaluación, así como para la readscripción del personal de la Comisión Nacional, su registro y control, y coordinar la ejecución, control y evaluación de dichos procesos;
+
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+IV. Coordinar la elaboración del anteproyecto de presupuesto anual y mensual del Capítulo de Servicios Personales, así como autorizar y supervisar el ejercicio del mismo;
+
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+V. Instrumentar los programas y acciones de modernización y simplificación administrativa determinados por la autoridad competente;
+
+VI. Vigilar el cumplimiento de las Condiciones Generales de Trabajo y, en general, de la normativa que rija las relaciones de trabajo de la Comisión Nacional;
+
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+VII. Establecer el sistema para el control de las plazas autorizadas, conforme al Catálogo de Puestos de la Comisión Nacional, así como coordinar su ejecución y evaluación;
+
+VIII. Tramitar los nombramientos y remociones del personal de base y de confianza de la Comisión Nacional y, en su caso, notificar cambios de adscripción;
+
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
+
+IX. Formalizar los nombramientos de personal de estructura y eventuales, así como los contratos por servicios profesionales asimilados a salarios, a solicitud de las unidades administrativas de la Comisión Nacional;
+
+X. Imponer y/o notificar, previa opinión de la Dirección General de Servicios Legales, las sanciones a los empleados de la Comisión Nacional, en caso de que contravengan las disposiciones aplicables;
+
+XI. Establecer el sistema escalafonario, así como coordinar su ejecución, control y evaluación;
+
+XII. Aplicar el tabulador aprobado de sueldos y salarios de la Comisión Nacional;
+
+XIII. Implantar y aplicar las acciones administrativas a fin de dar cumplimiento a las disposiciones fiscales relativas al pago de los sueldos, salarios y prestaciones del personal de la Comisión Nacional;
+
+XIV. Apoyar a la Dirección General de Servicios Legales en los procesos laborales en que sea parte la Comisión Nacional o pueda resultar afectada;
+
+XV. Representar a la Comisión Nacional ante las autoridades laborales y la organización sindical, así como promover las acciones tendentes a mejorar los beneficios y prestaciones del personal;
+
+XVI. Informar al personal sobre las prestaciones, servicios e incentivos a que se pueden hacer acreedores y, en su caso, proporcionarlos, así como aplicar los sistemas de estímulos y recompensas establecidos por la ley en la materia;
+
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
+
+XVII. Supervisar el cumplimiento de las disposiciones aplicables en materia de seguridad social, a favor de los trabajadores de la Comisión Nacional, así como la elaboración de las cuotas obrero patronales;
+
+XVIII. Controlar y mantener actualizado el registro de las estructuras salariales de la Comisión Nacional, y vigilar que sus unidades administrativas se ajusten a las mismas;
+
+XIX. Emitir y establecer los programas de capacitación y desarrollo del personal;
+
+XX. Celebrar convenios y acuerdos, previa opinión de la Dirección General de Servicios Legales, con Instituciones de Educación Superior para la prestación del servicio social y prácticas profesionales;
+
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+XXI. Planear y administrar a los prestadores de servicio social y prácticas profesionales, conjuntamente con las Unidades Administrativas de la Comisión Nacional;
+
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+XXII. Planear, controlar y administrar el presupuesto para la prestación del servicio social y prácticas profesionales;
+
+XXIII. Celebrar convenios y acuerdos, previa opinión de la Dirección General de Servicios Legales, con instituciones, organismos, empresas y entidades culturales para la ejecución de programas orientados al bienestar social y cultural de los trabajadores de la Comisión Nacional y sus familiares derechohabientes;
+
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
+
+XXIV. Coordinar la elaboración, establecimiento, ejecución, control y evaluación de los programas de inducción a la Comisión Nacional del personal de nuevo ingreso;
+
+XXV. Detectar, en coordinación con las distintas unidades administrativas de la Comisión Nacional, las necesidades de capacitación e implementar y ejecutar el programa de trabajo;
+
+> <small>(ADICIONADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+XXV Bis. Aplicar al personal de la Comisión Nacional la encuesta de Clima y Cultura Organizacional desarrollada por la autoridad correspondiente;
+
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
+
+XXV Ter. Desarrollar los programas de mejora en beneficio de los Servidores Públicos de la Comisión Nacional;
+
+> <small>(ADICIONADA, D.O.F. 14 DE MARZO DE 2012)</small>
+
+XXV Quáter. Fungir como coordinador escolar de la Escuela de Estudios Financieros y ejercer las atribuciones contenidas en las fracciones I y V a VIII, del artículo 23 Ter del presente Estatuto;
+
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+XXVI. Controlar y mantener actualizado el registro de las estructuras orgánicas y ocupacionales de la Comisión Nacional, ante las autoridades competentes, y vigilar que sus unidades administrativas se ajusten a las mismas;
+
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
+
+XXVII. Desarrollar y aplicar, en coordinación con las unidades administrativas de la Comisión Nacional, la evaluación del desempeño al personal adscrito a las mismas;
+
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
+
+XXVIII. Coordinar con las unidades administrativas de la Comisión Nacional, la difusión, elaboración y actualización de las disposiciones normativas internas de la Comisión Nacional;
+
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+XXIX. Organizar y coordinar, con la participación de las demás unidades administrativas, la implementación y actualización del Modelo Estándar de Control Interno Institucional, de conformidad con lo dispuesto en la normativa en la materia;
+
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2012)</small>
+
+XXX. Organizar y coordinar, con la participación de las demás unidades administrativas, la implementación y actualización del Proceso de Administración de Riesgos Institucional, de conformidad con lo dispuesto en la normativa en la materia;
+
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2012)</small>
+
+XXXI. Participar con la Dirección General de Servicios Legales en la actualización del Estatuto Orgánico de la Comisión Nacional, y
+
+> <small>(ADICIONADA, D.O.F. 14 DE MARZO DE 2012)</small>
+
+XXXII. Fungir como Titular de la Escuela de Estudios Financieros.
+
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
+
+Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el Director de Administración de Personal, las contenidas en las fracciones I, III, IV y VI a XVIII, el Director de Desarrollo de Personal, las contenidas en las fracciones II, IV y XIX a XXV Quáter, y el Director de Organización y Selección de Personal, las contenidas en las fracciones III, V y XXVI a XXXI.
+
+###### Artículo 23.
+
+Corresponde a la Dirección General de Planeación el ejercicio de las siguientes atribuciones:
+
+I. Asegurar que las acciones de la Comisión Nacional se encuentren enmarcadas en el Plan Nacional de Desarrollo (PND) y dentro del Programa Nacional de Financiamiento y Desarrollo (PRONAFIDE) dirigiendo y coordinando las actividades programático presupuestales y de ejecución del gasto, y los servicios en materia de tecnologías de la información;
+
+II. Administrar los recursos financieros y patrimoniales de la Comisión Nacional, para consolidar la información financiera y contable del organismo y asegurar su disponibilidad;
+
+III. Determinar y dirigir la implantación y actualización de la infraestructura en tecnologías de la información de la Comisión Nacional, para dotar de elementos informáticos y herramientas de telecomunicaciones que apoyen el cumplimiento de las funciones de las áreas y de los objetivos institucionales;
+
+IV. Integrar y armonizar el programa institucional anual y los programas de largo plazo de la Comisión Nacional;
+
+V. Proponer mecanismos para simplificar y mejorar las disposiciones administrativas en materia de planeación, presupuestación y administración de recursos financieros;
+
+VI. Controlar y supervisar las transferencias de recursos humanos, financieros y materiales que se generen de otras dependencias y organismos del sector público;
+
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+VII. Revisar y suscribir la documentación de carácter presupuestal, financiero, contable y en materia de planeación estratégica;
+
+VIII. Implementar el sistema de contabilidad general de la Comisión Nacional y emitir los estados financieros;
+
+IX. Recibir el pago de los servicios para los cuales está facultada la Comisión Nacional de acuerdo a los montos autorizados por la Secretaría;
+
+X. Integrar el presupuesto de la Comisión Nacional, gestionar su autorización ante la Secretaría y controlar su ejercicio;
+
+XI. Coordinar, dirigir e integrar los informes de carácter programático presupuestal, contable, financiero y administrativo, así como los que le sean requeridos por las autoridades competentes, sin perjuicio de la información que se genere al interior de la Comisión Nacional;
+
+XII. Aplicar la normativa determinada por las autoridades competentes para la presupuestación, control y gestión de los recursos financieros;
+
+XIII. Gestionar ante la Secretaría el cobro de las multas impuestas por la Comisión Nacional y su incorporación al patrimonio de la misma;
+
+XIV. Registrar, custodiar, entregar en devolución o, en su caso, dar la aplicación que proceda a los depósitos constituidos por las Instituciones Financieras o los Usuarios;
+
+XV. Suscribir, avalar y negociar títulos de crédito, previa autorización del Vicepresidente de Planeación y Administración;
+
+XVI. Recibir el pago de los derechos, multas y accesorios correspondientes;
+
+XVII. Dictaminar, dirigir, supervisar y evaluar los procedimientos de adquisición de bienes y servicios de informática, redes y telecomunicaciones de la Comisión Nacional, vigilando su cumplimiento, así como emitir la normativa que a éstos corresponda, en coordinación con la Dirección General de Servicios Legales;
+
+XVIII. Dictaminar y desarrollar los sistemas informáticos que requieran las unidades administrativas de la Comisión Nacional en el desempeño de sus atribuciones;
+
+XIX. Dar mantenimiento y soporte técnico a las instalaciones de cómputo, telecomunicaciones y bancos de datos de la Comisión Nacional, e integrar la conectividad informática necesaria para el enlace con organismos públicos y privados, nacionales e internacionales;
+
+XX. Apoyar y asistir técnicamente la instalación y servicio de los sistemas automatizados desarrollados en la Comisión Nacional;
+
+XXI. Establecer, supervisar y evaluar el cumplimiento de las normas y políticas de seguridad para el uso y salvaguarda de los equipos e instalaciones de cómputo, telecomunicaciones, telefonía y bancos de datos de la Comisión Nacional, así como supervisar y evaluar las acciones preventivas y correctivas en la materia; y
+
+XXII. Desarrollar y administrar los sitios electrónicos de la Comisión Nacional, dentro de la red mundial de información (Intranet/Internet), en coordinación con las unidades administrativas responsables de los contenidos.
+
+> <small>(REFORMADO, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el Director de Informática y Telecomunicaciones, las contenidas en las fracciones III y XVII a XXII; el Director de Programación y Finanzas, las contenidas en las fracciones I, II, IV a XVI.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 14 DE MARZO DE 2012)</small>
+
+### CAPITULO IV BIS. DE LA ESCUELA DE ESTUDIOS FINANCIEROS
+
+> <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 23 Bis.
 
@@ -609,15 +1401,21 @@ La Escuela de Estudios Financieros será representada por su Titular y sus coord
 
 Corresponde a la Escuela de Estudios Financieros, el ejercicio de las siguientes atribuciones:
 
-I. Elaborar los planes y programas de estudios de cursos, diplomados, especialidades, maestrías, y demás estudios educativos de nivel superior, en materia financiera;
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
+
+I. Elaborar los planes y programas de estudios de cursos, diplomados y especialidades en materia financiera;
 
 II. Gestionar la celebración de convenios, con la finalidad de llevar a cabo el cumplimiento de las presentes atribuciones;
 
 III. Gestionar, ante las autoridades correspondientes, el reconocimiento de validez oficial de los planes y programas de estudios que imparta, así como los trámites que de forma continua deban realizarse;
 
-IV. Tramitar, conforme a las normas establecidas, los documentos que acrediten los grados académicos, Títulos y Cédulas Profesionales correspondientes a los planes y programas de estudios que imparta la Escuela de Estudios Financieros;
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
 
-V. Dirigir, coordinar y convocar la impartición de especialidades, maestrías, y demás estudios educativos de nivel superior, conforme a los planes y programas autorizados por las autoridades competentes;
+IV. Tramitar, conforme a las normas establecidas, los documentos que acrediten los grados académicos correspondientes a los planes y programas de estudios que imparta la Escuela de Estudios Financieros;
+
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
+
+V. Dirigir, coordinar y convocar la impartición de especialidades conforme a los planes y programas autorizados por las autoridades competentes;
 
 VI. Dirigir, coordinar y convocar la impartición de cursos, diplomados y demás estudios de actualización, de acuerdo a los contenidos temáticos correspondientes;
 
@@ -625,273 +1423,251 @@ VII. Expedir los documentos que avalen la acreditación de los planes y programa
 
 VIII. Promover la obtención de becas para el personal de la Comisión Nacional y someter a la autorización de la Junta, las reglas y procedimientos para su otorgamiento.
 
-### CAPÍTULO II. DE LOS PLANES DE MANEJO
+### CAPITULO V. DE LAS DELEGACIONES
 
-###### ARTÍCULO 24.
+###### Artículo 24.
 
-Los planes de manejo tienen por objeto:
+Las Delegaciones podrán ser Regionales, Estatales o Locales y, además de las atribuciones que les corresponden conforme al presente Estatuto Orgánico, realizarán las que por acuerdo se les deleguen.
 
-I. Fomentar la prevención y reducción de la generación de los residuos, a través de prácticas de consumo y producción sustentable;
+###### Artículo 25.
 
-II. Fomentar la separación, reutilización, reciclaje y co-procesamiento de materiales contenidos en los residuos, con la finalidad de valorizarlos e incorporarlos al ciclo productivo como subproductos;
+En el ámbito de su competencia, el personal adscrito a las Delegaciones queda facultado para notificar, conforme a las disposiciones aplicables, las resoluciones o mandamientos que sean emitidos por los órganos y unidades administrativas de la Comisión Nacional facultados para ello, incluyendo aquellas en las que se efectúen requerimientos de información, documentación, medios electromagnéticos y demás elementos a las Instituciones Financieras.
 
-III. Alentar la innovación de procesos, métodos y tecnologías para lograr un manejo integral de los residuos, que sea ambientalmente eficiente, económicamente viable y socialmente aceptable;
+###### Artículo 26.
 
-IV. Fomentar el mercado de productos reciclados;
+Al frente de cada una de las Delegaciones habrá un Delegado, quien ejercerá las atribuciones conferidas en el presente Estatuto Orgánico directamente, o bien, a través de los subdelegados, Jefes de Departamento, Defensores, Conciliadores, Notificadores, Especialistas, Analistas y demás servidores públicos y personal administrativo que el servicio requiera.
 
-V. Prevenir daños al ambiente en el manejo de los residuos;
+Los Delegados ejercerán las atribuciones contenidas en este Estatuto Orgánico, conforme a las políticas, lineamientos y procedimientos establecidos por la Comisión Nacional, acuerdos delegatorios y demás disposiciones aplicables.
 
-VI. Contribuir a reducir los costos de administración por el manejo de residuos;
+En todos los casos el Delegado y los Subdelegados contarán preferentemente, el primero con título de alguna profesión relacionada con el sistema financiero mexicano, y los segundos con título de licenciado en derecho o su equivalente y con experiencia en materia financiera.
 
-VII. Atender las necesidades específicas de ciertos generadores que presenten características peculiares; y
+###### Artículo 27.
 
-VIII. Diseñar esquemas de manejo integral de residuos de manejo especial y sólidos urbanos, que haga efectiva la corresponsabilidad de los distintos sectores involucrados.
+Las Delegaciones ejercerán sus atribuciones en la circunscripción territorial que les corresponda, de conformidad con lo siguiente:
 
-###### ARTÍCULO 25.
+I. Las Delegaciones Estatales, en todos los municipios del Estado que corresponda;
 
-Estarán obligados a la formulación y ejecución de los planes de manejo, según corresponda:
+II. La Delegación Local en Cd. Juárez, en los municipios de Ascensión, Buenaventura, Casas Grandes, Galeana, Gómez Farías, Guadalupe Distrito Bravo, Ignacio Zaragoza, Janos, Juárez, Nuevo Casas Grandes, Ojinaga y Praxedis G. Guerrero, todos ellos del Estado de Chihuahua, y
 
-I. Los grandes generadores de residuos de manejo especial y sólidos urbanos;
+III. Las Delegaciones Metropolitana Central, Metropolitana Norte, Metropolitana Sur y Metropolitana Oriente, en todas las delegaciones políticas del Distrito Federal y en los municipios conurbados a la Ciudad de México.
 
-II. Los productores, importadores, exportadores, comercializadores y distribuidores de los productos, envases, empaques o embalajes que al desecharse se conviertan en residuos de manejo especial y sólidos urbanos, a los que hacen referencia las fracciones V y VIII del artículo 19 de esta Ley y los que se incluyan en las normas oficiales mexicanas correspondientes; y
+Lo anterior, sin perjuicio de lo previsto en el artículo 65 de la Ley.
 
-III. Las empresas de servicios de manejo integral de residuos de manejo especial, en cualquiera de sus etapas que sean grandes generadores de estos residuos.
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2014)</small>
 
-###### ARTÍCULO 26.
+Los órganos colegiados y demás unidades administrativas de la Comisión Nacional, al ser autoridades centrales, gozan de competencia territorial en todo el país, de conformidad con el artículo 3 de la Ley.
 
-El Titular del Poder Ejecutivo del Estado, para proponer a la Federación que sean incluidos en la Norma Oficial Mexicana respectiva como residuos de manejo especial, deberá considerar los siguientes criterios:
+###### Artículo 28.
 
-I. Que los residuos tengan un alto valor económico;
+Corresponde a las Delegaciones, el ejercicio de las siguientes atribuciones:
 
-II. Que se trate de residuos de alto volumen de generación, producidos por un número reducido de generadores; y
+I. Atender las consultas e inconformidades de los Usuarios relacionadas con los servicios que prestan y los productos que ofrecen las Instituciones Financieras;
 
-III. Que se trate de residuos que representen un riesgo a la población, al ambiente o a los recursos naturales.
+II. Brindar a los Usuarios el servicio de asesoría técnica y jurídica que soliciten;
 
-###### ARTÍCULO 27.
+III. Proporcionar a los Usuarios información relacionada con los servicios que prestan y productos que ofrecen las Instituciones Financieras;
 
-Estarán sujetos a planes de manejo los siguientes residuos de manejo especial y sólidos urbanos generados por grandes generadores:
+IV. Difundir entre los Usuarios los programas que las Instituciones Financieras otorguen en beneficio de los mismos;
 
-I. Los residuos de servicios de salud, en centros médico asistenciales:
+V. Atender las solicitudes de información del público, respecto de los índices de reclamaciones contra las Instituciones Financieras y el porcentaje de dichas reclamaciones que se resuelven a favor de los Usuarios, con base en los estudios estadísticos elaborados por la Dirección General de Desarrollo Financiero, Estadístico y Operativo;
 
-a) Papel y cartón.
+> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2014)</small>
 
-b) Ropa clínica, ropa de cama y colchones.
+V Bis. Recibir las quejas por las malas prácticas de cobranza y turnarlas a la Dirección General de Servicios Legales para su trámite;
 
-c) Plásticos.
+VI. Recibir y tramitar ante la Dirección General de Defensoría, Interventoría y Consultiva, las solicitudes de información de personas que deseen saber si son beneficiarias de uno o varios seguros de vida, ya sean individuales o colectivos, incluyendo aquellos que se obtienen por la contratación de productos y servicios financieros. Para tales efectos, las Delegaciones deberán remitir a la citada unidad administrativa las solicitudes que presenten los Usuarios, junto con la documentación correspondiente, al día hábil siguiente al de su recepción;
 
-d) Madera.
+VII. Notificar los actos, acuerdos y resoluciones que se deriven de los procedimientos que les corresponda conocer;
 
-e) Vidrio.
+VIII. Solicitar a las Instituciones Financieras y a las autoridades correspondientes, la información, documentación y elementos necesarios para el ejercicio de sus atribuciones, en términos de lo dispuesto por la Ley y las demás disposiciones aplicables;
 
-II. Los residuos agro plásticos generados por las actividades intensivas agrícolas, silvícolas y forestales;
+IX. Realizar todas las acciones necesarias para tratar de resolver las controversias que se le planteen, antes de iniciar formalmente con los procedimientos previstos en el Título Quinto de la Ley, para lo cual gestionarán ante las Instituciones Financieras los asuntos de los Usuarios, empleando para ello cualquier medio de comunicación y proponiendo soluciones concretas a fin de lograr un arreglo pronto entre las partes;
 
-III. Los residuos orgánicos de las actividades intensivas avícolas, ganaderas y pesqueras;
+X. Atender las reclamaciones y desechar aquellas que sean notoriamente improcedentes, así como sustanciar el procedimiento conciliatorio, sin perjuicio de lo previsto en la fracción inmediata siguiente;
 
-IV. Los residuos de las actividades de transporte, que incluye servicios en los puertos, aeropuertos, centrales camioneras, estaciones de autotransporte y los del transporte público, que incluye a los prestadores de servicio que cuenten con terminales, talleres o estaciones que se incluyen en la lista siguiente:
+XI. Remitir a la Dirección General de Dictaminación y Supervisión, a más tardar al día hábil siguiente al de su recepción, las reclamaciones presentadas en contra de las Instituciones Financieras, para los efectos establecidos en la fracción XIX del artículo 17 del presente Estatuto;
 
-a) Envases metálicos.
+XII. (DEROGADA, D.O.F. 2 DE JUNIO DE 2014)
 
-b) Envases y embalajes de papel y cartón.
+> <small>(ADICIONADA, D.O.F. 14 DE MARZO DE 2012)</small>
 
-c) Envases de vidrio.
+XII Bis. Llevar a cabo la práctica de diligencias, a que se refiere el artículo 68, fracción VI, de la Ley, para lo cual aplicará, en lo conducente, el Reglamento de Supervisión de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros y la demás normativa que de él deriven.
 
-d) Envases de tereftalato de polietileno (PET).
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
 
-e) Envases de poliestireno expandido (unicel).
+XIII. Substanciar los procedimientos de arbitraje previstos en la Ley, elaborar los proyectos de laudos y remitirlos a la Dirección General de Arbitraje y Sanciones, dentro de los treinta días hábiles siguientes a la fecha en que concluya el procedimiento arbitral de que se trate;
 
-f) Bolsas de polietileno.
+XIV. Mantener comunicación, en el ámbito de su competencia, con las unidades especializadas de las Instituciones Financieras para la atención de consultas y reclamaciones de los Usuarios;
 
-g) Tarimas de madera.
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
 
-V. Lodos provenientes del tratamiento de aguas residuales;
+XV. Ordenar a las Instituciones Financieras previa emisión del Dictamen el registro del pasivo contingente, o la constitución e inversión de la reserva técnica específica para obligaciones pendientes de cumplir;
 
-VI. Los residuos de las tiendas departamentales o centros comerciales que se incluyen en la lista siguiente:
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
 
-a) Envases metálicos.
+XVI. Turnar a la Dirección General de Arbitraje y Sanciones, en el caso de infracciones cometidas durante el procedimiento conciliatorio, en un plazo que no excederá de treinta días hábiles, contado a partir del día siguiente a aquél en que haya concluido el procedimiento respectivo, los asuntos en que presuntamente se ha contravenido la Ley, para efectos de que se emplace e imponga la multa correspondiente;
 
-b) Envases y embalajes de papel y cartón.
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
 
-c) Envases de vidrio.
+XVII. Turnar a la Dirección General de Arbitraje y Sanciones, en el caso de infracciones cometidas fuera del procedimiento conciliatorio, en un plazo de treinta días hábiles, contado a partir del día siguiente a aquél en que haya tenido conocimiento de la infracción de que se trate, los asuntos en que presuntamente se ha contravenido la Ley o aquellas disposiciones cuyo incumplimiento corresponda sancionar a la Comisión Nacional, para efectos de que se emplace e imponga la multa correspondiente;
 
-d) Envases de tereftalato de polietileno (PET).
+XVIII. Turnar a la Dirección General de Servicios Legales, en un plazo de cinco días hábiles, contados a partir del día siguiente a aquél en que se hayan recibido, los recursos de revisión junto con el expediente respectivo para su substanciación, y desechar por improcedentes aquellos que se interpongan en contra de actos distintos a los que prevé el artículo 99 de la Ley;
 
-e) Envases de poliestireno expandido (unicel).
+XIX. Turnar a la Dirección General de Dictaminación y Supervisión, en un plazo de cinco días hábiles, contados a partir del día siguiente al de la fecha en que se reciba, la solicitud del Usuario de elaborar el acuerdo de trámite a que se refiere el artículo 68 Bis de la Ley. Dicha solicitud deberá acompañarse del expediente respectivo, así como de una recomendación del Delegado sobre el sentido en que deberá emitirse dicho acuerdo de trámite;
 
-f) Tarimas de madera.
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
 
-g) Residuos orgánicos.
+XX. Notificar a los Usuarios los acuerdos de trámite a que se refiere el artículo 68 Bis de la Ley, así como los oficios a que se refiere el artículo 17, fracción XX, de este Estatuto, dentro del término de diez días hábiles, contados a partir de su recepción;
 
-h) Película de polietileno para embalaje (playo).
+XXI. Llevar a cabo las acciones necesarias para dar cumplimiento al laudo arbitral, así como a la sentencia ejecutoriada derivada del mismo;
 
-VII. Residuos de la construcción, mantenimiento y demolición en general, así como los residuos de las rocas o los productos de su descomposición que sólo puedan utilizarse para la fabricación de materiales de construcción o se destinen para este fin, que se generen en una obra o actividad en una cantidad mayor a 80 m3;
+XXII. Remitir a la Dirección General de Servicios Legales la solicitud de remate de valores invertidos propiedad de las Instituciones y Sociedades Mutualistas de Seguros y de las Instituciones de Fianzas, dentro de los cinco días hábiles siguientes al de su recepción;
 
-VIII. Los productos que al transcurrir su vida útil se desechan y que se enlistan a continuación:
+XXIII. Recibir las solicitudes de defensoría legal que presenten los Usuarios y remitirlas junto con el expediente respectivo a la Dirección General de Defensoría, Interventoría y Consultiva, dentro de los tres días hábiles siguientes al de su recepción, a fin de que la citada Dirección General autorice la prestación de dicho servicio;
 
-a) Residuos tecnológicos de las industrias de la informática y fabricantes de productos electrónicos:
+XXIV. Otorgar a los Usuarios orientación jurídica especializada, así como asesoría jurídica en materia penal;
 
-1) Computadoras personales de escritorio y sus accesorios.
+XXV. Prestar el servicio de defensoría legal, previa autorización de la Dirección General de Defensoría, Interventoría y Consultiva, y asignar a los Defensores dichos asuntos;
 
-2) Computadoras personales portátiles y sus accesorios.
+XXVI. Proporcionar mensualmente a la Dirección General de Defensoría, Interventoría y Consultiva, la información relativa a los juicios que tramiten, derivados del servicio de defensoría legal, en los términos que indique la citada Dirección General;
 
-3) Teléfonos celulares.
+XXVII. Emplear todos los medios legales existentes a fin de lograr el cumplimiento o ejecución de las sentencias que resulten favorables para los Usuarios;
 
-4) Monitores con tubos de rayos catódicos (incluyendo televisores).
+XXVIII. Brindar asistencia jurídica a los Usuarios que pretendan coadyuvar con el Ministerio Público en términos de la Ley;
 
-5) Pantallas de cristal líquido y plasma (incluyendo televisores).
+XXIX. Asistir a los Usuarios para demandar el cumplimiento forzoso de los convenios de conciliación;
 
-6) Reproductores de audio y video portátiles.
+XXX. Fungir como Interventores en los concursos mercantiles en que sean designados;
 
-7) Cables para equipos electrónicos.
+XXXI. (DEROGADA, D.O.F. 2 DE JUNIO DE 2014)
 
-8) Impresoras, fotocopiadoras y multifuncionales.
+XXXII. Llevar, en el ámbito de su competencia, el Registro de Personas Acreditadas a que se refiere el artículo 69-B de la Ley Federal de Procedimiento Administrativo;
 
-b) Residuos de vehículos automotores:
+XXXIII. Coadyuvar con la Dirección General de Servicios Legales en el trámite de los juicios o procedimientos relacionados con el ejercicio de sus funciones;
 
-1) Vehículos al final de su vida útil.
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
 
-c) Otros que al transcurrir su vida útil requieren de un manejo específico:
+XXXIV. Rendir el informe previo y justificado que en materia de amparo le sea requerido por la autoridad judicial, cuando la Delegación o los servidores públicos adscritos a ella sean señalados como autoridad responsable; así como atender los requerimientos que les sean realizados por las autoridades jurisdiccionales y administrativas previa opinión de la Dirección General de Servicios Legales;
 
-1) Neumáticos de desecho;
+XXXV. Realizar, previo requerimiento de la Dirección General de Dictaminación y Supervisión, visitas de verificación a las sociedades financieras de objeto múltiple, entidades no reguladas;
 
-2) Artículos de plástico como: politereftalato de etileno (PET), polietileno de alta y baja densidad (PEAD y PEBD), poli cloruro de vinilo (PVC), polipropileno (PP), poliestireno (PS) y policarbonato (PC).
+XXXVI. Llevar a cabo el desarrollo de programas y campañas en el ámbito de su competencia, a fin de establecer pautas para orientar la protección y defensa de los derechos de los Usuarios, de acuerdo con las políticas, lineamientos y procedimientos que dicte la Comisión Nacional;
 
-3) Bolsas de polietileno.
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
 
-4) Envases, embalajes, artículos de madera, de aluminio, de metal ferroso y no ferroso.
+XXXVII. Coadyuvar en la edición y distribución de los libros, ordenamientos, revistas, folletos y demás publicaciones de la Comisión Nacional, así como participar en la promoción de la educación financiera a través de medios electrónicos, informáticos o impresos;
 
-5) Papel y cartón.
+XXXVIII. Colaborar en la promoción de foros nacionales e internacionales cuyo objeto sea acorde con el de la Comisión Nacional;
 
-6) Vidrio.
+XXXIX. Coadyuvar, en coordinación con la Dirección General de Educación Financiera, en la creación y fomento entre los Usuarios de una adecuada cultura sobre el uso de los servicios y productos financieros;
 
-7) Ropa, recorte y trapo de algodón y de fibras sintéticas.
+XL. Concertar y coordinar acciones con otras representaciones de dependencias y entidades federales localizadas en el área de su competencia, con gobiernos estatales y municipales, de acuerdo con los lineamientos que señale el Vicepresidente de Delegaciones;
 
-8) Hule natural y sintético.
+XLI. Ser integrante de los Consejos Consultivos Estatales o Locales, de conformidad con lo previsto en el presente Estatuto Orgánico;
 
-9) Envase de multi laminados de varios materiales.
+XLII. Establecer, en coordinación con la Vicepresidencia de Delegaciones, de conformidad con las políticas, lineamientos y procedimientos que se fijen, el calendario de sesiones de los Consejos Consultivos Estatales o Locales;
 
-10) Refrigeradores, aire acondicionado, lavadoras, secadoras, estufas y hornos de microondas.
+XLIII. Preparar la información estadística relacionada con la Delegación, turnándola a la unidad administrativa que corresponda;
 
-IX. Residuos de origen industrial y agroindustrial que por sus características no sean considerados peligrosos, tales como recortes de perforación impregnados con fluidos base agua y base aceite, aguas residuales aceitosas y líquidos remanentes, alúmina gastada, hidróxido de calcio, carbón activado; cascarilla de arroz, de cacao, concha de coco, cascara de piña, naranja, bagazo de caña, pedúnculo de plátano, entre otros; y
+XLIV. Aplicar, de conformidad con la normativa aplicable, los recursos humanos, materiales y financieros que le sean asignados para su operación regular y para el desarrollo de programas vigentes;
 
-X. Otros que determine la Secretaría y demás ordenamientos jurídicos aplicables.
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
 
-###### ARTÍCULO 28.
+XLV. Realizar, coordinar y formalizar la adquisición de bienes y contratación de arrendamientos y servicios requeridos para el óptimo desarrollo de las actividades encomendadas, previa opinión de la Dirección General de Bienes y Servicios;
 
-Los planes de manejo para residuos de manejo especial, se podrán formular y ejecutar en las siguientes modalidades:
+XLVI. Enviar a la Dirección General de Planeación con la periodicidad que ésta determine, los informes sobre el ejercicio del presupuesto y los avances en la ejecución de sus programas, así como los estados financieros correspondientes a los programas y partidas de presupuesto;
 
-I. Individuales: Aquellos en los cuales un solo sujeto establece en un único plan el manejo integral que dará a uno o varios residuos que genere; y
+XLVII. Proporcionar la información contable de acuerdo con los lineamientos que establezca la Dirección General de Planeación;
 
-II. Colectivos: Aquellos en los cuales varios sujetos establecen en un único plan el manejo integral que darán a uno o varios residuos. Este incluirá la elaboración del instrumento jurídico correspondiente que señale las responsabilidades y obligaciones a la que se sujeten los participantes. Incluirán los mecanismos de incorporación para nuevos participantes, así como de evaluación y seguimiento.
+XLVIII. Hacer del conocimiento de las autoridades superiores de la Comisión Nacional, las irregularidades observadas en el ejercicio de sus funciones;
 
-## TÍTULO TERCERO. DEL INVENTARIO Y LA CLASIFICACIÓN DE LOS RESIDUOS
+XLIX. Efectuar el cobro de los servicios para los cuales está facultada la Comisión Nacional de acuerdo a los montos autorizados por la Secretaría;
 
-### CAPÍTULO III. DEL PROGRAMA DE MANEJO DE RESIDUOS EN SITUACIONES DE DESASTRES
+L. Remitir a la Dirección General de Servicios Legales, dentro de los cinco días hábiles siguientes al que tengan conocimiento, aquellos asuntos que puedan ser constitutivos de delitos y coadyuvar en la tramitación de los mismos;
 
-###### ARTÍCULO 29.
+LI. Remitir a la Dirección General de Servicios Legales, dentro de los cinco días hábiles siguientes al que tengan conocimiento, los asuntos que puedan constituir violaciones administrativas y cuya sanción corresponda a autoridades distintas de la Comisión Nacional, y
 
-Los planes de manejo aplicables a los residuos de manejo especial, deberán considerar entre otros, los siguientes aspectos:
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
 
-I. Los procedimientos para su acopio, almacenamiento, transporte y envío al reciclaje, tratamiento o disposición final que se prevén utilizar;
+LII. Apoyar a las diferentes unidades administrativas de la Comisión Nacional en sus actividades sustantivas.
 
-II. Las estrategias, procedimientos y acciones mediante los cuales se comunicará a la población o consumidores, las precauciones que deban adoptarse en el manejo, las acciones que éstos deben realizar para devolver los productos a los proveedores o a los centros de acopio destinados para tal efecto, a fin de prevenir y reducir riesgos; y
+Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Delegado que corresponda o, indistintamente, por los Subdelegados, Jefes de Departamento, Defensores, Conciliadores, Verificadores, Notificadores, Especialistas o Analistas, según sea el caso, de su adscripción, excepto las contenidas en las fracciones XV y XLIV, las cuales sólo serán ejercidas por los Delegados o Subdelegados, indistintamente.
 
-III. Los responsables y las partes que intervengan en su formulación y ejecución.
+## TITULO TERCERO. ORGANOS COLEGIADOS
 
-###### ARTÍCULO 30.
+### CAPITULO I. DE LOS CONSEJOS CONSULTIVOS
 
-Los elementos y procedimientos que se deben considerar al formular los planes de manejo, se sujetarán a las normas oficiales mexicanas, normas ambientales estatales y demás ordenamientos legales aplicables.
+###### Artículo 29.
 
-Las empresas o establecimientos responsables presentarán para su registro en la Secretaría, los planes de manejo de residuos de manejo especial, y a los Municipios para el mismo efecto, los de residuos sólidos urbanos.
+El Consejo Consultivo Nacional y los Consejos Consultivos Regionales, Estatales o Locales estarán integrados y funcionarán en los términos establecidos por la Ley. El Consejo Consultivo Nacional sesionará por lo menos dos veces al año; los Consejos Consultivos Regionales, Estatales o Locales que en su caso instale la Junta, sesionarán por lo menos una vez al año.
 
-En caso de que el contenido de los planes de manejo sean contrarios a esta Ley y a la normatividad ambiental aplicable, deberán modificarse.
+###### Artículo 30.
 
-###### ARTÍCULO 31.
+El Consejo Consultivo Nacional será presidido por el Presidente, fungiendo como Secretario Técnico el Titular de la Secretaría de la Junta, quien será suplido en sus ausencias por el Titular de la Prosecretaría de la Junta.
 
-Los planes de manejo presentados deberán contar con la siguiente información:
+Los Consejos Consultivos Regionales y Estatales estarán presididos por el Vicepresidente de Delegaciones de la Comisión Nacional y/o los Directores Generales de Delegaciones correspondientes, quienes serán asistidos por el Delegado Estatal, quien actuará como Secretario Técnico. En el caso de los Consejos Consultivos Locales, la Presidencia será ocupada por el Delegado Estatal correspondiente y la Secretaría Técnica por el Delegado Local de que se trate.
 
-I. Nombre, denominación o razón social del solicitante, domicilio, giro o actividad preponderante y nombre de su representante legal;
+En cada sesión del Consejo Consultivo Nacional se levantará un acta que autorizarán el Presidente y el Secretario Técnico de la Comisión Nacional, en donde se establecerá con claridad y precisión, los acuerdos y recomendaciones adoptadas.
 
-II. Modalidad del plan de manejo;
+###### Artículo 31.
 
-III. Residuos de manejo especial y sólidos urbanos objetos del plan, especificando sus características físicas, químicas o biológicas y el volumen estimado de manejo;
+Los Secretarios Técnicos de los Consejos Consultivos tendrán las siguientes atribuciones:
 
-IV. Formas de manejo; y
+I. Enviar a los miembros de los Consejos Consultivos la convocatoria, el orden del día y la carpeta que contenga la información y documentación necesarias que permitan el conocimiento de los asuntos que serán tratados en la sesión correspondiente, con una antelación no menor a siete días hábiles a la celebración de la sesión;
 
-V. Nombre, denominación o razón social de los responsables de la ejecución del plan de manejo.
+II. Llevar un registro de los acuerdos tomados en las sesiones, dando seguimiento a los mismos;
 
-Cuando se trate de un plan de manejo colectivo, los datos a que se refiere la fracción I del presente artículo corresponderán a los de la persona que se haya designado en el propio plan de manejo para tramitar su registro.
+III. Informar a los miembros de los Consejos Consultivos sobre el estado que guardan los acuerdos tomados;
 
-A la información proporcionada en el plan de manejo, se anexarán los siguientes documentos:
+IV. Expedir y certificar las constancias que las autoridades competentes le requieran en ejercicio de sus atribuciones, así como las que le sean solicitadas de conformidad a la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
 
-I. Identificación oficial o documento que acredite la personalidad del representante legal;
+V. Rendir periódicamente informes al presidente del Consejo Consultivo, respecto del seguimiento que se dé a la ejecución de los acuerdos emitidos por los mismos;
 
-II. Documento que contenga el plan de manejo;
+VI. Realizar las tareas que le encomiende el Consejo Consultivo, y
 
-III. Instrumentos jurídicos que hubieren celebrado para la ejecución del plan; y
+VII. Las demás que expresamente les asignen los Consejos Consultivos.
 
-IV. Copia del pago de derechos respectivo.
+###### Artículo 32.
 
-En ningún caso, los planes de manejo podrán plantear formas de manejo contrarias a esta Ley, a la LGPGIR, las normas oficiales mexicanas, normas ambientales estatales y demás ordenamientos legales aplicables.
+El Vicepresidente de Delegaciones informará al Consejo Consultivo Nacional acerca de los asuntos y propuestas que por su importancia así lo ameriten y que se apeguen a lo dispuesto en el artículo 35 de la Ley.
 
-###### ARTÍCULO 32.
+###### Artículo 33.
 
-La Secretaría deberá resolver las solicitudes de registro de planes de manejo de residuos en un plazo de cuarenta y cinco días hábiles, contados a partir de la presentación de la solicitud; en caso que ésta presente insuficiencias, la Secretaría podrá requerir a los interesados, por escrito y por una sola vez, dentro de los quince días hábiles siguientes a la presentación de la solicitud, las aclaraciones, rectificaciones o ampliaciones al contenido del plan de manejo de residuos, mismas que deberán solventarse por el interesado en un plazo no mayor a quince días hábiles siguientes a la fecha del requerimiento, transcurrido el plazo correspondiente sin desahogar la prevención, se desechará el trámite.
+Los Secretarios Técnicos podrán invitar a las sesiones de trabajo de los Consejos Consultivos a los representantes de las asociaciones de Instituciones Financieras, de las organizaciones de Usuarios y demás personas directamente vinculadas con los temas de las sesiones, quienes acudirán a las sesiones con voz, pero sin voto. Sesionarán en el domicilio que determinen los secretarios técnicos de los Consejos Consultivos y lo harán también cuantas veces sea necesario a solicitud de su Presidente.
 
-###### ARTÍCULO 33.
+###### Artículo 34.
 
-Cualquier persona física o jurídica colectiva interesada, incluyendo a los pequeños y microgeneradores, podrán incorporarse a un plan de manejo registrado ante la Secretaría, para lo cual deberán cumplir con la presentación de los documentos respectivos, en términos del Reglamento de la presente Ley.
+Las sesiones de los Consejos Consultivos sólo podrán celebrarse con la asistencia de la mitad más uno de sus integrantes, entre los cuales deberán estar necesariamente el Presidente del Consejo Consultivo o el Secretario Técnico.
 
-###### ARTÍCULO 34.
+###### Artículo 35.
 
-La Secretaría podrá revocar el registro respectivo, si las acciones establecidas en el plan de manejo son simuladas o contrarias a lo previsto en esta Ley, la LGPGIR, sus respectivos reglamentos, normas oficiales mexicanas y normas ambientales estatales, de conformidad con lo previsto en el Capítulo V del Titulo Quinto de la presente Ley.
+El Secretario Técnico acordará con el Presidente del Consejo Consultivo el tema o temas de la materia o materias que deban tratarse en las sesiones. Los temas presentados ante el Consejo estarán sustentados en los análisis cuantitativos y cualitativos que sean necesarios, así como por los aspectos normativos y legales que correspondan. El Secretario Técnico preparará la información documental respectiva.
 
-###### ARTÍCULO 35.
+###### Artículo 36.
 
-La Secretaría podrá convocar conjuntamente con los Municipios a los productores, importadores, distribuidores y comercializadores de productos de consumo que al desecharse se conviertan en residuos de manejo especial, susceptibles de ser objeto de planes de manejo, de conformidad con las disposiciones de la LGPGIR, la presente Ley, su Reglamento y las normas oficiales mexicanas, a fin de promover el reciclaje, la devolución de los residuos por parte de los consumidores, los sistemas de colaboración e incentivos para alentar la creación de estos planes y la divulgación de la cultura ambiental.
+En cada sesión de los Consejos Consultivos se levantará un acta que autorizarán el Presidente del Consejo Consultivo y el Secretario Técnico del mismo, en donde se establecerán con claridad y precisión los acuerdos y recomendaciones adoptadas, consignándose los nombres y cargo de los asistentes.
 
-Lo anterior, sin perjuicio alguno del establecimiento de programas voluntarios o planes de manejo individuales que podrán ser implementados por sectores específicos.
+El registro y seguimiento de los acuerdos de los Consejos Consultivos estará a cargo de los Secretarios Técnicos y corresponderá al Presidente del Consejo Consultivo ordenar y vigilar su oportuno cumplimiento.
 
-###### ARTÍCULO 36.
+###### Artículo 37.
 
-La Secretaría promoverá el establecimiento de planes de manejo, pudiendo en su caso, celebrar convenios o acuerdos en forma individual o colectiva con el sector privado, así como con dependencias federales, estatales, municipales y de otras entidades federativas, para el logro de los objetivos de los planes de manejo, así como para:
+Los Consejos Consultivos conocerán de los impedimentos que tengan sus miembros para deliberar, resolver y votar asuntos concretos, debiendo el interesado exponer las razones por las cuales se encuentra impedido para participar en la sesión en la cual haya de discutirse el asunto en cuestión.
 
-I. Promover planes de manejo de competencia estatal;
+El impedimento legal será analizado y resuelto desde luego por el Consejo Consultivo, previa deliberación de los demás miembros presentes.
 
-II. Incentivar la valorización de los residuos;
+### CAPITULO II. DE LOS COMITES
 
-III. Integrarse a planes de manejo de alcance nacional o regional en el país;
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2014)</small>
 
-IV. Facilitar el aprovechamiento de los residuos;
+###### Artículo 38.
 
-V. Fomentar la compra de productos comercializados que contengan materiales reciclables o cuyos envases sean retornables o ambientalmente sustentables; y
+El Comité de Dictámenes será un órgano colegiado que conocerá y, en su caso, aprobará los acuerdos de trámite para la emisión del dictamen que se establece en el artículo 68 Bis de la Ley.
 
-VI. Incentivar el desarrollo de tecnologías que sean económica, ambiental y socialmente factibles para el manejo integral de los residuos.
+###### Artículo 39.
 
-###### ARTÍCULO 37.
+El Comité de Condonación de Multas será un órgano colegiado que conocerá sobre las solicitudes de condonación de multas presentadas por las Instituciones Financieras y dictaminará sobre la procedencia de las mismas para, en su caso, someterlas a consideración del Presidente y a la aprobación de la Junta.
 
-Para el cumplimiento del principio de valorización y aprovechamiento de los residuos, se podrá transmitir la propiedad de los mismos a título oneroso o gratuito, para ser utilizados como insumo o materia prima en otro proceso productivo.
-
-En este caso, dichos residuos no se estimarán desechados y podrán considerarse como subproductos cuando la transmisión de propiedad se encuentre documentada e incluida en el plan de manejo que se haya registrado ante la Secretaría, y que en su manejo se haya observado lo previsto en la LGPGIR, la LPAET, la presente Ley, su Reglamento, las normas oficiales mexicanas y normas ambientales estatales que de ellos deriven.
-
-> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2023)</small>
-
-Los municipios podrán disponer de los residuos sólidos urbanos que recolecten en la esfera de su competencia que sean susceptibles de valorización, con la finalidad de generar ingresos al Ayuntamiento. Asimismo, podrán disponer de los recursos obtenidos para la sostenibilidad de las políticas públicas que fomenten la implementación de la gestión integral.
-
-> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2023)</small>
-
-Estos residuos sólidos urbanos deben depositarse en contenedores separados para su recolección por el servicio de recolección, con el fin de facilitar su aprovechamiento, tratamiento y disposición final, o bien, llevar aquellos residuos sólidos valorizables directamente a los establecimientos de reutilización y reciclaje.
-
-### CAPÍTULO IV. DE LOS INSTRUMENTOS ECONÓMICOS
-
-###### ARTÍCULO 38.
-
-La Secretaría elaborará, ejecutará, evaluará, difundirá y en su caso actualizará el programa de manejo de residuos en situación de desastres, con base en las estrategias señaladas en el Programa Estatal Para la Prevención y Gestión Integral de los Residuos de Manejo Especial y Sólidos Urbanos, así como en las políticas y estrategias del Sistema Estatal de Protección Civil.
-
-###### ARTÍCULO 39.
-
-La Secretaría promoverá la integración de mecanismos de participación interinstitucional, del sector académico, empresarial y de la sociedad, para prevenir y minimizar la contaminación por residuos en una situación de desastres en el Estado.
-
-Los generadores, prestadores de servicios y los Municipios, están obligados a llevar a cabo medidas de prevención en el manejo de sus residuos, antes, durante y después de un desastre; así como a participar y sumarse en las actividades para evitar daños al ambiente o la salud de las personas.
+> <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 39 Bis.
 
@@ -903,861 +1679,93 @@ El Comité de Acciones Colectivas será un órgano colegiado que analizará la p
 
 El Comité de Supervisión será un órgano colegiado que se encargará de coordinar las acciones de supervisión conferidas a la Comisión Nacional.
 
-###### ARTÍCULO 40.
+###### Artículo 40.
 
-El Titular del Poder Ejecutivo del Estado y los Municipios, en coordinación con las autoridades competentes, evaluarán, desarrollarán y promoverán la implementación de instrumentos económicos y fiscales que incentiven la prevención de la generación y el manejo integral de los residuos sujetos a las disposiciones de esta Ley.
+La Comisión Nacional, previa autorización de la Junta, deberá constituir todos aquellos Comités que se deriven de otras leyes u ordenamientos aplicables.
 
-De igual forma, promoverán la aplicación de incentivos para la inversión del sector privado en el desarrollo tecnológico, adquisición de equipos y en la construcción de infraestructura para facilitar la prevención de la generación y el manejo integral de los residuos de manejo especial y sólidos urbanos.
+###### Artículo 41.
 
-###### ARTÍCULO 41.
+Los Comités se conformarán y regirán bajo los lineamientos que para tal efecto emita la Junta.
 
-La Secretaría en coordinación con la Secretaría de Educación, promoverá la incorporación de contenidos de educación ambiental en los programas de estudio que permitan el desarrollo de hábitos tendientes a reducir la generación y propiciar el manejo adecuado de los residuos.
+## TITULO CUARTO
 
-Las instituciones educativas del Estado están obligadas a instalar como parte de su equipamiento, contenedores para el depósito por separado de los residuos de conformidad con esta Ley, su reglamento y otras disposiciones jurídicas aplicables.
+### CAPITULO UNICO. DEL ORGANO INTERNO DE CONTROL
 
-## TÍTULO CUARTO. DE LOS INSTRUMENTOS DE POLÍTICAS EN MATERIA DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS
+###### Artículo 42.
 
-### CAPÍTULO V. DE LA EDUCACIÓN AMBIENTAL, INVESTIGACIÓN Y PARTICIPACIÓN SOCIAL
+La Comisión Nacional contará con un Organo Interno de Control, que será parte integrante de su estructura, cuyo titular será designado en los términos del artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal, y en el ejercicio de sus facultades se auxiliará por los titulares de las áreas de Responsabilidades y Quejas, de Auditoría Interna y de Auditoría para el Desarrollo y Mejora de la Gestión Pública, designados en los mismos términos.
 
-###### ARTÍCULO 42.
+Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en el artículo 80, fracciones I, II y III, del Reglamento Interior de la Secretaría de la Función Pública y demás ordenamientos legales y administrativos aplicables.
 
-La Secretaría y los Municipios, con la participación de la Secretaría de Educación, promoverán que las instituciones de Educación Superior y los Organismos dedicados a la investigación científica y tecnológica, apliquen planes y programas para la formación de especialistas, así como la investigación y el desarrollo de tecnologías aplicables en el manejo integral de los residuos. Para ello, se podrán celebrar convenios o acuerdos con instituciones de educación superior, centros de investigación, instituciones del sector social y privado, investigadores y especialistas en la materia.
+## TITULO QUINTO
 
-La Secretaría mediante diversas acciones difundirá los resultados de las investigaciones antes señaladas, a fin de contar con información para la elaboración de programas que fomenten la gestión integral de los residuos.
+### CAPITULO UNICO. DE LAS SUPLENCIAS
 
-## TÍTULO QUINTO. DEL MANEJO INTEGRAL DE RESIDUOS DE MANEJO ESPECIAL Y SÓLIDOS URBANOS
+###### Artículo 43.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+En sus ausencias, el Presidente será suplido por los Vicepresidentes, según la materia de su competencia.
 
-###### ARTÍCULO 48.
+En los juicios de amparo o, en general, en cualquier otro procedimiento jurisdiccional o contencioso administrativo, inclusive en materia laboral, el Presidente será suplido por el Vicepresidente Jurídico, por el Director General de Servicios Legales o por el Director Contencioso, indistintamente.
 
-Los generadores de residuos de manejo especial y sólidos urbanos, los Municipios y los prestadores de servicios, deberán manejar los residuos de manera segura y ambientalmente adecuada, conforme a los términos señalados en esta Ley, su Reglamento, las normas oficiales mexicanas, normas ambientales estatales y demás disposiciones aplicables.
+Los Vicepresidentes serán suplidos en sus ausencias por los Directores Generales de su adscripción, en los asuntos de su respectiva competencia. En ausencia de los Directores Generales, éstos serán suplidos por los Directores o Subdirectores de su adscripción en el ámbito de su respectiva competencia. En ausencia de los Directores, éstos serán suplidos, indistintamente, por los Subdirectores o Jefes de Departamento de su adscripción.
 
-En las actividades en las que se generen o manejen residuos de manejo especial y sólidos urbanos, se deberán observar los principios previstos en el artículo 4 de la presente Ley, en lo que resulten aplicables.
+Cuando los Vicepresidentes sean señalados como autoridades responsables en los juicios de amparo o, en general, en cualquier procedimiento jurisdiccional o contencioso administrativo, inclusive laboral, serán suplidos por el Vicepresidente Jurídico, por el Director General de Servicios Legales o por el Director Contencioso, indistintamente.
 
-###### ARTÍCULO 49.
+El titular de la Secretaría de la Junta será suplido por el titular de la Prosecretaría.
 
-Los Municipios y los generadores de residuos de manejo especial y sólidos urbanos, podrán contratar los servicios de manejo de estos residuos a prestadores de servicios autorizados para tales efectos por la Secretaría, o bien transferirlos a industrias para su utilización como insumos dentro de sus procesos, cuando previamente se haya hecho del conocimiento de ésta, mediante un plan de manejo para dichos insumos, basado en la minimización de sus riesgos.
+En sus ausencias, los Delegados serán suplidos por los Subdelegados de su adscripción, quienes, en su ausencia, serán suplidos por sus inmediatos inferiores, indistintamente.
 
-La responsabilidad del manejo y disposición final de los residuos de manejo especial y sólidos urbanos corresponde a quien los genera, aun y cuando el generador contrate o transfiera sus residuos a un prestador de servicios autorizado por la Secretaría, por lo que deberá asegurarse de que éstos prestadores no realicen un manejo violatorio a las disposiciones legales aplicables, comprobando que a los mismos se les dé el destino final autorizado. La responsabilidad por las operaciones de los prestadores de servicios será de ellos, independientemente de la responsabilidad que tiene el generador.
+Las ausencias del titular del Organo Interno de Control, así como las de los titulares de las áreas de Responsabilidades y Quejas, de Auditoría Interna y de Auditoría para el Desarrollo y Mejora de la Gestión Pública, serán suplidas conforme a lo previsto por el artículo 88, segundo y tercer párrafos, del Reglamento Interior de la Secretaría de la Función Pública.
 
-En caso de existir un manejo inadecuado, el generador podrá ser considerado como responsable solidario de los daños al ambiente y a las sanciones que resulten aplicables, de conformidad con esta Ley, las normas oficiales mexicanas, normas ambientales estatales y demás normatividad aplicable en la materia. No quedan exentos los propietarios o poseedores de predios donde se realice el manejo de residuos y cuyos suelos sean contaminados por éstas actividades.
-
-Quedan exentos de esta disposición los usuarios del servicio público de recolección municipal, teniendo la responsabilidad directa los Municipios de contar con transporte y sitios para el manejo o disposición final autorizados.
-
-###### ARTÍCULO 50.
-
-El aprovechamiento de los residuos de manejo especial y sólidos urbanos comprenderá la reutilización, reciclaje, tratamiento con o sin recuperación de energía y otras modalidades que se consideren pertinentes y se regulen mediante esta Ley, normas oficiales mexicanas, normas ambientales estatales y demás normatividad aplicable en la materia.
-
-###### ARTÍCULO 51.
-
-Para la prevención de la generación, la valorización y la gestión integral de los residuos de manejo especial, la Secretaría establecerá las obligaciones de los generadores y prestadores de servicios.
-
-### CAPÍTULO II. DE LA GENERACIÓN DE RESIDUOS DE MANEJO ESPECIAL
-
-###### ARTÍCULO 52.
-
-Los generadores de residuos de manejo especial, tendrán las siguientes categorías:
-
-I. Gran generador
-
-II. Pequeño generador; y
-
-III. Micro generador.
-
-###### ARTÍCULO 53.
-
-Las personas físicas o jurídicas colectivas que generen residuos de manejo especial, están obligadas a separar desde la fuente, antes de ser entregados a prestadores de servicios de manejo de este tipo de residuos, con la finalidad de facilitar su reuso, reciclaje o su disposición final adecuada.
-
-###### ARTÍCULO 54.
-
-Las personas físicas o jurídicas colectivas, que generen residuos de manejo especial, antes o después del inicio de sus obras y actividades, hasta en un plazo de sesenta días naturales están obligados a registrarse ante la Secretaría, de conformidad a lo previsto en la presente Ley, su Reglamento, las normas oficiales mexicanas y normas ambientales estatales que para tal efecto emitan las autoridades federales, estatales y municipales en el ámbito de sus atribuciones.
-
-###### ARTÍCULO 55.
-
-Los generadores de residuos de manejo especial en cualquiera de sus categorías están obligados a:
-
-I. Registrarse ante la Secretaría, conforme a los requisitos que señale la presente Ley y su Reglamento, anexando copia del pago de derechos respectivo;
-
-II. Identificar, clasificar y manejar sus residuos de conformidad con las disposiciones contenidas en la presente Ley, su Reglamento, normas oficiales mexicanas, normas ambientales estatales y demás disposiciones legales aplicables;
-
-III. Llevar bitácora de generación y manejo indicando: nombre o tipo de residuos, cantidad y volumen, y destinatario, misma que deberá permanecer en el sitio de generación por lo menos durante cinco años;
-
-IV. Contar con un área de almacenamiento temporal para los residuos de manejo especial, la cual debe estar construida para evitar la dispersión, derrame, escurrimientos o infiltraciones que causen daños al ambiente;
-
-V. Llevar bitácora mensual de entrada y salida de residuos del área de almacenamiento, indicando el nombre o tipo de residuos, cantidad y volumen, y el destino que se le dará, misma que deberá permanecer en el área de almacenamiento por lo menos durante cinco años;
-
-VI. Contar con el manifiesto de entrega, transporte y recepción de los residuos que genera;
-
-VII. En su caso, contratar a empresas de servicios autorizadas por la Secretaría para la recolección, transporte, acopio, almacenamiento, reutilización, reciclaje, tratamiento o disposición final, de conformidad con esta Ley, su Reglamento, normas oficiales mexicanas, normas ambientales estatales y demás disposiciones legales aplicables;
-
-VIII. Notificar por escrito a la Secretaría cualquier modificación relacionada a la generación de los residuos de manejo especial, así como en los procesos o actividades, en su razón social o domicilio;
-
-IX. Notificar por escrito a la Secretaría, la finalización de sus obras o actividades, así como la no generación de residuos de manejo especial; cuando se cierre o abandone, debiendo presentar un informe que contenga las acciones para restablecer las condiciones naturales del sitio donde realizaron dichas actividades, así como los plazos para su ejecución;
-
-X. En caso de ocurrir una contingencia o emergencia ambiental, el generador en un plazo de veinticuatro horas deberá informar por escrito a la Secretaría de la misma, así como realizar las acciones necesarias para recuperar y restablecer las condiciones del sitio afectado, conforme al plan de respuesta a contingencias, emergencias ambientales y accidentes; y
-
-XI. Cumplir con las disposiciones señaladas en la presente Ley, su Reglamento, normas oficiales mexicanas, normas ambientales estatales y demás disposiciones legales aplicables.
-
-Las personas que generen residuos de manejo especial, están obligadas a proporcionar la información, datos y documentos necesarios para la integración del Registro de Emisiones y Transferencia de Contaminantes (RETC), conforme a lo señalado en el Título Tercero Capítulo XIII de la LPAET, su Reglamento en la materia y demás disposiciones jurídicas aplicables.
-
-###### ARTÍCULO 56.
-
-Los grandes generadores, además de lo señalado en el artículo anterior, dentro del periodo que comprende del uno de enero al treinta de abril de cada año, deberán presentar ante la Secretaría un informe anual acerca de la generación y modalidades de manejo a las que se sujetaron los residuos del año inmediato anterior, debiendo utilizar el formato que emita la Secretaría.
-
-###### ARTÍCULO 57.
-
-Quienes posean residuos de manejo especial o residuos valorizables por compra o cualquier otra forma de transmisión o adquisición de propiedad de los mismos, sea onerosa o gratuitamente y que no esté documentada e integrada a un registro o plan de manejo ante la Secretaría, serán considerados generadores de residuos de manejo especial y tendrán todas las responsabilidades y obligaciones que señala la Ley, su Reglamento y demás disposiciones que de ellos deriven.
-
-###### ARTÍCULO 58.
-
-Para obtener el registro como generador de residuos de manejo especial, las personas físicas o jurídicas colectivas, deberán presentar solicitud por escrito acompañada de la documentación e información técnica conforme a lo señalado en el Reglamento de la presente Ley.
-
-###### ARTÍCULO 59.
-
-La Secretaría dentro de los veinte días hábiles siguientes a la fecha de recepción resolverá sobre la solicitud de registro y, en su caso, asignará el número con el cual quedará registrado el generador, tipo de residuos que genera y la categoría de generación la cual será única y exclusivamente para la obra o actividad descrita.
-
-En caso de que ésta presente insuficiencias, la Secretaría podrá requerir dentro de los cinco días hábiles siguientes a la presentación de la solicitud, las aclaraciones, rectificaciones o ampliaciones al contenido de la información y documentación proporcionada, mismas que deberán solventarse por el interesado en un plazo no mayor a tres días hábiles siguientes a la fecha del requerimiento, transcurrido el plazo correspondiente sin desahogar la prevención, se desechará el trámite.
-
-### CAPÍTULO III. DE LAS AUTORIZACIONES
-
-###### ARTÍCULO 60.
-
-Se requiere autorización de la Secretaría para la prestación del servicio de manejo de residuos de manejo especial, en las siguientes actividades:
-
-I. La recolección;
-
-II. El transporte;
-
-III. El acopio;
-
-IV. El almacenamiento;
-
-V. La reutilización y reciclaje;
-
-VI. La utilización en procesos productivos;
-
-VII. El tratamiento;
-
-VIII. La disposición final;
-
-IX. El ingreso al Estado de residuos;
-
-X. La transferencia de los derechos y obligaciones contenidas en autorizaciones expedidas por la Secretaría; y
-
-XI. Las demás que establezca la presente Ley, su Reglamento y demás disposiciones aplicables.
-
-###### ARTÍCULO 61.
-
-Los prestadores de servicio que realicen el manejo de los residuos de manejo especial están obligados a:
-
-I. Solicitar autorización para una o más actividades del manejo integral de residuos de manejo especial ante la Secretaría, anexando copia del pago de derechos respectivo;
-
-II. Manejar los residuos de conformidad con las disposiciones contenidas en la presente Ley, su Reglamento, normas oficiales mexicanas, normas ambientales estatales y demás disposiciones legales aplicables;
-
-III. Llevar bitácora diaria conforme al formato que al efecto expida esta Secretaría indicando: procedencia del residuo, nombre o tipo de residuos, cantidad y volumen, y tipo de manejo que se le dará, misma que deberá permanecer en el sitio de operación por lo menos cinco años;
-
-IV. Presentar un informe anual de manejo de residuos de manejo especial del año inmediato anterior, en el periodo comprendido de los meses de enero a abril, debiendo informar como mínimo los puntos de la fracción anterior, en el formato establecido por la Secretaría;
-
-V. Para los casos de acopio, reutilización, reciclaje, utilización de residuos en procesos productivos y tratamiento, deberán contar con un área de almacenamiento para los residuos de manejo especial, que cumplan con las condiciones establecidas en las disposiciones legales aplicables, en tanto se procesan para su aprovechamiento, tratamiento, transporte o disposición final;
-
-VI. Para los casos señalados en la fracción anterior, deberá llevar bitácora mensual de entrada y salida de residuos del área de almacenamiento, conforme al formato que al efecto expida la Secretaría, indicando el nombre o tipo de residuos, cantidad y volumen, y el destino que se le dará, misma que permanecerá en el área de almacenamiento por lo menos cinco años;
-
-VII. Contar con el manifiesto de entrega, transporte y recepción de los residuos que maneje;
-
-VIII. Entregar los residuos de manejo especial para los casos de recolección, transporte, acopio, almacenamiento, reutilización, reciclaje, utilización de residuos en procesos productivos, tratamiento o disposición final, a prestadores de servicios autorizados por la Secretaría, de conformidad con esta Ley, su Reglamento, normas oficiales mexicanas, normas ambientales estatales y demás disposiciones legales aplicables;
-
-IX. Solicitar previo a su ejecución por escrito, cualquier modificación relacionada al manejo de los residuos de manejo especial, así como cambios en sus equipos, procesos, actividades, domicilio, entre otros;
-
-X. Notificar por escrito a la Secretaría, la finalización de sus procesos o actividades de manejo de residuos de manejo especial;
-
-XI. Los prestadores de servicios foráneos que realicen la recolección y transporte de residuos de manejo especial, deberán contar con un seguro ambiental y con domicilio en el territorio estatal; en caso de no contar con este último, deberá celebrar convenio o acuerdo con persona física, jurídica colectiva o prestador de servicio que los represente en el Estado ante la Secretaría, con domicilio en el mismo;
-
-XII. En caso de ocurrir una contingencia o emergencia ambiental, el prestador de servicio en un plazo de veinticuatro horas deberá informar por escrito a la Secretaría de la misma, así como realizar las acciones necesarias para recuperar y restablecer las condiciones del sitio afectado, conforme al plan de respuesta a contingencias, emergencias ambientales y accidentes;
-
-XIII. Notificar por escrito a la Secretaría, la finalización de las actividades del manejo integral de residuos de manejo especial, cuando se cierre o abandone, debiendo presentar el plan de abandono donde establezcan las acciones correspondientes para restablecer las condiciones naturales del sitio donde realizaron dichas actividades;
-
-XIV. Cumplir con cada uno de los términos y condicionantes establecidos en las autorizaciones respectivas; y
-
-XV. Otros que determine la Secretaría, que así convengan para facilitar su manejo integral.
-
-Los prestadores de servicios que manejen de manera integral los residuos de manejo especial, están obligados a proporcionar la información, datos y documentos necesarios para la integración del Registro de Emisiones y Transferencia de Contaminantes, conforme a lo señalado en el Título Tercero Capítulo XIII de la LPAET, su Reglamento en la materia y demás disposiciones jurídicas aplicables.
-
-###### ARTÍCULO 62.
-
-Los prestadores de servicios interesados en obtener autorización para el manejo de residuos de manejo especial, deberán presentar la solicitud respectiva por escrito, así como la siguiente información:
-
-I. Datos generales del prestador de servicios, que incluyan nombre o razón social y domicilio fiscal;
-
-II. Nombre y firma del representante legal del prestador de servicios;
-
-III. Domicilio para oír y recibir notificaciones, y en su caso, el domicilio donde desarrollará sus operaciones;
-
-IV. Descripción e identificación de los residuos que se pretenden manejar;
-
-V. Uso del suelo autorizado en la zona donde se pretende instalar la empresa, plano o instalación involucrada en el manejo de los residuos y croquis señalando ubicación;
-
-VI. Programa de capacitación del personal involucrado en el manejo de residuos, en la operación de los procesos, equipos, medios de transporte, muestreo, análisis de los residuos y otros aspectos relevantes, según corresponda;
-
-VII. Plan de respuesta a contingencias o emergencias ambientales y accidentes;
-
-VIII. Memoria fotográfica de equipos, vehículos de transporte e instalaciones cuya autorización se solicite, según sea el caso;
-
-IX. Información de soporte técnico de los procesos o tecnologías a los que se someterán los residuos y formas de operación acordes con las mejores prácticas ambientales;
-
-X. Seguro de responsabilidad civil por daños a terceros o ambiental;
-
-XI. Para el caso de acopio, almacenamiento, reutilización, reciclaje, utilización de residuos en procesos productivos, tratamiento o disposición final, deberán presentar copia de la autorización en materia de impacto ambiental vigente correspondiente; y
-
-XII. Las que determinen las normas oficiales mexicanas, normas ambientales estatales y demás disposiciones legales que resulten aplicables.
-
-La Secretaría podrá solicitar al interesado, para que por única vez realice las aclaraciones, rectificaciones o ampliaciones al contenido de la solicitud de autorización para el manejo de residuos de manejo especial o de la información técnica que le sea presentada, suspendiéndose el término que restare para concluir el trámite, para lo cual se le concederá al interesado un plazo de diez días hábiles para que presente dicha información.
-
-En caso de que la información requerida no sea presentada, en el plazo antes señalado, se desechará el trámite.
-
-Si la información solicitada es presentada y se ajusta a las formalidades previstas en esta Ley, su Reglamento, las normas ambientales estatales, las normas oficiales mexicanas y una vez que se haya cumplido con los requisitos establecidos en las mismas, se integrará el expediente respectivo en un plazo no mayor de diez días hábiles.
-
-###### ARTÍCULO 63.
-
-La Secretaría deberá emitir por escrito la resolución que corresponda, autorizando o negando el tipo de manejo que hubiere solicitado, en un plazo no mayor a treinta días hábiles, contados a partir de la integración del expediente.
-
-La vigencia de las autorizaciones será determinada por la Secretaría, de acuerdo a lo señalado en el Reglamento de la presente Ley, y en su caso, podrán ser prorrogadas a solicitud de la parte interesada.
-
-La Secretaría podrá, si así lo considera conveniente, solicitar garantías del cumplimiento de los términos y condicionantes de las autorizaciones, conforme al volumen y características de los residuos que se manejen. Al efecto los prestadores de servicio deberán presentar el informe de cumplimiento de los términos y condicionantes en el cual se incluya evidencia documental y fotográfica de lo establecido en la autorización respectiva.
-
-La Secretaría podrá verificar el cumplimiento de los términos y condicionantes que se señalen en las autorizaciones que emita.
-
-###### ARTÍCULO 64.
-
-Para la solicitud de prórroga de la autorización en materia de residuos de manejo especial, los prestadores de servicios la deberán presentar por escrito, anexando y señalando lo siguiente:
-
-I. La solicitud de prórroga en el último año de vigencia de la autorización y hasta treinta días naturales previos al vencimiento de la vigencia mencionada, anexando copia del pago de derechos respectivo;
-
-II. Que la actividad desarrollada por el solicitante es igual a la originalmente autorizada;
-
-III. Que no hayan variado el o los tipos de residuos de manejo especial por los que fue otorgada la autorización;
-
-IV. Que el solicitante sea el titular de la autorización;
-
-V. La evidencia documental de haber presentado en tiempo y forma el informe anual del manejo de los residuos de manejo especial;
-
-VI. La evidencia documental de haber presentado el informe de cumplimiento de términos y condicionantes de la autorización otorgada; y
-
-VII. La evidencia documental de no contar con procedimiento de inspección y vigilancia.
-
-En caso de contar con el mismo presentar evidencia de haber cumplido con la normatividad ambiental estatal, hasta en tanto no se otorgará la prorroga solicitada.
-
-En caso de que la solicitud no contenga la información o anexos señalados en las fracciones anteriores, se desechará el trámite.
-
-La Secretaría resolverá sobre la solicitud de prórroga de autorización en un plazo no mayor de treinta días hábiles, contados a partir de la fecha en que la solicitud respectiva se haya recibido.
-
-###### ARTÍCULO 65.
-
-Los titulares de una autorización podrán solicitar a la Secretaría la modificación de la misma, para lo cual deberán presentar por escrito la solicitud que contenga el número de autorización, la modificación que solicita y las causas que motivan la modificación, anexando los documentos con los cuales se acrediten dichas causas, así como copia del pago de derechos respectivo.
-
-La Secretaría podrá solicitar al interesado, para que por única vez realice las aclaraciones, rectificaciones o ampliaciones al contenido de la solicitud de modificación de autorización para el manejo de residuos de manejo especial o de la información técnica que le sea presentada, suspendiéndose el término que restare para concluir el trámite, para lo cual se le concederá al interesado un plazo de cinco días hábiles para que presente dicha información.
-
-En caso, de que la información requerida no sea presentada, en el plazo antes señalado, se desechará el trámite.
-
-Si la información solicitada es presentada y se ajusta a las formalidades previstas en esta Ley, su Reglamento, las normas ambientales estatales, las normas oficiales mexicanas y una vez que se haya cumplido con los requisitos establecidos en las mismas, se integrará el expediente respectivo en un plazo no mayor de diez días hábiles.
-
-La Secretaría autorizará o negará, en su caso, la modificación solicitada en un plazo de veinte días hábiles, contados a partir de la integración del expediente respectivo y en apego a las disposiciones contenidas en esta Ley, su Reglamento, las normas oficiales mexicanas, normas ambientales estatales y demás disposiciones aplicables para el otorgamiento de autorizaciones.
-
-###### ARTÍCULO 66.
-
-Son causas de modificación de las autorizaciones:
-
-I. Cambio de nombre y razón social;
-
-II. Cambio de ubicación del sitio donde realiza las actividades de manejo autorizadas;
-
-III. Ampliación o disminución en las actividades de manejo y proceso de los residuos;
-
-IV. Ampliación o disminución de equipos de recolección y transporte;
-
-V. Ampliación o disminución del tipo de residuos; y
-
-VI. Otros que determine la Secretaría.
-
-En el caso de la fracción I, los titulares de la autorización respectiva, deberán acompañar copia certificada del acta de asamblea de la persona jurídica colectiva correspondiente, protocolizada ante fedatario público y en la cual conste el cambio de denominación o razón social, así como el instrumento jurídico que acredita la personalidad del representante legal de la empresa a la que se ha cambiado la denominación o razón social.
-
-###### ARTÍCULO 67.
-
-La Secretaría otorgará consentimiento para la transferencia de los derechos y obligaciones que derivan de las autorizaciones, cuando ésta se solicite con motivo de actos traslativos de dominio de empresas o instalaciones, escisión o fusión de sociedades.
-
-Para el caso de actos traslativos de dominio, en la solicitud correspondiente se deberá proporcionar el instrumento público que contenga dichos actos, el que acredite la personalidad jurídica de quien será el representante legal y la declaración bajo protesta de decir verdad de que subsisten las condiciones para el otorgamiento de la autorización que se pretenda transferir, incluyendo la obligación total del cumplimiento de los términos y condicionantes establecidos en la autorización y que el cesionario no se encuentre sujeto a procedimientos administrativos, derivado del incumplimiento de la presente Ley y su Reglamento.
-
-Además el cesionario deberá manifestar por escrito ante la Secretaría, que se sujetará y responsabilizará de los derechos y obligaciones impuestos al prestador de servicio que transfiere la autorización para continuar con la actividad respectiva.
-
-La Secretaría podrá solicitar información adicional, en términos de lo señalado en el artículo 65 de la presente Ley.
-
-La Secretaría deberá emitir por escrito la resolución que corresponda, autorizando o negando la transferencia de la misma, en un plazo de treinta días hábiles contados a partir de la presentación de la solicitud.
-
-### CAPÍTULO IV. DE LA GESTIÓN DE TRÁMITES
-
-###### ARTÍCULO 68.
-
-La Secretaría publicará en el Periódico Oficial del Estado las guías y formatos que correspondan, a efecto de que los interesados cumplan con lo establecido en la presente Ley y su Reglamento.
-
-###### ARTÍCULO 69.
-
-La Secretaría emitirá el acuerdo en donde determinará los periodos vacacionales, así como los días inhábiles para los trámites administrativos y procedimientos de inspección y vigilancia, con las salvedades que considere pertinentes y con apego al marco legal correspondiente, dicho acuerdo se publicará en el Periódico Oficial del Estado.
-
-### CAPÍTULO V. DE LA SUSPENSIÓN, EXTINCIÓN, NULIDAD, REVOCACIÓN Y CADUCIDAD DE LAS AUTORIZACIONES
-
-###### ARTÍCULO 70.
-
-La Secretaría suspenderá las autorizaciones que emita en los siguientes casos:
-
-I. Por ordenamiento, mediante acuerdo o proveído, de autoridad judicial o jurisdiccional competente;
-
-II. Cuando exista conflicto respecto de la propiedad o posesión del predio donde se están desarrollando las actividades autorizadas ante alguna autoridad o instancia competente;
-
-III. Cuando se detecten irregularidades graves en el cumplimiento de términos y condicionantes, que pongan en riesgo la salud y el ambiente; y
-
-IV. En los demás casos previstos en esta Ley, su Reglamento, normas oficiales mexicanas, normas ambientales estatales y demás disposiciones que de ella emanen.
-
-La suspensión a que se refiere este artículo, sólo surtirá efectos respecto de la ejecución de la autorización respectiva, siempre y cuando no tenga efectos negativos en la protección del ambiente.
-
-La suspensión se hará en los términos, condiciones y plazos que se establezcan en el Reglamento de la presente Ley o en los que determine la Secretaría.
-
-###### ARTÍCULO 71.
-
-Las autorizaciones se extinguen por cualquiera de las causas siguientes:
-
-I. Vencimiento del término por el que se hayan otorgado, salvo que medie solicitud de prórroga en el plazo establecido por la secretaría;
-
-II. Renuncia o desistimiento del titular;
-
-III. Muerte del titular, salvo que exista designación expresa de beneficiarios, o en caso de persona jurídica colectiva, por disolución o liquidación;
-
-IV. Desaparición de su finalidad o del objeto de la autorización;
-
-V. Nulidad, revocación y caducidad; y
-
-VI. Cualquier otra prevista en la presente Ley, su Reglamento o en la autorización misma, que hagan imposible o inconveniente su continuación.
-
-###### ARTÍCULO 72.
-
-Son causas de nulidad de las autorizaciones:
-
-I. Cuando el objeto de la autorización se ejecute en contravención a las disposiciones de orden público o a las contenidas en la presente Ley, su Reglamento, normas oficiales mexicanas, normas ambientales estatales y demás disposiciones que de ella emanen;
-
-II. Cuando se haya otorgado sustentándose en datos falsos o erróneos proporcionados por el titular;
-
-III. Cuando se hayan expedido en violación a las disposiciones de esta Ley, su Reglamento, normas oficiales mexicanas, normas ambientales estatales y demás disposiciones que de ella emanen, o cuando una vez otorgadas, se acredite que no se actualizaron los supuestos y requisitos establecidos para su otorgamiento; y
-
-IV. Las demás que señale la presente Ley, su Reglamento y las establecidas en las propias autorizaciones.
-
-Cuando la nulidad se funde en error, respecto a la referencia específica de identificación del expediente, documentos o nombre completo de las personas y no en la violación de la Ley o en la falta de los supuestos para el otorgamiento de la autorización, ésta podrá ser confirmada por la Secretaría, tan pronto como cese tal circunstancia.
-
-###### ARTÍCULO 73.
-
-Las autorizaciones serán revocadas por cualquiera de las siguientes causas:
-
-I. Cuando se cedan o transfieran a un tercero sin autorización expresa de la Secretaría;
-
-II. Por dejar de cumplir con los términos y condicionantes a que se sujete el otorgamiento de la autorización o infringir lo dispuesto en esta Ley, su Reglamento, normas oficiales mexicanas, normas ambientales estatales y demás disposiciones que de ella emanen;
-
-III. Cuando exista falsedad en la información para acreditar el cumplimiento de los términos y condicionantes establecidas en la autorización, o el titular de la autorización altere o modifique su contenido;
-
-IV. Realizar actividades no autorizadas y que requieran de autorización expresa conforme a esta Ley y su Reglamento;
-
-V. No realizar la reparación del daño ambiental que se cause con motivo de las actividades autorizadas, así como la persistencia de los hechos u omisiones que motivaron la suspensión de la autorización, cuando haya vencido el término que se hubiere fijado para corregirlas;
-
-VI. Por resolución definitiva de autoridad judicial o jurisdiccional competente; y
-
-VII. Los demás casos previstos en esta Ley o en las propias autorizaciones.
-
-###### ARTÍCULO 74.
-
-Las autorizaciones caducan cuando no se ejerzan durante el término de su vigencia y en los demás casos previstos en esta Ley, su reglamento o en las propias autorizaciones.
-
-###### ARTÍCULO 75.
-
-La suspensión, la extinción, la nulidad, la revocación y la caducidad de las autorizaciones, se dictarán por la autoridad que otorgó la autorización, conforme a los términos siguientes:
-
-I. Notificará al titular de la autorización la causa que motive el inicio del procedimiento y le concederá un plazo de cinco días hábiles contados a partir de que surta efectos la notificación para que comparezca por escrito, manifieste lo que a su derecho convenga y exhiba las constancias o documentos que estime pertinentes; y
-
-II. Dentro de los treinta días hábiles siguientes, a que haya transcurrido el plazo a que se refiere la fracción I de este artículo, la Secretaría resolverá lo conducente.
-
-Cuando la Secretaría solicite información a cualquier otra autoridad para la determinación, comprobación o conocimiento de los hechos en virtud de los cuales deba pronunciar su resolución, le otorgará un plazo de diez días hábiles para que emita su respuesta. Si transcurrido el plazo anterior, no se recibiese el informe, se entenderá que no existe objeción a las pretensiones del interesado.
-
-Tratándose de la suspensión referida en la fracción I y II del artículo 70 de la presente Ley, la Secretaría levantará la misma dentro de los cinco días hábiles siguientes a aquél en que el titular de la autorización exhiba copia certificada de la resolución o sentencia definitiva y del acuerdo que la haya declarado ejecutoriada.
-
-### CAPÍTULO VI. DE LAS ACTIVIDADES DEL MANEJO DE RESIDUOS DE MANEJO ESPECIAL
-
-###### ARTÍCULO 76.
-
-El manejo integral de los residuos de manejo especial, podrá comprender algunas de las siguientes actividades:
-
-I. Recolección;
-
-II. Transporte;
-
-III. Acopio;
-
-IV. Almacenamiento;
-
-V. Reutilización;
-
-VI. Reciclaje;
-
-VII. Utilización en procesos productivos;
-
-VIII. Tratamiento; y
-
-IX. Disposición final.
-
-###### ARTÍCULO 77.
-
-Para la prestación de servicios de una o más actividades que comprenden el manejo integral de los residuos de manejo especial enlistadas en el artículo anterior, se deberá contar con autorización por parte de la Secretaría, así como llevarlas a cabo conforme a lo establecido en esta Ley, su Reglamento y demás disposiciones aplicables.
-
-###### ARTÍCULO 78.
-
-La recolección de los residuos de manejo especial es obligación de sus generadores, quienes deberán contratar un prestador de servicio de manejo para la realización de esta etapa.
-
-###### ARTÍCULO 79.
-
-El transporte de residuos de manejo especial dentro del territorio estatal, se realizará con previa autorización de la Secretaría, para lo cual deberá observarse:
-
-I. Las condiciones necesarias para el transporte, que evite la filtración o dispersión de los residuos;
-
-II. Las medidas de seguridad en el transporte que garanticen la seguridad de la población y eviten daños al ambiente;
-
-III. Las mejores rutas y horarios de transporte, dependiendo de los lugares de salida y destino de los residuos; y
-
-IV. En su caso, los requerimientos establecidos en el plan de manejo correspondiente.
-
-###### ARTÍCULO 80.
-
-Los vehículos que circulen en el territorio estatal y transporten residuos de manejo especial, deberán cumplir con los requisitos y condiciones establecidos en esta Ley, su Reglamento y las demás disposiciones aplicables.
-
-La Secretaría otorgará la autorización respectiva, en la que se establecerán términos, condicionantes y medidas de seguridad que deberán observarse.
-
-###### ARTÍCULO 81.
-
-Las aguas residuales provenientes de baños portátiles y fosas sépticas, posterior a su recolección, deberán ser transportadas a plantas de tratamiento operadas por los organismos respectivos o prestadores de servicios autorizados por la autoridad competente en la materia.
-
-Queda prohibido descargar las aguas residuales anteriormente señaladas sin tratamiento en el drenaje público, cárcamos, cuerpos de agua y terrenos baldíos.
-
-###### ARTÍCULO 82.
-
-Para las actividades de acopio, reutilización, reciclaje y co-procesamiento deberán implementar instalaciones o sitios para la selección y separación de residuos, y contar con la infraestructura necesaria para la realización del trabajo especializado y el almacenamiento de dichos residuos de acuerdo a sus características. Dichas instalaciones contarán según sea el caso, con contenedores o áreas para el almacenamiento por separado de residuos destinados a:
-
-I. Reutilización;
-
-II. Reciclaje;
-
-III. Tratamiento; y
-
-IV. Disposición final, cuando se trate de residuos no valorizables.
-
-###### ARTÍCULO 83.
-
-Las actividades de tratamiento de residuos de manejo especial, se llevarán a cabo conforme a lo que establezca esta Ley, su Reglamento, normas oficiales mexicanas, normas ambientales estatales y demás disposiciones aplicables.
-
-###### ARTÍCULO 84.
-
-Los prestadores de servicios que realicen tratamientos físicos, químicos o biológicos de los residuos de manejo especial, previo pago de derechos, deberán presentar a la Secretaría el protocolo de pruebas, que incluirá los procedimientos, métodos o técnicas para su realización; los cuales deberán estar validados por organizaciones o instituciones acreditadas en los términos del Reglamento de la presente Ley. Para tal caso, personal de la Secretaría deberá estar presente en dichos procesos de validación.
-
-###### ARTÍCULO 85.
-
-La disposición de residuos de manejo especial en sitios de disposición final, es considerada como la última etapa, una vez que se hayan agotado las posibilidades de valorizar los residuos por otros métodos.
-
-Los sitios de disposición final se ubicarán, diseñarán, construirán, operarán y clausurarán de conformidad con la presente Ley, su Reglamento y demás disposiciones aplicables.
-
-###### ARTÍCULO 86.
-
-Los prestadores de servicios que involucren una o más actividades del manejo integral de los residuos de manejo especial, estarán obligados a prevenir la contaminación de sitios por sus actividades y a llevar a cabo las acciones de remediación que correspondan conforme a las disposiciones legales aplicables.
-
-### CAPÍTULO VII. DE LOS RESIDUOS SÓLIDOS URBANOS
-
-###### ARTÍCULO 87.
-
-Los Municipios llevarán a cabo las acciones necesarias para la prevención de la generación, valorización y gestión integral de los residuos sólidos urbanos, considerando:
-
-I. Las obligaciones a las que se sujetarán los generadores;
-
-II. Los requisitos para la prestación de los servicios para su manejo integral; y
-
-III. Los ingresos que deberán obtener por brindar el servicio de su manejo integral.
-
-###### ARTÍCULO 88.
-
-En el manejo integral de los residuos sólidos urbanos en el estado de Tabasco, los Municipios tendrán a su cargo los servicios públicos siguientes: limpia o barrido, recolección, traslado o transporte, transferencia, separación, tratamiento y disposición final.
-
-Los Municipios deberán cumplir con los preceptos de la presente Ley, su Reglamento, las normas oficiales mexicanas, normas ambientales estatales y demás disposiciones aplicables.
-
-###### ARTÍCULO 89.
-
-Los Municipios formularán y realizarán campañas o programas graduales que promuevan la obligación de la separación en la fuente de los residuos sólidos urbanos, en orgánico e inorgánico.
-
-###### ARTÍCULO 90.
-
-Los Municipios deberán instalar contenedores en la vía pública en cantidad suficiente y debidamente distribuidos. Dichos contenedores deberán estar tapados, recibir mantenimiento periódico y ser vaciados con la debida regularidad. Los contenedores deberán ser diferenciados y fácilmente identificables, destinados para residuos sólidos urbanos orgánicos e inorgánicos.
-
-###### ARTÍCULO 91.
-
-La recolección de residuos sólidos urbanos, se realizará de acuerdo a las disposiciones administrativas que expidan las autoridades municipales, las que deberán establecer la periodicidad con la que ocurrirá, tipos de recolección, horarios, días, rutas que se seguirán y los puntos en los que tendrán lugar.
-
-###### ARTÍCULO 92.
-
-Los Municipios contarán con equipos y personal capacitado para realizar las acciones necesarias en materia de recolección diferenciada y separada, y transporte de los residuos.
-
-###### ARTÍCULO 93.
-
-Para la transportación de residuos sólidos urbanos, deberán observarse:
-
-I. Las condiciones necesarias para el transporte, que evite la filtración o dispersión de los residuos; y
-
-II. Las medidas de seguridad en el transporte que garanticen la seguridad de la población y eviten daños al ambiente.
-
-###### ARTÍCULO 94.
-
-Para la operación y mantenimiento de las estaciones de transferencia y plantas de selección y tratamiento de residuos sólidos urbanos, se deberá contar con:
-
-I. Personal previamente capacitado para reconocer el riesgo de los residuos que manejan y darles un manejo seguro y ambientalmente adecuado;
-
-II. Maquinaria y equipo suficiente para su operación y mantenimiento, incluyendo equipo de protección personal;
-
-III. Plan de respuesta a contingencias o emergencias ambientales y accidentes;
-
-IV. Bitácora en la cual se registren los residuos que se reciben, indicando tipo, peso o volumen, destino, fecha de entrada y salida de los mismos;
-
-V. Área para segregar y almacenar temporalmente los residuos, por tiempos acordes con lo que establezcan las disposiciones respectivas; y
-
-VI. Los demás requisitos que determinen las disposiciones legales aplicables.
-
-###### ARTÍCULO 95.
-
-Aquellos residuos sólidos urbanos en los que se haya agotado la posibilidad de valorización, deberán ser enviados a rellenos sanitarios.
-
-###### ARTÍCULO 96.
-
-Los sitios destinados a la transferencia, separación, tratamiento y disposición final de residuos sólidos urbanos, deberán sujetarse a lo establecido en las disposiciones legales aplicables.
-
-Con la finalidad de reducir la generación de residuos, queda prohibido otorgar de manera gratuita bolsas de plástico a los consumidores, que no sean consideradas biodegradables, por parte de cualquier tienda departamental, de servicio o comercio, conforme a los lineamientos que emita la secretaria.
-
-Los sujetos obligados que no cumplan con lo señalado en el presente capitulo y demás normatividad correspondiente serán sancionados de conformidad con la presente Ley.
-
-###### ARTÍCULO 97.
-
-Los sitios de disposición final autorizados, una vez clausurados, podrán ser aprovechados veinte años posteriores a su clausura, solo para crear parques y jardines, siempre y cuando se cumplan con las disposiciones legales aplicables.
-
-###### ARTÍCULO 98.
-
-Quienes realicen las actividades de compra y venta de materiales valorizables recuperados de los residuos sólidos urbanos, deberán registrarse ante la autoridad municipal, a fin de integrar el inventario de la capacidad instalada en la materia y facilitar el acceso de esta información a los generadores y población en general.
-
-###### ARTÍCULO 99.
-
-Los Municipios en el ámbito de su competencia podrán:
-
-I. Otorgar a personas físicas o jurídicas colectivas, la concesión total o parcial de los servicios públicos de limpia o barrido, recolección, traslado o transporte, transferencia, separación, tratamiento y disposición final de los residuos sólidos urbanos;
-
-II. Otorgar a personas físicas o jurídicas colectivas la concesión para la construcción, operación y mantenimiento de sitios de disposición final u otras obras para la transferencia, separación y tratamiento de residuos sólidos urbanos; y
-
-III. Contratar con personas físicas o jurídicas colectivas de manera parcial o integral, la prestación del servicio de recolección y transporte de residuos sólidos urbanos.
-
-Para el otorgamiento de las concesiones y contratos a que se refiere el presente artículo, cada Municipio realizará los estudios que determinen su viabilidad técnica, financiera y ambiental.
-
-###### ARTÍCULO 100.
-
-Los Municipios en el ámbito de su competencia, expedirán los reglamentos, ordenamientos y demás disposiciones necesarias para proveer el cumplimiento de la presente Ley y su Reglamento.
-
-### CAPÍTULO VIII. DE LAS PROHIBICIONES
-
-###### ARTÍCULO 101.
-
-En materia de residuos de manejo especial y sólidos urbanos, queda prohibido:
-
-I. Verter residuos en el sistema de drenaje y alcantarillado, en la vía pública, en carreteras estatales, predios baldíos, barrancas, cuerpos de agua de jurisdicción estatal, áreas naturales protegidas, caminos rurales, suelos o predios agrícolas o pecuarios y en los demás sitios que sean considerados de jurisdicción estatal;
-
-II. Transportar residuos en áreas del vehículo que no sean aptas para su movilización segura;
-
-III. Almacenar por más de seis meses en las fuentes generadoras y en los sitios donde se manejen los residuos de manejo especial;
-
-IV. Quemar residuos a cielo abierto;
-
-V. Instalar o construir centros de acopio o almacenamiento sin autorización;
-
-VI. Usar los residuos sin tratar para el recubrimiento de suelos, sin perjuicio de las facultades de la Secretaría;
-
-VII. Almacenar y disponer residuos fuera de los sitios autorizados para dicho fin;
-
-VIII. Diluir residuos en cualquier medio, cuando no sea parte de un tratamiento autorizado;
-
-IX. Mezclar residuos de manejo especial que sean incompatibles entre sí;
-
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2019)</small>
-
-X. Establecer y operar sitios de disposición final sin autorización emitida por la Secretaría;
-
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2019)</small>
-
-XI. Almacenar en el mismo lugar o celda, residuos de manejo especial incompatibles o en cantidades que rebasen la capacidad instalada, de acuerdo a lo autorizado por la Secretaría;
-
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2019)</small>
-
-XII. Otorgar de manera gratuita bolsas de plástico, que no sean consideradas biodegradables, a los consumidores por parte de cualquier tienda departamental, de servicio o comercio, conforme a los lineamientos que emita la secretaria;
-
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2019)</small>
-
-XIII. Que en los sitios de venta de alimentos y bebidas, se ofrezca u otorgue a los consumidores popotes de plástico; y
-
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2019)</small>
-
-XIV. Que en los establecimientos comerciales y mercantiles la venta de alimentos y bebidas se sirva en recipientes de poliestireno expandido, conocido como unicel.
-
-La Secretaría y los Municipios en el ámbito de su competencia, vigilarán el cumplimiento de las anteriores disposiciones.
-
-> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2019)</small>
-
-En los establecimientos a que se refieren las fracciones XII, XIII y XIV del presente artículo, se deberá colocar en lugares visibles, información relacionada con la contaminación generada por el uso de bolsas de plástico, popotes y poliestireno expandido conocido como unicel al ser desechados.
-
-> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2019)</small>
-
-Las prohibiciones no serán aplicables en el uso de bolsas de empaque o productos de origen, para conservación de alimentos, uso médico, bolsas reutilizables, biodegradables y compostables.
-
-### CAPÍTULO IX. DE LA VALORIZACIÓN DE LOS RESIDUOS
-
-#### SECCIÓN PRIMERA. DEL RECICLAJE
-
-###### ARTÍCULO 102.
-
-La Secretaría podrá instrumentar y promover programas o campañas para la reutilización, reciclaje y co-procesamiento de los residuos, a fin de promover mercados para su aprovechamiento, en coordinación con la Federación, el Estado y los Municipios, vinculando al sector privado, organizaciones sociales y otros sectores económicos.
-
-###### ARTÍCULO 103.
-
-El acopio y almacenamiento temporal de los materiales potencialmente valorizables que hayan sido recuperados con fines de comercialización, deberán realizarse de manera ambientalmente adecuada y, en su caso, no exceder los límites de tiempo que disponga la presente Ley y su Reglamento.
-
-#### SECCIÓN SEGUNDA. DEL COMPOSTEO
-
-###### ARTÍCULO 104.
-
-La Secretaría, en coordinación con los Municipios, promoverá la elaboración y el consumo de composta, a partir de los residuos orgánicos provenientes de los residuos de manejo especial y sólidos urbanos.
-
-Por su parte, los Municipios podrán encargarse de las actividades señaladas en el párrafo anterior, procurando que la composta producida se utilice preferentemente en parques, jardines, áreas verdes, zonas de reforestación, áreas naturales protegidas y otras que requieran ser regeneradas.
-
-###### ARTÍCULO 105.
-
-La Secretaría, en coordinación con los Municipios, promoverá la elaboración de composta por los particulares, en aquellos lugares en los cuales no sea rentable el establecimiento de plantas de composteo.
-
-Toda empresa agrícola, industrial o agroindustrial, deberá procesar los residuos biodegradables generados en sus procesos productivos, utilizándolos como fuente energética, transformándolos en composta o utilizando técnicas equivalentes que no deterioren el ambiente.
-
-###### ARTÍCULO 106.
-
-Toda persona física o jurídica colectiva que lleve a cabo procesos de tratamiento de residuos orgánicos provenientes de residuos de manejo especial y sólidos urbanos para la producción y venta de composta, debe cumplir con las disposiciones legales aplicables. Esta disposición no aplica a quienes generen composta a partir de sus propios residuos para uso doméstico con fines de jardinería.
-
-### CAPÍTULO X. DE LA PRODUCCIÓN Y EL CONSUMO SUSTENTABLE
-
-###### ARTÍCULO 107.
-
-La Secretaría podrá emitir normas ambientales estatales o lineamientos que conlleven al desarrollo de buenas prácticas de producción y consumo, para promover la producción de productos, de estilos de vida, compras públicas y educación, que tengan como finalidad la reducción en la generación de residuos y la promoción de la valorización de éstos, así como determinar que la evaluación se realizará con base en el análisis de ciclo de vida de productos, procesos o servicios.
-
-La Secretaría, con la participación de los demás órdenes de gobierno, universidades, centros de investigación, organizaciones sociales, empresariales, de mujeres, indígenas y en general de toda la sociedad, promoverán y serán parte de las acciones para lograr una producción y consumo sustentable.
-
-###### ARTÍCULO 108.
-
-La Secretaría podrá realizar en el ámbito de su competencia y para lograr una producción y consumo, sustentable orientado a la minimización y la reducción de la generación de residuos, así como de la valorización de éstos, las acciones de promoción siguientes:
-
-I. La introducción de cambios en la forma de consumir por parte de la sociedad en general;
-
-II. Los cambios de producción en las principales actividades productivas de la Entidad;
-
-III. El desarrollo de lineamientos y acciones en la materia;
-
-IV. La producción limpia en el sector público, social y privado orientada a la reducción y minimización de la generación de residuos;
-
-V. El diseño de políticas y estrategias de desarrollo sustentable para atender la problemática relativa al manejo integral de residuos;
-
-VI. El enfoque integrado en la elaboración de políticas a nivel estatal, regional y municipal en materia de generación y manejo integral de residuos; y
-
-VII. La prevención, reducción y minimización de la generación de residuos de manejo especial y residuos sólidos urbanos, y promover el uso de materiales alternativos que no dañen al ambiente.
-
-## TÍTULO SEXTO. DE LAS MEDIDAS DE SEGURIDAD, INFRACCIONES, SANCIONES Y RECURSO DE REVISIÓN
-
-### CAPÍTULO I. DE LAS VISITAS DE INSPECCIÓN
-
-###### ARTÍCULO 109.
-
-La Secretaría realizará los actos de inspección y vigilancia para verificar el cumplimiento de las disposiciones en materia de residuos de manejo especial e impondrá las medidas correctivas, de seguridad y sanciones que resulten procedentes, de conformidad con lo que establece la LPAET, la presente Ley y su Reglamento y las demás disposiciones legales aplicables.
-
-###### ARTÍCULO 110.
-
-Si como resultado de una visita de inspección se detecta la comisión de un delito, se deberá dar vista a la autoridad competente.
-
-### CAPÍTULO II. DE LAS MEDIDAS DE SEGURIDAD
-
-###### ARTÍCULO 111.
-
-Si de las visitas de inspección se desprenden infracciones a la presente Ley; en el acuerdo de emplazamiento respectivo, la Secretaría requerirá al interesado cuando proceda, mediante notificación personal o por correo certificado con acuse de recibo, para que adopte de inmediato las medidas correctivas que en su caso resulten necesarias para cumplir con las disposiciones legales aplicables, así como con los permisos, licencias, autorizaciones o concesiones respectivas, señalando el plazo que corresponda para su cumplimiento, fundado y motivado el requerimiento.
-
-Cuando se produzca un riesgo ambiental o para la población, derivado del manejo de residuos de manejo especial, la Secretaría de manera fundada y motivada, podrá ordenar alguna o algunas de las siguientes medidas de seguridad:
-
-I. La clausura temporal parcial o total de las fuentes contaminantes, así como de las instalaciones en que se manejen productos o sustancias riesgosas, residuos de manejo especial o que se desarrollen obras o actividades de impacto ambiental que den lugar a los supuestos a que se refiere este artículo;
-
-II. La suspensión de las actividades respectivas;
-
-III. El aseguramiento precautorio de materiales o residuos de manejo especial y demás bienes involucrados con la conducta que da lugar a la imposición de la medida de seguridad; y
-
-IV. La neutralización o cualquier acción análoga que impida que los residuos de manejo especial ocasionen los efectos adversos previstos en este artículo.
-
-Asimismo, la Secretaría podrá promover ante la autoridad competente, la ejecución de cualquier medida de seguridad que se establezca en otros ordenamientos legales aplicables.
-
-Las medidas de seguridad ordenadas por la Secretaría en caso de riesgo ambiental, son de inmediata ejecución, tienen carácter preventivo y en su caso correctivo.
-
-###### ARTÍCULO 112.
-
-Cuando la Secretaría ordene alguna de las medidas de seguridad previstas en esta Ley, indicará al interesado cuando proceda, las acciones que deba llevar a cabo para subsanar las irregularidades, así como los plazos para su realización, a fin de que una vez cumplidas, se ordene el retiro de la medida de seguridad impuesta.
-
-### CAPÍTULO III. DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS
-
-###### ARTÍCULO 113.
-
-De conformidad con esta Ley y su Reglamento, serán sancionadas las personas que lleven a cabo cualquiera de las siguientes actividades:
-
-I. Recolectar, transportar, acopiar, almacenar, reutilizar, reciclar, utilizar en procesos productivos, tratar o disponer residuos de manejo especial, sin contar con la debida autorización para ello;
-
-II. Incumplir durante el manejo individual o integral de los residuos de manejo especial, las disposiciones previstas por esta Ley y la normatividad que de ella se derive, así como los términos y condicionantes de las autorizaciones que al efecto se expidan, para evitar daños al ambiente y la población;
-
-III. No registrarse como generador de residuos de manejo especial e incumplir con las obligaciones señaladas en el artículo 55 de esta Ley;
-
-IV. No contar con planes de manejo los grandes generadores de residuos de manejo especial;
-
-V. No presentar los grandes generadores el informe anual de generación y modalidades de manejo a las que se sujetaron los residuos del año inmediato anterior;
-
-VI. No contar con autorización los prestadores de servicios para el manejo individual o integral de los residuos de manejo especial e incumplir con las obligaciones señaladas en el artículo 61 de esta Ley;
-
-VII. Transferir autorizaciones para el manejo individual o integral de residuos de manejo especial, sin el consentimiento previo por escrito de la Secretaría;
-
-VIII. Almacenar residuos de manejo especial por más de seis meses;
-
-IX. Transportar residuos de manejo especial sin las condiciones necesarias que eviten su derrame, filtración o dispersión;
-
-X. Ingresar al Estado residuos de manejo especial sin autorización;
-
-XI. Mezclar residuos de manejo especial que sean incompatibles entre sí;
-
-XII. Disponer los residuos de manejo especial en estado líquido o semisólido, sin que hayan sido previamente neutralizados o tratados;
-
-XIII. Verter o disponer residuos de manejo especial en sitios no autorizados;
-
-XIV. Quemar residuos de manejo especial a cielo abierto;
-
-XV. Proporcionar a la Secretaría información falsa con relación a la generación y manejo individual o integral de residuos de manejo especial;
-
-XVI. No dar aviso a la Secretaría en caso de contingencias, emergencias y accidentes, tratándose de generadores o prestadores de servicios;
-
-XVII. No retirar la totalidad de los residuos de manejo especial de las obras o actividades donde se hayan generado o llevado a cabo actividades de manejo individual o integral de residuos de manejo especial, una vez que éstas dejen de realizarse; y
-
-XVIII. Incurrir en cualquier otra violación a los preceptos de esta Ley.
-
-###### ARTÍCULO 114.
-
-Para la imposición de sanciones por infracciones a esta Ley, se estará a lo dispuesto en la LPAET y demás disposiciones legales aplicables.
-
-### CAPÍTULO IV. DEL RECURSO DE REVISIÓN Y DENUNCIA POPULAR
-
-###### ARTÍCULO 115.
-
-Los interesados afectados por las resoluciones definitivas dictadas con motivo de la aplicación de esta Ley, su Reglamento y demás disposiciones que de ella emanen, podrán impugnarlas mediante el recurso de revisión que establece la LPAET o mediante juicio seguido ante el Tribunal de lo Contencioso Administrativo del Estado, en los términos que establece la Ley de Justicia Administrativa del Estado.
-
-###### ARTÍCULO 116.
-
-La substanciación del recurso de revisión a que se refiere el artículo anterior de esta Ley, se sujetará a lo dispuesto en la LPAET, en sus preceptos aplicables.
-
-###### ARTÍCULO 117.
-
-Toda persona, grupos sociales, organizaciones no gubernamentales, asociaciones y sociedades, podrán denunciar ante la Secretaría o ante otras autoridades todo hecho, acto u omisión que produzca o puede producir desequilibrio ecológico, daño al ambiente, a los recursos naturales o contravenga las disposiciones de la presente Ley y de los demás ordenamientos que resulten aplicables.
-
-La tramitación de la denuncia popular a que se refiere este precepto, se llevará a cabo de conformidad con lo dispuesto en la LPAET.
-
-### CAPÍTULO VI. DE LA INFORMACIÓN SOBRE RESIDUOS
-
-###### ARTÍCULO 44.
-
-La Secretaría integrará al Sistema de Información Ambiental, los datos relativos a la generación y manejo integral de los residuos de manejo especial, incluyendo los inventarios de residuos generados, la infraestructura para su manejo y las tecnologías utilizadas, los inventarios de sitios contaminados con éstos y otros aspectos que faciliten el logro de los objetivos de esta Ley y los ordenamientos que de ella deriven.
-
-###### ARTÍCULO 45.
-
-Los Municipios en el marco del Sistema de Información Ambiental en el ámbito de sus competencias, para efectos del artículo anterior, proporcionarán a la Secretaría datos relativos a la generación y manejo integral de los residuos sólidos urbanos, como son inventario de residuos generados, incluyendo volumen mensual y anual en su municipio, cobertura de recolección, caracterización y composición de los residuos, inventarios de sitios contaminados, así como los recursos humanos, financieros e infraestructura y equipamiento, incluyendo las tecnologías con que cuenten para el manejo integral de los residuos.
-
-###### ARTÍCULO 46.
-
-La Secretaría, además integrará el padrón de los generadores de residuos de manejo especial y los prestadores de servicios que realizan una o varias de las actividades del manejo integral de residuos.
-
-### CAPÍTULO VII. DEL SISTEMA DE GESTIÓN AMBIENTAL
-
-###### ARTÍCULO 47.
-
-Los poderes Ejecutivo, Legislativo y Judicial del Estado, los Municipios, así como los Organismos Autónomos, implementarán sistemas de gestión ambiental en todas sus dependencias y entidades, así como programas de capacitación y mejoramiento ambiental en la prestación de servicios públicos, los que tendrán por objeto prevenir, minimizar y evitar la generación de residuos, así, como incentivar su valorización y aprovechamiento, a través de:
-
-I. La promoción de la capacitación y desarrollo de una cultura de responsabilidad compartida de la generación y manejo de residuos a los servidores públicos, así como al público usuario;
-
-II. Las estrategias organizativas y acciones que propicien la minimización y valorización de los residuos que se generen; y
-
-III. La eficiencia administrativa, a través del consumo racional y sustentable de los recursos materiales y financieros.
-
-Asimismo, promoverán que en sus procesos de adquisiciones de bienes para la prestación de sus servicios y cumplimiento de sus funciones, se opte por la utilización y el consumo de productos compuestos total o parcialmente de materiales valorizables, reciclados y reciclables, y se evite o minimice el consumo de artículos y el uso de servicios que tengan un impacto negativo sobre el ambiente.
-
-###### ARTÍCULO 43.
-
-La Secretaría y los Municipios, en el ámbito de su competencia, promoverán la participación de todos los sectores de la sociedad en la prevención de la generación, la valorización y gestión integral de residuos, para lo cual:
-
-I. Impulsarán la participación de los sectores social, privado, instituciones académicas, grupos y organizaciones sociales legalmente constituidas, pueblos indígenas y demás interesados en la prevención de la generación y manejo integral de los residuos;
-
-II. Fomentarán y apoyarán la conformación, consolidación y operación de grupos intersectoriales interesados en participar en el diseño e instrumentación de políticas y programas correspondientes, así como para prevenir la contaminación de sitios con residuos;
-
-III. Convocarán a los grupos sociales organizados a participar en acciones de promoción de la gestión integral de residuos;
-
-IV. Celebrarán convenios o acuerdos con organizaciones sociales y privadas en la materia, objeto de la presente Ley;
-
-V. Celebrarán convenios o acuerdos con medios de comunicación para la promoción de las acciones de gestión integral de los residuos;
-
-VI. Reconocerán los esfuerzos más destacados de la sociedad en materia de gestión integral de los residuos; y
-
-VII. Concertarán acciones e inversiones con los sectores social y privado, instituciones académicas, grupos y organizaciones sociales interesadas.
+Los demás servidores públicos serán suplidos en sus ausencias por los servidores públicos inmediatos inferiores que de ellos dependan.
 
 ## TRANSITORIOS
 
-PRIMERO. La presente Ley entrará en vigor a los treinta días naturales siguientes al de su publicación en el Periódico Oficial del Estado.
+Primero. El presente Estatuto Orgánico entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
 
-SEGUNDO. Se derogan todas las disposiciones jurídicas que se opongan al contenido de esta Ley.
+Segundo. El Presidente, en ejercicio de las facultades que le confiere el artículo 26 de la Ley, delega en los funcionarios titulares de las diversas unidades administrativas que este Estatuto Orgánico establece, las atribuciones señaladas en dicho artículo, con excepción de las establecidas en el artículo 27 de la misma Ley.
 
-TERCERO. El Reglamento de la presente Ley deberá ser expedido en un plazo no mayor de ciento ochenta días naturales, contados a partir de la entrada en vigor del presente decreto en el Periódico Oficial del Estado.
+Tercero. Se abroga el Estatuto Orgánico de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, publicado en el Diario Oficial de la Federación del 4 de octubre de 2007.
 
-CUARTO. Todos los procedimientos, recursos administrativos y demás asuntos relacionados con las materias a que refiere esta Ley, iniciados con anterioridad a la entrada en vigor al presente Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en ese momento.
+Cuarto. Se abroga el Acuerdo por el que se delegan facultades en el Vicepresidente Técnico y en el Director General de Análisis de Servicios y Productos Financieros de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, publicado en el Diario Oficial de la Federación del 13 de mayo de 2009.
 
-QUINTO. Los Municipios deberán expedir y, en su caso, adecuar sus reglamentos, bandos y demás disposiciones jurídicas, de acuerdo a lo dispuesto en la presente Ley.
+Quinto. Las actuaciones que hayan sido iniciadas por las unidades administrativas previstas en el Estatuto Orgánico que deja de tener vigencia serán concluidas por aquellas áreas a las cuales este ordenamiento les otorga las atribuciones correspondientes.
 
-SEXTO. Las autorizaciones o permisos otorgados con anterioridad a la fecha de entrada en vigor del presente Decreto, seguirán vigentes; su prórroga o renovación se sujetará a las disposiciones de la presente Ley.
+Sexto. A la entrada en vigor del presente Estatuto, la Delegación Metropolitana Central será la encargada de dar seguimiento a los asuntos que se encuentren en trámite en materia de asesoría técnica y jurídica, gestión electrónica y conciliación, así como de aquellos en los que se encuentre pendiente de ordenar el registro de pasivo contingente o la constitución e inversión de la reserva técnica específica para obligaciones pendientes de cumplir, a cargo de la Dirección General de Orientación, Supervisión, Conciliación y Dictaminación.
 
-SÉPTIMO. Los responsables de formular los planes de manejo para los residuos de manejo especial a los que hace referencia el artículo 25 de este ordenamiento, contarán con un plazo no mayor a dos años para formular y someter a consideración de la Secretaría dichos planes, a partir de la entrada en vigor de la presente Ley.
+Séptimo. Las Delegaciones podrán ordenar el registro del pasivo contingente, cuando proceda, en los procedimientos de conciliación que, a la fecha de entrada en vigor del presente Estatuto, se encuentren en trámite, es decir, que hayan iniciado con anterioridad al 22 de marzo de 2010, y en los que el Usuario opte por su continuación conforme al procedimiento vigente durante su iniciación, conforme al Artículo Tercero Transitorio del "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Instituciones de Crédito, la Ley para la Transparencia y Ordenamiento de los Servicios Financieros y la Ley de Protección y Defensa al Usuario de Servicios Financieros". Asimismo, podrán ordenar dicho registro, en caso de incumplimiento al convenio de conciliación por parte de la Institución Financiera, cuando ésta hubiera tenido lugar por reclamaciones presentadas con anterioridad al 22 de marzo de 2010 y el Usuario opte por continuar con el procedimiento vigente en la fecha en que haya presentado su reclamación.
 
-DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO DEL ESTADO, EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO, A LOS SIETE DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL DOCE; DIP. JAVIER CALDERÓN MENA, PRESIDENTE; DIP. FERNANDO MORALES MATEOS, SECRETARIO; RÚBRICAS.
+Atentamente
 
-Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
+México, D.F., a 29 de junio de 2010.- El Presidente de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, Luis Alberto Pazos de la Torre.- Rúbrica.
 
-EXPEDIDO EN EL RECINTO OFICIAL DEL PODER EJECUTIVO, EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO; A LOS DIECIOCHO DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL DOCE.
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
 
-"SUFRAGIO EFECTIVO. NO REELECCIÓN"
+D.O.F. 18 DE OCTUBRE DE 2011.
 
-QUÍM. ANDRÉS RAFAEL GRANIER MELO
+UNICO. Las presentes reformas, adiciones y derogaciones entrarán en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
 
-GOBERNADOR DEL ESTADO DE TABASCO.
+D.O.F. 14 DE MARZO DE 2012.
 
-LIC. GERARDO GUERRERO PÉREZ
+UNICO. Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO.
+D.O.F. 30 DE DICIEMBRE DE 2013.
 
-LIC. RAFAEL MIGUEL GONZÁLEZ LASTRA
+ÚNICO. Las presentes Reformas y Adiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-SECRETARIO DE GOBIERNO.
+D.O.F. 2 DE JUNIO DE 2014.
 
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+ÚNICO. Las presentes reformas, adiciones y derogaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-P.O. 8 DE MAYO DE 2019.
+D.O.F. 7 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Las presentes reformas, adiciones y derogaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Para efectos de lo previsto en el artículo 19 Bis del presente Estatuto, en un plazo de noventa días naturales, contado a partir del día siguiente a la entrada en vigor de las presentes reformas, adiciones y derogaciones, se transferirán a la Dirección General de Arbitraje y Sanciones, los recursos humanos y materiales correspondientes de la Dirección General de Servicios Legales.
+
+TERCERO.- Las actuaciones que hayan sido iniciadas por unidades administrativas distintas a las competentes, de acuerdo a las presentes reformas y adiciones serán concluidas por aquellas áreas a las cuales este ordenamiento les otorga las atribuciones correspondientes.
+
+CUARTO.- Las funciones de los Directores de Área, Subdirectores y Jefes de Departamento se precisarán en el Manual de Organización General de la Comisión Nacional, en un plazo de noventa días naturales, contado a partir del día siguiente a la entrada en vigor de las presentes reformas, adiciones y derogaciones.
 
 ## [N. DE E. TRANSITORIOS DEL DECRETO 086 POR EL QUE “SE REFORMAN LAS FRACCIONES V Y XLIV DEL ARTÍCULO 2, LA FRACCIÓN II DEL ARTÍCULO 7, Y LAS FRACCIONES X Y XI DEL ARTÍCULO 101; Y SE ADICIONAN LAS FRACCIONES XII, XIII Y XIV AL PÁRRAFO PRIMERO, Y LOS PÁRRAFO (SIC) TERCERO Y CUARTO AL ARTÍCULO 101, TODOS DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE TABASCO”.]
 
