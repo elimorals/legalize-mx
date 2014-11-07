@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-nacional-para-la-75705"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-07-16"
-last_updated: "2014-06-02"
+last_updated: "2014-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75705&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2010-06-29"
 
 ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL PARA LA PROTECCIÓN Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE NOVIEMBRE DE 2014.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 16 de julio de 2010.
 
@@ -103,6 +103,10 @@ e) De Defensoría, Interventoría y Consultiva;
 
 f) De Servicios Legales;
 
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
+
+f) Bis De Arbitraje y Sanciones;
+
 g) De Delegaciones Centro-Occidente;
 
 h) De Delegaciones Norte-Sur;
@@ -122,6 +126,10 @@ b) De Desarrollo y Evaluación del Proceso Operativo;
 c) De Información y Desarrollo Estadístico;
 
 d) De Análisis de Servicios y Productos Financieros;
+
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
+
+d) Bis Del Buró de Entidades Financieras;
 
 e) De Comunicación Social;
 
@@ -143,7 +151,7 @@ m) De Defensa a Usuarios;
 
 n) De Interventoría y Asuntos Penales;
 
-ñ) De Arbitraje y Sanciones;
+ñ) (DEROGADO, D.O.F. 7 DE NOVIEMBRE DE 2014)
 
 o) Contenciosa;
 
@@ -151,7 +159,13 @@ o) Contenciosa;
 
 p) De Disposiciones, Convenios, Contratos y Recursos de Revisión;
 
-q) (DEROGADO, D.O.F. 18 DE OCTUBRE DE 2011)
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
+
+q) De Arbitraje y Sanciones a Entidades Financieras;
+
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
+
+q) Bis De Sanciones a Instituciones Financieras;
 
 r) Enlace y Análisis Regional Centro-Occidente;
 
@@ -225,9 +239,17 @@ II. A la Vicepresidencia Jurídica, las Direcciones Generales de:
 
 a) Dictaminación y Supervisión;
 
-b) Defensoría, Interventoría y Consultiva, y
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
 
-c) Servicios Legales.
+b) Defensoría, Interventoría y Consultiva;
+
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
+
+c) Servicios Legales, y
+
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
+
+d) De Arbitraje y Sanciones.
 
 III. A la Vicepresidencia de Delegaciones, las Direcciones Generales de:
 
@@ -425,9 +447,9 @@ II. Coadyuvar, en el ámbito de su competencia, con las autoridades en materia f
 
 III. (DEROGADA, D.O.F. 2 DE JUNIO DE 2014)
 
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
 
-IV. Remitir a la Dirección General de Servicios Legales, en un plazo que no excederá de treinta días hábiles contados a partir del día siguiente a aquel en que haya tenido conocimiento de la infracción de que se trate, los casos en los que presuntamente se ha contravenido la Ley o aquellas disposiciones cuyo incumplimiento corresponda sancionar a la Comisión Nacional, para efectos de que se emplace e imponga la multa correspondiente;
+IV. Remitir a la Dirección General de Arbitraje y Sanciones, en un plazo que no excederá de treinta días hábiles contado a partir del día siguiente a aquél en que haya tenido conocimiento de la infracción de que se trate, los casos en los que presuntamente se ha contravenido la Ley o aquellas disposiciones cuyo incumplimiento corresponda sancionar a la Comisión Nacional, para efectos de que se emplace e imponga la multa correspondiente;
 
 V. Emitir, en el ámbito de su competencia, previa opinión de la Dirección General de Servicios Legales, recomendaciones a las autoridades e Instituciones Financieras para coadyuvar al cumplimiento del objeto de la Ley y el de la Comisión Nacional, así como para el sano desarrollo del sistema financiero mexicano;
 
@@ -577,7 +599,9 @@ XXII. Coordinar la distribución de las publicaciones desarrolladas por la Comis
 
 XXIII. Diseñar y desarrollar estrategias que permitan consolidar la imagen y posicionamiento de la Comisión Nacional ante la población en general.
 
-Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el de Análisis de Servicios y Productos Financieros, las contenidas en las fracciones I, III a V, VII, X, XI, XIII y XV; el de Promoción y Desarrollo Educativo, las contenidas en las fracciones I, II, V a VIII, X, XII a XV, y XX; el de Comunicación Social, las contenidas en las fracciones IX, y XVI a XXIII.
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
+
+Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el de Análisis de Servicios y Productos Financieros, las contenidas en las fracciones I, III, IV, V, VII, X, XI, XIII y XV; el del Buró de Entidades Financieras, la contenida en la fracción III Bis; el de Promoción y Desarrollo Educativo, las contenidas en las fracciones I, II, V a VIII, X, XII a XV, y XX; el de Comunicación Social, las contenidas en las fracciones IX, y XVI a XXIII.
 
 ###### Artículo 16.
 
@@ -595,9 +619,9 @@ IV. Actuar como enlace con las dependencias y entidades de la Administración P�
 
 V. Solicitar a las Instituciones Financieras y a las autoridades correspondientes, la información necesaria para el ejercicio de la facultad de vigilancia y las demás atribuciones conferidas a esta Dirección General por el presente Estatuto;
 
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
 
-VI. Remitir a la Dirección General de Servicios Legales, en un plazo que no excederá de treinta días hábiles contados a partir del día siguiente a aquel en que haya tenido conocimiento de la infracción de que se trate, los casos en los que presuntamente se ha contravenido la Ley o aquellas disposiciones cuyo incumplimiento corresponda sancionar a la Comisión Nacional, para efectos de que se emplace e imponga la multa correspondiente;
+VI. Remitir a la Dirección General de Arbitraje y Sanciones, en un plazo que no excederá de treinta días hábiles contado a partir del día siguiente a aquél en que concluido el procedimiento de supervisión respectivo, los casos en los que presuntamente se ha contravenido la Ley o aquellas disposiciones cuyo incumplimiento corresponda sancionar a la Comisión Nacional, para efectos de que se emplace e imponga la multa correspondiente;
 
 > <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
 
@@ -667,9 +691,9 @@ XXIV. Establecer, en coordinación con la Dirección General de Dictaminación y
 
 XXV. Proponer a la Dirección General de Dictaminación y Supervisión, la realización de visitas de inspección especiales, así como visitas de verificación especiales;
 
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
 
-XXV Bis. Solicitar a la Comisión Nacional Bancaria y de Valores la realización de visitas de inspección ordinarias y especiales a las Instituciones Financieras, así como el resultado que se obtenga con motivo de dichas visitas;
+XXV Bis. Solicitar a la Comisión Nacional Bancaria y de Valores, la realización de visitas de inspección ordinarias y especiales a las Instituciones Financieras, así como el resultado que se obtenga con motivo de dichas visitas, y llevar a cabo dicha solicitud, en coordinación con la Dirección General de Dictaminación y Supervisión, en el supuesto previsto en la fracción IV del artículo 17 del presente Estatuto;
 
 > <small>(ADICIONADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
 
@@ -689,7 +713,9 @@ XXVII. Ordenar, previa opinión de la Dirección General de Servicios Legales, e
 
 XXVIII. Publicar, cuando se considere pertinente, los resultados de los programas de supervisión en materia de transparencia financiera;
 
-XXIX. Solicitar a la Dirección General de Servicios Legales la orden de suspensión de la celebración de nuevas operaciones y servicios similares a las Entidades Financieras, en los casos previstos en el artículo 13 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
+
+XXIX. Solicitar a la Dirección General de Arbitraje y Sanciones la orden de suspensión de la celebración de nuevas operaciones y servicios similares a las Entidades Financieras, en los casos previstos en el artículo 13 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.
 
 > <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2014)</small>
 
@@ -705,9 +731,9 @@ II. Coadyuvar con la Dirección General de Evaluación y Vigilancia en el establ
 
 III. Realizar las visitas de verificación a las sociedades financieras de objeto múltiple, entidades no reguladas, conforme al Programa Anual de Supervisión de la Comisión Nacional;
 
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
 
-IV. Solicitar a la Comisión Nacional Bancaria y de Valores la realización de visitas de inspección ordinarias y especiales a las Unidades Especializadas de las Instituciones Financieras, así como el resultado que se obtenga con motivo de dichas visitas;
+IV. Solicitar a la Comisión Nacional Bancaria y de Valores, en coordinación con la Dirección General de Evaluación y Vigilancia, la realización de visitas de inspección ordinarias y especiales a las Unidades Especializadas de las Instituciones Financieras, así como el resultado que se obtenga con motivo de dichas visitas;
 
 V. Requerir a las Delegaciones la realización de visitas de verificación a las sociedades financieras de objeto múltiple, entidades no reguladas;
 
@@ -793,9 +819,9 @@ XXVI. Fungir como Secretario del Comité a que se refiere la fracción anterior;
 
 XXVII. Notificar los actos, acuerdos y resoluciones que se deriven de los procedimientos que le corresponda conocer y que deban hacerse del conocimiento de las partes;
 
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
 
-XXVIII. Remitir a la Dirección General de Servicios Legales, en un plazo que no excederá de treinta días hábiles contados a partir del día siguiente a aquel en que haya tenido conocimiento de la infracción de que se trate, los casos en los que presuntamente se ha contravenido la Ley o aquellas disposiciones cuyo incumplimiento corresponda sancionar a la Comisión Nacional, para efectos de que se emplace e imponga la multa correspondiente;
+XXVIII. Remitir a la Dirección General de Arbitraje y Sanciones, en un plazo que no excederá de treinta días hábiles contado a partir del día siguiente a aquél en que haya tenido conocimiento de la infracción de que se trate, los casos en los que presuntamente se ha contravenido la Ley o aquellas disposiciones cuyo incumplimiento corresponda sancionar a la Comisión Nacional, para efectos de que se emplace e imponga la multa correspondiente;
 
 > <small>(ADICIONADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
 
@@ -821,7 +847,9 @@ III. Llevar a cabo las acciones, recursos, trámites o gestiones que procedan an
 
 IV. Asesorar y apoyar a los defensores de la Comisión Nacional;
 
-V. Supervisar y evaluar el desempeño de los defensores de la Comisión Nacional;
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
+
+V. Supervisar y evaluar el desempeño de los defensores adscritos a esta unidad administrativa;
 
 VI. Brindar a los Usuarios el servicio de orientación jurídica especializada;
 
@@ -831,9 +859,9 @@ VIII. Asignar defensores para la atención de los asuntos que presenten los Usua
 
 IX. Desempeñar el servicio de defensoría legal y autorizar a las Delegaciones la prestación de dicho servicio;
 
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
 
-X. Dar seguimiento y emitir las observaciones que correspondan, respecto de aquellos juicios que se tramiten en las Delegaciones con motivo del servicio de defensoría legal;
+X. Dar seguimiento y emitir las observaciones que correspondan, respecto de los informes rendidos por las Delegaciones con motivo del servicio de defensoría legal que presten;
 
 XI. Brindar a las Delegaciones asesoría en materia de asistencia jurídica penal, así como en materia de orientación jurídica especializada;
 
@@ -875,9 +903,9 @@ XXVI. Participar en el diseño y ejecución de los programas de capacitación pe
 
 XXVII. Elaborar la información estadística relacionada con los servicios proporcionados conforme a sus atribuciones, para su remisión a la Dirección General de Desarrollo Financiero y Operativo;
 
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
 
-XXVIII. Remitir a la Dirección General de Servicios Legales, en un plazo que no excederá de treinta días hábiles contados a partir del día siguiente a aquel en que haya tenido conocimiento de la infracción de que se trate, los casos en los que presuntamente se ha contravenido la Ley o aquellas disposiciones cuyo incumplimiento corresponda sancionar a la Comisión Nacional, para efectos de que se emplace e imponga la multa correspondiente;
+XXVIII. Remitir a la Dirección General de Arbitraje y Sanciones, en un plazo que no excederá de treinta días hábiles contado a partir del día siguiente a aquél en que haya tenido conocimiento de la infracción de que se trate, los casos en los que presuntamente se ha contravenido la Ley o aquellas disposiciones cuyo incumplimiento corresponda sancionar a la Comisión Nacional, para efectos de que se emplace e imponga la multa correspondiente;
 
 > <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
 
@@ -887,7 +915,9 @@ XXIX. Ejercitar las acciones colectivas, o asumir la representación de la colec
 
 XXIX Bis. Convocar al Comité de Acciones Colectivas y fungir como secretario del mismo, y
 
-XXX. Denunciar ante las autoridades competentes los hechos, actos u omisiones que constituyan violaciones administrativas en perjuicio de los Usuarios.
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
+
+XXX. Hacer del conocimiento de las autoridades reguladoras, los actos u omisiones que se deriven de las operaciones de carácter financiero en perjuicio de los Usuarios, para la determinación de sanciones administrativas.
 
 > <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2012)</small>
 
@@ -981,35 +1011,25 @@ XXXII. Notificar los actos, acuerdos y resoluciones que se deriven de los proced
 
 XXXIII. Solicitar a las autoridades federales, así como a las Instituciones Financieras, la información y elementos necesarios para el cumplimiento de sus atribuciones;
 
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+XXXIV. (DEROGADA, D.O.F. 7 DE NOVIEMBRE DE 2014)
 
-XXXIV. Actuar como árbitro en los procedimientos de arbitraje previstos en la Ley, así como, someter a la aprobación del Comité Arbitral Especializado los proyectos de laudos derivados de los procedimientos arbitrales substanciados ante esta Comisión Nacional;
+XXXV. (DEROGADA, D.O.F. 7 DE NOVIEMBRE DE 2014)
 
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+XXXVI. (DEROGADA, D.O.F. 7 DE NOVIEMBRE DE 2014)
 
-XXXV. Operar y actualizar el “Registro de Árbitros Independientes”;
+XXXVII. (DEROGADA, D.O.F. 7 DE NOVIEMBRE DE 2014)
 
-XXXVI. Emplear las medidas de apremio a que se refiere la Ley y demás ordenamientos aplicables en los que se faculte a la Comisión Nacional su aplicación;
+XXXVII Bis. (DEROGADA, D.O.F. 7 DE NOVIEMBRE DE 2014)
 
-XXXVII. Llevar a cabo las acciones necesarias para el cumplimiento del laudo arbitral, así como la sentencia ejecutoriada derivada del mismo;
+XXXVIII. (DEROGADA, D.O.F. 7 DE NOVIEMBRE DE 2014)
 
-> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+XXXVIII Bis. (DEROGADA, D.O.F. 7 DE NOVIEMBRE DE 2014)
 
-XXXVII Bis. Integrar, mantener actualizado y promover el Sistema Arbitral;
+XXXIX. (DEROGADA, D.O.F. 7 DE NOVIEMBRE DE 2014)
 
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+XL. (DEROGADA, D.O.F. 7 DE NOVIEMBRE DE 2014)
 
-XXXVIII. Emplazar e imponer las multas y sanciones correspondientes a las Instituciones Financieras, y en su caso, hacerlas del conocimiento del público en general;
-
-> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2014)</small>
-
-XXXVIII Bis. Emitir el acuerdo de abstención de sanción a las Instituciones Financieras;
-
-XXXIX. Turnar a la Dirección General de Planeación, en un plazo no mayor a diez días hábiles, contados a partir del siguiente al de la fecha de su notificación, la información relativa a las multas impuestas por la Comisión Nacional, para los efectos del artículo 23, fracción XIII, del presente Estatuto Orgánico;
-
-XL. Atender y presentar ante el Comité de Condonación de Multas las solicitudes de condonación total o parcial de las multas impuestas a las Instituciones Financieras por la Comisión Nacional en los términos que establece la Ley y los demás ordenamientos legales aplicables;
-
-XLI. Convocar a las sesiones del Comité de Condonación de Multas y fungir como secretario del mismo;
+XLI. (DEROGADA, D.O.F. 7 DE NOVIEMBRE DE 2014)
 
 XLII. Establecer los lineamientos con base en los cuales se ejercerán las funciones de vigilancia, verificación, prevención y corrección, así como la forma en que la Comisión Nacional ordenará a las Instituciones Financieras los programas de cumplimiento forzoso correspondientes;
 
@@ -1031,13 +1051,9 @@ XLVI. (DEROGADA, D.O.F. 2 DE JUNIO DE 2014)
 
 XLVI Bis. Administrar el registro de los despachos de cobranza, así como, dar trámite a las quejas por las malas prácticas de cobranza;
 
-> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+XLVII. (DEROGADA, D.O.F. 7 DE NOVIEMBRE DE 2014)
 
-XLVII. Ordenar, previa solicitud de la Dirección General de Evaluación y Vigilancia, la suspensión de la celebración de nuevas operaciones y servicios similares a las Entidades Financieras, en los casos previstos en el artículo 13 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros;
-
-> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2012)</small>
-
-XLVIII. Ordenar la suspensión, inhabilitación o remoción de los funcionarios, empleados o apoderados de las Entidades Financieras que sean responsables de las infracciones previstas en los artículos 43 y 43 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros;
+XLVIII. (DEROGADA, D.O.F. 7 DE NOVIEMBRE DE 2014)
 
 > <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2012)</small>
 
@@ -1051,9 +1067,57 @@ L. Fungir como coordinador académico de la Escuela de Estudios Financieros, y
 
 LI. Ejercer las atribuciones contenidas en las fracciones I a IV, del artículo 23 Ter del presente Estatuto.
 
-> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
 
-Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el de Disposiciones, Convenios, Contratos y Recursos de Revisión, las contenidas en las fracciones I a XVII, XIX a XXIII, XXX a XXXIII, XLII a XLIII, XLVI, XLVI Bis, L y LI; el Contencioso, las contenidas en las fracciones XVIII, XXIV a XXIX, XXXI a XXXIII y XLIX, y el de Arbitraje y Sanciones, las contenidas en las fracciones XXXI a XLI, XLVII y XLVIII.
+Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el de Disposiciones, Convenios, Contratos y Recursos de Revisión, las contenidas en las fracciones I a XVII, XIX a XXIII, XXX a XXXIII, XLII a XLIII y XLVI Bis, L y LI; y el Contencioso, las contenidas en las fracciones XVIII, XXIV a XXIX, XXXI a XXXIII y XLIX.
+
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 19 Bis.
+
+Corresponde a la Dirección General de Arbitraje y Sanciones, el ejercicio de las siguientes atribuciones:
+
+I. Solicitar información o documentación a las unidades administrativas de la Comisión Nacional, necesarias para el ejercicio de las atribuciones establecidas en el presente Estatuto;
+
+II. Notificar los actos, acuerdos y resoluciones que se deriven de los procedimientos que le corresponda conocer y que deban hacerse del conocimiento de los particulares;
+
+III. Solicitar a las autoridades federales, así como a las Instituciones Financieras, la información y elementos necesarios para el cumplimiento de sus atribuciones;
+
+IV. Actuar como árbitro en los procedimientos de arbitraje previstos en la Ley, así como, emitir los laudos que deriven de ellos;
+
+V. Someter a la aprobación del Comité Arbitral Especializado los proyectos de laudos derivados de los procedimientos arbitrales substanciados dentro del Sistema Arbitral ante esta Comisión Nacional, así como, fungir como secretario de dicho Comité;
+
+VI. Llevar a cabo las acciones necesarias para el cumplimiento del laudo arbitral, así como la sentencia ejecutoriada derivada del mismo;
+
+VII. Operar y actualizar el "Registro de Ofertas Públicas";
+
+VIII. Operar y actualizar el "Registro de Árbitros Independientes";
+
+IX. Integrar, mantener actualizado y promover el Sistema Arbitral;
+
+X. Resolver sobre las cuestiones que se generen y emitir los criterios jurídicos a seguir por la Comisión Nacional en materia de arbitraje;
+
+XI. Atender y presentar ante el Comité de Condonación de Multas las solicitudes de condonación total o parcial de las multas impuestas a las Instituciones Financieras por la Comisión Nacional en los términos que establece la Ley y los demás ordenamientos legales aplicables;
+
+XII. Convocar a las sesiones del Comité de Condonación de Multas y fungir como secretario del mismo;
+
+XIII. Emplear las medidas de apremio a que se refiere la Ley y demás ordenamientos aplicables en los que se faculte a la Comisión Nacional su aplicación;
+
+XIV. Emplazar e imponer las multas y sanciones correspondientes a las Instituciones Financieras en términos de la Ley de Instituciones de Crédito y de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, y en su caso, hacerlas del conocimiento del público en general;
+
+XV. Emplazar e imponer las multas y sanciones correspondientes a las Instituciones Financieras, y en su caso, hacerlas del conocimiento del público en general;
+
+XVI. Emitir el acuerdo de abstención de sanción a las Instituciones Financieras;
+
+XVII. Fungir como secretario del Comité de Abstención de Sanciones;
+
+XVIII. Turnar a la Dirección General de Planeación, en un plazo no mayor a treinta días hábiles, contado a partir de la fecha en que haya quedado firme, la información relativa a las multas impuestas por la Comisión Nacional, para los efectos del artículo 23, fracción XIII, del presente Estatuto Orgánico;
+
+XIX. Ordenar, previa solicitud de la Dirección General de Evaluación y Vigilancia, la suspensión de la celebración de nuevas operaciones y servicios similares a las Entidades Financieras, en los casos previstos en el artículo 13 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, y
+
+XX. Ordenar la suspensión, inhabilitación o remoción de los funcionarios, empleados o apoderados de las Entidades Financieras que sean responsables de las infracciones previstas en los artículos 43 y 43 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.
+
+Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el de Arbitraje y Sanciones a Entidades Financieras, las contenidas en las fracciones I a XIV, XIX y XX, el de Sanciones a Instituciones Financieras, las contenidas en las fracciones I a III, y XV a XX.
 
 ###### Artículo 20.
 
@@ -1091,13 +1155,13 @@ XV. Conocer de la información obtenida por la Dirección General de Desarrollo 
 
 XVI. Gestionar en el ámbito de su competencia, previo acuerdo del Presidente y del Vicepresidente de Delegaciones, la celebración de acuerdos de coordinación y convenios con las autoridades federales o locales, con los sectores social y/o privado, con las Instituciones Financieras, asociaciones, organismos u otras agrupaciones, supervisando el cumplimiento de los compromisos que de ellos se deriven;
 
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
 
-XVII. Turnar a la Dirección General de Servicios Legales, en el caso de infracciones cometidas durante el procedimiento conciliatorio, en un plazo que no excederá de treinta días hábiles, contados a partir del día siguiente a aquel en que concluya dicho procedimiento, los asuntos en que presuntamente se ha contravenido la Ley, para efectos de que se emplace e imponga la multa correspondiente;
+XVII. Turnar a la Dirección General de Arbitraje y Sanciones, en el caso de infracciones cometidas durante el procedimiento conciliatorio, en un plazo que no excederá de treinta días hábiles, contado a partir del día siguiente a aquél en que haya concluido el procedimiento respectivo, los asuntos en que presuntamente se ha contravenido la Ley, para efectos de que se emplace e imponga la multa correspondiente;
 
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
 
-XVIII. Turnar a la Dirección General de Servicios Legales, en el caso de infracciones cometidas fuera del procedimiento conciliatorio, en un plazo de treinta días hábiles, contados a partir del día siguiente a aquel en que tenga conocimiento de la infracción de que se trate, los asuntos en que presuntamente se ha contravenido la Ley o aquellas disposiciones cuyo incumplimiento corresponda sancionar a la Comisión Nacional, para efectos de que se emplace e imponga la multa correspondiente, y
+XVIII. Turnar a la Dirección General de Arbitraje y Sanciones, en el caso de infracciones cometidas fuera del procedimiento conciliatorio, en un plazo de treinta días hábiles, contado a partir del día siguiente a aquél en que haya tenido conocimiento de la infracción de que se trate, los asuntos en que presuntamente se ha contravenido la Ley o aquellas disposiciones cuyo incumplimiento corresponda sancionar a la Comisión Nacional, para efectos de que se emplace e imponga la multa correspondiente, y
 
 > <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
 
@@ -1175,7 +1239,9 @@ VII. Establecer el sistema para el control de las plazas autorizadas, conforme a
 
 VIII. Tramitar los nombramientos y remociones del personal de base y de confianza de la Comisión Nacional y, en su caso, notificar cambios de adscripción;
 
-IX. Formalizar los contratos eventuales y de prestación de servicios profesionales de honorarios asimilados a salarios, a solicitud de las unidades administrativas de la Comisión Nacional;
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
+
+IX. Formalizar los nombramientos de personal de estructura y eventuales, así como los contratos por servicios profesionales asimilados a salarios, a solicitud de las unidades administrativas de la Comisión Nacional;
 
 X. Imponer y/o notificar, previa opinión de la Dirección General de Servicios Legales, las sanciones a los empleados de la Comisión Nacional, en caso de que contravengan las disposiciones aplicables;
 
@@ -1191,7 +1257,9 @@ XV. Representar a la Comisión Nacional ante las autoridades laborales y la orga
 
 XVI. Informar al personal sobre las prestaciones, servicios e incentivos a que se pueden hacer acreedores y, en su caso, proporcionarlos, así como aplicar los sistemas de estímulos y recompensas establecidos por la ley en la materia;
 
-XVII. Supervisar el cumplimiento de las disposiciones aplicables en materia de seguridad social, a favor de los trabajadores de la Comisión Nacional;
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
+
+XVII. Supervisar el cumplimiento de las disposiciones aplicables en materia de seguridad social, a favor de los trabajadores de la Comisión Nacional, así como la elaboración de las cuotas obrero patronales;
 
 XVIII. Controlar y mantener actualizado el registro de las estructuras salariales de la Comisión Nacional, y vigilar que sus unidades administrativas se ajusten a las mismas;
 
@@ -1209,9 +1277,9 @@ XXII. Planear, controlar y administrar el presupuesto para la prestación del se
 
 XXIII. Celebrar convenios y acuerdos, previa opinión de la Dirección General de Servicios Legales, con instituciones, organismos, empresas y entidades culturales para la ejecución de programas orientados al bienestar social y cultural de los trabajadores de la Comisión Nacional y sus familiares derechohabientes;
 
-> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
 
-XXIV. Coordinar la elaboración, establecimiento, ejecución, control y evaluación del Programa de Inducción a la Comisión Nacional y al área de trabajo del personal de nuevo ingreso;
+XXIV. Coordinar la elaboración, establecimiento, ejecución, control y evaluación de los programas de inducción a la Comisión Nacional del personal de nuevo ingreso;
 
 XXV. Detectar, en coordinación con las distintas unidades administrativas de la Comisión Nacional, las necesidades de capacitación e implementar y ejecutar el programa de trabajo;
 
@@ -1219,9 +1287,9 @@ XXV. Detectar, en coordinación con las distintas unidades administrativas de la
 
 XXV Bis. Aplicar al personal de la Comisión Nacional la encuesta de Clima y Cultura Organizacional desarrollada por la autoridad correspondiente;
 
-> <small>(ADICIONADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
 
-XXV Ter. Desarrollar el Programa Anual de Mejora del Clima Laboral en beneficio de los Servidores Públicos de la Comisión Nacional;
+XXV Ter. Desarrollar los programas de mejora en beneficio de los Servidores Públicos de la Comisión Nacional;
 
 > <small>(ADICIONADA, D.O.F. 14 DE MARZO DE 2012)</small>
 
@@ -1231,13 +1299,13 @@ XXV Quáter. Fungir como coordinador escolar de la Escuela de Estudios Financier
 
 XXVI. Controlar y mantener actualizado el registro de las estructuras orgánicas y ocupacionales de la Comisión Nacional, ante las autoridades competentes, y vigilar que sus unidades administrativas se ajusten a las mismas;
 
-> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
 
-XXVII. Desarrollar y aplicar, en coordinación con las unidades administrativas de la Comisión Nacional, el Sistema de Evaluación del Desempeño del Personal adscrito a las mismas;
+XXVII. Desarrollar y aplicar, en coordinación con las unidades administrativas de la Comisión Nacional, la evaluación del desempeño al personal adscrito a las mismas;
 
-> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
 
-XXVIII. Coordinar la elaboración, actualización y difusión de los manuales administrativos de la Comisión Nacional;
+XXVIII. Coordinar con las unidades administrativas de la Comisión Nacional, la difusión, elaboración y actualización de las disposiciones normativas internas de la Comisión Nacional;
 
 > <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
 
@@ -1255,9 +1323,9 @@ XXXI. Participar con la Dirección General de Servicios Legales en la actualizac
 
 XXXII. Fungir como Titular de la Escuela de Estudios Financieros.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
 
-Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el Director de Administración de Personal, las contenidas en las fracciones I, IV y VI a XVIII, el Director de Desarrollo de Personal, las contenidas en las fracciones II, IV y XIX a XXV Quáter y el Director de Organización y Selección de Personal, las contenidas en las fracciones III a V y XXVI a XXXI.
+Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el Director de Administración de Personal, las contenidas en las fracciones I, III, IV y VI a XVIII, el Director de Desarrollo de Personal, las contenidas en las fracciones II, IV y XIX a XXV Quáter, y el Director de Organización y Selección de Personal, las contenidas en las fracciones III, V y XXVI a XXXI.
 
 ###### Artículo 23.
 
@@ -1333,15 +1401,21 @@ La Escuela de Estudios Financieros será representada por su Titular y sus coord
 
 Corresponde a la Escuela de Estudios Financieros, el ejercicio de las siguientes atribuciones:
 
-I. Elaborar los planes y programas de estudios de cursos, diplomados, especialidades, maestrías, y demás estudios educativos de nivel superior, en materia financiera;
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
+
+I. Elaborar los planes y programas de estudios de cursos, diplomados y especialidades en materia financiera;
 
 II. Gestionar la celebración de convenios, con la finalidad de llevar a cabo el cumplimiento de las presentes atribuciones;
 
 III. Gestionar, ante las autoridades correspondientes, el reconocimiento de validez oficial de los planes y programas de estudios que imparta, así como los trámites que de forma continua deban realizarse;
 
-IV. Tramitar, conforme a las normas establecidas, los documentos que acrediten los grados académicos, Títulos y Cédulas Profesionales correspondientes a los planes y programas de estudios que imparta la Escuela de Estudios Financieros;
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
 
-V. Dirigir, coordinar y convocar la impartición de especialidades, maestrías, y demás estudios educativos de nivel superior, conforme a los planes y programas autorizados por las autoridades competentes;
+IV. Tramitar, conforme a las normas establecidas, los documentos que acrediten los grados académicos correspondientes a los planes y programas de estudios que imparta la Escuela de Estudios Financieros;
+
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
+
+V. Dirigir, coordinar y convocar la impartición de especialidades conforme a los planes y programas autorizados por las autoridades competentes;
 
 VI. Dirigir, coordinar y convocar la impartición de cursos, diplomados y demás estudios de actualización, de acuerdo a los contenidos temáticos correspondientes;
 
@@ -1419,9 +1493,9 @@ XII. (DEROGADA, D.O.F. 2 DE JUNIO DE 2014)
 
 XII Bis. Llevar a cabo la práctica de diligencias, a que se refiere el artículo 68, fracción VI, de la Ley, para lo cual aplicará, en lo conducente, el Reglamento de Supervisión de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros y la demás normativa que de él deriven.
 
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
 
-XIII. Substanciar los procedimientos de arbitraje previstos en la Ley, elaborar los proyectos de laudos y remitirlos a la Dirección General de Servicios Legales, para que se sometan a la aprobación del Comité Arbitral Especializado, dentro de los treinta días hábiles siguientes a la fecha en que concluya el procedimiento arbitral de que se trate;
+XIII. Substanciar los procedimientos de arbitraje previstos en la Ley, elaborar los proyectos de laudos y remitirlos a la Dirección General de Arbitraje y Sanciones, dentro de los treinta días hábiles siguientes a la fecha en que concluya el procedimiento arbitral de que se trate;
 
 XIV. Mantener comunicación, en el ámbito de su competencia, con las unidades especializadas de las Instituciones Financieras para la atención de consultas y reclamaciones de los Usuarios;
 
@@ -1429,13 +1503,13 @@ XIV. Mantener comunicación, en el ámbito de su competencia, con las unidades e
 
 XV. Ordenar a las Instituciones Financieras previa emisión del Dictamen el registro del pasivo contingente, o la constitución e inversión de la reserva técnica específica para obligaciones pendientes de cumplir;
 
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
 
-XVI. Turnar a la Dirección General de Servicios Legales, en el caso de infracciones cometidas durante el procedimiento conciliatorio, en un plazo que no excederá de treinta días hábiles, contados a partir del día siguiente a aquel en que concluya dicho procedimiento, los asuntos en que presuntamente se ha contravenido la Ley, para efectos de que se emplace e imponga la multa correspondiente;
+XVI. Turnar a la Dirección General de Arbitraje y Sanciones, en el caso de infracciones cometidas durante el procedimiento conciliatorio, en un plazo que no excederá de treinta días hábiles, contado a partir del día siguiente a aquél en que haya concluido el procedimiento respectivo, los asuntos en que presuntamente se ha contravenido la Ley, para efectos de que se emplace e imponga la multa correspondiente;
 
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
 
-XVII. Turnar a la Dirección General de Servicios Legales, en el caso de infracciones cometidas fuera del procedimiento conciliatorio, en un plazo de treinta días hábiles, contados a partir del día siguiente a aquel en que tenga conocimiento de la infracción de que se trate, los asuntos en que presuntamente se ha contravenido la Ley o aquellas disposiciones cuyo incumplimiento corresponda sancionar a la Comisión Nacional, para efectos de que se emplace e imponga la multa correspondiente;
+XVII. Turnar a la Dirección General de Arbitraje y Sanciones, en el caso de infracciones cometidas fuera del procedimiento conciliatorio, en un plazo de treinta días hábiles, contado a partir del día siguiente a aquél en que haya tenido conocimiento de la infracción de que se trate, los asuntos en que presuntamente se ha contravenido la Ley o aquellas disposiciones cuyo incumplimiento corresponda sancionar a la Comisión Nacional, para efectos de que se emplace e imponga la multa correspondiente;
 
 XVIII. Turnar a la Dirección General de Servicios Legales, en un plazo de cinco días hábiles, contados a partir del día siguiente a aquél en que se hayan recibido, los recursos de revisión junto con el expediente respectivo para su substanciación, y desechar por improcedentes aquellos que se interpongan en contra de actos distintos a los que prevé el artículo 99 de la Ley;
 
@@ -1682,3 +1756,13 @@ D.O.F. 30 DE DICIEMBRE DE 2013.
 D.O.F. 2 DE JUNIO DE 2014.
 
 ÚNICO. Las presentes reformas, adiciones y derogaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Las presentes reformas, adiciones y derogaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Para efectos de lo previsto en el artículo 19 Bis del presente Estatuto, en un plazo de noventa días naturales, contado a partir del día siguiente a la entrada en vigor de las presentes reformas, adiciones y derogaciones, se transferirán a la Dirección General de Arbitraje y Sanciones, los recursos humanos y materiales correspondientes de la Dirección General de Servicios Legales.
+
+TERCERO.- Las actuaciones que hayan sido iniciadas por unidades administrativas distintas a las competentes, de acuerdo a las presentes reformas y adiciones serán concluidas por aquellas áreas a las cuales este ordenamiento les otorga las atribuciones correspondientes.
+
+CUARTO.- Las funciones de los Directores de Área, Subdirectores y Jefes de Departamento se precisarán en el Manual de Organización General de la Comisión Nacional, en un plazo de noventa días naturales, contado a partir del día siguiente a la entrada en vigor de las presentes reformas, adiciones y derogaciones.
