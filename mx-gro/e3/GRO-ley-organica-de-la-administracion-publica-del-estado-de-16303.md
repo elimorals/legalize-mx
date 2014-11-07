@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-de-la-administracion-publica-del-estado-de-16303"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-10-12"
-last_updated: "2014-01-28"
+last_updated: "2014-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE GUERRERO NUMERO 433
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 12 de octubre de 1999.
 
@@ -219,9 +219,9 @@ III.- Secretaría de Finanzas y Administración;
 
 IV.- Secretaría de Desarrollo Urbano y Obras Públicas;
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2007)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2014)</small>
 
-V.- Secretaría de Seguridad Pública y Protección Civil;
+V. Secretaría de Seguridad Pública;
 
 VI.- (DEROGADA, P.O. 14 DE DICIEMBRE DE 2000);
 
@@ -264,6 +264,10 @@ XVI.- Secretaría de los Migrantes y Asuntos Internacionales; y
 > <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2011)</small>
 
 XVII.- Secretaría del trabajo y Previsión Social.
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2014)</small>
+
+XVIII.- Secretaría de Protección Civil.
 
 La Contraloría General del Estado, estará directamente adscrita al Titular del Poder Ejecutivo y contará con las atribuciones señaladas en esta Ley, la de Responsabilidades de los Servidores Públicos del Estado y demás ordenamientos jurídicos aplicables.
 
@@ -569,97 +573,171 @@ XVII.- Establecer y operar un sistema de seguimiento de programas federales rela
 
 XVIII.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 24.
 
-La Secretaría de Seguridad Pública y Protección Civil, es la dependencia de coordinación global del Sistema de Seguridad Estatal, correspondiéndole como órgano da la administración pública estatal centralizada, la conducción y ejercicio de las funciones y servicios de seguridad pública; protección civil; transito estatal; sistema penitenciario y tratamiento de adolescentes.
+La Secretaría de Seguridad Pública, es la dependencia de coordinación global del Sistema de Seguridad Estatal, correspondiéndole como órgano de la administración pública estatal centralizada, la conducción y ejercicio de las funciones y servicios de seguridad pública; transito estatal; sistema penitenciario y tratamiento de adolescentes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2011)</small>
 
 Así también es el órgano responsable de coadyuvar en el diseño e implantación de las políticas estatales en materia criminal y de prevención del delito, fundando sus acciones en el respeto la integridad y derechos de las personas, particularmente aquellas que se encuentran en situación de vulnerabilidad, tomando medidas especiales para garantizar a las mujeres, una vida libre de violencia, así como para la preservación de las libertades, la paz pública y la promoción y vigencia de los derechos humanos, correspondiéndole el despacho de los asuntos siguientes:
 
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
+
 I.- Coordinarse con las instancias Federales, Estatales y Municipales, a fin de integrar el Sistema Nacional de Seguridad Pública, para cumplir los objetivos y fines en la materia, así como participar en la integración de las instancias, instrumentos, políticas, servicios y acciones, tendientes a cumplir dichos objetivos y fines, en los términos, que dispongan los ordenamientos jurídicos aplicables;
 
-> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2014)</small>
 
-II.- Estructurar y desarrollar las políticas públicas en el estado en materia de seguridad pública; protección Civil; transito estatal; sistema penitenciario y tratamiento de adolescentes, así como proponer y ejecutar, los programas relativos a la protección de los habitantes, la conservación del orden público y la prevención de los delitos; con especial atención a la violencia contra las mujeres y a la que se comete al interior de los hogares;
+II.- Estructurar y desarrollar las políticas públicas en el estado en materia de seguridad pública, transito estatal; sistema penitenciario y tratamiento de adolescentes, así como proponer y ejecutar, los programas relativos a la protección de los habitantes, la conservación del orden público y la prevención de los delitos; con especial atención a la violencia contra las mujeres y a la que se comete al interior de los hogares;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
 
 III.- Impulsar las medidas que garanticen la congruencia da la política criminal entre las dependencias de la administración pública estatal y los municipios del estado, así como diseñar, implantar y evaluar instrumentos y programas de educación preventiva y de organización vecinal para la prevención del delito, apoyándose en medios eficaces de promoción y comunicación masiva;
 
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
+
 IV.- Garantizar en el ámbito da su competencia, las políticas y medidas que permitan que el personal de las instituciones da seguridad pública del estado, se conduzcan con apego a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
 
 V.- Conducir la participación de las áreas correspondientes para la integración de los instrumentos de información del Sistema Nacional de Seguridad Pública; la proporción (sic) los informes correspondientes a los Registros Nacionales de Personal de Seguridad Pública y de Equipo, que le sean solicitados, y supervisar la contribución de las dependencias correspondientes para la integración de la información al Sistema Único de Información Criminal;
 
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
+
 VI.- Organizar, administrar, supervisar y regir el funcionamiento de la Policía Estatal, bajo los principios a que se refiere la fracción IV, así como garantizar y mantener la seguridad, el orden público y la vialidad, coadyuvando en el diseño, implantación y evaluación de la política criminal del Estado;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
 
 VII.- Estructurar la estrategias para prevenir la comisión de delitos y de infracciones a disposiciones jurídicas gubernativas y de policía, focalizándolas en la protección de las personas en su integridad física, propiedades y derechos;
 
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
+
 VIII.- Auxiliar, dentro del marco legal, al Ministerio Público y a las autoridades judiciales y administrativas, cuando sea requerida legalmente para ello;
 
-IX.- Instituir, operar y desarrollar sus propios sistemas de administración presupuesta! y de recursos humanos; logístico y de servicios generales para la atención inmediata y eficaz de los servicios enmarcados en los sistemas de seguridad pública y protección civil, los que deberán ajustarse a los lineamientos que al efecto emitan las dependencias de coordinación global.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2014)</small>
+
+IX.- Instituir, operar y desarrollar sus propios sistemas de administración presupuestal y de recursos humanos; logístico y de servicios generales para la atención inmediata y eficaz de los servicios enmarcados en los sistemas de seguridad pública, los que deberán ajustarse a los lineamientos que al efecto emitan las dependencias de coordinación global.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2009)</small>
 
 Para efectos del párrafo anterior, los servicios deberán comprender, servicios .de apoyo administrativo en materia de planeación, programación, presupuesto, informática y estadística, recursos humanos, contabilidad, fiscalización, archivos y los demás que sean necesarios para la satisfacción de las necesidades y requerimientos que demanden el cumplimiento permanente de sus atribuciones;
 
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
+
 X.- Someter a la consideración y aprobación del Gobernador del Estado, los proyectos de leyes, reglamentos, acuerdos, decretos y demás disposiciones que permitan organizar y operar a la Policía Estatal y a todos aquellos cuerpos que, complementaria o transitoriamente desempeñen funciones policiales en el Estado, por mandato, expreso de la ley, de acuerdos, convenios o reglamentos;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
 
 XI.- Supervisar y conceder autorizaciones a los particulares que presten servicios de seguridad, protección, vigilancia o custodia de personas, lugares o establecimiento de bienes o valores, incluido su traslado, cuando los servicios se presten sólo en el territorio de la Entidad; sin perjuicio de cumplir con las disposiciones establecidas por la Ley Federal de Armas de Fuego y Explosivos y de acuerdo con los requisitos y condiciones para la prestación del servicio, la denominación, los mecanismos para su supervisión, las causas y procedimientos para determinar sanciones, establecidos por las Leyes y Reglamentos aplicables;
 
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
+
 XII.- Formular proyectos de leyes, reglamentos y decretos en el ámbito de su competencia, cuidar la observancia de las leyes y reglamentos vigentes referentes a la seguridad pública, así como el tránsito de vehículos y peatones en la vía pública, competencia del Estado, coordinando sus actividades con las autoridades facultadas en la materia, según el caso;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
 
 XIII.- Emitir políticas de control y vigilancia en materia de transito en las vías públicas y caminos de jurisdicción estatal, así como impulsar de manera coordinada la homologación del servicio en los municipios, en los términos que señalen las leyes y los reglamentos;
 
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
+
 XIV.- Administrar el sistema penitenciario estatal y el de tratamiento de adolescentes, formulando y ejecutando al efecto, los programas de reinserción social de los internos en los centros penitenciarios del Estado;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
 
 XV.- Promover el establecimiento, administración y vigilancia para la debida operación de las instituciones encargadas de la ejecución de las medidas que impongan los jueces especializados para el tratamiento de los adolescentes, cumpliendo las disposiciones de los jueces de ejecución, en los términos de la Ley de Justicia para Adolescentes;
 
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
+
 XVI.- Administrar los Centros de Reinserción Social y acordar las solicitudes de traslado de reos;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
 
 XVII.- Emitir programas de seguimiento y asistencia a sentenciados liberados, preliberados o que deban ejecutar algún sustitutivo penal, para su eficaz reinserción en la sociedad;
 
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
+
 XVIII.- Tramitar y resolver, por acuerdo del Gobernador, las solicitudes de extradición, amnistía, indulto y las demás que le concedan las Leyes y Reglamentos;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
 
 XIX.- Diseñar y proponer al Gobernador del Estado y ejecutar, en su caso, los programas relativos a la protección de los habitantes;
 
-XX.- Estructurar Programas de Intervención, auxilio y coordinación con las autoridades federales, estatales y municipales, en los términos que dispongan los ordenamientos jurídicos aplicables, en materia de prevención, combate y extinción de catástrofes y siniestros;
+XX. (DEROGADA, P.O. 7 DE NOVIEMBRE DE 2014)
 
-XXI.- Emitir los lineamientos necesarios para otorgar la protección y el auxilio necesario a la población, en casos de catástrofe o siniestro;
+XXI. (DEROGADA, P.O. 7 DE NOVIEMBRE DE 2014)
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
 
 XXII.- Diseñar e implantar un sistema de selección, ingreso, formación, promoción, actualización, capacitación, permanencia, evaluación, reconocimiento, certificación, profesionalización y registro de los elementos que integren las diferentes áreas o especialidades de policía, así como de los demás servidores públicos que integren a la a la (sic) dependencia, para el debido cumplimiento de los principios de legalidad, Objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos. Asimismo, podrá emitir las normas técnicas relativas a los instrumentos, equipos, instalaciones y recursos en general, que se destinen a los servidores públicos mencionados;
 
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
+
 XXIII.- Establecer, operar y desarrollar la red estatal de telecomunicaciones, así como coordinar las funciones de la Unidad de telecomunicaciones del Gobierno del Estado;
 
-XXIV.- Llevar las estadísticas de seguridad pública, tránsito, reinserción social, tratamiento de adolescentes y protección civil, que correspondan;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2014)</small>
+
+XXIV.- Llevar las estadísticas de seguridad pública, tránsito, reinserción social, tratamientos de adolescentes que corresponda;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
 
 XXV.- Promover el establecimiento para la determinación de mecanismos de participación de la sociedad en la planeación y supervisión de la seguridad pública;
 
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
+
 XXVI.- Coordinarse con el Comité de Planeación para el Desarrollo del Estado, para establecer y operar un sistema de seguimiento de los programas federales conforme a lo que las leyes y acuerdos de coordinación establezcan;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
 
 XXVII.- Coordinar las acciones del Consejo Estatal de Seguridad Pública y del secretariado ejecutivo, así como la elaboración de planes y programas en la materia;
 
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
+
 XXVIII.- Proponer al Gobernador del Estado el nombramiento del Comisionado de la Policía Estatal, así como impulsar el servicio de carrera para la profesionalización del cuerpo de policía estatal;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
 
 XXIX.- Celebrar y suscribir los actos jurídicos; contratos, convenios, así como otorgar poderes de representación y demás documentos relativos al ejercicio de sus atribuciones y aquellos que le sean señalados por otras disposiciones;
 
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
+
 XXX.- Regular técnicamente el servicio de transito en el Estado y proyectar la elaboración de los estudios necesarios sobre tránsito de vehículos, en las vías de jurisdicción estatal, a fin de lograr una mejor utilización de las mismas y demás medios de transporte correspondientes, que conduzca a la más eficaz protección de la vida, y a la seguridad, comodidad y rapidez en el transporte de personas y de carga;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
 
 XXXI.- Emitir lineamientos para actualizar la normatividad del señalamiento de las carreteras estatales, así como la de los dispositivos de control de tránsito;
 
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
+
 XXXII.- Impulsar y determinar las acciones encaminadas a mejorar la vialidad en lo referente a la materia de ingeniería de tránsito;
 
-XXXIII.- Elaborar y ejecutar los Programas Estatales de Seguridad Pública y Protección Civil, en coordinación con las autoridades competentes y vinculadas en la materia;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2014)</small>
 
-XXXIV.- Inspeccionar las medidas de seguridad en materia de protección civil y aplicar las sanciones que procedan por violación a las leyes y reglamentos de la materia;
+XXXIII.- Elaborar y ejecutar los Programas Estatales de Seguridad Pública, en coordinación con las autoridades competentes y vinculadas en la materia;
+
+XXXIV.- (DEROGADA, P.O. 7 DE NOVIEMBRE DE 2014)
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
 
 XXXV.- Realizar estudios multidisciplinarios y estadísticas sobre las causas y efectos del fenómeno delictivo y difundirlos entre la sociedad;
 
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
+
 XXXVI.- Impulsar las acciones que sean necesarias para estructurar y materializar las políticas de seguridad integral en el Estado;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
 
 XXXVII.- Emitir acuerdos y disposiciones administrativas en el ámbito de su competencia, así como formular y expedir los manuales de organización, de procedimientos y de servicios al público que sean necesarios para la operación y funcionamiento de la dependencia;
 
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
+
 XXXVIII.- Impulsar el establecimiento de sistemas complementarios de seguridad social para los miembros de las instituciones de seguridad pública;
 
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
+
 XXIX.- Administrar la Licencia Oficial Colectiva, y supervisar y controlar su uso conforme las disposiciones de la materia; y
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
 
 XL.- Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
 
@@ -719,11 +797,11 @@ XVIII.- Coordinar, junto con la Secretaría de Cultura y los Ayuntamientos, el S
 
 XIX.- Coordinar a las entidades, órganos administrativos desconcentrados y establecimientos públicos de bienestar social, cuyas actividades correspondan al deporte;
 
-XX.- Establecer y operar un sistema de seguimiento de los programas federales, relacionados con los asuntos de su competencia, conforme a lo que las leyes y acuerdos de coordinación establezcan, en congruencia con el Comité de Planeación para el Desarrollo del Estado; y (sic)
+XX.- Establecer y operar un sistema de seguimiento de los programas federales, relacionados con los asuntos de su competencia, conforme a lo que las leyes y acuerdos de coordinación establezcan, en congruencia con el Comité de Planeación para el Desarrollo del Estado; y
 
-> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2007)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2014)</small>
 
-XX Bis.- Promover de conformidad con las disposiciones aplicables y ante las instancias que correspondan, se incluyan en los planes y programas de estudio de educación primaria y secundaria, contenidos que versen sobre la cultura de la legalidad y protección civil, en coordinación con la Secretaría de Seguridad Pública y Protección Civil;
+XX Bis.- Promover de conformidad con las disposiciones legales aplicables y ante las instancias que correspondan, se incluyan en los planes y programas de estudio de educación primaria y secundaria, contenidos que versen sobre la cultura de la legalidad, en coordinación con la Secretaría de Seguridad Pública; y
 
 XXI.- Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
 
@@ -1307,9 +1385,9 @@ XXIV.- Integrar los Consejos Consultivos Municipales, Regionales y Estatal para 
 
 XXV.- Coordinar los planes y programas destinados a la juventud y a la niñez, que emprendan dependencias y entidades de la Administración Pública Estatal;
 
-> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2014)</small>
 
-XXVI.- Encauzar junto con el Sistema para el Desarrollo Integral de la Familia, el apoyo a jóvenes discapacitados, así como con la Secretaría de Seguridad Pública y Protección Civil para los casos de aquellos que se encuentren sujetos a programas de readaptación social, a efecto de hacer posible su incorporación a las actividades sociales, culturales y productivas de la entidad, con la intervención que competa a la Secretaría de Cultura y la Secretaría de Desarrollo Económico;
+XXVI.- Encauzar junto con el Sistema para el Desarrollo Integral de la Familia, el apoyo a jóvenes discapacitados, así como con la Secretaría de Seguridad Pública para los casos de aquellos que se encuentren sujetos a programas de readaptación social, a efecto de hacer posible su incorporación a las actividades sociales, culturales y productivas de la entidad, con la intervención que competa a la Secretaría de Cultura y la Secretaría de Desarrollo Económico;
 
 > <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
 
@@ -1422,6 +1500,72 @@ XXIII. Establecer y operar un sistema de seguimiento de los programas federales 
 XXIV. Coordinar las áreas a su cargo, así como las Procuradurías Auxiliares de la Defensa del Trabajo en la entidad; y
 
 XXV. Las demás que le fijen las leyes y reglamentos del Estado.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2014)</small>
+
+ARTICULO 33 BIS C.- La Secretaría de Protección Civil es el órgano responsable y encargado de proponer, dirigir, presupuestar, ejecutar y vigilar la protección civil que comprende las acciones de prevención, mitigación, preparación, auxilio, rehabilitación, restablecimiento, reconstrucción, evaluación y prospectiva, ante la ocurrencia de un agente perturbador en el Estado, así como el control operativo de las acciones que en la materia se efectúen, en coordinación con los sectores público, social, privado, grupos voluntarios y la población en general, en auxilio a las resoluciones que dicte el Presidente del Consejo Estatal de Protección Civil, así como las leyes y reglamentos en la materia, correspondiéndole el despacho de los asuntos siguientes:
+
+I. Ejercer las atribuciones que en materia de protección civil le señalen las leyes y reglamentos.
+
+II. Crear un programa de Gestión integral de riesgos y reducción de la vulnerabilidad, a través de la identificación y transferencia de riesgos, monitoreo y alertamiento, que permita garantizar a la población su integridad física, sus bienes y la protección a su entorno y la continuidad de servicios vitales estratégicos.
+
+III. Generar en la población la cultura de la prevención, manejo de protocolo de riesgo con el propósito de lograr un cambio de actitud ante los agentes perturbadores, mediante la difusión, capacitación y concientización de los riesgos y vulnerabilidad de las zonas de alto riesgo del Estado como son cauces, barrancas, laderas inestables, fallas geológicas, zonas vulnerables, áreas altamente deforestadas, lugares inundables o en humedales.
+
+IV. Garantizar a la población una atención y difusión oportuna a través de trípticos, carteles, difusión en los diversos medios de comunicación como son radio, televisión, periódico, redes sociales y cualquier otro medio informativo en caso de eventos de la naturaleza a través de la coordinación interinstitucional y elaboración de procedimientos de atención de emergencias.
+
+V. Coadyuvar con las instancias federales, estatales, municipales y sectores privados en el adecuado funcionamiento del Sistema Estatal de Protección Civil.
+
+VI. Identificar los riesgos, peligros, amenazas y la vulnerabilidad a través del estudio e investigación, para la integración de protocolos y del Atlas Estatal de Riesgos correspondiente.
+
+VII. Fomentar la cultura de la Protección Civil, a través de programas de prevención, concientización, difusión, capacitación y comunicación social a la población en general.
+
+VIII. Promover la homologación de la reglamentación de Protección Civil en los Municipios.
+
+IX. Fomentar la corresponsabilidad, coordinación y comunicación en los tres ámbitos de gobierno con el fin de garantizar el adecuado funcionamiento del Sistema Estatal de Protección Civil.
+
+X. Promover la reducción de la vulnerabilidad física y social, a través de la revisión y aplicación de la normatividad, la promoción de las Unidades Internas de Protección Civil y la evaluación física de los inmuebles y zonas de riesgo identificadas en la Entidad.
+
+XI. Fortalecer la investigación básica y aplicada para mejorar las tecnologías en mitigación de riesgos.
+
+XII. Operar, desarrollar y robustecer los Centros de Alertamiento: Sistema de Alerta Sísmica, Sistema de Alerta de Tsunamis, el Sistema de Alerta Hidrometeorológica, Monitoreo y Alertamiento de Laderas Potencialmente Inestables; así como de aquellos riesgos que por el propio desarrollo se requiera.
+
+XIII. Promover y elaborar programas específicos de prevención, auxilio y recuperación ante la presencia de fenómenos perturbadores.
+
+XIV. Formular los manuales de operación y procedimiento, con arreglo a las Leyes y Reglamentos que rigen la materia, para el debido funcionamiento de las áreas administrativas y operativas.
+
+XV. Dirigir con puntualidad la coordinación con otras dependencias Federales, Estatal y Municipal con el fin de prevenir y en su caso proporcionar el auxilio y salvaguarda a la población, ante situaciones de desastre incorporando la participación de todos los sectores de la sociedad;
+
+XVI. Presentar y gestionar recursos financieros para la ejecución de planes y programas en la materia, así como administrar los fondos de la partida presupuestal asignada a la Prevención y Protección Civil para la atención de emergencia de desastres en el Estado, originados por fenómenos naturales o humanos, la cual no podrá tener reducción o ser inferior al ejercicio del año anterior inmediato y esta será intransferible para otras acciones de gobierno.
+
+XVII. Informar al Presidente del Consejo sobre los avances del Programa Estatal de Protección Civil, los resultados de su ejecución y su incidencia en la consecución de los objetivos y prioridades del Plan Estatal de Desarrollo y, en su caso, proponer lo necesario para corregir posibles deficiencias;
+
+XVIII. Proponer estrategias y lineamientos de operaciones preventivas y reactivas para el desarrollo de programas específicos de Protección Civil;
+
+XIX. Coordinarse con las autoridades federales, estatales y municipales en materia de protección civil, así como la concertación con instituciones y organismos de los sectores privado y social;
+
+XX. Proponer el establecimiento de los mecanismos necesarios para diagnosticar los riesgos previsibles relacionados con su ámbito de competencia;
+
+XXI. Llevar el registro estatal de organizaciones de voluntarios sociales y privadas que participen en acciones de protección civil, previos requisitos exigidos en la reglamentación de la materia;
+
+XXII. Promover la prevención y salvaguarda en eventos específicos, mediante programas especiales de protección civil;
+
+XXIII. Coordinar, vigilar y recibir de los presidentes municipales las correspondientes actas de instalación de los Consejos de Protección Civil en tiempo y forma;
+
+XXIV. Elaborar, instrumentar los programas y planes generales de operación para cada tipo de fenómeno que integren el plan permanente ante contingencias en el estado de Guerrero;
+
+XXV. Supervisar la aplicación y activación de los procedimientos de respuesta de emergencias, así como activar y coordinar el Centro de Operaciones de Emergencias, con las dependencias integrantes del Consejo Estatal de Protección Civil;
+
+XXVI. Promover en el ámbito internacional el intercambio técnico-Científico en materia de protección civil y a fines para la reducción de riesgos y la atención de emergencias y desastres; y
+
+XXVII. Vigilar el cumplimiento de la normatividad en materia de protección civil, y aplicar las medidas, multas o sanciones a que haya lugar por el incumplimiento de la Ley de la materia.
+
+XXVIII. La Secretaría para la consecución de los fines de la protección civil, tendrá como ejes de trabajo: la investigación de los diversos riesgos en el Estado, el auxilio, la capacitación de las instituciones afines a la materia, suscribir convenios de coordinación y colaboración, la difusión de medidas preventivas, la coordinación interinstitucional.
+
+XXIX. En cuanto a la profesionalización del personal de la Secretaría, es una prioridad establecer el sistema profesional de carrera en materia de protección civil, a fin de alcanzar la certificación de todos los servidores públicos del Sistema Estatal de Protección Civil, mediante los procedimientos y lineamientos del Sistema Nacional de Protección Civil.
+
+XXX. Proponer de acuerdo a la disponibilidad presupuestaria, la contratación de seguros, así como los instrumentos de administración y transferencia de riesgos para la cobertura de daños causados por desastres naturales o humanos en los bienes e infraestructura.
+
+XXXI. Sugerir la formulación de la solicitud de declaración de emergencia o desastre al Ciudadano Gobernador del Estado cuando sea superada la capacidad de respuesta del Estado para poder obtener recursos de la Federación y poder brindar un mejor auxilio a la población.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2011)</small>
 
@@ -1940,3 +2084,17 @@ El reglamento interior de la Procuraduría de Protección Ecológica, deberá se
 ###### ARTÍCULO QUINTO.
 
 Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado; para sus efectos legales conducentes.
+
+P.O. 7 DE NOVIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Los recursos materiales y financieros con que cuenta la subsecretaría de Protección Civil, las obligaciones contraídas con ésta y el personal del mismo quedan transferidos a la Secretaría de Protección Civil.
+
+TERCERO. El Ejecutivo Estatal proveerá lo necesario para la implementación y operatividad de la Secretaría de Protección Civil, en el ejercicio fiscal 2015 y subsecuentes en un plazo no mayor de treinta días naturales, contados a partir de la entrada en vigor de este Decreto.
+
+CUARTO. La Secretaría de Protección Civil, expedirá su Reglamento Interior en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor de este Decreto.
+
+QUINTO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero, y en la página web de éste Poder Legislativo.
+
+SEXTO. Remítase al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno del Estado.
