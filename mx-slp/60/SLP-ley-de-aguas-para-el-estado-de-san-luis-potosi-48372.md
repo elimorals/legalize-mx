@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2014-10-07"
+last_updated: "2014-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -807,7 +807,7 @@ Las mismas reglas aplicadas para seleccionar a las y los consejeros titulares, s
 
 Las y los consejeros serán designados por el Congreso del Estado, y durarán tres años en su cargo; podrán ser reelectos por única ocasión para un segundo periodo de tres años.
 
-Los miembros del Consejo tendrán derecho a voz y voto en la toma de acuerdos, respecto a los asuntos que se traten, los que deberán ser votados por la mitad más uno de las personas que integren (sic).
+Los miembros del Consejo tendrán derecho a voz y voto en la toma de acuerdos, respecto a los asuntos que se traten, los que deberán ser votados por la mitad más uno de las personas que (sic) integren.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
@@ -1985,7 +1985,7 @@ Las concesiones podrán ser revocadas por el ayuntamiento, si el concesionario:
 
 I. No cumple con el objeto, obligaciones o condiciones de las concesiones en los términos y plazos establecidos en ellos;
 
-II. Cede o transfiere las concesiones o los derechos en ellas (sic) conferidos;
+II. Cede o transfiere las concesiones o los derechos en ellas conferidos;
 
 III. Interrumpe la prestación de los servicios públicos, total o parcialmente, sin causa justificada;
 
@@ -2227,9 +2227,9 @@ Si en el lapso que ocurre entre la expiración del estudio de factibilidad y el 
 
 Una vez recibido el proyecto de urbanización autorizado por el ayuntamiento, el prestador de los servicios procederá a revisar y en su caso aprobar el proyecto hidráulico, notificando al interesado en un plazo no mayor de quince días hábiles.
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2014)</small>
 
-A partir de la notificación de la aprobación del proyecto hidráulico por parte del prestador de los servicios, el fraccionador o urbanizador contará con quince días hábiles para realizar el pago de las cuotas de conexión, o convenir con el prestador de los servicios la factibilidad. Independientemente de lo establecido en el párrafo último del artículo 157, y del artículo 162 de esta Ley, el prestador de servicios tiene la facultad exclusiva para aceptar el pago en contraprestación, mediante convenio de cesión de derechos de aguas nacionales y entrega de obras de la fuente de extracción de agua, con su respectivo equipamiento electromecánico, así como la obra extraordinaria que de común acuerdo se pacte y autorice por el organismo operador o ayuntamiento respectivo, construido por el fraccionador o desarrollador a favor del prestador de los servicios, con base en tabulador de precios unitarios de obra para los conceptos antes mencionados. En este último caso, el fraccionador o urbanizador garantizará el pago de los (sic) cuotas de conexión mediante póliza de fianza u otro medio legalmente aceptado; hecho lo anterior el prestador de los servicios expedirá la carta de factibilidad correspondiente, previa entrega de los planos autorizados por el prestador de los servicios.
+A partir de la notificación de la aprobación del proyecto hidráulico por parte del prestador de los servicios, el fraccionador o urbanizador contará con quince días hábiles para realizar el pago de las cuotas de conexión, o convenir con el prestador de los servicios la factibilidad. Independientemente de lo establecido en el último párrafo del artículo 157, y artículo 162 de esta Ley, el prestador de servicios tiene la facultad exclusiva para aceptar el pago en contraprestación, mediante convenio de cesión de derechos de aguas nacionales y entrega de obras de la fuente de extracción de agua, con su respectivo equipamiento electromecánico, así como la obra extraordinaria no necesaria para el proyecto de urbanización que de común acuerdo se pacte, construida por el fraccionador o desarrollador a favor del prestador de servicios con base en (sic) tabulador de precios unitarios de obra del prestador de servicios para los conceptos antes mencionados. En este último caso, el fraccionador o urbanizador garantizará el pago de los (sic) cuotas de conexión mediante póliza de fianza u otro medio legalmente aceptado; hecho lo anterior, el prestador de los servicios expedirá la carta de factibilidad correspondiente, previa entrega de los planos autorizados por el prestador de los servicios.
 
 > <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2014)</small>
 
@@ -3254,3 +3254,11 @@ PRIMERO. Este decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 TERCERO. Respecto de aquellas solicitudes de factibilidad que se encuentren en trámite al inicio de la vigencia de este Decreto, les serán aplicables estas disposiciones siempre y cuando no se haya suscrito el convenio de incorporación a los sistemas de agua potable de los ayuntamientos u organismos operadores, pudiendo celebrar nuevo convenio en el que se podrán modificar o ratificar los compromisos establecidos, incluyendo lo correspondiente al pago de cuotas y tarifas.
+
+P.O. 8 DE NOVIEMBRE DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO. Respecto de aquellas solicitudes de factibilidad que se encuentren en trámite al inicio de la vigencia de este Decreto, les serán aplicables estas disposiciones, siempre y cuando no se haya suscrito el convenio de incorporación a los sistemas de agua potable de los ayuntamientos u organismos operadores, pudiendo celebrar nuevo convenio, en el que se podrán modificar o ratificar los compromisos establecidos, incluyendo lo correspondiente al pago de cuotas y tarifas.
