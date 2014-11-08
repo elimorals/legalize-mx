@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-entrega-recepcion-de-los-recursos-publicos-del-12203"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-15"
-last_updated: "1994-12-15"
+last_updated: "2014-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12203&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE ENTREGA RECEPCION DE LOS RECURSOS PUBLICOS DEL ESTADO DE SAN LUIS POTOSI
 
-LEY DE ENTREGA RECEPCION DE LOS RECURSOS PUBLICOS DEL ESTADO DE SAN LUIS POTOSI
+LEY DE ENTREGA RECEPCIÓN DE LOS RECURSOS PÚBLICOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de diciembre de 1994.
 
@@ -139,6 +139,14 @@ V.- Reglamentos de orden municipal, manuales de organización y de procedimiento
 
 VI.- En general los aspectos relacionados con la situación administrativa, desarrollo, cumplimiento o en su caso desviación de programas y demás información y documentación relativa que señale el manual de normatividad.
 
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2014)</small>
+
+En cumplimiento al principio de anualidad, todas las autoridades obligadas por la presente norma, al finalizar su gestión por un periodo constitucional, separación o cese en el desempeño del mismo por cualquier causa, deberán incluir en la documentación de la entrega-recepción, toda la información que sirva como elementos complementarios de las cuentas públicas; lo anterior comprende el periodo del uno de enero de su último año en funciones, hasta la conclusión, separación o cese de su desempeño.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2014)</small>
+
+Además, las autoridades obligadas por esta Ley, enviarán copia de la documentación de la entrega-recepción, respecto de la información que sirva como elementos complementarios de las cuentas públicas.
+
 ###### ARTICULO 15.
 
 El informe a que se refiere la fracción I del artículo anterior, deberá contener una descripción de la situación del despacho a la fecha de inicio de su gestión; también describirá las actividades emprendidas y resultados obtenidos durante la misma, señalando especialmente los que se encuentran en proceso y por último la situación del despacho en la fecha de retiro o término de su gestión.
@@ -204,3 +212,11 @@ El Secretario General de Gobierno,
 LIC. JAIME SUAREZ ALTAMIRANO.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETO DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE NOVIEMBRE DE 2014.
+
+PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
