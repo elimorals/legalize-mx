@@ -4,7 +4,7 @@ identifier: "COL-ley-del-sistema-de-seguridad-publica-para-el-estado-de-72610"
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-23"
-last_updated: "2014-05-17"
+last_updated: "2014-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 8 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 23 de enero de 2010.
 
@@ -567,7 +569,7 @@ VII. Emitir opinión sobre las propuestas de programas, proyectos, estrategias y
 
 VIII. Promover la coordinación formal con las instituciones de seguridad pública y desarrollo social para instrumentar políticas de prevención social del delito;
 
-IX. Presentar al Consejo Estatal de Seguridad Pública, los proyectos de dictamen de validación de los programa, proyectos, estrategias y acciones que pretendan implementar las entidades y dependencias estatales en cumplimiento del Programa Estatal de Prevención Social de la Violencia y la Delincuencia;
+IX. Presentar al Consejo Estatal de Seguridad Pública, los proyectos de dictamen de validación de los programa (sic), proyectos, estrategias y acciones que pretendan implementar las entidades y dependencias estatales en cumplimiento del Programa Estatal de Prevención Social de la Violencia y la Delincuencia;
 
 X. Proponer acciones para mejorar las disposiciones normativas relacionadas con la prevención social de la violencia y la delincuencia;
 
@@ -3462,3 +3464,43 @@ TERCERO.- Las acciones que en su caso deba realizar el Secretario Ejecutivo del 
 CUARTO.- Las inscripciones, avisos y demás actos que se hayan realizado con anterioridad a la entrada en vigor del presente Decreto, conservarán plena validez y vigencia.
 
 QUINTO.- La Secretaría de Seguridad Pública y la Procuraduría General de Justicia proporcionarán al Secretariado Ejecutivo en un plazo no mayor a 180 días naturales, a partir de la Publicación del presente Decreto, la información relativa a los hechos delictivos relacionados con vehículos y de la cual dispusieran a la entrada en vigor de esta disposición, a efecto de integrar la base de datos del Registro Público Vehicular.
+
+P.O. 8 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el 19 de noviembre del año en curso.
+
+Los procedimientos administrativos iniciados con antelación a la entrada en vigor de la presente, se regirán por las disposiciones vigentes al momento de su inicio.
+
+En el caso de que no se dieran las condiciones necesarias para la implantación del Sistema de Justicia Acusatorio Adversarial en el Estado, en la fecha señalada en la Declaración respectiva, se hará una ampliación del término para la entrada en vigor del mismo.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor de la presente Ley queda abrogada la Ley del Sistema de Seguridad Pública para el Estado de Colima, publicada en el Periódico Oficial “El Estado de Colima”, el 23 de enero del 2010, mediante Decreto Número 73, así como las demás disposiciones que se opongan a la presente Ley, con la salvedad de los procedimientos iniciados con antelación a su entrada en vigor, los cuales se regirán por las disposiciones vigentes al momento de su inicio.
+
+###### ARTÍCULO TERCERO.
+
+Para dar cumplimiento a lo señalado en la presente Ley, se deberá programar la partida presupuestal correspondiente por parte de la Secretaría de Finanzas y Administración del Gobierno del Estado, previo anteproyecto presentado por las Secretarías General de Gobierno y Secretaría de Seguridad Pública, respecto a las áreas de su competencia prevista en esta Ley.
+
+###### ARTÍCULO CUARTO.
+
+Dentro de los 180 días naturales siguientes, contados a partir de la entrada en vigor del presente ordenamiento, se deberán expedir los Reglamentos correspondientes a que hace referencia esta Ley.
+
+###### ARTÍCULO QUINTO.
+
+El Consejo Ciudadano para la Seguridad Pública seguirá operando en los términos en que se haya conformado y de acuerdo con lo previsto en el presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+El Consejo Ciudadano para la Seguridad Pública, en un plazo no mayor de 180 días elaborará su reglamento interno con base a lo previsto en el presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+En el caso del Municipio de Colima, en tanto el ayuntamiento asuma la función de seguridad pública municipal, ésta se continuará prestando por el Gobierno del Estado, por conducto de la Policía Estatal Preventiva.
+
+Asimismo, a efecto de dar cumplimiento al artículo 90 de esta Ley, el Centro Preventivo Municipal de Colima, tendrá la obligación de dar el aviso administrativo correspondiente de manera inmediata al Centro Estatal de Información, a través del informe policial homologado.
+
+###### ARTÍCULO OCTAVO.
+
+Los ayuntamientos del Estado dispondrán máximo de 180 días naturales contados a partir de la entrada en vigor del presente ordenamiento, a fin de que lleven a cabo la reglamentación correspondiente o, en su caso, su adecuación en los términos de esta Ley.
