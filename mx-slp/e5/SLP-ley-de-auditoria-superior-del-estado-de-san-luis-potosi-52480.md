@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-auditoria-superior-del-estado-de-san-luis-potosi-52480"
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-30"
-last_updated: "2014-07-15"
+last_updated: "2014-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AUDITORÍA SUPERIOR DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 30 de mayo de 2006.
 
@@ -707,7 +707,9 @@ La Cuenta Pública del Estado que se integra con la información debidamente cla
 
 Además, se rendirá a más tardar el día quince del mes siguiente al periodo de que se trate, un informe de la situación financiera de forma trimestral, conforme lo dispuesto en la presente Ley.
 
-Las cuentas públicas municipales anuales se entregarán al Congreso del Estado, y en sus recesos a la Diputación Permanente, previa su aprobación por los ayuntamientos respectivos, a más tardar el treinta y uno de enero del año siguiente al de su ejercicio, salvo que se trate del último año del ejercicio de las administraciones municipales, pues en tal caso las cuentas públicas se presentarán durante la última semana del periodo constitucional de los ayuntamientos El periodo del que hubiera dejado de informarse deberá incluirse en la primera cuenta pública del ayuntamiento entrante.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE 2014)</small>
+
+Las cuentas públicas municipales se entregarán en forma anual al Congreso del Estado y, en sus recesos, a la Diputación Permanente, a más tardar el treinta y uno de enero del año siguiente al de su ejercicio.
 
 > <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
 
@@ -1386,3 +1388,9 @@ P.O. 15 DE JULIO DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 8 DE NOVIEMBRE 2014.
+
+PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
