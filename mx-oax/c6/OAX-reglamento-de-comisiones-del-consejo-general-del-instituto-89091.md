@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-de-comisiones-del-consejo-general-del-instituto-8909
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-07-18"
-last_updated: "2012-07-18"
+last_updated: "2014-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89091&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 REGLAMENTO DE COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, ORGANISMO PÚBLICO LOCAL ELECTORAL DEL ESTADO DE OAXACA, PUBLICADO EN EL P.O. 8 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2014 (ABROGADO)
 
 Reglamento publicado en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 18 de julio de 2012.
 
@@ -446,3 +448,13 @@ ALBERTO ALONSO CRIOLLO
 SECRETARIO
 
 FRANCISCO JAVIER OSORIO ROJAS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE NOVIEMBRE DE 2014.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DEL REGLAMENTO DE COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, ORGANISMO PÚBLICO LOCAL ELECTORAL DEL ESTADO DE OAXACA</small>
+
+Primero.- El presente Reglamento entrará en vigor a partir de su aprobación por el Consejo General.
+
+Segundo. Se abroga el Reglamento de Comisiones del Consejo General del Instituto Estatal Electoral y de Participación Ciudadana aprobado el 11 de julio de 2012.
