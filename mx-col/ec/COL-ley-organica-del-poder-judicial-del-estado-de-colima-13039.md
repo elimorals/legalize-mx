@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-judicial-del-estado-de-colima-13039"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-10-08"
-last_updated: "2012-09-08"
+last_updated: "2014-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 8 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 8 de octubre de 1988.
 
@@ -275,7 +277,7 @@ V.- Dar cuenta al Presidente con los escritos que reciba dentro de las veinticua
 
 VI.- Redactar la correspondencia oficial conforme a lo acordado por el Presidente;
 
-VII.- Cuidar de que el secretario actuario fije fuera de su oficina en lugar visible y de fácil acceso, la lista de los acuerdos y de las resoluciones del Pleno o de la Presidencia que deban ser notificadas con arreglo a las leyes procesales; y (sic)
+VII.- Cuidar de que el secretario actuario fije fuera de su oficina en lugar visible y de fácil acceso, la lista de los acuerdos y de las resoluciones del Pleno o de la Presidencia que deban ser notificadas con arreglo a las leyes procesales; y
 
 > <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1075,7 +1077,7 @@ VI.- Determinar el diseño de las rutas por Actuario para la práctica de las no
 
 VII.- Establecer un catálogo de los tiempos límites aproximados de las diligencias, considerando el tiempo de ejecución y la distancia a donde deba trasladarse el Actuario;
 
-VIII.- Asignar la diligencia a los actuarios tanto de oficio como a petición de parte interesada, con apego en lo dispuesto en el artículo I8-I del Reglamento Interior de los Juzgados del Estado de Colima;
+VIII.- Asignar la diligencia a los actuarios tanto de oficio como a petición de parte interesada, con apego en lo dispuesto en el artículo 18-I del Reglamento Interior de los Juzgados del Estado de Colima;
 
 IX. Dar seguimiento a la gestión del auxilio de la fuerza pública, la que deberá ser solicitada por la parte interesada ante el Juez de la causa y la instancia correspondiente, para garantizar la seguridad del Actuario;
 
@@ -2015,7 +2017,7 @@ La clasificación de los Peritos Valuadores, la expedición de los peritajes y e
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON LOS CAPIÍULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE FEBRERO DE 2009)</small>
 
 ## TITULO UNICO. DISPOSICIONES GENERALES
 
@@ -2358,3 +2360,83 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Pleno deberá llevar a cabo, en un plazo de 60 días contados a partir de la publicación del presente decreto, las acciones necesarias para la implementación de este sistema. En tanto, el registro de cédulas profesionales que se lleva en los libros de los Juzgados de Primera Instancia, continuará surtiendo efectos hasta que se haya implementado en su totalidad, tanto en la Secretaría General de Acuerdos para su ingreso, captura y resguardo, como en los demás órganos jurisdiccionales de la Entidad, para su consulta.
 
 TERCERO. Una vez implementado en su totalidad el nuevo sistema, surtirá efectos como único registro de cédulas profesionales el que se lleve en la Secretaría General de Acuerdos; los profesionistas del derecho que deseen intervenir como autorizados legales o en su caso, como defensores ante los diversos órganos jurisdiccionales del Poder Judicial del Estado, deberán estar registrados en este nuevo sistema.
+
+P.O. 8 DE NOVIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima", con excepción de lo dispuesto en los transitorios sexto, décimo, décimo segundo, décimo tercero, décimo cuarto, décimo quinto, décimo sexto, décimo séptimo, vigésimo, vigésimo tercero y vigésimo cuarto.
+
+SEGUNDO. Se abroga la Ley Orgánica del Poder Judicial del Estado de Colima publicada en el Periódico Oficial “El Estado de Colima”, el 08 de octubre de 1988 y sus reformas. Asimismo, se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Supremo Tribunal de Justicia, contará con noventa días naturales para publicar las disposiciones reglamentarias necesarias que garanticen la operatividad de los órganos jurisdiccionales y áreas que se crearán con motivo del Sistema Acusatorio.
+
+CUARTO. Sin afectación alguna de sus derechos adquiridos, los Magistrados con nombramiento supernumerario quedarán vigentes por un año más contado a partir de la publicación del presente decreto, salvo que su periodo concluya antes de esa fecha.
+
+QUINTO. Para la implementación del sistema de carrera judicial previsto en el Título Quinto de la Ley Orgánica del Poder Judicial del Estado, el Pleno del Supremo Tribunal de Justicia deberá adecuar el Reglamento de Carrera Judicial en un término de novena días naturales.
+
+SEXTO. En un marco de respeto a sus derechos laborales, el personal que se encuentre laborando en el Poder Judicial del Estado de Colima, adscrito a los órganos jurisdiccionales en materia penal, tendrá un plazo de diez días hábiles contados a partir de la entrada en vigor de la presente Ley, para manifestar su voluntad de incorporarse al Sistema Penal Acusatorio o bien de permanecer en el Sistema Penal Mixto durante el período de extinción del mismo.
+
+De optar por la primera opción, quedará sujeto a los procesos de evaluación y selección que establece la Ley Orgánica, los reglamentos aplicables y las disposiciones generales que emita el Pleno del Supremo Tribunal de Justicia del Estado.
+
+En caso de elegir la segunda opción, deberá acogerse al programa de reubicación para la extinción del Sistema Penal Mixto conforme a su perfil.
+
+El servidor público que ocupe una plaza del Sistema Penal Mixto sujeta a la extinción, deberá, en un plazo de noventa días hábiles, contados a partir de que se emita por parte del Pleno del Supremo Tribunal de Justicia la declaratoria de extinción de la misma:
+
+a) Manifestar su voluntad de incorporarse al Sistema Penal Acusatorio y someterse a los procesos de evaluación y selección que establece la Ley Orgánica y las disposiciones reglamentarias aplicables; resultando aplicable en este caso lo previsto por el segundo párrafo del presente transitorio; o
+
+b) Acogerse al programa para la conclusión de la prestación de servicios en forma definitiva de los servidores públicos del Poder Judicial, que en su oportunidad determine el Pleno del Supremo Tribunal de Justicia del Estado.
+
+Se faculta al Pleno del Supremo Tribunal de Justicia del Estado para que, en beneficio de la eficaz impartición de justicia, establezca los sistemas y demás instrumentos de evaluación necesarios, que permitan acreditar la idoneidad de los servidores públicos designados con carácter provisional a efecto de determinar en cualquier momento sobre su permanencia en el cargo.
+
+El Poder Judicial del Estado de Colima contará con un período de dos años a partir del inicio de la vigencia de la Ley Orgánica, a efecto de llevar a cabo los procesos de selección a que se refiere el presente artículo. Una vez concluido el plazo de dos años a que se refiere el párrafo anterior, el personal designado con carácter provisional para ocupar algún cargo del Sistema Penal Acusatorio, quedará sujeto, en tanto se llevan a cabo los procesos de selección previstos en la presente Ley a un sistema de evaluación trimestral.
+
+En todos los casos si de los resultados de dichas evaluaciones practicadas se desprende la falta de idoneidad del personal para desempeñar el cargo, se procederá a dar por concluida la relación laboral con el Poder Judicial del Estado. De la misma forma se procederá cuando habiéndose sometido al proceso de selección no se obtengan resultados aprobatorios dentro del mismo.
+
+Los Jueces Penales con antigüedad de más de seis años en el ejercicio del cargo, permanecerán con su calidad de definitivos y no podrán ser destituidos del cargo salvo en los términos previstos por la Constitución Política del Estado Libre y Soberano de Colima y la Ley Estatal de Responsabilidades de los Servidores Públicos; sin embargo, una vez extinta su plaza, podrán optar por incorporarse al programa de reubicación que disponga el Pleno del Supremo Tribunal de Justicia, o bien acogerse al programa de retiro voluntario.
+
+SÉPTIMO. Los servidores públicos que se desempeñen a la entrada en vigor del presente decreto como Jueces por ministerio de Ley, o en forma interina o provisional en cualquier materia o cuenten con una antigüedad que no exceda de seis años, se sujetarán a las condiciones de su nombramiento y en su caso, en tratándose de materia penal, a lo dispuesto en el transitorio que antecede.
+
+OCTAVO. Los aspirantes que obtuvieron calificación aprobatoria en los procesos de selección vinculados con las convocatorias expedidas por el Pleno del Supremo Tribunal de Justicia identificadas con los números STJ/EM/01/2012 y STJ/01/2014, para la selección de Jueces de Primera Instancia señalados en los citados procedimientos de selección, conservarán sus derechos que deriven de los citados concursos; y en todo caso se estarán a lo que se determine por los tribunales federales.
+
+NOVENO. Los Juzgados de oralidad civil, familiar y mercantil, y los órganos jurisdiccionales en materia de justicia para adolescentes tramitarán los asuntos de su competencia en los términos y modalidades que para el efecto determinen las leyes de cada materia.
+
+DÉCIMO. El Juzgado Especializado en Justicia para Adolescentes, permanecerá en funciones hasta en tanto se extingan las causas de su competencia según lo determine la legislación de la materia. El personal que lo integre se sujetará a lo previsto por el transitorio sexto.
+
+DÉCIMO PRIMERO. Para agilizar el trámite de los procedimientos penales iniciados con el sistema tradicional, se podrán aplicar los mecanismos alternativos de solución de conflictos, de conformidad con las leyes de la materia en lo que resulten de mayor beneficio.
+
+DÉCIMO SEGUNDO. Las causas iniciadas antes de la vigencia del presente decreto en materia de narcomenudeo, se sustanciarán en los Juzgados del sistema tradicional; las causas que se inicien a partir de la entrada en vigor del Sistema Acusatorio, serán sustanciadas de conformidad con lo establecido en el Código Nacional de Procedimientos Penales. El Pleno del Tribunal determinará la estructura y número de órganos jurisdiccionales en esta materia.
+
+DÉCIMO TERCERO.- Los servidores públicos del Poder Judicial declararán su situación patrimonial según lo disponga la Ley Orgánica del Poder Judicial del Estado, a partir del 1º de enero de 2017.
+
+DÉCIMO CUARTO. Se continuarán aplicando las disposiciones relativas de la Ley Orgánica del Poder Judicial del Estado de Colima publicada en el Periódico Oficial "El Estado de Colima" el 08 de octubre de 1988 y sus reformas respecto a la substanciación, resolución y ejecución de los procedimientos administrativos de queja y de responsabilidad instaurados a los servidores públicos con motivo de faltas cometidas con anterioridad a la entrada en vigor del presente Decreto.
+
+DÉCIMO QUINTO. Las cuestiones de competencia, inconformidades por excusa o con motivo de que dos o más Jueces se hubieran negado a conocer de determinado asunto, que se encuentren en trámite a la entrada en vigor del presente decreto, continuarán ventilándose ante los órganos correspondientes hasta su debida conclusión conforme a las disposiciones vigentes en la fecha que iniciaron.
+
+DÉCIMO SEXTO. El Pleno del Tribunal determinará el número de Juzgados de Menor Cuantía que deban crearse así como la plantilla de personal necesaria para el desempeño de sus atribuciones.
+
+La sección tercera del capítulo II del Título Segundo de esta Ley, entrará en vigor una vez que el Congreso del Estado determine las previsiones presupuestales que garanticen los recursos humanos y materiales necesarios a fin de crear los Juzgados de Menor Cuantía que sustituirán a los actuales Juzgados Mixtos de Paz.
+
+En el marco de la protección de sus derechos laborales, los servidores públicos que a la entrada en vigor de la sección señalada en el párrafo que antecede cuenten con nombramiento como Jueces Mixtos de Paz deberán:
+
+a) Acreditar los requisitos de elegibilidad para acceder al cargo de Juez de Menor Cuantía previstos por la presente Ley y someterse a los procesos de selección que establece la Ley Orgánica y las disposiciones reglamentarias aplicables; o
+
+b) Acogerse al programa de reubicación que determine el Pleno del Supremo Tribunal de Justicia del Estado conforme a su perfil, respetándose su irreductibilidad salarial.
+
+En el caso de elegirse la primera opción y no resulte con calificación aprobatoria en el procedimiento de selección correspondiente, podrá optar por acogerse al programa de reubicación señalado en el inciso b que antecede u optar por la conclusión de sus servicios en el Poder Judicial del Estado, de conformidad con la normatividad aplicable.
+
+Las atribuciones que se conceden en la presente Ley a los Jueces de Menor Cuantía a efecto de que estos en auxilio puedan fungir como Jueces de Control en los términos que se plasman en este ordenamiento, estarán sujetas a la autorización que emita al respecto el Pleno del Supremo Tribunal de Justicia, una vez que los citados servidores públicos se capaciten y obtengan una calificación favorable en la evaluación que se les practique en materia del sistema penal acusatorio.
+
+DÉCIMO SÉPTIMO. Hasta en tanto se garantice la disponibilidad presupuestaria para la debida operación de las áreas auxiliares, el Pleno, la Presidencia, los órganos administrativos, las áreas técnicas y de apoyo que a la fecha se encuentran en funciones, continuarán operando conforme a la Ley anterior en lo que no se oponga al presente decreto.
+
+DÉCIMO OCTAVO. La implementación del presente Decreto será con cargo a los respectivos presupuestos aprobados a los tres poderes del Gobierno del Estado.
+
+DÉCIMO NOVENO. En tanto se expiden los reglamentos derivados de la presente Ley o en su caso se efectúan las adecuaciones necesarias a los existentes, continuarán en vigor los mismos en lo que no se opongan al presente decreto.
+
+VIGÉSIMO. Los acuerdos generales aprobados por el Supremo Tribunal de Justicia con fundamento en la Ley Orgánica del Poder Judicial del Estado de Colima que se abroga mediante el presente decreto, continuarán en vigor en lo que no se opongan a la presente Ley hasta que el propio Tribunal dicte las normas generales y administrativas que correspondan.
+
+VIGÉSIMO PRIMERO. Se faculta al Pleno del Supremo Tribunal de Justicia para dictar todas las medidas que sean necesarias para la efectividad y cumplimiento de la presente Ley.
+
+VIGÉSIMO SEGUNDO. Para la suplencia en los casos de ausencia de los Magistrados a que se refiere el artículo 237 de esta Ley, se considerará el orden de nombramientos de los Jueces de primera instancia aprobados por el propio tribunal conforme los registros que se tengan en el área de personal correspondiente.
+
+VIGÉSIMO TERCERO. Las disposiciones previstas en el capítulo IV denominado “Del Sistema Penal Acusatorio”, del título segundo y las demás relativas a dicho sistema, de la presente Ley Orgánica del Poder Judicial, son de orden público y de interés general que derivan de un mandato constitucional, y entrarán en vigor en los términos previstos por la declaratoria emitida por el Congreso del Estado mediante decreto 372, publicado en el Periódico Oficial del Estado el día 30 de agosto del año 2014, así como del artículo SEGUNDO TRANSITORIO del Código Nacional de Procedimientos Penales, debiendo atenderse en los términos del Código Penal para el Estado de Colima; por lo que no podrán suspenderse ni prorrogarse las acciones tendientes a los nombramientos de los operadores y demás personal necesario para su debida implementación.
+
+VIGÉSIMO CUARTO. Se faculta al Pleno del Supremo Tribunal de Justicia para que, atendiendo a la urgencia de poner en marcha la implementación del nuevo sistema de justicia penal acusatorio en la entidad, en forma provisional o bajo la modalidad que el citado órgano colegiado determine, se establezcan los lineamientos que se consideren oportunos para que los interesados en ocupar los cargos vinculados con la referida implementación, sean designados en esos cargos, en tanto, se efectúe la aplicación de las evaluaciones correspondientes o se lleven a cabo los concursos de oposición a que se refiere la presente Ley en el caso de los servidores públicos de carrera judicial; y respecto a los administrativos, se implementen las evaluaciones que se estimen oportunas a fin de garantizar el ingreso, la idoneidad y permanencia de los citados operadores.
