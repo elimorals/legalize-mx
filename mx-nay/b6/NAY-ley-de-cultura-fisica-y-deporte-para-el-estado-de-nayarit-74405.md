@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-cultura-fisica-y-deporte-para-el-estado-de-nayarit-74405
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-03"
-last_updated: "2014-03-19"
+last_updated: "2014-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Nayarit, el sábado 3 de abril de 2010.
 
@@ -83,21 +83,57 @@ I. Activación Física: El ejercicio o movimiento del cuerpo humano que se reali
 
 II. Actividad Física: Actos motores propios del ser humano realizados como parte de sus actividades cotidianas;
 
-III. Cultura Física: Conjunto de bienes integrados por los conocimientos, ideas, valores y elementos materiales que el hombre ha producido con relación al movimiento y uso de su cuerpo;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2014)</small>
 
-IV. Deporte: Actividad física, organizada y reglamentada, que tiene por finalidad preservar y mejorar la salud física y mental, el desarrollo social, ético e intelectual, con el logro de resultados en competiciones;
+III. Comisión Especial: La Comisión Especial Federal Contra la Violencia en el Deporte, la cual estará encargada de elaborar y conducir las políticas generales contra la violencia en el deporte;
 
-V. Deporte Social: El deporte que promueve, fomenta y estimula el que todas las personas sin distinción de género, edad, discapacidad, condición social, religión, opiniones, preferencias o estado civil, tengan igualdad de participación en actividades deportivas con finalidades recreativas, educativas y de salud o rehabilitación;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2014)</small>
 
-VI. Deporte de Rendimiento: El deporte que promueve, fomenta y estimula el que todas las personas puedan mejorar su nivel de calidad deportiva como aficionados, pudiendo integrarse al deporte de alto rendimiento, o en su caso, sujetarse adecuadamente a una relación laboral por la práctica del deporte;
+IV. Comisión Especial de Nayarit: La Comisión Especial Contra la Violencia en el Deporte para el Estado de Nayarit;
 
-VII. Deporte de Alto Rendimiento: El deporte que se practica con altas exigencias técnicas y científicas de preparación y entrenamiento, que permite al deportista la participación en preselecciones y selecciones estatales y nacionales que representan al Estado y al país en competiciones y pruebas oficiales de carácter nacional o internacional;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2014)</small>
 
-VIII. Educación Física: Proceso por medio del cual se adquiere, transmite y acrecienta la cultura física;
+V. Cultura Física: Conjunto de bienes integrados por los conocimientos, ideas, valores y elementos materiales que el hombre ha producido con relación al movimiento y uso de su cuerpo;
 
-IX. Recreación Física: Actividad física con fines de esparcimiento que permiten la utilización positiva del tiempo libre, y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2014)</small>
 
-X. Rehabilitación Física: Actividades para restablecer a una persona sus capacidades físicas, reeducando a su cuerpo por medio de ellas.
+VI. Deporte: Actividad física, organizada y reglamentada, que tiene por finalidad preservar y mejorar la salud física y mental, el desarrollo social, ético e intelectual, con el logro de resultados en competiciones;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2014)</small>
+
+VII. Deporte Social: El deporte que promueve, fomenta y estimula el que todas las personas sin distinción de género, edad, discapacidad, condición social, religión, opiniones, preferencias o estado civil, tengan igualdad de participación en actividades deportivas con finalidades recreativas, educativas y de salud o rehabilitación;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2014)</small>
+
+VIII. Deporte de Rendimiento: El deporte que promueve, fomenta y estimula el que todas las personas puedan mejorar su nivel de calidad deportiva como aficionados, pudiendo integrarse al deporte de alto rendimiento, o en su caso, sujetarse adecuadamente a una relación laboral por la práctica del deporte;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2014)</small>
+
+IX. Deporte de Alto Rendimiento: El deporte que se practica con altas exigencias técnicas y científicas de preparación y entrenamiento, que permite al deportista la participación en preselecciones y selecciones estatales y nacionales que representan al Estado y al país en competiciones y pruebas oficiales de carácter nacional o internacional;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2014)</small>
+
+X. Educación Física: Proceso por medio del cual se adquiere, transmite y acrecienta la cultura física;
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2014)</small>
+
+XI. Evento Deportivo: Cualquier encuentro entre deportistas afiliados a las asociaciones o sociedades deportivas, que se realice conforme a las normas establecidas por éstas y por los organismos rectores del deporte;
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2014)</small>
+
+XII. Evento Deportivo Masivo: Sin importar el número de personas que se encuentren reunidas, será cualquier evento deportivo abierto al público, que se realice en instalaciones deportivas, estadios, recintos o edificios deportivos, que tenga una capacidad de aforo igual o superior al resultado de multiplicar por cien el número mínimo de competidores que, conforme al reglamento o normatividad de la disciplina que corresponda, deba estar activo dentro de un área de competencia; o bien, aquél que se realice en lugares abiertos, cuando el número de competidores sea igual o mayor a doscientos;
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2014)</small>
+
+XIII. Evento Deportivo con fines de espectáculo: Cualquier evento deportivo en el que se condicione el acceso de los aficionados o espectadores al pago de una tarifa para presenciarlo;
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2014)</small>
+
+XIV. Recreación Física: Actividad física con fines de esparcimiento que permiten la utilización positiva del tiempo libre, y
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2014)</small>
+
+XV. Rehabilitación Física: Actividades para restablecer a una persona sus capacidades físicas, reeducando a su cuerpo por medio de ellas.
 
 ###### Artículo 4.
 
@@ -219,9 +255,9 @@ IX. Organizar programas especiales de recreación física y práctica deportiva 
 
 X. Establecer programas que faciliten el acceso de la mujer a la práctica deportiva;
 
-> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2014)</small>
 
-XI. Establecer los criterios y acciones a efecto de prevenir la violencia en la práctica del deporte;
+XI. Establecer los procedimientos y acciones a efecto de prevenir la violencia en eventos deportivos, protegiendo la seguridad y patrimonio de las personas en coordinación con las autoridades de seguridad pública, privada y protección civil garantizando el desarrollo pacífico en los recintos donde se celebren eventos deportivos masivos y con fines de espectáculo, así como sus inmediaciones;
 
 > <small>(ADICIONADA, P.O. 19 DE MARZO DE 2014)</small>
 
@@ -931,13 +967,19 @@ El Ejecutivo Estatal expedirá las normas reglamentarias necesarias para la inte
 
 ### Capítulo II. De la Prevención de la Violencia en el Deporte
 
-> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 94 Bis.
 
-Las disposiciones previstas en este capítulo, serán aplicables a todos los eventos deportivos.
+Las disposiciones previstas en este capítulo, serán aplicables a todos los eventos deportivos y buscarán promover las medidas preventivas necesarias para erradicar la violencia, así como reducir los riesgos al momento de la práctica de actividades físicas, recreativas o deportivas.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2014)</small>
 
 El Instituto, podrá asesorar en la materia, dentro del ámbito de su competencia, a los organizadores de eventos deportivos, cuando así lo requieran.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2014)</small>
+
+El funcionamiento, integración y organización de la Comisión Especial de Nayarit estará a lo establecido en el Reglamento de la Ley General de Cultura Física y Deporte en materia de violencia en el deporte. Esta Comisión será presidida por el Director General del Instituto Nayarita de Cultura Física y Deporte, misma que será el vínculo para la ejecución de los acuerdos, políticas y acciones que determine la Comisión Especial.
 
 > <small>(ADICIONADO, P.O. 19 DE MARZO DE 2014)</small>
 
@@ -979,9 +1021,11 @@ VI. Brindar asesoría a quien lo solicite, en materia de prevención de la viole
 
 VII. Las que establezca la presente Ley, su reglamento y demás ordenamientos aplicables.
 
-> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2014)</small>
+(ADICIONADO, P.O. 19 DE MARZO DE 2014) (REFORMADA SU DENOMINACIÓN, P.O. 8 DE NOVIEMBRE DE 2014)
 
-Artículo 94 Quintus.- Dentro de los lineamientos que emite el Instituto a que se refiere el artículo anterior, deberán regularse en lo concerniente al acceso a los eventos deportivos, de manera enunciativa, las siguientes medidas:
+###### Artículo 94 Quinquies.
+
+Dentro de los lineamientos que emite el Instituto a que se refiere el artículo anterior, deberán regularse en lo concerniente al acceso a los eventos deportivos, de manera enunciativa, las siguientes medidas:
 
 I. La introducción de armas, elementos cortantes, punzantes, contundentes u objetos susceptibles de ser utilizados como tales, mismos que puedan poner en peligro la integridad física de los deportistas, entrenadores, directivos, árbitros y de espectadores o asistentes en general;
 
@@ -993,13 +1037,59 @@ IV. El establecimiento de espacios determinados, de modo permanente o transitori
 
 V. El ingreso de bebidas alcohólicas, estupefacientes, psicotrópicos, estimulantes o sustancias análogas; así como de personas que se encuentren bajo los efectos de las mismas.
 
-> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2014)</small>
+(ADICIONADO, P.O. 19 DE MARZO DE 2014) (REFORMADA SU DENOMINACIÓN, P.O. 8 DE NOVIEMBRE DE 2014)
 
-Artículo 94 Sextus.- Toda persona en calidad de asistente o espectador que acuda a la celebración de un evento deportivo, deberá:
+###### Artículo 94 Sexies.
 
-I. Acatar las disposiciones normativas relacionadas con la celebración de eventos deportivos que emita el Instituto, así como las de la localidad en donde se lleven a cabo, y
+Toda persona en calidad de asistente o espectador que acuda a la celebración de un evento deportivo, deberá:
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2014)</small>
+
+I. Acatar las disposiciones normativas relacionadas con la celebración de eventos deportivos y la prevención y erradicación de la violencia en el deporte, así como de las diversas modalidades de los eventos deportivos contenidas en la presente Ley que emitan tanto la Comisión Especial como la Comisión Especial de Nayarit, y
+
+> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2014)</small>
 
 II. Cumplir con las indicaciones señaladas por el organizador, mismas que deberán contener las causas por las que se pueda impedir su entrada a las instalaciones donde se llevará a cabo dicho espectáculo. Con estricto respeto a las disposiciones y procedimientos previstos en las leyes u ordenamientos en materia de responsabilidades administrativas, civiles y penales aplicables de carácter federal, estatal, del Distrito Federal y municipal, los asistentes o espectadores que cometan actos que generen violencia u otras acciones sancionables al interior o en las inmediaciones de los espacios destinados a la realización de la cultura física, el deporte y en las que se celebren eventos deportivos en cualquiera de sus modalidades, serán sujetos a la aplicación de la sanción correspondiente conforme a los ordenamientos referidos por la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 94 Septies.
+
+La coordinación y colaboración entre el Estado y los municipios de la entidad, en lo concerniente a la seguridad pública y la prevención del delito en los eventos deportivos masivos o con fines de espectáculo se ejecutará sin perjuicio de lo dispuesto por la Ley General del Sistema Nacional de Seguridad Pública y la Ley del Sistema Estatal de Seguridad Pública, ésta será subsidiaria y se sujetará a lo siguiente:
+
+I. Los usuarios de las instalaciones deportivas, ya sea organizadores, participantes, asistentes, aficionados o espectadores en general, atenderán las disposiciones en materia de seguridad pública y protección civil, según corresponda y las indicaciones en la materia que emitan las autoridades competentes, para que los eventos deportivos se realicen de manera ordenada y se preserve la integridad de las personas y los bienes;
+
+II. Para la seguridad en el interior de los recintos y sus anexos, los organizadores de los eventos deberán observar las disposiciones legales, reglamentarias y administrativas correspondientes al municipio en que se celebren los eventos,
+
+La seguridad de las personas que se encuentren en la cancha, área de competencia, en los vestidores y baños para jugadores y en los corredores que los comuniquen, será responsabilidad compartida y exclusiva de las asociaciones o sociedades deportivas que avalen el evento y de los organizadores y sólo a petición expresa de sus dirigentes podrán intervenir las autoridades municipales, estatales o federales de seguridad para restablecer la paz pública, salvo que la intervención sea de necesidad inminente e indispensable para salvaguardar la vida o la integridad de los jugadores, de las personas o de los bienes que se encuentren en dichos espacios, cuyo caso no necesitarán permiso alguno;
+
+La seguridad en los alrededores de los recintos deportivos corresponde a las autoridades municipales en los términos de lo que dispongan las leyes aplicables;
+
+III. Para participar en la planeación previa y en el seguimiento durante el desarrollo del evento, los organizadores de los eventos y las autoridades deportivas podrán acreditar un representante y deberán atender las indicaciones y recomendaciones de las autoridades de seguridad pública o de la Comisión Especial de Nayarit;
+
+IV. Los representantes a que se refiere esta fracción podrán realizar sugerencias y recomendaciones o solicitudes a las autoridades de seguridad pública, pero por ningún motivo tendrán carácter de autoridad pública ni asumirán posiciones de mando;
+
+V. Los responsables de la seguridad al interior de los recintos deportivos y sus instalaciones anexas designados por los organizadores de los eventos, deberán participar en las labores de planeación previa, atendiendo las recomendaciones e indicaciones de las autoridades de seguridad pública;
+
+VI. En la seguridad al interior de los recintos y sus instalaciones anexas, a solicitud de los organizadores, podrán participar autoridades de los tres órdenes de gobierno, atendiendo a lo dispuesto en este artículo y en las disposiciones legales y reglamentarias aplicables, en cuyo caso el mando de los elementos tanto oficiales, como los que aporten los responsables del evento, estará siempre a cargo de quien jerárquicamente corresponda dentro de la corporación, quien será el responsable de coordinar las acciones;
+
+VII. Todas las autoridades contribuirán, en el ámbito de sus competencias, a la efectiva coordinación para garantizar la seguridad en las inmediaciones de las instalaciones deportivas y en el traslado de aficionados al lugar donde se realicen los eventos deportivos, así como en el auxilio eficaz y oportuno al interior de los recintos en caso de requerirse, y
+
+VIII. Las autoridades de seguridad pública tanto estatales como municipales capacitarán a los cuerpos policiacos en el uso apropiado de sus atribuciones así como en técnicas y tácticas especiales para resolver conflictos y eliminar cualquier acto de violencia que pueda suscitarse.
+
+Para los efectos de este artículo se considera que el evento deportivo concluye hasta que el recinto se encuentre desalojado y los asistentes se hayan retirado de las inmediaciones.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 94 Octies.
+
+Para la celebración de eventos deportivos masivos o con fines de espectáculo, las instalaciones en que pretendan realizarse, independientemente del origen de los fondos con que hayan sido construidas, deberán contar con el equipamiento de seguridad pública y de protección civil, así como elaborar el programa interno de protección civil en los términos de lo señalado en el artículo 43 Bis de la Ley de Protección Civil para el Estado de Nayarit.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 94 Nonies.
+
+La Comisión Especial de Nayarit emitirá un programa anual de trabajo para la prevención de la violencia en el deporte, para ello podrá consultar a las autoridades en materia de seguridad, así como a las asociaciones y sociedades deportivas.
 
 ### Capítulo III. De las Sanciones por Infracción a esta Ley
 
@@ -1013,15 +1103,33 @@ Las infracciones a las disposiciones de esta Ley y demás disposiciones que de e
 
 Salvo lo previsto en el artículo 88, las sanciones que se aplicarán por infracciones a la presente Ley y demás disposiciones que de ella emanen serán:
 
-I. Amonestación;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2014)</small>
+
+I. Amonestación privada o pública;
 
 II. Limitación, reducción o cancelación de estímulos y apoyos;
 
 III. Suspensión temporal de la inscripción en el Registro Estatal;
 
-IV. Cancelación definitiva de la inscripción en el Registro Estatal; y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2014)</small>
 
-V. Destitución e Inhabilitación para ejercer cargos directivos en Organismos Deportivos.
+IV. Cancelación definitiva de la inscripción en el Registro Estatal;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2014)</small>
+
+V. Destitución e Inhabilitación para ejercer cargos directivos en Organismos Deportivos;
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2014)</small>
+
+VI. Expulsión inmediata de las instalaciones deportivas;
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2014)</small>
+
+VII. Multa de 10 a 90 días de salario mínimo general vigente en el Estado, y
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2014)</small>
+
+VIII. Suspensión de uno a cinco años del acceso a eventos deportivos masivos o con fines de espectáculo.
 
 ###### Artículo 97.
 
@@ -1068,6 +1176,12 @@ I. Cuando el directivo en su actuación transgreda las disposiciones de la prese
 II. Cuando habiendo mediado amonestación por una infracción anterior, se reincida en dicha falta y ésta sea atribuible al directivo; y
 
 III. Cuando el directivo transgreda las disposiciones de los estatutos y reglamentos deportivos que regulan a la disciplina en que participa dicho organismo.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 101 Bis.
+
+A los aficionados, asistentes o espectadores en general, sin perjuicio de las sanciones penales o civiles, se aplicarán en su caso las penas establecidas en las fracciones I, VI, VII y VIII del artículo 96.
 
 ###### Artículo 102.
 
@@ -1376,3 +1490,7 @@ Artículo primero.- El presente decreto entrará en vigor al día siguiente de s
 Artículo segundo.- El Titular del Poder Ejecutivo del Estado, deberá emitir la reglamentación conducente, dentro de los 180 días naturales contados a partir de su vigencia.
 
 Artículo tercero.- Los ayuntamientos deberán modificar o emitir la reglamentación conducente, dentro de los 180 días naturales contados a partir de su vigencia.
+
+P.O. 8 DE NOVIEMBRE DE 2014.
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
