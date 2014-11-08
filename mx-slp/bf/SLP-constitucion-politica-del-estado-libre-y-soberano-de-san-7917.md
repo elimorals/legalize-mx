@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2014-09-23"
+last_updated: "2014-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2014.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -817,9 +817,9 @@ La Cuenta Pública del Poder Ejecutivo del Estado deberá presentarse al Congres
 
 Además, las entidades del Poder Ejecutivo del Estado rendirán de forma trimestral, un informe de su situación financiera, a más tardar el día quince del mes siguiente al periodo de que se trate, conforme lo dispuesto en la ley.
 
-> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2014)</small>
 
-Las cuentas públicas municipales anuales, previa su aprobación por los ayuntamientos respectivos, se entregarán al Congreso del Estado, y en sus recesos a la Diputación Permanente, a más tardar el treinta y uno de enero del año siguiente al de su ejercicio; salvo que se trate del último año del ejercicio de las administraciones municipales, pues en tal caso, las cuentas públicas se presentarán durante la última semana del periodo constitucional de los ayuntamientos. El periodo del que hubiera dejado de informarse deberá incluirse en la primera cuenta pública del ayuntamiento entrante.
+Las cuentas públicas municipales, previo conocimiento de los cabildos respectivos, y con independencia de que sean aprobadas o no, se entregarán en forma anual al Congreso del Estado y, en sus recesos, a la Diputación Permanente, a más tardar el treinta y uno de enero del año siguiente al de su ejercicio.
 
 > <small>(ADICIONADO, P.O. 22 DE JULIO DE 2008)</small>
 
@@ -2914,3 +2914,9 @@ P.O. 23 DE SEPTIEMBRE DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE NOVIEMBRE DE 2014.
+
+PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
