@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-de-transporte-68357"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-27"
-last_updated: "2009-04-27"
+last_updated: "2014-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68357&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE TRANSPORTE
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE TRANSPORTE
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE TRANSPORTE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE NOVIEMBRE DE 2014.
 
 Reglamento publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 27 de abril de 2009.
 
@@ -401,7 +401,9 @@ e) Delegación Regional Ixtapan de la Sal: Almoloya de Alquisiras, Coatepec Hari
 
 II. Dirección General de Operación del Transporte Zona II:
 
-a) Delegación Regional Naucalpan: Atizapán de Zaragoza, Huixquilucan. Isidro Fabela, Jilotzingo, Naucalpan de Juárez, Nicolás Romero y Tlalnepantla de Baz.
+> <small>(REFORMADO, G.G. 10 DE NOVIEMBRE DE 2014)</small>
+
+a) Delegación Regional Naucalpan: Atizapán de Zaragoza, Coacalco de Berriozábal, Huixquilucan, Isidro Fabela, Jilotzingo, Naucalpan de Juárez, Nicolás Romero y Tlalnepantla de Baz.
 
 b) Delegación Regional Cuautitlán Izcalli, Coyotepec, Cuautitlán, Cuautitlán Izcalli, Huehuetoca, Melchor Ocampo, Teoloyucan, Tepotzotlán, Tultepec, Tultitlán y Villa del Carbón.
 
@@ -411,11 +413,13 @@ III. Dirección General de Operación del Transporte Zona III:
 
 a) Delegación Regional Texcoco: Atenco, Chiautla, Chiconcuac, Papalotla, Tepetlaoxtoc, Texcoco y Tezoyuca.
 
-b) Delegación Regional Ecatepec: Acolman, Axapusco, Coacalco de Berriozábal, Ecatepec de Morelos, Nopaltepec, Otumba, San Martín de las Pirámides, Tecámac, Temascalapa y Teotihuacan.
+> <small>(REFORMADO, G.G. 10 DE NOVIEMBRE DE 2014)</small>
+
+b) Delegación Regional Ecatepec: Acolman, Axapusco, Ecatepec de Morelos, Nopaltepec, Otumba, San Martín de las Pirámides, Tecámac, Temascalapa y Teotihuacan.
 
 IV. Dirección General de Operación del Transporte Zona IV:
 
-a) Delegación Regional Nezahualcóyotl: Chicoloapan, Chimalhuacán, lxtapaluca, La Paz y Nezahualcóyotl.
+a) Delegación Regional Nezahualcóyotl: Chicoloapan, Chimalhuacán, Ixtapaluca, La Paz y Nezahualcóyotl.
 
 b) Delegación Regional Chalco: Amecameca, Atlautla, Ayapango, Chalco, Cocotitlán, Ecatzingo, Juchitepec, Ozumba, Temamatla, Tenango del Aire, Tepetlixpa, Tlalmanalco y Valle de Chalco Solidaridad.
 
@@ -825,7 +829,7 @@ XXV. Las demás que le señalen otras disposiciones legales y aquellas que le en
 
 Para la atención y eficiente despacho de los asuntos de su competencia, la Secretaría podrá contar con órganos administrativos des concentrados, que le estarán jerárquicamente subordinados y a quienes otorgará facultades específicas para resolver sobre ciertas materias o dentro del ámbito territorial que se determine en cada caso, conforme a lo dispuesto por el artículo 16 de la Ley Orgánica de la Administración Pública del Estado de México.
 
-### CAPÍTULO VI. DE LA SUPLENCIA DE lOS TITULARES
+### CAPÍTULO VI. DE LA SUPLENCIA DE LOS TITULARES
 
 ###### Artículo 32.
 
@@ -872,3 +876,13 @@ SECRETARIO GENERAL DE GOBIERNO
 LIC. LUIS ENRIQUE MIRANDA NAVA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 10 DE NOVIEMBRE DE 2014.
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
