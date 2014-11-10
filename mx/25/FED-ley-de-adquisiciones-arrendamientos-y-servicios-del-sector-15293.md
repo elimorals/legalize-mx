@@ -4,7 +4,7 @@ identifier: "FED-ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-1529
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-04"
-last_updated: "2014-08-11"
+last_updated: "2014-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15293&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAASSP"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 4 de enero de 2000.
 
@@ -290,23 +290,21 @@ Tratándose de bienes cuyo proceso de fabricación sea superior a sesenta días,
 
 Las dependencias y entidades podrán, dentro de su presupuesto autorizado, bajo su responsabilidad y por razones fundadas y motivadas, autorizar el pago de suscripciones, seguros o de otros servicios, en los que no sea posible pactar que su costo sea cubierto después de que la prestación del servicio se realice.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE MAYO DE 2009)</small>
 
 ###### Artículo 14.
 
 En los procedimientos de contratación de carácter internacional abierto, las dependencias y entidades optarán, en igualdad de condiciones, por el empleo de los recursos humanos del país y por la adquisición y arrendamiento de bienes producidos en el país y que cuenten con el porcentaje de contenido nacional indicado en el artículo 28 fracción I, de esta Ley, los cuales deberán contar, en la comparación económica de las proposiciones, con un margen hasta del quince por ciento de preferencia en el precio respecto de los bienes de importación, conforme a las reglas que establezca la Secretaría de Economía, previa opinión de la Secretaría y de la Secretaría de la Función Pública.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 28 DE MAYO DE 2009)</small>
+En el caso de licitación pública para la adquisición de bienes, arrendamientos o servicios que utilicen la evaluación de puntos y porcentajes, se otorgarán puntos en los términos de esta Ley, a personas con discapacidad o a la empresa que cuente con trabajadores con discapacidad en una proporción del cinco por ciento cuando menos de la totalidad de su planta de empleados, cuya antigüedad no sea inferior a seis meses, misma que se comprobará con el aviso de alta al régimen obligatorio del Instituto Mexicano del Seguro Social. Asimismo, se otorgarán puntos a las micros, pequeñas o medianas empresas que produzcan bienes con innovación tecnológica, conforme a la constancia correspondiente emitida por el Instituto Mexicano de la Propiedad Industrial, la cual no podrá tener una vigencia mayor a cinco años. De igual manera, se otorgarán puntos a las empresas que hayan aplicado políticas y prácticas de igualdad de género, conforme a la certificación correspondiente emitida por las autoridades y organismos facultados para tal efecto.
 
-En el caso de licitación pública para la adquisición de bienes, arrendamientos o servicios que utilicen la evaluación de puntos y porcentajes, se otorgarán puntos en los términos de esta Ley, a personas con discapacidad o a la empresa que cuente con trabajadores con discapacidad en una proporción del cinco por ciento cuando menos de la totalidad de su planta de empleados, cuya antigüedad no sea inferior a seis meses, misma que se comprobará con el aviso de alta al régimen obligatorio del Instituto Mexicano del Seguro Social. Asimismo, se otorgarán puntos a las micros, pequeñas o medianas empresas que produzcan bienes con innovación tecnológica, conforme a la constancia correspondiente emitida por el Instituto Mexicano de la Propiedad Industrial, la cual no podrá tener una vigencia mayor a cinco años.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 28 DE MAYO DE 2009)</small>
+> <small>(DEROGADO ULTIMO PÁRRAFO, D.O.F. 28 DE MAYO DE 2009)</small>
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2022,7 +2020,7 @@ México, D.F., a 30 de noviembre de 1999.- Sen. Dionisio Pérez Jácome, Vicepre
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de diciembre de mil novecientos noventa y nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O.F. 13 DE JUNIO DE 2003.
 
@@ -2137,3 +2135,9 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Las reformas a las leyes de Adquisiciones, Arrendamientos y Servicios del Sector Público y de Obras Públicas y Servicios Relacionados con las Mismas a que se refieren los artículos cuarto y quinto del presente Decreto, entrarán en vigor para Petróleos Mexicanos y la Comisión Federal de Electricidad y sus respectivas empresas productivas subsidiarias, conforme a la declaratoria que emita la Secretaría de Energía en términos del Décimo Transitorio de la Ley de Petróleos Mexicanos prevista en el artículo primero del presente Decreto y en el Décimo Cuarto Transitorio de la Ley de la Comisión Federal de Electricidad prevista en el artículo Segundo del presente Decreto.
 
 Tercero. La reforma al artículo 3o. de la Ley Federal de las Entidades Paraestatales entrará en vigor a los treinta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+D.O.F. 10 DE NOVIEMBRE DE 2014.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las dependencias de la Administración Pública Federal y estatales, en coordinación con la Secretaría del Trabajo y Previsión Social, la Secretaría de Economía y el Instituto Nacional de las Mujeres deberán adecuar las normas oficiales mexicanas, modelos, procesos y manuales para la certificación existentes, a fin de dar cumplimiento a las disposiciones establecidas en un plazo máximo de 90 días, contados a partir del inicio de la vigencia del presente Decreto, atendiendo para su aplicabilidad al principio de progresividad.
