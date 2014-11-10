@@ -4,7 +4,7 @@ identifier: "LGPAS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2007-07-24"
-last_updated: "2014-01-23"
+last_updated: "2014-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56140&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGPAS"
 
 LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 24 de julio de 2007.
 
@@ -532,9 +532,23 @@ XI. Planes de manejo pesquero y de acuacultura publicados por la autoridad corre
 
 XII. Programas que impulsen el desarrollo de la investigación científica y tecnológica para la diversificación productiva y el aprovechamiento de la acuacultura de especies nativas;
 
-XIII. Programas que promuevan la acuacultura rural e industrial, así como la reconversión productiva como una alternativa de desarrollo, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XIV. El Programa Integral de Inspección y Vigilancia para el Combate a la Pesca Ilegal.
+> <small>(REFORMADA, D.O.F. 10 DE NOVIEMBRE DE 2014)</small>
+
+XIII. Programas que promuevan la acuacultura rural e industrial, así como la reconversión productiva como una alternativa de desarrollo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 10 DE NOVIEMBRE DE 2014)</small>
+
+XIV. El Programa Integral de Inspección y Vigilancia para el Combate a la Pesca Ilegal, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 10 DE NOVIEMBRE DE 2014)</small>
+
+XV. Apoyos a los pescadores y acuacultores que se dediquen de manera legal y sustentable a la captura y al cultivo de los recursos pesqueros y acuícolas en aguas nacionales, tanto marinas como continentales.
 
 ###### ARTÍCULO 21.
 
@@ -2087,3 +2101,9 @@ D.O.F. 23 DE ENERO DE 2014.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Con la entrada en vigor del presente Decreto, el Poder Ejecutivo Federal deberá revisar y modificar el Reglamento de la Ley General de Pesca y Acuacultura Sustentables, en un término que no exceda los 60 días naturales.
+
+D.O.F. 10 DE NOVIEMBRE DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día 1 de enero del año 2015.
+
+Artículo Segundo.- Las erogaciones que, en su caso, deban realizarse con el fin de dar cumplimiento al presente Decreto estarán sujetas al presupuesto autorizado en el Presupuesto de Egresos de la Federación y se ejecutarán observando las prioridades que se establezcan en el Plan Nacional de Desarrollo, debiendo observar las disposiciones aplicables en materia presupuestaria a partir del ejercicio fiscal 2015.
