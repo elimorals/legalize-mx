@@ -4,7 +4,7 @@ identifier: "LGT"
 country: "mx"
 rank: "ley_general"
 publication_date: "2009-06-17"
-last_updated: "2013-04-08"
+last_updated: "2014-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68848&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGT"
 
 LEY GENERAL DE TURISMO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 17 de junio de 2009.
 
@@ -682,13 +682,11 @@ En las disposiciones reglamentarias se establecerán todas aquellas personas fí
 
 Corresponde a la Secretaría regular y coordinar la operación del Registro Nacional de Turismo, el cual será operado por los Estados, los Municipios y el Distrito Federal.
 
-(NOTA: EL 24 DE ENERO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 71/2009, DECLARÓ LA INVALIDEZ EN VÍA DE CONSECUENCIA, DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE MAYO DE 2013, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-[En cuanto a los efectos de esta declaración de invalidez ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 48.
 
-La inscripción al Registro Nacional de Turismo será obligatoria para los prestadores de servicios turísticos, quienes deberán proveer a las autoridades competentes la información que determine LA SECRETARÍA, A TRAVÉS DEL Reglamento correspondiente.
+La inscripción al Registro Nacional de Turismo será obligatoria para los prestadores de servicios turísticos, quienes deberán cumplir con la información que determine el Reglamento.
 
 Los prestadores de servicios turísticos, a partir de que inicien operaciones, contarán con un plazo de treinta días naturales para inscribirse al Registro Nacional de Turismo.
 
@@ -714,13 +712,11 @@ La Secretaría expedirá a los prestadores inscritos en el Registro el certifica
 
 Las relaciones entre los prestadores de servicios turísticos y el turista se regirán por lo que las partes convengan, observándose la presente Ley, la Ley Federal de Protección al Consumidor y las demás leyes aplicables.
 
-(NOTA: EL 24 DE ENERO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 71/2009, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE MAYO DE 2013, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-[En cuanto a los efectos de esta declaración de invalidez ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 54.
 
-Para operar, los prestadores de servicios turísticos, deberán cumplir con los elementos y requisitos que determinen LA SECRETARÍA MEDIANTE las disposiciones reglamentarias correspondientes, y las Normas Oficiales Mexicanas, sin perjuicio de las obligaciones que les sean impuestas por otras autoridades.
+Para operar, los prestadores de servicios turísticos, deberán cumplir con los elementos y requisitos que determinen el Reglamento y las Normas Oficiales Mexicanas, sin perjuicio de las obligaciones que les sean impuestas por otras autoridades.
 
 ###### Artículo 55.
 
@@ -918,11 +914,9 @@ Segundo. Se abroga la Ley Federal de Turismo publicada en el Diario Oficial de l
 
 Tercero. Las disposiciones emitidas con fundamento en la Ley Federal de Turismo que no se opongan a la presente Ley, mantendrán su vigencia hasta en tanto no se publiquen nuevas disposiciones.
 
-(NOTA: EL 24 DE ENERO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 71/2009, DECLARÓ LA INVALIDEZ DEL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE MAYO DE 2013, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE NOVIEMBRE DE 2014)</small>
 
-[En cuanto a los efectos de esta declaración de invalidez ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-Cuarto. LA SECRETARÍA DEBERÁ, EMITIR EL REGLAMENTO DE LA PRESENTE LEY, DENTRO DE LOS CIENTO OCHENTA DÍAS NATURALES A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, EL CUAL INCLUIRÁ SU REESTRUCTURACIÓN ADMINISTRATIVA EN LOS TÉRMINOS DE LA PRESENTE LEY.
+Cuarto. El Ejecutivo Federal deberá emitir el Reglamento de la presente Ley, dentro de los ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto.
 
 Los Estados y el Distrito Federal deberán adecuar a la presente Ley, su legislación en la materia, dentro de un año contado a partir de entrado en vigor el presente Decreto.
 
@@ -965,5 +959,9 @@ TERCERO. Las referencias que en otras leyes y demás disposiciones jurídicas se
 CUARTO. Las resoluciones dictadas por la autoridad migratoria durante la vigencia de las disposiciones de la Ley General de Población que se derogan, surtirán sus plenos efectos jurídicos.
 
 D.O.F. 8 DE ABRIL DE 2013.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE NOVIEMBRE DE 2014.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
