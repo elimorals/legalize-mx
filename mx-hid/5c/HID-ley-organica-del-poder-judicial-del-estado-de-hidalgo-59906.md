@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-judicial-del-estado-de-hidalgo-59906"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-01-07"
-last_updated: "2011-02-21"
+last_updated: "2014-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59906&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "HID"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE DICIEMBRE DE 2014, EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA</small>
+
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 10 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
 
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 21 DE FEBRERO DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 574 PUBLICADO EN EL P.O. DE 14 DE FEBRERO DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2014 (DEROGADA).
 
 Ley publicada en el Número 1 Bis del Periódico Oficial del Estado de Hidalgo, el lunes 7 de enero de 2008.
 
@@ -313,7 +315,7 @@ XXVII.- Solicitar al Consejo de la Judicatura la realización de visita extraord
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
-XXVIIl.- Exhortar a los Magistrados y a los Jueces al puntual cumplimiento de sus deberes, cuando tuvieren conocimiento de demoras o irregularidades en el despacho de los asuntos;
+XXVIII.- Exhortar a los Magistrados y a los Jueces al puntual cumplimiento de sus deberes, cuando tuvieren conocimiento de demoras o irregularidades en el despacho de los asuntos;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
@@ -539,7 +541,7 @@ V.- Dar el trámite respectivo al juicio de amparo y firmar los informes, previo
 
 VI.- Llevar la correspondencia de la Sala, autorizándola con su firma;
 
-VlI.- Representar a la Sala ante el Consejo de la Judicatura en los asuntos que correspondan, y
+VII.- Representar a la Sala ante el Consejo de la Judicatura en los asuntos que correspondan, y
 
 VIII.- Las (sic) demás asuntos que les confieran esta Ley y otras disposiciones aplicables.
 
@@ -917,7 +919,7 @@ XIII.- Jueces Mixtos, y
 
 XIV.- Jueces de Cuantía Menor.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -1173,7 +1175,7 @@ XVI.- Dirigir y vigilar los trabajos del personal del Juzgado, distribuyendo con
 
 XVII.- Realizar las tareas que el Juez les asigne;
 
-XVlII.- Suplir en las ausencias temporales al Juez, en los términos de la presente Ley, y
+XVIII.- Suplir en las ausencias temporales al Juez, en los términos de la presente Ley, y
 
 XIX.- Las demás que le confieran la presente Ley, otras disposiciones aplicables y los órganos competentes del Poder Judicial.
 
@@ -1359,7 +1361,7 @@ El Tribunal Fiscal Administrativo tendrá un Presidente, que lo será también d
 
 Los magistrados no son recusables, pero bajo su responsabilidad se excusarán de intervenir en los asuntos donde exista algún impedimento previsto por esta Ley u otros ordenamientos aplicables.
 
-Cuando un magistrado se excuse del conocimiento de un asunto en·Primera Instancia, resolverá el Pleno del Tribunal, quien designará, en su caso, al magistrado que deba substanciar y resolver.
+Cuando un magistrado se excuse del conocimiento de un asunto en Primera Instancia, resolverá el Pleno del Tribunal, quien designará, en su caso, al magistrado que deba substanciar y resolver.
 
 Cuando un magistrado de sala se excuse del conocimiento de un asunto en Segunda Instancia, resolverá el Pleno del Tribunal, quien designará, en su caso, al Secretario General, el cual actuará como Magistrado por ministerio de Ley.
 
@@ -1457,7 +1459,7 @@ VI.- Conceder licencia a magistrados por más de quince días, en términos de l
 
 VII.- Dictar las medidas necesarias para el despacho pronto y expedito de los asuntos de su competencia;
 
-VlII.- Analizar, discutir y aprobar, en su caso, el informe que anualmente rinda el Presidente;
+VIII.- Analizar, discutir y aprobar, en su caso, el informe que anualmente rinda el Presidente;
 
 IX.- Discutir y aprobar el proyecto de presupuesto anual del Tribunal Fiscal Administrativo que presente el Magistrado Presidente, para su inclusión en el proyecto de presupuesto del Poder Judicial del Estado de Hidalgo;
 
@@ -1605,7 +1607,7 @@ V.- Tramitar y firmar la correspondencia que no competa al Presidente ni a los m
 
 VI.- Expedir las certificaciones de constancias que obren en los expedientes de la competencia del Pleno;
 
-VlI.- Llevar el control de las ponencias que deba elaborar el Presidente para su discusión en el Pleno;
+VII.- Llevar el control de las ponencias que deba elaborar el Presidente para su discusión en el Pleno;
 
 VIII.- Actuar como Magistrado por ministerio de Ley, en caso de ausencia del titular de alguna de las salas unitarias;
 
@@ -1653,9 +1655,9 @@ V.- Practicar personalmente a las partes y demás sujetos procedimentales, las n
 
 VI.- Dar fe, con su firma, de los acuerdos, diligencias, actas y toda clase de resoluciones emitidas por la Sala respectiva;
 
-VlI.- Llevar el procedimiento que establezcan la Ley Orgánica del Tribunal Fiscal Administrativo del Estado de Hidalgo, el Código Fiscal del Estado de Hidalgo y demás ordenamientos aplicables;
+VII.- Llevar el procedimiento que establezcan la Ley Orgánica del Tribunal Fiscal Administrativo del Estado de Hidalgo, el Código Fiscal del Estado de Hidalgo y demás ordenamientos aplicables;
 
-VlII.- Llevar los libros de registro de expedientes de la Sala correspondiente;
+VIII.- Llevar los libros de registro de expedientes de la Sala correspondiente;
 
 IX.- Expedir copias certificadas de los autos que obren en los expedientes integrados en los asuntos competencia de la Sala respectiva;
 
@@ -1691,9 +1693,9 @@ V.- Llevar un registro de los expedientes que les sean turnados;
 
 VI.- Redactar de manera clara y con letra legible las constancias y diligencias que realicen;
 
-VlI.- Auxiliar al Magistrado en las diligencias y actuaciones que requiera; y
+VII.- Auxiliar al Magistrado en las diligencias y actuaciones que requiera; y
 
-VlII.- Las demás obligaciones, funciones y atribuciones que les señalen la presente Ley, la ley Orgánica del Tribunal Fiscal Administrativo del Estado de Hidalgo, el Código Fiscal del Estado de Hidalgo y los demás ordenamientos aplicables.
+VIII.- Las demás obligaciones, funciones y atribuciones que les señalen la presente Ley, la ley Orgánica del Tribunal Fiscal Administrativo del Estado de Hidalgo, el Código Fiscal del Estado de Hidalgo y los demás ordenamientos aplicables.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -3112,3 +3114,13 @@ P.O. 14 DE FEBRERO DE 2011.
 PRIMERO.- El presente decreto entrará en vigor a los treinta días siguientes de su Publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 10 DE NOVIEMBRE DE 2014.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El presente decreto deroga el diverso 391 que contiene la Ley Orgánica del Poder Judicial (sic) Estado de Hidalgo, publicado en el Periódico Oficial del Estado el 7 de enero del 2008, cuyo título cuarto relativo al Tribunal Electoral que comprende los artículos 96 al 117 de esa Ley continuará en vigor, hasta en tanto se expida la legislación que lo regule.
+
+TERCERO. En un término no mayor de 180 días naturales, deberá expedirse el Reglamento de la presente Ley.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a la presente Ley
