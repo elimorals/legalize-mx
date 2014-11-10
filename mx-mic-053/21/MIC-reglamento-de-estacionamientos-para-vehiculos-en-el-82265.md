@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-estacionamientos-para-vehiculos-en-el-82265"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-07-11"
-last_updated: "2011-07-11"
+last_updated: "2014-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MIC"
 ---
 # REGLAMENTO DE ESTACIONAMIENTOS PARA VEHICULOS EN EL MUNICIPIO DE MORELIA, MICHOACAN DE OCAMPO
 
-REGLAMENTO DE ESTACIONAMIENTOS PARA VEHICULOS EN EL MUNICIPIO DE MORELIA, MICHOACAN DE OCAMPO
+REGLAMENTO DE ESTACIONAMIENTOS PARA VEHÍCULOS EN EL MUNICIPIO DE MORELIA, MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2014.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el lunes 11 de julio de 2011.
 
@@ -303,6 +303,8 @@ Queda prohibido que con posterioridad a la apertura se modifiquen las caracterí
 
 ### CAPÍTULO IV. DE LAS TARIFAS
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 25.
 
 El Ayuntamiento de Morelia, establecerá las tarifas que se deban cobrar por el servicio en los estacionamientos públicos, mediante una tarifa mínima y una máxima, tomando en consideración los siguientes criterios:
@@ -313,7 +315,13 @@ II. Las características de las instalaciones; y,
 
 III. La zona urbana donde se encuentre establecido el estacionamiento.
 
-Los propietarios o responsables de los establecimientos que se dediquen a la prestación del servicio de estacionamiento en el Municipio de Morelia, deberán solicitar al H. Cabildo, a través de las Comisiones de Fomento Industrial y Comercio y la de Servicios Públicos Municipales del H. Ayuntamiento, durante el mes de enero de cada año, la autorización de las tarifas que deberán aplicar durante el año.
+Los propietarios o responsables de los establecimientos que se dediquen a la prestación del servicio de estacionamiento en el municipio de Morelia, deberán solicitar al H. Cabildo, en los primeros quince días del mes de julio la autorización de las tarifas que deberán aplicar durante el año siguiente.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+ARTÍCULO 25 BIS.- Las solicitudes se presentarán ante la Dirección de Inspección y Vigilancia, dentro del plazo establecido en el artículo anterior.
+
+La Dirección de Inspección y Vigilancia remitirá mediante oficio a más tardar al día siguiente hábil al vencimiento del término, las solicitudes a las Comisiones de Fomento Industrial y Comercio y a la de Servicios Públicos Municipales, para que estas elaboren en dictamen correspondiente y sea aprobado en sesión de cabildo antes del 31 de agosto del año que corresponda.
 
 ###### ARTÍCULO 26.
 
@@ -606,3 +614,11 @@ C e r t i f i c a
 Que en Sesión Ordinaria efectuada el día 13 de junio del 2011, fué aprobado por mayoría de los mimbros (sic) de Cabildo, el Reglamento de Estacionamientos para Vehículos en el Municipio de Morelia, Michoacán de Ocampo. Este docuemento (sic) consta de 25 (veinticinco) fojas útiles por el anverso.
 
 Se expide la presente, para los fines legales a que haya lugar, en la ciudad de Morelia, Michoacán, a 30 (treinta) de junio de 2011, dos mil once. (Firmado).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- La presente iniciativa de reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO.- Las tarifas publicadas en el Periódico Oficial de fecha 26 de marzo del año 2012, dentro de la Segunda Sección, se ratifican y continuarán vigentes hasta en tanto el Ayuntamiento emita disposición en contrario.
