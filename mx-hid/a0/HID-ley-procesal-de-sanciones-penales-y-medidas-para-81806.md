@@ -4,7 +4,7 @@ identifier: "HID-ley-procesal-de-sanciones-penales-y-medidas-para-81806"
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-17"
-last_updated: "2014-08-25"
+last_updated: "2014-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "HID"
 ---
 # LEY PROCESAL DE SANCIONES PENALES Y MEDIDAS PARA ADOLESCENTES DEL ESTADO DE HIDALGO
 
-LEY PROCESAL DE SANCIONES PENALES Y MEDIDAS PARA ADOLESCENTES DEL ESTADO DE HIDALGO.
+LEY PROCESAL DE SANCIONES PENALES Y MEDIDAS PARA ADOLESCENTES DEL ESTADO DE HIDALGO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DE LA DECLARATORIA DE ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES E INICIO DEL SISTEMA PROCESAL ACUSATORIO, PUBLICADO EN EL P.O. DE 25 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADA HASTA EN TANTO ENTRE EN VIGOR LA NUEVA LEGISLACIÓN NACIONAL EN ESTA MATERIA.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DE LA DECLARATORIA DE ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES E INICIO DEL SISTEMA PROCESAL ACUSATORIO, PUBLICADO EN EL P.O. DE 25 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO HASTA EN TANTO ENTRE EN VIGOR LA NUEVA LEGISLACIÓN NACIONAL EN ESTA MATERIA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ÚNICO, LAS REFORMAS PUBLICADAS EN EL DECRETO NÚM. 224, DE FECHA 10 DE NOVIEMBRE DE 2014, ENTRARÁN EN VIGOR A PARTIR DE LAS CERO HORAS DEL DÍA 18 DE NOVIEMBRE DE 2014, CONFORME AL DECRETO NÚMERO 208, PROMULGADO POR EL TITULAR DEL PODER EJECUTIVO DEL ESTADO, DE FECHA 22 DE AGOSTO DE 2014.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el número 24 Bis del Periódico Oficial del Estado de Hidalgo, el viernes 17 de junio de 2011.
 
@@ -87,9 +89,11 @@ X.- Sentenciado. Persona que haya sido condenado por el órgano jurisdiccional c
 
 XI.- Tribunal de Ejecución. Tribunal en materia de Ejecución de Sanciones Penales.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 3.
 
-La presente Ley se complementa con las disposiciones que en materia de ejecución se encuentran contenidas en los Códigos Penal y Procesal Penal para el Estado de Hidalgo, así como en la Ley de Justicia para Adolescentes del Estado de Hidalgo.
+La presente Ley se complementa con las disposiciones que en materia de ejecución se encuentran contenidas en el Código Penal para el Estado de Hidalgo y Código Nacional de Procedimientos Penales, así como en la Ley de Justicia para Adolescentes del Estado de Hidalgo.
 
 ### Capítulo II.. De los principios del sistema de reinserción social
 
@@ -197,13 +201,17 @@ XVI.- Dictar la resolución mediante la cual se dé por cumplida la sanción imp
 
 XVII.- Las demás que le confiera la Ley.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 10.
 
-El Tribunal de Ejecución conocerá de los recursos de apelación o casación que se interpongan en contra de los actos o sentencias que dicten los jueces de ejecución, en términos de la presente Ley y demás disposiciones aplicables.
+El Tribunal de alzada conocerá de los recursos de apelación que se interpongan en contra de los actos o sentencias que dicten los jueces de ejecución, en términos de la presente Ley y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 11.
 
-El Ministerio Público intervendrá en los procesos de ejecución velando por el respeto de los derechos fundamentales y de las disposiciones de la sentencia.
+El Ministerio Público intervendrá en los procesos de ejecución velando por el respeto de los derechos humanos y de las disposiciones de la sentencia.
 
 ###### Artículo 12.
 
@@ -251,7 +259,9 @@ Los jueces de ejecución instrumentarán los sistemas necesarios para la debida 
 
 Los procedimientos judiciales ante el Juez de Ejecución, en lo que resulte extensivo o aplicable al ámbito de la ejecución, se regirán por los principios de inmediación, publicidad, concentración, continuidad, contradicción, presunción de inocencia, legalidad, audiencia y defensa, respetando en todo caso, los derechos del debido proceso legal y se compruebe plenamente la infracción y la responsabilidad individual del interno.
 
-El interno podrá recurrir la resolución ante el Tribunal de Ejecución competente.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+El interno podrá recurrir la resolución ante el Tribunal de alzada competente.
 
 ### Capítulo I.. De las partes
 
@@ -465,17 +475,23 @@ En el escrito en el cual se interponga el recurso se deberán expresar los agrav
 
 Las partes deben fijar un domicilio en el lugar de residencia de la Segunda Instancia o la forma para recibir notificaciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 44.
 
-Presentado el recurso, el Juez de Ejecución emplazará a las partes para que en el plazo de tres días comparezcan ante el Tribunal de Ejecución.
+Presentado el recurso, el Juez de Ejecución emplazará a las partes para que en el plazo de tres días comparezcan ante el Tribunal de alzada.
 
 En dicho plazo, las demás partes podrán contestar por escrito, los agravios para que se tomen en cuenta al momento de resolver el recurso.
 
-Realizado el emplazamiento, el Juez remitirá al Tribunal de Ejecución la resolución y registro de los antecedentes que obren en su poder.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+Realizado el emplazamiento, el Juez remitirá al Tribunal de alzada la resolución y registro de los antecedentes que obren en su poder.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 45.
 
-Recibida la resolución apelada y los antecedentes, el Tribunal se pronunciará de inmediato sobre la admisibilidad del recurso.
+Recibida la resolución apelada y los antecedentes, el Tribunal de alzada se pronunciará de inmediato sobre la admisibilidad del recurso.
 
 Admitido el recurso, el mismo deberá ser resuelto dentro del plazo de cinco días.
 
@@ -483,9 +499,11 @@ Admitido el recurso, el mismo deberá ser resuelto dentro del plazo de cinco dí
 
 Si el apelante fuere el interno, al admitirse el recurso, se le prevendrá que nombre defensor que lo patrocine en la segunda instancia y de no hacerlo, se le nombrará defensor público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 47.
 
-El Tribunal declarará inadmisible el recurso cuando:
+El Tribunal de alzada declarará inadmisible el recurso cuando:
 
 I.- El recurso fuera interpuesto fuera del plazo;
 
@@ -497,51 +515,27 @@ III.- En el escrito de interposición del recurso no exprese agravios.
 
 ###### Artículo 48.
 
-El recurso de casación se interpondrá contra la sentencia y el sobreseimiento dictado por el Juez de Ejecución.
-
-Dicho recurso procederá cuando la resolución inobservó o aplicó erróneamente un precepto legal.
+(DEROGADO, P.O. 10 DE NOVIEMBRE DE 2014)
 
 ###### Artículo 49.
 
-El recurso de casación se interpondrá ante el Juez de Ejecución que dictó la resolución o sobreseimiento, dentro de los diez días siguientes a la notificación de la resolución impugnada, mediante escrito en el que se precisarán las disposiciones violadas, los motivos de agravio y la expresión de su pretensión. Deberá indicarse, por separado, cada motivo con sus fundamentos, fuera de esa oportunidad no podrá alegarse otro motivo.
+(DEROGADO, P.O. 10 DE NOVIEMBRE DE 2014)
 
 ###### Artículo 50.
 
-En la tramitación del recurso de casación se seguirá el procedimiento previsto para la apelación, salvo disposición en contrario.
+(DEROGADO, P.O. 10 DE NOVIEMBRE DE 2014)
 
 ###### Artículo 51.
 
-Los defectos que justifican la casación son:
-
-I.- En la tramitación de la audiencia se hubieren infringido derechos fundamentales previstos por la Constitución Política de los Estados Unidos Mexicanos, las Leyes que de ella emanen, los Tratados Internacionales ratificados por el Estado Mexicano y la Constitución Política del Estado de Hidalgo;
-
-II.- La sentencia hubiere sido pronunciada por un Tribunal incompetente o que, en los términos de la Ley, no garantice su imparcialidad;
-
-III.- La audiencia hubiere tenido lugar en ausencia de alguna de las personas cuya presencia continuada exige la Ley;
-
-IV.- Se hubiere violado el derecho de defensa o el de contradicción;
-
-V.- Que falte, sea insuficiente o contradictoria la fundamentación de la sentencia;
-
-VI.- Cuando en la sentencia no se pronuncie sobre la ejecución de la reparación del daño.
-
-VII.- Al apreciar la prueba en sentencia, no se hubieran observado las reglas de la sana crítica, de la experiencia o de la lógica, o se hubiere falseado el contenido de los medios de prueba;
-
-VIII.- Haya tomado en cuenta una prueba ilícita que trascienda al resultado del fallo;
-
-IX.- Que la sentencia se base en medios o elementos probatorios no incorporados legalmente a la audiencia o incorporados por lectura con violación de las normas establecidas en el Código Procesal Penal;
-
-X.- La inobservancia de la correlación entre la demanda y la sentencia; y
-
-XI.- La inobservancia o errónea aplicación de la Ley sustantiva.
+(DEROGADO, P.O. 10 DE NOVIEMBRE DE 2014)
 
 ###### Artículo 52.
 
-El Tribunal de Ejecución, resolverá el fondo del recurso dentro del plazo de diez días.
+(DEROGADO, P.O. 10 DE NOVIEMBRE DE 2014)
 
 ###### Artículo 53.
 
-No causan nulidad los errores de la sentencia recurrida que no influyeren en su parte resolutiva, sin perjuicio de que el Tribunal de Casación pueda corregir los que advirtiere durante el conocimiento del recurso.
+(DEROGADO, P.O. 10 DE NOVIEMBRE DE 2014)
 
 ## Título Quinto.. Ejecución de Justicia Especializada para Adolescentes
 
@@ -690,3 +684,7 @@ CUARTO.- En relación a los hechos ocurridos, procedimientos penales iniciados, 
 QUINTO.- Las leyes reglamentarias así como las diversas leyes del Estado de Hidalgo, relativas a la organización y funcionamiento de las Instituciones involucradas en la seguridad pública, procuración e impartición de justicia y todas aquellas en las que se establecen los diversos dispositivos que inciden en la aplicación del Sistema Procesal Acusatorio, empezarán a regular la forma y términos en que se substanciarán los procedimientos penales, en las fechas de incorporación al Sistema Procesal Penal acusatorio señaladas en el presente decreto y a partir de que el Código Nacional de Procedimientos Penales entre en vigor en los términos y modalidades enunciadas en la presente declaratoria.
 
 SEXTO.- Las disposiciones del nuevo Sistema Procesal Acusatorio se aplicarán de manera gradual en el resto de los Circuitos Judiciales y Distritos Judiciales, atendiendo a la fecha en que se expidan los Decretos que contengan las Declaratorias del Congreso del Estado.
+
+P.O. 10 DE NOVIEMBRE DE 2014.
+
+ÚNICO. Las reformas a la presente Ley entrarán en vigor a partir de las cero horas del día 18 de noviembre de 2014, conforme al Decreto número 208, promulgado por el Titular del Poder Ejecutivo del Estado, de fecha 22 de agosto de 2014
