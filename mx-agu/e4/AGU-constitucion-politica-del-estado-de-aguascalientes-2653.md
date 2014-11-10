@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2014-07-28"
+last_updated: "2014-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2014.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -83,6 +83,14 @@ El hombre y la mujer son iguales ante la Ley, por lo que ésta deberá garantiza
 
 Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde al Estado su promoción, fomento y estímulo.
 
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+Toda persona tiene derecho al acceso a la cultura y al disfrute de los bienes y servicios que presta el Estado en la materia, así como el ejercicio de sus derechos culturales. El Estado promoverá los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+Toda persona tiene derecho a la protección de la salud. La Ley establecerá las bases y modalidades para el acceso a los servicios de salud y determinará la participación del Estado y sus Municipios en la materia.
+
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ###### Artículo 5o.
@@ -95,9 +103,13 @@ La propiedad privada se respetará y garantizará en el Estado, con las modalida
 
 La educación es un derecho de todas las personas que atiende a las necesidades de su desarrollo y un proceso colectivo de interés general y público.
 
-Es deber jurídico del Estado y sus Municipios impartir la educación preescolar, primaria y secundaria, de conformidad con los principios de universalidad, gratuidad y laicidad.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
 
-El Estado deberá además promover y atender la educación media, la educación superior y otras modalidades educativas, como la formación y capacitación para el trabajo, la educación de adultos y la educación especial.
+Es deber jurídico del Estado y sus Municipios impartir la educación preescolar, primaria, secundaria y media superior de conformidad con los principios de universalidad, gratuidad y laicidad.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+El Estado deberá además promover y atender la educación superior y otras modalidades educativas, como la formación y capacitación para el trabajo, la educación de adultos y la educación especial.
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2013)</small>
 
@@ -107,21 +119,27 @@ Los fines de la Educación que imparta o promueva el Estado, de manera correspon
 
 La ley garantizará la educación sobre derechos humanos en todos los niveles escolares y promoverá los medios pacíficos de solución de conflictos.
 
-Las autoridades municipales, educativas y escolares colaborarán para que los padres o tutores cumplan con la obligación de enviar a sus hijos o pupilos a la educación básica.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
 
-Además del acceso, el Estado deberá garantizar a los menores que asistan a la educación básica, la permanencia y el egreso oportuno de cada uno de los niveles educativos; por ende, existirán acciones compensatorias de las desigualdades para hacer efectivo en cada caso el derecho universal a la educación en términos de este mismo Artículo.
+Las autoridades municipales, educativas y escolares colaborarán para que los padres o tutores cumplan con la obligación de enviar a sus hijos o pupilos a la educación básica y media superior.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+Además del acceso, el Estado deberá garantizar a quienes asistan a la educación básica y media superior, la permanencia y el egreso oportuno de cada uno de los niveles educativos; por ende, existirán acciones compensatorias de las desigualdades para hacer efectivo en cada caso el derecho universal a la educación en términos de este mismo Artículo.
 
 Los resultados de todo el proceso educativo, así como los factores que inciden en él, deberán evaluarse por el Estado e informar a la sociedad de la situación que guarde el sistema educativo.
 
-La atención a la demanda social de la educación media y la educación superior en el Estado será una prioridad de las instituciones públicas y por ello, se ampliará el acceso a esos niveles para garantizar el debido fomento al desarrollo económico y social de la región a la vez que el arraigo local de los jóvenes.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+La atención a la demanda social de la educación superior en el Estado será una prioridad de las instituciones públicas y por ello, se ampliará el acceso a esos niveles para garantizar el debido fomento al desarrollo económico y social de la región a la vez que el arraigo local de los jóvenes.
 
 Toda educación que realicen los particulares en el territorio del Estado será supervisada y evaluada en los términos del presente Artículo por las autoridades competentes, con estricto apego a las leyes vigentes aplicables.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 7o.
 
-Todas las Autoridades, dentro de la esfera de sus atribuciones, velarán por la conservación y fomento de los recursos naturales del Estado.
+Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienestar, así como el deber de protegerlo y conservarlo. Todas las autoridades en la esfera de sus atribuciones velarán por la conservación y fomento de los recursos naturales del Estado.
 
 > <small>(ADICIONADO, P.O. 17 DE ENERO DE 2011)</small>
 
@@ -679,7 +697,7 @@ Artículo 27 B.- El Congreso del Estado emitirá la convocatoria para elegir al 
 
 El Auditor Superior de Fiscalización, además de los requisitos previstos en las Fracciones I, III y IV del Artículo 53 de esta Constitución requeridos para ser Magistrado del Supremo Tribunal de Justicia y Fiscal General del Estado, deberá de reunir los siguientes:
 
-I. Contar el (sic) día de su designación, con antigüedad mínima de 10 años, con título profesional de contador público, licenciado en derecho o abogado, licenciado en economía, licenciado en administración o cualquier otro título profesional relacionado con las actividades de fiscalización, expedido por autoridad o institución legalmente facultada para ello.
+I. Contar el día de su designación, con antigüedad mínima de 10 años, con título profesional de contador público, licenciado en derecho o abogado, licenciado en economía, licenciado en administración o cualquier otro título profesional relacionado con las actividades de fiscalización, expedido por autoridad o institución legalmente facultada para ello.
 
 II. Contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades.
 
@@ -1265,7 +1283,7 @@ El Ministerio Público sólo podrá solicitar al juez la prisión preventiva cua
 
 Artículo 58 D.- Las sentencias que pongan fin a los procedimientos orales deberán ser explicadas por el Juez de Juicio Oral en audiencia pública previa citación de las partes.
 
-Corresponde al Poder Judicial la imposición de las penas, su ejecución, modificación y duración. Toda pena deberá ser proporcional al delito que sancione, a la afectación de las víctimas del delito y el daño bien (sic) jurídico tutelado.
+Corresponde al Poder Judicial la imposición de las penas, su ejecución, modificación y duración. Toda pena deberá ser proporcional al delito que sancione, a la afectación de las víctimas del delito y el daño bien jurídico tutelado.
 
 El sistema penitenciario se organizará sobre la base del respeto a los derechos humanos, del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la ley.
 
@@ -1347,7 +1365,7 @@ VI.- Los agentes del Ministerio Público estarán sujetos a un sistema profesion
 
 ###### Artículo 61.
 
-Las instituciones de seguridad públicas (sic) serán de carácter civil, disciplinado y profesional. El Ministerio Público, las instituciones policiales del Estado y los Municipios deberán coordinarse entre sí para cumplir con los objetivos de la seguridad pública y conformarán el Sistema Estatal de Seguridad Pública que estará sujeto a las siguientes bases:
+Las instituciones de seguridad públicas serán de carácter civil, disciplinado y profesional. El Ministerio Público, las instituciones policiales del Estado y los Municipios deberán coordinarse entre sí para cumplir con los objetivos de la seguridad pública y conformarán el Sistema Estatal de Seguridad Pública que estará sujeto a las siguientes bases:
 
 I.- Sus integrantes deberán coordinarse con las instituciones policiales federales, en los términos de la legislación aplicable;
 
@@ -1437,7 +1455,7 @@ l. Se considera remuneración o retribución toda percepción en efectivo o en e
 
 II. Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Gobernador del Estado en el presupuesto correspondiente y este a su vez no podrá percibir un ingreso mayor al del Presidente de la República en términos de lo establecido en el Articulo 127 de la Constitución Política de los Estados Unidos Mexicanos.
 
-III. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón (sic) del cargo desempeñado así lo requieran.
+III. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado (sic) así lo requieran.
 
 IV. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
 
@@ -2830,3 +2848,9 @@ Una vez que entre en vigor la autonomía de la Fiscalía General del Estado los 
 ###### ARTÍCULO OCTAVO.
 
 La reforma al Artículo 60, Fracción II, iniciará su vigencia conforme vaya entrando en vigor el Código Nacional de Procedimientos Penales en términos del Decreto número 63 publicado en el Periódico Oficial del Estado de Aguascalientes el 11 de junio del 2014.
+
+P.O. 10 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
