@@ -4,7 +4,7 @@ identifier: "FED-ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-51085"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-08-02"
-last_updated: "2013-11-14"
+last_updated: "2014-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51085&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-07-27"
 
 LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 2 de agosto de 2006.
 
@@ -411,9 +411,17 @@ IX. Diseñar y aplicar lineamientos que aseguren la igualdad en la contratación
 
 X. Diseñar políticas y programas de desarrollo y de reducción de la pobreza con perspectiva de género;
 
-> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 10 DE NOVIEMBRE DE 2014)</small>
 
-XI. Establecer estímulos y certificados de igualdad que se concederán anualmente a las empresas que hayan aplicado políticas y prácticas en la materia, y
+XI. Establecer estímulos y certificados de igualdad que se concederán anualmente a las empresas que hayan aplicado políticas y prácticas en la materia. Para la expedición del certificado a empresas se observará lo siguiente:
+
+a) La existencia y aplicación de un código de ética que prohíba la discriminación de género y establezca sanciones internas por su incumplimiento.
+
+b) La integración de la plantilla laboral cuando ésta se componga de al menos el cuarenta por ciento de un mismo género, y el diez por ciento del total corresponda a mujeres que ocupen puestos directivos.
+
+c) La aplicación de procesos igualitarios en la selección del personal, contemplando desde la publicación de sus vacantes hasta el ingreso del personal.
+
+d) Las demás consideraciones en materia de salubridad, protección y prevención de la desigualdad en el ámbito laboral, y
 
 > <small>(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
 
@@ -616,3 +624,9 @@ D.O.F. 6 DE MARZO DE 2012.
 D.O.F. 14 DE NOVIEMBRE DE 2013.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE NOVIEMBRE DE 2014.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las dependencias de la Administración Pública Federal y estatales, en coordinación con la Secretaría del Trabajo y Previsión Social, la Secretaría de Economía y el Instituto Nacional de las Mujeres deberán adecuar las normas oficiales mexicanas, modelos, procesos y manuales para la certificación existentes, a fin de dar cumplimiento a las disposiciones establecidas en un plazo máximo de 90 días, contados a partir del inicio de la vigencia del presente Decreto, atendiendo para su aplicabilidad al principio de progresividad.
