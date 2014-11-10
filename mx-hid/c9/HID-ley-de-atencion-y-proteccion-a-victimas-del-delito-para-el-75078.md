@@ -4,7 +4,7 @@ identifier: "HID-ley-de-atencion-y-proteccion-a-victimas-del-delito-para-el-7507
 country: "mx"
 rank: "ley"
 publication_date: "2010-05-24"
-last_updated: "2010-05-24"
+last_updated: "2014-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75078&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY DE ATENCION Y PROTECCION A VICTIMAS DEL DELITO PARA EL ESTADO DE HIDALGO
 
-LEY DE ATENCION Y PROTECCION A VICTIMAS DEL DELITO PARA EL ESTADO DE HIDALGO
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 29 DE DICIEMBRE DE 2014, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-TEXTO ORIGINAL.
+LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS DEL DELITO PARA EL ESTADO DE HIDALGO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 24 de mayo de 2010.
 
@@ -87,7 +89,7 @@ XIII.- Víctima directa: Persona que como consecuencia de la realización de una
 
 XIV.- Víctima Indirecta: Dependientes económicos de las víctimas directas, o que, en virtud de la cercanía de éstas, se vean afectadas psicoemocionalmente por la conducta delictiva desplegada en contra de la víctima directa;
 
-XV.- Victimización: Experiencia de la víctima y el ofendido y las consecuencias perjudiciales de índole física, económica, psicológica y social, producidas por el delito, o puesta en peligro del bien jurídico tutelado que les ocasionan un daño material o físico; (sic)
+XV.- Victimización: Experiencia de la víctima y el ofendido y las consecuencias perjudiciales de índole física, económica, psicológica y social, producidas por el delito, o puesta en peligro del bien jurídico tutelado que les ocasionan un daño material o físico;
 
 ###### ARTÍCULO 3.
 
@@ -280,3 +282,27 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE NOVIEMBRE DE 2014.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abrogan todas las disposiciones que contravengan el presente Decreto.
+
+TERCERO. El Reglamento de la presente Ley deberá expedirse dentro de los seis meses siguientes a la fecha en que la Ley entre en vigor.
+
+CUARTO. El Ejecutivo Estatal dentro de los setenta días naturales siguientes a la publicación de esta Ley, emitirá una convocatoria pública a la que podrán inscribirse las personas que consideren cumplen con las condiciones para ser comisionado establecidas en el artículo 18 de esta Ley. De entre dichas personas, el Ejecutivo Estatal elegirá una terna por cada uno de los tres comisionados a designar por el Congreso, en términos de lo dispuesto por el artículo 17 de la presente.
+
+QUINTO. El Sistema Estatal de Atención a Víctimas que se establece en la presente Ley, deberá constituirse dentro de los ciento ochenta días naturales siguientes a partir de la entrada en vigor de la misma.
+
+SEXTO. La Comisión Ejecutiva Estatal de Atención a Víctimas a que se refiere la presente Ley deberá elegirse dentro de los diez días naturales siguientes a partir de la entrada en vigor de la misma y se instalará por vez primera con la designación de los tres comisionados.
+
+SÉPTIMO. El proyecto de Programa Estatal de Atención a Víctimas del Estado deberá ser diseñado por la Comisión Ejecutiva Estatal en un plazo no mayor de noventa días naturales a partir de la aprobación del Plan Estatal Anual Integral de Atención a Víctimas.
+
+OCTAVO. El Fidecomiso del Fondo Estatal deberá quedar constituido dentro de los noventa días siguientes a la constitución de la Comisión Ejecutiva Estatal.
+
+NOVENO. Las bases del Registro Estatal de Victimas que soportarán el proceso de ingreso y registro de las víctimas de delito y de violaciones de derechos humanos deberán quedar instaladas en el curso de los noventa días naturales siguientes a la entrada en funcionamiento de la Comisión Estatal.
+
+DÉCIMO. Todas las instituciones estatales y municipales involucradas en la aplicación de la presente Ley, deberán establecer planes y programas dirigidos a capacitar a su personal a efecto de darle cabal cumplimiento.
