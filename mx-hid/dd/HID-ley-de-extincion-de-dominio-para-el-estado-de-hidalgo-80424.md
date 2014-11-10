@@ -4,7 +4,7 @@ identifier: "HID-ley-de-extincion-de-dominio-para-el-estado-de-hidalgo-80424"
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-21"
-last_updated: "2011-03-21"
+last_updated: "2014-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY DE EXTINCION DE DOMINIO PARA EL ESTADO DE HIDALGO
 
-LEY DE EXTINCION DE DOMINIO PARA EL ESTADO DE HIDALGO
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE HIDALGO DE 29 DE DICIEMBRE DE 2014, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-TEXTO ORIGINAL.
+LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE HIDALGO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de marzo de 2011.
 
@@ -63,35 +65,93 @@ I.- Acción: acción de extinción de dominio;
 
 II.- Afectado: persona titular de los derechos de propiedad o posesión del bien sujeto al procedimiento de extinción de dominio, con legitimación para acudir al mismo;
 
-III.- Bienes: todas las cosas materiales que no estén excluidas del comercio, ya sean muebles o inmuebles, y todo aquel derecho real o personal, sus objetos, frutos y productos, susceptibles de apropiación, que se encuentren en los supuestos señalados en el Artículo 5º de esta Ley;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV.- Delito(s): de conformidad con lo dispuesto en el Artículo 22 fracción II de la Constitución Federal, los delitos de secuestro contemplado en el Artículo 166; robo de vehículos señalado en los Artículos 203 en relación con el 206 fracción IX y 207 BIS, todos del código penal para el Estado de Hidalgo; el de trata de personas contemplado en los Artículos 273, 274 y 275 del código penal para el Estado de Hidalgo y la ley de trata de personas para el estado y los delitos contra la salud en su modalidad de narcomenudeo contemplados en el capítulo VII de la Ley General de Salud en relación con las disposiciones aplicables del Código Penal Federal, aun cuando no se haya determinado quién o quiénes fueron sus autores, participaron en él o el grado de su intervención;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2014)</small>
 
-V.- Hecho ilícito: hecho contrario a las Leyes de orden público, respecto del cual se cuente con elementos suficientes para presumir su existencia con base en los elementos objetivos o externos y, en su caso, normativos de la descripción típica en los casos de delitos a que se refiere la fracción IV de este Artículo;
+III.- Agente del Ministerio Público: Agente del Ministerio Público especializado en el Procedimiento de Extinción de Dominio de la Procuraduría General de Justicia del Estado de Hidalgo.
 
-VI.- Juez: jueces civiles, mixtos o especializados;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VII.- Ley: Ley de Extinción de Dominio para el Estado de Hidalgo;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2014)</small>
 
-VIII.- Procedimiento: procedimiento de extinción de dominio previsto en esta Ley;
+IV.- Bienes: todas las cosas materiales que no estén excluidas del comercio, ya sean muebles o inmuebles, y todo aquel derecho real o personal, sus objetos, frutos y productos, susceptibles de apropiación, que se encuentren en los supuestos señalados en el Artículo 5° de esta Ley.
 
-IX.- Salas: Salas Civiles y Familiares del Tribunal Superior de Justicia del Estado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-X.- Secretaría: Secretaría de Administración del Gobierno del Estado, o la dependencia encargada de realizar funciones de administración y conservación de los bienes que conforman el patrimonio de la Administración Pública;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2014)</small>
 
-XI.- Tercero: persona que, sin ser afectado en el procedimiento de extinción de dominio, comparece en él para deducir un derecho propio sobre los bienes materia de la acción; y
+V.- Delito(s): de conformidad con lo dispuesto en el Artículo 22 fracción II de la Constitución Federal, los delitos de secuestro, robo de vehículos, trata de personas y delitos contra la salud en su modalidad de narcomenudeo contemplados en el Código Penal del Estado de Hidalgo y las leyes especiales aplicables en la materia; tratándose de delitos contra la salud, trata de personas o secuestro será cuando sean competencia de los jueces de la entidad;
 
-XII.- Víctima u ofendido: aquellos que tienen la pretensión de que se les reparare el daño, en los términos de los Artículos 37 y 42 del Código Penal para el Estado y 2 de la Ley de Atención y Protección a Víctimas del Delito para el Estado, dentro del procedimiento de extinción de dominio y por los delitos que señala la fracción IV de este Artículo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+VI.- Hecho ilícito: hecho contrario a las leyes de orden público, respecto del cual se cuente con elementos suficientes para presumir su existencia con base en los elementos objetivos o externos y, en su caso, normativos de la descripción típica en los casos de delitos a que se refiere la fracción V de este Artículo; constitutivo de cualquiera de los delitos de secuestro, delitos contra la salud en su modalidad de narcomenudeo, robo de vehículos y trata de personas, aun cuando no se haya determinado quien o quienes fueron sus autores, participantes en él o el grado de su intervención;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+VII.- Juez: Juez especializado en el Procedimiento de Extinción de Dominio perteneciente al Poder Judicial del Estado;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+VIII.- Ley: Ley de Extinción de Dominio para el Estado de Hidalgo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+IX.- Procedimiento: procedimiento de extinción de dominio previsto en esta Ley;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+X.- Salas: Salas Civiles y Familiares del Tribunal Superior de Justicia del Estado;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+XI.- Secretaría: Secretaría de Finanzas y Administración del Gobierno del Estado, o la dependencia encargada de realizar funciones de administración y conservación de los bienes que conforman el patrimonio de la Administración Pública;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+XII.- Tercero: persona que, sin ser afectado en el procedimiento de extinción de dominio, comparece en él para deducir un derecho propio sobre los bienes materia de la acción; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+XIII.- Víctima u ofendido: aquellos que tienen la pretensión de que se les reparare el daño, dentro del procedimiento de extinción de dominio y por los delitos que señala la fracción V de este Artículo.
 
 ###### Artículo 3.
 
 En los casos no previstos en esta Ley se estará a las siguientes reglas de supletoriedad:
 
-I.- En la preparación del ejercicio de la acción de extinción de dominio, a lo previsto en el Código de Procedimientos Penales para el Estado de Hidalgo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II.- En el procedimiento de extinción de dominio y medidas cautelares, a lo previsto en el Código de Procedimientos Civiles para el Estado de Hidalgo;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2014)</small>
 
-III.- En cuanto a los delitos a lo previsto en los códigos, Penal, y de Procedimientos Penales para el Estado de Hidalgo; y
+I.- En la preparación del ejercicio de la acción de extinción de dominio, a lo previsto en el Código Nacional de Procedimientos Penales;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+II.- En el procedimiento de extinción de dominio y providencias cautelares, a lo previsto en el Código Nacional de Procedimientos Penales;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+III.- En cuanto a los delitos a lo previsto en el Código Penal del Estado de Hidalgo y el Código Nacional de Procedimientos Penales; y
 
 IV.- En los aspectos relativos a la regulación de bienes u obligaciones, a lo previsto en el Código Civil para el Estado de Hidalgo.
 
@@ -101,7 +161,11 @@ IV.- En los aspectos relativos a la regulación de bienes u obligaciones, a lo p
 
 La extinción de dominio es la pérdida de los derechos de propiedad de los bienes señalados en el Artículo 7º de esta Ley, sin contraprestación, ni compensación alguna para el afectado, cuando se acredite el hecho ilícito en los casos de los delitos precisados en el Artículo 5° de este ordenamiento, y el afectado no logre probar la procedencia lícita de dichos bienes y su actuación de buena fe, así como que estaba impedido para conocer su utilización ilícita.
 
-La acción de extinción de dominio es de naturaleza jurisdiccional, de carácter real y de contenido patrimonial, y procederá sobre cualquier derecho real, personal, principal o accesorio, independientemente de quien los tenga en su poder, o los haya adquirido.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+A la acción de extinción de dominio se aplicarán las reglas de prescripción previstas para los hechos ilícitos señalados en el Artículo 5° de esta Ley, de conformidad con lo establecido en el Código Penal para el Estado de Hidalgo, excepto en el caso de los bienes que sean producto del delito, que será imprescriptible.
 
 La acción es autónoma, distinta e independiente de cualquier otra de naturaleza penal que se haya iniciado simultáneamente, de la que se haya desprendido, o en la que tuviera origen, sin perjuicio de los terceros de buena fe.
 
@@ -113,11 +177,19 @@ La extinción de dominio no procederá sobre bienes decomisados por la autoridad
 
 Toda la información que se genere u obtenga con relación a esta Ley, se considerará como restringida en los términos de la Ley de Transparencia y Acceso a la Información Pública Gubernamental del Estado de Hidalgo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 5.
 
-La acción de extinción de dominio se ejercerá, respecto de los bienes a que se refiere el Artículo siguiente, aún cuando no se haya determinado la responsabilidad penal en los casos de los delitos previstos en el Artículo 22 fracción II de la Constitución Federal, y que para los efectos de la presente Ley son los siguientes:
+La acción de extinción de dominio se ejercerá, respecto de los bienes a que se refiere el Artículo 7 de esta Ley, aun cuando no se haya determinado la responsabilidad penal en los casos de los delitos previstos en el Artículo 22 fracción II de la Constitución Federal, y que para los efectos de la presente Ley son los siguientes:
 
-Secuestro regulado en el Artículo 166; robo de vehículos regulado en los Artículos 203 en relación con el 206 fracción IX y 207 BIS, todos del código penal para el Estado de Hidalgo; el de trata de personas contemplado en los Artículos 273, 274 y 275 del Código Penal para el Estado de Hidalgo y la Ley de Trata de Personas para el Estado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+Secuestro; robo de vehículos, trata de personas contemplados en el Código Penal del Estado de Hidalgo y las leyes especiales aplicables;
 
 Asimismo, los delitos contra la salud en su modalidad de narcomenudeo contemplados en el capítulo VII de la Ley General de Salud en relación con las disposiciones aplicables del Código Penal Federal y de la Legislación Local aplicable.
 
@@ -177,13 +249,39 @@ No se podrá disponer de los bienes sujetos a la acción, hasta que exista una s
 
 Si la acción de extinción de dominio no resulta procedente, los bienes y sus productos se reintegrarán al legítimo propietario o poseedor.
 
-### Capítulo III. De las Medidas Cautelares
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 11 Bis.
+
+Se exceptúan de la acción de extinción de dominio las armas de fuego, municiones y explosivos respecto de los cuales, en todo caso, deberán observarse lo dispuesto en la Ley Federal de Armas de Fuego y Explosivos.
+
+Tratándose de narcóticos, se procederá en los términos de la legislación federal aplicable.
+
+Los bienes asegurados que resulten del dominio público o privado de la federación, de las entidades o de los municipios, se restituirán a la dependencia o entidad correspondiente, de acuerdo con su naturaleza y a lo que dispongan las normas aplicables.
+
+Se exceptúan también la fauna y la flora protegidos, materiales peligrosos y demás bienes cuya propiedad o posesión se encuentre prohibida, restringida o especialmente regulada, en cuyo caso, se procederá en los términos de la legislación aplicable.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+### Capítulo III. De las Providencias Cautelares
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 12.
 
-El agente del Ministerio Público solicitará al juez las medidas cautelares que considere procedentes, a fin de evitar que puedan sufrir menoscabo, extravío o destrucción; que sean ocultados o mezclados, o se realice acto traslativo de dominio, sobre aquéllos bienes de los que existan indicios suficientes que hagan presumir fundadamente que es alguno de los señalados en el Artículo 7º de esta Ley, y en su caso, podrá ordenar los medios de apremio previsto por la Ley, así como la vigilancia policial sobre bienes para su ejecución.
+El agente del Ministerio Público solicitará al juez las Providencias cautelares que considere procedentes, a fin de evitar que puedan sufrir menoscabo, extravío o destrucción; que sean ocultados o mezclados, o se realice acto traslativo de dominio, sobre aquéllos bienes de los que existan indicios suficientes que hagan presumir fundadamente que es alguno de los señalados en el Artículo 7° de esta Ley, y en su caso, podrá ordenar los medios de apremio previsto (sic) por la Ley, así como la vigilancia policial sobre bienes para su ejecución.
 
-El juez deberá resolver dentro del plazo de veinticuatro horas naturales a partir de la recepción de la solicitud, sobre las medidas cautelares, las que podrán consistir en:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+El juez deberá resolver dentro del plazo de veinticuatro horas naturales a partir de la recepción de la solicitud, sobre las Providencias cautelares, las que podrán consistir en:
 
 I.- La prohibición para enajenarlos o gravarlos;
 
@@ -199,43 +297,97 @@ VI.- El embargo de bienes; dinero en depósito en el sistema financiero; título
 
 VII.- Las demás contenidas en la legislación vigente o que considere necesarias, siempre y cuando funde y motive su procedencia.
 
-Las medidas cautelares dictadas por el juez, cuando se trate de bienes inmuebles, se anotarán en el Registro Público de la Propiedad que corresponda, y en caso de bienes muebles se informarán, a través del oficio respectivo, a las instancias correspondientes. En todos los supuestos se determinarán los alcances de las medidas cautelares que se decretan.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-En todos los supuestos, los bienes muebles e inmuebles materia de las medidas cautelares, quedarán en depósito y bajo resguardo de la Secretaria de Administración del Gobierno del Estado, o la dependencia encargada de realizar funciones para su administración, y a disposición de las autoridades que determine el juez.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
 
-Del resultado de la aplicación de las medidas cautelares a quienes competa la administración, informarán anualmente a la Auditoría Superior del Estado de Hidalgo.
+Las Providencias cautelares dictadas por el juez, cuando se trate de bienes inmuebles, se anotarán en el Registro Público de la Propiedad que corresponda, y en caso de bienes muebles se informarán, a través del oficio respectivo, a las instancias correspondientes. En todos los supuestos se determinarán los alcances de las Providencias cautelares que se decretan.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+En todos los supuestos, los bienes muebles e inmuebles materia de las Providencias cautelares, quedarán en depósito y bajo resguardo de la Secretaria de Finanzas y Administración del Gobierno del Estado, o la dependencia encargada de realizar funciones para su administración, y a disposición de las autoridades que determine el juez y estarán a los (sic) dispuesto por la Ley para la Administración de Bienes Asegurados, Decomisados, o Abandonados para el Estado de Hidalgo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+Del resultado de la aplicación de las Providencias cautelares a quienes competa la administración, informarán anualmente a la Auditoría Superior del Estado de Hidalgo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+Cuando los bienes que se aseguren hayan sido previamente embargados, intervenidos, secuestrados o asegurados, las providencias cautelares impuestas con apoyo en esta ley se notificarán a las autoridades que hayan ordenado dichos actos y, en su caso, al Registro Público de la Propiedad correspondiente. Los bienes continuarán en custodia de quien se haya designado para ese fin, y quedarán a disposición del juez que hubiese sido el primero en prevenir.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+De levantarse el embargo, la intervención, el secuestro o el aseguramiento previos, quien tenga bajo su custodia los bienes relativos entregará éstos al juez que conozca de la acción de extinción de dominio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+Las providencias cautelares no implican modificación a los gravámenes existentes sobre los bienes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 13.
 
-Las medidas cautelares obligan a los propietarios, poseedores, quienes se ostenten como dueños, depositarios, interventores, administradores albaceas, o cualquier otro que tenga algún derecho sobre dichos bienes.
+Las Providencias cautelares obligan a los propietarios, poseedores, quienes se ostenten como dueños, depositarios, interventores, administradores albaceas, o cualquier otro que tenga algún derecho sobre dichos bienes.
 
-Las medidas cautelares no implican modificación alguna a los gravámenes existentes sobre los bienes.
+Las Providencias cautelares no implican modificación alguna a los gravámenes existentes sobre los bienes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 14.
 
-La Secretaria de Administración del Gobierno del Estado o la dependencia encargada de realizar funciones de administración, de conformidad con sus atribuciones, determinará la administración de los bienes objeto de la presente Ley, y procederán, preferentemente, sobre los bienes sujetos a medidas cautelares, a constituir fideicomisos de administración o, en su defecto, a arrendar o celebrar otros contratos que mantengan la productividad y valor de los bienes, o aseguren su uso en atención al destino que señala la ley, debiendo informar al juez de su administración.
+La Secretaría de Finanzas y Administración del Gobierno del Estado o la dependencia encargada de realizar funciones de administración, de conformidad con sus atribuciones, determinará la administración de los bienes objeto de la presente Ley, y procederán, preferentemente, sobre los bienes sujetos a Providencias cautelares, a constituir fideicomisos de administración o, en su defecto, a arrendar o celebrar otros contratos que mantengan la productividad y valor de los bienes, o aseguren su uso en atención al destino que señala la ley, debiendo informar al juez de su administración.
 
 En todos los casos, a la fiduciaria se le pagará el valor de sus honorarios y de los costos de administración que realice, con cargo individualizado a los bienes administrados o a sus productos.
 
 Cualquier faltante que se presente para cubrirlos, será exigible con la misma preferencia con la que se tratan los gastos de administración en un concurso de acreedores, sobre el valor de los bienes, una vez que se liquiden o se subasten.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 15.
 
-Mientras los recursos en numerario o títulos financieros de valores se encuentren sujetos a medidas cautelares, la Secretaria de Administración del Gobierno del Estado estará obligada a abrir una cuenta individualizada en una institución financiera, que genere rendimientos a tasa comercial.
+Mientras los recursos en numerario o títulos financieros de valores se encuentren sujetos a Providencias cautelares, la Secretaría de Finanzas y Administración del Gobierno del Estado, estará obligada a abrir una cuenta individualizada en una institución financiera, que genere rendimientos a tasa comercial.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 16.
 
-Previa autorización del juez, los bienes fungibles, de género, muebles susceptibles de deterioro o pérdida, y los demás que en adición a los anteriores determine la Secretaria de Administración del Gobierno del Estado, podrán ser enajenados al mejor postor o en condiciones de mercado cuando fuere el caso; y el producto líquido será depositado en la cuenta a que se refiere el Artículo anterior para su administración, de acuerdo con las normas vigentes, e informarán al juez.
+Previa autorización del juez, los bienes fungibles, de género, muebles susceptibles de deterioro o pérdida, y los demás que en adición a los anteriores determine la Secretaría de Finanzas y Administración del Gobierno del Estado, podrán ser enajenados al mejor postor o en condiciones de mercado cuando fuere el caso; y el producto líquido será depositado en la cuenta a que se refiere el Artículo anterior para su administración, de acuerdo con las normas vigentes, e informarán al juez.
 
-Los bienes muebles e inmuebles se administrarán y custodiarán por la Secretaria de Administración del Gobierno del Estado; así como las cuentas en las que se depositen los recursos numerarios o títulos financieros de valores y los productos líquidos, de conformidad con la Legislación vigente, quienes realizarán informes detallados periódicamente al juez.
+Los bienes muebles e inmuebles se administrarán y custodiarán por la Secretaria de Finanzas y Administración del Gobierno del Estado; así como las cuentas en las que se depositen los recursos numerarios o títulos financieros de valores y los productos líquidos, de conformidad con la Legislación vigente, quienes realizarán informes detallados periódicamente al juez.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 17.
 
-Durante la sustanciación del procedimiento se podrá solicitar la ampliación de medidas cautelares, respecto de los bienes sobre los que se haya ejercitado acción. También se podrán solicitar medidas cautelares con relación a otros bienes sobre los que no se hayan solicitado en un principio, para que formen parte del procedimiento.
+Durante la sustanciación del procedimiento se podrá solicitar la ampliación de Providencias cautelares, respecto de los bienes sobre los que se haya ejercitado acción. También se podrán solicitar Providencias cautelares con relación a otros bienes sobre los que no se hayan solicitado en un principio, para que formen parte del procedimiento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 18.
 
-Cuando el agente del Ministerio Público tenga conocimiento de que va a celebrarse o se está celebrando un acto civil, mercantil o cualquier otro acto jurídico, que tenga como objeto alguno de los bienes señalados en el Artículo 7º de la presente Ley, solicitará las medidas cautelares que considere pertinentes para tutelar los derechos de terceros de buena fe, que intervengan en dichos actos.
+Cuando el agente del Ministerio Público tenga conocimiento de que va a celebrarse o se está celebrando un acto civil, mercantil o cualquier otro acto jurídico, que tenga como objeto alguno de los bienes señalados en el Artículo 7 de la presente Ley, solicitará las Providencias cautelares que considere pertinentes para tutelar los derechos de terceros de buena fe, que intervengan en dichos actos.
 
 Las autoridades y los notarios públicos que intervengan en la celebración de esos actos o en la inscripción de los mismos, están obligados a informar al agente del Ministerio Público, cuando tengan conocimiento o indicios de que los bienes objeto de tales actos, se encuentran en alguna de las hipótesis previstas en el Artículo 7º de esta Ley; en caso contrario, serán responsables en términos de la Legislación Penal o Administrativa.
 
@@ -257,27 +409,43 @@ Toda persona que en los términos antes señalados presente una denuncia, tendr�
 
 ### Capítulo V. De la Preparación de la Acción de Extinción de Dominio
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 22.
 
-Cuando se haya iniciado una averiguación previa o investigación, durante la substanciación de un proceso penal, o se dicte sentencia penal respecto de los delitos previstos en el Artículo 5º de esta Ley, y sean identificados, detectados o localizados algunos de los bienes a que se refiere el Artículo 7º de éste ordenamiento, el agente del Ministerio Público que esté conociendo del asunto, remitirá copia certificada de las diligencias conducentes, al agente del Ministerio Público encargado de sustanciar la acción.
+Cuando se haya iniciado una averiguación previa o carpeta de investigación, durante la substanciación de un proceso penal, o se dicte sentencia penal respecto de los delitos previstos en el Artículo 5° de esta Ley, y sean identificados, detectados o localizados algunos de los bienes a que se refiere el Artículo 7° de éste ordenamiento, el agente del Ministerio Público que esté conociendo del asunto, remitirá copia certificada de las diligencias conducentes, al agente del Ministerio Público encargado de sustanciar la acción.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 23.
 
 Para la preparación de la acción, el agente del Ministerio Público tendrá las siguientes atribuciones:
 
-I.- Ordenar y practicar las diligencias que considere necesarias para obtener las pruebas que acrediten cualquiera de los delitos a que se refiere el Artículo 5º de la presente Ley;
+I. Recabar copia de las constancias, diligencias y actuaciones que se hayan realizado con motivo de la investigación de los hechos delictivos a que se hacen referencia en esta ley;
 
-II.- Solicitar y recabar los medios de prueba que acrediten indiciariamente que los bienes se encuentran en alguno de los supuestos previstos en el Artículo 7º de esta Ley;
+II. Solicitar a los órganos jurisdiccionales copia de los registros y expedientes de los procedimientos penales en que intervengan con motivo de los hechos delictivos;
 
-III.- Solicitar al juez, durante la preparación de la acción y en los procedimientos respectivos, las medidas cautelares previstas en la presente Ley; y
+III. Recabar del Ministerio Público de la Federación y demás instancias federales, así como de las autoridades estatales y municipales y de otras entidades federativas, copia de los expedientes, registros, actuaciones, constancias y demás información que tengan, que sea útil para acreditar los hechos delictivos y supuestos de extinción de dominio en los términos de esta ley;
 
-IV.- Las demás que señale esta Ley, la legislación aplicable, o que considere necesarias para el cumplimiento del objeto de este ordenamiento.
+IV. Recabar los medios de prueba necesarios para sustentar el ejercicio de la acción de extinción de dominio, respecto de los bienes de que se trate;
+
+V. Realizar las diligencias de investigación necesarias para identificar y localizar al dueño de los bienes materia de la acción de extinción de dominio, o quien se ostente o comporte como tal, así como a los terceros; y
+
+VI. Las demás que señale esta ley, el Código Nacional, la Ley Orgánica de la Procuraduría General de Justicia de la entidad y otros ordenamientos aplicables, para sustentar la acción de extinción de dominio.
 
 ###### Artículo 24.
 
 Recibidas las copias certificadas de las constancias ministeriales, los autos del proceso penal o la sentencia penal, el agente del Ministerio Público de inmediato realizará todas las diligencias necesarias para preparar la acción y, en su caso, procederá a complementar o recabar la información necesaria para la identificación de los bienes materia de la acción.
 
-Si los bienes se encuentran a disposición de alguna otra autoridad, le informará al respecto.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+Efectuará el inventario de los bienes cuando no exista constancia de su realización, y solicitará las Providencias cautelares necesarias previstas en el capítulo III de esta Ley.
 
 Efectuará el inventario de los bienes cuando no exista constancia de su realización, y solicitará las medidas cautelares necesarias previstas en el capítulo III de esta Ley.
 
@@ -305,9 +473,17 @@ VI.- Los razonamientos y fundamentos con los que pretende acreditar la existenci
 
 VII.- Las pruebas que se ofrecen, debiendo en ese momento exhibir las documentales tales como:
 
-a).- Copia certificada de las constancias pertinentes de la averiguación previa o investigación iniciada para investigar los delitos relacionados con los bienes materia de la acción, o del proceso penal o sentencia correspondiente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-b).- El acuerdo de aseguramiento de los bienes, ordenado por el agente del Ministerio Público dentro de la averiguación previa.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+a).- Copia certificada de las constancias pertinentes de la averiguación previa o carpeta de investigación iniciada para investigar los delitos relacionados con los bienes materia de la acción, o del proceso penal o sentencia correspondiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+b).- El acuerdo de aseguramiento de los bienes, ordenado por el agente del Ministerio Público dentro de la averiguación previa o carpeta de investigación.
 
 c).- El acta en la que conste el inventario y su estado físico.
 
@@ -323,7 +499,11 @@ f).- Copia certificada de las actuaciones conducentes, derivadas de otras averig
 
 Se podrá señalar el archivo donde se encuentren precisando los elementos necesarios para la obtención y desahogo de otros medios de prueba.
 
-VIII.- La solicitud, en su caso, de las medidas cautelares necesarias para la conservación de los bienes, en los términos que establece esta Ley;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+VIII.- La solicitud, en su caso, de las Providencias cautelares necesarias para la conservación de los bienes, en los términos que establece esta Ley;
 
 IX.- La solicitud de emplazamiento al demandado, tercero, víctima u ofendido, determinados e indeterminados;
 
@@ -343,9 +523,13 @@ El agente del Ministerio Público podrá desistirse de la acción en cualquier m
 
 El juez que conozca de un procedimiento de extinción de dominio, de oficio o a petición del agente del Ministerio Público en términos del Artículo 31 de esta Ley, podrá requerir información o documentos del sistema financiero, por conducto de la Comisión Nacional Bancaria y de Valores, la Comisión Nacional de Seguros y Fianzas, o la Comisión Nacional del Sistema de Ahorro para el Retiro, así como información financiera o fiscal al Servicio de Administración Tributaria, y demás entidades públicas o privadas, que puedan servir para la sustanciación del procedimiento. El juez y el agente del Ministerio Público, deberán guardar la más estricta confidencialidad sobre la información y documentos que se obtengan, con fundamento en este Artículo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 29.
 
-Cuando los bienes motivo de la acción se encuentren en una Entidad federativa, o en el extranjero, se utilizarán los exhortos, las cartas rogatorias, la vía de asistencia jurídica internacional, y los demás instrumentos legales que establezcan el Código de Procedimientos Civiles para el Estado de Hidalgo, la legislación vigente, los tratados e instrumentos internacionales o, en su defecto, la reciprocidad internacional, para la ejecución de las medidas cautelares y la sentencia.
+Cuando los bienes motivo de la acción se encuentren en una Entidad federativa, o en el extranjero, se utilizarán los exhortos, las cartas rogatorias, la vía de asistencia jurídica internacional, y los demás instrumentos legales que establezcan el Código de Procedimientos Civiles para el Estado de Hidalgo, la legislación vigente, los tratados e instrumentos internacionales o, en su defecto, la reciprocidad internacional, para la ejecución de las Providencias cautelares y la sentencia.
 
 Los bienes que se recuperen con base en la cooperación con el Gobierno del Estado, de otras entidades federativas o internacionales, o el producto de aquellos, serán destinados a los fines que establece el Artículo 6º de esta Ley.
 
@@ -385,6 +569,12 @@ III.- La víctima u ofendido, para los efectos de la reparación del daño y de 
 
 IV.- El tercero, o quienes se consideran afectados por la acción de extinción de dominio y acrediten tener un interés jurídico sobre los bienes materia del procedimiento.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+El demandado y el tercero actuarán por sí o a través de sus representantes o apoderados, en los términos de la legislación civil aplicable.
+
 ### Capítulo IX. De las Notificaciones
 
 ###### Artículo 34.
@@ -399,13 +589,21 @@ Las notificaciones se harán personalmente, por lista, por instructivo, por cedu
 
 Cuando los bienes materia del procedimiento de extinción de dominio sean inmuebles, la cédula de notificación se fijará, además, en cada uno de éstos.
 
-Se notificará mediante oficio a la Secretaría de Administración del Gobierno del Estado, o la dependencia encargada de realizar funciones de administración y conservación de los bienes que conforman el patrimonio de la Administración Pública.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+Se notificará mediante oficio a la Secretaría de Finanzas y Administración del Gobierno del Estado, o la dependencia encargada de realizar funciones de administración y conservación de los bienes que conforman el patrimonio de la Administración Pública.
 
 ### Capítulo X. Del Procedimiento
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 37.
 
-Una vez presentada la demanda con los documentos que acrediten la procedencia de la acción y demás pruebas que ofrezca el agente del Ministerio Público, el juez contará con un plazo de tres días hábiles para resolver sobre la admisión de la demanda.
+Una vez presentada la demanda con los documentos que acrediten la procedencia de la acción y demás pruebas que ofrezca el agente del Ministerio Público, el juez contará con un plazo (sic) setenta y dos horas para resolver sobre la admisión de la demanda, así como el otorgamiento de las providencias cautelares solicitadas.
 
 Si la demanda fuere obscura o irregular, el juez deberá prevenir por una sola vez al agente del Ministerio Público para que la aclare, corrija o complete, señalando en concreto sus defectos, otorgándole para tal efecto, un plazo de tres días contados a partir de que surta efectos la notificación del auto que lo ordene.
 
@@ -521,6 +719,16 @@ La prueba testimonial se desahogará en la audiencia, siendo responsabilidad del
 
 El juez valorará las pruebas desahogadas, en los términos que establece el Código de Procedimientos Civiles para el Estado de Hidalgo, salvo lo dispuesto en el Artículo 46 de esta Ley.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 50 Bis.
+
+Las audiencias deberán celebrarse de forma oral bajo los principios de inmediación, concentración, contradicción, continuidad y publicidad; salvo las excepciones previstas en esta ley.
+
+Las audiencias serán conducidas por el juez, quien la presidirá en su integridad y se desarrollará oralmente; serán públicas, salvo que, por razones de seguridad del tribunal o de los intervinientes, el juez determine que se efectúen a puerta cerrada; y se llevarán a cabo con o sin la asistencia de las partes. Quien injustificadamente, a criterio del juez, no acuda a las audiencias, será sancionado con de (sic) treinta a cien días de salario mínimo general vigente en la Entidad.
+
 ###### Artículo 51.
 
 La audiencia comenzará con el desahogo de las pruebas del agente del Ministerio Público, y continuará con las de los demandados y, en su caso, de los terceros, observando los principios rectores del procedimiento.
@@ -581,19 +789,31 @@ En ningún caso el juez podrá aplazar, dilatar, omitir, ni negar la resolución
 
 Excepcionalmente, cuando para declarar la extinción de dominio el juez requiera pronunciarse conjuntamente con otras cuestiones que no hubieren sido sometidas a su resolución, lo hará saber al agente del Ministerio Público para que amplíe la acción a las cuestiones no propuestas, siguiendo las reglas previstas en esta Ley para los trámites del procedimiento.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 60.
 
-En caso de declararse improcedente la acción de extinción de dominio, el juez ordenará el levantamiento de las medidas cautelares y procederá en términos de lo dispuesto en el Artículo 62 de esta Ley.
+En caso de declararse improcedente la acción de extinción de dominio, el juez ordenará el levantamiento de las Providencias cautelares y procederá en términos de lo dispuesto en el Artículo 62 de esta Ley.
 
-Las sentencias por las que se resuelva la improcedencia de la acción de extinción de dominio no prejuzgan respecto de las medidas cautelares de aseguramiento con fines de decomiso, embargo precautorio para efectos de reparación del daño u otras que la autoridad ministerial o judicial acuerden en una investigación o proceso penal.
+Las sentencias por las que se resuelva la improcedencia de la acción de extinción de dominio no prejuzgan respecto de las Providencias cautelares de aseguramiento con fines de decomiso, embargo precautorio para efectos de reparación del daño u otras que la autoridad ministerial o judicial acuerden en una investigación o proceso penal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 61.
 
-La acción de extinción de dominio no procederá respecto de los bienes asegurados que hayan causado abandono, o aquellos bienes respecto de los cuales se haya decretado su decomiso con carácter de cosa juzgada.
+El ejercicio de la acción de extinción de dominio no excluye que el Ministerio Público solicite el decomiso o en su defecto la declaración de abandono de los mismos bienes con motivo del ejercicio de la acción penal, en los casos que resulte procedente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 62.
 
-En caso de que el juez declare improcedente la acción de extinción de dominio, de todos o de alguno de los bienes, ordenará la devolución de los bienes no extintos en un plazo no mayor de tres meses o, cuando no sea posible, ordenará la entrega de su valor a su legítimo propietario o poseedor, junto con los intereses, rendimientos y accesorios en cantidad líquida que efectivamente se hayan producido durante el tiempo que fueron administrados por la Secretaria de Administración del Gobierno del Estado, o la dependencia encargada de realizar funciones para su administración.
+En caso de que el juez declare improcedente la acción de extinción de dominio, de todos o de alguno de los bienes, ordenará la devolución de los bienes no extintos en un plazo no mayor de tres meses o, cuando no sea posible, ordenará la entrega de su valor a su legítimo propietario o poseedor, junto con los intereses, rendimientos y accesorios en cantidad líquida que efectivamente se hayan producido durante el tiempo que fueron administrados por la Secretaria de Finanzas y Administración del Gobierno del Estado, o la dependencia encargada de realizar funciones para su administración.
 
 ###### Artículo 63.
 
@@ -607,11 +827,19 @@ Los gastos que se generen relativos a la conservación, manutención o mantenimi
 
 Si luego de concluido el procedimiento de extinción de dominio mediante sentencia firme, se supiere de la existencia de otros bienes propiedad del condenado, se iniciará nuevo proceso de extinción del dominio respecto de los bienes restantes.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 66.
 
-Los bienes sobre los que sea declarada la extinción de dominio, o el producto de la enajenación de los mismos, serán adjudicados al Gobierno del Estado y puestos a disposición para su destino final, a través del (sic) la Secretaria de Administración del Gobierno del Estado, o la dependencia encargada de realizar funciones para su administración.
+Los bienes sobre los que sea declarada la extinción de dominio, o el producto de la enajenación de los mismos, serán adjudicados al Gobierno del Estado y puestos a disposición para su destino final, a través de la Secretaría de Finanzas y Administración del Gobierno del Estado, o la dependencia encargada de realizar funciones para su administración.
 
-La Secretaria de Administración del Gobierno del Estado, o la dependencia encargada de realizar funciones para su administración, no podrán disponer de los bienes, aún y cuando haya sido decretada la extinción de dominio, si en alguna causa penal se ha ordenado la conservación de éstos por sus efectos probatorios, siempre que dicho auto o resolución les haya sido notificado previamente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+La Secretaría de Finanzas y Administración del Gobierno del Estado, o la dependencia encargada de realizar funciones para su administración, no podrán disponer de los bienes, aún y cuando haya sido decretada la extinción de dominio, si en alguna causa penal se ha ordenado la conservación de éstos por sus efectos probatorios, siempre que dicho auto o resolución les haya sido notificado previamente.
 
 Cuando haya contradicción entre la sentencia de extinción de dominio con cualquier otra sentencia en relación a los bienes previstos por el articulo 7 de este ordenamiento, respecto de los casos a que se refiere el presente artículo, prevalecerá la sentencia que se dicte en el procedimiento de extinción de dominio, salvo lo dispuesto en el Artículo 63 de esta Ley.
 
@@ -623,21 +851,33 @@ Una vez que cause ejecutoria la sentencia que resuelva la extinción del bien, e
 
 Los remanentes del valor de los bienes que resulten una vez aplicados los recursos correspondientes en términos del Artículo 6º de este Ordenamiento, se depositarán por la Secretaria de Administración del Gobierno del Estado, o la dependencia encargada de realizar funciones para su administración, en el Fondo a que se refiere el Artículo 69 de esta Ley.
 
-El destino del valor de realización de los bienes y sus frutos, a que se refiere este artículo, se sujetará a reglas de transparencia y será fiscalizado por la Auditoría Superior del Estado de Hidalgo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+Los remanentes del valor de los bienes que resulten una vez aplicados los recursos correspondientes en términos del Artículo 6 de este Ordenamiento, se depositarán por la Secretaria de Finanzas y Administración del Gobierno del Estado, o la dependencia encargada de realizar funciones para su administración, en el Fondo a que se refiere el Artículo 69 de esta Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 68.
 
-Para efecto de lo señalado en el Artículo anterior, la Secretaria de Administración del Gobierno del Estado, o la dependencia encargada de realizar funciones para su administración, estará a lo que el juez determine, siempre que exista cantidad líquida suficiente, derivada del procedimiento de extinción de dominio correspondiente. En todo caso, el juez deberá especificar en su sentencia o resolución correspondiente, los montos a liquidar, la identidad de los acreedores, y el orden de preferencia entre los mismos.
+Para efecto de lo señalado en el artículo anterior, la Secretaría de Finanzas y Administración del Gobierno del Estado, o la dependencia encargada de realizar funciones para su administración, estará a lo que el juez determine, siempre que exista cantidad líquida suficiente, derivada del procedimiento de extinción de dominio correspondiente. En todo caso, el juez deberá especificar en su sentencia o resolución correspondiente, los montos a liquidar, la identidad de los acreedores, y el orden de preferencia entre los mismos.
 
-Cuando la sentencia de extinción de dominio se emita de manera previa a la del proceso que resuelva la reparación del daño, a petición del agente del Ministerio Público, o juez correspondiente, el juez de extinción podrá ordenar a la Secretaria de Administración del Gobierno del Estado, o la dependencia encargada de realizar funciones para su administración que conserve los recursos hasta que, de ser el supuesto, la sentencia cause estado. Lo anterior en la cantidad que indique el juez de extinción de dominio, y siempre que no se incrementen los adeudos por créditos garantizados.
+Cuando la sentencia de extinción de dominio se emita de manera previa a la del proceso que resuelva la reparación del daño, a petición del agente del Ministerio Público, o juez correspondiente, el juez de extinción podrá ordenar a la Secretaria de Finanzas y Administración del Gobierno del Estado, o la dependencia encargada de realizar funciones para su administración que conserve los recursos hasta que, de ser el supuesto, la sentencia cause estado. Lo anterior en la cantidad que indique el juez de extinción de dominio, y siempre que no se incrementen los adeudos por créditos garantizados.
 
-El agente del Ministerio Público deberá, en su caso, representar los intereses de quien haya comparecido a juicio como víctima u ofendido, por los hechos ilícitos a los que se refiere el Artículo 7º de esta Ley, y por los que se ejercitó la acción de extinción de dominio.
+El agente del Ministerio Público deberá, en su caso, representar los intereses de quien haya comparecido a juicio como víctima u ofendido, por los hechos ilícitos a los que se refiere el Artículo 5 de esta Ley, y por los que se ejercitó la acción de extinción de dominio.
 
 ### Capítulo XIII. Del Fondo
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 69.
 
-Con los recursos a que se refiere el Artículo 67 de esta Ley, se constituirá un Fondo, cuya operación será coordinada por la Secretaria de Administración del Gobierno del Estado, o la dependencia encargada de realizar funciones para su administración, con el objeto de que sean administrados hasta que sean destinados de conformidad con lo dispuesto en el Artículo 6º de este Ordenamiento, en los términos del Artículo siguiente.
+Con los recursos a que se refiere el Artículo 67 de esta Ley, se constituirá un Fondo, cuya operación será coordinada por la Secretaria de Finanzas y Administración del Gobierno del Estado, o la dependencia encargada de realizar funciones para su administración, con el objeto de que sean administrados hasta que sean destinados de conformidad con lo dispuesto en el Artículo 6 de este Ordenamiento, en los términos del Artículo siguiente.
 
 En ningún caso los recursos a que se refiere el párrafo anterior podrán ser utilizados en gasto corriente o pago de salarios.
 
@@ -697,7 +937,17 @@ IV.- Contra el auto que niegue la legitimación procesal del demandado, victima 
 
 V.- Contra la resolución que ordene o niegue medidas cautelares; y
 
-VI.- En los demás casos que prevea el Código de Procedimientos Civiles para el Estado de Hidalgo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+VI. Contra la resolución que ordene o niegue Providencias cautelares; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+VII. En los demás casos que prevea el Código de Procedimientos Civiles para el Estado de Hidalgo.
 
 ###### Artículo 74.
 
@@ -750,3 +1000,13 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO.
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE NOVIEMBRE DE 2014.
+
+PRIMERO. Las reformas a la presente Ley entrarán en vigor a partir de las cero horas del día 18 de noviembre de 2014, conforme al Decreto número 208, promulgado por el Titular del Poder Ejecutivo del Estado, de fecha 22 de agosto de 2014.
+
+SEGUNDO. Las instituciones involucradas en la aplicación de la presente Ley, deberán establecer planes y programas dirigidos a capacitar a su personal a efecto de darle cabal cumplimiento.
+
+TERCERO. Se derogan todas aquellas disposiciones contrarias a esta Ley.
