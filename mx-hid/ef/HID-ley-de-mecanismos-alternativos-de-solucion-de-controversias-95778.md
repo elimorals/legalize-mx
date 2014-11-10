@@ -4,7 +4,7 @@ identifier: "HID-ley-de-mecanismos-alternativos-de-solucion-de-controversias-957
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-02"
-last_updated: "2013-09-02"
+last_updated: "2014-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 2 de septiembre de 2013.
 
@@ -77,13 +77,21 @@ Para el cumplimiento del objeto previsto en el artículo anterior, el Sistema de
 
 Para los efectos de esta Ley se entenderá por:
 
-I.- Acuerdo para la Reparación: El pacto entre la víctima u ofendido y el imputado que lleva como resultado la solución del conflicto a través de cualquier mecanismo idóneo y que tiene el efecto de concluir el proceso;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+I.- Acuerdo Reparatorio: El pacto entre la víctima u ofendido y el imputado que lleva como resultado la solución del conflicto a través de cualquier mecanismo idóneo y que tiene el efecto de concluir el proceso, en términos del Código Nacional de Procedimientos Penales;
 
 II.- Arbitraje: Procedimiento extrajudicial al que los interesados someten ciertas controversias que hayan surgido o puedan surgir entre ellos, respecto de una determinada relación jurídica;
 
 III.- Centro de Justicia Alternativa: Aquella institución pública estatal y municipal que tenga como fin la solución de conflictos a través de los mecanismos alternativos de solución de controversias;
 
-IV.- Centro de la Procuraduría: Centro de Justicia Alternativa de la Procuraduría General de Justicia del Estado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+IV.- Centro de la Procuraduría: Centro de Justicia Restaurativa Penal de la Procuraduría General de Justicia del Estado;
 
 V.- Centro del Poder Judicial: Centro Estatal de Justicia Alternativa del Poder Judicial del Estado;
 
@@ -139,7 +147,11 @@ La mediación y la conciliación serán aplicables:
 
 I.- En materia civil y familiar en aquellos asuntos que sean susceptibles de transacción o convenio;
 
-II.- En materia penal, en los casos previstos por la Ley; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+II.- En materia penal, en los casos previstos por el Código Nacional de Procedimientos Penales; y
 
 III.- En cualquier otra materia siempre y cuando sean derechos disponibles por los interesados.
 
@@ -155,9 +167,13 @@ Las sedes y los centros regionales podrán desahogar estos procedimientos en el 
 
 Los procedimientos serán flexibles, debiendo los facilitadores tratar a los interesados con igualdad y dar a cada uno de ellos plena oportunidad de hacer valer sus derechos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 10.
 
-Los servicios de mediación y conciliación serán gratuitos cuando se impartan por los Centros de Justicia Alternativa públicos.
+Los servicios de mediación y conciliación serán gratuitos cuando se impartan por los Centros de Justicia Alternativa públicos. En la materia penal, los mecanismos alternativos de solución de controversias serán siempre de interés público.
 
 ### CAPÍTULO SEGUNDO. DE LOS FACILITADORES
 
@@ -205,7 +221,11 @@ VI.- Mantener el buen desarrollo de las sesiones, procurando que no haya interru
 
 VII.- Dar por terminado el desarrollo de las sesiones de mecanismos alternativos de solución de controversias cuando alguno de los interesados lo solicite expresamente o el facilitador considere que se ha agotado la viabilidad del mecanismo alternativo elegido;
 
-VIII.- Redactar en su caso los acuerdos o el plan de reparación al que hayan llegado los interesados a través de los mecanismos alternativos, verificando que no trasgredan o vulneren los principios generales del derecho, se hagan en términos claros y precisos de manera tal que no quede duda en su interpretación, y no afecten el interés público o perjudiquen los derechos de terceros;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+VIII.- Redactar en su caso los convenios, acuerdos o planes de reparación al que hayan llegado los interesados a través de los mecanismos alternativos, verificando que no trasgredan o vulneren los principios generales del derecho, se hagan en términos claros y precisos de manera tal que no quede duda en su interpretación, y no afecten el interés público o perjudiquen los derechos de terceros;
 
 IX.- Llevar un registro interno de los asuntos de los que conozcan en los que anotarán sus incidencias y resultados, sin violentar el principio de confidencialidad;
 
@@ -293,7 +313,11 @@ La mediación y la conciliación, tendrá lugar en los siguientes casos:
 
 I.- Por cláusula de mediación o conciliación derivada de alguna relación contractual, siempre que conste por escrito;
 
-II.- Cuando los interesados acuerden someterse al procedimiento de mediación o conciliación, siempre que la Ley lo autorice, en cuyo caso si hubiese un proceso jurisdiccional éste podrá suspenderse en los términos que establezcan la Ley; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+II.- Cuando los interesados acuerden someterse al procedimiento de mediación o conciliación, siempre que el Código Nacional de Procedimientos Penales lo autorice, en cuyo caso si hubiese un proceso jurisdiccional éste podrá suspenderse en los términos que establezca el citado ordenamiento; y
 
 III.- En los casos que la Ley lo autorice.
 
@@ -373,7 +397,11 @@ El procedimiento de mediación-conciliación se suspenderá cuando alguno de los
 
 El procedimiento se tendrá por concluido en los siguientes casos:
 
-I.- Por convenio que establezca la solución parcial o total del conflicto;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+I.- Por convenio o acuerdo que establezca la solución parcial o total del conflicto;
 
 II.- Por el cumplimiento del acuerdo o plan de reparación convenido entre los interesados;
 
@@ -391,9 +419,13 @@ VIII.- Al tener conocimiento en cualquier momento, de que se ventila un asunto d
 
 IX.- Ante la inasistencia del convocado en tres ocasiones.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 34.
 
-El convenio deberá contener cuando menos los siguientes requisitos:
+El convenio o acuerdo deberá contener cuando menos los siguientes requisitos:
 
 I.- Lugar y fecha de su celebración;
 
@@ -405,7 +437,15 @@ IV.- Los antecedentes;
 
 V.- Descripción precisa de las obligaciones que hubieran acordado los interesados, así como sus condiciones, términos y plazos de cumplimiento;
 
-VI.- Firma de quienes lo suscriben y la firma del facilitador. En caso de que alguno de los interesados no sepa o no pudiera firmar, estampará su huella digital o firmará otra persona a su ruego y encargo, dejándose constancia de ello;
+> <small>N. DE E. 1 SE ADVIERTE QUE EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL CONTENIDO DE LA FRACCIÓN VII.</small>
+
+> <small>N. DE E. 2 EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+VI.- La autorización o validación del Director General respectivo en su caso.
+
+En la materia penal, de conformidad con el Código Nacional de Procedimientos Penales; y
 
 VII.- La autorización o validación del Director General respectivo en su caso; y
 
@@ -415,9 +455,15 @@ VIII.- Cualquier otro aspecto que el facilitador considere necesario.
 
 Por la sola firma del facilitador, se presume que el convenio, acuerdo o plan de reparación, no es contrario a derecho, no afecta a la moral, a las buenas costumbres o al orden público. También se considerará que las firmas contenidas son auténticas.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 36.
 
-Cuando alguno de los interesados incumpla el contenido del convenio el afectado podrá solicitar su ejecución a través de los procedimientos diseñados para el Juicio Ejecutivo Civil o la vía de apremio, ante el Juez competente o por cualquier otro procedimiento establecido por la Ley.
+Cuando alguno de los interesados incumpla el contenido del convenio o acuerdo, el afectado podrá solicitar su ejecución a través de los procedimientos diseñados para el Juicio Ejecutivo Civil o la vía de apremio, ante el Juez competente o por cualquier otro procedimiento establecido por la Ley.
+
+En la materia penal, se estará a lo dispuesto en el Código Nacional de Procedimientos Penales.
 
 ###### Artículo 37.
 
@@ -559,9 +605,13 @@ Los mecanismos Alternativos de solución de controversias que deban aplicarse en
 
 Dicho Centro tendrá su asiento en la capital del Estado y podrá establecer sedes regionales en toda la Entidad.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 50.
 
-En materia penal el Centro de la Procuraduría tendrá competencia para conocer y facilitar los acuerdos reparatorios, previos a la consignación, en aquellos hechos punibles que sean perseguibles por querella y no exista un interés público en su persecución.
+En materia penal el Centro de la Procuraduría tendrá competencia para conocer y facilitar los acuerdos reparatorios, previos al auto de apertura de juicio, en aquellos hechos punibles que estén autorizados por el Código Nacional de Procedimientos Penales.
 
 ###### Artículo 51.
 
@@ -595,7 +645,11 @@ I.- Vigilar el cumplimiento de esta Ley en el ámbito de su competencia;
 
 II.- Representar al Centro de la Procuraduría y a las sedes regionales;
 
-III.- Autorizar los convenios en los procedimientos de los mecanismos alternativos de solución de controversias;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+III.- Autorizar los convenios o acuerdos en los procedimientos de los mecanismos alternativos de solución de controversias;
 
 IV.- Coordinar el buen funcionamiento del Centro de la Procuraduría y las sedes regionales, manteniendo la supervisión continua de sus facilitadores, cuidando el cumplimiento cabal de la normatividad que los regula, la calidad de sus servicios y el logro de sus objetivos;
 
@@ -786,3 +840,11 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. JOSÉ FRANCISCO OLVERA RUIZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE NOVIEMBRE DE 2014.
+
+ARTÍCULO PRIMERO Las reformas a la presente Ley entrarán en vigor a partir de las cero horas del día 18 de noviembre de 2014, conforme al Decreto número 208, promulgado por el Titular del Poder Ejecutivo del Estado, de fecha 22 de agosto de 2014.
+
+SEGUNDO. En la fecha y en los lugares en que entre en vigencia el Nuevo Sistema de Justicia Penal previsto en el Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el 05 de marzo de 2014, el Centro de la Procuraduría tendrá competencia para conocer y facilitar los acuerdos reparatorios que deseen realizar los interesados, desde el momento en que tengan conocimiento de la noticia del delito y hasta antes de decretarse el auto de apertura de juicio.
