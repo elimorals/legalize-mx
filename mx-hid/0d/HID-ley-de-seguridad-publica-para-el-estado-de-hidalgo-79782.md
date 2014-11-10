@@ -4,7 +4,7 @@ identifier: "HID-ley-de-seguridad-publica-para-el-estado-de-hidalgo-79782"
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-07"
-last_updated: "2011-02-07"
+last_updated: "2014-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79782&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE HIDALGO
 
-LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE HIDALGO
+LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 10 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 7 de Febrero de 2011.
 
@@ -1894,3 +1896,15 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE NOVIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor a partir de las cero horas del día 18 de noviembre de 2014, conforme al Decreto número 208, promulgado por el Titular del Poder ejecutivo del Estado, de fecha 22 de agosto de 2014.
+
+SEGUNDO. Se abroga la Ley de Seguridad Pública para el Estado de Hidalgo, publicada en el Alcance al Periódico Oficial, el 7 de Febrero de dos mil once.
+
+TERCERO. Los prestadores de servicios de seguridad privada en la Entidad, deberán ceñirse a lo establecido en la presente Ley, la Ley de Seguridad Privada para el Estado de Hidalgo, su Reglamento y demás disposiciones aplicables.
+
+CUARTO. Se expedirán los reglamentos derivados del contenido de la presente ley dentro de un plazo de ciento ochenta días, contados a partir del día siguiente a su entrada en vigor.
