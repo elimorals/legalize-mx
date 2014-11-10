@@ -4,7 +4,7 @@ identifier: "HID-ley-de-justicia-para-adolescentes-del-estado-de-hidalgo-76628"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-13"
-last_updated: "2010-09-13"
+last_updated: "2014-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76628&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "HID"
 ---
 # LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE HIDALGO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE ENERO DE 2015 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE HIDALGO
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRARA EN VIGOR A PARTIR DEL DIA SIGUIENTE DE LA ENTRADA EN VIGENCIA DEL NUEVO CODIGO PROCESAL PENAL PARA EL ESTADO DE HIDALGO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y TERCERO DE LA LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 10 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS 180 DÍAS NATURALES CONTADOS A PARTIR DEL DÍA SIGUIENTE AL DE SU PUBLICACIÓN.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 13 de septiembre de 2010.
 
@@ -47,7 +49,7 @@ SEGUNDO.- El asunto de mérito, se registró en el Libro de Gobierno de la Prime
 
 Por lo que, en mérito de lo expuesto; y
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O...
 
 POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -631,7 +633,7 @@ Cuando el adolescente, sujeto a una medida de tratamiento, se sustraiga de ésta
 
 ###### ARTÍCULO 44.
 
-Si durante la investigación o después de haberla cerrado, existan (sic) bases razonables para estimar, como probable, que algún testigo no podrá concurrir al juicio oral, por vivir en el extranjero, o por haber sido amenazado o por existir motivo que hiciere temer su muerte, su incapacidad física o mental que le impidiese declarar, las partes podrán solicitar al Juez que corresponda que se desahogue anticipadamente.
+Si durante la investigación o después de haberla cerrado, existan bases razonables para estimar, como probable, que algún testigo no podrá concurrir al juicio oral, por vivir en el extranjero, o por haber sido amenazado o por existir motivo que hiciere temer su muerte, su incapacidad física o mental que le impidiese declarar, las partes podrán solicitar al Juez que corresponda que se desahogue anticipadamente.
 
 Para los efectos previstos en el presente Artículo se entenderá como testigo, toda persona que tenga la obligación de concurrir al llamamiento judicial y de declarar la verdad de cuanto conozca, aportar todos los objetos y documentos relevantes al esclarecimiento de los hechos y contestar cuanto le sea preguntado; así mismo, no deberá de ocultar hechos, circunstancias ni elementos.
 
@@ -2378,3 +2380,17 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE NOVIEMBRE DE 2014.
+
+PRIMERO. La presente Ley entrará en vigor a los 180 días naturales contados a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Una vez que entre en vigor la presente Ley, quedará abrogada la Ley de Justicia para Adolescentes del Estado de Hidalgo, publicada en el Periódico Oficial del Estado, el lunes 25 de septiembre de 2006.
+
+TERCERO. Se abroga la Ley de Justicia para Adolescentes del Estado de Hidalgo, publicada en el Periódico Oficial del Estado, el lunes 13 de septiembre de 2010.
+
+CUARTO. Al entrar en vigor la presente Ley, quedarán derogadas todas las disposiciones legales que se le opongan.
+
+QUINTO. Los procedimientos iniciados con la Ley anterior, continuarán su trámite con la misma.
