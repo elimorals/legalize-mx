@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-la-infraestructura-fisica-educativa-del-estado-de-70460"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-30"
-last_updated: "2009-09-30"
+last_updated: "2014-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE LA INFRAESTRUCTURA FISICA EDUCATIVA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el miércoles 30 de septiembre de 2009.
 
@@ -169,7 +169,9 @@ I. Un Presidente, que será el Titular del Poder Ejecutivo del Estado, quien ser
 
 II. Un Secretario Técnico, que será el Director General del Instituto;
 
-III. Cinco vocales que serán:
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+III. Siete vocales que serán:
 
 a) El titular de la Secretaría de Educación Pública del Estado de Baja California Sur;
 
@@ -261,7 +263,9 @@ IX. Establecer los procedimientos para controlar la calidad de los suministros y
 
 X. Recabar información y elementos estadísticos que reflejen el estado de las funciones del Instituto a fin de mejorar las gestiones del mismo;
 
-XI. Proponer a la Junta de Gobierno la designación y remoción de los Jefes de Departamento;
+> <small>(REFORMADA, B.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+XI. Proponer a la Junta de Gobierno la designación y remoción del Director Técnico y Jefes de Departamento.
 
 XII. Elaborar el Reglamento Interno y Manuales de Organización y Operación del Instituto, el cual deberá presentar para su aprobación en su caso, a la Junta de Gobierno, debiendo publicarse respectiva (sic) en el Boletín Oficial del Gobierno del Estado de Baja California Sur;
 
@@ -291,19 +295,25 @@ III. Poseer al día de su designación con (sic) una antigüedad mínima de cinc
 
 IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de una (sic) año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
 
+> <small>(REFORMADO, B.O. 10 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 18.
 
-El Instituto contará con tres Departamentos:
+El Instituto contará con una Dirección Técnica y tres Departamentos:
 
-I. Departamento de Planeación y Programación;
+I.- Dirección Técnica.
 
-II. Departamento de Supervisión y Control de Obras; y
+II.- Departamento de Planeación y Programación de Obras.
 
-III. Departamento de Administración.
+III.- Departamento de Supervisión y Control de Obras; y
+
+IV.- Departamento de Administración.
+
+> <small>(REFORMADO, B.O. 10 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 19.
 
-Las Jefaturas de Departamentos se estructurarán en los términos del presente la presente Ley, del Reglamento Interno y de los Manuales de Organización y Operación que al efecto se expidan.
+La Dirección Técnica y las Jefaturas de Departamentos, se estructurarán en los términos de la presente Ley, del Reglamento Interno y de los Manuales de Organización y Operación que al efecto se expidan.
 
 ###### ARTÍCULO 20.
 
@@ -320,6 +330,22 @@ IV. Cuidar el debido cumplimiento de las normas y especificaciones legales, téc
 V. Proponer las medidas necesarias para el mejoramiento administrativo del Departamento, así como planear su reorganización cuando se estime conveniente; y
 
 VI. Auxiliar al Director General en el trámite y atención de los asuntos de su competencia conforme a la organización del Instituto.
+
+> <small>(ADICIONADO, B.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+ARTÍCULO 20 BIS.- Corresponde a la Dirección Técnica en el ámbito de su competencia:
+
+I.- Coordinar la aplicación de las políticas, normas y procedimientos que en materia de su competencia establezca el Instituto;
+
+II.- Coordinar la planeación, programación y organización, así como dirigir, controlar y evaluar el funcionamiento de los departamentos de Planeación y Programación de Obras; y el de Supervisión y Control de Obras;
+
+III.- Coordinar la elaboración de los proyectos del programa de inversiones en obras y de Adquisiciones; y del presupuesto anual de operación. Así como vigilar el cumplimiento de los programas y metas establecidas;
+
+IV.- Acordar con el Director General, el despacho de los asuntos encomendados a los Departamentos, e informarle oportunamente sobre los mismos;
+
+V.- Cuidar el debido cumplimiento de las normas y especificaciones legales, técnicas y administrativas aplicables al funcionamiento del organismo, por parte de la Dirección Técnica; y
+
+VI.- Auxiliar al Director General, en el trámite y atención de los asuntos de su competencia conforme a la organización del Instituto.
 
 ###### ARTÍCULO 21.
 
@@ -339,9 +365,11 @@ Tanto las obras que realice el ISIFE como las que se lleven a cabo por los Ayunt
 
 Para el cumplimiento de su objetivo el Instituto, contará con trabajadores de base y de confianza.
 
+> <small>(REFORMADO, B.O. 10 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 25.
 
-Son considerados como personal de confianza el Director General, los Jefes de Departamentos, y los demás que conforme a la Ley en la materia, tengan este carácter.
+Son considerados como personal de confianza el Director General, el Director Técnico y los Jefes de Departamentos, y los demás que conforme a la Ley en la materia, tengan este carácter.
 
 ###### ARTÍCULO 26.
 
@@ -398,3 +426,11 @@ NARCISO AGÚNDEZ MONTAÑO
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 LUIS ARMANDO DÍAZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 10 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- A partir de la entrada en vigor del presente Decreto, el Director General tendrá treinta días, para presentar ante la Junta de Gobierno el Proyecto de reformas y adiciones al Reglamento Interno derivadas del presente Decreto, para su aprobación y posterior publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
