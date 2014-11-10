@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-defensoria-publica-del-estado-de-hidalgo-744
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-04-12"
-last_updated: "2010-08-09"
+last_updated: "2014-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74485&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY ORGANICA DE LA DEFENSORIA PUBLICA DEL ESTADO DE HIDALGO
 
-LEY ORGANICA DE LA DEFENSORIA PUBLICA DEL ESTADO DE HIDALGO
+LEY ORGÁNICA DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO DE DEFENSORÍA PÚBLICA DEL ESTADO DE HIDALGO, PUBLICADO EN EL P.O. DE 10 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 12 de abril de 2010.
 
@@ -71,7 +73,7 @@ La Defensoría es una unidad administrativa del Poder Ejecutivo del Estado, depe
 
 La Defensoría tiene por objeto:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -107,13 +109,13 @@ Para el cumplimiento de sus atribuciones la Defensoría contará con:
 
 I.- Una Dirección;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2010)</small>
 
 II.- Seis Subdirecciones:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -123,11 +125,11 @@ b).- Subdirección en Materia Civil, Mercantil, Familiar, Agraria, Fiscal Admini
 
 c).- Subdirección en Materia Constitucional y Electoral;
 
-d).- Subdirección de Profesionalización y Estudios jurídicos; y (sic)
+d).- Subdirección de Profesionalización y Estudios jurídicos; y
 
 e).-Subdirección de Administración.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -139,11 +141,11 @@ IV.- Auxiliares del Defensor Público;
 
 V.- Departamento de Trabajo Social; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
 
 VI.- (DEROGADA, P.O. 9 DE AGOSTO DE 2010).
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -219,7 +221,7 @@ f).- Celebrar por lo menos cada tres meses, pleno de defensores públicos para c
 
 g).- Vigilar el desempeño y el puntual cumplimiento de las labores de los defensores públicos y personal a su cargo;
 
-h).- Participar en las mesas de trabajo para unificar criterios jurídicos; y (sic)
+h).- Participar en las mesas de trabajo para unificar criterios jurídicos; y
 
 i).- Las demás que le confieran las Leyes.
 
@@ -259,9 +261,9 @@ XIV.- Participar en las mesas de trabajo para unificar criterios jurídicos; y
 
 XV.- Las demás que les confiera la presente Ley y su Reglamento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2010)</small>
 
 ###### ARTÍCULO 15.
 
@@ -351,7 +353,7 @@ IX.- Recibir el informe preliminar de las actividades mensuales del personal de 
 
 X.- Las demás que les confiera la presente Ley y su Reglamento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -425,9 +427,9 @@ En materia civil dar aviso al Defensor Público adscrito a la Sala Civil y Famil
 
 En todas las materias dar aviso a la subdirección del área constitucional de los casos en los cuales considere pertinente interponer el Juicio de Amparo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRIMER PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2010)</small>
 
 ###### ARTÍCULO 21.
 
@@ -555,7 +557,7 @@ La Defensoría se abstendrá de proporcionar la orientación, asesoría y patroc
 
 I.- Las condiciones socioeconómicas del solicitante o la cuantía del asunto excedan los parámetros previstos en la presente ley y su Reglamento;
 
-II.- Incurra en faltas que vayan en perjuicio de la integridad del personal y de la institución: (sic) y
+II.- Incurra en faltas que vayan en perjuicio de la integridad del personal y de la institución: y
 
 III.- El solicitante haya sido contraparte de la Defensoría en el asunto en el que se requiera el servicio, en cuyo caso se estará a lo previsto en el Artículo 30 de esta Ley.
 
@@ -627,7 +629,7 @@ a) Aceptar el cargo de perito en el Juzgado respectivo en donde haya sido ofreci
 
 b) Realizar los estudios correspondientes con base en las hipótesis de la teoría del caso y conforme el saber científico o técnico del perito;
 
-c) presentar (sic) ante las autoridades jurisdiccionales o administrativas, como elemento de prueba, el estudio pericial que corresponda y ratificarlo cuando así proceda;
+c) presentar ante las autoridades jurisdiccionales o administrativas, como elemento de prueba, el estudio pericial que corresponda y ratificarlo cuando así proceda;
 
 d) Asistir ante las autoridades correspondientes cuando así se le requiera; y
 
@@ -761,10 +763,22 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 9 DE AGOSTO DE 2010.
 
 PRIMERO.- El presente Decreto, una vez realizada su Publicación en el Periódico Oficial del Estado, entrará en vigor el día 20 de agosto del año 2010.
 
 SEGUNDO.- Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto, se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+P.O. 10 DE NOVIEMBRE DE 2014.
+
+PRIMERO. La presente Ley entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley Orgánica de la Defensoría Pública del Estado de Hidalgo, publicada en el Periódico Oficial del Estado con fecha 12 de abril de 2010.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+CUARTO. La Secretaría de Finanzas y Administración del Gobierno del Estado, tomará las previsiones administrativas y presupuestarias pertinentes para la adecuación de la estructura organizacional del Instituto, conforme al Presupuesto de Egresos respectivo.
+
+QUINTO. Dentro de los ciento ochenta días siguientes al inicio de la vigencia de esta Ley, deberá expedirse el Reglamento correspondiente.
