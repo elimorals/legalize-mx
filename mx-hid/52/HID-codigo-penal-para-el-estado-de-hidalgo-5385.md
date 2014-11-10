@@ -4,7 +4,7 @@ identifier: "HID-codigo-penal-para-el-estado-de-hidalgo-5385"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2014-11-03"
+last_updated: "2014-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 CÓDIGO PENAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, LAS REFORMAS PUBLICADAS EN EL DECRETO NÚM. 228, DE FECHA 10 DE NOVIEMBRE DE 2014, ENTRARÁN EN VIGOR A PARTIR DE LAS CERO HORAS DEL DÍA 18 DE NOVIEMBRE DE 2014, CONFORME AL DECRETO NÚMERO 208, PROMULGADO POR EL TITULAR DEL PODER EJECUTIVO DEL ESTADO, DE FECHA 22 DE AGOSTO DE 2014.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2014.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990.
 
@@ -52,6 +54,10 @@ Queda prohibida la aplicación analógica o por mayoría de razón de las leyes 
 ###### ARTICULO 3o.
 
 No podrá aplicarse pena alguna, si la acción u omisión no han sido realizadas culpablemente, tampoco podrá aplicarse medida de seguridad alguna, si previamente no se demuestra la existencia de un hecho antijurídico y que de éste y de las circunstancias personales del sujeto pueda derivarse la necesidad racional de su aplicación.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+La sola causación del resultado no podrá fundamentar, por sí sola, la responsabilidad penal.
 
 ###### ARTICULO 4o.
 
@@ -127,7 +133,9 @@ I.- Instantáneo, cuando la consumación se agota en el momento mismo en que se 
 
 II.- Permanente o continuo, cuando la consumación se prolonga en el tiempo; y
 
-III.- Continuado, cuando con unidad de propósito delictivo y pluralidad de conductas se viola el mismo precepto legal, siempre y cuando se trate de bienes disponibles y del mismo sujeto pasivo.
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+III.- Continuado, cuando con unidad de propósito delictivo y pluralidad de conductas e identidad de sujeto pasivo, se concretan los elementos de un mismo tipo penal.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
 
@@ -155,43 +163,63 @@ Es punible la tentativa cuando el delito no se pudiera consumar por inidoneidad 
 
 Será punible cuando el delito resulte de imposible consumación por la inexistencia del bien jurídico tutelado o del objeto material.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+A falta de la puesta en peligro del bien jurídico, no será punible la tentativa inidónea.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 15.
 
-Si el sujeto espontáneamente desistiere de la ejecución o impidiere la consumación del delito, su conducta no será punible. Si los actos ejecutados u omitidos constituyen por sí mismos delito, se le impondrá la pena o medida de seguridad que corresponda.
+Si el sujeto desiste voluntariamente o de propio impulso de la ejecución o impide la consumación del delito, no se impondrá pena o mediad (sic) de seguridad alguna por lo que a este se refiere, sin perjuicio de aplicar la que corresponda a actos ejecutados u omitidos que constituyan por sí mismo (sic) delitos.
+
+El desistimiento del autor no beneficia a los partícipes. Para que sea válido el desistimiento de los partícipes o coautores, se requerirá que hayan neutralizado el sentido de su aportación al hecho.
 
 ### CAPITULO III. AUTORIA Y PARTICIPACION
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTICULO 16.
 
-Son autores o partícipes del delito:
+Las personas pueden intervenir en la realización de un delito, conforme a las siguientes disposiciones:
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 1999)</small>
+I.- Es autor directo: quien lo realice por sí;
 
-I.- Los que acuerden o preparen su realización;
+II.- Es coautor: quien lo realice conjuntamente con otro u otros autores;
 
-II.- Los que lo realicen por sí;
+III.- Es autor mediato: quien lo lleve a cabo sirviéndose de otro como instrumento;
 
-III.- Los que lo realicen conjuntamente;
+IV.- Es partícipe inductor: quien determine dolosamente a (sic) al autor a cometerlo;
 
-IV.- Los que lo lleven a cabo sirviéndose de otro, de un animal o de cualquier otro medio, utilizable como instrumento;
+V.- Es partícipe cómplice: quien dolosamente preste ayuda o auxilio al autor para su comisión; y,
 
-V.- Los que determinen dolosamente a otro para cometerlo;
+VI.- Es partícipe encubridor: quien con posterioridad a su ejecución, auxilie al autor por acuerdo anterior al delito.
 
-VI.- Los que dolosamente presten ayuda o auxilio a otro para su comisión; y
+Quienes únicamente intervengan en la planeación o preparación del delito, así como quienes determinen a otro o le presten ayuda o auxilio, sólo responderán si el hecho antijurídico del autor alcanza al menos el grado de tentativa del delito que se quiso cometer.
 
-VII.- Los que con posterioridad a su ejecución colaboren con el autor en cumplimiento de una promesa anterior al delito.
+La inducción y la complicidad solamente serán admisibles en los delitos dolosos de su propia culpabilidad.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
-
-Para los efectos de este Código, sólo pueden ser penalmente responsables las personas físicas. Los autores o partícipes responderán cada uno en la medida de su propia culpabilidad.
-
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 17.
 
-En los delitos de resultado material, también responderá del resultado típico producido quien teniendo el deber jurídico de actuar para evitarlo, no lo impide pudiendo hacerlo, derivándose dicho deber de una ley, de un contrato o de su propio actuar precedente.
+En los delitos de resultado material será atribuible el resultado típico producido a quien omita impedirlo, si este tenía el deber jurídico de evitarlo, si:
+
+I.- Es garante del bien jurídico;
+
+II.- De acuerdo con las circunstancias podría evitarlo; y
+
+III.- Su inactividad es, en su eficacia, equivalente a la actividad prohibida en el tipo.
+
+Es garante del bien jurídico el que:
+
+a) Aceptó efectivamente su custodia;
+
+b) Voluntariamente formaba parte de una comunidad que afronta peligros de la naturaleza;
+
+c) Con una actividad precedente, culposa o fortuita, generó el peligro para el bien jurídico; o,
+
+d) Se halla en una efectiva y concreta posición de custodia de la vida, la salud o integridad corporal de algún miembro de su familia o de su pupilo.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
 
@@ -251,45 +279,57 @@ La condena dictada en otra entidad federativa o en el extranjero se tendrá en c
 
 ### CAPITULO VI. CAUSAS EXCLUYENTES DEL DELITO
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTICULO 25.
 
-No hay delito cuando:
+El delito se excluye cuando se actualice alguna causa de atipicidad, de justificación o de imputabilidad.
 
-I.- En el hacer o no hacer del agente, haya ausencia de voluntad;
+Son causas de atipicidad: la ausencia de voluntad o de conducta, la falta de alguno de los elementos del tipo penal, el consentimiento de la víctima que recaiga sobre algún bien jurídico disponible, el error de tipo vencible que recaiga sobre algún tipo penal que no sea susceptible de configurarse culposamente, así como el error de tipo invencible.
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 1999)</small>
+Son causas de justificación: el consentimiento presunto, la legítima defensa, el estado de necesidad justificante, el ejercicio de un derecho y el cumplimiento de un deber
 
-II.- No se acredite alguno de los elementos constitutivos del tipo penal;
+Son causas de inculpabilidad: el error de prohibición invencible, el estado de necesidad disculpante, la inimputabilidad, y la inexigibilidad de otra conducta.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
+A. Causas de atipicidad:
 
-III.- Se repele una agresión real, actual o inminente, sin derecho, en protección de bienes jurídicos propios o ajenos, siempre que exista la necesidad de la defensa y racionalidad de los medios empleados y no medie provocación dolosa suficiente e inmediata por parte del agredido o de la persona a quien se defiende.
+I. Ausencia de conducta: La actividad o la inactividad se realice sin intervención de la voluntad del sujeto activo;
 
-Se presumirá como legítima defensa, salvo prueba en contrario, el hecho de causar daño a quien, a través de la violencia o de cualquier medio trate de penetrar, sin derecho, al hogar del agente, al de su familia, a sus dependencias o a los de cualquier otra persona que tenga la obligación de defender, o al sitio en donde se encuentren bienes propios o ajenos respecto de los que exista la misma obligación, o bien, lo encuentre en alguno de aquellos lugares en circunstancias tales que revelen la probabilidad de una agresión;
+II. Falte alguno de los elementos que integran la descripción legal del delito de que se trate;
 
-IV.- Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente no ocasionado dolosamente, ni por culpa grave por el agente y no se tuviere el deber jurídico de afrontar, lesionando otro bien de menor o igual valor que el salvaguardado;
+III. Consentimiento del titular: Se actúe con el consentimiento del titular del bien jurídico afectado o del legitimado legalmente para otorgarlo, siempre y cuando se cumplan los siguientes requisitos:
 
-V.- Se obre por obediencia legítima y jerárquica, aun cuando la orden constituya un delito, si esta circunstancia no es notoria, ni se prueba que el inculpado la conocía ni era previsible racionalmente;
+a) Que se trate de un bien jurídico disponible;
 
-VI.- Se obre en forma legítima en cumplimiento de un deber jurídico o en ejercicio de un derecho, siempre que exista la necesidad racional del medio empleado para cumplir el deber o ejercer el derecho y no se haga con el sólo propósito de perjudicar a otro;
+b) Que el titular del bien jurídico o quien esté legitimado para consentir, tenga la capacidad jurídica para disponer libremente del bien; y,
 
-VII.- Se actúe con el consentimiento válido del titular del bien jurídico afectado, siempre que se trate de aquéllos de que pueda disponer;
+c) Que el consentimiento sea expreso o tácito y no medie algún vicio del consentimiento.
 
-VIII.- Se contravenga lo dispuesto en una ley penal por impedimento legítimo o insuperable;
+IV. Error de tipo: Se realice la acción o la omisión bajo un error invencible, respecto de alguno de los elementos que integran la descripción legal del delito de que se trate.
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 1999)</small>
+B. Causas de justificación:
 
-IX.- Al momento de realizar el hecho típico, el agente padezca enajenación mental, trastorno mental transitorio, desarrollo intelectual retardado o cualquier otro estado mental, que le impida comprender el carácter ilícito de aquél o de conducirse de acuerdo con esa comprensión, excepto en los casos en que el agente se haya provocado esa incapacidad;
+I. Consentimiento presunto. Se presume que hay consentimiento, cuando el hecho se realiza en circunstancias tales que permitan suponer fundadamente que, de haberse consultado al titular del bien o a quien esté legitimado para consentir, estos hubiesen otorgado el consentimiento;
 
-X.- Se obre bajo error invencible, que no derive de culpa, respecto a alguno de los elementos objetivos esenciales que integran la descripción legal, o por error igualmente invencible, estime el sujeto activo que su conducta es lícita, porque crea que está amparada por una causa de justificación o porque por su extremo retraso cultural y aislamiento social desconozca la existencia de la ley o el alcance de ésta;
+II. Legítima defensa: Se repela una agresión real, actual o inminente y sin derecho, en defensa de bienes jurídicos propios o ajenos, siempre que exista necesidad de la defensa empleada y no medie provocación dolosa suficiente e inmediata por parte del agredido o de su defensor.
 
-XI.- Atentas las circunstancias que concurren en la realización de una conducta antijurídica, no sea racionalmente posible exigir al agente una conducta diversa a la que realizó, en virtud de no haberse podido determinar conforme a derecho; o
+Se presumirá que concurren los requisitos de la legítima defensa, respecto de aquél que cause un daño, a quien a través de la violencia, del escalamiento o por cualquier otro medio trate de penetrar sin derecho, a su hogar o sus dependencias, a los de su familia o los de cualquier persona que tenga el mismo deber de defender o al sitio donde se encuentren bienes jurídicos propios o ajenos de los que tenga la misma obligación; o bien, cuando lo encuentre en alguno de esos lugares, en circunstancias tales que revelen la posibilidad de una agresión;
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 1999)</small>
+III. Estado de necesidad justificante: Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el sujeto, lesionando otro bien de menor valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el sujeto activo no tuviere el deber jurídico de afrontarlo;
 
-XII.- Se produzca un resultado típico por caso fortuito, ejecutando el agente un hecho lícito.
+IV. Cumplimiento de un deber o ejercicio de un derecho: La acción o la omisión se realicen en cumplimiento de un deber jurídico o en ejercicio de un derecho, siempre que exista necesidad racional de la conducta empleada para cumplirlo o ejercerlo.
 
-Las causas que excluyen el delito se investigarán y harán valer de oficio.
+C. Causas de inculpabilidad:
+
+I. Error de prohibición invencible: Se realice la acción o la omisión bajo un error invencible, respecto de la ilicitud de la conducta, ya sea porque el sujeto desconozca la existencia de la ley o el alcance de la misma o porque crea que está justificada su conducta.
+
+II. Estado de necesidad disculpante: Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el sujeto, lesionando otro bien de igual valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el sujeto activo no tuviere el deber jurídico de afrontarlo;
+
+III. Inimputabilidad y acción libre en su causa: Al momento de realizar el hecho típico, el agente no tenga la capacidad de comprender el carácter ilícito de aquél o de conducirse de acuerdo con esa comprensión, en virtud de padecer trastorno mental o desarrollo intelectual retardado, a no ser que el sujeto hubiese provocado su trastorno mental para en ese estado cometer el hecho, en cuyo caso responderá por el resultado típico producido en tal situación. Las acciones libres en su causa culposamente cometidas se resolverán conforme a las reglas generales de los delitos culposos.
+
+Cuando la capacidad a que se refiere el párrafo anterior se encuentre considerablemente disminuida, se estará a lo dispuesto en este código.
+
+IV. Inexigibilidad de otra conducta: En atención a las circunstancias que concurren en la realización de una conducta ilícita, no sea racionalmente exigible al sujeto una conducta diversa a la que realizó, en virtud de no haberse podido conducir conforme a derecho.
 
 ### CAPITULO VII. INIMPUTABLES
 
@@ -681,7 +721,9 @@ VI.- Las que establecen las fracciones II, III y VI del artículo 27 de este Có
 
 VII.- Las que señala el artículo 52 de este Código en lo aplicable a juicio del juez; y
 
-VIII.- Las demás que establezcan las leyes según proceda.
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+VIII.- Las demás que establezcan las leyes según proceda. Las mismas consecuencias jurídicas serán aplicables para los efectos establecidos en el Código Nacional de Procedimientos Penales.
 
 ###### ARTICULO 71.
 
@@ -929,11 +971,11 @@ Cuando este Código prevea la disminución o el aumento de una punibilidad con r
 
 ### CAPITULO II. PUNIBILIDAD DE LOS DELITOS CULPOSOS
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 98.
 
-La punibilidad aplicable para los delitos culposos será la mitad de la asignada por la ley al delito doloso correspondiente; sin embargo, cuando el delito doloso de referencia tenga señalada sanción privativa de libertad, el delito culposo se sancionará con prisión de tres meses a diez años, salvo los casos en que expresamente se haya estipulado punibilidad específica. Los límites de punibilidad privativa de libertad, en ningún caso podrán exceder de la mitad que correspondería al delito si fuere doloso, estándose siempre a lo previsto por el primer párrafo del artículo 28 de este Código.
+La punibilidad aplicable para los delitos culposos será la mitad de la asignada por la ley al delito doloso correspondiente; sin embargo, cuando el delito doloso de referencia tenga señalada pena privativa de libertad, o sea de prisión preventiva oficiosa, el delito culposo se sancionará con prisión de tres meses a ocho años, salvo los casos en que expresamente se haya estipulado punibilidad específica.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
 
@@ -957,21 +999,19 @@ II.- Para el error de prohibición, se aplicará la mitad de la punibilidad prev
 
 ### CAPITULO IV. PUNIBILIDAD EN CASO DE EXCESO
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 101.
 
-Al que se exceda en los casos de legítima defensa, estado de necesidad, obediencia jerárquica, cumplimiento de un deber o ejercicio de un derecho, a que se refieren respectivamente las fracciones III, IV, V y VI del artículo 25 de este Código, se le impondrá una tercera parte de la punibilidad de referencia.
+Al que incurra en exceso en alguna de las causas de justificación se le impondrá sanción correspondiente al error de prohibición vencible, pero quedará subsistente la atribución del hecho a título doloso.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 1999)</small>
 
 ### CAPITULO V. PUNIBILIDAD DE LOS ACTOS PREPARATORIOS Y DE LA TENTATIVA
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
-
 ###### ARTICULO 102.
 
-Los actos preparatorios que manifiesten en forma unívoca el dolo del agente, se sancionarán con una cuarta parte de la punibilidad que debiera imponerse si el delito se hubiera consumado.
+(DEROGADO, P.O. 10 DE NOVIEMBRE DE 2014)
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
 
@@ -981,33 +1021,33 @@ La punibilidad en caso de tentativa, será las dos terceras partes de la que cor
 
 Cuando en caso de tentativa no fuere posible determinar el daño que se pretendió causar, se aplicará de tres meses a cinco años de prisión y multa de 10 a 200 días.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
-
 ###### ARTICULO 104.
 
-En el caso de tentativa de realización imposible a que se refieren los párrafos tercero y cuarto del artículo 14 de este Código, se aplicará una tercera parte de la punibilidad que debiera imponerse si el delito se hubiese podido consumar.
+(DEROGADO, P.O. 10 DE NOVIEMBRE DE 2014)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 1999)</small>
 
 ### CAPITULO VI. PUNIBILIDAD EN CASO DE CONCURSO DE DELITOS, DELITO CONTINUADO, AUTORIA INDETERMINADA Y PANDILLA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTICULO 105.
 
-En caso de concurso ideal o formal, se aplicarán las penas correspondientes al delito que merezca la mayor, las cuales podrán aumentarse hasta en una mitad más del máximo de su duración.
+En caso de concurso ideal, se impondrán las sanciones correspondientes al delito que merezca la mayor penalidad, las cuales podrán aumentarse sin rebasar la mitad del máximo de la duración de las penas correspondientes de los delitos restantes, siempre que las sanciones aplicables sean de la misma naturaleza; cuando sean de diversa naturaleza, podrán imponerse las consecuencias jurídicas señaladas para los restantes delitos.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
 
-En caso de concurso real o material, se sumarán las puniciones impuestas separadamente por cada uno de los delitos.
+En caso de concurso real se impondrá la sanción del delito más grave, la cual podrá aumentarse con las penas que la Ley contempla para cada uno de los delitos restantes.
 
 > <small>(REFORMADO, P.O. 1 DE ABRIL DE 2013)</small>
 
 Cuando en el concurso de delitos referido en el párrafo que antecede, la suma exceda del límite máximo previsto por el artículo 28 de este Código, podrá imponerse punición total hasta por sesenta años de prisión.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 106.
 
-En caso de delito continuado, se aumentará una tercera parte de la punibilidad que corresponda al tipo penal.
+En caso de delito continuado, se aumentará la sanción penal hasta en una mitad de la correspondiente al máximo del delito cometido.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
 
@@ -1059,9 +1099,13 @@ b).- Prescripción de la acción penal;
 
 c).- Prescripción de la potestad de ejecutar las penas y medidas de seguridad y
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2014)</small>
 
-X.- Las demás que prevea expresamente este Código.
+X.- El cumplimiento del criterio de oportunidad, así como el debido cumplimiento de la solución alterna correspondiente; y,
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+XI.- Las demás que se establezcan en la ley.
 
 ### CAPITULO II. CUMPLIMIENTO DE LA PENA O MEDIDA DE SEGURIDAD
 
@@ -3507,7 +3551,7 @@ Se impondrá la misma pena a quien, aún careciendo de la calidad de servidor p�
 
 No se considerará como tortura, las molestias o sufrimientos que sean consecuencia de sanciones legales, inherentes o incidentales a éstas o derivadas de un acto legítimo de autoridad.
 
-EI servidor público que en el ejercicio de sus funciones conozca de un hecho de tortura, está obligado a denunciarlo de inmediato; si no lo hiciere, se le impondrán hasta tres años de prisión y multa de 15 a 60 días y suspensión del cargo hasta por el máximo de la punibilidad señalada. La misma pena se impondrá al Agente del Ministerio Publico que al tener conocimiento o razones fundadas para considerar que existió tortura, no inicie de oficio la indagatoria correspondiente.
+El servidor público que en el ejercicio de sus funciones conozca de un hecho de tortura, está obligado a denunciarlo de inmediato; si no lo hiciere, se le impondrán hasta tres años de prisión y multa de 15 a 60 días y suspensión del cargo hasta por el máximo de la punibilidad señalada. La misma pena se impondrá al Agente del Ministerio Publico que al tener conocimiento o razones fundadas para considerar que existió tortura, no inicie de oficio la indagatoria correspondiente.
 
 No podrá invocarse como causa de justificación en la comisión del delito de tortura, la orden de un superior jerárquico o de cualquier otra autoridad, la existencia de situaciones excepcionales como peligrosidad del indiciado, urgencia en las investigaciones o cualquier otra circunstancia análoga o de emergencia pública.
 
@@ -3519,7 +3563,7 @@ ARTICULO 322 TER.- Comete el delito de desaparición forzada de personas, y se l
 
 Se impondrá la misma punibilidad a quien, aún careciendo de la calidad de servidor público, pero instigado, apoyado o autorizado por éste, explícita o implícitamente, realice o participe en la desaparición forzada de una persona.
 
-EI servidor público que en el ejercicio de sus funciones conozca de un hecho de desaparición forzada de personas o el paradero de la víctima, está obligado a denunciarlo de inmediato; si no lo hiciere, se le impondrán de diez a veinte años de prisión, multa de 100 a 300 días y suspensión del cargo hasta por el máximo de la punibilidad señalada.
+El servidor público que en el ejercicio de sus funciones conozca de un hecho de desaparición forzada de personas o el paradero de la víctima, está obligado a denunciarlo de inmediato; si no lo hiciere, se le impondrán de diez a veinte años de prisión, multa de 100 a 300 días y suspensión del cargo hasta por el máximo de la punibilidad señalada.
 
 Las penas previstas en este artículo, podrán ser disminuidas hasta en una tercera parte, en beneficio de aquel que hubiere participado en la comisión del delito, cuando suministre información que permita esclarecer los hechos, y hasta en una mitad, cuando contribuya a lograr la aparición con vida de la víctima.
 
@@ -4199,13 +4243,13 @@ P.O. 8 DE ABRIL DE 2013.
 
 DECRETO NÚMERO 484, POR EL QUE SE REFORMAN LOS ARTÍCULOS 203 FRACCIONES I, II, III Y IV, ADICIONÁNDOSE LA FRACCIÓN V, 206 FRACCIÓN II, 228 Y LA DENOMINACIÓN DEL CAPÍTULO I DEL TÍTULO DÉCIMO OCTAVO DEL LIBRO SEGUNDO, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO Y SE ADICIONA EL ARTÍCULO 322 TER.
 
-ÚNICO. EI presente Decreto entrará en vigor, al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
 
 P.O. 8 DE ABRIL DE 2013.
 
 DECRETO NÚMERO 485, POR EL QUE SE REFORMA EL ARTÍCULO 322 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO.
 
-PRIMERO.- EI presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Para la implementación de los protocolos de actuación policial y pericial citados en la Ley, la Secretaría de Seguridad Pública del Estado y sus similares en los Municipios y la Procuraduría General de Justicia del Estado, contarán con 180 días hábiles a partir de la entrada en vigencia de este ordenamiento para su expedición.
 
@@ -4220,3 +4264,7 @@ P.O. 3 DE NOVIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entra en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 10 DE NOVIEMBRE DE 2014.
+
+ARTÍCULO PRIMERO Las reformas a la presente Ley entrarán en vigor a partir de las cero horas del día 18 de noviembre de 2014, conforme al Decreto número 208, promulgado por el Titular del Poder ejecutivo del Estado, de fecha 22 de agosto de 2014.
