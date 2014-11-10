@@ -4,7 +4,7 @@ identifier: "HID-ley-de-justicia-para-adolescentes-del-estado-de-hidalgo-51917"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-25"
-last_updated: "2010-09-13"
+last_updated: "2014-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "HID"
 ---
 # LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE HIDALGO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL ALCANCE UNO AL PERIÓDICO OFICIAL DE 12 DE ENERO DE 2015 DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE HIDALGO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 13 DE SEPTIEMBRE DE 2010. EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO UNA VEZ QUE ENTRE EN VIGENCIA EL NUEVO CODIGO PROCESAL PENAL PARA EL ESTADO DE HIDALGO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DE LA LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE HIDALGO, PUBLICADOS EN EL P.O. DE 10 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS 180 DÍAS NATURALES CONTADOS A PARTIR DEL DÍA SIGUIENTE AL DE SU PUBLICACIÓN.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el 25 de septiembre de 2006.
 
@@ -69,13 +71,13 @@ Esta Ley es de orden público e interés general. Tiene como objeto la creación
 
 Son Sujetos de esta Ley:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2010)</small>
 
 I.- Las personas de entre 12 años cumplidos y 18 años no cumplidos de edad, denominados adolescentes, a quienes se atribuya o compruebe la realización de una conducta tipificada como delito en las Leyes Locales, en Leyes Federales o especiales, en materia de competencia concurrente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -95,13 +97,13 @@ II.- Reconocer los derechos y garantías de las personas sujetas al Sistema y ga
 
 III.- Establecer las atribuciones y facultades de las Autoridades, Instituciones y órganos encargados de la aplicación del Sistema;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2010)</small>
 
 IV.- Establecer los procedimientos y mecanismos para determinar la responsabilidad de los adolescentes, por la realización de una conducta tipificada como delito en las Leyes Locales, en Leyes Federales o especiales, en materia de competencia concurrente, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -111,7 +113,7 @@ V.- Regular la ejecución de las medidas aplicables a los adolescentes y adultos
 
 Son principios rectores del Sistema:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -171,13 +173,13 @@ Los derechos y garantías reconocidos en esta Ley, se aplicarán a todos los ado
 
 Esta Ley debe aplicarse e interpretarse de conformidad con los principios rectores del Sistema, la Constitución Política de los. Estados Unidos Mexicanos, los Tratados Internacionales aplicables, las Leyes Federales aplicables, la Constitución Política del Estado de Hidalgo y la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes en el Estado de Hidalgo, siempre en el sentido de maximizar los derechos de los adolescentes y de minimizar los efectos negativos de la aplicación del Sistema.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
 Sólo en lo no previsto por esta Ley, podrán aplicarse supletoriamente el Código Penal y el Código de Procedimientos Penales para el Estado de Hidalgo, así como, en lo conducente lo contenido en Leyes Federales o Especiales, en materia de competencia concurrente, siempre que no se opongan a los principios rectores, protegiendo la integridad de los derechos y garantías de los adolescentes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -343,13 +345,13 @@ XI.- Apelar el sobreseimiento.
 
 Los adolescentes podrán ser responsables por infringir la Ley Penal Estatal, en los casos y términos que se establecen en esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
-La niña o niño menor de 12 años de edad a quien se le atribuya una conducta tipificada como delito en las Leyes Locales, en Leyes Federales o Especiales, en materia de competencia concurrente, queda exento de toda responsabilidad penal, sin perjuicio de las responsabilidades civiles a las que haya lugar. Si los derechos de la persona menor de 12 años a quien se atribuye la comisión del un delito, se encuentran amenazados o vulnerados, la autoridad competente deberá remitir el caso a las instituciones públicas o privadas responsables de la protección de los derechos del niño o de la niña.
+La niña o niño menor de 12 años de edad a quien se le atribuya una conducta tipificada como delito en las Leyes Locales, en Leyes Federales o Especiales, en materia de competencia concurrente, queda exento de toda responsabilidad penal, sin perjuicio de las responsabilidades civiles a las que haya lugar. Si los derechos de la persona menor de 12 años a quien se atribuye la comisión del (sic) un delito, se encuentran amenazados o vulnerados, la autoridad competente deberá remitir el caso a las instituciones públicas o privadas responsables de la protección de los derechos del niño o de la niña.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -409,9 +411,9 @@ La violación de derechos y garantías procesales de los adolescentes es causa d
 
 ### CAPITULO II. POLITICA ESTATAL Y MUNICIPAL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 23.
 
@@ -513,9 +515,9 @@ II.- El Adolescente o adulto joven y su defensor.
 
 La víctima u ofendido, o su representante legal tendrán el carácter de coadyuvante del Ministerio Público a partir de la puesta a disposición, Asimismo, podrán nombrar a persona con cédula profesional de licenciado en derecho, para que se constituya en su asesor jurídico.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 28.
 
@@ -597,9 +599,9 @@ Si las reglas establecidas en los Articulas precedentes son estrictamente observ
 
 ### CAPITULO II. INVESTIGACION Y PUESTA A DISPOSICION
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 41.
 
@@ -607,7 +609,7 @@ La investigación de las conductas tipificadas como delito por las Leyes Locales
 
 Los requisitos de procedibilidad para determinar la calificación de la atribución de la conducta de los adolescentes, serán los previstos por las Leyes aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -627,7 +629,7 @@ Una vez reunido lo anterior, en caso de resultar procedente, formulará la Puest
 
 Por conducta o hecho atribuible se entiende el conjunto de los elementos subjetivos, los objetivos que constituyen la materialidad del hecho que la Ley señala como delito, así como los normativos, en el caso de que la descripción típica lo requiera.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -863,7 +865,7 @@ Artículo 60 TER.- Los plazos de detención preventiva previstos en los Artícul
 
 I.- El proceso esté suspendido a causa de un mandato derivado de un juicio de amparo;
 
-II.- El juicio oral se encuentre suspendido o se aplace su iniciación a petición del adolescente o su defensor, siempre que la suspensión o el aplazamiento no se haya dispuesto por necesidades relacionadas con la adquisici6n de la prueba; o
+II.- El juicio oral se encuentre suspendido o se aplace su iniciación a petición del adolescente o su defensor, siempre que la suspensión o el aplazamiento no se haya dispuesto por necesidades relacionadas con la adquisición de la prueba; o
 
 III.- El proceso deba prolongarse ante gestiones o incidencias evidentemente dilatorias formuladas por el adolescente o sus defensores, según resolución fundada y motivada del juzgador.
 
@@ -977,7 +979,7 @@ Para la individualización de la medida, el Juez de Adolescentes impondrá la de
 
 ###### Artículo 75.
 
-En la audiencia de comunicación de la sentencia, deberán estar presentes el adolescente, su defensa o representante legal, y el Ministerio Público para Adolescentes, así como la víctima u ofendido y su asesor jurídico, la ausencia de éstos últimos no suspenderá la audiencia. Durante la misma, el Juez de Adolescentes comunicará su resolución y proveerá lo necesario para su ejecución. En caso de que la sentencia declare responsable al adolescente, el Juez de Adolescentes, le explicará la medida que ha decidido imponerle, las razones por Ias que ha decidido hacerlo, las características generales de la ejecución de la medida y las consecuencias de su incumplimiento. En especial le prevendrá de la posibilidad de que se agrave la medida. Estas advertencias formarán parte integral de la sentencia.
+En la audiencia de comunicación de la sentencia, deberán estar presentes el adolescente, su defensa o representante legal, y el Ministerio Público para Adolescentes, así como la víctima u ofendido y su asesor jurídico, la ausencia de éstos últimos no suspenderá la audiencia. Durante la misma, el Juez de Adolescentes comunicará su resolución y proveerá lo necesario para su ejecución. En caso de que la sentencia declare responsable al adolescente, el Juez de Adolescentes, le explicará la medida que ha decidido imponerle, las razones por las que ha decidido hacerlo, las características generales de la ejecución de la medida y las consecuencias de su incumplimiento. En especial le prevendrá de la posibilidad de que se agrave la medida. Estas advertencias formarán parte integral de la sentencia.
 
 Una vez realizado el acto de comunicación de la sentencia, se levantará la sesión.
 
@@ -1075,9 +1077,9 @@ No se podrá invocar, dar lectura, ni incorporar como medio de prueba ningún an
 
 #### SECCION II. SUSPENSION DEL PROCEDIMIENTO O PROCESO A PRUEBA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 87.
 
@@ -1177,7 +1179,7 @@ Las medidas de orientación y protección se aplicarán bajo el seguimiento de l
 
 #### SECCION I. APERCIBIMIENTO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -1453,7 +1455,9 @@ En lo posible, el Juez de Adolescentes tendrá en cuenta las obligaciones labora
 
 La duración de esta medida no podrá exceder de cuatro años.
 
-Artículo.134.- En el Programa Personalizado de Ejecución, se establecerán por lo menos los siguientes aspectos:
+###### Artículo 134.
+
+En el Programa Personalizado de Ejecución, se establecerán por lo menos los siguientes aspectos:
 
 I.- El centro de internamiento en donde el adolescente, deberá cumplir con la medida;
 
@@ -1749,7 +1753,7 @@ III.- Obstruyan o no eviten la obstrucción de las funciones de los defensores, 
 
 Las resoluciones judiciales serán recurribles sólo por los medios y en los casos expresamente establecidos, siempre que causen agravio al recurrente.
 
-El derecho de recurrir corresponderá tan sólo a quien le sea expresamente otorgado. Cuando la Ley no distinga entré las diversas partes, el recurso podrá ser interpuesto por cualquiera de ellas.
+El derecho de recurrir corresponderá tan sólo a quien le sea expresamente otorgado. Cuando la Ley no distinga entre las diversas partes, el recurso podrá ser interpuesto por cualquiera de ellas.
 
 En el proceso sólo se admitirán los siguientes recursos, según corresponda:
 
@@ -2049,7 +2053,7 @@ SECRETARIO
 
 DIP. DELFINO QUITERIA ROSAS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 15 DE JUNIO DE 2009.
 
@@ -2072,3 +2076,15 @@ SEGUNDO.- Una vez que entre en vigor la presente Ley, quedará abrogada la Ley d
 TERCERO.- Al entrar en vigor la presente Ley, quedarán derogadas todas las disposiciones legales que se le opongan.
 
 CUARTO.- Los procedimientos iniciados con la Ley anterior, continuarán su trámite con la misma.
+
+P.O. 10 DE NOVIEMBRE DE 2014.
+
+PRIMERO. La presente Ley entrará en vigor a los 180 días naturales contados a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Una vez que entre en vigor la presente Ley, quedará abrogada la Ley de Justicia para Adolescentes del Estado de Hidalgo, publicada en el Periódico Oficial del Estado, el lunes 25 de septiembre de 2006.
+
+TERCERO. Se abroga la Ley de Justicia para Adolescentes del Estado de Hidalgo, publicada en el Periódico Oficial del Estado, el lunes 13 de septiembre de 2010.
+
+CUARTO. Al entrar en vigor la presente Ley, quedarán derogadas todas las disposiciones legales que se le opongan.
+
+QUINTO. Los procedimientos iniciados con la Ley anterior, continuarán su trámite con la misma.
