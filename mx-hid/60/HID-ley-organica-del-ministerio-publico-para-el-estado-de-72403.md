@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-ministerio-publico-para-el-estado-de-72403"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-12-31"
-last_updated: "2009-12-31"
+last_updated: "2014-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "HID"
 ---
 # LEY ORGANICA DEL MINISTERIO PUBLICO PARA EL ESTADO DE HIDALGO
 
-LEY ORGANICA DEL MINISTERIO PUBLICO PARA EL ESTADO DE HIDALGO
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE DICIEMBRE DE 2014 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRARA EN VIGOR AL MOMENTO QUE COBRE VIGENCIA EL SISTEMA PROCESAL PENAL ACUSATORIO.</small>
+LEY ORGÁNICA DEL MINISTERIO PÚBLICO PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL CUARTO TRANSITORIO DE LA LEY ORGÁNICA DEL MINISTERIO PUBLICO DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 10 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDA DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2014 (DEROGADA).
 
 Ley publicada en el Alcance Uno del Periódico Oficial del Estado de Hidalgo, el jueves 31 de diciembre de 2009.
 
@@ -680,3 +682,15 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO.
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE NOVIEMBRE DE 2014.
+
+PRIMERO. Las reformas a la presente Ley entrarán en vigor a partir de las cero horas del día 18 de noviembre de 2014, conforme al Decreto número 208, promulgado por el Titular del Poder Ejecutivo del Estado, de fecha 22 de agosto de 2014.
+
+SEGUNDO. La Procuraduría General de Justicia del Estado de Hidalgo, dentro de los 180 días siguientes a la publicación de este Decreto, desarrollará los lineamientos, protocolos, acuerdos y demás instrumentos necesarios para el debido funcionamiento del Centro Estatal de Protección a Personas y el Centro de Atención Temprana.
+
+TERCERO. La Secretaría de Finanzas y Administración del Gobierno del Estado, tomará las medidas administrativas y financieras pertinentes para alcanzar el objeto de esta Ley, conforme al Presupuesto de Egresos respectivo.
+
+CUARTO. Se derogan todas las disposiciones que se oponga (sic) al contenido del presente Decreto.
