@@ -4,7 +4,7 @@ identifier: "COA-ley-de-ingresos-para-el-estado-de-coahuila-de-zaragoza-para-972
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2013-12-20"
-last_updated: "2013-12-20"
+last_updated: "2014-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE INGRESOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA PARA EL EJERCICIO FISCAL 2014
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 20 de diciembre de 2013.
 
@@ -217,9 +217,11 @@ Se consideran insolventes los deudores o los responsables solidarios cuando no t
 
 Se autoriza a la Secretaría de Finanzas para compensar todo tipo de adeudos, incluyendo sus accesorios que tenga con la Federación, relacionado con las aportaciones y participaciones federales.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 12.
 
-Los ingresos previstos en esta Ley se incrementarán en función de los montos y conceptos de endeudamiento autorizados en los Decretos números 534, 536 y 109 a que se refieren los artículos 6 y 7 de la presente Ley de Ingresos para el ejercicio fiscal 2014.
+Los ingresos previstos en este (sic) Ley se incrementarán en función de los montos y conceptos de endeudamiento autorizados en los Decretos números 534, 536 y 109 a que se refieren los artículos 6 y 7 de la presente Ley de Ingresos para el ejercicio fiscal 2014, así como en función de los montos y conceptos de endeudamiento autorizados en el Decreto número 596, publicado en el Periódico Oficial del Estado No. 81, de fecha 10 de octubre de 2014.
 
 T R A N S I T O R I O S
 
@@ -290,3 +292,27 @@ JESÚS JUAN OCHOA GALINDO
 (RÚBRICA)
 
 > <small>N. DE E. VÉASE TABLA EN EL P.O. DE 20 DE DICIEMBRE DE 2013, PAGINA 24.</small>
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En la Cuenta Pública correspondiente al ejercicio fiscal 2014, el Titular del Poder Ejecutivo informará al Congreso del Estado, los montos conceptos y partidas objeto de modificación en el Presupuesto de Egresos del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Para los efectos de lo autorizado en el presente Decreto, se deroga todo aquello que, conforme a la legislación estatal, se oponga al mismo.
+
+###### ARTÍCULO CUARTO.
+
+Los ingresos derivados del financiamiento autorizado en el Artículo tercero del Decreto número 596, publicado en el Periódico Oficial del Estado N° 81, de fecha 10 de octubre de 2014, que no hayan sido ejercidos durante el ejercicio fiscal 2014, podrán contemplarse en las leyes de ingresos de los posteriores ejercicios fiscales, según corresponda.
+
+###### ARTÍCULO QUINTO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado.
