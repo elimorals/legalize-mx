@@ -4,7 +4,7 @@ identifier: "COA-ley-de-fiscalizacion-superior-para-el-estado-de-coahuila-de-925
 country: "mx"
 rank: "ley"
 publication_date: "2013-02-12"
-last_updated: "2013-11-05"
+last_updated: "2014-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92500&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COA"
 
 LEY DE FISCALIZACIÓN SUPERIOR PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE COAHUILA DE ZARAGOZA , PUBLICADA EN EL P.O. DE 11 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 12 de febrero de 2013.
 
@@ -173,7 +173,7 @@ XI. La imposición de las sanciones correspondientes en los términos de esta le
 
 ###### Artículo 10.
 
-1. Los estados financieros y demás información financiera, contable, programática y presupuestal que emanen de la contabilidad de las entidades, proporcionados a la Auditoría Superior, deberán ser autorizados y firmados por los titulares de dichas entidades o por quien legalmente las representan (sic).
+1. Los estados financieros y demás información financiera, contable, programática y presupuestal que emanen de la contabilidad de las entidades, proporcionados a la Auditoría Superior, deberán ser autorizados y firmados por los titulares de dichas entidades o por quien legalmente las representan.
 
 ###### Artículo 11.
 
@@ -1500,3 +1500,37 @@ P.O. 5 DE NOVIEMBRE DE 2013.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Fiscalización Superior para el Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial del Gobierno del Estado el 12 de febrero de 2013 y sus respectivas reformas; asimismo, se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos administrativos y los asuntos que a la entrada en vigor de la presente ley se encuentren en trámite, continuarán su desarrollo conforme a la ley que se abroga.
+
+Los informes de avance de gestión financiera correspondientes al ejercicio 2014, así como la cuenta pública de dicho ejercicio, serán revisados y fiscalizados de conformidad con las disposiciones establecidas en el presente decreto.
+
+###### ARTÍCULO CUARTO.
+
+El actual Auditor Superior del Estado continuará en funciones hasta en tanto el Congreso designe a quien deba ocupar el cargo.
+
+Para tal efecto, dentro de los treinta días hábiles siguientes a la entrada en vigor del presente decreto, la Comisión llevará a cabo el procedimiento para la designación del Auditor Superior establecido en el artículo 142 del mismo, y el Congreso nombrará a quien deba ocupar el cargo. El actual Auditor Superior podrá participar en dicho procedimiento; en ese caso, deberá comunicarlo y solicitar licencia para separarse del cargo durante el mismo y será suplido por el servidor público que establezca el reglamento interior vigente.
+
+###### ARTÍCULO QUINTO.
+
+La Auditoría Superior deberá emitir un nuevo reglamento interior conforme a las disposiciones de esta ley, en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor de la misma.
+
+###### ARTÍCULO SEXTO.
+
+Las relaciones laborales correspondientes a servidores públicos distintos de los Auditores Especiales, Titulares de Unidad y Directores Generales, tendrán el mismo tratamiento previsto en la Ley de Fiscalización Superior para el Estado de Coahuila de Zaragoza publicada en el Periódico Oficial del Gobierno del Estado el 12 de febrero de 2013, en tanto entren en vigor las disposiciones aplicables al Servicio Fiscalizador de Carrera.
+
+###### ARTÍCULO SÉPTIMO.
+
+Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos a la Ley de Fiscalización Superior para el Estado de Coahuila de Zaragoza, se entenderán hechas a la Ley de Rendición de Cuentas y Fiscalización Superior del Estado de Coahuila de Zaragoza.
