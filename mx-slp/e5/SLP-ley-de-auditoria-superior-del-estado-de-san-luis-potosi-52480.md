@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-auditoria-superior-del-estado-de-san-luis-potosi-52480"
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-30"
-last_updated: "2014-11-08"
+last_updated: "2014-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AUDITORÍA SUPERIOR DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 30 de mayo de 2006.
 
@@ -81,21 +81,29 @@ XII. Unidades de Control Interno: las contralorías o cualquier unidad de contro
 
 La revisión y examen de las cuentas públicas de los entes auditables corresponde al Congreso por conducto de la Auditoria Superior del Estado, la que tiene a su cargo la función de fiscalización superior en los términos de la Constitución Política del Estado y la presente Ley.
 
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 4°.
 
-A falta de disposición expresa en esta Ley, se aplicarán en forma supletoria, en lo conducente y, en lo que no se opongan, la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de San Luis Potosí; la Ley de Presupuesto, Contabilidad y Gasto Público de los Municipios del Estado de San Luis Potosí; el Código Fiscal del Estado de San Luis Potosí; la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí y, en su caso, las normas del derecho común.
+A falta de disposición expresa en esta Ley, se aplicarán en forma supletoria, en lo conducente y, en lo que no se opongan, la Ley General de Contabilidad Gubernamental; la Ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí; la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de San Luis Potosí; la Ley de Presupuesto, Contabilidad y Gasto Público de los Municipios del Estado de San Luis Potosí; el Código Fiscal del Estado de San Luis Potosí; y la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
 
 ## TITULO SEGUNDO. DE LA ORGANIZACION Y FUNCIONAMIENTO DE LA AUDITORIA SUPERIOR DEL ESTADO
 
 ### CAPITULO I. Generalidades
 
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 5°.
 
-La Auditoría Superior del Estado es el órgano del Congreso, con autonomía administrativa, técnica y de gestión, que tiene a su cargo la función de revisión previa y fiscalización de los entes auditables, conforme a lo dispuesto en la presente Ley.
+La Auditoría Superior del Estado es el órgano del Congreso, con autonomía administrativa, técnica, y de gestión, que tiene a su cargo la función de revisión previa, y fiscalización de los entes auditables, conforme a lo dispuesto en el presente Ordenamiento.
+
+Para efectos de esta Ley se entiende por:
+
+I. Autonomía administrativa: la competencia para decidir sobre su organización interna, funcionamiento y resoluciones;
+
+II. Autonomía presupuestal: la competencia para determinar por sí misma su propio presupuesto, integrado por los montos económicos necesarios para cumplir con las atribuciones que tiene constitucionalmente conferidas, y
+
+III. Autonomía de gestión: la competencia para ejecutar libremente su presupuesto con miras a cumplir debidamente con el objeto para el cual fue creada, para que pueda ejercer sus facultades, alcanzar sus objetivos y metas estipulados en las normas que la regulan.
 
 > <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2010)</small>
 
@@ -313,7 +321,9 @@ XXI. Promover ante las autoridades competentes el fincamiento de otras responsab
 
 XXII. Aplicar directamente el procedimiento administrativo de ejecución, para el cobro de las indemnizaciones y sanciones pecuniarias que se impongan en los términos de esta Ley, y que para tal efecto tendrán el carácter de créditos fiscales;
 
-XXIII. Aplicar las sanciones disciplinarias que procedan a los servidores públicos de la Auditoria Superior del Estado en términos de este Ordenamiento, su Reglamento, y la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2014)</small>
+
+XXIII. Determinar las responsabilidades administrativas, e imponer a los servidores públicos de la Auditoría Superior del Estado las sanciones que procedan, en términos de este Ordenamiento, su Reglamento, y la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí;
 
 > <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2009)</small>
 
@@ -519,7 +529,9 @@ VI. Revisar la documentación justificativa y comprobatoria del gasto y del ingr
 
 VII. Administrar el sistema de quejas, denuncias y sugerencias del personal de trabajo de la propia Auditoría Superior, de acuerdo con las normas que dicte el titular;
 
-VIII. Investigar los actos u omisiones de los servidores públicos de la Auditoría Superior del Estado, que puedan constituir responsabilidades administrativas;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2014)</small>
+
+VIII. Investigar los actos u omisiones de los servidores públicos de la Auditoria Superior del Estado, que puedan constituir responsabilidades administrativas; sustanciar los procedimientos respectivos, resolverlos, y hacer del conocimiento del Auditor Superior del Estado el resultado, para que, en su caso, determine las responsabilidades, e imponga las sanciones que correspondan;
 
 IX. Intervenir en todas las licitaciones públicas y concursos que se efectúen para adjudicar los contratos que celebre la Auditoría Superior, para efecto de su valoración;
 
@@ -691,13 +703,13 @@ El alcance de la auditoría puede ser legal, financiero, presupuestal, de desemp
 
 Independientemente del tipo de auditoría que se realice, ésta se hará con base en pruebas selectivas suficientes que permitan valorar debidamente el objeto y materia de la auditoría, y con apego a las normas de auditoría generalmente aceptadas.
 
-> <small>N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA PUBLICADA EN EL P.O. 26 DE OCTUBRE DE 2013, SE OBSERVA QUE EN EL PRESENTE ARTÍCULO DEJARON DE EXISTIR CUATRO FRACCIONES QUE CONTENÍA EL PRIMER PÁRRAFO DESDE TEXTO ORIGINAL</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2014)</small>
+
+###### ARTICULO 38.
+
+Para el contenido e integración de las cuentas públicas, los entes auditables atenderán las disposiciones de, la Ley General de Contabilidad Gubernamental; así como la normatividad emitida por, el Consejo Nacional de Armonización Contable; y por el Consejo de Armonización Contable del Estado de San Luis Potosí.
 
 > <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
-
-###### ARTÍCULO 38.
-
-Para el contenido e integración de las cuentas públicas, los entes auditables atenderán las disposiciones de la Ley General de Contabilidad Gubernamental.
 
 En todo caso, la Auditoría Superior del Estado solicitará la información general que permita el análisis de los resultados, en la que se incluyan los datos económicos.
 
@@ -707,9 +719,9 @@ La Cuenta Pública del Estado que se integra con la información debidamente cla
 
 Además, se rendirá a más tardar el día quince del mes siguiente al periodo de que se trate, un informe de la situación financiera de forma trimestral, conforme lo dispuesto en la presente Ley.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE 2014)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2014)</small>
 
-Las cuentas públicas municipales se entregarán en forma anual al Congreso del Estado y, en sus recesos, a la Diputación Permanente, a más tardar el treinta y uno de enero del año siguiente al de su ejercicio.
+Las cuentas públicas municipales anuales se entregarán al Congreso del Estado y, en sus recesos, a la Diputación Permanente, previa su aprobación por los ayuntamientos respectivos, a más tardar el treinta y uno de enero del año siguiente al de su ejercicio; salvo que se trate del último año del ejercicio de las administraciones municipales pues, en tal caso, las cuentas públicas se presentarán durante la última semana del periodo constitucional de los ayuntamientos, debiendo además señalar domicilio para oír notificaciones una vez que concluya el encargo. El periodo del que hubiera dejado de informarse deberá incluirse en la primera cuenta pública del ayuntamiento entrante.
 
 > <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
 
@@ -1394,3 +1406,9 @@ P.O. 8 DE NOVIEMBRE 2014.
 PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE NOVIEMBRE DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
