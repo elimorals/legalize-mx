@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2014-07-09"
+last_updated: "2014-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -1499,7 +1499,7 @@ Son objeto de este impuesto: Los predios urbanos, suburbanos y rústicos localiz
 
 ###### ARTICULO 105.
 
-Para los efectos de este impuesto se considera:
+- Para los efectos de este impuesto se considera:
 
 I.- Predios:
 
@@ -2299,11 +2299,11 @@ Los Ayuntamientos, para el cumplimiento de sus fines y aprovechamiento de sus re
 
 En consecuencia, en el proceso de formulación del Plan Municipal de Desarrollo se alentará la participación de los diversos grupos sociales, con el propósito de que la población exprese sus opiniones en las etapas de elaboración, actualización y ejecución, así como de los programas que de él se deriven e incluirá las estrategias, objetivos y acciones de largo plazo que permitan el crecimiento ordenado de las zonas urbanas y el desarrollo óptimo de las actividades económicas y productivas prioritarias de la localidad.
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 2004)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 183.
 
-Los Ayuntamientos deberán formular y aprobar los respectivos planes municipales de desarrollo, dentro de los tres meses siguientes a la toma de posesión, considerando en él las acciones a realizar durante el periodo que les corresponda, así como las consideraciones y proyecciones de largo plazo, debiendo remitirse al Congreso y al Ejecutivo para su conocimiento y publicación en el Periódico Oficial del Estado.
+Los Ayuntamientos deberán formular y aprobar los respectivos planes municipales de desarrollo, dentro de los tres meses siguientes a la toma de posesión, considerando en él las acciones a realizar durante el periodo que les corresponda, así como las consideraciones y proyecciones de largo plazo, debiendo remitirse antes de que concluya el cuarto mes de gestión al Congreso y al Ejecutivo para su conocimiento y publicación en el Periódico Oficial del Estado.
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 2004)</small>
 
@@ -2433,7 +2433,9 @@ Las remuneraciones a los integrantes del Comité quedarán a cargo de las depend
 
 (REUBICADO, P.O. 20 DE ABRIL DE 2004)
 
-### CAPITULO V. DE LAS OBLIGACIONES DE LOS AYUNTAMIENTOS
+### CAPITULO V
+
+DE LAS OBLIGACIONES DE LOS AYUNTAMIENTOS.
 
 ###### ARTICULO 199.
 
@@ -4132,3 +4134,9 @@ P.O. 9 DE JULIO DE 2014.
 ###### ARTÍCULO PRIMERO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
