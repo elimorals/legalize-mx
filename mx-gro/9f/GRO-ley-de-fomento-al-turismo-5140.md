@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-fomento-al-turismo-5140"
 country: "mx"
 rank: "ley"
 publication_date: "1987-08-17"
-last_updated: "2004-02-24"
+last_updated: "2014-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5140&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 LEY DE FOMENTO AL TURISMO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO CUARTO DE LA LEY NÚMERO 494 DE FOMENTO Y DESARROLLO TURÍSTICO PARA EL ESTADO Y LOS MUNICIPIOS DE GUERRERO, PUBLICADA EN EL P.O. DE 11 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el lunes 17 de agosto de 1987.
 
@@ -49,7 +51,7 @@ SEXTO.- Que esas deficiencias se explican porque Acapulco, el centro turístico 
 
 SEPTIMO.- Que ese panorama se completa si se considera que la crisis económica iniciada en 1981 ha venido provocando el incremento del turismo carretero, dada la elevación de las tarifas aéreas, con lo que se ejerce presión creciente sobre las principales carreteras de acceso a los destinos turísticos.
 
-OCTAVO.- Es de añadir, por otro lado, que en los últimos lustros han surgido nuevos destinos turísticos en muy distintas regiones del territorio nacional, lo que lleva a que el turismo sea una actividad cada vez más competitiva y, consiguientemente, a que el Estado, los Municipios turísticos, los prestadores de servicios, los trabajadores organizados y la sociedad en su conjunto aunen esfuerzos solidariamente para superar las deficiencias apuntadas, acelerar el desarrollo turístico, balancear las distintas ramas de la economía y las regiones, elevar la ocupación y los niveles salariales, mejorar la calidad urbana y ensanchar el bienestar popular.
+OCTAVO.- Es de añadir, por otro lado, que en los últimos lustros han surgido nuevos destinos turísticos en muy distintas regiones del territorio nacional, lo que lleva a que el turismo sea una actividad cada vez más competitiva y, consiguientemente, a que el Estado, los Municipios turísticos, los prestadores de servicios, los trabajadores organizados y la sociedad en su conjunto unen esfuerzos solidariamente para superar las deficiencias apuntadas, acelerar el desarrollo turístico, balancear las distintas ramas de la economía y las regiones, elevar la ocupación y los niveles salariales, mejorar la calidad urbana y ensanchar el bienestar popular.
 
 NOVENO.- Es en ese marco que la presente Iniciativa encuentra su verdadera significación: se propone que el Gobierno del Estado cuente con un instrumento de fomento al turismo, para que su promoción sea ordenada, sistemática, regulada, planificada y se ajuste a las prioridades para un desarrollo más acelerado, eficiente, equilibrado y justo.
 
@@ -361,7 +363,7 @@ La Promotora Turística de Guerrero cuidará que en los contratos que celebre co
 
 El Consejo de Administración de la Promotora Turística de Guerrero, acordará la aplicación de los remanentes que genere la empresa, para fines de bienestar colectivo y de apoyo al sector social, conforme a lo dispuesto por esta Ley y su Reglamento.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P. O. 14 DE OCTUBRE DE 1988)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P. O. 14 DE OCTUBRE DE 1988)</small>
 
 ### CAPITULO CUARTO. DE LA PARTICIPACION SOCIAL EN MATERIA TURISTICA
 
@@ -405,7 +407,7 @@ Los Consejos Mixtos de Fomento Turístico serán de carácter consultivo y se de
 
 ###### ARTICULO 39.
 
-En los términos de la legislación laboral, el Gobierno del Estado y los grupos de prestadores de servicio (sic) organizados, apoyarán las comisiones de seguridad e higiene así como de capacitación y adiestramiento en el ramo turístico.
+En los términos de la legislación laboral, el Gobierno del Estado y los grupos de prestadores de servicio organizados, apoyarán las comisiones de seguridad e higiene así como de capacitación y adiestramiento en el ramo turístico.
 
 > <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 1988)</small>
 
@@ -425,35 +427,35 @@ El Gobierno del Estado invitará a los prestadores de servicios turísticos a fo
 
 El Gobierno del Estado podrá instituir premios y reconocimientos para honrar y estimular a personas físicas o morales que contribuyan o hayan contribuido de manera sobresaliente al desarrollo turístico.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TURISMO DEL ESTADO DE GUERRERO, P.O. 24 DE FEBRERO DE 2004)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE TURISMO DEL ESTADO DE GUERRERO, P.O. 24 DE FEBRERO DE 2004)</small>
 
 ### CAPITULO QUINTO. DEL FONDO DE CREDITO Y GARANTIA A MICRO-EMPRESAS Y PEQUEÑAS EMPRESAS TURISTICAS
 
 ###### ARTICULO 43.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TURISMO DEL ESTADO DE GUERRERO, P.O. 24 DE FEBRERO DE 2004)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE TURISMO DEL ESTADO DE GUERRERO, P.O. 24 DE FEBRERO DE 2004)
 
 ###### ARTICULO 44.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TURISMO DEL ESTADO DE GUERRERO, P.O. 24 DE FEBRERO DE 2004)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE TURISMO DEL ESTADO DE GUERRERO, P.O. 24 DE FEBRERO DE 2004)
 
 ###### ARTICULO 45.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TURISMO DEL ESTADO DE GUERRERO, P.O. 24 DE FEBRERO DE 2004)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE TURISMO DEL ESTADO DE GUERRERO, P.O. 24 DE FEBRERO DE 2004)
 
 ###### ARTICULO 46.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TURISMO DEL ESTADO DE GUERRERO, P.O. 24 DE FEBRERO DE 2004)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE TURISMO DEL ESTADO DE GUERRERO, P.O. 24 DE FEBRERO DE 2004)
 
 ###### ARTICULO 47.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TURISMO DEL ESTADO DE GUERRERO, P.O. 24 DE FEBRERO DE 2004)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE TURISMO DEL ESTADO DE GUERRERO, P.O. 24 DE FEBRERO DE 2004)
 
 ###### ARTICULO 48.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TURISMO DEL ESTADO DE GUERRERO, P.O. 24 DE FEBRERO DE 2004)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE TURISMO DEL ESTADO DE GUERRERO, P.O. 24 DE FEBRERO DE 2004)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P. O. 15 DE MARZO DE 1991)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P. O. 15 DE MARZO DE 1991)</small>
 
 ### CAPITULO SEXTO. DEL REGIMEN FINANCIERO
 
@@ -531,7 +533,7 @@ El Secretario de Gobierno.
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P. O. 14 DE OCTUBRE DE 1988.
 
@@ -555,7 +557,7 @@ Primero.- La presente Ley entrará en vigor a los treinta días de su publicaci�
 
 Segundo.- Se deroga el Capítulo V de la Ley de Fomento al Turismo de fecha 14 de agosto de 1987, publicada en el Periódico Oficial del Gobierno del Estado de fecha 17 de agosto de 1987.
 
-Tercero.- Se abroga el Decreto por el que se crea el Consejo Consultivo Turístico del Estado de Guerrero, de fecha 23 de marzo del 2000 y publicado el 4 de abril del mismo año 2000, así como el Decreto Modificatorio, publicado ene l Periódico Oficial del Gobierno del Estado del 30 de junio del 2000.
+Tercero.- Se abroga el Decreto por el que se crea el Consejo Consultivo Turístico del Estado de Guerrero, de fecha 23 de marzo del 2000 y publicado el 4 de abril del mismo año 2000, así como el Decreto Modificatorio, publicado en el Periódico Oficial del Gobierno del Estado del 30 de junio del 2000.
 
 Cuarto.- La Secretaría de Fomento Turístico proveerá lo conducente a efecto de que se lleven a cabo las modificaciones al Contrato de Fideicomiso que rige la operación del centro Internacional Acapulco, y además , presida el Comité Técnico del mismo, en un plazo máximo de ciento ochenta días, a partir de que entre en vigor la presente Ley.
 
@@ -564,3 +566,35 @@ Quinto.- Las secretarías de Finanzas y Administración y de Fomento Turístico,
 Sexto.- Cuando alguna unidad administrativa se reubique, conforme a esta Ley, la transferencia se hará incluyendo los recursos materiales y financieros que tales unidades hayan venido usando para la atención de sus asuntos, así como el personal a su servicio, tutelado por la Ley de Trabajo de los Servidores Públicos del Estado de Guerrero Número 248, sin perjuicio de sus derechos adquiridos, con la intervención de la Secretaría de Finanzas y Administración y la Contraloría General del Estado.
 
 Séptimo.- La Secretaría de Fomento Turístico dentro de los noventa días siguientes a la entrada en vigencia de la presente Ley, expediría el Reglamento respectivo.
+
+P.O. 11 DE NOVIEMBRE DE 2014.
+
+PRIMERO. La presente Ley entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Se abroga la Ley Número 137 de Turismo del Estado de Guerrero, publicada el martes 24 de febrero de 2004 en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. En lo que no se opongan a la presente Ley, las disposiciones reglamentarias emitidas con fundamento en la Ley Núm. 137, de Turismo del Estado, mantendrán su vigencia hasta en tanto se expide el Reglamento de esta Ley y el Reglamento Interior de la Secretaría.
+
+CUARTO. Se abrogan la Ley de Fomento al Turismo, publicada en el Periódico Oficial del Gobierno del Estado No. 70, el lunes 17 de agosto de 1987, y el Reglamento Interior de la Promotora Turística de Guerrero, publicado en el Periódico Oficial del Gobierno del Estado No. 28, el martes 5 de abril de 2005; pero mantendrán su vigencia, en lo que no se oponga a la presente ley, hasta en tanto se expiden los nuevos ordenamientos que actualicen y adecuen el objeto, los objetivos y las atribuciones de la Promotora Turística de Guerrero.
+
+QUINTO. La integración y funcionamiento del Consejo a que se refiere el artículo 19 y de los Consejos Municipales contemplados en el artículo 20 de la presente Ley, deberá cumplirse en un plazo no mayor a ciento veinte días naturales a partir de la entrada en vigor de la presente Ley.
+
+SEXTO. Para los efectos de la integración del Consejo, se entenderá por Comisión de Turismo del Congreso del Estado, la prevista en la Ley Orgánica del Poder Legislativo del Estado de Guerrero Número 286, o como en lo futuro se le denomine.
+
+SÉPTIMO. Por esta única ocasión, el Gobernador del Estado emitirá el Programa para el Fomento y Desarrollo Turístico del Estado, en un plazo no mayor a ciento ochenta días naturales, posteriores a la entrada en vigor de la presente Ley.
+
+OCTAVO. Los municipios, dependencias, entidades y organismos vinculados al turismo deberán adecuar a la presente Ley sus disposiciones legales en la materia, dentro de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+NOVENO. Todos los procedimientos, recursos administrativos y demás asuntos relacionados con las materias a que se refiere esta Ley, iniciados con anterioridad a la entrada en vigor del presente Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en el momento de su inicio.
+
+La Secretaría, deberá establecer los mecanismos necesarios para agilizar la inscripción de los prestadores de servicios a los Registros Nacional y Estatal de Turismo y los correspondientes Padrones Estatales de Hoteles y Restaurantes, de Alojamiento Turístico Eventual y de tiempo Compartido y Multipropiedad, con el objeto de que cuenten con todas las facilidades para llevar a cabo los trámites correspondientes.
+
+DÉCIMO. Para la exacta observancia y aplicación de esta Ley, el Gobernador del Estado expedirá el Reglamento de esta Ley, el de la Comisión Intersecretarial de Turismo y el Reglamento Estatal de Imagen Turística, así como la actualización del Reglamento Interno de la Secretaria, en un plazo no mayor de ciento ochenta días naturales.
+
+También deberá realizar y expedir en el mismo plazo, la reforma, actualización y adecuación de los ordenamientos que regulen los Fideicomisos para la Promoción Turística, las Oficinas de Convenciones y Visitantes, la Procuraduría Estatal del Turista, el Comité Técnico de Vigilancia de Tiempo Compartido y la Promotora Turística de Guerrero.
+
+DÉCIMO PRIMERO. Dentro de los noventa días siguientes a la entrada en vigor de la presente Ley, las Secretarías de Finanzas y Administración y de Fomento Turístico, con la participación de la Contraloría General del Estado, harán todo lo necesario para constituir los Fideicomisos para la Promoción Turística de los municipios de Chilpancingo de los Bravo, Iguala de la Independencia, la Unión de Isidoro Montes de Oca, Técpan de Galeana y Coyuca de Benítez.
+
+Con el mismo plazo procederán a elaborar la iniciativa de reformas pertinentes a la Ley de Hacienda del Estado de Guerrero número 428, a fin de agilizar y hacer efectiva la ministración de los recursos que correspondan a los Fideicomisos Municipales para la Promoción Turística, de lo recaudado por concepto del impuesto sobre la prestación de servicios de hospedaje.
+
+DÉCIMO SEGUNDO. Las acciones derivadas de la entrada en vigor de esta Ley, así como las modificaciones a la estructura administrativa de la Secretaría, se realizarán conforme a la disponibilidad presupuestal de la misma.
