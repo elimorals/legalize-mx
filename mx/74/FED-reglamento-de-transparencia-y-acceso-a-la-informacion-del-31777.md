@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-transparencia-y-acceso-a-la-informacion-del-31777
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-12"
-last_updated: "2003-06-12"
+last_updated: "2014-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31777&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2003-06-11"
 ---
 # REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION DEL TRIBUNAL FEDERAL DE CONCILIACION Y ARBITRAJE
 
-REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION DEL TRIBUNAL FEDERAL DE CONCILIACION Y ARBITRAJE
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN DEL TRIBUNAL FEDERAL DE CONCILIACIÓN Y ARBITRAJE, PUBLICADO EN EL D.O.F. DE 29 DE NOVIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN DEL TRIBUNAL FEDERAL DE CONCILIACIÓN Y ARBITRAJE
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE NOVIEMBRE DE 2014.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el jueves 12 de junio de 2003.
 
@@ -57,6 +59,10 @@ Tribunal.- El Tribunal Federal de Conciliación y Arbitraje.
 
 Unidad de Enlace.- La Dirección General de Administración del Tribunal.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 11 DE NOVIEMBRE DE 2014)</small>
+
+Coordinación.- Coordinación de la Unidad de Enlace
+
 ###### Artículo 3.
 
 El presente Reglamento será aplicable tratándose de solicitudes de información que se formulen en términos de la Ley.
@@ -76,6 +82,10 @@ Las Areas Responsables deberán observar lo dispuesto por el artículo 17 de la 
 ###### Artículo 6.
 
 La Unidad de Enlace tendrá las facultades que establece la Ley, con las modalidades que dispone el presente Reglamento y Lineamientos que emita el Pleno.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 11 DE NOVIEMBRE DE 2014)</small>
+
+Las ausencias del Titular de la Unidad de Enlace serán suplidas por el coordinador, quien observará lo dispuesto en el artículo 28 de la Ley Federal de Transparencia y Acceso a la Información Pública en sus términos.
 
 ###### Artículo 7.
 
@@ -216,3 +226,9 @@ TERCERO.- Publíquese el presente Reglamento en el Diario Oficial de la Federaci
 El presente Reglamento fue aprobado por el Pleno del Tribunal Federal de Conciliación y Arbitraje, en Sesión Ordinaria celebrada en la Ciudad de México, Distrito Federal, el día diez de junio de dos mil tres, por Unanimidad de votos de los Magistrados que lo integran.
 
 La Secretaria General de Acuerdos del Tribunal Federal de Conciliación y Arbitraje, Patricia Morales Pinto, CERTIFICA: Que el presente Reglamento de Transparencia y Acceso a la Información del Tribunal Federal de Conciliación y Arbitraje, fue aprobado por el Tribunal en Pleno, en sesión ordinaria del diez de junio de dos mil tres, por unanimidad de diez votos de los señores Magistrados: licenciado Alfredo Farid Barquet Rodríguez, José Arturo Luis Pueblita Pelisio, Eduardo Rafael Cardoso Valdés, Jorge Alberto Hernández Castillón, Rafael Moreno Ballinas, Martha Segovia Cázares, Lorenzo Eduardo Cuevas Ayala, Manuel Felipe Remolina Roqueñí, Mario Emilio Garzón Chapa y José Juan Renato Estrada Zamora.- México, Distrito Federal, a los once días del mes de junio de dos mil tres.- Doy fe.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 11 DE NOVIEMBRE DE 2014.
+
+ÚNICO. Las presentes reformas entrarán en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
