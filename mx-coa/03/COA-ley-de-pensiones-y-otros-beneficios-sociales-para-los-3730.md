@@ -4,7 +4,7 @@ identifier: "COA-ley-de-pensiones-y-otros-beneficios-sociales-para-los-3730"
 country: "mx"
 rank: "ley"
 publication_date: "1993-08-10"
-last_updated: "2014-02-04"
+last_updated: "2014-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3730&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COA"
 
 LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2013.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 4 DE FEBRERO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 10 de agosto de 1993.
 
@@ -81,9 +79,11 @@ VI.- Instituto, el organismo creado por esta Ley, a cuyo cargo se consigna la pr
 
 Las prestaciones que en esta Ley se establecen se otorgarán con cargo a los fondos y reservas que se constituyan con las cuotas y aportaciones que realicen al Instituto los trabajadores, las dependencias y las entidades sujetas a esta Ley.
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTICULO 4°.
 
-Para los efectos del Artículo anterior los trabajadores aportarán al Instituto, una cuota obligatoria del 7% del sueldo básico que disfrute, y las dependencias y entidades aportarán el 10.5% sobre el equivalente al sueldo básico de los trabajadores.
+Para los efectos del Artículo anterior los trabajadores aportarán al Instituto, una cuota obligatoria del 7% del sueldo básico que disfrute, y las dependencias y entidades aportarán el 19.9% sobre el equivalente al sueldo básico de los trabajadores.
 
 ###### ARTICULO 5°.
 
@@ -920,3 +920,23 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan las disposiciones que se opongan a lo previsto en este decreto.
 
 TERCERO.- Los trabajadores que, por causas de trabajo o enfermedad profesional, hayan fallecido o incapacitado a partir del primero de diciembre de 2011 y hasta la entrada en vigor de esta Ley, que no hayan tenido derecho a la pensión correspondiente por no haber cumplido el requisito mínimo de cotizaciones al fondo, accederán a las pensiones establecidas en los Artículos 32 y 33 o 40 y 41, según corresponda, de la presente Ley.
+
+P.O. 12 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto queda sin efectos el Convenio de fecha 17 de octubre de 2011 celebrado entre el Gobierno del Estado de Coahuila y el del Instituto de Pensiones para los Trabajadores al Servicio del Estado de Coahuila de Zaragoza.
+
+###### ARTÍCULO TERCERO.
+
+Los pasivos, que en materia de aportaciones se hubieren generado hasta la entrada en vigor del presente Decreto, serán cubiertos con el incremento del 9.4% sobre el equivalente al sueldo básico de los trabajadores objeto de esta reforma en un plazo de 8 años contados a partir de su entrada en vigor. En este porcentaje se considera un interés de 3.5 por ciento real anual.
+
+Una vez concluido el plazo señalado en el párrafo anterior, dicho incremento se destinará íntegramente al fortalecimiento del fondo del Instituto de Pensiones para los Trabajadores al Servicio del Estado de Coahuila de Zaragoza.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
