@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2014-10-08"
+last_updated: "2014-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2014.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -1433,6 +1433,10 @@ IV. Desde que se realizó el último acto de ejecución o se omitió la conducta
 
 En los casos de concurso, se computarán separadamente los plazos para la prescripción correspondiente a los diversos delitos concurrentes, pero correrán en forma simultánea.
 
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2014)</small>
+
+ARTICULO 100 BIS.- Cuando se trate de delitos contra la libertad y el normal desarrollo psicosexual contenidos en el Título Séptimo de este Código, cometidos en contra de menores de edad, el término de la prescripción de la pretensión punitiva empezará a correr a partir del día en que la víctima alcance su mayoría de edad.
+
 ###### ARTICULO 101.
 
 Cuando para la persecución del delito sea necesario que se dicte sentencia en diverso juicio, no comenzará a correr la prescripción sino hasta que exista la correspondiente ejecutoria. En caso de que para la persecución se requiera otra declaración o resolución de autoridad, las gestiones que se hagan para obtenerla interrumpen la prescripción. Esta comenzará a correr cuando se dicten la declaración o resolución, y adquieran firmeza. Sin embargo, se iniciará el curso de la prescripción cuando transcurran tres años, contados a partir del inicio del procedimiento respectivo, sin que la autoridad emita dicha declaración o resolución, salvo que la ley aplicable a éstas prevenga otro plazo.
@@ -1849,7 +1853,7 @@ V. Efectúe el cambio de moneda nacional por divisas, o el de éstas por moneda 
 
 VI. Intimide a la víctima, a sus familiares o a sus representantes o gestores, durante el secuestro o después de éste, para que no colaboren con las autoridades competentes.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE MARZO DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE MARZO DE 2009)</small>
 
 ### CAPITULO V. AMENAZAS
 
@@ -1981,7 +1985,7 @@ Para los efectos del presente artículo, se entiende que el delito se comete aú
 
 Las sanciones señaladas en el presente artículo se aplicarán independientemente de las que correspondan por la comisión de otros delitos que resulten.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE JULIO DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE JULIO DE 2008)</small>
 
 ### CAPITULO IX. DESAPARICION FORZADA
 
@@ -2211,7 +2215,7 @@ Las autoridades educativas de los centros escolares, las de las instituciones de
 
 ## TITULO OCTAVO. DELITOS CONTRA EL PRESTIGIO
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO III. DESPOJO
 
@@ -2233,7 +2237,7 @@ Las autoridades educativas de los centros escolares, las de las instituciones de
 
 (DEROGADO, P.O. 11 DE DICIEMBRE DE 2008)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO IV. ABUSO DE CONFIANZA
 
@@ -2245,7 +2249,7 @@ Las autoridades educativas de los centros escolares, las de las instituciones de
 
 (DEROGADO, P.O. 11 DE DICIEMBRE DE 2008)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO V. FRAUDE
 
@@ -2741,7 +2745,7 @@ Se extinguirá la pretensión persecutoria o la potestad de ejecutar la sanción
 
 Este delito se perseguirá de oficio si del abandono resultare alguna lesión o la muerte de las personas a quienes se debieron suministrar los recursos, aplicándose en este caso hasta ocho años de prisión.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE JUNIO DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE JUNIO DE 2004)</small>
 
 ### CAPITULO VII. ADULTERIO
 
@@ -2983,7 +2987,7 @@ Si en la comisión de los delitos previstos en el Capítulo I del presente Títu
 
 (DEROGADO, P.O. 9 DE JULIO DE 2008)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE JULIO DE 2008)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE JULIO DE 2008)</small>
 
 ### CAPITULO UNICO. DELITOS CONTRA EL EQUILIBRIO ECOLGICO (SIC) Y LA PROTECCION DEL AMBIENTE
 
@@ -2999,7 +3003,7 @@ Si en la comisión de los delitos previstos en el Capítulo I del presente Títu
 
 (DEROGADO, P.O. 9 DE JULIO DE 2008)
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ## TITULO DECIMO CUARTO. DELITOS CONTRA LA SEGURIDAD Y EL NORMAL FUNCIONAMIENTO DE LOS MEDIOS DE TRANSPORTE Y LAS VIAS DE COMUNICACION
 
@@ -4666,3 +4670,13 @@ P.O. 8 DE OCTUBRE DE 2014.
 PRIMERA.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos señalados en los artículos 44 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 12 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44, 47 y la fracción XVII, inciso a), del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Este Decreto entrará en vigor al día siguiente de la fecha de su publicación en el Periódico Oficial ''Tierra y Libertad", Órgano de difusión del Gobierno del Estado.
