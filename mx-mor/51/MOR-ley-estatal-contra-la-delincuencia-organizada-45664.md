@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-contra-la-delincuencia-organizada-45664"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-20"
-last_updated: "2005-07-20"
+last_updated: "2014-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45664&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MOR"
 
 LEY ESTATAL CONTRA LA DELINCUENCIA ORGANIZADA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2014.
 
-Ley publicada en el Periódico Oficial "Tierra y Libertad" Órgano del Gobierno del Estado Libre y Soberano de Morelos, el 20 de julio de 2005.
+Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 20 de julio de 2005.
 
 Al margen izquierdo un sello con el Escudo del Estado de Morelos que dice: "Tierra y Libertad".- La Tierra Volverá a quienes la trabajan con sus manos:
 
@@ -53,29 +53,29 @@ Que la delincuencia organizada no es un tema novedoso, toda vez que el ser human
 
 Que el Estado de Morelos desde hace mas de 10 años, se ha venido caracterizando por ser un Estado en donde la delincuencia organizada ha encontrado su nicho, delitos como el secuestro, el robo de autos y el narcotráfico nos han colocado en más de una vez en las principales planas de los medios nacionales.
 
-Que frente al grave problema que representa la delincuencia organizada en nuestro Estado, es necesario responder con leyes eficientes que permitan combatirla, por tal motivo, esta iniciativa de ley que hoy se dictamina, esta encaminada a combatir a las organizaciones criminales que tanto lacera a nuestra sociedad, y que tiene como principal objetivo establecer las bases para la investigación, persecución e imposición de las penas por los delitos cometidos por grupos de delincuencia organizada.
+Que frente al grave problema que representa la delincuencia organizada en nuestro Estado, es necesario responder con leyes eficientes que permitan combatirla, por tal motivo, esta iniciativa de ley que hoy se dictamina, está encaminada a combatir a las organizaciones criminales que tanto lacera a nuestra sociedad, y que tiene como principal objetivo establecer las bases para la investigación, persecución e imposición de las penas por los delitos cometidos por grupos de delincuencia organizada.
 
 Que para la elaboración de esta ley se han tomado en cuenta las opiniones de diversos sectores de la sociedad, como lo son: La Procuraduría General de Justicia del Estado de Morelos, la Asociación de Abogados Penalistas del Estado de Morelos así como los grupos más representativos del sector empresarial de nuestro Estado.
 
-Lo anterior dio como resultado que la propuesta original haya sido enriquecida, adicionándose en el artículo 2, los delitos de Operaciones con Recurso de Procedencia Ilícita y Enriquecimiento Ilícito; así mismo y toda vez que en nuestra legislación penal no se contempla como delito el Robo de Menores, se adecuó el término por el delito de Sustracción de Menores, establecido en el Capítulo Segundo del Título X del artículo 203, del Código Penal para el Estado de Morelos, mismo tratamiento se le dio al delito que venia establecido denominado de prostitución infantil el cual se adecua para quedar como lenocinio y trata de personas.
+Lo anterior dio como resultado que la propuesta original haya sido enriquecida, adicionándose en el artículo 2, los delitos de Operaciones con Recurso de Procedencia Ilícita y Enriquecimiento Ilícito; así mismo y toda vez que en nuestra legislación penal no se contempla como delito el Robo de Menores, se adecuó el término por el delito de Sustracción de Menores, establecido en el Capítulo Segundo del Título X del artículo 203, del Código Penal para el Estado de Morelos, mismo tratamiento se le dio al delito que venía establecido denominado de prostitución infantil el cual se adecua para quedar como lenocinio y trata de personas.
 
-En el artículo tercero de la iniciativa original, se adicionó en el párrafo segundo de la fracción tercera, lo relativo al pago de la reparación del daño a las victimas del delito, el cual se realizará con los bienes que hayan sido decomisados al sentenciado por delito de Delincuencia Organizada.
+En el artículo tercero de la iniciativa original, se adicionó en el párrafo segundo de la fracción tercera, lo relativo al pago de la reparación del daño a las víctimas del delito, el cual se realizará con los bienes que hayan sido decomisados al sentenciado por delito de Delincuencia Organizada.
 
 Que con fecha 19 de abril del año en curso fue turnada a la Comisión de Puntos Constitucionales y Legislación, iniciativa de Ley Contra la Delincuencia Organizada presentada por parte del Grupo Parlamentario de la Revolución Democrática, fecha posterior a la primera lectura del dictamen emanado de dicha Comisión.
 
 Considerando que en la iniciativa presentada por el Grupo Parlamentario del Partido de la Revolución Democrática existen elementos importantes que enriquecen esta ley y toda vez que ambas iniciativas pretenden normar la delincuencia organizada, la comisión dictaminadora considera necesario incluir diversos aspectos al proyecto original, así como las observaciones emitidas tanto por el Tribunal Superior de Justicia del Estado y otros sectores de la sociedad por tal motivo, estos aspectos fueron incluidos.
 
-Se ha tomado en consideración aumentar de cinco a diez años el plazo de la hipótesis prevista en el apartado A y B del artículo 3 de este proyecto de ley, toda vez que si se continua considerando el plazo de cinco años se pudiera dar origen a evadirse de la acción de la justicia, para la no aplicación del incremento de la penalidad, o bien participar en la delincuencia organizada.
+Se ha tomado en consideración aumentar de cinco a diez años el plazo de la hipótesis prevista en el apartado A y B del artículo 3 de este proyecto de ley, toda vez que si se continúa considerando el plazo de cinco años se pudiera dar origen a evadirse de la acción de la justicia, para la no aplicación del incremento de la penalidad, o bien participar en la delincuencia organizada.
 
 Como aspectos procesales en la Ley se establece la competencia; el arraigo y cateo, estableciendo para ambas medidas provisionales, un procedimiento más ágil y efectivo para la pronta integración de la indagatoria; confidencialidad de todo el proceso penal, así como las sanciones que se aplicarán a los funcionarios que no cumplan con ésta; la remisión parcial de la pena por colaboración, siempre y cuando los involucrados en la delincuencia organizada no hayan sido sentenciados; se incluye además la protección de testigos, a jueces, peritos, víctimas y demás personas, cuando por su intervención en un procedimiento penal sobre delitos a que se refiere esta ley así lo requiera; debiendo mantener su identidad, y domicilio de las personas protegidas en secreto; se establece como hipótesis la participación de los menores en la delincuencia organizada, dándoles el tratamiento establecido en la Ley del Consejo Tutelar para Menores Infractores del Estado de Morelos, para no vulnerar sus garantías.
 
 En la intervención de comunicaciones privadas, para el caso de no incurrir en un conflicto de competencia, se ha reservado el procedimiento de para otorgar, negar o revocar la intervención de comunicaciones por un Juez Federal, al procedimiento establecido en los ordenamientos federales que correspondan, y no sujetarlo a un procedimiento estatal como originalmente lo establecía el proyecto de Ley Contra la Delincuencia Organizada. Así mismo, cuando los servidores públicos de la entidad, autoricen, ordenen o realicen la intervención de comunicaciones privadas o públicas, sin la autorización judicial correspondiente, o que la realicen en términos distintos de los autorizados, deben ser sancionados con prisión de seis a doce años y, de quinientos a mil días multa, así como con destitución e inhabilitación para desempeñar otro empleo, cargo o comisión públicos, por el doble del plazo de la pena de prisión impuesta.
 
-Concientes de que el quehacer legislativo para normar este tipo de conductas nunca será suficiente; nuestro Estado da hoy el primer paso para continuar con el ataque frontal contra la delincuencia organizada, y comenzar a erradicar este cáncer de nuestra sociedad.
+Concientes (sic) de que el quehacer legislativo para normar este tipo de conductas nunca será suficiente; nuestro Estado da hoy el primer paso para continuar con el ataque frontal contra la delincuencia organizada, y comenzar a erradicar este cáncer de nuestra sociedad.
 
 De igual forma, se establece de manera clara las reglas de la investigación y se integra un procedimiento para solicitar información a las diferentes dependencias gubernamentales del Estado y a cualquier otra dependencia pública, ya sea de nivel Estatal, Federal o Municipal, así como a las personas físicas o jurídicas, que le permitan al investigador o juzgador, allegarse de elementos suficientes para determinar la presunta responsabilidad o no del inculpado.
 
-Se establece un procedimiento para la cumplimentación de las ordenes de cateo, con motivo de la investigación de los delitos de Delincuencia Organizada.
+Se establece un procedimiento para la cumplimentación de las órdenes de cateo, con motivo de la investigación de los delitos de Delincuencia Organizada.
 
 Se establece los lineamientos sobre los cuales se debe llevar a cabo la intervención de comunicaciones. No obstante a que ya se encontraba contemplado en el artículo 59 de nuestro Código Penal, al momento de que se propuso en la iniciativa original, hubo algunas agrupaciones minoritarias que se opusieron tajantemente a la implementación de este recurso legal de la autoridad para allegarse de elementos probatorios.
 
@@ -161,17 +161,21 @@ En todos los casos a que se refiere este artículo, deben decomisarse los objeto
 
 Los plazos para la prescripción de la pretensión punitiva y de la potestad ejecutiva de las penas, y las medidas de seguridad correspondientes, se duplicarán respecto de los delitos a que se refiere el artículo 2 de esta Ley cometidos por miembros de la delincuencia organizada.
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 5.
 
-Son aplicables supletoriamente a esta ley, las disposiciones del Código Penal y las del Código de Procedimientos Penales para el Estado de Morelos, así como las correspondientes a la Ley de Ejecución de Sanciones y Medidas de Seguridad del Estado de Morelos, la Ley Orgánica de la Procuraduría General de Justicia del Estado, la Ley Federal de Delincuencia Organizada y las comprendidas en leyes especiales comunes.
+Son aplicables supletoriamente a esta ley, las disposiciones del Código Penal y las del Código de Procedimientos Penales para el Estado de Morelos, así como las correspondientes a la Ley de Ejecución de Sanciones y Medidas de Seguridad del Estado de Morelos, la Ley Orgánica de la Fiscalía General del Estado de Morelos, la Ley Federal de Delincuencia Organizada y las comprendidas en leyes especiales comunes.
 
 ## Título Segundo.. De la Investigación de la Delincuencia Organizada
 
 ### Capítulo Primero. Reglas Generales de la Investigación
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 6.
 
-Si durante las diligencias de averiguación previa, el Ministerio Público obtuviera indicios suficientes para estimar que los hechos que se investigan pueden estar relacionados con la delincuencia organizada, se turnará el asunto a la Subprocuraduría Especializada para que prosiga las investigaciones.
+Si durante las diligencias de averiguación previa, el Ministerio Público obtuviera indicios suficientes para estimar que los hechos que se investigan pueden estar relacionados con la delincuencia organizada, se turnará el asunto a La Fiscalía Especializada para que prosiga las investigaciones.
 
 ###### ARTÍCULO 7.
 
@@ -195,7 +199,7 @@ El miembro de la delincuencia organizada que preste ayuda eficaz para la investi
 
 I. Cuando no exista averiguación previa en su contra, los elementos de prueba que aporte o se deriven de la averiguación previa iniciada por su colaboración, no serán tomados en cuenta en su contra. Este beneficio sólo podrá otorgarse en una ocasión respecto de la misma persona;
 
-II. Cuando exista una averiguación previa en la que el colaborador este implicado y éste aporte indicios para la consignación de otros miembros de la delincuencia organizada, la pena que le correspondería por los delitos por él cometidos, podrá ser reducida hasta en una mitad a juicio del Juez Penal que conozca de la causa. Este beneficio sólo puede otorgarse en una ocasión a la misma persona y se tramitará de oficio por el Juzgador, por el inculpado o su defensa; y
+II. Cuando exista una averiguación previa en la que el colaborador esté implicado y éste aporte indicios para la consignación de otros miembros de la delincuencia organizada, la pena que le correspondería por los delitos por él cometidos, podrá ser reducida hasta en una mitad a juicio del Juez Penal que conozca de la causa. Este beneficio sólo puede otorgarse en una ocasión a la misma persona y se tramitará de oficio por el Juzgador, por el inculpado o su defensa; y
 
 III. Cuando durante el proceso penal, el indiciado aporte pruebas ciertas, suficientes para sentenciar a otros miembros de la delincuencia organizada con funciones de administración, dirección o supervisión, la pena que le correspondería por los delitos por los que se le juzga, podrá reducirse hasta en una mitad.
 
@@ -205,9 +209,11 @@ No gozarán de estos beneficios aquellas personas que dirijan o coordinen las or
 
 En caso de que existan pruebas distintas a la autoinculpación en contra de quien colabore con el Ministerio Público, a solicitud de éste, se le podrán reducir las penas que le corresponderían hasta en tres quintas partes, siempre y cuando, a criterio del juez, la información que suministre se encuentre corroborada por otros indicios de prueba y sea relevante para la detención y procesamiento de otros miembros de la delincuencia organizada de mayor peligrosidad o jerarquía que el colaborador.
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 12.
 
-La Procuraduría General de Justicia del Estado de Morelos, prestará apoyo y protección suficientes a jueces, peritos, testigos, víctimas y demás personas, cuando por su intervención en un procedimiento penal sobre delitos a que se refiere esta ley así lo requiera. Debiendo mantener su identidad, y domicilio de las personas protegidas en secreto.
+La Fiscalía General del Estado de Morelos, prestará apoyo y protección suficientes a jueces, peritos, testigos, víctimas y demás personas, cuando por su intervención en un procedimiento penal sobre delitos a que se refiere esta ley así lo requiera. Debiendo mantener su identidad, y domicilio de las personas protegidas en secreto.
 
 ### Capítulo Tercero. Solicitud de Información
 
@@ -217,9 +223,13 @@ Cuando el Ministerio Público investigue actividades de miembros de la delincuen
 
 Las autoridades o particulares que fueren requeridos por el Ministerio Público o la Autoridad Judicial, están obligadas a rendir el informe o comparecer ante la autoridad que le requiere dentro del término de veinticuatro horas, cuando haya detenido; y de tres días en los demás casos; contados a partir de la fecha de recepción del oficio o citatorio respectivo.
 
-Incurre en responsabilidad la autoridad o particular que omita acatar el mandato anterior, en términos de lo dispuesto por el artículo 90 de (sic) Código de Procedimientos Penales para el Estado de Morelos y 12 de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Morelos.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2014)</small>
 
-Los requerimientos del Ministerio Público o de la autoridad judicial que se traten de información o documentos certificados relativos al sistema bancario, financiero o fiscal, se harán en el primer caso por conducto del Procurador General de Justicia en la entidad, y en el segundo caso por el Juez competente, mediante oficio dirigido a las autoridades federales correspondientes.
+Incurre en responsabilidad la autoridad o particular que omita acatar el mandato anterior, en términos de lo dispuesto por el artículo 90, de (sic) Código de Procedimientos Penales para el Estado de Morelos y 12, de la Ley Orgánica de la Fiscalía General del Estado de Morelos.
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2014)</small>
+
+Los requerimientos del Ministerio Público o de la Autoridad Judicial que se traten de información o documentos certificados relativos al sistema bancario, financiero o fiscal, se harán en el primer caso por conducto del Fiscal General del Estado de Morelos, y en el segundo caso por el Juez competente, mediante oficio dirigido a las autoridades federales correspondientes.
 
 Los requerimientos deberán realizarse con las formalidades establecidas en el Título Segundo, Capítulo V del Código de Procedimientos Penales para el Estado de Morelos.
 
@@ -287,7 +297,9 @@ En el caso de que la intervención arroje datos de la comisión de otros delitos
 
 Toda actuación del Ministerio Público o de sus auxiliares, hechas en contravención a esta disposición carecerá de valor probatorio.
 
-Cuando de la misma práctica se advierta la necesidad de ampliar a otros sujetos o lugares la intervención, el Procurador General de Justicia del Estado presentará al Juez de Distrito la solicitud respectiva.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2014)</small>
+
+Cuando de la misma práctica se advierta la necesidad de ampliar a otros sujetos o lugares la intervención, el Fiscal General del Estado de Morelos, presentará al Juez de Distrito la solicitud respectiva.
 
 Cuando la intervención tenga como resultado el conocimiento de hechos y datos distintos de los que pretendan probarse conforme a la autorización correspondiente podrá ser utilizado como medio de prueba, siempre que se refieran al propio sujeto de la intervención y se trate de alguno de los delitos referidos en esta ley. Si se refieren a una persona distinta sólo podrán utilizarse, en su caso, en el procedimiento en que se autorizó dicha intervención; de lo contrario, el Ministerio Público iniciará la averiguación previa o lo pondrá en conocimiento de las autoridades competentes, según corresponda.
 
@@ -402,3 +414,11 @@ SERGIO ALBERTO ESTRADA CAJIGAL RAMÍREZ.
 SECRETARIO DE GOBIERNO JESÚS GILES SÁNCHEZ.
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE NOVIEMBRE DE 2014.
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
