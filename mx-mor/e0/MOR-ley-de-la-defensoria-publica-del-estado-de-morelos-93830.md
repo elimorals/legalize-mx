@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-la-defensoria-publica-del-estado-de-morelos-93830"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-03"
-last_updated: "2013-04-03"
+last_updated: "2014-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 3 de abril de 2013.
 
@@ -497,7 +497,9 @@ I. Participar en los cursos de capacitación, actualización y especialización 
 
 II. Sugerir a la Dirección General las medidas que estimen pertinentes para el mejoramiento del Servicio Profesional de Carrera;
 
-III. Percibir prestaciones acordes con las características de sus funciones y niveles de responsabilidad en el desempeño de las mismas, sin que estas puedan ser inferiores a las que corresponden a los Agentes del Ministerio Público de la Procuraduría General de Justicia del Estado de Morelos que les sean equivalentes, atendiendo los tabuladores aprobados;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2014)</small>
+
+III. Percibir prestaciones acordes con las características de sus funciones y niveles de responsabilidad en el desempeño de las mismas, sin que estas puedan ser inferiores a las que corresponden a los Agentes del Ministerio Público de la Fiscalía General del Estado de Morelos que les sean equivalentes, atendiendo los tabuladores aprobados;
 
 IV. Acceder al sistema de estímulos económicos y sociales, cuando su conducta y desempeño así lo ameriten y de acuerdo con las normas aplicables y las disponibilidades presupuestales;
 
@@ -721,9 +723,11 @@ VI. Acatar los términos procedimentales que expida el Instituto.
 
 Cuando el Instituto carezca de peritos propios, solicitará los servicios de especialistas externos.
 
-###### Artículo 52.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2014)</small>
 
-En los asuntos en los que no sea contraparte la Procuraduría General de Justicia del Estado, esta podrá apoyar al Instituto por conducto de la Coordinación de Servicios Periciales.
+###### Articulo 52.
+
+En los asuntos en los que no sea contraparte la Fiscalía General del Estado de Morelos esta podrá apoyar al Instituto por conducto de la Coordinación de Servicios Periciales.
 
 Adicionalmente en todos los asuntos de orden penal y de justicia para adolescentes, el Instituto podrá concertar convenios de colaboración y apoyo pericial con Asociaciones, Colegios de Profesionistas, Universidades y Centros Hospitalarios del Estado y demás instituciones a fin de asistirse para el cumplimiento de los propósitos de la defensa pública.
 
@@ -874,3 +878,11 @@ SECRETARIO DE GOBIERNO
 ING. JORGE VICENTE MESSEGUER GUILLÉN
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
