@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2014-10-08"
+last_updated: "2014-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2014.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -775,7 +775,7 @@ LIBRE DISPOSICIÓN DEL MAYOR DE EDAD. El mayor de edad dispone libremente de su 
 
 ARTÍCULO 64 BIS.- En el Registro de Deudores Alimentarios Morosos se harán las inscripciones a que se refiere el artículo 44 del presente Código. Dicho registro deberá contener:
 
-I. Nombre, apellidos y Clave Única del Registro de de Población del Deudor alimentario moroso;
+I. Nombre, apellidos y Clave Única del Registro de Población del Deudor alimentario moroso;
 
 II.- Nombre del acreedor o acreedores alimentarios;
 
@@ -3685,9 +3685,11 @@ CANCELACIÓN DEL ACTA CUANDO CESE LA INCAPACIDAD, O SE PRESENTE EL AUSENTE O EL 
 
 ### CAPÍTULO IV. DE LA RECTIFICACIÓN Y ACLARACIÓN DE LAS ACTAS DEL REGISTRO CIVIL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 487.
 
-PROCEDIMIENTO DE ACLARACIÓN DE ACTAS DEL REGISTRO CIVIL. La aclaración de actas del Registro Civil procede cuando en el acta existen errores mecanográficos, manuscritos, ortográficos o de reproducción gráfica, que no afecten los datos esenciales de ésta y deberá tramitarse ante las oficialías del registro civil correspondientes de cada municipio o ante el Director del Registro Civil del Estado de Morelos, siendo éste último, quien resolverá la solicitud y remitirá en su caso, copia certificada de la resolución que recaiga a la Oficialía del Registro Civil correspondiente para su debida inscripción.
+PROCEDIMIENTO DE RECTIFICACIÓN DE ACTAS DEL REGISTRO CIVIL. La aclaración de actas del Registro Civil procede cuando en el acta existen errores mecanográficos, manuscritos, ortográficos o de reproducción gráfica, que no afecten la filiación de las personas físicas y deberá tramitarse ante las Oficialías del Registro Civil correspondientes de cada Municipio o ante la unidad responsable del Registro Civil del Poder Ejecutivo Estatal, siendo éste último en ambos casos, quien resolverá la solicitud y remitirá copia certificada de la resolución que recaiga a la Oficialía del Registro Civil correspondiente para su debida inscripción.
 
 En caso contrario, al afectar los datos esenciales será necesaria la rectificación del acta del Registro Civil, para cuyo trámite se requerirá de la intervención del Ministerio Público y se ventilará de acuerdo con lo establecido en los artículos 456 al 461 del Código Procesal Familiar.
 
@@ -6168,3 +6170,9 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para lo
 ###### ARTICULO SEGUNDO.
 
 Este Decreto entrará en vigor al día siguiente de la fecha de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 12 DE NOVIEMBRE DE 2014.
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos a que se refieren los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
