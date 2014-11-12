@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-fomento-y-desarrollo-de-los-derechos-y-cultura-de-84873"
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-18"
-last_updated: "2013-08-21"
+last_updated: "2014-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84873&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE FOMENTO Y DESARROLLO DE LOS DERECHOS Y CULTURA DE LAS COMUNIDADES Y PUEBLOS INDÍGENAS DEL ESTADO DE MORELOS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 18 de enero de 2012.
 
@@ -35,7 +35,7 @@ Que el Congreso del Estado se ha servido enviarme para su promulgación lo sigui
 
 LA QUINCUAGÉSIMA PRIMERA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE LE OTORGA EL ARTÍCULO 40, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL, Y
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O...
 
 Por lo anteriormente expuesto, esta Soberanía ha tenido a bien expedir la siguiente:
 
@@ -119,7 +119,9 @@ VII. Transmitir la conservación, protección y usufructo a las comunidades y pu
 
 VIII. Asegurar que las comunidades y pueblos indígenas gocen de los programas de desarrollo e infraestructura comunitaria, según el Plan Estatal de Desarrollo y los programas que la federación destine para el Estado;
 
-IX. Garantizar a los indígenas en lo individual como en lo colectivo, su pleno acceso a la jurisdicción del Estado, para ello, la Defensoría Pública Estatal y la Procuraduría General de Justicia deberán contar con personal especializado que se encargue de la asesoría, representación legal y defensa de los indígenas que se vean involucrados en los procedimientos judiciales según sus respectivos ámbitos de competencia.
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2014)</small>
+
+IX. Garantizar a los indígenas en lo individual como en lo colectivo, su pleno acceso a la jurisdicción del Estado, para ello, la Defensoría Pública Estatal y la Fiscalía General del Estado, deberán contar con personal especializado que se encargue de la asesoría, representación legal y defensa de los indígenas que se vean involucrados en los procedimientos judiciales según sus respectivos ámbitos de competencia.
 
 ###### Artículo 7.
 
@@ -1048,3 +1050,9 @@ SEGUNDO.- El presente Decreto iniciará su vigencia el día primero de enero del
 TERCERO.- Para el inicio de operaciones del Instituto Estatal de Lenguas Indígenas el Poder Ejecutivo, incluirá las previsiones presupuestales que se requieran en el proyecto de Presupuesto de Egresos del Gobierno del Estado, para el ejercicio del año 2014.
 
 CUARTO.- Se derogan aquellas disposiciones de igual o menor rango que se opongan al contenido del presente Decreto.
+
+P.O. 12 DE NOVIEMBRE DE 2014.
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
