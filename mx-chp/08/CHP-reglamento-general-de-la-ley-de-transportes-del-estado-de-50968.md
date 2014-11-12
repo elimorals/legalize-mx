@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-general-de-la-ley-de-transportes-del-estado-de-50968
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-06-14"
-last_updated: "2006-06-14"
+last_updated: "2014-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "CHP"
 
 REGLAMENTO GENERAL DE LA LEY DE TRANSPORTES DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO DE LA LEY DE TRANSPORTES DEL ESTADO DE CHIAPAS, PUBLICADO EN LA TERCERA SECCIÓN DEL P.O. DE 12 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 14 de junio de 2006.
 
@@ -2312,7 +2314,7 @@ La Coordinación, de conformidad con las facultades que le otorga la Ley y el pr
 
 Para lo relativo a la imposición de las sanciones económicas establecidas en el presente Reglamento, se sujetará a lo dispuesto por el artículo 85, de la Ley y demás ordenamientos legales aplicables.
 
-## Título III (sic). Tabulador de Infracciones
+## Título III. Tabulador de Infracciones
 
 ### Capítulo I. De la Aplicación de las Sanciones a los Vehículos Particulares
 
@@ -2701,3 +2703,19 @@ Artículo Cuarto.- En los procedimientos administrativos que se encuentren en tr
 El Ejecutivo del Estado dispondrá se publique, circule y se le dé el debido cumplimiento.
 
 Pablo Salazar Mendiguchía, Gobernador del Estado.- Rubén F. Velázquez López, Secretario de Gobierno.- Horacio Schroeder Bejarano, Secretario de Seguridad Pública.- Félix Aniceto Orantes Ruiz, Coordinador de Transporte Tránsito y Vialidad.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE NOVIEMBRE DE 2014.
+
+Artículo Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga el Acuerdo por el que se emite el Reglamento General de la Ley de Transportes del Estado de Chiapas, mediante publicación 2652-A-2006, en el Periódico Oficial número 367, de fecha 14 de junio de 2006.
+
+Artículo Tercero.- Se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+Artículo Cuarto.- El Comité Consultivo en materia de Transporte Público, deberá expedir su Reglamento Interno.
+
+Artículo Quinto.- En los procedimientos administrativos que se encuentren en trámite a la fecha en que entre en vigor el presente Reglamento, a excepción de las solicitudes de nuevas concesiones o de regularizaciones, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de este Reglamento, en la inteligencia de que si el interesado omite pronunciarse al respecto dentro de un plazo de quince días, contados a partir de la entrada en vigencia del presente Reglamento, se entenderá tácitamente que ha elegido que la continuación del procedimiento se realice de acuerdo a las disposiciones establecidas en este ordenamiento.
+
+Artículo Sexto.- En cumplimiento de lo dispuesto por el artículo 8° de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Reglamento en el Periódico Oficial.
