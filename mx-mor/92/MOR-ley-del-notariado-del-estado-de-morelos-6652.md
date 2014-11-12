@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-notariado-del-estado-de-morelos-6652"
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-03"
-last_updated: "2014-07-23"
+last_updated: "2014-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL NOTARIADO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el 3 de agosto de 1983.
 
@@ -563,9 +563,9 @@ VIII.- Dejará acreditada la personalidad de quien comparezca en representación
 
 IX.- Compulsará los documentos de que deba hacerse la inserción a la letra, los que, en su caso, agregará al apéndice.
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 1989)</small>
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2014)</small>
 
-X.- Cuando se presenten documentos redactados en idioma extranjero deberán ser traducidos al castellano por un perito oficial de los designados en las listas de peritos que publique el Tribunal Superior de Justicia, o por los peritos que presten sus servicios en la Procuraduría General de Justicia. El documento original o su copia certificada, así como la traducción se agregarán al apéndice del instrumento respectivo.
+X.- Cuando se presenten documentos redactados en idioma extranjero, deberán ser traducidos al castellano por un perito oficial de los designados en las listas de peritos que publique el Tribunal Superior de Justicia, o por los peritos que presten sus servicios en la Fiscalía General del Estado de Morelos. El documento original o su copia certificada, así como la traducción se agregarán al apéndice del instrumento respectivo;
 
 XI.- Al agregar al apéndice cualquier documento, expresará la letra o, en su caso, el número bajo el cual se coloque en el legajo correspondiente.
 
@@ -1143,9 +1143,11 @@ El interventor que fuere designado para actuar en la clausura de un protocolo, h
 
 El Notario que reciba una Notaría por vacancia o por suspensión del Titular, deberá siempre hacerlo por riguroso inventario, con asistencia del interventor a que se refieren los Artículos anteriores. De ese modo con inclusión del inventario, se levantará y firmará Acta por cuadruplicado. Se remitirá un ejemplar a la Secretaría General de Gobierno, otro al Colegio de Notarios del Estado, otro al Notario que reciba y el último al Notario que entregue o a su representante en su caso.
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTICULO 138.
 
-El Notario que se encuentre en cualquiera de las condiciones a que se refieren los tres Artículos anteriores, tiene derecho a asistir a la clausura del protocolo y a la entrega de su respectiva notaría. Si la vacante temporal o definitiva es por causa de delito, asistirá también a la clausura, inventario y entrega el Agente del Ministerio Público que designe el Procurador General de Justicia del Estado.
+El Notario que se encuentre en cualquiera de las condiciones a que se refieren los tres artículos anteriores, tienen derecho a asistir a la clausura del protocolo y a la entrega de su respectiva Notaría. Si la vacante temporal o definitiva es por causa de delito, asistirá también a la clausura, inventario y entrega el Agente del Ministerio Público que designe el Fiscal General del Estado.
 
 ### CAPITULO DECIMO. DEL ARCHIVO GENERAL DE NOTARIAS
 
@@ -1320,3 +1322,9 @@ El Decreto que al efecto se expida, entrara en vigor al día siguiente de su pub
 ###### ARTÍCULO TERCERO.
 
 A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente Decreto.
+
+P.O. 12 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
