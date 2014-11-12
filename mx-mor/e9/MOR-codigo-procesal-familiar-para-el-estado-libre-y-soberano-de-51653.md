@@ -4,7 +4,7 @@ identifier: "MOR-codigo-procesal-familiar-para-el-estado-libre-y-soberano-de-516
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2014-06-11"
+last_updated: "2014-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2014.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -1351,7 +1351,7 @@ IV. En la diligenciación de exhortos no se suscitarán ni promoverán cuestione
 
 V. El juez requerido podrá resolver las cuestiones que se presenten con motivo de la ejecución de los mandamientos del requirente y en la misma forma tendrán facultades para corregir por medio de queja, los actos de los actuarios en los casos precedentes; pero las resoluciones que dicte, nunca afectaran ni modificaran la resolución de que se trata, y
 
-VI. para (sic) la diligenciación de exhortos enviados por tribunales de los Estados, no será necesario la legalización de las firmas de los funcionarios que los expidan.
+VI. para la diligenciación de exhortos enviados por tribunales de los Estados, no será necesario la legalización de las firmas de los funcionarios que los expidan.
 
 ###### ARTÍCULO 126.
 
@@ -1371,7 +1371,7 @@ III. Los exhortos y despachos pueden entregarse a la parte interesada que hubier
 
 OPOSICIONES QUE PUEDEN FORMULARSE ANTE TRIBUNAL EXHORTADO. El juez requerido no podrá oír ni conocer de excepciones cuando fueren opuestas por las partes que litiguen ante el juez requirente. Si al ejecutar la resolución inserta en la requisitoria, se opusiere algún tercero que no hubiere sido oído el juez lo oirá incidentalmente y calificará las excepciones opuestas, conforme a las siguientes reglas:
 
-I. Cuando tercero que no hubiere sido oído por el juez requeriente, poseyera en nombre propio la cosa en que deba ejecutarse la sentencia, no se llevará adelante la ejecución, devolviéndose el exhorto con inserción del auto en que se declare esa resolución, y las constancias en que se haya fundado, y
+I. Cuando tercero que no hubiere sido oído por el juez requeriente (sic), poseyera en nombre propio la cosa en que deba ejecutarse la sentencia, no se llevará adelante la ejecución, devolviéndose el exhorto con inserción del auto en que se declare esa resolución, y las constancias en que se haya fundado, y
 
 II. Si el tercer opositor que se presente ante el juez requerido no probase que posee con título traslativo de dominio la cosa sobre que verse la ejecución a que se refiere la requisitoria se ejecutara el mandamiento y además será condenado a satisfacer las costas, daños y perjuicios a quienes se los hubiere ocasionado.
 
@@ -3755,7 +3755,7 @@ VI. Si una de las partes fallece, el juicio se dará por concluido excepto en lo
 
 VII. El Juez podrá admitir pruebas y alegaciones de las partes, aunque se presenten fuera de plazo.
 
-VIII. La sentencia producirá efectos de cosa juzgada aún en contra de los terceros que no litigaren, excepto respecto (sic) de aquellos que no habiendo sido citados al juicio, pretendan para sí la existencia de la relación paterno filial, y,
+VIII. La sentencia producirá efectos de cosa juzgada aún en contra de los terceros que no litigaren, excepto respecto de aquellos que no habiendo sido citados al juicio, pretendan para sí la existencia de la relación paterno filial, y,
 
 IX. El Tribunal podrá dictar de oficio o a petición de parte, en cualquier estado del juicio, las medidas cautelares que juzgue adecuadas para que no se cause perjuicio a los hijos.
 
@@ -3891,11 +3891,11 @@ III. Los herederos de las personas comprendidas en las dos fracciones anteriores
 
 PROCEDENCIA DE LA RECTIFICACIÓN O MODIFICACIÓN POR SENTENCIA JUDICIAL.- las actas del Estado Civil de las personas podrán ser rectificadas o modificadas mediante resolución judicial
 
-I. Cuando los datos a complementar, aclarar, rectificar o modificar alteren sustancialmente los de las personas de cuyo estado civil se trate;
+I. (DEROGADA, P.O. 12 DE NOVIEMBRE DE 2014)
 
 II. Cuando se trate de asuntos en los que se presuma que se altera o afecte la filiación o parentesco con alguna de las personas que se mencionan en el acta relacionadas con el estado civil de la persona cuya acta se pretende rectificar;
 
-III. La modificación parcial o total del nombre de pila o los apellidos de la persona en su acta de nacimiento;
+III. (DEROGADA, P.O. 12 DE NOVIEMBRE DE 2014)
 
 IV. Todos aquellos que por su naturaleza no pueda conocer la Dirección General del Registro Civil.
 
@@ -3913,25 +3913,37 @@ SENTENCIA SOBRE RECTIFICACIÓN O MODIFICACIÓN DE ACTAS DEL ESTADO CIVIL. El jui
 
 ARTÍCULO 458 BIS.- PROCEDENCIA DE LA RECTIFICACIÓN O MODIFICACIÓN POR RESOLUCIÓN ADMINISTRATIVA. La rectificación o modificación de las actas del Estado Civil de las personas podrán ser rectificadas o modificadas mediante resolución que dicte la Dirección General del Registro Civil en los siguientes casos:
 
-1. Cuando se trate de errores ortográficos, de escritura, mecanográficos o los generados por los medios electrónicos, de cómputo o de sistematización utilizados o cualesquiera que no alteren sustancialmente los datos esenciales del documento original.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2014)</small>
+
+1. Cuando se trate de errores ortográficos, de escritura, mecanográficos o los generados por los medios electrónicos, de cómputo o de sistematización utilizados que no alteren la filiación;
 
 2. Cuando se trate de complementar los datos de las personas relacionadas con el estado civil de la persona cuya acta se pretenda modificar.
 
 3. Cuando se trate de ampliar o reducir el nombre de las personas relacionadas con el estado civil de la persona de cuya acta se trate siempre y cuando no se afecte a terceros.
 
-4. Cuando se trate de modificar mediante una complementación o abreviación de alguno de los nombres de pila de las personas de cuyo acto del estado civil se trate o de aquellas personas en el acta relacionadas.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2014)</small>
+
+4. Cuando se trate de modificar mediante una complementación, abreviación, ampliación o reducción de alguno de los nombres de las personas de cuyo acto del estado civil se trate o de aquellas personas en el acta relacionadas;
 
 5. La complementación o abreviación del nombre de pila de los contrayentes en el acta de matrimonio siempre y cuando se solicite por ambos cónyuges y el expediente de vida de aquel cuyo dato pretende modificarse así lo acredite.
 
-6. Cuando se trate de modificar o rectificar los demás datos de los contrayentes o de las personas que se relacionan con el estado civil de las personas cuya acta pretenda modificarse siempre y cuando los documentos que sirvan de base para acreditar el error u omisión no hayan sido modificados con posterioridad a la celebración del acto civil de que se trate y conste tal situación en el expediente de vida de la persona de cuyo dato pretenda modificarse.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2014)</small>
+
+6. Cuando se trate de modificar o rectificar los demás datos de los contrayentes o de las personas que se relacionan con el estado civil de las personas cuya acta pretenda modificarse, siempre y cuando conste tal situación en el expediente de vida de la persona de cuyo dato pretenda modificarse;
 
 7. Cuando se trate de errores de reproducción gráfica que se desprendan notoriamente del expediente de vida de las personas de cuyo acto del estado civil se trate o el de las personas relacionadas en el acta.
 
-8. Cuando por error mecanográfico o de redacción se haya impuesto de manera incorrecta el sexo de la persona de cuyo estado civil se trate, siempre y cuando por la lógica se desprenda que el nombre corresponde a uno u otro sexo, que el expediente de vida acredite el sexo que se pretende y que un médico certifique tal situación.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2014)</small>
 
-9. Cuando se trate de modificar el mes de nacimiento de la persona de cuyo estado civil se trate, siempre y cuando se acredite con el expediente de vida y lo permita el orden lógico seguido en los libros de registro.
+8. Cuando por error mecanográfico o de redacción se haya omitido o asentado de manera incorrecta el sexo de la persona de cuyo estado civil se trate, siempre y cuando el expediente de vida lo acredite, que un médico con cédula profesional certifique tal situación y que el nombre concuerde con el sexo que se pretende asentar.
 
-10. La complementación o aclaración de los datos insertos en un acta de defunción siempre y cuando se acrediten con el expediente de vida de la persona cuya defunción fue asentada y mediante escrito aclaratorio bajo protesta de decir verdad de la persona que proporcionó los datos con los que fueron llenados tanto el certificado de defunción como el acta misma.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2014)</small>
+
+9. Cuando se trate de modificar la fecha de nacimiento de la persona de cuyo estado civil se trate, siempre y cuando se acredite con el expediente de vida y lo permita el orden lógico seguido en los libros de registro, y
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2014)</small>
+
+10. La complementación o aclaración de los datos insertos en un acta de defunción siempre y cuando se acrediten con el expediente de vida de la persona cuya defunción fue asentada.
 
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2007)</small>
 
@@ -4429,7 +4441,7 @@ I. Diagnóstico de la enfermedad;
 
 II. Pronóstico de la misma;
 
-III. Manifestaciones (sic) características del estado actual del incapacitado; y,
+III. Manifestaciones características del estado actual del incapacitado; y,
 
 IV. Tratamiento conveniente para asegurar la condición futura del incapaz.
 
@@ -6842,3 +6854,9 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 12 DE NOVIEMBRE DE 2014.
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos a que se refieren los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
