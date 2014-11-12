@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-turismo-94490"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-05-30"
-last_updated: "2014-08-20"
+last_updated: "2014-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el jueves 30 de mayo de 2013.
 
@@ -319,9 +319,17 @@ XXII. Coordinar la atención de los tres órdenes de gobierno, con motivo de reu
 
 XXIII. Coordinar la participación de la Secretaría en ferias, exposiciones y eventos que se celebren en materia de turismo;
 
-XXIV. Promover los atractivos que como destino turístico cuenta el Estado, a través de las distintas instancias gubernamentales e internacionales, y
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2014)</small>
 
-XXV. Coordinar las actividades del Consejo Estatal de Turismo.
+XXIV. Promover los atractivos que como destino turístico cuenta el Estado, a través de las distintas Instancias Gubernamentales e Internacionales;
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2014)</small>
+
+XXV. Coordinar las actividades del Consejo Estatal de Turismo, y
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2014)</small>
+
+XXVI. Coordinar y gestionar Programas de Profesionalización y Capacitación Turística en Comunidades Indígenas a fin de preservar su identidad y garantizar su desarrollo.
 
 ### CAPÍTULO IV. DE LAS DIRECCIONES GENERALES
 
@@ -493,13 +501,17 @@ X. Fomentar las actividades emprendedoras a través de procesos de incubación d
 
 XI. Proponer a las autoridades competentes, nuevos lineamientos o regulaciones que permitan elevar la calidad de las empresas turísticas;
 
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2014)</small>
 
-XII. Emitir, ante las autoridades competentes, opinión técnica sobre la solicitud de instituciones de enseñanza turística para obtener el reconocimiento de validez oficial de estudios, de conformidad con las disposiciones legales aplicables, y
+XII. Emitir, ante las autoridades competentes, opinión técnica sobre la solicitud de Instituciones de enseñanza Turística para obtener el reconocimiento de validez oficial de estudios, de conformidad con las disposiciones legales aplicables;
 
-> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2014)</small>
 
-XIII. Observar que los proyectos de turismo de naturaleza, cumplan con los criterios que para tal efecto determina la Ley de Turismo del Estado de Morelos.
+XIII. Observar que los Proyectos de Turismo de naturaleza, cumplan con los criterios que para tal efecto determina la Ley de Turismo del Estado de Morelos, y
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2014)</small>
+
+XIV. Desarrollar Programas de Profesionalización y Capacitación Turística a Comunidades Indígenas enfocados a la preservación de su identidad y a fin de garantizar su desarrollo.
 
 ###### Artículo 20.
 
@@ -638,3 +650,11 @@ PRIMERA. El presente Decreto iniciará su vigencia al día siguiente de su publi
 SEGUNDA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que contravengan lo establecido en el presente Decreto.
 
 TERCERA. La Secretaría de Turismo del Poder Ejecutivo Estatal tendrá un plazo de noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, para emitir o realizar las actualizaciones a sus Manuales de Organización, y de Políticas y Procedimientos; en tanto sean actualizados, serán aplicables los que se encuentren vigentes en lo que no resulte contrario al presente Decreto. La persona titular de la Secretaría resolverá las cuestiones de interpretación, procedimiento y operación que se originen por la aplicación del presente Decreto.
+
+P.O. 12 DE NOVIEMBRE DE 2014.
+
+PRIMERA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que contravengan lo establecido en el presente Decreto.
+
+TERCERA. La Secretaría de Turismo del Poder Ejecutivo Estatal, tendrá un plazo de noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, para emitir o realizar las actualizaciones a sus Manuales de Organización, y de Políticas y Procedimientos; en tanto sean actualizados, serán aplicables los que se encuentren vigentes en lo que no resulte contrario al presente Decreto. La persona Titular de la Secretaría de Turismo del Poder Ejecutivo Estatal resolverá las cuestiones de interpretación, procedimiento y operación que se originen por la aplicación del presente Decreto.
