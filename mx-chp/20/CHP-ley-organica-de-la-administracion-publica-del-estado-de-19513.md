@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-administracion-publica-del-estado-de-19513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-08"
-last_updated: "2014-09-12"
+last_updated: "2014-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el viernes 8 de diciembre de 2000.
 
@@ -1399,13 +1399,13 @@ II. FOMENTAR LA PROTECCION, RESTAURACION, ASI COMO LA EJECUCION DE PROGRAMAS DE 
 
 III. PROMOVER LA CREACION, Y EN SU CASO ADMINISTRAR U OPERAR POR SI O A TRAVES DE SUS ORGANOS PARQUES, RESERVAS, CORREDORES BIOLOGICOS Y AREAS NATURALES QUE ASEGUREN LA PERMANENCIA DE LAS REGIONES PRIORITARIAS PARA LA CONSERVACION DE LA FLORA Y FAUNA, ASI COMO LA PRODUCCION DE BIENES Y SERVICIOS AMBIENTALES EN BENEFICIO DE LA SOCIEDAD.
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2014)</small>
 
-IV. PROGRAMAR Y COORDINARSE CON LAS INSTANCIAS FEDERALES, ESTATALES Y MUNICIPALES, EN LA REALIZACION DE ACCIONES ORIENTADAS A PREVENIR, RESTAURAR EL DAÑO Y EVITAR LA DESTRUCCION DE LOS RECURSOS NATURALES Y EL MEDIO AMBIENTE DEL ESTADO, ASI COMO COADYUVAR CON ESTAS EN LA VIGILANCIA Y CUMPLIMIENTO DE LAS LEYES SOBRE LA MATERIA.
+IV. PROGRAMAR Y COORDINARSE CON LAS INSTANCIAS FEDERALES, ESTATALES Y MUNICIPALES, EN LA REALIZACION DE ACCIONES ORIENTADAS A PREVENIR, RESTAURAR EL DAÑO Y EVITAR LA DESTRUCCION DE LOS RECURSOS NATURALES Y EL MEDIO AMBIENTE DEL ESTADO, ASI COMO COADYUVAR CON ESTAS, A TRAVES DEL ORGANO DESCONCENTRADO CORRESPONDIENTE, EN LA VIGILANCIA Y CUMPLIMIENTO DE LAS LEYES SOBRE LA MATERIA.
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2014)</small>
 
-V. REALIZAR LOS ACTOS JURIDICOS RELACIONADOS CON LA PROTECCION AL MEDIO AMBIENTE, REPRESENTANDO AL ESTADO ANTE LAS INSTANCIAS COMPETENTES, PARA DENUNCIAR LOS HECHOS SANCIONADOS COMO DELITOS A NIVEL ESTATAL, ASI COMO EJERCER LAS ACCIONES NECESARIAS ANTE LAS AUTORIDADES ADMINISTRATIVAS Y JUDICIALES, PARA LOGRAR UNA EFICAZ IMPARTICION DE JUSTICIA AMBIENTAL EN EL AMBITO LOCAL, ADEMAS DE EJERCER LOS ACTOS DE AUTORIDAD EN MATERIA DE INSPECCION Y VIGILANCIA EN RECURSOS NATURALES Y MEDIO AMBIENTE EN LA ENTIDAD.
+V. EJECUTAR A TRAVES DEL ORGANO DESCONCENTRADO CORRESPONDIENTE, LOS ACTOS JURIDICOS RELACIONADOS CON LA PROTECCION AL MEDIO AMBIENTE, REPRESENTANDO AL ESTADO ANTE LAS INSTANCIAS COMPETENTES, PARA DENUNCIAR LOS HECHOS SANCIONADOS COMO DELITOS A NIVEL ESTATAL, ASI COMO EJERCER LAS ACCIONES NECESARIAS ANTE LAS AUTORIDADES ADMINISTRATIVAS Y JUDICIALES, PARA LOGRAR UNA EFICAZ IMPARTICION DE JUSTICIA AMBIENTAL EN EL AMBITO LOCAL, ADEMAS DE EJERCER LOS ACTOS DE AUTORIDAD EN MATERIA DE INSPECCION Y VIGILANCIA EN RECURSOS NATURALES Y MEDIO AMBIENTE EN LA ENTIDAD.
 
 > <small>(REFORMADA, P.O. 15 DE MAYO DE 2010)</small>
 
@@ -1475,9 +1475,11 @@ XXII. ELABORAR, PROPONER Y DIFUNDIR TECNOLOGIAS VINCULADAS AL USO Y APROVECHAMIE
 
 XXIII. PROMOVER LA ELABORACION Y REALIZACION POR SI O A TRAVES DE SUS ORGANOS, DE PROGRAMAS DE RESTAURACION ECOLOGICA CON ESPECIES EN CAUTIVERIO DE FLORA Y FAUNA NATIVAS CON ALGUNA CATEGORIA DE PROTECCION, EN AREAS NATURALES PROTEGIDAS, CORREDORES BIOLOGICOS Y AREAS PRIORITARIAS PARA CONSERVACION, CON LA COLABORACION DE LAS AUTORIDADES FEDERALES, ESTATALES Y MUNICIPALES, ORGANIZACIONES CIVILES Y NO GUBERNAMENTALES.
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2014)</small>
 
-XXIV. ASEGURAR EL EJERCICIO LEGAL DE LAS CONCESIONES MINERAS EN LA ENTIDAD, OTORGADAS A NIVEL FEDERAL, PROMOVIENDO EL CUMPLIMIENTO DE LA LEGISLACION EN LA MATERIA; ASI TAMBIEN EL RECICLAMIENTO DE ZONAS DE EXPLOTACION MINERA NO OPERANTES MEDIANTE LA RECUPERACION AMBIENTAL Y SOCIAL DE ESAS AREAS.
+XXIV.- ASEGURAR EL EJERCICIO LEGAL DE LAS CONCESIONES MINERAS EN LA ENTIDAD, OTORGADAS A NIVEL FEDERAL, PROMOVIENDO A TRAVES DEL ORGANO DESCONCENTRADO CORRESPONDIENTE, EL CUMPLIMIENTO DE LA LEGISLACION EN LA MATERIA.
+
+ASI TAMBIEN, ASEGURAR EL RECICLAMIENTO DE ZONAS DE EXPLOTACION MINERA NO OPERANTES MEDIANTE LA RECUPERACION AMBIENTAL Y SOCIAL DE ESAS AREAS.
 
 > <small>(REFORMADA, P.O. 15 DE MAYO DE 2010)</small>
 
@@ -3436,3 +3438,21 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 
 Artículo Tercero.- Los recursos humanos, materiales y financieros, que a la entrada en vigor del presente Decreto, se encuentren asignados a la Oficina del Director General del Instituto de Protección Civil para el Manejo Integral de Riesgos de Desastres del Estado de Chiapas, serán transferidos de inmediato a la Secretaría de Protección Civil.
+
+P.O. 12 DE NOVIEMBRE DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Las Dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia a las disposiciones aplicables.
+
+Artículo Cuarto.- Los recursos humanos, materiales y financieros, que a la entrada en vigor del presente Decreto, se encuentran asignados a los órganos administrativos de la Secretaría de Medio Ambiente e Historia Natural, que tengan atribuciones en materia de actos de inspección y vigilancia, imposición y ejecución de medidas de seguridad, determinación de infracciones, imposición de sanciones, atención y seguimiento de las denuncias que pudieran constituir delitos contra los recursos naturales, forestales y el medio ambiente en el Estado, serán transferidos de inmediato al Órgano Desconcentrado que para tal efecto se cree.
+
+Tratándose de los recursos financieros señalados en el párrafo anterior, la Secretaría de Hacienda del Estado, llevará a cabo lo conducente para que la transferencia de dichos recursos se realice oportunamente.
+
+Artículo Quinto.- Las atribuciones y referencias que en relación a actos de inspección y vigilancia, imposición y ejecución de medidas de seguridad, determinación de infracciones, imposición de sanciones, atención y seguimiento de las denuncias que pudieran constituir delitos contra los recursos naturales, forestales y el medio ambiente en el Estado, hagan las leyes, decretos, reglamentos y demás normatividad aplicable, se entenderán conferidas al Órgano Desconcentrado que para tal efecto se cree.
+
+Artículo Sexto.- Los compromisos y procedimientos que en materia de actos de inspección y vigilancia, imposición y ejecución de medidas de seguridad, determinación de infracciones, imposición de sanciones, atención y seguimiento de las denuncias que pudieran constituir delitos contra los recursos naturales, forestales y el medio ambiente en el Estado, que a la entrada en vigor del presente Decreto, hubiere contraído la Secretaría de Medio Ambiente e Historia Natural, serán asumidos inmediatamente por el Órgano Desconcentrado que para tal efecto se cree.
+
+Artículo Séptimo.- La Secretaría de Medio Ambiente e Historia Natural, deberá someter a consideración del Ejecutivo del Estado, en un plazo no mayor a noventa días naturales, contados a partir de la publicación del presente Decreto, las adecuaciones necesarias a la normatividad vigente, para armonizar la legislación estatal en la materia.
