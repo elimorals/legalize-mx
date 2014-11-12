@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-instituto-de-verificacion-75465"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-07-01"
-last_updated: "2011-08-09"
+last_updated: "2014-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75465&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2010-06-22"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO DE VERIFICACION ADMINISTRATIVA DEL DISTRITO FEDERAL
 
-ESTATUTO ORGANICO DEL INSTITUTO DE VERIFICACION ADMINISTRATIVA DEL DISTRITO FEDERAL, ORGANISMO PUBLICO DESCENTRALIZADO
+ESTATUTO ORGÁNICO DEL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL DISTRITO FEDERAL, ORGANISMO PÚBLICO DESCENTRALIZADO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 12 DE NOVIEMBRE DE 2014.
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el jueves 1 de julio de 2010.
 
@@ -89,6 +89,10 @@ b) Un órgano ejecutivo que es la Dirección General;
 c) Una Contraloría Interna, y
 
 d) Un servidor público en funciones de Comisario Público.
+
+> <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2014)</small>
+
+e) Un Coordinador General de Control, Verificación y Evaluación
 
 II. Para el despacho de las atribuciones y facultades el Instituto contará con las siguientes unidades administrativas:
 
@@ -184,11 +188,15 @@ c) En calidad de invitados permanentes participarán los Jefes Delegacionales de
 
 d) Dos contralores ciudadanos que al efecto designe la Contraloría General, quienes por disposición de la Ley de Participación Ciudadana del Distrito Federal, tendrán derecho de voz y voto.
 
+> <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2014)</small>
+
+e) El Coordinador General de Control, Verificación y Evaluación tendrá carácter de invitado permanente, con derecho a voz pero no a voto.
+
 > <small>(REFORMADO, G.O. 9 DE AGOSTO DE 2011)</small>
 
 Cada titular de dependencia podrá designar un suplente, con nivel mínimo de Director. Cuando algún Consejero Ciudadano deje de asistir a dos sesiones consecutivas, dejará de desempeñar su cargo de manera definitiva y se llamará al respectivo suplente.
 
-> <small>(DEROGADO ULTIMO PARRAFO, G.O. 9 DE AGOSTO DE 2011)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 9 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 14.
 
@@ -270,7 +278,7 @@ VIII. Firmar las actas de las sesiones; y
 
 IX. Las demás que señalen otras disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 21.
 
@@ -316,9 +324,17 @@ VIII. Emitir copias certificadas de los documentos que integran los expedientes 
 
 IX. Expedir instrumentos normativos internos para el mejor despacho de las funciones y objetivos del instituto;
 
-X. Coordinar el área de transparencia, y
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2014)</small>
 
-XI. Las que señalen otras disposiciones jurídicas y administrativas aplicables.
+X. Coordinar el área de transparencia;
+
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2014)</small>
+
+XI. Canalizar los reportes o solicitudes que por escrito presenten los ciudadanos respecto de las visitas o de cualquier otro asunto competencia del Instituto; y
+
+> <small>(ADICIONADA, G.O. 12 DE NOVIEMBRE DE 2014)</small>
+
+XII. Las que señalen otras disposiciones jurídicas y administrativas aplicables.
 
 ###### Artículo 23.
 
@@ -328,7 +344,65 @@ El Director General podrá delegar cualquiera de sus facultades en otros servido
 
 El Secretario Ejecutivo será designado por el Consejo General a propuesta de su Presidente y sus atribuciones serán las que señalen los ordenamientos jurídicos y administrativos aplicables y las que le asigne el Consejo General.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE AGOSTO DE 2011)</small>
+> <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 24 Bis.
+
+El Coordinador General de Control, Verificación y Evaluación tendrá las atribuciones señaladas en el artículo 19 Quater de la Ley, para el ejercicio de tales atribuciones será auxiliado por la Dirección de Planeación, Evaluación y Mejora y la Dirección de Normatividad, Verificación y Cumplimiento.
+
+> <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 24 Ter.
+
+Corresponde a la Dirección de Planeación, Evaluación y Mejora, lo siguiente:
+
+I. Diseñar y aplicar indicadores para evaluar el desempeño del personal y en general del Instituto, así como la observancia del programa de trabajo;
+
+II. Llevar a cabo programas preventivos tendientes a verificar el cumplimiento de las obligaciones a cargo de los servidores públicos que forman parte del Instituto, garantizando la mejora continua en los procesos;
+
+III. Dar seguimiento a las acciones que se implementen en las diversas áreas del Instituto para la mejora en sus procesos, a fin de apoyarlas en el cumplimiento de sus objetivos estratégicos;
+
+IV. Efectuar la evaluación de riesgos que puedan obstaculizar el cumplimiento de las metas y objetivos del instituto;
+
+V. Proponer al Coordinador General, acciones, programas y proyectos, encaminados al desarrollo, modernización y mejora de la gestión pública dentro del Instituto;
+
+VI. Proponer al Coordinador General las intervenciones que en materia de evaluación, verificación preventiva y de control se deben integrar al programa anual de trabajo;
+
+VII. Establecer acciones preventivas y de transformación Institucional a partir de los resultados de las distintas evaluaciones a los modelos, programas y de estrategias establecidas en el Instituto;
+
+VIII. Solicitar cualquier tipo de documentación, información o datos estadísticos que le permitan determinar los indicadores de gestión e impacto del Instituto, así como aquella que le sea necesaria para el ejercicio de sus funciones;
+
+IX. Verificar el correcto desarrollo del proceso de selección de personal del Instituto, en su ingreso, permanencia y evaluación, de conformidad con los instrumentos, las disposiciones jurídicas y administrativas aplicables;
+
+X. Proponer los lineamientos con un enfoque preventivo, analizar y mejorar los registros que al efecto se requiera;
+
+XI. Las demás que le atribuya la ley.
+
+> <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 24 Quater.
+
+Corresponde a la Dirección de Normatividad, Verificación y Cumplimiento:
+
+I. Realizar propuestas de creación de los instrumentos normativos internos, así como de iniciativas de reforma, adición o modificación al Estatuto Orgánico para su análisis, discusión y en su caso aprobación;
+
+II. Verificar el correcto cumplimiento de los instrumentos normativos internos;
+
+III. Promover y fomentar dentro del Instituto el establecimiento de pronunciamientos de carácter ético, así como de programas orientados a la transparencia y el combate a la corrupción;
+
+IV. Proponer al Coordinador General, la remoción de los servidores públicos que integren el Instituto;
+
+V. Verificar la aplicación de los programas de modernización, simplificación, desarrollo y mejoramiento administrativo del Instituto;
+
+VI. Instrumentar y coordinar de manera trimestral y anualmente un programa de inspección de la actividad del Personal Especializado asignado a las Delegaciones y al Instituto, en el ámbito de su competencia;
+
+VII. Las demás que le atribuya la ley.
+
+> <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 24 Quintus.- Para el ejercicio de sus atribuciones, el Coordinador General de Control, Verificación y Evaluación, deberá coordinarse con el Consejero Presidente para la solicitud de informes y documentación existentes en las unidades administrativas del Instituto, así como para solicitar o proponer asuntos cuyo conocimiento y atención corresponda al Consejo General del Instituto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 25.
 
@@ -430,7 +504,13 @@ V. Vigilar que los mecanismos implementados para llevar el control y registro de
 
 VI. Expedir copias certificadas de los documentos que obren en los expedientes de su unidad administrativa;
 
-VII. Las demás que le atribuya la ley y otros ordenamientos aplicables y todas aquellas que permitan el debido ejercicio de las atribuciones a su cargo.
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2014)</small>
+
+VII. Informar a las Secretarias de: Movilidad y Seguridad Pública del Distrito Federal, del estado procesal de los vehículos que permanezcan en sus respectivos depósitos, a efecto de que dichas Secretarias estén en condiciones de determinar lo conducente respecto del resguardo de los vehículos con base en sus atribuciones legales;
+
+> <small>(ADICIONADA, G.O. 12 DE NOVIEMBRE DE 2014)</small>
+
+VIII. Las demás que le atribuya la ley y otros ordenamientos aplicables y todas aquellas que permitan el debido ejercicio de las atribuciones a su cargo.
 
 > <small>(ADICIONADA, G.O. 9 DE AGOSTO DE 2011)</small>
 
@@ -530,7 +610,9 @@ IV. Crear perfiles para clasificar grupos de servidores públicos, encaminados a
 
 V. Coordinarse con las Dependencias, Órganos Desconcentrados, Entidades y Órganos Autónomos del Distrito Federal que realicen funciones de formación, capacitación, control y evaluación de los servidores públicos, a efecto de que participen en la capacitación del personal del Instituto;
 
-VI. Instrumentar y ejecutar las recomendaciones que emita el Consejo General y el Director General;
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2014)</small>
+
+VI. Instrumentar y ejecutar las recomendaciones que emita el Consejo General;
 
 VII. Coordinar y supervisar el proceso de selección de personal en funciones de verificación administrativa en su ingreso permanencia y evaluación de conformidad con los instrumentos, disposiciones jurídicas y administrativas aplicables;
 
@@ -538,7 +620,7 @@ VIII. Controlar y determinar el número de personal en funciones de verificació
 
 IX. Expedir previo cotejo, copias certificadas de los documentos que obren en sus archivos, así como de aquellos a los cuales se tenga acceso con motivo del desempeño de sus funciones;
 
-X. Diseñar y aplicar indicadores para evaluar el desempeño del personal en funciones de verificación administrativa, y
+X. (DEROGADA, G.O. 12 DE NOVIEMBRE DE 2014)
 
 > <small>(REFORMADA, G.O. 9 DE AGOSTO DE 2011)</small>
 
@@ -558,7 +640,7 @@ I. Supervisar, formular, expedir, practicar y emitir las órdenes de visitas de 
 
 II. Controlar, vigilar, supervisar, dirigir, revisar, formular, determinar, emitir y ejecutar las órdenes relativas a las medidas de seguridad y sanciones en los términos que prevean las leyes, según el caso;
 
-III. Canalizar los reportes o solicitudes que por escrito presenten los ciudadanos respecto de las visitas o de cualquier otro asunto competencia del Instituto;
+III. (DEROGADA, G.O. 12 DE NOVIEMBRE DE 2014)
 
 IV. Requerir a las autoridades competentes copias simples o certificadas de cualquier documento o información que resulte necesaria para el ejercicio de sus atribuciones;
 
@@ -572,7 +654,9 @@ VI. Remitir las actas de verificación a las áreas competentes del Instituto pa
 
 VII. Supervisar las notificaciones de acuerdos, resoluciones y ejecutar en sus términos las determinaciones que emitan las áreas competentes del Instituto;
 
-VIII. Publicar en la página web del Instituto, la relación de las verificaciones realizadas y el resultado de las mismas, así como mantener actualizada dicha información;
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2014)</small>
+
+VIII. Otorgar los insumos para la publicación en la página web del Instituto, la relación de las verificaciones realizadas y el resultado de las mismas, así como mantener actualizada dicha información;
 
 IX. Instrumentar un programa de visitas de verificación voluntaria en las materias competencia del Instituto, e informar al visitado, las irregularidades detectadas y el plazo para subsanarlas, y
 
@@ -580,9 +664,9 @@ X. Las demás que se determine en el Estatuto, la Ley y otros en los ordenamient
 
 #### Sección Tercera. La Dirección de Coordinación y Supervisión de la Actividad Verificadora de las Delegaciones, es competente para:
 
-> <small>(REFORMADA, G.O. 9 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2014)</small>
 
-I. Instrumentar, coordinar y aplicar el programa de coordinación e inspección del Personal Especializado asignado a las Delegaciones y al Instituto en términos de lo dispuesto por la Ley, el Reglamento y demás disposiciones aplicables;
+I. Establecer y ejecutar los mecanismos para la aplicación de los programas de coordinación e inspección del Personal Especializado asignado a las Delegaciones y al Instituto en términos de lo dispuesto por la Ley, el Reglamento y demás disposiciones aplicables;
 
 > <small>(REFORMADA, G.O. 9 DE AGOSTO DE 2011)</small>
 
@@ -662,19 +746,11 @@ IV. Establecer el enlace entre el Instituto y las diferentes instituciones de se
 
 V. Determinar los mecanismos de análisis para la información que se genere del intercambio Interinstitucional;
 
-VI. Diseñar y aplicar indicadores para evaluar el desempeño del personal en funciones de verificación administrativa en materia de transporte;
+VI. (DEROGADA, G.O. 12 DE NOVIEMBRE DE 2014)
 
 VII. Las demás que le atribuya otros ordenamientos aplicables y todas aquellas que permitan el debido ejercicio de las atribuciones a su cargo.
 
-#### Sección Tercera. La Dirección de Control de Resguardo y Procesos de Compactación, es competente para:
-
-I. Solicitar a la Coordinación Jurídica la información necesaria para el cumplimiento y ejercicio de sus atribuciones relacionadas con las Unidades Vehiculares remitidas a los depósitos establecidos para tal efecto;
-
-II. Conocer de los procedimientos de resguardo de los vehículos remitidos a los depósitos, en el proceso de verificación en materia de transporte;
-
-III. Expedir previo cotejo, copias certificadas de los documentos que obren en sus archivos, así como de aquellos a los cuales se tenga acceso con motivo del desempeño de sus funciones;
-
-IV. Las demás que le atribuyan otros ordenamientos aplicables y todas las que permitan el debido ejercicio de las atribuciones a su cargo.
+#### Sección Tercera. (DEROGADA, G.O. 12 DE NOVIEMBRE DE 2014)
 
 > <small>(ADICIONADO, G.O. 9 DE AGOSTO DE 2011)</small>
 
@@ -694,11 +770,11 @@ VI. Planear y coordinar los mecanismos de control interno, de administración de
 
 VII. Establecer las políticas de administración de personal, recursos financieros, recursos materiales y servicios generales;
 
-VIII. Diseñar indicadores para evaluar el desempeño del personal de estructura, así como la observancia del programa de trabajo;
+VIII. (DEROGADA, G.O. 12 DE NOVIEMBRE DE 2014)
 
 IX. Someter a la consideración del Director General el programa de estímulos del personal especializado supeditado al presupuesto autorizado para cada ejercicio fiscal;
 
-X. Establecer y mantener un sistema de estadística que permita determinar los indicadores de gestión e impacto del Instituto;
+X. (DEROGADA, G.O. 12 DE NOVIEMBRE DE 2014)
 
 XI. Ejercer y aplicar el presupuesto anual asignado al Instituto;
 
@@ -710,9 +786,9 @@ XIV. Auxiliarse de sus unidades administrativas de apoyo técnico operativo en l
 
 XV. Proporcionar periódicamente a la Dirección General los estados financieros e informes del ejercicio presupuestal y de las inversiones;
 
-XVI. Elaborar y mantener actualizados los manuales de organización y procedimientos y adecuarlos a las necesidades del Instituto;
+XVI. (DEROGADA, G.O. 12 DE NOVIEMBRE DE 2014)
 
-XVII. Coordinar los informes proporcionados por las unidades respecto del comportamiento de los indicadores estratégicos de gestión;
+XVII. (DEROGADA, G.O. 12 DE NOVIEMBRE DE 2014)
 
 XVIII. Instrumentar y ejecutar las recomendaciones que emita el Consejo General y el Director General;
 
@@ -726,7 +802,9 @@ XXII. Expedir previo cotejo, copias certificadas de los documentos que obren en 
 
 XXIII. Las demás que le atribuyan otros ordenamientos aplicables y todas aquellas que permitan el debido ejercicio de las atribuciones a su cargo.
 
-Para el desarrollo y ejercicio de sus funciones se auxiliará de unidades administrativas y de apoyo técnico operativo que determine el dictamen de estructura y el manual administrativo y en específico de la Dirección de Administración, Dirección de Modernización y Desarrollo Administrativo, Dirección de Tecnologías de la Información, conforme al citado manual.
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2014)</small>
+
+Para el desarrollo y ejercicio de sus funciones se auxiliará de unidades administrativas y de apoyo técnico operativo que determine el dictamen de estructura y el manual administrativo y en específico de la Dirección de Administración y Dirección de Tecnologías de la Información, conforme al citado manual.
 
 ### Capítulo Cuarto. Del Comisariado y la Contraloría General
 
@@ -776,7 +854,7 @@ El Instituto establecerá el servicio civil de carrera bajo los principios de im
 
 ### Capítulo Séptimo. De la Suplencia de los Funcionarios
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 32.
 
@@ -812,10 +890,20 @@ EL DIRECTOR GENERAL DEL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL DISTRITO F
 
 LIC. FRANCISCO AYALA GABILONDO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
 
 G.O. 9 DE AGOSTO DE 2011.
 
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Las presentes reformas, adiciones y derogaciones, entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 12 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente aviso entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
