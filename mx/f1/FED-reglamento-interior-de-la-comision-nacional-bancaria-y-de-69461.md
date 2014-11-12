@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-comision-nacional-bancaria-y-de-69461
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-12"
-last_updated: "2012-11-30"
+last_updated: "2014-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69461&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2009-08-10"
 
 REGLAMENTO INTERIOR DE LA COMISIÓN NACIONAL BANCARIA Y DE VALORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISIÓN NACIONAL BANCARIA Y DE VALORES, PUBLICADO EN EL D.O.F. DE 12 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE NOVIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 12 de agosto de 2009.
 
@@ -839,7 +841,7 @@ XI. Concurrir a las asambleas a que se refiere la fracción II del artículo 351
 
 > <small>(REFORMADA, D.O.F. 23 DE ABRIL DE 2012)</small>
 
-XII. Desarrollar estudios y proyectos enfocados al mejoramiento de la regulación contable y de auditoría externa para los emisores de valores inscritos en el Registro Nacional de Valores, y (sic)
+XII. Desarrollar estudios y proyectos enfocados al mejoramiento de la regulación contable y de auditoría externa para los emisores de valores inscritos en el Registro Nacional de Valores, y
 
 XIII. (DEROGADA, D.O.F. 23 DE ABRIL DE 2012)
 
@@ -1986,3 +1988,15 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las modificaciones a la estructura orgánica de la Comisión Nacional Bancaria y de Valores que deriven de la entrada en vigor del presente Decreto serán realizadas mediante movimientos compensados, por lo que no aumentarán el presupuesto regularizable de ese Órgano Desconcentrado.
 
 TERCERO.- Las referencias que en el presente o en otros ordenamientos se realicen respecto de la Dirección General de Supervisión de Cooperativas de Ahorro y Préstamo, se entenderán realizadas respecto de la Dirección General de Supervisión de Cooperativas de Ahorro y Préstamo A.
+
+D.O.F. 12 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Comisión Nacional Bancaria y de Valores publicado en el Diario Oficial de la Federación el 12 de agosto de 2009.
+
+TERCERO.- Los asuntos que se encuentren en trámite o pendientes de conclusión a la fecha de entrada en vigor de este Reglamento y que, conforme al mismo, deban ser atendidos por una unidad administrativa diversa a la que haya correspondido conforme a las disposiciones que se abrogan, continuarán su trámite y serán resueltos por aquella o aquellas unidades administrativas a las que se les atribuya la competencia en este ordenamiento.
+
+El personal, expedientes en trámite, archivo, mobiliario y, en general, equipo a cargo de las unidades administrativas que dejen de tener competencia en los asuntos de que se trate por virtud de la entrada en vigor del presente Reglamento, pasarán a la nueva unidad o unidades competentes, distribuyéndose, en su caso, de conformidad con el ámbito de atribuciones que a cada una corresponda.
+
+CUARTO.- Las referencias que se hagan en decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones, a las unidades administrativas de la Comisión Nacional Bancaria y de Valores que cambien de denominación por virtud del presente Reglamento, se entenderán hechas a las unidades administrativas que resulten competentes conforme al mismo.
