@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2014-05-21"
+last_updated: "2014-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -413,7 +413,7 @@ La Mesa Directiva será la responsable de coordinar los trabajos legislativos de
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
 
-El Presidente de la Mesa Directiva, conduce las sesiones del Congreso del Estado y asegura el debido desarrollo de los debates, discusiones y votaciones del pleno; garantiza que en los trabajos legislativos se aplique lo dispuesto en la Constitución y en la presente Ley. En caso de falta de nombramiento de mesa directiva en turno continuará en funciones hasta el día 5 del siguiente mes, o hasta que se nombre la nueva mesa directiva.
+El Presidente de la Mesa Directiva, conduce las sesiones del Congreso del Estado y asegura el debido desarrollo de los debates, discusiones y votaciones del pleno; garantiza que en los trabajos legislativos se aplique lo dispuesto en la Constitución y en la presente Ley. En caso de falta de nombramiento de mesa directiva para el segundo y tercer año legislativo, la mesa directiva en turno continuará en funciones hasta el día 5 del siguiente mes, o hasta que se nombre la nueva mesa directiva.
 
 La Mesa Directiva observará en su actuación los principios de imparcialidad y objetividad.
 
@@ -445,7 +445,7 @@ I. Presidir las sesiones del Congreso del Estado;
 
 II. Citar a sesiones del pleno, decretar su apertura y clausura o en su caso prorrogarlas o suspenderlas de acuerdo al Reglamento;
 
-III. Dar curso reglamentario a los asuntos que se presenten al Congreso del Estado y dictar los trámites que deban recaer a los mismos con que se dé cuenta a la Asamblea, turnándolos a las comisiones que corresponda;
+III. Dar curso reglamentario a los asuntos que se presenten al Congreso del Estado y dictar los trámites que deban recaer a los mismos con que se de cuenta a la Asamblea, turnándolos a las comisiones que corresponda;
 
 IV. Turnar a las comisiones respectivas las iniciativas pendientes de dictaminar que se reciban de la legislatura anterior;
 
@@ -695,7 +695,9 @@ d) La integración de las comisiones ordinarias y especiales, así como de los c
 
 e) La designación y remoción de los titulares de los órganos administrativos del Congreso del Estado, en términos de esta Ley, se hará por los votos de mayoría calificada del pleno del Congreso del Estado;
 
-f) La tema de ciudadanos que envíe el Gobernador del Estado para designar al Procurador General de Justicia;
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2014)</small>
+
+f) La terna de ciudadanos que envíe el Gobernador del Estado para designar al Fiscal General del Estado;
 
 g) Las designaciones de los Magistrados que integran el Poder Judicial, para lo cual la Junta Política y de Gobierno establecerá los criterios para las designaciones conforme lo establece la Constitución del Estado y esta Ley, y
 
@@ -787,7 +789,7 @@ Las comisiones ordinarias de Puntos Constitucionales y Legislación, Hacienda, P
 
 > <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-En el caso de la Comisión de Hacienda, Presupuesto y Cuenta Pública, la Presidencia será rotativa y anual, para ello la Junta Política y de Gobierno propondrá al Pleno; mediante acuerdo aprobado por mayoría calificada de sus integrantes por voto ponderado, la conformación de dicha Comisión; mediante el mismo procedimiento, podrá proponer al Pleno las Comisiones que considere conveniente que sean rotativas y anuales, especificando el motivo y la conformación de las comisiones en su caso.
+En el caso de la Comisión de Hacienda, Presupuesto y Cuenta Pública, la Presidencia será rotativa y anual, para ello la Junta Política y de Gobierno propondrá al Pleno, mediante acuerdo aprobado por mayoría calificada de sus integrantes por voto ponderado, la conformación de dicha Comisión; mediante el mismo procedimiento, podrá proponer al Pleno las Comisiones que considere conveniente que sean rotativas y anuales, especificando el motivo y la conformación de las comisiones en su caso.
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
@@ -979,7 +981,7 @@ IV. Todos aquellos que le sean turnados.
 
 ###### Artículo 64.
 
-A la Comisión de Ciencia e Innovación Tecnológica corresponde el conocimiento y en su caso, el dictamen dé los asuntos siguientes:
+A la Comisión de Ciencia e Innovación Tecnológica corresponde el conocimiento y en su caso, el dictamen de los asuntos siguientes:
 
 I. Los derivados de las leyes relacionadas con la ciencia e innovación tecnológica en el Estado;
 
@@ -1015,7 +1017,9 @@ VI. Todas aquéllas que tiendan al mejoramiento de las prácticas parlamentarias
 
 Corresponde a la Comisión de Justicia y Derechos Humanos:
 
-I. Conocer y dictaminar sobre las iniciativas concernientes a la legislación orgánica de la Procuraduría General de Justicia y del Poder Judicial, a la de la Comisión de Derechos Humanos del Estado de Morelos;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2014)</small>
+
+I. Conocer y dictaminar sobre las iniciativas concernientes a la legislación orgánica de la Fiscalía General del Estado de Morelos y del Poder Judicial, a la de la Comisión de Derechos Humanos del Estado de Morelos;
 
 II. Dar seguimiento a las recomendaciones emitidas por las Comisiones tanto Nacional, como a la Comisión de Derechos Humanos del Estado de Morelos;
 
@@ -1163,7 +1167,7 @@ V. Conocer y opinar sobre los casos relacionados con la afectación del entorno 
 
 VI. Coadyuvar con las políticas y programas educativos sobre ecología y preservación del medio ambiente; y
 
-VII. Todos aquellos asuntos que sean turnados y que no sean competencia de otra Comisión.
+VII. Todos aquellos asuntos que le sean turnados y que no sean competencia de otra Comisión.
 
 > <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1227,7 +1231,7 @@ V. Todos aquellos asuntos que le sean turnados y que no sean competencia de otra
 
 ###### Artículo 77.
 
-A la Comisión de Participación Ciudadana y Reforma Política le corresponde:
+A la Comisión de Participación Ciudadana y Reforma Política, le corresponde:
 
 I. Conocer y dictaminar las iniciativas en materia de participación ciudadana;
 
@@ -1335,7 +1339,7 @@ III. Emitir opinión sobre los proyectos y programas que se relacionen con la in
 
 > <small>(ADICIONADA, P.O. 16 DE ENERO DE 2013)</small>
 
-IV. Implementar e impulsar foros de consulta para conocer las demandas que aquejan al sector público social y privado y proponer medidas de atención;
+IV. Implementar e impulsar foros de consulta para conocer las demandas que aquejan al sector público, social y privado y proponer medidas de atención;
 
 > <small>(ADICIONADA, P.O. 16 DE ENERO DE 2013)</small>
 
@@ -1391,7 +1395,7 @@ II. Organizar actos y eventos que propicien el encuentro entre las Comisiones de
 
 III. Divulgar las ideas, propuestas y debates de los actos y eventos interparlamentarios;
 
-IV. Fomentar las relaciones y mecanismos de cooperación y coordinación entre el Congreso del Estado y los Congresos Estatales;
+IV. Fomentar las relaciones y mecanismos de cooperación y coordinación entre el Congreso del Estado y los Congresos de los Estados;
 
 V. Coordinar e impulsar acuerdos y convenios de investigación, cooperación y estudio entre el Congreso del Estado y los Congresos Estatales;
 
@@ -1435,7 +1439,7 @@ El Congreso del Estado contará con los siguientes comités:
 
 I. Comité de Vigilancia;
 
-II. Comité de Régimen Administrativo; y (sic)
+II. Comité de Régimen Administrativo; y
 
 III.- (DEROGADA, P.O. 24 DE OCTUBRE DE 2012)
 
@@ -1491,7 +1495,7 @@ Para su funcionamiento, el Congreso del Estado, contará con los órganos siguie
 
 I. Secretaría de Servicios Legislativos y Parlamentarios;
 
-II. Secretaría de Administración y Finanzas; e (sic)
+II. Secretaría de Administración y Finanzas; e
 
 III. Instituto de Investigaciones Legislativas;
 
@@ -1925,7 +1929,9 @@ a) No haber sido condenado por delito que amerite pena corporal;
 
 b) Haber residido en el Estado durante los diez años inmediatos anteriores a la publicación de la convocatoria respectiva, con excepción de lo señalado en el artículo 90, fracción II de la Constitución del Estado;
 
-c) No haber ocupado el cargo de Secretario de Despacho del Poder Ejecutivo, Procurador General de Justicia o diputado local, durante el año previo al día de su designación.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2014)</small>
+
+c) No haber ocupado el cargo de Secretario de Despacho del Poder Ejecutivo, Fiscal General del Estado o Diputado Local, durante el año previo al día de su designación.
 
 IV. Escrito en el que se autorice a la Junta Política y de Gobierno para que en caso de ser necesario, lleve a cabo investigaciones para corroborar por los medios legales que juzgue convenientes, la información a que se refieren los numerales anteriores.
 
@@ -2081,7 +2087,7 @@ A partir de la publicación de la presente Ley, el Congreso tendrá 30 días nat
 
 Remítase la presente Ley al Titular del Poder Ejecutivo del Estado, para su publicación inmediata en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos, para su divulgación.
 
-Recinto legislativo a los trece días del mes de abril de dos mil siete.
+Recinto Legislativo a los trece días del mes de abril de dos mil siete.
 
 ATENTAMENTE.
 
@@ -2261,7 +2267,7 @@ Se instruye a la Comisión de Reglamentos y Prácticas Parlamentarias, para que 
 
 ###### ARTÍCULO CUARTO.
 
-Publíquese en la Gaceta legislativa del Congreso y remítase para su divulgación en el Periódico Oficial "Tierra y Libertad" órgano de" difusión del Gobierno del Estado de Morelos.
+Publíquese en la Gaceta Legislativa del Congreso y remítase para su divulgación en el Periódico Oficial "Tierra y Libertad" órgano de" difusión del Gobierno del Estado de Morelos.
 
 ###### ARTÍCULO QUINTO.
 
@@ -2438,3 +2444,9 @@ P.O. 21 DE MAYO DE 2014.
 Artículo Primero.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos previstos en los artículos 44 y 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 Artículo Segundo.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial Tierra y Libertad, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 12 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
