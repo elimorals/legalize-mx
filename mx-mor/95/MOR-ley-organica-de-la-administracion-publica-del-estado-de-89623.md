@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-administracion-publica-del-estado-de-89623"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-28"
-last_updated: "2014-10-08"
+last_updated: "2014-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el viernes 28 de septiembre de 2012.
 
@@ -59,7 +59,9 @@ Las disposiciones contenidas en la presente Ley son de orden e interés público
 
 La Administración Pública del Estado de Morelos será central y paraestatal.
 
-La Gubernatura del Estado, las secretarías, la Procuraduría General de Justicia y la Consejería Jurídica, son las unidades que integran la administración pública centralizada.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2014)</small>
+
+La Gubernatura del Estado, las Secretarías, la Fiscalía General del Estado y la Consejería Jurídica, son las unidades que integran la administración pública centralizada.
 
 Para atender de manera eficiente el despacho de los asuntos de su competencia, la administración centralizada del Estado contará con órganos administrativos desconcentrados, considerando los términos establecidos en la Constitución Política del Estado Libre y Soberano de Morelos, los que estarán jerárquicamente subordinados al propio Gobernador del Estado o bien, a la dependencia que éste determine.
 
@@ -161,7 +163,9 @@ I. Secretaría de Gobierno;
 
 II. Secretaría de Hacienda;
 
-III. Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2014)</small>
+
+III. Fiscalía General del Estado de Morelos;
 
 IV. Secretaría de la Contraloría;
 
@@ -591,7 +595,7 @@ VIII. Para efectos de la fracción anterior, deberá de promover y coordinar acc
 
 IX. Promover, organizar y participar en congresos, ferias, exposiciones y concursos agrícolas, ganaderos, de zoocría, forestales y pesqueros en el Estado, así como participar en eventos de carácter nacional e internacional;
 
-X. Con apoyo de las dependencias correspondientes, realizar estudios y proyectos para la construcción o reconstrucción de la infraestructura hidráulica necesaria para apoyar las actividades agrícolas, ganaderas, de zoocría, forestales, pesqueras y agroindustriales en el Estado. Así mismo elaborar, actualizar y difundir un inventario de recursos agrícolas, ganaderos, de zoocría, forestales, pesqueros y agroindustriales del Estado;
+X. Con apoyo de las dependencias correspondientes, realizar estudios y proyectos para la construcción o reconstrucción de la infraestructura hidráulica necesaria para apoyar las actividades agrícolas, ganaderas, de zoocría, forestales; pesqueras y agroindustriales en el Estado. Así mismo elaborar, actualizar y difundir un inventario de recursos agrícolas, ganaderos, de zoocría, forestales, pesqueros y agroindustriales del Estado;
 
 XI. Coordinar las acciones con las dependencias correspondientes para regular la sanidad agropecuaria, de zoocría, forestal, pesquera y agroindustrial en el ámbito de su competencia; y
 
@@ -1958,3 +1962,9 @@ Remítase al Titular del Poder Ejecutivo para los efectos que señalan los artí
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Tierra y Libertad", órgano de difusión de Gobierno del Estado de Morelos.
+
+P.O. 12 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
