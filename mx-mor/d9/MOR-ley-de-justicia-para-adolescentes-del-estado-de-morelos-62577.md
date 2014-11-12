@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-justicia-para-adolescentes-del-estado-de-morelos-62577"
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-18"
-last_updated: "2013-03-13"
+last_updated: "2014-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el lunes 18 de agosto de 2008.
 
@@ -333,7 +333,9 @@ VII. Las demás atribuciones que determinen la Constitución del Estado y las le
 
 Ministerio Público Especializado.
 
-La Procuraduría General de Justicia del Estado, contará con agentes del Ministerio Público especializados en adolescentes que tendrán los siguientes deberes y atribuciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2014)</small>
+
+La Fiscalía General del Estado de Morelos, contará con agentes del Ministerio Público especializados en adolescentes que tendrán los siguientes deberes y atribuciones:
 
 I. Realizar la investigación y persecución de las conductas tipificadas como delitos en las leyes del Estado atribuidas a adolescentes;
 
@@ -1698,3 +1700,9 @@ SÉPTIMO.- Las conductas antisociales del orden común o federal, cometidas con 
 OCTAVO.- El seguimiento de la ejecución de las sentencias dictadas por los Jueces Especializados o por el Magistrado del Tribunal, previo a la entrada en vigor del presente decreto, corresponderá a los Jueces de Ejecución que al efecto nombre el Magistrado titular del Tribunal Unitario de Justicia para Adolescentes, en el ejercicio de sus atribuciones.
 
 NOVENO.- Con el objeto de no dilatar la impartición de justicia, por esta única vez se faculta al Magistrado del Tribunal Unitario de Justicia para Adolescentes a nombrar al juez o jueces de ejecución que sean necesarios, previo examen de oposición, o ratificar los que hubiese nombrado conforme al artículo DÉCIMO PRIMERO transitorio de la LEY DE REINSERCIÓN SOCIAL Y SEGUIMIENTO DE MEDIDAS CAUTELARES.
+
+P.O. 12 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículo (sic) 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
