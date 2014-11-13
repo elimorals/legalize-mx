@@ -4,7 +4,7 @@ identifier: "SON-ley-de-integracion-social-para-personas-con-discapacidad-14608"
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-12"
-last_updated: "2013-12-23"
+last_updated: "2014-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14608&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE INTEGRACIÓN SOCIAL PARA PERSONAS CON DISCAPACIDAD DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Tercera Sección del Boletín Oficial del Estado de Sonora, el lunes 12 de julio de 1999.
 
@@ -1223,9 +1223,9 @@ Para los efectos de la presente Ley, las autoridades estatales y municipales apl
 
 I.- Apercibimiento; estableciendo un plazo determinado para subsanar la infracción;
 
-> <small>(REFORMADA, B.O. 11 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, B.O. 13 DE NOVIEMBRE DE 2014)</small>
 
-II.- Multa equivalente de uno hasta doscientas veces el salario mínimo general diario vigente en la capital del Estado, atendiendo a la gravedad y circunstancias de la infracción;
+II.- Multa de veinte a cuatrocientas veces el salario mínimo diario general vigente en la capital del Estado al momento de su aplicación, atendiendo a la gravedad y circunstancias de la infracción;
 
 III.- Arresto hasta por treinta y seis horas;
 
@@ -1354,3 +1354,9 @@ B.O. 23 DE DICIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 13 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
