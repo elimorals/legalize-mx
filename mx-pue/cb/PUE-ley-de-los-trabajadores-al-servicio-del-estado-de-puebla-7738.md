@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-trabajadores-al-servicio-del-estado-de-puebla-7738"
 country: "mx"
 rank: "ley"
 publication_date: "1966-11-18"
-last_updated: "2013-01-07"
+last_updated: "2014-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "PUE"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 7 DE ENERO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Puebla, el viernes 18 de noviembre de 1966.
 
@@ -293,11 +291,13 @@ Cuando por circunstancias especiales deban aumentarse las horas de trabajo, ést
 
 Por cada seis días de trabajo, disfrutará el trabajador de un día de descanso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 26.
+
+Las mujeres embarazadas, disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto y de otros dos después del mismo, con goce de sueldo íntegro en ambos casos. Durante la lactancia, tendrá dos descansos extraordinarios al día, de media hora cada uno, para amamantar a sus hijos, previos dictámenes médicos oficiales.
+
 > <small>(REFORMADO, P.O. 28 DE MARZO DE 2012)</small>
-
-###### ARTICULO 26.
-
-Las mujeres embarazadas, disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto y de un mes y medio después del mismo, con goce de sueldo íntegro en ambos casos. Durante la lactancia, tendrá dos descansos extraordinarios al día, de media hora cada uno, para amamantar a sus hijos, previos dictámenes médicos oficiales.
 
 Los hombres gozarán de cinco días hábiles de descanso con goce de sueldo, con motivo del parto de su esposa o concubina. De igual forma se procederá, conforme a lo previsto en el ordenamiento legal correspondiente, en el supuesto de adoptar a un menor de edad.
 
@@ -903,7 +903,7 @@ De las correcciones disciplinarias y de las sanciones.
 
 El Tribunal de Arbitraje impondrá correcciones disciplinarias:
 
-a).- A los particulares que faltaren al respecto(sic) y al orden debidos durante las actuaciones del Tribunal.
+a).- A los particulares que faltaren al respecto (sic) y al orden debidos durante las actuaciones del Tribunal.
 
 b).- A los empleados del propio Tribunal, por las faltas que cometen en el desempeño de sus ciones (sic).
 
@@ -981,7 +981,7 @@ II.- Si la persona a cuyo favor corre la prescripción reconoce el derecho de aq
 
 Para los efectos de la prescripción, los meses se regularán por el número de días que le correspondan; el primer día se contará completo y, cuando sea feriado el último, no se tendrá por completa la prescripción, sino cumplido el primer día hábil siguiente.
 
-TRANSITORIOS :
+TRANSITORIOS:
 
 ###### ARTICULO PRIMERO.
 
@@ -1064,3 +1064,11 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 > <small>(F. DE E., P.O. 7 DE ENERO DE 2013)</small>
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE NOVIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Dentro del plazo de ciento veinte días siguientes a la publicación del presente, las Dependencias y Entidades competentes de la Administración Pública Estatal, realizarán las adecuaciones a la normatividad aplicable.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
