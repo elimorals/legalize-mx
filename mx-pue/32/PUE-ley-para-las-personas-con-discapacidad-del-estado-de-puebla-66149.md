@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-las-personas-con-discapacidad-del-estado-de-puebla-661
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-12"
-last_updated: "2012-12-31"
+last_updated: "2014-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 12 de enero de 2009.
 
@@ -35,7 +35,7 @@ Que por la Secretaria del H. Congreso, se me ha remitido el siguiente:
 
 EL HONORABLE QUINCUAGÉSIMO SÉPTIMO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-CONSIDERANDO.
+CONSIDERANDO...
 
 Por lo anteriormente expuesto y con fundamento en los artículos 57 fracción I, 63 fracción II, 64, 67 de la Constitución Política del Estado Libre y Soberano de Puebla; 69 fracción II, 70, 71 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 76, 93 fracción VII 128 del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se emite la siguiente:
 
@@ -49,7 +49,9 @@ LEY PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE PUEBLA
 
 Las disposiciones de esta Ley son de orden público, de interés social y de observancia general, y tienen por objeto establecer las bases que permitan lograr la completa realización personal y la plena inclusión e integración de las personas con discapacidad, en un marco de igualdad de oportunidades, en todos los ámbitos de la vida.
 
-De manera enunciativa y no limitativa, esta Ley reconoce a las personas con discapacidad sus derechos humanos y ordena el establecimiento de las políticas públicas necesarias para su ejercicio.
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
+De manera enunciativa y no limitativa, esta Ley reconoce a las personas con discapacidad sus derechos humanos, libertades fundamentales inherentes y ordena el establecimiento de las políticas públicas necesarias para su ejercicio.
 
 ###### Artículo 2.
 
@@ -65,7 +67,9 @@ Para efectos de la aplicación de esta Ley se entiende por:
 
 I.- Deficiencia: La pérdida o anormalidad permanente o transitoria de carácter psicológico, fisiológico o anatómico de alguna estructura o función;
 
-II.- Discapacidad: Toda restricción o ausencia de la capacidad de realizar una actividad en la forma o dentro del margen considerado normal para un ser humano;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
+II.- Discapacidad: Deficiencia física, mental o sensorial, ya sea de naturaleza permanente o temporal, que limita la capacidad de ejercer o interactuar en una o más actividades esenciales de la vida diaria.
 
 III.- Impedimento: La incapacidad que constituye una desventaja para una persona, en cuanto limite o impida el cumplimiento de una función que es normal según sea la edad, el sexo, los factores sociales y culturales;
 
@@ -83,7 +87,9 @@ IX.- Lugares con acceso al público: Los inmuebles del dominio público de propi
 
 X.- Minusvalía: Es la limitación o pérdida de oportunidades de participar en la vida de la comunidad en condiciones de igualdad con los demás;
 
-XI.- Persona con Discapacidad: La que por causas naturales o accidentales, se encuentra limitada para realizar actividades necesarias para el desempeño de las funciones físicas, mentales, sociales, ocupacionales o económicas, como consecuencia de una insuficiencia o deficiencia somática o psicológica;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
+XI.- Persona con Discapacidad: La que por deficiencia física, mental o sensorial, ya sea de naturaleza permanente o temporal, se encuentra limitada para ejercer o interactuar en una o más actividades esenciales de la vida diaria, lo que le impide estar en igualdad de condiciones para con los demás.
 
 XII.- Reglamento de Construcciones: Los Reglamentos de Construcciones expedidos por los Ayuntamientos de los Municipios del Estado;
 
@@ -91,7 +97,7 @@ XIII.- Senescentes: Persona que en razón de su edad padece disminución o limit
 
 > <small>(REFORMADA, P.O. 19 DE ENERO DE 2011)</small>
 
-XIV.- Sistema DlF: Sistema para el Desarrollo Integral de la Familia del Estado de Puebla;
+XIV.- Sistema DIF: Sistema para el Desarrollo Integral de la Familia del Estado de Puebla;
 
 > <small>(REFORMADA, P.O. 19 DE ENERO DE 2011)</small>
 
@@ -109,9 +115,9 @@ XVII.- Inclusión.- Impulso y transformación de la administración pública y l
 
 XVIII.- Educación Especial.- Conjunto de servicios, programas, orientación y recursos educativos especializados, que favorece la eliminación de barreras físicas, sensoriales, afectivas y cognitivas para el acceso, aprendizaje, y participación de las personas que padecen algún tipo de discapacidad, así como aquellos con capacidades y aptitudes sobresalientes, que no logran acceder a la escolaridad regular, en ella se favorecerá su desarrollo integral, y se facilitará la adquisición de habilidades y destrezas que les capaciten para lograr los fines de la educación; así mismo se promoverá su inserción en la escuela regular; y
 
-> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
 
-XIX.- Igualdad de Oportunidades.- Proceso de adecuaciones, ajustes y mejoras necesarias en el entorno jurídico, social, cultural y de bienes y servicios, que faciliten a las personas con discapacidad una integración, convivencia y participación, con las mismas oportunidades y posibilidades que el resto de la población.
+XIX.- Igualdad de Oportunidades: Proceso de adecuaciones, ajustes y mejoras necesarias en el entorno jurídico, social, cultural y de bienes y servicios, que faciliten a las personas con discapacidad una integración, convivencia y participación, con el goce o ejercicio en paridad de condiciones de todos los derechos y libertades fundamentales.
 
 ###### Artículo 5.
 
@@ -123,7 +129,7 @@ II.- Los Ayuntamientos de los Municipios.
 
 ###### Artículo 6.
 
-La Secretaría de Salud, a través del Sistema DlF, en coordinación con las Instituciones competentes, coordinará la elaboración de un Programa de Integración Social de Personas con Discapacidad, que comprenderán los siguientes aspectos:
+La Secretaría de Salud, a través del Sistema DIF, en coordinación con las Instituciones competentes, coordinará la elaboración de un Programa de Integración Social de Personas con Discapacidad, que comprenderán los siguientes aspectos:
 
 > <small>(REFORMADA, P.O. 19 DE ENERO DE 2011)</small>
 
@@ -185,7 +191,9 @@ IV.- Las demás que les confiera la presente Ley u otras disposiciones legales a
 
 Será materia de coordinación entre el Estado y los Municipios:
 
-I.- El pleno respeto y ejercicio de los derechos humanos;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
+I.- Promover el pleno respeto y ejercicio de los derechos humanos y libertades fundamentales de las personas con discapacidad, para lo cual se adoptarán las medidas legislativas, administrativas y de otra índole que sean pertinentes para hacer efectivos estos derechos;
 
 II.- La igualdad de oportunidades y la equidad en el acceso a los servicios de salud, educación, empleo, capacitación y readaptación laboral, cultura, recreación y deporte a las personas con discapacidad;
 
@@ -198,6 +206,30 @@ IV.- La promoción y apoyo para fortalecer los proyectos y programas que impulse
 V.- La recopilación, procesamiento, sistematización e intercambio de información en la materia; y
 
 VI.- Las demás que sean necesarias para hacer efectivas las acciones, servicios, medidas e instrumentos interinstitucionales en la materia.
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
+VII.- Establecer políticas y programas, que consideren la protección y promoción de los derecho (sic) humanos de las personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
+VIII.- Prever en el ámbito de su competencia que las personas, empresas u organizaciones no discriminen por motivos de discapacidad;
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
+IX.- Promover en el ámbito de su competencia la investigación, el desarrollo y disponibilidad de nuevas tecnologías con el fin de apoyar a las personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
+X.- Evitar en el ámbito de su competencia cualquier forma de explotación, violencia, abuso y toda forma de discriminación hacia las personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
+XI.- La protección legal a todas las personas con discapacidad, y
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
+XII.- Detectar e investigar en el ámbito de su competencia los casos de explotación, violencia, abuso y toda forma de discriminación hacia las personas con discapacidad;
 
 ###### Artículo 10.
 
@@ -313,23 +345,29 @@ XI.- Las demás que le señalen el presente ordenamiento, su Reglamento y demás
 
 ### CAPÍTULO SEGUNDO. DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 16.
 
-Los derechos que establece la presente Ley serán reconocidos a todas las personas con discapacidad, sin distinción por su origen étnico o nacional, el género, la edad, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, el estado civil o cualquier otra situación que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas, entre otros, los de:
+Los derechos humanos, libertades fundamentales y los derechos que establece la presente Ley serán reconocidos a todas las personas con discapacidad, sin distinción por su origen étnico o nacional, el género, la edad, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, el estado civil o cualquier otra situación que atente contra la dignidad humana y tenga por objeto discriminar, anular o menoscabarlos, de manera enunciativa y no limitativa entre otros, los de:
 
-I.- Gozar de la oportunidad plena respecto de los derechos de todo ciudadano, dentro del marco jurídico de las Leyes;
+I.- Gozar del respeto de los derechos de todo ciudadano, dentro del marco jurídico de las Leyes;
 
-II.- Tener las mismas oportunidades laborales de acuerdo a su perfil profesional, técnico o manual;
+II.- Tener igualdad de oportunidades en los ámbitos económico, social, cultural, de salud, laboral, legal, educativo, y de otra índole;
 
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2010)</small>
+III.- Desplazarse libremente con las formas de asistencia humana, animal o cualquier otro medio técnico o electrónico, tecnológico que la ciencia aporte, en los espacios públicos abiertos o cerrados de cualquier índole;
 
-III.- Desplazarse libremente con las formas de asistencia humana, animal o cualquier otro medio técnico o electrónico que la ciencia aporte, en los espacios públicos abiertos o cerrados de cualquier índole;
+IV.- Disfrutar de los servicios públicos estacionarios en igualdad de oportunidades y circunstancias;
 
-IV.- Disfrutar de los servicios públicos estacionarios en igualdad de circunstancias que cualquier persona sin discapacidad; y
+V.- Facilitar el acceso y desplazamiento con las formas de asistencia humana, animal o cualquier otro medio técnico o electrónico, tecnológico que la ciencia aporte, en el interior de espacios laborales, comerciales y recreativos;
 
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2010)</small>
+VI.- A no ser sometido a cualquier forma de explotación, violencia, abuso y toda forma de discriminación;
 
-V.- Facilitar el acceso y desplazamiento con las formas de asistencia humana, animal o cualquier otro medio técnico o electrónico que la ciencia aporte, en el interior de espacios laborales, comerciales y recreativos.
+VII.- Obtener el reconocimiento de las capacidades, méritos, habilidades y sus aportaciones en relación con el lugar de trabajo y mercado laboral;
+
+VIII.- A que se respete su integridad física y mental en igualdad de condiciones con los demás, y
+
+IX.- Tener privacidad de la información y de la rehabilitación, en igualdad de condiciones con los demás.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ENERO DE 2010)</small>
 
@@ -511,7 +549,7 @@ En los casos en que el grado de la discapacidad lo haga necesario, la educación
 
 ###### Artículo 40.
 
-El Sistema DlF por medio del Departamento de Integración Social de la Persona con Discapacidad en coordinación con la Secretaría de Educación Pública, deberá apoyar el proceso educativo de las y los niños, adolescentes y adultos en plenitud que se encuentren en rehabilitación.
+El Sistema DIF por medio del Departamento de Integración Social de la Persona con Discapacidad en coordinación con la Secretaría de Educación Pública, deberá apoyar el proceso educativo de las y los niños, adolescentes y adultos en plenitud que se encuentren en rehabilitación.
 
 ###### Artículo 41.
 
@@ -753,7 +791,7 @@ EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Pal
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los dieciséis días del mes de diciembre de dos mil ocho.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO MARIO ALBERTO MONTERO SERRANO.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 20 DE ENERO DE 2009.
 
@@ -778,3 +816,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Todas las acciones derivadas de la aplicación del presente Decreto, estarán sujetas a la suficiencia presupuestal que apruebe el Honorable Congreso del Estado en la Ley de Egresos del Estado para el ejercicio fiscal correspondiente.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE NOVIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
