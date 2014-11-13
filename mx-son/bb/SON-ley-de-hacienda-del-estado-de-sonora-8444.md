@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2014-08-07"
+last_updated: "2014-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 2 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE NOVIEMBRE DE 2014.
 
 > <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
 
@@ -2659,7 +2659,7 @@ II.- Para servicios públicos, las personas que con ellos sean beneficiados.
 
 El poseedor será sujeto de la contribución, cuando el predio no tenga propietario, cuando el propietario no este definido o cuando el propietario se obligue a transmitir el dominio del inmueble, dando desde luego su posesión.
 
-Si el predio esta afectado en fideicomiso, recaudará y enterará la contribución la (sic) Institución Fiduciaria, con cargo al propietario del predio beneficiado.
+Si el predio esta afectado en fideicomiso, recaudará y enterará la contribución (sic) la Institución Fiduciaria, con cargo al propietario del predio beneficiado.
 
 Cuando sean personas distintas al propietario de la tierra.
 
@@ -3419,6 +3419,22 @@ q).- (DEROGADO, B.O. 19 DE DICIEMBRE DE 2013)
 
 r) Fábrica de producto regional típico $3,000.00
 
+> <small>(ADICIONADO, B.O. 13 DE NOVIEMBRE DE 2014)</small>
+
+s).- Fábrica de Cerveza Artesanal, de acuerdo a la siguiente tabla:
+
+Volumen Anual de Cuota Expedición Licencia
+
+Fabricación (Hectolitros)
+
+Hasta 2,000 10,000
+
+2,001 – 4,000 20,000
+
+4001 – 6,000 30,000
+
+6001 – 10,000 40,000
+
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 II.- Por la revalidación:
@@ -3494,6 +3510,20 @@ mayores de edad. $65,722.00
 p).- Establecimiento de prestación de
 
 servicios de juegos con apuestas. $68,069.00
+
+> <small>(ADICIONADO, B.O. 13 DE NOVIEMBRE DE 2014)</small>
+
+q).- Fábrica de Cerveza Artesanal, de acuerdo a la siguiente tabla:
+
+Volumen Anual en Hectolitros Revalidación
+
+Hasta 2,000 10,000
+
+2,001 – 4,000 15,000
+
+4001 – 6,000 20,000
+
+6001 – 10,000 25,000
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -3595,47 +3625,47 @@ La expedición de estos permisos provisionales causará derechos por cada mes o 
 
 VIII.- Por él canje de licencias, en el año fiscal que corresponda:
 
-a). Fábrica. $49,087.00
+a).- Fábrica. $49,087.00
 
-b). Agencia distribuidora. $49,087.00
+b).- Agencia distribuidora. $49,087.00
 
-c). Expendio. $44,314.00
+c).- Expendio. $44,314.00
 
-d). Cantina. $22,407.00
+d).- Cantina. $22,407.00
 
-e). Restaurante. $ 5,899.00
+e).- Restaurante. $ 5,899.00
 
 > <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
-f). Restaurante con bar anexo o Cine VIP. $ 9,138.00
+f).- Restaurante con bar anexo o Cine VIP. $ 9,138.00
 
-g). Tienda de autoservicio. $27,623.00
+g).- Tienda de autoservicio. $27,623.00
 
-h). Tienda departamental. $49.087.00
+h).- Tienda departamental. $49.087.00
 
-i). Tienda de abarrotes. $ 5,899.00
+i).- Tienda de abarrotes. $ 5,899.00
 
-j). Centro nocturno. $56,833.00
+j).- Centro nocturno. $56,833.00
 
-k). Centro de evento o salón de baile. $19,395.00
+k).- Centro de evento o salón de baile. $19,395.00
 
-l). Centro deportivo o recreativo. $11,297.00
+l).- Centro deportivo o recreativo. $11,297.00
 
-m). Hotel o motel. $11,297.00
+m).- Hotel o motel. $11,297.00
 
-n). Porteadora. $ 4,549.00
+n).- Porteadora. $ 4,549.00
 
-ñ). Fábrica de producto regional típico. $ 3,740.00
+ñ).- Fábrica de producto regional típico. $ 3,740.00
 
-o). Billar o Boliche. $16,696.00
+o).- Billar o Boliche. $16,696.00
 
-p). Centro nocturno con espectáculos de
+p).- Centro nocturno con espectáculos de
 
 baile semidesnudos de hombres y/o
 
 mujeres, mayores de edad. $66,222.00
 
-q). Establecimiento de prestación de
+q).- Establecimiento de prestación de
 
 servicios de juegos con apuestas. $68,569.00
 
@@ -7094,3 +7124,9 @@ B.O. 9 DE JUNIO DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 13 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
