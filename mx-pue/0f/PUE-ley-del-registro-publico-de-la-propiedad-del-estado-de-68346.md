@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-registro-publico-de-la-propiedad-del-estado-de-68346"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-15"
-last_updated: "2011-08-03"
+last_updated: "2014-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68346&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE PUEBLA
 
-LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE PUEBLA
+LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Puebla, el miércoles 15 de abril de 2009.
 
@@ -55,33 +55,37 @@ El Registro Público de la Propiedad es la oficina pública a través de la cual
 
 La inscripción de los actos en el Registro Público de la Propiedad tendrá efectos declarativos y por excepción efectos constitutivos, en los casos que así expresamente lo determine la ley.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 4.
 
-Para los efectos de esta Ley se entenderá por:
+Para efectos de esta Ley se entenderá por:
 
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
+I. Dirección General: La Dirección General del Instituto Registral y Catastral del Estado de Puebla;
 
-I. Dirección. La Dirección General Adjunta del Registro Público de la Propiedad del Instituto Registral y Catastral del Estado de Puebla;
+II. Dirección: La Dirección de Registro Público de la Propiedad del Instituto Registral y Catastral del Estado de Puebla;
 
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
+III. Director General: Al Titular de la Dirección General del Instituto Registral y Catastral del Estado de Puebla;
 
-II. Director. El Titular de la Dirección General Adjunta del Registro Público de la Propiedad del Instituto Registral y Catastral del Estado de Puebla;
+IV. Director: El Titular de la Dirección de Registro Público de la Propiedad del Instituto Registral y Catastral del Estado de Puebla;
 
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
+V. Instituto: El Instituto Registral y Catastral del Estado de Puebla;
 
-III. Instituto. El Instituto Registral y Catastral del Estado de Puebla;
+VI. Oficina Registral: La oficina en la que se presta el servicio público registral en una determinada demarcación;
 
-IV. Oficina Registral. La oficina en la que se presta el servicio público registral en una determinada demarcación;
+VII. Recurso: El Recurso Administrativo Registral;
 
-V. Recurso. El Recurso Administrativo Registral;
+VIII. Registrador Público: El Titular de la Oficina Registral;
 
-VI. Registrador. El titular de la Oficina Registral;
+IX. Registro: El Registro Público de la Propiedad del Estado de Puebla;
 
-VII. Registro. El Registro Público de la Propiedad del Estado de Puebla;
+X. Reglamento: El Reglamento de la Ley del Registro Público de la Propiedad del Estado de Puebla;
 
-VIII. Reglamento. El Reglamento de la Ley del Registro Público de la Propiedad, y
+XI. Secretaría: La Secretaría de Finanzas y Administración del Gobierno del Estado de Puebla;
 
-IX. (DEROGADA, P.O. 3 DE AGOSTO DE 2011)
+XII. Secretario: El Secretario de Finanzas y Administración del Estado de Puebla; y
+
+XIII. Subsecretario: El Subsecretario de Ingresos de la Secretaría de Finanzas y Administración.
 
 > <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2011)</small>
 
@@ -91,11 +95,25 @@ A falta de disposición expresa en esta Ley, su Reglamento y en leyes especiales
 
 ### CAPÍTULO SEGUNDO. DE LA ORGANIZACIÓN DEL REGISTRO
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 6.
 
-Corresponde el ejercicio de la función registral al Poder Ejecutivo del Estado de Puebla a través del Organismo Público Descentralizado denominado Instituto Registral y Catastral del Estado de Puebla.
+Corresponde el ejercicio de la función registral al Poder Ejecutivo del Estado de Puebla, a través del Órgano Desconcentrado denominado Instituto Registral y Catastral del Estado de Puebla.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 6 Bis.
+
+Son Autoridades Registrales en el Estado:
+
+I. El Director General del Instituto Registral y Catastral del Estado de Puebla;
+
+II. El Director de Registro Público de la Propiedad;
+
+III. El Subdirector de Control y Mejora de la Función Registral; y
+
+IV. Los Registradores Públicos.
 
 > <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2011)</small>
 
@@ -103,51 +121,51 @@ Corresponde el ejercicio de la función registral al Poder Ejecutivo del Estado 
 
 Las funciones encomendadas a los servidores públicos del Registro se regirán por esta Ley y su Reglamento, así como por el Reglamento Interior del Instituto, los manuales de organización, de procedimientos y de sistema informático del Registro Público y demás disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 8.
 
-El Director General del Instituto propondrá a la Junta de Gobierno, a quien ocupará el cargo de Director, el que tendrá las atribuciones siguientes:
+Son facultades de las Autoridades Registrales del Estado, en el ámbito de sus respectivas competencias:
 
-I. Ejercer la fe pública registral en el Estado;
+I. Ejercer la fe pública registral, en el Estado;
 
-II. Planear, organizar, coordinar, dirigir, controlar y evaluar los servicios en las oficinas registrales en el Estado;
+II. Ordenar la actualización permanente del sistema registral, así como favorecer la vinculación técnica, operativa y jurídica entre el Registro y otras dependencias e instituciones, con el objeto de consolidar la administración territorial, catastral y registral del Estado;
 
-III. Resolver las consultas formuladas por los Registradores;
+III. Resolver de conformidad con la legislación aplicable, en el ámbito de sus respectivas competencias, el recurso administrativo registral que se interponga en contra de los actos emitidos por las autoridades registrales;
 
-IV. Gestionar la instrumentación de los sistemas de tecnología requeridos para el funcionamiento del Registro;
+IV. Examinar y calificar los documentos y autorizar con su firma todos los asientos;
 
-V. Informar periódicamente sobre la actividad del Registro, en términos de la normatividad que para tal efecto se emita;
+V. Permitir a las personas que lo soliciten, realicen las consultas de las inscripciones existentes en el propio Registro y de los documentos relacionados que formen parte del acervo registral, en los términos que determine el Reglamento;
 
-VI. Dictar las medidas necesarias para agilizar la actividad en el Registro, promoviendo el desarrollo administrativo y tecnológico de los procesos registrales;
+VI. Llevar a cabo, la reposición y/o restauración del acervo registral que esté deteriorado, extraviado o destruido, conforme a las constancias existentes en el Registro, así como las que sean proporcionadas por los interesados, autoridades o notarios;
 
-VII. Supervisar la actualización permanente del sistema registral, así como favorecer la vinculación técnica, operativa y jurídica entre el Registro y otras dependencias e instituciones, con el objeto de consolidar la administración territorial, catastral y registral del Estado;
+VII. Resolver sobre las solicitudes de rectificación, reposición y cancelación de asientos, respecto a la información que obre en el sistema o acervo registral;
 
-VIII. Promover la implantación y operación de un sistema de calidad en el Registro;
+VIII. Establecer y mantener actualizado el registro de patentes de los notarios;
 
-IX. Instruir la conformación de la estadística relativa a los movimientos registrales de cada Oficina Registral;
+IX. Resolver de conformidad con las disposiciones legales y demás aplicables, las consultas que presenten los particulares en materia registral;
 
-X. Informar mensualmente a las instancias correspondientes, sobre la estadística consolidada y desglosada de las actividades de las oficinas registrales en el Estado;
+X. Celebrar y ejecutar los convenios y acuerdos de coordinación suscritos con dependencias o entidades federales, estatales o municipales, así como con organizaciones vinculadas con los servicios registrales, a efecto de difundir o mejorar la función registral;
 
-XI. Elaborar y presentar propuestas de programas institucionales de corto, mediano y largo plazo, con los correspondientes proyectos de presupuestos, a fin de contar oportunamente con los recursos necesarios para la prestación del servicio registral y de favorecer la constante mejora y actualización del Registro;
+XI. Llevar los libros y realizar los asientos correspondientes, de conformidad con los ordenamientos legales aplicables y los criterios generales que para el efecto se emitan;
 
-XII. Representar a la Dirección en los procedimientos judiciales o administrativos en asuntos de su competencia y en aquéllos en que se demande al Registro;
+XII. Conocer y resolver sobre las solicitudes de traslado de partida;
 
-XIII. Proponer las reformas y adiciones a los ordenamientos legales en materia registral;
+XIII. Conocer y en su caso, ordenar de conformidad con las disposiciones legales aplicables, la suspensión temporal de la partida o del folio registral cuando se detecten posibles errores o controversias relacionadas con el mismo;
 
-XIV. Conocer, substanciar y resolver el Recurso a que se refiere la presente Ley;
+XIV. Implementar las acciones que permitan la sustitución del sistema manual del registro por el de folio electrónico, de conformidad con los planes y programas que al efecto se establezcan;
 
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
+XV. Emitir y difundir criterios que permitan la unificación y homologación en la prestación de los servicios y la atención de los trámites del Registro en las Oficinas Registrales;
 
-XV. Proponer al Director General del Instituto la celebración de convenios y acuerdos de coordinación con dependencias o entidades federales, estatales o municipales, así como con organizaciones vinculadas con los servicios registrales, a efecto de difundir o mejorar la función registral;
+XVI. Notificar de conformidad con las disposiciones legales y normatividad aplicables, los actos administrativos derivados de los procedimientos registrales;
 
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
+XVII. Vigilar que los sujetos obligados o responsables solidarios cumplan con las disposiciones fiscales, relativas a las operaciones registrales;
 
-XVI. Elaborar y proponer al Director General del Instituto la expedición de los manuales de organización, de procedimientos, del sistema informático registral y de servicios electrónicos que se requieran para el cumplimiento eficiente de la función;
+XVIII. Solicitar información a las Dependencias y Entidades de la Administración Pública Federal, Estatal y Municipal, en materia Registral de los datos, documentos e informes que se consideren necesarios para el ejercicio de las funciones registrales en el Estado;
 
-XVII. Actualizar la prestación de los servicios que ofrece el Registro, así como los trámites, requisitos y formatos para acceder a los mismos, en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla, y
+XIX. Imponer, de conformidad con los ordenamientos legales aplicables, las sanciones por el incumplimiento a las disposiciones en materia registral; y
 
-XVIII. Las demás que le sean conferidas por éste u otros ordenamientos.
+XX. Las demás que le sean conferidas por éste u otros ordenamientos.
 
 ###### Artículo 9.
 
@@ -167,33 +185,55 @@ VI. No pertenecer, como ministro, a algún culto religioso, y
 
 VII. No haber sido sentenciado por delito doloso que amerite pena corporal.
 
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
+Los mismos requisitos se requieren para ser Registrador Público, a excepción de la experiencia mínima, que en este caso será de un año.
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 10.
 
-Los servicios registrales se solicitarán y efectuarán en la Oficina Registral que competa en función de la ubicación de los bienes y personas jurídicas, en términos de la demarcación que se determine en el Reglamento.
+Los servicios registrales se solicitarán y efectuarán en la Oficina Registral que competa en función de la ubicación de los bienes y personas jurídicas, en términos de la demarcación que se determine en el Acuerdo de Circunscripción Territorial que emita el Secretario.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 11.
 
-En cada Oficina Registral habrá al menos un Registrador, quien tendrá las siguientes atribuciones:
+En cada Oficina Registral habrá al menos un Registrador Público, quien tendrá las siguientes atribuciones:
 
-I. Ejercer la fe pública registral en su demarcación territorial;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
+I. Ejercer la fe pública registral en la circunscripción territorial que le competa en función de la ubicación de los bienes y personas jurídicas, en términos de la demarcación que se determine en el Acuerdo de Circunscripción Territorial que emita el Secretario;
 
 II. Examinar y calificar los documentos y autorizar con su firma todos los asientos;
 
-III. Supervisar el proceso de inscripción, autorizando con su firma los folios y partidas registrales, así como las constancias que se generen por la inscripción correspondiente;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
+III. Realizar el proceso de inscripción, autorizando con su firma los folios y partidas registrales, así como las constancias que se generen por la inscripción correspondiente;
 
 IV. Vigilar que las inscripciones se realicen por riguroso turno, según el momento de presentación de los documentos;
 
-V. Permitir a las personas que lo soliciten se enteren de las inscripciones existentes en el propio Registro y de los documentos relacionados que formen parte del acervo registral, en los términos que determine el Reglamento;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
 
-VI. Expedir con sujeción a los requisitos que para el efecto señale el Reglamento, certificaciones de los asientos que se encuentren en el archivo a su cargo, así como reproducciones y transcripciones certificadas del acervo registral, autorizándolas con su firma;
+V. Permitir a las personas que lo soliciten, realicen las consultas de las inscripciones existentes en el propio Registro y de los documentos relacionados que formen parte del acervo registral, en los términos que determine el Reglamento;
 
-VII. Hacer constar que un bien determinado no está inscrito en la Oficina Registral a su cargo;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
 
-VIII. Certificar si una persona determinada tiene o no inscrito a su nombre algún bien, en los términos que se determinen en el Reglamento;
+VI. Expedir en los casos que proceda y de conformidad con las disposiciones legales y normatividad aplicables, certificaciones de los asientos que se encuentren en el archivo a su cargo, así como reproducciones y transcripciones certificadas del acervo registral, autorizándolas con su firma;
+
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
+VII. Certificar que un bien determinado, no está inscrito en la Oficina Registral a su cargo;
+
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
+VIII. Certificar si una persona determinada tiene o no inscrito a su nombre algún bien, en los términos que se determinen en las disposiciones legales y demás aplicables;
 
 IX. Ordenar la reposición y restauración del acervo registral que esté deteriorado, extraviado o destruido, conforme a las constancias existentes en el Registro, así como las que sean proporcionadas por los interesados, autoridades o notarios;
 
-X. Proporcionar a las instancias facultadas para requerirlos, los datos registrales que le soliciten y existan en su Oficina Registral, pudiendo incluir las certificaciones y constancias que sean necesarias para cumplimentar el requerimiento. En caso de que sean solicitadas constancias más allá de las necesarias para los efectos precisados, se expedirán previo pago de derechos por parte del interesado, salvo las excepciones de ley;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
+X. Proporcionar a las autoridades competentes que lo soliciten, los datos registrales o documentos que existan en sus oficinas registrales, previo pago de los derechos correspondientes, en los casos que proceda;
 
 XI. Resolver sobre las solicitudes de rectificación, reposición y cancelación de asientos, respecto a la información que obre en el sistema o acervo registral;
 
@@ -201,33 +241,75 @@ XII. Representar a su Oficina Registral en los procedimientos judiciales o admin
 
 XIII. Comprobar el pago de los derechos de inscripción, y verificar que se hayan acompañado los comprobantes de pago de otras contribuciones correspondientes a la operación;
 
-XIV. Remitir al Director la estadística de los movimientos relativa a los movimientos registrales y la que le solicite, que contendrá al menos el número de operaciones realizadas, su valor, el monto de los derechos causados y el número de títulos rechazados en su calificación registral;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
 
-XV. Llevar el registro de patentes de los notarios conforme a esta Ley, y
+XIV. Remitir a su superior jerárquico, la estadística relativa a los movimientos registrales y la que éste le solicite, que contendrá al menos el número de operaciones realizadas, su valor, el monto de los derechos causados y el número de títulos rechazados en su calificación registral;
 
-XVI. Las demás que le sean conferidas por éste u otros ordenamientos.
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2011)</small>
+XV. Llevar el registro de patentes de los notarios, conforme a la Ley aplicable;
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
+XVI. Supervisar la encuadernación de los libros del Registro que se formen con los documentos inscritos, debiendo llevar su control y una relación pormenorizada de los mismos;
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
+XVII. Presentar las denuncias ante el Ministerio Público y dar aviso a la Secretaría de la Contraloría del Estado, a más tardar a los dos días hábiles posteriores a que se haya dado el aviso del extravío o destrucción de documentos en sus oficinas, para el efecto de que se deslinden las responsabilidades legales correspondientes, así como realizar las acciones necesarias para su inmediata reposición;
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
+XVIII. Recibir los recursos administrativos registrales que se interpongan en contra de los actos emanados de su Oficina Registral y, en el supuesto de que falte alguno de los requisitos establecidos en la presente Ley, prevenir al recurrente para que en el término de tres días hábiles subsane la omisión, realizando el apercibimiento respectivo;
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
+XIX. Recibir y remitir los recursos administrativos registrales, dentro de los plazos establecidos en la presente Ley, a la unidad administrativa de la Secretaría competente para conocer, sustanciar y dejar en estado de resolución; debiendo acompañar los demás documentos presentados por el recurrente, así como su informe y constancias en las que sustente el acto impugnado;
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
+XX. Acatar de inmediato las resoluciones del recurso administrativo registral que se dicten con base a la Ley;
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
+XXI. Turnar en forma inmediata los asuntos de carácter jurisdiccional y demás de naturaleza análoga, acompañados de los requisitos y constancias que establece la Ley y que obren en su poder, a la unidad administrativa de la Secretaría competente para la tramitación de estos;
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
+XXII. Notificar los actos administrativos que emitan las autoridades registrales, en los casos y en la forma en que determinen las disposiciones legales y normatividad aplicables; y
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
+XXIII. Las demás que le sean conferidas por éste u otros ordenamientos.
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 12.
 
-Los Registradores serán nombrados por el Director General del Instituto con sujeción a los procedimientos, planes o programas que al efecto se establezcan para la profesionalización y capacitación del personal del Instituto y deberán ser licenciados en derecho.
+Los Registradores Públicos serán nombrados por el Secretario con sujeción a los procedimientos, planes o programas que al efecto se establezcan para la profesionalización y capacitación del personal del Instituto.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], P.O. 13 DE NOVIEMBRE DE 2014)</small>
 
-### CAPÍTULO TERCERO. DE LA PROFESIONALIZACIÓN DEL SERVICIO PÚBLICO REGISTRAL
+### CAPÍTULO TERCERO. DE LA PROFESIONALIZACIÓN DEL SERVICIO PÚBLICO REGISTRAL Y CATASTRAL
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 13.
 
-(DEROGADO, P.O. 3 DE AGOSTO DE 2011)
+Con el fin de garantizar que los servidores públicos que presten el servicio registral y catastral lo realicen atendiendo los principios de eficiencia, eficacia y certeza, se establecerán en el Reglamento las medidas necesarias para profesionalizar el servicio público registral y catastral, teniendo éstas el carácter de obligatorias.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 14.
 
-(DEROGADO, P.O. 3 DE AGOSTO DE 2011)
+Para efectos del artículo anterior se creará un órgano colegiado denominado Consejo de Profesionalización del Servicio Público Registral y Catastral, encargado de establecer las políticas para el ingreso, desarrollo profesional y evaluación del personal, en términos de lo dispuesto en el Reglamento.
+
+El Consejo dictará las medidas para la capacitación permanente de los servidores públicos adscritos al Instituto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 15.
 
-(DEROGADO, P.O. 3 DE AGOSTO DE 2011)
+Los servidores públicos que integren la Dirección, se sujetarán a lo dispuesto por el Consejo de Profesionalización del Servicio Público Registral y Catastral.
 
 ## TÍTULO SEGUNDO. DE LA FUNCIÓN REGISTRAL
 
@@ -289,9 +371,11 @@ Los bienes raíces o derechos reales, impuestos sobre los mismos, no deben inscr
 
 Por el principio de rogación la inscripción de los títulos en el Registro puede pedirse por quien tenga interés legítimo en asegurar el derecho que se va a inscribir, por el notario que hubiere autorizado el acto o por mandato judicial o administrativo.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 30.
 
-El Registrador no registrará de oficio actos jurídicos, aun cuando los conozca.
+El Registrador Público no registrará de oficio actos jurídicos, aun cuando los conozca.
 
 ###### Artículo 31.
 
@@ -301,9 +385,11 @@ En materia registral, la prelación entre derechos sobre dos o más actos que se
 
 El registro de los asientos producirá sus efectos desde el momento en que el documento ingresa a la Oficina Registral.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 33.
 
-El principio de legalidad o calificación registral consiste en la función atribuida al Registrador para examinar cada lino de los documentos que se presenten para su inscripción y para determinar no sólo si es de los documentos susceptibles de inscribirse, sino también si el acto que contiene satisface los requisitos de forma exigidos por ley, a fin de proceder en caso afirmativo a llevar a cabo la inscripción solicitada, previo el pago de los derechos correspondientes del Registro o, en caso contrario, a suspenderla si el documento tiene defectos subsanables o denegarla si los defectos son insubsanables.
+El principio de legalidad o calificación registral, consiste en la función atribuida al Registrador Público para examinar cada uno de los documentos que se presenten para su inscripción y para determinar no sólo si es de los documentos susceptibles de inscribirse, sino también si el acto que contiene satisface los requisitos de forma exigidos por ley, a fin de proceder en caso afirmativo a llevar a cabo la inscripción solicitada, previo el pago de los derechos correspondientes del Registro o, en caso contrario, a suspenderla si el documento tiene defectos subsanables o denegarla si los defectos son insubsanables.
 
 ### CAPÍTULO SEGUNDO. DEL SISTEMA REGISTRAL
 
@@ -433,9 +519,11 @@ III. Los demás que estipulen las leyes aplicables.
 
 Las limitaciones de dominio fijadas en los instrumentos urbanísticos y ecológicos se harán constar en los folios de los predios que resulten afectados, siempre que en los mencionados instrumentos se determinen con precisión los predios de que se trata.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 51.
 
-Los Registradores certificarán si en el folio se encuentra inscripción relativa a la afectación de planes y programas de desarrollo urbano o ecológico.
+Los Registradores Públicos certificarán si en el folio se encuentra inscripción relativa a la afectación de planes y programas de desarrollo urbano o ecológico.
 
 ###### Artículo 52.
 
@@ -473,11 +561,11 @@ VI. Los avisos de separación del cargo, defunciones y demás comunicaciones que
 
 ### CAPÍTULO TERCERO. DEL ACERVO REGISTRAL
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 55.
 
-Para respaldar el sistema de folio, las oficinas registrales tendrán un archivo en el que se conservará la información que sustenta al sistema, el cual se denominará acervo registral, siguiendo los lineamientos que para el efecto establezca el Reglamento y, en su caso, aquéllos que emita la Junta de Gobierno del Instituto.
+Para respaldar el sistema de folio, las oficinas registrales tendrán un archivo en el que se conservará la información que sustenta al sistema, el cual se denominará acervo registral, siguiendo los lineamientos que para el efecto establezca el Reglamento y demás disposiciones aplicables.
 
 ###### Artículo 56.
 
@@ -527,7 +615,7 @@ Cuando la presente Ley exija la forma escrita para la interacción ante el Regis
 
 El procedimiento automatizado para la inscripción en el Registro será mediante formas precodificadas, que son los formatos con los datos esenciales sobre cada acto registrable, necesarias para su ingreso, calificación y, en su caso, inscripción o anotación electrónica.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 67.
 
@@ -549,9 +637,11 @@ VI. El contenido de las formas precodificadas.
 
 ### CAPÍTULO PRIMERO. DE LOS ASIENTOS REGISTRALES
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 68.
 
-Asiento es el acto por el que el Registrador materializa en el folio o partida correspondiente el acto jurídico inscrito, ya sea en su modalidad de inscripción o de anotación, las que se realizarán conforme a esta Ley y su Reglamento. Salvo excepción prevista en la ley, las solicitudes de inscripción y anotación se realizarán en un término que no excederá de diez días a partir de su calificación.
+Asiento es el acto por el que el Registrador Público materializa en el folio o partida correspondiente el acto jurídico inscrito, ya sea en su modalidad de inscripción o de anotación, las que se realizarán conforme a esta Ley y su Reglamento. Salvo excepción prevista en ley, las solicitudes de inscripción y anotación se realizarán en un término que no excederá de cinco días hábiles a partir de su calificación.
 
 ###### Artículo 69.
 
@@ -569,9 +659,11 @@ Los documentos privados que conforme a la ley fueran válidos, se registrarán s
 
 Los actos ejecutados, los contratos otorgados y las resoluciones judiciales pronunciadas en otro país que produzcan efectos en el Estado de Puebla, se registrarán de acuerdo con las disposiciones legales que les sean aplicables.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 73.
 
-El Registrador hará el asiento si encuentra que el título presentado es de los que deben inscribirse y satisface las formalidades exigidas por la ley, debiendo contener los requisitos a que se refiere esta Ley y su Reglamento. En caso contrario devolverá el título sin registrar, expresando por escrito la causa y fundando su negativa, siendo necesaria resolución administrativa que ordene el registro.
+El Registrador Público hará el asiento si encuentra que el título presentado es de los que deben inscribirse y satisface las formalidades exigidas por la ley, debiendo contener los requisitos a que se refiere esta Ley y su Reglamento. En caso contrario devolverá el título sin registrar, expresando por escrito la causa y fundando su negativa, siendo necesaria resolución administrativa que ordene el registro.
 
 ###### Artículo 74.
 
@@ -589,17 +681,21 @@ La prelación de las inscripciones y anotaciones se determinará por razón del 
 
 Tratándose de documentos privados, cuando el acto o contrato se haya celebrado por medio de representante, se exigirá la presentación del documento original o copia certificada en que conste dicha representación. En caso contrario se negará su inscripción.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 78.
 
-El Registrador realizará la calificación registral en un término que no exceda de cinco días. En el caso de que el título no satisfaga los requisitos de ley, cuando éstos sean subsanables, se suspenderá por el término de ocho días el registro a efecto de que el interesado subsane la causa del rechazo.
+El Registrador Público realizará la calificación registral en un término que no exceda de cinco días. En el caso de que el título no satisfaga los requisitos de ley, cuando éstos sean subsanables, se suspenderá por el término de ocho días el registro a efecto de que el interesado subsane la causa del rechazo.
 
 ###### Artículo 79.
 
 De calificarse la solicitud como improcedente se denegará de plano su inscripción, lo que se hará del conocimiento del interesado o en su caso de la autoridad que lo solicite, en los términos de ley, procediendo a efectuar las anotaciones preventivas que conforme a esta Ley corresponden.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 80.
 
-Los Registradores ejercerán bajo su absoluta responsabilidad la función calificadora respecto de la procedencia o improcedencia de la inscripción o anotación del documento presentado ante ellos.
+Los Registradores Públicos ejercerán bajo su absoluta responsabilidad la función calificadora respecto de la procedencia o improcedencia de la inscripción o anotación del documento presentado ante ellos.
 
 ###### Artículo 81.
 
@@ -639,9 +735,11 @@ VI. Las fianzas legales o judiciales, y
 
 VII. Cualquier otro título que sea anotable preventivamente, de acuerdo con este ordenamiento u otras leyes.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 85.
 
-En los actos que se señalan en las fracciones III, IV y VI del artículo anterior, el Registrador hará una nota de presentación con vigencia de quince días hábiles, a efecto de que los interesados puedan realizar los pagos de derechos correspondientes a su anotación preventiva, que queda estrictamente condicionada al pago. Si la anotación se hiciere en su oportunidad, surtirá efectos desde su presentación.
+En los actos que se señalan en las fracciones III, IV y VI del artículo anterior, el Registrador Público hará una nota de presentación con vigencia de quince días hábiles, a efecto de que los interesados puedan realizar los pagos de derechos correspondientes a su anotación preventiva, que queda estrictamente condicionada al pago. Si la anotación se hiciere en su oportunidad, surtirá efectos desde su presentación.
 
 ###### Artículo 86.
 
@@ -653,7 +751,9 @@ a) En el caso de que se haya rechazado la inscripción, tendrá una vigencia má
 
 b) Si por la resolución del Recurso se ordena se registre el título rechazado, la inscripción definitiva surte efectos desde que se presentó el título;
 
-c) Si se confirma la calificación hecha por el Registrador, transcurrido el término señalado por el artículo 138 y de no haber recibido notificación por parte de autoridad competente, de que se haya iniciado procedimiento que combata la confirmación, se cancelará la anotación preventiva. De igual manera se cancelará si transcurre un año sin que se notifique la resolución que haya tenido dicho procedimiento;
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
+c) Si se confirma la calificación hecha por el Registrador Público, transcurrido el término señalado por el artículo 138 y de no haber recibido notificación por parte de autoridad competente, de que se haya iniciado procedimiento que combata la confirmación, se cancelará la anotación preventiva. De igual manera se cancelará si transcurre un año sin que se notifique la resolución que haya tenido dicho procedimiento;
 
 d) Si como consecuencia de resolución de autoridad judicial competente, debe registrarse el título rechazado, la inscripción definitiva surte sus efectos desde que se presentó el título;
 
@@ -667,9 +767,11 @@ IV. La vigencia señalada en ley especial u otros ordenamientos, y
 
 V. En los casos no previstos tendrá una vigencia de tres años.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 87.
 
-Corresponderá a los interesados gestionar que las anotaciones cuya causa originadora continúe vigente sean prorrogadas por un término similar cuantas veces sea necesario, debiendo el Registrador otorgar la prórroga siempre que la solicitud se haya formulado dentro de la vigencia de la anotación y medie solicitud de instancia competente.
+Corresponderá a los interesados gestionar que las anotaciones cuya causa originadora continúe vigente, sean prorrogadas por un término similar cuantas veces sea necesario, debiendo el Registrador Público otorgar la prórroga siempre que la solicitud se haya formulado dentro de la vigencia de la anotación y medie solicitud de instancia competente.
 
 En caso de que la solicitud de prórroga se presente fuera de la vigencia de la anotación se denegará la misma, quedando expedito el derecho del interesado de solicitar nuevamente su inscripción, con las consecuencias de prelación que resulten.
 
@@ -679,19 +781,21 @@ En caso de que la solicitud de prórroga se presente fuera de la vigencia de la 
 
 Se podrá proceder a la cancelación de las anotaciones preventivas en forma previa a su caducidad conforme a lo establecido en el Reglamento, asimismo se podrá proceder a la cancelación del primer aviso preventivo en forma previa a su caducidad a solicitud de parte interesada.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 89.
 
-No se requerirá el consentimiento del titular de los derechos anotados para decretar la caducidad de anotaciones preventivas o del primer aviso preventivo. La caducidad produce la extinción del asiento por el simple transcurso del tiempo y ésta será declarada de oficio por el Registrador bajo su responsabilidad, en forma fundada y motivada, previo el cómputo de los plazos de vigencia, quedando a salvo el derecho de los usuarios a solicitarla.
+No se requerirá el consentimiento del titular de los derechos anotados para decretar la caducidad de anotaciones preventivas o del primer aviso preventivo. La caducidad produce la extinción del asiento por el simple transcurso del tiempo y ésta será declarada de oficio por el Registrador Público bajo su responsabilidad, en forma fundada y motivada, previo el cómputo de los plazos de vigencia, quedando a salvo el derecho de los usuarios a solicitarla.
 
 ###### Artículo 90.
 
 Los asientos en su modalidad de inscripciones o anotaciones producirán sus efectos desde el día y la hora en el que el título se hubiera presentado a la Oficina Registral, salvo lo dispuesto en el siguiente artículo.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 91.
 
-El notario ante quien se pretende otorgar o se otorgue una escritura en la que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión de bienes raíces o cualquier derecho real sobre ellos estará obligado a la presentación de los avisos preventivos que establece esta Ley, en la Oficina Registral correspondiente.
+El notario ante quien se pretende otorgar o se otorgue una escritura en la que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad de bienes raíces, estará obligado a la presentación de los avisos preventivos que establece esta Ley, en la Oficina Registral correspondiente.
 
 ###### Artículo 92.
 
@@ -701,29 +805,37 @@ I. Primer aviso preventivo:
 
 a) Mediante escrito el notario solicitará se efectúe la anotación del primer aviso preventivo, informando a la Oficina Registral sobre las operaciones que tenga proyectadas relativas a los actos señalados en el artículo 91, por cada folio o partida registral que se afecte;
 
-b) En esa solicitud, el notario deberá indicar el inmueble objeto de las operaciones proyectadas, los nombres de los futuros contratantes y el antecedente registral, ya sea folio o partida. De calificarla procedente, el Registrador hará de manera inmediata la anotación correspondiente;
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
 
-c) El notario solicitará al Registrador el certificado en el que conste la anotación del primer aviso preventivo, la situación registral que reporte el bien y la constancia relativa a las declaratorias de provisiones, usos, reservas y destinos, que estuvieren inscritos en forma individualizada en su folio;
+b) En esa solicitud, el notario deberá indicar el inmueble objeto del acto o actos a realizar, la operación u operaciones proyectadas, los nombres de los futuros contratantes y el antecedente registral, ya sea folio o partida. De calificarla procedente, el Registrador Público hará de manera inmediata la anotación o anotaciones correspondientes;
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
+c) El notario solicitará al Registrador Público el certificado en el que conste la anotación del primer aviso preventivo, la situación registral que reporte el bien y la constancia relativa a las declaratorias de provisiones, usos, reservas y destinos, que estuvieren inscritos en forma individualizada en su folio;
 
 d) El primer aviso preventivo tendrá una vigencia de noventa días naturales, contados a partir de la fecha de su presentación;
 
 II. Segundo aviso preventivo:
 
-a) Posterior a la presentación del primer aviso preventivo, después de firmada y autorizada preventivamente la escritura, el notario ante quien se celebre la operación presentará el segundo aviso preventivo dentro de la vigencia del primero;
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
+a) Posterior a la presentación del primer aviso preventivo, después de firmada y autorizada preventivamente la escritura, el notario ante quien se celebre la operación podrá presentar el segundo aviso preventivo dentro de la vigencia del primero;
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2009)</small>
 
 b) En el segundo aviso preventivo el notario deberá indicar la fecha y número del instrumento en que se haya formalizado la operación, el bien de que se trata, el antecedente registral; la indicación de que se transmitió o modificó su dominio o que se constituyó, transmitió, modificó o extinguió un derecho real sobre él; los nombres de los otorgantes, que deberán ser los mismos que se señalaron en el primer aviso, y el precio o importe de la operación. Faltando alguno de los elementos señalados en este inciso no surtirá efectos legales el aviso.
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
 
-c) Recibido el segundo aviso preventivo, el Registrador hará inmediatamente su anotación si resultara procedente. En caso de que exista diferencia entre la información de los avisos preventivos, el segundo aviso será rechazado.
+c) Recibido el segundo aviso preventivo, el Registrador Público hará inmediatamente su anotación si resultare procedente. En caso de que exista diferencia entre la información de los avisos preventivos, el segundo aviso será rechazado;
 
 d) (DEROGADO, P.O. 3 DE AGOSTO DE 2011)
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
 
-e) Si el Notario no presenta para su inscripción definitiva el testimonio de cuya operación dio fe, dentro de ciento ochenta días naturales contados a partir de la fecha de presentación del segundo aviso, por causas que le sean imputables, será responsable de los daños y perjuicios que este hecho genere ante terceros o ante quienes participen en la operación, independientemente de las sanciones que determina la Ley del Notariado.
+e) Si el notario no presenta para su inscripción definitiva el testimonio de cuya operación dio fe, mientras se encuentra vigente el primer aviso preventivo o dentro de los ciento ochenta días naturales contados a partir de la fecha de presentación del segundo aviso, por causas que le sean imputables, será responsable de los daños y perjuicios que este hecho genere ante terceros o ante quienes participen en la operación, independientemente de las sanciones que determina la Ley del Notariado.
+
+Durante la vigencia de los avisos preventivos, el notario ante quien se celebre la operación, podrá rectificar, en su caso, la información otorgada a la Oficina Registral, siempre y cuando se trate de errores ortográficos mecanográficos, aritméticos o de cualquier otro tipo, cuando no afecten los elementos esenciales del acto o actos jurídicos de origen.
 
 III. Efectos de los avisos:
 
@@ -731,7 +843,9 @@ a) Mientras se encuentren vigentes los avisos no podrá hacerse ninguna inscripc
 
 b) Si se presenta el testimonio a inscribir dentro de la vigencia ininterrumpida de los avisos preventivos se retrotraerán los efectos de la inscripción a la fecha de presentación del primero;
 
-c) El Registrador constatará que la información de los avisos preventivos coincida con el instrumento presentado para inscripción. En caso de que exista diferencia, no surtirán efectos los avisos preventivos presentados, procediendo el Registrador a calificar las solicitudes de anotaciones o inscripciones que conforme a las notas de presentación estuvieren pendientes de calificación, para que surtan sus efectos de prelación.
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
+c) El Registrador Público constatará que la información de los avisos preventivos coincida con el instrumento presentado para inscripción. En caso de que exista diferencia, no surtirán efectos los avisos preventivos presentados, procediendo el Registrador Público a calificar las solicitudes de anotaciones o inscripciones que conforme a las notas de presentación estuvieren pendientes de calificación, para que surtan sus efectos de prelación.
 
 ### CAPÍTULO SEGUNDO. DE LA INMATRICULACIÓN
 
@@ -743,9 +857,11 @@ La inmatriculación es la inscripción en el Registro del derecho de propiedad d
 
 El procedimiento de inmatriculación sólo procederá por orden de autoridad judicial o por resolución administrativa de autoridad competente.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 95.
 
-Es requisito previo para el procedimiento de inmatriculación obtener de la Oficina Registral respectiva, un certificado que acredite que el bien de que se trata no está inscrito y no forma parte de otro inscrito. Para dicho fin el Registrador podrá allegarse información de otras autoridades administrativas.
+Es requisito previo para el procedimiento de inmatriculación obtener de la Oficina Registral respectiva, un certificado que acredite que el bien de que se trata no está inscrito y no forma parte de otro inscrito. Para dicho fin el Registrador Público podrá allegarse información de otras autoridades administrativas.
 
 ###### Artículo 96.
 
@@ -765,9 +881,11 @@ Para efectos del artículo anterior se considera error material cuando se escrib
 
 La rectificación por error material se hará a petición de parte interesada mediante el cotejo del título correspondiente con los archivos registrales.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 100.
 
-El error de concepto sucede cuando al expresar en la inscripción alguno de los datos contenidos en el título se altere o varíe su sentido porque el Registrador se hubiere formado un juicio equivocado del mismo, por una errónea calificación del contrato o acto en él consignado o por cualquier otra circunstancia. El concepto rectificado surtirá efectos desde la fecha de su rectificación.
+El error de concepto sucede cuando al expresar en la inscripción alguno de los datos contenidos en el título, se altere o varíe su sentido porque el Registrador Público se hubiere formado un juicio equivocado del mismo, por una errónea calificación del contrato o acto en él consignado o por cualquier otra circunstancia. El concepto rectificado surtirá efectos desde la fecha de su rectificación.
 
 ###### Artículo 101.
 
@@ -849,9 +967,11 @@ III. Cuando antes de la adquisición se hubiere hecho alguna anotación en el Re
 
 No podrá ejercitarse ninguna acción contradictoria sobre el dominio de inmuebles o de derechos reales sin que previamente, o a la vez, se entable demanda de nulidad o cancelación de la inscripción en que conste dicho dominio o derecho.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 115.
 
-El Registrador procederá a cancelar las inscripciones del sistema registral de manera total o parcial cuando se presenten los supuestos previstos por los artículos que anteceden, haciendo la cancelación de tal manera que siempre permita consultar el historial de estos asientos.
+El Registrador Público procederá a cancelar las inscripciones del sistema registral de manera total o parcial cuando se presenten los supuestos previstos por los artículos que anteceden, haciendo la cancelación de tal manera que siempre permita consultar el historial de estos asientos.
 
 ###### Artículo 116.
 
@@ -859,31 +979,41 @@ Adicionalmente a lo determinado por este Capítulo se observará lo que disponga
 
 ### CAPÍTULO QUINTO. DE LAS CERTIFICACIONES
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 117.
 
-La certificación es el acto registral mediante el cual el Registrador plasma en un documento denominado certificado, los asientos que obren en el Sistema, o las constancias que obren en el acervo registral. El Reglamento regulará la forma de llevar a cabo su expedición.
+La certificación es el acto registral mediante el cual el Registrador Público plasma en un documento denominado certificado, los asientos que obren en el Sistema, o las constancias que obren en el acervo registral. El Reglamento regulará la forma de llevar a cabo su expedición.
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 118.
 
-Las certificaciones deben expedirse con la firma del Registrador, así como con el sello oficial del Registro de que se trate, o bien por los medios electrónicos que garanticen la fidelidad de su contenido.
+Las certificaciones deben expedirse con la firma del Registrador Público, así como con el sello oficial del Registro de que se trate, o bien por los medios electrónicos que garanticen la fidelidad de su contenido.
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 119.
 
-Los Registradores tendrán la obligación de expedir certificaciones a quien lo solicite y cumpla con los requisitos señalados para el efecto, cuando de la solicitud se desprenda la información correcta de lo que requiere y se acredite el pago de derechos correspondiente.
+Los Registradores Públicos tendrán la obligación de expedir certificaciones a quien lo solicite y cumpla con los requisitos señalados para el efecto, cuando de la solicitud se desprenda la información correcta de lo que requiere y se acredite el pago de derechos correspondiente.
 
-De resultar procedente, los certificados de no inscripción o de no propiedad, se expedirán en un máximo de nueve días contados a partir del momento en que se cumpla con los requisitos exigidos para ello. En caso de otros certificados, en un plazo no mayor a cuatro días.
+De resultar procedente, los certificados de no inscripción o de no propiedad, se expedirán en un máximo de cuatro días hábiles contados a partir del momento en que se cumpla con los requisitos exigidos para ello. En caso de otros certificados, en un plazo no mayor a dos días hábiles.
 
 ###### Artículo 120.
 
 Cuando se expidan certificados de situación registral se hará referencia a la información general del folio o partida, la existencia o inexistencia de gravámenes, así como a todos los asientos vigentes.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 121.
 
-Cuando se requiera expedir un certificado de situación registral y exista algún título en proceso de inscripción o anotación, el Registrador procederá a resolver sobre la calificación registral pendiente, y posteriormente expedirá la certificación respetando la prelación de todos los títulos presentados para registro.
+Cuando se requiera expedir un certificado de situación registral y exista algún título en proceso de inscripción o anotación, el Registrador Público procederá a resolver sobre la calificación registral pendiente, y posteriormente expedirá la certificación respetando la prelación de todos los títulos presentados para registro.
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 122.
 
-Si al realizar la búsqueda respectiva resultara que el inmueble objeto de la solicitud forma o pudiera formar parte de otro inmueble inscrito, el Registrador negará fundada y motivadamente la expedición de la certificación correspondiente.
+Si al realizar la búsqueda respectiva resultara que el inmueble objeto de la solicitud forma o pudiera formar parte de otro inmueble inscrito, el Registrador Público negará fundada y motivadamente la expedición de la certificación correspondiente.
 
 ###### Artículo 123.
 
@@ -895,21 +1025,35 @@ Las certificaciones que se acompañen a informes requeridos por autoridad compet
 
 ## TÍTULO CUARTO. DE LA INTERRELACIÓN GUBERNAMENTAL Y CON OTROS SECTORES
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], P.O. 13 DE NOVIEMBRE DE 2014)</small>
 
 ### CAPÍTULO PRIMERO. DE LA VINCULACIÓN CON EL CATASTRO
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 125.
 
-(DEROGADO, P.O. 3 DE AGOSTO DE 2011)
+Con el fin de cumplir a cabalidad con los principios registrales consagrados en el artículo 16 de este ordenamiento, deberá existir coordinación entre la función Registral y sus procesos vinculados, procurando a su vez que haya coordinación con las oficinas catastrales municipales, en términos de los convenios que para tal efecto sean celebrados, con el propósito de diseñar y operar mecanismos que sirvan para los siguientes fines:
+
+I. Reforzar la certeza jurídica que otorga el Registro;
+
+II. Otorgar congruencia entre la información técnica catastral y jurídica registral;
+
+III. Coadyuvar al enriquecimiento del inventario de inmuebles que constan en las bases catastrales; y
+
+IV. Incrementar la recaudación de contribuciones que correspondan a los municipios.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 126.
 
-(DEROGADO, P.O. 3 DE AGOSTO DE 2011)
+Se establecerán las bases para que a través de los mecanismos de vinculación electrónica, las Direcciones de Registro Público de la Propiedad y, de Catastro; así como, las oficinas catastrales municipales puedan consultar, de manera automática, el estado que guarda la base de datos inmobiliaria, alimentada de acuerdo con el ámbito de competencia de cada área, respecto al folio electrónico, identificación de características físicas del inmueble, cuentas catastrales y ubicación geográfica. Será responsabilidad de las autoridades relacionadas con este proceso, crear los mecanismos electrónicos para el correcto tráfico de la información.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 127.
 
-(DEROGADO, P.O. 3 DE AGOSTO DE 2011)
+La Dirección de Catastro del Estado, en coordinación con las oficinas catastrales municipales, proporcionará información sobre la realidad física y catastral que guarden los inmuebles representados en la cartografía catastral.
 
 ###### Artículo 128.
 
@@ -921,9 +1065,11 @@ Las certificaciones que se acompañen a informes requeridos por autoridad compet
 
 En lo relativo al Registro Público de Comercio y los actos registrales que deriven de leyes federales, se sujetarán a las disposiciones del Capítulo Segundo del Título Segundo del Libro Primero del Código de Comercio, el Reglamento del Registro Público del Comercio, demás leyes federales especiales, así como por los convenios de coordinación suscritos entre el Estado y la Secretaría de Economía Federal.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 130.
 
-Los Registradores se sujetarán en materia registral comercial a los ordenamientos mencionados.
+Los Registradores Públicos se sujetarán en materia registral comercial a los ordenamientos mencionados.
 
 ### CAPÍTULO TERCERO. DE LA ESTADÍSTICA DEL REGISTRO
 
@@ -943,9 +1089,11 @@ La estadística mensual que se produzca en el Registro contendrá al menos el n�
 
 Los términos que señale esta Ley comprenderán días hábiles, salvo que expresamente se mencione que son naturales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 134.
 
-Las gestiones, solicitudes de servicios o promociones que se formulen ante el Director o los Registradores deberán realizarse por escrito y contendrán:
+Las gestiones, solicitudes de servicios o promociones que se formulen ante el Director o los Registradores Públicos, deberán realizarse por escrito y contendrán:
 
 I. La autoridad a quien van dirigidas;
 
@@ -969,17 +1117,15 @@ El Reglamento desarrollará la forma en que se efectuarán las notificaciones y 
 
 ### CAPÍTULO SEGUNDO. DEL RECURSO ADMINISTRATIVO REGISTRAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 137.
 
-Quienes se consideren agraviados por los actos registrales dictados por los Registradores, podrán interponer el Recurso, el cual será resuelto por el Director y en los casos en que se combatan actos registrales de este último, resolverá el Director General del Instituto. El Recurso deberá agotarse antes de acudir a otros medios de defensa.
+Quienes se consideren agraviados por los actos emanados de las autoridades registrales, podrán interponer el Recurso Administrativo Registral, el cual será substanciado y resuelto por el área que se determine en las disposiciones reglamentarias correspondientes.
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2011)</small>
+El Recurso deberá agotarse antes de acudir a otros medios de defensa.
 
-El Recurso procederá contra actos registrales emitidos por los Registradores o por el Director en el caso en que actúe como Registrador en ausencia o por excusa del titular de una oficina registral. En el primer caso, resolverá el Director y en el segundo, el Director General del Instituto.
-
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2009)</small>
+El Recurso procederá contra actos registrales emitidos por los Registradores Públicos o por el Director en el caso en que actúe como Registrador Público en ausencia o por excusa del titular de una Oficina Registral.
 
 Podrán recurrir el acto registral, conjunta o separadamente, las partes que intervengan en la operación sujeta a inscripción, el notario que autorizó el título o la autoridad que ordenó la inscripción.
 
@@ -1027,7 +1173,9 @@ I. Deberá interponerse directamente en la oficina registral en la que se emiti�
 
 II. En el supuesto de que falte alguno de los requisitos mencionados en el artículo anterior, la autoridad responsable prevendrá al recurrente para que en el término de tres días hábiles subsane la omisión, con el apercibimiento de que en caso de no hacerlo, se remitirá el Recurso a la autoridad resolutora, quien en consecuencia lo desechará;
 
-III. Si a consideración del Registrador el escrito recursal cumple con los requisitos exigidos, o habiendo fenecido el plazo señalado en la fracción anterior, la autoridad registral lo remitirá dentro de los tres días hábiles siguientes a la autoridad resolutora, acompañando los demás documentos presentados por el recurrente, así como su informe y constancias en las que sustente el acto impugnado; y
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
+III. Si a consideración del Registrador Público el escrito recursal cumple con los requisitos exigidos, o habiendo fenecido el plazo señalado en la fracción anterior, la autoridad registral lo remitirá dentro de los tres días hábiles siguientes a la autoridad resolutora, acompañando los demás documentos presentados por el recurrente, así como su informe y constancias en las que sustente el acto impugnado; y
 
 IV. La autoridad resolutora, en un solo momento admitirá o desechará el Recurso y en su caso, valorará las pruebas y resolverá el Recurso en el plazo de diez días contados a partir de la recepción del expediente.
 
@@ -1047,7 +1195,9 @@ b) Por no haberse promovido en el plazo señalado para ello; y
 
 c) Cuando falte alguno de los requisitos señalados en el artículo 139 de la presente Ley, y no se hayan subsanado.
 
-III. Se dicte resolución definitiva al Recurso, la que podrá confirmar o modificar el acto impugnado, indicando con precisión sus nuevos efectos en este último caso. Al resolverse el Recurso, el Director podrá instruir al Registrador sobre las medidas que deberá realizar para mejorar la práctica registral.
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
+III. Se dicte resolución definitiva al Recurso, la que podrá confirmar o modificar el acto impugnado, indicando con precisión sus nuevos efectos en este último caso. Derivado de la resolución del Recurso, el Director podrá instruir a los Registradores Públicos sobre las medidas que deberán realizar para mejorar la práctica registral.
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2009)</small>
 
@@ -1095,7 +1245,7 @@ EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Pal
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los diecisiete días del mes de marzo de dos mil nueve.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación LICENCIADO MARIO ALBERTO MONTERO SERRANO.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 29 DE JUNIO DE 2009.
 
@@ -1112,3 +1262,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Las disposiciones reglamentarias que deriven de las presentes reformas, se efectuarán dentro del plazo de sesenta días hábiles, a partir de su publicación en el Periódico Oficial del Estado.
