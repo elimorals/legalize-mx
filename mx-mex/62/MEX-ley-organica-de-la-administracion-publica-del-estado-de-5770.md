@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2014-10-22"
+last_updated: "2014-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -239,97 +239,55 @@ Las Secretarías y la Consejería Jurídica a las que se refieren las fracciones
 
 La SECRETARIA GENERAL DE GOBIERNO es el órgano encargado de conducir, por delegación del Ejecutivo, la política interior del Estado y la coordinación y supervisión del despacho de los asuntos encomendados a las demás dependencias a que se refiere el artículo anterior.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE OCTUBRE DE 1992)</small>
+> <small>(REFORMADO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 21.
 
-A la SECRETARIA GENERAL DE GOBIERNO corresponde, además de las atribuciones que expresamente le confiere la Constitución Política del Estado, el despacho de los siguientes asuntos:
+A la Secretaría General de Gobierno corresponde el despacho de los asuntos siguientes:
 
-> <small>(REFORMADA, G.G. 19 DE OCTUBRE DE 1992)</small>
+I. Presidir los gabinetes Legal y Ampliado, en las ausencias del Gobernador del Estado;
 
-I. Conducir las relaciones del Poder Ejecutivo con los demás Poderes y con los Ayuntamientos del Estado, así como con las autoridades de otras entidades federativas.
+II. Conducir por delegación del Ejecutivo los asuntos de orden político interno del Estado;
 
-> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2003)</small>
+III. Conducir las relaciones del Poder Ejecutivo con los demás Poderes, así como con los ayuntamientos del Estado, autoridades de otras entidades federativas, los órganos constitucionales autónomos, partidos, agrupaciones políticas nacionales o estatales y con las organizaciones sociales;
 
-II. Conducir por delegación del Ejecutivo los asuntos de orden político interno y suplir al titular del Ejecutivo en sus ausencias de hasta por 15 días.
+IV. Coadyuvar, en el ámbito de su competencia, con los poderes Legislativo y Judicial y con los ayuntamientos del Estado, en el cumplimiento de sus atribuciones;
 
-> <small>(REFORMADA, G.G. 19 DE OCTUBRE DE 1992)</small>
+V. Fortalecer y promover las acciones para preservar la integridad, estabilidad y permanencia de las instituciones del Estado;
 
-III. Cumplir y hacer cumplir las políticas, los acuerdos, las órdenes, las circulares y demás disposiciones del Ejecutivo del Estado.
+VI. Cumplir y hacer cumplir las políticas, los acuerdos, las órdenes, las circulares y demás disposiciones del Ejecutivo del Estado;
 
-IV. (DEROGADA, G.G. 19 DE DICIEMBRE DE 2012)
+VII. Realizar análisis y prospectiva política para contribuir a la gobernabilidad democrática que dé sustento a la unidad estatal;
 
-V. Tramitar lo relacionado con los nombramientos, licencias, remociones y renuncias de los magistrados del Tribunal Superior de Justicia.
+VIII. Refrendar para su validez y observancia legal, todas las leyes, decretos, reglamentos, circulares, acuerdos y, en general, los documentos que suscriba el Gobernador en ejercicio de sus atribuciones;
 
-VI. Otorgar a los Tribunales, a las autoridades judiciales y en general, a las dependencias públicas, el auxilio necesario para el debido ejercicio de sus funciones y para el cumplimiento de sus determinaciones.
+IX. Ser el conducto, previo acuerdo con el Gobernador, para entregar a la Legislatura el Informe acerca del estado que guarda la administración pública a que hace referencia la Constitución Política del Estado Libre y Soberano de México;
 
-> <small>(ADICIONADA, G.G. 19 DE OCTUBRE DE 1992)</small>
+X. Intervenir y ejercer las atribuciones que en materia electoral le señalen las leyes o los convenios que para ese efecto se celebren;
 
-VI Bis. Apoyar a las demás dependencias del Ejecutivo en el cumplimiento de sus atribuciones.
+XI. Formular, conducir y evaluar las políticas estatales en materia de desarrollo municipal;
 
-VII. (DEROGADA, G.G. 19 DE DICIEMBRE DE 2012)
+XII. Proponer políticas y estrategias, así como acciones de coordinación entre las dependencias encargadas de la seguridad pública estatal y nacional, en materia de prevención social del delito;
 
-> <small>(ADICIONADA, G.G. 19 DE OCTUBRE DE 1992)</small>
+XIII. Coordinar e instrumentar las actividades en materia de control de confianza de los cuerpos de seguridad pública y privada estatales;
 
-VII Bis. Planear y ejecutar las políticas Estatales en materia de población.
+XIV. Coordinar a las dependencias del Ejecutivo Estatal en casos de riesgo, siniestro o desastre, para la ejecución de acciones y programas públicos en relación a las personas, sus bienes y el hábitat para el restablecimiento de la normalidad;
 
-VIII. (DEROGADA, G.G. 19 DE DICIEMBRE DE 2012)
+XV. Coordinar y supervisar las acciones en materia de protección civil, así como administrar en el ámbito de su competencia, la aplicación de recursos destinados a la atención de desastres y siniestros ambientales o antropogénicos;
 
-IX. Intervenir y ejercer las atribuciones que en materia electoral le señalen las leyes o los convenios que para ese efecto se celebren.
+XVI. Coordinar con el Instituto Mexiquense de la Pirotecnia, todas las acciones relacionadas con la misma, en el ámbito de su competencia;
 
-> <small>(REFORMADA, G.G. 18 DE OCTUBRE DE 2011)</small>
+XVII. Formular y conducir las políticas estatales en materia de población;
 
-X. Intervenir, en el ámbito de su competencia, en auxilio o coordinación con las autoridades federales, en los términos de las leyes relativas en materia de cultos religiosos; detonantes y pirotecnia; portación de armas; loterías, rifas y juegos prohibidos; migración y atención de catástrofes públicas.
+XVIII. Fortalecer el desarrollo político en la Entidad y promover la activa participación de la ciudadanía en el mismo;
 
-XI. (DEROGADA, G.G. 19 DE DICIEMBRE DE 2012)
+XIX. Promover las acciones de fomento a la cultura cívica del Gobierno del Estado de México;
 
-XII. (DEROGADA, G.G. 19 DE DICIEMBRE DE 2012)
+XX. Intervenir, en el ámbito de su competencia, en auxilio o en coordinación con las autoridades federales, en materia de loterías, rifas, concursos y juegos permitidos con cruce de apuestas, migración y atención de desastres naturales;
 
-XIII. Expedir previo acuerdo del Gobernador, las licencias, autorizaciones, concesiones y permisos cuyo otorgamiento no esté atribuido a otras dependencias del Ejecutivo.
+XXI. Expedir previo acuerdo del Gobernador, las licencias, autorizaciones, concesiones y permisos cuyo otorgamiento no esté atribuido a otras dependencias del Ejecutivo;
 
-XIV. (DEROGADA, G.G. 19 DE DICIEMBRE DE 2012)
-
-XV. (DEROGADA, G.G. 19 DE DICIEMBRE DE 2012)
-
-> <small>(REFORMADA, G.G. 18 DE OCTUBRE DE 2011)</small>
-
-XVI. Coordinar a las dependencias y entidades en materia de seguridad, así como el funcionamiento del Sistema Estatal de Seguridad Pública, de conformidad con las disposiciones aplicables;
-
-> <small>(ADICIONADA, G.G. 4 DE NOVIEMBRE DE 2010)</small>
-
-XVI Bis. Proponer, convenir, administrar y vigilar la aplicación del Fondo para la Atención a los Desastres y fenómenos perturbadores de origen natural a través del Sistema Estatal de Protección Civil.
-
-XVII. (DEROGADA, G.G. 18 DE OCTUBRE DE 2011)
-
-XVIII. (DEROGADA, G.G. 18 DE OCTUBRE DE 2011)
-
-XIX. (DEROGADA, G.G. 18 DE OCTUBRE DE 2011)
-
-> <small>(REFORMADA, G.G. 18 DE OCTUBRE DE 2011)</small>
-
-XX. Tramitar, por acuerdo del Gobernador, las solicitudes de amnistía, indultos, libertad anticipada y traslado de internos, a través de la Secretaría de Seguridad Ciudadana.
-
-XXI. (DEROGADA, G.G. 18 DE OCTUBRE DE 2011)
-
-XXII. (DEROGADA, G.G. 19 DE DICIEMBRE DE 2012)
-
-XXIII. (DEROGADA, G.G. 19 DE DICIEMBRE DE 2012)
-
-XXIV. (DEROGADA, G.G. 19 DE DICIEMBRE DE 2012)
-
-XXV. (DEROGADA, G.G. 19 DE DICIEMBRE DE 2012)
-
-XXVI. (DEROGADA, G.G. 19 DE DICIEMBRE DE 2012)
-
-XXVII. (DEROGADA, G.G. 19 DE DICIEMBRE DE 2012)
-
-XXVIII. Organizar los actos cívicos del Gobierno del Estado.
-
-XXIX. (DEROGADA, G.G. 19 DE DICIEMBRE DE 2012)
-
-> <small>(REFORMADA, G.G. 3 DE DICIEMBRE DE 2007)</small>
-
-XXX. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
+XXII. Las demás que le señalen las leyes y reglamentos en el Estado.
 
 > <small>(ADICIONADO, G.G. 18 DE OCTUBRE DE 2011)</small>
 
@@ -343,7 +301,9 @@ I. Transmitir y ejecutar los acuerdos y demás disposiciones que instruya el Gob
 
 II. Dictar las disposiciones necesarias para asegurar y proteger en forma inmediata el orden y la paz públicos, la integridad física de las personas y sus bienes, prevenir la comisión de delitos e infracciones administrativas, auxiliar a las autoridades competentes cuando así lo soliciten en la investigación y persecución de los delitos y concurrir, en términos de la ley, con las autoridades en casos de siniestro o desastre;
 
-III. Impulsar las acciones necesarias para promover la prevención de los delitos y la participación de la comunidad en materia de seguridad pública;
+> <small>(REFORMADA, G.G. 13 DE NOVIEMBRE DE 2014)</small>
+
+III. Impulsar las acciones necesarias para promover la participación de la comunidad en materia de seguridad pública;
 
 IV. Ejercer las atribuciones que la Constitución Política de los Estados Unidos Mexicanos y demás ordenamientos aplicables otorgan a las instituciones policiales en materia de investigación preventiva, e instrumentar y coordinar acciones y procedimientos para la planeación, obtención, procesamiento y aprovechamiento de información de inteligencia para tales efectos;
 
@@ -359,15 +319,17 @@ IX. Participar, en coordinación con la Procuraduría General de Justicia, en la
 
 X. Autorizar, coordinar, controlar y supervisar los servicios de seguridad privada, de conformidad con las normas aplicables;
 
-XI. Coordinar y supervisar las acciones en materia de protección civil;
+XI. (DEROGADA, G.G. 13 DE NOVIEMBRE DE 2014)
 
-XII. Coordinar con el Instituto Mexiquense de la Pirotecnia, todas las acciones relacionadas con la misma;
+XII. (DEROGADA, G.G. 13 DE NOVIEMBRE DE 2014)
 
 XIII. Coordinar los servicios de seguridad, vigilancia y protección regional en caminos y carreteras estatales o vías primarias, zonas rurales, áreas de recreo y turísticas de competencia estatal, así como las instalaciones estratégicas del Estado;
 
 XIV. Establecer y vigilar la operación de los procedimientos de administración, seguridad, control, vigilancia y apoyo logístico del sistema penitenciario;
 
-XV. Administrar los centros de reinserción social y tramitar, las solicitudes de amnistía, indultos, libertad anticipada y traslado de internos, en coordinación con la Secretaría General de Gobierno;
+> <small>(REFORMADA, G.G. 13 DE NOVIEMBRE DE 2014)</small>
+
+XV. Administrar los centros de reinserción social y tramitar las solicitudes de amnistía, indultos, libertad anticipada y traslado de internos;
 
 XVI. Vigilar el establecimiento de las instituciones y la aplicación de la norma, en el ámbito de su competencia, en materia de justicia para adolescentes;
 
@@ -375,7 +337,9 @@ XVII. Ejecutar las políticas, lineamientos y acciones de su competencia, previs
 
 XVIII. Establecer mecanismos de coordinación con el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
 
-XIX. Colaborar, cuando así lo soliciten otras instituciones del Estado de México, federales, estatales, municipales o del Distrito Federal competentes en la protección de la integridad, derechos y patrimonio de las personas, en la prevención de delitos, en situaciones de peligro, cuando se vean amenazadas por disturbios u otras situaciones que impliquen violencia o riesgo inminente, así como en el mantenimiento y restablecimiento de la paz y orden públicos;
+> <small>(REFORMADA, G.G. 13 DE NOVIEMBRE DE 2014)</small>
+
+XIX. Colaborar, cuando así lo soliciten otras instituciones del Estado, federales, municipales o del Distrito Federal competentes en la protección de la integridad, derechos y patrimonio de las personas, en situaciones de peligro, cuando se vean amenazadas por disturbios u otras situaciones que impliquen violencia o riesgo inminente en el mantenimiento y restablecimiento de la paz y orden públicos, así como intervenir, en el ámbito de su competencia, en materia de portación de armas y explosivos;
 
 XX. Establecer, integrar, supervisar, utilizar y mantener actualizados los instrumentos de información del Sistema Nacional de Seguridad Pública que le competan, mediante las bases de datos en materia de seguridad pública correspondientes;
 
@@ -2526,3 +2490,15 @@ G.G. 22 DE OCTUBRE DE 2014.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 13 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Las autoridades, en el ámbito de sus respectivas competencias, en un plazo de noventa días naturales a partir de la entrada en vigor del presente Decreto deberán reformar las disposiciones reglamentarias respectivas.
+
+CUARTO.- El ejecutivo del estado realizará las acciones necesarias para que los recursos humanos, materiales y financieros, sean transferidos de la Dirección General de Protección Civil a la Coordinación General de Protección Civil hasta por un término de noventa días naturales a partir de la entrada en vigor del presente Decreto.
+
+QUINTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
