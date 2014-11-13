@@ -4,7 +4,7 @@ identifier: "SON-ley-de-educacion-para-el-estado-de-sonora-8518"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2014-11-03"
+last_updated: "2014-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 30 de diciembre de 1994.
 
@@ -345,13 +345,17 @@ XVII.- Fomentar la cultura de la transparencia y la rendición de cuentas, así 
 
 XVIII.- Promover y fomentar la lectura y el libro.
 
-> <small>(ADICIONADA, B.O. 27 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, B.O. 13 DE NOVIEMBRE DE 2014)</small>
 
-XIX.- Difundir los derechos y deberes de niños, niñas y adolescentes y las formas de protección con que cuentan para ejercitarlos; y
+XIX.- Difundir los derechos y deberes de niños, niñas y adolescentes y las formas de protección con que cuentan para ejercitarlos;
 
-> <small>(ADICIONADA, B.O. 27 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, B.O. 13 DE NOVIEMBRE DE 2014)</small>
 
-XX.- Realizar acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de dieciocho años de edad o de personas que no tenga la capacidad de comprender el significado del hecho o para resistirlo.
+XX.- Realizar acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de dieciocho años de edad o de personas que no tenga la capacidad de comprender el significado del hecho o para resistirlo; y
+
+> <small>(ADICIONADA, B.O. 13 DE NOVIEMBRE DE 2014)</small>
+
+XXI.- Impartir Educación Preventiva al uso de Drogas, Alcohol y Tabaco, esta se entenderá como la instrucción de los conocimientos necesarios para adquirir una formación y los valores adecuados que resulten en un rechazo informado a cualquier tipo de adición (sic), una cultura de denuncia del consumo de sustancias ilícitas y una conciencia integral del cuidado de la salud física y psicológica.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE ABRIL DE 2014)</small>
 
@@ -2434,3 +2438,11 @@ B.O. 3 DE NOVIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+B.O. 13 DE NOVIEMBRE DE 2014.
+
+DECRETO NÚMERO 136 POR EL QUE SE REFORMAN LAS FRACCIONES XIX Y XX Y SE ADICIONA LA FRACCIÓN XXI AL ARTÍCULO 13 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
