@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2014-10-23"
+last_updated: "2014-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE NOVIEMBRE DE 2014.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -1081,11 +1081,11 @@ Los ingresos del Instituto, así como los productos e instrumentos financieros a
 
 8.- El Consejo de Salud del Estado de México es una instancia permanente de coordinación, consulta y apoyo para la planeación, programación y evaluación de los servicios de salud.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 2.
 
-9.- El Consejo se integra por el Secretario de Salud, quien fungirá como presidente, los Secretarios de Educación y de Medio Ambiente, el Secretario Técnico del Consejo Estatal de Población, los Directores Generales del Instituto de Salud del Estado de México, del Instituto de Seguridad Social del Estado de México y Municipios, del Sistema para el Desarrollo Integral de la Familia del Estado de México, el Director de la Facultad de Medicina de la Universidad Autónoma del Estado de México, el Director General de Protección Civil, así como con los delegados del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y del Instituto Mexicano del Seguro Social y un representante de los municipios de la Entidad.
+9.- El Consejo se integra por el Secretario de Salud, quien fungirá como presidente, los secretarios de Educación y de Medio Ambiente, el Secretario Técnico del Consejo Estatal de Población, los directores generales del Instituto de Salud del Estado de México, del Instituto de Seguridad Social del Estado de México y Municipios, del Sistema para el Desarrollo Integral de la Familia del Estado de México, el Director de la Facultad de Medicina de la Universidad Autónoma del Estado de México, el Coordinador General de Protección Civil, así como con los delegados del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y del Instituto Mexicano del Seguro Social y un representante de los municipios de la Entidad.
 
 A invitación del Presidente, tres representantes de los sectores social y privado.
 
@@ -1971,7 +1971,9 @@ II. Un Secretario Técnico, que será nombrado por el Presidente;
 
 III. Cinco Vocales, que serán los representantes:
 
-a) De la Secretaría de Seguridad Ciudadana, por conducto de la Dirección General de Protección Civil del Estado de México.
+> <small>(REFORMADO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
+
+a) De la Secretaría General de Gobierno, por conducto de la Coordinación General de Protección Civil del Estado de México.
 
 b) De la Secretaría de Educación.
 
@@ -2059,7 +2061,9 @@ c) Aviso de funcionamiento emitido por la jurisdicción de regulación sanitaria
 
 d) Acta constitutiva en caso de ser persona jurídica colectiva.
 
-e) Dictamen de Viabilidad emitido por la Secretaría de Seguridad Ciudadana, a través de la Dirección General de Protección Civil, para los establecimientos de alto o mediano riesgo o, en su caso, el Dictamen de Viabilidad de bajo riesgo, emitido por la autoridad de Protección Civil Municipal.
+> <small>(REFORMADO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
+
+e) Dictamen de Viabilidad emitido por la Secretaría General de Gobierno, por conducto de la Coordinación General de Protección Civil del Estado de México, para los establecimientos de alto o mediano riesgo o, en su caso, el Dictamen de Viabilidad de bajo riesgo, emitido por la autoridad de Protección Civil Municipal.
 
 f) Dictamen de Impacto Regional para el caso de predios o inmuebles que por sus características producen un impacto significativo sobre la infraestructura y equipamiento urbano y servicios públicos previstos para una región o para un centro de población, en relación con su entorno regional.
 
@@ -2619,7 +2623,7 @@ Una vez aplicada esta medida de seguridad se podrá iniciar con el procedimiento
 
 74.- En caso de reincidencia se duplicará el monto de la multa que corresponda. Se entiende por reincidencia que el infractor cometa la misma violación a las disposiciones de este Título dos o más veces dentro del periodo de un año, contado a partir de la fecha en que se le hubiera notificado la sanción inmediata anterior.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.56], G.G. 30 DE SEPTIEMBRE DE 2010)
+(REUBICADO [N. DE E. Y REFORMADO ANTES ARTÍCULO 2.56], G.G. 30 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 2.
 
@@ -2635,7 +2639,7 @@ III. Cuando después de la reapertura de un establecimiento, local, fábrica, co
 
 IV. Cuando por la peligrosidad de las actividades que se realicen o por la naturaleza del establecimiento, local, fábrica, construcción o edificio de que se trate, sea necesario proteger la salud de la población;
 
-V. Cuando se compruebe que las actividades que se realizan en un establecimiento violan las disposiciones sanitarias y constituyen un peligro grave para la salud;
+V. Cuando se compruebe que las actividades que se realizan en un establecimiento violan las disposiciones sanitarias y constituyen un peligro grave para la salud; y
 
 VI. Reincidencia por tercera ocasión.
 
@@ -2645,13 +2649,13 @@ VII. Cuando los establecimientos a que se refiere el artículo 2.48 Quintus care
 
 En los casos de clausura definitiva quedarán sin efecto las autorizaciones que, en su caso, se hubiesen otorgado al establecimiento o construcción de que se trate.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.57], G.G. 30 DE SEPTIEMBRE DE 2010)
+(REUBICADO [N. DE E. Y REFORMADO ANTES ARTÍCULO 2.57], G.G. 30 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 2.
 
 76.- Se sancionará con arresto hasta por treinta y seis horas:
 
-I. A la persona que interfiera o se oponga al ejercicio de las funciones de la autoridad sanitaria;
+I. A la persona que interfiera o se oponga al ejercicio de las funciones de la autoridad sanitaria; y
 
 II. A la persona que en rebeldía se niegue a cumplir los requerimientos y disposiciones de la autoridad sanitaria, provocando con ello un peligro a la salud de las personas.
 
@@ -4055,7 +4059,7 @@ V. Los demás que establezca el reglamento.
 
 19.- Son obligaciones de los prestadores de servicios turísticos:
 
-I. Anunciar visiblemente en los lugares de acceso al establecimiento la dirección, teléfono e correo electrónico, tanto del responsable del establecimiento, como de la autoridad competente, para la presentación de quejas, en su caso;
+I. Anunciar visiblemente en los lugares de acceso al establecimiento la dirección, teléfono o correo electrónico, tanto del responsable del establecimiento, como de la autoridad competente, para la presentación de quejas, en su caso;
 
 II. Mantener de manera permanente en un lugar visible, los derechos y obligaciones de los turistas, así como lo establecido en las fracciones X y XI del presente artículo;
 
@@ -4111,11 +4115,11 @@ I. Recibir información útil, precisa, veraz y detallada, con carácter previo,
 
 II. Obtener los bienes y servicios turísticos en las condiciones contratadas;
 
-III. Obtener los documentos que acrediten los términos de su contratación, y en cualquier caso las correspondientes facturas o comprobantes fiscales legalmente emitidas;
+III. Obtener los documentos que acrediten los términos de su contratación, y en cualquier caso las correspondientes facturas o comprobantes fiscales legalmente emitidos;
 
 IV. Recibir los servicios sin ser discriminado;
 
-V. No se considerarán discriminatorias, las tarifas y precios para el uso, consumo o disfrute de los bienes o servicios ofertados, ni los requisitos de edad e las restricciones para el uso de instalaciones turísticas, cuando sean de carácter general y guarden relación directa con la especialización que el prestador de servicios turísticos decida otorgar, y siempre que las mismas no sean violatorias de otras leyes. (DR)IJ
+V. No se considerarán discriminatorias, las tarifas y precios para el uso, consumo o disfrute de los bienes o servicios ofertados, ni los requisitos de edad o las restricciones para el uso de instalaciones turísticas, cuando sean de carácter general y guarden relación directa con la especialización que el prestador de servicios turísticos decida otorgar, y siempre que las mismas no sean violatorias de otras leyes. (DR)IJ
 
 VI. Contar con las condiciones de higiene y seguridad de su persona y bienes en las instalaciones y servicios turísticos, en los términos establecidos en la legislación correspondiente; y
 
@@ -5629,7 +5633,7 @@ Cuando así proceda, las licencias de uso del suelo y de construcción se podrá
 
 ### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
-> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 5.
 
@@ -5737,7 +5741,7 @@ VIII. Resiliencia: Es la capacidad de un sistema, comunidad o sociedad potencial
 
 ###### Artículo 6.
 
-4.- Son autoridades en materia de protección civil, la Secretaría de Seguridad Ciudadana, la Dirección General de Protección Civil y los Ayuntamientos con las atribuciones que les otorga este Libro.
+4.- Son autoridades en materia de protección civil, la Secretaría General de Gobierno, la Coordinación General de Protección Civil y los ayuntamientos con las atribuciones que les otorga este Libro.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -5757,7 +5761,7 @@ VIII. Resiliencia: Es la capacidad de un sistema, comunidad o sociedad potencial
 
 ### CAPITULO QUINTO. De los grupos voluntarios
 
-> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 6.
 
@@ -5767,11 +5771,15 @@ I. El Gobernador del Estado;
 
 II. El Consejo Estatal de Protección Civil;
 
-III. El Secretario de Seguridad Ciudadana;
+> <small>(REFORMADA, G.G. 13 DE NOVIEMBRE DE 2014)</small>
+
+III. El Secretario General de Gobierno;
 
 IV. Los Presidentes Municipales;
 
-V. El Director General de Protección Civil del Estado de México;
+> <small>(REFORMADA, G.G. 13 DE NOVIEMBRE DE 2014)</small>
+
+V. El Coordinador General de Protección Civil del Estado de México;
 
 VI. Los Sistemas y Consejos Municipales de Protección Civil;
 
@@ -5779,29 +5787,49 @@ VII. La representación de los sectores social y privados, de las instituciones 
 
 El Ejecutivo del Estado y los presidentes municipales, tendrán la responsabilidad de la integración y funcionamiento de los sistemas de protección civil.
 
-> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 6.
 
-7.- La Coordinación Ejecutiva del Sistema Estatal de Protección Civil estará a cargo de la Secretaría de Seguridad Ciudadana, en coordinación con la Secretaría General de Gobierno, la cual tendrá las atribuciones siguientes:
+7.- La Coordinación Ejecutiva del Sistema Estatal de Protección Civil estará a cargo de la Secretaría General de Gobierno, la cual tendrá las atribuciones siguientes:
+
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 I. Vincular el Sistema Estatal de Protección Civil con el Sistema Nacional de Protección Civil;
 
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
 II. Proponer políticas y estrategias para el desarrollo de programas en la materia;
+
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 III. Establecer las instancias, mecanismos, instrumentos, procedimientos y acciones de carácter técnico, operativo, de servicios y logística para reducir riesgos sobre los agentes afectables; en los que sean contemplados los dispositivos de alerta sísmica y la utilización de tecnologías de la información;
 
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
 IV. Establecer la metodología para la elaboración de programas internos y específicos de protección civil, grupos voluntarios y grupos de ayuda mutua;
+
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 V. Solicitar al Gobernador del Estado la expedición de las declaratorias de emergencia;
 
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
 VI. Promover la creación de fondos para las acciones de protección civil, así como asumir su administración;
+
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 VII. Solicitar el apoyo del Gobierno Federal para el auxilio y recuperación en los casos de emergencia o desastre cuando la capacidad operativa y financiera del Estado sea superada;
 
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
 VIII. Aplicar los recursos estatales y federales a las acciones de prevención, de auxilio y de recuperación;
 
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
 IX. Informar al Sistema Nacional de Protección Civil de la ocurrencia de riesgos y desastres en el territorio del Estado para la concertación y coordinación de acciones;
+
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 X. Apoyar la creación, desarrollo y consolidación de los Consejos Municipales de Protección Civil, grupos voluntarios y grupos de ayuda mutua, así como el fomento de acciones que mejoren y dignifiquen la actuación de los cuerpos de bomberos en la entidad, incluyendo la creación y/o el otorgamiento de reconocimientos en dinero o en especie; así mismo establecer el premio estatal de Protección Civil a quien por medios propios deba recibirlo;
 
@@ -5809,25 +5837,43 @@ X. Apoyar la creación, desarrollo y consolidación de los Consejos Municipales 
 
 XI. Promover la creación, desarrollo y actualización permanente, de los atlas municipales de riesgos, considerando los criterios que emita el Gobierno Federal en materia de adaptación al cambio climático;
 
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
 XII. Proponer la adquisición de equipo especializado de transporte, comunicación, prevención y atención de desastres con cargo a los fondos disponibles;
+
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 XIII. Ejecutar las acciones de protección civil en coordinación con los municipios, grupos voluntarios y unidades internas;
 
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
 XIV. Coordinar las acciones con las dependencias del Estado y de los municipios, para atender las emergencias y contingencias provocadas por fenómenos perturbadores de origen natural y apoyar el restablecimiento de servicios públicos, mediante el fondo estatal de atención a los desastres y siniestros ambientales;
+
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 XV. Establecer una estrategia integral de transferencia de riesgos, mediante el aseguramiento de la infraestructura pública;
 
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
 XVI. Investigar, estudiar y evaluar riesgos y daños provenientes de elementos, agentes naturales o humanos generadores de riesgo o desastres;
+
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 XVII. Promover, desarrollar, vigilar y evaluar los programas de capacitación que permitan la acreditación de conocimientos y profesionalización del personal responsable y servidores públicos, que desarrollan funciones en la materia;
 
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
 XVIII. Asesorar y apoyar a las dependencias, organismos auxiliares y fideicomisos públicos estatales, a los municipios y a las instituciones, personas, grupos y asociaciones de carácter civil y privado en materia de protección civil;
+
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 XIX. Establecer, operar y/o enlazarse con redes de detección, monitoreo, pronóstico y medición de riesgos, en coordinación con otras autoridades en el que se consideren los efectos del cambio climático;
 
 > <small>(REFORMADA, G.G. 19 DE DICIEMBRE DE 2013)</small>
 
 XX. Desarrollar, actualizar y difundir los Atlas de Riesgos del Estado de México, de conformidad con los criterios que emita el Gobierno Federal en materia de adaptación al cambio climático;
+
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 XXI. Expedir, actualizar y vigilar la aplicación de normas técnicas estatales y demás disposiciones en materia de protección civil;
 
@@ -5837,7 +5883,11 @@ Su actualización deberá ser cada cinco años.
 
 Su aplicación y vigilancia, corresponderá a las autoridades estatales y municipales, de acuerdo a su competencia;
 
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
 XXII. Recibir, evaluar y aprobar los programas de las unidades internas de protección civil;
+
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 XXIII. El Sistema Estatal promoverá la cultura de la autoprotección, que convoque y sume el interés de la población en general, así como su participación individual y colectiva, que permita crear comunidades resilientes; impulsar la cultura de la autoprotección, para lo cual las dependencias del sector público, con la participación del sector social, privado y académico, promoverán:
 
@@ -5853,7 +5903,11 @@ e) La integración de acervos de información técnica y científica sobre fenó
 
 f) El fortalecimiento y desarrollo de programas educativos y de difusión en materia de protección civil, dirigidos a la población en general, que permita conocer las acciones a seguir, durante el eminente embate o presencia de un agente perturbador, en las fases sustantivas de protección civil: prevención, auxilio y recuperación.
 
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
 XXIV. Suscribir convenios de coordinación para implementar políticas, lineamientos y acciones entre la federación, las entidades federativas, los municipios, el Gobierno del Distrito Federal y sus Delegaciones, en uso de las atribuciones conferidas en la fracción I de éste mismo artículo;
+
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 XXV. Las demás que le confieren este Libro y las demás disposiciones legales aplicables.
 
@@ -5909,9 +5963,13 @@ XI. Las demás que se prevean en la reglamentación de este Libro.
 
 I. El Gobernador del Estado quien lo presidirá y será suplido en su ausencia, por el servidor público que él designe;
 
-II. El Secretario de seguridad ciudadana, quien fungirá como secretario ejecutivo;
+> <small>(REFORMADA, G.G. 13 DE NOVIEMBRE DE 2014)</small>
 
-III. El Director General de Protección Civil del Estado, quien fungirá como Secretario Técnico;
+II. El Secretario General de Gobierno, quien fungirá como secretario ejecutivo;
+
+> <small>(REFORMADA, G.G. 13 DE NOVIEMBRE DE 2014)</small>
+
+III. El Coordinador General de Protección Civil del Estado, quien fungirá como Secretario Técnico;
 
 IV. Investigadores, expertos técnico y científicos de diversas áreas de protección civil que invite o designe el Presidente del consejo estatal.
 
@@ -5939,7 +5997,7 @@ Los sistemas municipales deberán vincularse y coordinarse con el sistema estata
 
 ### CAPITULO PRIMERO. Disposiciones generales
 
-> <small>(REFORMADO, G.G. 22 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 6.
 
@@ -5961,7 +6019,7 @@ La información sobre las regiones o zonas geográficas vulnerables a los efecto
 
 ###### Artículo 6.
 
-15.- Son grupos voluntarios las instituciones, organizaciones y asociaciones que cuenten con registro de la Secretaría de Seguridad Ciudadana, expedido por la Dirección General de Protección Civil.
+15.- Son grupos voluntarios las instituciones, organizaciones y asociaciones que cuenten con registro de la Secretaría General de Gobierno, expedido por la Coordinación General de Protección Civil.
 
 Los grupos voluntarios estarán integrados por personas físicas o morales con conocimiento y experiencia en materia de protección civil, que cuenten con recursos y equipo para prestar sus servicios a la población de manera altruista y comprometida.
 
@@ -5969,7 +6027,7 @@ Los grupos voluntarios estarán integrados por personas físicas o morales con c
 
 ### CAPITULO SEGUNDO. De las medidas de seguridad
 
-> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 6.
 
@@ -5987,7 +6045,9 @@ V. Coordinarse bajo el mando de las autoridades de protección civil en los caso
 
 VI. Abstenerse de solicitar o recibir contraprestación alguna de las personas a quienes presten ayuda;
 
-VII. Utilizar para el servicio que presten, los bienes y equipo previamente registrados ante la Secretaría de Seguridad Ciudadana;
+> <small>(REFORMADA, G.G. 13 DE NOVIEMBRE DE 2014)</small>
+
+VII. Utilizar para el servicio que presten, los bienes y equipo previamente registrados ante la Secretaría General de Gobierno;
 
 VIII. Comunicar a las autoridades de protección civil la presencia de una situación de riesgo o desastre;
 
@@ -6007,15 +6067,17 @@ También podrán registrarse de manera individual, como Brigadistas Voluntarios,
 
 Las Unidades Internas de Protección Civil, son la primera instancia de actuación, ante el inminente impacto de un agente perturbador, responsable de informar a la autoridad especializada en materia de protección civil.
 
-> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
 
 ### CAPITULO TERCERO. De las infracciones y sanciones
 
-> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 6.
 
-18.- Las Unidades Internas deberán elaborar programas de protección civil que fomenten la educación de la prevención y los conocimientos básicos que permitan el aprendizaje de medidas de autoprotección y de auxilio, se presentarán para su registro ante la Secretaría de Seguridad Ciudadana a través de la Dirección General de Protección Civil.
+18.- Las unidades internas deberán elaborar programas de protección civil que fomenten la educación de la prevención y los conocimientos básicos que permitan el aprendizaje de medidas de autoprotección y de auxilio, se presentarán para su registro ante la Secretaría General de Gobierno a través de la Coordinación General de Protección Civil.
+
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 El desarrollo del programa de protección civil de las unidades hospitalarias, dentro del territorio del Estado, deberá considerar los lineamientos establecidos en el Programa Hospital Seguro.
 
@@ -6043,15 +6105,19 @@ El desarrollo del programa de protección civil de las unidades hospitalarias, d
 
 Sus recursos podrán ser utilizados para la adquisición de instrumentos, que permitan la transferencia de riesgos y aseguramiento de la infraestructura pública, con las instituciones que ofrezcan las mejores condiciones.
 
-> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 6.
 
-22.- Los recursos de dicho Fondo, se ejercerán en primera instancia de manera eficaz, para la adquisición de equipo especializado y realización de acciones de prevención de desastres, así como su atención, el cual será administrado mediante dos partidas, una destinada a acciones preventivas y otra más que permita la atención de emergencias, en términos de las Reglas de Operación que serán publicadas en el Periódico Oficial "Gaceta del Gobierno", estando su administración bajo la responsabilidad del Secretario de Seguridad Ciudadana.
+22.- Los recursos de dicho Fondo, se ejercerán en primera instancia de manera eficaz, para la adquisición de equipo especializado y realización de acciones de prevención de desastres, así como su atención, el cual será administrado mediante dos partidas, una destinada a acciones preventivas y otra más que permita la atención de emergencias, en términos de las Reglas de Operación que serán publicadas en el periódico oficial "Gaceta del Gobierno", estando su administración bajo la responsabilidad del Secretario General de Gobierno.
+
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 La información del fondo será pública de oficio, en los términos de la ley de Trasparencia y Acceso a la Información Pública del Estado de México.
 
-El Secretario de Seguridad Ciudadana rendirá informe sobre el monto, uso y destino del Fondo, a petición de la Legislatura del Estado.
+> <small>(REFORMADO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
+
+El Secretario General de Gobierno rendirá informe sobre el monto, uso y destino del Fondo, a petición de la Legislatura del Estado.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -6061,7 +6127,9 @@ El Secretario de Seguridad Ciudadana rendirá informe sobre el monto, uso y dest
 
 Asimismo, se colocarán, en lugares visibles, material e instructivos adecuados para casos de emergencia, en los que se establezcan las reglas que deberán observarse antes, durante y después del desastre, así como las zonas de seguridad y salidas de emergencia.
 
-Lo dispuesto en este artículo se hará en términos de la reglamentación de este Libro y de las normas técnicas que al efecto emita la Secretaría de Seguridad Ciudadana a través de la Dirección General de Protección Civil.
+> <small>(REFORMADO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
+
+Lo dispuesto en este artículo se hará en términos de la reglamentación de este Libro y de las normas técnicas que al efecto emita la Secretaría General de Gobierno a través de la Coordinación General de Protección Civil.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -6071,23 +6139,27 @@ Lo dispuesto en este artículo se hará en términos de la reglamentación de es
 
 ###### Artículo 6.
 
-24.- La Secretaría de Seguridad Ciudadana a través de la Dirección General de Protección Civil, emitirá dictamen de protección civil, en los usos de suelo que produzcan un impacto regional sobre la infraestructura y equipamiento urbanos y los servicios públicos, en los términos previstos en el artículo 5.35 de este Código, y conforme a las disposiciones reglamentarias de carácter técnico en materia de protección civil que sean aplicables al tipo de construcción y uso que se le dé a la edificación, en términos del reglamento del Libro Quinto de este Código.
+24.- La Secretaría General de Gobierno, a través de la Coordinación General de Protección Civil emitirá dictamen de protección civil, en los usos de suelo que produzcan un impacto regional sobre la infraestructura y equipamiento urbanos y los servicios públicos, en los términos previstos en el artículo 5.35 de este Código, y conforme a las disposiciones reglamentarias de carácter técnico en materia de protección civil que sean aplicables al tipo de construcción y uso que se le dé a la edificación, en términos de los reglamentos del Libro Quinto y Sexto de este Código.
 
-Una vez concluidas las construcciones derivadas del uso del suelo a que se refiere el párrafo anterior, para el inicio de las operaciones se requerirá la autorización de la Secretaría de Seguridad Ciudadana a través de la Dirección General de Protección Civil.
+Una vez concluidas las construcciones derivadas del uso del suelo a que se refiere el párrafo anterior, para el inicio de las operaciones se requerirá la autorización de la Secretaría General de Gobierno a través de la Coordinación General de Protección Civil.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 6.
+
+25.- Requieren autorización de la Secretaría General de Gobierno las actividades que pudieran generar fenómenos perturbadores, quien la emitirá a través de la Coordinación General de Protección Civil.
 
 > <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-###### Artículo 6.
-
-25.- Requieren autorización de la Secretaría de Seguridad Ciudadana las actividades que pudieran generar fenómenos perturbadores, quien la emitirá a través de la Dirección General de Protección Civil.
-
 La reglamentación de este Libro establecerá las actividades que requieren autorización.
 
-> <small>(ADICIONADO, G.G. 22 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 6.
 
-25 Bis.- Previo a la expedición de la licencia de funcionamiento de establecimiento mercantil que venda bebidas alcohólicas para su consumo, en envase cerrado o al copeo, que otorgue la autoridad municipal, deberá la Secretaría de Seguridad Ciudadana, a través de la Dirección General de Protección Civil, emitir el dictamen de viabilidad de mediano o alto riesgo.
+25 Bis.- Previo a la expedición de la licencia de funcionamiento de establecimiento mercantil que venda bebidas alcohólicas para su consumo, en envase cerrado o al copeo, que otorgue la autoridad municipal, deberá la Secretaría General de Gobierno, a través de la Coordinación General de Protección Civil, emitir el dictamen de viabilidad de mediano o alto riesgo.
+
+> <small>(ADICIONADO, G.G. 22 DE FEBRERO DE 2013)</small>
 
 Corresponde a los Municipios emitir dictamen de viabilidad de bajo riesgo, incluyendo a los establecimientos mercantiles que vendan bebidas alcohólicas para su consumo, en envase cerrado o al copeo.
 
@@ -6104,6 +6176,10 @@ II. Los grupos voluntarios y de ayuda mutua;
 III. Los análisis de vulnerabilidad y riesgo;
 
 IV. Las personas que se dediquen a prestar servicios de consultoría o capacitación en materia de protección civil.
+
+> <small>(ADICIONADA, G.G. 13 DE NOVIEMBRE DE 2014)</small>
+
+V. Los inmuebles para concentración masiva de población con fines de esparcimiento o convivencia.
 
 El Registro Estatal de Protección Civil, es obligatorio e integrará de manera sistematizada la información en la materia, de las personas físicas y jurídicas colectivas, referidas en el párrafo anterior.
 
@@ -6131,15 +6207,17 @@ El Registro Estatal de Protección Civil, es obligatorio e integrará de manera 
 
 ###### Artículo 6.
 
-30.- La Secretaría de Seguridad Ciudadana a través de la Dirección General de Protección Civil, organizará y desarrollará el Sistema Estatal de Información de Protección Civil, con el objeto de obtener, generar y procesar la información necesaria para la planeación y evaluación de las actividades en materia de protección civil, a fin de integrar el Registro Estatal de Protección Civil.
+30.- La Secretaría General de Gobierno, a través de la Coordinación General de Protección Civil organizará y desarrollará el Sistema Estatal de Información de Protección Civil, con el objeto de obtener, generar y procesar la información necesaria para la planeación y evaluación de las actividades en materia de protección civil, a fin de integrar el Registro Estatal de Protección Civil.
 
-Las dependencias y organismos de la administración pública estatal y municipal, así como los grupos voluntarios, deberán proporcionar a la Secretaría de Seguridad Ciudadana a través de la Dirección General de Protección Civil, los informes a que se refiere el párrafo anterior.
+Las dependencias y organismos de la administración pública estatal y municipal, así como los grupos voluntarios, deberán proporcionar a la Secretaría General de Gobierno a través de la Coordinación General de Protección Civil, los informes a que se refiere el párrafo anterior.
 
-> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 6.
 
-31.- La Secretaría de Seguridad Ciudadana a través de la Dirección General de Protección Civil, establecerá el Registro Estatal de Protección Civil, quien verificará y vigilará su correcto funcionamiento, en el que se inscribirá de manera sistematizada la información a que se refiere el artículo anterior.
+31.- La Secretaría General de Gobierno a través de la Coordinación General de Protección Civil, establecerá el Registro Estatal de Protección Civil, quien verificará y vigilará su correcto funcionamiento, en el que se inscribirá de manera sistematizada la información a que se refiere el artículo anterior.
+
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 El Registro será público, no tendrá efectos constitutivos, ni surtirá efectos contra terceros.
 
@@ -6147,11 +6225,11 @@ El Registro será público, no tendrá efectos constitutivos, ni surtirá efecto
 
 ## TITULO QUINTO. De las autorizaciones, registros y dictámenes
 
-> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 6.
 
-32.- Corresponde a la Secretaría de Seguridad Ciudadana, a través de la Dirección General de Protección Civil, el ejercicio de las atribuciones de vigilancia y aplicación de medidas de seguridad y sanciones, tratándose de generadores de mediano y alto riesgo. Corresponde a los municipios los de bajo riesgo.
+32.- Corresponde a la Secretaría General de Gobierno, a través de la Coordinación General de Protección Civil, el ejercicio de las atribuciones de vigilancia y aplicación de medidas de seguridad y sanciones, tratándose de generadores de mediano y alto riesgo. Corresponde a los municipios los de bajo riesgo.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -6161,7 +6239,7 @@ El Registro será público, no tendrá efectos constitutivos, ni surtirá efecto
 
 ###### Artículo 6.
 
-33.- En case de riesgo inminente, sin perjuicio de la declaratoria de emergencia, la Secretaría de Seguridad Ciudadana, la Dirección General de Protección Civil y los municipios, dictarán de inmediato las medidas de seguridad conducentes a efecto de proteger la vida de la población y sus bienes, la planta productiva y el ambiente, así como para garantizar el funcionamiento de los servicios esenciales de la comunidad. El Secretario de Seguridad Ciudadana, informará de manera inmediata al Titular del Ejecutivo del Estado, las medidas de seguridad que fueron aplicadas.
+33.- En caso de riesgo inminente, sin perjuicio de la declaratoria de emergencia, la Secretaría General de Gobierno, la Coordinación General de Protección Civil y los municipios, dictarán de inmediato las medidas de seguridad conducentes a efecto de proteger la vida de la población y sus bienes, la planta productiva y el ambiente, así como para garantizar el funcionamiento de los servicios esenciales de la comunidad. El Secretario General de Gobierno, informará de manera inmediata al Titular del Ejecutivo, las medidas de seguridad que fueron aplicadas.
 
 > <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -6191,17 +6269,29 @@ VI. El aislamiento de áreas afectadas.
 
 ###### Artículo 6.
 
-36.- Las infracciones a las disposiciones de este Libro y su reglamentación serán sancionadas por la Secretaría de Seguridad Ciudadana a través de la Dirección General de Protección Civil y los municipios, en su caso, con:
+36.- Las infracciones a las disposiciones de este Libro y su reglamentación serán sancionadas por la Secretaría General de Gobierno a través de la Coordinación General de Protección Civil y los municipios, en su caso, con:
+
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 I. Amonestación con apercibimiento;
 
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
 II. Multa;
+
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 III. Clausura temporal o definitiva, parcial o total;
 
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
 IV. Revocación de los registros a que se refiere este Libro;
 
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
 V. Demolición de una obra o instalación.
+
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 Se podrá imponer una o más sanciones de las previstas en este artículo por una misma infracción, atendiendo a la gravedad de la misma.
 
@@ -6209,7 +6299,7 @@ Se podrá imponer una o más sanciones de las previstas en este artículo por un
 
 ## TITULO SÉPTIMO. Del sistema estatal de información de protección civil y registro estatal de protección civil
 
-> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 6.
 
@@ -6223,13 +6313,19 @@ b) No cumpla con la calendarización de acciones establecidas en su programa esp
 
 II. De tres mil uno a cuatro mil días de salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, a quien:
 
-a) No cuente con dictamen de viabilidad;
+> <small>(REFORMADO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
+
+a) No cuente con Dictamen de Protección Civil o de Viabilidad.
 
 b) Haya iniciado operaciones sin la autorización correspondiente;
 
 c) No permita el acceso al personal designado para realizar verificaciones en inmuebles, instalaciones y equipos
 
 III. De cuatro mil uno a cinco mil días de salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, a quien de manera dolosa o culposa ponga en riesgo a las personas o a la población en general.
+
+> <small>(ADICIONADO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
+
+La imposición de sanciones se hará sin perjuicio de cualquier otra responsabilidad en términos de la legislación administrativa, civil o penal en que haya incurrido el infractor.
 
 > <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 278, PUBLICADO EN LA G.G. DE 31 DE MARZO DE 2011, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE LIBRO.</small>
 
@@ -10643,7 +10739,7 @@ En contra de la resolución que se dicte en la inconformidad administrativa, as�
 
 2.- Este Libro tiene por objeto además establecer:
 
-I. Las políticas para la producción de la información e investigación geográfica, estadística y catastral en apoyo al sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios;
+I. Las políticas para la producción de la información e investigación geográfica, estadística y catastral en apoyo al Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios;
 
 II. El funcionamiento de los sistemas estatal y municipales de información e investigación geográfica, estadística y catastral;
 
@@ -10655,13 +10751,13 @@ V. El registro y resguardo de la información e investigaciones en materia geogr
 
 VI. Las normas técnicas para otorgar el carácter oficial a la información y resultados de las investigaciones geográficas, estadísticas y catastrales;
 
-VII. Los principios conforme a los cuales las dependencias y entidades de los poderes Legislativo, Ejecutivo y Judicial y las unidades administrativas de la administración pública municipal, deberán ejercer las funciones que les correspondan como partes integrantes de los Sistemas y Servicios Estatales de información e Investigación Geográfica, Estadística y Catastral;
+VII. Los principios conforme a los cuales las dependencias y entidades de los poderes Legislativo, Ejecutivo y Judicial y las unidades administrativas de la administración pública municipal, deberán ejercer las funciones que les correspondan como partes integrantes de los Sistemas y Servicios Estatales de Información e Investigación Geográfica, Estadística y Catastral;
 
 VIII. La vinculación de las actividades que desarrollen los poderes Legislativo, Ejecutivo y Judicial, en materia de información e investigación geográfica, estadística y catastral;
 
 IX. La coordinación, participación y colaboración que corresponda, de los gobiernos municipales, de los particulares y de los grupos y organizaciones sociales, a efecto de fortalecer el funcionamiento del Sistema y Servicio Público Estatal de Información e Investigación Geográfica, Estadística y Catastral;
 
-X. La integración y el desarrollo del Sistema Estatal de Información Geográfica, Estadística y Catastral para que se suministre a quienes requieren, en los términos de este Libro, el Servicio Público Estatal de Información e Investigación Geográfica, Estadística y Catastral;
+X. La integración y el desarrollo del Sistema Estatal de Información Geográfica, Estadística y Catastral para que se suministre a quienes requieran, en los términos de este Libro, el Servicio Público Estatal de Información e Investigación Geográfica, Estadística y Catastral;
 
 XI. El desarrollo y la utilización permanente de los programas y procesos electrónicos y tecnológicos en los sistemas y servicios a que se refiere este artículo.
 
@@ -10757,7 +10853,7 @@ II. Suscribir acuerdos y convenios de coordinación y colaboración en materia d
 
 III. Suscribir acuerdos y convenios con los ayuntamientos del Estado de México, para el desarrollo, establecimiento y operación de los sistemas y servicios municipales, en términos de este Libro y que se apliquen normas técnicas y principios homogéneos;
 
-IV. Aprobar el programa Estatal como sustento del Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios;
+IV. Aprobar el Programa Estatal como sustento del Sistema de Planeación Democrática para el Desarrollo del Estado de México y municipios;
 
 V. Las demás que expresamente le determine este Libro y otros ordenamientos aplicables.
 
@@ -10795,7 +10891,7 @@ V. Las demás que expresamente le determine este Libro y otros ordenamientos apl
 
 ###### Artículo 14.
 
-7.- Compete al consejo Directivo del IGECEM:
+7.- Compete al Consejo Directivo del IGECEM:
 
 I. Aprobar las normas técnicas para captar, procesar, integrar, resguardar y divulgar el acervo de información geográfica, estadística y catastral;
 
@@ -10805,7 +10901,7 @@ III. Aprobar la estructura orgánica del IGECEM;
 
 IV. Aprobar el Reglamento Interior del IGECEM;
 
-V. Revisar, aprobar y evaluar el programa Estatal;
+V. Revisar, aprobar y evaluar el Programa Estatal;
 
 VI. Revisar y aprobar el proyecto del presupuesto anual del IGECEM;
 
@@ -11057,7 +11153,7 @@ Los informantes estarán obligados a proporcionar auxilio y cooperación a las a
 
 ###### Artículo 14.
 
-22.- Los datos, estudios e investigaciones que proporcionen los informantes, serán manejados bajo el principio de confidencialidad respecto a los aspectos específicos de las personas y los referentes a las circunstancias particulares que las identifiquen, excepto la información catastral cuando se garantice el interés legítimo. Al recabarse la información se dará a conocer al informante la manera en que será procesada, integrada y divulgada.
+22.- Los datos, estudios e investigaciones que proporcionen los informantes, serán manejados bajo el principio de confidencialidad respecto a los aspectos específicos de las personas y los referentes a las circunstancias particulares que las identifiquen, excepto la información catastral cuando se garantice el interés legítimo. Al recabarse la Información se dará a conocer al informante la manera en que será procesada, integrada y divulgada.
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -11185,7 +11281,7 @@ Las dependencias, entidades y unidades administrativas de los poderes Legislativ
 
 ###### Artículo 14.
 
-41.- El IGECEM constituirá por acuerdo del Consejo Directivo, los comités sectoriales, regionales y especiales; y mediante convenio, los comités municipales, que considere necesarios para la ejecución de los programas estatal y municipales. El IGECEM intervendrá en ellos como secretario Técnico.
+41.- El IGECEM constituirá por acuerdo del Consejo Directivo, los comités sectoriales, regionales y especiales; y mediante convenio, los comités municipales, que considere necesarios para la ejecución de los programas estatal y municipales. El IGECEM intervendrá en ellos como secretario técnico.
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -11361,7 +11457,7 @@ Cada uno de los integrantes titulares del Consejo Directivo designará un suplen
 
 49.- El Consejo Directivo se auxiliará con un Secretario Técnico que será el Director General del IGECEM, quien designará a su suplente para representarlo en los casos que lo amerite o de ausencia.
 
-El Secretario Técnico, tiene las facultades y obligaciones que se establecen en el Reglamento de la Ley para la Coordinación y Control de los Organismos, Auxiliares del Estado de México, así como aquellas actividades administrativas que le encargue el Consejo.
+El Secretario Técnico, tiene las facultades y obligaciones que se establecen en el Reglamento de la Ley para la Coordinación y Control de los Organismos Auxiliares del Estado de México, así como aquellas actividades administrativas que le encargue el Consejo.
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -11447,7 +11543,7 @@ Las infracciones previstas en las fracciones I, III, V, VI y VII o la reincidenc
 
 I. Negar u omitir la entrega de datos, informes o documentos, dentro del plazo que les fuere fijado por este Libro o su Reglamento;
 
-II. Impedir el acceso al personal Oficial del IGECEM a la información que deban recabar o verificar;
+II. Impedir el acceso al personal oficial del IGECEM a la información que deban recabar o verificar;
 
 III. Dar datos falsos, incompletos o incongruentes, con dolo o mala fé;
 
@@ -13011,7 +13107,7 @@ Los accesos que se construyan dentro del derecho de vía se considerarán auxili
 
 22.- Cuando el retiro sea efectuado por la autoridad, el material que resulte quedará bajo resguardo de la misma en el lugar que para el efecto se destine como depósito, hasta por un plazo no mayor de 3 meses, contado a partir de la fecha en que se realice el retiro.
 
-Si dentro de este lazo no fuere reclamado dicho material, la autoridad queda facultada para disponer del mismo y aplicar su valor al pago de las infracciones y gastos correspondientes.
+Si dentro de este plazo no fuere reclamado dicho material, la autoridad queda facultada para disponer del mismo y aplicar su valor al pago de las infracciones y gastos correspondientes.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -13789,7 +13885,7 @@ Los ingresos del Organismo, así como los productos e instrumentos financieros a
 
 l. Proponer y ejecutar planes, programas, proyectos y acciones para el diseño, construcción, administración, rehabilitación y mantenimiento de la infraestructura vial de cuota;
 
-II. Emitir el dictamen de procedencia técnica para la construcción y/o operación de helipuertos y aeropistas;
+II. Emitir el dictamen de procedencia técnica para la construcción y/u operación de helipuertos y aeropistas;
 
 III. Participar en los Comités Técnicos de los fideicomisos de administración y fuente de pago, que se constituyan, por los concesionarios o inversionistas, con motivo de los proyectos de la infraestructura vial de cuota;
 
@@ -14335,7 +14431,7 @@ Los acuerdos del Comité deberán tomarse por consenso; de no ser esto posible, 
 
 12.- Las dependencias estatales, en el ámbito de sus respectivas competencias, así como los Municipios elaborarán anteproyectos de Normas Técnicas y las someterán a la consideración del Comité.
 
-El Comité, con base en los anteproyectos mencionados, elaborará a su vez los proyectos de Nomas Técnicas, de conformidad con lo dispuesto en el presente capítulo.
+El Comité, con base en los anteproyectos mencionados, elaborará a su vez los proyectos de Normas Técnicas, de conformidad con lo dispuesto en el presente capítulo.
 
 Toda persona o institución interesada podrá presentar propuestas de Normas Técnicas a la Secretaría o a los Municipios, las cuales harán la evaluación correspondiente y en su caso, presentarán al Comité el respectivo anteproyecto de norma técnica.
 
@@ -15839,13 +15935,13 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 TERCERO.- La reforma al Penúltimo Párrafo del artículo 12, y la adición de un Segundo Párrafo a la fracción VI del artículo 162 del Código de Procedimientos Penales para el Estado de México, estarán en vigor en los siguientes términos:
 
-Hasta, el treinta y uno de marzo de dos mil diez en los Distritos judiciales de Chalco, Otumba y Texcoco;
+Hasta, el treinta y uno de marzo de dos mil diez en los Distritos Judiciales de Chalco, Otumba y Texcoco;
 
 Hasta, el treinta de septiembre de dos mil diez en los Distritos Judiciales de Nezahualcóyotl, El Oro, Ixtlahuaca, Sultepec y Temascaltepec;
 
 Hasta, el treinta y uno de marzo de dos mil once en los Distritos Judiciales de Tlalnepantla, Cuautitlán y Zumpango;
 
-Hasta, el treinta de septiembre de dos mil once en los Distritos judiciales de Ecatepec de Morelos, Jilotepec y Valle de Chalco.
+Hasta, el treinta de septiembre de dos mil once en los Distritos Judiciales de Ecatepec de Morelos, Jilotepec y Valle de Chalco.
 
 CUARTO. Los artículos 2.134 al 2.140 del Código de Procedimientos Civiles del Estado de México, quedarán derogados en las fechas y términos señalados a continuación:
 
@@ -16848,3 +16944,13 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 13 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El titular de la Secretaría General de Gobierno, a través de (sic) Coordinación General de Protección Civil propondrá al titular del Ejecutivo, las reformas a las disposiciones del Reglamento del Libro Sexto del Código Administrativo del Estado de México, para su expedición dentro del plazo de 90 días naturales contados a partir de su entrada en vigor.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a las contenidas en el presente Decreto.
