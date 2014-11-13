@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-del-estado-de-mexico-83547"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-19"
-last_updated: "2014-08-18"
+last_updated: "2014-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE SEGURIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 19 de octubre de 2011.
 
@@ -321,9 +321,7 @@ XXIII. Participar en la Conferencia Nacional de Secretarios de Seguridad Públic
 
 XXIV. Ejecutar, en el ámbito de su competencia, los acuerdos tomados en la Conferencia Nacional de Secretarios de Seguridad Pública;
 
-> <small>(REFORMADA, G.G. 16 DE JULIO DE 2014)</small>
-
-XXV. Coordinar y supervisar las acciones en materia de protección civil;
+XXV. (DEROGADA, G.G. 13 DE NOVIEMBRE DE 2014)
 
 > <small>(REFORMADA, G.G. 16 DE JULIO DE 2014)</small>
 
@@ -949,9 +947,11 @@ II. Dar seguimiento a los acuerdos, lineamientos y políticas emitidos por el Co
 
 Los Consejos Municipales se integrarán conforme a las bases generales que se determinen en los acuerdos que adopte el Consejo Estatal, y tomarán en cuenta la participación ciudadana. El Presidente Municipal será el Presidente del Consejo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 58.
 
-Los Municipios, previo acuerdo aprobado por sus ayuntamientos, podrán celebrar convenios con el Gobierno Estatal en materia del servicio público municipal de seguridad pública, que comprende policía preventiva, de tránsito y de protección civil, a fin de que se haga transitoriamente cargo de este servicio, en términos de los artículos 115 fracción III, penúltimo párrafo de la Constitución Federal; 77 fracciones IX y XXXIX de la Constitución Estatal y 39 penúltimo párrafo de la Ley General.
+Los municipios, previo acuerdo aprobado por sus ayuntamientos, podrán celebrar convenios con el Gobierno Estatal en materia del servicio público municipal de seguridad pública, que comprende policía preventiva y de tránsito, a fin de que se haga transitoriamente cargo de este servicio, en términos de los artículos 115 fracción III, penúltimo párrafo de la Constitución Federal; 77 fracciones IX y XXXIX de la Constitución Estatal y 39 penúltimo párrafo de la Ley General.
 
 En el caso de que el Municipio haya celebrado convenio con el Gobierno del Estado para que éste asuma la función de seguridad pública, se integrará en el Consejo Municipal el representante que designe el Secretario.
 
@@ -2836,3 +2836,29 @@ G.G. 18 DE AGOSTO DE 2014.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 13 DE NOVIEMBRE DE 2014.
+
+DECRETO NÚMERO 323, POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 58 DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El titular de la Secretaría General de Gobierno, a través de (sic) Coordinación General de Protección Civil propondrá al titular del Ejecutivo, las reformas a las disposiciones del Reglamento del Libro Sexto del Código Administrativo del Estado de México, para su expedición dentro del plazo de 90 días naturales contados a partir de su entrada en vigor.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a las contenidas en el presente Decreto.
+
+G.G. 13 DE NOVIEMBRE DE 2014.
+
+DECRETO NÚMERO 324, POR EL QUE SE DEROGA LA FRACCIÓN XXV DEL APARTADO A DEL ARTÍCULO 16 DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Las autoridades, en el ámbito de sus respectivas competencias, en un plazo de noventa días naturales a partir de la entrada en vigor del presente Decreto deberán reformar las disposiciones reglamentarias respectivas.
+
+CUARTO.- El ejecutivo del estado realizará las acciones necesarias para que los recursos humanos, materiales y financieros, sean transferidos de la Dirección General de Protección Civil a la Coordinación General de Protección Civil hasta por un término de noventa días naturales a partir de la entrada en vigor del presente Decreto.
+
+QUINTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
