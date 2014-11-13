@@ -4,7 +4,7 @@ identifier: "SON-ley-que-regula-la-operacion-y-funcionamiento-de-los-42094"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2013-12-19"
+last_updated: "2014-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SON"
 ---
 # LEY QUE REGULA LA OPERACION Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACION, ENVASAMIENTO, DISTRIBUCION, ALMACENAMIENTO, TRANSPORTACION, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHOLICO EN EL ESTADO DE SONORA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE ENERO DE 2015 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO NÚMERO 91, EL PRESENTE DECRETO ENTRARÁ EN VIGOR, EN TODO EL ESTADO DE SONORA, A PARTIR DEL 1 DE ENERO DE 2014.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 19 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Cuarta Sección del Boletín Oficial del Estado de Sonora, el jueves 23 de diciembre de 2004.
 
@@ -133,11 +133,13 @@ Para los efectos de esta Ley, la operación y funcionamiento de los establecimie
 
 I.- Fábrica.- Lugar de elaboración y envasamiento de bebidas con contenido alcohólico cuyo conjunto de operaciones, son objeto de aprobación, vigilancia y control sanitario en los términos de la Ley de Salud Federal y Estatal. Su infraestructura e instalaciones especiales coinciden en su totalidad con los fines específicos de elaboración. Por su tamaño estas empresas podrán ser grandes, medianas, pequeñas o las denominadas micro y su localización podrá estar en las inmediaciones o lugares permitidos por las leyes aplicables.
 
-> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 13 DE NOVIEMBRE DE 2014)</small>
 
-I BIS.- Fábrica de Producto Regional Típico.- Lugar autorizado para la elaboración, envasamiento, distribución y venta de bebidas con contenido alcohólico elaboradas a base de ingredientes representativos de alguna región determinada dentro del territorio sonorense.
+I Bis.- Fábrica de Cerveza Artesanal.- Lugar de elaboración y envasado de cerveza con contenido alcohólico menor a los 14o GL, cuya fabricación y conjunto de operaciones son objeto de aprobación, vigilancia y control sanitario en los términos de la Ley de Salud Estatal.
 
-Estos establecimientos podrán distribuir y comercializar su producto en forma personal o a establecimientos que cuenten con licencia para alguna de las actividades de distribución y comercialización de productos con contenido alcohólico debidamente autorizado por la Secretaría, ello de acuerdo a lo señalado en el artículo 11 de esta ley.
+Los titulares de las licencias o sus representantes, no podrán estar asociados de ninguna manera con algún otro productor de bebidas con contenido alcohólico que no tenga licencia para Fábrica de Cerveza Artesanal.
+
+La asociación entre productores de cerveza artesanal solo podrá darse con el fin de protección, fomento y promoción, y de ninguna manera podrán compartir gastos o utilidades entre ellos.
 
 II.- Agencia Distribuidora.- Negocio de distribución específica y venta al mayoreo y menudeo de productos de alcohol o bebidas con contenido alcohólico.
 
@@ -441,7 +443,7 @@ IX.- Instalar en los establecimientos a que se refiere esta Ley compartimientos 
 
 X.- Operar con venta o consumo de bebidas con contenido alcohólico adulteradas, así como la existencia en el establecimiento de botellas que presenten huellas de violación o adulteración en su contenido original en los establecimientos a que se refiere esta Ley;
 
-XI.- Obsequiar bebidas con contenido alcohólico a las personas con uniforme oficial de cualquier autoridad, así como a los inspectores del ramo; y (sic)
+XI.- Obsequiar bebidas con contenido alcohólico a las personas con uniforme oficial de cualquier autoridad, así como a los inspectores del ramo; y
 
 XII.- Las demás que se desprendan de la presente Ley.
 
@@ -617,7 +619,7 @@ IX.- No estar inhabilitado por la Ley o por sentencia de autoridad competente;
 
 X.- Constancia que acredite no tener antecedentes penales;
 
-XI.- Documento o constancia expedida por las autoridades federales correspondientes, en donde se manifieste su opinión para la instalación, operación y funcionamiento de un establecimiento de los señalados en el artículo 10 de esta Ley, cuya actividad preponderante sea la venta y consumo de bebidas alcohólicas en envase abierto, que pretende ubicarse en los márgenes de carreteras federales, en terminales aéreas o terrestres y zonas consideradas como reserva federal o de riesgo; y (sic)
+XI.- Documento o constancia expedida por las autoridades federales correspondientes, en donde se manifieste su opinión para la instalación, operación y funcionamiento de un establecimiento de los señalados en el artículo 10 de esta Ley, cuya actividad preponderante sea la venta y consumo de bebidas alcohólicas en envase abierto, que pretende ubicarse en los márgenes de carreteras federales, en terminales aéreas o terrestres y zonas consideradas como reserva federal o de riesgo; y
 
 XII.- La manifestación, bajo protesta de decir verdad, expresada en el sentido de que se cumple, además de lo ordenado en el presente ordenamiento, con lo dispuesto por la normatividad en materia de salud, protección al ambiente y conservación ecológica, desarrollo urbano y protección civil, así como con los demás ordenamientos que regulen el funcionamiento de los establecimientos.
 
@@ -1143,7 +1145,7 @@ b).- Por poseer las tiendas de autoservicio y las tiendas de abarrotes un invent
 
 > <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
-c). Cuando el establecimiento o porteador opere sin haber tramitado u obtenido la revalidación o canje, en el año fiscal que corresponda, de la licencia respectiva.
+c).- Cuando el establecimiento o porteador opere sin haber tramitado u obtenido la revalidación o canje, en el año fiscal que corresponda, de la licencia respectiva.
 
 No se considerará infracción, cuando la carencia de la constancia de revalidación o canje de licencia, en el ejercicio fiscal que corresponda, se deba a causas no imputables al interesado, entendiéndose que ello sucede, cuando hecha la solicitud y realizado el pago de la revalidación o canje, en el año fiscal que corresponda, dentro de los meses de enero a mayo, éstas no se hayan expedido, en cuyo caso se observará lo dispuesto en los artículos 45, último párrafo y 45 bis, cuarto párrafo, de esta Ley.
 
@@ -1495,7 +1497,7 @@ XXIII.- PORTEADORA PORTEADORA
 
 Los montos previstos para el cobro de anuencias municipales para nuevos establecimientos y como estimado de recaudación por cada giro durante el presente ejercicio fiscal en cada Ley de Ingresos y Presupuesto de Ingresos de los municipios de la Entidad, se mantendrán vigentes tomando en consideración las modificaciones referidas en las fracciones anteriores.
 
-COMUNÍQUESE AL TITULAR DEL PODER EJECUTIVO PARA SU PUBLICACIÓN EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO.- AL MARGEN CENTRAL DERECHO UN SELLO CON EL ESCUDO NACIONAL QUE DICE: ESTADOS UNIDOS MEXICANOS.- H. CONGRESO DEL ESTADO DE SONORA.- SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- HERMOSILLO, SONORA, 14 DE DICIEMBRE DE 2004.- DIPUTADO PRESIDENTE.- C. JOSE RODRIGO VELEZ ACOSTA.- RUBRICA.- DIPUTADO SECRETARIO.- C. ONESIMO MARISCALES DELGADILLO.- RUBRICA,. DIPUTADO SECRETARIO.- C. FRUCTUOSO MENDEZ VALENZUELA.- RUBRICA.-
+COMUNÍQUESE AL TITULAR DEL PODER EJECUTIVO PARA SU PUBLICACIÓN EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO.- AL MARGEN CENTRAL DERECHO UN SELLO CON EL ESCUDO NACIONAL QUE DICE: ESTADOS UNIDOS MEXICANOS.- H. CONGRESO DEL ESTADO DE SONORA.- SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- HERMOSILLO, SONORA, 14 DE DICIEMBRE DE 2004.- DIPUTADO PRESIDENTE.- C. JOSE RODRIGO VELEZ ACOSTA.- RUBRICA.- DIPUTADO SECRETARIO.- C. ONESIMO MARISCALES DELGADILLO.- RUBRICA.- DIPUTADO SECRETARIO.- C. FRUCTUOSO MENDEZ VALENZUELA.- RUBRICA.-
 
 POR TANTO, MANDO SE PUBLIQUE EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO Y SE LE DÉ EL DEBIDO CUMPLIMIENTO.- DADO EN LA RESIDENCIA DEL PODER EJECUTIVO, EN LA CIUDAD DE HERMOSILLO, SONORA, A LOS VEINTIUN DIAS DEL ME S DE DICIEMBRE DEL AÑO DOS MIL CUATRO.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- EDUARDO BOURS CASTELO.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- ROBERTO RUIBAL ASTIAZARAN.- RUBRICA.-
 
@@ -1572,3 +1574,9 @@ Para efectos del artículo 312, numeral 1, inciso b de la Ley de Hacienda del Es
 ###### ARTÍCULO CUARTO.
 
 Para efectos de la reforma al artículo 42 de la Ley de Tránsito para el Estado de Sonora, los propietarios de los vehículos deberán reponer las placas de circulación en el año 2014 sin costo.
+
+B.O. 13 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
