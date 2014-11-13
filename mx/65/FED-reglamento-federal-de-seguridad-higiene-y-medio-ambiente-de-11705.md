@@ -4,7 +4,7 @@ identifier: "FED-reglamento-federal-de-seguridad-higiene-y-medio-ambiente-de-117
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-01-21"
-last_updated: "1997-01-21"
+last_updated: "2014-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11705&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1997-01-20"
 
 REGLAMENTO FEDERAL DE SEGURIDAD, HIGIENE Y MEDIO AMBIENTE DE TRABAJO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DEL REGLAMENTO FEDERAL DE SEGURIDAD Y SALUD EN EL TRABAJO, PUBLICADO EN EL D.O.F. DE 13 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS TRES MESES SIGUIENTES DE SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE NOVIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 21 de enero de 1997.
 
@@ -1082,3 +1084,25 @@ QUINTO. Las licencias y certificados otorgados por la Secretaría a los trabajad
 SEXTO. La Secretaría y el Instituto Mexicano del Seguro Social, establecerán la debida coordinación con el objeto de facilitar a los patrones el cumplimiento de la obligación de presentar los avisos de los accidentes de trabajo, previstos en la Ley Federal del Trabajo y en la Ley del Seguro Social.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinte días del mes de enero de mil novecientos noventa y siete.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de la Defensa Nacional, Enrique Cervantes Aguirre.- Rúbrica.- La Secretaria de Medio Ambiente, Recursos Naturales y Pesca, Julia Carabias Lillo.- Rúbrica.- El Secretario de Energía, Jesús Reyes Heroles González Garza.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Herminio Blanco Mendoza.- Rúbrica.- El Secretario de Salud, Juan Ramón de la Fuente Ramírez.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Javier Bonilla García.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 13 DE NOVIEMBRE DE 2014.
+
+PRIMERO. El presente Reglamento entrará en vigor a los tres meses siguientes de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento Federal de Seguridad, Higiene y Medio Ambiente de Trabajo, publicado en el Diario Oficial de la Federación el 21 de enero de 1997, al inicio de vigencia de este Reglamento.
+
+TERCERO. A partir del inicio de vigencia del presente Reglamento se abrogan los Lineamientos de operación para el otorgamiento de las autorizaciones de funcionamiento de los recipientes sujetos a presión, recipientes criogénicos y generadores de vapor o calderas, publicados en el Diario Oficial de la Federación de 30 de noviembre de 2012.
+
+Todas las solicitudes de autorización para el funcionamiento en los Centros de Trabajo de los recipientes sujetos a presión, recipientes criogénicos y generadores de vapor o calderas, formuladas al amparo de los artículos 29, fracción II, y 31 del Reglamento Federal de Seguridad, Higiene y Medio Ambiente de Trabajo que se abroga, en trámite a la entrada en vigor de este Reglamento, se sustanciarán hasta su resolución final, conforme a lo dispuesto por los citados Lineamientos de operación.
+
+CUARTO. A partir de la entrada en vigor del presente Reglamento se derogan los Artículos Tercero, fracción III, y Sexto del Acuerdo por el que se establecen la organización y Reglas de Operación del Comité Consultivo Nacional de Normalización de Seguridad y Salud en el Trabajo.
+
+QUINTO. La Secretaría y el Instituto Mexicano del Seguro Social dispondrán las acciones conducentes para el establecimiento del Sistema Nacional de Información sobre Accidentes y Enfermedades de Trabajo.
+
+SEXTO. La Secretaría dispondrá de un plazo de tres años, contado a partir de la entrada en vigor de este Reglamento, para poner a disposición de los sujetos obligados los módulos informáticos a que se refiere el artículo 81, fracciones VIII a X de este ordenamiento.
+
+SÉPTIMO. Los Reglamentos Interiores de la Comisión Consultiva Nacional de Seguridad e Higiene en el Trabajo y de las Comisiones Consultivas Estatales y del Distrito Federal de Seguridad e Higiene en el Trabajo, se tendrán por emitidos para la Comisión Consultiva Nacional de Seguridad y Salud en el Trabajo y las Comisiones Consultivas Estatales y del Distrito Federal de Seguridad y Salud en el Trabajo, respectivamente, en lo que resulte conducente, en tanto se emiten los nuevos instrumentos normativos.
+
+La Comisión Consultiva Nacional de Seguridad y Salud en el Trabajo y las Comisiones Consultivas Estatales y del Distrito Federal de Seguridad y Salud en el Trabajo darán seguimiento a los acuerdos en proceso de la Comisión Consultiva Nacional de Seguridad e Higiene en el Trabajo y de las Comisiones Consultivas Estatales y del Distrito Federal de Seguridad e Higiene en el Trabajo, respectivamente.
