@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-civiles-del-estado-de-mexico-25392"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-01"
-last_updated: "2014-07-10"
+last_updated: "2014-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25392&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE NOVIEMBRE DE 2014.
 
 Código publicado en el Gaceta del Gobierno del Estado de México, el lunes 1 de julio del 2002.
 
@@ -7823,7 +7823,7 @@ El juez interrogará al declarante cuando lo estime pertinente.
 
 Declaración de parte y confesional
 
-###### Articulo 5.
+###### Artículo 5.
 
 34.- La declaración de parte podrá recibirse con independencia de la confesional.
 
@@ -7999,7 +7999,9 @@ El Juez deberá dictar el auto admisorio de demanda, a más tardar al día sigui
 
 El Juez girará oficio al centro laboral del demandado, al Instituto de la Función Registral del Estado de México, a las instituciones de seguridad social o a la Secretaría de Hacienda y Crédito Público, para que informen sobre sueldos, prestaciones, ingresos y bienes declarados por el deudor alimentario.
 
-La orden de descuento de los alimentos o el informe solicitado, se atenderá de inmediato por el responsable de la fuente laboral o del área de recursos humanos, y dará respuesta dentro del término de tres días, con el apercibimiento que de no hacerlo se les aplicará una multa o arresto de hasta treinta y seis horas; sin perjuicio de la responsabilidad solidaria con el deudor alimentario.
+> <small>(REFORMADO, G.G. 14 DE NOVIEMBRE DE 2014)</small>
+
+La orden de descuento de los alimentos o el informe solicitado, se atenderá de inmediato por el responsable de la fuente laboral o del área de recursos humanos, y dará respuesta dentro del término de tres días, con el apercibimiento que de no hacerlo se les aplicará una multa de arresto de hasta treinta y seis horas; sin perjuicio de la responsabilidad solidaria con el deudor alimentario y de su inscripción en el Registro de Deudores Alimentarios Morosos.
 
 Cuando no se acredite la capacidad económica del deudor alimentario, en atención a las circunstancias especiales del caso, se fijará en salarios mínimos, sin que pueda ser inferior a uno.
 
@@ -8260,6 +8262,12 @@ Recepción de pruebas después de la audiencia principal
 El juez dictará las providencias necesarias para su desahogo.
 
 Cuando se hayan solicitado informes de autoridades o particulares, se les requerirá para que, a la brevedad, los rindan. Una vez agotadas las medidas de apremio que se estimen conducentes, el juez podrá tenerlas por desiertas y señalará fecha dentro de los cinco días siguientes para la continuación de la audiencia.
+
+> <small>(ADICIONADO, G.G. 14 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 5.
+
+64 Bis.- En la sentencia que condene el pago de la obligación alimentaria, los jueces deberán ordenar la inscripción respectiva en el Registro de Deudores Alimentarios Morosos y establecer que conjuntamente con la notificación de la sentencia se haga del conocimiento del obligado alimentario los alcances de su inscripción en el citado Registro, y sus consecuencias en caso de incumplimiento.
 
 > <small>(DEROGADA SU DENOMINACIÓN, G.G. 3 DE MAYO DE 2012)</small>
 
@@ -8666,3 +8674,11 @@ G.G. 10 DE JULIO DE 2014.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 14 DE NOVIEMBRE DE 2014.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. La Legislatura del Estado proveerá los recursos necesarios para el funcionamiento del Registro de Deudores Alimentarios Morosos.
