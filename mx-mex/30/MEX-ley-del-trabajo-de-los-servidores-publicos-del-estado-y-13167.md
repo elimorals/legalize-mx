@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-trabajo-de-los-servidores-publicos-del-estado-y-13167"
 country: "mx"
 rank: "ley"
 publication_date: "1998-10-23"
-last_updated: "2014-05-14"
+last_updated: "2014-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 23 de octubre de 1998.
 
@@ -73,7 +73,7 @@ II. Por trabajador, la persona física que presta sus servicios, en forma subord
 
 III. Por institución pública, cada uno de los poderes públicos del Estado, los municipios y los tribunales administrativos; así como los organismos descentralizados, fideicomisos de carácter estatal y municipal, y los órganos autónomos que sus leyes de creación así lo determinen;
 
-IV. Por dependencia, la unidad administrativa prevista en los ordenamientos legales respectivos que, estando subordinada jerárquicamente a una institución pública, tenga un sistema propio de administración interna; y (sic)
+IV. Por dependencia, la unidad administrativa prevista en los ordenamientos legales respectivos que, estando subordinada jerárquicamente a una institución pública, tenga un sistema propio de administración interna; y
 
 V. Por Tribunal, el Tribunal Estatal de Conciliación y Arbitraje;
 
@@ -338,6 +338,14 @@ VIII. Cumplir con los requisitos que se establezcan para los diferentes puestos;
 IX. Acreditar por medio de los exámenes correspondientes los conocimientos y aptitudes necesarios para el desempeño del puesto; y
 
 X. No estar inhabilitado para el ejercicio del servicio público.
+
+> <small>(ADICIONADA, G.G. 14 DE NOVIEMBRE DE 2014)</small>
+
+XI. Presentar certificado expedido por la Unidad del Registro de Deudores Alimentarios Morosos en el que conste, si se encuentra inscrito o no en el mismo.
+
+> <small>(ADICIONADO, G.G. 14 DE NOVIEMBRE DE 2014)</small>
+
+La institución o dependencia que reciba un certificado en que conste que la persona que se incorpora al servicio público se encuentra inscrito (sic) el Registro de Deudores Alimentarios Morosos deberá dar aviso al juez de conocimiento de dicha circunstancia, para los efectos legales a que haya lugar.
 
 ###### Artículo 48.
 
@@ -761,7 +769,7 @@ III. El arresto del servidor público;
 
 IV. La prisión preventiva del servidor público, seguida de sentencia absolutoria;
 
-V. Las previstas por otros ordenamientos aplicables e impuestas por la autoridad competente; o (sic)
+V. Las previstas por otros ordenamientos aplicables e impuestas por la autoridad competente; o
 
 VI. Las que se determinen en las condiciones generales de trabajo de las instituciones públicas o dependencias;
 
@@ -835,7 +843,7 @@ XVII. Sustraer tarjetas o listas de puntualidad y asistencia del lugar destinado
 
 > <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
 
-XVIII. Las análogas a las establecidas en las fracciones anteriores, de igual manera graves y de consecuencias semejantes en lo que al trabajo se refiere; e (sic)
+XVIII. Las análogas a las establecidas en las fracciones anteriores, de igual manera graves y de consecuencias semejantes en lo que al trabajo se refiere; e
 
 > <small>(ADICIONADA, G.G. 6 DE MARZO DE 2010)</small>
 
@@ -1019,13 +1027,17 @@ XV. Elaborar un catálogo general de puestos y un tabulador anual de remuneracio
 
 > <small>(ADICIONADA, G.G. 21 DE JULIO DE 2006)</small>
 
-XVI. Abstenerse de otorgar remuneración alguna que no se apegue a la normatividad aplicable; e (sic)
+XVI. Abstenerse de otorgar remuneración alguna que no se apegue a la normatividad aplicable; e
 
 XVII. Integrar los expedientes de los servidores públicos y proporcionar las constancias que éstos soliciten para el trámite de los asuntos de su interés en los términos que señalen los ordenamientos respectivos;
 
 > <small>(ADICIONADA, G.G. 18 DE AGOSTO DE 2010)</small>
 
 XVIII. Abstenerse de solicitar certificado de no embarazo o constancia relativa al mismo a las mujeres que soliciten empleo.
+
+> <small>(ADICIONADA, G.G. 14 DE NOVIEMBRE DE 2014)</small>
+
+XIX. Realizar las deducciones correspondientes al salario o sueldo de un servidor público, derivado de una orden judicial de descuento para alimentos.
 
 El incumplimiento a lo previsto en el párrafo anterior, por parte de los servidores públicos estatales y municipales, será sancionado en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
 
@@ -1599,7 +1611,7 @@ Las acciones que se deriven de esta ley, de los actos que den origen a la relaci
 
 I. En un mes:
 
-a) Las acciones para pedir la nulidad o la modificación de un nombramiento, a partir de la fecha de su vigencia o alta del servidor público; y (sic)
+a) Las acciones para pedir la nulidad o la modificación de un nombramiento, a partir de la fecha de su vigencia o alta del servidor público; y
 
 b) Las acciones de los servidores públicos para ejercitar el derecho a ocupar el puesto que hayan dejado por accidente o por enfermedad, contando el plazo a partir de la fecha en que estén en aptitud de volver al trabajo;
 
@@ -1695,7 +1707,7 @@ III. Conceder el registro de los sindicatos y, en su caso, dictar la cancelació
 
 IV. Conocer y resolver, en conciliación y arbitraje, de los conflictos internos de los sindicatos y de los intersindicales;
 
-V. Efectuar el registro de las condiciones generales de trabajo, de los estatutos de los sindicatos, así como de aquellos otros documentos que por su naturaleza deban obrar en los registros del Tribunal; y (sic)
+V. Efectuar el registro de las condiciones generales de trabajo, de los estatutos de los sindicatos, así como de aquellos otros documentos que por su naturaleza deban obrar en los registros del Tribunal; y
 
 > <small>(REFORMADA, G.G. 30 DE ENERO DE 2007)</small>
 
@@ -1989,7 +2001,7 @@ I. Amonestación;
 
 > <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
 
-II. Multa que no podrá exceder de cien veces el salario mínimo general, vigente en el lugar y tiempo en que se cometa la violación; y (sic)
+II. Multa que no podrá exceder de cien veces el salario mínimo general, vigente en el lugar y tiempo en que se cometa la violación; y
 
 > <small>(REFORMADA, G.G. 30 DE ENERO DE 2007)</small>
 
@@ -2013,7 +2025,7 @@ Para que las personas concurran a las audiencias en las que su presencia sea ind
 
 l. Multa que no excederá de cien veces el salario mínimo general vigente, en el lugar y tiempo en que se cometió la infracción;
 
-II. Presentación de la persona con auxilio de la fuerza pública; y (sic)
+II. Presentación de la persona con auxilio de la fuerza pública; y
 
 III. Arresto hasta por treinta y seis horas;
 
@@ -2205,7 +2217,7 @@ Artículo 220 A. Sí alguna persona no puede, por enfermedad u otro motivo justi
 
 Los certificados médicos expedidos por instituciones públicas de seguridad social se eximen de cumplir con los requisitos del párrafo anterior.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 30 DE ENERO DE 2007)</small>
 
 #### SECCION PRIMERA. De la Prueba Confesional
 
@@ -2261,7 +2273,7 @@ Artículo 220 H. Cuando la persona a quien se señale para absolver posiciones s
 
 Para el indebido caso que no comparezca ante la autoridad que ordenó su citación se le harán efectivos los medios de apremio que señala el artículo 209 de la presente ley.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 30 DE ENERO DE 2007)</small>
 
 #### SECCION SEGUNDA. Prueba Documental
 
@@ -2299,7 +2311,7 @@ Artículo 220 L. Para que hagan fe en el Estado de México los documentos proced
 
 Los documentos que se presenten en idioma distinto al español, deberán acompañarse de su traducción, el Tribunal o la Sala, de oficio, nombrará inmediatamente traductor oficial, el cual presentará y ratificará, bajo protesta de decir verdad, la traducción que haga dentro del término de cinco días, que podrá ser ampliado por el Tribunal o la Sala, cuando a su juicio se justifique.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 30 DE ENERO DE 2007)</small>
 
 #### SECCION TERCERA. Prueba Testimonial
 
@@ -2317,7 +2329,7 @@ II. Cuando exista impedimento para presentar directamente a los testigos, deber�
 
 III. Si el testigo radica fuera del lugar de residencia del Tribunal o la Sala, el oferente deberá, al momento de ofrecer la prueba, acompañar interrogatorio por escrito, al tenor del cual deberá de ser examinado el testigo, así como el domicilio de éste; de no hacerlo, se declarará desierta. Así mismo exhibirá copias del interrogatorio, las que se pondrán a disposición de las demás partes, para que dentro del término de tres días presente su pliego de repreguntas en sobre cerrado, sin que los interrogatorios puedan ser ampliados por las partes.
 
-El Tribunal o la Sala, en el caso de la fracción II de este artículo, ordenará se cite al testigo para que rinda su declaración, previo citatorio que se haga de la autoridad en la hora y día que al efecto se señale, previniéndolos que para el caso de que no comparezcan se les aplicará cualquiera de las medios de apremio señaladas por esta ley. (sic)
+El Tribunal o la Sala, en el caso de la fracción II de este artículo, ordenará se cite al testigo para que rinda su declaración, previo citatorio que se haga de la autoridad en la hora y día que al efecto se señale, previniéndolos que para el caso de que no comparezcan se les aplicará cualquiera de las medios de apremio señaladas por esta ley.
 
 El Tribunal o la Sala, al girar el exhorto para desahogar la prueba testimonial, acompañará copia debidamente certificada del interrogatorio con las preguntas calificadas, e indicará a la autoridad exhortada, los nombres de las personas que tienen facultad parta intervenir en la diligencia.
 
@@ -2363,7 +2375,7 @@ III. Concurren en el testigo circunstancias que sean garantía de veracidad.
 
 Se le dará esa credibilidad siempre y cuando la parte oferente la ofrezca como testigo singular o único.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 30 DE ENERO DE 2007)</small>
 
 #### SECCION CUARTA. Prueba Pericial
 
@@ -2399,7 +2411,7 @@ V. En caso de existir discrepancia en los dictámenes, el Tribunal o la Sala des
 
 El perito tercero en discordia que designe el Tribunal o la Sala deben excusarse dentro de las cuarenta y ocho horas siguientes a que se notifique su nombramiento, siempre que concurra alguna de las causas de excusa señalados por esta ley, el Tribunal o la Sala calificará de plano la excusa y, declarada procedente, se nombrará nuevo perito.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 30 DE ENERO DE 2007)</small>
 
 #### SECCION QUINTA. De la Inspección
 
@@ -2421,7 +2433,7 @@ II. Las partes y sus apoderados pueden concurrir a la diligencia de inspección 
 
 III. De la diligencia se levantará acta circunstanciada, que firmarán los que en ella intervengan y la cual se agregará al expediente, previa razón en autos.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 30 DE ENERO DE 2007)</small>
 
 #### SECCION SEXTA. De las Fotografías y cualquier otro Medio de Prueba
 
@@ -2581,7 +2593,7 @@ III. Si las partes llegan a un acuerdo, se dará por terminado el conflicto. El 
 
 > <small>(REFORMADA, G.G. 30 DE ENERO DE 2007)</small>
 
-IV. Las partes, de común acuerdo, podrán solicitar por una sola ocasión, que se suspenda la audiencia con el objeto de conciliarse. El Tribunal o la Sala podrán suspenderla y fijarán su reanudación, dentro de los diez días hábiles siguientes, quedando notificadas las partes de la nueva fecha con los apercibimientos de ley; y (sic)
+IV. Las partes, de común acuerdo, podrán solicitar por una sola ocasión, que se suspenda la audiencia con el objeto de conciliarse. El Tribunal o la Sala podrán suspenderla y fijarán su reanudación, dentro de los diez días hábiles siguientes, quedando notificadas las partes de la nueva fecha con los apercibimientos de ley; y
 
 > <small>(REFORMADA, G.G. 30 DE ENERO DE 2007)</small>
 
@@ -2599,7 +2611,7 @@ La etapa de ofrecimiento y admisión de pruebas se desarrollará conforme a las 
 
 I. El actor ofrecerá sus pruebas en relación con los hechos controvertidos. Inmediatamente el demandado ofrecerá sus pruebas y podrá objetar las de su contraparte, y aquél, a su vez, podrá objetar las del demandado;
 
-II. Las partes podrán ofrecer nuevas pruebas siempre que se relacionen con las ofrecidas por la contraparte y que no se haya cerrado la etapa de ofrecimiento de pruebas; y (sic)
+II. Las partes podrán ofrecer nuevas pruebas siempre que se relacionen con las ofrecidas por la contraparte y que no se haya cerrado la etapa de ofrecimiento de pruebas; y
 
 III Concluido el ofrecimiento de pruebas, el Tribunal o la Sala resolverán inmediatamente sobre su admisión.
 
@@ -2747,7 +2759,7 @@ II. Multa que podrá ser, de cincuenta a cien días del salario base que perciba
 
 > <small>(REFORMADA, G.G. 20 DE ENERO DE 2009)</small>
 
-III. En caso de reincidencia, la suspensión temporal del cargo del servidor público hasta de uno a quince días sin goce de sueldo, así sucesivamente hasta su cumplimiento; y (sic)
+III. En caso de reincidencia, la suspensión temporal del cargo del servidor público hasta de uno a quince días sin goce de sueldo, así sucesivamente hasta su cumplimiento; y
 
 El Tribunal o la Sala respetarán estrictamente el orden, de los medios de apremio establecidos en este artículo.
 
@@ -2935,7 +2947,7 @@ Hasta en tanto las Salas no sean instaladas, el Tribunal conocerá y resolverá 
 
 G.G. 20 DE ENERO DE 2009.
 
-DECRETO No. 257, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS A LA LEY DEL TRABAJO DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS.
+DECRETO No. 257, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS A LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2963,7 +2975,7 @@ El Tribunal contará con tres meses a partir de la publicación de este decreto 
 
 G.G. 20 DE ENERO DE 2009.
 
-DECRETO No. 258, POR EL QUE SE REFORMAN Y DEROGAN DIVERSOS ARTICULOS A LA LEY DEL TRABAJO DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS.
+DECRETO No. 258, POR EL QUE SE REFORMAN Y DEROGAN DIVERSOS ARTÍCULOS A LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3082,3 +3094,11 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Cuando en los ordenamientos jurídicos estatales se haga referencia a la Secretaría de Finanzas, Planeación y Administración; de Desarrollo Urbano y Obras Públicas; de Educación, Cultura y Bienestar Social; del Trabajo y de la Previsión Social y, de Ecología, se entenderá, respectivamente, a la Secretaría de Finanzas; de Desarrollo Urbano; de Educación, de Trabajo y, de Medio Ambiente.
+
+G.G. 14 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- La Legislatura del Estado proveerá los recursos necesarios para el funcionamiento del Registro de Deudores Alimentarios Morosos.
