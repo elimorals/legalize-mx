@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-procedimientos-civiles-para-el-estado-libre-y-9895"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-01-08"
-last_updated: "2014-10-24"
+last_updated: "2014-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9895&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO ÚNICO DEL DECRETO NÚMERO 150, PUBLICADO EN EL P.O. DE 14 DE NOVIEMBRE DE 2014, EL PROCEDIMIENTO ORAL EN MATERIA CIVIL, PREVISTO EN EL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, ENTRA EN VIGOR EN EL DISTRITO JUDICIAL DE CHETUMAL, CON CABECERA EN LA CIUDAD DEL MISMO NOMBRE, EL CUAL COMPRENDE LA CIRCUNSCRIPCIÓN TERRITORIAL DEL MUNICIPIO DE OTHÓN P. BLANCO Y BACALAR DEL ESTADO DE QUINTANA ROO, CUANDO EL PRESENTE DECRETO SE PUBLIQUE EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUINTANA ROO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el jueves 8 de enero de 1981.
 
@@ -8310,3 +8312,17 @@ SEGUNDO. Se deroga el inciso e) del artículo tercero transitorio del Decreto N�
 > <small>N. DE E. SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DEL DECRETO NÚMERO 147.</small>
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 14 DE NOVIEMBRE DE 2014.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL DECRETO NÚMERO 150.</small>
+
+DECRETA:
+
+ÚNICO. La H. XIV Legislatura del Estado determina que el Procedimiento Oral en materia Civil, previsto en el Código de Procedimientos Civiles para el Estado Libre y Soberano de Quintana Roo, entra en vigor en el Distrito Judicial de Chetumal, Quintana Roo, de la siguiente manera:
+
+El Procedimiento Oral en materia Civil, previsto en el Código de Procedimientos Civiles para el Estado Libre y Soberano de Quintana Roo, entra en vigor en el Distrito Judicial de Chetumal, con cabecera en la ciudad del mismo nombre, el cual comprende la circunscripción territorial del Municipio de Othón P. Blanco y Bacalar del Estado de Quintana Roo, cuando el presente Decreto se publique en el Periódico Oficial del Estado de Quintana Roo.
+
+## TRANSITORIO
+
+ÚNICO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
