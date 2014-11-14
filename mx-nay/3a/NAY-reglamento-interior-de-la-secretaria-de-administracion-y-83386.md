@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-la-secretaria-de-administracion-y-83386"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-09-21"
-last_updated: "2014-10-10"
+last_updated: "2014-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "NAY"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE ADMINISTRACION Y FINANZAS DEL ESTADO DE NAYARIT
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE NOVIEMBRE DE 2014 EN EL PERIÓDICO OFICIAL DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS, PUBLICADO EN EL P.O. DE 10 DE OCTUBRE DE 2014 Y SU FE DE ERRATAS EN EL P.O. 14 DE NOVIEMBRE DE 2014 RESPECTIVAMENTE, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2014 (ABROGADO).
+
+N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 14 DE NOVIEMBRE DE 2014.
 
 Reglamento publicado en la Sección Sexta del Periódico Oficial del Estado de Nayarit, el miércoles 21 de septiembre de 2011.
 
@@ -509,7 +511,7 @@ X. Participar en el ámbito de su competencia, en los órganos del Sistema Nacio
 
 XI. Solicitar a las autoridades correspondientes, el auxilio de la fuerza pública, así como ordenar el rompimiento de chapas y cerraduras, para el debido cumplimiento de sus atribuciones;
 
-XII. Las demás que le señalen otros ordenamientos legales y las que le encomiende su superior jerárquico; (sic)
+XII. Las demás que le señalen otros ordenamientos legales y las que le encomiende su superior jerárquico;
 
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2011)</small>
 
@@ -1757,8 +1759,8 @@ P.O. 19 DE OCTUBRE DE 2011.
 
 P.O. 10 DE OCTUBRE DE 2014.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE NOVIEMBRE DE 2014 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 14 DE NOVIEMBRE DE 2014)</small>
 
-PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+PRIMERO.- El presente Reglamento Interior, entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado; abrogando el Reglamento Interior de la Secretaría de Administración y Finanzas, Sección Sexta, Tomo CLXXXIX publicado el 21 de Septiembre de 2011.
 
 SEGUNDO.- El Manual de Organización de esta Dependencia se adecuará de acuerdo a las atribuciones contempladas en este Reglamento, en un plazo de 30 días posteriores a su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
