@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-de-la-direccion-de-psicologia-del-poder-judicial-571
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-09-21"
-last_updated: "2007-09-21"
+last_updated: "2014-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57197&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # REGLAMENTO DE LA DIRECCION DE PSICOLOGIA DEL PODER JUDICIAL DEL ESTADO DE QUERETARO ARTEAGA
 
-REGLAMENTO DE LA DIRECCION DE PSICOLOGIA DEL PODER JUDICIAL DEL ESTADO DE QUERETARO ARTEAGA
+REGLAMENTO DE LA DIRECCIÓN DE PSICOLOGÍA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO ARTEAGA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA DIRECCIÓN DE PSICOLOGÍA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO, PUBLICADO EN EL P.O. DE 14 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2014 (DEROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 21 de septiembre de 2007.
 
@@ -57,7 +59,7 @@ CONTENIDO
 
 El Consejo de la Judicatura del Poder Judicial del Estado de Querétaro Arteaga, en ejercicio de la facultad que le confiere la fracción XII del artículo 99 de la Ley Orgánica del Poder Judicial del Estado, y
 
-CONSIDERANDO.
+CONSIDERANDO...
 
 En consecuencia, expide el siguiente:
 
@@ -225,7 +227,7 @@ Los libros de registro deberán contener cuando menos:
 
 I. Número de expediente;
 
-I (sic). Órgano jurisdiccional que da intervención a la Dirección de Psicología;
+I (SIC). Órgano jurisdiccional que da intervención a la Dirección de Psicología;
 
 II. Tipo de intervención solicitada;
 
@@ -418,3 +420,11 @@ LIC. CARLOS RAFAEL ESCALANTE MUNGUÍA
 SECRETARIO AUXILIAR DE ACUERDOS
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE NOVIEMBRE DE 2014.
+
+PRIMERO. El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO. Queda derogado el Reglamento de la Dirección de Piscología (sic) del Poder Judicial del Estado de Querétaro Arteaga, publicado el 21 de septiembre de 2007, en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" número 57.
