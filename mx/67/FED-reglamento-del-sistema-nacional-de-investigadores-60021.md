@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sistema-nacional-de-investigadores-60021"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-03-21"
-last_updated: "2014-02-11"
+last_updated: "2014-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60021&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-12-07"
 
 REGLAMENTO DEL SISTEMA NACIONAL DE INVESTIGADORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2014.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 21 de marzo de 2008.
 
@@ -479,9 +479,9 @@ X. Las demás que se deriven de la Ley de Ciencia y Tecnología, la Ley Orgánic
 
 Para ser miembro del SNI se requiere que el investigador realice habitual y sistemáticamente actividades de investigación científica o tecnológica, presente los productos del trabajo debidamente documentados, se desempeñe en México, cualquiera que sea su nacionalidad, o sea mexicano que realice actividades de investigación científica o tecnológica de tiempo completo en el extranjero, en dependencias, entidades, instituciones de educación superior o centros de investigación de los organismos internacionales de los sectores público, privado o social.
 
-> <small>(ADICIONADO, D.O.F. 11 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2014)</small>
 
-Para los fines de la solicitud de ingreso y reingreso de los investigadores que ocupen las Cátedras CONACYT, se entenderá que desempeñan sus actividades de investigación científica o tecnológica en la Institución de Adscripción a la cual fueron asignados en los términos establecidos por la normatividad aplicable.
+Para los fines de la solicitud de ingreso y reingreso de los investigadores que ocupen las Cátedras CONACYT, se entenderá que desempeñan sus actividades de investigación científica o tecnológica en la Institución beneficiada a la cual fueron comisionados en los términos establecidos por la normatividad aplicable.
 
 Ingresarán al SNI aquellos investigadores que atiendan la convocatoria correspondiente, sean evaluados por una Comisión Dictaminadora y sean aprobados por el Consejo de Aprobación.
 
@@ -877,15 +877,15 @@ Los miembros del SNI podrán recibir el estímulo económico correspondiente a c
 
 I. Tener un contrato o convenio institucional vigente para realizar actividades de investigación científica o tecnológica en alguna de las dependencias, entidades, instituciones de educación superior o centros de investigación de los sectores público, privado o social de México que tengan por objeto el desarrollo de actividades de investigación científica o tecnológica. Los servicios establecidos en el contrato o convenio deberán ser por al menos 20 horas a la semana, y ser acreditados por medio de documento oficial original y actualizado.
 
-> <small>(ADICIONADO, D.O.F. 11 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2014)</small>
 
-Para los investigadores que ocupen las Cátedras CONACYT, se entenderá que desarrollan las actividades de investigación científica o tecnología (sic) en las Instituciones de Adscripción a la cual fueron comisionados por el CONACYT.
+Para los investigadores que ocupen las Cátedras CONACYT, se entenderá que desarrollan las actividades de investigación científica o tecnología en la Institución beneficiada a la cual fueron comisionados por el CONACYT.
 
 La constancia de adscripción deberá especificar, además de las horas semanales de compromiso con la institución, las funciones asignadas, el inicio y término de la relación, y deberá ser suscrita por la autoridad facultada para ello. El documento no podrá tener una antigüedad superior a tres meses a la fecha que se presenta y deberá entregarse por la vía en que el SNI lo requiera.
 
-> <small>(ADICIONADO, D.O.F. 11 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2014)</small>
 
-Los investigadores que ocupen las Cátedras CONACYT deberán presentar constancia de adscripción emitida por la Institución de Adscripción a la cual están comisionados, indicando las horas semanales de compromiso y las funciones asignadas, haciendo referencia a su estatus de investigadores de Cátedras CONACYT.
+Los investigadores que ocupen las Cátedras CONACYT deberán presentar constancia de adscripción emitida por el mismo CONACYT, indicando la Institución beneficiada a la cual están comisionados, indicando las horas semanales de compromiso y las funciones asignadas, haciendo referencia a su estatus de investigadores de Cátedras CONACYT.
 
 II. En el caso de instituciones o centros de los sectores privado y social, éstos deberán estar inscritos en el RENIECYT y deberán tener suscrito y vigente un convenio de colaboración con el SNI, en cuyo caso podrán tener el estímulo económico que especifique dicho convenio.
 
@@ -1051,7 +1051,7 @@ I. Tres ayudantes, con un salario mínimo cada uno;
 
 II. Dos ayudantes, uno con dos salarios mínimos, y uno con un salario mínimo, o
 
-III. Un ayudante, con tres salarios mínimos; (sic)
+III. Un ayudante, con tres salarios mínimos;
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2012)</small>
 
@@ -1177,11 +1177,11 @@ Para los procesos de evaluación y revisión, el CONACYT, con apego a los lineam
 
 De igual manera entregará un reconocimiento a los integrantes de las comisiones dictaminadoras y revisoras por su labor y les proporcionará el apoyo y la infraestructura necesarios para realizarla.
 
-> <small>(ADICIONADO, D.O.F. 11 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 93.
 
-Los investigadores que ocupan una Cátedra CONACYT que desarrollen habitual y sistemáticamente actividades de investigación científica o tecnológica en las Instituciones de Adscripción a las cuales fueron asignados en los términos establecidos por la normatividad aplicable, serán sujetos de los mismos derechos y obligaciones que los investigadores que hayan ingresado o pretendan incorporarse al SNI.
+Los investigadores que ocupan una Cátedra CONACYT que desarrollen habitual y sistemáticamente actividades de investigación científica o tecnológica en la Institución beneficiada a la cual fueron comisionados en los términos establecidos por la normatividad aplicable, serán sujetos de los mismos derechos y obligaciones que los investigadores que hayan ingresado o pretendan incorporarse al SNI.
 
 ## TRANSITORIOS
 
@@ -1238,3 +1238,9 @@ D.O.F. 11 DE FEBRERO DE 2014.
 PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- La disposición establecida en el artículo 61 del Reglamento del Sistema Nacional de Investigadores será aplicable de manera retroactiva para aquellos investigadores que no hayan solicitado su renovación durante el año 2013, considerándose como renovada su distinción; lo anterior, tendrá efectos a partir de la publicación del presente Acuerdo en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Una vez que las presentes modificaciones entren en vigor, podrán aplicarse para las Convocatorias que en ese momento se encuentren vigentes.
