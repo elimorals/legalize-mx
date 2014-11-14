@@ -4,7 +4,7 @@ identifier: "ROO-ley-para-la-prevencion-y-tratamiento-del-sobrepeso-obesidad-772
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-29"
-last_updated: "2010-10-29"
+last_updated: "2014-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY PARA LA PREVENCION Y TRATAMIENTO DEL SOBREPESO, OBESIDAD Y TRASTORNOS DE LA CONDUCTA ALIMENTARIA EN EL ESTADO DE QUINTANA ROO
 
-LEY PARA LA PREVENCION Y TRATAMIENTO DEL SOBREPESO, OBESIDAD Y TRASTORNOS DE LA CONDUCTA ALIMENTARIA EN EL ESTADO DE QUINTANA ROO
+LEY PARA LA PREVENCIÓN Y TRATAMIENTO DEL SOBREPESO, OBESIDAD Y TRASTORNOS DE LA CONDUCTA ALIMENTARIA EN EL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE FOMENTO PARA LA NUTRICIÓN Y EL COMBATE DEL SOBREPESO, OBESIDAD Y TRASTORNOS DE LA CONDUCTA ALIMENTARIA PARA EL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 14 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de octubre de 2010.
 
@@ -212,3 +214,23 @@ LIC. FÉLIX ARTURO GONZÁLEZ CANTO
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 
 LIC. EDUARDO OVANDO MARTINEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley para la Prevención y Tratamiento del Sobrepeso, Obesidad y Trastornos de la Conducta Alimentaria en el Estado de Quintana Roo, publicada en el Periódico Oficial del Estado de Quintana Roo de fecha 29 de octubre de 2010.
+
+###### ARTÍCULO TERCERO.
+
+El Consejo Estatal de Nutrición y Combate del Sobrepeso, Obesidad y Trastornos de la Conducta Alimentarla deberá instalarse dentro de los 60 días siguientes a la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+El Consejo Estatal de Nutrición y Combate del Sobrepeso, Obesidad y Trastornos de la Conducta Alimentaria deberá expedir su Reglamento dentro de los 90 días posteriores a su instalación.
