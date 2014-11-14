@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transparencia-y-acceso-a-la-informacion-90412"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-11-23"
-last_updated: "2012-11-23"
+last_updated: "2014-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90412&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL ESTADO DE BAJA CALIFORNIA --ANTES REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA--
 
-REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
+REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 23 de noviembre de 2012.
 
@@ -33,41 +33,67 @@ C O N S I D E R A N D O...
 
 QUINTO.- Que de conformidad a lo anterior, deviene indispensable la emisión de la normatividad que regirá a este órgano jurisdiccional, a fin de consolidar su funcionamiento, garantizando con ello una efectiva operatividad en materia de transparencia y acceso a la información pública, por lo que se tiene a bien expedir el siguiente:
 
-REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE NOVIEMBRE DE 2014)</small>
+
+REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL ESTADO DE BAJA CALIFORNIA.
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 1.
 
-El presente ordenamiento tiene por objeto desarrollar y dar eficacia a las disposiciones contenidas en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California; es de interés general y de observancia obligatoria para el Pleno, Salas y órganos auxiliares del Tribunal de Justicia Electoral del Poder Judicial del Estado de Baja California.
+El presente ordenamiento tiene por objeto desarrollar y dar eficacia a las disposiciones contenidas en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California; es de interés general y de observancia obligatoria para el Pleno y órganos auxiliares del Tribunal de Justicia Electoral del Estado de Baja California.
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 2.
 
-La interpretación y aplicación del presente Reglamento, corresponde al Tribunal de Justicia Electoral del Poder Judicial de Baja California, por conducto del Comité Técnico de Transparencia y Acceso a la Información Pública y de la Unidad de Transparencia, en el ámbito de sus competencias.
+La interpretación y aplicación del presente Reglamento, corresponde al Tribunal de Justicia Electoral del Estado de Baja California, por conducto del Comité Técnico de Transparencia y Acceso a la Información Pública, y de la Unidad de Transparencia, en el ámbito de sus competencias.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 3.
 
-Además de lo establecido por el artículo 5 de la Ley, para los efectos de este Reglamento se entenderá por:
+Además de lo establecido por el artículo 5 de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California, para los efectos de este Reglamento se entenderá por:
 
-I.- Tribunal: Al Tribunal de Justicia Electoral del Poder Judicial del Estado de Baja California.
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2014)</small>
+
+I.- Tribunal: Al Tribunal de Justicia Electoral del Estado de Baja California.
 
 II.- Comité: Al Comité Técnico de Transparencia y Acceso a la Información Pública del Tribunal.
 
-III.- Unidad de Transparencia: Es el órgano del Tribunal, a que hace referencia el artículo 37 de la Ley de Acceso a la Información Pública para el Estado de Baja California.
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2014)</small>
 
-IV.- Portal: Al portal de internet del Tribunal.
+III.- Unidad de Transparencia: Al órgano del Tribunal, a que hace referencia el artículo 37 de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California.
 
-V.- Órganos auxiliares: A las áreas administrativas del Tribunal, señaladas en la Ley Orgánica del Poder Judicial del Estado de Baja California, que puedan tener bajo su resguardo información pública.
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2014)</small>
+
+IV.- Portal: Al portal de Obligaciones de Transparencia del Tribunal.
+
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2014)</small>
+
+V.- Órganos auxiliares: A las áreas administrativas del Tribunal, señaladas en la Ley que rige al mismo, que puedan tener bajo su resguardo información pública.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE NOVIEMBRE DE 2014)</small>
+
+VI.- Órgano garante: Al Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California.
 
 ###### Artículo 4.
 
 Los formatos a través de los cuales se solicite información pública o acceso a datos personales, deberán ser sencillos, entendibles y claros, así como encontrarse a disposición de los usuarios en la Unidad de Transparencia y en versión electrónica en el portal.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE NOVIEMBRE DE 2014)</small>
+
+Asimismo, la información que proporcione el Tribunal, deberá ser entregada de manera clara, confiable, oportuna, y presentada en forma sencilla y de fácil comprensión para la persona.
+
 ### CAPÍTULO SEGUNDO. DEL COMITÉ
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 5.
 
-El Comité es el órgano normativo del Tribunal en materia de transparencia, acceso a la información pública y protección de datos personales; sus acuerdos serán obligatorios para sus servidores públicos.
+El Comité es el órgano normativo del Tribunal en materia de transparencia, acceso a la información pública y protección de datos personales; sus acuerdos serán obligatorios para los servidores públicos adscritos al Tribunal.
 
 ###### Artículo 6.
 
@@ -77,9 +103,13 @@ I.- El Presidente del Tribunal, quien lo será también del Comité; y
 
 II.- Dos Vocales:
 
-a).- Un Magistrado del Pleno del Tribunal, designado por el Presidente del mismo.
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2014)</small>
 
-b).- El Consejero de la Judicatura integrante de la Comisión de Administración del Tribunal, designado por el Pleno del Consejo de la Judicatura del Poder Judicial del Estado.
+a).- El Secretario General de Acuerdos del Tribunal.
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2014)</small>
+
+b).- El Titular de la Unidad Administrativa del Tribunal, quien fungirá como Secretario Técnico.
 
 Los integrantes del Comité desempeñarán su encargo de manera honorífica, por lo que no percibirán retribución, emolumento o compensación alguna por las actividades que desarrollen con tal carácter.
 
@@ -129,13 +159,19 @@ La convocatoria para la sesion del Comité podrán notificarse personalmente a s
 
 La convocatoria para sesiones extraordinarias deberá notificarse a los integrantes del Comité con la anticipación que los asuntos a tratar lo permitan. En estas sesiones se atenderán exclusivamente los asuntos señalados en la convocatoria respectiva, por lo que el orden del día no comprenderá asuntos generales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 12.
 
-Para el desempeño de sus funciones, el Comité contará con un Secretario Técnico, cuya designación recaerá en el Titular del Órgano Administrativo del Tribunal, quién podrá participar en las sesiones con derecho a voz, pero sin voto, y tendrá las atribuciones siguientes:
+El Secretario Técnico del Comité tendrá las atribuciones siguientes:
 
-I.- Elaborar las convocatorias correspondientes y remitirlas a los integrantes del Comité.;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2014)</small>
 
-II.- Elaborar las actas de las sesiones y remitirlas a los integrantes del Comité para su posterior aprobación;
+I.- Elaborar las convocatorias correspondientes para su autorización por parte del Presidente del Comité;
+
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2014)</small>
+
+II.- Elaborar las actas de las sesiones y remitirlas a los integrantes del Comité para su aprobación;
 
 III.- Pasar lista de asistencia y verificar la debida integración del quórum para las sesiones;
 
@@ -149,29 +185,37 @@ VII.- Las demás que acuerde el Comité.
 
 ### CAPÍTULO TERCERO. DE LA UNIDAD DE TRANSPARENCIA
 
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 13.
 
-La Unidad de Transparencia, estará a cargo del Titular del Órgano Administrativo del Tribunal y conforme al artículo 37 de la Ley, será el órgano operativo encargado de difundir la información de oficio, recibir y tramitar las solicitudes de acceso a la información pública y a los datos personales, que se formulen al Tribunal y a sus órganos auxiliares.
+La Unidad de Transparencia, estará a cargo del Titular de la Unidad Administrativa del Tribunal y conforme al artículo 37 de la Ley, será el órgano operativo encargado de difundir en el Portal la información de oficio, recibir y tramitar las solicitudes de acceso a la información pública y a los datos personales, que se formulen al Tribunal y a sus órganos auxiliares.
 
-El portal deberá indicar el nombre del responsable de la Unidad de Transparencia, así como el domicilio y número telefónico de la misma.
+El Portal deberá indicar el nombre del responsable de la Unidad de Transparencia, cuenta de correo electrónico, así como el domicilio y número telefónico de la misma.
 
 ###### Artículo 14.
 
 Son funciones de la Unidad de Transparencia, además de las que establece el artículo 39 de la Ley, las siguientes:
 
-I.- Recabar y difundir la información que se genere, comprendida dentro del catálogo que señala la Ley y este Reglamento;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2014)</small>
 
-II.- Elaborar un catálogo de información y de expedientes clasificados por el Tribunal;
+I.- Recabar y difundir en el Portal, la información que se genere, comprendida dentro del catálogo que señalan la Ley y este Reglamento;
+
+II.- (DEROGADA, P.O. 14 DE NOVIEMBRE DE 2014)
 
 III.- Realizar los trámites internos necesarios para entregar la información solicitada y practicar las notificaciones a los solicitantes;
 
-IV.- Llevar un registro de las solicitudes de acceso a la información y sus respuestas;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2014)</small>
+
+IV.- Llevar un registro de las solicitudes de acceso a la información y sus respuestas, utilizando un sistema electrónico acorde a lo dispuesto por el artículo 60 de la Ley;
 
 V.- Verificar la aplicación de criterios en materia de clasificación, desclasificación o conservación de documentos para efectos de transparencia y acceso a la información;
 
 VI.- Rendir, un informe anual de actividades y los que le sean requeridos; por el Pleno.
 
-VII.- Sistematizar y actualizar la información, en forma permanente; y
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2014)</small>
+
+VII.- Sistematizar, actualizar y validar en forma permanente, la información publicada en el portal, de conformidad con los criterios y/o lineamientos que emita el Órgano Garante; y
 
 VIII.- Las demás necesarias para garantizar y agilizar el flujo de información entre el Tribunal y los solicitantes.
 
@@ -181,29 +225,35 @@ VIII.- Las demás necesarias para garantizar y agilizar el flujo de información
 
 La información generada, administrada o en posesión del Tribunal, será pública y podrá consultarse sin más limitaciones que las establecidas en la Ley y en el presente Reglamento.
 
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 16.
 
-Los titulares de los órganos auxiliares, así como de los departamentos del Tribunal, en coordinación con la Unidad de Transparencia, serán responsables de actualizar en forma permanente la información de oficio, en los términos dispuestos por la Ley y este Reglamento.
+Los titulares de los órganos auxiliares, así como de las diversas áreas del Tribunal, serán responsables de proporcionar permanentemente a la Unidad de Transparencia, debidamente actualizada, toda información de oficio que generen y esté prevista en la Ley la obligatoriedad de su publicación en el Portal.
 
 ###### Artículo 17.
 
-La Unidad de Transparencia será la encargada de publicar en el portal, la información de oficio que actualicen los órganos auxiliares y los departamentos del Tribunal.
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2014)
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 18.
 
-La Unidad de Transparencia deberá poner a disposición del público la información de oficio a que se refieren los artículos 11 y 14 de la Ley, de conformidad con lo siguiente:
+La Unidad de Transparencia deberá poner a disposición del público la información de oficio a que se refiere el artículo 11 de la Ley, así como la que le sea aplicable, de aquella que se señala en el artículo 92-BIS de la Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California, de conformidad con lo siguiente:
 
-I.- Estar visible en el Portal, indicando la fecha de su actualización; y
+I.- Estar visible en el Portal, indicando la fecha de su actualización y validación; y
 
-II.- Presentarse de manera clara, que asegure su calidad, veracidad, oportunidad y confiabilidad.
+II.- Presentarse de manera clara, que asegure su calidad, oportunidad y confiabilidad.
 
 ###### Artículo 19.
 
-Los titulares de los órganos auxiliares, así como de los departamentos del Tribunal remitirán a la Unidad de Transparencia, la información pública que de oficio deberá difundirse en el Portal, atendiendo los criterios que fije el Comité.
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2014)
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 20.
 
-La forma bajo la cual se presente la información a que se refieren los artículos 11 y 14 de la Ley, así como lo relativo a sus modificaciones, se determinará por el Comité.
+La forma bajo la cual se presente en el Portal la información a que se refiere el artículo 11 de la Ley, así como lo relativo a sus modificaciones, se determinará por el Comité, apegándose a los criterios que, en su caso, emita el Órgano Garante.
 
 ### CAPÍTULO QUINTO. DEL PROCEDIMIENTO DE ACCESO A LA INFORMACIÓN
 
@@ -235,7 +285,7 @@ Si la solicitud de acceso a la información presentada resultare confusa, sea om
 
 ###### Artículo 24.
 
-La información que se solicite a través de medios electrónicos, deberá hacerse cumpliendo los requisitos a que se refieren las fracciones I a III del artículo anterior, debiéndose dejar constancia de todo lo actuado en el expediente que al afecto se forme, (sic)
+La información que se solicite a través de medios electrónicos, deberá hacerse cumpliendo los requisitos a que se refieren las fracciones I a III del artículo anterior, debiéndose dejar constancia de todo lo actuado en el expediente que al afecto se forme,
 
 Si en la solicitud electrónica no se proporcionan los datos requeridos, se procederá en términos del último párrafo del artículo anterior.
 
@@ -342,3 +392,9 @@ MAGISTRADA
 ARMANDO BEJARANO CALDERAS
 
 MAGISTRADO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE NOVIEMBRE DE 2014.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
