@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2014-07-05"
+last_updated: "2014-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "CHH"
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2014.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE NOVIEMBRE DE 2014.</small>
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -207,7 +209,7 @@ Apoyar y cooperar, en la medida de lo posible, a los centros de prevención y or
 
 XV. Formar personas responsables y respetuosas de la ley, con actitudes favorables a la participación comunitaria, la cooperación y la convivencia civilizada; procurar el aprecio y la práctica de la conducta ética;
 
-XVI. Propiciar el respeto a la diversidad ideológica, cultural y étnica; y (sic)
+XVI. Propiciar el respeto a la diversidad ideológica, cultural y étnica; y
 
 XVII. Promover el conocimiento y la práctica del derecho a la información pública y a la protección de datos personales, así como la transparencia y la rendición de cuentas, en el marco de los planes y programas de estudio, identificando de los objetivos, contenidos y materias aquello que se vincule con estos derechos fundamentales.
 
@@ -349,7 +351,7 @@ q. Laboratorios, aulas de medios y talleres;
 
 r. Equipos de cómputo e informática, suficientes para el óptimo aprendizaje y aprovechamiento de las y los alumnos;
 
-s. Programas federales y estatales; y (sic)
+s. Programas federales y estatales; y
 
 > <small>(REFORMADO, P.O. 21 DE ABRIL DE 2012)</small>
 
@@ -505,7 +507,7 @@ XXXVI. Profesionalizar al personal de apoyo y asistencia a la educación, a trav
 
 > <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
-XXXVII. Capacitar y profesionalizar a los funcionarios estatales del sector educativo; y (sic)
+XXXVII. Capacitar y profesionalizar a los funcionarios estatales del sector educativo; y
 
 > <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -1279,7 +1281,7 @@ La educación especial brindará su atención basándose en el currículum de la
 
 ###### ARTÍCULO 55.
 
-El Gobierno del Estado, procurará por conducto de la instancia que resulte competente, promover la prestación de servicios médicos y rehabilitación (sic) gratuitos a las y los alumnos de educación especial, en los términos previstos en la Ley para Personas con Discapacidad en el Estado de Chihuahua, y los programas que para tal efecto se implementen.
+El Gobierno del Estado, procurará por conducto de la instancia que resulte competente, promover la prestación de servicios médicos y rehabilitación gratuitos a las y los alumnos de educación especial, en los términos previstos en la Ley para Personas con Discapacidad en el Estado de Chihuahua, y los programas que para tal efecto se implementen.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -1487,13 +1489,21 @@ La educación para los educandos estará destinada a personas con quince años o
 
 Esta educación es un sistema que comprende diversos aspectos de la formación integral del adulto, en su ámbito personal, familiar, laboral y social, que tiende a cubrir tanto las necesidades inmediatas de supervivencia y rezago educativo, como a las propias del ser humano en cuanto al desarrollo de sus potencialidades personales, así como a su reincorporación al sistema educativo.
 
-> <small>(REFORMADO, P.O. 15 DE MARZO DE 2014)</small>
+(REFORMADO, P.O. 15 DE MARZO DE 2014) (F. DE E., P.O. 15 DE NOVIEMBRE DE 2014)
 
 ###### ARTÍCULO 80.
 
+La autoridad Educativa Estatal, procurará establecer mecanismos y procedimientos para la acreditación global o parcial de conocimientos adquiridos en forma autodidacta y a través de la experiencia. Asimismo, precisará los criterios mediante los cuales los adultos podrán acreditar los niveles de educación primaria y secundaria y de los elementos susceptibles de certificación de la educación para y en el trabajo y la productividad, conforme a los artículos 45 y 64 de la Ley General de Educación.
+
+> <small>(F. DE E., P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
 Las personas atendidas por la Educación para Adultos podrán acreditar los conocimientos adquiridos, mediante evaluaciones parciales o globales, conforme a los procedimientos establecidos por la Autoridad Educativa Federal.
 
+> <small>(F. DE E., P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
 El Estado organizará servicios permanentes de promoción y asesoría de Educación para Adultos y dará las facilidades necesarias a sus trabajadores, trabajadoras y familiares para estudiar y acreditar la Educación Primaria, Secundaria y Media Superior.
+
+> <small>(F. DE E., P.O. 15 DE NOVIEMBRE DE 2014)</small>
 
 Quienes participen voluntariamente brindando asesoría en tareas relativas a esta educación tendrán derecho, en su caso, a que se les acredite como servicio social.
 
@@ -1599,7 +1609,7 @@ III. Fortalecer y difundir los servicios de capacitación extraescolar que ofrec
 
 IV. Ampliar la cobertura del servicio con la decidida y concertada participación del Gobierno Federal, los municipios y el sector productivo de bienes y servicios;
 
-V. Crear un ambiente propicio para llevar a cabo actividades técnico-científicas, cívicas, sociales, culturales y deportivas, que permitan preparar integralmente al capacitando y hacer extensivos sus beneficios a la comunidad; y (sic)
+V. Crear un ambiente propicio para llevar a cabo actividades técnico-científicas, cívicas, sociales, culturales y deportivas, que permitan preparar integralmente al capacitando y hacer extensivos sus beneficios a la comunidad; y
 
 VI. Fortalecer la actitud creativa que fomente el autoempleo y la creación de empresas para coadyuvar en la solución de la problemática regional;
 
@@ -1841,7 +1851,7 @@ XIX. Conceder estímulos y reconocimientos a quienes contribuyan al logro de los
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE MAYO DE 2012)</small>
 
-XX. Promover, destinar y aplicar recursos presupuestales suficientes para el mejoramiento de las condiciones físicas y materiales de los planteles educativos, poniendo especial interés en aquellas instituciones que, de acuerdo al diagnóstico realizado por las instancias competentes, requieran la intervención institucional para resolver las necesidades más apremiantes de mantenimiento, rehabilitación, refuerzo, reconstrucción, reconversión y habilitación de inmuebles e instalaciones destinados al servicio de la educación pública del Estado, y (sic)
+XX. Promover, destinar y aplicar recursos presupuestales suficientes para el mejoramiento de las condiciones físicas y materiales de los planteles educativos, poniendo especial interés en aquellas instituciones que, de acuerdo al diagnóstico realizado por las instancias competentes, requieran la intervención institucional para resolver las necesidades más apremiantes de mantenimiento, rehabilitación, refuerzo, reconstrucción, reconversión y habilitación de inmuebles e instalaciones destinados al servicio de la educación pública del Estado, y
 
 > <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2013)</small>
 
@@ -2097,7 +2107,7 @@ ARTÍCULO 130 BIS.- Las Asociaciones de Padres de Familia tendrán por objeto, a
 
 Son obligaciones de quienes ejercen la patria potestad o la tutela:
 
-l. Garantizar que sus hijas, hijos o pupilos menores de edad reciban la educación preescolar, primaria y secundaria, procurando que accedan a la educación media superior y superior;
+I. Garantizar que sus hijas, hijos o pupilos menores de edad reciban la educación preescolar, primaria y secundaria, procurando que accedan a la educación media superior y superior;
 
 II. Apoyar de manera permanente el proceso educativo de sus hijas, hijos o pupilos;
 
@@ -2107,7 +2117,7 @@ III. Colaborar con las autoridades escolares y las organizaciones de padres de f
 
 IV. Asistir a las reuniones deliberativas convocadas en la escuela;
 
-V. Vigilar que sus hijas, hijos o pupilos cumplan con las tareas y actividades extraescolares y extracurriculares definidas por el personal docente de la escuela; y (sic)
+V. Vigilar que sus hijas, hijos o pupilos cumplan con las tareas y actividades extraescolares y extracurriculares definidas por el personal docente de la escuela; y
 
 VI. Proporcionar a sus hijas, hijos o pupilos los útiles y materiales escolares necesarios para el mejor desempeño de sus actividades;
 
@@ -2147,7 +2157,7 @@ II. Colaborar para una mejor integración de la comunidad escolar, así como el 
 
 III. Proponer las medidas que se estimen adecuadas para alcanzar los propósitos de la educación;
 
-IV. Informar a la autoridad educativa inmediata, sobre cualquier irregularidad de que sean objeto las y los educandos; y (sic)
+IV. Informar a la autoridad educativa inmediata, sobre cualquier irregularidad de que sean objeto las y los educandos; y
 
 V. Abstenerse de intervenir en los aspectos pedagógicos y laborales de los establecimientos educativos.
 
@@ -2185,7 +2195,7 @@ III. Opinar en asuntos pedagógicos y conocer las demandas y necesidades que ema
 
 > <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
-IV. Conocer de los resultados de las evaluaciones que efectúen las autoridades educativas y colaborar con ellas en la implementación de acciones que coadyuven al mejoramiento de la calidad y cobertura de la educación; y (sic)
+IV. Conocer de los resultados de las evaluaciones que efectúen las autoridades educativas y colaborar con ellas en la implementación de acciones que coadyuven al mejoramiento de la calidad y cobertura de la educación; y
 
 > <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2012)</small>
 
@@ -2375,7 +2385,7 @@ II. Instrumentos de planeación;
 
 III. Instrumentos de evaluación permanente;
 
-IV. Proyectos estratégicos; y (sic)
+IV. Proyectos estratégicos; y
 
 > <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
 
@@ -3871,7 +3881,9 @@ Así mismo, quedan vigentes las disposiciones comprendidas en la normatividad qu
 
 En la Entidad Federativa se reconoce al Sindicato Nacional de Trabajadores de la Educación (SNTE), como el titular de las relaciones laborales colectivas de los trabajadores de la educación, en los términos de su registro vigente y de acuerdo con las disposiciones legales en la materia.
 
-El Gobierno del Estado de Chihuahua se obliga a respetar íntegramente los derechos adquiridos de los trabajadores de la educación, así como a reconocer los acuerdos que estipule beneficios y/o prestaciones laborales, profesionales, salariales y sociales alcanzados a través de convenios, minutas y cualquier otro instrumento legal señalado por este y el Sindicato Nacional de Trabajadores de la Educación, en lo que no contravenga a las disposiciones legales vigentes.
+> <small>(F. DE E., P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+El Gobierno del Estado de Chihuahua se obliga a respetar íntegramente los derechos adquiridos de los trabajadores de la educación, así como a reconocer los acuerdos que estipule (sic) beneficios y/o prestaciones laborales, profesionales, salariales y sociales alcanzados a través de convenios, minutas y cualquier otro instrumento legal celebrado por este y el Sindicato Nacional de Trabajadores de la Educación, en lo que no contravenga a las disposiciones legales vigentes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2014)</small>
 
