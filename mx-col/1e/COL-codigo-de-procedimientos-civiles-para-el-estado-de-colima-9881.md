@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-civiles-para-el-estado-de-colima-9881"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2014-08-23"
+last_updated: "2014-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2014.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado Colima, el sábado 25 de septiembre de 1954.
 
@@ -449,11 +449,9 @@ b) En las actuaciones de jurisdicción voluntaria;
 
 c) En los juicios de alimentos y en los relativos a derechos de menores e incapaces;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
-
-d) En los juicios seguidos ante la justicia de paz; y
+d) En los juicios seguidos ante la justicia de Menor Cuantía; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
@@ -995,9 +993,9 @@ En este caso el juicio deberá seguir con los trámites y solemnidades a que se 
 
 III.- En todos los demás casos previstos por la ley.
 
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
 
-En los casos anteriores, los edictos se publicarán por dos veces consecutivas, en un Periódico de los de mayor circulación del Estado, haciéndose saber que debe de presentarse el citado dentro de un término que no será menor de quince días ni mayor de treinta.
+En los casos anteriores, los edictos se publicarán por dos meses consecutivos, de manera electrónica en el sitio virtual de internet destinado para ello, así como en las cabeceras de los partidos judiciales del Estado, haciéndose saber que debe de presentarse el citado dentro de un término que no será menor de quince días ni mayor de treinta.
 
 > <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1042,6 +1040,26 @@ ART. 127.- En las salas del tribunal y en los juzgados, los Secretarios de Acuer
 ART. 128.- Todos los términos judiciales empezarán a correr desde el día siguiente al en que haya surtido efectos el emplazamiento, notificación, citación o la última publicación de edictos y se contará en ellos el día de su vencimiento.
 
 ART. 129.- (DEROGADO, P.O. 8 DE SEPTIEMBRE DE 2012)
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+### CAPITULO V BIS. De los Edictos Electrónicos
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+ART. 129 BIS 1.- Los edictos que deban publicarse de manera electrónica deberán ser elaborados por la autoridad judicial que los autorizó quien, previa la comprobación del pago de los derechos correspondientes, será la responsable de comunicar su contenido y términos de su publicación a la Dirección de Informática para que ésta última proceda a realizar su difusión, a más tardar al día hábil siguiente, en la página de internet prevista para ello.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+ART. 129 BIS 2.- La página de edictos electrónicos deberá contener y ofrecer a los usuarios criterios de búsqueda sencillos y accesibles, que faciliten su localización y consulta. Para ello, la Dirección de Informática deberá establecer, por lo menos, los campos de búsqueda siguientes: por tipo de edicto, por número de expediente, por juzgado, por rango de fecha, por nombre de las partes o de los interesados, por municipio en (sic) tratándose de bienes e, histórico.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+ART. 129 BIS 3.- Efectuada la publicación de los edictos a que hace referencia el artículo 129 Bis 1, la Dirección de Informática deberá expedir la constancia de publicación respectiva y remitirla de inmediato al órgano jurisdiccional requirente para que éste, en su caso, se encuentre en aptitud de computar los términos judiciales que correspondan.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+ART. 129 BIS 4.- El contenido de los edictos que se publiquen de manera electrónica deberá permanecer visible en el sitio virtual de internet destinado para ello, así como en los dispositivos tecnológicos previstos para ellos, que estarán localizados en el palacio de justicia donde se encontraren los partidos judiciales del Estado por el tiempo total por el que fue ordenada la publicación, no obstante que, entre cada una medien días inhábiles. Por lo que es obligación de la autoridad respectiva precisar, en cada caso, la duración de la publicación de los edictos.
 
 ART. 130.- En ningún término se contarán los días en que no puedan tener lugar actuaciones judiciales.
 
@@ -1093,7 +1111,11 @@ ART. 140.- Las costas serán reguladas por la parte a cuyo favor se hubieren dec
 
 De esta decisión, si fuere apelable, se admitirá el recurso en el efecto devolutivo.
 
-ART. 141.- En los negocios ante los jueces de Paz no se causarán costas cualquiera que sea la naturaleza del juicio.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+ART. 141.- En los negocios ante los Jueces de Menor Cuantía no se causarán costas cualquiera que sea la naturaleza del juicio.
+
+## TITULO TERCERO. De la competencia
 
 ### CAPITULO I. Disposiciones generales
 
@@ -1111,7 +1133,9 @@ ART. 146.- El tribunal que reconozca la jurisdicción de otro por providencia ex
 
 Si el acto del reconocimiento consiste sólo en la cumplimentación de un exhorto, el tribunal exhortado no estará impedido para sostener su competencia.
 
-ART. 147.- Las partes pueden desistirse de seguir sosteniendo la competencia de un tribunal, antes o después de la remisión de los autos al superior, si se trata de jurisdicción territorial.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+ART. 147.- Las partes pueden desistirse de seguir sosteniendo la competencia de un tribunal, antes o después de la remisión de los autos a la Sala competente, solo si se trata de jurisdicción territorial.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
@@ -1171,11 +1195,13 @@ ART. 154.- La nulidad a que se refiere el artículo anterior es de pleno derecho
 
 Los tribunales declarados competentes harán que las cosas se restituyan al estado que tenían antes de practicarse las actuaciones nulas; salvo que la ley disponga lo contrario.
 
-## TITULO TERCERO. De la competencia
-
 ### CAPITULO II. Reglas para la fijación de la competencia
 
-ART. 155.- Es juez competente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 155.
+
+Es Juez competente en Primera Instancia:
 
 > <small>(REFORMADA, P.O. 19 DE JULIO DE 2008)</small>
 
@@ -1237,7 +1263,9 @@ ART. 156.- Para determinar la competencia por razón de la cuantía del negocio,
 
 Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las pensiones en un año, a no ser que se trate de prestaciones vencidas, en cuyo caso éstas se tomarán como base para fijar la cuantía.
 
-Si fueren varios los actores o se exigiera pluralidad de prestaciones de carácter principal, el monto se determinará por la totalidad de lo reclamado.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+Si fueren varios los actores o se exigiera pluralidad de prestaciones de carácter principal, el monto se determinará por la totalidad de lo reclamado considerando la cuantía establecida en la Ley Orgánica del Poder Judicial del Estado, respecto a la competencia de los juzgados de Menor Cuantía.
 
 ART. 157.- En las contiendas sobre propiedad o posesión de un inmueble, la competencia se determinará por el valor que tenga. Si se trata de usufructo o derechos reales sobre inmuebles, por el valor de la cosa misma. Pero de los interdictos conocerán siempre los jueces de primera instancia de la ubicación de la cosa.
 
@@ -1271,7 +1299,9 @@ La inhibitoria se intentará ante el juez a quien se considere competente, dentr
 
 La declinatoria se propondrá ante el Juez que se considere incompetente, precisamente en el escrito de contestación a la demanda, pidiéndole que se abstenga del conocimiento del negocio y remita los autos al considerado competente.
 
-Aunque el trámite de la inhibitoria o la declinatoria no suspende el procedimiento, el Juez no podrá dictar sentencia definitiva hasta en tanto se determine por resolución firme el juzgado al cual le corresponde conocer del asunto.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+Aunque el trámite de la inhibitoria o la declinatoria no suspende el procedimiento, el Juez no podrá dictar sentencia definitiva hasta en tanto se determine por resolución firme pronunciada por la Sala del Supremo Tribunal de Justicia, el juzgado al cual le corresponde conocer del asunto.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
@@ -1283,17 +1313,25 @@ Si por los documentos firmados en forma autógrafa o con la firma electrónica q
 
 También se desechará de plano cualquier competencia promovida que no tenga por objeto determinar el Juez o Tribunal que deba conocer de un asunto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+ART. 164.- El tribunal requerido, dentro de los cinco días siguientes al en que reciba el oficio inhibitorio, decidirá si acepta o no la inhibitoria. Si las partes estuvieren conformes al ser notificadas del proveído que acepte la inhibición, remitirá los autos al tribunal requirente. En cualquier otro caso, remitirá testimonio de los autos a la Sala del Supremo Tribunal de Justicia, comunicándolo así al requirente, para que proceda de la misma manera.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+Una vez recibidos los autos por la Sala competente, se pondrán a la vista de ambas partes, por el término de tres días para que ofrezcan pruebas o aleguen lo que a su interés convenga.
+
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
-
-ART. 164.- El Tribunal requerido, dentro de los cinco días siguientes al en que reciba el oficio inhibitorio, decidirá si acepta o no la inhibitoria. Si las partes estuvieren conformes al ser notificadas del proveído que acepte la inhibición, remitirá los autos al Tribunal requirente. En cualquier otro caso, remitirá testimonio de los autos al Pleno del Supremo Tribunal de Justicia, comunicándolo así al requirente, para que proceda de la misma manera.
-
-Una vez recibidos los autos por el Pleno del Supremo Tribunal de Justicia, se pondrán a la vista de ambas partes, por el término de tres días para que ofrezcan pruebas o aleguen lo que a su interés convenga.
 
 En el caso de que se ofrezcan pruebas y éstas sean admitidas, se mandarán preparar y se fijará fecha para que, dentro de los diez días siguientes, tenga lugar una audiencia, en la cual se desahogarán pruebas y se formularán alegatos. La resolución deberá pronunciarse y notificarse dentro del término de ocho días.
 
-Si las partes sólo alegan y no ofrecen pruebas, o las propuestas no se admiten, el Pleno del Tribunal citará para oír resolución, la que se pronunciará dentro del término de ocho días a partir de dicha citación.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
 
-Los autos se remitirán al Juez declarado competente, con testimonio de la sentencia, del cual se remitirá otro tanto al Juez contendiente. Contra la resolución dictada por el Pleno del Supremo Tribunal de Justicia es procedente el recurso de responsabilidad.
+Si las partes sólo alegan y no ofrecen pruebas, o las propuestas no se admiten, la Sala del Tribunal citará para oír resolución, la que se pronunciará dentro del término de ocho días a partir de dicha citación.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+Los autos se remitirán al Juez declarado competente, con testimonio de la sentencia, del cual se remitirá otro tanto al Juez contendiente. Contra la resolución dictada por la Sala del Supremo Tribunal de Justicia no procede recurso alguno.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
@@ -1301,53 +1339,59 @@ Los autos se remitirán al Juez declarado competente, con testimonio de la sente
 
 ART. 165.- La declinatoria de competencia se propondrá ante el juez, pidiéndole se abstenga de conocer del negocio dentro del término concedido para contestar la demanda en el procedimiento de que se trate.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
 
-El juzgador ordenará correr traslado a la parte actora con copia del escrito en el que la parte demandada interponga la excepción de incompetencia por declinatoria, para que en un plazo de tres días manifieste lo que a su derecho convenga. Dentro de los cinco días siguientes al vencimiento del plazo anterior, el juzgador dictará resolución sobre la excepción de incompetencia. Si el juzgador sostiene ésta, continuará conociendo del proceso; en el caso contrario, remitirá el expediente al Juez que considere competente, el cual dentro de los cinco días siguientes resolverá si estima o no que lo es. Si este último se declara incompetente, remitirá testimonio del expediente al Pleno del Supremo Tribunal de Justicia, para que determine cuál es el juzgador competente para continuar conociendo del proceso.
+El juzgador ordenará correr traslado a la parte actora con copia del escrito en el que la parte demandada interponga la excepción de incompetencia por declinatoria, para que en un plazo de tres días manifieste lo que a su derecho convenga. Dentro de los cinco días siguientes al vencimiento del plazo anterior, el juzgador dictará resolución sobre la excepción de incompetencia. Si el juzgador sostiene ésta, continuará conociendo del proceso; en el caso contrario, remitirá el expediente al Juez que considere competente, el cual dentro de los cinco días siguientes resolverá si estima o no que lo es. Si este último se declara incompetente, remitirá testimonio del expediente a la Sala que corresponda, para que determine cuál es el juzgador competente para continuar conociendo del proceso.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
 
-Recibido por el Pleno del Tribunal el testimonio de las constancias procesales, lo pondrá a la vista de las partes para que éstas dentro del término de tres días ofrezcan pruebas o aleguen lo que a su interés convenga.
+Recibido por la Sala del Tribunal el testimonio de las constancias procesales, lo pondrá a la vista de las partes para que éstas dentro del término de tres días ofrezcan pruebas o aleguen lo que a su interés convenga.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
 En el caso de que se ofrezcan pruebas y éstas sean admitidas, se mandarán preparar y se fijará fecha para que, dentro de los diez días siguientes, tenga lugar una audiencia, en la cual se desahogarán pruebas y se formularán alegatos. La resolución deberá pronunciarse y notificarse dentro del término de ocho días.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+Si las partes sólo alegan y no ofrecen pruebas, o las propuestas no se admiten, la Sala del Tribunal citará para oír resolución, la que se pronunciará dentro del término de ocho días.
 
-Si las partes sólo alegan y no ofrecen pruebas, o las propuestas no se admiten, el Pleno del Tribunal citará para oír resolución, la que se pronunciará dentro del término de ocho días.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+Decidida la competencia, la Sala competente lo comunicará al Juez ante quien se promovió la declinatoria, y en su caso, al que se declare competente.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+Si la declinatoria se declara improcedente, la Sala del Supremo Tribunal lo comunicará al Juez.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+ART. 166.- Cuando dos o más Jueces se nieguen a conocer de determinado asunto, la parte a quien perjudique ocurrirá, dentro del término de seis días, ante la Sala competente del Supremo Tribunal de Justicia, a fin de que ordene a los que se niegan a conocer que en el término de tres días, le envíen los expedientes originales en que se contengan sus respectivas resoluciones.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+Una vez recibidos los autos por la Sala, los pondrá a la vista del peticionario, o en su caso de ambas partes, por el término de tres días para que ofrezcan pruebas o aleguen lo que a su interés convenga.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
-
-Decidida la competencia, el Pleno del Tribunal lo comunicará al Juez ante quien se promovió la declinatoria, y en su caso, al que se declare competente.
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
-
-Si la declinatoria se declara improcedente, el Pleno del Tribunal lo comunicará al Juez.
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
-
-ART. 166.- Cuando dos o más jueces se nieguen a conocer de determinado asunto, la parte a quien perjudique ocurrirá, dentro del término de seis días, ante el Pleno del Supremo Tribunal de Justicia, a fin de que ordene a los que se niegan a conocer que en el término de tres días, le envíen los expedientes originales en que se contengan sus respectivas resoluciones.
-
-Una vez recibidos los autos por el Tribunal, los pondrá a la vista del peticionario, o en su caso de ambas partes, por el término de tres días para que ofrezcan pruebas o aleguen lo que a su interés convenga.
 
 En el caso de que se ofrezcan pruebas y éstas se admitan se mandarán preparar y se fijará fecha para que, dentro de los diez días siguientes, tenga lugar una audiencia, en la cual se desahogarán pruebas y se formularán alegatos. La resolución deberá pronunciarse y notificarse dentro del término de ocho días.
 
-Si las partes sólo alegan y no ofrecen pruebas, o las propuestas no se admiten, el Pleno del Tribunal citará para oír resolución, la que se pronunciará dentro del término de ocho días a partir de dicha citación.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+Si las partes sólo alegan y no ofrecen pruebas, o las propuestas no se admiten, la Sala competente del Tribunal citará para oír resolución, la que se pronunciará dentro del término de ocho días a partir de dicha citación.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
 ART. 167.- El litigante que hubiere optado por uno de los dos medios de promover una incompetencia, no podrá abandonarlo y recurrir al otro, ni tampoco emplearlos sucesivamente.
 
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
 
-En el caso de que se declare infundada o improcedente una incompetencia, se aplicará al que la opuso, una multa de cinco a cuarenta días de salario mínimo general vigente en el Estado al momento de su imposición, a favor del Fondo Auxiliar en Beneficio de la Administración de Justicia, siempre que a juicio del juez, el incidente respectivo fuere promovido para alargar o dilatar el procedimiento.
+En el caso de que se declare infundada o improcedente una incompetencia, se aplicará al que la opuso, una multa de hasta cuarenta días de salario mínimo general vigente en el Estado al momento de su imposición, a favor del Fondo Auxiliar en Beneficio de la Administración de Justicia, siempre que a juicio del Juez, el incidente respectivo fuere promovido para alargar o dilatar el procedimiento.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
 
-ART. 168.- Las resoluciones en las que los juzgadores sostengan o admitan su competencia serán impugnables a través del Recurso de Apelación, el cual se admitirá en el efecto devolutivo, de tramitación inmediata.
+ART. 168.- Las competencias suscitadas entre un Juez de Primera Instancia y otro de Menor Cuantía, o entre estos últimos, se dirimirán por la Sala competente del Supremo Tribunal de Justicia.
+
+## TITULO CUARTO. De los impedimentos, recusaciones y excusas
 
 ### CAPITULO I. De los impedimentos y excusas
 
@@ -1390,8 +1434,6 @@ ART. 170.- Los magistrados, jueces y secretarios tienen el deber de excusarse de
 Sin perjuicio de las providencias que conforme a este Código deben dictar, tienen la obligación de inhibirse inmediatamente que se avoquen al conocimiento de un negocio de que no deben conocer por impedimento, o dentro de las veinticuatro horas siguientes de que ocurra el hecho que origina el impedimento o de que tengan conocimiento de él.
 
 Cuando un juez o magistrado se excuse sin causa legítima, cualquiera de las partes puede acudir en queja al presidente del tribunal, quien encontrando injustificada la abstención podrá imponer una corrección disciplinaria.
-
-## TITULO CUARTO. De los impedimentos, recusaciones y excusas
 
 ### CAPITULO II. De la recusación
 
@@ -1447,6 +1489,54 @@ ART. 182.- Si se declarare improcedente o no probada la causa de recusación que
 
 ### CAPITULO VI
 
+## TITULO CUARTO (SIC). De la substanciación y decisión de la recusación con causa
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 183.- Los tribunales desecharán de plano la recusación:
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2011)</small>
+
+I.- Cuando no estuviera hecha en tiempo; o
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2011)</small>
+
+II.- Cuando no se funde en alguna de las causas a que se refiere el artículo 169.
+
+ART. 184.- Toda recusación se interpondrá ante el juez o tribunal que conozca del negocio, expresándose con toda claridad y precisión la causa en que se funde.
+
+ART. 185.- La recusación debe decidirse sin audiencia de la parte contraria y se tramita en forma de incidente.
+
+ART. 186.- En el incidente de recusación son admisibles todos los medios de prueba establecidos por este Código y, además, la confesión del funcionario recusado y la de la parte contraria.
+
+ART. 187.- Los magistrados y jueces que conozcan de una recusación son irrecusables para sólo este efecto.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+ART. 188.- Para dar curso a una recusación con causa, el litigante deberá exhibir mediante la cédula de depósito respectiva, el monto máximo de la posible indemnización a favor del colitigante.
+
+Si se declara improcedente o no probada la causa de recusación, atendiendo a las circunstancias del caso, se impondrá al recusante la obligación de indemnizar al colitigante, bajo los siguientes parámetros:
+
+> <small>(REFORMADA P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+I.- De uno a veinte días de salario mínimo general vigente en el Estado al momento de su imposición, si el recusado fuere un Juez de Menor Cuantía o Secretario de Acuerdos;
+
+II.- De cinco a cuarenta días de salario mínimo general vigente en el Estado al momento de su imposición, si el recusado fuere un juez de primera instancia; y
+
+III.- De diez a sesenta días de salario mínimo general vigente en el Estado al momento de su imposición, si el recusado fuere magistrado.
+
+ART. 189.- De la recusación de un magistrado conocerá el de la sala que le sigue en número; de la de un juez, la sala que corresponda.
+
+ART. 190.- Si en la sentencia se declara que procede la recusación, volverán los autos al juzgado de su origen con testimonio de dicha sentencia, para que éste, a su vez, los remita al juez que corresponda. En el tribunal el magistrado recusado queda separado del conocimiento del negocio, el que se turnará a la sala que siga en número.
+
+Si se declara no ser bastante la causa, se devolverán los autos con testimonio de la resolución al juzgado de su origen para que continúe el procedimiento. Si el funcionario recusado fuere un magistrado, continuará conociendo del negocio la misma sala, como antes de la recusación.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+ART. 191.- Las recusaciones de los Secretarios del Supremo Tribunal, de los Juzgados de Primera Instancia y los Jueces de Menor Cuantía, se sustanciarán ante los Jueces o Salas con quienes actúen.
+
+## TITULO QUINTO. Actos prejudiciales
+
 ### CAPITULO I. Medios preparatorios del juicio en general
 
 ART. 192.- El juicio podrá prepararse:
@@ -1492,50 +1582,6 @@ ART. 198.- Promovido el juicio, el tribunal, a solicitud del que hubiere pedido 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ART. 199.- Si el tenedor del documento firmado en forma autógrafa o con la firma electrónica o cosa mueble fuere el mismo a quien se va a demandar, y sin causa alguna se negare a exhibirlos, se le apremiará por los medios legales, y si aún así resistiere la exhibición o destruyere, deteriorare u ocultare aquéllos, o con dolo o malicia dejare de poseerlos, satisfará todos los daños y perjuicios que se hayan seguido, quedando, además, sujeto a la responsabilidad criminal en que hubiere incurrido. Si alegare alguna causa para no hacer la exhibición, se le oirá sumariamente.
-
-## TITULO CUARTO (SIC). De la substanciación y decisión de la recusación con causa
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 183.- Los tribunales desecharán de plano la recusación:
-
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2011)</small>
-
-I.- Cuando no estuviera hecha en tiempo; o
-
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2011)</small>
-
-II.- Cuando no se funde en alguna de las causas a que se refiere el artículo 169.
-
-ART. 184.- Toda recusación se interpondrá ante el juez o tribunal que conozca del negocio, expresándose con toda claridad y precisión la causa en que se funde.
-
-ART. 185.- La recusación debe decidirse sin audiencia de la parte contraria y se tramita en forma de incidente.
-
-ART. 186.- En el incidente de recusación son admisibles todos los medios de prueba establecidos por este Código y, además, la confesión del funcionario recusado y la de la parte contraria.
-
-ART. 187.- Los magistrados y jueces que conozcan de una recusación son irrecusables para sólo este efecto.
-
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
-
-ART. 188.- Para dar curso a una recusación con causa, el litigante deberá exhibir mediante la cédula de depósito respectiva, el monto máximo de la posible indemnización a favor del colitigante.
-
-Si se declara improcedente o no probada la causa de recusación, atendiendo a las circunstancias del caso, se impondrá al recusante la obligación de indemnizar al colitigante, bajo los siguientes parámetros:
-
-I.- De uno a veinte días de salario mínimo general vigente en el Estado al momento de su imposición, si el recusado fuere un juez de paz ó secretario de acuerdos;
-
-II.- De cinco a cuarenta días de salario mínimo general vigente en el Estado al momento de su imposición, si el recusado fuere un juez de primera instancia; y
-
-III.- De diez a sesenta días de salario mínimo general vigente en el Estado al momento de su imposición, si el recusado fuere magistrado.
-
-ART. 189.- De la recusación de un magistrado conocerá el de la sala que le sigue en número; de la de un juez, la sala que corresponda.
-
-ART. 190.- Si en la sentencia se declara que procede la recusación, volverán los autos al juzgado de su origen con testimonio de dicha sentencia, para que éste, a su vez, los remita al juez que corresponda. En el tribunal el magistrado recusado queda separado del conocimiento del negocio, el que se turnará a la sala que siga en número.
-
-Si se declara no ser bastante la causa, se devolverán los autos con testimonio de la resolución al juzgado de su origen para que continúe el procedimiento. Si el funcionario recusado fuere un magistrado, continuará conociendo del negocio la misma sala, como antes de la recusación.
-
-ART. 191.- Las recusaciones de los secretarios del Supremo Tribunal, de los juzgados de primera instancia y los jueces menores o de paz, se substanciarán ante los jueces o salas con quienes actúen.
-
-## TITULO QUINTO. Actos prejudiciales
 
 ### CAPITULO II. Medios preparatorios del juicio ejecutivo
 
@@ -1751,6 +1797,8 @@ ART. 252.- Igualmente puede reclamar la providencia precautoria un tercero, cuan
 
 ART. 253.- Cuando la providencia precautoria se dicte por un juez que no sea el que deba conocer del negocio principal, una vez ejecutada y resuelta la reclamación, si se hubiere formulado, se remitirán al juez competente las actuaciones, que en todo caso se unirán al expediente, para que en él obren los efectos que correspondan conforme a derecho.
 
+## TITULO SEXTO. Del juicio ordinario
+
 ### CAPITULO I. De la demanda, contestación y fijación de la cuestión
 
 ART. 254.- Toda contienda judicial principiará por demanda en la cual se expresarán:
@@ -1878,8 +1926,6 @@ ART. 276.- Transcurrido el término para contestar la demanda o la reconvención
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
 El auto que niegue o mande abrir el juicio a prueba será revocable.
-
-## TITULO SEXTO. Del juicio ordinario
 
 ### CAPITULO II. De la prueba
 
@@ -2080,8 +2126,6 @@ ART. 298.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE AGOSTO DE 1985)</small>
 
 ### CAPITULO V
-
-### CAPITULO VI
 
 ## TITULO SEXTO (SIC)
 
@@ -2843,6 +2887,58 @@ ART. 382.- Contra las demás presunciones legales y contra las humanas es admisi
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE AGOSTO DE 1985)</small>
 
+### CAPITULO VI
+
+## TITULO SEXTO (SIC). Recepción de pruebas
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 383.- El Juez, al calificar la admisión de las pruebas, señalará la fecha para la recepción de las mismas, ordenando citar previamente a las partes, peritos y testigos ofrecidos, cuando así se amerite, para que comparezcan el día y horas (sic) señalados, con los apercibimientos y prevenciones legales que corresponda.
+
+ART. 384.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
+
+ART. 385.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
+
+ART. 386.- Constituido el tribunal en audiencia pública el día y hora señalados al efecto, serán llamados por el secretario los litigantes, peritos, testigos y demás personas que por disposición de la ley deban de intervenir en el juicio, y se determinará quiénes deben de permanecer en el salón, quiénes en lugar separado para ser introducidos en su oportunidad y quiénes deben ser inmediatamente citados o traídos para que concurran a la diligencia si no se hallaren presentes.
+
+La audiencia se celebrará concurran o no las partes y estén o no presentes los testigos y peritos y los abogados.
+
+ART. 387.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
+
+ART. 388.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
+
+ART. 389.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
+
+ART. 390.- Los peritos dictaminarán por escrito u oralmente en presencia del tercero en discordia, si lo hubiere. Las partes y el juez le pueden formular observaciones y hacer preguntas pertinentes.
+
+La prueba pericial se rendirá en la audiencia, reproduciendo los peritos sus dictámenes oralmente en presencia del tercero, y éste dirá su parecer.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 391.- Los testigos indicados en el auto de admisión de pruebas serán examinados en la audiencia, en presencia de las partes. El juez puede de oficio interrogar ampliamente a los testigos sobre los hechos objeto de esta prueba, para mejor esclarecimiento de la verdad. Las partes también pueden interrogar a los testigos, limitándose a los hechos o puntos controvertidos. El juez debe impedir preguntas capciosas, ociosas o impertinentes. Las partes podrán objetar la pregunta que se haga en el momento de la audiencia y en ese mismo momento el juez resolverá esa objeción, tomando como base lo dispuesto en este mismo Artículo y por el 359. En el acta que se levante deberán asentarse literal y textualmente las preguntas y las respuestas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+ART. 392.- Concluida la recepción de las pruebas, se abrirá el periodo de alegatos por tres días a cada parte. Transcurrido el término anterior, se citará a las partes para sentencia definitiva, la cual se pronunciará dentro de los quince días siguientes.
+
+ART. 393.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
+
+ART. 394.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
+
+ART. 395.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
+
+ART. 396.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
+
+ART. 397.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
+
+ART. 398.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
+
+ART. 399.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
+
+ART. 400.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
+
 ### CAPITULO VII. Del valor de las pruebas
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
@@ -2983,56 +3079,6 @@ En casos dudosos, el juzgador podrá deducir argumentos de prueba de las respues
 
 En todo caso, el juzgador deberá exponer en la parte considerativa de su sentencia, los fundamentos y motivos de la valoración jurídica y de su decisión.
 
-## TITULO SEXTO (SIC). Recepción de pruebas
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 383.- El Juez, al calificar la admisión de las pruebas, señalará la fecha para la recepción de las mismas, ordenando citar previamente a las partes, peritos y testigos ofrecidos, cuando así se amerite, para que comparezcan el día y horas (sic) señalados, con los apercibimientos y prevenciones legales que corresponda.
-
-ART. 384.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
-
-ART. 385.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
-
-ART. 386.- Constituido el tribunal en audiencia pública el día y hora señalados al efecto, serán llamados por el secretario los litigantes, peritos, testigos y demás personas que por disposición de la ley deban de intervenir en el juicio, y se determinará quiénes deben de permanecer en el salón, quiénes en lugar separado para ser introducidos en su oportunidad y quiénes deben ser inmediatamente citados o traídos para que concurran a la diligencia si no se hallaren presentes.
-
-La audiencia se celebrará concurran o no las partes y estén o no presentes los testigos y peritos y los abogados.
-
-ART. 387.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
-
-ART. 388.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
-
-ART. 389.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
-
-ART. 390.- Los peritos dictaminarán por escrito u oralmente en presencia del tercero en discordia, si lo hubiere. Las partes y el juez le pueden formular observaciones y hacer preguntas pertinentes.
-
-La prueba pericial se rendirá en la audiencia, reproduciendo los peritos sus dictámenes oralmente en presencia del tercero, y éste dirá su parecer.
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 391.- Los testigos indicados en el auto de admisión de pruebas serán examinados en la audiencia, en presencia de las partes. El juez puede de oficio interrogar ampliamente a los testigos sobre los hechos objeto de esta prueba, para mejor esclarecimiento de la verdad. Las partes también pueden interrogar a los testigos, limitándose a los hechos o puntos controvertidos. El juez debe impedir preguntas capciosas, ociosas o impertinentes. Las partes podrán objetar la pregunta que se haga en el momento de la audiencia y en ese mismo momento el juez resolverá esa objeción, tomando como base lo dispuesto en este mismo Artículo y por el 359. En el acta que se levante deberán asentarse literal y textualmente las preguntas y las respuestas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
-
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
-
-ART. 392.- Concluida la recepción de las pruebas, se abrirá el periodo de alegatos por tres días a cada parte. Transcurrido el término anterior, se citará a las partes para sentencia definitiva, la cual se pronunciará dentro de los quince días siguientes.
-
-ART. 393.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
-
-ART. 394.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
-
-ART. 395.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
-
-ART. 396.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
-
-ART. 397.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
-
-ART. 398.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
-
-ART. 399.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
-
-ART. 400.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
-
 ### CAPITULO VIII. De los alegatos en el procedimiento escrito
 
 ART. 424.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
@@ -3072,6 +3118,10 @@ ART. 428.- El auto en que se declara que una sentencia ha causado o no ejecutori
 > <small>N. DE E. EN RELACIÓN CON LA VIGENCIA DEL PRESENTE TÍTULO, VÉASE TERCERO TRANSITORIO DEL DECRETO NÚMERO 368, PUBLICADO EN EL P.O. DE 23 DE AGOSTO DE 2014 REFERENTE A LA ENTRADA EN VIGOR DE LAS DISPOSICIONES RELATIVAS AL PROCEDIMIENTO ORAL FAMILIAR EN EL PRIMER PARTIDO JUDICIAL, ÚNICAMENTE POR LO QUE VE A ASUNTOS NO CONTROVERTIDOS; Y AL PONER EN PRÁCTICA TALES DISPOSICIONES, DEBERÁ EMITIR PREVIAMENTE UNA DECLARATORIA QUE SE PUBLICARÁ EN EL PERIÓDICO OFICIAL DEL ESTADO, EN UNO DE LOS DE MAYOR CIRCULACIÓN EN LA ENTIDAD Y EN LOS DEMÁS ÓRGANOS DE DIFUSIÓN QUE SE CONSIDEREN NECESARIOS, EN LA QUE SE SEÑALE EXPRESAMENTE LA FECHA CORRESPONDIENTE.</small>
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE AGOSTO DE 2014)</small>
+
+## TITULO SEXTO BIS. Del procedimiento oral familiar
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE AGOSTO DE 2014)</small>
 
 ### CAPITULO I. Del procedimiento oral
 
@@ -3157,25 +3207,9 @@ Finalmente, de inmediato se señalará la fecha y hora para la celebración de l
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE AGOSTO DE 2014)</small>
 
-## TITULO SEXTO BIS. Del procedimiento oral familiar
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE AGOSTO DE 2014)</small>
-
 ### CAPITULO II. De las audiencias
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 23 DE AGOSTO DE 2014)</small>
-
-### CAPITULO III. De los incidentes
-
-> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
-
-ART. 428 BIS 55.- Los incidentes que no tengan tramitación especial podrán promoverse oralmente hasta antes que se declare visto para sentencia el asunto y de no hacerlo, se tendrá por precluido su derecho.
-
-Tratándose de una cuestión que requiera prueba y de ser procedente su admisión, el juez ordenará su desahogo en la misma audiencia, de considerar que se encuentran preparadas, en la cual escuchará los alegatos de las partes, en el orden que determine. Enseguida se dictará la resolución incidental.
-
-Cuando las partes no ofrezcan pruebas o las que propongan no se admitan, el juez, sin mayores trámites, dictará la resolución correspondiente.
-
-Si en la audiencia de juicio no pudieren desahogarse las pruebas vinculadas con el incidente o no pudiera concluirse una cuestión incidental, el juez continuará con el desarrollo de la audiencia desahogando las pruebas y resolviendo la incidencia en una audiencia especial, previamente al dictado de la sentencia definitiva.
 
 #### SECCION PRIMERA. Disposiciones generales
 
@@ -3485,6 +3519,20 @@ ART. 428 BIS 54.- La ejecución de la sentencia o convenios se tramitará confor
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE AGOSTO DE 2014)</small>
 
+### CAPITULO III. De los incidentes
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 55.- Los incidentes que no tengan tramitación especial podrán promoverse oralmente hasta antes que se declare visto para sentencia el asunto y de no hacerlo, se tendrá por precluido su derecho.
+
+Tratándose de una cuestión que requiera prueba y de ser procedente su admisión, el juez ordenará su desahogo en la misma audiencia, de considerar que se encuentran preparadas, en la cual escuchará los alegatos de las partes, en el orden que determine. Enseguida se dictará la resolución incidental.
+
+Cuando las partes no ofrezcan pruebas o las que propongan no se admitan, el juez, sin mayores trámites, dictará la resolución correspondiente.
+
+Si en la audiencia de juicio no pudieren desahogarse las pruebas vinculadas con el incidente o no pudiera concluirse una cuestión incidental, el juez continuará con el desarrollo de la audiencia desahogando las pruebas y resolviendo la incidencia en una audiencia especial, previamente al dictado de la sentencia definitiva.
+
+## TITULO SEPTIMO. De los juicios sumarios y de la vía de apremio
+
 ### CAPITULO I
 
 De los juicios sumarios.
@@ -3572,16 +3620,6 @@ ART. 438.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
 ART. 439.- (DEROGADO, P.O. 19 DE JULIO DE 2008)
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 19 DE ABRIL DE 2008)</small>
-
-## TITULO SEPTIMO. De los juicios sumarios y de la vía de apremio
-
-### CAPITULO II (SIC). De la rectificación administrativa de actas
-
-> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2008)</small>
-
-ART. 429 BIS (SIC).- La rectificación o modificación de un Acta del Estado civil no puede hacerse sino mediante sentencia que dicta la autoridad judicial en los términos previstos por este Código, o por resolución administrativa emitida por la Dirección General del Registro Civil en los supuestos y bajo las reglas establecidas en el Código Civil, salvo el reconocimiento que voluntariamente haga un padre de su hijo, en los casos autorizados por este último ordenamiento.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE AGOSTO DE 1985)</small>
 
 ## TITULO OCTAVO. Del Juicio Arbitral
 
@@ -3682,6 +3720,14 @@ ART. 633.- Los jueces ordinarios están obligados a impartir el auxilio de su ju
 ART. 634.- La apelación sólo será en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
 
 ART. 635.- El juez debe compeler a los árbitros a cumplir con sus obligaciones.
+
+### CAPITULO II (SIC). De la rectificación administrativa de actas
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2008)</small>
+
+ART. 429 BIS (SIC).- La rectificación o modificación de un Acta del Estado civil no puede hacerse sino mediante sentencia que dicta la autoridad judicial en los términos previstos por este Código, o por resolución administrativa emitida por la Dirección General del Registro Civil en los supuestos y bajo las reglas establecidas en el Código Civil, salvo el reconocimiento que voluntariamente haga un padre de su hijo, en los casos autorizados por este último ordenamiento.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE AGOSTO DE 1985)</small>
 
 ### CAPITULO II. De los juicios por alimentos
 
@@ -3953,56 +3999,6 @@ ART. 487.- (DEROGADO, P.O. 22 DE MARZO DE 1997)
 
 > <small>(REFORMADA SU NUMERACIÓN Y DENOMINACIÓN, P.O. 10 DE AGOSTO DE 1985)</small>
 
-### CAPITULO V. Del juicio de desocupación
-
-ART. 488.- La demanda de desocupación debe fundarse en la falta de pago de dos o más mensualidades y se acompañará con el contrato escrito del arrendamiento, cuando ello fuere necesario para la validez del acto conforme al Código Civil. En caso de no ser necesario el contrato escrito o de haberse cumplido voluntariamente por ambos contratantes sin otorgamiento de documento, se justificará por medio de información testimonial, prueba documental, o cualquiera otra bastante como medio preparatorio del juicio.
-
-ART. 489.- Presentada la demanda con el documento o la justificación correspondiente, dictará auto el juez mandando requerir al arrendatario para que en el acto de la diligencia justifique con el recibo correspondiente estar al corriente en el pago de las rentas y, no haciéndolo, se le prevenga que dentro de veinte días, si la finca sirve para habitación, o dentro de cuarenta días si sirve para giro mercantil o industrial, o dentro de noventa si fuere rústica, procede a desocuparla, apercibido de lanzamiento a su costa si no lo efectúa. En el mismo acto se le emplazará para que dentro de cinco días ocurra a oponer las excepciones que tuviere.
-
-ART. 490.- Si en el acto de la diligencia justificare el arrendatario, con el recibo correspondiente, haber hecho el pago de las pensiones reclamadas o exhibiere su importe, se suspenderá la diligencia, asentándose en ella el hecho y agregándose el justificante de pago para dar cuenta al juzgado. Si se hubiere exhibido el importe, se mandará entregar al actor sin más trámite, y se dará por terminado el procedimiento. Si se exhibiere el recibo de pago, se mandará dar vista al actor por el término de tres días, y, si no objeta, se citará para la audiencia de pruebas y alegatos a que se refiere el artículo 493, y en caso de no objetarlo, se da por concluída la instancia.
-
-ART. 491.- Cuando durante el plazo fijado para el desahucio exhiba el inquilino el recibo de las pensiones debidas o el importe de ellas, dará el juez por terminada la providencia de lanzamiento, sin condenación en costas.
-
-Si el recibo presentado es de fecha posterior o la exhibición del importe de las pensiones se hace fuera del término señalado para el desahucio, también se dará por concluida la providencia de lanzamiento, pero se condenará al inquilino al pago de las costas causadas.
-
-ART. 492.- Los beneficios de los plazos que este capítulo concede a los inquilinos, no son renunciables.
-
-ART. 493.- En caso de que se opongan otras excepciones por el inquilino, se mandará dar vista con ellas al actor, citándose para audiencia de pruebas y alegatos dentro de los ocho días siguientes, teniendo en cuenta que esta audiencia debe de efectuarse antes del vencimiento del término fijado para el lanzamiento.
-
-El juez debe desechar de plano las excepciones diversas a las que el Código Civil, en los artículos 2,321 a 2,324 y 2,335, concede al inquilino para no pagar la renta, siendo estas inadmisibles si no se ofrecen con sus pruebas.
-
-Son improcedentes la reconvención y la compensación.
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
-
-ART. 494.- La sentencia que decrete el desahucio será apelable en el efecto devolutivo y se ejecutará sin necesidad de ser engrosada y sin el otorgamiento de fianza. La que lo niegue será apelable en efecto suspensivo.
-
-ART. 495.- Si las excepciones fueren declaradas procedentes en la misma resolución, dará el tribunal por terminada la providencia de lanzamiento. En caso contrario, en la sentencia se señalará el plazo para la desocupación, que será el que falte para cumplirse el señalado por el artículo 489.
-
-ART. 496.- La diligencia de lanzamiento se entenderá con el ejecutado, o, en su defecto, con cualquiera persona de la familia, doméstico, portera o portero, agente de la policía o vecinos, pudiéndose romper las cerraduras de la puerta si necesario fuere. Los muebles u objetos que en la casa se encuentren, si no hubiere persona de la familia del inquilino que los recoja u otra autorizada para ello, se remitirán por inventario a la demarcación de policía correspondiente o al local que designe la autoridad administrativa, dejándose constancia de esta diligencia en autos.
-
-ART. 497.- Al hacer el requerimiento que se dispone en el artículo 489, se embargarán y depositarán bienes bastantes para cubrir las pensiones reclamadas, si así se hubiere decretado. Lo mismo se observará al ejecutarse el lanzamiento.
-
-ART. 498.- Para la ejecución del desahucio se tiene como domicilio legal del ejecutado la finca o departamento de cuya desocupación se trata.
-
-> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2014)</small>
-
-ART. 498 BIS.- Desde el momento de iniciado el juicio y antes de que se dicte sentencia, se informe que el bien mueble o inmueble materia de la litis, fue abandonado por el arrendatario, el juez que conozca de los autos, ordenará la inspección de la cosa arrendada en la que se cumplan los requisitos aplicables al cateo, para constatar tal hecho en los autos, de acuerdo a lo siguiente:
-
-I.- El arrendador o fiador podrán presentar el informe de abandono del bien mueble o inmueble arrendado, apoyado en la certificación de hechos realizada por notario público, o bien en la declaración de testigos que por su vecindad o parentesco con el arrendatario, tengan conocimiento de este hecho y lo ratifiquen mediante comparecencia ante el personal del juzgado;
-
-II.- El juez ordenará la inspección del bien mueble o inmueble materia de la litis para comprobar tal hecho. Para esta diligencia, el ejecutor, en el primer caso, se constituirá al lugar donde se encuentre abandonada la cosa arrendada y levantará acta circunstanciada, en presencia de dos testigos del lugar, si los hubiera, o en su defecto de dos testigos de asistencia, detallando las condiciones en que se localizó, y en el segundo supuesto, procederá en los mismos términos y antes de ingresar al bien raíz, deberá cerciorarse sobre la ausencia del arrendatario por un mes del inmueble arrendado, para luego, previa la autorización del Juzgador, proceda a romper las cerraduras del inmueble con cargo al denunciante.
-
-III.- El ejecutor que practique la diligencia de inspección, en el acta hará una relación pormenorizada del estado físico de la cosa mueble arrendada y, en su caso, del inmueble que reclama el arrendador, asentando en el acta, sobre el notorio abandono del bien mueble o del inmueble; hará inventario pormenorizado de los bienes muebles del arrendatario y de los que sean del arrendador, especificando el estado físico en el que se encuentran y procediendo al aseguramiento de los mismos, dejándolos en depósito del arrendador bajo su responsabilidad hasta que el arrendatario los reclame o, en su caso, declarada la sentencia en el expediente principal, podrán ser destinados al pago de las obligaciones de pago del arrendatario, señaladas en la sentencia; y
-
-IV. En el supuesto de que el funcionario judicial encargado de ejecutar el mandato, demuestre ya sea en forma personal o por conducto de los vecinos del lugar, que la cosa mueble no está abandonada, o bien acredite la ocupación física del inquilino en el inmueble, dará por terminada la diligencia y el trámite del Juicio Sumario o el Juicio Especial de Desocupación, según el caso, deberá continuar por sus etapas procesales;
-
-Concluida la diligencia, con base en el acta circunstanciada, y comprobado el abandono de la cosa arrendada, el juez dentro de los 05 cinco días siguientes, mediante resolución, determinará si en efecto el bien arrendado fue abandonado y declarará que en ese momento cesan de correr las rentas y restituirá al arrendador el uso y disfrute del bien mueble o inmueble, quedando rescindido el contrato en los términos de los artículos 2373, fracción IX, y 2386 del Código Civil. En caso contrario, impondrá a quien informó falsamente, una multa de veinte a doscientos días de salario mínimo y le condenara al pago de los daños que en su caso se ocasionen. Esta determinación admitirá el recurso de apelación.
-
-Las presentes diligencias podrán ser promovidas indistintamente, cuando se cumplan los requisitos de abandono de muebles o inmuebles del Código Civil y las propias del presente artículo, en el Juicio Especial de Desocupación, o en su defecto en cualquier juicio sumario promovido por el arrendador y que tenga por objeto la recuperación del inmueble o de la cosa mueble arrendada. Para el caso de que las presentes diligencias se hayan promovido y procedido en el Juicio Especial de Desocupación, se declarará sin materia el Juicio y quedará expedito el derecho del actor para reclamar las cuestiones inherentes del arrendamiento en la vía que proceda. Para el caso de que las presentes dirigencias se hayan promovido en un juicio sumario sobre cuestiones de arrendamiento de cosa mueble, o bien raíz, la cuestión inherente a la restitución quedará sin materia, sin embargo, podrá continuarse el juicio por las demás cuestiones reclamadas e inherentes al contrato de arrendamiento.
-
-> <small>(REFORMADA SU NUMERACIÓN, P.O. 10 DE AGOSTO DE 1985)</small>
-
 #### SECCION I. Reglas generales
 
 ART. 442.- Para que el juicio ejecutivo tenga lugar se necesita un título que lleve aparejada ejecución.
@@ -4145,6 +4141,56 @@ ART. 466.- Para que procedan en vía ejecutiva las acciones a que se refieren lo
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 10 DE AGOSTO DE 1985)</small>
 
+### CAPITULO V. Del juicio de desocupación
+
+ART. 488.- La demanda de desocupación debe fundarse en la falta de pago de dos o más mensualidades y se acompañará con el contrato escrito del arrendamiento, cuando ello fuere necesario para la validez del acto conforme al Código Civil. En caso de no ser necesario el contrato escrito o de haberse cumplido voluntariamente por ambos contratantes sin otorgamiento de documento, se justificará por medio de información testimonial, prueba documental, o cualquiera otra bastante como medio preparatorio del juicio.
+
+ART. 489.- Presentada la demanda con el documento o la justificación correspondiente, dictará auto el juez mandando requerir al arrendatario para que en el acto de la diligencia justifique con el recibo correspondiente estar al corriente en el pago de las rentas y, no haciéndolo, se le prevenga que dentro de veinte días, si la finca sirve para habitación, o dentro de cuarenta días si sirve para giro mercantil o industrial, o dentro de noventa si fuere rústica, procede a desocuparla, apercibido de lanzamiento a su costa si no lo efectúa. En el mismo acto se le emplazará para que dentro de cinco días ocurra a oponer las excepciones que tuviere.
+
+ART. 490.- Si en el acto de la diligencia justificare el arrendatario, con el recibo correspondiente, haber hecho el pago de las pensiones reclamadas o exhibiere su importe, se suspenderá la diligencia, asentándose en ella el hecho y agregándose el justificante de pago para dar cuenta al juzgado. Si se hubiere exhibido el importe, se mandará entregar al actor sin más trámite, y se dará por terminado el procedimiento. Si se exhibiere el recibo de pago, se mandará dar vista al actor por el término de tres días, y, si no objeta, se citará para la audiencia de pruebas y alegatos a que se refiere el artículo 493, y en caso de no objetarlo, se da por concluída la instancia.
+
+ART. 491.- Cuando durante el plazo fijado para el desahucio exhiba el inquilino el recibo de las pensiones debidas o el importe de ellas, dará el juez por terminada la providencia de lanzamiento, sin condenación en costas.
+
+Si el recibo presentado es de fecha posterior o la exhibición del importe de las pensiones se hace fuera del término señalado para el desahucio, también se dará por concluida la providencia de lanzamiento, pero se condenará al inquilino al pago de las costas causadas.
+
+ART. 492.- Los beneficios de los plazos que este capítulo concede a los inquilinos, no son renunciables.
+
+ART. 493.- En caso de que se opongan otras excepciones por el inquilino, se mandará dar vista con ellas al actor, citándose para audiencia de pruebas y alegatos dentro de los ocho días siguientes, teniendo en cuenta que esta audiencia debe de efectuarse antes del vencimiento del término fijado para el lanzamiento.
+
+El juez debe desechar de plano las excepciones diversas a las que el Código Civil, en los artículos 2,321 a 2,324 y 2,335, concede al inquilino para no pagar la renta, siendo estas inadmisibles si no se ofrecen con sus pruebas.
+
+Son improcedentes la reconvención y la compensación.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 494.- La sentencia que decrete el desahucio será apelable en el efecto devolutivo y se ejecutará sin necesidad de ser engrosada y sin el otorgamiento de fianza. La que lo niegue será apelable en efecto suspensivo.
+
+ART. 495.- Si las excepciones fueren declaradas procedentes en la misma resolución, dará el tribunal por terminada la providencia de lanzamiento. En caso contrario, en la sentencia se señalará el plazo para la desocupación, que será el que falte para cumplirse el señalado por el artículo 489.
+
+ART. 496.- La diligencia de lanzamiento se entenderá con el ejecutado, o, en su defecto, con cualquiera persona de la familia, doméstico, portera o portero, agente de la policía o vecinos, pudiéndose romper las cerraduras de la puerta si necesario fuere. Los muebles u objetos que en la casa se encuentren, si no hubiere persona de la familia del inquilino que los recoja u otra autorizada para ello, se remitirán por inventario a la demarcación de policía correspondiente o al local que designe la autoridad administrativa, dejándose constancia de esta diligencia en autos.
+
+ART. 497.- Al hacer el requerimiento que se dispone en el artículo 489, se embargarán y depositarán bienes bastantes para cubrir las pensiones reclamadas, si así se hubiere decretado. Lo mismo se observará al ejecutarse el lanzamiento.
+
+ART. 498.- Para la ejecución del desahucio se tiene como domicilio legal del ejecutado la finca o departamento de cuya desocupación se trata.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2014)</small>
+
+ART. 498 BIS.- Desde el momento de iniciado el juicio y antes de que se dicte sentencia, se informe que el bien mueble o inmueble materia de la litis, fue abandonado por el arrendatario, el juez que conozca de los autos, ordenará la inspección de la cosa arrendada en la que se cumplan los requisitos aplicables al cateo, para constatar tal hecho en los autos, de acuerdo a lo siguiente:
+
+I.- El arrendador o fiador podrán presentar el informe de abandono del bien mueble o inmueble arrendado, apoyado en la certificación de hechos realizada por notario público, o bien en la declaración de testigos que por su vecindad o parentesco con el arrendatario, tengan conocimiento de este hecho y lo ratifiquen mediante comparecencia ante el personal del juzgado;
+
+II.- El juez ordenará la inspección del bien mueble o inmueble materia de la litis para comprobar tal hecho. Para esta diligencia, el ejecutor, en el primer caso, se constituirá al lugar donde se encuentre abandonada la cosa arrendada y levantará acta circunstanciada, en presencia de dos testigos del lugar, si los hubiera, o en su defecto de dos testigos de asistencia, detallando las condiciones en que se localizó, y en el segundo supuesto, procederá en los mismos términos y antes de ingresar al bien raíz, deberá cerciorarse sobre la ausencia del arrendatario por un mes del inmueble arrendado, para luego, previa la autorización del Juzgador, proceda a romper las cerraduras del inmueble con cargo al denunciante.
+
+III.- El ejecutor que practique la diligencia de inspección, en el acta hará una relación pormenorizada del estado físico de la cosa mueble arrendada y, en su caso, del inmueble que reclama el arrendador, asentando en el acta, sobre el notorio abandono del bien mueble o del inmueble; hará inventario pormenorizado de los bienes muebles del arrendatario y de los que sean del arrendador, especificando el estado físico en el que se encuentran y procediendo al aseguramiento de los mismos, dejándolos en depósito del arrendador bajo su responsabilidad hasta que el arrendatario los reclame o, en su caso, declarada la sentencia en el expediente principal, podrán ser destinados al pago de las obligaciones de pago del arrendatario, señaladas en la sentencia; y
+
+IV. En el supuesto de que el funcionario judicial encargado de ejecutar el mandato, demuestre ya sea en forma personal o por conducto de los vecinos del lugar, que la cosa mueble no está abandonada, o bien acredite la ocupación física del inquilino en el inmueble, dará por terminada la diligencia y el trámite del Juicio Sumario o el Juicio Especial de Desocupación, según el caso, deberá continuar por sus etapas procesales;
+
+Concluida la diligencia, con base en el acta circunstanciada, y comprobado el abandono de la cosa arrendada, el juez dentro de los 05 cinco días siguientes, mediante resolución, determinará si en efecto el bien arrendado fue abandonado y declarará que en ese momento cesan de correr las rentas y restituirá al arrendador el uso y disfrute del bien mueble o inmueble, quedando rescindido el contrato en los términos de los artículos 2373, fracción IX, y 2386 del Código Civil. En caso contrario, impondrá a quien informó falsamente, una multa de veinte a doscientos días de salario mínimo y le condenara al pago de los daños que en su caso se ocasionen. Esta determinación admitirá el recurso de apelación.
+
+Las presentes diligencias podrán ser promovidas indistintamente, cuando se cumplan los requisitos de abandono de muebles o inmuebles del Código Civil y las propias del presente artículo, en el Juicio Especial de Desocupación, o en su defecto en cualquier juicio sumario promovido por el arrendador y que tenga por objeto la recuperación del inmueble o de la cosa mueble arrendada. Para el caso de que las presentes diligencias se hayan promovido y procedido en el Juicio Especial de Desocupación, se declarará sin materia el Juicio y quedará expedito el derecho del actor para reclamar las cuestiones inherentes del arrendamiento en la vía que proceda. Para el caso de que las presentes dirigencias se hayan promovido en un juicio sumario sobre cuestiones de arrendamiento de cosa mueble, o bien raíz, la cuestión inherente a la restitución quedará sin materia, sin embargo, podrá continuarse el juicio por las demás cuestiones reclamadas e inherentes al contrato de arrendamiento.
+
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 10 DE AGOSTO DE 1985)</small>
+
 ### CAPITULO VI. De la vía de apremio
 
 ### CAPITULO I. De los juicios en rebeldía
@@ -4161,51 +4207,7 @@ Las subsecuentes resoluciones que recaigan en el proceso y cuantas citaciones de
 
 ART. 637.- El litigante será declarado rebelde a petición de parte contraria, a no ser que cuando el que ha sido arraigado quebrante el arraigo sin dejar apoderado instruído y expensado.
 
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
-
-ART. 638.- Los autos que ordenen día y hora para el desahogo de alguna prueba y los puntos resolutivos de la sentencia definitiva que se pronuncie siempre que se esté en el caso previsto por la fracción II del artículo 122, se publicarán por dos veces consecutivas, en un Periódico de los de mayor circulación en el Estado.
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 639.- Desde el día en que fue declarado rebelde o quebrantó el arraigo el demandado, se decretará, si la parte contraria lo pidiere, la retención de sus bienes muebles y el embargo de los inmuebles en cuanto estime necesarios para asegurar lo que sea objeto del juicio.
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 640.- El depósito de lo retenido o embargo (sic) se dejará en poder de la persona que tengan (sic) a su disposición o bajo su custodia los bienes muebles, concediendo al juez un término prudente para que garantice su manejo como depositario.
-
-Si extinguido ese término no ofrece garantía suficiente a juicio del juez, se constituirán los muebles en depósito de persona que designe el actor y que tenga bienes raíces o afiance su manejo a satisfacción del juez.
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 641.- El embargo de los inmuebles se hará expidiendo mandamiento por duplicado al registrador de la propiedad que corresponda para que inscriba el secuestro.- Una de esas copias, después de cumplimentado el registro, se unirá a los autos. El depósito de los inmuebles se hará en la misma forma establecida por el Artículo anterior, procediendo el depositario, en su caso, de acuerdo con lo dispuesto por los Artículos 552 y 554.
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 642.- La retención o embargo practicados a consecuencia de declaración en rebeldía continuarán hasta la conclusión del juicio.
-
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
-
-ART. 643.- En el caso de que el emplazamiento se hubiere hecho por edictos, la sentencia no se ejecutará sino pasado un mes a partir del día siguiente de la última publicación a que se refiere el artículo 638, salvo que el actor exhiba fianza.
-
-### CAPITULO II. Procedimiento estando presente el rebelde
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 644.- Cualquiera que sea el estado del pleito en que el litigante rebelde comparezca, será admitido como parte y se entenderá con él la substanciación del juicio, sin que ésta pueda retroceder en ningún caso.
-
-ART. 645.- (DEROGADO, P.O. 8 DE SEPTIEMBRE DE 2012)
-
-ART. 646.- (DEROGADO, P.O. 8 DE SEPTIEMBRE DE 2012)
-
-ART. 647.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
-
-ART. 648.- (DEROGADO, P.O. 8 DE SEPTIEMBRE DE 2012)
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 649.- El litigante rebelde a quien se haya notificado personalmente el emplazamiento o la sentencia definitiva sólo podrá utilizar contra ella el recurso de apelación.
-
-ART. 650.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
 
 #### SECCION I. De la ejecución de sentencia
 
@@ -4501,15 +4503,19 @@ III.- Para nombrar a su costa un perito que con los nombrados por el ejecutante 
 
 ART. 568.- El avalúo se practicará de acuerdo con las reglas establecidas para la prueba pericial. Si fueren más de dos los peritos valuadores no habrá necesidad de nombrar tercero en discordia.
 
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
 
-ART. 569.- Hecho el avalúo se sacarán los bienes a pública subasta, anunciándose por dos veces, de siete en siete días, fijándose edictos en los sitios públicos de costumbre, y si el valor del bien excede de mil unidades de salario mínimo general vigente en el Estado, además de lo anterior, se insertarán aquellos en uno de los periódicos de mayor circulación en la Entidad. A petición de cualquiera de las partes y a su costa el juez puede usar, además de los antes señalados, algún otro medio de publicidad para convocar postores.
+###### Artículo 569.
+
+Hecho el avalúo se sacarán los bienes a pública subasta, anunciándose por siete días hábiles, publicándose edictos de manera electrónica en el sitio virtual de internet destinado para ello, así como en las cabeceras de los partidos judiciales del Estado. A petición de cualquiera de las partes y a su costa el Juez puede usar, además de los antes señalados, algún otro medio de publicidad para convocar postores.
 
 ART. 570.- Antes de fincarse el remate o declararse la adjudicación podrá el deudor librar sus bienes pagando principal y costas. Después de fincado quedará la venta irrevocable.
 
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
 
-ART. 571.- Si los bienes raíces estuvieren situados en diversos lugares en todos estos se publicarán los edictos en los sitios de costumbre y en los estrados del juzgado respectivo. En el caso a que este Artículo se refiere, se ampliará el término de los edictos, concediéndose un día más por cada doscientos kilómetros o fracción que exceda de la mitad y se calculará para designarlo la distancia mayor en que se encuentren los bienes. Puede usar el juez, además de los medios antes indicados, algún otro medio de publicidad para llamar postores.
+###### Artículo 571.
+
+Si los bienes raíces estuvieren situados en diversos lugares en todos estos se publicarán los edictos en el sitio virtual de internet y en los estrados del juzgado respectivo. En el caso a que este Artículo se refiere, se ampliará el término de los edictos, concediéndose un día más por cada doscientos kilómetros o fracción que exceda de la mitad y se calculará para designarlo la distancia mayor en que se encuentren los bienes. Puede usar el Juez, además de los medios antes indicados, algún otro medio de publicidad para llamar postores.
 
 ART. 572.- Es postura legal la que cubra las dos terceras partes del avalúo o del precio fijado a la finca hipotecada por los contratantes, con tal de que la parte de contado sea suficiente para pagar el crédito o créditos que han sido objeto del juicio y las costas.
 
@@ -4675,6 +4681,52 @@ ART. 607.- Ni el juez inferior ni el tribunal superior podrán examinar ni decid
 
 ## TITULO DECIMO. De las tercerías
 
+### CAPITULO II. Procedimiento estando presente el rebelde
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 644.- Cualquiera que sea el estado del pleito en que el litigante rebelde comparezca, será admitido como parte y se entenderá con él la substanciación del juicio, sin que ésta pueda retroceder en ningún caso.
+
+ART. 645.- (DEROGADO, P.O. 8 DE SEPTIEMBRE DE 2012)
+
+ART. 646.- (DEROGADO, P.O. 8 DE SEPTIEMBRE DE 2012)
+
+ART. 647.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
+
+ART. 648.- (DEROGADO, P.O. 8 DE SEPTIEMBRE DE 2012)
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 649.- El litigante rebelde a quien se haya notificado personalmente el emplazamiento o la sentencia definitiva sólo podrá utilizar contra ella el recurso de apelación.
+
+ART. 650.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
+
+###### Artículo 638.
+
+Los autos que ordenen día y hora para el desahogo de alguna prueba y los puntos resolutivos de la sentencia definitiva que se pronuncie siempre que se esté en el caso previsto por la fracción II del artículo 122, se publicarán por dos veces consecutivas, en el sitio virtual de internet destinado para ello.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 639.- Desde el día en que fue declarado rebelde o quebrantó el arraigo el demandado, se decretará, si la parte contraria lo pidiere, la retención de sus bienes muebles y el embargo de los inmuebles en cuanto estime necesarios para asegurar lo que sea objeto del juicio.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 640.- El depósito de lo retenido o embargo (sic) se dejará en poder de la persona que tengan (sic) a su disposición o bajo su custodia los bienes muebles, concediendo al juez un término prudente para que garantice su manejo como depositario.
+
+Si extinguido ese término no ofrece garantía suficiente a juicio del juez, se constituirán los muebles en depósito de persona que designe el actor y que tenga bienes raíces o afiance su manejo a satisfacción del juez.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 641.- El embargo de los inmuebles se hará expidiendo mandamiento por duplicado al registrador de la propiedad que corresponda para que inscriba el secuestro.- Una de esas copias, después de cumplimentado el registro, se unirá a los autos. El depósito de los inmuebles se hará en la misma forma establecida por el Artículo anterior, procediendo el depositario, en su caso, de acuerdo con lo dispuesto por los Artículos 552 y 554.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 642.- La retención o embargo practicados a consecuencia de declaración en rebeldía continuarán hasta la conclusión del juicio.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+ART. 643.- En el caso de que el emplazamiento se hubiere hecho por edictos, la sentencia no se ejecutará sino pasado un mes a partir del día siguiente de la última publicación a que se refiere el artículo 638, salvo que el actor exhiba fianza.
+
 ### CAPITULO UNICO
 
 ART. 651.- En un juicio seguido por dos o más personas pueden venir uno o más terceros, siempre que tengan interés propio y distinto del actor o reo en la materia del juicio.
@@ -4735,8 +4787,6 @@ ART. 668.- Cuando se presenten tres o más acreedores que hicieren oposición, s
 
 > <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
 
-### CAPITULO II (SIC). Del juicio arbitral
-
 ## TITULO DECIMO (SIC). De las tercerías
 
 > <small>(REFORMADO Y REUBICADO, P.O. 10 DE AGOSTO DE 1985)</small>
@@ -4751,13 +4801,15 @@ ART. 670.- La interposición de una tercería excluyente autoriza al demandante 
 
 ART. 671.- Si sólo alguno de los bienes ejecutados fuere objeto de la tercería, los procedimientos del juicio principal continuarán hasta vender y hacer pago al acreedor, con los bienes no comprendidos en la misma tercería.
 
-(REUBICADO, P.O. 10 DE AGOSTO DE 1985)
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
 
-ART. 672.- Si la tercería, cualquiera que sea, se interpone ante un juez de paz o menor y el interés de ella excede del que la ley respectivamente somete a la jurisdicción de estos jueces, aquél ante quien se interponga remitirá lo actuado en el negocio principal y tercería, al juez que designe el tercer opositor y sea competente para conocer del negocio que representa mayor interés. El juez designado correrá traslado de la demanda entablada y decidirá la tercería, sujetándose en la substanciación a lo prevenido en los artículos anteriores.
+ART. 672.- Si la tercería, cualquiera que sea, se interpone ante un Juez de Menor Cuantía y el interés de ella excede del que la Ley respectivamente somete a la jurisdicción de estos Jueces, aquél ante quien se interponga remitirá lo actuado en el negocio principal y tercería, al Juez que designe el tercer opositor y sea competente para conocer del negocio que representa mayor interés. El Juez designado correrá traslado de la demanda entablada y decidirá la tercería, sujetándose en la substanciación a lo prevenido en los artículos anteriores.
 
 TITULO DECIMOPRIMERO
 
 Divorcio por mutuo consentimiento
+
+### CAPITULO II (SIC). Del juicio arbitral
 
 ### CAPITULO UNICO
 
@@ -5189,7 +5241,9 @@ ART. 727.- La responsabilidad civil en que puedan incurrir jueces y magistrados 
 
 ART. 728.- No podrá promoverse demanda de responsabilidad civil sino hasta que queda determinado por sentencia o auto firme el pleito o causa en que se suponga causado el agravio.
 
-ART. 729.- Cuando la demanda se dirija contra un juez de paz, cualquiera que sea su cuantía, conocerá de ella el juez de primera instancia a que aquél corresponda. Contra la sentencia que éste pronuncie procederá la apelación en ambos efectos para ante el tribunal superior si el juicio por su cuantía fuere apelable.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+ART. 729.- Cuando la demanda se dirija contra un Juez de Menor Cuantía, cualquiera que sea su monto, conocerá de ella el Juez de Primera Instancia a que aquél corresponda. Contra la sentencia que éste pronuncie procederá la apelación en ambos efectos para ante el tribunal superior si el juicio por su cuantía fuere apelable.
 
 ART. 730.- Las salas del tribunal superior conocerán, en primera y única instancia, de las demandas de responsabilidad civil presentadas contra los jueces de primera instancia. Contra las sentencias que aquéllas dicten no se dará recurso alguno.
 
@@ -5281,13 +5335,17 @@ ART. 737.- El concurso del deudor no comerciante puede ser voluntario o necesari
 
 Es necesario cuando dos o más acreedores de plazo cumplido han demandado o ejecutado ante un mismo o diversos jueces a sus deudores y no haya bienes bastantes para que cada uno secuestre lo suficiente para cubrir su crédito y costas.
 
-ART. 738.- Declarado el concurso, el juez resolverá:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
 
-I.- Notificar personalmente o por cédula, al deudor la formación de su concurso necesario, y en uno de los periódicos de mayor circulación en el Estado, el concurso voluntario;
+ART. 738.- Declarado el concurso, el Juez resolverá:
 
-> <small>(F. DE E., P.O. 9 DE ABRIL DE 1955)</small>
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2014)</small>
 
-II.- Hacer saber a los acreedores la formación del concurso por edictos que se publicarán en dos periódicos de información que designará el juez. Si hubiere acreedores en el lugar del juicio, se citarán por medio de cédula, por correo o telégrafo si fuere necesario;
+I.- Notificar personalmente o por cédula, al deudor la formación de su concurso necesario, y en el sitio virtual de internet destinado para ello, el concurso voluntario;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+II.- Hacer saber a los acreedores la formación del concurso por edictos que se publicarán en el sitio virtual de internet destinado para ello. Si hubiere acreedores en el lugar del juicio, se citarán por medio de cédula, por correo o telégrafo si fuere necesario;
 
 III.- Nombrar síndico provisional;
 
@@ -5567,7 +5625,9 @@ ART. 789.- El que promueva el juicio de testamentaría debe de presentar el test
 
 ART. 790.- La junta se verificará dentro de los ocho días siguientes a la citación, si la mayoría de los herederos reside en el lugar del juicio. Si la mayoría residiere fuera del lugar del juicio, el juez señalará el plazo que crea prudente, atendidas las distancias. La citación se hará por cédula o correo certificado.
 
-ART. 791.- Si no se conociere el domicilio de los herederos y éstos estuvieren fuera del lugar del juicio, se mandarán publicar edictos en el lugar del juicio en los sitios de costumbre, en el del último domicilio del finado y en el de su nacimiento.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+ART. 791.- Si no se conociere el domicilio de los herederos y éstos estuvieren fuera del lugar del juicio, se mandarán publicar edictos de manera electrónica en el sitio virtual de internet destinado para ello, así como en las cabeceras de los partidos judiciales del Estado.
 
 Estando ausentes los herederos y sabiéndose su residencia, se les citará por exhorto cuando estuvieren fuera del Estado.
 
@@ -5621,15 +5681,17 @@ ART. 806.- Si la declaración de herederos la solicitaren parientes colaterales 
 
 El juez prudentemente podrá ampliar el plazo anterior cuando, por el lugar de origen del finado u otras circunstancias, se presuma que podrá haber parientes fuera de la República.
 
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
 
-Los edictos se insertarán, además, dos veces de diez en diez días en uno de los periódicos de mayor circulación en la Entidad si el valor de los bienes hereditarios excediere de mil unidades de salario mínimo general vigente en el Estado.
+Los edictos se publicarán en el sitio virtual de internet destinado para ello, así como en las cabeceras de los partidos judiciales del Estado por veinte días hábiles si el valor de los bienes hereditarios excediere de mil unidades de salario mínimo general vigente en el Estado.
 
 ART. 807.- Transcurrido el término de los edictos a contar desde el día siguiente de su publicación, si nadie se hubiere presentado, trayendo los autos a la vista, el juez hará la declaración prevenida en el artículo 804.
 
 Si hubieren comparecido otros parientes, el juez le (sic) señalará un término no mayor de quince días para que, con audiencia del Ministerio Público, presenten los justificantes del parentesco, procediéndose como se indica en los artículos 802 a 806.
 
-ART. 808.- Si dentro del mes de iniciado el juicio sucesorio no se presentaren descendientes, cónyuge, ascendientes, concubina o colaterales dentro del cuarto grado, el juez mandará fijar edictos en los sitios públicos de la manera y por el término expresados en el artículo 806, anunciando la muerte intestada de la persona de cuya sucesión se trate y llamando a los que se crean con derecho a la herencia.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+ART. 808. Si dentro del mes de iniciado el juicio sucesorio no se presentaren descendientes, cónyuge, ascendientes, concubina o colaterales dentro del cuarto grado, el Juez mandará publicar edictos en el sitio virtual de internet destinado para ello, así como en las cabeceras de los partidos judiciales del Estado y por el término expresado en el artículo 806, anunciando la muerte intestada de la persona de cuya sucesión se trate y llamando a los que se crean con derecho a la herencia.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
@@ -6439,35 +6501,29 @@ De la Justicia de Paz
 
 ART. 956.- Se establecen en el Estado de Colima los juzgados de paz que fija la Ley Orgánica del Poder Judicial con las jurisdicciones que en la misma se determinan.
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
 
-ART. 957.- Conocerán los jueces de paz de los juicios cuya cuantía no exceda de doscientos pesos.
+ART. 957.- Conocerán los Jueces de Menor Cuantía en materia civil y mercantil de:
 
-Para estimar el interés del negocio se atenderá a lo que el actor demande. Los réditos, daños y perjuicios no serán tenidos en consideración si son posteriores a la presentación de la demanda, aún cuando se reclamen en ella.
+I. De asuntos civiles y mercantiles cuyo monto no exceda de quinientas veces el salario mínimo diario general vigente en el Estado cuando se trate de derechos personales y de dos mil veces el salario vigente en el Estado cuando se trate de derechos reales; y
 
-Cuando se trate de arrendamiento, o se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las prestaciones de un año, a no ser que se tratare de prestaciones vencidas, en cuyo caso se estará a lo dispuesto en la primera parte de este artículo.
+II. De la diligencia de los exhortos, despachos y demás asuntos que les encomiende el Supremo Tribunal de Justicia, los Jueces de Primera Instancia, los de su misma categoría y las leyes relativas, siempre que dichas diligencias deban verificarse dentro de su jurisdicción territorial.
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+Para determinar la cuantía del asunto no deberán tomarse en cuenta intereses y demás accesorios reclamados a la fecha de la interposición de la demanda.
 
-ART. 958.- Si se dudare del valor de la cosa demandada o del interés del pleito, antes de expedirse la cita para el demandado, el juez oirá el dictamen de un perito que él mismo nombrará a costa del actor.
+ART. 958.- (DEROGADO, P.O. 15 DE NOVIEMBRE DE 2014)
 
-Aun cuando esto se hubiere hecho, el demandado, en el acto del juicio, podrá pedir que se declare que el negocio no es de la jurisdicción de paz por exceder en doscientos pesos su cuantía, y, n (sic) en tal caso el juez oirá lo que ambas partes expongan y la opinión de los peritos que presenten, resolviendo en seguida. Si declarare ser competente, se continuará la audiencia como lo establecen los artículos 20 a 23.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+ART. 959.- Los juicios de Menor Cuantía se ventilarán con el procedimiento y términos aplicables a los de Primera Instancia, salvo los casos expresamente determinados por la Ley.
 
-ART. 959.- Cuando el juez, en cualquier estado del negocio, encuentre que éste no es de su competencia por exceder de los límites que se fijan en el artículo primero, o en razón de corresponder a juez de diversa jurisdicción o de otro fuero, suspenderá de plano el procedimiento y remitirá lo actuado al juez correspondiente.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+ART. 960.- De los asuntos señalados en el artículo 957, conocerán los Jueces de Menor Cuantía a que se refiere el artículo 61 de la Ley Orgánica del Poder Judicial. Fuera de estos casos, dichos negocios serán conocidos por los Jueces de Primera Instancia correspondientes.
 
-ART. 960.- Cada juzgado conocerá de los negocios relativos a predios ubicados dentro de él, cuando se trate de arrendamiento o de acciones reales sobre bienes inmuebles. Conocerá también de aquellos en que el demandado sea citado en lugar que se encuentre comprendido también en la municipalidad.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
 
-En caso de duda será competente, por razón del territorio, el juez de paz que haya prevenido y en ningún caso se dará entrada a cuestión relativa a competencia de jurisdicción por aquel concepto; el hecho de haber conocido, indebidamente, de casos correspondientes a otros municipios, será motivo de corrección disciplinaria que impondrá el Presidente del Supremo Tribunal de Justicia, mediante queja del agraviado.
-
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
-
-ART. 961.- Cuando el juez de paz recibiere inhibitoria de otro juzgado del Estado o territorio en que se promueva competencia por razón de la cuantía, y creyere debido sostener la suya, el mismo día lo comunicará así al competidor y remitirá su expediente con el oficio inhibitorio, sin necesidad de informe especial al Supremo Tribunal de Justicia.
-
-El Supremo Tribunal de Justicia, sin otro trámite, decidirá la competencia en una audiencia que se celebrará dentro de las cuarenta y ocho horas siguientes al recibo de los documentos, y a la cual será citado el Ministerio Público, sin que sea necesaria su asistencia para que se verifique la vista.
+ART. 961.- Cuando el Juez de Menor Cuantía recibiere inhibitoria de otro juzgado del Estado o territorio en que se promueva competencia por razón de la cuantía, y creyere debido sostener la suya, el mismo día lo comunicará así al competidor y remitirá su expediente con el oficio inhibitorio, sin necesidad de informe especial a la Sala competente del Supremo Tribunal de Justicia.
 
 Emplazamiento y citaciones
 
@@ -6475,7 +6531,9 @@ Emplazamiento y citaciones
 
 ART. 962.- A petición del actor se citará al demandado para que comparezca dentro del tercer día. En la cita, que en presencia del actor será expedida y entregada a la persona que deba de llevarla, se expresará, por lo menos, el nombre del actor, lo que demande, la causa de la demanda, la hora que se señale para el juicio y la advertencia de que las pruebas se presentarán en la misma audiencia.
 
-Debe llevarse en los juzgados de paz un libro de registro en que se asentarán, por días y meses, los nombres de actores y demandados, y el objeto de las demandas.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+Debe llevarse en los juzgados de Menor Cuantía un libro de registro en que se asentarán, por días y meses, los nombres de actores y demandados, y el objeto de las demandas.
 
 Puede el actor presentar su demanda por escrito.
 
@@ -6535,173 +6593,73 @@ El que se presente como actor o como reo usando el nombre de otro para hacerse p
 
 Del juicio
 
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+ART. 972.- (DEROGADO, P.O. 15 DE NOVIEMBRE DE 2014)
 
-ART. 972.- Si al anunciarse el despacho del negocio no estuviere presente el actor y sí el demandado, se impondrá a aquél una multa de cinco a veinte días de salario mínimo general vigente en el Estado al momento de su imposición, que se aplicará por vía de indemnización, y, sin que se justifique haberse hecho el pago, no se citará de nuevo para el juicio.
+ART. 973.- (DEROGADO, P.O. 15 DE NOVIEMBRE DE 2014)
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+ART. 974.- (DEROGADO, P.O. 15 DE NOVIEMBRE DE 2014)
 
-ART. 973.- Si al ser llamado a contestar la demanda no estuviere presente el demandado, y constare que fue debidamente citado, lo cual comprobará el juez con especial cuidado, se dará por contestada la demanda en sentido afirmativo y se continuará la audiencia. Cuando se presente durante ella el demandado, continuará ésta con su intervención, según el estado en que se halle, y no se le admitirá prueba sobre ninguna excepción, si no demostrare el impedimento de caso fortuito o fuerza mayor que le impidiera presentarse a contestar la demanda.
+ART. 975.- (DEROGADO, P.O. 15 DE NOVIEMBRE DE 2014)
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+ART. 976.- (DEROGADO, P.O. 15 DE NOVIEMBRE DE 2014)
 
-ART. 974.- Si al anunciarse el despacho del negocio no estuvieren presentes el actor ni el demandado, se tendrá por no expedida la cita y podrá expedirse de nuevo si el actor lo pidiere. Lo mismo se observará cuando no concurra el demandado y aparezca que no fue citado debidamente.
+ART. 977.- (DEROGADO, P.O. 15 DE NOVIEMBRE DE 2014)
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
-
-ART. 975.- Concurriendo al juzgado las partes, en virtud de la citación, se abrirá la audiencia y en ella se observarán las siguientes prevenciones:
-
-I.- Expondrán oralmente sus pretensiones, por su orden, el actor su demanda y el reo su contestación, y exhibirán los documentos u objetos que estimen conducentes a su defensa, y presentarán a los testigos y peritos que pretendan sean oídos;
-
-II.- Las partes pueden hacerse mutuamente las preguntas que quieran, interrogar a los testigos y peritos y, en general, presentar todas las pruebas que se puedan rendir desde luego;
-
-III.- Todas las acciones y excepciones o defensas se harán valer en el acto mismo de la audiencia, sin substanciar artículos o incidentes de previo pronunciamiento. Si de lo que expongan o prueben las partes resultare demostrada la procedencia de una excepción dilatoria, el juez lo declarará así, desde luego, y dará por terminada la audiencia. Ante los jueces de paz, sólo se admitirá reconvención hasta por doscientos pesos;
-
-IV.- El juez podrá hacer libremente las preguntas que juzgue oportunas a cuantas personas estuvieren presentes en la audiencia, carear a las partes entre sí o con los testigos y a éstos, los unos con los otros, examinar documentos, objetos o lugares y hacerlos reconocer por peritos;
-
-V.- Cuando una de las partes lo pide, la otra deberá ser citada desde el emplazamiento y concurrirá personalmente a la audiencia para contestar las preguntas que se le hagan, a menos de que el juez la exima por causa de enfermedad, ausencia, ocupación urgente u otro motivo fundado. Hecho el llamamiento y desobedecido por el citado, o rehusándose éste a contestar si comparece, el juez podrá tener por ciertas las afirmaciones de la otra parte;
-
-VI.- En cualquier estado de la audiencia y, en todo caso, antes de pronunciar el fallo el juez exhortará a las partes a una composición amigable, y, si se lograre la avenencia, se dará por terminado el juicio;
-
-VII.- El juez oirá las alegaciones de las partes para lo cual concederá hasta diez minutos a cada una, y, en seguida, pronunciará su fallo en presencia de ellas, de una manera clara y sencilla.
-
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
-
-ART. 976.- Las sentencias se dictarán a verdad sabida, sin necesidad de sujetarse a las reglas sobre estimación de las pruebas, sino apreciando los hechos según los jueces lo creyeren debido en conciencia.
-
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
-
-ART. 977.- Debe el juez observar escrupulosamente lo dispuesto por el artículo 141 de este Código (de Procedimientos Civiles), aún en negocios mercantiles. No se impondrán multas por temeridad. Los gastos de ejecución serán a cargo del condenado.
-
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
-
-ART. 978.- Contra las resoluciones pronunciadas por los jueces de paz no se dará más recurso que el de responsabilidad.
+ART. 978.- (DEROGADO, P.O. 15 DE NOVIEMBRE DE 2014)
 
 Ejecución de las sentencias
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+ART. 979.- (DEROGADO, P.O. 15 DE NOVIEMBRE DE 2014)
 
-ART. 979.- Los jueces de paz tienen obligación de proveer a la eficaz e inmediata ejecución de sus sentencias, y, a ese efecto, dictarán todas las medidas necesarias, en la forma y términos que a su juicio fueren procedentes, sin contrariar las reglas siguientes:
+ART. 980.- (DEROGADO, P.O. 15 DE NOVIEMBRE DE 2014)
 
-I.- Si al pronunciarse la sentencia estuvieren presentes ambas partes, el juez las interrogará acerca de la forma que cada una proponga para la ejecución y procurará que lleguen a un avenimiento a ese respecto;
+ART. 981.- (DEROGADO, P.O. 15 DE NOVIEMBRE DE 2014)
 
-II.- El condenado podrá proponer fianza de persona abonada para garantizar el pago, y el juez, con audiencia de la parte que obtuvo, calificará la fianza según su arbitrio, y si la aceptare podrá conceder un término hasta de quince días para el cumplimiento y aun mayor tiempo, si el que obtuvo estuviere conforme en ella. Si vencido el plazo el condenado no hubiere cumplido, se procederá de plano contra el fiador, quien no gozará de beneficio alguno;
+ART. 982.- (DEROGADO, P.O. 15 DE NOVIEMBRE DE 2014)
 
-III.- Llegado el caso, el ejecutor, asociado de la parte que obtuvo y sirviendo de mandamiento en forma la sentencia condenatoria, procederá al secuestro de bienes conforme a los artículos que siguen.
+ART. 983.- (DEROGADO, P.O. 15 DE NOVIEMBRE DE 2014)
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+ART. 984.- (DEROGADO, P.O. 15 DE NOVIEMBRE DE 2014)
 
-ART. 980.- El secuestro podrá recaer en toda clase de muebles, con excepción de los vestidos, muebles de uso común e instrumentos y útiles de trabajo en cuanto sean enteramente indispensables, a juicio del ejecutor, y de los sueldos y pensiones del Erario. El embargo de sueldos o salarios sólo se harán cuando la deuda reclamada fuere por alimentos, o por responsabilidad proveniente de delitos, graduándola el ejecutor, equitativamente en atención al importe de los sueldos y a las necesidades del ejecutado y su familia.
+ART. 985.- (DEROGADO, P.O. 15 DE NOVIEMBRE DE 2014)
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+ART. 986.- (DEROGADO, P.O. 15 DE NOVIEMBRE DE 2014)
 
-ART. 981.- La elección de los bienes en que hubiere de recaer el secuestro será hecha por el ejecutor, prefiriendo los más realizables, y teniendo en cuenta lo que expongan las partes.
+ART. 987.- (DEROGADO, P.O. 15 DE NOVIEMBRE DE 2014)
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+ART. 988.- (DEROGADO, P.O. 15 DE NOVIEMBRE DE 2014)
 
-ART. 982.- Si no se hallare el condenado en su habitación, despacho, taller o establecimiento, la diligencia se practicará con la persona que se encuentre, y si no hubiere nadie, con un vecino y el gendarme del punto.
+ART. 989.- (DEROGADO, P.O. 15 DE NOVIEMBRE DE 2014)
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+ART. 990.- (DEROGADO, P.O. 15 DE NOVIEMBRE DE 2014)
 
-ART. 983.- En caso necesario, previa orden especial y escrita del juez, se podrán practicar cateos y romper cerraduras en cuanto fuere indispensable para encontrar bienes bastantes.
-
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
-
-ART. 984.- Si el secuestro recayere en créditos o rentas, la ejecución consistirá en notificar al que deba de pagarlos que los entregue al juzgado luego que se venzan o sean exigibles. Cualquier fraude o acto malicioso para impedir la eficacia del secuestro, como anticipar el pago, o aparecer despedido el empleado, o rescindido el contrato, hará personal y directamente responsable al notificado y, en consecuencia, a él se le exigirá el pago de lo sentenciado, a reserva de que a su vez lo exija a la parte condenada.
-
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
-
-ART. 985.- El remate de bienes muebles se hará en la forma que determina el artículo 597 del Código de Procedimientos Civiles. Si se tratare de bienes raíces se anunciará el remate por medio de avisos que se fijen en los lugares de costumbre y en la puerta del juzgado y se hará previa citación de los acreedores que resulten del certificado de gravámenes que sin causa de derechos expedirá, firmado en forma autógrafa o con la firma electrónica certificada, el registrador publico de la propiedad. El avalúo se hará por medio de cualquiera clase de pruebas que el juez podrá allegar de oficio.
-
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
-
-ART. 986.- Si atendidas las circunstancias y la naturaleza de los bienes, el juez estimare que deben de pignorarse los muebles antes de venderse, los mandará trasladar al Monte de Piedad y los pignorará en la mayor suma posible, pero que no exceda de la necesaria para cubrir la cantidad a cuyo pago se haya condenado y los gastos de traslación. Si la cantidad prestada bastare para cubrir dichos gastos, se entregará el billete de empeño al ejecutado y, en caso contrario, el empeño se hará en el concepto de que el objeto salga a remate en la almoneda más próxima, y el billete se retendrá en el juzgado hasta que el acreedor quede íntegramente pagado o hasta que los objetos pignorados se realicen, entregándose entonces al deudor la demasía que hubiere.
-
-Los gastos de traslación serán pagados, desde luego, por el ejecutor, tomándose su importe de la cantidad prestada.
-
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
-
-ART. 987.- Todos los actos del ejecutor serán revisables, sea de oficio o a petición de parte, por el juez, quien podrá modificarlos o revocarlos según lo creyere justo.
-
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
-
-ART. 988.- Cuando la sentencia condene entregar cosa determinada, para obtener su complimiento se podrán emplear los medios de apremio que autoriza el artículo 73 de este Código, y si fuere necesario el cateo, se podrá autorizar, previa orden especial y escrita, que se rompan cerraduras en cuanto fuere posible, para encontrar la cosa.
-
-Si ni aún así se obtuviere la entrega, el juez fijará la cantidad que como reparación se deba entregar a la parte que obtuvo, procediéndose a exigir su pago con arreglo a los artículos 24 al 31.
-
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
-
-ART. 989.- Si la sentencia condena a hacer, el juez señalará al que fué condenado un plazo prudente para el cumplimiento, y se estará en todo a lo dispuesto en el artículo 516 de este Código (de Procedimientos Civiles).
-
-Si el hecho consistiere en el otorgamiento de un contrato, o la celebración de un acto jurídico, el juez lo ejecutará en rebeldía del condenado.
-
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
-
-ART. 990.- El tercero que considere perjudicados sus derechos al ejecutarse la sentencia, ocurrirá al juez de paz, presentando sus pruebas, y el juez, con audiencia inmediata de las partes, resolverá si subsiste o no el secuestro, o el acto de ejecución practicado, sin decidir sobre la propiedad de la cosa ni sobre otros hechos controvertidos.
-
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
-
-ART. 991.- Los juicios de desocupación de predios o localidades arrendadas se substanciarán conforme a las reglas establecidas para los demás juicios, sin tener, en caso alguno, periodo de lanzamiento.
-
-Cuando la sentencia condene a la desocupación se concederá para ésta un término de ocho a veinte días, según la importancia de la cosa arrendada, a juicio del juez, pero, desde luego, se procederá al aseguramiento de bienes suficientes a cubrir el importe de las rentas a cuyo pago se hubiere condenado.
-
-La desocupación de predios rústicos podrá decretarse hasta los sesenta días.
+ART. 991.- (DEROGADO, P.O. 15 DE NOVIEMBRE DE 2014)
 
 Incidentes
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+ART. 992.- (DEROGADO, P.O. 15 DE NOVIEMBRE DE 2014)
 
-ART. 992.- Las cuestiones incidentales que se susciten ante los jueces de paz se resolverán juntamente con la principal, a menos que por su naturaleza sea forzoso decidirlas antes, o que se promuevan después de la sentencia, pero en ningún caso se formará artículo, sino que se decidirán de plano.
-
-La conexidad sólo procede cuando se trate de juicios que se sigan ante el mismo juez de paz, y se resolverá luego que se promuevan, sin necesidad de audiencia especial ni otra actuación. Queda abolida la práctica de promover acumulaciones de autos llevados ante juzgados de paz diferentes.
-
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
-
-ART. 993.- Las promociones de nulidad de actuaciones por falta o defecto de citación o notificación, deben ser despachadas de plano
+ART. 993.- (DEROGADO, P.O. 15 DE NOVIEMBRE DE 2014)
 
 Reglas generales
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+ART. 994.- (DEROGADO, P.O. 15 DE NOVIEMBRE DE 2014)
 
-ART. 994.- Las disposiciones de este título se aplicarán también en los juicios sobre actos mercantiles, sin que a ello obsten las disposiciones que en contrario hay en el Código de Comercio.
+ART. 995.- (DEROGADO, P.O. 15 DE NOVIEMBRE DE 2014)
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+ART. 996.- (DEROGADO, P.O. 15 DE NOVIEMBRE DE 2014)
 
-ART. 995.- En los negocios de la competencia de los juzgados de paz, únicamente se aplicarán las disposiciones de este Código (de Procedimientos Civiles) y de la Ley Orgánica del Poder Judicial, en lo que fuere indispensable para complementar las disposiciones de este título y que no se opongan directa ni indirectamente a éstas.
+ART. 997.- (DEROGADO, P.O. 15 DE NOVIEMBRE DE 2014)
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+ART. 998.- (DEROGADO, P.O. 15 DE NOVIEMBRE DE 2014)
 
-ART. 996.- Ante los jueces de paz no será necesaria la intervención de abogados ni se exigirá ritualidad alguna ni forma determinada en las promociones o alegaciones que se hagan.
+ART. 999.- (DEROGADO, P.O. 15 DE NOVIEMBRE DE 2014)
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+ART. 1000.- (DEROGADO, P.O. 15 DE NOVIEMBRE DE 2014)
 
-ART. 997.- El despacho de los juzgados de paz comenzará diariamente a las nueve de la mañana y se podrá interrumpir de las trece a las dieciséis horas, y continuará hasta la hora necesaria para cumplir todos los negocios citados y que se hayan presentado durante el curso del día, pudiendo retirarse el personal después, cuando ya no tenga asunto pendiente y fueren cuando menos las diecinueve horas.
+ART. 1001.- (DEROGADO, P.O. 15 DE NOVIEMBRE DE 2014)
 
-Respecto de las actuaciones ante jueces de paz, no hay días ni horas inhábiles.
-
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
-
-ART. 998.- Las audiencias serán públicas. Si en la hora señalada para una audiencia no se hubiere terminado el negocio o negocios anteriores, las personas citadas deberán permanecer hasta que llegue su turno al asunto respectivo, siguiéndose rigurosamente para la vista de los negocios el orden que les corresponda, según la lista del día que se fijará en los tableros del juzgado desde la víspera.
-
-Cuando fuere necesario esperar alguna persona a quien hubiere llamado a la audiencia, o conceder tiempo a los peritos para que examinen las cosas acerca de las que hayan de emitir dictamen, u ocurriera algún otro caso que lo exija, a juicio del juez, se suspenderá la audiencia por un término prudente, no mayor de una hora, y si fuere enteramente indispensable, dispondrá el juez la continuación para el día siguiente, a más tardar. La violación de este precepto amerita corrección disciplinaria, que impondrá el superior, y será anotada en el expediente que a cada funcionario judicial corresponda.
-
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
-
-ART. 999.- Para cada asunto se formará un breve expediente con los documentos relativos a él y, en todo caso, con el acta de la audiencia, en la que muy sucintamente se relatarán los puntos principales y se asentará la sentencia, así como lo relativo a su ejecución. Bastará que las actas sean autorizadas por el juez y el secretario o los testigos de asistencia en su caso; pero los interesados tendrán el derecho de firmarlas también, pudiendo sacar copias de ellas, cuya exactitud certificará, el secretario previo cotejo, si así se pidiere. El condenado que estuviere presente firmará, en todo caso, el acta, a menos de no saber o estar físicamente impedido; si fuere posible se imprimirán sus huellas digitales.
-
-En los asuntos de menos de cincuenta pesos no se requiere ni la formación de expediente, bastando con asentar en el libro de gobierno el asunto de la demanda y la contestación que se diere, sucintamente relatada, y los puntos resolutivos de la sentencia con los preceptos legales que le sirvieron de fundamento.
-
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
-
-ART. 1000.- Los documentos y objetos presentados por las partes les serán devueltos al terminar la audiencia, tomándose razón.
-
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
-
-ART. 1001.- Para la facilidad y rapidez en el despacho, las citas, órdenes, actas y demás documentos necesarios, se extenderán en esqueletos impresos que tendrán los huecos que su objeto requiera, y los cuales se llenarán haciendo constar, en breve extracto, lo indispensable para la exactitud y precisión del documento. Cuando por motivos especiales fuere necesario hacer constar más de lo que cupiere en el hueco correspondiente, se escribirá al reverso del documento, o en hojas que se agregarán a él. El Presidente del Supremo Tribunal de Justicia fijará cada año, en el mes de diciembre, los modelos de los esqueletos que se hayan de emplear en el año siguiente, oyendo, al efecto, a los jueces de paz, a los que convocarán a las juntas que estimen necesarias, y cuidarán de la impresión y distribución de los esqueletos en cantidad necesaria.
-
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
-
-ART. 1002.- Los jueces de paz no son recusables; pero deben excusarse cuando estén impedidos y, en tal caso, el negocio pasará al otro juzgado de la misma municipalidad, si lo hubiere, y si no, al que corresponda en el número de municipalidad. Si los jueces impedidos no se excusaren, a queja de parte, el superior impondrá corrección disciplinaria y hará la anotación en el expediente del funcionario.
+ART. 1002.- (DEROGADO, P.O. 15 DE NOVIEMBRE DE 2014)
 
 ## ARTICULOS TRANSITORIOS
 
@@ -6892,3 +6850,17 @@ QUINTO.- Atendiendo a la estadística judicial, así como a los criterios de sel
 SEXTO.- En tanto se haga efectiva la entrada en vigor de la presente reforma en los partidos judiciales segundo y tercero, los procedimientos a que se refiere el artículo 428 BIS del presente decreto, continuarán tramitándose en la misma forma y términos como se vienen ventilando a la fecha.
 
 SÉPTIMO.- Una vez designado el juzgado que dejará de tramitar los procesos tradicionales para incorporarse a la materia oral familiar, la reasignación de los expedientes que conoce, se distribuirán de manera equitativa entre los cuatro juzgados tradicionales familiares restantes, los cuales culminarán con el juicio.
+
+P.O. 15 DE NOVIEMBRE DE 2014.
+
+DECRETO NO. 406, POR EL QUE SE APRUEBA REFORMAR LOS ARTÍCULOS 34, 141, 147, 155, 156, 162, 164, 165, 166, 167, 168, 188, 191, 672, 729, 957, 959, 960, 961 Y 962; Y DEROGAR LOS ARTÍCULOS 958 Y DEL 972 AL 1002; TODOS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial "El Estado de Colima.
+
+P.O. 15 DE NOVIEMBRE DE 2014.
+
+DECRETO NO. 407, POR EL QUE SE APRUEBA REFORMAR EL SEGUNDO PÁRRAFO DEL ARTÍCULO 122 Y LOS ARTÍCULOS 569, 571, 638, 738, 791, 806 Y 808; ASÍ COMO ADICIONAR UN CAPÍTULO V BIS AL TÍTULO SEGUNDO, CON LOS ARTÍCULOS 129 BIS 1, 129 BIS 2, 129 BIS 3, Y 129 BIS 4, TODOS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- El Poder Judicial del Estado contará con 180 días para realizar las acciones necesarias que puedan permitir la publicación de edictos digitales, mientras tanto se continuarán haciendo a través de los periódicos de mayor circulación en la Entidad, o como así lo señale cada caso en específico.
