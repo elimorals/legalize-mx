@@ -4,7 +4,7 @@ identifier: "COL-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-9643
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-26"
-last_updated: "2014-07-12"
+last_updated: "2014-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 26 de octubre de 2013.
 
@@ -247,11 +247,17 @@ III. El directorio de servidores públicos, desde el nivel de jefe de departamen
 
 IV. La remuneración mensual bruta y neta por puesto, que incluya los niveles que se otorgan a todos los servidores públicos que presten sus servicios por sueldos o por honorarios, incluyendo todas las prestaciones, remuneraciones y sistemas de compensación, así como cualquier otro ingreso que perciban por el desempeño de sus funciones;
 
-V. El perfil de los puestos de los servidores públicos a su servicio;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2014)</small>
 
-VI. Una lista con el importe erogado por concepto de gastos de representación, con motivo de su encargo o comisión;
+V. El perfil de los puestos de los servidores públicos a su servicio y el currículum de quienes ocupan esos puestos, siempre que se cuente con el consentimiento del interesado, por tratarse de datos personales;
 
-VII. El presupuesto de egresos del ejercicio vigente y cuando menos el correspondiente a 3 años anteriores;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+VI. Una lista con el importe erogado por concepto de viáticos y gastos de representación con motivo de su encargo o comisión.
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+VII. Para el ejercicio vigente y cuando menos al correspondiente a 3 ejercicios fiscales anteriores, la relativa al presupuesto de egresos asignado en lo general y por programas, así como los informes trimestrales sobre su ejecución.
 
 VIII. Los planes estatal y municipales de desarrollo, así como los programas operativos anuales y sectoriales;
 
@@ -269,7 +275,9 @@ XIV. La calendarización de las reuniones públicas de los diversos consejos, ó
 
 XV. La conformación de las organizaciones ciudadanas que participan en la toma de decisiones de los sujetos obligados;
 
-XVI. Las convocatorias a concurso o licitación de obras, adquisiciones, arrendamientos, así como los procesos de toda adquisición de bienes y servicios;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+XVI. Las convocatorias a concurso o licitación de obras, adquisiciones, arrendamientos, así como los procesos, lineamientos y políticas en materia de adquisiciones de bienes y servicios;
 
 XVII. Los contratos o convenios que celebren;
 
@@ -291,11 +299,39 @@ XXV. El resultado en materia de los programas implementados para la protección 
 
 XXVI. Si resultan aplicables, los mecanismos de participación ciudadana con que cuenten;
 
-XXVII. La información completa y actualizada sobre sus indicadores de gestión; y
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2014)</small>
 
-XXVIII. Cualquier otra información que sea de utilidad o resulte relevante para el conocimiento y evaluación de las funciones y políticas públicas responsabilidad del sujeto obligado.
+XXVII. La información completa y actualizada sobre sus indicadores de gestión;
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+XXVIII. Una lista completa de los subsidios, las becas y los descuentos otorgados, así como el origen de esos recursos, sus beneficiarios y los montos otorgados; y
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+XXIX. Cualquier otra información que sea de utilidad o resulte relevante para el conocimiento y evaluación de las funciones y políticas públicas responsabilidad del sujeto obligado
 
 Los sujetos obligados deberán hacer mención expresa en su Página Web, respecto de las obligaciones de publicación que no les fueren aplicables, en razón de la naturaleza de sus actividades.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 13 Bis.
+
+Lo relacionado con los gastos de publicidad oficial, que deberá contener:
+
+I. Presupuesto aprobado por partida y ejercido;
+
+II. Contrato, monto y factura;
+
+III. Nombre de la campaña y objeto;
+
+IV. Fecha de inicio y fecha de término;
+
+V. Dependencia o dirección que la solicita;
+
+VI. Tipo de medio de comunicación; y
+
+VII. Padrón de proveedores.
 
 ###### Artículo 14.
 
@@ -313,15 +349,23 @@ V. Correo electrónico oficial, en su caso; y
 
 VI. Fotografía del servidor público, siempre que éste no manifieste por escrito su oposición a la publicación, y exceptuándose de este requisito quienes desempeñen funciones relacionadas con la seguridad pública o la procuración de justicia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 15.
 
-Será opcional para los sujetos obligados publicar en su integridad los convenios o contratos en que participen, o en su lugar un listado que considere como mínimo la inclusión de los siguientes datos:
+Es obligatorio publicar, además de los convenios o contratos en que participen los sujetos obligados, un listado que considere como mínimo la inclusión de los siguientes datos:
 
-I. La identificación precisa del contrato y, en su caso, vincularlo con la licitación o concurso que lo motivó;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2014)</small>
 
-II. El monto;
+I. La identificación precisa del contrato y, en su caso, vincularlo con la licitación, concurso o adjudicación directa que lo motivó o el oficio de excepción;
 
-III. Fecha de su celebración;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+II. El monto o valor total de la contratación;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+III. El número de contrato y fecha de su celebración;
 
 IV. Nombre o razón social del contratante, proveedor o persona física o moral con quien se hubiera realizado la contratación;
 
@@ -331,17 +375,31 @@ VI. Los mecanismos de participación ciudadana para vigilancia y supervisión de
 
 La publicación del listado mencionado en el presente artículo, no exime a los sujetos obligados de la obligación de proporcionar los documentos que se refieren en el presente artículo cuando les fueren solicitados y resulte procedente en términos de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 16.
 
-Tratándose del otorgamiento de concesiones, licencias, permisos y autorizaciones, la autoridad podrá optar por publicar los documentos correspondientes, con la salvaguarda de la información confidencial que pudiera incluirse en los mismos, o en su lugar llevar a cabo la publicación de los siguientes datos:
+Tratándose del otorgamiento de concesiones, licencias, permisos y autorizaciones, la autoridad que lo emitió está obligada a publicar los documentos correspondientes, con la salvaguarda de la información confidencial que pudiera incluirse en los mismos; así como un listado que contenga cuando menos los siguientes datos:
 
 I. Nombre o razón social del titular;
 
 II. Concepto u objeto de la concesión, licencia, permiso o autorización;
 
-III. Vigencia; y
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2014)</small>
 
-IV. Domicilio o ámbito en que tendrá aplicación el derecho que se derive del acto correspondiente.
+III. Vigencia;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+IV. Domicilio o ámbito en que tendrá aplicación el derecho que se derive del acto correspondiente;
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+V. El tipo, ya sea licencia, permiso, concesión o autorización; y
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+VI. Si el procedimiento involucra el aprovechamiento de bienes, servicios o recursos públicos.
 
 ###### Artículo 17.
 
@@ -441,7 +499,9 @@ XI. La transcripción de las versiones taquigráficas, estenográficas, magnetof
 
 Además de lo señalado en el artículo 13 de la presente Ley, los Ayuntamientos de la entidad deberán hacer pública en Internet la siguiente información:
 
-I. Las cantidades recibidas por concepto de multas, vinculándolas con los ámbitos o materias de donde emanan;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+I. Las cantidades recibidas por conceptos de multas, vinculándolas con los ámbitos o materias de donde emanan y, el uso o aplicación que se les da;
 
 II. Los empréstitos y deudas que contraigan, así como los bienes que enajenen, en cualquier concepto;
 
@@ -455,7 +515,9 @@ VI. Los requisitos y trámites que deben satisfacerse para solicitar la atenció
 
 VII. Los anteproyectos de reglamentos y disposiciones administrativas de carácter general con anticipación a la fecha en que se pretendan publicar o someter a la consideración del Cabildo, salvo que su publicación pueda comprometer seriamente los efectos que se pretenda lograr o que se trate de situaciones de emergencia;
 
-VIII. La relación de los bienes inmuebles que sean de su propiedad o dominio;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+VIII. La información que muestre el estado que guarda su situación patrimonial, incluyendo la relación de los bienes muebles e inmuebles que sean de su propiedad o dominio, con los inventarios relacionados con altas y bajas en el patrimonio del municipio;
 
 IX. Los subsidios, apoyos y, en general, toda entrega de recursos que realicen a cualquier persona o grupo de éstas, debiendo especificar el fin al que pretendan destinarse;
 
@@ -489,7 +551,9 @@ VIII. La información que sea de utilidad o resulte relevante para el conocimien
 
 Además de lo señalado en el artículo 13 de esta Ley, el Instituto Electoral del Estado deberá hacer pública en Internet la siguiente información:
 
-I. Los informes que presenten los partidos y asociaciones políticas, particularmente los que versen sobre el monto, empleo y aplicación de los recursos públicos que hubieran recibido para el desarrollo de sus actividades;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+I. Los informes que presenten los partidos y asociaciones políticas, particularmente los que versen sobre el monto, empleo y aplicación de los recursos públicos y privados que hubieran recibido para el desarrollo de sus actividades;
 
 II. Los programas institucionales en materia de capacitación y fortalecimiento de los partidos y asociaciones políticas;
 
@@ -1714,3 +1778,9 @@ P.O. 12 DE JULIO DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 15 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+La presente Reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
