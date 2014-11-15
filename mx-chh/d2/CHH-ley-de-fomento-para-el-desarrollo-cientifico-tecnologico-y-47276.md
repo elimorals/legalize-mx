@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-fomento-para-el-desarrollo-cientifico-tecnologico-y-4727
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-26"
-last_updated: "2008-10-04"
+last_updated: "2014-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY DE FOMENTO PARA EL DESARROLLO CIENTIFICO, TECNOLOGICO Y LA INNOVACION EN EL ESTADO DE CHIHUAHUA
 
-LEY DE FOMENTO PARA EL DESARROLLO CIENTIFICO, TECNOLOGICO Y LA INNOVACION EN EL ESTADO DE CHIHUAHUA
+LEY DE FOMENTO PARA EL DESARROLLO CIENTÍFICO, TECNOLÓGICO Y LA INNOVACIÓN EN EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE IMPULSO AL CONOCIMIENTO, COMPETITIVIDAD E INNOVACIÓN TECNOLÓGICA PARA EL DESARROLLO DEL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. DE 15 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 26 de noviembre de 2005.
 
@@ -557,7 +559,7 @@ f) Promoción de programas y proyectos con enfoque y recursos federales, estatal
 
 g) Fortalecimiento de la cultura científica y tecnológica en la Entidad y el país;
 
-h) Descentralización y desarrollo regional; e (sic)
+h) Descentralización y desarrollo regional; e
 
 i) Seguimiento y evaluación.
 
@@ -569,7 +571,7 @@ b) Desarrollo social, salud, trabajo, educación, ecología, regulación sanitar
 
 c) Desarrollo económico, industrial, de energía, comercial y turístico;
 
-d) Desarrollo agropecuario, forestal, pesquero, alimentario y rural; e (sic)
+d) Desarrollo agropecuario, forestal, pesquero, alimentario y rural; e
 
 e) Desarrollo urbano, comunicaciones y transporte.
 
@@ -591,7 +593,7 @@ El Ejecutivo Estatal derivará del Plan Estatal de Desarrollo los instrumentos m
 
 Los instrumentos para fomentar deberán contener, cuando menos, los siguientes aspectos:
 
-I. La política general en ciencia, tecnología e innovación que identifique (sic) las áreas o sectores prioritarios para el Estado de Chihuahua;
+I. La política general en ciencia, tecnología e innovación que identifique las áreas o sectores prioritarios para el Estado de Chihuahua;
 
 II. Diagnósticos, políticas, estrategias y acciones en lo que respecta a:
 
@@ -601,7 +603,7 @@ b) Innovación y desarrollo tecnológico;
 
 c) Formación de investigadores, tecnólogos y profesionistas de alto nivel;
 
-d) Vinculación entre ciencia y tecnología y empresas; e (sic)
+d) Vinculación entre ciencia y tecnología y empresas; e
 
 e) Difusión del conocimiento científico y tecnológico.
 
@@ -737,7 +739,7 @@ EL SECRETARIO DE GOBIERNO
 
 LIC. FERNANDO RODRIGUEZ MORENO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 4 DE OCTUBRE DE 2008.
 
@@ -762,3 +764,37 @@ La Secretaría de Finanzas y Administración tomará las medidas presupuestales 
 ###### ARTÍCULO QUINTO.
 
 El Ejecutivo del Estado incluirá anualmente en las cuentas públicas respectivas, los estados financieros del COECyTeCH en los términos de las disposiciones aplicables.
+
+P.O. 15 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Fomento para el Desarrollo Científico, Tecnológico y la Innovación en el Estado de Chihuahua, publicada el 26 de noviembre del 2005, así como todas sus reformas.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley del Consejo Estatal de Ciencia, Tecnología e Innovación de Chihuahua, publicada el 4 de octubre del 2008, mediante la cual se crea el Organismo Público Descentralizado Consejo Estatal de Ciencia, Tecnología e Innovación de Chihuahua, así como todas sus reformas.
+
+###### ARTÍCULO CUARTO.
+
+En los términos de la Ley de Impulso al Conocimiento, Competitividad e Innovación Tecnológica para el Desarrollo del Estado de Chihuahua, particularmente lo que establece el artículo 24, demás relativos y aplicables, todos los recursos humanos, financieros, administrativos, presupuestales, unidades académicas o administrativas, así como los bienes muebles e inmuebles de la administración centralizada del Poder Ejecutivo del Estado que tengan por objeto el desarrollo científico, tecnológico y la innovación en la Entidad, serán transferidos al Instituto de Innovación y Competitividad, creado mediante el presente Decreto, dentro de los sesenta días naturales posteriores a su entrada en vigor, para lo cual se suscribirán las actas de entrega-recepción a que hubiera lugar.
+
+###### ARTÍCULO QUINTO.
+
+El Consejo General formulará y aprobará el Programa Estratégico dentro de los siguientes seis meses, contados a partir de la fecha de su instalación.
+
+###### ARTÍCULO SEXTO.
+
+En un plazo no mayor a noventa días hábiles a partir de la instalación de la Junta de Gobierno del Instituto, esta deberá aprobar, a propuesta del Director General de dicho Instituto, el Reglamento Interior del Instituto.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Ejecutivo del Estado deberá acompañar a la cuenta pública anual, los estados financieros del Instituto de Innovación y Competitividad.
+
+###### ARTÍCULO OCTAVO.
+
+Inscríbase el presente Decreto en el Registro Público de Organismos Descentralizados de la Secretaría de Hacienda.
