@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-consejo-estatal-de-ciencia-tecnologia-e-innovacion-6392
 country: "mx"
 rank: "ley"
 publication_date: "2008-10-04"
-last_updated: "2008-10-04"
+last_updated: "2014-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY DEL CONSEJO ESTATAL DE CIENCIA, TECNOLOGIA E INNOVACION DE CHIHUAHUA
 
-LEY DEL CONSEJO ESTATAL DE CIENCIA, TECNOLOGIA E INNOVACION DE CHIHUAHUA
+LEY DEL CONSEJO ESTATAL DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE IMPULSO AL CONOCIMIENTO, COMPETITIVIDAD E INNOVACIÓN TECNOLÓGICA PARA EL DESARROLLO DEL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. DE 15 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 4 de octubre de 2008.
 
@@ -89,7 +91,7 @@ A. Dos representantes del Sector Productivo.
 
 B. Dos representantes de Instituciones de Educación Superior y/o Centros de Investigación; y
 
-C. El representante del Consejo Nacional de Ciencia y Tecnología en el Estado; (sic)
+C. El representante del Consejo Nacional de Ciencia y Tecnología en el Estado;
 
 ###### Artículo 5.
 
@@ -121,7 +123,7 @@ VI.- Fijar y ajustar, en su caso, los precios de los bienes y servicios que prod
 
 VII.- Aprobar anualmente, previo informe del Comisario Público, los dictámenes de las auditorías practicadas, los estados financieros del COECyTeCH y autorizar la publicación de los mismos;
 
-VIIl.- Aprobar, de acuerdo con las leyes aplicables, las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que debe celebrar el COECyTeCH con terceros en obras públicas, adquisiciones, arrendamientos y prestaciones de servicios relacionados con bienes muebles e inmuebles;
+VIII.- Aprobar, de acuerdo con las leyes aplicables, las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que debe celebrar el COECyTeCH con terceros en obras públicas, adquisiciones, arrendamientos y prestaciones de servicios relacionados con bienes muebles e inmuebles;
 
 IX.- Autorizar el apoyo, fomento y promoción de los planes y programas que sean propuestos por el Director General del COECyTeCH, o por los Directores de las unidades que se establezcan en el Estado, para llevar a cabo las funciones de capacitación, especialización o actualización propios del COECyTeCH;
 
@@ -201,7 +203,7 @@ XVII.- Proponer al Presidente de la Junta Directiva la celebración de reuniones
 
 XVIII.- Solicitar la asesoría de organismos públicos o privados, cuyas funciones se relacionen con los objetivos del COECyTeCH, cuando lo estime conveniente;
 
-XIX.- Canalizar a la Unidad de Información y Acceso a la Información Pública del COECyTeCH, las solicitudes de información que le formulen los particulares, organismos públicos o privados, de acuerdo con Ley (sic) de Transparencia y Acceso a la Información Pública del Estado de Chihuahua; y
+XIX.- Canalizar a la Unidad de Información y Acceso a la Información Pública del COECyTeCH, las solicitudes de información que le formulen los particulares, organismos públicos o privados, de acuerdo con (sic) Ley de Transparencia y Acceso a la Información Pública del Estado de Chihuahua; y
 
 XX.- Las demás facultades y obligaciones establecidas en esta Ley, en la Ley de Fomento para el Desarrollo Científico, Tecnológico y la Innovación en el Estado; en el estatuto o reglamentos emitidos bajo las esferas competenciales respectivas, así como las previstas en la Ley de Entidades Paraestatales del Estado de Chihuahua.
 
@@ -376,3 +378,39 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los diecinueve días del mes de junio del año dos mil ocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JOSE REYES BAEZA TERRAZAS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. LIC. SERGIO GRANADAS PINEDA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Fomento para el Desarrollo Científico, Tecnológico y la Innovación en el Estado de Chihuahua, publicada el 26 de noviembre del 2005, así como todas sus reformas.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley del Consejo Estatal de Ciencia, Tecnología e Innovación de Chihuahua, publicada el 4 de octubre del 2008, mediante la cual se crea el Organismo Público Descentralizado Consejo Estatal de Ciencia, Tecnología e Innovación de Chihuahua, así como todas sus reformas.
+
+###### ARTÍCULO CUARTO.
+
+En los términos de la Ley de Impulso al Conocimiento, Competitividad e Innovación Tecnológica para el Desarrollo del Estado de Chihuahua, particularmente lo que establece el artículo 24, demás relativos y aplicables, todos los recursos humanos, financieros, administrativos, presupuestales, unidades académicas o administrativas, así como los bienes muebles e inmuebles de la administración centralizada del Poder Ejecutivo del Estado que tengan por objeto el desarrollo científico, tecnológico y la innovación en la Entidad, serán transferidos al Instituto de Innovación y Competitividad, creado mediante el presente Decreto, dentro de los sesenta días naturales posteriores a su entrada en vigor, para lo cual se suscribirán las actas de entrega-recepción a que hubiera lugar.
+
+###### ARTÍCULO QUINTO.
+
+El Consejo General formulará y aprobará el Programa Estratégico dentro de los siguientes seis meses, contados a partir de la fecha de su instalación.
+
+###### ARTÍCULO SEXTO.
+
+En un plazo no mayor a noventa días hábiles a partir de la instalación de la Junta de Gobierno del Instituto, esta deberá aprobar, a propuesta del Director General de dicho Instituto, el Reglamento Interior del Instituto.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Ejecutivo del Estado deberá acompañar a la cuenta pública anual, los estados financieros del Instituto de Innovación y Competitividad.
+
+###### ARTÍCULO OCTAVO.
+
+Inscríbase el presente Decreto en el Registro Público de Organismos Descentralizados de la Secretaría de Hacienda.
