@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ejecucion-de-penas-y-medidas-judiciales-antes-ley-de-529
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-09"
-last_updated: "2014-03-29"
+last_updated: "2014-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 LEY DE EJECUCIÓN DE PENAS Y MEDIDAS JUDICIALES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2014.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 29 DE MARZO DE 2014 NO APLICA AL ARTICULADO DE LA LEY DE EJECUCIÓN DE PENAS Y MEDIDAS JUDICIALES ANTES LEY DE EJECUCIÓN DE PENAS Y MEDIDAS DE SEGURIDAD DEL ESTADO DE CHIHUAHUA.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 9 de diciembre de 2006.
 
@@ -231,7 +229,7 @@ VII.- (DEROGADA, P.O. 7 DE MAYO DE 2011)
 
 VIII.- Resolver las peticiones o quejas que los internos formulen en relación con el régimen y el tratamiento penitenciario, en cuanto afecten sus derechos y beneficios;
 
-IX.- Atender los reclamos que formulen los internos sobre sanciones disciplinarias, previo informe de la autoridad responsable y formular a esta última, en su caso, las recomendaciones que estime convenientes; y (sic)
+IX.- Atender los reclamos que formulen los internos sobre sanciones disciplinarias, previo informe de la autoridad responsable y formular a esta última, en su caso, las recomendaciones que estime convenientes; y
 
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2011)</small>
 
@@ -1173,7 +1171,7 @@ V.- Si existió condena a la reparación del daño, que haya sido cubierta.
 
 VI.- No estar sujeto a otro proceso penal en el que se haya decretado medida cautelar de prisión preventiva.
 
-VII.- Ser primodelicuente (sic).
+VII.- Ser primodelicuente.
 
 > <small>(ADICIONADO, P.O. 7 DE MAYO DE 2011)</small>
 
@@ -1709,9 +1707,9 @@ En caso de hacerse efectiva la pena de prisión sustituida, se tomará en cuenta
 
 Artículo 104 bis. Restricciones a los beneficios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
 
-El reo que haya sido sentenciado, aun en grado de tentativa por el delito de robo en los supuestos contemplados en las fracciones I, II o III del artículo 212 del Código Penal; extorsión, violación u homicidio doloso, salvo que se trate en riña; así como por homicidio o lesiones imprudenciales contempladas en los artículos 138, segundo párrafo, 139 o 140 del Código Penal, no le será aplicable ninguno de los siguientes beneficios:
+El reo que haya sido sentenciado, aun en grado de tentativa por el delito de robo en los supuestos contemplados en las fracciones I, II o III del artículo 212 del Código Penal; tortura, extorsión, violación u homicidio doloso, salvo que se trate en riña; así como por homicidio o lesiones imprudenciales contempladas en los artículos 138, segundo párrafo, 139 o 140 del Código Penal, no le será aplicable ninguno de los siguientes beneficios:
 
 I. Modalidad de la pena de prisión, tales como:
 
@@ -1949,7 +1947,7 @@ III. Remoción de administradores.- Para hacer la designación, la autoridad jud
 
 Cuando concluya el período previsto para la administración sustituta, la designación de los nuevos administradores se hará en la forma ordinaria prevista por las normas aplicables a estos actos.
 
-IV. Intervención.- Se ejercerá con las atribuciones que la ley confiere al interventor, (sic)
+IV. Intervención.- Se ejercerá con las atribuciones que la ley confiere al interventor,
 
 Al imponer las consecuencias Jurídicas, la autoridad judicial tomará las medidas pertinentes para dejar a salvo los derechos de los trabajadores y terceros frente a la persona Jurídica colectiva, así como aquellos otros derechos que sean exigibles frente a otras personas, derivados de actos celebrados con la persona moral sancionada.
 
@@ -2876,3 +2874,13 @@ El presente Decreto entrará en vigor a los ciento ochenta días contados a part
 ###### ARTÍCULO SEGUNDO.
 
 La Fiscalía General del Estado, contará con un plazo de ciento ochenta días contados a partir del día siguiente de la publicación del presente Decreto en el Periódico Oficial del Estado, para consolidar su organización jurídica, técnica y administrativa, a efecto de estar en aptitud de cumplir con los fines del presente Decreto y constituir el Consejo de Patronos del Patronato de Ayuda para la Reinserción Social, según lo establecido en su Acuerdo de creación.
+
+P.O. 15 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto, en materia del delito de tortura, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
