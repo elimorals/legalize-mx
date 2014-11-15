@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2014-08-23"
+last_updated: "2014-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2014.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -805,7 +805,7 @@ ART. 40.- Cuando en cualquiera de sus formas, ya sea física o electrónicamente
 
 ART. 41.- Todos los libros físicos o electrónicos del Registro Civil serán visados en su primera y última hoja por el Director General del Registro Civil, y autorizados por el mismo con su rúbrica o firma electrónica certificada, según sea el caso, en todas las demás se renovarán cada año, y un ejemplar quedará en el archivo físico y electrónico del Registro Civil, así como los documentos físicos y electrónicos que le correspondan remitiéndose el otro ejemplar, en el transcurso del primer mes del año siguiente, a la Secretaría General de Gobierno del Estado. Sin perjuicio de lo establecido en el artículo anterior.
 
-Los registros realizados en forma electrónica deberán ser autorizados con la firma electrónica certificada del funcionario y deberán ser certificados anualmente por la Dirección General para la Innovación Gubernamental, dependiente de la Secretaria de Administración del Ejecutivo Estatal.
+Los registros realizados en forma electrónica deberán ser autorizados con la firma electrónica certificada del funcionario y deberán ser certificados anualmente por la Dirección General para la Innovación Gubernamental, dependiente de la Secretaría de Administración del Ejecutivo Estatal.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
@@ -1083,7 +1083,7 @@ Si de acuerdo con lo dispuesto en el artículo 185 del presente ordenamiento fue
 
 > <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2013)</small>
 
-VI.- Copia del acta de defunción del cónyuge fallecido firmada en forma autógrafa o con la firma electrónica certificada si alguno de los contrayentes es viudo, o de la parte resolutiva de la sentencia de divorcio o de nulidad de la relación conyugal, en caso de que alguno de los pretendientes se hubiese unido en alguna relación conyugal a que se refiere el artículo139 (sic) de este Código;
+VI.- Copia del acta de defunción del cónyuge fallecido firmada en forma autógrafa o con la firma electrónica certificada si alguno de los contrayentes es viudo, o de la parte resolutiva de la sentencia de divorcio o de nulidad de la relación conyugal, en caso de que alguno de los pretendientes se hubiese unido en alguna relación conyugal a que se refiere el artículo139 de este Código;
 
 > <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
 
@@ -1763,7 +1763,7 @@ ART. 215.- Los bienes que los cónyuges adquieran en común por donación, heren
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
 
-ART. 216.- Ninguno de los cónyuges podrá cobrarse entre sí, alguna retribución u honorario por alguno por los (sic) servicios personales que le prestare, o por los consejos y asistencia que le diere; pero si uno de los consortes, por causa de ausencia o impedimento del otro, no originado por enfermedad, se encargare temporalmente de la administración de sus bienes, tendrá derecho a que se le retribuya por este servicio, en proporción a su importancia y al resultado que produjere.
+ART. 216.- Ninguno de los cónyuges podrá cobrarse entre sí, alguna retribución u honorario por alguno por (sic) los servicios personales que le prestare, o por los consejos y asistencia que le diere; pero si uno de los consortes, por causa de ausencia o impedimento del otro, no originado por enfermedad, se encargare temporalmente de la administración de sus bienes, tendrá derecho a que se le retribuya por este servicio, en proporción a su importancia y al resultado que produjere.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
 
@@ -2013,7 +2013,7 @@ V.- Los actos ejecutados por alguno de los cónyuges a fin de corromper a los hi
 
 > <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2013)</small>
 
-VI.- Padecer uno los (sic) cónyuges cualquier enfermedad incurable, que sea además, contagiosa o hereditaria y la impotencia sexual incurable que sobrevenga después de celebrado (sic) la relación conyugal, exceptuando la que tenga su origen en la edad avanzada;
+VI.- Padecer uno (sic) los cónyuges cualquier enfermedad incurable, que sea además, contagiosa o hereditaria y la impotencia sexual incurable que sobrevenga después de celebrado (sic) la relación conyugal, exceptuando la que tenga su origen en la edad avanzada;
 
 > <small>(REFORMADA, P.O. 29 DE MARZO DE 2003)</small>
 
@@ -2685,6 +2685,18 @@ ART. 416 BIS.- A efecto de que el menor sea adecuadamente escuchado independient
 
 ART. 417.- Los que ejercen la patria potestad, aún cuando no tengan el cuidado del menor, tienen el derecho de convivencia con sus descendientes, salvo que exista peligro para éstos. En caso de oposición, el juez de lo familiar resolverá lo conducente.
 
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+Sólo por mandato judicial podrá limitarse, suspenderse o perderse el derecho de convivencia a que se refiere el párrafo anterior, así como en los casos de suspensión o pérdida de la patria potestad, conforme a las modalidades que para su ejercicio se establezca en el convenio o resolución judicial, respectivamente.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+En cualquier momento en que se presente alienación parental por parte de alguno de los progenitores hacia los hijos, el Juez, de oficio ordenará las medidas terapéuticas necesarias para los menores hijos, con la finalidad de restablecer la sana convivencia con ambos progenitores; teniendo éstos la obligación de colaborar en el cumplimiento de las medidas que al efecto se ordenen.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+Con motivo de lo dispuesto en (sic) párrafo anterior, en caso de incumplimiento a las medidas dictadas por el Juez, éste podrá hacer uso de las medidas de apremio que establezca el Código de Procedimientos Civiles del Estado, con la facultad en caso de ser necesario, de decretar la suspensión de la custodia o convivencia previamente establecidas.
+
 ART. 418.- (DEROGADO, P.O. 25 DE MARZO DE 2000)
 
 ART. 419.- La patria potestad sobre el hijo adoptivo, la ejercerán únicamente las personas que lo adopten.
@@ -2999,7 +3011,7 @@ ART. 410 L.- La adopción será decretada cuando presente reales ventajas para e
 
 > <small>(ADICIONADO, P.O. 18 DE JULIO DE 2009)</small>
 
-ART. 410 LL.- La adopción plena es irrevocable. No puede terminar por acuerdo entre las partes, pero puede demandarse la pérdida de la patria potestad por las mismas causales que en !a filiación biológica, o pedirse su nulidad cuando los padres adoptivos hayan ocultado de mala fe que el adoptado fue víctima de cualquier delito contra la libertad personal, y que por consecuencia no había sido abandonado.
+ART. 410 LL.- La adopción plena es irrevocable. No puede terminar por acuerdo entre las partes, pero puede demandarse la pérdida de la patria potestad por las mismas causales que en la filiación biológica, o pedirse su nulidad cuando los padres adoptivos hayan ocultado de mala fe que el adoptado fue víctima de cualquier delito contra la libertad personal, y que por consecuencia no había sido abandonado.
 
 > <small>(ADICIONADO, P.O. 18 DE JULIO DE 2009)</small>
 
@@ -4001,7 +4013,9 @@ ART. 647.- El mayor de edad dispone libremente de su persona y de de (sic) sus b
 
 ART. 648.- El que se hubiere ausentado del lugar de su residencia ordinaria y tuviere apoderado constituido antes o después de su partida, se tendrá como presente para todos los efectos civiles y sus negocios se podrán tratar con el apoderado hasta donde alcance el poder.
 
-ART. 649.- Cuando una persona haya desaparecido y se ignore el lugar donde se halle y quien la represente, el juez, a petición de parte o de oficio, nombrará a un depositario de sus bienes, la citará por edictos publicados en los principales periódicos de su último domicilio, señalándole para que se presente en un término que no bajará de tres meses ni pasará de seis, y dictará las providencias necesarias para asegurar los bienes.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+ART. 649.- Cuando una persona haya desaparecido y se ignore el lugar donde se halle y quien la represente, el Juez, a petición de parte o de oficio, nombrará a un depositario de sus bienes, la citará por edictos publicados en forma electrónica por noventa días naturales en el sitio virtual de internet destinado para ello, así como en las cabeceras de los partidos judiciales de la entidad en los términos indicados para los edictos electrónicos en el Código de Procedimientos Civiles para el Estado de Colima, señalándole para que se presente en un término que no bajará de tres meses ni pasará de seis, y dictará las providencias necesarias para asegurar los bienes.
 
 ART. 650.- Al publicarse los edictos remitirá copia a los cónsules mexicanos de aquéllos lugares del extranjero en que se pueda presumir que se encuentra el ausente o que se tengan noticias del él.
 
@@ -4059,7 +4073,9 @@ IV.- Con la posesión provisional.
 
 ART. 666.- Cada año, en el día que corresponda a aquél en que hubiere sido nombrado el representante, se publicarán nuevos edictos llamando al ausente. En ellos constarán el nombre y domicilio del representante, y el tiempo que falta para que se cumpla el plazo que señalan los artículos 669 y 670 en su caso.
 
-ART. 667.- Los edictos se publicarán por dos meses, con intervalo de quince días, en los principales periódicos del último domicilio del ausente y se remitirán a los cónsules, como previene el artículo 650.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+ART. 667.- Los edictos se publicarán de manera electrónica por dos meses, en el sitio electrónico autorizado y se remitirán por escrito a los cónsules, como previene el artículo 650.
 
 ART. 668.- El representante está obligado a promover la publicación de los edictos. La falta de cumplimiento de esa obligación hace responsable al representante de los daños y perjuicios que se sigan al ausente, y es causa legítima de remoción.
 
@@ -4087,13 +4103,17 @@ III.- Los que tengan algún derecho u obligación que dependa de la vida, muerte
 
 IV.- El Ministerio Público.
 
-ART. 674.- Si el juez encuentra fundada la demanda, dispondrá que se publique durante tres meses, con intervalos de quince días, en el periódico oficial que corresponda, y en los principales del último domicilio del ausente, y la remitirá a los cónsules conforme al artículo 650.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+ART. 674.- Si el Juez encuentra fundada la demanda, dispondrá que se publique de manera electrónica durante noventa días naturales en el sitio virtual de internet destinado para ello, así como en las cabeceras de los partidos judiciales del Estado en los términos indicados para los edictos electrónicos en el Código de Procedimientos Civiles para el Estado de Colima, y la remitirá a los cónsules conforme al artículo 650.
 
 ART. 675.- Pasados cuatro meses desde la fecha de la última publicación, si no hubiere noticias del ausente ni oposición de algún interesado, el juez declarará en forma la ausencia.
 
 ART. 676.- Si hubiere algunas noticias u oposición el juez no declarará la ausencia sin repetir las publicaciones que establece el artículo 674, y hacer la averiguación por los medios que el oponente proponga y por los que el mismo juez crea oportunos.
 
-ART. 677.- La declaración de ausencia se publicará tres veces en los periódicos mencionados con intervalo de quince días, remitiéndose a los cónsules, como está prevenido respecto de los edictos. Ambas publicaciones se repetirán cada dos años, hasta que se declare la presunción de muerte.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+
+ART. 677.- La declaración de ausencia se publicará de manera electrónica durante cuarenta y cinco días naturales en el sitio virtual de internet destinado para ello, así como en las cabeceras de los partidos judiciales del Estado en los términos indicados para los edictos electrónicos en el Código de Procedimientos Civiles para el Estado de Colima, remitiéndose a los cónsules, como está prevenido respecto de los edictos. Ambas publicaciones se repetirán cada dos años, hasta que se declare la presunción de muerte.
 
 ART. 678.- El fallo que se pronuncie en el juicio de declaración de ausencia, tendrá los recursos que el Código de Procedimientos asigne para los negocios de mayor interés.
 
@@ -10077,7 +10097,7 @@ ART. 2658.- El que hubiere firmado una obligación que en realidad tenía por ca
 
 ART. 2659.- Si a una obligación de juego o apuesta prohibidos se le hubiere dado la forma de título o la orden al portador, el suscriptor debe pagarla al portador de buena fe, pero tendrá el derecho que le concede el artículo 2,654.
 
-ART. 2660.- Cuando las personas se sirvieren del medio de la suerte, no como apuestas o juego, sino para dividir cosas comunes o terminar cuestiones, producirá, en el primer caso, los efectos de una participación (sic) legítima, y en el segundo, los de una transacción.
+ART. 2660.- Cuando las personas se sirvieren del medio de la suerte, no como apuestas o juego, sino para dividir cosas comunes o terminar cuestiones, producirá, en el primer caso, los efectos de una participación legítima, y en el segundo, los de una transacción.
 
 ART. 2661.- Las loterías o rifas, cuando se permitan, serán regidas, las primeras, por las leyes especiales que las autoricen, y las segundas, por los reglamentos de policía.
 
@@ -10443,7 +10463,7 @@ ART. 2783.- Los bienes hipotecados quedan sujetos al gravamen impuesto, aunque p
 
 ART. 2784.- La hipoteca sólo puede recaer sobre bienes especialmente determinados.
 
-ART. 2785.- La hipoteca se extiende (sic) aunque no se exprese:
+ART. 2785.- La hipoteca se extiende aunque no se exprese:
 
 I.- A las accesiones naturales del bien hipotecado;
 
@@ -10677,7 +10697,7 @@ ART. 2848.- En las transacciones sólo hay lugar a la evicción cuando en virtud
 
 ART. 2849.- Cuando la cosa dada tiene vicios o gravámenes ignorados del que la recibió, ha lugar a pedir la diferencia que resulte del vicio o gravamen, en los mismos términos que respecto de la cosa vendida.
 
-ART. 2850.- Por la transacción no se transmiten, sino que se declaran o reconocen los derechos que son el objeto de las diferencias sobre que ella recae (sic).
+ART. 2850.- Por la transacción no se transmiten, sino que se declaran o reconocen los derechos que son el objeto de las diferencias sobre que ella recae.
 
 La declaración o reconocimiento de esos derechos no obliga al que lo hace, a garantizarlos, ni le impone responsabilidad alguna en caso de evicción, ni importa un título propio en que fundar la prescripción.
 
@@ -11364,3 +11384,9 @@ QUINTO.- Atendiendo a la estadística judicial, así como a los criterios de sel
 SEXTO.- En tanto se haga efectiva la entrada en vigor de la presente reforma en los partidos judiciales segundo y tercero, los procedimientos a que se refiere el artículo 428 BIS del presente decreto, continuarán tramitándose en la misma forma y términos como se vienen ventilando a la fecha.
 
 SÉPTIMO.- Una vez designado el juzgado que dejará de tramitar los procesos tradicionales para incorporarse a la materia oral familiar, la reasignación de los expedientes que conoce, se distribuirán de manera equitativa entre los cuatro juzgados tradicionales familiares restantes, los cuales culminarán con el juicio.
+
+P.O. 15 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El Poder Judicial del Estado contará con 180 días para realizar las acciones necesarias que puedan permitir la publicación de edictos digitales, mientras tanto se continuarán haciendo a través de los periódicos de mayor circulación en la Entidad, o como así lo señale cada caso en específico.
