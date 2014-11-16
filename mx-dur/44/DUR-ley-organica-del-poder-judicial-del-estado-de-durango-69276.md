@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-poder-judicial-del-estado-de-durango-69276"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-02"
-last_updated: "2014-07-17"
+last_updated: "2014-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 2 de julio de 2009.
 
@@ -235,7 +235,7 @@ El Pleno del Tribunal Superior de Justicia está facultado para expedir los regl
 
 #### SECCIÓN SEGUNDA. DE SUS ATRIBUCIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 9.
 
@@ -243,11 +243,9 @@ Además de las facultades y obligaciones que expresamente le confiere el artícu
 
 I. Vigilar que la impartición de justicia se realice de manera pronta, completa, imparcial y gratuita, emitiendo los acuerdos y circulares que para tal efecto se requieran;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2012)</small>
-
-II. Elegir a su Presidente en términos del artículo 95 de la Constitución Política del Estado Libre y Soberano de Durango y del artículo 10 de esta Ley, quien también presidirá el Consejo de la Judicatura. La elección tendrá verificativo el quince de septiembre del año respectivo. En la propia sesión se designará un vicepresidente;
+II. Elegir a su Presidente en términos del artículo 109 de la Constitución Política del Estado Libre y Soberano de Durango y del artículo 10 de esta Ley, quien también presidirá el Consejo de la Judicatura. La elección tendrá verificativo el quince de septiembre del año respectivo. En la propia sesión se designará un vicepresidente;
 
 III. Señalar la adscripción de los magistrados para la integración de cada una de las salas unitarias y colegiadas, asignándoles la numeración ordinal que habrá de corresponderles en el ejercicio de su responsabilidad y la especialidad de las mismas, a propuesta del Presidente. Esta integración se verificará en sesión extraordinaria que habrá de realizarse inmediatamente después de que se rinda protesta de ley en el caso de nueva designación de magistrados; o en otro tiempo cuando las necesidades del servicio lo requieran;
 
@@ -269,7 +267,9 @@ XI. Verificar semanalmente el turno de los asuntos que corresponda conocer a las
 
 XII. Decidir, como única instancia, los asuntos administrativos que no sean de la competencia específica de órganos o dependencias del Poder Judicial del Estado;
 
-XIII. Ejercer la facultad de atracción para efectos de atender las imprevisiones a que alude la fracción V del artículo 96 de la Constitución Política del Estado Libre y Soberano de Durango;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+XIII. Ejercer la facultad de atracción para efectos de atender las imprevisiones a que alude la fracción I del artículo 112 de la Constitución Política del Estado Libre y Soberano de Durango;
 
 XIV. Conocer del registro que lleve el Secretario en el libro correspondiente de los títulos de los profesionales del derecho;
 
@@ -337,7 +337,7 @@ XLI. Las demás que le confiera esta ley, las leyes especiales u otras disposici
 
 ###### ARTÍCULO 10.
 
-El Tribunal Superior de Justicia tendrá un Presidente, que será electo cada seis años por unanimidad o por mayoría de votos de sus miembros, en votación secreta y podrá ser reelecto.En (sic) su elección sólo se tomará en cuenta los méritos que en la administración de justicia o en el ejercicio de la actividad jurídica posean sus integrantes.
+El Tribunal Superior de Justicia tendrá un Presidente, que será electo cada seis años por unanimidad o por mayoría de votos de sus miembros, en votación secreta y podrá ser reelecto.En su elección sólo se tomará en cuenta los méritos que en la administración de justicia o en el ejercicio de la actividad jurídica posean sus integrantes.
 
 El Magistrado Presidente no integrará sala y sus actividades se dirigirán a vigilar el estricto cumplimiento de los acuerdos y las determinaciones del Pleno del Tribunal Superior de Justicia, a representar al Poder Judicial del Estado, a presidir el Consejo de la Judicatura y a cuidar de la administración de justicia, conforme a las facultades y obligaciones que le fijen las leyes.
 
@@ -371,7 +371,9 @@ VIII. Legalizar la firma de los servidores públicos del Poder Judicial del Esta
 
 IX. Comunicar al titular del Poder Ejecutivo y al Congreso del Estado, las ausencias de los magistrados que deban ser suplidas mediante la designación respectiva;
 
-X. Rendir ante el Pleno del Tribunal Superior de Justicia, durante la primera quincena del mes de septiembre de cada año, el informe a que se refiere el artículo 95 de la Constitución Política del Estado libre y Soberano de Durango. Este informe tendrá como referentes obligados, el Plan Trianual de Desarrollo Estratégico y los programas anuales de trabajo;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+X. Rendir ante el Pleno del Tribunal Superior de Justicia, durante el mes de agosto de cada año, el informe a que se refiere el artículo 167 de la Constitución Política del Estado Libre y Soberano de Durango. Este informe tendrá como referentes obligados, el Plan Trianual de Desarrollo Estratégico y los programas anuales de trabajo;
 
 XI. Proponer al Pleno del Tribunal Superior de Justicia el nombramiento y remoción del Secretario General del propio Tribunal;
 
@@ -669,9 +671,11 @@ Las decisiones del Consejo de la Judicatura en materia de designación, readscri
 
 Los jueces municipales serán designados por el Consejo de la Judicatura, en los términos que señalan la Constitución Política del Estado Libre y Soberano de Durango y la presente ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 36.
 
-Para ser Juez de Primera Instancia y Juez municipal, se deben cumplir los requisitos establecidos en el artículo 99 de la Constitución Política del Estado Libre y Soberano de Durango.
+Para ser Juez de Primera Instancia y Juez municipal, se deben cumplir los requisitos establecidos en el artículo 122 de la Constitución Política del Estado Libre y Soberano de Durango.
 
 No podrá ser Juez quien haya sido destituido de ese cargo o de algún otro dentro del Poder Judicial federal o estatal, tampoco podrá ser nombrado, dentro de un periodo de diez años siguientes a su separación, el Juez que habiéndose separado voluntariamente haya cobrado su haber por retiro.
 
@@ -741,7 +745,9 @@ XVIII. Las demás que las leyes le señalen o le sean delegadas por los órganos
 
 En materia penal, los jueces y magistrados podrán actuar sin asistencia de secretarios o testigos de asistencia, y en ese caso, ellos tendrán fe pública para certificar el contenido de los actos que realicen y de las resoluciones que dicten, incluso cuando tales actos consten en registros informáticos, de audio, video o se transcriban por escrito.
 
-Los jueces cuando lo estimen necesario, en el ejercicio de sus funciones, requerirán el auxilio de la fuerza pública, motivando la necesidad de la medida para los efectos del último párrafo del artículo 2 de esta ley; y si no lo obtuviere o no fuere suficiente, lo solicitarán en términos del artículo 70 fracción X de la Constitución Política del Estado Libre y Soberano de Durango, por conducto del Pleno del Tribunal Superior de Justicia.
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+Los jueces cuando lo estimen necesario, en el ejercicio de sus funciones, requerirán el auxilio de la fuerza pública, motivando la necesidad de la medida para los efectos del último párrafo del artículo 2 de esta ley; y si no lo obtuviere o no fuere suficiente, lo solicitarán en términos del artículo 98 fracción XXIX de la Constitución Política del Estado Libre y Soberano de Durango, por conducto del Pleno del Tribunal Superior de Justicia.
 
 ### CAPÍTULO II. DE LOS JUZGADOS
 
@@ -971,7 +977,7 @@ IV. De los delitos contra la salud a que se refieren los artículos 475 y 476 de
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
-Artículo 55 A. El Tribunal Laboral Burocrático será uniinstancial, se integrará por tres jueces que serán designados por el Consejo de la Judicatura, en términos de lo dispuesto en los artículos 121 de la Constitución Política del Estado y 35 de esta Ley.
+Artículo 55 A. El Tribunal Laboral Burocrático será uniinstancial (sic), se integrará por tres jueces que serán designados por el Consejo de la Judicatura, en términos de lo dispuesto en los artículos 121 de la Constitución Política del Estado y 35 de esta Ley.
 
 Agotado el procedimiento de selección de los jueces del Tribual Laboral Burocrático, previo al nombramiento, el Consejo de la Judicatura escuchará la opinión de los poderes ejecutivo, legislativo así como a los representantes de los trabajadores.
 
@@ -1163,9 +1169,11 @@ Dos serán jueces de Primera Instancia, nombrados de las respectivas ternas que 
 
 Cuando sea el caso, el Pleno del Tribunal Superior de Justicia procederá a designar al Consejero que corresponda, quien rendirá protesta ante el propio Pleno.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 73.
 
-Los consejeros designados deberán reunir los requisitos señalados en el artículo 99 de la Constitución Política del Estado Libre y Soberano de Durango y sólo podrán ser removidos en los términos del Título Quinto de la misma.
+Los consejeros designados deberán reunir los requisitos señalados en el artículo 122 de la Constitución Política del Estado Libre y Soberano de Durango y sólo podrán ser removidos en los términos del Título Séptimo de la misma.
 
 Los jueces nombrados consejeros, gozarán de licencia por el plazo que funjan en el desempeño de esta responsabilidad. En la licencia que se otorgue a los jueces respectivos, deberá garantizarse el cargo y su correspondiente readscripción al fenecer su responsabilidad de Consejero.
 
@@ -1173,7 +1181,9 @@ Salvo su Presidente, los consejeros durarán en su encargo cuatro años. No podr
 
 En caso de renuncia o remoción de algún miembro, sin considerar al Presidente, será sustituido mediante nuevo nombramiento en términos de la Constitución Política del Estado Libre y Soberano de Durango y de esta ley, sólo por el tiempo que falte para completar el periodo de su asignación.
 
-Cuando un Consejero durante su ejercicio no pueda continuar en el desempeño del cargo por causa diversa a la de responsabilidad, tendrá derecho, en su caso, a regresar al cargo de Juez, en términos del artículo 102 de la Constitución Política del Estado Libre y Soberano de Durango.
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+Cuando un Consejero durante su ejercicio no pueda continuar en el desempeño del cargo por causa diversa a la de responsabilidad, tendrá derecho, en su caso, a regresar al cargo de Juez, en términos del artículo 125 de la Constitución Política del Estado Libre y Soberano de Durango.
 
 ###### ARTÍCULO 74.
 
@@ -1267,17 +1277,17 @@ V. Fijar las bases, convocar y realizar el procedimiento para que su Presidente 
 
 VI. Proponer, para su aprobación, al Pleno del Tribunal Superior de Justicia, el número de juzgados, su especialización, ubicación y los límites geográficos de los distritos judiciales en que se divida el territorio del Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
-
-VII. Nombrar a los jueces y resolver sobre su ratificación, adscripción o remoción, de conformidad con lo dispuesto por los artículos 97 inciso B y 98 de la Constitución Política del Estado Libre y Soberano de Durango;
+VII. Nombrar a los jueces y resolver sobre su ratificación, adscripción o remoción, de conformidad con lo dispuesto por los artículos 117, 121 y 123 de la Constitución Política del Estado Libre y Soberano de Durango;
 
 VIII. Evaluar el desempeño y, en su caso, nombrar al personal jurídico de los juzgados, conforme a las reglas de la carrera judicial;
 
 IX. Acordar las renuncias que presenten los jueces;
 
-X. Tomar las medidas necesarias relacionadas con la separación de los jueces, en los casos de la declaración de procedencia a que se refiere el artículo 119 de la Constitución Política del Estado Libre y Soberano de Durango;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+X. Tomar las medidas necesarias relacionadas con la separación de los jueces, en los casos de la declaración de procedencia a que se refiere el artículo 176 de la Constitución Política del Estado Libre y Soberano de Durango;
 
 XI. Resolver sobre las quejas administrativas y los procedimientos de oficio, sobre responsabilidad de los servidores públicos del Poder Judicial del Estado, en los términos de lo que disponga la ley, con excepción de los magistrados del Tribunal Superior de Justicia;
 
@@ -1289,7 +1299,9 @@ XIII. Dictar las bases generales de organización y funcionamiento de los órgan
 
 XIV. Nombrar, a propuesta de su Presidente, a los titulares del Secretariado Ejecutivo y de sus órganos auxiliares, así como a los servidores públicos de los mismos, al personal interino, de confianza, supernumerario, de base sindicalizado y de base no sindicalizado que labore en los órganos jurisdiccionales y administrativos, excepto secretarios y actuarios del Tribunal Superior de Justicia del Estado, así como acordar lo relativo a sus licencias y renuncias; removerlos por causa justificada o suspenderlos en los términos que determinen las leyes y los acuerdos correspondientes, y formular denuncias o querellas en los casos que proceda;
 
-XV. Emitir las bases, mediante la expedición de acuerdos generales, para las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obras que realice el Poder Judicial del Estado, en ejercicio de sus partidas presupuestales, ajustándose a los criterios contemplados en el artículo 127 de la Constitución Política del Estado Libre y Soberano de Durango;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+XV. Emitir las bases, mediante la expedición de acuerdos generales, para las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obras que realice el Poder Judicial del Estado, en ejercicio de sus partidas presupuestales, ajustándose a los criterios contemplados en el artículo 160 de la Constitución Política del Estado Libre y Soberano de Durango;
 
 XVI. Establecer la normatividad y los criterios para modernizar las estructuras orgánicas, los sistemas y procedimientos administrativos internos, así como los de prestación de servicios al público;
 
@@ -1759,7 +1771,7 @@ IV. Computarizar las acciones del Poder Judicial en áreas de personal, contabil
 
 V. Llevar el registro computarizado de todas aquellas actividades de apoyo al servicio de la administración de justicia, que se determine por el Consejo de la Judicatura;
 
-VI. Capturar y sistematizar la legislación estatal y la jurisprudencia que emita el Tribunal Superior de Justicia, así como asesorar para el acceso a la jurisprudencia, las legislaciones estatal y federal;
+VI. Capturar y sistematizar la legislación estatal y la jurisprudencia que emita el Tribunal Superior de Justicia, así como asesorar para el acceso a la jurisprudencia; las legislaciones estatal y federal;
 
 VII. Proporcionar mantenimiento permanente preventivo y correctivo a los recursos informáticos;
 
@@ -2153,9 +2165,13 @@ Si de la queja se desprende la realización de una conducta que pudiera dar luga
 
 Las faltas serán valoradas y, en su caso, sancionadas, en lo conducente, de conformidad con los criterios establecidos en los artículos 53, 54 y 55 de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
 
-En todo caso, se considerarán como faltas graves, el incumplimiento de las obligaciones señaladas en las fracciones XI a XIII, y XV a XVII del artículo 47 de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios, en las fracciones I a VI, IX, XII, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXIII del artículo 143 de esta ley y las señaladas en el artículo 125 de la Constitución Política del Estado Libre y Soberano de Durango.
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-Tratándose de los jueces, la destitución sólo procederá en los casos a que se refiere el artículo 117 de la Constitución Política del Estado Libre y Soberano de Durango, el artículo 143 fracciones I a VI, IX, XII, XV a XXI y XXIII de esta ley, así como en las del artículo 47 fracciones XI, XIII y XV a XVII de la ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios; y cuando reincidan por lo menos en tres ocasiones en un lapso de tres años en una causa de responsabilidad, sin haber atendido a las observaciones o amonestaciones que se les hagan por faltas a la moral o a la disciplina que deben guardar, conforme a la ley y a los reglamentos respectivos.
+En todo caso, se considerarán como faltas graves, el incumplimiento de las obligaciones señaladas en las fracciones XI a XIII, y XV a XVII del artículo 47 de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios, en las fracciones I a VI, IX, XII, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXIII del artículo 143 de esta ley y las señaladas en el artículo 107 de la Constitución Política del Estado Libre y Soberano de Durango.
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+Tratándose de los jueces, la destitución sólo procederá en los casos a que se refiere el artículo 177 de la Constitución Política del Estado Libre y Soberano de Durango, el artículo 143 fracciones I a VI, IX, XII, XV a XXI y XXIII de esta ley, así como en las (sic) del artículo 47 fracciones XI, XIII, y XV a XVII de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios; y cuando reincidan por lo menos en tres ocasiones en un lapso de tres años en una causa de responsabilidad, sin haber atendido a las observaciones o amonestaciones que se les hagan por faltas a la moral o a la disciplina que deben guardar, conforme a la ley y a los reglamentos respectivos.
 
 ###### ARTÍCULO 146.
 
@@ -2311,7 +2327,7 @@ La calificación del impedimento, tratándose de los peritos e intérpretes, cor
 
 ###### ARTÍCULO 162.
 
-Los servidores públicos del Poder Judicial del Estado no podrán aceptar o desempeñar empleo o encargo de la Federación, de los Estados, de los Municipios o de particulares, salvo los cargos honoríficos en asociaciones científicas, literarias o de beneficencia y los cargos docentes, siempre que su desempeño no perjudique las funciones y labores propias de su encargo, previa autorización del Pleno del Tribunal Superior de Justicia a los magistrados y funcionarios del Tribunal Superior; y del Pleno del Consejo de la Judicatura a los demás, así como a sus propios miembros.Los (sic) magistrados del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial recabarán la autorización del Pleno del propio Tribunal.
+Los servidores públicos del Poder Judicial del Estado no podrán aceptar o desempeñar empleo o encargo de la Federación, de los Estados, de los Municipios o de particulares, salvo los cargos honoríficos en asociaciones científicas, literarias o de beneficencia y los cargos docentes, siempre que su desempeño no perjudique las funciones y labores propias de su encargo, previa autorización del Pleno del Tribunal Superior de Justicia a los magistrados y funcionarios del Tribunal Superior; y del Pleno del Consejo de la Judicatura a los demás, así como a sus propios miembros.Los magistrados del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial recabarán la autorización del Pleno del propio Tribunal.
 
 ### CAPÍTULO III. DE LAS SUBSTITUCIONES EN CASO DE IMPEDIMENTO, RECUSACIONES Y EXCUSAS
 
@@ -2443,9 +2459,11 @@ Los permisos y licencias concedidos por el Consejo de la Judicatura a los emplea
 
 ### CAPÍTULO VI. DE LA JURISPRUDENCIA
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 187.
 
-El Pleno y las salas colegiadas del Tribunal Superior de Justicia, podrán crear jurisprudencia en los términos que dispone este Capítulo, el cual es reglamentario de la fracción V del artículo 96 de la Constitución Política del Estado Libre y Soberano de Durango.
+El Pleno y las salas colegiadas del Tribunal Superior de Justicia, podrán crear jurisprudencia en los términos que dispone este Capítulo, el cual es reglamentario de la fracción I del artículo 112 de la Constitución Política del Estado Libre y Soberano de Durango.
 
 ###### ARTÍCULO 188.
 
@@ -2477,9 +2495,11 @@ La jurisprudencia se interrumpe y deja de ser obligatoria cuando se emita una re
 
 ### CAPÍTULO VII. DE LA PROTESTA CONSTITUCIONAL
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 195.
 
-Los servidores públicos del Poder Judicial deberán protestar en la forma y términos que establece el artículo 121 de la Constitución Política del Estado Libre y Soberano de Durango.
+Los servidores públicos del Poder Judicial deberán protestar en la forma y términos que establece el artículo 174 de la Constitución Política del Estado Libre y Soberano de Durango.
 
 ###### ARTÍCULO 196.
 
@@ -2819,11 +2839,11 @@ Las multas y sanciones pecuniarias impuestas por los órganos del Poder Judicial
 
 ### CAPÍTULO I. DE SU INTEGRACIÓN Y FUNCIONAMIENTO
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 248.
 
-De conformidad con el artículo 97 de la Constitución Política del Estado Libre y Soberano de Durango, el Tribunal para Menores Infractores del Poder Judicial del Estado, será la máxima autoridad jurisdiccional en la materia y órgano especializado del Poder Judicial del Estado competente para resolver las conductas tipificadas como delito por el Código Penal o por Leyes Estatales, en las que se encuentren implicadas personas que tengan entre doce años cumplidos y menos de dieciocho años de edad.
+De conformidad con el artículo 117 de la Constitución Política del Estado Libre y Soberano de Durango, el Tribunal para Menores Infractores del Poder Judicial del Estado, será la autoridad jurisdiccional en la materia y órgano especializado del Poder Judicial del Estado competente para resolver las conductas tipificadas como delito por el Código Penal o por Leyes Estatales, en las que se encuentren implicadas personas que tengan entre doce años cumplidos y menos de dieciocho años de edad.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -3011,17 +3031,17 @@ ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)
 
 ### CAPÍTULO I. DE SU INTEGRACIÓN Y FUNCIONAMIENTO
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 259.
 
-De conformidad con el artículo 97 de la Constitución Política del Estado Libre y Soberano de Durango, Sección C, el Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado, es la máxima autoridad jurisdiccional en la materia y órgano especializado del Poder Judicial del Estado, es competente para dirimir las controversias de carácter administrativo y fiscal que se susciten entre los particulares y la Administración Pública Estatal y Municipal de acuerdo a las leyes de la materia y conocerá además de las impugnaciones que se promuevan en contra de las resoluciones definitivas que dicten las autoridades mencionadas, en aplicación de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios, sus sesiones serán públicas, con excepción de los casos en que la moral, el interés público o esta ley determine que sean privadas. Contará con el personal jurídico y administrativo necesario para su adecuado funcionamiento.
+De conformidad con el artículo 114 de la Constitución Política del Estado Libre y Soberano de Durango, el Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado, es la autoridad jurisdiccional en la materia y órgano especializado del Poder Judicial del Estado, es competente para dirimir las controversias de carácter administrativo y fiscal que se susciten entre los particulares y la Administración Pública Estatal, las administraciones municipales y los organismos constitucionales autónomos de acuerdo a las leyes de la materia y conocerá además de las impugnaciones que se promuevan en contra de las resoluciones definitivas que dicten las autoridades mencionadas, en aplicación de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios, sus sesiones serán públicas, con excepción de los casos en que la moral, el interés público o esta ley determine que sean privadas. Contará con el personal jurídico y administrativo necesario para su adecuado funcionamiento.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 260.
 
-El Titular del Poder Ejecutivo del Estado propondrá a los Magistrados del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado, para su aprobación por el Congreso del Estado, en términos del artículo 92 de la Constitución Política del Estado Libre y Soberano de Durango, ante quien rendirán la protesta de Ley.
+El Titular del Poder Ejecutivo del Estado propondrá a los Magistrados del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado, para su aprobación por el Congreso del Estado, en términos del artículo 108 de la Constitución Política del Estado Libre y Soberano de Durango, ante quien rendirán la protesta de Ley.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
@@ -3399,7 +3419,7 @@ P.O. 3 DE SEPTIEMBRE DE 2012.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de la declaratoria de reforma al artículo 95 de la Constitución Política del Estado Libre y Soberano de Durango, que realice el H. Congreso del Estado.
 
-SEGUNDO.-Se (sic) derogan todas las disposiciones que se opongan al presente decreto.
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
 P.O. 23 DE DICIEMBRE DE 2012.
 
@@ -3462,3 +3482,13 @@ P.O. 17 DE JULIO DE 2014.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
