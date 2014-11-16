@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-patrimonio-cultural-del-estado-de-durango-57771"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-11"
-last_updated: "2010-05-16"
+last_updated: "2014-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DEL PATRIMONIO CULTURAL DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 11 de noviembre de 2007.
 
@@ -135,7 +135,7 @@ XXII. Revitalización: Volver a dar uso a un bien cultural tangible o intangible
 
 Se dota de este término a elementos arquitectónicos y urbanos que se encuentran abandonados, o severamente alterados, dirigiéndose a las condiciones de los bienes, se consideran a los procesos de conservación, restauración y mantenimiento;
 
-XXlIl. lntervención: La acción de injerencia práctica en materia de conservación;
+XXIII. Intervención: La acción de injerencia práctica en materia de conservación;
 
 XXIV. Conservación: La acción que tiene por objeto prevenir las alteraciones y detener los deterioros, el término es un concepto global, la acción inmediata subordinada es el mantenimiento preventivo;
 
@@ -173,7 +173,7 @@ XXXV. Pueblos Indígenas: Aquellas comunidades que descienden de poblaciones que
 
 XXXVI. Etnia: Comunidad que busca conservar su lengua, sistemas normativos, culturales, sociales, políticos y/o económicos o parte de ellos dentro del marco jurídico del Estado y la Nación; y
 
-XXXVll. Cronista Municipal: Es toda aquella persona o personas que son designadas por los ayuntamientos a fin de que registren la memoria histórica que genera la identidad de un pueblo y que realiza el registro puntual de la crónica y acontecer del municipio.
+XXXVII. Cronista Municipal: Es toda aquella persona o personas que son designadas por los ayuntamientos a fin de que registren la memoria histórica que genera la identidad de un pueblo y que realiza el registro puntual de la crónica y acontecer del municipio.
 
 ###### ARTÍCULO 5.
 
@@ -259,9 +259,25 @@ I. Emitir y publicar las declaratorias de los bienes a que se refiere el artícu
 
 II. Ejercer las facultades en materia de desarrollo urbano, que le corresponden, en los términos de la legislación correspondiente, con el objeto de conservar cualesquiera de los bienes comprendidos en las fracciones VIII y IX del artículo 4 de esta Ley;
 
-III. Desarrollar las condiciones para impulsar, posibilitar, promocionar, difundir fortalecer y fomentar el desarrollo cultural en el Estado; y
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-IV. Tutelar los bienes que integran el patrimonio cultural del Estado.
+III. Desarrollar las condiciones para impulsar, posibilitar, promocionar, difundir fortalecer y fomentar el desarrollo cultural en el Estado;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+IV. Tutelar los bienes que integran el patrimonio cultural del Estado;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+V. Garantizar la conservación y promoción del patrimonio histórico, cultural, y artístico de Durango;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+VI. Proteger y promover la diversidad cultural existente en la entidad y fortalecer la identidad duranguense; y
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+VII. Ejercer todas las demás facultades conferidas por disposiciones federales y estatales relacionadas con la protección del patrimonio cultural de Durango.
 
 #### SECCIÓN SEGUNDA. DE LAS AUTORIDADES MUNICIPALES
 
@@ -419,7 +435,7 @@ V. Un representante del Consejo Nacional para la Cultura y las Artes;
 
 VI. Un representante del Instituto Nacional de Antropología e Historia;
 
-VII. Un representantes (sic) de la Comisión Nacional para el Desarrollo de Ios Pueblos Indígenas;
+VII. Un representantes (sic) de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas;
 
 VIII. Un representante de la Unidad Regional de Culturas Populares;
 
@@ -841,6 +857,10 @@ III. Todo archivo histórico de cualquiera de los Tres Poderes, oficinas, munici
 
 IV. Las colecciones de arte, muebles y objetos y otros bienes muebles de valor histórico, artístico o cultural de cualquiera de los Tres Poderes, municipios o entidades descentralizadas del Estado.
 
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+Para el caso del patrimonio y las expresiones culturales y artísticas de los pueblos y comunidades indígenas, se estará a lo dispuesto en el artículo 28 de la Constitución Política del Estado de Durango.
+
 ### CAPITULO VIII. DEL PROGRAMA DEL PATRIMONIO CULTURAL DEL ESTADO
 
 ###### ARTÍCULO 77.
@@ -987,7 +1007,7 @@ IV. Notificar a la (sic) autoridades sobre cualquier obra o actividad que pueda 
 
 ###### ARTÍCULO 92.
 
-Las autorizaciones otorgadas por el Instituto a personas físicas y morales, asociaciones civiles, juntas vecinales o uniones de campesinos, les permitirá actuar como autoridades auxiliares en la conservación del patrimonio cultural del Estado, en los términos del artículo 31de esta Ley.
+Las autorizaciones otorgadas por el Instituto a personas físicas y morales, asociaciones civiles, juntas vecinales o uniones de campesinos, les permitirá actuar como autoridades auxiliares en la conservación del patrimonio cultural del Estado, en los términos del artículo 31 de esta Ley.
 
 En dicha autorización debe señalarse expresamente y por escrito, que no está facultada como autoridad auxiliar para realizar, bajo ninguna circunstancia, obras de exploración, conservación, mantenimiento o restauración de bienes inmuebles del patrimonio cultural.
 
@@ -1135,6 +1155,32 @@ V. La aplicación de pintura de aceite, esmaltes, epóxicas o similares en facha
 
 VI. La colocación en exteriores, de anuncios luminosos de cualquier tipo.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+#### SECCIÓN TERCERA. DE LA COORDINACIÓN Y COLABORACIÓN CON LA FEDERACIÓN
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+ARTÍCULO 112 BIS. Se promoverá la suscripción de convenios o acuerdos de cooperación o coordinación, entre entidades federales, estatales y municipales, que permitan conjuntar esfuerzos, implementar acciones y ejercer efectivamente las respectivas facultades, a efecto de cumplir adecuadamente con el objeto de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+ARTÍCULO 112 BIS1. Cuando dentro del territorio estatal o municipal se localicen monumentos arqueológicos, artísticos e históricos y zonas de monumentos de competencia federal, los gobiernos federales, locales o municipales podrán celebrar acuerdos o convenios de cooperación y coordinación para:
+
+I. Colaborar en la restauración, conservación y mejoramiento de los monumentos arqueológicos, artísticos e históricos y zonas de monumentos;
+
+II. Construir, restaurar o mejorar edificios, a efecto de exhibir monumentos arqueológicos, artísticos e históricos;
+
+III. Auxiliar a los inspectores de monumentos arqueológicos, artísticos e históricos y zonas de monumentos, cuando éstos así lo soliciten;
+
+IV. Promover la formación de organismos de la sociedad civil o en su caso, la unión de campesinos, para que sean considerados como órganos auxiliares que impidan el saqueo, deterioro o destrucción (sic) monumentos arqueológicos, artísticos e históricos y zonas de monumentos y que establezcan museos regionales;
+
+V. Suspender las obras que en casos urgentes puedan constituir saqueo, daño, deterioro o destrucción de los monumentos arqueológicos, artísticos e históricos y zonas de monumentos, notificándolo a la autoridad competente a la brevedad posible;
+
+VI. Negar cualquier licencia de obra en las colindancias o en las zonas de monumentos arqueológicos, artísticos e históricos, sin la previa autorización de la entidad federal competente; y
+
+VII. Realizar las demás acciones y medidas que al efecto acuerden las entidades federales, locales o municipales.
+
 ### CAPITULO XI. DE LA VIGILANCIA, SANCIONES Y DELITOS
 
 ###### ARTÍCULO 113.
@@ -1276,3 +1322,13 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que contravengan lo previsto en el presente decreto.
+
+P.O. 16 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al contenido del presente.
