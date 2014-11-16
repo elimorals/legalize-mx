@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-igualdad-entre-mujeres-y-hombres-del-estado-de-66956"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-01"
-last_updated: "2009-01-01"
+last_updated: "2014-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 1 de enero de 2009.
 
@@ -66,6 +66,10 @@ V. La sostenibilidad social
 VI. La democracia de género
 
 VII. La paridad genérica
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+VIII. Todos aquellos contenidos en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Durango.
 
 ###### Artículo 3.
 
@@ -117,17 +121,11 @@ XIII. Programa estatal.- Programa Estatal para Garantizar la Igualdad Sustantiva
 
 ### CAPÍTULO II. DE LA IGUALDAD SUSTANTIVA
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 7.
 
-La igualdad sustantiva o real, es la forma de la igualdad compleja que parte de la necesidad de otorgar derechos y articular políticas públicas de manera fáctica e inmediata para quienes carecen de ello, y que se encuentran en desventaja y desigualdad en relación a otros, por lo que requieren dichos derechos y acciones para establecer la igualdad de hecho, siendo parte de esta:
-
-A).- La igualdad jurídica.
-
-B).- La igualdad de oportunidades
-
-C).- La igualdad salarial
-
-D).- La igualdad de género
+La igualdad sustantiva o real, es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales.
 
 ###### Artículo 8.
 
@@ -145,7 +143,7 @@ V. Privilegiar la suplencia de la queja para las mujeres cuando sea procedente, 
 
 ###### Artículo 9.
 
-La igualdad de oportunidades, es el acceso al pleno desarrollo, en el ámbito público y privado del las mujeres y los hombres en las mismas condiciones, pero considerando la necesidad de articular mecanismo (sic) especiales que la garanticen, los cuales bajo ninguna circunstancia podrá ser considerados como prácticas discriminatorias.
+La igualdad de oportunidades, es el acceso al pleno desarrollo, en el ámbito público y privado del (sic) las mujeres y los hombres en las mismas condiciones, pero considerando la necesidad de articular mecanismo (sic) especiales que la garanticen, los cuales bajo ninguna circunstancia podrá ser considerados como prácticas discriminatorias.
 
 ###### Artículo 10.
 
@@ -177,7 +175,7 @@ VI. Buscar el liderazgo y la toma de decisiones autónoma de las mujeres.
 
 VII. Erradicar las distintas modalidades de violencia de género.
 
-VIII. Notificar La (sic) trasgresión a los principios y programas que la presente ley establecen a fin de que sea sancionada de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado y los Municipios del Estado.
+VIII. Notificar La trasgresión a los principios y programas que la presente ley establecen a fin de que sea sancionada de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado y los Municipios del Estado.
 
 ## TÍTULO SEGUNDO. DE LA DISTRIBUCIÓN DE COMPETENCIAS
 
@@ -189,7 +187,7 @@ EL Congreso del Estado, en base a la Constitución del Estado libre y soberano d
 
 ###### Artículo 14.
 
-EL (sic) tribunal Superior de Justicia de Durango, con arreglo a su Ley Orgánica, y a las disposiciones de la Constitución del Estado Libre y Soberano de Durango, aplicará los principios y lineamientos que contempla la presente ley y buscara:
+EL tribunal Superior de Justicia de Durango, con arreglo a su Ley Orgánica, y a las disposiciones de la Constitución del Estado Libre y Soberano de Durango, aplicará los principios y lineamientos que contempla la presente ley y buscara:
 
 I. Que en sus resoluciones se realice la armonización judicial, en relación a los instrumentos internacionales aplicables favoreciendo la igualdad real.
 
@@ -223,7 +221,7 @@ XI. Los demás que esta Ley y otros ordenamientos aplicables le confieren.
 
 ###### Artículo 16.
 
-La Política de Igualdad deberá establecer las acciones conducentes en el ámbito, económico, educativo, político, social y cultural. Consecuentemente en el diseño, elaboración, aplicación, evaluación y seguimiento de los instrumentos de dicha política se observaran los objetivos y principios previstos en esta Ley, Para (sic) lo cual implementará las medidas que garanticen:
+La Política de Igualdad deberá establecer las acciones conducentes en el ámbito, económico, educativo, político, social y cultural. Consecuentemente en el diseño, elaboración, aplicación, evaluación y seguimiento de los instrumentos de dicha política se observaran los objetivos y principios previstos en esta Ley, Para lo cual implementará las medidas que garanticen:
 
 I. La accesibilidad a la justicia y el pleno ejercicio de los derechos de las mujeres;
 
@@ -243,15 +241,17 @@ La Comisión de Igualdad y No Discriminación del Estado, se conformará de la s
 
 I. El titular de la Secretaria de gobierno del Estado;
 
-II. Un representante del sector productivo del Estado;
+II. (DEROGADA, P.O. 16 DE NOVIEMBRE DE 2014)
 
-III. Un representante del Sector Social del Estado;
+III. (DEROGADA, P.O. 16 DE NOVIEMBRE DE 2014)
 
-IV. Un representante de la Administración Pública Estatal;
+IV. (DEROGADA, P.O. 16 DE NOVIEMBRE DE 2014)
 
 V. La titular del Instituto de la Mujer Duranguense;
 
-VI. Un representante del Congreso del Estado;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+VI. El presidente de la Comisión Legislativa de Equidad y Género del Congreso del Estado;
 
 VII. Un representante del Tribunal Superior de Justicia del Estado; y
 
@@ -291,7 +291,7 @@ VI. Efectuar el procedimiento de acompañamiento sustantivo;
 
 VII. Designar el oficial de género a las dependencias que corresponda con arreglo a la presente ley.
 
-VIII. Operar la secretaria ejecutiva del la comisión de igualdad;
+VIII. Operar la secretaria ejecutiva del (sic) la comisión de igualdad;
 
 IX. Favorecer la institucionalización de las buenas prácticas de igualdad en la administración pública estatal;
 
@@ -535,13 +535,17 @@ V. Sea resultado del procedimiento que determine el procedimiento de acompañami
 
 VI. Por determinación de la comisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 38.
 
-Con motivo del acompañamiento sustantivo el Instituto de la mujer duranguense, en términos de la y su reglamento deberá (sic).
+Con motivo del acompañamiento sustantivo, el Instituto de la mujer duranguense, en términos de la Ley y su reglamento deberá:
 
 I. Solicitar al infractor su plan correctivo;
 
-II. Efectuar las recomendaciones que considere procedentes para eliminar el motivo de la desigualdad;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+II. Cuando encuentre presuntas prácticas desiguales en las áreas de la Administración Pública, podrá dar vista para su conocimiento a la Comisión Estatal de Derechos Humanos de Durango;
 
 III. Realizar el monitoreo para la observancia y seguimiento a favor de la parte quejosa; y
 
@@ -571,7 +575,7 @@ El Instituto deberá revisar el Programa Estatal cada tres años, de conformidad
 
 ###### Artículo 41.
 
-Los informes anuales del Ejecutivo estatal deberán contener el estado que guarda la ejecución del Programa, así como las demás acciones relativas al cumplimiento de lo establecido en la presente Y (sic).
+Los informes anuales del Ejecutivo estatal deberán contener el estado que guarda la ejecución del Programa, así como las demás acciones relativas al cumplimiento de lo establecido en la presente Y.
 
 ### CAPÍTULO II. DEL DERECHO A LA INFORMACIÓN EN MATERIA DE IGUALDAD
 
@@ -642,3 +646,11 @@ C.P. ISMAEL ALFREDO HERNANDEZ DERAS
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. OLIVERIO REZA CUELLAR
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
