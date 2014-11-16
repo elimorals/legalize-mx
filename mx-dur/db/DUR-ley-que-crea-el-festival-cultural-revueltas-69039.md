@@ -4,7 +4,7 @@ identifier: "DUR-ley-que-crea-el-festival-cultural-revueltas-69039"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-07"
-last_updated: "2012-12-06"
+last_updated: "2014-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY QUE CREA EL FESTIVAL CULTURAL REVUELTAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 7 de junio de 2009.
 
@@ -46,6 +46,10 @@ LEY QUE CREA EL FESTIVAL CULTURAL REVUELTAS
 ###### ARTÍCULO 1°.
 
 Se crea el organismo público desconcentrado del Instituto de Cultura del Estado de Durango, denominado Festival Cultural Revueltas, el cual tendrá su domicilio en la ciudad Victoria de Durango, en el Estado de Durango.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+La presente Ley es de orden público, interés social y de observancia general en todo el Estado de Durango, reglamenta el derecho a la cultura reconocido en el artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos e Instrumentos Internacionales en la materia, así como el artículo 28 de la Constitución Política del Estado Libre y Soberano de Durango.
 
 ###### ARTÍCULO 2°.
 
@@ -147,9 +151,11 @@ Las sesiones del Organismo serán convocadas por el Presidente por conducto del 
 
 La Secretaría de Educación y las demás dependencias del Gobierno del Estado, deberán prestar el apoyo que les fuere solicitado por el Organismo, para el cumplimiento de su objeto.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 12°.
 
-Para la vigilancia y el control del Organismo, éste contará con un Comisario Público, que será designado por la Secretaría de Contraloría y Modernización Administrativa del Gobierno del Estado. Le corresponde al Comisario, el control y fiscalización de los recursos del Organismo.
+Para la vigilancia y el control del Organismo, éste contará con un Comisario Público, que será designado por la Secretaría de Contraloría del Gobierno del Estado. Le corresponde al Comisario, el control y fiscalización de los recursos del Organismo.
 
 ###### ARTÍCULO 13°.
 
@@ -220,5 +226,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 Publíquese en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 ###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales que se opongan al contenido del presente.
+
+P.O. 16 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan al contenido del presente.
