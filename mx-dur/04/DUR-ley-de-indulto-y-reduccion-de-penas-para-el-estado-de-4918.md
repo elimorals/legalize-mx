@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-indulto-y-reduccion-de-penas-para-el-estado-de-4918"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-16"
-last_updated: "2004-12-23"
+last_updated: "2014-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4918&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY DE INDULTO Y REDUCCION DE PENAS PARA EL ESTADO DE DURANGO
 
-LEY DE INDULTO Y REDUCCION DE PENAS PARA EL ESTADO DE DURANGO
+LEY DE INDULTO Y REDUCCIÓN DE PENAS PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DE LA LEY DE INDULTO PARA EL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 16 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 16 de noviembre de 1995.
 
@@ -252,3 +254,17 @@ Prevalece la suspensión de la vigencia del articulo 4 de la Ley de Indulto y Re
 Se deja en suspenso la vigencia del Artículo 4 de la Ley de Indulto y Reducción de Penas del Estado de Durango, contenida en el Decreto 274 de fecha 07 de Octubre de 2003, publicado en el Periódico Oficial del Estado correspondiente al No. 32 de fecha 19 de octubre de 2003, única y exclusivamente en lo que respecta al Delito de Robo a favor de internos que hayan sido condenados con fecha anterior al día 14 de Septiembre de 2010 y que en el momento de solicitar algún beneficio de los señalados en la citada Ley se encuentren compurgando sanción privativa de la libertad en los Centros de Readaptación Social del Estado.
 
 UNICO.- El presente decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 16 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Se abroga la Ley de Indulto y Reducción de Penas para el Estado de Durango, aprobada mediante Decreto No. 12, de fecha 14 de noviembre de 1995 por la LX Legislatura y publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango No. 40, del día 16 de noviembre de 1995.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales que se opongan al contenido del presente.
