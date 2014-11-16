@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-gestion-ambiental-sustentable-para-el-estado-de-75884"
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-24"
-last_updated: "2014-07-06"
+last_updated: "2014-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE GESTIÓN AMBIENTAL SUSTENTABLE PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 24 de junio de 2010.
 
@@ -47,9 +47,11 @@ LEY DE GESTIÓN AMBIENTAL SUSTENTABLE PARA EL ESTADO DE DURANGO
 
 ### CAPÍTULO I. NORMAS PRELIMINARES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es reglamentaria del Segundo Párrafo del Artículo 3 de la Constitución Política del Estado Libre y Soberano de Durango, en concordancia con la Ley General de Equilibrio Ecológico y la Protección al Ambiente, en los términos que establece el Artículo 73, fracción XXIX-G de la Constitución Política de los Estados Unidos Mexicanos.
+La presente Ley es reglamentaria del Artículo 26 de la Constitución Política del Estado Libre y Soberano de Durango, en concordancia con la Ley General de Equilibrio Ecológico y la Protección al Ambiente, en los términos que establece el Artículo 73, fracción XXIX-G de la Constitución Política de los Estados Unidos Mexicanos.
 
 Sus disposiciones son de orden público e interés social con aplicación en el territorio del Estado de Durango, y tiene por objeto propiciar el desarrollo sustentable, y establecer las bases para:
 
@@ -95,99 +97,237 @@ V. Áreas naturales protegidas de jurisdicción local: Superficies del territori
 
 VI. Biodiversidad: Variedad genética de las poblaciones de seres vivos generalmente medida por el número de especies;
 
-VII. Calidad de vida: Condiciones o cualidades ambientales que ofrecen bienestar;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-VIII. Conservación: Permanencia de los elementos de la naturaleza en su estado original, a fin de asegurar para las generaciones presentes y futuras, un ambiente adecuado;
+VII. Biotecnología: Toda aplicación tecnológica que utilice recursos biológicos, organismos vivos o sus derivados para la creación o modificación de productos o procesos para usos específicos;
 
-IX. Contaminación: Presencia en el ambiente de uno o más contaminantes o cualquier combinación de ellos que cause desequilibrio ecológico;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-X. Contaminante: Toda materia o energía en cualquiera de sus estados físicos y formas, que al incorporarse o actuar en la atmósfera, agua, suelo, flora, fauna o cualquier elemento natural altere o modifique su composición y condición natural;
+VIII. Calidad de vida: Condiciones o cualidades ambientales que ofrecen bienestar;
 
-XI. Contingencia ambiental: Situación de riesgo, derivada de actividades humanas o fenómenos naturales, que puede poner en peligro la integridad de uno o varios ecosistemas;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-XII. Criterios ecológicos: Lineamientos obligatorios, destinados a preservar y restaurar el equilibrio ecológico, proteger el ambiente y aprovechar nuestros recursos naturales de manera sustentable;
+IX. Cambio Climático: Cambio de clima atribuido directa o indirectamente a la actividad humana que altera la composición de la atmósfera mundial y que se suma a la variabilidad natural del clima observada durante periodos de tiempos comparables;
 
-XIII. Denuncia: Manifestación de conocimiento verbal o por escrito efectuada ante autoridad correspondiente de un hecho punible;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-XIV. Desarrollo sustentable: Proceso evaluable mediante criterios ambientales, económicos y sociales, cuyo propósito es optimizar la productividad de las personas y mejorar su calidad de vida, sin comprometer la satisfacción de las necesidades futuras;
+X. Conservación: Permanencia de los elementos de la naturaleza en su estado original, a fin de asegurar para las generaciones presentes y futuras, un ambiente adecuado;
 
-XV. Desequilibrio ecológico: Alteración de las relaciones de interdependencia entre los elementos naturales que conforman el ambiente, que afecta negativamente la existencia, transformación y desarrollo, y los demás seres vivos;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-XVI. Ecosistema: Unidad funcional básica de interacción de los seres vivos entre sí y éstos con el ambiente, en un espacio y tiempo determinados;
+XI. Contaminación: Presencia en el ambiente de uno o más contaminantes o cualquier combinación de ellos que cause desequilibrio ecológico;
 
-XVII. Educación ambiental: Proceso de formación dirigido a toda sociedad, tanto en el ámbito escolar como en el ámbito extraescolar, para facilitar la percepción integrada del ambiente a fin de lograr conductas más racionales a favor del desarrollo social y del ambiente. La educación ambiental comprende la asimilación de conocimientos, la formación de valores, el desarrollo de competencias y conductas con el propósito de garantizar la preservación de la vida;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-XVIII. Emergencia ecológica: Situación derivada de las actividades humanas o fenómenos naturales que al afectar severamente a sus elementos pone en peligro a uno o varios ecosistemas;
+XII. Contaminante: Toda materia o energía en cualquiera de sus estados físicos y formas, que al incorporarse o actuar en la atmósfera, agua, suelo, flora, fauna o cualquier elemento natural altere o modifique su composición y condición natural;
 
-XIX. Equilibrio ecológico: Relación de la interdependencia entre los elementos que conforman el ambiente que hace posible la existencia, transformación y el desarrollo armónico del hombre y los demás seres vivos;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-XX. Especie Exótica: Especie en peligro de extinción o que pertenece a una población cuyo origen es de un ecosistema diferente;
+XIII. Contingencia ambiental: Situación de riesgo, derivada de actividades humanas o fenómenos naturales, que puede poner en peligro la integridad de uno o varios ecosistemas;
 
-XXI. Especie nativa: Organismo vivo, que pertenece desde su origen a un lugar o área determinada;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-XXII. Fauna silvestre: Especies de animales terrestres, que subsisten sujetas a procesos de selección natural, cuyas poblaciones habitan temporal o permanentemente en el territorio nacional y que se desarrollan libremente, incluyendo sus poblaciones menores que se encuentran bajo control del hombre, así como animales domésticos que por su abandono se tornen salvajes y por ello sean susceptibles de captura y apropiación;
+XIV. Control: Inspección, vigilancia y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en este ordenamiento;
 
-XXIII. Flora silvestre: Especies vegetales terrestres, así como los hongos, que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo las poblaciones o especímenes de estas especies que se encuentran bajo control del hombre;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-XXIV. Fuente de contaminación: Lugar o actividad en donde se generan o emiten contaminantes;
+XV. Criterios ecológicos: Lineamientos obligatorios, destinados a preservar y restaurar el equilibrio ecológico, proteger el ambiente y aprovechar nuestros recursos naturales de manera sustentable;
 
-XXV. Fuente Fija: Toda instalación establecida en un solo lugar que tenga como finalidad desarrollar operaciones o procesos industriales, mercantiles de servicios o actividades que generen o puedan generar emisiones contaminantes;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-XXVI. Fuente Semifija: Aquellas que por sus características propias no se encuentran establecidas en un solo lugar, esto debido a que se generan de otras actividades como lo pueden ser la industria de la construcción, como son las vías de comunicación terrestre y obras de grandes dimensiones;
+XVI. Denuncia: Manifestación de conocimiento verbal o por escrito efectuada ante autoridad correspondiente de un hecho punible;
 
-XXVII. Impacto ambiental: Modificación del ambiente ocasionada por la acción del hombre o de la naturaleza;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-XXVIII. Inspección: Actuación mediante la cual se reconoce la situación en que se encuentra determinado bien mueble, inmueble, persona, empresa o establecimiento;
+XVII. Desarrollo sustentable: Proceso evaluable mediante criterios ambientales, económicos y sociales, cuyo propósito es optimizar la productividad de las personas y mejorar su calidad de vida, sin comprometer la satisfacción de las necesidades futuras;
 
-XXIX. Ley Estatal: Ley de Gestión Ambiental Sustentable para el Estado de Durango;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-XXX. Ley General: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+XVIII. Desequilibrio ecológico: Alteración de las relaciones de interdependencia entre los elementos naturales que conforman el ambiente, que afecta negativamente la existencia, transformación y desarrollo, y los demás seres vivos;
 
-XXXI. Licencia Ambiental Única: Instrumento de regulación directa de carácter estatal que conjunta en un solo proceso la evaluación y dictamen de las obligaciones ambientales de las fuentes fijas en materia de impacto y riesgo ambiental, emisiones contaminantes a la atmósfera, generación y tratamiento de residuos peligrosos, que aunado con otras autorizaciones, son base inicial para la integración de la base de datos;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-XXXII. Manifestación de impacto ambiental: Documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental significativo y potencial que generaría una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo;
+XIX. Ecosistema: Unidad funcional básica de interacción de los seres vivos entre sí y éstos con el ambiente, en un espacio y tiempo determinados;
 
-XXXIII. Mejoramiento Ambiental: El incremento de la calidad del ambiente;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-XXXIV. Mitigación: Acción o acciones tomadas para atenuar, eliminar o compensar el efecto de impactos ambientales negativos;
+XX. Educación ambiental: Proceso de formación dirigido a toda sociedad, tanto en el ámbito escolar como en el ámbito extraescolar, para facilitar la percepción integrada del ambiente a fin de lograr conductas más racionales a favor del desarrollo social y del ambiente. La educación ambiental comprende la asimilación de conocimientos, la formación de valores, el desarrollo de competencias y conductas con el propósito de garantizar la preservación de la vida;
 
-XXXV. Monitoreo: Evaluación sistemática cualitativa y cuantitativa de la calidad del agua, suelo o atmósfera;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-XXXVI. Ordenamiento ecológico: Instrumento de política ambiental cuyo objeto es la planeación, dirigida a evaluar y programar el uso de suelos y el manejo de los recursos naturales en el territorio estatal y municipal, para preservar y restaurar el equilibrio ecológico, proteger el ambiente y aprovechar los recursos naturales de acuerdo a su potencialidad;
+XXI. Emergencia ecológica: Situación derivada de las actividades humanas o fenómenos naturales que al afectar severamente a sus elementos pone en peligro a uno o varios ecosistemas;
 
-XXXVII. Órganos Consultivos: Asociación de ciudadanos, constituidos para fines determinados en la presente Ley;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-XXXVIII. Preservación: Conjunto de actividades y medidas para mantener las condiciones propicias para la evolución y continuidad de los procesos;
+XXII. Equilibrio ecológico: Relación de la interdependencia entre los elementos que conforman el ambiente que hace posible la existencia, transformación y el desarrollo armónico del hombre y los demás seres vivos;
 
-XXXIX. Prestador de Servicios: Persona física o moral certificada, registrada o autorizada por la dependencia o entidad correspondiente, que elabora informes preventivos, manifestaciones o estudios de impacto ambiental o de riesgo por cuenta propia o terceros y que es responsable del contenido de los mismos;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-XL. Prevención: Conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
+XXIII. Elemento Natural: Los elementos físicos, químicos y biológicos que se presentan en un tiempo y espacio determinado sin la inducción del hombre;
 
-XLI. Protección: Conjunto de políticas y medidas para mejorar el ambiente, prevenir y controlar su deterioro;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-XLII. Recurso natural: Elemento natural susceptible de ser aprovechado en beneficio del hombre;
+XXIV. Emisión: Liberación al ambiente de toda sustancia, en cualquiera de sus estados físicos, o cualquier tipo de energía, proveniente de una fuente;
 
-XLIII. Remediación: Remoción de contaminación o contaminantes del suelo, subsuelo, agua, y la atmosfera, para la protección general de la salud humana y del ambiente o de sitios provistos para el desarrollo;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-XLIV. Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
+XXV. Especie Exótica: Especie en peligro de extinción o que pertenece a una población cuyo origen es de un ecosistema diferente;
 
-XLV. Registro de Emisiones y Transferencia de Contaminantes (RETC): Base de datos pública que contiene información sobre emisiones al aire, agua, suelo y subsuelo y transferencia en residuos y en descargas de aguas residuales de contaminantes y de sustancias que determine el estado a través de la autoridad competente;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-XLVI. Sanción: Consecuencia jurídico legal por la comisión u omisión de ciertos actos, o por la infracción de ciertos preceptos;
+XXVI. Especie nativa: Organismo vivo, que pertenece desde su origen a un lugar o área determinada;
 
-XLVII. Secretaría: Secretaría de Recursos Naturales y Medio Ambiente;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-XLVIII. Servicios ambientales: Actos o procesos por los cuales la naturaleza ofrece un servicio potencial de agua, electricidad, oxigenación u otro de naturaleza semejante;
+XXVII. Fauna silvestre: Especies de animales terrestres, que subsisten sujetas a procesos de selección natural, cuyas poblaciones habitan temporal o permanentemente en el territorio nacional y que se desarrollan libremente, incluyendo sus poblaciones menores que se encuentran bajo control del hombre, así como animales domésticos que por su abandono se tornen salvajes y por ello sean susceptibles de captura y apropiación;
 
-XLIX. Servidumbre ecológica: Acuerdo entre dos o más propietarios de bienes inmuebles, para limitar o restringir el uso de suelo, con el fin de preservar la riqueza biológica o escénica;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-L. Sistemas de drenaje y alcantarillado urbano o municipal: Conjunto de dispositivos o instalaciones que tienen como propósito recolectar y conducir aguas residuales urbanas o municipales, incluyendo las pluviales;
+XXVIII. Flora silvestre: Especies vegetales terrestres, así como los hongos, que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo las poblaciones o especímenes de estas especies que se encuentran bajo control del hombre;
 
-LI. Tratamiento de aguas residuales: Proceso a que se someten las aguas residuales con el objeto de disminuir o eliminar los contaminantes que se les hayan incorporado;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-LII. Utilidad pública: De interés o beneficio para el pueblo; y
+XXIX. Fuente de contaminación: Lugar o actividad en donde se generan o emiten contaminantes;
 
-LIII. Vocación natural: Condiciones propias o particulares que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+XXX. Fuente Fija: Toda instalación establecida en un solo lugar que tenga como finalidad desarrollar operaciones o procesos industriales, mercantiles de servicios o actividades que generen o puedan generar emisiones contaminantes;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+XXXI. Fuente Semifija: Aquellas que por sus características propias no se encuentran establecidas en un solo lugar, esto debido a que se generan de otras actividades como lo pueden ser la industria de la construcción, como son las vías de comunicación terrestre y obras de grandes dimensiones;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+XXXII. Impacto ambiental: Modificación del ambiente ocasionada por la acción del hombre o de la naturaleza;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+XXXIII. Inspección: Actuación mediante la cual se reconoce la situación en que se encuentra determinado bien mueble, inmueble, persona, empresa o establecimiento;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+XXXIV. Ley Estatal: Ley de Gestión Ambiental Sustentable para el Estado de Durango;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+XXXV. Ley General: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+XXXVI. Licencia Ambiental Única: Instrumento de regulación directa de carácter estatal que conjunta en un solo proceso la evaluación y dictamen de las obligaciones ambientales de las fuentes fijas en materia de impacto y riesgo ambiental, emisiones contaminantes a la atmósfera, generación y tratamiento de residuos peligrosos, que aunado con otras autorizaciones, son base inicial para la integración de la base de datos;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+XXXVII. Manifestación de impacto ambiental: Documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental significativo y potencial que generaría una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+XXXVIII. Mejoramiento Ambiental: El incremento de la calidad del ambiente;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+XXXIX. Mitigación: Acción o acciones tomadas para atenuar, eliminar o compensar el efecto de impactos ambientales negativos;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+XL. Monitoreo: Evaluación sistemática cualitativa y cuantitativa de la calidad del agua, suelo o atmósfera;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+XLI. Ordenamiento ecológico: Instrumento de política ambiental cuyo objeto es la planeación, dirigida a evaluar y programar el uso de suelos y el manejo de los recursos naturales en el territorio estatal y municipal, para preservar y restaurar el equilibrio ecológico, proteger el ambiente y aprovechar los recursos naturales de acuerdo a su potencialidad;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+XLII. Órganos Consultivos: Asociación de ciudadanos, constituidos para fines determinados en la presente Ley;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+XLIII. Preservación: Conjunto de actividades y medidas para mantener las condiciones propicias para la evolución y continuidad de los procesos;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+XLIV. Prestador de Servicios: Persona física o moral certificada, registrada o autorizada por la dependencia o entidad correspondiente, que elabora informes preventivos, manifestaciones o estudios de impacto ambiental o de riesgo por cuenta propia o terceros y que es responsable del contenido de los mismos;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+XLV. Prevención: Conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+XLVI. Protección: Conjunto de políticas y medidas para mejorar el ambiente, prevenir y controlar su deterioro;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+XLVII. Recursos Biológicos: Los recursos genéticos, los organismos o partes de ellos, las poblaciones, o cualquier otro componente biótico de los ecosistemas con valor o utilidad real o potencial para el ser humano;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+XLVIII. Recursos Genéticos: Todo material genético, con valor real o potencial que provenga de origen vegetal, animal, microbiano, o de cualquier otro tipo y que contenga unidades funcionales de la herencia, existentes en el territorio nacional y en las zonas donde la nación ejerce soberanía y jurisdicción;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+XLIX. Recurso natural: Elemento natural susceptible de ser aprovechado en beneficio del hombre;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+L. Región ecológica: La unidad del territorio nacional que comparte características ecológicas comunes;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+LI. Remediación: Remoción de contaminación o contaminantes del suelo, subsuelo, agua, y la atmosfera, para la protección general de la salud humana y del ambiente o de sitios provistos para el desarrollo;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+LII. Residuo: Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+LIII. Residuo Peligroso: Todos aquellos residuos, en cualquier estado físico, que por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas, representen un peligro para el equilibrio ecológico o el ambiente;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+LIV. Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+LV. Registro de Emisiones y Transferencia de Contaminantes (RETC): Base de datos pública que contiene información sobre emisiones al aire, agua, suelo y subsuelo y transferencia en residuos y en descargas de aguas residuales de contaminantes y de sustancias que determine el estado a través de la autoridad competente;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+LVI. Sanción: Consecuencia jurídico legal por la comisión u omisión de ciertos actos, o por la infracción de ciertos preceptos;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+LVII. Secretaría: Secretaría de Recursos Naturales y Medio Ambiente;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+LVIII. Servicios ambientales: Actos o procesos por los cuales la naturaleza ofrece un servicio potencial de agua, electricidad, oxigenación u otro de naturaleza semejante;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+LIX. Servidumbre ecológica: Acuerdo entre dos o más propietarios de bienes inmuebles, para limitar o restringir el uso de suelo, con el fin de preservar la riqueza biológica o escénica;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+LX. Sistemas de drenaje y alcantarillado urbano o municipal: Conjunto de dispositivos o instalaciones que tienen como propósito recolectar y conducir aguas residuales urbanas o municipales, incluyendo las pluviales;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+LXI. Tratamiento de aguas residuales: Proceso a que se someten las aguas residuales con el objeto de disminuir o eliminar los contaminantes que se les hayan incorporado;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+LXII. Utilidad pública: De interés o beneficio para el pueblo;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+LXIII. Vocación natural: Condiciones propias o particulares que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos; y
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+LXIV. Zonificación: El instrumento técnico de planeación que puede ser utilizado en el establecimiento de las áreas naturales protegidas, que permite ordenar su territorio en función del grado de conservación y representatividad de sus ecosistemas, la vocación natural del terreno, de su uso actual y potencial, de conformidad con los objetivos dispuestos en la misma declaratoria. Asimismo, existirá una subzonificación, la cual consiste en el instrumento técnico y dinámico de planeación, que se establecerá en el programa de manejo respectivo, y que es utilizado en el manejo de las áreas naturales protegidas, con el fin de ordenar detalladamente las zonas núcleo y de amortiguamiento, previamente establecidas mediante la declaratoria correspondiente.
 
 ###### ARTÍCULO 3.
 
@@ -233,7 +373,9 @@ IX. La evaluación de impacto ambiental de las obras o actividades que no se enc
 
 X. Implementar, operar y supervisar sistemas de tratamiento de aguas residuales;
 
-XI. La celebración de acuerdos o convenios de coordinación y concertación con la Federación, por conducto de la Secretaría con el objeto que se asuman las facultades que se indican en el artículo 11, así como dar cumplimiento a lo indicado en los artículos 12, 13, 14 y 14 bis de la Ley General y con los Ayuntamientos, con personas físicas o morales y con los sectores social y privado, para el cumplimiento de sus objetivos;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+XI. La celebración de acuerdos o convenios de coordinación y concertación, con la Federación, Municipios y en su caso, con la participación de personas físicas o morales, del sector social y privado, con el objeto que se asuman las facultades que se indican en el artículo 11, así como dar cumplimiento a lo indicado en los artículos 12, 13, 14 y 14 bis de la Ley General para el cumplimiento de sus objetivos.
 
 XII. Verificar el cumplimiento de las Normas Oficiales Mexicanas, sobre la materia;
 
@@ -259,7 +401,9 @@ XXII. Establecer los mecanismos que permitan el establecimiento de instancias ju
 
 XXIII. Crear y aplicar instrumentos de política ambiental así como implementar y operar sistemas de monitoreo ambiental;
 
-XXIV. La aplicación de los instrumentos de política ambiental previstos en las leyes locales en la materia, así como la preservación y restauración del equilibrio ecológico y la protección al ambiente que se realice en bienes y zonas de jurisdicción estatal, en las materias que no estén expresamente atribuidas a la Federación;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+XXIV. Diseñar y aplicar instrumentos de política ambiental para la preservación y restauración del equilibrio ecológico y la protección al ambiente que se realice en bienes y zonas de jurisdicción estatal, donde se practiquen deportes extremos motores y no motores en las materias que no estén expresamente atribuidas a la Federación;
 
 XXV. La regulación del aprovechamiento sustentable y la prevención y control de la contaminación de las aguas de jurisdicción estatal, así como de las aguas nacionales que tengan asignadas;
 
@@ -361,7 +505,9 @@ IV. Procurar que los programas sectoriales contemplen los problemas ambientales 
 
 V. Planear el desarrollo de las ciudades bajo criterios ecológicos que aseguren el equilibrio del ambiente y vigilar que la tecnología aplicada a los procesos productivos no genere daños al ambiente y mitigue los efectos nocivos del impacto ambiental;
 
-VI. Vigilar que quien realice obras o actividades que afecten o puedan afectar el ambiente, estén obligados a prevenir, minimizar o reparar los daños que cause, así como asumir los costos que dicha afectación implique. Asimismo, debe incentivarse a quien proteja el ambiente y aproveche de manera sustentable los recursos naturales; e
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+VI. Vigilar que quien realice obras o actividades que afecten o puedan afectar el ambiente, estén obligados a prevenir, minimizar o reparar los daños que cause, así como asumir los costos que dicha afectación implique a las personas o comunidades afectadas. Asimismo, debe incentivarse a quien proteja el ambiente, o realice acciones de mitigación y adaptación a los efectos del cambio climático y aproveche de manera sustentable los recursos naturales; e
 
 VII. Instrumentar los mecanismos para que la educación sea una herramienta, para evitar el deterioro ambiental y los desequilibrios ecológicos, así como sus daños, a través de la prevención.
 
@@ -677,7 +823,9 @@ II. Salvaguardar la diversidad genética de las especies silvestres de las que d
 
 III. Proporcionar un campo propicio para la investigación científica, la educación ambiental, el estudio de los ecosistemas y su equilibrio;
 
-IV. Propiciar las condiciones necesarias para la recreación, el ecoturismo y la generación de servicios ambientales;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+IV. Propiciar las condiciones necesarias para la recreación, el ecoturismo, la práctica de deportes extremos no motores y la generación de servicios ambientales.
 
 V. Generar conocimientos y tecnologías que permitan el aprovechamiento racional y sustentable de los recursos naturales y su conservación. Asimismo, respetar y promover las prácticas tradicionales de conservación y aprovechamiento de los recursos naturales que coadyuven a los propósitos de esta Ley, otorgando estímulos fiscales y retribuciones económicas a propietarios, poseedores y titulares de derechos, sobre tierras, aguas y bosques en las áreas naturales protegidas;
 
@@ -737,11 +885,15 @@ III. Las normas y criterios de ordenamiento ecológico;
 
 IV. Las estrategias y las acciones para el desarrollo del área natural protegida a corto, mediano y largo plazo y comprenderán además investigación, educación, protección a los recursos naturales, financiamiento, normativas y todas las demás acciones necesarias para conservar y proteger a dichas áreas;
 
-V. La delimitación de la zona de núcleo, la de amortiguamiento y, en su caso, la zona de influencia;
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-VI. Las medidas para mitigar los efectos que la zona de influencia pueda producir en el área natural protegida con relación a los mecanismos de participación de individuos y grupos asentados en la misma, así como todas aquellas que puedan perjudicar dichas áreas; y
+V. La delimitación de las áreas susceptibles para el aprovechamiento turístico, eco turístico y para la práctica de deportes extremos motores y no motores, señalando las medidas establecidas para mitigar los efectos del aprovechamiento recreativo de estas zonas.
 
-VII. Las bases de coordinación y concertación con las dependencias del sector público y privado que corresponda, para la regulación de acciones en la zona de influencia, así como las reglas de carácter administrativo a que se sujetarán.
+VI. La delimitación de la zona de núcleo, la de amortiguamiento y, en su caso, la zona de influencia;
+
+VII. Las medidas para mitigar los efectos que la zona de influencia pueda producir en el área natural protegida con relación a los mecanismos de participación de individuos y grupos asentados en la misma, así como todas aquellas que puedan perjudicar dichas áreas; y
+
+VIII. Las bases de coordinación y concertación con las dependencias del sector público y privado que corresponda, para la regulación de acciones en la zona de influencia, así como las reglas de carácter administrativo a que se sujetarán.
 
 ###### ARTÍCULO 49.
 
@@ -765,7 +917,9 @@ Quedan sujetas a la autorización por parte de la Secretaría y de las autoridad
 
 I. Uso de agroquímicos, explosivos y venenos;
 
-II. Aprovechamiento de recursos naturales;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+II.- Aprovechamiento ecoturístico y la práctica de deportes en todas sus modalidades.
 
 III. Uso del fuego para fines agropecuarios;
 
@@ -917,6 +1071,18 @@ La colecta de especies de flora y fauna silvestre en el territorio del Estado, a
 
 El aprovechamiento de especies de flora y fauna silvestre así como de otros recursos biológicos con fines de utilización en la biotecnología, requiere de la autorización previa de la Secretaría.
 
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+La autorización sólo podrá otorgarse si se cuenta con el consentimiento previo, expreso e informado, del propietario o legítimo poseedor del predio en el que el recurso biológico se encuentre.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+Asimismo, dichos propietarios o legítimos poseedores tendrán derecho a una repartición equitativa de los beneficios que se deriven o puedan derivarse de los aprovechamientos a que se refiere este artículo, con arreglo a las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+La Secretaría y las demás dependencias competentes, establecerán los mecanismos necesarios para intercambiar información respecto de autorizaciones o resoluciones relativas al aprovechamiento de recursos biológicos para los fines a que se refiere este precepto.
+
 ###### ARTÍCULO 65.
 
 Los ingresos que se recauden por el concepto de otorgamiento de permisos, autorizaciones y licencias en materia de flora y fauna silvestre, se destinarán a acciones de preservación y restauración de la biodiversidad, preferentemente en las áreas respecto a las cuales se otorgaron permisos.
@@ -1054,6 +1220,18 @@ Los trámites para la obtención de la Licencia Ambiental se efectuarán en la S
 ###### ARTÍCULO 84.
 
 Los formatos para el trámite de la licencia Ambiental Única serán publicados y puestos a disposición de forma magnética.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+ARTÍCULO 84 BIS. Para el otorgamiento de estímulos fiscales, las autoridades competentes considerarán a quienes:
+
+I. Adquieran, instalen u operen equipo para el control de emisiones contaminantes a la atmósfera;
+
+II. Fabriquen, instalen o proporcionen mantenimiento a equipo de filtrado, combustión, control, y en general, de tratamiento de emisiones que contaminen la atmósfera;
+
+III. Realicen investigación científica y tecnológica e innovación, cuya aplicación disminuya la generación de emisiones contaminantes, y
+
+IV. Ubiquen o relocalicen sus instalaciones para evitar emisiones contaminantes en zonas urbanas.
 
 ### CAPÍTULO V. DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL SUELO Y DE LA EROSIÓN
 
@@ -1305,6 +1483,8 @@ V. Por cumplirse el término de vigencia.
 
 ### CAPÍTULO III. DE LA RESPONSABILIDAD POR DAÑO AMBIENTAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 116.
 
 La prevención y vigilancia del medio ambiente y de los recursos naturales, estará a cargo de la Secretaría, la que tendrá como función primordial la protección y vigilancia de las condiciones del medio ambiente, de acuerdo con esta Ley, sus reglamentos, Normas Oficiales Mexicanas y las demás disposiciones en la materia, así como la resolución de las respectivas infracciones administrativas.
@@ -1425,7 +1605,7 @@ Cuando se ordene cualquier medida de seguridad, prevista en esta Ley, deberá in
 
 ###### ARTÍCULO 130.
 
-Independientemente de las sanciones administrativas o penales que procedan, toda persona, física o moral, que contamine, deteriore o perjudique los recursos naturales, los ecosistemas o el ambiente en general, será responsable y estará obligada a reparar el daño que cause, y cuando esto no sea posible deberá pagar una indemnización, en los términos del Código de Justicia Administrativa vigente para el Estado de Durango.
+Independientemente de las sanciones administrativas o penales que procedan, toda persona, física o moral, que contamine, deteriore o perjudique los recursos naturales, los ecosistemas o el ambiente en general, será responsable y estará obligada a remediar y restaurar el ecosistema, y cuando esto no sea posible deberá pagar una indemnización, en los términos de la Ley.
 
 La indemnización a que se refiere este artículo se ejercerá sin perjuicio del ejercicio de la acción indemnizatoria ordinaria promovida por el directamente afectado.
 
@@ -1441,7 +1621,9 @@ La responsabilidad por daño ambiental, a que se refiere este capítulo, se ejer
 
 En materia de daños al ambiente, serán competentes todas las autoridades judiciales del Estado de Durango de conformidad con las disposiciones legales correspondientes.
 
-Para el desahogo del procedimiento en el que se ejerza la acción por daños al ambiente se seguirán las reglas establecidas para el procedimiento administrativo, establecido en el Código de Justicia Administrativa para el Estado de Durango.
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+Para el desahogo del procedimiento en el que se ejerza la acción por daños al ambiente se seguirán las reglas establecidas para el procedimiento administrativo, establecido en de (sic) la Ley de Justicia Fiscal y Administrativa del Estado de Durango.
 
 Si con motivo del juicio en el que se ejerza la acción de responsabilidad por daño al ambiente, la autoridad determinará el pago de indemnizaciones, el monto de las mismas pasara a integrarse a los recursos de la Secretaría de Finanzas y Administración del Estado.
 
@@ -1450,6 +1632,8 @@ Si con motivo del juicio en el que se ejerza la acción de responsabilidad por d
 Cuando por infracción a las disposiciones de esta ley así como a sus disposiciones reglamentarias se ocasionen daños o perjuicios, los interesados podrán solicitar a la autoridad ambiental, la formulación de un dictamen técnico al respecto, el cual tendrá el valor de medio de convicción en caso de que se presente en juicio.
 
 ### CAPÍTULO VI. DEL RECURSO DE INCONFORMIDAD
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 134.
 
@@ -1659,7 +1843,7 @@ La Secretaría proporcionará, en las materias de su competencia los dictámenes
 
 ###### ARTÍCULO 152.
 
-Las resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, sus reglamentos y disposiciones que de ellas emanen, podrán ser impugnadas por los afectados por medio del recurso de inconformidad o intentar el juicio de nulidad previsto en el Código de Justicia Administrativa; el primero de estos, se interpondrá dentro del término de quince días hábiles siguientes a la fecha de la notificación ante la autoridad que emitió la resolución impugnada, la que, acordará sobre su admisión y el otorgamiento o negación de la suspensión del acto recurrido.
+Las resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, sus reglamentos y disposiciones que de ellas emanen, podrán ser impugnadas por los afectados por medio del recurso de inconformidad o intentar el juicio de nulidad previsto en el de (sic) la Ley de Justicia Fiscal y Administrativa del Estado de Durango; el primero de estos, se interpondrá dentro del término de quince días hábiles siguientes a la fecha de la notificación ante la autoridad que emitió la resolución impugnada, la que, acordará sobre su admisión y el otorgamiento o negación de la suspensión del acto recurrido.
 
 ###### ARTÍCULO 153.
 
@@ -1671,7 +1855,9 @@ El escrito del recurso contendrá:
 
 I. La autoridad administrativa a quien se dirige;
 
-II. Nombre y domicilio del recurrente y del tercero perjudicado en caso de que lo hubiese y en su caso el de la persona que promueva en su nombre, acreditando debidamente la personalidad con que comparece si ésta no se tenía justificada ante la autoridad que conozca del asunto;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+II. Nombre, denominación o razón social y domicilio del recurrente y del tercero perjudicado en caso de que lo hubiese y en su caso el de la persona que promueva en su nombre, acreditando debidamente la personalidad con que comparece si ésta no se tenía justificada ante la autoridad que conozca del asunto;
 
 III. La resolución que se impugna y la fecha en que se notificó;
 
@@ -1681,7 +1867,13 @@ V. La mención de la autoridad que haya dictado la resolución;
 
 VI. Los documentos que la recurrente ofrezca como prueba, que tengan relación inmediata y directa con la resolución impugnada o las que, que por causa superveniente no hubiera estado en posibilidad de ofrecer al oponer sus defensas; y,
 
-VII. La solicitud de suspensión, en su caso, previa la comprobación de haber garantizado el interés fiscal ante la autoridad competente.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+VII. La solicitud de suspensión, en su caso, previa la comprobación de haber garantizado el interés fiscal ante la autoridad competente; y
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+VIII. El escrito deberá estar firmado por el interesado o su representante legal, a menos que no sepa o no pueda firmar, caso en el cual se imprimirá su huella digital.
 
 ###### ARTÍCULO 155.
 
@@ -1715,7 +1907,9 @@ V. El Sobreseimiento
 
 Para efectos de este artículo, la falta de actuación del recurrente por causas imputables a él por el término de treinta días naturales, producirá la caducidad del procedimiento.
 
-Si la inactividad fuera atribuible a la autoridad sin que se funde el motivo de la misma, antes de los cuarenta y cinco días naturales siguientes a la última acción procesal, el recurrente podrá excitar a la autoridad para que proceda al trámite; si no hubiere respuesta fundada, se procederá conforme lo disponga el Código de Justicia Administrativa, sin que ello entienda afirmativa ficta de las pretensiones del recurrente.
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+Si la inactividad fuera atribuible a la autoridad sin que se funde el motivo de la misma, antes de los cuarenta y cinco días naturales siguientes a la última acción procesal, el recurrente podrá excitar a la autoridad para que proceda al trámite; si no hubiere respuesta fundada, se procederá conforme lo disponga la Ley de Justicia Fiscal y Administrativa del Estado de Durango, sin que ello entienda afirmativa ficta de las pretensiones del recurrente.
 
 En el caso de que se determinara caducidad atribuible a un Servidor Público, se iniciará de inmediato el procedimiento previsto en la Ley de Responsabilidades aplicable.
 
@@ -1767,9 +1961,11 @@ Tratándose de obras o actividades que contravengan las disposiciones de esta Le
 
 En caso de que se expidan licencias, permisos, autorizaciones o concesiones contraviniendo esta Ley, serán consideradas nulas y no producirán efecto legal alguno, y los servidores públicos responsables serán sancionados conforme a lo dispuesto en la legislación de la materia. Dicha nulidad podrá ser exigida por medio del recurso a que se refiere al artículo anterior.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 163.
 
-En todo caso los interesados afectados por los actos y resoluciones de la Secretaría o Ayuntamientos que pongan fin al procedimiento del recurso de inconformidad, podrán recurrir directamente ante el Tribunal de lo Contencioso Administrativo del Estado, conforme a las reglas del Código de Justicia Administrativa para el Estado de Durango a interponer el recurso que corresponda.
+En todo caso los interesados afectados por los actos y resoluciones de la Secretaría o Ayuntamientos que pongan fin al procedimiento del recurso de inconformidad, podrán recurrir directamente ante el Tribunal de Justicia Fiscal y Administrativa del Estado, conforme a las reglas de la Ley de la materia, interponer el recurso que corresponda.
 
 ###### ARTÍCULO 164.
 
@@ -1854,6 +2050,16 @@ LIC. OLIVERIO REZA CUELLAR
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 6 DE JULIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente decreto.
+
+P.O. 16 DE NOVIEMBRE DE 2014.
 
 ###### ARTÍCULO PRIMERO.
 
