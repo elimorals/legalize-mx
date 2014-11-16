@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-justicia-para-menores-infractores-en-el-estado-de-707
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-11"
-last_updated: "2014-05-06"
+last_updated: "2014-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70791&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CÓDIGO DE JUSTICIA PARA MENORES INFRACTORES EN EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 11 de octubre de 2009.
 
@@ -275,9 +275,17 @@ XX. Exacción Fraudulenta;
 
 XXI. Despojo;
 
-XXII. Fraude; y,
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-XXIII. Lenocinio.
+XXII. Fraude;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+XXIII. Lenocinio; y,
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+XXIV. Delitos contra la Salud, a que se refieren los artículos 475 y 476 de la Ley General de Salud.
 
 La tentativa punible de los delitos antes mencionados en las fracciones anteriores se califica como delito grave.
 
@@ -909,11 +917,11 @@ El ejercicio de la acción de las conductas tipificadas como delitos corresponde
 
 Son causas de extinción de la acción las siguientes:
 
-disponer que el debate se celebre en audiencias públicas, continuas y sucesivas, para cada una de las conductas, siempre que ello no afecte el derecho de defensa. En este caso, el Juez podrá resolver sobre la responsabilidad al finalizar cada audiencia y fijará la medida correspondiente a todos los casos después de celebrar la audiencia final. (sic)
+disponer que el debate se celebre en audiencias públicas, continuas y sucesivas, para cada una de las conductas, siempre que ello no afecte el derecho de defensa. En este caso, el Juez podrá resolver sobre la responsabilidad al finalizar cada audiencia y fijará la medida correspondiente a todos los casos después de celebrar la audiencia final.
 
 ### CAPITULO II (SIC). EXCUSAS Y RECUSACIONES
 
-Artículo 103 (sic). El magistrado y los jueces deberán excusarse de conocer de la causa, cuando:
+Artículo 103 (SIC). El magistrado y los jueces deberán excusarse de conocer de la causa, cuando:
 
 I. Haya intervenido como Ministerio Público, defensor, mandatario o haya litigado en su contra, denunciante o querellante; actuado como perito, consultor técnico o conociera del hecho investigado como testigo, o tuviera interés directo en el proceso;
 
@@ -1523,7 +1531,7 @@ II. Cuando se considere conveniente esta resolución para mantener la convivenci
 
 III. Que el menor acredite fehacientemente la existencia de un soporte familiar que le permita desarrollarse en una ambiente de legalidad.
 
-En los casos en que el Juez de Menores decrete la suspensión de oficio, el menor, con la ratificación de su defensor, podrá optar por que (sic) el juicio se continúe, si considera que ello le resulta más conveniente.
+En los casos en que el Juez de Menores decrete la suspensión de oficio, el menor, con la ratificación de su defensor, podrá optar por que el juicio se continúe, si considera que ello le resulta más conveniente.
 
 ###### Artículo 177.
 
@@ -1717,7 +1725,7 @@ V. La acción penal esté extinguida por alguno de los motivos establecidos en l
 
 VI. Una nueva ley suprima el carácter de ilícito al hecho por el cual se viene siguiendo el proceso;
 
-VII. El hecho de que se trate haya sido materia de un proceso penal en el que se hubiera dictado sentencia firme respecto del menor; y (sic)
+VII. El hecho de que se trate haya sido materia de un proceso penal en el que se hubiera dictado sentencia firme respecto del menor; y
 
 VIII. En los demás casos en que lo disponga la ley;
 
@@ -1907,7 +1915,7 @@ Si el menor acusado se encuentra en libertad, el Juez podrá disponer para asegu
 
 ###### Artículo 218.
 
-El debate será público. Sin embargo, queda prohibido el ingreso con equipos de telefonía, grabación y video al recinto oficial, a fin de preservar la identidad del menor inculpado en los términos de este Código, teniendo facultades el Juez a petición las (sic) partes o de oficio que la misma se desarrolle total o parcialmente a puertas cerradas, cuando:
+El debate será público. Sin embargo, queda prohibido el ingreso con equipos de telefonía, grabación y video al recinto oficial, a fin de preservar la identidad del menor inculpado en los términos de este Código, teniendo facultades el Juez a petición (sic) las partes o de oficio que la misma se desarrolle total o parcialmente a puertas cerradas, cuando:
 
 I. Pueda afectar la integridad física o la intimidad de alguna de las partes o de alguna persona citada para participar en él; y,
 
@@ -2779,7 +2787,7 @@ VI. Conductas que puedan atenuar la medida, y
 
 VII. Cualquier otro aspecto de relevancia que se considere importante informar.
 
-Artículo 326 (sic). Desde el momento en que el menor ingrese al Centro, se le deberá suministrar información escrita en forma clara y sencilla, tanto de sus derechos y deberes, como de las reglas de convivencia y disciplina del Centro. En los casos en que el menor no sepa leer, se le proporcionará de forma oral.
+Artículo 326 (SIC). Desde el momento en que el menor ingrese al Centro, se le deberá suministrar información escrita en forma clara y sencilla, tanto de sus derechos y deberes, como de las reglas de convivencia y disciplina del Centro. En los casos en que el menor no sepa leer, se le proporcionará de forma oral.
 
 Todos los menores que se encuentren privados de la libertad, deberán ajustar su conducta a las normas reglamentarias del Centro.
 
@@ -3775,7 +3783,7 @@ Las conductas tipificadas como delitos permanentes y continuadas que inicien su 
 
 Los Magistrados del Tribunal para Menores infractores, duraran en su encargo el tiempo por el cual fueron designados, en términos del Artículo Decimo Segundo, Transitorio del decreto 293, expedido por el H. Congreso del Estado de Durango que contiene el Código de Justicia para Menores Infractores vigente el (sic) Estado de Durango, de fecha (11) once (sic) septiembre del año dos mil seis y publicado en el Periódico Oficial del Gobierno del Estado de Durango, en esa misma fecha, feneciendo dicho termino (14) catorce de septiembre de (2010) dos mil diez, pudiendo ser reelectos.
 
-A los jueces, Secretaria General de Acuerdos del Tribunal, los secretarios proyectistas, secretarios de acuerdos y demás personal de base y de confianza que labora en el Tribunal para Menores Infractores del Estado de Durango, se les respetarán sus derechos laborales adquiridos conforme al Código de Justicia para Menores Infractores vigente el (sic) Estado de Durango, de fecha (11) once (sic) septiembre del año dos mil seis y publicado en el Periódico Oficial del Gobierno del Estado de Durango, en esa misma fecha.
+A los jueces, Secretaria General de Acuerdos del Tribunal, los secretarios proyectistas, secretarios de acuerdos y demás personal de base y de confianza que labora en el Tribunal para Menores Infractores del Estado de Durango, se les respetarán sus derechos laborales adquiridos conforme al Código de Justicia para Menores Infractores vigente (sic) el Estado de Durango, de fecha (11) once (sic) septiembre del año dos mil seis y publicado en el Periódico Oficial del Gobierno del Estado de Durango, en esa misma fecha.
 
 Para los efectos del cumplimiento del presente, se entenderá que los Secretarios Proyectistas se denominaran en lo sucesivo, Secretarios Administrativos, conservando sus funciones y derechos.
 
@@ -3902,3 +3910,9 @@ El presente decreto entrará en vigor el día (7) siete de mayo del año dos mil
 ###### ARTÍCULO TERCERO.
 
 Los procedimientos minoriles que a la entrada en vigor del presente Decreto se encuentren en trámite, continuarán su sustanciación de conformidad con la legislación aplicable en el momento del inicio de los mismos.
+
+P.O. 16 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
