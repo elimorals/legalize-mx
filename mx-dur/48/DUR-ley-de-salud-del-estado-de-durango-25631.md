@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-salud-del-estado-de-durango-25631"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-11"
-last_updated: "2014-02-16"
+last_updated: "2014-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE SALUD DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 11 de julio de 2002.
 
@@ -89,9 +89,11 @@ LEY DE SALUD DEL ESTADO DE DURANGO
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público e interés social y de aplicación general en el Estado de Durango. Tiene por objeto la protección de la salud y establecer las bases y modalidades para el acceso a los servicios de salud, proporcionados por el Estado en los términos del artículo 4º de la Constitución Política de los Estados Unidos Mexicanos y de la Ley General de Salud. Así como la concurrencia de éste y sus municipios, en materia de salubridad local.
+La presente Ley es de orden público e interés social y de aplicación general en el Estado de Durango. Tiene por objeto la protección de la salud y establecer las bases y modalidades para el acceso a los servicios de salud, proporcionados por el Estado en los términos del artículo 4° de la Constitución Política de los Estados Unidos Mexicanos, del artículo 20 de la Constitución Política del Estado Libre y Soberano de Durango y de la Ley General de Salud. Así como la concurrencia de éste y sus municipios, en materia de salubridad local.
 
 ###### ARTÍCULO 2.
 
@@ -99,7 +101,9 @@ El derecho a la protección de la salud, tiene las siguientes finalidades:
 
 I. El bienestar físico y mental del ser humano para contribuir al ejercicio pleno de sus capacidades;
 
-II. La prolongación y el mejoramiento de la calidad de la vida humana;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+II. La prolongación y el mejoramiento de la calidad de la vida humana, a través de la difusión de: la alimentación nutritiva, los buenos hábitos alimenticios, la práctica de los deportes;
 
 III. La protección y el acrecentamiento de los valores que coadyuven a la creación, conservación y disfrute de condiciones de salud que contribuyan al desarrollo social;
 
@@ -107,9 +111,17 @@ IV. La extensión de actividades solidarias y responsables de la población en l
 
 V. El disfrute de servicios de salud y asistencia social que satisfagan eficaz y oportunamente las necesidades de la población;
 
-VI. El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud; y
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-VII. El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud, con perspectiva de género.
+VI. El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+VII. El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud, con perspectiva de género; y
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+VIII. La atención a grupos en situación de vulnerabilidad, siendo esta la condición de una mayor indefensión en la que se puede encontrar una persona, grupo o una comunidad debido a que no se cuentan con los recursos necesarios para satisfacer las necesidades básicas del ser humano, como la alimentación, el ingreso, la vivienda, los servicios de salud y el agua potable, entre otros.
 
 ###### ARTÍCULO 3.
 
@@ -143,7 +155,7 @@ XII. Atención médica: El conjunto de servicios que se proporcionan al individu
 
 > <small>(ADICIONADA, P.O. 12 DE MAYO DE 2011)</small>
 
-XIII. Violencia obstétrica: Cualquier acto o trato deshumanizado que ejerza el personal de salud sobre las mujeres en la atención médica que se les ofrece durante el embarazo, el parto y puerperio, en los términos establecidos en la Ley de las Mujeres para una Vida sin Violencia: (sic)
+XIII. Violencia obstétrica: Cualquier acto o trato deshumanizado que ejerza el personal de salud sobre las mujeres en la atención médica que se les ofrece durante el embarazo, el parto y puerperio, en los términos establecidos en la Ley de las Mujeres para una Vida sin Violencia;
 
 XIV. Patrimonio de la Beneficencia Pública: Órgano administrativo descentralizado dependiente de la Secretaría de Salud del Gobierno del Estado;
 
@@ -207,7 +219,7 @@ XLII. Granjas avícolas: los establecimientos dedicados a la cría, reproducció
 
 XLIII. Granjas porcícolas: los establecimientos dedicados a la cría, reproducción, mejoramiento y explotación de cerdos;
 
-XLIV. Apiarios: El conjunto de colmenas destinadas a la cría, explotación y mejoramientos genético de abejas;
+XLIV. Apiarios: El conjunto de colmenas destinadas a la cría, explotación y mejoramientos genético (sic) de abejas;
 
 XLV. Establecimientos similares: Todos aquellos dedicados a la cría, reproducción, mejoramiento y explotación de especies animales no incluidas en las fracciones anteriores, pero aptas para el consumo humano;
 
@@ -249,9 +261,11 @@ LX. COPRISED: La Comisión para la Protección contra Riesgos Sanitarios del Est
 
 LXI. Liposucción o Lipoaspiración o lipoescultura: La rama de la cirugía plástica, estética y reconstructiva, consistente en una maniobra terapéutica del campo invasivo quirúrgico para extirpar tejido graso, realizada con el objetivo principal de cambiar o corregir el contorno o forma, de diferentes regiones de la cara y del cuerpo que debe efectuarse por profesionales debidamente acreditados en la respectiva especialidad con el reconocimiento de la Asociación Mexicana de Cirugía Plástica Estética y Reconstructiva, y el Consejo Mexicano de Cirugía Plástica, Estética y Reconstructiva.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 4.
 
-En los términos de la Ley General de Salud, de la presente Ley y del Acuerdo Nacional para la Descentralización de los Servicios de Salud, corresponde al Gobierno del Estado de Durango, por conducto del Ejecutivo, a través de la Secretaría y el Organismo, la salubridad local, así como organizar, operar, supervisar y evaluar la prestación de los servicios de salubridad general.
+En los términos de la Ley General de Salud, de la presente Ley y del Acuerdo Nacional para la Descentralización de los Servicios de Salud, corresponde al Gobierno del Estado de Durango, por conducto del Ejecutivo, a través de la Secretaría y del Organismo, la salubridad local, así como organizar, operar, supervisar y evaluar la presentación de los servicios de salubridad general, en base a los principios de disponibilidad, accesibilidad, transparencia, aceptabilidad, calidad, universalidad, equidad, eficiencia, eficacia y perspectiva de género.
 
 ###### ARTÍCULO 5.
 
@@ -261,7 +275,7 @@ I. El Gobernador del Estado;
 
 II. La Secretaría de Salud;
 
-III. El Organismo Descentralizado denominado Servicios de Salud de Durango; y (sic)
+III. El Organismo Descentralizado denominado Servicios de Salud de Durango; y
 
 IV. Los ayuntamientos, en materia de salubridad local;
 
@@ -303,17 +317,21 @@ IV. Impulsar el desarrollo de la familia y de la comunidad, así como la integra
 
 V. Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente del Estado, que propicien el desarrollo satisfactorio de la vida;
 
-VI. Impulsar en el ámbito estatal, un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud; y (sic)
+VI. Impulsar en el ámbito estatal, un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud; y
 
 VII. Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionadas con la salud y con el uso de los servicios que presten para su protección;
 
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+VIII. Proporcionar orientación a la población respecto de la importancia de la alimentación correcta, y de cómo llevar una dieta equilibrada y la adecuada combinación de alimentos y su relación con la salud;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+IX. Impulsar campañas de difusión acerca del contenido nutricional de los diferentes alimentos; y
+
 > <small>(ADICIONADA, P.O. 3 DE ABRIL DE 2011)</small>
 
-VIII. Proporcionar orientación a la población respecto de la importancia de la alimentación correcta y su relación con la salud, y
-
-> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 2011)</small>
-
-IX. Diseñar y ejecutar políticas públicas que propicien adecuadas pautas de conducta alimentaria, garanticen un combate eficiente al sobrepeso, obesidad, desnutrición y trastornos de la conducta alimentaria y cuyos avances y resultados sean objeto de evaluación.
+X. Diseñar y ejecutar políticas públicas que propicien adecuadas pautas de conducta alimentaria, garanticen un combate eficiente al sobrepeso, obesidad, desnutrición y trastornos de la conducta alimentaria y cuyos avances y resultados sean objeto de evaluación.
 
 ###### ARTÍCULO 10.
 
@@ -327,7 +345,9 @@ III. Apoyar la coordinación de los programas y servicios de salud de toda depen
 
 IV. Impulsar, en los términos de los convenios que al efecto se suscriban, la desconcentración y descentralización a los municipios de los servicios de salud;
 
-V. Promover, coordinar y realizar la evaluación de programas y servicios de salud que le sea solicitada por el Ejecutivo Estatal;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+V. Promover, coordinar y realizar la evaluación de programas y servicios de salud que le sea solicitada por el Ejecutivo Estatal, además de realizar campañas de difusión respecto a los efectos que impactan en el ser humano, al consumir de modo excesivo alimentos con alto contenido calórico;
 
 VI. Determinar la periodicidad y características de la información que deberán proporcionar las dependencias y entidades de salud del Estado, con sujeción a las disposiciones aplicables;
 
@@ -347,9 +367,15 @@ XIII. Coadyuvar a que la formación y distribución de los recursos humanos para
 
 XIV. Promover e impulsar la participación de la comunidad del Estado en el cuidado de la salud;
 
-XV. Impulsar la permanente actualización de las disposiciones legales en materia de salud; y
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-XVI. Las demás atribuciones afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud y las que determinen las disposiciones generales aplicables.
+XV. Impulsar la permanente actualización de las disposiciones legales en materia de salud;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+XVI. Instaurar programas de nutrición, para prevenir y atender la obesidad y el sobrepeso en el (sic) población duranguense; y
+
+XVII. Las demás atribuciones afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud y las que determinen las disposiciones generales aplicables.
 
 ###### ARTÍCULO 11.
 
@@ -723,9 +749,9 @@ VII. La coordinación de la investigación para la salud y su control en los ser
 
 VIII. La información relativa a las condiciones, recursos y servicios de salud;
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-IX. La educación para la salud, proporcionado a la población información básica, científicamente validada y sistematizada, tendiente a desarrollar habilidades, actitudes y prácticas relacionadas con los alimentos y la alimentación para favorecer la adopción de una dieta adecuada a nivel individual, familiar y colectivo, tomando en cuenta las condiciones económicas, geográficas, culturales y sociales;
+IX. La educación para la salud, proporcionado (sic) a la población información básica, científicamente validada y sistematizada, tendiente a desarrollar habilidades, actitudes y prácticas relacionadas con los alimentos y la alimentación para favorecer la adopción de una dieta adecuada, a nivel individual, familiar y colectivo, tomando en cuenta las condiciones económicas, geográficas, culturales y sociales, resaltando la importancia del consumo de alimentos naturales, como alternativa a la ingesta de alimentos nocivos para la salud.
 
 > <small>(REFORMADA, P.O. 3 DE ABRIL DE 2011)</small>
 
@@ -791,7 +817,7 @@ XV. Transporte estatal y municipal;
 
 XVI. Gasolineras;
 
-XVII. Prevención y control de la fauna nociva; y (sic)
+XVII. Prevención y control de la fauna nociva; y
 
 > <small>(ADICIONADA, P.O. 3 DE ABRIL DE 2011)</small>
 
@@ -879,7 +905,9 @@ II. La prevención y el control de las enfermedades transmisibles de atención p
 
 III. La prevención y el control de las enfermedades no transmisibles más frecuentes y de los accidentes;
 
-IV. La atención médica, que comprende actividades preventivas, curativas y de rehabilitación, incluyendo la atención de urgencias;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+IV. La atención médica, que comprende actividades preventivas, curativas, paliativas y de rehabilitación, incluyendo la atención de urgencias.
 
 V. La atención materno-infantil;
 
@@ -913,15 +941,23 @@ II. El cumplimiento de las disposiciones legales aplicables por parte de los est
 
 ### CAPÍTULO III. SALUD PÚBLICA
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 46.
 
 Las actividades de atención médica son:
 
 I. Preventivas, que incluyen las de promoción general de la salud y las de protección específica;
 
-II. Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno; y
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-III. De rehabilitación, que incluyen acciones tendientes a corregir la invalidez física y mental.
+II. Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+III. Paliativas, que incluyen el cuidado integral para preservar la calidad de vida del paciente, a través de la prevención, tratamiento y control del dolor, y otros síntomas físicos y emocionales por parte de un equipo profesional multidisciplinario; y
+
+IV. De rehabilitación, que incluyen acciones tendientes a corregir la invalidez física y mental.
 
 ### CAPÍTULO IV
 
@@ -929,7 +965,7 @@ ASISTENCIA SOCIAL, PREVENCIÓN DE DISCAPACIDADES.
 
 ###### ARTÍCULO 47.
 
-Las acciones de Salud Pública comprenden, entre otras, la prevención y control de enfermedades y accidentes, la promoción de la salud, la organización y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud, así como la información relativa a las condiciones, recursos y servicios de salud de la entidad.
+Las acciones de Salud Pública comprenden, entre otras, la prevención y control de enfermedades, principalmente las crónico degenerativas y las causadas por los malos hábitos en la alimentación de los duranguenses, como la obesidad y el sobrepeso, además de atender los accidentes, la promoción de la salud, la organización y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud, así como la información relativa a las condiciones, recursos y servicios de salud de la entidad.
 
 ### CAPÍTULO V. PRESTADORES DE SERVICIOS DE SALUD
 
@@ -1243,9 +1279,17 @@ III. La asesoría para la prestación de servicios de planificación familiar a 
 
 IV. El apoyo y fomento de la investigación en materia de anticoncepción, infertilidad humana, planificación familiar y biología de la reproducción humana;
 
-V. El establecimiento de mecanismos idóneos para la determinación, elaboración, adquisición, almacenamiento y distribución de medicamentos y otros insumos destinados a los servicios de planificación familiar; y
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-VI. La recopilación, sistematización y actualización de la información necesaria para el adecuado seguimiento de las actividades desarrolladas.
+V. El establecimiento de mecanismos idóneos para la determinación, elaboración, adquisición, almacenamiento y distribución de medicamentos y otros insumos destinados a los servicios de planificación familiar;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+VI. La recopilación, sistematización y actualización de la información necesaria para el adecuado seguimiento de las actividades desarrolladas; y
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+VII. Atención médica a la sexualidad específica a la adolescencia sin distingo y discriminación, implementando programas de difusión, promoviendo el acceso a métodos de planificación familiar, asegurando su suministro, considerando que la atención en materia de salud reproductiva y la anticoncepción para los adolescentes debe ser eficiente y no discrecional.
 
 ###### ARTÍCULO 90.
 
@@ -1571,7 +1615,7 @@ III. Vigilar el establecimiento, operación y evaluación de servicios de nutric
 
 > <small>(REFORMADA, P.O. 3 DE ABRIL DE 2011)</small>
 
-IV. Promover investigaciones químicas biológicas, sociales y económicas, encaminadas a conocer las condiciones de nutrición y hábitos alimenticios que prevalecen en la población y establecer las necesidades mínimas de nutrimento para el mantenimiento de las buenas condiciones de salud de la población; y (sic)
+IV. Promover investigaciones químicas biológicas, sociales y económicas, encaminadas a conocer las condiciones de nutrición y hábitos alimenticios que prevalecen en la población y establecer las necesidades mínimas de nutrimento para el mantenimiento de las buenas condiciones de salud de la población; y
 
 > <small>(REFORMADA, P.O. 3 DE ABRIL DE 2011)</small>
 
@@ -3428,6 +3472,16 @@ PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicaci
 SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
 
 P.O. 16 DE FEBRERO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 16 DE NOVIEMBRE DE 2014.
 
 ###### ARTÍCULO PRIMERO.
 
