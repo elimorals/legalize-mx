@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2014-10-27"
+last_updated: "2014-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2014.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -37,17 +37,15 @@ CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
 ### CAPÍTULO I. División Territorial del Municipio de Aguascalientes
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
-
-###### ARTÍCULO 1º
-
-Las disposiciones del presente Código son de orden público e interés general, reglamentarias del Artículo 115 fracción II de la Constitución Política de los Estados Unidos Mexicanos, 69 de la Constitución Política del Estado de Aguascalientes y demás disposiciones que establezca la Ley que en materia municipal expida el Poder Legislativo del Estado. El presente Código lo constituyen el conjunto de normas, expedidas por el Ayuntamiento de Aguascalientes, que contienen las disposiciones relativas a los valores protegidos en la esfera del orden público, en lo que se refiere a la seguridad general, al civismo, la salubridad, la forestación, la conservación de vialidades y al ornato público, la propiedad y el bienestar de las personas en su seguridad, tranquilidad y disfrute de propiedades particulares, la igualdad entre mujeres y hombres así como la integridad moral del individuo y de la familia, recolección y disposición final de residuos, regulando además los efectos derivados de los servicios de agua potable, drenaje y alcantarillado, limpia, mercados, centrales de abasto, panteones, rastros, calles, parques, jardines, seguridad pública, policía preventiva, tránsito y transporte locales.
-
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 1°.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+Las disposiciones del presente Código son de orden público e interés general, reglamentarias del artículo 115 fracción II de la Constitución Política de los Estados Unidos Mexicanos, 69 de la Constitución Política del Estado de Aguascalientes y demás disposiciones que establezca la ley que en materia municipal expida el Poder Legislativo del Estado.
+
+El presente Código lo constituyen el conjunto de normas expedidas por el Ayuntamiento de Aguascalientes, que contienen las disposiciones relativas a los derechos protegidos en la esfera del Orden Público, en lo que se refiere a la seguridad general, al civismo, la salubridad, la forestación, la conservación de vialidades y al ornato público, la propiedad y el bienestar de las personas, en su seguridad, tranquilidad y disfrute de propiedades particulares, la igualdad entre todas y todos los habitantes sin importar origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, las orientaciones sexuales, la identidad de género, el estado civil o cualquier otra; así como la integridad moral de la persona y de la familia; recolección y disposición final de residuos, regulando además los efectos derivados de los servicios de agua potable, drenaje y alcantarillado, limpia, mercados, centrales de abasto, panteones, rastros, calles, parques, jardines, seguridad pública, policía preventiva, tránsito y transporte locales.
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 2°.
 
@@ -153,15 +151,19 @@ BIS.- Queda prohibido el uso y reproducción de blasones heráldicos y sellos di
 
 ### CAPÍTULO III. Fines del Municipio
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 6°.
 
-El Municipio de Aguascalientes, para lograr un desarrollo armónico y equilibrado de la vida social entre las personas que habitan o se establecen en el mismo, se propone como fines:
+El Municipio de Aguascalientes, para logar (sic) el desarrollo armónico y equilibrado de la vida social entre las personas que habitan o se establecen en el mismo, se propone como fines:
 
-I. Garantizar la tranquilidad, seguridad y bienes de las personas.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+I. Garantizar la tranquilidad, seguridad, derechos humanos y bienes de las personas.
 
-II. Garantizar la moral y el orden público sin trato diferenciado por razones de género o cualquier otra.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+II. Garantizar la moral, el orden público y el bienestar colectivo sin discriminación por razones de origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, las orientaciones sexuales, la identidad de género, el estado civil o cualquier otra que atente contra la dignidad humana y que tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 III. Prestar adecuadamente los servicios públicos municipales.
 
@@ -179,13 +181,17 @@ VIII. Promover el desarrollo económico y el turismo local, para generar más op
 
 IX. Normar directa y libremente las materias de su competencia.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2014)</small>
 
-X. Promover la igualdad de género, la no discriminación y la no violencia en contra de las mujeres residentes en el Municipio.
+X. Promover la igualdad de género, la no discriminación y la no violencia en contra de las mujeres y cualquier persona por razones de origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, las orientaciones sexuales, la identidad de género, el estado civil o cualquier otra que atente contra la dignidad humana y que tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 > <small>(ADICIONADA, P.O. 31 DE ENERO DE 2011)</small>
 
 XI. Fomentar la participación ciudadana en la observación, vigilancia y evaluación de la calidad en la gestión pública municipal.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+XII. Prevenir, investigar y sancionar las violaciones a los derechos humanos en el ámbito de su competencia, de conformidad con la normatividad vigente.
 
 > <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
@@ -385,11 +391,9 @@ XXXII. Aquellos Comités o Consejos Ciudadanos que el Cabildo apruebe establecer
 
 El Presidente Municipal es el ejecutor de las determinaciones del H. Ayuntamiento y el encargado de realizar la administración del Municipio, con base en los criterios y políticas establecidas por el H. Ayuntamiento, así como las demás atribuciones que le concede la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, y la Ley que en materia municipal expida el Poder Legislativo del Estado.
 
-> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
 
-###### ARTÍCULO 16
-
-BIS.- El Presidente Municipal, a través de la Unidad Administrativa que éste determine, deberá:
+ARTÍCULO 16 BIS.- El Presidente Municipal a través de la Unidad Administrativa que éste determine, deberá:
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -402,6 +406,10 @@ III. Implementar cursos y talleres de prevención y protección contra la violen
 IV. Proporcionar a las víctimas de violencia la asesoría necesaria para conocer su situación jurídica y sus derechos.
 
 V. Promover la cultura de respeto a los derechos fundamentales de las mujeres.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+VI. Capacitar al personal del Municipio en funciones de Seguridad Pública y sensibilizarlo para prevenir casos de violencia en contra de persona alguna por su identidad de género u orientación sexual.
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
 
@@ -2121,7 +2129,19 @@ VIII. Previo acuerdo con el Instituto Municipal de Planeación, expedir las conv
 
 IX. Coordinarse, en el ámbito de sus facultades de acuerdo a su capacidad operativa, con las demás instancias municipales.
 
-X. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+X. Cumplir con lo establecido en la Ley de Obras Públicas y Servicios Relacionados para el Estado de Aguascalientes.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+XI. Contratar los servicios y adquirir los materiales y suministros requeridos para la ejecución de la obra pública que sea realizada directamente por esta Secretaría.
+
+Para el caso del supuesto establecido en el párrafo anterior, dicha facultad se encuentra limitada exclusivamente para el procedimiento de compra directa establecido en el Reglamento de Adquisiciones, Arrendamientos y Servicios del Municipio de Aguascalientes
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+XII. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
 APARTADO DÉCIMO PRIMERO
 
@@ -2263,7 +2283,9 @@ XIII. Integrar equipos, organizar torneos y eventos deportivos así como conform
 
 XIV. Administrar las instalaciones y espacios deportivos del Municipio.
 
-XV. El fomento al empleo e impulso a la actividad económica en el comercio y los servicios, para el logro del bienestar social, del Municipio de Aguascalientes, que permita la participación de la juventud, de las mujeres y las personas con capacidades diferentes.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+XV. El fomento al empleo e impulso a la actividad económica en el comercio y los servicios, que permita la participación de la juventud, las mujeres, sin discriminación por razones de origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, las orientaciones sexuales, la identidad de género; el estado civil o cualquier otra que atente contra la dignidad humana y que tenga por objeto anular o menoscabar los derechos y libertades de las personas, para el logro del bienestar social del Municipio de Aguascalientes,
 
 XVI. Promover el autoempleo y el fortalecimiento de las micro y pequeñas empresas en el comercio y los servicios.
 
@@ -2783,11 +2805,11 @@ Para prevenir los accidentes de trabajo y enfermedades profesionales los trabaja
 
 El salario es la retribución que debe de pagarse al trabajador a cambio de los servicios prestados. Su pago se hará quincenalmente, efectuándose los días 15 y 30 de cada mes, en el lugar de trabajo o en las instalaciones del propio Ayuntamiento, en moneda del curso legal, cheque nominativo o a través del sistema electrónico de pagos que establezca la Secretaría de Finanzas Públicas, teniendo la obligación de firmar los recibos de sueldos o cualquier documento que tenga el Ayuntamiento como comprobante del pago.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 130.
 
-El salario será uniforme para cada una de las categorías de los trabajadores y trabajadoras de base de acuerdo al tabulador que establezca la Secretaría de Administración y será fijado legalmente en los presupuestos respectivos, no pudiendo ser menor, atendiendo a condiciones de sexo, edad, nacionalidad, estado civil, origen étnico o racial, género, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, religión, opiniones, preferencia u orientación sexual o cualquier otra análoga.
+El salario será uniforme para cada una de las categorías de los trabajadores y trabajadoras de base de acuerdo al tabulador que establezca la Secretaría de Administración y será fijado legalmente en los presupuestos respectivos, no pudiendo ser menor por razones de origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, , las preferencias sexuales, las orientaciones sexuales, la identidad de género, el estado civil o cualquier otra que atente contra la dignidad humana y que tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 APARTADO TERCERO
 
@@ -4445,9 +4467,11 @@ XV. Para imponer, como sanción administrativa, el servicio comunitario, conform
 
 XVI. Las demás que se desprendan del presente Código y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 299.
 
-Los Jueces Municipales, dentro de su turno serán la máxima autoridad tanto del Juzgado respectivo como del Centro de Detención adjunto y cuidarán estrictamente que se respeten las garantías individuales de los infractores y su dignidad humana, quedando bajo su responsabilidad cualquier atentado en que incurra el personal del Juzgado.
+Los jueces municipales, dentro de su turno, serán la máxima autoridad tanto del juzgado respectivo como del centro de detención adjunto y cuidaran estrictamente que se respeten y hagan valer los derechos humanos de los infractores y su dignidad humana, quedando bajo su responsabilidad cualquier atentado en que incurra el personal del juzgado.
 
 ###### ARTÍCULO 300.
 
@@ -4461,9 +4485,11 @@ APARTADO TERCERO
 
 Del Receptor de Presuntos Infractores
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 302.
 
-El receptor de presuntos infractores deberá ser licenciado en derecho, estará bajo la supervisión del Juez Municipal y tendrá, en orden progresivo, las siguientes obligaciones:
+La persona que reciba a presuntos infractores, deberá respetar en todo momento los derechos humanos del presunto infractor, tener grado de Licenciatura en Derecho, estará bajo la supervisión del juez municipal y tendrá, en orden progresivo, las siguientes obligaciones:
 
 I. La recepción de los detenidos que sean puestos a su disposición.
 
@@ -4863,9 +4889,11 @@ APARTADO SEGUNDO
 
 De las Faltas Contra la Seguridad Pública
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 338.
 
-Son faltas contra la seguridad pública y se sancionarán con arresto hasta por treinta y seis horas o multa de cinco a treinta días de Salario Mínimo General Vigente en el Estado, las siguientes:
+Son faltas contra la seguridad pública y se sancionarán con arresto hasta por treinta y seis horas o multa de cinco a treinta días de salario mínimo general vigente en el Estado, las siguientes:
 
 I. Causar, en los espectáculos y lugares públicos, falsas alarmas, lanzar voces o tomar actitudes que infundan o puedan infundir pánico en los presentes.
 
@@ -4890,6 +4918,10 @@ X. Ingerir bebidas embriagantes en la vía pública.
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
 XI. Realizar actos de violencia contra las mujeres, en términos de la legislación del Estado que regula las modalidades y tipos de violencia de género.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+XII. Realizar actos de violencia contra cualquier habitante que pertenezca a cualquier minoría social o grupo en situación de vulnerabilidad.
 
 APARTADO TERCERO
 
@@ -4977,9 +5009,11 @@ APARTADO SEXTO
 
 De las Faltas Contra el Bienestar Colectivo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 342.
 
-Son faltas contra el bienestar colectivo y se sancionarán con arresto de hasta por treinta y seis horas o multa de tres a treinta días de Salario Mínimo General Vigente en el Estado, las siguientes:
+Son faltas contra el bienestar colectivo y se sancionarán con arresto de hasta por treinta y seis horas o multa de tres a treinta días de salario mínimo general vigente en el Estado las siguientes:
 
 I. Causar escándalo en la vía pública.
 
@@ -5011,13 +5045,13 @@ XII. Realizar acoso contra las mujeres, siempre y cuando no constituya algún de
 
 XIII. Una perturbación relevante de la convivencia que afecte de manera grave, inmediata y directa a la tranquilidad o al ejercicio de derechos legítimos de otras personas como son la violencia intrafamiliar y de género.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2014)</small>
 
-XIV. Efectuar actos de discriminación o de violencia de género.
+XIV. Efectuar actos de discriminación o de violencia de cualquier tipo por razones de origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, las orientaciones sexuales, la identidad de género, el estado civil o cualquier otra que atente contra la dignidad humana y que tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2014)</small>
 
-XV. Efectuar trato diferenciado entre mujeres y hombres en la prestación de cualquier servicio o en el otorgamiento de algún derecho.
+XV. Efectuar trato diferenciado entre mujeres y hombres, así como cualquier persona por su origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, las orientaciones sexuales, la identidad de género, el estado civil o cualquier otra en la prestación de cualquier servicio o en el otorgamiento de algún derecho.
 
 APARTADO SÉPTIMO
 
@@ -5057,9 +5091,11 @@ APARTADO OCTAVO
 
 De las Faltas Contra la Integridad Moral del Individuo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 344.
 
-Son faltas contra la integridad moral del individuo y de la familia y se sancionarán con arresto de hasta por treinta y seis horas o multa de cinco a treinta días de Salario Mínimo General Vigente en el Estado, las siguientes:
+Son faltas contra la integridad moral individual, colectiva y de la familia y se sancionarán con arresto de hasta por treinta y seis horas o multa de cinco a treinta días de salario mínimo general vigente en el Estado, las siguientes:
 
 I. Usar drogas, sustancias, plantas o semillas enervantes en la vía pública.
 
@@ -5067,7 +5103,9 @@ II. Invitar, inducir, promocionar o facilitar en la vía pública el comercio ca
 
 III. Injuriar a las personas que asistan a un espectáculo o diversión con palabras, actitudes o gestos, por parte de los actores, jugadores, músicos o auxiliares del espectáculo o diversión.
 
-IV. Faltar, en la vía pública, al respeto o consideración que se debe a los adultos mayores, mujeres, niños o a personas con capacidades diferentes.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+IV. Faltar en la vía pública, al respeto o consideración que se debe a los adultos mayores, mujeres, niños, a personas con discapacidad y a cualquier persona por su origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, las orientaciones sexuales, la identidad de género, el estado civil o cualquier otra.
 
 V. Corregir con escándalo, vejar o maltratar a los menores, adultos mayores, al cónyuge, concubina o concubinario en la vía pública, o bien en el interior de un bien inmueble, siempre que cause efectos hacia el exterior o lo solicite un tercero.
 
@@ -7401,43 +7439,69 @@ XIII. Emitir y publicar acuerdos para la correcta operación de las áreas que s
 
 XIV. Las demás que le confiera el Secretario y las disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 558.
 
-La Dirección de Prevención del Delito tendrá las siguientes atribuciones:
+La Dirección de Prevención del Delito, tendrá las siguientes atribuciones:
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 I. Desarrollar y aplicar las políticas en materia de prevención del delito, a fin de implementar modelos educativos que permitan combatir la delincuencia, fomentando en la población una cultura de prevención y seguridad, que restaure y conserve el orden social y reduzca el daño causado por la delincuencia, promoviendo una participación corresponsable entre las autoridades y la población, a fin de incrementar la seguridad personal y patrimonial de los habitantes del Municipio;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 II. Promover la concertación Institucional y sectorial en los ámbitos público, privado y social, participando en programas de prevención delictiva;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 III. Desarrollar y establecer modelos de prevención delictiva, en los que participe la población en forma individual, grupal, comunitaria o institucional, llevando a cabo acciones tendientes a evitar o reducir los daños causados por la comisión de delitos o faltas administrativas;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 IV. Promover la coordinación, comunicación y el intercambio de experiencias con instituciones estatales, nacionales e internacionales en materia de prevención del delito, fungiendo como enlace de la Secretaría ante estas instancias;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 V. Difundir las medidas en materia de prevención del delito, emanados de los Sistemas Nacional y Estatal de Seguridad Pública;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 VI. Desarrollar y aplicar los planes y programas tendientes a fomentar en la población la cultura cívica y la sana convivencia vecinal y social;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 VII. Desarrollar y fomentar programas de prevención del delito en instituciones de enseñanza, con la participación de alumnos, maestros, autoridades y padres de familia, procurando el rescate de los valores personales, familiares y sociales;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 VIII. Promover y asesorar a las organizaciones vecinales, instituciones y a la población en general respecto de programas y acciones en materia de Seguridad Pública y prevención del delito;
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2014)</small>
 
 IX. Desarrollar e implementar programas encaminados a:
 
-a) Prevenir la violencia infantil y juvenil;
+a).- Prevenir la violencia infantil y juvenil.
 
-b) Promover la erradicación de la violencia, especialmente la ejercida contra niñas, niños, jóvenes, mujeres, indígenas, adultos mayores, dentro y fuera del seno familiar;
+b).- Promover la erradicación de la violencia en contra de cualquier persona por su origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, las orientaciones sexuales, la identidad de género, el estado civil o cualquier otra; dentro y fuera del seno familiar.
 
-c) Prevenir la violencia generada por el uso de armas, el abuso de drogas y alcohol; y
+c).- Prevenir la violencia generada por el uso de armas, el abuso de drogas y alcohol.
 
-d) Promover la atención integral a las víctimas del delito;
+d).- Promover la atención integral a las víctimas del delito.
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 X. Emitir y publicar acuerdos para la correcta operación de las áreas que se encuentren bajo su responsabilidad, previa revisión de la Coordinación de Asuntos Jurídicos y la autorización respectiva del Secretario;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 XI. Realizar, en coordinación con las áreas correspondientes, estudios sobre las causas estructurales del delito, su distribución geodelictiva, estadísticas de conductas ilícitas no denunciadas, tendencias históricas y patrones de comportamiento que permitan actualizar y perfeccionar las políticas tendientes a la prevención del delito;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 XII. Emitir informes mensuales de sus actividades al Secretario; y
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 XIII. Las demás que le confiera el Secretario y las disposiciones legales aplicables.
 
@@ -15673,17 +15737,17 @@ Cuando se hubiera concluido el plazo del permiso de un anuncio, la Secretaría p
 
 Los volantes, folletos, perifoneo, lonas, mantas, sonido y en general la propaganda impresa y distribuida en forma directa, requerirán de licencia o permiso; emitido por la Secretaría quien indicará la temporalidad autorizada y le serán aplicables las disposiciones legales y reglamentarias que correspondan según sea el caso.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 1185.
 
-No se otorgará licencia o permiso para la fijación, instalación o colocación de anuncios, cuyo contenido haga referencia a ideas o imágenes con textos o figuras que inciten a la violencia, sean pornográficos, desarmonicen la imagen visual de su entorno o la arquitectónica de los edificios, en la vía publica, mobiliario urbano, promuevan la discriminación de raza o condición social, resulten ofensivos, difamatorios o atenten contra la dignidad del individuo o de la comunidad en general, así como para anuncios que, de acuerdo al dictamen emitido por la Secretaría, alteren la imagen visual y urbana del entorno en que se pretendan instalar, fijar, colocar o modificar texto.
+No se otorgará licencia o permiso para la fijación, instalación o colocación de anuncios cuyo contenido haga referencia a ideas o imágenes con textos o figuras que inciten a la violencia, sean pornográficos, desarmonicen la imagen visual de su entorno o la arquitectura de los edificios, en la vía pública, mobiliario urbano, o promuevan la discriminación por razones de origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, las orientaciones sexuales, la identidad de género, el estado civil, resulten ofensivos, difamatorios o cualquier otra que atente contra la dignidad humana y que tenga por objeto anular o menoscabar los derechos y libertades de las personas, así como anuncios que de acuerdo al dictamen emitido por la Secretaría, alteren la imagen visual y urbana del entorno en que se pretendan instalar.
 
-> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
 
-###### ARTÍCULO 1185
+ARTÍCULO 1185 BIS.- Queda estrictamente prohibida la colocación de carteles, así como todo tipo de imágenes, retratos o logotipos de personas, que atenten contra la moral, las buenas costumbres o generen conductas de violencia o discriminación hacia las mujeres, hombres o por razón de origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, las orientaciones sexuales, la identidad de género, el estado civil o cualquier otra que atente contra la dignidad humana y que tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
-BIS.- Queda estrictamente prohibido la colocación de carteles así como todo tipo de imágenes, retratos o logotipos de personas, que atenten contra la moral, las buenas costumbres o generen conductas de violencia o discriminación hacia las mujeres.
-
-Es obligación del titular de la autorización, licencia o permiso, evitar usar lenguajes e imágenes que refuercen los roles negativos del hombre y de la mujer.
+Es obligación del titular de la autorización, licencia o permiso, evitar usar lenguajes e imágenes que refuercen los roles negativos del hombre y de la mujer, niños, niñas, o de personas por razón de origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, las orientaciones sexuales, la identidad de género, el estado civil o cualquier otra que atente contra la dignidad humana.
 
 ###### ARTÍCULO 1186.
 
@@ -17011,9 +17075,9 @@ XXXVII. Titular de Licencia y/o Permiso.- Persona física o moral a quien se le 
 
 XXXVIII. Zona de Tolerancia.- Área urbana delimitada, donde se ejerce la prostitución.
 
-> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
 
-ARTÍCULO 1293 TER.- La autoridad municipal en uso de sus facultades y atribuciones, deberá garantizar y vigilar la tranquilidad, seguridad y bienestar de las personas, cuidando que no se altere el orden público o las buenas costumbres, anteponiendo cualquier interés particular que se oponga al bienestar colectivo, para una sana convivencia y un desarrollo armónico.
+ARTÍCULO 1293 TER.- La autoridad Municipal en uso de sus facultades y atribuciones, deberá garantizar y vigilar la tranquilidad, seguridad, bienestar y los derechos humanos de las personas, cuidando que no se altere el orden público o las buenas costumbres, anteponiendo cualquier interés particular que se oponga el bienestar colectivo, para una sana convivencia y un desarrollo armónico.
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
@@ -22175,8 +22239,6 @@ DECRETO POR EL QUE SE MODIFICAN LOS ARTÍCULOS 340 Y 341 DEL CÓDIGO MUNICIPAL D
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-P.O. 30 DE AGOSTO DE 2010.
-
 ###### ARTÍCULO 2°.
 
 Con el presente decreto se adicionan al Artículo 340 las fracciones IX y X; también se modifica el Artículo 341fracción (sic) III y se adiciona la fracción XI.
@@ -22184,6 +22246,12 @@ Con el presente decreto se adicionan al Artículo 340 las fracciones IX y X; tam
 P.O. 24 DE MAYO DE 2010.
 
 DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 1174 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
+
+###### ARTÍCULO 1°.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 30 DE AGOSTO DE 2010.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -22476,3 +22544,15 @@ P.O. 27 DE OCTUBRE DE 2014.
 DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XXVI DEL ARTÍCULO 15 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
 ÚNICO.- La presenté reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE NOVIEMBRE DE 2014.
+
+POR LO QUE SE REFORMA LA FRACCIÓN X Y SE ADICIONAN LAS FRACCIONES XI Y XII DEL ARTÍCULO 109 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE NOVIEMBRE DE 2014.
+
+POR LO QUE SE REFORMAN LOS ARTÍCULOS 1°, 6° EN SUS FRACCIONES I, II Y X, 111 FRACCIÓN XV, 130, 299, 302, 342 FRACCIÓN XIV Y XV, 344 FRACCIÓN IV, 558 FRACCIÓN IX, 1185, 1185 BIS Y 1293 TER; SE ADICIONAN LOS ARTÍCULOS 6° FRACCIÓN XII, 16 BIS FRACCIÓN VI, 338 FRACCIÓN XII, DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
+
+LAS MODIFICACIONES CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
