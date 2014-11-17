@@ -4,7 +4,7 @@ identifier: "HID-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5948
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2013-12-31"
+last_updated: "2014-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -241,7 +241,7 @@ III.- Difundir en la sociedad que el aprovechamiento y hostigamiento sexual son 
 
 IV.- Diseñar programas que brinden servicios de orientación y actividades integrales para víctimas y generadores de violencia;
 
-V.- Celebrar convenios con el sector privado, con el objeto de prevenir y sancionar prácticas discriminatorias; y (sic)
+V.- Celebrar convenios con el sector privado, con el objeto de prevenir y sancionar prácticas discriminatorias; y
 
 VI.- Incorporar a las actividades escolares, talleres temáticos, sobre discriminación y violencia de género.
 
@@ -296,6 +296,10 @@ El banco de datos se integrará y operará conforme a los lineamientos que al ef
 IV.- La promoción de la cultura de la legalidad y de la denuncia de actos violentos, públicos o privados contra las mujeres; y
 
 V.- La implementación de medidas de seguridad pública que favorezcan a las mujeres.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+ARTÍCULO 16 BIS.- Los Ayuntamientos en el ámbito de sus competencias deberán fomentar el desarrollo de programas de capacitación y la aplicación de protocolos con perspectiva de género, orientados a sus servidores públicos con el fin de brindarles herramientas suficientes para su intervención en episodios de violencia familiar.
 
 ### CAPÍTULO IV
 
@@ -867,7 +871,7 @@ XIV.- Establecer los indicadores para la evaluación de la administración públ
 
 XV.- Orientar y asesorar a los integrantes del Sistema Estatal en la elaboración del Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
-XVI.- Impulsar la armonización de las Leyes en materia de derechos fundamentales de las mujeres; y (sic)
+XVI.- Impulsar la armonización de las Leyes en materia de derechos fundamentales de las mujeres; y
 
 > <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
 
@@ -1090,3 +1094,9 @@ P.O. 31 DE DICIEMBRE DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entra en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
