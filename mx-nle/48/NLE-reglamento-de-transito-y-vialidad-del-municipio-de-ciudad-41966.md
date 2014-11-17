@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-ciudad-41966
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-11-26"
-last_updated: "2014-06-16"
+last_updated: "2014-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE CIUDAD GUADALUPE, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo de León, el viernes 26 de noviembre del 2004.
 
@@ -804,6 +804,26 @@ XXXIII. Dar vuelta a la izquierda por los carriles exclusivos de transporte púb
 > <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2014)</small>
 
 XXXIV. El uso de los teléfonos celulares sin manos libres y de cualesquier otro dispositivo móvil o fijo derivado del uso de las nuevas tecnologías de la información y comunicación.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+ARTÍCULO 40 BIS.- La conducción de vehículo automotor en estado de voluntaria intoxicación que afecten la capacidad de manejo, o utilizando simultáneamente algún tipo de aparato de comunicación, salvo que se utilice con tecnología de manos libres u otra tecnología que evite la distracción del conductor, prohibidas en artículo 40 del presente Reglamento, serán sancionada (sic) al menos, en los términos siguientes:
+
+I. Por conducir en alguna de las referidas condiciones, una multa y tratamiento para los conductores en estado de voluntaria intoxicación, suspensión de la vigencia de la licencia de hasta tres meses y arresto administrativo de ocho a doce horas.,
+
+II. Por conducir en alguna de las referidas condiciones, y cometer cualquier infracción administrativa, una multa, y tratamiento para los conductores en estado de voluntaria intoxicación, suspensión de la vigencia de la licencia hasta por seis meses y arresto administrativo de doce a veinticuatro horas;
+
+III. Por conducir en alguna de las referidas condiciones, por más de dos veces en un lapso de un año, procederá multa, y tratamiento para los conductores en estado de voluntaria intoxicación, suspensión de la vigencia de la licencia hasta por doce meses y arresto administrativo de veinticuatro a treinta y seis horas.
+
+IV. Por acreditar haber acudido al menos al 90% de las sesiones de tratamiento decretadas, multa y suspensión de la licencia para conducir hasta por 18 meses.
+
+En todos los casos de infracciones con motivo de conducción en estado de voluntaria intoxicación que afecten la capacidad de manejo, el infractor se deberá comprometer a asistir a tratamiento o cursos de rehabilitación y acreditar su cumplimiento ante la autoridad competente. De no efectuar el compromiso o no acreditarlo, se le suspenderá la vigencia de la licencia para conducir hasta por 18 meses.
+
+Tratándose de menores no emancipados que haya (sic) cometido infracciones con motivo de conducción de vehículos en alguna de las condiciones señaladas en el primer párrafo de este artículo, se les cancelara la licencia para conducir o estarán inhabilitados para obtenerla hasta por doce meses, y en su caso el tratamiento o curso se acordara con quienes ejerzan la patria potestad o custodia, quienes deberán acompañar al infractor a dicho tratamiento o curso.
+
+La autoridad municipal dentro de los siguientes diez días hábiles, contados a partir de la fecha de la infracción, notificará al titular de la licencia a fin de que dentro del plazo de quince días hábiles manifieste lo que a su derecho convenga, presente las pruebas y genere los alegatos de su intención.
+
+Vencido el término para su defensa, dicha autoridad resolverá en definitiva y notificará dentro de los quince días hábiles siguientes al titular de la licencia.
 
 ###### ARTÍCULO 41.
 
@@ -1875,6 +1895,10 @@ XIV. Mantener un registro de las infracciones de tránsito que se hayan cometido
 
 XV. Realizar campañas de difusión para concientizar a los conductores sobre los riesgos que se presentan al manejar en estado de ebriedad o de ineptitud para conducir, sobre los efectos del consumo excesivo de bebidas alcohólicas, así como de las infracciones y sanciones que se establecen en este Reglamento;
 
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+Implementar permanentemente un curso audiovisual de manejo responsable, con el propósito de prevenir, concientizar y sensibilizar a los conductores de cualesquier tipo de vehículo automotor para formar e informar con relación a los inconvenientes y consecuencias de conducir bajo el efecto de las bebidas alcohólicas o intoxicado con cualquier sustancia, además de incluir los riesgos de los accidentes que se pueden ocasionar cuando al conducir vehículos motores utilice teléfono celular, radio o cualquier aparato derivado de las tecnologías de la información y comunicación, ya sea para hablar o enviar cualquier tipo de mensajes de texto.
+
 XVI. Trasladar al conductor ante el personal competente de la Institución Hospitalaria, de emergencia o de auxilio, cuando ha participado en hechos o actos, en los cuales las consecuencias legales dependen o se ven agravados por el hecho de que se encuentre en estado de ebriedad o ineptitud para conducir, a fin de que se le tomen las muestras necesarias para llevar a cabo los análisis respectivos;
 
 XVII. Informar a los directivos de las Instituciones Educativas con reconocimiento oficial en el Estado, si el infractor es estudiante mayor de edad, cuando cometa la infracción de conducir en estado de ebriedad o de ineptitud para conducir.
@@ -2015,23 +2039,27 @@ El conductor será solidariamente responsable, junto con el propietario del veh�
 
 Las sanciones por faltas o violaciones al presente Reglamento, consistirán en:
 
-I. SUSPENSION DE LA LICENCIA DE CONDUCIR.- Se podrá suspender la licencia de conducir hasta por tres meses y en caso de reincidencia dentro de los siguientes seis meses se suspenderá hasta 18 meses, en los siguientes casos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+I.- SUSPENSIÓN DE LA LICENCIA DE CONDUCIR.- Además de las sanciones que contiene el presente Reglamento se podrá suspender la vigencia de la licencia de conducir en los siguientes casos:
 
 A). Por abandonar injustificadamente el lugar de un accidente.
 
-B). Por manejar en estado de ebriedad, o en estado de ineptitud para conducir, bajo el influjo de drogas o sustancias tóxicas, en este caso, además de la sanción económica a que se haga acreedor.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
 
-En este caso, la autoridad de tránsito al tener conocimiento de la comisión de infracciones por manejar en estado de ebriedad o de ineptitud para conducir, retendrá provisionalmente la licencia al conductor infractor y notificará de inmediato esta situación a la Secretaría de Finanzas y Tesorería General del Estado, enviándole la documentación en la que consten las infracciones cometidas.
+B).- Por manejar en estado de ebriedad, o en estado de ineptitud para conducir, bajo el influjo de drogas, sustancias toxicas.
 
-La Secretaria de Finanzas y Tesorería General del Estado dentro de los siguientes cinco días hábiles notificará a su vez al titular de la licencia, a fin de que, dentro de un plazo de quince días hábiles manifieste lo que a su derecho convenga.
+1) En todos los casos en que la autoridad municipal competente tenga conocimiento de la comisión de infracciones que tengan como sanción la suspensión, cancelación o revocación de licencias de conducir procederá conforme al siguiente procedimiento:
 
-Vencido el término para su defensa, la Secretaria de Finanzas y Tesorería General del Estado resolverá en definitiva y notificará dentro de los cinco días hábiles siguientes al titular de la licencia (y a la Autoridad de Tránsito respectiva).
+2) Se detendrá la licencia de conducir del infractor remitiéndola de inmediato a la autoridad estatal competente en materia de expedición de licencias con la copia del documento en el que consten las infracciones cometidas para efectos de que ésta sustancie el procedimiento correspondiente y emita la resolución que proceda.
 
-La Autoridad de Tránsito retendrá la licencia de conducir al infractor, por el término que dure el procedimiento descrito anteriormente, (debiendo devolverla al titular en caso de resolución favorable a éste, o retenerla la (sic) por el término que dicte la Secretaria de Finanzas y Tesorería General del Estado, según sea el caso o hasta que se cumplan (sic) la sanción).
+3) Dentro de los siguientes diez días hábiles, contados a partir de la fecha de cometida la infracción notificará al titular de la licencia a fin de que dentro del plazo de quince días hábiles manifieste lo que a su derecho convenga, presente las pruebas y genere los alegatos de su intención.
 
-Para efectos de la reincidencia, la Secretaria de Finanzas y Tesorería General del Estado, elaborará un registro de conductores infractores, el cual deberá contener los datos del conductor, las infracciones cometidas y fechas de las mismas.
+4) Vencido el término para su defensa, dicha autoridad resolverá en definitiva y lo notificará dentro de los quince días hábiles siguientes al titular de la licencia.
 
-Tratándose de menores de edad éstos no podrán tramitar una nueva licencia hasta la obtención de su mayoría de edad.
+5) Posteriormente, notificará a la autoridad estatal competente en materia de expedición de licencias, sobre la resolución definitiva y en su caso le remitirá la licencia retenida, a fin de que ésta efectúe las anotaciones correspondientes en la Basa de Datos donde se registren dichas sanciones, así como su cumplimiento, lo cual deberá tomarse en cuenta pare determinar la reincidencia.
+
+6) Se podrá reactivar la licencia de conducir si el infractor demuestra haber cumplido la sanción, o en su caso, solicite y realice 30 horas de servicio en la comunidad por cada mes que se le haya decretado la suspensión de la licencia de conducir;
 
 C) Por orden judicial.
 
@@ -2051,9 +2079,31 @@ A) Por abandonar injustificadamente el lugar de un accidente en más de una ocas
 
 B) Por resultar responsable de más de dos accidentes graves en un período de un año.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
 
-C) Al conducir en estado de ebriedad o eneptitud (sic) bajo el influjo de drogas o sustancias toxicas, en tres ocasiones en un período de seis meses.
+C) Por conducir en estado de ebriedad o ineptitud bajo el influjo de drogas o substancias tóxicas, por más de dos veces en un lapso de un año, procederá multa, y el cumplimiento del tratamiento para los conductores en estado de voluntaria intoxicación, y arresto administrativo de veinticuatro a treinta y seis horas;
+
+El procedimiento para la suspensión o cancelación de la licencia de conducir al tener conocimiento de la comisión de infracciones que tengan como sanción la suspensión o cancelación de licencias de conducir es el siguiente:
+
+I. Retendrán inmediatamente de forma provisional, como medida preventiva, la licencia del conductor del vehículo;
+
+II. Tomarán las medidas necesarias, de acuerdo a la normativa, para evitar que el titular de la licencia continúe conduciendo;
+
+III. Notificarán de inmediato la retención a la autoridad estatal competente en materia de expedición de licencias; y
+
+IV. Notificarán a la autoridad municipal competente, remitiéndole la licencia y copia del documento en el que consten las infracciones cometidas para efectos de que ésta sustancie el procedimiento correspondiente y emita la resolución que proceda.
+
+La autoridad municipal dentro de los siguientes diez días hábiles notificará al titular de la licencia a fin de que dentro del plazo de quince días hábiles manifieste lo que a su derecho convenga, presente las pruebas y genere los alegatos de su intención.
+
+Vencido el término para su defensa, dicha autoridad resolverá en definitiva y lo notificará dentro de los quince días hábiles siguientes al titular de la licencia.
+
+Posteriormente, notificará a la autoridad estatal competente en materia de expedición de licencias, sobre la resolución definitiva y en su caso le remitirá la licencia retenida, a fin de que ésta efectúe las anotaciones correspondientes en la Base de Datos donde se registren dichas sanciones.
+
+En todos los casos de infracciones con motivo de conducción en estado de voluntaria intoxicación que afecten la capacidad de manejo, el infractor se deberá comprometer a asistir a tratamiento o cursos de rehabilitación y acreditar su cumplimiento ante la autoridad competente. De no efectuar el compromiso o no acreditarlo, se le suspenderá la vigencia de la licencia para conducir hasta por 18 meses.
+
+Tratándose de menores no emancipados que hayan cometido infracciones con motivo de conducción de vehículos en alguna de las condiciones señaladas en este artículo, se les cancelará la licencia para conducir o estarán inhabilitados para obtenerla hasta por doce meses, y en su caso el tratamiento o curso se acordará con quienes ejerzan la patria potestad o custodia, quienes deberán acompañar al infractor a dicho tratamiento o curso.
+
+Por no acreditar haber acudido al menos al 90 % de las sesiones de tratamiento decretadas, además de una multa y suspensión de la licencia para conducir hasta por 18 meses.
 
 D) Por orden judicial.
 
@@ -2111,7 +2161,7 @@ V. MULTA.- El cobro de una multa se hará aplicando la cantidad en pesos que cor
 
 > <small>N. DE E. VÉASE TABULADOR EN EL P.O. DE 26 DE NOVIEMBRE DE 2004, PÁGINAS 122-129.</small>
 
-> <small>N. DE E. VÉASE REFORMAS AL TABULADOR DE INFRACCIONES, P.O. 29 DE DICIEMBRE DE 2006, PÁGINAS DE LA 102 A LA 133; P.O. 4 DE JULIO DE 2011, PÁGINA 30; P.O. 29 DE ENERO DE 2014, PÁGINA 62; P.O. 16 DE JUNIO DE 2014, PÁGINA 46.</small>
+> <small>N. DE E. VÉASE REFORMAS AL TABULADOR DE INFRACCIONES, P.O. 29 DE DICIEMBRE DE 2006, PÁGINAS DE LA 102 A LA 133; P.O. 4 DE JULIO DE 2011, PÁGINA 30; P.O. 29 DE ENERO DE 2014, PÁGINA 62; P.O. 16 DE JUNIO DE 2014, PÁGINA 46, P.O. 17 DE NOVIEMBRE DE 2014, PÁGINAS 78-79.</small>
 
 ###### ARTÍCULO 137.
 
@@ -2239,6 +2289,14 @@ En el caso de las infracciones cometidas por menores de edad, para poder recuper
 
 Si la Autoridad Municipal observare la comisión de un ilícito penal, turnará el caso al Agente del Ministerio Público investigador correspondiente, o a la Agencia del Ministerio Público Especial en Justicia para Adolescentes, poniendo a su disposición a la persona indiciada.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+En todos los casos la recuperación de la Licencia de conducir, además de lo anterior se sujetara a la (sic) establecido en el artículo 136 Fracción I último párrafo de este Reglamento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+Y así mismo demuestre haber cumplido con la sanción en su caso, solicite y realice 30 horas de servicio en la comunidad por cada mes que se le haya decretado la suspensión de la licencia de conducir
+
 ###### ARTÍCULO 145.
 
 Las multas impuestas de conformidad con el presente Reglamento, serán consideradas crédito fiscal, y por consiguiente podrán ser exigidas mediante el procedimiento administrativo de ejecución establecido en el Código Fiscal del Estado.
@@ -2336,3 +2394,9 @@ TERCERO.- Instrúyase a la Dirección de Policía de Transito municipal para que
 CUARTO.- Instrúyase a la Dirección General de Comunicación Social y a la Dirección General del Sistema DIF municipales, para que diseñen e implementen una amplia campaña de sensibilización respecto del uso de las nuevas tecnologías de información y comunicación y su impacto en la interacción, capacidades, competencias y comunicación en el ser humano su familia y en la sociedad.
 
 QUINTO.- Instrúyase por parte del Presidente Municipal a la titular de la Secretaria del Ayuntamiento para que remita el presente acuerdo para su publicación en el Periódico Oficial del Estado, en la Gaceta Municipal, y en el Sitio Oficial de Internet del Municipio.
+
+P.O. 17 DE NOVIEMBRE DE 2014.
+
+Artículo Primero.- Las presentes reformas al Reglamento entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Articulo Segundo.- Los procedimientos administrativos iniciados con anterioridad, continuaran hasta su conclusión conforme a las normas vigentes al momento de su inicio.
