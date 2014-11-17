@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-participacion-ciudadana-del-municipio-de-57673"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-16"
-last_updated: "2014-11-05"
+last_updated: "2014-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE PARTICIPACIÓN CIUDADANA DEL MUNICIPIO DE MONTERREY, N. L.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 16 de Noviembre de 2007.
 
@@ -1091,6 +1091,476 @@ Los resultados del Plebiscito se publicarán en el Periódico Oficial del Estado
 
 Cuando la participación total en el Plebiscito corresponda, al menos, al cuarenta por ciento de los ciudadanos inscritos en la lista nominal de electores del Municipio de Monterrey, el resultado será vinculatorio para el Municipio. De lo contrario, sus resultados sólo servirán como elementos de valoración para la autoridad convocante.
 
+> <small>(ADICIONADA CON LOS CAPÍTULOS Y ARTÍCULOS QUE LA INTEGRAN, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+#### SECCIÓN CUARTA. PRESUPUESTO PARTICIPATIVO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 29.
+
+El Presupuesto Participativo es un mecanismo de asignación equitativa, racional, eficiente, eficaz y transparente de los recursos públicos, que fortalece la relación Municipio-Sociedad Civil.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 30.
+
+El objeto del Presupuesto Participativo es establecer disposiciones que aseguren la efectiva participación de la sociedad civil organizada en el proceso de programación participativa del presupuesto, el cual se desarrollará en armonía con el Plan Municipal de Desarrollo y sus Programas.
+
+El Presupuesto Participativo se podrá llevar a cabo en los siguientes ámbitos:
+
+I. Comunitario;
+
+II. Deportivo;
+
+III. Educativo;
+
+IV. Juvenil.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 31.
+
+La finalidad del Presupuesto Participativo es recoger las aspiraciones y necesidades de la ciudadanía, para considerarlos en el presupuesto y promover su ejecución a través de proyectos prioritarios, de modo que les permita alcanzar los objetivos estratégicos de desarrollo humano, integral y sostenible. Asimismo optimizar el uso de los recursos a través de un adecuado control social en las acciones públicas.
+
+La Secretaría de la Contraloría expedirá las Reglas de Operación del Programa de Presupuesto Participativo. Para su elaboración participará la Dirección y la Tesorería Municipal. Al menos cada año las Reglas de Operación deberán ser revisadas y en su caso podrán modificarse. Estas Reglas de Operación serán publicadas en el Periódico Oficial y en el portal de Internet del Municipio.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 32.
+
+La publicidad e información relativa al Presupuesto Participativo deberán incluir la siguiente leyenda: “Este programa es público, ajeno a cualquier partido político. Queda prohibido su uso para fines distintos a los establecidos en el programa.”.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 33.
+
+Durante los seis meses anteriores al día en que tengan verificativo elecciones de representantes populares, no podrá realizarse ninguna acción previa al ejercicio de los recursos del Presupuesto Participativo.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO II. RECURSOS DEL PRESUPUESTO PARTICIPATIVO
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 34.
+
+El Ayuntamiento en cada ejercicio anual determinará una partida en el Presupuesto de Egresos para el Presupuesto Participativo. Esta partida se dividirá proporcionalmente para cada uno de los sectores al que se refiere el artículo 61 Bis 43 atendiendo al número de habitantes.
+
+Ningún beneficiario del Programa de Presupuesto Participativo recibirá para su directa administración o aplicación los recursos económicos municipales, por lo que todo egreso será ejercido por la administración pública municipal.
+
+En el caso de que no se erogue la partida presupuestal en ningún sector, ésta se reasignará para el siguiente ejercicio anual o lo que convenga el Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 35.
+
+Los recursos destinados al Programa de Presupuesto Participativo no podrán ser inferiores a los asignados (sic) el año inmediato anterior.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 36.
+
+Los recursos económicos del Programa de Presupuesto Participativo podrán ser ampliados conforme lo resuelva el Ayuntamiento y podrán ser complementados con recursos de otras instancias públicas o de particulares.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO III. DEL CONSEJO MUNICIPAL DEL PRESUPUESTO PARTICIPATIVO
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 37.
+
+Se crea el Consejo Municipal del Presupuesto Participativo como un órgano auxiliar del Municipio para la realización del Programa de Presupuesto Participativo con las atribuciones que señala el presente Reglamento.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 38.
+
+El Consejo Municipal del Presupuesto Participativo se integrará de la siguiente manera:
+
+I. Con derecho a voz y voto:
+
+a. El Presidente Municipal;
+
+b. Los presidentes y secretarios de las Comisiones de Participación Ciudadana y de Hacienda Municipal, y un representante de la primera minoría y otro de la segunda minoría del Ayuntamiento;
+
+c. El Secretario del Ayuntamiento;
+
+d. El Tesorero Municipal;
+
+e. El Secretario de Obras Públicas;
+
+f. El Secretario de Desarrollo Humano y Social;
+
+g. El Secretario de Seguridad Pública y Vialidad;
+
+h. El Secretario de Administración;
+
+i. El Secretario de Servicios Públicos;
+
+j. El Director de Participación Ciudadana;
+
+k. Un representante por cada uno de los Consejos Sectoriales;
+
+II. Con derecho a voz:
+
+a. El Secretario de la Contraloría, y;
+
+b. Las demás dependencias de la administración pública municipal que sean convocadas.
+
+Para el funcionamiento del Consejo Municipal del Presupuesto Participativo, de los integrantes anteriormente mencionados únicamente se permitirá la suplencia del Presidente Municipal, la cual será a cargo del Secretario del Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 39.
+
+El Presidente Municipal será el Presidente del Consejo Municipal del Presupuesto Participativo y el Director de Participación Ciudadana fungirá como su Secretario.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 40.
+
+El Presidente Municipal o el Director de Participación Ciudadana convocará a las reuniones de Consejo Municipal del Presupuesto Participativo. El Director de Participación Ciudadana elaborará el orden del día, la lista de asistencia y el acta de las reuniones. La convocatoria a las sesiones se notificará cuando menos con 48-cuarenta y ocho horas de anticipación.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 41.
+
+Para que las reuniones del Consejo Municipal del Presupuesto Participativo sean válidas se requiere la presencia de la mitad más uno de sus integrantes con derecho a voz y voto.
+
+Las decisiones se tomarán por mayoría de votos, en caso de empate el Presidente del Consejo Municipal del Presupuesto Participativo tendrá voto de calidad.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 42.
+
+El Consejo Municipal del Presupuesto Participativo tendrá las siguientes atribuciones:
+
+I. Adoptar las decisiones que no hayan podido tomar los Consejos Sectoriales, ante la imposibilidad manifiesta de reunirse, cuando habiéndose convocado no se hayan instalado por falta de quórum o, cuando habiéndose instalado no hubieren llegado a un acuerdo;
+
+II. Resolver todo lo que resulte necesario para la realización del Programa de Presupuesto Participativo y el ejercicio de sus recursos;
+
+III. Recibir el informe de avance y resultados del Programa de Presupuesto Participativo;
+
+IV. Proponer las modificaciones que estimen pertinentes al Programa de Presupuesto Participativo;
+
+V. Proporcionar seguimiento a los procesos de presupuestación, contratación y ejecución de los proyectos aprobados;
+
+VI. Reunirse ordinariamente cada cuatro meses y extraordinariamente cuando sea necesario;
+
+VII. Aprobar el catálogo de proyectos al que se refiere el artículo 61 Bis 55, y;
+
+VIII. Las demás que les señale el presente Reglamento y disposiciones jurídicas.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO IV. DE LOS CONSEJOS SECTORIALES
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 43.
+
+La Dirección organizará a las Juntas de Vecinos en diez sectores de acuerdo a lo establecido en las Reglas de Operación, y cada uno de ellos constituirá un Consejo Sectorial.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 44.
+
+Las Juntas de Vecinos pueden estar organizadas bajo cualquier estructura legal o de hecho. De no lograrse el acuerdo al que se refiere el artículo 11 de este Reglamento, la Dirección reconocerá a la organización que participará en el Consejo Sectorial en base a la mayor representación de vecinos que se tenga en la colonia o sector de colonia.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 45.
+
+Los Consejos Sectoriales se integrarán por el Presidente de cada una de las Juntas de Vecinos o la persona que él designe de entre quienes formen la Mesa Directiva, Asamblea General o su equivalente.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 46.
+
+El representante de la Junta de Vecinos tendrá derecho a voz y voto en las reuniones de los Consejos Sectoriales.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 47.
+
+Las Juntas de Vecinos que no acudan a través de su representante a las reuniones del Consejo Sectorial en tres ocasiones en forma consecutiva, perderán el derecho de formar parte del Consejo y de participar en el Programa de Presupuesto Participativo por declaratoria del Consejo Sectorial.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 48.
+
+La Dirección convocará y dirigirá las reuniones de Consejo Sectorial, elaborará el orden del día, la lista de asistencia y el acta de las reuniones; teniendo solamente derecho a voz. La convocatoria a las sesiones se notificará cuando menos con 96-noventa y seis horas de anticipación.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 49.
+
+Para que las reuniones del Consejo Sectorial sean válidas se requiere la presencia de un representante de la Dirección y la mitad más uno de los representantes de las Juntas de Vecinos que conforman el Consejo. Sus decisiones se tomarán por el voto de la mayoría de los presentes.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 50.
+
+Los integrantes del Ayuntamiento, así como los servidores públicos o personas relacionadas con los asuntos a tratar, podrán acudir a las reuniones de los Consejos Sectoriales con derecho a voz.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 51.
+
+Los Consejos Sectoriales tendrán las siguientes atribuciones:
+
+I. Aprobar los proyectos a realizarse con cargo a los recursos del Programa de Presupuesto Participativo conforme a los presupuestos estimados;
+
+II. Conocer del monto final ejercido en la realización de los proyectos;
+
+III. Designar de entre ellos un representante titular y un suplente para que forme parte del Consejo Municipal del Presupuesto Participativo, dichas designaciones se otorgarán por un año y serán con carácter honorífico;
+
+IV. Reunirse ordinariamente cada cuatro meses y extraordinariamente cuando sea necesario;
+
+V. Proporcionar seguimiento a los procesos de presupuestación, contratación y ejecución de los proyectos aprobados;
+
+VI. Designar de entre ellos un Contralor Ciudadano que vigilará la correcta ejecución de los proyectos aprobados y tendrá las facultades y obligaciones que establece el presente Reglamento, dicha designación se otorgará por un año y será con carácter honorífico, y;
+
+VII. Las demás que les señale el presente Reglamento y disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO V. PROCEDIMIENTO DEL PRESUPUESTO PARTICIPATIVO
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 52.
+
+Solamente las Juntas de Vecinos que cuenten con una Mesa Directiva vigente o su equivalente, tendrán derecho a presentar proyectos en el Programa de Presupuesto Participativo.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 53.
+
+Cada Consejo Sectorial aprobará anualmente la forma de distribución de los recursos del Programa de Presupuesto Participativo asignados al sector para la realización de los proyectos.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 54.
+
+Las Juntas de Vecinos convocarán anualmente a una asamblea general a todos los residentes del sector a fin de que realicen un autodiagnóstico comunitario y decidan los proyectos que presentarán para ser financiados con recursos del Programa. De dicha reunión se levantarán por duplicado una minuta de acuerdos y una lista de asistencia, las cuales se resguardarán una en los archivos de la Mesa Directiva y otra en los archivos de la Dirección.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 55.
+
+La Secretaría de Obras Públicas elaborará anualmente un catálogo de proyectos para su aprobación por el Consejo Municipal.
+
+No se admitirán proyectos de las Juntas de Vecinos que no estén contemplados en ese catálogo, dicho documento estará a disposición de todos los interesados en la Dirección y en el portal de Internet del Municipio de Monterrey.
+
+El catalogo podrá estar previsto de obras e inversiones en los siguientes rubros:
+
+I. Desarrollo de la infraestructura urbana: Construcción de vialidades, pluviales, banquetas, andadores, monumentos, áreas verdes, parques y plazas; así como la introducción de la red de agua potable, drenaje sanitario, electricidad y alumbrado público.
+
+II. Mejorar a la infraestructura urbana: Rehabilitación, mantenimiento, remodelación o equipamiento de vialidades, pluviales, banquetas, andadores, monumentos, áreas verdes, parques, plazas y de las redes de agua potable, drenaje sanitario, electricidad y alumbrado público; sustitución de las redes aéreas de servicios por subterráneas, sustitución de energía eléctrica por energías alternativas; instalación de señales y semáforos; así como acciones para la regeneración urbana.
+
+III. Seguridad. Pública: Construcción, mantenimiento, rehabilitación, remodelación, equipamiento o adquisición de edificios, vehículos, mobiliario y sistemas en materia de protección civil, tránsito y seguridad pública.
+
+IV. Desarrollo Comunitario: Construcción, mantenimiento, rehabilitación remodelación, equipamiento y mejoras de espacios educativos, culturales, deportivos, recreativos, formativos, comunitarios, de esparcimiento, para la asistencia social; que siendo del Municipio o de las Juntas de Vecinos, funcionen para dar un servicio a la población del Municipio; así como la adquisición de bienes muebles en beneficio de la población del Municipio.
+
+V. Desarrollo Social y Humano: Adquisición de bienes y contratación de servicios para el fomento, la difusión y el apoyo del arte, la cultura, la educación, el deporte, el civismo, los valores, la salud, asistencia social y el cuidado del medio ambiente.
+
+VI. Escuela Pública: Mantenimiento, rehabilitación, remodelación, y equipamiento de escuelas públicas preescolares, primarias y secundarias; así como la realización de acciones para la promoción del arte, la cultura, la ciencia, el civismo y el deporte entre los alumnos, maestros y padres de familia de las mismas.
+
+VII. Desarrollo Municipal: Adquisición, construcción, rehabilitación, mantenimiento o remodelación de bienes muebles e inmuebles del Municipio no contemplados en los demás rubros.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 56.
+
+Los proyectos aprobados por las Juntas de Vecinos deberán reunir los siguientes requisitos mínimos:
+
+I. Estar dirigidas a la solución de los problemas detectados;
+
+II. Ser susceptibles de factibilidad;
+
+III. Contar con las autorizaciones especiales para realizarlos cuando se requieran; y,
+
+IV. Corresponder razonablemente con el presupuesto disponible.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 57.
+
+Sin perjuicio de lo establecido por el artículo 61 Bis 59, cada Junta de Vecinos tendrá derecho a presentar anualmente proyectos que representen cada uno una inversión mínima de 300 y máxima de 2000 salarios mínimos generales del área geográfica “A” de los que en su caso tenga asignados como techo financiero en el programa de Presupuesto Participativo; por la fracción que exceda de ese monto podrá presentarse un proyecto adicional.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 58.
+
+Lo previsto en el artículo anterior no será aplicable cuando el Consejo Sectorial decida asignar los recursos en función de prioridades del sector o para proyectos comunes del sector.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 59.
+
+En ningún caso las Juntas de Vecinos podrán presentar más de cinco proyectos en cada ejercicio del programa de Presupuesto Participativo.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 60.
+
+La Dirección podrá organizar reuniones del Consejo Sectorial para que las dependencias de la administración pública municipal compartan con sus integrantes las necesidades y prioridades del sector y del Municipio, a fin de que las mismas puedan ser incorporadas al autodiagnóstico, prioridades y proyectos que presenten las Juntas de Vecinos.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 61.
+
+Los proyectos aprobados por las Juntas de Vecinos serán presentados a la Dirección en los formatos establecidos para ello y en la fecha, hora y lugar que señale la propia Dirección.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 62.
+
+Los proyectos presentados por las Juntas de Vecinos serán sometidos por conducto de la Dirección a la evaluación de las dependencias municipales que correspondan para obtener su factibilidad.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 63.
+
+La Dirección solicitará por escrito las factibilidades a las dependencias municipales correspondientes, éstas tendrán un plazo de 15-quince días hábiles para otorgar o negar la factibilidad. En caso de que las dependencias consultadas no emitan una respuesta clara por escrito se tendrá por otorgada la factibilidad.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 64.
+
+Los proyectos que no obtengan la factibilidad de alguna de las dependencias municipales no serán realizados.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 65.
+
+En el caso de que algún proyecto implique que el mantenimiento de la obra o del bien adquirido corra a cargo de la Junta de Vecinos y no del Municipio, las dependencias deberán señalarlo al momento en que otorguen la factibilidad, y deberá existir una carta de compromiso suscrita por las Juntas de Vecinos que las vincule a dicho mantenimiento.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 66.
+
+Los proyectos que obtengan la factibilidad por las dependencias municipales a quienes se les haya solicitado serán sometidos a presupuestación por conducto de la Tesorería Municipal.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 67.
+
+Los proyectos serán presupuestados por la Secretaría de Obras Públicas o por la Secretaría de Administración. El Presidente o alguno de los miembros de la Mesa Directiva de la Junta de Vecinos deberá otorgar su visto bueno al presupuesto estimado.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 68.
+
+Los proyectos que no resulten factibles técnica, jurídica o presupuestalmente serán sustituidos por el siguiente proyecto de los indicados por la Junta de Vecinos.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 69.
+
+Si ninguno de los proyectos resultan factibles, los recursos podrán ser transferidos a proyectos de otra Junta de Vecinos del mismo Sector.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 70.
+
+Si la transferencia referida en el artículo anterior no se logra o concretándose aún existan saldos a favor, los mismos se utilizarán para cubrir los faltantes de proyectos de otros sectores o de otros ámbitos del Programa de Presupuesto Participativo.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 71.
+
+Los remanentes de los proyectos aprobados se utilizarán para cubrir los faltantes de otros proyectos del sector, de otros sectores o de otros ámbitos del Programa de Presupuesto Participativo.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 72.
+
+Los proyectos factibles y presupuestados serán sometidos a la aprobación del Consejo Sectorial al que corresponda la Junta de Vecinos, siempre que el presupuesto estimado se cubra con el presupuesto disponible o que no rebase más del 5% de este último.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61. Bis 73.
+
+Cuando corresponda, la Dirección remitirá los proyectos aprobados por el Consejo Sectorial a las dependencias municipales competentes para que por su conducto se soliciten a la Secretaría de Obras Públicas o a la Secretaría de Administración su contratación y ejecución; en su defecto serán solicitados directamente por la Secretaría del Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 74.
+
+Los bienes muebles adquiridos con recursos del Programa de Presupuesto Participativo, siempre que no estén instalados en espacios públicos municipales o adheridos a la infraestructura pública municipal y cuyo monto de adquisición sea inferior a 500 salarios mínimos generales del área geográfica “A”, podrán otorgarse en donación a las Juntas de Vecinos o a las escuelas públicas beneficiadas, previa autorización del Republicano Ayuntamiento.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO VI. DEL FINIQUITO Y FISCALIZACIÓN DE LOS PROYECTOS
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 75.
+
+La dependencia municipal contratante de la obra o adquiriente del bien o servicio será responsable de vigilar que se realicen correctamente las obras e inversiones. Las dependencias municipales solicitantes, la Secretaría del Ayuntamiento y los beneficiarios coadyuvarán en esta función.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 76.
+
+Al concluir la ejecución de los proyectos se elaborará y firmará un Acta de Entrega-Recepción del mismo, la cual será firmada por la dependencia ejecutora del proyecto, la dependencia coordinadora, la Secretaría de la Contraloría y por el Contralor Ciudadano del Consejo Sectorial respectivo.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 77.
+
+El formato del Acta de Entrega-Recepción será elaborado por la Secretaría de la Contraloría. En su caso se seguirán los lineamientos o formatos que marquen las leyes, reglamentos o que se requieran en materia de obra pública y de adquisiciones.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 78.
+
+El Acta de Entrega-Recepción formará parte del expediente del proyecto y constituye la prueba documental que certifica su realización.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 79.
+
+La dependencia ejecutora, es decir la contratante de la obra o adquiriente del bien o servicio, deberá resguardar el Acta de Entrega-Recepción original y se generarán dos copias: una para la dependencia coordinadora del ámbito respectivo y otra para quien recibe por parte de la comunidad beneficiada. En los proyectos que procedan, deberán anexarse al acta fotografías que reflejen la situación antes y después de realizado el proyecto.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 80.
+
+De presentarse alguna irregularidad en la obra o proyecto el Contralor Ciudadano que la reciba podrá firmar el Acta de Entrega-Recepción de manera condicionada y plasmar las razones de dicha inconformidad. Las observaciones a que haya lugar se solventarán en un plazo de 20-veinte días hábiles.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 81.
+
+Si el Contralor Ciudadano de la comunidad beneficiada se niega a firmar el Acta de Entrega-Recepción se asentará el hecho y será firmada únicamente por los servidores públicos municipales, lo cual no afectará la validez de la misma.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 82.
+
+Las dependencias coordinadoras en su respectivo ámbito, serán las responsables de elaborar y gestionar la firma de las Actas de Entrega-Recepción.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 83.
+
+Los recursos que el Municipio otorga para la realización del Programa de Presupuesto Participativo estarán sujetos a revisión por la Secretaría de la Contraloría, durante su ejecución o al finalizar el proyecto, así como de las demás instancias que en el ámbito de sus respectivas atribuciones resulten competentes.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis 84.
+
+Para garantizar la transparencia en el ejercicio de los recursos la información del Programa de Presupuesto Participativo, pormenorizada por sector, se dará a conocer en el portal de Internet del Municipio.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE FEBRERO DE 2010)</small>
 
 ### CAPÍTULO OCTAVO. DEL CENTRO DE MEDIACIÓN MUNICIPAL
@@ -1098,14 +1568,6 @@ Cuando la participación total en el Plebiscito corresponda, al menos, al cuaren
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2011)</small>
-
-### CAPÍTULO NOVENO. DEL PROCEDIMIENTO DE REVISIÓN Y CONSULTA
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2010)</small>
-
-### CAPÍTULO DÉCIMO. DEL RECURSO DE INCONFORMIDAD
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 62.
 
@@ -1227,6 +1689,10 @@ En supletoriedad de este Reglamento serán aplicables la Ley de Métodos Alterno
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE FEBRERO DE 2010)</small>
 
+### CAPÍTULO NOVENO. DEL PROCEDIMIENTO DE REVISIÓN Y CONSULTA
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 70.
 
 Para la revisión y consulta del presente Reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación y Reglamentación, quien recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía. El promovente deberá argumentar en el escrito de referencia las razones que sustentan sus opiniones y observaciones con respecto al Reglamento Municipal.
@@ -1244,6 +1710,10 @@ La Comisión de Gobernación y Reglamentación al recibir las propuestas plantea
 La Comisión ante la cual se presentaron las propuestas, deberá informar al promovente la procedencia o improcedencia de las mismas.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 5 DE FEBRERO DE 2010)</small>
+
+### CAPÍTULO DÉCIMO. DEL RECURSO DE INCONFORMIDAD
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 73.
 
@@ -1312,3 +1782,11 @@ La (sic) disposiciones contenidas en los artículos 62 y 63 del Reglamento de Pa
 P.O. 5 DE NOVIEMBRE DE 2014.
 
 ÚNICO.- Las presentes Reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE NOVIEMBRE DE 2014.
+
+PRIMERO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO: En el Presupuesto de Egresos para el ejercicio fiscal 2015 deberá contemplarse una partida para el Presupuesto Participativo.
+
+TERCERO: La Secretaría de la Contraloría deberá emitir las Reglas de Operación en un plazo no mayor a 60-sesenta días naturales contados a partir de la entrada en vigor de las presentes reformas.
