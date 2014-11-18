@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-ministerio-publico-para-el-estado-de-colima-11
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-04"
-last_updated: "2014-10-25"
+last_updated: "2014-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGÁNICA DEL MINISTERIO PÚBLICO PARA EL ESTADO DE COLIMA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 25 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO DE MANERA PROGRESIVA Y GRADUAL, CONFORME VAYA INICIANDO SU VIGENCIA LA CITADA LEY EN LOS TÉRMINOS DEL DECRETO 399 MEDIANTE EL CUAL SE PUBLICA Y CON LA SALVEDAD DE LOS PROCEDIMIENTOS INICIADOS CON ANTELACIÓN A SU ENTRADA EN VIGOR, LOS CUALES SE REGIRÁN POR LAS DISPOSICIONES VIGENTES AL MOMENTO DE SU INICIO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 4 de octubre de 1997.
 
@@ -1267,7 +1267,9 @@ P.O. 25 DE OCTUBRE DE 2014.
 
 Previa publicación en el Periódico Oficial "El Estado de Colima", el presente Decreto entrará en vigor en la fecha, en las regiones y mediante las modalidades siguientes:
 
-I. El 19 de noviembre del año 2014, en los municipios de Colima y Villa de Álvarez, correspondientes al primer partido judicial;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2014)</small>
+
+I. El 31 de diciembre del año 2014, en los municipios de Colima y Villa de Álvarez, correspondientes al primer partido judicial;
 
 II. El 1° de abril del año 2015, en los municipios de Cuauhtémoc, Comala, Coquimatlán y Minatitlán, correspondientes al primer partido judicial;
 
@@ -1316,3 +1318,7 @@ XI. La Coordinación General, se convertirá en la Dirección Jurídica y de Ase
 ###### ARTÍCULO CUARTO.
 
 Para dar cumplimiento a lo señalado en la presente Ley, se deberá programar la partida presupuestal correspondiente por parte de la Secretaría de Finanzas y Administración del Gobierno del Estado, previo anteproyecto presentado por la Procuraduría General de Justicia.
+
+P.O. 18 DE NOVIEMBRE DE 2014.
+
+ÚNICO. El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial “El Estado de Colima”.
