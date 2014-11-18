@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-judicial-del-estado-de-colima-103536"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-11-08"
-last_updated: "2014-11-08"
+last_updated: "2014-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Suplemento No.3 del Periódico Oficial del Estado de Colima, el sábado 8 de noviembre de 2014.
 
@@ -4155,7 +4155,19 @@ VIGÉSIMO PRIMERO. Se faculta al Pleno del Supremo Tribunal de Justicia para dic
 
 VIGÉSIMO SEGUNDO. Para la suplencia en los casos de ausencia de los Magistrados a que se refiere el artículo 237 de esta Ley, se considerará el orden de nombramientos de los Jueces de primera instancia aprobados por el propio tribunal conforme los registros que se tengan en el área de personal correspondiente.
 
-VIGÉSIMO TERCERO. Las disposiciones previstas en el capítulo IV denominado "Del Sistema Penal Acusatorio", del título segundo y las demás relativas a dicho sistema, de la presente Ley Orgánica del Poder Judicial, son de orden público y de interés general que derivan de un mandato constitucional, y entrarán en vigor en los términos previstos por la declaratoria emitida por el Congreso del Estado mediante decreto 372, publicado en el Periódico Oficial del Estado el día 30 de agosto del año 2014, así como del artículo SEGUNDO TRANSITORIO del Código Nacional de Procedimientos Penales, debiendo atenderse en los términos del Código Penal para el Estado de Colima; por lo que no podrán suspenderse ni prorrogarse las acciones tendientes a los nombramientos de los operadores y demás personal necesario para su debida implementación.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2014)</small>
+
+VIGÉSIMO TERCERO. Las disposiciones previstas en el capítulo IV denominado "Del Sistema Penal Acusatorio", del título segundo y las demás relativas a dicho sistema, de la presente Ley Orgánica del Poder Judicial, son de orden público y de interés general que derivan de un mandato constitucional, y entrarán en vigor en los plazos previstos por la declaratoria emitida por el Congreso del Estado mediante decreto 372, publicado en el Periódico Oficial del Estado el día 30 de agosto del año 2014, en los siguientes términos:
+
+I. El 31 de diciembre del año 2014, en los municipios de Colima y Villa de Álvarez, correspondientes al primer partido judicial;
+
+II. El 1° de abril del año 2015, en los municipios de Cuauhtémoc, Comala, Coquimatlán y Minatitlán, correspondientes al primer partido judicial;
+
+III. El 5 de agosto del año 2015, en el Municipio de Manzanillo, correspondiente al tercer partido judicial; y
+
+IV. El 12 de agosto del año 2015, en los municipios de Tecomán, Armería e Ixtlahuacán, correspondientes al segundo partido judicial.
+
+Así como de conformidad con lo dispuesto por el artículo SEGUNDO TRANSITORIO del Código Nacional de Procedimientos Penales, debiendo atenderse en los términos del Código Penal para el Estado de Colima; por lo que no podrán suspenderse ni prorrogarse las acciones tendientes a los nombramientos de los operadores y demás personal necesario para su debida implementación.
 
 VIGÉSIMO CUARTO. Se faculta al Pleno del Supremo Tribunal de Justicia para que, atendiendo a la urgencia de poner en marcha la implementación del nuevo sistema de justicia penal acusatorio en la entidad, en forma provisional o bajo la modalidad que el citado órgano colegiado determine, se establezcan los lineamientos que se consideren oportunos para que los interesados en ocupar los cargos vinculados con la referida implementación, sean designados en esos cargos, en tanto, se efectúe la aplicación de las evaluaciones correspondientes o se lleven a cabo los concursos de oposición a que se refiere la presente Ley en el caso de los servidores públicos de carrera judicial; y respecto a los administrativos, se implementen las evaluaciones que se estimen oportunas a fin de garantizar el ingreso, la idoneidad y permanencia de los citados operadores.
 
@@ -4172,3 +4184,9 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, al día 7 siete del mes de noviembre del año dos mil catorce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. MARIO ANGUIANO MORENO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. ROGELIO HUMBERTO RUEDA SÁNCHEZ. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE NOVIEMBRE DE 2014.
+
+ÚNICO. El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial “El Estado de Colima”.
