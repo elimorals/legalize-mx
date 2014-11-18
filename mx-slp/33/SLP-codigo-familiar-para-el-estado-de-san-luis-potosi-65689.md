@@ -4,7 +4,7 @@ identifier: "SLP-codigo-familiar-para-el-estado-de-san-luis-potosi-65689"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-18"
-last_updated: "2014-06-19"
+last_updated: "2014-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2014
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -1421,7 +1421,7 @@ La o el menor de edad sólo puede reconocer a una hija o hijo con el consentimie
 
 ###### ARTICULO 213.
 
-El reconocimiento que realiza una o un menor es revocable si prueba que sufrió o engaño al hacerlo, pudiendo intentar la revocación dentro del año siguiente a que haya tenido conocimiento del engaño, siempre y cuando ya sea mayor de edad.
+El reconocimiento que realiza una o un menor es revocable si prueba que sufrió engaño al hacerlo, pudiendo intentar la revocación dentro del año siguiente a que haya tenido conocimiento del engaño, siempre y cuando ya sea mayor de edad.
 
 ###### ARTICULO 214.
 
@@ -2145,7 +2145,7 @@ Si las o los pupilos indigentes no tienen personas que estén obligadas a alimen
 
 ###### ARTICULO 325.
 
-La persona tutora de la persona incapaz a que se refiere la fracción II del artículo 318 de este Código, está obligada a presentar ante la autoridad judicial, en el mes de enero de cada año, un certificado de dos médicos que declaren acerca del estado de salud de la persona sujeta a interdicción, a quien para ese efecto reconocerán en presencia de quien ejerza la curatela.
+La persona tutora de la persona incapaz a que se refiere la fracción II del artículo 318 de este Código, está obligada a presentar ante la autoridad judicial, en el mes de enero de cada año un certificado de dos médicos que declaren acerca del estado de salud de la persona sujeta a interdicción, a quien para ese efecto reconocerán en presencia de quien ejerza la curatela.
 
 La autoridad judicial se cerciorará del estado que guarde la persona incapaz y tomará todas las medidas que estime convenientes para mejorar su condición.
 
@@ -2389,7 +2389,7 @@ I. A las o los hermanos, prefiriéndose a los que lo sean por ambas líneas;
 
 II. Por falta o incapacidad de las o los hermanos a los demás colaterales dentro del cuarto grado inclusive, y
 
-III. A la persona que ejerza la tutela autoasiganda (sic).
+III. A la persona que ejerza la tutela autoasiganda.
 
 ###### ARTICULO 377.
 
@@ -3421,7 +3421,9 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 
 P.O. 31 DE DICIEMBRE DE 2013.
 
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2014)</small>
+
+PRIMERO. Este Decreto entrará en vigor el uno de enero de dos mil quince, previa su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
@@ -3430,3 +3432,9 @@ P.O. 19 DE JUNIO DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 18 DE NOVIEMBRE DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
