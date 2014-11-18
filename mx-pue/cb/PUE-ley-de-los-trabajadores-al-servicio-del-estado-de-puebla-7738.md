@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-trabajadores-al-servicio-del-estado-de-puebla-7738"
 country: "mx"
 rank: "ley"
 publication_date: "1966-11-18"
-last_updated: "2014-11-13"
+last_updated: "2014-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Puebla, el viernes 18 de noviembre de 1966.
 
@@ -297,9 +297,13 @@ Por cada seis días de trabajo, disfrutará el trabajador de un día de descanso
 
 Las mujeres embarazadas, disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto y de otros dos después del mismo, con goce de sueldo íntegro en ambos casos. Durante la lactancia, tendrá dos descansos extraordinarios al día, de media hora cada uno, para amamantar a sus hijos, previos dictámenes médicos oficiales.
 
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2014)</small>
 
-Los hombres gozarán de cinco días hábiles de descanso con goce de sueldo, con motivo del parto de su esposa o concubina. De igual forma se procederá, conforme a lo previsto en el ordenamiento legal correspondiente, en el supuesto de adoptar a un menor de edad.
+Durante la lactancia tendrán derecho a decidir entre contar con dos reposos extraordinarios por día, de media hora cada uno, o bien, un descanso extraordinario por día, de una hora para amamantar a sus hijos o para realizar la extracción manual de leche, en lugar adecuado e higiénico que designe la institución o dependencia y tendrán acceso a la capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento preferente durante los primeros seis meses y complementario hasta avanzado el segundo año de edad.
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2014)</small>
+
+Los hombres gozarán de cinco días hábiles de descanso con goce de sueldo, con motivo del parto de su esposa o concubina.
 
 > <small>(REFORMADO, P.O. 29 DE MARZO DE 2006)</small>
 
@@ -1072,3 +1076,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Dentro del plazo de ciento veinte días siguientes a la publicación del presente, las Dependencias y Entidades competentes de la Administración Pública Estatal, realizarán las adecuaciones a la normatividad aplicable.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE NOVIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
