@@ -4,7 +4,7 @@ identifier: "SON-ley-del-servicio-civil-para-el-estado-de-sonora-8403"
 country: "mx"
 rank: "ley"
 publication_date: "1977-08-27"
-last_updated: "2013-06-27"
+last_updated: "2014-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL SERVICIO CIVIL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Alcance del Boletín Oficial del Estado de Sonora, el sábado 27 de agosto de 1977.
 
@@ -327,9 +327,9 @@ Son obligaciones de los titulares de las entidades públicas sujetas a esta ley:
 
 I.- Preferir, en igualdad de condiciones y de acuerdo con las bases del escalafón, a los trabajadores sindicalizados respecto de quienes no lo estuvieren;
 
-> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, B.O. 18 DE NOVIEMBRE DE 2014)</small>
 
-II.- Reinstalar a los trabajadores o cubrir las indemnizaciones por separación injustificada y pagar los salarios caídos en los términos que señale el laudo definitivo del Tribunal; en los casos de supresión de plazas, los trabajadores afectados tendrán derecho a que se les otorgue otra equivalente en categoría y sueldo a la suprimida u optar por su indemnización igual a tres meses del último salario que disfrutaba;
+II.- Reinstalar a los trabajadores o cubrir las indemnizaciones por separación injustificada y pagar los salarios caídos en los términos que señale el laudo definitivo del Tribunal en los términos de esta Ley.
 
 III.- Proporcionar a los trabajadores los medios necesarios para la ejecución de su trabajo;
 
@@ -439,7 +439,17 @@ n) Por ejecutar habitualmente en su vida privada actos que puedan poner en pelig
 
 ñ) Por cualquier otra causa similar a las anteriores, a juicio del Tribunal.
 
-En los casos a que se refiere esta fracción el trabajador será suspendido en su trabajo pero si el Tribunal resuelve que el cese es injustificado, tendrá derecho al pago de salarios caídos.
+> <small>(REFORMADO, B.O. 18 DE NOVIEMBRE DE 2014)</small>
+
+En los casos a que se refiere esta fracción el trabajador será suspendido en su trabajo pero si el Tribunal resuelve que el cese es injustificado, tendrá derecho al pago de salarios caídos, desde la fecha en que el trabajador haya sido separado de su trabajo hasta por un periodo máximo de doce meses independientemente del tiempo que dure el proceso.
+
+> <small>(ADICIONADO, B.O. 18 DE NOVIEMBRE DE 2014)</small>
+
+En el caso en que el trabajador sea reinstalado en un periodo menor a los doce meses señalados en el párrafo anterior, el pago de salarios caídos corresponderá al tiempo que duro suspendida la relación del servicio civil.
+
+> <small>(ADICIONADO, B.O. 18 DE NOVIEMBRE DE 2014)</small>
+
+ARTICULO 42 BIS.- Si al término del plazo de los doce meses señalado en el artículo 42 de la presente Ley, no ha concluido el procedimiento o no se ha dado cumplimiento al laudo, se pagarán también al trabajador los intereses que se generen sobre el importe del adeudo, a razón del 12 por ciento anual capitalizable al momento del pago.
 
 ## TITULO TERCERO. DEL ESCALAFON
 
@@ -1220,3 +1230,9 @@ B.O. 27 DE JUNIO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 18 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
