@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-comision-estatal-de-seguridad-del-estado-101
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-06-10"
-last_updated: "2014-06-10"
+last_updated: "2014-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101410&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE SEGURIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 10 de junio de 2014.
 
@@ -151,9 +151,21 @@ XXXII. Diseñar los planes, programas y acciones para la implementación, operac
 
 XXXIII. Asumir las funciones de dirección, manejo, operación, supervisión y control del servicio de seguridad pública municipal y tránsito, así como de su policía preventiva, previa celebración de los convenios de transferencia específicos suscritos con los municipios;
 
-XXXIV. Asumir el mando único de la policía preventiva de los municipios, en los casos de delitos de alto impacto, previa celebración de los convenios correspondientes; y
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2014)</small>
 
-XXXV. Las demás que le atribuyan las leyes así como los reglamentos, decretos, acuerdos y órdenes del Secretario, en el ámbito de su respectiva competencia.
+XXXIV. Auxiliar a la Secretaría en la Coordinación de las actividades del Centro de Evaluación y Confianza.
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2014)</small>
+
+XXXV. Auxiliar a la Secretaría en la Coordinación de las actividades del Centro de Comunicación, Computo, Control y Comando
+
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2014)</small>
+
+XXXVI. Asumir el mando único de la policía preventiva de los municipios, en los casos de delitos de alto impacto, previa celebración de los convenios correspondientes; y
+
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2014)</small>
+
+XXXVII. Las demás que le atribuyan las leyes así como los reglamentos, decretos, acuerdos y órdenes del Secretario, en el ámbito de su respectiva competencia.
 
 ###### Artículo 4.
 
@@ -225,7 +237,9 @@ I. Ser mexicano (a) en pleno ejercicio de sus derechos políticos y civiles;
 
 II. Tener cuando menos treinta y cinco años de edad cumplidos al día de la designación;
 
-III. Contar, con título profesional de licenciatura en Derecho y con antigüedad mínima de cinco años;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2014)</small>
+
+III. Tener título profesional con antigüedad mínima de cinco años, o contar con formación militar.
 
 IV. Contar con experiencia mínima de cinco años en labores vinculadas con la seguridad pública.
 
@@ -1043,7 +1057,7 @@ XIV. Proponer al Comisionado las medidas necesarias y convenientes para fomentar
 
 XV. Mantener un registro actualizado de quejas, recomendaciones y convenios de conciliación y rendir los informes que se soliciten; y
 
-XVI. Las demás que le encomiende esta Ley, el Comisionado, otras disposiciones aplicables, los manuales de procedimientos y circulares; (sic)
+XVI. Las demás que le encomiende esta Ley, el Comisionado, otras disposiciones aplicables, los manuales de procedimientos y circulares;
 
 ###### Artículo 46.
 
@@ -1614,3 +1628,9 @@ EL SECRETARIO DE GOBIERNO
 ARMANDO LUNA CANALES
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE NOVIEMBRE DE 2014.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
