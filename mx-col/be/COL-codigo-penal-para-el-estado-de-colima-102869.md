@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-102869"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-10-11"
-last_updated: "2014-10-11"
+last_updated: "2014-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR GRADUALMENTE, EN LA FECHA, EN LAS REGIONES Y MEDIANTE LAS MODALIDADES QUE SEÑALA EL CITADO ARTÍCULO.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2014.
 
 Código publicado en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 11 de octubre de 2014.
 
@@ -1649,7 +1649,7 @@ Al que induzca o ayude a otro para que se prive de la vida, se le impondrá pris
 
 Si la perdida de la vida no se consuma, se impondrá prisión de uno a cuatro años y multa por un importe equivalente de treinta a cincuenta días de salario mínimo.
 
-En caso de producirse lesiones se aplicará hasta la mitad de las (sic) pena de prisión, multa y medidas de seguridad previstas en este Código, correspondientes a las lesiones cometidas y según su respectiva modalidad.
+En caso de producirse lesiones se aplicará hasta la mitad de las pena de prisión, multa y medidas de seguridad previstas en este Código, correspondientes a las lesiones cometidas y según su respectiva modalidad.
 
 Si la persona a quien se induzca o ayude a privarse de la vida fuere un incapaz, se impondrán las penas del homicidio simple si la pérdida de la vida se consumare, si no se consumare, se impondrán de dos a ocho años de prisión y multa por el importe equivalente de sesenta a cien días de salario mínimo.
 
@@ -3187,7 +3187,9 @@ Cuando las lesiones o muerte del animal doméstico o adiestrado, se causen con l
 
 Previa publicación en el Periódico Oficial “El Estado de Colima”, el presente Decreto entrará en vigor en la fecha, en las regiones y mediante las modalidades siguientes:
 
-I. El 19 de noviembre del año 2014, en los municipios de Colima y Villa de Álvarez, correspondientes al primer partido judicial;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2014)</small>
+
+I. El 31 de diciembre del año 2014, en los municipios de Colima y Villa de Álvarez, correspondientes al primer partido judicial;
 
 II. El 1° de abril del año 2015, en los municipios de Cuauhtémoc, Comala, Coquimatlán y Minatitlán, correspondientes al primer partido judicial;
 
@@ -3220,3 +3222,9 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, al día 9 nueve del mes de octubre del año dos mil catorce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. MARIO ANGUIANO MORENO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. ROGELIO HUMBERTO RUEDA SÁNCHEZ. Rúbrica. EL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO, LIC. MARCOS SANTANA MONTES. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE NOVIEMBRE DE 2014.
+
+ÚNICO. El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial “El Estado de Colima”.
