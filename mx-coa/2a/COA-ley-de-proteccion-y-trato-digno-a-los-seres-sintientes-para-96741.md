@@ -4,7 +4,7 @@ identifier: "COA-ley-de-proteccion-y-trato-digno-a-los-seres-sintientes-para-967
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-29"
-last_updated: "2014-09-23"
+last_updated: "2014-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COA"
 ---
 # LEY DE PROTECCION Y TRATO DIGNO A LOS SERES SINTIENTES PARA EL ESTADO DE COAHUILA DE ZARAGOZA --ANTES: LEY DE PROTECCION Y TRATO DIGNO A LOS ANIMALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA--
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE NOVIEMBRE DE 2014 EN EL PERIÓDICO OFICIAL DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE PROTECCIÓN Y TRATO DIGNO A LOS ANIMALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2014.
+
+N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 18 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 29 de noviembre de 2013.
 
@@ -867,4 +867,6 @@ EGLANTINA CANALES GUTIÉRREZ
 
 P.O. 23 DE SEPTIEMBRE DE 2014.
 
-ÚNICO.- El presente decreto entrara en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Estado y quienes deban de observar lo dispuesto en el mismo contaran con un plazo de 60 días naturales a partir de la publicación.
+> <small>(F. DE E., P.O. 18 DE NOVIEMBRE DE 2014)</small>
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Estado y quienes deban de observar lo dispuesto en el mismo contarán con un plazo de 30 días naturales a partir de la publicación.
