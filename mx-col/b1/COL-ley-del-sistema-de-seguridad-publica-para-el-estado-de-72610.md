@@ -4,7 +4,7 @@ identifier: "COL-ley-del-sistema-de-seguridad-publica-para-el-estado-de-72610"
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-23"
-last_updated: "2014-11-08"
+last_updated: "2014-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE COLIMA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 8 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2014 (ABROGADA).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 23 de enero de 2010.
 
@@ -3467,9 +3467,11 @@ QUINTO.- La Secretaría de Seguridad Pública y la Procuraduría General de Just
 
 P.O. 8 DE NOVIEMBRE DE 2014.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO PRIMERO.
 
-La presente Ley entrará en vigor el 19 de noviembre del año en curso.
+La presente Ley entrará en vigor el 31 de diciembre de 2014.
 
 Los procedimientos administrativos iniciados con antelación a la entrada en vigor de la presente, se regirán por las disposiciones vigentes al momento de su inicio.
 
@@ -3504,3 +3506,7 @@ Asimismo, a efecto de dar cumplimiento al artículo 90 de esta Ley, el Centro Pr
 ###### ARTÍCULO OCTAVO.
 
 Los ayuntamientos del Estado dispondrán máximo de 180 días naturales contados a partir de la entrada en vigor del presente ordenamiento, a fin de que lleven a cabo la reglamentación correspondiente o, en su caso, su adecuación en los términos de esta Ley.
+
+P.O. 18 DE NOVIEMBRE DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
