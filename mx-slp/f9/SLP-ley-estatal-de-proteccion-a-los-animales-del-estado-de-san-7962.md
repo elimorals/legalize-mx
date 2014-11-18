@@ -4,7 +4,7 @@ identifier: "SLP-ley-estatal-de-proteccion-a-los-animales-del-estado-de-san-7962
 country: "mx"
 rank: "ley"
 publication_date: "1995-03-17"
-last_updated: "2014-10-28"
+last_updated: "2014-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7962&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 17 de marzo de 1995.
 
@@ -579,9 +579,11 @@ De las Autoridades Competentes y sus Atribuciones.
 
 Los animales silvestres y su progenie, en cualquiera de sus formas son propiedad de la Nación.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTICULO 64.
 
-El Gobierno del Estado, por conducto de la Secretaría de Fomento Agropecuario y Recursos Hidráulicos, coadyuvará con la Federación y los Municipios en levantar y mantener actualizados el inventario de la población animal existente en la entidad.
+El Gobierno del Estado, por conducto de la Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos, coadyuvará con la Federación y los municipios en levantar y mantener actualizados el inventario de la población animal existente en la Entidad.
 
 ###### ARTICULO 65.
 
@@ -609,7 +611,9 @@ De las Prohibiciones.
 
 Son Autoridades competentes para aplicar esta Ley:
 
-I.- El Gobernador del Estado a través de la Secretaría de Fomento Agropecuario y Recursos Hidráulicos Estatal; y
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2014)</small>
+
+I.- El Gobernador del Estado, a través de la Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos, y
 
 II.- Los Presidentes Municipales a través de los Secretarios y Síndicos de los Ayuntamientos.
 
@@ -627,9 +631,11 @@ III.- Las asociaciones ganaderas locales.
 
 Los centros antirrábicos y demás dependencias relacionadas, podrán solicitar el asesoramiento y colaboración de uno o más representantes de las sociedades protectoras de animales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTICULO 69.
 
-La Secretaría de Fomento Agropecuario y Recursos Hidráulicos, además de las facultades previstas en el artículo 29 de la Ley Orgánica de la Administración Pública del Estado, por lo que corresponde a la fauna, tendrá las siguientes atribuciones:
+La Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos, además de las facultades previstas en el artículo 38 de la Ley Orgánica de la Administración Pública del Estado, por lo que corresponde a la fauna, tendrá las siguientes atribuciones:
 
 I.- Vigilar el cumplimiento de esta Ley y de sus disposiciones reglamentarias;
 
@@ -653,7 +659,9 @@ Los ayuntamientos, en el ámbito de su competencia, aplicarán las disposiciones
 
 I.- Colaborar con el Estado y la Federación para integrar el inventario de la fauna silvestre que corresponda a su jurisdicción municipal;
 
-II.- Dar aviso oportuno a la Secretaría de Fomento Agropecuario y Recursos Hidráulicos del Estado, de tener conocimiento fundado, que se ha presentado en su territorio, una enzootia o epizootia;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2014)</small>
+
+II.- Dar aviso oportuno a la Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos, de tener conocimiento fundado, que se ha presentado en su territorio, una enzootia o epizootia;
 
 III.- Controlar y vigilar los rastros municipales o privados a efecto de que cumplan con los preceptos de esta Ley;
 
@@ -942,3 +950,9 @@ PRIMERO. Este Decreto entrará en vigor el uno de enero del dos mil quince, prev
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. A partir de su entrada en vigor, los empresarios circenses deberán modificar el concepto de sus funciones; y los ayuntamientos deberán adecuar sus reglamentos respectivos acorde a lo establecido en este Decreto.
+
+P.O. 18 DE NOVIEMBRE DE 2014.
+
+Primero. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
