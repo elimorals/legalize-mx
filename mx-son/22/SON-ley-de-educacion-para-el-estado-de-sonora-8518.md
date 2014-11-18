@@ -4,7 +4,7 @@ identifier: "SON-ley-de-educacion-para-el-estado-de-sonora-8518"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2014-11-13"
+last_updated: "2014-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY DE EDUCACION PARA EL ESTADO DE SONORA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE DICIEMBRE DE 2014 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 30 de diciembre de 1994.
 
@@ -453,9 +455,11 @@ II Bis A.- Coordinarse con las autoridades en materia de seguridad pública y sa
 
 II Bis B.- Coordinarse con la Secretaría de Salud y las Asociaciones de Padres de Familia de las escuelas de nivel básico para implementar acciones de inspección y vigilancia en las tiendas escolares, con el fin de evitar la venta de alimentos con bajo o nulo valor nutricional;
 
-> <small>(ADICIONADA, B.O. 3 DE NOVIEMBRE DE 2014)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 18 DE NOVIEMBRE DE 2014)</small>
 
-II Bis C.- Coordinarse con la Secretaría de Salud para implementar programas y ejecutar cursos de prevención de accidentes y primeros auxilios para los educandos y para el personal que labora en las escuelas de educación básica;
+II Bis C.- Coordinarse con el Congreso del Estado, a través de su Comisión de Educación y Cultura, para establecer las bases del otorgamiento a la "Medalla al Mérito Estudiantil" a los Estudiantes Sonorenses en los niveles de Primaria, Secundaria y Media Superior, que hayan destacado académicamente y en las áreas de liderazgo, con el fin de premiar sus esfuerzos y reconocer sus méritos ante la comunidad.
+
+Junto con la "Medalla al Mérito Estudiantil" se entregará un apoyo económico o en especie a elección del estudiante ganador, de acuerdo con las bases que se establezcan para ese fin.
 
 III.- Ajustar, en su caso, el calendario escolar para cada ciclo lectivo de la educación primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, con respecto al calendario fijado por la Secretaría de Educación Pública;
 
@@ -2442,6 +2446,12 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 B.O. 13 DE NOVIEMBRE DE 2014.
 
 DECRETO NÚMERO 136 POR EL QUE SE REFORMAN LAS FRACCIONES XIX Y XX Y SE ADICIONA LA FRACCIÓN XXI AL ARTÍCULO 13 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+B.O. 18 DE NOVIEMBRE DE 2014.
 
 ###### ARTÍCULO ÚNICO.
 
