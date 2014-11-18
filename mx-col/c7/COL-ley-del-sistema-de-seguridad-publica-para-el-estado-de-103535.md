@@ -4,7 +4,7 @@ identifier: "COL-ley-del-sistema-de-seguridad-publica-para-el-estado-de-103535"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-08"
-last_updated: "2014-11-08"
+last_updated: "2014-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103535&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEXTO DEL DECRETO NÚMERO 409 DEL P.O. 18 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR EL 31 DE DICIEMBRE DE 2014.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 8 de noviembre de 2014.
 
@@ -3669,9 +3671,11 @@ Las actividades encaminadas a proporcionar seguridad y protección a las institu
 
 ## TRANSITORIOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO PRIMERO.
 
-La presente Ley entrará en vigor el 19 de noviembre del año en curso.
+La presente Ley entrará en vigor el 31 de diciembre del año 2014.
 
 Los procedimientos administrativos iniciados con antelación a la entrada en vigor de la presente, se regirán por las disposiciones vigentes al momento de su inicio.
 
@@ -3718,3 +3722,7 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, al día 05 cinco del mes de noviembre del año dos mil catorce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. MARIO ANGUIANO MORENO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. ROGELIO HUMBERTO RUEDA SÁNCHEZ. Rúbrica. EL SECRETARIO DE SEGURIDAD PÚBLICA, GRAL. DE DIV. D.E.M. RET. RAÚL PINEDO DÁVILA. Rúbrica. EL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO, LIC. MARCOS SANTANA MONTES. Rúbrica.
+
+P.O. 18 DE NOVIEMBRE DE 2014.
+
+ÚNICO. El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
