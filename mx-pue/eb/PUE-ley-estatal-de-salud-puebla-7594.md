@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-de-salud-puebla-7594"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-15"
-last_updated: "2013-12-30"
+last_updated: "2014-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DE SALUD DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 15 de noviembre de 1994.
 
@@ -101,7 +101,7 @@ IV. La extensión de actividades solidarias y responsables de la población en l
 
 V. El disfrute de servicios de salud y asistencia social que satisfagan eficaz y oportunamente las necesidades de la población;
 
-VI. El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud y (sic);
+VI. El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud y;
 
 VII. El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud;
 
@@ -237,7 +237,7 @@ IV. Dar impulso al bienestar de la familia y de la comunidad en general, prestan
 
 V. Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente del Estado, que propicien el desarrollo satisfactorio de la vida;
 
-VI. Impulsar en el ámbito estatal un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud y (sic);
+VI. Impulsar en el ámbito estatal un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud y;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -245,7 +245,7 @@ VII. Promover el conocimiento, desarrollo e investigación de la Medicina Tradic
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-VIlI. Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección.
+VIII. Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección.
 
 ###### ARTICULO 7º.
 
@@ -321,7 +321,7 @@ El Gobierno del Estado, con la participación que corresponda al Comité de Plan
 
 ### CAPITULO II. DISTRIBUCION DE COMPETENCIAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 12.
 
@@ -721,7 +721,9 @@ En la organización y operación de los servicios de salud destinados a la atenc
 
 I. Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los usuarios;
 
-II. Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno infantil, y
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2014)</small>
+
+II.- Acciones de orientación y vigilancia institucional, capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento preferente durante los primeros seis meses y complementario hasta avanzado el segundo año de vida, y en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno infantil, y
 
 III. Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarréicos y las infecciones respiratorias agudas de los menores de cinco años.
 
@@ -981,7 +983,7 @@ Quien realice investigación en seres humanos en contravención a lo dispuesto e
 
 En cualquier tratamiento de una persona enferma, el médico podrá autorizar nuevos recursos terapéuticos o de diagnóstico, cuando exista posibilidad fundada de salvar la vida, restablecer la salud o disminuir el sufrimiento del paciente, siempre que cuente con el consentimiento por escrito de éste, de su representante legal, en su caso, o del familiar más cercano en vínculo, y sin perjuicio de cumplir con los demás requisitos que determine esta Ley y otras disposiciones aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE MARZO DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MARZO DE 2000)</small>
 
 ## TITULO SEXTO. CONTROL SANITARIO DE LA DISPOSICION DE ORGANOS, TEJIDOS, CELULAS Y CADAVERES DE SERES HUMANOS
 
@@ -1113,7 +1115,7 @@ Se considerará disposición ilícita de órganos, tejidos, células y cadávere
 
 Las autoridades, médicos y personal médico involucrados en la disposición y donación de órganos, tejidos y células, así como en trasplantes, deberán hacer del conocimiento del donante o de sus familiares, así como de los candidatos a receptor y de sus familiares, los delitos en que pueden incurrir, así como las sanciones a que se hacen acreedores quienes los cometen, de conformidad con el Capítulo Sexto denominado "Delitos", del Título Décimo Octavo de la Ley General de Salud, con relación a la donación y trasplante de órganos, tejidos y células.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE MARZO DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MARZO DE 2000)</small>
 
 ### CAPITULO II. ORGANOS, TEJIDOS Y CELULAS
 
@@ -1489,7 +1491,7 @@ Las personas que ejerzan la medicina o que realicen actividades afines, están o
 
 Están obligados a dar aviso, en los términos del artículo 143 de esta Ley, los jefes o encargados de laboratorios, los directores de unidades médicas, escuelas, fábricas, talleres, asilos, los jefes de oficina, establecimientos comerciales o de cualquier otra índole, y en general toda persona que por circunstancias ordinarias o accidentales, tenga conocimiento de alguno de los casos de enfermedades a que se refiere esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MARZO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 146.
 
@@ -1647,7 +1649,7 @@ Asimismo, dentro del presupuesto aporbado (sic) para tal efecto, procurará dest
 
 Los menores, ancianos y mujeres en estado de desamparo y desprotección social tienen derecho a recibir los servicios asistenciales que necesiten en cualquier establecimiento público dependiente del Estado al que sean remitidos para su atención, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MARZO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 165.
 
@@ -1797,7 +1799,7 @@ Las Autoridades Sanitarias del Estado a través de la Secretaría de Salud Públ
 
 Los establecimientos que señala el artículo 4º apartado B de ésta Ley, no requerirán de autorización sanitaria, debiéndose ajustar al control y verificación sanitarios, así como a los requisitos sanitarios establecidos en las disposiciones reglamentarias y Norma Oficial Mexicana que en materia de salubridad local se expidan.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MARZO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 186.
 
@@ -2395,7 +2397,7 @@ XIII. En los demás casos que determine la Autoridad Sanitaria del Estado, en t�
 
 Cuando la revocación de una autorización se funde en los riesgos o daños que pueda causar o cause un servicio, la Autoridad Sanitaria dará conocimiento de tales revocaciones a las dependencias y entidades públicas que tengan atribuciones de orientación al consumidor.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MARZO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 270.
 
@@ -2555,7 +2557,7 @@ VI. Con la impugnación a que se refiere la fracción anterior, el interesado de
 
 VII. La impugnación presentada en los términos de las fracciones anteriores dará lugar a que el interesado, a su cuenta y cargo, solicite a la Autoridad Sanitaria, el análisis de la muestra testigo en un laboratorio que la misma señale; en el caso de insumos médicos el análisis se deberá realizar en un laboratorio autorizado como laboratorio de control analítico auxiliar de la regulación sanitaria. El resultado del análisis de la muestra testigo será el que en definitiva acredite si el producto en cuestión reúne o no los requisitos y especificaciones sanitarios exigidos; y
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MARZO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2000)</small>
 
 VIII. El resultado de los análisis de la muestra testigo, se notificará al interesado o titular de la autorización sanitaria estatal, en forma personal o por correo certificado con acuse de recibo, telefax, o por cualquier otro medio por el que se pueda comprobar fehacientemente la recepción de los mismos y, en caso de que el producto reúna los requisitos y especificaciones requeridos, la Autoridad Sanitaria procederá a otorgar la autorización que se haya solicitado, o a ordenar el levantamiento de la medida de seguridad que se hubiere ejecutado, según corresponda.
 
@@ -2583,7 +2585,7 @@ Transcurrido este plazo, sin que se haya impugnado el resultado del análisis of
 
 En el caso de los productos recogidos en procedimientos de muestreo o verificación, sólo los laboratorios autorizados o habilitados por la Autoridad Sanitaria competente del Estado, determinarán por medio de análisis practicados, si tales productos reúnen o no sus especificaciones.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE MARZO DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MARZO DE 2000)</small>
 
 ## TITULO DECIMO QUINTO. MEDIDAS DE SEGURIDAD SANITARIA, SANCIONES Y DELITOS
 
@@ -2703,7 +2705,7 @@ III. Clausura temporal o definitiva, que podrá ser parcial o total, y
 
 IV. Arresto hasta por 36 horas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MARZO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 307.
 
@@ -2755,7 +2757,7 @@ En caso de reincidencia se duplicará el monto de la multa que corresponda. Para
 
 La aplicación de las multas serán sin perjuicio de que se dicten las medidas de seguridad sanitaria que procedan, hasta en tanto se subsanen las irregularidades.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MARZO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 314.
 
@@ -3003,7 +3005,7 @@ EL SECRETARIO DE GOBERNACION
 
 LIC. CARLOS PALAFOX VAZQUEZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 10 DE MARZO DE 2000.
 
@@ -3108,3 +3110,9 @@ CUARTO.- Los Ayuntamientos contarán con un periodo de treinta días naturales a
 QUINTO.- Los comerciantes o vendedores que a la entrada en vigor del presente Decreto cuenten con autorización o permiso por parte de los Ayuntamientos para realizar los actos contemplados en las fracciones I y II del artículo 191 Bis de la Ley Estatal de Salud, en los lugares permitidos de acuerdo con la normatividad aplicable, contarán con un término de sesenta días naturales para tramitar el aviso de funcionamiento sanitario correspondiente.
 
 SEXTO.- El Ejecutivo Estatal por medio de la autoridad administrativa competente, contará con un plazo de sesenta días naturales, a partir de la entrada en vigor del presente Decreto, para incluir en los procedimientos las solicitudes de avisos de funcionamiento sanitario en materia de comercio ambulante y comercio en puesto semifijo.
+
+P.O. 18 DE NOVIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
