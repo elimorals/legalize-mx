@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-el-acceso-de-las-mujeres-a-una-vida-libre-de-57774"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2012-03-28"
+last_updated: "2014-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Puebla, el lunes 26 de noviembre de 2007.
 
@@ -33,9 +33,7 @@ Que por la Secretaria del H. Congreso, se me ha remitido el siguiente:
 
 EL HONORABLE QUINCUAGÉSIMO SEXTO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-CONSIDERANDO
-
-.
+CONSIDERANDO ...
 
 Por lo anteriormente expuesto y con fundamento en lo dispuesto por los artículos 57 fracción I, 63 fracción I, 64 y 67 de la Constitución Política del Estado Libre y Soberano de Puebla; 43 fracciones I y X, 69 fracción I, 70 y 71 de la Ley Orgánica del Poder Legislativo del Estado; 20, 21 y 24 fracciones I y X del Reglamento Interior del Honorable Congreso del Estado, se expide la siguiente:
 
@@ -193,9 +191,11 @@ Violencia contra las mujeres en el ámbito laboral o docente consiste en el acto
 
 Podrá consistir en un solo evento que cause daño o en una serie de eventos concatenados que lo produzca. Asimismo incluye el acoso o el hostigamiento sexual en términos de lo dispuesto en la ley de la materia.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 14.
 
-La violencia contra las mujeres en el ámbito laboral consiste en la negativa ilícita a contratar a la ofendida o a respetar su permanencia o condiciones generales de trabajo; la descalificación del mismo, las amenazas, la intimidación, las humillaciones, la explotación y todo tipo de discriminación por condición de género.
+La violencia contra las mujeres en el ámbito laboral consiste en la negativa ilegal a contratar a la agraviada o a respetar su permanencia o condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación, el impedimento a las mujeres de llevar a cabo el periodo de lactancia previsto en la ley y todo tipo de discriminación por condición de género.
 
 ###### ARTÍCULO 15.
 
@@ -865,7 +865,7 @@ Las erogaciones que deriven de la aplicación de esta Ley, estarán sujetas a la
 
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los treinta y un días del mes de octubre de dos mil siete.- Diputada Presidenta.- ZENORINA GONZÁLEZ ORTEGA.- Rúbrica.- Diputado Vicepresidente.- JOSÉ RAYMUNDO FROYLÁN GARCÍA GARCÍA.- Rúbrica.- Diputado Secretario.- RAMÓN DANIEL MARTAGÓN LÓPEZ.- Rúbrica.- Diputada Secretaria.- MARÍA DE LOS ÁNGELES ELIZABETH GÓMEZ CORTÉS.- Rúbrica.
 
-Por lo tanto mando se imprima, publique y circule para los efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los seis días del mes de noviembre de dos mil siete.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.-LICENCIADO MARlO ALBERTO MONTERO SERRANO.- Rúbrica.
+Por lo tanto mando se imprima, publique y circule para los efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los seis días del mes de noviembre de dos mil siete.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.-LICENCIADO MARIO ALBERTO MONTERO SERRANO.- Rúbrica.
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
@@ -874,3 +874,9 @@ P.O. 28 DE MARZO DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE NOVIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
