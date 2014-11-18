@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-proteccion-de-los-derechos-de-las-ninas-ninos-y-565
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-06"
-last_updated: "2013-11-20"
+last_updated: "2014-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56583&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Tercera Sección al Periódico Oficial del Estado de Puebla, el lunes 6 de agosto de 2007.
 
@@ -221,7 +221,9 @@ I.- La asistencia médica y sanitaria para la prevención, tratamiento y rehabil
 
 II.- La implementación de las medidas necesarias, tendientes a reducir la mortalidad infantil;
 
-III.- La adopción de las acciones necesarias, a fin de promover la lactancia materna;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2014)</small>
+
+III.- La capacitación y fomento de la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento preferente durante los primeros seis meses y complementario hasta avanzado el segundo año de edad.
 
 IV.- El combate a la desnutrición mediante la promoción de una alimentación adecuada;
 
@@ -257,9 +259,11 @@ VI.- Los desastres naturales, situaciones de refugio, o desplazamiento de su lug
 
 ### CAPÍTULO IX. DEL DERECHO A LA EDUCACIÓN
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 26.
 
-Todas las niñas, niños y adolescentes tienen derecho a recibir educación conforme a los principios establecidos en la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y en las Leyes de la materia, a fin de que se pueda ejercer en condiciones de igualdad y equidad.
+Todas las niñas, niños y adolescentes tienen derecho a recibir educación conforme a los principios establecidos en la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y en las Leyes de la materia, a fin de que se pueda ejercer en condiciones de igualdad y equidad; impulsando la enseñanza y respeto de los derechos humanos y de la convivencia sin violencia física, psicológica o emocional, incluyendo aquélla que se manifiesta a través de los medios electrónicos.
 
 ### CAPÍTULO X. DEL DERECHO A LA CULTURA, ESPARCIMIENTO Y DEPORTES
 
@@ -271,9 +275,11 @@ Las niñas, niños y adolescentes tienen derecho a conocer y disfrutar de todos 
 
 Por ninguna razón o circunstancia se podrá imponer a niñas, niños y adolescentes regímenes de vida, estudio, trabajo o reglas de disciplina que impliquen la renuncia o el menoscabo de los derechos a los que se refiere este Capítulo.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 29.
 
-Sin perjuicio de las sanciones penales a las que haya lugar y con fines de protección de los derechos reconocidos en éste Capítulo, el Estado vigilará que se respete la prohibición establecida en la Ley Federal del Trabajo de contratar a menores de catorce años, bajo ninguna circunstancia.
+Sin perjuicio de las sanciones penales a las que haya lugar y con fines de protección de los derechos reconocidos en este Capítulo, el Estado vigilará que se respete la prohibición establecida en la Ley Federal del Trabajo de contratar a menores de quince años, bajo ninguna circunstancia. Los mayores de esta edad y menores de dieciséis tendrán como jornada máxima la de seis horas.
 
 ### CAPÍTULO XI. DEL DERECHO A LA NO DISCRIMINACIÓN
 
@@ -479,8 +485,16 @@ EL GOBERNADOR, hará publicar y cumplir la presente disposición, dada en el Pal
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los dieciocho días del mes de julio de dos mil siete. El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO JAVIER LÓPEZ ZAVALA.- Rúbrica.
 
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
 P.O. 20 DE NOVIEMBRE DE 2013.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE NOVIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
