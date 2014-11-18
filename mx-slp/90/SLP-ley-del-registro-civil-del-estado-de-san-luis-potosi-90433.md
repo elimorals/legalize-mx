@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-registro-civil-del-estado-de-san-luis-potosi-90433"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-18"
-last_updated: "2014-01-09"
+last_updated: "2014-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de octubre de 2012.
 
@@ -227,9 +227,11 @@ VI. No ser ministro de algún culto religioso, y
 
 VII. No tener antecedentes penales por delitos dolosos, ni haber sido inhabilitado por procedimiento administrativo para ejercer cargo alguno.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 20.
 
-El Director será designado por el Secretario General de Gobierno.
+El Director será designado por el Secretario General de Gobierno; y gozará de fe pública para declarar los hechos y actos del estado civil.
 
 ###### ARTÍCULO 21.
 
@@ -275,9 +277,15 @@ XIII. Las demás facultades que le confieran esta Ley y las demás disposiciones
 
 ### CAPÍTULO II. De las Oficialías del Registro Civil
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 22.
 
-La titularidad de las oficialías del Registro Civil, estarán a cargo de los servidores públicos denominados oficiales del Registro Civil, quienes tendrán fe pública en el desempeño de sus labores.
+La titularidad de las oficialías del Registro Civil estará a cargo de los servidores públicos denominados oficiales del Registro Civil, quienes tendrán fe pública en el desempeño de sus funciones.
+
+Los oficiales del Registro Civil podrán ser suplidos en sus funciones por los presidentes municipales de los ayuntamientos que corresponda, solamente en el caso de ausencia temporal de aquél o, en caso de urgencia.
+
+Para el caso de ausencia por más de diez días hábiles, el presidente municipal designará un suplente, en tanto el Ejecutivo del Estado lleve a cabo la habilitación correspondiente.
 
 ###### ARTÍCULO 23.
 
@@ -301,7 +309,9 @@ II. Ser mayor de veinticinco años de edad.
 
 III. Tener residencia efectiva dentro del territorio del estado, no menor a dos años anteriores a la fecha del nombramiento;
 
-IV. Preferentemente ser Licenciado en Derecho con título legalmente expedido y registrado, con una antigüedad mínima de dos años;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2014)</small>
+
+IV. Ser abogado, o licenciado en derecho con título legalmente expedido y registrado, con una antigüedad mínima de dos años;
 
 > <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
 
@@ -313,9 +323,11 @@ VII. No ser Ministro de ningún culto religioso en servicio activo, y
 
 VIII. No estar en servicio activo dentro del ejército o algún cuerpo de seguridad pública; (sic)
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 27.
 
-Los oficiales del Registro Civil, serán habilitados por el Ejecutivo del Estado, a propuesta del presidente del municipio respectivo.
+Los oficiales del Registro Civil, estrictamente para efectos de la fe pública, serán habilitados por el Ejecutivo del Estado, a propuesta del presidente del municipio respectivo.
 
 ###### ARTÍCULO 28.
 
@@ -334,6 +346,8 @@ III. Llevar a cabo los registros del estado civil de las personas, así como sup
 > <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
 
 IV. Extender y autorizar las actas del estado civil, relativas al nacimiento, reconocimiento de hijos, adopción, tutela, matrimonio, divorcio, y defunciones; así como la inscripción de actos y hechos de mexicanos celebrados en el extranjero;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO 388 PUBLICADO P.O. 31 DE DICIEMBRE DE 2013 Y REFORMADO POR P.O. 18 DE NOVIEMBRE DE 2014.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -488,6 +502,8 @@ V. En casos extraordinarios el Director del Registro Civil.
 ###### ARTÍCULO 35.
 
 Los oficiales tendrán fe pública en el desempeño de las labores propias de su cargo, y sólo asentarán en las actas lo que deba ser declarado en el acto preciso a que ellas se refieren, y lo que esté expresamente previsto por la ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO 388 PUBLICADO P.O. 31 DE DICIEMBRE DE 2013 Y REFORMADO POR P.O. 18 DE NOVIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -979,6 +995,8 @@ Celebrado el matrimonio, el Oficial remitirá copia del acta al titular de la Of
 
 ### CAPÍTULO VI. De las Actas de Divorcio
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO 388 PUBLICADO P.O. 31 DE DICIEMBRE DE 2013 Y REFORMADO POR P.O. 18 DE NOVIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 110.
@@ -993,7 +1011,7 @@ En la citación a que se refiere el plazo anterior, los solicitantes presentará
 
 Cumplidas todas las formalidades, el Oficial del Registro Civil dictará el acuerdo administrativo correspondiente, asentándolo en el acta de divorcio, de la cual remitirá copia a la Dirección para que realice las anotaciones marginales que correspondan de acuerdo con lo dispuesto por el Reglamento de esta Ley.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2014)</small>
 
 ### CAPÍTULO VII. De las Actas de Defunción; y Actuaciones Relativas
 
@@ -1001,11 +1019,13 @@ Cumplidas todas las formalidades, el Oficial del Registro Civil dictará el acue
 
 ###### ARTÍCULO 111.
 
-En el acta de divorcio se expresará el nombre, apellidos, edad, domicilio, nacionalidad de los divorciados, lugar y fecha en que se celebró su matrimonio, la Clave Única del Registro Nacional de Población si la tuvieren, los datos de ubicación de las actas de nacimiento de los divorciados. Además, tratándose de divorcio necesario, o voluntario en la vía judicial, la parte resolutiva de la sentencia judicial ejecutoria que lo decretó, fecha de la misma y la autoridad que la dictó.
+En el acta de divorcio se expresará el nombre, apellidos, edad, domicilio, nacionalidad de los divorciados, lugar y fecha en que se celebró su matrimonio, la Clave Única del Registro Nacional de Población si la tuvieren, y los datos de ubicación de las actas de nacimiento de los divorciados. Tratándose de divorcio necesario, o voluntario en la vía judicial, la parte resolutiva de la sentencia judicial ejecutoria que lo decretó, fecha de la misma y la autoridad que la dictó; en los casos de divorcio administrativo, el acuerdo pronunciado, la fecha, y la autoridad del Registro Civil que emitió tal acuerdo.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 112.
 
-Extendida el acta por el Oficial, remitirá copia de la misma al del lugar en que se encuentre registrado el nacimiento de los divorciados, a efecto de que haga la anotación marginal respectiva. La copia de la sentencia mencionada, se archivará con el mismo número del acta de divorcio en el apéndice correspondiente.
+Extendida el acta por el Oficial, remitirá copia de la misma al del lugar en que se encuentre registrado el nacimiento de los divorciados, a efecto de que haga la anotación marginal respectiva. La copia de la sentencia enunciada o, en su caso, de la resolución administrativa, se archivará con el mismo número del acta de divorcio en el apéndice correspondiente.
 
 ###### ARTÍCULO 113.
 
@@ -1111,6 +1131,8 @@ El Oficial del Registro Civil que reciba un acta de defunción levantada en otra
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 131.
 
 Las autoridades judiciales que declaren la ausencia, la presunción de muerte, la tutela, la pérdida o limitación de la capacidad legal para administrar bienes, o la nulidad de matrimonio, remitirán al Oficial correspondiente, dentro del término de ocho días, copia certificada de la resolución ejecutoriada, o auto de discernimiento, para su registro y levantamiento del acta correspondiente, en la que se insertará dicha resolución.
@@ -1143,7 +1165,7 @@ El Oficial a quien se comunique que una tutela registrada en los libros a su car
 
 ###### ARTÍCULO 136.
 
-Los vicios o defectos que por error u omisión existan en las actas y que sean atribuibles al Oficial, se podrán corregir a petición de parte interesada, mediante procedimiento administrativo seguido en la Dirección, conforme lo señale el reglamento respectivo; cuando tales correcciones no sean substanciales, no producirán la nulidad del acto, a menos que judicialmente se pruebe la falsedad de éste.
+Los vicios o defectos que por error u omisión existan en las actas y que sean atribuibles al Oficial, se podrán corregir gratuitamente a petición de parte interesada, en un plazo de tres días hábiles, contados a partir del registro del acto o hecho del estado civil, mediante procedimiento administrativo seguido en la Dirección, conforme lo señale el reglamento respectivo-(sic) cuando tales correcciones no sean substanciales, no producirán la nulidad del acto, a menos que, judicialmente, se pruebe la falsedad de éste.
 
 Sin perjuicio de lo dispuesto en el párrafo precedente, las actas del Registro Civil podrán, dentro de los tres días siguientes a su inscripción, ser aclaradas ante el propio Oficial, cuando existan errores mecanográficos u ortográficos manifiestos, entendiéndose por éstos los que se desprendan fehacientemente de la sola lectura de la inscripción correspondiente y, en su caso, de los demás actos del Registro Civil relacionados, previa revisión y autorización de la Dirección, para la anotación marginal respectiva en el acta de que se trate.
 
@@ -1427,7 +1449,9 @@ Lic. Cándido Ochoa Rojas
 
 P.O. 31 DE DICIEMBRE DE 2013.
 
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2014)</small>
+
+PRIMERO. Este Decreto entrará en vigor el uno de enero de dos mil quince, previa su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
@@ -1436,3 +1460,9 @@ P.O. 9 DE ENERO DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 18 DE NOVIEMBRE DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
