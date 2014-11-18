@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-4240"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-07-27"
-last_updated: "2014-10-11"
+last_updated: "2014-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
 > <small>N. DE E. DE ACUERDO AL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA, PUBLICADO EN EL P.O. DE 11 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO SE ABROGA GRADUALMENTE, DE CONFORMIDAD A LAS FECHAS EN QUE SE VAYA INCORPORANDO EL NUEVO SISTEMA DE JUSTICIA PENAL ACUSATORIO ADVERSARIAL EN EL PARTIDO JUDICIAL CORRESPONDIENTE, ACORDE A LAS REGIONES Y MODALIDADES REFERIDAS EN EL TRANSITORIO PRIMERO DE DICHO PERIÓDICO OFICIAL.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 27 de julio de 1985.
 
@@ -4113,7 +4113,9 @@ P.O. 11 DE OCTUBRE DE 2014.
 
 Previa publicación en el Periódico Oficial "El Estado de Colima", el presente Decreto entrará en vigor en la fecha, en las regiones y mediante las modalidades siguientes:
 
-I. El 19 de noviembre del año 2014, en los municipios de Colima y Villa de Álvarez, correspondientes al primer partido judicial;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2014)</small>
+
+I. El 31 de diciembre del año 2014, en los municipios de Colima y Villa de Álvarez, correspondientes al primer partido judicial;
 
 II. El 1° de abril del año 2015, en los municipios de Cuauhtémoc, Comala, Coquimatlán y Minatitlán, correspondientes al primer partido judicial;
 
@@ -4134,3 +4136,7 @@ En la medida que se vaya aplicando el presente Código gradualmente en los parti
 ###### ARTÍCULO CUARTO.
 
 Respecto a las disposiciones contenidas en el presente Decreto, en caso de que no se dieran las condiciones necesarias para la implantación del Nuevo Sistema de Justicia Penal Acusatorio Adversarial en el Estado, de conformidad con lo previsto en el Artículo Primero Transitorio antes señalado, se hará una declaratoria de ampliación del término para la entrada en vigor del mismo.
+
+P.O. 18 DE NOVIEMBRE DE 2014.
+
+ÚNICO. El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
