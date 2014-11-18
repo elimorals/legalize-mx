@@ -4,7 +4,7 @@ identifier: "COL-ley-para-prevenir-y-sancionar-tortura-4081"
 country: "mx"
 rank: "ley"
 publication_date: "1995-05-13"
-last_updated: "2014-10-25"
+last_updated: "2014-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY PARA PREVENIR Y SANCIONAR LA TORTURA DEL ESTADO DE COLIMA
 
 > <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DE LA LEY PARA PREVENIR Y SANCIONAR LA TORTURA Y OTROS TRATOS CRUELES, INHUMANOS O DEGRADANTES, PUBLICADA EN EL P.O. DE 25 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO DE MANERA PROGRESIVA Y GRADUAL.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 13 de mayo de 1995.
 
@@ -151,7 +151,9 @@ P.O. 25 DE OCTUBRE DE 2014.
 
 PRIMERO.- Previa publicación en el Periódico Oficial "El Estado de Colima", el presente Decreto entrará en vigor en la fecha, en las regiones y mediante las modalidades siguientes:
 
-I. El 19 de noviembre del año 2014, en los municipios de Colima y Villa de Álvarez, correspondientes al primer partido judicial;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2014)</small>
+
+I. El 31 de diciembre del año 2014, en los municipios de Colima y Villa de Álvarez, correspondientes al primer partido judicial;
 
 II. El 1° de abril del año 2015, en los municipios de Cuauhtémoc, Comala, Coquimatlán y Minatitlán, correspondientes al primer partido judicial;
 
@@ -164,3 +166,7 @@ V. El 12 de agosto del año 2015, en los municipios de Tecomán, Armería e Ixtl
 SEGUNDO.- Quedará abrogada, de manera progresiva y gradual, la Ley para Prevenir y Sancionar la Tortura, aprobada mediante Decreto número 81, publicada en el Periódico Oficial "El Estado de Colima", el 13 de mayo de 1995; conforme vaya iniciando su vigencia el presente Decreto en los términos previstos en el transitorio anterior.
 
 TERCERO.- Los asuntos que estén en trámite a la entrada en vigor del presente Decreto, se substanciarán y resolverán hasta su total conclusión de conformidad con las disposiciones legales vigentes.
+
+P.O. 18 DE NOVIEMBRE DE 2014.
+
+ÚNICO. El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
