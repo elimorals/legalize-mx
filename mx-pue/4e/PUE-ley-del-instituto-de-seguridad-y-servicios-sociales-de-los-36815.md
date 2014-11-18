@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-3681
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-19"
-last_updated: "2013-08-16"
+last_updated: "2014-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 19 de diciembre de 2003.
 
@@ -813,9 +813,17 @@ La trabajadora, la pensionada, la cónyuge o concubina del trabajador o del pens
 
 I.- Asistencia obstétrica necesaria a partir del día en que los servicios médicos del Instituto certifiquen el estado de su embarazo;
 
-II.- Ayuda para la lactancia cuando según dictamen médico esté incapacitada físicamente para amamantar al hijo. Esta ayuda será proporcionada en especie hasta por 6 meses con posterioridad al nacimiento y se entregará a la madre o a falta de ésta a la persona encargada de amamantar al niño;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2014)</small>
 
-III.- Se le entregará una canastilla de maternidad.
+II.- A la capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento preferente durante los primeros seis meses y complementario hasta avanzado el segundo año de vida y ayuda para la lactancia cuando, según dictamen médico, exista incapacidad física o laboral para amamantar al hijo. Esta ayuda será proporcionada en especie, hasta por un lapso de seis meses con posterioridad al nacimiento, y se entregará a la madre o, a falta de ésta, a la persona encargada de alimentarlo;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2014)</small>
+
+III.- Se le entregará una canastilla de maternidad, y
+
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2014)</small>
+
+IV.- Durante el periodo de lactancia tendrán derecho a decidir entre contar con dos reposos extraordinarios por día, de media hora cada uno, o bien, un descanso extraordinario por día, de una hora para amamantar a sus hijos o para realizar la extracción manual de leche, en lugar adecuado e higiénico que designe la institución o dependencia.
 
 Las prestaciones señaladas se proporcionarán siempre y cuando los derechos de la interesada hayan estado vigentes durante al menos seis meses previos al parto.
 
@@ -1902,3 +1910,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 18 DE NOVIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
