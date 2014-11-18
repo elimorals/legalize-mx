@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-mexicano-de-la-juventud-14770"
 country: "mx"
 rank: "estatuto"
 publication_date: "1999-09-01"
-last_updated: "2012-01-30"
+last_updated: "2014-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14770&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "1999-08-11"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO MEXICANO DE LA JUVENTUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE DICIEMBRE DE 2011.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 30 DE ENERO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE NOVIEMBRE DE 2014.
 
 Estatuto publicado en el Diario Oficial de la Federación, el miércoles 1 de septiembre de 1999.
 
@@ -69,17 +67,19 @@ VII.- Prestar los servicios que se establezcan en los programas que formule el p
 
 VIII.- Promover y ejecutar acciones para el reconocimiento público y la difusión de las actividades sobresalientes de los jóvenes mexicanos en distintos ámbitos del acontecer nacional;
 
-IX.- Elaborar, en coordinación con la Secretaría de Educación Pública (SEP), programas y cursos de capacitación y desarrollo destinados a jóvenes, y
+> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2014)</small>
+
+IX.- Elaborar, en coordinación con la Secretaría de Desarrollo Social, programas y cursos de capacitación y desarrollo destinados a jóvenes, y
 
 X.- Las demás que le otorguen su Ley de creación y otros ordenamientos legales y reglamentarios.
 
 ### CAPITULO SEGUNDO. DE LA JUNTA DIRECTIVA
 
-###### ARTICULO 3.
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2014)</small>
 
-La Junta Directiva, máximo Organo de Gobierno del Instituto; tendrá como miembros propietarios permanentes a los o las Titulares de las Secretarías de: Educación Pública, quien la presidirá; Hacienda y Crédito Público; Gobernación; Agricultura, Ganadería y Desarrollo Rural; Trabajo y Previsión Social; Salud; Desarrollo Social; Comercio y Fomento Industrial; Comunicaciones y Transportes, y el Director(a) General del Instituto Nacional Indigenista.
+###### ARTÍCULO 3.
 
-Por cada miembro propietario, habrá un suplente, quien deberá ser un servidor público con nivel de Director de Area o superior, el cual será designado por el titular y contará con las mismas facultades en caso de ausencia de éste.
+La Junta Directiva, máximo Órgano de Gobierno del Instituto; tendrá como miembros propietarios permanentes a los o las Titulares de las Secretarías de: Desarrollo Social, quien la presidirá; Hacienda y Crédito Público; Gobernación; Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; Trabajo y Previsión Social; Salud; Educación Pública; Economía; Comunicaciones y Transportes, y el Director General de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas.
 
 ###### ARTICULO 4.
 
@@ -91,7 +91,9 @@ b) Dos rectores o directores de universidades o instituciones públicas de educa
 
 c) Dos jóvenes integrantes del Consejo de Seguimiento de Proyectos y Programas.
 
-Estos siete miembros formarán parte de la Junta Directiva a invitación del Secretario de Educación Pública y durarán en su encargo un año.
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2014)</small>
+
+Estos siete miembros formarán parte de la Junta Directiva a invitación de la o el titular de la Secretaría de Desarrollo Social y durarán en su encargo un año.
 
 ###### ARTICULO 5.
 
@@ -111,7 +113,9 @@ El Ejecutivo del Estado que resulte insaculado, designará al representante que 
 
 Para los efectos anteriores, el Director General llevará a cabo el sorteo en la sede del Instituto y dispondrá lo necesario para ello.
 
-II.- Para la selección de los dos rectores o directores de universidades o instituciones públicas de educación superior, el titular de la SEP solicitará anualmente a la Asociación Nacional de Universidades e Instituciones de Educación Superior, la propuesta de dos miembros titulares y sus respectivos suplentes, que habrán de integrarse a la Junta Directiva del Instituto.
+> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2014)</small>
+
+II.- Para la selección de los dos rectores o directores de universidades o instituciones públicas de educación superior, el titular de la Secretaría de Desarrollo Social solicitará anualmente a la Asociación Nacional de Universidades e Instituciones de Educación Superior, la propuesta de dos miembros titulares y sus respectivos suplentes, que habrán de integrarse a la Junta Directiva del Instituto.
 
 III.- Para la selección de los dos jóvenes integrantes del Consejo de Seguimiento de Proyectos y Programas, éstos serán elegidos anualmente y bajo el principio de no reelección-rotación en forma directa por mayoría simple, por la totalidad de los diez miembros de dicho Consejo.
 
@@ -149,13 +153,17 @@ XI.- Aprobar el Estatuto Orgánico del Instituto y el proyecto de estructura org
 
 XII.- Analizar y, en su caso, aprobar, los informes periódicos que rinda el Director General, con la intervención que corresponda al Comisario Público;
 
-XIII.- Aprobar las normas y bases para la cancelación de adeudos a favor del Instituto y con cargo a terceros, cuando fuere notoria la imposibilidad práctica de su cobro, informando lo conducente a la Secretaría de Hacienda y Crédito Público por conducto de la Secretaría de Educación Pública, y
+> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2014)</small>
+
+XIII.- Aprobar las normas y bases para la cancelación de adeudos a favor del Instituto y con cargo a terceros, cuando fuere notoria la imposibilidad práctica de su cobro, informando lo conducente a la Secretaría de Hacienda y Crédito Público por conducto de la Secretaría de Desarrollo Social, y
 
 XIV.- Las demás que, con carácter de indelegables, se le atribuyan en los términos de la Ley Federal de las Entidades Paraestatales y otras disposiciones legales aplicables.
 
-###### ARTICULO 8.
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2014)</small>
 
-La Junta Directiva contará con un Secretario y un Prosecretario; el primero de ellos será el Coordinador de Organos Desconcentrados y del Sector Paraestatal de la Secretaría de Educación Pública; el segundo será nombrado por sus miembros, a propuesta expresa del Presidente de la misma.
+###### ARTÍCULO 8.
+
+La Junta Directiva contará con un Secretario y un Prosecretario; el primero de ellos será el Abogado General y Comisionado para la Transparencia la Secretaría de Desarrollo Social; el segundo será nombrado por sus miembros, a propuesta expresa del Presidente de la misma.
 
 ###### ARTICULO 9.
 
@@ -401,6 +409,14 @@ XXI.- Establecer reuniones y visitas de coordinación y evaluación de proyectos
 
 XXII.- Delinear políticas de atención a jóvenes indígenas, ubicando las particularidades culturales y sociales de la realidad pluriétnica del país.
 
+> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2014)</small>
+
+XXIII.- Impulsar la apertura, bajo ciertas normas y estándares, de los Centros Projuventud para jóvenes en el país;
+
+> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2014)</small>
+
+XXIV.- Verificar el adecuado funcionamiento y constante mejoramiento de los Centros Projuventud para jóvenes.
+
 ###### ARTICULO 18.
 
 Compete a la Subdirección General de Coordinación y Evaluación:
@@ -423,9 +439,9 @@ VIII.- Coordinar el análisis de posibles desviaciones en los objetivos plantead
 
 IX.- Brindar asesoría en el marco de su competencia, a las distintas áreas del Instituto o a instancias externas, cuando así lo soliciten, en el diseño, planeación y evaluación de las políticas de juventud;
 
-X.- Impulsar la apertura, bajo ciertas normas y estándares, de Centros Interactivos para jóvenes en el país;
+X.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2014)
 
-XI.- Verificar el adecuado funcionamiento y constante mejoramiento de los Centros Interactivos para jóvenes;
+XI.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2014)
 
 XII.- Promover el conocimiento sistemático de la población juvenil como base del diseño de políticas integrales de juventud;
 
@@ -479,7 +495,9 @@ VII.- Emitir oportunamente los estados financieros que contengan la información
 
 VIII.- Autorizar y vigilar que se realicen oportunamente los pagos de los requerimientos fiscales y del sistema de compensación de adeudos;
 
-IX.- Supervisar el envío de los reportes financieros y presupuestales requeridos por la SEP y las Secretarías de Hacienda y Crédito Público (SHCP) y de Contraloría y Desarrollo Administrativo (SECODAM);
+> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2014)</small>
+
+IX.- Supervisar el envío de los reportes financieros y presupuestales requeridos por las Secretarías de Desarrollo Social, Hacienda y Crédito Público y de la Función Pública;
 
 X.- Verificar que se efectúen los enteros a la Tesorería de la Federación por concepto de rendimientos bancarios, recuperación de ejercicios anteriores, recuperación de indemnizaciones, ingresos autogenerados, remanentes del ejercicio anterior, etc.;
 
@@ -649,7 +667,9 @@ Para el mejor despacho de los asuntos competencia de las Subdirecciones Generale
 
 El Instituto cuenta con una Contraloría Interna, órgano de control interno, al frente de la cual el Contralor Interno designado en los términos del artículo 37 fracción XII de la Ley Orgánica de la Administración Pública Federal, en el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de auditoría, quejas y responsabilidades designados en los mismos términos.
 
-Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercen las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables conforme a lo previsto por el artículo 26 fracciones III y IV del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2014)</small>
+
+Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus competencias ejercen las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de Entidades Paraestatales, la Ley Federal de Responsabilidades de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto por el artículo 43, fracción I del Reglamento Interior de la Secretaría de la Función Pública.
 
 ###### ARTICULO 29.
 
@@ -657,15 +677,17 @@ Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de
 
 ### CAPITULO NOVENO. DE LOS ORGANOS DE VIGILANCIA
 
-###### ARTICULO 30.
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2014)</small>
 
-El Instituto contará con un órgano de vigilancia integrado por un Comisario Público propietario y un suplente, designados por la SECODAM, quienes asistirán con voz pero sin voto a las sesiones de la Junta Directiva.
+###### ARTÍCULO 30.
+
+El Instituto contará con un órgano de vigilancia integrado por un Comisario Público propietario y un suplente, designados por la Secretaría de la Función Pública, quienes asistirán con voz pero sin voto a las sesiones de la Junta Directiva.
 
 ###### ARTICULO 31.
 
 Los Comisarios Públicos vigilarán y evaluarán la operación del Instituto y tendrán a su cargo las atribuciones que le confieren los artículos 60 de la Ley Federal de las Entidades Paraestatales, 29 y 30 de su Reglamento y demás disposiciones aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 2 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 2 DE DICIEMBRE DE 2011)</small>
 
 ### CAPITULO DECIMO:. DEL CONSEJO CIUDADANO DE SEGUIMIENTO DE POLITICAS PUBLICAS EN MATERIA DE JUVENTUD
 
@@ -767,9 +789,11 @@ Durante las ausencias temporales del Director General, el despacho y resolución
 
 Los Subdirectores Generales y Directores de Area, serán sustituidos en sus ausencias temporales por los funcionarios de la jerarquía inmediata inferior de su respectiva adscripción, que designen el Director General o los Subdirectores Generales o Directores de Area, según el caso, por acuerdo del propio titular de la entidad.
 
-###### ARTICULO 38.
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2014)</small>
 
-Las ausencias del Contralor Interno, así como las de los titulares de las áreas de responsabilidades, auditoría y quejas, serán suplidas conforme a lo previsto por el artículo 33, segundo y tercer párrafos, del Reglamento Interior de la SECODAM.
+###### ARTÍCULO 38.
+
+Las ausencias del Contralor Interno, así como las de los titulares de las áreas de responsabilidades, auditoría y quejas, serán suplidas conforme a lo previsto por el artículo 88, del Reglamento Interior de la Secretaría de la Función Pública.
 
 ### CAPITULO DECIMO SEGUNDO. DE LAS MODIFICACIONES AL ESTATUTO
 
@@ -785,7 +809,7 @@ SEGUNDO.- El Director General deberá expedir, en un plazo no mayor de tres mese
 
 Aprobado por la Junta Directiva del Instituto Mexicano de la Juventud, en su sesión extraordinaria del día 11 de agosto de 1999.- El Presidente Suplente de la Junta Directiva, Carlos Mancera Corcuera.- Rúbrica.- El Secretario de la Junta Directiva, Ramón Díaz de León Espino.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O.F. 8 DE DICIEMBRE DE 1999.
 
@@ -794,3 +818,9 @@ UNICO.- Estas modificaciones entrarán en vigor el día de su aprobación por la
 D.O.F. 2 DE DICIEMBRE DE 2011.
 
 UNICO.- Estas modificaciones entrarán en vigor el día de su aprobación por la Junta Directiva, debiendo publicarse en el Diario Oficial de la Federación, las presentes reformas.
+
+D.O.F. 18 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- El presente Acuerdo de Modificación del Estatuto Orgánico del Instituto Mexicano de la Juventud entrará en vigor al día siguiente de su aprobación por la Junta Directiva, debiendo publicarse en el Diario Oficial de la Federación.
+
+SEGUNDO.- Previa consideración y, en su caso, aprobación de la Junta Directiva el Director General deberá expedir, en un plazo no mayor de tres meses, contados a partir de la fecha en que entre en vigor este Estatuto, el Manual General de Organización del Instituto; mientras tanto, queda facultado para resolver las cuestiones que sean materia de dicho Manual.
