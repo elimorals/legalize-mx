@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-mercados-del-estado-de-morelos-7117"
 country: "mx"
 rank: "ley"
 publication_date: "1965-10-27"
-last_updated: "2014-10-08"
+last_updated: "2014-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7117&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MOR"
 
 LEY DE MERCADOS DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2014.
 
-Ley publicada en el Periódico Oficial del Estado de Morelos el día 27 de octubre de 1965.
+Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de octubre de 1965.
 
 Al margen izquierdo un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- Gobierno del Estado Libre y Soberano de Morelos.- Poder Ejecutivo.- Año del Generalísimo Don José María Morelos y Pavón.
 
@@ -133,9 +133,11 @@ De los Comerciantes.
 
 Los comerciantes estarán sujetos a la distribución que dentro de los mercados señale la autoridad, atendiendo a las especialidades, necesidades del lugar e interés público, rigiéndose por el horario que fije la propia Autoridad.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 14.
 
-Los permisionarios tendrán obligaciones de construir, adaptar o pintar los puestos o locales, de acuerdo con las disposiciones dictadas por la Autoridad.
+Los permisionarios tendrán obligaciones de adaptar o pintar, darles mantenimiento, respetando el diseño arquitectónico y la distribución de las áreas comerciales y tenerlos en condiciones de higiene para tener en buen estado los puestos o locales, de acuerdo con las disposiciones dictadas por la Autoridad.
 
 ###### Artículo 15.
 
@@ -660,3 +662,17 @@ El Decreto que al efecto se expida, entrará en vigor al día siguiente de su pu
 ###### ARTÍCULO TERCERO.
 
 A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente Decreto.
+
+P.O. 19 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Expídase el decreto respectivo y remítase al Titular del Poder Ejecutivo del Estado, para su Publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos, de conformidad con los artículos 44 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El decreto que al efecto se expida, entrará en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente (sic), se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
