@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-ecologia-y-96110"
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-10-04"
-last_updated: "2013-10-04"
+last_updated: "2014-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96110&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-09-25"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE ECOLOGÍA Y CAMBIO CLIMÁTICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE NOVIEMBRE DE 2014.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 4 de octubre de 2013.
 
@@ -91,21 +91,33 @@ Para los efectos del presente estatuto, se entenderá por:
 
 I. Director General: El Director General del Instituto Nacional de Ecología y Cambio Climático;
 
-II. Entidades: Los organismos públicos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos que tengan el carácter de entidad paraestatal a que se refieren los artículos 3, 45, 46 y 47 de la Ley Orgánica de la Administración Pública Federal;
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
 
-III. Estatuto: El Estatuto Orgánico del Instituto Nacional de Ecología y Cambio Climático;
+II. Coordinación de Evaluación: Grupo de trabajo integrado por el Director General del INECC y los consejeros sociales a que se refiere el Artículo 23 de la LGCC.
 
-IV. INECC: El Instituto Nacional de Ecología y Cambio Climático;
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
 
-V. Junta de Gobierno: El Órgano de Gobierno del INECC;
+III. Coordinación General de Evaluación: La Coordinación General de Evaluación de las Políticas de Mitigación y Adaptación al Cambio Climático a que se refiere el artículo 21 de la LGCC, el servidor público que desempeñe este cargo tendrá el nivel de Director General Adjunto dentro del presupuesto y la estructura orgánica aprobada del INECC.
 
-VI. LGCC: La Ley General de Cambio Climático;
+IV. Entidades: Los organismos públicos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos que tengan el carácter de entidad paraestatal a que se refieren los artículos 3, 45, 46 y 47 de la Ley Orgánica de la Administración Pública Federal;
 
-VII. Presidente: El Presidente de la Junta de Gobierno y titular de la Secretaría de Medio Ambiente y Recursos Naturales;
+V. Estatuto: El Estatuto Orgánico del Instituto Nacional de Ecología y Cambio Climático;
 
-VIII. Secretaría: Secretaría de Medio Ambiente y Recursos Naturales, y
+VI. INECC: El Instituto Nacional de Ecología y Cambio Climático;
 
-IX. Unidades Administrativas: Órganos de la estructura organizacional del INECC a los que se les confieren atribuciones específicas.
+VII. Junta de Gobierno: El Órgano de Gobierno del INECC;
+
+VIII. LGCC: La Ley General de Cambio Climático;
+
+IX. Presidente: El Presidente de la Junta de Gobierno y titular de la Secretaría de Medio Ambiente y Recursos Naturales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+X. Secretaría: Secretaría de Medio Ambiente y Recursos Naturales, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+XI. Unidades Administrativas: Órganos de la estructura organizacional del INECC a los que se les confieren atribuciones específicas.
 
 ###### Artículo 4.
 
@@ -163,17 +175,21 @@ Las atribuciones del INECC corresponden a lo previsto en el artículo 22 de la L
 
 ### CAPÍTULO TERCERO. DE LA ESTRUCTURA ORGÁNICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 9.
 
-Estructura orgánica del INECC
+Estructura Orgánica del INECC
 
-Para el cumplimiento de su objeto y de las atribuciones antes señaladas, el INECC contará con la siguiente estructura y Órganos Colegiados:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+Para el cumplimiento de su objeto y de las atribuciones antes señaladas, el INECC contará con la siguiente estructura y órganos colegiados:
 
 A. Junta de Gobierno;
 
 B. Dirección General;
 
-C. Unidades Administrativas;
+C. Unidades Administrativas
 
 I. Coordinación General de Cambio Climático y Desarrollo Bajo en Carbono;
 
@@ -181,11 +197,15 @@ II. Coordinación General de Adaptación al Cambio Climático;
 
 III. Coordinación General de Contaminación y Salud Ambiental;
 
-IV. Coordinación General de Crecimiento Verde;
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
 
-V. Unidad Ejecutiva de Administración, y
+IV. Coordinación General de Evaluación de las Políticas de Mitigación y Adaptación al Cambio Climático;
 
-VI. Unidad Ejecutiva de Asuntos Jurídicos, Información y Transparencia.
+V. Coordinación General de Crecimiento Verde;
+
+VI. Unidad Ejecutiva de Administración; y,
+
+VII. Unidad Ejecutiva de Asuntos Jurídicos, Información y Transparencia.
 
 Además, el INECC podrá contar con Delegaciones Regionales o Estatales, las cuales establecerá la Junta de Gobierno mediante acuerdo que deberá publicarse en el Diario Oficial de la Federación.
 
@@ -389,45 +409,51 @@ V. Contribuir al diagnóstico de la situación ambiental con relación a los com
 
 VI. Coadyuvar en el monitoreo, reporte y verificación de las acciones de adaptación y mitigación del cambio climático;
 
-VII. Coadyuvar en la elaboración y/o revisión de instrumentos normativos en materia ambiental y de cambio climático;
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
 
-VIII. Proponer al Sistema Educativo Nacional el contenido educativo de libros, libros de texto y materiales didácticos sobre cambio climático, de conformidad con la Ley General de Educación;
+VII. Apoyar a la Coordinación de Evaluación y a la Coordinación General de Evaluación de las Políticas de Mitigación y Adaptación al Cambio Climático al cumplimiento de sus funciones;
 
-IX. Propiciar, en coordinación con la Secretaría de Educación Pública y las instituciones de investigación y educación superior del país, la capacidad científica, tecnológica, y de innovación en materias de su competencia;
+VIII. Coadyuvar en la elaboración y/o revisión de instrumentos normativos en materia ambiental y de cambio climático;
 
-X. Coordinar la entrega de la información que, en su ámbito de atribución les corresponda, al Sistema de Información sobre el Cambio Climático;
+IX. Proponer al Sistema Educativo Nacional el contenido educativo de libros, libros de texto y materiales didácticos sobre cambio climático, de conformidad con la Ley General de Educación;
 
-XI. Brindar asesoría y capacitación en los temas de su competencia;
+X. Propiciar, en coordinación con la Secretaría de Educación Pública y las instituciones de investigación y educación superior del país, la capacidad científica, tecnológica, y de innovación en materias de su competencia;
 
-XII. Colaborar en el proceso de publicación, difusión y divulgación de los trabajos que se realicen en las materias de su competencia;
+XI. Coordinar la entrega de la información que, en su ámbito de atribución les corresponda, al Sistema de Información sobre el Cambio Climático;
 
-XIII. Proponer e integrar los convenios, contratos, acuerdos, bases de colaboración y todo tipo de instrumentos consensuales, así como los correspondientes anexos de ejecución, en las materias de su competencia que, previa validación del área jurídica, sean sometidos a consideración del Director General o de la Unidad Ejecutiva de Administración, según corresponda y, en caso de ser aprobados, intervenir en su suscripción;
+XII. Brindar asesoría y capacitación en los temas de su competencia;
 
-XIV. Coordinar la integración del proyecto de presupuesto de la unidad administrativa y de las áreas que le estén adscritas, remitirlo a la Unidad Ejecutiva de Administración para su análisis y, una vez aprobado por las instancias correspondientes, supervisar su correcta aplicación;
+XIII. Colaborar en el proceso de publicación, difusión y divulgación de los trabajos que se realicen en las materias de su competencia;
 
-XV. Coadyuvar en la rendición de cuentas de la gestión del INECC, proporcionando la documentación e información que le sea requerida en los términos que establezcan los ordenamientos aplicables;
+XIV. Proponer e integrar los convenios, contratos, acuerdos, bases de colaboración y todo tipo de instrumentos consensuales, así como los correspondientes anexos de ejecución, en las materias de su competencia que, previa validación del área jurídica, sean sometidos a consideración del Director General o de la Unidad Ejecutiva de Administración, según corresponda y, en caso de ser aprobados, intervenir en su suscripción;
 
-XVI. Planear, programar, organizar, dirigir y evaluar el funcionamiento de las áreas que tenga adscritas;
+XV. Coordinar la integración del proyecto de presupuesto de la unidad administrativa y de las áreas que le estén adscritas, remitirlo a la Unidad Ejecutiva de Administración para su análisis y, una vez aprobado por las instancias correspondientes, supervisar su correcta aplicación;
 
-XVII. Proponer a la Unidad Ejecutiva de Administración el nombramiento y/o terminación de los efectos del nombramiento de los servidores públicos de las unidades subalternas de su adscripción, distintas a los que competan a la Junta de Gobierno; lo anterior, sin perjuicio de la facultad del Director General para determinar directamente dichos movimientos de personal;
+XVI. Coadyuvar en la rendición de cuentas de la gestión del INECC, proporcionando la documentación e información que le sea requerida en los términos que establezcan los ordenamientos aplicables;
 
-XVIII. Promover y apoyar el desarrollo y capacitación del personal a su cargo; así como autorizar licencias, permisos o comisiones, de conformidad con las necesidades del servicio y disposiciones jurídicas aplicables;
+XVII. Planear, programar, organizar, dirigir y evaluar el funcionamiento de las áreas que tenga adscritas;
 
-XIX. Proporcionar la información y documentación que requiera la Unidad Ejecutiva de Asuntos Jurídicos, Información y Transparencia para la debida defensa de los intereses jurídicos y patrimoniales del INECC;
+XVIII. Proponer a la Unidad Ejecutiva de Administración el nombramiento y/o terminación de los efectos del nombramiento de los servidores públicos de las unidades subalternas de su adscripción, distintas a los que competan a la Junta de Gobierno; lo anterior, sin perjuicio de la facultad del Director General para determinar directamente dichos movimientos de personal;
 
-XX. Supervisar, asegurar, resguardar, integrar y clasificar el archivo de trámite, así como los demás documentos que se generen en la unidad administrativa a su cargo;
+XIX. Promover y apoyar el desarrollo y capacitación del personal a su cargo; así como autorizar licencias, permisos o comisiones, de conformidad con las necesidades del servicio y disposiciones jurídicas aplicables;
 
-XXI. Atender los requerimientos de acceso a la información que solicite la Unidad de Enlace, conforme a lo dispuesto en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
+XX. Proporcionar la información y documentación que requiera la Unidad Ejecutiva de Asuntos Jurídicos, Información y Transparencia para la debida defensa de los intereses jurídicos y patrimoniales del INECC;
 
-XXII. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquéllos que le sean encomendados por delegación, o que le correspondan por suplencia;
+XXI. Supervisar, asegurar, resguardar, integrar y clasificar el archivo de trámite, así como los demás documentos que se generen en la unidad administrativa a su cargo;
 
-XXIII. Presidir los comités que le asigne el Director General, así como representar a éste en los casos en que así lo determine el propio Director General;
+XXII. Atender los requerimientos de acceso a la información que solicite la Unidad de Enlace, conforme a lo dispuesto en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
 
-XXIV. Conocer y participar en las diligencias, actas, procedimientos y recursos administrativos relativos a su ámbito de atribuciones y/o en las que esté involucrado personal adscrito a sus áreas, y
+XXIII. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que le sean encomendados por delegación, o que le correspondan por suplencia;
 
-XXV. Las demás que expresamente le confieran la Junta de Gobierno o el Director General, las que le señalen otras disposiciones jurídicas en la materia y las que competan a las áreas de su adscripción.
+XXIV. Presidir los comités que le asigne el Director General, así como representar a éste en los casos en que así lo determine el propio Director General;
+
+XXV. Conocer y participar en las diligencias, actas, procedimientos y recursos administrativos relativos a su ámbito de atribuciones y/o en las que esté involucrado personal adscrito a sus áreas, y
+
+XXVI. Las demás que expresamente le confieran la Junta de Gobierno o el Director General, las que le señalen otras disposiciones jurídicas en la materia y las que competan a las áreas de su adscripción.
 
 #### SECCIÓN PRIMERA. De la Coordinación General de Cambio Climático y Desarrollo Bajo en Carbono
+
+> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 20.
 
@@ -437,21 +463,53 @@ I. Integrar, monitorear y actualizar el Inventario Nacional de Emisiones de Gase
 
 II. Elaborar, con el apoyo de las áreas relevantes del INECC, las comunicaciones nacionales y los informes bienales que presenten los Estados Unidos Mexicanos ante la Convención Marco de las Naciones Unidas sobre el Cambio Climático, y obtener e integrar la información necesaria para ello;
 
-III. Fungir como Secretario Técnico de la Coordinación de Evaluación;
+III. Participar en la elaboración de las metodologías que se requieran para el cálculo y la integración de la información sobre las emisiones y absorciones por sumideros, de las categorías de las fuentes emisoras determinadas en el artículo 7, fracción XIV, de la LGCC;
 
-IV. Participar en la elaboración de las metodologías que se requieran para el cálculo y la integración de la información sobre las emisiones y absorciones por sumideros, de las categorías de las fuentes emisoras determinadas en el artículo 7, fracción XIV, de la LGCC;
+IV. Coordinar, promover y desarrollar, con la participación que corresponda a otras unidades administrativas del INECC, dependencias, entidades e instituciones, la investigación científica y tecnológica en materia de cambio climático y desarrollo bajo en carbono, y mitigación de emisiones de gases de efecto invernadero;
 
-V. Coordinar, promover y desarrollar, con la participación que corresponda a otras unidades administrativas del INECC, dependencias, entidades e instituciones, la investigación científica y tecnológica en materia de cambio climático y desarrollo bajo en carbono, y mitigación de emisiones de gases de efecto invernadero;
+V. Analizar las decisiones de las Conferencias de las Partes de la Convención Marco de las Naciones Unidas sobre el Cambio Climático relativas al tema de mitigación del cambio climático y desarrollo bajo en carbono, y coordinarse con la Secretaría para proponer mecanismos para su cumplimiento;
 
-VI. Analizar las decisiones de las Conferencias de las Partes de la Convención Marco de las Naciones Unidas sobre el Cambio Climático relativas al tema de mitigación del cambio climático y desarrollo bajo en carbono, y coordinarse con la Secretaría para proponer mecanismos para su cumplimiento;
+VI. Fomentar la construcción de capacidades de las entidades federativas y de los municipios, para la elaboración de sus Programas de Cambio Climático y sus inventarios de emisiones de gases de efecto invernadero;
 
-VII. Fomentar la construcción de capacidades de las entidades federativas y de los municipios, para la elaboración de sus Programas de Cambio Climático y sus inventarios de emisiones de gases de efecto invernadero;
+VII. Realizar análisis de prospectiva sectorial, y participar en la elaboración de estrategias, planes, programas, instrumentos y acciones relacionadas con la mitigación del cambio climático y el desarrollo bajo en carbono;
 
-VIII. Realizar análisis de prospectiva sectorial, y participar en la elaboración de estrategias, planes, programas, instrumentos y acciones relacionadas con la mitigación del cambio climático y el desarrollo bajo en carbono;
+VIII. Estimar, con la participación que corresponda a otras unidades administrativas del INECC, los costos asociados y cobeneficios de las acciones de mitigación; y
 
-IX. Estimar, con la participación que corresponda a otras unidades administrativas del INECC, los costos asociados y cobeneficios de las acciones de mitigación, y
+IX. Apoyar a la Secretaría y al Instituto Nacional de Estadística y Geografía en el desarrollo de los sistemas y tecnologías de la información para dar cumplimiento a los artículos 77, 78 y 79 de la LGCC.
 
-X. Apoyar a la Comisión Intersecretarial de Cambio Climático, en coordinación con el Instituto Nacional de Estadística y Geografía, en la elaboración y desarrollo de una página de Internet que incluya el informe anual detallado de la situación general del país en materia de cambio climático y los resultados de las evaluaciones de la Política Nacional de Cambio Climático. En dicha página de Internet los particulares podrán revisar el Inventario y el Registro Nacional de Emisiones.
+Para el ejercicio de las facultades a que se refiere el artículo 24 de la LGCC, el Coordinador General de Cambio Climático y Desarrollo Bajo en Carbono se apoyará en el Coordinador General de Evaluación de las Políticas de Mitigación y Adaptación al Cambio Climático.
+
+> <small>(ADICIONADO, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 20 Bis.
+
+Facultades del Coordinador General de Evaluación de las Políticas de Mitigación y Adaptación al Cambio Climático:
+
+I. Ejercer las funciones de Secretario Técnico de la Coordinación de Evaluación
+
+II. Apoyar, coordinar, fomentar, promover e instrumentar las acciones necesarias para la adopción o modificación del programa de trabajo, evaluaciones, decisiones y recomendaciones de la Coordinación de Evaluación;
+
+III. Proponer a la Coordinación de Evaluación criterios metodológicos para el desarrollo de la evaluación de las políticas de mitigación y adaptación al cambio climático.
+
+IV. Coordinarse con las Unidades Administrativas del INECC para el cumplimiento de sus funciones;
+
+V. Promover, coordinar y dar seguimiento a la celebración de convenios, contratos y cualquier otro tipo de instrumento consensual que resulte necesario para la instrumentación de acuerdos de la Coordinación de Evaluación y participar en la suscripción de los mismos, en términos de las disposiciones normativas aplicables;
+
+VI. Promover y coordinar la participación de servidores públicos de la Federación, entidades federativas y municipios, así como de representantes y personas de los sectores social, académico y privado como invitados a las sesiones de la Coordinación de Evaluación;
+
+VII. Solicitar información a servidores públicos de la Federación, entidades federativas y municipios, así como a personas de los sectores social, académico y privado para el cumplimiento de las funciones de la Coordinación de Evaluación;
+
+VIII. Instrumentar las gestiones necesarias ante dependencias y entidades de la Federación, entidades federativas y municipios, así como ante los sectores social, académico y privado para el cumplimiento de los acuerdos y recomendaciones de la Coordinación de Evaluación;
+
+IX. Apoyar, facilitar y coordinar en representación del INECC, el desarrollo de lineamientos, criterios e indicadores de eficiencia e impacto que orienten la Evaluación de la Política Nacional de Cambio Climático a que se refiere el Art. 100 de la LGCC;
+
+X. Proponer a la Coordinación de Evaluación su proyecto de Reglamento Interno y desarrollar las gestiones necesarias ante las unidades administrativas del INECC para su publicación en el Diario Oficial de la Federación una vez aprobado, así como de las modificaciones que en su caso se adopten;
+
+XI. Proponer mecanismos e instrumentos que faciliten el desarrollo de la evaluación de acciones en materia de mitigación y adaptación de cambio climático;
+
+XII. Coordinar, preparar, y realizar las gestiones necesarias para la publicación de los resultados de las evaluaciones de la Política Nacional de Evaluación de Cambio Climático y su entrega a las Cámaras de Diputados y Senadores del Congreso de la Unión, en cumplimiento al Art. 105 de la LGCC;
+
+XIII. Las demás que expresamente le confiera la Junta de Gobierno o el Director General del INECC, o aquellas que resulten por acuerdo de la Coordinación de Evaluación para cumplir las funciones anteriores.
 
 #### SECCIÓN SEGUNDA. De la Coordinación General de Adaptación al Cambio Climático
 
@@ -529,6 +587,8 @@ III. Funcionar como laboratorio de referencia en materia de análisis y calibrac
 
 #### SECCIÓN CUARTA. De la Coordinación General de Crecimiento Verde
 
+> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 23.
 
 Facultades del Coordinador General de Crecimiento Verde
@@ -545,7 +605,7 @@ d) Determinantes y efectos económicos, sociales y ambientales de la política y
 
 e) Análisis económico, político, institucional, regulatorio y social de las acciones en materia ambiental y de cambio climático;
 
-f) Análisis de políticas públicas;
+f) Análisis y evaluación de políticas públicas ambientales y de crecimiento verde;
 
 g) Valoración económica de capital natural, ecosistemas, especies, energía, recursos naturales y servicios ambientales;
 
@@ -557,23 +617,15 @@ j) Desarrollo y análisis de índices e indicadores para la economía y polític
 
 k) Diseño y análisis de medidas de política para el uso sustentable del capital natural;
 
-l) Evaluación de políticas ambientales, de cambio climático y crecimiento verde, y
-
-m) Bioseguridad, monitoreo y difusión de los posibles riesgos que ocasionan las actividades con organismos genéticamente modificados en el medio ambiente y la diversidad biológica.
+l) Bioseguridad, monitoreo y difusión de los posibles riesgos que ocasionan las actividades con organismos genéticamente modificados en el medio ambiente y la diversidad biológica.
 
 II. Participar, en coordinación con las autoridades competentes, en el diseño de instrumentos económicos, fiscales, financieros y de mercado en materia de medio ambiente y cambio climático;
 
 III. Diseñar y aplicar indicadores para evaluar el crecimiento verde y la protección ambiental;
 
-IV. Coadyuvar con las unidades administrativas de la Secretaría, en la cuantificación del costo de la contaminación del ambiente y el agotamiento de los recursos naturales provocados por las actividades económicas para calcular el producto interno neto ecológico;
+IV. Coadyuvar con las unidades administrativas de la Secretaría, en la cuantificación del costo de la contaminación del ambiente y el agotamiento de los recursos naturales provocados por las actividades económicas para calcular el producto interno neto ecológico; y
 
-V. Funcionar como laboratorio de referencia en materia de análisis de organismos genéticamente modificados;
-
-VI. Brindar apoyo técnico a la Coordinación de Evaluación;
-
-VII. Colaborar en la planeación estratégica y en la evaluación del desempeño de la entidad, así como en el funcionamiento de la Junta de Gobierno, y
-
-VIII. Coordinar la vinculación con las instancias relevantes en materia de ciencia y tecnología.
+V. Funcionar como laboratorio de referencia en materia de análisis de organismos genéticamente modificados.
 
 #### SECCIÓN QUINTA. De la Unidad Ejecutiva de Administración
 
@@ -745,27 +797,29 @@ V. Proponer modificaciones y adiciones de las políticas nacionales en materia d
 
 VI. Emitir sugerencias y recomendaciones a los integrantes del Sistema Nacional de Cambio Climático, con base a los resultados de sus evaluaciones;
 
-VII. Ordenar, a través de la Coordinación General de Cambio Climático, la publicación en el Diario Oficial de la Federación, de los resultados de las evaluaciones practicadas e informar de los mismos a las Cámaras del Congreso de la Unión;
+> <small>(REFORMADA, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+VII. Ordenar a través de la Coordinación General de Evaluación de Políticas de Mitigación y Adaptación al Cambio Climático, la publicación en el Diario Oficial de la Federación de los resultados de las evaluaciones practicadas e informar de los mismos a las cámaras del Congreso de la Unión.
 
 VIII. Requerir a las Dependencias y entidades de la administración pública federal, a las entidades federativas y municipios, información necesaria para el cumplimiento de sus responsabilidades, y
 
 IX. Las demás que señalen otras disposiciones aplicables y las que les asignen la Junta de Gobierno.
 
+> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 30.
 
 De las Sesiones de la Coordinación de Evaluación
 
-La Coordinación de Evaluación será presidida por el Director General; sesionará de manera semestral.
+La Coordinación de Evaluación será presidida por el Director General; sesionará de manera trimestral.
+
+> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 31.
 
-De las Atribuciones del Secretario Técnico
+De las atribuciones del Secretario Técnico
 
-De conformidad con el artículo 24 de la LGCC, el Coordinador General de Cambio Climático y Desarrollo Bajo en Carbono del INECC fungirá como Secretario Técnico y tendrá las siguientes atribuciones:
-
-I. Participar con derecho a voz en las sesiones de la Coordinación de Evaluación, y
-
-II. Elaborar las actas de las sesiones de la Coordinación, registrando los acuerdos y dando seguimiento a los mismos.
+Para el ejercicio de las facultades a que se refiere el artículo 24 de la LGCC, el Coordinador General de Cambio Climático y Desarrollo Bajo en Carbono se apoyará en el titular de la Coordinación General de Evaluación de las Políticas de Mitigación y Adaptación al Cambio Climático, quien participará en las reuniones de la Coordinación de Evaluación con voz pero sin voto y tendrá las facultades que señala el presente Estatuto, las que determine la Junta de Gobierno, el Director General del INECC o las propias que acuerde la Coordinación de Evaluación para el cumplimiento de sus funciones.
 
 ### CAPÍTULO NOVENO. DISPOSICIONES GENERALES
 
@@ -822,3 +876,13 @@ f) Las correspondientes al Titular de la Unidad Ejecutiva de Asuntos Jurídicos,
 Este Estatuto fue expedido y aprobado por la Junta de Gobierno del Instituto Nacional de Ecología y Cambio Climático, en la sesión ordinaria celebrada el 26 de febrero de 2013, con fundamento en lo dispuesto en los artículos 15 y 58, fracción VIII, de la Ley Federal de las Entidades Paraestatales, y 17, 21 y Sexto Transitorio de la Ley General de Cambio Climático.
 
 México, D.F., a 25 de septiembre de 2013.- Este estatuto fue expedido por la Junta de Gobierno del Instituto Nacional de Ecología y Cambio Climático, mediante acuerdo ACU/01/09/2013 adoptado en su primera sesión ordinaria celebrada el día veintiséis de febrero de dos mil trece.- La Directora General, María Amparo Martínez Arroyo.- Rúbrica.- El Prosecretario de la Junta de Gobierno, Andrés Flores Montalvo.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 19 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- A fin de ajustar administrativamente todas las referencias a la Coordinación General de Evaluación se entenderán en la esfera de su competencia como a la Coordinación General de Evaluación de Políticas de Mitigación y Adaptación al Cambio Climático, que se menciona en la fracción III, del artículo 3 del Estatuto Orgánico del Instituto Nacional de Ecología y Cambio Climático.
+
+SEGUNDO.- A partir de la entrada en vigor del presente acuerdo, se deberán realizar todos los trámites administrativos ante las dependencias competentes, para registrar el cambio de nomenclatura y funciones de la Coordinación General de Evaluación de Políticas de Mitigación y Adaptación al Cambio Climático.
+
+TERCERO.- El presente acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
