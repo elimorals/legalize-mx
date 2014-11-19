@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-justicia-especial-para-adolescentes-infractores-del-5177
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-16"
-last_updated: "2014-03-29"
+last_updated: "2014-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 LEY DE JUSTICIA ESPECIAL PARA ADOLESCENTES INFRACTORES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2013.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 29 DE MARZO DE 2014 NO APLICA AL ARTICULADO DEL DECRETO 1307/2013 II P.O. PUBLICADO EN EL P.O. DE 18 DE DICIEMBRE DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial el Estado de Chihuahua, el sábado 16 de septiembre de 2006.
 
@@ -725,15 +723,23 @@ Si el adolescente detenido muestra señales de maltrato físico o sicológico, e
 
 Cuando el hecho que motivó la detención del adolescente no sea típico, el Ministerio Público lo pondrá de inmediato en libertad.
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 66.
 
 Supuestos de flagrancia.
 
-Se encuentra en situación de flagrancia respecto a un hecho delictivo, quien fuere sorprendido al cometerlo o fuere detenido inmediatamente después de la comisión del mismo, tomando en cuenta para ello el tiempo en que ocurrieron los hechos, el lugar y las circunstancias del caso.
+Se podrá detener al adolescente sin orden judicial en caso de flagrancia. Se entiende que hay flagrancia cuando:
 
-Para el efecto del presente artículo, la comisión del hecho delictivo se entenderá en relación con las formas de consumación del delito en los términos de los artículos 17 y 19 del Código Penal del Estado. Así mismo, se entenderá inmediatamente, el lapso de tiempo comprendido entre el momento de la ejecución del delito y el de la detención, el que podrá realizarse en minutos, horas o incluso días, según las circunstancias del caso, siempre y cuando no se hayan suspendido las actividades de investigación policial tendientes a la localización y detención del probable interviniente.
+I. El adolescente es detenido en el momento de estar cometiendo un hecho delictivo, o
+
+II. Inmediatamente después de cometerlo es detenido, en virtud de que:
+
+a) Es sorprendido cometiendo el hecho delictivo y es perseguido material e ininterrumpidamente, o
+
+b) Cuando el adolescente sea señalado por la víctima u ofendido, algún testigo presencial de los hechos o quien hubiere intervenido con él en la comisión del hecho delictivo y cuando tenga en su poder instrumentos, objetos, productos del mismo o se cuente con información o indicios que hagan presumir fundadamente que intervino en él.
+
+Para los efectos de la fracción II, inciso b), de este precepto, se considera que el adolescente ha sido detenido en flagrancia por señalamiento, siempre y cuando, inmediatamente después de cometer el hecho delictivo no se haya interrumpido su búsqueda o localización.
 
 > <small>(ADICIONADO, P.O. 7 DE MAYO DE 2011)</small>
 
@@ -1562,6 +1568,12 @@ P.O. 7 DE MAYO DE 2011.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 18 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE NOVIEMBRE DE 2014.
 
 ###### ARTÍCULO ÚNICO.
 
