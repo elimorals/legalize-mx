@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-procedimientos-penales-para-el-estado-libre-y-7193"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-07"
-last_updated: "2014-06-06"
+last_updated: "2014-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA RO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO NÚMERO 121, PUBLICADO EN EL P.O. DE 6 DE JUNIO DE 2014, LOS PROCEDIMIENTOS PENALES INICIADOS CON ANTERIORIDAD A LA ENTRADA EN VIGOR DEL SISTEMA PROCESAL PENAL ACUSATORIO Y ORAL EN EL ESTADO, SERÁN CONCLUIDOS CONFORME A LAS DISPOSICIONES LEGALES VIGENTES CON ANTERIORIDAD A LA ENTRADA EN VIGOR DE DICHO SISTEMA EN EL DISTRITO JUDICIAL QUE CORRESPONDA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2014.
 
 > <small>N. DE E. CONTIENE LA DECLARATORIA PUBLICADA EN EL P.O. DE 6 DE JUNIO DE 2014.</small>
 
@@ -2325,6 +2325,10 @@ Si la apelación se declara admisible, se pedirá el expediente, duplicado o tes
 
 Todo inculpado tendrá derecho a ser puesto en libertad provisional bajo caución, siempre y cuando se garantice en su caso el monto estimado de la reparación de los daños y de las sanciones pecuniarias que puedan imponerse y no se trate de alguno de los delitos calificados como graves por la presente ley, respecto de los cuales se prohíbe expresamente conceder este beneficio.
 
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+Para que proceda la libertad provisional bajo caución por el delito de encubrimiento de los delitos graves cometidos en contra de personas menores de 18 años o que no tengan capacidad para comprender el significado del hecho, previsto en el artículo 232 del Código Penal para el Estado Libre y Soberano de Quintana Roo, el Juez deberá además ordenar al inculpado acudir a tratamiento psicoterapéutico en los términos que determine en el auto que conceda la libertad caucional. La falta consecutiva a tres sesiones de tratamiento psicoterapéutico, revocará de oficio la libertad bajo caución.
+
 ###### Artículo 338
 
 BIS.- (DEROGADO, P.O. 2 DE SEPTIEMBRE DE 1994)
@@ -3481,7 +3485,7 @@ Son correcciones disciplinarias o medios de apremio los siguientes:
 
 I.- Apercibimiento;
 
-> <small>(REFORMADA, [N .D E. ADICIONADA], P.O. 30 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, [N. DE E. ADICIONADA], P.O. 30 DE JUNIO DE 2008)</small>
 
 II.- Multa de hasta treinta días de salario mínimo general vigente en el Estado en la época de los hechos;
 
@@ -4436,3 +4440,9 @@ SEGUNDO. Los procedimientos penales iniciados con anterioridad a la entrada en v
 TERCERO. Remítase copia de la presente Declaratoria a los poderes públicos de la Federación, de las Entidades Federativas y del Distrito Federal, así como a los demás poderes del Estado de Quintana Roo, para su conocimiento y efectos a que haya lugar.
 
 CUARTO. Remítase copia de la presente Declaratoria a la Procuraduría General de Justicia, al Instituto de la Defensoría Pública del Estado, al Centro de Justicia Alternativa, a la Secretaría de Seguridad Pública y a los Honorables Ayuntamientos, todos del Estado de Quintana Roo, para los efectos correspondientes.
+
+P.O. 19 DE NOVIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo y su aplicación estará sujeta al Decreto 121 emitido por la XIV Legislatura.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
