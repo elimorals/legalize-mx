@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-98909"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-02-21"
-last_updated: "2014-02-21"
+last_updated: "2014-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98909&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-02-14"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE OTORGA Y REGULA LA PRESTACIÓN DEL FONDO DE RESERVA INDIVIDUALIZADO BAJO EL ESQUEMA DE FONDO DE AHORRO PARA EL PERSONAL DE NIVEL OPERATIVO DE LOS ÓRGANOS JURISDICCIONALES FEDERALES Y DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE NOVIEMBRE DE 2014.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 21 de febrero de 2014.
 
@@ -63,7 +63,7 @@ Para los efectos de este Acuerdo se entenderá por:
 
 A. Aportación Ordinaria: Son las aportaciones que realiza el servidor público al Fondo, por un porcentaje del 2%, 5% ó el 10% del monto de su sueldo básico y que se deduce a través del sistema de nómina. Así como, la cantidad de dinero que cubra el Consejo por cuenta y en nombre del servidor público por un monto igual al 2%, 5% ó el 10% por el que haya optado el servidor público de su sueldo básico;
 
-B. Aportación Adicional: Es la cantidad de dinero que únicamente será determinada y aportada por el servidor público en forma voluntaria, distinta a la aportación ordinaria y que se deduce a través del sistema de nómina, o por aportación directa;
+B. (DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 45/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)
 
 C. Baja: Separación definitiva del Poder Judicial de la Federación, independientemente de la causa que lo origine;
 
@@ -77,7 +77,9 @@ G. Fondo: Es la prestación o beneficio establecido a favor de los servidores p�
 
 H. Institución: Persona moral de carácter financiero que determine el Pleno del Consejo de la Judicatura Federal, misma que será la responsable de operar y administrar el patrimonio del Fondo;
 
-I. Patrimonio del Fondo: Es la suma de dinero que se constituye por las aportaciones ordinarias, adicionales y los rendimientos devengados por ambas aportaciones y los préstamos;
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 45/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+I. Patrimonio del Fondo: Es la suma de dinero que se constituye por las aportaciones ordinarias y los rendimientos devengados por éstas y por los préstamos;
 
 J. Pleno: El Pleno del Consejo de la Judicatura Federal;
 
@@ -95,7 +97,7 @@ El Fondo tiene como objetivo general fomentar el Ahorro de los servidores públi
 
 Con el propósito de ampliar los beneficios a los servidores públicos que se incorporen al Fondo, podrán:
 
-I. Retirar importes totales o parciales respecto de los montos de sus aportaciones adicionales y los rendimientos que estos generen, en los meses de junio y noviembre de cada ejercicio fiscal.
+I. (DEROGADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 45/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)
 
 II. Acceder a préstamos del patrimonio del Fondo conforme a lo dispuesto en el artículo 22 del presente Acuerdo.
 
@@ -107,9 +109,11 @@ I. Las aportaciones ordinarias de los servidores públicos;
 
 II. Las aportaciones ordinarias del Consejo;
 
-III. Las aportaciones adicionales;
+III. (DEROGADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 45/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)
 
-IV. Los rendimientos devengados por las aportaciones ordinarias y adicionales; y,
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 45/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+IV. Los rendimientos devengados por las aportaciones ordinarias; y,
 
 V. Los intereses que generen los préstamos.
 
@@ -127,9 +131,7 @@ Serán beneficiarios del Fondo los servidores públicos incorporados a él, así
 
 ###### Artículo 7.
 
-Los servidores públicos que estén incorporados al Fondo podrán realizar aportaciones adicionales, conforme a las especificaciones establecidas en el presente Acuerdo y en los lineamientos que para el efecto expida la Comisión.
-
-El Consejo no realizará aportaciones adicionales.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 45/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)
 
 ###### Artículo 8.
 
@@ -149,9 +151,11 @@ El patrimonio del Fondo será invertido a través de sociedades de inversión de
 
 El Comité de Inversión será el responsable de realizar las gestiones conducentes para llevar a cabo el procedimiento de selección de la Institución Financiera con la cual se formalizará la administración del Fondo de Reserva Individualizado a través del esquema de un Fondo de Ahorro, debiendo someter a la consideración del Pleno la aprobación de la contratación del servicio correspondiente y la institución que considere la mejor opción para esos efectos, para lo cual podrá solicitar el apoyo que requiera de las demás áreas del Consejo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 45/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 11.
 
-La Institución llevará una cuenta individual por cada servidor público inscrito al Fondo, en la que se refleje de manera separada las aportaciones ordinarias realizadas por el servidor público, el Consejo, así como las aportaciones adicionales, además de los rendimientos obtenidos tanto por las aportaciones ordinarias como adicionales y los préstamos otorgados con cargo al patrimonio del Fondo.
+La Institución llevará una cuenta individual por cada servidor público inscrito al Fondo, en la que se refleje de manera separada las aportaciones ordinarias realizadas por el servidor público y las del Consejo, además de los rendimientos obtenidos tanto por las aportaciones ordinarias, como por los préstamos otorgados con cargo al patrimonio del Fondo.
 
 La individualización de las cuentas se llevará a cabo desde la primera aportación de los inscritos.
 
@@ -167,23 +171,31 @@ c) En su caso, los avisos sobre las modificaciones a sus prospectos de informaci
 
 d) El plazo para el desahogo de las observaciones presentadas por los servidores públicos, sobre la información en la que éstos hayan manifestado su inconformidad;
 
-e) El monto total por separado de las aportaciones ordinarias, adicionales y préstamos; y,
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 45/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+e) El monto total por separado de las aportaciones ordinarias, así como de los préstamos; y,
 
 f) Cualquier otra información que el Consejo determine de conformidad con lo dispuesto en el artículo 10 de la Ley de Sociedades de Inversión.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 45/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 13.
 
-La Institución deberá dar acceso a los servidores públicos del servicio de Internet para consulta de estados de cuenta.
+La Institución deberá dar acceso a los servidores públicos del servicio de internet para consulta de reportes de saldos y movimientos de su cuenta individual.
 
-En los casos en que el servidor público, solicite que se le remitan los estados de cuenta en forma impresa, podrá presentar dicha petición ante la Dirección General de Servicios al Personal.
+En el supuesto de que el servidor público, solicite que se le remitan los reportes de saldos y movimientos en forma impresa, podrá presentar dicha petición ante la Dirección General de Servicios al Personal, o en su caso, ante la Coordinación de Administración Regional, a través de sus Administraciones Regionales o Delegaciones Administrativas.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 45/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 14.
 
-El Consejo enterará a la Institución las aportaciones ordinarias y adicionales que correspondan al patrimonio del Fondo, a más tardar el día hábil siguiente de realizadas las aportaciones.
+El Consejo enterará a la Institución las aportaciones ordinarias que correspondan al patrimonio del Fondo, a más tardar el día hábil siguiente de realizadas las aportaciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 45/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 15.
 
-La sociedad de inversión deberá proporcionar la información respecto al monto de los rendimientos a partir del día hábil siguiente a aquél en que hayan ingresado las aportaciones, ya sean ordinarias o adicionales, lo cual deberá acreditar conforme a los mecanismos de inversión de los recursos.
+La sociedad de inversión deberá proporcionar la información respecto al monto de los rendimientos a partir del día hábil siguiente a aquél en que hayan ingresado las aportaciones ordinarias, lo cual deberá acreditar conforme a los mecanismos de inversión de los recursos.
 
 La sociedad de inversión está obligada a generar rendimientos a partir del día de ingreso de los recursos.
 
@@ -211,9 +223,11 @@ En ambos casos, las solicitudes de pago se tramitarán ante la Dirección Genera
 
 En ningún otro caso procederá el retiro, con excepción a lo dispuesto en el artículo 21.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 45/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 20.
 
-El servidor público podrá cancelar, disminuir o incrementar sus aportaciones al Fondo por así convenir a sus intereses, previo aviso que realice a la Dirección General de Servicios al Personal dentro del periodo que señale el Consejo, en cuyo caso éste únicamente tendrá derecho al retiro de sus aportaciones adicionales, incluyendo los rendimientos que éstas hayan obtenido, en los meses señalados en el artículo 3, fracción I del presente instrumento.
+El servidor público podrá cancelar, disminuir o incrementar sus aportaciones al Fondo por así convenir a sus intereses, previo aviso que realice a la Dirección General de Servicios al Personal o en su caso, ante la Coordinación de Administración Regional, a través de sus Administraciones Regionales o Delegaciones Administrativas, dentro del periodo que señale el Consejo.
 
 La Institución, efectuará la retención de impuestos correspondientes cuando así lo prevea la legislación y normatividad vigente en la materia, debiendo informar lo anterior al Consejo.
 
@@ -254,3 +268,15 @@ No se incluirán aquellos recursos retirados con antelación ni formarán parte 
 SEXTO.- Los préstamos empezarán a operar en un plazo no mayor de 180 días a partir de la contratación de la Institución que prestará el servicio de administración del patrimonio del Fondo.
 
 EL MAGISTRADO J. GUADALUPE TAFOYA HERNÁNDEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General del Pleno del Consejo de la Judicatura Federal, por el que se otorga y regula la prestación del Fondo de Reserva Individualizado bajo el esquema de Fondo de Ahorro para el personal de nivel operativo de los Órganos Jurisdiccionales Federales y del Consejo de la Judicatura Federal, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de cuatro de julio de dos mil doce, por mayoría de seis votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Daniel Francisco Cabeza de Vaca Hernández, César Esquinca Muñoa, César Alejandro Jáuregui Robles, Jorge Moreno Collado y Manuel Ernesto Saloma Vera; en contra del voto del señor Consejero Juan Carlos Cruz Razo.- México, Distrito Federal, a catorce de febrero de dos mil catorce.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO</small>
+
+D.O.F. 19 DE NOVIEMBRE DE 2014.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+CUARTO. Se instruye a la Secretaría Ejecutiva Administración para que en coordinación con las áreas competentes, someta a la aprobación de la Comisión de Administración, los nuevos Lineamientos para la operación del Fondo de Reserva Individualizado bajo el esquema de Fondo de Ahorro para el personal de nivel operativo de los órganos jurisdiccionales federales y del Consejo de la Judicatura Federal, en razón a la nueva conformación del patrimonio del mismo; y en su oportunidad difunda su contenido a los servidores públicos del Poder Judicial de la Federación con excepción de los de la Suprema Corte de Justicia de la Nación y el Tribunal Electoral del Poder Judicial de la Federación.
