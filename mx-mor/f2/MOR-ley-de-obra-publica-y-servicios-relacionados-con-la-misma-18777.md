@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-18777
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-27"
-last_updated: "2014-06-11"
+last_updated: "2014-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de diciembre de 2000.
 
@@ -147,7 +147,9 @@ I. Secretaría: La Secretaría de Obras Públicas;
 
 II. Contraloría: El órgano de control, inspección y supervisión de la Administración Pública Estatal o Municipal;
 
-II. Dependencias: Las Secretarías de Despacho, la Procuraduría General de Justicia del Estado y los organismos auxiliares estatales o municipales;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+III. Dependencias: Las Secretarías de Despacho, la Fiscalía General del Estado de Morelos y los organismos auxiliares estatales o municipales;
 
 IV. Tratados: Los definidos como tales en el artículo segundo fracción primera de la Ley sobre la celebración de Tratados;
 
@@ -273,9 +275,11 @@ II. Los objetivos, metas y previsiones de recursos establecidos en los presupues
 
 III. Las disposiciones legales y reglamentarias del Estado o Municipios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 16.
 
-Las Dependencias, Secretaría o ayuntamientos según las características, complejidad y magnitud de los trabajos, formularán sus programas anuales de obras públicas y de servicios relacionados con las mismas, así como sus respectivos presupuestos, considerando:
+Las Dependencias, Secretaría o Ayuntamientos según las características, complejidad y magnitud de los trabajos, formularán sus Programas Anuales de Obras Públicas y de Servicios relacionados con las mismas, así como sus respectivos presupuestos, considerando:
 
 I. Los estudios de preinversión que requieran para definir la factibilidad técnica, económica, ecológica y social de los trabajos;
 
@@ -310,6 +314,10 @@ XIV. Anticipadamente a la contratación de obras públicas bajo cualquier proced
 Para tal efecto las Dependencias, Secretaría o Ayuntamientos podrán contratar los servicios de las empresas especialistas necesarias para que lleven a cabo la verificación de los proyectos y los programas previstos de construcción, en cuanto a su calidad, avance, interrelación, existencia y cumplimiento de especificaciones, normas ecológicas, solución a interferencias con servicios públicos, previsión de obras inducidas, aspectos geológicos y demás características del terreno y en general todo lo relativo a garantizar la ejecutabilidad de las obras con los mínimos riesgos de modificaciones y situaciones imprevistas.
 
 XV. Las demás previsiones y características de los trabajos.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+Será obligación de las Dependencias, Secretaría o Ayuntamientos, según sea el caso, vigilar el cumplimiento de lo dispuesto por la fracción IX del presente artículo, prioritariamente en aquellas construcciones de inmuebles que sean destinados a Instituciones Educativas.
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -369,7 +377,7 @@ En los procedimientos de contratación de obras públicas y de servicios relacio
 
 Las Dependencias, Secretaría o Ayuntamientos que realicen obras públicas y servicios relacionados con las mismas, en su caso, sea por contrato o por administración directa, así como los contratistas con quienes aquellas contraten, observarán las disposiciones que en materia de construcción rijan en el ámbito, Estatal y Municipal.
 
-Las Dependencias, Secretaría o Ayuntamientos, cuando sea el caso, previamente a la realización de los trabajos, deberán tramitar y obtener de las autoridades competentes los dictámenes, permisos, licencias, derecho de vía, expropiación de inmuebles, derechos de bancos materiales y demás autorizaciones que se requieran. Las autoridades competentes deberán otorgar las facilidades necesarias para la ejecución de las obras públicas y servicios relacionados con la (sic) misma (sic).
+Las Dependencias, Secretaría o Ayuntamientos, cuando sea el caso, previamente a la realización de los trabajos, deberán tramitar y obtener de las autoridades competentes los dictámenes, permisos, licencias, derecho de vía, expropiación de inmuebles, derechos de bancos materiales y demás autorizaciones que se requieran. Las autoridades competentes deberán otorgar las facilidades necesarias para la ejecución de las obras públicas y servicios relacionados con la misma.
 
 ## TITULO TERCERO. De los Procedimientos de adjudicación de los contratos
 
@@ -765,11 +773,11 @@ A los que hayan sido rechazados se les notificará por escrito y se les devolver
 
 III. En las fechas y horas acordadas por la convocante, cada uno de los oferentes aceptados entregará en segundo sobre su Propuesta Técnica y hará una presentación, ante el comité especializado designado por aquélla, de la forma en que se han interpretado los requerimientos de la dependencia o ayuntamiento, sus enfoques de solución y la metodología y tecnología que propone, y
 
-IV. Con base en la documentación aportada por los oferentes y el contenido y calidad de su (sic) presentaciones, las Dependencias, Secretaría o Ayuntamientos, elaborarán un dictamen en el que enlistarán los preseleccionados en orden decreciente de preferencia, que podrán pasar a la siguiente etapa de la licitación;
+IV. Con base en la documentación aportada por los oferentes y el contenido y calidad de su presentaciones, las Dependencias, Secretaría o Ayuntamientos, elaborarán un dictamen en el que enlistarán los preseleccionados en orden decreciente de preferencia, que podrán pasar a la siguiente etapa de la licitación;
 
 B) La evaluación de la competencia e idoneidad de los oferentes se hará con base en:
 
-I. La solidez y reputación de oferentes, medidas por la cantidad y calidad de su infraestructura de trabajo; la magnitud y característica (sic) de los trabajos previamente ejecutados de naturaleza similar y las referencias obtenidas de clientes anteriores;
+I. La solidez y reputación de oferentes, medidas por la cantidad y calidad de su infraestructura de trabajo; la magnitud y característica de los trabajos previamente ejecutados de naturaleza similar y las referencias obtenidas de clientes anteriores;
 
 II. La competencia técnica del oferente, medida por la preparación, experiencia e idoneidad del personal clave propuesto para la prestación de los servicios; y
 
@@ -827,7 +835,7 @@ Si el interesado no firmare el contrato por causas imputables a él mismo, dentr
 
 Si las Dependencias, Secretaría o Ayuntamientos no firmaren el contrato respectivo, dentro del plazo establecido, el oferente ganador, sin incurrir en responsabilidad podrá determinar no ejecutar la obra. En este supuesto, las Dependencias, Secretaría o Ayuntamientos cubrirán los gastos no recuperables en que hubiere incurrido el contratista para preparar y elaborar su propuesta, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen con la licitación de que se trate.
 
-La obra adjudicada al contratista, no podrán (sic) ejecutarse por otro, sin embargo con la autorización previa de las Dependencias, Secretaría o Ayuntamientos en su caso, podrá hacerlo respecto de partes de la obra o cuando adquiera materiales o equipos que incluyan su instalación en la obra. Esta autorización previa no se requerirá cuando las Dependencias, Secretaría o Ayuntamientos señalen específicamente en las bases de la licitación, las partes de la obra que podrán ser objeto de subcontratación. En todo caso, el contratista seguirá siendo el único responsable de la ejecución de la obra ante las Dependencias, Secretaría o Ayuntamientos.
+La obra adjudicada al contratista, no podrán ejecutarse por otro, sin embargo con la autorización previa de las Dependencias, Secretaría o Ayuntamientos en su caso, podrá hacerlo respecto de partes de la obra o cuando adquiera materiales o equipos que incluyan su instalación en la obra. Esta autorización previa no se requerirá cuando las Dependencias, Secretaría o Ayuntamientos señalen específicamente en las bases de la licitación, las partes de la obra que podrán ser objeto de subcontratación. En todo caso, el contratista seguirá siendo el único responsable de la ejecución de la obra ante las Dependencias, Secretaría o Ayuntamientos.
 
 Las empresas con quienes se contrate la realización de obras públicas, podrán presentar conjuntamente proposiciones en las correspondientes licitaciones, sin necesidad de constituir una nueva sociedad, siempre que, para tales efectos, al celebrar el contrato respectivo, se establezcan con precisión a satisfacción de las Dependencias, Secretaría o Ayuntamientos, las partes de la obra que cada empresa se obligará a ejecutar, así como la manera en que, en su caso, se exigiría el cumplimiento de las obligaciones.
 
@@ -855,7 +863,7 @@ VIII. Penas convencionales por atraso en la ejecución de los trabajos por causa
 
 IX. Forma en que el contratista, en su caso, reintegrará las cantidades que en cualquier forma, hubiere recibido en exceso para la contratación o durante la ejecución de los trabajos, para lo cual se utilizará el procedimiento establecido en el segundo párrafo del artículo 56 de esta Ley;
 
-X. Procedimiento de ajuste de costos que deberán (sic) ser determinado desde las bases de la licitación por las Dependencias, Secretaría o Ayuntamientos, el cual deberá regir desde la fecha de apertura de proposiciones técnicas;
+X. Procedimiento de ajuste de costos que deberán ser determinado desde las bases de la licitación por las Dependencias, Secretaría o Ayuntamientos, el cual deberá regir desde la fecha de apertura de proposiciones técnicas;
 
 XI. La descripción pormenorizada de los trabajos que deban ejecutar, debiendo acompañar como parte integrante del contrato, en el caso de las obras, los proyectos, planos, especificaciones, programas y presupuestos, tratándose de servicios, los términos de referencia;
 
@@ -1009,7 +1017,7 @@ Las Dependencias, Secretaría o Ayuntamientos podrán, dentro de su presupuesto 
 
 Si las modificaciones exceden el porcentaje indicado o varían substancialmente el proyecto, deberán celebrar convenios adicionales por una sola vez entre las partes respecto de las nuevas condiciones, en los términos del artículo 25 de esta Ley. Estos convenios deberán ser autorizados bajo la responsabilidad del titular de las Dependencias, Secretaría o Ayuntamientos en su caso, que hayan contratado los trabajos. Dichas modificaciones no podrán, en modo alguno, afectar las condiciones que se refieran a la naturaleza y características esenciales del objeto del contrato original, ni convenirse para eludir en cualquier forma el cumplimiento de esta Ley o de los tratados.
 
-De las autorizaciones a que se refiere el párrafo anterior, el titular del área responsable de la contratación de los trabajos informará al órgano interno de control en las Dependencias, Secretaría o Ayuntamientos que (sic) se trate. Al efecto, a más tardar el último día hábil de cada mes, deberá presentarse un informe que se referirá a las autorizaciones otorgadas en el mes calendario inmediato anterior.
+De las autorizaciones a que se refiere el párrafo anterior, el titular del área responsable de la contratación de los trabajos informará al órgano interno de control en las Dependencias, Secretaría o Ayuntamientos que se trate. Al efecto, a más tardar el último día hábil de cada mes, deberá presentarse un informe que se referirá a las autorizaciones otorgadas en el mes calendario inmediato anterior.
 
 Tratándose de cantidades adicionales de trabajos no previstos, estas se pagaran a los previos unitarios pactados originalmente; tratándose de los conceptos no previstos en el catálogo de conceptos del contrato, sus precios unitarios deberán ser conciliados y autorizados previamente a su ejecución, que realizados estos se procederá a su pago.
 
@@ -1033,7 +1041,7 @@ En la suspensión, rescisión administrativa o terminación anticipada de los co
 
 I. Cuando se determine la suspensión de la obra o se rescinda el contrato por causas imputables de las Dependencias, Secretaría o Ayuntamientos, éstos pagarán los trabajos ejecutados, así como los gastos no recuperables, siempre que sean razonables, estén debidamente comprobados y se relacionen directamente con el contrato de que se trate;
 
-II. En caso de rescisión el (sic) contrato por causas imputables al contratista, las Dependencias, Secretaría o Ayuntamientos en su caso, procederán a hacer efectivas las garantías, en la parte proporcional de los trabajos pendientes por ejecutar, y precautoriamente desde su inicio se abstendrá de cubrir los importes resultantes de trabajos ejecutados aún no liquidados, hasta que se otorgue el finiquito correspondiente, lo que deberá efectuarse dentro de los treinta días naturales siguientes a la fecha de notificación de la rescisión. En dicho finiquito deberá preverse el sobrecosto de los trabajos aún no ejecutados que se encuentren atrasados conforme al programa vigente, así como lo relativo a la recuperación de los materiales y equipos que, en su caso, le hayan sido entregados;
+II. En caso de rescisión el contrato por causas imputables al contratista, las Dependencias, Secretaría o Ayuntamientos en su caso, procederán a hacer efectivas las garantías, en la parte proporcional de los trabajos pendientes por ejecutar, y precautoriamente desde su inicio se abstendrá de cubrir los importes resultantes de trabajos ejecutados aún no liquidados, hasta que se otorgue el finiquito correspondiente, lo que deberá efectuarse dentro de los treinta días naturales siguientes a la fecha de notificación de la rescisión. En dicho finiquito deberá preverse el sobrecosto de los trabajos aún no ejecutados que se encuentren atrasados conforme al programa vigente, así como lo relativo a la recuperación de los materiales y equipos que, en su caso, le hayan sido entregados;
 
 III. Cuando se den por terminados anticipadamente los contratos, las Dependencias, Secretaría o Ayuntamientos, en su caso pagarán al contratista los trabajos ejecutados, así como los gastos no recuperables, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con el contrato de que se trate;
 
@@ -1055,21 +1063,23 @@ En el caso de existir desacuerdo entre las partes respecto al finiquito, o bien,
 
 Determinado el saldo total, las Dependencias, Secretaría o Ayuntamientos en su caso, pondrán a su disposición del contratista el pago correspondiente, mediante su ofrecimiento o la consignación respectiva, o bien, solicitará el reintegro de los importes resultantes, debiendo en forma simultánea, levantar el acta administrativa que dé por extinguidos los derechos y obligaciones asumidos por ambas partes en el contrato.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 66.
 
-Concluidos los trabajos, no obstante su recepción formal, el contratista quedará obligado por un año a responder de los defectos que resultaren en la misma, de los vicios ocultos, y de cualquier otra responsabilidad en que hubiere incurrido, en los términos señalados en el contrato respectivo y en el Código Civil para el Estado Libre y Soberano de Morelos.
+Concluidos los trabajos, no obstante su recepción formal, el contratista quedará obligado por uno y hasta dos años dependiendo de la naturaleza y características de la obra a responder de los defectos que resultaren en la misma, de los vicios ocultos, y de cualquier otra responsabilidad en que hubiere incurrido, en los términos señalados en el contrato respectivo y en el Código Civil para el Estado Libre y Soberano de Morelos.
 
-Para garantizar durante un plazo de doce meses el cumplimiento de las obligaciones a que se refiere el párrafo anterior, previamente a la recepción de los trabajos, los contratistas, a su elección, deberán constituir fianza por el equivalente al diez por ciento del monto total ejercido de los trabajos; presentar una carta de crédito irrevocable por el equivalente al cinco por ciento del monto total ejercido de la obra, o bien, aportar recursos líquidos por una cantidad equivalente al cinco por ciento del mismo monto en fideicomisos especialmente constituidos para ello.
+Para garantizar el cumplimiento de las obligaciones durante el plazo a que se refiere el párrafo anterior, previamente a la recepción de los trabajos, los contratistas, a su elección, deberán constituir fianza por el equivalente al diez por ciento del monto total ejercido de los trabajos; presentar una carta de crédito irrevocable por el equivalente al cinco por ciento del monto total ejercido de la obra, o bien, aportar recursos líquidos por una cantidad equivalente al cinco por ciento del mismo monto en fideicomisos especialmente constituidos para ello.
 
 Los recursos aportados en fideicomisos deberán invertirse en instrumentos de renta fija.
 
-Los contratistas, en su caso, podrán retirar sus aportaciones en fideicomiso y los respectivos rendimientos, transcurridos doce meses a partir de la fecha de recepción de los trabajos. En igual plazo quedará automáticamente cancelada la fianza o carta de crédito irrevocable, según sea el caso.
+Los contratistas, en su caso, podrán retirar sus aportaciones en fideicomiso y los respectivos rendimientos, transcurrido el plazo que se hubiere fijado para la garantía, en términos del primer párrafo de este artículo, a partir de la fecha de recepción de los trabajos. En igual plazo quedará automáticamente cancelada la fianza o carta de crédito irrevocable, según sea el caso.
 
-Quedarán a salvo los derechos de las Dependencias, Secretaría o Ayuntamientos para exigir el pago de las cantidades no cubiertas de la indemnización que a su juicio corresponda, una vez que se hagan efectivas las garantías constituidas conforme a este artículo.
+Quedan a salvo los derechos de las Dependencias, Secretaría o Ayuntamientos para exigir el pago de las cantidades no cubiertas de la indemnización que a su juicio corresponda, una vez que se hagan efectivas las garantías constituidas conforme a este artículo.
 
 ###### ARTÍCULO 67.
 
-El contratista será el único responsable de la ejecución de los trabajos y deberá sujetarse a todos los ordenamientos en materia de construcción, seguridad y uso de la vía pública, protección ecológica y medio ambiente, que rijan en el ámbito Federal, Estatal y Municipal, así como a las Instituciones que al efecto le señale (sic) las Dependencias, Secretaría o Ayuntamientos contratantes. Las responsabilidades, y los daños que resultaren por su inobservancia, serán a cargo del contratista.
+El contratista será el único responsable de la ejecución de los trabajos y deberá sujetarse a todos los ordenamientos en materia de construcción, seguridad y uso de la vía pública, protección ecológica y medio ambiente, que rijan en el ámbito Federal, Estatal y Municipal, así como a las Instituciones que al efecto le señale las Dependencias, Secretaría o Ayuntamientos contratantes. Las responsabilidades, y los daños que resultaren por su inobservancia, serán a cargo del contratista.
 
 ## TITULO QUINTO. De la Administración Directa
 
@@ -1201,7 +1211,7 @@ Transcurrido el plazo establecido en este artículo, precluye para los interesad
 
 La Contraloría, de oficio o en atención a las inconformidades a que se refiere el artículo 81 de esta Ley, realizará las investigaciones correspondientes dentro de un plazo que no excederá de 45 días naturales contados a partir de la fecha en que se inicien, y resolverá lo conducente.
 
-Las Dependencias, Secretaría o Ayuntamientos proporcionarán a la Contraloría la información requerida para sus investigaciones, dentro de los ocho días naturales siguientes contados a partir de la recepción de la respectiva solicitud. Durante la investigación de los hechos a que se refiere el párrafo anterior, podrán (sic) suspenderse el proceso de adjudicación cuando:
+Las Dependencias, Secretaría o Ayuntamientos proporcionarán a la Contraloría la información requerida para sus investigaciones, dentro de los ocho días naturales siguientes contados a partir de la recepción de la respectiva solicitud. Durante la investigación de los hechos a que se refiere el párrafo anterior, podrán suspenderse el proceso de adjudicación cuando:
 
 I. Se advierta que existan o puedan existir actos contrarios a las disposiciones de esta Ley o de las disposiciones que de ella deriven, y
 
@@ -1313,7 +1323,7 @@ Primero.- La presente reforma entrará en vigor al día siguiente de su publicac
 
 Segundo.- Se le otorga 90 días para que el ejecutivo del Estado actualice el Reglamento de la Obra Pública y Servicios relacionada con la misma del Estado de Morelos, en relación a las modificaciones realizadas.
 
-Tercer (sic).- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+Tercer.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 Cuarto.- Se derogan todas las disposiciones legales y administrativas que se opongan al presente decreto. Lo que hago de su conocimiento para los efectos legales y administrativos.
 
@@ -1326,3 +1336,35 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 19 DE NOVIEMBRE DE 2014.
+
+DECRETO NÚMERO MIL SEISCIENTOS SETENTA Y CINCO POR LO QUE SE MODIFICA EL ARTÍCULO 66, DE LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE MORELOS.
+
+Primero.- Túrnese el presente decreto al Titular del Ejecutivo del Estado de Morelos, para los efectos a que se requiere el artículo 44, 47 y 70, fracción XVII inciso a) de la Constitución Política del Estado de Morelos.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+Tercero.- Se derogan todas aquellas disposiciones de igual o menor rango que se opongan al contenido del presente Decreto.
+
+P.O. 19 DE NOVIEMBRE DE 2014.
+
+DECRETO NÚMERO MIL SEISCIENTOS SETENTA Y SEIS POR LO QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 2 DE LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE MORELOS.
+
+Primero.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refiere el artículo 44 y 70 fracción XVII inciso a) de la Constitución Política del Estado de Morelos.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+Tercero.- Se derogan aquellas disposiciones de igual o menor rango que se opongan al contenido del presente Decreto.
+
+P.O. 19 DE NOVIEMBRE DE 2014.
+
+DECRETO NÚMERO MIL SETECIENTOS SESENTA Y UNO POR LO QUE SE ADICIONA UN SEGUNDO PÁRRAFO, AL ARTÍCULO 16, DE LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE MORELOS.
+
+PRIMERO. Una vez aprobado el presente Decreto, remítase al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERO. Las Instituciones Educativas que no cuenten con la infraestructura adecuada para el acceso y despliegue de las personas con discapacidad, contarán con un plazo de noventa días posteriores a la entrada en vigor del presente Decreto. Aquellas que no cumplan con esta disposición, se harán acreedoras a las sanciones previstas en la Ley.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
