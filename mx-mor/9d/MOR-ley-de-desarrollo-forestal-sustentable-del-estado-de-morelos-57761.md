@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-forestal-sustentable-del-estado-de-morelos-57
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-05"
-last_updated: "2014-03-26"
+last_updated: "2014-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57761&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 5 de diciembre de 2007.
 
@@ -263,9 +263,13 @@ XXVII. Las demás que establezca la presente ley y otras disposiciones aplicable
 
 Serán miembros del Consejo Forestal del Estado de Morelos y tendrán derecho a voz y voto los siguientes:
 
-I. El Presidente, quien será el titular de la Comisión, quien podrá designar a su suplente;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
-II. Un representante del Poder Legislativo del Estado Libre y Soberano de Morelos, recayendo dicha representación en el Diputado (a) Presidente de la Comisión de Medio Ambiente y Recursos Naturales, quien podrá designar a su suplente;
+I. El Presidente, quien será el titular de la Secretaría, quien podrá designar a su suplente;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+II. Un representante del Poder Legislativo del Estado Libre y Soberano de Morelos, recayendo dicha representación en el Diputado Presidente de la Comisión de Medio Ambiente, quien podrá designar a su suplente;
 
 III. Un Secretario Técnico, a cargo del representante de la CONAFOR en el Estado de Morelos, quien podrá designar a su suplente;
 
@@ -445,7 +449,9 @@ Para la aplicación de las disposiciones de la presente Ley se consideran autori
 
 I. El Gobernador del Estado;
 
-II. La Comisión;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+II. La Secretaría;
 
 III. La Secretaría de Gobierno;
 
@@ -455,7 +461,9 @@ IV. La Comisión Estatal de Seguridad Pública;
 
 V. La Secretaría de Desarrollo Agropecuario;
 
-VI. La Secretaría de Desarrollo Urbano y Obras Públicas;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+VI. La Secretaría de Obras Públicas;
 
 VII. La Secretaria de Turismo;
 
@@ -479,9 +487,11 @@ IV. Ordenar la elaboración de estudios, planes y programas para prevenir sinies
 
 V. Las demás que le confiera la presente ley y otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 26.
 
-Corresponden a la Comisión las atribuciones siguientes, sin perjuicio de lo dispuesto por el artículo 13 de la Ley General:
+Corresponden a la Secretaría las atribuciones siguientes, sin perjuicio de lo dispuesto por el artículo 13 de la Ley General:
 
 I. Implementar a los planes y programas forestales que sean aprobados para la prevención, combate y restauración de calamidades en dicha materia;
 
@@ -605,9 +615,9 @@ VII. Otorgar, negar o condicionar las autorizaciones, licencias y constancias de
 
 VIII. Expedir autorizaciones sobre licencias de construcción, de conformidad con las disposiciones contenidas en los programas de desarrollo urbano y forestal, el Programa de Ordenamiento Ecológico Territorial, los Programas de Manejo de las Áreas Naturales Protegidas de Conservación y demás disposiciones normativas;
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
-IX. Expedir las autorizaciones de licencias o permisos de uso del suelo, fusiones, divisiones, modificaciones, fraccionamiento de terrenos, régimen en condominio y conjuntos urbanos, de conformidad con las disposiciones contenidas en los Programas de Desarrollo Forestal, el Programa de Ordenamiento Ecológico Territorial, los Programas de Manejo de las Áreas Naturales Protegidas de Conservación y demás disposiciones normativas informando a la Secretaría de Obras Públicas y a la Comisión en su carácter de dependencias normativas;
+IX. Expedir las autorizaciones de licencias o permisos de uso del suelo, fusiones, divisiones, modificaciones, fraccionamiento de terrenos, régimen en condominio y conjuntos urbanos, de conformidad con las disposiciones contenidas en los programas de desarrollo forestal, el Programa de Ordenamiento Ecológico Territorial, los Programas de Manejo de las Áreas Naturales Protegidas de Conservación y demás disposiciones normativas informando a la Secretaría de Obras Públicas y a la Secretaría en su carácter de dependencias normativas;
 
 X. En los términos de la presente Ley y demás normas aplicables, para efectos de la fracción anterior, el Municipio deberá convenir con el Gobierno del Estado los mecanismos a través de los cuales se expedirán dichas autorizaciones o licencias;
 
@@ -663,7 +673,9 @@ III. Las prioridades de la Entidad enmarcadas en los Programas Estatales y Munic
 
 Dichos programas indicarán los objetivos, estrategias y líneas de acción prioritarias, tomando en cuenta los criterios e instrumentos de la política nacional forestal y deberán ser congruentes con los programas nacionales y el Plan Estatal de Desarrollo.
 
-El programa estratégico de largo plazo deberá ser elaborado por la Comisión y será revisado, y en su caso actualizado, cada seis años.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+El programa estratégico de largo plazo deberá ser elaborado por la Secretaría y será revisado, y en su caso actualizado, cada seis años.
 
 El programa estatal quedará integrado por los programas regionales, atendiendo a su geografía y la situación que guarden los ecosistemas forestales y los suelos.
 
@@ -677,9 +689,13 @@ El Ejecutivo Estatal y los Municipios incorporarán, en los informes anuales que
 
 El Sistema tendrá por objeto registrar, integrar, organizar, actualizar y difundir la información relacionada con la materia forestal a cualquier persona que lo solicite, en los términos previstos en esta Ley; además, servirá como base estratégica para la planeación y evaluación del desarrollo forestal sustentable.
 
-La Comisión, en coordinación con el Consejo, integrará el Sistema con el carácter público y para su operación se deberá tomar en cuenta las normas, procedimientos y metodologías que se siguieron para la integración del Sistema Nacional de Información Forestal, a fin de hacerlo compatible con éste.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
-La autoridad municipal proporcionará a la Comisión, en los términos que prevea el Reglamento de esta ley, la información que recabe en el cumplimiento de sus atribuciones, para que sea integrada al Sistema.
+La Secretaría, en coordinación con el Consejo, integrará el Sistema con el carácter público y para su operación se deberá tomar en cuenta las normas, procedimientos y metodologías que se siguieron para la integración del Sistema Nacional de Información Forestal, a fin de hacerlo compatible con éste.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+La autoridad municipal proporcionará a la Secretaría, en los términos que prevea el Reglamento de esta Ley, la información que recabe en el cumplimiento de sus atribuciones, para que sea integrada al Sistema.
 
 ###### ARTÍCULO 37.
 
@@ -737,7 +753,9 @@ VIII. Área de recarga de acuíferos, y
 
 IX. Aquellas otras contenida (sic) en los inventarios municipales.
 
-La Comisión, con la participación de los municipios y, en su caso, con los demás integrantes del sector, actualizará cada cinco años los datos que integran el Inventario.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+La Secretaría, con la participación de los municipios y, en su caso, con los demás integrantes del sector, actualizará cada cinco años los datos que integran el Inventario.
 
 ###### ARTÍCULO 39.
 
@@ -769,9 +787,11 @@ V. La prioridad de la política forestal en la Entidad, en relación a las otras
 
 #### Sección 4. Registro Estatal Forestal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 41.
 
-La Comisión establecerá, integrará, organizará y mantendrá actualizado el Registro Estatal Forestal, que tiene por objeto dar publicidad a los actos jurídicos regulados por esta materia que conforme a la Ley, deban surtir efectos contra terceros, sin perjuicio de que deban inscribirse en el Registro Público de la Propiedad y el Comercio u otros registros, cuando otras leyes así lo establezcan.
+La Secretaría establecerá, integrará, organizará y mantendrá actualizado el Registro Estatal Forestal, que tiene por objeto dar publicidad a los actos jurídicos regulados por esta materia que conforme a la Ley, deban surtir efectos contra terceros, sin perjuicio de que deban inscribirse en el Instituto de Servicios Registrales y Catastrales del Estado de Morelos u otros registros, cuando otras leyes así lo establezcan.
 
 El registro tendrá carácter público, por lo que los encargados del mismo tienen la obligación de permitir a las personas que lo soliciten, que se enteren de los asientos que obren en el Registro y de los documentos relacionados con las inscripciones que se hubieren archivado, así como expedir copias certificadas de las inscripciones o constancias que figuren en el propio Registro y de los documentos relativos, así como certificaciones de existir o no asientos correspondientes a los bienes que se señalen, sin más requisito que su identificación.
 
@@ -819,17 +839,23 @@ El Registro tendrá un plazo de treinta días hábiles para resolver respecto a 
 
 Los certificados de inscripción que otorgue el Registro, sólo podrán ser transferidos a terceras personas, previa autorización de éste, siempre que el adquirente asuma las obligaciones del cedente y cumpla con los requisitos de las disposiciones aplicables.
 
-Los centros de almacenamiento y/o transformación de materias primas forestales que no cuenten con su inscripción en el Registro, no podrán instalarse, ni funcionar y su propietario o representante legal será sujeto a la sanción administrativa que la Comisión le imponga, de conformidad con esta Ley o sus disposiciones reglamentarias y demás legislación aplicable.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+Los centros de almacenamiento y/o transformación de materias primas forestales que no cuenten con su inscripción en el Registro, no podrán instalarse, ni funcionar y su propietario o representante legal será sujeto a la sanción administrativa que la Secretaría le imponga, de conformidad con esta Ley o sus disposiciones reglamentarias y demás legislación aplicable.
 
 #### Sección 5.. Sistema Estatal de Gestión Forestal
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 45.
 
-La Comisión integrará el Sistema Estatal de Gestión Forestal, partiendo de los programas de manejo inscritos en el Registro, con el objeto de llevar el control, la evaluación y el seguimiento de los programas de manejo forestal, forestación y otras actividades silvícolas que se lleven a cabo en el Estado, así como de aquellas referentes al análisis de la situación de los ecosistemas forestales en el ámbito Estatal.
+La Secretaría integrará el Sistema Estatal de Gestión Forestal, partiendo de los programas de manejo inscritos en el Registro, con el objeto de llevar el control, la evaluación y el seguimiento de los programas de manejo forestal, forestación y otras actividades silvícolas que se lleven a cabo en el Estado, así como de aquellas referentes al análisis de la situación de los ecosistemas forestales en el ámbito Estatal.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 46.
 
-Con base en el Sistema, la Comisión deberá elaborar, publicar y difundir un informe anual sobre la situación del sector forestal, así como las medidas que se adoptarán para revertir los procesos de degradación de los recursos forestales, rezagos y avances de los componentes ambientales, sociales y económicos, con la información que para tal efecto proporcionen la CONAFOR y otras dependencias o entidades.
+Con base en el Sistema, la Secretaría deberá elaborar, publicar y difundir un informe anual sobre la situación del sector forestal, así como las medidas que se adoptarán para revertir los procesos de degradación de los recursos forestales, rezagos y avances de los componentes ambientales, sociales y económicos, con la información que para tal efecto proporcionen la CONAFOR y otras dependencias o entidades.
 
 #### Sección 6. Ventanilla Única
 
@@ -843,9 +869,11 @@ Los Gobiernos Estatal y Municipal impulsarán y promoverán en el ámbito de su 
 
 Autorizaciones para el Aprovechamiento Sustentable de los Recursos Forestales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 48.
 
-Previo el convenio de coordinación respectivo que se celebre en el marco de la Coordinación Institucional previsto en los artículos 24, fracción IX y 58 de la Ley General, corresponderá a la Comisión otorgar las siguientes autorizaciones:
+Previo el convenio de coordinación respectivo que se celebre en el marco de la Coordinación Institucional previsto en los artículos 24, fracción IX y 58 de la Ley General, corresponderá a la Secretaría otorgar las siguientes autorizaciones:
 
 I. Cambio de uso de suelo en terrenos de uso forestal;
 
@@ -861,9 +889,11 @@ VI. Aplicación del tratamiento o manejo fitosanitario forestal.
 
 Respecto a la fracción primera será necesario recabar la opinión favorable del o los ayuntamientos que correspondan el suelo forestal, previo al otorgamiento de la autorización respectiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 49.
 
-Además de lo previsto en el artículo anterior, la Comisión podrá otorgar las siguientes autorizaciones o recibir los avisos correspondientes, según se determine en la presente ley o en los convenios, siempre que no contravengan otras disposiciones:
+Además de lo previsto en el artículo anterior, la Secretaría podrá otorgar las siguientes autorizaciones o recibir los avisos correspondientes, según se determine en la presente Ley o en los convenios, siempre que no contravengan otras disposiciones:
 
 I. Aprovechamiento de los recursos maderables en terrenos agropecuarios y urbanos;
 
@@ -893,29 +923,39 @@ Para asegurar la interpretación correcta y buen desarrollo del aprovechamiento 
 
 #### Sección 1. Aprovechamiento de los Recursos Forestales Maderables
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 51.
 
-El Estado de Morelos, a través de la Comisión y en su caso, de sus municipios, en el marco institucional previsto en el artículo 24 de la ley General, podrá asumir las facultades relativas al aprovechamiento de los recursos forestales maderables.
+El Estado de Morelos, a través de la Secretaría y en su caso, de sus municipios, en el marco institucional previsto en el artículo 24 de la Ley General, podrá asumir las facultades relativas al aprovechamiento de los recursos forestales maderables.
 
-La Comisión, en su caso, deberá solicitar al Consejo opiniones técnicas respecto de las solicitudes de autorización de aprovechamiento de recursos forestales maderables, previamente a que sean resueltas.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+La Secretaría, en su caso, deberá solicitar al Consejo opiniones técnicas respecto de las solicitudes de autorización de aprovechamiento de recursos forestales maderables, previamente a que sean resueltas.
 
 El Consejo contará con diez días hábiles para emitir su opinión. Transcurrido dicho término, se entenderá que no hay objeción alguna para expedir la autorización.
 
 #### Sección 2. Plantaciones Comerciales Forestales
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 52.
 
-El Gobierno del Estado de Morelos, a través de la Comisión y en su caso, de los municipios, en el marco institucional previsto en el artículo 24 de la Ley General, podrá asumir las facultades relativas al establecimiento de plantaciones forestales comerciales.
+El Gobierno del Estado de Morelos, a través de la Secretaría y en su caso, de los municipios, en el marco institucional previsto en el artículo 24 de la Ley General, podrá asumir las facultades relativas al establecimiento de plantaciones forestales comerciales.
 
 #### Sección 3. Aprovechamiento de Recursos Forestales no Maderables
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 53.
 
-El Gobierno del Estado de Morelos, a través de la Comisión y en su caso, de los Gobiernos de los Municipios, en el marco institucional previsto en el artículo 24 de la ley General, podrá asumir las facultades relativas al aprovechamiento de los recursos forestales no maderables.
+El Gobierno del Estado de Morelos, a través de la Secretaría y en su caso, de los Gobiernos de los Municipios, en el marco institucional previsto en el artículo 24 de la Ley General, podrá asumir las facultades relativas al aprovechamiento de los recursos forestales no maderables.
 
 El aprovechamiento de recursos no maderables únicamente requerirá de un aviso por escrito a la autoridad estatal o municipal competente. Las Normas Oficiales Mexicanas y el Reglamento de la Ley General establecerán los requisitos y casos en que se requerirá autorización o presentación de programas de manejo simplificado.
 
-Cuando en un mismo terreno se pretenda realizar aprovechamientos comerciales de recursos forestales maderables y no maderables, los interesados podrán optar por solicitar las autorizaciones correspondientes en forma conjunta o separada ante la Comisión. Los dos tipos de aprovechamiento deberán integrarse en forma compatible.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+Cuando en un mismo terreno se pretenda realizar aprovechamientos comerciales de recursos forestales maderables y no maderables, los interesados podrán optar por solicitar las autorizaciones correspondientes en forma conjunta o separada ante la Secretaría. Los dos tipos de aprovechamiento deberán integrarse en forma compatible.
 
 Cuando se requiera programa de manejo simplificado y sea elaborado por un responsable técnico, éste será garante solidario con el titular del aprovechamiento, en caso de otorgarse la autorización.
 
@@ -945,7 +985,9 @@ c) Tener experiencia mínima de tres años en el ejercicio profesional en materi
 
 II. Para personas morales:
 
-a) Contar con acta constitutiva protocolizada ante fedatario público e inscrita en el Registro Público de la Propiedad y del Comercio;
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+a) Contar con acta constitutiva protocolizada ante fedatario público e inscrita en el Instituto de Servicios Registrales y Catastrales del Estado de Morelos;
 
 b) Tener como objeto social la prestación de servicios técnicos forestales;
 
@@ -957,9 +999,11 @@ d) Contar con el personal profesional que reúna los requisitos establecidos en 
 
 Los servicios técnicos forestales podrán ser contratados libremente, los programas de manejo forestal deberán ser elaborados y dirigidos en su ejecución técnica por personas físicas o morales que cumplan con los requisitos establecidos en la fracción I de este artículo.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 57.
 
-El prestador del servicio técnico forestal dentro de los quince días hábiles posteriores al término de la anualidad, deberá presentar a la Comisión un informe final sobre los trabajos realizados y los resultados obtenidos en la ejecución del aprovechamiento autorizado.
+El prestador del servicio técnico forestal dentro de los quince días hábiles posteriores al término de la anualidad, deberá presentar a la Secretaría un informe final sobre los trabajos realizados y los resultados obtenidos en la ejecución del aprovechamiento autorizado.
 
 ###### ARTÍCULO 58.
 
@@ -969,37 +1013,49 @@ El prestador de servicios técnicos es responsable de la información contenida 
 
 En un plazo de treinta días hábiles contados a partir de la solicitud, la Comisión expedirá el certificado de inscripción al Registro o bien, se emitirá la resolución respectiva, que se hará del conocimiento de las autoridades, para los efectos procedentes.
 
-La Comisión, en coordinación con las autoridades competentes, promoverá la organización, planeación y mejoramiento de los servicios técnicos, mediante la promoción de unidades de manejo forestal, acordes a la regionalización forestal, para manejo integrado de recursos naturales en cuencas, subcuencas y micro cuencas hidrológico-forestales.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
-Los prestadores de servicios técnicos están obligados a rendir informe semestral a la Comisión sobre el inicio, avance o término de los programas de manejo y proyectos bajo su responsabilidad.
+La Secretaría, en coordinación con las autoridades competentes, promoverá la organización, planeación y mejoramiento de los servicios técnicos, mediante la promoción de unidades de manejo forestal, acordes a la regionalización forestal, para manejo integrado de recursos naturales en cuencas, subcuencas y micro cuencas hidrológico-forestales.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+Los prestadores de servicios técnicos están obligados a rendir informe semestral a la Secretaría sobre el inicio, avance o término de los programas de manejo y proyectos bajo su responsabilidad.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 60.
 
-La Comisión en coordinación con la CONAFOR, promoverá el fortalecimiento de la capacidad de los prestadores de servicios técnicos forestales, con el fin de incrementar la calidad, diversificar la oferta y mejorar los servicios que prestan, buscando el cumplimiento oportuno y eficiente de los compromisos establecidos en los programas de manejo.
+La Secretaría en coordinación con la CONAFOR, promoverá el fortalecimiento de la capacidad de los prestadores de servicios técnicos forestales, con el fin de incrementar la calidad, diversificar la oferta y mejorar los servicios que prestan, buscando el cumplimiento oportuno y eficiente de los compromisos establecidos en los programas de manejo.
 
-La Comisión, en coordinación con el Gobierno Federal, capacitará a los titulares de autorizaciones de aprovechamiento forestal, para que puedan realizar el seguimiento, evaluación y cumplimiento de lo establecido en los programas de manejo forestal, que se aplicarán con la asistencia de los prestadores de servicios técnicos forestales.
+La Secretaría, en coordinación con el Gobierno Federal, capacitará a los titulares de autorizaciones de aprovechamiento forestal, para que puedan realizar el seguimiento, evaluación y cumplimiento de lo establecido en los programas de manejo forestal, que se aplicarán con la asistencia de los prestadores de servicios técnicos forestales.
 
-La Comisión desarrollará un programa dirigido a fomentar un sistema de capacitación, reconocimientos, estímulos y acreditación que permita identificar tanto a titulares de aprovechamiento como a prestadores de servicios técnicos forestales, que cumplan oportuna y eficientemente compromisos adquiridos en los programas de manejo y en las recomendaciones de las auditorias técnicas preventivas.
+La Secretaría desarrollará un programa dirigido a fomentar un sistema de capacitación, reconocimientos, estímulos y acreditación que permita identificar tanto a titulares de aprovechamiento como a prestadores de servicios técnicos forestales, que cumplan oportuna y eficientemente compromisos adquiridos en los programas de manejo y en las recomendaciones de las auditorías técnicas preventivas.
 
 #### Sección 2. Unidades de Manejo Forestal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 61.
 
-La Comisión en coordinación con la CONAFOR y la opinión técnica del Consejo, delimitará las Unidades de Manejo Forestal, tomando como base preferentemente las cuencas, subcuencas y micro cuencas hidrológico-forestales, con el propósito de lograr una ordenación forestal sustentable, una planeación ordenada de las actividades forestales y el manejo eficiente de los recursos forestales. Ambas instancias promoverán la organización de los titulares de aprovechamientos forestales, industriales, dueños y poseedores legales, cuyos terrenos estén ubicados dentro de una Unidad de Manejo Forestal. Dichas unidades realizarán, entre otras, las actividades mencionadas en la Ley General.
+La Secretaría en coordinación con la CONAFOR y la opinión técnica del Consejo, delimitará las Unidades de Manejo Forestal, tomando como base preferentemente las cuencas, subcuencas y micro cuencas hidrológico forestales, con el propósito de lograr una ordenación forestal sustentable, una planeación ordenada de las actividades forestales y el manejo eficiente de los recursos forestales. Ambas instancias promoverán la organización de los titulares de aprovechamientos forestales, industriales, dueños y poseedores legales, cuyos terrenos estén ubicados dentro de una Unidad de Manejo Forestal. Dichas unidades realizarán, entre otras, las actividades mencionadas en la Ley General.
 
 El funcionamiento de las Unidades de Manejo Forestal será sustentado económicamente con las aportaciones de sus titulares de aprovechamientos, dueños y poseedores legales de terrenos forestales, industriales y otras fuentes de financiamiento.
 
 #### Sección 3. Auditorias Técnicas Preventivas
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 62.
 
-En el marco de la coordinación institucional regulado en el artículo 24 de la Ley General, el Estado por conducto de la Comisión y con el auxilio, en su caso, del Municipio, podrán realizar auditorias técnicas preventivas que tendrán por objeto la promoción e inducción al cumplimiento de las disposiciones legales en materia forestal de los programas de manejo respectivos.
+En el marco de la coordinación institucional regulado en el artículo 24 de la Ley General, el Estado por conducto de la Secretaría y con el auxilio, en su caso, del Municipio, podrán realizar auditorías técnicas preventivas que tendrán por objeto la promoción e inducción al cumplimiento de las disposiciones legales en materia forestal de los programas de manejo respectivos.
 
 #### Sección 4. Certificación Forestal
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 63.
 
-Conforme a los resultados de las auditorias, la Comisión, en el marco de la coordinación institucional prevista en el artículo 24 de la Ley General, y en su caso el municipio, podrá emitir un certificado que haga constar el correcto cumplimiento del programa de manejo.
+Conforme a los resultados de las auditorías, la Secretaría, en el marco de la coordinación institucional prevista en el artículo 24 de la Ley General, y en su caso el municipio, podrá emitir un certificado que haga constar el correcto cumplimiento del programa de manejo.
 
 ###### ARTÍCULO 64.
 
@@ -1013,7 +1069,9 @@ En los procedimientos de contratación pública, las administraciones públicas 
 
 Las administraciones públicas fomentarán el consumo responsable de estos productos por parte de los ciudadanos, mediante campañas de divulgación.
 
-La Comisión, en coordinación con las autoridades federales, promoverá la formación de profesionales o técnicos, así como de empresas, los cuales estén capacitados para certificar, evaluar y monitorear los bienes y servicios ambientales, para el otorgamiento de asesoría técnica y capacitación a los titulares de los aprovechamientos forestales en la materia y para enlazarlos con los usuarios o beneficiarios de los bienes y servicios ambientales, así como a los mercados correspondientes en el ámbito nacional e internacional.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+La Secretaría, en coordinación con las autoridades federales, promoverá la formación de profesionales o técnicos, así como de empresas, los cuales estén capacitados para certificar, evaluar y monitorear los bienes y servicios ambientales, para el otorgamiento de asesoría técnica y capacitación a los titulares de los aprovechamientos forestales en la materia y para enlazarlos con los usuarios o beneficiarios de los bienes y servicios ambientales, así como a los mercados correspondientes en el ámbito nacional e internacional.
 
 ## TÍTULO QUINTO. MEDIDAS DE PROTECCIÓN Y CONSERVACIÓN DE LOS RECURSOS FORESTALES
 
@@ -1069,31 +1127,41 @@ V. Empresas públicas o privadas de carácter federal, estatal o municipal que r
 
 VI. Municipios.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 70.
 
-Se restringe la comercialización de productos maderables motoaserrados, salvo aquellos que a solicitud de los dueños y poseedores requieran de la Comisión un dictamen técnico de factibilidad. Estos se otorgarán solamente si las condiciones de las áreas de manejo son adversas en su topografía e infraestructura.
+Se restringe la comercialización de productos maderables motoaserrados, salvo aquellos que a solicitud de los dueños y poseedores requieran de la Secretaría un dictamen técnico de factibilidad. Estos se otorgarán solamente si las condiciones de las áreas de manejo son adversas en su topografía e infraestructura.
 
 ### CAPÍTULO II. Sanidad Forestal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 71.
 
-La Comisión, en coordinación con el Consejo y las dependencias federales competentes, establecerá un sistema permanente de inspección y evaluación de la condición sanitaria de los terrenos forestales y difundirá con la mayor amplitud y oportunidad sus resultados; promoverá y apoyará los programas de investigación necesarios para resolver los problemas fitosanitarios forestales.
+La Secretaría, en coordinación con el Consejo y las dependencias federales competentes, establecerá un sistema permanente de inspección y evaluación de la condición sanitaria de los terrenos forestales y difundirá con la mayor amplitud y oportunidad sus resultados; promoverá y apoyará los programas de investigación necesarios para resolver los problemas fitosanitarios forestales.
 
 Las dependencias y entidades del Gobierno del Estado y, en su caso, las de los gobiernos municipales, en los términos de los acuerdos y convenios que celebran, ejercerán las inspecciones y evaluaciones citadas en el artículo anterior en forma coordinada para detectar, diagnosticar, prevenir, controlar y combatir plagas y enfermedades forestales.
 
 Cuando por motivos de sanidad forestal sea necesario realizar un aprovechamiento o eliminación de la vegetación forestal, deberá implementarse un programa que permita la reforestación, restauración y conservación de suelos, estando obligados los propietarios, poseedores o usufructuarios a restaurar mediante la regeneración natural o artificial en un plazo no mayor a dos años.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 72.
 
-Los ejidatarios, comuneros y demás propietarios o poseedores de terrenos forestales o preferentemente forestales, así como los titulares de autorizaciones de aprovechamiento de recursos forestales, quienes realicen actividades de forestación o plantaciones forestales comerciales y de reforestación, los prestadores de servicios técnicos forestales responsables de los mismos y los responsables de la administración de las áreas naturales protegidas, en forma inmediata a la detección de plagas o enfermedades, estarán obligados a dar aviso de ello a la Comisión. Quienes detenten autorizaciones de aprovechamiento forestal y sus responsables técnicos forestales, estarán obligados a ejecutar los trabajos de sanidad forestal, conforme a los tratamientos contemplados en los Programas de Manejo y a los lineamientos que se les proporcionen por la Comisión, en los términos de las disposiciones aplicables.
+Los ejidatarios, comuneros y demás propietarios o poseedores de terrenos forestales o preferentemente forestales, así como los titulares de autorizaciones de aprovechamiento de recursos forestales, quienes realicen actividades de forestación o plantaciones forestales comerciales y de reforestación, los prestadores de servicios técnicos forestales responsables de los mismos y los responsables de la administración de las áreas naturales protegidas, en forma inmediata a la detección de plagas o enfermedades, estarán obligados a dar aviso de ello a la Secretaría. Quienes detenten autorizaciones de aprovechamiento forestal y sus responsables técnicos forestales, estarán obligados a ejecutar los trabajos de sanidad forestal, conforme a los tratamientos contemplados en los Programas de Manejo y a los lineamientos que se les proporcionen por la Secretaría, en los términos de las disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 73.
 
-Ante la certificación por parte de la autoridad de la presencia de una plaga o enfermedad forestal en terrenos forestales o preferentemente forestales, se dará aviso al propietario o poseedor del mismo para el efecto de que realice e implemente lo necesario a fin de combatir la plaga o enfermedad forestal, el cual podrá solicitar el auxilio y colaboración de la autoridad cuando acredite que no cuenta con los recursos necesarios. Si el particular no actuara en tiempo y forma, la Comisión intervendrá a fin de sanear y restaurar el terreno forestal o preferentemente forestal a costa del propietario o poseedor, adquiriendo el carácter de crédito fiscal la erogación que para el efecto se haga.
+Ante la certificación por parte de la autoridad de la presencia de una plaga o enfermedad forestal en terrenos forestales o preferentemente forestales, se dará aviso al propietario o poseedor del mismo para el efecto de que realice e implemente lo necesario a fin de combatir la plaga o enfermedad forestal, el cual podrá solicitar el auxilio y colaboración de la autoridad cuando acredite que no cuenta con los recursos necesarios. Si el particular no actuara en tiempo y forma, la Secretaría intervendrá a fin de sanear y restaurar el terreno forestal o preferentemente forestal a costa del propietario o poseedor, adquiriendo el carácter de crédito fiscal la erogación que para el efecto se haga.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 74.
 
-En el marco de la coordinación institucional, la Comisión podrá realizar la Declaratoria de Emergencia Sanitaria en los terrenos forestales y preferentemente forestales cuando:
+En el marco de la coordinación institucional, la Secretaría podrá realizar la Declaratoria de Emergencia Sanitaria en los terrenos forestales y preferentemente forestales cuando:
 
 I. El terreno se encuentre invadido de una plaga o enfermedad forestal en un 20%;
 
@@ -1109,13 +1177,17 @@ Para atender las emergencias provocadas por la alta incidencia de plagas o enfer
 
 #### Sección 1. Aplicación y uso del Fuego con Fines Agrícolas
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 76.
 
-Compete a la Comisión, en coordinación con el Consejo, la planificación, coordinación y ejecución de las medidas precisas para la regulación del uso de fuego y de los incendios forestales, así como promover previo convenio de coordinación del Estado con los Municipios, los apoyos para la obtención de recursos de emergencia para el combate de incendios en su territorio.
+Compete a la Secretaría, en coordinación con el Consejo, la planificación, coordinación y ejecución de las medidas precisas para la regulación del uso de fuego y de los incendios forestales, así como promover previo convenio de coordinación del Estado con los Municipios, los apoyos para la obtención de recursos de emergencia para el combate de incendios en su territorio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 77.
 
-Para realizar cualquier tipo de quema en terrenos forestales y preferentemente forestales, los interesados deberán dar aviso a la autoridad municipal para obtener el permiso correspondiente, quien deberá dar respuesta en un plazo no mayor de tres días hábiles, entendiéndose que si no da respuesta será en sentido negativo. La autoridad municipal deberá a su vez informar de la quema autorizada a la Comisión para que lleve el registro correspondiente.
+Para realizar cualquier tipo de quema en terrenos forestales y preferentemente forestales, los interesados deberán dar aviso a la autoridad municipal para obtener el permiso correspondiente, quien deberá dar respuesta en un plazo no mayor de tres días hábiles, entendiéndose que si no da respuesta será en sentido negativo. La autoridad municipal deberá a su vez informar de la quema autorizada a la Secretaría para que lleve el registro correspondiente.
 
 De igual forma el interesado deberá dar aviso de la quema a los dueños de los predios colindantes cuando menos con siete días de anticipación con el objeto de que adopten las precauciones necesarias y coadyuven en la aplicación y los trabajos de control de fuego.
 
@@ -1139,31 +1211,41 @@ VII. Las quemas autorizadas por los Ayuntamientos en terrenos colindantes con po
 
 #### Sección 2. Prevención, Combate y Control de Incendios Forestales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 79.
 
-La Comisión, en coordinación con el Consejo, es la institución responsable de coordinar, supervisar y ejecutar acciones para la prevención, combate y control de los incendios forestales en el ámbito estatal; para ello solicitará la participación de dependencias federales, estatales y municipales, además de organizaciones no gubernamentales y sociedad en general.
+La Secretaria, en coordinación con el Consejo, es la institución responsable de coordinar, supervisar y ejecutar acciones para la prevención, combate y control de los incendios forestales en el ámbito estatal; para ello solicitará la participación de dependencias federales, estatales y municipales, además de organizaciones no gubernamentales y sociedad en general.
 
-La responsabilidad de estas acciones recaerá en un director técnico que será el Secretario Ejecutivo de la Comisión o, en su ausencia o suplencia, la persona que éste designe mediante acuerdo delegatorio, y que estará encargado de proponer y dirigir las operaciones de extinción. El nombramiento de director técnico que se proponga, deberá recaer preferentemente en un profesional que haya recibido formación acreditada específica sobre comportamiento del fuego forestal y técnicas adecuadas para su extinción.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+La responsabilidad de estas acciones recaerá en un director técnico que será el Titular de la Secretaría o, en su ausencia o suplencia, la persona que éste designe mediante acuerdo delegatorio, y que estará encargado de proponer y dirigir las operaciones de extinción. El nombramiento de director técnico que se proponga, deberá recaer preferentemente en un profesional que haya recibido formación acreditada específica sobre comportamiento del fuego forestal y técnicas adecuadas para su extinción.
 
 En la extinción de los incendios se deberá aplicar el sistema de manejo de emergencias en coordinación con las dependencias federales y municipales, para aplicar diagnósticos, metodologías, estrategias y técnicas que conlleven al combate eficaz del incendio.
 
 En los trabajos de extinción de incendios forestales, el director técnico tendrá la calidad de autoridad y podrá movilizar medios públicos y privados para actuar en la extinción, de acuerdo al plan de operaciones. Asimismo, podrá disponer, cuando sea necesario y aunque no se pueda contar con la autorización de los dueños respectivos, la entrada de equipos y medios en predios forestales o agrícolas, la circulación por caminos privados, la utilización de aguas públicas o privadas en la cuantía que se precise, la apertura de brechas cortafuegos, líneas negras y quemas de ensanche necesarias, así como la aplicación de contrafuegos, en zonas en donde se requiera, debido al comportamiento del fuego para evitar mayores desastres.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 80.
 
-La Comisión, en coordinación con otras instancias federales, estatales, municipales, así como con los miembros del Comité para la Prevención, Control y Combate de Incendios Forestales, los comités técnicos regionales y el Consejo, realizarán campañas para la prevención, control y combate de incendios forestales, de las cuales se derivarán entre otras, las siguientes acciones:
+La Secretaría, en coordinación con otras instancias federales, estatales, municipales, así como con los miembros del Comité para la Prevención, Control y Combate de Incendios Forestales, los comités técnicos regionales y el Consejo, realizarán campañas para la prevención, control y combate de incendios forestales, de las cuales se derivarán entre otras, las siguientes acciones:
 
 I. Formación de brigadas de divulgación, para la concientización de la población rural sobre el uso del fuego como herramienta en actividades agropecuarias, de acuerdo a las disposiciones legales, y
 
 II. Capacitación de comunidades rurales, para a integración de brigadas voluntarias para la prevención, control y combate de incendios forestales.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 81.
 
-Las organizaciones agropecuarias, así como propietarios y poseedores de terrenos forestales y preferentemente forestales, tienen la obligación de comunicar a la Comisión la programación de quemas, para que ésta brinde la asesoría pertinente.
+Las organizaciones agropecuarias, así como propietarios y poseedores de terrenos forestales y preferentemente forestales, tienen la obligación de comunicar a la Secretaría la programación de quemas, para que ésta brinde la asesoría pertinente.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 82.
 
-Los Municipios con apoyo técnico de la Comisión y del Comité para la Prevención, Control y Combate de Incendios Forestales deberán integrar, operar y mantener durante la época de estiaje, brigadas para el combate y control de incendios, así como la integración de grupos comunitarios voluntarios para la prevención, combate y control de los mismos.
+Los Municipios con apoyo técnico de la Secretaría y del Comité para la Prevención, Control y Combate de Incendios Forestales deberán integrar, operar y mantener durante la época de estiaje, brigadas para el combate y control, de incendios, así como la integración de grupos comunitarios voluntarios para la prevención, combate y control de los mismos.
 
 ###### ARTÍCULO 83.
 
@@ -1187,7 +1269,9 @@ II. Para los prestadores de servicios técnicos:
 
 a) Hacer cumplir las condicionantes impuestas al titular en la autorización de aprovechamientos de recursos forestales;
 
-b) En caso de contravención a las disposiciones de la materia, deberá comunicar lo procedente a la Comisión para que ésta actúe en los términos de las disposiciones de esta ley y de sus reglamentos. La omisión implicará responsabilidad solidaria en tal infracción;
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+b) En caso de contravención a las disposiciones de la materia, deberá comunicar lo procedente a la Secretaría para que ésta actúe en los términos de las disposiciones de esta Ley y de sus reglamentos. La omisión implicará responsabilidad solidaria en tal infracción;
 
 c) Capacitar brigadas que para tal efecto se formen, y
 
@@ -1197,7 +1281,9 @@ d) Realizar la divulgación tendiente a la prevención de incendios forestales, 
 
 Aquellas áreas en las que la frecuencia o virulencia de los incendios forestales y la importancia de los valores amenazados hagan necesarias medidas especiales de protección contra los incendios, podrán ser declaradas zonas de alto riesgo de incendio o de protección preferente.
 
-Corresponde a la Comisión la declaración de zonas de alto riesgo y la aprobación de sus planes de prevención. Para cada una de estas zonas se formulará un plan específico de prevención que, además de todo aquello que establezca el correspondiente Plan Estatal de Prevención y Combate de Incendios, deberá considerar, como mínimo:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+Corresponde a la Secretaría la declaración de zonas de alto riesgo y la aprobación de sus planes de prevención. Para cada una de estas zonas se formulará un plan específico de prevención que, además de todo aquello que establezca el correspondiente Plan Estatal de Prevención y Combate de Incendios, deberá considerar, como mínimo:
 
 I. Los problemas socioeconómicos que puedan existir en la zona y se manifiesten a través de la incidencia reiterada de incendios o del uso negligente del fuego, así como la determinación de las épocas del año de mayor riesgo de incendios forestales;
 
@@ -1207,17 +1293,23 @@ III. El establecimiento y disponibilidad de los medios de vigilancia y extinció
 
 IV. La regulación de los usos que puedan dar lugar a riesgo de incendios forestales.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 85.
 
-Se restringen las quemas prescritas en las áreas naturales protegidas, de la jurisdicción que sea. A este efecto, la Comisión en coordinación con las instancias administradoras, solicitarán la concurrencia de las dependencias para el desarrollo rural a fin de instrumentar programas y proyectos que propicien la reconversión productiva, la diversificación y el desarrollo sustentable, evitando las quemas agropecuarias.
+Se restringen las quemas prescritas en las áreas naturales protegidas, de la jurisdicción que sea. A este efecto, la Secretaría en coordinación con las instancias administradoras, solicitarán la concurrencia de las dependencias para el desarrollo rural a fin de instrumentar programas y proyectos que propicien la reconversión productiva, la diversificación y el desarrollo sustentable, evitando las quemas agropecuarias.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 86.
 
-La prevención, combate y control de los incendios forestales en la entidad, es de orden público e interés social, por lo que la Comisión y el Comité de Prevención, Combate y Control de Incendios Forestales gestionará ante aquellas personas físicas o morales involucradas en la actividad forestal, una aportación económica voluntaria con la finalidad de integrar recursos y canalizarlos al fondo para atender este rubro.
+La prevención, combate y control de los incendios forestales en la entidad, es de orden público e interés social, por lo que la Secretaría y el Comité de Prevención, Combate y Control de Incendios Forestales gestionará ante aquellas personas físicas o morales involucradas en la actividad forestal, una aportación económica voluntaria con la finalidad de integrar recursos y canalizarlos al fondo para atender este rubro.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 87.
 
-En todas las áreas forestales afectadas por incendios y, en las que resulte arbolado muerto, éste podrá ser susceptible de extracción y comercialización, siempre que el peritaje técnico dictamine que no existió intencionalidad en el siniestro, para lo cual es obligatorio ante la Comisión la solicitud y el permiso de saneamiento, además de la obligatoriedad de restaurar y proteger el área siniestrada.
+En todas las áreas forestales afectadas por incendios y, en las que resulte arbolado muerto, éste podrá ser susceptible de extracción y comercialización, siempre que el peritaje técnico dictamine que no existió intencionalidad en el siniestro, para lo cual es obligatorio ante la Secretaría la solicitud y el permiso de saneamiento, además de la obligatoriedad de restaurar y proteger el área siniestrada.
 
 El Estado y los Municipios deberán garantizar las condiciones para la restauración de los terrenos forestales incendiados, y queda prohibido:
 
@@ -1225,7 +1317,9 @@ I. El cambio de uso forestal al menos durante treinta años, y
 
 II. Toda actividad incompatible con la regeneración de la cubierta vegetal, durante veinte años.
 
-Con carácter singular, la Comisión podrá acordar excepciones a estas prohibiciones siempre que, con anterioridad al incendio forestal, el cambio de uso estuviera previsto en:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+Con carácter singular, la Secretaría podrá acordar excepciones a estas prohibiciones siempre que, con anterioridad al incendio forestal, el cambio de uso estuviera previsto en:
 
 I. Un instrumento previamente aprobado;
 
@@ -1233,13 +1327,17 @@ II. Un instrumento de planeamiento pendiente de aprobación, si ya hubiera sido 
 
 III. Una directriz de política agroforestal que contemple el uso agrario o ganadero extensivo de terrenos preferentemente forestales, con especies autóctonas incultos o en estado de abandono.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 88.
 
-La Comisión promoverá la celebración de convenios de coordinación y concertación con los ayuntamientos, organizaciones, asociaciones, en las regiones que así se requiera, con la finalidad de constituir agrupaciones de defensa forestal que tendrán como objeto el planear, dirigir, difundir programas y acciones de prevención y combate a incendios forestales; las cuales se organizarán conforme a lo establecido en el Reglamento de esta Ley.
+La Secretaría promoverá la celebración de convenios de coordinación y concertación con los ayuntamientos, organizaciones, asociaciones, en las regiones que así se requiera, con la finalidad de constituir agrupaciones de defensa forestal que tendrán como objeto el planear, dirigir, difundir programas y acciones de prevención y combate a incendios forestales; las cuales se organizarán conforme a lo establecido en el Reglamento de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 89.
 
-La Comisión, en el marco de la coordinación institucional prevista en la Ley General, y en concordancia con las Normas Oficiales Mexicanas dictará los lineamientos que deberán observarse en la prevención, combate y control de incendios forestales, para evaluar los daños, restaurar la zona afectada y establecer los procesos de seguimiento, así como los métodos y formas de uso del fuego en los terrenos forestales y agropecuarios colindantes.
+La Secretaría, en el marco de la coordinación institucional prevista en la Ley General, y en concordancia con las Normas Oficiales Mexicanas dictará los lineamientos que deberán observarse en la prevención, combate y control de incendios forestales, para evaluar los daños, restaurar la zona afectada y establecer los procesos de seguimiento, así como los métodos y formas de uso del fuego en los terrenos forestales y agropecuarios colindantes.
 
 La autoridad municipal deberá atender el combate y control de incendios; y en el caso de que los mismos superen su capacidad financiera y operativa de respuesta, acudirá a la instancia estatal correspondiente. Si ésta resultase insuficiente, se procederá a informar a la CONAFOR, la cual actuará de acuerdo con los programas y procedimientos respectivos.
 
@@ -1289,11 +1387,17 @@ Las dependencias integrantes del Comité para la Prevención, Control y Combate 
 
 El Comité para la Prevención, Control y Combate de Incendios Forestales, se integra por:
 
-I. El titular de la Comisión en su calidad de Presidente;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
-II. El titular de la Subsecretaría Ejecutiva de Ecología y Medio Ambiente de la Comisión, en su calidad de suplente del Presidente;
+I. El titular de la Secretaria en su calidad de Presidente;
 
-III. El titular de la Dirección de Planeación y Protección Ambiental de la Comisión fungirá como Secretario Técnico;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+II. El titular de la Subsecretaría de Gestión Ambiental Sustentable de la Secretaría, en su calidad de suplente del Presidente;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+III. El titular de la Subsecretaría de Planeación para el Desarrollo Sustentable de la Secretaría, fungirá como Secretario Técnico;
 
 > <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
 
@@ -1305,23 +1409,31 @@ Para atender las emergencias provocadas por la alta incidencia de incendios fore
 
 ### CAPÍTULO IV. Conservación y Restauración
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 94.
 
-La Comisión, con la información del inventario y la zonificación forestal, identificará las zonas de restauración ecológica en el marco de las cuencas hidrológicas.
+La Secretaría, con la información del inventario y la zonificación forestal, identificará las zonas de restauración ecológica en el marco de las cuencas hidrológicas.
 
 La totalidad del valor de los productos de los bosques o selvas que deban ser aprovechados como consecuencia de haber sido afectados por el incendio, deberá ser dedicado a la restauración de tales terrenos forestales.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 95.
 
-la Comisión, en coordinación con dependencias federales, escuchando la opinión del Consejo, tomando en cuenta los requerimientos de recuperación en zonas degradadas y las condiciones socioeconómicas de las mismas, promoverá la elaboración y aplicación de programas e instrumentos económicos que se requieran para fomentar las labores de conservación y restauración de los recursos forestales y las cuencas hidrológicas, así como realizar actividades de monitoreo y evaluación a las forestaciones y reforestaciones.
+La Secretaría, en coordinación con dependencias federales, escuchando la opinión del Consejo, tomando en cuenta los requerimientos de recuperación en zonas degradadas y las condiciones socioeconómicas de las mismas, promoverá la elaboración y aplicación de programas e instrumentos económicos que se requieran para fomentar las labores de conservación y restauración de los recursos forestales y las cuencas hidrológicas, así como realizar actividades de monitoreo y evaluación a las forestaciones y reforestaciones.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 96.
 
-Los propietarios y poseedores o usufructuarios de terrenos forestales o preferentemente forestales, están obligados a realizar acciones de restauración y conservación forestal pertinentes y aquellas que para tal caso dicte la Comisión o el Consejo. En el caso de que demuestren carecer de recursos, la Comisión, los incorporará a los programas de apoyo que instrumente de acuerdo a las asignaciones que para tal fin se contemplen en el presupuesto de egresos del Estado.
+Los propietarios y poseedores o usufructuarios de terrenos forestales o preferentemente forestales, están obligados a realizar acciones de restauración y conservación forestal pertinentes y aquellas que para tal caso dicte la Secretaría o el Consejo. En el caso de que demuestren carecer de recursos, la Secretaría, los incorporará a los programas de apoyo que instrumente de acuerdo a las asignaciones que para tal fin se contemplen en el presupuesto de egresos del Estado.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 97.
 
-Cuando se presenten procesos de degradación o desertificación, o graves desequilibrios ecológicos en terrenos forestales o preferentemente forestales, la Comisión formulará y ejecutará, en coordinación con los propietarios, programas de restauración ecológica, con el propósito de que se lleven a cabo las acciones necesarias para la recuperación y restablecimiento de las condiciones que se propicien o que propicien su conservación y restauración, de acuerdo con las asignaciones que para tal fin se contemplen en el presupuesto de egresos del Estado.
+Cuando se presenten procesos de degradación o desertificación, o graves desequilibrios ecológicos en terrenos forestales o preferentemente forestales, la Secretaría formulará y ejecutará, en coordinación con los propietarios, programas de restauración ecológica, con el propósito de que se lleven a cabo las acciones necesarias para la recuperación y restablecimiento de las condiciones que se propicien o que propicien su conservación y restauración, de acuerdo con las asignaciones que para tal fin se contemplen en el presupuesto de egresos del Estado.
 
 ### CAPÍTULO V. Forestación y Reforestación
 
@@ -1349,21 +1461,29 @@ El Estado, así como los municipios, en el ámbito de su competencia, establecer
 
 Cuando por causa de utilidad pública sea necesario reforestar en predios de propiedad particular, el Estado realizará la declaratoria correspondiente, coordinándose con el propietario o poseedor e instrumentando lo necesario a fin de llevarla a cabo, de acuerdo con lo establecido en el Reglamento de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 101.
 
-En los programas de reforestación que promueva y apoye la Comisión y otras dependencias, se dará énfasis a la producción de plantas de calidad de especies adecuadas al terreno a reforestar, de acuerdo con sus objetivos y al establecimiento de un sistema de incentivos para su plantación y mantenimiento durante los primeros años, sobre bases de evaluación de resultados.
+En los programas de reforestación que promueva y apoye la Secretaría y otras dependencias, se dará énfasis a la producción de plantas de calidad de especies adecuadas al terreno a reforestar, de acuerdo con sus objetivos y al establecimiento de un sistema de incentivos para su plantación y mantenimiento durante los primeros años, sobre bases de evaluación de resultados.
 
-La Comisión impulsará un programa de producción de plantas y reforestación para la recuperación de terrenos degradados, en observancia a lo dispuesto en las Normas Oficiales Mexicanas.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+La Secretaría impulsará un programa de producción de plantas y reforestación para la recuperación de terrenos degradados, en observancia a lo dispuesto en las Normas Oficiales Mexicanas.
 
 Las acciones de reforestación que se lleven a cabo en los terrenos forestales sujetos al aprovechamiento, deberán incluirse en el programa de manejo forestal correspondiente.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 102.
 
-La Comisión promoverá el desarrollo de un sistema de mejoramiento genético forestal, con la evaluación y registro de progenitores, la creación de áreas y huertos semilleros, viveros forestales de maderables y no maderables y bancos de germoplasma, auspiciando su operación por los municipios, así como por los propietarios y poseedores de terrenos forestales y de aptitud preferentemente forestal, por los titulares de autorizaciones de aprovechamiento de recursos forestales maderables y no maderables, de forestación y plantaciones comerciales, organizados en las unidades de manejo forestal, dando intervención a los responsables de los servicios técnicos forestales.
+La Secretaría promoverá el desarrollo de un sistema de mejoramiento genético forestal, con la evaluación y registro de progenitores, la creación de áreas y huertos semilleros, viveros forestales de maderables y no maderables y bancos de germoplasma, auspiciando su operación por los municipios, así como por los propietarios y poseedores de terrenos forestales y de aptitud preferentemente forestal, por los titulares de autorizaciones de aprovechamiento de recursos forestales maderables y no maderables, de forestación y plantaciones comerciales, organizados en las unidades de manejo forestal, dando intervención a los responsables de los servicios técnicos forestales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 103.
 
-La Comisión, con base en los estudios técnicos que se elaboren para justificar la medida, previa opinión técnica del Consejo y respetando la garantía de audiencia de ejidatarios, comuneros, propietarios, poseedores o usufructuarios y titulares de autorizaciones de aprovechamiento de recursos forestales maderables y forestación de los terrenos afectados, podrá proponer como medida de excepción vedas forestales, cuando éstas:
+La Secretaría, con base en los estudios técnicos que se elaboren para justificar la medida, previa opinión técnica del Consejo y respetando la garantía de audiencia de ejidatarios, comuneros, propietarios, poseedores o usufructuarios y titulares de autorizaciones de aprovechamiento de recursos forestales maderables y forestación de los terrenos afectados, podrá proponer como medida de excepción vedas forestales, cuando éstas:
 
 I. Constituyan justificadamente modalidades para el manejo de los recursos forestales comprendidos en las declaratorias de áreas naturales protegidas;
 
@@ -1371,7 +1491,9 @@ II. Formen parte de las acciones o condiciones establecidas para las áreas que 
 
 III. Tengan como finalidad la conservación, repoblación, propagación, diseminación, aclimatación o refugio de especies forestales endémicas, amenazadas, en peligro de extinción o sujetas a protección especial.
 
-La Comisión y los municipios, en los términos de los acuerdos y convenios que celebren, prestarán su colaboración para que se cumpla con lo que señalen las vedas forestales.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+La Secretaría y los municipios, en los términos de los acuerdos y convenios que celebren, prestarán su colaboración para que se cumpla con lo que señalen las vedas forestales.
 
 ### CAPÍTULO VI. Pastoreo en los Terrenos Forestales
 
@@ -1379,7 +1501,9 @@ La Comisión y los municipios, en los términos de los acuerdos y convenios que 
 
 Con el objeto de proteger la regeneración natural o inducida, el pastoreo de las áreas forestales deberá ser regulado.
 
-La Comisión, en coordinación con las dependencias federales y estatales con competencia en esa actividad y de conformidad con las leyes en la materia, determinarán las zonas forestales en donde sea factible efectuar el pastoreo de ganado.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+La Secretaría, en coordinación con las dependencias federales y estatales con competencia en esa actividad y de conformidad con las leyes en la materia, determinarán las zonas forestales en donde sea factible efectuar el pastoreo de ganado.
 
 Para determinar la capacidad de carga de los agostaderos en terrenos forestales, en los mismos términos de coordinación, se tomará en cuenta la Zonificación Forestal, los índices de agostadero y el ordenamiento ecológico.
 
@@ -1391,9 +1515,11 @@ En el Reglamento de esta Ley, se establecerán los mecanismos de regulación par
 
 Con la finalidad de llevar a cabo labores de restauración y conservación en las áreas forestales, los poderes del Estado promoverán la celebración de convenios de coordinación y concertación para el desarrollo de un mercado de bienes y servicios ambientales, a fin de que se, retribuyan o compensen los beneficios obtenidos de los servicios ambientales que se originan en el Estado, a los propietarios, poseedores y usufructuarios de terrenos forestales o de aptitud preferentemente forestal y a otros sectores de la sociedad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 106.
 
-La Comisión promoverá el desarrollo de servicios ambientales, priorizando lo siguiente:
+La Secretaría promoverá el desarrollo de servicios ambientales, priorizando lo siguiente:
 
 l. Captación de carbono, como aporte para la mitigación del efecto por cambios climáticos;
 
@@ -1411,7 +1537,9 @@ VII. Los demás servicios que sean considerados como ambientales.
 
 Los recursos federales, estatales, municipales y de los sectores público, privado y social destinados para el pago de servicios ambientales deberán ser canalizados al Fondo.
 
-La Comisión proveerá lo necesario para evaluar y monitorear los bienes y servicios ambientales, así como la capacitación y asesoría técnica a dueños y poseedores de bosques.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+La Secretaría proveerá lo necesario para evaluar y monitorear los bienes y servicios ambientales, así como la capacitación y asesoría técnica a dueños y poseedores de bosques.
 
 ###### ARTÍCULO 107.
 
@@ -1471,9 +1599,11 @@ Asimismo, los poderes Ejecutivo y legislativo del Estado, dentro de su esfera de
 
 Riesgo y Daños Ocasionados a los Recursos Forestales, Ecosistemas Forestales o sus Componentes.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 112.
 
-Cuando la Comisión, de acuerdo con los convenios de coordinación y con base en estudios técnicos, determine la existencia de un riesgo a los ecosistemas o recursos forestales o sus componentes, requerirá, mediante notificación a los ejidatarios, comuneros y demás propietarios o poseedores de terrenos forestales o preferentemente forestales, la realización de las actividades necesarias para evitar la situación de riesgo, con el apercibimiento de que en caso de no realizarlas en el término que se les conceda para ello, la Comisión realizará los trabajos correspondientes, con cargo a los obligados y, en su caso, a la aplicación de las medidas de seguridad previstas en los artículos 148 y 149 de esta Ley. El monto de las erogaciones que se realicen será considerado como crédito fiscal, mismo que será recuperable por conducto de la autoridad competente mediante el procedimiento económico coactivo.
+Cuando la Secretaría, de acuerdo con los convenios de coordinación y con base en estudios técnicos, determine la existencia de un riesgo a los ecosistemas o recursos forestales o sus componentes, requerirá, mediante notificación a los ejidatarios, comuneros y demás propietarios o poseedores de terrenos forestales o preferentemente forestales, la realización de las actividades necesarias para evitar la situación de riesgo, con el apercibimiento de que en caso de no realizarlas en el término que se les conceda para ello, la Secretaría realizará los trabajos correspondientes, con cargo a los obligados y, en su caso, a la aplicación de las medidas de seguridad previstas en los artículos 148 y 149 de esta Ley. El monto de las erogaciones que se realicen será considerado como crédito fiscal, mismo que será recuperable por conducto de la autoridad competente mediante el procedimiento económico coactivo.
 
 ###### ARTÍCULO 113.
 
@@ -1485,19 +1615,27 @@ Los jueces podrán calcular el monto a pagar por concepto de pago por daños oca
 
 ### CAPÍTULO IX. Inspección y Vigilancia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 114.
 
-El Ejecutivo del Estado a través de la Comisión y los gobiernos municipales, en el ámbito de su competencia y en el marco de los convenios de coordinación, son los responsables de la inspección y vigilancia forestales y ejecutoras de los actos de autoridad en esta materia.
+El Ejecutivo del Estado a través de la Secretaría y los gobiernos municipales, en el ámbito de su competencia y en el marco de los convenios de coordinación, son los responsables de la inspección y vigilancia forestales y ejecutoras de los actos de autoridad en esta materia.
 
-Con el objeto de proteger los recursos forestales en la Entidad, la Comisión, y los municipios en su caso, coordinarán la participación de las instancias públicas, privadas y sociales para la coadyuvancia en las acciones de inspección y vigilancia.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
-La Comisión establecerá los mecanismos y estructuras de vigilancias necesarias, mismas que estarán a cargo del personal que ésta designe.
+Con el objeto de proteger los recursos forestales en la Entidad, la Secretaría, y los municipios en su caso, coordinarán la participación de las instancias públicas, privadas y sociales para la coadyuvancia en las acciones de inspección y vigilancia.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+La Secretaría establecerá los mecanismos y estructuras de vigilancias necesarias, mismas que estarán a cargo del personal que ésta designe.
 
 Para las acciones de inspección y vigilancia coordinadas, cada dependencia proveerá lo conducente para atender los requerimientos que fueran necesarios para su cumplimiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 115.
 
-En materia de inspección y vigilancia, el titular de la Comisión tendrá las siguientes atribuciones:
+En materia de inspección y vigilancia, el titular de la Secretaría tendrá las siguientes atribuciones:
 
 I. Designar, contratar y acreditar al personal para ejercer las acciones de inspección y vigilancia;
 
@@ -1521,13 +1659,15 @@ X. Solicitar a la autoridad competente emita las órdenes para la realización d
 
 XI. Enterar a la autoridad federal competente, sobre la información derivada de los actos que se consignan en materia de inspección y vigilancia.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 116.
 
-La Comisión supervisará y evaluará las Unidades de Manejo Forestal y los servicios técnicos forestales en coordinación con las instancias competentes, a través de inspecciones a los predios autorizados, con el objeto de llevar el seguimiento de la calidad de su prestación, de conformidad con las Normas Oficiales Mexicanas y las condicionantes establecidas en las autorizaciones de aprovechamiento de recursos forestales, emitidos por la autoridad competente y las establecidas en el programa de manejo.
+La Secretaría supervisará y evaluará las Unidades de Manejo Forestal y los servicios técnicos forestales en coordinación con las instancias competentes, a través de inspecciones a los predios autorizados, con el objeto de llevar el seguimiento de la calidad de su prestación, de conformidad con las Normas Oficiales Mexicanas y las condicionantes establecidas en las autorizaciones de aprovechamiento de recursos forestales, emitidos por la autoridad competente y las establecidas en el programa de manejo.
 
-La Comisión, en coordinación con el Consejo, el Comité de Inspección y Vigilancia y las autoridades federales, estatales y municipales, establecerá las estrategias de vigilancia forestal en la Entidad.
+La Secretaría, en coordinación con el Consejo, el Comité de Inspección y Vigilancia y las autoridades federales, estatales y municipales, establecerá las estrategias de vigilancia forestal en la Entidad.
 
-La Comisión llevará a cabo la organización y capacitación de los titulares, dueños y poseedores legales de terrenos forestales, para coadyuvar en la vigilancia y evaluación de sus recursos.
+La Secretaría llevará a cabo la organización y capacitación de los titulares, dueños y poseedores legales de terrenos forestales, para coadyuvar en la vigilancia y evaluación de sus recursos.
 
 #### Sección Única.. Comité de Inspección y Vigilancia Forestal
 
@@ -1545,9 +1685,13 @@ III. Diseñar y aplicar estrategias de inspección y vigilancia forestal en el E
 
 El Comité de Inspección y Vigilancia Forestal del Estado, se integrará por:
 
-I. El titular de la Comisión en su calidad de Presidente;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
-II. El titular de la Subsecretaría Ejecutiva de Ecología y Medio Ambiente (sic) la Comisión en su calidad de Suplente del Presidente;
+I. El titular de la Secretaría en su calidad de Presidente;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+II. El titular de la Subsecretaría de Gestión Ambiental Sustentable de la Secretaría, en su calidad de Suplente del Presidente;
 
 III. El representante de la CONAFOR en el Estado de Morelos, fungirá como secretario técnico;
 
@@ -1559,11 +1703,15 @@ V. Las demás dependencias del orden estatal, federal y municipal que convoque e
 
 ### CAPÍTULO X. Sistema Estatal de Prioridades de Protección de Áreas Sujetas a Conservación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 119.
 
-La Comisión a través del Registro, implementará el sistema estatal de prioridades de protección de áreas sujetas a conservación, en donde se inscribirán dueños y poseedores, que por voluntad propia destinen un predio forestal para su protección, y por tanto están obligados a cumplir con las normas respectivas, asumiendo la responsabilidad de la protección del predio, quienes tendrán derecho a los incentivos económicos y fiscales que se establezcan.
+La Secretaría a través del Registro, implementará el sistema estatal de prioridades de protección de áreas sujetas a conservación, en donde se inscribirán dueños y poseedores, que por voluntad propia destinen un predio forestal para su protección, y por tanto están obligados a cumplir con las normas respectivas, asumiendo la responsabilidad de la protección del predio, quienes tendrán derecho a los incentivos económicos y fiscales que se establezcan.
 
-La Comisión, a propuesta del Consejo, promoverá y coordinará, en los tres órdenes de gobierno, el otorgamiento de apoyos institucionales a los dueños o poseedores de los predios inscritos en el sistema estatal de prioridades de protección.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+La Secretaría, a propuesta del Consejo, promoverá y coordinará, en los tres órdenes de gobierno, el otorgamiento de apoyos institucionales a los dueños o poseedores de los predios inscritos en el sistema estatal de prioridades de protección.
 
 Cuando los predios registrados para su protección, no cumplan con las normas establecidas, se perderá el derecho a los apoyos institucionales y en caso de presentarse una contingencia por incendios, el dueño o poseedor, pagará el costo del servicio institucional, en base al salario mínimo establecido en el Estado.
 
@@ -1637,21 +1785,23 @@ Los instrumentos que se apliquen deberán observar las disposiciones contenidas 
 
 #### Sección 2. Empresas sociales
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 123.
 
-La Comisión promoverá e impulsará la empresa social forestal en los ejidos o comunidades con áreas forestales y bajo programa de manejo forestal, atendiendo a lo señalado por la Ley Agraria.
+La Secretaría promoverá e impulsará la empresa social forestal en los ejidos o comunidades con áreas forestales y bajo programa de manejo forestal, atendiendo a lo señalado por la Ley Agraria.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+La Secretaría de Hacienda otorgará incentivos económicos-fiscales de acuerdo a las leyes correspondientes, a las personas jurídicas que bajo este esquema impulsen el sector forestal del Estado.
 
-La Secretaría de Hacienda otorgará incentivos económicos fiscales, de acuerdo a las leyes correspondientes, a las personas jurídicas que bajo este esquema impulsen el sector forestal del Estado.
-
-Los ejidatarios, comuneros, comunidades indígenas y demás propietarios, poseedores de terrenos forestales o preferentemente forestales que por la carencia de recursos económicos no estén en posibilidades de cubrir los costos de elaboración del programa de manejo forestal, podrán recurrir a la Comisión, en los términos del reglamento de esta Ley, para que les proporcione asesoría técnica y/o apoyo financiero para la elaboración de éste, lo cual se hará en la medida de las posibilidades presupuestales de la Comisión, previa comprobación de la carencia de dichos recursos.
+Los ejidatarios, comuneros, comunidades indígenas y demás propietarios, poseedores de terrenos forestales o preferentemente forestales que por la carencia de recursos económicos no estén en posibilidades de cubrir los costos de elaboración del programa de manejo forestal, podrán recurrir a la Secretaría, en los términos del reglamento de esta Ley, para que les proporcione asesoría técnica y/o apoyo financiero para la elaboración de éste, lo cual se hará en la medida de las posibilidades presupuestales de la Secretaría, previa comprobación de la carencia de dichos recursos.
 
 #### Sección 3. Desarrollo Forestal para el Ecoturismo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 124.
 
-En materia de ecoturismo la Comisión:
+En materia de ecoturismo la Secretaría:
 
 I. Promoverá el desarrollo de proyectos de ecoturismo, en coordinación con la Secretaría de Turismo e instancias relacionadas en el sector ambiental y forestal y en las comunidades rurales que interactúan con los recursos naturales;
 
@@ -1675,9 +1825,11 @@ X. Convocará a las instancias de los tres órdenes de gobierno relacionados con
 
 #### Sección 4. Desarrollo Industrial Forestal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 125.
 
-En materia de desarrollo industrial forestal la Comisión:
+En materia de desarrollo industrial forestal la Secretaría:
 
 I. En coordinación con el Consejo, promoverá el fomento y desarrollo industrial social y privado, para fortalecer la capacidad instalada, el coeficiente de aprovechamiento, la transformación integral de las materias primas, la diversificación de productos transformados, la incorporación de valor agregado y la competitividad empresarial local, nacional e internacional;
 
@@ -1689,7 +1841,9 @@ IV. Promoverá y proveerá lo necesario para otorgar la certificación de la ind
 
 V. Promoverá y proveerá lo necesario para efectuar los estudios técnicos e investigaciones suficientes para la producción y transferencia de tecnología, y
 
-VI. En coordinación con la Secretaría de Desarrollo Económico, con el propósito de coadyuvar en el desarrollo industrial del Estado, promoverá programas de apoyo a los dueños de los terrenos forestales y del sector privado, tendientes a la modernización industrial y a la constitución de asociaciones en participación entre ambos, así como para el otorgamiento de incentivos de carácter económico y fiscal, en coordinación con las dependencias y entidades federales y estatales con ingerencia en la materia.
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+VI. En coordinación con la Secretaría de Economía, con el propósito de coadyuvar en el desarrollo industrial del Estado, promoverá programas de apoyo a los dueños de los terrenos forestales y del sector privado, tendentes a la modernización industrial y a la constitución de asociaciones en participación entre ambos, así como para el otorgamiento de incentivos de carácter económico y fiscal, en coordinación con las dependencias y entidades federales y estatales con injerencia en la materia.
 
 #### Sección 5. Fondo Forestal Estatal
 
@@ -1739,7 +1893,7 @@ I. Las aportaciones iniciales que realice el Estado, por conducto de la Secretar
 
 II. Las subsecuentes aportaciones que realice el Estado con recursos propios o de la Federación; y
 
-III. El dinero que, por cualquier título legal, decidan aportar, para el cumplimiento de sus fines, las dependencias y entidades del Estado o de la Federación, gobiernos municipales, personas físicas o morales del sector público o privado, nacionales o extranjeras, organismos nacionales el internacionales, instituciones académicas, centros de investigación, organismos no gubernamentales y la sociedad civil en general;
+III. El dinero que, por cualquier título legal, decidan aportar, para el cumplimiento de sus fines, las dependencias y entidades del Estado o de la Federación, gobiernos municipales, personas físicas o morales del sector público o privado, nacionales o extranjeras, organismos nacionales e internacionales, instituciones académicas, centros de investigación, organismos no gubernamentales y la sociedad civil en general;
 
 IV. Los rendimientos que por concepto de inversión se generen en el mismo;
 
@@ -1769,9 +1923,11 @@ IV. Subfondo para Apoyo a Proyectos de Desarrollo Forestal, y
 
 V. Subfondo para Obras de Restauración y Conservación Forestal.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 129.
 
-Para la ejecución del Fondo se constituye el Comité Técnico del Fondo Forestal Estatal, como órgano dependiente del Consejo, que se integra por las unidades administrativas de fomento y desarrollo dependientes de la Comisión y estará presidido por su titular. El secretariado del Comité Técnico quedará a cargo de la unidad administrativa forestal de la Comisión.
+Para la ejecución del Fondo se constituye el Comité Técnico del Fondo Forestal Estatal, como órgano dependiente del Consejo, que se integra por las unidades administrativas de fomento y desarrollo dependientes de la Secretaría y estará presidido por su titular. El secretariado del Comité Técnico quedará a cargo de la unidad administrativa forestal de la Secretaría.
 
 ###### ARTÍCULO 130.
 
@@ -1783,7 +1939,9 @@ II. Administrar los subfondos previstos en esta ley;
 
 III. Proponer al Consejo a quienes serán considerados sujetos de apoyo para recibir los beneficios del fondo, bien por los servicios ambientales u otros motivos;
 
-IV. Realizar los estudios técnicos o científicos, con apoyo en las unidades administrativas de la Comisión o de otras instituciones públicas o privadas para determinar los sujetos que ofertan y reciben los servicios ambientales;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+IV. Realizar los estudios técnicos o científicos, con apoyo en las unidades administrativas de la Secretaría o de otras instituciones públicas o privadas para determinar los sujetos que ofertan y reciben los servicios ambientales;
 
 V. Proponer al Consejo los mecanismos, montos y plazos de pago por servicios ambientales;
 
@@ -1799,7 +1957,9 @@ X. Crear estructuras temporales y permanentes encargadas de tareas específicas.
 
 XI. Suspender temporalmente los recursos destinados a proyectos, previo dictamen del Subcomité de Administración, Evaluación y Seguimiento, cuando se hallen graves irregularidades;
 
-XII. Emitir el dictamen correspondiente al Consejo Forestal y a la Comisión, en un término no mayor a treinta días; señalando, en su caso, las causas por las cuales no fue aceptado el proyecto;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+XII. Emitir el dictamen correspondiente al Consejo Forestal y a la Secretaría, en un término no mayor a treinta días; señalando, en su caso, las causas por las cuales no fue aceptado el proyecto;
 
 XIII. Aprobar las reglas de operación y los anexos técnicos;
 
@@ -1815,9 +1975,11 @@ La existencia del Fondo no limita la creación de diversos fondos privados o soc
 
 ### CAPÍTULO II. INFRAESTRUCTURA PARA EL DESARROLLO FORESTAL ESTATAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 131.
 
-La Comisión, en coordinación con la Federación y los municipios, promoverá la implementación de infraestructura para el desarrollo forestal, de acuerdo con los mecanismos previstos en la Ley General, y de la disponibilidad presupuestaria, los cuales consistirán en:
+La Secretaría, en coordinación con la Federación y los municipios, promoverá la implementación de infraestructura para el desarrollo forestal, de acuerdo con los mecanismos previstos en la Ley General, y de la disponibilidad presupuestaria, los cuales consistirán en:
 
 I. Electrificación;
 
@@ -1835,9 +1997,11 @@ Las autoridades estatales colaborarán con la Federación en un esfuerzo de infr
 
 ### CAPÍTULO III. INVESTIGACIÓN FORESTAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 132.
 
-Será prioritario para el Estado impulsar la investigación en el sector forestal asignando los recursos correspondientes y para tal efecto, la Comisión:
+Será prioritario para el Estado impulsar la investigación en el sector forestal asignando los recursos correspondientes y para tal efecto, la Secretaría:
 
 a) Fomentará y promoverá la investigación relativa a la materia forestal mediante convenios de concertación con instituciones privadas y públicas, como la Universidad Autónoma del Estado de Morelos y sus institutos de investigación.
 
@@ -1889,13 +2053,17 @@ V. Ninguna persona requiere acreditar interés jurídico ni legítimo o justific
 
 ### CAPÍTULO II. CULTURA Y EDUCACIÓN FORESTAL
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 137.
 
-La Comisión en coordinación con el Consejo, las dependencias y entidades federales, estatales y municipales competentes, así como las organizaciones e instituciones privadas y sociales, realizarán en materia de cultura forestal, las acciones previstas en la Ley General, entre otras estrategias, para coadyuvar a elevar este objetivo.
+La Secretaría en coordinación con el Consejo, las dependencias y entidades federales, estatales y municipales competentes, así como las organizaciones e instituciones privadas y sociales, realizarán en materia de cultura forestal, las acciones previstas en la Ley General, entre otras estrategias, para coadyuvar a elevar este objetivo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 138.
 
-En materia de educación y capacitación, la Comisión, en coordinación con la Secretaría de Educación del Estado, la Universidad Autónoma del Estado de Morelos y las demás dependencias o entidades competentes, así como los sectores social y privado, realizará las acciones previstas en la Ley General.
+En materia de educación y capacitación, la Secretaría, en coordinación con la Secretaría de Educación del Estado, la Universidad Autónoma del Estado de Morelos y las demás dependencias o entidades competentes, así como los sectores social y privado, realizará las acciones previstas en la Ley General.
 
 Además, el Consejo promoverá que en los planes, programas, material didáctico y actividades prácticas de la educación que imparten las instituciones públicas y privadas en el Estado de Morelos en todos sus niveles y modalidades, se incluyan contenidos relacionados con la educación forestal y ambiental. El Poder Ejecutivo del Estado deberá prever la inclusión de una partida especial para este rubro en las iniciativas de Presupuesto y Ley de Ingresos que se presenten anualmente ante el Congreso del Estado.
 
@@ -1913,15 +2081,19 @@ El Gobierno del Estado, en coordinación con la Federación y Municipios, y con 
 
 ### CAPÍTULO II. DENUNCIA POPULAR
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 140.
 
-Toda persona podrá denunciar ante la Comisión, autoridades municipales o ante otras autoridades, todo hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico al ecosistema forestal o daños a los recursos forestales, o contravenga las disposiciones de la presente Ley y las demás que regulen materias relacionadas con los ecosistemas forestales, sus recursos o bienes y servicios ambientales asociados a éstos. El denunciante deberá aportar todos los elementos de prueba con que cuente para sustentar su denuncia. Para el trámite respectivo se estará a lo dispuesto en la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos.
+Toda persona podrá denunciar ante la Secretaría, autoridades municipales o ante otras autoridades, todo hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico al ecosistema forestal o daños a los recursos forestales, o contravenga las disposiciones de la presente Ley y las demás que regulen materias relacionadas con los ecosistemas forestales, sus recursos o bienes y servicios ambientales asociados a éstos. El denunciante deberá aportar todos los elementos de prueba con que cuente para sustentar su denuncia. Para el trámite respectivo se estará a lo dispuesto en la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos.
 
 ### CAPÍTULO III. VISITAS Y OPERATIVOS DE INSPECCIÓN FORESTALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 141.
 
-De acuerdo a lo previsto en la ley General, previo convenio entre la Federación, Estados y Municipios; la Comisión y los gobiernos municipales, por conducto del personal autorizado, realizarán visitas u operativos de inspección en materia forestal, con el objeto de verificar, el cumplimiento de lo dispuesto en la Ley General, su reglamento, las Normas Oficiales Mexicanas aplicables y las demás disposiciones que de ellos se deriven, ajustando su actuación a lo dispuesto en esos convenios y en su defecto en la Ley General del Equilibrio Ecológico y Protección al Ambiente.
+De acuerdo a lo previsto en la Ley General, previo convenio entre la Federación, Estados y Municipios; la Secretaría y los gobiernos municipales, por conducto del personal autorizado, realizarán visitas u operativos de inspección en materia forestal, con el objeto de verificar el cumplimiento de lo dispuesto en la Ley General, su reglamento, las Normas Oficiales Mexicanas aplicables y las demás disposiciones que de ellos se deriven, ajustando su actuación a lo dispuesto en esos convenios y en su defecto en la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
 
 Cuando las visitas u operativos tengan por objeto el verificar el cumplimiento de lo dispuesto en esta Ley, sus reglamentos o disposiciones administrativas que de ella emanen, se estará a lo dispuesto en la Ley de Procedimiento Administrativo para el Estado de Morelos.
 
@@ -1933,9 +2105,11 @@ Si como resultado de la inspección se detecta una plaga o enfermedad forestal, 
 
 ### CAPÍTULO I. INFRACCIONES
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 143.
 
-las violaciones que las personas físicas o morales cometan a las disposiciones de la presente Ley, a su Reglamento y demás ordenamientos que de ella emanen, constituyen infracciones que serán sancionadas administrativamente por la Comisión o por la autoridad municipal competente, según corresponda, sin perjuicio de las responsabilidades penales que resulten de conformidad con otros ordenamientos aplicables, siempre que no estén reservadas expresamente a otra dependencia o entidad federal, estatal o municipal, de conformidad a las disposiciones aplicables.
+Las violaciones que las personas físicas o morales cometan a las disposiciones de la presente Ley, a su Reglamento y demás ordenamientos que de ella emanen, constituyen infracciones que serán sancionadas administrativamente por la Secretaría o por la autoridad municipal competente, según corresponda, sin perjuicio de las responsabilidades penales que resulten de conformidad con otros ordenamientos aplicables, siempre que no estén reservadas expresamente a otra dependencia o entidad federal, estatal o municipal, de conformidad a las disposiciones aplicables.
 
 ###### ARTÍCULO 144.
 
@@ -1943,7 +2117,9 @@ Independientemente a las infracciones previstas en la Ley General, se prevén la
 
 I. No presentar los informes o avisos en tiempo y forma ante las autoridades estatales, de conformidad con lo dispuesto en la presente Ley;
 
-2. Cambiar el medio de transporte al movilizar materias primas forestales, sin autorización de la Comisión;
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+2. Cambiar el medio de transporte al movilizar materias primas forestales, sin autorización de la Secretaría;
 
 3. Depositar residuos no peligrosos en terrenos forestales o preferentemente forestales;
 
@@ -1951,9 +2127,13 @@ I. No presentar los informes o avisos en tiempo y forma ante las autoridades est
 
 5. Transportar suelo forestal sin contar con la autorización correspondiente para extraerlo;
 
-6. Obstaculizar al personal autorizado de la Comisión en la realización de las funciones de inspección y vigilancia forestal, así como en las visitas y operativos de inspección forestales, que le confiere la presente Ley y su Reglamento;
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
-7. Desatender emergencias y/o contingencias ambientales, tales como incendios, plagas y enfermedades forestales, en desacato de mandamiento legítimo de la Comisión, conforme a las atribuciones que le otorga este Ordenamiento legal;
+6. Obstaculizar al personal autorizado de la Secretaría en la realización de las funciones de inspección y vigilancia forestal, así como en las visitas y operativos de inspección forestales, que le confiere la presente Ley y su Reglamento;
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+7. Desatender emergencias y/o contingencias ambientales, tales como incendios, plagas y enfermedades forestales, en desacato de mandamiento legítimo de la Secretaría, conforme a las atribuciones que le otorga este Ordenamiento legal;
 
 8. Degradar o eliminar parcial o totalmente áreas forestales y preferentemente forestales;
 
@@ -1961,9 +2141,13 @@ I. No presentar los informes o avisos en tiempo y forma ante las autoridades est
 
 10. No contar los centros de almacenamiento o transformación de materias primas forestales con el certificado de inscripción en el Registro Forestal del Estado y sus respectivas revalidaciones;
 
-11. Cambiar de domicilio o de giro los centros de almacenamiento, transformación o depósitos de productos forestales, modificar o adicionar maquinaria, modificar o cambiar las fuentes de abastecimiento, sin autorización de la Comisión;
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
-12. Carecer los centros de almacenamiento o transformación de materias primas forestales del libro de registro de entradas y salidas debidamente validado por la Comisión, con sus respectivas revalidaciones en tiempo y forma, de acuerdo al Reglamento de la presente Ley, así como de las anotaciones de entrada de materia prima y salida de productos forestales;
+11. Cambiar de domicilio o de giro los centros de almacenamiento, transformación o depósitos de productos forestales, modificar o adicionar maquinaria, modificar o cambiar las fuentes de abastecimiento, sin autorización de la Secretaría;
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+12. Carecer los centros de almacenamiento o transformación de materias primas forestales del libro de registro de entradas y salidas debidamente validado por la Secretaría, con sus respectivas revalidaciones en tiempo y forma, de acuerdo al Reglamento de la presente Ley, así como de las anotaciones de entrada de materia prima y salida de productos forestales;
 
 13. No acreditar la legal salida de materia prima o de producto forestal, de los centros de almacenamiento o transformación, por los medios de control establecidos;
 
@@ -2017,9 +2201,13 @@ En caso de reincidencia, el monto de la multa podrá ser hasta por dos veces el 
 
 Además de las sanciones económicas, el infractor deberá realizar las acciones necesarias para reparar el daño causado a los recursos naturales, en el plazo y términos que la autoridad le señale.
 
-La Comisión o al (sic) autoridad municipal competente, fundamentando y motivando plenamente su decisión, podrán otorgar al infractor, cuando no se haya incurrido en delitos, la opción de pagar la multa o realizar trabajos o inversiones equivalentes en materia de conservación, protección o restauración de los recursos forestales, siempre y cuando se garanticen las obligaciones del infractor, que no sea reincidente y no se trate de irregularidades que impliquen la existencia de riesgo inminente de daño o deterioro grave de los ecosistemas forestales.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
-En el caso de las sanciones impuestas por infracciones a esta Ley en materia forestal, la Comisión inscribirá de oficio la resolución correspondiente en el Padrón Forestal del Estado.
+La Secretaría o al (sic) autoridad municipal competente, fundamentando y motivando plenamente su decisión, podrán otorgar al infractor, cuando no se haya incurrido en delitos, la opción de pagar la multa o realizar trabajos o inversiones equivalentes en materia de conservación, protección o restauración de los recursos forestales, siempre y cuando se garanticen las obligaciones del infractor, que no sea reincidente y no se trate de irregularidades que impliquen la existencia de riesgo inminente de daño o deterioro grave de los ecosistemas forestales.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+En el caso de las sanciones impuestas por infracciones a esta Ley en materia forestal, la Secretaría inscribirá de oficio la resolución correspondiente en el Padrón Forestal del Estado.
 
 Cuando se determine la existencia de dos o más infracciones a que refiere el artículo 144, se tomará en cuenta la más alta.
 
@@ -2047,9 +2235,11 @@ Son responsables solidarios de las infracciones, quienes intervienen en su prepa
 
 ### CAPÍTULO III. MEDIDAS DE SEGURIDAD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 148.
 
-Cuando de las visitas de inspección que contempla esta Ley, se presuma que existe riesgo inminente de daños o deterioro grave al medio ambiente, lo cual se hará constar en el acta respectiva, o cuando se detecte por la autoridad competente la flagrancia de un delito o infracción administrativa grave, la Comisión podrá ordenar cualquiera de las siguientes medidas de seguridad:
+Cuando de las visitas de inspección que contempla esta Ley, se presuma que existe riesgo inminente de daños o deterioro grave al medio ambiente, lo cual se hará constar en el acta respectiva, o cuando se detecte por la autoridad competente la flagrancia de un delito o infracción administrativa grave, la Secretaría podrá ordenar cualquiera de las siguientes medidas de seguridad:
 
 I. La detención de los presuntos responsables, quienes deberán, sin demora, ser puestos a disposición de la autoridad competente;
 
@@ -2059,11 +2249,13 @@ III. La clausura temporal de las operaciones del establecimiento, o la suspensi�
 
 IV. La suspensión temporal, parcial o total del aprovechamiento o de las actividades de que se trate.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 149.
 
-Cuando la Comisión imponga las medidas de seguridad previstas en esta Ley, se indicaran, en su caso, las acciones que se deberán llevar a cabo para subsanar las irregularidades que las motivaron, así como los plazos para revisarlas, a fin de que una vez satisfechas estas, se ordene el retiro de las mismas.
+Cuando la Secretaría imponga las medidas de seguridad previstas en esta Ley, se indicarán, en su caso, las acciones que se deberán llevar a cabo para subsanar las irregularidades que las motivaron, así como los plazos para revisarlas, a fin de que una vez satisfechas éstas, se ordene el retiro de las mismas.
 
-La Comisión podrá dar destino final a los productos maderables o no maderables asegurados de manera precautoria y los recursos económicos obtenidos se depositarán hasta que se resuelva el procedimiento legal y, una vez emitido el fallo y la resolución cause estado, estos recursos se entregarán a quien beneficie el sentido de la resolución. El Reglamento determinará los mecanismos para implementar esta disposición.
+La Secretaría podrá dar destino final a los productos maderables o no maderables asegurados de manera precautoria y los recursos económicos obtenidos se depositarán hasta que se resuelva el procedimiento legal y, una vez emitido el fallo y la resolución cause estado, estos recursos se entregarán a quien beneficie el sentido de la resolución. El Reglamento determinará los mecanismos para implementar esta disposición.
 
 ### CAPÍTULO IV. INCONFORMIDADES
 
@@ -2131,6 +2323,16 @@ SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publi
 
 TERCERA. Todas las referencias hechas en el marco normativa (sic) estatal, respecto de la Secretaría de Seguridad Pública o a la Policía Preventiva Estatal, se entenderán hechas al Comisionado Estatal de Seguridad Pública o a la Comisión Estatal de Seguridad Pública, según sea el caso.
 
-CUARTA. Las Secretarías de Gobierno, de Administración, de Hacienda y de la Contraloría del Poder Ejecutivo Estatal, deberán tomar las medidas administrativas necesarias para que los recursos humanos, presupuestarios y materiales asignados a la Secretaría de Seguridad Pública en el Presupuesto de Egresos para el Ejercicio Fiscal comprendido del primero de enero al treinta y uno de diciembre de 2014, se reasignen a la primera para la operación y funcionamiento de la Comisión Estatal de Seguridad Pública y el Órgano Desconcentrado denominado Secretariado Ejecutivo de (sic) Sistema Estatal Seguridad (sic) Pública.
+CUARTA. Las Secretarías de Gobierno, de Administración, de Hacienda y de la Contraloría del Poder Ejecutivo Estatal, deberán tomar las medidas administrativas necesarias para que los recursos humanos, presupuestarios y materiales asignados a la Secretaría de Seguridad Pública en el Presupuesto de Egresos para el Ejercicio Fiscal comprendido del primero de enero al treinta y uno de diciembre de 2014, se reasignen a la primera para la operación y funcionamiento de la Comisión Estatal de Seguridad Pública y el Órgano Desconcentrado denominado Secretariado Ejecutivo de (sic) Sistema Estatal (sic) Seguridad Pública.
 
 QUINTA. Con la finalidad de dar cumplimiento a lo dispuesto por los artículos Décimo Transitorio y 132, ambos del Código Nacional de Procedimientos Penales, el Secretario de Gobierno del Estado de Morelos, deberá de ejecutar todas y cada una de las acciones tendientes a la capacitación, adiestramiento y profesionalización de los elementos que integran la fuerza pública Estatal, debiendo de garantizar en dichas acciones los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los Derechos Humanos reconocidos en la Constitución Política de los Estado Unidos Mexicanos.
+
+P.O. 19 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase al Titular del Poder Ejecutivo para los efectos que señalan los artículos 44, 47 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Tierra y Libertad", órgano de difusión de Gobierno del Estado de Morelos.
