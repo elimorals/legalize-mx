@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-procedimientos-penales-para-el-estado-libre-y-6541"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2014-04-30"
+last_updated: "2014-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6541&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
 > <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS SEGUNDO Y TERCERO TRANSITORIOS DE CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 22 DE NOVIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO EN LA MEDIDA EN QUE LOS PROCEDIMIENTOS INICIADOS CON ANTERIORIDAD A LA APLICACIÓN DEL NUEVO CÓDIGO QUEDEN AGOTADOS Y SUS DISPOSICIONES SE APLICARÁN A HECHOS QUE OCURRAN A PARTIR DE LAS CERO HORAS DEL DÍA 30 DE OCTUBRE DEL 2008, EN EL PRIMER DISTRITO JUDICIAL; A PARTIR DE LAS CERO HORAS DEL 1 DE JUNIO DEL 2009 EN EL SEXTO DISTRITO JUDICIAL CON SEDE EN CUAUTLA Y EN EL QUINTO DISTRITO JUDICIAL CON SEDE EN YAUTEPEC, MORELOS, Y A PARTIR DE LAS CERO HORAS DEL DÍA 1 DE FEBRERO DEL 2010, EN EL CUARTO DISTRITO JUDICIAL CON SEDE EN JOJUTLA, EN EL SEGUNDO DISTRITO JUDICIAL CON SEDE EN TETECALA, EN EL TERCER DISTRITO JUDICIAL CON SEDE EN PUENTE DE IXTLA Y EN EL SÉPTIMO DISTRITO JUDICIAL CON SEDE EN JONACATEPEC.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2014 (ABROGADO).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2014.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -291,7 +291,7 @@ El juez procurará obtener el mejor conocimiento posible de todos los elementos 
 
 Corresponde a los tribunales del Estado de Morelos, conforme a la organización y competencia previstos por la ley, resolver sobre los delitos del orden común cometidos en esa entidad federativa, conforme a la pretensión planteada por el Ministerio Público, y aplicar las sanciones que correspondan en el caso concreto.
 
-Los tribunales decidirán acerca de la reparación de daños y perjuicios que reclamen el ofendido o el Ministerio Público, (sic)
+Los tribunales decidirán acerca de la reparación de daños y perjuicios que reclamen el ofendido o el Ministerio Público,
 
 ###### ARTICULO 9.
 
@@ -311,7 +311,7 @@ La policía judicial actuará bajo la autoridad y el mando inmediato del Ministe
 
 Los peritos que auxilien al Ministerio Público gozarán de plena autonomía técnica para la elaboración de sus dictámenes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JULIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 1999)</small>
 
 ###### ARTICULO 12.
 
@@ -325,9 +325,11 @@ El Agente del Ministerio Público que actúe en el proceso penal, podrá formula
 
 El agente del Ministerio Público que hubiese actuado en la causa de la que derivó la sentencia reclamada por el inculpado como quejoso en amparo directo, deberá presentar sus alegaciones por escrito ante el tribunal colegiado de circuito que conozca del juicio de garantías, en los términos del artículo 180 de la Ley de Amparo, reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTICULO 13.
 
-La Ley Orgánica de la Procuraduría General de Justicia y su respectivo Reglamento determinará a quién corresponde la suplencia del Ministerio Público, para la práctica de actuaciones encomendadas a éste, cuando no haya agente de dicha Institución en el lugar en que deban desarrollarse las diligencias de averiguación previa o se sigue el proceso. Las actuaciones que realicen los suplentes, conforme a las disposiciones legales respectivas, tendrán el mismo valor que las practicadas por el Ministerio Público.
+La Ley Orgánica de la Fiscalía General del Estado de Morelos y su respectivo Reglamento determinará a quién corresponde la suplencia del Ministerio Público, para la práctica de actuaciones encomendadas a éste, cuando no haya agente de dicha Institución en el lugar en que deban desarrollarse las diligencias de averiguación previa o se sigue el proceso. Las actuaciones que realicen los suplentes, conforme a las disposiciones legales respectivas, tendrán el mismo valor que las practicadas por el Ministerio Público.
 
 Cuando el Ministerio Público solicite la intervención de autoridades de otras entidades federativas, se estará a los términos de los convenios correspondientes. Las diligencias cumplidas por aquéllas tendrán el valor de las realizadas por el Ministerio Público de Morelos, si se ajustan a las disposiciones y garantías previstas en la Constitución General de la República, la particular del Estado y el presente Código.
 
@@ -351,11 +353,13 @@ En todo caso, el juez ordenará de oficio citar al ofendido para que comparezca 
 
 Las facultades que este Código atribuye al ofendido, se entenderán asignadas a sus causahabientes, por lo que toca a derechos resultantes directamente del hecho delictuoso, cuando aquél no pueda ejercerlas por si mismo.
 
-> <small>(F. DE E., P.O. 29 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 17.
 
-Para los efectos previstos en el artículo precedente, y en general para brindarle auxilio durante el procedimiento, el Estado proveerá al ofendido, por conducto de la Procuraduría General de Justicia, de asistencia jurídica oportuna, competente y gratuita a partir del inicio de la averiguación y hasta que cause ejecutoria la sentencia que afecte sus intereses.
+Para los efectos previstos en el artículo precedente, y en general para brindarle auxilio durante el procedimiento, el Estado proveerá al ofendido, por conducto de la Fiscalía General del Estado, de asistencia jurídica oportuna, competente y gratuita a partir del inicio de la averiguación y hasta que cause ejecutoria la sentencia que afecte sus intereses.
+
+> <small>(F. DE E., P.O. 29 DE NOVIEMBRE DE 1996)</small>
 
 El asesor jurídico del ofendido tendrá, en lo conducente, los mismos derechos y obligaciones que un defensor de oficio.
 
@@ -419,7 +423,9 @@ Las diligencias se desarrollarán en la sede oficial de la autoridad que las pre
 
 Serán días y horas hábiles para la práctica de actuaciones judiciales los que señala la Ley Orgánica del Poder Judicial del Estado, sin perjuicio de que se realicen en otras fechas y horas las diligencias que conforme a su naturaleza y por mandato de la ley, deban practicarse en diversos momentos.
 
-El Ministerio Público llevará adelante las diligencias que le competen en la forma que dispongan sus propias normas y según las disposiciones que a este respecto dicte el Procurador, tomando en cuenta el debido despacho de sus atribuciones y la adecuada prestación de los servicios a su cargo.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+El Ministerio Público llevará adelante las diligencias que le competen en la forma que dispongan sus propias normas y según las disposiciones que a este respecto dicte el Fiscal General, tomando en cuenta el debido despacho de sus atribuciones y la adecuada prestación de los servicios a su cargo.
 
 Dentro de lo dispuesto en los párrafos anteriores, las actuaciones judiciales y del Ministerio Público podrán practicarse cualquier día y a cualquier hora. En el acta que se levante quedará constancia de la fecha y hora de la actuación.
 
@@ -597,9 +603,11 @@ Cuando se practique un cateo en contravención a lo estipulado en este precepto,
 
 Si está cerrado el lugar en el que se practique el cateo o los muebles en los que pudieran hallarse los objetos que se buscan y el ocupante de aquél o quien tenga acceso a éstos se niegan a franquear el paso o abrir dichos muebles, la autoridad que practique el cateo podrá hacer uso de la fuerza para cumplir su encargo, y dejará constancia de las circunstancias en que se desarrolló este aspecto de la diligencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTICULO 59.
 
-Cuando el Ministerio Público estime necesario el acceso a una comunicación privada, en los términos del artículo 16 de la Constitución General de la República, el Procurador del Estado formulará la solicitud respectiva ante la autoridad judicial federal que corresponda. Dicha solicitud, motivada y fundada, se presentará por escrito. En ella se expresará el tipo de intervención que se requiere, los sujetos de ésta y la duración que deba tener.
+Cuando el Ministerio Público estime necesario el acceso a una comunicación privada, en los términos del artículo 16 de la Constitución General de la República, el Fiscal General del Estado formulará la solicitud respectiva ante la autoridad judicial federal que corresponda. Dicha solicitud, motivada y fundada, se presentará por escrito. En ella se expresará el tipo de intervención que se requiere, los sujetos de ésta y la duración que deba tener.
 
 Sólo serán admisibles como prueba los informes y las comunicaciones obtenidos en la forma prevista por la Constitución General de la República y por este ordenamiento.
 
@@ -747,9 +755,11 @@ No requieren prueba el derecho positivo vigente del Estado de Morelos y Federal,
 
 Quien proponga la prueba manifestará la finalidad que busca con ella, relacionándola con los puntos que pretende acreditar.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTICULO 76.
 
-El juzgador que tenga conocimiento de pruebas obtenidas ilegalmente, dispondrá que se de vista de ello al Ministerio Público por conducto del agente adscrito o directamente al Procurador, según las características del caso.
+El juzgador que tenga conocimiento de pruebas obtenidas ilegalmente, dispondrá que se de vista de ello al Ministerio Público por conducto del agente adscrito o directamente al Fiscal General, según las características del caso.
 
 ###### ARTICULO 77.
 
@@ -1021,9 +1031,11 @@ La Policía Judicial sólo podrá recibir denuncias por delitos perseguibles de 
 
 Cuando un servidor público, con motivo y en el ejercicio de sus funciones tenga conocimiento de la comisión de un delito perseguible de oficio, deberá denunciarlo inmediatamente. Si se trata de un ilícito cuya persecución dependa de instancia que formule alguna autoridad, lo pondrá en conocimiento de su superior jerárquico. Cuando el servidor público contravenga lo dispuesto en este artículo, se le aplicará la sanción prevista para el caso de encubrimiento.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTICULO 115.
 
-Los mayores de dieciséis años podrán querellarse por si mismos. Cuando se trate de un menor de esta edad o de un incapaz, la formulación de la querella corresponderá a quien ejerza sobre aquéllos la patria potestad o la tutela. A falta de éstos, el Ministerio Público satisfará el requisito de procedibilidad actuando por si mismo o solicitará que intervengan las autoridades encargadas de la asistencia a menores o incapaces. Lo mismo hará el Ministerio Público cuando considere que quienes ejercen autoridad sobre el menor omiten la querella por motivos ilegítimos o tienen, en la especie, intereses opuestos a los del menor. En estos casos, el agente que tenga noticia del delito consultará al Procurador o por delegación de éste, al funcionario designado por él, y se atendrá a lo que uno u otro en su caso resuelva.
+Los mayores de dieciséis años podrán querellarse por sí mismos. Cuando se trate de un menor de esta edad o de un incapaz, la formulación de la querella corresponderá a quien ejerza sobre aquéllos la patria potestad o la tutela. A falta de éstos, el Ministerio Público satisfará el requisito de procedibilidad actuando por sí mismo o solicitará que intervengan las autoridades encargadas de la asistencia a menores o incapaces. Lo mismo hará el Ministerio Público cuando considere que quienes ejercen autoridad sobre el menor omiten la querella por motivos ilegítimos o tienen, en la especie, intereses opuestos a los del menor. En estos casos, el agente que tenga noticia del delito consultará al Fiscal General o por delegación de éste, al funcionario designado por él, y se atendrá a lo que uno u otro en su caso resuelva.
 
 ###### ARTICULO 116.
 
@@ -1043,7 +1055,7 @@ No se requiere apoderado para la presentación de denuncias. Tratándose de deli
 
 ### CAPITULO II. DILIGENCIAS DE AVERIGUACION PREVIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JULIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 1999)</small>
 
 ###### ARTICULO 119.
 
@@ -1121,17 +1133,19 @@ e) Resulte imposible de manera presente y futura, acreditar el cuerpo del delito
 
 f) En los demás casos, en que las normas aplicables, así lo determinen y por los que se amerite fundadamente, la resolución del no ejercicio de la acción penal.
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 130.
 
-Si el Agente del Ministerio Público a cargo de la investigación, considera que procede el no ejercicio de la acción penal, formulará la consulta respectiva al Procurador o a quien deba decidir, por delegación de aquél. Se notificará personalmente al ofendido y a su asesor legal, para que aporten ante la autoridad superior, los elementos probatorios y alegatos que consideren pertinentes, ello dentro del término de quince días siguientes a la notificación. Recibidos estos elementos, se resolverá lo que proceda, y dicha resolución no será recurrible, por lo que el interesado podrá en su caso iniciar juicio de amparo ante los Tribunales Federales, en los plazos y con las condiciones previstas por la Ley Reglamentaria de los artículos 103 y 107 de la Constitución General.
+Si Agente el (sic) Ministerio Público a cargo de la investigación, considera que procede el no ejercicio de la acción penal, formulará la consulta respectiva al Fiscal General o a quien deba decidir, por delegación de aquél. Se notificará personalmente al ofendido y a su asesor legal, para que aporten ante la autoridad superior, los elementos probatorios y alegatos que consideren pertinentes, ello dentro del término de quince días siguientes a la notificación. Recibidos estos elementos, se resolverá lo que proceda, y dicha resolución no será recurrible, por lo que el interesado podrá en su caso iniciar juicio de amparo ante los Tribunales Federales, en los plazos y con las condiciones previstas por la Ley Reglamentaria de los artículos 103 y 107 de la Constitución General.
 
 ###### ARTICULO 131.
 
 Si no hay detenido y se trata de delitos dolosos sancionados con no más de cinco años de prisión, sanción no privativa de la libertad o alternativa que incluya una sanción diversa de aquélla, el Ministerio Público dispondrá de dieciocho meses para integrar la averiguación y ejercitar la acción, contados a partir de la formulación de la denuncia o la querella. En los demás casos, tratándose de delitos dolosos, el plazo al que se refiere este párrafo será de dos años. En el supuesto de delitos culposos, el plazo se reducirá en seis meses. Los plazos previstos en este artículo se entienden sin perjuicio de las reglas de prescripción establecidas en el Código Penal.
 
-Si transcurren los plazos antes señalados sin que se ejercite la acción, se archivará la averiguación con efectos definitivos bajo las reglas correspondientes al no ejercicio de la acción penal. En estos casos, la resolución definitiva corresponde al Procurador o a quien éste disponga, conforme a las facultades de delegación que la ley autorice. Dicho funcionario examinará los motivos por los que no fue posible ejercitar la acción y aplicará o promoverá las sanciones que correspondan cuando la causa sea imputable al agente del Ministerio Público encargado de la indagatoria o a otros funcionarios.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+Si transcurren los plazos antes señalados sin que se ejercite la acción, se archivará la averiguación con efectos definitivos bajo las reglas correspondientes al no ejercicio de la acción penal. En estos casos, la resolución definitiva corresponde al Fiscal General o a quien éste disponga, conforme a las facultades de delegación que la ley autorice. Dicho funcionario examinará los motivos por los que no fue posible ejercitar la acción y aplicará o promoverá las sanciones que correspondan cuando la causa sea imputable al agente del Ministerio Público encargado de la indagatoria o a otros funcionarios.
 
 ### CAPITULO III. EJERCICIO DE LA ACCION PENAL
 
@@ -1161,7 +1175,7 @@ Una vez ejercitada la acción penal, el ofendido o su representante, con interve
 
 El Ministerio Público promoverá el sobreseimiento y la libertad absoluta del inculpado durante la instrucción o se conformará con la petición que en tal sentido formulen aquél o su defensor, requiriendo en ambos casos la autorización del funcionario que corresponda, cuando se haya probado cualquiera de los extremos que determinan el no ejercicio de la acción penal. Contra este acto del Ministerio Público procede el recurso estipulado en el artículo 130, con la tramitación y efectos que este precepto dispone.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE JULIO DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE JULIO DE 1999)</small>
 
 ### CAPITULO IV. CUERPO DEL DELITO Y PROBABLE RESPONSABILIDAD
 
@@ -1413,7 +1427,9 @@ Procede el recurso de queja contra la omisión del tribunal en resolver oportuna
 
 En el auto de radicación, el juzgador analizará su competencia para conocer del asunto. Si se estima incompetente y no hay detenido, turnará la causa al juez que considere competente, previa audiencia del Ministerio Público. Si hay detenido, dictará las resoluciones que no admiten demora, entre ellas la determinación que menciona el párrafo siguiente, y enviará la causa al juzgador competente, previa audiencia del inculpado y del Ministerio Público. Las cuestiones de competencia que se susciten en esta etapa se resolverán conforme a lo previsto por este Código para los conflictos de competencia en general.
 
-Asimismo, cuando haya detenido examinará el juzgador la legitimidad de la detención, conforme a lo previsto en el párrafo sexto del artículo 16 de la Constitución General de la República. Si aquélla no se ajustó a lo estipulado en los párrafos cuarto, quinto y séptimo de dicho precepto, pondrá al detenido en inmediata libertad, sin perjuicio de que el Ministerio Público solicite nueva orden de aprehensión y continúe el proceso, e informará al Procurador sobre la liberación.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+Asimismo, cuando haya detenido examinará el juzgador la legitimidad de la detención, conforme a lo previsto en el párrafo sexto del artículo 16 de la Constitución General de la República. Si aquélla no se ajustó a lo estipulado en los párrafos cuarto, quinto y séptimo de dicho precepto, pondrá al detenido en inmediata libertad, sin perjuicio de que el Ministerio Público solicite nueva orden de aprehensión y continúe el proceso, e informará al Fiscal General sobre la liberación.
 
 ###### ARTICULO 155.
 
@@ -1433,9 +1449,11 @@ Para los efectos constitucionales y legales que correspondan, se entiende que el
 
 El encargado del reclusorio o del centro de salud asentará en el documento que con este motivo exhiban quienes presentan al detenido, el día y la hora en que lo recibe, así como las condiciones en que ingresa al establecimiento. Para esto último, se dispondrá que el médico del reclusorio examine inmediatamente al presentado y haga constar bajo su más estricta responsabilidad, el estado que guarda en el momento de su ingreso. Lo mismo se hará cuando el inculpado no deba quedar privado de su libertad, si éste mismo lo solicita o el juzgador lo considera conveniente. El resultado del examen se agregará al expediente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTICULO 158.
 
-Si por datos posteriores a su solicitud, el Ministerio Público estima que ya no es procedente una orden de aprehensión o de presentación y ésta no se ha ejecutado aún, pedirá su cancelación con acuerdo del Procurador o del funcionario que por delegación de aquél, haya de resolver.
+Si por datos posteriores a su solicitud, el Ministerio Público estima que ya no es procedente una orden de aprehensión o de presentación y ésta no se ha ejecutado aún, pedirá su cancelación con acuerdo del Fiscal General o del funcionario que por delegación de aquél, haya de resolver.
 
 La cancelación no impide que continúe la averiguación y que posteriormente se solicite de nuevo la orden, salvo que deba sobreseerse el proceso en virtud de la naturaleza del hecho que determine la cancelación. La solicitud del Ministerio Público, una vez confirmada por el superior jerárquico, está sujeta al control jurisdiccional previsto en el artículo 130 de este Código.
 
@@ -1503,7 +1521,7 @@ Cuando se trate de delitos perseguibles por querella, el juzgador podrá promove
 
 ### CAPITULO III. AUTOS DE PROCESAMIENTO Y DE LIBERTAD POR FALTA DE ELEMENTOS PARA PROCESAR
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JULIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 1999)</small>
 
 ###### ARTICULO 169.
 
@@ -1593,11 +1611,15 @@ Las partes disponen de diez días para la presentación de conclusiones, plazo q
 
 Para la presentación de las conclusiones del ofendido, se estará a lo previsto en el artículo 262 de este Código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTICULO 182.
 
-El juez remitirá al Procurador las conclusiones del Ministerio Público cuando sean inacusatorias, se aparten de los resultados que arrojen las pruebas practicadas o no incluyan algún delito probado en la instrucción. El Procurador dispondrá de diez días, a partir del recibo del expediente, para confirmar o sustituir las conclusiones del agente. Transcurrido dicho plazo sin que haya respuesta del Procurador, se entenderá que las conclusiones han sido confirmadas.
+El juez remitirá al Fiscal General las conclusiones del Ministerio Público cuando sean inacusatorias, se aparten de los resultados que arrojen las pruebas practicadas o no incluyan algún delito probado en la instrucción. El Fiscal General dispondrá de diez días, a partir del recibo del expediente, para confirmar o sustituir las conclusiones del agente. Transcurrido dicho plazo sin que haya respuesta del Fiscal General, se entenderá que las conclusiones han sido confirmadas.
 
-Si el Ministerio Público omite la presentación de conclusiones, el juez lo hará saber al Procurador, para que éste formule u ordene la formulación de aquéllas. Si tampoco se presentan dentro de diez días contados desde el aviso al Procurador, se entenderá que las conclusiones del Ministerio Público son inacusatorias.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+Si el Ministerio Público omite la presentación de conclusiones, el juez lo hará saber al Fiscal General, para que éste formule u ordene la formulación de aquéllas. Si tampoco se presentan dentro de diez días contados desde el aviso al Fiscal General, se entenderá que las conclusiones del Ministerio Público son inacusatorias.
 
 Cuando la defensa omita la presentación de conclusiones, se entenderá que el imputado rechaza los cargos que se le hacen.
 
@@ -1643,7 +1665,9 @@ Cuando el inculpado reconozca en la declaración preparatoria su autoría o part
 
 Procede el sobreseimiento, que tiene efectos de sentencia absolutoria, en los siguientes casos:
 
-I. Cuando el Procurador confirme o exprese conclusiones no acusatorias o no formule conclusiones dentro del plazo señalado para ese efecto;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+I. Cuando el Fiscal General confirme o exprese conclusiones no acusatorias o no formule conclusiones dentro del plazo señalado para ese efecto;
 
 II. Cuando esté plenamente comprobado que existe una causa de exclusión del delito o de la responsabilidad en favor del inculpado;
 
@@ -1675,9 +1699,11 @@ Quien impugna puede desistirse del recurso interpuesto.
 
 Si el inculpado y su defensor o el ofendido y su asesor legal discrepan con respecto a la pertinencia de apelar, o bien, acerca del desistimiento del recurso, prevalecerán la decisión del inculpado y del ofendido, en sus casos, a no ser que exista mandamiento legal expreso en otro sentido.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTICULO 192.
 
-El Procurador fijará los lineamientos a los que deba ajustarse el Ministerio Público al combatir las resoluciones desfavorables al interés social que representa, para evitar la formulación sistemática de impugnaciones sin sustento razonable y cuidar de que en aquéllas se expongan y acrediten debidamente los agravios cometidos en la resolución impugnada.
+El Fiscal General fijará los lineamientos a los que deba ajustarse el Ministerio Público al combatir las resoluciones desfavorables al interés social que representa, para evitar la formulación sistemática de impugnaciones sin sustento razonable y cuidar de que en aquéllas se expongan y acrediten debidamente los agravios cometidos en la resolución impugnada.
 
 ###### ARTICULO 193.
 
@@ -1871,7 +1897,7 @@ El tribunal dará entrada al recurso y requerirá al omiso que rinda informe sob
 
 Transcurrido el plazo al que se refiere el párrafo anterior, el tribunal resolverá lo que proceda, aunque no hubiese recibido el informe del juez. Si se estima fundado el recurso, requerirá al faltista para que cumpla inmediatamente su obligación, apercibiéndolo de la sanción que corresponda si persiste el incumplimiento.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE JULIO DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE JULIO DE 1999)</small>
 
 ### CAPITULO VIII. ANULACION DE SENTENCIA EJECUTORIADA
 
@@ -1911,7 +1937,7 @@ Cuando una ley suprima el cuerpo de un delito o modifique la naturaleza, duraci�
 
 ### CAPITULO I. REGLAS GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JULIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 1999)</small>
 
 ###### ARTICULO 221.
 
@@ -2173,7 +2199,7 @@ V. En los demás casos en que la ley lo ordene expresamente.
 
 Cuando se presente una causa de suspensión, el juez hará la declaratoria respectiva. Cualquiera de las partes podrá promover la suspensión del procedimiento. En todo caso, ésta se resolverá por separado del principal, con audiencia de las partes o sólo de sus representantes, según la naturaleza del motivo que determine la suspensión. En la audiencia, las partes presentarán las pruebas que consideren pertinentes y alegarán lo que a su derecho convenga.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JULIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 1999)</small>
 
 ###### ARTICULO 254.
 
@@ -2241,7 +2267,7 @@ En los casos de suspensión del procedimiento por demencia del inculpado o sustr
 
 ### CAPITULO II. PROCEDIMIENTOS RELATIVOS A INIMPUTABLES Y FARMACODEPENDIENTES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JULIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 1999)</small>
 
 ###### ARTICULO 264.
 
@@ -2355,7 +2381,7 @@ GUILLERMO MALO VELASCO
 
 RUBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 14 DE JULIO DE 1999.
 
@@ -2430,3 +2456,9 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo para su publicació
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+P.O. 19 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
