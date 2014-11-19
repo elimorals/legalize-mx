@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-28-2000-del-pleno-del-consejo-de-la-5913
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-05-23"
-last_updated: "2004-10-15"
+last_updated: "2014-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59132&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2000-05-03"
 ---
 # ACUERDO GENERAL NUMERO 28/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [DOCUMENTOS E INFORMACION QUE DEBEN CONTENER LOS EXPEDIENTES DE PERSONAL, ADSCRITOS A LOS ORGANOS JURISDICCIONALES Y ADMINISTRATIVOS DEL PJF, CON EXCEPCION DE LA SCJN Y TRIBUNAL ELECTORAL]
 
-ACUERDO GENERAL NUMERO 28/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE DETERMINAN LOS DOCUMENTOS E INFORMACION QUE DEBEN CONTENER LOS EXPEDIENTES DE PERSONAL, ASI COMO LA OBLIGACION DE PROPORCIONARLOS QUE TIENEN LOS SERVIDORES PUBLICOS ADSCRITOS A LOS ORGANOS JURISDICCIONALES Y ADMINISTRATIVOS DEL PODER JUDICIAL DE LA FEDERACION, CON EXCEPCION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y DEL TRIBUNAL ELECTORAL
+ACUERDO GENERAL NUMERO 28/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE DETERMINAN LOS DOCUMENTOS E INFORMACIÓN QUE DEBEN CONTENER LOS EXPEDIENTES DE PERSONAL, ASÍ COMO LA OBLIGACIÓN DE PROPORCIONAR LOS QUE TIENEN LOS SERVIDORES PÚBLICOS ADSCRITOS A LOS ÓRGANOS JURISDICCIONALES Y ADMINISTRATIVOS DEL PODER JUDICIAL DE LA FEDERACIÓN, CON EXCEPCIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y DEL TRIBUNAL ELECTORAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE OCTUBRE DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL 44/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 19 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE NOVIEMBRE DE 2014 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 23 de mayo de 2000.
 
@@ -75,7 +77,7 @@ I. Documentación Personal:
 
 8.- Copia certificada de la Cédula de la Clave Unica de Registro de Población (de no contar con ella, deberá solicitarse el trámite en la Dirección General de Recursos Humanos);
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 59/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 59/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2004)</small>
 
 9.- Copia certificada de filiación ante la Secretaría de Hacienda y Crédito Público y/o Secretaría de la Función Pública, (de no contar con ella, deberá solicitarse el trámite en la Dirección General de Recursos Humanos);
 
@@ -87,7 +89,7 @@ I. Documentación Personal:
 
 13.- Certificado médico original, expedido por cualquier Institución de Salud Pública, con una antigüedad no mayor de tres meses respecto de la fecha de ingreso. En el caso de los servidores públicos domiciliados en el Distrito Federal el certificado también puede ser expedido por el Servicio Médico del Consejo de la Judicatura Federal; y,
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 59/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 59/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2004)</small>
 
 14.- Escrito en el que, bajo protesta de decir verdad, el servidor público manifieste encontrarse en pleno ejercicio de sus derechos y no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año, así como no haber sido sancionado por falta administrativa grave de conformidad con las disposiciones legales en la materia.
 
@@ -95,7 +97,7 @@ II. Documentación Institucional:
 
 1.- Copia certificada de confirmación del aviso de alta al ISSSTE, así como los avisos de modificación de sueldo o de baja correspondientes;
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 59/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 59/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2004)</small>
 
 2.- Original de los acuses de recibo de las credenciales de identificación expedidas por el Consejo de la Judicatura Federal; en caso de robo, copia certificada de la denuncia penal o querella interpuesta ante la autoridad competente; y en caso de extravío, original o copia certificada del escrito en el que, bajo protesta de decir verdad, el servidor público manifieste las causas y circunstancias en que se dio dicho extravío, cuando éstas no hayan sido producto de un acto constitutivo de delito en su perjuicio;
 
@@ -109,7 +111,7 @@ II. Documentación Institucional:
 
 7.- Constancias de percepciones y retenciones anuales expedidas por la Dirección General de Recursos Humanos (en su caso);
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 59/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 59/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2004)</small>
 
 8.- Constancias de descuentos aplicados con motivo de préstamos otorgados por el ISSSTE y/o FOVISSSTE (en su caso);
 
@@ -149,7 +151,7 @@ II. Documentación Institucional:
 
 26.- Autorización de licencia prejubilatoria, en su caso;
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 59/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 59/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2004)</small>
 
 27.- Dictamen de invalidez o incapacidad, en caso de que el ISSSTE hubiese otorgado invalidez o incapacidad total y permanente;
 
@@ -165,7 +167,7 @@ III. Documentación de Disciplina:
 
 2.- Copias de quejas administrativas (acuerdo inicial y acuerdo de resolución);
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 59/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 59/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2004)</small>
 
 3.- Copias de denuncias ante la Comisión Substanciadora Unica del Poder Judicial de la Federación (copia del dictamen de resolución y acuerdo del Pleno);
 
@@ -175,11 +177,11 @@ III. Documentación de Disciplina:
 
 6.- Copias certificadas de diversas sanciones impuestas por el Consejo de la Judicatura Federal y constancia de la notificación correspondiente; y,
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 59/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 59/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2004)</small>
 
 7.- Copias certificadas de las actas administrativas y/o de hechos levantadas en contra del servidor público por los titulares o encargados de cada órgano jurisdiccional o administrativo.
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 59/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 59/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2004)</small>
 
 ###### Artículo 2o.
 
@@ -221,7 +223,7 @@ QUINTO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación 
 
 EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General número 28/2000, del Pleno del Consejo de la Judicatura Federal, por el que se determinan los documentos e información que deben contener los expedientes de personal, así como la obligación de proporcionarlos que tienen los Servidores Públicos adscritos a los Organos Jurisdiccionales y Administrativos del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral, fue aprobado por el Pleno del Consejo de la Judicatura Federal, en sesión de tres de mayo de dos mil, por unanimidad de votos de los señores Consejeros: Presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Enrique Sánchez Bringas, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.- México, Distrito Federal, a cuatro de mayo de dos mil.- Conste.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O.F. 15 DE OCTUBRE DE 2004.
 
@@ -230,3 +232,15 @@ PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- Se deroga cualquier disposición emitida por este Consejo de la Judicatura Federal que se oponga al presente acuerdo.
+
+D.O.F. 19 DE NOVIEMBRE DE 2014.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo.
+
+TERCERO. Se abroga el Acuerdo General número 28/2000 del Pleno del Consejo de la Judicatura Federal, por el que se determinan los documentos e información que deben contener los expedientes de personal, así como la obligación de proporcionarlos (sic) que tienen los Servidores Públicos adscritos a los Órganos Jurisdiccionales y Administrativos del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+QUINTO. Las Direcciones Generales de Recursos Materiales; de Tecnologías de la Información; y de Programación y Presupuesto, en el ámbito de sus respectivas competencias, deberán llevar a cabo las acciones necesarias, para que la Dirección General de Recursos Humanos esté en posibilidad de dar cumplimiento a lo previsto en el presente Acuerdo.
