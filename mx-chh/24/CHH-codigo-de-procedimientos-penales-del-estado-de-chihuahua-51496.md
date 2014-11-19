@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-penales-del-estado-de-chihuahua-51496"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-08-09"
-last_updated: "2014-05-14"
+last_updated: "2014-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CHIHUAHUA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO 276/08 II P.O. SE EXPIDE LA DECLARATORIA DE INCORPORACIÓN DEL NUEVO SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. 30 DE JULIO DE 2008, LA CUAL ENTRARÁ EN VIGOR A PARTIR DE LAS CERO HORAS: 1.- EN EL DISTRITO JUDICIAL MORELOS, DEL 1o. DE ENERO DE 2007; 2.- EN EL DISTRITO JUDICIAL BRAVOS, DEL 1o. DE ENERO DE 2008; 3.- EN EL RESTO DE LOS DISTRITOS JUDICIALES DEL ESTADO, DEL 1o. DE JULIO DE 2008.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2014.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 14 DE MAYO DE 2014 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 1201/2013 X P.E. PUBLICADO EN EL P.O. DE 10 DE MAYO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2014.
 
 Código publicado en el Folleto Anexo al Periódico Oficial del Estado Chihuahua, el miércoles 9 de agosto de 2006.
 
@@ -1015,7 +1013,7 @@ I. Cuando, encontrándose en la audiencia de juicio oral, hubiese actuado como J
 
 II. Cuando hubiera intervenido como representante del Ministerio Público, defensor, denunciante o querellante, hubiera actuado como perito, consultor técnico o conociera del hecho investigado como testigo, o tuviera interés directo en el proceso;
 
-III. Si es cónyuge, conviviente con más de dos años de vida en común, pariente dentro del tercer grado de consanguinidad o afinidad, de algún interesado, o éste viva o haya vivido a su cargo;
+III. Si es cónyuge, conviviente con más de dos años de vida en común, pariente dentro del tercer grado de consanguinidad o afinidad, de algún interesado, o éste viva o haya vIvido a su cargo;
 
 IV. Si es o ha sido tutor o curador, o ha estado bajo tutela o curatela de alguno de los interesados;
 
@@ -1343,7 +1341,7 @@ II. Los dependientes económicos;
 
 III. Los descendientes consanguíneos o civiles;
 
-IV. Los ascendientes consanguíneos o civiles; y (sic)
+IV. Los ascendientes consanguíneos o civiles; y
 
 > <small>(REFORMADA, P.O. 30 DE ENERO DE 2010)</small>
 
@@ -1395,7 +1393,7 @@ IX. Solicitar la reapertura de la investigación cuando se haya decretado el arc
 
 X. Apelar del sobreseimiento;
 
-XI. No ser objeto de información por los medios de comunicación o presentado ante la comunidad sin su consentimiento; y (sic)
+XI. No ser objeto de información por los medios de comunicación o presentado ante la comunidad sin su consentimiento; y
 
 > <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2009)</small>
 
@@ -1859,19 +1857,23 @@ El Ministerio Público podrá dejar sin efecto la detención u ordenar que el de
 
 En todos los casos, el Ministerio Público debe examinar inmediatamente después de que la persona es traída a su presencia, las condiciones en las que se realizó la detención. Si ésta no fue conforme a las disposiciones de la ley, dispondrá la libertad inmediata de la persona y, en su caso, velará por la aplicación de las sanciones disciplinarias o penales que correspondan.
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 165.
 
 Supuestos de flagrancia.
 
-Se encuentra en situación de flagrancia respecto a un hecho delictivo, quien fuere sorprendido al cometerlo o fuere detenido inmediatamente después de la comisión del mismo, tomando en cuenta para ello el tiempo en que ocurrieron los hechos, el lugar y las circunstancias del caso, que permitan presumir, en base al señalamiento o a los hechos, que la persona que se detiene, se encuentra involucrada en el delito.
+Se podrá detener a una persona sin orden judicial en caso de flagrancia. Se entiende que hay flagrancia cuando:
 
-Para el efecto del presente artículo, se entenderá:
+I. La persona es detenida en el momento de estar cometiendo un delito, o
 
-I. La comisión del hecho delictivo, en relación con las formas de consumación del delito en los términos de los artículos 17 y 19 del Código Penal del Estado.
+II. Inmediatamente después de cometerlo es detenida, en virtud de que:
 
-II. Inmediatamente, como el lapso de tiempo comprendido entre el momento de la ejecución del delito y el de la detención, el que podrá realizarse en minutos, horas o incluso días, según las circunstancias del caso, siempre y cuando no se hayan suspendido las actividades de investigación policial tendentes a la localización y detención del probable interviniente.
+a) Es sorprendida cometiendo el delito y es perseguida material e ininterrumpidamente, o
+
+b) Cuando la persona sea señalada por la víctima u ofendido, algún testigo presencial de los hechos o quien hubiere intervenido con ella en la comisión del delito y cuando tenga en su poder instrumentos, objetos, productos del delito o se cuente con información o indicios que hagan presumir fundadamente que intervino en el mismo.
+
+Para los efectos de la fracción II, inciso b), de este precepto, se considera que la persona ha sido detenida en flagrancia por señalamiento, siempre y cuando, inmediatamente después de cometer el delito no se haya interrumpido su búsqueda o localización.
 
 ###### Artículo 166.
 
@@ -2803,7 +2805,7 @@ Podrá determinarse el ingreso a un lugar cerrado sin orden judicial cuando:
 
 I. Por incendio, inundación u otra causa semejante, se encuentre amenazada la vida, integridad física o seguridad de los habitantes o la propiedad;
 
-II. Se denuncie que personas extrañas han sido vistas mientras se introducen en un local, con indicios manifiestos de que pretenden cometer un delito; o (sic)
+II. Se denuncie que personas extrañas han sido vistas mientras se introducen en un local, con indicios manifiestos de que pretenden cometer un delito; o
 
 > <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2007)</small>
 
@@ -3375,7 +3377,7 @@ VII. Los medios de prueba que el Ministerio Público se propone producir en el j
 
 VIII. La pena que el Ministerio Público solicite y los medios de prueba relativos a la individualización de la pena y los relacionados con la improcedencia, en su caso, de sustitutivos de la pena de prisión o la suspensión de la misma;
 
-IX. El daño que, en su caso, se considere se haya causado a la víctima u ofendido y los medios de prueba que ofrezca para acreditar ese daño; y (sic)
+IX. El daño que, en su caso, se considere se haya causado a la víctima u ofendido y los medios de prueba que ofrezca para acreditar ese daño; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE MAYO DE 2011)</small>
 
@@ -4719,7 +4721,7 @@ VII. Las resoluciones denegatorias de prueba, dictadas hasta en el auto de apert
 
 VIII. La negativa de abrir el procedimiento abreviado:
 
-IX. Las que nieguen la posibilidad de celebrar acuerdos reparatorios; y (sic)
+IX. Las que nieguen la posibilidad de celebrar acuerdos reparatorios; y
 
 > <small>(REFORMADA, P.O. 30 DE ENERO DE 2010)</small>
 
@@ -5175,7 +5177,7 @@ Intervención espontánea.
 
 El tercero que pueda ser civilmente demandado podrá solicitar su participación en el procedimiento, cuando se ejerza la acción civil resarcitoria.
 
-Su solicitud deberá cumplir, en lo aplicable, con los requisitos exigidos para el escrito en el que se apersona e (sic) actor civil y será admisible antes de que el Ministerio Público requiera la apertura del juicio o el sobreseimiento.
+Su solicitud deberá cumplir, en lo aplicable, con los requisitos exigidos para el escrito en el que se apersona el actor civil y será admisible antes de que el Ministerio Público requiera la apertura del juicio o el sobreseimiento.
 
 La intervención será comunicada a las partes y a sus defensores.
 
@@ -5273,7 +5275,7 @@ El presente artículo iniciará su vigencia el primero de enero del dos mil siet
 
 P.O. 9 DE JUNIO DE 2007.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL COÓIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
 
 P.O. 13 DE OCTUBRE DE 2007.
 
@@ -5536,3 +5538,9 @@ De conformidad con el Artículo Séptimo, se dispondrán de ciento ochenta días
 ###### ARTÍCULO CUARTO.
 
 El Ejecutivo del Estado realizará las previsiones presupuestales necesarias, para que la Unidad Especializada para la Investigación y Persecución de los Delitos previstos en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, sea elevada a rango de Fiscalía Especializada en el plazo de un año contado a partir de la publicación del presente Decreto, y contará con el mismo término para implementar las acciones necesarias a efecto de dar cabal cumplimiento a las obligaciones previstas en el cuerpo del presente Decreto.
+
+P.O. 19 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
