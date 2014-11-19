@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2014-10-06"
+last_updated: "2014-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE NOVIEMBRE DE 2014.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -101,9 +101,9 @@ XIII. Presidente: Consejero Presidente del Consejo;
 
 XIV. Reglamento conjunto de transparencia: Reglamento de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal para la aplicación de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental; y
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 21 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA POR EL ARTÍCULO DÉCIMO SEGUNDO DEL ACUERDO GENERAL 36/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
 
-XV. Unidades administrativas: Las ponencias de los Consejeros, Oficialía Mayor, secretarías ejecutivas, coordinaciones, Unidad de Implementación de las Reformas Penal, de Juicio de Amparo y Derechos Humanos en el Poder Judicial de la Federación, secretarías técnicas de Comisiones, direcciones generales, así como la Unidad de Enlace del Consejo y el Archivo General del Consejo, y demás que sean autorizadas por el Pleno.
+XV. Unidades administrativas: Las ponencias de los Consejeros, Oficialía Mayor, secretarías ejecutivas, coordinaciones, Unidad de Implementación de las Reformas Penal, de Juicio de Amparo y Derechos Humanos en el Poder Judicial de la Federación, secretarías técnicas de Comisiones, direcciones generales, así como la Unidad de Enlace del Consejo; el Archivo General del Consejo, las Administraciones de los Centros de Justicia Penal, y demás que sean autorizadas por el Pleno.
 
 ###### Artículo 3.
 
@@ -662,6 +662,10 @@ Son atribuciones de la Comisión de Creación de Nuevos Órganos:
 I. Proponer al Pleno, para su aprobación, el proyecto de acuerdo general en el que se determine el número de circuitos en que se divida el territorio de la República, así como fijar sus límites territoriales;
 
 II. Proponer al Pleno, para su aprobación, el proyecto de acuerdo general en el que se determine número y, en su caso, especialización por materia de los órganos jurisdiccionales que deban existir en cada uno de los circuitos a que se refiere la fracción anterior, así como la fecha de iniciación de funciones de éstos;
+
+> <small>(ADICIONADA POR EL ARTÍCULO DÉCIMO SEGUNDO DEL ACUERDO GENERAL 36/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+II Bis. Proponer al Pleno para su aprobación, los acuerdos generales de creación de los Centros de Justicia Penal;
 
 III. Dictar las disposiciones necesarias tendentes a regular el turno de los asuntos de la competencia de los órganos jurisdiccionales, cuando en un mismo lugar haya varios de ellos;
 
@@ -2865,7 +2869,9 @@ XIII. Asesorar y auxiliar a los titulares de los órganos jurisdiccionales y de 
 
 XIV. Coordinar y fomentar las relaciones de los órganos jurisdiccionales y de las áreas administrativas con los medios de comunicación;
 
-XV. Expedir constancias de acreditación a medios de información para tener acceso a las instalaciones del Poder Judicial de la Federación;
+> <small>(REFORMADA POR EL ARTÍCULO DÉCIMO SEGUNDO DEL ACUERDO GENERAL 36/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+XV. Expedir constancias de acreditación a medios de información para tener acceso a las instalaciones del Poder Judicial de la Federación, con excepción de los Centros de Justicia Penal;
 
 XVI. Efectuar investigaciones para conocer el impacto que causa en la sociedad la información proporcionada por medios de comunicación con relación al Poder Judicial de la Federación;
 
@@ -4640,3 +4646,39 @@ D.O.F. 6 DE OCTUBRE DE 2014.
 PRIMERO. El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 19 DE NOVIEMBRE DE 2014.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo previsto en sus artículos QUINTO al OCTAVO transitorios, que entrarán en vigor al día siguiente de la aprobación del mismo.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Los acuerdos generales del Consejo de la Judicatura Federal vigentes a la entrada en vigor del presente Acuerdo serán aplicables a los Centros de Justicia Penal en lo no previsto por éste, siempre y cuando no se opongan al mismo.
+
+CUARTO. Las referencias que se hagan en otros acuerdos generales a los juzgados de Distrito se entenderán hechas a los jueces de Control, de Ejecución y tribunales de enjuiciamiento; y aquellas que se hagan a los tribunales Unitarios de Circuito a los tribunales de Alzada.
+
+QUINTO. La Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, deberá someter, directamente, a consideración del Pleno del Consejo de la Judicatura Federal, los acuerdos generales de creación de los Centros de Justicia Penal, conforme el Congreso de la Unión vaya emitiendo las declaratorias de entrada en vigor del Código Nacional de Procedimientos Penales.
+
+SEXTO. La Coordinación de Seguridad del Poder Judicial de la Federación deberá someter, directamente, a consideración y, en su caso, aprobación del Pleno del Consejo de la Judicatura Federal, los instrumentos normativos que se estimen necesarios, y que deben observarse en los Centros de Justicia Penal cuya creación determine el referido órgano colegiado, antes del inicio de operaciones de los mismos, a fin de que entren en vigor ese mismo día.
+
+SÉPTIMO. La Dirección General de Comunicación Social deberá someter a consideración y, en su caso, aprobación, del Pleno del Consejo de la Judicatura Federal, los lineamientos para la acreditación de periodistas y medios de comunicación, antes del inicio de operaciones del primer Centro de Justicia Penal.
+
+OCTAVO. La Dirección General de Innovación, Planeación y Desarrollo Institucional en coordinación con la Unidad de Implementación de las Reformas Penal, de Juicio de Amparo y Derechos Humanos en el Poder Judicial de la Federación, deberá elaborar el proyecto del manual correspondiente de los Centros de Justicia Penal.
+
+Las áreas administrativas del Consejo brindarán el apoyo y asesoría que sea necesario para la elaboración del proyecto respectivo.
+
+El proyecto correspondiente deberá someterse a la consideración y, en su caso, aprobación del Pleno del Consejo de la Judicatura Federal antes del inicio de operaciones del Centro de Justicia Penal.
+
+El manual aprobado deberá publicarse, antes de su entrada en vigor, en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+NOVENO. Los juzgados de Distrito y tribunales de Circuito competentes para conocer de procedimientos penales que se tramiten conforme al Código Federal de Procedimientos Penales, también lo son para practicar actos procesales que le sean requeridos por jueces de Control o tribunales de Enjuiciamiento o Alzada.
+
+En tanto se crean en cada circuito judicial los Centros de Justicia Penal, los juzgados de Distrito mixtos y especializados en materia penal o de procedimientos penales federales, según la localidad de que se trate, tendrán competencia en sus jurisdicciones territoriales para conocer de las solicitudes de autorización judicial para diligencias urgentes que formule el Ministerio Público respecto de actos y medidas que requieran control judicial, conforme lo dispuesto en el artículo 24 del Código Nacional de Procedimientos Penales.
+
+Para dichos efectos, la Oficialía Mayor, por conducto de las unidades administrativas que le están adscritas, tomará las medidas necesarias para que los juzgados de Distrito y Tribunales de Circuito cuenten con los insumos necesarios para desahogar las diligencias que les sean requeridas en términos del Código Nacional de Procedimientos Penales.
+
+DÉCIMO. Las áreas administrativas del Consejo de la Judicatura Federal, en el ámbito de su competencia, adoptarán las medidas necesarias para la implementación del presente Acuerdo.
+
+DÉCIMO PRIMERO. La creación de los jueces de Ejecución de los Centros de Justicia Penal quedará diferida hasta en tanto se expida la legislación en la materia.
+
+DÉCIMO SEGUNDO. Para efectos del artículo 110 de la Ley Orgánica del Poder Judicial de la Federación los Asistentes de Constancias y Registro de Tribunal de Alzada, Juzgado de Control, y Tribunal de Enjuiciamiento, constituyen una especialización de las categorías de secretarios de tribunal de Circuito y de juzgado de Distrito.
