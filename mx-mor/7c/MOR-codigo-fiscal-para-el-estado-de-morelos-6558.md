@@ -4,7 +4,7 @@ identifier: "MOR-codigo-fiscal-para-el-estado-de-morelos-6558"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-12-27"
-last_updated: "2012-12-26"
+last_updated: "2014-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6558&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FISCAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2014.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 27 de diciembre de 1995.
 
@@ -123,7 +123,7 @@ VIII.- Las que organicen los servicios administrativos para la recaudación, dis
 
 IX.- Las demás leyes, que establezcan ingresos que por cualquier concepto perciba el Estado o los municipios, o excepciones a las mismas, así como las normas relativas del decreto aprobatorio del Presupuesto de Egresos del Estado.
 
-> <small>N. DE E. EN RALACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -949,7 +949,9 @@ X.- Los demás que se establezcan en esta y otras leyes y en los reglamentos.
 
 En el ámbito municipal, las atribuciones enumeradas en las fracciones I y II de este artículo, corresponderán al Síndico del Ayuntamiento; las atribuciones contenidas en las restantes fracciones, a las autoridades municipales en términos de la Ley Orgánica Municipal del Estado; y a falta de disposición expresa al Presidente Municipal.
 
-En materia jurisdiccional o contenciosa administrativa, el contribuyente podrá recibir en forma gratuita la asesoría o el patrocinio legal de la Procuraduría General de Justicia del Estado, por conducto de la Dependencia legalmente competente, siempre que éste así lo requiera y reúna los requisitos que las disposiciones aplicables señalen para la prestación de tales servicios.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+En materia jurisdiccional o contenciosa administrativa, el contribuyente podrá recibir en forma gratuita la asesoría o el patrocinio legal de la Fiscalía General del Estado de Morelos, por conducto de la Dependencia legalmente competente, siempre que éste así lo requiera y reúna los requisitos que las disposiciones aplicables señalen para la prestación de tales servicios.
 
 ###### ARTICULO 72.
 
@@ -2335,7 +2337,7 @@ LIC. MANUEL GONZALEZ JAMESON
 
 RUBRICAS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 16 DE JULIO DE 2008.
 
@@ -2360,3 +2362,9 @@ SEXTO.- Túrnese la presente resolución al Titular del Poder Ejecutivo del Esta
 SÉPTIMO.- El inicio de vigencia de las disposiciones contenidas en fracciones VI y VII del artículo 84 BIS-1 de la Ley General de Hacienda del Estado de Morelos, se dará a partir de la Declaratoria que expida la Secretaría de Hacienda del Estado, por la cual se concluya el proceso de captura, grabación y colocación de la constancia de inscripción al Registro Público Vehicular en las unidades que se encuentran registradas en el padrón vehicular estatal.
 
 OCTAVO.- A partir del inicio de vigencia del presente Decreto, la Secretaría de Seguridad Pública del Gobierno del Estado, tendrá un plazo de 30 días naturales para publicar y difundir entre los Municipios de la Entidad, las Reglas de Operación y rendición de cuentas, aplicables al Fondo a que se refiere el artículo 15 Bis de la Ley de Coordinación Hacendaria del Estado de Morelos.
+
+P.O. 19 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
