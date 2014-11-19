@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-atencion-integral-para-personas-con-discapacidad-en-5615
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2014-10-08"
+last_updated: "2014-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56153&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ATENCIÓN INTEGRAL PARA PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de julio de 2007.
 
@@ -269,15 +269,21 @@ II. La educación en todas sus modalidades;
 
 III. Un empleo digno y remunerado y tener oportunidades de desarrollo laboral, así como capacitación adecuada, de conformidad con su perfil, capacidades y aptitudes;
 
-IV. Las adaptaciones necesarias para la utilización de los servicios públicos de transporte; tener acceso y libre desplazamiento en los lugares públicos, así como facilidades al personal, equipo, animales y cualquier otro instrumento de auxilio;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+IV. Las adaptaciones necesarias para la utilización de los servicios públicos de transporte; tener acceso y libre desplazamiento en los lugares públicos y privados, incluyendo todos los centros educativos del Estado, así como facilidades al personal, equipo, animales y cualquier otro instrumento de auxilio;
 
 V. La recreación, el deporte, la cultura y el turismo;
 
 VI. El Gobierno Estatal y los Ayuntamientos, promoverán al interior de la estructura orgánica de sus respectivas instituciones de administración e impartición de justicia, la disponibilidad de los recursos de comunicación, ayudas técnicas y humanas necesarias para el acceso equitativo de las personas con discapacidad a su jurisdicción;
 
-VIII (SIC). Vivienda digna adaptada a sus necesidades particulares, en términos de lo dispuesto por la Constitución Federal;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
-IX. Al trabajo y la capacitación en términos de igualdad de oportunidades y equidad.
+VII. Vivienda digna adaptada a sus necesidades particulares, en términos de lo dispuesto por la Constitución Federal; y
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+VIII. Al trabajo y la capacitación en términos de igualdad de oportunidades y equidad.
 
 ## TÍTULO SEGUNDO. FACULTADES, ATRIBUCIONES Y OBLIGACIONES
 
@@ -921,6 +927,12 @@ Los edificios públicos que sean construidos a partir del inicio de la vigencia 
 
 Las instalaciones de las empresas privadas deberán contar con facilidades arquitectónicas para sus trabajadores discapacitados.
 
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 64 Bis.
+
+Las instalaciones de todos los centros educativos del Estado deberán contar con las facilidades arquitectónicas para sus educandos con discapacidades.
+
 ###### Artículo 65.
 
 Para facilitar la accesibilidad, en la infraestructura básica, equipamiento urbano y espacios públicos se contemplarán entre otros, los siguientes lineamientos:
@@ -943,9 +955,11 @@ Los Ayuntamientos para la autorización de construcciones, adaptaciones y remode
 
 El Ejecutivo del Estado en el Plan Estatal de Desarrollo, observará las disposiciones sobre facilidades urbanísticas y arquitectónicas a que se refiere esta Ley para las personas con discapacidad, en el programa que regule el desarrollo urbano estatal y en la planificación de lugares públicos.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 69.
 
-Los Ayuntamientos, vigilarán que en las instalaciones para la presentación de espectáculos públicos se reserven áreas preferentes y espacios adecuados para las personas con discapacidad, distinguiéndolos con el logotipo universal de las personas con discapacidad.
+El Ejecutivo del Estado y los Ayuntamientos, vigilarán que en las instalaciones para la presentación de espectáculos públicos se destinen al menos el 5% del total de los lugares, para personas con discapacidad y un acompañante, en lugares de fácil acceso para los mismos cuando así se requiera, distinguiéndolos con el logotipo universal de las personas con discapacidad.
 
 ## TÍTULO QUINTO. DE LOS ESTIMULOS
 
@@ -988,6 +1002,10 @@ En caso de incurrir el infractor en tres ocasiones en la misma falta, se procede
 V.- Multa equivalente de 250 a 300 veces el salario mínimo vigente en el Estado de Morelos, de acuerdo a la gravedad se procederá a la clausura de aquellas empresas, constructoras de conjuntos habitacionales que no brinden las facilidades arquitectónicamente previstas por la presente Ley; y
 
 VI.- Multa equivalente de 100 a 150 veces el salario mínimo vigente en el Estado de Morelos, a propietarios de restaurantes y centros comerciales que no brinden las facilidades arquitectónicas previstas por esta Ley. En caso de reincidencia se aplicará lo estipulado en el segundo párrafo de la fracción III de este artículo.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+Así mismo, dicha multa aumentará al doble cuando se viole lo dispuesto por el artículo 64 bis de la presente Ley.
 
 ###### Artículo 74.
 
@@ -1070,3 +1088,13 @@ PRIMERO. Una vez aprobado el presente Decreto, remítase al Titular del Poder Ej
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE NOVIEMBRE DE 2014.
+
+PRIMERO. Una vez aprobado el presente Decreto, remítase al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERO. Las Instituciones Educativas que no cuenten con la infraestructura adecuada para el acceso y despliegue de las personas con discapacidad, contarán con un plazo de noventa días posteriores a la entrada en vigor del presente Decreto. Aquellas que no cumplan con esta disposición, se harán acreedoras a las sanciones previstas en la Ley.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
