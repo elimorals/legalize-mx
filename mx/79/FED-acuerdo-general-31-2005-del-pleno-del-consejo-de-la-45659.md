@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-31-2005-del-pleno-del-consejo-de-la-45659"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-08-12"
-last_updated: "2005-08-12"
+last_updated: "2014-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45659&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2005-07-06"
 ---
 # ACUERDO GENERAL 31/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, [MODULO DE CONSULTA DE EXPEDIENTES POR INTERNET, RESPECTO DE LOS ASUNTOS DEL CONOCIMIENTO DE LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACION]
 
-ACUERDO GENERAL 31/2005, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE EL MODULO DE CONSULTA DE EXPEDIENTES POR INTERNET, RESPECTO DE LOS ASUNTOS DEL CONOCIMIENTO DE LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACION
+ACUERDO GENERAL 31/2005, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE EL MODULO DE CONSULTA DE EXPEDIENTES POR INTERNET, RESPECTO DE LOS ASUNTOS DEL CONOCIMIENTO DE LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE NOVIEMBRE DE 2014.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 12 de agosto de 2005.
 
@@ -41,7 +41,7 @@ CUARTO.- Los beneficios de la informática no han pasado inadvertidos para el Po
 
 QUINTO.- El derecho a la información a partir de su incorporación al artículo 6 de la Constitución General de la República, mediante reforma de 1977, ha tenido una evolución considerable en la que el Poder Judicial de la Federación ha desarrollado un papel de avanzada y de consolidación del ejercicio de los derechos fundamentales;
 
-SEXTO.- Atendiendo a la transparencia que deben observar los órganos del estado encargados de administrar justicia, y teniendo en cuenta que no se considera confidencial la información que se halle en los registros públicos o en fuentes de acceso público, en términos de lo previsto en los artículos 28, fracción III, párrafo último, de la Ley de Amparo, 107 del Código Federal de Procedimientos Penales y 1068, fracciones II y III, del Código de Comercio, constituye un principio procesal que en las notificaciones por lista, por estrados, por rotulón (sic) o por boletín judicial debe señalarse el nombre de las personas respecto de las cuales se tramita algún derecho en el juicio respectivo, bien sea quejoso, inculpado o cualquiera otra denominación procesal que tengan, pues sólo de esa manera pueden tener conocimiento de la determinación respectiva, de donde se sigue que en la versión impresa o electrónica, se deben conservar los nombres de las partes, sin menoscabo de suprimir los demás datos personales, en la medida en que tal supresión no impida conocer el criterio contenido en la resolución judicial;
+SEXTO.- Atendiendo a la transparencia que deben observar los órganos del estado encargados de administrar justicia, y teniendo en cuenta que no se considera confidencial la información que se halle en los registros públicos o en fuentes de acceso público, en términos de lo previsto en los artículos 28, fracción III, párrafo último, de la Ley de Amparo, 107 del Código Federal de Procedimientos Penales y 1068, fracciones II y III, del Código de Comercio, constituye un principio procesal que en las notificaciones por lista, por estrados, por rotulón o por boletín judicial debe señalarse el nombre de las personas respecto de las cuales se tramita algún derecho en el juicio respectivo, bien sea quejoso, inculpado o cualquiera otra denominación procesal que tengan, pues sólo de esa manera pueden tener conocimiento de la determinación respectiva, de donde se sigue que en la versión impresa o electrónica, se deben conservar los nombres de las partes, sin menoscabo de suprimir los demás datos personales, en la medida en que tal supresión no impida conocer el criterio contenido en la resolución judicial;
 
 SEPTIMO.- Conforme al artículo 3, fracción II, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, los datos personales se refieren a la información concerniente a una persona física, identificada o identificable, entre otra, la relativa a su origen étnico o racial, o que esté referida a las características físicas, morales o emocionales, a su vida afectiva y familiar, domicilio, número telefónico, patrimonio, ideología y opiniones políticas, creencias o convicciones religiosas o filosóficas, los estados de salud físicos o mentales, las preferencias sexuales, u otras análogas que afecten su intimidad;
 
@@ -57,7 +57,9 @@ En consecuencia, a fin de normar este sistema de consulta, con fundamento en las
 
 ACUERDO
 
-PRIMERO.- Los listados de captura de datos de los asuntos del conocimiento de los tribunales de Circuito y juzgados de Distrito del Poder Judicial de la Federación, se publicarán para su consulta en el medio de comunicación informático denominado Internet.
+> <small>(REFORMADO POR EL ARTÍCULO OCTAVO DEL ACUERDO GENERAL 36/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+PRIMERO.- Los listados de captura de datos de los asuntos del conocimiento de los tribunales de Circuito y juzgados de Distrito del Poder Judicial de la Federación, con excepción de los que formen parte de los Centros de Justicia Penal, se publicarán para su consulta en el medio de comunicación informático denominado Internet.
 
 SEGUNDO.- Tratándose de la materia de Procesos Penales Federales, el listado de captura comprenderá a partir de la declaración preparatoria y se excluirán los datos personales del inculpado; así como los acuerdos asociados y todos aquellos expedientes que se encuentren en archivo provisional, con motivo del sigilo que se debe guardar al respecto.
 
@@ -72,3 +74,41 @@ PRIMERO.- El presente acuerdo entrará en vigor el día de su publicación en el
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en dos diarios de circulación nacional.
 
 EL MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 31/2005, del Pleno del Consejo de la Judicatura Federal, que Establece el Módulo de Consulta de Expedientes por Internet, Respecto de los Asuntos del Conocimiento de los Tribunales de Circuito y Juzgados de Distrito del Poder Judicial de la Federación, fue aprobado por el Pleno del propio Consejo, en sesión de seis de julio de dos mil cinco, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Luis María Aguilar Morales, Adolfo O. Aragón Mendía, Elvia Díaz de León D'Hers, María Teresa Herrera Tello y Miguel A. Quirós Pérez.- México, Distrito Federal, a seis de julio de dos mil cinco.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 19 DE NOVIEMBRE DE 2014.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo previsto en sus artículos QUINTO al OCTAVO transitorios, que entrarán en vigor al día siguiente de la aprobación del mismo.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Los acuerdos generales del Consejo de la Judicatura Federal vigentes a la entrada en vigor del presente Acuerdo serán aplicables a los Centros de Justicia Penal en lo no previsto por éste, siempre y cuando no se opongan al mismo.
+
+CUARTO. Las referencias que se hagan en otros acuerdos generales a los juzgados de Distrito se entenderán hechas a los jueces de Control, de Ejecución y tribunales de enjuiciamiento; y aquellas que se hagan a los tribunales Unitarios de Circuito a los tribunales de Alzada.
+
+QUINTO. La Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, deberá someter, directamente, a consideración del Pleno del Consejo de la Judicatura Federal, los acuerdos generales de creación de los Centros de Justicia Penal, conforme el Congreso de la Unión vaya emitiendo las declaratorias de entrada en vigor del Código Nacional de Procedimientos Penales.
+
+SEXTO. La Coordinación de Seguridad del Poder Judicial de la Federación deberá someter, directamente, a consideración y, en su caso, aprobación del Pleno del Consejo de la Judicatura Federal, los instrumentos normativos que se estimen necesarios, y que deben observarse en los Centros de Justicia Penal cuya creación determine el referido órgano colegiado, antes del inicio de operaciones de los mismos, a fin de que entren en vigor ese mismo día.
+
+SÉPTIMO. La Dirección General de Comunicación Social deberá someter a consideración y, en su caso, aprobación, del Pleno del Consejo de la Judicatura Federal, los lineamientos para la acreditación de periodistas y medios de comunicación, antes del inicio de operaciones del primer Centro de Justicia Penal.
+
+OCTAVO. La Dirección General de Innovación, Planeación y Desarrollo Institucional en coordinación con la Unidad de Implementación de las Reformas Penal, de Juicio de Amparo y Derechos Humanos en el Poder Judicial de la Federación, deberá elaborar el proyecto del manual correspondiente de los Centros de Justicia Penal.
+
+Las áreas administrativas del Consejo brindarán el apoyo y asesoría que sea necesario para la elaboración del proyecto respectivo.
+
+El proyecto correspondiente deberá someterse a la consideración y, en su caso, aprobación del Pleno del Consejo de la Judicatura Federal antes del inicio de operaciones del Centro de Justicia Penal.
+
+El manual aprobado deberá publicarse, antes de su entrada en vigor, en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+NOVENO. Los juzgados de Distrito y tribunales de Circuito competentes para conocer de procedimientos penales que se tramiten conforme al Código Federal de Procedimientos Penales, también lo son para practicar actos procesales que le sean requeridos por jueces de Control o tribunales de Enjuiciamiento o Alzada.
+
+En tanto se crean en cada circuito judicial los Centros de Justicia Penal, los juzgados de Distrito mixtos y especializados en materia penal o de procedimientos penales federales, según la localidad de que se trate, tendrán competencia en sus jurisdicciones territoriales para conocer de las solicitudes de autorización judicial para diligencias urgentes que formule el Ministerio Público respecto de actos y medidas que requieran control judicial, conforme lo dispuesto en el artículo 24 del Código Nacional de Procedimientos Penales.
+
+Para dichos efectos, la Oficialía Mayor, por conducto de las unidades administrativas que le están adscritas, tomará las medidas necesarias para que los juzgados de Distrito y Tribunales de Circuito cuenten con los insumos necesarios para desahogar las diligencias que les sean requeridas en términos del Código Nacional de Procedimientos Penales.
+
+DÉCIMO. Las áreas administrativas del Consejo de la Judicatura Federal, en el ámbito de su competencia, adoptarán las medidas necesarias para la implementación del presente Acuerdo.
+
+DÉCIMO PRIMERO. La creación de los jueces de Ejecución de los Centros de Justicia Penal quedará diferida hasta en tanto se expida la legislación en la materia.
+
+DÉCIMO SEGUNDO. Para efectos del artículo 110 de la Ley Orgánica del Poder Judicial de la Federación los Asistentes de Constancias y Registro de Tribunal de Alzada, Juzgado de Control, y Tribunal de Enjuiciamiento, constituyen una especialización de las categorías de secretarios de tribunal de Circuito y de juzgado de Distrito.
