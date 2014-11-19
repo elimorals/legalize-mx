@@ -4,7 +4,7 @@ identifier: "MOR-codigo-procesal-civil-para-el-estado-libre-y-soberano-de-6537"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-10-13"
-last_updated: "2008-03-05"
+last_updated: "2014-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # CODIGO PROCESAL CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-CODIGO PROCESAL CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
+CÓDIGO PROCESAL CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2014.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Morelos, el miércoles 13 de octubre de 1993.
 
@@ -453,9 +453,11 @@ Competencia en juicios concursales. Para conocer de las demandas de la declaraci
 
 Competencia en asuntos de familia. De las cuestiones sobre estado o capacidad de las personas y en general de las cuestiones familiares que requieran intervención judicial, sea cual fuere el interés pecuniario que de ellas dimanare, conocerán los Juzgados de lo Familiar.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 40.
 
-Competencia por Atracción. Corresponde al Pleno del Tribunal Superior de Justicia, conocer de las controversias del orden civil o familiar en las que el Estado de Morelos sea parte, cuando a juicio de Pleno se consideren de importancia trascendente para los intereses de la Entidad, tras oír el parecer del Procurador General de Justicia Estatal.
+Competencia por Atracción. Corresponde al Pleno del Tribunal Superior de Justicia, conocer de las controversias del orden civil o familiar en las que el Estado de Morelos sea parte, cuando a juicio de Pleno se consideren de importancia trascendente para los intereses de la Entidad, tras oír el parecer del Fiscal General del Estado de Morelos.
 
 ### CAPITULO III. De la substanciación y decisión de las competencias
 
@@ -507,9 +509,11 @@ Sanción por el abandono o empleo sucesivo de las cuestiones de competencia. El 
 
 Nulidad de lo actuado ante el Tribunal declarado incompetente. El órgano superior, al resolver la cuestión de competencia, declarará nulo lo actuado ante el juzgado incompetente, con las salvedades que previene el Artículo 28 de este Código.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 48.
 
-Contiendas de jurisdicción. Las controversias suscitadas entre los Tribunales del Estado de Morelos y los Tribunales Federales o los de las demás entidades federativas, serán resueltos por la Suprema Corte de Justicia de la Nación, conforme al artículo 106 de la Constitución Política de los Estados Unidos Mexicanos y previa la substanciación que señalan los artículos 31, 32, 33 y 36 del Código Federal de Procedimientos Civiles, tras oír el parecer del Procurador General de Justicia Estatal.
+Contiendas de jurisdicción. Las controversias suscitadas entre los Tribunales del Estado de Morelos y los Tribunales Federales o los de las demás Entidades Federativas, serán resueltos por la Suprema Corte de Justicia de la Nación, conforme al artículo 106, de la Constitución Política de los Estados Unidos Mexicanos y previa la substanciación que señalan los artículos 31, 32, 33 y 36, del Código Federal de Procedimientos Civiles, tras oír el parecer del Fiscal General del Estado.
 
 ### CAPITULO IV. Capacidad subjetiva
 
@@ -7623,7 +7627,7 @@ ALFREDO DE LA TORRE Y MARTINEZ
 
 Rúbricas
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 6 DE SEPTIEMBRE DE 2000.
 
@@ -7700,3 +7704,9 @@ El presente decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Aprobado que sea, remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos previstos en los artículos 44 y 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 19 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
