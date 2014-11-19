@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-impulso-al-conocimiento-competitividad-e-innovacion-1036
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-15"
-last_updated: "2014-11-15"
+last_updated: "2014-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE IMPULSO AL CONOCIMIENTO, COMPETITIVIDAD E INNOVACIÓN TECNOLÓGICA PARA EL DESARROLLO DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial, el sábado 15 de noviembre de 2014.
 
@@ -639,13 +639,19 @@ III. Dos titulares de las Instituciones de Educación Superior más importantes 
 
 IV. El Titular de uno de los Centros Públicos de Investigación más importantes en el Estado de Chihuahua, mismo que será invitado por el Consejo General.
 
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+V. Un empresario representante del sector productivo, designado de entre los seis a que se refiere el último párrafo del presente artículo.
+
 Además contará con un Secretario, que será el Director General, con voz pero sin voto.
 
 En caso de ausencia, los titulares podrán nombrar a un suplente con nivel no inferior a Subsecretario o equivalente, que cuente con capacidad de decisión institucional.
 
 El Reglamento Interior del Instituto establecerá el mecanismo de definición de los integrantes de la Junta Directiva que comprenden las fracciones III y IV anteriores, la formalidad y periodicidad de las sesiones de la Junta Directiva, que no podrá ser menor a seis veces al año, los mecanismos para la toma y validez de sus resoluciones, así como las facultades de sus integrantes en el funcionamiento y operación de la misma.
 
-Así mismo, contará con la presencia permanente de seis empresarios representantes del sector productivo que tengan cobertura y representatividad estatal, nombrados en los términos del reglamento interior, quienes únicamente tendrán derecho a voz.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+Así mismo, contará con la presencia permanente de seis empresarios representantes del sector productivo que tengan cobertura y representatividad estatal, nombrados en los términos del reglamento interior, uno de los seis formará parte de la Junta Directiva, con derecho a voz y voto, los cinco restantes únicamente tendrán derecho a voz.
 
 ###### Artículo 22.
 
@@ -1278,3 +1284,11 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veintiocho días del mes de octubre del año dos mil catorce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. RAYMUNDO ROMERO MALDONADO. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
