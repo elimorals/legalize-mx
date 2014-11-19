@@ -4,7 +4,7 @@ identifier: "MOR-estatuto-organico-de-la-comision-estatal-de-arbitraje-medico-69
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-07-29"
-last_updated: "2011-06-22"
+last_updated: "2014-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69305&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # ESTATUTO ORGANICO DE LA COMISION ESTATAL DE ARBITRAJE MEDICO
 
-ESTATUTO ORGANICO DE LA COMISION ESTATAL DE ARBITRAJE MEDICO
+ESTATUTO ORGÁNICO DE LA COMISIÓN ESTATAL DE ARBITRAJE MÉDICO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2014.
 
 Estatuto publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de julio de 2009.
 
@@ -87,7 +87,7 @@ VI. Comisaría Pública, y
 
 VII. Las unidades administrativas que se precisan en el presente ordenamiento y los manuales de organización.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 5.
 
@@ -113,11 +113,13 @@ La Junta de Gobierno es el órgano supremo de la Comisión, y su integración y 
 
 Las sesiones de la Junta de Gobierno se sujetarán a lo dispuesto en el artículo 13 del Decreto, y se llevarán a cabo de conformidad al Acuerdo que establece los lineamientos para la convocatoria y desarrollo de las sesiones ordinarias o extraordinarias de los órganos colegiados de la administración central y de los organismos auxiliares que integran el sector paraestatal del Estado de Morelos.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 8.
 
-El Presidente de la Junta de Gobierno nombrará de entre sus integrantes al Secretario Técnico, el cual tendrá las funciones establecidas en el artículo 15 del Decreto.
+La Junta de Gobierno designará y cambiará a propuesta del Presidente, su Secretario Técnico, en su caso, de entre personas ajenas a la Comisión, el cual podrá ser integrante o no de la Junta de Gobierno. El Secretario Técnico tendrá las funciones establecidas en el artículo 15, del Decreto.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE JUNIO DE 2011)</small>
 
 ### CAPÍTULO IV. DEL COMISIONADO ESTATAL
 
@@ -127,7 +129,7 @@ El Presidente de la Junta de Gobierno nombrará de entre sus integrantes al Secr
 
 El Comisionado Estatal es el representante legal de la Comisión; asimismo, le corresponde el trámite y resolución de todos los asuntos que determine el Decreto. Para tales efectos, ejercerá todas las facultades y obligaciones que resulten necesarias, en términos de lo que expresamente señala el artículo 18 del Decreto.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 10.
 
@@ -181,13 +183,13 @@ XXII. Coordinar las tareas de comunicación social de la Comisión, y
 
 XXIII. Las demás que determinen las disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 11.
 
-Las ausencias temporales del Comisionado Estatal serán cubiertas por el Subcomisionado Médico de la Comisión.
+El Comisionado Estatal será nombrado y removido libremente por el Titular del Poder Ejecutivo Estatal o, previo acuerdo con la Secretaría coordinadora de su sector, dicha designación quedará a cargo de la Junta de Gobierno, en términos de lo dispuesto en el Decreto y en la Ley Orgánica de la Administración Pública del Estado de Morelos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE JUNIO DE 2011)</small>
 
 ### CAPÍTULO V. DE LAS FACULTADES GENÉRICAS DE LOS SUBCOMISIONADOS Y TITULARES DE LAS DIRECCIONES
 
@@ -197,7 +199,7 @@ Las ausencias temporales del Comisionado Estatal serán cubiertas por el Subcomi
 
 Para el adecuado cumplimiento de sus funciones, el Subcomisionado Médico y el Subcomisionado Jurídico contarán con el apoyo de los Asesores Médicos y Jurídicos, a quienes corresponde coadyuvar con su quehacer, según la materia de su especialidad en las ciencias médica y jurídica.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 13.
 
@@ -269,11 +271,11 @@ X. Autorizar por escrito, conforme a las necesidades del servicio y de acuerdo c
 
 XI. Las demás que les confieran otras disposiciones legales aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE JUNIO DE 2011)</small>
 
 ### CAPÍTULO VI. DE LAS FACULTADES ESPECÍFICAS DE LOS SUBCOMISIONADOS Y TITULARES DE LAS UNIDADES ADMINISTRATIVAS ADSCRITAS A LA OFICINA DEL COMISIONADO ESTATAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 15.
 
@@ -413,9 +415,11 @@ XIII. Establecer un sistema de evaluación mediante el cual se mida el desempeñ
 
 XIV. Las demás atribuciones que determinen las disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 18.
 
-El Comisario Público tendrá las funciones que establece la Ley de los Organismos Auxiliares de la Administración Pública del Estado de Morelos.
+El Comisario Público dependerá únicamente de la Junta de Gobierno y tendrá las funciones que establecen la Ley Orgánica de la Administración Pública del Estado de Morelos y demás normativa aplicable.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2011)</small>
 
@@ -521,6 +525,82 @@ IV. Autentificar con su firma las diligencias de notificación personal en que i
 
 V. Las demás que determine el Reglamento.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO VIII. DEL SUBCOMITÉ DE ADQUISICIONES
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 25.
+
+El Subcomité de Adquisiciones de la Comisión se integra de acuerdo a lo dispuesto por el artículo 20, del Reglamento de la Ley sobre Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios del Poder Ejecutivo del Estado de (sic) Libre y Soberano de Morelos, de la siguiente manera:
+
+I. El Comisionado Estatal, quien lo presidirá;
+
+II. La persona Titular de la Dirección de Administración quien fungirá como Secretario Técnico;
+
+III. Un representante del Comité para el Control de Adquisiciones, Enajenaciones, Arrendamientos y Servicios del Poder Ejecutivo del Estado de Morelos, que será el Secretario Ejecutivo de éste último, y
+
+IV. Dos vocales, que serán las personas Titulares de las Unidades Administrativas de la Comisión, designadas por la persona que presida el Subcomité de Adquisiciones.
+
+Además, formará parte del Subcomité de Adquisiciones de la Comisión, el Comisario Público y la persona Titular de la Subcomisión Jurídica, como invitados permanentes.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 26.
+
+Las funciones, forma de sesionar y la operatividad del Subcomité de Adquisiciones de la Comisión se realizará de conformidad con lo dispuesto en la Ley sobre Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios del Poder Ejecutivo del Estado Libre y Soberano de Morelos, su Reglamento y demás disposiciones jurídicas y administrativas aplicables.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO IX. DE LAS SUPLENCIAS
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 27.
+
+Las ausencias temporales no mayores a noventa días del Comisionado Estatal serán cubiertas por el Subcomisionado Médico de la Comisión o, en su caso, por el servidor público inmediato inferior que el Comisionado Estatal designe por escrito.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 28.
+
+Las ausencias temporales hasta por noventa días de las personas titulares de las Unidades Administrativas de la Comisión serán cubiertas por el servidor público que para tal efecto designe el Comisionado Estatal.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 29.
+
+En el caso de ausencia absoluta del Comisionado Estatal, será facultad del Titular del Ejecutivo Estatal nombrar un encargado de despacho, sin perjuicio de la designación definitiva que realice al efecto, de conformidad con lo dispuesto por la Ley Orgánica de la Administración Pública del Estado de Morelos.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 30.
+
+Cuando por cualquier motivo alguna Unidad Administrativa carezca de Titular, el Comisionado Estatal podrá encomendarle las funciones propias del cargo al servidor público que determine, mismo que, sin dejar de desempeñar su cargo original, será designado como encargado del despacho de la Unidad Administrativa que temporalmente se encuentre sin titular, hasta en tanto se realice la designación definitiva, pudiendo desempeñar legalmente las atribuciones que originalmente corresponderían a la persona Titular de la Unidad Administrativa de que se trate, sin que por ello genere mayores derechos o prestaciones de los que legalmente le corresponden por su cargo original.
+
+Lo que también resultará aplicable a la persona que designe el Titular del Ejecutivo Estatal, en su caso, como encargado de despacho de la Comisión.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO X. DE LAS RESPONSABILIDADES
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 31.
+
+Los servidores públicos de la Comisión serán responsables del desempeño de sus funciones, en términos de lo dispuesto por la Ley Estatal de Responsabilidades de los Servidores Públicos y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO XI. DEL RÉGIMEN LABORAL
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 32.
+
+Las relaciones laborales entre la Comisión y sus trabajadores se regirán por lo dispuesto en la legislación aplicable, los Lineamientos y Condiciones Generales de Trabajo, que al efecto establezca la Comisión y demás disposiciones jurídicas aplicables.
+
 ## TRANSITORIOS
 
 PRIMERO. El presente Estatuto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
@@ -545,10 +625,20 @@ DR. VÍCTOR MANUEL CABALLERO SOLANO
 
 RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 22 DE JUNIO DE 2011.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado Libre y Soberano de Morelos.
 
 SEGUNDO. Se derogan todas las disposiciones de igual o menor rango que contravengan al presente Decreto.
+
+P.O. 19 DE NOVIEMBRE DE 2014.
+
+PRIMERA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones de igual o menor rango que contravengan al presente Decreto.
+
+TERCERA. Inscríbase el presente Decreto en el Registro Público de los Organismos Descentralizados del Estado de Morelos, en cumplimiento a lo dispuesto por los artículos 78, penúltimo párrafo, y 86, fracción II, de la Ley Orgánica de la Administración Pública del Estado de Morelos.
+
+CUARTA. Dentro de un plazo de 60 días hábiles, contados a partir de la entrada en vigor del presente Decreto, se deberán modificar los Manuales de Organización, y de Políticas y Procedimientos y demás normativa interna de la Comisión.
