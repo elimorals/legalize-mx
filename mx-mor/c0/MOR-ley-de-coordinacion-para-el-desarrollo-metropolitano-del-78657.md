@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-coordinacion-para-el-desarrollo-metropolitano-del-78657"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-19"
-last_updated: "2014-07-23"
+last_updated: "2014-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78657&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE COORDINACIÓN PARA EL DESARROLLO METROPOLITANO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 19 de enero de 2011.
 
@@ -97,7 +97,7 @@ XV. Zonas. Zonas Metropolitanas;
 
 XVI. Zona Conurbada. Es el territorio que se deriva del crecimiento de los asentamientos humanos que rebasan los límites político-administrativos de dos o más Municipios resultando un área urbana, una ciudad que se extiende por dos o más territorios político-administrativos diferentes entre dos o más centros de población, cuyo centro es el punto de intersección de la línea fronteriza entre ambos;
 
-XVII. Zona Metropolitana. Es el espacio territorial de influencia dominante de un centro de población; enfocado hacia las atribuciones de los Municipios y las Entidades Federativas en cuanto a la Coordinación Intergubernamental e interestatal para su administración; (sic)
+XVII. Zona Metropolitana. Es el espacio territorial de influencia dominante de un centro de población; enfocado hacia las atribuciones de los Municipios y las Entidades Federativas en cuanto a la Coordinación Intergubernamental e interestatal para su administración;
 
 ### CAPÍTULO II. DE LOS ÓRGANOS DE COORDINACIÓN Y SUS FACULTADES
 
@@ -150,6 +150,10 @@ X. El Delegado de la Secretaría del Medio Ambiente y Recursos Naturales en el E
 XI. El Director General del Instituto de Desarrollo y Fortalecimiento Municipal del Estado;
 
 XII. El Titular del Comité de Planeación para el Desarrollo del Estado de Morelos.
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+XIII. El Director General del Instituto Estatal de Protección Civil del Estado.
 
 Todos los integrantes del Consejo tendrán derecho de voz y voto. Por cada integrante propietario del Consejo se nombrará a un suplente, quien deberá estar debidamente acreditado y tendrá los mismos derechos de los titulares.
 
@@ -474,3 +478,9 @@ SEGUNDA.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERA.- En un plazo no mayor de 90 días hábiles el Ejecutivo del Estado, deberá realizar las reformas pertinentes al Reglamento de la Ley de Coordinación para el Desarrollo Metropolitano del Estado de Morelos, en relación a las modificaciones realizadas.
 
 CUARTA.- Se derogan todas las disposiciones legales de igual o menor rango jerárquico que se opongan al presente Decreto. Lo que se hace del conocimiento para los efectos legales correspondientes.
+
+P.O. 19 DE NOVIEMBRE DE 2014.
+
+Primero.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión oficial del Gobierno del Estado de Morelos.
