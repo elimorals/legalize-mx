@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2014-10-08"
+last_updated: "2014-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -33,7 +33,7 @@ SERGIO ALBERTO ESTRADA CAJIGAL RAMÍREZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LI
 
 Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo siguiente:
 
-LA CUADRAGÉSIMA OCTAVA LEGISLATURA DEL CONGRESO DEL ESTADO DE MORELOS, CON FUNDAMENTO EN LO DISPUESTO POR EL ARTICULO 40 FRACCIÓN II DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, Y
+LA CUADRAGÉSIMA OCTAVA LEGISLATURA DEL CONGRESO DEL ESTADO DE MORELOS, CON FUNDAMENTO EN LO DISPUESTO POR EL ARTICULO 40 FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, Y
 
 CONSIDERANDO
 
@@ -613,9 +613,11 @@ La representación del Ayuntamiento o del Presidente Municipal en actos externos
 
 ### CAPÍTULO IV. DE LA ENTREGA RECEPCIÓN
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 28.
 
-Es obligación del Ayuntamiento saliente hacer la entrega formal de los informes e inventarios sobre el patrimonio, mobiliario e inmobiliario, los recursos humanos y financieros, los archivos de carácter administrativo, fiscal y legal, obras públicas, derechos y obligaciones que el gobierno municipal ostente, así como los informes sobre los avances de programas, convenios y contratos de gobierno pendientes o de carácter permanente, dentro de los diez días posteriores a la toma de posesión del Ayuntamiento entrante; la cual se realizará siguiendo los lineamientos, instructivos y formularios que compongan el acta administrativa, tal como lo dispone la legislación aplicable.
+Es obligación del Ayuntamiento saliente hacer la entrega formal de los informes e inventarios sobre el patrimonio, mobiliario e inmobiliario, los recursos humanos y financieros, los archivos de carácter administrativo, fiscal y legal, obras públicas, derechos y obligaciones que el gobierno municipal ostente, así como los informes sobre los avances de programas, convenios y contratos de gobierno pendiente (sic) o de carácter permanente, en un plazo no mayor a quince días hábiles posteriores a la toma de posesión del Ayuntamiento entrante; la cual se realizará siguiendo los lineamientos, instructivos y formularios que compongan el acta administrativa, tal como lo dispone la legislación aplicable.
 
 ## TÍTULO TERCERO. DEL FUNCIONAMIENTO DE LOS AYUNTAMIENTOS
 
@@ -1023,9 +1025,9 @@ XVIII. Asumir el mando de la fuerza pública municipal, excepto en los casos en 
 
 XIX. Solicitar el auxilio de las fuerzas de seguridad pública, autoridades judiciales y ministeriales; así como prestar a éstas el auxilio y colaboración que soliciten para el ejercicio de sus funciones;
 
-> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
-XX. Dictar y ejecutar los acuerdos que sean pertinentes a la tranquilidad pública, así como a la seguridad de las personas y sus propiedades y derechos, ordenando, cuando proceda, clausurar centros, establecimientos y lugares donde se produzcan escándalos, empleen para su funcionamiento a menores de 14 años o que operen de forma clandestina;
+XX. Dictar y ejecutar los acuerdos que sean pertinentes a la tranquilidad pública, así como a la seguridad de las personas y sus propiedades y derechos, ordenando, cuando proceda, clausurar centros, establecimientos y lugares donde se produzcan escándalos, empleen para su funcionamiento a menores de 15 años o que operen de forma clandestina;
 
 > <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2012)</small>
 
@@ -1219,11 +1221,11 @@ Los Planes Municipales de Desarrollo precisarán los objetivos generales, estrat
 
 ###### Artículo 51.
 
-Los Planes de Desarrollo Municipal en municipios que cuenten con población indígena, deberán contener programas y acciones tendientes al crecimiento y bienestar de los pueblos indígenas, respetando sus formas de producción y comercio.
+Los Planes de Desarrollo Municipal, en municipios que cuenten con población indígena, deberán contener programas y acciones tendientes al crecimiento y bienestar de los pueblos indígenas, respetando sus formas de producción y comercio.
 
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 2005)</small>
 
-Así mismo, los Planes de Desarrollo Municipal en municipios que cuenten con población de emigrantes, deberán contener programas y acciones tendientes al fortalecimiento económico, en las formas de producción y comercio, generando el crecimiento y bienestar de la población, tendiente a disminuir el flujo migratorio.
+Así mismo, los Planes de Desarrollo Municipal, en municipios que cuenten con población de emigrantes, deberán contener programas y acciones tendientes al fortalecimiento económico, en las formas de producción y comercio, generando el crecimiento y bienestar de la población, tendiente a disminuir el flujo migratorio.
 
 ###### Artículo 52.
 
@@ -1541,9 +1543,11 @@ IV.- Contar con título y cédula profesional de las carreras de Contador Públi
 
 V.- Tener la experiencia y conocimientos suficientes para el desempeño del cargo; y
 
-> <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 2006)</small>
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
-VI.- Exhibir la póliza de fianza a que se refiere el artículo 79 de este ordenamiento.
+VI.- Tener como mínimo veinticinco años de edad el día de su designación; y
+
+VII.- Exhibir la póliza de fianza a que se refiere el artículo 79 de este ordenamiento.
 
 ###### Artículo 82.
 
@@ -1558,6 +1562,10 @@ III.- Recaudar, guardar, vigilar y promover un mayor rendimiento de los fondos m
 IV.- Establecer los sistemas para cuidar de la puntualidad de los cobros, de la exactitud de las liquidaciones, de la prontitud en el despacho de los asuntos de su competencia y de la debida comprobación de las cuentas de ingresos y egresos;
 
 V.- Organizar y vigilar que se lleven al día y con arreglo a la técnica, la contabilidad del Municipio y las estadísticas financieras del mismo;
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+Lo anterior, tomándose en consideración la Ley General de Contabilidad Gubernamental y los lineamientos y normatividad que emita el Consejo Nacional de Armonización Contable;
 
 VI.- Llevar por sí mismo la caja de tesorería, cuyos valores estarán siempre bajo su inmediato cuidado y exclusiva responsabilidad;
 
@@ -2445,6 +2453,10 @@ Los Ayuntamientos en sus respectivas jurisdicciones, conforme a lo que establece
 
 Los Ayuntamientos podrán otorgar concesiones para la prestación y explotación de los Servicios Públicos Municipales, con sujeción a lo establecido por esta Ley, a las prevenciones contenidas en la concesión, a las que determine el Cabildo, previa aprobación de las dos terceras partes del pleno del Legislativo Local, en el caso, que la concesión comprometa al Municipio, por un plazo mayor al período del Ayuntamiento, y demás disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+No serán objeto de concesión los servicios públicos municipales, de seguridad pública y tránsito, y el archivo, autentificación y certificación de documentos.
+
 ###### Artículo 139.
 
 El otorgamiento de las concesiones para la explotación y prestación de los servicios públicos municipales se sujetará a las siguientes bases:
@@ -2709,7 +2721,7 @@ VII.- Todo aquello que sea necesario para salvaguardar los intereses del Municip
 
 Los convenios que se celebren con Municipios de otra u otras entidades requerirán la autorización de la Legislatura Local y del Congreso o Congresos locales de las mismas, y serán suscritos por el Ejecutivo del Estado. Deberá publicarse en el Periódico Oficial la fecha de entrada en vigor del convenio.
 
-### CAPITULO UNICO
+### CAPÍTULO ÚNICO
 
 ###### Artículo 166.
 
@@ -2815,7 +2827,7 @@ Las licencias temporales podrán otorgarse con goce de sueldo, si así lo determ
 
 ###### Artículo 173.
 
-Sólo el Ayuntamiento en funciones de Cabildo, podrá conceder a sus miembros licencias mayores de quince días, en casos debidamente justificados, en caso de que la separación al cargo solicitada tenga por objeto ejercer el derecho a ser votado a un cargo de elección popular, no requerirá la autorización del Cabildo, sólo se deberá dar aviso por escrito, al Secretario General del Ayuntamiento, para que este ordene al área correspondiente la suspensión del pago de las prerrogativas y prestaciones a que tenga derecho dicho Servidor Público y pueda competir en igualdad de circunstancias.
+Sólo el Ayuntamiento en funciones de Cabildo, podrá conceder a sus miembros licencias mayores de quince días, en casos debidamente justificados, en caso de que la separación al cargo solicitada tenga• por objeto ejercer el derecho a ser votado a un cargo de elección popular, no requerirá la autorización del Cabildo, sólo se deberá dar aviso por escrito, al Secretario General del Ayuntamiento, para que este ordene al área correspondiente la suspensión del pago de las prerrogativas y prestaciones a que tenga derecho dicho Servidor Público y pueda competir en igualdad de circunstancias.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -3149,7 +3161,7 @@ PRIMERO.- Aprobado que sea el presente decreto en los términos de lo dispuesto 
 
 SEGUNDO.- Una vez aprobado por el Constituyente Permanente, el presente Decreto iniciará su vigencia a partir de su publicación de la declaratoria correspondiente en el Periódico Oficial "Tierra y Libertad", órgano de Gobierno del Estado de Morelos.
 
-TERCERO.- El nombre del Municipio de Tlaltizapán pasará a ser el de "TlaItizapán de Zapata" para todos los efectos de personalidad jurídica del municipio.
+TERCERO.- El nombre del Municipio de Tlaltizapán pasará a ser el de "Tlaltizapán de Zapata" para todos los efectos de personalidad jurídica del municipio.
 
 P.O. 11 DE MAYO DE 2011.
 
@@ -3442,6 +3454,86 @@ El Decreto que al efecto se expida, entrará en vigor al día siguiente de su pu
 ###### ARTÍCULO TERCERO.
 
 A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente Decreto.
+
+P.O. 19 DE NOVIEMBRE DE 2014.
+
+DECRETO NO. 1680 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 138 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El decreto que al efecto se expida, entrará en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
+
+P.O. 19 DE NOVIEMBRE DE 2014.
+
+DECRETO NO. 1683 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN V DEL ARTÍCULO 82 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
+
+P.O. 19 DE NOVIEMBRE DE 2014.
+
+DECRETO NO. 1685 POR EL QUE SE REFORMA EL ARTÍCULO 28 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70 fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
+
+P.O. 19 DE NOVIEMBRE DE 2014.
+
+DECRETO NO. 1686 POR EL QUE SE ADICIONA LA FRACCIÓN VI, RECORRIÉNDOSE LA FRACCIÓN VI, PARA QUEDAR COMO VII, DEL ARTÍCULO 81, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70 fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
+
+P.O. 19 DE NOVIEMBRE DE 2014.
+
+DECRETO NO. 1687 POR EL QUE SE REFORMA LA FRACCIÓN XX DEL ARTÍCULO 41 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS.
+
+###### ARTICULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El decreto que al efecto se expida, entrará en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
 
 ###### ARTÍCULO CUARTO.
 
