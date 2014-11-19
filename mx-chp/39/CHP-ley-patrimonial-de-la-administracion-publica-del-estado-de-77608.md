@@ -4,7 +4,7 @@ identifier: "CHP-ley-patrimonial-de-la-administracion-publica-del-estado-de-7760
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-27"
-last_updated: "2010-10-27"
+last_updated: "2014-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77608&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHP"
 ---
 # LEY PATRIMONIAL DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CHIAPAS
 
-LEY PATRIMONIAL DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CHIAPAS
+LEY PATRIMONIAL DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Chiapas, el miércoles 27 de octubre de 2010.
 
@@ -45,39 +45,55 @@ Ley Patrimonial de la Administración Pública del Estado de Chiapas
 
 ### Capítulo Único
 
-###### Artículo 1°.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
-La presente Ley es de orden público e interés general en el Estado de Chiapas, y tiene por objeto regular las acciones relativas al registro, adquisición, incorporación, catálogo, inventario, control, administración, posesión, uso, conservación, mantenimiento, aprovechamiento, destino, enajenación, vigilancia, titulación y afectación del patrimonio del Gobierno del Estado, a cargo del Ejecutivo Estatal.
+###### Artículo 1º.
 
-###### Artículo 2°.
+La presente Ley es de orden público e interés general en el Estado de Chiapas, y tiene por objeto regular las acciones relativas al registro, adquisición, incorporación, catálogo, inventario, control, administración, posesión, uso, conservación, mantenimiento, aprovechamiento, destino, enajenación, vigilancia, titulación y afectación del patrimonio del Gobierno del Estado, a cargo del Ejecutivo Estatal, en términos de las disposiciones que en materia patrimonial establece la Ley General de Contabilidad Gubernamental, el Consejo Nacional de Armonización Contable y demás normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 2º.
 
 Para los efectos de esta Ley, se entenderá por:
 
-I. Administración Centralizada: Integrada por las Dependencias y Unidades Administrativas que se encuentran directamente adscritas al Titular del Ejecutivo Estatal, incluyendo los Órganos Desconcentrados.
+I. Administración Centralizada: A las Dependencias y Unidades Administrativas que se encuentran directamente adscritas al Titular del Ejecutivo Estatal, incluyendo los Órganos Desconcentrados.
 
-II. Administración Paraestatal: integrada por las Entidades que se constituyen como Organismos Descentralizados, los Organismos Auxiliares, las Empresas de participación Estatal y los Fideicomisos Públicos que se organicen de manera análoga a los organismos descentralizados.
+II. Administración Paraestatal: A las Entidades que se constituyen como Organismos Descentralizados, los Organismos Auxiliares, las Empresas de participación Estatal y los Fideicomisos Públicos que se organicen de manera análoga a los organismos descentralizados.
 
 III. Administración Pública: Al régimen gubernamental del Poder Ejecutivo del Estado, dividido en centralizada y paraestatal, según corresponda, en términos de la Ley Orgánica de la Administración Pública del Estado de Chiapas.
 
 IV. Congreso: Al Poder Legislativo del Estado de Chiapas.
 
-V. Dependencias: Parte integrante de la Administración Centralizada.
+V. CONAC: Al Consejo Nacional de Armonización Contable.
 
-VI. Destinatarios: A las instituciones públicas que tienen destinados a su servicio, bienes muebles o inmuebles del Estado, a cargo de la Administración Pública Centralizada.
+VI. Dependencias: A la Administración Centralizada.
 
-VII. Ejecutivo Estatal: Al Poder Ejecutivo del Estado de Chiapas, integrado por la Administración Centralizada y Paraestatal.
+VII. Destinatarios: A las instituciones públicas que tienen destinados a su servicio, bienes muebles o inmuebles del Estado.
 
-VIII. Entidades: Parte integrante de la Administración Paraestatal.
+VIII. Ejecutivo Estatal: Al Poder Ejecutivo del Estado de Chiapas, integrado por la Administración Centralizada y Paraestatal.
 
-IX. Gobernador: Al Titular del Poder Ejecutivo del Estado.
+IX. Entidades: A la Administración Paraestatal.
 
-X. Instituciones Públicas: A las dependencias, entidades y organismos autónomos de los tres órdenes de Gobierno, a los órganos de los poderes Legislativo y Judicial.
+X. Gobernador: Al Titular del Poder Ejecutivo del Estado.
 
-XI. Instituto: Al Instituto de la Consejería Jurídica y de Asistencia Legal.
+XI. Instituciones Públicas: A las dependencias, entidades y organismos autónomos de los tres órdenes de Gobierno, a los órganos de los poderes Legislativo y Judicial.
 
-XII. Ley: A la Ley Patrimonial de la Administración Pública del Estado de Chiapas.
+XII. Instituto: Al Instituto de la Consejería Jurídica y de Asistencia Legal.
 
-XIII. Reglamento: Al Reglamento de la Ley Patrimonial de la Administración Pública del Estado de Chiapas.
+XIII. LGCG: A la Ley General de Contabilidad Gubernamental.
+
+XIV. Ley: A la Ley Patrimonial de la Administración Pública del Estado de Chiapas.
+
+XV. Reglamento: Al Reglamento de la Ley Patrimonial de la Administración Pública del Estado de Chiapas.
+
+XVI. Sistema de Control Patrimonial: Al desarrollo informático de registro y control, implementado por el Instituto de la Consejería Jurídica y de Asistencia Legal, para el registro de los bienes, conforme a la denominación siguiente:
+
+a) SISMAQ: Al Sistema de Control de Maquinaria, Vehículos Fluviales y Semovientes.
+
+b) SISMOB: Al Sistema de Control de Mobiliario y Equipo.
+
+e) SISVEH: Al Sistema de Control Vehicular.
 
 ###### Artículo 3°.
 
@@ -86,6 +102,10 @@ La aplicación e interpretación de la presente Ley, corresponde al Gobernador, 
 ###### Artículo 4°.
 
 La presente Ley se aplicará a todos los bienes del dominio público y privado del Estado de Chiapas, a cargo del Ejecutivo Estatal, con excepción de los bienes regulados por leyes específicas, en cuyo caso, esta Ley podrá aplicarse supletoriamente, siempre y cuando no se oponga a lo señalado en la norma específica conducente.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+En el caso de las Entidades Paraestatales, con independencia de que sometan a su órgano de máxima autoridad, deberán registrar aquellos bienes que por su valor se consideren activo fijo en los Sistemas de Control Patrimonial, en términos de lo dispuesto en la LGCG, la presente Ley; así como la CONAC.
 
 ###### Artículo 5°.
 
@@ -99,7 +119,9 @@ III. Suscribir y formalizar los actos jurídicos relativos al uso temporal de bi
 
 IV. Enajenar, en representación del Gobernador, los bienes inmuebles estatales, previa autorización del Congreso.
 
-V. Conducir la política de administración, uso y destino de bienes muebles e inmuebles estatales y paraestatales.
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+V. Conducir la política de incorporación, asignación, administración, uso y destino de los bienes muebles e inmuebles estatales y paraestatales.
 
 VI. Expedir las normas y procedimientos para la integración y actualización del Sistema de Información de Bienes inmuebles, administrando los sistemas informáticos de control que se constituyan para tales efectos.
 
@@ -453,9 +475,11 @@ III. Antecedentes registrales, que le proporcione el Registro Público de la Pro
 
 IV. Archivo del patrimonio inmobiliario, que estará constituido por el conjunto de expedientes que contienen los documentos originales e información relativos a inmuebles.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 38.
 
-Los organismos de la Administración Paraestatal, deberán remitir al Instituto la información de los inmuebles que adquieran o enajenen con la finalidad de que sea incorporada al Sistema de información de Bienes Inmuebles. Asimismo deberán remitir copia certificada de los documentos que acrediten la propiedad de sus bienes, croquis de ubicación y demás documentos que contengan los expedientes técnicos y en caso de enajenarse, copia de la autorización de su órgano de gobierno y de las escrituras correspondientes.
+Los Organismos de la Administración Paraestatal, deberán remitir al Instituto la información de bienes inmuebles. Asimismo deberán remitir copia certificada de los documentos que acrediten la propiedad de sus bienes, croquis de ubicación, y demás documentos que contengan los expedientes técnicos y en caso de enajenarse, copia de la autorización de su órgano de gobierno y de las escrituras correspondientes, en términos de lo dispuesto por la LGCG y demás normatividad aplicable.
 
 ### Capítulo V. De las Obligaciones de los Destinatarios en Materia de Inmuebles
 
@@ -513,6 +537,10 @@ VI. Afectación a fondos de fideicomisos públicos en los que el Estado, a trav�
 
 VII. Donación a personas morales para la creación de industrias o empresas que fortalezcan el desarrollo económico del Estado, previa validación de la Secretaría de Economía.
 
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+VIII. Donación a Asociaciones Civiles a fin de que utilicen los inmuebles para promover el desarrollo del Estado y sus ayuntamientos, los cuales se sujetaran a lo dispuesto en el Reglamento de la presente Ley.
+
 ###### Artículo 41.
 
 Los actos de enajenación a que se refiere el artículo anterior, surtirán efectos a partir de la publicación en el Periódico Oficial, del Decreto por el cual se autorice a desincorporar del régimen de dominio público del Estado el inmueble de que se trate, con aprobación del Congreso.
@@ -537,6 +565,8 @@ Para tales efectos, el Gobernador, a través del titular del Instituto, deberá 
 
 ### Capítulo I. De las Obligaciones de los Destinatarios en Materia de Muebles
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 44.
 
 Son obligaciones de los destinatarios:
@@ -545,33 +575,37 @@ I. Conservar, cuidar, dar mantenimiento y vigilar los muebles que tenga asignado
 
 II. Acatar las disposiciones que emita el Instituto en materia de administración de muebles.
 
-III. Aplicar los sistemas de control patrimonial emitidos por el Instituto.
+III. Aplicar los Sistemas de Control Patrimonial emitidos por el Instituto.
 
-IV. Capturar en los sistemas de control patrimonial los muebles que adquiera.
+IV. Capturar en los Sistemas de Control Patrimonial los muebles que adquiera.
 
-V. Mantener una adecuada administración de los muebles, ejecutando las altas, bajas y transferencias que se requieran.
+V. Mantener una adecuada administración de los muebles, ejecutando las altas, bajas y transferencias que se requieran, tanto en los Sistemas de Control Patrimonial, como en los registros contables.
 
 VI. Otorgar bajo resguardo a los servidores públicos, los muebles que serán utilizados exclusivamente para el desempeño de sus actividades.
 
-VII. Efectuar levantamientos de inventarios físicos de manera semestral.
+VII. Efectuar levantamiento de inventarios físicos cuando menos una vez al año.
 
-VIII. Presentar denuncias por motivo de daños o robo de bienes muebles y dar seguimiento hasta la conclusión del procedimiento judicial que al efecto se entable.
+VIII. Identificar el origen de los recursos cuando adquieran los bienes muebles.
 
-IX. Requerir a los servidores públicos para que en un plazo de diez días naturales, exhiban los bienes muebles que tienen resguardados, si del resultado del inventario o verificación no fueren localizados.
+IX. Mantener los documentos que acrediten la propiedad de los bienes, realizando en su caso, todas las gestiones para tal efecto, así como mantener actualizados los valores, costos y valuación de los bienes que tienen asignados, de conformidad con la LGCG y las disposiciones del CONAC.
 
-X. Mantener actualizados los expedientes de los muebles que tengan bajo resguardo.
+X. Presentar denuncias por motivo de daños o robo de bienes muebles y dar seguimiento hasta la conclusión del procedimiento judicial que al efecto se entable.
 
-XI. Tramitar el pago de impuestos y derechos vehiculares estatales y federales de cada ejercicio fiscal del parque vehicular activo asignado.
+XI. Requerir a los servidores públicos para que en un plazo de diez días naturales, exhiban los bienes muebles que tienen resguardados, si del resultado del inventario o verificación no fueren localizados.
 
-XII. Prever y administrar los recursos financieros relativos al mantenimiento y conservación de los muebles que tengan asignados.
+XII. Mantener actualizados los expedientes de los muebles que tengan bajo resguardo.
 
-XIII. Dar de baja los muebles cuya vida útil haya cesado e ingresarlos a los Almacenes Generales de Gobierno.
+XIII. Tramitar el pago de impuestos y derechos vehiculares estatales· y federales de cada ejercicio fiscal del parque vehicular activo asignado.
 
-XIV. Otorgar facilidades para la realización de verificaciones por parte del Instituto.
+XIV. Prever y administrar los recursos financieros relativos al mantenimiento y conservación de los muebles que tengan asignados.
 
-XV. Las demás que emanen de leyes, reglamentos y cualquier disposición aplicable en materia de control de bienes muebles.
+XV. Dar de baja los muebles cuya vida útil haya cesado e ingresarlos a los Almacenes Generales de Gobierno.
 
-Los organismos de la Administración Paraestatal podrán, previo acuerdo de su órgano de Gobierno, optar por la instalación de los sistemas de control patrimonial referidos en la presente Ley, sujetándose a las condiciones que se establezcan en su Reglamento.
+XVI. Otorgar facilidades para la realización de verificaciones por parte del Instituto.
+
+XVII. Las demás que emanen de leyes, reglamentos y cualquier disposición aplicable en materia de control de bienes muebles.
+
+Los destinatarios en materia de bienes muebles que vulneren lo contenido en lo dispuesto en el artículo 40 del presente ordenamiento legal, será sujeto a lo establecido por el artículo 51 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas.
 
 ###### Artículo 45.
 
@@ -612,6 +646,10 @@ El Ejecutivo Estatal, bajo el procedimiento que el Instituto establezca, deberá
 ###### Artículo 50.
 
 Previa aprobación de su Órgano de Gobierno, los bienes muebles dados de baja por las Entidades, deberán ser desincorporados, en vía de donación al patrimonio estatal, a cargo de la Administración Centralizada.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+En el entendido que, para los bienes que se encuentran dentro de los Sistemas de Control Patrimonial, al momento de cumplir con los procedimientos de baja conforme a esta Ley y su Reglamento, se entenderán por desincorporados en términos del párrafo anterior.
 
 ## Título Quinto. De la Subasta de Bienes Muebles
 
@@ -661,7 +699,7 @@ Las Instituciones públicas serán las responsables de asegurar los equipos info
 
 ###### Artículo 55.
 
-Las Instituciones públicas estarán obligados (sic) a:
+Las Instituciones públicas estarán obligados a:
 
 I. Asegurar las unidades automotrices ante el Fideicomiso para la Protección de Vehículos Propiedad del Ejecutivo Estatal.
 
@@ -704,3 +742,11 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I, del artículo 42, de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los veinticinco días del mes de octubre del año dos mil diez.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno. Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE NOVIEMBRE DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
