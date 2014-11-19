@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2014-04-21"
+last_updated: "2014-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -275,7 +275,7 @@ XI.- Decomiso, pérdida de instrumentos y objetos relacionados con el delito;
 
 XII.- Tratamiento en internamiento o en libertad de inimputables o de imputables disminuidos;
 
-XIII.- Intervención, remoción, prohibición de realizar determinadas operaciones y extinción de las personas jurídico-colectivas y; (sic)
+XIII.- Intervención, remoción, prohibición de realizar determinadas operaciones y extinción de las personas jurídico-colectivas y;
 
 > <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1309,7 +1309,7 @@ En los demás casos en que espontáneamente se libere al secuestrado, la pena se
 
 (DEROGADO, P.O. 20 DE OCTUBRE DE 2006)
 
-### CAPITULO UNICO (sic). ALLANAMIENTO DE MORADA EN ESTABLECIMIENTO PUBLICO CERRADO
+### CAPITULO UNICO (SIC). ALLANAMIENTO DE MORADA EN ESTABLECIMIENTO PUBLICO CERRADO
 
 ###### ARTICULO 123.
 
@@ -1815,7 +1815,7 @@ Para los efectos penales, se entiende por fraccionar la división de terrenos en
 
 VIII.- El que se haga servir alguna cosa o admita un servicio en cualquier establecimiento comercial, y no pague su importe conforme a los precios usuales o autorizados para establecimientos de su clase;
 
-IX.- Al que por título oneroso, enajene alguna cosa ajena con conocimiento de que no tiene derecho para disponer de ella, o la arrende (sic), hipoteque, empeñe o grave de cualquier forma, si ha recibido el precio, la renta o alquiler, la cantidad en que la grave, parte de ellos o un lucro equivalente o disponga de una cosa propia, como libre, con el conocimiento de que está gravada;
+IX.- Al que por título oneroso, enajene alguna cosa ajena con conocimiento de que no tiene derecho para disponer de ella, o la arrende, hipoteque, empeñe o grave de cualquier forma, si ha recibido el precio, la renta o alquiler, la cantidad en que la grave, parte de ellos o un lucro equivalente o disponga de una cosa propia, como libre, con el conocimiento de que está gravada;
 
 X.- Al que obtenga de otro, una cantidad de dinero o cualquier otro lucro, otorgándole o endosándole a nombre propio o de otro, un documento nominativo, a la orden o al portador contra una persona supuesta o que el otorgante sabe que no ha de pagarlo;
 
@@ -2771,6 +2771,8 @@ Las mismas penas se aplicarán al que, a sabiendas, adquiera indebidamente o hag
 
 ### CAPITULO VI. ENCUBRIMIENTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTICULO 213.
 
 Al que rehusare prestar un servicio de interés público al que la Ley lo obligue o desobedeciere un mandato legítimo de la autoridad, se le impondrá prisión de seis meses a un año o trabajo en favor de la comunidad de tres a seis meses.
@@ -2905,7 +2907,7 @@ Al que favorezca el quebrantamiento de la pena o medida de seguridad, se le impo
 
 ###### ARTICULO 231.
 
-Al que después de la ejecución de la conducta o hecho calificados por la Ley como delito y sin haber participado por éste, auxilie en cualquier forma al inculpado a eludir las investigaciones de la autoridad competente o a sustraerse de la acción de ésta, o bien oculte, altere, destruya o haga desaparecer los rastros, pruebas o instrumentos del delito o asegure para el inculpado el producto o provecho del mismo, se le impondrá prisión de seis meses a dos años.
+Al que después de la ejecución de la conducta o hecho calificados por la Ley como delito y sin haber participado por éste, auxilie en cualquier forma al inculpado a eludir las investigaciones de la autoridad competente o a sustraerse de la acción de ésta, o bien oculte, altere, destruya o haga desaparecer los rastros, pruebas o instrumentos del delito o asegure para el inculpado el producto o provecho del mismo, se le impondrá prisión de uno a tres años y de cincuenta a cien días multa.
 
 La misma pena se aplicará a quien requerido por la autoridad, no dé auxilio para la investigación de los delitos o para la persecución de los delitos.
 
@@ -2923,9 +2925,11 @@ III.- Los que estén ligados al delincuente por amor, respeto, gratitud o estrec
 
 La excusa no favorecerá a quien obre por motivos reprobables o emplee medios delictuosos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTICULO 233.
 
-Se aplicará de seis meses a tres años de prisión y de quince a setenta días multa, al que:
+Se aplicará de uno a tres años de prisión y de cincuenta a cien días multa, al que:
 
 I.- No procure por los medios lícitos que tenga a su alcance impedir la consumación de los delitos que sabe que van a cometerse o se están cometiendo, o no denuncien los que ya se consumaron, si ellos son de los que se persiguen de oficio.
 
@@ -3243,7 +3247,7 @@ IV.- No entregue o impida la entrega oportuna de documentos oficiales, sin media
 
 V.- En ejercicio de sus funciones, ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de la casilla o en lugar donde los propios electores se encuentren formados;
 
-VI.- Al que instale, abra o cierre dolosamente una casilla fuera de los tiempos y formas previstos por la Ley de la materia; y (sic)
+VI.- Al que instale, abra o cierre dolosamente una casilla fuera de los tiempos y formas previstos por la Ley de la materia; y
 
 VII.- Al que expulse de la casilla electoral sin causa justificada al representante de un partido político.
 
@@ -3267,7 +3271,7 @@ III.- Sustraiga, destruya, altere o haga uso indebido de documentos oficiales de
 
 IV.- Obstaculice el desarrollo normal de la votación sin mediar causa justificada, o ejerza violencia física o moral sobre los funcionarios electorales;
 
-V.- Propague dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto a los resultados oficiales contenidos en las actas de escrutinio y cómputo; o (sic)
+V.- Propague dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto a los resultados oficiales contenidos en las actas de escrutinio y cómputo; o
 
 VI.- Impida con violencia la instalación, apertura o cierre de una casilla o la abra o cierre fuera de los tiempos previstos por la Ley de la materia.
 
@@ -3461,9 +3465,9 @@ SEGUNDO.- Los procedimientos penales instruidos por el delito de incumplimiento 
 
 P.O. 30 DE JUNIO DE 2009.
 
-DECRETO NUMERO 158, POR EL QUE SE ADICIONA EL CAPITULO VII Y LOS ARTICULOS 113 BIS, TER, QUATER Y QUINQUIES AL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+DECRETO NUMERO 158, POR EL QUE SE ADICIONA EL CAPÍTULO VII Y LOS ARTÍCULOS 113 BIS, TER, QUATER Y QUINQUIES AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
 
-ÚNICO.- El presente Decreta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 P.O. 6 DE OCTUBRE DE 2009.
 
@@ -3654,3 +3658,9 @@ P.O. 21 DE ABRIL DE 2014.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 19 DE NOVIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo y su aplicación estará sujeta al Decreto 121 emitido por la XIV Legislatura.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
