@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-6-2009-del-pleno-del-consejo-de-la-67773"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-03-30"
-last_updated: "2014-11-03"
+last_updated: "2014-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67773&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-02-18"
 
 ACUERDO GENERAL 6/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS BASES PARA QUE LAS ADQUISICIONES, ARRENDAMIENTO DE BIENES MUEBLES, PRESTACIÓN DE SERVICIOS, OBRA PÚBLICA Y LOS SERVICIOS RELACIONADOS CON LA MISMA, SE AJUSTEN A LOS CRITERIOS CONTEMPLADOS EN EL ARTÍCULO 134 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE NOVIEMBRE DE 2014.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 30 de marzo de 2009.
 
@@ -65,11 +65,29 @@ I. Coordinación Regional: La Coordinación de Administración Regional del Cons
 
 II. Areas Operativas: Las Direcciones Generales de Inmuebles y Mantenimiento, de Recursos Materiales y de Servicios Generales, la Coordinación de Administración Regional, las Administraciones Regionales y las Administraciones de Edificios en el Distrito Federal y zona metropolitana del Consejo de la Judicatura Federal;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
 
-III. Area de Adquisiciones: Las Direcciones Generales de Recursos Materiales y de Servicios Generales del Consejo de la Judicatura Federal, según corresponda de acuerdo a su competencia;
+II. BIS. Área administradora del contrato: El área de adquisiciones o de obra según corresponda;
 
-IV. Area de Obras: La Dirección General de Inmuebles y Mantenimiento del Consejo de la Judicatura Federal;
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+II. TER. Áreas asesoras: Las direcciones generales de Recursos Materiales; de Servicios Generales; de Inmuebles y Mantenimiento; y de Tecnologías de la Información, en el ámbito de su competencia;
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+II. QUÁTER. Área requirente: La que solicita o requiere formal u orgánicamente la adquisición o arrendamiento de bienes o la prestación de servicios; así como la obra pública o servicios relacionados con la misma;
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+II. QUINQUIES. Área técnica: El órgano administrativo que cuenta con competencia para resolver sobre especificaciones, características y demás aspectos técnicos de los bienes, servicios, obra pública y servicios relacionados con la misma que solicite el área requirente;
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+III. Área de Adquisiciones: Las direcciones generales de Recursos Materiales; de Servicios Generales; Administradores de Edificios, y la Coordinación de Administración Regional, incluso a través de sus Administraciones Regionales y Delegaciones Administrativas, según corresponda de acuerdo a su competencia;
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+IV. Área de Obras: La Dirección General de Inmuebles y Mantenimiento y, en su caso, los Administradores de Edificios, y la Coordinación de Administración Regional, incluso a través de sus Administraciones Regionales y Delegaciones Administrativas;
 
 V. Asuntos Jurídicos: La Dirección General de Asuntos Jurídicos del Consejo de la Judicatura Federal;
 
@@ -132,6 +150,22 @@ XXI. Programación y Presupuesto: La Dirección General de Programación y Presu
 XXII. Tribunal Electoral: El Tribunal Electoral del Poder Judicial de la Federación; y
 
 XXIII. Testigo Social: Es quien actúa en representación honorífica de la sociedad y con su presencia da testimonio de que un hecho determinado es verdad.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+ARTICULO 2 BIS. ÁREAS ADMINISTRADORA Y TÉCNICA DEL CONTRATO. El área administradora del contrato deberá llevar a cabo la administración, control y seguimiento de los contratos.
+
+El área técnica elaborará las especificaciones técnicas que se deberán incluir en el procedimiento de contratación, evaluará la propuesta técnica de las proposiciones y deberá responder en la junta de aclaraciones, las preguntas que sobre estos aspectos realicen los licitantes.
+
+Cada una de esas áreas podrá tener distinto carácter en un mismo procedimiento de contratación; dicho carácter o caracteres serán especificados en las bases y en el contrato.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+ARTICULO 2 TER. ÁREA REQUIRENTE. Según lo haya solicitado para satisfacer las necesidades del Consejo, el área requirente será responsable, en el ámbito de su competencia, de verificar y validar que los bienes, servicios, obra pública y servicios relacionados con la misma, se entreguen, presten o realicen en la forma y plazo en que fueron contratados.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+ARTICULO 2 QUÁTER. ÁREAS ASESORAS. Las áreas asesoras deberán asesorar a los administradores de edificios y regionales, así como a los delegados administrativos en los procedimientos de contratación que lleven a cabo y, en su caso, a los órganos administrativos.
 
 > <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
 
@@ -347,9 +381,7 @@ Una vez designado el testigo social, éste será contratado por el Consejo confo
 
 > <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
 
-###### ARTICULO 12.
-
-SEPTIMUS. DE LA CONTRATACION DEL TESTIGO SOCIAL. El contrato con el testigo social será abierto y deberá contener:
+ARTICULO 12 SEPTIMUS. DE LA CONTRATACION DEL TESTIGO SOCIAL. El contrato con el testigo social será abierto y deberá contener:
 
 I. La identificación del procedimiento de contratación en el que intervendrá;
 
@@ -373,9 +405,13 @@ Cuando un procedimiento de adjudicación se declare desierto, el testigo social 
 
 El área que tenga a su cargo el procedimiento de adjudicación, proporcionará las facilidades para permitir el acceso a la documentación que soliciten los testigos sociales.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTICULO 13.
 
-CUMPLIMIENTO DE ESTE ACUERDO. La Contraloría tendrá a su cargo las facultades de control e inspección del cumplimiento de las disposiciones contenidas en el presente Acuerdo, en el marco de las atribuciones que establece la Ley y demás disposiciones que emita el Consejo.
+CUMPLIMIENTO DE ESTE ACUERDO. La Contraloría tendrá a su cargo las atribuciones de control, inspección y verificación del cumplimiento de las disposiciones contenidas en el presente Acuerdo, en el marco de las atribuciones que establece la Ley y demás disposiciones aplicables.
+
+Si con motivo del ejercicio de sus atribuciones de verificación advierte irregularidades en un procedimiento de contratación pública, deberá dictar las medidas que estime pertinentes para preservar los principios del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos, incluyendo la solicitud de suspensión del procedimiento al Comité, quien resolverá lo conducente.
 
 ### CAPITULO II. ORGANOS COMPETENTES
 
@@ -803,73 +839,97 @@ En los procedimientos de contratación deberán establecerse los mismos requisit
 
 Corresponderá al Consejo llevar a cabo los procedimientos para contratar las adquisiciones, arrendamientos, obras públicas y servicios que requiera para el cumplimiento de sus atribuciones, por lo que en ningún caso, se podrán contratar terceros para que por su cuenta y orden se realicen tales contrataciones. Así, se evitará crear fideicomisos u otorgar mandatos que puedan evadir lo previsto en este Acuerdo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+ARTICULO 42 BIS. DE LA INVESTIGACIÓN DE MERCADO EN MATERIA DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS. Para estar en condiciones de determinar el presupuesto base y el procedimiento de adjudicación, con la previsión necesaria para no afectar los calendarios del programa de ejecución respectivo, las áreas operativas deberán llevar a cabo la investigación de mercado; por lo que durante su desarrollo se deberá:
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+a) Verificar la existencia de oferta de bienes, arrendamiento y servicios, en la cantidad, calidad y oportunidad requeridas;
+
 > <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
-
-ARTICULO 42 BIS. DE LA INVESTIGACION DE MERCADO. Para estar en condiciones de determinar el presupuesto base y el procedimiento de adjudicación, con la previsión necesaria para no afectar los calendarios del programa de ejecución respectivos, las áreas operativas deberán llevar a cabo una investigación del mercado, por lo que durante su desarrollo se deberá:
-
-a) Verificar la existencia de oferta de bienes, arrendamiento, servicios, obra pública y servicios relacionados con la misma, en la cantidad, calidad y oportunidad requeridas;
 
 b) Verificar la existencia de proveedores a nivel nacional o internacional, con posibilidad de cumplir con sus necesidades de contratación; y
 
-c) Conocer el precio prevaleciente de los bienes, arrendamientos o servicios requeridos, al momento de llevar a cabo la investigación.
-
 > <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
 
-###### ARTICULO 42.
+c) Conocer el precio prevaleciente de los bienes, arrendamientos o servicios requeridos, al momento de llevar a cabo la investigación.
 
-TER. OBJETO DE LA INVESTIGACION DE MERCADO. El desarrollo de la investigación de mercado a la que se refiere el artículo que precede, es la base para determinar el precio estimado de bienes y servicios, así como el procedimiento de contratación y sirve, de acuerdo a la naturaleza de los bienes, arrendamientos, servicios, obra pública y servicios relacionados con la misma, para establecer en su caso lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
 
-I. Argumentar la procedencia de agrupar varios bienes, trabajos o servicios en una sola partida;
+ARTICULO 42 TER. OBJETO DE LA INVESTIGACIÓN DE MERCADO EN MATERIA DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS. La investigación de mercado a la que se refiere el artículo anterior, es la base para determinar el precio estimado de bienes y servicios, así como el procedimiento de contratación y, de acuerdo a la naturaleza de los bienes, arrendamientos y servicios permite, en su caso, lo siguiente:
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+I. Argumentar la procedencia de agrupar varios bienes o servicios en una sola partida;
+
+> <small>(ADICIONADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
 
 II. Acreditar la aceptabilidad del precio conforme el cual se realizará la contratación de que se trate;
 
-III. Fijar en las bases de contratación los rangos de referencia de bienes, obra o servicios;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+III. Fijar en las bases de contratación los rangos de referencia de bienes o servicios;
+
+> <small>(ADICIONADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
 
 IV. Justificar la existencia de bienes alternativos o sustitutos técnicamente razonables;
 
+> <small>(ADICIONADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
+
 V. Justificar la existencia de bienes usados y reconstruidos en condiciones apropiadas de operación y mantenimiento, para lo cual se deberá acreditar que estos gastos resulten más convenientes para el Consejo que la adquisición de bienes nuevos; y
 
-VI. Justificar la conveniencia de efectuar un procedimiento de contratación internacional abierto, cuando se acredite fehacientemente que en el territorio nacional no existe proveedor, contratista o prestador de servicios que esté en aptitud de atender el requerimiento del Consejo, en lo que respecta a cantidad, calidad y oportunidad, o que el precio no es aceptable.
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+VI. Justificar la conveniencia de efectuar un procedimiento de contratación internacional abierto, cuando se acredite fehacientemente que en el territorio nacional no existe proveedor o prestador de servicios que esté en aptitud de atender el requerimiento del Consejo, en lo que respecta a cantidad, calidad y oportunidad, o que el precio no es aceptable.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+ARTICULO 42 QUÁTER. ELABORACIÓN DE LA INVESTIGACIÓN DE MERCADO EN MATERIA DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS. La investigación de mercado se efectuará considerando las condiciones en cuanto a los plazos y lugar de entrega de los bienes y prestación de servicios; la moneda a cotizar, forma y términos de pago; características técnicas de los bienes o servicios; y las demás circunstancias que resulten aplicables y que permitan la comparación objetiva entre los mismos en iguales condiciones o de la misma naturaleza y se realizará empleando, por lo menos, dos de los medios siguientes:
+
+I. Información disponible en CompraNet;
+
+II. Respuesta a la solicitud escrita o electrónica dirigida a los proveedores y prestadores de servicios;
+
+III. Información obtenida de organismos especializados de carácter público, social o privado; agrupaciones, asociaciones, cámaras, colegios, o sociedades, industriales, comerciales, de servicios, profesionales, científicas y académicas; y fabricantes, proveedores de bienes o prestadores de servicios;
+
+IV. Información disponible en internet; y
+
+V. Histórico de procedimientos de adjudicación realizados con anterioridad, considerando como máximo los dos ejercicios anteriores, con la correspondiente actualización al Índice Nacional de Precios al Consumidor.
+
+En todos los supuestos se deberá dejar constancia en el expediente de las solicitudes y respuestas, así como de la información utilizada, que deberá precisar su fuente con exactitud.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+ARTICULO 42 QUINTUS. VIGENCIA DE LA INVESTIGACIÓN DE MERCADO, EN MATERIA DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS. La investigación de mercado no podrá tener una antigüedad mayor a un año contado a partir del momento de su formulación y hasta el acto de recepción y apertura de las ofertas del procedimiento de adjudicación. Para la realización de dicho acto y con base en esa vigencia, el área operativa deberá tomar en cuenta la naturaleza de los bienes, arrendamientos y servicios a adjudicar. La investigación de mercado que se utiliza como base para la convocatoria de éstos, deberá tomar en consideración la correspondiente actualización al Índice Nacional de Precios al Consumidor.
 
 > <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
-
-###### ARTICULO 42.
-
-QUATER. ELABORACION DE LA INVESTIGACION DE MERCADO. La investigación de mercado se efectuará considerando las mismas condiciones en cuanto a los plazos y lugar de entrega de los bienes, prestación de servicios, realización de las (sic) obra pública y prestación de servicios relacionados con la misma; la moneda a cotizar, forma y términos de pago; características técnicas de los bienes o servicios y las demás circunstancias que resulten aplicables y que permitan la comparación objetiva entre los mismos en iguales condiciones o de la misma naturaleza y se realizará empleando por lo menos cuatro de los medios siguientes:
-
-a) Solicitud escrita dirigida a los proveedores, prestadores de servicios y contratistas. En estos casos deberá integrarse a la investigación, tanto la solicitud como la respuesta obtenida misma que debe ser vigente;
-
-b) La obtenida de organismos especializados; de cámaras, colegios de profesionales, asociaciones o agrupaciones industriales, comerciales o de servicios, o bien de fabricantes o proveedores de bienes o prestadores de servicio, dejando la constancia de la solicitud y de las respuestas obtenidas;
-
-c) Consultas vía Internet a los proveedores, prestadores de servicios y contratistas dejando constancia en el expediente de las búsquedas y en su caso de los correos electrónicos donde se haya solicitado la información, dejando constancias de las mismas, los acuses de recibo electrónico y otros relacionados;
-
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
-
-d) Vía telefónica, mediante llamada a proveedores, contratistas o prestadores de servicios, para tal efecto el servidor público, deberá dejar constancia escrita en el expediente de por lo menos los datos siguientes: número telefónico, fecha, hora, asunto, nombre del proveedor, de la persona que atendió la llamada, y del resultado obtenido de la misma;
-
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
-
-e) Histórico de procedimientos de adjudicación realizados con anterioridad; y
-
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
-
-f) Información disponible en CompraNet.
-
-> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
-
-ARTICULO 42 QUINTUS. VIGENCIA DE LA INVESTIGACION DE MERCADO. La investigación de mercado no podrá tener una antigüedad mayor a cuatro meses, contados a partir del momento de su formulación y hasta el acto de recepción y apertura de las ofertas del procedimiento de adjudicación de que se trate; vigente la investigación para dicho acto, el área operativa tomará en cuenta para la fecha de su realización en dicho periodo, la naturaleza de los bienes, arrendamientos, trabajos o servicios a adjudicar.
 
 La elaboración de la investigación de mercado es responsabilidad del área requirente y del área contratante, la investigación y su resultado deberán documentarse e integrarse al expediente de contratación correspondiente.
 
-El área requirente deberá proporcionar al área contratante, toda la documentación relativa a las investigaciones que haya realizado, atendiendo a los criterios de transparencia, coordinación y simplificación administrativa.
-
 > <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
 
-###### ARTICULO 42.
+El área requirente deberá proporcionar al área contratante, toda la documentación relativa a las investigaciones que haya realizado, atendiendo a los criterios de transparencia, coordinación y simplificación administrativa.
 
-SEXTUS. DEL ANALISIS PREVIO DE LA FORMA DE CONTRATACION Y DETERMINACION DEL PRESUPUESTO EN MATERIA DE OBRA PUBLICA. Tratándose de Obra Pública, previo al procedimiento de adjudicación, el Area de Obras, conforme a los criterios que tenga autorizados, determinará el tipo de contrato de los señalados en el artículo 110 de este Acuerdo General, que resulte el más adecuado para la ejecución de los trabajos.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
 
-Asimismo, realizará las investigaciones de mercado necesarias conforme a las disposiciones de este Acuerdo General antes señaladas y los procedimientos que hayan sido autorizados, para determinar el presupuesto base al que se refiere el artículo 61 de este instrumento.
+ARTICULO 42 SEXTUS. TIPO DE CONTRATO E INVESTIGACIÓN DE MERCADO EN MATERIA DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS. Previo al procedimiento de adjudicación y conforme a los criterios que tenga autorizados, el área de obras determinará el tipo de contrato de entre los señalados en el artículo 110 de este Acuerdo, de modo que resulte aplicable el más adecuado para la ejecución de los trabajos de la obra pública. Asimismo, dicha área realizará la investigación de mercado necesaria para determinar el presupuesto base a que se refiere el artículo 61 de este mismo instrumento.
+
+La verificación de la existencia y costo de materiales, mano de obra, maquinaria y equipo, así como de contratistas, a nivel nacional o internacional, y del precio total estimado de los trabajos, se hará tomando en consideración la obra pública que se pretende llevar a cabo. Para tal efecto, la investigación de mercado deberá basarse en la información que se obtenga de cuando menos dos de las fuentes siguientes:
+
+I. En CompraNet;
+
+II. De agrupaciones, asociaciones, cámaras, colegios, entidades, instituciones y organismos especializados en el ramo de la construcción y de servicios relacionados con la misma, de carácter público, social, industrial, comercial, científico y académico;
+
+III. De internet;
+
+IV. La generada por cualquier medio especializado en el ramo de la construcción y servicios relacionados con la misma; y
+
+V. Histórico de procedimientos de adjudicación realizados con anterioridad considerando como máximo los dos ejercicios anteriores, con la correspondiente actualización al Índice Nacional de Precios al Consumidor.
+
+En todos los supuestos se deberá dejar constancia en el expediente de la información utilizada, la que deberá precisar su fuente con exactitud, a fin de que pueda ser verificada.
+
+La investigación de mercado en materia de obra pública no podrá tener una antigüedad mayor a un año contado a partir del momento de su formulación y hasta el inicio del procedimiento de adjudicación. Para la realización de dicho acto y con base en esa vigencia, el área de obras deberá tomar en cuenta la naturaleza de la obra pública a realizar. La investigación de mercado que se utiliza como base para la convocatoria de ésta, deberá tomar en consideración la correspondiente actualización al Índice Nacional de Precios al Consumidor.
 
 > <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
 
@@ -909,7 +969,9 @@ Tanto en materia de adquisiciones, arrendamientos y servicios, como en materia d
 
 ADJUDICACION SIN NECESIDAD DE LICITACION PUBLICA. Las contrataciones materia del presente Acuerdo, que por su monto deban sujetarse a una licitación pública, podrán instaurarse por un procedimiento distinto a éste de conformidad a lo dispuesto en el artículo 134 constitucional, en los siguientes supuestos:
 
-I. Adquisición de mobiliario y equipo de oficina que se obtiene con proveedores idóneos, para lograr la homogeneidad, dichos proveedores se calificarán periódicamente por el Comité, a partir de una revisión comparativa de precios, calidad, oportunidad y relación comercial;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+I. Adquisición de mobiliario y equipo de oficina que se obtiene con proveedores idóneos, para lograr la homogeneidad, dichos proveedores se calificarán por el Comité en la forma y plazo que éste determine, a partir de una revisión comparativa de precios, calidad, oportunidad y relación comercial;
 
 II. Adquisición de bienes de marca determinada, que por sus características técnicas o grado de especialización, resulte conveniente adquirir directamente con el fabricante o distribuidor autorizado, para lo cual deberá obtenerse un dictamen del área correspondiente;
 
@@ -1089,31 +1151,35 @@ REQUERIMIENTO DE LOS ORGANOS ADMINISTRATIVOS Y JURISDICCIONALES PARA LA CONTRATA
 
 (DEROGADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)
 
-> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 55.
 
-EVALUACION LEGAL Y FINANCIERA PARA DETERMINAR LA SOLVENCIA DE LAS PROPUESTAS EN MATERIA DE ADQUISICIONES Y OBRA PUBLICA. La documentación legal y financiera presentada, estará sujeta a un análisis a fin de acreditar, a satisfacción del Consejo, la situación jurídica y la solvencia financiera del participante, para lo cual Asuntos Jurídicos y la Dirección General de Programación y Presupuesto, respectivamente, elaborarán sendos dictámenes resolutivos legal y financiero conforme a las disposiciones generales que al efecto se emitan, las cuales se sujetarán a lo siguiente:
+DICTAMEN LEGAL. Asuntos Jurídicos elaborará dictamen legal para lo cual el licitante deberá proporcionar lo siguiente:
 
-a) Del licitante: Registro Federal de Contribuyentes; nombre y domicilio, así como, en su caso, los de su apoderado o representante que suscribe la propuesta. Tratándose de personas morales, además se señalará la descripción del objeto social de la empresa, identificando los datos de las escrituras públicas y, de haberlas, sus reformas y modificaciones, con las que se acredita la existencia legal de las personas morales, así como el nombre de los socios, y
+I. Nombre de la persona física o razón o denominación social de la persona moral, así como el de su apoderado o representante legal;
 
-b) Del representante legal del licitante que suscribe la propuesta: datos de las escrituras públicas en las que le fueron otorgadas las facultades de representación y su identificación oficial.
+II. Cédula de identificación fiscal o constancia de registro fiscal y domicilio fiscal;
 
-En el caso de licitaciones públicas internacionales, el escrito a que se refiere esta fracción deberá incorporar los datos mencionados en los incisos anteriores o los datos equivalentes, considerando las disposiciones aplicables en el país de que se trate; manifestando por escrito, bajo protesta de decir verdad, que los documentos cumplen con los requisitos necesarios para acreditar la existencia de la persona moral y del tipo o alcances jurídicos de las facultades otorgadas a sus representantes legales.
+III. Objeto social, escritura constitutiva y datos de inscripción de la persona moral, así como sus modificaciones; y nombre, razón o denominación social de socios y accionistas;
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+IV. Identificación oficial vigente de la persona física licitante y, en su caso, de su apoderado o representante legal; y
 
-Los documentos deberán presentarse en original y copia para su cotejo al área operativa que lleve a cabo el procedimiento, para que sean remitidos a Asuntos Jurídicos para su verificación y únicamente por el o los adjudicados, una vez notificados del fallo y en el término de tres días previos para estar en condiciones de celebrar el contrato. En el supuesto de las licitaciones electrónicas y, en su caso, mixtas, la presentación deberá hacerse sin perjuicio de la remisión de la información por CompraNet.
+V. Instrumento en el que constan las facultades del apoderado o representante, así como su identificación oficial vigente.
 
-En el caso de contratistas extranjeros, dicha información deberá contar con la legalización o apostillado correspondiente de la autoridad competente en el país de que se trate, misma que tendrá que presentarse redactada en español, o acompañada de la traducción correspondiente.
+Una vez notificado del fallo, el o los adjudicados deberán presentar al área operativa los documentos a que se refiere este artículo en original y copia para su cotejo.
 
-Para el caso de que el contratista adjudicado no acredite debidamente su existencia legal y la personería de su representante, previo a la firma del contrato, el Consejo iniciará en contra de éste el procedimiento de impedimento al que se refiere el artículo 51 de este ordenamiento legal, independientemente de proceder a adjudicar conforme a lo establecido en el artículo 80 del mismo.
+Los documentos debidamente cotejados serán remitidos a Asuntos Jurídicos para la elaboración del dictamen correspondiente, dentro de los tres días posteriores a la recepción de la totalidad de los mismos.
 
-No será motivo de desechamiento la falta de identificación o de acreditación de la representación de la persona que únicamente entregue la proposición, pero ésta sólo podrá participar durante el desarrollo del acto con el carácter de observador.
+Tratándose de licitantes extranjeros, dichos documentos deberán estar debidamente legalizados o apostillados, y tendrán que presentarse redactados en español, o acompañados de la traducción correspondiente.
 
-> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
+En caso de que el dictamen legal no sea favorable, previo a la firma del contrato, el Consejo iniciará en contra del adjudicado el procedimiento de impedimento al que se refiere el artículo 51 de este ordenamiento, independientemente de proceder a adjudicar conforme a lo establecido en el artículo 80 del mismo.
 
-ARTICULO 55 BIS. EVALUACION DE DOCUMENTACION FINANCIERA PARA DETERMINAR LA SOLVENCIA DE LAS PROPUESTAS EN MATERIA DE ADQUISICIONES Y OBRA PUBLICA. La documentación financiera presentada por los participantes en el procedimiento de adjudicación de que se trate, estará sujeta a un análisis de sus estados de liquidez, solvencia y capital contable, a fin de acreditar a satisfacción del Consejo su capacidad financiera. Para tal efecto Programación y Presupuesto realizará el dictamen correspondiente en base a la normatividad aplicable.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+ARTICULO 55 BIS. DICTAMEN FINANCIERO. Programación y Presupuesto realizará el dictamen financiero con base en este Acuerdo y los criterios que determine el Comité, los cuales deberán precisar, entre otros aspectos, los documentos específicos que se deben solicitar y los plazos a observar para la emisión del dictamen.
+
+La documentación financiera deberá presentarse por los participantes en el procedimiento de adjudicación de que se trate, en el mismo acto de apertura de las propuestas; la que estará sujeta a un análisis de sus estados de liquidez, solvencia y capital contable, a fin de acreditar, a satisfacción del Consejo, su capacidad financiera.
 
 ###### ARTICULO 56.
 
@@ -1121,7 +1187,9 @@ EVALUACION TECNICA EN MATERIA DE ADQUISICIONES Y OBRA PUBLICA. En el dictamen re
 
 Para el caso de la obra pública, la opinión será, además, sobre la experiencia y capacidad de las empresas y sobre las características de los materiales requeridos por las normas de calidad y especificaciones generales y particulares de construcción, conforme lo establecido en las bases o convocatorias respectivas.
 
-La evaluación que se realice deberá contener, por lo menos, los siguientes aspectos:
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+La evaluación que se realice podrá contener los aspectos siguientes:
 
 I. El material, modelo y diseño del producto que los licitantes están ofertando deberá ser real y no similar;
 
@@ -1167,6 +1235,10 @@ a. Que los suministros y utilización de los insumos sean acordes con el proceso
 
 b. Que las características, especificaciones y calidad de los materiales y equipos de instalación permanente, cumplan con los requerimientos de las bases para realizar los trabajos correspondientes.
 
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+En todo caso, en las bases se deberán especificar los aspectos que se tomarán en consideración en la evaluación técnica, pudiendo reducirse o ser distintos a los previstos en este artículo, con el fin de atender las particularidades específicas de la contratación.
+
 ###### ARTICULO 57.
 
 EVALUACION ECONOMICA EN MATERIA DE ADQUISICIONES Y OBRA PUBLICA. En el dictamen resolutivo económico realizado por el área operativa, con base en el estudio pormenorizado de las propuestas económicas presentadas, deberán contenerse los siguientes aspectos:
@@ -1177,9 +1249,13 @@ II. Pronunciamiento sobre si los proveedores cumplen los requisitos solicitados 
 
 III. Análisis comparativo de precios ofertado contra el presupuesto base;
 
-IV. En el caso de obra pública sobre la base de precios unitarios y tiempo determinado, además se deberá verificar:
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
 
-a. Que todos los conceptos que integran la propuesta, se establezca el precio unitario, revisando que las operaciones aritméticas se hayan ejecutado correctamente;
+IV. En el caso de obra pública sobre la base de precios unitarios y tiempo determinado, lo mínimo que se deberá evaluar será:
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+a. Que en todos los conceptos que integran la propuesta, se establezca el precio unitario, revisando que las operaciones aritméticas se hayan ejecutado correctamente; en el supuesto de que una o más contengan errores se efectuarán las correcciones correspondientes por el interesado, siendo así, que el monto correcto será el que se considere para el análisis comparativo de las proposiciones;
 
 b. Que el análisis, cálculo e integración de los precios unitarios, estén estructurados con costo directo, indirecto, financiamiento y utilidad;
 
@@ -1187,7 +1263,9 @@ c. Que los costos directos se integren con los correspondientes a materiales, eq
 
 d. Que los precios básicos de adquisición de los materiales, se encuentren dentro de los parámetros de precios vigentes de mercado;
 
-e. Que los costos básicos de mano de obra, se hayan obtenido aplicando los factores de salario real a sueldos y salarios de técnicos, y trabajadores:
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+e. Que los costos básicos de mano de obra, se encuentren dentro de los parámetros de precios vigentes de mercado;
 
 f. Que los costos horarios por la utilización de maquinaria y equipo de construcción, se determinen por hora efectiva de trabajo;
 
@@ -1195,17 +1273,17 @@ g. Que los análisis de costos directos, indirectos, financiamiento y utilidad s
 
 h. Que el importe total de la propuesta sea congruente con todos los documentos que la integran; e
 
-i. Que los programas específicos de erogaciones de materiales, mano de obra y maquinaria, así como equipo de construcción y de instalación permanente, sean congruentes con el programa de erogaciones de la ejecución general de los trabajos.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+i. Que el programa de erogaciones de los trabajos sea congruente con el programa de ejecución.
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
 
 V. Tratándose de obra pública a precio alzado, además se deberá verificar:
 
-a. Que en todas y cada una de las actividades, se establezca su importe;
+a. Que en todas y cada una de las actividades, se establezca su importe; y
 
-b. Que el importe total de la propuesta sea congruente con todos los documentos que la integran;
-
-c. Que exista congruencia en la red de actividades, la cédula de avances y pagos programados y el programa de ejecución, además de que sea acorde con el procedimiento constructivo; y
-
-d. Que los programas específicos de erogaciones sean congruentes con el programa general de ejecución y que los insumos propuestos correspondan a los períodos de los programas presentados.
+b. Que el importe total de la propuesta sea congruente con todos los documentos que la integran.
 
 ###### ARTICULO 58.
 
@@ -1319,7 +1397,9 @@ II. Contener la indicación de quien convoca, y el tipo de licitación conforme 
 
 III. (DEROGADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)
 
-IV. La descripción general, normas de calidad, cantidad y unidad de medida de los bienes o servicios cuya adquisición o prestación se requiere. En el caso de arrendamiento, la indicación de si es con opción a compra. Adicionalmente, en el caso de obra pública, la descripción general de la obra o del servicio relacionado con ella y el lugar donde se llevará a cabo; y
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+IV. La descripción general, normas de calidad, cantidad y unidad de medida de los bienes o servicios cuya adquisición o prestación se requiere. En el caso de arrendamiento, la indicación de si es con opción a compra. Adicionalmente, en el caso de obra pública, la descripción general de la obra o del servicio relacionado con ella y el lugar donde se llevará a cabo, así como los costos de los bienes, servicios y obra pública a contratar; y
 
 V. La indicación de la fecha, hora y lugar del acto de apertura de propuestas y, en su caso, del acto de aclaraciones y de la visita al lugar en que se prestarán los servicios o se realizará la obra.
 
@@ -1581,6 +1661,14 @@ De detectarse deficiencias en el foliado de las propuestas técnica y económica
 
 En caso de que el licitante entregue información de naturaleza confidencial, deberá señalarlo expresamente por escrito, para los efectos de la normatividad aplicable en materia de Transparencia y Acceso a la Información Pública Gubernamental.
 
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+No será motivo de desechamiento la falta de identificación o acreditación de la persona que únicamente entregue la proposición, pero ésta sólo podrá participar durante el desarrollo del acto con el carácter de observador.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+En el mismo acto de presentación y con el objeto de acreditar su personalidad, los licitantes o sus representantes presentarán, dentro o fuera del sobre o a través del uso de las tecnologías a que se refiere el primer párrafo de este artículo, un escrito en el que su firmante manifieste, bajo protesta de decir verdad, que cuenta con facultades suficientes para comprometerse por sí o por su representada, mismo que contendrá los datos a que se refiere el artículo 55 de este Acuerdo. En el caso de licitaciones públicas internacionales, el escrito deberá contener dichos datos o los equivalentes, considerando las disposiciones aplicables en el país de que se trate. En el supuesto de duda sobre los documentos que deberán requerirse a los licitantes extranjeros para acreditar su personalidad, la convocante solicitará un escrito en el que el licitante manifieste, bajo protesta de decir verdad, que los documentos entregados cumplen con los requisitos necesarios para acreditar la existencia de la persona moral y del tipo o alcances jurídicos de las facultades otorgadas a sus representantes legales.
+
 ###### ARTICULO 75.
 
 PARTICIPACION CONJUNTA. Dos o más personas podrán presentar conjuntamente proposiciones sin necesidad de constituir una sociedad, o nueva sociedad en caso de personas morales, siempre que, para tales efectos, en la propuesta y en el contrato se establezcan con precisión, y a satisfacción del Consejo, las partes de los trabajos o servicios que cada persona se obligará a ejecutar, así como la manera en que se exigirá el cumplimiento de las obligaciones. En este supuesto la propuesta deberá ser firmada por el representante común que para ese acto haya sido designado por el grupo de personas.
@@ -1611,17 +1699,25 @@ Dicha documentación no se solicitará en los procedimientos de adjudicación di
 
 Asimismo, deberán acreditar que sus trabajadores se encuentran inscritos ante el Instituto Mexicano del Seguro Social y el INFONAVIT, así como que no tienen adeudos por concepto de cuotas obrero patronales que deben ser cubiertas a dichos institutos.
 
-> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 77.
 
-APERTURA DE PROPUESTAS. El acto de presentación y apertura de propuestas se realizará en sesión pública que presidirá el servidor público autorizado por el Titular de la Dirección de las Areas de Adquisiciones o de Obras, según corresponda, debiendo contar con la intervención de la Contraloría y de Asuntos Jurídicos, los que actuarán en el ámbito de su respectiva competencia.
+APERTURA DE PROPUESTAS. El acto de presentación y apertura de propuestas se realizará en sesión pública que presidirá el servidor público autorizado por el Titular de la Dirección de las áreas de adquisiciones o de obras, según corresponda, debiendo contar con la intervención de la Contraloría, los que actuarán en el ámbito de su respectiva competencia.
+
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
 
 Las proposiciones que se reciban en el acto de presentación y apertura de las mismas serán revisadas para el sólo efecto de hacer constar la documentación presentada por los licitantes, sin entrar a su análisis técnico, legal o administrativo.
 
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
+
 Los licitantes son los únicos responsables de que sus propuestas sean entregadas en tiempo y forma en el acto de presentación y apertura de proposiciones.
 
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
+
 El servidor público que preside el acto estará facultado para tomar decisiones durante la realización del acto, en los términos de este Acuerdo.
+
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
 
 El acto de apertura de propuestas se realizará conforme a lo siguiente:
 
@@ -1641,7 +1737,11 @@ VI. Por lo menos un licitante, si asistiere alguno, y el servidor público facul
 
 VII. Se levantará acta que servirá de constancia de la celebración del acto de presentación y apertura de las proposiciones, donde se harán constar las propuestas recibidas para su posterior evaluación y el importe de cada una de ellas; el acta será firmada por los asistentes y se pondrá a su disposición o se les entregará copia de la misma; la falta de firma de algún licitante no invalidará su contenido y efectos, poniéndose a partir de esa fecha a disposición de los que no hayan asistido, para efectos de su notificación.
 
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
+
 Cuando los licitantes omitan presentar en el acto de presentación y apertura de propuestas documentos que no afecten su solvencia técnica o económica, o bien, documentos requeridos por el Consejo distintos a los escritos o manifestaciones bajo protesta de decir verdad, que se soliciten al estar previstos en este Acuerdo o el algún otro ordenamiento, cuya omisión debe ser motivo del desechamiento de la propuesta, éste solicitará a los licitantes que proporcionen la documentación en el plazo de tres días hábiles.
+
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
 
 Las propuestas serán devueltas transcurridos diez días hábiles contados a partir de la fecha en que se dé a conocer el fallo de la licitación.
 
@@ -1651,7 +1751,9 @@ Las propuestas serán devueltas transcurridos diez días hábiles contados a par
 
 DICTAMEN DE ADJUDICACION. El Area de Adquisiciones o de Obras según corresponda, para realizar el dictamen de adjudicación analizará lo siguiente:
 
-I. Los dictámenes financiero, técnico, económico y legal deberán estar debidamente fundados y motivados;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+I. Los dictámenes financiero, técnico y económico deberán estar debidamente fundados y motivados;
 
 II. El desarrollo del procedimiento de licitación, considerando las incidencias que se hayan presentado; y
 
@@ -1716,6 +1818,10 @@ III. Cuando los precios propuestos no fueren aceptables, de conformidad con la i
 En caso de ser declarada desierta la licitación, el Secretario de Administración, previo acuerdo con el Oficial Mayor, autorizará iniciar un procedimiento de invitación a cuando menos tres o en su caso el procedimiento de adjudicación directa, para lo cual deberá justificar su determinación.
 
 Tratándose de licitaciones en las que una o varias partidas se declaren desiertas en virtud de los supuestos antes enunciados, se procederá a su contratación mediante adjudicación directa, cuando así lo justifique su monto.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+Lo previsto en este artículo será aplicable al concurso público sumario y a la invitación a cuando menos tres proveedores o contratistas.
 
 > <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
 
@@ -1807,7 +1913,9 @@ Los plazos de presentación de las propuestas se fijarán en cada operación ate
 
 DICTAMEN DE ADJUDICACION. El Area de Adquisiciones o de Obras, según corresponda, para realizar el dictamen de adjudicación analizará lo siguiente:
 
-I. Los dictámenes financiero, técnico, económico y legal, los cuales deberán estar debidamente fundados y motivados;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+I. Los dictámenes financiero, técnico y económico, los cuales deberán estar debidamente fundados y motivados;
 
 II. El desarrollo del procedimiento de invitación considerando las incidencias que se hayan presentado; y
 
@@ -1839,9 +1947,11 @@ SECCION 3a.
 
 ADJUDICACION DIRECTA
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTICULO 92.
 
-DEFINICION. La adjudicación directa es el procedimiento a través del cual se adjudica de manera expedita un contrato a un proveedor o contratista idóneo, previamente seleccionado, a juicio del área operativa que corresponda de conformidad con la fracción III del artículo 16, en virtud de materializarse alguno de los siguientes supuestos:
+DEFINICIÓN. La adjudicación directa es el procedimiento a través del cual se adjudica de manera expedita un contrato a un proveedor o contratista idóneo, previamente seleccionado, a juicio del área operativa que corresponda de conformidad con la fracción V del artículo 16 de este Acuerdo, en virtud de materializarse alguno de los siguientes supuestos:
 
 I. Que el monto de la operación no rebase el parámetro establecido para tal efecto por el Pleno del Consejo;
 
@@ -2113,9 +2223,11 @@ SECCION 1a.
 
 ADJUDICACION DE CONTRATOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTICULO 105.
 
-REQUISITOS PARA ADJUDICAR EL CONTRATO. Una vez hecha la evaluación de las proposiciones el contrato se adjudicará, de entre los participantes, a aquél cuya propuesta resulte solvente porque reúne, conforme a los criterios de adjudicación establecidos en las bases de licitación o invitación correspondiente, las condiciones legales, técnicas y económicas requeridas por el Consejo, y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas.
+REQUISITOS PARA ADJUDICAR EL CONTRATO. Una vez hecha la evaluación de las proposiciones, el contrato se adjudicará de entre los participantes, a aquél cuya propuesta resulte solvente porque reúne, conforme a los criterios de adjudicación establecidos en las bases de licitación o invitación correspondiente, las condiciones técnicas y económicas requeridas por el Consejo, y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas.
 
 Los contratos que se celebren a través de adjudicación directa serán asignados a la persona que ofrezca al Consejo las mejores condiciones en cuanto a precio, calidad, financiamiento, oportunidad y demás características pertinentes, previo estudio de mercado que se realice, en el que deberá incluirse el costo por los servicios adicionales que requiere el Consejo, como son, entre otros, garantías, fletes, instalación y, en algunos casos, capacitación.
 
@@ -2153,7 +2265,7 @@ CONTRATOS ABIERTOS. El Consejo podrá celebrar contratos abiertos para adquirir 
 
 I. Se establecerá la cantidad mínima y máxima de los bienes, arrendamientos o servicios a contratar; o bien, el presupuesto mínimo y máximo que podrá ejercerse. La cantidad o presupuesto mínimo no podrá ser inferior al cuarenta por ciento de la cantidad o presupuesto máximo.
 
-En casos de bienes que se fabriquen en forma exclusiva para el Consejo, la cantidad o presupuesto mínimo que se requiera no podrá ser inferior al ochenta por ciento de la cantidad ] (sic) o presupuesto máximo que se establezca.
+En casos de bienes que se fabriquen en forma exclusiva para el Consejo, la cantidad o presupuesto mínimo que se requiera no podrá ser inferior al ochenta por ciento de la cantidad ] o presupuesto máximo que se establezca.
 
 Se entenderá por bienes de fabricación exclusiva, los que requieren un proceso de fabricación especial determinado por el área especializada del Consejo.
 
@@ -2177,7 +2289,13 @@ Cuando las características, magnitud y complejidad de los trabajos que se vayan
 
 Cuando se cuente con proyectos integrales o llave en mano, los contratos se celebrarán a precio alzado.
 
-Los contratos de este tipo no podrán ser modificados en cuanto a monto o plazo, ni estarán sujetos a ajustes de costos. Sin embargo, cuando se presenten circunstancias económicas de tipo general no previstas, ajenas a la responsabilidad de las partes con posterioridad a la adjudicación del contrato, que pudieran dar lugar a un aumento o reducción de los costos, la Comisión, tomando en consideración las causas y razonamientos del caso que le presente el Comité, resolverá lo procedente; y
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+Los contratos de este tipo no podrán ser modificados en cuanto a monto, ni estarán sujetos a ajustes de costos.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+Excepcionalmente el Comité, tomando en consideración las causas y razonamientos que le presente el Titular del área de obras, podrá autorizar la modificación del plazo por causas no imputables al contratista que sean supervinientes a la suscripción del contrato; en ese supuesto las garantías deberán mantenerse vigentes.
 
 III. Mixtos, cuando contengan una parte de los trabajos sobre la base de precios unitarios y otra a precio alzado.
 
@@ -2275,7 +2393,9 @@ Cuando la modificación incida únicamente en los plazos en materia de obra o se
 
 Tratándose de contratos en los que se incluyan dos o más partidas, el porcentaje al que hace referencia el párrafo anterior, se aplicará para cada una de ellas.
 
-Cuando los proveedores, contratistas y prestadores de servicios demuestren la existencia de causas justificadas que les impidan cumplir con la entrega total de los bienes, conforme a las cantidades pactadas en los contratos, las dependencias y entidades podrán modificarlos mediante la cancelación de partidas o parte de las cantidades originalmente estipuladas, siempre y cuando no rebase el veinte por ciento del importe total del contrato respectivo.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+Cuando los proveedores, contratistas y prestadores de servicios demuestren la existencia de causas justificadas que les impidan cumplir con la entrega total de los bienes, conforme a las cantidades pactadas en los contratos, las áreas operativas podrán modificarlos mediante la cancelación de partidas o parte de las cantidades originalmente estipuladas, siempre y cuando no rebase el veinte por ciento del importe total del contrato respectivo.
 
 Cualquier modificación a los contratos deberá formalizarse por escrito por parte de las áreas operativas responsables, los instrumentos legales respectivos serán suscritos por el servidor público que lo haya hecho en el contrato o quien lo sustituya o esté facultado para ello.
 
@@ -2309,7 +2429,9 @@ Tratándose de servicios relacionados con las obras públicas, el otorgamiento d
 
 Los anticipos de más del treinta y cinco y hasta el cincuenta por ciento, requerirán la autorización del Comité;
 
-II. El importe del anticipo concedido será puesto a disposición del contratista con antelación a la fecha pactada para el inicio de los trabajos; el atraso en la entrega del anticipo será motivo para diferir en igual plazo el programa de ejecución pactado. Cuando el contratista no entregue la garantía de anticipo dentro de un plazo máximo de diez días hábiles, posteriores a la firma del contrato, no procederá el diferimiento;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+II. El importe del anticipo concedido será puesto a disposición del contratista en un plazo no mayor a treinta días hábiles posteriores a la firma del contrato, siempre y cuando haya entregado la fianza de anticipo correspondiente;
 
 III. El importe del anticipo deberá ser considerado obligatoriamente por los licitantes para la determinación del costo financiero de su propuesta;
 
@@ -2381,9 +2503,17 @@ INFORME DEL AJUSTE. Cuando ocurran circunstancias no previstas en el contrato qu
 
 ### CAPITULO I. EJECUCION DE LOS TRABAJOS DE OBRA PUBLICA
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTICULO 125.
 
-EJECUCION DE LOS TRABAJOS. La ejecución de los trabajos deberá iniciarse en la fecha señalada en el contrato respectivo, y el Consejo oportunamente pondrá a disposición del contratista el o los inmuebles en que deban llevarse a cabo. El incumplimiento del Consejo prorrogará en igual plazo la fecha originalmente pactada para la conclusión de los trabajos. La entrega deberá constar por escrito, mediante el acta respectiva.
+EJECUCIÓN DE LOS TRABAJOS. La ejecución de los trabajos deberá iniciarse con la orden de inicio en la fecha señalada en la misma, la cual deberá ser coincidente con el contrato respectivo y, en su caso, el Consejo oportunamente pondrá al contratista en posesión, total o parcial, del inmueble en que deban llevarse a cabo los trabajos. El incumplimiento del Consejo prorrogará en igual plazo la fecha originalmente pactada para la conclusión de los trabajos.
+
+La entrega de la posesión se hará mediante acta de entrega recepción en la que se harán constar las circunstancias de modo, tiempo y lugar.
+
+El administrador del inmueble deberá entregarlo al área de obras previo a la vigencia del contrato para que ésta haga lo propio con la contratista.
+
+Por orden de inicio se entenderá el documento emitido por el Consejo que contiene los datos generales de los trabajos a ejecutar y la fecha de inicio de los mismos.
 
 ###### ARTICULO 126.
 
@@ -2585,15 +2715,21 @@ VIGILANCIA DE LA DOCUMENTACION TECNICA. Una vez concluida la obra o parte utiliz
 
 ### CAPITULO III. DEL FINIQUITO Y LA CONCLUSION DE LOS CONTRATOS
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTICULO 147.
 
-CONCLUSION DE LOS CONTRATOS. El área operativa que corresponda, para dar por concluidos, parcial o totalmente, los derechos y obligaciones asumidos por las partes en los contratos, deberá elaborar el finiquito correspondiente, anexando el acta recepción física de los trabajos, bienes o servicios. El finiquito será definitivo y sin posibilidad a ulterior reclamación.
+CONCLUSIÓN DE LOS CONTRATOS. El área operativa que corresponda, para dar por concluidos, parcial o totalmente, los derechos y obligaciones asumidos por las partes en los contratos, deberá elaborar el finiquito en el caso de los contratos de adjudicación directa por monto, según corresponda, anexando el acta recepción física de los trabajos, bienes o servicios. El finiquito será definitivo y sin posibilidad a ulterior reclamación.
 
-Una vez elaborado el finiquito de los trabajos, el Consejo dará por concluido el contrato respectivo, dejando únicamente subsistentes las acciones que deriven del finiquito, así como la garantía que se contempla en el artículo 154 de este Acuerdo, por lo que ya no será factible atender en sede administrativa las reclamaciones de pago que presente el proveedor o contratista con posterioridad a su formalización.
+De conformidad con sus atribuciones, la Contraloría podrá dictaminar finiquitos presentados por las áreas operativas dentro del término de quince días hábiles, cuando deriven de contratos adjudicados a través del procedimiento de licitación pública, concurso público sumario, de invitación a cuando menos tres proveedores o contratistas y adjudicación directa.
+
+El finiquito de los contratos que la Contraloría determine no dictaminar, serán finiquitados sin más trámite, bajo la más estricta responsabilidad del área operativa, debiendo informar a la Contraloría de su resultado y sin perjuicio de que ésta los revise cuando lo considere conveniente.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 148.
 
-NOTIFICACION DE LA REALIZACION DEL FINIQUITO. El área operativa competente deberá notificar al contratista o proveedor y, en su caso, al Director Responsable de Obra y al Supervisor Externo, tratándose de supervisión externa, la fecha, lugar y hora en que se llevará a cabo el finiquito, el que deberá realizarse dentro de un plazo de sesenta días naturales contados a partir de la fecha en que se realice la recepción física de los trabajos, bienes o servicios. Los contratistas o proveedores, Director Responsable de Obra y Supervisor Externo, en su caso, tendrán la obligación de acudir al llamado que se les haga por escrito; de no hacerlo, se les comunicará el resultado conforme lo establece el tercer párrafo del artículo 144 de de (sic) este Acuerdo.
+NOTIFICACIÓN DE LA REALIZACIÓN DEL FINIQUITO. El área operativa competente deberá notificar al contratista o proveedor y, en su caso, al Director Responsable de Obra y al Supervisor Externo, tratándose de supervisión externa, la fecha, lugar y hora en que se llevará a cabo el finiquito, el que deberá realizarse dentro de un plazo máximo de sesenta días naturales contados a partir de la fecha en que se realice la recepción física de los trabajos, bienes o servicios, el cual incluye el término con el cual cuenta la Contraloría para emitir dictamen, en su caso. Los contratistas o proveedores, Director Responsable de Obra y Supervisor Externo, en su caso, tendrán la obligación de acudir al llamado que se les haga por escrito; de no hacerlo, se les comunicará el resultado conforme lo establece el tercer párrafo del artículo 144 de este Acuerdo.
 
 ###### ARTICULO 149.
 
@@ -2879,17 +3015,25 @@ Unicamente podrá darse por terminado el contrato en los términos del presente 
 
 SUSPENSION TEMPORAL DE LA EJECUCION DEL CONTRATO EN MATERIA DE ADQUISICIONES Y PRESTACION DE SERVICIOS. Por acuerdo del Comité, la Secretaría de Administración podrá suspender temporalmente, en todo o en parte, el suministro de bienes, arrendamientos o la prestación de los servicios contratados por causa plenamente justificada y acreditada. El Area Operativa que corresponda determinará la temporalidad de ésta.
 
-> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 172.
 
-SUSPENSION DE LOS TRABAJOS EN MATERIA DE OBRA PUBLICA. Por acuerdo del Comité, la Secretaría de Administración podrá suspender en todo o en parte, los trabajos contratados por cualquier causa justificada o por razones de interés general, sin que implique su terminación definitiva. El Area Operativa que corresponda podrá ordenar la suspensión y determinar, en su caso, la temporalidad de ésta, la que no podrá ser indefinida.
+SUSPENSIÓN DE LOS TRABAJOS EN MATERIA DE OBRA PÚBLICA. El Consejo, a través del área operativa que corresponda, podrá suspender en todo o en parte, los trabajos contratados por cualquier causa justificada o por razones de interés general, sin que implique su terminación definitiva. Asimismo, podrá ordenar la suspensión y determinar la temporalidad de ésta, sin que pueda ser indefinida; debiendo rendir el informe correspondiente al Comité de dicha suspensión y sus razones. En los casos que así lo determine el Comité podrá ordenar dicha suspensión.
+
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
 
 En caso de que la reanudación de los trabajos esté ligado a un hecho de realización cierta, pero de fecha indeterminada, el periodo de la suspensión estará sujeto a la actualización de ese evento, sin perjuicio de que se pueda optar por la terminación anticipada.
 
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
+
 El Area Operativa que corresponda deberá comunicar por escrito a los contratistas, por lo menos con tres días hábiles de anticipación, la fecha en que operará la suspensión, procediendo en los mismos términos cuando desaparezcan las causas o razones que la originaron, modificando también en su caso, o actualizando por razón del tiempo que dure la suspensión las garantías otorgadas a las nuevas condiciones. En dicha notificación se señalará el plazo máximo de la suspensión, cuyo término podrá ser diferido por el Comité en una sola ocasión.
 
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
+
 Cuando se determine la suspensión de los trabajos, el Consejo pagará los trabajos ejecutados, así como los gastos no recuperables, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con el contrato de que se trate.
+
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
 
 Dichos gastos no recuperables se limitarán a:
 
@@ -2907,7 +3051,11 @@ VI. Costo del mantenimiento y renta, si es el caso, de oficinas y demás instala
 
 VII. En su caso, el costo que represente la extensión de las garantías.
 
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
+
 Para la determinación de estos gastos se deberán considerar como base para su cálculo, los programas y costos originalmente propuestos por el contratista, debiéndose ajustar, en su caso, con el último porcentaje de ajuste autorizado antes de la suspensión.
+
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
 
 Cuando se trate de una suspensión parcial, el Consejo cubrirá los trabajos que se hayan realizado hasta el momento de la notificación de la suspensión y ajustará y determinará un programa de trabajo adecuado a las necesidades actualizadas, haciéndose los pagos a partir de entonces, de acuerdo a la nueva programación.
 
@@ -3382,3 +3530,15 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO. Se derogan las disposiciones que se opongan al presente Acuerdo General. En contratos suscritos con antelación que no estén finiquitados a la entrada en vigor del mismo, se podrán aplicar las normas emitidas con posterioridad a su celebración, para lo cual se deberán formalizar los convenios modificatorios respectivos con sujeción a la normatividad vigente.
+
+D.O.F. 19 DE NOVIEMBRE DE 2014.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Para efectos del artículo 147 a que se refiere este Acuerdo, la Contraloría someterá a consideración y, en su caso, aprobación de la Comisión de Administración los criterios para ejercer su atribución en materia de finiquitos dentro de los treinta días posteriores a la entrada en vigor del presente Acuerdo.
+
+CUARTO. El Comité deberá adecuar los criterios relativos al dictamen financiero dentro de los quince días hábiles posteriores a la entrada en vigor del presente Acuerdo.
+
+QUINTO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
