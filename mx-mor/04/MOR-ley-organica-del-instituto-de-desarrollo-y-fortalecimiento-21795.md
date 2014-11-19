@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-instituto-de-desarrollo-y-fortalecimiento-2179
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-07-20"
-last_updated: "2013-05-01"
+last_updated: "2014-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DEL INSTITUTO DE DESARROLLO Y FORTALECIMIENTO MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el viernes 20 de julio de 2001.
 
@@ -119,9 +119,13 @@ XV. Generar acciones de seguimiento y evaluación de las diversas instancias inv
 
 XVI. Llevar a cabo las acciones necesarias para la obtención, administración y utilización de los recursos financieros, materiales y humanos para la operación y funcionamiento del propio organismo;
 
-XVII. Todas aquellas que le permitan cumplir con el objetivo fundamental del Instituto; y
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
-XVIII. Las demás que le otorguen otras Leyes y las que acuerde la Junta de Gobierno.
+XVII. Promover en los Municipios la preservación, conservación y resguardo de los archivos históricos municipales; así como fomentar la celebración de convenios entre los Ayuntamientos a fin de procurar la creación de archivos regionales municipales, o incluso la constitución de un Archivo Histórico Municipal del Estado de Morelos;
+
+XVIII. Todas aquellas que le permitan cumplir con el objetivo fundamental del Instituto; y
+
+XIX. Las demás que le otorguen otras Leyes y las que acuerde la Junta de Gobierno.
 
 Los casos no previstos por le presente Ley se resolverán por la Junta de Gobierno de acuerdo con las leyes aplicables; y
 
@@ -129,15 +133,19 @@ Los casos no previstos por le presente Ley se resolverán por la Junta de Gobier
 
 ### CAPÍTULO I. DE LOS ÓRGANOS DEL INSTITUTO
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 7.
 
 El Instituto para el cumplimiento de sus atribuciones se integrará con:
 
 I. Una Junta de Gobierno;
 
-II. Un Director General; y
+II. Un Director General;
 
-III. La estructura orgánica que requiera para su funcionamiento.
+III. Un Consejo Consultivo; y
+
+IV. La estructura orgánica que requiera para su funcionamiento.
 
 ###### Artículo 8.
 
@@ -277,11 +285,69 @@ IV. Gozar de buena reputación y no haber sido condenado por delito intencional;
 
 V. Tener reconocido prestigio en el estudio e investigación de la administración pública municipal;
 
-### CAPÍTULO ÚNICO. DEL PATRIMONIO DEL INSTITUTO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO V. DEL CONSEJO CONSULTIVO
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 13 Bis.
+
+El Instituto contará con un Consejo Consultivo, cuya función será de asesoría, análisis y propuesta, el cual se integrará de la siguiente manera:
+
+I. El titular de la Dirección General del Instituto, quien lo presidirá;
+
+II. Un representante designado por la Dirección General del Instituto, en calidad de Secretario Técnico, y
+
+III. Por cinco representantes de la sociedad civil, en calidad de vocales, correspondiente a los siguientes sectores:
+
+a) Un representante del sector académico;
+
+b) Un representante de la región norte del Estado;
+
+c) Un representante de la región sur del Estado;
+
+d) Un representante de la región oriente del Estado; y
+
+e) Un representante de la región poniente del Estado.
+
+Será criterio de selección de los representantes de la sociedad civil su especialización o amplia experiencia en materia de desarrollo municipal.
+
+Los miembros del Consejo Consultivo tendrán derecho a voz y voto, y ocuparán dicho cargo de manera honorífica.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 13 Ter.
+
+Los miembros del Consejo Consultivo pertenecientes a la sociedad civil serán electos por la Dirección General, la cual para el proceso de selección deberá publicar en el Periódico Oficial "Tierra y Libertad" y en un diario de amplia circulación en el Estado, previamente y con oportunidad, la correspondiente convocatoria, a fin de que los interesados procedan a inscribirse.
+
+El Consejo Consultivo podrá invitar, con voz pero sin voto, a los representantes del sector público, privado o social, que tengan relación o injerencia en la materia o puedan aportar información en el asunto que se vaya a desahogar en la sesión de que se trate.
+
+El Consejo Consultivo sesionará ordinariamente cuatro veces al año y podrá celebrar cuantas sesiones extraordinarias se requieran.
+
+Las decisiones del Consejo Consultivo se tomarán por mayoría de votos, teniendo quien lo preside voto de calidad, en caso de empate.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 13 Quáter.
+
+El Consejo Consultivo tendrá las atribuciones siguientes:
+
+I. Proponer al Instituto la realización de cursos o seminarios en materia de desarrollo municipal;
+
+II. Proponer al Instituto los planes y programas de capacitación municipal;
+
+III. Elaborar trabajos de investigación científica, estudio, análisis, encuestas y recopilación de información sobre desarrollo municipal;
+
+IV. Recabar la opinión de los vecinos de la comunidad en las acciones de relevancia social efectuadas por los Ayuntamientos, para hacerlas llegar al Instituto;
+
+V. Coadyuvar en la promoción de una cultura de participación ciudadana activa, dinámica y corresponsable, y
+
+VI. Contribuir en la realización de foros y talleres de consulta popular, que motiven el debate y análisis de propuestas, ideas e inquietudes de la ciudadanía y que se relacionen con el desarrollo municipal.
 
 ## TÍTULO CUARTO
 
-### CAPÍTULO ÚNICO. DEL ÓRGANO DE VIGILANCIA
+### CAPÍTULO ÚNICO. DEL PATRIMONIO DEL INSTITUTO
 
 ###### Artículo 14.
 
@@ -299,7 +365,7 @@ V. Los recursos que le asigne el Congreso el (sic) Estado en el Presupuesto de E
 
 ## TÍTULO QUINTO
 
-### CAPÍTULO ÚNICO. DE LAS RELACIONES LABORALES
+### CAPÍTULO ÚNICO. DEL ÓRGANO DE VIGILANCIA
 
 ###### Artículo 15.
 
@@ -330,6 +396,8 @@ El titular del órgano de vigilancia asistirá a las sesiones de la Junta de Gob
 El órgano de vigilancia velará que el manejo y aplicación de los recursos se efectúen de conformidad con las disposiciones legales aplicables; al efecto, practicará las auditorías que correspondan, de cuyo resultado informará la Junta de Gobierno
 
 ## TÍTULO SEXTO
+
+### CAPÍTULO ÚNICO. DE LAS RELACIONES LABORALES
 
 ###### Artículo 20.
 
@@ -422,3 +490,35 @@ A partir de la entrada en vigor del presente, se derogan todas y cada una de las
 ###### ARTÍCULO CUARTO.
 
 El Instituto de Desarrollo y Fortalecimiento Municipal del Estado de Morelos, contará con treinta días hábiles para modificar su Reglamento Interior, contados a partir de la entrada en vigor de esta modificación de la fracción I del artículo 9 a la Ley Orgánica del Instituto de Desarrollo y Fortalecimiento Municipal del Estado de Morelos.
+
+P.O. 19 DE NOVIEMBRE DE 2014.
+
+DECRETO NÚMERO MIL SEISCIENTOS OCHENTA Y UNO POR LO QUE SE ADICIONA UNA FRACCIÓN PARA SER LA FRACCIÓN XVII Y SE RECORREN EN SU ORDEN LAS SUBSECUENTES FRACCIONES XVII Y XVIII PARA SER XVIII Y XIX DEL ARTÍCULO 6 DE LA LEY ORGÁNICA DEL INSTITUTO DE DESARROLLO Y FORTALECIMIENTO MUNICIPAL DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El decreto que al efecto se expida, entrará en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
+
+P.O. 19 DE NOVIEMBRE DE 2014.
+
+DECRETO NÚMERO MIL SEISCIENTOS OCHENTA Y CUATRO POR LO QUE SE REFORMA EL ARTÍCULO 7 Y SE ADICIONA, EN EL TÍTULO TERCERO DENOMINADO DE LA ORGANIZACIÓN DEL INSTITUTO, UN CAPÍTULO V QUE SE DENOMINARÁ “DEL CONSEJO CONSULTIVO” CON TRES ARTÍCULOS QUE SERÁN 13 BIS, 13 TER Y 13 QUÁTER, EN LA LEY ORGÁNICA DEL INSTITUTO DE DESARROLLO Y FORTALECIMIENTO MUNICIPAL DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
