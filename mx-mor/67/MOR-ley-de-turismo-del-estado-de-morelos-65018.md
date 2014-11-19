@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-turismo-del-estado-de-morelos-65018"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-10"
-last_updated: "2014-07-23"
+last_updated: "2014-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65018&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE TURISMO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 10 de diciembre de 2008.
 
@@ -33,7 +33,7 @@ Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo si
 
 LA QUINCUAGÉSIMA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE LE OTORGA EL ARTÍCULO 40, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL, Y,
 
-.
+...
 
 Por lo anteriormente expuesto, esta Soberanía ha tenido a bien expedir la siguiente:
 
@@ -47,7 +47,9 @@ LEY DE TURISMO DEL ESTADO DE MORELOS
 
 La presente Ley es de orden público, de interés social y de observancia general en el Estado de Morelos, tiene por objeto la organización, promoción, fomento y desarrollo de la actividad turística del Estado de Morelos, corresponde su aplicación al Titular del Poder Ejecutivo Estatal por conducto de la Secretaría de Turismo y a los Ayuntamientos por conducto de la dependencia que para tal efecto determine.
 
-Para lo no previsto en este ordenamiento serán de aplicación supletoria, la Ley Federal de Turismo, su Reglamento y la Ley Federal de Protección al Consumidor y su Reglamento.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+Para lo no previsto en este ordenamiento serán de aplicación supletoria, la Ley General de Turismo, su Reglamento y la Ley Federal de Protección al Consumidor y su Reglamento.
 
 Los lineamientos emanados de la presente Ley, serán acordes a lo establecido por la Organización Mundial de Turismo.
 
@@ -167,7 +169,7 @@ III. Guías de turistas, de acuerdo con la siguiente clasificación:
 
 a) Guía general: persona que cuenta con estudios de guía a nivel técnico, reconocidos en los términos de las leyes de la materia y que puede desempeñar eta actividad a nivel nacional, con un dominio global de los atractivos turísticos del país
 
-b) Guía especializado: persona que tiene conocimientos o experiencia acreditable sobre algún tema o actividad específicos…(sic)
+b) Guía especializado: persona que tiene conocimientos o experiencia acreditable sobre algún tema o actividad específicos…
 
 IV. Los arrendadores o empresas de automóviles u otros medios de transporte público de pasajeros, incluyendo transportes especializados en excursiones o viajes de turismo;
 
@@ -291,9 +293,15 @@ II. Contar con el libre acceso a los establecimientos de los prestadores de serv
 
 III. Usar y recibir el servicio en la forma y tiempo convenido;
 
-IV. Presentar sus quejas y denuncias sobre la prestación de servicios turísticos ante las autoridades competentes y a obtener respuesta; y
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
-V. Recibir de la Secretaría y de las demás dependencias y organismos auxiliares del Ejecutivo Estatal, en los términos de sus competencias, servicios de seguridad, información y auxilio turístico.
+IV. Recibir de la Secretaría, en los casos en que así lo solicite, información sobre los horarios de atención y domicilio de la Comisión de Derechos Humanos del Estado de Morelos, para acudir, a fin de presentar quejas relacionadas con presuntas violaciones a sus Derechos Humanos, por parte de alguna autoridad o servidor público;
+
+V. Presentar sus quejas y denuncias sobre la prestación de servicios turísticos ante las autoridades competentes y a obtener respuesta; y
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+VI. Recibir de la Secretaría y de las demás Dependencias y Organismos Auxiliares del Ejecutivo Estatal, en los términos de sus competencias, servicios de seguridad, información y auxilio turístico.
 
 ###### Artículo 11.
 
@@ -919,7 +927,7 @@ P.O. 23 DE ENERO DE 2013.
 
 Artículo Primero.- El presente decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Estado de Morelos.
 
-ARTÍCULO (sic) Segundo.- Aprobado el presente decreto remítase copia a la Secretaría de Turismo del Gobierno del Estado de Morelos para que de conformidad a lo establecido en la Ley haga las manifestaciones correspondientes.
+ARTÍCULO Segundo.- Aprobado el presente decreto remítase copia a la Secretaría de Turismo del Gobierno del Estado de Morelos para que de conformidad a lo establecido en la Ley haga las manifestaciones correspondientes.
 
 Artículo Tercero.- Remítase al Titular del Poder Ejecutivo del Estado, para su promulgación y su publicación.
 
@@ -1042,3 +1050,27 @@ Iniciando vigencia el presente Decreto, el Titular del Poder Ejecutivo del Estad
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto por el presente Decreto.
+
+P.O. 19 DE NOVIEMBRE DE 2014.
+
+DECRETO NÚMERO 1762 POR EL QUE SE ADICIONA UNA FRACCIÓN PARA SER LA IV, RECORRIÉNDOSE EN SU ORDEN LAS ACTUALES IV Y V PARA SER V Y VI, EN EL ARTÍCULO 10, DE LA LEY DE TURISMO DEL ESTADO DE MORELOS.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+TERCERO.- Iniciando vigencia el presente Decreto, el titular del Poder Ejecutivo del Estado de Morelos, deberá realizar dentro de los 90 días siguientes, las adecuaciones a su respectivo Reglamento.
+
+CUARTO.- Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto por el presente Decreto.
+
+P.O. 19 DE NOVIEMBRE DE 2014.
+
+DECRETO NÚMERO 1763 POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO, DEL ARTÍCULO 1, DE LA LEY DE TURISMO DEL ESTADO DE MORELOS.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70 fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+TERCERO.- Iniciando vigencia el presente Decreto, el titular del Poder Ejecutivo del Estado de Morelos, deberá realizar dentro de los 90 días siguientes, las adecuaciones a su respectivo reglamento.
+
+CUARTO.- Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto por el presente Decreto.
