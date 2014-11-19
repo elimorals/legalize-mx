@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-de-fauna-del-estado-de-morelos-21505"
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-30"
-last_updated: "2014-10-08"
+last_updated: "2014-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ESTATAL DE FAUNA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos el 30 de abril de 1997.
 
@@ -361,7 +361,7 @@ Los propietarios, encargados, administradores o empleados de expendios de animal
 
 ###### Artículo 52.
 
-Queda estrictamente prohibido sacrificar animales por envenenamiento, ahorcamiento, golpes o por algún procedimiento que cause sufrimiento innecesario o prolongue la agonía del animal. Se exceptúa de esta disposición el empleo de plagicidas y productos similares contra animales nocivos o para combatir plagas domésticas y agrícolas; así como los casos de sacrificio de perros y gatos realizados por los centros antirrábicos que utilizan como recursos la cámara de gases. En caso de animales domésticos se procurará para su sacrificio, la aplicación de los métodos más modernos que permitan una muerte rápida y sin sufrimiento.
+Queda estrictamente prohibido sacrificar animales por envenenamiento, ahorcamiento, golpes o por algún procedimiento que cause sufrimiento innecesario o prolongue la agonía del animal. Se exceptúa de esta disposición el empleo de plagicidas (sic) y productos similares contra animales nocivos o para combatir plagas domésticas y agrícolas; así como los casos de sacrificio de perros y gatos realizados por los centros antirrábicos que utilizan como recursos la cámara de gases. En caso de animales domésticos se procurará para su sacrificio, la aplicación de los métodos más modernos que permitan una muerte rápida y sin sufrimiento.
 
 ###### Artículo 53.
 
@@ -421,7 +421,9 @@ Se crea la Comisión Estatal de Protección a los Animales, como Institución de
 
 Son atribuciones de la Comisión Estatal de Protección a los Animales o de la que haga sus funciones:
 
-I.- Procurar la protección de todos los animales y la aplicación de esta Ley.
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+I.- Procurar la protección de los animales en términos de la presente Ley.
 
 II.- Fomentar la creación de Sociedades de Protección a los Animales.
 
@@ -620,3 +622,11 @@ Remítase al Titular del Poder Ejecutivo para los efectos que señalan los artí
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Tierra y Libertad", órgano de difusión de Gobierno del Estado de Morelos.
+
+P.O. 19 DE NOVIEMBRE DE 2014.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL SEISCIENTOS SETENTA Y SIETE POR EL QUE SE REFORMA LA FRACCIÓN I, DEL ARTÍCULO 64, DE LA LEY ESTATAL DE FAUNA”.]
+
+PRIMERO. Remítase al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. El presente Decreto iniciará su vigencia a partir del día siguiente al de su publicación en el periódico oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
