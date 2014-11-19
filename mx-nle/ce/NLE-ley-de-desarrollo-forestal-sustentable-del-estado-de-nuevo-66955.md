@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-desarrollo-forestal-sustentable-del-estado-de-nuevo-6695
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-07"
-last_updated: "2010-12-24"
+last_updated: "2014-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66955&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE NUEVO LEON
 
-LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE NUEVO LEON
+LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 7 de febrero de 2009.
 
@@ -1429,9 +1429,15 @@ VI. Ejecutar indebidamente las acciones de los programas de manejo forestal;
 
 VII. Degradar o eliminar parcial o totalmente áreas forestales y preferentemente forestales;
 
-VIII. Degradar o eliminar parcial o totalmente zonas de reserva ecológica o sujetas a protección especial; y
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
-IX. Las demás acciones u omisiones que contravengan las disposiciones de esta Ley o su Reglamento.
+VIII. Degradar o eliminar parcial o totalmente zonas de reserva ecológica o sujetas a protección especial;
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+IX. Provocar intencionalmente o por imprudencia, incendios en terrenos forestales o preferentemente forestales; y
+
+X. Las demás acciones u omisiones que contravengan las disposiciones de esta Ley o su Reglamento.
 
 ### CAPÍTULO CUARTO. DE LAS SANCIONES
 
@@ -1453,7 +1459,9 @@ La imposición de las multas a que se refiere el artículo anterior, la determin
 
 I. Con un equivalente de 10 a 500 veces de salario mínimo vigente en el Estado a quien cometa las infracciones señaladas en las fracciones I, II y III del artículo 125 de esta Ley; y
 
-II. Con el equivalente de 100 a 2,000 veces de salario mínimo vigente en el Estado a quien cometa las infracciones señaladas en las fracciones IV, V, VI, VII, VIII y IX del artículo 125 de esta Ley.
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+II. Con el equivalente de 100 a 2,000 veces de salario mínimo vigente en el Estado a quien cometa las infracciones señaladas en las fracciones IV, V, VI, VIl, VIII, IX y X del artículo 125 de esta Ley.
 
 ###### Artículo 128.
 
@@ -1655,8 +1663,12 @@ EL C. SECRETARIO DE DESARROLLO ECONÓMICO
 
 ALEJANDRO ALBERTO CARLOS PÁEZ Y ARAGON
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 24 DE DICIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE NOVIEMBRE DE 2014.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
