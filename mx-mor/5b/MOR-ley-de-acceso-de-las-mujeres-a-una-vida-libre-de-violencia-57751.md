@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5775
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-05"
-last_updated: "2014-10-08"
+last_updated: "2014-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 5 de diciembre de 2007.
 
@@ -583,7 +583,9 @@ IV.- Secretaría de Salud;
 
 V.- Comisión Estatal de Seguridad Pública;
 
-VI.- Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+VI.- Fiscalía General del Estado de Morelos;
 
 VII.- Instituto de la Mujer para el Estado de Morelos;
 
@@ -743,7 +745,9 @@ VI.- Celebrar convenios de cooperación y coordinación económica para financia
 
 VII.- Las demás previstas para el cumplimiento de la presente ley.
 
-#### SECCIÓN SÉPTIMA. DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE MORELOS
+#### SECCIÓN SÉPTIMA. DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MORELOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 54.
 
@@ -831,15 +835,19 @@ X.- Apoyar a las autoridades e instituciones estatales encargadas de efectuar in
 
 XI.- Cumplir con todas y cada una de las atribuciones que le confiere la normatividad aplicable.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 57.
 
-Corresponde a la Procuraduría General de Justicia del Estado de Morelos:
+Corresponde a la Fiscalía General de Justicia del Estado de Morelos:
 
 I.- Diseñar la política en materia de procuración de justicia para la prevención, atención y erradicación de la violencia contra las mujeres en el marco de la política integral con perspectiva de género;
 
 II.- Participar en la elaboración del Programa Estatal en coordinación, con las demás autoridades integrantes del Sistema Estatal;
 
-III.- Facilitar el ejercicio de los derechos de las víctimas de violencia contra las mujeres en sus diferentes tipos y modalidades, previstos en el apartado B del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos, de acuerdo con la Ley Orgánica de la Procuraduría General de Justicia del Estado de Morelos;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+III.- Facilitar el ejercicio de los derechos de las víctimas de violencia contra las mujeres en sus diferentes tipos y modalidades, previstos en el apartado B, del artículo 20, de la Constitución Política de los Estados Unidos Mexicanos, de acuerdo con la Ley Orgánica de la Fiscalía General de Justicia del Estado de Morelos;
 
 IV.- Dictar las medidas necesarias para que la víctima reciba atención médica de emergencia, asesoría jurídica y psicoterapia especializada, emitiendo los acuerdos específicos;
 
@@ -851,7 +859,7 @@ VII.- Crear unidades e instancias especializadas para la atención de las mujere
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
-VIII. Especializar a las y los agentes del Ministerio Público, peritos, personal que atiende a víctimas a través de programas y cursos permanentes, en: derechos humanos y género; perspectiva de género para la debida diligencia en la conducción de carpetas de investigación y procesos judiciales relacionados con discriminación, violencia y feminicidios; incorporación de la perspectiva de género en los servicios periciales; eliminación de estereotipos sobre el rol social de las mujeres, entre otros;
+VIII.- Especializar a las y los agentes del Ministerio Público, peritos, personal que atiende a víctimas a través de programas y cursos permanentes, en: derechos humanos y género; perspectiva de género para la debida diligencia en la conducción de carpetas de investigación y procesos judiciales relacionados con discriminación, violencia y feminicidios; incorporación de la perspectiva de género en los servicios periciales; eliminación de estereotipos sobre el rol social de las mujeres, entre otros;
 
 IX.- Promover la creación de la Unidad Especializada de Mujeres Policías Ministeriales para la atención de delitos cometidos en contra de la mujer;
 
@@ -865,27 +873,27 @@ XIII.- Apoyar a las autoridades e instituciones estatales encargadas de efectuar
 
 > <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
-XIV. Realizar estudios estadísticos e investigaciones referentes al acceso a la justicia de las mujeres víctimas de violencia, así como de las causas y sentencias que se dictan en contra de las mujeres responsables de delitos;
+XIV.- Realizar estudios estadísticos e investigaciones referentes al acceso a la justicia de las mujeres víctimas de violencia, así como de las causas y sentencias que se dictan en contra de las mujeres responsables de delitos;
 
 > <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
-XV. Crear un sistema de registro público de los delitos cometidos en contra de mujeres, que integre la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar en que ocurrieron, especificando su tipología, características de la víctima y del sujeto activo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, consignación, sanción y reparación del daño;
+XV.- Crear un sistema de registro público de los delitos cometidos en contra de mujeres, que integre la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar en que ocurrieron, especificando su tipología, características de la víctima y del sujeto activo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, consignación, sanción y reparación del daño;
 
 > <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
-XVI. Elaborar una página de internet en la cual se encuentren los datos generales de las mujeres y niñas que sean reportadas como desaparecidas. Dicha página deberá actualizarse constantemente. La información deberá ser pública y permitir que la población en general pueda aportar información sobre el paradero de las mujeres y niñas desaparecidas;
+XVI.- Elaborar una página de internet en la cual se encuentren los datos generales de las mujeres y niñas que sean reportadas como desaparecidas. Dicha página deberá actualizarse constantemente. La información deberá ser pública y permitir que la población en general pueda aportar información sobre el paradero de las mujeres y niñas desaparecidas;
 
 > <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
-XVII. Elaborar y aplicar Protocolos especializadas (sic) con perspectiva de género en: la búsqueda inmediata de mujeres y niñas desaparecidas, para la investigación de los feminicidios y la violencia sexual;
+XVII.- Elaborar y aplicar Protocolos especializadas (sic) con perspectiva de género en: la búsqueda inmediata de mujeres y niñas desaparecidas, para la investigación de los feminicidios y la violencia sexual;
 
 > <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
-XVIII. Crear una Base de Información Genética que contenga la información personal disponible de mujeres y niña (sic) desaparecidas; la información genética y muestras celulares de los familiares de las personas desaparecidas que lo consientan; la información genética y muestras celulares proveniente de los cuerpos de cualquier mujer o niña no identificada;
+XVIII.- Crear una Base de Información Genética que contenga la información personal disponible de mujeres y niña (sic) desaparecidas; la información genética y muestras celulares de los familiares de las personas desaparecidas que lo consientan; la información genética y muestras celulares proveniente de los cuerpos de cualquier mujer o niña no identificada;
 
 La información integrada en esta base deberá ser reguardada (sic) y únicamente podrá ser utilizada para la confrontación de información genética entre cuerpos no identificados y personas desaparecidas; y
 
-XIX. Las demás previstas en el cumplimiento de la presente ley.
+XIX.- Las demás previstas en el cumplimiento de la presente ley.
 
 ###### Artículo 58.
 
@@ -1156,3 +1164,9 @@ P.O. 8 DE OCTUBRE DE 2014.
 PRIMERO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión de Gobierno del Estado.
 
 SEGUNDO.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos previstos en los artículos 44 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 19 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad, con los artículos 44, 47 y 70, fracción XVII inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
