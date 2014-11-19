@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "2014-06-25"
+last_updated: "2014-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2014.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -223,7 +223,7 @@ XIV.- Vigilancia de la policía;
 
 XV.- Suspensión total o parcial de las operaciones de una persona jurídica o que se ostente como tal, o disolución de la misma;
 
-XVI.- Trabajo obligatorio a favor de la comunidad, y (sic)
+XVI.- Trabajo obligatorio a favor de la comunidad, y
 
 > <small>(ADICIONADA, P.O. 6 DE JULIO DE 2013)</small>
 
@@ -259,7 +259,7 @@ Cuando la ley fije solamente el máximo de una pena de prisión, el término mí
 
 La obligación de pagar la sanción pecuniaria es preferente con respecto a cualesquiera otras contraídas con posterioridad al delito, a excepción de las referentes a alimentos y relaciones laborales.
 
-En los casos de concurso de personas responsables a que se refiere la fracción II del artículo 11 de este Código, la reparación del daño se considerará responsabilidad solidaria y, en cuanto a la multa, el juez la fijará para cada uno de los intervenientes, según su participación y condiciones económicas.
+En los casos de concurso de personas responsables a que se refiere la fracción II del artículo 11 de este Código, la reparación del daño se considerará responsabilidad solidaria y, en cuanto a la multa, el juez la fijará para cada uno de los intervenientes (sic), según su participación y condiciones económicas.
 
 26.- La multa consiste en el pago de una suma de dinero al Estado, que fijará el juez por cuotas, las que no podrán exceder de trescientas sesenta y cinco. Cada cuota equivale a un día de salario, cuyo límite inferior será el equivalente al salario mínimo diario vigente en la zona económica en que se cometió el delito, independientemente de que se trate de delito instantáneo, permanente o continuado.
 
@@ -841,7 +841,7 @@ IV.- Voluntariamente sirva a un empleo, cargo subalterno o comisión en lugar oc
 
 ### CAPITULO III. SEDICION Y OTROS DESORDENES PUBLICOS
 
-124.- Son responsables de sedición los que reunidos tumultariamente pero sin armas, resistan a la autoridad o la ataquen para impedirle el libre ejercicio de sus funciones con alguno de los objetos a que se refiere el artículo 114.
+124.- Son responsables de sedición los que reunidos tumultariamente (sic) pero sin armas, resistan a la autoridad o la ataquen para impedirle el libre ejercicio de sus funciones con alguno de los objetos a que se refiere el artículo 114.
 
 La sedición se sancionará con tres meses a dos años de prisión.
 
@@ -1703,6 +1703,10 @@ Lo prevenido en esta fracción no comprende los casos en que la parte sea examin
 
 VI.- Al que, siendo autoridad, rinda a otra informe en los que afirme una falsedad o niegue u oculte la verdad, en todo o en parte.
 
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+225 Bis.- Se equipara a la falsedad en declaraciones judiciales y en informes dados a una autoridad y se sancionará en los términos establecidos en el artículo anterior, a quien al solicitar la intervención de un Notario Público le proporcione información o datos falsos para que se hagan constar en un instrumento público sobre hechos o, actos jurídicos destinados a crear, transmitir, modificar o extinguir derechos u obligaciones.
+
 226.- El testigo, el perito, el intérprete o el declarante a que se refieren las fracciones II, IV y V del artículo anterior que retracte espontáneamente sus falsas declaraciones u opiniones rendidas en juicio, antes de que se pronuncie sentencia en la instancia en que las diera, sólo pagará una multa de cinco a quince cuotas o trabajo en favor de la comunidad hasta por quince días, a juicio del juzgador.
 
 Pero si faltare también a la verdad al retractar sus declaraciones, se le aplicará la sanción correspondiente con arreglo a lo prevenido en este capítulo, considerándolos como reincidentes.
@@ -2351,7 +2355,7 @@ II.- Prohibirles ir a determinado lugar, municipio o distrito del Estado, o resi
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
 
-307.- Llámase infanticidio a la muerte causada a un niño o niña por su madre, dentro de las setenta y dos horas de su nacimiento.
+307.- Llámase (sic) infanticidio a la muerte causada a un niño o niña por su madre, dentro de las setenta y dos horas de su nacimiento.
 
 Al que cometa este delito se le aplicarán de seis a doce años de prisión y multa de cincuenta a cien cuotas.
 
@@ -2429,7 +2433,7 @@ Si el aborto lo causare un médico, cirujano, comadrona o partera, además de la
 
 318.- Se equipararán al robo y se sancionarán como tal:
 
-I.- La disposición o destrucción de una cosa mueble, ejecutada intencionalmente por el dueño de la cosa si se halla en poder de otro, a título de prenda o de depósito decretado por una autoridad o hecho con su intervención o mediante contrato público o privado; y (sic)
+I.- La disposición o destrucción de una cosa mueble, ejecutada intencionalmente por el dueño de la cosa si se halla en poder de otro, a título de prenda o de depósito decretado por una autoridad o hecho con su intervención o mediante contrato público o privado; y
 
 II.- El aprovechamiento de energía eléctrica o de cualquier otro fluido, ejecutado sin derecho y sin consentimiento de la persona que legalmente puede disponer de él.
 
@@ -2507,7 +2511,7 @@ VI.- Se roben tubos, conexiones, tapas de registro o cualesquiera otros implemen
 
 VII. Se sustraiga material de cobre en forma de cables, tapas, tubos, conectores, conductores, bovinas de motores u objetos similares, aún y cuando no se encuentren bajo la custodia o salvaguarda de un servicio público, adheridos o no a un bien inmueble, sin perjuicio de lo que proceda por el daño a la propiedad;
 
-VIII.- Se cometa de noche, llevando armas, con fractura o empleo de llaves falsas, horadación, excavación o escalamiento, o sean los ladrones dos o más o fingiéndose funcionarios o empleados públicos o suponiendo una orden de alguna autoridad; y (sic)
+VIII.- Se cometa de noche, llevando armas, con fractura o empleo de llaves falsas, horadación, excavación o escalamiento, o sean los ladrones dos o más o fingiéndose funcionarios o empleados públicos o suponiendo una orden de alguna autoridad; y
 
 IX.- Recaiga sobre vehículos estacionados en la vía pública, sobre parte de ellos u objetos guardados en su interior.
 
@@ -2693,7 +2697,7 @@ XIII.- Al que explote la superstición o la ignorancia de una persona por medio 
 
 XIV.- Al que habiendo recibido mercancías con subsidio o franquicia para darles un destino determinado, las distrajere de este destino o en cualquier forma desvirtúe los fines perseguidos por el subsidio o la franquicia;
 
-XV.- Al que aproveche indebidamente energía eléctrica o cualquier fluido, alterando por cualquier medio los medidores destinados a marcar el consumo o las indicaciones registradas por esos aparatos; y (sic)
+XV.- Al que aproveche indebidamente energía eléctrica o cualquier fluido, alterando por cualquier medio los medidores destinados a marcar el consumo o las indicaciones registradas por esos aparatos; y
 
 XVI.- Al que, con objeto de lucrar en perjuicio del consumidor, altere por cualquier medio los medidores de energía eléctrica o de otro fluido o las indicaciones registradas por esos aparatos.
 
@@ -3277,7 +3281,7 @@ VIII.- Sustraiga de una oficina pública, de una casilla, urna o de cualquier si
 
 > <small>(ADICIONADA, P.O. 6 DE MAYO DE 1995)</small>
 
-IX.- Mediante la violencia física o moral impida a otro votar libremente, viole el secreto del voto u obligue a votar por un partido o candidato determinado; y (sic)
+IX.- Mediante la violencia física o moral impida a otro votar libremente, viole el secreto del voto u obligue a votar por un partido o candidato determinado; y
 
 > <small>(ADICIONADA, P.O. 6 DE MAYO DE 1995)</small>
 
@@ -3373,7 +3377,7 @@ XV.- Impida a otro votar libremente, viole el secreto del voto u obligue a otro 
 
 > <small>(ADICIONADA, P.O. 6 DE MAYO DE 1995)</small>
 
-XVI.- Retenga algún paquete, expediente electoral y no los entregue oportunamente al organismo electoral respectivo; y (sic)
+XVI.- Retenga algún paquete, expediente electoral y no los entregue oportunamente al organismo electoral respectivo; y
 
 > <small>(ADICIONADA, P.O. 6 DE MAYO DE 1995)</small>
 
@@ -3475,7 +3479,7 @@ IX.- Obtenga y utilice a sabiendas fondos provenientes de actividades ilícitas 
 
 > <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 1997)</small>
 
-X.- Incite a la violencia que altere el orden público y afecte cualquiera de las etapas del proceso electoral; y (sic)
+X.- Incite a la violencia que altere el orden público y afecte cualquiera de las etapas del proceso electoral; y
 
 > <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 1997)</small>
 
@@ -3525,7 +3529,7 @@ Las mismas sanciones se impondrán a los responsables de los medios de comunicac
 
 384.- Se impondrá de dos a cuatro años de prisión y multa de cien a trescientas cincuenta cuotas de salario mínimo general vigente en la entidad, así como suspensión de sus derechos políticos hasta por dos años, al servidor público que dolosamente:
 
-I. Sin causa justificada, se niegue a desempeñar o no cumpla sin renunciar, con la función electoral que le ha sido asignada por los órganos competentes para ello; y (sic)
+I. Sin causa justificada, se niegue a desempeñar o no cumpla sin renunciar, con la función electoral que le ha sido asignada por los órganos competentes para ello; y
 
 II. Realice funciones electorales que legalmente no le hayan sido encomendadas.
 
@@ -3759,7 +3763,7 @@ P.O. 25 DE OCTUBRE DE 2006.
 
 PRIMERO.- El Presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
-SEGUNDO.- A las personas que hayan cometido algún delito en las circunstancias que se contempla, en el presente Decreto, con anterioridad a su entrada en vigor, les serán aplicadas las disposiciones del Código Penal del Estado vigente en el comento de su comisión, sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 de dicho Código sustantivo.
+SEGUNDO.- A las personas que hayan cometido algún delito en las circunstancias que se contempla, en el presente Decreto, con anterioridad a su entrada en vigor, les serán aplicadas las disposiciones del Código Penal del Estado vigente en el comento (sic) de su comisión, sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 de dicho Código sustantivo.
 
 P.O. 15 DE SEPTIEMBRE DE 2007.
 
@@ -3808,3 +3812,9 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 P.O. 25 DE JUNIO DE 2014.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 19 DE NOVIEMBRE DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que contravengan este Decreto.
