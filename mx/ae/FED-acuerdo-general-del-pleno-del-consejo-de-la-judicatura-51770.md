@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51770"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2013-12-05"
+last_updated: "2014-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51770&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE NOVIEMBRE DE 2014.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -99,7 +99,15 @@ II. Juez de Distrito;
 
 III. Secretario de Tribunal de Circuito;
 
+> <small>(ADICIONADA POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 36/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+III Bis. Asistente de Constancias y Registro de Tribunal de Alzada;
+
 IV. Secretario de Juzgado de Distrito;
+
+> <small>(ADICIONADA POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 36/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+IV Bis. Asistente de Constancias y Registro de juez de control o juez de enjuiciamiento; y
 
 V. Actuario de Tribunal de Circuito; y
 
@@ -399,9 +407,9 @@ Para obtener una ponderación detallada de los elementos mencionados en el artí
 
 I. Los Cursos del Instituto serán valorados de la siguiente manera:
 
-> <small>(F. DE E., D.O.F. 12 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 36/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
 
-a) Especialidad en Secretaría de Juzgado de Distrito y Tribunal de Circuito: cinco puntos;
+a) Especialidad en Secretaría de Juzgado de Distrito y Tribunal de Circuito, así como en Asistencia de Constancias y Registro de Tribunal de Alzada, Juzgado de Control y Tribunal de Enjuiciamiento: cinco puntos;
 
 > <small>(F. DE E., D.O.F. 12 DE OCTUBRE DE 2006)</small>
 
@@ -439,9 +447,13 @@ f) Secretario de Acuerdos de Sala; hasta 5 puntos, considerando 1 punto por cada
 
 g) Subsecretario de Acuerdos de Sala; hasta 5 puntos, considerando 1 punto por cada año de servicios hasta llegar a un máximo de cinco años.
 
-h) Secretario de Tribunal de Circuito o Secretario de Estudio y Cuenta de las Salas Regionales del Tribunal Electoral del Poder Judicial de la Federación; hasta 4 puntos, considerando 1 punto por cada año de servicios hasta llegar a un máximo de cuatro años.
+> <small>(REFORMADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 36/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
 
-i) Secretario de Juzgado de Distrito; hasta 4 puntos, considerando 1 punto por cada año de servicios hasta llegar a un máximo de cuatro años.
+h) Secretario de Tribunal de Circuito, Asistente de Constancias y Registro de Tribunal de Alzada o Secretario de Estudio y Cuenta de las Salas Regionales del Tribunal Electoral del Poder Judicial de la Federación; hasta 4 puntos, considerando 1 punto por cada año de servicios hasta llegar a un máximo de cuatro años.
+
+> <small>(REFORMADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 36/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+i) Secretario de Juzgado de Distrito o Asistente de Constancias y Registro de juez de control o de juez de enjuiciamiento; hasta 4 puntos, considerando 1 punto por cada año de servicios hasta llegar a un máximo de cuatro años.
 
 j) Actuario del Poder Judicial de la Federación; hasta 2 puntos, considerando medio punto por cada año de servicios hasta llegar a un máximo de cuatro años.
 
@@ -527,7 +539,7 @@ IV. Requerirá al Contralor del Poder Judicial de la Federación para que remita
 
 V. Ordenará recabar la información estadística sobre la actividad del funcionario a ratificar;
 
-VI. Solicitará a la Secretaría Ejecutiva de Disciplina los resultados de las visitas de inspección, de los informes circunstanciados y de los procedimientos administrativos disciplinarios formulados en contra del servidor público; y (sic)
+VI. Solicitará a la Secretaría Ejecutiva de Disciplina los resultados de las visitas de inspección, de los informes circunstanciados y de los procedimientos administrativos disciplinarios formulados en contra del servidor público; y
 
 VII. Turnará el expediente a un Consejero a fin de que elabore el dictamen correspondiente para someterlo al Pleno;
 
@@ -569,9 +581,11 @@ VI. No haber sido condenado por delito intencional con sanción privativa de lib
 
 VII. Manifestar bajo protesta de decir verdad no estar inhabilitado para el ejercicio de un empleo, cargo o comisión en el servicio público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 36/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 51.
 
-Para poder ser designado Secretario de Tribunal de Circuito o Juzgado de Distrito se requiere lo siguiente:
+Para poder ser designado Secretario de Tribunal de Circuito o de Juzgado de Distrito, así como Asistente de Constancias y Registro de Tribunal de Alzada, de juez de control o de juez de enjuiciamiento, se requiere lo siguiente:
 
 I. Ser de nacionalidad mexicana;
 
@@ -589,9 +603,11 @@ VII. No haber sido condenado por delito intencional con sanción privativa de li
 
 VIII. Manifestar bajo protesta de decir verdad no estar inhabilitado para el ejercicio de un empleo, cargo o comisión en el servicio público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 36/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 52.
 
-La experiencia profesional de tres años requerida para ser designado Secretario de Tribunal de Circuito o de Juzgado de Distrito, se computará a partir de la fecha en que el aspirante haya aprobado su examen profesional para obtener título de licenciado en derecho, salvo en aquellos casos en que se satisfagan los siguientes requisitos:
+La experiencia profesional de tres años requerida para ser designado Secretario de Tribunal de Circuito o de Juzgado de Distrito, así como Asistente de Constancias y Registro de Tribunal de Alzada, de juez de control o de juez de enjuiciamiento, se computará a partir de la fecha en que el aspirante haya aprobado su examen profesional para obtener título de licenciado en derecho, salvo en aquellos casos en que se satisfagan los siguientes requisitos:
 
 I. Que antes de titularse el aspirante haya laborado en órganos jurisdiccionales del Poder Judicial de la Federación o en el Consejo, independientemente de la categoría que tenga o del cargo que desempeñe; debiendo tener, en cualquier caso, una antigüedad de cuando menos tres años; y
 
@@ -619,9 +635,11 @@ Los alumnos del Curso para Secretarios y de la Especialidad deberán cumplir con
 
 El Curso para Actuarios se impartirá exclusivamente en la modalidad virtual. Los alumnos de este curso deberán cumplir con los requisitos previstos en el artículo 50 de este Acuerdo.
 
+> <small>(REFORMADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 36/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 56.
 
-El Plan de Estudios de la Especialidad, será elaborado por el Comité Académico del Instituto, en coordinación con el Director General. En dicho documento deberán especificarse las habilidades, conocimientos y aptitudes básicas de los alumnos, indispensables para desempeñar el cargo de secretario de órgano jurisdiccional.
+El Plan de Estudios de la Especialidad, será elaborado por el Comité Académico del Instituto, en coordinación con el Director General. En dicho documento deberán especificarse las habilidades, conocimientos y aptitudes básicas de los alumnos, indispensables para desempeñar el cargo de secretario de órgano jurisdiccional, así como Asistente de Constancias y Registro de Tribunal de Alzada, de juez de control o de juez de enjuiciamiento.
 
 ###### Artículo 57.
 
@@ -715,9 +733,9 @@ Los nombres de las personas que hayan acreditado los cursos regulares impartidos
 
 La lista se difundirá en la página Web del Instituto y en los estrados de la sede central, a fin de que los titulares puedan seleccionar y nombrar a las personas que consideren conveniente.
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 23 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 36/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
 
-Las personas que hayan causado baja del Poder Judicial de la Federación por más de tres años, para poder reingresar a los cargos de secretario de tribunal de Circuito o de juzgado de Distrito y de actuario judicial deberán aprobar nuevamente el examen de aptitud a que hace referencia el párrafo segundo del artículo 112 de la Ley o el curso para secretarios.
+Las personas que hayan causado baja del Poder Judicial de la Federación por más de tres años, para poder reingresar a los cargos de secretario de tribunal de Circuito o de juzgado de Distrito; así como de Asistente de Constancias y Registro de Tribunal de Alzada, de juez de control, o de juez de enjuiciamiento; y de actuario judicial deberán aprobar nuevamente el examen de aptitud a que hace referencia el párrafo segundo del artículo 112 de la Ley o el curso para secretarios.
 
 Los egresados de la Especialidad estarán disponibles para cualquier plaza de la República; y su negativa de trasladarse al lugar donde se les requiera por primera ocasión, tendrá como consecuencia el que sean dados de baja por el Instituto de la referida lista, previa comunicación del titular que los hubiera requerido.
 
@@ -741,9 +759,9 @@ De aprobar el examen de aptitud, los aspirantes a los cargos de actuario y secre
 
 La circunstancia de que un Magistrado de Circuito o Juez de Distrito adquiera alguno de los parentescos por afinidad o civil, a que se refiere la fracción XI del artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos con alguno de los servidores públicos adscritos al mismo órgano jurisdiccional del que sea titular, no hace cesar el nombramiento respectivo, previamente expedido, ni impide que los funcionarios involucrados continúen en el disfrute de sus derechos laborales; con excepción del caso de que se trate del matrimonio celebrado por el titular con uno de esos servidores públicos.
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 20 DE JULIO DE 2010)</small>
+> <small>(REFORMADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 36/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
 
-En el caso de que en algún órgano jurisdiccional se hubiere extendido un nombramiento de base o interino, en las categorías de secretario de Juzgado o de Tribunal de Circuito o bien, de actuario de los mismos, a persona o personas que fueren cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado de algún titular; éste no podrá a su vez, extender nombramientos en los mismos términos respecto de personas que resultaren cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado del titular del órgano donde se encuentren adscritos sus allegados. El titular que designe en alguno de los citados cargos a personas que se ubiquen en los supuestos citados, deberá dar aviso de esa circunstancia a la Dirección General de Recursos Humanos del Consejo de la Judicatura Federal.
+En el caso de que en algún órgano jurisdiccional se hubiere extendido un nombramiento de base o interino, en las categorías de secretario de Juzgado; o de Tribunal de Circuito; de actuario de los mismos; o bien de Asistente de Constancias y Registro de Tribunal de Alzada, de juez de control, o de juez de enjuiciamiento; a persona o personas que fueren cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado de algún titular; éste no podrá a su vez, extender nombramientos en los mismos términos respecto de personas que resultaren cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado del titular del órgano donde se encuentren adscritos sus allegados. El titular que designe en alguno de los citados cargos a personas que se ubiquen en los supuestos citados, deberá dar aviso de esa circunstancia a la Dirección General de Recursos Humanos del Consejo de la Judicatura Federal.
 
 > <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 20 DE JULIO DE 2010)</small>
 
@@ -763,9 +781,11 @@ Los magistrados distribuirán equitativamente las plazas asignadas a la Secretar
 
 La Comisión queda facultada para, en los casos no previstos en este Acuerdo, resolver las consultas relativas a nombramientos de actuarios y de secretarios de tribunales de circuito y juzgados de distrito, a propuesta del Magistrado de Circuito o Juez de Distrito respectivo, previa acreditación del examen de aptitud correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 36/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 75.
 
-Para expedir un nombramiento de Secretario de Tribunal de Circuito o de Juzgado de Distrito, así como de Actuario del Poder Judicial de la Federación, los titulares podrán solicitar al Instituto la información profesional y, en su caso, académica del integrante de la lista que pretendan designar.
+Para expedir un nombramiento de Secretario de Tribunal de Circuito; o de Juzgado de Distrito; así como de Asistente de Constancias y Registro de Tribunal de Alzada, de juez de control; o de juez de enjuiciamiento; y de Actuario del Poder Judicial de la Federación, los titulares podrán solicitar al Instituto la información profesional y, en su caso, académica del integrante de la lista que pretendan designar.
 
 En caso de que dos o más titulares soliciten informe respecto de un mismo integrante, aquél se remitirá a todos y tendrá preferencia para otorgar el nombramiento el primero que lo solicite, tomando como base la fecha en que se haya recibido la petición correspondiente en el Instituto.
 
@@ -777,15 +797,17 @@ Si el titular, una vez analizada la información profesional y académica del in
 
 Los titulares de los tribunales de circuito y juzgados de distrito están facultados para renovar los nombramientos de los secretarios y actuarios de su adscripción, sin necesidad de que éstos presenten el correspondiente examen de aptitud.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 36/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 77.
 
-Los titulares de los órganos jurisdiccionales pueden otorgar, en cualquier momento, la base a los servidores públicos de su adscripción, con nombramiento de Secretario de Tribunal de Circuito, Juzgado de Distrito o Actuario del Poder Judicial de la Federación, cuando a su juicio resulte procedente, siempre que la plaza correspondiente se encuentre vacante y sea definitiva en la plantilla autorizada, tomando en consideración las prevenciones señaladas en la Ley Federal de los Trabajadores al Servicio del Estado Reglamentaria del Apartado B del Artículo 123 Constitucional.
+Los titulares de los órganos jurisdiccionales pueden otorgar, en cualquier momento, la base a los servidores públicos de su adscripción, con nombramiento de Secretario de Tribunal de Circuito; de Juzgado de Distrito; Asistente de Constancias y Registro de Tribunal de Alzada, de juez de control, o de juez de enjuiciamiento; o Actuario del Poder Judicial de la Federación, cuando a su juicio resulte procedente, siempre que la plaza correspondiente se encuentre vacante y sea definitiva en la plantilla autorizada, tomando en consideración las prevenciones señaladas en la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional.
 
 En esos casos el nombramiento de base en el cargo procederá si, además, la persona de que se trate reúne los requisitos señalados en los artículos 107 y 109 de la Ley y se cumplen las condiciones establecidas en este Acuerdo.
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 77 DEL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE ENERO DE 2011)</small>
+> <small>(REFORMADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 36/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
 
-Los Jueces y Magistrados Interinos y los Secretarios de Tribunal de Circuito o Juzgado de Distrito autorizados para realizar las funciones de magistrados y jueces, respectivamente, por las ausencias temporales de los titulares, sólo podrán extender nombramientos de Secretarios de Tribunal de Circuito, Juzgados de Distrito o Actuario del Poder Judicial de la Federación, de manera temporal, cuando la plaza correspondiente se encuentre desocupada; salvo aquellos casos en que la base se deba otorgar por disposición legal.
+Los Jueces y Magistrados Interinos y los Secretarios de Tribunal de Circuito o Juzgado de Distrito autorizados para realizar las funciones de magistrados y jueces, respectivamente, por las ausencias temporales de los titulares, sólo podrán extender nombramientos de Secretarios de Tribunal de Circuito, Juzgados de Distrito o Actuario del Poder Judicial de la Federación, de manera temporal, cuando la plaza correspondiente se encuentre desocupada; salvo aquellos casos en que la base se deba otorgar por disposición legal. Lo mismo se observará en caso de nombramientos de Asistente de Constancias y Registro que extiendan los jueces de Control o juzgadores de tribunales de Enjuiciamiento y de Alzada Interinos.
 
 ###### Artículo 78.
 
@@ -898,6 +920,14 @@ En los casos de impedimento a que se refiere el primer párrafo del artículo an
 ###### Artículo 98.
 
 La designación del secretario que deba suplir a un Magistrado de Tribunal Colegiado de Circuito impedido, deberá recaer en un secretario adscrito a la ponencia de aquél; y si dicho magistrado es el presidente del tribunal, la designación no podrá recaer en un secretario adscrito a las áreas comunes del tribunal. En ningún caso el secretario designado ejercerá las funciones de presidente del tribunal, sino que esta labor deberá recaer en alguno de los otros dos magistrados que lo integren.
+
+> <small>(ADICIONADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 36/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 98 Bis.
+
+Tratándose del sistema penal acusatorio, cuando un juez de Control, juzgador de Tribunal de Enjuiciamiento o de Tribunal de Alzada se encuentre impedido para conocer de un asunto, conocerá otro juzgador similar del mismo Centro de Justicia Penal.
+
+En caso de que no sea posible, podrá conocer un juzgador de otro Centro de Justicia Penal, en términos de las disposiciones aplicables.
 
 ## TITULO NOVENO. De las Vacaciones y Días Inhábiles
 
@@ -1453,7 +1483,7 @@ NOVENO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación,
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Carrera Judicial y las Condiciones de los Funcionarios Judiciales, fue aprobado en sesión extraordinaria de nueve de agosto de dos mil seis, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Luis María Aguilar Morales, Adolfo O. Aragón Mendía, Constancio Carrasco Daza, Elvia Díaz de León D´Hers, María Teresa Herrera Tello y Miguel A. Quirós Pérez.- México, Distrito Federal, a veintiocho de septiembre de dos mil seis.- Conste.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ACUERDO.</small>
 
 D.O.F. 17 DE NOVIEMBRE DE 2006.
 
@@ -1808,3 +1838,39 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar de inmediato, el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Carrera Judicial y las Condiciones de los Funcionarios Judiciales.
+
+D.O.F. 19 DE NOVIEMBRE DE 2014.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo previsto en sus artículos QUINTO al OCTAVO transitorios, que entrarán en vigor al día siguiente de la aprobación del mismo.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Los acuerdos generales del Consejo de la Judicatura Federal vigentes a la entrada en vigor del presente Acuerdo serán aplicables a los Centros de Justicia Penal en lo no previsto por éste, siempre y cuando no se opongan al mismo.
+
+CUARTO. Las referencias que se hagan en otros acuerdos generales a los juzgados de Distrito se entenderán hechas a los jueces de Control, de Ejecución y tribunales de enjuiciamiento; y aquellas que se hagan a los tribunales Unitarios de Circuito a los tribunales de Alzada.
+
+QUINTO. La Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, deberá someter, directamente, a consideración del Pleno del Consejo de la Judicatura Federal, los acuerdos generales de creación de los Centros de Justicia Penal, conforme el Congreso de la Unión vaya emitiendo las declaratorias de entrada en vigor del Código Nacional de Procedimientos Penales.
+
+SEXTO. La Coordinación de Seguridad del Poder Judicial de la Federación deberá someter, directamente, a consideración y, en su caso, aprobación del Pleno del Consejo de la Judicatura Federal, los instrumentos normativos que se estimen necesarios, y que deben observarse en los Centros de Justicia Penal cuya creación determine el referido órgano colegiado, antes del inicio de operaciones de los mismos, a fin de que entren en vigor ese mismo día.
+
+SÉPTIMO. La Dirección General de Comunicación Social deberá someter a consideración y, en su caso, aprobación, del Pleno del Consejo de la Judicatura Federal, los lineamientos para la acreditación de periodistas y medios de comunicación, antes del inicio de operaciones del primer Centro de Justicia Penal.
+
+OCTAVO. La Dirección General de Innovación, Planeación y Desarrollo Institucional en coordinación con la Unidad de Implementación de las Reformas Penal, de Juicio de Amparo y Derechos Humanos en el Poder Judicial de la Federación, deberá elaborar el proyecto del manual correspondiente de los Centros de Justicia Penal.
+
+Las áreas administrativas del Consejo brindarán el apoyo y asesoría que sea necesario para la elaboración del proyecto respectivo.
+
+El proyecto correspondiente deberá someterse a la consideración y, en su caso, aprobación del Pleno del Consejo de la Judicatura Federal antes del inicio de operaciones del Centro de Justicia Penal.
+
+El manual aprobado deberá publicarse, antes de su entrada en vigor, en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+NOVENO. Los juzgados de Distrito y tribunales de Circuito competentes para conocer de procedimientos penales que se tramiten conforme al Código Federal de Procedimientos Penales, también lo son para practicar actos procesales que le sean requeridos por jueces de Control o tribunales de Enjuiciamiento o Alzada.
+
+En tanto se crean en cada circuito judicial los Centros de Justicia Penal, los juzgados de Distrito mixtos y especializados en materia penal o de procedimientos penales federales, según la localidad de que se trate, tendrán competencia en sus jurisdicciones territoriales para conocer de las solicitudes de autorización judicial para diligencias urgentes que formule el Ministerio Público respecto de actos y medidas que requieran control judicial, conforme lo dispuesto en el artículo 24 del Código Nacional de Procedimientos Penales.
+
+Para dichos efectos, la Oficialía Mayor, por conducto de las unidades administrativas que le están adscritas, tomará las medidas necesarias para que los juzgados de Distrito y Tribunales de Circuito cuenten con los insumos necesarios para desahogar las diligencias que les sean requeridas en términos del Código Nacional de Procedimientos Penales.
+
+DÉCIMO. Las áreas administrativas del Consejo de la Judicatura Federal, en el ámbito de su competencia, adoptarán las medidas necesarias para la implementación del presente Acuerdo.
+
+DÉCIMO PRIMERO. La creación de los jueces de Ejecución de los Centros de Justicia Penal quedará diferida hasta en tanto se expida la legislación en la materia.
+
+DÉCIMO SEGUNDO. Para efectos del artículo 110 de la Ley Orgánica del Poder Judicial de la Federación los Asistentes de Constancias y Registro de Tribunal de Alzada, Juzgado de Control, y Tribunal de Enjuiciamiento, constituyen una especialización de las categorías de secretarios de tribunal de Circuito y de juzgado de Distrito.
