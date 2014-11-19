@@ -1,0 +1,706 @@
+---
+title: "ACUERDO GENERAL 36/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL]"
+identifier: "FED-acuerdo-general-36-2014-del-pleno-del-consejo-de-la-103553"
+country: "mx"
+rank: "acuerdo"
+publication_date: "2014-11-19"
+last_updated: "2014-11-19"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103553&Vig=1&TPub=6"
+department: "Diario Oficial de la Federación"
+scjn_id: "103553"
+scjn_status: "VIGENTE"
+gazette: "Diario Oficial de la Federación"
+original_category: "ACUERDO (S)"
+original_gazette_section: "12 SEGUNDA SECCION"
+reform_count: "17"
+scjn_last_update: "2023-12-26"
+issue_date: "2014-11-12"
+---
+# ACUERDO GENERAL 36/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL]
+
+ACUERDO GENERAL 36/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL; Y QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES
+
+TEXTO ORIGINAL.
+
+Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 19 de noviembre de 2014.
+
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno y de la Presidencia.
+
+ACUERDO GENERAL 36/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL; Y QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES.
+
+CONSIDERANDO
+
+PRIMERO. La administración, vigilancia, disciplina y carrera judicial del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y el Tribunal Electoral del mismo, corresponde al Consejo de la Judicatura Federal, con fundamento en los artículos 94, segundo párrafo, de la Constitución Política de los Estados Unidos Mexicanos y 68 de la Ley Orgánica del Poder Judicial de la Federación;
+
+SEGUNDO. De conformidad con el artículo 100, primer párrafo constitucional, el Consejo de la Judicatura Federal es un órgano del Poder Judicial de la Federación con independencia técnica, de gestión y para emitir sus resoluciones;
+
+TERCERO. Es facultad del Consejo de la Judicatura Federal emitir acuerdos generales para el adecuado ejercicio de sus funciones, de conformidad con lo previsto en los artículos 100 de la Constitución Política de los Estados Unidos Mexicanos y 81, fracción II, de la Ley Orgánica del Poder Judicial de la Federación; y
+
+CUARTO. Uno de los paradigmas más importantes del nuevo sistema procesal penal es el principio de inmediación, el cual consiste en la presencia permanente del juzgador en el desahogo de las audiencias, para lo cual la oralidad resulta fundamental, ya que a través de esta herramienta, el órgano jurisdiccional se allega de los elementos de valoración para emitir la sentencia correspondiente, sin que pueda tomar en consideración, por regla general, probanzas que no han sido desahogadas en el plenario.
+
+Por ello, el nuevo sistema reclama la adopción de otros esquemas de gestión judicial, propios de la forma de intervención del juzgador en el proceso penal.
+
+El presente Acuerdo regula un nuevo diseño administrativo-judicial, basado en la creación de Centros de Justicia Penal, los cuales estarían conformados en dos vertientes, en específico la jurisdiccional y la administrativa. La primera estaría integrada por el Juez de Control, el Tribunal de Enjuiciamiento, el Tribunal de Alzada y el Juez de Ejecución; y la segunda por el Administrador y el personal que le esté adscrito.
+
+Por lo anterior, se expide el siguiente
+
+ACUERDO
+
+###### ARTÍCULO PRIMERO.
+
+Se expide el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal, para quedar como sigue:
+
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+### CAPÍTULO ÚNICO
+
+###### Artículo 1.
+
+El objeto del presente Acuerdo es establecer las disposiciones relativas a la organización y funcionamiento de los Centros de Justicia Penal, en los cuales se integran y articulan los órganos jurisdiccionales y áreas administrativas, necesarios para tramitar los procesos del sistema penal acusatorio previsto en la Constitución Política de los Estados Unidos Mexicanos y en el Código Nacional de Procedimientos Penales.
+
+###### Artículo 2.
+
+Para efectos del presente Acuerdo se entenderá por:
+
+I. Administración del Centro: la oficina del Administrador del Centro y las áreas especializadas que de él dependen;
+
+II. Administrador: Administrador del Centro de Justicia Penal;
+
+III. Áreas administrativas: Las que determine el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo;
+
+IV. Centro: Centro de Justicia Penal;
+
+V. Código: Código Nacional de Procedimientos Penales;
+
+VI. Comisiones permanentes: las que determine el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo;
+
+VII. Consejo: Consejo de la Judicatura Federal;
+
+VIII. Juez de Control: Juez de Distrito competente para intervenir desde el principio del procedimiento hasta el dictado de apertura a juicio;
+
+IX. Juez de Ejecución: Juez de Distrito especializado en ejecución de sanciones penales;
+
+X. Ley: Ley Orgánica del Poder Judicial de la Federación;
+
+XI. Tribunal de Enjuiciamiento: Juez de Distrito que interviene después del auto de apertura a juicio oral, hasta el dictado y explicación de la sentencia;
+
+XII. Tribunal de Alzada: Tribunal Unitario de Circuito que resuelve la apelación;
+
+XIII. Órganos jurisdiccionales: jueces de Control y de Ejecución, así como tribunales de Enjuiciamiento y de Alzada; y
+
+XIV. Pleno: Pleno del Consejo.
+
+###### Artículo 3.
+
+La interpretación del presente Acuerdo corresponde al Pleno y a las Comisiones permanentes, en el ámbito de su competencia.
+
+## TÍTULO SEGUNDO. DISPOSICIONES ORGÁNICAS
+
+### CAPÍTULO PRIMERO. CENTROS DE JUSTICIA PENAL
+
+###### Artículo 4.
+
+Los Centros se integran por jueces de Control; Tribunales de Enjuiciamiento, Tribunales de Alzada y jueces de Ejecución; así como un Administrador, y el personal que determine el Consejo de conformidad con el Presupuesto del Poder Judicial de la Federación.
+
+###### Artículo 5.
+
+Los órganos jurisdiccionales tendrán a su cargo a los servidores públicos que le estén directamente adscritos. Lo mismo sucederá con el Administrador respecto de su personal.
+
+### CAPÍTULO SEGUNDO. ADMINISTRACIÓN DEL CENTRO
+
+###### Artículo 6.
+
+Al frente de cada Administración del Centro estará un Administrador, quien se auxiliará para el ejercicio de sus atribuciones de las áreas especializadas que se determinen en el manual correspondiente de los Centros.
+
+El Administrador estará adscrito a la Comisión de Administración y será el responsable de la administración del Centro.
+
+###### Artículo 7.
+
+Los requisitos para ser Administrador son los siguientes:
+
+I. Contar con título y cédula profesional de licenciatura expedidos por autoridad competente, y acreditar los conocimientos necesarios mediante los exámenes que determine el Consejo;
+
+II. Acreditar cuando menos cinco años de experiencia profesional;
+
+III. Ser mayor de treinta años al momento de la designación;
+
+IV. Estar en pleno goce de derechos civiles y políticos;
+
+V. Gozar de buena reputación; y
+
+VI. No haber sido condenado por delito doloso con sanción privativa de la libertad mayor a un año.
+
+###### Artículo 8.
+
+Los Administradores de los Centros serán designados por la Comisión de Administración, de entre los finalistas del procedimiento de selección que al efecto se convoque o de la lista de reservistas.
+
+Los procedimientos de selección serán internos o abiertos, según lo determine el Pleno en la convocatoria respectiva.
+
+El nombramiento inicial del Administrador será de tres o seis meses, según lo determine la Comisión de Administración.
+
+Antes del vencimiento del nombramiento inicial por tres meses, la Dirección General de Recursos Humanos pondrá a consideración de la Comisión de Administración la prórroga por tres meses más, o bien, si se otorgó por seis meses la propuesta será por tiempo indefinido.
+
+La terminación anticipada del nombramiento, por cualquier causa, será resuelta por la Comisión de Administración a propuesta de la Dirección General de Recursos Humanos, y de ser procedente será notificada por ésta.
+
+###### Artículo 9.
+
+El Administrador propondrá a la Comisión de Administración, por conducto de la Dirección General de Recursos Humanos, al candidato a ocupar un puesto vacante dependiente del mismo, previo desahogo del procedimiento de selección que al efecto se convoque o de entre la lista de reservistas, según lo determine la Comisión de Administración.
+
+###### Artículo 10.
+
+El nombramiento inicial del personal de confianza dependiente del Administrador, será de tres o seis meses, salvo en los siguientes casos:
+
+I. Que el nombramiento se expida a favor del servidor público que cubra algún tipo de licencia u ocupe una plaza temporal. En este caso el nombramiento no podrá ser menor de siete días;
+
+II. Que la propuesta de nombramiento contenga características especiales, debidamente fundadas y motivadas, mismas que deberán ser informadas por el Administrador, mediante escrito dirigido a la Dirección General de Recursos Humanos; y
+
+III. Que el servidor público con antigüedad en el puesto de seis meses, cause baja por renuncia o por fin de nombramiento y el Administrador le extienda nuevo nombramiento en el mismo puesto. En este caso se elaborará de forma indefinida, siempre y cuando no exista interrupción entre ambos nombramientos.
+
+El Administrador propondrá a la Comisión de Administración la temporalidad inicial del nombramiento, a efecto de evaluar el desempeño laboral del servidor público.
+
+###### Artículo 11.
+
+La Dirección General de Recursos Humanos pondrá a consideración de la Comisión de Administración, la prórroga de nombramiento del personal dependiente del Administrador, por tiempo indefinido cuando:
+
+I. El Administrador, previo al término del nombramiento inicial, así lo solicite, o
+
+II. Transcurran seis meses continuos de nombramiento en el mismo puesto y el titular respectivo solicite su renovación, aun cuando dicha petición sea por tiempo determinado.
+
+El Administrador podrá determinar la terminación anticipada del nombramiento, misma que deberá notificar al interesado, y dar aviso de inmediato a la Dirección General de Recursos Humanos, para que someta a la consideración de la Comisión de Administración la realización de un nuevo procedimiento de selección o la utilización de la lista de reservistas.
+
+###### Artículo 12.
+
+Las convocatorias de los procedimientos de selección que se emitan deberán contener:
+
+I. Las plazas sujetas al procedimiento de selección y lugar de adscripción;
+
+II. Lugar de inscripción;
+
+III. El perfil que debe reunir la persona que ocupe el puesto;
+
+IV. Los requisitos que deban cumplir los aspirantes y la forma de acreditarlos;
+
+V. Lugar, día y hora en que deben presentarse los candidatos;
+
+VI. El responsable del desahogo del procedimiento de selección;
+
+VII. Las etapas del procedimiento de selección, la forma de su desahogo y las fechas para ello;
+
+VIII. La atribución de la Dirección General de Recursos Humanos de verificar la autenticidad y veracidad de los documentos e información que proporcionen los aspirantes;
+
+IX. La prohibición de los aspirantes de realizar gestiones personales relativas al desahogo del procedimiento; y
+
+X. Los demás aspectos que determine el Pleno o la Comisión de Administración.
+
+###### Artículo 13.
+
+Si el procedimiento es abierto la convocatoria se publicará en el Diario Oficial de la Federación, en un periódico de mayor circulación nacional, en otro de la entidad federativa en que se realice el procedimiento, y en la página de internet del Consejo. En caso de que sea interno sólo en este último medio.
+
+###### Artículo 14.
+
+Corresponde a la Dirección General de Recursos Humanos:
+
+I. Proponer a la Comisión de Administración que se lleve a cabo un procedimiento de selección o se haga uso de la lista de reservistas, en cuanto tenga conocimiento de una vacante de Administrador o del personal que le esté adscrito;
+
+II. Elaborar las convocatorias de los procedimientos de selección;
+
+III. El desahogo de los procedimientos de selección;
+
+IV. Integrar la lista de reservistas; y
+
+V. Las demás que determine el Pleno y la Comisión de Administración.
+
+###### Artículo 15.
+
+La lista de reservistas se integrará por los finalistas en los procedimientos de selección que no hayan sido designados.
+
+La vigencia de cada uno de los registros en la lista será de tres años, sin perjuicio de que la Dirección General de Recursos Humanos, verifique que los integrantes de la lista siguen cumpliendo con los requisitos para ocupar el cargo, antes de que la misma se presente a la consideración de la Comisión de Administración o del Administrador.
+
+La incorporación en la lista de reservistas será voluntaria y no generará derecho alguno a los integrantes de la misma.
+
+###### Artículo 16.
+
+Corresponde al Administrador:
+
+I. Coordinar y supervisar las acciones de soporte jurídico y los procesos complementarios siguientes:
+
+a) Atención al público;
+
+b) Acreditación de periodistas y medios de comunicación, en términos de las disposiciones aplicables;
+
+c) Recepción, registro y turno de correspondencia y asuntos;
+
+d) Programación y gestión óptima de audiencias; y
+
+e) Notificaciones;
+
+II. Coordinar la gestión logística y los servicios de información necesarios para llevar a cabo el proceso penal;
+
+III. Participar en las acciones de coordinación con las autoridades competentes, y con la intervención de la Coordinación de Seguridad del Poder Judicial de la Federación, para el traslado y presentación de personas, en términos de las disposiciones aplicables y conforme a las medidas de seguridad que correspondan;
+
+IV. Brindar apoyo a los órganos jurisdiccionales del Centro en la operación, mantenimiento y supervisión de sistemas administrativos, financieros e informáticos, así como en la gestión de recursos humanos, materiales y servicios generales;
+
+V. Servir de enlace entre los órganos jurisdiccionales del Centro y las áreas administrativas del Consejo, en la gestión y desahogo de trámites administrativos, estadísticos e informáticos;
+
+VI. Apoyar a los órganos jurisdiccionales en la operación, mantenimiento y supervisión de los sistemas informáticos de gestión judicial;
+
+VII. Proponer la designación de su personal en los términos previstos en este Acuerdo;
+
+VIII. Revisar los proyectos de autos elaborados por el personal del área especializada correspondiente, en apoyo de los órganos jurisdiccionales; a efecto de que dé cuenta con ellos a los titulares respectivos, para que éstos en ejercicio pleno de su autonomía jurisdiccional, determinen lo pertinente; y
+
+IX. Las demás que determinen el Pleno o las Comisiones permanentes.
+
+Para el ejercicio de sus atribuciones el Administrador podrá auxiliarse del personal que le esté adscrito, en términos del manual correspondiente de los Centros.
+
+En el ejercicio de las atribuciones a que se refieren las fracciones IV y V de este artículo, el Administrador deberá observar la normatividad, procedimientos, manuales, lineamientos, directrices e instrucciones, tanto generales como particulares y demás disposiciones aplicables a las funciones de los Coordinadores Técnicos Administrativos.
+
+###### Artículo 17.
+
+Las ausencias, temporales y definitivas, de los Administradores serán suplidas por los titulares de las áreas especializadas que establezca el manual correspondiente de los Centros, en el orden que en el mismo se señale. Esto último también se observará respecto de las ausencias de dichos titulares.
+
+###### Artículo 18.
+
+En el ámbito de su competencia, las áreas administrativas del Consejo brindarán asesoría y apoyo al Administrador, para el debido ejercicio de sus atribuciones.
+
+### CAPÍTULO TERCERO. JUECES Y TRIBUNALES
+
+###### Artículo 19.
+
+En términos de lo dispuesto en el Código, son competentes para conocer de los procedimientos penales federales regulados en el mismo, los jueces de Control y los tribunales de Enjuiciamiento y de Alzada, adscritos a los Centros, dentro de su jurisdicción territorial conforme a lo previsto en este Acuerdo y en el de su creación, y en los demás que expida el Consejo.
+
+Además de lo dispuesto por el artículo 22 de dicho Código, los jueces de Control y los tribunales de Enjuiciamiento serán competentes para conocer de procedimientos penales fuera de su jurisdicción territorial, en aquellos casos en que la Comisión de Adscripción lo determine.
+
+Los jueces de Ejecución serán competentes para conocer de la ejecución de sanciones penales impuestas en los procedimientos penales que se tramiten y resuelvan en el Centro de su adscripción, conforme a las disposiciones aplicables, sin perjuicio de que lo previsto en el párrafo anterior, también será observable respecto de dichos juzgadores.
+
+###### Artículo 20.
+
+Los acuerdos generales mediante los cuales se creen los Centros deberán contener:
+
+I. Denominación de los órganos jurisdiccionales;
+
+II. Domicilio de los órganos jurisdiccionales;
+
+III. Jurisdicción territorial de los órganos jurisdiccionales;
+
+IV. Competencia material;
+
+V. Guardias y horarios de los órganos jurisdiccionales;
+
+VI. Reglas de sustitución de juzgadores;
+
+VII. Reglas para vacaciones;
+
+VIII. Sistema de turnos; y
+
+IX. Los demás aspectos necesarios para la operación y funcionamiento del Centro que determine el Pleno.
+
+## TÍTULO TERCERO. DISPOSICIONES DE FUNCIONAMIENTO
+
+### CAPÍTULO PRIMERO. OFICIALÍA DE PARTES
+
+###### Artículo 21.
+
+Los Centros contarán con una oficialía de partes dependiente del Administrador, misma que se encargará de la recepción, registro y turno, entre todos los órganos jurisdiccionales a los que preste servicio, de la correspondencia y asuntos que se presenten.
+
+El funcionamiento de las oficialías de partes se regirá por el manual correspondiente de los Centros.
+
+En todo caso el Administrador deberá adoptar las medidas necesarias para garantizar el funcionamiento del Centro, dando aviso de las mismas a la Comisión de Administración.
+
+###### Artículo 22.
+
+El sistema de turnos deberá procurar una distribución equitativa de los asuntos y garantizar que los juzgadores que funjan como jueces de Control no participen en un mismo asunto como Tribunal de Enjuiciamiento.
+
+### CAPÍTULO SEGUNDO. LIBROS DE CONTROL Y VISITAS DE INSPECCIÓN
+
+###### Artículo 23.
+
+Los órganos jurisdiccionales están obligados a llevar libros electrónicos en términos de las disposiciones aplicables.
+
+###### Artículo 24.
+
+Las visitas de inspección de los Centros se regirán conforme a las disposiciones aplicables.
+
+### CAPÍTULO TERCERO. NOTIFICACIONES
+
+###### Artículo 25.
+
+El Administrador auxiliará a los órganos jurisdiccionales en la práctica de las notificaciones, a que se refiere el artículo 82, fracciones I, incisos b), c) y d); II y III del Código, en términos del manual correspondiente de los Centros.
+
+### CAPÍTULO CUARTO. AUDIENCIAS
+
+###### Artículo 26.
+
+El Administrador llevará a cabo el registro de la identificación de las personas que vayan a declarar en las audiencias, conforme a lo previsto en el artículo 54 del Código.
+
+###### Artículo 27.
+
+El ingreso a las salas estará limitado a la capacidad de las mismas, y el acceso se llevará a cabo conforme al manual correspondiente de los Centros.
+
+El órgano jurisdiccional podrá solicitar al Administrador el cambio de sala siempre y cuando exista la disponibilidad necesaria o, en su defecto, éste podrá proveer de otro espacio del Centro para que los periodistas, medios de comunicación y público en general puedan presenciar la audiencia, en cuyo caso, habilitará una o varias pantallas, en las cuales se transmitirá de forma directa o diferida la sesión respectiva.
+
+###### Artículo 28.
+
+El Administrador integrará el padrón de periodistas y medios de comunicación acreditados, el cual se conformará por aquellos que se registren conforme a los Lineamientos que determine el Pleno, a propuesta de la Dirección General de Comunicación Social.
+
+El Administrador dará vista a la Dirección General de Comunicación Social de las acreditaciones que otorgue para su conocimiento.
+
+###### Artículo 29.
+
+Los periodistas y medios de comunicación acreditados, deberán solicitar por escrito al Administrador ser registrados para asistir a la audiencia.
+
+En caso de que haya disponibilidad en el espacio designado para periodistas y medios de comunicación, el Administrador asentará el registro correspondiente al solicitante, o de lo contrario le comunicará dicha situación.
+
+###### Artículo 30.
+
+Al entrar a la audiencia, la Administración del Centro entregará al periodista o medio de comunicación acreditado su gafete oficial, el cual deberá portar en la audiencia a la que asista. Dicho gafete será devuelto al salir de la audiencia.
+
+###### Artículo 31.
+
+Los periodistas y medios de comunicación que ingresen a la sala, serán colocados en el espacio que al efecto se determine, sin que puedan sobrepasar la capacidad del mismo, sin perjuicio de que el Administrador pueda habilitar, para tal efecto, el espacio designado para el público, siempre que sea posible.
+
+### CAPÍTULO QUINTO. QUEJA ADMINISTRATIVA
+
+###### Artículo 32.
+
+La Comisión de Vigilancia, Información y Evaluación conocerá de las quejas a que se refiere el artículo 135 del Código.
+
+Para dar celeridad a la remisión del informe, el recurso y los documentos justificativos, se autoriza a los órganos jurisdiccionales para disponer su envío por medio de correo electrónico o fax, previa certificación que realice el órgano receptor.
+
+El proyecto de resolución será elaborado por la Secretaría Ejecutiva de Vigilancia, Información y Evaluación.
+
+La determinación de la Comisión de Vigilancia, Información y Evaluación no prejuzga sobre la responsabilidad del juzgador.
+
+### CAPÍTULO SEXTO. DISPOSICIONES COMPLEMENTARIAS
+
+###### Artículo 33.
+
+Los Centros funcionarán las veinticuatro horas, todos los días del año, en turnos de ocho horas, siete horas y media, así como siete horas, atendiendo al tipo de jornada de trabajo, en específico diurna, nocturna y mixta.
+
+El Administrador tomará las medidas necesarias para garantizar que haya personal suficiente de la Administración del Centro en cada turno.
+
+###### Artículo 34.
+
+Los horarios y guardias de los órganos jurisdiccionales serán determinados en sus acuerdos de creación.
+
+###### Artículo 35.
+
+El Administrador deberá asentar en el sistema del registro automatizado de entrada y salida de servidores públicos, el horario respectivo a cada uno de los mismos que estén obligados a registrar su entrada y salida.
+
+###### Artículo 36.
+
+El inicio de las audiencias de las etapas intermedia y de juicio o su continuación, será programado entre las 9:00 y 15:00 horas, de lunes a viernes. Lo mismo se observará para las audiencias iniciales sin detenido, en aquellos casos en que medie solicitud del Ministerio Público para su programación, siempre y cuando resulte posible.
+
+###### Artículo 37.
+
+Los órganos jurisdiccionales y los Administradores de los Centros, en el ámbito de su competencia, deberán observar lo dispuesto en el Título Sexto del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de transparencia, acceso a la información pública, protección de datos personales y archivos.
+
+###### Artículo 38.
+
+La Administración del Centro deberá observar las disposiciones en materia de seguridad, e implementar las acciones que determine la Coordinación de Seguridad del Poder Judicial de la Federación.
+
+###### Artículo 39.
+
+Los órganos jurisdiccionales privilegiarán el uso del sistema de videoconferencias en términos de las disposiciones aplicables y en respeto al principio de inmediación.
+
+###### Artículo 41.
+
+…
+
+I. …
+
+a) Especialidad en Secretaría de Juzgado de Distrito y Tribunal de Circuito, así como en Asistencia de Constancias y Registro de Tribunal de Alzada, Juzgado de Control y Tribunal de Enjuiciamiento: cinco puntos;
+
+b) a e) …
+
+…
+
+…
+
+II. …
+
+a) a g) …
+
+h) Secretario de Tribunal de Circuito, Asistente de Constancias y Registro de Tribunal de Alzada o Secretario de Estudio y Cuenta de las Salas Regionales del Tribunal Electoral del Poder Judicial de la Federación; hasta 4 puntos, considerando 1 punto por cada año de servicios hasta llegar a un máximo de cuatro años.
+
+i) Secretario de Juzgado de Distrito o Asistente de Constancias y Registro de juez de control o de juez de enjuiciamiento; hasta 4 puntos, considerando 1 punto por cada año de servicios hasta llegar a un máximo de cuatro años.
+
+j)…
+
+III. …
+
+a) a g) …
+
+…
+
+###### Artículo 42.
+
+…
+
+I. a II. …
+
+II. Bis. Proponer al Pleno para su aprobación, los acuerdos generales de creación de los Centros de Justicia Penal;
+
+III. a XIII. …
+
+###### ARTÍCULO SEGUNDO.
+
+Se reforman los artículos 13, 14 y 18 del Acuerdo General 23/2012 del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de seguridad en las instalaciones del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral, para quedar como sigue:
+
+“Artículo 13. El acceso de Visitantes a los inmuebles sólo podrá ser autorizado por la Administración de éstos o por los Administradores de los Centros de Justicia Penal, sin perjuicio de que deberán observarse los protocolos, manuales, normas, lineamientos y políticas aplicables.
+
+###### Artículo 14.
+
+Queda prohibido ingresar cualquier tipo de armas, sustancias o material peligroso a las instalaciones, con excepción de aquellas personas que con motivo de sus funciones deban ingresarlas, caso en el cual la Coordinación de Seguridad deberá llevar un registro específico de dichas personas.
+
+###### Artículo 18.
+
+El ingreso y estancia de periodistas y medios de comunicación en las instalaciones, requerirá la previa autorización de la Dirección General de Comunicación Social o del Administrador del Centro de Justicia Penal, quienes, en todo caso, deberán dar aviso a la Coordinación de Seguridad a efecto de que se apliquen los protocolos o manuales correspondientes.”
+
+###### ARTÍCULO TERCERO.
+
+Se reforma el numeral ÚNICO, Apartado A, primer párrafo, del Acuerdo General 48/2011 del Pleno del Consejo de la Judicatura Federal, que establece la jornada y el horario de trabajo de los servidores públicos adscritos a las áreas administrativas del propio Consejo, para quedar como sigue:
+
+“A. Se establece una jornada de trabajo en las áreas administrativas del Consejo de la Judicatura Federal con un máximo de ocho horas efectivas diarias, que comprenderá de las 9:00 a las 15:00 horas y de las 16:00 a las 18:00 horas, de lunes a viernes, con excepción de la Oficialía de Partes y Certificación del Edificio Sede del propio Consejo, así como de las Administraciones de los Centros de Justicia Penal.
+
+…
+
+…
+
+…”
+
+###### ARTÍCULO CUARTO.
+
+Se reforma el numeral PRIMERO, primer párrafo, del Acuerdo General 49/2011 del Pleno del Consejo de la Judicatura Federal, que establece la jornada y horario de trabajo de los servidores públicos adscritos a los Juzgados de Distrito y Tribunales de Circuito, así como el horario de atención al público en los órganos jurisdiccionales del Poder Judicial de la Federación, para quedar como sigue:
+
+“PRIMERO. La jornada de trabajo de los servidores públicos adscritos a los juzgados de Distrito y tribunales de Circuito, será de lunes a viernes de las nueve a las quince horas y, de las dieciséis a las dieciocho horas, con una hora para la ingesta de alimentos, fuera de las instalaciones del órgano jurisdiccional, de las quince a las dieciséis horas, con excepción de los juzgados de Distrito que se encuentren de turno, por el tiempo que dure la guardia respectiva, así como de los órganos jurisdiccionales de los Centros de Justicia Penal.…
+
+…
+
+…”
+
+###### ARTÍCULO QUINTO.
+
+Se reforman los artículos 41, fracción I, inciso a) y la fracción II, incisos h) e i); 51, primer párrafo; 52, primer párrafo; 56; 69, tercer párrafo; 72, segundo párrafo; 75, primer párrafo; así como 77, párrafos primero y tercero; y se adicionan las fracciones III. Bis y IV. Bis al artículo 3, así como el artículo 98 Bis del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la carrera judicial y las condiciones de los funcionarios judiciales, para quedar como sigue:
+
+“Artículo 3.- …
+
+I. a III. …
+
+III. Bis. Asistente de Constancias y Registro de Tribunal de Alzada;
+
+IV. …
+
+IV. Bis. Asistente de Constancias y Registro de juez de control o juez de enjuiciamiento; y
+
+V. a VI. …
+
+###### Artículo 51.
+
+Para poder ser designado Secretario de Tribunal de Circuito o de Juzgado de Distrito, así como Asistente de Constancias y Registro de Tribunal de Alzada, de juez de control o de juez de enjuiciamiento, se requiere lo siguiente:
+
+I. a VIII. …
+
+###### Artículo 52.
+
+La experiencia profesional de tres años requerida para ser designado Secretario de Tribunal de Circuito o de Juzgado de Distrito, así como Asistente de Constancias y Registro de Tribunal de Alzada, de juez de control o de juez de enjuiciamiento, se computará a partir de la fecha en que el aspirante haya aprobado su examen profesional para obtener título de licenciado en derecho, salvo en aquellos casos en que se satisfagan los siguientes requisitos:
+
+I. a II. …
+
+###### Artículo 56.
+
+El Plan de Estudios de la Especialidad, será elaborado por el Comité Académico del Instituto, en coordinación con el Director General. En dicho documento deberán especificarse las habilidades, conocimientos y aptitudes básicas de los alumnos, indispensables para desempeñar el cargo de secretario de órgano jurisdiccional, así como Asistente de Constancias y Registro de Tribunal de Alzada, de juez de control o de juez de enjuiciamiento.
+
+###### Artículo 69.
+
+…
+
+…
+
+Las personas que hayan causado baja del Poder Judicial de la Federación por más de tres años, para poder reingresar a los cargos de secretario de tribunal de Circuito o de juzgado de Distrito; así como de Asistente de Constancias y Registro de Tribunal de Alzada, de juez de control, o de juez de enjuiciamiento; y de actuario judicial deberán aprobar nuevamente el examen de aptitud a que hace referencia el párrafo segundo del artículo 112 de la Ley o el curso para secretarios.
+
+…
+
+###### Artículo 72.
+
+…
+
+En el caso de que en algún órgano jurisdiccional se hubiere extendido un nombramiento de base o interino, en las categorías de secretario de Juzgado; o de Tribunal de Circuito; de actuario de los mismos; o bien de Asistente de Constancias y Registro de Tribunal de Alzada, de juez de control, o de juez de enjuiciamiento; a persona o personas que fueren cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado de algún titular; éste no podrá a su vez, extender nombramientos en los mismos términos respecto de personas que resultaren cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado del titular del órgano donde se encuentren adscritos sus allegados. El titular que designe en alguno de los citados cargos a personas que se ubiquen en los supuestos citados, deberá dar aviso de esa circunstancia a la Dirección General de Recursos Humanos del Consejo de la Judicatura Federal.
+
+...
+
+###### Artículo 75.
+
+Para expedir un nombramiento de Secretario de Tribunal de Circuito; o de Juzgado de Distrito; así como de Asistente de Constancias y Registro de Tribunal de Alzada, de juez de control; o de juez de enjuiciamiento; y de Actuario del Poder Judicial de la Federación, los titulares podrán solicitar al Instituto la información profesional y, en su caso, académica del integrante de la lista que pretendan designar.
+
+…
+
+…
+
+…
+
+###### Artículo 77.
+
+Los titulares de los órganos jurisdiccionales pueden otorgar, en cualquier momento, la base a los servidores públicos de su adscripción, con nombramiento de Secretario de Tribunal de Circuito; de Juzgado de Distrito; Asistente de Constancias y Registro de Tribunal de Alzada, de juez de control, o de juez de enjuiciamiento; o Actuario del Poder Judicial de la Federación, cuando a su juicio resulte procedente, siempre que la plaza correspondiente se encuentre vacante y sea definitiva en la plantilla autorizada, tomando en consideración las prevenciones señaladas en la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional.
+
+…
+
+Los Jueces y Magistrados Interinos y los Secretarios de Tribunal de Circuito o Juzgado de Distrito autorizados para realizar las funciones de magistrados y jueces, respectivamente, por las ausencias temporales de los titulares, sólo podrán extender nombramientos de Secretarios de Tribunal de Circuito, Juzgados de Distrito o Actuario del Poder Judicial de la Federación, de manera temporal, cuando la plaza correspondiente se encuentre desocupada; salvo aquellos casos en que la base se deba otorgar por disposición legal. Lo mismo se observará en caso de nombramientos de Asistente de Constancias y Registro que extiendan los jueces de Control o juzgadores de tribunales de Enjuiciamiento y de Alzada Interinos.
+
+###### Artículo 98 Bis.
+
+Tratándose del sistema penal acusatorio, cuando un juez de Control, juzgador de Tribunal de Enjuiciamiento o de Tribunal de Alzada se encuentre impedido para conocer de un asunto, conocerá otro juzgador similar del mismo Centro de Justicia Penal.
+
+En caso de que no sea posible, podrá conocer un juzgador de otro Centro de Justicia Penal, en términos de las disposiciones aplicables.”
+
+###### ARTÍCULO SEXTO.
+
+Se reforma el artículo 1o, fracción I, del Acuerdo General 34/2000 del Pleno del Consejo de la Judicatura Federal, relativo a la determinación de los Libros de Control que obligatoriamente deberán llevar los Órganos Jurisdiccionales del Poder Judicial de la Federación, así como su descripción e instructivos correspondientes, para quedar como sigue:
+
+“Artículo 1o.- …
+
+I. Los libros de gobierno que los Juzgados de Distrito, Tribunales Unitarios y Colegiados de Circuito del Poder Judicial de la Federación, con excepción de los que formen parte de un Centro de Justicia Penal, están obligados a llevar oficialmente a manera de mecanismos de control de los asuntos de sus respectivas competencias, como auxiliares en su supervisión por parte de los propios titulares; para los efectos de la rendición de estadística y, finalmente, a fin de facilitar los procedimientos de las visitas de inspección que se lleven a cabo;
+
+II. a III. …”
+
+###### ARTÍCULO SÉPTIMO.
+
+Se reforma el numeral PRIMERO del Acuerdo General 28/2001 del Pleno del Consejo de la Judicatura Federal, que establece la obligatoriedad del uso del Sistema Integral de Seguimiento de Expedientes, para quedar como sigue:
+
+“PRIMERO.- Establecimiento del Sistema Integral de Seguimiento de Expedientes.- Se establece el Sistema Integral de Seguimiento de Expedientes (SISE), como programa automatizado de captura y reporte de datos estadísticos sobre el movimiento de asuntos del conocimiento de los órganos jurisdiccionales del Poder Judicial de la Federación, con excepción de los que formen parte de los Centros de Justicia Penal, de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral.”
+
+###### ARTÍCULO OCTAVO.
+
+Se reforma el numeral PRIMERO del Acuerdo General 31/2005 del Pleno del Consejo de la Judicatura Federal, que establece el módulo de consulta de expedientes por Internet, respecto de los asuntos del conocimiento de los Tribunales de Circuito y Juzgados de Distrito del Poder Judicial de la Federación, para quedar como sigue:
+
+“PRIMERO.- Los listados de captura de datos de los asuntos del conocimiento de los tribunales de Circuito y juzgados de Distrito del Poder Judicial de la Federación, con excepción de los que formen parte de los Centros de Justicia Penal, se publicarán para su consulta en el medio de comunicación informático denominado Internet.”
+
+###### ARTÍCULO NOVENO.
+
+Se reforma el artículo 7, primer párrafo, del Acuerdo General 23/2013 del Pleno del Consejo de la Judicatura Federal, que regula al Coordinador Técnico Administrativo en Órganos Jurisdiccionales, para quedar como sigue:
+
+“Artículo 7. Cada órgano jurisdiccional, con excepción de los que formen parte de un Centro de Justicia Penal, contará con un Coordinador Técnico Administrativo quien, de conformidad con las funciones que se establezcan en el manual específico:
+
+I. a II. …”
+
+###### ARTÍCULO DÉCIMO.
+
+Se reforma el artículo 2, fracción II, del Acuerdo General 5/2013 del Pleno del Consejo de la Judicatura Federal, que establece los lineamientos para la atención de solicitudes de publicaciones que hacen los órganos jurisdiccionales, para quedar como sigue:
+
+“Artículo 2.- …
+
+I. …
+
+II. En las diligencias de averiguación previa y de las etapas de investigación, en aquellos supuestos en que sean acordadas por los órganos jurisdiccionales a solicitud del Ministerio Público y en las decretadas de oficio por los referidos órganos jurisdiccionales, cuando los mismos determinen que las publicaciones sean con cargo al presupuesto de egresos del Poder Judicial de la Federación.
+
+…”
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Se reforma el artículo 65, párrafo primero; y se adiciona un cuarto párrafo al artículo 149 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de transparencia, acceso a la información pública, protección de datos personales y archivos, para quedar como sigue:
+
+“Artículo 65. Tratándose de expedientes judiciales que se encuentren bajo resguardo de los órganos jurisdiccionales, el secretario de Juzgado o de Tribunal encargado del expediente o del engrose, o bien, el Asistente de Constancias y Registro respectivo, según sea el caso, será responsable de elaborar las versiones públicas de los expedientes que se encuentren bajo su responsabilidad, así como de las resoluciones respectivas. El Asistente, para tal fin, podrá auxiliarse del Administrador del Centro de Justicia Penal que corresponda.
+
+…
+
+###### Artículo 149.
+
+…
+
+…
+
+…
+
+Para efectos de este artículo, los órganos jurisdiccionales de los Centros de Justicia Penal deberán remitir la sentencia en su versión pública y escrita.”
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Se reforma el artículo 2, fracción XV; 162, fracción XV; y se adiciona una fracción II Bis al artículo 42 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo, para quedar como sigue:
+
+“Artículo 2. …
+
+I. a XIV. …
+
+XV. Unidades administrativas: Las ponencias de los Consejeros, Oficialía Mayor, secretarías ejecutivas, coordinaciones, Unidad de Implementación de las Reformas Penal, de Juicio de Amparo y Derechos Humanos en el Poder Judicial de la Federación, secretarías técnicas de Comisiones, direcciones generales, así como la Unidad de Enlace del Consejo; el Archivo General del Consejo, las Administraciones de los Centros de Justicia Penal, y demás que sean autorizadas por el Pleno.
+
+###### Artículo 162.
+
+…
+
+I. a XIV. …
+
+XV. Expedir constancias de acreditación a medios de información para tener acceso a las instalaciones del Poder Judicial de la Federación, con excepción de los Centros de Justicia Penal;
+
+XVI. a XXII. …”
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Se reforma el artículo 2, fracciones XXIII y XXXII, y se adiciona un numeral 3 Bis. a la fracción I, del artículo 33 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas, para quedar como sigue:
+
+###### Artículo 2.
+
+…
+
+I. a XXII. …
+
+XXIII. Órganos jurisdiccionales: Tribunales de Circuito y Juzgados de Distrito.
+
+Las referencias que se hagan en este Acuerdo a los juzgados de Distrito o a sus titulares también se entenderán hechas a los jueces de Control, de Ejecución y tribunales de enjuiciamiento; y aquellas que se hagan a los tribunales Unitarios de Circuito o sus titulares, a los tribunales de Alzada;
+
+XXIV. a XXXI. …
+
+XXXII. Unidades administrativas: Las ponencias de los Consejeros, Oficialía Mayor, secretarías ejecutivas, Coordinaciones, Unidad de Implementación de las Reformas Penal, de Juicio de Amparo y Derechos Humanos en el Poder Judicial de la Federación, secretarías técnicas de Comisiones o de Comités, direcciones generales, las Administraciones de los Centros de Justicia Penal, así como la Unidad de Enlace del Consejo y el Archivo General del Consejo, y cualquier otro órgano administrativo creado por ley o acuerdo general del Pleno.
+
+###### Artículo 33.
+
+…
+
+I. …
+
+1. a 3. …
+
+3. Bis. Asistente de Constancias y Registro de Tribunal de Alzada, de juez de control o de juez de enjuiciamiento;
+
+4. a 6. …
+
+II. a III. …
+
+…”
+
+## TRANSITORIOS
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo previsto en sus artículos QUINTO al OCTAVO transitorios, que entrarán en vigor al día siguiente de la aprobación del mismo.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Los acuerdos generales del Consejo de la Judicatura Federal vigentes a la entrada en vigor del presente Acuerdo serán aplicables a los Centros de Justicia Penal en lo no previsto por éste, siempre y cuando no se opongan al mismo.
+
+CUARTO. Las referencias que se hagan en otros acuerdos generales a los juzgados de Distrito se entenderán hechas a los jueces de Control, de Ejecución y tribunales de enjuiciamiento; y aquellas que se hagan a los tribunales Unitarios de Circuito a los tribunales de Alzada.
+
+QUINTO. La Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, deberá someter, directamente, a consideración del Pleno del Consejo de la Judicatura Federal, los acuerdos generales de creación de los Centros de Justicia Penal, conforme el Congreso de la Unión vaya emitiendo las declaratorias de entrada en vigor del Código Nacional de Procedimientos Penales.
+
+SEXTO. La Coordinación de Seguridad del Poder Judicial de la Federación deberá someter, directamente, a consideración y, en su caso, aprobación del Pleno del Consejo de la Judicatura Federal, los instrumentos normativos que se estimen necesarios, y que deben observarse en los Centros de Justicia Penal cuya creación determine el referido órgano colegiado, antes del inicio de operaciones de los mismos, a fin de que entren en vigor ese mismo día.
+
+SÉPTIMO. La Dirección General de Comunicación Social deberá someter a consideración y, en su caso, aprobación, del Pleno del Consejo de la Judicatura Federal, los lineamientos para la acreditación de periodistas y medios de comunicación, antes del inicio de operaciones del primer Centro de Justicia Penal.
+
+OCTAVO. La Dirección General de Innovación, Planeación y Desarrollo Institucional en coordinación con la Unidad de Implementación de las Reformas Penal, de Juicio de Amparo y Derechos Humanos en el Poder Judicial de la Federación, deberá elaborar el proyecto del manual correspondiente de los Centros de Justicia Penal.
+
+Las áreas administrativas del Consejo brindarán el apoyo y asesoría que sea necesario para la elaboración del proyecto respectivo.
+
+El proyecto correspondiente deberá someterse a la consideración y, en su caso, aprobación del Pleno del Consejo de la Judicatura Federal antes del inicio de operaciones del Centro de Justicia Penal.
+
+El manual aprobado deberá publicarse, antes de su entrada en vigor, en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+NOVENO. Los juzgados de Distrito y tribunales de Circuito competentes para conocer de procedimientos penales que se tramiten conforme al Código Federal de Procedimientos Penales, también lo son para practicar actos procesales que le sean requeridos por jueces de Control o tribunales de Enjuiciamiento o Alzada.
+
+En tanto se crean en cada circuito judicial los Centros de Justicia Penal, los juzgados de Distrito mixtos y especializados en materia penal o de procedimientos penales federales, según la localidad de que se trate, tendrán competencia en sus jurisdicciones territoriales para conocer de las solicitudes de autorización judicial para diligencias urgentes que formule el Ministerio Público respecto de actos y medidas que requieran control judicial, conforme lo dispuesto en el artículo 24 del Código Nacional de Procedimientos Penales.
+
+Para dichos efectos, la Oficialía Mayor, por conducto de las unidades administrativas que le están adscritas, tomará las medidas necesarias para que los juzgados de Distrito y Tribunales de Circuito cuenten con los insumos necesarios para desahogar las diligencias que les sean requeridas en términos del Código Nacional de Procedimientos Penales.
+
+DÉCIMO. Las áreas administrativas del Consejo de la Judicatura Federal, en el ámbito de su competencia, adoptarán las medidas necesarias para la implementación del presente Acuerdo.
+
+DÉCIMO PRIMERO. La creación de los jueces de Ejecución de los Centros de Justicia Penal quedará diferida hasta en tanto se expida la legislación en la materia.
+
+DÉCIMO SEGUNDO. Para efectos del artículo 110 de la Ley Orgánica del Poder Judicial de la Federación los Asistentes de Constancias y Registro de Tribunal de Alzada, Juzgado de Control, y Tribunal de Enjuiciamiento, constituyen una especialización de las categorías de secretarios de tribunal de Circuito y de juzgado de Distrito.
+
+EL MAGISTRADO LUIS FERNANDO ANGULO JACOBO, SECRETARIO EJECUTIVO DEL PLENO Y DE LA PRESIDENCIA DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 36/2014, del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal; y que reforma y adiciona disposiciones de diversos acuerdos generales, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de doce de noviembre de dos mil catorce, por unanimidad de votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Felipe Borrego Estrada, Daniel Francisco Cabeza de Vaca Hernández, César Esquinca Muñoa, Alfonso Pérez Daza, Manuel Ernesto Saloma Vera y J. Guadalupe Tafoya Hernández.- México, Distrito Federal, a doce de noviembre de dos mil catorce.- Conste.- Rúbrica.
