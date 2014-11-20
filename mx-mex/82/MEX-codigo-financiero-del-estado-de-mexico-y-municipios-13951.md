@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2014-10-16"
+last_updated: "2014-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE NOVIEMBRE DE 2014.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -1821,7 +1821,7 @@ En caso de excepciones a lo anterior, el Contador Público deberá mencionar cla
 
 > <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-Para los efectos de este articulo, dentro del alcance que se establezca y la naturaleza de los procedimientos de auditoría generales aplicables a las circunstancias, deberá considerarse la revisión del total de los conceptos por remuneraciones al trabajo personal prestado dentro del territorio del Estado que deban integrar la base para la determinación del impuesto.
+Para los efectos de este artículo, dentro del alcance que se establezca y la naturaleza de los procedimientos de auditoría generales aplicables a las circunstancias, deberá considerarse la revisión del total de los conceptos por remuneraciones al trabajo personal prestado dentro del territorio del Estado que deban integrar la base para la determinación del impuesto.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1893,7 +1893,7 @@ III. Que se verificó el cálculo y el pago de la contribución revisada en el d
 
 > <small>(ADICIONADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
-IV. Que se revisaron en función de su naturaleza y mecánica de aplicación utilizada en la determinación del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal, las declaraciones normales y complementarias presentadas por el contribuyente y con las cifras dictaminadas respecto del ejercicio fiscal revisado, comprobando su estricto apego a las disposiciones fiscales respectivas establecidas en este Código, señalando en su caso, el incumplimiento en que haya incurrido el contribuyente en cuanto al cálculo y la base de pago de la contribución revisada.
+IV. Que se revisaron, en función de su naturaleza y mecánica de aplicación utilizada en la determinación del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal, las declaraciones normales y complementarias presentadas por el contribuyente y con las cifras dictaminadas respecto del ejercicio fiscal revisado, comprobando su estricto apego a las disposiciones fiscales respectivas establecidas en este Código, señalando en su caso, el incumplimiento en que haya incurrido el contribuyente en cuanto al cálculo y la base de pago de la contribución revisada.
 
 > <small>(ADICIONADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -1965,7 +1965,7 @@ Para los efectos de este artículo, cuando un contribuyente deba dictaminar o ej
 
 1.- Las personas físicas y jurídicas colectivas que estén obligadas a dictaminarse en términos del artículo 47 Bis de este Código y las que opten por hacerlo, deberán presentar aviso de dictamen ante la autoridad fiscal competente a más tardar el último día del mes de febrero del año siguiente al que se dictaminen, de conformidad con las reglas de carácter general que se emitan para tal efecto.
 
-Los contribuyentes que se dictaminen, podrán sustituir en cualquier tiempo al dictaminador que hubieren designado en el aviso de dictamen a que se refiere el párrafo anterior, informando a la autoridad fiscal competente los motivos de dicho cambio y presentando las pruebas documentales que estimen pertinentes hasta antes de que presenten el dictamen correspondiente. Sin que esta situación amplíe el plazo autorizado para su presentación conforme al párrafo siguiente.
+Los contribuyentes que se dictaminen, podrán sustituir en cualquier tiempo al dictaminador que hubieren designado en el aviso de dictamen a que se refiere el párrafo anterior, informando a la autoridad fiscal competente los motivos de dicho cambio y presentando las pruebas documentales que estimen pertinentes hasta antes de que presenten el dictamen correspondiente, sin que esta situación amplíe el plazo autorizado para su presentación conforme al párrafo siguiente.
 
 El contribuyente deberá presentar ante la autoridad fiscal competente el dictamen sobre la determinación de la base del Impuesto Predial correspondiente al año inmediato anterior, a más tardar el último día del mes de abril del año siguiente al que se dictamine, de conformidad con este Código y demás disposiciones que se emitan para tal efecto.
 
@@ -2307,9 +2307,9 @@ IV. Solicitar a los servidores públicos y fedatarios, la información fiscal de
 
 V. Reunir las pruebas necesarias para formular ante el Ministerio Público la querella por el delito de defraudación fiscal.
 
-VI. Revisar las manifestaciones y avalúos de inmuebles que presenten los contribuyentes y en su caso de encontrar errores de carácter aritmético, de clasificación, de aplicación de valores, de superficie de terreno o de construcción, o del número de niveles, determinar las diferencias que procedan.
+VI. Revisar las manifestaciones y avalúos de inmuebles que presenten los contribuyentes y en caso de encontrar errores de carácter aritmético, de clasificación, de aplicación de valores, de superficie de terreno o de construcción, o del número de niveles, determinar las diferencias que procedan.
 
-VII. Verificar el número de personas que ingresen a los espectáculos públicos, así como el monto de los ingresos que se perciban y la forma en que se manejan los boletos.
+VII. Verificar el número de personas que ingresan a los espectáculos públicos, así como el monto de los ingresos que se perciban y la forma en que se manejan los boletos.
 
 VIII. Verificar los ingresos que se perciban en la celebración de loterías, rifas, sorteos, concursos y juegos permitidos con cruce de apuestas.
 
@@ -2493,7 +2493,7 @@ C). Se podrán levantar actas parciales o complementarias en las que se hagan co
 
 D). Cuando resulte imposible continuar o concluir el ejercicio de las facultades de comprobación en los establecimientos del visitado, las actas en las que se haga constar el desarrollo de una visita en el domicilio fiscal podrán levantarse en las oficinas de las autoridades fiscales. En este caso se deberá notificar previamente esta circunstancia a la persona con quien se entiende la diligencia, excepto en el supuesto de que el visitado hubiere desaparecido del domicilio fiscal durante el desarrollo de la visita.
 
-E). Si en el cierre del acta final de la visita no estuviere presente el visitado o su representante, se le dejará citatorio para que esté presente a una hora determinada del día siguiente. Si no se presentare, el acta final se levantará ante quien estuviere presente en el lugar visitado; en ese momento cualquiera de los visitadores que haya intervenido en la visita, el visitado o la persona con quien se entiende la diligencia, y los testigos, firmarán el acta, de la que se dejará copia al visitado. Si el visitado, la persona con quien se entendió la diligencia o los testigos no comparecen a firmar el acta o se niegan a firmarla, o el visitado o la persona con quien se entendió la diligencia se niegan a aceptar copia del acta, dicha circunstancia se asentara en la propia acta, sin que esto afecte la validez y el valor probatorio de la misma.
+E). Si en el cierre del acta final de la visita no estuviere presente el visitado o su representante, se le dejará citatorio para que esté presente a una hora determinada del día siguiente. Si no se presentare, el acta final se levantará ante quien estuviere presente en el lugar visitado; en ese momento cualquiera de los visitadores que haya intervenido en la visita, el visitado o la persona con quien se entiende la diligencia, y los testigos, firmarán el acta, de la que se dejará copia al visitado. Si el visitado, la persona con quien se entendió la diligencia o los testigos no comparecen a firmar el acta o se niegan a firmarla, o el visitado o la persona con quien se entendió la diligencia se niegan a aceptar copia del acta, dicha circunstancia se asentará en la propia acta, sin que esto afecte la validez y el valor probatorio de la misma.
 
 IV. Las actas parciales se entenderá que forman parte integrante del acta final de la visita aunque no se señale así expresamente.
 
@@ -2531,7 +2531,7 @@ II. Podrán tomar como base los datos contenidos en cualquiera de las tres últi
 
 III. Utilizarán la información contenida en los dictámenes que para efectos fiscales hubieren presentado los contribuyentes conforme a las disposiciones fiscales federales, estatales y municipales.
 
-IV. Considerarán los hechos que conozcan las autoridades fiscales con motivo del ejercicio de sus facultades de comprobación previstas en este Código, o bien que consten en los expedientes o documentos que lleven o tengan en su poder, así como aquellos proporcionados por otras autoridades del nivel federal, estatal o municipal.
+IV. Considerarán los hechos que conozcan las autoridades fiscales con motivo del ejercicio de sus facultades de comprobación previstas en éste Código, o bien que consten en los expedientes o documentos que lleven o tengan en su poder, así como aquellos proporcionados por otras autoridades del nivel federal, estatal o municipal.
 
 ###### Artículo 51.
 
@@ -2573,7 +2573,7 @@ Los contribuyentes, transcurridos los plazos a que se refiere este artículo, po
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
-El plazo a que se refiere este articulo será de diez años cuando el contribuyente no haya dado cumplimiento a las obligaciones en los términos previstos en este Código, de empadronarse o registrarse ante la autoridad fiscal, así como cuando no presente las declaraciones a las que esté obligado; en este último caso, el plazo de diez años se computará a partir del día siguiente a aquél en que se debió haber presentado la declaración correspondiente.
+El plazo a que se refiere este artículo será de diez años cuando el contribuyente no haya dado cumplimiento a las obligaciones en los términos previstos en este Código, de empadronarse o registrarse ante la autoridad fiscal, así como cuando no presente las declaraciones a las que esté obligado; en este último caso, el plazo de diez años se computará a partir del día siguiente a aquél en que se debió haber presentado la declaración correspondiente.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
@@ -2587,7 +2587,7 @@ Las autoridades fiscales están obligadas a contestar las consultas sobre situac
 
 > <small>(ADICIONADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
-Las resoluciones administrativas dictadas en materia de contribuciones que otorguen una autorización o que, siendo favorables a particulares determinen un régimen fiscal solamente surtirán sus efectos en el ejercicio fiscal en el que se otorguen, con excepción de lo dispuesto en el artículo 32 de este Código.
+Las resoluciones administrativas dictadas en materia de contribuciones que otorguen una autorización o que, siendo favorables a particulares, determinen un régimen fiscal, solamente surtirán sus efectos en el ejercicio fiscal en el que se otorguen, con excepción de lo dispuesto en el artículo 32 de este Código.
 
 > <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -2747,7 +2747,7 @@ Quienes realicen pagos a trabajadores por concepto de edificación de obra, acab
 
 > <small>(ADICIONADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
-En caso de que el contribuyente después de ser requerido por la autoridad fiscal competente, no aporte dentro del término de 20 días, los datos y documentos necesarios y suficientes para la determinación del impuesto o cuando no sea posible establecer la base, se calculará considerando el número de metros cuadrados de construcción que declare el propio contribuyente o determine la autoridad fiscal.
+En caso de que el contribuyente después de ser requerido por la autoridad fiscal competente, no aporte dentro del termino de 20 días, los datos y documentos necesarios y suficientes para la determinación del impuesto o cuando no sea posible establecer la base, se calculará considerando el número de metros cuadrados de construcción que declare el propio contribuyente o determine la autoridad fiscal.
 
 > <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
@@ -3347,7 +3347,7 @@ La cantidad obtenida conforme a los pasos anteriores, se multiplicará por el fa
 
 > <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
-II. En el caso de vehículos de más de diez años modelo de fabricación o ejercicio automotriz anterior al año fiscal de que se trata la determinación del impuesto será atendiendo al número de cilindros del motor conforme a lo siguiente:
+II. En el caso de vehículos de más de diez años modelo de fabricación o ejercicio automotriz, anterior al año fiscal de que se trata la determinación del impuesto será atendiendo al número de cilindros del motor conforme a lo siguiente:
 
 > <small>(REFORMADO EN SU TARIFA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
@@ -3369,7 +3369,7 @@ El impuesto debe pagarse dentro de los treinta días siguientes a la fecha de ad
 
 ###### Artículo 64 Bis.
 
-Están obligados a presentar declaración trimestral informativa dentro de los primeros 15 días de los meses de enero, abril, julio y octubre las personas físicas y jurídicas colectivas, incluidas las asociaciones en participación, así como los consignatarios de vehículos automotores usados, que de manera habitual se dediquen a la compraventa de vehículos automotores, conforme a las reglas de carácter general que emitirá la autoridad fiscal competente, mismas que habrán de publicarse en el Periódico Oficial.
+Están obligados a presentar declaración trimestral informativa dentro de los primeros 15 días de los meses de enero, abril, julio y octubre, las personas físicas y jurídicas colectivas, incluidas las asociaciones en participación, así como los consignatarios de vehículos automotores usados, que de manera habitual se dediquen a la compraventa de vehículos automotores, conforme a las reglas de carácter general que emitirá la autoridad fiscal competente, mismas que habrán de publicarse en el Periódico Oficial.
 
 #### SECCION CUARTA. DEL IMPUESTO SOBRE LOTERIAS, RIFAS, SORTEOS, CONCURSOS Y JUEGOS PERMITIDOS CON CRUCE DE APUESTAS
 
@@ -4399,7 +4399,9 @@ B). Para usuarios que tengan asignación directa de la Comisión Nacional del Ag
 
 Por cada metro cúbico de agua asignada de fuentes federales $2.27.
 
-C). Por el suministro de agua en bloque a los ayuntamientos, mediante la venta de cupones y entrega a carros tanque, se pagarán $11.4 por metro cúbico.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
+
+C). Por el suministro de agua en bloque mediante la venta de cupones y entrega a carros tanque, se pagarán $11.4 por metro cúbico.
 
 Quedan comprendidos en esta tarifa aquellos usuarios a los que preste el servicio directa y temporalmente la Comisión del Agua del Estado de México, quienes deberán obtener permiso correspondiente de los ayuntamientos u organismos prestadores de los servicios.
 
@@ -4957,13 +4959,27 @@ VIII. Por la expedición inicial de licencias o de permisos para conducir vehíc
 
 A). Chofer para servicio público:
 
-1. Por cuatro años de vigencia. $1,689
+> <small>(REFORMADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
 
-2. Por tres años de vigencia. $1,215
+1. Tipo A, modalidad discrecional (taxi) por un año de vigencia. $716.00
 
-3. Por dos años de vigencia. $913
+> <small>(REFORMADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
 
-4. Por un año de vigencia. $683
+2. Tipo B, modalidad colectivo por un año de vigencia. $716.00
+
+> <small>(REFORMADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
+
+3. Tipo C, modalidad transporte especializado, escolar y de personal por un año de vigencia. $716.00
+
+> <small>(REFORMADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
+
+4. Tipo D, modalidad para vehículos de Servicio a la Comunidad por un año de vigencia. $716.00
+
+5. (SIC)
+
+> <small>(ADICIONADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
+
+La expedición de la Licencia de Chofer para Servicio Público, incluye los exámenes de conocimiento del Reglamento de Tránsito del Estado de México, médico, psicométrico, toxicológico y demás que prevea el reglamento correspondiente.
 
 B). Chofer para servicio particular:
 
@@ -5007,13 +5023,9 @@ El pago de los anteriores conceptos incluye en su caso, examen de conocimientos 
 
 IX. Duplicado de licencias y permisos, con la vigencia del documento expedido originalmente y con la leyenda de "Duplicado". $262
 
-X. Por la expedición de medios de identificación para manejar vehículos automotores y equipos afectos al servicio público de transporte:
+> <small>(REFORMADA, G.G. 20 DE NOVIEMBRE DE 2014)</small>
 
-A). Por la expedición de la tarjeta de identificación personal para operadores de transporte público, por año. $1,061
-
-B). Por el duplicado de la tarjeta de identificación personal para operadores de transporte público con la vigencia del documento expedido originalmente y con la leyenda "Duplicado". $776
-
-La expedición de la tarjeta de identificación personal incluye exámenes médico, psicométrico y toxicológico.
+X. Por la expedición del duplicado de la Licencia de Chofer para Servicio Público con la vigencia del documento expedido originalmente y con la leyenda "Duplicado". $716.00
 
 XI. Por los servicios de control vehicular relativos al servicio público de transporte, se pagarán los siguientes derechos:
 
@@ -8507,7 +8519,7 @@ Tratándose de obras que se realicen con mano de obra de la comunidad, así como
 
 > <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
-En el caso de constructores o desarrolladores, éstos pagarán los derechos que correspondan a partir del momento de la autorización del conjunto urbano.
+En el caso de constructores o desarrolladores, estos pagarán los derechos que correspondan a partir del momento de la autorización del conjunto urbano.
 
 > <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -9011,7 +9023,7 @@ III. Subrogación de los derechos de titularidad de conjuntos urbanos, subdivisi
 
 > <small>(REFORMADA, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
-IV. Autorización para realizar obras de modificación, rotura o corte de pavimento de concreto hidráulico, asfáltico o similares en calles, guarniciones o banquetas para llevar a cabo obras o instalaciones subterráneas y para la instalación, tendido o permanencia anual de cables y/o tuberías subterráneas o aéreas en la vía pública; y por los servicios de control necesarios para su ejecución;
+IV. Autorización para realizar obras de modificación, rotura o corte de pavimento de concreto hidraúlico, asfáltico o similares en calles, guarniciones o banquetas para llevar a cabo obras o instalaciones subterráneas y para la instalación, tendido o permanencia anual de cables y/o tuberías subterráneas o aéreas en la vía pública; y por los servicios de control necesarios para su ejecución;
 
 > <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
@@ -9213,7 +9225,7 @@ V. Por la autorización para realizar obras de modificación, rotura o corte de 
 
 > <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
-VI. Por la autorización para la instalación, tendido o permanencia anual de cables y/o tuberías subterráneas o áreas en la vía pública, por metro lineal se pagarán 0.05 días de salario mínimo general del área geográfica que corresponda. Este pago deberá efectuarse dentro de los primeros tres meses de cada año.
+VI. Por la autorización para la instalación, tendido o permanencia anual de cables y/o tuberías subterráneas o aéreas en la vía pública, por metro lineal se pagarán 0.05 días de salario mínimo general vigente del área geográfica que corresponda. Este pago deberá efectuarse dentro de los primeros tres meses de cada año.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -9559,7 +9571,7 @@ compacto por cada disco. 0.336
 
 V. Por el escaneo y digitalización de documentos. 0.008
 
-Para los supuestos establecidos en la fracciones III y IV, el solicitante podrá proporcionar a la autoridad municipal, el medio en el que requiera le sea entregada la información pública, en cuyo caso no habrá costo que cubrir.
+Para los supuestos establecidos en las fracciones III y IV, el solicitante podrá proporcionar a la autoridad municipal, el medio en el que requiera le sea entregada la información pública, en cuyo caso no habrá costo que cubrir.
 
 > <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -9777,7 +9789,7 @@ Para el cobro del derecho a que se refiere el presente artículo, la autoridad m
 
 ###### Artículo 155.
 
-Por los servicios de panteones propiedad municipal se pagarán los derechos conforme a la siguiente:
+Por los servicios de panteones propiedad municipal se pagarán derechos conforme a la siguiente:
 
 TARIFA
 
@@ -10021,7 +10033,7 @@ El permisionario podrá establecer una cuota fija por tiempo libre o cobrar el s
 
 ###### Artículo 159.
 
-Por la expedición o refrendo anual de licencias para vender bebidas alcohólicas al público en botella cerrada o al copeo en general, en establecimientos comerciales, de servicios o de diversión y espectáculos públicos, se pagarán derechos conforme a la siguiente:
+Por la expedición o refrendo anual de licencias para vender bebidas alcohólicas al público en botella cerrada, o al copeo en general, en establecimientos comerciales, de servicios o de diversión y espectáculos públicos, se pagarán derechos conforme a la siguiente:
 
 TARIFA
 
@@ -11573,7 +11585,7 @@ Los propietarios o poseedores de bienes inmuebles para efectos de la valuación 
 
 ###### Artículo 198.
 
-Con base en los criterios de clasificación de áreas homogéneas y tipologías de construcción, los propietarios o poseedores, ubicarán su inmueble en las Tablas de Valores Unitarios de Suelo y Construcciones, conforme al área homogénea o banda de valor, y a la tipología de construcción que le corresponda, e identificarán el valor unitario de suelo y el valor unitario de construcción, aplicables a la superficie de terreno de construcción, si la hubiera, calculando su valor catastral mediante la fórmula siguiente:
+Con base en los criterios de clasificación de áreas homogéneas y tipologías de construcción, los propietarios o poseedores, ubicarán su inmueble en las Tablas de Valores Unitarios de Suelo y Construcciones, conforme al área homogénea o banda de valor, y a la tipología de construcción que le corresponda, e identificarán el valor unitario de suelo y el valor unitario de construcción, aplicables a la superficie de terreno y de construcción, si la hubiera, calculando su valor catastral mediante la fórmula siguiente:
 
 Vcat = Vt + Vc
 
@@ -11591,7 +11603,7 @@ Vc= Valor de la Construcción
 
 ###### Artículo 198 Bis.
 
-Cuando en el transcurso de un ejercicio fiscal se requiera la creación de nuevas manzanas para efectos del cálculo del valor catastral se aplicará el valor unitario de suelo del área homogénea que las contenga y el valor unitario de construcción que le corresponda conforme a la tabla vigente; en estos casos la autoridad catastral municipal deberá remitir al IGECEM copia del gráfico y la relación de movimientos al registro alfanumérico y realizar la propuesta correspondiente en términos del artículo 195 de este Código, para efectos de actualizar las Tablas de Valores Unitarios de Suelo y Construcciones.
+Cuando en el transcurso de un ejercicio fiscal se requiera la creación de nuevas manzanas para efectos del cálculo del valor catastral se aplicará el valor unitario de suelo del área homogénea que las contenga y el valor unitario de construcción que le corresponda conforme a la tabla vigente; en estos casos la autoridad catastral municipal deberá remitir al IGECEM copia del gráfico y la relación de movimientos al registro alfanumérico y realizar la propuesta correspondiente en términos del artículo 195 de éste Código, para efectos de actualizar las Tablas de Valores Unitarios de Suelo y Construcciones.
 
 Lo establecido en el párrafo anterior se aplicará hasta en tanto sean aprobadas y publicadas las Tablas de Valores Unitarios de Suelo y Construcciones para el siguiente ejercicio fiscal.
 
@@ -11785,7 +11797,7 @@ X. Apoyar a la autoridad fiscal correspondiente en la notificación a los benefi
 
 ###### Artículo 211.
 
-Al consejo de aportadores se hará entrega de la información relativa a la obra o acción para su promoción y difusión, y se les concederá el plazo de veinte días para que por escrito hagan saber sus observaciones o recomendaciones a la autoridad responsable de la coordinación de la obra pública o acción y para que apruebe la realización del proyecto.
+Al consejo de aportadores se hará entrega de la información relativa a la obra o acción para su promoción y difusión, y se les concederá el plazo de veinte días, para que por escrito hagan saber sus observaciones o recomendaciones a la autoridad responsable de la coordinación de la obra pública o acción y para que apruebe la realización del proyecto.
 
 > <small>(ADICIONADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
@@ -11881,7 +11893,7 @@ Zona B. Municipios de Medio Impacto; son aquellos que presentan una población m
 
 Zona C. Municipios de Bajo Impacto; son aquellos con baja densidad poblacional cuyos habitantes se encuentran distantes unos de otros, con una actividad predominantemente de tipo agrícola o ganadera, sin desarrollo industrial o comercial. Estos son: Acambay, Acolman, Aculco, Almoloya de Alquisiras, Almoloya de Juárez, Almoloya del Río, Amanalco, Amatepec, Apaxco, Atenco, Atizapán, Atlautla, Axapusco, Ayapango, Calimaya, Coatepec Harinas, Cocotitlán, Chapa de Mota, Chapultepec, Chiautla, Donato Guerra, Ecatzingo, El Oro, Hueypoxtla, Isidro Fabela, Ixtapan del Oro, Jilotzingo, Jiquipilco, Jocotitlán, Joquicingo, Juchitepec, Luvianos, Malinalco, Mexicalzingo, Morelos, Nextlalpan, Nopaltepec, Ocuilán, Otumba, Otzoloapan, Otzolotepec, Papalotla, Polotitlán, Rayón, San Antonio La Isla, San Felipe del Progreso, San José del Rincón, San Martín de las Pirámides, San Simón de Guerrero, Santo Tomás, Soyaniquilpan de Juárez, Sultepec, Tejupilco, Temamatla, Temascalapa, Temascalcingo, Temascaltepec, Temoaya, Tenango del Aire, Tenango del Valle, Teoloyucan, Teotihuacan, Tepetlaoxtoc, Tepetlixpa, Tequixquiac, Texcaltitlán, Texcalyacac, Tezoyuca, Timilpan, Tlalmanalco, Tlatlaya, Tonatico, Tonanitla, Villa de Allende, Villa del Carbón, Villa Guerrero, Villa Victoria, Xalatlaco, Zacazonapan, Zacualpan y Zumpahuacán.
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 216-D.
 
@@ -12033,7 +12045,7 @@ V. La extracción de minerales metálicos y no metálicos.
 
 VI. Los inmuebles para captación y distribución de agua, diques, presas, represas, canales, arroyos, ríos, tratamiento, conducción y distribución de agua, operación de plantas potabilizadoras, plantas de tratamiento de aguas negras, lagunas de oxidación, de control y de regulación, zonas de transferencia de basura y rellenos sanitarios, así como estaciones y subestaciones eléctricas.
 
-VII. Los inmuebles destinados a actividades agrícolas, ganaderas, silvícola o piscícolas.
+VII. Los inmuebles destinados a actividades agrícolas, ganaderas, silvícolas o piscícolas.
 
 VIII. Los estacionamientos, terminales de autobuses urbanos y foráneos, torres o sitios celulares denominados radiobases.
 
@@ -12085,7 +12097,7 @@ I. La Secretaría de Desarrollo Agropecuario;
 
 II. La Secretaría de Finanzas;
 
-III. La Secretaria del Medio Ambiente;
+III. La Secretaría del Medio Ambiente;
 
 IV. La Secretaría del Agua y Obra Pública;
 
@@ -12119,7 +12131,7 @@ I. Dar seguimiento al ingreso que se obtenga por concepto de estas aportaciones;
 
 > <small>(ADICIONADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
-II. Vigilar el cumplimiento de los contratos de adhesión que se suscriban por los beneficiarios del fideicomiso referido en el articulo 216-K del Código, mediante los cuales cada beneficiario se obligue a cumplir con las obligaciones determinadas en las reglas del fideicomiso, a cambio de recibir los beneficios a que se refiere el artículo 216-N del Código;
+II. Vigilar el cumplimiento de los contratos de adhesión que se suscriban por los beneficiarios del fideicomiso referido en el artículo 216-K del Código, mediante los cuales cada beneficiario se obligue a cumplir con las obligaciones determinadas en las reglas del fideicomiso, a cambio de recibir los beneficios a que se refiere el artículo 216-N del Código;
 
 > <small>(ADICIONADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -12233,13 +12245,21 @@ I. Ingresos ministrados por el Gobierno Federal.
 
 A). El 100% del fondo de fomento municipal.
 
+> <small>(ADICIONADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
+
+A.1. Fondo de Fomento Municipal derivado de la coordinación mediante convenio con los municipios donde el Estado es el responsable de la administración del Impuesto Predial por cuenta y orden del municipio.
+
+> <small>(ADICIONADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
+
+A.2. Fondo de Fomento Municipal resultante de la diferencia entre el determinado por la Secretaría de Hacienda y Crédito Público y al que hace referencia el numeral A.1.
+
 B). El 20% del fondo general de participaciones.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
 
-C). El 50% de los ingresos correspondientes al Fondo de Fiscalización.
+C). El 50% de los ingresos correspondientes al Fondo de Fiscalización y Recaudación.
 
-D). (DEROGADO, G.G. 2 DE DICIEMBRE DE 2013)
+D). El 20% de la recaudación correspondiente al impuesto especial sobre producción y servicios.
 
 E). El 50% de la recaudación correspondiente al impuesto sobre automóviles nuevos.
 
@@ -12253,6 +12273,10 @@ G). El 50% del fondo de compensación del impuesto sobre automóviles nuevos.
 
 H). El 20% de los recursos que efectivamente perciba la entidad derivados de la aplicación del artículo 4-A de la Ley de Coordinación Fiscal.
 
+> <small>(ADICIONADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
+
+I). El 100% de los recursos que reciba la entidad por concepto del Impuesto Sobre la Renta que efectivamente se entere a la federación, correspondiente al salario del personal que preste o desempeñe un servicio personal subordinado en los municipios, así como en sus organismos públicos descentralizados.
+
 II. Ingresos ministrados por el Gobierno Estatal.
 
 A). El 30% de la recaudación correspondiente al impuesto local sobre tenencia o uso de vehículos automotores.
@@ -12263,9 +12287,7 @@ B). El 35% de la recaudación correspondiente al impuesto sobre la adquisición 
 
 C) El 50% de la recaudación correspondiente al impuesto sobre loterías, rifas, sorteos, concursos y juegos permitidos con cruce de apuestas.
 
-> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
-
-D). El 100% de la recaudación del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal correspondiente a los trabajadores de los municipios, así como de sus organismos públicos descentralizados y fideicomisos.
+D). (DEROGADO, G.G. 2 DE DICIEMBRE DE 2013)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -12277,6 +12299,12 @@ Para efectos de este artículo se entenderá como ingresos, los efectivamente re
 
 Los municipios percibirán los recursos del Fondo de Fomento Municipal constituido por las cantidades que ministra el Gobierno Federal al Estado, en los términos de la Ley de Coordinación Fiscal.
 
+> <small>(ADICIONADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
+
+La distribución entre los municipios de los recursos correspondientes al numeral A.1 de la fracción I del artículo 219 de este Código se determinarán conforme a la fórmula siguiente:
+
+> <small>N. DE E. VÉASE FÓRMULA EN LA SECCIÓN SÉPTIMA DE LA G.G. DE 20 DE NOVIEMBRE DE 2014, PÁGINAS DE LA 35 A LA 36.</small>
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
@@ -12285,11 +12313,15 @@ Los municipios percibirán los recursos del Fondo de Fomento Municipal constitui
 
 A las participaciones e incentivos federales derivados de los convenios a que se refieren los incisos A), B), D), E), F) y G) de la fracción I del artículo 219 de este Código, así como a los ingresos ministrados por el Gobierno Estatal a que se refieren los incisos A), B) y C) de la fracción II del mismo artículo, se les denominará la Recaudación Estatal Participable.
 
-La Recaudación Estatal Participable se distribuirá conforme a la fórmula siguiente:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
+
+La Recaudación Estatal Participable se distribuirá conforme a la fórmula que más adelante se detalla, exceptuando a lo establecido en el artículo 220 segundo párrafo:
 
 > <small>N. DE E. VÉASE FÓRMULA EN LA SECCIÓN TERCERA DE LA G.G. DE 26 DE DICIEMBRE DE 2007, PÁGINA 80.</small>
 
-> <small>N. DE E. VÉASE REFORMAS A LA FÓRMULA EN LA SECCIÓN QUINTA DE LA G.G. DE 18 DE DICIEMBRE DE 2008, PÁGINA 60; SECCIÓN TERCERA DE LA G.G. DE 2 DE DICIEMBRE DE 2013, PÁGINA 77.</small>
+> <small>N. DE E. VÉASE REFORMAS A LA FÓRMULA EN LA SECCIÓN QUINTA DE LA G.G. DE 18 DE DICIEMBRE DE 2008, PÁGINA 60; SECCIÓN TERCERA DE LA G.G. DE 2 DE DICIEMBRE DE 2013, PÁGINA 77; SECCIÓN SÉPTIMA DE LA G.G. DE 20 DE NOVIEMBRE DE 2014, PÁGINA 36.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -12297,25 +12329,27 @@ La Recaudación Estatal Participable se distribuirá conforme a la fórmula sigu
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
 
-La fórmula anterior no será aplicable en el evento de que en el año de cálculo la Recaudación Estatal Participable sea inferior a la observada en el año 2012. En dicho supuesto, la distribución de la Recaudación Estatal Participable se realizará de acuerdo al coeficiente de las participaciones definitivas que para tal efecto publique la Secretaría.
+La fórmula anterior no será aplicable en el evento de que en el año de cálculo la Recaudación Estatal Participable sea inferior a la observada en el año 2013. En dicho supuesto, la distribución de la Recaudación Estatal Participable se realizará de acuerdo al coeficiente de las participaciones definitivas que para tal efecto publique la Secretaría.
 
-La Secretaría deberá publicar las reglas para la asignación de las participaciones federales y estatales a los municipios, las cuales deberán contener las definiciones de los conceptos referidos en este Código a través del Periódico Oficial “Gaceta del Gobierno” y en Internet.
+La Secretaría deberá publicar las reglas para la asignación de las participaciones federales y estatales a los municipios, las cuales deberán contener las definiciones de los conceptos referidos en este Código a través del Periódico Oficial "Gaceta del Gobierno" y en Internet.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
 
-Las participaciones a favor de los municipios a que se refiere el inciso C) fracción I del artículo 219 de este Código, correspondiente al Fondo de Fiscalización, se distribuirán atendiendo a la siguiente fórmula:
+Las participaciones a favor de los municipios a que se refiere el inciso C) fracción I del artículo 219 de este Código, correspondiente al Fondo de Fiscalización y Recaudación, se distribuirán atendiendo a la siguiente fórmula:
 
 > <small>N. DE E. VÉASE FÓRMULA EN LA SECCIÓN TERCERA DE LA G.G. DE 19 DE DICIEMBRE DE 2012, PÁGINA 54.</small>
 
+> <small>N. DE E. VÉASE REFORMAS A LA FÓRMULA EN LA SECCIÓN SÉPTIMA DE LA G.G. DE 20 DE NOVIEMBRE DE 2014, PÁGINA 36.</small>
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
 
-La fórmula anterior no será aplicable en el evento de que en el mes de cálculo el Fondo de Fiscalización sea inferior al observado en el mismo mes del año inmediato anterior. En dicho supuesto la distribución del Fondo de Fiscalización se realizará atendiendo a la recaudación registrada e informada por cada municipio, en el ejercicio fiscal en que entró en vigor la coordinación en materia de derechos entre los gobiernos del Estado y el Federal, por los conceptos que con motivo de dicha coordinación se dejaron de causar y cobrar.
+La fórmula anterior no será aplicable en el evento de que en el mes de cálculo el Fondo de Fiscalización y Recaudación sea inferior al observado en el mismo mes del año inmediato anterior. En dicho supuesto la distribución del Fondo de Fiscalización y Recaudación se realizará atendiendo a la recaudación registrada e informada por cada municipio, en el ejercicio fiscal en que entró en vigor la coordinación en materia de derechos entre los gobiernos del Estado y el Federal, por los conceptos que con motivo de dicha coordinación se dejaron de causar y cobrar.
 
 > <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -12329,9 +12363,11 @@ En caso de no contar con la información a que se refiere el artículo 221 del p
 
 La Secretaría podrá realizar ajustes en las participaciones provisionales cuando haya modificaciones en las variables que las determinan.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 20 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 223.
 
-(DEROGADO, G.G. 26 DE DICIEMBRE DE 2007)
+Las participaciones derivadas del Impuesto Sobre la Renta correspondientes a cada Ayuntamiento y sus organismos públicos descentralizados se transferirán a cada municipio conforme al monto efectivamente enterado a la federación.
 
 > <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -12525,7 +12561,7 @@ La Secretaría deberá efectuar los depósitos correspondientes a las retencione
 
 ###### Artículo 230-L.
 
-Los recursos pagados a la Comisión Federal de Electricidad y a Luz y Fuerza del Centro, según corresponda serán aplicados al pago de los adeudos corrientes de suministro de energía eléctrica.
+Los recursos pagados a la Comisión Federal de Electricidad y a Luz y Fuerza del Centro, según corresponda, serán aplicados al pago de los adeudos corrientes de suministro de energía eléctrica.
 
 > <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -13053,7 +13089,7 @@ II. Celebrar contratos, convenios y demás instrumentos legales relacionados dir
 
 > <small>(REFORMADA, G.G. 4 DE JUNIO DE 2004)</small>
 
-III. Constituir las garantías y fuentes de pago directas y/o indirectas de las obligaciones contraídas en términos de la fracción anterior, además de aquéllas que se contraigan con el carácter de aval y/u de obligado solidario.
+III. Constituir las garantías y fuentes de pago directas y/o indirectas de las obligaciones contraídas en términos de la fracción anterior, además de aquéllas que se contraigan con el carácter de aval y/u obligado solidario.
 
 IV. Analizar y otorgar, en su caso, el aval por las obligaciones de pasivo que contraigan los municipios y las entidades públicas y hacer los registros correspondientes, informándole de ello a la Legislatura.
 
@@ -13151,7 +13187,7 @@ III. Otros recursos federales de naturaleza análoga o conexa a los referidos en
 
 IV. En su caso, cualesquiera otros ingresos o derechos que sustituyan a los previstos en las fracciones anteriores.
 
-Para la afectación de los ingresos y/o derechos referidos en las fracciones anteriores del presente articulo, el Estado, por conducto del Gobernador a través de la Secretaría y previa autorización de la Legislatura, podrá constituir fideicomisos en los que afecte irrevocablemente los ingresos y/o el derecho a la totalidad o a un porcentaje de dichos recursos. Lo anterior en el entendido que el Estado no podrá de forma alguna revocar o revertir dicha afectación sin autorización de la propia Legislatura y de los acreedores correspondientes. La afectación materia de este artículo estará sujeta a lo previsto en el presente Código, el decreto por el que la Legislatura autorice la Constitución del respectivo fideicomiso y a sus modificaciones en la medida que éstas no afecten adversamente derechos adquiridos por los acreedores correspondientes o siempre que sean consentidas por los mismos en los convenios modificatorios pertinentes al efecto.
+Para la afectación de los ingresos y/o derechos referidos en las fracciones anteriores del presente artículo, el Estado, por conducto del Gobernador a través de la Secretaría y previa autorización de la Legislatura, podrá constituir fideicomisos en los que afecte irrevocablemente los ingresos y/o el derecho a la totalidad o a un porcentaje de dichos recursos. Lo anterior en el entendido que el Estado no podrá de forma alguna revocar o revertir dicha afectación sin la autorización de la propia Legislatura y de los acreedores correspondientes. La afectación materia de este artículo estará sujeta a lo previsto en el presente Código, el decreto por el que la Legislatura autorice la Constitución del respectivo fideicomiso y a sus modificaciones en la medida que éstas no afecten adversamente derechos adquiridos por los acreedores correspondientes o siempre que sean consentidas por los mismos en los convenios modificatorios pertinentes al efecto.
 
 Los fideicomisos a que se refiere el párrafo anterior deberán ser inscritos en el Registro de Deuda Pública, y serán considerados como acreedores para los efectos de prelación y preferencia en el pago en relación con otros acreditantes que no sean fideicomisarios en dichos fideicomisos, en los términos previstos en los artículos aplicables.
 
@@ -13363,6 +13399,10 @@ Cuando los municipios, los organismos descentralizados, las empresas de particip
 
 Todas las obligaciones de pasivo directas, indirectas y contingentes que contraigan el Estado, los Municipios y las Entidades Públicas, así como los fideicomisos a que se refiere el artículo 265-A del presente Código, se inscribirán en el Registro de Deuda Pública, el que será considerado como información pública de oficio y se difundirá en la página de internet de la Secretaría de Finanzas y del Órgano Superior de Fiscalización del Estado actualizándose trimestralmente, con las excepciones de reservar la confidencialidad en la información que establezcan las disposiciones legales aplicables.
 
+> <small>(ADICIONADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
+
+La falta de inscripción a que se refiere el párrafo anterior dará lugar para la aplicación al servidor público responsable, de las sanciones a que se refiere el artículo 49 fracción V tercer párrafo de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios. Asimismo, los particulares cualquiera que sea su carácter, con quienes se realicen actos o contratos en materia de deuda pública e incumplan con las obligaciones que los mismos les impongan, serán sancionados con una multa equivalente del 40 hasta el 70 por ciento de los daños causados a la hacienda pública dependiendo de la gravedad del incumplimiento y de la posibilidad de resarcir o no los daños, además de la prohibición para celebrar cualquier acto o contrato con la administración pública estatal o municipal dentro de un plazo de diez años a partir de que se compruebe el incumplimiento.
+
 > <small>(ADICIONADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 273 Bis.
@@ -13439,7 +13479,9 @@ La Secretaría expedirá a quienes acrediten su interés jurídico o legítimo, 
 
 El Estado, los municipios y las entidades públicas, tendrán las siguientes obligaciones:
 
-I. Llevar control de los empréstitos y créditos que contraten.
+> <small>(REFORMADA, G.G. 20 DE NOVIEMBRE DE 2014)</small>
+
+I. Llevar control de los empréstitos y créditos que contraten e inscribirlos en el Registro de Deuda Pública.
 
 II. Al efectuarse el pago parcial o total de las obligaciones, deberán comprobarlo ante la Secretaría para que se proceda a la cancelación parcial o total de las inscripciones correspondientes en el Registro de Deuda Pública.
 
@@ -13585,11 +13627,11 @@ III. El diagnóstico económico y financiero que para el ejercicio correspondien
 
 Las iniciativas de ley o decreto del Gobernador que impliquen afectación al Presupuesto de Egresos para el ejercicio fiscal que corresponda, deberán estar sustentadas en un dictamen de reconducción y actualización programática presupuestal realizado por el área que sometió la propuesta y aprobado por la Secretaría, cuyos aspectos más importantes se incluirán en la exposición de motivos de la iniciativa y su texto completo se anexará a la misma.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 289.
 
-Las Dependencias, Entidades Públicas, Organismos Autónomos, Poderes Legislativo y Judicial y unidades administrativas estatales y municipales formularán su anteproyecto de Presupuesto de Egresos, de acuerdo con las normas presupuestales vigentes con base en sus Programas presupuestarios y proyectos anuales.
+Las Dependencias, Entidades Públicas, Organismos Autónomos, Poderes Legislativo y Judicial y unidades administrativas estatales y municipales formularán su anteproyecto de Presupuesto de Egresos, de acuerdo con las normas presupuestales vigentes con base en sus programas presupuestarios y proyectos anuales, observando las leyes y reglamentaciones establecidas sobre la igualdad entre mujeres y hombres, la atención de niños, niñas y adolescentes, el desarrollo integral de los pueblos y comunidades indígenas, el desarrollo de los jóvenes, la atención a grupos vulnerables y para la protección al ambiente, en lo conducente.
 
 > <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -13609,9 +13651,9 @@ Los servidores públicos, recibirán una remuneración adecuada e irrenunciable 
 
 Para determinar las remuneraciones de los servidores públicos municipales, los ayuntamientos considerarán entre otros, los factores siguientes: población, recursos económicos disponibles, costo promedio de vida en el municipio y en la entidad, índice inflacionario, grado de marginalidad municipal, productividad en la prestación de servicios públicos, responsabilidad de la función y eficiencia en la recaudación de ingresos.
 
-> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
 
-La asignación de remuneraciones se fijará con base en los criterios y elementos señalados por este artículo y ningún servidor público estará facultado para establecer percepciones, cualquiera que sea su denominación, de manera discrecional; los bonos, estímulos, premios, gratificaciones o compensaciones adicionales que se asignen a servidores públicos estatales y municipales no podrán ser superiores al 10% de su salario bruto mensual, independientemente de que se pague en numerario o en especie, cualquiera que sea el medio de pago y deberán informarlo a la Legislatura del Estado.
+La asignación de remuneraciones se fijará con base en los criterios y elementos señalados por este artículo y ningún servidor público estará facultado para establecer percepciones, cualquiera que sea su denominación, de manera discrecional; los bonos, estímulos, premios, gratificaciones o compensaciones adicionales a lo autorizado en el Presupuesto de Egresos que se asignen a servidores públicos estatales y municipales no podrán ser superiores al 10% de su salario bruto mensual, independientemente de que se pague en numerario o en especie, cualquiera que sea el medio de pago y deberán informarlo a la Legislatura del Estado.
 
 > <small>(ADICIONADO, G.G. 4 DE JUNIO DE 2004)</small>
 
@@ -13771,7 +13813,7 @@ El último día hábil anterior al día quince del mes de agosto, las Dependenci
 
 > <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
-Las unidades administrativas de los Municipios enviarán su anteproyecto de presupuesto a la Tesorería para ser revisado con la Unidad de Información, Planeación, Programación y Evaluación. o la Unidad Administrativa responsable de realizar estas funciones. Dichas unidades administrativas deberán integrar el proyecto de presupuesto que se someterá a consideración del presidente municipal para su posterior aprobación por el Ayuntamiento.
+Las unidades administrativas de los Municipios enviarán su anteproyecto de presupuesto a la Tesorería para ser revisado con la Unidad de Información, Planeación, Programación y Evaluación, o la Unidad Administrativa responsable de realizar estas funciones. Dichas unidades administrativas deberán integrar el proyecto de presupuesto que se someterá a consideración del presidente municipal para su posterior aprobación por el Ayuntamiento.
 
 > <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
@@ -14269,7 +14311,7 @@ Los programas o disposiciones que el Poder Legislativo integre en el Presupuesto
 
 ###### Artículo 325.
 
-Las dependencias y entidades públicas sólo podrán otorgar donativos a los sectores público, social y privado, cuando éstos estén previstos en sus respectivos presupuestos.
+Las dependencias y entidades públicas sólo podrán otorgar donativos a los sectores público, social y privado, cuando estos estén previstos en sus respectivos presupuestos.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -14603,13 +14645,11 @@ IV. Integrar la cuenta pública.
 
 Lo anterior de acuerdo a los principios, normas contables generales y específicas e instrumentos que se establezcan en la normatividad aplicable.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 341.
 
-Se entenderá por cuenta pública el informe que rinda anualmente el Gobernador a la Legislatura, respecto de los resultados y la situación financiera del ejercicio fiscal inmediato anterior, y tratándose de los Municipios el informe que rinda el presidente municipal. Dichos documentos contarán de la máxima publicidad y será información pública de oficio que deberá difundirse en la página electrónica oficial del Gobierno del Estado y de los Municipios, respectivamente, una vez que se haya emitido el informe del Órgano Superior de Fiscalización del Estado de México.
+Se entenderá por cuenta pública el informe que rinda anualmente el Gobernador a la Legislatura, respecto de los resultados y la situación financiera del ejercicio fiscal inmediato anterior, y tratándose de los Municipios el informe que rinda el presidente municipal. Dichos documentos contarán de la máxima publicidad y será información pública de oficio que deberá difundirse en la página electrónica oficial del Gobierno del Estado y de los Municipios, respectivamente, una vez que se haya entregado a la Legislatura.
 
 ###### Artículo 342.
 
@@ -14849,7 +14889,7 @@ II. Se disminuirán:
 
 A). En un 20% de su monto, siempre que el infractor pague o devuelva el importe de las contribuciones omitidas con sus accesorios, o el beneficio indebido dentro de los diez días siguientes a la notificación de la resolución en la que se impuso el importe de la misma.
 
-B). En un 100% el importe de la multa fijada por la omisión en el pago de contribuciones y aprovechamientos, en los casos de devolución de cheques, siempre que se pague dicha contribución o aprovechamiento y en sus accesorios dentro de los cinco días siguientes a la fecha de notificación del requerimiento correspondiente.
+B). En un 100% el importe de la multa fijada por la omisión en el pago de contribuciones y aprovechamientos, en los casos de devolución de cheques, siempre que se pague dicha contribución o aprovechamiento y sus accesorios dentro de los cinco días siguientes a la fecha de notificación del requerimiento correspondiente.
 
 ### CAPITULO TERCERO. DE LOS DELITOS FISCALES
 
@@ -17114,3 +17154,11 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO.- En un plazo de sesenta días hábiles siguientes a la entrada en vigor del presente Decreto, el Titular del Ejecutivo del Estado proveerá en la esfera administrativa el cumplimiento del mismo, expidiendo y en su caso, reformando las disposiciones reglamentarias respectivas.
+
+G.G. 20 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día 1 de enero de 2015.
+
+TERCERO.- Las referencias que en lo sucesivo se realicen a la Dirección General de Protección Civil adscrita a la Secretaría de Seguridad Ciudadana, quedarán entendidas a la Coordinación General de Protección Civil adscrita a la Secretaría General de Gobierno.
