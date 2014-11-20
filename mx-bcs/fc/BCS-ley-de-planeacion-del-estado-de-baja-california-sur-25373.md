@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-planeacion-del-estado-de-baja-california-sur-25373"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-20"
-last_updated: "2012-12-20"
+last_updated: "2014-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE PLANEACIÓN DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 20 de febrero de 1984.
 
@@ -65,7 +65,7 @@ La planeación deberá llevarse a cabo como un medio para el eficaz desempeño d
 
 I.- La igualdad de derechos entre mujeres y hombres, la atención de las necesidades básicas de la población y la mejoría, en todos los aspectos de calidad de vida, para lograr una sociedad más igualitaria, garantizando un ambiente adecuado para el desarrollo de la población, y
 
-II.- La perspectiva de género, para garantizar la igualdad de oportunidades entre mujeres y hombres, y promover el adelanto de las mujeres mediante el acceso equitativo de los bienes, recursos·y beneficios del desarrollo;
+II.- La perspectiva de género, para garantizar la igualdad de oportunidades entre mujeres y hombres, y promover el adelanto de las mujeres mediante el acceso equitativo de los bienes, recursos y beneficios del desarrollo;
 
 ###### ARTICULO 3o.
 
@@ -195,9 +195,11 @@ II.- Cuando expresamente lo determine el Ejecutivo del Estado, elaborar su respe
 
 III.- Verificar periódicamente la relación que guarden sus actividades, así como los resultados de su ejecución con los objetivos y prioridades del Plan Estatal de Desarrollo y programas especiales correspondientes.
 
+> <small>(REFORMADO, B.O. 20 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTICULO 17.
 
-La Contraloría del Estado deberá aportar elementos de juicio para el control y seguimientos (sic) de los objetivos y prioridades del Plan Estatal de Desarrollo y los programas respectivos.
+La Contraloría General del Estado deberá aportar elementos de juicio para el control y seguimientos (sic) de los objetivos y prioridades del Plan Estatal de Desarrollo y los programas respectivos.
 
 ###### ARTICULO 18.
 
@@ -490,3 +492,7 @@ B.O. 10 DE AGOSTO DE 2004.
 B.O. 20 DE DICIEMBRE DE 2012.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE NOVIEMBRE DE 2014.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
