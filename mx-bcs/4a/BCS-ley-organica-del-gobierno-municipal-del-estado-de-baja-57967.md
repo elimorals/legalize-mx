@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-gobierno-municipal-del-estado-de-baja-57967"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-10-10"
-last_updated: "2014-10-20"
+last_updated: "2014-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Extraordinario Número 45-Bis al Boletín Oficial del Estado de Baja California Sur, el miércoles 10 de octubre de 2007.
 
@@ -125,7 +125,7 @@ La vecindad en un municipio no se perderá cuando el vecino se traslade a residi
 
 Son derechos de los habitantes del municipio:
 
-I. Utilizar los servicios públicos que preste el municipio, de acuerdo con los requisitos que establezca esta Ley, los reglamentos municipales respectivos y de más (sic) ordenamientos legales aplicables;
+I. Utilizar los servicios públicos que preste el municipio, de acuerdo con los requisitos que establezca esta Ley, los reglamentos municipales respectivos y de más ordenamientos legales aplicables;
 
 II. Ser atendido por las autoridades municipales, en todo asunto relacionado con su calidad de habitante;
 
@@ -289,7 +289,9 @@ IV.- La situación de la deuda pública municipal, la documentación relativa a 
 
 V.- El estado de la obra pública ejecutada y en proceso en el Municipio y la documentación relativa a la misma;
 
-VI.- La situación que guarda la aplicación del gasto público de los recursos federales y estatales, así como los informes y comprobantes de los mismos, ante la Contraloría del Estado;
+> <small>(REFORMADA, B.O. 20 DE NOVIEMBRE DE 2014)</small>
+
+VI.- La situación que guarda la aplicación del gasto público de los recursos federales y estatales, así como los informes y comprobantes de los mismos, ante la Contraloría General del Estado;
 
 VII.- La plantilla y los expedientes del personal al servicio del Municipio, antigüedad, prestaciones, catálogo de puestos y demás información conducente;
 
@@ -411,7 +413,7 @@ El desarrollo de las sesiones del Ayuntamiento, se hará constar por el secretar
 
 En los demás casos, bastará que los documentos relativos al asunto tratado, se agreguen al apéndice del libro o folios de actas.
 
-Las actas de las sesiones de Ayuntamiento, se llevarán por duplicado, el original lo conservará el propio Ayuntamiento y el otro se enviará terminado (sic) el período del gobierno municipal, al Archivo General del Estado, para formar parte del acervo histórico de la Entidad.
+Las actas de las sesiones de Ayuntamiento, se llevarán por duplicado, el original lo conservará el propio Ayuntamiento y el otro se enviará terminado el período del gobierno municipal, al Archivo General del Estado, para formar parte del acervo histórico de la Entidad.
 
 Las actas deberán ser firmadas por los integrantes del Ayuntamiento que participaron en la sesión y por el secretario del mismo.
 
@@ -1279,7 +1281,7 @@ En el caso de que el Ayuntamiento adquiera por cualquier concepto bienes muebles
 
 XII. Integrar un sistema de información que contenga datos de los aspectos socio-económicos básicos del municipio;
 
-XIII. Mandar publicar los reglamentos, circulares y demás disposiciones municipales de observancia general y remitir al Congreso del estado la cuenta publica autorizada, la ley de ingresos municipales y cualquier acuerdo, dictamen o comunicado que emane del cabildo y que sea necesaria (sic) su envío a la legislatura;
+XIII. Mandar publicar los reglamentos, circulares y demás disposiciones municipales de observancia general y remitir al Congreso del estado la cuenta publica autorizada, la ley de ingresos municipales y cualquier acuerdo, dictamen o comunicado que emane del cabildo y que sea necesaria su envío a la legislatura;
 
 XIV. Las demás que le confieran esta Ley y disposiciones aplicables.
 
@@ -2404,3 +2406,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 B.O. 20 DE OCTUBRE DE 2014.
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE NOVIEMBRE DE 2014.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
