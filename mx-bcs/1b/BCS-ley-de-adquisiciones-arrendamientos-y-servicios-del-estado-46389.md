@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-adquisiciones-arrendamientos-y-servicios-del-estado-4638
 country: "mx"
 rank: "ley"
 publication_date: "2005-09-14"
-last_updated: "2007-12-31"
+last_updated: "2014-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el miércoles 14 de septiembre de 2005.
 
@@ -63,6 +63,8 @@ Los titulares de las dependencias y los organismos de gobierno de las Entidades,
 
 Las Dependencias y Entidades se abstendrán de crear fideicomisos, otorgar mandatos o celebrar actos o cualquier tipo de contratos que evadan lo previsto en este ordenamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 2o.
 
 Para los efectos de la presente Ley, se entenderá por:
@@ -73,7 +75,9 @@ II. Oficialía: Oficialía Mayor del Gobierno del Estado;
 
 III. Secretaría de Finanzas: La Secretaría de Finanzas del Gobierno del Estado;
 
-IV. Contraloría: La Contraloría General del Estado;
+> <small>(REFORMADA, B.O. 20 DE NOVIEMBRE DE 2014)</small>
+
+IV. Contraloría: La Contraloría General del Estado.
 
 V. Dependencias: A las Secretarías que se señalan en la Ley Orgánica de la Administración Pública del Estado de Baja California Sur y la Procuraduría General de Justicia;
 
@@ -1254,3 +1258,7 @@ PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Para efectos de lo dispuesto por el artículo 28 reformado mediante el presente decreto, el Gobernador del Estado acordará el establecimiento del Comité de Adquisiciones, Arrendamientos y Servicios en un plazo no mayor a 30 días naturales, contados a partir de la vigencia del presente decreto.
 
 TERCERO.- La Contraloría General del Estado deberá expedir las bases conforme a las cuales el nuevo comité de adquisiciones, arrendamientos y servicios, elaborará y aprobará su manual de integración y funcionamiento, en un plazo no mayor a 30 días naturales contados a partir de la creación formal del Comité a que alude el artículo anterior.
+
+B.O. 20 DE NOVIEMBRE DE 2014.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
