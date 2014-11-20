@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-del-organismo-descentralizado-de-la-26391"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-10-27"
-last_updated: "2010-12-28"
+last_updated: "2014-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26391&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # REGLAMENTO INTERIOR DEL ORGANISMO DESCENTRALIZADO DE LA ADMINISTRACION PUBLICA ESTATAL DENOMINADO SERVICIOS DE SALUD DE SAN LUIS POTOSI
 
-REGLAMENTO INTERIOR DEL ORGANISMO DESCENTRALIZADO DE LA ADMINISTRACION PUBLICA ESTATAL DENOMINADO SERVICIOS DE SALUD DE SAN LUIS POTOSI
+REGLAMENTO INTERIOR DEL ORGANISMO DESCENTRALIZADO DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DENOMINADO SERVICIOS DE SALUD DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2014.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 27 de octubre de 2001.
 
@@ -147,7 +147,7 @@ La Junta de Gobierno estará integrada de la siguiente manera:
 
 I.- Por un Presidente que será el C. Secretario de Salud del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE JULIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2005)</small>
 
 II.- Por los siguientes representantes del Gobierno del Estado:
 
@@ -325,13 +325,13 @@ XXII.- Suscribir todo tipo de documentos y oficios de la competencia del Organis
 
 DE LAS ATRIBUCIONES DE LAS UNIDADES ADMINISTRATIVAS.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 #### SECCION PRIMERA.
 
 DE LAS ATRIBUCIONES DE LAS DIRECCIONES.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO PRIMERO.
 
@@ -341,7 +341,7 @@ DE LAS ATRIBUCIONES DE LAS DIRECCIONES.
 
 Al frente de las Direcciones habrá un Director que será responsable ante el Director General de los Servicios de Salud de San Luis Potosí y Junta de Gobierno indistintamente, de su correcto funcionamiento y estará auxiliado por los Subdirectores y Jefes de Departamento que requieran las necesidades del servicio y autorice su presupuesto.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 12.
 
@@ -379,7 +379,7 @@ XII.- Proponer al superior jerárquico los acuerdos de coordinación con gobiern
 
 XIII.- Observar, atender y aplicar los criterios que emita Subdirección de Asuntos Jurídicos y consultarla cuando los asuntos impliquen cuestiones jurídicas, así como proporcionarle la información que requiera en los plazos y en los términos que dicha unidad administrativa les solicite.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE JULIO DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JULIO DE 2005)</small>
 
 ### CAPITULO SEGUNDO.
 
@@ -389,7 +389,7 @@ DE LA DIRECCION DE PROTECCION CONTRA RIESGOS SANITARIOS.
 
 (DEROGADO, P.O. 28 DE DICIEMBRE DE 2010)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE JULIO DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JULIO DE 2005)</small>
 
 ### CAPITULO TERCERO.
 
@@ -461,19 +461,19 @@ XXIX. Conducir y controlar las Políticas nacionales y estatales para elevar la 
 
 XXX. Realizar las demás funciones que le señalen las Leyes, Reglamentos, Decretos y Acuerdos aplicables, y las que le confiera el Director General de los Servicios de Salud del Estado de San Luís Potosí.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE JULIO DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JULIO DE 2005)</small>
 
 ### CAPITULO CUARTO.
 
 DE LA DIRECCIÓN DE PLANEACION EVALUACION Y PROYECTOS ESPECIALES.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE JULIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2005)</small>
 
 ### CAPITULO QUINTO.
 
 DE LA DIRECCION DE ADMINISTRACION.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 15.
 
@@ -521,7 +521,7 @@ XX.- Desarrollar, actualizar y establecer el Plan Maestro de Infraestructura de 
 
 XXI.- Las demás que le señalen las Leyes, Reglamentos, Decretos o le confiera el Director General de los Servicios de Salud de San Luis Potosí, así como las que competen a las Unidades Administrativas que le estén adscritas.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE OCTUBRE DE 2002)</small>
 
 ### CAPITULO SEXTO.
 
@@ -769,7 +769,7 @@ XXXI.- Las demás que le señalen las Leyes, Reglamentos, Decretos o que le conf
 
 Al frente de la Subdirección de Asuntos Jurídicos habrá un Subdirector que ejercerá las facultades y atribuciones dispuestas en el presente artículo, y estará auxiliado por los Jefes de Departamento, Coordinadores, Asesores, Responsables de Unidades y demás Servidores Públicos que requieran las necesidades del servicio y autorice su presupuesto. Los servidores públicos adscritos a la Subdirección de Asuntos Jurídicos, podrán ejercer las facultades y atribuciones que se establecen en el presente artículo, que en forma expresa y por acuerdo les sean autorizadas por el Titular de la Subdirección de Asuntos Jurídicos.
 
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 7 DE JULIO DE 2005)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE JULIO DE 2005)</small>
 
 ### CAPITULO OCTAVO.
 
@@ -851,7 +851,7 @@ DE LOS ORGANOS AUXILIARES.
 
 DE LA SUBDIRECCION DE CONTRALORIA INTERNA.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2002)</small>
 
 ###### ARTICULO 19.
 
@@ -865,7 +865,7 @@ Los órganos auxiliares y sus titulares tendrán las atribuciones y facultades q
 
 Compete a los órganos auxiliares de los Servicios de Salud la planeación, programación, organización, dirección, control y evaluación del funcionamiento de las unidades administrativas a ellos adscritas, con sujeción a los lineamientos establecidos en la Ley y en este Reglamento.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE OCTUBRE DE 2002)</small>
 
 ### CAPITULO PRIMERO.
 
@@ -909,7 +909,7 @@ XVI.-·Dar un informe trimestral de sus actividades al Contralor General del Est
 
 XVII.- Asistir cuando por la naturaleza del asunto sean requeridos, a las reuniones de trabajo de la Unidad de Coordinación de Contralorías Internas y Comisarías, y cumplir con los acuerdos que de ellas se deriven, coordinando las acciones de control respectivas con los Directores Generales de la Contraloría General, que conforme a las atribuciones de estos últimos deba atender y dar seguimiento.
 
-XVIII.- Elaborar, siguiendo los lineamientos de la propia Contraloría General del Estado, el Programa Anual de Auditoría para las áreas que integran a los Servicios de Salud de San Luis Potosí y dar seguimiento a las observaciones y recomendaciones resultantes de las auditorías realizadas; y (sic)
+XVIII.- Elaborar, siguiendo los lineamientos de la propia Contraloría General del Estado, el Programa Anual de Auditoría para las áreas que integran a los Servicios de Salud de San Luis Potosí y dar seguimiento a las observaciones y recomendaciones resultantes de las auditorías realizadas; y
 
 > <small>(REFORMADA, P.O. 7 DE JULIO DE 2005)</small>
 
@@ -1357,11 +1357,13 @@ VIII.- Aquellas que le confiere el titular de los Servicios de Salud de San Luis
 
 Tales facultades se entienden conferidas, sin perjuicio de su ejercicio directo por parte del Titular de los Servicios de Salud de San Luis Potosí;
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO UNICO.
 
 DE LAS JURISDICCIONES SANITARIAS.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2014)</small>
 
 #### SECCION CUARTA.
 
@@ -1371,11 +1373,11 @@ DE LAS JURISDICCIONES SANITARIAS.
 
 ###### ARTICULO 36.
 
-Para el mejor despacho de los asuntos de los Servicios de Salud de San Luis Potosí en el interior del Estado, contará con seis Jurisdicciones Sanitarias y demás que se requieran por necesidades del servicio, cada una de las cuales estará a cargo de un Jefe con las siguientes atribuciones:
+Para el mejor despacho de los asuntos de los Servicios de Salud de San Luis Potosí en el interior del Estado, contará con siete Jurisdicciones Sanitarias y demás que se requieran por necesidades del servicio, cada una de las cuales estará a cargo de un Jefe con las siguientes atribuciones:
 
 > <small>(REFORMADA, P.O. 7 DE JULIO DE 2005)</small>
 
-I.- Tendrán la representación legal de los Servicios de Salud de San Luis Potosí en la Jurisdicción Sanitaria a su cargo, y podrán actuar en representación del Titular de dicho Organismo, y de los Hospitales y centros de salud de su adscripción que queden dentro de su circunscripción territorial, en la instrumentación, levantamiento de actas administrativas laborales y aplicación de sanciones a los trabajadores por violaciones a las Leyes aplicables y a las Condiciones Generales de Trabajo dentro del ámbito de la Jurisdicción Sanitaria; Lo (sic) anterior, con Poder General para Actos de Administración, Pleitos y Cobranzas;
+I.- Tendrán la representación legal de los Servicios de Salud de San Luis Potosí en la Jurisdicción Sanitaria a su cargo, y podrán actuar en representación del Titular de dicho Organismo, y de los Hospitales y centros de salud de su adscripción que queden dentro de su circunscripción territorial, en la instrumentación, levantamiento de actas administrativas laborales y aplicación de sanciones a los trabajadores por violaciones a las Leyes aplicables y a las Condiciones Generales de Trabajo dentro del ámbito de la Jurisdicción Sanitaria; Lo anterior, con Poder General para Actos de Administración, Pleitos y Cobranzas;
 
 II.- Elaborar el programa operativo anual de su Jurisdicción y presentarlo para su evaluación al Director General de los Servicios de Salud de San Luis Potosí.
 
@@ -1399,29 +1401,33 @@ Corresponden a las Jurisdicciones Sanitarias dentro del ámbito de su competenci
 
 I.- La Jurisdicción Sanitaria No. I comprende los Municipios de: San Luis Potosí y Soledad de Graciano Sánchez.
 
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 2005)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2014)</small>
 
-II.- A la Jurisdicción Sanitaria No; II le competen los Municipios de: Catorce, Cedral, Charcas, Matehuala, Moctezuma, Santo Domingo, Vanegas, Venado, Villa de Guadalupe, Villa de la Paz, Guadalcazar.
+II.- A la Jurisdicción Sanitaria No. II le atañen los Municipios de: Catorce, Cedral, Charcas, Matehuala, Moctezuma, Santo Domingo, Vanegas, Venado, Villa de Guadalupe, Villa de la Paz, Villa de Ramos y Villa de Arista.
 
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 2005)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2014)</small>
 
-III.- A la Jurisdicción Sanitaria No; III le competen los Municipios de: Ahualulco, Armadillo de los Infante, Cerro de San Pedro, Salinas, Mexquitic de Carmona, Santa María del Río, Tierra Nueva, Villa de Arriaga, Villa de Reyes, Villa Hidalgo, Zaragoza, Villa de Ramos y Villa de Arista;
+III.- A la Jurisdicción Sanitaria No. III le competen los Municipios de Ahualulco, Armadillo de los Infante, Cerro de San Pedro, Guadalcazar, Salinas, Mexquitic de Carmona, Santa María del Rio, Tierra Nueva, Villa de Arriaga, Villa de Reyes, Villa Hidalgo, Zaragoza.
 
 > <small>(REFORMADA, P.O. 7 DE JULIO DE 2005)</small>
 
 IV.- A la Jurisdicción Sanitaria No; IV le incumben los Municipios de: Alaquines, Cárdenas, Cerritos, Ciudad Fernández, Ciudad del Maíz, Lagunillas, Rayón, Rioverde, San Ciro de Acosta, San Nicolás Tolentino, Santa Catarina, Villa Juárez.
 
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 2005)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2014)</small>
 
-V.- La Jurisdicción Sanitaria No; V abarca los Municipios de: Aquismón, Ciudad Valles, Ebano, San Vicente Tancuayalab, Tamuin, Tanlajás, Tanquian de Escobedo, Tamasopo, El Naranjo.
+V.- La Jurisdicción Sanitaria No. V abarca los Municipios de: Ciudad Valles, Tamasopo, Ébano, El Naranjo y Tamuín;
 
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 2005)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2014)</small>
 
-VI.- La Jurisdicción Sanitaria No; VI atiende los Municipios de: Tancanhuitz, Coxcatlán, Huehuetlán, San Antonio, San Martin Chalchicuautla, Tamazunchale, Tampacán, Tampamolón Corona, Axtla de Terrazas, Xilitla, Matlapa.
+VI.- A la Jurisdicción Sanitaria No. VI atiende a los Municipios de: Tamazunchale, San Martín Chalchicuautla, Tampacán, Axtla de Terrazas, Xilitla y Matlapa, y
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2014)</small>
+
+VII.- La Jurisdicción Sanitaria No. VII conoce de los Municipios de Tancanhuitz, Aquismón, San Vicente Tancuayalab, Tanlajás, Tanquián de Escobedo, Coxcatlán, Huehuetlán, San Antonio y Tampamolón Corona.
 
 ## TITULO CUARTO.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO PRIMERO.
 
@@ -1431,19 +1437,19 @@ DIRECCIÓN DEL RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD.
 
 ###### ARTICULO 38.
 
-El Director General de los Servicios de Salud de San Luis Potosí será suplido en ausencias temporales menores de 15 días por el Director que para tal efecto designe; En (sic) las ausencias mayores de 15 días, será suplido por el servidor público designado por el C. Gobernador del Estado.
+El Director General de los Servicios de Salud de San Luis Potosí será suplido en ausencias temporales menores de 15 días por el Director que para tal efecto designe; En las ausencias mayores de 15 días, será suplido por el servidor público designado por el C. Gobernador del Estado.
 
 > <small>(REFORMADO, P.O. 7 DE JULIO DE 2005)</small>
 
 ###### ARTICULO 39.
 
-Los Directores, durante sus ausencias temporales menores de 15 días, serán suplidos por el Subdirector que para tal efecto designen; Si (sic) sus ausencias exceden de 15 días, serán suplidos por el Director o servidor público designado por el Director General.
+Los Directores, durante sus ausencias temporales menores de 15 días, serán suplidos por el Subdirector que para tal efecto designen; Si sus ausencias exceden de 15 días, serán suplidos por el Director o servidor público designado por el Director General.
 
 > <small>(REFORMADO, P.O. 7 DE JULIO DE 2005)</small>
 
 ###### ARTICULO 40.
 
-Los Subdirectores, durante sus ausencias menores de 15 días, serán suplidos por el servidor público de la Jerarquía inmediata inferior que para tal efecto designen; Si (sic) sus ausencias exceden de 15 días, serán suplidos por el servidor público designado por el Director General de los Servicios de Salud de San Luis Potosí o por el Director.
+Los Subdirectores, durante sus ausencias menores de 15 días, serán suplidos por el servidor público de la Jerarquía inmediata inferior que para tal efecto designen; Si sus ausencias exceden de 15 días, serán suplidos por el servidor público designado por el Director General de los Servicios de Salud de San Luis Potosí o por el Director.
 
 ###### ARTICULO 41.
 
@@ -1453,17 +1459,17 @@ Los Jefes de Jurisdicciones Sanitarias, durante sus ausencias menores de 15 día
 
 ###### ARTICULO 42.
 
-Los Jefes de Departamento, durante sus ausencias menores de 15 días, serán suplidos por el servidor público de jerarquía inmediata inferior que para tal efecto designe el Subdirector correspondiente; Las (sic) ausencias mayores de este término, serán suplidas por el servidor público designado por el Director General de los Servicios de Salud de San Luis Potosí o por el Director;
+Los Jefes de Departamento, durante sus ausencias menores de 15 días, serán suplidos por el servidor público de jerarquía inmediata inferior que para tal efecto designe el Subdirector correspondiente; Las ausencias mayores de este término, serán suplidas por el servidor público designado por el Director General de los Servicios de Salud de San Luis Potosí o por el Director;
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ARTICULO 42 BIS.- En los casos de suplencia, los servidores públicos designados podrán suscribir todo tipo de documentos y oficios de la competencia del Organismo, de la Dirección, Subdirección y Jefatura de Departamento, según sea el caso y que no requieran la aprobación de la Junta de Gobierno.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ## TITULO QUINTO.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO SEGUNDO.
 
@@ -1471,7 +1477,7 @@ DE LA DIRECCION DE AREA DE SALUD MENTAL Y ADICCIONES.
 
 ARTICULO 43 (SIC).- (DEROGADO, P.O. 7 DE JULIO DE 2005)
 
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 7 DE JULIO DE 2005)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE JULIO DE 2005)</small>
 
 ###### ARTICULO 43.
 
@@ -1501,7 +1507,7 @@ X. Integrar los programas de combate a la pobreza para la población no asegurad
 
 Al frente de la Dirección del Régimen Estatal de Protección Social en Salud habrá un Director que ejercerá las facultades y atribuciones dispuestas en el presente artículo, y estará auxiliado por los Subdirectores, Jefes de Departamento, Asesores, Responsables y demás Servidores Públicos que requieran las necesidades del servicio y autorice su presupuesto.
 
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 7 DE JULIO DE 2005)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE JULIO DE 2005)</small>
 
 ### CAPITULO TERCERO
 
@@ -1539,7 +1545,7 @@ DRA. MA. DEL PILAR FONSECA
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
 
 P.O. 19 DE OCTUBRE DE 2002.
 
@@ -1563,7 +1569,7 @@ CUARTO.- Se deben actualizar los Manuales que este Reglamento menciona, y mientr
 
 P.O. 26 DE MAYO DE 2007.
 
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado; (sic)
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado;
 
 P.O. 28 DE DICIEMBRE DE 2010.
 
@@ -1572,3 +1578,7 @@ PRIMERO.- El presente Acuerdo Administrativo entrará en vigor el día siguiente
 SEGUNDO.- Se deben actualizar los Manuales que este Reglamento menciona, y mientras tanto, el Titular del Organismo queda facultado para resolver las cuestiones que conforme a dichos manuales se deben regular, lo anterior en un término que no excederá de 90 días a partir de la entrada en vigencia del presente Decreto.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Acuerdo Administrativo.
+
+P.O. 20 DE NOVIEMBRE DE 2014.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado; en consecuencia, quedan derogadas todas aquellas disposiciones administrativas que se le opongan.
