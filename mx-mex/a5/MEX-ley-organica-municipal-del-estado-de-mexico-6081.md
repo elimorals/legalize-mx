@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2014-11-11"
+last_updated: "2014-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -645,6 +645,12 @@ I Bis. Aprobar e implementar programas y acciones que promuevan un proceso const
 
 I Ter. Aprobar y promover un programa para el otorgamiento de la licencia provisional de funcionamiento para negocios de bajo riesgo que no impliquen riesgos sanitarios, ambientales o de protección civil, conforme al Catálogo Mexiquense de Actividades Industriales, Comerciales y de Servicios de Bajo Riesgo, consignado en la Ley de la materia, mismo que deberá publicarse dentro de los primeros 30 días naturales de cada Ejercicio Fiscal y será aplicable hasta la publicación del siguiente catálogo;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
+
+El otorgamiento de la licencia a que hace referencia el párrafo anterior, en ningún caso estará sujeto al pago de contribuciones ni a donación alguna; la exigencia de cargas tributarias, dádivas o cualquier otro concepto que condicione su expedición será sancionada en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+
 II. Celebrar convenios, cuando así fuese necesario, con las autoridades estatales competentes; en relación con la prestación de los servicios públicos a que se refiere el artículo 115, fracción III de la Constitución General, así como en lo referente a la administración de contribuciones fiscales;
 
 > <small>(ADICIONADA, G.G. 20 DE DICIEMBRE DE 2010)</small>
@@ -1110,6 +1116,12 @@ XIII Bis. Desarrollar un programa permanente de mejora regulatoria, en coordinac
 > <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
 
 XIII Ter. Proponer al ayuntamiento y ejecutar un programa especial para otorgar la licencia provisional de funcionamiento para negocios de bajo riesgo sanitario, ambiental o de protección civil, que autorice el cabildo conforme a la clasificación contenida en el Catálogo Mexiquense de Actividades Industriales, Comerciales y de Servicios de Bajo Riesgo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
+
+Para tal efecto, deberá garantizar que el otorgamiento de la licencia no esté sujeto al pago de contribuciones ni a donación alguna; la exigencia de cargas tributarias, dádivas o cualquier otro concepto que condicione su expedición será sancionada en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1950,6 +1962,12 @@ XVI. Fomentar la comercialización de productos hechos en el Municipio en mercad
 XVII. Auxiliar al Presidente Municipal en la coordinación con las dependencias del Ejecutivo Estatal que son responsables de la mejora regulatoria y fomento económico en los términos que señale la Ley de la materia;
 
 XVIII. Conducir la coordinación interinstitucional de las dependencias municipales a las que corresponda conocer sobre el otorgamiento de permisos y licencias para la apertura y funcionamiento de unidades económicas;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
+
+Para tal efecto, deberá garantizar que el otorgamiento de la licencia no esté sujeto al pago de contribuciones ni a donación alguna; la exigencia de cargas tributarias, dádivas o cualquier otro concepto que condicione su expedición será sancionada en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4130,3 +4148,11 @@ G.G. 11 DE NOVIEMBRE DE 2014.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 20 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día 1 de enero de 2015.
+
+TERCERO.- Las referencias que en lo sucesivo se realicen a la Dirección General de Protección Civil adscrita a la Secretaría de Seguridad Ciudadana, quedarán entendidas a la Coordinación General de Protección Civil adscrita a la Secretaría General de Gobierno.
