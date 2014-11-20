@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2014-07-31"
+last_updated: "2014-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCS"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE JUNIO DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 31 DE JULIO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE NOVIEMBRE DE 2014.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -777,7 +775,7 @@ En los casos de inundación, naufragio, incendio o cualquier otro siniestro en q
 
 ###### Artículo 130.
 
-Si no aparece el cadáver, pero se presume que alguna persona ha sucumbido en el lugar de (sic) desastre, se tramitará la declaración judicial de presunción de muerte, debiendo el Juez notificar el fallo respectivo al Oficial del Registro Civil para que expida el acta de defunción correspondiente.
+Si no aparece el cadáver, pero se presume que alguna persona ha sucumbido en el lugar de desastre, se tramitará la declaración judicial de presunción de muerte, debiendo el Juez notificar el fallo respectivo al Oficial del Registro Civil para que expida el acta de defunción correspondiente.
 
 ###### Artículo 131.
 
@@ -1517,7 +1515,7 @@ Salvo casos excepcionales de enfermedades transmisibles, corrupción o maltrato 
 
 ###### Artículo 263.
 
-En los casos de nulidad, la sociedad conyugal se considerará subsistente hasta que se pronuncie sentencia ejecutoria (sic), si los dos cónyuges procedieron de buena fe.
+En los casos de nulidad, la sociedad conyugal se considerará subsistente hasta que se pronuncie sentencia ejecutoria, si los dos cónyuges procedieron de buena fe.
 
 ###### Artículo 264.
 
@@ -9505,6 +9503,10 @@ No estará obligado a la reparación del daño moral quien ejerza sus derechos d
 
 En todo caso, quien demande la reparación del daño moral por responsabilidad contractual o extracontractual deberá acreditar plenamente la ilicitud de la conducta del demandado y el daño que directamente le hubiere causado tal conducta.
 
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2014)</small>
+
+En ningún caso se consideraran ofensas al honor las opiniones desfavorables de la crítica literaria, artística, histórica, científica o profesional. Tampoco se consideraran ofensivas las opiniones desfavorables realizadas en cumplimiento de un deber o ejerciendo un derecho cuando el modo de proceder o la falta de reserva no tenga un propósito ofensivo.
+
 ###### Artículo 1823.
 
 Las personas que han causado en común un daño, son responsables solidariamente hacia la víctima por la reparación a que están obligadas, de acuerdo con las disposiciones de este capítulo.
@@ -15507,7 +15509,7 @@ B.O. 31 DE MARZO DE 2008.
 
 DECRETO 1739, POR EL QUE SE DEROGA LA FRACCIÓN XIV DEL ARTÍCULO 289 Y SE REFORMAN LOS ARTÍCULOS 289, EN SU FRACCIÓN VII, 302, 322 Y 481 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA SUR.
 
-PRIMERO.- El presente decreto entrará en vigor al siguiente día de su publicación en el Boletín Oficial del Gobierno Estado (sic) de Baja California Sur.
+PRIMERO.- El presente decreto entrará en vigor al siguiente día de su publicación en el Boletín Oficial del Gobierno (sic) Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
 
@@ -15570,3 +15572,7 @@ B.O. 30 DE JUNIO DE 2014.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación· en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+P.O. 20 DE NOVIEMBRE DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
