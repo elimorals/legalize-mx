@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2014-11-13"
+last_updated: "2014-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE NOVIEMBRE DE 2014.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -193,9 +193,11 @@ XIII. Resolver expresamente todos los puntos propuestos por los interesados o pr
 
 10.- Todo acto administrativo se presumirá válido mientras no haya sido declarada su invalidez, y será eficaz y exigible desde el momento en que la notificación del mismo surta sus efectos, salvo cuando el acto tenga señalada una fecha de vigencia, en cuyo supuesto se estará a la fecha de inicio de dicha vigencia, siempre y cuando haya surtido efectos la notificación respectiva, o cuando haya operado la afirmativa o negativa ficta. Tratándose de actos administrativos por los que se otorguen beneficios a los particulares, éstos podrán exigir su cumplimiento desde la fecha en que se haya emitido el acto o desde aquélla que tenga señalada para iniciar su vigencia.
 
-> <small>(ADICIONADO, G.G. 15 DE OCTUBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Todo acto administrativo que se emita para la apertura y funcionamiento de unidades económicas requerirá los documentos y datos que se indiquen en forma expresa en la ley de la materia y los registros estatal y municipal de trámites y servicios.
+> <small>(REFORMADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
+
+Todo acto administrativo que se emita para la apertura y funcionamiento de unidades económicas o negocios de bajo riesgo, en ningún caso estará condicionado al pago de contribuciones ni a donación alguna y requerirá, únicamente, los documentos y datos que se indiquen en forma expresa en la ley de la materia y los registros estatal y municipal de trámites y servicios. La exigencia de cargas tributarias, dádivas o cualquier otro concepto que condicione su expedición será sancionada en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
 
 Se considera que ha operado la afirmativa ficta cuando la autoridad competente haya expedido la certificación respectiva, o no haya dado respuesta a la solicitud de certificación en el plazo a que se refiere el segundo párrafo del artículo 135 del Código de Procedimientos Administrativos del Estado de México, o cuando así lo haya declarado el Tribunal Contencioso Administrativo. Tratándose de la negativa ficta, ésta operará cuando el interesado la haga valer al promover el medio de impugnación correspondiente.
 
@@ -6803,9 +6805,11 @@ VI. Ceder, hipotecar, gravar o transferir las concesiones y permisos, los derech
 
 VII. Modificar o alterar sustancialmente la naturaleza o condiciones de los servicios sin previa autorización;
 
-> <small>(REFORMADA, G.G. 25 DE JUNIO DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VIII. Prestar servicios distintos a los señalados en la concesión o permiso o sin la cromática respectiva para los concesionarios, y que la misma sea reproducida y utilizada por vehículos concesionados en una modalidad o tipo diferente, según la normatividad administrativa en bases y derroteros autorizados;
+> <small>(REFORMADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
+
+VIII. Prestar servicios distintos a los señalados en la concesión o permiso o sin la cromática respectiva para los concesionarios, y que la misma sea reproducida y utilizada por vehículos concesionados en una modalidad o tipo diferente, según la normatividad administrativa en bases o derroteros autorizados; o permitir que se conduzca la unidad por persona de cualquier edad que carezca de Licencia de Chofer para Servicio Público;
 
 IX. No otorgar o no mantener en vigor la garantía de daños contra terceros;
 
@@ -7577,7 +7581,9 @@ IV. Multa de hasta mil veces el salario mínimo general vigente en el área geog
 
 V. Multa de ochenta a doscientas veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien transporte carga en vehículos de cualquier tipo sin contar con la concesión o permiso respectivo;
 
-VI. Multa de cincuenta a doscientas veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien permita que las unidades en las que se preste el servicio sean conducidas por personas menores de edad o que carezcan de licencia o permiso;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+VI. (DEROGADA, G.G. 20 DE NOVIEMBRE DE 2014)
 
 VII. Multa de doscientas cincuenta a trescientas veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien:
 
@@ -7845,7 +7851,11 @@ I. Manejar siempre con precaución, en uso de sus facultades físicas y mentales
 
 II. Revisar las condiciones mecánicas de la unidad que manejen, comprobar el buen funcionamiento de las llantas, limpiadores, luces y frenos, así como verificar que se cuenta con llanta de refacción y extinguidor;
 
-III. Traer consigo la licencia o el permiso vigente para conducir, así como la documentación que autorice la circulación del vehículo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 20 DE NOVIEMBRE DE 2014)</small>
+
+III. Traer consigo la licencia o el permiso vigente para conducir, y en su caso, Licencia de Chofer para Servicio Público, así como la documentación que autorice la circulación del vehículo;
 
 IV. Usar cinturón de seguridad y, en su caso, obligar a usarlo a quien lo acompañe en el asiento delantero;
 
@@ -16954,3 +16964,11 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- El titular de la Secretaría General de Gobierno, a través de (sic) Coordinación General de Protección Civil propondrá al titular del Ejecutivo, las reformas a las disposiciones del Reglamento del Libro Sexto del Código Administrativo del Estado de México, para su expedición dentro del plazo de 90 días naturales contados a partir de su entrada en vigor.
 
 CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a las contenidas en el presente Decreto.
+
+G.G. 20 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día 1 de enero de 2015.
+
+TERCERO.- Las referencias que en lo sucesivo se realicen a la Dirección General de Protección Civil adscrita a la Secretaría de Seguridad Ciudadana, quedarán entendidas a la Coordinación General de Protección Civil adscrita a la Secretaría General de Gobierno.
