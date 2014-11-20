@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-responsabilidades-de-los-servidores-publicos-del-6118"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-11"
-last_updated: "2014-10-16"
+last_updated: "2014-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 11 de septiembre de 1990.
 
@@ -383,6 +383,12 @@ II. Formular y ejecutar legalmente, en su caso, los planes, programas y presupue
 
 III. Abstenerse de causar daños y perjuicios a la Hacienda Pública Estatal o Municipal, sea por el manejo irregular de fondos y valores Estatales o Municipales, o por irregularidades en el ejercicio o pago de recursos presupuestales del Estado o Municipios, o de los concertados o convenios por el Estado con la Federación, o sus Municipios;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
+
+Se considera que se causa daño o perjuicio a la Hacienda Pública Municipal, cuando se contraiga deuda pública y ésta no sea inscrita en el Registro de Deuda Pública y pagada dentro del plazo máximo que dure en su encargo la administración municipal que la contrate o, cuando se trate de deuda pública multianual que exceda el periodo de dicha administración, cuando no se realicen los pagos o amortizaciones que correspondan durante la gestión de la administración que contrate dicha deuda.
+
 IV. Utilizar los recursos que tenga asignados para el desempeño de su empleo, cargo o comisión, las facultades que le sean atribuidas o la información reservada a que tenga acceso por su función exclusivamente para los fines a que estén afectos;
 
 V. Custodiar y cuidar la documentación e información que por razón de su empleo, cargo o comisión, conserve bajo su cuidado o a la cual tenga acceso, impidiendo o evitando el uso, la sustracción, destrucción, ocultamiento o inutilización indebidas de aquellas;
@@ -513,9 +519,15 @@ XXXI. Otorgar o percibir únicamente la remuneración que haya sido aprobada en 
 
 XXXII. Abstenerse de remitir vehículos a cualquier depósito de vehículos concesionado o de carácter estatal, con motivo distinto a los permitidos por las disposiciones legales aplicables;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.G. 20 DE NOVIEMBRE DE 2014)</small>
+
+XXXIII. Abstenerse de solicitar requisitos, cargas tributarias o cualquier otro concepto adicional no previsto en la legislación aplicable, que tengan por objeto condicionar la expedición de licencias de funcionamiento para unidades económicas o negocios de bajo riesgo, y
+
 > <small>(ADICIONADA, G.G. 24 DE AGOSTO DE 2012)</small>
 
-XXXIII. Las demás que le impongan las leyes, reglamentos o disposiciones administrativas aplicables.
+XXXIV. Las demás que le impongan las leyes, reglamentos o disposiciones administrativas aplicables.
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
@@ -599,15 +611,27 @@ IV. Sanción económica, de uno a tres tantos de los beneficios obtenidos, o por
 
 V. Inhabilitación para desempeñar empleos, cargos o comisiones en el servicio público por un período no menor de seis meses ni mayor a ocho años.
 
-Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro al servidor público o cause daños o perjuicios a la administración pública, será de uno a diez años si el monto de aquellos no excede de quinientas veces el salario mínimo mensual vigente en la capital del Estado y de diez a veinte años si excede de dicho límite.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
+
+Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro al servidor público o cause daños y perjuicios a la administración pública, será de uno a diez años, si el monto de aquéllos no excede de quinientas veces el salario mínimo mensual vigente en la capital del Estado y de diez a veinte años si excede de dicho límite.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
+
+En los supuestos a que se refiere el segundo párrafo de la fracción III del artículo 42 de esta Ley, la inhabilitación al servidor público responsable por la omisión, será de diez años y se hará acreedor además, a una multa equivalente a la gravedad del daño que se cause con motivo de la contratación de deuda pública no pagada, independientemente de la obligación de resarcir los daños causados a la hacienda pública y de las responsabilidades civiles y penales que procedan.
 
 > <small>(ADICIONADO, G.G. 28 DE JUNIO DE 2014)</small>
 
 En caso de infracciones graves se impondrá además la sanción de destitución.
 
-> <small>(ADICIONADO, G.G. 28 DE JUNIO DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-En todo caso, se considerará infracción grave el incumplimiento a las obligaciones previstas en las fracciones X, XIV, XVI, XVII, XVIII, XIX, XX, XXIV bis y XXIV ter del artículo 42 de la Ley.
+> <small>(REFORMADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
+
+En todo caso, se considerará infracción grave el incumplimiento a las obligaciones previstas en las fracciones X, XIV, XVI, XVII, XVIII, XIX, XX, XXIV bis, XXIV ter y XXXIII del artículo 42 de esta Ley.
 
 > <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
 
@@ -1245,7 +1269,7 @@ Este Código entrará en vigor a los 30 días naturales siguientes al de su publ
 
 ###### ARTICULO CUARTO.
 
-Se derogan los siguientes artículos:. 50, 66, 67, y del 100 al 102 de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+Se derogan los siguientes artículos: 50, 66, 67, y del 100 al 102 de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
 
 ###### ARTICULO QUINTO.
 
@@ -1464,3 +1488,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO CUARTO.
 
 Se derogan las disposiciones legales de igual o menor jerarquía que sean contrarias a lo establecido en este Decreto.
+
+G.G. 20 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día 1 de enero de 2015.
+
+TERCERO.- Las referencias que en lo sucesivo se realicen a la Dirección General de Protección Civil adscrita a la Secretaría de Seguridad Ciudadana, quedarán entendidas a la Coordinación General de Protección Civil adscrita a la Secretaría General de Gobierno.
