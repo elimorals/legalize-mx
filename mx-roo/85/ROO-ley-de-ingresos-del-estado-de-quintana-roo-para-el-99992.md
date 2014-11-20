@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-ingresos-del-estado-de-quintana-roo-para-el-99992"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2013-12-04"
-last_updated: "2013-12-04"
+last_updated: "2014-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99992&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE INGRESOS DEL ESTADO DE QUINTANA ROO, PARA EL EJERCICIO FISCAL 2014
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 4 de diciembre de 2013.
 
@@ -45,7 +45,9 @@ LEY DE INGRESOS DEL ESTADO DE QUINTANA ROO, PARA EL EJERCICIO FISCAL 2014.
 
 En el Ejercicio Fiscal 2014, el Estado de Quintana Roo recibirá los ingresos provenientes de los conceptos y en las cantidades estimadas que a continuación se mencionan:
 
-> <small>N. DE E. VÉASE TABLAS EN EL EXTRAORDINARIO DEL P.O. DE 4 DE DICIEMBRE DE 2013, PÁGINAS DE LA 54 A LA 58.</small>
+> <small>N. DE E. VÉASE TABLA EN EL EXTRAORDINARIO DEL P.O. DE 4 DE DICIEMBRE DE 2013, PÁGINAS DE LA 54 A LA 58.</small>
+
+> <small>N. DE E. VÉASE REFORMAS A LA TABLA EN EL EXTRAORDINARIO DEL P.O. 20 DE NOVIEMBRE DE 2014, PAGINA 2.</small>
 
 ###### ARTÍCULO 2º.
 
@@ -62,6 +64,12 @@ La Secretaría de Finanzas y Planeación del Gobierno del Estado podrá administ
 ###### ARTÍCULO 5º.
 
 Los sujetos obligados al pago de contribuciones estatales salvo por autorización expresa del titular del Poder Ejecutivo o del Secretario de Finanzas y Planeación, estarán exentos de su cumplimiento total o parcial en términos del acuerdo o documento oficial que al respecto se emita.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 6°.
+
+El Monto de los empréstitos deberá ser aplicado en los términos que establece el respectivo decreto de autorización.
 
 T R A N S I T O R I O S
 
@@ -164,3 +172,15 @@ LIC. ROBERTO BORGE ANGULO.
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 
 M. EN A. JOSÉ GABRIEL CONCEPCIÓN MENDICUTI LORÍA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
