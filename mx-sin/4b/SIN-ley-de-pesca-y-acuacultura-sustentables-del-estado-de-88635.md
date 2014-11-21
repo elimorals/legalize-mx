@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-pesca-y-acuacultura-sustentables-del-estado-de-88635"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-13"
-last_updated: "2014-07-14"
+last_updated: "2014-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88635&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 13 de julio de 2012.
 
@@ -221,7 +221,7 @@ LXIII. SEDESHU: La Secretaría de Desarrollo Social y Humano del Estado de Sinal
 
 LXIV. SEMAR: La Secretaría de Marina;
 
-LXV. SEMARNA T: La Secretaría de Medio Ambiente y Recursos Naturales;
+LXV. SEMARNAT: La Secretaría de Medio Ambiente y Recursos Naturales;
 
 LXVI. SENASICA: El Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria;
 
@@ -599,9 +599,21 @@ XIII. Formular y ejecutar programas de adiestramiento y capacitación;
 
 XIV. Solicitar al CESASIN su participación institucional con el objeto de certificar y registrar las líneas genéticas de especies acuícolas que se produzcan en el territorio nacional, así como de las especies cuyo genoma hubiese sido manipulado;
 
-XV. Difundir sus actividades y los resultados de sus investigaciones, sin perjuicio de los derechos de propiedad intelectual y de la información que por su naturaleza deba reservarse conforme a la Ley en la materia; y
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2014)</small>
 
-XVI. Prestar servicios relacionados con su objeto, así como las que se establezcan en su estatuto orgánico, en otros ordenamientos legales y las que sean necesarias para la mejor realización de sus objetivos.
+XV. Difundir sus actividades y los resultados de sus investigaciones, sin perjuicio de los derechos de propiedad intelectual y de la información que por su naturaleza deba reservarse conforme a la Ley en la materia;
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2014)</small>
+
+XVI. Prestar servicios relacionados con su objeto, así como las que se establezcan en su estatuto orgánico, en otros ordenamientos legales y las que sean necesarias para la mejor realización de sus objetivos;
+
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2014)</small>
+
+XVII. Realizar programas de repoblación de especies acuáticas, para el desarrollo de las actividades acuícolas y pesqueras; y
+
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2014)</small>
+
+XVIII. Celebrar convenios y acuerdos con los Gobiernos Federal, de otras Entidades Federativas, Ayuntamientos y en general, con cualquier Institución Pública, Social o Privada, Organismos no Gubernamentales, y con Productores.
 
 El ISAPESCA podrá ser considerado como un centro público de investigación para los efectos de la Ley de Ciencia y Tecnología y demás disposiciones aplicables; será parte del Registro Nacional de Instituciones y Empresas Científicas y Tecnológicas (RENIECYT), y podrá contar con oficinas regionales de investigación pesquera y acuícola dentro del Estado. Para apoyar la investigación científica y el desarrollo tecnológico en acuacultura y pesca, el ISAPESCA constituirá un Fondo, conforme a lo dispuesto en el Reglamento de esta Ley.
 
@@ -1328,3 +1340,9 @@ P.O. 14 DE JULIO DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 21 DE NOVIEMBRE DE 2014.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
