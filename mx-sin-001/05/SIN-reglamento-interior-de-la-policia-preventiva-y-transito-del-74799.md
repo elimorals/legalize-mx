@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-de-la-policia-preventiva-y-transito-del-747
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-05-07"
-last_updated: "2014-05-09"
+last_updated: "2014-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74799&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 REGLAMENTO INTERIOR DE LA POLICÍA PREVENTIVA Y TRÁNSITO DEL MUNICIPIO DE AHOME DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el viernes 7 de mayo de 2010.
 
@@ -1231,7 +1231,9 @@ V. Resolver sobre la sanción de baja que deba imponerse a los elementos de la D
 
 VI. Participar en los términos de este reglamento y demás ordenamiento (sic) legales aplicables, en el Servicio Policial de Carrera de la Policía Municipal;
 
-VII. Solicitar al Director General la imposición de arrestos a los elementos de la Policía Municipal que hayan faltado injustificadamente a la Audiencia a que se refiere el Artículo 80 de este cuerpo normativo; y,
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2014)</small>
+
+VII. Informar al Director General, cuando los elementos de Policía Municipal, hayan faltado injustificadamente a la Audiencia a que se refiere el Artículo 80 de este cuerpo normativo, para que de acuerdo a sus facultades aplique la sanción que considere procedente, y
 
 VIII. Las demás que correspondan, conforme a los fines y objetivos propuestos para esta Comisión.
 
@@ -1321,6 +1323,10 @@ c).- El Director de operaciones de la Policía Municipal;
 
 IV. De oficio
 
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2014)</small>
+
+Se iniciará el Procedimiento de oficio, sin necesidad de que se reciba la queja por escrito, cuando los hechos o irregularidad presuntamente cometida por el elemento de Policía sea del dominio público a través de cualquier medio informativo o existan los elementos de prueba suficientes para iniciar el procedimiento administrativo sin que tenga efectos la prescripción de conformidad al Artículo 99 del Reglamento.
+
 ### CAPÍTULO III. DE LA QUEJA O SOLICITUD DE INTERVENCIÓN
 
 ###### ARTÍCULO 77.
@@ -1339,15 +1345,19 @@ IV. El ofrecimiento de las pruebas relacionándolas con los hechos; si se tuvier
 
 Después de la recepción de la queja o solicitud de intervención, el Presidente de la Comisión de Honor y Justicia, citará con tres días hábiles de anticipación, como mínimo a los miembros de la corporación cuyo caso se analizará, indicando la fecha, hora y lugar en que se llevará a cabo la audiencia, anexando al mencionado citatorio las copias de los documentos existentes y relacionados con el caso, para que se (sic) realicen su comparecencia ante la Comisión y aporten los elementos que a su derecho convengan.
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 79.
 
-Durante el procedimiento instaurado ante la Comisión de Honor y Justicia, las partes podrán ser asistidas en la audiencia de referencia por un asesor de su confianza, a quien se le dará carácter de representante y podrá hablar en su nombre.
+Durante el procedimiento instaurado ante la Comisión de Honor y Justicia las partes podrán ser asistidas en la Audiencia de referencia por un asesor de su confianza, mismo que solamente podrá aclarar las dudas o cuestiones jurídicas de sus representados sin que puedan responder a nombre de los mismos las preguntas que les realicen o narración de los hechos que les consten, de manera respetuosa y apegados a la ética como representantes de confianza.
 
 ### CAPÍTULO IV. DE LA AUDIENCIA DE PRUEBAS Y ALEGATOS
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 80.
 
-Los Asuntos tramitados ante la Comisión de Honor y Justicia, se desahogarán en una audiencia, en la que se ratifique y/o amplíe la queja, por el presunto ofendido. Se tomará la declaración de los acusados. Se ofrecerán las pruebas que aporten las partes: primero el quejoso y después los acusados. Se desahogarán las pruebas apartadas en ese mismo orden. Las partes podrán formularse preguntas entre sí, respecto de los hechos. Si ofrecen testigos, quien los ofrece deberá formular por escrito o verbalmente en el desahogo del interrogatorio que se realice para tal efecto, pudiendo la contraparte formular repreguntas. La comisión de Honor y justicia, en todo momento de la audiencia, por conducto de quien la desahogue, podrá formular preguntas a las partes y a los testigos para un mejor entendimiento y aclaración del asunto; si hubiere pruebas o diligencias pendientes por desahogar, se suspenderá la audiencia por una o dos veces como máximo, salvo casos excepcionales, a criterio de la Comisión, señalándose en la misma el día y hora para su continuación y una vez agotada esta etapa procesal, realizarán las partes sus alegatos, donde podrán expresar, primero acusadores y después acusados, lo que a su derecho convenga, únicamente en cuanto a su queja y defensa, lo que podrán hacer por sí mismos o por conducto de quien los represente.
+Los Asuntos tramitados ante la Comisión de Honor y Justicia, se desahogarán en una audiencia, en la que se ratifique y/o amplíe la queja, por el presunto ofendido. Se tomará la declaración de los acusados. Se ofrecerán las pruebas que aporten las partes: primero el quejoso y después los acusados. Se desahogarán las pruebas aportadas en ese mismo orden. Las partes podrán formularse preguntas entre sí, respecto de los hechos. Si ofrecen testigos, quien los ofrece deberá formular por escrito o verbalmente en el desahogo del interrogatorio que se realice para tal efecto, pudiendo la contraparte formular repreguntas. La Comisión de Honor y Justicia, en todo momento de la audiencia, por conducto de quien la desahogue, podrá formular preguntas a las partes y a los testigos para un mejor entendimiento y aclaración del asunto; si hubiere pruebas o diligencias pendientes por desahogar, se suspenderá la audiencia por una o dos veces como máximo, salvo casos excepcionales, a criterio de la Comisión, señalándose en la misma el día y hora para su continuación y una vez agotada esta etapa procesal, realizarán las partes sus alegatos, donde podrán expresar, primero acusadores y después acusados, lo que a su derecho convenga, únicamente en cuanto a su queja y defensa, lo que podrán hacer por sí mismos o por conducto de quien los represente, el cual podrá intervenir únicamente para asistir a su representado, cuando éste así lo considere necesario.
 
 ###### ARTÍCULO 81.
 
@@ -1457,13 +1467,19 @@ La prescripción extingue la potestad de ejecutar las sanciones previstas en el 
 
 La prescripción será declarada de oficio o a petición de las partes.
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 99.
 
-No correrán los plazos para la prescripción cuando exista algún impedimento legal para ejecutar las sanciones impuestas.
+No correrán los plazos para la prescripción cuando exista algún impedimento legal para ejecutar las sanciones impuestas, en el siguiente caso:
+
+I.- Cuando exista integración de averiguación previa en contra de los elementos señalados ante el Ministerio Público o cualquier otra autoridad.
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 100.
 
-Las protestad (sic) de ejecutar las sanciones previstas en este Reglamento, prescribirán en un plazo de 15 días hábiles, contados a partir del día siguiente en que se cometió la falta administrativa por elemento de policía.
+La potestad de ejecutar las sanciones previstas en este Reglamento, prescribirán en un plazo de 60 días hábiles, contados a partir del día siguiente en que se cometió la falta administrativa por elemento de policía.
 
 ###### ARTÍCULO 101.
 
@@ -2416,3 +2432,7 @@ Artículo Único.- El presente decreto entrará en vigor el día siguiente de su
 P.O. 9 DE MAYO DE 2014.
 
 ÚNICO. Este Decreto entrará en vigor al día siguiente de su publicación en el “Órgano Oficial del Gobierno del Estado”.
+
+P.O. 21 DE NOVIEMBRE DE 2014.
+
+ÚNICO. Este Decreto entrará en vigor al día siguiente de su publicación en el "Órgano Oficial del Gobierno del Estado".
