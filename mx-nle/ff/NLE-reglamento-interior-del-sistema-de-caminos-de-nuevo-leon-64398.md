@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-sistema-de-caminos-de-nuevo-leon-64398"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-25"
-last_updated: "2008-08-25"
+last_updated: "2014-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64398&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DEL SISTEMA DE CAMINOS DE NUEVO LEON
 
-REGLAMENTO INTERIOR DEL SISTEMA DE CAMINOS DE NUEVO LEON
+REGLAMENTO INTERIOR DEL SISTEMA DE CAMINOS DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2014.
 
 Reglamento publicado en Periódico Oficial del Estado de Oaxaca, el lunes 25 de agosto de 2008.
 
@@ -135,9 +135,11 @@ VI. Las demás que establezcan este Reglamento Interior y otros ordenamientos le
 
 ### CAPÍTULO IV. DE LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 9.
 
-EL Director General, cuenta con las atribuciones señaladas en el artículo 13 de la Ley.
+Además de las atribuciones señaladas en el artículo 13 de la Ley, el Director General podrá certificar copias de los documentos que obren en los Archivos del Organismo, y que correspondan al ámbito de su competencia.
 
 ###### Artículo 10.
 
@@ -294,3 +296,9 @@ EL DIRECTOR GENERAL DEL SISTEMA DE CAMINOS DE NUEVO LEÓN
 SERGIO ALEJANDRO ALANÍS MARROQUÍN
 
 La presente hoja de firmas corresponde al Reglamento Interior del Sistema de Caminos de Nuevo León, dado en Monterrey, Nuevo León, el día 06 de Agosto de 2008.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE NOVIEMBRE DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
