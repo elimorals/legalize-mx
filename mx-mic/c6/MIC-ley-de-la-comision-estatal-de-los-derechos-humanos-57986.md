@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-la-comision-estatal-de-los-derechos-humanos-57986"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-24"
-last_updated: "2011-12-28"
+last_updated: "2014-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL P.O. DE 21 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Michoacán, el lunes 24 de diciembre de 2007.
 
@@ -81,7 +83,7 @@ VI. Derechos Humanos: El conjunto de facultades y prerrogativas inherentes al se
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
-VIl. Ejecutivo: El Gobernador del Estado;
+VII. Ejecutivo: El Gobernador del Estado;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
@@ -121,7 +123,7 @@ Tendrá competencia para conocer de las quejas en contra de actos u omisiones de
 
 El patrimonio de la Comisión se integrará por:
 
-I. Los recursos que le asigne el Congreso del Estado a través del presupuesto de egresos; y, (sic)
+I. Los recursos que le asigne el Congreso del Estado a través del presupuesto de egresos; y,
 
 II. Los bienes muebles e inmuebles que le sean destinados o adquiera para el cumplimiento de sus fines.
 
@@ -297,7 +299,7 @@ V. Tener cuando menos treinta años de edad al día de la elección;
 
 VI. No haber sido condenado por delito doloso, o haberse encontrado sujeto a un procedimiento de queja del que haya derivado recomendación;
 
-VII. No haber sido inhabilitado para ejercer el comercio, empleo, profesión o para desempeñar un cargo o comisión en el servicio público; y, (sic)
+VII. No haber sido inhabilitado para ejercer el comercio, empleo, profesión o para desempeñar un cargo o comisión en el servicio público; y,
 
 VIII. Haberse conducido en el ejercicio de su profesión con un constante respeto por la observancia de los Derechos Humanos;
 
@@ -355,7 +357,7 @@ En los supuestos a que se refieren las fracciones III, IV y V el Congreso del Es
 
 ### Capítulo Sexto. Atribuciones del Presidente de la Comisión
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -421,7 +423,7 @@ XXIII. Solicitar a la autoridad correspondiente el inicio del procedimiento admi
 
 > <small>(ADICIONADA, P.O. 1 DE MARZO DE 2011)</small>
 
-XXlV. Hacer del conocimiento de la Comisión de Derechos Humanos del Congreso del Estado, aquellas recomendaciones emitidas, que no hayan sido aceptadas o cumplidas por las autoridades señaladas como responsables; y,
+XXIV. Hacer del conocimiento de la Comisión de Derechos Humanos del Congreso del Estado, aquellas recomendaciones emitidas, que no hayan sido aceptadas o cumplidas por las autoridades señaladas como responsables; y,
 
 > <small>(ADICIONADA, P.O. 1 DE MARZO DE 2011)</small>
 
@@ -519,7 +521,7 @@ VIII. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2011)
 
 ### Capítulo Octavo. Atribuciones del Consejo
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 23.
 
@@ -613,7 +615,7 @@ I. Apatzingán;
 
 II. Lázaro Cárdenas;
 
-IIl. Morelia;
+III. Morelia;
 
 IV. Uruapan;
 
@@ -651,7 +653,7 @@ VI. No haber sido condenado por delito doloso, o haberse encontrado sujeto a un 
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 1 DE MARZO DE 2011)</small>
 
-VIl. No haber sido inhabilitado para ejercer el comercio, empleo, profesión o para desempeñar un cargo o comisión en el servicio público; y,
+VII. No haber sido inhabilitado para ejercer el comercio, empleo, profesión o para desempeñar un cargo o comisión en el servicio público; y,
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 1 DE MARZO DE 2011)</small>
 
@@ -685,7 +687,7 @@ IX. Realizar conforme al Reglamento Interior, visitas periódicas a los establec
 
 X. Coordinar, supervisar y participar en las guardias de la Visitaduría;
 
-XI. Solicitar a las autoridades competentes, tomen las medidas precautorias o cautelares necesarias para evitar la consumación irreparable de las violaciones a los Derechos Humanos que sean de su conocimiento, informando inmediatamente al Presidente; y, (sic)
+XI. Solicitar a las autoridades competentes, tomen las medidas precautorias o cautelares necesarias para evitar la consumación irreparable de las violaciones a los Derechos Humanos que sean de su conocimiento, informando inmediatamente al Presidente; y,
 
 > <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
 
@@ -745,7 +747,7 @@ VI. Auxiliar en el seguimiento de los trámites relativos al cumplimiento de las
 
 VII. Las demás que las leyes prevengan.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE MARZO DE 2011)</small>
 
 ### Capítulo Décimo Primero. Secretaría Ejecutiva de la Comisión
 
@@ -789,7 +791,7 @@ VI. Programar, planear, organizar, coordinar y ejecutar cursos de capacitación 
 
 VII. Las demás que le asigne la ley.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE MARZO DE 2011)</small>
 
 ### Capítulo Décimo Segundo. Dirección de Orientación Legal, Quejas y Seguimiento
 
@@ -797,7 +799,7 @@ VII. Las demás que le asigne la ley.
 
 Para ser Director de Orientación Legal, Quejas y Seguimiento, se deberán cumplir los mismos requisitos que para ser Secretario Ejecutivo y será nombrado por el Presidente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 37.
 
@@ -807,7 +809,7 @@ El Director de Orientación Legal, Quejas y Seguimiento es el servidor público 
 
 Para ser Director, se requiere cumplir con los mismos requisitos que para ser Secretario Ejecutivo y será nombrado por el Presidente.
 
-> <small>(ADICIONADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2011)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2011)</small>
 
 Tendrá las atribuciones siguientes:
 
@@ -831,13 +833,13 @@ VII. Informar a los quejosos el estado procesal de las quejas, en coordinación 
 
 > <small>(ADICIONADA, P.O. 1 DE MARZO DE 2011)</small>
 
-Vlll. Turnar a la Contraloría Interna las quejas presentadas contra los servidores públicos de la Comisión; y,
+VIII. Turnar a la Contraloría Interna las quejas presentadas contra los servidores públicos de la Comisión; y,
 
 > <small>(ADICIONADA, P.O. 1 DE MARZO DE 2011)</small>
 
 IX. Las demás que le otorguen la Ley y el Reglamento.
 
-> <small>(REFORMADA SU DENOMINACION [N. DE E. ADICIONADO], P.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO], P.O. 1 DE MARZO DE 2011)</small>
 
 ### Capítulo Décimo Tercero. Coordinación de Igualdad entre Mujeres y Hombres
 
@@ -873,7 +875,7 @@ Para ser Coordinador de Comunicación Social, se requiere:
 
 > <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
 
-I. Contar, preferentemente, con cédula profesional de licenciado en comunicación o carrera a fin (sic), y acreditar tener conocimientos en la materia;
+I. Contar, preferentemente, con cédula profesional de licenciado en comunicación o carrera a fin, y acreditar tener conocimientos en la materia;
 
 II. Tener cuando menos dos años de experiencia profesional; y,
 
@@ -911,7 +913,7 @@ VI. Recibir y turnar, al área correspondiente, las solicitudes en materia de ac
 
 VII. Las demás que le asigne esta Ley, el Reglamento y otras disposiciones aplicables.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO [N. DE E. ANTES CAPITULO DECIMO CUARTO], P.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO [N. DE E. ANTES CAPÍTULO DÉCIMO CUARTO], P.O. 1 DE MARZO DE 2011)</small>
 
 ### Capítulo Décimo Quinto. Coordinación Administrativa
 
@@ -937,7 +939,7 @@ I. Supervisar la correcta aplicación de los recursos de la Comisión;
 
 > <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
 
-lI. Proponer e impulsar las mejoras administrativas y de procedimientos que agilicen y eficienten las funciones que la Comisión debe desarrollar en el ámbito de su competencia y mantener actualizado el sistema de informática de la Comisión;
+II. Proponer e impulsar las mejoras administrativas y de procedimientos que agilicen y eficienten las funciones que la Comisión debe desarrollar en el ámbito de su competencia y mantener actualizado el sistema de informática de la Comisión;
 
 III. Elaborar el anteproyecto de presupuesto anual de egresos de la Comisión, en coordinación con sus distintas áreas;
 
@@ -977,7 +979,7 @@ IX. Información útil para fomentar la cultura del respeto a los Derechos Human
 
 X. Todo lo relativo al acceso a la información pública conforme a la legislación aplicable.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, [N. DE E. ANTES CAPITULO DECIMO QUINTO], P.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, [N. DE E. ANTES CAPÍTULO DÉCIMO QUINTO], P.O. 1 DE MARZO DE 2011)</small>
 
 ### Capítulo Décimo Sexto. Contraloría Interna
 
@@ -1015,7 +1017,7 @@ VII. Promover y sugerir en el ámbito de su competencia, la aplicación de medid
 
 > <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
 
-VIIl. Recibir y atender las quejas y denuncias en contra de los servidores públicos de la Comisión, derivadas de inconformidades en materia de prestación de servicios y adquisiciones, así como realizar las investigaciones correspondientes, turnándolas en su caso, a la Auditoría Superior de Michoacán para los efectos a que haya lugar, debiendo informar al Presidente lo conducente;
+VIII. Recibir y atender las quejas y denuncias en contra de los servidores públicos de la Comisión, derivadas de inconformidades en materia de prestación de servicios y adquisiciones, así como realizar las investigaciones correspondientes, turnándolas en su caso, a la Auditoría Superior de Michoacán para los efectos a que haya lugar, debiendo informar al Presidente lo conducente;
 
 IX. Presentar las denuncias que correspondan ante el Ministerio Público;
 
@@ -1025,7 +1027,7 @@ XI. Intervenir en la entrega y recepción de las distintas áreas de la Comisió
 
 XII. Las demás que le confieran las disposiciones legales aplicables.
 
-(REUBICADO, [N. DE E. ANTES CAPITULO DECIMO SEXTO], P.O. 1 DE MARZO DE 2011)
+(REUBICADO, [N. DE E. ANTES CAPÍTULO DÉCIMO SEXTO], P.O. 1 DE MARZO DE 2011)
 
 ### Capítulo Décimo Séptimo. Obligaciones, Responsabilidades y Régimen del Personal de la Comisión
 
@@ -1211,7 +1213,7 @@ En cualquier etapa del procedimiento, si el quejoso no contesta o no acude a tre
 
 Los expedientes durarán en archivo un año a partir de su conclusión, al final de este término se procederá a su destrucción, atendiendo a lo dispuesto por la Ley de Archivos Administrativos e Históricos del Estado de Michoacán de Ocampo y sus Municipios.
 
-> <small>(REFORMADA SU DENOMINACION [N. DE E. ADICIONADO], P.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO], P.O. 1 DE MARZO DE 2011)</small>
 
 ### Capítulo Cuarto. De las Medidas Precautorias o Cautelares
 
@@ -1229,7 +1231,7 @@ Artículo 67 QUATER. Las autoridades o servidores públicos a quienes se haya so
 
 Una vez aceptadas las medidas a que se refiere el presente capítulo, las autoridades o servidores públicos están obligados a cumplirlas en sus términos. La Comisión puede verificar su cumplimiento en cualquier momento.
 
-(REUBICADO, [N. DE E. ANTES CAPITULO CUARTO], P.O. 1 DE MARZO DE 2011)
+(REUBICADO, [N. DE E. ANTES CAPÍTULO CUARTO], P.O. 1 DE MARZO DE 2011)
 
 ### Capítulo Quinto. Informes de los Servidores Públicos
 
@@ -1251,7 +1253,7 @@ Todas las autoridades, dependencias y entidades de los poderes estatales y gobie
 
 Todos los servidores públicos, estatales, municipales y organismos autónomos, incluso aquellos que no hubieren intervenido en los actos u omisiones materia de la investigación, pero que por razón de sus funciones o actividades puedan proporcionar información, deberán cumplir con los requerimientos que les dirija la Comisión en tal sentido.
 
-(REUBICADO [N. DE E. ANTES CAPITULO QUINTO], P.O. 1 DE MARZO DE 2011)
+(REUBICADO [N. DE E. ANTES CAPÍTULO QUINTO], P.O. 1 DE MARZO DE 2011)
 
 ### Capítulo Sexto. Responsabilidades y Sanciones
 
@@ -1263,11 +1265,11 @@ La Comisión deberá hacer del conocimiento de las autoridades competentes los a
 
 La Comisión tomará las medidas necesarias para que se cumpla con lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado de Michoacán, en los términos de la Constitución.
 
-(REUBICADO [N. DE E. ANTES CAPITULO SEXTO], P.O. 1 DE MARZO DE 2011)
+(REUBICADO [N. DE E. ANTES CAPÍTULO SEXTO], P.O. 1 DE MARZO DE 2011)
 
 ### Capítulo Séptimo. Investigación y Pruebas
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 73.
 
@@ -1305,7 +1307,7 @@ Se recibirán aquéllas pruebas que resulten supervinientes por las partes, mism
 
 La Comisión valorará las pruebas en su conjunto, a fin de determinar si los hechos materia de la queja son violatorios de los Derechos Humanos.
 
-(REUBICADO [N. DE E. ANTES CAPITULO SEPTIMO], P.O. 1 DE MARZO DE 2011)
+(REUBICADO [N. DE E. ANTES CAPÍTULO SÉPTIMO], P.O. 1 DE MARZO DE 2011)
 
 ### Capítulo Octavo. Conciliación
 
@@ -1337,7 +1339,7 @@ Si en la audiencia de conciliación el servidor público señalado como responsa
 
 Aceptada la conciliación por las partes y acreditado el cumplimiento de la misma, se ordenará el archivo definitivo de la queja.
 
-(REUBICADO [N. DE E. ANTES CAPITULO OCTAVO], P.O. 1 DE MARZO DE 2011)
+(REUBICADO [N. DE E. ANTES CAPÍTULO OCTAVO], P.O. 1 DE MARZO DE 2011)
 
 ### Capítulo Noveno. Recomendaciones y Acuerdos de No Violación
 
@@ -1357,7 +1359,7 @@ III. Los puntos concluyentes de la recomendación o del acuerdo de no violación
 
 Los proyectos antes referidos, serán sometidos al Presidente para su consulta, quien emitirá la recomendación o el acuerdo de no violación de los Derechos Humanos, turnando el expediente al Director de Orientación Legal, Quejas y Seguimiento para su consecución; o en su caso, hará las observaciones que considere necesarias.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 81.
 
@@ -1469,7 +1471,7 @@ En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Consti
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- LA SECRETARIA DE GOBIERNO.- MARÍA GUADALUPE SÁNCHEZ MARTÍNEZ. (Firmados).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 1 DE MARZO DE 2011.
 
@@ -1484,3 +1486,17 @@ P.O. 28 DE DICIEMBRE DE 2011.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. La Comisión Estatal de los Derechos Humanos contará con el término de seis meses, a partir de la entrada en vigor del presente Decreto, para aprobar el Reglamento, lineamientos, manuales y procedimientos relativos al funcionamiento del Servicio Profesional de Carrera.
+
+P.O. 21 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de La Comisión Estatal de los Derechos Humanos, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo el 24 de diciembre de 2007, mediante Decreto número 271.
+
+###### ARTÍCULO TERCERO.
+
+La reglamentación de esta Ley deberá publicarse en un periodo no mayor de ciento veinte días.
