@@ -4,7 +4,7 @@ identifier: "COA-ley-de-ingresos-para-el-estado-de-coahuila-de-zaragoza-para-972
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2013-12-20"
-last_updated: "2014-11-11"
+last_updated: "2014-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE INGRESOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA PARA EL EJERCICIO FISCAL 2014
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 20 de diciembre de 2013.
 
@@ -217,11 +217,11 @@ Se consideran insolventes los deudores o los responsables solidarios cuando no t
 
 Se autoriza a la Secretaría de Finanzas para compensar todo tipo de adeudos, incluyendo sus accesorios que tenga con la Federación, relacionado con las aportaciones y participaciones federales.
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 12.
 
-Los ingresos previstos en este (sic) Ley se incrementarán en función de los montos y conceptos de endeudamiento autorizados en los Decretos números 534, 536 y 109 a que se refieren los artículos 6 y 7 de la presente Ley de Ingresos para el ejercicio fiscal 2014, así como en función de los montos y conceptos de endeudamiento autorizados en el Decreto número 596, publicado en el Periódico Oficial del Estado No. 81, de fecha 10 de octubre de 2014.
+Los ingresos previstos en este (sic) Ley se incrementarán en función de los montos y conceptos de endeudamiento autorizados en el Decreto por el que se autoriza al Estado de Coahuila de Zaragoza a reestructurar y contratar empréstitos para ser destinados al refinanciamiento de la deuda pública estatal a su cargo que se indica, y a celebrar las demás operaciones financieras y actos jurídicos que se señalan, aprobado por el Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza.
 
 T R A N S I T O R I O S
 
@@ -314,5 +314,31 @@ Para los efectos de lo autorizado en el presente Decreto, se deroga todo aquello
 Los ingresos derivados del financiamiento autorizado en el Artículo tercero del Decreto número 596, publicado en el Periódico Oficial del Estado N° 81, de fecha 10 de octubre de 2014, que no hayan sido ejercidos durante el ejercicio fiscal 2014, podrán contemplarse en las leyes de ingresos de los posteriores ejercicios fiscales, según corresponda.
 
 ###### ARTÍCULO QUINTO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La aplicación del artículo 14 del Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2014 se exceptúa para el caso específico de los recursos que obtenga el Estado con motivo de la implementación de los actos autorizados en el Decreto por el que se autoriza al Estado de Coahuila de Zaragoza a reestructurar y contratar empréstitos para ser destinados al refinanciamiento de la deuda pública estatal a su cargo que se indica, y a celebrar las demás operaciones financieras y actos jurídicos que se señalan.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en este Decreto.
+
+###### ARTÍCULO CUARTO.
+
+En la cuenta pública correspondiente al ejercicio fiscal 2014, el Titular del Poder Ejecutivo informará a este Congreso General del Estado los montos, conceptos y partidas objeto de modificación en el Presupuesto de Egresos del Estado.
+
+###### ARTÍCULO QUINTO.
+
+De conformidad con lo dispuesto en el segundo párrafo del artículo 28 de la Ley de Deuda Pública para el Estado de Coahuila de Zaragoza, los ingresos y erogaciones que se deriven de las autorizaciones establecidas en el Decreto por el que se autoriza al Estado de Coahuila de Zaragoza a reestructurar y contratar empréstitos para ser destinados al refinanciamientos (sic) de la deuda pública estatal a su cargo que se indica, y a celebrar las demás operaciones financieras y actos jurídicos que se señalan aprobado por el Congreso del Estado Independiente Libre y Soberano de Coahuila de Zaragoza, que no sean ejercidos durante el ejercicio fiscal 2014 o que se deriven de la contratación de financiamientos y/o colocación de instrumentos de deuda en el mercado de valores nacional que se celebren al amparo de dicho Decreto en ejercicios fiscales posteriores al ejercicio fiscal 2014, deberán ser incluidos en las leyes de ingresos y presupuestos de egresos de los posteriores ejercicios fiscales en los que se ejerzan dichos recursos o se celebren los financiamientos y/o colocaciones de deuda, según corresponda.
+
+###### ARTÍCULO SEXTO.
 
 Publíquese en el Periódico Oficial del Gobierno del Estado.
