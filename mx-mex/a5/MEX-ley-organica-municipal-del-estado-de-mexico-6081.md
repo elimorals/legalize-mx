@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2014-11-20"
+last_updated: "2014-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -1487,9 +1487,9 @@ q). De asuntos indígenas, en aquellos municipios con presencia de población in
 
 r). De revisión y actualización de la reglamentación municipal;
 
-> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 21 DE NOVIEMBRE DE 2014)</small>
 
-s). De apoyo y atención al migrante;
+s). De Asuntos Internacionales y Apoyo al Migrante, en aquellos municipios que se tenga un alto índice de migración.
 
 > <small>(REFORMADO, G.G. 30 DE ABRIL DE 2013)</small>
 
@@ -4156,3 +4156,9 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor el día 1 de enero de 2015.
 
 TERCERO.- Las referencias que en lo sucesivo se realicen a la Dirección General de Protección Civil adscrita a la Secretaría de Seguridad Ciudadana, quedarán entendidas a la Coordinación General de Protección Civil adscrita a la Secretaría General de Gobierno.
+
+G.G. 21 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
