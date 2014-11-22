@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-de-la-oficina-de-pensiones-del-estado-de-614
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-05-24"
-last_updated: "2010-02-27"
+last_updated: "2014-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 REGLAMENTO INTERNO DE LA OFICINA DE PENSIONES DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DE LA OFICINA DE PENSIONES DEL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 22 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Oaxaca, el sábado 24 de mayo de 2008.
 
@@ -261,7 +263,7 @@ IX. Las demás que le confiera el Director General y las que le señalen las dis
 
 ### CAPÍTULO VII. DE LAS ATRIBUCIONES DEL DEPARTAMENTO JURIDICO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2010)</small>
 
 ###### ARTÍCULO 14.
 
@@ -297,7 +299,7 @@ VIII. Intervenir en la elaboración de leyes, reglamentos, decretos y acuerdos e
 
 IX. Fungir como titular de la Unidad de Enlace para la aplicación de la Ley de Transparencia;
 
-X. Realizar las notificaciones y ordenar al personal a su cargo la ejecución de estas de a cuerdo al procedimiento establecido por la Ley de Justicia Administración para el Estado de Oaxaca;
+X. Realizar las notificaciones y ordenar al personal a su cargo la ejecución de estas de acuerdo al procedimiento establecido por la Ley de Justicia Administración para el Estado de Oaxaca;
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2010)</small>
 
@@ -395,10 +397,18 @@ CARLOS MELGOZA MARTIN DEL CAMPO
 
 DIRECTOR GENERAL DE LA OFICINA DE PENSIONES DEL ESTADO DE OAXACA Y SECRETARIO DE ACUERDOS Y ACTAS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 27 DE FEBRERO DE 2010.
 
 ###### ARTÍCULO ÚNICO.
 
 Las presentes reformas al Reglamento Interno de la Oficina de Pensiones del Estado de Oaxaca, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE NOVIEMBRE DE 2014.
+
+PRIMERO. El presente Reglamento entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interno de la Oficina de Pensiones del Estado de Oaxaca, publicado en el Periódico Oficial del Gobierno del Estado de Oaxaca, con fecha 24 de mayo de 2008 y reformado mediante publicación de fecha 27 de febrero de 2010.
+
+TERCERO. Se derogan las disposiciones de igual o menor rango que se opongan al presente Reglamento.
