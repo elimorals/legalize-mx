@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-sistema-de-transporte-colectivo-de-la-zona-625
 country: "mx"
 rank: "ley_organica"
 publication_date: "1978-03-16"
-last_updated: "1990-04-14"
+last_updated: "2014-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6259&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY ORGANICA DEL SISTEMA DE TRANSPORTE COLECTIVO DE LA ZONA METROPOLITANA
 
-LEY ORGANICA DEL SISTEMA DE TRANSPORTE COLECTIVO DE LA ZONA METROPOLITANA
+LEY ORGÁNICA DEL SISTEMA DE TRANSPORTE COLECTIVO DE LA ZONA METROPOLITANA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ABRIL DE 1990.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el jueves 16 de marzo de 1978.
 
@@ -107,7 +107,7 @@ XII.- El Secretario General del Sindicato de Trabajadores de "Sistema de Transpo
 
 Los Consejeros, podrán ser removidos libremente por quien tiene la facultad de nombrarlos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE ENERO DE 1981)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ENERO DE 1981)</small>
 
 ###### ARTICULO 8o.
 
@@ -207,17 +207,21 @@ XI.- Las demás que le fije el Consejo de Administración, esta Ley y sus Reglam
 
 Independientemente de las Comisiones, el Consejo contará con un Secretario de Actas y un Tesorero, seleccionados entre sus propios integrantes, atendiendo las sugerencias del Presidente del Consejo.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTICULO 16.
 
-Serán inembargables e imprescriptibles los bienes de "SISTEMA DE TRANSPORTE COLECTIVO DE LA ZONA METROPOLITANA" que estén afectados a la prestación del Servicio Público, que por esta Ley se encomiende.
+Serán inembargables e imprescriptibles los bienes de ‘’Sistema de Transporte Colectivo de la Zona Metropolitana’’ que estén afectados a la prestación del Servicio Público, que por esta ley se encomiende; excepto en el supuesto de que sea necesario ceder, transmitir o gravar los mismos u otorgarlos como fuente de pago en operaciones financieras que tengan por objeto la adquisición de vehículos para ampliar la cobertura, mejorar los estándares y/o modernizar la flota vehicular del organismo.
 
-En las controversias en que sea parte el organismo la misma quedará exceptuada de otorgar las garantías que la Ley exija de las partes, tratándose de dichas controversias e igualmente será eximida de otorgar garantías para asegurar en su caso el interés fiscal.
+En las controversias en que sea parte el organismo, el mismo quedará exceptuado de otorgar las garantías que la ley exija de las partes, tratándose de dichas controversias e igualmente será eximida de otorgar garantías para asegurar en su caso el interés fiscal.
+
+Lo anterior sin perjuicio de la obligación del organismo de sujetarse a los procedimientos de ejecución pactados en los mecanismos de fuente de pago y/o garantía celebrados con objeto de obtener el financiamiento necesario para ampliar la cobertura, mejorar los estándares y/o modernizar la flota vehicular del organismo.
 
 ###### ARTICULO 17.
 
 El personal de dirección, administración e inspección que tenga responsabilidad directa o indirecta en el manejo de fondos y valores de "SISTEMA DE TRANSPORTE COLECTIVO DE LA ZONA METROPOLITANA", deberá caucionar debidamente su manejo, mediante fianza otorgada por Instituciones de Fianza legalmente autorizada, por el monto que fije el Consejo de Administración.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ABRIL DE 1990)</small>
 
 ###### ARTICULO 18.
 
@@ -275,7 +279,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ALFONSO DE ALBA MARTIN
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 6 DE ENERO DE 1981.
 
@@ -286,3 +290,23 @@ Segundo. Este Decreto comenzará a surtir sus efecto el día siguiente de su pub
 P.O. 14 DE ABRIL DE 1990.
 
 Unico. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 22 DE NOVIEMBRE DE 2014.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 24996/LX/14 QUE SE AUTORIZA AL ESTADO DE JALISCO A INSTRUMENTAR UN PROGRAMA DE APOYO FINANCIERO PARA LA RENOVACIÓN Y MODERNIZACIÓN INTEGRAL DEL TRANSPORTE PÚBLICO COLECTIVO, EN TODAS SUS MODALIDADES, EN FAVOR DE LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS (I) SISTEMA DE TREN ELÉCTRICO URBANO, (II) SISTEMA DE TRANSPORTE COLECTIVO DE LA ZONA METROPOLITANA Y (III) SERVICIOS Y TRANSPORTES, ASÍ COMO DE AQUELLOS TRANSPORTISTAS QUE SE ADHIERAN AL MISMO Y QUE REFORMA EL ARTÍCULO 16 DE LA LEY ORGÁNICA DEL SISTEMA DE TRANSPORTE COLECTIVO DE LA ZONA METROPOLITANA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Los actos de financiamiento público que se deriven de la presente autorización, deberán inscribirse en el Registro de Deuda Pública del Estado de Jalisco y, en su caso, en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios.
+
+TERCERO. Se autoriza al titular del Poder Ejecutivo del Estado para que por conducto de la Secretaría de Planeación, Administración y Finanzas, lleve a cabo las adecuaciones presupuéstales y administrativas que se requieran en virtud de la presente autorización; así mismo a los Organismos Públicos Descentralizados denominados: a) Sistema de Tren Eléctrico Urbano, b) Sistema de Transporte Colectivo de la Zona Metropolitana y c) Servicios y Transportes, para que realicen los respectivos ajustes en sus previsiones de ingresos y egresos para el presente ejercicio fiscal así como en su programa de financiamiento anual.
+
+CUARTO. El o los fideicomisos irrevocables de captación y/o de administración y/o de fuente de pago y/o de ejecución y/o garantía, que en su caso, se constituyan con base en la presente autorización, no serán considerados fideicomisos públicos, por lo que no formarán parte de la Administración Pública del Estado, ni se considerarán entidades paraestatales y tampoco se les aplicará lo previsto por la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco.
+
+QUINTO. La Secretaría de Planeación, Administración y Finanzas consolidará la información contable y financiera de los fideicomisos a que se refiere el presente decreto, al rendir la Cuenta Pública anual del Estado.
+
+SEXTO. Los Organismos Públicos Descentralizados denominados: a) Sistema de Tren Eléctrico Urbano, b) Sistema de Transporte Colectivo de la Zona Metropolitana y c) Servicios y Transportes, en su respectivo informe de cuenta pública, informarán en un apartado específico, las acciones instrumentadas en términos de este Decreto y los beneficios en cuanto a seguridad, ampliación de cobertura, eficiencia en el uso de combustible y economías presupuestales por mantenimiento efectivamente alcanzados.
+
+SÉPTIMO. Se autoriza que los efectos legales de los actos jurídicos que se celebren con base en este Decreto, trasciendan el periodo de la presente Administración Pública Estatal hasta su total cumplimiento.
+
+OCTAVO. Se deroga todo aquello que se oponga al presente Decreto.
