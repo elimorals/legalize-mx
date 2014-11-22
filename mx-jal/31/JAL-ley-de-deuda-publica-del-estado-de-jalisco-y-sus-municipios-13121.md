@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-deuda-publica-del-estado-de-jalisco-y-sus-municipios-131
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-16"
-last_updated: "2010-06-24"
+last_updated: "2014-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13121&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY DE DEUDA PUBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-LEY DE DEUDA PUBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
+LEY DE DEUDA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el jueves 16 de enero de 1997.
 
@@ -75,7 +75,7 @@ III. Las garantías que otorguen para el cumplimiento de los actos señalados en
 
 Los recursos obtenidos mediante obligaciones de deuda pública estatal y municipal, deberán estar destinados al gasto de inversión pública productiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DEL 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DEL 2000)</small>
 
 ###### Artículo 5º.
 
@@ -111,9 +111,11 @@ Las operaciones de crédito público realizadas en contravención a las disposic
 
 La desviación de los recursos procedentes de financiamiento, serán responsabilidad del titular de la entidad contrayente y se le sancionará de conformidad con las leyes que le resulten aplicables.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 9°.
 
-Para efectos administrativos, el titular del Poder Ejecutivo del Estado, por lo que respecta a la administración pública centralizada y paraestatal, por conducto de la Secretaría de Finanzas, emitirá las reglas de operación relacionadas con la materia.
+Para efectos administrativos, el titular del Poder Ejecutivo del Estado, por lo que respecta a la administración pública centralizada y paraestatal, por conducto de la Secretaría de Planeación, Administración y Finanzas, emitirá las reglas de operación relacionadas con la materia.
 
 ### CAPÍTULO II. De las autoridades en materia de deuda pública, sus facultades y obligaciones
 
@@ -161,7 +163,7 @@ VIII. Solicitar a las entidades públicas los informes necesarios para verificar
 
 Las facultades a que se refieren las fracciones IV, VI y VIII de este artículo, serán ejercidas por las Comisiones de Hacienda y Presupuestos y de Inspección del Congreso, y en su caso, según corresponda, por la Auditoría Superior del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -199,9 +201,9 @@ II. Son obligaciones:
 
 a) Enviar al H. Congreso del Estado las iniciativas de Ley de Ingresos y Presupuesto de Egresos del Estado, los que deberán incluir un programa financiero anual, que con base al mismo se maneje la deuda pública y señalará los montos de endeudamiento neto necesarios para cubrir los requerimientos del ejercicio fiscal correspondiente, debiendo contener además los elementos de juicio que los sustenten y la mención expresa de las partidas del presupuesto de egresos destinados al servicio de la deuda;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2008)</small>
 
 b) Informar a la Auditoria Superior, a rendir la cuenta pública correspondiente de la situación que guarda la deuda pública estatal; a dicho informe se acompañará la documentación soporte y deberá contener:
 
@@ -217,7 +219,7 @@ d) Llevar el registro de las obligaciones derivadas de la contratación de empr�
 
 e) Vigilar que la capacidad de pago de las entidades públicas estatales, que contraten financiamientos, sea suficiente para cubrir puntualmente los compromisos que contraigan;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -225,9 +227,11 @@ f) Comunicar a la Auditoría Superior del Estado, en un plazo no mayor de treint
 
 g) Asesorar a los municipios y a sus entidades públicas, en la formulación de sus programas financieros y en todo lo relativo a la obtención de recursos por las operaciones financieras que realicen, y
 
-III. Las obligaciones a que se refieren los incisos c), d), y e) de la fracción II de este artículo, serán ejercidas por conducto de la Secretaría de Finanzas del Estado.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DEL 2000)</small>
+III. Las obligaciones a que se refieren los incisos c), d) y e) de la fracción II de este artículo, serán ejercidas por conducto de la Secretaría de Planeación, Administración y Finanzas del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DEL 2000)</small>
 
 ###### Artículo 13.
 
@@ -243,13 +247,13 @@ I. Son facultades:
 
 a) Autorizar con el acuerdo de las dos terceras partes de los miembros del Ayuntamiento, la contratación de empréstitos directos adicionales a los que se refiere el inciso a) de la fracción II de este artículo y, en su caso, afectar en garantía de pago, las participaciones del municipio en impuestos federales y estatales;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE JULIO DE 2008)</small>
 
 b) Aprobar la suscripción de actos, contratos y convenios que tengan por objeto la obtención de empréstito y demás operaciones de deuda pública. Remitiéndolos para efecto de registro, fiscalización y revisión a la Auditoría Superior, incluyendo las obligaciones derivadas de la deuda pública contingente;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -265,11 +269,11 @@ f) Las demás que en materia de deuda pública le correspondan;
 
 II. Son obligaciones:
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBE EL CONTENIDO DEL PRESENTE INCISO, CONFORME A SU PUBLICACION EN EL P.O. DE 5 DE JULIO DE 2008.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBE EL CONTENIDO DEL PRESENTE INCISO, CONFORME A SU PUBLICACIÓN EN EL P.O. DE 5 DE JULIO DE 2008.</small>
 
 > <small>N. DE E. EN RELACIÓN CON EL PRESENTE ARTÍCULO SE SUGIERE CONSULTAR TAMBIÉN LA PÁGINA ELECTRÓNICA DEL CONGRESO DEL ESTADO DE JALISCO, http://congresojal.gob.mx/BibliotecaVirtual/</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -279,11 +283,11 @@ a) Elaborar y aprobar sus programas financieros anuales dentro de sus presupuest
 
 a) (sic) Elaborar y aprobar sus programas financieros anuales dentro de sus presupuestos de egresos que incluirá todas las operaciones de deuda pública a que se refiere esta ley, remitiéndolos al Congreso del Estado para efectos de registro a la Auditoría Superior;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
-b) Informar a la Auditoría Superior del Estado, al remitir la cuenta pública correspondiente, de la situación que guarda la deuda pública municipal (sic) dichos informes se acompañará la documentación soporte y deberá contener:
+b) Informar a la Auditoría Superior del Estado, al remitir la cuenta pública correspondiente, de la situación que guarda la deuda pública municipal dichos informes se acompañará la documentación soporte y deberá contener:
 
 > <small>(F. DE E., P.O. 13 DE MARZO DE 2001)</small>
 
@@ -303,9 +307,9 @@ Tratándose de aquellos casos en los que se requiera la aprobación de las dos t
 
 c) Proporcionar la información que el Congreso del Estado le requiera de acuerdo a esta Ley, en relación con las operaciones de deuda pública, así como la que le solicite el titular del Poder Ejecutivo del Estado, respecto de los empréstitos en que el estado se hubiese constituido como su aval o deudor solidario o para efectos de registro;
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2014)</small>
 
-d) Comunicar a la Secretaría de Finanzas del Estado y a la Auditoría Superior del Estado, en un plazo no mayor de diez días hábiles todos los datos relacionados con las operaciones financieras derivadas de obligaciones contingentes;
+d) Comunicar a la Secretaría de Planeación, Administración y Finanzas del Estado y a la Auditoría Superior del Estado, en un plazo no mayor de diez días hábiles todos los datos relacionados con las operaciones financieras derivadas de obligaciones contingentes;
 
 e) Integrar e inscribir el registro de deuda pública municipal, sus obligaciones crediticias, así como inscribirlas en el Registro Estatal de Deuda Pública, y
 
@@ -377,7 +381,7 @@ En el caso de los organismos de carácter municipal, podrán contratar emprésti
 
 En la contratación de endeudamiento, el Estado y los Municipios podrán afectar como garantía de las obligaciones contraídas, sus participaciones en impuestos federales y estatales, en los términos de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DEL 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DEL 2000)</small>
 
 ###### Artículo 23.
 
@@ -397,25 +401,29 @@ Los fideicomisos del Ejecutivo Estatal que trasciendan su administración requer
 
 Tratándose de las solicitudes de endeudamiento de los municipios y de sus organismos descentralizados, fideicomisos y empresas de participación mayoritaria, el Congreso del Estado podrá autorizar al Estado a que se constituya en avalista o deudor solidario de dichas obligaciones, siempre que los municipios afecten en garantía las participaciones que les correspondan en impuestos federales.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 25.
 
-Cuando alguna de las entidades públicas a que se refieren las fracciones II, III, IV y V del artículo 2º de esta Ley, requieran que el Estado se constituya como su aval o deudor solidario, deberán formular la solicitud por escrito a través de la Secretaría de Finanzas, señalando que el empréstito se prevé en su programa financiero, acompañando la información que permita dictaminar su capacidad de pago y de endeudamiento, la necesidad debidamente razonada del tipo de gasto que se pretende financiar con el crédito, indicando claramente los recursos que se utilizarán para el pago de los financiamientos y las garantías correspondientes.
+Cuando alguna de las entidades públicas a que se refieren las fracciones II, III, IV y V del artículo 2º de esta Ley, requieran que el Estado se constituya como su aval o deudor solidario, deberán formular la solicitud por escrito a través de la Secretaría de Planeación, Administración y Finanzas, señalando que el empréstito se prevé en su programa financiero, acompañando la información que permita dictaminar su capacidad de pago y de endeudamiento, la necesidad debidamente razonada del tipo de gasto que se pretende financiar con el crédito, indicando claramente los recursos que se utilizarán para el pago de los financiamientos y las garantías correspondientes.
 
-La Secretaría de Finanzas resolverá lo conducente en un plazo que no excederá de treinta días hábiles siguientes a la presentación de la solicitud, siempre y cuando se hayan cumplido los requisitos exigidos en el párrafo anterior.
+La Secretaría de Planeación, Administración y Finanzas resolverá lo conducente en un plazo que no excederá de treinta días hábiles siguientes a la presentación de la solicitud, siempre y cuando se hayan cumplido los requisitos exigidos en el párrafo anterior.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 26.
 
-Si de la evaluación que realice la Secretaría de Finanzas se desprende que la capacidad de pago o de endeudamiento de la entidad de que se trate es insuficiente, se negará la garantía del Estado, y remitirá al Congreso, el informe pormenorizado de la evaluación correspondiente.
+Si de la evaluación que realice la Secretaría de Planeación, Administración y Finanzas se desprende que la capacidad de pago o de endeudamiento de la entidad de que se trate es insuficiente, se negará la garantía del Estado, y remitirá al Congreso, el informe pormenorizado de la evaluación correspondiente.
 
 En el caso de la negativa, la entidad solicitante, podrá acudir ante el Congreso del Estado, para que éste resuelva en definitiva la autorización, o ratifique la negativa.
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DEL 2000)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 27.
 
-El Ejecutivo del Estado, a través de la Secretaría de Finanzas, deberá solicitar autorización al Congreso del Estado, cuando dé su aval o asuma responsabilidad solidaria de algún ayuntamiento trascendiendo la administración estatal, deberá acompañar el acuerdo respectivo.
+El Ejecutivo del Estado, a través de la Secretaría de Planeación, Administración y Finanzas, deberá solicitar autorización al Congreso del Estado, cuando dé su aval o asuma responsabilidad solidaria de algún ayuntamiento trascendiendo la administración estatal, debiendo acompañar el acuerdo respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DEL 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DEL 2000)</small>
 
 ###### Artículo 28.
 
@@ -443,17 +451,17 @@ III. La previsión del empréstito en el programa financiero anual correspondien
 
 IV. El aval, o bien, la garantía solidaria cuando se requiera en los términos de esta ley, a la cual se anexará el dictamen financiero a que se refiere el inciso f) de la fracción primera del artículo 12 de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DEL 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 29.
 
-El Estado, por conducto de la Secretaría de Finanzas, podrá otorgar empréstitos a las entidades a que se refieren las fracciones II, III, IV y V del artículo 2º de esta ley, siempre y cuando se restituya su importe y el respectivo costo financiero dentro de un plazo que no exceda el período de su administración. Tratándose de Municipios, será a cuenta de sus participaciones en impuestos federales y estatales y el plazo no podrá exceder al período constitucional del Ejecutivo del Estado, en caso de exceder, se requerirá la autorización de las dos terceras parte (sic) de los integrantes del Ayuntamiento.
+El Estado, por conducto de la Secretaría de Planeación, Administración y Finanzas, podrá otorgar empréstitos a las entidades a que se refieren las fracciones II, III, IV y V del artículo 2º de esta ley, siempre y cuando se restituya su importe y el respectivo costo financiero dentro de un plazo que no exceda el período de su administración. Tratándose de Municipios, será a cuenta de sus participaciones en impuestos federales y estatales y el plazo no podrá exceder al período constitucional del Ejecutivo del Estado, en caso de exceder, se requerirá la autorización de las dos terceras partes de los integrantes del Ayuntamiento.
 
 En el caso del otorgamiento en garantía de las participaciones del municipio a sus entidades, éste deberá aceptar que se realicen los descuentos de las mismas para el pago de la deuda.
 
 ###### Artículo 30.
 
-Las entidades públicas podrá (sic) convenir para otorgarse financiamiento entre ellos, siempre y cuando se restituya su importe y el respectivo costo financiero, dentro del término de su administración.
+Las entidades públicas podrá convenir para otorgarse financiamiento entre ellos, siempre y cuando se restituya su importe y el respectivo costo financiero, dentro del término de su administración.
 
 > <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DEL 2000)</small>
 
@@ -461,9 +469,11 @@ Tratándose de organismos descentralizados municipales, éstos deberán solicita
 
 ### CAPÍTULO IV. Del registro estatal de deuda pública
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 31.
 
-El Estado, por conducto de la Secretaría de Finanzas, llevará un registro estatal de deuda pública; para tal efecto las entidades públicas deberán inscribir sus empréstitos, dentro de los quince días siguientes a su suscripción acompañando la siguiente documentación:
+El Estado, por conducto de la Secretaría de Planeación, Administración y Finanzas, llevará un registro estatal de deuda pública; para tal efecto las entidades públicas deberán inscribir sus empréstitos, dentro de los quince días siguientes a su suscripción acompañando la siguiente documentación:
 
 I. Los datos relacionados con la operación o emisión correspondiente, anexando copia del instrumento jurídico en el que se haga constar la obligación directa o contingente cuya inscripción se solicita;
 
@@ -493,9 +503,11 @@ VIII. Las sanciones derivadas del incumplimiento de las condiciones del emprést
 
 IX. La cancelación de la inscripción y su fecha.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 33.
 
-Una vez integrada la solicitud de registro, la Secretaría de Finanzas resolverá dentro del término de cinco días sobre la procedencia de la inscripción y notificará a las partes interesadas su resolución anotando en los documentos materia de registro, la constancia relativa a su inscripción.
+Una vez integrada la solicitud de registro, la Secretaría de Planeación, Administración y Finanzas resolverá dentro del término de cinco días sobre la procedencia de la inscripción y notificará a las partes interesadas su resolución anotando en los documentos materia del registro, la constancia relativa a su inscripción.
 
 ###### Artículo 34.
 
@@ -511,31 +523,39 @@ Para la modificación del registro efectuado, deberán cumplirse los requisitos 
 
 Para la cancelación del registro efectuado, deberá comprobarse el pago total de las obligaciones que fueron materia de registro, la cual puede acreditarse entre otros medios, con la notificación que haga el acreedor en el sentido de que se ha efectuado el pago total correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 37.
 
-El Estado por conducto de la Secretaría de Finanzas, deberá publicar una vez al año, el monto de la deuda pública que refleje el Registro Estatal de Deuda Pública.
+El Estado, por conducto de la Secretaría de Planeación, Administración y Finanzas, deberá publicar una vez al año el monto de la deuda pública que refleje el Registro Estatal de Deuda Pública.
 
 La publicación deberá realizarse en el Periódico Oficial "El Estado de Jalisco", y en dos diarios de mayor circulación que se editen en la Entidad.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 38.
 
-La Secretaría de Finanzas, proporcionará los informes y certificaciones procedentes a las entidades públicas y a sus acreedores, que tengan interés jurídico, respecto de las obligaciones inscritas en el Registro Estatal de Deuda Pública.
+La Secretaría de Planeación, Administración y Finanzas, proporcionará los informes y certificaciones procedentes a las entidades públicas y a sus acreedores, que tengan interés jurídico, respecto de las obligaciones inscritas en el Registro Estatal de Deuda Pública.
 
 ###### Artículo 39.
 
 Las entidades públicas señaladas en esta Ley, están obligadas a:
 
-I. Llevar sus propios registros de los empréstitos que contraten y proporcionar a la Secretaría de Finanzas, el monto, características y destino de sus obligaciones financieras derivadas de la contratación, para su inscripción en el Registro Estatal de Deuda Pública;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2014)</small>
 
-II. Informar anualmente a la Secretaría de Finanzas, el saldo de su deuda pública dentro de los primeros dos meses siguientes al ejercicio fiscal correspondientes, y
+I. Llevar sus propios registros de los empréstitos que contraten y proporcionar a la Secretaría de Planeación, Administración y Finanzas, el monto, características y destino de sus obligaciones financieras derivadas de la contratación, para su inscripción en el Registro Estatal de Deuda Pública;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2014)</small>
+
+II. Informar anualmente a la Secretaría de Planeación, Administración y Finanzas, el saldo de su deuda pública dentro de los primeros dos meses siguientes al ejercicio fiscal correspondiente; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 2008)</small>
 
 III. Proporcionar los informes necesarios a la Auditoría Superior del Estado, dentro de los treinta días siguientes a la fecha en que se celebró el contrato, para los efectos (sic) revisión y fiscalización.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -543,7 +563,7 @@ III. Proporcionar los informes necesarios a la Auditoría Superior del Estado, d
 
 La Auditoria Superior del Estado, llevará un registro de todas las operaciones de deuda estatal o municipal y de sus entidades; debiéndose asentar en el mismo los datos que para el Registro Estatal establece esta Ley. Así mismo analizará los endeudamientos que vayan contrayendo y les requerirá por la presentación de un análisis respecto de su deuda. Cuando de los datos registrados se estime que pueda estar en peligro su capacidad de pago y en tanto que dicha información no sea desahogada y adecuadamente soportada financieramente, ésta podrá rehusar la inscripción de nuevas suscripciones de operaciones de endeudamiento, resolución que deba ser comunicada oportunamente a la entidad de que se trate.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -587,7 +607,7 @@ El Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 19 DE SEPTIEMBRE DEL 2000.
 
@@ -648,3 +668,7 @@ UNICO. El presente decreto entrará en vigor al día siguiente de su publicació
 P.O. 24 DE JUNIO DE 2010.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 22 DE NOVIEMBRE DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
