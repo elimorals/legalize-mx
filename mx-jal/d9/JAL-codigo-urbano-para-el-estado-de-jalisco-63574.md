@@ -4,7 +4,7 @@ identifier: "JAL-codigo-urbano-para-el-estado-de-jalisco-63574"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-09-27"
-last_updated: "2014-08-30"
+last_updated: "2014-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 CÓDIGO URBANO PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2014.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 30 DE AGOSTO DE 2014 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 26 DE AGOSTO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el sábado 27 de septiembre de 2008.
 
@@ -2637,15 +2635,21 @@ Las áreas de cesión deberán contar con las obras de urbanización que les per
 
 Las obras mínimas de urbanización que deben tener las áreas de cesión son las siguientes: redes de agua potable, alcantarillado y sanitario, sistema de drenaje y captación pluvial, red de electrificación y alumbrado; así también, los elementos de vialidad como calles, banquetas, andadores, estacionamientos dispositivos de control vial como señalización semaforización, y la jardinería y mobiliario urbano necesario.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 186.
 
-Las áreas de cesión deberán estar habilitadas para su inmediata utilización, por lo que requerirán del dimensionamiento y de las obras de edificación necesarias para esos efectos. Las obras de edificación mínimas al respecto serán las siguientes:
+Las obras de edificación mínimas con que deberán contar las áreas de cesión para destinos serán las siguientes:
 
-I. Las dedicadas a espacios verdes, abiertos y recreativos, que deberán contar con las obras de jardinería en general, pavimentos, mobiliario urbano en general y edificación necesarias para su operación, sanitarios, casetas o controles de ingreso, y otras. Dichas obras serán con cargo a quien realice la acción urbanística, y
+I. Las realizadas con cargo a quien desarrolle la acción urbanística, que deberán estar habilitadas para su inmediata utilización:
 
-II. Las dedicadas a la organización y administración vecinal y cultura tales como salas de reunión, oficinas de asociaciones de vecinos, casetas de vigilancia, bibliotecas y otras, que deberán contar con las edificaciones e instalaciones propias para esos efectos, a razón de un metro cuadrado de construcción por cada diez habitantes en zonas habitacionales; cien metros cuadrados de construcción por cada hectárea de superficie bruta en zonas comerciales y de servicios, y, cincuenta metros cuadrados de construcción por cada hectárea de superficie bruta en zonas industriales.
+a) Las dedicadas a espacios verdes, abiertos y recreativos, que deberán contar con las obras de jardinería en general, pavimentos, mobiliario urbano en general y edificación necesarias para su operación, sanitarios, casetas o controles de ingreso, y otras.
 
-Dichas obras serán con cargo a quien realice la acción urbanística.
+b) Las dedicadas a la organización y administración vecinal y cultural tales como salas de reunión, oficinas de asociaciones de vecinos, casetas de vigilancia, bibliotecas y otras, que deberán contar con las edificaciones e instalaciones propias para esos efectos, a razón de un metro cuadrado de construcción por cada diez habitantes en zonas habitacionales; cien metros cuadrados de construcción por cada hectárea de superficie bruta en zonas comerciales y de servicios y, cincuenta metros cuadrados de construcción por cada hectárea de superficie bruta en zonas industriales.
+
+c) Las de infraestructura, dedicadas a la construcción de obra educativa.
+
+II. Las dedicadas al rubro de educación, realizadas de manera concurrente, con cargo al Instituto de la Infraestructura Física Educativa del Estado de Jalisco, a los gobiernos municipal, estatal o federal, así como a quien realice la acción urbanística, de conformidad con los convenios respectivos.
 
 En caso de que la autoridad municipal considere que la edificación que se pretenda realizar deba de ser de mayores dimensiones, costeará la diferencia a cuenta del erario municipal.
 
@@ -5020,3 +5024,9 @@ CUARTO. La Secretaría contará con un terminó de ciento ochenta días hábiles
 QUINTO. La Secretaría de Cultura contará con un término de noventa días para instituir un Centro de Información del Patrimonio Cultural del Estado.
 
 SEXTO. Los bienes que se encuentren protegidos por la Ley (sic) Patrimonio Cultural y Natural del Estado de Jalisco y sus Municipios o, por cualquier otro instrumento legal o convencional, seguirán contando con la protección de la que gozan actualmente, hasta en tanto sean integrados al inventario del Patrimonio Cultural, en los términos de la presente ley.
+
+P.O. 22 DE NOVIEMBRE DE 2014.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. El Poder Ejecutivo del Estado, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente decreto, realizará las adecuaciones necesarias al Reglamento Estatal de Zonificación.
