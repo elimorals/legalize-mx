@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-fiscalia-general-del-estado-de-jalisco-92908
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-02-27"
-last_updated: "2014-07-31"
+last_updated: "2014-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Edición Especial del Periódico Oficial del Estado de Jalisco, el miércoles 27 de febrero de 2013.
 
@@ -45,9 +45,11 @@ LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 1º.
 
-La Fiscalía General del Estado es la responsable de la Seguridad Pública y Procuración de Justicia, en términos de lo que establece el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos. Tiene a su cargo la institución del Ministerio Público y es la encargada de conducir las funciones de la investigación de los delitos, de la seguridad pública, de mantener el orden y la paz pública, de la conducción y mando de las policías, del ejercicio de la acción penal y la relativa a la acción de reparación del daño ante los tribunales, la aplicación de sanciones por las infracciones en materia de vialidad que disponga la ley correspondiente, así como del sistema de reinserción social, protección civil y atención a víctimas, rigiéndose por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos; contará con las siguientes atribuciones:
+La Fiscalía General del Estado es la responsable de la Seguridad Pública y Procuración de Justicia, en términos de lo que establece el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos. Tiene a su cargo la institución del Ministerio Público y es la encargada de conducir las funciones de la investigación de los delitos, de la seguridad pública, de mantener el orden y la paz pública, de la conducción y mando de las policías, del ejercicio de la acción penal y la relativa a la acción de reparación del daño ante los tribunales, la aplicación de sanciones por las infracciones en materia de vialidad que disponga la ley correspondiente, así como del sistema de reinserción social y atención a víctimas, rigiéndose por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos; contará con las siguientes atribuciones:
 
 I. Dirigir y controlar el Ministerio Público;
 
@@ -59,7 +61,9 @@ IV. Coadyuvar para que los juicios se sigan con toda regularidad para que la adm
 
 V. Vigilar la observancia de los principios de constitucionalidad y legalidad en el ámbito de su competencia, sin perjuicio de las facultades que legalmente correspondan a otras autoridades jurisdiccionales o administrativas;
 
-VI. Desarrollar las políticas de prevención social del delito, de seguridad pública, de procuración de justicia, de reinserción social y de protección civil a cargo del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2014)</small>
+
+VI. Desarrollar las políticas de prevención social del delito, de seguridad pública, de procuración de justicia y de reinserción social a cargo del Poder Ejecutivo;
 
 VII. Coordinar los servicios relacionados con las tecnologías de información y comunicación de apoyo a la seguridad pública y la procuración de justicia a cargo del Estado;
 
@@ -67,23 +71,35 @@ VIII. Ejercer el mando sobre las policías en los términos del artículo 21 de 
 
 IX. Coordinar conforme las disposiciones legales aplicables los servicios periciales de apoyo a las funciones de seguridad pública y procuración de justicia;
 
-X. Coadyuvar en la formulación de propuestas al Ejecutivo Estatal para la elaboración del Programa Estatal de Seguridad Pública, Procuración de Justicia y Protección Civil;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2014)</small>
+
+X. Coadyuvar en la formulación de propuestas al Ejecutivo Estatal para la elaboración del Programa Estatal de Seguridad Pública y Procuración de Justicia;
 
 XI. Garantizar los derechos de las víctimas, de los testigos y de otros grupos vulnerables, estableciendo y reforzando, en su caso, los mecanismos jurídicos y administrativos que permitan obtener la reparación del daño;
 
-XII. Organizar, dirigir y supervisar el sistema de profesionalización en las funciones de prevención, policial, vialidad y tránsito; protección civil, atención victimológica, procuración de justicia penal y reinserción social;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2014)</small>
+
+XII. Organizar, dirigir y supervisar el sistema de profesionalización en las funciones de prevención, policial, vialidad y tránsito; atención victimológica, procuración de justicia penal y reinserción social;
 
 XIII. Establecer un sistema integral de investigación, destinado a obtener, analizar, procesar e interpretar, técnica y científicamente, la información para la seguridad pública y de apoyo a la procuración de justicia;
 
-XIV. Fomentar la participación ciudadana para que coadyuve, entre otros, en los procesos de formulación, desarrollo, aplicación y evaluación de las políticas de seguridad pública, procuración de justicia y protección civil así como de las instituciones relacionadas;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2014)</small>
+
+XIV. Fomentar la participación ciudadana para que coadyuve, entre otros, en los procesos de formulación, desarrollo, aplicación y evaluación de las políticas de seguridad pública y procuración de justicia, así como de las instituciones relacionadas;
 
 XV. Elaborar y difundir los estudios e investigaciones sobre las funciones y materias de su competencia;
 
-XVI. Participar en los sistemas nacional y estatal de seguridad pública, y de protección civil;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2014)</small>
 
-XVII. Cumplir con las obligaciones del Estado contenidas en las leyes generales en materia de atención a víctimas; prevención y sanción del secuestro; prevención social de la violencia y la delincuencia; de salud; de acceso de las mujeres a una vida libre de violencia; y, de protección civil, en el ámbito de su competencia;
+XVI. Participar en los sistemas nacional y estatal de seguridad pública;
 
-XVIII. Establecer vínculos y relaciones con instituciones y organismos afines en el ámbito nacional e internacional para conocer las mejores prácticas y mejorar las funciones de seguridad pública, protección civil y procuración de justicia en el Estado;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2014)</small>
+
+XVII. Cumplir con las obligaciones del Estado contenidas en las leyes generales en materia de atención a víctimas; prevención y sanción del secuestro; prevención social de la violencia y la delincuencia; de salud; y de acceso de las mujeres a una vida libre de violencia; en el ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2014)</small>
+
+XVIII. Establecer vínculos y relaciones con instituciones y organismos afines en el ámbito nacional e internacional para conocer las mejores prácticas y mejorar las funciones de seguridad pública y procuración de justicia en el Estado;
 
 XIX. Canalizar los asuntos y denuncias de los ciudadanos a las instancias respectivas que no sean de su competencia;
 
@@ -157,7 +173,7 @@ V. Unidad de Comunicación social.
 
 ###### Artículo 6º.
 
-La Fiscalía General del Estado tendrá adscritos (sic) administrativamente a las siguientes instancias que gozarán de autonomía técnica y de gestión:
+La Fiscalía General del Estado tendrá adscritos administrativamente a las siguientes instancias que gozarán de autonomía técnica y de gestión:
 
 I. Consejo Ciudadano de Seguridad Pública, Prevención y Reinserción Social; y
 
@@ -659,6 +675,8 @@ VII. Investigar los delitos que violenten los derechos humanos, de conformidad c
 
 VIII. Las demás que le correspondan de conformidad con las leyes y reglamentos aplicables en la materia.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 20.
 
 La Fiscalía General del Estado coadyuvará en el sistema de protección civil en los términos de la legislación de la materia, así como participar en el Plan Estatal de Protección Civil.
@@ -671,11 +689,9 @@ I. Proponer al Ejecutivo del Estado los proyectos de reglamentos, decretos, acue
 
 II. Expedir los protocolos, instrumentos y acciones relativas a los asuntos de la competencia de la Fiscalía General del Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2014)</small>
-
-III. Proponer al Ejecutivo anteproyectos de leyes relacionados con la Seguridad Pública, la prevención, investigación y persecución del delito, la reinserción social de los sentenciados y en materia de protección civil;
+III. Proponer al Ejecutivo anteproyectos de leyes relacionados con la seguridad pública, la prevención, investigación y persecución del delito, y la reinserción social de los delincuentes;
 
 IV. Ejercer la disciplina y la administración de todo el personal de la Fiscalía General del Estado;
 
@@ -915,6 +931,8 @@ QUINTO. Los asuntos en trámite ante las Dependencias que se modifican, fusionan
 
 SEXTO. El Titular del Poder Ejecutivo Estatal presentará al Congreso del Estado de Jalisco la iniciativa de reformas que resulten necesarias para adecuar el marco jurídico estatal a las nuevas denominaciones y atribuciones de las dependencias de la Administración Pública Estatal. En tanto esto tiene lugar, las facultades, derechos y obligaciones establecidos a cargo de las dependencias que cambian su denominación o naturaleza derivado del presente Decreto, o de sus titulares, en cualquier ordenamiento legal o reglamentario, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado o con dependencias o entidades de la Administración Pública Federal, y de los municipios, así como con cualquier persona física o jurídica, serán asumidos por las nuevas dependencias, o su titular, conforme a la siguiente tabla:
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2014)</small>
+
 ANTERIOR NUEVO
 
 Secretaría de Finanzas Secretaría de Planeación,
@@ -929,11 +947,9 @@ Secretaría de Administración; Secretaría de Planeación,
 
 Administración y Finanzas
 
-Secretaría de Seguridad
+Secretaría de Seguridad Pública, Fiscalía General del Estado
 
-Pública, Prevención y Fiscalía General del Estado
-
-Reinserción Social
+Prevención y Reinserción Social
 
 Procuraduría General de Justicia Fiscalía General del Estado
 
@@ -945,125 +961,103 @@ Secretaría de Desarrollo Humano Secretaría de Desarrollo
 
 e Integración Social
 
-Secretaría de Medio Ambiente Secretaría de Medio
+Secretaría de Medio Ambiente Secretaría de Medio Ambiente
 
-para el Desarrollo Sustentable Ambiente y
+para el Desarrollo Sustentable y Desarrollo Territorial
 
-Desarrollo Territorial
+Secretaría de Desarrollo Urbano Secretaría de Medio Ambiente
 
-Secretaría de Desarrollo
+(Tratándose de ordenamiento y Desarrollo Territorial
 
-Urbano (Tratándose de Secretaría de Medio
-
-ordenamiento territorial, Ambiente y
-
-planeación urbana y Desarrollo Territorial
+territorial, planeación urbana y
 
 fomento a la vivienda)
 
-Secretaría de Desarrollo Secretaría de
+Secretaría de Desarrollo Urbano Secretaría de Infraestructura
 
-Urbano (Tratándose de Infraestructura
+(Tratándose de ejecución y y Obra Pública
 
-ejecución y adjudicación y Obra Pública
+adjudicación de obra pública)
 
-de obra pública)
+Secretaría de Desarrollo Rural Secretaría de Infraestructura
 
-Secretaría de Desarrollo Secretaría de
+(Tratándose de infraestructura y Obra Pública
 
-Rural (Tratándose de Infraestructura
+rural)
 
-infraestructura rural) y Obra Pública
+Secretaría de Desarrollo Rural Secretaría de Medio
 
-Secretaría de Desarrollo
+(Tratándose de materia forestal, Ambiente y Desarrollo
 
-Rural (Tratándose de materia Secretaría de
+áreas naturales protegidas, Territorial
 
-forestal, áreas naturales Medio Ambiente
+así como de desarrollo regional)
 
-protegidas, así como y Desarrollo Territorial
+Secretaría de Desarrollo Rural Secretaría de Desarrollo Rural
 
-de desarrollo regional)
+(Excepto en materia forestal,
 
-Secretaría de Desarrollo Rural
+áreas naturales protegidas,
 
-(Excepto en materia forestal, Secretaría de
+así como infraestructura rural y
 
-áreas naturales protegidas, Desarrollo Rural
+desarrollo regional)
 
-así como infraestructura rural
+Secretaría de Educación (Excepto Secretaría de Educación
 
-y desarrollo regional)
+en materia de educación
 
-Secretaría de Educación
-
-(Excepto en materia de
-
-educación superior Secretaría de Educación
-
-y tecnológica, así como
+superior y tecnológica, así como
 
 en materia de investigación)
 
-Secretaría de Educación
+Secretaría de Educación Secretaría de Innovación,
 
-(En materia de educación Secretaría de Innovación,
+(En materia de educación superior y Ciencia y Tecnología
 
-superior y tecnológica, así Ciencia y Tecnología
+tecnológica, así como en materia de
 
-como en materia de investigación)
+investigación)
 
-Secretaría de Salud
+Secretaría de Salud Secretaría de Infraestructura
 
-(Exclusivamente en materia Secretaría de
+(Exclusivamente en materia de y Obra Pública
 
-de ejecución y adjudicación Infraestructura
+ejecución y adjudicación
 
-de obras de infraestructura y Obra Pública
+de obras de infraestructura para
 
-para el sector salud)
+el sector salud)
 
-Secretaría de Salud
+Secretaría de Salud Secretaría de Salud
 
 (Excepto en materia de ejecución
 
-y adjudicación de obras de Secretaría de Salud
+y adjudicación de obras de
 
-infraestructura para el
+infraestructura para el sector salud)
 
-sector salud)
+Secretaría de Vialidad y Transporte Secretaría de Infraestructura
 
-Secretaría de Vialidad y
+(Exclusivamente en materia de y Obra Pública
 
-Transporte (Exclusivamente en Secretaría de
+ejecución y adjudicación de obras
 
-materia de ejecución y Infraestructura
+de infraestructura vial)
 
-adjudicación de obras de y Obra Pública
+Secretaría de Vialidad y Transporte Secretaría de Movilidad
 
-infraestructura vial)
+(Excepto en materia de ejecución y
 
-Secretaría de Vialidad y
+adjudicación de obras de infraestructura
 
-Transporte (Excepto en materia
+vial y policía vial)
 
-de ejecución y adjudicación de Secretaría de Movilidad
+Secretaría de Vialidad y Transporte Fiscalía General del Estado
 
-obras de infraestructura vial
+(Exclusivamente en materia de
 
-y policía vial)
-
-Secretaría de Vialidad y
-
-Transporte (Exclusivamente Fiscalía General del Estado
-
-en materia de policía vial)
-
-Secretaría General de Gobierno
-
-(Exclusivamente en materia Fiscalía General del Estado
-
-de protección civil y bomberos)
+policía vial)
 
 SÉPTIMO. Se abrogan las siguientes leyes:
 
@@ -1164,3 +1158,7 @@ P.O. 31 DE JULIO DE 2014.
 Primero. Publíquese el presente Decreto en el periódico oficial El Estado de Jalisco.
 
 Segundo. Este Decreto entrará en vigor de conformidad con la declaratoria de incorporación del Código Nacional de Procedimientos Penales al orden jurídico del Estado de Jalisco.
+
+P.O. 22 DE NOVIEMBRE DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
