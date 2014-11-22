@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-92907"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-02-27"
-last_updated: "2014-07-19"
+last_updated: "2014-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco el miércoles 27 de febrero de 2013.
 
@@ -319,9 +319,17 @@ XXXII. Hacerse cargo a través de su Titular, del despacho del ciudadano Goberna
 
 XXXIII. Ejercer las acciones reivindicatorias y en materia patrimonial a cargo del Estado y la función de su consejero jurídico;
 
-XXXIV. Participar en los Sistemas Nacional y Estatal, tanto de Seguridad Pública como de Protección Civil, en los términos de la legislación aplicable, y
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2014)</small>
 
-XXXIV. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
+XXXIV. Participar en los Sistemas Nacional y Estatal, tanto de Seguridad Pública como de Protección Civil, en los términos de la legislación aplicable;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2014)</small>
+
+XXXV. Coordinar las funciones y acciones en materia de protección civil; y
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2014)</small>
+
+XXXVI. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
 
 ###### Artículo 14.
 
@@ -753,7 +761,7 @@ VI. Promover, evaluar y certificar el cumplimiento de la normatividad ambiental;
 
 VII. Promover, apoyar y vigilar la protección, aprovechamiento sustentable, conservación, preservación y restauración de los recursos naturales del Estado, en el ámbito de su competencia;
 
-VII. (sic) Promover, apoyar y vigilar la prevención, control y disminución de la contaminación ambiental de atmósfera, suelo y aguas, en el ámbito de su competencia;
+VII (SIC). Promover, apoyar y vigilar la prevención, control y disminución de la contaminación ambiental de atmósfera, suelo y aguas, en el ámbito de su competencia;
 
 IX. Promover, apoyar y gestionar con la Federación, el Estado y los municipios el otorgamiento de incentivos y estímulos para los particulares que contribuyan a la conservación de la biodiversidad, la protección ambiental y el manejo sustentable de los ecosistemas del Estado;
 
@@ -1051,13 +1059,15 @@ XXII. Planear, integrar y coordinar los servicios del transporte público que of
 
 XXIII. Coadyuvar con la Fiscalía General del Estado para el debido cumplimiento y aplicación de la normatividad en materia de movilidad y transporte, y
 
-XXIII. (sic) Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
+XXIII (SIC). Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
 
 ### Capítulo III. Fiscalía general del estado
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 27.
 
-La Fiscalía General del Estado es la responsable de la Seguridad Pública y la Procuración de Justicia, en términos de lo que establece el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos. Tiene a su cargo la institución del Ministerio Público y es la encargada de conducir las funciones de la investigación de los delitos, de la seguridad pública, de mantener el orden y la paz pública, de la conducción y mando de las policías, del ejercicio de la acción penal y la relativa a la acción de reparación del daño ante los tribunales, la aplicación de sanciones por las infracciones en materia de vialidad que disponga la ley correspondiente, así como del sistema de reinserción social, protección civil y atención a víctimas, rigiéndose por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
+La Fiscalía General del Estado es la responsable de la seguridad pública y la procuración de justicia, en los términos de lo que establece el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos. Tiene a su cargo la institución del Ministerio Público y es la encargada de conducir las funciones de la investigación de los delitos, de la seguridad pública, de mantener el orden y la paz pública, de la conducción y mando de las policías, del ejercicio de la acción penal y la relativa a la acción de reparación del daño ante los tribunales, la aplicación de sanciones por las infracciones en materia de vialidad que disponga la ley correspondiente, así como del sistema de reinserción social y atención a víctimas, rigiéndose por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
 
 ###### Artículo 28.
 
@@ -1091,7 +1101,9 @@ IV. Coadyuvar para que los juicios se sigan con toda regularidad para que la adm
 
 V. Vigilar la observancia de los principios de constitucionalidad y legalidad en el ámbito de su competencia, sin perjuicio de las facultades que legalmente correspondan a otras autoridades jurisdiccionales o administrativas;
 
-VI. Desarrollar las políticas de prevención social del delito, de seguridad pública, de procuración de justicia, de reinserción social y de protección civil a cargo del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2014)</small>
+
+VI. Desarrollar las políticas de prevención social del delito, de seguridad pública, de procuración de justicia y de reinserción social a cargo del Poder Ejecutivo;
 
 VII. Coordinar los servicios relacionados con las tecnologías de información y comunicación de apoyo a la seguridad pública y la procuración de justicia a cargo del Estado;
 
@@ -1099,23 +1111,35 @@ VIII. Ejercer el mando sobre las policías en los términos del artículo 21 de 
 
 IX. Coordinar conforme a las disposiciones legales aplicables los servicios periciales de apoyo a las funciones de seguridad pública y procuración de justicia;
 
-X. Coadyuvar en la formulación de propuestas al Ejecutivo Estatal para la elaboración del Programa Estatal de Seguridad Pública, Procuración de Justicia y Protección Civil;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2014)</small>
+
+X. Coadyuvar en la formulación de propuestas al Ejecutivo Estatal para la elaboración del Programa Estatal de Seguridad Pública y procuración de justicia;
 
 XI. Garantizar los derechos de las víctimas, de los testigos y de otros grupos vulnerables, estableciendo y reforzando, en su caso, los mecanismos jurídicos y administrativos que permitan obtener la reparación del daño;
 
-XII. Organizar, dirigir y supervisar el sistema de profesionalización en las funciones de prevención, policial, vialidad y tránsito; protección civil, atención victimológica, procuración de justicia penal y reinserción social;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2014)</small>
+
+XII. Organizar, dirigir y supervisar el sistema de profesionalización en las funciones de prevención, policial, vialidad y tránsito; atención victimológica, procuración de justicia penal y reinserción social;
 
 XIII. Establecer un sistema integral de investigación, destinado a obtener, analizar, procesar e interpretar, técnica y científicamente, la información para la seguridad pública y de apoyo a la procuración de justicia;
 
-XIV. Fomentar la participación ciudadana para que coadyuve, entre otros, en los procesos de formulación, desarrollo, aplicación y evaluación de las políticas de seguridad pública, procuración de justicia y protección civil así como de las instituciones relacionadas;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2014)</small>
+
+XIV. Fomentar la participación ciudadana para que coadyuve, entre otros, en los procesos de formulación, desarrollo, aplicación y evaluación de las políticas de seguridad pública y procuración de justicia así como de las instituciones relacionadas;
 
 XV. Elaborar y difundir los estudios e investigaciones sobre las funciones y materias de su competencia;
 
-XVI. Participar en los sistemas nacional y estatal de seguridad pública, y de protección civil;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2014)</small>
 
-XVII. Cumplir con las obligaciones del Estado contenidas en las leyes generales en materia de atención a víctimas, prevención y sanción del secuestro; prevención social de la violencia y la delincuencia, de salud, de acceso de las mujeres a una vida libre de violencia y, de protección civil, en el ámbito de su competencia;
+XVI. Participar en los sistemas nacional y estatal de seguridad pública;
 
-XVIII. Establecer vínculos y relaciones con instituciones y organismos afines en el ámbito nacional e internacional para conocer las mejores prácticas y mejorar las funciones de seguridad pública, protección civil y procuración de justicia en el Estado;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2014)</small>
+
+XVII. Cumplir con las obligaciones del Estado contenidas en las leyes generales en materia de atención a víctimas; prevención y sanción del secuestro; prevención social de la violencia y la delincuencia; de salud; y de acceso de las mujeres a una vida libre de violencia, en el ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2014)</small>
+
+XVIII. Establecer vínculos y relaciones con instituciones y organismos afines en el ámbito nacional e internacional para conocer las mejores prácticas y mejorar las funciones de seguridad pública y procuración de justicia en el Estado;
 
 XIX. Ejercer las funciones en materia de policía vial que señale la ley estatal en materia de vialidad, tránsito y transporte, y
 
@@ -1445,7 +1469,7 @@ V. Los bienes y derechos que adquiera por cualquier título;
 
 VI. Los rendimientos que obtenga de la inversión de sus recursos;
 
-VIII. (sic) Los recursos que obtengan sus órganos auxiliares por la prestación de sus servicios, y
+VIII (SIC). Los recursos que obtengan sus órganos auxiliares por la prestación de sus servicios, y
 
 IX. Todos los demás bienes o derechos que perciba en el ejercicio de sus atribuciones.
 
@@ -1948,5 +1972,9 @@ P.O. 20 DE MARZO DE 2013.
 ÚNICO. El presente decreto entrará en vigor el día de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 19 DE JULIO DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 22 DE NOVIEMBRE DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
