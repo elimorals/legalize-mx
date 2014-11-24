@@ -4,7 +4,7 @@ identifier: "HID-ley-de-ingresos-del-estado-libre-y-soberano-de-hidalgo-para-979
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2013-12-31"
-last_updated: "2014-04-21"
+last_updated: "2014-11-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97906&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE HIDALGO PARA EL EJERCICIO FISCAL DEL AÑO 2014.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el martes 31 de diciembre de 2013.
 
@@ -79,9 +79,11 @@ DECRETO
 
 QUE APRUEBA LA LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE HIDALGO PARA EL EJERCICIO FISCAL DEL AÑO 2014.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 1.
 
-La Hacienda Pública del Estado de Hidalgo, percibirá durante el Ejercicio Fiscal comprendido del primero de enero al treinta y uno de diciembre de 2014, los ingresos provenientes de los conceptos y en las cantidades estimadas que a continuación se enumeran:
+La hacienda pública del Estado de Hidalgo, percibirá durante el ejercicio fiscal comprendido del primero de enero al treinta y uno de diciembre de 2014, los ingresos provenientes de los conceptos y en las cantidades estimadas que a continuación se enumeran:
 
 CONCEPTO PESOS
 
@@ -111,13 +113,15 @@ aprovechamiento de bienes no sujetos
 
 a régimen de dominio público 49,969,212.00
 
-5.9 (sic) Otros productos que generan ingresos
+5.9 (sic) Otros productos que generan
 
-Corrientes 17,969,287.00
+ingresos corrientes 17,969,287.00
 
 6 Aprovechamientos de tipo corriente 182,482,561.00
 
-6.1 Incentivos derivados de la colaboración fiscal 119,839,168.00
+6.1 Incentivos derivados de la colaboración
+
+fiscal 119,839,168.00
 
 6.2 Multas 11,797,210.00
 
@@ -135,19 +139,13 @@ de organismos descentralizados 68,262,072.00
 
 8.2 Aportaciones 15,840,727,512.00
 
-0.3 Convenios 30,711,151.00
+8.3 Convenios 30,711,151.00
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE ABRIL DE 2014)</small>
+0. Ingresos derivados de Financiamientos 5,997,000,731.00
 
-0. Ingresos derivados de Financiamientos 497,388,449.00
+0.1 Endeudamiento Interno 5,997,000,731.00
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE ABRIL DE 2014)</small>
-
-0.1 Endeudamiento Interno 497,388,449.00
-
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
-
-TOTAL 28,950,620,016.00
+TOTAL 34,430,232,298.00
 
 ###### Artículo 2.
 
@@ -242,3 +240,11 @@ P.O. 21 DE ABRIL DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 24 DE NOVIEMBRE DE 2014.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 233 QUE MODIFICA LA LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE HIDALGO PARA EL EJERCICIO FISCAL DEL AÑO 2014".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
