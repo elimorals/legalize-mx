@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-libre-y-70231"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-21"
-last_updated: "2014-11-03"
+last_updated: "2014-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de septiembre de 2009.
 
@@ -73,7 +73,7 @@ El Congreso del Estado, se integra con Diputados electos en su totalidad por suf
 
 Durante su Ejercicio Constitucional, el Congreso del Estado tendrá dos Períodos Ordinarios de Sesiones cada año, en los términos previstos por el Titulo Sexto, de la Constitución Política del Estado de Hidalgo. Los períodos no podrán prorrogarse más allá de las fechas previstas en este Título.
 
-El Congreso del Estado, tendrá dos perídos de receso al año, en los que funcionará la Diputación Permanente.
+El Congreso del Estado, tendrá dos períodos de receso al año, en los que funcionará la Diputación Permanente.
 
 El Congreso, podrá celebrar Sesiones Extraordinarias durante los períodos de receso, mismas que serán convocados por la Diputación Permanente o a solicitud del Titular del Poder Ejecutivo del Estado, en dichos períodos sólo se tratarán los asuntos que se precisen en la Convocatoria, pudiendo prolongarse por el tiempo necesario hasta lograr su objetivo. Para el caso en que termine el período de receso, sin haberse resuelto el asunto motivo de la Convocatoria, éste se incluirá en la agenda de los asuntos a tratar del Periodo Ordinario de Sesiones siguiente.
 
@@ -1249,6 +1249,10 @@ El Congreso en vía de Acuerdo Económico puede resolver cualquier asunto que se
 
 Los planteamientos de los Diputados, una vez expuestos en el Pleno o en la Diputación Permanente, serán turnados a Comisiones para su Estudio y resolución, salvo en aquellos casos que los mismos contengan propuestas de Acuerdos Económicos, que por su naturaleza o extrema urgencia, requieran de ser aprobados en la misma Sesión en que se presentan, para lo cual se someterán a la consideración del Pleno o de la Diputación Permanente, en su caso, si se aprueba su discusión y votación.
 
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2014)</small>
+
+Se consideran como urgentes aquellos asuntos que pongan en peligro la vida, la seguridad de las personas, el medio ambiente y la estabilidad política, económica y social del Estado de Hidalgo, independientemente de los que el Pleno y la Junta de Gobierno determinen.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 136.
@@ -2108,3 +2112,7 @@ Tercero.- En un plazo no mayor a 40 días naturales el responsable de la Unidad 
 P.O. 3 DE NOVIEMBRE DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 24 DE NOVIEMBRE DE 2014.
+
+Único. Envíese al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Estado de Hidalgo.
