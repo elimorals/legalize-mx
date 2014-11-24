@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-de-la-procuraduria-general-de-justicia-4527
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-21"
-last_updated: "2012-11-30"
+last_updated: "2014-11-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45275&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 REGLAMENTO INTERIOR DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2014.
 
 Reglamento publicado en la Sección Administrativa del Periódico Oficial del Estado de Campeche, el martes 21 de junio de 2005.
 
@@ -97,13 +97,13 @@ XVIII. La Visitaduría General;
 
 XIX. La Unidad Especializada de Atención Ciudadana;
 
-XX. La Unidad de Capacitación y Profesionalización; y (sic)
+XX. La Unidad de Capacitación y Profesionalización; y
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 24 DE NOVIEMBRE DE 2014)</small>
 
 XXI. La Unidad de Comunicación Social; y
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 24 DE NOVIEMBRE DE 2014)</small>
 
 XXII. Órganos administrativos desconcentrados.
 
@@ -1147,19 +1147,19 @@ V. Ser el enlace de la Procuraduría con los representantes de los medios de com
 
 VI. Las demás que le confieran otras disposiciones legales, reglamentarias y administrativas y el Procurador.
 
-> <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO] CON LA SECCIÓN Y ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE NOVIEMBRE DE 2014)</small>
 
 ### CAPÍTULO XXI BIS. DE LOS ÓRGANOS ADMINISTRATIVOS DESCONCENTRADOS
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA] CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE NOVIEMBRE DE 2014)</small>
 
 #### SECCIÓN PRIMERA. DEL CENTRO DE JUSTICIA PARA LAS MUJERES
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 24 DE NOVIEMBRE DE 2014)</small>
 
 ARTÍCULO 58 BIS.- El Centro de Justicia para las Mujeres es un organismo con autonomía técnica y de gestión, dependiente de la Procuraduría General de Justicia, que tiene por objeto coordinar la prestación de servicios integrales destinados a prevenir, atender, sancionar y erradicar la violencia contra las mujeres en el Estado.
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 24 DE NOVIEMBRE DE 2014)</small>
 
 ARTÍCULO 58 TER.- Los objetivos del Centro de Justicia para las Mujeres son:
 
@@ -1171,19 +1171,19 @@ III. Apoyar a las mujeres en la construcción de un nuevo proyecto de vida sin v
 
 IV. Coadyuvar con los organismos que ofrecen refugio temporal para brindar un ambiente seguro y confiable para las mujeres víctimas de violencia, sus hijas e hijos, a través de servicios especializados y con enfoque de respeto a los derechos de la niñez.
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 24 DE NOVIEMBRE DE 2014)</small>
 
 ARTÍCULO 58 QUÁTER.- Dentro de las instalaciones que ocupa el Centro de Justicia para las Mujeres prestarán sus servicios las dependencias de la administración pública del Estado, organismos descentralizados, sociedades y asociaciones civiles cuyas funciones y objetivos contribuyan a erradicar la discriminación y la violencia contra las mujeres en el Estado. Así como juzgados familiares, dependientes del Poder Judicial del Estado, con la finalidad de contribuir a facilitar el acceso a la justicia para las mujeres y los menores que de ellas dependan.
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 24 DE NOVIEMBRE DE 2014)</small>
 
 ARTÍCULO 58 QUINQUIES.- El Procurador General de Justicia del Estado podrá, a través de la Coordinación General del Centro de Justicia para las mujeres, celebrar convenios de colaboración con dependencias de nivel Federal y Municipal, al igual que con organismos no gubernamentales defensores de los derechos humanos, especialmente los defensores de los derechos de la mujer; con el fin de que presten sus servicios dentro de las instalaciones del Centro de Justicia o que aporten recursos económicos destinados a mejorar la prestación de los servicios.
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 24 DE NOVIEMBRE DE 2014)</small>
 
 ARTÍCULO 58 SEXIES.- La Dirección del Centro de Justicia para las Mujeres estará a cargo de una Coordinadora General, cargo que siempre ocupará una mujer, quien tendrá las siguientes facultades y obligaciones:
 
-I. Administrar operativa mente al Centro de. Justicia para las Mujeres en el Estado de Campeche;
+I. Administrar operativamente al Centro de Justicia para las Mujeres en el Estado de Campeche;
 
 II. Coordinar las actividades de las Dependencias y organismos públicos y privados que formen parte del Centro de Justicia;
 
@@ -1205,7 +1205,7 @@ X. Diseñar, con el apoyo de las autoridades competentes, planes, proyectos y pr
 
 XI. Las demás que le otorgue este Reglamento y otras disposiciones legales aplicables.
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 24 DE NOVIEMBRE DE 2014)</small>
 
 ARTÍCULO 58 SEPTIES.- Para ser Coordinadora General del Centro de Justicia para las Mujeres, se deberán reunir los siguientes requisitos:
 
@@ -1223,11 +1223,11 @@ VI. No desempeñar ningún otro cargo, empleo, puesto o comisión, a excepción 
 
 VII. Gozar de buena reputación personal y profesional.
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 24 DE NOVIEMBRE DE 2014)</small>
 
 ARTÍCULO 58 OCTIES.- La remuneración que perciban los servidores públicos que presten sus servicios en el Centro de Justicia estará a cargo de la dependencia u organismo al que se encuentre adscrito.
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 24 DE NOVIEMBRE DE 2014)</small>
 
 ARTÍCULO 58 NONIES.- Los recursos presupuestales del Centro de Justicia para las Mujeres estarán compuestos, además de la partida presupuestal que le sea asignada en la Ley del Presupuesto Egresos de cada ejercido fiscal, por las aportaciones que a manera de donaciones realicen instituciones y organismos públicos o privados defensores de los derechos de la mujer.
 
@@ -1406,5 +1406,9 @@ C.P. JORGE CARLOS HURTADO VALDEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. CA
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 30 DE NOVIEMBRE DE 2012.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE NOVIEMBRE DE 2014.
 
 PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
