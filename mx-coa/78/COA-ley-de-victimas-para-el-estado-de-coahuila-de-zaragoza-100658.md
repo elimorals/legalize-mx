@@ -4,7 +4,7 @@ identifier: "COA-ley-de-victimas-para-el-estado-de-coahuila-de-zaragoza-100658"
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-02"
-last_updated: "2014-05-02"
+last_updated: "2014-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100658&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 2 de mayo de 2014.
 
@@ -34,6 +34,22 @@ QUE EL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGO
 DECRETA:
 
 NÚMERO 486.-
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 634, PUBLICADO EN EL P.O. 25 DE NOVIEMBRE DE 2014, TODAS LAS DISPOSICIONES, MENCIONES Y REFERENCIAS QUE SE HAGAN EN ESTE DECRETO RESPECTO AL TÉRMINO "CÓDIGO DE PROCEDIMIENTOS PENALES" , SE ENTENDERÁN HECHAS AL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, EL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO EL 17 DE FEBRERO DE 2012, Y EL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO EL 25 DE MAYO DE 1999, DE ACUERDO AL ESQUEMA DE GRADUALIDAD DE LA IMPLEMENTACIÓN DEL SISTEMA PENAL ACUSATORIO ADVERSARIAL.</small>
+
+ASIMISMO, LAS REFERENCIAS QUE SE HAGAN A CARPETA DE INVESTIGACIÓN, EN LOS CASOS QUE RESULTE APLICABLE, SE ENTENDERÁN HECHAS A LA AVERIGUACIÓN PREVIA
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NÚMERO 634, PUBLICADO EN EL P.O. 25 DE NOVIEMBRE DE 2014, TODAS LAS DISPOSICIONES, MENCIONES Y REFERENCIAS QUE SE HAGAN EN LAS LEYES Y REGLAMENTOS A LAS SUBPROCURADURÍAS JURÍDICA, DE DERECHOS HUMANOS, PROFESIONALIZACIÓN Y PROYECTOS, Y DE INVESTIGACIONES ESPECIALES, ATENCIÓN A DELITOS CONTRA MUJERES POR RAZÓN DE GÉNERO, TRATA DE PERSONAS, LIBERTAD DE EXPRESIÓN Y SERVICIOS A LA COMUNIDAD, SE ENTENDERÁN HECHAS A LA SUBPROCURADURÍA JURÍDICA, DE DERECHOS HUMANOS Y DE INVESTIGACIONES ESPECIALES, DE ACUERDO A LAS ATRIBUCIONES QUE SE OTORGAN A ÉSTA ÚLTIMA MEDIANTE EL PRESENTE DECRETO.</small>
+
+ASIMISMO TODAS LAS DISPOSICIONES, MENCIONES Y REFERENCIAS QUE SE HAGAN EN LAS LEYES Y REGLAMENTOS RESPECTO DE LAS SIGUIENTES UNIDADES ADMINISTRATIVAS, SE ENTENDERÁN HECHAS CONFORME A LAS SIGUIENTES DENOMINACIONES:
+
+A) DIRECCIÓN GENERAL DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS Y TESTIGOS: DIRECCIÓN GENERAL DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS Y OFENDIDOS.
+
+B) DIRECCIÓN GENERAL DE MEDIOS ALTERNOS DE SOLUCIÓN DE CONFLICTOS: DIRECCIÓN GENERAL DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS.
+
+C) DIRECCIÓN DE CONTROL DE PROCESOS EN MATERIA DE DELITOS ELECTORALES: DIRECCIÓN DE CONTROL DE JUICIOS Y CONSTITUCIONALIDAD EN MATERIA DE DELITOS ELECTORALES,
+
+D) DIRECCIÓN GENERAL DE POLÍTICA CRIMINAL: DIRECCIÓN DE POLÍTICA CRIMINAL.
 
 LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
@@ -307,9 +323,11 @@ f) La reparación colectiva se entenderá como un derecho del que son titulares 
 
 Las medidas colectivas tenderán al reconocimiento y dignificación de los sujetos colectivos victimizados; la reconstrucción del proyecto colectivo de vida, y el capital social y cultural; la recuperación psicosocial de las poblaciones y grupos afectados y la promoción de la reconciliación y la cultura de la protección y promoción de los derechos humanos en las comunidades y colectivos afectados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 11.
 
-En el proceso penal, las víctimas gozarán de todos los derechos consagrados en la Ley General de Víctimas y el Código de Procedimientos Penales vigente en el Estado en cada caso concreto, así como:
+En el proceso penal, las víctimas gozarán de todos los derechos consagrados en la Ley General de Víctimas y el Código de Procedimientos Penales, así como:
 
 I. A ser enterado directa y oportunamente de los derechos que a su favor establece la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales de los que el Estado Mexicano es parte, la Constitución Política del Estado de Coahuila de Zaragoza, la presente ley, las leyes generales y demás ordenamientos aplicables en la materia;
 
@@ -347,7 +365,9 @@ XIII. A comparecer en la fase de la investigación o al juicio y a que sean adop
 
 XIV. A recibir orientación y canalización hacia las instituciones de asistencia o beneficencia pública, social y privada en el Estado y en los municipios;
 
-XV. A coadyuvar con el Ministerio Público en la investigación y en el proceso penal, en los términos previstos por el Código de Procedimientos Penales del Estado de Coahuila de Zaragoza;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+XV. A coadyuvar con el Ministerio Público en la investigación y en el proceso penal, en los términos previstos por el Código de Procedimientos Penales;
 
 XVI. A ser informado por la autoridad investigadora, de las actuaciones y del estado que guarde la investigación o el proceso penal correspondiente y, en su caso, tener acceso al expediente;
 
@@ -573,7 +593,9 @@ II. Realizar un análisis de las condiciones de la víctima desde el punto de vi
 
 III. Contar con el asesoramiento legal para el correcto ejercicio de la acción incidental, cuando se reclame la reparación del daño al responsable o a los terceros obligados por el Código Penal del Estado de Coahuila de Zaragoza y, cuando proceda, el ejercicio de la acción civil reparadora;
 
-IV. Garantizar la reparación del daño a la víctima del delito, además de los derechos previstos en el Código de Procedimientos Penales del Estado de Coahuila de Zaragoza, podrán exigir por sí o por conducto del Ministerio Público la restitución de la cosa o, en su caso, el pago del valor correspondiente, al momento de su afectación o perjuicio material; y
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+IV. Garantizar la reparación del daño a la víctima del delito, además de los derechos previstos en el Código de Procedimientos Penales, podrán exigir por sí o por conducto del Ministerio Público la restitución de la cosa o, en su caso, el pago del valor correspondiente, al momento de su afectación o perjuicio material; y
 
 V. Que el Ministerio Público dicte o solicite desde el inicio de la investigación y durante el ejercicio de la acción penal, las medidas necesarias a efecto de recabar pruebas suficientes para acreditar los daños y perjuicios causados a la víctima u ofendido del delito, incluyendo la fijación del monto de la reparación material y moral, así como solicitar el aseguramiento y embargo precautorio de bienes para ese efecto.
 
@@ -1956,3 +1978,51 @@ EL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO
 HOMERO RAMOS GLORIA
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
+
+###### ARTÍCULO SEGUNDO.
+
+Todas las disposiciones, menciones y referencias que se hagan en este decreto respecto al término "Código de Procedimientos Penales", se entenderán hechas al Código Nacional de Procedimientos Penales, el Código de Procedimientos Penales del Estado de Coahuila de Zaragoza, publicado en el Periódico Oficial del Gobierno del Estado el 17 de febrero de 2012, y el Código de Procedimientos Penales del Estado de Coahuila de Zaragoza, publicado en el Periódico Oficial del Gobierno del Estado el 25 de mayo de 1999, de acuerdo al esquema de gradualidad de la implementación del Sistema Penal Acusatorio Adversarial.
+
+Asimismo, las referencias que se hagan a (sic) carpeta de investigación, en los casos que resulte aplicable, se entenderán hechas a la averiguación previa.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Dentro de los 60 días hábiles siguientes a la entrada en vigor del presente decreto, deberá emitirse o modificarse el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Coahuila de Zaragoza.
+
+###### ARTÍCULO QUINTO.
+
+Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos a las Subprocuradurías Jurídica, de Derechos Humanos, Profesionalización y Proyectos, y de Investigaciones Especiales, Atención a Delitos Contra Mujeres por Razón de Género, Trata de Personas, Libertad de Expresión y Servicios a la Comunidad, se entenderán hechas a la Subprocuraduría Jurídica, de Derechos Humanos y de Investigaciones Especiales, de acuerdo a las atribuciones que se otorgan a ésta última mediante el presente Decreto.
+
+Asimismo todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos respecto de las siguientes unidades administrativas, se entenderán hechas conforme a las siguientes denominaciones:
+
+a) Dirección General de Atención y Protección a Víctimas y Testigos: Dirección General de Atención y Protección a Víctimas y Ofendidos.
+
+b) Dirección General de Medios Alternos de Solución de Conflictos: Dirección General de Mecanismos Alternativos de Solución de Controversias.
+
+c) Dirección de Control de Procesos en Materia de Delitos Electorales: Dirección de Control de Juicios y Constitucionalidad en Materia de Delitos Electorales.
+
+d) Dirección General de Política Criminal: Dirección de Política Criminal.
+
+###### ARTÍCULO SEXTO.
+
+Hasta en tanto no se constituya la Dirección General de Protección a Testigos y Terceros intervinientes en el Proceso Penal, la Dirección General de Atención y Protección a Víctimas y Ofendidos, desarrollará las atribuciones y asuntos que en materia de protección a testigos y terceros involucrados establecen las leyes a la extinta Dirección General de Atención y Protección a Víctimas y Testigos, y las demás que otros ordenamientos estipulen en ésta materia.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los nombramientos expedidos con anterioridad continuarán generando sus efectos hasta en tanto se expidan los nuevos, con todos los efectos legales y responsabilidades en ellos conferidos.
+
+###### ARTÍCULO OCTAVO.
+
+Los procedimientos en materia de ejecución de penas y medidas de seguridad que con anterioridad al inicio de vigencia del presente Decreto se estuviesen tramitando, continuarán substanciándose de acuerdo a la legislación vigente al momento de su inicio en todo aquello que no atente contra el debido proceso penitenciario y sea contario al presente decreto.
