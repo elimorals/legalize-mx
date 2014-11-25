@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-penales-para-el-estado-de-4832"
 country: "mx"
 rank: "codigo"
 publication_date: "1959-04-02"
-last_updated: "2013-12-03"
+last_updated: "2014-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "GUA"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUANAJUATO
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO Y TRANSITORIO TERCERO DEL DECRETO NÚMERO 192, PUBLICADO EN EL P.O. DE 25 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO SE INCORPORA AL RÉGIMEN JURÍDICO DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES QUE ENTRARÁ EN VIGOR DE MANERA INTEGRAL EN EL ESTADO DE GUANAJUATO, A PARTIR DEL DÍA 1 DE JUNIO DE 2016, Y SEGUIRÁ RIGIENDO PARA LOS ACTOS COMETIDOS Y LOS PROCEDIMIENTOS INICIADOS CON ANTERIORIDAD A LA VIGENCIA DEL CITADO CÓDIGO.</small>
+
 > <small>N. DE E. EL PRESENTE ORDENAMIENTO SERÁ ABROGADO PROGRESIVAMENTE POR LOS ARTÍCULOS PRIMERO Y TERCERO TRANSITORIOS DE LA LEY DEL PROCESO PENAL PARA EL ESTADO DE GUANAJUATO, PUBLICADA EN EL P.O. DE 3 DE SEPTIEMBRE DE 2010, POR LO QUE SE SUGIERE CONSULTARLOS AL FINAL DE ESTE ORDENAMIENTO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2014.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 2 de abril de 1959.
 
@@ -3299,7 +3301,7 @@ V.- Que el inculpado haya garantizado la reparación del daño.
 
 ###### Art. 407.
 
-Será igualmente puesto en libertad bajo protesta el inculpado, sin los requisitos del artículo anterior, cuando cumpla la pena impuesta en primera instancia, estando pendiente el recurso de apelación. Los tribunales acordarán de oficio la libertad de que trata este artículo; (sic)
+Será igualmente puesto en libertad bajo protesta el inculpado, sin los requisitos del artículo anterior, cuando cumpla la pena impuesta en primera instancia, estando pendiente el recurso de apelación. Los tribunales acordarán de oficio la libertad de que trata este artículo;
 
 ###### Art. 408.
 
@@ -3463,7 +3465,7 @@ IV.- Haber presentado querella o denuncia el funcionario, su cónyuge o sus pari
 
 > <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2011)</small>
 
-V.- Tener pendiente el funcionario, su cónyuge o sus parientes, en los grados que expresa la fracción I de este artículo, un juicio contra alguno de los interesados, o no haber transcurrido más de un año desde la fecha de la terminación del que hayan seguido, hasta la en que tome conocimiento del asunto;
+V.- Tener pendiente el funcionario, su cónyuge o sus parientes, en los grados que expresa la fracción I de este artículo, un juicio contra alguno de los interesados, o no haber transcurrido más de un año desde la fecha de la terminación del que hayan seguido, hasta la en (sic) que tome conocimiento del asunto;
 
 > <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2011)</small>
 
@@ -4516,3 +4518,31 @@ Artículo Único. El presente Decreto entrará en vigencia al cuarto día siguie
 P.O. 3 DE DICIEMBRE DE 2013.
 
 Artículo único. El presente Decreto entrará en vigencia al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE NOVIEMBRE DE 2014.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL DECRETO NÚMERO 192 QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
+
+DECRETO NÚMERO 192
+
+LA SEXAGÉSIMA SEGUNDA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, DECRETA:
+
+Artículo Único. Se expide la Declaratoria correspondiente al inicio de vigencia del Código Nacional de Procedimientos Penales en el Estado de Guanajuato, en los siguientes términos:
+
+Declaratoria
+
+Único. Para los efectos señalados en el Artículo Segundo Transitorio del Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el día 5 de marzo de 2014 y en atención a la solicitud formulada por la Comisión Estatal para la Implementación de la reforma en materia de Justicia Penal y de Seguridad Pública, se declara que el estado de Guanajuato se incorpora al régimen jurídico del Código Nacional de Procedimientos Penales que entrará en vigor de manera integral en el estado de Guanajuato, a partir del día 1 de junio de 2016.
+
+T R A N S I T O R I O S
+
+Inicio de vigencia
+
+Artículo Primero. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Notificaciones
+
+Artículo Segundo. Remítase copia del presente Decreto a los poderes públicos de la Federación, de las entidades federativas y del Distrito Federal, a los poderes Ejecutivo y Judicial, así como a los Órganos Autónomos del estado, para su conocimiento y efectos legales a que haya lugar, y a la Secretaría Técnica del Consejo de Coordinación para la Implementación del Sistema de Justicia Penal.
+
+Ultractividad
+
+Artículo Tercero. El Código de Procedimientos Penales para el Estado de Guanajuato y la Ley del Proceso Penal para el Estado de Guanajuato, seguirán rigiendo para los actos cometidos y los procedimientos iniciados con anterioridad a la vigencia del Código Nacional de Procedimientos Penales en el Estado de Guanajuato.
