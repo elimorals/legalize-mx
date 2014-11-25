@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2014-11-11"
+last_updated: "2014-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -415,7 +415,13 @@ IX.- Incurrir en responsabilidad por infracciones administrativas reiteradas o g
 
 X.- Haberse dictado en su contra auto de formal prisión o estar sujeto a juicio político; en estos casos la suspensión será temporal entre tanto se resuelve su situación jurídica.
 
-XI.- En general cuando exista un impedimento de hecho o de derecho que lo imposibilite para cumplir con su función.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+XI.- Expedir u otorgar autorizaciones, permisos y licencias que avalen o emitan la opinión favorable para la instalación u operación en territorio de su Municipio, de centros para operar la apertura y operación del cruce de apuestas en hipódromos, galgódromos, frontones, así como para la instalación de centros de apuestas remotas y de salas de sorteos de números o símbolos; y
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+XII.- En general cuando exista un impedimento de hecho o de derecho que lo imposibilite para cumplir con su función.
 
 ###### ARTICULO 39.
 
@@ -545,7 +551,9 @@ XX.- Fomentar las actividades productivas, educativas, culturales y deportivas.
 
 XXI.- Auxiliar a las autoridades federales y estatales en la aplicación de las disposiciones normativas correspondientes, así como en la atención de los servicios públicos encomendados a ellas.
 
-XXII.- Expedir licencias, permisos o autorizaciones en el ámbito de su competencia.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+XXII.- Expedir licencias, permisos o autorizaciones en el ámbito de su competencia, con excepción de aquellas que avalen o emitan opinión para la apertura u operación en territorio de su Municipio, de centros de cruce de apuestas en hipódromos, galgódromos, frontones, así como para la instalación de centros de apuestas remotas y de salas de sorteos de números o símbolos;
 
 XXIII.- Proveer en la esfera administrativa todo lo necesario para la creación, sostenimiento y desarrollo de los servicios públicos municipales.
 
@@ -642,6 +650,10 @@ XI.- Cobrar por sí o a través de empleado que no desempeñe cargo en la Tesore
 XII.- Condonar pago de contribuciones
 
 XIII.- Asumir cualquier otra conducta prohibida por las leyes.
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+XIV.- Expedir u otorgar autorizaciones, permisos y licencias que avalen o emitan la opinión favorable para la instalación u operación en territorio de su Municipio, de centros para operar la apertura y operación del cruce de apuestas en hipódromos, galgódromos, frontones, así como para la instalación de centros de apuestas remotas y de salas de sorteos de números o símbolos.
 
 > <small>(ADICIONADO, P.O. 14 DE MARZO DE 2001)</small>
 
@@ -3689,12 +3701,6 @@ Artículo Primero.- El presente Decreto entrará en vigor el día de su publicac
 
 Artículo Segundo.- Los Ayuntamientos que hubieren realizado disposiciones en materia de bonificación por pago anticipado o en relación a la situación personal de los contribuyentes durante el mes de enero del presente año podrán autorizar la adecuación de las previsiones correspondientes a lo dispuesto en este Decreto.
 
-P.O. 2 DE DICIEMBRE DE 2002.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NO. 99, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 55, FRACCIÓN XIX, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
-
-Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
 P.O. 2 DE OCTUBRE DE 2003.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -3710,6 +3716,10 @@ Primero.- El presente decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Se derogan todas las disposiciones que contravengan el presente decreto.
 
 P.O. 22 DE ABRIL DE 2004.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 99, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 55, FRACCIÓN XIX, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO UNICO.
 
@@ -4140,3 +4150,19 @@ P.O. 11 DE NOVIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado deberá expedir los lineamientos que contengan los procedimientos y requisitos para la emisión del documento que avale la instalación de centros para operar la apertura y operación del cruce de apuestas en hipódromos, galgódromos, frontones, así como para la instalación de centros de apuestas remotas y de salas de sorteos de números o símbolos, en territorio del Estado, a más tardar en el plazo de 15 días a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones jurídicas estatales que se opongan al presente Decreto.
+
+P.O. 2 DE DICIEMBRE DE 2002.
