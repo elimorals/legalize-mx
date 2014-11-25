@@ -4,7 +4,7 @@ identifier: "COA-ley-de-ejecucion-de-sanciones-penales-y-reinsercion-social-9037
 country: "mx"
 rank: "ley"
 publication_date: "2012-11-20"
-last_updated: "2013-04-12"
+last_updated: "2014-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90377&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE EJECUCIÓN DE SANCIONES PENALES Y REINSERCIÓN SOCIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el martes 20 de noviembre de 2012.
 
@@ -34,6 +34,22 @@ QUE EL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGO
 DECRETA:
 
 NÚMERO 106.-
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 634, PUBLICADO EN EL P.O. 25 DE NOVIEMBRE DE 2014, TODAS LAS DISPOSICIONES, MENCIONES Y REFERENCIAS QUE SE HAGAN EN ESTE DECRETO RESPECTO AL TÉRMINO "CÓDIGO DE PROCEDIMIENTOS PENALES" , SE ENTENDERÁN HECHAS AL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, EL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO EL 17 DE FEBRERO DE 2012, Y EL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO EL 25 DE MAYO DE 1999, DE ACUERDO AL ESQUEMA DE GRADUALIDAD DE LA IMPLEMENTACIÓN DEL SISTEMA PENAL ACUSATORIO ADVERSARIAL.</small>
+
+ASIMISMO, LAS REFERENCIAS QUE SE HAGAN A CARPETA DE INVESTIGACIÓN, EN LOS CASOS QUE RESULTE APLICABLE, SE ENTENDERÁN HECHAS A LA AVERIGUACIÓN PREVIA
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NÚMERO 634, PUBLICADO EN EL P.O. 25 DE NOVIEMBRE DE 2014, TODAS LAS DISPOSICIONES, MENCIONES Y REFERENCIAS QUE SE HAGAN EN LAS LEYES Y REGLAMENTOS A LAS SUBPROCURADURÍAS JURÍDICA, DE DERECHOS HUMANOS, PROFESIONALIZACIÓN Y PROYECTOS, Y DE INVESTIGACIONES ESPECIALES, ATENCIÓN A DELITOS CONTRA MUJERES POR RAZÓN DE GÉNERO, TRATA DE PERSONAS, LIBERTAD DE EXPRESIÓN Y SERVICIOS A LA COMUNIDAD, SE ENTENDERÁN HECHAS A LA SUBPROCURADURÍA JURÍDICA, DE DERECHOS HUMANOS Y DE INVESTIGACIONES ESPECIALES, DE ACUERDO A LAS ATRIBUCIONES QUE SE OTORGAN A ÉSTA ÚLTIMA MEDIANTE EL PRESENTE DECRETO.</small>
+
+ASIMISMO TODAS LAS DISPOSICIONES, MENCIONES Y REFERENCIAS QUE SE HAGAN EN LAS LEYES Y REGLAMENTOS RESPECTO DE LAS SIGUIENTES UNIDADES ADMINISTRATIVAS, SE ENTENDERÁN HECHAS CONFORME A LAS SIGUIENTES DENOMINACIONES:
+
+A) DIRECCIÓN GENERAL DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS Y TESTIGOS: DIRECCIÓN GENERAL DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS Y OFENDIDOS.
+
+B) DIRECCIÓN GENERAL DE MEDIOS ALTERNOS DE SOLUCIÓN DE CONFLICTOS: DIRECCIÓN GENERAL DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS.
+
+C) DIRECCIÓN DE CONTROL DE PROCESOS EN MATERIA DE DELITOS ELECTORALES: DIRECCIÓN DE CONTROL DE JUICIOS Y CONSTITUCIONALIDAD EN MATERIA DE DELITOS ELECTORALES,
+
+D) DIRECCIÓN GENERAL DE POLÍTICA CRIMINAL: DIRECCIÓN DE POLÍTICA CRIMINAL.
 
 LEY DE EJECUCIÓN DE SANCIONES PENALES Y REINSERCIÓN SOCIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
 
@@ -53,17 +69,21 @@ Esta ley tiene por objeto regular la ejecución de las penas y de las medidas de
 
 La Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Coahuila de Zaragoza, así como los tratados y convenios internacionales ratificados por nuestro país, constituyen el fundamento para la interpretación de esta ley.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 3.
 
 Jurisdiccionalidad garantista de la ejecución penal
 
-El juez de ejecución penal garantizará a través de un permanente control jurisdiccional la estricta observancia de los derechos humanos y garantías que conceden la Constitución de los Estados Unidos Mexicanos, la Constitución Política del Estado de Coahuila de Zaragoza, las leyes ordinarias y el Derecho Internacional de los Derechos Humanos de toda persona que se encuentre privada de su libertad.
+El juez de ejecución penal garantizará a través de un permanente control jurisdiccional la estricta observancia de los derechos humanos y garantías que conceden la Constitución de los Estados Unidos Mexicanos, la Constitución Política del Estado de Coahuila de Zaragoza, las leyes ordinarias, los tratados internacionales de los que el Estado Mexicano sea parte y el Derecho Internacional de los Derechos Humanos de toda persona que se encuentre privada de su libertad.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 4.
 
 Supletoriedad de la ley
 
-En todo lo no previsto por esta ley, se aplicará supletoriamente el Código Penal y el Código de Procedimientos Penales para el Estado de Coahuila de Zaragoza, siempre que no contravengan los principios que rigen a este ordenamiento.
+En todo lo no previsto por esta ley, se aplicará supletoriamente el Código Penal y el Código Nacional de Procedimientos Penales, siempre que no contravengan los principios que rigen a este ordenamiento.
 
 ###### Artículo 5.
 
@@ -73,7 +93,9 @@ Para los efectos de esta ley se entiende por:
 
 I. Código Penal. El Código Penal para el Estado de Coahuila de Zaragoza.
 
-II. Código Procesal. El Código de Procedimientos Penales para el Estado de Coahuila de Zaragoza.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+II. Código Procesal. Código Nacional de Procedimientos Penales.
 
 III. Juez de ejecución. Juez de ejecución penal.
 
@@ -81,13 +103,19 @@ IV. Ley. La Ley de Ejecución de Sanciones Penales y Reinserción Social para el
 
 V. Sistema. El Sistema Estatal Penitenciario.
 
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+VI. Defensor
+
 ###### Artículo 6.
 
 Principios que orientan a la ley y su aplicación
 
 Los principios que rigen la ejecución de penas, las medidas de seguridad y el sistema penitenciario son los siguientes:
 
-I. Debido proceso. La ejecución de las sanciones se realizará ajustándose a esta ley y a los términos de la sentencia dictada por la autoridad judicial, respetando las normas y valores consagrados en la Constitución Política de los Estados Unidos Mexicanos, en los instrumentos internacionales ratificados por el Estado Mexicano y en las leyes que de aquélla emanen, para alcanzar los objetivos del debido proceso, así como del sistema penitenciario previsto en el artículo 18 de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+I. Debido Proceso. La ejecución de las sanciones se realizará ajustándose al Código Procesal, a esta ley y a los términos de la sentencia dictada por la autoridad judicial, respetando las normas y valores consagrados en la Constitución Política de los Estados Unidos Mexicanos, en los instrumentos internacionales ratificados por el Estado Mexicano y en las leyes que de aquélla emanen, para alcanzar los objetivos del debido proceso, así como del sistema penitenciario previsto en el artículo 18 de la Constitución Política de los Estados Unidos Mexicanos.
 
 II. Dignidad e igualdad. La ejecución de las penas y medidas de seguridad se desarrollará respetando en todo caso, la dignidad humana de los sentenciados y sus derechos e intereses jurídicos no afectados por la sentencia, sin establecerse diferencia o discriminación alguna por origen étnico, raza, idioma, nacionalidad, género, edad, discapacidades, condición social, posición económica, condiciones de salud, credo o religión, opiniones, preferencias, estado civil u otras universalmente reconocidas como inaceptables con arreglo al derecho internacional.
 
@@ -109,17 +137,31 @@ Lo previsto en el párrafo anterior implica la limitación de ciertas garantías
 
 X. Especialidad. Los juzgados de ejecución deberán tener como única materia de conocimiento, el cumplimiento, modificación y duración de las penas y medidas de seguridad, así como la concesión, modificación, suspensión, sustitución o negativa de los beneficios o medidas previstas en esta ley.
 
-XI. Legalidad. Los jueces de ejecución y la autoridad penitenciaria deberán, en el ámbito de ejecución de la pena y en el proceso de reinserción social, fundar y motivar sus resoluciones y determinaciones en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, los tratados y convenios internacionales firmados por el Estado Mexicano, la presente ley y demás disposiciones aplicables a estas materias.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-Estos principios también se observarán en lo procedente con relación a los detenidos y procesados.
+XI. Legalidad. Los jueces de ejecución y la autoridad penitenciaria deberán, en el ámbito de ejecución de la pena y en el proceso de reinserción social, fundar y motivar sus resoluciones y determinaciones en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, los tratados y convenios internacionales firmados por el Estado Mexicano, en el Código Procesal, la presente ley y demás disposiciones aplicables a estas materias.
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+XII. Coordinación Interinstitucional. Los jueces y la autoridad administrativa penitenciaria se organizarán, en el ámbito de sus respectivas competencias, para el cumplimiento y aplicación de esta ley y demás normatividad aplicable, así como para la cooperación con las autoridades e instituciones que intervienen en la ejecución de las sanciones.
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+XIII. Perspectiva de Genero. La aplicación de esta ley se hará con una visión de estricto apego a los derechos humanos y perspectiva de género.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+Estos principios también se observarán en lo procedente con relación a los imputados.
 
 ## TÍTULO SEGUNDO. De la modificación y ejecución de sanciones penales
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 7.
 
 Trámite para su procedimiento
 
-Los procedimientos para la modificación y ejecución de las sanciones penales, se ajustarán en lo conducente a lo previsto en el presente Título.
+Los procedimientos para la modificación y ejecución de las sanciones penales, se ajustarán en lo conducente a lo previsto en el Código Procesal y el presente Título.
 
 ### CAPÍTULO PRIMERO. Disposiciones generales
 
@@ -203,7 +245,9 @@ II. Sustituir de oficio la pena de prisión por externamiento, a partir de que t
 
 III. Librar las órdenes de reaprehensión que procedan en ejecución de sentencia;
 
-IV. Resolver en audiencia oral, en los términos de la presente ley y supletoriamente, conforme al Código de Procedimientos Penales, todas las peticiones y planteamientos de las partes, relativos a la concesión, modificación, sustitución, suspensión o revocación de cualquier sustitutivo o beneficio concedido a los sentenciados por cualquier autoridad jurisdiccional;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+IV. Resolver en audiencia oral, en los términos de la presente ley y supletoriamente, conforme al Código Procesal, todas las peticiones y planteamientos de las partes, relativos a la concesión, modificación, sustitución, suspensión o revocación de cualquier sustitutivo o beneficio concedido a los sentenciados por cualquier autoridad jurisdiccional;
 
 V. Resolver sobre las solicitudes de traslación y adecuación de la pena o medida de seguridad;
 
@@ -241,11 +285,13 @@ XX. Atender los reclamos y quejas que formulen los internos sobre sanciones disc
 
 XXI. Las demás atribuciones que esta Ley y otros ordenamientos le confieran.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 15.
 
 Procedimiento de ejecución de penas y medidas de seguridad
 
-Para la ejecución de las penas y medidas de seguridad, el juez natural que dictó la sentencia, siempre que ésta haya causado ejecutoria, en el plazo de tres días, remitirá al juez de ejecución y a la autoridad penitenciaria, copia certificada de la misma junto con los datos de identificación del sentenciado, para efecto de su cumplimiento, cuando el sentenciado esté sujeto a prisión preventiva, el juez natural deberá poner a disposición del juez de ejecución al sentenciado, remitiéndole el registro donde conste su resolución, a efecto de integrar el expediente respectivo, dando inicio al procedimiento jurisdiccional de ejecución, para el debido cumplimiento de las sanciones impuestas.
+Para la ejecución de las penas y medidas de seguridad, el juez natural que dictó la sentencia, siempre que ésta haya causado ejecutoria, de conformidad con el Código Procesal, remitirá al juez de ejecución y a la autoridad penitenciaria, copia certificada de la misma junto con los datos de identificación del sentenciado, para efecto de su cumplimiento, cuando el sentenciado esté sujeto a prisión preventiva, el juez natural deberá poner a disposición del juez de ejecución al sentenciado, remitiéndole el registro donde conste su resolución, a efecto de integrar el expediente respectivo, dando inicio al procedimiento jurisdiccional de ejecución, para el debido cumplimiento de las sanciones impuestas.
 
 ###### Artículo 16.
 
@@ -273,11 +319,13 @@ Necesidad de audiencia para beneficios y su revocación
 
 Todas las peticiones o planteamientos de las partes relativos a la concesión, sustitución, suspensión, modificación o revocación de cualquier beneficio concedido a los sentenciados por una autoridad judicial y en aquellos casos en que deba resolverse sobre tratamiento preliberacional, libertad preparatoria, remisión parcial de la pena, libertad definitiva y todas aquellas peticiones que por su naturaleza o importancia requieran debate o producción de prueba, deberán necesariamente resolverse en audiencia oral por el juez de ejecución.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 20.
 
 Principios de la audiencia
 
-El juez de ejecución deberá llevar a cabo la audiencia sujetándose a los principios que rigen la audiencia de debate de juicio oral, siendo éstos; publicidad, contradicción, concentración, continuidad e inmediación. El juez decidirá por resolución fundada y motivada.
+El juez de ejecución deberá llevar a cabo la audiencia sujetándose a los principios que rigen la audiencia de debate de juicio oral, que se señalan en el Código Procesal. El juez decidirá por resolución fundada y motivada.
 
 ###### Artículo 21.
 
@@ -293,17 +341,21 @@ En las audiencias del procedimiento de ejecución es imprescindible la presencia
 
 La presencia de la víctima u ofendido no será requisito de validez para la celebración de la audiencia, cuando por cualquier circunstancia no pudiera comparecer, o no sea su deseo hacerlo y que quede constancia de ello.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 23.
 
 Prueba
 
-Si en las audiencias del procedimiento de ejecución se requiere producción de prueba con el fin de sustentar el otorgamiento, la revisión, sustitución, suspensión, modificación, revocación o cese de la pena o medida de seguridad impuesta, la parte oferente deberá ofrecerla con tres días de anticipación para los efectos de dar oportunidad a su contraria, para que tenga conocimiento de la misma y esté en aptitud de ofrecer prueba de su parte. La rendición de la prueba se llevará a cabo conforme a los requisitos establecidos para su desahogo en la etapa de debate de juicio oral.
+Si en las audiencias del procedimiento de ejecución se requiere producción de prueba con el fin de sustentar el otorgamiento, la revisión, sustitución, suspensión, modificación, revocación o cese de la pena o medida de seguridad impuesta, la parte oferente deberá ofrecerla con tres días de anticipación para los efectos de dar oportunidad a su contraria, para que tenga conocimiento de la misma y esté en aptitud de ofrecer prueba de su parte. La rendición de la prueba se llevará a cabo conforme a los requisitos establecidos para su desahogo en la etapa de debate de juicio oral, señalado en el Código Procesal.
 
 ###### Artículo 24.
 
 Actuación del juez de ejecución en la audiencia
 
-El juez de ejecución tendrá las facultades de dirección de debate y de disciplina en las audiencias que se desahoguen en el procedimiento de ejecución.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+El juez de ejecución valorará los medios de prueba rendidos en la audiencia, conforme al Código Procesal.
 
 El juez de ejecución valorará los medios de prueba rendidos en la audiencia, conforme a las reglas generales establecidas para las audiencias de debate de juicio oral.
 
@@ -333,7 +385,9 @@ V. La concesión del derecho de réplica y dúplica, quedará al arbitrio del ju
 
 VI. Las determinaciones sobre el fondo de la petición planteada deberán emitirse inmediatamente después de desahogadas las pruebas y concluido el debate, debiendo ser explicadas en audiencia pública. Excepcionalmente, en casos de extrema complejidad, el juez de ejecución podrá retirarse a deliberar su fallo, debiendo resolver en un plazo máximo de tres días, cuya motivación de igual forma será explicada en audiencia pública, previa citación de las partes que se encuentren presentes.
 
-VII. Todas las resoluciones deberán ajustarse a las reglas de valoración del Código de Procedimientos Penales, y constar por escrito en la causa, dentro de los tres días siguientes a la determinación.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+VII. Todas las resoluciones deberán ajustarse a las reglas de valoración del Código de Procesal y constar por escrito en la causa, dentro de los tres días siguientes a la determinación.
 
 VIII. El juez de ejecución procurará que las diligencias promovidas ante ellos se concluyan en una sola audiencia resolviendo la totalidad de las cuestiones debatidas en ellas, salvo que el cúmulo o la naturaleza de las pruebas que deban rendirse, los alegatos de las partes o la hora en que se practiquen las actuaciones, se tengan que suspender, lo cual podrá ocurrir por única ocasión, debiéndose celebrar su continuación dentro de los tres días siguientes.
 
@@ -495,7 +549,7 @@ La audiencia se celebrará con las partes que comparezcan, quienes podrán hacer
 
 Concluido el debate, el magistrado dictará de inmediato resolución, confirmando, revocando o modificando la resolución recurrida, y si ello no fuere posible, la emitirá dentro del plazo de cinco días siguientes a la celebración de la audiencia y la dará a conocer a los intervinientes.
 
-El Código de Procedimientos Penales será de aplicación supletoria en todo lo no previsto por la presente ley en cuanto a la actividad procesal de los jueces de ejecución y del magistrado de la sala colegiada penal que le toque conocer.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 43.
 
@@ -557,13 +611,17 @@ IX. El ministerio público, el interno y su defensor, así como el funcionario q
 
 X. Los medios de prueba ofrecidos se recibirán en la audiencia en el orden indicado por el oferente o en el orden que indique el juez de ejecución si las partes lo hubieren omitido.
 
-XI. El juez de ejecución para asegurar el orden en las audiencias o restablecerlo cuando hubiere sido alterado podrá aplicar como corrección disciplinaria cualquiera de las previstas en el Código de Procedimientos Penales.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+XI. El juez de ejecución para asegurar el orden en las audiencias o restablecerlo cuando hubiere sido alterado podrá aplicar cualquiera de las medidas previstas en el Código Procesal para resguardar la disciplina en las audiencias.
 
 XII. La audiencia será registrada por cualquier medio tecnológico de reproducción que tenga a su disposición el juez de ejecución, preferentemente en audio y video.
 
 XIII. Las resoluciones deberán emitirse inmediatamente después de concluido el debate. Excepcionalmente, en casos de extrema complejidad, el juez resolverá en un plazo máximo de veinticuatro horas.
 
-XIV. El juez de ejecución valorará la prueba desahogada en la audiencia libremente con aplicación estricta de las reglas de la lógica, los conocimientos científicos y las máximas de la experiencia a la luz de la sana crítica.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+XIV. El juez de ejecución valorará la prueba desahogada en la audiencia libremente con aplicación estricta de las reglas de la lógica, los conocimientos científicos y las máximas de la experiencia a la luz de la sana crítica y de conformidad a las disposiciones aplicables de valoración de la prueba que se señalan en el Código Procesal.
 
 XV. De la resolución pronunciada deberá entregarse copia certificada al centro o establecimiento penitenciario para su conocimiento y efectos legales.
 
@@ -609,7 +667,9 @@ Pruebas dentro del incidente
 
 Los medios de prueba ofrecidos se recibirán en la audiencia en el orden indicado por el oferente o en el orden que indique el juez de ejecución si las partes lo hubieren omitido.
 
-El juez de ejecución para asegurar el orden en las audiencias o restablecerlo cuando hubiere sido alterado podrá aplicar como corrección disciplinaria cualquiera de las previstas en el Código de Procedimientos Penales.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+El juez de ejecución para asegurar el orden en las audiencias o restablecerlo cuando hubiere sido alterado podrá aplicar como corrección disciplinaria cualquiera de las medidas previstas en el Código Procesal para tal efecto.
 
 ###### Artículo 52.
 
@@ -781,7 +841,7 @@ Los requisitos que deben satisfacerse para la procedencia de la remisión parcia
 
 I. Que no aparezca que a lo largo de su internación mostrara mala conducta reiterada. Sin embargo, el juez valorará las conductas de que se trate a efecto de negar o conceder el beneficio, y podrá diferir la remisión parcial, condicionada a que dentro del plazo que aquél fije, el sentenciado muestre buena conducta.
 
-II. Que el sentenciado haya participado regularmente en las actividades educativas, recreativas, culturales, deportivas o de otra índole que se organicen en el centro penitenciario o establecimiento penitenciario que le hayan asignado y hubiera estado en posibilidad de llevarlas a cabo, y (sic)
+II. Que el sentenciado haya participado regularmente en las actividades educativas, recreativas, culturales, deportivas o de otra índole que se organicen en el centro penitenciario o establecimiento penitenciario que le hayan asignado y hubiera estado en posibilidad de llevarlas a cabo, y
 
 III. En su caso, no aparezcan resultados negativos y concretos de evolución al tratamiento penitenciario imputables al sentenciado, mismos que serán proporcionados y motivados por el consejo técnico interdisciplinario y que indiquen su persistencia injustificada a no participar en el tratamiento asignado conforme a la ley.
 
@@ -937,11 +997,13 @@ El sistema penitenciario del Estado lo constituye el conjunto de principios, nor
 
 ### CAPÍTULO SEGUNDO. De las autoridades penitenciarias
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 84.
 
 Órganos de ejecución
 
-Corresponde al Ejecutivo del Estado, por conducto de la Secretaría de Seguridad Pública del Estado, a través de la Unidad Desconcentrada de Ejecución de Penas y Reinserción Social la operación del sistema penitenciario del Estado, así como la administración y dirección de los centros de internación, diagnóstico y tratamiento de adolescentes, en los términos de la ley de la materia.
+Corresponde al Ejecutivo del Estado, por conducto de la Secretaría de Gobierno, a través de la Unidad Desconcentrada de Ejecución de Penas y Reinserción Social la operación del sistema penitenciario del Estado, así como la administración y dirección de los centros de internación, diagnóstico y tratamiento de adolescentes, en los términos de la ley de la materia.
 
 ###### Artículo 85.
 
@@ -957,7 +1019,9 @@ II. Ejecutar, vigilar y coordinar las penas, sus modalidades y las medidas de se
 
 III. Organizar, supervisar y administrar los establecimientos penitenciarios en el Estado;
 
-IV. Elaborar y someter a consideración del Ejecutivo del Estado y del Secretario de Seguridad Pública, la normatividad y demás disposiciones de orden interno por las que habrán de regirse, así como vigilar su estricto cumplimiento;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+IV. Elaborar y someter a consideración del Ejecutivo del Estado y del Secretario de Gobierno la normatividad y demás disposiciones de orden interno por las que habrán de regirse, así como vigilar su estricto cumplimiento;
 
 V. Intercambiar, trasladar, custodiar, vigilar y brindar tratamiento a toda persona que fuere privada de su libertad por orden de las autoridades judiciales competentes, desde el momento de su ingreso a cualquier establecimiento;
 
@@ -973,11 +1037,15 @@ X. Proponer o, en su caso, hacer llegar al juez de ejecución las solicitudes de
 
 XI. Estudiar y presentar al juez de ejecución, para su aprobación, los informes que le rindan los consejos técnicos interdisciplinarios, sobre el otorgamiento de beneficios a cada interno;
 
-XII. Rendir un informe mensual al Secretario de Seguridad Pública del Estado, sobre las labores realizadas por la Unidad, sin perjuicio de que se le requiera información en cualquier momento,
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+XII. Rendir un informe mensual al Secretario de Gobierno, sobre las labores realizadas por la Unidad, sin perjuicio de que se le requiera información en cualquier momento,
 
 XIII. Las demás que otras leyes y reglamentos establezcan.
 
-El Titular de la Unidad Desconcentrada de Ejecución de Penas y Reinserción Social será nombrado y removido por el Gobernador del Estado, a propuesta del Secretario de Seguridad Pública del Estado.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+El Titular de la Unidad Desconcentrada de Ejecución de Penas y Reinserción Social será nombrado y removido por el Gobernador del Estado, a propuesta del Secretario de Gobierno.
 
 ###### Artículo 86.
 
@@ -1011,7 +1079,9 @@ I. Organizar y dirigir los centros penitenciarios a que se refiere esta ley, as�
 
 II. Con base en esta ley y conforme a las normas técnicas que estime pertinentes, planificar y hacer ejecutar los regímenes de estudio y diagnóstico, trabajo, educación, salud, recreación, deporte y disciplina, tendientes a lograr la reinserción social de los internos.
 
-III. Proponer al Secretario de Seguridad Pública del Estado los nombramientos, destituciones y autorización de licencias del personal de los centros de (sic) penitenciarios.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+III. Proponer al Secretario de Gobierno los nombramientos, destituciones y autorización de licencias del personal de los centros de (sic) penitenciarios.
 
 IV. La distribución o traslado de toda persona que sea privada de su libertad por orden de los Tribunales Judiciales del Estado, desde el momento de su ingreso a cualquier establecimiento a su cargo y mediante el auxilio de la Policía de conformidad a lo establecido en el artículo 720 del Código de Procedimientos Penales, así como por corporaciones federales cuándo sea necesario.
 
@@ -1023,7 +1093,9 @@ VII. Coadyuvar con el Patronato para el Fomento de la Industria Penitenciaria y 
 
 VIII. Crear, organizar y administrar el registro de población penitenciaria y proporcionar la información al Registro de Seguridad Pública del Estado.
 
-IX. Confeccionar las estadísticas penales del Estado y con base en sus resultados, proponer al Secretario de Seguridad Pública del Estado, la adopción de las medidas que estime pertinentes para la prevención general de la delincuencia y la represión del delito; y
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+IX. Confeccionar las estadísticas penales del Estado y con base en sus resultados, proponer al Secretario de Gobierno, la adopción de las medidas que estime pertinentes para la prevención general de la delincuencia y la represión del delito; y
 
 X. Las demás señaladas por ésta u otras leyes y los reglamentos aplicables.
 
@@ -1033,7 +1105,9 @@ Atribuciones de la Dirección de Ejecución de Penas
 
 La Unidad Desconcentrada de Ejecución de Penas y Reinserción Social, a través de la Dirección de Ejecución de Penas, tendrá a su cargo el ejercicio de las siguientes atribuciones:
 
-I. Proponer al Secretario de Seguridad Pública del Estado, los proyectos de reglamentos necesarios para la aplicación de la presente ley.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+I. Proponer al Secretario de Gobierno, los proyectos de reglamentos necesarios para la aplicación de la presente ley.
 
 II. Participar en los términos ordenados por el juez de ejecución, en la aplicación del tratamiento semi-institucional de preliberación.
 
@@ -1041,7 +1115,9 @@ III. Turnar al juez de ejecución para que éste a su vez, remita al Gobernador,
 
 IV. Coadyuvar con el Patronato para el Fomento de la Industria Penitenciaria y la Reincorporación de Liberados y Externados del Estado de Coahuila en el desempeño de sus funciones.
 
-V. Crear, organizar y administrar el sistema para capturar la información sobre procesados y sentenciados, población penitenciaria y antecedentes o no antecedentes penales, para su uso y para proporcionarla al Registro de Seguridad Pública del Estado, al juez de ejecución o a cualquier autoridad autorizada.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+V. Crear, organizar y administrar el sistema para capturar la información sobre imputados y sentenciados, población penitenciaria y antecedentes o no antecedentes penales, para su uso y para proporcionarla al Registro de Seguridad Pública del Estado, al juez de ejecución o a cualquier autoridad autorizada.
 
 VI. Dirigir, organizar, supervisar y controlar el funcionamiento y operación de las instalaciones, centros e instalaciones penitenciarios;
 
@@ -1069,13 +1145,17 @@ XVII. Realizar propuestas o hacer llegar las solicitudes de reconocimiento de be
 
 XVIII. Atender la petición de la autoridad competente para reubicar a internos a quienes deban aplicarse medidas especiales de protección, con motivo de la investigación o proceso correspondiente.
 
-XIX. Verificar y controlar el cumplimiento de la vigilancia personal y monitoreada a los procesados en libertad y preliberados.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+XIX. Verificar y controlar el cumplimiento de la vigilancia personal y monitoreada a los imputados que estén siendo procesados en libertad y preliberados.
 
 XX. Ejecutar, vigilar y coordinar el cumplimiento de las resoluciones de privación o restricción de la libertad, impuestas en el curso del proceso, en el lugar que designe el juez, o en el que se considere conveniente por razones de seguridad.
 
 XXI. Coadyuvar con el Patronato para el Fomento de la Industria Penitenciaria y la Reincorporación de Liberados y Externados del Estado de Coahuila en el desempeño de sus funciones.
 
-XXII. Crear, organizar y administrar el sistema para capturar la información sobre procesados y sentenciados, población penitenciaria y antecedentes o no antecedentes penales, para proporcionarla al Registro de Seguridad Pública del Estado y demás autoridades competentes o personas legitimadas.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+XXII. Crear, organizar y administrar el sistema para capturar la información sobre imputados y sentenciados, población penitenciaria y antecedentes o no antecedentes penales, para proporcionarla al Registro de Seguridad Pública del Estado y demás autoridades competentes o personas legitimadas.
 
 XXIII. La distribución o traslado de toda persona que sea privada de su libertad por orden de los tribunales y jueces del Estado, desde el momento de su ingreso a cualquier establecimiento a su cargo y mediante el auxilio de la Policía del Estado.
 
@@ -1105,11 +1185,13 @@ La Dirección de Ejecución de Penas dispondrá de un Departamento de Ejecución
 
 Para los efectos y el cumplimiento del presente artículo, la Dirección de Ejecución de Penas se auxiliará de los ayuntamientos a través de las direcciones de policías preventivas municipales, la que deberá proporcionar la información necesaria sobre aquellas personas que se encuentren gozando de algún beneficio y hayan incurrido en alguna falta administrativa conforme al reglamento municipal respectivo.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 92.
 
 Del Registro de Internos en el Estado
 
-El Registro de Internos en el Estado tendrá por objeto llevar un control permanente de todas las personas que se encuentren recluidas en los centros penitenciarios en el Estado, en su carácter de procesados o sentenciados, por delitos del orden común o federal; así como además de las personas que hayan obtenido su libertad provisional bajo caución en ambas jurisdicciones, además de aquellos que se encuentren gozando de algún beneficio o sustitutivo penal.
+El Registro de Internos en el Estado tendrá por objeto llevar un control permanente de todas las personas que se encuentren recluidas en los centros penitenciarios en el Estado, en su carácter de imputados o sentenciados, por delitos del orden común o federal; así como además de las personas que hayan obtenido su libertad provisional bajo caución en ambas jurisdicciones, además de aquellos que se encuentren gozando de algún beneficio o sustitutivo penal.
 
 ###### Artículo 93.
 
@@ -1125,13 +1207,17 @@ II. Integrar y tramitar con mayor celeridad los expedientes con motivo de las so
 
 Del Archivo General de Internos.
 
-Para los efectos de los artículos anteriores, la Dirección de Ejecución de Penas integrará un Archivo General de Internos, formando un expediente para cada uno de los procesados y sentenciados del orden común o federal, que se encuentren en cada establecimiento, el cuál deberá contener, según el caso:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+Para los efectos de los artículos anteriores, la Dirección de Ejecución de Penas integrará un Archivo General de Internos, formando un expediente para cada uno de los imputados y sentenciados del orden común o federal, que se encuentren en cada establecimiento, el cual deberá contener, según el caso:
 
 I. Copia del oficio que determine la detención legal.
 
 II. Copia del auto de término o reporte del mismo por parte del Director del centro respectivo, auto de libertad u orden expedida por el Director del centro en que se ordena la libertad por haberse excedido el término legal para resolver la situación jurídica del interno.
 
-III. Copia de la ficha de identificación de los procesados.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+III. Copia de la ficha de identificación de los imputados.
 
 IV. Copia del estudio clínico-criminológico.
 
@@ -1385,7 +1471,9 @@ El Director de cada centro penitenciario podrá solicitar al juez de ejecución 
 
 De los derechos de los internos
 
-Los internos procesados y sentenciados, sin perjuicio de los derechos establecidos en la Constitución Política de los Estados Unidos Mexicanos, tendrán derecho a:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+Los internos imputados y sentenciados, sin perjuicio de los derechos establecidos en la Constitución Política de los Estados Unidos Mexicanos, tendrán derecho a:
 
 I. A ejercer libremente los derechos civiles, sociales, económicos y culturales de que no hubieren sido privados en la sentencia penal y cuyo ejercicio sea compatible con el cumplimiento de la sanción, con el tratamiento dispuesto y con la seguridad y buen funcionamiento del centro.
 
@@ -1473,7 +1561,9 @@ XI. Acudir a las revisiones médicas y de salud mental periódicas determinadas 
 
 XII. Pagar la reparación del daño a la víctima u ofendido y contribuir al sustento de su familia y el propio, siempre que el nivel de seguridad, custodia e intervención se lo permita.
 
-XIII. Todas las obligaciones que deben cumplir los procesados y sentenciados serán con estricto apego y respeto a su dignidad humana.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+XIII. Todas las obligaciones que deben cumplir los imputados y sentenciados serán con estricto apego y respeto a su dignidad humana.
 
 ###### Artículo 117.
 
@@ -1663,19 +1753,21 @@ Las disposiciones relativas a la organización y régimen interno de los centros
 
 El régimen interno tiene como objeto garantizar la aplicación y observancia obligatoria de las normas de conducta por parte de los internos y de la población en general, tendiente a mantener el orden, el control y la disciplina en los centros, procurando una convivencia armónica y respetuosa.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 129.
 
-Del registro de procesados y sentenciados
+Del registro de imputados y sentenciados
 
-En todo establecimiento destinado a procesados y sentenciados, se llevará al día un libro de registro estampado y foliado. Dicho libro deberá contener:
+En todo establecimiento destinado a imputados y sentenciados, se llevará al día un libro de registro estampado y foliado. Dicho libro deberá contener:
 
-I. La identificación de los procesados o sentenciados, mediante la asignación antropométrica y en su caso, la ficha dactiloscópica.
+I. La identificación de los imputados y sentenciados, mediante la asignación antropométrica y en su caso, la ficha dactiloscópica.
 
 II. Los datos fundamentales de los actos de mayor importancia que sean comunicados por la autoridad judicial que conociere del caso; y
 
 III. El día y la hora, el motivo de su ingreso y salida y la autoridad que lo dispuso.
 
-La identificación a que se refiere el inciso a de este artículo, no tendrá otro objeto que el de facilitar la búsqueda de los antecedentes de los procesados. En todo caso, se deberán salvaguardar su intimidad y sus datos personales con base en la legislación correspondiente.
+La identificación a que se refiere el inciso a de este artículo, no tendrá otro objeto que el de facilitar la búsqueda de los antecedentes de los imputados. En todo caso, se deberán salvaguardar su intimidad y sus datos personales con base en la legislación correspondiente.
 
 ## TÍTULO SEXTO. Del sistema para la reinserción
 
@@ -1685,7 +1777,9 @@ La identificación a que se refiere el inciso a de este artículo, no tendrá ot
 
 Del sistema para la reinserción social
 
-El sistema para la reinserción social asegurará el respeto a los derechos humanos y tendrá carácter progresivo, técnico e individualizado, se aplicará a los sentenciados y, en lo conducente, a los procesados. Constará por lo que respecta a su desarrollo, de los períodos siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+El sistema para la reinserción social asegurará el respeto a los derechos humanos y tendrá carácter progresivo, técnico e individualizado, se aplicará a los sentenciados y, en lo conducente, a los imputados. Constará por lo que respecta a su desarrollo, de los períodos siguientes:
 
 I. Estudio y diagnóstico.
 
@@ -1829,7 +1923,9 @@ La educación
 
 Todo interno tendrá derecho, dentro del centro penitenciario, a realizar estudios de enseñanza básica en forma gratuita. Asimismo, la autoridad penitenciaria estará obligada a incentivar la enseñanza media superior y superior para procurar la reinserción, mediante convenios con instituciones educativas del sector público. Los programas educativos serán conforme a los planes y programas oficiales que autorice la autoridad penitenciaria de educación pública.
 
-Los procesados y sentenciados analfabetas o que no hubiesen concluido la enseñanza primaria y secundaria deberán seguir los cursos que correspondan en la escuela del centro. De acuerdo con lo anterior, toda persona que ingrese a un establecimiento penitenciario será sometida, conforme al examen pedagógico que se le practique, al régimen educacional que corresponda, sea de alfabetización o de educación primaria y secundaria siendo éstos obligatorios.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+Los imputados y sentenciados analfabetas o que no hubiesen concluido la enseñanza primaria y secundaria deberán seguir los cursos que correspondan en la escuela del centro. De acuerdo con lo anterior, toda persona que ingrese a un establecimiento penitenciario será sometida, conforme al examen pedagógico que se le practique, al régimen educacional que corresponda, sea de alfabetización o de educación primaria y secundaria siendo éstos obligatorios.
 
 Los internos podrán solicitar los servicios de educación privada para cursar estudios de licenciatura y post-grado siempre que el nivel de seguridad, custodia e intervención se lo permita. Los gastos estarán a cargo de la persona que legalmente los represente.
 
@@ -1907,7 +2003,7 @@ Las bases de la capacitación son:
 
 I. El adiestramiento y los conocimientos del propio oficio o actividad;
 
-II. La vocación del interno por lo que realiza, y (sic)
+II. La vocación del interno por lo que realiza, y
 
 III. La protección al medio ambiente.
 
@@ -1915,7 +2011,9 @@ IV. La capacitación para el trabajo de los internos tendrá una secuencia orden
 
 En la organización del trabajo, se atenderá en primer lugar, al rendimiento económico, pero en todo caso se tendrá en cuenta, dentro de las posibilidades industriales o agrícolas del establecimiento, la vocación y aptitud de los internos. En caso de que los internos carecieran de conocimientos sobre algún arte u oficio, éstos deberán ser impartidos dentro del centro penitenciario, ello con el objetivo de que puedan subvenir a sus necesidades.
 
-A los procesados y sentenciados se les estimulará con el trabajo, proporcionándoles en lo posible, los medios necesarios para la realización del mismo. En caso de que a los primeros se les dictase sentencia condenatoria, el tiempo que hayan trabajado se les tomará en consideración para los efectos de la remisión parcial de la sanción.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+A los imputados y sentenciados se les estimulará con el trabajo, proporcionándoles en lo posible, los medios necesarios para la realización del mismo. En caso de que a los primeros se les dictase sentencia condenatoria, el tiempo que hayan trabajado se les tomará en consideración para los efectos de la remisión parcial de la sanción.
 
 Tratándose de internos que realicen actividades artísticas o intelectuales, éstas podrán ocupar el mayor tiempo laborable de acuerdo con los horarios establecidos, sin perjuicio del tratamiento a que estén sometidos.
 
@@ -2134,3 +2232,49 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publi
 SEGUNDO.- El Consejo Consultivo de la Comisión deberá de realizar las adecuaciones al Reglamento Interior de la Comisión en un término de sesenta días después de la entrada en vigor del presente decreto.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 25 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
+
+###### ARTÍCULO SEGUNDO.
+
+Todas las disposiciones, menciones y referencias que se hagan en este decreto respecto al término "Código de Procedimientos Penales", se entenderán hechas al Código Nacional de Procedimientos Penales, el Código de Procedimientos Penales del Estado de Coahuila de Zaragoza, publicado en el Periódico Oficial del Gobierno del Estado el 17 de febrero de 2012, y el Código de Procedimientos Penales del Estado de Coahuila de Zaragoza, publicado en el Periódico Oficial del Gobierno del Estado el 25 de mayo de 1999, de acuerdo al esquema de gradualidad de la implementación del Sistema Penal Acusatorio Adversarial.
+
+Asimismo, las referencias que se hagan a (sic) carpeta de investigación, en los casos que resulte aplicable, se entenderán hechas a la averiguación previa.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Dentro de los 60 días hábiles siguientes a la entrada en vigor del presente decreto, deberá emitirse o modificarse el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Coahuila de Zaragoza.
+
+###### ARTÍCULO QUINTO.
+
+Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos a las Subprocuradurías Jurídica, de Derechos Humanos, Profesionalización y Proyectos, y de Investigaciones Especiales, Atención a Delitos Contra Mujeres por Razón de Género, Trata de Personas, Libertad de Expresión y Servicios a la Comunidad, se entenderán hechas a la Subprocuraduría Jurídica, de Derechos Humanos y de Investigaciones Especiales, de acuerdo a las atribuciones que se otorgan a ésta última mediante el presente Decreto.
+
+Asimismo todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos respecto de las siguientes unidades administrativas, se entenderán hechas conforme a las siguientes denominaciones:
+
+a) Dirección General de Atención y Protección a Víctimas y Testigos: Dirección General de Atención y Protección a Víctimas y Ofendidos.
+
+b) Dirección General de Medios Alternos de Solución de Conflictos: Dirección General de Mecanismos Alternativos de Solución de Controversias.
+
+c) Dirección de Control de Procesos en Materia de Delitos Electorales: Dirección de Control de Juicios y Constitucionalidad en Materia de Delitos Electorales.
+
+d) Dirección General de Política Criminal: Dirección de Política Criminal.
+
+###### ARTÍCULO SEXTO.
+
+Hasta en tanto no se constituya la Dirección General de Protección a Testigos y Terceros intervinientes en el Proceso Penal, la Dirección General de Atención y Protección a Víctimas y Ofendidos, desarrollará las atribuciones y asuntos que en materia de protección a testigos y terceros involucrados establecen las leyes a la extinta Dirección General de Atención y Protección a Víctimas y Testigos, y las demás que otros ordenamientos estipulen en ésta materia.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los nombramientos expedidos con anterioridad continuarán generando sus efectos hasta en tanto se expidan los nuevos, con todos los efectos legales y responsabilidades en ellos conferidos.
+
+###### ARTÍCULO OCTAVO.
+
+Los procedimientos en materia de ejecución de penas y medidas de seguridad que con anterioridad al inicio de vigencia del presente Decreto se estuviesen tramitando, continuarán substanciándose de acuerdo a la legislación vigente al momento de su inicio en todo aquello que no atente contra el debido proceso penitenciario y sea contario al presente decreto.
