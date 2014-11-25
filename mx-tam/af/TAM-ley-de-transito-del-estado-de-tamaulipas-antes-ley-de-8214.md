@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transito-del-estado-de-tamaulipas-antes-ley-de-8214"
 country: "mx"
 rank: "ley"
 publication_date: "1987-11-30"
-last_updated: "2010-12-21"
+last_updated: "2014-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # LEY DE TRANSITO DEL ESTADO DE TAMAULIPAS - ANTES LEY DE TRANSITO Y TRANSPORTE -
 
-LEY DE TRANSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS
+LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
 > <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS, SE DEROGA LO REFERENTE A TRANSPORTE PÚBLICO, PUBLICADO EN EL P.O. DEL 12 DE FEBRERO DE 2002]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el lunes 30 de noviembre de 1987.
 
@@ -105,7 +105,7 @@ VI. Las demás atribuciones que ésta y otras disposiciones legales les asignen.
 
 Cuando en este ordenamiento se utilice la palabra Secretaría, se refiere a la de Seguridad Pública del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 5º.
 
@@ -207,7 +207,7 @@ Es obligación de las autoridades de tránsito poner a disposición de la depend
 
 Una vez satisfechos dichos requisitos, se autorizará su circulación, previo pago de las infracciones a que se hiciera merecedor.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 15.
 
@@ -290,6 +290,12 @@ III. Conducir llevando en sus manos, brazos o regazo, a personas, animales o bul
 ###### ARTICULO 20.
 
 Queda prohibida la circulación de vehículos que constituyan peligro para sus conductores, pasajero o los peatones; así como los que dañen las vías públicas o contaminen el ambiente. En estos casos se estará a lo ordenado en el Artículo 24 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+ARTICULO 20 BIS.- Queda prohibida la circulación de vehículos con cristales, parabrisas o ventanas, rotos o estrellados, o que tengan en los mismos, rótulos, carteles, micas, tintes, pinturas, polarizados y toda clase de objetos que obstruyan la visibilidad del conductor o que impidan a las autoridades encargadas de seguridad pública, tránsito y vialidad, la visión al interior de los vehículos.
+
+Se exceptúa de lo anterior si tales aditamentos provienen de fábrica, o bien, cuenten con los permisos y la documentación correspondiente o expedidos por las autoridades competentes para tales efectos.
 
 ### CAPITULO IV. DE LA REVISION MECANICA
 
@@ -479,7 +485,7 @@ Los Ayuntamientos, a través de la dependencia competente, podrán autorizar a l
 
 ###### ARTICULO 49.
 
-Al infractor de la presente ley o de las disposiciones reglamentarias del Estado o las de los municipios, según sea el caso, se deriven se le podrá aplicar, de acuerdo a la gravedad de la falta, una o varias de las sanciones siguientes: (sic)
+Al infractor de la presente ley o de las disposiciones reglamentarias del Estado o las de los municipios, según sea el caso, se deriven se le podrá aplicar, de acuerdo a la gravedad de la falta, una o varias de las sanciones siguientes:
 
 I. Suspensión, cancelación o retiro de licencia de conducir.
 
@@ -493,7 +499,7 @@ V. Arresto hasta por 36 horas.
 
 VI. Trabajo a favor de la comunidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
 ARTICULO 49 BIS.- Sin demérito del ejercicio de las atribuciones reglamentarias de los Ayuntamientos del Estado por cuanto hace a su circunscripción, así como la especificación de diversas infracciones, considerarán como mínimo las sanciones previstas en este artículo por las acciones referidas, pudiendo incrementarlas si así lo consideran, pero en ningún caso serán inferiores a lo aquí establecido. Al efecto, por las siguientes conductas se impondrán las siguientes sanciones:
 
@@ -547,6 +553,14 @@ IV.- Arresto administrativo de 8 hasta por 16 horas, a quien infrinja lo estable
 
 V.- Trabajo a favor de la comunidad. Esta sanción se impondrá en jornadas máximas de 8 horas, sin afectar horarios de escuela o de labores, si se tratara de estudiantes o trabajadores, respectivamente.
 
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+VI.- Detención del vehículo automotor y su remisión a las instituciones de resguardo que correspondan, de 24 hasta 72 horas y multa de hasta 2 días de salario, a quien infrinja lo establecido en el artículo 20 Bis de esta Ley, o sus relativos en el Reglamento estatal o municipal de que se trate.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+No obstante lo establecido en la fracción VI del presente artículo, no será remitido a las instituciones de resguardo el vehículo en caso de que su propietario o el conductor del mismo retire el objeto que obstruya la visibilidad del conductor; o impida la visión al interior del vehículo, en el momento que la autoridad correspondiente se lo solicite, lo anterior sin demérito de la aplicación de la multa correspondiente.
+
 > <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 50.
@@ -561,7 +575,7 @@ Sin demérito del monto de tarifas que por multa prevé esta ley a los infractor
 
 En el ejercicio de sus atribuciones reglamentarias privilegiarán el cumplimiento de los preceptos constitucionales.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE MARZO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE MARZO DE 2007)</small>
 
 ### CAPITULO XI. DE LA PARTICIPACION CIUDADANA
 
@@ -627,7 +641,7 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, capital del Estado de Tamaulipas, a los doce días del mes de noviembre de mil novecientos ochenta y siete.- El Gobernador Constitucional del Estado, ING. AMERICO VILLARREAL GUERRA.- El Secretario General de Gobierno, LIC. HERIBERTO BATRES GARCIA.- Rúbricas.
 
-> <small>N.DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 29 DE DICIEMBRE DE 1993.
 
@@ -724,3 +738,17 @@ P.O. 21 DE DICIEMBRE DE 2010.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo no mayor a 60 días a partir de la entrada en vigor del presente Decreto, el Gobernador del Estado y los Ayuntamientos, deberán realizar las modificaciones necesarias a los Reglamentos Estatal o Municipales correspondientes, a efecto de armonizarlos con este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan el presente Decreto.
