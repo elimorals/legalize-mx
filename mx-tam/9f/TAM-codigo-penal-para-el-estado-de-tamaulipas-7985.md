@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2014-07-09"
+last_updated: "2014-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -1817,7 +1817,7 @@ Se impondrá de tres días a dos meses de prisión:
 
 I.- Al sentenciado sometido a vigilancia de la policía que no administre a ésta los informes que se le pida sobre su conducta;
 
-II.- A aquél a quien se hubiere prohibido ir a (sic) determinado lugar o residir en él, si violare la prohibición.
+II.- A aquél a quien se hubiere prohibido ir a determinado lugar o residir en él, si violare la prohibición.
 
 ###### ARTICULO 167.
 
@@ -1943,7 +1943,7 @@ ARTICULO 171 SEXTIES.- Para los efectos del artículo anterior se entiende por b
 
 Comete el delito de ataques a las vías de comunicación y utilización indebida de los sistemas de auxilio a la población:
 
-I.- El que obstruya, dañe o destruya alguna vía pública de comunicación estatal o cualquier medio de transporte público local, sea de pasajeros o de carga, interrumpiendo o dificultando los servicios de uno u otro; y (sic)
+I.- El que obstruya, dañe o destruya alguna vía pública de comunicación estatal o cualquier medio de transporte público local, sea de pasajeros o de carga, interrumpiendo o dificultando los servicios de uno u otro; y
 
 II.- El que quite, corte, deteriore, apague, cambie o destruya las señales o luces de seguridad de una vía pública de comunicación estatal o coloque alguna no autorizada.
 
@@ -3959,7 +3959,9 @@ El automovilista, motorista, conductor de un vehículo cualquiera, ciclista o ji
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-### CAPITULO II
+### CAPITULO II. DESAPARICION FORZADA DE PERSONAS
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ### CAPITULO III. RAPTO
 
@@ -4143,7 +4145,7 @@ I.- Al que obligue a otro a prestarle trabajos o servicios personales sin la ret
 
 II.- Al que celebre con otro un contrato que prive a éste de la libertad, o le imponga condiciones que lo constituyan en una especie de servidumbre o se apodere de una persona y la entregue a otra con el objeto de que ésta celebre contrato.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ### CAPITULO IX. REGLAS COMUNES PARA LOS CAPITULOS PRECEDENTES
 
@@ -4155,25 +4157,59 @@ II.- Al que celebre con otro un contrato que prive a éste de la libertad, o le 
 
 ###### ARTICULO 391.
 
-(DEROGADO, P.O. 7 DE JUNIO DE 2013)
+Comete el delito de desaparición forzada de personas el servidor público estatal o municipal, o el particular que actuando con la autorización, apoyo, consentimiento, conocimiento o dirección de aquél; detenga, arreste, aprehenda o prive de la libertad en cualquier otra forma a una persona o facilite tal privación, seguida de la negativa a reconocer dicha privación de la libertad o del ocultamiento del paradero de la víctima, con lo cual se impide el ejercicio de recursos legales y las garantías procesales procedentes.
 
-ARTICULO 391 BIS.- (DEROGADO, P.O. 7 DE JUNIO DE 2013)
+Si durante la comisión del delito se cometiere otro en contra de la víctima, se aplicarán las reglas del concurso.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+ARTICULO 391 BIS.- A quien cometa el delito de desaparición forzada de personas se le impondrá una pena de quince a cuarenta años de prisión y multa de cuatro mil a ocho mil días de salario.
+
+Al servidor público que haya sido condenado por el delito de desaparición forzada de personas, además se le destituirá del cargo y se le inhabilitará de cinco a veinte años para desempeñar cualquier cargo, comisión o empleo públicos.
+
+A los servidores públicos que teniendo a su cargo la investigación del delito de desaparición forzada de personas, o sus auxiliares, que evidentemente la obstruyan o eviten hacerla, se le aplicará pena de cinco a diez años de prisión y multa de doscientos a cuatrocientos días de salario, además de la inhabilitación de cinco a quince años para el ejercicio de cargos públicos.
 
 ARTICULO 391 TER.- (DEROGADO, P.O. 7 DE JUNIO DE 2013)
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTICULO 392.
 
-(DEROGADO, P.O. 7 DE JUNIO DE 2013)
+Si la víctima fuere liberada espontáneamente dentro de los tres días siguientes a su detención la pena será de ocho meses a cuatro años de prisión, sin perjuicio de aplicar la que corresponda a actos ejecutados u omitidos que constituyan por sí mismo delitos.
 
-ARTICULO 392 BIS.- (DEROGADO, P.O. 7 DE JUNIO DE 2013)
+Si la liberación ocurriera dentro de los diez días siguientes a su detención, la pena aplicable será de dos a ocho años de prisión, sin perjuicio de aplicar la que corresponda a actos ejecutados u omitidos que constituyan por sí mismo delitos.
 
-ARTICULO 392 TER.- (DEROGADO, P.O. 7 DE JUNIO DE 2013)
+Estas penas podrán ser disminuidas hasta una tercera parte en beneficio de aquel que hubiere participado en la comisión del delito, cuando suministre información que permita esclarecer los hechos, y hasta en una mitad, cuando contribuya a lograr la aparición con vida de la víctima.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+ARTICULO 392 BIS.- Al responsable de la comisión del delito de desaparición forzada de personas, se le incrementará la pena de prisión en una mitad de la que le corresponda, cuando:
+
+I.- Sea superior jerárquico del servidor público que participe en la comisión del delito y haya tenido conocimiento del mismo y no ejerza su autoridad para evitarlo;
+
+II.- El sujeto pasivo del delito sea persona con discapacidad, migrante, menor de dieciocho o mayor de sesenta años, indígena, o mujer embarazada;
+
+III.- Se cometa con el propósito de ocultar o asegurar la impunidad de otro delito; o
+
+IV.- Se cometa como parte de un ataque generalizado o sistemático contra una población civil y con conocimiento del mismo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+ARTICULO 392 TER.- En ningún caso y bajo ninguna circunstancia serán excluyentes o atenuantes de responsabilidad para cometer el delito de desaparición forzada de personas, la obediencia por razones de jerarquía, así como las órdenes o instrucciones recibidas por superiores.
+
+No podrán invocarse circunstancias de excepción como inseguridad pública, de inestabilidad política interna o cualquier otra emergencia, como causa de justificación o inculpabilidad para cometer el delito de desaparición forzada de personas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] Y REUBICADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 393.
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
+Se impondrá de cuatro a doce años de prisión y multa de trescientos a quinientos días de salario, y en caso de ser servidor público se le impondrá también la inhabilitación de cuatro a doce años para el desempeño de cualquier cargo, empleo o comisión públicos, a quien:
+
+I.- Teniendo conocimiento de la comisión del delito de desaparición forzada de personas, sin concierto previo, ayude a eludir la aplicación de la justicia o a entorpecer la investigación del mismo; o
+
+II.- Conociendo los planes para la comisión del delito de desaparición forzada de personas, sin ser partícipe, no diere aviso a la autoridad.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ### CAPITULO UNICO
 
@@ -5710,6 +5746,12 @@ P.O. 1 DE JULIO DE 2014.
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado
 
 P.O. 9 DE JULIO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE NOVIEMBRE DE 2014.
 
 ###### ARTÍCULO ÚNICO.
 
