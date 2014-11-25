@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-penales-para-el-estado-de-7994"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-17"
-last_updated: "2014-10-30"
+last_updated: "2014-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TAMAULIPAS
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO LXII-232 MEDIANTE EL CUAL SE EMITE LA DECLARATORIA DE ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, PUBLICADA EN EL P.O. DE 1 DE MAYO DE 2014, EL PRESENTE ORDENAMIENTO PARA EFECTOS DE SU APLICACIÓN EN LOS PROCEDIMIENTOS PENALES INICIADOS POR LOS DELITOS MENCIONADOS EN LA FRACCIÓN I DEL ARTÍCULO ÚNICO DEL PRESENTE DECRETO QUEDARÁ ABROGADO; SIN EMBARGO, RESPECTO A LOS PROCEDIMIENTOS PENALES QUE A LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO SE ENCUENTREN EN TRÁMITE, CONTINUARÁN SU SUSTANCIACIÓN DE CONFORMIDAD CON LA LEGISLACIÓN APLICABLE EN EL MOMENTO DEL INICIO DE LOS MISMOS.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2014.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 30 DE OCTUBRE DE 2014 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO LXII-275 PUBLICADO EN EL P.O. DE 28 DE OCTUBRE DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 17 de enero de 1987.
 
@@ -1087,7 +1085,9 @@ e) Abandono de personas, cuando se trate de menores de 12 años, establecido en 
 
 XI.- De los delitos contra la seguridad en el goce de garantías.
 
-a) (DEROGADO, P.O. 7 DE JUNIO DE 2013)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+a) Desaparición Forzada de Personas, contemplado en el artículo 391.
 
 XII.- De los delitos contra el patrimonio de las personas.
 
@@ -5154,3 +5154,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Los procedimientos de queja administrativa que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, deberán concluir conforme al procedimiento con el que hayan dado comienzo.
+
+P.O. 25 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
