@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-escolar-de-escuelas-de-artes-y-oficios-del-69615"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-07-15"
-last_updated: "2009-07-15"
+last_updated: "2014-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "MEX"
 
 REGLAMENTO ESCOLAR ESCUELAS DE ARTES Y OFICIOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO ESCOLAR DE LAS ESCUELAS DE ARTES Y OFICIOS DEL INSTITUTO DE CAPACITACIÓN Y ADIESTRAMIENTO PARA EL TRABAJO INDUSTRIAL, PUBLICADO EN LA G.G. DE 25 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE NOVIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el miércoles 15 de julio de 2009.
 
@@ -261,3 +263,31 @@ MVZ. Mauricio González García
 Director Técnico - Académico
 
 (Rúbrica).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 25 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Reglamento en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente ordenamiento entrara en vigor a partir del día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Reglamento Escolar de las Escuelas de Artes y Oficios publicado en el Periódico Oficial “Gaceta del Gobierno” el 15 de julio de 2009.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan las demás disposiciones legales de igual o menor jerarquía que (sic) opongan a lo establecido en el presente Reglamento.
+
+###### ARTÍCULO QUINTO.
+
+Todos aquellos casos no previstos en el presente Reglamento serán sujetos de análisis del Consejo de Administración del Instituto de Capacitación y Adiestramiento para el Trabajo Industrial (I.C.A.T.I.).
+
+###### ARTÍCULO SEXTO.
+
+Los asuntos y procedimientos que se hayan iniciado con anterioridad a la entrada en vigor del presente Reglamento continuaran su trámite hasta su resolución final conforme a las disposiciones aplicables a su inicio.
