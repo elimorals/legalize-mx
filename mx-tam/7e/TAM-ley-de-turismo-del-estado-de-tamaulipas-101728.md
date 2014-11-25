@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-turismo-del-estado-de-tamaulipas-101728"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2014-07-03"
+last_updated: "2014-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TURISMO DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 3 de julio de 2014.
 
@@ -773,9 +773,21 @@ III. Respetar los reglamentos de uso y régimen interior de los servicios turís
 
 IV. Efectuar el pago de los servicios prestados en el momento de la presentación de la factura o en su caso, en el tiempo y lugar convenidos, sin que el hecho de presentar una reclamación o queja exima del citado pago;
 
-V. Respetar el entorno natural y cultural de los sitios en que realice sus actividades turísticas; y
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-VI. Cualquier otra que contemple la Ley General, la Ley, su Reglamento u otras disposiciones aplicables.
+V. Respetar el entorno natural y cultural de los sitios en que realicen sus actividades turísticas;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+VI. Presentar al prestador de servicios turísticos identificación oficial al momento de su registro, y en su caso el número de identificación vehicular (placas);
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+VII. Proporcionar al prestador de servicios turísticos los datos de entrada, permanencia y salida de los establecimientos donde se encuentra alojado; y
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+VIII. Cualquier otra que contemple la Ley General, la Ley, su Reglamento u otras disposiciones aplicables.
 
 ###### ARTÍCULO 71.
 
@@ -817,9 +829,27 @@ VII. Contar con medidas de seguridad informáticas necesarias para realizar la c
 
 VIII. Optimizar el uso del agua y energéticos en sus instalaciones, así como disminuir, en tanto sea posible, la generación de desechos sólidos;
 
-IX. Inscribirse en el Registro Estatal de la Actividad Turística; y
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-X. Las demás que se señalen en esta Ley y en la demás normatividad aplicable.
+IX. Inscribirse en el Registro Estatal de la Actividad Turística;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+X. Proporcionar a la Secretaría y demás autoridades en materia de turismo, la información y datos que se les requiera, con motivo del desempeño de sus funciones. Así mismo, deberá proporcionar a las autoridades estatales en materia de seguridad pública y procuración de justicia la información descrita en el artículo 72 BIS de esta Ley; y
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+XI. Las demás que se señalen en esta Ley y en la demás normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+ARTICULO 72 BIS.
+
+1. Los prestadores de servicios turísticos que tengan bajo su responsabilidad la administración y manejo de un hotel, motel, casa de hospedaje o algún otro establecimiento donde se preste alojamiento mediante el pago de una retribución, deberán exigir a quienes pretendan hospedarse y éstos tendrán obligación a presentar identificación oficial al momento de su registro, y en su caso el número de identificación vehicular (placas) o en caso de no contar con este, las características y número de serie del vehículo. El prestador de servicios formará una base datos observando lo establecido en la Ley Federal de Protección de Datos Personales en Posesión de Particulares, información que proporcionará a las autoridades estatales en materia de seguridad pública y procuración de justicia, de forma inmediata cuando se les requiera.
+
+2. La información que deberán proporcionar los prestadores de servicios a que se refiere este artículo, consiste en el nombre completo del huésped o huéspedes, en caso de ser varios en una misma habitación y el tipo y número de folio o clave de la identificación oficial así como los datos de entrada, permanencia y salida de los mismos.
+
+3. Podrán requerir información en los términos de este artículo, quienes sean titulares de la Secretaría de Seguridad Pública y de la Procuraduría General de Justicia del Estado, los subsecretarios o subprocuradores respectivamente, o aquellos funcionarios que sean autorizados para tal efecto por los titulares, mediante acuerdo general publicado en el Periódico Oficial del Gobierno del Estado, la información que obtengan será reservada conforme a los dispuesto en el artículo 28 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas.
 
 ###### ARTÍCULO 73.
 
@@ -869,9 +899,17 @@ III. Cumplir con los servicios, precios, tarifas y promociones, en los términos
 
 IV. Contar con los formatos foliados y de porte pagado en el sistema de quejas de turistas, en los términos de las normas correspondientes;
 
-V. Conservar en las mejores condiciones de higiene y eficiencia en los locales, instalaciones y equipos que se ofrecen al turista; y
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-VI. Observar las disposiciones legales existentes en materia de turismo, salud, prevención y protección al consumidor.
+V. Conservar en las mejores condiciones de higiene y eficiencia en los locales, instalaciones y equipos que se ofrecen al turista;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+VI. Conservar hasta por 72 meses el Registro de Turistas señalado en el artículo 72 BIS de la presente Ley; y
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+VII. Observar las disposiciones legales existentes en materia de turismo, salud, prevención y protección al consumidor.
 
 ###### ARTÍCULO 79.
 
@@ -948,3 +986,11 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los veintiséis días del mes de junio del año dos mil catorce.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EGIDIO TORRE CANTÚ.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HERMINIO GARZA PALACIOS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
