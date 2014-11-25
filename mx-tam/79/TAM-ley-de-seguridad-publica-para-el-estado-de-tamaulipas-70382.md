@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-seguridad-publica-para-el-estado-de-tamaulipas-70382"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-27"
-last_updated: "2014-06-26"
+last_updated: "2014-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70382&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2014.
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO No. LXI-586, PUBLICADO EN EL P.O. 18 DE DICIEMBRE DE 2012, TODA MENCIÓN, O REFERENCIA QUE SE HAGA DE LA "SUBSECRETARÍA DE REINSERCIÓN SOCIAL Y DE LA COORDINACIÓN GENERAL DE REINSERCIÓN SOCIAL Y EJECUCIÓN DE SANCIONES O DE SUS TITULARES", EN CUALQUIER DISPOSICIÓN JURÍDICA DEL ESTADO, SE ENTENDERÁ HECHA A LA "SUBSECRETARÍA DE EJECUCIÓN DE SANCIONES Y REINSERCIÓN SOCIAL Y A SU TITULAR, EL SUBSECRETARIO DE EJECUCIÓN DE SANCIONES Y REINSERCIÓN SOCIAL".</small>
 
@@ -143,7 +143,7 @@ Son autoridades estatales en materia de seguridad pública:
 
 I. El Gobernador del Estado;
 
-II.- (DEROGADA, P.O. 27 DE MARZO DE 2012)
+II. (DEROGADA, P.O. 27 DE MARZO DE 2012)
 
 III. El Secretario de Seguridad Pública;
 
@@ -159,17 +159,17 @@ VII. El Subsecretario de Ejecución de Sanciones y Reinserción Social;
 
 > <small>(REFORMADA, P.O. 27 DE MARZO DE 2012)</small>
 
-VIII.- El Subsecretario de Operación Policial;
+VIII. El Subsecretario de Operación Policial;
 
 IX. El Director de la Policía Ministerial;
 
 X. El Director de Reintegración Social y Familiar del Adolescente;
 
-XI.- (DEROGADA, P.O. 27 DE MARZO DE 2012)
+XI. (DEROGADA, P.O. 27 DE MARZO DE 2012)
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-XII.- El Coordinador General del Instituto de Reclutamiento y Formación Policial de Tamaulipas; y
+XII. Rector de la Universidad de Seguridad y Justicia de Tamaulipas; y
 
 XIII. Las demás que con ese carácter determine la ley.
 
@@ -869,9 +869,9 @@ II. Prevenir la comisión de faltas administrativas, conductas antisociales o de
 
 III. Prestar auxilio a la población en caso de siniestros, accidentes o desastres naturales, en coordinación con las instancias de protección civil;
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-IV.- Participar en los cursos de promoción, actualización y especialización que instrumente el Instituto de Reclutamiento y Formación Policial;
+IV. Participar en los cursos de promoción, actualización y especialización que instrumente la Universidad de Seguridad y Justicia de Tamaulipas;
 
 V. Supervisar la observancia y cumplimiento de los bandos, reglamentos y demás disposiciones en materia de seguridad pública;
 
@@ -881,7 +881,7 @@ VII. Vigilar las áreas municipales de uso común, espectáculos públicos y sim
 
 > <small>(REFORMADA, P.O. 27 DE MARZO DE 2012)</small>
 
-VIII.- Impulsar los programas de evaluación y control de confianza; y
+VIII. Impulsar los programas de evaluación y control de confianza; y
 
 IX. Las demás que les señalen las disposiciones jurídicas y reglamentarias aplicables.
 
@@ -941,153 +941,287 @@ Las relaciones laborales entre el Estado o los Municipios, con los integrantes d
 
 ## TITULO CUARTO. DEL RECLUTAMIENTO, CAPACITACIÓN Y PROFESIONALIZACIÓN
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-### CAPITULO I. DEL INSTITUTO DE RECLUTAMIENTO Y FORMACION POLICIAL DE TAMAULIPAS
+### CAPÍTULO I. DE LA UNIVERSIDAD DE SEGURIDAD Y JUSTICIA DE TAMAULIPAS
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 34.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+1.- Se crea la Universidad de Seguridad y Justicia de Tamaulipas, como un organismo público descentralizado de la administración del Estado, encargada de formar profesionistas en materia de seguridad, así como de diseñar y ejecutar los planes y programas para la formación de los aspirantes e integrantes de las instituciones policiales del Estado, los cuales se fundamentarán en los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos.
 
-1.- El Instituto de Reclutamiento y Formación Policial de Tamaulipas, es el órgano desconcentrado de la Secretaría de Seguridad Pública encargado de diseñar y ejecutar los planes y programas para el reclutamiento y la formación de los aspirantes e integrantes de las instituciones policiales del Estado, los cuales se fundamentarán en los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos.
+2.- La Universidad goza de personalidad jurídica y patrimonio propios.
 
-2. Su organización y funcionamiento se regirá por esta ley y su reglamento.
+3.- El domicilio de la Universidad será el municipio de Victoria, y podrá establecer centros o unidades administrativas dependientes de él, programas e instalaciones con fines similares en cualquier lugar del Estado.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+4.- La Universidad será coordinada administrativamente por la Secretaría de Seguridad Pública.
 
-ARTICULO 35
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-A fin de lograr los objetivos de los programas de reclutamiento, formación, actualización, especialización y profesionalización que imparta el Instituto de Reclutamiento y Formación Policial de Tamaulipas, éste promoverá la suscripción de convenios con los Ayuntamientos del Estado, con el propósito de que el personal de las instituciones de seguridad pública municipales se beneficien con dichos programas.
+ARTICULO 34 BIS.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+Los aspirantes a los cursos de formación inicial se sujetarán a los procesos de reclutamiento y selección que establezca la Secretaría de Seguridad Pública, quien es la dependencia encargada de realizar dicha función.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 35.
 
-A fin de lograr los objetivos de los programas de formación básica, actualización, especialización y profesionalización que imparta la Academia de Policía del Estado, ésta promoverá la suscripción de convenios con los Ayuntamientos de la Entidad para establecer Academias Regionales, con el propósito de que el personal de las instituciones de seguridad pública municipales se beneficien con dichos programas.
+1.- La Universidad tiene por objetos (sic):
+
+I.- Impartir planes y programas académicos en los niveles de educación superior: Técnico Superior Universitario, Licenciatura, Especialización, Maestría y Doctorado;
+
+II.- Proporcionar capacitación para el desarrollo de los integrantes de las Instituciones de los sistemas de seguridad pública y de justicia;
+
+III.- Desarrollar estudios y proyectos de investigación aplicados a las áreas que conforman los sistemas de seguridad pública y de justicia;
+
+IV.- Diseñar y ejecutar los planes y programas para formación, actualización, especialización y profesionalización de los aspirantes e integrantes de las instituciones de Seguridad y Justicia del Estado;
+
+V.- Establecer programas de vinculación con los sectores público, privado y social, para contribuir con el desarrollo de la comunidad;
+
+VI.- Realizar convenios de coordinación con otras instituciones públicas o privadas nacionales o extranjeras, para diversos fines académicos y culturales;
+
+VII.- Difundir conocimiento, valores y cultura a través de la extensión académica y la formación; y
+
+VIII.- Cualquier otro que permita consolidar su modelo educativo.
+
+2.- A fin de lograr los objetivos de los programas de formación, actualización, especialización y profesionalización que imparta la Universidad, ésta promoverá la suscripción de convenios con los Ayuntamientos del Estado, con el propósito de que el personal de las instituciones de seguridad pública municipales se beneficien con dichos programas.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+ARTICULO 35 BIS.
+
+Para el cumplimiento de sus objetivos, la Universidad tendrá las siguientes atribuciones y facultades:
+
+I.- Ofrecer educación superior a los alumnos egresados de nivel medio superior a través de los programas de Técnico Superior Universitario y Licenciatura, así como programas de continuidad de estudio para sus egresados y de otras instituciones de educación superior;
+
+II.- Otorgar títulos o grados de técnico superior universitario, licenciatura y posgrado; los cuales serán validados por la Secretaría de Educación del Estado;
+
+III.- Ofrecer formación inicial a través del curso de formación básica requerida para la incorporación de aspirantes a la carrera policial e investigación y de procuración de justicia;
+
+IV.- Impartir formación continua a los integrantes de las instituciones que conforman los sistemas de seguridad pública y de justicia, a través de cursos de especialización, actualización y alta dirección;
+
+V.- Expedir certificados y diplomas, en los términos de los planes y programas académicos correspondientes;
+
+VI.- Establecer los procedimientos y requisitos de selección, ingreso y permanencia de los alumnos, así como de acreditación y certificación de estudios, con sujeción a los lineamientos establecidos por la Universidad;
+
+VII.- Promover el intercambio de estudiantes inscritos en otras universidades e institutos de este tipo, previa revalidación o declaración de estudios equivalentes, emitida por la autoridad educativa competente;
+
+VIII.- Desarrollar en el alumno las habilidades y actitudes que le permitan actuar con base en conocimientos científicos y técnicos;
+
+IX.- Realizar estudios y proyectos de investigación que, dentro de su ámbito de competencia, se traduzcan en aportaciones concretas que contribuyan al mejoramiento y modernización de las instituciones que conforman los sistemas de seguridad pública y de justicia;
+
+X.- Desarrollar acciones vinculadas con los diversos sectores público, privado y social, a efecto de cumplir la función (sic) ante la comunidad le corresponde, a través de la difusión de la misión, actividades y espíritu de la Universidad;
+
+XI.- Promover y suscribir convenios con organizaciones e instituciones afines de los diversos sectores social, público y privado tanto nacionales como extranjeras, para el intercambio y la cooperación en programas y proyectos de beneficio institucional;
+
+XII.- Diseñar y ejecutar su Plan Institucional;
+
+XIII.- Establecer los términos de ingreso, promoción y permanencia del personal académico, así como la selección, admisión y ascenso del personal administrativo apoyada en la reglamentación correspondiente;
+
+XIV.- Administrar su patrimonio con apego a las disposiciones legales aplicables; y
+
+XV.- Llevar a cabo los demás actos jurídicos, académicos y administrativos necesarios para el cumplimiento de su objeto.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+ARTICULO 35 TER.
+
+El patrimonio de la Universidad se integra por los siguientes bienes:
+
+I.- Los que el Ejecutivo del Estado le transfiera en los términos que fijen las leyes;
+
+II.- Las asignaciones presupuestales que se le confieran, en términos del Decreto del Presupuesto de Egresos del Estado del ejercicio presupuestal correspondiente;
+
+III.- Los ingresos que obtenga por la realización de las actividades a su cargo o derivados de la administración de los recintos bajo su responsabilidad;
+
+IV.- Las donaciones gratuitas, herencias sin cargas, subsidios, aportaciones, participaciones y demás transferencias de recursos que a su favor realicen personas físicas o personas morales, públicas o privadas;
+
+V.- Los ingresos derivados de la comercialización de bienes, productos y servicios;
+
+VI.- Los bienes muebles e inmuebles que adquiera por cualquier título legal para el cumplimiento de su objeto;
+
+VII.- Los derechos y obligaciones de los fideicomisos en que se le señale como fideicomisaria; y
+
+VIII.- Los demás que adquiera por cualquier otro título legal.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 36.
 
-El Consejo Directivo es el órgano rector del Instituto, y se integrará por:
+Para su organización y funcionamiento, la Universidad contará con:
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2012)</small>
+I.- La Junta de Gobierno;
 
-I.- El Secretario de Seguridad Pública, quien lo presidirá;
+II.- El Rector; y
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2012)</small>
+III.- El Comisario.
 
-II.- El Subsecretario de Operación Policial;
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2012)</small>
+ARTICULO 36 BIS.
 
-III.- El Coordinador General del Instituto; y
+1.- La Junta de Gobierno de la Universidad se integra de la siguiente forma:
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2012)</small>
+I.- El Secretario de Seguridad Pública, quien la presidirá;
 
-IV.- El Director Académico del Instituto; quien fungirá como Secretario.
+II.- El Secretario General de Gobierno;
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+III.- El Secretario de Finanzas;
+
+IV.- El Secretario de Educación;
+
+V.- El Procurador General de Justicia del Estado; y
+
+VI.- El Secretario Ejecutivo del Sistema Estatal de Seguridad Pública.
+
+2.- El Presidente de la Junta será suplido por el servidor público que éste designe, en tanto que los suplentes de los demás integrantes de la misma, no podrán tener una responsabilidad administrativa inmediata inferior. El cargo de miembro de la Junta será honorífico, por lo cual no recibirán retribución alguna.
+
+3.- El Rector de la Universidad participará en las sesiones de la Junta de Gobierno, llevará la Secretaría Técnica del órgano y sólo tendrá voz en las mismas.
+
+4.- El Comisario asistirá a las sesiones de la Junta de Gobierno y en ellas sólo tendrá derecho a voz.
+
+5.- A las sesiones de la Junta de Gobierno podrán asistir los servidores públicos que sean convocados para ello, por determinación de su Presidente, así como los representantes de instituciones públicas federales o municipales, o de instituciones privadas y particulares que sean invitados a participar.
+
+6.- La Junta de Gobierno sesionará ordinariamente por una vez en cada trimestre del año de calendario, y en forma extraordinaria, cuando su Presidente estime conveniente.
+
+7.- Las sesiones de la Junta de Gobierno se convocarán con la debida antelación y corresponderá al Secretario Técnico, comunicar y distribuir los documentos inherentes a los asuntos previstos en el orden del día.
+
+8.- La Junta de Gobierno sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros. Las resoluciones se tomarán por la mayoría de los miembros presentes, teniendo el Presidente voto de calidad en caso de empate.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+ARTICULO 36 TER.
+
+Corresponderá a la Junta de Gobierno de la Universidad:
+
+I.- Aprobar el Estatuto Orgánico de la Universidad;
+
+II.- Establecer los lineamientos generales de actuación de la Universidad;
+
+III.- Vigilar la buena marcha de la Universidad y recomendar las medidas para mejorar su funcionamiento;
+
+IV.- Aprobar el informe anual de actividades y el proyecto anual de ingresos y egresos presentado por el Rector, observando en todo momento las obligaciones aplicables en los términos de la Ley de Ingresos del Estado de Tamaulipas;
+
+V.- Aprobar el Plan Institucional de la Universidad;
+
+VI.- Aprobar los planes y programas académicos, de conformidad con lo establecido en las disposiciones legales aplicables;
+
+VII.- Aprobar los programas de formación, actualización, especialización y profesionalización policial;
+
+VIII.- Discutir y aprobar, en su caso, los proyectos académicos que se le presenten y los que surjan en su propio seno;
+
+IX.- Aprobar los actos de dominio respecto del patrimonio de la Universidad;
+
+X.- Aprobar los reglamentos, acuerdos y demás disposiciones de su respectiva competencia, y en su caso modificarlos;
+
+XI.- Autorizar el calendario escolar para cada ciclo;
+
+XII.- Conocer y aprobar, en su caso, los informes generales y especiales que le presente el Rector;
+
+XIII.- Discutir, y en su caso, resolver los asuntos que someta a su consideración el Rector, con relación al funcionamiento de la Universidad; y
+
+XIV.- Las demás que se le asignen por las leyes, reglamentos, decretos, acuerdos y el Estatuto Orgánico de la Universidad.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+ARTICULO 36 QUATER.
+
+1.- El Órgano de Dirección Académica y Administrativa de la Universidad será el Rector, quien será nombrado por el Gobernador del Estado.
+
+2.- El Rector tendrá las siguientes atribuciones:
+
+I.- Ejecutar y dar cumplimiento a los acuerdos dictados por la Junta de Gobierno;
+
+II.- Ejercer la representación legal de la Universidad, con carácter de apoderado para pleitos y cobranzas y actos de administración, con todas las facultades generales y las especiales que requieran cláusula especial, conforme a la legislación civil vigente en el Estado y las correlativas de las entidades federativas, por lo que enunciativa más no limitativamente tiene facultades para otorgar o revocar poderes, dentro del ámbito conferido, interponer recursos, formular querellas, articular y absolver posiciones, ejercer y desistirse de acciones judiciales, administrativas y laborales e inclusive en materia del juicio de amparo;
+
+III.- Dirigir el funcionamiento de la Universidad, vigilando el cumplimiento de su objeto, planes y programas administrativos, financieros y académicos, así como la correcta operación de las diversas áreas que integran la misma;
+
+IV.- Cumplir y hacer cumplir las normas y disposiciones reglamentarias de la Universidad;
+
+V.- Verificar, que los aspirantes a ingresar a los cursos de formación inicial hayan cumplido con los procedimientos de certificación, selección e ingreso;
+
+VI.- Llevar un registro de los expedientes del alumnado y de los egresados, así como actualizar la base de datos de cursos, alumnos, egresados y personal docente;
+
+VII.- Elaborar y enviar para la investigación pertinente, la relación de aspirantes al Consejo Estatal de Seguridad Pública para su revisión en la base de datos del Sistema Nacional de Información sobre Seguridad Pública;
+
+VIII.- Aplicar por sí o a través de los integrantes del personal docente y administrativo, las sanciones y correctivos disciplinarios a los alumnos, así como las amonestaciones al personal administrativo, en apoyo a las disposiciones jurídicas vigentes;
+
+IX.- Coordinar las revistas de armamento y municiones que realice la Secretaría de (sic) Defensa Nacional, conforme a la Ley Federal de Armas de Fuego y Explosivos;
+
+X.- Vigilar el buen uso de las municiones y mantener en óptimas condiciones el equipo y armamento asignado para las prácticas de tiro;
+
+XI.- Someter a la aprobación de la Junta de Gobierno, los proyectos de Estatuto Orgánico, de los reglamentos internos, así como los manuales necesarios para el correcto funcionamiento de la Universidad;
+
+XII.- Proponer ante la Junta de Gobierno la creación o liquidación de carreras, planes y programas académicos, así como el calendario escolar de la Universidad;
+
+XIII.- Impulsar la profesionalización, ejecutando los programas de ingreso, formación, capacitación adiestramiento, desarrollo, actualización, promoción, permanencia, evaluación y retiro del personal operativo de las instituciones de Seguridad Pública del Estado y de los municipios, conforme al servicio profesional de carrera policial;
+
+XIV.- Autorizar, supervisar y certificar los cursos impartidos dentro o fuera de las instalaciones de la Universidad, por instructores internos o externos;
+
+XV.- Supervisar y aprobar los programas de adiestramiento o especialización, verificando que se cumplan adecuadamente con los programas de estudios que establece el Sistema Nacional de Seguridad a través de la Academia Nacional y el Consejo Académico Consultivo Regional del Noreste;
+
+XVI.- Presentar y someter a la determinación de la Junta de Gobierno, durante el mes de septiembre de cada año, el programa de actividades y presupuesto de egresos para el siguiente año;
+
+XVII.- Rendir el Informe Anual de Actividades a la Junta de Gobierno; éste se presentará conforme a la decisión del Presidente de la propia Junta en la última sesión del año de que se trate o en la primera del siguiente;
+
+XVIII.- Proponer al Ejecutivo del Estado, la Estructura Orgánica de la Universidad;
+
+XIX.- Previo acuerdo con el Ejecutivo del Estado, llevar a cabo las designaciones del personal administrativo de confianza de la Universidad con nivel de jefe de departamento o jerárquicamente inferior, así como realizar las actividades de reclutamiento y selección del personal docente;
+
+XX.- Celebrar y ejecutar los actos jurídicos necesarios en el ámbito de sus atribuciones, para concretar la realización de actos, exposiciones, presentaciones o actividades de carácter educativo, en los recintos a su cargo;
+
+XXI.- Celebrar los instrumentos jurídicos que resulten convenientes para alcanzar el cumplimiento de los objetivos de la Universidad;
+
+XXII.- Administrar los recursos asignados a la Universidad, vigilar su correcta aplicación y preparar y rendir la cuenta pública correspondiente al propio organismo;
+
+XXIII.- Informar a la Junta de Gobierno sobre los estados financieros de la Universidad; y
+
+XXIV.- Las demás que le asigne la Junta de Gobierno, el Estatuto Orgánico y, en su caso, las leyes, reglamentos, decretos y acuerdos correspondientes.
+
+3.- El Rector de la Universidad deberá reunir los siguientes requisitos:
+
+I.- Ser ciudadano mexicano y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+
+II.- Poseer título profesional legalmente registrado;
+
+III.- No ser dirigente de partido político;
+
+IV.- No ser ministro de culto religioso;
+
+V.- Tener experiencia académica o profesional;
+
+VI.- No haber sido sentenciado por delito doloso, ni haber sido inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público; y
+
+VII.- Aprobar los exámenes de evaluación y control de confianza.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+ARTICULO 36 QUINQUIES.
+
+1.- El Órgano de Vigilancia de la Universidad estará integrado por un Comisario, designado por el Gobernador del Estado, que estará adscrito jerárquica, técnica y funcionalmente a la Contraloría Gubernamental y tendrá a su cargo las funciones relativas al control y vigilancia de la gestión pública de la Universidad conforme a lo dispuesto por las leyes, los reglamentos aplicables y los lineamientos que emita la propia Contraloría.
+
+2.- El Comisario tendrá las atribuciones señaladas en la Ley de Entidades Paraestatales del Estado de Tamaulipas y demás ordenamientos jurídicos aplicables.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 37.
 
-Son atribuciones del Consejo Directivo del Instituto, las siguientes:
+La estructura administrativa de la Universidad será determinada por el Ejecutivo del Estado, con base en la propuesta que presente el Rector.
 
-l.- Aprobar los programas de reclutamiento, formación, actualización, especialización y profesionalización policial;
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-II.- Examinar y aprobar los estudios y proyectos sobre actividades que correspondan a la ejecución de los fines de la institución;
+ARTICULO 37 BIS.
 
-III.- Proponer al Ejecutivo del Estado el Reglamento Interno del Instituto;
+1.- Las relaciones laborales entre la Universidad y sus trabajadores se regirán por la Ley Federal del Trabajo.
 
-IV.- Conocer en forma periódica los informes de labores que rinda el Coordinador General;
+2.- En la Universidad tendrán la calidad de trabajadores de confianza, quienes realicen tareas de dirección administrativa, funciones de asesoría, docencia, inspección, fiscalización o vigilancia, o manejen fondos y valores, independientemente de que su nombramiento administrativo no sea de jefe de departamento o superior en la jerarquía administrativa.
 
-V.- Fijar políticas generales para el funcionamiento, operación de recursos y organización del Instituto; y
-
-VI.- Las demás que le señalen las disposiciones legales y reglamentarias aplicables.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 38.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2011)</small>
-
-El Coordinador General del Instituto tendrá las atribuciones siguientes:
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
-
-I. Diseñar y proponer al Consejo Directivo los programas de reclutamiento, capacitación, actualización y especialización así como la certificación de los integrantes en activos y de los aspirantes a ingresar a las diferentes instituciones;
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
-
-II. Impulsar la profesionalización, ejecutando los programas de ingreso, formación, capacitación adiestramiento, desarrollo, actualización, promoción, permanencia, evaluación y retiro del personal operativo de las instituciones de Seguridad Pública del estado y de los municipios, conforme al servicio profesional de carrera policial;
-
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2011)</small>
-
-III. Autorizar, supervisar y certificar los cursos impartidos dentro o fuera de las instalaciones del Instituto por instructores internos o externos;
-
-IV. Supervisar y aprobar los programas de adiestramiento o especialización, verificando que se cumplan adecuadamente con los programas de estudios que establece el Sistema Nacional de Seguridad a través de la Academia Nacional y el Consejo Académico Consultivo Regional del Noreste;
-
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2011)</small>
-
-V. Tramitar las constancias o diplomas de los cursos de formación, capacitación, actualización, especialización, profesionalización y demás que señalen las leyes y reglamentos de la materia; impartidos en o por el Instituto, ante el Consejo Estatal de Seguridad Pública;
-
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2011)</small>
-
-VI. Coordinar y presentar ante el Consejo Directivo las propuestas de planes y programas para formación de los aspirantes a integrantes de las instituciones policiales en el Estado y Municipios;
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
-
-VII. Realizar, supervisar, evaluar y dar seguimiento a los procedimientos de selección, ingreso, permanencia y egreso de los aspirantes a integrar las Instituciones de Seguridad Pública del Estado;
-
-VIII. Establecer vínculos de coordinación con instituciones gubernamentales, privadas, nacionales y extranjeras de profesionalización de servidores públicos encargados de la Seguridad Pública;
-
-IX. Promover convenios con instituciones de educación pública y estudios superiores en el país y en el extranjero a fin de integrar a los programas de capacitación y entrenamiento los conocimientos y técnicas de vanguardia de la materia;
-
-X. Realizar las actividades de reclutamiento y selección del personal docente y de los aspirantes a ingresar a las instituciones policiales;
-
-XI. Elaborar y enviar para la investigación pertinente la relación de aspirantes al Consejo Estatal de Seguridad Pública para su revisión en la base de datos del Sistema Nacional de Información sobre Seguridad Pública;
-
-XII. Coordinar las revistas de armamento y municiones que realice la Secretaría de la Defensa Nacional, conforme a la Ley Federal de Armas de Fuego y Explosivos;
-
-XIII. Vigilar el buen uso de las municiones y mantener en óptimas condiciones el equipo y armamento asignado para las prácticas de tiro;
-
-XIV. Vigilar que se cumpla estrictamente con las disposiciones y reglamentos establecidos, supervisando el desempeño del personal administrativo, académico y del alumnado;
-
-XV. Aplicar por sí o a través de los integrantes del personal docente y administrativo, las sanciones y correctivos disciplinarios a los alumnos así como las amonestaciones al personal administrativo, en apoyo a las disposiciones jurídicas vigentes;
-
-XVI. Ejercer los recursos presupuestales para la realización de cursos básicos y de actualización;
-
-XVII. Coordinar la entrega de la información de altas y bajas de los aspirantes y alumnos en los diferentes cursos ante el Consejo Estatal de Seguridad Pública;
-
-XVIII. Proponer al Secretario los proyectos de capacitación anual;
-
-XIX. Proveer de alimentos a los alumnos que se encuentren en capacitación vigilando que su elaboración sea hecha cumpliendo las reglas de salud e higiene;
-
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2011)</small>
-
-XX. Coordinar con la Dirección Jurídica y de Acceso a la Información Pública de la Secretaría de Seguridad Pública la revisión de los expedientes con documentación oficial, para su validación y evitar documentación apócrifa, así como para la tramitación y seguimiento de demandas en las distintas áreas del Derecho que relacionen al Instituto;
-
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2011)</small>
-
-XXI. Vigilar que el personal a su cargo cumpla con el Reglamento Interno del Instituto;
-
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2011)</small>
-
-XXII.· Ejercer y gestionar el presupuesto anual asignado al Instituto por el Consejo Estatal de Seguridad Pública y la correcta aplicación del mismo;
-
-XXIII. Elaborar, actualizar, coordinar y ejecutar el plan de contingencia en situaciones de emergencia en coordinación con la Dirección de Protección Civil del Estado;
-
-XXIV. Gestionar ante el Consejo Estatal de Seguridad Pública el registro de la Clave Unica de Identificación Policial e informar a este de los movimientos de altas y bajas de personal de nuevo ingreso y en activo;
-
-XXV. Llevar un registro de los expedientes del alumnado y de los egresados así como actualizar la base de datos de cursos, alumnos, egresados y personal docente;
-
-XXVI. Coordinar las actividades de acopio y actualización del acervo bibliográfico;
-
-XXVII. Organizar conferencias, seminarios y congresos, para el estudio de las ciencias penales y técnicas de prevención e investigación de delitos;
-
-XXVIII. Someter a la consideración del Secretario el trámite ante las autoridades educativas competentes del registro de estudios policiales para obtener el reconocimiento y la validez oficial correspondientes;
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
-
-XXIX. Informar a las Instituciones de Seguridad Pública estatales y municipales de los cursos que se impartan, a fin de que adquieran los conocimientos teóricos y prácticos que permitan su constante actualización;
-
-XXX. Las demás que señalen los ordenamientos jurídicos aplicables.
+Para la liquidación o extinción de la Universidad se requerirá de las mismas formalidades inherentes a su establecimiento, debiéndose prever en el decreto correspondiente la elaboración del inventario de activos y pasivos, así como su rendición final de cuentas y el destino de los bienes a su cargo para la realización de los objetivos que motivaron su edificación o adquisición, en un organismo o institución con propósitos o fines homólogos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
@@ -1111,11 +1245,11 @@ XXX. Las demás que señalen los ordenamientos jurídicos aplicables.
 
 3. La formación policial tendrá como finalidad alcanzar el desarrollo profesional, técnico, científico, físico, humanístico y cultural de los integrantes de seguridad pública.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 41.
 
-Se considerará policía de carrera al integrante que haya aprobado los cursos de reclutamiento, formación, actualización, especialización y profesionalización establecidos en el plan de estudios del Instituto, tratándose de las instituciones de seguridad pública estatales y municipales, y que acredite tres años de permanencia, por lo menos, en el servicio de la institución respectiva.
+Se considerará policía de carrera, al integrante que haya aprobado los cursos de formación, actualización, especialización y profesionalización establecidos en el plan de estudios de la Universidad de Seguridad y Justicia de Tamaulipas, tratándose de las instituciones de seguridad pública estatales y municipales, y que acredite tres años de permanencia, por lo menos, en el servicio de la institución respectiva.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
@@ -1962,3 +2096,37 @@ El Consejo de la Judicatura del Estado proveerá lo conducente para contar con l
 ###### ARTÍCULO QUINTO.
 
 El Consejo de la Judicatura del Estado, en razón de la cantidad de causas penales que existiesen durante el desarrollo de la implementación del Sistema de Justicia Penal Acusatorio y Oral, podrá facultar a los Jueces de Control para actuar en los diferentes Distritos que integran la Región Judicial que les corresponda; y a los Tribunales de Enjuiciamiento para actuar de manera itinerante y realizar sus atribuciones en las diferentes Regiones Judiciales. Asimismo, en la designación de Jueces de Control y de quienes integren Tribunales de Enjuiciamiento, designación de Jueces de Control el Consejo podrá habilitar a Jueces de Primera Instancia, que estén suficientemente capacitados, para que temporalmente realicen las funciones inherentes a dicho Sistema, sin dejar de atender las relativas a su encargo.
+
+P.O. 25 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los recursos humanos, financieros y materiales, así como los bienes inmuebles adscritos al servicio del Instituto de Reclutamiento y Formación Policial de Tamaulipas, se transferirán a la Universidad de Seguridad y Justicia de Tamaulipas y esta los asignará al funcionamiento de las unidades administrativas bajo su adscripción.
+
+###### ARTÍCULO TERCERO.
+
+Los Planes y Programas de Estudio que se imparten, así como los alumnos que actualmente se encuentren inscritos en el Instituto de Reclutamiento y Formación Policial de Tamaulipas, pasarán a la Universidad de Seguridad y Justicia de Tamaulipas, debiendo ésta última proporcionarles las clases correspondientes y una vez concluidos sus estudios, otorgarles el documento respectivo.
+
+###### ARTÍCULO CUARTO.
+
+La Junta de Gobierno de la Universidad de Seguridad y Justicia de Tamaulipas, se instalará y entrará en funciones a más tardar a los 30 días siguientes del inicio de vigencia del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+El Rector de la Universidad de Seguridad y Justicia de Tamaulipas, presentará a la consideración de la Junta de Gobierno, el proyecto de Estatuto Orgánico de la Universidad, dentro de los 90 días posteriores a la expedición del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Toda referencia que se haga del Instituto de Reclutamiento y Formación Policial de Tamaulipas, y a su titular, en cualquier disposición jurídica del Estado, se entenderá hecha a la Universidad de Seguridad y Justicia de Tamaulipas y a su titular.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Universidad de Seguridad y Justicia, realizará las gestiones relativas ante la Secretaría de Educación Pública, para obtener el registro de Validez Oficial, para las Licenciaturas, Maestrías y Doctorados.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
