@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2014-10-09"
+last_updated: "2014-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -690,15 +690,19 @@ ARTICULO 68 TER.- Los agentes de la Procuraduría Social intervendrán en todos 
 
 I. Se afecten los intereses sociales;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
-
-II. Se afecte a la persona, bienes o derechos de menores, incapaces, adultos mayores, ausentes o personas con discapacidad; y
+II. Se afecte a la persona, bienes o derechos de personas menores de edad, incapaces y ausentes, adultos mayores o con discapacidad a criterio del Juez; y
 
 III. En todos los casos que dispusiere la ley.
 
-La intervención del Agente de la Procuraduría Social en juicio, lo faculta para recabar, ofrecer, desahogar, objetar pruebas; interponer y continuar recursos e incidentes, formular alegatos y en general solicitar al Juzgador la realización de todos los actos procesales para la continuación del juicio; garantizar la legalidad del procedimiento y salvaguardar los derechos de la sociedad, de los menores de edad incapaces, adultos mayores y ausentes para lo cual podrá imponerse de los autos en la secretaría y podrá solicitar se le entreguen copias de los mismos.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+La intervención del agente de la Procuraduría Social en juicio, lo faculta para recabar, ofrecer, desahogar, objetar pruebas; interponer y continuar recursos e incidentes, formular alegatos y en general solicitar al Juzgador la realización de todos los actos procesales para la continuación del juicio; procurar la legalidad del procedimiento y salvaguardar los derechos de sociedad, de las personas menores de edad, incapaces, adultos mayores y ausentes para lo cual podrá imponerse de los autos en la secretaría y podrá solicitar se le entreguen copias de los mismos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+En los asuntos en que deba intervenir el Agente de la Procuraduría Social, se le dará vista por cinco días para que manifieste de manera fundada y motivada lo que a la representación social corresponda; Transcurrido el término se continuará el procedimiento.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -956,7 +960,9 @@ La resolución que se dicte por el juez o tribunal accediendo o negando la aclar
 
 Las resoluciones judiciales dictadas con el carácter de provisionales pueden modificarse en sentencia interlocutoria o en la definitiva.
 
-Las resoluciones judiciales firmes dictadas en juicios de alimentos, ejercicio y suspensión de la patria potestad, interdicción, jurisdicción voluntaria y las demás que prevenga éste código, sólo pueden alterarse y modificarse cuando por hechos supervenientes cambien las circunstancias que afecten el ejercicio de la acción que se dedujo oportunamente, se varíe la situación jurídica existente cuando se pronunció la resolución respectiva y ello se demuestre plenamente en el juicio o procedimiento respectivo.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+Las resoluciones judiciales firmes dictadas en juicios de alimentos, ejercicio de la patria potestad, guarda y custodia, visitas y convivencia, interdicción, jurisdicción voluntaria y las demás que prevenga este Código y el Código Civil del estado, sólo pueden alterarse y modificarse cuando por hechos supervenientes cambien las circunstancias que afecten el ejercicio de la acción que se dedujo oportunamente, se varíe la situación jurídica existente cuando se pronunció la resolución respectiva y ello se demuestre plenamente en el juicio o procedimiento respectivo.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -1636,9 +1642,11 @@ VII.- En los concursos de acreedores, el Juez del domicilio del deudor;
 
 > <small>(REFORMADA, P.O. 22 DE JUNIO DE 2002)</small>
 
-VIII. En los actos de jurisdicción voluntaria el de Primera Instancia del domicilio del que promueve, tratándose de adopciones lo será el de la residencia de quien se pretende adoptar, y tratándose de bienes raíces, lo será el de igual categoría del Partido donde estén ubicados;
+VIII.- En los actos de jurisdicción voluntaria el de Primera Instancia del domicilio del que promueve, tratándose de adopciones lo será el de la residencia de quien se pretende adoptar, y tratándose de bienes raíces, lo será el de igual categoría del Partido donde estén ubicados;
 
-IX.- En los negocios relativos a la tutela de los menores o incapacitados, el Juez de la residencia de éstos, para la designación de tutor y en los demás casos, el del domicilio de éste;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+IX.- En los negocios relativos a la patria potestad, guarda y custodia, visitas y convivencia de las personas menores de edad o incapaces, el Juez de la residencia de éstos.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -1646,13 +1654,17 @@ X.- En los negocios relativos a suplir el consentimiento de quien ejerce la patr
 
 XI.- Para decidir las diferencias conyugales y los juicios de nulidad de matrimonio, el del domicilio conyugal;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-XII.- En los juicios de divorcio, el tribunal del domicilio conyugal y en caso de abandono de hogar, el del domicilio del cónyuge abandonado. Si ambos cónyuges se dijesen abandonados y se imputasen el abandono, será competente el juez del domicilio del demandado;
+XII.- En los juicios de divorcio, el tribunal del domicilio conyugal y en caso de abandono de hogar, el del domicilio del cónyuge abandonado. Si ambos cónyuges se dijesen abandonados y se imputasen el abandono, será competente el Juez del domicilio del demandado;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-XIII.- En los juicios de alimentos; el del domicilio del acreedor alimentario o el del demandado a elección del primero.
+XIII.- En los juicios de alimentos; el del domicilio del acreedor alimentario o el del demandado a elección del primero; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+XIV.- Cuando se trate de la designación del tutor será competente el Juez de la residencia de los tutelados, y en los demás casos, el del domicilio del tutor.
 
 ###### ARTICULO 162.
 
@@ -2168,39 +2180,11 @@ ARTICULO 220 bis.- La ejecución deberá despacharse por cantidad líquida, ente
 
 De la Separación de Personas como Acto Prejudicial.
 
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+#### Sección Primera. De la Separación de Cónyuges
+
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1998)</small>
-
-#### Sección Primera Bis. De la Declaración de Parte
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2014)</small>
-
-ARTICULO 328 BIS.- La declaración de parte es la deposición que realiza el actor o demandado y que sea hecha respecto a los puntos de controversia en el juicio.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2014)</small>
-
-ARTICULO 328 TER.- Las partes podrán pedir desde la demanda o su contestación, por una sola vez, que la contraparte se presente a declarar personalmente y no mediante apoderado sobre los interrogatorios que por anticipado o en el acto de la diligencia se le formulen.
-
-Están obligadas a declarar las mismas personas que están obligadas a absolver posiciones.
-
-Para esta probanza los interrogatorios podrán formularse libremente sin más limitación que las preguntas se refieran a los hechos objeto del debate.
-
-Las preguntas podrán ser abiertas y podrán referirse a hechos no propios, con tal de que el que declare tenga conocimiento de los mismos.
-
-La declaración oficial de las partes se recibirá de acuerdo con las siguientes reglas:
-
-I. Podrá recibirse con independencia de la prueba de posiciones;
-
-II. El interrogatorio podrá ser formulado por escrito al momento de ofrecer las pruebas, o en forma oral al momento de su desahogo; y
-
-III. En caso de incomparecencia se tendrán por reconocidos los hechos a que se refieran las preguntas.
-
-Sección 2a.
-
-De los Documentos.
 
 ###### ARTICULO 221.
 
@@ -2264,23 +2248,37 @@ Cuando al cónyuge a quien se hubiere otorgado la custodia de los hijos tenga un
 
 El Juez, al dictar la medida que decreta la separación de personas, señalará un término de 8 días hábiles a partir del día siguiente de la separación, para que el solicitante acredite haber presentado la denuncia, demanda o querella, mismas que deberán referirse a lo dispuesto por el artículo 404 del Código Civil del Estado y aquéllas que por alguna causa hagan imposible la vida en común; en caso contrario, al transcurrir el plazo otorgado, el Juez, a petición de parte, levantará la medida, dictando un auto que deje sin efecto la separación y autorice al cónyuge a reintegrarse al hogar en cualquier momento.
 
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+#### Sección Segunda. De la Separación de Personas
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTICULO 229.
 
-(DEROGADO, P.O. 31 DE JULIO DE 1975)
+Cuando alguna persona que viva con otra en un mismo hogar, con independencia a su parentesco, estado civil o reconocimiento legal a dicha convivencia, esté en situación de riesgo o causa que haga imposible la cohabitación, podrá solicitar la separación al Juez, acreditando por los medios permitidos a su alcance, la urgencia y necesidad de la medida. Para tal efecto el solicitante presentará bajo protesta de decir verdad en su escrito inicial una relación de los hechos y causas por las que se pide la separación y señalará la calidad con la que habita en el hogar.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 230.
 
-(DEROGADO, P.O. 31 DE JULIO DE 1975)
+Recibida la solicitud, el Juez, sin más trámite dentro de un plazo de setenta y dos horas resolverá sobre su procedencia y efectuará la diligencia. El Juez dictará las disposiciones pertinentes para que se efectúe materialmente la separación atendiendo a las circunstancias de cada caso en particular y en su caso establecerá la situación de los hijos menores de edad o mayores incapaces, tomando en cuenta las obligaciones señaladas en el Código Civil del Estado y este Código.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 231.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 1994)
+El Juez dictará las medidas necesarias que estime procedentes para que se cumplan sus determinaciones, así como para evitar que las personas separadas se ocasionen molestias bajo apercibimiento de proceder en contra del desobediente.
+
+El Juez con audiencia de las partes, podrá variar las disposiciones decretadas cuando exista causa o acuerdo que lo amerite.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 232.
 
-(DEROGADO, P.O. 31 DE JULIO DE 1975)
+Cuando quien solicite la separación de personas no tenga ningún derecho sobre el hogar en que habita ni pueda acreditar la causa que haga imposible la convivencia, el Juez de la causa dictará auto y dejará sin efecto la medida, autorizando a la persona separada reintegrarse a la vivienda de la que fue separado y concederá al solicitante un término suficiente para que se instale en un nuevo domicilio.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 1975)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 233.
 
@@ -2399,6 +2397,10 @@ Estas providencias se decretarán sin audiencia de la contraparte. Si se solicit
 > <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2008)</small>
 
 El Gobierno del estado de Jalisco, a través de sus poderes y los ayuntamientos, estarán exentos de otorgar todas aquellas garantías que en este código se exige a las partes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+En los asuntos de familia, el Juez de la causa podrá decretar las órdenes de protección previstas por la Ley General de Acceso a las Mujeres a una Vida Libre de Violencia.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -3139,6 +3141,38 @@ Las autoridades, las corporaciones oficiales y los establecimientos que forman p
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 8 DE ABRIL DE 2014)</small>
+
+#### Sección Primera Bis. De la Declaración de Parte
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2014)</small>
+
+ARTICULO 328 BIS.- La declaración de parte es la deposición que realiza el actor o demandado y que sea hecha respecto a los puntos de controversia en el juicio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2014)</small>
+
+ARTICULO 328 TER.- Las partes podrán pedir desde la demanda o su contestación, por una sola vez, que la contraparte se presente a declarar personalmente y no mediante apoderado sobre los interrogatorios que por anticipado o en el acto de la diligencia se le formulen.
+
+Están obligadas a declarar las mismas personas que están obligadas a absolver posiciones.
+
+Para esta probanza los interrogatorios podrán formularse libremente sin más limitación que las preguntas se refieran a los hechos objeto del debate.
+
+Las preguntas podrán ser abiertas y podrán referirse a hechos no propios, con tal de que el que declare tenga conocimiento de los mismos.
+
+La declaración oficial de las partes se recibirá de acuerdo con las siguientes reglas:
+
+I. Podrá recibirse con independencia de la prueba de posiciones;
+
+II. El interrogatorio podrá ser formulado por escrito al momento de ofrecer las pruebas, o en forma oral al momento de su desahogo; y
+
+III. En caso de incomparecencia se tendrán por reconocidos los hechos a que se refieran las preguntas.
+
+Sección 2a.
+
+De los Documentos.
 
 ###### ARTICULO 329.
 
@@ -5328,9 +5362,9 @@ IV. Los interdictos;
 
 V. La división de cosa común y las diferencias que entre los copropietarios surgieren en la administración, disfrute y en todo lo relativo a la cosa común; y
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-VI. Los que se refieran a la pérdida de la patria potestad, y
+VI. Los relacionados con la patria potestad, guarda y custodia, visitas y convivencia cuando éstos no sean accesorios del divorcio y se ventilen de manera autónoma; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE OCTUBRE DE 2009)</small>
 
@@ -6090,23 +6124,19 @@ Contra las sentencias que se dicten en los interdictos procederá la apelación 
 
 Cuando la sentencia decrete la demolición de la obra peligrosa, el Juez dispondrá que se ejecute bajo la dirección de un perito, que designará al efecto, para evitar que al practicarse se causen perjuicios.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ### CAPITULO VII.
 
-De la Pérdida de la Patria Potestad.
+De la Patria Potestad, la Guarda y Custodia y Régimen de Visitas y Convivencia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+ARTICULO 721 BIS.- En los asuntos de patria potestad, guarda y custodia y Régimen de Visitas y Convivencia, el Juez de oficio o a petición de parte, dictará las medidas que considere adecuadas para respetar la dignidad del menor y el ejercicio pleno de sus derechos, cuidando siempre que no se comprometa la seguridad física y el desarrollo emocional del mismo.
 
-ARTICULO 721 BIS.- En el supuesto de la fracción VI del artículo 618 del Código de Procedimientos Civiles del Estado de Jalisco, el juez, de oficio o a petición de parte, dictará las medidas que considere adecuadas para respetar la dignidad del menor y el ejercicio pleno de sus derechos, cuidando siempre que no se comprometa la seguridad física y el desarrollo emocional del mismo.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
-
-ARTICULO 721 TER.- Una vez desahogadas las pruebas, previo a dictar la resolución a que haya lugar, el juez deberá fijar día y hora para dar cumplimiento al artículo 573 del Código Civil del Estado de Jalisco.
+ARTICULO 721 TER.- En todas las actuaciones el Juez atenderá el interés superior de la niñez y tomará en cuenta la opinión de los hijos en función de su edad y madurez.
 
 ## TITULO DECIMO SEGUNDO.
 
@@ -6362,29 +6392,37 @@ Del Divorcio Por Mutuo Consentimiento.
 
 Los consortes que de común acuerdo resuelvan divorciarse, presentarán ante el juez competente su solicitud, las actas que acrediten el estado civil de los promoventes y el de sus hijos, así como sus actas de nacimiento y, en su caso, las de sus hijos, un certificado expedido por la Secretaria de Salud, en el que se dé cuenta sobre la gravidez o ingravidez de la cónyuge con un tiempo de expedición no mayor a los 30 días naturales a la fecha de presentación de la solicitud, copia simple de la promoción y demás documentos y un convenio en el que se fijen los siguientes puntos:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-I. Designación del cónyuge a quien sean confiados los hijos del matrimonio, tanto durante el procedimiento como después de ejecutoriado el divorcio y, en general, el arreglo de la situación de aquéllos;
+I. Designación del cónyuge a quien sea confiada la guarda y custodia temporal de los hijos de matrimonio, durante el procedimiento y proponer la guardia y custodia definitiva después de ejecutoriado el divorcio;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 II. El modo de subvenir a las necesidades de los hijos, tanto durante el procedimiento como después de ejecutoriado el divorcio;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-III. La casa que servirá de habitación a los cónyuges durante el procedimiento;
+III. Los términos en que los cónyuges propondrán al Juez, el régimen de visitas y convivencia con sus hijos;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-IV. La cantidad que a título de alimentos un cónyuge debe pagar a otro durante el procedimiento o después de ejecutoriada la sentencia, la forma de hacer el pago y la garantía que debe darse para asegurarlo; o bien la manifestación expresa de que ambos cónyuges quedarán exentos de toda obligación a este respecto, en caso de que así se convenga;
+IV. La casa que servirá de habitación a los cónyuges durante el procedimiento;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-V. La manera de administrar los bienes de la sociedad conyugal durante el procedimiento, y la de liquidar dicha sociedad después de ejecutoriado el divorcio, así como la designación de liquidadores. A ese efecto se acompañará un inventario y avalúo de todos los bienes muebles e inmuebles de la sociedad.
+V. La cantidad que a título de alimentos, un cónyuge debe pagar a otro durante el procedimiento o después de ejecutoriada la sentencia; la forma de hacer el pago y la garantía que debe darse para asegurarlo, o bien la manifestación expresa de que ambos cónyuges quedarán exentos de toda obligación a este respecto, en caso de que así se convenga;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-El divorcio por mutuo consentimiento no puede pedirse sino pasado un año de la celebración del matrimonio.
+VI. La manera de administrar los bienes de la sociedad conyugal o legal durante el procedimiento y la de liquidar dicha sociedad después de ejecutoriado el divorcio, así como la designación de liquidadores. A ese efecto, se acompañará un inventario y el proyecto de partición de todos los bienes de la sociedad; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+VII. En el caso de que los cónyuges hayan celebrado el matrimonio bajo el régimen de separación de bienes deberá señalarse la compensación a que tendrá derecho el cónyuge que, durante el matrimonio, se haya dedicado preponderantemente al desempeño del trabajo del hogar y, en su caso, al cuidado de los hijos, la cual no podrá ser superior al cuarenta por ciento del valor de los bienes que hubieren adquirido durante el matrimonio, considerando las reglas establecidas en este código respecto de los bienes propios y los comunes.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+El Juez resolverá atendiendo a las circunstancias especiales de cada caso.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -6398,11 +6436,11 @@ El juez examinará la solicitud y el convenio y si encuentra que éste reúne lo
 
 Si el convenio no contiene todos los puntos enumerados en el artículo 764 de éste código o no están expresados claramente, el juez prevendrá a los solicitantes que los precisen y aclaren en un término prudente que concederá al efecto, el que en ningún caso excederá de diez días, apercibiéndolos de que si no lo hacen de común acuerdo se les tendrá por desistidos de su solicitud de divorcio.
 
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 767.
 
-Llenados los requisitos de que se habla en los artículos anteriores, el Juez después de dictar las medidas convenientes para asegurar la situación de los hijos menores o incapacitados, para la separación de los cónyuges, y los alimentos de los hijos y los que un cónyuge debe dar a otro en su caso, mientras dure el procedimiento, dará vista de la solicitud y de los demás documentos al Agente de la procuraduría Social, para que dentro de un término no mayor a diez días manifieste en forma expresa su conformidad o inconformidad respecto de la solicitud y del convenio, así como las razones en que se funde.
+Llenados los requisitos de que se habla en los artículos anteriores, el Juez después de dictar las medidas convenientes para asegurar la situación de los hijos menores de edad o incapaces, para la separación de los cónyuges, y los alimentos de los hijos y los que un cónyuge debe dar a otro en su caso, mientras dure el procedimiento, dará vista de la solicitud y de los demás documentos al Agente de la Procuraduría Social, para que dentro de un término no mayor de diez días manifieste en forma expresa su conformidad o inconformidad respecto de la solicitud y del convenio, así como las razones en que se funde.
 
 > <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
 
@@ -8254,9 +8292,9 @@ Rendidas las justificaciones y desahogadas las pruebas, el juez dictará su reso
 
 ### CAPITULO VI.
 
-De la Custodia de las Personas.
+De la Guarda y Custodia.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 1032.
 
@@ -8274,9 +8312,11 @@ El Juez admitirá la excusa si la encuentra debidamente fundada y mandará reque
 
 El menor que hubiere cumplido catorce años, sus parientes y a falta de éstos el Agente de la Procuraduría Social, podrá solicitar al Juez competente la declaración de la pérdida de la patria potestad en los casos previstos por el Código Civil. El Juez, tan luego como reciba la solicitud, citará a las partes interesadas a una audiencia dentro del tercer día. Sí el que ejerce la patria potestad está conforme con el hecho denunciado, se hará la declaración correspondiente y se llamará al sustituto al ejercicio de ese derecho.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTICULO 1035.
 
-La oposición se resolverá en juicio sumario, debiendo el Juez dictar las medidas provisionales que estime necesarias para el depósito de los hijos y el aseguramiento de los bienes.
+La oposición razonada se resolverá en juicio sumario, debiendo el Juez dictar las medidas provisionales que estime necesarias para la guarda y custodia de los hijos, el régimen de visitas y convivencia y el aseguramiento de los bienes.
 
 ###### ARTICULO 1036.
 
@@ -8290,9 +8330,13 @@ El que solicite la emancipación, elevará su solicitud al juez de su domicilio,
 
 I.- La edad que tenga el menor;
 
-II.- Estar el menor en aptitud para el manejo de sus intereses;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-III.- Observar el incapacitado buena conducta.
+II.- Estar la persona menor de edad en aptitud para el manejo de sus intereses; y
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+III.- Observar la persona menor de edad buena conducta.
 
 Los hechos a que se refieren las dos últimas fracciones podrán acreditarse con información testimonial.
 
@@ -8310,7 +8354,7 @@ De este último auto no cabe recurso alguno y el que la conceda será apelable e
 
 De las resoluciones en que se conceda la emancipación se remitirá copia certificada al Oficial del Registro Civil para los efectos de levantar el acta y hacer las anotaciones que correspondan, de acuerdo a lo dispuesto al respecto por el Código Civil.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ### CAPITULO VII.
 
@@ -8320,67 +8364,77 @@ De las Informaciones Ad-Perpetuam.
 
 ###### ARTICULO 1040.
 
-Podrá decretarse la custodia:
+Podrá decretarse la guarda y custodia:
 
-I. De menores o incapacitados sujetos a patria potestad, a tutela, o adopción en trámite, si son maltratados por sus padres o tutores o reciben de éstos ejemplos perniciosos o son obligados por ellos a cometer actos reprobados por la ley;
+I. De personas menores de edad o incapaces sujetas a patria potestad, a tutela, o adopción en trámite, si son maltratadas por sus padres o reciben de éstos ejemplos de conductas nocivas para la salud física o síquica o son obligadas por ellos a cometer actos reprobados por la ley;
 
-II. De huérfanos o incapacitados que queden en el abandono por la muerte, ausencia o incapacidad física de la persona a cuyo cargo estuvieren;
+II. De huérfanos o incapaces que queden en el abandono por la muerte, ausencia o incapacidad física de la persona a cuyo cargo estuvieren;
 
-III. Del menor de edad que deseando contraer matrimonio necesite acudir a la autoridad judicial para que supla el consentimiento de sus padres o tutores, y
+III. De la persona menor de edad que deseando contraer matrimonio necesite acudir a la autoridad judicial para que supla el consentimiento de sus padres o tutores;
 
-IV. Del menor cuya adopción se tramita, en la persona o personas que lo solicitan.
+IV. De la persona menor de edad cuya adopción se tramita, en la persona o personas que lo solicitan.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 1041.
 
-En los casos de la fracción I del artículo anterior, para decretar la custodia será necesario:
+En los casos de la fracción I del artículo 1040, para decretar la guarda y custodia será necesario:
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 I. Que lo solicite por escrito el interesado;
 
-II. Que se justifiquen los malos tratamientos, ejemplos perniciosos o abusos de los ascendientes o tutores, y
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-III. Que se acredite que la adopción está en trámite.
+II. Que se justifiquen los malos tratamientos, ejemplos de conductas nocivas para la salud física o psíquica, riesgo a los que se expone a la persona menor de edad o abusos de los ascendientes o tutores; y
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+III. En su caso, que se acredite que la adopción está en trámite.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 Estos hechos podrán acreditarse con información testimonial.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 1042.
 
-Podrán los Jueces, no obstante lo dispuesto en el artículo anterior, decretar la custodia sin solicitud escrita del interesado, cuando les conste la imposibilidad en que se encuentre de formularla o a petición del Agente de la Procuraduría Social.
+Podrán los Jueces, no obstante lo dispuesto en el artículo anterior, decretar la guarda y custodia sin solicitud escrita del interesado, cuando les conste la imposibilidad en que se encuentre de formularla o a petición del Agente de la Procuraduría Social.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 1043.
 
-La custodia se hará en poder de la persona que el Juez estime conveniente y al custodiado se le dará la cama y ropa de su uso; de todo lo cual se formará inventario que se agregará al expediente.
+La guarda y custodia se hará en poder de la persona que el Juez estime conveniente y a la persona custodiada se le dará la cama y ropa de su uso; de todo lo cual se formará inventario que se agregará al expediente.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 Si sobre esto se promoviese cuestión, el Juez sin ulterior recurso determinará las ropas que hayan de entregarse.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 1044.
 
-El Juez, atendiendo a las circunstancias de las personas, determinará la suma que para los alimentos deba abonarse provisionalmente al incapacitado por el ascendiente que ejerza la patria potestad o por el tutor.
+El Juez determinará en función de los recursos económicos de que dispongan ambos padres, la cantidad que estos deberán satisfacer en concepto de alimentos provisionales para la atención a los hijos. Cada uno de ellos contribuirá a estos gastos en atención a sus propios recursos y las necesidades de sus hijos.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 1045.
 
-Verificada la custodia, en el caso de los artículos que preceden, se hará saber al curador, si lo tuviere el custodiado a fin de que practique en su defensa las gestiones que correspondan. Si no tuviere curador, se le exigirá que lo nombre o se nombrará en su caso.
+Verificada la guarda y custodia, en el caso de los artículos que preceden, se hará saber al curador, si lo tuviere el custodiado a fin de que practique en su defensa las gestiones que correspondan. En su caso, el Juez podrá dar vista al Agente de la Procuraduría Social.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 1046.
 
-Inmediatamente que tuviere noticia un Juez de que algún huérfano, menor o incapacitado, se hallare en el caso de que habla la fracción II del artículo 1040, procederá a ponerlo en custodia de la persona o institución que estime conveniente, adoptando respecto de sus bienes, las precauciones oportunas para evitar abusos de todo género y dispondrá que se provea al interesado de tutor, conforme a derecho.
+Inmediatamente que tuviere noticia un Juez de que algún huérfano, menor de edad o incapaz, se hallare en el caso de que habla la fracción II del artículo 1040, procederá a ponerlo en custodia de la persona o institución que estime conveniente, adoptando respecto de sus bienes, las precauciones oportunas para evitar abusos de todo género y dispondrá que se provea al interesado de tutor, conforme a derecho.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 1047.
 
-En el caso de la fracción III del artículo 1040, recibida la solicitud de custodia, que deberá ser hecha por escrito, el Juez se trasladará al domicilio del menor, y si éste ratifica la solicitud, se prevendrá al ascendiente o tutor para que designe persona que asuma el cuidado del menor. Sobre esta designación se oirá al interesado y si éste no se opone o el Juez estima infundada la oposición confirmará el nombramiento. Si considera fundada la oposición el Juez nombrará a la persona que estime conveniente para que se encargue de su cuidado.
+En el caso de la fracción III del artículo 1040, recibida la solicitud de guarda y custodia, que deberá ser hecha por escrito, el Juez se trasladará al domicilio de la persona menor de edad, y si ésta ratifica la solicitud, se prevendrá al ascendiente o tutor para que designe persona que asuma el cuidado del menor de edad. Sobre esta designación se oirá al interesado y si éste no se opone o el Juez estima infundada la oposición confirmará el nombramiento. Si considera fundada la oposición el Juez nombrará a la persona que estime conveniente para que se encargue de su cuidado.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
@@ -8388,13 +8442,21 @@ En el caso de la fracción III del artículo 1040, recibida la solicitud de cust
 
 Hecho el nombramiento de la persona que asuma el cuidado del menor, el Juez practicará las diligencias previstas en los artículos 1043 y 1044.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 1049.
 
-Durará la custodia hasta que se verifique el matrimonio, salvo que el Juez niegue la autorización para contraerlo o que el custodiado desista de sus pretensiones.
+Durará la guarda y custodia hasta que se verifique el matrimonio, salvo que el Juez niegue la autorización para contraerlo o que el custodiado desista de sus pretensiones.
 
-En los dos últimos casos el Juez volverá al menor a casa de las personas bajo cuya potestad se encontraba. El acta de la diligencia deberá obrar en el expediente de custodia.
+En los dos últimos casos el Juez volverá a la persona menor de edad a casa de las personas bajo cuya potestad se encontraba. El acta de la diligencia deberá obrar en el expediente de guarda y custodia.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+ARTICULO 1049 BIS.- En caso de personas menores de edad expósitas o abandonadas, el Juez tomará las medidas para que las autoridades busquen a sus padres; entre tanto se localizan o resultan ausentes o ignorados, o hubiere presunción de muerte, se decretará la guarda y custodia temporal.
+
+En caso de encarcelamiento de quien ejerza la guarda y custodia, el Juez fijará las condiciones para salvaguardar el derecho de visitas y convivencia.
+
+Cuando la guarda y custodia se decrete a favor de una institución, ésta deberá rendir informes al Consejo de Familia donde le dará a conocer el estado que guarda la persona custodiada.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
@@ -9163,3 +9225,7 @@ P.O. 9 DE OCTUBRE DE 2014.
 DECRETO NÚMERO 24977/LX/14 POR EL QUE SE REFORMAN DEL ARTÍCULO 225, 226 Y 227 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO.
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 25 DE NOVIEMBRE DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al dia siguiente de su publicación en el periódico oficial El Estado de Jalisco.
