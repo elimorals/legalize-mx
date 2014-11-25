@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2014-10-09"
+last_updated: "2014-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -1259,13 +1259,15 @@ II. Ser nativo del Municipio o haber residido en él, durante los últimos dos a
 
 III. Tener cuando menos veinticinco años cumplidos al día de su designación;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO</small>
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
 IV. Tener la siguiente escolaridad:
 
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2001)</small>
+a) En los municipios en que la población sea mayor a veinte mil habitantes, se requiere tener título profesional de Licenciado en Derecho o Abogado;
 
-a) En los municipios en los que el Ayuntamiento esté integrado hasta por once regidores, se requiere por lo menos, la enseñanza media superior;
-
-b) En los municipios en que el Ayuntamiento está integrado por más de catorce regidores, se requiere tener título profesional de licenciado en derecho o abogado; y
+b) En los municipios en que la población sea de hasta veinte mil habitantes, se requiere por lo menos, certificado en educación media superior; y
 
 V. Gozar públicamente de buena reputación y reconocida honorabilidad; y no haber sido condenado en sentencia ejecutoria por delito intencional.
 
@@ -2307,7 +2309,7 @@ Cada servidor público es directamente responsable de su actuación ante el titu
 
 ### CAPITULO III. De la Seguridad Social
 
-###### Articulo 130.
+###### Artículo 130.
 
 Incurren en responsabilidad administrativa los servidores públicos que infrinjan las obligaciones establecidas en las leyes y reglamentos de la materia. Los servidores públicos que incurran en responsabilidad administrativa serán sancionados de conformidad con el procedimiento que establezca la ley estatal aplicable.
 
@@ -2883,7 +2885,7 @@ CUARTO. Para el cumplimiento del artículo 80 de la Ley de Responsabilidades de 
 
 Para tales efectos, las entidades públicas deberán cumplir con el requerimiento de la Contraloría estatal consistente en remitir la información correspondiente a las inhabilitaciones impuestas en su periodo constitucional o administrativo. En caso negativo o de omisión, el solicitado incurrirá en responsabilidad administrativa de conformidad con la ley.
 
-En consecuencia, la nueva obligación, reformada en la fracción XXXI del artículo 61 (sic) Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, consistente en consultar el Registro Estatal de Inhabilitaciones para la contratación de un nuevo servidor público, no será vigente hasta en tanto no corra el término establecido en el primer párrafo de este artículo.
+En consecuencia, la nueva obligación, reformada en la fracción XXXI del artículo 61 Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, consistente en consultar el Registro Estatal de Inhabilitaciones para la contratación de un nuevo servidor público, no será vigente hasta en tanto no corra el término establecido en el primer párrafo de este artículo.
 
 QUINTO. Para el cumplimiento de lo dispuesto en el artículo 91 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, los titulares de las entidades públicas, contarán con un plazo de ciento ochenta días naturales, contados a partir del día siguiente de la entrada en vigor del presente decreto, para instituir, elaborar y operar el registro de sanciones administrativas de conformidad con la ley.
 
@@ -2934,3 +2936,7 @@ SEXTO. Los bienes que se encuentren protegidos por la Ley (sic) Patrimonio Cultu
 P.O. 9 DE OCTUBRE DE 2014.
 
 ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 25 DE NOVIEMBRE DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al 1.° de octubre de 2015, previa su publicación en el periódico oficial El Estado de Jalisco.
