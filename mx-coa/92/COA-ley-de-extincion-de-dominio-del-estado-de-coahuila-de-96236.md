@@ -4,7 +4,7 @@ identifier: "COA-ley-de-extincion-de-dominio-del-estado-de-coahuila-de-96236"
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-04"
-last_updated: "2013-10-04"
+last_updated: "2014-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96236&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2014.
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A LOS NOVENTA DÍAS NATURALES POSTERIORES A SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO.</small>
 
@@ -36,6 +36,22 @@ QUE EL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGO
 DECRETA:
 
 NÚMERO 290.-
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 634, PUBLICADO EN EL P.O. 25 DE NOVIEMBRE DE 2014, TODAS LAS DISPOSICIONES, MENCIONES Y REFERENCIAS QUE SE HAGAN EN ESTE DECRETO RESPECTO AL TÉRMINO "CÓDIGO DE PROCEDIMIENTOS PENALES" , SE ENTENDERÁN HECHAS AL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, EL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO EL 17 DE FEBRERO DE 2012, Y EL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO EL 25 DE MAYO DE 1999, DE ACUERDO AL ESQUEMA DE GRADUALIDAD DE LA IMPLEMENTACIÓN DEL SISTEMA PENAL ACUSATORIO ADVERSARIAL.</small>
+
+ASIMISMO, LAS REFERENCIAS QUE SE HAGAN A CARPETA DE INVESTIGACIÓN, EN LOS CASOS QUE RESULTE APLICABLE, SE ENTENDERÁN HECHAS A LA AVERIGUACIÓN PREVIA
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NÚMERO 634, PUBLICADO EN EL P.O. 25 DE NOVIEMBRE DE 2014, TODAS LAS DISPOSICIONES, MENCIONES Y REFERENCIAS QUE SE HAGAN EN LAS LEYES Y REGLAMENTOS A LAS SUBPROCURADURÍAS JURÍDICA, DE DERECHOS HUMANOS, PROFESIONALIZACIÓN Y PROYECTOS, Y DE INVESTIGACIONES ESPECIALES, ATENCIÓN A DELITOS CONTRA MUJERES POR RAZÓN DE GÉNERO, TRATA DE PERSONAS, LIBERTAD DE EXPRESIÓN Y SERVICIOS A LA COMUNIDAD, SE ENTENDERÁN HECHAS A LA SUBPROCURADURÍA JURÍDICA, DE DERECHOS HUMANOS Y DE INVESTIGACIONES ESPECIALES, DE ACUERDO A LAS ATRIBUCIONES QUE SE OTORGAN A ÉSTA ÚLTIMA MEDIANTE EL PRESENTE DECRETO.</small>
+
+ASIMISMO TODAS LAS DISPOSICIONES, MENCIONES Y REFERENCIAS QUE SE HAGAN EN LAS LEYES Y REGLAMENTOS RESPECTO DE LAS SIGUIENTES UNIDADES ADMINISTRATIVAS, SE ENTENDERÁN HECHAS CONFORME A LAS SIGUIENTES DENOMINACIONES:
+
+A) DIRECCIÓN GENERAL DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS Y TESTIGOS: DIRECCIÓN GENERAL DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS Y OFENDIDOS.
+
+B) DIRECCIÓN GENERAL DE MEDIOS ALTERNOS DE SOLUCIÓN DE CONFLICTOS: DIRECCIÓN GENERAL DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS.
+
+C) DIRECCIÓN DE CONTROL DE PROCESOS EN MATERIA DE DELITOS ELECTORALES: DIRECCIÓN DE CONTROL DE JUICIOS Y CONSTITUCIONALIDAD EN MATERIA DE DELITOS ELECTORALES,
+
+D) DIRECCIÓN GENERAL DE POLÍTICA CRIMINAL: DIRECCIÓN DE POLÍTICA CRIMINAL.
 
 LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
@@ -75,7 +91,9 @@ Normativa supletoria.
 
 En los casos no previstos en esta ley, respecto de las instituciones y supuestos jurídicos regulados por la misma, se estará a las siguientes reglas de supletoriedad:
 
-I. En la preparación del ejercicio de la acción de extinción de dominio, a lo previsto en el Código de Procedimientos Penales del Estado de Coahuila de Zaragoza;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+I. En la preparación del ejercicio de la acción de extinción de dominio, a lo previsto en el Código de Procedimientos Penales vigente en el Estado de Coahuila de Zaragoza;
 
 II. En cuanto al hecho ilícito, al Código Penal de Coahuila;
 
@@ -99,7 +117,21 @@ Los bienes sobre los que se declare la extinción de dominio se aplicarán en fa
 
 Carácter, contenido y procedencia de la acción.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+La extinción de dominio es la pérdida de los derechos sobre los bienes mencionados en esta ley, sin contraprestación ni compensación alguna para su dueño ni para quien se ostente o comporte como tal. La sentencia en la que se declare tendrá por efecto que los bienes se apliquen a favor del Estado.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
 La acción de extinción de dominio es de carácter real, de contenido patrimonial, y procederá en relación con cualquier bien sobre el que se ejerza un derecho real principal o accesorio, independientemente de quien lo tenga en su poder, o lo haya adquirido, sin perjuicio de los recursos que cualquier persona que se considere afectada pueda interponer para demostrar la procedencia lícita de tales bienes y su actuación de buena fe, así como que estaba impedida para conocer la utilización ilícita de los mismos.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 5 Bis.
+
+Autonomía de la acción de extinción de dominio.
+
+El hecho de que no se dicte sentencia condenatoria en un procedimiento penal no implica que sea lícita la propiedad o posesión de los bienes objeto de la acción de extinción de dominio.
 
 ###### Artículo 6.
 
@@ -113,9 +145,25 @@ El Ministerio Público podrá desistirse de la acción de extinción de dominio 
 
 Preparación de la acción.
 
-Para la preparación de la acción de extinción de dominio, el Ministerio Público podrá emplear la información que se genere en las averiguaciones previas que se integren en los términos del Código de Procedimientos Penales del Estado de Coahuila de Zaragoza.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-Los documentos de la averiguación previa que se decidan introducir, tendrán para efectos de prueba el carácter de públicos o privados, de acuerdo con su naturaleza, en cada caso.
+Para la preparación de la acción de extinción de dominio, el Ministerio Público podrá emplear la información que se genere en las averiguaciones previas o carpetas de investigación que se integren en los términos del Código de Procedimientos Penales vigente en el Estado de Coahuila de Zaragoza.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+Los documentos de la averiguación previa o carpeta de investigación que se decidan introducir, tendrán para efectos de prueba el carácter de públicos o privados, de acuerdo con su naturaleza, en cada caso.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+Con motivo de la preparación de la acción, el Procurador General de Justicia del Estado y los servidores públicos en quienes delegue la facultad, podrán solicitar información y documentos sobre los depósitos, los servicios y en general, las operaciones que las instituciones del sistema financiero celebren con sus clientes, por conducto de la Comisión Nacional Bancaria y de Valores, la Comisión Nacional de Seguros y Fianzas, y la de naturaleza fiscal, por conducto del Servicio de Administración Tributaria y de las demás entidades que resulten competentes, de conformidad con las disposiciones legales aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+Para efectos de lo dispuesto en el párrafo anterior, el Ministerio Público deberá formular la petición respectiva, exponiendo los razonamientos por los cuales requiera la información y los documentos correspondientes, y la remitirá al Procurador General de Justicia del Estado o al servidor público que corresponda.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+Cuando se tenga identificada la institución financiera, el número de cuenta o la operación o servicio de que se trate, así como el cuentahabiente o usuario respectivo y demás elementos que permitan su identificación plena, el Ministerio Público podrá solicitar al juez que emita la orden de requerimiento de información y documentos directamente a la institución financiera de que se trate.
 
 ###### Artículo 8.
 
@@ -146,6 +194,14 @@ V. FACILITACIÓN DELICTIVA.
 Para los efectos de esta ley, se entiende que existen elementos suficientes para determinar que el hecho ilícito sucedió, cuando se reúnan indicios respecto de los elementos objetivos o externos y, en su caso, normativos de los delitos a que se refieren las fracciones anteriores, aun cuando no se haya determinado quiénes intervinieron en él o el carácter de su participación.
 
 La muerte del o los probables responsables no anula la acción de extinción de dominio.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 9 Bis.
+
+Prescripción.
+
+A la acción de extinción de dominio se aplicarán las reglas de prescripción previstas para los hechos ilícitos a que se refiere esta ley, de conformidad con los plazos establecidos en el Código Penal del Estado, salvo que los bienes sean producto del delito, en cuyo caso la acción será imprescriptible.
 
 ### Capítulo III. Bienes sobre los que procede la acción de extinción de dominio
 
@@ -185,6 +241,10 @@ Se exceptúan de la acción de extinción de dominio, los bienes asegurados que 
 
 Se exceptúan también la fauna y la flora protegidos, materiales peligrosos y demás bienes cuya propiedad o posesión se encuentre prohibida, restringida o especialmente regulada, en cuyo caso, se procederá en los términos de la legislación aplicable.
 
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+Adicionalmente se exceptúan, las armas de fuego, municiones y explosivos respecto de los cuales, en todo caso, deberá observarse lo dispuesto en la Ley Federal de Armas de Fuego y Explosivos. Tratándose de narcóticos, se procederá en los términos de la legislación federal aplicable.
+
 ###### Artículo 13.
 
 Improcedencia.
@@ -213,7 +273,9 @@ Son partes en el procedimiento de extinción de dominio:
 
 I. El actor, que será el Ministerio Público;
 
-II. El demandado, que será quien se ostente como dueño o titular del derecho de propiedad; y
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+II. El demandado, que será quien se ostente como dueño o titular del derecho real o personal; y
 
 III. Quien se considere afectado por la acción de extinción de dominio y acredite tener un interés legítimo sobre los bienes materia de la misma.
 
@@ -243,7 +305,13 @@ IV. Tratándose de muebles, el depósito con vigilancia de la autoridad en el lu
 
 V. Tratándose de dinero, este podrá ser administrado por la Secretaría de Finanzas, pudiendo abrir cuenta especial que genere rendimientos; en caso de que se declare extinto el dominio, los bienes pasarán al Estado, en caso contrario, se entregarán a su dueño; y
 
-VI. Las demás contenidas en la legislación vigente o que considere necesarias, siempre y cuando funde y motive su procedencia.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+VI. Inmovilización de cuentas y demás valores que se encuentren dentro del sistema financiero, y
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+VII. Las demás contenidas en la legislación vigente o que considere necesarias, siempre y cuando funde y motive su procedencia.
 
 En todos los supuestos, los bienes materia de las medidas cautelares quedarán en depósito bajo la responsabilidad y manejo de las autoridades que determine el Juez, en atención a la naturaleza de los bienes y las atribuciones de las dependencias.
 
@@ -291,7 +359,9 @@ De levantarse el embargo, intervención, secuestro o aseguramiento previos, quie
 
 Los bienes asegurados no podrán ser enajenados o gravados por sus propietarios, depositarios, interventores o administradores, durante el tiempo que dure el aseguramiento en el procedimiento derivado de la extinción de dominio, salvo disposición en contrario.
 
-El aseguramiento no implica modificación alguna a los gravámenes existentes con anterioridad sobre los bienes.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+Las medidas cautelares no implican modificación alguna a los gravámenes existentes con anterioridad sobre los bienes.
 
 ### Capítulo IV. De la sustanciación del procedimiento
 
@@ -329,19 +399,31 @@ I. El juzgado competente ante quien se presenta la demanda;
 
 II. La descripción de los bienes respecto de los cuales se solicita la extinción de dominio, señalando su ubicación y demás datos necesarios para su identificación y localización; tratándose de inmuebles además se señalarán los datos de registro;
 
-III. Copia certificada de las constancias pertinentes de la averiguación previa iniciada para investigar los delitos relacionados con los bienes materia de la acción;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-IV. En su caso, el acuerdo de aseguramiento de los bienes, ordenado por el Ministerio Público dentro de la averiguación previa; el acta en la que conste el inventario y su estado físico, la constancia de inscripción en el Registro Público del Estado de Coahuila y el certificado de gravamen de los inmuebles, así como la estimación del valor de los bienes y la documentación relativa a la notificación del procedimiento para la declaratoria de abandono y, en el supuesto de existir, la manifestación que al respecto haya hecho el interesado o su representante legal;
+III. Copia certificada de las constancias pertinentes de la averiguación previa o carpeta de investigación iniciada para indagar sobre los delitos relacionados con los bienes materia de la acción;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+IV. En su caso, el acuerdo de aseguramiento de los bienes, ordenado por el Ministerio Público dentro de la averiguación previa o carpeta de investigación; el acta en la que conste el inventario y su estado físico, la constancia de inscripción en el Registro Público del Estado de Coahuila y el certificado de gravamen de los inmuebles, así como la estimación del valor de los bienes y la documentación relativa a la notificación del procedimiento para la declaratoria de abandono y, en el supuesto de existir, la manifestación que al respecto haya hecho el interesado o su representante legal;
 
 V. El nombre y domicilio del titular de los derechos, de quien se ostente o comporte como tal, o de ambos;
 
-VI. Las actuaciones conducentes, derivadas de otras averiguaciones previas, procesos penales en curso o de procesos concluidos;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+VI. Las actuaciones conducentes, derivadas de otras averiguaciones previas o carpetas de investigación, procesos penales en curso o de procesos concluidos;
 
 VII. La solicitud de las medidas cautelares necesarias para la conservación de los bienes, en los términos que establece esta ley;
 
 VIII. La petición de extinción de dominio sobre los bienes y demás pretensiones, y
 
-IX. Las pruebas que se ofrecen, debiendo en ese momento exhibir las documentales o señalar el archivo donde se encuentren, precisando los elementos necesarios para la preparación y desahogo de los otros medios de prueba.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+IX. La relación de los hechos en que el actor funda su acción y de los razonamientos lógicos jurídicos con los que se establezca que el hecho ilícito sucedió y que los bienes se ubican en alguno de los supuestos a que se refiere ésta ley, y
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+X. Las pruebas que se ofrecen, debiendo en ese momento exhibir las documentales o señalar el archivo donde se encuentren, precisando los elementos necesarios para la preparación y desahogo de los otros medios de prueba.
 
 ###### Artículo 29.
 
@@ -376,6 +458,10 @@ Desde el escrito de contestación de demanda o del primer acto por el que se ape
 El escrito de contestación de demanda deberá contener las excepciones y defensas del demandado.
 
 En el escrito de contestación de demanda se deberán ofrecer las pruebas, debiendo exhibir las que estén a su disposición o señalar el archivo donde se encuentren. En todo caso, las pruebas deberán ser desahogadas en audiencia.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+Contra la acción de extinción de dominio no procede la reconvención.
 
 ###### Artículo 32.
 
@@ -497,7 +583,9 @@ Los documentos deberán presentarse al ofrecer la prueba documental. El oferente
 
 Las constancias de averiguación previa.
 
-En caso de que se ofrezcan constancias de la averiguación previa por alguno de los delitos a que se refiere esta ley, el oferente deberá solicitarlas por conducto del Juez, el cual verificara que su exhibición no ponga en riesgo la secrecía de la investigación, para lo cual podrá ordenar sean debidamente resguardadas fuera del expediente, sin que pueda restringirse el derecho de las partes de tener acceso a dichas constancias.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+En caso de que se ofrezcan constancias de la averiguación previa o carpeta de investigación por alguno de los delitos a que se refiere esta ley, el oferente deberá solicitarlas por conducto del Juez, el cual verificará que su exhibición no ponga en riesgo la secrecía de la investigación, para lo cual podrá ordenar sean debidamente resguardadas fuera del expediente, sin que pueda restringirse el derecho de las partes de tener acceso a dichas constancias.
 
 ###### Artículo 45.
 
@@ -667,9 +755,9 @@ El Ministerio Público deberá, en su caso, representar los intereses de quien s
 
 Recursos procedentes.
 
-Procede el recurso de revocación contra los autos que dicte el Juez en el procedimiento, con excepción de los casos en los que esta ley expresamente señale que procede el recurso de apelación.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-El Juez, previa vista que otorgue a las partes con el recurso de revocación, por el término de dos días hábiles, resolverá el recurso en el mismo plazo.
+Procede el recurso de reconsideración contra los autos que dicte el Juez en el procedimiento, con excepción de los casos en los que esta ley expresamente señale que procede el recurso de apelación.
 
 ###### Artículo 64.
 
@@ -683,7 +771,29 @@ El recurso de apelación que se haya interpuesto en contra de la sentencia defin
 
 Sustanciación del recurso.
 
-La revocación y la apelación se sustanciarán en los términos previstos en el Código Procesal Civil para el Estado de Coahuila de Zaragoza.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+Los recursos de reconsideración y el de apelación se sustanciarán en los términos previstos en el Código Procesal Civil para el Estado de Coahuila de Zaragoza.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y EL ARTÍCULO QUE LO INTEGRAN, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+## Título cuarto. De la cooperación entre entidades federativas y la federación
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+### Capítulo único
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 66.
+
+Cooperación
+
+En caso de que deban ser practicadas diligencias fuera de la entidad, el Ministerio Público requerirá la colaboración de la Procuraduría General de Justicia de la entidad federativa de que se trate y de la Procuraduría General de la República.
+
+Cuando los bienes se encuentren en el extranjero, el Ministerio Público formulará la solicitud de asistencia jurídica internacional que resulte necesaria para la preparación, tramitación y ejecución de la acción de extinción de dominio, en términos de los instrumentos jurídicos internacionales de los que México sea parte.
+
+En estos casos, se requerirá el auxilio de las autoridades federales competentes.
 
 T R A N S I T O R I O S
 
@@ -742,3 +852,51 @@ EL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO
 HOMERO RAMOS GLORIA
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
+
+###### ARTÍCULO SEGUNDO.
+
+Todas las disposiciones, menciones y referencias que se hagan en este decreto respecto al término "Código de Procedimientos Penales", se entenderán hechas al Código Nacional de Procedimientos Penales, el Código de Procedimientos Penales del Estado de Coahuila de Zaragoza, publicado en el Periódico Oficial del Gobierno del Estado el 17 de febrero de 2012, y el Código de Procedimientos Penales del Estado de Coahuila de Zaragoza, publicado en el Periódico Oficial del Gobierno del Estado el 25 de mayo de 1999, de acuerdo al esquema de gradualidad de la implementación del Sistema Penal Acusatorio Adversarial.
+
+Asimismo, las referencias que se hagan a (sic) carpeta de investigación, en los casos que resulte aplicable, se entenderán hechas a la averiguación previa.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Dentro de los 60 días hábiles siguientes a la entrada en vigor del presente decreto, deberá emitirse o modificarse el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Coahuila de Zaragoza.
+
+###### ARTÍCULO QUINTO.
+
+Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos a las Subprocuradurías Jurídica, de Derechos Humanos, Profesionalización y Proyectos, y de Investigaciones Especiales, Atención a Delitos Contra Mujeres por Razón de Género, Trata de Personas, Libertad de Expresión y Servicios a la Comunidad, se entenderán hechas a la Subprocuraduría Jurídica, de Derechos Humanos y de Investigaciones Especiales, de acuerdo a las atribuciones que se otorgan a ésta última mediante el presente Decreto.
+
+Asimismo todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos respecto de las siguientes unidades administrativas, se entenderán hechas conforme a las siguientes denominaciones:
+
+a) Dirección General de Atención y Protección a Víctimas y Testigos: Dirección General de Atención y Protección a Víctimas y Ofendidos.
+
+b) Dirección General de Medios Alternos de Solución de Conflictos: Dirección General de Mecanismos Alternativos de Solución de Controversias.
+
+c) Dirección de Control de Procesos en Materia de Delitos Electorales: Dirección de Control de Juicios y Constitucionalidad en Materia de Delitos Electorales.
+
+d) Dirección General de Política Criminal: Dirección de Política Criminal.
+
+###### ARTÍCULO SEXTO.
+
+Hasta en tanto no se constituya la Dirección General de Protección a Testigos y Terceros intervinientes en el Proceso Penal, la Dirección General de Atención y Protección a Víctimas y Ofendidos, desarrollará las atribuciones y asuntos que en materia de protección a testigos y terceros involucrados establecen las leyes a la extinta Dirección General de Atención y Protección a Víctimas y Testigos, y las demás que otros ordenamientos estipulen en ésta materia.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los nombramientos expedidos con anterioridad continuarán generando sus efectos hasta en tanto se expidan los nuevos, con todos los efectos legales y responsabilidades en ellos conferidos.
+
+###### ARTÍCULO OCTAVO.
+
+Los procedimientos en materia de ejecución de penas y medidas de seguridad que con anterioridad al inicio de vigencia del presente Decreto se estuviesen tramitando, continuarán substanciándose de acuerdo a la legislación vigente al momento de su inicio en todo aquello que no atente contra el debido proceso penitenciario y sea contario al presente decreto.
