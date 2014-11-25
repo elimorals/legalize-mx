@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-proceso-penal-para-el-estado-de-guanajuato-76480"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-03"
-last_updated: "2013-11-12"
+last_updated: "2014-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "GUA"
 
 LEY DEL PROCESO PENAL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO Y TRANSITORIO TERCERO DEL DECRETO NÚMERO 192, PUBLICADO EN EL P.O. DE 25 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO SE INCORPORA AL RÉGIMEN JURÍDICO DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES QUE ENTRARÁ EN VIGOR DE MANERA INTEGRAL EN EL ESTADO DE GUANAJUATO, A PARTIR DEL DÍA 1 DE JUNIO DE 2016, Y SEGUIRÁ RIGIENDO PARA LOS ACTOS COMETIDOS Y LOS PROCEDIMIENTOS INICIADOS CON ANTERIORIDAD A LA VIGENCIA DEL CITADO CÓDIGO.</small>
 
-Ley publicada en la Tercera Parte al Periódico Oficial del Estado de Guanajuato, el viernes 3 de septiembre de 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2014.
+
+Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 3 de septiembre de 2010.
 
 JUAN MANUEL OLIVA RAMÍREZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, A LOS HABITANTES DEL MISMO SABED:
 
@@ -4235,7 +4237,7 @@ Imposibilidad de asistencia del declarante
 
 ###### Artículo 378.
 
-Los testigos, peritos y oficiales de policía que hayan intervenido investigación (sic) que no puedan acudir a la audiencia del debate por un impedimento justificado, podrán ser examinados por el tribunal o por medio de exhorto; en estos casos, se levantará el registro correspondiente. En esa diligencia podrán participar los demás intervinientes del debate.
+Los testigos, peritos y oficiales de policía que hayan intervenido (sic) investigación que no puedan acudir a la audiencia del debate por un impedimento justificado, podrán ser examinados por el tribunal o por medio de exhorto; en estos casos, se levantará el registro correspondiente. En esa diligencia podrán participar los demás intervinientes del debate.
 
 Cuando los testigos, peritos y oficiales de policía que hayan intervenido en la investigación no se encuentren en la ciudad en donde se está llevando a cabo la audiencia del debate, pero tengan su residencia dentro del Estado, el tribunal podrá comisionar a uno de sus integrantes para que reciba las declaraciones en el lugar en donde aquellos residan. Esta decisión será comunicada a los intervinientes para que ejerzan su derecho de asistir al desahogo de la diligencia. Si el oferente de la prueba no acude a la diligencia, se considerará desistido de la prueba.
 
@@ -5677,7 +5679,7 @@ Devolución, retención y destrucción de cosas aseguradas
 
 ###### Artículo 517.
 
-Las cosas aseguradas no sujetas a decomiso, restitución o embargo, en su caso, serán puestas a disposición de quien tenga derechos (sic) a ellos por la autoridad judicial, inmediatamente después de que la sentencia cause ejecutoria. Si son de lícito comercio y no fueren recogidos por quien tuviere derecho a ello dentro de los seis meses siguientes a que la sentencia quede firme, la autoridad judicial procederá conforme a las disposiciones de la ley de la materia; en el supuesto de su venta, el producto ingresará al Fondo para la Atención y Apoyo a las Víctimas y a los Ofendidos del Delito del Estado.
+Las cosas aseguradas no sujetas a decomiso, restitución o embargo, en su caso, serán puestas a disposición de quien tenga derechos a ellos (sic) por la autoridad judicial, inmediatamente después de que la sentencia cause ejecutoria. Si son de lícito comercio y no fueren recogidos por quien tuviere derecho a ello dentro de los seis meses siguientes a que la sentencia quede firme, la autoridad judicial procederá conforme a las disposiciones de la ley de la materia; en el supuesto de su venta, el producto ingresará al Fondo para la Atención y Apoyo a las Víctimas y a los Ofendidos del Delito del Estado.
 
 > <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2011)</small>
 
@@ -5816,3 +5818,31 @@ Artículo Único. El presente Decreto iniciará su vigencia al cuarto día sigui
 P.O. 12 DE NOVIEMBRE DE 2013.
 
 Artículo Único. El presente Decreto entrará en vigencia al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 25 DE NOVIEMBRE DE 2014.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL DECRETO NÚMERO 192 QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
+
+DECRETO NÚMERO 192
+
+LA SEXAGÉSIMA SEGUNDA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, DECRETA:
+
+Artículo Único. Se expide la Declaratoria correspondiente al inicio de vigencia del Código Nacional de Procedimientos Penales en el Estado de Guanajuato, en los siguientes términos:
+
+Declaratoria
+
+Único. Para los efectos señalados en el Artículo Segundo Transitorio del Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el día 5 de marzo de 2014 y en atención a la solicitud formulada por la Comisión Estatal para la Implementación de la reforma en materia de Justicia Penal y de Seguridad Pública, se declara que el estado de Guanajuato se incorpora al régimen jurídico del Código Nacional de Procedimientos Penales que entrará en vigor de manera integral en el estado de Guanajuato, a partir del día 1 de junio de 2016.
+
+T R A N S I T O R I O S
+
+Inicio de vigencia
+
+Artículo Primero. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Notificaciones
+
+Artículo Segundo. Remítase copia del presente Decreto a los poderes públicos de la Federación, de las entidades federativas y del Distrito Federal, a los poderes Ejecutivo y Judicial, así como a los Órganos Autónomos del estado, para su conocimiento y efectos legales a que haya lugar, y a la Secretaría Técnica del Consejo de Coordinación para la Implementación del Sistema de Justicia Penal.
+
+Ultractividad
+
+Artículo Tercero. El Código de Procedimientos Penales para el Estado de Guanajuato y la Ley del Proceso Penal para el Estado de Guanajuato, seguirán rigiendo para los actos cometidos y los procedimientos iniciados con anterioridad a la vigencia del Código Nacional de Procedimientos Penales en el Estado de Guanajuato.
