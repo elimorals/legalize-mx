@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-seguridad-publica-del-estado-de-guanajuato-70464"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-25"
-last_updated: "2012-12-21"
+last_updated: "2014-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70464&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO, PUBLICADA EN EL P.O. DE 25 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 25 de septiembre de 2009.
 
@@ -441,7 +443,7 @@ XX. Promover políticas de coordinación y colaboración con el Poder Judicial d
 
 XXI. Integrar un sistema de seguimiento y evaluación de las actividades realizadas dentro de las atribuciones que asigna a cada instancia la Ley General del Sistema Nacional de Seguridad Pública y esta ley;
 
-XXII. Crear comisiones o grupos de trabajo para el apoyo de sus funciones; y (sic)
+XXII. Crear comisiones o grupos de trabajo para el apoyo de sus funciones; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -779,7 +781,7 @@ IV. Recibir asistencia jurídica gratuita institucional, en los casos en que por
 
 V. Que les sean respetados los derechos que les reconoce la Carrera Policial, en los términos de esta Ley;
 
-VI. Recibir un trato digno y respetuoso de sus superiores jerárquicos; y (sic)
+VI. Recibir un trato digno y respetuoso de sus superiores jerárquicos; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1313,7 +1315,7 @@ I. Separación, por incumplimiento a cualquiera de los requisitos de permanencia
 
 a) Si hubiere sido convocado a tres procesos consecutivos de promoción sin que haya participado en los mismos, o que habiendo participado en dichos procesos, no hubiese obtenido el grado inmediato superior que le correspondería por causas imputables a él;
 
-b) Que haya alcanzado la edad máxima correspondiente a su jerarquía, y no haya sido reubicado de acuerdo con lo establecido en las disposiciones aplicables; y (sic)
+b) Que haya alcanzado la edad máxima correspondiente a su jerarquía, y no haya sido reubicado de acuerdo con lo establecido en las disposiciones aplicables; y
 
 c) Que del expediente del integrante no se desprendan méritos suficientes a juicio de las Comisiones del Servicio Profesional de Carrera Policial para conservar su permanencia.
 
@@ -2284,3 +2286,57 @@ Artículo Tercero. Los convenios y acuerdos de colaboración administrativa rela
 Registro Estatal de Antecedentes de Tránsito
 
 Artículo Cuarto. Las secretarías de Gobierno, y de Seguridad Pública, deberán convenir los términos para que tanto el personal de la Dirección General de Transporte, y la Dirección General de Tránsito, integren y mantengan actualizado el Registro Estatal de Antecedentes de Tránsito.
+
+P.O. 25 DE NOVIEMBRE DE 2014.
+
+Inicio de vigencia
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 01 de enero del año 2015, previa publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Abrogación de la Ley de Seguridad Pública para el Estado de Guanajuato
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Seguridad Pública para el Estado de Guanajuato, contenida en el Decreto Legislativo número 268, expedido por la Sexagésima Legislatura, publicado en el Periódico Oficial del Gobierno del Estado número 154, Segunda Parte, del 25 de septiembre del 2009.
+
+Término para el Estado para adecuar la reglamentación
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo del Estado deberá expedir o adecuar los reglamentos de esta Ley, en un término de ciento ochenta días contados posteriores a la entrada en vigor del presente Decreto permaneciendo vigentes los reglamentos existentes, en aquello que no se opongan al contenido de la presente Ley.
+
+Término para los ayuntamientos para adecuar la reglamentación
+
+###### ARTÍCULO CUARTO.
+
+Los ayuntamientos deberán expedir o adecuar los reglamentos que deriven de esta Ley en el ámbito de su competencia, dentro de los ciento ochenta días posteriores a la entrada en vigor del presente Decreto, permaneciendo vigentes los reglamentos existentes, en aquello que no se opongan al contenido de la presente Ley.
+
+Remisiones al Instituto Estatal de Ciencias Penales
+
+###### ARTÍCULO QUINTO.
+
+El Instituto Estatal de Formación en Seguridad Pública sustituye en todos los derechos, obligaciones y compromisos adquiridos por el Instituto Estatal de Ciencias Penales.
+
+Para todos los efectos legales correspondientes, el Instituto Estatal de Formación en Seguridad Pública del Estado a que alude el presente Decreto, se entenderá referida al Instituto Estatal de Ciencias Penales, que se menciona en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto.
+
+Remisiones a la Dirección General de Tránsito
+
+###### ARTÍCULO SEXTO.
+
+La Policía Estatal de Caminos sustituye en todos los derechos, obligaciones y compromisos adquiridos por la Dirección General de Tránsito.
+
+Para todos los efectos legales correspondientes, la Policía Estatal de Caminos a que alude el presente Decreto, se entenderá referida a la Dirección General de Tránsito, que se menciona en la Ley de Tránsito y Transporte del Estado de Guanajuato, y otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto.
+
+Remisiones a la Ley de Tránsito y Transporte del Estado de Guanajuato
+
+###### ARTÍCULO SÉPTIMO.
+
+Para los efectos del Título Duodécimo de esta Ley, la referencia a la ley de la materia se entenderá hecha a la Ley de Tránsito y Transporte del Estado de Guanajuato, por lo que hace a las funciones que otorga al personal operativo de la vigilancia y tránsito en las carreteras, caminos y áreas de jurisdicción estatal y la seguridad de las mismas.
+
+Derogación de disposiciones contrarias
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas las disposiciones que se opongan a lo preceptuado por el presente Decreto.
