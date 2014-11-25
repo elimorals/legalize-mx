@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-derechos-de-las-ninas-los-ninos-y-adolescentes-34462
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-25"
-last_updated: "2014-03-28"
+last_updated: "2014-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34462&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, LOS NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de octubre de 2003.
 
@@ -89,11 +89,11 @@ VI. La protección de la familia.
 
 ### CAPÍTULO III. De los Derechos de las niñas, los niños y adolescentes
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 5.
 
-Los menores de edad, independientemente de los que otorguen otras leyes, tendrán los siguientes derechos:
+Las niñas, los niños y adolescentes tienen derecho a que se promueva y respete su personalidad individual, a que se les encauce e inculquen valores positivos de la convivencia y solidaridad humana; gozarán de los derechos humanos que les reconozcan la legislación y los tratados internacionales de los que el Estado mexicano forme parte, entre otros:
 
 I. A la vida;
 
@@ -101,33 +101,73 @@ II. A la identidad;
 
 III. A la prioridad;
 
-IV. A la igualdad;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+IV. A la igualdad y la no discriminación;
 
-V. A un ambiente familiar sano dentro de su familia biológica o adoptiva;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE OCTUBRE DE 2009)</small>
+V. A un ambiente familiar sano y libre de violencia dentro de su familia, escuela y comunidad;
 
-VI. A ser adoptado, cuando se vean privados del ambiente familiar;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-VII. A la salud;
+VI. A que cuando se vean separados de su familia de origen, se procure su reencuentro con ella;
 
-VIII. A la educación;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-IX. A la cultura;
+VII. A ser adoptados, cuando se vean privados del ambiente familiar;
 
-X. A los alimentos, vestido y vivienda;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-XI. Al juego y al descanso;
+VIII. A las visitas y convivencia con sus padres, salvo en los casos especificos cuando se restrinja o limite por autoridad judicial por ser contrario al interés superior de la niñez;
 
-XII. A la libertad de expresión y asociación;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-XIII. A la información;
+IX. A recibir igual trato y consideración por parte de sus padres o personas de quienes reciben su custodia, sin que puedan existir diferencias respecto a sus hermanos, salvo las necesarias para neutralizar desventajas propias de la persona menor de edad;
 
-XIV. A la protección y la asistencia social cuando se encuentren en circunstancias especialmente difíciles; y
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-XV. A un medio ambiente adecuado.
+X. A la educación;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+XI. A la cultura;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+XII. A los alimentos;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+XIII. Al juego y al descanso;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+XIV. A la libertad de expresión y asociación;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+XV. A la información;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+XVI. A la protección y la asistencia social cuando se encuentren en circunstancias especialmente difíciles o vulnerables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+XVIII (SIC). A la privacidad de sus datos personales en actuaciones administrativas y jurisdiccionales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+XIX. A un medio ambiente adecuado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+XX. A que sus ascendientes, tutores y custodios preserven y exijan el cumplimiento de sus derechos, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+XXI. A que se les preserve el ejercicio de sus derechos con base en los principios de prioridad, de participación de la persona menor de edad, de unidad familiar y de reunificación familiar.
 
 ###### Artículo 6.
 
@@ -187,7 +227,7 @@ X. Asegurar que tanto los padres, como las niñas, los niños y adolescentes, co
 
 XI. Otorgar cuidados paliativos para liberar a las niñas, los niños y adolescentes enfermos, del dolor evitable, en armonía con el tratamiento de curación;
 
-XII. Promover campañas de atención médica preventiva dirigidas a las niñas, los niños y adolescentes; y (sic)
+XII. Promover campañas de atención médica preventiva dirigidas a las niñas, los niños y adolescentes; y
 
 > <small>(REFORMADA, P.O. 28 DE MARZO DE 2014)</small>
 
@@ -219,49 +259,37 @@ Las niñas, niños y adolescentes no podrán ser separados de sus padres sino me
 
 En cualquiera de los casos, se escuchará la opinión del menor, la cual será valorada acorde a su edad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 12.
 
-Es interés superior el que los menores de edad se desarrollen en un ambiente familiar sano, de conformidad con lo señalado en el Código Civil, y cuando el Juez de la causa considere que es lo más conveniente al menor, debe considerarse el siguiente orden de preferencias:
+Es interés superior el que toda persona menor de edad se desarrolle en un ambiente familiar sano; cuando el Juez de la causa considere qué es lo más conveniente a la persona menor de edad respecto de la guarda y custodia y las visitas y convivencia, tomará en cuenta el orden de preferencias que al efecto prevé el artículo 572 del Código Civil del Estado.
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-I. Con sus padres biológicos o adoptivos;
+###### Artículo 12 Bis.
 
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2013)</small>
+Quienes ejercen la patria potestad o la guarda y custodia de una persona menor de edad, independientemente de que vivan o no en el mismo domicilio, deben dar cumplimiento a las siguientes obligaciones de crianza:
 
-II. Cuando no convivan ambos padres biológicos o adoptantes, cualquiera de los dos ejercerá sobré él la custodia, siempre y cuando tengan la disposición y la posibilidad efectiva de su custodia, además de no tener una conducta nociva a la salud física o psíquica del menor; en caso de que exista igualdad de circunstancias, ambos convendrán quién de ellos ejercerá la custodia; en caso de que no lo hicieren, el Juez, oyendo a los padres, y si considera conveniente a los familiares o personas con las que estén ligados y al Consejo de Familia, resolverá;
+I. Vigilar se respete en todo momento los derechos de la personalidad de los niños, niñas y adolescentes, como son el nombre y su reconocimiento por las autoridades públicas; a su imagen, honra y prestigio entre otros;
 
-III. (DEROGADA, P.O. 3 DE AGOSTO DE 2013)
+II. Fomentar una relación de respeto y la consideración mutuos, brindándole demostraciones afectivas, con respeto y aceptación de éstas por parte del menor de edad;
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+III. Fomentar el respeto y el acercamiento constante de las personas menores de edad con quienes éstas tengan derechos de visitas y convivencia;
 
-IV. Cuando ninguno de los dos padres biológicos o adoptivos tenga la custodia del menor de edad, ésta podrá ser confiada a los ascendientes, parientes dentro del cuarto grado o personas con las que estén ligados en virtud de amistad profunda o al afecto nacido y sancionado por los actos religiosos o respetados por la costumbre, siempre y cuando cumplan con los requisitos de disposición y disponibilidad afectiva de custodia, así como de buenas costumbres;
+IV. Prever que los espacios en donde se desarrollen las personas menores de edad, así como la información a la que tengan acceso, estén libres de violencia y ofrezcan seguridad y respeto a la integridad física y psicológica;
 
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2013)</small>
+V. Fomentar los valores cívicos de la convivencia y solidaridad humana; el respeto a los derechos humanos, la no discriminación y la igualdad entre hombres y mujeres;
 
-V. En convivencia dentro de familias sustitutas, que a través de la custodia personal supervisará el Consejo de Familia, sea estatal, municipal o intermunicipal; siempre y cuando cumplan con los requisitos de disposición y disponibilidad afectiva de custodia, así como de buenas costumbres, y
+VI. Fomentar hábitos de higiene y salud, y procurar que tanga (sic) acceso a servicios sanitarios profesionales adecuados;
 
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2013)</small>
+VII. Garantizar que la persona menor de edad reciba educación básica;
 
-VI. En instituciones públicas o privadas que alberguen menores a través de custodia institucional; deberá el juez de la causa cerciorarse que el medio es idóneo para el menor.
+VIII. Impulsar el desarrollo académico, cultural, artístico y científico;
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2013)</small>
+IX. Determinar límites y normas de conducta preservando el interés superior de la niñez; y
 
-En los supuestos previstos en las fracciones de la I a la IV, los progenitores o adoptantes tienen el deber y el derecho de visitar y convivir con sus hijos para que no se pierdan los vínculos afectivos que nacen de toda relación paterno filial. Y en caso de menores sujetos a la tutela o custodia de alguna institución, estas deberán vigilar dicha convivencia.
-
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2013)</small>
-
-En los casos de las fracciones V y VI, la convivencia será autorizada por el Juez y supervisada por el Consejo de Familia.
-
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2013)</small>
-
-En todos los casos el Consejo de Familia, estatal, municipal o intermunicipal, deberá cerciorarse de que las personas que vayan a ejercer la custodia del menor sean idóneas y que cumplan con los requisitos de ley.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE AGOSTO DE 2013)</small>
-
-Los huérfanos y los niños privados de la asistencia de sus padres o tutores deben gozar de una protección especial por parte del Estado.
+X. Vigilar permanentemente que se preserve el ejercicio de los derechos de las niñas, niños y adolescentes.
 
 ###### Artículo 13.
 
@@ -275,23 +303,23 @@ I. Establecer programas de integración familiar, así como talleres y cursos qu
 
 II. Procurar siempre que las niñas, los niños y adolescentes vivan con su familia;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2008)</small>
+III. Coadyuvar para que las niñas, los niños y adolescentes ejerzan el derecho de visitas y convivencia;
 
-III. Cuidar que la distribución de videos, publicaciones impresas y las transmisiones de radio, televisión y espectáculos, en el ámbito de su competencia, se realicen sin afectar el sano desarrollo de las niñas, los niños y adolescentes; y
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+IV. Cuidar, en el ámbito de su competencia, que las publicaciones cualquiera se (sic) sea su medio o forma de difusión, inclusive por internet y cualquier otra plataforma electrónica, radio, televisión o prensa, se realicen sin afectar los derechos o el sano desarrollo de las niñas, los niños y adolescentes; y
 
-> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2008)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-IV. Establecer programas que promuevan el desarrollo equitativo y la igualdad de oportunidades para las niñas y los niños.
+V. Establecer programas qua promuevan el desarrollo equitativo y la igualdad de oportunidades para las niñas y los niños.
 
-(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2004) (F. DE E., P.O. 19 DE FEBRERO DE 2005)
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 13 Bis.
 
-Las niñas, los niños y los adolescentes tienen derecho a que sus padres hablen con ellos de forma oportuna de sus intereses y problemas, motivando el diálogo honesto y respetuoso.
+Las niñas, los niños y adolescentes tienen derecho a decir lo que piensan, sobre todo aquello que les afecte, y ser escuchados con atención por sus padres; éstos deberán hablar con ellos oportunamente de sus intereses y problemas, motivando el diálogo honesto y respetuoso, y considerar su edad y madurez.
 
 ### CAPÍTULO IV. Del derecho a la educación
 
@@ -465,7 +493,7 @@ II. Concientizar a la sociedad para la atención de esta obligación.
 
 ### CAPÍTULO XI. Del derecho a la libertad de opinión, asociación e información
 
-###### Articulo 32.
+###### Artículo 32.
 
 Las niñas, los niños y adolescentes tienen derecho a:
 
@@ -481,7 +509,9 @@ Las autoridades deben velar porque se respeten estos derechos, para lo cual prom
 
 ### CAPÍTULO XII. Del derecho a ser protegidos contra toda forma de explotación
 
-Artíulo (sic) 34. Las niñas, los niños y adolescentes tienen derecho a ser protegidos contra:
+###### Artículo 34.
+
+Las niñas, los niños y adolescentes tienen derecho a ser protegidos contra:
 
 I. La explotación económica y laboral que pueda ser peligrosa, que entorpezca su educación, sea nocivo para su salud o su desarrollo físico, mental, espiritual, moral o social; y que no se ajuste a los lineamientos comprendidos en la Ley Federal del Trabajo y a los tratados internacionales en la materia;
 
@@ -625,13 +655,17 @@ VI. Crear todos los mecanismos e instancias necesarias para el cumplimiento del 
 
 VII. Apoyar, de conformidad con sus respectivos presupuestos, a las niñas, los niños y adolescentes que por carencias familiares o económicas se ponga en riesgo su formación, subsistencia y desarrollo;
 
-> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-VIII. Implementar en forma coordinada con la Federación, en el ámbito de sus respectivas atribuciones, conforme a la legislación aplicable: programas, mecanismos y protocolos de seguridad que tengan por objeto la búsqueda inmediata de menores de edad desaparecidos, para lo cual podrán solicitar la participación de la sociedad y de los medios masivos de comunicación para atender este tipo de casos y darles la difusión necesaria, a fin de facilitar su localización, y
+VIII. Implementar en forma coordinada con la Federación, en el ámbito de sus respectivas atribuciones, conforme a la legislación aplicable, programas, mecanismos y protocolos de seguridad que tengan por objeto la búsqueda inmediata de personas menores de edad desaparecidas para lo cual podrán solicitar la participación de la sociedad y de los medios masivos de comunicación para atender este tipo de casos y darles la difusión necesaria a fin de facilitar su localización; y
 
 > <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
 IX. Vigilar el cumplimiento de la normatividad prevista e implementar los mecanismos necesarios para que los centros públicos, privados y sociales que atienden a niñas, niños y adolescentes cumplan los requerimientos de infraestructura, recursos y funcionamiento necesarios que garanticen su salud física y mental.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+Para efectos de la fracción III, las autoridades deberán, entre otras actividades, prevenir y sancionar toda información publicada en internet o por cualquier otro medio de comunicación que violente o ponga en riesgo los derechos de las personas menores de edad.
 
 ### CAPÍTULO II. De las personas jurídicas, privadas y sociales
 
@@ -787,7 +821,7 @@ XI. Promover y apoyar la formación de estructuras similares en el ámbito estat
 
 XII. Coadyuvar con el Sistema Nacional de Seguimiento y Vigilancia de la Aplicación de la Convención sobre los Derechos del Niño;
 
-XIII. Promover y apoyar la investigación académica relacionada con el tema de las niñas, los niños y adolescentes; y (sic)
+XIII. Promover y apoyar la investigación académica relacionada con el tema de las niñas, los niños y adolescentes; y
 
 XIV. Proponer al Sistema DIF Jalisco que requiera informes a instituciones públicas y privadas sobre asuntos relacionados con niñez de que conozcan. Las instituciones antes mencionadas están obligadas entregar la información a la brevedad en los términos que el reglamento establezca;
 
@@ -839,13 +873,21 @@ I. Otorgar asesoría y asistencia legal gratuita a los menores y sus representan
 
 II. Recibir por parte de los particulares u organismos públicos las denuncias por violaciones a los derechos de las niñas, los niños y adolescentes;
 
-III. Conocer de oficio o a petición de parte, todas las circunstancias o hechos que afecten de alguna manera los derechos de las niñas, los niños y adolescentes, que se encuentren en el Estado de Jalisco;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-IV. Intervenir en los asuntos del orden civil, familiar y administrativo como representante social, para la defensa legal de los derechos de los menores;
+III. Conocer de oficio o a petición de parte, todas las circunstancias o hechos que afecten de alguna manera los derechos de las personas menores de edad, y ejercer las acciones legales correspondientes;
 
-V. Velar por el respeto de los derechos de los menores infractores y de las niñas, los niños y adolescentes víctimas del delito en los procesos penales;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-VI. Practicar visitas de inspección a las instituciones de asistencia social que alberguen o atiendan a niñas, niños o adolescentes con el fin de garantizar el respeto de sus derechos; y
+IV. Intervenir en los asuntos del orden civil, familiar y administrativo como representante social, para la defensa legal de los derechos de las personas menores de edad;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+V. Velar por el respeto de los derechos de los menores infractores, de las niñas, los niños y adolescentes víctimas del delito y de los hijos de presos;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+VI. Practicar visitas de inspección a las instituciones que alberguen o atiendan a niñas, niños o adolescentes con el fin de garantizar el respeto de sus derechos; y
 
 VII. Las demás que establezcan las disposiciones legales aplicables.
 
@@ -873,7 +915,9 @@ I. Apercibimiento;
 
 II. Amonestación por escrito;
 
-III. Multa de uno a cincuenta días de salario mínimo general vigente en la Zona Metropolitana de Guadalajara;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+III. Multa de diez a ciento veinte días de salario mínimo vigentes en la Zona Metropolitana de Guadalajara;
 
 IV. Arresto Administrativo hasta por treinta y seis horas; y
 
@@ -989,7 +1033,7 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente al de su public
 
 SEGUNDO. En todos los procesos, procedimientos, juicios, sucesiones, legados, convenios, contratos, acuerdos y cualquier otro instrumento jurídico suscrito, iniciado o del que forme parte el Instituto Cabañas a la fecha de entrada en vigor del presente decreto se deberá entender que se refiere al organismo público descentralizados (sic) denominado Hogar Juan Cruz Ruiz de Cabañas y Crespo, indistintamente conocido bajo el nombre de Hogar Cabañas.
 
-TERCERA (SIC). En las demás disposiciones legales y reglamentarias en las que se haga referencia al Instituto Cabañas se entendería que se refiere al organismo público descentralizado denominado Hogar Juan Cruz Ruiz de Cabañas y Crespo, indistintamente conocido bajo el nombre de Hogar Cabañas.
+TERCERA. En las demás disposiciones legales y reglamentarias en las que se haga referencia al Instituto Cabañas se entendería que se refiere al organismo público descentralizado denominado Hogar Juan Cruz Ruiz de Cabañas y Crespo, indistintamente conocido bajo el nombre de Hogar Cabañas.
 
 CUARTO. A partir de la entrada en vigor de este decreto, el Poder Ejecutivo deberá actualizar su clasificador por objeto del gasto antes de la presentación del proyecto de presupuesto de egresos para el ejercicio fiscal del 2010.
 
@@ -1006,3 +1050,7 @@ P.O. 3 DE AGOSTO DE 2013.
 P.O. 28 DE MARZO DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 25 DE NOVIEMBRE DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al dia siguiente de su publicación en el periódico oficial El Estado de Jalisco.
