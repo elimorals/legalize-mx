@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-del-sistema-de-seguridad-publica-del-72764"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-16"
-last_updated: "2013-09-30"
+last_updated: "2014-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 16 de junio de 2009.
 
@@ -1057,7 +1057,9 @@ La selección es el proceso que consiste en elegir a los aspirantes que:
 
 I. Acrediten con los documentos respectivos, haber cumplido los requisitos establecidos en la convocatoria;
 
-II. Demuestren con el dictamen de la Academia Estatal o el Instituto de Capacitación Técnica y Profesional de la Procuraduría General de Justicia, según sea el caso, haber aprobado el curso de formación inicial; y
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+II. Demuestren con el dictamen de la Universidad de Seguridad y Justicia de Tamaulipas, o el Instituto de Capacitación Técnica y Profesional de la Procuraduría General de Justicia, según sea el caso, haber aprobado el curso de formación inicial; y
 
 III. Prueben con el dictamen del Centro Estatal de Evaluación y Confianza, haber cumplido con el perfil requerido.
 
@@ -2000,3 +2002,37 @@ En los casos conducentes, el titular de la dependencia cabeza de sector, así co
 ###### ARTÍCULO SEXTO.
 
 Se derogan todas aquellas disposiciones que se opongan el presente Decreto.
+
+P.O. 25 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los recursos humanos, financieros y materiales, así como los bienes inmuebles adscritos al servicio del Instituto de Reclutamiento y Formación Policial de Tamaulipas, se transferirán a la Universidad de Seguridad y Justicia de Tamaulipas y esta los asignará al funcionamiento de las unidades administrativas bajo su adscripción.
+
+###### ARTÍCULO TERCERO.
+
+Los Planes y Programas de Estudio que se imparten, así como los alumnos que actualmente se encuentren inscritos en el Instituto de Reclutamiento y Formación Policial de Tamaulipas, pasarán a la Universidad de Seguridad y Justicia de Tamaulipas, debiendo ésta última proporcionarles las clases correspondientes y una vez concluidos sus estudios, otorgarles el documento respectivo.
+
+###### ARTÍCULO CUARTO.
+
+La Junta de Gobierno de la Universidad de Seguridad y Justicia de Tamaulipas, se instalará y entrará en funciones a más tardar a los 30 días siguientes del inicio de vigencia del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+El Rector de la Universidad de Seguridad y Justicia de Tamaulipas, presentará a la consideración de la Junta de Gobierno, el proyecto de Estatuto Orgánico de la Universidad, dentro de los 90 días posteriores a la expedición del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Toda referencia que se haga del Instituto de Reclutamiento y Formación Policial de Tamaulipas, y a su titular, en cualquier disposición jurídica del Estado, se entenderá hecha a la Universidad de Seguridad y Justicia de Tamaulipas y a su titular.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Universidad de Seguridad y Justicia, realizará las gestiones relativas ante la Secretaría de Educación Pública, para obtener el registro de Validez Oficial, para las Licenciaturas, Maestrías y Doctorados.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
