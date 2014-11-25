@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-42429"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-12-21"
-last_updated: "2014-06-04"
+last_updated: "2014-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 21 de diciembre de 2004.
 
@@ -377,15 +377,15 @@ XXXIV. Tramitar el ejercicio de las atribuciones del Gobernador en materia de de
 
 > <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-XXXV. Coordinar las relaciones del Poder Ejecutivo con las del Tribunal Fiscal y los tribunales de lo contencioso administrativo del Estado:
+XXXV. Coordinar las relaciones del Poder Ejecutivo con las del Tribunal Fiscal y los tribunales de lo contencioso administrativo del Estado;
 
 > <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 XXXVI. Dar cauce a la atribución del Gobernador de auxiliar a los tribunales y juzgados del Estado para que la justicia se administre pronta y cumplidamente, y se ejecuten las sentencias que dicten, prestándoles el apoyo que requieran para el mejor ejercicio de sus funciones;
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-XXXVII. Ejercer las atribuciones que al Ejecutivo del Estado se asignen en disposiciones generales del Poder Legislativo Federal en materia de detonantes y pirotecnia, portación de armas y juegos y sorteos;
+XXXVII.- Ejercer las atribuciones que al Ejecutivo del Estado se asignen en disposiciones generales del Poder Legislativo Federal en materia de detonantes y pirotecnia, portación de armas y juegos y sorteos. En materia de juegos y sorteos, llevará a cabo el trámite, para, previo estudio correspondiente, el Ejecutivo del Estado, expida el documento que avale o emita la opinión favorable para la instalación de centros para operar la apertura y operación del cruce de apuestas en hipódromos, galgódromos, frontones, así como, para la instalación de centros de apuestas remotas y de salas de sorteos de números o símbolos, en territorio del Estado, señalada en el artículo 22 del Reglamento de la Ley Federal de Juegos y Sorteos;
 
 > <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
@@ -689,7 +689,7 @@ XLIV. Participar, en el ámbito de su competencia, con la Secretaría de Desarro
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-XLV. Formular, promover y conducir las estrategias, objetivos y normas en materia de turismo de naturaleza y turismo cinegético, en coordinación con la Secretaría de Desarrollo Urbano y Medio Ambiente, con objeto de lograr el uso óptimo de los recursos, manteniéndose los procesos ambientales esenciales e impulsándose la conservación de los recursos naturales y la diversidad biológica; y (sic)
+XLV. Formular, promover y conducir las estrategias, objetivos y normas en materia de turismo de naturaleza y turismo cinegético, en coordinación con la Secretaría de Desarrollo Urbano y Medio Ambiente, con objeto de lograr el uso óptimo de los recursos, manteniéndose los procesos ambientales esenciales e impulsándose la conservación de los recursos naturales y la diversidad biológica; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2012)</small>
 
@@ -1275,7 +1275,9 @@ XIV. Elaborar y difundir estudios multidisciplinarios y estadísticas sobre el f
 
 XV. Efectuar, en coordinación con la Procuraduría General de Justicia, estudios sobre actos delictivos no denunciados para incorporar este elemento en el diseño de las políticas de prevención de los ilícitos penales;
 
-XVI. Determinar y aplicar las normas y políticas de ingreso, capacitación, desarrollo y disciplina del personal responsable de funciones de seguridad pública, de acuerdo con las leyes y reglamentos vigentes;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+XVI. Determinar y aplicar las normas y políticas de ingreso, capacitación, desarrollo y disciplina del personal responsable de funciones de seguridad pública, de acuerdo con las leyes y reglamentos vigentes; y coordinar la Universidad de Seguridad y Justicia de Tamaulipas;
 
 XVII. Organizar, dirigir y administrar el servicio civil de carrera de la policía estatal preventiva;
 
@@ -1307,7 +1309,9 @@ XXVIII. Coordinar actividades en materia vehicular con las autoridades federales
 
 XXIX. Coordinar las tareas de vigilancia, con el apoyo de la Secretaría de Desarrollo Urbano y Medio Ambiente, tendentes a prevenir y combatir las acciones que afecten el medio ambiente y los recursos naturales en el Estado, en especial la cacería furtiva, la afectación de la actividad cinegética, el uso inadecuado del agua y la disposición de materiales o residuos en lugares no autorizados para ello; así como vigilar la observancia y cumplimiento de las disposiciones establecidas en los ordenamientos en materia ambiental y desarrollo sustentable del Estado;
 
-XXX. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2013)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+XXX. Proponer a la Universidad de Seguridad y Justicia de Tamaulipas, los programas de capacitación para el personal de la dependencia; y
 
 > <small>(ADICIONADA, P.O. 28 DE MARZO DE 2012)</small>
 
@@ -1381,13 +1385,21 @@ XIV. Tramitar, por Acuerdo del Gobernador, las solicitudes de extradición;
 
 XV. Formular y desarrollar programas de capacitación para el personal de la dependencia;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-XVI. Adoptar las determinaciones de su competencia con relación a los delitos ambientales establecidos en los ordenamientos en materia ambiental y desarrollo sustentable del Estado y demás leyes aplicables, así como sustanciar las investigaciones que al efecto se inicien por conductas delictivas en materia ambiental, y deducir en los procesos penales que se instauren la representación de la sociedad; y
+XVI. Celebrar convenios con instituciones educativas nacionales y extranjeras, públicas y privadas, con objeto de brindar formación académica de excelencia a los servidores públicos de la Procuraduría General de Justicia del Estado;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-XVII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
+XVII. Proponer a la Universidad de Seguridad y Justicia de Tamaulipas, los programas de capacitación para el personal de la dependencia;
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+XVIII. Adoptar las determinaciones de su competencia con relación a los delitos ambientales establecidos en los ordenamientos en materia ambiental y desarrollo sustentable del Estado y demás leyes aplicables, así como sustanciar las investigaciones que al efecto se inicien por conductas delictivas en materia ambiental, y deducir en los procesos penales que se instauren la representación de la sociedad; y
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+XIX. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
 ARTICULO 36 BIS. (DEROGADO, P.O. 29 DE DICIEMBRE DE 2010)
 
@@ -1947,7 +1959,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 3 DE ABRIL DE 2014.
 
-DECRETO NO. LXII-219 POR EL QUE SE REFORMA EL ARTÍCULO TRANSITORIO SEXTO DEL DECRETO NO. LXII-208, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EXTRAORDINARIO AL NÚMERO 3 DE FECHA 7 DE MARZO DEL 2014.
+DECRETO No. LXII-219 POR EL QUE SE REFORMA EL ARTÍCULO TRANSITORIO SEXTO DEL DECRETO NO. LXII-208, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EXTRAORDINARIO AL NÚMERO 3 DE FECHA 7 DE MARZO DEL 2014.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -1964,5 +1976,57 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 En términos de las atribuciones que le confieren las normas constitucionales y legales aplicables, el Ejecutivo del Estado deberá reformar o en su caso expedir las disposiciones reglamentarias necesarias que se deriven del presente Decreto.
 
 ###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE NOVIEMBRE DE 2014.
+
+DECRETO No. LXII-334 POR LO QUE SE REFORMA EL ARTÍCULO 24 FRACCIÓN XXXVII DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado deberá expedir los lineamientos que contengan los procedimientos y requisitos para la emisión del documento que avale la instalación de centros para operar la apertura y operación del cruce de apuestas en hipódromos, galgódromos, frontones, así como para la instalación de centros de apuestas remotas y de salas de sorteos de números o símbolos, en territorio del Estado, a más tardar en el plazo de 15 días a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones jurídicas estatales que se opongan al presente Decreto.
+
+P.O. 25 DE NOVIEMBRE DE 2014.
+
+DECRETO NO. LXII-335, POR LO QUE SE REFORMAN LOS ARTÍCULOS 35 FRACCIONES XVI Y XXX Y 36 FRACCIONES XVI Y XVII; Y SE ADICIONAN LAS FRACCIONES XVIII Y XIX DEL ARTÍCULO 36, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los recursos humanos, financieros y materiales, así como los bienes inmuebles adscritos al servicio del Instituto de Reclutamiento y Formación Policial de Tamaulipas, se transferirán a la Universidad de Seguridad y Justicia de Tamaulipas y esta los asignará al funcionamiento de las unidades administrativas bajo su adscripción.
+
+###### ARTÍCULO TERCERO.
+
+Los Planes y Programas de Estudio que se imparten, así como los alumnos que actualmente se encuentren inscritos en el Instituto de Reclutamiento y Formación Policial de Tamaulipas, pasarán a la Universidad de Seguridad y Justicia de Tamaulipas, debiendo ésta última proporcionarles las clases correspondientes y una vez concluidos sus estudios, otorgarles el documento respectivo.
+
+###### ARTÍCULO CUARTO.
+
+La Junta de Gobierno de la Universidad de Seguridad y Justicia de Tamaulipas, se instalará y entrará en funciones a más tardar a los 30 días siguientes del inicio de vigencia del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+El Rector de la Universidad de Seguridad y Justicia de Tamaulipas, presentará a la consideración de la Junta de Gobierno, el proyecto de Estatuto Orgánico de la Universidad, dentro de los 90 días posteriores a la expedición del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Toda referencia que se haga del Instituto de Reclutamiento y Formación Policial de Tamaulipas, y a su titular, en cualquier disposición jurídica del Estado, se entenderá hecha a la Universidad de Seguridad y Justicia de Tamaulipas y a su titular.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Universidad de Seguridad y Justicia, realizará las gestiones relativas ante la Secretaría de Educación Pública, para obtener el registro de Validez Oficial, para las Licenciaturas, Maestrías y Doctorados.
+
+###### ARTÍCULO OCTAVO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
