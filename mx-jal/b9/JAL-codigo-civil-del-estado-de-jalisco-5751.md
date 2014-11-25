@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2014-10-30"
+last_updated: "2014-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2014.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -2459,23 +2459,35 @@ El trámite previsto en el artículo anterior se podrá llevar a cabo mediante m
 
 Cuando ambos cónyuges convengan en divorciarse y tengan más de un año de casados, presentarán al juzgado certificado expedido por la Secretaría de Salud en el que se dé cuenta sobre la gravidez o ingravidez de la cónyuge con un tiempo de expedición no mayor a 30 días naturales a la fecha de presentación de la solicitud y un convenio en donde fijen los siguientes puntos:
 
-I. Designación del cónyuge a quien sean confiados los hijos del matrimonio, tanto durante el procedimiento como después de ejecutoriado el divorcio y, en general, el arreglo de la situación de aquéllos;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+I. Designación del cónyuge a quien sea confiada la guarda y custodia temporal de los hijos de matrimonio, durante el procedimiento y proponer la guardia (sic) y custodia definitiva después de ejecutoriado el divorcio;
 
 II. El modo de subvenir a las necesidades de los hijos y, en su caso, las del alumbramiento, tanto durante el procedimiento como después de ejecutoriado el divorcio, así como la forma de asegurar su pago y los incrementos respectivos por concepto de alimentación;
 
-III. La casa que servirá de habitación a los cónyuges durante el procedimiento;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2013)</small>
+III. Los términos en que los cónyuges propondrán al Juez, el régimen de visitas y convivencia con sus hijos;
 
-IV. La cantidad que a título de alimentos, un cónyuge debe pagar a otro durante el procedimiento o después de ejecutoriada la sentencia; la forma de hacer el pago y la garantía que debe darse para asegurarlo, o bien la manifestación expresa de que ambos cónyuges quedarán exentos de toda obligación a este respecto, en caso de que así se convenga;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2013)</small>
+IV. La casa que servirá de habitación a los cónyuges durante el procedimiento;
 
-V. La manera de administrar los bienes de la sociedad conyugal o legal durante el procedimiento y la de liquidar dicha sociedad después de ejecutoriado el divorcio, así como la designación de liquidadores. A ese efecto, se acompañará un inventario y el proyecto de partición de todos los bienes de la sociedad, y
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2013)</small>
+V. La cantidad que a título de alimentos, un cónyuge debe pagar a otro durante el procedimiento o después de ejecutoriada la sentencia; la forma de hacer el pago y la garantía que debe darse para asegurarlo, o bien la manifestación expresa de que ambos cónyuges quedarán exentos de toda obligación a este respecto, en caso de que así se convenga;
 
-VI. En el caso de que los cónyuges hayan celebrado el matrimonio bajo el régimen de separación de bienes deberá señalarse la compensación a que tendrá derecho el cónyuge que, durante el matrimonio, se haya dedicado preponderantemente al desempeño del trabajo del hogar y, en su caso, al cuidado de los hijos, la cual no podrá ser superior al cuarenta por ciento del valor de los bienes que hubieren adquirido durante el matrimonio, considerando las reglas establecidas en este código respecto de los bienes propios y los comunes. El Juez de lo Familiar resolverá atendiendo a las circunstancias especiales de cada caso.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+VI. La manera de administrar los bienes de la sociedad conyugal o legal durante el procedimiento y la de liquidar dicha sociedad después de ejecutoriado el divorcio, así como la designación de liquidadores. A ese efecto, se acompañará un inventario y el proyecto de partición de todos los bienes de la sociedad; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+VII. En el caso de que los cónyuges hayan celebrado el matrimonio bajo el régimen de separación de bienes deberá señalarse la compensación a que tendrá derecho el cónyuge que, durante el matrimonio, se haya dedicado preponderantemente al desempeño del trabajo del hogar y, en su caso, al cuidado de los hijos, la cual no podrá ser superior al cuarenta por ciento del valor de los bienes que hubieren adquirido durante el matrimonio, considerando las reglas establecidas en este código respecto de los bienes propios y los comunes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+El Juez resolverá atendiendo a las circunstancias especiales de cada caso.
 
 ###### Art. 407.
 
@@ -2513,17 +2525,35 @@ La reconciliación de los cónyuges pone término al juicio de divorcio en cualq
 
 El cónyuge que no haya dado causa al divorcio puede, antes de que se pronuncie la sentencia que ponga fin al litigio, desistirse de la acción de divorcio y exhortar al otro a reunirse con él; en este caso, no puede pedir de nuevo el divorcio por los mismos hechos que motivaron el juicio anterior, pero sí por otros nuevos, aunque sean de la misma especie.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
 ###### Art. 414.
 
 La demanda de divorcio o ilegitimidad matrimonial produce los siguientes efectos:
 
-I. Cesa la presunción de convivencia conyugal;
+I. Cesar la presunción de convivencia conyugal;
 
-II. Quedan revocados los poderes que cualesquiera de los cónyuges hubiese otorgado al otro, sin que ésta disposición afecte derechos de terceros. Dentro de esta revocación, se entiende cualquier autorización para disponer de bienes pertenecientes a los cónyuges o a los de su sociedad matrimonial;
+II. Revocar los poderes que cualesquiera de los cónyuges hubiese otorgado al otro, sin que ésta disposición afecte derechos de terceros. Dentro de esta revocación, se entiende cualquier autorización para disponer de bienes pertenecientes a los cónyuges o a los de su sociedad matrimonial; y
 
-III. Separar a los cónyuges en todo caso, debiéndose decretar por el juez quién habitará el domicilio conyugal y asimismo, previo inventario, los bienes que continuarán en éste y los que se ha de llevar el otro cónyuge; y
+III. Separar a los cónyuges del domicilio conyugal.
 
-IV. Señalar y asegurar por el juez y dictar en su caso las medidas precautorias que correspondan, cuando la mujer quede encinta, así como poner a los hijos al cuidado de persona idónea.
+El Juez resolverá quién habitará el domicilio conyugal y asimismo, previo inventario, los bienes que continuarán en éste y los que se ha de llevar el otro cónyuge.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+###### Art. 414 Bis.
+
+Mientras se decreta el divorcio, el Juez de la causa dictará las medidas necesarias que garanticen los derechos y obligaciones recíprocas entre los cónyuges y las derivadas de la paternidad y la filiación, para tal efecto el Juez:
+
+I. Dictará en su caso, las medidas precautorias que correspondan, cuando la mujer quede encinta;
+
+II. Asegurará el cumplimiento de la obligación de dar alimentos en función a la posibilidad económica de ambos padres;
+
+III. Confiará la guarda y custodia temporal de los hijos durante el procedimiento de divorcio; y
+
+IV. Decretará el régimen de visitas y convivencia durante el procedimiento de divorcio.
+
+En caso de que se hubiere acreditado la comisión de delitos o conductas nocivas en contra de los hijos, el Juez dictará las medidas necesarias para proteger la integridad de la persona afectada mediante la restricción o suspensión a las visitas y convivencia.
 
 ###### Art. 415.
 
@@ -2531,27 +2561,47 @@ La sentencia de divorcio fijará la situación de los hijos, conforme a las regl
 
 I. Respecto a la patria potestad, se estará a lo establecido en el capítulo relativo de este código;
 
-II. Respecto de la custodia:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-a) Podrá convenirse entre los cónyuges, quién la tendrá, pero ésta podrá ser revocada en cualquier momento a petición del cónyuge inocente;
+II. Respecto de la guarda y custodia definitiva:
 
-b) A falta de convenio, la custodia corresponderá al cónyuge no culpable; si ambos cónyuges fueren culpables, la custodia la ejercerá el ascendiente que corresponda y si no lo hubiese se designará por el Consejo de Familia; y
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-c) A la muerte del excónyuge inocente, tendrá la custodia el que sobreviva, salvo que exista inconveniente grave para ello.
+a) Por regla general será compartida, salvo que los cónyuges convengan quién la tendrá de manera exclusiva;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-III. Respecto de los alimentos:
+b) A falta de convenio, cuando los padres no puedan ejercer la guarda y custodia se resolverá en los términos previstos por el artículo 572 de este código:
 
-Determinarlos, y establecer la forma de asegurar su pago y los incrementos respectivos; y señalar el o los deudores alimentarios.
+c) (DEROGADO, P.O. 25 DE NOVIEMBRE DE 2014)
 
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 22 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-En todo caso, el juez atenderá el interés superior de los menores y si fuera necesario escuchará su opinión.
+III. Respecto al régimen de visitas y convivencia definitiva:
+
+a) Regulará el régimen de visitas y convivencia de los hijos con ambos padres salvaguardando que se efectúe en condiciones donde no se pierdan los vínculos afectivos que nacen de toda relación paterno filial y dictará las medidas necesarias para la protección y acceso pleno a este derecho; y
+
+b) Cuando se hubiere acreditado la comisión de delitos o conductas nocivas en contra de los hijos se dictarán las medidas necesarias para proteger la integridad de la persona afectada mediante la restricción o suspensión a las visitas y convivencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+IV. Respecto de los alimentos:
+
+a) Los determinarlos (sic) conforme a las reglas señaladas en este código;
+
+b) Establecerá la forma de asegurar su pago y los incrementos respectivos;
+
+c) Señalará el o los deudores alimentarios.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+En todo caso, el Juez atenderá el interés superior de la niñez y tomará en cuenta la opinión de los hijos en función de su edad y madurez.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 416.
 
-Antes de que se provea definitivamente sobre la patria potestad o tutela de los hijos, el juez podrá resolver, a petición de los abuelos, tíos o hermanos mayores, cualquier providencia que se considere benéfica a los menores.
+Antes de que se provea definitivamente sobre la patria potestad o tutela de los hijos, el Juez podrá resolver, a petición de los abuelos, tíos o hermanos mayores, cualquier providencia que se considere benéfica a las personas menores de edad, y atenderá a lo previsto por este código.
 
 ###### Art. 417.
 
@@ -3137,7 +3187,9 @@ III. Percibir la porción hereditaria y los alimentos que fije la ley.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
-### CAPITULO V. De la custodia de personas
+### CAPÍTULO I. Disposiciones Generales
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 520.
 
@@ -3343,13 +3395,19 @@ La adopción plena requiere:
 
 I. Los adoptantes sean un hombre y una mujer casados entre sí y que vivan juntos;
 
-II. Que por lo menos el cónyuge menor adoptante tenga 15 años más que el menor o menores que se pretende adoptar; excepto cuando se trate de la adopción de mayores de edad incapaces;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+II. Que por lo menos el cónyuge menor adoptante tenga 15 años más que la persona menor o menores de edad que se pretende adoptar; excepto cuando se trate de la adopción de personas mayores de edad incapaces;
 
 III. Los adoptantes tengan cinco o más años de casados al momento del inicio del trámite;
 
-IV. Los adoptantes tengan medios suficientes para proveer debidamente a la subsistencia y educación del menor o menores;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-V. La adopción se funde sobre justos motivos y en beneficio para el menor o menores; y
+IV. Los adoptantes tengan medios suficientes para proveer debidamente a la subsistencia y educación de la persona menor o menores de edad;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+V. La adopción se funde sobre justos motivos y en beneficio para la persona menor o menores de edad; y
 
 VI. Los adoptantes sean personas de buenas costumbres.
 
@@ -3485,167 +3543,343 @@ II. Al consentirse la adopción deberá señalarse la forma y términos como se 
 
 III. Las adopciones internacionales deberán de regirse en base a los requisitos de forma y fondo señalados en los tratados internacionales, sin que sean aplicables los requerimientos establecidos en este Código para las adopciones que no tienen el carácter de internacionales.
 
-## TITULO SEPTIMO. De la niñez
+> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO V DEL TÍTULO SEXTO], P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-### CAPITULO UNICO
+## TITULO SEXTO BIS. De la Guarda y Custodia
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+### CAPITULO II. De la Guarda y Custodia de Niños, Niñas y Adolescentes
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 555.
 
-En virtud de la custodia, una persona o una institución asumen el cuidado y atención personal de seres humanos.
+En virtud de la guarda y custodia, una persona o una institución asume el cuidado y atención de un ser humano así como de sus objetos de uso personal.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+La guarda y custodia siempre es en beneficio directo de su destinatario, con reconocimiento pleno de sus derechos de personalidad y con respeto a su integridad y dignidad humana.
+
+El Consejo de Familia, sea Estatal, municipal o Intermunicipal, en el ámbito de su competencia territorial, deberá intervenir, consentir y dar seguimiento en todo tiempo y circunstancia en los casos de guarda y custodia, de conformidad con las normas legales aplicables.
+
+La guarda y custodia confiere a quien la ejerce la facultad de determinar límites y normas de conducta.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 556.
 
-La custodia siempre es en beneficio directo de su destinatario, con reconocimiento pleno de sus derechos de personalidad y con respeto a su integridad y dignidad humana.
+La guarda y custodia en función de la temporalidad con que se ejerce será:
+
+I. Provisional cuando se efectúe en los términos previstos por el artículo 225 del Código de Procedimientos Civiles;
+
+II. Temporal cuando el custodiado es sujeto a ella en períodos continuos, sucesivos y por un tiempo predeterminado; y
+
+III. Definitiva cuando ésta es por un periodo continuo e indeterminado.
+
+En los casos de guarda y custodia temporal, sea esta además personal o institucional y cuando sea posible, el Juez dictará las medidas necesarias para alcanzar la reincorporación de la persona menor de edad a su ambiente familiar a la brevedad de tiempo posible, siempre y cuando no haya perjuicio al interés superior de la niñez.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 557.
 
-La custodia confiere a quien la ejerce la facultad de aplicar correcciones disciplinarias y proporcionar en su caso auxilio para el mantenimiento y recuperación de la salud física y psíquica.
+La guarda y custodia en función de quien o quienes la ejerzan será:
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+I. Personal cuando ésta se realiza por una persona o una familia determinadas. Este tipo de custodia origina para el custodiado, las obligaciones de respeto y consideración que se le deben de tener a quien la ejerce, como si fuera hijo de familia y además, en su caso, produce la obligación alimentaria; y
+
+II. Institucional cuando la custodia que se ejerce por un establecimiento, sea éste de gobierno, descentralizado o privado y que tenga como fin el cuidado y atención de personas.
+
+Los establecimientos y familias sustitutas solo podrán admitir el número de custodiados a quienes garanticen el cuidado y atención necesarios para su desarrollo integral.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 558.
 
-El Consejo de Familia, sea Estatal, municipal o Intermunicipal, en el ámbito de su competencia territorial, deberá intervenir, consentir y dar seguimiento en todo tiempo y circunstancia en los casos de custodia, de conformidad con las normas legales aplicables.
+La guarda y custodia podrá ser además:
+
+I. Voluntaria, la que libremente se conviene entre las partes involucradas en ella, y
+
+II. Forzosa la que se realiza en cumplimiento de una determinación de autoridad judicial, aún contra el consentimiento del destinatario y de los que en su caso sobre él ejercen la patria potestad.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 559.
 
-Hay custodia temporal cuando el custodiado es sujeto a ella en períodos continuos, sucesivos y por un tiempo predeterminado.
+En todo caso la guarda y custodia será gratuita. No se considerará que ejercen guarda y custodia los directores de guarderías, colegios, talleres y otros similares quienes de manera temporal tengan a su cargo el cuidado y vigilancia de personas.
 
-### CAPITULO I. Disposiciones generales
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+### CAPITULO I. De los Niños, Niñas y Adolescentes
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 560.
 
-Hay custodia definitiva cuando ésta es por un período continuo e indeterminado.
+La guarda y custodia de los hijos será compartida por sus padres salvo que convengan quién la tendrá de manera exclusiva. El acuerdo al que lleguen los padres será revisado por el Juez y en su caso aprobado cuando el mismo salvaguarde el interés superior de la niñez.
+
+El arreglo a que lleguen los padres sobre la guarda y custodia de sus hijos constituye un derecho y una obligación diversa al régimen de visitas y convivencia. Por ningún motivo la guarda y custodia se condicionará al pago de contribuciones económicas o al cumplimiento de obligaciones alimentarias.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 561.
 
-Hay custodia personal cuando ésta se realiza por una persona o una familia determinada. Este tipo de custodia origina para el custodiado, las obligaciones de respeto y consideración que se le deben de tener a quien la ejerce, como si fuera hijo de familia y además, en su caso, produce la obligación alimentaria.
+A falta de convenio sobre la guarda y custodia de los hijos, el Juez resolverá lo conducente atendiendo al interés superior de la niñez de conformidad a lo dispuesto por el artículo 406. Para tal efecto el Juez podrá decretar las medidas que considere necesarias para proteger la integridad de los hijos.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 562.
 
-Es institucional la custodia que se ejerce por un establecimiento, sea éste de gobierno, descentralizado o privado y que tenga como fin el cuidado y atención de personas.
+Cuando no sea posible que alguna (sic) de los sujetos señalados en el artículo 572 fracciones I, II, IV y V ejerza la guarda y custodia sobre la persona menor de edad, se decretará su guarda y custodia institucional.
 
-En este tipo de instituciones y para efectos del sostenimiento económico, podrá establecerse que los sujetos de custodia reciban la ayuda económica y afecto personal de ciertas y determinadas personas que, con fines altruistas, se hagan cargo de cada uno de los custodiados en lo individual, pudiéndoles permitir convivir con ellos en épocas y circunstancias precisas.
+Cuando exista guarda y custodia institucional, para efectos del sostenimiento económico, podrá establecerse que los sujetos de custodia reciban la ayuda económica y afecto personal de ciertas y determinadas personas que, con fines altruistas, se hagan cargo de cada uno de los custodiados en lo individual, pudiéndoles permitir convivir con ellos en épocas y circunstancias precisas, sin que esto implique el traslado de los menores de edad fuera de las instituciones ni ejercer guarda y custodia personal ni cuidado y vigilancia sobre ellos. Los responsables de la guarda y custodia supervisarán esa convivencia y reguardarán (sic) la integridad de los sujetos sobre quienes la ejerzan.
+
+Las personas que con fines altruistas, aporten recursos económicos o materiales para el sustento de los custodiados, se acreditarán ante el Consejo Estatal, municipal o intermunicipal de Familia.
+
+En ningún supuesto se podrá retener a la persona menor de edad, o condicionar o limitar su derecho a las visitas y convivencia con sus padres, por la falta de pago de obligaciones alimentarias.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 563.
 
-Es custodia onerosa la que se presta mediante una retribución previamente fijada por las partes.
+En todos los casos de guarda y custodia de personas menores de edad de conformidad con el principio de unidad familiar se mantendrá juntos a los hermanos.
+
+El Juez solo podrá decretar la separación de hermanos menores de edad cuando exista impedimento grave para su convivencia, a tal grado que de forzarla sería en detrimento de los legítimos intereses de alguno de ellos.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 564.
 
-Es custodia gratuita aquélla en virtud de la cual, el custodiado o destinatario, así como en su caso quien sobre él ejerce la patria potestad o la tutoría, no retribuyen económicamente a quien la presta.
+Es obligación de toda persona sea física o jurídica que reciba en cuidado y vigilancia a personas menores de edad, cumplir con los requisitos que la legislación establece para el desempeño de su actividad, y en su caso, contar con las licencias, certificaciones y autorizaciones correspondientes. En todos los casos las partes deberán suscribir contrato por escrito y será responsabilidad de quien reciba en cuidado y vigilancia conservar copia de dicho contrato.
+
+Cuando en la entrega temporal de la persona menor de edad no medie orden judicial ni contrato por escrito, se presume que quien lo recibe asume la obligación de prestarle cuidado y vigilancia.
+
+Por resolución judicial y supervisión del Consejo de Familia se podrá confiar el cuidado y vigilancia de persona menor de edad a las personas que lo soliciten en adopción.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 565.
 
-Es custodia voluntaria, la que libremente se conviene entre las partes involucradas en ella.
+Podrá decretarse la guarda y custodia de personas menores de edad y mayores incapaces:
+
+I. En caso de divorcio de sus padres;
+
+II. En caso de que los padres no convivan entre sí,
+
+III. Por orden judicial de separación de personas;
+
+IV. En el trámite de adopción, en la persona o personas que lo solicitan;
+
+V. En caso de pérdida o suspensión de la patria potestad;
+
+VI Por el incumplimiento reiterado de las obligaciones de crianza;
+
+VII. De las personas menores de edad o incapaces que queden en el abandono por la muerte, ausencia o incapacidad física de la persona a cuyo cargo estuvieren.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 566.
 
-Es custodia forzosa la que se realiza en cumplimiento de una determinación de autoridad, aún contra el consentimiento del destinatario y de los que en su caso sobre él ejercen la patria potestad.
+La pérdida de la guarda y custodia procederá cuando:
 
-## TITULO OCTAVO. De la patria potestad
+I. Se acredite que la persona menor de edad recibe de quien la detenta, ejemplos perniciosos o nocivos para su desarrollo;
 
-### CAPITULO II. De los efectos de la patria potestad respecto de los bienes del hijo
+II. Se acredite que el padre o la madre custodio o la persona que ejerce la custodia personal o institucional incumpla con sus obligaciones respecto a sus hijos;
+
+III. Se acredite que el padre o la madre custodio de manera reiterada promueva en sus hijos el olvido, rechazo, rencor, odio, desprecio o temor hacia la persona con quienes tengan derecho de visitas y convivencia y le hayan sido suspendidos o restringidos sus derechos por la misma causa;
+
+IV. Se acredite que no obstante existe mandato judicial de abstenerse de hacerlo, el padre o la madre custodio o la persona que ejerce la custodia personal o institucional, impida u obstaculice de manera reiterada y sin causa justificada el derecho de visitas y convivencia con quien la persona menor de edad tenga derecho; o
+
+V. El padre o la madre o la persona que ejerce la custodia personal o institucional sustraiga al menor de edad.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+## TITULO SEPTIMO. De la Niñez
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+### CAPITULO II. Del Régimen de Visitas y Convivencia
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 567.
 
-La niñez debe ser objeto de especial atención, cuidado y reconocimiento.
+Los niños, niñas y adolescentes deban (sic) ser objeto de especial atención, cuidado y reconocimiento.
+
+Se entiende por niñez, la etapa de vida en los seres humanos que comprende la gestación, el nacimiento, la primera y segunda infancia, la pubertad y adolescencia hasta alcanzar los dieciocho años de edad.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 568.
 
-Se entiende por niñez, la etapa de vida en los seres humanos que comprende la gestación, el nacimiento, la primera y segunda infancia y la pubertad.
+La niñez, gozará de los derechos reconocidos por la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales de los que México sea parte, la Constitución Política del Estado, La Ley de los Derechos de los Niños, Niñas y Adolescentes del Estado, este código y todas aquellas disposiciones que atiendan el interés superior de la niñez.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 569.
 
-Los niños tienen derecho a que se promueva y respete su personalidad individual, a que se les encauce e inculquen valores positivos de la convivencia y solidaridad humana.
+Ninguna de las disposiciones enunciadas en este código, debe ser interpretada en forma restrictiva respecto de los derechos y de los intereses superiores de la niñez, sino que las normas aplicables a niños, niñas y adolescentes, se entenderán dirigidas a procurarles, primordialmente, los cuidados y la asistencia que requieren para lograr un crecimiento y desarrollo plenos dentro de un ambiente de bienestar familiar y social.
+
+En todos los casos la autoridad judicial y administrativa atenderá al interés superior de la niñez.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 570.
 
-Ninguna de las disposiciones enunciadas en este código, debe ser interpretada en forma restrictiva respecto de los derechos y de los intereses superiores de la niñez.
+Se entenderá por interés superior de la niñez al conjunto de acciones y procesos tendientes a garantizar a niños, niñas y adolescentes, los alimentos y una vida digna para alcanzar el máximo bienestar posible.
+
+Cuando se vaya a tomar una determinación relacionada con el interés superior de una persona menor de edad, deberá oírsele y considerársele su opinión, la cual deberá ser valorada en función de su edad y madurez.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 571.
 
-Cuando de una misma fuente de obligaciones resulten acreedores cualquier persona y un niño, prevalecerán los derechos de éste.
+Las actuaciones administrativas y judiciales atenderán al interés superior de la niñez, para tal efecto se observará que:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
+I. Los derechos de la niñez sean preferentes sobre cualquier otro derecho;
+
+II. El derecho de los adultos no condicione el ejercicio de los derechos de la niñez;
+
+III. Los vínculos afectivos y la convivencia existentes entre padres e hijos permanezcan, salvo que existan razones determinantes para restringirla o suspenderla;
+
+IV. Se reincorpore en la medida de lo posible a los niños, niñas y adolescentes a su ambiente familiar;
+
+V. Las medidas que promuevan la recuperación física y psicológica. así la como (sic) la reincorporación a un ambiente familiar y social garanticen el respeto de su personalidad individual;
+
+VI. La identidad de las personas menores de edad se resguarde de cualquiera que no sea parte;
+
+VII. En el desarrollo de las actuaciones se garantice que la persona menor de edad pueda gozar de privacidad que facilite su comunicación libre y espontánea y de asistencia profesional especializada; y
+
+VIII. La persona menor de edad sea escuchada en privado, siempre con respeto a sus derechos, sin la presencia o intervención de quienes personifiquen o representen intereses contrarios a los suyos.
+
+Para efecto de lo dispuesto por la fracción VII, podrán autorizarse entrevistas previas a la audiencia de escucha, quedando el padre o madre custodio o quien ejerza la guarda y custodia personal o institucional obligado a dar cumplimiento a los requerimientos del asistente designado por el Juez.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 572.
 
-Es interés superior el que los menores de edad se desarrollen en un ambiente familiar sano y, cuando el Juez de la causa considere que es lo más conveniente al menor, debe considerarse el siguiente orden de preferencias:
+Cuando los padres no convengan la guarda y custodia de sus hijos, el Juez de la causa considerará qué es lo más conveniente para la persona menor de edad y deberá atender al siguiente orden de preferencias:
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-I. Con sus padres biológicos o adoptivos;
+I. Con sus padres;
 
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-II. Cuando no convivan ambos padres biológicos o adoptantes, cualquiera de los dos ejercerá sobré él la custodia, siempre y cuando tengan la disposición y la posibilidad efectiva de su custodia, además de no tener una conducta nociva a la salud física o psíquica del menor; en caso de que exista igualdad de circunstancias, ambos convendrán quién de ellos ejercerá la custodia; en caso de que no lo hicieren, el Juez, oyendo a los padres, y si considera conveniente a los familiares o personas con las que estén ligados y al Consejo de Familia, resolverá;
+II. Cuando no convivan ambos padres, cualquiera de los dos ejercerá sobre él la guarda y custodia, siempre y cuando tengan la disposición y la posibilidad efectiva de su guarda y custodia, además de no tener una conducta nociva a la salud física o psíquica del menor de edad;
 
-III. (DEROGADA, P.O. 3 DE AGOSTO DE 2013)
+III. (DEROGADA, P.O. 3 DE AGOSTO DE 2013) (REPUBLICADA, P.O. 25 DE NOVIEMBRE DE 2014)
 
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-IV. Cuando ninguno de los dos padres biológicos o adoptivos tenga la custodia del menor de edad, ésta podrá ser confiada, por el Juez, a los ascendientes, parientes dentro del cuarto grado o personas con las que estén ligados en virtud de amistad profunda o el afecto nacido y sancionado por los actos religiosos o respetados por la costumbre, siempre y cuando cumplan con los requisitos de disposición y disponibilidad afectiva de custodia, así como de buenas costumbres;
+IV. Cuando ninguno de los dos padres tenga la guarda y custodia del menor de edad, ésta podrá ser confiada, por el Juez, a los ascendientes, parientes dentro del cuarto grado o personas con las que estén ligados en virtud de amistad profunda o el afecto nacido y sancionado por los actos religiosos o respetados por la costumbre, siempre y cuando cumplan con los requisitos de disposición y disponibilidad afectiva de custodia, así como de buenas costumbres;
 
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-V. En convivencia dentro de familias sustitutas, que a través de la custodia personal autorizada por el Juez y supervisada por el Consejo de Familia, sea estatal, municipal o intermunicipal; siempre y cuando cumplan con los requisitos de disposición y disponibilidad afectiva de custodia, así como de buenas costumbres, y
+V. En convivencia dentro de familias sustitutas, que a través de la custodia personal autorizada por el Juez y supervisado por el Consejo de Familia, sea estatal, municipal o intermunicipal; siempre y cuando cumplan con los requisitos de disposición y disponibilidad afectiva de custodia, así como de buenas costumbres; y
 
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-VI. En instituciones públicas o privadas que alberguen menores a través de custodia institucional; deberá el juez cerciorarse que el medio es idóneo para el menor.
+VI. En instituciones públicas o privadas que alberguen menores a través de custodia institucional; deberá el Juez cerciorarse que el medio es idóneo para la persona menor de edad.
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2013)</small>
-
-En cualquiera de los supuestos previstos en las fracciones que anteceden, los progenitores o adoptantes tienen el deber y el derecho de visitar y convivir con sus hijos para que no se pierdan los vínculos afectivos que nacen de toda relación paterna filial Y en caso de menores sujetos a la tutela o custodia de alguna institución, éstas deberán vigilar dicha convivencia.
+> <small>(DEROGADO SEGUNDO PÁRRAFO [N. DE E. REUBICADO EN EL ARTÍCULO 573], P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 > <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2013)</small>
 
 En los casos de las fracciones V y VI, la convivencia será autorizada por el Juez y supervisada por el Consejo de Familia.
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-En todos los casos el Consejo de Familia, estatal, municipal o intermunicipal, deberá cerciorarse de que las personas que vayan a ejercer la custodia del menor sean idóneas y que cumplan con los requisitos de ley.
+En todos los casos el Consejo de Familia, estatal, municipal o intermunicipal, deberá cerciorarse de que las personas que vayan a ejercer la custodia de la persona menor de edad sean idóneas y que cumplan con los requisitos de ley.
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-Los huérfanos y los niños privados de la asistencia de sus padres o tutores deben gozar de una protección especial por parte del Estado.
+Las personas menores de edad privadas de la asistencia de sus padres o tutores deben gozar de una protección especial por parte del Estado.
 
-### CAPITULO III. De los modos de acabarse y suspenderse la patria potestad
-
-###### Art. 573.
-
-Cuando se vaya a tomar una determinación relacionada con los intereses del menor, deberá oírsele y considerársele su opinión, la cual deberá ser valorada en función de su edad y madurez.
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
-
-###### Art. 574.
-
-La niñez tiene derecho a la promoción de su salud, así como a ser sujeto en la implementación de campañas emprendidas por las autoridades de salud, en la prevención de enfermedades, de igual manera tiene derecho a recibir información sobre su persona y desarrollo, así como conocer sus derechos y responsabilidades.
-
-###### Art. 575.
-
-La niñez tiene derecho al descanso y al esparcimiento, al juego y a las actividades recreativas propias de su edad y a participar libremente en la vida cultural y artística de su comunidad.
-
-###### Art. 576.
-
-Los progenitores tendrán igual trato y consideración hacia sus hijos, sin que puedan existir preferencias de los unos sobre los otros. Solamente cuando algún infante requiera de atención médica y educativa especializada, se deberá efectuar esa distinción afectiva.
-
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
-
-###### Art. 577.
-
-Cuando la convivencia del menor con determinadas personas vaya en detrimento de los preceptos establecidos en este capítulo incluyéndose a quienes sobre él ejercen la patria potestad, el Juez podrá decretar la cesación de esa convivencia a petición de cualesquiera de los ascendientes, del Consejo de Familia o del Agente de la Procuraduría Social.
-
-## TITULO NOVENO. De la tutela
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ### CAPITULO I. Disposiciones generales
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+###### Art. 573.
+
+El régimen de visitas y convivencia constituye un derecho de las personas menores de edad que tiene por objeto regular y organizar el contacto, estancias y comunicaciones entre ellos y sus progenitores o adoptantes, familiares o parientes cuando los padres no convivan entre sí o cuando su convivencia haya cesado, caracterizado por una distribución igualitaria y racional del tiempo acordado voluntariamente entre ellos o en su defecto por decisión judicial.
+
+Las personas menores de edad tienen el derecho de visitas y convivencia por tratarse de un derecho autónomo al de la guarda y custodia así como de patria potestad y superior a la voluntad de la persona a cuyo cargo se encuentre la guarda y custodia.
+
+Los padres tienen el deber de visitar y convivir con sus hijos para que no se pierdan los vínculos afectivos que nacen de toda relación paterno filial. Cuando los menores de edad se encuentren sujetos a la tutela o guarda y custodia de alguna institución, éstas deberán vigilar dicha convivencia.
+
+El régimen de visitas y convivencia sólo podrá restringirse o suspenderse mediante declaración judicial cuando de conformidad con la ley se determine que ello es contrario al interés superior de la niñez.
+
+Los padres y las personas que ejerzan la guarda y custodia personal o institucional deberán abstenerse de realizar cualquier acto que promueva en las personas menores (sic) edad o mayores incapaces el olvido, rechazo, rencor, odio, desprecio o temor hacia la persona con quien tienen derecho de visitas y convivencia.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+###### Art. 574.
+
+Procederá la restricción o suspensión del derecho de visitas y convivencia cuando:
+
+I. Se cometan actos de violencia intrafamiliar;
+
+II. Se cometan delitos en contra de la persona menor de edad;
+
+III. Se cometan conductas nocivas a la salud física o psíquica de la persona menor de edad;
+
+IV. Se cometan actos reiterados que sin causa justificada impidan o nieguen el ejercicio del derecho de visitas y convivencia;
+
+V. Se promueva en los menores de edad el olvido, rechazo, rencor, odio, desprecio o temor hacia la persona con quien tienen derecho de visitas y convivencia;
+
+VI. La convivencia de la persona menor de edad con determinadas personas vaya en detrimento de los preceptos establecidos por este código;
+
+VII. El ascendiente no asista sin causa justificada, en un periodo mayor a seis meses a las visitas decretadas;
+
+VIII. Los padres recurran continuamente a los tribunales para ejercer acciones legales notoriamente frívolas e improcedentes así declaradas por la autoridad, contra el padre no conviviente;
+
+IX. Presenten falsas denuncias penales en contra del otro progenitor imputándolo (sic) abusos físicos o sexuales en contra de los hijos; y
+
+X. El padre o la madre incumpla de manera reiterada y sin causa justa las obligaciones que le impone este código con excepción a lo dispuesto por el último párrafo de este artículo;
+
+No podrá restringirse el derecho de las visitas y convivencia de los hijos por el incumplimiento de obligaciones alimentarias.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+###### Art. 575.
+
+El Juez podrá decretar en todo momento las medidas necesarias para salvaguardar los derechos de convivencia de las personas menores de edad, para tal efecto establecerá las condiciones que permitan, de ser posible, la subsistencia de los vínculos afectivos de la relación paterno filial, para lo cual podrá decretar las siguientes medidas de protección:
+
+I. Someter al padre o la madre a tratamiento profesional;
+
+II. Conceder al padre o la madre visitas y convivencia asistida o supervisada por institución pública;
+
+III. Prohibir al padre o la madre salir sin autorización del país, de la localidad en la cual reside o del ámbito territorial que fije el Juez;
+
+IV. Restringir las visitas y convivencia y autorizar otras formas de comunicación que permitan preservar los lazos familiares;
+
+V. Suspender temporalmente los derechos de visita y convivencia; y
+
+VI. Las demás medidas de apremio y medidas de protección que establezca la legislación civil.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+###### Art. 576.
+
+La negativa reiterada y sin causa justificada del padre o madre custodio o de la persona que ejerza la custodia personal o institucional a permitir las visitas y convivencia con quien la persona menor de edad tenga derecho, dará lugar a la modificación de las condiciones de la guarda y custodia.
+
+De igual forma la modificación de la guarda y custodia tendrá lugar cuando el padre o madre custodio cambie de residencia y no informe al padre o madre no custodio ni al Juez sobre el nuevo domicilio en el que se desenvolverá el régimen de visitas y convivencia.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+###### Art. 577.
+
+Cuando la convivencia del menor con determinadas personas vaya en detrimento de los preceptos establecidos en este capítulo, incluyéndose a quienes sobre él ejercen la patria potestad, el Juez podrá decretar la cesación de esa convivencia a petición de cualesquiera de los padres y en ausencia de éstos a petición de los ascendientes, del Consejo de Familia o del Agente de la Procuraduría Social.
+
+## TITULO OCTAVO. De la patria potestad
+
+### CAPITULO II. De los efectos de la patria potestad respecto de los bienes del hijo
+
 ###### Art. 578.
 
-Se entiende por patria potestad la relación de derechos y obligaciones que recíprocamente tienen, por una parte el padre y la madre, y por otra, los hijos menores no emancipados, cuyo objeto es la custodia de la persona y los bienes de esos menores, entendida ésta en función del amparo de los hijos.
+Se entiende por patria potestad la relación de derechos y obligaciones que recíprocamente tienen, por una parte el padre y la madre, y por otra, los hijos menores de edad no emancipados o mayores incapaces, cuyo objeto es garantizar el ejercicio de los derechos de los niños, niñas y adolescentes, su guarda y custodia y representación legal.
+
+Se entenderá que existe patria potestad prorrogada cuando los hijos aún siendo mayores de edad tienen desde la minoría de edad, incapacidad que les impida valerse por sí mismos y la misma se deduzca de su historial clínico o constituya un hecho notorio. Cuando se declare tendrá los efectos que señala el párrafo anterior de este artículo.
 
 ###### Art. 579.
 
@@ -3701,15 +3935,17 @@ Cuando por causa de investigación de la maternidad o de la paternidad, alguien 
 
 Cuando quienes ejerzan la patria potestad vivan juntos y se separen, se convendrá por ambos quién ejercerá la custodia del hijo o los hijos que hubiere y si no se ponen de acuerdo, deberá seguirse el orden de preferencia establecido en el artículo 572.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
 ###### Art. 586.
 
-El menor sujeto a patria potestad debe vivir con el ascendiente que la ejerza, sin que pueda dejar el domicilio familiar sin permiso, que en todo caso se debe otorgar por quien la tenga.
+La persona menor de edad sujeto a patria potestad debe vivir con el ascendiente que la ejerza, sin que pueda dejar el domicilio familiar sin permiso, que en todo caso se debe otorgar por quien la tenga salvo que exista mandato judicial sobre la guarda y custodia o régimen de visitas y convivencia.
 
 ###### Art. 587.
 
 El menor debe obediencia y consideración hacia los ascendientes que sobre él ejercen la patria potestad, y debe contribuir equitativamente y de conformidad con su desarrollo personal, a las tareas de ordenamiento y conservación de la casa habitación.
 
-### CAPITULO II. De la tutela testamentaria
+### CAPITULO III. De los modos de acabarse y suspenderse la patria potestad
 
 ###### Art. 588.
 
@@ -3767,7 +4003,7 @@ Los jueces tienen la facultad en la resolución que dicten, de tomar las medidas
 
 Estas medidas se seguirán a instancia de las personas interesadas, del menor cuando hubiere cumplido catorce años, del Consejo de Familia o del Agente de la Procuraduría Social.
 
-### CAPITULO III. De la tutela legítima de los menores
+### CAPITULO I. Disposiciones generales
 
 ###### Art. 597.
 
@@ -3781,53 +4017,61 @@ III. Por la mayoría de edad de éste; y
 
 IV. Por la revocación de la adopción simple.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 598.
 
-La Patria Potestad se pierde:
+La patria potestad se pierde:
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-I. Cuando quien la ejerce comete algún delito intencional que afecte al menor o a su patrimonio; o consienta que terceras personas lo cometan;
+I. Cuando quien la ejerce comete algún delito intencional que afecte a la persona menor de edad o a su patrimonio; o consienta que terceras personas lo cometan;
 
 II. Cuando el que la ejerce es condenado expresamente a su pérdida;
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-III. Cuando quien la ejerce, tenga conductas nocivas para la salud física o psiquica del menor aunque tales no sean penalmente punibles, o consienta que terceras personas las realicen;
+III. Cuando quien la ejerce, tenga conductas nocivas para la salud físico (sic) o psíquica de la persona menor de edad aunque tales no sean penalmente punibles, o consienta que terceras personas las realicen.
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-IV. Cuando quien la ejerce genere violencia intrafamiliar en contra del menor, entendida esta como maltrato físico o psicológico, o bien, cuando consienta que terceras personas ejerzan dicha violencia.
+IV. Cuando quien la ejerce genere violencia intrafamiliar en contra de la persona menor de edad, entendida esta como maltrato físico o psicológico, o bien, cuando consienta que terceras personas ejerzan dicha violencia.
 
 Se entiende por maltrato físico al conjunto de lesiones que presenta una persona, que no resultan de accidentes o golpes fortuitos y que por su periodicidad, atención médica inexistente, huellas de abuso sexual, la naturaleza o causa de las mismas, la existencia de cicatrices antiguas y actuales, aunque no pongan en peligro la vida, evidencian un caso de maltrato.
 
-Se entiende por maltrato psicológico al recurrente empleo de palabras, acciones y actitudes que afecten al menor o al incapaz en su autoestima y autoconfianza, no permitiéndole un sano desarrollo;
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+Se entiende por maltrato psicológico al recurrente empleo de palabras, acciones y actitudes que afecten al menor de edad o al incapaz en su autoestima y autoconfianza, no permitiéndole un sano desarrollo;
 
 V. Cuando quien la ejerce:
 
 a) Exponga a su descendiente;
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-b) Le abandone por más de tres meses si éste quedó a cargo de alguna institución especializada o persona;
+b) Le abandone por más de seis meses si éste quedó a cargo de alguna institución especializada o persona y además el abandono sea intencional;
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE MAYO DE 2008)</small>
+No se considerará que comete abandono intencional quien sea privado de la libertad por mandato judicial;
 
-c) Abandone por más de un día a su descendiente, si el menor no hubiere quedado al cuidado de alguna persona y además éste abandono sea intencional, y
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2008)</small>
+c) Abandone por más de un día a su descendiente, si éste no hubiere quedado al cuidado y vigilancia de alguna persona y además éste abandono sea intencional;
 
-d) Cometa actos de violencia intrafamiliar, hacia sus descendientes u adoptados menores de edad.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2014)</small>
+d) Cometa actos de violencia intrafamiliar, o delitos en contra de sus descendientes o adoptados menores de edad.
 
-VI. En los casos de divorcio, cuando así se establezca; y
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2014)</small>
+VI. En los casos de divorcio, cuando así se establezca;
 
-VII. Cuando quien la ejerce, abandone sus deberes frente a sus descendientes.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+VII. Cuando quien la ejerce, abandone sus deberes frente a sus descendientes; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+VIII. Por impedir de manera reiterada sin causa justa las visitas o convivencia decretadas por autoridad competente o en convenio aprobado por la autoridad judicial y ya hubiere sido decretada con anterioridad la pérdida de la guarda y custodia.
 
 ###### Art. 599.
 
@@ -3835,9 +4079,11 @@ La pérdida de la patria potestad se decretará:
 
 I. En el caso de la fracción I del artículo que precede; en la sentencia que se dicte por quien haya conocido del proceso penal, suspendiéndose en tanto se decide el negocio judicial;
 
-II. En los casos de las fracciones de la II a la IV, en la sentencia del juicio civil que expresamente se siga; y
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-III. En el caso de la fracción V, en la sentencia del juicio de divorcio.
+II. En los casos de las fracciones de la II a la VIII, en la sentencia del juicio civil que expresamente se siga; y
+
+III. (DEROGADA, P.O. 25 DE NOVIEMBRE DE 2014)
 
 ###### Art. 600.
 
@@ -3861,9 +4107,9 @@ I. Cuando tengan sesenta años cumplidos; y
 
 II. Cuando por el mal estado habitual de su salud, no pueden atender debidamente su desempeño.
 
-## TITULO DECIMO. Del consejo de familia
+## TITULO NOVENO. De la tutela
 
-### CAPITULO IV. De la tutela legítima del mayor incapacitado
+### CAPITULO II. De la tutela testamentaria
 
 ###### Art. 603.
 
@@ -3965,9 +4211,7 @@ El Juez de Primera Instancia del domicilio del incapacitado y, si no lo hubiere,
 
 El juez que no cumpla las prescripciones relativas a la tutela, además de las penas en que incurra conforme a las leyes, será responsable de los daños y perjuicios que sufran los incapaces.
 
-### CAPITULO V. De la tutela dativa
-
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 2011)</small>
+### CAPITULO III. De la tutela legítima de los menores
 
 ###### Art. 623.
 
@@ -4019,7 +4263,7 @@ Si por un nombramiento condicional de tutor o por algún otro motivo, faltare te
 
 El adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testamentario a su hijo adoptivo; aplicándose a esta tutela lo dispuesto en los artículos anteriores.
 
-### CAPITULO VI. De las personas inhábiles para el desempeño de la tutela y de las que deben ser separadas de ella
+### CAPITULO IV. De la tutela legítima del mayor incapacitado
 
 ###### Art. 635.
 
@@ -4063,7 +4307,9 @@ III. De los menores y de los mayores incapaces no sujetos a patria potestad o tu
 
 El Consejo Estatal de Familia podrá además, en los términos de este artículo, realizar la función de tutor a través de sus delegados.
 
-### CAPITULO VII. De las excusas para el desempeño de la tutela
+### CAPITULO V. De la tutela dativa
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2011)</small>
 
 ###### Art. 640.
 
@@ -4103,7 +4349,7 @@ La Procuraduría Social se cerciorará del estado que guarda el incapacitado y t
 
 Los recursos y patrimonio del incapacitado se destinarán en forma preferente a su seguridad, alivio y mejoría en la calidad de vida; quien desempeñe la tutoría adoptará las medidas que juzgue oportunas, proponiéndolas para tal efecto a la Procuraduría Social para su aprobación. Las medidas que fueren muy urgentes podrán ser ejecutadas de inmediato, quedándose obligado a dar cuenta a la Procuraduría Social para su conocimiento y consideración.
 
-### CAPITULO VIII. De la garantía que deben prestar los tutores para asegurar su manejo
+### CAPITULO VI. De las personas inhábiles para el desempeño de la tutela y de las que deben ser separadas de ella
 
 ###### Art. 648.
 
@@ -4181,7 +4427,7 @@ En caso de no constar las obligaciones ni la forma de llevar la tutela en el doc
 
 En el procedimiento de declaración del estado de incapacidad, el Juez deberá nombrar como tutor y curador interino al designado en el documento público.
 
-### CAPITULO IX. Del desempeño de la tutela
+### CAPITULO VII. De las excusas para el desempeño de la tutela
 
 ###### Art. 654.
 
@@ -4253,7 +4499,7 @@ En el caso de que trata el artículo anterior, se proveerá a la tutela conforme
 
 Absuelto el tutor, volverá al ejercicio de su encargo. Si es condenado a una pena que no lleve consigo la inhabilitación para desempeñar la tutela, volverá a ésta al extinguir su condena, siempre que la pena impuesta no exceda de un año de prisión.
 
-### CAPITULO X. De la tutela del menor
+### CAPITULO VIII. De la garantía que deben prestar los tutores para asegurar su manejo
 
 ###### Art. 661.
 
@@ -4305,7 +4551,7 @@ El tutor que sin excusa o desechada la que hubiere propuesto, no desempeñe la t
 
 Muerto el tutor que esté desempeñando la tutela, sus herederos o ejecutores testamentarios están obligados a dar aviso al juez, quien proveerá inmediatamente al incapacitado del tutor que corresponda, según la ley.
 
-### CAPITULO XI. Reglas sobre la administración de bienes
+### CAPITULO IX. Del desempeño de la tutela
 
 ###### Art. 669.
 
@@ -4399,9 +4645,7 @@ Al presentar el tutor su cuenta anual, el curador o el Consejo de Familia deben 
 
 Es también obligación del curador y del Consejo de Familia, vigilar el estado de las fincas hipotecadas por el tutor o de los bienes entregados en prenda, dando aviso al juez de los deterioros y menoscabo que en ellos hubiere, para que si es notable la disminución del precio, se exija al tutor que asegure con otros bienes los intereses que administra.
 
-### CAPITULO XII. De las cuentas de la tutela
-
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+### CAPITULO X. De la tutela del menor
 
 ###### Art. 684.
 
@@ -4429,7 +4673,7 @@ V. A representar al incapacitado en juicio y fuera de él, en todos los actos ci
 
 VI. A solicitar oportunamente la autorización judicial para todo lo que legalmente no puede hacer sin ella.
 
-### CAPITULO XIII. De la extinción de la tutela
+### CAPITULO XI. Reglas sobre la administración de bienes
 
 ###### Art. 687.
 
@@ -4459,7 +4703,9 @@ Si los pupilos fuesen indigentes o careciesen de suficientes medios para los gas
 
 Si los pupilos indigentes no tienen personas que estén obligadas a alimentarlos o si teniéndolas, no pudieren hacerlo, el tutor, con autorización del juez, quien oirá el parecer del curador y del Consejo de Familia, pondrá al menor en un establecimiento de Beneficencia Pública descentralizada o privada en donde pueda educarse. Si ni eso fuere posible, el tutor procurará que los particulares suministren trabajo al incapacitado, compatible con su edad y circunstancias personales, con la obligación de alimentarlo y educarlo. No por esto el tutor queda eximido de su cargo, ya que continuará vigilando al menor, a fin de que no sufra daño por lo excesivo del trabajo, lo insuficiente de la alimentación o lo defectuoso de la educación que se le imparta.
 
-### CAPITULO XIV. De la entrega de los bienes
+### CAPITULO XII. De las cuentas de la tutela
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Art. 694.
 
@@ -4633,9 +4879,7 @@ Para que pueda hacerse en la retribución de los tutores, el aumento extraordina
 
 El tutor no tendrá derecho a remuneración alguna y restituirá lo que por este título hubiese recibido, si contraviniese lo dispuesto en el artículo 271.
 
-### CAPITULO XV. Del curador
-
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 2011)</small>
+### CAPITULO XIII. De la extinción de la tutela
 
 ###### Art. 734.
 
@@ -4703,9 +4947,7 @@ La garantía dada por el tutor no se cancelará sino cuando las cuentas hayan si
 
 El convenio celebrado entre el tutor y el del pupilo que estuvo bajo su guarda, antes de que transcurra un mes contado desde la rendición y aprobación de las cuentas, no tendrá eficacia jurídica.
 
-### CAPITULO UNICO. Disposiciones generales
-
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+### CAPITULO XIV. De la entrega de los bienes
 
 ###### Art. 750.
 
@@ -4715,9 +4957,9 @@ I. Por la muerte del pupilo o porque desaparezca la incapacidad; y
 
 II. Cuando el incapacitado sujeto a tutela, entre a la patria potestad por cualquier causa.
 
-### CAPITULO UNICO
+### CAPITULO XV. Del curador
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2011)</small>
 
 ###### Art. 751.
 
@@ -4759,7 +5001,9 @@ Todas las acciones por hechos relativos a la administración de la tutela, que e
 
 Si la tutela hubiere fenecido durante la minoridad, el menor podrá ejercitar las acciones correspondientes contra el primer tutor y los que le hubieren sucedido en el cargo, computándose entonces los términos desde el día en que llegue a la mayor edad. Tratándose de los demás incapacitados, los términos se computarán desde que cese la incapacidad.
 
-### CAPITULO I. De los bienes inmuebles
+### CAPITULO UNICO. Disposiciones generales
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Art. 761.
 
@@ -4825,9 +5069,11 @@ El curador tiene derecho a ser relevado de la curaduría, pasados diez años des
 
 En los casos en que conforme a este código tenga que intervenir el curador, cobrará el honorario equivalente a la mitad que le corresponda al tutor, sin que por ningún otro motivo pueda pretender mayor retribución. Si hiciere algunos gastos en su desempeño le serán cubiertos con cargo al patrimonio del incapaz.
 
-## TITULO PRIMERO. Disposiciones preliminares
+## TITULO DECIMO. Del consejo de familia
 
-### CAPITULO II. De los bienes muebles
+### CAPITULO UNICO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
 ###### Art. 774.
 
@@ -4847,7 +5093,7 @@ TITULO DECIMOPRIMERO
 
 El patrimonio de familia
 
-### CAPITULO III. De los bienes considerados según las personas a quienes pertenecen
+### CAPITULO I. De los bienes inmuebles
 
 ###### Art. 777.
 
@@ -5003,7 +5249,7 @@ Extinguido el patrimonio de la familia, los bienes que lo formaban vuelven al pl
 
 # LIBRO TERCERO. De los bienes, su propiedad y sus diferentes manifestaciones
 
-## TITULO SEGUNDO. Clasificación de los bienes integrantes del patrimonio económico
+## TITULO PRIMERO. Disposiciones preliminares
 
 ###### Art. 796.
 
@@ -5017,9 +5263,9 @@ Pueden ser objeto de apropiación todas las cosas que no estén excluidas del co
 
 Están fuera del comercio por su naturaleza, las cosas que no puedan ser objeto de apropiación por una o varias personas exclusivamente; y por disposición de la ley, cuando ésta las declara irreductibles a propiedad particular.
 
-## TITULO TERCERO. De la posesión
+## TITULO SEGUNDO. Clasificación de los bienes integrantes del patrimonio económico
 
-### CAPITULO IV. De los bienes mostrencos
+### CAPITULO II. De los bienes muebles
 
 ###### Art. 799.
 
@@ -5057,7 +5303,7 @@ XIV. Las plantas, instalaciones o establecimientos para el uso y aprovechamiento
 
 Los bienes muebles por su naturaleza que se hayan considerado como inmuebles en el artículo anterior, recobrarán su calidad de muebles cuando el mismo dueño los separe del predio o edificio; salvo el caso de que en el valor de éste se haya computado el de aquéllos para constituir algún derecho real a favor de un tercero.
 
-### CAPITULO V. De los bienes vacantes
+### CAPITULO III. De los bienes considerados según las personas a quienes pertenecen
 
 ###### Art. 801.
 
@@ -5105,7 +5351,7 @@ Los bienes muebles son fungibles o no fungibles. Pertenecen a la primera clase l
 
 Los no fungibles son los que en el pago no pueden ser sustituidos por otros de la misma especie, calidad y cantidad.
 
-### CAPITULO VI. De los bienes tangibles e intangibles
+### CAPITULO IV. De los bienes mostrencos
 
 ###### Art. 812.
 
@@ -5147,7 +5393,7 @@ Son bienes de propiedad de los particulares todas las cosas cuyo dominio les per
 
 Los extranjeros y las personas jurídicas para adquirir la propiedad de bienes inmuebles observará lo dispuesto en el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos y sus leyes reglamentarias.
 
-### CAPITULO UNICO
+### CAPITULO V. De los bienes vacantes
 
 ###### Art. 822.
 
@@ -5201,7 +5447,7 @@ Cuando por alguna circunstancia especial, a juicio de la autoridad fuere necesar
 
 La venta se hará siempre en almoneda pública, previa estimación de peritos.
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO VI. De los bienes tangibles e intangibles
 
 ###### Art. 833.
 
@@ -5227,7 +5473,7 @@ El denunciante recibirá la cuarta parte del valor de los bienes, reduciéndosel
 
 El que se apodere de un bien vacante sin cumplir lo previsto en este capítulo, será responsable de los daños y perjuicios que su conducta origine sin perjuicio de lo que disponga el Código Penal por la comisión de algún ilícito.
 
-### CAPITULO II. De la titulación por usucapión
+### CAPITULO UNICO
 
 ###### Art. 838.
 
@@ -5237,7 +5483,7 @@ Son bienes tangibles aquellos que pueden apreciarse por los sentidos.
 
 Son bienes intangibles los que carecen de los atributos a que se refiere el artículo anterior.
 
-## TITULO CUARTO. De la usucapión
+## TITULO TERCERO. De la posesión
 
 ### CAPITULO I. Disposiciones generales
 
@@ -5451,9 +5697,9 @@ VIII. Renuncia expresa.
 
 Se pierde la posesión de los derechos cuando es imposible ejercitarlos o cuando no se ejercen por el tiempo que baste para que operen la usucapión.
 
-## TITULO QUINTO. De la propiedad
+## TITULO CUARTO. De la usucapión
 
-### CAPITULO II. De los tesoros
+### CAPITULO II. De la titulación por usucapión
 
 ###### Art. 879.
 
@@ -5579,7 +5825,7 @@ El día en que comienza la usucapión se cuenta siempre entero, aunque no lo sea
 
 Cuando el último día sea feriado, no se tendrá por completa la usucapión, sino cumplido el primero día hábil siguiente.
 
-### CAPITULO III. Del derecho de accesión
+### CAPITULO I. Disposiciones generales
 
 ###### Art. 898.
 
@@ -5589,9 +5835,9 @@ Quien hubiere poseído bienes inmuebles por el tiempo y con las condiciones exig
 
 La sentencia ejecutoria que declare procedente la acción de usucapión, se inscribirá en el Registro Público de la Propiedad y servirá de título de dominio al poseedor propietario.
 
-## TITULO SEXTO. Del condominio
+## TITULO QUINTO. De la propiedad
 
-### CAPITULO IV. De la copropiedad
+### CAPITULO II. De los tesoros
 
 ###### Art. 900.
 
@@ -5619,7 +5865,7 @@ Todo propietario tiene derecho a deslindar su propiedad y hacer o exigir el amoj
 
 También tiene derecho y en su caso obligación de cerrar o cercar su propiedad, en todo o en parte, del modo que lo estime conveniente o lo dispongan las leyes o reglamentos, sin perjuicio de las servidumbres que reporte la propiedad.
 
-### CAPITULO I. Prevenciones generales
+### CAPITULO III. Del derecho de accesión
 
 ###### Art. 906.
 
@@ -5665,7 +5911,7 @@ Cuando uno tuviera la propiedad y otro el usufructo de una finca en que se haya 
 
 Si el nudo propietario encuentra el tesoro en la finca o terreno cuyo usufructo pertenece a otra persona, ésta no tendrá parte alguna en el tesoro, pero sí derecho de exigir del propietario una indemnización por los daños y perjuicios que origine la interrupción del usufructo, en la parte ocupada o demolida para buscar el tesoro; la indemnización se pagará aun cuando no se encuentre el tesoro.
 
-### CAPITULO II. De la administración
+### CAPITULO IV. De la copropiedad
 
 ###### Art. 917.
 
@@ -5857,7 +6103,7 @@ Cuando el mérito de la obra sea inferior en precio a la materia, el dueño de �
 
 Si la nueva especie se hizo de mala fe, el dueño de la materia empleada tiene derecho de quedarse con la obra sin pagar nada al que la hizo, o exigir de éste que le pague el valor de la materia y le indemnice de los perjuicios que se le hayan seguido.
 
-### CAPITULO III. Del consejo de administración
+### CAPITULO I. Prevenciones generales
 
 ###### Art. 961.
 
@@ -6049,9 +6295,9 @@ La división de bienes inmuebles es nula si no se hace con las mismas formalidad
 
 Son aplicables a la división entre copartícipes las reglas concernientes a la partición hereditaria.
 
-## TITULO SEPTIMO. Del usufructo
+## TITULO SEXTO. Del condominio
 
-### CAPITULO IV. De las asambleas
+### CAPITULO II. De la administración
 
 ###### Art. 1001.
 
@@ -6245,7 +6491,7 @@ VI. Poseer animales que por su número, tamaño o naturaleza afecten las condici
 
 El infractor de estas disposiciones, independiente de las sanciones que establece este título, será responsable por el pago de los daños y perjuicios.
 
-### CAPITULO V. De las cuotas
+### CAPITULO III. Del consejo de administración
 
 ###### Art. 1011.
 
@@ -6325,7 +6571,7 @@ Cuando la designación sea hecha por el ayuntamiento, bastará para su inscripci
 
 Art. 1013 bis.- Cuando la asamblea de condóminos designe una nueva administración, la saliente deberá entrega en un término que no exceda de quince días naturales al día de la designación, todos los documentos incluyendo los estados de cuenta, valores, muebles, inmuebles, y demás bienes que tuviera bajo su resguardo y responsabilidad, sin que dicho plazo pueda ampliarse sino por causa justificada que acrediten tal demora.
 
-### CAPITULO VI. De las controversias
+### CAPITULO IV. De las asambleas
 
 ###### Art. 1014.
 
@@ -6389,7 +6635,7 @@ De la escritura que contenga la protocolización, se tomará nota en la inscripc
 
 El acta que se levante también deberá asentarse en el libro de actas del propio condominio.
 
-### CAPITULO VII. De la destrucción y extinción
+### CAPITULO V. De las cuotas
 
 ###### Art. 1019.
 
@@ -6479,7 +6725,7 @@ La convocatoria deberá señalar el día y la hora para la cual se cita a la asa
 
 Cualquier asunto tratado en la asamblea y que no éste comprendido en el orden del día, no tendrá fuerza legal alguna, salvo el caso de que hayan estado representados el cien por ciento de personas e intereses.
 
-### CAPITULO VIII. De los condominios habitacionales duplex
+### CAPITULO VI. De las controversias
 
 ###### Art. 1026.
 
@@ -6517,7 +6763,7 @@ Cuando se celebre un contrato traslativo de dominio en relación a una unidad pr
 
 Las obligaciones a cargo del condominio, se ejecutarán sobre los fondos del patrimonio común; en caso de no ajustar con el mismo, el excedente deberá ser pagado proporcionalmente, al interés que cada condómino represente.
 
-### CAPITULO I. Del usufructo en general
+### CAPITULO VII. De la destrucción y extinción
 
 ###### Art. 1031.
 
@@ -6545,7 +6791,7 @@ Rendido el peritaje se señalará día y hora para que tenga verificativo la alm
 
 Si quien no cumple con sus obligaciones fuese ocupante no propietario, será demandado por la desocupación del departamento, vivienda, casa o local, por el administrador, previo consentimiento del condominio. Si éste se opusiere, se procederá contra ambos, en términos del artículo anterior.
 
-### CAPITULO II. De los derechos del usufructuario
+### CAPITULO VIII. De los condominios habitacionales duplex
 
 ###### Art. 1034.
 
@@ -6557,7 +6803,7 @@ Los condóminos que queden en minoría están obligados a contribuir a la recons
 
 Las reglas anteriores se observarán también en caso de ruina o de inoperabilidad de la edificación.
 
-### CAPITULO III. De las obligaciones del usufructuario
+### CAPITULO I. Del usufructo en general
 
 ###### Art. 1035.
 
@@ -6589,9 +6835,9 @@ VII. Cada una de las unidades habitacionales podrá ser enajenada libremente por
 
 Cuando surja alguna circunstancia no prevista en el reglamento particular que se emita para el condominio o en éste capítulo, se aplicarán de manera supletoria las bases que para la copropiedad se refiere en este código.
 
-## TITULO OCTAVO. Del uso y de la habitación
+## TITULO SEPTIMO. Del usufructo
 
-### CAPITULO IV. De los modos de extinguirse el usufructo
+### CAPITULO II. De los derechos del usufructuario
 
 ###### Art. 1039.
 
@@ -6637,7 +6883,7 @@ Las personas o sociedades que necesiten llenar algún requisito para adquirir bi
 
 El propietario y el usufructuario, en su caso, tendrán recíprocamente el derecho del tanto.
 
-### CAPITULO UNICO
+### CAPITULO III. De las obligaciones del usufructuario
 
 ###### Art. 1050.
 
@@ -6701,7 +6947,7 @@ El usufructuario puede hacer mejoras útiles y puramente voluntarias; pero no ti
 
 El propietario de bienes en que otro tenga el usufructo, puede enajenarlos con la condición de que se conserve el usufructo.
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO IV. De los modos de extinguirse el usufructo
 
 ###### Art. 1065.
 
@@ -6837,7 +7083,7 @@ Si el pleito interesa al mismo tiempo al dueño y al usufructuario, contribuirá
 
 Si el usufructuario, sin citación del propietario, o éste sin la de aquél, ha seguido un pleito, la sentencia favorable aprovecha al no citado y la adversa, no le perjudica.
 
-### CAPITULO II. Derechos y obligaciones
+### CAPITULO UNICO
 
 ###### Art. 1097.
 
@@ -6897,9 +7143,9 @@ El usufructo no se extingue por el mal uso que haga el usufructuario del bien us
 
 Terminado el usufructo, los contratos que respecto de él haya celebrado el usufructuario, no obligan al propietario; éste entrará en posesión del bien sin que contra él tengan derecho los que contrataron con el usufructuario para pedirle indemnización por la disolución de los contratos ni por las estipulaciones de estos derechos, que solo, pueden hacer valer contra el usufructuario y sus herederos, salvo lo dispuesto en el artículo 1062.
 
-## TITULO NOVENO. Derecho de uso en tiempo compartido
+## TITULO OCTAVO. Del uso y de la habitación
 
-### CAPITULO III. Cuotas de mantenimiento
+### CAPITULO I. Disposiciones generales
 
 ###### Art. 1107.
 
@@ -6935,9 +7181,9 @@ Si el usuario consume todos los frutos de los bienes, o el que tiene derecho de 
 
 Si los frutos que quedan al propietario no alcanzan a cubrir los gastos y cargas, la parte que falte será cubierta por el usuario o por el que tiene derecho a la habitación.
 
-## TITULO DECIMO. De las servidumbres
+## TITULO NOVENO. Derecho de uso en tiempo compartido
 
-### CAPITULO IV. Pérdida de derechos
+### CAPITULO II. Derechos y obligaciones
 
 ###### Art. 1115.
 
@@ -7019,7 +7265,7 @@ Para acreditar la titularidad del compartidario bastará que se consigne en form
 
 El afectante del inmueble o compartidor, deberá llevar un libro de registro de todos los compartidarios, como de los plazos, términos y condiciones que harán uso de ese derecho.
 
-### CAPITULO V. Sanciones
+### CAPITULO III. Cuotas de mantenimiento
 
 ###### Art. 1122.
 
@@ -7091,7 +7337,7 @@ Los derechos y obligaciones de los compartidarios no se extinguen por su muerte.
 
 Cuando el derecho pertenezca en exclusividad al compartidario, podrá señalar beneficiario.
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO IV. Pérdida de derechos
 
 ###### Art. 1132.
 
@@ -7103,7 +7349,7 @@ Cuando exista inconformidad sobre el monto, las partes se someterán al arbitraj
 
 Queda estrictamente prohibido solicitar y gravar a los compartidarios con cuotas destinadas a la mejoría del bien sujeto a la modalidad de tiempo compartido.
 
-### CAPITULO II. De las servidumbres legales
+### CAPITULO V. Sanciones
 
 ###### Art. 1134.
 
@@ -7139,7 +7385,7 @@ Los derechos a que se refiere este capítulo, no comprenden los del tanto, entre
 
 Cuando los compartidarios sean personas jurídicas, el tiempo de duración será el que se pacte expresamente en el contrato.
 
-### CAPITULO III. De la servidumbre legal de desagüe
+### CAPITULO I. Disposiciones generales
 
 ###### Art. 1139.
 
@@ -7147,9 +7393,9 @@ La autoridad municipal de la ubicación del desarrollo, aplicará sanciones al c
 
 La sanción de que habla el párrafo anterior será de quinientas a dos mil quinientas veces el salario mínimo general por día, de la zona económica que corresponda.
 
-## TITULO PRIMERO. Fuentes de las obligaciones
+## TITULO DECIMO. De las servidumbres
 
-### CAPITULO IV. De la servidumbre legal de acueductos
+### CAPITULO II. De las servidumbres legales
 
 ###### Art. 1140.
 
@@ -7185,7 +7431,7 @@ Las servidumbres son indivisibles. Si el predio sirviente se divide entre varios
 
 Las servidumbres tienen su origen en la voluntad del ser humano o de la ley; las primeras se llaman voluntarias y las segundas legales.
 
-### CAPITULO V. De la servidumbre legal de paso
+### CAPITULO III. De la servidumbre legal de desagüe
 
 ###### Art. 1148.
 
@@ -7199,7 +7445,7 @@ Es aplicable a las servidumbres legales el capítulo relativo a los derechos y o
 
 Todo lo concerniente a las servidumbres establecidas para la utilidad pública o comunal, se regirá por las leyes y reglamentos especiales y, en su defecto, por las disposiciones de este título.
 
-### CAPITULO VI. De las servidumbres voluntarias
+### CAPITULO IV. De la servidumbre legal de acueductos
 
 ###### Art. 1151.
 
@@ -7231,7 +7477,7 @@ Todos los propietarios que participen del beneficio proveniente de las obras de 
 
 Si las aguas que pasan al predio sirviente se han vuelto insalubres por los usos domésticos o industriales que de ellas se haya hecho, deberán volverse inofensivas antes de pasar al predio sirviente y a costa del dueño del predio dominante.
 
-### CAPITULO VII. De cómo se adquieren las servidumbres voluntarias
+### CAPITULO V. De la servidumbre legal de paso
 
 ###### Art. 1158.
 
@@ -7311,7 +7557,7 @@ La servidumbre de acueducto no obsta para que el dueño del predio sirviente pue
 
 Cuando para el mejor aprovechamiento del agua de que se tiene derecho de disponer, fuere necesario construir una presa y el que haya de hacerlo no sea el dueño del terreno en que se necesite apoyarla, puede pedir que se establezca la servidumbre de un estribo de presa, previa la indemnización correspondiente.
 
-### CAPITULO VIII. Derechos y obligaciones de los propietarios de los predios entre los que está constituida alguna servidumbre voluntaria
+### CAPITULO VI. De las servidumbres voluntarias
 
 ###### Art. 1175.
 
@@ -7365,7 +7611,7 @@ Si fuere indispensable para construir o reparar algún edificio, pasar materiale
 
 Cuando para establecer comunicaciones telefónicas particulares entre dos o más fincas o para conducir energía eléctrica a una finca, sea necesario colocar postes y tender alambres en terrenos de una finca ajena, el dueño de ésta tiene obligación de permitirlo mediante la indemnización correspondiente. Esta servidumbre trae consigo el derecho de tránsito de las personas y el de conducción de los materiales necesarios para la construcción y vigilancia de la línea.
 
-### CAPITULO IX. De la extinción de las servidumbres
+### CAPITULO VII. De cómo se adquieren las servidumbres voluntarias
 
 ###### Art. 1188.
 
@@ -7383,7 +7629,7 @@ Si fueren varios los propietarios de un predio, no se podrán imponer servidumbr
 
 Si siendo varios los propietarios, uno sólo de ellos adquiere una servidumbre sobre otro predio, a favor del común, de ella podrán aprovecharse todos los propietarios, quedando obligados a los gravámenes naturales que traiga consigo y a los pactos con que se haya adquirido.
 
-### CAPITULO UNICO
+### CAPITULO VIII. Derechos y obligaciones de los propietarios de los predios entre los que está constituida alguna servidumbre voluntaria
 
 ###### Art. 1192.
 
@@ -7405,7 +7651,7 @@ La existencia de un signo aparente de servidumbre entre dos fincas, establecido 
 
 Al constituirse una servidumbre se entienden concedidos todos los medios necesarios para su uso; y extinguida aquélla, cesan también estos derechos accesorios.
 
-### CAPITULO UNICO
+### CAPITULO IX. De la extinción de las servidumbres
 
 ###### Art. 1197.
 
@@ -7549,7 +7795,7 @@ TITULO DECIMOSEGUNDO
 
 De las limitaciones de dominio
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO UNICO
 
 ###### Art. 1224.
 
@@ -7573,7 +7819,7 @@ TITULO DECIMOTERCERO
 
 De los derechos y obligaciones de la vecindad
 
-### CAPITULO II. De los contratos
+### CAPITULO UNICO
 
 ###### Art. 1228.
 
@@ -7685,7 +7931,7 @@ TITULO DECIMOCUARTO
 
 Del Registro Público de la Propiedad
 
-### CAPITULO III. De la declaración unilateral de la voluntad
+### CAPITULO I. Disposiciones generales
 
 ###### Art. 1252.
 
@@ -7735,9 +7981,9 @@ PRIMERA PARTE
 
 De las obligaciones en general
 
-## TITULO SEGUNDO. Modalidades de las obligaciones
+## TITULO PRIMERO. Fuentes de las obligaciones
 
-### CAPITULO IV. Del enriquecimiento ilegítimo
+### CAPITULO II. De los contratos
 
 ###### Art. 1259.
 
@@ -7765,7 +8011,7 @@ Las obligaciones que emanan de la ley sólo son exigibles en los casos expresame
 
 Las obligaciones por concepto de reparación o responsabilidad civil, sólo existen en los casos y en la medida expresamente determinados por este código o por leyes especiales.
 
-### CAPITULO V. De la gestión de negocios
+### CAPITULO III. De la declaración unilateral de la voluntad
 
 #### Sección Primera. De su validez
 
@@ -8105,7 +8351,7 @@ Los contratos que no estén especialmente reglamentados en este código, se regi
 
 Las disposiciones legales sobre contratos serán aplicables a todos los convenios y a otros actos jurídicos, en lo que no se oponga a la naturaleza de éstos o a disposiciones especiales de la ley sobre los mismos.
 
-### CAPITULO VI. De las obligaciones que nacen de hechos ilícitos
+### CAPITULO IV. Del enriquecimiento ilegítimo
 
 ###### Art. 1330.
 
@@ -8239,7 +8485,7 @@ El suscriptor del título al portador no puede oponer más excepciones que las q
 
 La persona que ha sido desposeída injustamente de títulos al portador, sólo con orden judicial puede impedir que se paguen al detentador que los presente al cobro.
 
-### CAPITULO VII. De la responsabilidad civil objetiva
+### CAPITULO V. De la gestión de negocios
 
 ###### Art. 1356.
 
@@ -8301,7 +8547,7 @@ El que ha pagado para cumplir una deuda prescrita o para cumplir un deber moral,
 
 Lo que se hubiere entregado para la realización de un fin que sea ilícito o contrario a las buenas costumbres, no quedará en poder del que lo recibió. El cincuenta por cierto (sic) se destinará a la beneficencia pública y el otro cincuenta por ciento tiene derecho de recuperarlo el que lo entregó.
 
-### CAPITULO VIII. De las ventas por autoridad
+### CAPITULO VI. De las obligaciones que nacen de hechos ilícitos
 
 ###### Art. 1370.
 
@@ -8379,7 +8625,7 @@ Cuando sin consentimiento del obligado a prestar alimentos, los diese un extrañ
 
 Los gastos funerarios proporcionados a la condición de la persona y a los usos de la localidad, deberán ser satisfechos al que los haga, aunque el difunto no hubiese dejado bienes, por aquéllos que hubieren tenido la obligación de alimentarlo en vida.
 
-### CAPITULO I. De las obligaciones condicionales
+### CAPITULO VII. De la responsabilidad civil objetiva
 
 ###### Art. 1387.
 
@@ -8471,13 +8717,19 @@ Las personas que han causado en común un daño son responsables solidariamente 
 
 Las personas jurídicas son responsables de los daños y perjuicios que causen sus representantes legales en el ejercicio de sus funciones.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
 ###### Art. 1397.
 
-Los que ejerzan la patria potestad tienen obligación de responder de los daños y perjuicios causados por los actos de los menores que estén bajo su custodia y que habiten con ellos.
+Los que ejerzan la patria potestad tienen obligación de responder de los daños y perjuicios causados por los actos de los menores que estén bajo su guarda y custodia y que habiten con ellos.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 1398.
 
-Cesa la responsabilidad a que se refiere el artículo anterior, cuando los menores ejecuten los actos que dan origen a ella, encontrándose bajo la vigilancia y autoridad de otras personas, como directores de colegios, de talleres y otros similares, ya que entonces esas personas asumirán la responsabilidad de que se trata.
+El custodio responderá por los daños y perjuicios causados por las personas menores de edad cuando estas se encuentran bajo guarda y custodia de institución o persona distinta a quien ejerce la patria potestad.
+
+No recaerá responsabilidad por daños y perjuicios sobre quien ejerce la patria potestad ni la guarda y custodia, cuando la persona menor de edad al momento de producirlos se encuentre bajo cuidado y vigilancia de otras persona (sic) en guarderías, colegios, talleres y cualquier otra institución que implicitamente se encuentre obligada a ejercer cuidado y vigilancia.
 
 ###### Art. 1399.
 
@@ -8607,7 +8859,7 @@ Si la prestación consistiere en el pago de cierta cantidad de dinero, los daño
 
 El pago de los gastos judiciales será a cargo del que faltare al cumplimiento de la obligación.
 
-### CAPITULO II. De las obligaciones a plazo
+### CAPITULO VIII. De las ventas por autoridad
 
 ###### Art. 1427.
 
@@ -8645,7 +8897,7 @@ Son aplicables en lo conducente a este capítulo las disposiciones relativas al 
 
 (DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2003)
 
-### CAPITULO III. De las obligaciones conjuntivas y alternativas
+### CAPITULO I. De las obligaciones condicionales
 
 ###### Art. 1432.
 
@@ -8713,9 +8965,9 @@ No obstante lo dispuesto en el artículo anterior, cuando el precio no sea pagad
 
 El ejecutante podrá a su elección pedir el cumplimiento de la obligación o la resolución de ésta; pero hecha la elección se tendrá por irrevocable.
 
-## TITULO TERCERO. De la transmisión de las obligaciones
+## TITULO SEGUNDO. Modalidades de las obligaciones
 
-### CAPITULO IV. De las obligaciones mancomunadas
+### CAPITULO II. De las obligaciones a plazo
 
 ###### Art. 1447.
 
@@ -8779,7 +9031,7 @@ V. Si el bien se mejora por su naturaleza o por el tiempo, las mejoras ceden en 
 
 VI. Si se mejora a expensas del deudor, no tendrá éste otro derecho que el concedido al usufructuario.
 
-### CAPITULO V. De las obligaciones de dar
+### CAPITULO III. De las obligaciones conjuntivas y alternativas
 
 ###### Art. 1458.
 
@@ -8821,7 +9073,7 @@ III. Cuando por actos propios hubiese disminuido aquellas garantías, después d
 
 Si fueren varios los deudores solidarios, lo dispuesto en el artículo anterior sólo comprenderá al que se hallare en alguno de los casos que en el se designan.
 
-### CAPITULO VI. De las obligaciones de hacer o de no hacer
+### CAPITULO IV. De las obligaciones mancomunadas
 
 ###### Art. 1466.
 
@@ -8919,7 +9171,7 @@ Si el bien se pierde o el hecho deja de prestarse por culpa del acreedor, se tie
 
 La falta de prestación del hecho se regirá por lo dispuesto en los artículos 1535 y 1536.
 
-### CAPITULO I. De la cesión de derechos
+### CAPITULO V. De las obligaciones de dar
 
 ###### Art. 1489.
 
@@ -9051,7 +9303,7 @@ I. Si para que se produzca esa conversión hubo culpa de parte de todos los deud
 
 II. Si sólo algunos fueren culpables, únicamente ellos responderán de los daños y perjuicios.
 
-### CAPITULO II. De la sustitución de deudor
+### CAPITULO VI. De las obligaciones de hacer o de no hacer
 
 ###### Art. 1519.
 
@@ -9155,7 +9407,7 @@ III. Cuando la obligación sea indivisible; y
 
 IV. Cuando por el contrato se ha determinado otra cosa.
 
-### CAPITULO III. De la subrogación
+### CAPITULO I. De la cesión de derechos
 
 ###### Art. 1535.
 
@@ -9167,9 +9419,9 @@ Esto mismo se observará si no lo hiciere de la manera convenida. En este caso, 
 
 El que estuviere obligado a no hacer, quedará sujeto al pago de daños y perjuicios en caso de contravención. Si hubiere obra material, podrá exigir el acreedor que sea destruida a costa del obligado.
 
-## TITULO CUARTO. Efectos de las obligaciones
+## TITULO TERCERO. De la transmisión de las obligaciones
 
-### CAPITULO I. Efectos de las obligaciones entre las partes
+### CAPITULO II. De la sustitución de deudor
 
 ###### Art. 1537.
 
@@ -9291,7 +9543,7 @@ El contratante podrá oponer al cesionario todas las excepciones derivadas del c
 
 El cedente queda obligado a garantizar la validez y legitimidad del contrato, pero no su cumplimiento, salvo lo que se derive de su obligación al ser equiparado a un fiador.
 
-### CAPITULO II. Efectos de las obligaciones con relación a tercero
+### CAPITULO III. De la subrogación
 
 ###### Art. 1564.
 
@@ -9321,7 +9573,7 @@ El deudor sustituto puede oponer al acreedor las excepciones que se originen de 
 
 Cuando se declara nula la sustitución de deudor, la antigua deuda renace con todos sus accesorios; pero con la reserva de derechos que pertenecen a terceros de buena fe.
 
-### CAPITULO I. De la compensación
+### CAPITULO I. Efectos de las obligaciones entre las partes
 
 ###### Art. 1571.
 
@@ -9359,9 +9611,9 @@ No habrá subrogación parcial en deudas de solución indivisible.
 
 El pago de los subrogados en diversas porciones del mismo crédito, cuando no basten los bienes del deudor para cubrirlos todos, se hará a prorrata.
 
-## TITULO QUINTO. Extinción de las obligaciones
+## TITULO CUARTO. Efectos de las obligaciones
 
-### CAPITULO II. De la confusión de derechos
+### CAPITULO II. Efectos de las obligaciones con relación a tercero
 
 #### Sección Primera. Del pago
 
@@ -9767,7 +10019,7 @@ Si el bien enajenado con vicios redhibitorios se pierde por caso fortuito o por 
 
 El adquirente del bien remitido de otro lugar, que alegare que tiene vicios redhibitorios, si se trata de bienes que rápidamente se descomponen, tiene obligación de avisar inmediatamente al enajenante, que no recibe el bien; si no lo hace, será responsable de los daños y perjuicios que su omisión ocasione.
 
-### CAPITULO III. De la remisión de la deuda
+### CAPITULO I. De la compensación
 
 #### Sección Primera. De los actos celebrados en fraude de los acreedores
 
@@ -9889,9 +10141,9 @@ Luego que se anule un acto simulado, se restituirá el bien o derecho a quien pe
 
 También subsistirán los gravámenes impuestos a favor de terceros de buena fe.
 
-## TITULO SEXTO
+## TITULO QUINTO. Extinción de las obligaciones
 
-### CAPITULO IV. De la novación
+### CAPITULO II. De la confusión de derechos
 
 ###### Art. 1691.
 
@@ -9999,7 +10251,7 @@ La compensación no puede tener lugar en perjuicio de los derechos de tercero le
 
 La prescripción no excluye la compensación cuando el crédito actualmente prescrito no lo estaba en el momento en que debió operarse la compensación.
 
-### CAPITULO V. Prescripción
+### CAPITULO III. De la remisión de la deuda
 
 ###### Art. 1713.
 
@@ -10013,7 +10265,7 @@ La confusión que se verifica en la persona del acreedor o deudor solidario, só
 
 Mientras se hace la partición de una herencia, no hay confusión cuando el deudor hereda al acreedor o éste a aquél.
 
-### CAPITULO VI. La caducidad
+### CAPITULO IV. De la novación
 
 ###### Art. 1716.
 
@@ -10031,7 +10283,7 @@ Habiendo varios deudores solidarios, el perdón que fuere concedido solamente a 
 
 La devolución de la prenda es presunción de la remisión del derecho a la misma prenda, si el acreedor no prueba lo contrario.
 
-### CAPITULO I. De la nulidad y de otras formas de ineficacia
+### CAPITULO V. Prescripción
 
 ###### Art. 1720.
 
@@ -10081,7 +10333,7 @@ Cuando la novación se efectúe entre el acreedor y un deudor solidario, los pri
 
 Por la novación hecha entre el acreedor y alguno de los deudores solidarios, quedan exonerados todos los demás codeudores, sin perjuicio de lo dispuesto en el artículo 1509.
 
-### CAPITULO II. De la revocación
+### CAPITULO VI. La caducidad
 
 #### Sección Primera. Prescripción
 
@@ -10213,7 +10465,7 @@ El día en que comienza la prescripción se cuenta siempre entero, aunque no lo 
 
 Cuando el último día sea feriado, no se tendrá por completa la prescripción, sino cumplido el primer día útil que le siga.
 
-### CAPITULO III. De la resolución o rescisión
+### CAPITULO I. De la nulidad y de otras formas de ineficacia
 
 ###### Art. 1754.
 
@@ -10247,9 +10499,9 @@ En los derechos de orden público y social, podrá establecerse por las partes u
 
 En caso de que en esta clase de derechos, el término para la caducidad convencional no beneficie al deudor, dicha cláusula se tendrá por no puesta, y se atenderá al término para la caducidad legal.
 
-## TITULO UNICO. De la concurrencia y graduación de créditos, y de la insolvencia de los deudores
+## TITULO SEXTO
 
-### CAPITULO IV. De la inoponibilidad
+### CAPITULO II. De la revocación
 
 ###### Art. 1759.
 
@@ -10335,7 +10587,7 @@ Mientras que uno de los contratantes no cumpla con la devolución de aquello que
 
 Todos los derechos reales o personales transmitidos a tercero sobre un inmueble, por una persona que ha llegado a ser propietario de él en virtud del acto anulado, quedan sin ningún valor y pueden ser reclamados directamente del poseedor actual mientras que no se cumpla la usucapión, observándose lo dispuesto para los terceros adquirentes de buena fe.
 
-### CAPITULO V. De la inoficiocidad
+### CAPITULO III. De la resolución o rescisión
 
 ###### Art. 1780.
 
@@ -10351,7 +10603,7 @@ La revocación debe consignarse en la misma formalidad con la que se celebró el
 
 Cuando se pretende la revocación de un contrato sinalagmático, debe convenirse por todas las partes involucradas. Será nulo el pacto por el que se faculte a una sola de las partes a revocarlo, salvo en los casos expresamente previstos por este Código.
 
-### CAPITULO VI. De la reducibilidad
+### CAPITULO IV. De la inoponibilidad
 
 ###### Art. 1783.
 
@@ -10411,7 +10663,7 @@ Tratándose de contratos de arrendamiento de inmuebles, en donde se invoque como
 
 Lo dispuesto en este artículo es de orden público y por ende irrenunciable.
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO V. De la inoficiocidad
 
 ###### Art. 1793.
 
@@ -10419,13 +10671,13 @@ Existe la inoponibilidad de un acto jurídico, cuando su celebración no fue deb
 
 El acto jurídico vale entre quienes lo celebraron o consintieron su celebración, pero no frente a quien no fue enterado.
 
-### CAPITULO II. De los créditos privilegiados, hipotecarios y pignoraticios
+### CAPITULO VI. De la reducibilidad
 
 ###### Art. 1794.
 
 La inoficiocidad se da en los actos jurídicos esencialmente gratuitos por virtud de los cuales su autor, omitiendo cumplir con disposiciones de orden público, o sobreviniendo éstas con posterioridad a su otorgamiento se constituyen derechos en favor de terceros. El acto jurídico en sí es válido, pero su ejecución queda sujeta al cumplimiento de las obligaciones preteridas.
 
-### CAPITULO III. De los acreedores preferentes sobre determinados bienes
+### CAPITULO I. Disposiciones generales
 
 ###### Art. 1795.
 
@@ -10435,9 +10687,9 @@ SEGUNDA PARTE
 
 > <small>(REFORMADO, P.O. 4 DE ENERO DE 1997)</small>
 
-## TITULO PRIMERO. De los contratos preliminares
+## TITULO UNICO. De la concurrencia y graduación de créditos, y de la insolvencia de los deudores
 
-### CAPITULO IV. Acreedores de primera clase
+### CAPITULO II. De los créditos privilegiados, hipotecarios y pignoraticios
 
 ###### Art. 1796.
 
@@ -10543,7 +10795,7 @@ Los gastos judiciales hechos por un acreedor, en lo particular, serán pagados e
 
 El crédito cuya preferencia provenga de convenio fraudulento entre el acreedor y el deudor, pierde toda preferencia, a no ser que el dolo provenga del deudor, quien en este caso será responsable de los daños y perjuicios que se sigan a los demás acreedores, además de las penas que merezca por el fraude.
 
-### CAPITULO V. Acreedores de segunda clase
+### CAPITULO III. De los acreedores preferentes sobre determinados bienes
 
 ###### Art. 1815.
 
@@ -10617,7 +10869,7 @@ II. Si los acreedores hubieren hecho novación de la deuda o de cualquier otro m
 
 Los acreedores que obtuvieren la separación de bienes, no podrán entrar al concurso del heredero, aunque aquéllos no alcancen a cubrir sus créditos.
 
-### CAPITULO VI. Acreedores de tercera clase
+### CAPITULO IV. Acreedores de primera clase
 
 ###### Art. 1828.
 
@@ -10643,7 +10895,7 @@ Tratándose de bienes muebles, cesará la preferencia si hubieren sido inmoviliz
 
 IX. Los créditos anotados en el Registro Público de la Propiedad, en virtud de mandamiento judicial, por embargo, secuestro o ejecución de sentencias, sobre los bienes anotados y solamente en cuanto a créditos posteriores.
 
-### CAPITULO VII. Acreedores de cuarta clase
+### CAPITULO V. Acreedores de segunda clase
 
 ###### Art. 1829.
 
@@ -10655,7 +10907,7 @@ II. Los gastos de rigurosa conservación y administración de los bienes concurs
 
 III. La responsabilidad civil, en la parte que comprende el pago de los gastos de curación o de los funerales del ofendido y las pensiones que por concepto de alimentos se deban a sus familiares. En lo que se refiere a la obligación de restituir, por tratarse de devoluciones de bien ajeno, no entra en concurso, y por lo que toca a las otras indemnizaciones que se deban por el delito, se pagarán como si se tratara de acreedores comunes de cuarta clase.
 
-### CAPITULO I. De la promesa para contratar
+### CAPITULO VI. Acreedores de tercera clase
 
 ###### Art. 1830.
 
@@ -10667,13 +10919,13 @@ II. Los créditos del erario y los que resulten a cargo de administradores de bi
 
 III. Los créditos de los establecimientos de beneficencia pública o privada.
 
-### CAPITULO II. De la opción
+### CAPITULO VII. Acreedores de cuarta clase
 
 ###### Art. 1831.
 
 Satisfechos los créditos de que se ha hablado anteriormente, se pagarán los créditos que consten en escritura pública o en cualquier otro documento auténtico.
 
-### CAPITULO III. De la carta intención
+### CAPITULO I. De la promesa para contratar
 
 ###### Art. 1832.
 
@@ -10685,9 +10937,9 @@ Con los bienes restantes serán pagados los demás créditos que no estén compr
 
 # LIBRO QUINTO. De las diversas especies de contratos
 
-## TITULO SEGUNDO. De la compraventa
+## TITULO PRIMERO. De los contratos preliminares
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO II. De la opción
 
 ###### Art. 1834.
 
@@ -10709,7 +10961,7 @@ Para que la promesa de contratar sea válida debe constar por escrito, contener 
 
 Si el promitente rehusa firmar los documentos necesarios para dar forma legal al contrato concertado, en su rebeldía los firmará el juez; salvo el caso de que el bien ofrecido haya pasado por título oneroso a la propiedad de tercero de buena fe, ya que entonces la promesa quedará sin efecto, siendo responsable el que la hizo de todos los daños y perjuicios que se hayan originado a la otra parte.
 
-### CAPITULO II. De la materia de la compraventa
+### CAPITULO III. De la carta intención
 
 ###### Art. 1839.
 
@@ -10735,7 +10987,7 @@ La opción puede pactarse como contrato principal o como accesorio.
 
 La opción debe otorgarse por escrito para su validez, y cuando tenga referencia a inmuebles deberá constar en escritura pública para inscribirse en el Registro Público de la Propiedad.
 
-### CAPITULO III. De las partes en la compraventa
+### CAPITULO I. Disposiciones generales
 
 ###### Art. 1845.
 
@@ -10761,9 +11013,9 @@ La carta intención deberá otorgarse por escrito y cuando estén involucrados i
 
 Concluidos los negocios a que se refiere la carta intención, sus efectos se retrotraerán a la época en que se otorgó la misma.
 
-## TITULO TERCERO. De la permuta
+## TITULO SEGUNDO. De la compraventa
 
-### CAPITULO IV. De las obligaciones del vendedor
+### CAPITULO II. De la materia de la compraventa
 
 ###### Art. 1850.
 
@@ -10823,7 +11075,7 @@ I. Si el bien vendido fuere mueble, prevalecerá la venta primera en fecha; si n
 
 II. Si el bien vendido fuere inmueble, se aplicarán las disposiciones relativas al Registro Público de la Propiedad.
 
-### CAPITULO V. De las obligaciones del comprador
+### CAPITULO III. De las partes en la compraventa
 
 ###### Art. 1863.
 
@@ -10845,7 +11097,7 @@ El contrato quedará revalidado, si antes de que tenga lugar la evicción, adqui
 
 La venta de bienes o derechos litigiosos no está prohibida; pero el vendedor que no declare la circunstancia de hallarse el bien en litigio, es responsable de los daños y perjuicios si el comprador sufre la evicción, sin perjuicio de la responsabilidad penal en que incurra.
 
-### CAPITULO VI. De algunas modalidades del contrato de compraventa
+### CAPITULO IV. De las obligaciones del vendedor
 
 ###### Art. 1868.
 
@@ -10889,7 +11141,7 @@ VI. Los peritos, los notarios y sus asociados sobre los bienes en cuya venta han
 
 Las compras hechas en contravención a lo dispuesto en el capítulo VIII del título primero del libro cuarto de este código, serán nulas, ya se hayan hecho directamente o por interpósita persona.
 
-### CAPITULO VII. De la forma del contrato de compraventa
+### CAPITULO V. De las obligaciones del comprador
 
 ###### Art. 1871.
 
@@ -10957,7 +11209,7 @@ Si en la venta de un inmueble se han designado los linderos, el vendedor estará
 
 La entrega del bien vendido debe hacerse en el lugar convenido, y si no hubiere lugar designado en el contrato, en el lugar en que se encontraba el bien en la época en que se vendió.
 
-### CAPITULO I. De las donaciones en general
+### CAPITULO VI. De algunas modalidades del contrato de compraventa
 
 ###### Art. 1883.
 
@@ -11005,7 +11257,7 @@ Lo anterior será aplicable aun cuando la compraventa se haya celebrado con pago
 
 Si el comprador se constituyó en mora de recibir, abonará al vendedor los gastos causados por el almacenamiento, y el vendedor quedará descargado del cuidado ordinario de conservar el bien, y solamente será responsable del dolo o de la culpa grave.
 
-### CAPITULO II. De las personas que pueden recibir donaciones
+### CAPITULO VII. De la forma del contrato de compraventa
 
 ###### Art. 1892.
 
@@ -11081,7 +11333,7 @@ El vendedor a que se refiere el artículo anterior, mientras no se venza el plaz
 
 En la compraventa con reserva de dominio, mientras que no pasa el dominio del bien vendido al comprador, si éste recibe el bien, será considerado como arrendatario del mismo.
 
-### CAPITULO III. De la revocación y reducción de las donaciones
+### CAPITULO I. De las donaciones en general
 
 ###### Art. 1907.
 
@@ -11091,7 +11343,7 @@ El contrato de compraventa no requiere de formalidad alguna especial, sino cuand
 
 Toda compraventa de inmuebles deberá constar en escritura pública, salvo aquellas en que se otorguen por o con intervención de organismos públicos destinados a la promoción de vivienda popular, o de regularización territorial, y así se prevea en las leyes orgánicas de los mismos.
 
-## TITULO CUARTO. De las donaciones
+## TITULO TERCERO. De la permuta
 
 ###### Art. 1909.
 
@@ -11113,9 +11365,9 @@ Lo dispuesto en el artículo anterior no perjudica los derechos que a título on
 
 Con excepción de lo relativo al precio, son aplicables a este contrato las reglas de la compraventa, en cuanto no se opongan a los artículos anteriores.
 
-## TITULO QUINTO. Del mutuo
+## TITULO CUARTO. De las donaciones
 
-### CAPITULO I. Del mutuo simple
+### CAPITULO II. De las personas que pueden recibir donaciones
 
 ###### Art. 1914.
 
@@ -11227,7 +11479,7 @@ Si la donación fuere de todos los bienes, el donatario será responsable de tod
 
 Salvo que el donante dispusiere otra cosa, las donaciones que consistan en prestaciones periódicas se extinguen con su muerte.
 
-### CAPITULO II. Del mutuo con interés
+### CAPITULO III. De la revocación y reducción de las donaciones
 
 ###### Art. 1941.
 
@@ -11237,7 +11489,7 @@ Los no nacidos pueden adquirir por donación, con tal que hayan estado concebido
 
 Las donaciones hechas simulando otro contrato a personas que conforme a la ley no puedan recibirlas, son nulas, ya se hagan de un modo directo, ya por interpósita persona.
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO I. Del mutuo simple
 
 ###### Art. 1943.
 
@@ -11347,9 +11599,9 @@ Cuando la reducción no excede de la mitad del valor del inmueble, el donatario 
 
 Revocada o reducida una donación por inoficiosa, el donatario sólo responderá de los frutos desde que fuere demandado.
 
-## TITULO SEXTO. Del arrendamiento
+## TITULO QUINTO. Del mutuo
 
-### CAPITULO II. De los derechos y obligaciones del arrendador
+### CAPITULO II. Del mutuo con interés
 
 ###### Art. 1966.
 
@@ -11395,7 +11647,7 @@ El mutuante es responsable de los perjuicios que sufra el mutuario por la mala c
 
 No se declararán nulas las deudas contraídas por el menor para proporcionarse los alimentos que necesite, cuando su representante legítimo se encuentre ausente o no provea a dichas necesidades de conformidad con lo establecido por este código.
 
-### CAPITULO III. De los derechos y obligaciones del arrendatario
+### CAPITULO I. Disposiciones generales
 
 ###### Art. 1974.
 
@@ -11429,9 +11681,9 @@ Si se ha convenido un interés superior al doce por ciento anual, el deudor, des
 
 Las partes no pueden, bajo pena de nulidad, convenir de antemano que los intereses se capitalicen y que produzcan intereses.
 
-## TITULO SEPTIMO. Del comodato
+## TITULO SEXTO. Del arrendamiento
 
-### CAPITULO IV. Del arrendamiento de bienes inmuebles
+### CAPITULO II. De los derechos y obligaciones del arrendador
 
 ###### Art. 1980.
 
@@ -11513,7 +11765,7 @@ Los arrendamientos de bienes del Estado, municipales o de establecimientos públ
 
 El arrendador no puede rehusar como fiador a una persona que reúna los requisitos exigidos por la ley para ello.
 
-### CAPITULO V. Del arrendamiento de bienes muebles
+### CAPITULO III. De los derechos y obligaciones del arrendatario
 
 ###### Art. 1995.
 
@@ -11589,7 +11841,7 @@ III. Cuando el contrato se pactare por tiempo indeterminado, si el arrendador au
 
 Aún cuando en el contrato se hubiese pactado que las mejoras realizadas por cuenta del arrendatario queden en beneficio del bien arrendado, en el caso a que se refieren las fracciones II y III del artículo que precede, deberá ser reembolsado de ellas el arrendatario.
 
-### CAPITULO VI. Del arrendamiento con prestación de servicios y derecho a uso de áreas comunes
+### CAPITULO IV. Del arrendamiento de bienes inmuebles
 
 ###### Art. 2005.
 
@@ -11701,7 +11953,7 @@ En éste caso, el arrendador será responsable de daños y perjuicios y por este
 
 El arrendatario que hubiera perdido el uso o goce del bien arrendado por existir otro arrendamiento con prioridad, tendrá derecho a reclamar al arrendador, las indemnizaciones que le corresponderían en caso de evicción del bien arrendado.
 
-### CAPITULO VII. Del arrendamiento de promoción y exhibición
+### CAPITULO V. Del arrendamiento de bienes muebles
 
 #### Sección Primera. Disposiciones generales
 
@@ -11983,7 +12235,7 @@ Terminado el arrendamiento, tendrá a su vez el arrendatario saliente, derecho p
 
 El arrendatario deberá utilizar el bien arrendado con fines agropecuarios, cumpliendo las disposiciones ecológicas que dispongan las leyes. El daño en la tierra, el ambiente o la unidad de producción arrendada, hará al arrendatario responsable de las sanciones que marquen las legislaciones en materia ecológica más el pago de daños y perjuicios al arrendador, que nunca será mayor al equivalente a dos veces el valor de la producción que se haya obtenido en el último año en el predio arrendado.
 
-### CAPITULO VIII. Del arrendamiento con opción a compra
+### CAPITULO VI. Del arrendamiento con prestación de servicios y derecho a uso de áreas comunes
 
 ###### Art. 2064.
 
@@ -12053,7 +12305,7 @@ En caso de robo o destrucción del bien mueble arrendado, el arrendatario será 
 
 Son aplicables al arrendamiento de bienes muebles, las disposiciones de este título, en lo que no contravengan a este capítulo.
 
-### CAPITULO IX. Del arrendamiento de vehículos automotores
+### CAPITULO VII. Del arrendamiento de promoción y exhibición
 
 ###### Art. 2080.
 
@@ -12143,7 +12395,7 @@ En caso de que el arrendador no permita al arrendatario el uso de las áreas com
 
 Se exceptúa de lo dispuesto en el artículo anterior, cuando dichas áreas comunes hayan sido menoscabadas por causa no imputable al arrendador o cuando se estén realizando mejoras o reparaciones necesarias a dichas áreas comunes y éstas no duren más de un mes. Será aplicable lo dispuesto en el artículo anterior, en el término que exceda de un mes, pero en estos casos, no podrá demandarse el pago de daños y perjuicios, sino sólo la reducción del precio del arrendamiento.
 
-### CAPITULO X. Del arrendamiento de membresías de clubes
+### CAPITULO VIII. Del arrendamiento con opción a compra
 
 ###### Art. 2091.
 
@@ -12169,7 +12421,7 @@ El precio del arrendamiento será libremente fijado por los contratantes, pudié
 
 El arrendador tendrá derecho a retener en garantía de las obligaciones a cargo del arrendatario los bienes y propaganda propiedad de éste que estuvieren instalados en el espacio arrendado.
 
-### CAPITULO XI. Del subarriendo
+### CAPITULO IX. Del arrendamiento de vehículos automotores
 
 ###### Art. 2097.
 
@@ -12263,7 +12515,7 @@ Si existe incumplimiento por parte del arrendatario en sus obligaciones, el arre
 
 Una vez que el arrendatario justifique con documento auténtico, haber cumplido sus obligaciones, el Registro Público de la Propiedad tomará nota e inscribirá de manera definitiva el inmueble a favor del mismo.
 
-### CAPITULO XII. Del modo de terminar el arrendamiento
+### CAPITULO X. Del arrendamiento de membresías de clubes
 
 ###### Art. 2114.
 
@@ -12359,7 +12611,7 @@ Salvo lo dispuesto por el artículo 2118 o pacto en contrario, el arrendador no 
 
 Serán aplicables las disposiciones previstas en este título para el arrendamiento de vehículos automotores, en lo que no contradigan las normas de este capítulo.
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO XI. Del subarriendo
 
 ###### Art. 2129.
 
@@ -12389,7 +12641,7 @@ Cuando se dé el arrendamiento de membresías de clubes, los pagos que deban cub
 
 Son aplicables al arrendamiento de membresías de clubes todas las disposiciones relativas al arrendamiento, en lo que no contradigan las disposiciones de este capítulo.
 
-### CAPITULO II. De las obligaciones del mandatario con respecto al mandante
+### CAPITULO XII. Del modo de terminar el arrendamiento
 
 ###### Art. 2136.
 
@@ -12407,7 +12659,7 @@ Si el subarriendo se hiciere en virtud de la autorización general concedida en 
 
 Si el arrendador aprueba expresamente el contrato especial de subarriendo, el subarrendatario queda subrogado en todos los derechos y obligaciones del arrendatario, a no ser que por convenio se acuerde otra cosa.
 
-### CAPITULO III. De las obligaciones del mandante con relación al mandatario
+### CAPITULO I. Disposiciones generales
 
 ###### Art. 2140.
 
@@ -12499,7 +12751,7 @@ V. Por la falta de pago de servicios públicos por más de dos meses o el tiempo
 
 Si el bien dado en arrendamiento fuere enajenado por venta de autoridad, el contrato de arrendamiento subsistirá, a menos que aparezca que se celebró dentro de los 60 días anteriores al secuestro del bien o después de registrada la hipoteca que da lugar a la subasta, en cuyo caso el arrendamiento podrá darse por concluido.
 
-## TITULO OCTAVO. Del depósito
+## TITULO SEPTIMO. Del comodato
 
 ###### Art. 2147.
 
@@ -12595,7 +12847,7 @@ VI. Por haber cumplido con el objeto para el que fue celebrado; y
 
 VII. Por haberse cumplido el término del comodato.
 
-## TITULO NOVENO. Del mandato
+## TITULO OCTAVO. Del depósito
 
 ###### Art. 2167.
 
@@ -12727,9 +12979,9 @@ El hotelero no se exime de la responsabilidad que le imponen los dos artículos 
 
 Las fondas, cafés, casas de baño y otros establecimientos semejantes, no responden de los efectos que introduzcan los usuarios o clientes, a menos que los pongan bajo el cuidado de los empleados del establecimiento.
 
-## TITULO DECIMO. De los contratos de prestación de servicios
+## TITULO NOVENO. Del mandato
 
-### CAPITULO IV. De las obligaciones y derechos del mandante y del mandatario en relación a tercero
+### CAPITULO II. De las obligaciones del mandatario con respecto al mandante
 
 ###### Art. 2197.
 
@@ -12843,7 +13095,7 @@ Para hacer factible la sustitución del apoderado en el contrato de mandato, deb
 
 La sustitución de mandatario deberá hacerse con la misma formalidad con la cual se otorgó el mandato, señalándose expresamente el nombre del nuevo mandatario. Salvo el caso de que se trate de mandato otorgado en escritura pública, la sustitución, podrá hacerse constar en el primer testimonio.
 
-### CAPITULO V. Del mandato judicial o en procuración
+### CAPITULO III. De las obligaciones del mandante con relación al mandatario
 
 ###### Art. 2217.
 
@@ -12885,7 +13137,7 @@ El mandatario tiene obligación de entregar al mandante todo lo que haya recibid
 
 El mandatario debe pagar los intereses de las sumas que pertenezcan al mandante y que haya distraído de su objeto o invertido en provecho propio, desde la fecha de inversión; así como los de las cantidades en que resulte alcanzado, desde la fecha en que se constituyó en mora.
 
-### CAPITULO VI. De los diversos modos de terminar el mandato
+### CAPITULO IV. De las obligaciones y derechos del mandante y del mandatario en relación a tercero
 
 ###### Art. 2227.
 
@@ -12907,7 +13159,7 @@ El mandatario podrá retener en prenda los bienes que son objeto del mandato, ha
 
 Si varios mandantes hubiesen nombrado a un solo mandatario para hacer algún negocio común, le quedan obligados solidariamente para todos los efectos del mandato.
 
-### CAPITULO I. Del contrato de prestación de servicios técnicos y profesionales
+### CAPITULO V. Del mandato judicial o en procuración
 
 ###### Art. 2231.
 
@@ -12927,7 +13179,7 @@ En este caso, las obligaciones contraídas a favor de tercero deberán ser cumpl
 
 El tercero que hubiere contratado con el mandatario que se excedió en sus facultades no tendrá acción contra de éste, siempre que el mandatario le hubiere dado a conocer cuáles fueron aquéllas y no se hubiere obligado personalmente para el caso de que el mandante no aceptare lo pactado al margen de dichas facultades.
 
-### CAPITULO II. Del contrato de obras a precio alzado
+### CAPITULO VI. De los diversos modos de terminar el mandato
 
 ###### Art. 2235.
 
@@ -12997,7 +13249,7 @@ El mandatario judicial, procurador o abogado que ha sustituido su poder puede re
 
 La parte o mandante judicial puede ratificar antes de la sentencia que cause ejecutoria, lo que el procurador, abogado o mandatario judicial hubiere hecho excediéndose del poder.
 
-### CAPITULO III. Del contrato de transporte
+### CAPITULO I. Del contrato de prestación de servicios técnicos y profesionales
 
 ###### Art. 2243.
 
@@ -13061,9 +13313,9 @@ En el caso de que el mandato termine por la muerte del mandante o renuncia del m
 
 Lo que el mandatario, sabiendo que ha cesado el mandato, hiciere con un tercero que ignora el término de la procuración, no obliga al mandante, salvo los casos en que el mandante no haya exigido al mandatario la devolución del título en que se otorgó el mandato, o cuando el mandato se haya otorgado para tratar con determinada persona y no se haya avisado a ésta de la terminación del mandato.
 
-## TITULO PRIMERO. Disposiciones preliminares
+## TITULO DECIMO. De los contratos de prestación de servicios
 
-### CAPITULO IV. Del contrato de hospedaje
+### CAPITULO II. Del contrato de obras a precio alzado
 
 #### Sección Primera. Disposiciones generales
 
@@ -13185,7 +13437,7 @@ Cuando varios entes profesionales, en la misma área científica o técnica, pre
 
 Los prestadores tienen derecho de exigir sus honorarios, cualquiera que sea el éxito del negocio o trabajo que se le haya encomendado, salvo pacto en contrario.
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO III. Del contrato de transporte
 
 ###### Art. 2275.
 
@@ -13309,7 +13561,7 @@ I. Por la inobservancia de las disposiciones administrativas; y
 
 II. Solidariamente con el dueño, por todo daño que causen a los vecinos.
 
-### CAPITULO II. De la aparcería agrícola
+### CAPITULO IV. Del contrato de hospedaje
 
 ###### Art. 2304.
 
@@ -13411,7 +13663,7 @@ En el caso previsto en el artículo anterior, cada uno de los interesados perder
 
 El porteador tendrá la obligación de presentar los bienes, para su depósito, a la autoridad judicial más cercana al lugar en que ya no le sea posible continuar el transporte, comprobando este hecho y recabando la constancia relativa de hallarse los bienes en el estado consignado en la carta de porte, de cuyo hecho dará conocimiento oportuno al cargador, a cuya disposición han de quedar.
 
-### CAPITULO III. De la aparcería animal
+### CAPITULO I. Disposiciones generales
 
 ###### Art. 2321.
 
@@ -13505,7 +13757,7 @@ TITULO DECIMOPRIMERO
 
 De la aparcería
 
-### CAPITULO I. Del juego y de la apuesta
+### CAPITULO II. De la aparcería agrícola
 
 ###### Art. 2333.
 
@@ -13569,9 +13821,7 @@ El aparcerista no tiene derecho de retener, de propia autoridad, todos o parte d
 
 Al concluir el contrato de aparcería, el aparcero que hubiere cumplido fielmente sus compromisos, goza del derecho de preferencia, si el aparcerista va a celebrar nuevo contrato de aparcería rural respecto de los mismos bienes.
 
-### CAPITULO II. De la renta vitalicia
-
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 2011)</small>
+### CAPITULO III. De la aparcería animal
 
 ###### Art. 2348.
 
@@ -13601,7 +13851,7 @@ Podrá el aparcero establecer su habitación en el campo que va a cultivar, dura
 
 Si el aparcero habita en el campo que va a cultivar, y el contrato de aparcería agrícola termina, éste tendrá 10 días para desalojar el inmueble objeto del contrato.
 
-### CAPITULO III. De la compra de esperanza
+### CAPITULO I. Del juego y de la apuesta
 
 ###### Art. 2355.
 
@@ -13655,7 +13905,9 @@ TITULO DECIMOSEGUNDO
 
 De los contratos aleatorios
 
-### CAPITULO I. De la fianza en general
+### CAPITULO II. De la renta vitalicia
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2011)</small>
 
 ###### Art. 2367.
 
@@ -13699,7 +13951,7 @@ Las loterías o rifas, cuando se permitan, serán regidas, las primeras, por las
 
 El contrato celebrado entre los compradores de billetes y las loterías autorizadas en país extranjero, no será válido en el Estado, a menos que la venta de esos billetes haya sido permitida por la autoridad correspondiente.
 
-### CAPITULO II. De los efectos de la fianza entre el fiador y el acreedor
+### CAPITULO III. De la compra de esperanza
 
 ###### Art. 2377.
 
@@ -13773,7 +14025,7 @@ El rentista vitalicio o sus herederos sólo pueden demandar las pensiones justif
 
 Si el deudor ha causado la muerte del rentista vitalicio o la de aquél sobre cuya vida había sido constituida la renta vitalicia, debe restituir los bienes que recibió al constituirse el contrato, al que lo constituyó o a sus herederos, además de las sanciones civiles y penales en las que incurra.
 
-### CAPITULO III. De los efectos de la fianza entre el fiador y el fiado
+### CAPITULO I. De la fianza en general
 
 ###### Art. 2394.
 
@@ -13807,7 +14059,7 @@ TITULO DECIMOTERCERO
 
 De la fianza
 
-### CAPITULO IV. De los efectos de la fianza entre los cofiadores
+### CAPITULO II. De los efectos de la fianza entre el fiador y el acreedor
 
 ###### Art. 2401.
 
@@ -13901,7 +14153,7 @@ No tendrá lugar la responsabilidad del artículo anterior, si el que dio la car
 
 Quedan sujetas a las disposiciones de este título, las fianzas otorgadas por individuos o compañías accidentalmente en favor de determinadas personas, siempre que no se expidan en forma de póliza; y que no sean objeto de publicidad especial.
 
-### CAPITULO V. De la extinción de la fianza
+### CAPITULO III. De los efectos de la fianza entre el fiador y el fiado
 
 ###### Art. 2423.
 
@@ -13977,7 +14229,7 @@ La transacción entre el acreedor y el fiado, aprovecha al fiador, pero no le pe
 
 Si son varios los fiadores de un fiado por una sola deuda, responderá cada uno de ellos por la totalidad de aquélla, no habiendo convenio en contrario; pero si sólo uno de los fiadores es demandado, podrá hacer citar a los demás para que se defiendan juntamente, y en la proporción debida estén a las resultas del juicio.
 
-### CAPITULO VI. De la fianza legal o judicial
+### CAPITULO IV. De los efectos de la fianza entre los cofiadores
 
 ###### Art. 2438.
 
@@ -14033,7 +14285,7 @@ IV. Si el fiado se obligó a relevar al fiador, de la fianza en tiempo determina
 
 V. Cuando la deuda se hace exigible por el vencimiento del plazo.
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO V. De la extinción de la fianza
 
 ###### Art. 2447.
 
@@ -14083,7 +14335,7 @@ El cofiador no responderá por la parte del cofiador o cofiadores insolventes si
 
 El que fía al cofiador, en el caso de insolvencia de éste, es responsable para con los otros cofiadores en los mismos términos en que lo sería el cofiador fiado.
 
-### CAPITULO II. De la prenda sobre frutos
+### CAPITULO VI. De la fianza legal o judicial
 
 ###### Art. 2456.
 
@@ -14123,7 +14375,7 @@ III. Se obligó por tiempo indeterminado y el acreedor no ejercita sus derechos 
 
 Cuando la deuda principal se vuelva exigible, el fiador tiene derecho de pedir al acreedor que promueva judicialmente, dentro del plazo de un mes, el cumplimiento de la obligación.
 
-### CAPITULO III. De la prenda sobre créditos o títulos de crédito
+### CAPITULO I. Disposiciones generales
 
 ###### Art. 2464.
 
@@ -14165,7 +14417,7 @@ TITULO DECIMOCUARTO
 
 De la prenda
 
-### CAPITULO IV. Derechos y obligaciones del acreedor y deudor pignoraticios
+### CAPITULO II. De la prenda sobre frutos
 
 ###### Art. 2473.
 
@@ -14227,7 +14479,7 @@ Los frutos del bien empeñado pertenecen al deudor; mas si por convenio, los per
 
 Respecto de los Montes de Piedad que con autorización legal, prestan dinero sobre prenda, se observarán las leyes y reglamentos que les conciernen y supletoriamente, las disposiciones de este título.
 
-### CAPITULO V. De la extinción de la prenda
+### CAPITULO III. De la prenda sobre créditos o títulos de crédito
 
 ###### Art. 2488.
 
@@ -14241,7 +14493,7 @@ Para que esta prenda surta efectos contra tercero, debe inscribirse en el Regist
 
 El deudor que dé los frutos en prenda, se considerará como depositario de ellos, salvo convenio en contrario.
 
-### CAPITULO I. De la hipoteca en general
+### CAPITULO IV. Derechos y obligaciones del acreedor y deudor pignoraticios
 
 ###### Art. 2491.
 
@@ -14267,7 +14519,7 @@ Siempre que la prenda fuere un crédito, el acreedor que tuviere en su poder el 
 
 Si la prenda fuese un crédito o acciones que no sean al portador o negociables por endoso, para que la prenda quede legalmente constituida, deberá ser notificado el titular del crédito o acciones dados en prenda.
 
-### CAPITULO II. De la hipoteca voluntaria
+### CAPITULO V. De la extinción de la prenda
 
 ###### Art. 2497.
 
@@ -14309,7 +14561,7 @@ Si el acreedor es turbado en la posesión de la prenda, debe avisarlo al dueño 
 
 Si el acreedor abusa del bien empeñado, el deudor puede exigir que éste se deposite o que aquél constituya fianza que asegure la restitución en el estado en que la recibió.
 
-### CAPITULO III. De la hipoteca necesaria
+### CAPITULO I. De la hipoteca en general
 
 ###### Art. 2504.
 
@@ -14375,9 +14627,7 @@ TITULO DECIMOQUINTO
 
 De la hipoteca
 
-### CAPITULO III BIS. De la Hipoteca Pensionaria
-
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2014)</small>
+### CAPITULO II. De la hipoteca voluntaria
 
 ###### Art. 2517.
 
@@ -14551,7 +14801,7 @@ La hipoteca puede constituirse por contrato, testamento o declaración unilatera
 
 La hipoteca pensionaria se constituirá por contrato.
 
-### CAPITULO IV. Disposiciones comunes a las diversas clases de hipotecas
+### CAPITULO III. De la hipoteca necesaria
 
 ###### Art. 2548.
 
@@ -14659,7 +14909,9 @@ Lo mismo se observará en el caso de que el acreedor conceda un nuevo plazo para
 
 En caso de prórroga, la prescripción empieza a contar a partir del día siguiente del vencimiento de aquélla.
 
-### CAPITULO V. De la extinción de las hipotecas
+### CAPITULO III BIS. De la Hipoteca Pensionaria
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2014)</small>
 
 ###### Art. 2563.
 
@@ -14717,7 +14969,7 @@ Los que tienen derecho de exigir la constitución de hipoteca necesaria, tienen 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE OCTUBRE DE 2014)</small>
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO IV. Disposiciones comunes a las diversas clases de hipotecas
 
 ###### Art. 2570 Bis.
 
@@ -14785,7 +15037,7 @@ En los casos que se demuestre el incumplimiento del pensionario, el Juez dictar�
 
 El inmueble sobre el cual se constituya la hipoteca pensionaria no podrá ser transmitido o enajenado sin la autorización expresa del pensionario, por lo que cualquier acto que afecte al inmueble se declarará nulo de pleno derecho.
 
-### CAPITULO II. De la designación y aceptación de árbitros
+### CAPITULO V. De la extinción de las hipotecas
 
 ###### Art. 2571.
 
@@ -14827,7 +15079,7 @@ Si todos los deudores de una obligación mancomunada constituyeren hipotecas sob
 
 Se llaman hipotecas indivisibles las constituidas para garantizar una obligación indivisible. Las mismas facultan al acreedor para hacer efectivo su crédito sobre todos los bienes gravados, atendiendo lo dispuesto para el remate en las hipotecas solidarias.
 
-### CAPITULO III. De las obligaciones de los compromitentes
+### CAPITULO I. Disposiciones generales
 
 ###### Art. 2580.
 
@@ -14921,7 +15173,7 @@ TITULO DECIMOSEXTO
 
 Contrato de compromiso arbitral
 
-### CAPITULO IV. Modalidades del contrato de compromiso arbitral
+### CAPITULO II. De la designación y aceptación de árbitros
 
 ###### Art. 2592.
 
@@ -15045,7 +15297,7 @@ II. Cuando no se ha cumplido algún acuerdo del contrato de compromiso arbitral 
 
 III. Cuando se prevea un plazo para objetar un incumplimiento al contrato de compromiso arbitral y el compromitente que pueda hacerlo no lo haga.
 
-### CAPITULO V. De la cláusula compromisoria
+### CAPITULO III. De las obligaciones de los compromitentes
 
 ###### Art. 2605.
 
@@ -15157,7 +15409,7 @@ Las cláusulas del contrato de compromiso arbitral deben interpretarse estrictam
 
 No podrá intentarse demanda contra el valor o subsistencia de un contrato de compromiso arbitral, sin que previamente se haya asegurado la devolución de todo lo recibido por virtud del convenio que quiera impugnar.
 
-### CAPITULO I. De los testamentos en general
+### CAPITULO IV. Modalidades del contrato de compromiso arbitral
 
 ###### Art. 2619.
 
@@ -15179,7 +15431,7 @@ Cuando en la ejecución del laudo arbitral, alguno de los compromitentes haya tr
 
 Cuando el bien transmitido en los términos del artículo anterior tenga vicios o gravámenes ocultos, podrá el que lo recibió, proceder conforme a lo que se determina en el contrato de compraventa.
 
-### CAPITULO II. De la capacidad para testar
+### CAPITULO V. De la cláusula compromisoria
 
 ###### Art. 2624.
 
@@ -15201,7 +15453,7 @@ Cuando en el contrato de compromiso arbitral no se establezca a qué clase de ar
 
 Las partes tendrán plena facultad para establecer la normatividad sustantiva y adjetiva que deberá seguir el juicio arbitral, pero a condición de que las primeras no vayan contra las disposiciones del orden público y en las segundas, se respete siempre el derecho de las partes de rendir pruebas y producir alegatos.
 
-### CAPITULO III. De las condiciones que pueden ponerse en los testamentos
+### CAPITULO I. De los testamentos en general
 
 ###### Art. 2629.
 
@@ -15331,7 +15583,7 @@ No podrá intentarse demanda contra el valor o subsistencia de una transacción,
 
 # LIBRO SEXTO. De las sucesiones
 
-## TITULO SEGUNDO. De la sucesión por testamento
+## TITULO PRIMERO. Disposiciones preliminares
 
 ###### Art. 2652.
 
@@ -15405,9 +15657,9 @@ II. Cuando el adquiriente del inmueble la realice por más de una ocasión se en
 
 III. Cuando la adquisición se haga para una sociedad económico matrimonial o en copropiedad, ésta se equiparará a la adquisición de un inmueble y, desde luego, el derecho a la designación de beneficiarios comprende exclusivamente los derechos adquiridos.
 
-## TITULO TERCERO. De la forma de los testamentos
+## TITULO SEGUNDO. De la sucesión por testamento
 
-### CAPITULO IV. De los testamentos inoficiosos
+### CAPITULO II. De la capacidad para testar
 
 ###### Art. 2666.
 
@@ -15469,7 +15721,7 @@ Si un testamento se pierde por un evento ignorado por el testador, o por haber s
 
 En todo testamento, el testador deberá expresar cuando los hubiere, los siguientes datos: sus generales, documento con que se identifica, los nombres completos de sus progenitores, el de sus hijos, el o los matrimonios contraídos, bajo que régimen y en su caso, si vive en concubinato.
 
-### CAPITULO V. De la institución de heredero
+### CAPITULO III. De las condiciones que pueden ponerse en los testamentos
 
 ###### Art. 2676.
 
@@ -15503,7 +15755,7 @@ VI. Firmarán el testamento, además del testador y el notario, el juez, el secr
 
 Para apreciar la capacidad del testador se atenderá únicamente el estado en que se halle al hacer el testamento.
 
-### CAPITULO VI. De los legados
+### CAPITULO IV. De los testamentos inoficiosos
 
 ###### Art. 2680.
 
@@ -15603,9 +15855,7 @@ Cuando el legado debe concluir en un día que es seguro que ha de llegar, se ent
 
 Si el legado consistiere en prestación periódica, el legatario hará suyas todas las cantidades vencidas hasta el día señalado.
 
-### CAPITULO VII. De las sustituciones
-
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2001)</small>
+### CAPITULO V. De la institución de heredero
 
 ###### Art. 2704.
 
@@ -15631,7 +15881,7 @@ I. El nacido después de la muerte del testador; y
 
 II. El nacido en vida de su padre o de su madre después que aquél o ésta hayan otorgado su testamento, si no existe disposición expresa en el sentido de desheredarlo.
 
-### CAPITULO VIII. De la nulidad, revocación y caducidad de los testamentos
+### CAPITULO VI. De los legados
 
 ###### Art. 2709.
 
@@ -15691,7 +15941,9 @@ Si entre varios individuos del mismo nombre y circunstancias no pudiere saberse 
 
 Toda disposición en favor de persona incierta o sobre cosa que no pueda identificarse, será nula; a menos que por algún evento puedan resultar ciertas.
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO VII. De las sustituciones
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2001)</small>
 
 ###### Art. 2722.
 
@@ -16029,7 +16281,7 @@ Sólo duran veinte años los legados de que trata el artículo anterior, si fuer
 
 Si la cosa legada estuviere sujeta a usufructo, uso o habitación, el legatario deberá respetar esos derechos hasta que legalmente se extingan.
 
-### CAPITULO II. Del testamento público abierto
+### CAPITULO VIII. De la nulidad, revocación y caducidad de los testamentos
 
 ###### Art. 2802.
 
@@ -16087,7 +16339,7 @@ Si la carga fuere perpetua, el heredero podrá capitalizarla e imponer el capita
 
 La capitalización e imposición del capital se hará interviniendo la autoridad correspondiente, y con audiencia de los interesados y del Agente de la Procuraduría Social.
 
-### CAPITULO III. Del testamento público cerrado
+### CAPITULO I. Disposiciones generales
 
 ###### Art. 2814.
 
@@ -16155,9 +16407,9 @@ III. Si renuncia a su derecho.
 
 La disposición testamentaria que contenga condición de suceso pasado o presente desconocido, no caduca aunque la noticia del hecho se adquiera después de la muerte del heredero o legatario, cuyos derechos se transmiten a sus respectivos herederos.
 
-## TITULO CUARTO. De la sucesión legítima
+## TITULO TERCERO. De la forma de los testamentos
 
-### CAPITULO IV. Del testamento ológrafo
+### CAPITULO II. Del testamento público abierto
 
 ###### Art. 2829.
 
@@ -16239,7 +16491,7 @@ Lo dispuesto en el artículo que precede se observará también por cualquiera q
 
 Si los interesados están ausentes o son desconocidos, la noticia se dará al juez.
 
-### CAPITULO V. Del testamento privado
+### CAPITULO III. Del testamento público cerrado
 
 ###### Art. 2841.
 
@@ -16283,7 +16535,7 @@ Las solemnidades se practicarán ininterrumpidamente y el notario dará fe de ha
 
 No se considera interrumpido el testamento por la impresión de la escritura.
 
-### CAPITULO VI. Del testamento militar y marítimo
+### CAPITULO IV. Del testamento ológrafo
 
 ###### Art. 2848.
 
@@ -16387,7 +16639,7 @@ El testamento cerrado quedará sin efecto siempre que se encuentre roto el plieg
 
 Quien substraiga o destruya un testamento cerrado, será sancionado en los términos del Código Penal, y si fuese heredero aún en el caso de intestado, perderá sus derechos sobre la herencia.
 
-### CAPITULO VII. El testamento hecho fuera del Estado
+### CAPITULO V. Del testamento privado
 
 ###### Art. 2873.
 
@@ -16457,7 +16709,7 @@ El testamento ológrafo quedará sin efecto cuando el original o el duplicado, e
 
 El encargado del Registro Público de la Propiedad no proporcionará informes acerca del testamento ológrafo depositado en su oficina, sino al mismo testador o a los jueces competentes que oficialmente se los pidan.
 
-### CAPITULO VIII. El testamento hecho en país extranjero
+### CAPITULO VI. Del testamento militar y marítimo
 
 ###### Art. 2888.
 
@@ -16531,7 +16783,7 @@ Lo dispuesto en el artículo anterior se observará también en el caso de ausen
 
 El testamento privado sólo surtirá sus efectos si el testador fallece de la enfermedad o en el peligro que se hallaba, o dentro de un mes de desaparecida la causa que lo motivó.
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO VII. El testamento hecho fuera del Estado
 
 ###### Art. 2900.
 
@@ -16555,13 +16807,13 @@ Los testamentos otorgados por escrito, conforme a este Capítulo, deberán ser e
 
 Si el testamento hubiere sido otorgado de palabra, los testigos instruirán de él desde luego al jefe de la corporación, quien dará parte en el acto al Ministerio de la Secretaría correspondiente y éste a la autoridad judicial competente, a fin de que proceda teniendo en cuenta lo dispuesto en los artículos del 2893 a 2899 de este código.
 
-### CAPITULO II. De la sucesión de los descendientes
+### CAPITULO VIII. El testamento hecho en país extranjero
 
 ###### Art. 2905.
 
 En el Estado de Jalisco se dará plena validez y reconocimiento a los testamentos hechos en otra entidad federativa, dentro del territorio nacional siempre y cuando hayan sido formulados de acuerdo con las leyes del lugar donde pasaron.
 
-### CAPITULO III. De la sucesión de los ascendientes
+### CAPITULO I. Disposiciones generales
 
 ###### Art. 2906.
 
@@ -16571,9 +16823,9 @@ Tendrán plena validez los testamentos otorgados por mexicanos en el extranjero,
 
 Para que en el Estado se admitan y tengan validez los testamentos hechos en país extranjero, se requiere acreditar que hayan sido otorgados conforme a las leyes del país en que pasaron.
 
-## TITULO QUINTO. Disposiciones comunes a las sucesiones testamentaria y legítima
+## TITULO CUARTO. De la sucesión legítima
 
-### CAPITULO IV. De la sucesión del cónyuge
+### CAPITULO II. De la sucesión de los descendientes
 
 ###### Art. 2908.
 
@@ -16615,7 +16867,7 @@ Los parientes más próximos excluyen a los más remotos, salvo que concurran hi
 
 Los parientes que se hallaren en el mismo grado, heredarán por partes iguales.
 
-### CAPITULO V. De la sucesión de los colaterales
+### CAPITULO III. De la sucesión de los ascendientes
 
 ###### Art. 2915.
 
@@ -16641,7 +16893,7 @@ El adoptado hereda como un hijo; pero no hay derecho de sucesión entre el adopt
 
 Concurriendo padres adoptantes y descendientes del adoptado, los primeros sólo tendrán derecho a alimentos.
 
-### CAPITULO VI. De la sucesión de los concubinos
+### CAPITULO IV. De la sucesión del cónyuge
 
 ###### Art. 2921.
 
@@ -16679,7 +16931,7 @@ Los ascendientes, tienen derecho de heredar a sus descendientes reconocidos.
 
 Si el reconocimiento se hace después de que el descendiente haya adquirido bienes cuya cuantía, teniendo en cuenta las circunstancias personales del que reconoce, haga suponer fundadamente que motivó el reconocimiento, ni el que reconoce, ni sus descendientes tienen derecho a la herencia del reconocido. El que reconoce tiene derecho a alimentos, en el caso de que el reconocimiento lo haya hecho cuando el reconocido tuvo también derecho a percibir alimentos.
 
-### CAPITULO VII. De la sucesión de la Beneficencia Pública
+### CAPITULO V. De la sucesión de los colaterales
 
 ###### Art. 2930.
 
@@ -16707,7 +16959,7 @@ El cónyuge recibirá las porciones que le correspondan conforme a los dos artí
 
 A falta de descendientes y ascendientes, el cónyuge sucederá en todos los bienes.
 
-### CAPITULO I. De las precauciones que deben adoptarse cuando la viuda quede encinta
+### CAPITULO VI. De la sucesión de los concubinos
 
 ###### Art. 2936.
 
@@ -16729,19 +16981,21 @@ A falta de hermanos, sucederán sus hijos, dividiéndose la herencia por estirpe
 
 A falta de los llamados en los artículos anteriores, sucederán los parientes más próximos dentro del cuarto grado, sin distinción de línea ni consideración al doble vínculo, y heredarán por partes iguales.
 
-### CAPITULO II. De la capacidad para heredar
+### CAPITULO VII. De la sucesión de la Beneficencia Pública
 
 ###### Art. 2941.
 
 Tendrá derecho a heredar, aplicándose las disposiciones relativas a la sucesión del cónyuge, la persona con quien el autor de la herencia vivió en el mismo domicilio como si fuera su cónyuge durante los 3 años si tuvieron hijos en común o durante 5 años si no los hubieren tenido, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato, en ambos casos se deberá entender los años que precedieron inmediatamente a su muerte. Si fueron varias las personas que vivieron con el autor de la sucesión como si éste fuere su cónyuge, ninguna de ellas heredará.
 
-### CAPITULO III. De las cargas alimentarias
+### CAPITULO I. De las precauciones que deben adoptarse cuando la viuda quede encinta
 
 ###### Art. 2942.
 
 A falta de todos los herederos llamados en los capítulos anteriores, sucederán los establecimientos de asistencia social en los términos de ley prefiriéndose a los que funcionen en el lugar del domicilio del autor de la sucesión.
 
-### CAPITULO IV. De la apertura y transmisión de la herencia
+## TITULO QUINTO. Disposiciones comunes a las sucesiones testamentaria y legítima
+
+### CAPITULO II. De la capacidad para heredar
 
 ###### Art. 2943.
 
@@ -16789,7 +17043,7 @@ Para cualquiera de las diligencias que se practiquen conforme a lo dispuesto en 
 
 La división de la herencia se suspenderá hasta que se verifique el parto o hasta que transcurra el término máximo de la preñez; mas los acreedores podrán ser pagados por mandato judicial.
 
-### CAPITULO V. De la aceptación y de la repudiación de la herencia
+### CAPITULO III. De las cargas alimentarias
 
 ###### Art. 2954.
 
@@ -16951,7 +17205,7 @@ No puede deducirse acción para declarar la incapacidad, pasados tres años desd
 
 Si el que entró en posesión de la herencia y la pierde después por declaración de incapacidad, hubiere enajenado o gravado todo o parte de los bienes antes de ser emplazado en el juicio en que se discuta su incapacidad, y aquél, con quien se contrató hubiere tenido buena fe, el contrato subsistirá, mas el heredero incapaz estará obligado a indemnizar al legítimo, de todos los daños y perjuicios.
 
-### CAPITULO VI. De los albaceas e interventores
+### CAPITULO IV. De la apertura y transmisión de la herencia
 
 ###### Art. 2984.
 
@@ -17035,7 +17289,7 @@ III. Después se ministrarán también a prorrata a los hermanos; y
 
 IV. Se ministrarán igualmente a prorrata a los demás parientes consanguíneos dentro del cuarto grado.
 
-### CAPITULO VII. Del inventario y de la liquidación de la herencia
+### CAPITULO V. De la aceptación y de la repudiación de la herencia
 
 ###### Art. 2990.
 
@@ -17055,7 +17309,7 @@ Habiendo albacea nombrado, él deberá promover la reclamación a que se refiere
 
 El derecho a reclamar la herencia prescribe en diez años contados a partir del discernimiento del cargo al albacea de la sucesión. Este derecho es transmisible a los herederos y legatarios.
 
-### CAPITULO VIII. De la partición
+### CAPITULO VI. De los albaceas e interventores
 
 ###### Art. 2994.
 
@@ -17169,7 +17423,7 @@ El que a instancias de un legatario o acreedor hereditario, haya sido declarado 
 
 La aceptación en ningún caso produce confusión de los bienes del autor de la herencia y de los herederos, porque toda herencia se entiende aceptada a beneficio de inventario, aunque no se exprese.
 
-### CAPITULO IX. De los efectos de la partición
+### CAPITULO VII. Del inventario y de la liquidación de la herencia
 
 #### Sección Primera. De los albaceas
 
@@ -17581,7 +17835,7 @@ VII. Por remoción.
 
 La revocación puede hacerse por los herederos en cualquier tiempo, pero en el mismo acto debe nombrarse al sustituto.
 
-### CAPITULO X. De la rescisión y nulidad de las particiones
+### CAPITULO VIII. De la partición
 
 ###### Art. 3097.
 
@@ -17630,6 +17884,8 @@ El albacea, concluido el inventario, no podrá pagar los legados sin haber cubie
 ###### Art. 3108.
 
 Los acreedores que se presenten después de pagados los legatarios, solamente tendrán acción contra éstos cuando en la herencia no hubiere bienes bastantes para cubrir sus créditos.
+
+### CAPITULO IX. De los efectos de la partición
 
 ###### Art. 3109.
 
@@ -17700,6 +17956,8 @@ Puede el albacea entregar a los herederos parcialmente los bienes que constituya
 ###### Art. 3122.
 
 Si hecha la partición aparecieren algunos bienes omitidos en ella, se hará una división suplementaria, en la cual se observarán las disposiciones contenidas en este título.
+
+### CAPITULO X. De la rescisión y nulidad de las particiones
 
 ###### Art. 3123.
 
@@ -18232,3 +18490,7 @@ P.O. 9 DE OCTUBRE DE 2014.
 P.O. 30 DE OCTUBRE DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 25 DE NOVIEMBRE DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al dia siguiente de su publicación en el periódico oficial El Estado de Jalisco.
