@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-proteccion-civil-del-estado-de-michoacan-de-ocampo-84351
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-28"
-last_updated: "2011-12-28"
+last_updated: "2014-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL P.O. DE 25 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en la Décima Octava Sección, en el Periódico Oficial del Estado de Michoacán de Ocampo, el miércoles 28 de diciembre del 2011.
 
@@ -924,3 +926,27 @@ ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECT
 En cumplimiento a lo dispuesto por la fracción l, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 15 quince días del mes de Diciembre del año 2011 dos mil once.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LEONEL GODOY RANGEL.- EL SECRETARIO DE GOBIERNO.- RAFAEL MELGOZA RADILLO. (Firmados).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE NOVIEMBRE DE 2014.
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. La presente Ley, abroga a la Ley de Protección Civil del Estado de Michoacán de Ocampo, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el 28 de diciembre de 2011.
+
+Tercero. El Ejecutivo Estatal emitirá el Reglamento de esta Ley, en un plazo no mayor a 180 días naturales a partir de su publicación.
+
+Cuarto. Las disposiciones legales y administrativas de Protección Civil, previstas en ordenamientos federales o en otras normas del Estado y sus Municipios, serán complementarias a esta Ley, en lo que no se opongan a ella.
+
+Quinto. Los Presidentes Municipales contarán con un plazo de hasta 180 días naturales a partir de la publicación de esta Ley, para realizar las adecuaciones correspondientes a su marco jurídico municipal.
+
+Sexto. Los aprovechamientos generados por concepto de multas por infracciones a esta Ley y su Reglamento, deberán quedar previstos en la Ley de Ingresos del Estado de Michoacán de Ocampo.
+
+Séptimo. Los funcionarios de la Coordinación Estatal y de las Municipales de Protección Civil, desde Jefes de Departamento hasta Directores Generales, deberán obtener su certificación de competencia expedida por alguna institución registrada ante la Escuela Nacional de Protección Civil, en el término de un año, contado a partir de que ésta entre en operación. Mientras que el personal integrante de dichas coordinaciones, con funciones operativas, deberá obtener su certificación en la Coordinación Estatal.
+
+Octavo. El Gobierno del Estado y los Municipios realizarán las modificaciones a la estructura orgánica de la Secretaría de Gobierno y a la de las Secretarías de los Ayuntamientos, respectivamente, para dar cumplimiento a lo dispuesto en esta Ley, a más tardar en 180 días naturales, posteriores a su entrada en vigor.
+
+Noveno. El Consejo Estatal de Protección Civil, deberá ser convocado a celebrar su sesión de instalación, en un plazo no mayor a 60 días naturales, contados a partir de la entrada en vigor de este ordenamiento. Posterior a ello, en un plazo que no exceda de 30 días, deberá quedar aprobado su Reglamento Interior.
+
+Décimo. El Ejecutivo del Estado dispondrá, en el Presupuesto de Egresos del Estado de Michoacán de Ocampo, la ampliación presupuestal suficiente para la creación, desarrollo y funcionamiento de los nuevos organismos, áreas y estructuras institucionales y financieras de Protección Civil, instituidas en la Presente Ley.
