@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2014-09-27"
+last_updated: "2014-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -3135,7 +3135,7 @@ Este delito se perseguirá por querella de la parte ofendida.
 
 ### CAPITULO IV. Substracción, Robo y Tráfico de Menores
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 175.
 
@@ -3235,17 +3235,19 @@ Se impondrán de dos a seis años de prisión al que exponga en una casa de exp�
 
 ###### Art. 179.
 
-Se impondrán de dos a seis años de prisión al que sustraiga a un menor de dieciocho años, sin causa justificada o sin orden de autoridad competente, de la custodia o guarda de quien legítimamente la tenga, o bien que lo retenga sin voluntad de éste. Si la víctima de este delito es un menor de doce años de edad, al responsable se le impondrá una pena de cuatro a doce años de prisión.
+Se impondrán de dos a seis años de prisión al que sustraiga a una persona menor de dieciocho años o mayor incapaz sin causa justificada o sin orden de autoridad competente, de la custodia o guarda de quien legítimamente la tenga, o bien que lo retenga u oculte sin voluntad de éste. Si la víctima de este delito es una persona menor de doce años de edad al responsable se le impondrá una pena de cuatro a doce años de prisión.
 
-Cuando el delito lo efectúen los padres, abuelos o bisabuelos que no ejerzan la patria potestad, o terceros, por encargo de alguno de éstos, la sanción será de seis meses a dos años de prisión. En este caso el delito solo se perseguirá a petición del legítimo representante de la parte ofendida.
+Cuando el delito lo efectúen los padres, abuelos o bisabuelos que no ejerzan la patria potestad, o terceros, por encargo de alguno de éstos, la sanción será de seis meses a dos años de prisión. En este caso el delito sólo se perseguirá a petición del legítimo representante de la parte ofendida.
 
-En cualquier supuesto, si se pone espontáneamente en libertad al menor, o se devuelve, antes de formuladas las conclusiones y sin causarle algún daño, la sanción será de tres meses a un año de prisión.
+En cualquier supuesto, si se pone espontáneamente en libertad a la persona menor de edad, o se devuelve antes de formuladas las conclusiones y sin causarle algún daño, se impondrá la sanción de tres meses a un año de prisión.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+Se aumentará en una mitad las penas señaladas a quien habiendo perdido judicialmente la patria potestad o la guarda y custodia o ejerciendo éstas, se encuentre suspendido o limitado o bien éstas se encuentren por resolverse en procedimiento seguido ante autoridad judicial.
 
-El robo de infante lo comete el que se apodere de un menor de dieciocho años de edad de cualquier sexo, sin derecho y sin consentimiento de sus padres o de quienes legítimamente lo tengan en su poder, con el fin de segregarlo del medio familiar que le es propio. Este delito se castigará con pena de siete a veintidós años de prisión.
+De igual forma se aumentará en dos terceras partes las penas a quien sustraiga, retenga u oculte a persona menor de edad o mayor incapaz que viva en el territorio del estado, en cualquier otra entidad federativa y se aumentará en un tanto la pena en caso de que la persona menor de edad sea trasladada al extranjero.
 
-Si el menor es restituido a su familia o a la autoridad, espontáneamente, dentro de los quince días a partir de la fecha de la substracción y sin causarle perjuicio, solamente se aplicará al responsable la sanción de seis meses a cuatro años de prisión.
+El robo de infante lo comete el que se apodere de una persona menor de dieciocho años de edad de cualquier sexo, sin derecho y sin consentimiento de sus padres o de quienes legítimamente lo tengan en su poder, con el fin de segregarla del medio familiar que le es propio. Este delito se castigará con pena de siete a veintidós años de prisión.
+
+Si la persona menor de edad es restituida a su familia o a la autoridad, espontáneamente, dentro de los quince días a partir de la fecha de la substracción y sin causarle perjuicio, solamente se aplicará al responsable la sanción de seis meses a cuatro años de prisión.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -5828,3 +5830,7 @@ PRIMERO. El presente Decreto entrará en vigor de conformidad con la declaratori
 SEGUNDO. Para los efectos del presente Decreto, en tanto se expide la ley general en materia de ejecución de penas, las disposiciones de la Ley de Ejecución de Penas y Medidas de Seguridad del Estado de Jalisco seguirán vigentes, para lo cual el Supremo Tribunal de Justicia determinará la autoridad competente para la modificación y duración de las penas. La autoridad penitenciaria deberá remitir al Poder Judicial los expedientes correspondientes.
 
 TERCERO. Para los efectos del presente Decreto, en tanto se expide la ley general en materia de justicia alternativa, las disposiciones en materia penal de la Ley de Justicia Alternativa del Estado Libre y Soberano de Jalisco seguirán vigentes.
+
+P.O. 25 DE NOVIEMBRE DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al dia siguiente de su publicación en el periódico oficial El Estado de Jalisco.
