@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2014-07-08"
+last_updated: "2014-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2014.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -105,6 +105,10 @@ Queda prohibida toda discriminación motivada por origen étnico o nacional, el 
 
 El derecho a la información pública será garantizado por el Estado en los términos de esta Constitución y la ley respectiva.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], 25 DE NOVIEMBRE DE 2014)</small>
+
+El Estado garantizará y promoverá el acceso a la sociedad de la información y economía del conocimiento, mediante el uso y aprovechamiento de las tecnologías de comunicación y de la información en los términos de la legislación correspondiente; asimismo, reconoce el derecho al acceso a la ciencia, tecnología e innovación, para lo cual promoverá su desarrollo, con el objetivo de elevar el nivel de vida de los habitantes del Estado.
+
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2004)</small>
 
 El Estado de Jalisco tiene una composición pluricultural sustentada originalmente en sus pueblos indígenas que son aquellos que descienden de poblaciones que habitaban en el territorio actual del país al iniciarse la colonización y que conservan sus propias instituciones sociales, económicas, culturales y políticas, o parte de ellas.
@@ -113,9 +117,9 @@ El Estado de Jalisco tiene una composición pluricultural sustentada originalmen
 
 La conciencia de su identidad indígena deberá ser criterio fundamental para determinar a quiénes se aplican las disposiciones sobre pueblos indígenas.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, 25 DE NOVIEMBRE DE 2014)</small>
 
-Son comunidades integrantes de un pueblo indígena, aquellas que formen una unidad social, económica y cultural, asentadas en un territorio y que reconocen autoridades propias de acuerdo con sus usos y costumbres.
+Son comunidades integrantes de un pueblo indígena, aquellas que formen una unidad social, económica y cultural, asentada en un territorio y que reconocen autoridades propias de acuerdo con sus usos y costumbres.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2004)</small>
 
@@ -3422,3 +3426,9 @@ SEXTO. Se autoriza a la Secretaría de Planeación, Administración y Finanzas a
 SÉPTIMO. El Titular del Poder Ejecutivo deberá enviar al Congreso del Estado la terna para designar al Fiscal Especial en materia de Delitos Electorales dentro de los sesenta días siguientes a la entrada en vigor del presente decreto.
 
 OCTAVO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE NOVIEMBRE DE 2014.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. El Congreso del Estado deberá expedir la legislación secundaria dentro del plazo de un año contado a partir de la entrada en vigor del presente decreto.
