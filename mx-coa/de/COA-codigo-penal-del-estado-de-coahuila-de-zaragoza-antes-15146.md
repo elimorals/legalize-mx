@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2014-09-30"
+last_updated: "2014-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -34,6 +34,22 @@ QUE EL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGO
 DECRETA:
 
 NUMERO.- 298
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 634, PUBLICADO EN EL P.O. 25 DE NOVIEMBRE DE 2014, TODAS LAS DISPOSICIONES, MENCIONES Y REFERENCIAS QUE SE HAGAN EN ESTE DECRETO RESPECTO AL TÉRMINO "CÓDIGO DE PROCEDIMIENTOS PENALES" , SE ENTENDERÁN HECHAS AL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, EL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO EL 17 DE FEBRERO DE 2012, Y EL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO EL 25 DE MAYO DE 1999, DE ACUERDO AL ESQUEMA DE GRADUALIDAD DE LA IMPLEMENTACIÓN DEL SISTEMA PENAL ACUSATORIO ADVERSARIAL.</small>
+
+ASIMISMO, LAS REFERENCIAS QUE SE HAGAN A CARPETA DE INVESTIGACIÓN, EN LOS CASOS QUE RESULTE APLICABLE, SE ENTENDERÁN HECHAS A LA AVERIGUACIÓN PREVIA
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NÚMERO 634, PUBLICADO EN EL P.O. 25 DE NOVIEMBRE DE 2014, TODAS LAS DISPOSICIONES, MENCIONES Y REFERENCIAS QUE SE HAGAN EN LAS LEYES Y REGLAMENTOS A LAS SUBPROCURADURÍAS JURÍDICA, DE DERECHOS HUMANOS, PROFESIONALIZACIÓN Y PROYECTOS, Y DE INVESTIGACIONES ESPECIALES, ATENCIÓN A DELITOS CONTRA MUJERES POR RAZÓN DE GÉNERO, TRATA DE PERSONAS, LIBERTAD DE EXPRESIÓN Y SERVICIOS A LA COMUNIDAD, SE ENTENDERÁN HECHAS A LA SUBPROCURADURÍA JURÍDICA, DE DERECHOS HUMANOS Y DE INVESTIGACIONES ESPECIALES, DE ACUERDO A LAS ATRIBUCIONES QUE SE OTORGAN A ÉSTA ÚLTIMA MEDIANTE EL PRESENTE DECRETO.</small>
+
+ASIMISMO TODAS LAS DISPOSICIONES, MENCIONES Y REFERENCIAS QUE SE HAGAN EN LAS LEYES Y REGLAMENTOS RESPECTO DE LAS SIGUIENTES UNIDADES ADMINISTRATIVAS, SE ENTENDERÁN HECHAS CONFORME A LAS SIGUIENTES DENOMINACIONES:
+
+A) DIRECCIÓN GENERAL DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS Y TESTIGOS: DIRECCIÓN GENERAL DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS Y OFENDIDOS.
+
+B) DIRECCIÓN GENERAL DE MEDIOS ALTERNOS DE SOLUCIÓN DE CONFLICTOS: DIRECCIÓN GENERAL DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS.
+
+C) DIRECCIÓN DE CONTROL DE PROCESOS EN MATERIA DE DELITOS ELECTORALES: DIRECCIÓN DE CONTROL DE JUICIOS Y CONSTITUCIONALIDAD EN MATERIA DE DELITOS ELECTORALES,
+
+D) DIRECCIÓN GENERAL DE POLÍTICA CRIMINAL: DIRECCIÓN DE POLÍTICA CRIMINAL.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE MAYO DE 2013)</small>
 
@@ -59,7 +75,9 @@ CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 ARTÍCULO 1 (PRINCIPIO DE LEGALIDAD)
 
-A nadie se le impondrá pena o medida de seguridad, sino por una acción u omisión previstas como delito en una ley vigente al tiempo de su realización, siempre y cuando se actualicen los presupuestos y elementos que para el mismo señale la ley, y sus penas o medidas de seguridad se encuentren igualmente establecidas en ella, las que junto con aquéllos han de ser exactamente aplicables al hecho delictuoso de que se trate.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+A nadie se le impondrá pena, medida de seguridad ni sanción alguna, sino por una acción u omisión previstas como delito en una ley vigente al tiempo de su realización, siempre y cuando se actualicen los presupuestos y elementos que para el mismo señale la ley, y sus penas, medidas de seguridad o consecuencias jurídicas para las personas morales, se encuentren igualmente establecidas en ella, las que junto con aquéllos han de ser exactamente aplicables al hecho de que se trate.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -101,6 +119,10 @@ Para que un resultado sea penalmente relevante deberá estar previsto o implicad
 
 Para que la acción o la omisión tengan relevancia típica penal, también deberán realizarse dolosa o culposamente.
 
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+La sola causación del resultado no podrá fundamentar, por sí sola, la responsabilidad penal.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
@@ -108,6 +130,10 @@ Para que la acción o la omisión tengan relevancia típica penal, también debe
 ARTÍCULO 6 (PRINCIPIO DE AFECTACIÓN AL BIEN JURÍDICO PROTEGIDO)
 
 Para que la acción o la omisión tengan relevancia típica penal, igual es necesario que lesionen o pongan en peligro de lesionar al bien o bienes jurídicos protegidos en el tipo penal de que se trate.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+Los tipos penales estarán limitados a la exclusiva protección de los bienes jurídicos necesarios para la adecuada convivencia social.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -285,7 +311,9 @@ Salvo el supuesto del párrafo último del artículo 20 de este código, la auto
 
 ARTÍCULO 22 (VALIDEZ PERSONAL Y EDAD PENAL)
 
-Las penas que prevea la ley y las disposiciones de este Código se aplicarán a todas las personas a partir de los dieciocho años de edad.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+Las penas que prevea la ley y las disposiciones de este Código se aplicarán a todas las personas a partir de los dieciocho años de edad, así como a las personas morales involucradas en la comisión de algún delito.
 
 Cuando una persona menor de dieciocho años de edad, realice una conducta prevista en la ley como delito, podrá ser enjuiciada con arreglo a lo dispuesto en la ley de la materia.
 
@@ -843,6 +871,10 @@ ARTÍCULO 55 (ATIPICIDAD DE LA TENTATIVA POR DESISTIMIENTO O ARREPENTIMIENTO EFI
 
 No será punible la conducta de quien al conocer o creer que aún puede consumarse el delito, desista de su conducta o impida la consumación de aquél, salvo que sus actos u omisiones por sí mismos constituyan otro delito, en cuyo caso se le aplicarán las sanciones previstas para el mismo.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+El desistimiento del autor no beneficia a los partícipes. Para que sea válido el desistimiento de los partícipes o coautores, se requerirá que hayan neutralizado el sentido de su aportación al hecho.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
@@ -1105,7 +1137,9 @@ Al individualizar la pena en un delito cometido con ignorancia o error vencibles
 
 ARTÍCULO 69 (DELITO INSTANTÁNEO)
 
-El delito será instantáneo cuando se consuma en el momento en que se concretan los elementos esenciales del tipo penal de que se trate, en tanto su descripción no admita que se prolongue la acción u omisión, o que admitiéndola, la misma no se extienda en el tiempo.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+Por su forma de realización en el tiempo el delito puede ser instantáneo, cuando la consumación se agota en el mismo momento en que se han realizado todos los elementos de la descripción legal.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1113,7 +1147,9 @@ El delito será instantáneo cuando se consuma en el momento en que se concretan
 
 ARTÍCULO 70 (DELITO PERMANENTE)
 
-El delito será permanente cuando perdure su consumación, al prolongarse en el tiempo la conducta que concrete los elementos del tipo penal de que se trate, en tanto su descripción requiera o permita su prolongación.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+El delito es permanente cuando se viola el mismo precepto legal, y la consumación se prolonga en el tiempo.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1187,7 +1223,9 @@ ARTÍCULO 75 (RESPONSABILIDAD DE PERSONAS MORALES)
 
 Para la aplicación de penas sólo pueden ser penalmente responsables las personas físicas.
 
-Sin embargo, cuando un miembro del consejo de administración, un administrador único o cualquier representante de una persona moral, sea de hecho o de derecho, con excepción de las instituciones públicas del estado o de sus municipios, cometa algún delito con los medios que para tal objeto la misma persona moral le proporcione, de modo que el delito resulte cometido a nombre de aquélla, bajo el amparo o en beneficio de la misma, el juzgador impondrá en la sentencia, previo el procedimiento correspondiente y con intervención del representante legal, las consecuencias jurídicas accesorias previstas en el artículo 161 de este Código para dichas personas morales, independientemente de la responsabilidad en que hubieran incurrido las personas físicas por los delitos cometidos.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+Sin embargo, cuando un miembro del consejo de administración, un administrador único o cualquier representante de una persona moral, sea de hecho o de derecho, con excepción de las instituciones públicas del estado o de sus municipios, cometa algún delito con los medios que para tal objeto la misma persona moral le proporcione, de modo que el delito resulte cometido a nombre de aquélla, bajo el amparo o en beneficio de la misma, el juzgador impondrá en la sentencia, previo el procedimiento correspondiente y con intervención del representante legal, las consecuencias jurídicas accesorias previstas en el artículo 161 de este Código y las mismas consecuencias jurídicas serán aplicables para los efectos establecidos en el Código de Procedimientos Penales, para dichas personas morales, independientemente de la responsabilidad en que hubieran incurrido las personas físicas por los delitos cometidos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2663,7 +2701,9 @@ Los instrumentos o bienes que se decomisen y sean de comercio lícito, se podrá
 
 ARTÍCULO 156 (BIENES SIN DECOMISAR EN ESTADO DE ABANDONO O DE DIFÍCIL CONSERVACIÓN)
 
-Los bienes que no sean ni puedan ser decomisados, y se hallen a disposición del Ministerio Público o las autoridades judiciales, o los de conservación o mantenimiento imposible, difícil o costoso que se hallen a disposición de cualquiera de las autoridades señaladas, sin que se les reclame por quien tenga derecho en un lapso de noventa días, contados a partir del día siguiente en el que queden a disposición de la autoridad, se procederá en cuanto a los mismos según lo previsto en el código de procedimientos penales del estado, respecto a bienes asegurados.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+Los bienes que no sean ni puedan ser decomisados, y se hallen a disposición del Ministerio Público o las autoridades judiciales, o los de conservación o mantenimiento imposible, difícil o costoso que se hallen a disposición de cualquiera de las autoridades señaladas, sin que se les reclame por quien tenga derecho en un lapso de noventa días, contados a partir del día siguiente en el que queden a disposición de la autoridad, se procederá en cuanto a los mismos según lo previsto en el Código de Procedimientos Penales, respecto a bienes asegurados.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2719,29 +2759,53 @@ El juez de ejecución de donde se encuentre el inimputable, será competente par
 
 Concluido el tratamiento o bien el tiempo máximo de la medida, el juez de ejecución entregará al inimputable a sus familiares para que se hagan cargo de él, y si no tiene familiares o éstos no estuvieran en condiciones de brindarle la asistencia adecuada, lo pondrá a disposición de las autoridades de salud o de una institución asistencial, para que éstas procedan conforme a las leyes aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO DÉCIMO TERCERO. CONSECUENCIAS JURÍDICAS PARA PERSONAS MORALES
+
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+ARTÍCULO 161 (ALCANCES Y DURACIÓN DE LAS CONSECUENCIAS JURÍDICAS PARA LAS PERSONAS MORALES)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
-
-### CAPÍTULO DÉCIMO TERCERO. CONSECUENCIAS PARA PERSONAS MORALES
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
-
-ARTÍCULO 161 (ALCANCES Y DURACIÓN DE LAS CONSECUENCIAS PARA LAS PERSONAS MORALES)
 
 La suspensión consistirá en la cesación de la actividad de la persona moral durante el tiempo que determine el juez en la sentencia, la cual no podrá exceder de dos años.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
+
 La disolución consistirá en la conclusión definitiva de toda actividad social de la persona moral, que no podrá volverse a constituir por las mismas personas en forma real o encubierta. La conclusión de toda actividad social se hará sin perjuicio de la realización de los actos necesarios para la disolución y liquidación total. El juez designará en el mismo acto un liquidador que procederá a cumplir todas las obligaciones contraídas hasta entonces por la persona moral, inclusive las responsabilidades derivadas del delito cometido, observando las disposiciones legales sobre prelación de créditos, conforme a la naturaleza de éstos y de la entidad objeto de la liquidación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
 
 La prohibición de realizar determinados negocios u operaciones, que podrá ser hasta por cinco años, se referirá exclusivamente a las que determine el juzgador, mismas que deberán tener relación directa con el delito cometido. Los administradores y el comisario de la sociedad serán responsables ante el juez, del cumplimiento de esta prohibición, además, a quien con aquella calidad incumpla con dicha prohibición, se le aplicarán las penas que establece este Código por desobediencia a un mandato de autoridad.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
+
 La remoción consiste en la sustitución de los administradores por uno designado por el juez, durante un período máximo de tres años.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
 
 Para hacer la designación, el juez podrá atender la propuesta que formulen los socios o asociados que no hubiesen tenido participación en el delito.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
+
 Cuando concluya el período previsto para la administración sustituta, la designación de los nuevos administradores se hará en la forma ordinaria prevista por las normas aplicables a estos actos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
 
 La intervención consiste en la vigilancia de las funciones que realizan los órganos de representación de la persona moral y se ejercerá con las atribuciones que la ley confiere al interventor, hasta por tres años.
 
@@ -2801,6 +2865,14 @@ XII. Supresión del tipo penal, y
 
 XIII. Existencia de una sentencia anterior dictada en proceso seguido por los mismos hechos.
 
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+XIV. El cumplimiento del criterio de oportunidad; y
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+XV. Las demás que se establezcan en la ley.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
@@ -2851,7 +2923,9 @@ La muerte del imputado extingue la acción penal respecto a él; la muerte del s
 
 ARTÍCULO 167 (ANULACIÓN DE SENTENCIA POR RECONOCIMIENTO DE LA INOCENCIA DEL SENTENCIADO)
 
-Cualquiera que sea la pena y medida de seguridad impuesta en sentencia que cause ejecutoria, procederá la anulación de la misma, cuando se pruebe que el sentenciado es inocente del delito por el que se le juzgó o en los demás supuestos previstos en el Código de Procedimientos Penales del Estado. La anulación de la sentencia extinguirá las penas o medidas de seguridad impuestas y todos sus efectos, salvo lo dispuesto en el párrafo siguiente de este artículo.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+Cualquiera que sea la pena y medida de seguridad impuesta en sentencia que cause ejecutoria, procederá la anulación de la misma, cuando se pruebe que el sentenciado es inocente del delito por el que se le juzgó o en los demás supuestos previstos en el Código de Procedimientos Penales. La anulación de la sentencia extinguirá las penas o medidas de seguridad impuestas y todos sus efectos, salvo lo dispuesto en el párrafo siguiente de este artículo.
 
 El reconocimiento de inocencia del sentenciado sólo extinguirá respecto al mismo la reparación del daño, si este aún no ha sido satisfecho.
 
@@ -3507,9 +3581,11 @@ En toda prevención para cumplir la determinación judicial, la autoridad judici
 
 El servidor público que se le requiera cumplir con una resolución judicial, carecerá del poder de inspección sobre la bondad de aquella, para alegar, aducir o pretextar su incumplimiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 218.
 
-DISPOSICIONES COMUNES AL DESACATO. Al configurarse un desacato dentro de un proceso penal o procedimiento administrativo, la autoridad que previno enviará oficio al Ministerio Público, comunicándole de aquél para que integre la averiguación correspondiente y, en su caso, ejercite la acción penal. Si el desacato se configura dentro de la averiguación previa, el Ministerio Público iniciará desde luego la averiguación.
+DISPOSICIONES COMUNES AL DESACATO. Al configurarse un desacato dentro de un proceso penal o procedimiento administrativo, la autoridad que previno enviará oficio al Ministerio Público, comunicándole de aquél para que inicie la investigación correspondiente y, en su caso, ejercite la acción penal. Si el desacato se configura dentro de la investigación, el Ministerio Público iniciará desde luego la carpeta de investigación.
 
 Si el desacato deriva de un procedimiento, proceso o juicio civil, familiar o laboral, sólo se perseguirá por querella de la parte a la que perjudique la desobediencia. Sin que sea necesaria comunicación de la autoridad ante la cual se incurrió en desacato. Pero aquella informará al Ministerio Público al respecto, cuando éste se lo pida y le facilitará copia de las constancias que pida.
 
@@ -3797,13 +3873,19 @@ SANCIONES Y FIGURAS TÍPICAS DE OBSTRUCCIÓN A LA JUSTICIA. Se aplicará prisió
 
 I. AUXILIO AL DELINCUENTE A ELUDIR LA ACCIÓN DE LA AUTORIDAD. Con conocimiento de que alguien cometió un delito, sin concierto previo a éste, lo ayude a eludir la acción de la autoridad.
 
-II. ENTORPECIMIENTO DE LA INVESTIGACIÓN MEDIANTE FALSEDAD U OCULTACIÓN, ALTERACIÓN O DESTRUCCIÓN DE EVIDENCIAS. Entorpezca la investigación de un delito que sabe se cometió o sabe que se investiga, con informes, documentos o declaraciones falsos a la autoridad, aunque sea sin presentarlos formalmente o sin rendir protesta de conducirse con verdad; u oculte, altere o destruya una o más evidencias o simule alguna.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+II. ENTORPECIMIENTO DE LA INVESTIGACIÓN O PROCESO PENAL MEDIANTE OCULTACIÓN, ALTERACIÓN O DESTRUCCIÓN DE INDICIOS O EVIDENCIAS. Oculte, altere, destruya o simule uno o más indicios o evidencias.
+
+Así como a quien oculte, altere o destruya los registros o etiquetamientos de los indicios o evidencias.
 
 III. ENTORPECIMIENTO Y DILACIÓN INDEBIDA DE LA INVESTIGACIÓN. A propósito y sin existir motivo justificado, impida, dificulte o indebidamente retarde la averiguación de un delito; o esconda, altere, destruya o simule una o más de sus constancias.
 
-> <small>(F. DE E., P.O. 10 DE AGOSTO DE 1999)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-IV. ENTORPECIMIENTO DE LA INVESTIGACIÓN MEDIANTE CIERTAS DECLARACIONES FALSAS. Niegue ser testigo no obstante serlo o afirme ser testigo sin serlo, de un hecho delictuoso o de circunstancias relacionadas con éste; o respecto de quien se atribuya alguna intervención en el hecho; aunque sea sin rendir protesta de conducirse con verdad.
+IV. ENTORPECIMIENTO DE LA INVESTIGACIÓN O PROCESO PENAL MEDIANTE FALSEDAD. Entorpezca la investigación o proceso penal con informes, documentos, declaraciones o entrevistas falsas a la autoridad, aunque sea sin presentarlos formalmente o sin rendir protesta de conducirse con verdad.
+
+Así como a quien se niegue ser testigo, no obstante serlo o afirme ser testigo sin serlo, de un hecho delictuoso o de circunstancias relacionadas con éste; o respecto de quien se atribuya alguna intervención en el hecho; aunque sea sin rendir protesta de conducirse con verdad.
 
 ###### ARTÍCULO 254.
 
@@ -3833,7 +3915,9 @@ III. LIGAMEN POR AMOR, RESPETO O GRATITUD JUSTIFICADOS. Los que estén ligados c
 
 LÍMITES A LA EXCUSA ABSOLUTORIA PARA EL ENCUBRIMIENTO U OBSTRUCCIÓN A LA JUSTICIA. La excusa no favorecerá a quien obre por motivo o fin ilícitos; o emplee medios delictuosos diversos a los que prevé este artículo.
 
-Tampoco favorecerá la excusa cuando el sujeto activo sea servidor público; y en cualquier caso, cuando la obstrucción a la justicia consista en la destrucción o alteración de evidencia para obstruir la averiguación o la justicia; o se presente formalmente una que sea falsa; o se conduzca con falsedad, previa protesta de conducirse con verdad.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+Tampoco favorecerá la excusa cuando el sujeto activo sea servidor público; y en cualquier caso, cuando la obstrucción a la justicia consista en la destrucción o alteración de indicios o evidencias para obstruir la investigación o la justicia; o se presente formalmente una que sea falsa; o se conduzca con falsedad, previa protesta de conducirse con verdad.
 
 ### CAPÍTULO DÉCIMO. EJERCICIO ARBITRARIO DEL PROPIO DERECHO
 
@@ -4741,9 +4825,9 @@ SANCIONES Y FIGURA TÍPICA DE MANTENER EN CORRUPCIÓN A UN MENOR O INCAPAZ. Se a
 
 Si el corruptor es ascendiente o ejerce autoridad sobre el menor, además de las sanciones que señala este artículo, se le privará de la patria potestad, tutela o guarda que ejerza.
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-ARTÍCULO 303 BIS. TRATAMIENTOS MÉDICOS, PSICOLÓGICOS Y TERAPEÚTICOS A LA PARTE OFENDIDA Y DEBER DE DENUNCIA DE LAS AUTORIDADES EDUCATIVAS Y DE SEGURIDAD PÚBLICA. Los sujetos pasivos de los delitos tipificados en los cuatro artículos anteriores, quedarán sujetos a los tratamientos médicos, psicológicos y terapéuticos adecuados para su recuperación, de acuerdo con las medidas que al efecto sean establecidas por el Ministerio Público en cualquier momento de la averiguación previa y que, en su caso, deberán ser ratificadas o modificadas por el Juez que conozca de la consignación correspondiente. En ambos casos, si se hace necesario, dichas medidas se harán cumplir coercitivamente.
+ARTÍCULO 303 BIS. TRATAMIENTOS MÉDICOS, PSICOLÓGICOS Y TERAPEÚTICOS A LA PARTE OFENDIDA Y DEBER DE DENUNCIA DE LAS AUTORIDADES EDUCATIVAS Y DE SEGURIDAD PÚBLICA. Los sujetos pasivos de los delitos tipificados en los cuatro artículos anteriores, quedarán sujetos a los tratamientos médicos, psicológicos y terapéuticos adecuados para su recuperación, de acuerdo con las medidas que al efecto sean establecidas por el Ministerio Público en cualquier momento de la investigación y que, en su caso, deberán ser ratificadas o modificadas por el Juez que conozca de la consignación correspondiente. En ambos casos, si se hace necesario, dichas medidas se harán cumplir coercitivamente.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2010)</small>
 
@@ -6774,3 +6858,49 @@ P.O. 30 DE SEPTIEMBRE DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
+
+###### ARTÍCULO SEGUNDO.
+
+Todas las disposiciones, menciones y referencias que se hagan en este decreto respecto al término “Código de Procedimientos Penales” , se entenderán hechas al Código Nacional de Procedimientos Penales, el Código de Procedimientos Penales del Estado de Coahuila de Zaragoza, publicado en el Periódico Oficial del Gobierno del Estado el 17 de febrero de 2012, y el Código de Procedimientos Penales del Estado de Coahuila de Zaragoza, publicado en el Periódico Oficial del Gobierno del Estado el 25 de mayo de 1999, de acuerdo al esquema de gradualidad de la implementación del Sistema Penal Acusatorio Adversarial.
+
+Asimismo, las referencias que se hagan a (sic) carpeta de investigación, en los casos que resulte aplicable, se entenderán hechas a la averiguación previa.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Dentro de los 60 días hábiles siguientes a la entrada en vigor del presente decreto, deberá emitirse o modificarse el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Coahuila de Zaragoza.
+
+###### ARTÍCULO QUINTO.
+
+Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos a las Subprocuradurías Jurídica, de Derechos Humanos, Profesionalización y Proyectos, y de Investigaciones Especiales, Atención a Delitos Contra Mujeres por Razón de Género, Trata de Personas, Libertad de Expresión y Servicios a la Comunidad, se entenderán hechas a la Subprocuraduría Jurídica, de Derechos Humanos y de Investigaciones Especiales, de acuerdo a las atribuciones que se otorgan a ésta última mediante el presente Decreto.
+
+Asimismo todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos respecto de las siguientes unidades administrativas, se entenderán hechas conforme a las siguientes denominaciones:
+
+a) Dirección General de Atención y Protección a Víctimas y Testigos: Dirección General de Atención y Protección a Víctimas y Ofendidos.
+
+b) Dirección General de Medios Alternos de Solución de Conflictos: Dirección General de Mecanismos Alternativos de Solución de Controversias.
+
+c) Dirección de Control de Procesos en Materia de Delitos Electorales: Dirección de Control de Juicios y Constitucionalidad en Materia de Delitos Electorales.
+
+d) Dirección General de Política Criminal: Dirección de Política Criminal.
+
+###### ARTÍCULO SEXTO.
+
+Hasta en tanto no se constituya la Dirección General de Protección a Testigos y Terceros intervinientes en el Proceso Penal, la Dirección General de Atención y Protección a Víctimas y Ofendidos, desarrollará las atribuciones y asuntos que en materia de protección a testigos y terceros involucrados establecen las leyes a la extinta Dirección General de Atención y Protección a Víctimas y Testigos, y las demás que otros ordenamientos estipulen en ésta materia.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los nombramientos expedidos con anterioridad continuarán generando sus efectos hasta en tanto se expidan los nuevos, con todos los efectos legales y responsabilidades en ellos conferidos.
+
+###### ARTÍCULO OCTAVO.
+
+Los procedimientos en materia de ejecución de penas y medidas de seguridad que con anterioridad al inicio de vigencia del presente Decreto se estuviesen tramitando, continuarán substanciándose de acuerdo a la legislación vigente al momento de su inicio en todo aquello que no atente contra el debido proceso penitenciario y sea contario al presente decreto.
