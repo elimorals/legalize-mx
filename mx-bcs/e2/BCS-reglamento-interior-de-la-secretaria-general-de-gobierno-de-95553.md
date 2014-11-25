@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-de-la-secretaria-general-de-gobierno-de-955
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-07-25"
-last_updated: "2013-07-25"
+last_updated: "2014-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95553&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 25 DE NOVIEMBRE DE 2014.
 
 Reglamento publicado en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el jueves 25 de julio de 2013.
 
@@ -63,23 +63,27 @@ e) Archivo General de Notarías y Registro Público de la Propiedad y del Comerc
 
 f) Unidad de Apoyo Administrativo e Informática de la Subsecretaría de la Consejería Jurídica.
 
+> <small>(REFORMADA, B.O. 25 DE NOVIEMBRE DE 2014)</small>
+
 III. Subsecretaría de Seguridad Pública:
 
 a) Dirección General de Ejecución, Prevención y Reinserción Social;
 
-b) Dirección de Tecnologías en Seguridad Pública;
+b) Dirección de Tecnologías de Apoyo a la Subsecretaría de Seguridad Pública;
 
-c) Dirección de Prevención Social del Delito con Participación Ciudadana;
+c) Dirección de Seguridad Privada;
 
-d) Dirección de Seguridad Privada;
+d) Coordinación de Programas Federales;
 
-e) Coordinación de Programas Federales;
+e) Coordinación Jurídica;
 
 f) Unidad de Control y Registro de Armas de Fuego y Municiones;
 
 g) Órgano Interno de Control; y
 
 h) Unidad de Apoyo Administrativo y Financiero de la Subsecretaría de Seguridad Pública.
+
+> <small>(REFORMADO, B.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 Estarán bajo su coordinación sectorial, los siguientes órganos desconcentrados:
 
@@ -91,9 +95,11 @@ III. Coordinación Estatal de Defensoría de Oficio;
 
 IV. Policía Estatal Preventiva;
 
-V. Centro Estatal de Control de Confianza; y
+V. Centro Estatal de Control de Confianza;
 
-VI. Academia Estatal de Seguridad Pública.
+VI. Academia Estatal de Seguridad Pública; y
+
+VII. Centro Estatal de Prevención del Delito con Participación Ciudadana
 
 De igual modo, estarán bajo su coordinación sectorial, los organismos descentralizados y entidades siguientes:
 
@@ -669,7 +675,7 @@ V. Revisar cualquier convenio o contrato mediante el cual se adquieran, enajenen
 
 VI. Revisar y validar jurídicamente los convenios y demás instrumentos jurídicos y administrativos en los que intervenga el Gobernador del Estado y/o el Secretario;
 
-VII. Mantener actualizado el archivo de los convenios y demás instrumentos jurídicos y administrativos en los que intervenga el Gobernador del Estado, las Dependencias y Entidades de la Administración Pública Estatal; y (sic)
+VII. Mantener actualizado el archivo de los convenios y demás instrumentos jurídicos y administrativos en los que intervenga el Gobernador del Estado, las Dependencias y Entidades de la Administración Pública Estatal; y
 
 VIII. Coordinar y dar seguimiento a los trabajos de la Subsecretaria de la Consejería Jurídica en atención al Plan Estatal de Desarrollo;
 
@@ -859,7 +865,9 @@ VIII. Supervisar los servicios de seguridad privada que se presten en el Estado,
 
 IX. Controlar y administrar los recursos humanos, materiales y financieros asignados a la Subsecretaría de Seguridad Pública, sus dependencias y unidades administrativas adscritas;
 
-X. Supervisar y controlar la operación de la Academia Estatal de Seguridad Pública, la Policía Estatal Preventiva y el Centro Estatal de Control de Confianza;
+> <small>(REFORMADA, B.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+X. Supervisar y controlar la operación de la Academia Estatal de Seguridad Pública, la policía Estatal Preventiva, el Centro Estatal de Control de Confianza y el Centro Estatal de Prevención del Delito con Participación Ciudadana;
 
 XI. Presidir la Comisión de Honor y Justicia;
 
@@ -885,33 +893,39 @@ XXI. Coordinar las funciones y programas que implemente el Patronato para la Rei
 
 XXII. Las demás que le asigne el Secretario, en el ejercicio de sus atribuciones.
 
+> <small>N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL B.O. DE 25 DE NOVIEMBRE DE 2014, PÁGINA 6.</small>
+
+> <small>(REFORMADO, B.O. 25 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 32.
 
 La Subsecretaria de Seguridad Pública, coordinará las actividades de las siguientes Unidades Administrativas:
 
 I. Dirección General de Ejecución, Prevención y Reinserción Social;
 
-II. Dirección de Tecnologías en Seguridad Pública;
+II. Dirección de Tecnologías de Apoyo a la Subsecretaria de Seguridad Pública;
 
-III. Dirección de Prevención Social del Delito con Participación Ciudadana;
+III. Dirección de Seguridad Privada;
 
-IV. Dirección de Seguridad Privada;
+IV. Coordinación Jurídica;
 
 V. Coordinación de Programas Federales;
 
 VI. Unidad de Control y Registro de Armas de Fuego y Municiones;
 
-VII. Órgano Interno del Control; y
+VII. Órgano Interno de Control; y
 
-VIII. Unidad de Apoyo Administrativo y Financiero de la Subsecretaría de Seguridad Pública.
+VIII. Unidad de Apoyo Administrativo y Financiero de la Subsecretaria de Seguridad Pública.
 
 Asimismo, coordinará las actividades del Patronato para la Reincorporación Social, así como de los órganos desconcentrados siguientes:
 
 I. Policía Estatal Preventiva;
 
-II. Centro Estatal de Control de Confianza; y
+II. Centro Estatal de Control de Confianza;
 
-III. Academia Estatal de Seguridad Pública.
+III. Academia Estatal de Seguridad Pública; y
+
+IV. Centro Estatal de Prevención del Delito con Participación Ciudadana.
 
 ###### ARTÍCULO 33.
 
@@ -943,7 +957,7 @@ XII. Coordinar y administrar los Centros de Reinserción Social;
 
 XIII. Organizar el Sistema Penitenciario a través de planes y programas basados en el respeto a los derechos humanos, el trabajo, la capacitación para el mismo, la salud y el deporte;
 
-XIV. Elaborar y coordinar los programas de trabajo y producción penitenciarios, que permitan al interno bastarse a sí (sic) mismo, colaborar en el mantenimiento de la institución en la que vive y sufragar los gastos de su propia familia;
+XIV. Elaborar y coordinar los programas de trabajo y producción penitenciarios, que permitan al interno bastarse a sí mismo, colaborar en el mantenimiento de la institución en la que vive y sufragar los gastos de su propia familia;
 
 XV. Adecuar el tratamiento de reinserción durante el internamiento, siendo éste compatible con la edad, sexo, salud o constitución física del interno;
 
@@ -951,7 +965,7 @@ XVI. Vigilar el funcionamiento adecuado de los Centros de Reinserción Social;
 
 XVII. Realizar los estudios correspondientes a personas a quienes se les haya concedido por la autoridad judicial un sustitutivo de la pena o beneficio de libertad anticipada;
 
-XVIII. Hacer del conocimiento de la autoridad judicial, la identificación de inimputables para que disponga la (sic) medidas de tratamiento aplicable;
+XVIII. Hacer del conocimiento de la autoridad judicial, la identificación de inimputables para que disponga la medidas (sic) de tratamiento aplicable;
 
 XIX. Vigilar la ejecución de las medidas de tratamiento a imputables en la entidad;
 
@@ -997,9 +1011,11 @@ IX. Las demás que le señalen las disposiciones jurídicas y administrativas ap
 
 La Dirección de Ejecución y Seguimiento de Medidas de Tratamiento para Adolescentes, coordinará sus funciones con el Centro de Internamiento de Adolescentes, conforme a la Ley de Justicia para Adolescentes del Estado, su Reglamento, así como el Reglamento del Centro.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 25 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 37.
 
-Al frente de la Dirección de Tecnología en Seguridad Pública, habrá un Director, quien tendrá las siguientes funciones:
+Al frente de la Dirección de Tecnologías de Apoyo a la Subsecretaria de Seguridad Pública, habrá un Director, quien tendrá las siguientes funciones:
 
 I. Participar en el programa institucional de desarrollo informático, telecomunicaciones y desarrollo tecnológico general de la Subsecretaría de Seguridad Pública;
 
@@ -1019,27 +1035,37 @@ VIII. Controlar, resguardar y supervisar la vigencia de las licencias de paquete
 
 IX. Las demás que le asigne el Subsecretario de Seguridad Pública, en ejercicio de sus atribuciones.
 
+> <small>(REFORMADO, B.O. 25 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 38.
 
-La Dirección de Tecnologías de Apoyo a la Seguridad Pública, para el buen desempeño de sus funciones, se auxiliará del personal necesario de acuerdo a su presupuesto y a las necesidades del servicio.
+La Dirección de Tecnologías de Apoyo a la Subsecretaría de Seguridad Pública, para el buen desempeño de sus funciones, se auxiliará del personal necesario de acuerdo a su presupuesto y a las necesidades del servicio.
+
+> <small>(REFORMADO, B.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 39.
 
-Al frente de la Dirección de Prevención Social del Delito con Participación Ciudadana, habrá un Titular, el cual tendrá las siguientes atribuciones y funciones:
+Al frente de la Coordinación Jurídica de la Subsecretaria (sic) Seguridad Pública, habrá un Coordinador quien tendrá las siguientes funciones:
 
-I. Elaborar y presentar para la autorización del Subsecretario de Seguridad Pública, el Plan Anual de Trabajo para la planeación, diseño y aplicación de las políticas públicas en materia de prevención social del delito con participación ciudadana;
+I. Supervisar, controlar y organizar, al personal y actividades del área a su cargo;
 
-II. Propiciar la coordinación hacia el interior de la Subsecretaría de Seguridad Pública, así como con las dependencias, entidades y autoridades competentes de los tres órdenes de gobierno en materia de prevención social del delito;
+II. Acordar con el (sic) Subsecretaria de Seguridad Pública el despacho de los asuntos que le sean encomendados;
 
-III. Generar mecanismos que propicien y faciliten la participación ciudadana y comunitaria, de los organismos públicos y privados en materia de derechos humanos y de las instituciones públicas de educación para el diagnóstico y evaluación de las políticas públicas en materia de prevención social del delito;
+III. Proporcionar asesoría jurídica al (sic) Subsecretaria de Seguridad Pública y demás Áreas de la Subsecretaria;
 
-IV. Ser enlace de la Subsecretaría de Seguridad Pública en la creación, instalación y operación de los Consejos Ciudadanos en materia de prevención social del delito;
+IV. Elaborar propuestas, emitir opiniones jurídicas sobre proyectos de leyes, decretos, reglamentos, iniciativas de reformas, acuerdos, circulares, manuales, convenios, contratos o cualquier otro instrumento relacionados con la Seguridad Pública, remitiéndolos a la instancia correspondiente;
 
-V. Aplicar el recurso financiero, tanto Federal como Estatal, y administrar de manera correcta los recursos humanos y materiales asignados a la Dirección para el cumplimiento de sus metas y objetivos; y
+V. Elaborar los estudios, trabajos e investigaciones de carácter jurídico que se le encomienden por parte del titular de la Subsecretaria de Seguridad Pública;
 
-VI. Las demás que le asigne el Subsecretario de Seguridad Pública, en ejercicio de sus atribuciones.
+VI. Identificar, compilar y analizar la normatividad legal y reglamentaria en materias relacionadas con el objeto de la Subsecretaria de Seguridad Pública;
 
-La Dirección de Prevención Social del Delito con Participación Ciudadana contará con el personal necesario para el desempeño de sus funciones, que le permita su presupuesto.
+VII. Someter a consideración del titular de la Subsecretaria de Seguridad Pública, las propuestas de actualizaciones del marco jurídico que normen las actividades propias de la Subsecretaria;
+
+VIII. Dar seguimiento a los Juicios de Garantías en donde la Subsecretaria de Seguridad Pública o alguna de sus áreas tenga el carácter de Autoridad Responsable.
+
+IX. Las demás que en el ámbito de su competencia le sean conferidas por el titular de la Subsecretaria de Seguridad Pública, el presente Reglamento y demás disposiciones aplicables.
+
+El titular de la Coordinación Jurídica será el autorizado en ausencias del titular de la Subsecretaria de Seguridad Pública del Estado, para dar contestación a los Juicios de Amparo en donde ésta o alguna de sus áreas tenga el carácter de Autoridad Responsable; en el entendido que para otras disposiciones en ausencia del titular de la Subsecretaria se estará en lo dispuesto por el artículo 55 del presente Reglamento.
 
 ###### ARTÍCULO 40.
 
@@ -1352,3 +1378,9 @@ MARCOS ALBERTO COVARRUBIAS VILLASEÑOR
 SECRETARIO GENERAL DE GOBIERNO
 
 ARMANDO MARTÍNEZ VEGA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 25 DE NOVIEMBRE DE 2014.
+
+ÚNICO.- El presente Decreto entrara en vigor, al día siguiente de su publicación en el Boletín Oficial de Gobierno del Estado de Baja California Sur.
