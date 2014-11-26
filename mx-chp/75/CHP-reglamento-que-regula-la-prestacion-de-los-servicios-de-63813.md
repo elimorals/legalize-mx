@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-que-regula-la-prestacion-de-los-servicios-de-63813"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-09-10"
-last_updated: "2008-12-31"
+last_updated: "2014-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO QUE REGULA LA PRESTACION DE LOS SERVICIOS DE SEGURIDAD PRIVADA EN EL ESTADO DE CHIAPAS
 
-REGLAMENTO QUE REGULA LA PRESTACION DE LOS SERVICIOS DE SEGURIDAD PRIVADA EN EL ESTADO DE CHIAPAS
+REGLAMENTO QUE REGULA LA PRESTACIÓN DE LOS SERVICIOS DE SEGURIDAD PRIVADA EN EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE SEGURIDAD PRIVADA PARA EL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 26 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 10 de septiembre de 2008.
 
@@ -139,7 +141,7 @@ Este ordenamiento, acuerdos, políticas y lineamientos administrativos aplicable
 
 La aplicación del presente reglamento corresponde al Ejecutivo Estatal por conducto de la Secretaría a través de la Dirección.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 8°.
 
@@ -277,7 +279,7 @@ XIX. Muestras físicas de insignias, distintivos, divisas, logotipos, emblemas o
 
 XX. Exhibir muestra física y fotografías a color del uniforme a utilizar por los elementos, de cuerpo entero, frontal, lateral y posterior, con todos los aditamentos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 13.
 
@@ -343,7 +345,7 @@ La revalidación estará sujeta al estricto cumplimiento de los artículos compr
 
 Transcurrida la vigencia de la autorización o su revalidación, el interesado deberá abstenerse de prestar el servicio de seguridad privada, hasta en tanto sea expedido un nuevo acto administrativo que para tal efecto lo autorice.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ### Capítulo IV. De las Modificaciones
 
@@ -399,7 +401,7 @@ Las personas que se dediquen a prestar el servicio en esta modalidad, quedarán 
 
 ### Capítulo VI. Del Registro Estatal
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 30.
 
@@ -513,7 +515,7 @@ X. Notificar mensualmente el movimiento nominal de su personal; y,
 
 XI. Coadyuvar con las autoridades y las diversas dependencias de la Secretaría.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 35.
 
@@ -851,7 +853,7 @@ d) Clausura total, por incumplimiento a las fracciones I, II y IV.
 
 VII. Cuando se incumpla lo previsto en los artículos 51 y 52, de este ordenamiento se podrán aplicar cualquiera de las sanciones prescritas en el artículo 71, fracciones I, II y III.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 71.
 
@@ -923,7 +925,7 @@ Dado en el Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estad
 
 Juan Sabines Guerrero, Gobernador del Estado.- Jorge Antonio Morales Messner, Secretario de Gobierno.- Daniel Roque Figueroa, Secretario de Seguridad y Protección Ciudadana.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
 
 P.O. 31 DE DICIEMBRE DE 2008.
 
@@ -932,3 +934,17 @@ Primero.- El presente Decreto entrará en vigor al día siguiente a su publicaci
 Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero.- La Secretaría de Seguridad y Protección Ciudadana, en el marco de su competencia, proveerá lo necesario para el cumplimiento del presente Decreto.
+
+P.O. 26 DE NOVIEMBRE DE 2014.
+
+Primero.- El presente Reglamento entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial.
+
+Segundo.- Se abroga el Reglamento que Regula la Prestación de los Servicios de Seguridad Privada para el Estado de Chiapas, publicado en el Periódico Oficial número 115, de fecha 10 de septiembre de 2008.
+
+Tercero.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Reglamento.
+
+Cuarto.- La denominación del Área de Servicios Privados de Seguridad, que se encuentre contenida en Leyes, Reglamentos, así como cualquier disposición jurídica o administrativa, se tendrá por entendida como al Área de Servicios de Seguridad Privada de la Secretaría de Seguridad y Protección Ciudadana.
+
+Quinto.- Los Prestadores de Servicios dispondrán de un término de noventa días naturales, contados a partir de la entrada en vigor de este Reglamento, para adecuarse a las disposiciones establecidas en el mismo.
+
+Sexto.- Conforme a lo dispuesto por el Artículo 8° de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial del Estado.
