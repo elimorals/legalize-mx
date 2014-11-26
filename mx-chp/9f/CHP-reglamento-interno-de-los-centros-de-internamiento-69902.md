@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interno-de-los-centros-de-internamiento-69902"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-25"
-last_updated: "2009-03-25"
+last_updated: "2014-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69902&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO INTERNO DE LOS CENTROS DE INTERNAMIENTO ESPECIALIZADO PARA ADOLESCENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2014.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 25 de marzo de 2009.
 
@@ -41,13 +41,17 @@ Reglamento Interno de los Centros de Internamiento Especializado para Adolescent
 
 ### Capítulo Único. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 1°.
 
-Las disposiciones contenidas en este Reglamento, son de orden público e interés social para todos los adolescentes internos, así como a los servidores públicos que laboran en los Centros de Internamiento Especializado para Adolescentes del Estado de Chiapas.
+Las disposiciones contenidas en el presente Reglamento, son de orden público e interés general para todos los Adolescentes que se encuentren en la calidad de internos en los Centros de Internamiento Especializado para Adolescentes del Estado de Chiapas, así como para los servidores públicos que se encuentran adscritos a él.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 2°.
 
-El presente reglamento tiene por objeto regular la organización, administración y funcionamiento de los Centros de Internamiento Especializado para Adolescentes del Estado de Chiapas, con la finalidad de tener una convivencia ordenada y armoniosa, que permita la ejecución de los diversos programas de tratamiento para adolescentes, funciones de custodia de los adolescentes y asegurar la igualdad de trato a todos los internos.
+El presente reglamento tiene por objeto regular la organización, administración y funcionamiento de los Centros de Internamiento Especializado para Adolescentes del Estado de Chiapas, con la finalidad de proveer una convivencia ordenada y armoniosa, que permita la ejecución de los diversos programas de tratamiento de los Adolescentes que se encuentran internos, así como regular las funciones de custodia de éstos, asegurando el respeto a los derechos humanos y garantizando su libre y pleno ejercicio, exceptuando cualquier tipo de discriminación, con total apego a las garantías fundamentales contempladas en la Constitución Política de los Estados Unidos Mexicanos y en los Tratados Internacionales de que México sea parte.
 
 ###### Artículo 3°.
 
@@ -55,47 +59,63 @@ Las disposiciones de este Reglamento serán aplicadas por:
 
 I. El Secretario de Seguridad y Protección Ciudadana.
 
-II. El Director de la Unidad de Ejecución de Medidas.
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2014)</small>
 
-III. El Director de cada uno de los Centros de Internamiento Especializado para Adolescentes.
+II. El Subsecretario de Ejecución de Sanciones Penales y Medidas de Seguridad.
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2014)</small>
+
+III. El Director de la Unidad de Ejecución de Medidas.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 4°.
 
-Para los efectos del presente Reglamento, se entenderá por:
+Para los efectos del presente Reglamento se entenderá por:
 
-I. Juez Especializado: Al Juez Especializado en Justicia para Adolescentes.
+I. Adolescente: A toda persona que tenga entre catorce años cumplidos hasta los dieciocho años incumplidos, que se encuentre en la calidad de interno dentro de cualquiera de los Centros de Internamiento Especializado para Adolescentes del Estado de Chiapas.
 
-II. Director de la Unidad: Al Director de la Unidad de Ejecución de Medidas de la Secretaría de Seguridad y Protección Ciudadana.
+II. Centro de Internamiento: A los Centros de Internamiento Especializados para Adolescentes del Estado de Chiapas.
 
-III. Unidad de Ejecución: A la Unidad de Ejecución de Medidas.
+III. Defensor Social: Al Defensor Social Especializado en Justicia para Adolescentes adscrito al Poder Judicial del Estado.
 
-IV. Centros de Internamiento: A los Centros de Internamiento Especializado para Adolescentes.
+IV. Director del Centro: A los Directores de los Centros de Internamiento Especializados para Adolescentes del Estado de Chiapas.
 
-V. Director del Centro: Al Director de cada uno de los Centros de Internamiento Especializado para Adolescentes.
+V. Fiscal Especializado: Al Fiscal del Ministerio Público adscrito a la Fiscalía Especializada para la Atención e Investigación de los Delitos cometidos por los Adolescentes.
 
-VI. Secretario: Al Secretario de Seguridad y Protección Ciudadana.
+VI. Director de la Unidad: Al Director de la Unidad de Ejecución de Medidas de la Subsecretaría de Ejecución de Sanciones Penales y Medidas de Seguridad.
 
-VII. Secretaría: A la Secretaría de Seguridad y Protección Ciudadana.
+VII. Juez Especializado: A los Jueces Especializados en Justicia para Adolescentes dependientes del Tribunal Superior de Justicia del Estado de Chiapas.
 
 VIII. Ley: A la Ley que Establece el Sistema Integral de Justicia para Adolescentes en el Estado de Chiapas.
 
-IX. Defensor Social: Al Defensor Social Especializado para Adolescentes del Poder Judicial del Estado.
+IX. Secretaría: A la Secretaría de Seguridad y Protección Ciudadana.
 
-X. Fiscal Especializado: Al Fiscal del Ministerio Público Adscrito a la Fiscalía Especializada para la Atención e Investigación de los Delitos cometidos por los Adolescentes.
+X. Secretario: Al titular de la Secretaría de Seguridad y Protección Ciudadana.
 
-XI. Cuerpo Técnico: Al Cuerpo Técnico Interdisciplinario.
+XI. Subsecretaría: A la Subsecretaría de Ejecución de Sanciones Penales y Medidas de Seguridad.
+
+XII. Subsecretario: Al titular de la Subsecretaría de Ejecución de Sanciones Penales y Medidas de Seguridad.
+
+XIII. Tratados internacionales: A los pactos, tratados, convenios, convenciones y demás instrumentos internacionales, cualquiera que sea su denominación del que México sea parte de conformidad con la legislación vigente y que establecen las obligaciones para el Estado Mexicano, en materia de procuración e impartición de justicia, así como los derechos humanos, particularmente los Derechos de los niños, niñas y Adolescentes.
+
+XIV. Unidad de Ejecución: A la Unidad de Ejecución de Medidas de la Subsecretaría de Ejecución de Sanciones Penales y Medidas de Seguridad.
 
 ## Título Segundo. De los Centros de Internamiento Especializado para Adolescentes
 
 ### Capítulo I. Dé la Estructura de los Centros de Internamiento
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 5°.
 
-Los Centros de Internamiento, son Departamentos Administrativos adscritos a la Unidad de Ejecución y tienen por objeto cumplir y ejecutar, en los términos de la Ley, las resoluciones dictadas por los Jueces Especializados y de las disposiciones que emita la Unidad de Ejecución, así como de las medidas decretadas por dichas autoridades, tendentes a la reintegración de los adolescentes a la sociedad y la familia.
+Los Centros de Internamiento, son departamentos administrativos adscritos a la Unidad de Ejecución, y tienen por objeto cumplir y ejecutar las resoluciones dictadas por los Jueces Especializados y las disposiciones que emita la propia Unidad de Ejecución, así como vigilar el cumplimiento de los planes individuales de tratamiento, procurando la protección y la defensa del interés superior del Adolescente que ha recibido la medida de internamiento, para conseguir su reintegración social y familiar, y fomentar el pleno desarrollo de su persona y sus capacidades.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 6°.
 
-Para los efectos del Artículo anterior, la Unidad de Ejecución, a través del Departamento Jurídico y de Ejecución de Medidas, vigilará que en los Centros de Internamiento, se cumpla con las disposiciones del presente Reglamento y de la Ley.
+Para los efectos del artículo anterior, el Director del Centro, vigilará que se cumplan con las disposiciones del presente Reglamento y de la Ley, bajo la supervisión de la Unidad de Ejecución.
 
 ### Capítulo II. De la Dirección de los Centros de Internamiento
 
@@ -119,99 +139,127 @@ III. Oficina de Tratamiento Interno.
 
 ### Capítulo III. De las Atribuciones y Obligaciones De los Directores de los Centros de Internamiento
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 10.
 
-Son atribuciones y obligaciones del Director de cada Centro de Internamiento:
+Son atribuciones y obligaciones del Director del Centro de Internamiento:
 
-I. Representar al Centro de Internamiento a su cargo.
+I. Representar legalmente al Centro de Internamiento a su cargo.
 
-II. Dirigir, coordinar y supervisar la adecuada marcha del Centro de Internamiento a su cargo.
+II. Dirigir y coordinar el funcionamiento adecuado del Centro de Internamiento a su cargo, implementado (sic) las acciones que considere necesarias para el cumplimiento de esta atribución, previa autorización del Director de la Unidad.
 
-III. Hacer del conocimiento del Juez Especializado y del Director de la Unidad, inmediatamente después de que ingrese un adolescente en el Centro de Internamiento.
+III. Hacer del conocimiento inmediato del Juez Especializado y del Director de la Unidad, el ingreso de un Adolescente al Centro de Internamiento.
 
-IV. Cuidar de que se brinde a los adolescentes los servicios jurídicos, de trabajo social, psicológicos, odontológicos, pedagógicos y médicos.
+IV. Cuidar de que se brinde a los Adolescentes los servicios jurídicos, de trabajo social, psicológicos, odontológicos, pedagógicos y médicos.
 
-V. Supervisar que exista en el Centro de Internamiento una alimentación completa y balanceada acorde a las necesidades de los adolescentes.
+V. Supervisar que exista en el Centro de Internamiento una alimentación completa y balanceada acorde a las necesidades de los Adolescentes.
 
 VI. Organizar actos recreativos, deportivos y culturales en coordinación con las áreas adscritas al Centro de Internamiento, incluyendo actos en días inhábiles.
 
-VII. Solicitar a la Unidad de Ejecución, el material y útiles necesarios para que las oficinas y áreas que le están adscritas desempeñen adecuadamente sus funciones.
+VII. Solicitar a la Unidad de Ejecución el material y útiles necesarios para que las oficinas y las áreas que le están adscritas desempeñen adecuadamente sus funciones.
 
-VIII. Vigilar, en coordinación con la Oficina de Tratamiento Interno, la conservación y limpieza del Centro de Internamiento, así como de los adolescentes, debiendo de cuidar que cuente con las instalaciones adecuadas, servicios sanitarios y médicos que garanticen la salud e integridad física del adolescente.
+VIII. Vigilar en coordinación con la Oficina de Tratamiento Interno, la conservación y limpieza del Centro de Internamiento, así como de los Adolescentes, debiendo cuidar que se cuente con las instalaciones adecuadas, servicios sanitarios y médicos que garanticen la salud e integridad física del Adolescente.
 
-IX. Formular un programa anual de actividades e implementarlo una vez autorizado; rindiendo mensualmente un informe sobre el avance del mismo al Director de la Unidad.
+IX. Formular el programa anual de actividades del Centro de Internamiento a su Cargo, e implementarlo una vez autorizado; rindiendo mensualmente un informe sobre el avance del mismo y de los objetivos cumplidos al Director de la Unidad.
 
 X. Convocar mensualmente al personal de la Oficina de Tratamiento Interno, para evaluar el avance de los programas establecidos.
 
-XI. Informar a la Unidad de Ejecución, sobre los resultados obtenidos en los períodos de tratamiento y asistencia de los adolescentes, acompañando para tal efecto, los estudios, constancias y demás documentos relativos.
+XI. Informar a la Unidad de Ejecución sobre los resultados obtenidos en los periodos de tratamiento y asistencia de los Adolescentes, acompañando para tal efecto los estudios, constancias y demás documentos relativos.
 
-XII. Cumplir las resoluciones dictadas por los Jueces Especializados, girando para ello, las órdenes e instrucciones pertinentes al personal técnico, administrativo y de custodia.
+XII. Cumplir las resoluciones dictadas por el Juez Especializado, girando para ello las órdenes e instrucciones pertinentes al personal técnico, administrativo y de custodia.
 
-XIII. Convocar a las diversas áreas la celebración de sesiones, a fin de actualizar los expedientes de los adolescentes y cumplir las resoluciones decretadas por el Juez Especializado o por la Unidad de Ejecución, para la aplicación progresiva e individualizada del tratamiento.
+XIII. Convocar a las diferentes áreas la celebración de sesiones, a fin de actualizar los expedientes de los Adolescentes y cumplir las resoluciones decretadas por el Juez Especializado o por la Unidad de Ejecución, para la aplicación progresiva e individualizada del tratamiento.
 
-XIV. Proponer a la Unidad de Ejecución, la revisión de las medidas decretadas por el Juez Especializado, cuando por las circunstancias del caso particular se considere conveniente.
+XIV. Proponer a la Unidad de Ejecución la revisión de las medidas decretadas por el Juez Especializado, cuando por las circunstancias del caso particular se considere conveniente.
 
-XV. Gestionar ante las instancias correspondientes, la ampliación de la capacidad de los servicios prestados a los adolescentes.
+XV. Gestionar ante las instancias correspondientes, la ampliación de la capacidad de los servicios prestados a los Adolescentes.
 
 XVI. Establecer sistemas eficientes de comunicación con el personal adscrito a los Centros de Internamiento, así como con los adolescentes.
 
-XVII. Administrar, en caso de contar con presupuesto asignado, los gastos que se realicen en los Centros de Internamiento con motivo de su funcionamiento.
+XVII. Administrar, en caso de contar con presupuesto asignado, los gastos que se realicen en el Centro de Internamiento con motivo de su funcionamiento.
 
-XVIII. Dictar las medidas preventivas y disciplinarias necesarias para guardar el orden general, a fin de cumplir con las finalidades del Centro de Internamiento a su cargo, debiendo de informar de tal medida al Juez Especializado y a la Unidad de Ejecución.
+XVIII. Dictar las medidas preventivas y disciplinarias necesarias para guardar el orden general, a fin de cumplir con las finalidades del Centro de Internamiento, debiendo informar de tal medida al Juez Especializado y la Unidad de Ejecución.
 
-XIX. Informar a los padres, tutores o quien ejerza la patria potestad o custodia del adolescente, sobre el tratamiento a que se encuentre sujeto.
+XIX. Informar a los padres, tutores o quienes ejerzan la patria potestad o custodia del Adolescente, sobre el tratamiento a que éste se encuentre sujeto.
 
-XX. Informar y, en su caso, canalizar a los padres, tutores, o quien ejerza la patria potestad o custodia del adolescente interno, al Defensor Social para que les informe sobre la situación legal en que se encuentra el adolescente.
+XX. Informar y, en su caso, canalizar a los padres, tutores o quienes ejerzan la patria potestad o custodia del Adolescente, al Defensor Social para que sean informados de la situación legal en que se encuentra el Adolescente.
 
-XXI. Informar de forma mensual al Director de la Unidad, respecto a la administración y funcionamiento del Centro de Internamiento correspondiente, así como de los resultados generales obtenidos respecto de los tratamientos aplicados a los adolescentes.
+XXI. Informar de forma mensual al Director de la Unidad, respecto a la administración y funcionamiento del Centro de Internamiento correspondiente, así como de los resultados generales obtenidos de los tratamientos aplicados a los Adolescentes.
 
-XXII. Cuidar del fiel cumplimiento de las disposiciones de la Ley, en lo que a sus funciones corresponda, así como de la observancia del presente Reglamento.
+XXII. Cuidar del fiel cumplimiento de las disposiciones de la Ley, en lo que a sus funciones corresponda, así como de la observancia del presente reglamento.
 
-XXIII. Supervisar y coordinar las actividades y funciones desarrolladas por las Oficinas de Tratamiento Interno, de Seguridad y Control y Administrativa, a fin de lograr la plena reintegración a la Sociedad y a la Familia, de los adolescentes, de acuerdo con el tratamiento definido por el Juez Especializado y ordenado por la Unidad de Ejecución.
+XXIII. Supervisar y coordinar las actividades y funciones desarrolladas por las Oficinas de Tratamiento Interno, de Seguridad y Control y Administrativa, a fin de lograr la plena reintegración a la sociedad y a la familia, de los Adolescentes, de acuerdo con el tratamiento definido por el Juez Especializado y ordenado, mediante el Plan Individual de tratamiento elaborado por la Unidad de Ejecución y debidamente aprobado por el Juez Especializado.
 
-XXIV. Imponer medidas disciplinarias a los adolescentes y otorgarles estímulos, en los términos previstos en el presente Reglamento y otras disposiciones legales.
+XXIV. Imponer medidas disciplinarias a los Adolescentes y otorgarles estímulos, en los términos previstos en el presente reglamento y otras disposiciones legales aplicables.
 
-XXV. Comunicar inmediatamente al Ministerio Público que corresponda, al Juez Especializado y a la Unidad de Ejecución sobre las evasiones de los adolescentes que se susciten en el Centro de Internamiento a su cargo.
+XXV. Comunicar inmediatamente al Ministerio Público que corresponda, al Juez Especializado y a la Unidad de Ejecución sobre las evasiones de los Adolescentes que se susciten en el Centro de Internamiento.
 
-XXVI. Vigilar la conducta y las actividades que realicen los adolescentes dentro del Centro de Internamiento, auxiliándose para tal efecto, de las oficinas: Administrativa, de Seguridad y control y de Tratamiento Interno.
+XXVI. Vigilar la conducta y las actividades que realicen los Adolescentes dentro del Centro de Internamiento, auxiliándose para tal efecto de las oficinas: Administrativa, de Seguridad y Control y de Tratamiento Interno.
 
-XXVII. Fomentar en los adolescentes internos los hábitos de aseo, orden, constancia, ayuda mutua, respeto y consideración hacia los demás, así como impulsar el desarrollo de las habilidades y destreza personal de los mismos.
+XXVII. Fomentar en los Adolescentes los hábitos de aseo, orden, constancia, ayuda mutua, respeto y consideración hacia los demás, así como impulsar el desarrollo de las habilidades y destreza personal de los mismos.
 
 XXVIII. Cumplir los acuerdos y ejecutar las decisiones adoptadas por la Unidad de Ejecución.
 
-XXIX. Mantener y fomentar relaciones de coordinación entre el Centro de Internamiento y los padres, tutores o quien ejerza la patria potestad o custodia de los adolescentes.
+XXIX. Mantener y fomentar las relaciones de coordinación entre el Centro de Internamiento y los padres, tutores o quien ejerza la patria potestad o custodia de los Adolescentes.
 
-XXX. Organizar el trabajo del personal de las oficinas: Administrativa de Seguridad y Control, y Tratamiento Interno, así como el de apoyo adscrito al Centro de internamiento.
+XXX. Organizar el trabajo del personal de las oficinas Administrativa, de Seguridad y Control y de Tratamiento Interno, así como del personal de apoyo adscrito al Centro de Internamiento.
 
-XXXI. Vigilar que se lleve el registro diario de los ingresos y egresos de los adolescentes, con todos los datos relativos a su situación jurídica, e informar sin demora al Juez Especializado y a la Unidad de Ejecución.
+XXXI. Vigilar que se lleve el registro diario de ingresos y egresos de los Adolescentes, con todos los datos relativos a su situación jurídica, e informar sin demora al Juez Especializado y a la Unidad de Ejecución.
 
-XXXII. Vigilar que se integren y mantengan bajo su responsabilidad, los expedientes individuales de los adolescentes, con su respectivo estudio psicosocial, debiéndose de foliar y glosar diariamente los documentos que deban ingresar en ellos.
+XXXII. Vigilar que se integren y mantengan bajo su responsabilidad, los expedientes individuales de los Adolescentes, con su respectivo estudio Biopsicosocial, debiéndose glosar y foliar diariamente los documentos que se deban ingresar en ellos.
 
-XXXIII. Vigilar el estricto control de archivo de los expedientes individuales de los adolescentes internos en el Centro de Internamiento.
+XXXIII. Vigilar el estricto control del archivo de los expedientes individuales de los Adolescentes.
 
-XXXIV. Vigilar el estricto cumplimiento respecto a la separación de hombres y mujeres adolescentes internos en los Centros de Internamiento.
+XXXIV. Vigilar el estricto cumplimiento de la separación de los Adolescentes atendiendo a su género.
 
-XXXV. Vigilar que en los Centros de Internamiento se encuentren internos exclusivamente los adolescentes que tengan catorce años cumplidos, hasta los dieciocho años incumplidos y únicamente cuando se trate de la conducta ilícita prevista como grave en la Ley.
+XXXV. Vigilar que en los Centros de Internamiento a su cargo se encuentren internos exclusivamente Adolescentes, cuya edad sea entre catorce años cumplidos hasta los dieciocho años incumplidos, con excepción de aquellos Adolescentes a los que el Juez Especializad, (sic) haya ordenado cumplir el tratamiento interno conforme al tiempo impuesto en las sanciones, aunque hayan cumplido dieciocho años y únicamente cuando se trate de la conducta ilícita prevista como grave en la Ley.
 
-XXXVI. Informar de forma trimestral al Juez Especializado sobre la situación del adolescente sancionado y el desarrollo del plan individual de ejecución, debiendo de contener los requisitos exigidos en la Ley.
+XXXVI. Informar de forma trimestral al Juez Especializado y a la Unidad de Ejecución, sobre la situación del Adolescente sancionado y el desarrollo del plan individual de ejecución, debiendo contener los requisitos exigidos en la Ley, glosando documentación que compruebe el avance u obstáculo en el desarrollo del tratamiento.
 
-XXXVII. Informar de manera inmediata a la Unidad de Ejecución respecto a los permisos ordinarios y extraordinarios que otorgue a los adolescentes internos en el Centro de Internamiento.
+XXXVII. Informar de manera inmediata a la Unidad de Ejecución respecto a los permisos ordinarios y extraordinarios que otorgue el Director del Centro a los Adolescentes.
 
-XXXVIII. Vigilar que las y los adolescentes en internamiento preventivo, se encuentren separados de los adolescentes que se encuentren cumpliendo medida de internamiento.
+XXXVIII. Vigilar que los Adolescentes que se encuentran en internamiento preventivo, se encuentren separados de los Adolescentes que se encuentren cumpliendo una medida de internamiento.
 
-XXXIX. Establecer el calendario de actividades de los adolescentes y personal del Centro de Internamiento correspondiente, el cual deberá ser publicado semanalmente.
+XXXIX. Establecer el calendario de actividades de los Adolescentes y del personal adscrito al Centro de Internamiento, el cual deberá ser publicado semanalmente.
 
-XL. Promover cursos de capacitación al personal del Centro de Internamiento.
+XL. Promover la impartición de cursos de capacitación al personal adscrito al Centro de Internamiento.
 
-XLI. Las demás que les asigne este Reglamento y otras disposiciones jurídicas aplicables.
+XLI. Solicitar al Juez Especializado el traslado a otro Centro de Internamiento del Adolescente que por su comportamiento, se determine que altera el orden o ponen en riesgo la integridad física de otros Adolescentes y/o del personal administrativo.
+
+XLII. Vigilar el respeto a los Derechos Humanos de los Adolescentes que se encuentren en los Centros de Internamiento, mismos que se encuentran establecidos en la Constitución Política de los Estados Unidos Mexicanos y en los Tratados Internacionales.
+
+XLIII. Implementar acciones encaminadas a prevenir y erradicar cualquier tipo de discriminación que esté motivada por el origen étnico, nacional o regional, el género, la edad, las discapacidades, la condición social, o económica, las condiciones de salud, las opiniones, las preferencias sexuales, el estado civil, el trabajo desempeñado, las costumbres, las ideologías o creencias religiosas, la condición migratoria o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+
+XLIV. Garantizar el derecho de los Adolescentes a la protección de la ley contra injerencias arbitrarias o ilegales en su vida privada, así como de ataques ilegales a su honra y reputación.
+
+XLV. Vigilar que el personal que se encuentra adscrito al Centro de Internamiento, evite el abuso de poder y se abstenga de inferir tratos inhumanos crueles y/o degradantes en contra de los Adolescentes.
+
+XLVI. Garantizar que los Adolescentes reciban los cuidados, la protección y toda la asistencia necesaria que puedan requerir debido a su edad, sexo y personalidad, y en interés de su sano desarrollo.
+
+XLVII. Las demás que les asigne el presente Reglamento, las que sean encomendadas por la Unidad de Ejecución, por su superior jerárquico y las demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 11.
 
-El Director del Centro deberá de informar inmediatamente y sin demora a la Unidad de Ejecución, en el momento en que un adolescente ingrese al Centro de Internamiento, mencionando en dicho informe la situación jurídica del mismo.
+El Director del Centro deberá vigilar que se lleve a cabo el registro diario de los ingresos y egresos de los Adolescentes, con todos los datos y requisitos relativos a su situación jurídica, e informar de inmediato a la Unidad de Ejecución. Así también deberán integrar la base de datos relacionados con los Adolescentes sujetos a Internamiento procesal o definitivo en el cual consten, sus datos generales, huellas dactilares, conducta cometida, medida aplicable, tiempo, beneficios y fotografía.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 12.
 
-Inmediatamente al ingreso del adolescente, el Director del Centro o la persona autorizada para tal efecto, informará al mismo sobre el objeto de su estancia, de la forma en que operan los Centros de Internamiento y de las reglas que deberán acatar durante su permanencia en los mismos.
+El Director del Centro o la persona que éste designe, informará de manera inmediata a los Adolescentes de nuevo ingreso el motivo de su estancia, de la forma en que operan los Centros de Internamiento y de las reglas que deberán acatar durante su permanencia en el mismo.
+
+La información a que se refiere el párrafo anterior, deberá ser proporcionada de manera escrita y se apegará a los siguientes requisitos:
+
+I. Que sea de manera clara y sencilla.
+
+II. Que contenga de manera detallada cuales son los derechos y obligaciones de los Adolescentes en los Centros de Internamiento.
+
+III. Que enuncie la totalidad de las reglas de convivencia y disciplina al interior de los Centros de internamiento.
+
+Para el caso de que el Adolescente de nuevo ingreso no sepa leer se le proporcionará toda esta información de forma oral; de lo anterior se deberá dejar constancia por escrito, glosándola al expediente del Adolescente.
 
 ### Capítulo IV. De la Oficina Administrativa
 
@@ -239,11 +287,15 @@ IX. Llevar a cabo el control de presupuesto asignado al Centro de Internamiento 
 
 X. Las demás que le señale el Director del Centro y otras disposiciones normativas aplicables.
 
-### Capítulo V. De la Oficina de Control Interno
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE NOVIEMBRE DE 2014)</small>
+
+### Capítulo V. De la Oficina de Tratamiento Interno
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 14.
 
-Al frente de la oficina de Tratamiento Interno, habrá un jefe de Oficina, que deberá ser un profesionista con licenciatura en el área de ciencias sociales y humanidades, poseer título oficial de la misma, quien tendrá las obligaciones siguientes:
+Al frente de la oficina de Tratamiento Interno, habrá un Jefe de Oficina, quien deberá ser un profesionista especialista en la materia, debiendo poseer carta de pasante o título profesional, que lo acredite y tendrá las obligaciones siguientes:
 
 I. Realizar el expediente integral e individual de los adolescentes en el centro de Internamiento, debiendo de verificar que la Información proporcionada por las áreas a su cargo, sean fidedignas;
 
@@ -257,9 +309,13 @@ V. Establecer mecanismos para la convivencia de las y los adolescentes madres o 
 
 VI. Vigilar que a los y las adolescentes en los Centros de internamiento, reciban la atención médica adecuada, tanto preventiva como correctiva, debiendo de coordinarse con las instituciones públicas o privadas para la realización de las brigadas médicas, odontológicas, y oftalmológicas y de salud mental que se requieran;
 
-VII. Suministrar a los y las adolescentes desde el momento de su ingreso al Centro de internamiento, la información escrita de forma clara y sencilla, tanto de sus derechos y deberes, como las reglas de convivencia y disciplina del Centro de internamiento, en los casos en que el o la adolescente no sepa leer, deberá de proporcionarse la información de forma oral, así como de igual forma vigilar que se realicen las entrevistas con los especialistas para efecto de realizar el estudio que corresponda conforme a la Ley;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2014)</small>
 
-VIII. Vigilar que a través de las áreas de psicología, trabajo social, pedagogía a su cargo, se prepare al o a la adolescente para su salida, debiendo de informar a este, respecto de las opciones educativas o de trabajo a las que puede ingresar en libertad;
+VII. Vigilar que las entrevistas que realizan entre los Adolescentes y los especialistas que se encuentran adscritos a los Centros de Internamiento se realicen con apego a derecho y salvaguardando los Derechos Humanos y las Garantías Individuales, evitando cualquier tipo de discriminación que esté motivada por el origen étnico, nacional o regional, el género la edad, las discapacidades, la condición social, o económica, las condiciones de salud, las opiniones, las preferencias sexuales, el estado civil, el trabajo desempeñado, las costumbres, la raza, el color, las ideologías o creencias religiosas, la condición migratoria o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de los Adolescentes.
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2014)</small>
+
+VIII. Vigilar que a través de las áreas a su cargo, se prepare al Adolescente para su salida, debiendo de informar a este, respecto de las opciones educativas o de trabajo a las que puede ingresar en libertad.
 
 IX. .Verificar que las y los adolescentes reciban la educación básica obligatoria correspondiente de acuerdo a los programas de la Secretaria de Educación;
 
@@ -269,7 +325,9 @@ XI. Vigilar que las y los adolescentes en internamiento preventivo, se encuentre
 
 XII. Vigilar que en todo momento se respete los derechos de las y los adolescentes en los Centros de Internamiento y en caso contrario deberá de informar de inmediato y sin demora al Director del Centro y a la Unidad de Ejecución de Medidas;
 
-XIII. Llevar un control estadístico de los ingresos de los adolescentes al Centro de Internamiento;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2014)</small>
+
+XIII. Llevar un control estadístico de los ingresos y egresos de los Adolescentes al Centro de Internamiento.
 
 XIV. Verificar que se lleve a cabo el libro de registro, debiendo de observar que se encuentre debidamente foliado, sellado y autorizado por el Director del Centro, cumpliendo estrictamente con lo que señala la Ley e informar a la Unidad de Ejecución;
 
@@ -277,7 +335,229 @@ XV. Proporcionar la información respecto a los adolescentes internos en el Cent
 
 XVI. Informar al Director del Centro de las discapacidades físicas o adicción a sustancias toxicas o enervantes que adquiriera las o los adolescentes que produzcan dependencia, para que se informe de inmediato al Juez Especializado;
 
-XVII. Las demás que les asigne este Reglamento y otras disposiciones jurídicas aplicables.
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2014)</small>
+
+XVII. Coordinar a las áreas de Trabajo Social, Pedagogía, Psicológica, Medicina, Talleres y Deportiva.
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2014)</small>
+
+XVIII. Emitir el estudio Biopsicosocial del Adolescente correspondiente y remitirlos a los Jueces Especializados.
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2014)</small>
+
+XIX. Proporcionar el tratamiento y emitir el informe completo de manera trimestral, del desarrollo del tratamiento interno impuesto a los Adolescentes, partiendo del Plan Individual de Tratamiento, realizado por la Unidad de Ejecución, debidamente aprobado por los Jueces Especializados, debiendo anexar a éstos los informes y constancias de participación en las diferentes actividades y documentación que avale el cumplimiento del plan reseñado.
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2014)</small>
+
+XX. Las demás que le asigne el presente reglamento y las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 14 Bis.
+
+Para el adecuado funcionamiento de los Centros de Internamiento, la oficina de Tratamiento Interno, contará con las áreas de Psicología, Pedagogía, Trabajo Social, Médica, Deportiva y de Talleres.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 14 Ter.
+
+Son obligaciones del Área de Psicología:
+
+I. Realizar a los Adolescentes, en su área de conocimiento, el Estudio Biopsicosocial en coordinación con el Jefe de la Oficina de Tratamiento Interno que incluirá un estudio completo de personalidad, tomando en cuenta los aspectos de los niveles de influencia y receptividad del mundo circundante en la formación de su comportamiento; dictaminará sobre la posibilidad y presencia de patologías psíquicas, en éste caso sugerirá remitir al Adolescente para un estudio psiquiátrico, sugerirá además el tratamiento, procurando establecer objetivos evaluables por el Juez Especializado y remitirlo a los Jueces Especializados.
+
+II. Ejecutar el Plan Individual de Ejecución, elaborado por la Unidad de Ejecución, debidamente aprobados por los Jueces Especializados.
+
+III. Realizar las gestiones pertinentes para la implementación de diferentes talleres de educación sexual, escuela para padres, lectura, prevención y tratamiento de las adicciones y todas aquellas actividades necesarias a fin de complementar la reinserción del Adolescente a la sociedad y su familia.
+
+IV. Proporcionar terapia individual y grupal a los Adolescentes, según sea el caso, por lo menos una vez por semana.
+
+V. Brindar el tratamiento psicológico necesario para que el Adolescente y su familia modifiquen los elementos negativos existentes en la estructura familiar y en los aspectos de personalidad del Adolescente.
+
+VI. Llevar a cabo las entrevistas con los padres, tutores o cuidadores de los Adolescentes, para recabar toda la información necesaria sobre el medio familiar y social en el cual el menor se desenvuelve, a fin de obtener una visión integral del Adolescente.
+
+VII. Participar en las reuniones de trabajo a que convoque el Director del Centro.
+
+VIII. Elaborar e integrar trimestralmente, en el expediente de los Adolescentes, los informes de desarrollo, avance y seguimiento de las medidas de tratamiento.
+
+IX. Atender las solicitudes de apoyo del Director del Centro para la puesta en marcha de actividades y programas encaminados a conservar la convivencia armónica entre los Adolescentes para el buen funcionamiento en general del Centro de Internamiento.
+
+X. Rendir al Director del Centro, en coordinación con el Jefe de Oficina de Tratamiento interno, un informe trimestral, sobre la evolución del tratamiento psicológico impuesto por la Unidad de Ejecución, de cada uno de los Adolescentes; debiendo glosar pruebas que se consideren pertinentes para acreditar la evolución del tratamiento.
+
+XI. Comparecer a audiencias de revisiones del tratamiento, ante el Juez Especializado, cuando sean requeridos para ello.
+
+XII. Las demás que le otorgue el presente reglamento y la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 14 Quáter.
+
+Son obligaciones del Área de Pedagogía:
+
+I. Realizar a los Adolescentes, en su área de conocimiento, el Estudio Biopsicosocial en coordinación con el Jefe de la Oficina de Tratamiento Interno que incluirá las necesidades, posibilidades y requerimientos educativos del Adolescente, a fin de valorar su capacidad intelectual e incorporar sus preferencias vocacionales, sugiriendo un programa concreto que contenga objetivos evaluables por el Juez Especializado, para remitirlo a éstos y a la Unidad de Ejecución.
+
+II. Aplicar el Plan Individual de Ejecución elaborado por la Unidad de Ejecución, debidamente aprobados por el Juez Especializado.
+
+III. Brindar la instrucción escolar necesaria que fomente en los Adolescentes hábitos de estudio, la superación personal y su adecuación a las normas de convivencia social.
+
+IV. Organizar actividades culturales, recreativas y deportivas como complemento a la formación integral de los Adolescentes.
+
+V. Organizar e implementar programas de orientación vocacional y de formación cívica para los Adolescentes.
+
+VI. Tramitar la acreditación y certificación ante las autoridades educativas correspondientes, respecto a la conclusión de los estudios que realicen los Adolescentes dentro del Centro de Internamiento.
+
+VII. Organizar el funcionamiento del servicio de biblioteca dentro del Centro de Internamiento.
+
+VIII. Participar en las reuniones de trabajo que convoque el Director del Centro.
+
+IX. Elaborar e integrar trimestralmente, en el expediente de los Adolescentes, los informes de desarrollo, avance y seguimiento de las medidas de tratamiento.
+
+X. Atender las solicitudes de apoyo del Director del Centro para la implementación de actividades y programas encaminados a conservar la convivencia armónica entre los Adolescentes y el buen funcionamiento del Centro de Internamiento.
+
+XI. Rendir al Director del Centro un informe trimestral, sobre la evolución del aprovechamiento académico de cada uno de los Adolescentes; debiendo glosar la documentación respectiva que acredite el avance u obstáculo en su evolución educativa.
+
+XII. Hacer entrega a los familiares de documentos originales educativos al momento de egresar el Adolescente, con la finalidad de proseguir con sus estudios.
+
+XIII. Comparecer a audiencias de revisiones del tratamiento, ante el Juez Especializado, cuando sean requeridos para ello.
+
+XIV. Las demás que le otorgue el presente reglamento y la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 14 Quinquies.
+
+Son obligaciones del Área de Trabajo Social:
+
+I. Realizar a los Adolescentes, en su área de conocimiento, el estudio Biopsicosocial en coordinación con el Jefe de la Oficina de Tratamiento Interno, en el medio social en donde el Adolescente habitualmente se desenvuelve, incluyendo la presencia o ausencia del entorno familiar, escolar y laboral que en su caso hubiesen influido en su conducta ilícita, procurando establecer objetivos evaluables por el Juez Especializado y remitirlo a éstos.
+
+II. Aplicar el Plan Individual de Ejecución elaborado por la Unidad de Ejecución, debidamente aprobados por el Juez Especializado.
+
+III. Brindar a los Adolescentes y a sus familiares, en el área de conocimiento, la orientación necesaria para alcanzar la reintegración social y familiar.
+
+IV. Atender que los Adolescentes sean dotados de artículos necesarios para su instrucción formal y para el desarrollo de las actividades formativas y recreativas que se organicen en el Centro de Internamiento.
+
+V. Atender que a los Adolescentes se les proporciones (sic) ropa de uso personal y de cama, así como de enseres de limpieza y personal.
+
+VI. Reportar al servicio médico, cualquier alteración en el estado de salud física o mental de los Adolescentes.
+
+VII. Impedir que se ejerza coacción física, mental o moral, así como cualquier tipo de discriminación hacia los Adolescentes.
+
+VIII. Vigilar que a los Adolescentes se les proporcionen tres comidas diarias.
+
+IX. Recabar y organizar la documentación necesaria para otorgar la autorización de visita y la expedición de las credenciales para los visitantes.
+
+X. Apoyar el trámite de servicios Institucionales que requieran los Adolescentes.
+
+XI. Apoyar al personal de aduana en el control de entrada y salida de los familiares de los Adolescentes durante la visita.
+
+XII. Elaborar e integrar trimestralmente, en el expediente de los Adolescentes, los informes de desarrollo, avance y seguimiento de las medidas de tratamiento; debiendo glosar documentación sobre la participación de familiares en el tratamiento para acreditar el avance u obstáculos en el tratamiento.
+
+XIII. Realizar la Orientación Individual y Grupal para canalizar las emociones de los Adolescentes y sus crisis emocionales.
+
+XIV. Informar a los padres de familia de los Adolescentes sobre sus necesidades y requerimientos durante su estancia en el Centro de Internamiento.
+
+XV. Realizar las anotaciones pertinentes sobre la participación del Adolescente en el tratamiento impuesto.
+
+XVI. Involucrar a la Familia del Adolescente en su Tratamiento Integral mediante la implantación de la escuela para padres.
+
+XVII. Otorgar atención diaria personalizada a los Adolescentes a fin de conocer sus inquietudes, necesidades o requerimientos.
+
+XVIII. Realizar, si es necesario, las visitas domiciliarias al lugar de residencia del Adolescente, a fin de obtener datos sociológicos, y en su caso realizar las entrevistas con sus familiares a fin de determinar el medio ambiente en que se desenvuelve el Adolescente: social, escolar y familiar.
+
+XIX. Realizar el estudio socio económico solicitado por los familiares del Adolescente.
+
+XX. Realizar, atendiendo a los casos específicos de cada Adolescentes (sic) la canalización correspondiente a las diferentes áreas del Centro de Internamiento.
+
+XXI. Realizar las canalizaciones al servicio externo que requiera el Adolescente, ya sean médicas, psiquiátricas, psicológicas o las pertinentes para su sano desarrollo.
+
+XXII. Rendir al Director del Centro, un informe mensual y un informe trimestral, sobre la evolución del Tratamiento Integral de cada uno de los Adolescentes.
+
+XXIII. Coordinar los servicios religiosos otorgados a los Adolescentes.
+
+XXIV. Comparecer a audiencias de revisiones del tratamiento, ante el Juez Especializado, cuando sean requeridos para ello.
+
+XXV. Las demás que le otorgue el presente reglamento y la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 14 Sexies.
+
+Son obligaciones del Área Médica:
+
+I. Realizar a los Adolescentes, en su área de conocimiento, el Estudio Biopsicosocial en coordinación con el Jefe de la Oficina de Tratamiento Interno y remitirlo al Juez Especializado.
+
+II. Aplicar el Plan Individual de Ejecución elaborado por la Unidad de Ejecución, debidamente aprobados por el Juez Especializado.
+
+III. Llevar a cabo el examen médico de los Adolescentes para conocer su estado de salud, su integridad física y mental, al ser ingresados o egresados del Centro de Internamiento, iniciando su historial clínico.
+
+IV. Brindar la atención médica y odontológica que requieran los Adolescentes.
+
+V. Tramitar y supervisar en coordinación con el área de Trabajo Social la canalización de los Adolescentes a hospitales del Sector Salud en casos de emergencia o cuando éstos requieran de atención médica especializada.
+
+VI. Vigilar las condiciones de higiene en la preparación de los alimentos que consumen los Adolescentes, de su aseo personal, de las instalaciones en general y ejecutar programas y políticas para la prevención de enfermedades.
+
+VII. Gestionar ante el área correspondiente, se busque la calidad en la selección y preparación de los alimentos que se han de proporcionar a los Adolescentes.
+
+VIII. Efectuar las valoraciones médicas solicitadas y requeridas por las autoridades del Centro de Internamiento.
+
+IX. Participar en las reuniones de trabajo a que convoque el Director del Centro.
+
+X. Elaborar e integrar trimestralmente, en el expediente de los Adolescentes, los informes de desarrollo, avance y seguimiento de las medidas de tratamiento; debiendo glosar la documentación necesaria para comprobar tal efecto.
+
+XI. Rendir al Director del Centro, un informe trimestral sobre el estado de salud, así como la evolución del tratamiento médico impuesto de cada uno de los Adolescentes; a excepción de aquellos casos urgentes en que se deberá informar de manera inmediata.
+
+XII. Comparecer a las audiencias de revisión del tratamiento, ante el Juez Especializado, cuando sean requeridos para ello.
+
+XIII. Las demás que le otorgue el presente reglamento y la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 14 Septies.
+
+Son obligaciones del Área Deportiva:
+
+I. Aplicar el Plan Individual de Ejecución elaborado por la Unidad de Ejecución, debidamente aprobados por el Juez Especializado.
+
+II. Programar un plan deportivo de manera que todos los Adolescentes participen activamente en las diferentes disciplinas deportivas.
+
+III. Implementar torneos deportivos de las diferentes disciplinas con Instituciones educativas externas.
+
+IV. Proporcionar a todos los Adolescentes educación física formal y recreativa adecuada.
+
+V. Participar en las reuniones de trabajo a que convoque el Director del Centro.
+
+VI. Elaborar e integrar trimestralmente, en el expediente de los Adolescentes, los informes de desarrollo, avance y seguimiento de las medidas de tratamiento; debiendo anexar documentación que compruebe la participación del Adolescente en diferentes disciplinas deportivas, para valorar su avance en el tratamiento.
+
+VII. Atender las solicitudes de apoyo de la Dirección para la puesta en marcha de actividades y programas encaminados a conservar la convivencia armónica entre los Adolescentes y el buen funcionamiento del Centro en general.
+
+VIII. Rendir al Director del Centro un informe trimestral, sobre la participación deportiva de cada uno de los Adolescentes.
+
+IX. Comparecer a audiencias de revisiones del tratamiento, ante el Juez Especializado, cuando sean requeridos para ello.
+
+X. Las demás que le otorgue el presente reglamento y la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 14 Octies.
+
+Son obligaciones del Área de Talleres:
+
+I. Desarrollar Programas de formación y capacitación laboral para todos los Adolescentes que le facilite su reinserción en su familia y la sociedad.
+
+II. Asignar a todos los Adolescentes, conforme a sus aptitudes personales, en algún Taller u oficio que otorgue el Centro de Internamiento.
+
+III. Vigilar los procesos de producción de cada Taller.
+
+IV. Participar en las reuniones de trabajo a que convoque el Director del Centro.
+
+V. Elaborar e integrar trimestralmente en el expediente de los Adolescentes, los informes de desarrollo, avance y seguimiento de las medidas de tratamiento; debiendo complementar estos informes con constancias de participación en talleres de trabajo o capacitación que servirán para evaluar la evolución en el tratamiento.
+
+VI. Atender las solicitudes de apoyo del Director del Centro para la puesta en marcha de actividades y programas encaminados a conservar la convivencia armónica entre los Adolescentes y el buen funcionamiento del Centro de Internamiento.
+
+VII. Rendir al Director del Centro, un informe trimestral sobre la participación de los Adolescentes en los diversos Talleres.
+
+VIII. Comparecer a las audiencias de revisiones del tratamiento, ante los Jueces Especializados, cuando sean requeridos para ello.
+
+IX. Las demás que le otorgue el presente reglamento y la legislación aplicable.
 
 ### Capítulo VI. De la Oficina de Seguridad y Control
 
@@ -317,39 +597,35 @@ XV. Impedir que los adolescentes transiten por áreas restringidas y reportar a 
 
 XVI. Abstenerse de influir negativamente sobre los adolescentes;
 
-XVII. Registrar a los adolescentes de nuevo ingreso minuciosamente y en caso de portar valores y objetos personales, deberán ser resguardados por el área de Servicio Social previo registro y recibo;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2014)</small>
+
+XVII. Realizar a los Adolescentes de nuevo ingreso la revisión de sus prendas y objetos personales, respetando en todo momento sus derechos humanos.
+
+Los valores y objetos personales que porten los Adolescentes a su ingreso deberán ser almacenados por el área de Trabajo Social previo registro correspondiente, de los cuales se hará entrega a sus familiares.
 
 XVIII. Verificar la lista de internos presentes y checar si existe alguna indicación o instrucción especial por escrita (sic), emitida por alguna de las oficinas jurídicas, de Tratamiento Interno, a través de sus diversas Áreas de Psicología, Pedagogía, Trabajo Social, Medica del Centro de Internamiento, con la finalidad de conocer las actividades a desarrollar en ese día;
 
 XIX. Registrar, con el debido respeto, a los visitantes, objetos y alimentos que porten, tanto a la entrada del Centro como a la salida del mismo, siempre y cuando esta medida se estime pertinente;
 
-XX. Acatar, atender y cumplir las instrucciones que la Dirección del Centro y su superior jerárquico les indiquen en forma verbal o por escrito;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2014)</small>
+
+XX. Acatar, atender y cumplir las instrucciones que sean indicadas por el Director del Centro, el Director de la Unidad y/o el superior jerárquico, de forma verbal o por escrito.
 
 XXI. Queda prohibido que el personal de vigilancia practique cualquier forma de comercio con los adolescentes;
 
-XXII. Remitir diariamente el parte de novedades al Director del Centro y al Jefe del Departamento Jurídico y de Ejecución de Medidas de la Unidad de Ejecución;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2014)</small>
+
+XXII. Remitir diariamente el parte de novedades al Director del Centro y al Director de la Unidad.
 
 XXIII. Las demás que les confiera el presente Reglamento y otras disposiciones aplicables o les sean encomendadas por su superior jerárquico inmediato.
 
-### Capítulo VII. Del Cuerpo Técnico Interdisciplinario
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE NOVIEMBRE DE 2014)</small>
+
+### Capítulo VII
 
 ###### Artículo 16.
 
-Los Centros de Internamiento contarán con un Cuerpo Técnico para la Integración del Adolescente el cual estará integrado al menos por un licenciado en Pedagogía, otro en Psicología y uno más en Trabajo Social, y tendrán las obligaciones siguientes:
-
-I. Coadyuvar con el Juez Especializado, estando presentes en la declaración inicial, cuando sea solicitado por éste.
-
-II. Emitir opinión ante el Juez Especializado, evaluando al adolescente, así como los dictámenes correspondientes atendiendo a la rama profesional en que se indique:
-
-a). El dictamen pedagógico, incluirá las necesidades, posibilidades y requerimientos educativos del adolescente, a fin de valorar su capacidad intelectual e incorporar sus preferencias vocacionales sugiriendo un programa concreto que contenga objetivos evaluables por el Juez Especializado.
-
-b). El dictamen psicológico incluirá un estudio completo de personalidad, tomando en cuenta los aspectos de los niveles de influencia y receptividad del mundo circundante en la formación de su comportamiento; dictaminará sobre la posibilidad y presencia de patologías psíquicas, en este caso sugerirá remitir al adolescente para un estudio psiquiátrico, sugerirá además el tratamiento, procurando establecer objetivos evaluables por el Juez Especializado.
-
-c). El dictamen de Trabajo Social se pondrá énfasis en el medio social en donde el adolescente habitualmente se desenvuelve, incluyendo la presencia o ausencia de los entornos familiar, escolar y laboral que en su caso hubiesen influido en su conducta ilícita y de considerarlo procedente, propondrá el o los tratamientos conducentes para modificar a favor del adolescente ese medio, procurando establecer objetivos evaluables por el Juez Especializado; y,
-
-d). Los dictámenes a los que se refieren los incisos anteriores serán entregados al Juez Especializado cuando lo haya solicitado, así como al Director de la Unidad y el responsable del Área Jurídica para la integración del expediente del adolescente sujeto a internamiento procesal o definitivo.
-
-III. Las demás que le señale el presente Reglamento y la superioridad.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
 
 ## Título Tercero. Del Personal que labora en el Centro de Internamiento
 
@@ -431,25 +707,19 @@ XXIII. Incurrir en faltas de probidad u honradez o en actos de violencia, injuri
 
 XXIV. Cometer actos inmorales durante el trabajo.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 19.
 
-Cualquier infracción del personal de los Centros de Internamiento a las obligaciones y prohibiciones a que se refiere él artículo anterior, de este reglamento, la normatividad interna de los Centros de Internamiento, y demás disposiciones aplicables, dará lugar a las sanciones penales o administrativas que correspondan.
+El Director del Centro ante cualquier falta disciplinaria del personal adscrito a los Centros de Internamiento, a las obligaciones y prohibiciones a que se refiere el artículo anterior, aplicará lo conducente conforme a lo que estipula la Ley que Establece las Bases de Operación de la Secretaría de Seguridad y Protección Ciudadana, su Reglamento y demás instrumentos normativos vigentes.
 
 ###### Artículo 20.
 
-El Director del Centro, para la adecuada marcha del Centro de Internamiento, y atendiendo a la gravedad de la falta podrá imponer al personal adscrito a ellos cualquiera de las siguientes sanciones:
-
-I. Amonestación verbal.
-
-II. Amonestación por escrito.
-
-III. Arresto hasta por 36 horas al personal de vigilancia.
-
-IV. Acta Administrativa para solicitar el Cese al Superior Jerárquico.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
 
 ###### Artículo 21.
 
-El Director del Centro para el desempeño y cumplimiento de las disposiciones del presente Reglamento y de la Ley, podrá crear las áreas funcionales que se considere convenientes, previa autorización del Director de la Unidad.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
 
 ## Título Cuarto. De los Adolescentes
 
@@ -473,9 +743,11 @@ Los adolescentes tendrán privacidad en sus entrevistas con sus visitas o defens
 
 Las obligaciones a cargo de los adolescentes, las correcciones disciplinarias o la aplicación de las sanciones por conductas negativas dentro de las instalaciones del Centro de Internamiento, se harán del conocimiento de los adolescentes, de la Unidad de Ejecución y del Juez Especializado, explicándoles en forma clara, sencilla y por escrito que son consecuencia de determinada actitud, acto o actividad.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 26.
 
-El adolescente tendrá derecho a recibir un trato justo, humano y respetuoso, por lo que el personal adscrito al Centro de Internamiento, deberá de abstenerse de utilizar palabras inadecuadas o asumir actitudes que ofendan la dignidad de aquél.
+El Adolescente tiene derecho a recibir, por parte del personal adscrito al Centro de Internamiento, un trato justo y humano, garantizando el respeto a su persona y absteniéndose de realizar cualquier práctica de discriminación ya sea por el origen étnico, nacional o regional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, las opiniones, las preferencias sexuales, el estado civil, el trabajo desempeñado, las costumbres, las ideologías o creencias religiosas, la condición migratoria o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 ###### Artículo 27.
 
@@ -573,11 +845,15 @@ Las medidas disciplinarias impuestas al adolescente, podrán ser recurridas, ant
 
 El adolescente sancionado o el Defensor Social, podrán presentar el recurso por escrito o verbalmente ante el Director del Centro, quien, en el plazo de veinticuatro horas, remitirá dicho escrito o testimonio de la queja verbal, con sus propias alegaciones al Juez Especializado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 37.
 
-Cuando los adolescentes internos cumplan con las normas o lineamentos y observen buen comportamiento durante su internación, se les podrán otorgar los siguientes incentivos:
+Cuando los Adolescentes cumplan con las normas o lineamientos y observen buen comportamiento durante su internación, se les podrán otorgar los siguientes incentivos:
 
-I. Visita familiar;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2014)</small>
+
+I. Visita Familiar o de la persona que el Adolescente designe.
 
 II. Reconocimiento individual;
 
@@ -657,7 +933,11 @@ VII. Los visitantes tienen prohibido realizar actos de comercio dentro del Centr
 
 VIII. En las zonas de acceso a los Centros de Internamiento, habrá letreros visibles y claros en los que se especificarán los requisitos de visita, así como los derechos y obligaciones de visitantes y visitados en el transcurso de la misma. También se anotará en dichos letreros a qué autoridad del propio Centro de Internamiento deberán de acudir para presentar quejas.
 
-### Capítulo lV. De las Visitas Conyugales
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2014)</small>
+
+IX. Debe procurarse en todo momento la salvaguarda de la integridad física y psicológica de las niñas y niños menores de 10 años, el Director del Centro, podrá limitar de manera eventual el ingreso al Centro de Internamiento de dichas visitas.
+
+### Capítulo IV. De las Visitas Conyugales
 
 ###### Artículo 47.
 
@@ -711,9 +991,11 @@ Los prestadores de servicio serán personas que, previo convenio con la instituc
 
 El Jefe de Departamento Jurídico de la Unidad se encargará de revisar el oficio de presentación del prestador de servicio para determinar el área de la Unidad o del Centro de Internamiento en el que se deberá adscribir a este.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 55.
 
-El Jefe del Departamento Jurídico de la Unidad, realizará entrevistas con los adolescentes que hayan concluido su medida de internamiento, con el fin de conocer las actividades que desarrollarán fuera del Centro de Internamiento y, por ese medio, establecer en el ámbito de su competencia, accionas tendientes a evitar la reincidencia.
+El Jefe de la Oficina de tratamiento Interno, realizará entrevistas con los Adolescentes que hayan concluido su medida de internamiento, con el fin de conocer las actividades que desarrollarán fuera del Centro de Internamiento y, por ese medio, establecer en el ámbito de su competencia, acciones tendientes a evitar la reincidencia.
 
 ###### Artículo 56.
 
@@ -732,3 +1014,13 @@ Artículo Cuarto.- En cumplimiento a lo dispuesto por el artículo ocho, de la L
 Dado en el palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los veinte días del mes de marzo del año dos mil nueve.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañon León, Secretario General de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE NOVIEMBRE DE 2014.
+
+Artículo Primero.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- En cumplimiento al artículo 8° de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente decreto en el Periódico Oficial.
