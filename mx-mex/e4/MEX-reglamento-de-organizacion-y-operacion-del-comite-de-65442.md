@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-organizacion-y-operacion-del-comite-de-65442"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-11"
-last_updated: "2008-12-11"
+last_updated: "2014-11-26"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO DE ORGANIZACION Y OPERACION DEL COMITE DE CONTROL Y EVALUACION DE LA SECRETARIA DE DESARROLLO URBANO DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO DE MEXICO
 
-REGLAMENTO DE ORGANIZACION Y OPERACION DEL COMITE DE CONTROL Y EVALUACION DE LA SECRETARIA DE DESARROLLO URBANO DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO DE MEXICO
+REGLAMENTO DE ORGANIZACIÓN Y OPERACIÓN DEL COMITÉ DE CONTROL Y EVALUACIÓN DE LA SECRETARÍA DE DESARROLLO URBANO DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL REGLAMENTO INTERNO DEL COMITÉ DE CONTROL Y EVALUACIÓN DE LA SECRETARÍA DE DESARROLLO URBANO, PUBLICADO EN LA G.G. DE 26 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE NOVIEMBRE DE 2014 (SIN EFECTOS).
 
 Reglamento publicado en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el jueves 11 de diciembre de 2008.
 
@@ -338,3 +340,15 @@ LIC. ALEJANDRO MUNGUIA NAVA
 CONTRALOR INTERNO DE LA SECRETARÍA DE DESARROLLO URBANO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 26 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Reglamento Interior en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se deja sin efectos el Reglamento Interior del COCOE aprobado el 11 de diciembre de 2008.
+
+CUARTO.- Las dudas que se susciten con motivo de la interpretación o aplicación del presente Reglamento, así como lo no previsto en el mismo, será resuelto por la Secretaría de la Contraloría.
