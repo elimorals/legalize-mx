@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-del-estado-de-chihuahua-87300"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-14"
-last_updated: "2014-06-07"
+last_updated: "2014-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2012.
 
@@ -819,6 +819,8 @@ La Secretaría, en coordinación con las instituciones del sector salud, fomenta
 
 ### CAPÍTULO XI. SALUD MENTAL
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 76.
 
 Para los efectos de esta Ley, se entiende como:
@@ -849,7 +851,7 @@ La Secretaría coordinará sus esfuerzos con otras instituciones, con énfasis e
 
 ###### Artículo 78.
 
-La Secretaría, en materia de salud mental, atención terapéutica y atención a trastornos mentales, establecerá un programa con acciones de promoción, prevención, atención y rehabilitación, de conformidad con esta Ley y demás disposiciones aplicables.
+La Secretaría, en materia de salud mental, atención terapéutica, prevención y atención a trastornos mentales, que incluye la conducta que derive en actos tentativos o consumados de suicidio, establecerá un programa con acciones de promoción, prevención, atención y rehabilitación, de conformidad con esta Ley y demás disposiciones aplicables.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -2205,6 +2207,10 @@ Para la promoción de la salud mental, la Secretaría y las instituciones de sal
 
 I.- El desarrollo de actividades educativas, socioculturales y recreativas que contribuyan a la salud mental, preferentemente de la infancia y de la juventud.
 
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2014)</small>
+
+Así mismo, por lo que se refiere específicamente al suicidio, se llevarán a cabo acciones que comprendan la investigación de sus causas, la detección y atención de la depresión oportuna en los centros de salud regional y municipal, divulgando los métodos de prevención en los medios escritos u otros accesibles a cualquier persona, incluyendo los de comunicación electrónica.
+
 II.- La difusión de las orientaciones para la promoción de la salud mental.
 
 III.- La realización de programas para la prevención del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras substancias que puedan causar alteraciones mentales o dependencia, así como la conducta alimenticia.
@@ -3486,6 +3492,12 @@ De conformidad con el Artículo Séptimo, se dispondrán de ciento ochenta días
 El Ejecutivo del Estado realizará las previsiones presupuestales necesarias, para que la Unidad Especializada para la Investigación y Persecución de los Delitos previstos en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, sea elevada a rango de Fiscalía Especializada en el plazo de un año contado a partir de la publicación del presente Decreto, y contará con el mismo término para implementar las acciones necesarias a efecto de dar cabal cumplimiento a las obligaciones previstas en el cuerpo del presente Decreto.
 
 P.O. 7 DE JUNIO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE NOVIEMBRE DE 2014.
 
 ###### ARTÍCULO ÚNICO.
 
