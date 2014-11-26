@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-la-unidad-de-prevision-y-seguridad-social-del-estado-822
 country: "mx"
 rank: "ley"
 publication_date: "1987-01-28"
-last_updated: "2006-09-06"
+last_updated: "2014-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8229&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY DE LA UNIDAD DE PREVISION Y SEGURIDAD SOCIAL DEL ESTADO DE TAMAULIPAS
 
-LEY DE LA UNIDAD DE PREVISION Y SEGURIDAD SOCIAL DEL ESTADO DE TAMAULIPAS
+LEY DE LA UNIDAD DE PREVISIÓN Y SEGURIDAD SOCIAL DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DE LA LEY DEL INSTITUTO DE PREVISIÓN Y SEGURIDAD SOCIAL DEL ESTADO DE TAMAULIPAS PUBLICADA EN EL P.O. DE 26 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EN LOS TÉRMINOS QUE ESTABLECE DICHO ARTÍCULO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 28 de enero de 1987.
 
@@ -149,7 +151,7 @@ VII.- Por familiares derecho-habientes, a:
 
 a).- La esposa, a falta de ésta, la mujer con quien el trabajador o pensionista viva o haya vivido por más de cinco años o con la que tuviese hijos, siempre que ambos permanezcan libres de matrimonio;
 
-b).- Los hijos del servidor público menores de l8 años, con excepción de los emancipados, de ambos o de uno de los cónyuges;
+b).- Los hijos del servidor público menores de 18 años, con excepción de los emancipados, de ambos o de uno de los cónyuges;
 
 c).- Los hijos solteros del servidor público mayores de 18 años y menores de 25 que se encuentren realizando estudios de nivel medio o superior;
 
@@ -307,7 +309,7 @@ Los representantes del Sindicato Unico de los Trabajadores al Servicio de los Po
 
 Los titulares de las dependencias del Gobierno del Estado que integran el Consejo, designarán y removerán libremente a sus respectivos suplentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 25.
 
@@ -535,7 +537,7 @@ Toda fracción de más de seis meses de contribuir a la UPYSSET, se considerará
 
 Cuando el servidor público haya cumplido 55 años de edad, habiendo prestado servicios durante 15 años por lo menos, y contribuído a la UPYSSET por el mismo período, la pensión se calculará aplicando la tabla siguiente al sueldo regulador:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 ###### ARTICULO 51.
 
@@ -547,7 +549,7 @@ Asimismo, para calcular las cantidades que corresponden por pensión se tomará 
 
 El derecho al pago de la pensión de retiro y tiempo de servicios comenzará a partir del día siguiente a aquel en que el servidor público hubiese percibido el último sueldo por haber causado baja.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 53.
 
@@ -563,13 +565,13 @@ PENSION DE CESANTIA POR EDAD AVANZADA.
 
 La pensión de cesantía por edad avanzada se otorgará al servidor público que se separe voluntariamente del servicio o que quede privado de trabajo remunerado después de los 60 años de edad y haya cotizado por un mínimo de 10 años a la UPYSSET.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 55.
 
 La pensión mencionada en el Artículo anterior, se calculará aplicando al sueldo regulador, a que se refiere el Artículo 44 de esta Ley, los porcentajes que se especifican en la siguiente tabla:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 El otorgamiento de la pensión de cesantía por edad avanzada se determinará de acuerdo a la tabla anterior, incrementándose anualmente, conforme a los porcentajes fijados hasta los 65 años, a partir de los cuales disfrutarán del 50% fijado.
 
@@ -639,7 +641,7 @@ I.- Licencia con goce de sueldo íntegro cuando el riesgo profesional incapacite
 
 Para los efectos de la determinación de la incapacidad producida por riesgo profesional, se estará a lo dispuesto por la Ley Federal del Trabajo por lo que respecta a los exámenes trimestrales a que deberá someterse el servidor público y en la inteligencia de que si a los tres meses de iniciada dicha incapacidad no esté en aptitud de volver al trabajo, él mismo o entidad pública podrán solicitar en vista de los certificados médicos correspondientes, que sea declarada la incapacidad permanente. No excederá de un año, contado a partir de la fecha en que la UPYSSET tenga conocimiento del riesgo para que se determine si el servidor público está apto para volver al servicio o bien procede declarar su incapacidad permanente, en cuyo caso se estará a lo dispuesto en las fracciones siguientes;
 
-II.- Al ser declarada una incapacidad parcial permanente, se concederá al incapacitado una pensión calculada conforme a la tabla de evaluación de incapacidades de la Ley Federal del Trabajo, atendiendo el sueldo básico que percibía el servidor público al ocurrir el riesgo y los aumentos posteriores que correspondan al empleo que desempeñaba hasta determinarse la pensión. El tanto por ciento de la incapacidad se fijará entre el máximo y el mínimo establecido en la tabla de evaluación mencionada, teniendo en cuenta la edad del servidor público y la importancia de la incapacidad, según que sea absoluta pera el ejercicio de su profesión u oficio aun cuando quede habilitado para dedicarse a otros, o si solamente hubiere disminuido la aptitud para su desempeño.
+II.- Al ser declarada una incapacidad parcial permanente, se concederá al incapacitado una pensión calculada conforme a la tabla de evaluación de incapacidades de la Ley Federal del Trabajo, atendiendo el sueldo básico que percibía el servidor público al ocurrir el riesgo y los aumentos posteriores que correspondan al empleo que desempeñaba hasta determinarse la pensión. El tanto por ciento de la incapacidad se fijará entre el máximo y el mínimo establecido en la tabla de evaluación mencionada, teniendo en cuenta la edad del servidor público y la importancia de la incapacidad, según que sea absoluta para el ejercicio de su profesión u oficio aun cuando quede habilitado para dedicarse a otros, o si solamente hubiere disminuido la aptitud para su desempeño.
 
 Si el monto de la pensión anual resulta inferior a 5% del salario mínimo general promedio en el Estado de Tamaulipas elevada al año, se pagará al servidor público, en substitución de la misma, una indemnización equivalente a 5 anualidades de la pensión que la hubiere correspondido;
 
@@ -719,7 +721,7 @@ El orden para gozar de las pensiones a que se refiere el artículo anterior ser�
 
 I.- La cónyuge supérstite e hijos menores de 18 años, con excepción de los emancipados, o los que no lo sean pero estén incapacitados o imposibilitados para trabajar; o bien hasta los 25 años previa comprobación de que están realizando estudios de nivel medio superior;
 
-II.- A falta de la cónyuge, la concubina, siempre que hubiese tenido hijos con elle el servidor público o pensionado, o vivido en su compañía durante los cinco años que precedieron a su muerte y ambos hayan estado libres de matrimonio;
+II.- A falta de la cónyuge, la concubina, siempre que hubiese tenido hijos con ella el servidor público o pensionado, o vivido en su compañía durante los cinco años que precedieron a su muerte y ambos hayan estado libres de matrimonio;
 
 III.- El cónyuge supérstite o concubinario, que a la muerte de su cónyuge o concubina en servicio o pensionada, fuese mayor de 55 años, esté incapacitado para trabajar y hubiere dependido económicamente de ella;
 
@@ -785,11 +787,11 @@ Si el servidor público separado del servicio reingresare y quisiera que el tiem
 
 Si falleciera antes de ejercer derechos o de solventar el adeudo, sus beneficiarios podrán optar el pago de la indemnización que le hubiere correspondido al servidor público en los términos del Artículo 50, o bien por cubrir íntegramente el saldo adeudado, más los intereses equivalentes al 75% de la tasa líder del mercado, para disfrutar de la pensión, en los casos que ésta proceda.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE JUNIO DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JUNIO DE 1994)</small>
 
 ### CAPITULO V. DE LOS PRESTAMOS A CORTO PLAZO Y ESPECIALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 1994)</small>
 
 ###### ARTICULO 84.
 
@@ -807,7 +809,7 @@ III.- El monto del préstamo se regirá por las siguientes bases:
 
 a).- Se calculará considerando como préstamo máximo la cantidad en veces al salario mínimo base de los trabajadores del Gobierno del Estado, a que se refiere la siguiente tabla, cerrada a cientos de miles de pesos:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
 
@@ -855,7 +857,7 @@ Los adeudos por concepto de préstamos a corto plazo y especiales que no fuesen 
 
 El interés moratorio comenzará a gravar el adeudo al mes siguiente a la falta de abono y será equivalente a 1.3 veces de la tasa líder del mercado vigente a la fecha.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE JUNIO DE 1994)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE JUNIO DE 1994)</small>
 
 ### CAPITULO VI
 
@@ -927,7 +929,7 @@ Las amortizaciones de los créditos hipotecarios, se calcularán por un porcenta
 
 El monto del crédito hipotecario se dividirá entre el salario mínimo quincenal, y el resultado se multiplicará por el factor de la Tabla siguiente, dependiendo del plazo de amortización del crédito.
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 El resultado de la anterior operación, representa el porcentaje que el trabajador deberá aportar quincenalmente como amortización al crédito hipotecario, en función al salario mínimo general quincenal vigente en las fechas de amortización.
 
@@ -939,7 +941,7 @@ En caso de separación definitiva de un servidor público, deudor de un crédito
 
 ### CAPITULO IX. VENTA DE HABITACIONES ECONOMICAS PERTENECIENTES A LA UPYSSET
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 102.
 
@@ -999,7 +1001,7 @@ Los servicios médicos referentes a la pensión por riesgos profesionales para l
 
 ### CAPITULO XI. DE LAS PRESTACIONES ESPECIALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 112.
 
@@ -1039,7 +1041,7 @@ Si llegare a ocurrir en cualquier tiempo que los recursos de la UPYSSET no basta
 
 Corresponde al Tribunal de Arbitraje para los Trabajadores al Servicio del Estado el conocimiento y resolución de las controversias que se susciten con motivo de la aplicación de esta Ley.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 ### CAPITULO XV. DE LAS RESERVAS TECNICAS
 
@@ -1067,7 +1069,7 @@ V. Las reservas solamente podrán ser utilizadas cuando los ingresos de la UPYSS
 
 VI.- Las reservas creadas por la UPYSSET para hacer frente a sus obligaciones futuras, podrán destinarse al otrogamiento de créditos en los términos de esta Ley. El monto global que podrá destinarse a créditos deberá ser determinado actuarialmente de tal manera que no se ponga en riesgo el pago de futuras pensiones.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 ### CAPITULO XVI. DE LAS SANCIONES
 
@@ -1153,7 +1155,7 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, capital del Estado de Tamaulipas, a los diecisiete días del mes de diciembre de mil novecientos ochenta y seis.- El Gobernador Constitucional del Estado, DR. EMILIO MARTINEZ MANAUTOU.- El Secretario General de Gobierno, LIC. ROBERTO PERALES MELENDEZ.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 30 DE DICIEMBRE DE 1992
 
@@ -1172,3 +1174,187 @@ P.O. 6 DE SEPTIEMBRE DE 2006.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley se publicará en el Periódico Oficial del Estado y entrará en vigor el 1 de enero de 2015, abrogándose la Ley de la Unidad de Previsión y Seguridad Social del Estado de Tamaulipas, salvo para lo previsto en los artículos cuarto al décimo séptimo transitorios de este ordenamiento.
+
+###### ARTÍCULO SEGUNDO.
+
+1. Se mantendrán en vigor todas las disposiciones reglamentarias y administrativas que no se opongan a la presente Ley, hasta en tanto se expidan las normas relativas a este ordenamiento por parte del Instituto.
+
+2. Los convenios suscritos por el representante legal de la Unidad de Previsión y Seguridad Social del Estado de Tamaulipas (UPYSSET) con fecha anterior a la entrada en vigor de la presente Ley, serán reconocidos por el Instituto en los mismos términos, salvo aquellas disposiciones que contravengan este ordenamiento.
+
+###### ARTÍCULO TERCERO.
+
+1. Todos los bienes, derechos, títulos de crédito, posesiones, propiedades y obligaciones u otros similares con los que contó el otro Departamento de Previsión Social y de Pensiones para los Funcionarios y Trabajadores de Base al Servicio del Gobierno del Estado y Personal Federalizado de la Educación, y con que cuente la Unidad de Previsión y Seguridad Social del Estado de Tamaulipas, al entrar en vigor la presente Ley, pasarán a formar parte del Instituto de Previsión y Seguridad Social del Estado de Tamaulipas.
+
+2. El 75% del saldo del Fondo de Garantía con que cuenta la UPYSSET al momento en que entre en vigor la presente Ley, pasará a formar parte de la Reserva de cuentas incobrables del Instituto, y el 25% restante se destinará al Fondo de Operación para actividades del propio Instituto.
+
+3. El Gobierno del Estado de Tamaulipas con recursos propios, podrá acordar con el Instituto la construcción de edificios que sean destinados a la administración y otorgamiento de la Seguridad Social.
+
+###### ARTÍCULO CUARTO.
+
+1. Los servidores públicos o trabajadores de la generación en transición, estarán sujetos a los artículos transitorios del cuarto al décimo séptimo de la presente ley y serán los siguientes:
+
+I.- Los servidores públicos o trabajadores que se encuentren activos en una Entidad Pública y que estén aportando al fondo de pensiones, antes de la entrada en vigor de la presente Ley; y
+
+II.- Aquellos servidores públicos o trabajadores que hubieren causado baja en cualquier Entidad Pública dentro de los cuatro años anteriores a la entrada en vigor de la presente ley y que cuenten con cuotas y aportaciones vigentes en el Fondo de Pensiones.
+
+2. Además de lo anterior, se aplicarán en lo conducente, los artículos del presente ordenamiento.
+
+###### ARTÍCULO QUINTO.
+
+1. A los servidores públicos o trabajadores de la generación en transición, se les aplicarán las siguientes modalidades:
+
+I.- El servidor público o trabajador que se separe del servicio y hubiere contribuido por lo menos 15 años al Instituto, podrá dejar en éste la totalidad de las cuotas, a efecto de que al cumplir la edad requerida para la pensión, se le otorgue la que corresponda conforme a la presente Ley, considerando como sueldo regulador el señalado en el artículo séptimo transitorio, sin tener derecho a actualización del monto de la pensión. Si falleciera antes de cumplir los 60 años de edad, a sus familiares se les otorgará la pensión en los mismos términos;
+
+II.- En caso de separación por licencia concedida sin goce de sueldo, si los servidores públicos o trabajadores de la generación en transición desean que el lapso que dure dicha licencia se compute como antigüedad ante el Fondo de Pensiones, deberán cubrir mensualmente por adelantado el monto de los adeudos que se tengan con el Instituto y el porcentaje correspondiente por cuotas y aportaciones al Fondo de Pensiones y al Fondo de Seguro de Retiro; y
+
+III.- El servidor público o trabajador que sea dado de baja del servicio a partir de la entrada en vigor de la presente Ley, tiene derecho a continuar voluntariamente en el régimen de pensiones, para que en el momento que cumpla los requisitos establecidos en la presente Ley, pudiera acceder a alguna de las pensiones de invalidez, cesantía, jubilación y muerte, así como al porcentaje del seguro de retiro que corresponda, debiendo quedar inscrito con el promedio de salario base del último año cotizado, el cual se incrementará anualmente en el mes de febrero en el mismo porcentaje del salario mínimo. Este derecho podrá ser ejercido, a más tardar dentro de los primeros 180 días naturales posteriores a la baja, siempre y cuando no tenga ningún adeudo con el Instituto, asimismo, deberá cubrir mensualmente y por adelantado el monto de cuotas y aportaciones al Fondo de Pensiones y al seguro de retiro.
+
+2. En el supuesto señalado en la fracción II del presente artículo, el pago de cuotas y aportaciones sólo procederá cuando la licencia no exceda de tres años o, cuando se trate de varias, sólo cuando en su conjunto no excedan de ese periodo.
+
+3. En el caso de las bajas referidas en la fracción III del presente artículo, el período de tres años podrá comprender uno o varios lapsos cuando el servidor público o trabajador hubiere reingresado, en el entendido de que para continuar voluntariamente, el pago de cuotas y aportaciones no podrá exceder por ningún motivo de los tres años.
+
+4. Asimismo, y en cualquiera de los casos, las cuotas y aportaciones deberán pagarse en forma ininterrumpida, por lo que en el momento en que se omita enterar dos pagos seguidos en tiempo y forma, el servidor público o trabajador se dará de baja del Fondo de Pensiones en forma inmediata.
+
+5. La continuación voluntaria en el régimen de seguridad social, sólo habilitará al aportante para acceder a la prestación señalada en la fracción III de este artículo transitorio, y no a alguna otra que señale la presente Ley.
+
+###### ARTÍCULO SEXTO.
+
+1. Los servidores públicos y trabajadores de la generación en transición, tendrán derecho a las siguientes pensiones:
+
+I.- Pensión por jubilación, cuando cumplan la edad y antigüedad generada ante el Fondo de Pensiones, que se muestra en la siguiente tabla:
+
+> <small>N. DE E. VÉASE TABLA EN EL P.O. DEL 26 DE NOVIEMBRE DE 2014, PÁGINA 34.</small>
+
+El monto de la pensión será el equivalente al 100% del Salario Regulador que resulte descrito en el artículo séptimo transitorio.
+
+Excepcionalmente, en el año en que el servidor público o trabajador cumpla con la antigüedad generada ante al (sic) Fondo de Pensiones señalada en la tabla, el requisito de edad mínima de jubilación quedará fijo, sin que se pueda exigir otra edad superior en el momento en que se cumpla el requisito de la antigüedad.
+
+II.- Pensión de Retiro por Edad Avanzada y Tiempo de Servicios, cuando en el año indicado cumpla con la antigüedad mínima generada ante el fondo de pensiones y la edad que se muestra en la siguiente tabla:
+
+> <small>N. DE E. VÉASE TABLA EN EL P.O. DEL 26 DE NOVIEMBRE DE 2014, PÁGINA 34.</small>
+
+El monto de la pensión será el equivalente al porcentaje del Salario Regulador que resulte de acuerdo con el artículo séptimo transitorio, descrito en la siguiente tabla, el cual se calcula de conformidad con la antigüedad generada ante el fondo de pensiones, cumpliendo con el requisito de la tabla anterior:
+
+> <small>N. DE E. VÉASE TABLA EN EL P.O. DEL 26 DE NOVIEMBRE DE 2014, PÁGINA 35.</small>
+
+III.- Pensión por cesantía por edad avanzada, cuando cumplan diez años de antigüedad generada ante el fondo de pensiones, aumentando el porcentaje de la pensión con la edad requerida como se muestra en la siguiente tabla:
+
+III.- Pensión por cesantía por edad avanzada, cuando cumplan diez años de antigüedad generada ante el fondo de pensiones, aumentando el porcentaje de la pensión con la edad requerida como se muestra en la siguiente tabla:
+
+> <small>N. DE E. VÉASE TABLA EN EL P.O. DEL 26 DE NOVIEMBRE DE 2014, PÁGINA 35.</small>
+
+IV.- Pensión por invalidez por causas ajenas al trabajo, cuando se inhabiliten física o mentalmente por causas ajenas al trabajo y cuenten con al menos 10 años de antigüedad generada ante el fondo de pensiones.
+
+El monto de la pensión será el equivalente al porcentaje del Salario Regulador que resulte de acuerdo con el artículo séptimo transitorio, descrito en la siguiente tabla:
+
+> <small>N. DE E. VÉASE TABLA EN EL P.O. DEL 26 DE NOVIEMBRE DE 2014, PÁGINA 35.</small>
+
+V.- Pensión por riesgos de trabajo, cuando se incapaciten por dicha causa de conformidad a los lineamientos establecidos en el Capítulo Tercero del Título Tercero de la presente Ley.
+
+2. Los familiares derechohabientes de los servidores públicos o trabajadores de la generación en transición tendrán derecho a lo siguiente:
+
+I.- Pensión por fallecimiento por causas ajenas al trabajo, cuando el servidor público o trabajador fallezca por causas ajenas al servicio y cuente con al menos 10 años de antigüedad generada ante el fondo de pensiones.
+
+El monto de la pensión será el equivalente al porcentaje del Salario Regulador que resulte, de acuerdo con el artículo séptimo transitorio, descrito en la siguiente tabla:
+
+> <small>N. DE E. VÉASE TABLA EN EL P.O. DEL 26 DE NOVIEMBRE DE 2014, PÁGINA 36.</small>
+
+II.- Pensión por muerte por riesgos de trabajo, cuando el servidor público o trabajador fallezca por dicha causa, cualquiera que fuera su antigüedad. El monto de la pensión será el equivalente al 100% del salario base de cotización.
+
+3. Asimismo, se otorgará por el Fondo de Pensiones del Instituto una prestación destinada para la adquisición de víveres básicos. Ésta será otorgada sólo cuando el servidor público o el trabajador obtenga una pensión de las contempladas por el presente artículo transitorio; su monto será aquel que se obtenga de multiplicar la cantidad de esta única prestación que venía disfrutando como servidor público o trabajador activo, hasta antes de tramitar su pensión, por el porcentaje que resultó al asignarle su pensión
+
+4. El monto de la prestación destinada para la adquisición de víveres básicos, será actualizado anualmente en el mes de febrero, conforme al Índice Nacional de Precios al Consumidor correspondiente al año calendario anterior.
+
+###### ARTÍCULO SÉPTIMO.
+
+1. Para determinar el Salario Regulador, se tomarán en cuenta los últimos salarios base de cotización al Fondo de Pensiones del servidor público o trabajador de la generación en transición, de acuerdo a la siguiente tabla:
+
+AÑOS QUE FALTAN AL TRABAJADOR NÚMERO DE AÑOS A
+
+UNA VEZ ENTRADA EN VIGOR LA PROMEDIAR, PREVIA
+
+LA PRESENTE LEY, PARA ALCANZAR ACTUALIZACIÓN
+
+EL REQUISITO DE AÑOS DE
+
+COTIZACIÓN PARA ACCEDER A LA
+
+PENSIÓN
+
+0 1
+
+1 3
+
+2 o más 4
+
+2. El Salario Regulador será actualizado con base en el Índice Nacional de Precios al Consumidor, sin que por ningún motivo la pensión mensual que resulte pueda exceder de diez veces el salario mínimo elevado al mes.
+
+###### ARTÍCULO OCTAVO.
+
+Cuando el servidor público o trabajador de la generación en transición, hubiese desempeñado simultáneamente varios empleos en las Entidades Públicas sujetos a este régimen, el cómputo de los años de cotización al Fondo de Pensiones sólo se considerará el empleo de mayor antigüedad durante el cual haya tenido o tenga el interesado el carácter de servidor público o trabajador, para el cálculo de los beneficios previstos en este Régimen de Pensiones y Jubilaciones.
+
+###### ARTÍCULO NOVENO.
+
+Los familiares derechohabientes del pensionista fallecido de la generación en transición, tendrán derecho en el orden establecido en la fracción IX del artículo 5 de la presente ley, al 100% de la pensión que venía disfrutando el titular, observándose lo dispuesto en el artículo 73 del ordenamiento antes citado.
+
+###### ARTÍCULO DÉCIMO.
+
+Las pensiones de los servidores públicos o trabajadores de la generación en transición y de sus familiares derechohabientes, se incrementarán en el mes de febrero, conforme al Índice Nacional de Precios al Consumidor correspondiente al año calendario anterior; sin que la pensión mensual que resulte, pueda exceder de diez veces el salario mínimo elevado al mes.
+
+###### ARTÍCULO UNDÉCIMO.
+
+El derecho a cualquier pensión que establece el artículo sexto transitorio, comenzará a partir del día siguiente a aquél en que el servidor público o trabajador cause baja, siempre y cuando la haya solicitado al Instituto y cumpla con los requisitos establecidos para tal efecto.
+
+###### ARTÍCULO DUODÉCIMO.
+
+Los servidores públicos o trabajadores de la generación en transición y, en su caso, sus familiares, tendrán derecho a la pensión garantizada, de conformidad con lo establecido en el Título Tercero, Capítulo Quinto, Sección Cuarta.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+1. Las cuotas y aportaciones que corresponden a los servidores públicos o trabajadores de la generación en transición y a las Entidades Públicas serán de acuerdo a la siguiente tabla:
+
+> <small>N. DE E. VÉASE TABLA EN EL P.O. DEL 26 DE NOVIEMBRE DE 2014, PÁGINA 37.</small>
+
+2. Las cuotas del servidor público o trabajador de la generación en transición y las aportaciones de las Entidades Públicas, se calcularán sobre el salario base que esté percibiendo el servidor público o el trabajador en el momento de realizar las contribuciones respectivas.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+1. Los servidores públicos o trabajadores de la generación en transición que se separen del servicio, podrán retirar las cuotas efectuadas al Fondo de Pensiones sin considerar las aportaciones que haya realizado la Entidad Pública.
+
+2. Si el periodo de cuotas retirado, corresponde a nueve años o más, el Instituto otorgará al servidor público o trabajador una indemnización equivalente a tres meses de su último sueldo base.
+
+3. En un posible reingreso a cualquiera de las Entidades Públicas, el servidor público o trabajador que haya causado baja como tal y haya retirado o se hayan adjudicado a favor del Instituto en cualquier fecha sus cuotas en su totalidad, deberá ser considerado por el Instituto como servidor público o trabajador de Nueva Generación, sujeto al régimen de pensiones y jubilaciones que establece la presente ley.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+1. El pensionista o pensionado que tenga esta calidad con fecha anterior a la entrada en vigor de la presente Ley, no sufrirá modificación alguna en el sistema de pensiones que regula los beneficios a su favor hasta antes de la entrada en vigor de este ordenamiento, por lo que seguirá disfrutando de su pensión conforme a las bases bajo las cuales se le confirió, salvo lo dispuesto por los artículos 29 y 41 párrafo 4 de la presente Ley. Por lo tanto, salvo las excepciones previstas, esta ley no tendrá aplicación para ellos.
+
+2. También gozará del beneficio de obtener una pensión con base en la Ley que se abroga, salvo las excepciones antes citadas, aquel servidor público o trabajador que a la entrada en vigor de la presente Ley, tuviera 30 años de servicios cotizados al Fondo de Pensiones, en el caso de personal masculino, y 25 años de servicios y cotizados al Fondo de Pensiones en el caso de personal femenino.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Los pensionistas y pensionados vigentes a la entrada en vigor de la presente Ley y los de la generación en transición, tendrán derecho a tres meses de pensión por concepto de gratificación anual. Esta gratificación deberá pagarse en las fechas que autorice la Junta de Gobierno.
+
+###### ARTÍCULO DÉCIMO SÉPTIMO.
+
+1. Si el Fondo de Pensiones resultara insuficiente para cubrir las pensiones, las Entidades Públicas serán garantes para cubrir el pago correspondiente de sus servidores públicos, trabajadores, pensionistas o pensionados, cuando las prestaciones definidas sean exigibles por el trabajador o por sus beneficiarios, al cumplir con los requisitos señalados en la presente ley para su otorgamiento.
+
+2. Cuando se encuentre garantizado el pago de las pensiones presentes y futuras que establece la presente Ley, de forma perenne según estudio actuarial, se podrá crear los fondos de vivienda o ahorro, donde las entidades contribuyan en las aportaciones para la constitución de los mismos.
+
+###### ARTÍCULO DÉCIMO OCTAVO.
+
+El Instituto podrá efectuar los trámites y procesos para que cualquier instancia de carácter estatal o federal, puedan efectuar aportaciones que permitan fortalecer el régimen de pensiones y jubilaciones.
+
+###### ARTÍCULO DÉCIMO NOVENO.
+
+El Comité Técnico de Pensiones en funciones elaborará los manuales, formularios, comunicaciones y demás documentación que se requiera, para la aplicación del régimen de pensiones y de la instrumentación de la presente Ley.
+
+###### ARTÍCULO VIGÉSIMO.
+
+El Instituto llevará a cabo la difusión general de este ordenamiento y determinará los medios a través de los cuales, se orientará a los servidores públicos, trabajadores y pensionistas en lo relativo al ejercicio de los derechos que establece la presente Ley.
