@@ -4,7 +4,7 @@ identifier: "CHP-ley-para-la-prevencion-y-sancion-de-la-desaparicion-forzada-707
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-23"
-last_updated: "2009-09-23"
+last_updated: "2014-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70772&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHP"
 ---
 # LEY PARA LA PREVENCION Y SANCION DE LA DESAPARICION FORZADA DE PERSONAS EN EL ESTADO DE CHIAPAS
 
-LEY PARA LA PREVENCION Y SANCION DE LA DESAPARICION FORZADA DE PERSONAS EN EL ESTADO DE CHIAPAS
+LEY PARA LA PREVENCIÓN Y SANCIÓN DE LA DESAPARICIÓN FORZADA DE PERSONAS EN EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 23 de septiembre de 2009.
 
@@ -319,9 +319,11 @@ El Procurador General de Justicia del Estado, garantizará la independencia e im
 
 Las autoridades encargadas de la investigación y persecución del delito de desaparición forzada, realizarán la indagación de los hechos hasta dar con el paradero de la víctima, ya sea en vida, o en su defecto, de los restos corpóreos.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 41.
 
-Serán aplicables en forma supletoria a esta Ley, las disposiciones del Código Penal para el Estado de Chiapas, el Código de Procedimientos Penales para el Estado de Chiapas, así como las normas, criterios, jurisprudencias y resoluciones que se deriven de los tratados internacionales que en materia de derechos humanos y de desaparición forzada de personas hayan sido firmados y ratificados por el estado Mexicano, así como de los órganos que de ellos emanen, de conformidad con lo dispuesto en el artículo 133, de la Constitución Política de los Estados Unidos Mexicanos.
+Serán aplicables en forma supletoria a esta Ley, las disposiciones del Código Penal para el Estado de Chiapas, el Código de Procedimientos Penales aplicable, así como las normas, criterios, jurisprudencias y resoluciones que se deriven de los tratados internacionales que en materia de derechos humanos y de desaparición forzada de personas hayan sido firmados y ratificados por el estado Mexicano, así como de los órganos que de ellos emanen, de conformidad con lo dispuesto en el artículo 133, de la Constitución Política de los Estados Unidos Mexicanos.
 
 T r a n s i t o r i o s
 
@@ -336,3 +338,11 @@ Dado en el Salón de Sesiones del Honorable Congreso del Estado de Chiapas, en l
 De conformidad con la fracción I, del artículo 42, de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los once días del mes de septiembre del año dos mil nueve.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE NOVIEMBRE DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
