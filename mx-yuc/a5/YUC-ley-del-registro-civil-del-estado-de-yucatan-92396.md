@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-registro-civil-del-estado-de-yucatan-92396"
 country: "mx"
 rank: "ley"
 publication_date: "2013-02-19"
-last_updated: "2013-02-19"
+last_updated: "2014-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92396&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el martes 19 de febrero de 2013.
 
@@ -33,7 +33,7 @@ CIUDADANO ROLANDO RODRIGO ZAPATA BELLO, GOBERNADOR DEL ESTADO DE YUCATÁN, CON F
 
 "EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN LOS ARTÍCULOS 30 FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA; 18 DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO Y 3 FRACCIÓN IV DE LA LEY DEL DIARIO OFICIAL DEL GOBIERNO, TODAS DEL ESTADO DE YUCATÁN, EMITE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, EN BASE A LA SIGUIENTE:
 
-EXPOSICIÓN DE MOTIVOS: .
+EXPOSICIÓN DE MOTIVOS: ...
 
 En tal virtud, con fundamento en los artículos 30 fracción V de la Constitución Política, 18 y 43 fracción I de la Ley de Gobierno del Poder Legislativo y 71 fracción II del Reglamento de la Ley de Gobierno del Poder Legislativo, todos los ordenamientos del Estado de Yucatán, sometemos a consideración del Pleno del Congreso del Estado de Yucatán, el siguiente proyecto de:
 
@@ -269,11 +269,13 @@ IV.- La huella digital del presentado.
 
 En caso de que sólo uno de los progenitores presente al nacido, se estará a lo dispuesto por los artículos 250 ó 251 del Código de Familia, según corresponda.
 
+> <small>(REFORMADO, D.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 Registro de nacimiento gratuito
 
 ###### Artículo 23.
 
-La Dirección del Registro Civil para garantizar el derecho a la identidad de las niñas y niños que pertenezcan a familias en situación de vulnerabilidad, realizará su registro de manera gratuita previo cumplimiento de los requisitos que para tal efecto determine el Poder Ejecutivo del Estado.
+La Dirección del Registro Civil, para garantizar el derecho a la identidad de niñas y niños, realizará de manera gratuita el registro de nacimiento de niñas y niños menores de 8 años de edad y la expedición de la primera copia certificada del acta de dicho registro.
 
 Derecho de las hijas o hijos mayores de edad
 
@@ -447,11 +449,13 @@ Cuando para realizar algún trámite de cualquier naturaleza se requiera especif
 
 #### Sección Tercera. De los Registros Extemporáneos de Nacimiento
 
+> <small>(REFORMADO, D.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 Registro extemporáneo de nacimiento
 
 ###### Artículo 44.
 
-Los registros de nacimiento que se realicen después de los 45 días de haber ocurrido serán asentados como registros extemporáneos.
+Los registros de nacimiento que se realicen después de los 90 días de haber ocurrido serán asentados como registros extemporáneos.
 
 Registro extemporáneo de niñas y niños
 
@@ -869,11 +873,15 @@ Registro extemporáneo de defunción posterior a 24 horas
 
 Los registros de defunción que se realicen con posterioridad a las 24 horas de haber ocurrido el fallecimiento, se consideran extemporáneos.
 
-Registro extemporáneo de defunción no mayor a seis meses
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+Registro extemporáneo de defunción no mayor a tres años
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 91.
 
-El Director podrá autorizar el registro extemporáneo de defunción antes de trascurridos 6 meses de la misma, siempre que el interesado presente lo siguiente:
+El Director podrá autorizar el registro extemporáneo de defunción antes de transcurridos 3 años de ésta, siempre que el interesado presente lo siguiente:
 
 I.- El certificado médico de defunción;
 
@@ -885,11 +893,15 @@ IV.- La copia certificada de la averiguación previa o inicio de investigación,
 
 V.- La constancia de inhumación.
 
-Registro extemporáneo de defunción posterior a seis meses
+> <small>(REFORMADO, D.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+Registro extemporáneo de defunción posterior a 3 años
 
 ###### Artículo 92.
 
-El Director, para realizar el registro de defunción extemporáneo que rebase el término de 6 meses del fallecimiento, deberá solicitar a los interesados la copia certificada de la sentencia firme de la autoridad judicial correspondiente.
+Cuando no se realice el registro extemporáneo de defunción en el plazo previsto en el artículo anterior, el Director únicamente podrá inscribirla por orden de la autoridad judicial correspondiente.
+
+Para efectos de lo establecido en este artículo, los interesados deberán presentar al Director la copia certificada de la sentencia firme de la autoridad judicial respectiva.
 
 ### CAPÍTULO VII. De los Libros del Registro Civil
 
@@ -918,6 +930,10 @@ V.- Divorcios;
 VI.- Defunciones, y
 
 VII.- Inscripciones de sentencias.
+
+> <small>(ADICIONADO, D.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+El libro previsto en la fracción VII de este artículo se aperturará de conformidad con el acto registral del estado civil que se asiente.
 
 Libro principal y duplicado
 
@@ -1442,3 +1458,19 @@ SECRETARIO DE ADMINISTRACIÓN Y FINANZAS
 C. ERNESTO HERRERA NOVELO
 
 CONSEJERO JURÍDICO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 27 DE NOVIEMBRE DE 2014.
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Obligación normativa
+
+El Gobernador deberá realizar las modificaciones al Reglamento de la Ley del Registro Civil del Estado de Yucatán, para armonizarlas en lo conducente a las disposiciones de este decreto, dentro de los 90 días naturales siguientes contados a partir de su entrada en vigor.
+
+Tercero. Derogación tácita.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al contenido de este decreto.
