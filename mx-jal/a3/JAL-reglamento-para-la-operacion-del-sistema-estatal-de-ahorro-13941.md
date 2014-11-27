@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-para-la-operacion-del-sistema-estatal-de-ahorro-1394
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-01-23"
-last_updated: "2008-04-12"
+last_updated: "2014-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "JAL"
 ---
 # REGLAMENTO PARA LA OPERACION DEL SISTEMA ESTATAL DE AHORRO PARA EL RETIRO DE LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO, SEDAR
 
-REGLAMENTO PARA LA OPERACION DEL SISTEMA ESTATAL DE AHORRO PARA EL RETIRO DE LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO, SEDAR
+REGLAMENTO PARA LA OPERACIÓN DEL SISTEMA ESTATAL DE AHORRO PARA EL RETIRO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO, SEDAR
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA OPERACIÓN DEL FIDEICOMISO PÚBLICO DENOMINADO SISTEMA ESTATAL DE AHORRO PARA EL RETIRO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 27 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 23 de enero de 1997.
 
@@ -609,3 +611,17 @@ SEGUNDO. A partir de la publicación oficial del presente Acuerdo, el Comité T�
 TERCERO. Las reformas contenidas en el presente Acuerdo no afectarán los derechos adquiridos ni las obligaciones derivadas de los actos y contratos celebrados antes de la entrada en vigor de este Acuerdo.
 
 CUARTO. Notifíquese el presente Acuerdo a las entidades que deban conocerlo, para que lleven a cabo todas las acciones de su competencia, con la finalidad de que surta todos sus efectos legales y administrativos.
+
+P.O. 27 DE NOVIEMBRE DE 2014.
+
+PRIMERO. El presente Reglamento entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga el Reglamento para la Operación del Sistema Estatal de Ahorro para el Retiro de los Servidores Públicos del Estado de Jalisco, SEDAR, publicado en el Periódico Oficial "El Estado de Jalisco" del 23 de Enero de 1997, Sección II.
+
+TERCERO. A partir de la publicación del presente Acuerdo, el Comité Técnico, por conducto de su Presidencia y, en su caso, de su Secretaría, deberá llevar a cabo ante la fiduciaria las gestiones y acciones conducentes a lograr las modificaciones que resulten necesarias realizar al contrato de fideicomiso actualmente en vigor, a fin de que este Reglamento pueda tener aplicación; y una vez hecho lo anterior, deberá remitir al titular del Poder Ejecutivo, a través de la Secretaría General de Gobierno, la propuesta correspondiente.
+
+CUARTO. EI presente Reglamento no surte efectos retroactivos en perjuicio de los derechos ni las obligaciones de los cuentahabientes derivadas de los actos y contratos celebrados con anterioridad a la publicación del presente Reglamento.
+
+QUINTO. Los contratos, negocios y actos jurídicos en general y los asuntos cuyo trámite haya iniciado previo a la entrada en vigor de este Acuerdo, serán regulados de conformidad con el Reglamento para la Operación del Sistema Estatal de Ahorro para el Retiro de los Servidores Públicos del Estado de Jalisco, SEDAR, publicado en el Periódico Oficial "El Estado de Jalisco" del 23 de Enero de 1997, Sección II.
+
+SEXTO. Los Poderes Públicos, municipios y organismos incorporados al SEDAR deberán prever todas las acciones correspondientes para cumplir con las obligaciones derivadas del presente Reglamento.
