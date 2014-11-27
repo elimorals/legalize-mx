@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-establece-el-sistema-integral-de-justicia-para-55157"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-07"
-last_updated: "2010-11-17"
+last_updated: "2014-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY QUE ESTABLECE EL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES EN EL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA LEY NACIONAL DEL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES, PUBLICADA EN EL D.O.F. DE 16 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO. TRANSITORIOS: ARTÍCULO PRIMERO. VIGENCIA PARA LOS EFECTOS SEÑALADOS EN EL PÁRRAFO TERCERO DEL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 18 DE JUNIO DE 2008, SE DECLARA QUE LA PRESENTE LEGISLACIÓN INCORPORA EL SISTEMA PROCESAL PENAL ACUSATORIO Y ENTRARÁ EN VIGOR EL 18 DE JUNIO DE 2016. LOS REQUERIMIENTOS NECESARIOS PARA LA PLENA OPERACIÓN DEL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES DEBERÁN ESTAR INCORPORADOS EN UN PLAZO NO MAYOR A TRES AÑOS A PARTIR DE LA FECHA DE ENTRADA EN VIGOR DEL PRESENTE DECRETO. ARTÍCULO SEGUNDO. ABROGACIÓN SE ABROGA LA LEY PARA EL TRATAMIENTO DE MENORES INFRACTORES PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 24 DE DICIEMBRE DE 1991 Y SUS POSTERIORES REFORMAS. SE ABROGAN TAMBIÉN LAS LEYES RESPECTIVAS DE LAS ENTIDADES FEDERATIVAS VIGENTES A LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, PARA EFECTOS DE SU APLICACIÓN EN LOS PROCEDIMIENTOS PENALES PARA ADOLESCENTES INICIADOS POR HECHOS QUE OCURRAN A PARTIR DE LA ENTRADA EN VIGOR DE LA PRESENTE LEY. ARTÍCULO TERCERO. CARGA CERO LOS PROCEDIMIENTOS PENALES PARA ADOLESCENTES QUE A LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO SE ENCUENTREN EN TRÁMITE, CONTINUARÁN SU SUSTANCIACIÓN DE CONFORMIDAD CON LA LEGISLACIÓN APLICABLE EN EL MOMENTO DEL INICIO DE LOS MISMOS.]</small>
+
 LEY QUE ESTABLECE EL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES EN EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 7 de marzo de 2007.
 
@@ -357,7 +359,7 @@ XI. Ordenar, bajo su responsabilidad y sin orden de presentación emitida por el
 
 XII. Ordenar bajo su responsabilidad, y sin orden de presentación emitida por el Juez Especializado de Primera Instancia, la detención del menor cuando tratándose de una conducta típica considerada como grave por la presente Ley o, en leyes federales en materia de competencia concurrente, exista urgencia y riesgo fundado de que el adolescente pueda evadir a la autoridad y no se pueda ocurrir a dicho juez por razón de la hora, lugar o circunstancia de la probable conducta típica, para la cual deberá fundar y motivar su determinación;
 
-XIII. Decretar la retención del adolescente en términos establecidos en los Artículos 16 y 18, de la Constitución Política de los Estados Unidos Mexicanos y la presente Ley;.(sic)
+XIII. Decretar la retención del adolescente en términos establecidos en los Artículos 16 y 18, de la Constitución Política de los Estados Unidos Mexicanos y la presente Ley;.
 
 XIV. Ordenar la práctica del examen médico, para determinar la edad del menor presuntamente responsable de la conducta típica;
 
@@ -721,7 +723,7 @@ Las sanciones para adolescentes son las siguientes:
 
 I. Sanciones generales:
 
-a) Amonestación y apercibimiento, y, (sic)
+a) Amonestación y apercibimiento, y,
 
 b) Prestación de servicios en beneficio de la comunidad;
 
@@ -777,7 +779,7 @@ Podrá aplicarse una o más medidas previstas en esta Ley, de manera simultánea
 
 Las medidas podrán suspenderse, revocarse o sustituirse por otras más benéficas para el adolescente. La modificación nunca implicará una prolongación en el tiempo, salvo que se haya modificado también la calidad de la sanción por una menos violenta de los derechos del adolescente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 70.
 
@@ -1235,49 +1237,89 @@ VI. Siempre que esté plenamente justificado, cualquier otro aspecto de relevanc
 
 La sanción de privación de la libertad, consiste en la restricción de libertad de tránsito al adolescente en un Centro Especializado, del que no se le permitirá salir sin que exista una orden judicial que así lo establezca. Sólo podrá imponerse a quienes tengan más de catorce y menos de dieciocho años cumplidos, tratándose de delitos dolosos, siempre y cuando sean graves, de acuerdo a lo establecido en la presente Ley o, en leyes federales en materia de competencia concurrente y demás disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 127 Bis.
 
-Se clasifica como conducta tipificada como grave para los efectos de esta Ley, los siguientes delitos previstos en el Código Penal para el Estado de Chiapas:
+Se tipifica como conducta grave para los efectos de esta Ley, los siguientes delitos previstos en el Código Penal para el Estado de Chiapas.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 I. Homicidio por culpa grave, previsto y sancionado por el artículo 89, parte final.
 
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 II. Homicidio, previsto y sancionado por los artículos 160, 164, 170 y 171.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 III. Tráfico de menores de edad y los que no tengan capacidad de entender el significado del hecho, previsto y sancionado por el artículo 208, primer párrafo.
 
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 IV. Privación ilegal de la libertad, previsto y sancionado en los artículos 213, 215, 215 Bis exceptuando las fracciones I y V; 216, 220 exceptuándose el último párrafo y 221.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 V. Sustracción de menores y los que no tengan capacidad de entender el significado del hecho, previsto y sancionado por los artículos 223 segundo párrafo, y 224.
 
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 VI. Asalto, previsto y sancionado por el artículo 231.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 VII. Violación, previsto y sancionado por los artículos 233, 234 y 235.
 
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 VIII. Robo, previsto y sancionado por el artículo 270 exceptuando la fracción I, en relación al 274; 275 exceptuando las fracciones V y VI; 277, 278, 279 y 281.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 IX. Abigeato, previsto y sancionado por el artículo 291 exceptuando la fracción I; y 295.
 
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 X. Extorsión, previsto y sancionado por los artículos 300, y 301 exceptuando las fracciones II, VII y, el último y penúltimo párrafo.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 XI. Corrupción de Menores e Incapaces, previsto y sancionado por el artículo 327.
 
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 XII. Pornografía Infantil, previsto y sancionado por los artículos 333 y 334.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 XIII. Lenocinio, previsto y sancionado por el artículo 339 fracciones I y II.
 
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 XIV. Asociación Delictuosa, previsto y sancionado por el artículo 370.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 XV. Pandillerismo, previsto y sancionado por los artículos 371, 372, 373, 374 y 375.
 
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 XVI. Delincuencia Organizada, previsto y 'sancionado por el artículo 376.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 XVII. Ataque a las vías de comunicación, previsto y sancionado por el artículo 382 exceptuando la fracción VII, con relación al 383.
 
-De igual forma, se califica como conducta tipificada como grave, para los efectos de esta Ley, el delito de Trata de Personas, previsto y sancionado por la Ley para Combatir, Prevenir y Sancionar la Trata de Personas en el Estado de Chiapas.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-Para la clasificación de delitos graves, previstos en leyes federales en materia de competencia concurrente, se observará cuando proceda, el Código Federal de Procedimientos Penales.
+De igual forma se tipifica como conducta grave, para los efectos de esta Ley, el delito de trata de Personas, previsto y sancionado por la Ley para Combatir, Prevenir y Sancionar la Trata de Personas en el Estado de Chiapas.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+Para la clasificación de delitos graves, previstos en leyes federales en materia de competencia concurrente, se observará cuando proceda, el Código Nacional de Procedimientos Penales.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 La tentativa punible de los delitos, incluidos en este artículo, también será considerada grave para los efectos de esta Ley.
 
@@ -1627,7 +1669,7 @@ Los niños y los adolescentes extranjeros, cuando proceda, serán entregados a l
 
 ### Capítulo I. Reglas de Aplicación de las Medidas Cautelares
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 152.
 
@@ -1719,9 +1761,11 @@ Dentro del procedimiento se admitirán todos los medios probatorios regulados po
 
 La valoración de las pruebas, se hará de acuerdo a las reglas de la sana crítica.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 167.
 
-En todo lo relativo a la sustanciación del procedimiento no previsto en esta ley, así como, en la apreciación y valoración de las pruebas, serán aplicables, supletoriamente, las disposiciones conducentes del Código de Procedimientos Penales del Estado de Chiapas.
+En todo lo relativo a la sustanciación del procedimiento no previsto en esta ley, así como, en la apreciación y valoración de las pruebas, serán aplicables, supletoriamente, las disposiciones conducentes del Código de Procedimientos Penales aplicable.
 
 ### Capítulo II. Fases del Procedimiento
 
@@ -1927,7 +1971,7 @@ La víctima u ofendido podrá apelar la resolución del Juez de Primera Instanci
 
 (DEROGADO, P.O. 17 DE NOVIEMBRE DE 2010)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 198.
 
@@ -2095,9 +2139,11 @@ Cuando el conocimiento de los hechos no corresponda a la competencia de los Juzg
 
 ### Capítulo II. De la Investigación Preliminar del Ministerio Público
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 228.
 
-Los Fiscales Especializados adscritos a la Fiscalía Especializada, tendrán además de las facultades que les otorga la Constitución Política de los Estados Unidos Mexicanos, la Constitución del Estado, el Código Penal del Estado de Chiapas, el Código de Procedimientos Penales del Estado de Chiapas y la Ley Orgánica de la Fiscalía General del Estado de Chiapas, en materia de Justicia de Adolescentes, las siguientes, facultades exclusivas:
+Los Fiscales Especializados adscritos a la Fiscalía Especializada, tendrán además de las facultades que les otorga la Constitución Política de los Estados Unidos Mexicanos, la Constitución del Estado, el Código Penal del Estado de Chiapas, el Código de Procedimientos Penales aplicable y la Ley Orgánica de la Procuraduría General de Justicia del Estado de Chiapas, en materia de Justicia de Adolescentes, las siguientes, facultades exclusivas:
 
 I. Investigación de la participación de los adolescentes en conductas previstas como delito en las leyes penales vigentes;
 
@@ -2321,9 +2367,11 @@ El Fiscal Especializado, podrá también solicitar del Tribunal de Primera Insta
 
 #### Sección Primera. Del Procedimiento de Limitación de los Derechos de Adolescentes
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 267.
 
-El Juez de Primera Instancia solo podrá autorizar limitaciones a los derechos de los adolescentes cuando estén previstas en la Constitución Política de los Estados Unidos Mexicanos, en el Código de Procedimientos Penales del Estado y en la presente Ley, exista causa objetiva para dicha limitación y se justifique para garantizar derechos de la sociedad o de terceros en tal proporción que justifique la intervención del estado.
+El Juez de Primera Instancia solo podrá autorizar limitaciones a los derechos de los adolescentes cuando estén previstas en la Constitución Política de los Estados Unidos Mexicanos, en el Código de Procedimientos Penales aplicable y en la presente Ley, exista causa objetiva para dicha limitación y se justifique para garantizar derechos de la sociedad o de terceros en tal proporción que justifique la intervención del Estado.
 
 ###### Artículo 268.
 
@@ -2433,7 +2481,7 @@ La resolución inicial será notificada de inmediato al adolescente, su defensor
 
 En la resolución inicial el Juez de Primera Instancia determinará si procede el internamiento cautelar.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 291.
 
@@ -2675,7 +2723,7 @@ El Fiscal y el Defensor tendrán derecho a replica después de la exposición de
 
 ###### Artículo 342.
 
-Después de escuchar las conclusiones y réplicas del Fiscal y las del Defensor, el Juez de Primera Instancia cederá la palabra al adolescente para que exponga todo lo que a su derecho convenga, El (sic) adolescente podrá rehusar de este derecho.
+Después de escuchar las conclusiones y réplicas del Fiscal y las del Defensor, el Juez de Primera Instancia cederá la palabra al adolescente para que exponga todo lo que a su derecho convenga, El adolescente podrá rehusar de este derecho.
 
 ###### Artículo 343.
 
@@ -2887,7 +2935,7 @@ La Unidad de Ejecución emitirá los reglamentos necesarios, tanto para la ejecu
 
 ###### Artículo 380.
 
-La (sic) Unidad de Ejecución podrá realizar convenios de coordinación con instituciones u organismos públicos y privados, así como con la comunidad, a fin de contar con redes de apoyo gubernamentales, no gubernamentales y comunitarias para la implantación de los mecanismos de ejecución de las sanciones. En este caso, dichos organismos, instituciones o miembros de la comunidad, en lo referente a la ejecución de sanciones, estarán bajo el control y supervisión de la Unidad de Ejecución.
+La Unidad de Ejecución podrá realizar convenios de coordinación con instituciones u organismos públicos y privados, así como con la comunidad, a fin de contar con redes de apoyo gubernamentales, no gubernamentales y comunitarias para la implantación de los mecanismos de ejecución de las sanciones. En este caso, dichos organismos, instituciones o miembros de la comunidad, en lo referente a la ejecución de sanciones, estarán bajo el control y supervisión de la Unidad de Ejecución.
 
 Así mismo, para el tratamiento de los y las adolescentes cuyas penas sean alternativas a la privativa de la libertad, se creará un centro de atención integral, el cual tendrá como objetivo la rehabilitación del adolescente, con personal capacitado y con experiencia en adolescentes, tales como psiquiatras, psicólogos, médicos, trabajadores sociales, así como de los que se consideren necesarios.
 
@@ -3647,7 +3695,7 @@ De conformidad con la fracción I, del Artículo 42, de la Constitución Políti
 
 Juan José Sabines Guerrero, Gobernador Constitucional del Estado.- Jorge Antonio Morales Messner, Secretario de Gobierno.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 3 DE OCTUBRE DE 2007.
 
@@ -3676,3 +3724,9 @@ P.O. 17 DE NOVIEMBRE DE 2010.
 Artículo Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
