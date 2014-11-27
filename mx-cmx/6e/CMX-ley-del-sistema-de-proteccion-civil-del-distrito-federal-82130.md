@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-sistema-de-proteccion-civil-del-distrito-federal-82130"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-08"
-last_updated: "2013-09-13"
+last_updated: "2014-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82130&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2011-07-06"
 
 LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE SEPTIEMBRE DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL VIGÉSIMO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL DISTRITO FEDERAL, PUBLICADA EN LA G.O. DE 27 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 8 de julio de 2011.
 
@@ -134,7 +136,7 @@ XXVI. FIPDE: Fideicomiso Preventivo de Desastres, instrumento financiero operado
 
 XXVII. FADE: Fondo de Atención a Desastres y Emergencias, instrumento operado por el Gobierno del Distrito Federal, activado mediante las declaratorias de emergencia y desastre, en los términos de esta ley y las Reglas de Operación para el otorgamiento de suministros de auxilio y asistencia por la ocurrencia de fenómenos perturbadores y la recuperación de los daños causados por los mismos.
 
-XXVIII. FOPDE: Fondo de Prevención de Desastres, instrumento financiero operado por Gobierno (sic) del Distrito Federal, a través de la reglamentación expedida, con la finalidad de realizar acciones programadas de carácter preventivo para mitigar los efectos causados por la posible ocurrencia de fenómenos perturbadores.
+XXVIII. FOPDE: Fondo de Prevención de Desastres, instrumento financiero operado por (sic) Gobierno del Distrito Federal, a través de la reglamentación expedida, con la finalidad de realizar acciones programadas de carácter preventivo para mitigar los efectos causados por la posible ocurrencia de fenómenos perturbadores.
 
 XXIX. Instrumentos de la Protección Civil: Herramientas e información utilizadas en la prevención del desastre y protección civil, empleadas por el Sistema, con el fin de alcanzar los objetivos de protección de la vida, bienes y entorno de la población.
 
@@ -602,7 +604,7 @@ XX. Evaluar el nivel de cumplimiento de los organismos privados y sociales con r
 
 XXI. Promover la inserción de los temas de la protección civil en las plantillas curriculares de educación básica, media, técnica y superior de las Instituciones Educativas del Distrito Federal;
 
-XXII. Informar al Pleno y a los Consejos Delegacionales de manera anual, mediante un reporte de evaluación, de estado del Sistema, en el que se incluirán las actividades realizadas por las Comisiones y el grado de cumplimiento de las obligaciones de los integrantes; y, (sic)
+XXII. Informar al Pleno y a los Consejos Delegacionales de manera anual, mediante un reporte de evaluación, de estado del Sistema, en el que se incluirán las actividades realizadas por las Comisiones y el grado de cumplimiento de las obligaciones de los integrantes; y,
 
 XXIII. Solicitar a cualquiera de los Integrantes del Sistema, la información necesaria para el cumplimiento de sus obligaciones y emitir recomendaciones de los resultados obtenidos;
 
@@ -1192,7 +1194,7 @@ I. Inmuebles destinados a vivienda plurifamiliar y conjuntos habitacionales, por
 
 II. Inmuebles destinados al servicio público, por parte del servidor público que designe el Titular;
 
-III. Unidades Habitacionales, por parte de los administradores; y (sic)
+III. Unidades Habitacionales, por parte de los administradores; y
 
 IV. Establecimientos mercantiles de impacto zonal e impacto vecinal, en términos del Reglamento, los Términos de Referencia y las Normas Técnicas, así como aquellos en donde los usuarios sean predominantemente personas con discapacidad, adultos mayores, mujeres embarazadas o se manejen sustancias o materiales peligrosos;
 
@@ -1971,3 +1973,51 @@ G.O. 13 DE SEPTIEMBRE DE 2013.
 PRIMERO.- El presente decreto entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- La sanción establecida en el artículo 65, con relación a la fracción X del artículo 48 de la Ley de Establecimientos Mercantiles del Distrito Federal, entrara en vigor a partir de los 90 días hábiles de la publicación del presente Decreto. Con la finalidad de que los establecimientos obligados realicen las adecuaciones correspondientes a sus instalaciones para el cumplimiento de la Ley.
+
+G.O. 27 DE NOVIEMBRE DE 2014.
+
+PRIMERO. Publíquese el presente decreto en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente decreto entrará en vigor el al (sic) día siguiente de su publicación.
+
+TERCERO. Una vez habilitado el Centro de Evaluación, Formación y Capacitación de Protección Civil del Distrito Federal, las Unidades de Protección Civil Delegacionales contarán con un plazo de 180 días naturales para recibir la capacitación a la que hace referencia la presente Ley.
+
+CUARTO. Para los efectos a que hace referencia el artículo transitorio anterior, la Secretaría de Finanzas, dentro de sus alcances y atribuciones destinará los recursos necesarios para la habilitación del Centro de Evaluación, Formación y Capacitación de Protección Civil del Distrito Federal.
+
+QUINTO. La Secretaría contará con 120 días a partir de la publicación de la presente ley para llevar a cabo la actualización de términos de referencia y normas técnicas complementarias.
+
+SEXTO. A partir de la actualización a que hace referencia el artículo transitorio anterior, se comenzará a contar el plazo de 3 años que tendrá para la próxima actualización de los mismos.
+
+SÉPTIMO. La Secretaría, en coordinación con la Secretaría de Desarrollo Económico y un análisis previo, al margen de sus facultades y con la finalidad de agilizar el trámite e implementación de Programas Internos de Protección Civil, instaurará los mecanismos que considere necesarios a fin de crear los Programas Corporativos de Protección Civil, cuya finalidad es la de simplificar los trámites de Programas Internos de algún establecimiento que cuente con cierto número de sucursales en distintas delegaciones con un criterio homologado.
+
+OCTAVO. El Reglamento de la Ley del Sistema de Protección Civil del Distrito Federal deberá ser publicado en la Gaceta oficial dentro de los 120 días naturales a la entrada en vigor de la presente ley.
+
+NOVENO. Los Órganos Político Administrativos incluirán en el proyecto de egresos para el siguiente año, los impactos que correspondan al capítulo 1000, derivado de la instauración de los nuevos puestos que la presente Ley crea dentro de la Unidad de Protección Civil.
+
+DÉCIMO. Los Programas Internos y Especiales de Protección Civil autorizados con anterioridad a la publicación de los términos de referencia actualizados con base a lo estipulado en esta Ley, estarán vigentes en los términos y con la temporalidad autorizada por la autoridad.
+
+DÉCIMO PRIMERO. Hasta en tanto se publica el Reglamento y las disposiciones a las que se refiere el artículo quinto transitorio, estarán vigentes las actuales en lo que no se oponga a la presente Ley.
+
+DÉCIMO SEGUNDO. Los registros vigentes de Terceros Acreditados mantendrán tal condición a partir de la entrada en vigor de esta Ley.
+
+DÉCIMO TERCERO. La Secretaría entregará a los Órganos Político Administrativos el padrón al que hace referencia esta ley, en un término no mayor a 60 días naturales posteriores a la entrada en vigor de la presente.
+
+DÉCIMO CUARTO. La publicación en los portales institucionales del padrón al que hace referencia la presente ley, deberá hacerse en un periodo no mayor a 120 días naturales posteriores a la entrada en vigor de la presente.
+
+DÉCIMO QUINTO. Las obligaciones de capacitación a los que hace referencia la presente Ley serán exigibles a partir de los 6 meses de la entrada en vigor de la presente ley.
+
+DÉCIMO SEXTO. La Secretaría contará con un término de 60 días naturales posteriores a la entrada en vigor de la presente ley para integrar y presentar, lo correspondiente a los lineamientos técnicos operativos para la elaboración de los Atlas Delegacionales.
+
+DÉCIMO SÉPTIMO.- La Secretaría y los Órganos Político Administrativos del Distrito Federal realizarán las adecuaciones necesarias en la estructura orgánica para dar cumplimiento a la conformación que establece la presente Ley, en un término no mayor a 120 días naturales posteriores a la entrada en vigor de la presente ley.
+
+DÉCIMO OCTAVO. El Comité de usuarios del subsuelo a que hace referencia la fracción XIX del artículo 7 del presente ordenamiento, continuará en vigor hasta en tanto no se publique la Ley específica respectiva.
+
+DÉCIMO NOVENO. Lo dispuesto en el tercer párrafo del artículo 195 de la presente Ley, será aplicable a inmuebles cuya construcción se inicie tras la publicación de la presente Ley en la Gaceta Oficial del Distrito Federal.
+
+VIGÉSIMO. El Sistema de Alerta Temprana al que hace referencia el artículo 199 y demás relativos deberá ser considerado en el reglamento en los términos y tiempos que señala esta Ley.
+
+VIGÉSIMO PRIMERO. La Secretaría de Finanzas en la medida de sus atribuciones, considerará los recursos necesarios para la implementación del Sistema de Alerta Temprana, dentro de los recursos asignados a la Secretaría de Protección Civil del Distrito Federal.
+
+VIGÉSIMO SEGUNDO. Se abroga la Ley del Sistema de Protección Civil del Distrito Federal publicada en la Gaceta Oficial del Distrito Federal el 08 de julio de 2011, el Reglamento de la Ley de Protección Civil para el Distrito Federal publicado en la Gaceta Oficial del Distrito Federal el 23 de diciembre de 2005; debiendo observarse respecto a este último lo señalado en el Transitorio Noveno de esta Ley; asimismo se deroga cualquier disposición que contravenga lo dispuesto por esta Ley.
+
+VIGÉSIMO TERCERO. Se abrogan los términos de Referencia y las Normas Técnicas Complementarias que se opongan a la presente Ley.
