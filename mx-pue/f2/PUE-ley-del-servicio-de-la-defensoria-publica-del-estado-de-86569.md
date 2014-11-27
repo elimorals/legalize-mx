@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-servicio-de-la-defensoria-publica-del-estado-de-86569"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-16"
-last_updated: "2013-11-25"
+last_updated: "2014-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86569&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL SERVICIO DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Puebla, el viernes 16 de diciembre de 2011.
 
@@ -105,13 +105,21 @@ I. En materia penal, a toda persona a quien se le atribuya una conducta delictiv
 
 II. En materia familiar, a cualquier persona y de manera preferente a quienes carezcan de recursos económicos para pagar los honorarios de un abogado particular;
 
-III. En materia civil y administrativa, a cualquier persona y de manera preferente, a quienes acrediten que por razones económicas, no están en condiciones de cubrir los honorarios a un abogado particular; y
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-IV. En materia mercantil, a cualquier persona física y de manera preferente a aquélla que tenga el carácter de deudor y que acredite la falta de recursos económicos para contratar a un abogado particular.
+III. En materia civil y administrativa, a cualquier persona y de manera preferente, a quienes acrediten que por razones económicas, no están en condiciones de cubrir los honorarios a un abogado particular;
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-La Defensoría Pública podrá establecer los mecanismos que considere pertinentes, para tener por acreditada la falta de recursos económicos del solicitante.
+IV. En materia mercantil, a cualquier persona física y de manera preferente a aquella que tenga el carácter de deudor y que acredite la falta de recursos económicos para contratar a un abogado particular, y
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+V. En materia de adolescentes, a cualquier persona y de manera preferente a quienes acrediten que por razones económicas, no están en condiciones de cubrir los honorarios a un abogado particular.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+En caso de que el usuario perteneciere a un pueblo o comunidad indígena, el Defensor deberá tener conocimiento de su lengua y cultura y, en caso de que no fuere posible, deberá actuar asistido de un intérprete de la cultura y lengua de que se trate.
 
 ###### ARTÍCULO 7.
 
@@ -121,7 +129,9 @@ I. Si la posición de las partes es desigual, porque una de ellas es campesina, 
 
 II. La Asistencia Jurídica se otorgará a favor de la parte que trate de evitarse perjuicios, y no de la que pretenda obtener lucro;
 
-III. Cuando la posición de las partes sea la misma, la Asistencia Jurídica se otorgará observando la mayor igualdad posible entre ellas; y
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+III. Cuando la posición de las partes sea la misma, la Asistencia Jurídica se otorgará observando la mayor igualdad posible entre ellas;
 
 > <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
 
@@ -130,6 +140,10 @@ IV. En materia familiar y civil, cuando en un mismo asunto las partes contrarias
 > <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2013)</small>
 
 En el supuesto al que se refiere la fracción IV, la Defensoría Pública notificará el impedimento a la autoridad que haya asignado el servicio de patrocinio que no fuera otorgado, en todos los casos previstos en el presente artículo, al solicitante que no se beneficie con la Asistencia Jurídica, se le orientará para que acuda ante las instancias que presten un servicio equivalente.
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+V. En materia penal el Defensor Público otorgará la Asistencia Jurídica al imputado desde el momento de la detención del mismo.
 
 > <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2013)</small>
 
@@ -152,6 +166,10 @@ III. La creación de talleres que promuevan el respeto a los derechos fundamenta
 ###### ARTÍCULO 10.
 
 Los gastos distintos a los que se refiere el artículo siguiente y los que se generen con motivo de la tramitación de un asunto, serán a costa del usuario.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+En materia penal, tratándose de la prueba pericial, el Órgano Jurisdiccional ordenará, a petición del Defensor Público, la designación de peritos de instituciones públicas, las que estarán obligadas a practicar el peritaje correspondiente, siempre que no exista impedimento material para ello.
 
 ###### ARTÍCULO 11.
 
@@ -302,6 +320,44 @@ XI. Asistir y acreditar los cursos de actualización y especialización profesio
 XII. Acreditar las evaluaciones de conocimientos que aplique la Defensoría Pública; y
 
 XIII. Las demás que le señalen la presente Ley y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+ARTÍCULO 24 BIS.- Son obligaciones de los Defensores Públicos, en materia penal:
+
+I.- Entrevistar al imputado para conocer directamente su versión de los hechos que motivan la investigación, a fin de ofrecer los datos y medios de prueba pertinentes que sean necesarios para llevar a cabo una adecuada defensa;
+
+II.- Asesorar al imputado sobre la naturaleza y las consecuencias jurídicas de los hechos punibles que se le atribuyen;
+
+III.- Comparecer y asistir jurídicamente al imputado en el momento en que rinda su declaración, así como en cualquier diligencia o audiencia que establezca la Ley;
+
+IV.- Analizar las constancias que obren en la carpeta de investigación, a fin de contar con mayores elementos para la defensa;
+
+V.- Comunicarse directa y personalmente con el imputado, cuando lo estime conveniente, siempre y cuando esto no altere el desarrollo normal de las audiencias;
+
+VI.- Recabar y ofrecer los medios de prueba necesarios para la defensa;
+
+VII.- Presentar los argumentos y datos de prueba que desvirtúen la existencia del hecho que la Ley señala como delito, o aquéllos que permitan hacer valer la procedencia de alguna causal de inimputabilidad, sobreseimiento o excluyente de responsabilidad a favor del imputado y la prescripción de la acción penal o cualquier otra causal legal que sea en beneficio del imputado;
+
+VIII.- Solicitar el no ejercicio de la acción penal;
+
+IX.- Ofrecer los datos o medios de prueba en la audiencia correspondientes y promover la exclusión de los ofrecidos por el Ministerio Público o la víctima u ofendido cuando no se ajusten a la Ley;
+
+X.- Promover a favor del imputado la aplicación de mecanismos alternativos de solución de controversias o formas anticipadas de terminación del proceso penal, de conformidad con las disposiciones aplicables;
+
+XI.- Participar en la audiencia de juicio, en la que podrá exponer sus alegatos de apertura, desahogar las pruebas ofrecidas, controvertir las de los otros intervinientes, hacer las objeciones que procedan y formular sus alegatos finales;
+
+XII.- Mantener informado al imputado sobre el desarrollo y seguimiento del procedimiento o juicio;
+
+XIII.- Formular solicitudes de procedimientos especiales, en los casos en que proceda;
+
+XIV.- Guardar el secreto profesional en el desempeño de sus funciones;
+
+XV.- Interponer los recursos e incidentes en términos de este Código y de la legislación aplicable, y en su caso, promover el Juicio de Amparo;
+
+XVI.- Informar a los imputados y a sus familiares la situación jurídica en que se encuentre su defensa; y
+
+XVII.- Las demás que señalen las leyes.
 
 #### SECCIÓN III. DE LAS PROHIBICIONES A LOS DEFENSORES PÚBLICOS
 
@@ -477,9 +533,17 @@ V. Promover extemporáneamente u omitir la promoción de los recursos legales qu
 
 VI. No excusarse, habiendo causas legales para ello, de la atención de un asunto a su cargo;
 
-VII. No rendir dentro del término señalado en la presente Ley, el informe mensual con los datos estadísticos relacionados con las actividades que desarrollen; y
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-VIII. Dejar de cumplir las obligaciones que les impone esta Ley y demás ordenamientos aplicables.
+VII. No rendir dentro del término señalado en la presente Ley, el informe mensual con los datos estadísticos relacionados con las actividades que desarrollen;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+VIII. Ausentarse sin causa justificada, de cualquier audiencia celebrada dentro de un procedimiento legal, en donde haya sido nombrado, y
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+IX. Dejar de cumplir las obligaciones que les impone esta Ley y demás ordenamientos aplicables.
 
 ###### ARTÍCULO 44.
 
@@ -499,7 +563,7 @@ SEGUNDO.- Se abroga la Ley de la Procuraduría del Ciudadano del Estado de Puebl
 
 TERCERO.- Se derogan todas las disposiciones de la misma naturaleza que se opongan a la presente Ley.
 
-EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada (sic) en el Palacio del Poder Legislativo en la Heroica Ciudad de Puebla de Zaragoza, a los veinticuatro días del mes de noviembre de dos mil once.- Diputado Presidente.- JOSÉ LAURO SÁNCHEZ LÓPEZ.- Rúbrica.- Diputada Vicepresidenta.- JOSEFINA BUXADÉ CASTELÁN.- Rúbrica.- Diputado Secretario.- ENRIQUE NACER HERNÁNDEZ.- Rúbrica.- Diputado Secretario.- ZEFERINO MARTÍNEZ RODRÍGUEZ.- Rúbrica.
+EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo en la Heroica Ciudad de Puebla de Zaragoza, a los veinticuatro días del mes de noviembre de dos mil once.- Diputado Presidente.- JOSÉ LAURO SÁNCHEZ LÓPEZ.- Rúbrica.- Diputada Vicepresidenta.- JOSEFINA BUXADÉ CASTELÁN.- Rúbrica.- Diputado Secretario.- ENRIQUE NACER HERNÁNDEZ.- Rúbrica.- Diputado Secretario.- ZEFERINO MARTÍNEZ RODRÍGUEZ.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los veintiocho días del mes de noviembre de dos mil once.- El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. FERNANDO LUIS MANZANILLA PRIETO.- Rúbrica.
 
@@ -510,3 +574,11 @@ P.O. 25 DE NOVIEMBRE DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Para los efectos de este ordenamiento se tomarán en cuenta los artículos Segundo Transitorio del Decreto publicado el día viernes diecisiete de junio de dos mil once en el Periódico Oficial del Estado de Puebla, por virtud del cual se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica del Poder Judicial del Estado y el artículo Único Transitorio del Decreto publicado el trece de septiembre de dos mil trece en el Periódico Oficial del Estado de Puebla, por virtud del cual se reforman las fracciones II y III del mismo ordenamiento.
