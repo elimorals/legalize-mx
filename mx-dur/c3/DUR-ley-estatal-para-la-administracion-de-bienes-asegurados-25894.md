@@ -4,7 +4,7 @@ identifier: "DUR-ley-estatal-para-la-administracion-de-bienes-asegurados-25894"
 country: "mx"
 rank: "ley"
 publication_date: "2002-08-22"
-last_updated: "2002-08-22"
+last_updated: "2014-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY ESTATAL PARA LA ADMINISTRACION DE BIENES ASEGURADOS, DECOMISADOS Y EN ABANDONO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, DECOMISADOS O ABANDONADOS DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 27 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 22 de agosto de 2002.
 
@@ -540,3 +542,13 @@ DADO EN EL PALACIO DEL PODER EJECUTIVO, EN VICTORIA DE DURANGO, DGO., A LOS NUEV
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. ANGEL SERGIO GUERRERO MIER. Rúbrica.
 
 EL SECRETARIO GENERAL DE GOBIERNO, LIC. JOSÉ MIGUEL CASTRO CARRILLO. Rúbrica.
+
+N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+P.O. 27 DE NOVIEMBRE DE 2014.
+
+Primero.- La presente ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+Segundo.- Se abroga la Ley Estatal para la Administración de Bienes Asegurados, Decomisados y Abandonados, aprobada mediante decreto número 128 de la Sexagésima Segunda Legislatura, publicada en el Periódico Oficial del Gobierno del Estado de Durango número 15 de fecha 22 de agosto de 2002.
+
+Tercero.- Se derogan todas las disposiciones que se opongan a la presente ley.
