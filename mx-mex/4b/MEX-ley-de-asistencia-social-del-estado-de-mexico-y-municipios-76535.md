@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-asistencia-social-del-estado-de-mexico-y-municipios-7653
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-07"
-last_updated: "2010-09-07"
+last_updated: "2014-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76535&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MEXICO Y MUNICIPIOS
+LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Sección Tercera a la Gaceta del Gobierno del Estado de México, el martes 7 de septiembre de 2010.
 
@@ -305,7 +305,7 @@ IX. Planear, organizar y coordinar la realización de estudios, diagnósticos e 
 
 X. Establecer, organizar, coordinar y ejecutar programas, acciones y servicios de prevención de la discapacidad, y tratamiento rehabilitatorio no hospitalario de la discapacidad, así como favorecer la integración social de personas con discapacidad;
 
-Xl. Realizar acciones de apoyo y formación educativa para la integración social y de capacitación para el trabajo a los beneficiarios de esta Ley, en coordinación con las dependencias y organismos de la administración pública estatal;
+XI. Realizar acciones de apoyo y formación educativa para la integración social y de capacitación para el trabajo a los beneficiarios de esta Ley, en coordinación con las dependencias y organismos de la administración pública estatal;
 
 XII. Establecer, organizar, coordinar y ejecutar programas, acciones y servicios que favorezcan el respeto a los derechos del adulto mayor en estado de vulnerabilidad que fomenten su autoestima, procurando su apoyo, evolución y reinserción al núcleo familiar y social;
 
@@ -341,7 +341,7 @@ Los Órganos de Gobierno del DIFEM serán:
 
 I. La Junta de Gobierno;
 
-II. La Presidencia; y
+II. (DEROGADA, G.G. 27 DE NOVIEMBRE DE 2014)
 
 III. La Dirección General.
 
@@ -353,13 +353,17 @@ El órgano superior del DIFEM será la Junta de Gobierno, la cual estará integr
 
 I. Un Presidente, que será el Gobernador del Estado o la persona que él designe;
 
-II. Un Vicepresidente, nombrado por el Ejecutivo del Estado;
+> <small>(REFORMADA, G.G. 27 DE NOVIEMBRE DE 2014)</small>
+
+II. Un Vicepresidente, nombrado por el Gobernador del Estado.
 
 III. El Secretario que será el Director General del DIFEM;
 
 IV. Cinco Vocales, que serán los Titulares de las Secretarías de: Finanzas, Educación, Salud, Desarrollo Social y el de la Procuraduría General de Justicia; y
 
-V. El Comisario, que será designado por el Gobernador del Estado.
+> <small>(REFORMADA, G.G. 27 DE NOVIEMBRE DE 2014)</small>
+
+V. El Comisario, que será designado por el Secretario de la Contraloría.
 
 Los cargos de los integrantes de la Junta de Gobierno serán honoríficos.
 
@@ -387,15 +391,23 @@ IX. Conocer los informes, dictámenes y recomendaciones del Comisario y del Audi
 
 X. Cumplir y hacer cumplir la presente Ley y otras aplicables al DIFEM;
 
-Xl. Revisar y emitir recomendaciones sobre los programas de trabajo de los SMDIF, para el efecto de que se ajusten a los Programas Nacionales y Estatales y en general, a la política estatal de asistencia social; así como el de las actividades destinadas a proveerlos de recursos económicos;
+XI. Revisar y emitir recomendaciones sobre los programas de trabajo de los SMDIF, para el efecto de que se ajusten a los Programas Nacionales y Estatales y en general, a la política estatal de asistencia social; así como el de las actividades destinadas a proveerlos de recursos económicos;
 
 XII. Designar a los integrantes del Patronato;
 
-XIII. Designar y remover a propuesta del Presidente a los Directores;
+> <small>(REFORMADA, G.G. 27 DE NOVIEMBRE DE 2014)</small>
+
+XIII. Designar v (sic) remover a propuesta del Director General a los directores.
 
 XIV. Fomentar y apoyar a las asociaciones o sociedades civiles y a todo tipo de entidades privadas cuyo objeto sea la prestación de servicios de asistencia social, sin perjuicio de las atribuciones que al efecto correspondan a otras dependencias; y
 
-XV. Las que le confiera la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México, su Reglamento y demás ordenamientos legales.
+> <small>(REFORMADA, G.G. 27 DE NOVIEMBRE DE 2014)</small>
+
+XV. Dictar las medidas y acuerdos necesarios para la debida protección de la infancia, para la integración de la familia y para cumplir con los objetivos del DIFEM.
+
+> <small>(ADICIONADA, G.G. 27 DE NOVIEMBRE DE 2014)</small>
+
+XVI. Las que le confiera la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México, su Reglamento y demás ordenamientos legales.
 
 ###### Artículo 23.
 
@@ -413,81 +425,83 @@ Los miembros de la Junta de Gobierno participarán en las sesiones con voz y vot
 
 En caso de empate, el Presidente de la Junta tendrá voto de calidad.
 
-### CAPÍTULO IV. De la Presidencia y sus Atribuciones
+> <small>(ADICIONADO, G.G. 27 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 25 bis.- Las facultades y obligaciones de los integrantes de la Junta de Gobierno se regularán en el Reglamento Interior del DIFEM.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 27 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO IV. Del Director General y sus atribuciones
+
+> <small>(REFORMADO, G.G. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 26.
 
-La Presidencia del DIFEM estará a cargo de un titular nombrado por el Ejecutivo del Estado, quien tendrá las siguientes atribuciones:
+El Director General será nombrado por el Gobernador del Estado y tendrá las atribuciones siguientes:
 
-I. Representar al DIFEM ante las autoridades de la federación, de los estados y de los municipios, con el poder más amplio que en derecho proceda, incluyendo facultades generales para actos de dominio, así como aquellas que requieran cláusula especial conforme a las leyes;
+I. Representar al DIFEM ante las autoridades de la Federación, de los estados y de los municipios, con el poder más amplio que en derecho proceda, incluyendo facultades generales para actos de dominio, así como aquellas que requieran cláusula especial conforme a las leyes.
 
-II. Ejecutar todos los objetivos, funciones y labores sociales del DIFEM;
+II. Coordinar y ejecutar los objetivos, funciones y labores del DIFEM.
 
-III. Ejecutar los acuerdos y disposiciones de la Junta de Gobierno;
+III. Ejecutar los acuerdos y disposiciones dictadas por la Junta de Gobierno.
 
-IV. Dictar las medidas y acuerdos necesarios para la debida protección de la infancia, para la integración de la familia y para cumplir con los objetivos propios del DIFEM;
+IV. Proponer a la Junta de Gobierno el Reglamento Interior del DIFEM, así como las reformas al marco jurídico que resulten necesarias.
 
-V. Asumir la Presidencia del Patronato;
+V. Coordinar los programas de acción de las unidades administrativas del DIFEM.
 
-VI. Proponer a la Junta de Gobierno el Reglamento Interior del DIFEM, así como las modificaciones que estime necesarias;
+VI. Delegar las facultades que le otorga esta Ley, en las personas que para tal efecto elija, indicando el tiempo y alcances de tales facultades.
 
-VII. Coordinar los programas de acción de las unidades administrativas y dependencias del DIFEM, de acuerdo con la presente Ley;
+VII. Proponer a la Junta de Gobierno las personas que puedan ocupar los puestos de directores y nombrar y remover libremente a los servidores públicos del DIFEM.
 
-VIII. Delegar las facultades que le otorga esta Ley, en las personas que para tal efecto elija, indicándoles el tiempo y alcances de tales facultades;
+VIII. Solicitar asesoría de cualquier naturaleza a las personas o instituciones que estime conveniente.
 
-IX. Proponer a la Junta de Gobierno las personas que puedan ocupar los puestos de Directores, nombrar y remover libremente a los servidores públicos del DIFEM;
+IX. Otorgar a personas físicas o jurídicas colectivas o instituciones, poder general o especial, para representar al DIFEM.
 
-X. Solicitar asesoría de cualquier naturaleza a las personas o instituciones que estime conveniente;
+X. Intervenir en representación del DIFEM, como parte en los juicios en que este sea reconocido como heredero, legatario o en los que no haya heredero nombrado o reconocido, así como en los que el DIFEM sea parte y tenga interés.
 
-XI. Otorgar a personas físicas o jurídicas colectivas o instituciones, poder general o especial, para representar al DIFEM;
+XI. Presentar a conocimiento y aprobación de la Junta de Gobierno, el informe de actividades y estados financieros anuales del DIFEM.
 
-XII. Intervenir en representación del DIFEM, como parte en los juicios en que éste sea reconocido como heredero, legatorio (sic) o en los que no haya heredero nombrados o reconocidos; así como en los que el DIFEM sea parte y tenga interés;
+XII. Conducir las relaciones laborales de acuerdo con las disposiciones legales aplicables.
 
-XIII. Presentar a la Junta de Gobierno las propuestas, proyectos e informes que requiera para su eficaz desempeño;
+XIII. Proponer convenios de coordinación con dependencias y entidades públicas, así como los convenios que se consideren necesarios para el cumplimiento de los objetivos del DIFEM.
 
-XIV. Conducir las relaciones laborales de acuerdo con las disposiciones legales aplicables;
+XIV. Proponer los planes y programas de trabajo que llevará a cabo el DIFEM.
 
-XV. Proponer convenios de coordinación con dependencias y entidades públicas; así como los convenios que se consideren necesarios para el cumplimiento de los objetivos del DIFEM;
+XV. Proponer la contratación de créditos.
 
-XVI. Proponer los planes y programas de trabajo que llevará a cabo el DIFEM;
+XVI. Informar a la Junta de Gobierno sobre la existencia de herencias, legados o donaciones que se otorguen al DIFEM.
 
-XVII. Proponer la contratación de créditos;
+XVII. Presentar a la Junta de Gobierno el plan de inversiones que se hagan a éste sobre el patrimonio del DIFEM.
 
-XVIII. Informar a la Junta de Gobierno sobre la existencia de herencias, legados o donaciones que se otorguen al DIFEM;
+XVIII. Informar a la Junta de Gobierno las actividades y estados financieros del DIFEM.
 
-XIX. Presentar a la Junta de Gobierno el plan de inversiones o modificaciones que se hagan a éste, sobre el patrimonio del DIFEM;
+XIX. Participar como Secretario de la Junta de Gobierno, con las atribuciones que le confiera esta Ley, la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y su Reglamento.
 
-XX. Proponer a los miembros que integren el Patronato;
+XX. Informar periódicamente a la Junta de Gobierno sobre las actividades desarrolladas en los sistemas municipales, así como tomar acuerdo para la obtención de mejores resultados.
 
-XXI. Presentar a conocimiento y aprobación de la Junta de Gobierno, el informe de actividades y estados financieros anuales del DIFEM; y
+XXI. Revisar los programas de trabajo de cada una de las unidades administrativas del DIFEM y de los SMDIF, para la integración del programa general del mismo.
 
-XXII. Las demás que le confieran los ordenamientos legales y la Junta de Gobierno.
+XXII. Dictar los acuerdos colectivos o individuales con los directores de las unidades administrativas y los SMDIF, para el mejor funcionamiento del DIFEM.
 
-### CAPÍTULO V. Del Director General y sus Atribuciones
+XXIII. Suscribir mancomunadamente con la o el Director de Finanzas, Planeación y Administración los documentos de crédito a cargo del DIFEM, así como las órdenes de pago directo o bancario que acuerde la Junta de Gobierno.
+
+XXIV. Planear, dirigir y controlar el funcionamiento del DIFEM, con sujeción a las instrucciones de la Junta de Gobierno.
+
+XXV. Vigilar el cumplimiento de esta Ley y el reglamento respectivo.
+
+XXVI. Las demás que le confieran los ordenamientos jurídicos aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 27 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO V. De la Presidencia Honoraria del DIFEM
+
+> <small>(REFORMADO, G.G. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 27.
 
-La Dirección General estará a cargo de un titular que será nombrado por el Titular del Ejecutivo del Estado, quien tendrá las atribuciones siguientes:
+El titular de la Presidencia Honoraria del DIFEM será nombrado por el Gobernador del Estado, su cargo no generará derecho a remuneración, retribución, emolumento o compensación alguna y apoyará las actividades del DIFEM.
 
-I. Ser miembro integrante del Patronato y presidir las sesiones de éste, en ausencia del Presidente;
-
-II. Participar como Secretario de la Junta de Gobierno, con las atribuciones que le confiera la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y su Reglamento;
-
-III. Ejecutar los acuerdos y disposiciones dictadas por el Presidente de la Junta de Gobierno;
-
-IV. Informar periódicamente al Presidente del DIFEM sobre las actividades desarrolladas en cada una de las dependencias y sistemas municipales y tomar acuerdo para la obtención de mejores resultados;
-
-V. Revisar los programas de trabajo de cada una de las unidades administrativas del DIFEM y de los SMDIF, para la integración del programa general del mismo;
-
-VI. Dictar los acuerdos colectivos o individuales con los directores de las unidades administrativas y los SMDIF, para el mejor funcionamiento del DIFEM;
-
-VII. Suscribir mancomunadamente con el Director de Finanzas, Planeación y Administración los documentos de crédito a cargo del DIFEM, así como las órdenes de pago directo o bancario que acuerde el Presidente del DIFEM;
-
-VIII. Expedir los nombramientos que determine el Presidente del DIFEM;
-
-IX. Planear, dirigir y controlar el funcionamiento del DIFEM, con sujeción a las instrucciones de la Junta de Gobierno y de la Presidencia; y
-
-X. Velar dentro de sus atribuciones por el cumplimiento de esta Ley y de los reglamentos que de la misma se deriven.
+El titular de la Presidencia Honoraria fungirá como enlace entre el DIFEM y el Patronato, asumiendo de igual modo la presidencia de éste y propondrá a los miembros que lo integren.
 
 ### CAPÍTULO VI. Atribuciones del Comisario
 
@@ -509,13 +523,17 @@ IV. Las demás que sean necesarias para el ejercicio de las anteriores y las que
 
 El Patronato es el cuerpo colegiado que tendrá como objetivo coadyuvar en la conservación y acrecentamiento del patrimonio del DIFEM; además será órgano de consulta y opinión.
 
+> <small>(REFORMADO, G.G. 27 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 30.
 
-El Patronato se integrará con representantes de los sectores público, social y privado, que serán designados por la Junta de Gobierno a propuesta del Presidente del DIFEM y cuyos miembros no percibirán retribución, emolumento o compensación alguna, quedando determinado el número de sus integrantes, en el Reglamento Interior del DIFEM.
+El Patronato se integrará con representantes de los sectores público, social y privado, designados por la Junta de Gobierno a propuesta del Presidente Honorario del DIFEM y cuyos miembros no percibirán remuneración, retribución, emolumento o compensación alguna, quedando determinado el número de sus integrantes, en el Reglamento Interior del DIFEM.
+
+> <small>(REFORMADO, G.G. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 31.
 
-Los integrantes del Patronato, excepto el Presidente, durarán en su cargo dos años, pudiendo ser sustituidos cuando exista motivo para ello.
+Los integrantes del Patronato, excepto el Presidente Honorario del DIFEM, durarán en su cargo dos años, pudiendo ser sustituidos cuando exista motivo para ello.
 
 ###### Artículo 32.
 
@@ -696,3 +714,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. LUIS ENRIQUE MIRANDA NAVA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 27 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- La Junta de Gobierno llevara a cabo las adecuaciones al Reglamento Interior del DIFEM en un plazo que no deberá exceder de sesenta días a partir de la entrada en vigor del presente Decreto.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
