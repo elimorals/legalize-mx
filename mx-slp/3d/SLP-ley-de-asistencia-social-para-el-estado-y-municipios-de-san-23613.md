@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-asistencia-social-para-el-estado-y-municipios-de-san-236
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-19"
-last_updated: "2012-09-15"
+last_updated: "2014-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de enero de 2002.
 
@@ -105,7 +105,11 @@ i) La educación para la salud a grupos vulnerables, de conformidad con lo estab
 
 j) La implementación de estrategias de información, regulación, planes de emergencia y coordinación con otras dependencias, de manera conjunta con la Unidad Estatal y unidades municipales de protección civil.
 
-k) Los demás que resulten necesarios para mejorar las circunstancias de carácter social, mental y físico, que impidan a la persona su desarrollo e integración social, y
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+k) Implementar estrategias en coordinación con la Comisión Estatal de Derechos Humanos, para la realización de acciones interinstitucionales que tengan como objetivo fomentar el respeto de la dignidad de las personas que se encuentren en estado de vulnerabilidad.
+
+l) Los demás que resulten necesarios para mejorar las circunstancias de carácter social, mental y físico, que impidan a la persona su desarrollo e integración social, y
 
 II. De atención:
 
@@ -1402,3 +1406,9 @@ P.O. 15 DE SEPTIEMBRE DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+P.O. 27 DE NOVIEMBRE DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
