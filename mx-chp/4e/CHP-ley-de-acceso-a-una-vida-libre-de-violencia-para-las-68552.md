@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-acceso-a-una-vida-libre-de-violencia-para-las-68552"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-23"
-last_updated: "2013-12-04"
+last_updated: "2014-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE ACCESO A UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el lunes 23 de marzo de 2009.
 
@@ -41,9 +41,11 @@ Por las anteriores consideraciones este Honorable Congreso del Estado, ha tenido
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 1°.
 
-Esta Ley es de orden público, interés social y de observancia general en el Estado de Chiapas y de aplicación supletoria a lo contemplado en las disposiciones civiles, penales y vigentes en el Estado.
+Esta Ley es de orden público, interés social y de observancia general en el Estado de Chiapas y de aplicación supletoria a lo contemplado en las disposiciones civiles, penales aplicables y vigentes en el Estado.
 
 ###### Artículo 2°.
 
@@ -265,9 +267,9 @@ II. Preventivas, y
 
 III. De naturaleza Civil.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-Las órdenes de protección de emergencia y preventivas deberán emitirse de manera inmediata. La autoridad competente determinará su temporalidad.
+Las órdenes de protección de emergencia y preventivas deberán emitirse de manera inmediata y tendrán una duración máxima de sesenta días naturales, prorrogables hasta por treinta días, o hasta que el riesgo desaparezca.
 
 ###### Artículo 16.
 
@@ -1090,3 +1092,9 @@ P.O. 4 DE DICIEMBRE DE 2013.
 Artículo Primero.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
