@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2014-07-08"
+last_updated: "2014-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -765,7 +765,9 @@ VIII. Desarrollo Económico;
 
 IX. Desarrollo Metropolitano;
 
-X. Desarrollo Regional;
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+X. Desarrollo Social, Humano y Regional;
 
 XI. Desarrollo y Fortalecimiento Municipal;
 
@@ -1410,3 +1412,11 @@ G.O. 8 DE JULIO DE 2014.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 27 DE NOVIEMBRE DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Para los efectos constitucionales y legales procedentes, todas las Leyes, Decretos, Códigos u Ordenamientos Legales de observancia general vigente al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión "Comisión Permanente de Desarrollo Regional" se entenderán referidas a la “Comisión Permanente de Desarrollo Social, Humano y Regional".
+
+Tercero. Se deroga cualquier disposición que contravenga al presente Decreto.
