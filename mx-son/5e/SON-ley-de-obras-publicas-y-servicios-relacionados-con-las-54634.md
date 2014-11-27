@@ -4,7 +4,7 @@ identifier: "SON-ley-de-obras-publicas-y-servicios-relacionados-con-las-54634"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-01"
-last_updated: "2014-11-03"
+last_updated: "2014-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Sección Uno del Boletín Oficial del Estado de Sonora, el jueves 1 de marzo de 2007.
 
@@ -201,6 +201,8 @@ El titular del Ejecutivo Estatal podrá invitar a las sesiones de este Comité a
 
 La organización y funcionamiento de los Comités de Obras Públicas y Servicios a que se refiere el presente Capítulo, en el caso del ámbito del Ejecutivo del Estado, deberá apegarse a lo dispuesto en el reglamento de la presente ley.
 
+> <small>(REFORMADO, B.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 16.
 
 Las dependencias, entidades y ayuntamientos que, en su caso, cuenten con los elementos, instalaciones y personal suficiente, podrán elaborar los estudios y proyectos necesarios para presupuestar y ejecutar los programas de obras públicas.
@@ -211,7 +213,9 @@ En los contratos a que se refiere este artículo, las dependencias, entidades y 
 
 Para la realización de obras públicas se requerirá contar con los estudios y proyectos, especificaciones de construcción, normas de calidad y el programa de ejecución totalmente terminados, o bien, en el caso de obras públicas de mayor complejidad, con un avance en su desarrollo que permita a los licitantes preparar una propuesta solvente y ejecutar los trabajos hasta su conclusión en forma ininterrumpida, en concordancia con el programa de ejecución convenido.
 
-Las dependencias y entidades ejecutoras podrán destinar los recursos que sean necesarios para la realización de los estudios y proyectos a que se refiere este artículo.
+Las dependencias y entidades ejecutoras podrán destinar los recursos que sean necesarios para la realización de los estudios y proyectos a que se refiere este artículo. En el Presupuesto de Egresos que aprueba el Congreso del Estado en el ejercicio fiscal correspondiente, se podrá autorizar hasta el equivalente al diez por ciento de la partida de gasto de inversión en obra pública para que se destine a la realización de estudios y proyectos.
+
+De los recursos señalados en el párrafo anterior, el 40 por ciento se distribuirán invariablemente entre los municipios, conforme a lo establecido en el decreto que establece los factores de distribución de participaciones federales a los municipios del Estado de Sonora, en el ejercicio fiscal correspondiente. Lo anterior sin menoscabo de lo presupuestado para obra pública para los municipios.
 
 Asimismo, deberán integrar un registro que contenga en formato digital los estudios y proyectos que realicen, debiéndolos conservar y mantenerlos resguardados, así como actualizarlos en los casos que resulte necesario.
 
@@ -1240,3 +1244,9 @@ B.O. 3 DE NOVIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 27 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
