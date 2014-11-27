@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-seguridad-publica-del-estado-de-puebla-69313"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-15"
-last_updated: "2014-03-31"
+last_updated: "2014-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69313&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 15 de julio de 2009.
 
@@ -47,15 +47,19 @@ LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE PUEBLA
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público, interés social y observancia general; tiene como objeto establecer las bases para regular y coordinar la función de la seguridad pública del Estado.
+La presente Ley es de orden público, interés social y observancia general; tiene como objeto establecer las bases para regular y coordinar la función de la seguridad pública del Estado de conformidad con la Constitución Política de los Estados Unidos Mexicanos.
 
 El Estado y los Municipios observarán las bases de coordinación con la Federación en esta materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 2.
 
-La seguridad pública es la función a cargo del Estado y los Municipios, que tiene como fines salvaguardar la integridad física, los derechos y bienes de las personas; preservar las libertades, la paz y el orden público; y comprende la prevención especial y general de los delitos y la investigación para hacerla efectiva; la sanción de las infracciones administrativas; la investigación y la persecución de los delitos; y, la reinserción social de las personas.
+La seguridad pública es la función a cargo de la Federación, el Estado y los Municipios conforme a la distribución de competencias establecidas en la Constitución Política de los Estados Unidos Mexicanos y la Ley General del Sistema Nacional de Seguridad Pública, que tiene como fines salvaguardar la integridad física, los derechos y bienes de las personas; preservar las libertades, la paz y el orden público; y comprende la prevención especial y general de los delitos y la investigación para hacerla efectiva; la sanción de las infracciones administrativas; la investigación y la persecución de los delitos; y, la reinserción social de las personas, de conformidad con la Constitución Política de los Estados Unidos Mexicanos.
 
 El Estado desarrollará políticas en materia de prevención social del delito con carácter integral, sobre las causas que generan la comisión de delitos y conductas antisociales, así como programas y acciones para fomentar en la sociedad valores culturales y cívicos, que induzcan el respeto a la legalidad y a la protección de las víctimas.
 
@@ -113,7 +117,9 @@ I.- Mantener la paz, la tranquilidad y el orden público;
 
 II.- Prevenir la comisión de ilícitos y la violación a leyes, reglamentos y demás disposiciones de observancia general;
 
-III.- Respetar y hacer respetar las garantías individuales y los derechos humanos;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+III.- Respetar y hacer respetar los derechos humanos y sus garantías de conformidad con la Constitución Política de los Estados Unidos Mexicanos;
 
 IV.- Garantizar el pleno ejercicio de los derechos reconocidos por la Constitución Política de los Estados Unidos Mexicanos y demás ordenamientos aplicables; así como el debido cumplimiento de las obligaciones establecidas en éstos;
 
@@ -199,9 +205,11 @@ e).- Policía Procesal.
 
 II.- Cuerpo de Seguridad Pública Municipal, cuya organización podrá replicarse en los términos de esta Ley.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 10.
 
-Las instituciones de seguridad pública serán de carácter civil, disciplinario y profesional, su actuación se regirá además, por los principios de legalidad, objetividad, eficiencia, honradez y respeto a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos y las leyes que de ella emanen. Así mismo deberán fomentar la participación ciudadana, la transparencia y la rendición de cuentas en los términos que marca la Ley.
+Las instituciones de seguridad pública serán de carácter civil, disciplinario y profesional, su actuación se regirá además, por los principios de legalidad, objetividad, eficiencia, honradez y respeto a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos y los Tratados Internacionales de los que el Estado Mexicano sea parte y las leyes que de ella emanen. Así mismo deberán fomentar la participación ciudadana, la transparencia y la rendición de cuentas en los términos que marca la Ley.
 
 ###### Artículo 11.
 
@@ -613,7 +621,9 @@ VII.- Las demás que de acuerdo a las necesidades de la función acontecieran en
 
 Con el objeto de garantizar el cumplimiento de los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, las personas que integran las Instituciones de Seguridad Pública se sujetarán a las obligaciones siguientes:
 
-I.- Conducir su actuar con dedicación y disciplina, así como con apego al orden jurídico y respeto a las garantías individuales y derechos humanos reconocidos en la Constitución;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+I.- Conducir su actuar con dedicación y disciplina, así como con apego al orden jurídico y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos y sus garantías;
 
 II.- Preservar la secrecía de los asuntos que por razón del desempeño de su función conozcan, en términos de las disposiciones aplicables;
 
@@ -637,7 +647,9 @@ XI.- Utilizar los protocolos de investigación y de cadena de custodia adoptados
 
 XII.- Participar en operativos y mecanismos de coordinación con otras Instituciones de Seguridad Pública, así como brindarles, en su caso, el apoyo que conforme a derecho proceda;
 
-XIII.- Preservar, conforme a las disposiciones aplicables, las pruebas e indicios de probables hechos delictivos o de faltas administrativas de forma que no pierdan su calidad probatoria y se facilite la correcta tramitación del procedimiento correspondiente;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+XIII.- Preservar, conforme a las disposiciones aplicables, las pruebas e indicios de probables hechos delictivos o de faltas administrativas de forma que no pierdan su calidad probatoria y se facilite la correcta tramitación del procedimiento correspondiente, respetando la cadena de custodia conforme al Código Nacional de Procedimientos Penales;
 
 XIV.- Abstenerse de disponer de los bienes asegurados para beneficio propio o de terceros;
 
@@ -997,7 +1009,9 @@ A. De Ingreso:
 
 I.- Contar con la ciudadanía mexicana por nacimiento en pleno ejercicio de sus derechos políticos y civiles, sin tener otra nacionalidad;
 
-II.- Ser de notoria buena conducta, no tener condena por sentencia irrevocable por delito doloso, ni estar sujeto a proceso penal;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+II.- Ser de notoria buena conducta, no tener condena por sentencia irrevocable por delito doloso, ni estar sujeto a proceso penal por delito doloso;
 
 III.- En su caso, tener acreditado el Servicio Militar Nacional;
 
@@ -1309,9 +1323,11 @@ III.- Cese de las relaciones laborales.
 
 La suspensión temporal de funciones podrá ser de carácter preventivo o correctivo, atendiendo a las causas que la motivaron, sin que implique la terminación de la relación de trabajo.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 85.
 
-La suspensión temporal de carácter preventivo procederá contra la persona sujeta a procedimiento administrativo, averiguación previa o proceso penal, por actos u omisiones de los que pueda derivarse una probable responsabilidad.
+La suspensión temporal de carácter preventivo procederá contra la persona sujeta a procedimiento administrativo, sujeción a proceso o proceso penal, por actos u omisiones de los que pueda derivarse una probable responsabilidad.
 
 ###### Artículo 86.
 
@@ -1761,7 +1777,7 @@ II.- Documento oficial que expresamente los comisione para las tareas de protecc
 
 III.- Arma de fuego debidamente registrada conforme a la licencia colectiva de la institución a la que pertenezca;
 
-IV.- Vehículos adecuados para las funciones a desempeñar, cuyo mantenimiento, conservación y habilitación periódica, así como los gastos de combustible o reparación, correrán a cargo de la institución de que provengan; (sic)
+IV.- Vehículos adecuados para las funciones a desempeñar, cuyo mantenimiento, conservación y habilitación periódica, así como los gastos de combustible o reparación, correrán a cargo de la institución de que provengan;
 
 > <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1862,6 +1878,12 @@ SÉPTIMO.- A la publicación de este Decreto quedarán sin efecto todos los conv
 OCTAVO.- La Secretaría de Seguridad Pública, la Procuraduría General de Justicia del Estado, la Secretaría General de Gobierno y la Secretaría de la Contraloría, en los ámbitos de competencia que corresponda, acordarán lo necesario para que en un plazo no mayor de noventa días naturales contados a partir del día de la entrada en vigor de este Decreto, se transfieran los archivos y los recursos humanos que sean necesarios, así como los recursos materiales y financieros existentes destinados para la atención de los asuntos relacionados con la materia de este Decreto.
 
 P.O. 31 DE MARZO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2014.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
