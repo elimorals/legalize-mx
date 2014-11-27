@@ -4,7 +4,7 @@ identifier: "CHP-ley-del-sistema-estatal-de-seguridad-publica-70286"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-26"
-last_updated: "2014-03-12"
+last_updated: "2014-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70286&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 26 de agosto de 2009.
 
@@ -43,11 +43,13 @@ LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
 ### Capítulo Único. De su Objeto y Ámbito de Aplicación
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social, y tiene por objeto regular la integración, organización y funcionamiento del Sistema Estatal de Seguridad Pública, así como establecer la distribución de competencias y las bases de coordinación entre las diversas autoridades de Seguridad Pública del Estado, sus Municipios y las instancias del Sistema Nacional de Seguridad Pública.
+La presente Ley es de orden público e interés social y de observancia general en todo el territorio del Estado de Chiapas, tiene por objeto regular las acciones en materia de seguridad pública y demás inherentes a las mismas, así como de la integración, organización y funcionamiento del Sistema Estatal de Seguridad Pública, de conformidad a lo establecido en la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública, el Código Nacional de Procedimientos Penales y demás disposiciones legales aplicables.
 
-Sus disposiciones son de observancia general en todo el territorio del Estado de Chiapas.
+Así mismo, establecer la distribución de competencias y bases de coordinación entre los tres niveles de gobierno e instancias del Sistema Nacional de Seguridad Pública, generando a través de las Instituciones de la materia, acciones de confianza a la población en general para fomentar una cultura de responsabilidad, prevención social y participación ciudadana en políticas de seguridad.
 
 ###### Artículo 2.
 
@@ -55,9 +57,21 @@ La seguridad pública es una función a cargo de la Federación, del Estado y de
 
 El Estado y los Municipios desarrollarán políticas en materia de prevención social del delito con carácter integral, sobre las causas que generan la comisión de delitos y conductas antisociales, así como programas y acciones para fomentar en la sociedad valores culturales y cívicos, que induzcan el respeto a la legalidad y a la protección de las víctimas.
 
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+La aplicación de la presente Ley, compete a las Autoridades Estatales y Municipales en materia de seguridad pública en las respectivas esferas de su competencia, de acuerdo a lo previsto en la Ley General del Sistema Nacional de Seguridad Pública, y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+Los servidores públicos e integrantes de las Instituciones Policiales en el ámbito de sus respectivas competencias, coadyuvarán y ejercerán las obligaciones previstas en el Código Nacional de Procedimientos Penales.
+
 ###### Artículo 3.
 
 La función de Seguridad Pública se realizará en los diversos ámbitos de competencia por conducto de las Instituciones Policiales, del Ministerio Público, de las instancias encargadas de aplicar las infracciones administrativas, de los responsables de la prisión preventiva y ejecución de penas, de la autoridad competente en materia de justicia para adolescentes, así como por las demás autoridades que en razón de sus atribuciones deban contribuir directa o indirectamente al objeto de esta Ley.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+Por ello, las disposiciones contenidas en la presente Ley, son de orden y de observancia obligatoria para los servidores públicos integrantes de las Instituciones Policiales, quienes en todo momento de su actuación imperaran por la legalidad, orden jurídico, eficiencia, profesionalismo, vocación, honradez, honestidad, disciplina y lealtad, además de conducirse por los principios constitucionales de respeto irrestricto a los derechos humanos y derechos fundamentales.
 
 ###### Artículo 4.
 
@@ -791,7 +805,11 @@ IX. Mantener en buen estado el armamento, material, municiones y equipo que se l
 
 X. Abstenerse de asistir uniformado a bares, cantinas, centros de apuestas o juegos, u otros centros de este tipo, si no media orden expresa para el desempeño de funciones o en casos de flagrancia; y,
 
-XI. Las demás que establezcan las disposiciones legales aplicables.
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+XI. Ejercer las facultades previstas en el artículo 132, fracciones I, II, III, IV, VI, VII, VIII, IX, X, XII, XIV y XV del Código Nacional de Procedimientos Penales, cuando éstos sean los primeros en conocer de un hecho delictuoso, hasta que el Ministerio Público o la policía investigadora intervengan, y entregar a éstos los instrumentos, objetos y evidencias materiales que hayan asegurado. De las actuaciones se deberá elaborar un registro fidedigno.
+
+XII. Las demás que establezcan las disposiciones legales aplicables.
 
 Siempre que se use la fuerza pública se hará de manera racional, congruente, oportuna y con respeto a los derechos humanos. Para tal efecto, deberá apegarse a las disposiciones normativas y administrativas aplicables, realizándolas conforme a derecho.
 
@@ -2096,3 +2114,11 @@ P.O. 12 DE MARZO DE 2014.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Segundo.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en este Decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Artículo Tercero.- Las Instituciones de Seguridad Pública en el Estado, en el ámbito de sus respectivas competencias, llevaran a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia de las disposiciones aplicables.
