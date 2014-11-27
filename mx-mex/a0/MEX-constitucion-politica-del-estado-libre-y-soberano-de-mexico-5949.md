@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2014-08-08"
+last_updated: "2014-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE NOVIEMBRE DE 2014.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -141,7 +141,7 @@ Los poderes públicos y los órganos autónomos transparentarán sus acciones, g
 
 El ejercicio del derecho de acceso a la información pública, en el Estado de México se regirá por los siguientes principios y bases:
 
-l. Toda la información en posesión de cualquier autoridad Estatal o Municipal, así como de los órganos autónomos, es pública y solo podrá ser reservada temporalmente por razones de interés público en los términos que fijen las leyes.
+I. Toda la información en posesión de cualquier autoridad Estatal o Municipal, así como de los órganos autónomos, es pública y solo podrá ser reservada temporalmente por razones de interés público en los términos que fijen las leyes.
 
 En la interpretación de este derecho, deberá prevalecer el principio de máxima publicidad;
 
@@ -593,7 +593,7 @@ Con excepción de la hipótesis prevista en el inciso c) anterior, la petición 
 
 > <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
 
-4°. El Instituto Electoral del Estado de México tendrá a su cargo, en forma directa, la verificación del requisito establecido en el inciso c) del Apartado 1° de la presente fracción, así como la organización, desarrollo, cómputo y declaración de resultados;
+4°. El Instituto Electoral del Estado de México tendrá a su cargo, en forma directa, la verificación del requisito establecido en el inciso c) del apartado 1° de la presente fracción, así como la organización, desarrollo, cómputo y declaración de resultados;
 
 5°. La consulta popular se realizará el mismo día de la jornada electoral local;
 
@@ -1563,7 +1563,11 @@ Corresponde al ministerio público y a las policías la investigación de los de
 
 Las policías actuarán bajo la conducción y mando del ministerio público en la investigación de los delitos.
 
-El ministerio público podrá aplicar criterios de oportunidad para el ejercicio de la acción penal, en los supuestos y condiciones que establezca la ley, la que señalará los casos en que serán objeto de revisión judicial.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 27 DE NOVIEMBRE DE 2014)</small>
+
+El Ministerio Público podrá aplicar criterios de oportunidad para el ejercicio de la acción penal, en los supuestos y condiciones que establezca el Código Nacional de Procedimientos Penales.
 
 > <small>(REFORMADO, G.G. 11 DE OCTUBRE DE 2012)</small>
 
@@ -1595,11 +1599,15 @@ V. Ser de honradez y probidad notorias.
 
 El Gobernador del Estado designará al Procurador General de Justicia, pero el nombramiento deberá ser ratificado por la Legislatura, con el voto de las dos terceras partes de los diputados presentes. En el caso de que el nombramiento sea rechazado, el Ejecutivo hará un segundo que podrá ser aprobado con el voto de la mayoría simple.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 85.
 
-La ley determinará los requisitos necesarios para ser agente del Ministerio Público y agente de la Policía Judicial.
+La ley determinará los requisitos necesarios para ser agente del Ministerio Público y agente de la Policía de Investigación.
+
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 No podrán desempeñar estos cargos quienes hayan sido destituidos en el desempeño de iguales o similares empleos en ésta o en cualquiera otra entidad federativa o en la administración pública federal.
 
@@ -1655,7 +1663,11 @@ a) Un órgano colegiado denominado Tribunal Superior de Justicia, el cual funcio
 
 b) En tribunales y juzgados de primera instancia y juzgados de cuantía menor; organizados de acuerdo a su competencia establecida en las leyes secundarias. Los órganos jurisdiccionales aplicarán las leyes federales, tratándose de jurisdicción concurrente.
 
-El Poder Judicial contará con jueces de control que tendrán las atribuciones que la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes secundarias les atribuyan.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 27 DE NOVIEMBRE DE 2014)</small>
+
+El Poder Judicial contará con jueces de control que tendrán las atribuciones que la Constitución Política de los Estados Unidos Mexicanos, el Código Nacional de Procedimientos Penales, esta Constitución y las demás leyes aplicables les confieran.
 
 > <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2011)</small>
 
@@ -1705,7 +1717,7 @@ d) La o el Presidente de la Comisión de Derechos Humanos del Estado de México,
 
 > <small>(ADICIONADA, G.G. 3 DE MAYO DE 2012)</small>
 
-IV. La Sala Constitucional conocerá de los recursos ordinarios en contra de resoluciones judiciales definitivas en donde se inapliquen normas en ejercicio del control difuso de la constitucionalidad o de la convencionalidad en los términos que señale la ley.
+IV. La Sala Constitucional conocerá de los recursos ordinarios en contra de resoluciones judiciales definitivas en donde se inapliquen normas en ejercicio del control difuso de la constitucionalidad o de la convencionalidad, en los términos que señale la ley.
 
 Las resoluciones dictadas en los procesos a que se refiere este artículo, que declaren la invalidez de disposiciones generales del Poder Ejecutivo, del Poder Legislativo o de los Municipios, tendrán efectos generales cuando sean aprobados cuando menos por cuatro votos de los integrantes de la Sala Constitucional.
 
@@ -1775,7 +1787,7 @@ Corresponde al Pleno del Tribunal Superior de Justicia:
 
 > <small>(REFORMADA, G.G. 13 DE ENERO DE 2012)</small>
 
-l. Iniciar leyes o decretos;
+I. Iniciar leyes o decretos;
 
 II. Determinar el ámbito territorial en el que ejercerán su competencia las salas regionales y los juzgados;
 
@@ -1857,25 +1869,49 @@ Los jueces de cuantía menor durarán en su encargo tres años y podrán ser rat
 
 Los jueces de cuantía menor deberán cumplir los requisitos establecidos en las fracciones I y V del artículo 91 de esta Constitución, tener cuando menos 25 años el día de su designación y poseer título profesional de licenciado en derecho, expedido por institución legalmente facultada para ello.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 104
 
-Bis.- El proceso penal será acusatorio, adversarial y oral. Se regirá por los principios de publicidad, contradicción, concentración, continuidad e inmediación, conforme a la ley respectiva.
+Bis.- El proceso penal será acusatorio y oral. Se regirá por los principios de publicidad, contradicción, concentración, continuidad e inmediación, así como los principios señalados en la Constitución Política de los Estados Unidos Mexicanos y el Código Nacional de Procedimientos Penales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 La imposición de las penas, su modificación y duración son propias y exclusivas del Poder Judicial del Estado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+
 Los jueces ejecutores de sentencias durarán en su encargo seis años y únicamente podrán ser suspendidos y destituidos en sus funciones conforme a la ley, en la que se determinarán los mecanismos de ratificación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 Los jueces de ejecución de sentencias deberán reunir los mismos requisitos que por ley se establecen para los jueces de cuantía menor.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+
 El juez de ejecución controlará y vigilará la exacta ejecución de la pena.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 La ley establecerá los medios necesarios para que se garantice la independencia de los órganos jurisdiccionales y la plena ejecución de sus resoluciones.
 
-El imputado, la víctima o el ofendido tendrán los derechos que consagra la Constitución Política de los Estados Unidos Mexicanos, el Código Penal del Estado y el Código de Procedimientos Penales para el Estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 27 DE NOVIEMBRE DE 2014)</small>
+
+El imputado, la víctima o el ofendido tendrán los derechos que consagra la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución, el Código Penal del Estado de México y el Código Nacional de Procedimientos Penales.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3191,7 +3227,7 @@ SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicac
 
 G.G. 18 DE NOVIEMBRE DE 2005.
 
-DECRETO No. 184 POR EL QUE SE REFORMAN LOS ARTICULOS 102 EN SU SEGUNDO PARRAFO; 104 BIS EN SU SEGUNDO PARRAFO Y SEGUNDO TRANSITORIO CONTENIDOS EN EL DECRETO NUMERO 133 DE FECHA 17 DE FEBRERO DEL AÑO 2005, PUBLICADO EN LA GACETA DEL GOBIERNO EL 30 DE MAYO DEL AÑO INDICADO, RELATIVO A REFORMAS Y ADICIONES A LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+DECRETO No. 184 POR EL QUE SE REFORMAN LOS ARTÍCULOS 102 EN SU SEGUNDO PÁRRAFO; 104 BIS EN SU SEGUNDO PÁRRAFO Y SEGUNDO TRANSITORIO CONTENIDOS EN EL DECRETO NÚMERO 133 DE FECHA 17 DE FEBRERO DEL AÑO 2005, PUBLICADO EN LA GACETA DEL GOBIERNO EL 30 DE MAYO DEL AÑO INDICADO, RELATIVO A REFORMAS Y ADICIONES A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
@@ -3199,7 +3235,7 @@ SEGUNDO.- El presente decreto entrará en vigor el día de su publicación en el
 
 G.G. 18 DE NOVIEMBRE DE 2005.
 
-DECRETO NUMERO 185 POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 102 DE LA CONSTITUCION POLÍTICA DEL ESTADO LIBRE Y SOBERNO DE MEXICO.
+DECRETO NÚMERO 185 POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 102 DE LA CONSTITUCION POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
@@ -3850,3 +3886,11 @@ DECRETO NO. 277 POR EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 128 DE LA CO
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 27 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- El presente Decreto se publicará en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor hasta que tenga vigencia el Código Nacional de Procedimientos Penales.
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
