@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-organizacion-del-poder-judicial-del-estado-de-68126"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-03-18"
-last_updated: "2014-10-15"
+last_updated: "2014-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO DE ORGANIZACIÓN DEL PODER JUDICIAL DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de marzo de 2009.
 
@@ -51,9 +51,9 @@ Por las anteriores consideraciones este Honorable Congreso del Estado, ha tenido
 
 El presente Código de Organización es de orden público y reglamentario del Título Octavo de la Constitución Política del Estado de Chiapas. Tiene por objeto regular la estructura y atribuciones de los órganos que integran al Poder Judicial del Estado, a través de los cuales cumple con las funciones de impartir y administrar justicia dentro de su jurisdicción en materia del fuero común y, en materia del fuero federal, cuando las leyes respectivas así lo permitan.
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-En todo lo que no se oponga al presente Código, se aplicarán supletoriamente los Códigos de Procedimientos Civiles y Penales para el Estado de Chiapas, la Ley de Justicia Alternativa del Estado de Chiapas; la Ley de Procedimientos Administrativos para el Estado de Chiapas, el Código de Elecciones y Participación Ciudadana, la Ley que Establece el Sistema Integral de Justicia para Adolescentes en el Estado de Chiapas y demás disposiciones legales conducentes.
+En todo lo que no se oponga al presente Código, se aplicarán supletoriamente el Código de Procedimientos Civiles, el Código de Procedimientos Penales aplicable, la Ley de Justicia Alternativa del Estado de Chiapas; la Ley de Procedimientos Administrativos para el Estado de Chiapas, el Código de Elecciones y Participación Ciudadana, la Ley que Establece el Sistema Integral de Justicia para Adolescentes en el Estado de Chiapas y demás disposiciones legales conducentes.
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
@@ -71,29 +71,33 @@ a). al c). (sic)
 
 d). Juzgados de Primera Instancia Especializados del Juicio Oral Mercantil.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-e). Juzgados Especializados en Justicia para Adolescentes.
+e). Juzgados de Control y Tribunales de Enjuiciamiento.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-f). Juzgados de Paz y Conciliación.
+f). Juzgados Especializados en Justicia para Adolescentes.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-g). Juzgados de Paz y Conciliación Indígena.
+g). Juzgados de Paz y Conciliación;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-h). Juzgados Municipales.
+h). Juzgados de Paz y Conciliación Indígena;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-i). El Centro de Justicia Alternativa.
+i). Juzgados Municipales;
 
-> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-j). El Instituto de la Defensoría Social.
+j). El Centro Estatal de Justicia Alternativa;
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+k). El Instituto de la Defensoría, Pública;
 
 II. El Consejo de la Judicatura;
 
@@ -241,17 +245,33 @@ III. Juzgados de Primera Instancia.
 
 IV. Juzgados de Primera Instancia Especializados del Juicio Oral Mercantil.
 
-V. Juzgados Especializados en Justicia para Adolescentes.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-VI. Juzgados de Paz y Conciliación.
+V. Juzgados de Control y Tribunales de Enjuiciamiento.
 
-VII. Juzgados de Paz y Conciliación Indígena.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-VIII. Juzgados Municipales.
+VI. Juzgados Especializados en Justicia para Adolescentes.
 
-IX. Un Centro de Justicia Alternativa.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-X. Un Instituto de Defensoría Social.
+VII. Juzgados de Paz y Conciliación;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+VIII. Juzgados de Paz y Conciliación Indígena;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+IX. Juzgados Municipales;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+X. El Centro Estatal de Justicia Alternativa;
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+XI. El Instituto de la Defensoría Pública;
 
 El Número de Salas Regionales Colegiadas, su especialización, jurisdicción, integración y competencia, así como la adscripción y/o readscripción de los Magistrados que las integran, se decidirá por acuerdo del Pleno del Consejo de la Judicatura, en términos de este Código.
 
@@ -637,9 +657,9 @@ XI. Ordenar que se elaboren las actas del Pleno del Tribunal Constitucional con 
 
 XII. Delegar sus facultades de representación en los asuntos de competencia administrativa, fiscales, laborales, legales del Tribunal Constitucional, pudiendo otorgar, revocar y sustituir poderes en términos de la legislación aplicable, así como delegar en sus servidores públicos subalternos las atribuciones que le correspondan, excepto aquellas cuyo ejercicio sea personalísimo, por su naturaleza indelegable en términos de las disposiciones aplicables.
 
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-XIII. Nombrar al Director General del Instituto de la Defensoría Social.
+XIII. Nombrar al Director General del Instituto de la Defensoría Pública.
 
 XIV. Ejercer el presupuesto anual del Tribunal Constitucional y de los órganos administrativos que dependan de éste;
 
@@ -791,7 +811,7 @@ III. Informar cada tres meses sobre la asignación de recursos y ejercicio del g
 
 IV. Dirigir y coordinar la elaboración de los estudios de organización, manuales y demás documentos de apoyo administrativo;
 
-V. Vigilar el desarrollo de las funciones de control presupuestal sea (sic) realizado adecuadamente;
+V. Vigilar el desarrollo de las funciones de control presupuestal (sic) sea realizado adecuadamente;
 
 VI. Coordinar la ejecución de los trámites sobre movimientos e incidencia del personal;
 
@@ -1205,17 +1225,25 @@ IV. Los demás servidores públicos que designe el Consejo de la Judicatura.
 
 En el sistema acusatorio, los órganos jurisdiccionales que a continuación se enuncian, se integraran de la siguiente manera:
 
-I. Tribunal de Control:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-a) Un Juez de Control;
+I. Juzgado de Control:
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+a) Un Juez;
 
 b) Un Secretario de Actas; y,
 
 c) Los demás servidores públicos que determine el Consejo de la Judicatura, necesarios para su buen funcionamiento.
 
-II. Tribunal de Juicio Oral:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-a) Un Juez de Juicio Oral;
+II. Tribunal de Enjuiciamiento:
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+a) Un Juez;
 
 b) Un Secretario de Actas; y,
 
@@ -1467,39 +1495,145 @@ Para la operatividad del Sistema Acusatorio, los jueces tendrán las siguientes 
 
 I. Jueces de Control:
 
-a) Otorgar durante la etapa de investigación las autorizaciones judiciales previas que solicite el Ministerio Público para realizar las actuaciones que priven, restrinjan o perturben los derechos asegurados por la Constitución Política de los Estados Unidos Mexicanos, Tratados Internacionales y la Constitución Política del Estado;
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-b) Dirigir las audiencias judiciales de la fase de investigación y resolver los incidentes que se promuevan en ellas;
+a) Conocer y proteger en los casos que prevé el Código de Procedimientos Penales, de oficio o a petición de parte con interés legítimo, los derechos humanos de la víctima u ofendido, así como los del inculpado, dentro de la investigación policial, investigación ministerial, en la audiencia inicial, en la investigación formal, durante la acusación o en la audiencia de preparación de juicio, imponiendo para ello cualquiera de las medidas establecidas en esa codificación procesal penal.
 
-c) Decidir sobre la libertad o prisión preventiva y demás medidas cautelares del imputado;
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-d) Resolver sobre la vinculación a proceso del imputado;
+b) Salvaguardar los derechos procesales de las partes o tercero civilmente responsable dentro de las audiencias de las que conoce.
 
-e) Procurar la solución del conflicto canalizándolo al Centro Estatal de Justicia Alternativa, con las limitaciones que establezca la ley;
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-f) Dirigir la audiencia intermedia;
+c) Otorgar las autorizaciones judiciales previas que solicite el Ministerio Público para realizar las actuaciones que priven, restrinjan o perturben los derechos consagrados por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y los convenios y tratados internacionales vigentes en el país en materia de derechos humanos.
 
-g) Actuar como Juez de juicio oral cuando el Consejo de la Judicatura así lo determine;
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-h) Dictar sentencia en el procedimiento abreviado; y,
+d) Garantizar que las condiciones de arresto y presentación ante el Ministerio Público se realicen de acuerdo a las leyes aplicables y derechos humanos del imputado.
 
-i) Las demás que por disposición legal, el presente Código, el Reglamento Interior del Consejo de la Judicatura, los acuerdos del Pleno del Consejo de la Judicatura, Manuales de
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-Procedimientos y de Organización, le correspondan.
+e) Presidir de manera ininterrumpida las audiencias de las que tenga competencia, escuchando alegatos y el desahogo de datos o medios de prueba que sean ofertados por las partes, atendiendo con ello el principio de inmediación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-II. Jueces de Juicio Oral:
+f) Suplir las faltas temporales de los demás Jueces, cuando así lo determine expresamente el Consejo de la Judicatura.
 
-a) Conocer y resolver los procesos sometidos a su conocimiento;
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-b) Resolver todas las cuestiones que se presentan durante el juicio;
+g) Declarar en la audiencia de control de detención, la legalidad o ilegalidad de la detención del inculpado.
 
-c) Recibir y desahogar las pruebas ofrecidas por las partes;
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-d) Dictar sentencia con base en las pruebas desahogadas durante la audiencia de juicio; y,
+h) Imponer en los términos y con los requisitos que señalen la Constitución Política de los Estados Unidos Mexicanos, las Leyes fundamentales que de ella emanen, los tratados internacionales de los que México sea parte en materia de derechos humanos las medidas cautelares que establece el Código Nacional de Procedimientos Penales, la Codificación Procesal Penal aplicable.
 
-e) Las demás que por disposición legal, el presente Código, el Reglamento Interior del Consejo de la Judicatura, los acuerdos del Pleno del Consejo de la Judicatura, Manuales de Procedimientos y de Organización, le correspondan.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+i) Conocer y resolver en términos de la codificación procesal aplicable, la vinculación o no vinculación a proceso de un imputado.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+j) Procurar la solución del conflicto a través de medidas alternas, con las limitaciones que establezca la ley.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+k) Ejercer cuando corresponda, la custodia del imputado detenido y asegurarse de que no sea incomunicado, coaccionado, intimidado, torturado o sometido a tratos crueles, inhumanos o degradantes.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+l) Fijar a las partes el plazo para la precisión de los medios de prueba que ofrecerán en el juicio oral.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+m) Aprobar los acuerdos reparatorios entre el imputado y la víctima u ofendido, así como declarar la extinción de la acción penal o la reanudación del proceso por el incumplimiento cuando proceda.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+n) Aprobar la solicitud de suspensión del proceso y sus condiciones, así como resolver sobre la revocación de la suspensión y la reanudación del proceso cuando proceda.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+o) Conocer y depurar los medios de prueba ofrecidos para la etapa de juicio.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+p) Resolver todos los incidentes que se promuevan durante las etapas de investigación e intermedia.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+q) Dictar las resoluciones debidamente fundadas y motivadas, justificando su actuación en términos de ley.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+r) Dictar sentencia en el procedimiento abreviado, ordenando, cuando ya hubiere causado ejecutoria, la remisión al Juez de Ejecución de Sentencias de la documentación correspondiente.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+s) Resolver, previo informe de la Jefatura de Control y Seguimiento de Causas o cuando por sí sólo se percate de ello, el sobreseimiento de las causas, para que el Administrador General de los juzgados esté en condiciones de ordenar su remisión al Archivo Judicial General.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+t) Poner a los sentenciados a disposición del Ejecutivo del Estado para que compurguen la pena impuesta, en el caso del procedimiento abreviado, cuando proceda.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+u) Durante las audiencias quedan bajo el mando y dirección del Juez, el personal que participe en ellas.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+v) Emitir los autos o providencias y turnarlos a la Jefatura de Control y Seguimiento de Causas para su cumplimiento.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+w) Las demás que les confiera el Código Nacional de Procedimientos Penales, el Código de Organización, el Consejo de la Judicatura, y el Reglamento Interior del Consejo de la Judicatura, así como aquellas que le asigne el Consejo de la Judicatura u otras disposiciones legales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+II. Tribunal de Enjuiciamiento:
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+a) Presidir y dirigir de manera ininterrumpida la audiencia de debate de la que tenga competencia, escuchando alegatos y el desahogo de prueba que sean ofertadas por las partes, resolviendo de inmediato en los términos que marca el Código Nacional de Procedimientos Penales y, en su caso, la codificación procesal penal aplicable de la Entidad, dando cumplimiento al principio de inmediación.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+b) Suplir, cuando así lo determine expresamente el Consejo, a otro juez, para efectos de que se haga cargo de una audiencia de debate que aún no ha iniciado o reinicie la que se hubiere quedado pendiente.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+c) Resolver los incidentes y recursos horizontales que se promuevan durante el juicio oral.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+d) Desahogar y valorar los medios de prueba admitidos.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+e) Declarar la responsabilidad o inocencia del imputado sometido a juicio, con base en las pruebas presentadas por el Ministerio Público y las pruebas de descargo que presente el abogado defensor, así como en su caso, la declaración que el imputado desee realizar a favor de su causa.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+f) Imponer las medidas sancionadoras, atendiendo a los principios de la responsabilidad, proporcionalidad y racionalidad, así como a las circunstancias en que sucedieron los hechos, gravedad de la conducta, características y necesidades del imputado.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+g) Fundar y motivar adecuadamente cada una de sus resoluciones en términos de ley.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+h) Resolver cuando una causa penal sea asunto totalmente concluido e informarlo al Administrador General de los Juzgados, para su remisión al Archivo Judicial General.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+i) Poner a los sentenciados a disposición del Ejecutivo del Estado para que compurguen la pena impuesta, ordenando, cuando ya hubiere causado ejecutoria, la remisión al Juez de Ejecución de Sentencias de la documentación correspondiente.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+j) Durante las audiencias quedan bajo el mando y dirección del Juez, el personal que participe en ellas.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+k) Las demás que les confiera el Código Nacional de Procedimientos Penales, el Código de Organización, el Consejo de la Judicatura, y el Reglamento Interior del Consejo de la Judicatura, así como aquellas que le asigne el Consejo de la Judicatura u otras disposiciones legales.
 
 III. Jueces de Ejecución de Sentencias:
 
@@ -1523,9 +1657,13 @@ i) Resolver, por vía de incidente, los reclamos que formulen los internos sobre
 
 j) Las demás que por disposición legal, el presente Código, el Reglamento Interior del Consejo de la Judicatura, los acuerdos del Pleno del Consejo de la Judicatura, Manuales de Procedimientos y de Organización, le corresponde.
 
-Para todos los efectos legales, se consideran jueces de primera Instancia en materia penal también a los de Control, de Juicio Oral y de Ejecución.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-Los jueces integrantes de los Tribunales de Juicio Oral, podrán ejercer las funciones en todos los distritos judiciales que correspondan al territorio estatal e igualmente realizar, en lo individual, aquellas funciones relativas a los de jueces de ejecución de sentencias en el Estado, de conformidad con las disposiciones generales que el Consejo de la Judicatura del Estado dicte. Asimismo, los jueces de control podrán erigirse como jueces de juicio oral, cuando así lo establezca el Consejo de la Judicatura.
+Para todos los efectos legales, se consideran jueces de primera instancia en materia penal también a los de Control, de Tribunal de Enjuiciamiento y de Ejecución.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+Los jueces de Enjuiciamiento, podrán ejercer las funciones en todos los distritos judiciales que correspondan al territorio estatal e igualmente realizar, en lo individual, aquellas funciones relativas a los de jueces de ejecución de sentencias en el Estado, de conformidad con las disposiciones generales que el Consejo de la Judicatura del Estado dicte. Asimismo, los jueces de control podrán erigirse como jueces de Enjuiciamiento, cuando así lo establezca el Consejo de la Judicatura.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
@@ -2171,43 +2309,337 @@ VII. Las demás establecidas en este Título, la Ley correspondiente, su Reglame
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE CHIAPAS, P.O. 9 DE FEBRERO DE 2012)
 
-## Título Primero. Integración y Funcionamiento
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-### Capítulo I. De su Naturaleza e Integración
+## Título Noveno. De los Órganos Auxiliares del Sistema de Justicia Penal Acusatorio y Oral
 
-### Capítulo II. De los Consejeros
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+### Capítulo I. De la Administración
 
-### Capítulo III. De las Atribuciones del Consejo de la Judicatura
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-### Capítulo IV. Del Presidente del Consejo de la Judicatura
+###### Artículo 151 Bis.
 
-### Capítulo V. Del Secretario Ejecutivo del Consejo de la Judicatura
+Son obligaciones y facultades del Administrador General de los Juzgados de Control y Tribunales de Enjuiciamiento, las siguientes:
 
-### Capítulo VI. De las Sesiones y Resoluciones del Consejo de la Judicatura
+I. Organizar y controlar la gestión administrativa de los órganos jurisdiccionales, administrando eficaz y eficientemente los recursos humanos, materiales y financieros asignados.
 
-### Capítulo VII. De las Comisiones del Consejo
+II. Dirigir las labores administrativas de los órganos jurisdiccionales, bajo la supervisión directa del Oficial Mayor del Consejo de la Judicatura del Poder Judicial del Estado.
 
-### Capítulo I. De su Integración
+III. Mantener la disciplina del personal bajo su mando, realizando las actuaciones inmediatas en caso de indisciplina y remitiéndolas al Consejo de la Judicatura en términos de ley.
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
+IV. Ser el responsable del manejo, organización y control de cauciones, haciendo la remisión correspondiente a la Dirección del Fondo Auxiliar. Recibir, inventariar, custodiar y entregar los bienes y valores que se encuentren a disposición de los juzgados, haciendo la remisión correspondiente a la Dirección del Fondo Auxiliar.
 
-### Capítulo II. De la Oficialía Mayor
+V. Administrar las agendas de los órganos jurisdiccionales con base en el control de cargas de trabajo e informar a los Jueces el detalle de la ejecución de las audiencias. Distribuir los asuntos entre los jueces por turno riguroso, respetando la agenda previamente establecida.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2014)</small>
+VI. Administrar la agenda de los órganos jurisdiccionales, registrando las fechas señaladas para cada Juez por razón de turno, respecto de las audiencias fijadas y administrando los tiempos de comparecencia.
 
-### Capítulo III. De la Contraloría Interna
+VII. Hacer pública la agenda de los órganos jurisdiccionales por medio de los recursos que estén a su alcance, incluyendo los de carácter electrónico.
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
+VIII. Asignación de custodia para inculpados y víctimas, por parte de los elementos de seguridad, fuera de los casos que expresamente así lo ordene un Juez en conocimiento de una causa.
+
+IX. Gestionar los medios y los recursos para la entrega de las notificaciones.
+
+X. Tramitar y emitir la correspondencia administrativa de los órganos jurisdiccionales.
+
+XI. Ordenar, solicitar y supervisar los servicios de mantenimiento, limpieza, reparación y seguridad de las instalaciones de los órganos jurisdiccionales.
+
+XII. Auxilio administrativo a los Jueces de control, Tribunales de enjuiciamiento y a las Jefaturas.
+
+XIII. Controlar el inventario de los equipos y materiales de oficina.
+
+XIV. Verificar la asistencia del personal adscrito a los órganos jurisdiccionales, e informar al Consejo las irregularidades que advierta, con objetividad e imparcialidad.
+
+XV. Remitir los expedientes que forman parte del archivo inactivo y concluido, al Archivo Judicial General.
+
+XVI. Elaborar y enviar en los cinco primeros días de cada mes, con la colaboración de las Jefaturas, los datos estadísticos determinados para el control que se lleva en el Departamento de Estadística y los que determine el Consejo de la Judicatura.
+
+XVII. Organizar el trabajo interno del Módulo de Atención al Público, orientado a prestar un servicio de calidad al usuario.
+
+XVIII. Para el mejor desempeño y adecuada operación de los órganos jurisdiccionales, podrá emitir por escrito, las normas, políticas y procedimientos necesarios, siempre que éstas no contradigan una disposición normativa.
+
+XIX. Establecer los procedimientos y controles administrativos, a fin de optimizar y garantizar el funcionamiento de los órganos jurisdiccionales, de manera racional y objetiva.
+
+XX. Las demás que determine la ley o el Consejo de la Judicatura.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+### Capítulo II. De la Jefatura de Control y Seguimiento de Causas
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 151 Ter.
+
+Son atribuciones de la Jefatura de Control y Seguimiento de Causas, delegables entre el personal bajo su mando, las siguientes:
+
+I. Mantener la administración de las causas tramitadas en los órganos jurisdiccionales, debiendo para ello:
+
+a) Dirigir y coordinar las funciones del personal a su cargo.
+
+b) Recibir, verificar y canalizar a los órganos jurisdiccionales, las promociones, documentos, exhortos, requisitorias, amparos y todo documento que ingrese a estos para su trámite, cuando tenga relación con alguno de los procedimientos.
+
+c) En relación con el inciso anterior, realizar el proyecto de acuerdo de los escritos, promociones o cualquier documento relacionado con el proceso, para efectos de que el juez lo considere y pueda realizar las correcciones legalmente pertinentes.
+
+d) Inscribir en el libro correspondiente, los datos personales y de cédula profesional de los abogados defensores, representantes legales y Ministerios Públicos.
+
+e) Planificar, dirigir, coordinar y controlar las labores relativas al manejo de causas, registros del proceso penal en el órgano jurisdiccional; el ingreso y número del rol de las causas nuevas; actualización diaria de la base de datos que contengan las causas del Juzgado de control, soporte informático y estadísticas básicas del mismo Juzgado.
+
+f) Velar por el resguardo y seguridad de la información confidencial que conozca en el desempeño del cargo, así como la del personal asignado.
+
+g) Atender directamente a abogados y usuarios que concurran a autorizar mandatos, ratificaciones de firma o cualquier otro trámite relacionado con esa área y a toda persona relacionada con los procesos.
+
+h) Llevar el control, registro y seguimiento en los libros de los asuntos de la competencia de los órganos jurisdiccionales.
+
+i) Las demás que le confiera el Consejo de la Judicatura, el presente Código de Organización y el Reglamento Interior del Consejo de la Judicatura.
+
+II. Llevar la Jefatura de Unidad de Sala, para lo cual deberá:
+
+a) Coordinar las actividades para el desarrollo de las audiencias, con las formalidades que señala la ley, indistintamente del lugar en que deban desarrollarse.
+
+b) Asignar en cada audiencia al Secretario y demás personal de auxilio y resguardo que se requiera, con excepción del Juez, quien conocerá por razón del turno.
+
+c) Informar antes de la celebración de una audiencia, a los servidores públicos que deban estar presentes en ella o bien, que deban realizar acciones indispensables para su desarrollo.
+
+d) Verificar que la hoja de datos, los utensilios y los documentos necesarios se encuentren en lugar del Juez antes de la audiencia.
+
+e) Tomar la constancia de las audiencias que se desahoguen, siguiendo las instrucciones del Juez respectivo.
+
+f) Las demás que le confiera el Consejo de la Judicatura, el presente Código de Organización y el Reglamento Interior del Consejo de la Judicatura.
+
+III. Llevar el archivo de causas de los órganos jurisdiccionales, debiendo para ello:
+
+a) Tener el control, registro y custodia del archivo judicial de los órganos jurisdiccionales, tanto de las causas como de los discos compactos de audio y video de las grabaciones de las audiencias.
+
+b) Controlar las entradas y salidas de las causas y documentos del archivo judicial.
+
+c) Vigilar que se mantengan debidamente integradas las causas.
+
+d) Resguardar las evidencias de las partes, previo a la celebración de una audiencia.
+
+e) Las demás que le confiera el Consejo de la Judicatura, el presente Código de Organización y el Reglamento Interior del Consejo de la Judicatura.
+
+IV. Tramitar los recursos ordinarios interpuestos en contra de resoluciones emanadas de los órganos jurisdiccionales, debiendo:
+
+a) Ingresar en el sistema y asentar en el libro correspondiente, los datos del medio de impugnación hecho valer en contra de una resolución, turnándolo al que haya dictado el fallo.
+
+b) Notificar a las partes, de acuerdo a la forma que hayan señalado para oír y recibir notificaciones.
+
+c) Las demás que le confiera el Consejo de la Judicatura, el presente Código de Organización y el Reglamento Interior del Consejo de la Judicatura.
+
+V. Tramitar los amparos interpuestos en contra de resoluciones emanadas de los órganos jurisdiccionales, a lo que deberá:
+
+a) Ingresar en el sistema y asentar en el libro correspondiente, los oficios de los juzgados o tribunales federales turnándolo al órgano jurisdiccional en turno o de conocimiento.
+
+b) Asentar una certificación de búsqueda en los archivos de la Jefatura de Control y Seguimiento de Causas, presentándola al órgano jurisdiccional en turno o de conocimiento, con el requerimiento de la autoridad federal.
+
+c) Auxiliar al órgano jurisdiccional responsable, en la elaboración del proyecto de informe previo o justificado, para que éste bajo su estricta responsabilidad sea quien lo firme, pudiendo realizar las modificaciones que considere pertinentes.
+
+d) Las demás que le confiera el Consejo de la Judicatura, el presente Código de Organización y el Reglamento Interior del Consejo de la Judicatura.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+### Capítulo III. De la Jefatura de Apoyo Tecnológico
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 151 Quáter.
+
+Son atribuciones de la Jefatura de Apoyo Tecnológico, y las podrá delegar en el personal adscrito bajo su mando, las siguientes:
+
+I. Antes o después de una audiencia
+
+a) Verificar que los equipos tecnológicos se encuentren en óptimas condiciones.
+
+b) Registrar las incidencias que ocurran en los equipos tecnológicos.
+
+c) Asegurar que el sistema informático de gestión judicial se encuentre actualizado y en condiciones operativas.
+
+d) Realizar respaldos de audiencias, bases de datos, sistema informático y sistemas de comunicaciones.
+
+e) Resguardar los medios originales de las audiencias.
+
+f) Llevar registros de audiencias, horas de uso de los equipos de audio y video y consumibles.
+
+g) Coordinar a los operadores de audio y video.
+
+h) Supervisar que la grabación de las audiencias se realice en tiempo y con las formalidades que la ley señala.
+
+II. Durante la audiencia
+
+a) Preparar los equipos de audio y video para que se encuentren en óptimas condiciones al momento de la grabación, haciendo las pruebas oportunas.
+
+b) Grabar el desarrollo de las audiencias en audio y video.
+
+c) Respaldar los registros de las audiencias en los medios correspondientes.
+
+d) Realizar copias autorizadas de los registros de las audiencias celebradas.
+
+e) Llevar una bitácora de las copias de las audiencias entregadas al área de seguimiento de causas.
+
+f) Informar diariamente a su superior del estado que guarda el equipo de grabación a su resguardo.
+
+g) Administrar los consumibles y reportar a su superior.
+
+h) Ejercer las demás funciones que legalmente le sean asignadas.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+### Capítulo IV. Del Analista Profesional Adscrito a la Administración General
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 151 Quinquies.
+
+Son atribuciones del Analista Profesional adscrito a la Administración General:
+
+I. Coordinar al personal adscrito a la Administración General, dentro de los lineamientos y cánones establecidos por el Administrador General.
+
+II. Dar cuenta al Administrador General de los órganos jurisdiccionales, de cualquier reporte de contingencia en las instalaciones, el mantenimiento de bienes muebles e inmuebles y de servicios generales que demande atención.
+
+III. Recibir y dar seguimiento de solicitudes de servicio.
+
+IV. Gestionar, previa autorización del Administrador General, la adquisición de los insumos necesarios para el óptimo funcionamiento de los órganos jurisdiccionales.
+
+V. Acordar con el Administrador General la resolución de los asuntos cuya tramitación se encuentre dentro del área de su competencia.
+
+VI. Creación, control y manejo de base de datos con inventarios de almacén, mobiliario y personal adscrito.
+
+VII. Control de insumos alimenticios.
+
+VIII. Seguimiento y trámites administrativos con los departamentos de adquisiciones, almacén y Tesorería.
+
+IX. Se coordinará con las jefaturas del juzgado, para el apoyo logístico durante el desarrollo de audiencias en los juzgados.
+
+X. Archivo de expedientes del personal adscrito a los órganos jurisdiccionales.
+
+XI. Cumplir con los objetivos, metas y programas de trabajo.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+### Capítulo V. Del Secretario del Juzgado
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 151 Sexies.
+
+Son funciones del Secretario del Juzgado adscrito a la Jefatura de Control y Seguimiento de Causas:
+
+I. Presentar propuesta de proyecto de acuerdo al Juez de Control y Tribunal de Enjuiciamiento, en el término de 24 horas contadas a partir de que le sea turnada una promoción, con excepción de los asuntos de término, en cuyo caso dará atención inmediata.
+
+II. Recibir información de los notificadores, del cumplimiento de sus comunicaciones, así como de las promociones verbales realizadas al momento de la notificación, debiendo a su vez informar de manera inmediata de ellas a la Jefatura de Control y Seguimiento de Causas.
+
+III. Auxiliar al Juez durante el desarrollo de las audiencias, quedando bajo su mando y dirección durante ellas y con posterioridad en todo lo referente al cumplimiento y tramitación de sus determinaciones.
+
+Elaborar la propuesta de proyecto de providencia o auto, asignado por el Juez, en los términos y lineamientos que éste último le indique.
+
+IV. Elaborar las propuestas de proyecto de sentencia asignado por el Juez, en los términos y lineamientos que éste último indique.
+
+V. Cumplir con las encomiendas que le delegue el Jefe de Control y Seguimiento de Causas, respecto de las facultades que originalmente le son atribuidas.
+
+VI. Suplir las ausencias del Jefe de Control y Seguimiento de Causas, en el orden que éste mismo lo determine.
+
+VII. Llevar un libro de control de causas de los asuntos que les sean encomendados a fin de registrar las fechas de recepción y devolución de las mismas.
+
+VIII. Las demás que le confiera el Consejo de la Judicatura, el Código de Organización y el Reglamento Interior del Consejo de la Judicatura.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+### Capítulo VI. Del Notificador
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 151 Septies.
+
+Al Notificador del Juzgado adscrito a la Jefatura de Control y Seguimiento de Causas, corresponderá:
+
+I. Elaborar y ejecutar de manera adecuada y oportuna, el proceso de notificación y citación de resoluciones judiciales dentro y fuera de los juzgados, y demás diligencias ordenadas por los jueces;
+
+II. Brindar apoyo en la elaboración de las notificaciones de otros notificadores;
+
+III. Apoyar en las labores que le delegue el Jefe de Control y Seguimiento de Causas;
+
+IV. Llevar un libro previamente autorizado, en el que asienten diariamente las diligencias y notificaciones que efectúen y que deberá contener;
+
+V. La fecha en que reciben el expediente;
+
+VI. El nombre de las partes;
+
+VII. La fecha del auto que deben diligenciar;
+
+VIII. El lugar en que deben llevarse a cabo las diligencias, indicando el nombre del destinatario, la calle y el número de la casa en que deba realizarse;
+
+IX. El motivo de la diligencia;
+
+X. La fecha en que practiquen la diligencia o los motivos si no se efectuó; y,
+
+XI. La fecha de devolución del expediente.
+
+XII. En todos los casos deberá circunstanciar debidamente su diligencia.
+
+XIII. Las demás que les confiera el Consejo de la Judicatura, el Código de Organización y el Reglamento Interior del Consejo de la Judicatura.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+### Capítulo VII. Del Auxiliar Administrativo
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 151 Octies.
+
+Son funciones del Auxiliar Administrativo adscrito a la Administración General:
+
+I. Cumplir con las encomiendas que de manera directa les asigne el Administrador General de los juzgados.
+
+II. Auxiliar al Analista Profesional adscrito a la Administración General, en el desempeño de sus funciones.
+
+III. Asistir, en el orden que sean designados, al Juez en el desarrollo de las audiencias, quedando en ellas bajo su mando y dirección.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+### Capítulo VIII. Del Técnico en Informática
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 151 Nonies.
+
+Son funciones del Técnico en Informática adscrito a la Jefatura de Apoyo Tecnológico:
+
+I. Cumplir con las órdenes que les asigne el Jefe de la Unidad de Apoyo Tecnológico.
+
+II. Asistir, en el orden que sean designados por su jefe inmediato en el desarrollo de las audiencias, quedando bajo mando y dirección del Juez que la presida.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+### Capítulo IX. Del Oficinista Adscrito a la Jefatura de Control y Seguimiento de Causas
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 151 Decies.
+
+Son funciones del oficinista adscrito a la Jefatura de Control y Seguimiento de Causas:
+
+I. Cumplir con las órdenes que les asigne el Jefe de Control y Seguimiento de Causas.
+
+II. Asistir, en el orden que sean designados por su jefe inmediato en el desarrollo de las audiencias, quedando bajo mando y dirección del Juez que la presida.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+### Capítulo X. Del Oficinista Adscrito al Juez de Control y Tribunal de Enjuiciamiento
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 151 Undecies.- Son funciones del oficinista adscrito al Juez de Control y Tribunal de Enjuiciamiento:
+
+I. Asistir en el desempeño de sus funciones al Juez de Control y Tribunal de Enjuiciamiento.
+
+II. Cumplir con las encomiendas que de manera directa les asigne el Juez de Control y Tribunal de Enjuiciamiento;
 
 # Libro Tercero. Del Consejo de la Judicatura
 
-## Título Segundo. De los Órganos Administrativos del Consejo
+## Título Primero. Integración y Funcionamiento
 
-### Capítulo IV. Unidad de Control de Confianza
-
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
+### Capítulo I. De su Naturaleza e Integración
 
 ###### Artículo 152.
 
@@ -2231,9 +2663,9 @@ III. Un Consejero, nombrado por el Gobernador del Estado.
 
 El Consejo de la Judicatura será presidido por el Presidente del Tribunal Superior de Justicia y contará con un Secretario Ejecutivo, que será designado por el propio Consejo, a propuesta de su Presidente; así como por el demás personal que requiera y permita el presupuesto.
 
-### Capítulo V. Dirección de Estadística
+### Capítulo II. De los Consejeros
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 154.
 
@@ -2267,9 +2699,7 @@ El Pleno del Consejo de la Judicatura resolverá sobre las ausencias o licencias
 
 Los Consejeros no podrán actuar como representantes de cualquier naturaleza ante los órganos del Poder Judicial del Estado, dentro del año siguiente a la fecha de su retiro.
 
-### Capítulo VI. Dirección de Equidad de Género y Derechos Humanos
-
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
+### Capítulo III. De las Atribuciones del Consejo de la Judicatura
 
 ###### Artículo 161.
 
@@ -2401,9 +2831,7 @@ XLIII. Expedir los certificados del registro de peritos, así como las disposici
 
 XLIV. Las demás que le confiera este Código y otras disposiciones legales aplicables.
 
-### Capítulo VII. Dirección de Juzgados de Paz y Conciliación, Juzgados de Paz y Conciliación Indígena y Juzgados Municipales
-
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
+### Capítulo IV. Del Presidente del Consejo de la Judicatura
 
 ###### Artículo 162.
 
@@ -2455,9 +2883,7 @@ XVIII. Convocar a la Comisión de Justicia; y,
 
 XIX. Las demás que le otorguen este Código y otras disposiciones legales aplicables.
 
-### Capítulo VIII. De la Oficialía de Partes
-
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
+### Capítulo V. Del Secretario Ejecutivo del Consejo de la Judicatura
 
 ###### Artículo 164.
 
@@ -2511,7 +2937,7 @@ IV. No pertenecer al estado eclesiástico, ni ser ministro de algún culto relig
 
 V. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año; pero si se tratare de otro delito que lesione seriamente la fama pública del aspirante, se considerará inhabilitado para el desempeño del cargo, cualquiera que haya sido la pena impuesta.
 
-### Capítulo I. De su Integración
+### Capítulo VI. De las Sesiones y Resoluciones del Consejo de la Judicatura
 
 ###### Artículo 166.
 
@@ -2545,7 +2971,7 @@ En todos los demás casos, las notificaciones se harán por lista de acuerdos y 
 
 Todos los acuerdos de interés general emitidos por el Consejo deberán publicarse en el Periódico Oficial del Estado.
 
-### Capítulo II. Del Instituto de Formación Judicial
+### Capítulo VII. De las Comisiones del Consejo
 
 ###### Artículo 172.
 
@@ -2563,9 +2989,11 @@ Las Comisiones funcionarán de conformidad con el Reglamento que al efecto expid
 
 Los acuerdos emitidos por las comisiones, deberán ser presentadas al Pleno del Consejo para su aprobación.
 
-## Título Tercero. De los Órganos Judiciales del Consejo de la Judicatura
+## Título Segundo. De los Órganos Administrativos del Consejo
 
-### Capítulo III. De la Visitaduría
+### Capítulo I. De su Integración
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 176.
 
@@ -2589,7 +3017,9 @@ VIII. Los demás que sean necesarios y que apruebe el Pleno del Consejo, de conf
 
 El Consejo de la Judicatura establecerá las atribuciones y obligaciones de los órganos administrativos en su Reglamento Interno o en el respectivo acuerdo de creación.
 
-### Capítulo I. De su Naturaleza e Integración
+### Capítulo II. De la Oficialía Mayor
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 177.
 
@@ -2835,7 +3265,9 @@ De toda exhibición o devolución de certificados de depósito de dinero y valor
 
 Lo anterior, será sin perjuicio de que se tomen las providencias necesarias por parte de las autoridades receptoras para la guarda y conservación de los mencionados certificados y valores.
 
-### Capítulo II. De los Nombramientos y Requisitos de los Magistrados
+### Capítulo III. De la Contraloría Interna
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 187.
 
@@ -2875,7 +3307,9 @@ IV. El personal técnico y administrativo que requiera para el cumplimiento de s
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE FEBRERO DE 2012)</small>
 
-### Capítulo III. De su Funcionamiento
+### Capítulo IV. Unidad de Control de Confianza
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 189.
 
@@ -2899,7 +3333,9 @@ Para su funcionamiento, la Unidad de Control de Confianza contará con el person
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE FEBRERO DE 2012)</small>
 
-### Capítulo IV. De las Atribuciones del Tribunal de Justicia Electoral y Administrativa
+### Capítulo V. Dirección de Estadística
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 190.
 
@@ -2921,7 +3357,9 @@ Para su funcionamiento, la Dirección de Estadística contará con el personal t
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE FEBRERO DE 2012)</small>
 
-### Capítulo V. De las Atribuciones del Presidente
+### Capítulo VI. Dirección de Equidad de Género y Derechos Humanos
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 191.
 
@@ -2947,7 +3385,9 @@ Para su funcionamiento, la Dirección de Equidad de Género y Derechos Humanos c
 
 > <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2012)</small>
 
-### Capítulo VI. De las Atribuciones de los Magistrados
+### Capítulo VII. Dirección de Juzgados de Paz y Conciliación, Juzgados de Paz y Conciliación Indígena y Juzgados Municipales
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 192.
 
@@ -2997,7 +3437,9 @@ Para su funcionamiento, la Dirección de los Juzgados de Paz y Conciliación, Ju
 
 > <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2012)</small>
 
-### Capítulo VII. Atribuciones del Secretario General de Acuerdos
+### Capítulo VIII. De la Oficialía de Partes
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 193.
 
@@ -3045,11 +3487,9 @@ Para el funcionamiento de la Oficialía de Partes, contará con el personal admi
 
 Habrá una Oficialía de Partes Común en las Salas Regionales Colegiadas, así como en los Juzgados de Primera Instancia y en el Centro Estatal de Justicia Alternativa, cuando así lo autorice el Consejo de la Judicatura.
 
-## Título Primero. De su Integración y Funcionamiento
+## Título Tercero. De los Órganos Judiciales del Consejo de la Judicatura
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE OCTUBRE DE 2014)</small>
-
-### Capítulo I. De su Integración y Funcionamiento
+### Capítulo I. De su Integración
 
 ###### Artículo 195.
 
@@ -3061,7 +3501,7 @@ II. La Visitaduría; y,
 
 III. Los demás que sean necesarios y que apruebe el Pleno del Consejo, de conformidad con el presupuesto asignado.
 
-### Capítulo II. De las Atribuciones de La Comisión de Administración
+### Capítulo II. Del Instituto de Formación Judicial
 
 ###### Artículo 196.
 
@@ -3305,7 +3745,7 @@ En el caso de que existiera impedimento en alguno de los integrantes del jurado 
 
 El presidente del jurado tiene atribución para decidir lo conducente de presentarse cualquier situación no prevista en este Código, que pudiere afectar el desarrollo de los exámenes.
 
-### Capítulo III. Del Presidente de la Comisión
+### Capítulo III. De la Visitaduría
 
 ###### Artículo 213.
 
@@ -3419,11 +3859,11 @@ Los Magistrados Visitadores y personal de la Visitaduría, deberán guardar rese
 
 > <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE OCTUBRE DE 2014)</small>
 
-## Título Segundo. De la Comisión de Administración
+## Título Primero. De su Integración y Funcionamiento
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE OCTUBRE DE 2014)</small>
 
-### Capítulo IV. De los Órganos Auxiliares
+### Capítulo I. De su Naturaleza e Integración
 
 ###### Artículo 222.
 
@@ -3443,7 +3883,7 @@ Los Magistrados Visitadores y personal de la Visitaduría, deberán guardar rese
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE OCTUBRE DE 2014)</small>
 
-### Capítulo I. De su Naturaleza e Integración
+### Capítulo II. De los Nombramientos y Requisitos de los Magistrados
 
 ###### Artículo 226.
 
@@ -3455,7 +3895,7 @@ Los Magistrados Visitadores y personal de la Visitaduría, deberán guardar rese
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE OCTUBRE DE 2014)</small>
 
-### Capítulo II. Del Nombramiento y Requisitos de los Magistrados
+### Capítulo III. De su Funcionamiento
 
 ###### Artículo 228.
 
@@ -3503,7 +3943,7 @@ Los Magistrados Visitadores y personal de la Visitaduría, deberán guardar rese
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE OCTUBRE DE 2014)</small>
 
-### Capítulo III. De su Funcionamiento
+### Capítulo IV. De las Atribuciones del Tribunal de Justicia Electoral y Administrativa
 
 ###### Artículo 239.
 
@@ -3511,7 +3951,7 @@ Los Magistrados Visitadores y personal de la Visitaduría, deberán guardar rese
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE OCTUBRE DE 2014)</small>
 
-### Capítulo IV. De sus Atribuciones
+### Capítulo V. De las Atribuciones del Presidente
 
 ###### Artículo 240.
 
@@ -3519,7 +3959,7 @@ Los Magistrados Visitadores y personal de la Visitaduría, deberán guardar rese
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE OCTUBRE DE 2014)</small>
 
-### Capítulo V. De las Atribuciones del Presidente
+### Capítulo VI. De las Atribuciones de los Magistrados
 
 ###### Artículo 241.
 
@@ -3527,7 +3967,7 @@ Los Magistrados Visitadores y personal de la Visitaduría, deberán guardar rese
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE OCTUBRE DE 2014)</small>
 
-### Capítulo VI. De las Atribuciones de los Magistrados
+### Capítulo VII. Atribuciones del Secretario General de Acuerdos
 
 ###### Artículo 242.
 
@@ -3539,7 +3979,9 @@ Los Magistrados Visitadores y personal de la Visitaduría, deberán guardar rese
 
 > <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE OCTUBRE DE 2014)</small>
 
-## Título Primero. De su Integración y Funcionamiento
+## Título Segundo. De la Comisión de Administración
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE OCTUBRE DE 2014)</small>
 
 ### Capítulo I. De su Integración y Funcionamiento
 
@@ -3561,7 +4003,7 @@ Los Magistrados Visitadores y personal de la Visitaduría, deberán guardar rese
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE OCTUBRE DE 2014)</small>
 
-### Capítulo II. De sus Atribuciones
+### Capítulo II. De las Atribuciones de La Comisión de Administración
 
 ###### Artículo 247.
 
@@ -3569,7 +4011,7 @@ Los Magistrados Visitadores y personal de la Visitaduría, deberán guardar rese
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE OCTUBRE DE 2014)</small>
 
-### Capítulo III. Del Presidente
+### Capítulo III. Del Presidente de la Comisión
 
 ###### Artículo 248.
 
@@ -3585,7 +4027,7 @@ Los Magistrados Visitadores y personal de la Visitaduría, deberán guardar rese
 
 # Libro Quinto. Del Tribunal del Trabajo Burocrático
 
-## Título Segundo. De la Comisión de Administración
+## Título Primero. De su Integración y Funcionamiento
 
 ### Capítulo I. De su Naturaleza e Integración
 
@@ -3625,7 +4067,7 @@ En caso de que los Magistrados integrantes del Tribunal del Trabajo Burocrático
 
 Los conflictos que surjan entre el Tribunal del Trabajo Burocrático y sus trabajadores, serán resueltos en única instancia por el Consejo de la Judicatura.
 
-### Capítulo II. De los Requisitos para ser Auxiliar de la Administración de Justicia
+### Capítulo II. Del Nombramiento y Requisitos de los Magistrados
 
 ###### Artículo 254.
 
@@ -3673,7 +4115,7 @@ El Presidente del Tribunal del Trabajo Burocrático, durará en su encargo dos a
 
 A la conclusión ordinaria de los Magistrados del Tribunal del Trabajo Burocrático o por alguna otra de las causas de conclusión previstas en el artículo 23 de este Código, la Comisión de Administración del Tribunal por conducto de su Presidente, dará aviso a la instancia que corresponda hacer el nombramiento en los términos previstos en la Constitución Política del Estado y de este Código.
 
-### Capítulo I. De los Permisos, Licencias y Vacaciones
+### Capítulo III. De su Funcionamiento
 
 ###### Artículo 260.
 
@@ -3711,7 +4153,7 @@ XI. Asignar a los Magistrados a cada una de las Salas del Tribunal; y,
 
 XII. Las demás que determinen la Ley de la materia y su Reglamento Interior.
 
-### Capítulo II. De las Faltas
+### Capítulo IV. De sus Atribuciones
 
 ###### Artículo 262.
 
@@ -3729,9 +4171,7 @@ V. Efectuar el registro de las condiciones generales de trabajo, de los reglamen
 
 VI. Las demás que determinen la Ley de la materia y su Reglamento Interior.
 
-### Capítulo III. De los Impedimentos, Excusas y Recusaciones de los Funcionarios del Poder Judicial
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2012)</small>
+### Capítulo V. De las Atribuciones del Presidente
 
 ###### Artículo 263.
 
@@ -3773,7 +4213,7 @@ XVII. Tramitar la correspondencia relacionada con los asuntos de su competencia,
 
 XVIII. Las demás que determine la Ley de la materia y su Reglamento Interior.
 
-### Capítulo I. De la Responsabilidad
+### Capítulo VI. De las Atribuciones de los Magistrados
 
 ###### Artículo 264.
 
@@ -3793,9 +4233,9 @@ VI. Tramitar la correspondencia relacionada con los asuntos de la competencia de
 
 VII. Las demás que determinen la Ley de la materia y su Reglamento Interior.
 
-## Título Primero. De su Integración y Funcionamiento
+## Título Segundo. De la Comisión de Administración
 
-### Capítulo II. De las Denuncias por Faltas Administrativas
+### Capítulo I. De su Integración y Funcionamiento
 
 ###### Artículo 265.
 
@@ -3809,7 +4249,7 @@ Las sesiones sólo serán válidas con la asistencia de la mayoría de sus integ
 
 El comisionado que disintiere de la mayoría, podrá formular voto particular, el cual deberá insertarse en el acta respectiva si fuere presentado dentro de los tres días siguientes a la fecha del acuerdo.
 
-### Capítulo III. Del Procedimiento
+### Capítulo II. De sus Atribuciones
 
 ###### Artículo 267.
 
@@ -3837,7 +4277,7 @@ X. Administrar, conservar y acondicionar los bienes muebles é inmuebles al serv
 
 XI. Desempeñar cualquier otra función que el Reglamento Interior del Tribunal del Trabajo Burocrático del Poder Judicial le encomiende.
 
-### Capítulo IV. De las Sanciones
+### Capítulo III. Del Presidente
 
 ###### Artículo 268.
 
@@ -3857,7 +4297,7 @@ V. Informar al Consejo de la Judicatura sobre las faltas de sus representantes a
 
 VI. Las demás que le señalen este Código y el Reglamento Interior.
 
-### Capítulo V. De las Causas de improcedencia
+### Capítulo IV. De los Órganos Auxiliares
 
 ###### Artículo 269.
 
@@ -3867,11 +4307,9 @@ Su estructura y atribuciones quedarán determinadas en el Reglamento Interior de
 
 # Libro Sexto. De los Auxiliares de la Administración de Justicia
 
-## Título Primero. De los Derechos y Obligaciones de los Servidores Públicos
+## Título Primero. De su Integración y Funcionamiento
 
-### Capítulo VI. De la Prescripción
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2010)</small>
+### Capítulo I. De su Naturaleza e Integración
 
 ###### Artículo 270.
 
@@ -3917,9 +4355,7 @@ Los albaceas, interventores, depositarios, tutores, curadores, mediadores, conci
 
 Los auxiliares de la administración de justicia, serán nombrados y removidos en los términos que señalen las leyes correspondientes.
 
-### Capítulo Único. De la Remoción
-
-> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2010)</small>
+### Capítulo II. De los Requisitos para ser Auxiliar de la Administración de Justicia
 
 ###### Artículo 275.
 
@@ -3939,7 +4375,9 @@ VI. Los demás que señalen otras disposiciones legales aplicables.
 
 # Libro Séptimo. De los Servidores Públicos del Poder Judicial
 
-## Título Segundo. De la Responsabilidad de los Funcionarios del Poder Judicial
+## Título Primero. De los Derechos y Obligaciones de los Servidores Públicos
+
+### Capítulo I. De los Permisos, Licencias y Vacaciones
 
 ###### Artículo 276.
 
@@ -3984,6 +4422,8 @@ Aquellos que deban cubrir las guardias y que tengan derecho a gozar del periodo 
 El Pleno del Consejo de la Judicatura determinará a los servidores públicos que integrarán las guardias para cubrir los periodos vacacionales, a efecto de no entorpecer las labores judiciales y principalmente los asuntos del orden penal.
 
 Las guardias deberán ser cubiertas preferentemente por el personal que no tenga derecho a vacaciones.
+
+### Capítulo II. De las Faltas
 
 ###### Artículo 283.
 
@@ -4047,6 +4487,10 @@ Las faltas definitivas de los Jueces de Primera Instancia, serán suplidas en lo
 
 Las faltas accidentales y temporales de los Secretarios de Acuerdos de los Juzgados de Primera Instancia, serán suplidas por el Actuario Judicial que designe el Juez, quien de inmediato deberá dar el aviso correspondiente al Consejo de la Judicatura, para que ratifique o, en su caso, nombre al Secretario que cubrirá esa falta, lo cual deberá realizarse en un plazo no mayor a quince días.
 
+### Capítulo III. De los Impedimentos, Excusas y Recusaciones de los Funcionarios del Poder Judicial
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 294.
 
 Los Magistrados, Consejeros, Jueces, Secretarios Generales de Acuerdos y Secretarios de Acuerdos, Defensores Públicos y demás integrantes de los órganos del Poder Judicial, estarán impedidos de conocer y en la obligación de excusarse, en los casos siguientes:
@@ -4101,9 +4545,9 @@ A los servidores públicos del Poder Judicial que teniendo la obligación de exc
 
 Las excusas y recusaciones se regirán por las disposiciones de los ordenamientos procesales respectivos.
 
-## Título Tercero. De la Remoción de los Funcionarios y Servidores Públicos del Poder Judicial del Estado
+## Título Segundo. De la Responsabilidad de los Funcionarios del Poder Judicial
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE MAYO DE 2010)</small>
+### Capítulo I. De la Responsabilidad
 
 ###### Artículo 298.
 
@@ -4147,6 +4591,8 @@ XV. Las previstas en la Ley de Responsabilidades de los Servidores Públicos del
 
 XVI. Las demás que determinen otras disposiciones legales aplicables.
 
+### Capítulo II. De las Denuncias por Faltas Administrativas
+
 ###### Artículo 299.
 
 El procedimiento para determinar la responsabilidad de los funcionarios y trabajadores del Poder Judicial a que se refiere este Título, se iniciará de oficio, por queja o denuncia, presentada por persona legitimada o facultada jurídicamente, por el funcionario público que tenga conocimiento de hechos ilegales o por el Ministerio Público.
@@ -4177,6 +4623,8 @@ III. Expresará, los hechos u omisiones que consideran son la falta cometida en 
 
 IV. Las pruebas con las que pretenda acreditar la falta y los argumentos para demostrarla.
 
+### Capítulo III. Del Procedimiento
+
 ###### Artículo 304.
 
 El procedimiento se instruirá y resolverá en un término que no excederá de 90 días hábiles, en los términos siguientes:
@@ -4205,6 +4653,20 @@ Si del informe o de los resultados de la audiencia no se desprenden elementos su
 
 Si el servidor público suspendido temporalmente no resultare responsable de la falta que se le imputa, será restituido en el goce de sus derechos y se le cubrirán las percepciones que debiera haber recibido durante el tiempo en que se hallare suspendido.
 
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 305 Bis.
+
+La queja promovida en contra de un juzgador por no realizar un acto procesal dentro del plazo señalado por la legislación aplicable, podrá ser promovida por cualquier parte del procedimiento y se tramitará sin perjuicio de las otras consecuencias legales que tenga la omisión del juzgador.
+
+A partir de que se advierta la omisión del acto procesal, la queja podrá interponerse ante el Consejo de la Judicatura. Éste deberá tramitarla y resolverla en un plazo no mayor a tres días.
+
+A partir de que se recibió la queja por el órgano jurisdiccional, éste tiene un plazo de veinticuatro horas para subsanar dicha omisión, o bien, realizar un informe breve y conciso sobre las razones por las cuales no se ha verificado el acto procesal o la formalidad exigida por la norma omitida, y remitir el recurso y dicho informe al Consejo de la Judicatura.
+
+El Consejo tendrá cuarenta y ocho horas para resolver si dicha omisión se ha verificado. En ese caso, el Consejo ordenará la realización del acto omitido y apercibirá al órgano jurisdiccional de las imposiciones de las sanciones previstas en este ordenamiento, en caso de incumplimiento. En ningún caso, el Consejo podrá ordenar al Órgano jurisdiccional los términos y las condiciones en que deberá subsanarse la omisión, debiéndose limitar su resolución a que se realice el acto omitido.
+
+### Capítulo IV. De las Sanciones
+
 ###### Artículo 306.
 
 Por causa de responsabilidad administrativa probada a través del procedimiento previsto en este Título, el Consejo de la Judicatura podrá aplicar las siguientes sanciones:
@@ -4223,6 +4685,8 @@ VI. Inhabilitación para desempeñar empleos, cargos o comisiones en el servicio
 
 Cuando además de las faltas, se advierta que los servidores públicos hayan incurrido en hechos que puedan ser constitutivos de delitos, se pondrá en conocimiento del Ministerio Público, para los efectos legales correspondientes.
 
+### Capítulo V. De las Causas de improcedencia
+
 ###### Artículo 307.
 
 Será declarada la improcedencia de la responsabilidad administrativa en los siguientes casos:
@@ -4238,6 +4702,10 @@ IV. Por resoluciones judiciales en contra de las que proceda algún recurso o me
 V. Por resoluciones judiciales en las que se esté tramitando ante los tribunales de alzada, algún recurso o defensa que pueda tener por efecto modificar, revocar o nulificar el acto que dio lugar a la inconformidad, y
 
 VI. Las demás que refiera el Reglamento de la materia.
+
+### Capítulo VI. De la Prescripción
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### Artículo 308.
 
@@ -4266,6 +4734,14 @@ La prescripción no se interrumpe por la tramitación del procedimiento de Media
 ###### Artículo 311.
 
 En materia laboral, lo relativo a los términos de la prescripción, se aplicará de manera supletoria en lo que no contradiga a este Código, lo previsto por la Ley del Servicio Civil del Estado y los Municipios del Estado de Chiapas.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2010)</small>
+
+## Título Tercero. De la Remoción de los Funcionarios y Servidores Públicos del Poder Judicial del Estado
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE MAYO DE 2010)</small>
+
+### Capítulo Único. De la Remoción
 
 > <small>(ADICIONADO, P.O. 26 DE MAYO DE 2010)</small>
 
@@ -4436,3 +4912,9 @@ Artículo Segundo.- Se derogan las disposiciones que se opongan a lo dispuesto e
 Artículo Tercero.- Dentro del plazo de sesenta días contados a partir de la publicación del presente decreto, deberán llevarse a cabo las reformas a los ordenamientos legales, a fin de adecuarlas a lo previsto en este Código.
 
 Artículo Cuarto.- La Secretaría de Hacienda proveerá los recursos presupuestales y financieros para el buen funcionamiento de las Salas Regionales Colegiadas Civiles y Mixtas del Tribunal Superior de Justicia del Estado.
+
+P.O. 27 DE NOVIEMBRE DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
