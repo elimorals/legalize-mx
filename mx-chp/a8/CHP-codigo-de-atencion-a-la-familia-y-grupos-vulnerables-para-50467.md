@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-atencion-a-la-familia-y-grupos-vulnerables-para-50467
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-02"
-last_updated: "2010-11-05"
+last_updated: "2014-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50467&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO DE ATENCIÓN A LA FAMILIA Y GRUPOS VULNERABLES PARA EL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Chiapas, el martes 2 de mayo de 2006.
 
@@ -865,7 +865,7 @@ VI. A emitir su opinión en todos los asuntos que le afecten, a ser escuchado to
 
 VII. A recibir un trato digno y apropiado, cuando sean víctimas de cualquier tipo de ilícito o cuando ellos mismos cometan infracciones;
 
-VIII. A recibir el apoyo de las entidades estatales, en lo relativo al ejercicio y respeto a sus derechos, a través de las instituciones creadas para tal efecto; y (sic),
+VIII. A recibir el apoyo de las entidades estatales, en lo relativo al ejercicio y respeto a sus derechos, a través de las instituciones creadas para tal efecto; y,
 
 > <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
@@ -1827,7 +1827,7 @@ VIII. Atender la solicitud de las personas que tengan conocimiento de la violenc
 
 IX. Emitir opinión, informe o dictamen administrativo de los asuntos en los que así sea requerido, por parte de las autoridades civiles y penales del Estado; y,
 
-X. Dar aviso a la autoridad jurisdiccional y en su caso al Fiscal del Ministerio Público para que intervengan (sic) de oficio en los asuntos que afecten a la familia, especialmente tratándose de menores, de alimentos y de cuestiones relacionadas con violencia familiar, a fin de que se dicten las medidas precautorias o se inicien los trámites procedimentales que corresponda.
+X. Dar aviso a la autoridad jurisdiccional y en su caso al Fiscal del Ministerio Público para que intervengan de oficio en los asuntos que afecten a la familia, especialmente tratándose de menores, de alimentos y de cuestiones relacionadas con violencia familiar, a fin de que se dicten las medidas precautorias o se inicien los trámites procedimentales que corresponda.
 
 ###### Artículo 147.
 
@@ -1849,7 +1849,7 @@ En materia de violencia familiar, la Secretaría de Gobierno le corresponde:
 
 > <small>(F. DE E., P.O. 27 DE SEPTIEMBRE DE 2006)</small>
 
-I. Emitir los lineamientos técnico (sic) jurídicos a que se sujetará el procedimiento dispuesto en el Título Segundo del Libro Tercero, del presente Código;
+I. Emitir los lineamientos técnico jurídicos a que se sujetará el procedimiento dispuesto en el Título Segundo del Libro Tercero, del presente Código;
 
 II. Establecer las bases para el sistema del registro de la información estadística en el Estado, sobre violencia familiar;
 
@@ -1915,77 +1915,41 @@ III. Propiciar la generación de un entorno educativo, medio ambiente social lib
 
 IV. Desarrollar programas que impulsen una cultura de paz, a través de la promoción y difusión de los beneficios de la convivencia familiar y social pacífica.
 
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 ## Título Segundo. De los Medios Alternativos de Solución
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 ### Capítulo I. Del Procedimiento Conciliatorio y de Arbitraje
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
-
 ###### Artículo 153.
 
-La Procuraduría así como las Procuradurías auxiliares en el Estado, deberán conocer, tramitar y resolver, a través de los medios alternativos de solución de conflictos previstos en la Ley de Justicia Alternativa del Estado de Chiapas, los asuntos que contengan elementos de violencia familiar que sean de su competencia, siempre y cuando no se contravengan disposiciones de orden público, no se trate de derechos irrenunciables, no se afecten derechos de terceros o exista recurrencia de leyes federales.
-
-No será materia del procedimiento previsto en el presente Código, los derechos relativos al estado civil de las personas o los que las leyes le otorguen el carácter de irrenunciables o que constituyan ilícitos perseguibles de oficio.
-
-Los Procuradores adscritos a la Procuraduría de Familia y Adopciones dependiente del DIF-Chiapas, son considerados especialistas públicos por ministerio de ley, de conformidad con lo establecido por la Ley de Justicia Alternativa del Estado de Chiapas.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2014)
 
 ###### Artículo 154.
 
-El procedimiento se iniciará:
-
-I. De oficio: cuando por cualquier medio se tenga conocimiento de un hecho constitutivo de violencia familiar; y,
-
-II. A petición de parte: cuando la persona receptora de violencia familiar solicite la instauración del procedimiento.
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
-
-Será obligación de la Procuraduría, antes de iniciar cualquier procedimiento, preguntar a las partes si éstos se encuentran dirimiendo sus conflictos ante autoridad civil o penal; informará a las partes del contenido y alcances del presente Código y de los medios alternativos de solución de conflictos previstos en el mismo, de los procedimientos civiles y penales que existan en la materia; así como de las sanciones a que se harán acreedores en caso de incumplimiento o reincidencia.
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2014)
 
 ###### Artículo 155.
 
-Las partes en conflicto familiar podrán resolver sus diferencias a través de los medios alternativos de solución de conflictos los cuales podrán ser:
-
-I. Conciliación;
-
-II. Mediación; y,
-
-III. Arbitraje.
-
-Los medios alternativos deberán ser previos al proceso jurisdiccional a cargo de los tribunales del fuero común; sin embargo, en caso de que persista el conflicto y aún habiéndose iniciado el proceso jurisdiccional, las personas pueden recurrir en cualquier momento a los procedimientos previstos en este Código; en consecuencia, podrán aplicarse tanto en controversias jurídicas que no han sido planteadas ante los órganos jurisdiccionales, como en aquellas que sean materia de un procedimiento judicial formal instaurado, pero, en este último caso, en tanto no se concluya la tramitación del medio alternativo, no se continuará el proceso jurisdiccional de conformidad con las disposiciones establecidas en la Ley de Justicia Alternativa del Estado de Chiapas.
-
-Cuando las partes comparezcan a la Procuraduría para someter el conflicto a los medios alternativos de solución, estando en trámite un procedimiento judicial, sin hacerlo del conocimiento del Juez, el procurador, en su caso, deberá comunicarlo de inmediato al órgano jurisdiccional que corresponda, a fin de salvaguardar sus derechos procesales.
-
-El procedimiento de arbitraje estará sujeto a lo dispuesto en la Ley de Justicia Alternativa del Estado de Chiapas.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2014)
 
 ###### Artículo 156.
 
-La representación jurídica de las personas receptoras de violencia familiar, que carezcan de capacidad de ejercicio y tengan conflictos de intereses con quien ejerza la patria potestad, la tutela, estén encargados de personas adultas mayores o de personas con discapacidad, la tendrá:
-
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
-
-I. El Procurador de la Familia y Adopciones, para actuar ante cualquier autoridad y ejercer las acciones conducentes, en los términos del Código Civil y Penal para el Estado; y,
-
-II. El fiscal del Ministerio Público para actuar en el procedimiento a que se refiere este Código.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2014)
 
 ###### Artículo 157.
 
-Cuando la Procuraduría o cualquiera de sus Procuradurías Auxiliares en el Estado, tengan conocimiento de hechos de violencia familiar constitutivos de delito, dará vista al Fiscal del Ministerio Público.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2014)
 
 ###### Artículo 158.
 
-Antes de iniciar el procedimiento y en cualquier etapa del mismo, la Procuraduría podrá acordar como medida de protección, el resguardo de personas en los albergues destinados para tal fin, debiendo promover la medida legal conducente a la brevedad posible, siempre y cuando se den los siguientes supuestos:
-
-I. Cuando lo solicite la persona receptora de violencia familiar y esté en peligro su integridad; y,
-
-II. Cuando se trate de personas que carezcan de capacidad de ejercicio y exista conflicto de intereses entre éste y quien ejerza la patria potestad o la tutela, para salvaguardar su integridad física o psicoemocional.
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2014)
 
 ###### Artículo 159.
 
-En los procedimientos de conciliación, mediación o arbitraje, cuando se trate de derechos de menores así como de personas adultas mayores, antes de dictar la resolución o de establecer lo procedente, el Procurador deberá escucharles atendiendo a su edad y condición, a fin de que su opinión sea tomada en cuenta en todos los asuntos que le afecten.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2014)
 
 ###### Artículo 160.
 
@@ -2001,7 +1965,7 @@ En los procedimientos de conciliación, mediación o arbitraje, cuando se trate 
 
 ###### Artículo 163.
 
-Si alguna de las partes no acepta la continuación del procedimiento conciliatorio, la Procuraduría deberá orientar a las mismas, en relación a la existencia del procedimiento arbitral, para dirimir la controversia existente.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2014)
 
 ###### Artículo 164.
 
@@ -2017,51 +1981,27 @@ Si alguna de las partes no acepta la continuación del procedimiento conciliator
 
 ###### Artículo 167.
 
-La Procuraduría, deberá dar el debido seguimiento de los casos de su competencia, consistentes en:
-
-I. Evaluar los resultados de las medidas psicoterapéuticas reeducativas integrales y, en su caso, implementar las acciones conducentes que eliminen la violencia familiar;
-
-II. Atender el desarrollo de las etapas procesales y los efectos jurídicos que conlleven, en los casos en que se requiera intervención de la autoridad judicial; y,
-
-III. Para el debido seguimiento y evaluación de las medidas implementadas en cada caso específico, la Procuraduría, se auxiliará en las visitas de inspección que realicen las trabajadoras sociales, a fin de evaluar el avance en cada caso.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2014)
 
 ###### Artículo 168.
 
-Se consideran infracciones al presente Código:
-
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
-
-I. El no asistir sin causa justificada a los citatorios que gire la Procuraduría, que se señalen en este Código;
-
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
-
-II. El incumplimiento a la resolución derivada de la conciliación, mediación o arbitraje; y (sic),
-
-III. El incumplimiento al laudo derivado del arbitraje; y,
-
-IV. Demás actos de violencia familiar previstos en el presente Código.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2014)
 
 ###### Artículo 169.
 
-Las sanciones aplicables al presente Código serán:
-
-I. Multa de cincuenta a doscientos días de salario mínimo vigente en la entidad al momento de cometer la infracción; si el infractor fuese jornalero, obrero o trabajador no asalariado, la multa será equivalente a un día de su jornal, salario o ingresos diario; y,
-
-II. Arresto administrativo inconmutable hasta por 36 horas;
-
-Para la aplicación de las sanciones previstas en este artículo, se deberá atender a la gravedad de la infracción, así como a la situación económica y a la reincidencia del infractor.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2014)
 
 ###### Artículo 170.
 
-Para la acreditación de las infracciones y de la reincidencia a que hacen mención las fracciones anteriores, se citará nuevamente a las partes para que éstas manifiesten lo que a su derecho convenga, antes de que el conciliador o amigable componedor sancione dicho incumplimiento, sin mayor justificación.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2014)
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 ### Capítulo II. De los Medios de Impugnación
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+###### ARTÍCULO 171.
 
-###### Artículo 171.
-
-Contra las resoluciones y la imposición de sanciones previstas en este Código, procederá el recurso que al respecto establece la Ley de Procedimientos Administrativos para el Estado de Chiapas.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2014)
 
 # Libro Cuarto. De las Personas con Discapacidad
 
@@ -3712,3 +3652,9 @@ P.O. 5 DE NOVIEMBRE DE 2010.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que tengan igual o menor jerarquía al presente Decreto, y que se opongan al mismo.
+
+P.O. 27 DE NOVIEMBRE DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
