@@ -4,7 +4,7 @@ identifier: "CHP-codigo-penal-para-el-estado-de-chiapas-55156"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-14"
-last_updated: "2014-10-29"
+last_updated: "2014-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 14 de marzo de 2007.
 
@@ -179,11 +179,11 @@ Incumpliendo el activo en ambos casos un deber de cuidado que personal y objetiv
 
 Principio de intrascendencia de la pena.- La responsabilidad penal se limita al sujeto activo y a sus bienes para los efectos de la reparación del daño, para este último efecto la responsabilidad penal trascenderá a los bienes de terceros únicamente en los casos que de manera expresa señale la ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 17.
 
-Principios de Presunción de Inocencia y de Legalidad.-
-
-Toda persona será considerada inocente hasta que no se demuestre su culpabilidad en la comisión de un delito.
+Principios de Presunción de Inocencia y de Legalidad. Toda persona se presume inocente y será considerada como tal mientras no se declare su responsabilidad.
 
 Principio de Legalidad.- No podrá imponerse pena o medida de seguridad sino por la realización de una acción u omisión expresamente prevista como delito en una ley vigente al momento de llevarse a cabo; asimismo, la pena o medida de seguridad impuestas deberán estar establecidas en la ley.
 
@@ -245,6 +245,8 @@ Tentativa Inidónea y Delito Imposible.- No será punible la tentativa cuando se
 
 ### Capítulo VI. Causas de Exclusión del Delito
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 24.
 
 Concurso Real y Concurso Ideal de Delitos.- Existe concurso real de delitos cuando con pluralidad de acciones u omisiones se cometan varios delitos.
@@ -259,59 +261,73 @@ No habrá concurso real de delitos, cuando las acciones o las omisiones reúnan 
 
 ###### Artículo 25.
 
-Causas de Exclusión del Delito.- El delito se excluye por:
+Causas de Exclusión del Delito.- El delito se excluye cuando se actualice alguna causa de atipicidad, de justificación o de inculpabilidad.
 
-I. Ausencia de Conducta.- La actividad o la inactividad se realicen sin la intervención de la voluntad del agente;
+Son causas de atipicidad: La ausencia de voluntad o de conducta, falta de alguno de los elementos del tipo penal, el consentimiento de la víctima que recaiga sobre algún bien jurídico disponible, el error de tipo vencible, así como el error de tipo invencible.
 
-II. Atipicidad.- No se acredite la existencia de alguno de los elementos que integran el tipo legal (o descripción legal) de que se trate;
+Son causas de justificación: El consentimiento presunto, la legítima defensa, el estado de necesidad justificante, el ejercicio de un derecho y el cumplimiento de un deber.
 
-III. Consentimiento del titular del bien jurídico.- Se actúe con el consentimiento del titular del bien jurídico afectado o de quien legítimamente pueda otorgarlo, siempre que se satisfagan los siguientes requisitos:
+Son causas de inculpabilidad: El error de prohibición invencible, el estado de necesidad disculpante, la inimputabilidad y la inexigibilidad de otra conducta.
 
-a) Que el bien jurídico sea disponible;
+A) Causas de atipicidad:
+
+I.- Ausencia de voluntad o de conducta.- La actividad o la inactividad se realicen sin la intervención de la voluntad del agente.
+
+II.- Falte alguno de los elementos que integran el tipo penal (o descripción legal) de que se trate.
+
+III.- Consentimiento del titular del bien jurídico.- Se actúe con el consentimiento del titular del bien jurídico afectado o de quien legítimamente pueda otorgarlo, siempre que se satisfagan los siguientes requisitos:
+
+a) Que el bien jurídico sea disponible.
 
 b) Que el titular del bien jurídico o la persona legitimada para otorgar el consentimiento, tenga la capacidad jurídica para disponer libremente del bien;
 
-c) Que el consentimiento sea expreso o tácito, y no medie vicio alguno en su otorgamiento. Se presume que hay consentimiento tácito cuando el hecho se realice en circunstancias tales que permitan suponer fundadamente que, de haberse consultado al titular del bien jurídico o a quien esté legitimado para consentir, éstos hubiesen otorgado el consentimiento;
+c) Que el consentimiento sea expreso o tácito, y no medie vicio alguno en su otorgamiento;
 
 d) Que el consentimiento no sea un elemento del tipo penal, en cuya valoración se refiera a la tipicidad del mismo.
 
-IV. Legítima Defensa.- En defensa de bienes jurídicos propios o ajenos, repela una agresión real, actual o inminente realizada sin derecho, siempre que exista la necesidad de la defensa, se utilicen medios racionales y no medie provocación dolosa suficiente e inmediata por parte del agredido o de la persona que se defiende.
+IV.- Error de Tipo.- Se realice la acción o la omisión bajo un error invencible, respecto de alguno de los elementos objetivos o normativos del tipo. En caso de que el error de tipo sea vencible, el delito no se excluye y se estará para los efectos de la pena a lo dispuesto en los artículos 93 y 94 de este Código.
+
+B). Causas de justificación:
+
+I.- Consentimiento presunto. Se presume que hay consentimiento, cuando el hecho se realiza en circunstancias tales que permitan suponer fundadamente que, de haberse consultado al titular del bien o a quien esté legitimado para consentir, éstos hubiesen otorgado el consentimiento.
+
+II.- Legítima defensa.- En defensa de bienes jurídicos propios o ajenos, repela una agresión real, actual o inminente realizada sin derecho, siempre que exista la necesidad de la defensa, se utilicen medios racionales y no medie provocación dolosa suficiente e inmediata por parte del agredido o de la persona que se defiende.
 
 Se entenderá por medio racional, el menos dañoso o el uso menos dañoso, del mismo, cuando únicamente se disponga de un medio de defensa.
 
 Se presumirá como defensa legítima, salvo prueba en contrario, la causación de un daño a quien por cualquier medio trate de penetrar o penetre sin derecho al lugar en que habite de manera temporal o permanente la persona que se defiende, su familia, o cualquier otra persona cuyos derechos y bienes jurídicos tutelados, el agente tenga obligación de defender, o bien en las mismas circunstancias trate de penetrar o penetre a las dependencias del agente, al sitio en donde se encuentren bienes propios o ajenos respecto de los que tenga la misma obligación de defensa. Igual presunción existirá cuando el daño se cause a un intruso, al momento de sorprenderlo en alguno de los lugares antes citados, en circunstancias tales que revelen la probabilidad de una agresión.
 
-V. Estado de Necesidad Justificante.- Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o de un daño inminente, no ocasionado dolosamente por el agente, lesionando otro bien jurídico de igual o menor valor que el salvaguardado, siempre que el peligro o el daño inminente no sean evitables por otros medios y el agente no tuviere el deber jurídico de afrontar el riesgo.
+III.- Estado de necesidad justificante.- Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o de un daño inminente, no ocasionado dolosamente por el agente, lesionando otro bien jurídico de igual o menor valor que el salvaguardado, siempre que el peligro o el daño inminente no sean evitables por otros medios y el agente no tuviere el deber jurídico de afrontar el riesgo.
 
-VI. Cumplimiento de un Deber y Ejercicio de un Derecho.- Se obre en cumplimiento de un deber jurídico o en ejercicio de un derecho, siempre que exista necesidad racional del medio empleado para cumplir el deber o ejercer el derecho.
+IV.- Cumplimiento de un deber o ejercicio de un derecho.- Se obre en cumplimiento de un deber jurídico o en ejercicio de un derecho, siempre que exista necesidad racional del medio empleado para cumplir el deber o ejercer el derecho.
 
-VII. Inimputabilidad y Acción Libre en su Causa.- Al momento de realizar el hecho típico, el agente no tenga la capacidad de comprender el carácter ilícito del hecho o de conducirse de acuerdo con esa comprensión, en virtud de padecer trastorno mental, desarrollo intelectual retardado o cualquiera otra causa que produzca los mismos efectos, con excepción de aquéllos casos en que el propio sujeto activo haya provocado dolosa o culposamente dicho estado, en cuyo caso responderá por el resultado siempre que lo haya previsto o le fuera previsible.
+C.) Causas de inculpabilidad:
+
+I.- Error de prohibición. Se realice la acción o la omisión bajo un error invencible, respecto de la antijuridicidad de la conducta, ya sea porque el sujeto activo incurra en error respecto de la existencia de la ley o el alcance de la misma, o porque estime erróneamente que está justificada su conducta. Si el error de prohibición es vencible, el delito no se excluye y se estará para los efectos de la pena a lo dispuesto en los artículos 93 y 94 de este Código.
+
+II.- Estado de necesidad disculpante: Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el sujeto, lesionando otro bien de igual valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el sujeto activo no tuviere el deber jurídico de afrontarlo.
+
+III.- Inimputabilidad y Acción Libre en su Causa.- Al momento de realizar el hecho típico, el agente no tenga la capacidad de comprender el carácter ilícito del hecho o de conducirse de acuerdo con esa comprensión, en virtud de padecer trastorno mental, desarrollo intelectual retardado o cualquiera otra causa que produzca los mismos efectos, con excepción de aquéllos casos en que el propio sujeto activo haya provocado dolosa o culposamente dicho estado, en cuyo caso responderá por el resultado siempre que lo haya previsto o le fuera previsible.
 
 Las reglas de la acción libre en su causa, también se aplicarán para los casos en los que el sujeto activo se coloque en la situación de ausencia de voluntad.
 
 Cuando se demuestre pericialmente que la imputabilidad se hallaba disminuida al momento de realizar el hecho típico por las causas señaladas con antelación, el juzgador tomará las medidas que para el caso se contengan en la ley.
 
-VIII. Error de Tipo y Error de Prohibición.- Se realice la acción o la omisión bajo un error invencible:
+IV.- Inexigibilidad de otra conducta.- Atentas las circunstancias que concurren en la realización de una conducta típica y antijurídica, no sea racionalmente exigible al sujeto activo, una conducta diversa a la que realizó en virtud de no haberse podido conducir conforme a derecho.
 
-a) Respecto de alguno de los elementos objetivos o normativos del tipo;
+V.- Se realice la conducta en la práctica de un deporte, de una ciencia, de una disciplina o de una profesión autorizada por el Estado, siempre que se hayan seguido estrictamente las reglas que regulen dicha práctica, deporte, ciencia o arte.
 
-b) Respecto de la antijuridicidad de la conducta, ya sea porque el sujeto activo incurra en error respecto de la existencia de la ley o el alcance de la misma, o porque estime erróneamente que está justificada su conducta.
-
-Si el error de que se trate es vencible, el delito no se excluye y se estará para los efectos de la pena a lo dispuesto en los artículos 93 y 94 de este Código.
-
-IX. Exculpación por Inexigibilidad de otra Conducta.- Atentas las circunstancias que concurren en la realización de una conducta típica y antijurídica, no sea racionalmente exigible al sujeto activo, una conducta diversa a la que realizó en virtud de no haberse podido conducir conforme a derecho.
-
-X. Se realice la conducta en la práctica de un deporte, de una ciencia, de una disciplina o de una profesión autorizada por el Estado, siempre que se hayan seguido estrictamente las reglas que regulen dicha práctica, deporte, ciencia o arte.
-
-XI. El resultado sea producido por caso fortuito.
+VI.- El resultado sea producido por caso fortuito.
 
 ###### Artículo 26.
 
 Las Causas de Exclusión del Delito, se analizarán de oficio en cualquier estado del procedimiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 27.
 
-Exceso.- Existe exceso, cuando el sujeto activo en los supuestos de las fracciones III V y VI, prolonga innecesariamente la conducta típica que originalmente fue justificada, o continúa la conducta justificada haciendo uso de medios no racionales, o genere en el pasivo un daño innecesario o irracional.
+Exceso.- Existe exceso, cuando el sujeto activo en los supuestos de la fracción III, del apartado A, y fracciones II y III, del apartado B, prolonga innecesariamente la conducta típica que originalmente fue justificada, o continúa la conducta justificada haciendo uso de medios no racionales, o genere en el pasivo un daño innecesario o irracional.
 
 Para los efectos de la penalidad de estos supuestos, se estará en lo supuesto en el artículo 95 de este Código.
 
@@ -475,13 +491,11 @@ I.- El sujeto pasivo del delito.
 
 II.- En caso de fallecimiento del sujeto pasivo, sus dependientes económicos, herederos o derechohabientes en la proporción que señale el derecho de sucesiones.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 44.
 
-Exigibilidad de la Reparación del Daño.- La reparación del daño exigible al sujeto activo, siendo una pena pública, se hará efectiva ante el órgano jurisdiccional competente en materia civil, mediante el procedimiento establecido en el Título Octavo, Capítulo IV, secciones Primera, Segunda y Tercera del Código de Procedimientos Civiles del Estado, o mediante el procedimiento económico-coactivo del Estado, por tratarse de una acción civil de interés público. Cuando la reparación del daño deba exigirse a terceros, tendrá el carácter de responsabilidad civil y se tramitará para su procedencia y liquidación en forma de incidente de ejecución de sentencias penales, en el que participarán los terceros obligados para ser oídos en juicio, en los términos que fije el Código de Procedimientos Penales, pero su ejecución será en los términos de la primera parte de este artículo.
+Exigibilidad de la Reparación del Daño.- La reparación del daño exigible al sujeto activo, siendo una pena pública, se hará efectiva ante el órgano jurisdiccional competente en materia civil, mediante el procedimiento, establecido en el Título Octavo, Capítulo IV, secciones Primera, Segunda y Tercera del Código de Procedimientos Civiles del Estado, o mediante el procedimiento económico-coactivo del Estado, por tratarse de una acción civil de interés público. Cuando la reparación del daño deba exigirse a terceros, tendrá el carácter de responsabilidad civil y se tramitará para su procedencia y liquidación en forma de incidente de ejecución de sentencias penales, en el que participarán los terceros obligados para ser oídos en juicio, en los términos que fije el Código de Procedimientos Penales aplicable, pero su ejecución será en los términos de la primera parte de este artículo.
 
 ###### Artículo 45.
 
@@ -545,7 +559,9 @@ En caso de bienes asegurados que se encuentren a disposición de la autoridad qu
 
 Los bienes, objetos o valores que se encuentren a disposición de autoridades investigadoras o judiciales, que no hayan sido decomisados y que no sean reclamados por quien tenga derecho a ello en un lapso de noventa días naturales, contados a partir de la notificación al interesado, se destinarán por la autoridad competente, según su naturaleza y utilidad, al beneficio de la procuración y administración de justicia, o a cualquier otro destinatario dentro de la administración pública estatal, o bien se procederá a su venta a través de los procedimientos de licitación pública, subasta pública, remate o adjudicación directa, el producto de la operación se mantendrá a disposición de quien tenga derecho a recibirlo durante un término de tres meses, contados a partir de la fecha de la notificación correspondiente; si el interesado se presenta a reclamar sus derechos en ese término, se le harán las deducciones de los gastos ocasionados por la operación, en caso de que no se presente en dicho término, el producto de la operación se aplicará al mejoramiento de la procuración y de la administración de justicia.
 
-Para los efectos de los párrafos anteriores, se estará a lo previsto en la Ley de Bienes Asegurados, Abandonados y Decomisados para el Estado de Chiapas, y demás disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+Para los efectos de los párrafos anteriores, se estará a lo previsto en la Ley para la Administración de Bienes Asegurados, Decomisados y Abandonados para el Estado de Chiapas, y demás disposiciones legales aplicables.
 
 Los bienes asegurados que por su naturaleza sean de rápida descomposición o deterioro, podrán ser donados para evitar su desaprovechamiento a instituciones privadas autorizadas para recibir donativos que los requieran para actividades altruistas, a organizaciones civiles para ser utilizados con fines educativos o de asistencia social, a la Administración Pública Estatal o a los Municipios.
 
@@ -715,11 +731,9 @@ Si se trata de internamiento, el sujeto inimputable permanente será recluido en
 
 En el caso de que los inimputables permanentes tengan el hábito o la necesidad de consumir estupefacientes, psicotrópicos, bebidas embriagantes o cualquier otra sustancia tóxica, el órgano jurisdiccional competente, deberá ordenar también el tratamiento que proceda por parte de la autoridad sanitaria competente o de cualquier otro servicio médico necesario, bajo la supervisión de aquél.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
-
-En caso de que el estado de inimputabilidad del sujeto activo o del sentenciado sea transitorio, se procederá en los términos dispuesto por este Código y por el Código de Procedimientos Penales para el Estado.
+En caso de que el estado de inimputabilidad del sujeto activo o del sentenciado sea transitorio, se procederá en los términos dispuesto por este Código y por el Código de Procedimientos Penales aplicable.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -747,6 +761,8 @@ Concluido el tiempo de tratamiento, la autoridad competente entregará al inimpu
 
 ### Capítulo I. Reglas Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 70.
 
 Cuando el sujeto activo haya sido condenado por un delito cuya comisión obedezca a adicciones o abuso de estupefacientes, psicotrópicos, bebidas alcohólicas o cualquier otra sustancia tóxica, se le aplicará un tratamiento de desintoxicación y de combate a adicciones, independientemente la pena que le corresponda por el delito cometido.
@@ -773,7 +789,7 @@ Los tratamientos señalados en el presente artículo, no podrán exceder en su d
 
 ###### Artículo 71.
 
-El Órgano Jurisdiccional, impondrá las penas y medidas de seguridad que estime justas y procedentes para cada delito, dentro de los límites fijados por la ley tomando como base la gravedad del ilícito, las circunstancias exteriores de ejecución, las peculiares del delincuente, así como su grado de culpabilidad, tomando en cuenta:
+El Órgano Jurisdiccional, impondrá las penas y medidas de seguridad que estime justas y procedentes para cada delito, dentro de los límites fijados por la ley tomando como base la gravedad de la conducta típica y antijurídica, las circunstancias exteriores de ejecución, las peculiaridades del sentenciado, así como su grado de culpabilidad, tomando en cuenta:
 
 I. La naturaleza de la acción u omisión y de los medios empleados para ejecutarla;
 
@@ -877,6 +893,8 @@ Cuando no se pueda establecer el daño que el sujeto activo pretendió causar, s
 
 ### Capítulo VII. Punibilidad para los Casos de Error
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 85.
 
 En los casos de delitos culposos, se impondrá de la cuarta parte del mínimo a la cuarta parte del máximo de la sanción fijada para la comisión dolosa del delito de que se trate, según el tipo básico, con excepción de aquellos casos en que la ley señale una pena específica para delitos culposos concretos. En ningún caso la pena establecida podrá ser menor a la mínima señalada en el artículo 31, de este Código.
@@ -955,11 +973,13 @@ En caso de delito continuado, se aumentará desde una mitad hasta las dos tercer
 
 ###### Artículo 93.
 
-En caso de que el error de tipo señalado en el artículo 25 fracción VIII inciso a) de este Código sea vencible, se impondrá la punibilidad del delito culposo siempre y cuando él delito del que se trate admita dicha forma de realización.
+En caso de que el error de tipo señalado en el artículo 25, fracción IV, apartado A, de este Código sea vencible, se impondrá la punibilidad del delito culposo siempre y cuando él delito del que se trate admita dicha forma de realización.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 94.
 
-En caso de que el error de prohibición señalado en el artículo 25 fracción VIII inciso b) de este Código sea vencible, la pena se atenuará y se aplicará del mínimo hasta una tercera parte de la pena máxima establecida para el delito de que se trate.
+En caso de que el error de prohibición señalado en el artículo 25, fracción I, apartado C, de este Código sea vencible, la pena se atenuará y se aplicará del mínimo hasta una tercera parte de la pena máxima establecida para el delito de que se trate.
 
 ### Capítulo I. Ejecución de la Sentencia
 
@@ -1031,13 +1051,11 @@ En caso de hacerse efectiva la pena de prisión sustituida, se tomará en cuenta
 
 En todo caso el Juez escuchará el parecer del Ministerio Público.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 100.
 
-El sentenciado que habiendo compurgado al menos una tercera parte de la pena de prisión que le fue impuesta, considere que han desaparecido o al menos se han modificado sustancialmente las razones por las cuales se le negó el beneficio de la sustitución de la pena, podrá promover ante el Juez de ejecución dicha conmutación a través del incidente de ejecución de sentencia previsto por el Código de Procedimientos Penales para el Estado.
+El sentenciado que habiendo compurgado al menos una tercera parte de la pena de prisión que le fue impuesta, considere que han desaparecido o al menos se han modificado sustancialmente las razones por las cuales se le negó el beneficio de la sustitución de la pena, podrá promover ante el juez de ejecución dicha conmutación a través del incidente de ejecución de sentencia previsto por el Código de Ejecución de Sanciones Penales y Medidas de Libertad Anticipada.
 
 ###### Artículo 101.
 
@@ -1143,13 +1161,11 @@ En caso de muerte o insolvencia del fiador, el sentenciado estará obligado a po
 
 En caso de incumplimiento de las obligaciones contraídas por el sentenciado, el Juez podrá hacer efectiva la pena suspendida o apercibirlo de que si vuelve a incumplir alguna de las condiciones fijadas, se hará efectiva la sanción suspendida.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 113.
 
-El juzgador declarará, al pronunciar sentencia definitiva, si concede o no el beneficio de la condena condicional al sentenciado. En el caso de que habiendo compurgado al menos una tercera parte de la pena de prisión que le fue impuesta, considere el sentenciado que han desaparecido o modificado sustancialmente las razones por las cuales se le negó este beneficio, podrá promover su concesión ante el Juez de ejecución, a través del incidente de ejecución de sentencia previsto por el Código de Procedimientos Penales para el Estado.
+El juzgador declarará, al pronunciar sentencia definitiva, si concede o no el beneficio de la condena condicional al sentenciado. En el caso de que habiendo compurgado al menos una tercera parte de la pena de prisión que le fue impuesta, considere el sentenciado que han desaparecido o modificado sustancialmente las razones por las cuales se le negó este beneficio, podrá promover su concesión ante el juez de ejecución, a través del incidente de ejecución de sentencia previsto por el Código de Ejecución de Sanciones Penales y Medidas de Libertad Anticipada.
 
 El juzgador resolverá toda cuestión que se le plantee relativa a la fianza, al término y a la forma de su otorgamiento.
 
@@ -1190,6 +1206,14 @@ IX.- Cumplimiento de la pena o medida de seguridad.
 > <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 2012)</small>
 
 X.- Cumplimiento de criterio de oportunidad, acuerdo reparatorio en justicia restaurativa, o de las condiciones decretadas en la suspensión condicional del proceso.
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+XI.- Supresión del tipo penal.
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+XII.- Existencia de una sentencia anterior dictada en proceso seguido por los mismos hechos.
 
 ###### Artículo 115.
 
@@ -1267,13 +1291,11 @@ Lo dispuesto en este capítulo es aplicable también para los delitos que deban 
 
 Para que el perdón otorgado surta sus efectos legales, será indispensable en todo caso, que el beneficiado con el perdón lo acepte expresamente; en caso de que el perdón sea rechazado por el beneficiario no surtirá efecto legal alguno y se continuará con la investigación o con el proceso según fuere el caso.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 126.
 
-El Gobernador del Estado, sujetándose a lo dispuesto en el Código de Procedimientos Penales del Estado, podrá conceder el beneficio del perdón en todos los delitos.
+El Gobernador del Estado, sujetándose a lo dispuesto en el Código de Procedimientos Penales aplicable, podrá conceder el beneficio del perdón en todos los delitos.
 
 ### Capítulo VII. Prescripción
 
@@ -1501,9 +1523,7 @@ La potestad para ejecutar la pena o la medida de seguridad impuesta, se extingue
 
 ### Capítulo XIV. Cumplimiento de Criterio de Oportunidad, Acuerdo Reparatorio en Justicia Restaurativa, o de las Condiciones Decretadas en la Suspensión Condicional del Proceso
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 157.
 
@@ -1531,7 +1551,7 @@ III.- Dos sentencias, dictadas en procesos distintos, se aplicará la sentencia 
 
 ###### Artículo 158 Bis.
 
-La potestad para ejercer la acción penal, se extingue en estos casos en los supuestos y en las formas previstas en el Código de Procedimientos Penales vigente.
+La potestad para ejercer la acción penal, se extingue en estos casos en los supuestos y en las formas previstas en el Código de Procedimientos Penales aplicable.
 
 ## Título Séptimo. Delincuencia de Menores
 
@@ -1559,7 +1579,9 @@ Para la aplicación de las sanciones que correspondan a un homicidio simple, se 
 
 I.- Que la muerte se deba a alteraciones causadas por la lesión en el órgano u órganos interesados, a alguna de sus consecuencias inmediatas o a sus complicaciones determinadas por la misma lesión y que no pudieron combatirse, ya sea por ser incurables, o por no tener al alcance los recursos necesarios.
 
-II.- Que si se encuentra el cadáver, declaren los peritos, después de hacer la necropsia, que la lesión fue mortal, sujetándose para ello a las reglas contenidas en este Código y en el Código de Procedimientos Penales del Estado.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+II.- Que si se encuentra el cadáver, declaren los peritos, después de hacer la necropsia, que la lesión fue mortal, sujetándose para ello a las reglas contenidas en este Código y en el Código de Procedimientos Penales aplicable.
 
 ###### Artículo 162.
 
@@ -4137,9 +4159,9 @@ IX.- Ordenar la aprehensión de un individuo por delito que no amerite pena priv
 
 X.- Dar a conocer a quien no tenga derecho, documentos, constancias o información que obren en una investigación o en un proceso penal y que por disposición de la Ley o resolución de la autoridad judicial, sean confidenciales; y,
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-XI.- Obligar a declarar a las personas que se mencionan en el artículo 195 BIS, del Código de Procedimientos Penales para el Estado Libre y Soberano de Chiapas, acerca de la información obtenida con motivo del desempeño de su actividad.
+XI.- Obligar a declarar a las personas que se mencionan en los artículos 195 BIS, del Código de Procedimientos Penales para el estado de Chiapas de 1938, 413, del Código de Procedimientos Penales para el estado de Chiapas de corte acusatorio y oral, y 362, del Código Nacional de Procedimientos Penales, acerca de la información obtenida con motivo del desempeño de su actividad.
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
 
@@ -5318,3 +5340,9 @@ P.O. 29 DE OCTUBRE DE 2014.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
