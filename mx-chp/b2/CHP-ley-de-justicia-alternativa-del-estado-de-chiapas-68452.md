@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-justicia-alternativa-del-estado-de-chiapas-68452"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-18"
-last_updated: "2009-03-18"
+last_updated: "2014-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68452&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de marzo de 2009.
 
@@ -81,13 +81,19 @@ XIV.- Conciliador: Profesional de la conciliación capacitado por el Centro Esta
 
 XV.- Partes en conflicto: Personas físicas o morales que, participan en los mecanismos alternativos, con el fin de solucionar sus controversias.
 
-XVI.- Acuerdo o Convenio: Acto voluntario que pone fin a una controversia total o parcialmente, y tiene respecto a las partes en conflicto la misma eficacia y autoridad que la cosa juzgada, previo trámite respectivo conforme a lo dispuesto por esta Ley y las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-XVII.- Consejo: El Consejo de la Judicatura.
+XVI.- Convenio: Acto voluntario manifestado por escrito, que pone fin a una controversia total o parcialmente, y tiene respecto a las partes en conflicto la misma eficacia y autoridad que la cosa juzgada, previo trámite respectivo conforme a lo dispuesto por esta Ley y las disposiciones legales aplicables.
 
-XVIII.- Centro Estatal: El Centro Estatal de Justicia Alternativa del Estado de Chiapas.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-XIX.- Subdirecciones Regionales: A las Subdirecciones Regionales de Justicia Alternativa dependientes del Centro Estatal.
+XVII.- Acuerdo: Acuerdo de naturaleza reparatoria, celebrado entre la víctima u ofendido y el imputado que, una vez aprobado por el Ministerio Público o el Juez de Control y cumplidos en sus términos, tiene como efecto la conclusión del proceso.
+
+XVIII.- Consejo: El Consejo de la Judicatura.
+
+XIX.- Centro Estatal: El Centro Estatal de Justicia Alternativa del Estado de Chiapas.
+
+XX.- Subdirecciones Regionales: A las Subdirecciones Regionales de Justicia Alternativa dependientes del Centro Estatal.
 
 ###### Artículo 3°.
 
@@ -135,11 +141,17 @@ Son susceptibles de solución a través de la mediación y la conciliación, pre
 
 El arbitraje sólo es aplicable a las controversias de índole mercantil y civil, en los mismos términos del párrafo anterior.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 7°.
 
-En materia penal, las víctimas, o el ofendido y el imputado podrán recurrir a la mediación y conciliación que esta Ley contempla, cuando se trate de conductas que, conforme a lo previsto en el Código Penal para el Estado, pudieran constituir delitos en los que el perdón del ofendido extinga la acción persecutoria; delitos de contenido patrimonial que se hayan cometido sin violencia sobre las personas; delitos que admitan presumiblemente la sustitución de sanciones o condena condicional y que no sean considerados graves.
+En materia penal, procederán los medios alternativos únicamente en los delitos que se persigan por querella o requisito equivalente de parte ofendida; delitos culposos; o delitos patrimoniales cometidos sin violencia sobre las personas.
 
-También puede ser objeto de mediación y conciliación en materia penal, lo relativo a la reparación del daño en cualquier delito, cuyo acuerdo se tendrá en cuenta por el juez al momento de imponer la sanción.
+No procederán los medios alternativos en los casos en que el imputado haya celebrado anteriormente otros acuerdos por hechos de la misma naturaleza jurídica, salvo que hayan transcurrido cinco años de haber dado cumplimiento al último acuerdo, o se trate de delitos de violencia familiar.
+
+También puede ser objeto de mediación y conciliación en materia penal, lo relativo a la reparación del daño en cualquier delito, cuyo acuerdo será tomado en consideración por el juez al momento de imponer la sanción.
+
+La información que se genere como producto de los acuerdos no podrá ser utilizada en perjuicio de las partes dentro del proceso penal.
 
 ###### Artículo 8°.
 
@@ -161,6 +173,10 @@ Los medios alternativos deberán ser previos al proceso jurisdiccional a cargo d
 
 Cuando las partes comparezcan al Centro Estatal o a sus Subdirecciones Regionales para someter el conflicto a los medios alternativos de solución, estando en trámite un procedimiento judicial, sin hacerlo del conocimiento del Juez, el especialista, en su caso, deberá comunicarlo de inmediato al órgano jurisdiccional que corresponda, a fin de salvaguardar sus derechos procesales.
 
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+En materia penal, procederá la solución de controversias a través de los medios alternativos hasta antes de decretarse el auto de apertura a juicio.
+
 ###### Artículo 10.
 
 Toda persona que enfrente un conflicto de naturaleza jurídica tiene derecho a recurrir, conjunta o separadamente, al Centro Estatal o a las Subdirecciones Regionales, para recibir información y orientación sobre los medios alternativos de solución de controversias que esos órganos aplican. En caso de que su asunto sea calificado como susceptible de ser solucionado a través de los medios alternativos previstos en esta Ley, podrán solicitar y someterse al que mejor satisfaga a sus intereses.
@@ -169,9 +185,15 @@ Toda persona que enfrente un conflicto de naturaleza jurídica tiene derecho a r
 
 La autoridad jurisdiccional que tenga conocimiento de un asunto susceptible de solucionarse a través de los medios alternativos, deberá orientar a las partes para que sometan al proceso que mejor les convenga, en la primera actuación del juicio, dejando constancia de ello. En caso de que las partes manifiesten su negativa de dirimir su controversia a través de los medios alternativos, se deberá hacer de su conocimiento la posibilidad de someterse al procedimiento no jurisdiccional en cualquier etapa del juicio y se continuará el proceso judicial.
 
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+En materia penal, desde la primera intervención del Ministerio Público o, en su caso, el Juez de Control, podrán invitar a los interesados a que suscriban un acuerdo en los casos en que proceda, de conformidad con lo dispuesto en la presente Ley, debiendo explicarles a las partes los efectos del mismo.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 12.
 
-El contenido de las conversaciones, acuerdos y convenios realizados o suscritos por las partes, así como la información relativa al tipo y contenido del procedimiento alternativo aplicado en el caso concreto, serán confidenciales, con la excepción de la remisión de copias certificadas del acta en que consten el acuerdo o convenio celebrado por los interesados, al órgano jurisdiccional que derivó el caso, para que lo eleve a categoría de cosa juzgada; así como, tratándose de casos en que se presuma la comisión de un delito, el especialista tendrá la obligación de hacerlo del conocimiento de la autoridad competente.
+El contenido de las conversaciones, acuerdos y convenios realizados o suscritos por las partes, así como la información relativa al tipo y contenido del procedimiento alternativo aplicado en el caso concreto, serán confidenciales, con la excepción de la remisión de copias certificadas del acta en que consten el acuerdo o convenio celebrado por los interesados al órgano jurisdiccional que derivó el caso para que lo eleve a categoría de cosa juzgada; así como tratándose de casos en que se presuma la comisión de un delito no susceptible de dirimirse a través de medios alternativos, el especialista tendrá la obligación de hacerlo del conocimiento de la autoridad competente.
 
 ###### Artículo 13.
 
@@ -379,13 +401,15 @@ XXII.- Proponer al Consejo el establecimiento de Subdirecciones Regionales en el
 
 XXIII.- Celebrar toda clase de actos jurídicos que permitan el cumplimiento de sus objetivos.
 
-XXIV.- Solicitar ante el juez competente, a petición de parte, la ejecución de los acuerdos o convenios, derivados de sus funciones.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+XXIV.- Solicitar ante el juez competente, a petición de parte, la ejecución de los convenios, derivados de sus funciones.
 
 XXV.- Recibir las quejas o denuncias que se presenten en contra de los especialistas y demás personal adscrito al Centro Estatal y Subdirecciones Regionales, y turnarlas al Consejo.
 
 XXVI.- Ordenar las visitas de inspección que considere necesarias, para verificar la debida aplicación de los medios alternativos de solución de conflictos, en el domicilio registrado por los especialistas independientes.
 
-XXVII.- Las demás atribuciones y deberes establecidos en el Código de Organización, esta. Ley, los acuerdos del Consejo y del Tribunal Constitucional, y demás ordenamientos aplicables.
+XXVII.- Las demás atribuciones y deberes establecidos en el Código de Organización, esta Ley, los acuerdos del Consejo y del Tribunal Constitucional, y demás ordenamientos aplicables.
 
 ### Capítulo IV. De las Subdirecciones Regionales
 
@@ -401,7 +425,9 @@ III.- Rendir, dentro de los cinco primeros días de cada mes, al Director Genera
 
 IV.- Asumir la dirección técnica y administrativa de la Subdirección que le corresponde, vigilando el cumplimiento de sus objetivos.
 
-V.- Supervisar y, en su caso, aprobar los acuerdos o convenios celebrados por las partes, en los procedimientos de medios alternativos llevados ante especialistas públicos o independientes, con el fin de verificar que no se afecten derechos irrenunciables, ni la equidad entre las partes.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+V.- Supervisar y, en su caso, aprobar los convenios celebrados por las partes en los procedimientos de medios alternativos llevados ante especialistas públicos o independientes, con el fin de verificar que no se afecten derechos irrenunciables, ni la equidad entre las partes.
 
 VI.- Dar fe de los convenios celebrados entre las partes ante los especialistas de la Subdirección a su cargo.
 
@@ -577,25 +603,31 @@ Los especialistas independientes deberán observar en todo momento los procedimi
 
 Los especialistas independientes podrán perder su certificación y registro ante el Centro Estatal, o ser sancionados, cuando incumplan con las disposiciones previstas en esta Ley y su Reglamento. El procedimiento de substanciación y las sanciones que se podrán imponer, serán previstas en el Reglamento que para tal efecto se expida.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 49.
 
-Los convenios o acuerdos que se suscriban ante especialistas independientes deberán ser presentados, ante el Centro Estatal o Subdirecciones Regionales, donde serán revisados y ratificados por las partes en conflicto, verificando que las soluciones acordadas sean conforme a derecho y que reúnan los requisitos esenciales para que puedan ser elevados a la categoría de cosa juzgada.
+Los convenios que se suscriban ante especialistas independientes deberán ser presentados ante el Centro Estatal o Subdirecciones Regionales, donde serán revisados y ratificados por las partes en conflicto, verificando que las soluciones acordadas se encuentren ajustadas a derecho y reúnan los requisitos esenciales para que puedan ser elevados a la categoría de cosa juzgada.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 50.
 
-No serán elevados a categoría de cosa juzgada los convenios o acuerdos que a juicio del Centro Estatal o de las Subdirecciones Regionales, afecten intereses de orden público o haya recaído sobre derechos, respecto de los cuales, los interesados no tengan la libre disposición.
+No serán elevados a categoría de cosa juzgada, los convenios que a juicio del Centro Estatal o de las Subdirecciones Regionales afecten intereses de orden público o haya recaído sobre derechos, respecto de los cuales, los interesados no tengan la libre disposición.
 
 ## Título Cuarto. De los Medios de Justicia Alternativa
 
 ### Capítulo I. De la Mediación y Conciliación
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 51.
 
-Los procedimientos de mediación y conciliación podrán iniciarse a solicitud de parte interesada o mediante el acuerdo correspondiente celebrado por las partes ante el Juez o Tribunal que conozca del proceso, o ante el Fiscal del Ministerio Público en cualquier etapa del procedimiento, en el que las partes expresen su voluntad de someterse al procedimiento no jurisdiccional ante el Centro Estatal o sus Subdirecciones Regionales.
+Los procedimientos de mediación y conciliación podrán iniciarse a solicitud de parte interesada o mediante el acuerdo correspondiente celebrado por las partes ante el Juez o Tribunal que conozca del proceso, o ante el Ministerio Público, en el que las partes expresen su voluntad de someterse al procedimiento no jurisdiccional ante el Centro Estatal o sus Subdirecciones Regionales.
 
-Las partes en materia penal son las víctimas, o el ofendido y el imputado.
+Los sujetos que tienen calidad de parte en materia penal son el imputado y su Defensor, el Ministerio Público, la Víctima u Ofendido y su Asesor Jurídico.
 
-La comparecencia de las partes ante el Centro Estatal o las Subdirecciones Regionales, debe ser siempre personal, tratándose de personas físicas, o por conducto de representante o apoderado legal con facultades para transigir, en el caso de las personas morales.
+La comparecencia de las partes ante el Centro Estatal o las Subdirecciones Regionales. debe ser siempre personal, tratándose de personas físicas, o por conducto de representante o apoderado legal con facultades para transigir, en el caso de las personas morales.
 
 Los menores de edad e incapaces comparecerán por medio de sus representantes legales, de acuerdo con las normas establecidas en los ordenamientos respectivos.
 
@@ -635,9 +667,7 @@ Se entiende que hay negativa a someterse a los medios de justicia alternativa, c
 
 ###### Artículo 57.
 
-Cuando el peticionario o la otra parte involucrada en el conflicto no concurran a una reunión el día y hora señalados, se invitará a una segunda sesión y, en caso de que no asistan el uno; el otro o ambos, se levantará acta y se mandará archivar el asunto.
-
-De persistir el interés del solicitante, cuando él hubiese faltado a la segunda invitación, deberá presentar una nueva petición para reanudar el procedimiento.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2014)
 
 ###### Artículo 58.
 
@@ -651,13 +681,17 @@ Las partes deberán conducirse con respeto y observar buen comportamiento durant
 
 Cuando el órgano jurisdiccional remita al Director General del Centro Estatal o al Subdirector Regional correspondiente, copia certificada del acuerdo en que las partes que intervienen en un proceso, aceptan someterse a uno de los medios alternativos para resolver la controversia, remitirá también copias certificadas de las actuaciones que estime necesarias en el caso requerido, así como las posibles alternativas de negociación si las hubiere, citando a los interesados para que comparezcan al Centro Estatal o a la Subdirección Regional que corresponda, para iniciar el procedimiento de solución del conflicto, apercibiéndolos que, en caso de no comparecer o no se sometan a alguno de los medios alternativos, el procedimiento judicial se reanudará, en términos del artículo 10 de esta Ley, procurando salvaguardar los derechos procesales de las partes.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 60.
 
-Si la petición la hacen las partes o el Fiscal del Ministerio Público, en la etapa de averiguación del delito, se otorgará un término que no exceda de dos meses para que las partes en conflicto resuelvan su controversia a través de alguno de los medios alternativos, en la inteligencia que si no comparecen al Centro Estatal o a la Subdirección Regional, o no hay solución, las diligencias continuarán por su cauce legal.
+En materia penal el Juez de Control, a petición de las partes, podrá suspender el procedimiento hasta por treinta días hábiles, para que se pueda concretar el acuerdo a través de alguno de los medios alternativos con el apoyo del Centro Estatal. En caso de que la concertación se interrumpa, cualquiera de las partes podrá solicitar la continuación del proceso.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 61.
 
-En caso de que las partes en conflicto asistan y acepten someterse a un procedimiento alternativo, el Juez suspenderá el procedimiento hasta por dos meses, que no serán computados para efectos de la caducidad de la instancia.
+En las demás materias, en caso de que las partes en conflicto asistan y acepten someterse a un procedimiento alternativo, el Juez suspenderá el procedimiento hasta por sesenta días hábiles, que no serán computados para efectos de la caducidad de la instancia.
 
 Cuando por el desarrollo del método alternativo sea necesaria la ampliación de la suspensión del procedimiento jurisdiccional, por única ocasión las partes, previo a que fenezca el plazo a que se refiere el párrafo anterior, solicitará al Juez del conocimiento prórroga de hasta por treinta días más; en caso de que las partes sean omisas dará lugar a la reanudación del juicio.
 
@@ -685,21 +719,25 @@ Cuando las partes no autoricen que se invite al tercero, o éste no comparezca, 
 
 El especialista deberá también dar por concluido el procedimiento, si en las sesiones tiene conocimiento de que, con motivo del conflicto que se pretende solucionar, las partes o un tercero han cometido un delito que no sea de los considerados por esta Ley como susceptible de dirimirse a través de los medios alternativos de solución de controversias.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 66.
 
 Los procedimientos alternativos a que se refiere esta Ley, concluirán en cualquier momento si se actualiza alguno de los siguientes supuestos:
 
-I.- Por convenio o acuerdo, en el que se haya resuelto la totalidad o parte de los puntos litigiosos de la controversia.
+I. Por convenio o acuerdo por escrito, en el que se haya resuelto la totalidad o parte de los puntos litigiosos de la controversia.
 
-II.- Por el comportamiento irrespetuoso o agresivo de alguna de las partes hacia la otra o hacia el especialista, cuya gravedad impida cualquier intento de diálogo posterior.
+II. Por convenio verbal, que deberá constar en actuaciones.
 
-III.- Por decisión conjunta o separada de las partes.
+III. Por el comportamiento irrespetuoso o agresivo de alguna de las partes hacia la otra o hacia el especialista, cuya gravedad impida cualquier intento de diálogo posterior.
 
-IV.- Por inasistencia injustificada de ambas partes a dos sesiones consecutivas, o por inasistencia, sin causa justificada, de alguna de las partes a tres sesiones consecutivas.
+IV. Por decisión conjunta o separada de las partes.
 
-V.- Por negativa de las partes para la suscripción del acuerdo o convenio en los términos de la presente Ley.
+V. Por inasistencia injustificada de una o ambas partes a dos sesiones consecutivas posteriores a la firma del compromiso de participación.
 
-VI.- Por decisión del especialista, cuando la conducta de alguna o de ambas partes, se desprenda indudablemente que no hay voluntad para llegar a un acuerdo.
+VI. Por negativa de las partes para la suscripción del acuerdo o convenio en los términos de la presente Ley.
+
+VII. Por decisión del especialista, cuando la conducta de alguna de las partes, se desprenda indudablemente que no hay voluntad para llegar a un acuerdo.
 
 En el caso de la fracción anterior, el especialista deberá solicitar la autorización correspondiente al Titular del Centro Estatal o Subdirector Regional, según sea el caso.
 
@@ -735,29 +773,47 @@ VII.- Las firmas o huellas dactilares de quienes los suscriban y, en su caso, el
 
 VIII.- La firma del especialista que intervino.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 71.
 
 Inmediatamente después de que se haya suscrito el acuerdo o convenio, las partes y el especialista que intervinieron en el medio alternativo, comparecerán ante el Director General del Centro Estatal o el Subdirector Regional, en su caso, para que en su presencia se ratifique su contenido y se reconozcan las firmas, levantando constancia de dicha comparecencia.
 
-Una vez ratificado el respectivo acuerdo o convenio, se aprobará siempre y cuando éste se apegue a lo que esta Ley dispone, no se contravengan disposiciones de orden público, ni se afecte derechos de terceros. La aprobación surtirá efecto entre las partes, como si se tratara de sentencia ejecutoria.
+Una vez ratificado el convenio, se aprobará siempre y cuando se apegue a lo que esta Ley dispone, no se contravengan disposiciones de orden público, ni se afecten derechos de terceros. La aprobación surtirá efecto entre las partes como si se tratara de sentencia ejecutoria.
 
-La no aprobación del acuerdo o convenio, podrá ser revisada, a petición de cualquiera de los interesados por el juez de primera instancia competente por razón de la materia en el lugar, y si hubiere varios, por el juzgado en turno, el que decidirá lo que en derecho corresponda.
+La no aprobación del convenio, podrá ser revisada a petición de cualquiera de los interesados por el juez de primera instancia competente por razón de la materia en el lugar, y si hubiere varios, por el juzgado en turno, el que decidirá lo que en derecho corresponda.
 
-De los convenios o acuerdos que resulten de los derechos y obligaciones pecuniarias de los menores o incapaces, el Director General del Centro Estatal o el Subdirector Regional, en caso de considerarlo necesario, podrá dar vista al Fiscal del Ministerio Público.
+De los convenios que resulten de los derechos y obligaciones pecuniarias de los menores o incapaces, el Director General del Centro Estatal o el Subdirector Regional, en caso de considerarlo necesario, podrá dar vista al Ministerio Público.
 
 El convenio certificado por el Director General del Centro Estatal o el Subdirector Regional, tendrá el carácter de documental pública.
 
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 71 Bis.
+
+En materia penal, los acuerdos deberán ser aprobados por el Juez de Control cuando sean de cumplimiento diferido o cuando el proceso ya se haya iniciado, y por el Ministerio Público en la etapa de investigación inicial cuando sean de cumplimiento inmediato; en este último caso, se declarará extinta la acción penal. La parte inconforme con esta determinación Ministerial podrá solicitar control judicial dentro del plazo de tres días contados a partir de aquél en que se haya aprobado el acuerdo.
+
+En caso de señalar que el cumplimiento debe ser diferido y no señalar plazo específico, se entenderá que el plazo será por un año. El plazo para el cumplimiento de las obligaciones suspenderá el trámite del proceso y la prescripción de la acción penal.
+
+Previo a la aprobación del acuerdo, el Juez de Control o el Ministerio Público verificarán que las obligaciones que se contraen no resulten notoriamente desproporcionadas, que los intervinientes estuvieren en condiciones de igualdad para negociar y que no hayan actuado bajo condiciones de intimidación, amenaza o coacción.
+
+El Juez de Control decretará la extinción de la acción una vez aprobado el cumplimiento pleno de las obligaciones pactadas en un acuerdo, haciendo las veces de sentencia ejecutoriada.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 72.
 
-El cumplimiento de los acuerdos o convenios celebrados ante el Centro Estatal o las Subdirecciones Regionales, será obligatorio para las partes.
+El cumplimiento de los convenios celebrados ante el Centro Estatal o las Subdirecciones Regionales, será obligatorio para las partes.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 73.
 
-Si alguna de las partes incumple las obligaciones que contrajo en el acuerdo o convenio aprobado por el Centro Estatal o Subdirección Regional, procederá la vía de apremio ante el juez de primera instancia designado por ellas en el propio acuerdo o convenio, a falta de pacto, por el juez competente del lugar en que se llevó el medio alternativo, y si hubiere varios, por el juzgado en turno; y serán aplicables las reglas para la ejecución de sentencias previstas en la legislación de la materia de que se trate. El juez sólo podrá negarse a ejecutarlas cuando no se ajusten a derecho.
+Si alguna de las partes incumple las obligaciones que contrajo en el convenio aprobado por el Centro Estatal o Subdirección Regional, procederá la vía de apremio ante el juez de primera instancia designado por ellas en el propio convenio, a falta de pacto, por el juez competente del lugar en que se llevó el medio alternativo, y si hubieren varios, por el juzgado en turno; y serán aplicables las reglas para la ejecución de sentencias previstas en la legislación de la materia de que se trate. El juez sólo podrá negarse a ejecutarlas cuando no se ajusten a derecho.
 
-Cuando el procedimiento alternativo se hubiere seguido a petición del órgano jurisdiccional o el órgano procurador de justicia, el Centro Estatal o Subdirección Regional, en su caso, informará del resultado obtenido al peticionario, acompañando copia certificada de los documentos relativos, para los electos legales correspondientes.
+En materia penal, si el imputado incumple sin causa justificada las obligaciones pactadas en el convenio, el procedimiento continuará como si no se hubiera celebrado acuerdo alguno. Cuando exista cumplimiento parcial de las obligaciones pecuniarias pactadas, dicha circunstancia será tomada en cuenta por el Ministerio Público o Juez para efectos de la reparación del daño.
 
-Los acuerdos o convenios celebrados en materia penal, producirán efectos de perdón del ofendido, pero en los que respecta a la reparación del daño, tendrán efectos de cosa juzgada.
+Cuando el procedimiento alternativo se hubiere seguido a petición del órgano jurisdiccional o el órgano procurador de justicia, el Centro Estatal o Subdirección Regional, en su caso, informará del resultado obtenido al peticionario, acompañando copia certificada de los documentos relativos, para los efectos legales correspondientes.
 
 ###### Artículo 74.
 
@@ -799,9 +855,11 @@ Cuando el árbitro emita un fallo, deberá notificarlo a las partes y al Centro 
 
 Los jueces de primera instancia están obligados a impartir el auxilio de su jurisdicción a los árbitros adscritos al Centro Estatal y Subdirecciones Regionales.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 83.
 
-Los acuerdos o convenios arbitrales que celebren las partes interesadas ante el Centro Estatal o Subdirecciones Regionales, se sujetarán a las disposiciones relativas a la ley en materia civil o mercantil, que corresponda.
+Los convenios arbitrales que celebren las partes interesadas ante el Centro Estatal o Subdirecciones Regionales, se sujetarán a las disposiciones relativas a la ley en materia civil o mercantil, que corresponda.
 
 ###### Artículo 84.
 
@@ -934,3 +992,13 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I del artículo 42 de la Constitución Política local y para su observancia; promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los dieciocho días del mes de marzo del año dos mil nueve.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE NOVIEMBRE DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los procedimientos en materia penal que a la entrada en vigor del Código Nacional de Procedimientos Penales continúen en trámite ante el Centro Estatal de Justicia Alternativa, continuarán su sustanciación de conformidad con la legislación aplicable en el momento de inicio de los mismos.
+
+Artículo Tercero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
