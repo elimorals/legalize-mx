@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-extincion-de-dominio-para-el-estado-de-durango-93537"
 country: "mx"
 rank: "ley"
 publication_date: "2013-02-07"
-last_updated: "2013-02-07"
+last_updated: "2014-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 3 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Durango, el jueves 7 de febrero de 2013.
 
@@ -720,3 +722,23 @@ C.P. JORGE HERRERA CALDERA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 PROFR. JAIME FERNANDEZ SARACHO
+
+N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+P.O. 3 DE DICIEMBRE DE 2014.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley de Extinción de Dominio para el Estado de Durango, aprobada mediante decreto número 465, y publicada en el Periódico Oficial del Gobierno del Estado de Durango, el siete de febrero de dos mil trece.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos de extinción de dominio que se lleven con anterioridad a la entrada en vigencia del presente decreto, continuarán hasta su culminación con la ley referida en el artículo transitorio anterior.
+
+###### ARTICULO CUARTO
+
+Hasta en tanto no se expida la declaratoria a que se refiere el artículo Decimosexto transitorio, del Decreto de Reforma a la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el diez de febrero de dos mil catorce; las referencias de esta Ley a la Fiscalía General de la Republica o su titular, se entenderá que son hechas a la Procuraduría General de la Republica o su titular.
