@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-derechos-para-el-ejercicio-del-periodismo-en-el-57216"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-12"
-last_updated: "2007-09-12"
+last_updated: "2014-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57216&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE DERECHOS PARA EL EJERCICIO DEL PERIODISMO EN EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 12 de septiembre de 2007.
 
@@ -167,17 +167,21 @@ Cuando se reproduzcan total o parcialmente materiales periodísticos de otros me
 
 ### Capítulo VI. De las Sanciones
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 21.
 
-El Fiscal del Ministerio Público o la autoridad judicial del fuero común no podrán, en ningún caso, citar a los periodistas ni a los colaboradores periodísticos como testigos con el propósito de que revelen sus fuentes de información, de conformidad con lo dispuesto en el Código de Procedimientos Penales para el Estado Libre y Soberano de Chiapas.
+El Fiscal del Ministerio Público o la autoridad judicial del fuero común no podrán, en ningún caso, citar a los periodistas ni a los colaboradores periodísticos como testigos con el propósito de que revelen sus fuentes de información, de conformidad con lo dispuesto en el Código de Procedimientos Penales aplicable.
 
 ###### Artículo 22.
 
 El servidor público que contravenga lo dispuesto en esta Ley, será sancionado de conformidad a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas y por el Código Penal para el Estado de Chiapas.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 23.
 
-Los periodistas y colaboradores periodísticos solo estarán obligados a revelar la identidad de la fuente en los términos señalados por el artículo 195 Bis del Código de Procedimientos Penales para el Estado Libre y Soberano de Chiapas.
+Los periodistas y colaboradores periodísticos solo estarán obligados a revelar la identidad de la fuente en los términos señalados por los artículos 195 Bis del Código de Procedimientos Penales para el Estado de Chiapas de 1938, 413 del Código de Procedimientos Penales para el Estado de Chiapas de corte acusatorio y oral, y 362 del Código Nacional de Procedimientos Penales.
 
 ## Transitorios
 
@@ -192,3 +196,11 @@ Dado en el salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I del artículo 42 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los veintinueve días del mes de agosto del años mil siete.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Jorge Antonio Morales Messner, Secretario de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE NOVIEMBRE DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
