@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-proteccion-a-las-victimas-para-el-estado-de-puebla-10099
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-19"
-last_updated: "2014-05-19"
+last_updated: "2014-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100990&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE PROTECCIÓN A LAS VÍCTIMAS PARA EL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 19 de mayo de 2014.
 
@@ -71,25 +71,45 @@ Para efectos de esta Ley, se entenderá por los vocablos siguientes:
 
 I. Autoridades Locales: El Ejecutivo Estatal, El Poder Judicial del Estado, El Poder Legislativo del Estado, los Ayuntamientos de los municipios y sus servidores públicos;
 
-II. Comisión Ejecutiva: La Comisión Ejecutiva Estatal de Atención a Víctimas;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-III. Estado: El Estado Libre y Soberano de Puebla;
+II. Asesor Jurídico: Asesor Jurídico de las Víctimas;
 
-IV. Ley: La Ley de Protección a las Víctimas para el Estado de Puebla;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-V. Ley General: La Ley General de Víctimas;
+III. Comisión Ejecutiva: La Comisión Ejecutiva Estatal de Atención a Víctimas;
 
-VI. Procuraduría: La Procuraduría General de Justicia del Estado de Puebla;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-VII. Reglamento: El Reglamento de la Ley de Protección a las Víctimas para el Estado de Puebla; y
+IV. Estado: El Estado Libre y Soberano de Puebla;
 
-VIII. Comisión de Derechos Humanos: La Comisión de Derechos Humanos del Estado de Puebla.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+V. Ley: La Ley de Protección a las Víctimas para el Estado de Puebla;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+VI. Ley General: La Ley General de Víctimas;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+VII. Procuraduría: La Procuraduría General de Justicia del Estado de Puebla;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+VIII. Reglamento: El Reglamento de la Ley de Protección a las Víctimas para el Estado de Puebla; y
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+IX. Comisión de Derechos Humanos: La Comisión de Derechos Humanos del Estado de Puebla.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 5.
 
-Los derechos a que se refiere esta Ley en favor de las víctimas del delito serán ministrados por las autoridades que la misma establece, en el ámbito de su competencia, por la Procuraduría y por las dependencias y áreas a las que ésta las canalice.
+Los derechos a que se refiere esta Ley y la Ley General en favor de las víctimas del delito serán ministrados por las autoridades que la misma establece, en el ámbito de su competencia, por la Procuraduría y por las dependencias y áreas a las que ésta las canalice.
 
-Los derechos a que se refiere esta Ley en favor de las víctimas de violaciones a derechos humanos, serán ministrados por las autoridades que la misma establece, en el ámbito de su competencia, por la Comisión de Derechos Humanos, sus Visitadurías Generales y por las dependencias y áreas a las que ésta las canalice.
+Los derechos a que se refiere esta Ley y la Ley General en favor de las víctimas de violaciones a derechos humanos, serán ministrados por las autoridades que la misma establece, en el ámbito de su competencia, por la Comisión de Derechos Humanos, sus Visitadurías Generales y por las dependencias y áreas a las que ésta las canalice.
 
 ###### ARTÍCULO 6.
 
@@ -199,55 +219,119 @@ II. Obtener desde la comisión del hecho victimizante, asistencia médica y psic
 
 III. Solicitar, acceder y recibir, en forma clara, precisa y oportuna, la información oficial necesaria para lograr el pleno ejercicio de cada uno de sus derechos;
 
-IV. Ser asesorados y representados jurídicamente por el Ministerio Público, en el proceso penal, salvo los casos en que el asesor victimológico intervenga conforme lo determine esta Ley;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-V. Solicitar la reparación del daño, incluyendo el pago de los tratamientos que como consecuencia del hecho victimizante sean necesarios para su recuperación;
+IV. Ser asesorados y representados jurídicamente por el Ministerio Público, en el proceso penal, salvo los casos en que el asesor jurídico intervenga conforme lo determine esta Ley;
 
-VI. Obtener garantía de la reparación de daños y perjuicios;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-VII. Recibir asistencia social y médica que requieran, en los hospitales y clínicas del sector público del Estado y en las instituciones privadas con las que se haya establecido convenio para tal efecto;
+V. A contar con un Asesor jurídico gratuito en cualquier etapa del procedimiento, en los términos de la legislación aplicable.
 
-VIII. Recibir información adecuada y oportuna respecto a las instituciones a las que puede acudir para su atención y protección, los servicios a los que puede acceder y los procedimientos para ello;
+El Asesor jurídico particular que designe la víctima, deberá ser licenciado en derecho o abogado titulado, quien deberá acreditar su profesión desde el inicio de su intervención mediante cédula profesional. Si la víctima no puede designar uno particular, tendrá derecho a uno de oficio;
 
-IX. Obtener una atención integral, con perspectiva de género;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-X. Acceder a la prestación de los servicios de salud a que se refiere la Norma Oficial Mexicana respectiva, en materia de violencia familiar, sexual y contra las mujeres;
+VI. Solicitar la reparación del daño, incluyendo el pago de los tratamientos que como consecuencia del hecho victimizante sean necesarios para su recuperación;
 
-XI. Al resguardo de su identidad y otros datos personales, en los casos previstos en la fracción V del apartado C, del artículo 20, de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-XII. Que se les asigne traductor o intérprete, cuando no comprendan el idioma español, no se expresen con facilidad o tengan algún impedimento para escuchar, comprender o darse a entender, permitiéndoseles hacer uso de su propia lengua o idioma, además, en su caso, de hacer los ajustes razonables definidos en el Código de Procedimientos Penales para el Estado Libre y Soberano de Puebla;
+VII. Obtener garantía de la reparación de daños y perjuicios;
 
-XIII. En el caso de ser integrantes de pueblos y comunidades indígenas, de oficio se les nombrará un intérprete, a fin de que puedan expresarse en su propia lengua;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-XIV. Efectuar la diligencia de identificación del probable responsable, en un lugar donde no pueda ser vista por éste, si así lo solicitan;
+VIII. Recibir asistencia social y médica que requieran, en los hospitales y clínicas del sector público del Estado y en las instituciones privadas con las que se haya establecido convenio para tal efecto;
 
-XV. Protección de su intimidad contra injerencias ilegítimas;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-XVI. Contar ella y sus familiares con medidas de protección eficaces cuando su vida, integridad o libertad personales sean amenazadas o estén en riesgo en razón de su condición;
+IX. Recibir información adecuada y oportuna respecto a las instituciones a las que puede acudir para su atención y protección, los servicios a los que puede acceder y los procedimientos para ello;
 
-XVII. Ser escuchadas por el servidor público respectivo, antes de que éste decida lo conducente sobre el tema que le atañe;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-XVIII. A que se avise a las autoridades correspondientes de forma inmediata, cuando se trate de víctimas extranjeras;
+X. Obtener una atención integral, con perspectiva de género;
 
-XIX. A que se realicen las acciones tendentes a la reunificación familiar cuando por razón de su tipo de victimización su núcleo familiar se haya dividido;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-XX. Retomar a su lugar de origen o ser reubicadas voluntariamente de forma segura y digna;
+XI. Acceder a la prestación de los servicios de salud a que se refiere la Norma Oficial Mexicana respectiva, en materia de violencia familiar, sexual y contra las mujeres;
 
-XXI. Acudir y participar en espacios de diálogo institucional;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-XXII. Ser beneficiarias de las acciones afirmativas y programas sociales implementados por el Estado para proteger y garantizar su derecho a la vida en condiciones de dignidad;
+XII. Al resguardo de su identidad y otros datos personales, en los casos previstos en la fracción V del apartado C, del artículo 20, de la Constitución Política de los Estados Unidos Mexicanos;
 
-XXIII. Participar de forma organizada en la formulación, implementación y seguimiento de la política pública de prevención, atención, asistencia, protección y reparación integral;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-XXIV. A que se les otorgue, en los casos que procedan, la ayuda provisional correspondiente;
+XIII. Que se les asigne traductor o intérprete, cuando no comprendan el idioma español, no se expresen con facilidad o tengan algún impedimento para escuchar, comprender o darse a entender, permitiéndoseles hacer uso de su propia lengua o idioma, además, en su caso, de hacer los ajustes razonables definidos en el Código de Procedimientos Penales aplicable a dicho proceso;
 
-XXV. A optar por la solución de conflictos conforme a las reglas de la justicia alternativa, a través de la mediación o la conciliación;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+XIV. En el caso de ser integrantes de pueblos y comunidades indígenas, de oficio se les nombrará un intérprete, a fin de que puedan expresarse en su propia lengua;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+XV. Efectuar la diligencia de identificación del probable responsable, en un lugar donde no pueda ser vista por éste, si así lo solicitan;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+XVI. Protección de su intimidad contra injerencias ilegítimas;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+XVII. Contar ella y sus familiares con medidas de protección eficaces cuando su vida, integridad o libertad personales sean amenazadas o estén en riesgo en razón de su condición;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+XVIII. Ser escuchadas por el servidor público respectivo, antes de que éste decida lo conducente sobre el tema que le atañe;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+XIX. A que se avise a las autoridades correspondientes de forma inmediata, cuando se trate de víctimas extranjeras;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+XX. A que se realicen las acciones tendentes a la reunificación familiar cuando por razón de su tipo de victimización su núcleo familiar se haya dividido;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+XXI. Retornar a su lugar de origen o ser reubicadas voluntariamente de forma segura y digna;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+XXII. Acudir y participar en espacios de diálogo institucional;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+XXIII. Ser beneficiarias de las acciones afirmativas y programas sociales implementados por el Estado para proteger y garantizar su derecho a la vida en condiciones de dignidad;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+XXIV. Participar de forma organizada en la formulación, implementación y seguimiento de la política pública de prevención, atención, asistencia, protección y reparación integral;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+XXV. A que se les otorgue, en los casos que procedan, la ayuda provisional correspondiente;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+XXVI. A optar por la solución de conflictos conforme a las reglas de la justicia alternativa, a través de la mediación o la conciliación.
 
 La Procuraduría llevará un registro y un análisis de evaluación de resultados sobre los casos en que la víctima haya optado por alguna de las vías de solución alterna del conflicto;
 
-XXVI. Trabajar de forma colectiva para la defensa de sus derechos, incluida su reincorporación a la sociedad y contar con espacios donde se trabaje el apoyo individual o colectivo; y
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-XXVII. Los demás señalados por la Constitución Política del Estado, esta Ley y otras disposiciones aplicables en la materia.
+XXVII. Trabajar de forma colectiva para la defensa de sus derechos, incluida su reincorporación a la sociedad y contar con espacios donde se trabaje el apoyo individual o colectivo;
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+XXVIII. A solicitar al agente del Ministerio Público o Juez de Control que se le provea en forma inmediata protección para ella, y en su caso, para sus familiares cuando su vida, integridad o libertad personal sean amenazadas o estén en riesgo en razón de su condición.
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+XXIX. A solicitar ante el agente del Ministerio Público o Juez de Control según corresponda, medidas de protección, providencias precautorias y medidas cautelares, y
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+XXX. Los demás señalados por la Constitución Política del Estado, esta Ley y otras disposiciones aplicables en la materia.
+
+Para el caso de las fracciones XXVIII y XXIX, se otorgarán las medidas de protección, providencias precautorias y medidas cautelares en los términos que prevea la Ley de la materia.
 
 ###### ARTÍCULO 16.
 
@@ -343,7 +427,9 @@ I. Procurar hacer efectivos cada uno de los derechos y garantías de la víctima
 
 II. Brindar a la víctima información clara, accesible y oportuna sobre los derechos, garantías, mecanismos y procedimientos que reconoce esta Ley;
 
-III. Asesorar y asistir a las víctimas en todo acto o procedimiento ante la autoridad;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+III. Orientar, asesorar y asistir a las víctimas en todo acto o procedimiento ante la autoridad;
 
 IV. Formular denuncias o querellas;
 
@@ -352,6 +438,14 @@ V. Representar a la víctima en todo procedimiento penal;
 VI. Informar y asesorar a la víctima sobre las medidas alternativas de resolución de conflictos, y velar porque las mismas se realicen en estricto respeto de los principios que sustentan la justicia restaurativa, en especial, la voluntariedad; y
 
 VII. Vigilar la efectiva protección y goce de los derechos de las víctimas en las actuaciones del Ministerio Público en todas y cada una de las etapas del procedimiento penal y, cuando lo amerite, suplir las deficiencias de éste ante la autoridad jurisdiccional correspondiente cuando el Asesor Jurídico de las Víctimas considere que no se vela efectivamente por la tutela de los derechos de las víctimas por parte del Ministerio Público.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+En cualquier etapa del procedimiento, las víctimas podrán actuar por sí o a través de su Asesor jurídico, quien sólo promoverá lo que previamente informe a su representado.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+El Asesor jurídico intervendrá en representación de la víctima u ofendido en igualdad de condiciones que el Defensor.
 
 ###### ARTÍCULO 26.
 
@@ -622,3 +716,15 @@ OCTAVO.- Las disposiciones legales, reglamentarias y normativas que a la entrada
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los diecinueve días del mes de mayo de dos mil catorce. Diputada Presidenta.- SUSANA DEL CARMEN RIESTRA PIÑA.- Rúbrica.- Diputado Vicepresidente.- JOSÉ GAUDENCIO VÍCTOR LEÓN CASTAÑEDA.- Rúbrica.- Diputado Secretario.- SERGIO SALOMÓN CÉSPEDES PEREGRINA.- Rúbrica.- Diputado Secretario.- JULIÁN RENDÓN TAPIA.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los diecinueve días del mes de mayo de dos mil catorce.- El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. LUIS MALDONADO VENEGAS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE NOVIEMBRE DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al (sic) día primero de enero de dos mil quince.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Para la atención de las víctimas del delito de trata de personas, el Estado y sus municipios se deberán de coordinar atendiendo lo dispuesto por la Ley General de la materia.
+
+CUARTO. Las asesoras y asesores jurídicos de oficio de las víctimas, serán designados por la Institución correspondiente en la medida en que lo permita el presupuesto que se le asigne para tal fin.
