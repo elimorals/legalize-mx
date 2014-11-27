@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2014-08-26"
+last_updated: "2014-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -36,6 +36,8 @@ Que la Honorable Quincuagésima Novena Legislatura del Congreso del Estado se ha
 Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- Poder Legislativo.- Estado Libre y Soberano de Veracruz-Llave.
 
 La Honorable Quincuagésima Novena Legislatura del Congreso del Estado Libre y Soberano de Veracruz-Llave, en uso de la facultad que le confieren los artículos 33 fracciones I y VIII de la Constitución Política local; 47 de la Ley Orgánica del Poder Legislativo; 103 del Reglamento para el Gobierno Interior del Poder Legislativo; y en nombre del pueblo, expide la siguiente:
+
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO NÚMERO 302, PUBLICADO EN LA G.O. 27 DE NOVIEMBRE DE 2014, PARA LOS EFECTOS CONSTITUCIONALES Y LEGALES PROCEDENTES, TODAS LAS LEYES, DECRETOS, CÓDIGOS U ORDENAMIENTOS LEGALES DE OBSERVANCIA GENERAL VIGENTE AL MOMENTO DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO Y QUE EN SU DENOMINACIÓN CONTENGAN LA EXPRESIÓN "COMISIÓN PERMANENTE DE DESARROLLO REGIONAL" SE ENTENDERÁN REFERIDAS A LA “COMISIÓN PERMANENTE DE DESARROLLO SOCIAL, HUMANO Y REGIONAL".</small>
 
 LEY Número 9
 
@@ -127,7 +129,9 @@ IV. Ranchería, cuando el centro de población tenga más de quinientos y menos 
 
 V. Caserío, cuando el centro de población tenga menos de quinientos habitantes.
 
-Para los efectos de lo dispuesto en las fracciones II a IV de este artículo, la Congregación será la demarcación territorial que comprenda uno o más centros de población.
+> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+La Congregación será la demarcación territorial en la que funja como auxiliar del Ayuntamiento un Agente Municipal y que comprenda uno o más centros de población de los señalados en las fracciones II a V de este artículo, siempre que el número de habitantes de esa demarcación sea mayor de dos mil quinientos.
 
 Los Ayuntamientos promoverán el otorgamiento de los servicios públicos según las características de los centros de población de sus respectivos municipios, a fin de procurar la atención de las necesidades de sus habitantes y la participación de éstos en el desarrollo comunitario.
 
@@ -743,6 +747,10 @@ XXII. Impulso a la Juventud.
 
 XXIII. De Protección Civil.
 
+> <small>(ADICIONADA, G.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+XXIV. Desarrollo Social, Humano y Regional.
+
 ###### Artículo 41.
 
 Además de las señaladas en el artículo anterior, el Ayuntamiento podrá formar las Comisiones de carácter permanente o transitorias que requiera, conforme a las necesidades del servicio público. Asimismo, para su mejor prestación, podrá reasignar o reagrupar las funciones y servicios públicos señalados en el artículo 35, fracción XXV, debiendo notificarlo al Congreso del Estado.
@@ -1222,6 +1230,28 @@ IV. Canalizar al Órgano de Control Interno las quejas y denuncias que se presen
 V. Contribuir al cumplimiento de las disposiciones legales en materia de Protección Civil; y
 
 VI. Las demás señaladas en esta Ley y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, G.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 60 nonies. Son atribuciones de la Comisión de Desarrollo Social, Humano y Regional:
+
+I. Promover acciones con el Ejecutivo Estatal y Federal, en su caso, para la ejecución de los programas de desarrollo social que se apliquen en su territorio;
+
+II. Proponer acciones de desarrollo social con municipios vecinos, cuando la naturaleza de los programas así lo requiera;
+
+lll. Proponer acciones de desarrollo social con municipios de otras Entidades Federativas, previa autorización del Cabildo y del Congreso del Estado;
+
+IV. Inspeccionar el ejercicio de los fondos y recursos federales en materia de desarrollo social destinados al municipio en términos de las disposiciones aplicables, informando al Cabildo sobre el avance y los resultados generados con los mismos;
+
+V. Promover acciones con los sectores social y privado del Municipio en materia de desarrollo social;
+
+VI. Vigilar que la distribución y aplicación de los recursos provenientes de los programas sociales cumplan con la normatividad vigente para su ejecución y se reflejen en las zonas de atención prioritaria, previstas en la Ley de Desarrollo Social y Humano del Estado;
+
+VII. Difundir los programas de desarrollo social con que cuente el Ayuntamiento;
+
+VIII. Impulsar la prestación de servicios públicos, prioritariamente en las comunidades más necesitadas; y
+
+IX. Las demás que expresamente le señalen esta Ley y las demás Leyes aplicables.
 
 ### CAPÍTULO IX. DE LOS JEFES DE MANZANA Y ORGANISMOS AUXILIARES
 
@@ -1761,7 +1791,7 @@ Se exceptúa lo señalado en este artículo cuando se trate de entidades paramun
 
 ###### Artículo 78.
 
-Son organismos descentralizados las entidades creadas por acuerdo del Ayuntamiento, previa autorización del Congreso, con personalidad jurídica y patrimonio propios (sic), cualquiera que sea la estructura legal que adopten y cuyo objeto sea:
+Son organismos descentralizados las entidades creadas por acuerdo del Ayuntamiento, previa autorización del Congreso, con personalidad jurídica y patrimonio propios, cualquiera que sea la estructura legal que adopten y cuyo objeto sea:
 
 I. La prestación de una función o servicio público a cargo del municipio; o
 
@@ -3500,3 +3530,21 @@ G.O. 26 DE AGOSTO DE 2014.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se deroga cualquier disposición que contravenga al presente Decreto.
+
+G.O. 27 DE NOVIEMBRE DE 2014.
+
+DECRETO NÚMERO 301, POR EL QUE SE REFORMA EL ARTÍCULO 11 PÁRRAFO SEGUNDO DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se deroga cualquier disposición que contravenga al presente decreto.
+
+G.O. 27 DE NOVIEMBRE DE 2014.
+
+DECRETO NÚMERO 302, POR EL QUE SE ADICIONA LA FRACCIÓN XXIV AL ARTÍCULO 40 Y EL ARTÍCULO 60 NONIES A LA LEY ORGÁNICA DEL MUNICIPIO LIBRE.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Para los efectos constitucionales y legales procedentes, todas las Leyes, Decretos, Códigos u Ordenamientos Legales de observancia general vigente al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión "Comisión Permanente de Desarrollo Regional" se entenderán referidas a la “Comisión Permanente de Desarrollo Social, Humano y Regional".
+
+Tercero. Se deroga cualquier disposición que contravenga al presente decreto.
