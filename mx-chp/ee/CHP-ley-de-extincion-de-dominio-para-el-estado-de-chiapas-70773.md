@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-extincion-de-dominio-para-el-estado-de-chiapas-70773"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-23"
-last_updated: "2009-09-23"
+last_updated: "2014-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHP"
 ---
 # LEY DE EXTINCION DE DOMINIO PARA EL ESTADO DE CHIAPAS
 
-> <small>[N. DE E. VÉASE LEY NACIONAL DE EXTINCIÓN DE DOMINIO D.O.F. 09 DE AGOSTO DE 2019. TRANSITORIO PRIMERO.- EL PRESENTE DECRETO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL DIARIO OFICIAL DE LA FEDERACIÓN. TRANSITORIO SEGUNDO.- A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, SE ABROGA LA LEY FEDERAL DE EXTINCIÓN DE DOMINIO, REGLAMENTARIA DEL ARTÍCULO 22 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, ASÍ COMO LAS LEYES DE EXTINCIÓN DE DOMINIO DE LAS ENTIDADES FEDERATIVAS, Y SE DEROGAN TODAS LAS DISPOSICIONES LEGALES, REGLAMENTARIAS Y ADMINISTRATIVAS, QUE SE OPONGAN A LO DISPUESTO EN EL PRESENTE DECRETO. TRANSITORIO TERCERO.- EN UN PLAZO QUE NO EXCEDERÁ DE CIENTO OCHENTA DÍAS CONTADOS A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, LAS LEGISLATURAS DE LAS ENTIDADES FEDERATIVAS DEBERÁN ARMONIZAR SU LEGISLACIÓN RESPECTIVA CON EL PRESENTE DECRETO.]</small>
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO POR LA LEY NACIONAL DE EXTINCIÓN DE DOMINIO PUBLICADA EN EL D.O.F. DE 9 DE AGOSTO DE 2019, DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO.- EL PRESENTE DECRETO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL DIARIO OFICIAL DE LA FEDERACIÓN. SEGUNDO.- A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, SE ABROGA LA LEY FEDERAL DE EXTINCIÓN DE DOMINIO, REGLAMENTARIA DEL ARTÍCULO 22 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, ASÍ COMO LAS LEYES DE EXTINCIÓN DE DOMINIO DE LAS ENTIDADES FEDERATIVAS, Y SE DEROGAN TODAS LAS DISPOSICIONES LEGALES, REGLAMENTARIAS Y ADMINISTRATIVAS, QUE SE OPONGAN A LO DISPUESTO EN EL PRESENTE DECRETO. TERCERO.- EN UN PLAZO QUE NO EXCEDERÁ DE CIENTO OCHENTA DÍAS CONTADOS A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, LAS LEGISLATURAS DE LAS ENTIDADES FEDERATIVAS DEBERÁN ARMONIZAR SU LEGISLACIÓN RESPECTIVA CON EL PRESENTE DECRETO.]</small>
 
-LEY DE EXTINCION DE DOMINIO PARA EL ESTADO DE CHIAPAS
+LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 23 de septiembre de 2009.
 
@@ -85,7 +85,9 @@ La extinción de dominio es la pérdida de los derechos sobre los bienes mencion
 
 A falta de regulación suficiente en la presente Ley respecto de las instituciones y supuestos jurídicos regulados por la misma, se estará a las siguientes reglas de supletoriedad:
 
-I.- En la preparación del ejercicio de la acción de extinción de dominio, a lo previsto en el Código de Procedimientos Penales para el Estado de Chiapas.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+I.- En la preparación del ejercicio de la acción de extinción de dominio, a lo previsto en el Código de Procedimientos Penales aplicable.
 
 II.- En el juicio de extinción de dominio, a lo previsto en el Código de Procedimientos Civiles para el Estado de Chiapas.
 
@@ -105,9 +107,11 @@ A la acción de extinción de dominio se aplicarán conforme a lo previsto en el
 
 El Ministerio Público podrá desistirse de la acción de extinción de dominio en cualquier momento, hasta antes de que se dicte sentencia definitiva, previo acuerdo del Procurador General de Justicia del Estado. En los mismos términos, podrá desistirse de la pretensión respecto de ciertos bienes objeto de la acción de extinción de dominio.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 6°.
 
-Para la preparación de la acción de extinción de dominio, el Ministerio Público podrá emplear la información que se genere en las averiguaciones previas que inicie en términos del Código de Procedimientos Penales para el Estado de Chiapas.
+Para la preparación de la acción de extinción de dominio, el Ministerio Público podrá emplear la información que se genere en las averiguaciones previas que inicie en términos del Código de Procedimientos Penales aplicables.
 
 ###### Artículo 7°.
 
@@ -624,3 +628,11 @@ Dado en el Salón de Sesiones del Honorable Congreso del Estado de Chiapas, en l
 De conformidad con la fracción I, del artículo 42, de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los once días del mes de septiembre del año dos mil nueve.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE NOVIEMBRE DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día posterior a su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
