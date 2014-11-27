@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-64483"
 country: "mx"
 rank: "ley"
 publication_date: "2008-10-29"
-last_updated: "2008-10-29"
+last_updated: "2014-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64483&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 29 de octubre de 2008.
 
@@ -345,7 +345,7 @@ XVI. Fomentar el desarrollo de la industria forestal, así como regular la produ
 
 XVII. Impulsar el desarrollo de tecnologías que eficienten el aprovechamiento de la materia prima, productos y subproductos maderables y no maderables;
 
-XVlIl. Impulsar y coordinar mecanismos que eviten el uso inadecuado del fuego en actividades agropecuarias, generando alternativas de producción en coordinación con las instancias del sector de desarrollo rural;
+XVIII. Impulsar y coordinar mecanismos que eviten el uso inadecuado del fuego en actividades agropecuarias, generando alternativas de producción en coordinación con las instancias del sector de desarrollo rural;
 
 XIX. Promover y coordinarse con los ayuntamientos para el suministro de apoyos institucionales hacia la prevención y combate de plagas, enfermedades e incendios forestales;
 
@@ -1531,7 +1531,7 @@ El infractor al momento de comparecer ante la autoridad que conozca del procedim
 
 Tratándose del representante legal de personas físicas o morales deberá acreditarse como tal con el instrumento público respectivo o bien con carta poder firmada ante dos testigos y ratificada ante la propia autoridad o mediante comparecencia del interesado.
 
-Sin perjuicio de lo anterior, el infractor o su representante legal mediante escrito firmado podrán autorizar a la persona o personas que estime pertinente para oír y recibir notificaciones, realizar trámites, gestiones y comparencias que fueren necesarios para la tramitación de tal procedimiento, Incluyendo la interposición de recursos administrativos.
+Sin perjuicio de lo anterior, el infractor o su representante legal mediante escrito firmado podrán autorizar a la persona o personas que estime pertinente para oír y recibir notificaciones, realizar trámites, gestiones y comparencias (sic) que fueren necesarios para la tramitación de tal procedimiento, Incluyendo la interposición de recursos administrativos.
 
 ###### Artículo 147.
 
@@ -1629,9 +1629,11 @@ Además de la sanción administrativa, según sea el caso, la Comisión Forestal
 
 Corresponde a la Secretaría a través de la Comisión Forestal la emisión de dictámenes técnicos o periciales que solicite el Ministerio de Justicia o autoridades judiciales, con motivo de las denuncias presentadas por delitos forestales o ambientales tipificad tipificados en la legislación penal del Estado.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 163.
 
-En materia forestal la Secretaría a través de la Comisión Forestal será la Entidad coadyuvante del Ministerio Público, en términos del Código de Procedimientos Penales para el Estado de Chiapas y demás disposiciones aplicables. Lo anterior, sin perjuicio de la coadyuvancia que pueda hacer la víctima o el ofendido directo del ilícito, por sí mismo o a través de su representante legal.
+En materia forestal el organismo público denunciante, podrá ser la entidad coadyuvante del Ministerio Público, en términos del Código de Procedimientos Penales y demás disposiciones aplicables. Lo anterior, sin perjuicio de la coadyuvancia que pueda hacer la víctima o el ofendido directo del ilícito, por sí mismo o a través de su representante legal.
 
 ### Capítulo VI. De las Infracciones y Sanciones
 
@@ -1647,7 +1649,7 @@ III. Llevar a cabo el aprovechamiento de recursos forestales, la forestación y 
 
 IV. Establecer cultivos agrícolas o realizar labores de pastoreo en terrenos forestales en contravención con el Programa de Manejo, esta ley y demás disposiciones legales en la materia;
 
-V. TaIar, derribar, labrar o motoaserrear uno o más árboles, masas forestales, sin contar con la autorización correspondiente, emitida por la autoridad competente, excepto los destinados al uso doméstico;
+V. Talar, derribar, labrar o motoaserrear uno o más árboles, masas forestales, sin contar con la autorización correspondiente, emitida por la autoridad competente, excepto los destinados al uso doméstico;
 
 VI. Establecer plantaciones forestales comerciales en sustitución de la vegetación primaria nativa actual de los terrenos forestales, salvo los casos señalados en esta ley, su reglamento, normas oficiales mexicanas aplicables o de las autorizaciones que para tal efecto se expidan;
 
@@ -1792,3 +1794,11 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I, del artículo 42, de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los veintitrés días del mes de octubre del año dos mil ocho.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Jorge Antonio Morales Messner, Secretario de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE NOVIEMBRE DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
