@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-ejecucion-de-sanciones-penales-y-medidas-de-56604"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-05-30"
-last_updated: "2012-02-09"
+last_updated: "2014-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 CÓDIGO DE EJECUCIÓN DE SANCIONES PENALES Y MEDIDAS DE LIBERTAD ANTICIPADA PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE EJECUCIÓN DE SANCIONES PENALES Y MEDIDAS DE LIBERTAD ANTICIPADA PARA EL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 27 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 30 de mayo de 2007.
 
@@ -651,7 +653,7 @@ Si el sentenciado no paga la multa dentro del plazo que fija la sentencia, será
 
 ###### Artículo 34.
 
-En los casos en que la multa sea sustituida por trabajo a favor de la comunidad, el Juez de Ejecución, fijará el tiempo, las condiciones y el lugar donde el sentenciado cumplirá el trabajo y el plazo de la cuotas (sic) para el pago según el caso. Lo anterior de conformidad con los convenios que para tal efecto celebre la Secretaría.
+En los casos en que la multa sea sustituida por trabajo a favor de la comunidad, el Juez de Ejecución, fijará el tiempo, las condiciones y el lugar donde el sentenciado cumplirá el trabajo y el plazo de la cuotas para el pago según el caso. Lo anterior de conformidad con los convenios que para tal efecto celebre la Secretaría.
 
 #### Sección Segunda. De la Reparación del Daño
 
@@ -2234,3 +2236,13 @@ Artículo Décimo Segundo.- Dentro del término de seis meses contados a partir 
 Artículo Décimo Tercero.- Para instrumentar la aplicación del presente Código, se autoriza al Consejo de la Judicatura del Estado, para que tome las medidas necesarias sobre: traslado de funcionarios, designación de jueces de control, integración de tribunales de juicio oral y tribunales de alzada, designación de defensores públicos especializados en el sistema acusatorio, redistribución de competencias territoriales, asignación del despacho de rezagos y creación de órganos que resulten pertinentes, así también lo relativo a sueldos y salarios de los funcionarios judiciales.
 
 Artículo Décimo Cuarto.- A la entrada en vigor del presente Código, se derogan los artículos 15, 32, 41, 42, 46, 47, 49, 50, 60, 72, 90, 91, 92, 171 y del 200 al 223, todos del Código de Ejecución de Sanciones Penales y Medidas de Libertad Anticipada para el Estado de Chiapas.
+
+P.O. 27 DE NOVIEMBRE DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga el Código de Ejecución de Sanciones Penales y Medidas de Libertad Anticipada para el Estado de Chiapas, promulgado el 2 de mayo de 2007.
+
+Artículo Tercero.- Los procedimientos que en etapa de ejecución se encuentren pendientes de resolver, siempre que sea oportuno, deberán regirse por el presente ordenamiento.
+
+Artículo Cuarto.- Se derogan todas las disposiciones que se opongan al presente Decreto.
