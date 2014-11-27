@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-la-ley-de-adquisiciones-arrendamientos-y-15450"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-11-11"
-last_updated: "2014-09-18"
+last_updated: "2014-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MIC"
 
 REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES E INMUEBLES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2014.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 18 DE SEPTIEMBRE DE 2014, NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 15 DE SEPTIEMBRE DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014.
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el jueves 11 de noviembre de 1999.
 
@@ -151,7 +149,7 @@ VI. En el caso de arrendamiento, la indicación de si éste es con opción a com
 
 Las bases para las licitaciones públicas serán elaboradas por el Comité, con base en el requerimiento de las dependencias y entidades, en el que se haga la descripción general y se señalen las especificaciones, cantidad y unidad de medida de los bienes o servicios que sean objeto de la licitación. Se pondrán a disposición de los interesados a partir de la fecha de publicación de la convocatoria y hasta cuarenta y ocho horas previas al acto de presentación y apertura de proposiciones, y contendrán, como mínimo, lo siguiente:
 
-l. Nombre, denominación o razón social de la dependencia o entidad que las emita, así como de la Dirección;
+I. Nombre, denominación o razón social de la dependencia o entidad que las emita, así como de la Dirección;
 
 II. La forma en que deberán acreditarse los interesados o sus representantes; fecha y hora de la junta de aclaraciones a las bases de la licitación, siendo optativa la asistencia a las reuniones que, en su caso, se realicen; fecha y hora para la presentación y apertura de las proposiciones, garantías, comunicación del fallo y firma del contrato, en el domicilio de la Dirección;
 
@@ -353,7 +351,7 @@ Tratándose de bienes o servicios sujetos a precios oficiales, se reconocerán l
 
 Las dependencias, entidades y la Dirección, deberán establecer con precisión en los contratos que celebren, además del contenido de las bases de la licitación a que se refiere el artículo 9º de este Reglamento, las condiciones específicas de pago siguientes:
 
-l. Plazo para efectuarlo a partir de la fecha en que sea exigible la obligación, que en ningún caso podrá ser inferior a veinte días hábiles;
+I. Plazo para efectuarlo a partir de la fecha en que sea exigible la obligación, que en ningún caso podrá ser inferior a veinte días hábiles;
 
 II. Tasa de descuento que en su caso se pacte por pronto pago; y,
 
@@ -505,6 +503,34 @@ La Coordinación de Contraloría y la Consejería Jurídica del Ejecutivo del Es
 
 Las facultades y atribuciones del Subcomité de Adquisiciones del Sistema de Seguridad Pública y Procuración de Justicia del Estado de Michoacán de Ocampo y de sus integrantes se establecerán en el Reglamento Interno que apruebe el mismo órgano colegiado en su primera sesión ordinaria.
 
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+ARTICULO 38 BIS.- Se autoriza la constitución del Subcomité de Adquisiciones del Organismo Público Descentralizado Servicios de Salud de Michoacán, que de igual forma tendrá las atribuciones que tiene conferidas el Comité para efectuar los procedimientos a los que se refiere el artículo 5° de este Reglamento, en el rubro de Salud.
+
+El Subcomité estará integrado por:
+
+Presidencia.
+
+I. Titular de los Servicios de Salud de Michoacán;
+
+El Titular de la Delegación Administrativa de los Servicios de Salud o su equivalente, será quien fungirá como suplente del Presidente.
+
+Vocales.
+
+I. Titular de la Subdirección de Recursos Financieros o su equivalente en los Servicios de Salud de Michoacán;
+
+II. Un Representante de la Unidad Solicitante de los Servicios de Salud de Michoacán interesada en la adquisición de los bienes, arrendamiento o contratación de los servicios; y,
+
+III. El Director General del Comité de Adquisiciones del Poder Ejecutivo o quien éste designe.
+
+Secretaría Técnica.
+
+I. Titular de la Subdirección de Recursos Materiales o su equivalente en los Servicios de Salud de Michoacán.
+
+La Coordinación de Contraloría y la Consejería Jurídica del Ejecutivo del Estado de Michoacán de Ocampo, tendrán representantes permanentes en el Subcomité de Adquisiciones del Organismo Público Descentralizado Servicios de Salud de Michoacán, con derecho a voz pero sin derecho a voto.
+
+Las facultades y atribuciones del Subcomité de Adquisiciones del Organismo Público Descentralizado Servicios de Salud de Michoacán y de sus integrantes, se establecerán en el Reglamento Interno que apruebe el mismo órgano colegiado en su primera sesión ordinaria.
+
 ### Capítulo VI. De la Información y Verificación
 
 ###### ARTICULO 39.
@@ -570,3 +596,17 @@ El Subcomité de Adquisiciones del Sistema de Seguridad Pública y Procuración 
 ###### ARTÍCULO TERCERO.
 
 El Comité de Adquisiciones del Poder Ejecutivo, tendrá 15 días a partir de la publicación del presente Decreto para compartir al El Subcomité de Adquisiciones del Sistema de Seguridad Pública y Procuración de Justicia del Estado de Michoacán de Ocampo, el Padrón de Proveedores de la Administración Pública Estatal y todo lo relacionado con los procesos para llevar a cabo las licitaciones y adjudicaciones de contratos de adquisiciones y servicios relacionados.
+
+P.O. 27 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+El Subcomité de Adquisiciones del Organismo Público Descentralizado Servicios de Salud de Michoacán, deberá ser instalado dentro de los 15 días posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Comité de Adquisiciones del Poder Ejecutivo, tendrá 15 días a partir de la publicación del presente Decreto para compartir al Subcomité de Adquisiciones del Organismo Público Descentralizado Servicios de Salud de Michoacán, el Padrón de Proveedores de la Administración Pública Estatal y todo lo relacionado con los procesos para llevar a cabo las licitaciones y adjudicaciones de contratos de adquisiciones, arrendamientos y servicios relacionados.
