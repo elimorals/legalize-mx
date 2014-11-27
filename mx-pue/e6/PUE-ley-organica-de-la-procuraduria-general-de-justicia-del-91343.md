@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-procuraduria-general-de-justicia-del-91343"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-12-31"
-last_updated: "2013-12-30"
+last_updated: "2014-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91343&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Sección Décima Cuarta del Periódico Oficial del Estado de Puebla, el lunes 31 de diciembre de 2012.
 
@@ -135,7 +135,9 @@ V.- Vigilar la aplicación de los Programas Rectores de Profesionalización de l
 
 VI.- Conocer los resultados de los procesos de Evaluación y Control de Confianza y determinar lo conducente para fortalecer los márgenes de seguridad, confiabilidad, eficiencia y competencia del personal de la Dependencia;
 
-VII.- Autorizar el no ejercicio de la acción penal, así como revocar, modificar o confirmar las conclusiones con que se le dé vista en términos de lo dispuesto en el Código de Procedimientos en Materia de Defensa Social para el Estado Libre y Soberano de Puebla y demás disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+VII.- Autorizar el no ejercicio de la acción penal, así como revocar, modificar o confirmar las conclusiones con que se le dé vista en términos de lo dispuesto en el Código Nacional de Procedimientos Penales y demás disposiciones legales aplicables;
 
 VIII.- Prestar a las autoridades competentes el auxilio necesario, que fundadamente le requieran, para el debido ejercicio de sus funciones públicas;
 
@@ -151,7 +153,9 @@ XIII.- Presidir las Comisiones de Servicio de Carrera de Procuración de Justici
 
 XIV.- Nombrar a los servidores públicos de la Dependencia que legalmente le competa designar, atendiendo, en su caso, al Servicio de Carrera Ministerial, Pericial y Policial;
 
-XV.- Aplicar y supervisar el cumplimiento de los ordenamientos legales y reglamentarios aplicables para la autorización, revalidación, verificación, supervisión, suspensión o cancelación del registro y autorización de los servicios de seguridad privada; y
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+XV.- Administrar, destinar, enajenar y destruir los bienes asegurados, conforme a lo previsto en los ordenamientos legales aplicables y los acuerdos y lineamientos que se emitan para tal fin, y resolver las inconformidades que se presenten respecto de las actuaciones relacionados a su devolución, uso o destino, en tanto se encuentren en reguardo del Ministerio Público; y
 
 XVI.- Las que le señalen los demás ordenamientos legales aplicables.
 
@@ -421,15 +425,39 @@ b) Procurar que reciban atención médica y psicológica cuando sea necesaria;
 
 c) Adoptar las medidas que se consideren necesarias tendentes a evitar que se ponga en peligro su integridad física y psicológica, en el ámbito de su competencia;
 
-d) Preservar los indicios y elementos de prueba que la víctima y/u ofendido aporten en el momento de la intervención policial y remitirlos de inmediato al Ministerio Público encargado del asunto para que éste acuerde lo conducente; y
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-e) Asegurar que puedan llevar a cabo la identificación del imputado sin riesgo para ellos.
+d) Preservar los indicios y elementos de prueba que la víctima y/u ofendido aporten en el momento de la intervención policial y remitirlos de inmediato al Ministerio Público encargado del asunto para que éste acuerde lo conducente;
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+e) Asegurar que puedan llevar a cabo la identificación del imputado sin riesgo para ellos; y
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+f) Informar a la víctima u ofendido sobre los derechos que en su favor se establecen.
 
 XIII.- Dar cumplimiento a las órdenes de aprehensión y demás mandatos ministeriales y jurisdiccionales de que tenga conocimiento con motivo de sus funciones;
 
-XIV.- Informar a la persona al momento de su detención sobre los derechos que en su favor establece la Constitución Política de los Estados Unidos Mexicanos; y
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-XV.- Las que le señalen los demás ordenamientos legales aplicables.
+XIV.- Informar a la persona al momento de su detención sobre los derechos que en su favor establece la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+XV.- La Policía Ministerial operadora del Sistema Penal Acusatorio, además estará facultada para:
+
+a) Recibir denuncias anónimas e inmediatamente hacerlo del conocimiento del Ministerio Público a efecto de que éste coordine la investigación;
+
+b) Practicar las inspecciones y otros actos de investigación, así como reportar los resultados al Ministerio Público. En aquellos que se requiera autorización judicial, deberá solicitarla a través del Ministerio Público;
+
+c) Recolectar y resguardar objetos relacionados con la investigación de los delitos, en los términos de la fracción VIII;
+
+d) Entrevistar a las personas que pudieran aportar algún dato o elemento para la investigación; y
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+XVI.- Las que le señalen los demás ordenamientos legales aplicables.
 
 ### CAPÍTULO VI. DE LAS BASES DE ORGANIZACIÓN
 
@@ -437,9 +465,11 @@ XV.- Las que le señalen los demás ordenamientos legales aplicables.
 
 La Procuraduría General de Justicia del Estado, además de su Titular, contará con Fiscalías Generales, Coordinaciones y Direcciones Generales, Direcciones, Coordinaciones, Supervisiones, y demás unidades necesarias. El Reglamento de esta Ley describirá el número, distribución, funciones y niveles de las áreas, para el cumplimiento de sus objetivos acorde con las necesidades y el presupuesto.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 28.
 
-Los Fiscales Generales, los responsables de las unidades administrativas relacionadas con las áreas de control y supervisión de averiguaciones previas y procesos y las vinculadas con el ejercicio e inejercicio de la acción penal, tendrán la calidad de agentes del Ministerio Público.
+Los Fiscales Generales, los responsables de las unidades administrativas relacionadas con las áreas de control y supervisión de averiguaciones previas o carpetas de investigación y/o procesos y las vinculadas con el ejercicio e inejercicio de la acción penal, tendrán la calidad de agentes del Ministerio Público.
 
 ###### Artículo 29.
 
@@ -851,6 +881,30 @@ La Comisión de Honor y Justicia, será presidida por el Procurador General de J
 
 El funcionamiento y organización de la Comisión de Honor y Justicia será en los términos de las disposiciones reglamentarias correspondientes.
 
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 60 BIS.- La Comisión de Honor y Justicia tendrá las atribuciones siguientes:
+
+I.- Sesionar en audiencia pública;
+
+II.- Conocer de las faltas graves a la disciplina en que incurran los elementos de la Policía Ministerial;
+
+III.- Solicitar los informes que considere necesarios para el esclarecimiento y resolución de los asuntos de su competencia;
+
+IV.- Resolver e imponer las sanciones a los elementos de la Policía Ministerial por las faltas graves a la disciplina;
+
+V.- Dictar políticas, lineamientos, acuerdos generales y resoluciones relativas al régimen disciplinario de los elementos de la Policía Ministerial;
+
+VI.- Vigilar el cumplimiento de sus resoluciones y acuerdos;
+
+VII.- Velar por la pronta y expedita substanciación de los procedimientos en relación con las faltas disciplinarias graves, y
+
+VIII.- Asegurar el cumplimiento de las formalidades establecidas en Ley, respecto el procedimiento substanciado por la Visitaduría General, y resolver lo que proceda.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 60 TER.- La Visitaduría General será la instancia encargada de substanciar el procedimiento y elaborar el proyecto de resolución para que la Comisión de Honor y Justicia conozca y resuelva de las faltas graves a la disciplina de los elementos de la Policía Ministerial.
+
 ###### Artículo 61.
 
 Corresponde a la Comisión de Honor y Justicia aplicar las sanciones que deban imponerse a los integrantes de la Policía Ministerial, por el incumplimiento a las obligaciones señaladas en esta Ley y normatividad aplicable a la mencionada corporación policial, lo que se traduce en faltas a la disciplina que serán calificadas como graves.
@@ -864,6 +918,22 @@ II.- Vejar o insultar a sus superiores, a elementos policiales del mismo grado o
 III.- Asistir al servicio sin pulcritud en su persona o descuidar los documentos que se generen con motivo de sus funciones; y
 
 IV.- Ausentarse del servicio, comisión, o funciones encomendadas por un periodo menor de tres días.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 61 BIS.- Para la aplicación de las correcciones disciplinarias, se tomarán en cuenta:
+
+I.- Los antecedentes, el nivel jerárquico y las condiciones del infractor;
+
+II.- La conducta observada con anterioridad al hecho que se pretende sancionar, la intencionalidad o negligencia;
+
+III.- Circunstancias socioeconómicas;
+
+IV.- Los perjuicios originados en el servicio;
+
+V.- Las condiciones exteriores, los medios de ejecución y gravedad del hecho; y
+
+VI.- La reincidencia del infractor.
 
 ###### Artículo 62.
 
@@ -889,15 +959,7 @@ El procedimiento se instaurará ante la unidad administrativa que determine el R
 
 ###### Artículo 64.
 
-Las sanciones disciplinarias que corresponda imponer a la Comisión de Honor y Justicia, se sujetarán al procedimiento siguiente:
-
-I.- Se le notificará personalmente, a través de la unidad administrativa que determine el Reglamento de esta Ley, al elemento policial sujeto a procedimiento, la naturaleza y causa de la acusación, a fin de que pueda defenderse por sí o por medio de un defensor;
-
-II.- Se le concederá un plazo de cinco días hábiles para que ofrezca las pruebas que estime procedentes y manifieste lo que a su derecho importe; y, en un plazo máximo de diez días hábiles se celebrará la audiencia de desahogo de pruebas y presentación de alegatos; y
-
-III.- Una vez celebrada la audiencia referida en la fracción anterior, la unidad administrativa que determine el Reglamento, turnará el expediente a la Comisión de Honor y Justicia para que resuelva la existencia o inexistencia de la falta disciplinaria imponiendo, en su caso, la sanción que corresponda atendiendo a la gravedad del hecho atribuido.
-
-Los procedimientos a que se refiere este artículo, deberán realizarse con estricto apego a las disposiciones legales aplicables y se observará en todo momento las formalidades esenciales del procedimiento.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2014)
 
 ###### Artículo 65.
 
@@ -931,9 +993,11 @@ II.- Tres meses de salario base.
 
 En los casos en que el servidor público separado se desista de la acción de que se trate, en cualquier etapa del procedimiento y hasta antes de que se dicte resolución definitiva, la Procuraduría podrá cubrir la indemnización que proceda de conformidad con las normas aplicables.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 70.
 
-En todo lo no previsto en el procedimiento señalado en el artículo 64, así como en la apreciación y valoración de las pruebas, se observarán las disposiciones del Código de Procedimientos en Materia de Defensa Social para el Estado Libre y Soberano de Puebla.
+En lo no previsto en los procedimientos señalados en los artículos 73 y 73 Bis de este ordenamiento legal, se observarán las disposiciones de la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla, con excepción de la valoración de las pruebas para la que se aplicarán las disposiciones del Código de Procedimientos en materia penal que esté vigente en el lugar de la comisión del hecho que haya dado origen al procedimiento de sanción administrativa. Asimismo se aplicarán, en lo conducente, las del Código Penal del Estado.
 
 ### CAPÍTULO V. DE LAS SANCIONES
 
@@ -967,6 +1031,18 @@ IV.- Concluido el término antes señalado y dentro de los cinco días hábiles 
 
 V.- Se podrán imponer a los servidores públicos de la Procuraduría por el incumplimiento de las obligaciones señaladas en esta Ley, las sanciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla, mediante el procedimiento establecido en el presente artículo.
 
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 73 BIS.- Las sanciones disciplinarias que corresponda imponer a la Comisión de Honor y Justicia, se sujetarán al procedimiento siguiente:
+
+I.- Se le notificará personalmente, a través de la unidad administrativa que determine el Reglamento de esta Ley, al elemento policial sujeto a procedimiento, la naturaleza y causa de la acusación, a fin de que pueda defenderse por sí o por medio de un defensor;
+
+II.- Se le concederá un plazo de cinco días hábiles para que ofrezca las pruebas que estime procedentes y manifieste lo que a su derecho importe; y, en un plazo máximo de diez días hábiles se celebrará la audiencia de desahogo de pruebas y presentación de alegatos; y
+
+III.- Una vez celebrada la audiencia referida en la fracción anterior, la unidad administrativa que determine el Reglamento, turnará el expediente a la Comisión de Honor y Justicia para que resuelva la existencia o inexistencia de la falta disciplinaria imponiendo, en su caso, la sanción que corresponda atendiendo a la gravedad del hecho atribuido.
+
+Los procedimientos a que se refiere este artículo, deberán realizarse con estricto apego a las disposiciones legales aplicables y se observará en todo momento las formalidades esenciales del procedimiento.
+
 ###### Artículo 74.
 
 En cualquier momento. previo o posterior a la celebración de la audiencia, el Procurador General de Justicia podrá determinar la suspensión temporal del presunto infractor, siempre que a su juicio así convenga para la conducción o continuación de las investigaciones, la cual cesará en cumplimiento a la resolución que se emita.
@@ -981,11 +1057,93 @@ Cuando proceda la separación, remoción o inhabilitación de servidor público 
 
 La cancelación del Certificado deberá registrarse en los términos del Sistema Nacional de Seguridad Pública.
 
-### CAPÍTULO I. DE LAS GENERALIDADES DEL SERVICIO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO VI. DEL PROCEDIMIENTO DE SANCIÓN POR INCUMPLIMIENTO DE LAS OBLIGACIONES DE LOS INTEGRANTES DE LA PROCURADURÍA
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 76 BIS.- La Visitaduría General será la unidad administrativa facultada para la substanciación del procedimiento y la elaboración del proyecto de resolución que presente al Procurador para la imposición de sanciones a los servidores públicos de la Procuraduría, por incurrir en causas de incumplimiento de las obligaciones que tienen encomendadas con motivo de su encargo.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+Articulo 76 TER.- Los titulares de las áreas administrativas y especializadas que faculte el Reglamento deberán formular queja o denuncia ante la instancia correspondiente, cuando tengan conocimiento del incumplimiento de obligaciones de sus subordinados, que pueda constituir causa de responsabilidad administrativa, sin que exista necesidad de ratificación para el seguimiento del mismo.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 76 QUÁTER.- Si se cuenta con elementos que hagan probable la responsabilidad del servidor público, se iniciará el procedimiento a que se refiere el artículo 73 de la Ley y una vez desahogada la audiencia de pruebas y alegatos a que se refiere dicho artículo, la Visitaduría General turnará el expediente con un proyecto de resolución al Procurador para que resuelva sobre la existencia o inexistencia de la responsabilidad, e imponga, en su caso, la sanción que corresponda, o bien, dicte la resolución correspondiente por delegación de esta facultad hecha por el Procurador.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 76 QUINQUIES.- Para la imposición de las sanciones a que se refiere este Capítulo se tomarán en cuenta los siguientes elementos:
+
+I.- La responsabilidad en que incurra y la conveniencia de suprimir prácticas que infrinjan, en cualquier forma, las obligaciones de los servidores públicos de la Procuraduría;
+
+II.- Las circunstancias socioeconómicas del servidor público;
+
+III.- El nivel jerárquico, los antecedentes y las condiciones del infractor;
+
+IV.- Las condiciones exteriores y los medios de ejecución;
+
+V.- La antigüedad en el servicio;
+
+VI.- La reincidencia en el incumplimiento de obligaciones, y
+
+VII.- El monto del beneficio, daño o perjuicio económico derivado del incumplimiento.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 76 SEXIES.- Además de las sanciones por responsabilidad administrativa señaladas en la Ley, se podrán imponer la destitución del empleo, cargo o comisión, inhabilitación temporal hasta por doce años para desempeñar empleos, cargos o comisiones en el servicio público o sanción económica.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 76 SEPTIES.- Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro o cause daños o perjuicios, ésta será de uno a cinco años si el monto de aquéllos no excede del equivalente a cien veces el salario mínimo, y de cinco a doce años si excediere de dicho límite.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 76 OCTIES.- En caso de imposición de sanciones económicas por beneficios obtenidos, daños o perjuicios causados por incumplimiento de las obligaciones de los servidores públicos de la Procuraduría, el monto de ellas será hasta dos tantos del lucro obtenido y de los daños o perjuicios causados, independientemente de la restitución que deberá hacer el infractor del bien obtenido.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+Articulo 76 NONIES.- Se otorgará un plazo máximo de tres años para que el servidor público pague la sanción económica que se le imponga, pero en ningún caso los pagos que se convengan dejarán al servidor público con una percepción inferior al salario mínimo vigente para el Estado.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+Articulo 76 DECIES.- Para la imposición y ejecución de las sanciones que corresponde imponer al Procurador, en términos de la Ley, se deberán observar las siguientes reglas:
+
+I.- La amonestación, suspensión, remoción, destitución, inhabilitación del empleo, cargo o comisión de los servidores públicos, así como la sanción económica será impuesta por el Procurador;
+
+II.- Las sanciones económicas serán impuestas por el Procurador, y se ejecutarán en los términos que establecen las leyes respectivas; y
+
+III.- El Director General Administrativo ejecutará las sanciones impuestas.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+Articulo 76 UNDECIES.- El Procurador podrá abstenerse de sancionar al infractor por una sola vez, cuando lo estime pertinente, justificando la causa de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito; lo ameriten los antecedentes y circunstancias del infractor y el daño causado por éste no exceda de cien veces el salario mínimo diario vigente en el Estado.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 76 DUODECIES.- Las sanciones impuestas a que se refiere este Capítulo serán registradas por la Visitaduría General e inscritas en el Registro Nacional de Personal de Seguridad Pública y notificadas al Director General Administrativo para efectos de su seguimiento y ejecución.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 76 TRIDECIES.- La suspensión provisional suspenderá los efectos del acto que haya dado origen a la ocupación del empleo, cargo o comisión y regirá desde el momento en que sea notificada al interesado o éste quede enterado de la resolución por cualquier medio; ésta cesará cuando a juicio del Procurador, así conviene para la conducción o continuación de las investigaciones, con independencia de la iniciación, continuación o conclusión del procedimiento a que se refiere el artículo 73 de la Ley y este Capítulo en relación con la probable responsabilidad de los servidores públicos.
+
+Si el Servidor Público suspendido provisionalmente, no resultare responsable de la falta o faltas que se le imputen, será restituido en el goce de sus derechos.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 76 QUATERDECIES.- Las facultades para imponer las sanciones a que se refiere este Capítulo prescriben:
+
+I.- En un año si el beneficio obtenido o el daño causado por el infractor no excede del equivalente a cincuenta días de salario mínimo vigente, o si la responsabilidad no fuere estimable en dinero, y
+
+II.- En tres años en los demás casos.
+
+En todos los casos, la prescripción se interrumpirá al iniciarse el formal procedimiento administrativo mediante el cual corresponda imponer al Procurador sanciones.
 
 ## TÍTULO TERCERO. DEL SERVICIO DE CARRERA DE PROCURACIÓN DE JUSTICIA
 
-### CAPÍTULO II. DEL SERVICIO DE CARRERA MINISTERIAL Y PERICIAL
+### CAPÍTULO I. DE LAS GENERALIDADES DEL SERVICIO
 
 ###### Artículo 77.
 
@@ -1011,7 +1169,7 @@ Los planes de estudios se integrarán por el conjunto de contenidos teóricos y 
 
 Sólo ingresarán y permanecerán quienes cursen y aprueben los programas de formación, capacitación y profesionalización que determine la Dependencia acorde con los programas establecidos.
 
-### CAPÍTULO III. DEL DESARROLLO DE LA POLICÍA MINISTERIAL
+### CAPÍTULO II. DEL SERVICIO DE CARRERA MINISTERIAL Y PERICIAL
 
 ###### Artículo 83.
 
@@ -1161,7 +1319,7 @@ a) Separación por el incumplimiento de los requisitos de ingreso y permanencia;
 
 b) Remoción por incurrir en causas de responsabilidad con motivo de su encargo.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO III. DEL DESARROLLO DE LA POLICÍA MINISTERIAL
 
 ###### Artículo 93.
 
@@ -1285,27 +1443,61 @@ Los policías ministeriales que hayan alcanzado la edad límite para la permanen
 
 ## TÍTULO CUARTO. DEL SISTEMA PROCESAL PENAL ACUSATORIO
 
-### CAPÍTULO ÚNICO. DEL MINISTERIO PÚBLICO SUBALTERNO
-
-> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+### CAPÍTULO ÚNICO
 
 ###### Artículo 102.
 
 El Sistema Procesal Penal Acusatorio será operado por personal de la Procuraduría capacitado para tal efecto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 103.
 
-El Procurador General de Justicia, para los procedimientos penales del sistema acusatorio, tendrá las facultades siguientes:
+El Procurador General de Justicia y en quienes delegue atribuciones, para los procedimientos penales del sistema acusatorio, tendrán las facultades siguientes:
 
 I.- Confirmar, modificar o revocar la solicitud de los agentes del Ministerio Público relativa al sobreseimiento, absolución o petición de una sanción penal menor a la que se sugiere en la acusación;
 
 II.- Resolver la excusa o la recusación que se promueva respecto de los agentes de Ministerio Público;
 
-III.- Resolver la reclamación de la víctima u ofendido de las determinaciones de reserva;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-IV.- Autorizar y en su caso confirmar o revocar el no ejercicio de la acción penal por alguna causa de sobreseimiento; y
+III.- Resolver la reclamación de la víctima u ofendido de las determinaciones de archivo temporal;
 
-V.- Las demás que le otorguen las disposiciones aplicables en la materia.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+IV.- Autorizar, y en su caso, confirmar o revocar el no ejercicio de la acción penal por alguna causa de sobreseimiento;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+V.- Autorizar la solicitud del desistimiento de la acción penal en cualquier etapa del procedimiento, hasta antes de dictada la resolución de segunda instancia;
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+VI.- Autorizar la Solicitud de cancelación de una orden de aprehensión o la reclasificación de la conducta o los hechos por los cuales hubiese ejercido la acción penal, cuando estime su improcedencia por la aparición de nuevos datos;
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+VII.- Autorizar la solicitud de sustitución de la prisión preventiva oficiosa por otra medida cautelar, en caso de que no resulte proporcional para garantizar la comparecencia del imputado en el proceso, el desarrollo de la investigación, la protección de la víctima, testigos y la comunidad;
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+VIII.- Autorizar la entrega vigilada y las operaciones encubiertas, de acuerdo al marco de la investigación;
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+IX.- Autorizar la ap1icación de los criterios de oportunidad, en términos de los ordenamientos legales aplicables;
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+X.- Solicitar a los concesionarios, permisionarios o comercializadoras del servicio de telecomunicaciones o comunicación vía satélite, su localización geográfica en tiempo real de los equipos de comunicación móvil asociados a una línea que estén relacionados con los hechos que se investigan en términos de las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+XI.- Pronunciarse ante la omisión del agente del Ministerio Público por no solicitar el sobreseimiento parcial o total, la suspensión del proceso y formular acusación; y
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+XII.- Las que le señalen los demás ordenamientos legales aplicables.
 
 ###### Artículo 104.
 
@@ -1323,39 +1515,63 @@ V.- Realizar propuestas de mejora al Procurador en el ámbito administrativo, le
 
 VI.- Las demás que le atribuyan el Reglamento de esta Ley, el Procurador General de Justicia y demás normatividad aplicable.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 105.
 
-El agente del Ministerio Público, además de las atribuciones que le otorga el artículo 19 de este mismo ordenamiento legal, bajo los principios de responsabilidad y lealtad, en los procedimientos penales del Sistema Acusatorio tendrán las atribuciones siguientes:
+El Agente del Ministerio Público, además de las atribuciones que le otorga el artículo 19 de este mismo ordenamiento legal, bajo los principios de responsabilidad y lealtad, en los procedimientos penales del Sistema Acusatorio, tendrá las atribuciones siguientes:
 
-I.- En los Medios Alternativos en Materia Penal, promover e intervenir en la solución de las controversias penales mediante los medios alternativos, en los casos autorizados por la legislación aplicable;
+I.- En la etapa preliminar o de investigación:
 
-II.- En la etapa preliminar o de investigación:
+a) Recibir, registrar, orientar y canalizar al ciudadano a las instancias públicas o privadas correspondientes para la solución a su problema planteado;
 
-a) Iniciar la carpeta de Investigación en los términos legales aplicables;
+b) Privilegiar la aplicación de medios alternativos en los casos autorizados por la legislación aplicable;
 
-b) Abstenerse de dar inicio a la carpeta de Investigación, en términos de las disposiciones normativas emitidas para ello;
+c) Iniciar la carpeta de Investigación en los términos legales aplicables;
 
-c) Aplicar los criterios de oportunidad, abstenerse de investigar, determinar el archivo temporal, resolver la reserva;
+d) Abstenerse de dar inicio a la carpeta de Investigación, en términos de las disposiciones normativas emitidas para ello;
 
-d) Vigilar que durante la investigación se respeten los derechos fundamentales de las personas relacionadas a los hechos que se investigan, los testigos, las víctimas y ofendidos;
+e) Aplicar los criterios de oportunidad, abstenerse de investigar, determinar el archivo temporal, resolver la reserva;
 
-e) Solicitar prueba anticipada en los términos de las disposiciones legales aplicables;
+f) Controlar los acuerdos reparatorios de cumplimiento inmediato y vigilar su acatamiento, dando conocimiento al Juez de Control competente en caso de su incumplimiento;
 
-f) Solicitar la revocación de la suspensión del procedimiento, medidas cautelares o de cualquier otra determinación judicial que afecte los objetivos del procedimiento penal Acusatorio;
+g) Vigilar que durante la investigación se respeten los derechos fundamentales de las personas relacionadas a los hechos que se investigan, los testigos, las víctimas y ofendidos;
 
-g) Solicitar al Juez de Control competente, por escrito, por vía electrónica o en audiencia privada, las órdenes de cateo, de aprehensión, comparecencia, presentación o de medidas precautorias que requieran autorización judicial;
+h) Solicitar prueba anticipada en los términos de las disposiciones legales aplicables;
 
-h) Decretar las medidas cautelares y providencias precautorias que le atribuya esta Ley u otros ordenamientos;
+i) Solicitar la revocación de la suspensión del procedimiento, medidas cautelares o de cualquier otra determinación judicial que afecte los objetivos del procedimiento penal Acusatorio;
 
-i) Otorgar la libertad provisional a los (sic) personas detenidas que se encuentren a su disposición tratándose de delitos culposos por tránsito de vehículos en los términos de las disposiciones legales aplicables;
+j) Solicitar al Juez de Control competente, por escrito, por vía electrónica o en audiencia privada, las órdenes de cateo, de aprehensión, comparecencia, presentación o de medidas precautorias que requieran autorización judicial;
 
-j) Aplicar las medidas de apremio y las correcciones disciplinarias que le autorice la ley para hacer cumplir sus determinaciones independientemente de la facultad para iniciar averiguación previa por los delitos que resulten cometidos ante el incumplimiento a su requerimiento; y
+k) Decretar las medidas cautelares y providencias precautorias que le atribuya esta Ley u otros ordenamientos;
 
-k) Solicitar a la Autoridad Judicial las resoluciones para hacer cumplir sus determinaciones independientemente de la facultad para iniciar carpetas de investigación por los delitos que resulten cometidos ante el incumplimiento a su requerimiento.
+1) Disponer la libertad del imputado, previniéndolo en términos del Código Nacional de Procedimientos Penales y apercibiéndolo con imponerle medidas de apremio en caso de desobediencia injustificada;
 
-III.- En la etapa de preparación de juicio:
+m) Aplicar las medidas de apremio y las correcciones disciplinarias que le autorice la ley para hacer cumplir sus determinaciones independientemente de la facultad para iniciar averiguación previa o carpeta de investigación por los delitos que resulten cometidos ante el incumplimiento a su requerimiento;
 
-a) Promover e intervenir en la solución de las controversias penales mediante los medios alternativos, en los casos autorizados por la legislación aplicable;
+n) Ordenar y vigilar la debida aplicación y ejecución de todas las medidas necesarias, con el objeto de impedir que se extravíen, destruyan o alteren los indicios, así como corroborar de que se han seguido todas y cada una de las reglas, protocolos para su conservación y procesamiento;
+
+o) Solicitar a la Autoridad Judicial las resoluciones para hacer cumplir sus determinaciones independientemente de la facultad para iniciar carpetas de investigación por los delitos que resulten cometidos ante el incumplimiento a su requerimiento;
+
+p) Realizar las funciones de investigación de los delitos en materias concurrentes, en los casos que los diferentes ordenamientos legales lo mencionen;
+
+q) Ordenar a la Policía y a sus auxiliares, de acuerdo al ámbito de su competencia, la práctica de actos de investigación necesarios para el esclarecimiento del hecho delictivo y anal izar los que las autoridades, debido a sus funciones, hayan practicado;
+
+r) Instruir a las policías que deben sujetarse siempre a la legalidad, pertinencia, suficiencia y contundencia de todos los indicios recolectados o que estén por recolectar, así como las actividades y diligencias que deban desempeñar en términos de sus funciones;
+
+s) Solicitar la práctica de peritajes y diligencias con el objeto de obtener otros medios de prueba;
+
+t) Requerir cuando sea necesario al órgano jurisdiccional la autorización de actos de investigación y demás actuaciones;
+
+u) Ordenar la detención y la retención de los imputados cuando resulte procedente de acuerdo a lo que establecen las disposiciones legales aplicables;
+
+v) Recabar todos los elementos necesarios para el esclarecimiento y determinación del daño causado por el hecho delictivo y su cuantificación para la reparación correspondiente; y
+
+w) Otorgar las medidas de seguridad que sean necesarias, con el objeto de garantizar que las víctimas u ofendidos o testigos del hecho delictivo puedan llevar a cabo la identificación del imputado sin ningún riesgo para ellos.
+
+II.- En la etapa de preparación de juicio:
+
+a) Promover e intervenir en la solución de las controversias penales mediante los medios alternativos en los casos autorizados por la legislación aplicable;
 
 b) Solicitar la suspensión del proceso, la apertura del procedimiento abreviado, y demás resoluciones en los supuestos previstos por la legislación y normatividad aplicable;
 
@@ -1365,7 +1581,7 @@ d) Concretar la acusación y en su caso, ampliar ésta cuando proceda; y
 
 e) Prever lo relativo a la reparación del daño exigible al imputado.
 
-IV.- En la etapa de Juicio:
+III.- En la etapa de Juicio:
 
 a) Reproducir la prueba que acredite los hechos y la comisión o participación de la persona imputada y la existencia del daño;
 
@@ -1373,11 +1589,13 @@ b) Solicitar las providencias que salvaguarden la seguridad de las víctimas, of
 
 c) Interponer los incidentes y recursos ante la Autoridad Judicial en términos de las disposiciones legales aplicables.
 
-V.- En la ejecución de sanciones penales y medidas cautelares:
+IV.- En la ejecución de sanciones penales y medidas de seguridad:
 
-Intervenir en las audiencias para proporcionar al Juez la información para que éste resuelva la necesidad de imponer, modificar o extinguir medidas cautelares, o bien, la viabilidad o negativa de modificar o extinguir las sanciones penales.
+a) Intervenir en las audiencias para proporcionar al Juez la información para que éste resuelva la necesidad de imponer, modificar o extinguir medidas cautelares, o bien, la viabilidad o negativa de modificar o extinguir las sanciones penales y/o medidas de seguridad, así como para resolver cualquier otro planteamiento presentado a su consideración, y
 
-VI.- Las demás que prevean las disposiciones legales aplicables.
+b) Promover los incidentes para obtener el pago de la reparación del daño.
+
+V.- Las demás que prevean las disposiciones legales aplicables.
 
 ###### Artículo 106.
 
@@ -1422,6 +1640,10 @@ VI.- Las que les asignen otros ordenamientos legales aplicables al Sistema Proce
 ## TÍTULO QUINTO
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+### CAPÍTULO ÚNICO. DEL MINISTERIO PÚBLICO SUBALTERNO
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 109.
 
@@ -1544,3 +1766,13 @@ DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 19 DE LA LEY ORGÁNIC
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor a los quince días siguientes al de su publicación en el Periódico Oficial del Estado con excepción de los artículos 26, 28, 103 y 105, los cuales entrarán en vigor al día siguiente de su publicación sólo en las regiones judiciales en las que esté vigente el Código Nacional de Procedimientos Penales.
+
+Para las regiones judiciales en las que no esté vigente el Código Nacional de Procedimientos Penales, el presente Decreto entrará en vigor atendiendo los artículos Segundo Transitorio del Decreto publicado el día diecisiete de junio de dos mil once en el Periódico Oficial del Estado de Puebla, por virtud del cual se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica del Poder Judicial del Estado y el artículo Único Transitorio del Decreto publicado en el Periódico Oficial del Estado de Puebla, el trece de septiembre de dos mil trece, por virtud del cual se reforman las fracciones II y III del artículo 10 Bis del mismo ordenamiento legal.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor de este Decreto, serán concluidos conforme a las disposiciones vigentes al momento de su inicio.
