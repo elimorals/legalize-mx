@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-la-defensoria-publica-del-estado-de-chiapas-86806"
 country: "mx"
 rank: "ley"
 publication_date: "2012-02-09"
-last_updated: "2012-02-09"
+last_updated: "2014-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el jueves 9 de febrero de 2012.
 
@@ -41,9 +41,11 @@ Ley de la Defensoría Pública del Estado de Chiapas
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 1°.
 
-La presente Ley es de orden público e interés social, tiene por objeto regular la organización, atribuciones y funcionamiento del Instituto de la Defensoría Social del Estado de Chiapas, y normar los servicios que presta.
+La presente Ley es de orden público e interés social, tiene por objeto regular la organización, atribuciones y funcionamiento del Instituto de la Defensoría Pública del Estado de Chiapas, y normar los servicios que presta.
 
 ###### Artículo 2°.
 
@@ -53,13 +55,19 @@ I. Consejo de la Judicatura: al Consejo de la Judicatura del Poder Judicial del 
 
 II. Defensor Público: Al servidor público que preste el servicio de Defensa Pública, en términos de esta Ley.
 
-III. Director: al Director General del Instituto de la Defensoría de (sic) Social del Estado de Chiapas.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-IV. Instituto: al Instituto de la Defensoría Social del Estado de Chiapas.
+III. Director: al Director General del Instituto de la Defensoría Pública del Estado de Chiapas.
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+IV. Instituto: al Instituto de la Defensoría Pública del Estado de Chiapas.
 
 V. Ley: a la Ley de la Defensoría Publica del Estado de Chiapas.
 
-VI. Reglamento: al Reglamento Interior del Instituto de la Defensoría de (sic) Social del Estado de Chiapas.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+VI. Reglamento: al Reglamento Interior del Instituto de la Defensoría Pública del Estado de Chiapas.
 
 VII. Usuario: al destinatario del servicio público que presta el Instituto.
 
@@ -70,6 +78,10 @@ El Instituto es un órgano del Tribunal Superior de Justicia del Estado, con aut
 ###### Artículo 4°.
 
 El Instituto tiene como fin garantizar el acceso real y equitativo del derecho a la defensa pública adecuada y la justicia mediante la orientación, asesoría y representación jurídica a la población más desprotegida del Estado, que no se encuentra en condiciones económicas de atender por su cuenta los gastos de un proceso jurisdiccional, contribuyendo a superar desigualdades sociales y a consolidar el estado de derecho.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+En materia penal la defensa pública es obligatoria y gratuita; tiene como fin garantizar una defensa adecuada para todas las personas en calidad de detenidas, imputadas, acusadas o sentenciadas por la comisión de un delito, en cualquier fase del proceso, segunda instancia y etapa de ejecución.
 
 ###### Artículo 5°.
 
@@ -97,7 +109,9 @@ IV. Tratándose de miembros pertenecientes a comunidades indígenas, se procurar
 
 V. Proporcionar orientación y asesoría jurídica especializada en diversas materias del derecho a personas de escasos recursos.
 
-VI. Procurar la debida información y defensa a las personas imputadas o sentenciadas sobre las garantías y derechos que la Constitución Política de los Estados Unidos Mexicanos, Tratados Internacionales, la Constitución Política del Estado de Chiapas, el Código de Procedimientos Penales para el Estado de Chiapas, y las demás leyes que consignan a su favor.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+VI. Procurar la debida información y defensa a las personas imputadas o sentenciadas sobre las garantías y derechos que la Constitución Política de los Estados Unidos Mexicanos, Tratados Internacionales, la Constitución Política del Estado de Chiapas, el Código de Procedimientos Penales aplicable, y las demás leyes consignan a su favor.
 
 VII. Difundir y promocionar los servicios que proporciona a los habitantes del Estado.
 
@@ -128,6 +142,18 @@ VII. La finalidad del solicitante sea obtener un lucro, o actuar de mala fe.
 VIII. Proporcione documentación falsa o alterada a su defensor público, para que ésta sea exhibida ante cualquier otra autoridad.
 
 IX. Cualquier otra contraria a esta Ley que se advierta durante el patrocinio.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+En materia penal solo será causa para retirar el patrocino, el contenido en la fracción I de este artículo; las obligaciones de defensa penal continuarán hasta que el defensor designado acepte el cargo.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+En los supuestos establecidos en las fracciones III y IV, de este artículo, el defensor en materia penal, deberá requerir al defendido a efecto que manifieste si es su deseo revocar su nombramiento y designar otro defensor, dejando constancia del mismo. En caso de que el defendido persista, no serán responsabilidad del defensor, las consecuencias legales derivadas de los actos de defensa que realice el propio defendido sin el conocimiento del defensor público.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+En materia penal, en caso de actualizarse la fracción VI de este artículo procederá la sustitución del defensor público.
 
 ###### Artículo 8°.
 
@@ -201,9 +227,11 @@ Además, en todos los asuntos de orden penal y de justicia para adolescentes, el
 
 ### Capítulo III. De la Dirección General
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 17.
 
-El Instituto de la Defensoría Social estará a cargo de un Director que será nombrado por el Presidente del Tribunal Constitucional; durará en su encargo cuatro años, pudiendo ser ratificado por una sola ocasión y tendrá su sede en la capital del Estado.
+El Instituto estará a cargo de un Director que será nombrado por el Presidente del Tribunal Constitucional; durará en su encargo cuatro años, pudiendo ser ratificado por una sola ocasión y tendrá su sede en la capital del Estado.
 
 En caso de ausencia temporal del Director, de hasta por tres meses, lo sustituirá en sus funciones el Subdirector General, y en ausencia de éste, el Subdirector Regional que el Consejo de la Judicatura determine.
 
@@ -229,7 +257,9 @@ VI. Gozar de buena reputación y no haber sido condenado por delito que amerite 
 
 El Director tendrá las siguientes facultades:
 
-I. Organizar, dirigir y controlar los servicios de defensoría pública, asesoría, y orientación jurídica que preste el Instituto de la Defensoría Social, así como sus unidades técnicas.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+I. Organizar, dirigir y controlar los servicios de defensoría pública, asesoría, y orientación jurídica que preste el Instituto, así como sus unidades técnicas.
 
 II. Fijar la política y las acciones relacionadas con la defensoría pública y asesoría jurídica.
 
@@ -273,7 +303,9 @@ Los Subdirectores del Instituto deberán reunir los mismos requisitos señalados
 
 El Subdirector General tendrá las facultades y obligaciones siguientes:
 
-I. Coadyuvar con el Director en organizar, dirigir y controlar los servicios de defensoría pública, asesoría, y orientación jurídica que preste el Instituto de la Defensoría Social, a través de las Subdirecciones Regionales.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+I. Coadyuvar con el Director en organizar, dirigir y controlar los servicios de defensoría pública, asesoría, y orientación jurídica que preste el Instituto, a través de las Subdirecciones Regionales.
 
 II. Calificar los casos en que proceda el patrocinio en asuntos civiles, familiares, y administrativos.
 
@@ -347,7 +379,9 @@ Para ser defensor público se requiere:
 
 I. Ser ciudadano mexicano en ejercicio de sus derechos políticos y civiles.
 
-II. Tener cuando menos veinticinco años cumplidos al día de la designación.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+II. Tener cuando menos veinticinco años cumplidos al día de la designación; y contar con un mínimo de dos años de experiencia profesional en las materias y actividades relacionadas directamente con la defensa jurídica de las personas.
 
 III. Ser licenciado en derecho, con título y cédula profesional, expedidos por autoridad o institución legalmente facultada para ello.
 
@@ -363,59 +397,143 @@ VII. No estar inhabilitado por resolución firme para el desempeño de funciones
 
 Los defensores públicos tendrán las siguientes obligaciones y atribuciones:
 
-I. Asumir la defensa en materia penal del imputado en cualquier actuación policial, ministerial o judicial, cuando éste lo solicite o sea designado por el Ministerio Público o el órgano jurisdiccional.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-II. Atender con diligencia las comisiones, guardias y apoyos relacionados con sus funciones encomendadas por la Dirección General o Subdirección que corresponda a fin de garantizar la debida defensa de los imputados evitando en todo momento que se vulneren sus derechos, pudiendo incurrir en responsabilidad por dejarlos en estado de indefensión.
+I. Atender con diligencia las comisiones, guardias y apoyos relacionados con sus funciones encomendadas por la Dirección General o Subdirección que corresponda a fin de garantizar la debida defensa de los patrocinados evitando en todo momento que se vulneren sus derechos, pudiendo incurrir en responsabilidad por dejarlos en estado de indefensión.
 
-III. Intervenir en cualquier fase del procedimiento, tratándose de adolescentes, desde que es puesto a disposición de la autoridad hasta la aplicación de las medidas, conforme a la Ley que establece el Sistema Integral de Justicia para Adolescentes del Estado de Chiapas.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-IV. Procurar en todo momento el derecho de defensa, velando porque el imputado conozca inmediatamente los derechos que establecen las Constituciones Federal y Local, instrumentos internacionales, así como las leyes que de ellas emanen.
+II. Intervenir en cualquier fase del procedimiento, tratándose de adolescentes, desde que es puesto a disposición de la autoridad hasta la aplicación de las medidas, conforme a la Ley que establece el Sistema Integral de Justicia para Adolescentes del Estado de Chiapas.
 
-V. Asumir el patrocinio e intervenir en los asuntos de orden civil, mercantil, familiar o administrativo que le sean asignados, en todas las diligencias, etapas de los procesos y juicios correspondientes, debiendo elaborar las demandas, contestaciones y reconvenciones, en sus respectivos casos, así como cualquier otra promoción que se requiera.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-VI. Utilizar los mecanismos de defensa que de acuerdo a la legislación vigente corresponda, invocar la jurisprudencia, tesis doctrinales e instrumentos internacionales aplicables que coadyuven a una mejor defensa.
+III. Asumir el patrocinio e intervenir en los asuntos del orden civil, familiar o administrativo que le sean asignados, en todas las diligencias, etapas de los procesos y juicios correspondientes, debiendo elaborar las demandas, contestaciones y reconvenciones, en sus respectivos casos, así como cualquier otra promoción que se requiera.
 
-VII. Proponer y promover en el juicio o procedimiento que corresponda todas las pruebas necesarias para acreditar las pretensiones o inocencia del imputado, así como realizar todas las gestiones legales inherentes a su encomienda.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-VIII. Gestionar la libertad de sus defendidos; en los casos que se fije una caución, pugnar porque las mismas sean asequibles al mismo, así como promover las pólizas de interés social para que pueda gozar inmediatamente de su libertad.
+IV. Utilizar los mecanismos de defensa que de acuerdo a la legislación vigente corresponda, invocar la jurisprudencia, tesis doctrinales e instrumentos internacionales, aplicables que coadyuven a una mejor defensa.
 
-IX. Hacer valer las causas de inimputabilidad, sobreseimiento o excluyentes de responsabilidad en favor de los imputados cuya defensa esté a su cargo, así como la prescripción de la acción penal y gestionar el trámite relativo al reconocimiento de inocencia durante el procedimiento o cualquier beneficio en etapa de ejecución en los términos de las disposiciones aplicables.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-X. Visitar al menos una vez a la semana, los centros de detención donde se encuentren personas a quienes representa en el procedimiento penal, con el fin de entrevistarlas e informarles del estado de su asunto, denunciando en su caso, ante las instancias competentes las posibles violaciones a sus derechos humanos.
+V. Proponer y promover en el juicio o procedimiento que corresponda todas las pruebas necesarias para acreditar las pretensiones o inocencia del defendido, así como realizar todas las gestiones legales inherentes a su encomienda.
 
-XI. Promover oportunamente la interposición de los recursos e incidentes que procedan para favorecer los intereses de los patrocinados, y en su caso, el juicio de amparo cuando las garantías individuales de sus representados se estimen violadas por autoridad alguna.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-XII. Procurar se aplique en los casos que proceda la justicia restaurativa y los mecanismos alternativos en la solución de controversias.
+VI. Promover oportunamente la interposición de los recursos e incidentes que procedan para favorecer los intereses de los patrocinados, y en su caso, el juicio de amparo cuando las garantías, individuales de sus representados se estimen violadas por autoridad alguna.
 
-XIII. Mantener informado al imputado, sobre el desarrollo y seguimiento del proceso o juicio.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-XIV. En los casos en que proceda, formular solicitudes de procedimientos especiales.
+VII. Procurar se aplique en los casos que proceda la justicia restaurativa y los mecanismos alternativos en la solución de controversias.
 
-XV. Guardar el secreto profesional en el desempeño de sus funciones.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-XVI. Llevar un registro en donde se asienten todos los datos indispensables inherentes a los asuntos que se les encomienden, desde su inicio hasta su total resolución.
+VIII. En los casos en que proceda, formular solicitudes de procedimientos especiales, de conformidad a la ley de la materia.
 
-XVII. Formar un expediente de control de cada uno de los asuntos a su cargo, que se integrará con cada una de las promociones y escritos derivados del asunto, así como con los acuerdos, resoluciones y demás actuaciones, documentos y elementos relacionados con el mismo.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-XVIII. Llevar una relación de fechas de las audiencias de los asuntos que tengan encomendados, y remitir copia de ella al Subdirector Regional que corresponda, quien informará al Subdirector General con suficiente anticipación para su desahogo, para que, en caso necesario, el Director designe a un defensor sustituto.
+IX. Guardar el secreto profesional en el desempeño de sus funciones.
 
-XIX. Rendir a la Subdirección a la que pertenezcan, dentro de los primeros tres días hábiles de cada mes, un informe de las actividades realizadas en el mes próximo anterior correspondiente, en el que se consigne lo que fuere indispensable para su conocimiento y control.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-XX. Sujetarse a las instrucciones que reciban de sus superiores jerárquicos para la atención eficiente de las defensa (sic) a ellos encargadas.
+X. Llevar un registro en donde se asienten todos los datos indispensables inherentes a los asuntos que se les encomienden, desde su inicio hasta su total resolución.
 
-XXI. Cumplir las disposiciones de carácter general que, para el desempeño de la función, dicte el Director del Instituto.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-XXII. Demostrar sensibilidad e interés social en el desempeño de sus funciones y, al efecto, atender con cortesía a los usuarios y prestar los servicios con diligencia, responsabilidad e iniciativa.
+XI. Formar un expediente de control de cada uno de los asuntos a su cargo, que se integrará con cada una de las promociones y escritos derivados del asunto, así como con los acuerdos, resoluciones y demás actuaciones, documentos y elementos relacionados con el mismo.
 
-XXIII. Participar activamente en las acciones de capacitación programadas y sugerir medidas que mejoren los servicios que presta el Instituto.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-XXIV. Abstenerse de incurrir en prácticas que se opongan a la ética con que todo abogado debe desempeñar su profesión, o que no se apeguen a los principios que esta ley señala.
+XII. Llevar una relación de fechas de las audiencias de los asuntos que tengan encomendados, y remitir copia de ella al Subdirector Regional que corresponda, quien informará al Subdirector General con suficiente anticipación para su desahogo, para que, en caso necesario, el Director designe a un defensor sustituto.
 
-XXV. Inhibirse de celebrar acuerdos o tratos ilegales, o que de algún modo perjudiquen al interesado, o bien ocultar o falsear a éste información relacionada con el asunto.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-XXVI. Patrocinar con honestidad, responsabilidad y buen trato a sus representados.
+XIII. Rendir a la Subdirección a la que pertenezcan, dentro de los primeros tres días hábiles de cada mes, un informe de las actividades realizadas en el mes próximo anterior correspondiente, en el que se consigne lo que fuere indispensable para su conocimiento y control.
 
-XXVII. Las demás que señalen esta Ley, el Reglamento y otros ordenamientos legales y administrativos aplicables.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+XIV. Sujetarse a las instrucciones que reciban de sus superiores jerárquicos para la atención eficiente de las defensa a ellos encargadas.
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+XV. Cumplir las disposiciones de carácter general que, para el desempeño de la función, dicte el Director del Instituto.
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+XVI. Demostrar sensibilidad e interés social en el desempeño de sus funciones y, al efecto, atender con cortesía a los usuarios y prestar los servicios con diligencia, responsabilidad e iniciativa.
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+XVII. Participar activamente en las acciones de capacitación programadas y sugerir medidas que mejoren los servicios que presta el Instituto.
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+XVIII. Abstenerse de incurrir en prácticas que se opongan a la ética con que todo abogado debe desempeñar su profesión, o que no se apeguen a los principios que esta ley señala.
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+XIX. Inhibirse de celebrar acuerdos o tratos ilegales, o que de algún modo perjudiquen al interesado, o bien ocultar o falsear a éste información relacionada con el asunto.
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+XX. Patrocinar con honestidad, responsabilidad y buen trato a sus representados.
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+XXI. Recibir la declaración de la persona considerada víctima en los términos del artículo 107 de la Ley General de Victimas.
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+XXII. Las demás que señalen esta Ley, el Reglamento y otros ordenamientos legales y administrativos aplicables.
+
+XXIII. (DEROGADA, P.O. 27 DE NOVIEMBRE DE 2014)
+
+XXIV. (DEROGADA, P.O. 27 DE NOVIEMBRE DE 2014)
+
+XXV. (DEROGADA, P.O. 27 DE NOVIEMBRE DE 2014)
+
+XXVI. (DEROGADA, P.O. 27 DE NOVIEMBRE DE 2014)
+
+XXVII. (DEROGADA, P.O. 27 DE NOVIEMBRE DE 2014)
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 28 Bis.
+
+En materia penal, tratándose del Sistema Penal Acusatorio, los defensores tendrán además las siguientes obligaciones:
+
+I.- Asumir la defensa en materia penal de los defendidos desde el momento de su detención, en cualquier actuación policial, ministerial o judicial, cuando éste lo solicite o sea designado por el Ministerio Público o el órgano jurisdiccional.
+
+II.- Procurar en todo momento el derecho de defensa, velando porque el defendido conozca inmediatamente los derechos que establecen las Constituciones Federal y local, instrumentos internacionales, así como las leyes que de ellas emanen.
+
+III.- Visitar los centros de detención donde se encuentren personas a quienes representa en el procedimiento penal, con el fin de entrevistarlas e informarles del estado de su asunto, haciendo valer los derechos que le asisten ante la autoridad jurisdiccional y denunciando en su caso, ante las instancias competentes las posibles violaciones a sus derechos humanos.
+
+IV.- Entrevistar a los defendidos para conocer directamente su versión de los hechos que motivan la investigación, a fin de ofrecer los datos y medios de prueba pertinentes que sean necesarios para llevar a cabo una adecuada defensa;
+
+V.- Gestionar la libertad de sus defendidos; en los casos que se fije una caución, pugnar porque las mismas sean asequibles al mismo, así como promover las pólizas de interés social para que pueda gozar inmediatamente de su libertad.
+
+VI.- Asesorar al defendido sobre la naturaleza y las consecuencias jurídicas de los hechos punibles que se le atribuyen;
+
+VII.- Comparecer y asistir jurídicamente al defendido en el momento en que rinda su declaración, así como en cualquier diligencia o audiencia que establezca la ley;
+
+VIII.- Analizar las constancias correspondiente a cada acto procesal, a fin de contar con mayores elementos para la defensa;
+
+IX.- Comunicarse directa y personalmente con el defendido, cuando lo estime conveniente, siempre y cuando esto no altere el desarrollo normal de las audiencias;
+
+X.- Recabar datos de prueba a favor del defendido, ofrecer los medios de prueba necesarios para la defensa en la audiencia correspondientes y promover la exclusión de los ofrecidos por el Ministerio Público o la víctima u ofendido cuando no se ajusten a la ley;
+
+XI.- Presentar los argumentos y datos de prueba que desvirtúen la existencia del hecho que la ley señala como delito, o aquellos que permitan hacer valer la procedencia de alguna causal de inimputabilidad, sobreseimiento o excluyente de responsabilidad a favor del defendido, la prescripción de la acción penal o cualquier otra causal legal que sea en beneficio del defendido;
+
+XII.- Solicitar el no ejercicio de la acción penal;
+
+XIII.- Participar en la audiencia de juicio, en la que podrá exponer sus alegatos de apertura, desahogar las pruebas ofrecidas, controvertir las de los otros intervinientes, hacer las objeciones que procedan, y formular sus alegatos finales;
+
+XIV.- Mantener informado al defendido sobre el desarrollo y seguimiento del procedimiento o juicio;
+
+XV.- En los casos en que proceda, promover a favor del defendido la aplicación de soluciones alternas, formas anticipadas del proceso o de terminación de la investigación; o formular solicitudes de procedimientos especiales, de conformidad con las disposiciones aplicables;
+
+XVI.- Informar a los defendidos y a sus familiares la situación jurídica en que se encuentre su defensa; y,
+
+XVII.-Las demás que señalen las leyes.
 
 ###### Artículo 29.
 
@@ -454,3 +572,11 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I, del artículo 44, de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los nueve días del mes de febrero del año dos mil doce.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE NOVIEMBRE DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día posterior a su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
