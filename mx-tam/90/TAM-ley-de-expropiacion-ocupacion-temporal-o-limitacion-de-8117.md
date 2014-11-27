@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-expropiacion-ocupacion-temporal-o-limitacion-de-8117"
 country: "mx"
 rank: "ley"
 publication_date: "1992-04-25"
-last_updated: "2009-10-01"
+last_updated: "2014-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8117&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY DE EXPROPIACION, OCUPACION TEMPORAL O LIMITACION DE DOMINIO PARA EL ESTADO DE TAMAULIPAS
 
-LEY DE EXPROPIACION, OCUPACION TEMPORAL O LIMITACION DE DOMINIO PARA EL ESTADO DE TAMAULIPAS
+LEY DE EXPROPIACIÓN, OCUPACIÓN TEMPORAL O LIMITACIÓN DE DOMINIO PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE OCTUBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 25 de abril de 1992.
 
@@ -39,11 +39,11 @@ SE EXPIDE LA
 
 LEY DE EXPROPIACION, OCUPACION TEMPORAL O LIMITACION DE DOMINIO PARA EL ESTADO DE TAMAULIPAS.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 1.
 
-Las disposiciones de esta ley son de interés público y de observancia general en el Estado de Tamaulipas y tienen por objeto establecer las causas de utilidad pública, así como regular los procedimientos, modalidades y ejecución de las expropiaciones.
+Las disposiciones de esta Ley son de interés público y de observancia general en el Estado de Tamaulipas y tienen por objeto establecer las causas de utilidad pública, así como regular los procedimientos, modalidades y ejecución de las expropiaciones, la ocupación temporal y limitaciones de dominio.
 
 > <small>(ADICIONADO, P.O. 15 DE MARZO DE 2006)</small>
 
@@ -53,9 +53,23 @@ En lo no previsto por la presente ley y resulte conducente, supletoriamente se a
 
 La expropiación, ocupación temporal, total o parcial, o limitación de derechos de dominio, sólo procederá por causa de utilidad pública, mediante indemnización, respecto de toda clase de bienes, estén o no en el comercio, para los fines del Estado o en interés de la colectividad conforme al procedimiento señalado en esta Ley.
 
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+Dichas acciones procederán contra el propietario, poseedor o sus causahabientes a título particular o universal, aun cuando el derecho de propiedad esté sujeto a decisión judicial, se desconozca su identidad o no fuere posible su localización.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTICULO 3.
 
-Toda expropiación quedará sujeta a la vigilancia y control del Estado, por conducto de las dependencias que esta Ley establece.
+Para efectos de esta Ley, deberá entenderse por:
+
+I.- Expropiación: El procedimiento de Derecho Público, por el cual el Estado, mediante indemnización, adquiere bienes o derechos reales de los particulares para el cumplimiento de un fin de utilidad pública;
+
+II.- Limitación de dominio: La obligación del propietario de un bien inmueble para preservarlo, impuesta por el titular del Poder Ejecutivo del Estado por causas de utilidad pública por un término que no podrá exceder de cinco años;
+
+III.- Ocupación temporal: Es la privación de los derechos de uso y disfrute de un bien inmueble de propiedad particular por un término que no podrá exceder de cinco años, mediante el pago de la indemnización, y por causa de utilidad pública, ocupación que podrá ser total o parcial; y
+
+IV.- Secretaría: La Secretaría de Obras Públicas.
 
 ###### ARTICULO 4.
 
@@ -95,59 +109,93 @@ XIV.- La superficie necesaria para la explotación, uso y aprovechamiento de las
 
 XV.- Los demás casos previstos por leyes especiales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 5.
 
-Corresponde a la Secretaría de Obras Públicas y Desarrollo Urbano del Gobierno del Estado:
+El procedimiento de expropiación, ocupación temporal o limitación de dominio, se iniciará por:
 
-l.- Recabar la información y documentación tendientes a comprobar y, en su caso, a determinar la existencia de algunas de las causas que las leyes consideren de utilidad pública y ponerla a disposición del Ayuntamiento respectivo y de la Secretaría General de Gobierno para que en un plazo de 10 días emitan su opinión sobre si han sido satisfechos los requisitos legales;
+I.- El Secretario del ramo, en los casos en que se trata de expropiar bienes que serán utilizados directamente por el Gobierno del Estado o cuya construcción estará a cargo de la respectiva dependencia o se trate de un bien que debe aportarse por el Gobierno del Estado en un esquema de coordinación con los gobiernos federales o municipales, para la realización de una obra que se destine a alguna de las causas de utilidad pública prevista en el presente ordenamiento;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2009)</small>
+II.- Los Ayuntamientos, cuando pretendan que se expropien bienes que se encuentren en su respectivo ámbito de actuación, para ejecutar acciones tendientes a la consecución de sus funciones y servicios de su competencia; y
 
-II.-Tramitar el expediente de expropiación, de ocupación temporal o de limitación de dominio en el que se demuestre que se verificó la existencia concreta de una necesidad general o de un requerimiento social, que exige la satisfacción del interés colectivo y que además identificó los bienes que por sus características o cualidades deben ser objeto de las afectaciones previstas, para ser destinados al fin que se persigue, explicando así razonadamente la necesidad de privar a determinada persona física o moral de sus bienes para afectar a un destino distinto;
+III.- Los organismos descentralizados, empresas de participación estatal o municipal, fideicomisos públicos del Estado, cuando pretendan que se expropien bienes para ejecutar acciones tendientes a la consecución de su objeto.
 
-> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2009)</small>
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-III.- Emitir la declaratoria de utilidad pública; y
+ARTICULO 5 BIS.- Las autoridades o entidades mencionadas en el artículo anterior, promoverán ante el Ejecutivo del Estado, la expropiación, ocupación temporal o limitación de dominio de los bienes en términos de este ordenamiento.
 
-IV.- El ejercicio de las demás facultades que establezcan ésta u otras leyes relacionadas con la materia.
+La solicitud deberá ser por escrito y contener los requisitos siguientes:
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2009)</small>
+I.- Nombre y domicilio del solicitante;
+
+II.- Los motivos de la solicitud;
+
+III.- La causa de utilidad pública que se considere aplicable, así como la idoneidad del inmueble a expropiar para tal fin;
+
+IV.- Los beneficios sociales;
+
+V.- La necesidad social;
+
+VI.- Los documentos, datos, características del bien que se pretenda expropiar, ocupar o limitar, las que tratándose de inmuebles serán, además, las relativas a plano que muestre ubicación, superficie, medidas y colindancias. Para tal efecto deberá remitir constancias de búsqueda ante las instituciones catastrales y registrales del Estado;
+
+VII.- Nombre y domicilio del propietario del bien materia de la expropiación, o en su caso, la manifestación de haber agotado los medios de búsqueda y desconocer su ubicación, acompañando las constancias respectivas;
+
+VIII.- Tratándose de la ejecución de obras, los proyectos y presupuestos respectivos; y
+
+IX.- El plazo máximo en el que se verá (sic) destinar el bien a la causa de utilidad pública, una vez que se tenga la posesión de éste.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+ARTICULO 5 TER.- La Secretaría, acordará el inicio del trámite de expropiación, ocupación temporal o limitación de dominio o, en su caso, prevendrá por única ocasión al promovente para efecto de que en un término de cinco días hábiles, subsane la falta de información o requerimiento por parte de la Secretaría.
+
+Una vez subsanada la prevención, se iniciará el trámite de expropiación o se emitirá con la debida fundamentación y motivación, el Acuerdo de ocupación temporal o limitación de dominio correspondiente.
+
+En el caso de no haber subsanado lo requerido por la Secretaría, se tendrá por no presentada la solicitud.
+
+La Secretaría, de estimarlo procedente podrá, solicitar a las dependencias u organismos auxiliares competentes, los informes, dictámenes, peritajes y demás elementos para acreditar la causa de utilidad pública, o bien, realizar las diligencias que considere necesarias.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 6.
 
-En los casos comprendidos en el artículo 4, la Secretaría de Obras Públicas y Desarrollo Urbano emitirá la declaratoria de utilidad pública, conforme a lo siguiente:
+En el acuerdo de inicio, se ordenará realizar la anotación preventiva en el folio correspondiente, que obre en el Instituto Registral y Catastral del Estado de Tamaulipas.
 
-I.- La causa de utilidad pública se acreditará con base en los dictámenes técnicos correspondientes;
+La división y traslación de los bienes afectables no producirán efectos cuando se inscriban en el Instituto Registral y Catastral del Estado, con posterioridad a la anotación preventiva mencionada en el párrafo anterior.
 
-II.- La declaratoria de utilidad pública se publicará en el Periódico Oficial del Estado y, en su caso, en un diario de la localidad de que se trate, notificando personalmente a los titulares de los bienes y derechos que resultarían afectados.
+Las acciones personales qué se deduzcan o hayan deducido con relación a los bienes afectados, no impedirá el curso del procedimiento de expropiación.
 
-En caso de ignorarse quiénes son los titulares, o bien, su domicilio o localización, surtirá efectos de notificación personal una segunda publicación de la declaratoria en el Periódico Oficial del Estado, misma que deberá realizarse dentro de los cinco días hábiles siguientes a la primera publicación;
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-III.- Los interesados tendrán un plazo de quince días hábiles a partir de la notificación o de la segunda publicación en el Periódico Oficial del Estado para manifestar ante la Secretaría de Obras Públicas y Desarrollo Urbano lo que a su derecho convenga y presentar las pruebas que estimen pertinentes;
+ARTICULO 6 BIS.- Una vez integrado el expediente, se citará a los titulares de los derechos a expropiarse, a una audiencia que se celebrará dentro de los cinco días hábiles siguientes a la notificación, en la que se recibirán las pruebas que ofrezcan, así como los alegatos que por escrito presenten.
 
-IV.- En su caso, la autoridad citará a una audiencia para el desahogo de pruebas, misma que deberá verificarse dentro de los ocho días hábiles siguientes a la recepción de las manifestaciones a que se refiere el párrafo anterior. Concluida dicha audiencia, se otorgará un plazo de tres días hábiles para presentar alegatos de manera escrita;
+De la audiencia se levantará acta circunstanciada, agregándose al expediente los elementos de convicción aportados por los titulares de los derechos. De no presentarse los interesados a la audiencia se dejará constancia por escrito en el expediente.
 
-V.- Presentados los alegatos o transcurrido el plazo para ello sin que se presentaren, la autoridad contará con un plazo de diez días hábiles para confirmar, modificar o revocar la declaratoria de utilidad pública;
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-VI.- La resolución a que se refiere la fracción anterior no admitirá recurso administrativo alguno y solamente podrá ser impugnada a través del juicio de amparo; y
+ARTICULO 6 TER.- Verificada la audiencia señalada en el artículo anterior, el titular de la Secretaría en un término de cinco días hábiles, remitirá el expediente correspondiente al titular del Poder Ejecutivo por conducto de la Secretaría General de Gobierno, para que en un plazo no mayor a 30 días hábiles emita la declaratoria de expropiación, o decrete su improcedencia.
 
-VII.- El Ejecutivo Estatal deberá decretar la expropiación a que se refiere el artículo 7 de esta ley, dentro de los treinta días hábiles siguientes a que se haya dictado la resolución señalada en la fracción V que antecede. Transcurrido el plazo sin que se haya emitido el decreto respectivo, la declaratoria de utilidad pública quedará sin efectos. En caso de que se interponga el juicio de amparo, se interrumpirá el plazo a que se refiere esta fracción, hasta en tanto se dicte resolución en el mismo.
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 7.
 
-Procederá la expropiación previa declaratoria de utilidad pública a que se refiere el artículo anterior.
+La declaratoria de expropiación, ocupación temporal o limitación de dominio deberán contener:
 
-La declaratoria de expropiación, de ocupación temporal o de limitación de dominio, se hará mediante Acuerdo del Ejecutivo Estatal que se publicará en el Periódico Oficial del Estado.
+I.- El nombre del propietario o causahabiente del bien;
 
-La expropiación procederá contra el propietario, sus legítimos herederos o sus causahabientes, aún cuando el derecho de propiedad esté sujeto a decisión judicial.
+II.- La causa de utilidad pública aplicable, así como los argumentos jurídicos recaídas (sic) a las manifestaciones y pruebas aportados (sic) por los afectados;
 
-Tendrán derecho al pago indemnizatorio, los propietarios, sus legítimos herederos o causa-habientes del bien expropiado.
+III.- Las características del bien, las que tratándose de inmuebles comprenderán además, la ubicación, superficie, medidas y colindancias;
 
-La notificación se hará dentro de los quince días hábiles posteriores a la fecha de publicación del Acuerdo. En caso de que no pudiere notificarse personalmente, por ignorarse quiénes son las personas o su domicilio o localización, surtirá los mismos efectos una segunda publicación en el Periódico Oficial del Estado, o bien, en un diario de amplia circulación en donde se encuentre ubicado el inmueble, misma que deberá realizarse dentro de los cinco días hábiles siguientes a la primera publicación.
+IV.- La referencia a favor de quien se decretará;
+
+V.- El monto, la forma y tiempo de pago de la indemnización;
+
+VI.- La autoridad que realizará el pago de la indemnización;
+
+VII.- El tiempo máximo en el que se deberá destinar el bien a la causa de utilidad pública, una vez que se tenga la posesión del mismo; y
+
+VIII.- La orden de publicación del decreto expropiatorio o acuerdo de ocupación temporal o limitación de dominio en el Periódico Oficial del Estado y de la notificación personal al afectado y por oficio al solicitante.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2009)</small>
 
@@ -155,11 +203,11 @@ La notificación se hará dentro de los quince días hábiles posteriores a la f
 
 De cuestionarse la titularidad del bien o derecho expropiado, la indemnización correspondiente será depositada y puesta a disposición de la autoridad que conozca del recurso respectivo, para que la asigne a quienes resulten titulares legítimos del bien o derecho, en los montos que corresponda.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 9.
 
-Dentro de los diez días hábiles siguientes a la notificación del Acuerdo correspondiente, los interesados podrán acudir al procedimiento judicial a que se refiere el artículo 18 de la presente ley.
+Dentro de los diez días hábiles siguientes a la notificación del Acuerdo o Decreto correspondiente, los interesados podrán acudir al procedimiento judicial a que se refiere el artículo 18 de la presente Ley.
 
 El único objeto del procedimiento a que se refiere el párrafo anterior será controvertir el monto de la indemnización y, en su caso, exigir el pago de daños y perjuicios.
 
@@ -169,11 +217,11 @@ Una vez que cauce estado la declaratoria de expropiación, ocupación temporal o
 
 Los afectados después de la primera notificación personal están obligados a señalar domicilio en la capital del Estado, a efecto de que ahí se practiquen las ulteriores notificaciones; en caso de omisión, éstas se realizarán por edictos que se publicarán en el Periódico Oficial del Estado, por una sola vez.
 
-> <small>(REFORMADO, P.O. 15 DE MARZO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 11.
 
-Contra el Acuerdo que contenga la declaratoria de expropiación, los afectados podrán interponer el recurso administrativo de revocación ante el Ejecutivo del Estado, por conducto de la Secretaría General de Gobierno, por escrito dentro de los quince días hábiles siguientes a su notificación, con el que deberán exhibir y ofrecer las pruebas que sean conducentes a excepción de la confesional, así como el pliego de agravios que a su interés convenga.
+Contra el Decreto que contenga la declaratoria de expropiación o el Acuerdo de ocupación temporal o limitación de dominio, los afectados podrán interponer el recurso administrativo de revocación ante el Ejecutivo del Estado, por conducto de la Secretaría General de Gobierno, por escrito dentro de los quince días hábiles siguientes a su notificación, con el que deberán exhibir y ofrecer las pruebas que sean conducentes a excepción de la confesional, así como el pliego de agravios que a su interés convenga.
 
 El auto que provea sobre la admisión del recurso, también acordará sobre la admisión de las pruebas que sean ofrecidas, mismo que será notificado personalmente al recurrente.
 
@@ -181,9 +229,15 @@ En caso de que se justifique el desahogo de alguna probanza, se señalará fecha
 
 Una vez concluido el periodo de desahogo de pruebas, la inconformidad será resuelta en un plazo no mayor de treinta días hábiles y contra la resolución que se dicte, no procederá recurso alguno.
 
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+El titular del Poder Ejecutivo del Estado podrá determinar la revocación de un Decreto Expropiatorio, siempre que existan elementos de índole jurídica, técnica o de diversa naturaleza, que imposibiliten o dificulten los fines de la expropiación, lo que no otorga legitimación a los interesados de un procedimiento regulado por esta Ley, para pedir la revocación del Decreto respectivo.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTICULO 12.
 
-El precio que se fijará como indemnización a la cosa expropiada, se basará en la cantidad que como valor fiscal de ella figure en las Oficinas catastrales o recaudadoras, ya sea que este valor haya sido manifestado por el propietario o simplemente aceptado por él de un modo tácito por haber pagado sus contribuciones con esta base, o bien, a solicitud expresa del interesado el valor podrá ser fijado por el Comité de Compra y Operaciones Patrimoniales de la Administración Pública del Estado. El exceso de valor o el demérito que haya tenido la propiedad particular por las mejoras o deterioros ocurridos con posterioridad a la fecha de la asignación del valor fiscal será lo único que deberá quedar sujeto a juicio pericial y a resolución judicial. Esto mismo se observará cuando se trate de objetos cuyo valor no esté fijado en las Oficinas rentísticas.
+El precio que se fijará como indemnización a la cosa expropiada, se basará en la cantidad que como valor fiscal de ella figure en las Oficinas Catastrales o Recaudadoras, ya sea que este valor haya sido manifestado por el propietario o simplemente aceptado por él de un modo tácito por haber pagado sus contribuciones con esta base. El exceso de valor o el demérito que haya tenido la propiedad particular por las mejoras o deterioros ocurridos con posterioridad a la fecha de la asignación del valor fiscal, será lo único que deberá quedar sujeto a juicio pericial y a resolución judicial. Esto mismo se observará cuando se trate de objetos cuyo valor no esté fijado en las Oficinas rentísticas.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2009)</small>
 
@@ -191,13 +245,13 @@ El precio que se fijará como indemnización a la cosa expropiada, se basará en
 
 Cuando no se haya hecho valer el recurso administrativo de revocación a que se refiere el artículo 11 o en caso de que éste haya sido resuelto en contra de las pretensiones del recurrente, o bien, cuando sólo se haya controvertido el monto de la indemnización a que se refiere el artículo 18, la autoridad administrativa que corresponda procederá desde luego a la ocupación material del bien de cuya expropiación u ocupación temporal se trate, o impondrá la ejecución inmediata de las disposiciones de limitación de dominio que procedan.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 14.
 
-En los casos a que se refiere (sic) las fracciones II, V, VI, X, XII y XIV del artículo 4 de esta ley, el Ejecutivo del Estado, hecha la declaratoria de utilidad pública, podrá proceder a la ocupación de los bienes objeto de la expropiación o de la ocupación temporal o imponer la ejecución inmediata de las disposiciones de limitación de dominio, sin que la interposición del recurso administrativo de revocación suspenda la ocupación del bien o bienes de que se trate o la ejecución de las disposiciones de limitación de dominio.
+En los casos a que se refieren las fracciones II, V, VI, X, XII y XIV del artículo 4° de esta Ley, el Ejecutivo del Estado, emitido el Decreto o Acuerdo respectivo, podrá proceder a la ocupación de los bienes objeto de la expropiación o de la ocupación temporal o imponer la ejecución inmediata de las disposiciones de limitación de dominio, sin que la interposición del recurso administrativo de revocación suspenda la ocupación del bien o bienes de que se trate, o la ejecución de las disposiciones de limitación de dominio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 15.
 
@@ -299,7 +353,7 @@ Por lo tanto, mando se imprima, publique, circule y se le dé el debido cumplimi
 
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Tamaulipas, a los veintidós días del mes de abril de mil novecientos noventa y dos, El Gobernador Constitucional del Estado, ING. AMERICO VILLARREAL GUERRA.- El Secretario General de Gobierno, LIC. ANIBAL PEREZ VARGAS.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 5 DE JUNIO DE 2001
 
@@ -324,3 +378,17 @@ Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente 
 ###### ARTICULO TERCERO.
 
 Todos los procedimientos y expedientes de expropiación que se encuentren en curso a la entrada en vigor del presente Decreto continuarán su trámite hasta su conclusión conforme a las disposiciones vigentes al momento de su inicio.
+
+P.O. 27 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos de expropiación, ocupación temporal o limitación de dominio, que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, deberán concluir conforme al procedimiento con el que hayan dado comienzo.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
