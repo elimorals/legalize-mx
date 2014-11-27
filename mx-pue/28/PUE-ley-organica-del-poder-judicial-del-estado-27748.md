@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-judicial-del-estado-27748"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-30"
-last_updated: "2014-05-19"
+last_updated: "2014-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 30 de diciembre de 2002.
 
@@ -123,9 +123,9 @@ I.- El Tribunal Superior de Justicia;
 
 II.- La Junta de Administración del Poder Judicial del Estado;
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-III.- Los Juzgados Civiles, Familiares, Penales, Especializados en Adolescentes y de Ejecución;
+III.- Los Juzgados Civiles, Familiares, Penales, de Control y de Enjuiciamiento, Especializados en Adolescentes y de Ejecución;
 
 IV.- Los Juzgados Municipales;
 
@@ -419,17 +419,17 @@ Cuando algún Magistrado sostenga un criterio diferente al de la mayoría, deber
 
 Son facultades del Tribunal Superior de Justicia funcionando en Pleno:
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-I.- Nombrar, y dar adscripciones, a los Jueces de lo Civil, de lo Familiar, de lo Penal, de Ejecución, Supernumerarios, Municipales y de Paz;
+I.- Nombrar, y dar adscripciones, a los Jueces de lo Civil, de lo Familiar, de lo Penal, de Control, de Enjuiciamiento, de Ejecución, Supernumerarios, Municipales y de Paz;
 
 II.- Nombrar y remover, a propuesta del Presidente, a los Servidores del Tribunal Superior de Justicia que no deban ser nombrados por las Salas;
 
 III.- Decretar la creación de Juzgados en los lugares que, a su juicio, así lo requieran para la buena Administración de Justicia, dando preferencia en estas acciones a las regiones de población indígena mayoritaria;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-IV.- Crear el número necesario de Salas y Juzgados para el buen funcionamiento de la Administración de Justicia, determinando su especialización y asignando su adscripción territorial, el lugar de residencia, integración, y en su caso, el sistema de suplencias;
+IV.- Crear el número necesario de Salas y Juzgados para el buen funcionamiento de la Administración de Justicia, determinando su especialización y asignando su adscripción territorial, el lugar de residencia, integración, y en su caso, el sistema de suplencias; en materia penal, la creación de Tribunales de Alzada que conocerán de los medios de impugnación tramitados en el procedimiento penal previsto en el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
@@ -623,33 +623,41 @@ XXI.- Las demás que le señalen las leyes, así como las que sean inherentes a 
 
 SUPERIOR DE JUSTICIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 22.
 
-El Tribunal Superior de Justicia contará con el número de Salas Unitarias y Colegiadas que sean necesarias para el buen despacho de los asuntos que sean de su competencia, las que funcionarán por especialidades en materia civil y penal; las Colegiadas se integrarán por número igual e impar de Magistrados, no menor de tres ni mayor de cinco.
+El Tribunal Superior de Justicia contará con el número de Salas Unitarias, Colegiadas y Tribunales de Alzada que sean necesarios para el buen despacho de los asuntos que sean de su competencia, las que funcionarán por especialidades en materia civil y penal; las Colegiadas se integrarán por número igual e impar de Magistrados, no menor de tres ni mayor de cinco.
 
 En el caso de los Magistrados de nuevo ingreso, después de tomar posesión de su cargo, serán adscritos a la Sala que deberán integrar, mediante acuerdo del Pleno; igual acuerdo se requiere para cambiar de adscripción a un Magistrado en funciones.
 
 Para el despacho de los asuntos de las Salas, se contará con el personal necesario a juicio del Pleno, el que será nombrado por aquéllas.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 23.
 
-La Presidencia de cada una de las Salas se ejercerá por el Magistrado designado por elección, de entre los mismos que la integran, y durará un año, pudiendo ser reelecto las veces que se juzgue conveniente.
+La Presidencia de cada una de las Salas y Tribunales de Alzada se ejercerá por el Magistrado designado por elección, de entre los mismos que la integran, y durará un año, pudiendo ser reelectas las veces que se juzgue conveniente.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 24.
 
-Las faltas accidentales y temporales del Magistrado que ejerza la Presidencia de la Sala, se suplirán por el que designen los presentes. En caso de falta absoluta, se procederá a nueva elección, una vez hecho el nombramiento correspondiente.
+Las faltas accidentales y temporales del Magistrado que ejerza la Presidencia de la Sala, o del Tribunal de Alzada, se suplirán por el que designen los presentes. En caso de falta absoluta, se procederá a nueva elección, una vez hecho el nombramiento correspondiente. Si durante las faltas por recusación o excusa del Presidente de la Sala o del Tribunal de Alzada, tiene que verificarse algún acto para el que deba constituirse en Sala o Tribunal de Alzada, presidirá el Magistrado que designen los presentes.
 
-Si durante las faltas por recusación o excusa del Presidente de la Sala, tiene que verificarse algún acto para el que deba constituirse Sala, presidirá el Magistrado que designen los presentes.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 25.
 
-Las audiencias de las Salas serán públicas, salvo los casos en que la moral, la naturaleza de los asuntos de que se trate o el interés público exijan que sean privadas.
+Las audiencias de las Salas y Tribunales de Alzada, serán públicas, salvo los casos en que la moral, la naturaleza de los asuntos de que se trate o el interés público exijan que sean privadas;
 
-Las Salas tendrán la facultad de imponer las mismas correcciones disciplinarias que el Tribunal Pleno, en los asuntos de su respectiva competencia y en los casos que resulten procedentes.
+Las Salas y los Tribunales de Alzada tendrán la facultad de imponer las mismas correcciones disciplinarias que el Tribunal Pleno, en los asuntos de su respectiva competencia y en los casos que resulten procedentes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 26.
 
-Las Resoluciones de las Salas se tomarán por unanimidad o por mayoría de votos de los Magistrados, quienes no podrán abstenerse de votar, sino cuando tengan impedimento legal o cuando no hayan estado presentes en la discusión del asunto de que se trate.
+Las resoluciones de las Salas y de Tribunales de Alzada, se tomarán por unanimidad o por mayoría de votos de los Magistrados, quienes no podrán abstenerse de votar, sino cuando tengan impedimento legal o cuando no hayan estado presentes en la discusión del asunto de que se trate.
 
 En caso de que en una misma Sala, al resolver un asunto, existieren tres o cinco criterios contrarios entre sí, sostenidos por los Magistrados, el asunto se turnará al Pleno del Tribunal Superior de Justicia para que decida cual prevalecerá.
 
@@ -665,9 +673,15 @@ Cada Sala calificará las excusas o impedimentos de sus integrantes. Si con moti
 
 En los casos antes señalados podrá también integrar Sala por turno, el Magistrado de la Sala Unitaria Especializada en Adolescentes.
 
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+Para el caso de los Tribunales de Alzada en materia penal del procedimiento acusatorio, quien los preside verificará la comparecencia a la audiencia de los Magistrados que los integran, ante la falta de uno de ellos, la audiencia no se podrá llevar acabo (sic), atendiéndose a lo previsto en el presente artículo.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 28.
 
-Para el despacho de los asuntos de cada Sala, se turnarán éstos a los Magistrados por riguroso orden, o en su defecto, a los Magistrados que los substituyan con arreglo a esta Ley.
+Para el despacho de los asuntos de cada Sala y Tribunal de Alzada, se turnarán éstos a los Magistrados por riguroso orden, o en su defecto, a los Magistrados que los substituyan con arreglo a esta Ley.
 
 ###### ARTÍCULO 29.
 
@@ -709,15 +723,19 @@ IV.- Conocer de los conflictos de competencia que se susciten entre los Jueces d
 
 V.- Conocer los demás asuntos que las leyes les encomienden expresamente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 32.
 
-Corresponde a las Salas Penales:
+Corresponde a las Salas Penales y Tribunales de Alzada:
 
 > <small>(REFORMADA, P.O. 19 DE MAYO DE 2014)</small>
 
 I.- Conocer en alzada, de los recursos que la Ley de la materia determine en los procesos seguidos ante la primera instancia.
 
-En materia penal los recursos de casación y de revisión deberán ser conocidos por Magistrados que no hubieren intervenido en el mismo asunto en apelación, conforme a la Legislación Procesal Aplicable;
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+En materia penal los recursos de apelación y reconocimiento de inocencia del sentenciado y anulación de sentencia, deberán ser conocidos por Magistrados que no hubieren intervenido en el mismo asunto en apelación, conforme a la Legislación Procesal Aplicable;
 
 II.- Conocer de los impedimentos, las recusaciones y las excusas de sus miembros, de sus subalternos y de los Jueces Penales, cuando medie oposición de parte;
 
@@ -725,9 +743,17 @@ II.- Conocer de los impedimentos, las recusaciones y las excusas de sus miembros
 
 III.- Conocer de los conflictos de competencia que se susciten entre los Juzgados de Oralidad Penal;
 
-IV.- Conocer de los juicios de amparo que se promuevan ante ellas conforme al artículo 107, fracción XII, párrafo segundo, de la Constitución Política de los Estados Unidos Mexicanos, contra actos de los Juzgados Penales, en los términos que establezcan las leyes federales respectivas; y
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-V.- Conocer los demás asuntos que las leyes les encomienden expresamente.
+IV.- Conocer de los juicios de amparo que se promuevan ante ellas conforme al artículo 107, fracción XII, párrafo segundo, de la Constitución Política de los Estados Unidos Mexicanos, contra actos de los Juzgados Penales, en los términos que establezcan las leyes federales respectivas;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+V.- Cumplir con las obligaciones a que se refiere el Código Nacional de Procedimientos Penales en materia de oralidad; y
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+VI.- Conocer los demás asuntos que las leyes les encomienden expresamente.
 
 > <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
@@ -765,9 +791,9 @@ I.- Los Juzgados de lo Civil;
 
 II.- Los Juzgados de lo Familiar;
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-III.- En materia penal, los Juzgados Penales, los Juzgados de Oralidad Penal, ya sean de Control o de Juicio Oral, y de Ejecución de Sanciones;
+III. En materia penal, los Juzgados Penales, los Juzgados de Oralidad Penal, ya sean de Control o de Tribunal de Enjuiciamiento, y de Ejecución de Sanciones;
 
 > <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
@@ -885,29 +911,43 @@ IV.- Las demás que les confieran las leyes.
 
 Los Juzgados de Oralidad Penal ejercerán competencia territorial en cada una de las regiones judiciales señaladas en el artículo 10 Bis de esta Ley. Por acuerdo del Pleno del Tribunal, estos juzgados podrán comprender más de una región o existir varios de ellos en una sola; los Jueces Itinerantes y de Ejecución de Sanciones tendrán la competencia territorial que se señale en el acuerdo que dicte el Tribunal Pleno, en términos del artículo 70 segundo párrafo.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 43.
 
-Las atribuciones que corresponden a los Jueces de Control, al Tribunal de Juicio Oral, y de Ejecución de Sanciones son las previstas en el Código Nacional de Procedimientos Penales, en su caso en el Código de Procedimientos Penales para el Estado Libre y Soberano de Puebla, en la Ley en materia de ejecución de sanciones correspondiente, así como en las demás disposiciones aplicables.
+Las atribuciones que corresponden a los Jueces de Control, de Enjuiciamiento, y de Ejecución de Sanciones son las previstas en el Código Nacional de Procedimientos Penales, en la Ley en materia de ejecución de sanciones correspondiente, así como en las demás disposiciones aplicables.
 
 ARTÍCULO 43 BIS.- (DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 43 Ter.
+
+En cada una de las regiones a que se refiere esta Ley en materia de oralidad, existirá un Coordinador de Jueces, quien será electo por los Jueces de Control de la región, durará en su encargo un año, pudiendo ser reelecto en forma sucesiva por una vez, y en forma alterna las veces que sea necesario y tendrá las siguientes funciones:
+
+I. Atender los requerimientos que el grupo de Jueces de la región le haga saber;
+
+II. Centralizar las peticiones y requerimientos que los Jueces le realicen al administrador;
+
+III. Coordinar la redacción de los acuerdos de las sesiones de trabajo; y
+
+IV. Las demás que determine la Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 44.
 
-Los Juzgados de Oralidad Penal se integrarán con los Jueces, encargados de sala de audiencias, auxiliares y los servidores públicos que sean necesarios para el servicio Público, de acuerdo a las determinaciones que al respecto adopte el Pleno del Tribunal Superior de Justicia. Los Jueces Penales serán nombrados en la forma que señala el artículo 37 y suplidos conforme lo determine el Pleno del Tribunal en el acuerdo correspondiente.
+Los Juzgados de Control y Tribunales de Enjuiciamiento se integrarán con los Jueces encargados de sala de audiencias, auxiliares y los servidores públicos que sean necesarios para el servicio público, de acuerdo a las determinaciones que al respecto adopte el Pleno del Tribunal Superior de Justicia. Los Jueces Penales serán nombrados en la forma que señala el artículo 37 y suplidos conforme lo determine el Pleno del Tribunal en el acuerdo correspondiente.
 
 El personal administrativo de los Juzgados de Oralidad Penal será designado, previo examen de conocimientos y destrezas, por el administrador del juzgado.
 
 El Pleno del Tribunal podrá determinar que sean prestados servicios comunes de notificación, ejecución, oficialía de partes y otras áreas para varios Juzgados de Oralidad Penal.
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 44 Bis.
 
-En el proceso penal acusatorio, los Jueces y Magistrados actuarán sin secretarios o testigos de asistencia, y en ese caso, tendrán fe pública para certificar el contenido de los actos que realicen y de las resoluciones que dicten, incluso cuando tales actos consten en registros informáticos, de audio, video, o se transcriban por escrito.
+En el proceso penal acusatorio, los Jueces de Control y Magistrados de Tribunal de Alzada actuarán sin secretarios o testigos de asistencia, y en ese caso, tendrán fe pública para certificar el contenido de los actos que realicen y de las resoluciones que dicten, incluso cuando tales actos consten en registros informáticos, de audio, video, o se transcriban por escrito.
 
 > <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1145,29 +1185,63 @@ Los Jueces Supernumerarios se identificarán con la palabra Supernumerario, segu
 
 ### CAPÍTULO ÚNICO
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 71 Bis.
 
-En los Juzgados de Oralidad Penal se designará un administrador que tendrá las siguientes atribuciones:
+En los Juzgados de Oralidad Penal se designará un administrador, que tendrá las siguientes atribuciones:
 
-I.- Organizar y dirigir las labores administrativas del juzgado de su adscripción;
+I.- Planificar, organizar, dirigir y controlar las labores administrativas propias del funcionamiento del Juzgado;
 
-II.- Vigilar y controlar el buen desempeño de los funcionarios y empleados a su cargo, en el ejercicio de las funciones encomendadas;
+II.- Velar porque se cumplan las normas de ingreso, registro, seguimiento, digitalización y archivo de las causas del órgano jurisdiccional en el sistema informático;
 
-III.- Proveer, en la esfera administrativa, la programación de las audiencias a desarrollarse en el juzgado, y en general, todas las medidas necesarias para la buena marcha del juzgado;
+III.- Dar seguimiento a los plazos judiciales que restrinjan la libertad personal y notificar oportunamente en término al Juez o Tribunal que corresponda;
 
-IV.- Recopilar información relevante sobre los asuntos tramitados en el juzgado y remitir a la Presidencia del Tribunal Superior, un informe estadístico anual dentro de los primeros cinco días hábiles del mes de enero y otro mensual dentro de los primeros cinco días hábiles del mes que corresponda;
+IV.- Llevar el manejo administrativo y la custodia de las salas de audiencias, Juzgados y Tribunales a su cargo, a fin de que se encuentren en condiciones óptimas de uso;
 
-V.- Vigilar la conservación y funcionalidad de los bienes muebles e inmuebles asignados;
+V.- Supervisar la programación de las diligencias a desarrollarse en los recintos de audiencias a su cargo;
 
-VI.- Custodiar los bienes y valores que se encuentren a disposición del Tribunal con motivo de la tramitación de los asuntos;
+VI.- Controlar el manejo de registros de los asuntos tramitados en el Juzgado o Tribunal;
 
-VII.- Entregar y recibir bajo inventario los bienes y valores a que se refieren las dos fracciones anteriores;
+VII.- Cotejar las actuaciones con sus reproducciones, para fidelidad de estos documentos;
 
-VIII.- Distribuir los asuntos, por turno riguroso, entre los Jueces, de conformidad a los acuerdos emitidos por el Pleno del Tribunal Superior de Justicia; y
+VIII.- Dar cuenta de la correspondencia al Juez de despacho;
 
-IX.- Las demás que determine las leyes respectivas.
+IX.- Tramitar la correspondencia administrativa del Juzgado o Tribunal;
+
+X.- Auxiliar en el desahogo de las audiencias;
+
+XI.- Elaborar y mantener actualizado el registro de los sujetos procesales que intervienen en cada caso;
+
+XII.- Dar cuenta al titular del órgano jurisdiccional respectivo de los medios de impugnación que se hagan valer;
+
+XIII.- Verificar que se realicen las notificaciones que se hayan ordenado;
+
+XIV.- Tener a su cargo el archivo del órgano jurisdiccional;
+
+XV.- Remitir al archivo general los asuntos que se encuentren concluidos;
+
+XVI.- Verificar que las audiencias queden registradas en los medios instrumentados para tal efecto;
+
+XVII.- Ingresar y ubicar en las salas de audiencias a los sujetos procesales, testigos, peritos y demás intervinientes, en el lugar que les corresponda;
+
+XVIII.- Cumplir con las instrucciones que emita el titular del órgano jurisdiccional durante las audiencias;
+
+XIX.- Realizar las tareas administrativas que le encomienden los titulares de los órganos jurisdiccionales de su adscripción;
+
+XX.- Tomar las medidas administrativas necesarias para la buena marcha de los asuntos;
+
+XXI.- Instrumentar un expediente judicial de cada asunto que sea sometido a la competencia de los órganos jurisdiccionales de su adscripción;
+
+XXII.- Remitir los valores y garantías que se reciban en los Juzgados a Tribunales dentro de los plazos señalados en las disposiciones administrativas;
+
+XXIII.- Vigilar que el rol de turnos de Jueces y demás personal del Juzgado o Tribunal se realice en los términos autorizados;
+
+XXIV.- Supervisar que en cada audiencia se redacte el acta mínima correspondiente; y
+
+XXV.- Las demás que determinen las leyes respectivas y otras disposiciones aplicables.
+
+Para el desempeño de las atribuciones a su cargo, el administrador contará con el personal auxiliar correspondiente.
 
 > <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1691,31 +1765,47 @@ El Archivo Judicial sujetará su actuación a las disposiciones de su correspond
 
 La Dirección del Archivo Judicial organizará y controlará todos los expedientes, procesos, tocas y demás documentos que le remitan para su custodia las Salas, los Juzgados y las demás Dependencias del Poder Judicial del Estado, debiendo contar con el personal necesario para su buen funcionamiento.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 117.
 
 Las Salas y los Juzgados remitirán al Archivo Judicial los expedientes, procesos y tocas para su archivo, adjuntando por triplicado una relación por año y por número progresivo en forma de inventario, y al pie, la fecha de remisión y la firma del titular del Tribunal que los remite.
 
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+Los Juzgados de oralidad deberán remitir, en la misma forma que los órganos antes citados, los registros de audiencias y complementarios, videoconferencias y demás información contenida en nuevas tecnologías.
+
 El Jefe del Departamento de Archivo sellará las copias como acuse de recibo, y una vez verificado su contenido, firmará al calce de cada remisión.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 118.
 
-Por ningún motivo se extraerá documento alguno del Archivo Judicial, a no ser que medie orden escrita de Autoridad competente, debiendo insertarse en el oficio relativo la determinación que motive el pedimento. En el lugar que por su orden ocupe el expediente solicitado, se colocará una hoja con los datos que motivaron su salida.
+Por ningún motivo se extraerá documento alguno, registros de audiencias y complementarios, y material que contenga videoconferencias y demás registros obtenidos por tecnologías nuevas del Archivo Judicial, a no ser que medie orden escrita de Autoridad competente, debiendo insertarse en el oficio relativo la determinación que motive el pedimento. En el lugar que por su orden ocupe el expediente solicitado, se colocará una hoja con los datos que motivaron su salida.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 119.
 
-El Director del Archivo Judicial podrá expedir copias autorizadas, mediante decreto judicial, de los documentos que estén depositados en dicha Oficina, contando con fe pública para ello, y previo pago de los derechos respectivos.
+El Director del Archivo Judicial podrá expedir copias autorizadas, mediante decreto judicial, de los documentos que estén depositados en dicha Oficina, así como del contenido total o parcial de los contenidos de las carpetas digitales producidas por los Juzgados y Salas de Oralidad contando con fe pública para ello, y previo pago de los derechos respectivos.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 120.
 
-La vista o el examen de los documentos del Archivo Judicial, deberá permitirse en presencia del Director del Archivo o de empleados autorizados, dentro de sus oficinas, a los interesados o a sus representantes legales, o a cualquier Abogado cuya personalidad se encuentre legalmente reconocida por el Tribunal Superior de Justicia. Será motivo de responsabilidad para el Director del Archivo impedir la vista o el examen a que se refiere este artículo.
+La vista o el examen de los documentos, así como del contenido total o parcial de los contenidos de las carpetas digitales producidas por los Juzgados y Salas de Oralidad del Archivo Judicial, deberá permitirse en presencia del Director del Archivo o de empleados autorizados, dentro de sus oficinas, a los interesados o a sus representantes legales, o a cualquier Abogado cuya personalidad se encuentre legalmente reconocida por el Tribunal Superior de Justicia. Será motivo de responsabilidad para el Director del Archivo impedir la vista o el examen a que se refiere este artículo.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 121.
 
-Cualquier irregularidad que advierta el Director del Archivo Judicial en los documentos que se le remitan para su custodia, la comunicará al Director General de la Comisión Administrativa.
+Cualquier irregularidad que advierta el Director del Archivo Judicial en los documentos, así como del contenido total o parcial de los contenidos de las carpetas digitales producidas por los Juzgados y Salas de Oralidad que se le remitan para su custodia, la comunicará al Director General de la Comisión Administrativa.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 122.
 
-El Archivo Judicial tendrá a su cargo la clasificación y organización de los expedientes, procesos, tocas, libros y cuadernos de los asuntos concluidos del Poder Judicial del Estado, y de los que no hayan tenido promoción durante el término de un año, los que serán remitidos para su guarda, igual que aquéllos que determine el Pleno del Tribunal.
+El Archivo Judicial tendrá a su cargo la clasificación y organización de los expedientes, procesos, carpetas digitales producidas por los Juzgados y Salas de Oralidad, tocas, libros y cuadernos de los asuntos concluidos del Poder Judicial del Estado, y de los que no hayan tenido promoción durante el término de un año, los que serán remitidos para su guarda, igual que aquellos que determine el Pleno del Tribunal.
 
 Asimismo, coadyuvará en la depuración y selección de dichos documentos, para su adecuada custodia y organización.
 
@@ -1895,9 +1985,9 @@ La carrera judicial se regirá por los principios de excelencia, profesionalismo
 
 La carrera judicial se integrará por las siguientes categorías:
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-I.- Juez de lo Civil, de lo Familiar, Especializado en Justicia para Adolescentes, de Extinción de Dominio, de Exhortos, Supernumerarios, Itinerantes, y en materia Penal de Control, de Ejecución de Sanciones, e integrante del Tribunal de Juicio Oral;
+I.- Juez de lo Civil, de lo Familiar, Especializado en Justicia para Adolescentes, de Extinción de Dominio, de Exhortos, Supernumerarios, Itinerantes, y en materia Penal de Control, de Enjuiciamiento y de Ejecución de Sanciones;
 
 > <small>(F. DE E., P.O. DE 3 DE FEBRERO DE 2003)</small>
 
@@ -2441,9 +2531,17 @@ V.- Diligenciar los exhortos, despachos y suplicatorias. Los primeros, sólo en 
 
 VI.- Dar al tribunal los informes justificados que pida; así como los que soliciten el Congreso y el Gobierno del Estado, por conducto del mismo Tribunal;
 
-VII.- Ejercer las atribuciones que les confieran las leyes; y
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-VIII.- Protestar el cargo conferido, en los términos que establezca la presente Ley.
+VII.- Ejercer las atribuciones que les confieran las leyes;
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+VIII.- Asistir puntualmente a las audiencias en las que intervengan; y
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+IX.- Protestar el cargo conferido, en los términos que establezca la presente Ley.
 
 ###### ARTÍCULO 201.
 
@@ -2896,3 +2994,13 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 TERCERO.- En materia de ejecución de sentencias, hasta en tanto no se publique la Ley General, el procedimiento continuará en vigor en el Estado, conforme al Título Décimo establecido en el Código de Procedimientos Penales para el Estado Libre y Soberano de Puebla, publicado en el Periódico Oficial del Estado con fecha catorce de septiembre de dos mil doce.
 
 CUARTO.- La implementación del Nuevo Sistema de Justicia Penal, con base en la gradualidad establecida en las disposiciones transitorias de la Ley Orgánica del Poder Judicial del Estado de Puebla, tendrá en cada caso una primera etapa de adaptación, armonización, capacitación, ajuste y adecuación de hasta seis meses, a partir de la entrada en vigor del presente Decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado en las regiones judiciales en las que esté vigente el Código Nacional de Procedimientos Penales.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Para las regiones judiciales en las que no esté vigente el Código Nacional de Procedimientos Penales, el presente Decreto entrará en vigor atendiendo los artículos Segundo Transitorio del Decreto publicado el día viernes diecisiete de junio de dos mil once en el Periódico Oficial del Estado de Puebla, por virtud del cual se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica del Poder Judicial del Estado y el artículo Único Transitorio del Decreto publicado el trece de septiembre de dos mil trece en el Periódico Oficial del Estado de Puebla, por virtud del cual se reforman las fracciones II y III del mismo ordenamiento.
+
+CUARTO.- Los procedimientos penales iniciados con anterioridad a la entrada en vigor del Sistema Penal Acusatorio, serán concluidos conforme a las disposiciones vigentes con anterioridad a dicho acto, en términos de lo dispuesto en el Artículo Cuarto Transitorio del Decreto de reformas a la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación con fecha dieciocho de junio de 2008.
