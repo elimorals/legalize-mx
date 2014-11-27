@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-tribunal-electoral-del-distrito-83471"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-07"
-last_updated: "2014-09-09"
+last_updated: "2014-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83471&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-10-27"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE NOVIEMBRE DE 2014.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 7 de noviembre de 2011.
 
@@ -1764,21 +1764,95 @@ Si la autoridad pertenece al Instituto y persistiere en su actitud, el Pleno sol
 
 Las sanciones antes mencionadas también serán procedentes, cuando no se cumplimente en sus términos la suspensión que se decrete respecto del acto reclamado en el juicio.
 
-## TÍTULO SEXTO. DE LA REFORMA AL REGLAMENTO
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+## TÍTULO SEXTO. DEL PROCEDIMIENTO ESPECIAL SANCIONADOR EN SEDE JURISDICCIONAL
+
+> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 95.
 
-Las y los Magistrados, así como la o el titular de la Dirección General Jurídica podrán presentar propuestas de reformas a este Reglamento.
+El Tribunal es competente para resolver los procedimientos especiales sancionadores instruidos por el Instituto Electoral del Distrito Federal durante los procesos electorales.
+
+En lo que no contravenga al régimen especial sancionador, se aplicará de manera supletoria las disposiciones de la Ley Procesal Electoral para el Distrito Federal.
+
+> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 96.
 
-Las reformas a este Reglamento se ajustarán al procedimiento siguiente:
+El Tribunal podrá establecer con el Instituto convenios de colaboración para dar expeditez al trámite de los procedimientos a que se refiere éste título.
 
-I. Toda iniciativa de reforma será presentada al Pleno por conducto de la o del Presidente;
+> <small>(ADICIONADO, G.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-II. El Pleno decidirá lo conducente, rechazando, aprobando o modificando la propuesta de reforma planteada, y
+###### Artículo 97.
 
-III. De ser aprobada la reforma, el Pleno ordenará su publicación en la Gaceta, en los estrados y en el sitio de Internet del Tribunal; hecho lo cual, quedará incorporada al texto de este Reglamento; en caso contrario, la iniciativa se archivará.
+Una vez que el Instituto remita el expediente original formado con motivo de la denuncia y el dictamen elaborado conforme a lo previsto en el artículo 374 del Código de Instituciones y Procedimientos Electorales del Distrito Federal, de manera inmediata el Magistrado Presidente lo remitirá al Magistrado Instructor que corresponda, conforme al turno específico que se implemente en este tipo de procedimientos, siguiendo el orden alfabético conforme al primer apellido de cada Magistrado.
+
+Este turno será independiente del resto de los asuntos competencia del propio Tribunal.
+
+La conexidad de los asuntos será la única razón para modificar el orden alfabético que rige el turno, caso en el cual, los expedientes que tengan una estrecha relación entre sí, serán turnados al mismo Magistrado.
+
+La clave de identificación de los expedientes de los procedimientos especiales sancionadores será distinta a la de los diversos medios de impugnación competencia del Tribunal, la cual se deberá establecer en la normativa interna respectiva.
+
+> <small>(ADICIONADO, G.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 98.
+
+Turnado el expediente al Magistrado Instructor, éste deberá radicar el expediente, a más tardar en un plazo de setenta y dos horas contadas a partir de que surta efectos la notificación por estrados del auto de turno.
+
+Conforme lo previsto por el artículo 48 de la Ley Procesal.
+
+> <small>(ADICIONADO, G.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+###### Articulo 99.
+
+Cuando a juicio del Magistrado Instructor el expediente cuente con los elementos necesarios para resolver el procedimiento, dentro de las setenta y dos horas siguientes, contadas a partir de que surta sus efectos la notificación por estrados del acuerdo de radicación, deberá emitir un acuerdo en el que declare la debida integración del expediente y ordene la formulación del proyecto de sentencia que resuelva el procedimiento especial sancionador.
+
+> <small>(ADICIONADO, G.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 100.
+
+En el supuesto de que el Magistrado Instructor advierta omisiones o deficiencias en la integración del expediente o en su tramitación, requerirá al Instituto que lleve a cabo las diligencias necesarias para subsanar las mismas.
+
+Dicho requerimiento deberá precisar las diligencias a realizar, así como el plazo en que deban ser cumplidas, mismo que no podrá exceder de siete días naturales.
+
+> <small>(ADICIONADO, G.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 101.
+
+De persistir las deficiencias a que se refiere el artículo anterior, el Magistrado Instructor podrá imponer cualquiera de las medidas de apremio previstas en el artículo 70 de la Ley Procesal, a efecto de garantizar los principios de inmediatez y de exhaustividad en la tramitación del procedimiento.
+
+> <small>(ADICIONADO, G.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 102.
+
+Una vez solventadas las deficiencias, dentro de las setenta y dos horas posteriores a la recepción de lo requerido, se emitirá el acuerdo que declare la debida integración del expediente y ordenará la formulación del proyecto de sentencia que resuelva el procedimiento especial sancionador.
+
+En el supuesto de que exista imposibilidad para subsanar las deficiencias en la integración del expediente, el Magistrado Instructor propondrá un proyecto de sentencia con base en las constancias que obren en autos.
+
+> <small>(ADICIONADO, G.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 103.
+
+Dentro de los quince días siguientes contados a partir de que surta sus efectos la notificación por estrados del acuerdo que ordena la elaboración del proyecto, el Magistrado Instructor someterá a consideración del Pleno, el proyecto de sentencia que resuelva el procedimiento.
+
+> <small>(ADICIONADO, G.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 104.
+
+El Pleno en sesión pública, resolverá el asunto en un plazo no mayor a diez días, contados a partir del siguiente a aquel en que se haya distribuido, el proyecto de resolución.
+
+> <small>(ADICIONADO, G.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 105.
+
+Las sentencias que resuelvan el procedimiento especial sancionador podrán tener los siguientes efectos:
+
+1. Declarar la inexistencia de la violación objeto de denuncia y, en su caso, revocar las medidas cautelares que se hubieren impuesto;
+
+2. De acreditarse la comisión de la conducta infractora y la responsabilidad del sujeto denunciado, o de terceros, imponer las sanciones que resulten procedentes, observando lo previsto en el artículo 381 del Código de Instituciones y Procedimientos Electorales del Distrito Federal. Asimismo, el Tribunal deberá dictar las medidas necesarias para restaurar la regularidad del proceso electoral y la vigencia de los principios rectores de la materia electoral vulnerados con la comisión de la conducta infractora, en los casos en que esto sea posible; o
+
+3. Sobreseer en el procedimiento especial sancionador, cuando se actualice alguna de las causales previstas en artículo 24 de la Ley Procesal.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -1843,5 +1917,11 @@ SEGUNDO. Publíquese esta reforma en la Gaceta Oficial del Distrito Federal, as�
 G.O. 9 DE SEPTIEMBRE DE 2014.
 
 PRIMERO. La reforma al presente Reglamento entrará en vigor al momento de su aprobación por el Pleno del Tribunal.
+
+SEGUNDO. Publíquese esta reforma en la Gaceta Oficial del Distrito Federal, así como en los estrados y en el sitio de Internet del Tribunal.
+
+G.O. 27 DE NOVIEMBRE DE 2014.
+
+PRIMERO. La reforma al presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO. Publíquese esta reforma en la Gaceta Oficial del Distrito Federal, así como en los estrados y en el sitio de Internet del Tribunal.
