@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "2013-12-30"
+last_updated: "2014-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado, el día 30 de abril de 1985.
 
@@ -5183,6 +5183,8 @@ Extinguido el patrimonio de familia, los bienes que lo formaban vuelven al pleno
 
 #### Sección Segunda.- Actas de nacimiento
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 828.
 
 El Registro del Estado Civil es la Institución de carácter público y de interés social, por medio de la cual el Estado, de acuerdo con las leyes y reglamentos aplicables, inscribe y da publicidad a los actos constitutivos o modificativos del estado civil de las personas.
@@ -5338,6 +5340,8 @@ Los Juzgados del Registro del Estado Civil y los Jueces Itinerantes, estarán ba
 #### Sección Tercera.- Actas de Reconocimiento
 
 ###### Artículo 856.
+
+Toda persona tiene derecho a la identidad y a ser registrado de manera inmediata a su nacimiento. El Estado garantizará el cumplimiento de estos derechos. El Juez del Registro Civil expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento.
 
 Las declaraciones de nacimiento se harán dentro de los ciento ochenta días siguientes a éste. El niño será presentado al Juez del Registro del Estado Civil en su oficina o en el domicilio familiar.
 
@@ -20114,3 +20118,9 @@ En tanto no se realicen las reformas a que se refiere el párrafo anterior, las 
 CUARTO.- Los recursos humanos, financieros y materiales que sean necesarios, serán transferidos a la Dependencia que corresponda, atendiendo al objeto o naturaleza de sus funciones. Las Secretarías de Finanzas y Administración y de la Contraloría, en el ámbito de su competencia, deberán realizar las acciones conducentes para realizar dichos movimientos.
 
 QUINTO.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
