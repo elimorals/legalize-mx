@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-procedimientos-penales-4151"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-03-02"
-last_updated: "2014-05-15"
+last_updated: "2014-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "CHP"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES
 
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO TERCERO DEL DECRETO POR EL QUE LA SEXAGÉSIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL ESTADO DE CHIAPAS, EXPIDE LA DECLARATORIA DE INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 27 DE NOVIEMBRE DE 2014, DE ACUERDO A LO PREVISTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, LOS CÓDIGOS DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS DE 1938 Y EL DE CORTE ACUSATORIO Y ORAL DE 2012, PARA EFECTOS DE SU APLICACIÓN EN LOS PROCEDIMIENTOS PENALES INICIADOS POR HECHOS QUE OCURRAN A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE CÓDIGO, QUEDARÁN ABROGADOS; SIN EMBARGO, RESPECTO A LOS PROCEDIMIENTOS PENALES QUE A LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES SE ENCUENTREN EN TRÁMITE, CONTINUARÁN SU SUSTANCIACIÓN DE CONFORMIDAD CON LA LEGISLACIÓN APLICABLE EN EL MOMENTO DEL INICIO DE LOS MISMOS.</small>
+
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SÉPTIMO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 9 DE FEBRERO DE 2012, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO, UNA VEZ QUE ENTRE EN VIGOR SUCESIVA Y TERRITORIALMENTE POR REGIONES, DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO EL NUEVO CÓDIGO DE PROCEDIMIENTOS PENALES.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2014 (ABROGADO).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Chiapas, el 2 de marzo de 1938.
 
@@ -34,6 +36,8 @@ INGENIERO EFRAIN A. GUTIERREZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBE
 DECRETO NUMERO 9.
 
 LA H. XXXVI LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS, EN USO DE LAS FACULTADES QUE LE CONCEDE LA CONSTITUCIÓN POLÍTICA DEL MISMO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO ARTICULO TERCERO DEL DECRETO NÚMERO 036, PUBLICADO EN EL P.O. 27 DE NOVIEMBRE DE 2014, TODA MENCIÓN EN OTRAS LEYES U ORDENAMIENTOS DEL ESTADO DE CHIAPAS AL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO, SE ENTENDERÁ REFERIDO AL CÓDIGO DE PROCEDIMIENTOS PENALES QUE RESULTE APLICABLE, TOMANDO EN CONSIDERACIÓN LA VIGENCIA DE LOS CÓDIGOS DE PROCEDIMIENTOS PENALES DE 1938, EL DE CORTE ACUSATORIO Y ORAL DE 2012, Y EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES.</small>
 
 CODIGO DE PROCEDIMIENTOS PENALES
 
@@ -4512,3 +4516,39 @@ P.O. 15 DE MAYO DE 2014.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2014.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE LA DECLARATORIA DE INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE CHIAPAS PUBLICADA MEDIANTE DECRETO NÚMERO 036.</small>
+
+Primera.- En atención a lo dispuesto en los artículos Primero y Segundo Transitorios del Código Nacional de Procedimientos Penales, se declara que el Estado de Chiapas incorpora a su régimen jurídico penal el Código Nacional de Procedimientos Penales, instrumento jurídico que regulará la forma y términos en que se substanciarán los procedimientos penales, el cual entrará en vigor de manera gradual y por regiones, en los siguientes términos:
+
+A) Sus disposiciones empezarán a regir 90 días posteriores que de la publicación de la presente declaratoria se haga en el Periódico Oficial, en las regiones uno, dos y tres, comprendiendo la Región Uno, el municipio de Tuxtla Gutiérrez, la Región Dos, los Distritos Judiciales de Tuxtla, Chiapa, Cintalapa, San Cristóbal, Tapachula y Comitán, la Región Tres, solamente los Distritos Judiciales de Tonalá, Ocosingo, Villaflores y Pichucalco, y solo para los delitos contenidos en el Código Penal para el Estado de Chiapas y demás disposiciones legales aplicables, a excepción de los delitos considerados graves en el artículo 269 Bis A del Código de Procedimientos Penales para el Estado de Chiapas de 1938.
+
+B) En el resto de los Distritos Judiciales, sus disposiciones se aplicarán en la fecha que contengan los Acuerdos Generales del Consejo de la Judicatura del Poder Judicial del Estado respecto a la creación y puesta en función de los Juzgados de Control y Tribunal de Enjuiciamiento, sin que exceda del plazo constitucional, en coordinación con las áreas encargadas de la procuración de justicia y seguridad y protección ciudadana.
+
+C) Para el resto del catálogo de delitos, sus disposiciones empezarán a regir el día 31 de marzo de 2016 en todos los Distritos Judiciales.
+
+Segunda.- El artículo tercero transitorio del Decreto número 147 publicado en el Periódico Oficial del Estado el 17 de mayo de 2012, por el que se crea el Código de Procedimientos Penales para el Estado de Chiapas, establece que para los efectos de la implementación del sistema procesal penal acusatorio y con base en la gradualidad contemplada en la Reforma Constitucional Federal, el territorio chiapaneco se divide de la siguiente forma:
+
+Región Uno: Municipio de Tuxtla Gutiérrez; Región Dos: Distritos Judiciales de Tuxtla-a excepción del municipio de Tuxtla Gutiérrez-, Cintalapa, Chiapa, Tapachula, San Cristóbal y Comitán de Domínguez; Región Tres: Distritos Judiciales de Villaflores, Tonalá, Pichucalco, Acapetahua, Catazajá-Palenque, Ocosingo, Yajalón, Huixtla, Motozintla, Copainalá, Simojovel, Bochil, Venustiano Carranza y Salto de Agua.
+
+Asimismo, el transitorio en comento señala que la implementación del sistema procesal penal acusatorio será en forma gradual y progresiva bajo el criterio de delitos en bloques y regiones.
+
+A la fecha de la presente Declaratoria, el sistema procesal penal acusatorio se encuentra implementado con la cobertura total de los delitos no graves en las Regiones Uno y Dos, y en la Región Tres en lo que respecta a los Distritos Judiciales de Tonalá, Ocosingo, Villaflores y Pichucalco. En relación a los Distritos Judiciales restantes de la Región Tres, en éstos entrará en vigor en forma gradual según se establezca en los Acuerdos Generales que para tal efecto emita el Consejo de la Judicatura del Poder Judicial del Estado, sin que exceda del 18 de junio de 2016, en el que entrará en vigor en el Estado para todos los delitos, en coordinación con las áreas encargadas de la procuración de justicia y seguridad y protección ciudadana.
+
+Tercera.- Los procedimientos penales iniciados con antelación a la entrada en vigor del Código Nacional de Procedimientos Penales en esta Entidad Federativa, se regirán por las disposiciones vigentes al momento de su inicio.
+
+Cuarta.- No procederá la acumulación de procesos por hechos que la ley señale como delito, cuando el procedimiento ya esté iniciado o se esté tramitando un juicio conforme a los Códigos de Procedimientos Penales para el Estado de Chiapas vigentes previo a la entrada en vigor de la presente declaratoria, y con posterioridad se denuncien hechos que deban ser investigados bajo la vigencia del Código Nacional de Procedimientos Penales, atendiendo a lo expuesto en el Artículo Sexto Transitorio del Código Nacional de Procedimientos Penales.
+
+T r a n s i t o r i o s
+
+Artículo Primero.- Publíquese la presente Declaratoria en el Periódico Oficial del Estado, noventa días naturales anteriores a la entrada en vigor en esta entidad federativa, del Código Nacional de Procedimientos Penales.
+
+Artículo Segundo.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Tercero.- De acuerdo a lo previsto en el artículo Tercero Transitorio del Código Nacional del (sic) Procedimientos Penales, los Códigos de Procedimientos Penales para el Estado de Chiapas de 1938 y el de corte acusatorio y oral de 2012, para efectos de su aplicación en los procedimientos penales iniciados por hechos que ocurran a partir de la entrada en vigor del presente Código, quedarán abrogados; sin embargo, respecto a los procedimientos penales que a la entrada en vigor del Código Nacional de Procedimientos Penales se encuentren en trámite, continuarán su sustanciación de conformidad con la legislación aplicable en el momento del inicio de los mismos.
+
+Toda mención en otras leyes u ordenamientos del Estado de Chiapas al Código de Procedimientos Penales para el Estado, se entenderá referido al Código de Procedimientos Penales que resulte aplicable, tomando en consideración la vigencia de los Códigos de Procedimientos Penales de 1938, el de corte acusatorio y oral de 2012, y el Código Nacional de Procedimientos Penales.
+
+Artículo Cuarto.- Remítase copia de este Decreto a los poderes públicos de la Federación, de las Entidades Federativas y del Distrito Federal, así como a los demás Poderes del Estado, para su conocimiento y efectos a que haya lugar.
