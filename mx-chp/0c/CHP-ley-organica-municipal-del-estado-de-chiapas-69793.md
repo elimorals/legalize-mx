@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-municipal-del-estado-de-chiapas-69793"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-29"
-last_updated: "2014-09-12"
+last_updated: "2014-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 29 de julio de 2009.
 
@@ -783,7 +783,9 @@ XI.- Asistir a las sesiones del ayuntamiento y participar en las discusiones con
 
 XII.- Presidir las comisiones para las cuales sean designados;
 
-XIII.- Practicar, a falta de agentes del Ministerio Público, las primeras diligencias de averiguación previa, remitiéndolas al agente del Ministerio Público del Distrito Judicial correspondiente a más tardar dentro de las veinticuatro horas siguientes;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+XIII.- Practicar, a falta de agentes del Ministerio Público, las primeras diligencias de averiguación previa o de investigación, remitiéndolas inmediatamente al Agente del Ministerio Público del Distrito Judicial correspondiente.
 
 XIV.- Presentar ante el Órgano de Fiscalización Superior del Congreso del Estado, a través de la Contraloría Municipal, las declaraciones de su situación patrimonial, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas; y verificar que los servidores públicos del Municipio que tengan esta obligación, cumplan con ella en los mismos términos;
 
@@ -889,7 +891,9 @@ IV. Vigilar, mantener y restablecer la tranquilidad, la seguridad y la salubrida
 
 V. Cumplir con las disposiciones relativas al registro del estado civil de las personas.
 
-VI. Practicar en los lugares donde no haya Juez Municipal, rural o Agentes del Ministerio Público, las primeras diligencias de averiguación previa en los casos de conductas que pudieren configurar algún delito, y procurar la captura en caso de flagrancia de los presuntos responsables; y hacer del conocimiento de la agencia del Ministerio Público del Distrito Judicial que corresponda en un término no mayor de 24 horas.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+VI. Practicar en los lugares donde no haya Juez Municipal, Rural o Agentes del Ministerio Público, las primeras diligencias de averiguación previa o de investigación en los casos de conductas que pudieren configurar algún delito, y procurar la captura en caso de flagrancia de los probables responsables; debiendo ponerlos inmediatamente a disposición del Ministerio Público del Distrito Judicial que corresponda.
 
 VII. Coadyuvar con las autoridades judiciales, cuando sean requeridos.
 
@@ -2572,3 +2576,9 @@ Primero.- El presente decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 
 Tercero.- Los Ayuntamientos llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, con plena observancia a las disposiciones aplicables.
+
+P.O. 27 DE NOVIEMBRE DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
