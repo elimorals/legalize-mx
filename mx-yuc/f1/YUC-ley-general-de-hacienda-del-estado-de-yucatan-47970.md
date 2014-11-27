@@ -4,7 +4,7 @@ identifier: "YUC-ley-general-de-hacienda-del-estado-de-yucatan-47970"
 country: "mx"
 rank: "ley_general"
 publication_date: "2005-12-29"
-last_updated: "2014-02-19"
+last_updated: "2014-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 20, DEL ESTADO DE YUCATÁN, PUBLICADO EN EL D.O. 29 DE DICIEMBRE DE 2012, EL CAPÍTULO IV, DEL TÍTULO III DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN, DEJARÁ DE SER APLICABLE A LOS MUNICIPIOS A PARTIR DE QUE SE HAGAN CARGO DEL SERVICIO PÚBLICO DE PANTEONES Y LA FUNCIÓN RECAUDATORIA INHERENTE AL MISMO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el jueves 29 de diciembre de 2005.
 
@@ -83,7 +83,7 @@ EXENCIONES: A determinadas circunstancias que, de manera particular, eximen a ci
 
 OBLIGACIONES ESPECÍFICAS DE CADA TRIBUTO: A aquellas obligaciones a cargo de los contribuyentes que no pueden generalizarse.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -101,7 +101,7 @@ Los impuestos que establece esta Ley podrán pagarse en las oficinas recaudadora
 
 Los derechos que establece esta ley se pagarán por los servicios que presta el Estado en sus funciones de derecho público o por el uso o aprovechamiento de los bienes de dominio público del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -599,9 +599,9 @@ No están comprendidas en este artículo, las remuneraciones correspondientes a 
 
 ARTÍCULO 27 D.- Para disfrutar de los beneficios que establece esta sección, los contribuyentes deberán cumplir con las demás disposiciones que para tal efecto expida el Ejecutivo del Estado, para el cumplimiento preciso de sus obligaciones fiscales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA SU DENOMINACION, D.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 26.
 
@@ -633,7 +633,7 @@ f) Contraprestaciones cubiertas a trabajadores domésticos.
 
 II.- Las erogaciones que efectúen:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 a) (DEROGADO, D.O. 30 DE DICIEMBRE DE 2009)
 
@@ -657,17 +657,17 @@ i) Empresas sociales constituidas por avecindados e hijos de ejidatarios con der
 
 j) Unidades agrícolas industriales de la mujer campesina.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 26 DE DICIEMBRE DE 2006)</small>
 
 #### SECCIÓN SEGUNDA. DEL SUJETO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
 #### SECCIÓN TERCERA. DE LA BASE
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -687,7 +687,7 @@ j) Unidades agrícolas industriales de la mujer campesina.
 
 #### SECCIÓN SEXTA. DE LAS EXENCIONES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -703,9 +703,9 @@ Este impuesto se causará independientemente de la denominación que se le dé a
 
 Quedan comprendidos en los juegos con cruce de apuestas, independientemente del nombre con el que se les designe, aquéllos que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos y su Reglamento, así como la realización de juegos y concursos en los que el premio se obtenga por la destreza del participante en el uso de máquinas, independientemente de que en el desarrollo de los mismos se utilicen imágenes visuales electrónicas como números, símbolos, figuras u otras similares. También quedan comprendidos en los juegos con cruce de apuestas, aquéllos en los que sólo se reciban, capten, crucen o exploten apuestas. Asimismo, quedan comprendidos en los sorteos, los concursos en los que se ofrezcan premios y en alguna etapa de su desarrollo intervenga directa o indirectamente el azar.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
 #### SECCIÓN SÉPTIMA. DE LAS OBLIGACIONES
 
@@ -763,9 +763,9 @@ La disposición contenida en el párrafo anterior también se aplica al organiza
 
 V. Quienes obtengan premios derivados de juegos permitidos con cruce o captación de apuestas, pagarán el impuesto que resulte de aplicar la tasa del 6% al valor del premio, mismo que será retenido y enterado por quien organice, realice o explote los eventos, o por quien reciba, registre, cruce o capte las apuestas, debiendo proporcionar la constancia de retención correspondiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA SU DENOMINACION, D.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
 #### SECCIÓN TERCERA. DE LA BASE
 
@@ -789,9 +789,9 @@ El pago de este impuesto no libera de la obligación de obtener previamente los 
 
 Los contribuyentes eventuales no podrán iniciar la lotería, rifa, sorteo, concurso o juego con cruce de apuestas legalmente permitido, si no han pagado el impuesto correspondiente a algún evento anterior, en caso de que lo adeude.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA SU DENOMINACION, D.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
 #### SECCIÓN CUARTA. DE LA TASA
 
@@ -821,9 +821,9 @@ b) Tratándose de sorteos, cuando todos los participantes obtengan dicha calidad
 
 c) Tratándose de sorteos, cuando todos los participantes obtengan dicha calidad a título gratuito por el solo hecho de adquirir un bien o contratar un servicio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA SU DENOMINACION, D.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
 #### SECCIÓN QUINTA. DE LA CAUSACIÓN
 
@@ -837,7 +837,7 @@ I. Expedir boletos o comprobantes impresos por imprenta autorizada, que den dere
 
 II. Vender únicamente boletos con autorización oficial;
 
-III. Retener el monto del impuesto que les corresponda cubrir, a cargo de quien reciba los premios, y (sic)
+III. Retener el monto del impuesto que les corresponda cubrir, a cargo de quien reciba los premios, y
 
 IV. Proporcionar al ganador del premio la constancia de retención del impuesto a su cargo.
 
@@ -1023,7 +1023,7 @@ h).- Aeronaves.
 
 i).- Embarcaciones.
 
-VlII.- Comerciantes en el ramo de vehículos: a las personas físicas y morales cuya actividad sea la importación y venta de vehículos nuevos o usados;
+VIII.- Comerciantes en el ramo de vehículos: a las personas físicas y morales cuya actividad sea la importación y venta de vehículos nuevos o usados;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -1043,7 +1043,7 @@ X.- Factores de actualización: los que determine la Agencia de Administración 
 
 XI.- Vehículo Usado: Aquel que no se encuentre comprendido en la fracción I de este artículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -1071,13 +1071,13 @@ Para los efectos de este Capítulo, tratándose de vehículos afectos al patrimo
 
 En los casos en que exista copropiedad respecto del vehículo, cada uno de los copropietarios se presumirán tenedores o usuarios del mismo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ARTÍCULO 47 D.- La Federación, el Distrito Federal, los Estados, los Municipios, así como sus organismos y entidades o cualquier otra persona física o moral, deberán pagar el impuesto sobre tenencia o uso de vehículos que se establece en este Capítulo, con las excepciones que en el mismo se señalan, aún cuando de conformidad con otras leyes o decretos no estén obligados a pagar contribuciones estatales o estén exentos de ellos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -1093,7 +1093,7 @@ IV.- Las autoridades competentes que expidan los certificados de aeronavegabilid
 
 De no comprobarse que se ha cumplido con la obligación de pago, dichas autoridades lo harán del conocimiento de las autoridades fiscales correspondientes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -1197,13 +1197,13 @@ VI.- Tratándose de aeronaves nuevas de pistón, turbohélice y helicópteros, l
 
 VII.- En la enajenación o importación de vehículos de año modelo posterior al de aplicación de este Capítulo, se pagará el impuesto correspondiente al año de calendario en el que se enajene o importe, según corresponda. El impuesto para dichos vehículos se determinará en el siguiente año de calendario de acuerdo con el procedimiento que corresponda al tipo de vehículo de que se trate, bajo el criterio de vehículo nuevo. Las cantidades establecidas en las tarifas de este artículo, se actualizarán y publicarán por la Agencia de Administración Fiscal de Yucatán en el Diario Oficial del Gobierno del Estado de Yucatán en el mes de diciembre de cada año, aplicando el factor que se obtenga de dividir el Índice Nacional de Precios al Consumidor del mes de noviembre del año inmediato anterior a aquél para el que se calcula el impuesto, entre el Índice Nacional de Precios al Consumidor del mes de noviembre en que se actualizó por última vez. Estas tarifas se aplicarán a partir del mes de enero de cada año. Para efectos del artículo 47-G fracción I incisos b) y c); fracción II inciso b); fracción IV inciso b) y fracción VII inciso b), el resultado se actualizará aplicando el factor que se obtenga de dividir el Índice Nacional de Precios al Consumidor del mes de noviembre del año inmediato anterior a aquél en que se va a calcular el impuesto, entre el Índice Nacional de Precios al Consumidor del mes de noviembre del año correspondiente al modelo del vehículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ARTÍCULO 47 G.- Tratándose de vehículos usados de fabricación nacional o importada, el impuesto se determinará conforme a lo siguiente:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
 I.- En los casos de vehículos destinados al transporte de más de 15 pasajeros o de carga, y para vehículos que cuenten con placas de servicio público de transporte de pasajeros y los denominados "taxis", embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas, tablas de oleaje con motor, incluyendo los vehículos Pick Up cuyo valor total no rebase el equivalente a 6,334 salarios mínimos del área geográfica a la que corresponde el Estado, así como aeronaves, vehículos eléctricos, mixtos o híbridos y de combustión interna con motor accionado por hidrógeno el impuesto será el que resulte de lo siguiente:
 
@@ -1263,7 +1263,7 @@ El monto de las cuotas establecidas en la tabla anterior se actualizará de conf
 
 La autoridad fiscal informará del cumplimiento del pago del impuesto a que se refiere este Capítulo a las autoridades competentes para expedir los certificados de aeronavegabilidad, de inspección de seguridad a embarcaciones, los certificados de matrícula para las aeronaves y cualquier otro permiso para la operación del servicio de autotransporte federal, a fin de ser considerado para efecto de su expedición, conforme al convenio que al efecto se suscriba.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
 II.- Tratándose de automóviles usados, de fabricación nacional o importados, destinados al transporte de hasta 15 pasajeros y automóviles blindados, así como vehículos pick up cuyo valor total sea mayor a 6,334 salarios mínimos del área geográfica a la que corresponde el Estado, el impuesto será el que resulte de aplicar procedimiento (sic) siguiente:
 
@@ -1427,7 +1427,7 @@ Años de Antigüedad Factor de depreciación
 
 b) La cantidad obtenida conforme al inciso anterior, se actualizará de conformidad con el segundo párrafo de la fracción VII del artículo 47-F de esta Ley, se multiplicará por el 2.0% y el resultado obtenido será el impuesto a pagar.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -1587,7 +1587,7 @@ De Octubre a Diciembre 0.25
 
 ARTÍCULO 47 K BIS.- Tratándose de vehículos nuevos cuyo registro sea dado de baja en el Registro Estatal de Control Vehicular, en el mismo ejercicio fiscal en que sea adquirido, el contribuyente podrá solicitar la devolución de la tenencia pagada de conformidad con el procedimiento establecido en el último párrafo del artículo 47-K, acorde con los meses en que fue tenedor o usuario del vehículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -1699,13 +1699,13 @@ XIV.- Derechos por los servicios de inspección, control y fiscalización que re
 
 XV.- Derechos por los servicios que preste el Poder Judicial del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, D.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ### CAPÍTULO VII. DEL IMPUESTO SOBRE TENENCIA O USO DE VEHÍCULOS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -1963,9 +1963,9 @@ Tampoco se pagarán derechos por la expedición de copias certificadas para la s
 
 No se pagarán derechos por las reposiciones que sean solicitadas por el Estado, salvo que éstas deriven de la petición de un particular.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA SU DENOMINACION, D.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO VII. DERECHOS POR LOS SERVICIOS QUE PRESTA LA DIRECCIÓN DEL ARCHIVO NOTARIAL DEL ESTADO
 
@@ -2389,7 +2389,7 @@ El Secretario de Administración y Finanzas podrá, mediante acto fundado y moti
 
 Por los servicios que presta la Dirección del Registro Civil, se causarán derechos conforme a lo siguiente:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 I.- (DEROGADA, D.O. 30 DE DICIEMBRE DE 2009)
 
@@ -2537,6 +2537,10 @@ o inexistencia de registro 2.00 S.M.G.
 
 Los servicios dispuestos en las fracciones III, V, VIII, y IX, incluyen la expedición de un certificado. El Ejecutivo, mediante decreto, podrá eximir total o parcialmente el pago de los derechos que se establecen en las fracciones I, II, III, IV, VI, XI, XII y XIV, en los términos dispuestos en el Código Fiscal del Estado de Yucatán.
 
+> <small>(ADICIONADO, D.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+No se causarán los derechos a que se refiere la fracción XI de este artículo cuando se trate de la primera certificación del acta de registro de nacimiento.
+
 ### CAPÍTULO IX. DERECHOS POR LOS SERVICIOS QUE PRESTA LA CONSEJERÍA JURÍDICA
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
@@ -2601,9 +2605,9 @@ en los cementerios en las poblaciones del
 
 interior del Estado 1.00 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA SU DENOMINACION, D.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ### CAPÍTULO X. DERECHOS POR LOS SERVICIOS QUE PRESTA LA DIRECCIÓN DEL CATASTRO
 
@@ -2639,9 +2643,9 @@ de cualquier aviso. 0.35 S.M.G.
 
 No se causarán los derechos a que se refieren las fracciones I, II y III de este artículo, en los casos en que el servicio se preste para la inscripción de contratos, en los cuales sean parte el Instituto de Seguridad Social para los Trabajadores del Estado de Yucatán, Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores, el Instituto de la Vivienda del Estado de Yucatán, la Comisión Reguladora de la Tenencia de la Tierra o el Registro Agrario Nacional, o los relativos a contratos de créditos celebrados por cualesquiera de las instituciones públicas o de crédito autorizadas, cuyo objeto sea la adquisición o la construcción de viviendas; siempre y cuando el monto de la operación, individualmente considerada, no exceda de la cantidad que resulte de multiplicar por 25 veces el salario mínimo general vigente en el Estado de Yucatán, elevado al año. De igual forma no se causarán los derechos señalados cuando se trate de las adjudicaciones a favor de los trabajadores que señala el artículo 975 fracción II inciso b) de la Ley Federal del Trabajo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA SU DENOMINACION, D.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 60.
 
@@ -2689,7 +2693,7 @@ III.- En los casos en que un documento tenga que inscribirse en varias secciones
 
 ### CAPÍTULO XI. DERECHOS POR SERVICIO DE ALUMBRADO PÚBLICO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 63.
 
@@ -2769,9 +2773,9 @@ VI.- Por la recepción y revisión de cada aviso de escritura
 
 que se otorga ante Escribano Público 0.75 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA SU DENOMINACION, D.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ### CAPÍTULO XIII. DERECHOS POR SERVICIOS QUE PRESTA LA SECRETARÍA DE EDUCACIÓN
 
@@ -2831,9 +2835,9 @@ d) Por el suplemento de fecha anterior por hoja 0.01 S.M.G.
 
 V.- Por expedición de copias certificadas por hoja 0.10 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA SU DENOMINACION, D.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ### CAPÍTULO XIV. DERECHOS POR LOS SERVICIOS QUE PRESTA LA SECRETARÍA DE DESARROLLO URBANO Y MEDIO AMBIENTE
 
@@ -3565,31 +3569,31 @@ XXX.- Por trámite de importación y exportación 26.00 S.M.G.
 
 (DEROGADO, D.O. 27 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 75.
 
 (DEROGADO, D.O. 27 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 76.
 
 (DEROGADO, D.O. 27 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 77.
 
 (DEROGADO, D.O. 27 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 78.
 
 (DEROGADO, D.O. 27 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 79.
 
@@ -3641,7 +3645,7 @@ IX.- Diagnóstico de Riesgo 15.00 S.M.G.
 
 ARTÍCULO 85 F.- Están exentas del pago de los derechos establecidos en este capítulo, las dependencias federales, estatales y municipales, y las instituciones y asociaciones sin fines de lucro.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 80.
 
@@ -4261,9 +4265,9 @@ Para los efectos del artículo anterior, se estará obligado al pago del derecho
 
 Se entenderá por aprovechamiento especial el que se obtenga por usar, gozar o aprovechar un bien de uso común, de modo que se limite el derecho de terceros para su libre uso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 27 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 85.
 
@@ -4273,7 +4277,7 @@ I. Por cada metro cuadrado de la superficie total
 
 del anuncio publicitario o señal informativa 1 S.M.G
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ### CAPÍTULO XXI. DERECHOS POR LOS SERVICIOS DE SUPERVISIÓN, VIGILANCIA Y REGISTRO DE MÁQUINAS DE JUEGOS Y APUESTAS
 
@@ -4323,13 +4327,13 @@ III.- Las autorizaciones con categoría C, son para:
 
 Cualquier otro de carácter eventual o extraordinario que no esté considerado dentro de los tipos A o B.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ARTÍCULO 85 D.- Los ingresos que se obtengan por la recaudación de los derechos a que se refiere el artículo 85-A se destinarán al organismo público descentralizado denominado "Servicios de Salud de Yucatán", para el mantenimiento y operación de los servicios que presta.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
 ### CAPÍTULO XXII. DERECHOS POR LOS SERVICIOS DE INSPECCIÓN, CONTROL Y FISCALIZACIÓN QUE REALIZA LA SECRETARÍA DE LA CONTRALORÍA GENERAL
 
@@ -4427,7 +4431,7 @@ III.- Herencias, legados y donaciones que se hagan en favor del Estado o de inst
 
 IV.- Otros aprovechamientos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 88.
 
@@ -4678,3 +4682,17 @@ Para los efectos de lo dispuesto por el artículo 20-E, el primer pago provision
 Artículo Tercero. Derogación
 
 Se derogan todas las disposiciones de igual o menor rango en lo que se opongan al contenido de este decreto.
+
+D.O. 27 DE NOVIEMBRE DE 2014.
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Obligación normativa
+
+El Gobernador deberá realizar las modificaciones al Reglamento de la Ley del Registro Civil del Estado de Yucatán, para armonizarlas en lo conducente a las disposiciones de este decreto, dentro de los 90 días naturales siguientes contados a partir de su entrada en vigor.
+
+Tercero. Derogación tácita.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al contenido de este decreto.
