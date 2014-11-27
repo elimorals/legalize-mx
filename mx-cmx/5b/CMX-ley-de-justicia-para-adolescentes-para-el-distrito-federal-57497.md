@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-justicia-para-adolescentes-para-el-distrito-federal-5749
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-14"
-last_updated: "2014-10-14"
+last_updated: "2014-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57497&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-10-25"
 
 LEY DE JUSTICIA PARA ADOLESCENTES PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 14 de noviembre de 2007.
 
@@ -342,6 +342,10 @@ a. Jueces Especializados en Justicia para adolescentes;
 
 b. Magistrados Especializados en Justicia para adolescentes;
 
+> <small>(ADICIONADO, G.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+c. Centro de Justicia Alternativa;
+
 II. Procuraduría General de Justicia del Distrito Federal:
 
 a. Ministerio Público o Fiscal Especializado en Justicia para Adolescentes, quien actúa con sus auxiliares;
@@ -380,11 +384,9 @@ CONVENIOS.
 
 Para el mejor desempeño de sus funciones, los órganos y autoridades especializadas en justicia para adolescentes podrán celebrar convenios con organismos, instituciones públicas o privadas y entidades federativas para que participen y colaboren en la consecución de los fines establecidos en la presente Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 15 DE ABRIL DE 2014)</small>
-
-## TÍTULO SEGUNDO. DEL PROCESO
+## TÍTULO SEGUNDO. DE LOS PROCEDIMIENTOS
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -792,7 +794,7 @@ Si el hecho por el que se le privó de la libertad no es de los legalmente calif
 
 Ejecutada que sea una orden de detención, o bien, cuando el Ministerio Público ejercite acción de remisión con detenido por flagrancia o caso urgente, la policía encargada de su cumplimiento y/o traslado, de inmediato pondrá al adolescente a disposición del Director del centro de internamiento, quien ordenará ubicarlo en un área específica diversa a la de quienes estén cumpliendo una medida definitiva de internamiento, presentándolo de inmediato ante el Juez correspondiente, poniéndolo a su disposición.
 
-Una vez que el detenido sea puesto a disposición del Juez, de inmediato celebrará la audiencia inicial en la que, previa acreditación de edad e identidad por la fiscalía especializada para adolecentes, calificará la legalidad de la detención y/o su cumplimiento. Si resultare no legal, la audiencia se suspenderá y se ordenará la inmediata libertad del adolescente, así como la devolución de la carpeta de investigación al Ministerio Público.
+Una vez que el detenido sea puesto a disposición del Juez, de inmediato celebrará la audiencia inicial en la que, previa acreditación de edad e identidad por la fiscalía especializada para adolecentes (sic), calificará la legalidad de la detención y/o su cumplimiento. Si resultare no legal, la audiencia se suspenderá y se ordenará la inmediata libertad del adolescente, así como la devolución de la carpeta de investigación al Ministerio Público.
 
 Cuando la carpeta de investigación sea devuelta al Ministerio Público, contará con diez días para integrarla y solicitar al Juez la celebración de audiencia para formular la imputación.
 
@@ -1222,11 +1224,9 @@ No surtirán efecto las pruebas obtenidas directa o indirectamente con violació
 
 Las pruebas personales solo podrán ser valoradas por el Tribunal ante el que se hayan practicado en condiciones de publicidad y contradicción, salvo los supuestos excepcionales en los que en interés de las víctimas en situación de riesgo sea necesaria la utilización de medios de comunicación no presencial para su declaración en el juicio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 15 DE ABRIL DE 2014)</small>
-
-### CAPÍTULO IX.. FORMAS ALTERNATIVAS DE JUSTICIA
+### CAPÍTULO IX. DE LA MEDIACIÓN
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -1234,19 +1234,31 @@ Las pruebas personales solo podrán ser valoradas por el Tribunal ante el que se
 
 DISPOSICIONES GENERALES.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, G.O. 15 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO SU ACÁPITE, G.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 39.
 
-MEDIOS ALTERNOS A JUICIO.
+MEDIACIÓN
 
-Los medios alternos al proceso judicial responden a los principios de subsidiariedad y mínima intervención previstos por la presente Ley; se orientan hacia los fines de la justicia restaurativa, a efecto de que la víctima u ofendido y el adolescente y su representante, asistidos por el Ministerio Público y el Defensor respectivamente, participen conjuntamente de forma activa en la solución de las consecuencias derivadas del hecho atribuido.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+La mediación responde a los principios de subsidiariedad y mínima intervención previstos por la presente ley; se orientan hacia los fines de la Justicia restaurativa, a efecto de que la víctima u ofendido y el adolescente y su representante, asistidos por el Ministerio Público y el Defensor respectivamente, participen conjuntamente de forma activa en la solución de las consecuencias derivadas del hecho atribuido, con la intervención del mediador del centro de Justicia Alternativa.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 15 DE ABRIL DE 2014)</small>
 
 Las autoridades aplicarán de forma prioritaria las formas alternativas de justicia contenidas en este capítulo de conformidad con los tratados internacionales y las leyes aplicables.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 15 DE ABRIL DE 2014)</small>
+
 Desde su primera intervención, el Ministerio Público o, en su caso, el Juez, exhortará a los interesados a utilizar las formas alternativas de justicia en los casos en que procedan y les explicará los efectos y los mecanismos disponibles.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 15 DE ABRIL DE 2014)</small>
 
 Cuando el Estado sea víctima, para los efectos de este capítulo, será representado por la autoridad que disponga la ley orgánica respectiva.
 
@@ -1258,15 +1270,23 @@ Cuando el Estado sea víctima, para los efectos de este capítulo, será represe
 
 ACUERDOS REPARATORIOS.
 
-Se entiende por acuerdo reparatorio el pacto entre la víctima u ofendido y el adolescente y su representante que lleva como resultado a la solución del conflicto mediante cualquier mecanismo idóneo, como la conciliación o la mediación, entre otros.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+Se entiende por acuerdo reparatorio el pacto entre la víctima u ofendido y el adolescente y su representante que lleva como resultado a la solución del conflicto a través de la Mediación.
 
 Con excepción de los delitos previstos en el artículo 30 de esta Ley, procederá el acuerdo reparatorio entre la víctima u ofendido y el adolescente y su representante hasta antes de dictarse el auto de apertura a juicio.
 
-La práctica para llegar a acuerdos reparatorios se rige por los principios de voluntariedad de las partes, confidencialidad, flexibilidad, neutralidad, imparcialidad, equidad, legalidad y honestidad.
+> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-El Ministerio Público o el Juez podrán solicitar el asesoramiento y el auxilio de personas o entidades especializadas para procurar acuerdos reparatorios entre las partes en conflicto o instar a los interesados para que designen un facilitador preferentemente certificado.
+La Mediación para llegar a acuerdos reparatorios se rige por los principios de voluntariedad, confidencialidad, flexibilidad, neutralidad, imparcialidad, equidad, legalidad y economía.
 
-Los facilitadores deberán guardar secreto sobre lo que conozcan en las deliberaciones y discusiones de las partes. La información que se genere en los procedimientos respectivos no podrá ser utilizada en perjuicio de las partes dentro del proceso penal.
+> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+El Ministerio Público o el Juez solicitarán la intervención del mediador del Centro de Justicia Alternativa para el desarrollo de la Medición que procure acuerdos reparatorios entre las partes en conflicto o instarán a los interesados para que utilicen el servicio de Mediación de dicho Centro.
+
+> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+Los mediadores deberán guardar secreto sobre lo que conozcan en las deliberaciones y discusiones de las partes. La información que se genere en los procedimientos respectivos no podrá ser utilizada en perjuicio de las partes dentro del proceso penal.
 
 Todo acuerdo reparatorio deberá ser aprobado por un Juez. El Juez no aprobará los acuerdos reparatorios cuando tenga fundados motivos para estimar que alguno de los intervinientes no está en condiciones de igualdad para negociar o ha actuado bajo coacción o amenaza.
 
@@ -1444,9 +1464,15 @@ I. Cuando no se haya localizado o presentado el adolescente ante el Juez compete
 
 II. Cuando al adolescente se le tenga por sustraído de la acción de la justicia;
 
-III. Por incapacidad física y/o mental, temporal o permanente, del adolescente para continuar el proceso; y
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-IV. En los supuestos previstos por los artículos 40 y 40 bis de esta Ley.
+III. Por incapacidad física y/o mental, temporal o permanente, del adolescente para continuar el proceso;
+
+> <small>(ADICIONADA, G.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+IV. Cuando las partes se sometan a la Mediación, de conformidad a lo previsto en esta Ley y en la de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal, por un término de hasta 30 días en los casos de hechos tipificados como delitos no graves, y
+
+V. En los supuestos previstos por los artículos 40 y 40 bis de esta Ley.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -1490,9 +1516,15 @@ IV. Cuando se compruebe durante el proceso que la conducta atribuida al adolesce
 
 V. En aquellos casos en que se compruebe con el acta del registro civil o en su defecto en los dictámenes médicos respectivos, que el adolescente, al momento de cometer el hecho tipificado como delito por las leyes penales, era menor de doce o mayor de dieciocho años de edad, en cuyo caso se pondrá a disposición de la autoridad competente, acompañando las constancias de autos;
 
-VI. Cuando el Ministerio Público no aporte elementos para continuar con el proceso, si no ha procedido la vinculación a proceso en la resolución inicial y,
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-VII. En los demás supuestos que prevé esta Ley.
+VI. Cuando el Ministerio Público no aporte elementos para continuar con el proceso, si no ha procedido la vinculación a proceso en la resolución inicial;
+
+> <small>(ADICIONADA, G.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+VII. Cuando el resultado de la gestión y resolución del conflicto a través de la mediación, arroje un acuerdo restaurativo entre las partes, en el caso de hechos tipificados como delitos no graves, y
+
+VIII. En los demás supuestos que prevé esta Ley.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -1992,7 +2024,9 @@ Una vez dictada sentencia ejecutoriada, la víctima u ofendido o sus representan
 
 POSIBILIDAD DE RESOLVER LA REPARACIÓN DE DAÑO MEDIANTE CONVENIO DE LAS PARTES
 
-Los Jueces de Ejecución, una vez que las personas debidamente legitimadas soliciten la reparación del daño, correrán traslado de la solicitud respectiva al adolescente y su defensor y citarán a las partes para la celebración de una audiencia de conciliación, que se llevará a cabo dentro de los diez días siguientes a la notificación, en la cual se procurará el avenimiento de las mismas, proponiéndose las alternativas que estimen pertinentes para solucionar ésta cuestión incidental.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+Los Jueces de Ejecución, una vez que las personas debidamente legitimadas soliciten la reparación del daño, correrán traslado de la solicitud respectiva al adolescente y su defensor y citarán a las partes para la celebración de una sesión de mediación en los términos de la Ley de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal, que se llevará a cabo dentro de los diez días siguientes a la notificación, en la cual se procurará el avenimiento de las mismas para solucionar ésta cuestión incidental.
 
 Si las partes llegaran a un convenio, este se aprobará de plano, tendrá validez y surtirá los efectos legales correspondientes tanto por su cumplimiento como por el incumplimiento de alguna de las partes ante las instancias correspondientes.
 
@@ -2909,3 +2943,9 @@ G.O. 14 DE OCTUBRE DE 2014.
 PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 27 DE NOVIEMBRE DE 2014.
+
+Primero. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+Segundo. El presente decreto modifica el diverso por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Justicia para Adolescentes para el Distrito Federal, publicado el quince de abril de dos mil catorce en la Gaceta Oficial del Distrito Federal y entrará en vigor en la fecha en que entre el mismo.
