@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-cultura-fisica-y-deporte-del-estado-de-mexico-26751"
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-10"
-last_updated: "2011-09-01"
+last_updated: "2014-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "MEX"
 ---
 # LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE MEXICO
 
-LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE MEXICO
+LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE MÉXICO
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO TERCERO TRANSITORIO DEL DECRETO NUMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TERMINO PERSONAS CON CAPACIDADES DIFERENTES, SE ENTENDERA QUE CORRESPONDE AL TERMINO PERSONAS CON DISCAPACIDAD.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE MÉXICO, PUBLICADA EN LA G.G. DE 28 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 1 DE SEPTIEMBRE DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO TERCERO TRANSITORIO DEL DECRETO NUMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TERMINO PERSONAS CON CAPACIDADES DIFERENTES, SE ENTENDERÁ QUE CORRESPONDE AL TERMINO PERSONAS CON DISCAPACIDAD.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 28 DE NOVIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en la Gaceta del Gobierno, el 10 de septiembre de 2002.
 
@@ -533,7 +535,7 @@ MANUEL CADENA MORALES
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.G. 1 DE SEPTIEMBRE DE 2011.
 
@@ -544,3 +546,23 @@ SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 TERCERO.- Cuando en otros ordenamientos legales, se haga referencia al término personas con capacidades diferentes, se entenderá que corresponde al término personas con discapacidad.
 
 CUARTO.- El Ejecutivo del Estado hará las modificaciones a los reglamentos, decretos administrativos, acuerdos y demás disposiciones de su competencia, para incorporar a estos el término de discapacitados en sustitución de personas con capacidades diferentes, de acuerdo con el presente Decreto.
+
+G.G. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- La presente Ley se publicará en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El Titular del Ejecutivo Estatal dentro de los ciento veinte días hábiles siguientes a la entrada en vigor de la presente Ley deberá de expedir el Reglamento de la presente Ley.
+
+CUARTO.- Se abroga la Ley de Cultura Física y Deporte del Estado de México publicada el 10 de septiembre de 2002 en el Periódico Oficial "Gaceta del Gobierno".
+
+QUINTO.- El Sistema Estatal de Cultura Física y Deporte dentro de los noventa días hábiles siguientes a la entrada en vigor de la presente Ley deberá de expedir su Reglamento Interior.
+
+SEXTO.- El Consejo Estatal de Cultura Física y Deporte dentro de los noventa días hábiles siguientes a la entrada en vigor de la presente Ley deberá de expedir su Reglamento Interior.
+
+SÉPTIMO.- Los Comités a que se refiere la presente Ley deberán instalarse en un plazo no mayor a 30 días hábiles a partir de la entrada en vigor de la presente Ley.
+
+OCTAVO.- El Reglamento de la presente Ley regulará el funcionamiento de los Comités señalados en el Artículo Transitorio anterior a partir de la entrada en vigor de la presente Ley.
+
+NOVENO.- Los municipios del Estado deberán realizar las adecuaciones a sus propios ordenamientos en la materia, en un plazo máximo de 90 días naturales contados a partir del inicio de la vigencia del presente ordenamiento.
