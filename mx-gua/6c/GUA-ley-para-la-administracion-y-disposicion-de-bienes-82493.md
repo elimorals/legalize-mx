@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-administracion-y-disposicion-de-bienes-82493"
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-12"
-last_updated: "2013-06-07"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82493&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA LA ADMINISTRACIÓN Y DISPOSICIÓN DE BIENES RELACIONADOS CON HECHOS DELICTUOSOS PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Segunda Parte, en el Periódico Oficial del Estado de Guanajuato, el viernes 12 de agosto de 2011.
 
@@ -63,25 +63,63 @@ l. Autoridad Transferente: La autoridad ministerial o judicial que tenga a su di
 
 II. Bienes: Aquellos abandonados, asegurados, decomisados, embargados o sometidos a un procedimiento de extinción de dominio, así como aquellos, que la autoridad judicial o ministerial tenga a disposición por cualquier medio legal, sujetos a las disposiciones de la presente Ley;
 
-III. Disposición: Actos de la unidad por medio de los cuales se traslada el dominio o uso de los bienes;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ARTÍCULO CUARTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-IV. Fondo: El Fondo Auxiliar para la Procuración de Justicia;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-V. Interesado: La persona que tiene interés jurídico sobre los bienes a que se refiere la fracción II de este artículo;
+III. Código Nacional: El Código Nacional de Procedimientos Penales;
 
-VI. Procuraduría: La Procuraduría General de Justicia del Estado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ARTÍCULO CUARTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-VII. Producto: El ingreso derivado de la administración o disposición de los bienes objeto (sic) esta Ley:
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-VIII. Transferencia: El procedimiento por el cual la autoridad transferente entrega uno o más bienes a la unidad para su administración o disposición; y
+IV. Disposición: Actos de la unidad por medio de los cuales se traslada el dominio o uso de los bienes;
 
-IX. Unidad: La unidad de la Procuraduría paro la administración y disposición de bienes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ARTÍCULO CUARTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+V. Fondo: El Fondo Auxiliar para la Procuración de Justicia;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ARTÍCULO CUARTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+VI. Interesado: La persona que tiene interés jurídico sobre los bienes a que se refiere la fracción II de este artículo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ARTÍCULO CUARTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+VII. Procuraduría: La Procuraduría General de Justicia del Estado;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ARTÍCULO CUARTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+VIII. Producto: El ingreso derivado de la administración o disposición de los bienes objeto (sic) esta Ley;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ARTÍCULO CUARTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+IX. Transferencia: El procedimiento por el cual la autoridad transferente entrega uno o más bienes a la unidad para su administración o disposición; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ARTÍCULO CUARTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+X. Unidad: La unidad de la Procuraduría para la administración y disposición de bienes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ARTÍCULO CUARTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 Legislación complementaria
 
 ###### Artículo 4.
 
-Para la administración y disposición de los bienes, se estará a la legislación que corresponda ofendiendo a la naturaleza del bien de que se trate o el acto a realizar, salvo lo dispuesto por esta Ley y su reglamento.
+Para la administración y disposición de los bienes, se estará a la legislación que corresponda atendiendo a la naturaleza del bien de que se trate o el acto a realizar, salvo lo dispuesto por el Código Nacional, esta Ley y su reglamento.
 
 Exención del pago de productos y derechos
 
@@ -99,13 +137,17 @@ Unidad
 
 La unidad es el área técnica especializada encargada del cumplimiento de las atribuciones de administración y disposición señaladas en la presente ley y su reglamento y tendrá las demás facultades que establezcan la Ley Orgánica del Ministerio Público, su reglamento y otras disposiciones aplicables.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ARTÍCULO CUARTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 Facultad de administración
 
 ###### Artículo 7.
 
-La unidad llevará a cabo la administración de los bienes de manera directa o mediante terceros, de conformidad con las disposiciones establecidas en la presente Ley y su reglamento.
+La unidad llevará a cabo la administración de los bienes de manera directa o mediante terceros, de conformidad con las disposiciones establecidas en la presente Ley, su reglamento y, en lo procedente, en el Código Nacional.
 
-Quedan exceptuados de lo establecido en el párrafo anterior, los bienes asegurados o embargados en los procedimientos penales sobre los que la autoridad decretó la administración a cargo de persona distinta de la unidad.
+Quedan exceptuados de lo establecido en el párrafo anterior, los bienes asegurados o embargados en los procedimientos penales sobre los que la autoridad decretó la administración a cargo de persona distinta de la unidad, así como aquellos que por su naturaleza deban ser resguardados y administrados por una instancia diversa o especializada, y aquellos que no son sujetos de administración.
 
 Enajenación de bienes
 
@@ -115,11 +157,15 @@ Los bienes se podrán enajenar en los términos de esta ley.
 
 #### Sección Segunda. Bienes Abandonados
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ARTÍCULO CUARTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 Concepto
 
 ###### Artículo 9.
 
-Se entiende por bienes abandonados aquellos que se apliquen a favor del Estado, en virtud de no haber sido recogidos por quien tenga derecho a ellos, en los términos legales o cuyo dueño se ignore.
+Los bienes abandonados son aquellos sobre los cuales se haya emitido declaratoria de abandono a favor del Estado por parte de la autoridad competente, conforme a la legislación aplicable.
 
 Devolución
 
@@ -127,33 +173,43 @@ Devolución
 
 La unidad entregará los bienes a la persona que la autoridad judicial o ministerial ordenó su devolución. De la entrega del bien se dejará constancia y se comunicará a la autoridad transferente.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ARTÍCULO CUARTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 Notificación del levantamiento
 
 ###### Artículo 11.
 
-El levantamiento del aseguramiento se notificará:
-
-I. De manera personal con el interesado o su representante legal, aplicando las reglas establecidas por la legislación adjetiva penal del estado; y
-
-II. Por edictos, cuando se desconozca el domicilio del interesado, su identidad o éste haya desaparecido, de conformidad con las siguientes reglas:
-
-a) Deberán contener los datos de identificación de la investigación o del proceso en el que se decretó el mismo, así como el plazo estipulado para que se acredite la propiedad o posesión sobre los bienes; y
-
-b) La publicación se hará por dos veces consecutivas en el Periódico Oficial y en un diario con circulación en el estado.
+El levantamiento del aseguramiento se notificará al interesado o su representante legal, aplicando las reglas establecidas por la legislación procesal correspondiente.
 
 Efectividad de la notificación
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ARTÍCULO CUARTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 12.
 
-Las notificaciones personales surtirán sus efectos el día siguiente al en que se practiquen.
+Las notificaciones surtirán sus efectos conforme lo dispuesto en el Código Nacional.
 
-La notificación por edictos surtirá sus efectos a los diez días siguientes al de la última publicación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL ARTÍCULO CUARTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Declaración de abandono
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ACÁPITE, VÉASE TRANSITORIO PRIMERO DEL ARTÍCULO CUARTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO SU ACÁPITE, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Notificación de Declaración de Abandono
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ARTÍCULO CUARTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 13.
 
-En los supuestos a que se refiere el artículo 9 de esta Ley, el Ministerio Público o la autoridad judicial, según corresponda, procederá a declarar abandonados los bienes y, en su caso, ordenará su transferencia a la Procuraduría.
+Cuando se declare abandonado un bien a favor del Estado, la autoridad competente notificará tal determinación a la Unidad a efecto de que éstos se transfieran y destinen a la Procuraduría.
 
 A partir de que le sean transferidos los bienes, la unidad procederá en los términos del artículo 33 de esta ley.
 
@@ -227,11 +283,25 @@ Conservación de bienes
 
 ###### Artículo 19.
 
-Para la conservación y, en su caso, el funcionamiento de los bienes, incluyendo los inmuebles destinados a las actividades agropecuarias, empresas, negociaciones y establecimientos, la unidad tendrá todas las facultades y obligaciones para pleitos y cobranzas, actos de administración y presentación de denuncios y querellas, las que podrá delegar en el instrumento legal correspondiente, en el que se especificarán los alcances de las mismas.
+Para la conservación y, en su caso, el funcionamiento de los bienes, incluyendo los inmuebles destinados a las actividades agropecuarias, empresas, negociaciones y establecimientos, la unidad tendrá todas las facultades y obligaciones para pleitos y cobranzas, actos de administración y presentación de denuncias y querellas, las que podrá delegar en el instrumento legal correspondiente, en el que se especificarán los alcances de las mismas.
 
-Los depositarios, interventores y administradores designados por la unidad no podrán enajenar o gravar los inmuebles a su cargo, tampoco aquellos que constituyan el activo fijo de la empresa, negociación o establecimiento sobre el cual ejerzan su encargo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ARTÍCULO CUARTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Los depositarios, interventores y administradores designados por la unidad no podrán enajenar o gravar los inmuebles a su cargo, tampoco aquellos que constituyan el activo fijo de la empresa, negociación o establecimiento sobre el cual ejerzan su encargo, ni celebrar arrendamiento o comodato sobre los mismos salvo autorización de la autoridad transferente.
 
 La Procuraduría hará constar en los registros públicos que correspondan el nombramiento del depositario, interventor o administrador de los bienes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ARTÍCULO CUARTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Seguro de los bienes
+
+###### Artículo 19 Bis.
+
+La Unidad o el depositario, interventor o administrador de bienes asegurados, podrá contratar seguros, cuando exista posibilidad de su pérdida o daño siempre y cuando que el valor y las características lo ameriten, de conformidad con la normativa aplicable.
 
 Medidas para mantener la productividad y el valor de los bienes
 
@@ -243,9 +313,13 @@ Tratándose de dinero, títulos o alhajas, la unidad ordenará de inmediato su d
 
 Obligaciones del depositario, interventor o administrador
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ARTÍCULO CUARTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 21.
 
-La unidad y, en su caso, los depositarios, interventores o administradores que se hayan designado tendrán las obligaciones previstas en esta Ley, así como las establecidas en la legislación administrativa, civil, fiscal y penal para el estado de Guanajuato.
+La unidad y, en su caso, los depositarios, interventores o administradores que se hayan designado tendrán las obligaciones previstas en esta Ley, así como las establecidas en la legislación administrativa, civil, fiscal y penal aplicable.
 
 Informes
 
@@ -269,9 +343,13 @@ Los bienes que se encuentren asegurados por el Ministerio Público se pondrán a
 
 Productos
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ARTÍCULO CUARTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 25.
 
-El Fondo se integrará con los productos derivados de la administración y, en su caso, disposición de bienes, así como con los recursos que prevean la Ley Orgánica del Ministerio Público, su reglamento y demás normatividad aplicable, los que tendrán la naturaleza de recursos públicos.
+El Fondo se integrará con los productos derivados de la administración y, en su caso, disposición de bienes abandonados, decomisados y aquellos sobre los cuales se haya decretado la extinción de dominio, así como con los recursos que prevean la Ley Orgánica del Ministerio Publico, su reglamento y demás normatividad aplicable, los que tendrán la naturaleza de recursos públicos.
 
 Si el producto tuvo como origen un procedimiento de extinción de dominio y hubo lugar al otorgamiento de una retribución, ésta se pagará y el remanente se integrará al Fondo.
 
@@ -359,7 +437,7 @@ Cualquier forma de enajenación que se realice en contravención a lo dispuesto 
 
 Actos de disposición de bienes
 
-###### Articulo 33.
+###### Artículo 33.
 
 Los bienes de que trata esta Ley, pueden ser objeto de los siguientes actos:
 
@@ -485,7 +563,7 @@ La unidad se instaurará dentro de los noventa días siguientes a la entrada en 
 
 Los bienes a que se refiere esta Ley, que actualmente se encuentran en administración de la Secretaría de Finanzas y Administración, continuarán en esa situación ajustándose a lo previsto en el párrafo que antecede.
 
-LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO Y DISPONDRÁ QUE SE IMPRIMA, PUBLIQUE, CIRCULE Y SE LE DÉ EL DEBIDO CUMPLlMIENTO.- GUANAJUATO, GTO., 1 DE AGOSTO DE 2011.- LUIS GERARDO GUTIÉRREZ CHICO.- DIPUTADO PRESIDENTE.- MOISÉS GERARDO MURILLO RAMOS.- DIPUTADO SECRETARIO.- ANA MARÍA RAMOS MORÍN.- DIPUTADA SECRETARIA. RÚBRICAS.
+LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO Y DISPONDRÁ QUE SE IMPRIMA, PUBLIQUE, CIRCULE Y SE LE DÉ EL DEBIDO CUMPLIMIENTO.- GUANAJUATO, GTO., 1 DE AGOSTO DE 2011.- LUIS GERARDO GUTIÉRREZ CHICO.- DIPUTADO PRESIDENTE.- MOISÉS GERARDO MURILLO RAMOS.- DIPUTADO SECRETARIO.- ANA MARÍA RAMOS MORÍN.- DIPUTADA SECRETARIA. RÚBRICAS.
 
 Por lo tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
@@ -504,3 +582,21 @@ P.O. 7 DE JUNIO DE 2013.
 Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
+
+P.O. 28 DE NOVIEMBRE DE 2014.
+
+TRANSITORIOS DEL ARTÍCULO CUARTO DEL DECRETO.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Artículo entrará en vigencia el día 1 de junio de 2016.
+
+Administración y disposición de bienes no vinculan a procedimientos substanciados conforme al Código Nacional
+
+Artículo Segundo. La administración y disposición de los bienes abandonados, asegurados, decomisados, embargados o que se hayan puesto a disposición de la autoridad por cualquier medio legal en virtud de un procedimiento penal o de extinción de dominio en el Estado, relacionados con procedimientos iniciados antes de la entrada en vigor del presente Decreto, o posteriores al mismo que se rijan por el Código de Procedimientos Penales para el Estado de Guanajuato y la Ley del Proceso Penal para el Estado de Guanajuato, se sujetarán a las disposiciones que mediante el mismo se modifican y las contenidas en la legislación procesal penal aplicable.
+
+TRANSITORIOS DEL DECRETO
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto entrará en vigencia en los términos que se precisan en cada uno de los artículos que lo conforman.
