@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-del-distrito-federal-70074"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-17"
-last_updated: "2014-08-15"
+last_updated: "2014-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70074&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-08-26"
 
 LEY DE SALUD DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 17 de septiembre de 2009.
 
@@ -2604,9 +2604,11 @@ En caso de reincidencia se duplicará el monto de la multa que corresponda. Para
 
 La aplicación de las multas será sin perjuicio de que la Agencia o la autoridad sanitaria correspondiente pueda dictar, simultáneamente, las medidas de seguridad que procedan, hasta en tanto se subsanen las irregularidades, e imponer las sanciones administrativas que procedan.
 
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 205.
 
-Los montos generados por concepto de multas y otros actos regulados por la presente Ley, se considerarán aprovechamientos y se determinarán y actualizarán de conformidad a lo estipulado en el Código Financiero del Distrito Federal, mediante resolución general o específica que al efecto emita la Secretaría de Finanzas del Distrito Federal y otras disposiciones legales aplicables, en el rango comprendido entre los 10 y los 15000 días de salarios mínimo general vigente en el Distrito Federal, lo que será determinado de conformidad a lo establecido en el artículo 202 de la presente Ley.
+Los montos generados por concepto de multas y otros actos regulados por la presente Ley, se considerarán aprovechamientos y se determinarán y actualizarán de conformidad a lo estipulado en el Código Fiscal del Distrito Federal, mediante resolución general o específica que al efecto emita la Secretaría de Finanzas del Distrito Federal y otras disposiciones legales aplicables, en el rango comprendido entre los 10 y las 15000 veces la Unidad de Cuenta de la Ciudad de México vigente, lo que será determinado de conformidad a lo establecido en el artículo 202 de la presente Ley.
 
 ###### Artículo 206.
 
@@ -2971,3 +2973,13 @@ G.O. 15 DE AGOSTO DE 2014.
 Primero. El presente Decreto entrará en vigor a los 30 días naturales siguientes a su publicación en la Gaceta Oficial del Distrito Federal.
 
 Segundo. La Secretaría de Salud, en un plazo no mayor de 60 días realizará las adecuaciones correspondientes en las disposiciones reglamentarias.
+
+G.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
