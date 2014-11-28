@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-regimen-patrimonial-y-del-servicio-publico-9230"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-20"
-last_updated: "2010-12-27"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9230&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "1996-12-10"
 ---
 # LEY DEL REGIMEN PATRIMONIAL Y DEL SERVICIO PUBLICO
 
-LEY DEL REGIMEN PATRIMONIAL Y DEL SERVICIO PUBLICO
+LEY DEL RÉGIMEN PATRIMONIAL Y DEL SERVICIO PÚBLICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 20 de diciembre de 1996.
 
@@ -35,6 +35,8 @@ Que la Honorable Asamblea de Representantes del Distrito Federal, se ha servido 
 DECRETO
 
 "LA ASAMBLEA DE REPRESENTANTES DEL DISTRITO FEDERAL, D E C R E T A :
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO CUARTO DEL DECRETO SIN NÚMERO, PUBLICADO EN LA G.O. DE 28 DE NOVIEMBRE DE 2014, LAS REFERENCIAS QUE SE HAGAN DEL SALARIO MÍNIMO EN LAS NORMAS LOCALES VIGENTES, INCLUSO EN AQUELLAS PENDIENTES DE PUBLICAR O DE ENTRAR EN VIGOR, SE ENTENDERÁN HECHAS A LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO, A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.</small>
 
 LEY DEL RÉGIMEN PATRIMONIAL Y DEL SERVICIO PÚBLICO
 
@@ -124,7 +126,7 @@ IX. Ley, la Ley del Régimen Patrimonial y de Servicios Públicos del Distrito F
 
 X. Ley Orgánica, la Ley Orgánica de la Administración Pública del Distrito Federal;
 
-XI. Obras, Secretaría de Obras y Servicios del Distrito Federal, y (sic)
+XI. Obras, Secretaría de Obras y Servicios del Distrito Federal, y
 
 XII. Oficialía, la Oficialía Mayor del Distrito Federal;
 
@@ -242,7 +244,7 @@ El Comité del Patrimonio Inmobiliario es un órgano colegiado de la Administrac
 
 El Comité estará integrado por:
 
-> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 1997)</small>
+> <small>(REFORMADA, G.O. 18 DE JUNIO DE 1997)</small>
 
 I. La Oficialía Mayor, cuyo titular lo presidirá;
 
@@ -264,7 +266,7 @@ IX. La Secretaría de Transportes y Vialidad;
 
 X. La Secretaría de Seguridad Pública;
 
-XI. El representante inmobiliario del Distrito Federal que, en su caso, designe el Jefe de Gobierno del Distrito Federal, a través del servidor público que designe dicho agente inmobiliario, y (sic)
+XI. El representante inmobiliario del Distrito Federal que, en su caso, designe el Jefe de Gobierno del Distrito Federal, a través del servidor público que designe dicho agente inmobiliario, y
 
 XII. La Contraloría General, en su calidad de asesor;
 
@@ -470,7 +472,7 @@ V. Permisos Administrativos Temporales Revocables en favor de los particulares q
 
 VI. Enajenación a título oneroso en favor de personas físicas o morales que requieran disponer de estos inmuebles para la creación o ampliación de una empresa que beneficie a la colectividad;
 
-VII. Enajenación a los colindantes en los términos de esta Ley, y (sic)
+VII. Enajenación a los colindantes en los términos de esta Ley, y
 
 VIII. Enajenación o donación en los demás casos en que se justifique en los términos de esta Ley;
 
@@ -512,7 +514,7 @@ El precio de los inmuebles que se vayan a adquirir, así como el monto de indemn
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 41.
 
@@ -584,7 +586,7 @@ Los honorarios del Notario Público, así como los gastos que se generen con mot
 
 ### CAPÍTULO IV. DE LA DESIGNACIÓN DE NOTARIOS EN LAS ENAJENACIONES DE INMUEBLES DE BIENES DE DOMINIO PRIVADO DEL DISTRITO FEDERAL
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 53.
 
@@ -620,7 +622,7 @@ Las adquisiciones y arrendamientos de bienes muebles para el servicio de las dis
 
 ### CAPÍTULO V. DE LA ENAJENACIÓN DE LOS BIENES MUEBLES DE DOMINIO PRIVADO
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE JUNIO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE JUNIO DE 1997)</small>
 
 ###### Artículo 57.
 
@@ -628,7 +630,11 @@ Corresponde a las Dependencias y Entidades del Distrito Federal la enajenación 
 
 Salvo los casos comprendidos en el párrafo siguiente, la enajenación se hará mediante licitación pública.
 
-Las Dependencias y Entidades bajo su responsabilidad, podrán optar por enajenar bienes muebles sin sujetarse a licitación pública, cuando ocurran circunstancias extraordinarias o imprevisibles, o el monto de los bienes no exceda del equivalente a quinientos días de salario mínimo general vigente en el Distrito Federal; igualmente, la enajenación podrá llevarse a cabo fuera de licitación pública, si habiendo sido convocada ésta, no concurran cuando menos tres postores para presentar ofertas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Las Dependencias y Entidades bajo su responsabilidad, podrán optar por enajenar bienes muebles sin sujetarse a licitación pública, cuando ocurran circunstancias extraordinarias o imprevisibles, o el monto de los bienes no exceda del equivalente a quinientos veces la Unidad de Cuenta de la Ciudad de México vigente; igualmente, la enajenación podrá llevarse a cabo fuera de licitación pública, si habiendo sido convocada ésta, no concurran cuando menos tres postores para presentar ofertas.
 
 El Titular de la Dependencia o Entidad en los casos del párrafo anterior, en un plazo que no excederá de veinte días hábiles contados a partir de la fecha en que se hubiere autorizado la operación, lo hará del conocimiento de la Contraloría, acompañando la documentación que justifique tal determinación.
 
@@ -792,7 +798,7 @@ VI. Fecha, hora y lugar de celebración del acto de presentación y apertura de 
 
 VII. Los requisitos que considere pertinentes la autoridad convocante.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 79.
 
@@ -910,7 +916,7 @@ IV. Proyección económica de la inversión a realizarse, sistema de financiamie
 
 En la presentación de una propuesta en los términos de este artículo no aplica la afirmativa ficta.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 86.
 
@@ -1020,7 +1026,7 @@ Las concesiones de servicios públicos podrán tener las siguientes modalidades:
 
 I. Inversión directa del concesionario;
 
-II. Inversión del concesionario y del Gobierno del Distrito Federal, y (sic)
+II. Inversión del concesionario y del Gobierno del Distrito Federal, y
 
 > <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
 
@@ -1428,9 +1434,13 @@ Los particulares usuarios afectados por la prestación de servicios públicos co
 
 ### CAPÍTULO ÚNICO
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 133.
 
-Se sancionará con multa de trescientas a quinientas veces el salario mínimo general vigente para el Distrito Federal a quien explote, use, o aproveche un bien del dominio público o privado sin haber obtenido previamente la autorización correspondiente, o celebrado contrato alguno con la autoridad competente.
+Se sancionará con multa de trescientas a quinientas veces la Unidad de Cuenta de la Ciudad de México vigente a quien explote, use, o aproveche un bien del dominio público o privado sin haber obtenido previamente la autorización correspondiente, o celebrado contrato alguno con la autoridad competente.
 
 ###### Artículo 134.
 
@@ -1476,7 +1486,7 @@ RECINTO DE LA ASAMBLEA DE REPRESENTANTES DEL DISTRITO FEDERAL, a los veintiún d
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de diciembre del año de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Óscar Espinosa Villarreal.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
 
 D.O.F. 17 DE JUNIO DE 1997.
 
@@ -1501,3 +1511,13 @@ Cada año, sujeto a disponibilidad presupuestal se deberá asignar una partida e
 Durante el primer año, cuando haya presupuesto asignado, las demarcaciones procurarán cambiar el 15 por ciento del mobiliario por sistemas de ahorro de energía ó tecnologías que permitan el aprovechamiento de la energía solar; asimismo, tendrán que cambiar anualmente el 10 por ciento de su mobiliario hasta llegar sucesivamente a la totalidad en la demarcación.
 
 Las Delegaciones presentaran con 6 meses de anticipación en coordinación con la Secretaría de Medio Ambiente estos programas a su aprobación.
+
+G.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
