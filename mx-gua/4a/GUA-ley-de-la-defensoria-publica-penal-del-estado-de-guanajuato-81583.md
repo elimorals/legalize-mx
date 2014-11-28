@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-la-defensoria-publica-penal-del-estado-de-guanajuato-815
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-03"
-last_updated: "2011-06-03"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81583&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # LEY DE LA DEFENSORIA PUBLICA PENAL DEL ESTADO DE GUANAJUATO
 
-LEY DE LA DEFENSORIA PUBLICA PENAL DEL ESTADO DE GUANAJUATO
+LEY DE LA DEFENSORÍA PÚBLICA PENAL DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en Quinta Parte del Periódico Oficial del Estado de Guanajuato, el viernes 3 de junio de 2011.
 
@@ -41,9 +41,13 @@ Ley de la Defensoría Pública Penal del Estado de Guanajuato
 
 Naturaleza y objeto de la ley
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de la presente Ley son de orden público y tienen por objeto regular la prestación del servicio de la Defensoría Pública en materia penal, a fin de garantizar el derecho a una defensa adecuada y de calidad para la población, así como la estructura, funcionamiento y atribuciones del órgano especializado en esta materia.
+Las disposiciones de la presente Ley son de orden público y tienen por objeto regular la prestación del servicio de Defensoría Pública, a fin de garantizar el derecho a una defensa adecuada y de calidad para la población, así como la estructura, funcionamiento y atribuciones del órgano especializado en esta materia.
+
+Para efectos de la presente Ley se entenderá como defensoría pública en materia penal la defensoría pública.
 
 Ámbito territorial de aplicación
 
@@ -53,15 +57,19 @@ Las disposiciones de la presente Ley son de aplicación en el territorio del est
 
 Órgano para aplicar la Ley
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 3.
 
-La Defensoría Pública en materia penal tendrá o su cargo lo aplicación de las disposiciones de la presente Ley, Para proporcionar obligatorio y gratuitamente, los servicios jurídicos paro uno defensa adecuada y de calidad, o los personas inculpadas en el proceso penal y a la sociedad en general.
+La Defensoría Pública tendrá a su cargo la aplicación de las disposiciones de la presente Ley, para proporcionar obligatoria y gratuitamente, los servicios jurídicos para una defensa adecuada y de calidad, a las personas inculpadas en el proceso penal, y de asesoría, orientación, conciliación y mediación a la sociedad en general.
 
 Principios
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 4.
 
-La Defensoría Pública en materia penal se regirá por los principios de igualdad procesal, legalidad, gratuidad, calidad, confidencialidad, continuidad, obligatoriedad, indivisibilidad, probidad, responsabilidad profesional y justicia restaurativa.
+La Defensoría Pública se regirá por los principios de igualdad procesal, legalidad, gratuidad, calidad, confidencialidad, continuidad, obligatoriedad, indivisibilidad, probidad, responsabilidad profesional y justicia restaurativa.
 
 Por cada uno de los principios habrá de entenderse:
 
@@ -81,13 +89,17 @@ Innecesarias;
 
 VII. Obligatoriedad: Otorgar de manera indefectible el servicio de una defensa adecuada, una vez que el defensor haya sido designado y acepte el cargo;
 
-VIII. Indivisibilidad: Lo Defensoría Pública en materia penal constituye una institución única que ejerce sus atribuciones por conducto de cualquiera de sus integrantes, habilitados para el efecto:
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+VIII. Indivisibilidad: La Defensoría Pública constituye una institución única que ejerce sus atribuciones por conducto de cualquiera de sus integrantes, habilitados para el efecto;
 
 IX. Probidad: Es obrar con rectitud y transparencia;
 
 X. Responsabilidad profesional: Sujetarse a estándares que garanticen la calidad y eficiencia en la prestación del servicio; y
 
-XI. Justicia restaurativa: Consiste en la búsqueda en forma preferente de la mediación y la conciliación, como medios de solución de controversias para lograr resultados restaurativos.
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XI. Justicia restaurativa: Promover la mediación y la conciliación, como medios alternativos de solución de controversias para lograr resultados restaurativos.
 
 Glosario
 
@@ -95,9 +107,13 @@ Glosario
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Defensoría Pública: La Defensoría Pública en materia penal para el estado de Guanajuato;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-II. Director General: El titular de la unidad administrativa a la que esté adscrita la Defensoría Pública en materia penal, conforme el Reglamento Interior de la Secretaría de Gobierno;
+I. Defensoría Pública: La Defensoría Pública para el estado de Guanajuato;
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+II. Director General: El titular de la unidad administrativa a la que esté adscrita la Defensoría Pública, conforme el Reglamento Interior de la Secretaría de Gobierno;
 
 III. Dirección: La Dirección de la Defensoría Pública Penal;
 
@@ -117,19 +133,37 @@ Objeto de la Defensoría Pública
 
 La Defensoría Pública es una institución de orden público y de interés social, que tiene por objeto:
 
-I. Proporcionar obligatoria y gratuitamente defensa adecuada y de calidad en materia penal, en el procedimiento, así como en la solución anticipada de conflictos, cuando así lo disponga la ley, a las personas que la soliciten o, a quienes les haya sido designada por el Ministerio Público, el Juez o el Tribunal de la causa;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-II. Dar asistencia jurídica a las personas incapaces en asuntos penales, en el procedimiento especial para inimputables, procurando su debido tratamiento;
+I. Proporcionar obligatoria y gratuitamente servicios jurídicos de defensa en materia penal, en el procedimiento, así como en la solución anticipada de conflictos, cuando así lo disponga la ley, a las personas que la soliciten o, a quienes les haya sido designada por el Ministerio Público, el Juez o el Tribunal de la causa;
+
+II. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2014)
 
 III. Proporcionar orientación y asesoría jurídica en materia penal a toda persona que lo solicite; y
 
-IV. Informar y explicar' o las personas inculpadas o sentenciadas las garantías que la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política para el Estado de Guanajuato, consignen a su favor.
+IV. Informar y explicar o las personas inculpadas o sentenciadas las garantías que la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política para el Estado de Guanajuato, consignen a su favor.
 
 Independencia técnica de la Defensoría Pública
 
 ###### Artículo 8.
 
 La Defensoría Pública en el desempeño de sus funciones gozará de independencia, sus servicios se prestarán a través de Defensores Públicos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Garantías para el ejercicio de la defensa
+
+###### Artículo 8 Bis.
+
+Los defensores tendrán las siguientes garantías:
+
+I. Admitir y ejercer de forma libre, sin presión, coacción o intimidación de ningún tipo, la representación legal de cualquier persona a la que se atribuya la comisión de un hecho delictivo;
+
+II. Poder realizar la defensa técnica y científica de su representado, sin que sea motivo de limitaciones, restricciones o abusos que afecten sus derechos o los de su representado. En caso de que su actividad constituya la comisión de delitos, afecte la dignidad de las personas o los fines del proceso, serán aplicables las leyes de la materia; y
+
+III. Que permanezcan a su disposición los objetos e instrumentos del delito, mientras sean necesarios para la defensa y sea posible su conservación.
 
 Obligación de colaborar
 
@@ -155,7 +189,9 @@ La Defensoría Pública tendrá la siguiente estructura:
 
 I. Dirección de la Defensoría Pública Penal;
 
-II. Coordinación Estatal de la Defensorio Pública Penal y los Defensores de Oficio;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+II. Coordinación Estatal de la Defensoría Pública Penal y Defensores;
 
 III. Coordinación de Servicios Periciales y los Peritos;
 
@@ -185,7 +221,9 @@ V. Haberse distinguido por su honorabilidad, competencia y antecedentes en el ej
 
 VI. En su caso, tener acreditado el Servicio Militar Nacional; y
 
-VII. No hacer uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo.
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+VII. Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares; y de concurrir a sus labores bajo los efectos del alcohol o de ingerir bebidas alcohólicas durante el desempeño de sus funciones.
 
 Facultades del Director
 
@@ -263,7 +301,9 @@ V. Haberse distinguido por su honorabilidad, competencia y antecedentes en el ej
 
 VI. En su caso, tener acreditado el Servicio Militar Nacional; y
 
-VII. No hacer uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo.
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+VII. Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares; y de concurrir a sus labores bajo los efectos del alcohol o de ingerir bebidas alcohólicas durante el desempeño de sus funciones.
 
 Atribuciones de la Coordinación Estatal de Defensoría Pública Penal
 
@@ -299,7 +339,9 @@ Atribuciones de los Defensores Públicos
 
 Son atribuciones de los Defensores Públicos:
 
-l. Asumir y ejercer la defensa adecuada de los inculpados cuando éstos lo nombren, lo designe el Ministerio Público, el Juez o tribunal de la causa; y comparecer a todos los actos del proceso;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+I. Asumir y ejercer la defensa adecuada de los inculpados cuando éstos lo nombren, lo designe el Ministerio Público, el Juez o tribunal de la causa; y comparecer a todos los actos del proceso en los que legalmente tenga intervención;
 
 II. Proponer que las medidas cautelares sean acordes a las circunstancias de los hechos y a las personales del inculpado, en caso de que se trate de Fianza, procurar que sea asequible; así como su modificación, sustitución o revocación;
 
@@ -313,11 +355,15 @@ VI. Interponer los recursos que procedan;
 
 VII. Promover el Juicio de Amparo;
 
-VIII. Asesorar a cualquier persona que lo solicite;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+VIII. Brindar asesoría jurídica a cualquier persona que lo solicite;
 
 IX. Prestar asesoría a las personas sentenciadas, conforme o la Ley de la materia;
 
-X. Informar a los inculpados y a sus familiares la situación jurídica en que se encuentre su defensa;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+X. Informar a los inculpados y a los familiares y a cualquier persona que autorice de la situación jurídica en que se encuentre su defensa;
 
 XI. Cumplir diligente y responsablemente con sus funciones administrativas;
 
@@ -339,11 +385,33 @@ Prohibiciones a los Defensores Públicos
 
 Se prohíbe a los Defensores Públicos:
 
-l. Ejercer la abogacía por sí o por interpósita persona en asuntos ajenos la Defensa Pública, excepto en causa propia, de su cónyuge o con quien tenga relaciones de concubinato, de sus ascendientes o descendientes, de sus hermanos o de su adoptante a adoptado;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+I. Ejercer la abogacía por sí o por interpósita persona en asuntos ajenos a la Defensa Penal, excepto en causa propia, de su cónyuge o con quien tenga relaciones de concubinato, de sus ascendientes o descendientes, de sus hermanos o de su adoptante o adoptado;
 
 II. Asistir a un inculpado o sentenciado, cuando éste tenga defensor particular; y
 
 III. Recibir por sí o por interpósita persona, dinero o cualquier otro tipo de dádivas por el desempeño de su cargo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Impedimentos para ser defensor
+
+###### Artículo 17 Bis.
+
+No podrá ser defensor quien:
+
+I. Haya sido condenado por alguno de los delitos previstos en el artículo 265 del Código Penal del Estado de Guanajuato;
+
+II. Haya sido testigo del hecho, o
+
+III. Fuere inculpado o condenado por el mismo hecho o hechos conexos.
+
+En estos casos el inculpado deberá elegir nuevo defensor.
+
+Si no existiere otro defensor o el inculpado no ejerciere su facultad de elección, se procederá conforme a las reglas del abandono para el reemplazo.
 
 Requisitos para ser Defensor Público
 
@@ -355,7 +423,9 @@ I. Ser ciudadano mexicano en pleno ejercicio de sus derechos, civiles y polític
 
 II. Tener título de Licenciado en Derecho o su equivalente académico, expedido por institución legalmente facultada para ello y debidamente registrado, y contar con cédula profesional;
 
-III. Contar con una antigüedad mínima de dos años en el ejercicio profesional;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+III. Contar con una antigüedad mínima de dos años en el ejercicio profesional, y preferentemente contar con especialización en materia penal;
 
 IV. Haberse distinguida por su honorabilidad, competencia y antecedentes en el ejercicio de lo profesión jurídica, gozar de buena reputación y no haber sido condenado en sentencia firme por delito intencional que haya ameritado pena privativa de libertad;
 
@@ -363,7 +433,9 @@ V. Aprobar los exámenes que se apliquen de acuerdo a los programas de selecció
 
 VI. En su caso, tener acreditado el Servicio Militar Nacional;
 
-VII. No hacer uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo; y
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+VII. Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares; y de concurrir a sus labores bajo los efectos del alcohol o de ingerir bebidas alcohólicas durante el desempeño de sus funciones, y
 
 VIII. Los demás requisitos que establezcan las leyes respectivas.
 
@@ -435,7 +507,9 @@ I. Ser ciudadano mexicano en pleno ejercicio de sus derechos, civiles y polític
 
 II. Acreditar que ha concluido, por lo menos, los estudios correspondientes a la enseñanza media superior o equivalente;
 
-III. Tener título legalmente expedido y registrado por autoridad competente que lo faculte para ejercer la ciencia, técnica, arte o disciplina de que se trate, o acreditar plenamente los conocimientos correspondientes a la disciplina sobre la que deba dictaminar cuando de acuerdo con las normas aplicables no necesite título o cédula profesional para su ejercicio;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+III. Contar con cédula profesional legalmente expedida y registrada por autoridad competente que lo faculte para ejercer la ciencia, técnica, arte o disciplina de que se trate, o acreditar plenamente los conocimientos correspondientes a la disciplina sobre la que deba dictaminar cuando de acuerdo con las normas aplicables no necesite cédula profesional para su ejercicio;
 
 IV. En su caso, tener acreditado el Servicio Militar Nacional;
 
@@ -443,7 +517,9 @@ V. Aprobar los exámenes, evaluaciones y cursos que se apliquen de acuerdo a la 
 
 VI. Haberse distinguido par su honorabilidad, competencia y antecedentes en el ejercicio de su ciencia, técnica, arte o disciplina, gozar de buena reputación y no haber sido condenado en sentencia firme por delito intencional que haya ameritado pena privativa de libertad;
 
-VII. No hacer uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo; y
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+VII. Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares; y de concurrir a sus labores bajo los efectos del alcohol o de ingerir bebidas alcohólicas durante el desempeño de sus funciones, y
 
 VIII. Los demás requisitos que establezcan los ordenamientos legales conducentes.
 
@@ -453,7 +529,9 @@ Atribuciones de los peritos
 
 Los Peritos tendrán las siguientes atribuciones:
 
-I. Apoyar técnica y científicamente a los Defensores Públicos en las investigaciones respecto de datos, vestigios y evidencias, que puedan constituirse como datos o elementos probatorios sobre los hechos durante el proceso;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+I. Apoyar técnica y científicamente a los Defensores Públicos en los peritajes respecto de datos, vestigios y evidencias, que puedan constituirse como datos o elementos probatorios sobre los hechos durante el proceso;
 
 II. Formular los informes y dictámenes que le sean encomendados por los Defensores Públicos;
 
@@ -463,7 +541,9 @@ IV. Fungir como consultor técnico en los cosos que así se requiera;
 
 V. Acudir a las audiencias ante jueces o tribunales o los que sean citados; y
 
-VI. Los demás que señale lo legislación del proceso penal, el Reglamento y los demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+VI. En los términos de las leyes aplicables
 
 ### Capítulo VI. Coordinación de Investigadores de la Defensa
 
@@ -471,13 +551,15 @@ Requisitos para ser Investigador de la Defensa
 
 ###### Artículo 24.
 
-Paro ser Investigador de la Defensa, se requiere:
+Para ser Investigador de la Defensa, se requiere:
 
 I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos civiles y políticos, preferentemente guanajuatense;
 
 II. Tener cuando menos veinticinco años de edad, cumplidos al día de su designación;
 
-III. Contar con Título profesional, en las distintas ramas del saber;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+III. Contar con Título profesional, preferentemente en Derecho, Criminalística, Criminología o Ciencias Forenses;
 
 IV. Tener experiencia de al menos dos años en el ejercicio de su profesión o en un área de investigación; y
 
@@ -501,7 +583,9 @@ V. Recibir, registrar y canalizar los informes de las investigaciones; y
 
 VI. Las demás que se establezcan en el Reglamento.
 
-### Capítulo VII. Impedimentos y excusas de los Defensores Públicos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+### Capítulo VII. Impedimentos y excusas
 
 Impedimentos
 
@@ -513,7 +597,9 @@ I. Cuando realicen amenazas, o manifiesten de algún modo su odio por quienes lo
 
 II. Cuando haya admitido por sí o por interpósita persona dádivas o servicios de la parte ofendida;
 
-III. Cuando haya sido perito, testigo, Delegado o Agente del Ministerio Público o juez de la causa de que se trate;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+III. Cuando haya sido perito, testigo, Delegado o Agente del Ministerio Publico, asesor jurídico, denunciante o querellante o haber ejercido la acción particular o tener interés directo en el procedimiento o juez de la causa de que se trate;
 
 IV. Cuando él, su cónyuge, concubinario o concubina, sus parientes consanguíneos en línea recta sin limitación de grado, los colaterales dentro del tercer grado y los afines dentro del segundo, tengan un proceso civil como parte actora o demandada contra la persona inculpada o sentenciada;
 
@@ -521,7 +607,9 @@ V. Cuando él, su cónyuge, concubinario o concubina, sus parientes consanguíne
 
 VI. Cuando él, su cónyuge, concubinario o concubina, sus parientes consanguíneos en línea recta sin limitación de grado, los colaterales dentro del tercer grado y los afines dentro del segundo, tengan el carácter de parte ofendida en la causa de que se trate;
 
-VII. Cuando haya sido representante, mandatario judicial o apoderado de la víctima del delito;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+VII. Cuando haya sido representante, mandatario judicial o apoderado de la víctima u ofendido del delito;
 
 VIII. Cuando siendo varias las personas acusadas y exista un interés contrario entre las mismas, sea designado para representarlos. En este caso el defensor queda en libertad de elegir a la persona a quien asesorará en el procedimiento;
 
@@ -557,11 +645,13 @@ Previsión presupuestal de la fianza
 
 La Defensoría Pública podrá, con cargo a La partida presupuestal correspondiente, apoyar a las personas inculpadas de escasos recursos económicos con el otorgamiento de fianzas a través de un programa de excarcelamiento.
 
-Momento de otorgar lo fianza
+Momento de otorgar la fianza
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 31.
 
-La fianza será otorgada una vez que se verifique que el monto de lo misma está comprendido dentro del límite fijado y que la persona inculpada es de escasos recursos económicos.
+La fianza será otorgada una vez que se verifique que el monto de la misma está comprendido dentro del límite fijado y que la persona inculpada, procesada o sentenciada no goza de su libertad por falta del recurso económico que le impida cumplir con la obligación o sanción impuesta, por ser de escasos recursos económicos.
 
 ### Capítulo IX. Disposiciones Complementarias
 
@@ -638,3 +728,21 @@ JUAN MANUEL OLIVA RAMÍREZ
 EL SECRETARIO DE GOBIERNO
 
 HÉCTOR GERMÁN RENÉ LÓPEZ SANTILLANA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE NOVIEMBRE DE 2014.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Artículo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato, con la excepción que se detalla en el artículo segundo.
+
+Garantía e impedimentos de la defensa
+
+Artículo Segundo. El contenido de los artículos 8 Bis y 17 Bis, entrarán en vigencia el 1 de junio de 2016.
+
+TRANSITORIOS DEL DECRETO
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto entrará en vigencia en los términos que se precisan en cada uno de los artículos que lo conforman.
