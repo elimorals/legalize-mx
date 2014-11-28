@@ -4,7 +4,7 @@ identifier: "TLA-ley-organica-del-poder-judicial-del-estado-de-tlaxcala-23384"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-01-10"
-last_updated: "2013-08-21"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TLA"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 58, PUBLICADO EN EL P.O. DE 28 DE NOVIEMBRE DE 2014, CUANDO LAS LEYES, REGLAMENTOS O CUALQUIER ORDENAMIENTO DE OBSERVANCIA GENERAL VIGENTE EN EL ESTADO DE TLAXCALA SE REFIERAN AL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE TLAXCALA, SE ENTENDERÁ QUE SE REFIEREN AL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 5 DE MARZO DE 2014, CONFORME A LAS REGLAS DE VIGENCIA ESTABLECIDAS EN EL ARTÍCULO TRANSITORIO ANTERIOR Y A LA DECLARATORIA EXPEDIDA POR EL CONGRESO DEL ESTADO CON FECHA 22 DE OCTUBRE DE 2014 Y PUBLICADA EN EL P.O. DEL GOBIERNO DEL ESTADO DE FECHA 23 DE OCTUBRE DE 2014.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el jueves 10 de enero de 2002.
 
@@ -55,7 +57,9 @@ Esta ley es de interés público, tiene como objeto garantizar a través del Pod
 
 El ejercicio del Poder Judicial del Estado se deposita en:
 
-I. El Tribunal Superior de Justicia; y (sic)
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+I. El Tribunal Superior de Justicia funcionando en Pleno y Salas;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -111,17 +115,13 @@ IX. Los Juzgados de Jurisdicción Mixta;
 
 X. Los Juzgados de Garantías de Adolescentes;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
+XI. Los Juzgados de Administración de Justicia para adolescentes;
 
-XI. Los Juzgados Especializados en la impartición de justicia para adolescentes;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
-
-XII. Los Juzgados de Ejecución de Medidas aplicables al adolescente, y
+XII. Los Juzgados de Ejecución de Medidas aplicables a adolescentes, y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -171,9 +171,11 @@ Los auxiliares de la Impartición de Justicia se regirán por las leyes respecti
 
 Los auxiliares están obligados a cumplir las órdenes de las autoridades y funcionarios de la impartición de justicia. El Ejecutivo del Estado facilitará el ejercicio de las funciones a que se refiere este artículo.
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 3.
 
-Todos los servidores públicos del Poder Judicial en el desempeño de sus actividades, se ajustarán a los principios de imparcialidad, independencia, honestidad y eficiencia.
+Todos los servidores públicos del Poder Judicial en el desempeño de sus actividades, se ajustarán a los principios de excelencia, objetividad, imparcialidad, profesionalismo, independencia, honestidad y eficiencia.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -213,11 +215,11 @@ Las actuaciones practicadas por los funcionarios del Poder Judicial tendrán val
 
 Los titulares de los distintos órganos del Poder Judicial y los encargados de las Dependencias Administrativas, tendrán bajo su cuidado el local donde se halle instalada la oficina a su cargo, así como la conservación de los bienes que conformen el mobiliario del mismo, debiendo poner en inmediato conocimiento de la Secretaría Ejecutiva del Consejo de la Judicatura cualquier deterioro que sufran.
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 5.
 
-El Tribunal, Salas y Juzgados funcionarán todos los días del año, a excepción de los sábados, domingos y días de descanso obligatorio. El horario normal de trabajo en las oficinas, será de las ocho a las quince horas. En casos necesarios, los Juzgadores podrán habilitar horas de oficina, conforme lo prevenga la Ley. En materia penal se estará a lo dispuesto en el Código de Procedimientos Penales del Estado.
-
-Los Secretarios de las Salas y los Juzgados, deberán recibir en su domicilio las promociones de término fatal, fuera del horario normal de actividades; para este efecto se publicará permanentemente, en lugar visible desde el exterior de la oficina correspondiente, el domicilio particular de sus Secretarios.
+El Tribunal, Salas y Juzgados funcionarán todos los días del año, a excepción de los sábados, domingos y días de descanso obligatorio. El horario normal de trabajo en las oficinas, será de las ocho a las quince horas. En casos necesarios, los Juzgadores podrán habilitar horas de oficina, conforme lo prevenga la Ley. En materia penal se estará a lo dispuesto en el Código Nacional de Procedimientos Penales.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -295,13 +297,11 @@ II. SANCHEZ PIEDRAS, con sede en la Ciudad de Apizaco, que comprenderá los Muni
 
 En materia de administración de justicia para adolescentes los juzgados ejercerán su competencia en todo el territorio del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 8 Ter.
 
-Los procedimientos relacionados con mecanismos alternativos de solución de controversias estarán a cargo del Centro Estatal de Justicia Alternativa, a través de los especialistas, mediadores y conciliadores adscritos a dicho centro, conforme a lo dispuesto en la Ley de Mecanismos Alternativos de Solución de Controversias, y en la Ley de Justicia Penal Alternativa.
+Los procedimientos relacionados con mecanismos alternativos de solución de controversias estarán a cargo del Centro Estatal de Justicia Alternativa, a través de los especialistas, mediadores y conciliadores adscritos a dicho centro, conforme a lo dispuesto en la Ley de Mecanismos Alternativos de Solución de Controversias del Estado de Tlaxcala, y en la Ley de Mecanismos Alternativos de Solución de Controversias en materia penal aplicable.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -581,7 +581,7 @@ XI. Confirmar o revocar, por el voto de seis de sus integrantes, los acuerdos ge
 
 XII. Instruir al Consejo de la Judicatura, sin perjuicio de las atribuciones administrativas del mismo, visitas especiales a los juzgados y a los establecimientos carcelarios, cuando en el cumplimiento de sus atribuciones y las jurisdiccionales de las salas, se detecte alguna irregularidad; dando seguimiento a las observaciones que se deriven de las mismas;
 
-XIII. Ordenar al Consejo de la Judicatura investigue la conducta de los Jueces cuando se tenga conocimiento de una posible irregularidad administrativa, y (sic)
+XIII. Ordenar al Consejo de la Judicatura investigue la conducta de los Jueces cuando se tenga conocimiento de una posible irregularidad administrativa, y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -679,7 +679,7 @@ III. Resolver los conflictos que surjan con motivo del nombramiento y remoción 
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
-IV. Solucionar cualquier problemática administrativa que se presente y que no sea competencia del Consejo de la Judicatura, y (sic)
+IV. Solucionar cualquier problemática administrativa que se presente y que no sea competencia del Consejo de la Judicatura, y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -885,7 +885,7 @@ V. Presentar y someter a la aprobación del Pleno el Proyecto de Presupuesto de 
 
 > <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
-VI. Presidir el Consejo de la Judicatura, y (sic)
+VI. Presidir el Consejo de la Judicatura, y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1015,7 +1015,7 @@ VI. Rendir los informes previos y justificados que se soliciten a la Sala por la
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
-VII. Presentar al Pleno del Tribunal Superior de Justicia y al Consejo de la Judicatura, dentro de los primeros tres días hábiles del mes de diciembre de cada año, un informe anual de las actividades de la Sala, y (sic)
+VII. Presentar al Pleno del Tribunal Superior de Justicia y al Consejo de la Judicatura, dentro de los primeros tres días hábiles del mes de diciembre de cada año, un informe anual de las actividades de la Sala, y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1049,7 +1049,7 @@ II. Las excusas y recusaciones con causa, de los jueces del ramo;
 
 III. Los recursos de revocación interpuestos en contra de las resoluciones del Magistrado Ponente;
 
-IV. Encomendar a los jueces de su competencia el desahogo de las diligencias que deban practicarse fuera de las oficinas de la Sala, con excepción de las notificaciones, y (sic)
+IV. Encomendar a los jueces de su competencia el desahogo de las diligencias que deban practicarse fuera de las oficinas de la Sala, con excepción de las notificaciones, y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1107,6 +1107,12 @@ II. En materia contenciosa administrativa, conocerá en única instancia de los 
 
 (DEROGADO, P.O. 17 DE ENERO DE 2008)
 
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 39 Bis.
+
+En materia penal y en justicia especializada para adolescentes, para efectos del Sistema de Justicia Penal Acusatorio Oral, el recurso de apelación contra resoluciones dictadas por jueces unitarios, será conocido por una sala integrada por un magistrado; y el interpuesto contra resoluciones dictadas por un tribunal colegiado, será conocido por una sala integrada por tres magistrados.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2013)</small>
@@ -1147,11 +1153,9 @@ V. De conflictos de competencia que se susciten, en la materia, entre los divers
 
 VI. Conocer de los recursos de apelación y de revisión en materia de extinción de dominio, en los términos de la Ley de la materia;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
-
-VII. De los recursos que se interpongan contra los Jueces de Control y Ejecución de Sanciones, en los términos del Código de Procedimientos Penales y demás ordenamientos aplicables, y
+VII. De manera unitaria o colegiada, según corresponda, de los recursos que se interpongan contra los Jueces de Control, Juez de Juicio Oral Penal y Ejecución de Sanciones, en términos de los artículos 467 y 468 del Código Nacional de Procedimientos Penales y demás ordenamientos aplicables, y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1176,6 +1180,14 @@ II. Las excusas y recusaciones del juez del ramo;
 III. Encomendar a los jueces de su competencia el desahogo de las diligencias que deban practicarse fuera de las oficinas de la Sala, con excepción de las notificaciones, y
 
 IV. Las demás que determinen las leyes.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 40 Ter.
+
+En materia penal el recurso de apelación que se promueva en contra de la sentencia deberá ser conocido por magistrados que no hubieren intervenido como juzgadores en el mismo asunto en etapas anteriores.
+
+El conocimiento de algún recurso de manera unitaria por parte de un magistrado no constituye una causa de impedimento para conocer de los recursos que requieran resolverse en forma colegiada.
 
 ### Capítulo Sexto. De los Magistrados
 
@@ -1359,7 +1371,7 @@ VI. Dirigir el desarrollo de los procesos, presidir las audiencias de prueba, y 
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
-VII. Sugerir al Pleno del Tribunal y al Consejo de la Judicatura, las adecuaciones que estime necesarias para mejorar la Administración de la Justicia, y (sic)
+VII. Sugerir al Pleno del Tribunal y al Consejo de la Judicatura, las adecuaciones que estime necesarias para mejorar la Administración de la Justicia, y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1409,7 +1421,7 @@ Los jueces civiles conocerán y resolverán:
 
 I. Las controversias civiles y mercantiles que se les presenten;
 
-II. Los asuntos de jurisdicción voluntaria de carácter civil y mercantil que le sean planteados, y (sic)
+II. Los asuntos de jurisdicción voluntaria de carácter civil y mercantil que le sean planteados, y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1441,7 +1453,7 @@ Los Jueces Familiares conocerán y resolverán:
 
 I. Los juicios de naturaleza familiar sometidos a su jurisdicción y que no correspondan a otra autoridad;
 
-II. Los asuntos de jurisdicción voluntaria de carácter familiar que le sean planteados, y (sic)
+II. Los asuntos de jurisdicción voluntaria de carácter familiar que le sean planteados, y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1559,15 +1571,19 @@ XV. Resolver sobre la impugnación de los criterios de oportunidad;
 
 XVI. Llevar un registro fehaciente de todas las comunicaciones entre jueces y Ministerio Público y demás autoridades competentes, en relación con las solicitudes de medidas cautelares, providencias precautorias y técnicas de investigación de la autoridad, que requieran control judicial, y
 
-XVII. Ejercer las demás atribuciones que esta Ley o las demás le otorguen.
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XVII. Ejercer las atribuciones previstas en esta Ley, en el Código Nacional de Procedimientos Penales, así como en los demás ordenamientos aplicables.
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 50 Ter.
 
-Corresponde a los Jueces del Juicio Oral Penal conocer del juicio oral penal en los casos que establezca el Código de Procedimientos Penales del Estado.
+Corresponde a los Jueces del Juicio Oral Penal conocer del juicio oral penal en los casos que establezca el Código Nacional de Procedimientos Penales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
 
 El Consejo de la Judicatura del Estado, mediante acuerdos generales determinará los Jueces de Juicio Oral, que funcionarán en el sistema acusatorio y que conocerán del Juicio Oral Penal, asimismo determinará la forma en que dichos jueces fungirán como Presidente, Secretario y Vocal en las audiencias de Juicio Oral.
 
@@ -1665,6 +1681,12 @@ El personal de los juzgados se integrará por los Secretarios de Acuerdos, Dilig
 
 Además de los servidores públicos indicados, el Consejo de la Judicatura nombrará al demás personal necesario para el buen funcionamiento del juzgado.
 
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 51 Bis.
+
+Los jueces y magistrados en materia penal, y especializados en justicia para adolescentes tienen fe pública en el ejercicio de sus funciones.
+
 ### Capítulo Tercero. De los Diligenciarios
 
 ###### Artículo 52.
@@ -1747,6 +1769,8 @@ IX. Aprobar los exámenes públicos de oposición, que se efectúen conforme a l
 
 ### Capítulo Quinto. De los Proyectistas
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 54.
 
 Son facultades y obligaciones de los Diligenciarios:
@@ -1759,7 +1783,7 @@ III. Llevar los libros de control en los que se anoten diariamente las diligenci
 
 IV. Elaborar diariamente la lista de notificaciones que se practiquen en los estrados del Juzgado;
 
-V. Dar fe en la realización de las diligencias que practique, y (sic)
+V. Dar fe en la realización de las diligencias que practique, y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1839,11 +1863,13 @@ Las ausencias temporales de los Oficiales de Partes serán cubiertas por quien d
 
 ###### Artículo 58.
 
-En cada Juzgado habrá un Proyectista, quien deberá reunir para su ingreso, los mismos requisitos que el Secretario de Acuerdos.
+En cada Juzgado, excepto en los del Sistema de Justicia Penal Acusatorio Oral, habrá un Proyectista, quien deberá reunir para su ingreso, los mismos requisitos que el Secretario de Acuerdos.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 59.
 
-Los proyectistas formularán los proyectos de resoluciones que les encomiende el Juez.
+Los proyectistas formularán los proyectos de resoluciones que les encomiende el Juez, excepto en aquéllos asuntos de la competencia de los Jueces del Sistema de Justicia Penal Acusatorio Oral.
 
 ###### Artículo 60.
 
@@ -1877,9 +1903,25 @@ VI. Custodiar los bienes y valores que se encuentren a disposición del Tribunal
 
 VII. Entregar y recibir bajo riguroso inventario los bienes y valores a que se refieren las fracciones anteriores;
 
-VIII. Distribuir los asuntos entre los jueces por turno riguroso, y
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-IX. Las demás que determine la ley o el Pleno del Tribunal.
+VIII. Distribuir los asuntos entre los jueces por turno riguroso;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+IX. Velar porque se cumplan las normas de ingreso, registro, seguimiento y archivo de las causas del órgano jurisdiccional en el sistema informático;
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+X. Proponer mejoras al modelo de gestión y al sistema informático al Consejo de la Judicatura para el cabal cumplimiento de los objetivos planteados y la mejora continua del desempeño del órgano jurisdiccional;
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XI. Dar seguimiento a los plazos judiciales que restrinjan la libertad personal y notificar oportunamente su término al juez o tribunal que corresponda, y
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XII. Las demás que determine la ley o el Pleno del Tribunal.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2051,7 +2093,9 @@ VII. Determinar en el reglamento o disposición administrativa en la materia, lo
 
 VIII. Nombrar, a propuesta del Consejero Presidente, al Secretario Ejecutivo; y a propuesta de los consejeros al Tesorero y al personal operativo, que reúnan los requisitos para el cargo de que se trate;
 
-IX. Recibir, tramitar y resolver las quejas administrativas o denuncias que se formulen en contra de los servidores públicos del Poder Judicial del Estado. Sus resoluciones serán definitivas e inatacables;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+IX. Recibir, tramitar y resolver las quejas administrativas o denuncias que se formulen en contra de los servidores públicos del Poder Judicial del Estado, así como las quejas que se formulen en contra de los Jueces de los Juzgados del Sistema de Justicia Penal Acusatorio Oral por no realizar un acto procesal dentro del plazo señalado por el Código Nacional de Procedimientos Penales. Sus resoluciones serán definitivas e inatacables;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2225,7 +2269,7 @@ VII. Recibir quejas o denuncias administrativas por faltas cometidas por los ser
 
 VIII. Vigilar que los jueces rindan oportunamente el informe de sus actividades;
 
-IX. Ejercer las atribuciones que esta ley le encomienda en lo relativo al archivo judicial, en materia editorial y la biblioteca, y (sic)
+IX. Ejercer las atribuciones que esta ley le encomienda en lo relativo al archivo judicial, en materia editorial y la biblioteca, y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2347,7 +2391,7 @@ Para ser Tesorero se requerirá cumplir con los requisitos previstos en el Artí
 
 El Tesorero tendrá las siguientes funciones:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÉN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
@@ -2393,7 +2437,7 @@ III. Practicar auditorías administrativas a todas las áreas del Poder Judicial
 
 IV. Realizar estudios comparativos de los tiempos y movimientos, de las actividades desarrolladas en las diferentes áreas del Poder Judicial;
 
-V. Recibir y registrar las declaraciones de situación patrimonial que deban presentar los servidores públicos del Poder Judicial, en forma y términos que determinen las Leyes, y (sic)
+V. Recibir y registrar las declaraciones de situación patrimonial que deban presentar los servidores públicos del Poder Judicial, en forma y términos que determinen las Leyes, y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2561,13 +2605,11 @@ El examen de libros, documentos o expedientes del Archivo Judicial solo podrá h
 
 Cualquier defecto, irregularidad o infracción que advierta el Titular del Archivo en relación con los expedientes o documentos que se le remitan para su depósito lo comunicará al Presidente del Consejo de la Judicatura, quien procederá conforme a la Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 86 Septies.
 
-Los archivos de las Salas y Juzgados estarán a cargo de sus respectivos Secretarios de Acuerdos.
+Los archivos de las Salas y Juzgados estarán a cargo de sus respectivos Secretarios de Acuerdos y en los Juzgados del Sistema de Justicia Penal Acusatorio Oral, estarán a cargo del Administrador de Oficina.
 
 #### Sección Primera. Boletín
 
@@ -2633,7 +2675,7 @@ II. Perfeccionar las habilidades técnicas en materia de preparación y ejecuci�
 
 III. Desarrollar técnicas de análisis, argumentación e interpretación que permitan valorar correctamente las pruebas y evidencias aportadas en los procedimientos, así como formular adecuadamente las actuaciones y resoluciones judiciales;
 
-IV. Alentar la vocación de servicio, así como el ejercicio de los valores y principios éticos inherentes a la función judicial, y (sic)
+IV. Alentar la vocación de servicio, así como el ejercicio de los valores y principios éticos inherentes a la función judicial, y
 
 V. Promover intercambios académicos con Instituciones de Educación Superior.
 
@@ -2706,6 +2748,10 @@ c) Proyectista.
 d) Diligenciario.
 
 e) Oficial de Partes.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+f) Los asistentes jurídicos de los Juzgados del Sistema de Justicia Penal Acusatorio y Oral que determine el Consejo de la Judicatura mediante acuerdos generales.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2807,13 +2853,13 @@ b) Los rendimientos que se generen por las inversiones de los depósitos en dine
 
 c) Las multas que por cualquier causa impongan las salas del Tribunal Superior de Justicia o los jueces, a excepción de aquellas multas que sean impuestas como pena por la autoridad judicial en los supuestos previstos en el Código Penal;
 
-d) El producto de los objetos o instrumentos materia del delito que sean de uso lícito, en la forma y términos previstos por el Código Penal;
+d) (DEROGADO, P.O. 28 DE NOVIEMBRE DE 2014)
 
-e) Los muebles y valores depositados por cualquier motivo ante los tribunales judiciales que no fueren retirados por quien tenga derecho a ellos, dentro del término de un año computado a partir de la fecha en que haya causado ejecutoria la resolución definitiva;
+e) (DEROGADO, P.O. 28 DE NOVIEMBRE DE 2014)
 
 f) El pago de los derechos por la publicación de inserciones en el Boletín Judicial, así como de los productos por la venta de sus ejemplares y de los de la revista del Poder Judicial;
 
-g) Las donaciones o aportaciones hechas a su favor, e (sic)
+g) Las donaciones o aportaciones hechas a su favor, e
 
 h) Por el pago de derechos de expedición de copias certificadas, certificaciones en general y registro de título y cédula profesional.
 
@@ -2831,19 +2877,19 @@ III. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2002)
 
 IV. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2002)
 
-V. Los rendimientos que se generen por los depósitos que se efectúen ante el Fondo;
+V. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2014)
 
-VI. El producto de la venta de los instrumentos del delito que sean decomisados, en la forma y términos previstos por el Código Penal del Estado;
+VI. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2014)
 
-VII. El producto de la venta de los muebles y valores depositados por cualquier motivo ante la autoridad judicial, que no fueren retirados por quien tenga derecho a ellos dentro del término de un año, computado a partir de la fecha en que se le notifique al interesado la posibilidad de solicitar su devolución;
+VII. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2014)
 
 VIII. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2002)
 
-IX. El pago de los derechos por la publicación de inserciones en el Boletín Judicial, así como de los productos por la venta de sus ejemplares y de los de la revista del Poder Judicial;
+IX. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2014)
 
 X. El monto de los depósitos hechos a favor de terceros, cuando transcurran tres años de constituidos y previa notificación personal, no se hayan retirado por el interesado en el plazo de treinta días hábiles;
 
-XI. Las donaciones o aportaciones hechas a su favor, y
+XI. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2014)
 
 XII. Los demás que señalen las Leyes y reglamentos.
 
@@ -2963,7 +3009,7 @@ El Tesorero del Poder Judicial, como responsable directo del Fondo, tendrá las 
 
 I. Elaborar el proyecto de presupuesto anual de egresos del Fondo y someterlo al Consejo de la Judicatura durante el mes de enero de cada año, para su discusión y aprobación en su caso;
 
-II. Supervisar y vigilar que los gastos efectuados se realicen de acuerdo a lo dispuesto en el presupuesto anual de egresos del Fondo, y (sic)
+II. Supervisar y vigilar que los gastos efectuados se realicen de acuerdo a lo dispuesto en el presupuesto anual de egresos del Fondo, y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3019,9 +3065,9 @@ I. La capacitación, mejoramiento y especialización del personal del Poder Judi
 
 II. La adquisición o mantenimiento de mobiliario, equipo y tecnología necesarios para el buen funcionamiento del Tribunal Superior de Justicia, sus Dependencias Administrativas o los Juzgados;
 
-III. Cubrir los gastos que origine su administración, y (sic)
+III. Cubrir los gastos que origine su administración, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
@@ -3191,7 +3237,7 @@ XII. Hacer uso de los medios de apremio, sin motivo fundado;
 
 XIII. No presidir las audiencias o juntas, o no intervenir en las diligencias en que deban hacerlo, con arreglo a la Ley;
 
-XIV. Señalar para la celebración de vistas, juntas o audiencias, fechas lejanas, cuando puedan designar otras más próximas, y (sic)
+XIV. Señalar para la celebración de vistas, juntas o audiencias, fechas lejanas, cuando puedan designar otras más próximas, y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3562,3 +3608,13 @@ En el Presupuesto de Egresos para el año que corresponda a la entrada en vigor 
 ###### ARTÍCULO OCTAVO.
 
 Los dos Magistrados Supernumerarios que actualmente se encuentran en funciones, concluirán las mismas a la entrada en vigor del presente Decreto, por lo que el Poder Judicial deberá prever una partida presupuestal especial a efecto de finiquitar su relación laboral conforme a derecho.
+
+P.O. 28 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala, a excepción de la reforma al artículo 93 del Código de Procedimientos Penales para el Estado Libre y Soberano de Tlaxcala, publicado en el Periódico Oficial del Gobierno del Estado el dos de enero de mil novecientos ochenta, la cual entrará en vigor el día treinta y uno de diciembre de dos mil catorce de manera simultánea con el nuevo Código Penal para el Estado Libre y Soberano de Tlaxcala publicado en el Periódico Oficial del Gobierno del Estado el treinta y uno de mayo de dos mil trece.
+
+###### ARTÍCULO SEGUNDO.
+
+Cuando las leyes, reglamentos o cualquier ordenamiento de observancia general vigente en el Estado de Tlaxcala se refieran al Código de Procedimientos Penales del Estado de Tlaxcala, se entenderá que se refieren al Código Nacional de Procedimientos Penales publicado en el Diario Oficial de la Federación del cinco de marzo de dos mil catorce, conforme a las reglas de vigencia establecidas en el artículo transitorio anterior y a la Declaratoria expedida por el Congreso del Estado con fecha veintidós de octubre de dos mil catorce y publicada en el Periódico Oficial del Gobierno del Estado de fecha veintitrés de octubre del año en curso.
