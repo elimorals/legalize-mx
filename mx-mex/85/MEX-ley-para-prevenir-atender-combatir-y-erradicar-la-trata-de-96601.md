@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-prevenir-atender-combatir-y-erradicar-la-trata-de-9660
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-13"
-last_updated: "2013-11-13"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,7 +21,11 @@ state: "MEX"
 ---
 # LEY PARA PREVENIR, ATENDER, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS Y PARA LA PROTECCION Y ASISTENCIA A LAS VICTIMAS EN EL ESTADO DE MEXICO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE DICIEMBRE DE 2014 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY PARA PREVENIR, ATENDER, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS EN EL ESTADO DE MÉXICO
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 13 de noviembre de 2013.
 
@@ -55,7 +59,9 @@ Asimismo, fijará las atribuciones de las dependencias públicas del Estado y su
 
 La presente Ley se interpretará conforme a la Ley General, los Tratados Internacionales en la materia, suscritos por la Nación Mexicana y la Constitución de los Estados Unidos Mexicanos.
 
-En todo lo no previsto en esta Ley, se aplicarán supletoriamente las disposiciones contenidas en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, el Código Penal del Estado de México, el Código de Procedimientos Penales para el Estado de México, la Ley de Seguridad del Estado de México, la Ley de Protección a Víctimas del Delito para el Estado de México, la Ley para la Protección de los Derechos de las Niñas, Niños y Adolescentes del Estado de México, la Ley de Asistencia Social del Estado de México y Municipios, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención Social de la Violencia y la Delincuencia, con Participación Ciudadana del Estado de México, los principios generales de derecho y los demás ordenamientos aplicables en la materia.
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014.)</small>
+
+En todo lo no previsto en esta Ley, se aplicarán supletoriamente las disposiciones contenidas en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, el Código Penal del Estado de México, el Código Nacional de Procedimientos Penales, la Ley de Seguridad del Estado de México, la Ley de Protección a Víctimas del Delito para el Estado de México, la Ley para la Protección de los Derechos de las Niñas, Niños y Adolescentes del Estado de México, la Ley de Asistencia Social del Estado de México y Municipios, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención Social de la Violencia y la Delincuencia, con Participación Ciudadana del Estado de México, los principios generales de derecho y los demás ordenamientos aplicables en la materia.
 
 ###### Artículo 3.
 
@@ -65,7 +71,9 @@ I. Asistencia y protección a las víctimas: Al conjunto de medidas de apoyo y p
 
 II. Atención: A las acciones de asistencia que realizan la administración pública y la sociedad, a fin de proporcionar bienes o servicios a las víctimas del delito de trata de personas.
 
-III. Código de Procedimientos: Al Código de Procedimientos Penales para el Estado de México.
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+III. Código Nacional: Al Código Nacional de Procedimientos Penales.
 
 IV. Código Penal: Al Código Penal del Estado de México.
 
@@ -399,7 +407,13 @@ III. Impulsar y coordinar la realización de investigaciones científicas con ot
 
 IV. Promover la realización de diagnósticos, en materia del delito de trata de personas, en municipios considerados como de alto riesgo, con el fin de elaborar recomendaciones para el combate de este delito.
 
-V. Las demás que le confiera otros ordenamientos legales y las necesarias para el cumplimiento del objeto de la Ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+V. Fomentar la cultura de prevención del delito de trata de personas, la denuncia y la legalidad, en el Estado, con la participación de los sectores público, social y privado.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+VI. Las demás que le confiera otros ordenamientos legales y las necesarias para el cumplimiento del objeto de la Ley.
 
 ###### Artículo 22.
 
@@ -445,7 +459,9 @@ II. Proponer acciones que impulsen el cumplimiento de los instrumentos internaci
 
 III. Establecer y mantener canales de comunicación con autoridades e instituciones públicas federales, estatales o municipales, así como con organizaciones no gubernamentales nacionales e internacionales, en la materia.
 
-IV. Solicitar a las autoridades responsables del cumplimiento de esta Ley, informes periódicos sobre las actividades realizadas en la prevención, atención y combate del delito de trata.
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+IV. Solicitar a las autoridades responsables del cumplimiento de esta Ley, informes periódicos sobre las actividades realizadas en la prevención, atención y combate del delito de trata de personas.
 
 V. Las demás que le confieran otros ordenamientos legales y las necesarias para el cumplimiento del objeto de la Ley.
 
@@ -481,7 +497,9 @@ La presente Ley adopta los tipos penales en materia de trata de personas, sus sa
 
 Para los efectos de esta Ley, se considera víctima al titular del bien jurídico lesionado o puesto en peligro por la acción u omisión por el delito de trata de personas, o a la persona en quien recae la conducta típica, o a cualquier persona que sufra o se encuentre en riesgos de sufrir daños, sean lesiones físicas, psicológicas o sufrimiento emocional, pérdida económica, afectaciones jurídicas, o menoscabo de sus derechos como consecuencia de acciones u omisiones de sus victimarios.
 
-Lo anterior con independencia de que se identifique, aprehenda, sujete a procesos o condene al autor, coautor o partícipe del delito, de la relación familiar entre éste y la víctima u ofendido.
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+Lo anterior con independencia de que se identifique, aprehenda, vincule a proceso o condene al autor, coautor o partícipe del delito, de la relación familiar entre éste y la víctima u ofendido.
 
 Los ofendidos gozarán de los mismos derechos reconocidos a la víctima.
 
@@ -503,15 +521,19 @@ V. La persona que haya sufrido daños al intervenir para asistir a la víctima e
 
 Tendrá la calidad de testigo toda persona que de forma directa o indirecta, a través de sus sentidos tiene conocimiento de los hechos que se investigan, por lo que puede aportar información para su esclarecimiento, independientemente de su situación legal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 30.
 
-A fin de atender de forma especializada a las víctimas, ofendidos y testigos, las autoridades responsables deberán adoptar las medidas siguientes:
+A fin de atender de forma especializada a las víctimas, ofendidos y testigos, las autoridades responsables, de acuerdo a su ámbito de competencia, deberán adoptar las medidas siguientes:
 
 I. Establecer mecanismos adecuados para identificar a las víctimas y posibles víctimas.
 
 II. Crear programas de protección y asistencia previos, durante y posteriores al proceso penal, así como de asistencia jurídica durante todas las etapas del procedimiento penal, civil y administrativo. Estos programas dependerán de las instancias señaladas por esta Ley, por sí mismas o en coordinación con instituciones especializadas, públicas o privadas, en las que podrán participar la sociedad civil.
 
-III. Diseñar y poner en marcha modelos de protección y asistencia inmediatas a víctimas u ofendidos ante la comisión de delito de trata de personas.
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+III. Diseñar y poner en marcha modelos de protección y asistencia inmediata a víctimas, ofendidos y testigos ante la comisión de delito de trata de personas.
 
 IV. Proteger y asistir en albergues durante su recuperación, rehabilitación y resocialización, así como en los lugares adecuados para garantizar su seguridad, donde se les brinden condiciones de respeto a sus derechos humanos, así como alimentación y cuidados conforme a sus necesidades particulares, tratándose de niñas, niños y adolescentes en estado de abandono, el alojamiento será de carácter obligatorio con la finalidad de preservar el interés superior de la niñez.
 
@@ -531,23 +553,31 @@ II. Atención especializada en materia física, psicológica y social hasta su t
 
 III. Presencia de un traductor que les asista, en caso de que pertenezcan a alguna etnia o comunidad indígena o hablen un dialecto o idioma diferente al español o contar con alguna discapacidad.
 
-IV. Orientación jurídica migratoria a las víctimas u ofendidos que lo requieran, así como facilitar la comunicación con su representante consular.
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+IV. Orientación jurídica migratoria a las víctimas, ofendidos y testigos que lo requieran, así como facilitar la comunicación con su representante consular.
 
 V. Las demás que tengan por objeto salvaguardar su seguridad física, su libertad, dignidad, integridad física y mental, sus derechos humanos, así como el normal desarrollo de su personalidad, en el caso de personas en situación de vulnerabilidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 32.
 
-Las autoridades responsables del cumplimiento de esta Ley, en el ámbito de sus atribuciones, deberán otorgar a las víctimas, ofendidos y testigos, las medidas de protección aplicables y establecidas en la Ley General, el Código de Procedimientos y en los demás ordenamientos jurídicos en la materia, así como realizar las acciones a favor de las víctimas, ofendidos y testigos, relacionadas con los siguientes derechos de estos últimos:
+Las autoridades responsables del cumplimiento de esta Ley, en el ámbito de sus atribuciones, deberán otorgar a las víctimas, ofendidos y testigos, las medidas de protección aplicables y establecidas en la Ley General, el Código Nacional y en los demás ordenamientos jurídicos en la materia, así como realizar las acciones a favor de las víctimas, ofendidos y testigos, relacionadas con los siguientes derechos de estos últimos:
 
 I. Ser atendidas, en todo momento con humanidad, respeto por su dignidad y con estricto apego a derecho, acceso inmediato a la justicia, la restitución de sus derechos, en los términos de esta Ley y la Ley General.
 
-II. Estar presentes en el proceso, en sala distinta a la que se encuentre el inculpado.
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+II. Estar presentes en el proceso, en sala distinta a la que se encuentre el imputado.
 
 III. Obtener la información que se requiera de las autoridades competentes.
 
 IV. Recibir asesoría por parte de autoridades competentes, proporcionada por experto en la materia, quien deberá mantenerlas informadas sobre la situación del proceso y procedimientos, así como de los beneficios o apoyos a que tienen derecho.
 
-V. Solicitar medidas precautorias o cautelares para la seguridad y protección de víctimas, ofendidos y testigos, durante la investigación y persecución de los probables responsables del delito y para el aseguramiento de bienes para la reparación del daño.
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+V. Que el Ministerio Público aplique las medidas de protección o solicite a la autoridad judicial las medidas cautelares, providencias precautorias y reparación del daño, según sea el caso, para garantizar la seguridad de víctimas, ofendidos y testigos.
 
 VI. Rendir o ampliar sus declaraciones sin ser identificados dentro de la audiencia, teniendo la obligación la autoridad jurisdiccional de resguardar sus datos personales.
 
@@ -557,7 +587,9 @@ VIII. En todo momento se tomarán las medidas necesarias para proteger la intimi
 
 IX. Obtener copia simple gratuita e inmediata, de las diligencias en las que intervengan.
 
-X. Coadyuvar con el Ministerio Público y aportar pruebas durante el proceso.
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+X. Coadyuvar con el Ministerio Público y aportar datos de prueba durante el proceso.
 
 XI. Conocer en todo momento el paradero del autor o partícipes del delito del que fue víctima, ofendido o testigo.
 
@@ -566,6 +598,10 @@ XII. Ser notificado previamente de la libertad del autor o autores del delito de
 XIII. Ser inmediatamente notificado y preveído de la protección correspondiente, en caso de fuga del autor o autores del delito del que fue víctima, ofendido o testigo.
 
 XIV. Tener el beneficio de la prueba anticipada, que podrá hacer valer el Ministerio Público de oficio o el representante de las víctimas y ofendidos por delitos, que sean menores de edad, cuando con la ayuda de un especialista se pueda determinar la necesidad de obtener su declaración de manera anticipada, cuando por el transcurso del tiempo hasta que se llegase a la audiencia oral la persona menor de edad no pudiere rendir su testimonio o cuando la reiteración en su atesto sea altamente perjudicial en su desarrollo psicológico.
+
+> <small>(ADICIONADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+En caso de víctimas, ofendidos o testigos menores de edad, participarán con la intervención de un especialista que podrá auxiliarle durante el desahogo del medio de prueba.
 
 XV. Ser informada de cada momento del proceso y desarrollo cronológico y la marcha de las actuaciones de la causa.
 
@@ -936,3 +972,17 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MTRO. EFRÉN ROJAS DÁVILA
 
 (RÚBRICA).
+
+N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+G.G. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el mismo día que entre en vigor el Código Nacional de Procedimientos Penales, en el Estado de México.
+
+TERCERO.- La Secretaría de Seguridad Ciudadana y los municipios de la Entidad, con la entrada en vigor del presente Decreto, deberán contar con cuerpos especializados de policía, con capacidad para cumplir de manera eficaz y eficiente con las atribuciones que derivan de la entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de México.
+
+CUARTO.- El Titular del Ejecutivo Estatal reformará el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de México, antes de la entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de México.
+
+QUINTO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
