@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-prevenir-y-eliminar-la-discriminacion-en-la-ciudad-798
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-24"
-last_updated: "2014-09-08"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79884&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-02-23"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 24 de febrero de 2011.
 
@@ -96,7 +96,7 @@ IV. Antisemitismo: Fenómeno específico que incorpora diversas formas de rechaz
 
 > <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
-V. Asamblea Consultiva: El órgano de consulta a que se refiere el artículo 46 :de la presente Ley;
+V. Asamblea Consultiva: El órgano de consulta a que se refiere el artículo 46 de la presente Ley;
 
 > <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
@@ -160,7 +160,7 @@ XX. Medidas de política pública: Conjunto de acciones que formulan e implement
 
 > <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
-XXII (Sic). Personas, grupos o comunidades en situación de discriminación: Las personas físicas, grupos, comunidades, colectivos o análogos que sufran la violación, negación o el menoscabo de alguno o algunos de sus derechos humanos por los motivos prohibidos en el quinto párrafo del artículo 1 constitucional, los tratados internacionales de los que México sea parte, la presente ley o cualquiera otra;
+XXII (SIC). Personas, grupos o comunidades en situación de discriminación: Las personas físicas, grupos, comunidades, colectivos o análogos que sufran la violación, negación o el menoscabo de alguno o algunos de sus derechos humanos por los motivos prohibidos en el quinto párrafo del artículo 1 constitucional, los tratados internacionales de los que México sea parte, la presente ley o cualquiera otra;
 
 > <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
@@ -264,7 +264,7 @@ XXV. Explotar de cualquier manera o dar un trato abusivo o degradante;
 
 XXVI. Restringir, obstaculizar o impedir la participación en actividades académicas, deportivas, recreativas o culturales;
 
-XXVII. Restringir, obstaculizar o impedir el uso de lenguas, idiomas, usos, costumbres y cultura contravención (sic) a lo señalado en el artículo 2, fracción II, apartado A, de la Constitución Política de los Estados Unidos Mexicanos;
+XXVII. Restringir, obstaculizar o impedir el uso de lenguas, idiomas, usos, costumbres y cultura (sic) contravención a lo señalado en el artículo 2, fracción II, apartado A, de la Constitución Política de los Estados Unidos Mexicanos;
 
 XXVIII. Impedir, obstaculizar o restringir el reconocimiento, goce o ejercicio de los derechos colectivos de los pueblos indígenas y originarios y de sus integrantes, el uso de sus idiomas, la practica de sus sistemas normativos, la reproducción de su cultura y de su vida comunitaria, en contravención al artículo 2 de la Constitución Política de los Estados Unidos Mexicanos y de los convenios y tratados firmados y ratificados por los Estados Unidos Mexicanos;
 
@@ -542,7 +542,9 @@ VII. Diseñar campañas educativas y de sensibilización en los medios de comuni
 
 VIII. Implementar un sistema de becas que fomente la alfabetización, el acceso, permanencia y conclusión de la educación pública y privada para el intercambio académico y cultural; así como la conclusión de la educación en todos los niveles;
 
-IX. Establecer programas de capacitación para el empleo considerando la experiencia, habilidades y especialidad, la inserción o reinserción a la vida laboral opcional, que garantice los recursos necesarios para la manutención del propio hogar y la permanencia en la comunidad, el cual no podrá ser inferior al salario mínimo vigente;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+IX. Establecer programas de capacitación para el empleo considerando la experiencia, habilidades y especialidad, la inserción o reinserción a la vida laboral opcional, que garantice los recursos necesarios para la manutención del propio hogar y la permanencia en la comunidad, el cual no podrá ser inferior a la Unidad de Cuenta de la Ciudad de México.;
 
 X. Promover la cultura de la denuncia por cuestiones de discriminación y abuso de autoridad;
 
@@ -666,13 +668,15 @@ a. Garantizar el derecho a la salud en las instituciones, centros o lugares en q
 
 b. Favorecer su inscripción al Sistema de Protección Social en Salud y análogos. El goce y disfrute de sus beneficios no será impedimento para la conservación, inscripción o afiliación a algún otro seguro de salud o mecanismo de previsión social al que se tenga derecho;
 
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 IV. Procurar un nivel mínimo y decoroso de ingresos a través de programas, conforme a las leyes aplicables en la materia, que consistan en:
 
-A) Apoyo financiero directo o ayudas en especie, y
+A. Apoyo financiero directo o ayudas en especie, y
 
-B) Capacitación para el trabajo y de fomento a la creación de empleos aprovechando su especialización, habilidades y experiencia,
+B. Capacitación para el trabajo y de fomento a la creación de empleos aprovechando su especialización, habilidades y experiencia,
 
-Esto a fin de garantizar un ingreso digno, decoroso y suficiente para la manutención del propio hogar y la permanencia en la comunidad, el cual no podrá ser inferior al salario mínimo vigente;
+Esto a fin de garantizar un ingreso digno, decoroso y suficiente para la manutención del propio hogar y la permanencia en la comunidad, el cual no podrá ser inferior a la Unidad de Cuenta de la Ciudad de México vigente.
 
 > <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
@@ -830,7 +834,9 @@ VII. Diseñar campañas educativas y de sensibilización en los medios de comuni
 
 VIII. Implementar un sistema de becas que fomenten la alfabetización, el acceso, permanencia y conclusión de la educación pública y privada para el intercambio académico y cultural; así como la conclusión de la educación en todos los niveles;
 
-IX. Establecer programas de capacitación para el empleo considerando la experiencia, habilidades y especialidad, la inserción o reinserción a la vida laboral opcional, que garantice los recursos necesarios para la manutención del propio hogar y la permanencia en la comunidad, el cual no podrá ser inferior la (sic) salario mínimo vigente;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+IX. Establecer programas de capacitación para el empleo considerando la experiencia, habilidades y especialidad, la inserción o reinserción a la vida laboral opcional, que garantice los recursos necesarios para la manutención del propio hogar y la permanencia en la comunidad, el cual no podrá ser inferior a la Unidad de Cuenta de la Ciudad de México vigente;
 
 X. Promover la cultura de la denuncia por cuestiones de discriminación y abuso de autoridad; y
 
@@ -1443,3 +1449,13 @@ Primero.- Publíquese en la Gaceta Oficial del Distrito Federal.
 Segundo.- El presente decreto entrará en vigor al día siguiente en (sic) su publicación en la Gaceta Oficial del Distrito Federal.
 
 Tercero.- Los procedimientos de reclamación y queja iniciados con anterioridad a la presente publicación, continuaran su proceso con base en la normatividad que les dio inicio.
+
+G.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
