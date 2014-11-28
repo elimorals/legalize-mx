@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-comision-reguladora-de-energia-82537"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-22"
-last_updated: "2011-08-22"
+last_updated: "2014-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82537&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2011-08-04"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION REGULADORA DE ENERGIA
 
-REGLAMENTO INTERIOR DE LA COMISION REGULADORA DE ENERGIA
+REGLAMENTO INTERIOR DE LA COMISIÓN REGULADORA DE ENERGÍA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DE LA COMISIÓN REGULADORA DE ENERGÍA, PUBLICADO EN EL D.O.F. DE 28 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE NOVIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 22 de agosto de 2011.
 
@@ -568,3 +570,11 @@ CUARTO.- El Pleno expedirá las reglas generales para la organización y el func
 El Consejo Consultivo se instalará dentro de los 30 días siguientes a la expedición de las reglas generales a que se refiere el párrafo anterior.
 
 México, D.F., a 4 de agosto de 2011.- El Presidente, Francisco J. Salazar Diez de Sollano.- Rúbrica.- Los Comisionados: Francisco José Barnés de Castro, Rubén F. Flores García, Israel Hurtado Acosta, Noé Navarrete González.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Comisión Reguladora de Energía, publicado en el Diario Oficial de la Federación el 22 de agosto de 2011.
