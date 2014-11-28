@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salvaguarda-del-patrimonio-urbanistico-16125"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-13"
-last_updated: "2012-05-03"
+last_updated: "2014-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16125&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-03-14"
 
 LEY DE SALVAGUARDA DEL PATRIMONIO URBANÍSTICO ARQUITECTÓNICO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de abril de 2000.
 
@@ -142,7 +142,7 @@ XXXI. Restauración: Conjunto de obras de carácter interdisciplinario que se re
 
 XXXII. Restaurador: Un especialista acreditado en técnicas de conservación, con un profundo conocimiento de los sistemas constructivos de diversas épocas y una amplia visión de conjunto para dirigir los estudios necesarios con el fin de realizar un proyecto de salvaguarda de Patrimonio Urbanístico Arquitectónico;
 
-XXXIII. Revitalización: Acciones que se llevan a cabo para que un monumento, espacio abierto o Zona de Patrimonio Urbanístico Arquitectónico es (sic) un estado de deterioro importante, de ruina o abandono sea habilitado para ser utilizado en condiciones adecuadas que garanticen su rentabilidad y la permanencia de sus valores;
+XXXIII. Revitalización: Acciones que se llevan a cabo para que un monumento, espacio abierto o Zona de Patrimonio Urbanístico Arquitectónico es un estado de deterioro importante, de ruina o abandono sea habilitado para ser utilizado en condiciones adecuadas que garanticen su rentabilidad y la permanencia de sus valores;
 
 XXXIV. Señalización: Anuncios que aporten información por medios sensoriales, colocados en o hacia la vía pública con fines de servicio;
 
@@ -1214,9 +1214,13 @@ DE LA IMPOSICIÓN DE SANCIONES.
 
 Las sanciones que se establecen en el presente Título, serán impuestas por la autoridad administrativa, de acuerdo a las facultades que para tal efecto determine el reglamento.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 128.
 
-Sin perjuicio de que se generen otro tipo de responsabilidades por las conductas descritas, se liará acreedor a una multa de hasta trescientos días de salario mínimo vigente quien incurra en las siguientes conductas:
+Sin perjuicio de que se generen otro tipo de responsabilidades por las conductas descritas, se hará acreedor a una multa de hasta trescientos veces la Unidad de Cuenta de la Ciudad de México vigente a quien incurra en las siguientes conductas:
 
 I. Destruya o deteriore intencionalmente o por negligencia un bien del Patrimonio Urbanístico Arquitectónico;
 
@@ -1283,3 +1287,13 @@ PRIMERO.- El presente decreto entrará en vigor al siguiente día de su publicac
 SEGUNDO.- El Registro Público de la Propiedad a través del Registro Público de Patrimonio Urbanístico Arquitectónico y conforme a lo establecido por los artículos 35, 38, 39, 68 y 83 del presente ordenamiento, emitirá a nombre del Gobierno del Distrito Federal el Título oficial que identificará al Canal Nacional como Espacio Abierto Monumental, en el que se reflejarán todos los actos jurídicos e intervenciones de obra que sobre él se realicen.
 
 TERCERO.- El Gobierno del Distrito Federal deberá de formular las recomendaciones técnicas respectivas y determinar la autoridad responsable para el desarrollo y seguimiento del plan de manejo y salvaguarda correspondiente al Canal Nacional en un plazo no mayor a 30 días hábiles contados a partir de la entrada en vigor del presente decreto.
+
+G.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
