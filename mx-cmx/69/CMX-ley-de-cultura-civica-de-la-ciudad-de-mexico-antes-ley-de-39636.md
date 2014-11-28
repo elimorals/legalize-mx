@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-cultura-civica-de-la-ciudad-de-mexico-antes-ley-de-39636
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-31"
-last_updated: "2014-10-08"
+last_updated: "2014-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39636&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-05-19"
 
 LEY DE CULTURA CÍVICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Número Bis de la Gaceta Oficial del Distrito Federal, el lunes 31 de mayo de 2004.
 
@@ -508,9 +508,13 @@ IV. Lesionar a una persona siempre y cuando las lesiones que se causen de acuerd
 
 En caso de que las lesiones tarden en sanar más de quince días el juez dejará a salvo los derechos del afectado para que éste los ejercite por la vía que estime procedente.
 
-La infracción establecida en la fracción I se sancionará con multa por el equivalente de 1 a 10 días de salario mínimo o con arresto de 6 a 12 horas.
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-Las infracciones establecidas en las fracciones II y III se sancionarán con multa por el equivalente de 11 a 20 días de salario mínimo o con arresto de 13 a 24 horas.
+La infracción establecida en la fracción I se sancionará con multa por el equivalente de 1 a 10 veces la Unidad de Cuenta de la Ciudad de México vigente o con arresto de 6 a 12 horas.
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Las infracciones establecidas en las fracciones II y III se sancionarán con multa por el equivalente de 11 a 20 veces la Unidad de Cuenta de la Ciudad de México vigente o con arresto de 13 a 24 horas.
 
 > <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2006)</small>
 
@@ -538,11 +542,13 @@ VII. Invitar a la prostitución o ejercerla, así como solicitar dicho servicio.
 
 VIII. Ocupar los accesos de oficinas públicas o sus inmediaciones ofreciendo la realización de trámites que en la misma se proporcionen, sin tener autorización para ello.
 
-Las infracciones establecidas en las fracciones I y II se sancionarán con multa por el equivalente de 1 a 10 días de salario mínimo o con arresto de 6 a 12 horas.
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, G.O. 31 DE MAYO DE 2012)</small>
+Las infracciones establecidas en las fracciones I y II se sancionarán con multa por el equivalente de 1 a 10 veces la Unidad de Cuenta de la Ciudad de México vigente o con arresto de 6 a 12 horas.
 
-Las infracciones establecidas en las fracciones III a VII se sancionarán con multa por el equivalente de 10 a 40 días de salario mínimo o con arresto de 13 a 24 horas.
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Las infracciones establecidas en las fracciones III a VII se sancionarán con multa por el equivalente de 10 a 40 veces la Unidad de Cuenta de la Ciudad de México vigente o con arresto de 13 a 24 horas.
 
 La infracción establecida en la fracción VIII se sancionará con arresto de 20 a 36 horas.
 
@@ -596,11 +602,13 @@ XVIII. Causar daño a un bien mueble o inmueble ajeno, en forma culposa y con mo
 
 Obra culposamente el que produce el daño, que no previó siendo previsible o previó confiando en que no se produciría, en virtud de la violación de un deber de cuidado que objetivamente era necesario observar.
 
-Las infracciones establecidas en las fracciones I, II, III y IV se sancionarán con multa por el equivalente de 11 a 20 días de salario mínimo o con arresto de 13 a 24 horas.
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-(REFORMADO, G.O. 30 DE JULIO DE 2010.
+Las infracciones establecidas en las fracciones I, II, III y IV se sancionarán con multa por el equivalente de 11 a 20 veces la Unidad de Cuenta de la Ciudad de México vigente o con arresto de 13 a 24 horas.
 
-Las infracciones establecidas en las fracciones V, VI, VII, VIII, IX, X, XII, XIII y XIV se sancionarán con multa por el equivalente de 21 a 30 días de salario mínimo o con arresto de 25 a 36 horas.
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Las infracciones establecidas en las fracciones V, VI, VII, VIII, IX, X, XII, XIII y XIV se sancionarán con multa por el equivalente de 21 a 30 veces la Unidad de Cuenta de la Ciudad de México vigente o con arresto de 25 a 36 horas.
 
 (ADICIONADO, G.O. 30 DE JULIO DE 2010.
 
@@ -614,19 +622,33 @@ Las infracciones establecidas en las fracciones XV, XVI y XVII se sancionarán c
 
 Sin perjuicio de la obligación de reparar el daño causado que determine la autoridad civil competente, quien resulte responsable de la conducta prevista en la fracción XVIII será sancionado con arresto de hasta 36 horas o:
 
-I. Multa por el equivalente de 50 a 180 días de salario mínimo, cuando el monto del daño causado no exceda de diez mil pesos;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-II. Multa por el equivalente de 181 a 365 días de salario mínimo, cuando el monto del daño causado exceda de diez mil pesos pero no de veinte mil pesos;
+I. Multa por el equivalente de 50 a 180 veces la Unidad de Cuenta de la Ciudad de México vigente, cuando el monto del daño causado no exceda de diez mil pesos;
 
-III. Multa por el equivalente de 366 a 725 días de salario mínimo, cuando el monto del daño causado exceda de veinte mil pesos pero no de cuarenta mil pesos;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-IV. Multa por el equivalente de 726 a 1275 días de salario mínimo, cuando el monto del daño causado exceda de cuarenta mil pesos pero no de setenta mil pesos;
+II. Multa por el equivalente de 181 a 365 veces la Unidad de Cuenta de la Ciudad de México vigente, cuando el monto del daño causado exceda de diez mil pesos pero no de veinte mil pesos;
 
-V. Multa por el equivalente de 1276 a 2185 días de salario mínimo, cuando el monto del daño causado exceda de setenta mil pesos pero no de ciento veinte mil pesos;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-VI. Multa por el equivalente de 2186 a 3275 días de salario mínimo, cuando el monto del daño causado exceda de ciento veinte mil pesos pero no de ciento ochenta mil pesos; o
+III. Multa por el equivalente de 366 a 725 veces la Unidad de Cuenta de la Ciudad de México vigente, cuando el monto del daño causado exceda de veinte mil pesos pero no de cuarenta mil pesos;
 
-VII. Multa por el equivalente de 3276 días de salario mínimo y hasta por el monto total del valor comercial del vehículo, cuando el monto del daño causado exceda de ciento ochenta mil pesos.
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+IV. Multa por el equivalente de 726 a 1275 veces la Unidad de Cuenta de la Ciudad de México vigente, cuando el monto del daño causado exceda de cuarenta mil pesos pero no de setenta mil pesos;
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+V. Multa por el equivalente de 1276 a 2185 veces la Unidad de Cuenta de la Ciudad de México vigente, cuando el monto del daño causado exceda de setenta mil pesos pero no de ciento veinte mil pesos;
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+VI. Multa por el equivalente de 2186 a 3275 veces la Unidad de Cuenta de la Ciudad de México vigente, cuando el monto del daño causado exceda de ciento veinte mil pesos pero no de ciento ochenta mil pesos; o
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+VII. Multa por el equivalente de 3276 veces la Unidad de Cuenta de la Ciudad de México vigente, y hasta por el monto total del valor comercial del vehículo, cuando el monto del daño causado exceda de ciento ochenta mil pesos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -666,7 +688,9 @@ III. Arrojar, tirar o abandonar en la vía pública animales muertos, desechos, 
 
 IV. Tirar basura en lugares no autorizados;
 
-V. Dañar, pintar, maltratar, ensuciar o hacer uso indebido de las fachadas de inmuebles públicos o de los particulares, sin autorización expresa de éstos, estatuas, monumentos, postes, arbotantes, semáforos, parquímetros, buzones, tomas de agua, señalizaciones viales o de obras, puentes, pasos peatonales, plazas, parques, jardines, elementos de ornato u otros bienes semejantes. El daño a que se refiere esta fracción será competencia del juez hasta el valor de veinte días de salario mínimo;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+V. Dañar, pintar, maltratar, ensuciar o hacer uso indebido de las fachadas de inmuebles públicos o de los particulares, sin autorización expresa de éstos, estatuas, monumentos, postes, arbotantes, semáforos, parquímetros, buzones, tomas de agua, señalizaciones viales o de obras, puentes, pasos peatonales, plazas, parques, jardines, elementos de ornato u otros bienes semejantes. El daño a que se refiere esta fracción será competencia del juez hasta el valor de veinte veces la Unidad de Cuenta de la Ciudad de México vigente;
 
 VI. Cambiar, de cualquier forma, el uso o destino de áreas o vía pública, sin la autorización correspondiente;
 
@@ -690,21 +714,19 @@ XIV. Colocar transitoriamente o fijar, sin autorización para ello, elementos de
 
 XV. Obstruir o permitir la obstrucción de la vía pública, con motivo de la instalación, modificación, cambio, o mantenimiento de los elementos constitutivos de un anuncio y no exhibir la documentación correspondiente que autorice a realizar dichos trabajos.
 
-> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+> <small>N. DE E. DEL ANÁLISIS DEL DECRETO DE REFORMAS PUBLICADO EN LA G.O. DE 28 DE NOVIEMBRE DE 2014, LOS ANTERIORES PÁRRAFOS SEGUNDO Y TERCERO DEL PRESENTE ARTÍCULO QUEDARON INTEGRADOS EN EL ACTUAL SEGUNDO PÁRRAFO.</small>
 
-Las infracciones establecidas en las fracciones I, II, V, VI y VII se sancionarán con multa por el equivalente de 11 a 20 días de salario mínimo o con arresto de 13 a 24 horas.
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+Las infracciones establecidas en las fracciones I a VII se sancionarán con multa por el equivalente de 11 a 20 veces la Unidad de Cuenta de la Ciudad de México vigente o con arresto de 13 a 24 horas.
 
-Las infracciones establecidas en las fracciones III y IV se sancionarán con multa por el equivalente de 20 a 200 días de salario mínimo o con arresto de 25 a 36 horas, así como por lo dispuesto en el artículo 69 de la Ley de Residuos Sólidos del Distrito Federal.
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, G.O. 29 DE JULIO DE 2010)</small>
+La fracción VIII, se sancionará con multa por el equivalente de 21 a 40 veces la Unidad de Cuenta de la Ciudad de México vigente o con arresto de 25 a 36 horas.
 
-La fracción VIII, se sancionará con multa por el equivalente de 21 a 40 días de salario mínimo o con arresto de 25 a 36 horas.
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADO, G.O. 29 DE JULIO DE 2010)</small>
-
-Las infracciones establecidas en las fracciones IX a XIV se sancionarán con multa por el equivalente de 21 a 30 días de salario mínimo o con arresto de 25 a 36 horas.
+Las infracciones establecidas en las fracciones IX a XIV se sancionarán con multa por el equivalente de 21 a 30 veces la Unidad de Cuenta de la Ciudad de México vigenteo (sic) con arresto de 25 a 36 horas.
 
 La infracción establecida en la fracción XV se sancionará con arresto de 20 a 36 horas.
 
@@ -874,7 +896,9 @@ Para conservar el orden en el Juzgado, el Juez podrá imponer las siguientes cor
 
 I. Amonestación;
 
-II. Multa por el equivalente de 1 a 10 días de salario mínimo; tratándose de jornaleros, obreros, trabajadores no asalariados, personan (sic) desempleadas o sin ingresos, se estará a lo dispuesto por el artículo 47 de esta Ley, y
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+II. Multa por el equivalente de 1 a 10 veces la Unidad de Cuenta de la Ciudad de México vigente; tratándose de jornaleros, obreros, trabajadores no asalariados, personas desempleadas o sin ingresos, se estará a lo dispuesto por el artículo 47 de esta Ley, y
 
 III. Arresto hasta por 12 horas.
 
@@ -882,7 +906,9 @@ III. Arresto hasta por 12 horas.
 
 Los Jueces a fin de hacer cumplir sus órdenes y resoluciones, podrán hacer uso de los siguientes medios de apremio:
 
-I. Multa por el equivalente de 1 a 10 días de salario mínimo; tratándose de jornaleros, obreros, trabajadores no asalariados, personan (sic) desempleadas o sin ingresos, se estará a lo dispuesto por el artículo 47 de esta Ley, y
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+I. Multa por el equivalente de 1 a 10 veces la Unidad de Cuenta de la Ciudad de México vigente; tratándose de jornaleros, obreros, trabajadores no asalariados, personas desempleadas o sin ingresos, se estará a lo dispuesto por el artículo 47 de esta Ley, y
 
 II. Arresto hasta por 12 horas, y
 
@@ -1168,9 +1194,11 @@ En el convenio se establecerá el término para el cumplimiento de lo señalado 
 
 Cuando el daño se cause con motivo de lo previsto en la fracción XVIII del artículo 25 de la Ley, el convenio se elaborará con base en el valor del daño que se establezca en el dictamen en materia de tránsito terrestre emitido por los peritos adscritos a la Consejería Jurídica y de Servicios Legales, respetando el principio de autonomía de voluntad de las partes, pero sin que el monto a negociar pueda exceder o sea inferior a un veinte por ciento del valor del daño dictaminado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 74.
 
-A quien incumpla el convenio de conciliación, se le impondrá un arresto de 6 a 24 horas o una multa de 1 a 30 días de salario mínimo.
+A quien incumpla el convenio de conciliación, se le impondrá un arresto de 6 a 24 horas o una multa de 1 a 30 veces la Unidad de Cuenta de la Ciudad de México vigente.
 
 A partir del incumplimiento del convenio, el afectado tendrá 15 días para solicitar que se haga efectivo el apercibimiento.
 
@@ -1667,3 +1695,13 @@ G.O. 8 DE OCTUBRE DE 2014.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal a los 3 días posteriores a la notificación de la presente.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
