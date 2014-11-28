@@ -4,7 +4,7 @@ identifier: "CMX-ley-procesal-electoral-para-el-distrito-federal-57692"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-21"
-last_updated: "2014-06-30"
+last_updated: "2014-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57692&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-11-28"
 
 LEY PROCESAL ELECTORAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 21 de diciembre de 2007.
 
@@ -52,9 +52,11 @@ D E C R E T A
 
 DECRETO POR EL QUE SE CREA LA LEY PROCESAL ELECTORAL PARA EL DISTRITO FEDERAL.
 
-Artículo Único. Se crea la Ley Procesal Electoral para el Distrito Federal, cuyo contenido es el siguiente:
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO CUARTO DEL DECRETO SIN NÚMERO, PUBLICADO EN LA G.O. DE 28 DE NOVIEMBRE DE 2014, LAS REFERENCIAS QUE SE HAGAN DEL SALARIO MÍNIMO EN LAS NORMAS LOCALES VIGENTES, INCLUSO EN AQUELLAS PENDIENTES DE PUBLICAR O DE ENTRAR EN VIGOR, SE ENTENDERÁN HECHAS A LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO, A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.</small>
 
 LEY PROCESAL ELECTORAL PARA EL DISTRITO FEDERAL
+
+Artículo Único. Se crea la Ley Procesal Electoral para el Distrito Federal, cuyo contenido es el siguiente:
 
 # LIBRO PRIMERO. De los de Medios de Impugnación
 
@@ -68,7 +70,7 @@ LEY PROCESAL ELECTORAL PARA EL DISTRITO FEDERAL
 
 Las disposiciones contenidas en la presente ley son de orden público y de observancia obligatoria y general en todo el Distrito Federal y para los ciudadanos que ejerzan su derecho al sufragio en territorio extranjero.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO] PRIMER PARRAFO, G.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO] PRIMER PÁRRAFO, G.O. 1 DE JULIO DE 2011)</small>
 
 Para los efectos de esta Ley, se entenderá por:
 
@@ -236,7 +238,7 @@ Tratándose de omisiones, el impugnante podrá controvertirlas en cualquier mome
 
 ### CAPÍTULO III. De las Partes
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE JULIO DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -720,7 +722,7 @@ VIII. Una vez sustanciado el expediente, y si el medio de impugnación reúne to
 
 IX. De oficio o a petición de cualquiera de las partes, el magistrado instructor podrá ordenar la regularización del procedimiento, siempre y cuando no implique revocar sus propios actos; en caso contrario, solo podrá ser ordenada por el Pleno.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE JULIO DE 2011)</small>
 
 ###### Artículo 55.
 
@@ -870,9 +872,13 @@ Todas las autoridades u órganos partidarios que tengan o deban tener intervenci
 
 ### CAPÍTULO XI. De los Medios de Apremio y de las Correcciones Disciplinarias
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 70.
 
-Para hacer cumplir las disposiciones de la presente ley y las resoluciones o acuerdos que se dicten, así como para mantener el orden, el respeto y la consideración debidos e imponer sanciones por incumplimiento, el Tribunal podrá aplicar discrecionalmente los medios de apremio y las correcciones disciplinarias siguientes:
+Para hacer cumplir las disposiciones de la presente ley y las resoluciones o acuerdos que se dicten, así como para mantener el orden, el respeto y la consideración debido se (sic) imponer sanciones por incumplimiento, el Tribunal podrá aplicar discrecionalmente los medios de apremio y las correcciones disciplinarias siguientes:
 
 > <small>(REFORMADA, G.O. 30 DE JUNIO DE 2014)</small>
 
@@ -882,9 +888,11 @@ I. Amonestación;
 
 II. Arresto administrativo hasta por treinta y seis horas inconmutables;
 
-> <small>(REFORMADA, G.O. 30 DE JUNIO DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III. Multa hasta por cien veces el salario mínimo diario general vigente en el Distrito Federal.
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+III. Multa hasta por cien veces la Unidad de Cuenta de la Ciudad de México vigente.
 
 > <small>(ADICIONADO, G.O. 30 DE JUNIO DE 2014)</small>
 
@@ -1310,7 +1318,7 @@ IV. En las controversias que deriven de los procesos de participación ciudadana
 
 En los casos señalados en el párrafo segundo de este artículo, para efecto de restituir al ciudadano en el derecho político electoral violado, podrá decretarse la nulidad de los procesos electivos correspondientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE JULIO DE 2011)</small>
 
 ###### Artículo 96.
 
@@ -1524,7 +1532,11 @@ Por su orden, las correcciones disciplinarias que pueden imponerse, son:
 
 a) Amonestación;
 
-b) Multa que no podrá exceder de diez veces el salario mínimo general en el Distrito Federal en el momento en que se cometa la infracción; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+b) Multa que no podrá exceder de diez veces la Unidad de Cuenta de la Ciudad de México vigente en el momento en que se cometa la infracción; y
 
 c) Expulsión del local del Tribunal a la persona que se resista a cumplir la orden, y podrá hacerlo con el auxilio de los cuerpos de seguridad que resguarda las instalaciones del Tribunal, o bien, por conducto de cualquier elemento de la Secretaría de Seguridad Pública.
 
@@ -1552,7 +1564,11 @@ El magistrado instructor o la Comisión de Conciliación y Arbitraje, podrán em
 
 Los medios de apremio que pueden emplearse son:
 
-a) Multa hasta de diez veces el salario mínimo general vigente en el Distrito Federal al momento en que se cometió la infracción;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+a) Multa hasta de diez veces la Unidad de Cuenta de la Ciudad de México vigente al momento en que se cometió la infracción;
 
 b) Presentación de la persona con auxilio de la fuerza pública; y
 
@@ -2258,7 +2274,11 @@ Las partes podrán recusar a los magistrados por cualquiera de las causas a que 
 
 Al interponer la recusación con causa, las partes interesadas aportarán las pruebas en que funden su petición, sin que sean admisibles las testimoniales y periciales.
 
-Si se declarare infundada la recusación interpuesta, el Pleno decidirá de acuerdo con su prudente arbitrio si hubo mala fe por parte de quien la hace valer y, en tal caso, le impondrá una sanción consistente en multa por el importe de diez a cincuenta veces el salario mínimo general vigente en el Distrito Federal, en la fecha en que se interpuso la recusación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Si se declara reinfundada la recusación interpuesta, el Pleno decidirá de acuerdo con su prudente arbitrio si hubo mala fe por parte de quien la hace valer y, en tal caso, le impondrá una sanción consistente en multa por el importe de diez a cincuenta veces la Unidad de Cuenta de la Ciudad de México vigente, en la fecha en que se interpuso la recusación.
 
 ### CAPÍTULO V. De la demanda y contestación
 
@@ -2408,7 +2428,7 @@ Al ofrecerse la prueba pericial, las partes presentarán los cuestionarios sobre
 
 En caso de discordia, el perito tercero será designado por el magistrado instructor o por la Comisión. Dicho perito no será recusable, pero deberá excusarse por alguna de las causas siguientes:
 
-I. Consanguinidad hasta dentro del cuarto grado con alguna de las partes;…(sic)
+I. Consanguinidad hasta dentro del cuarto grado con alguna de las partes;…
 
 II. Interés directo o indirecto en el juicio; y
 
@@ -2534,9 +2554,11 @@ IV. Los términos en los que deberá ser cumplida la sentencia por parte de la a
 
 El actor podrá acudir en queja al Pleno, en caso de incumplimiento de la sentencia y se dará vista a la autoridad responsable por el plazo de cinco días hábiles para que manifieste lo que a su derecho convenga.
 
-> <small>(REFORMADO, G.O. 30 DE JUNIO DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Una vez transcurrido el plazo referido, el Pleno resolverá a propuesta del magistrado instructor o de la Comisión, si la autoridad ha cumplido con los términos de la sentencia; de lo contrario, la requerirá para que cumpla en un plazo de cinco días hábiles, amonestándola y previniéndola de que, en caso, de renuencia se le impondrá una multa de cincuenta a ciento ochenta días de salario mínimo general vigente en el Distrito Federal.
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Una vez transcurrido el plazo referido, el Pleno resolverá a propuesta del magistrado instructor, si la autoridad ha cumplido con los términos de la sentencia; de lo contrario, la requerirá para que cumpla en un plazo de cinco días hábiles, amonestándola y previniéndola de que, en caso, de renuencia se le impondrá una multa de cincuenta a ciento ochenta veces la Unidad de Cuenta de la Ciudad de México vigente.
 
 En todo caso, para hacer cumplir sus resoluciones, el Tribunal podrá proceder en términos de los artículos 67 y 68 de la presente ley.
 
@@ -2603,3 +2625,13 @@ G.O. 30 DE JUNIO DE 2014.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal para su difusión.
 
 SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor a partir del día siguiente de su publicación.
+
+G.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
