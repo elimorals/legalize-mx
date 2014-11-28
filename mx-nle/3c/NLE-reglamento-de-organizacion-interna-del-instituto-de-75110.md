@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-organizacion-interna-del-instituto-de-75110"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-05-26"
-last_updated: "2010-05-26"
+last_updated: "2014-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75110&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,15 @@ state: "NLE"
 ---
 # REGLAMENTO DE ORGANIZACION INTERNA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE NUEVO LEON
 
-REGLAMENTO DE ORGANIZACION INTERNA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE NUEVO LEON
+REGLAMENTO DE ORGANIZACIÓN INTERNA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 26 de mayo de 2010.
 
 INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE NUEVO LEÓN, EL CONSEJO DIRECTIVO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE NUEVO LEÓN. EN LA XCVIII SESIÓN ORDINARIA DE FECHA 20 DE MAYO DEL 2010, EN CUMPLIMIENTO A LO ORDENADO POR LOS ARTÍCULOS 121 FRACCIÓN IX Y 128 FRACCIÓN VII DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE NUEVO LEÓN, Y
 
-C O N S I D E R A N D O:.
+C O N S I D E R A N D O:...
 
 Por lo anteriormente expuesto y fundado, se ha tenido a bien expedir el siguiente:
 
@@ -651,69 +651,7 @@ III.1.2 CONTRALORÍA INTERNA
 
 ###### Artículo 76.
 
-La Contraloría Interna tendrá a su cargo los programas de normatividad y control de gestión interno, además de la coordinación del programa de información y transparencia del Instituto, y para ello tendrá las siguientes funciones:
-
-I. Coordinar el ejercicio de sus funciones con la Contraloría y Transparencia Gubernamental;
-
-II. Solicitar asesoría a la Contraloría y Transparencia Gubernamental para el ejercicio de sus funciones;
-
-III. Coordinar el ejercicio de sus funciones con los auditores externos que dictaminan los estados financieros de la cuenta pública del Instituto con el objeto de eficientar el desempeño de sus actividades;
-
-IV. Revisar la información financiera y los eventos en que incidan las finanzas del Instituto conforme a las disposiciones aplicables y a las normas y procedimientos de auditoría generalmente aceptados;
-
-V. Verificar que los ingresos del Instituto se hayan percibido conforme a las disposiciones legales y administrativas aplicables y correspondan al período;
-
-VI. Verificar que los egresos se hayan comprobado y autorizado y que se haya cumplido con las disposiciones legales y administrativas aplicables;
-
-VII. Verificar que las operaciones del Instituto estén debidamente contabilizadas y aplicadas correctamente a la partida correspondiente, de acuerdo a las normas de información financiera aplicables (NIF), emitidas por el Consejo Mexicano para la Investigación y Desarrollo de Normas de Información Financiera, A.C. (CINIF);
-
-VIII. Verificar que los activos fijos adquiridos por el Instituto se encuentren inventariados, asignados a las Unidades Administrativas que corresponda, y en condiciones acordes a su antigüedad, características y destino;
-
-IX. Verificar que los pasivos hayan sido contratados conforme a las disposiciones constitucionales, legales y administrativas aplicables y se encuentren debidamente contabilizados;
-
-X. Ejercer el control interno de los ingresos, egresos, bienes patrimoniales, pasivos, sistemas y registros contables y recursos humanos, así como cualquier otro concepto que refleje el ejercicio de las funciones relativas a las finanzas públicas;
-
-XI. Realizar revisiones de tipo financiero, técnico, operacional, de resultado de programas y de legalidad;
-
-XII. Fungir como Secretario Técnico del Comité de Vigilancia del Instituto, en representación del mismo;
-
-XIII. Conocer todo acto, contrato y documento que implique obligación o derecho inmediato o eventual para el Instituto;
-
-XIV. Verificar cualquier evento relevante que por su trascendencia e importancia en las finanzas del Instituto que a criterio del titular del órgano de control, deba ser revisado;
-
-XV. Guardar absoluta reserva de los programas a efectuar y de los resultados obtenidos del ejercicio de sus actividades;
-
-XVI. En el ámbito de su competencia realizar los trámites internos necesarios para recabar la información pública de oficio, en los términos de la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León, y publicarla en el apartado del portal oficial en Internet correspondiente;
-
-XVII. Asegurar que se mantenga actualizada la información pública de oficio en Internet, dentro de los plazos establecidos;
-
-XVIII. Llevar el archivo de la información pública de oficio, publicada en Internet, su actualización y resguardo, en los términos en los que legalmente correspondan;
-
-XIX. Recibir, capturar, ordenar, analizar y tramitar hasta su conclusión o cuando cause estado, conforme corresponda, las solicitudes de acceso a la información pública, en los términos de la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León;
-
-XX. Recibir, analizar, tramitar y resolver las solicitudes de datos en los términos de la normatividad aplicable;
-
-XXI. Auxiliar a los solicitantes en los trámites relacionados con las solicitudes de información pública y de datos, o bien en la localización de información en los portales oficiales;
-
-XXII. Formar y mantener actualizado el archivo de los expedientes de las solicitudes de acceso a la información pública y sus resultados, así como las resoluciones y seguimiento correspondientes;
-
-XXIII. Entregar la información requerida por solicitante, previa presentación del medio derivado de los avances de la tecnología, o del recibo oficial del pago del derecho respectivo, cuando corresponda;
-
-XXIV. Elaborar el registro del índice de los acuerdos mediante los cuales se haya determinado una información como reservada;
-
-XXV. Imponer sanciones a los servidores públicos que incurran en responsabilidades administrativas, en términos de las disposiciones jurídicas aplicables;
-
-XXVI. Supervisar que los servidores públicos adscritos al Instituto que le estén subordinados cumplan con las disposiciones de este reglamento, disposiciones administrativas y de control implementadas en el Instituto, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León;
-
-XXVII. Asumir la responsabilidad de entregar en tiempo y forma lo correspondiente a las solicitudes de acceso a la información pública, así como aquella que se deberá de publicar en Internet en cumplimiento a los términos de la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León. La Dirección Jurídica y la Contraloría Interna revisarán y analizarán la información enviada por las áreas; siendo la Contraloría Interna quien la publicará en Internet y responderá las solicitudes de información formuladas al Instituto;
-
-XXVIII. Asegurar el manejo apropiado y confidencial de la información que se genere y tenga a su cargo la Contraloría;
-
-XXIX. Coordinar, atender, apoyar y dar seguimiento a los programas de revisión que ordene la Contraloría y Transparencia Gubernamental del Gobierno del Estado;
-
-XXX. Coordinar, atender, apoyar y dar seguimiento a los programas de revisión que ordene la Auditoría Superior del Estado; y
-
-XXXI. Las demás que le señalen las leyes, reglamentos y otras disposiciones administrativas y legales aplicables, y las demás que le atribuya directamente el Director General del Instituto.
+(DEROGADO, P.O. 28 DE NOVIEMBRE DE 2014)
 
 III.1.3 CONSEJO MÉDICO
 
@@ -995,6 +933,34 @@ XXII. Atender, apoyar y dar seguimiento a los programas de revisión que ordene 
 
 XXIII. Las demás que le señalen las leyes, reglamentos y otras disposiciones administrativas y legales aplicables, y las que le atribuya directamente el Director General del Instituto.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+III.7 DIRECCIÓN DE ATENCION A JUBILADOS
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 84 Bis.
+
+La Dirección de Atención a Jubilados será la encargada de la administración y desarrollo del programa de Calidad de vida para los jubilados del ISSSTELEON y tendrá las siguientes funciones:
+
+I. Dirigir y supervisar el desarrollo del programa de calidad de vida para los jubilados del ISSSTELEON.
+
+II. Integrar y reactivar a los jubilados a través de las distintas actividades tales como cursos, talleres, deportes y cultura que ofrece el ISSSTELEON.
+
+III. Mejorar la calidad de vida de los jubilados con las diferentes acciones como promoción a la salud, cultura, recreación, práctica del deporte, conferencias, cursos y talleres entre otras.
+
+IV. Supervisar que los servidores públicos adscritos al Instituto que le estén subordinados cumplan con las disposiciones de este reglamento, disposiciones administrativas y de control implementadas en el Instituto, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León;
+
+V. Asumir la responsabilidad de entregar en tiempo y forma lo correspondiente a las solicitudes de acceso a la información pública, así como aquella que se deberá de publicar en Internet en cumplimiento a los términos de la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León. la Contraloría Interna revisará y analizará la información enviada por las áreas, la publicará en Internet y responderá las solicitudes de información formuladas al Instituto relacionadas con las actividades de esta Dirección;
+
+VI. Asegurar el manejo apropiado y confidencial de la información que se genere y tenga a su cargo esta Dirección;
+
+VII. Atender, apoyar y dar seguimiento a los programas de revisión que ordene la Contraloría y Transparencia Gubernamental del Gobierno del Estado;
+
+VIII. Atender, apoyar y dar seguimiento a los programas de revisión que ordene la Auditoría Superior del Estado; y
+
+IX. Las demás que le señalen las leyes, reglamentos y otras disposiciones administrativas y legales aplicables, y las que le sean asignadas por el Director General del Instituto.
+
 IV DE LOS COMITÉS DE APOYO DE LA DIRECCIÓN GENERAL
 
 IV.1 COMITÉ DE ADQUISICIONES Y SERVICIOS
@@ -1125,7 +1091,81 @@ El Secretario Técnico es el encargado de llevar un control de los asuntos trata
 
 Es responsabilidad de los integrantes del Comité de Evaluación Médica acudir a las sesiones.
 
-V DE LA SUPLENCIA DE LOS TITULARES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+V. DE LA CONTRALORIA INTERNA
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 103 Bis.
+
+La Contraloría Interna tendrá a su cargo los programas de normatividad y control de gestión interno (sic), además de la coordinación del programa de información y transparencia del Instituto, y para ello tendrá las siguientes funciones:
+
+I. Coordinar el ejercicio de sus funciones con la Contraloría y Transparencia Gubernamental;
+
+II. Solicitar asesoría a la Contraloría y Transparencia Gubernamental para el ejercicio de sus funciones;
+
+III. Coordinar el ejercicio de sus funciones con los auditores externos que dictaminan los estados financieros de la cuenta pública del Instituto con el objeto de eficientar el desempeño de sus actividades;
+
+IV. Revisar la información financiera y los eventos en que incidan las finanzas del Instituto conforme a las disposiciones aplicables y a las normas y procedimientos de auditoría generalmente aceptados;
+
+V. Verificar que los ingresos del Instituto se hayan percibido conforme a las disposiciones legales y administrativas aplicables y correspondan al período;
+
+VI. Verificar que los egresos se hayan comprobado y autorizado y que se haya cumplido con las disposiciones legales y administrativas aplicables;
+
+VII. Verificar que las operaciones del Instituto estén debidamente contabilizadas y aplicadas correctamente a la partida correspondiente, de acuerdo a las normas de información financiera aplicables (NIF), emitidas por el Consejo Mexicano para la Investigación y Desarrollo de Normas de Información Financiera, A.C. (CINIF);
+
+VIII. Verificar que los activos fijos adquiridos por el Instituto se encuentren inventariados, asignados a las Unidades Administrativas que corresponda, y en condiciones acordes a su antigüedad, características y destino;
+
+IX. Verificar que los pasivos hayan sido contratados conforme a las disposiciones constitucionales, legales y administrativas aplicables y se encuentren debidamente contabilizados;
+
+X. Ejercer el control interno de los ingresos, egresos, bienes patrimoniales, pasivos, sistemas y registros contables y recursos humanos, así como cualquier otro concepto que refleje el ejercicio de las funciones relativas a las finanzas públicas;
+
+XI. Realizar revisiones de tipo financiero, técnico, operacional, de resultado de programas y de legalidad;
+
+XII. Fungir como Secretario Técnico del Comité de Vigilancia del Instituto, en representación del mismo;
+
+XIII. Conocer todo acto, contrato y documento que implique obligación o derecho inmediato o eventual para el Instituto;
+
+XIV. Verificar cualquier evento relevante que por su trascendencia e importancia en las finanzas del Instituto que a criterio del titular del órgano de control, deba ser revisado;
+
+XV. Guardar absoluta reserva de los programas a efectuar y de los resultados obtenidos del ejercicio de sus actividades;
+
+XVI. En el ámbito de su competencia realizar los trámites internos necesarios para recabar la información pública de oficio, en los términos de la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León, y publicarla en el apartado del portal oficial en Internet correspondiente;
+
+XVII. Asegurar que se mantenga actualizada la información pública de oficio en Internet, dentro de los plazos establecidos;
+
+XVIII. Llevar el archivo de la información pública de oficio, publicada en Internet, su actualización y resguardo, en los términos en los que legalmente correspondan;
+
+XIX. Recibir, capturar, ordenar, analizar y tramitar hasta su conclusión o cuando cause estado, conforme corresponda, las solicitudes de acceso a la información pública, en los términos de la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León;
+
+XX. Recibir, analizar, tramitar y resolver las solicitudes de datos en los términos de la normatividad aplicable;
+
+XXI. Auxiliar a los solicitantes en los trámites relacionados con las solicitudes de información pública y de datos, o bien en la localización de información en los portales oficiales;
+
+XXII. Formar y mantener actualizado el archivo de los expedientes de las solicitudes de acceso a la información pública y sus resultados, así como las resoluciones y seguimiento correspondientes;
+
+XXIII. Entregar la información requerida por solicitante, previa presentación del medio derivado de los avances de la tecnología, o del recibo oficial del pago del derecho respectivo, cuando corresponda;
+
+XXIV. Elaborar el registro del índice de los acuerdos mediante los cuales se haya determinado una información como reservada;
+
+XXV. Imponer sanciones a los servidores públicos que incurran en responsabilidades administrativas, en términos de las disposiciones jurídicas aplicables;
+
+XXVI. Supervisar que los servidores públicos adscritos al Instituto que le estén subordinados cumplan con las disposiciones de este reglamento, disposiciones administrativas y de control implementadas en el Instituto, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León;
+
+XXVII. Asumir la responsabilidad de entregar en tiempo y forma lo correspondiente a las solicitudes de acceso a la información pública, así como aquella que se deberá de publicar en Internet en cumplimiento a los términos de la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León. La Dirección Jurídica y la Contraloría Interna revisarán y analizarán la información enviada por las áreas; siendo la Contraloría Interna quien la publicará en Internet y responderá las solicitudes de información formuladas al Instituto;
+
+XXVIII. Asegurar el manejo apropiado y confidencial de la información que se genere y tenga a su cargo la Contraloría;
+
+XXIX. Coordinar, atender, apoyar y dar seguimiento a los programas de revisión que ordene la Contraloría y Transparencia Gubernamental del Gobierno del Estado;
+
+XXX. Coordinar, atender, apoyar y dar seguimiento a los programas de revisión que ordene la Auditoría Superior del Estado; y
+
+XXXI. Las demás que le señalen las leyes, reglamentos y otras disposiciones administrativas y legales aplicables, y las demás que le atribuya directamente el Director General del Instituto.
+
+Para los efectos de lo previsto en las fracciones XVI, XXI, XXVII, XXVIII, el enlace de información y transparencia del Instituto será el titular de la Contraloría Interna, en los términos establecidos en la Ley de Transparencia y Acceso a la Información del Estado.
+
+El Instituto impulsará y fomentará el acceso a la información pública de acuerdo con la legislación de la materia y las disposiciones que al efecto emitan los organismos gubernamentales competentes en el ramo.
 
 ###### Artículo 104.
 
@@ -1198,3 +1238,11 @@ En representación del Poder Legislativo ante el Consejo.
 Lic. Luis Gerardo Treviño Leal,
 
 Director General y Secretario del H. Consejo Directivo del ISSSTELEON.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO: Las presentes Reformas al Reglamento de Organización Interna del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Nuevo León, fueron aprobadas por su H. Consejo Directivo en la VI Sesión Ordinaria celebrada el día 27-veintisiete de noviembre del año 2014-dos mil catorce.
+
+SEGUNDO: Las presentes Reformas al Reglamento entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
