@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-proceso-penal-para-el-estado-de-guanajuato-76480"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-03"
-last_updated: "2014-11-25"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DEL PROCESO PENAL PARA EL ESTADO DE GUANAJUATO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO Y TRANSITORIO TERCERO DEL DECRETO NÚMERO 192, PUBLICADO EN EL P.O. DE 25 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO SE INCORPORA AL RÉGIMEN JURÍDICO DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES QUE ENTRARÁ EN VIGOR DE MANERA INTEGRAL EN EL ESTADO DE GUANAJUATO, A PARTIR DEL DÍA 1 DE JUNIO DE 2016, Y SEGUIRÁ RIGIENDO PARA LOS ACTOS COMETIDOS Y LOS PROCEDIMIENTOS INICIADOS CON ANTERIORIDAD A LA VIGENCIA DEL CITADO CÓDIGO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 3 de septiembre de 2010.
 
@@ -5721,11 +5721,7 @@ II. El 1 de enero del año 2013 en la Región comprendida por los municipios de:
 
 III. El 15 de abril del año 2015 en la Región comprendida por los municipios de: Acámbaro, Apaseo el Alto, Apaseo el Grande, Celaya, Coroneo, Cortazar, Jerécuaro, Moroleón, Salvatierra, Santa Cruz de Juventino Rosas, Santiago Maravatío, Tarandacuao, Tarimoro, Uriangato, Villagrán y Yuriria; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 14 DE MAYO DE 2013)</small>
-
-IV. El 1 de junio del año 2016 en la Región comprendida por los municipios de: León, Manuel Doblado, Purísima del Rincón y San Francisco del Rincón.
+IV. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2014)
 
 Aplicación
 
@@ -5846,3 +5842,7 @@ Artículo Segundo. Remítase copia del presente Decreto a los poderes públicos 
 Ultractividad
 
 Artículo Tercero. El Código de Procedimientos Penales para el Estado de Guanajuato y la Ley del Proceso Penal para el Estado de Guanajuato, seguirán rigiendo para los actos cometidos y los procedimientos iniciados con anterioridad a la vigencia del Código Nacional de Procedimientos Penales en el Estado de Guanajuato.
+
+P.O. 28 DE NOVIEMBRE DE 2014.
+
+Artículo Único. El presente Artículo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
