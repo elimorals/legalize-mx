@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2014-11-21"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE NOVIEMBRE DE 2014.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -185,7 +185,9 @@ VI. SEXTO CIRCUITO:
 
 VII. SEPTIMO CIRCUITO:
 
-1. Ocho tribunales colegiados especializados: dos en materias penal y de trabajo y dos en materia administrativa, con residencia en Boca del Río; dos tribunales colegiados en materia civil y dos en materias penal y de trabajo con sede en Xalapa.
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 49/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE NOVIEMBRE DE 2014)</small>
+
+1.- Ocho tribunales colegiados especializados: dos en materia penal y dos en materia administrativa, con sede en Boca del Río; dos en materia civil y dos en materia de trabajo, con residencia en Xalapa, todos en el Estado de Veracruz.
 
 > <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 39/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
@@ -701,7 +703,7 @@ Los juzgados de Distrito en el Estado de Guerrero, con residencia en Chilpancing
 
 Los juzgados de Distrito en el Estado de Guerrero, con sede en Acapulco, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acapulco de Juárez, Atoyac de Alvarez, Ayutla de los Libres, Azoyú, Juchitán, Benito Juárez, Coahuayutla de José María Izazaga, Copala, Coyuca de Benítez, Cuajinicuilapa, Cuautepec, Florencio Villarreal, Igualapa, José Azueta, Juan R. Escudero, La Unión de Isidoro Montes de Oca, Marquelia, Ometepec, Petatlán, San Luis Acatlán, San Marcos, Tecoanapa, Tecpan de Galeana, Tlacoachistlahuaca, Xochistlahuaca y Zihuatanejo de Azueta.
 
-Los Juzgados de Distrito en el Estado de Guerrero, con residencia en Iguala, ejercerán jurisdicción en el distrito judicial conformado por los municipios de Ajuchitlán del Progreso, Apaxtla, Arcelia, Atenango del Río, Buenavista de Cuéllar, Cocula , Copalillo, Coyuca de Catalán, Cuetzala del Progreso, Cutzamala de Pinzón, General Canuto A. Neri, Huitzuco de los Figueroa, Iguala de la Independencia, Ixcateopan de Cuauhtémoc, Mártir de Cuilapan, Pedro Ascencio Alquisirias, Pilcaya, Pungarabato, San Miguel Totolapan, Taxco de Alarcón, Teloloapan, Tepecoacuilco de Trujano, Tetipac, Tlalchapa, Tlapehuala y Zirándaro.
+Los Juzgados de Distrito en el Estado de Guerrero, con residencia en Iguala, ejercerán jurisdicción en el distrito judicial conformado por los municipios de Ajuchitlán del Progreso, Apaxtla, Arcelia, Atenango del Río, Buenavista de Cuéllar, Cocula, Copalillo, Coyuca de Catalán, Cuetzala del Progreso, Cutzamala de Pinzón, General Canuto A. Neri, Huitzuco de los Figueroa, Iguala de la Independencia, Ixcateopan de Cuauhtémoc, Mártir de Cuilapan, Pedro Ascencio Alquisirias, Pilcaya, Pungarabato, San Miguel Totolapan, Taxco de Alarcón, Teloloapan, Tepecoacuilco de Trujano, Tetipac, Tlalchapa, Tlapehuala y Zirándaro.
 
 XXII. VIGESIMO SEGUNDO CIRCUITO:
 
@@ -1318,3 +1320,15 @@ D.O.F. 21 DE NOVIEMBRE DE 2014.
 PRIMERO. El presente Acuerdo entrará en vigor el veinticuatro de noviembre de dos mil catorce.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo.
+
+TERCERO. Los tribunales Colegiados que cambian de denominación y especialización en el Séptimo Circuito, de modo enunciativo mas no limitativo, conservarán los asuntos turnados, radicados, en trámite, pendientes de resolución y en archivo, de su anterior denominación y continuarán con su competencia originaria para la atención de los mismos; evitando el traslado de expedientes y el retraso en la impartición de justicia.
+
+CUARTO. La Coordinación de Administración Regional del Consejo de la Judicatura Federal, deberá proveer a los tribunales colegiados que se especializan y cambian de denominación, motivo del presente acuerdo, de los recursos materiales necesarios de identificación (sello oficial, directorios, placas de denominación, papelería, etc.), para que a la brevedad posible cuenten con ellos.
+
+QUINTO. La integración de los Plenos Especializados del Séptimo Circuito, se realizará a partir del mes de enero del año dos mil quince, de conformidad con lo establecido en el Acuerdo General 11/2014 del Pleno del Consejo de la Judicatura Federal.
