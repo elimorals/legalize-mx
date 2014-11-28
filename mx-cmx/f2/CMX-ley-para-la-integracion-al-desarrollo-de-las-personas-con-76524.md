@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-integracion-al-desarrollo-de-las-personas-con-76524
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-10"
-last_updated: "2013-09-17"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76524&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2010-09-09"
 ---
 # LEY PARA LA INTEGRACION AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DE LA CIUDAD DE MEXICO -- ANTES LEY PARA LA INTEGRACION AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL DISTRITO FEDERAL --
 
-LEY PARA LA INTEGRACION AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL DISTRITO FEDERAL
+LEY PARA LA INTEGRACIÓN AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 10 de septiembre de 2010.
 
@@ -460,6 +460,8 @@ Por ningún motivo se cobrará el acceso o el uso de las instalaciones deportiva
 
 ### CAPÍTULO DÉCIMO. DEL APOYO ECONÓMICO A PERSONAS CON DISCAPACIDAD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 38.
 
 El Instituto Electoral del Distrito Federal, deberá realizar las acciones que correspondan a fin de promover activamente un entorno en el que las personas con discapacidad puedan participar plena y efectivamente en la vida política del Distrito Federal, principalmente deberá garantizar en todo momento su derecho a votar y a ser votados.
@@ -478,7 +480,7 @@ Los Órganos de la Administración Pública del Distrito Federal, deberán promo
 
 ###### Artículo 41.
 
-Las personas con discapacidad permanente, menores de sesenta y ocho años y residentes en el Distrito Federal, tienen derecho a recibir un apoyo económico diario equivalente a medio salario mínimo general vigente en el Distrito Federal.
+Las personas con discapacidad permanente, menores de sesenta y ocho años y residentes en el Distrito Federal, tienen derecho a recibir un apoyo económico diario equivalente a media Unidad de Cuenta de la Ciudad de México vigente.
 
 El apoyo económico será entregado a los derechohabientes en forma mensual por el DIF-DF.
 
@@ -696,15 +698,23 @@ Todo individuo que sea testigo o conozca de la comisión de acciones contrarias 
 
 El incumplimiento de la presente ley será sancionado conforme a los criterios siguientes:
 
-I.- Los Órganos Político Administrativos de las Demarcaciones Territoriales en que se divide el Distrito Federal, sancionarán a quienes contravengan lo establecido por el Artículo 9, fracciones I, II y III de la presente Ley, con 30 días de Salario Mínimo General Vigente en el Distrito Federal;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-II.- En las infracciones a lo establecido por el artículo 20 de la presente Ley, se fincará responsabilidad administrativa, civil o penal correspondiente al servidor público. La Secretaría de Educación del Distrito Federal sancionará a las escuelas privadas que contravengan al Artículo 20 con una multa de 200 días de Salario Mínimo General Vigente en el Distrito Federal, y en caso de reincidencia la clausura;
+I.- Los Órganos Político Administrativos de las Demarcaciones Territoriales en que se divide el Distrito Federal, sancionarán a quienes contravengan lo establecido por el Artículo 9, fracciones I, II y III de la presente Ley, con 30 veces la Unidad de Cuenta de la Ciudad de México vigente;
 
-III.- Los Órganos Político Administrativos de las Demarcaciones Territoriales en que se divide el Distrito Federal sancionaran a quienes violen lo establecido por el artículo 29 de la presente Ley, con 200 días de salario mínimo vigente en el Distrito Federal;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+II.- En las infracciones a lo establecido por el artículo 20 de la presente Ley, se fincará responsabilidad administrativa, civil o penal correspondiente al servidor público. La Secretaría de Educación del Distrito Federal sancionará a las escuelas privadas que contravengan al Artículo 20 con una multa de 200 veces la Unidad de Cuenta de la Ciudad de México vigente, y en caso de reincidencia la clausura;
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+III.- Los Órganos Político Administrativos de las Demarcaciones Territoriales en que se divide el Distrito Federal sancionaran a quienes violen lo establecido por el artículo 29 de la presente Ley, con 200 veces la Unidad de Cuenta de la Ciudad de México vigente;
 
 IV.- Los Órganos Político Administrativos de las Demarcaciones Territoriales o la autoridad administrativa correspondiente, sancionará a los infractores al Párrafo Segundo del Artículo 32 de la presente Ley con la clausura de la obra o, en caso de obra terminada, no se le permitirá su uso hasta en tanto no cumpla con las normas respectivas;
 
-V.- La Secretaría de Transportes y Vialidad del Distrito Federal, sancionará a los infractores del artículo 35 de la presente Ley, con multa de 200 días de Salario Mínimo General Vigente en el Distrito Federal. En caso de reincidencia serán retiradas inmediatamente las concesiones y no se permitirá el uso de las unidades de transporte; y
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+V.- La Secretaría de Transportes y Vialidad del Distrito Federal, sancionará a los infractores del artículo 35 de la presente Ley, con multa de 200 veces la Unidad de Cuenta de la Ciudad de México vigente. En caso de reincidencia serán retiradas inmediatamente las concesiones y no se permitirá el uso de las unidades de transporte; y
 
 VI.- Los funcionarios y demás servidores públicos que no den cumplimiento a las obligaciones establecidas en la presente Ley, serán sujetos al procedimiento administrativo, penal o civil que corresponda y en caso de determinarse su culpabilidad o responsabilidad, serán acreedores a las sanciones que establece la Ley Federal de Responsabilidades de los Servidores Públicos y demás legislación aplicable.
 
@@ -763,3 +773,13 @@ PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal para su publicació
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO.- Se derogan todas aquellas disposiciones que contravengan el contenido del presente decreto.
+
+G.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
