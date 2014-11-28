@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-extincion-de-dominio-del-estado-de-mexico-83939"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-15"
-last_updated: "2011-11-15"
+last_updated: "2014-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY DE EXTINCION DE DOMINIO DEL ESTADO DE MEXICO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE DICIEMBRE DE 2014 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el martes 15 de noviembre de 2011.
 
@@ -59,7 +61,9 @@ III. Juez: Al juez especializado en materia de extinción de dominio.
 
 El procedimiento de extinción de dominio se regulará conforme a lo establecido en esta Ley y, en lo no previsto por la misma, por los ordenamientos legales siguientes:
 
-I. En la preparación del ejercicio de la acción de extinción de dominio, por lo dispuesto en el Código de Procedimientos Penales para el Estado de México;
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+I. En la preparación del ejercicio de la acción de extinción de dominio, por lo dispuesto en el Código Nacional de Procedimientos Penales;
 
 II. En el juicio de extinción de dominio, por lo dispuesto en el Código de Procedimientos Civiles del Estado de México;
 
@@ -177,7 +181,9 @@ IV. Recabar los medios de prueba necesarios para sustentar el ejercicio de la ac
 
 V. Realizar las diligencias de investigación necesarias para identificar y localizar al dueño de los bienes materia de la acción de extinción de dominio, o quien se ostente o comporte como tal, así como a los terceros afectados; y
 
-VI. Las demás que señale esta Ley, el Código de Procedimientos Penales para el Estado de México, la Ley Orgánica de la Procuraduría General de Justicia del Estado de México y otros ordenamientos aplicables, para sustentar la acción de extinción de dominio.
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+VI. Las demás que señale esta Ley, el Código Nacional de Procedimientos Penales, la Ley Orgánica de la Procuraduría General de Justicia del Estado de México y otros ordenamientos aplicables, para sustentar la acción de extinción de dominio.
 
 ###### Artículo 14.
 
@@ -584,3 +590,17 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. ERNESTO JAVIER NEMER ALVAREZ
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el mismo día que entre en vigor el Código Nacional de Procedimientos Penales, en el Estado de México.
+
+TERCERO.- La Secretaría de Seguridad Ciudadana y los municipios de la Entidad, con la entrada en vigor del presente Decreto, deberán contar con cuerpos especializados de policía, con capacidad para cumplir de manera eficaz y eficiente con las atribuciones que derivan de la entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de México.
+
+CUARTO.- El Titular del Ejecutivo Estatal reformará el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de México, antes de la entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de México.
+
+QUINTO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
