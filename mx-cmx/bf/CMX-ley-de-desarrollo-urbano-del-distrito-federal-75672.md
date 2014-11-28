@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-urbano-del-distrito-federal-75672"
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-15"
-last_updated: "2014-01-10"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75672&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-06-29"
 
 LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 15 de julio de 2010.
 
@@ -160,9 +160,13 @@ XXXV. Suelo urbano: Las zonas a las que el Programa General clasifique como tale
 
 XXXVI. Traza Urbana: La estructura básica de la Ciudad o de parte de ella, que refiere en forma gráfica la vialidad y demarcación de manzanas o predios limitados por la vía pública, de zonas urbanas existentes o en proyecto;
 
-XXXVII. Vivienda de Interés Social: La vivienda cuyo precio máximo de venta al público es de 15 salarios mínimos anuales vigentes en el Distrito Federal;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-XXXVIII. Vivienda de interés popular: La vivienda cuyo precio de venta al público es superior a 15 salarios mínimos anuales, vigentes en el Distrito Federal y no exceda de 25 salarios mínimos anuales;
+XXXVII. Vivienda de Interés Social: La vivienda cuyo precio máximo de venta al público es de 5,400 veces la Unidad de Cuenta de la Ciudad de México vigente;
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XXXVIII. Vivienda de interés popular: La vivienda cuyo precio de venta al público es superior a 5,400 veces la Unidad de Cuenta de la Ciudad de México vigente y no exceda de 9,000 veces la Unidad de Cuenta de la Ciudad de México vigente;
 
 XXXIX. Zona Conurbada: la parte del territorio de la Ciudad con una continuidad física y demográfica respecto de centros de población situados en los municipios circunvecinos y;
 
@@ -302,7 +306,7 @@ XXXIII. Coordinarse con la Secretaría de Protección Civil para aplicar criteri
 
 XXXIV. Interpretar y aplicar para efectos administrativos las disposiciones de desarrollo urbano contenidas en esta Ley, así como las de los programas, emitiendo para tal efecto los dictámenes, circulares y recomendaciones necesarias, sin perjuicio de las facultades generales de interpretación de la Consejería Jurídica y de Servicios Legales;
 
-XXXV. Proveer a la capacitación y a la asistencia técnica en materias relacionadas con el desarrollo urbano y el ordenamiento territorial, para lo cual podrá celebrar convenios con las instituciones educativas, a fin de que se incluyan estas materias en los programas de estudio; y (sic)
+XXXV. Proveer a la capacitación y a la asistencia técnica en materias relacionadas con el desarrollo urbano y el ordenamiento territorial, para lo cual podrá celebrar convenios con las instituciones educativas, a fin de que se incluyan estas materias en los programas de estudio; y
 
 XXXVI. Crear una reserva territorial para la producción social de vivienda, de acuerdo a los recursos que la Asamblea Legislativa del Distrito Federal asigne para tal fin, y
 
@@ -460,7 +464,7 @@ VII. El Sistema de Aguas de la Ciudad de México;
 
 VIII. La Delegación correspondiente;
 
-IX. La Comisión de Desarrollo e Infraestructura Urbana de la Asamblea; y (sic)
+IX. La Comisión de Desarrollo e Infraestructura Urbana de la Asamblea; y
 
 X. El Coordinador de Desarrollo Urbano y Medio Ambiente del órgano de representación ciudadana que corresponda, de conformidad con la ley de la materia, a la unidad territorial en donde se ubique el predio que sea materia de modificación solicitada;
 
@@ -1338,11 +1342,11 @@ Se sancionará con multa:
 
 I. Del 5% al 10% del valor comercial de las obras e instalaciones, cuando éstas se ejecuten sin licencia o con una licencia cuyo contenido sea violatorio de los programas o determinaciones administrativas vigentes o cualquier otro instrumento administrativo apócrifo. En estos casos se aplicará la sanción al propietario o poseedor del inmueble, promotor de la obra y al director responsable de obra;
 
-II. En las fusiones, subdivisiones, relotificaciones y conjuntos ilegales, del 5% al 10% del valor comercial del terreno, En (sic) estos casos se aplicará la sanción al propietario o poseedor del inmueble;
+II. En las fusiones, subdivisiones, relotificaciones y conjuntos ilegales, del 5% al 10% del valor comercial del terreno, En estos casos se aplicará la sanción al propietario o poseedor del inmueble;
 
-III. A quienes no respeten las normas referentes al desarrollo urbano para las personas con discapacidad se les aplicarán las siguientes multas:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-De 20 a 40 veces el salario mínimo:
+III. A quienes no respeten las normas referentes al desarrollo urbano para las personas con discapacidad se les aplicarán las siguientes multas: De 20 a 40 veces la Unidad de Cuenta de la Ciudad de México:
 
 a) A quien obstaculice la circulación peatonal o las rampas ubicadas en las esquinas, para su uso por las personas con discapacidad; y
 
@@ -1499,3 +1503,13 @@ Publíquese en la Gaceta Oficial del Distrito Federal.
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
