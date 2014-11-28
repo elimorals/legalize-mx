@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-asistencia-y-prevencion-de-la-violencia-familiar-8607"
 country: "mx"
 rank: "ley"
 publication_date: "1996-07-08"
-last_updated: "2009-02-24"
+last_updated: "2014-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8607&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "1996-06-26"
 ---
 # LEY DE ASISTENCIA Y PREVENCION DE LA VIOLENCIA FAMILIAR -ANTES LEY DE ASISTENCIA Y PREVENCION DE LA VIOLENCIA INTRAFAMILIAR-
 
-LEY DE ASISTENCIA Y PREVENCION DE LA VIOLENCIA FAMILIAR
+LEY DE ASISTENCIA Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE FEBRERO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 8 de julio de 1996 y republicada en la Primera Sección del Diario Oficial de la Federación, el martes 9 de julio de 1996.
 
@@ -36,7 +36,7 @@ D E C R E T O
 
 "LA ASAMBLEA DE REPRESENTANTES DEL DISTRITO FEDERAL, D E C R E T A :
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 2 DE JULIO DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 2 DE JULIO DE 1998)</small>
 
 Ley de Asistencia y Prevención de la Violencia Familiar
 
@@ -120,7 +120,7 @@ A la Secretaria de Gobierno, a la Secretaria de Educación, Salud y Desarrollo S
 
 ### CAPÍTULO ÚNICO. DE LA COORDINACIÓN Y CONCERTACIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE MAYO DE 2007)</small>
 
 ###### ARTÍCULO 6.
 
@@ -194,7 +194,7 @@ El personal de las instituciones a que se refieren los dos artículos anteriores
 
 Dicho personal deberá participar en los procesos de selección, capacitación y sensibilización que la misma Secretaría establezca, a fin de que cuente con el perfil y aptitudes adecuadas.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 12.
 
@@ -230,7 +230,7 @@ X. Avisar al Juez de lo Familiar y en su caso al Ministerio Público para que in
 
 XI. Solicitar a la Secretaría de Seguridad Pública del Distrito Federal información que sea captada con equipos o sistemas tecnológicos, de conformidad con la Ley que Regula el Uso de Tecnología para la Seguridad Pública del Distrito Federal, y que se ofrezca en el procedimiento establecido en el artículo 28 de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE JULIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE JULIO DE 1998)</small>
 
 ###### ARTÍCULO 13.
 
@@ -288,7 +288,7 @@ Los órganos jurisdiccionales, a través de sus titulares, y una vez que conozca
 
 ### CAPÍTULO II. DE LA PREVENCIÓN
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PARRAFO, G.O. 15 DE MAYO DE 2007)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PÁRRAFO, G.O. 15 DE MAYO DE 2007)</small>
 
 ###### ARTÍCULO 17.
 
@@ -424,21 +424,33 @@ IV. Los actos de violencia intrafamiliar señalados en el artículo 3 de la Ley,
 
 Las sanciones aplicables a las infracciones serán:
 
-I. Multa de 30 a 180 días de salario mínimo general vigente en el Distrito Federal al momento de cometer la infracción.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+I. Multa de 30 a 180 veces la Unidad de Cuenta de la Ciudad de México vigente al momento de cometer la infracción.
 
 Si el infractor fuese jornalero, obrero o trabajador no asalariado, la multa será equivalente a un día de su jornal, salario o ingreso diario; o
 
 II. Arresto administrativo inconmutable hasta por 36 horas.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 26.
 
-Se sancionará con multa de 30 a 90 días de salario mínimo general vigente en el Distrito Federal por el incumplimiento a la fracción I del artículo 24 y que se duplicará en caso de conducta reiterada hasta el máximo de la sanción establecida.
+Se sancionará con multa de 30 a 90 veces la Unidad de Cuenta de la Ciudad de México vigente por el incumplimiento a la fracción I del artículo 24 y que se duplicará en caso de conducta reiterada hasta el máximo de la sanción establecida.
 
-El incumplimiento a la resolución a que se refieren las fracciones II y III del citado artículo, se sancionará con multa hasta de 90 días de salario mínimo general vigente en el Distrito Federal, y en todo caso se procederá conforme a lo previsto por el artículo 23 de la Ley.
+El incumplimiento a la resolución a que se refieren las fracciones II y III del citado artículo, se sancionará con multa hasta de 90 veces la Unidad de Cuenta de la Ciudad de México vigente, y en todo caso se procederá conforme a lo previsto por el artículo 23 de la Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 27.
 
-La infracción prevista en la fracción IV del artículo 24 de la Ley, se sancionará con multa hasta de 180 días de salario mínimo general vigente en el Distrito Federal.
+La infracción prevista en la fracción IV del artículo 24 de la Ley, se sancionará con multa hasta de 180 veces la Unidad de Cuenta de la Ciudad de México vigente.
 
 La reincidencia se sancionará con arresto administrativo inconmutable por 36 horas.
 
@@ -472,7 +484,7 @@ RECINTO DE LA ASAMBLEA DE REPRESENTANTES DEL DISTRITO FEDERAL, a los veintiséis
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de junio de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Oscar Espinosa Villarreal.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 2 DE JULIO DE 1998.
 
@@ -497,3 +509,13 @@ G.O. 24 DE FEBRERO DE 2009.
 PRIMERO.- El presente decreto iniciará su vigencia a partir del día siguiente de su publicación.
 
 SEGUNDO.- Se deroga toda disposición que se oponga al presente decreto.
+
+G.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
