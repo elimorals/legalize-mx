@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-la-procuraduria-social-de-la-ciudad-de-mexico-antes-7906
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-03"
-last_updated: "2014-06-25"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79064&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-02-02"
 
 LEY DE LA PROCURADURÍA SOCIAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 3 de febrero de 2011.
 
@@ -43,6 +43,8 @@ D E C R E T A
 DECRETO POR EL QUE SE EXPIDE LA LEY DE LA PROCURADURÍA SOCIAL DEL DISTRITO FEDERAL.
 
 ÚNICO: Se expide la Ley de la Procuraduría Social del Distrito Federal, para quedar como sigue:
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO CUARTO DEL DECRETO SIN NÚMERO, PUBLICADO EN LA G.O. DE 28 DE NOVIEMBRE DE 2014, LAS REFERENCIAS QUE SE HAGAN DEL SALARIO MÍNIMO EN LAS NORMAS LOCALES VIGENTES, INCLUSO EN AQUELLAS PENDIENTES DE PUBLICAR O DE ENTRAR EN VIGOR, SE ENTENDERÁN HECHAS A LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO, A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.</small>
 
 LEY DE LA PROCURADURÍA SOCIAL DEL DISTRITO FEDERAL
 
@@ -196,7 +198,7 @@ XII. Elaborar y enviar el proyecto de presupuesto de la Procuraduría y ejercer 
 
 XIII. Elaborar y Presentar el proyecto de Reglamento de la Procuraduría Social al Jefe de Gobierno, para su aprobación, expedición y promulgación; y
 
-XIV. Demás (sic) que le confiera esta Ley, su Reglamento y otros ordenamientos que lo faculten para tal efecto.
+XIV. Demás que le confiera esta Ley, su Reglamento y otros ordenamientos que lo faculten para tal efecto.
 
 ###### Artículo 14.
 
@@ -704,7 +706,7 @@ En caso de que el requerido condominal no se presente a la audiencia y no justif
 
 ###### Artículo 74.
 
-En caso de que el quejoso, no acuda a la audiencia de conciliación y no se (sic) presente dentro de los siguientes tres días hábiles justificación fehaciente de su inasistencia, se tendrá por concluido y no podrá presentar otra ante la Procuraduría por los mismos hechos.
+En caso de que el quejoso, no acuda a la audiencia de conciliación y no se presente dentro de los siguientes tres días hábiles justificación fehaciente de su inasistencia, se tendrá por concluido y no podrá presentar otra ante la Procuraduría por los mismos hechos.
 
 ###### Artículo 75.
 
@@ -810,7 +812,11 @@ Por tal motivo la Procuraduría vigilará y sancionará su encargo delegado por 
 
 Para el desempeño de sus funciones, la Procuraduría Social, podrá emplear los siguientes medios de apremio:
 
-I. Multa por el equivalente de hasta cincuenta veces el salario mínimo general diario vigente en el Distrito Federal, la cual podrá duplicarse en caso de reincidencia, podrán imponerse nuevas multas por cada día que transcurra;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+I. Multa por el equivalente de hasta cincuenta veces la Unidad de Cuenta de la Ciudad de México vigente en el Distrito Federal, la cual podrá duplicarse en caso de reincidencia, podrán imponerse nuevas multas por cada día que transcurra;
 
 II. El auxilio de la fuerza pública;
 
@@ -871,3 +877,13 @@ G.O. 25 DE JUNIO DE 2014.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Túrnese al Jefe de Gobierno para efectos de su promulgación y publicación.
+
+G.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
