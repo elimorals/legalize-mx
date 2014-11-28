@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-derecho-al-acceso-disposicion-y-saneamiento-del-31534"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-27"
-last_updated: "2011-06-20"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31534&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-05-09"
 
 LEY DE AGUAS DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 27 de mayo de 2003.
 
@@ -43,6 +43,8 @@ LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL,
 II LEGISLATURA
 
 D E C R E T A :
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO CUARTO DEL DECRETO SIN NÚMERO, PUBLICADO EN LA G.O. DE 28 DE NOVIEMBRE DE 2014, LAS REFERENCIAS QUE SE HAGAN DEL SALARIO MÍNIMO EN LAS NORMAS LOCALES VIGENTES, INCLUSO EN AQUELLAS PENDIENTES DE PUBLICAR O DE ENTRAR EN VIGOR, SE ENTENDERÁN HECHAS A LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO, A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.</small>
 
 DECRETO LEY DE AGUAS DEL DISTRITO FEDERAL
 
@@ -194,7 +196,7 @@ XXXVII BIS. TRATAMIENTO DE AGUA PLUVIAL.- La actividad que mediante procesos fí
 
 XXXVIII. USO DOMÉSTICO.- La utilización de aguas destinadas al uso particular en viviendas, el riego de sus jardines y de árboles de ornato, así como el abrevadero de animales domésticos, siempre que éstas no incluyan actividades lucrativas;
 
-XXXIX. USO NO DOMESTICO.- La utilización del agua en establecimientos comerciales industriales y de servicios; y (sic)
+XXXIX. USO NO DOMESTICO.- La utilización del agua en establecimientos comerciales industriales y de servicios; y
 
 XL. USUARIO.- La persona física o moral que haga uso de uno o más de los servicios hidráulicos;
 
@@ -410,7 +412,7 @@ VI. Emitir las normas ambientales para el Distrito Federal con relación al mane
 
 VII. Coordinar y vigilar el registro de descargas de aguas residuales de fuentes fijas que se vierten a los sistemas de drenaje y alcantarillado y demás cuerpos receptores en el Distrito Federal;
 
-VIII. Establecer y actualizar el registro de descargas de aguas residuales que se viertan en el sistema de drenaje y alcantarillado o a cuerpos receptores en el Distrito Federal; y (sic)
+VIII. Establecer y actualizar el registro de descargas de aguas residuales que se viertan en el sistema de drenaje y alcantarillado o a cuerpos receptores en el Distrito Federal; y
 
 > <small>(ADICIONADA, G.O. 30 DE MAYO 2005)</small>
 
@@ -738,7 +740,7 @@ b) Las industrias ubicadas en el Distrito Federal que en todos sus procesos prod
 
 c) Las obras en construcción mayores de 2,500 metros cuadrados, así como en terracerías y compactación de suelos; y
 
-d) Los establecimientos dedicados al lavado de autos; y (sic)
+d) Los establecimientos dedicados al lavado de autos; y
 
 XII. El uso del agua para actividades humanas deberá realizarse de forma tal que se emplee únicamente en las cantidades estrictamente indispensables para cumplir con los objetivos a que se destina;
 
@@ -778,7 +780,7 @@ Las aguas pluviales que recolecten los particulares y sean sometidas a procesos 
 
 Para evitar la disminución de la captación de agua producida por la tala de árboles o zonas boscosas, la Secretaría vigilará el cumplimiento de las disposiciones legales referentes a la conservación de estas, especialmente los ubicados en las orillas de los cauces o cuerpos de agua, así como las (sic) localizados en los nacimientos de agua.
 
-> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], G.O. 10 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 10 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 38.
 
@@ -1120,7 +1122,7 @@ Podrá suspenderse el servicio de drenaje, cuando:
 
 I. En el predio no exista construcción;
 
-II. Cuando se requiera reparar o dar mantenimiento al sistema de drenaje, y (sic)
+II. Cuando se requiera reparar o dar mantenimiento al sistema de drenaje, y
 
 III. La descarga pueda obstruir la infraestructura o poner en peligro la seguridad del sistema hidráulico de la Ciudad o de sus habitantes;
 
@@ -1542,37 +1544,29 @@ La imposición de las presentes sanciones es independiente de las previstas y sa
 
 Cuando se cometan violaciones a la presente Ley, además de las penas o sanciones administrativas señaladas, se procederá a la reparación del daño ambiental.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 111.
 
-Las faltas a que se refiere el artículo 110 serán sancionadas administrativamente por el Gobierno del Distrito Federal a través del Sistema de Aguas, con multas equivalentes a días de salario mínimo general vigente en el Distrito Federal y en el momento en que se cometa la infracción, conforme a lo siguiente:
+Las faltas a que se refiere el artículo 110 serán sancionadas administrativamente por el Gobierno del Distrito Federal a través del Sistema de Aguas, con multas equivalentes a veces la Unidad de Cuenta de la Ciudad de México vigente y en el momento en que se cometa la infracción, conforme a lo siguiente:
 
 I. Cuando se trate de usuarios domésticos en caso de violación a las fracciones:
 
 a) IX, de 10 a 100;
 
-> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+b) V, X, XII, XIII, XV, XVI, XVII y XVIII, de 100 a 300; y
 
-b) V, X, XII, XIII, XV, XVI, XVII y XVIII, de 300 a 600;
-
-c) VII, y XX, de 300 a 1000; y (sic)
+c) VII, y XX, de 300 a 1000; y
 
 II. Cuando se trate de usuarios no domésticos en caso de violación a las fracciones:
 
 a) IX, de 100 a 500;
 
-> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+b) V, X, XI, XII, XIV, XV, XVIII, XXI, XXII, XXIII y XXV, de 500 a 1000; y
 
-b) V. X. XI. XII. XIV. XV. XVIII, XXI, XXII, XXIII y XXIV, de 700 a 1500;
-
-> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2008)</small>
-
-c) I, II, III, IV, VI, VII, VIII, XIII, XVI, XVII, XIX y XXIV, de 1500 a 3000.
+c) I, II, III, IV, VI, VII, VIII, XIII, XVI, XVII, XIX, XX y XXIV, de 1000 a 3000.
 
 III. Cuando se trate de violación a la fracción XXV, de 1000 a 3000.
-
-> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2008)</small>
 
 IV. En caso de violación a la fracción VII del artículo 110 el Sistema de Aguas realizará las obras necesarias de reparación y el dictamen que contendrá el monto de los daños que pagarán los propietarios o usuarios responsables.
 
@@ -2177,3 +2171,13 @@ G.O. 20 DE JUNIO DE 2011.
 PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
