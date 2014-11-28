@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-celebracion-de-espectaculos-publicos-en-la-14213"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-13"
-last_updated: "2014-07-15"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14213&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-12-27"
 
 LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 13 de enero de 1997.
 
@@ -36,6 +36,8 @@ DECRETO
 
 "LA ASAMBLEA DE REPRESENTANTES DEL DISTRITO FEDERAL, DECRETA:
 
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO CUARTO DEL DECRETO SIN NÚMERO, PUBLICADO EN LA G.O. DE 28 DE NOVIEMBRE DE 2014, LAS REFERENCIAS QUE SE HAGAN DEL SALARIO MÍNIMO EN LAS NORMAS LOCALES VIGENTES, INCLUSO EN AQUELLAS PENDIENTES DE PUBLICAR O DE ENTRAR EN VIGOR, SE ENTENDERÁN HECHAS A LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO, A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.</small>
+
 LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL DISTRITO FEDERAL
 
 ## TÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES, COMPETENCIA Y ESPECTÁCULOS PÚBLICOS EN GENERAL
@@ -46,7 +48,7 @@ LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL DISTRITO FEDERAL
 
 Las disposiciones de la presente Ley son de orden e interés públicos y tienen por objeto regular la celebración de Espectáculos públicos en el Distrito Federal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 26 DE ENERO DE 2009)</small>
 
@@ -96,7 +98,7 @@ X. Permiso: El acto administrativo que emite la Delegación, para que una person
 
 XI. Secretaría: La Secretaría de Gobierno de la Administración;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 XII. (DEROGADA, G.O. 26 DE ENERO DE 2009)
 
@@ -132,7 +134,7 @@ III. Expedir acuerdos y circulares en los que se consignen lineamientos y criter
 
 IV. Las demás que le confiera la Ley y otras disposiciones aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 26 DE ENERO DE 2009)</small>
 
@@ -166,9 +168,9 @@ V. Vigilar el funcionamiento de las Comisiones de Espectáculos Públicos a que 
 
 VI. Las demás que le confiere la Ley y otras disposiciones aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE ENERO DE 2009)</small>
 
 ###### Artículo 8o.
 
@@ -186,19 +188,19 @@ IV. Instruir a los verificadores facultados de vigilar el cumplimiento de esta L
 
 V. Aplicar las medidas de seguridad a que se refiere esta Ley;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 26 DE ENERO DE 2009)</small>
 
 VI. Aplicar las sanciones previstas en esta Ley y en sus disposiciones reglamentarias;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 26 DE ENERO DE 2009)</small>
 
 VII. Notificar a la Secretaría de Protección Civil sobre la realización de un espectáculo público con aforo mayor a quinientas personas, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, G.O. 26 DE ENERO DE 2009)</small>
 
@@ -226,7 +228,7 @@ La solicitud y el formato deberán ser los que determine la Administración y su
 
 ### CAPÍTULO III. De los Espectáculos Públicos en General
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE ENERO DE 2008)</small>
 
 ###### Artículo 12.
 
@@ -272,7 +274,7 @@ XVI. Vigilar que durante la celebración del Espectáculo público se conserve e
 
 XVII. Contar con el Programa Especial de Protección Civil a que alude la Ley de Protección Civil para el Distrito Federal y su Reglamento, cuando éste se requiera para la celebración del Espectáculo público de que se trate;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, G.O. 10 DE DICIEMBRE DE 2008)</small>
 
@@ -394,7 +396,7 @@ IV. El precio de las localidades que se expenderán, y
 
 V. El aforo autorizado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 26 DE ENERO DE 2009)</small>
 
@@ -462,7 +464,7 @@ XIV BIS.- La manifestación bajo protesta de decir verdad de que durante la cele
 
 XV. La manifestación bajo protesta de decir verdad, en el sentido de que cumplen además de lo ordenado por el presente ordenamiento, con lo dispuesto por la Ley de Salud para el Distrito Federal, la Ley de Protección Civil del Distrito Federal, y su Reglamento, la Ley para las Personas con Discapacidad del Distrito Federal, el Reglamento de Construcciones para el Distrito Federal, la normatividad en materia de protección al ambiente y conservación ecológica, de derechos de autor y de intérprete, en su caso, y los demás ordenamientos que resulten aplicables con motivo de la celebración del Espectáculo público.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 18 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 26.
 
@@ -700,7 +702,7 @@ En caso de que con antelación a la celebración de un Espectáculo público és
 
 Asimismo, deberá comunicarlo al público, por los mismos medios que utilizó para su difusión, indicando el domicilio y los horarios a los que podrá acudir el público para obtener la devolución de su dinero, lo cual deberá ser hecho en un plazo máximo de tres días hábiles.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 14 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 14 DE JUNIO DE 2006)</small>
 
 ### CAPÍTULO IV. De los Espectáculos Tradicionales
 
@@ -802,7 +804,7 @@ VI.- Deberán acreditar que cumplen con lo dispuesto en las fracciones II, III, 
 
 VII.- El recibo por el cual se acredita la contratación del servicio de energía eléctrica y/o acreditar que cuentan con una planta generadora de energía eléctrica, así como el escrito por el cual responsabiliza por las averías que se provoquen en las instalaciones y equipos eléctricos tanto públicos como privados, bajo pena de revocación del permiso en caso de incumplimiento, además del respectivo pago de daños y perjuicios.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 18 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE NOVIEMBRE DE 2011)</small>
 
 Una vez que la Delegación reciba todas las solicitudes, y hasta 5 días hábiles antes a la realización de la feria, la Delegación notificará a los interesados por medio de listas que se colocarán en la sede delegacional, cuáles son las solicitudes aceptadas y la cantidad que se tendrá que pagar por concepto de derechos conforme al Código Fiscal del Distrito Federal. Una vez hecho lo anterior, se entregará el permiso correspondiente en el que se indicará cuales son las obligaciones que se tendrán que cumplir. En todo caso en el permiso se precisará lo siguiente:
 
@@ -1028,7 +1030,7 @@ II. Las demás que se señalen en los Reglamentos correspondientes.
 
 ### CAPÍTULO I. De la Verificación
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 26 DE ENERO DE 2009)</small>
 
@@ -1042,9 +1044,9 @@ La contravención a las disposiciones de la Ley dará lugar a la imposición de 
 
 ### CAPÍTULO II. De las Medidas de Seguridad
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE ENERO DE 2009)</small>
 
 ###### Artículo 77.
 
@@ -1074,37 +1076,49 @@ Para la fijación de las sanciones, se tomará en cuenta la gravedad de la infra
 
 Las sanciones económicas deberán fijarse entre el mínimo y máximo establecido.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 80.
 
-Se sancionará con el equivalente de 50 a 100 días de salario mínimo general vigente en el Distrito Federal, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 12 fracciones III, V y XII; 35 fracciones IV y V; 43 fracción IV; 49 fracción III y 52, de la Ley.
+Se sancionará con el equivalente de 50 a 100 veces la Unidad de Cuenta de la Ciudad de México vigente, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 12 fracciones III, V y XII; 35 fracciones IV y V; 43 fracción IV; 49 fracción III y 52, de la Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 81.
 
-Se sancionará con el equivalente de 100 a 200 días de salario mínimo general vigente en el Distrito Federal, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 12 fracciones II, IV, VI, X, XIII, XVIII, XX, XXI, XXIII, XXIV, XXV y XXVI; 16, 35 fracciones I, II y III; 44, 45, 47, 49 fracciones I, II y IV; 50, 51, 53 y 58 último párrafo, de la Ley.
+Se sancionará con el equivalente de 100 a 200 veces la Unidad de Cuenta de la Ciudad de México vigente, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 12 fracciones II, IV, VI, X, XIII, XVIII, XX, XXI, XXIII, XXIV, XXV y XXVI; 16, 35 fracciones I, II y III; 44, 45, 47, 49 fracciones I, II y IV; 50, 51, 53 y 58 último párrafo, de la Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, G.O. 10 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 82.
 
-Se sancionará con el equivalente de 200 a 400 días de salario mínimo general vigente en el Distrito Federal, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 12 fracciones I, VII, VIII, XI, XIV, XV, XVI, XVII Bis, XIX y XXII; 15, 17, 18, 33, 37 fracción I; 48, 54, 55 y 60 de la Ley.
+Se sancionará con el equivalente de 200 a 400 veces la Unidad de Cuenta de la Ciudad de México vigente, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 12 fracciones I, VII, VIII, XI, XIV, XV, XVI, XVII Bis, XIX y XXII; 15, 17, 18, 33, 37 fracción I; 48, 54, 55 y 60 de la Ley.
 
 > <small>(ADICIONADO, G.O. 15 DE JULIO DE 2014)</small>
 
 Se sancionará con el equivalente de 9,000 a 12,000 días multa por violaciones a lo dispuesto en la fracción XI Bis del artículo 12.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 83.
 
-Las violaciones a esta Ley no previstas en los artículos que anteceden se sancionarán con multa de hasta 50 veces el salario mínimo general vigente en el Distrito Federal.
+Las violaciones a esta Ley no previstas en los artículos que anteceden se sancionarán con multa hasta 50 veces la Unidad de Cuenta de la Ciudad de México vigente.
 
 ###### Artículo 84.
 
 En caso de reincidir en alguna de las infracciones sancionadas económicamente por la Ley, se aplicará el doble de la multa impuesta originalmente, y en caso de que el infractor incurriera por tercera ocasión en la misma falta, procederá además la clausura de las instalaciones y revocación de oficio del permiso, según sea el caso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE ENERO DE 2009)</small>
 
 ###### Artículo 85.
 
@@ -1148,7 +1162,7 @@ En los casos a que se refieren las fracciones I, II, III, IV, V, VI, IX y XI del
 
 La Clausura o suspensión inmediata de establecimientos mercantiles y Espectáculos públicos se sujetará al siguiente procedimiento:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 26 DE ENERO DE 2009)</small>
 
@@ -1156,7 +1170,7 @@ I. Se iniciará cuando la Delegación, o en su caso, la Secretaría de Protecci�
 
 II. Lo relativo a la notificación, las pruebas y el desahogo de la audiencia, se sujetará a lo dispuesto por los artículos 93 a 95 y 98 a 101 de la Ley, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 26 DE ENERO DE 2009)</small>
 
@@ -1202,9 +1216,9 @@ En los casos no previstos en el artículo anterior, la Delegación no podrá rev
 
 ### CAPÍTULO IV. De la Revocación de Oficio de los Permisos
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE ENERO DE 2009)</small>
 
 ###### Artículo 92.
 
@@ -1212,7 +1226,7 @@ El procedimiento de revocación de oficio de los permisos para la celebración d
 
 En la cédula de notificación se expresará el lugar, día y hora en que se verificará la audiencia de pruebas y alegatos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 26 DE ENERO DE 2009)</small>
 
@@ -1284,7 +1298,7 @@ RECINTO DE LA ASAMBLEA DE REPRESENTANTES DEL DISTRITO FEDERAL, a dieciocho de di
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de diciembre de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Óscar Espinosa Villarreal.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
 
 G.O. 21 DE ENERO DE 2005.
 
@@ -1322,7 +1336,7 @@ TERCERO. Publíquese para su mayor difusión en el Diario Oficial de la Federaci
 
 G.O. 26 DE ENERO DE 2009.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO. Publíquese en el (sic) Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
 
@@ -1349,3 +1363,13 @@ PRIMERO.- Túrnese al Jefe de Gobierno del Distrito Federal para su promulgació
 SEGUNDO.- El presente Decreto entrará en vigor a los 365 días posteriores a su publicación.
 
 TERCERO.- Los empleados y los titulares de espectáculos públicos que presenten un espectáculo circense en el Distrito Federal que cuenten con registro, permiso, autorización de posesión y traslado de animales silvestres, así como el certificado de cumplimiento de la legislación en materia de bienestar animal expedido por la autoridad federal correspondiente, tendrán un plazo de 365 días para adecuar su espectáculo en el territorio del Distrito Federal.
+
+G.G. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
