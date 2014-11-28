@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2014-10-22"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -1747,15 +1747,83 @@ Art. 109 Bis B. Se garantiza en el Estado el derecho de acceso a la información
 
 En materia política, sólo podrán ejercer este derecho los ciudadanos mexicanos.
 
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+El ejercicio de este derecho se regirá por los principios y bases consagrados en al (sic) artículo 6o. de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+El Estado contará con un organismo autónomo, especializado, imparcial, colegiado, al que se le denominará Comisión Estatal para el Acceso a la Información Pública, como organismo garante, con personalidad jurídica y patrimonio propio, con plena autonomía técnica, de gestión, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de garantizar el cumplimiento del derecho de acceso a la información pública y a la protección de datos personales en posesión de los sujetos obligados en los términos que establezca la Ley.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+El organismo autónomo previsto en el párrafo anterior, se regirá por la ley en materia de transparencia y acceso a la información pública y protección de datos personales en posesión de los sujetos obligados, en los términos que establezca la Ley General que emita el Congreso de la Unión para establecer las bases, principios generales y procedimientos del ejercicio de este derecho, así como por lo que establezca la Ley Local en la materia.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+En su funcionamiento se regirá tanto por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+La Comisión Estatal para el Acceso a la Información Pública tiene competencia para conocer de los asuntos relacionados con el acceso a la información pública y la protección de datos personales de cualquier autoridad, entidad, dependencia, órgano u organismo que forme parte de alguno de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos o legales, partidos políticos, fideicomisos y fondos públicos, Ayuntamientos, así como de cualquier persona física, moral o sindicatos que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal o municipal. Las resoluciones que dicte la Comisión podrán ser impugnadas ante el organismo garante nacional en los términos previstos en la Ley General de la materia.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+La Ley establecerá aquella información que se considere reservada o confidencial.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Las resoluciones del organismo garante son vinculatorias, definitivas e inatacables para los sujetos obligados.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+La Comisión Estatal para el Acceso a la Información Pública se integrará por tres comisionados. Para su nombramiento, el Congreso del Estado, previa convocatoria y realización de una amplia consulta a la sociedad, con el voto de las dos terceras partes de los miembros presentes, nombrará al comisionado que deba cubrir la vacante, siguiendo el proceso establecido en la Ley. El nombramiento podrá ser objetado por el Gobernador del Estado dentro de un plazo de diez días hábiles posteriores a la designación. Si el titular del Poder Ejecutivo Estatal no objetara el nombramiento dentro de dicho plazo, la persona nombrada como Comisionado por el Congreso del Estado, ocupará el cargo.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+En caso de que el Gobernador del Estado objetara el nombramiento, el Congreso del Estado nombrará una nueva propuesta, en los términos del párrafo inmediato anterior. Si este segundo nombramiento fuera objetado, el Congreso del Estado, en los términos del párrafo anterior, designará al comisionado que ocupará la vacante, sin posibilidad que este último nombramiento pueda ser objetado, en la inteligencia que dicha elección no podrá recaer en las designaciones previamente objetadas por el titular del Poder Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+En la conformación del organismo garante se procurará la equidad de género.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Los comisionados durarán en su encargo siete años, sin posibilidad de reelección y deberán cumplir con los requisitos previstos en la Ley. No podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones docentes, científicas o de beneficencia, y sólo podrán ser removidos de su cargo en los términos del Título Sexto de esta Constitución y serán sujetos de juicio político.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+El comisionado presidente será designado por los propios comisionados, mediante voto secreto, por un periodo de dos años, con posibilidad de ser reelecto por un periodo igual. Estará obligado a rendir un informe anual ante el Congreso del Estado, en la fecha y en los términos que disponga la Ley.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+La Comisión Estatal para el Acceso a la Información Pública tendrá un Consejo Consultivo integrado por cinco consejeros, que serán honoríficos, elegidos por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, mediante un procedimiento de consulta pública, que deberá ser transparente, en los términos y condiciones que determine la Ley. Su nombramiento deberá ser escalonado. Cada dos años serán sustituidos los dos consejeros con mayor antigüedad en el cargo, salvo que fuesen propuestos y ratificados para un segundo periodo.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+En la conformación del Consejo Consultivo se procurará la equidad de género.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+La Ley establecerá las medidas de apremio que podrá imponer el organismo garante para asegurar el cumplimiento de sus decisiones.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Toda autoridad y servidor público estará obligado a coadyuvar con el organismo garante y sus integrantes para el buen desempeño de sus funciones.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+La Comisión Estatal para el Acceso a la Información Pública coordinará sus acciones con la Auditoría Superior del Estado, con la entidad especializada en materia de archivos y organismo garante nacional, con el objeto de fortalecer la rendición de cuentas.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ENERO DE 1984)</small>
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ### CAPITULO II. DEL JUICIO POLITICO
 
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ## TITULO V. DEL MUNICIPIO LIBRE
 
@@ -2073,13 +2141,17 @@ Las relaciones de trabajo entre los Municipios y sus trabajadores, se regirán p
 
 ### CAPITULO III. DE LA DECLARATORIA DE PROCEDENCIA POR LA COMISION DE DELITOS
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 130.
 
-Para los efectos de las responsabilidades contenidas en este Título, se entiende por servidor público toda persona física que desempeñe un empleo, cargo o comisión de cualquier naturaleza en alguno de los tres poderes del Gobierno del Estado, en los Ayuntamientos, así como en los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos del Estado y Municipios en los Ayuntamientos y organismos e instituciones municipales.
+Para los efectos de las responsabilidades contenidas en este Título, se entiende por servidor público toda persona física que desempeñe un empleo, cargo o comisión de cualquier naturaleza en alguno de los tres poderes del Gobierno del Estado, en organismos autónomos previstos en esta Constitución y leyes locales, en los Ayuntamientos, así como en los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos del Estado y Municipios en los Ayuntamientos y organismos e instituciones municipales.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 Todo servidor público será responsable de los actos u omisiones oficiales en que incurra y que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho, independientemente de la jerarquía, denominación y origen del cargo. Se concede acción popular para denunciar los delitos y faltas a que se refiere este Título, bajo la más estricta responsabilidad del denunciante y mediante la presentación de elementos de prueba.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 Las sanciones procedentes se aplicarán respetando el derecho de audiencia, mediante juicio político, proceso penal o procedimiento administrativo, según sea el caso, en los términos del presente Título y de las leyes aplicables. Los procedimientos para la aplicación de las sanciones mencionadas se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
 
@@ -2101,7 +2173,7 @@ Ningún servidor público del Gobierno del Estado y de los Ayuntamientos tiene d
 
 ###### Art. 132.
 
-Podrán ser sujetos de juicio político, para sancionar su responsabilidad, el Gobernador, los Diputados Locales, los Magistrados del Supremo Tribunal de Justicia del Estado, los Magistrados de las Salas de Circuito del Poder Judicial del Estado, los Secretarios del Despacho del Poder Ejecutivo, el Procurador General de Justicia y los Jueces de Primera Instancia, así como los Titulares y Directores, o sus equivalentes, de las entidades, instituciones u organismos que integren la administración pública paraestatal conforme al primer párrafo del artículo 130, así como los Presidentes Municipales, Regidores y Síndicos Procuradores de los Ayuntamientos.
+Podrán ser sujetos de juicio político, para sancionar su responsabilidad, el Gobernador, los Diputados Locales, los Magistrados del Supremo Tribunal de Justicia del Estado, los Magistrados de las Salas de Circuito del Poder Judicial del Estado, los Secretarios del Despacho del Poder Ejecutivo, el Procurador General de Justicia y los Jueces de Primera Instancia, así como los Titulares y Directores, o sus equivalentes, de las entidades, instituciones u organismos que integren la administración pública paraestatal conforme al primer párrafo del artículo 130, así como los Presidentes Municipales, Regidores y Síndicos Procuradores de los Ayuntamientos y comisionados del organismo garante a que se refiere el artículo 109 Bis B de la presente Constitución.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -2145,7 +2217,11 @@ La Legislatura Local procederá conforme a lo previsto en este Capítulo, tratá
 
 Todo servidor público es penalmente responsable por los delitos que cometa y su conducta delictuosa será perseguida y sancionada conforme a las leyes penales.
 
-Se requiere declaratoria previa del Congreso del Estado, erigido en Jurado de Acusación, por mayoría absoluta de los Diputados presentes, de que ha lugar a proceder penalmente en contra del inculpado, tratándose de delitos atribuidos a Diputados de la Legislatura Local, Magistrados del Supremo Tribunal de Justicia, Secretarios del Despacho del Poder Ejecutivo, Procurador General de Justicia y Presidentes Municipales, quienes serán juzgados por la autoridad competente.
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Se requiere declaratoria previa del Congreso del Estado, erigido en Jurado de Acusación, por mayoría absoluta de los Diputados presentes, de que ha lugar a proceder penalmente en contra del inculpado, tratándose de delitos atribuidos a Diputados de la Legislatura Local, Magistrados del Supremo Tribunal de Justicia, Secretarios del Despacho del Poder Ejecutivo, Procurador General de Justicia, Presidentes Municipales y Comisionados del organismo garante a que se refiere el artículo 109 Bis B de la presente Constitución, quienes serán juzgados por la autoridad competente.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 El Gobernador del Estado durante el tiempo de su encargo sólo podrá ser enjuiciado por delitos graves del fuero común, previa declaratoria de la Legislatura, y será juzgado por el Pleno del Supremo Tribunal de Justicia erigido en Jurado de Sentencia.
 
@@ -3514,3 +3590,33 @@ PRIMERO. El presente Decreto entrará en vigor en los términos que establezca l
 SEGUNDO. Los procedimientos penales iniciados con anterioridad a la entrada en vigor del nuevo Sistema de Justicia Penal Acusatorio, serán concluidos conforme a las disposiciones vigentes con anterioridad a dicho acto.
 
 TERCERO. Publíquese el presente Decreto en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. El Congreso del Estado deberá armonizar la Ley de Acceso a la Información Pública del Estado de Sinaloa, una vez que el Congreso de la Unión expida la Ley General a que se refiere el artículo 6o. de la Constitución Política de los Estados Unidos Mexicanos, en materia de transparencia y acceso a la información pública, y que ésta a su vez, sea publicada en el Diario Oficial de la Federación.
+
+TERCERO. Los Comisionados que integran actualmente la Comisión Estatal para el Acceso a la Información Pública de Sinaloa podrán formar parte del nuevo organismo autónomo, previa petición formal al Congreso del Estado, dentro de los diez días hábiles siguientes a la entrada en vigor del presente Decreto únicamente por el tiempo que reste al nombramiento del que fueron objeto en la Comisión que se extingue, siempre y cuando su petición sea aprobada por el voto de las dos terceras partes de los miembros presentes. En este caso el Congreso del Estado deberá resolver en un plazo de diez días, de lo contrario se entenderá la negativa a su petición.
+
+CUARTO. La designación de los comisionados de la nueva Comisión Estatal para el Acceso a la Información Pública del Estado de Sinaloa, será realizada conforme a lo siguiente:
+
+I. En el supuesto de que la totalidad de los comisionados de la actual Comisión Estatal para el Acceso a la Información Pública soliciten su continuidad en el cargo y obtengan la respectiva aprobación en los términos del artículo tercero de esta disposición transitoria, formarán parte del organismo garante hasta la fecha de terminación del período para el que fueron originariamente designados.
+
+II. En el caso de que sólo uno o dos de los comisionados de la actual Comisión Estatal para el Acceso a la Información Pública soliciten continuar en el cargo y obtengan la aprobación a que se refiere el párrafo primero de este precepto, continuarán en el ejercicio del cargo en el nuevo organismo hasta el término de la designación que se les confirió originariamente para formar parte del órgano que se extingue y para las vacantes restantes se ocuparán de acuerdo a lo siguiente, asegurando la renovación escalonada:
+
+a) Si el nombramiento es en razón de la no continuación del comisionado que habría concluido el encargo el 25 de febrero de 2021, el periodo para el cual sea designado concluirá en esa fecha.
+
+b) Si el nombramiento es en razón de la no continuación del comisionado que habría concluido el encargo el 1 de septiembre de 2016, el periodo para el cual sea designado concluirá en igual fecha del año 2019.
+
+c) Si el nombramiento es en razón de la no continuación del comisionado que habría concluido el encargo el 11 de septiembre de 2015, el periodo para el cual sea designado concluirá en igual fecha del año 2020.
+
+III. En el supuesto de que ninguno de los comisionados de la actual Comisión Estatal para el Acceso a la Información Pública solicite al Congreso del Estado o reciba la aprobación para formar parte del organismo garante del derecho de acceso a la información que se crea por medio del presente Decreto, se realizarán los nombramientos por un periodo de cinco, seis y siete años, según corresponda asegurando la renovación escalonada.
+
+QUINTO. En tanto se integra el organismo garante que establece el artículo 109 Bis B de esta Constitución, continuarán en sus funciones, conforme al orden jurídico vigente al entrar en vigor el presente Decreto, los integrantes de la actual Comisión Estatal para el Acceso a la Información Pública del Estado de Sinaloa.
+
+SEXTO. En tanto el Congreso del Estado expida las reformas a que se refiere el transitorio segundo, el organismo garante que alude el artículo 109 Bis B de esta Constitución, ejercerá sus atribuciones y competencias conforme lo dispuesto por el presente Decreto y la Ley de Acceso a la Información Pública del Estado de Sinaloa.
+
+SÉPTIMO. Los asuntos que se encuentren en trámite o pendientes de resolución a la entrada en vigor del presente Decreto, y que deriven de la aplicación de la Ley de Acceso a la Información Pública del Estado de Sinaloa, se sustanciarán ante el nuevo organismo autónomo a que se refiere el artículo 109 Bis B de esta Constitución.
+
+OCTAVO. Los recursos financieros y materiales, así como los trabajadores que actualmente forman parte de la Comisión Estatal para el Acceso a la Información Pública de Sinaloa, serán transferidos al nuevo organismo autónomo que se crea mediante el presente Decreto. Los trabajadores que pasen a formar parte del nuevo organismo autónomo, no serán afectados en sus derechos laborales y de seguridad social.
