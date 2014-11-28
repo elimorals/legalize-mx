@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2014-10-17"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -263,45 +263,41 @@ Los actos o resoluciones dictados con motivo del desarrollo de los instrumentos 
 
 La Bandera, el Himno y el Escudo Nacionales, son los símbolos obligatorios en todo el Estado, pero éste tendrá además su propio escudo. No habrá otras banderas, otros himnos ni escudos de carácter oficial. El uso de los símbolos nacionales se sujetará a lo dispuesto por los ordenamientos federales.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MARZO DE 1992)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-### CAPITULO IV.. DE LAS GARANTIAS INDIVIDUALES, SOCIALES Y DE LA PROTECCION DE LOS DERECHOS HUMANOS
+### CAPITULO IV.. DE LOS DERECHOS HUMANOS Y SUS GARANTÍAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 7.
 
-El Estado de Baja California acata plenamente y asegura a todos sus habitantes las garantías individuales y sociales consagradas en la Constitución Política de los Estados Unidos Mexicanos, así como los demás derechos que otorga esta Constitución; de igual manera esta norma fundamental tutela el derecho a la vida, al sustentar que desde el momento en que un individuo es concebido, entra bajo la protección de la ley y se le reputa como nacido para todos los efectos legales correspondientes, hasta su muerte natural o no inducida.
-
-> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2011)</small>
+El Estado de Baja California acata plenamente y asegura a todos sus habitantes los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, y en los Tratados Internacionales de los que el Estado Mexicano sea parte, así como las garantías para su protección, y los demás derechos que reconoce esta Constitución, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que establece la Constitución Política de los Estados Unidos Mexicanos; de igual manera esta norma fundamental tutela el derecho a la vida, desde el momento en que un individuo es concebido, entra bajo la protección de la ley y se le reputa como nacido para todos los efectos legales correspondientes, hasta su muerte natural o no inducida.
 
 El Estado reconoce y protege la Institución del Matrimonio como un derecho de la sociedad orientado a garantizar y salvaguardar la perpetuación de la especie y ayuda mutua entre los cónyuges, satisfaciéndose este solamente, mediante la unión de un hombre con una mujer.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+APARTADO A. De la promoción, respeto, protección y garantía de los Derechos Humanos.
 
-Se establecerá por medio de una Ley las Bases para la creación de la Procuraduría de los Derechos Humanos y Protección Ciudadana, como un organismo administrativo, autónomo de participación ciudadana para vigilar y exigir de los servidores públicos un actuar apegado a la legalidad y asegurar el respeto de los derechos humanos en la entidad, sus resoluciones consistirán en solicitarles fundando y motivando ante las autoridades competentes, la aplicación de las sanciones previstas en la Ley.
+Las normas relativas a los Derechos Humanos se interpretarán de conformidad con la Constitución Política de los Estados Unidos Mexicanos y con los Tratados Internacionales de la materia favoreciendo en todo tiempo a las personas la protección más amplia.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado y los Municipios deberán prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezcan las leyes.
 
-La Ley garantizará al Procurador su independencia y autonomía en el desempeño de su cargo, asimismo determinará los procedimientos para su nombramiento, la duración del cargo, sus funciones y facultades así como las demás condiciones necesarias para garantizar su eficacia.
+Toda persona tiene el derecho a la práctica del deporte, a la cultura física, a gozar de un medio ambiente adecuado para su desarrollo y bienestar, asimismo, a la salud, el derecho a la igualdad y a la no discriminación, a recibir educación pública, obligatoria y gratuita que imparta el Estado, en los niveles preescolar, primaria, secundaria y media superior para desarrollar armónicamente todas las facultades del ser humano y fomentar en él, a la vez, el amor a la Patria, el respeto a los Derechos Humanos y la conciencia de la solidaridad internacional, en la independencia y en la justicia. Las autoridades públicas del Estado, harán lo conducente a fin de que se asegure el disfrute de estos derechos.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+APARTADO B. De la Procuraduría de los Derechos Humanos y Protección Ciudadana.
 
-La Procuraduría de los Derechos Humanos y Protección Ciudadana no ejercerá una función jurisdiccional por lo que carece de facultades para modificar por si misma las resoluciones de la autoridad ni suspender las actuaciones administrativas objeto de queja. Sus resoluciones consistirán en recomendaciones, proposiciones, solicitudes y recordatorios de plazos y deberes legales dirigidas a los servidores públicos.
+Se establecerá por medio de una ley las Bases para la creación de la Procuraduría de los Derechos Humanos y Protección Ciudadana, como un organismo público, dotado de autonomía presupuestaria y de gestión, con personalidad jurídica y patrimonio propio, el que conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público.
 
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
+Este organismo formulará recomendaciones públicas, no vinculatorias, denuncias y quejas ante las autoridades respectivas. Todo servidor público está obligado a responder las recomendaciones que les presenten (sic) este organismo. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar y motivar y hacer pública su negativa; asimismo, el Congreso del Estado, podrá llamar a solicitud del Titular de la Procuraduría de los Derechos Humanos y Protección Ciudadana, a las autoridades y servidores públicos responsables para que comparezcan, a efecto de que expliquen el motivo de su negativa.
 
-Toda persona tiene el derecho a la práctica del deporte, a la cultura física y a gozar de un medio ambiente adecuado para su desarrollo y bienestar, asimismo, a recibir educación pública, obligatoria y gratuita que imparta el Estado, en los niveles preescolar, primaria, secundaria y media superior. Las autoridades públicas del Estado, harán lo conducente a fin de que se asegure el disfrute de estos derechos.
+La Procuraduría de los Derechos Humanos y Protección Ciudadana no ejercerá una función jurisdiccional, por lo que carece de facultades para modificar por sí misma las resoluciones de la autoridad ni suspender las actuaciones administrativas objeto de queja. Sus determinaciones también podrán consistir en proposiciones, solicitudes y recordatorios de plazos y deberes legales dirigidos a los servidores públicos. Este organismo no es competente tratándose de asuntos electorales y jurisdiccionales.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2009)</small>
+La Ley garantizará al Procurador su independencia y autonomía en el desempeño de su cargo, asimismo determinará los procedimientos para su nombramiento, la duración del cargo, sus funciones y facultades así como las demás condiciones necesarias para garantizar su eficacia. La elección del Titular de la Procuraduría de los Derechos Humanos y Protección Ciudadana se sujetará a un procedimiento de consulta pública, que deberá ser transparente, en los términos y condiciones que determine la Ley.
+
+APARTADO C. De la Transparencia y Acceso a la Información Pública.
 
 Toda persona sin necesidad de acreditar interés alguno, tiene derecho a acceder a la información que la ley atribuye el carácter de pública, a sus datos personales, o a la rectificación de éstos. La Ley de la materia deberá observar, entre otros, los principios de protección a los datos personales, máxima publicidad y gratuidad; asimismo, deberá establecer los mecanismos de acceso a la información pública, de protección de los datos personales, así como los procedimientos de revisión, y señalar aquella que tenga el carácter de reservada o confidencial.
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
-
 Corresponde al Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California, como un organismo público autónomo, dotado de personalidad jurídica y patrimonio propio, especializado, imparcial y con autonomía operativa, de gestión y de decisión, garantizar el acceso a la información pública y la protección de datos personales, fomentar la cultura de transparencia, y resolver los procedimientos de revisión, respecto de los Poderes del Estado, Municipios y organismos constitucionales autónomos, y demás entes públicos, en los términos que señale la normatividad aplicable.
-
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
 
 Dicho organismo se integrará por tres Consejeros Propietarios que integrarán el Pleno y un Suplente que cubrirá las ausencias de aquellos, en los términos previstos en la normatividad aplicable. Los Consejeros durarán en su encargo cuatro años, y durante el mismo no podrán tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia; y serán designados de conformidad con las siguientes bases:
 
@@ -313,13 +309,11 @@ III.- En caso de que no se aprueben los aspirantes propuestos, se hará del cono
 
 IV.- El Poder Legislativo tendrá un plazo de diez días naturales para resolver, vencido el cual, sin que se haya emitido resolución alguna, se entenderán como electos los aspirantes propuestos en los primeros lugares en el listado respectivo y conforme al orden de prelación, y se expedirán los nombramientos correspondientes, en un plazo de tres días naturales.
 
-V.- Una vez realizado lo anterior, el Gobernador del Estado ordenará la publicación del resultado en el Periódico Oficial del Estado y uno en los diarios de mayor circulación.
+V.- Una vez realizado lo anterior, el Gobernador del Estado ordenará la publicación del resultado en el Periódico Oficial del Estado y uno en (sic) los diarios de mayor circulación.
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
+APARTADO D. De los Juicios Orales y Medios Alternativos.
 
 Las leyes señalarán aquellos casos en que los juicios serán predominantemente orales, así como su procedimiento.
-
-> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
 
 Las personas tendrán derecho a acceder a los medios alternativos de justicia para resolver sus controversias, en la forma y términos establecidos por las leyes respectivas.
 
@@ -335,7 +329,9 @@ I.- Si son mexicanos, los que conceda la Constitución Política de los Estados 
 
 II.- Ejercer el derecho de petición de manera respetuosa y pacífica, teniendo la autoridad la obligación de contestar en breve término; en materia política sólo ejercerán este derecho los ciudadanos mexicanos;
 
-III.- Si son extranjeros, gozarán de las garantías individuales y sociales, así como de los derechos establecidos en la Constitución General de la República, la presente y en las disposiciones legales que de ellas emanen. En ningún caso los extranjeros gozarán de derechos políticos; y
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+III.- Si son extranjeros, gozarán de los derechos humanos y las garantías establecidas en la Constitución Política de los Estados Unidos Mexicanos, la presente y en las disposiciones legales que de ellas emanen. En ningún caso los extranjeros gozarán de derechos políticos; y,
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2013)</small>
 
@@ -869,13 +865,21 @@ XXXVII.- Citar a los Secretarios del ramo, Procurador de Justicia del Estado, Ti
 
 Los funcionarios a que se refiere el párrafo anterior, estarán obligados a acudir a las sesiones correspondientes; así como a dar respuesta formal, atendiendo a los puntos de acuerdo o exhortos remitidos por el Congreso, en un plazo prudente que no exceda de 30 días naturales.
 
-> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-XXXVIII.- Expedir todas las leyes que sean necesarias, a fin de hacer efectivas las facultades anteriores y todas las otras concedidas por esta Constitución y la Constitución Política de los Estados Unidos Mexicanos, a los Poderes del Estado de Baja California.
+XXXVIII.- Examinar y opinar el Plan de Desarrollo del Estado que le remita el Ejecutivo;
 
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-XXXIX.- Examinar y opinar el Plan de Desarrollo del Estado que le remita el Ejecutivo.
+XXXIX.- Elegir por mayoría calificada, al titular de la Procuraduría de los Derechos Humanos y Protección Ciudadana en el Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XL.- A solicitud del Titular de la Procuraduría de los Derechos Humanos y Protección Ciudadana, citar a las autoridades o servidores públicos responsables, que no acepten o incumplan las recomendaciones de la Procuraduría de los Derechos Humanos y Protección Ciudadana, para que comparezcan ante el Congreso del Estado, a efecto de que expliquen el motivo de su negativa; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XLI.- Expedir todas las leyes que sean necesarias, a fin de hacer efectivas las facultades anteriores y todas las otras concedidas por esta Constitución y la Constitución Política de los Estados Unidos Mexicanos, a los Poderes del Estado de Baja California.
 
 ### CAPITULO III.. DE LA INICIATIVA Y LA FORMACION DE LAS LEYES Y DECRETOS
 
@@ -1173,7 +1177,7 @@ VI.- Las demás que establezca expresamente esta Constitución.
 
 En caso de falta absoluta ocurrida durante los dos primeros años del período, el Congreso designará por mayoría absoluta de votos un Gobernador Provisional que convoque a elecciones dentro de los dos meses siguientes, debiendo verificar éstas en un término no mayor de cuatro meses posteriores a la convocatoria.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DEL 2000)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DEL 2000)</small>
 
 La persona que sea designada Gobernador Provisional, tomará posesión de su cargo dentro del término de diez días posteriores a la fecha en que se haga la declaratoria correspondiente.
 
@@ -1181,7 +1185,7 @@ La persona que sea designada Gobernador Provisional, tomará posesión de su car
 
 Si la falta absoluta ocurriere después de los dos primeros años, el Congreso designará por mayoría absoluta y en un término no mayor de ocho días, un Gobernador Sustituto que termine el ejercicio constitucional del Ejecutivo; caso en el cual el Secretario de Gobierno se hará cargo del despacho, de conformidad con lo dispuesto por el Artículo 45 de esta Constitución.
 
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DEL 2000)</small>
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DEL 2000)</small>
 
 El ciudadano que sea designado para suplir al Titular del Poder Ejecutivo como Gobernador Interino, Provisional o Sustituto, deberá reunir los requisitos establecidos en el Artículo 41 de esta Constitución con excepción de lo dispuesto por la fracción VI.
 
@@ -1227,7 +1231,7 @@ VII.- Designar a un Consejero de la Judicatura del Poder Judicial.
 
 > <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
 
-VIII.- Visitar los Municipios del Estado cuando lo estime conveniente, proveyendo lo necesario en el orden administrativo, dando cuenta al Congreso, o al Tribunal Superior, de las faltas que notare y cuyo remedio corresponda a dichos Poderes, y solicitar al Congreso del Estado la suspensión de Ayuntamientos, que declare que éstos han desaparecido y la suspensión o revocación del mandato de alguno de sus miembros, por alguna de las causas graves que la Ley prevenga, proponiendo al Congreso en su caso los nombres de los vecinos, para que designe a los integrantes de los Concejos Municipales, en los términos de esta Constitución y las Leyes respectivas.
+VIII.- Visitar los Municipios del Estado, cuando lo estime conveniente, proveyendo lo necesario en el orden administrativo, dando cuenta al Congreso, o al Tribunal Superior, de las faltas que notare y cuyo remedio corresponda a dichos Poderes, y solicitar al Congreso del Estado la suspensión de Ayuntamientos, que declare que éstos han desaparecido y la suspensión o revocación del mandato de alguno de sus miembros, por alguna de las causas graves que la Ley prevenga, proponiendo al Congreso en su caso los nombres de los vecinos, para que designe a los integrantes de los Concejos Municipales, en los términos de esta Constitución y las Leyes respectivas.
 
 IX.- Prestar a los tribunales el auxilio que éstos requieran para el ejercicio expedito de sus funciones y hacer cumplir sus fallos y sentencias;
 
@@ -1687,7 +1691,7 @@ La infracción a lo previsto en los párrafos anteriores, será sancionada con l
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2009)</small>
 
-Quienes hayan ejercido los cargos a que se refiere este artículo estarán impedidos para desempeñarse como abogado patrono, procurador o cualquier género de representación en aquellos asuntos que haya conocido.
+Quienes hayan ejercido los cargos a que se refiere este artículo, estarán impedidos para desempeñarse como abogado patrono, procurador o cualquier género de representación en aquellos asuntos que haya conocido.
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
 
@@ -2437,7 +2441,15 @@ El Estado alentará y protegerá la actividad económica que realicen los partic
 
 Respecto a los bienes muebles del Estado deben implementarse y ejercerse estrictos sistemas de control para garantizar su uso racional y esmerada conservación, así como para operar las bajas, venta, permuta o donación de los mismos, cuando por su estado físico o cualidades técnicas ya no sean útiles o funcionales. Así también, cuando se hubieren extraviado, robado, accidentado o destruido, deberá darse debido cumplimiento a las disposiciones legales que resulten aplicables.
 
-La propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente de los tres órdenes de gobierno, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
+> <small>N. DE E. EL DECRETO No. 132 APROBADO EL 16 DE OCTUBRE DE 2014 Y PUBLICADO EL 28 DE NOVIEMBRE DE 2014, SEÑALA QUE REFORMA EL PÁRRAFO QUINTO, SIN EMBARGO, SE ADVIERTE UNA DIFERENCIA EN LA NUMERACIÓN DE LOS PÁRRAFOS, EN VIRTUD DE QUE EL CUARTO PÁRRAFO FUE ADICIONADO MEDIANTE DECRETO No. 113 PUBLICADO EN EL P.O. DE 17 DE OCTUBRE DE 2014.</small>
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+La propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente del orden de gobierno estatal o municipal, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público, o la promoción de partido político alguno.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+El gasto en la propaganda de comunicación social se regirá por los criterios de eficiencia, eficacia, economía, transparencia y honradez. Asimismo, se buscará que la propaganda que se utilice no dañe el medio ambiente.
 
 El manejo de los recursos económicos del Estado se sujetará a las bases de este Artículo.
 
@@ -2459,19 +2471,45 @@ Ninguna autoridad exigirá anticipos de contribuciones ni préstamos forzosos.
 
 La Ley Civil contendrá disposiciones que tiendan a proteger la estabilidad del hogar y la constitución del patrimonio familiar, con miras a evitar el desamparo de la esposa y de los hijos.
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTICULO 105.
 
-El Ejecutivo creará el sistema penitenciario del Estado, estableciendo las cárceles de reclusión preventiva, las penitenciarías o colonias penales que fueren necesarias, organizando en unas y otras, un sistema de trabajo como medio de regeneración de los delincuentes. El Ejecutivo del Estado podrá celebrar convenios con la Federación para que los reos sentenciados extingan su pena en establecimientos federales de reclusión aún cuando se hallen fuera del Estado.
+El Ejecutivo creará el sistema penitenciario del Estado, estableciendo las cárceles de reclusión preventiva, las penitenciarías o colonias penales que fueren necesarias, organizado en unas y otras, sobre la base del respeto de los derechos humanos, un sistema de trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para el prevé la ley.
+
+El Ejecutivo del Estado podrá celebrar convenios con la Federación para que los reos sentenciados extingan su pena en establecimientos federales de reclusión aun cuando se hallen fuera del Estado.
+
+Las mujeres compurgarán sus penas en lugares separados de los destinados a los hombres para tal efecto.
 
 ###### ARTICULO 106.
 
 El Estado vigilará y cooperará con el Gobierno Federal en la observancia de la higiene y salubridad pública, dictando las disposiciones y adoptando las medidas que fueren necesarias para prevenir y combatir las enfermedades, las epidemias y las epizootias.
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTICULO 107.
 
-Nadie podrá entrar en el desempeño de ningún cargo o empleo del Estado, sin prestar previamente la protesta de Ley, la cual determinará la fórmula de la protesta y la autoridad ante quien deba hacerse.
+En los procesos de nombramiento, designación o elección de los cargos públicos que a continuación se señalan, los aspirantes deberán de comparecer en audiencia pública ante los órganos competentes.
+
+I.- Magistrados del Tribunal Superior de Justicia.
+
+II.- Consejeros de la Judicatura del Poder Judicial del Estado que se señalan en las fracciones II, III y IV del artículo 64 de esta Constitución.
+
+III.- Jueces del Poder Judicial del Estado.
+
+IV.- Titulares de la Procuraduría de los Derechos Humanos y protección Ciudadana; del Instituto de Transparencia y Acceso a la Información Pública del Estado; del Tribunal de lo Contencioso Administrativo y del Órgano de Fiscalización Superior.
+
+Tratándose de los Consejeros de la Judicatura señalados en la fracción IV del artículo 64 de esta Constitución y de los servidores públicos señalados en las fracciones I y IV de este artículo, la audiencia pública deberá efectuarse por la Comisión del Congreso del Estado encargada de realizar los dictámenes para el nombramiento, designación o elección de los citados cargos. Por su parte, el Consejo de la Judicatura dentro de los procedimientos de elaboración de las listas de aspirantes a Magistrados del Tribunal Superior de Justicia y de Jueces del Poder Judicial del Estado a las que hacen mención los artículos 58 párrafo cuarto y 63 fracción IV de esta Constitución, estará obligado a efectuar audiencias públicas. Igual obligación corresponderá al Tribunal Superior de Justicia del Estado para el nombramiento de los Jueces y Consejeros de la Judicatura que se señalan en las fracciones II y III del artículo 64 de esta Constitución.
+
+Durante las audiencias públicas señaladas en el párrafo anterior, los aspirantes realizarán una breve exposición sobre el cargo a ocupar, sus méritos profesionales y las acciones a desarrollar en el caso de ser nombrados, designados o electos. Dentro de la audiencia, los integrantes de los órganos competentes podrán formular las preguntas que consideren pertinentes.
+
+Todos los ciudadanos y medios de comunicación podrán asistir a las audiencias señaladas en este artículo, pero no a participar en la deliberación que realicen los órganos competentes. Las audiencias deberán realizarse en espacios que permitan la asistencia de una cantidad importante de ciudadanos y además deberán ser transmitidas por las páginas de internet del Congreso y del Poder Judicial del Estado, según corresponda.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 108.
+
+Nadie podrá entrar en el desempeño de ningún cargo o empleo del Estado, sin prestar previamente la protesta de Ley, la cual determinará la fórmula de la protesta y la autoridad ante quien deba hacerse.
 
 Los funcionarios que entren a ejercer su encargo después del día señalado por esta Constitución, sólo durarán en sus funciones el tiempo que les faltare para cumplir el período correspondiente.
 
@@ -2655,7 +2693,7 @@ Entre tanto se constituye el Poder Judicial del Estado, en los términos que dis
 
 ###### ARTICULO DECIMO SEXTO.
 
-Durante el período que dure en su cargo el Gobernador Provisional y mientras el Estado no dicte sus propias leyes, continuará rigiendo en él la legislación del ex-Territorio Norte de la Baja California, excepto en aquello que pugne con las disposiciones de esta Constitución. Con las mismas salvedades consignadas en este artículo se seguirá aplicando la "Ley de Ingresos del Territorio Norte de la Baja California para el Ejercicio Fiscal de 1952", publicada en el Diario Oficial de la Federación de 31 de diciembre de 1951, y el "Presupuesto provisional de Egresos del Territorio Norte de la Baja California para el Ejercicio Fiscal de 1952", publicado en el número 37 del Periódico Oficial del Territorio Norte de la Baja California, correspondiente al 30 de diciembre de 1951.
+Durante el período que dure en su cargo el Gobernador Provisional y mientras el Estado no dicte sus propias leyes, continuará rigiendo en él la legislación del ex-territorio Norte de la Baja California, excepto en aquello que pugne con las disposiciones de esta Constitución. Con las mismas salvedades consignadas en este artículo se seguirá aplicando la "Ley de Ingresos del Territorio Norte de la Baja California para el Ejercicio Fiscal de 1952", publicada en el Diario Oficial de la Federación de 31 de diciembre de 1951, y el "Presupuesto provisional de Egresos del Territorio Norte de la Baja California para el Ejercicio Fiscal de 1952", publicado en el número 37 del Periódico Oficial del Territorio Norte de la Baja California, correspondiente al 30 de diciembre de 1951.
 
 ###### ARTICULO DECIMO SEPTIMO.
 
@@ -3019,7 +3057,7 @@ En su oportunidad, pronunciada la Declaratoria en los términos establecidos por
 
 ###### ARTÍCULO TERCERO.
 
-La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Baja California.
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado de Baja California.
 
 P.O. 15 DE ENERO DE 1999.
 
@@ -3195,7 +3233,7 @@ UNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su pub
 
 P.O. 18 DE OCTUBRE DE 2002.
 
-PRIMERO.- El presente Decreto, entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado.
+PRIMERO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Córrase el trámite que señala el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, a los Municipios de esta entidad para que emitan su opinión en los términos de ley.
 
@@ -3337,7 +3375,7 @@ Aprobada que sea la presente reforma, deberá enviarse a los Ayuntamientos del E
 
 ###### ARTÍCULO TERCERO.
 
-En un término que no exceda de 30 días en la entrada en vigor de dicha reforma, el Congreso del Estado deberá emitir la Ley reglamentaria a la que refiere el párrafo cuarto del artículo 95 de la Constitución Política del Estado Libre y Soberano de Baja California.
+En un término que no exceda de 30 días en la entrada en vigor de dicha reforma, el Congreso del Estado deberá emitir la Ley reglamentaria a la que se refiere el párrafo cuarto del artículo 95 de la Constitución Política del Estado Libre y Soberano de Baja California.
 
 P.O. 11 DE JULIO DE 2008.
 
@@ -3375,13 +3413,13 @@ SEPTIMO.- La Contraloría General del Instituto a que se refiere el Apartado B d
 
 OCTAVO.- El Congreso del Estado deberá adecuar la legislación secundaria, a más tardar dentro de los noventa días siguientes a la entrada en vigor de las presentes reformas.
 
-NOVENO.- Los medios de impugnación, denuncias y quejas que a la entrada en vigor del presente Decreto se encuentren en trámite y las que se presenten en forma posterior pero antes de la reforma a la Ley de la materia, deberán resolverse conforme a las disposiciones vigentes al momento de su interposición.
+NOVENO.- Los medios de impugnación, denuncias y quejas que a la entrada en vigor del presente Decreto se encuentren en trámite y las que se presenten en forma posterior pero antes de la reforma a la Ley de la materia, deberán resolverse conforme a las disposiciones, vigentes al momento de su interposición.
 
 DÉCIMO.- Se derogan, en lo conducente, todas las disposiciones que se opongan a las presentes reformas.
 
 DÉCIMO PRIMERO.- Las menciones que en otras leyes se hagan al Instituto Estatal Electoral, se entenderán hechas al Instituto Electoral y de Participación Ciudadana.
 
-DÉCIMO SEGUNDO.- Si a la entrada en vigor del presente decreto estuviera vacante el cargo de Director General del Instituto Estatal Electoral, el Consejo General Electoral procederá a designar al Director General del Instituto Electoral y de Participación Ciudadana, bajo el siguiente procedimiento:
+DÉCIMO SEGUNDO.- Si a la entrada en vigor del presente decreto estuviera vacante el cargo de Director General del Instituto Estatal Electoral, el Consejo General Electoral procederá a designar al Director General del Instituto Electoral y de Participación Ciudadana bajo el siguiente procedimiento:
 
 I. El Consejero Presidente propondrá al aspirante al cargo de Director General del Instituto Electoral y de Participación Ciudadana, y será designado mediante la votación aprobatoria de las dos terceras partes de los integrantes del mismo Consejo;
 
@@ -3403,9 +3441,9 @@ P.O. 19 DE SEPTIEMBRE DE 2008.
 
 DECRETO No. 123, POR EL QUE SE REFORMA LA FRACCIÓN XXVI DEL ARTÍCULO 27 Y SE ADICIONA EL ARTÍCULO 76 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
 
-PRIMERO.- Túrnese el presente decreto a los ayuntamientos, de conformidad con el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+PRIMERO.- Túrnese el presente decreto a los ayuntamientos, de conformidad con el artículo 112, de la Constitución Política del Estado Libre y Soberano de Baja California.
 
-SEGUNDO.- Una vez agotado el proceso legislativo en los términos del artículo 112 de la Constitución Política del estado Libre y Soberano de Baja California y resultando el recuento aprobatorio, las presentes reformas pasarán a formar parte de esta Constitución.
+SEGUNDO.- Una vez agotado el proceso legislativo en los términos del artículo 112 de la Constitución Política del Estado libre y Soberano de Baja California y resultando el recuento aprobatorio, las presentes reformas pasarán a formar parte de esta Constitución.
 
 TERCERO.- Se derogan todas las disposiciones que contravengan a esta reforma.
 
@@ -3427,7 +3465,7 @@ PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicac
 
 SEGUNDO.- Se derogan en lo conducente, todas las disposiciones que se opongan a la presente reforma.
 
-TERCERO.- Córrase el trámite que señala el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, a los Ayuntamientos para que emitan su opinión, en los términos de ley.
+TERCERO.- Córrase el trámite que señala el artículo 122 de la Constitución Política del Estado Libre y Soberano de Baja California, a los Ayuntamientos para que emitan su opinión, en los términos de ley.
 
 P.O. 26 DE DICIEMBRE DE 2008.
 
@@ -3483,7 +3521,7 @@ P.O. 28 DE AGOSTO DE 2009.
 
 Primero.- Aprobada que sea esta iniciativa por esta Honorable Asamblea, envíese a los Ayuntamientos del Estado copia del acta de los debates que hubiere provocado, para efecto de dar cumplimiento con lo previsto por el artículo 112 de la Constitución Política del estado Libre y Soberano de Baja California.
 
-Segundo.- En su oportunidad, pronunciada la declaratoria en los términos establecidos por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja california, remítase al Ejecutivo la presente reforma Constitucional para los efectos conducentes.
+Segundo.- En su oportunidad, pronunciada la declaratoria en los términos establecidos por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, remítase al Ejecutivo la presente reforma Constitucional para los efectos conducentes.
 
 Tercero.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
@@ -3719,7 +3757,7 @@ P.O. 6 DE DICIEMBRE DE 2013.
 
 Artículo Primero.- Aprobada que sea esta iniciativa por esta Honorable Asamblea, envíese a los Ayuntamientos del Estado, copia del acta de los debates que hubiere provocado, para efecto de dar cumplimiento con lo previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
 
-Artículo Segundo.- Agotado el trámite y pronunciada la declaratoria señalada en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, remítanse las presentes reformas del artículo 27 de la Constitución Política y de los artículos 18 y 41 de la Ley Orgánica de la Administración Pública, ambos ordenamientos legales para el Estado de Baja California, al Poder Ejecutivo para su publicación.
+Artículo Segundo.- Agotado el trámite y pronunciada la declaratoria señalada en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, remítanse las presentes reformas del artículo 27 de la Constitución Política y de los artículos 18 y 41 de la ley Orgánica de la Administración Pública, ambos ordenamientos legales para el Estado de Baja California; al Poder Ejecutivo para su publicación.
 
 Artículo Tercero.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
@@ -3737,7 +3775,7 @@ P.O. 13 DE DICIEMBRE DE 2013.
 
 DECRETO NO. 14 POR EL QUE SE APRUEBA LA ADICIÓN DE UN TERCER PÁRRAFO AL ARTÍCULO 98 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-PRIMERO.- Aprobada que sea ésta Iniciativa por esta Honorable Asamblea, envíese a los Ayuntamientos del Estado copia del acta de los debates que hubiere provocado, para efecto de dar cumplimiento con lo previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+PRIMERO.- Aprobada que sea ésta iniciativa por esta Honorable Asamblea, envíese a los Ayuntamientos del Estado copia del acta de los debates que hubiere provocado, para efecto de dar cumplimiento con lo previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
 
 SEGUNDO.- En su oportunidad, pronunciada la Declaratoria en los términos establecidos por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, remítase al Ejecutivo la presente Reforma Constitucional para los efectos conducentes.
 
@@ -3753,7 +3791,7 @@ TERCERO.- Las presentes reformas entrarán en vigor al día siguiente de su publ
 
 CUARTO.- Las remuneraciones que sean superiores a la máxima establecida en el decreto que se aprueba, deberán ser ajustadas en los presupuestos de egresos correspondientes al ejercicio fiscal del año siguiente a aquél en que haya entrado en vigor el presente decreto.
 
-QUINTO.- A partir del ejercicio fiscal del año siguiente a aquél en que hayan entrado en vigor las presentes reformas, las percepciones de Magistrados y Consejeros de la Judicatura del Poder Judicial del Estado se sujetarán a lo siguiente:
+QUINTO.- A partir del ejercicio fiscal del año siguiente a aquél en que hayan entrado en vigor las presentes reformas~ las percepciones de Magistrados y Consejeros de la Judicatura del Poder Judicial del Estado se sujetarán a lo siguiente:
 
 I.- Las retribuciones nominales señaladas en los presupuestos vigentes superiores al monto máximo previsto en la fracción III del artículo 97 de la Constitución Política del Estado Libre y Soberano de Baja California, se mantendrán para los funcionarios que actualmente se encuentran en su encargo.
 
@@ -3856,3 +3894,33 @@ PRIMERO.- Aprobada que sea esta Iniciativa por esta Honorable Asamblea, envíese
 SEGUNDO.- En su oportunidad, pronunciada la Declaratoria en los términos establecidos por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, remítase al Ejecutivo la presente Reforma Constitucional para los efectos conducentes.
 
 TERCERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California
+
+P.O. 28 DE NOVIEMBRE DE 2014.
+
+DECRETO NO. 132 POR EL QUE SE APRUEBA LA REFORMA AL PÁRRAFO QUINTO, LA ADICIÓN DE UN PÁRRAFO SEXTO, RECORRIÉNDOSE EL ORDEN DE LOS PÁRRAFOS SEXTO Y SÉPTIMO PARA PASAR A SER SÉPTIMO Y OCTAVO DEL ARTÍCULO 100 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
+
+ÚNICO.- Las presentes reformas entrarán en vigor una vez cumplido el proceso legislativo al que se refiere el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+P.O. 28 DE NOVIEMBRE DE 2014.
+
+DECRETO NO. 131 POR EL QUE SE REFORMAN LOS ARTÍCULOS 7, 8, 27 Y 105 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
+
+PRIMERO.- Aprobadas que sean las presentes reformas, túrnese a los Ayuntamientos del Estado de Baja California, para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Agotado el proceso legislativo, y de obtener aprobación de la mayoría de los Ayuntamientos del Estado, procédase a pronunciar la declaratoria de incorporación constitucional correspondiente.
+
+TERCERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+CUARTO.- En un término que no exceda de 180 días naturales a partir de la entrada en vigor, el Congreso del Estado realizará las modificaciones necesarias a la Ley sobre la Procuraduría de los Derechos Humanos y Protección Ciudadana en el Estado de Baja California.
+
+QUINTO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+P.O. 28 DE NOVIEMBRE DE 2014.
+
+DECRETO NO. 134 POR EL QUE SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 107 Y 108 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
+
+PRIMERO.- Aprobada que sea esta Iniciativa por esta Honorable Asamblea, envíese a los Ayuntamientos del Estado copia del acta de los debates que hubiere provocado, para efecto de dar cumplimiento con lo previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- En su oportunidad, pronunciada la Declaratoria en los términos establecidos por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, remítase al Ejecutivo la presente Reforma Constitucional para los efectos conducentes.
+
+TERCERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
