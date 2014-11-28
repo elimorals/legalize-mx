@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-establecimientos-mercantiles-para-la-ciudad-de-78374"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-20"
-last_updated: "2014-04-16"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78374&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-01-14"
 
 LEY DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 20 de enero de 2011.
 
@@ -156,7 +156,7 @@ IV. Establecer políticas públicas para el desarrollo armónico y sustentable d
 
 V. Determinar acciones de simplificación;
 
-VI. Fomentar la implementación de acciones de autoregulación (sic) con organismos empresariales representativos del comercio, los servicios y el turismo;
+VI. Fomentar la implementación de acciones de autoregulación con organismos empresariales representativos del comercio, los servicios y el turismo;
 
 VII. Instruir a la Secretaría de Gobierno en su caso, quien en coordinación con la Delegación, ordenará la realización de visitas de verificación.
 
@@ -380,7 +380,7 @@ El titular o empleado deberá sugerirle al conductor que sea notorio su estado d
 
 IX. Los establecimientos mercantiles de impacto zonal, deberán contar con sistemas de recuperación de aguas grises y sistemas de ahorro de agua, asimismo contar con focos de bajo consumo de energía y con mingitorios de los llamados secos.
 
-Respecto a las botellas vacías de vinos y licores todas deberán romperse, a fin de evitar que sean comercializadas y reutilizadas para la venta de bebidas adulteradas; y (sic)
+Respecto a las botellas vacías de vinos y licores todas deberán romperse, a fin de evitar que sean comercializadas y reutilizadas para la venta de bebidas adulteradas; y
 
 > <small>(ADICIONADO, G.O. 16 DE ABRIL DE 2014)</small>
 
@@ -750,7 +750,7 @@ En los establecimientos mercantiles donde se sirvan bebidas alcohólicas al cope
 
 ###### Artículo 30.
 
-Los límites máximos permisibles para las emisiones sonoras dentro de establecimientos mercantiles se determinan en función de decibeles ponderados en A (dB(A)). Dentro de los establecimientos mercantiles los límites máximos de emisiones sonoras, sin importar su fuente, se llevará acabo (sic) dentro del rango y horarios que se indican a continuación, sin perjuicio de las obligaciones especificas que en materia de horarios establezcan estas y otras leyes:
+Los límites máximos permisibles para las emisiones sonoras dentro de establecimientos mercantiles se determinan en función de decibeles ponderados en A (dB(A)). Dentro de los establecimientos mercantiles los límites máximos de emisiones sonoras, sin importar su fuente, se llevará acabo dentro del rango y horarios que se indican a continuación, sin perjuicio de las obligaciones especificas que en materia de horarios establezcan estas y otras leyes:
 
 a) De las 6:00 a 22:00 horas 85 dB (A), y
 
@@ -1088,7 +1088,9 @@ II. Contar con iluminación suficiente durante el tiempo que permanezca en opera
 
 III. Tener una señalización clara y suficiente para el control de entradas, salidas y circulación en el estacionamiento;
 
-IV. Contar con un seguro de responsabilidad civil o fianza que garantice a los usuarios el pago de los daños que pudieran sufrir en su persona, vehículo, o en la de terceros hasta por 9000 días de salario mínimo vigente en el Distrito Federal por vehículo, 2000 días de salario mínimo general vigente por motocicleta y de 500 días de salario mínimo vigente en el Distrito Federal por bicicleta, de acuerdo a la siguiente modalidad:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+IV. Contar con un seguro de responsabilidad civil o fianza que garantice a los usuarios el pago de los daños que pudieran sufrir en su persona, vehículo, o en la de terceros hasta por 9000 veces la Unidad de Cuenta de la Ciudad de México vigente por vehículo, 2000 veces la Unidad de Cuenta del Distrito Federal vigente por motocicleta y de 500 veces la Unidad de Cuenta de la Ciudad de México vigente por bicicleta, de acuerdo a la siguiente modalidad:
 
 a) Autoservicio.- Responsabilidad por robo total, robo y daño parcial del vehículo, motocicleta o bicicleta e incendio del inmueble donde se depositó el vehículo, motocicleta o bicicleta, cuando éste sea atribuible al titular u operador; y
 
@@ -1242,31 +1244,33 @@ Cuando se detecte la expedición o venta de bebidas alcohólicas en contravenci�
 
 El aseguramiento de bebidas se llevará a cabo con el traslado de las mismas al sitio de almacenaje destinado por la Autoridad, previo inventario del aseguramiento, del cual se entregará copia de manera inmediata al titular del establecimiento o evento de que se trate.
 
-> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 64.
 
-Se sancionará con el equivalente de 25 a 125 días de salario mínimo general vigente en el Distrito Federal, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 10 Apartado A fracciones VIII y IX inciso a); 10 apartado B fracciones I y IX; 11 fracción VIII; 23 fracciones I, II, III, IV, VI y VII; 28 párrafo primero, segundo, cuarto y quinto; 40 fracciones II y III; 42 fracciones I y II; 43 fracciones II, IV, V, VI, VII y VIII; 45; 56 fracciones IV, V, VI y VIII, y 57 de la presente Ley." (sic)
+Se sancionará con el equivalente de 25 a 125 veces la Unidad de Cuenta de la Ciudad de México vigente, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 10 Apartado A fracciones VIII y IX inciso a); 10 apartado B fracciones I y IX; 11 fracción VIII; 23 fracciones I, II, III, IV, VI y VII; 28 párrafo primero, segundo, cuarto y quinto; 40 fracciones II y III; 42 fracciones I y II; 43 fracciones II, IV, V, VI, VII y VIII; 45; 56 fracciones IV, V, VI y VIII, y 57 de la presente Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, G.O. 13 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 65.
 
-Se sancionará con el equivalente de 126 a 350 días de salario mínimo general vigente en el Distrito Federal, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 10 apartado A fracciones III, VII párrafo primero, IX incisos b) y c), X; 10 apartado B fracciones II, III y VII; 11 fracciones III, IV, y VII, 12; 15; 21; 22; fracción II; 23 fracción V; 33; 34; 37; 39; 40, fracciones I, IV, V, VI; 42 fracciones III, IV, V, 43 fracciones I y III; 46; 47 fracciones I, II, III 48 fracciones III, VI, VII, X, 50; 53; 54; 56 fracciones II, III y VII.
+Se sancionará con el equivalente de 126 a 350 veces la Unidad de Cuenta de la Ciudad de México vigente, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 10 apartado A fracciones III, VII párrafo primero, IX incisos b) y c), X; 10 apartado B fracciones II, III y VII; 11 fracciones III, IV, y VII, 12; 15; 21; 22; fracción II; 23 fracción V; 33; 34; 37; 39; 40, fracciones I, IV, V, VI; 42 fracciones III, IV, V, 43 fracciones I y III; 46; 47 fracciones I, II, III 48 fracciones III, VI, VII, X, 50; 53; 54; 56 fracciones II, III y VII.
 
-> <small>(REFORMADO, G.O. 13 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 66.
 
-Se sancionara con el equivalente de 351 a 2500 días salario mínimo general vigente en el Distrito Federal, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 10 apartado A fracciones I, II, IV, V, VI, VII párrafo segundo, XI, XII, XIII y XIV; 10 apartado B fracciones II inciso b), IV, V, VI y VIII; 11 fracciones I, II, V, VI, IX, X; 13; 18; 20; 22 fracción XI segundo y tercer párrafo; 23; 24; 25 párrafo tercero; 26 párrafo cuarto; 27; 28 párrafo tercero; 29; 30; 32; 35; 36; 41; 45; 47 fracción IV y V; 48 fracciones I, II, V, VIII y IX; 49 párrafo segundo; 52; 55; 56 fracción I y 58 de esta Ley.
+Se sancionará con el equivalente de 351 a 2500 veces la Unidad de Cuenta de la Ciudad de México vigente, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 10 apartado A fracciones I, II, IV, V, VI, VII párrafo segundo, XI, XII, XIII y XIV; 10 apartado B fracciones II inciso b), IV, V, VI y VIII; 11 fracciones I, II, V, VI, IX, X; 13; 18; 20; 22 fracción XI segundo y tercer párrafo; 23; 24; 25 párrafo tercero; 26 párrafo cuarto; 27; 28 párrafo tercero; 29; 30; 32; 35; 36; 41; 45; 47 fracción IV y V; 48 fracciones I, II, V, VIII y IX; 49 párrafo segundo; 52; 55; 56 fracción I y 58 de esta Ley.
+
+> <small>(REFORMADO, G.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 Las sanciones económicas señaladas en los artículos 64, 65 y 66 de la presente Ley, tendrán una reducción del 50% en sus montos mínimos y máximos cuando se trate de giros de bajo impacto que no vendan bebidas alcohólicas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 67.
 
-Se sancionará con el equivalente de 1000 a 3000 días de salario mínimo general vigente en el Distrito Federal y con clausura permanente, a los titulares de establecimientos de bajo impacto que en el Aviso correspondiente hubieren proporcionado información falsa, no cuenten con los documentos cuyos datos hubieren ingresado al Sistema o éstos fueren falsos.
+Se sancionará con el equivalente de 1000 a 3000 veces la Unidad de Cuenta de la Ciudad de México vigente y con clausura permanente, a los titulares de establecimientos de bajo impacto que en el Aviso correspondiente hubieren proporcionado información falsa, no cuenten con los documentos cuyos datos hubieren ingresado al Sistema o éstos fueren falsos.
 
 En caso de que se detectare falsedad en los términos de este artículo, la Delegación o el Instituto de Verificación Administrativa del Distrito Federal dará vista al Ministerio Público.
 
@@ -1276,9 +1280,13 @@ En caso de que se detectare falsedad en los términos de este artículo, la Dele
 
 Se sancionará a los titulares de establecimientos de impacto vecinal y zonal que hubieren proporcionado información falsa, no cuenten con los documentos cuyos datos hubieren ingresado al Sistema o éstos fueren falsos, no cuente con programa interno de protección civil, su aforo sea superior a 100 personas y no hubieren obtenido el dictamen técnico favorable previsto en el artículo 8 Bis o no cuenten con el visto bueno de la Secretaría de Gobierno a que se refiere el artículo 27 Bis, ambos artículos de esta Ley, de la siguiente forma:
 
-a) Para los establecimientos de impacto vecinal multa de 5,000 a 15,000 días de salario mínimo vigente en el Distrito Federal.
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-b) Para los establecimientos de impacto zonal multa de 15,000 a 25,000 días de salario mínimo vigente en el Distrito Federal.
+a) Para los establecimientos de impacto vecinal multa de 5,000 a 15,000 veces la Unidad de Cuenta de la Ciudad de México vigente.
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+b) Para los establecimientos de impacto zonal multa de 15,000 a 25,000 veces la Unidad de Cuenta de la Ciudad de México vigente.
 
 Asimismo con clausura permanente y en caso de que se detectare falsedad en los términos de este artículo, la Autoridad dará vista al Ministerio Público.
 
@@ -1511,3 +1519,13 @@ PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario O
 SEGUNDO.- Los establecimientos mercantiles a que hace referencia la presente reforma contarán con 180 días naturales para efectuar las modificaciones necesarias.
 
 TERCERO.- Se derogan todas aquellas disposiciones que contravengan el contenido del presente decreto.
+
+G.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
