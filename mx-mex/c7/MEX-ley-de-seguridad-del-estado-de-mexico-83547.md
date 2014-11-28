@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-del-estado-de-mexico-83547"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-19"
-last_updated: "2014-11-13"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY DE SEGURIDAD DEL ESTADO DE MEXICO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE DICIEMBRE DE 2014 EN LA GACETA DE GOBIERNO DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE SEGURIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 19 de octubre de 2011.
 
@@ -335,13 +337,35 @@ XXVII. Coordinar los servicios de seguridad, vigilancia y protección regional e
 
 XXVIII. Emitir los acuerdos, instructivos, manuales de organización y de procedimientos, y demás normatividad que rija las actividades de las instituciones Policiales del Estado;
 
-> <small>(ADICIONADA, G.G. 16 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
-XXIX. Proponer el contenido de los convenios de coordinación y asunción de la función de seguridad pública municipal; y
+XXIX. Proponer el contenido de los convenios de coordinación y asunción de la función de seguridad pública municipal;
 
-> <small>(ADICIONADA, G.G. 16 DE JULIO DE 2014)</small>
+> <small>(ADICIONADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
-XXX. Las demás que establezcan la Constitución Estatal, la Ley General, esta Ley y demás ordenamientos de la materia, así como las que le confiera el Gobernador del Estado.
+XXX. Garantizar la atención a las solicitudes de auxilio generadas por el Órgano Jurisdiccional y el Ministerio Público, para la práctica de actos procesales que incidan en el ámbito de su competencia;
+
+> <small>(ADICIONADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+XXXI. Auxiliar al Órgano Jurisdiccional del Estado en la seguridad de las audiencias;
+
+> <small>(ADICIONADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+XXXII. Establecer protocolos de actuación en materia de cadena de custodia y preservación del lugar de los hechos, así como crear unidades especializadas para el procesamiento del lugar de los hechos;
+
+> <small>(ADICIONADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+XXXIII. Implementar un sistema de recepción de denuncia, misma que será remitida de manera inmediata al Ministerio Público;
+
+> <small>(ADICIONADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+XXXIV. Realizar la evaluación de riesgo de los imputados, para efectos de la imposición de medidas cautelares distinta a la prisión preventiva, así como vigilar y dar seguimiento a éstas y a las condiciones derivadas de la suspensión condicional del proceso;
+
+> <small>(ADICIONADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+XXXV. Auxiliar a las autoridades federales, del Distrito Federal, estatales y municipales, en el cumplimiento de sus atribuciones, cuando así lo requieran y sea procedente, de manera inmediata cuando se trate de casos urgentes; en los demás casos, siempre que las notificaciones sean dentro del plazo de 72 horas contadas a partir de que se tenga conocimiento del acto;
+
+XXXVI. Las demás que establezcan la Constitución Estatal, la Ley General, esta Ley y demás ordenamientos de la materia, así como las que le confiera el Gobernador del Estado.
 
 B. En materia de reinserción social:
 
@@ -379,7 +403,9 @@ Son atribuciones del Procurador:
 
 I. Promover y, en su caso, establecer la coordinación y colaboración entre el ministerio público y las Instituciones Policiales, para la prevención, investigación y persecución de delitos;
 
-II. Fijar criterios de cooperación y coordinación con las Instituciones Policiales, para el cumplimiento de mandamientos judiciales y ministeriales, aseguramiento de bienes y desahogo de diligencias judiciales, ministeriales y periciales;
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+II. Fijar criterios de cooperación y coordinación con las Instituciones Policiales, para el cumplimiento de mandamientos judiciales y ministeriales; aseguramiento de bienes; desahogo de diligencias judiciales, ministeriales y periciales, y para garantizar la seguridad de víctimas u ofendidos o testigos del delito;
 
 III. Verificar que toda la información generada por la Procuraduría, sea remitida al Sistema Estatal, salvo aquella que pueda comprometer el éxito de las investigaciones;
 
@@ -1537,7 +1563,17 @@ t) Cumplir y hacer cumplir con diligencia las órdenes que reciban con motivo de
 
 u) Fomentar la disciplina, responsabilidad, decisión, integridad, espíritu de cuerpo y profesionalismo, en sí mismo y en el personal bajo su mando; y
 
-v) Las demás que establezca esta Ley y otras disposiciones aplicables.
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+v) Recibir denuncias anónimas e inmediatamente hacerlo del conocimiento del Ministerio Público a efecto de que este coordine la investigación;
+
+> <small>(ADICIONADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+w) Entrevistar a las personas que pudieran aportar algún dato o elemento para la investigación, bajo la conducción y mando del Ministerio Público;
+
+> <small>(ADICIONADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+x) Las demás que establezca esta Ley y otras disposiciones aplicables.
 
 II. Aplicables sólo a los agentes del ministerio público:
 
@@ -2862,3 +2898,15 @@ TERCERO.- Las autoridades, en el ámbito de sus respectivas competencias, en un 
 CUARTO.- El ejecutivo del estado realizará las acciones necesarias para que los recursos humanos, materiales y financieros, sean transferidos de la Dirección General de Protección Civil a la Coordinación General de Protección Civil hasta por un término de noventa días naturales a partir de la entrada en vigor del presente Decreto.
 
 QUINTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor el mismo día que entre en vigor el Código Nacional de Procedimientos Penales, en el Estado de México.
+
+TERCERO.- La Secretaría de Seguridad Ciudadana y los municipios de la Entidad, con la entrada en vigor del presente Decreto, deberán contar con cuerpos especializados de policía, con capacidad para cumplir de manera eficaz y eficiente con las atribuciones que derivan de la entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de México.
+
+CUARTO.- El Titular del Ejecutivo Estatal reformará el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de México, antes de la entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de México.
+
+QUINTO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
