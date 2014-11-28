@@ -4,7 +4,7 @@ identifier: "CMX-ley-que-establece-el-derecho-a-recibir-un-apoyo-alimentario-633
 country: "mx"
 rank: "ley"
 publication_date: "2008-10-03"
-last_updated: "2008-10-03"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63384&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-09-18"
 
 LEY QUE ESTABLECE EL DERECHO A RECIBIR UN APOYO ALIMENTARIO A LAS MADRES SOLAS DE ESCASOS RECURSOS RESIDENTES EN EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 3 de octubre de 2008.
 
@@ -42,6 +42,8 @@ ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL IV LEGISLATURA.
 
 D E C R E T A
 
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO CUARTO DEL DECRETO SIN NÚMERO, PUBLICADO EN LA G.O. DE 28 DE NOVIEMBRE DE 2014, LAS REFERENCIAS QUE SE HAGAN DEL SALARIO MÍNIMO EN LAS NORMAS LOCALES VIGENTES, INCLUSO EN AQUELLAS PENDIENTES DE PUBLICAR O DE ENTRAR EN VIGOR, SE ENTENDERÁN HECHAS A LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO, A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.</small>
+
 DECRETO POR EL QUE SE EXPIDE LA LEY QUE ESTABLECE EL DERECHO A RECIBIR UN APOYO ALIMENTARIO A LAS MADRES SOLAS DE ESCASOS RECURSOS RESIDENTES EN EL DISTRITO FEDERAL.
 
 ###### ARTÍCULO 1.
@@ -54,13 +56,21 @@ Para efectos de esta Ley se consideran madres solas de escasos recursos:
 
 I. Las madres solteras o casadas, en concubinato, en sociedad en convivencia que acrediten documentalmente la solicitud de disolución del vínculo jurídico o demanda de alimentos para ella y sus hijos, o en caso excepcional mediante acta circunstanciada ante Juez Cívico; el Sistema para el Desarrollo Integral de la Familia del Distrito Federal podrá realizar los estudios socioeconómicos pertinentes para su verificación;
 
-II. Que tengan hijos menores de15 años; y
+II. Que tengan hijos menores de 15 años; y
 
-III. Que tengan un ingreso diario no superior a dos salarios mínimos generales vigentes en el Distrito Federal, incluyendo cualquier pago por derecho alimentarios.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+III. Que tengan un ingreso diario no superior a dos veces la Unidad de Cuenta de la Ciudad de México vigente, incluyendo cualquier pago por derecho (sic) alimentarios.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 3.
 
-Las madres solas de escasos recursos residentes en el Distrito Federal, tienen el derecho a recibir un Apoyo Alimentario mensual equivalente a cuatro días de salario mínimo general vigente en el Distrito Federal.
+Las madres solas de escasos recursos residentes en el Distrito Federal, tienen el derecho a recibir un Apoyo Alimentario mensual equivalente a cuatro veces la Unidad de Cuenta de la Ciudad de México vigente.
 
 ###### ARTÍCULO 4.
 
@@ -129,3 +139,15 @@ TERCERO.- El Jefe de Gobierno del Distrito Federal contará con 120 días natura
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veintinueve días del mes de agosto del año dos mil ocho.- POR LA MESA DIRECTIVA.- DIP. AGUSTÍN CARLOS CASTILLA MARROQUÍN, PRESIDENTE.- SECRETARIA, DIP. LETICIA QUEZADA CONTRERAS.- SECRETARIO, DIP. ALFREDO VINALAY MORA.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los dieciocho días del mes de septiembre del año dos mil ocho.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.-FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
