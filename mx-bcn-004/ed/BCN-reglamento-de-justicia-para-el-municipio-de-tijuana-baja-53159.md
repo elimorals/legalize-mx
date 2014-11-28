@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-justicia-para-el-municipio-de-tijuana-baja-53159"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-01-12"
-last_updated: "2013-04-26"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE JUSTICIA PARA EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 12 de enero de 2007.
 
@@ -557,9 +557,11 @@ XVI. Canalizar al Juzgado Integral Municipal, los asuntos que a éste le sean de
 
 XVII. Implementar las órdenes de protección de emergencia y preventivas, establecidas en la Ley de Acceso de la Mujeres a una Vida Libre de Violencia para el Estado de Baja California, en los casos de infracciones por violencia cometidas en contra de mujeres; procurando su protección a través de la Secretaria de Seguridad Pública Municipal en coordinación con la Unidad Operativa de Violencia Domestica, dentro de las facultades reguladas por el artículo 47 de la citada normatividad y demás aplicables.
 
-XVII (SIC). El Juez Municipal determinará las audiencias que deban desarrollarse a puerta cerrada;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-XVIII. Las demás que se deriven del presente Reglamento, y las que le confieren los diversos reglamentos Municipales.
+XVIII. Los Jueces o las Juezas Municipales verificarán, vigilarán y darán cabal seguimiento al cumplimiento de las sanciones administrativas impuestas en ejercicio de la competencia municipal por incumplimiento a la normatividad vigente en el Municipio de Tijuana, Baja California a los infractores o infractoras de la normatividad municipal, y
+
+XIX. Las demás que se deriven del presente Reglamento, y las que le confieren los diversos reglamentos Municipales.
 
 ### CAPITULO III. DEL PROCEDIMIENTO PARA SANCIONAR A PERSONAS DETENIDAS POR FALTAS AL BANDO DE POLICÍA Y GOBIERNO
 
@@ -573,17 +575,15 @@ Cuando elementos de la Policía y Tránsito Municipal, detengan a una persona qu
 
 La solicitud de nota médica y/o certificado de esencia, será obligatoria cuando los presuntos infractores sean arrestados, por conducir un vehículo de motor, bajo la influencia de alcohol o substancias tóxicas o cuando la persona detenida, haya cometido alguna conducta presuntamente delictiva.
 
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 56.
 
-Para el caso de infracciones cometidas bajo los efectos de bebidas embriagantes, enervantes o estupefacientes, el Juez Municipal que conozca de la infracción cometida, podrá imponer al infractor la obligación de asistir a pláticas con cualquier grupo de Alcohólicos Anónimos de la Localidad.
+Para el caso de infracciones cometidas bajo los efectos de bebidas embriagantes, enervantes o estupefacientes, el Juez o Jueza Municipal que conozca de la infracción cometida, deberá imponer al infractor o a la infractora la obligación de asistir a pláticas que ofrecerá la Dirección de Justicia Municipal, el Instituto Municipal Contra las de Adicciones dependiente de la Secretaría de Desarrollo Social Municipal y la Secretaría de Seguridad Pública Municipal.
 
-En los casos de infracciones que deriven de violencia familiar, el Juez Municipal, además de las sanciones que corresponda al infractor, recomendará su asistencia al Centro de Atención a la Violencia Familiar u organismo similar, a sesiones de terapia, de acuerdo a su diagnóstico y recomendaciones de los profesionales en la materia.
+En los casos de infracciones que deriven de violencia familiar, el Juez o la Jueza Municipal, además de las sanciones que correspondan al infractor o a la infractora, recomendará su asistencia al Centro de Atención a la Violencia Familiar u organismo similar, a sesiones de terapia, de acuerdo al diagnóstico y recomendaciones que realicen los o las profesionales en la materia.
 
-En los casos de infracciones que deriven de violencia familiar y/o contra las mujeres el Juez Municipal, remitirá al Infractor al Instituto Municipal de la Mujer en Tijuana, para efecto de que asista a las sesiones de terapia y reciba atención psicológica y capacitación sobre violencia.
-
-No se impondré sanción económica en los asuntos de violencia familiar y/o contra la mujer, si se comprueba que ello provoca dificultades al sustento de la víctima o sus hijos.
+En ambos casos el expediente del infractor o de la infractora, deberá turnarse al Juez o Jueza Municipal en turno para su conocimiento y seguimiento correspondientes.
 
 ###### Artículo 57.
 
@@ -1614,3 +1614,9 @@ P.O. 26 DE ABRIL DE 2013.
 PRIMERO.- EL PRESENTE ACUERDO ENTRARA EN VIGOR AL MOMENTO DE SU APROBACIÓN, MISMO QUE DEBERÁ PUBLICARSE EN LA GACETA MUNICIPAL DEL H. AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA.
 
 SEGUNDO.- NOTIFIQUESE POR MEDIO DE LA SECRETARIA GENERAL DE GOBIERNO MUNICIPAL, A LAS DEPENDENCIAS CORRESPONDIENTES DE ESTA ADMINISTRACION, PARA LA IMPLEMENTACION INMEDIATA DE LO HOY ACORDADO.
+
+P.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Estado de Baja California, órgano de difusión del Gobierno del Estado, y en la Gaceta Municipal.
