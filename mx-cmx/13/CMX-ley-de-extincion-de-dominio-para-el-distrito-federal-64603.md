@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-extincion-de-dominio-para-el-distrito-federal-64603"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-08"
-last_updated: "2014-05-07"
+last_updated: "2014-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64603&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-12-03"
 
 LEY DE EXTINCIÓN DE DOMINIO PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 8 de diciembre de 2008.
 
@@ -344,7 +344,7 @@ III. Que respecto de los bienes sobre los que se ejercitó la acción se ha emit
 
 > <small>(REFORMADO, G.O. 19 DE JULIO DE 2010)</small>
 
-también garantizará que los terceros ofrezcan pruebas conducentes para que se reconozcan sus derechos sobre los bienes materia de la acción; y las víctimas u ofendidos únicamente en lo relativo a la reparación del daño, cuando comparezca (sic) para tales efectos.
+también garantizará que los terceros ofrezcan pruebas conducentes para que se reconozcan sus derechos sobre los bienes materia de la acción; y las víctimas u ofendidos únicamente en lo relativo a la reparación del daño, cuando comparezca para tales efectos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -534,7 +534,11 @@ II. La fecha de la audiencia de desahogo de pruebas y formulación de alegatos; 
 
 III. Las demás determinaciones que considere pertinentes.
 
-La audiencia se celebrará estén o no presentes las partes, excepto el Ministerio Público, así como los peritos o testigos cuya presentación quedará a cargo de la parte que los ofrezca. La falta de asistencia de los peritos o testigos que el Juez haya citado para la audiencia, tampoco impedirá su celebración; pero se impondrá a los faltistas debidamente notificados una multa de hasta cien días de salario mínimo vigente en el Distrito Federal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+La audiencia se celebrará estén o no presentes las partes, excepto el Ministerio Público, así como los peritos o testigos cuya presentación quedará a cargo de la parte que los ofrezca. La falta de asistencia de los peritos o testigos que el Juez haya citado para la audiencia, tampoco impedirá su celebración; pero se impondrá a los faltistas debidamente notificados una multa de hasta cien veces la Unidad de Cuenta de la Ciudad de México vigente.
 
 De no ser posible por la hora o por cuestiones procesales, el Juez suspenderá la audiencia y citará para su continuación dentro de los tres días hábiles siguientes.
 
@@ -654,8 +658,6 @@ Contra el acuerdo que rechace medios de prueba ofrecidos en tiempo y forma, proc
 
 La revocación y la apelación se sustanciarán en los términos previstos en el Código de Procedimientos Civiles para el Distrito Federal.
 
-...
-
 ## TRANSITORIOS
 
 PRIMERO. - Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación.
@@ -697,3 +699,13 @@ SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Los procedimientos de extinción de dominio a los que se refiere la presente ley y que a la entrada en vigor del presente decreto se encuentren substanciándose, continuarán tramitándose de conformidad con la legislación aplicable en el momento del inicio de los mismos.
 
 Las autoridades ministerial y jurisdiccional seguirán conociendo de las acciones de extinción de dominio por los delitos señalados en las fracciones XVI y XVIII del artículo 2 de conformidad a los tipos penales contenidos en la legislación local al momento de los hechos, cuando se haya iniciado una averiguación previa, sustanciado proceso penal o dictado una sentencia previo a la entrada en vigor del presente decreto.
+
+G.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
