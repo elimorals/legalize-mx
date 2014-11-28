@@ -4,7 +4,7 @@ identifier: "TLA-codigo-penal-para-el-estado-libre-y-soberano-de-tlaxcala-94534"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-31"
-last_updated: "2013-12-05"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
 
 Código publicado en el No. 2 Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 31 de mayo de 2013.
 
@@ -36,6 +36,8 @@ Que por conducto de la Secretaría Parlamentaría del Honorable Congreso del Est
 EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA, A NOMBRE DEL PUEBLO DECRETA.
 
 DECRETO No. 161
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 58, PUBLICADO EN EL P.O. DE 28 DE NOVIEMBRE DE 2014, CUANDO LAS LEYES, REGLAMENTOS O CUALQUIER ORDENAMIENTO DE OBSERVANCIA GENERAL VIGENTE EN EL ESTADO DE TLAXCALA SE REFIERAN AL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE TLAXCALA, SE ENTENDERÁ QUE SE REFIEREN AL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL CINCO DE MARZO DE DOS MIL CATORCE, CONFORME A LAS REGLAS DE VIGENCIA ESTABLECIDAS EN EL ARTÍCULO TRANSITORIO ANTERIOR Y A LA DECLARATORIA EXPEDIDA POR EL CONGRESO DEL ESTADO CON FECHA VEINTIDÓS DE OCTUBRE DE DOS MIL CATORCE Y PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE FECHA VEINTITRÉS DE OCTUBRE DEL AÑO EN CURSO.</small>
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
@@ -81,11 +83,35 @@ No podrá aplicarse pena alguna, si la acción o la omisión no han sido realiza
 
 Igualmente se requerirá la acreditación de la culpabilidad del sujeto para la aplicación de una medida de seguridad, si ésta se impone accesoriamente a la pena y su duración estará en relación directa con el grado de aquélla. Para la imposición de las otras medidas penales será necesaria la existencia, al menos, de un hecho antijurídico, siempre que de acuerdo con las condiciones personales del autor, hubiera necesidad de su aplicación en atención a los fines de prevención del delito que con aquéllas pudieran alcanzarse.
 
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+No podrá restringirse ninguna garantía o derecho de la persona imputada, ni imponerse consecuencia jurídica alguna del delito, con base en la peligrosidad del agente o en los rasgos de su personalidad.
+
 ###### Artículo 6.
 
 Principio de jurisdiccionalidad.
 
 Sólo podrán imponerse penas o medidas de seguridad por resolución de autoridad judicial competente, mediante procedimiento seguido ante los tribunales previamente establecidos.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 6 Bis.
+
+Principios de proporcionalidad y presunción de inocencia.
+
+Para la imposición de cualquier consecuencia jurídica será necesaria la existencia, al menos, de una conducta típica antijurídica y culpable, siempre que de acuerdo con las circunstancias personales del sujeto activo, hubiera merecimiento, necesidad racional e idoneidad de su aplicación en atención a los fines de prevención especial del delito y de reinserción social que con aquéllas pudieran alcanzarse.
+
+Todo acusado será tenido como inocente mientras no se pruebe que se cometió el delito que se le imputa y que él lo perpetró.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 6 Ter.
+
+Aplicación del Código.
+
+Al presente Código le son aplicables enunciativamente los principios establecidos en los artículos 1, 13, 14, 16, 17, 18, 19, 20, 21, 22 y 38 de la Constitución Política de los Estados Unidos Mexicanos, las normas relativas a los derechos humanos y tratados internacionales, de los que el Estado mexicano sea parte, y las previstas en este Código.
+
+Queda prohibido todo acto u omisión, en cualquier fase del procedimiento, que vulnere la dignidad humana de la víctima o de la persona imputada. La infracción a este principio será sancionada con arreglo al ordenamiento jurídico aplicable.
 
 ## TÍTULO PRIMERO. LA LEY PENAL
 
@@ -140,6 +166,10 @@ En caso de haberse cubierto la reparación del daño no habrá lugar a solicitar
 Validez personal y edad penal.
 
 Las disposiciones de este código se aplicarán a todas las personas a partir de los dieciocho años de edad.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+A las personas menores de dieciocho años (sic) edad que realicen una conducta activa u omisiva prevista en algún tipo penal, se les aplicarán las disposiciones contenidas en las leyes correspondientes, por los órganos especializados destinados a ello y según las normas de procedimiento que las mismas establezcan.
 
 Este código se aplicará, por igual a todos los responsables de los delitos, sean nacionales o extranjeros, con la salvedad, por lo que hace a estos últimos, de las excepciones reconocidas en los tratados celebrados por el Estado Mexicano con otras naciones y en el derecho de reciprocidad.
 
@@ -201,7 +231,9 @@ Delito instantáneo, permanente o continuo y continuado.
 
 El delito atendiendo a su momento de consumación, puede ser:
 
-I. Instantáneo, cuando la consumación se agota en el mismo momento en que se han realizado todos sus elementos constitutivos;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+I. Instantáneo, cuando la consumación se agota en el mismo momento en que se han realizado todos los elementos de la descripción legal;
 
 II. Permanente o continuo, cuando la consumación se prolongó de una manera ininterrumpida durante un lapso mayor o menor de tiempo, y
 
@@ -493,7 +525,9 @@ El tratamiento en libertad de imputables podrá imponerse conjuntamente con las 
 
 En todo caso pena y medida deberán garantizar la dignidad y la libertad de conciencia del sentenciado.
 
-Esta medida no se concederá a los sentenciados por los delitos considerados graves en el Código de Procedimientos Penales.
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Esta medida no se concederá a los sentenciados por los delitos considerados como graves en el artículo 434 del presente Código ni en los delitos que ameritan prisión preventiva oficiosa en términos del Código Nacional de Procedimientos Penales.
 
 ### CAPÍTULO III. TRATAMIENTO EN SEMILIBERTAD
 
@@ -515,7 +549,9 @@ V. Cualquier otra forma compatible con las actividades a desarrollar por el sent
 
 Podrá imponerse como pena autónoma o como sustitutiva de la pena de prisión, en cuyo caso la duración no podrá exceder de la correspondiente a la pena de prisión sustituida.
 
-Esta medida no se concederá a los sentenciados por los delitos considerados como graves en el Código de Procedimientos Penales.
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Esta medida no se concederá a los sentenciados por los delitos considerados como graves en el artículo 434 del presente Código ni en los delitos que ameritan prisión preventiva oficiosa en términos del Código Nacional de Procedimientos Penales.
 
 ### CAPÍTULO IV. SANCIÓN PECUNIARIA
 
@@ -629,6 +665,10 @@ d) Los ascendientes consanguíneos o civiles, o
 
 e) Los parientes colaterales, consanguíneos o civiles, hasta el segundo grado.
 
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+III. Los demás que determine la legislación aplicable en materia de víctimas.
+
 ###### Artículo 50.
 
 Obligados a reparar el daño.
@@ -648,6 +688,10 @@ II. Los patrones, por los delitos que cometan sus trabajadores, con motivo y en 
 III. Las sociedades, asociaciones y agrupaciones, por los delitos que sus integrantes o representantes legales cometan en el ejercicio y con motivo de sus funciones y en cualquier caso, si la comisión del ilícito les hubiere significado un ingreso patrimonial, pero en este supuesto su obligación se limitará al importe del beneficio obtenido. Se exceptúa de esta regla a la sociedad conyugal, y
 
 IV. El Estado y los municipios responderán solidariamente por los delitos que cometan sus servidores públicos, con motivo del ejercicio de sus funciones.
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+V. Los demás que determine la legislación aplicable en materia de víctimas.
 
 Queda a salvo el derecho del Estado y los municipios para ejercitar las acciones correspondientes contra el servidor público responsable.
 
@@ -679,15 +723,19 @@ Otro destino de la reparación del daño.
 
 Si la víctima u ofendido renuncian o no cobran la reparación del daño dentro del plazo de tres meses, o no se encuentran identificados, el importe de ésta se entregará al Fondo de Protección a las Victimas de los Delitos y Ayuda a los Indigentes Procesados en el Estado de Tlaxcala.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 55.
 
 Exigibilidad de la reparación del daño.
 
-La reparación del daño, se exigirá de oficio por el Ministerio Público, con el que podrán coadyuvar la víctima y ofendido, sus derechohabientes o sus representantes en los términos que prevenga el Código de Procedimientos Penales.
+La reparación del daño, se exigirá de oficio por el Ministerio Público, con el que podrán coadyuvar la víctima y ofendido, sus derechohabientes o sus representantes en los términos que prevenga el Código Nacional de Procedimientos Penales.
 
 Sin perjuicio de lo anterior, la víctima también puede exigir directamente la reparación del daño.
 
-La reparación del daño que deba exigirse a terceros, tendrá el carácter de responsabilidad civil y se tramitará en forma de incidente, en los términos que fije el Código de Procedimientos Penales.
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+La reparación del daño que deba exigirse a terceros, tendrá el carácter de responsabilidad civil y se tramitará en forma de incidente, en los términos que fije el Código Nacional de Procedimientos Penales.
 
 Cuando sean varios las víctimas u ofendidos y no resulte posible satisfacer los derechos de todos, se cubrirán proporcionalmente los daños.
 
@@ -709,7 +757,9 @@ Podrá imponerse como pena autónoma o como sustitutiva de la pena de prisión o
 
 La extensión de la jornada de trabajo será fijada por la autoridad ejecutora, tomando en cuenta las circunstancias del caso.
 
-Este beneficio no se concederá a los sentenciados por los delitos considerados como graves en el Código de Procedimientos Penales.
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Este beneficio no se concederá a los sentenciados por los delitos considerados como graves en el artículo 434 del presente Código ni en los delitos que ameritan prisión preventiva oficiosa en términos del Código Nacional de Procedimientos Penales.
 
 ### CAPÍTULO VI. TRABAJO OBLIGATORIO PARA LA REPARACIÓN DEL DAÑO
 
@@ -746,6 +796,10 @@ La notificación a que se refiere el párrafo anterior se hará personalmente si
 En el caso de bienes que se encuentren a disposición de las autoridades investigadora o jurisdiccional que no se deban destruir y que no se puedan conservar o sean de costoso mantenimiento, se procederá a su venta inmediata en subasta pública y el producto se dejará a disposición de quien tenga derecho al mismo, por un lapso de cuatro meses a partir de la notificación que se le haga en los términos del párrafo anterior, transcurrido el cual, el producto se aplicará al Estado.
 
 Los productos, rendimientos o beneficios obtenidos por los sujetos activos o por otras personas, como resultado de su conducta ilícita serán decomisados y se destinarán en los términos del presente artículo.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+En lo no previsto en el presente Código en materia de decomiso, se estará a lo establecido en la Legislación correspondiente.
 
 ### CAPÍTULO IX. SUSPENSIÓN, PRIVACIÓN E INHABILITACIÓN DE DERECHOS Y FUNCIONES
 
@@ -795,7 +849,9 @@ La vigilancia de la autoridad tendrá los siguientes caracteres:
 
 I. La que se impone por disposición expresa de la ley;
 
-II. La que se podrá imponer, discrecionalmente a los responsables de los delitos considerados como graves en el Código de Procedimientos Penales, y
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+II. La que se podrá imponer, discrecionalmente a los responsables de los delitos considerados como graves en el artículo 434 del presente Código ni en los delitos que ameritan prisión preventiva oficiosa en términos del Código Nacional de Procedimientos Penales, y
 
 III. Aquellos casos en que la autoridad judicial lo considere conveniente.
 
@@ -941,7 +997,7 @@ a) Cometer el delito con el auxilio de otras personas. Particularmente si se tra
 
 b) Cometer el delito con motivo de una catástrofe pública o desgracia privada que hubiera sufrido la víctima u ofendido;
 
-c) Haber ocasionado el delito consecuencias sociales graves o haber puesto en peligro o afectado a un grupo o sector de la población, e (sic)
+c) Haber ocasionado el delito consecuencias sociales graves o haber puesto en peligro o afectado a un grupo o sector de la población, e
 
 d) La utilización para la comisión del delito, de habilidades o conocimientos obtenidos por haber pertenecido a un cuerpo de seguridad pública o privada;
 
@@ -959,7 +1015,7 @@ e) Facilitar el enjuiciamiento, reconociendo judicialmente su autoría o partici
 
 f) Proporcionar datos verídicos para la identificación o localización de otros autores o partícipes del delito, siempre que esto no haya sido ya demostrado con pruebas o datos previamente recabados;
 
-g) Haber reparado espontáneamente el daño hasta antes de la sentencia o haber intentado repararlo en su totalidad, e (sic)
+g) Haber reparado espontáneamente el daño hasta antes de la sentencia o haber intentado repararlo en su totalidad, e
 
 h) Ser mayor de setenta años.
 
@@ -1047,7 +1103,7 @@ a) La mayor o menor facilidad de prever y evitar el daño que resultó;
 
 b) Si para ello bastaban una reflexión o atención ordinaria y conocimiento comunes en algún arte o ciencia;
 
-c) Si tuvo tiempo para obrar con la reflexión y cuidado necesarios, e (sic)
+c) Si tuvo tiempo para obrar con la reflexión y cuidado necesarios, e
 
 d) El estado del equipo, vías y demás condiciones de funcionamiento mecánico; tratándose de infracciones cometidas en los servicios de empresas transportadoras y en general por conductores de vehículos.
 
@@ -1287,7 +1343,9 @@ Procedencia de la extinción.
 
 La resolución sobre la extinción punitiva se dictará de oficio o a solicitud de parte.
 
-Las penas y medidas de seguridad ya impuestas, que deban extinguirse por alguno de los supuestos a que se refieren las fracciones III y VIII del artículo anterior, estarán sujetas al recurso de revisión previsto en el Código de Procedimientos Penales.
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Las penas y medidas de seguridad ya impuestas, que deban extinguirse por alguno de los supuestos a que se refieren las fracciones III y VIII del artículo anterior, serán impugnables en términos de lo que disponga el Código Nacional de Procedimientos Penales.
 
 ###### Artículo 107.
 
@@ -1799,7 +1857,7 @@ a) Otorgue concesiones de prestación de servicio público o de explotación, ap
 
 b) Otorgue permisos, licencias o autorizaciones de contenido económico;
 
-c) Otorgue franquicias, exenciones, deducciones o subsidios sobre impuestos, derechos, productos, aprovechamientos o aportaciones y cuotas de seguridad social, en general sobre los ingresos fiscales y sobre precios y tarifas de los bienes y servicios producidos o prestados por la administración pública del Estado, e (sic)
+c) Otorgue franquicias, exenciones, deducciones o subsidios sobre impuestos, derechos, productos, aprovechamientos o aportaciones y cuotas de seguridad social, en general sobre los ingresos fiscales y sobre precios y tarifas de los bienes y servicios producidos o prestados por la administración pública del Estado, e
 
 d) Otorgue, realice o contrate obras públicas, deuda, adquisiciones, arrendamientos, enajenaciones de bienes o servicios o colocaciones de fondos y valores con recursos económicos públicos.
 
@@ -1809,7 +1867,7 @@ Al culpable se le impondrán las siguientes penas:
 
 a) Cuando el monto de las operaciones no exceda del equivalente de noventa veces el salario mínimo diario vigente en el Estado en el momento de cometerse el delito, se impondrán de tres meses a dos años de prisión y multa de dieciocho a ciento cuarenta y cuatro días de salario;
 
-b) Cuando el monto de las operaciones exceda del equivalente a noventa veces el salario mínimo diario vigente en el Estado en el momento de cometerse el delito, se impondrán de dos a nueve años de prisión y multa de ciento cuarenta y cuatro a seiscientos cuarenta y ocho días de salario, e (sic)
+b) Cuando el monto de las operaciones exceda del equivalente a noventa veces el salario mínimo diario vigente en el Estado en el momento de cometerse el delito, se impondrán de dos a nueve años de prisión y multa de ciento cuarenta y cuatro a seiscientos cuarenta y ocho días de salario, e
 
 c) Cuando no sea posible cuantificar el monto de las operaciones, se aplicará una pena de tres meses a un año de prisión y multa de dieciocho a setenta y dos días de salario.
 
@@ -1935,9 +1993,11 @@ Se le impondrán la mitad de las penas previstas para el delito de enriquecimien
 
 Se impondrá de tres meses a un año de prisión y multa de dieciocho a setenta y dos días de salario, al que sin causa legítima rehusare prestar un servicio de interés público a que la ley lo obligue o desobedeciere un mandato legítimo de la autoridad.
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 177.
 
-Se impondrá de veinte a cien días de salario, al que debiendo ser examinado por la autoridad, sin que le aprovechen las excepciones constitucionales ni las establecidas por este código o el Código de Procedimientos Penales, se niegue a otorgar la protesta de ley o a declarar.
+Se impondrá multa de veinte a cien días de salario, al que debiendo ser examinado por la autoridad, sin que le aprovechen las excepciones constitucionales ni las establecidas por este código o el Código Nacional de Procedimientos Penales, se niegue a otorgar la protesta de ley o a declarar.
 
 ###### Artículo 178.
 
@@ -2065,6 +2125,10 @@ VIII. Fabrique, altere o simule elementos de prueba para incriminar o exculpar a
 
 IX. Retarde deliberadamente el ejercicio de la acción penal.
 
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+X. Perturbe el lugar de los hechos relacionado con un hecho delictivo o el procedimiento de cadena de custodia.
+
 ### CAPÍTULO III. TORTURA
 
 ###### Artículo 189.
@@ -2109,7 +2173,9 @@ III. Ordene la práctica de cateos o visitas domiciliarias fuera de los casos au
 
 IV. No resuelva sobre la vinculación a proceso del imputado, dentro del plazo señalado en la Constitución Política de los Estados Unidos Mexicanos;
 
-V. Prolongue injustificadamente la prisión preventiva, por más tiempo del que como máximo fija la Constitución Política de los Estados Unidos Mexicanos y el Código de Procedimientos Penales;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+V. Prolongue injustificadamente la prisión preventiva, por más tiempo del que como máximo fija la Constitución Política de los Estados Unidos Mexicanos y el Código Nacional de Procedimientos Penales;
 
 VI. Demore injustificadamente el cumplimiento de la resolución judicial en la que se ordena poner en libertad a un detenido, y
 
@@ -2315,7 +2381,9 @@ I. Ayude en cualquier forma al sujeto activo a eludir las investigaciones de la 
 
 II. Oculte o favorezca el ocultamiento del autor o participe del delito,
 
-III. Oculte, altere, inutilice, destruya, remueva o haga desaparecer los indicios, instrumentos, productos u otros objetos del delito;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+III. Oculte, altere, inutilice, destruya, remueva o haga desaparecer los indicios, instrumentos, productos u otros objetos del delito o perturbe el lugar de los hechos relacionado con un hecho delictivo o el procedimiento de cadena de custodia;
 
 IV. Oculte o asegure el instrumento, el objeto, producto o provecho del delito;
 
@@ -2359,9 +2427,37 @@ Al que prive de la vida a otro en riña se le impondrá la mitad o cinco sextos 
 
 A quien cometa homicidio calificado se le impondrá de veinte a cincuenta años de prisión y multa de mil cuatrocientos cuarenta a tres mil seiscientos días de salario.
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 229.
 
-A quién cometa feminicidio se le impondrán de treinta a setenta años de prisión y multa de dos mil ciento setenta a cuatro mil seiscientos veinte días de salario.
+Comete el delito de feminicidio quien, por razones de género, prive de la vida a una mujer.
+
+Existen razones de género cuando se presente cualquiera de los siguientes supuestos:
+
+I. Se actualice violencia de género; entendiéndose por ésta, la comisión del delito asociada a la exclusión, subordinación, discriminación o explotación de la sujeto pasivo;
+
+II. El sujeto activo haya ejecutado conductas sexuales, crueles o degradantes, o mutile a la pasivo o el cadáver de ésta;
+
+III. Existan antecedentes o datos de cualquier tipo de violencia en el ámbito familiar, laboral o escolar, del sujeto activo en contra de la víctima;
+
+IV. Existan datos que establezcan que hubo amenazas relacionadas con el hecho delictuoso, acoso, violencia, o lesiones del sujeto activo en contra de la víctima; o
+
+V. El cadáver de la víctima sea expuesto, depositado o arrojado en un lugar público.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 229 Bis.
+
+A quien cometa feminicidio se le impondrán de treinta a setenta años de prisión y multa de dos mil ciento setenta a cuatro mil seiscientos veinte días de salario.
+
+Si entre el activo y la víctima existió una relación sentimental, afectiva, de confianza o de parentesco, laboral, docente o cualquiera que implique subordinación o superioridad, y se acredita cualquiera de los supuestos establecidos en el artículo anterior, se impondrán de cuarenta a setenta años de prisión y multa de dos mil ciento setenta a cuatro mil seiscientos veinte días de salario.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 229 Ter.
+
+Además de las sanciones descritas en el artículo anterior, el sujeto activo será condenado a la pérdida de los derechos que le asistieran con relación a los bienes o patrimonio de la víctima, al momento de cometer el delito; así como los que hubiera tenido respecto a su persona, si no se consumare, quedando en tentativa.
 
 ###### Artículo 230.
 
@@ -2451,15 +2547,7 @@ Igualmente el homicidio y las lesiones serán calificados cuando en su ejecució
 
 ###### Artículo 240.
 
-El homicidio doloso de una mujer, se considerará feminicidio cuando se actualice alguna de las siguientes circunstancias:
-
-a) Por razón de violencia de género; entendiéndose por ésta, la privación de la vida asociada a la exclusión, subordinación, discriminación o explotación del sujeto pasivo;
-
-b) Se cometa en contra de persona con quien se haya tenido una relación sentimental, afectiva o de confianza, o haya estado vinculada con el sujeto activo por una relación de hecho en su centro de trabajo o institución educativa, o por razones de carácter técnico o profesional, y existan con antelación conductas que hayan menoscabado o anulado los derechos, o atentado contra la dignidad del pasivo;
-
-c) El sujeto activo haya ejecutado conductas sexuales, crueles o degradantes, o mutile al pasivo o el cuerpo del pasivo, o
-
-d) Existan con antelación actos que constituyan violencia familiar del sujeto activo hacia el pasivo.
+(DEROGADO, P.O. 28 DE NOVIEMBRE DE 2014)
 
 ### CAPÍTULO IV. ABORTO
 
@@ -2467,7 +2555,7 @@ d) Existan con antelación actos que constituyan violencia familiar del sujeto a
 
 > <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
 
-###### Articulo 241.
+###### Artículo 241.
 
 El aborto es la expulsión del producto de la preñez antes del tiempo en que el feto puede vivir.
 
@@ -2475,7 +2563,7 @@ El aborto es la expulsión del producto de la preñez antes del tiempo en que el
 
 > <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
 
-###### Articulo 242.
+###### Artículo 242.
 
 Se impondrá de quince días a dos meses de prisión y multa de dieciocho a treinta y seis días de salario, a la madre que voluntariamente procure el aborto o consienta en que otro la haga abortar.
 
@@ -2489,7 +2577,7 @@ Si el aborto lo causare un médico, cirujano, comadrón o partera, además de la
 
 > <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
 
-###### Articulo 243.
+###### Artículo 243.
 
 No es punible el aborto causado por la imprudencia de la mujer embarazada, ni cuando el embarazo sea el resultado de una violación o de inseminación artificial no consentida conforme al artículo 297 de este Código.
 
@@ -3051,7 +3139,7 @@ V. De seis a doce años de prisión y multa de cuatrocientos treinta y dos a och
 
 ###### Artículo 324.
 
-Para estimar la cuantía del robo se atenderá al valor comercial de la cosa robada al momento del apoderamiento, pero si por alguna circunstancia no fuera estimable en dinero o si por su naturaleza no fuera posible fijar su valor, se aplicarán de seis meses a cinco años de prisión y multa de treinta y seis a trescientos sesenta días de salario; (sic)
+Para estimar la cuantía del robo se atenderá al valor comercial de la cosa robada al momento del apoderamiento, pero si por alguna circunstancia no fuera estimable en dinero o si por su naturaleza no fuera posible fijar su valor, se aplicarán de seis meses a cinco años de prisión y multa de treinta y seis a trescientos sesenta días de salario;
 
 ###### Artículo 325.
 
@@ -3168,6 +3256,18 @@ III. Expedir certificados falsos para obtener guías, simulando ventas, o los ut
 IV. Extraer los dispositivos electrónicos de identificación, y
 
 V. Al que se apodere de una o más cabezas de ganado propio que se halle en poder de otro, en virtud de una relación contractual o por mandato de autoridad.
+
+> <small>N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL NÚMERO EXTRAORDINARIO DEL P.O. DE 28 DE NOVIEMBRE DE 2014, PÁGINA 2.</small>
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+VI. A quien sin haber tomado las medidas necesarias para cerciorarse de su procedencia legítima, compre, venda, cambie o transporte ganado robado, carne o pieles u otros derivados de igual procedencia productos del robo de ganado, y
+
+> <small>N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL NÚMERO EXTRAORDINARIO DEL P.O. DE 28 DE NOVIEMBRE DE 2014, PÁGINA 2.</small>
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+VII. A las autoridades que intervengan en la indebida legalización de documentos u operaciones conociendo la ilegitima procedencia del ganado.
 
 Iguales sanciones se aplicarán:
 
@@ -4055,11 +4155,59 @@ III. Propalen dolosamente noticias de los avances y resultados de la jornada ele
 
 Por la comisión de cualquiera de los delitos comprendidos en este capítulo, se impondrá además de la pena señalada, la suspensión de derechos políticos por el tiempo que dure la sanción.
 
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 434.
+
+De los delitos señalados en el presente ordenamiento, se consideran como delitos graves o que ameritan prisión preventiva oficiosa los siguientes:
+
+I. Homicidio doloso y su tentativa previsto en los artículos 19, 79, 224 a 228, 230 y 231;
+
+II. Rebelión previsto en los artículos 138 a 141;
+
+III. Evasión de Presos previsto en los artículos 200 y 201;
+
+IV. Terrorismo previsto en los artículos 134 a 136;
+
+V. Peligro de Contagio contenido en el artículo 302;
+
+VI. Delitos contra la formación de las personas menores de edad y protección integral de personas que no tienen la capacidad para comprender el significado del hecho que señalan los artículos 355 a 357;
+
+VII. Trata de Personas previsto en el artículo 284;
+
+VIII. Violación y su tentativa previsto en los artículos 19, 79, 285 a 289;
+
+IX. Retención o Sustracción de Menores o Incapaces contenido en el artículo 261;
+
+X. Asalto contenido en los artículos 271 a 273;
+
+XI. Secuestro y su tentativa previsto en el artículo 283;
+
+XII. Lesiones previsto en los artículos 232 fracción VII y 237 a excepción de los supuestos previstos en las fracciones I a VI del artículo 232;
+
+XIII. Ayuda o Inducción al Suicidio previsto en los artículos 244 a 246 y 248;
+
+XIV. Aborto contenido en el párrafo tercero del artículo 242;
+
+XV. Feminicidio previsto en los artículos 229, 229 bis y 229 ter;
+
+XVI. Extorsión previsto en los artículos 268 al 270;
+
+XVII. Robo Calificado previsto en los artículos 328, 329 fracción VI y 330;
+
+XVIII. Robo de Ganado previsto en los artículos 331 al 334, y
+
+XIX. Daños previstos en los artículos 349 y 350 párrafo segundo.
+
 ## TRANSITORIOS
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO PRIMERO.
 
-El presente Código entrará en vigor al día siguiente en que entre en vigencia el nuevo "Código de Procedimientos Penales para el Estado Libre y Soberano de Tlaxcala"; salvo en lo que se refiere a los delitos contra la salud en su modalidad de narcomenudeo previsto en el artículo 309 del presente decreto, que entró en vigor el 21 de agosto del año 2012. Una vez que haya entrado en vigor el presente código, se abrogará el Código Penal para el Estado Libre y Soberano de Tlaxcala, publicado, mediante Decreto número 108, en el Periódico Oficial del Gobierno del Estado, Tomo LXXIV, Número 1, de fecha 2 de enero de 1980.
+El presente Código deberá publicarse en el Periódico Oficial del Gobierno del Estado de Tlaxcala y entrará en vigor el día treinta y uno de diciembre de dos mil catorce en todo el territorio del Estado de Tlaxcala, salvo en lo que se refiere a los Delitos contra la Salud en su modalidad de Narcomenudeo previstos en el artículo 309 de este ordenamiento, el cual entrará en vigor el día treinta y uno de diciembre de dos mil quince.
+
+Una vez que entre en vigor el presente Código, sé abrogará el Código Penal para el Estado Libre y Soberano de Tlaxcala, contenido en el Decreto número 108, publicado en el Periódico Oficial del Gobierno del Estado, Tomo LXXIV, Número 1, de fecha dos de enero de mil novecientos ochenta.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -4116,3 +4264,23 @@ P.O. 5 DE DICIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor en el momento en que cobre vigencia el nuevo Código Penal y de Procedimientos Penales para el Estado Libre y Soberano de Tlaxcala, en los términos del Artículo Primero Transitorio del Decreto Número 175, publicado en el Periódico Oficial del Gobierno del Estado el día 29 de mayo de 2013.
+
+P.O. 28 DE NOVIEMBRE DE 2014.
+
+DECRETO No. 54 POR EL QUE SE SE REFORMA EL ARTÍCULO 229, SE ADICIONAN LOS ARTÍCULOS 229 BIS Y 229 TER Y SE DEROGA EL NUMERAL 240 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA, CONTENIDO EN EL DECRETO NÚMERO 161 EMITIDO POR EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO EL TREINTA Y UNO DE MAYO DEL AÑO DOS MIL TRECE.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor, simultáneamente al Código Penal para el Estado Libre y Soberano de Tlaxcala, contenido en el Decreto número 161, publicado en el Periódico Oficial del Gobierno del Estado, el día treinta y uno de mayo del año dos mil trece.
+
+P.O. 28 DE NOVIEMBRE DE 2014.
+
+DECRETO No. 58 POR EL QUE SE SE REFORMAN LA FRACCIÓN I DEL ARTICULO 16; EL PÁRRAFO SEXTO DEL ARTICULO 39; PÁRRAFO ULTIMO DEL ARTICULO 40; LOS PÁRRAFOS PRIMERO Y TERCERO DEL ARTICULO 55; EL PÁRRAFO ULTIMO DEL ARTICULO 57; LA FRACCIÓN II DEL ARTÍCULO 63; EL PÁRRAFO TERCERO DEL ARTICULO 106; 177, LA FRACCIÓN V DEL ARTÍCULO 193, LA FRACCIÓN III DEL ARTÍCULO 220 Y ARTÍCULO PRIMERO TRANSITORIO Y SE ADICIONAN UN PÁRRAFO CUARTO AL ARTÍCULO 5; LOS ARTÍCULOS 6 BIS Y 6 TER; UN PÁRRAFO SEGUNDO RECORRIÉNDOSE EL SUBSECUENTE AL ARTÍCULO 11; UNA FRACCIÓN III AL ARTÍCULO 49; UNA FRACCIÓN V AL ARTÍCULO 50; UN PÁRRAFO NOVENO AL ARTÍCULO 60; UNA FRACCIÓN X AL ARTÍCULO 188; LAS FRACCIONES VI Y VII AL ARTÍCULO 334, Y UN ARTICULO 434, TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA, EXPEDIDO MEDIANTE DECRETO NÚMERO 161, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO, NUMERO 2 EXTRAORDINARIO, SEGUNDA ÉPOCA, TOMO XCII, DE FECHA TREINTA Y UNO DE MAYO DE DOS MIL TRECE.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala, a excepción de la reforma al artículo 93 del Código de Procedimientos Penales para el Estado Libre y Soberano de Tlaxcala, publicado en el Periódico Oficial del Gobierno del Estado el dos de enero de mil novecientos ochenta, la cual entrará en vigor el día treinta y uno de diciembre de dos mil catorce de manera simultánea con el nuevo Código Penal para el Estado Libre y Soberano de Tlaxcala publicado en el Periódico Oficial del Gobierno del Estado el treinta y uno de mayo de dos mil trece.
+
+###### ARTÍCULO SEGUNDO.
+
+Cuando las leyes, reglamentos o cualquier ordenamiento de observancia general vigente en el Estado de Tlaxcala se refieran al Código de Procedimientos Penales del Estado de Tlaxcala, se entenderá que se refieren al Código Nacional de Procedimientos Penales publicado en el Diario Oficial de la Federación del cinco de marzo de dos mil catorce, conforme a las reglas de vigencia establecidas en el artículo transitorio anterior y a la Declaratoria expedida por el Congreso del Estado con fecha veintidós de octubre de dos mil catorce y publicada en el Periódico Oficial del Gobierno del Estado de fecha veintitrés de octubre del año en curso.
