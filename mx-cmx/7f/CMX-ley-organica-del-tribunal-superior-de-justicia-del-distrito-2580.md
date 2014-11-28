@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-tribunal-superior-de-justicia-del-distrito-258
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-01-29"
-last_updated: "2014-06-09"
+last_updated: "2014-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2580&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-01-09"
 
 LEY ORGÁNICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 29 de enero de 1996 y republicada en la Sección Primera del Diario Oficial de la Federación, el miércoles 7 de febrero de 1996.
 
@@ -114,7 +114,7 @@ X. La Secretaría de Educación;
 
 XI. La Secretaría de Desarrollo Social;
 
-XII. Sistema para el Desarrollo Integral de la Familia, y (sic)
+XII. Sistema para el Desarrollo Integral de la Familia, y
 
 XIII. La Secretaría de Seguridad Pública y la Policía adscrita a la Procuraduría General de Justicia del Distrito Federal, y
 
@@ -710,7 +710,7 @@ III. De las excusas y recusaciones de los Jueces Penales del Tribunal Superior d
 
 IV. Del conflicto competencial que se susciten en materia penal entre las autoridades judiciales del Tribunal Superior de Justicia del Distrito Federal;
 
-V. De las contiendas de acumulación que se susciten en materia penal, entre las autoridades que expresa la fracción anterior, y (sic)
+V. De las contiendas de acumulación que se susciten en materia penal, entre las autoridades que expresa la fracción anterior, y
 
 > <small>(ADICIONADA, G.O. 13 DE MARZO DE 2014)</small>
 
@@ -1140,7 +1140,7 @@ Los Secretarios de Acuerdos adscritos a los juzgados de justicia oral civil tend
 
 Los Secretarios adscritos a los Juzgados Penales y de Justicia para Adolescentes, tienen las obligaciones y atribuciones que establece esta ley en los artículos 57 y 58 en lo que sean compatibles, y además deberán:
 
-I. Practicar aseguramientos o cualquier otra diligencia que deba llevarse a cabo con arreglo a la Ley o determinación judicial y ejecutar, en su caso, las decisiones del Juez en cuanto a la entrega de los bienes materia del delito que no competa hacerlo a autoridad diversa, y (sic)
+I. Practicar aseguramientos o cualquier otra diligencia que deba llevarse a cabo con arreglo a la Ley o determinación judicial y ejecutar, en su caso, las decisiones del Juez en cuanto a la entrega de los bienes materia del delito que no competa hacerlo a autoridad diversa, y
 
 > <small>(ADICIONADA, G.O. 13 DE MARZO DE 2014)</small>
 
@@ -1540,7 +1540,7 @@ Los Juzgados Penales de Delitos No Graves conocerán:
 
 > <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
-I. De los delitos no graves así definidos por la ley penal, y (sic)
+I. De los delitos no graves así definidos por la ley penal, y
 
 > <small>(ADICIONADA, G.O. 13 DE MARZO DE 2014)</small>
 
@@ -2088,81 +2088,63 @@ En caso de que la parte favorecida con el resultado del juicio haya sido asesora
 
 Las costas en Primera Instancia se causarán conforme a las siguientes bases:
 
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-a) Cuando el monto del negocio no exceda del equivalente a tres mil días de salario mínimo general vigente en el Distrito Federal, se causará el 10%;
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-(REFORMADO, G.O. 24 DE ABRIL DE 2003) (F. DE E., G.O. 1 DE JULIO DE 2003)
+a) Cuando el monto del negocio no exceda del equivalente a tres mil veces la Unidad de Cuenta de la Ciudad de México vigente, se causará el 10%;
 
-b) Cuando el monto del negocio exceda del equivalente a tres mil días de salario mínimo general vigente en el Distrito Federal y sea hasta de seis mil días de salario mínimo general vigente en el Distrito Federal, se causará el 8%; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-c) Cuando el monto del negocio exceda del equivalente a seis mil días de salario mínimo general vigente en el Distrito Federal, se causará el 6%.
+b) Cuando el monto del negocio exceda del equivalente a tres mil veces la Unidad de Cuenta de la Ciudad de México vigente y sea hasta de seis mil veces la Unidad de Cuenta de la Ciudad de México vigente, se causará el 8%; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+c) Cuando el monto del negocio exceda del equivalente a seis mil veces la Unidad de Cuenta de la Ciudad de México vigente, se causará el 6%.
 
 > <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 Si el asunto tuviere que resolverse a través de una segunda instancia, las cuotas anteriores se aumentarán en 2%.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 129.
 
-En los negocios de cuantía indeterminada se causarán las costas siguientes:
+En los negocios de cuantía indeterminada se causaran las costas siguientes:
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+I. Por el estudio del negocio para plantear la demanda, el equivalente a cien veces la Unidad de Cuenta de la Ciudad de México vigente;
 
-I. Por el estudio del negocio para plantear la demanda, el equivalente a cien días de salario mínimo general vigente en el Distrito Federal;
+II. Por el escrito de demanda, el equivalente a sesenta veces la Unidad de Cuenta de la Ciudad de México vigente;
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+III. Por el escrito de contestación a la demanda, el equivalente a sesenta veces la Unidad de Cuenta de la Ciudad de México vigente;
 
-II. Por el escrito de demanda, el equivalente a sesenta días de salario mínimo general vigente en el Distrito Federal;
+IV. Por la lectura de escritos o promociones presentados por el contrario, por foja, el equivalente a cinco veces la Unidad de Cuenta de la Ciudad de México vigente;
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+II (SIC). Por el escrito en que se promueva un incidente o recurso del que deba conocer el mismo juez de los autos, o se evacue el traslado o vistas de promociones de la contraria, el equivalente a diez veces la Unidad de Cuenta de la Ciudad de México vigente;
 
-III. Por el escrito de contestación a la demanda, el equivalente a sesenta días de salario mínimo general vigente en el Distrito Federal;
+VI. Por cada escrito proponiendo pruebas, el equivalente a veinte veces la Unidad de Cuenta de la Ciudad de México vigente;
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+VII. Por cada interrogatorio de posiciones a la contraria, de preguntas o repreguntas a los testigos, o cuestionarios a los peritos, por hoja, el equivalente a cinco veces la Unidad de Cuenta de la Ciudad de México vigente;
 
-IV. Por la lectura de escritos o promociones presentados por el contrario, por foja, el equivalente a cinco días de salario mínimo general vigente en el Distrito Federal;
+VIII. Por la asistencia a juntas, audiencias o diligencias en el local del Juzgado, por cada hora o fracción, el equivalente a ocho veces la Unidad de Cuenta de la Ciudad de México vigente;
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+IX. Por la asistencia a cualquier diligencia fuera del juzgado, por cada hora o fracción, contada a partir de la salida del Juzgado, el equivalente a diez veces la Unidad de Cuenta de la Ciudad de México vigente;
 
-V. Por el escrito en que se promueva un incidente o recurso del que deba conocer el mismo juez de los autos, o se evacue el traslado o vistas de promociones de la contraria, el equivalente a diez días de salario mínimo general vigente en el Distrito Federal;
+X. Por la notificación o vista de proveídos, el equivalente a cinco veces la Unidad de Cuenta de la Ciudad de México vigente;
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+XI. Por notificación o vista de sentencia, el equivalente a ocho veces la Unidad de Cuenta de la Ciudad de México vigente;
 
-VI. Por cada escrito proponiendo pruebas, el equivalente a veinte días de salario mínimo general vigente en el Distrito Federal;
+Las costas a que se refiere esta fracción y la anterior, se cobrarán sólo cuando conste en autos que el abogado fue notificado directamente por el actuario. En cualquier otro caso, por cada notificación se cobrará el equivalente a dos veces la Unidad de Cuenta de la Ciudad de México vigente, siempre que la promoción posterior revele que el abogado tuvo conocimiento del proveído o sentencia relativos;
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+XII. Por los alegatos en lo principal, según la importancia o dificultad del caso a juicio del Juez, el equivalente a seis y hasta doce veces la Unidad de Cuenta de la Ciudad de México vigente, y
 
-VII. Por cada interrogatorio de posiciones a la contraria, de preguntas o repreguntas a los testigos, o cuestionarios a los peritos, por hoja, el equivalente a cinco días de salario mínimo vigente en el Distrito Federal;
-
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
-
-VIII. Por la asistencia a juntas, audiencias o diligencias en el local del Juzgado, por cada hora o fracción, el equivalente a ocho días de salario mínimo general vigente en el Distrito Federal;
-
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
-
-IX. Por la asistencia a cualquier diligencia fuera del juzgado, por cada hora o fracción, contada a partir de la salida del Juzgado, el equivalente a diez días de salario mínimo general vigente en el Distrito Federal;
-
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
-
-X. Por la notificación o vista de proveídos, el equivalente a cinco días de salario mínimo general vigente en el Distrito Federal; y
-
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
-
-XI. Por notificación o vista de sentencia, el equivalente a ocho días de salario mínimo general vigente en el Distrito Federal;
-
-Las costas a que se refiere esta fracción y la anterior, se cobrarán sólo cuando conste en autos que el abogado fue notificado directamente por el actuario. En cualquier otro caso, por cada notificación se cobrará el equivalente a dos días de salario mínimo general vigente en el Distrito Federal, siempre que la promoción posterior revele que el abogado tuvo conocimiento del proveído o sentencia relativos;
-
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
-
-XII. Por los alegatos en lo principal, según la importancia o dificultad del caso a juicio del Juez, el equivalente a seis y hasta doce días de salario mínimo general vigente en el Distrito Federal, y
-
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
-
-XIII. Por el escrito de agravios o contestación de los mismos, el equivalente a cien días de salario mínimo general vigente en el Distrito Federal.
-
-Las cantidades a que se refiere este artículo serán actualizadas conforme al incremento anualizado que se dé en el Indice Nacional de Precios al Consumidor señalado por el Banco de México.
+XIII. Por el escrito de agravios o contestación de los mismos, el equivalente a cien veces la Unidad de Cuenta de la Ciudad de México vigente.
 
 ###### Artículo 130.
 
@@ -2178,11 +2160,13 @@ Los abogados que intervengan en juicios civiles o mercantiles por derecho propio
 
 #### SECCION PRIMERA. De los Interventores y Albaceas Judiciales
 
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 132.
 
-En los juicios sucesorios, los interventores y albaceas judiciales cobrarán el 4% del importe de los bienes, si no exceden de ocho mil días de salario mínimo general vigente en el Distrito Federal, si exceden de esta suma, pero no del equivalente a veinticuatro mil días de salario mínimo general vigente en el Distrito Federal, cobrará además el 2% sobre el exceso; si excediere del equivalente a veinticuatro mil días de salario mínimo general vigente en el Distrito Federal cobrará además el 1 % sobre la cantidad excedente.
+En los juicios sucesorios, los interventores y albaceas judiciales cobrarán el 4% del importe de los bienes, si no exceden de ocho mil veces la Unidad de Cuenta de la Ciudad de México vigente, si exceden de esta suma, pero no del equivalente a veinticuatro mil veces la Unidad de Cuenta de la Ciudad de México vigente, cobrará además el 2% sobre el exceso; si excediere del equivalente a veinticuatro mil veces la Unidad de Cuenta de la Ciudad de México vigente cobrará además el 1% sobre la cantidad excedente.
 
 #### SECCION SEGUNDA. De los Depositarios
 
@@ -2220,9 +2204,17 @@ Cuando el secuestro recaiga sobre créditos, el depositario, además de los hono
 
 Los intérpretes y traductores podrán cobrar por honorarios, hasta un máximo de lo señalado en los casos siguientes:
 
-I. Por asistencia ante las autoridades judiciales para traducir declaraciones en lenguas indígenas o en idioma extranjero, por cada hora o fracción, el equivalente a cinco días de salario mínimo general vigente en el Distrito Federal; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Por traducción de cualquier documento, por hoja, el equivalente a dos días de salario mínimo general vigente en el Distrito Federal.
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+I. Por asistencia ante las autoridades judiciales para traducir declaraciones en lenguas indígenas o en idioma extranjero, por cada hora o fracción, el equivalente a cinco veces la Unidad de Cuenta de la Ciudad de México vigente; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+II. Por traducción de cualquier documento, por hoja, el equivalente a dos veces la Unidad de Cuenta de la Ciudad de México vigente.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2236,13 +2228,17 @@ Los peritos de las diferentes especialidades que prestan sus servicios como auxi
 
 I. En asuntos relacionados con valuación, el 2.5 al millar del valor de los bienes por valuar;
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. En exámenes de grafoscopía, dactiloscopía y de cualquier otra técnica, veinte días de salario mínimo general vigente en el Distrito Federal, y
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+II. En exámenes de grafoscopía, dactiloscopía y de cualquier otra técnica, veinte veces la Unidad de Cuenta de la Ciudad de México vigente, y
 
-III. En los negocios de cuantía indeterminada, los peritos cobrarán hasta doscientos cuarenta días de salario mínimo general vigente en el Distrito Federal, cantidad que se determinará por el Juzgador, tomando en cuenta la naturaleza del negocio y la complejidad de la materia sobre la que verse el peritaje. Dicha cantidad se actualizará en términos de lo dispuesto por el último párrafo del artículo anterior.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+III. En los negocios de cuantía indeterminada, los peritos cobrarán hasta doscientos cuarenta veces la Unidad de Cuenta de la Ciudad de México vigente, cantidad que se determinará por el Juzgador, tomando en cuenta la naturaleza del negocio y la complejidad de la materia sobre la que verse el peritaje. Dicha cantidad se actualizará en términos de lo dispuesto por el último párrafo del artículo anterior.
 
 #### SECCION QUINTA. De los Arbitros
 
@@ -2274,11 +2270,13 @@ Las cuotas de la tarifa anterior rigen para el caso de que el árbitro sea únic
 
 Los árbitros terceros, para el caso de discordia, devengarán el 75% del porcentaje señalado en el artículo 140 de la presente Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 148.
 
-En los negocios cuya cuantía sea indeterminada, el árbitro cobrará doscientos a quinientos días de salario mínimo general vigente en el Distrito Federal.
+En los negocios cuya cuantía sea indeterminada, el árbitro cobrará doscientos a quinientos (sic) veces la Unidad de Cuenta de la Ciudad de México vigente.
 
 Para regular la cuota anterior, se atenderá a la importancia del negocio, a las dificultades técnicas que presente y a las posibilidades pecuniarias de las partes.
 
@@ -2414,7 +2412,7 @@ Se llevará un registro histórico de los avisos publicados, para facilitar la i
 
 > <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
-###### Articulo 161.
+###### Artículo 161.
 
 El Boletín Judicial se publicará por la Dirección General de los Anales de Jurisprudencia diariamente, con excepción de los sábados, domingos y días inhábiles.
 
@@ -2436,11 +2434,13 @@ El Boletín Judicial contendrá los acuerdos, sentencias y avisos de todos los J
 
 En todo lo relativo a las publicaciones, el Consejo de la Judicatura administrará los ingresos que por ventas se recaben, haciendo las aplicaciones que estime pertinentes y cuyo producto se destinará exclusivamente para la ampliación y el mejoramiento de dichas publicaciones.
 
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 165.
 
-Los edictos, convocatorias y demás avisos judiciales que deban insertarse en el Boletín Judicial, se publicarán gratuitamente en negocios cuya cuantía no exceda de treinta días de salario mínimo general vigente en el Distrito Federal.
+Los edictos, convocatorias y demás avisos judiciales que deban insertarse en el Boletín Judicial, se publicarán gratuitamente en negocios cuya cuantía no exceda de treinta veces la Unidad de Cuenta de la Ciudad de México vigente.
 
 ###### Artículo 166.
 
@@ -2790,7 +2790,7 @@ VIII. El diseño y actualización de su normatividad interna, que será aprobada
 
 > <small>(ADICIONADA, G.O. 8 DE ENERO DE 2008)</small>
 
-IX. La optimación de sus servicios a través de la aplicación de programas estratégicos de investigación, planeación y modernización científica y tecnológica; y (sic)
+IX. La optimación de sus servicios a través de la aplicación de programas estratégicos de investigación, planeación y modernización científica y tecnológica; y
 
 > <small>(ADICIONADA, G.O. 19 DE JUNIO DE 2013)</small>
 
@@ -3008,7 +3008,7 @@ II. Los resultados de las visitas de inspección;
 
 III. Los diversos cursos de actualización y especialización acreditados de manera fehaciente, y tratándose de jueces, también la aprobación del examen de actualización;
 
-IV. No haber sido sancionado por falta grave, con motivo de una queja de carácter administrativo, y (sic)
+IV. No haber sido sancionado por falta grave, con motivo de una queja de carácter administrativo, y
 
 V. Los demás que estime pertinentes, siempre que consten en acuerdos generales publicados con seis meses de anticipación a la fecha de la ratificación;
 
@@ -3214,7 +3214,7 @@ XXII. Dictar las medidas necesarias para la organización y funcionamiento de la
 
 XXIII. Autorizar cada dos años, en forma potestativa y con vista a sus antecedentes, a las personas que deben ejercer los cargos de Síndicos e Interventores en los Juicios de Concurso, Albaceas, Depositarios Judiciales, Arbitros, Peritos y demás auxiliares de la administración de justicia que hayan de designarse en los asuntos que se tramiten ante las Salas y Juzgados del Tribunal, previa la satisfacción de los requisitos a que se refiere el Título Sexto de esta Ley.
 
-La decisión que al respecto adopte el Consejo de la Judicatura será irrecurrible; y (sic)
+La decisión que al respecto adopte el Consejo de la Judicatura será irrecurrible; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -3596,11 +3596,11 @@ XVII. (DEROGADA, G.O. 10 DE SEPTIEMBRE DE 2009)
 
 XVIII. Dejar de aplicar una ley, desacatando una disposición que establece expresamente su aplicación;
 
-XIX. Mostrar notoria ineptitud, negligencia o descuido en el desempeño de las funciones o labores que deba realizar, y (sic)
+XIX. Mostrar notoria ineptitud, negligencia o descuido en el desempeño de las funciones o labores que deba realizar, y
 
 > <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
 
-XX. No practicar las diligencias encomendadas por el Poder Judicial Federal, sin causa justificada. Lo anterior, sin perjuicio de las sanciones que pudieran imponer tales autoridades en términos de los ordenamientos legales aplicables; y (sic),
+XX. No practicar las diligencias encomendadas por el Poder Judicial Federal, sin causa justificada. Lo anterior, sin perjuicio de las sanciones que pudieran imponer tales autoridades en términos de los ordenamientos legales aplicables; y,
 
 > <small>(ADICIONADA, G.O. 13 DE MARZO DE 2014)</small>
 
@@ -3614,7 +3614,7 @@ En el caso de las fracciones IV, V, VI, VIII, IX y XIII será requisito de proce
 
 (ADICIONADO, G.O. 24 DE ABRIL DE 2003) (F. DE E., G.O. 1 DE JULIO DE 2003)
 
-###### Articulo 221.
+###### Artículo 221.
 
 Se considerarán como faltas de los Presidentes de las Salas, Semaneros y Magistrados integrantes de aquéllas, en sus respectivos casos, las que tienen ese carácter, conforme a las fracciones I, II, IV, V, VI, VII, VIII, IX, XII, XIV y XV a la XX del artículo anterior y además, las siguientes:
 
@@ -3654,7 +3654,7 @@ IV. No dar cuenta, al Juez o al Presidente de la Sala, de las faltas u omisiones
 
 > <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
 
-V. No engrosar, dentro de ocho días siguientes a la decisión del negocio, la sentencia que corresponda, en los casos que fuere su obligación hacerlo, y (sic)
+V. No engrosar, dentro de ocho días siguientes a la decisión del negocio, la sentencia que corresponda, en los casos que fuere su obligación hacerlo, y
 
 > <small>(ADICIONADA, G.O. 13 DE MARZO DE 2014)</small>
 
@@ -3694,13 +3694,13 @@ V. No remitir al archivo oportunamente los expedientes cuya remisión sea forzos
 
 > <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
 
-VI. No observar lo establecido en la fracción VII del artículo 58 de esta ley; y (sic)
+VI. No observar lo establecido en la fracción VII del artículo 58 de esta ley; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
-VII. No entregar a las partes las copias simples de resoluciones o constancias de autos que les soliciten, previo pago realizado en los términos correspondientes, cuando para ello no se requiera acuerdo para la expedición; y (sic)
+VII. No entregar a las partes las copias simples de resoluciones o constancias de autos que les soliciten, previo pago realizado en los términos correspondientes, cuando para ello no se requiera acuerdo para la expedición; y
 
 > <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
 
@@ -3842,7 +3842,7 @@ I.- La gravedad de la responsabilidad en que se incurra;
 
 II.- Los antecedentes del infractor;
 
-III.- La reincidencia en la comisión de faltas; y (sic)
+III.- La reincidencia en la comisión de faltas; y
 
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -4180,7 +4180,7 @@ CUARTO.-Se derogan todas aquéllas disposiciones que se opongan al presente Decr
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
-Quinto.- La reforma prevista a los artículos 37 fracción VIII, 50 fracciones II y III, 58 Bis, 62 Bis, 67, 68, 69, 70, 71, 71Bis, 72 Bis, 173, 196, 201 fracción XIX, 203, 207, 208, 209 y 224 Bis, de la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal, y la reforma prevista en el presente Decreto respecto del Código de Procedimientos Civiles para el Distrito Federal, entrarán en vigor el 1 de enero de 2013; con excepción del artículo 72 de la Ley Orgánica del Tribunal superior de Justicia del Distrito Federal, que entrará en vigor el 27 de enero de 2012.
+Quinto.- La reforma prevista a los artículos 37 fracción VIII, 50 fracciones II y III, 58 Bis, 62 Bis, 67, 68, 69, 70, 71, 71 Bis, 72 Bis, 173, 196, 201 fracción XIX, 203, 207, 208, 209 y 224 Bis, de la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal, y la reforma prevista en el presente Decreto respecto del Código de Procedimientos Civiles para el Distrito Federal, entrarán en vigor el 1 de enero de 2013; con excepción del artículo 72 de la Ley Orgánica del Tribunal superior de Justicia del Distrito Federal, que entrará en vigor el 27 de enero de 2012.
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -4287,3 +4287,13 @@ Artículo Tercero.- Las reformas y adiciones a la Ley Orgánica del Tribunal Sup
 Artículo Cuarto.- Los demás procedimientos previstos en el artículo 1019 del Código de Procedimientos Civiles, entrarán en vigor a los trescientos sesenta y cinco días naturales siguientes de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Artículo Quinto.- Por lo que hace a los juicios del orden familiar en trámite, seguirán rigiéndose con las disposiciones vigentes anteriores a la publicación del presente Decreto hasta su total conclusión.
+
+G.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
