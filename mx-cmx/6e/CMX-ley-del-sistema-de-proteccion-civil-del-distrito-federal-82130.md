@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-sistema-de-proteccion-civil-del-distrito-federal-82130"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-08"
-last_updated: "2014-11-27"
+last_updated: "2014-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82130&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL DISTRITO FEDERAL
 
 > <small>N. DE E. DE CONFORMIDAD CON EL VIGÉSIMO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL DISTRITO FEDERAL, PUBLICADA EN LA G.O. DE 27 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014 (ABROGADA).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 8 de julio de 2011.
 
@@ -49,6 +49,8 @@ DECRETO POR EL QUE SE EXPIDE LA LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL DISTRIT
 ###### ARTÍCULO PRIMERO
 
 Se expide la Ley del Sistema de Protección Civil del Distrito Federal y se abroga la Ley de Protección Civil para el Distrito Federal, quedando como sigue:
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO CUARTO DEL DECRETO SIN NÚMERO, PUBLICADO EN LA G.O. DE 28 DE NOVIEMBRE DE 2014, LAS REFERENCIAS QUE SE HAGAN DEL SALARIO MÍNIMO EN LAS NORMAS LOCALES VIGENTES, INCLUSO EN AQUELLAS PENDIENTES DE PUBLICAR O DE ENTRAR EN VIGOR, SE ENTENDERÁN HECHAS A LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO, A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.</small>
 
 LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL DISTRITO FEDERAL
 
@@ -352,7 +354,7 @@ XX. Revisar y, en su caso, autorizar los Programas Internos de Protección Civil
 
 XXI. Acreditar a los terceros autorizados para la elaboración de programas internos y especiales.
 
-XXII. Iniciar y resolver el procedimiento administrativo con la finalidad de revocar la autorización a los terceros acreditados, empresas capacitadotas, de consultoría y de estudios de riesgo vulnerabilidad que incurran en violaciones a la presente Ley o su Reglamento;
+XXII. Iniciar y resolver el procedimiento administrativo con la finalidad de revocar la autorización a los terceros acreditados, empresas capacitadotas (sic), de consultoría y de estudios de riesgo vulnerabilidad que incurran en violaciones a la presente Ley o su Reglamento;
 
 XXIII. Brindar, en los términos de esta ley, capacitación al personal adscrito a las Unidades de Protección Civil y vigilar el cumplimiento de las disposiciones correspondientes.
 
@@ -1174,7 +1176,7 @@ V. Los antecedentes históricos de desastres en la Delegación;
 
 VI. Naturaleza y dinámica del desarrollo urbano y económico dentro de la demarcación territorial;
 
-VII. Recursos materiales y financieros disponibles. y
+VII. Recursos materiales y financieros disponibles, y
 
 VIII. Mecanismos de control y evaluación.
 
@@ -1884,25 +1886,39 @@ IV. Revocación del nombramiento de funcionarios de protección civil
 
 En el caso de reincidencia, el monto de la multa podrá ser hasta dos veces del monto originalmente impuesto, sin exceder del máximo permitido.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 185.
 
-La falta de existencia de un Programa Interno de Protección Civil para los establecimientos mercantiles y empresas de mediano y alto riesgo, será causal de multa de 20 a 200 veces el Salario Mínimo General Vigente en el Distrito Federal, así como clausura, previo desahogo del procedimiento preventivo que establezca el Reglamento.
+La falta de existencia de un Programa Interno de Protección Civil para los establecimientos mercantiles y empresas de mediano y alto riesgo, será causal de multa de 20 a 200 veces la Unidad de Cuenta de la Ciudad de México vigente, así como clausura, previo desahogo del procedimiento preventivo que establezca el Reglamento.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 13 DE SEPTIEMBRE DE 2013)</small>
+La ausencia de un paramédico en el interior de los centros comerciales durante el horario de funcionamiento del mismo, de acuerdo a lo establecido en el artículo 86 fracción V de la presente Ley, será sancionada con una multa de 300 a 500 veces la Unidad de Cuenta de la Ciudad de México vigente.
 
-La ausencia de un paramédico en el interior de los centros comerciales durante el horario de funcionamiento del mismo, de acuerdo a lo establecido en el articulo 86 fracción V de la presente Ley, será sancionada con una multa de 300 a 500 días de Salario Mínimo General Vigente en el Distrito Federal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 186.
 
-En el caso de las empresas que deban contar con una Póliza de Seguro adicional al Programa Interno de Protección Civil y no lo hagan, se sancionará con multa de 500 a 1000 veces el Salario Mínimo General Vigente en el Distrito Federal y la clausura de las instalaciones hasta en tanto se cubra con dicho requisito.
+En el caso de las empresas que deban contar con una Póliza de Seguro adicional al Programa Interno de Protección Civil y no lo hagan, se sancionará con multa de 500 a 1000 veces la Unidad de Cuenta de la Ciudad de México vigente y la clausura de las instalaciones hasta en tanto se cubra con dicho requisito.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 187.
 
-La omisión en el cumplimiento de la realización de los simulacros obligatorios que señala la ley será sancionada con multa de 100 a 500 veces el Salario Mínimo General Vigente en el Distrito Federal.
+La omisión en el cumplimiento de la realización de los simulacros obligatorios que señala la ley será sancionada con multa de 100 a 500 veces la Unidad de Cuenta de la Ciudad de México vigente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 188.
 
-Las (sic) inasistencia a los cursos de capacitación para la implementación del Programa Interno de Protección Civil, cuando esta sea obligatoria, se sancionará con multa de 20 a 100 veces el Salario Mínimo General Vigente en el Distrito Federal, además de la elaboración del Programa Interno de Protección Civil por parte del tercero acreditado que la Delegación determine, con cargo para los obligados.
+Las inasistencia (sic) a los cursos de capacitación para la implementación del Programa Interno de Protección Civil, cuando esta sea obligatoria, se sancionará con multa de 20 a 100 veces la Unidad de Cuenta de la Ciudad de México vigente, además de la elaboración del Programa Interno de Protección Civil por parte del tercero acreditado que la Delegación determine, con cargo para los obligados.
 
 Las Delegaciones determinarán la o el tercero acreditado que elaborará dicho programa preferentemente con base en el padrón registrado en su demarcación.
 
@@ -1914,13 +1930,17 @@ Por denuncia ante la Secretaría, debidamente fundada y motivada por el incumpli
 
 ###### Artículo 190.
 
-Por denuncia ante la Secretaría, debidamente fundada y motivada por el incumplimiento las (sic) obligaciones o deficiencias en el trabajo de los Terceros Acreditados, se sancionará con suspensión o pérdida de su registro.
+Por denuncia ante la Secretaría, debidamente fundada y motivada por el incumplimiento (sic) las obligaciones o deficiencias en el trabajo de los Terceros Acreditados, se sancionará con suspensión o pérdida de su registro.
 
 El Reglamento determinará las causas y efectos de los supuestos del párrafo anterior.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 191.
 
-A las Organizaciones Civiles y Terceros Acreditados que proporcionen información falsa para obtener el registro correspondiente, se les impondrá multa de 1000 a 1500 veces el Salario Mínimo General Vigente en el Distrito Federal.
+A las Organizaciones Civiles y Terceros Acreditados que proporcionen información falsa para obtener el registro correspondiente, se les impondrá multa de 1000 a 1500 veces la Unidad de Cuenta de la Ciudad de México vigente.
 
 ###### Artículo 192.
 
@@ -1964,7 +1984,7 @@ DÉCIMO TERCERO.- La Secretaría y los Órganos Político Administrativos del Di
 
 Recinto de la Asamblea Legislativa del Distrito Federal, a los once días del mes de mayo del año dos mil once.- POR LA MESA DIRECTIVA.- DIP. NORBERTO ASCENCIO SOLIS CRUZ, PRESIDENTE, DIP. JOSÉ VALENTÍN MALDONADO SALGADO, SECRETARIO.- DIP. JUAN CARLOS ZÁRRAGA SARMIENTO, SECRETARIO.- (Firmas)
 
-En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los seis días del mes de julio del año dos mil once.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.-EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE LEAL FERNÁNDEZ.- FIRMA.- LA SECRETARIA DE DESARROLLO ECONÓMICO, LAURA VELÁZQUEZ ALZÚA.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA DELGADO PERALTA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, FERNANDO JOSÉ ABOITIZ SARO.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, MARTÍ BATRES GUADARRAMA.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE FINANZAS, ARMANDO LÓPEZ CÁRDENAS.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, RAÚL ARMANDO QUINTERO MARTÍNEZ.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MANUEL MONDRAGÓN Y KALB.- FIRMA.- EL SECRETARIO DE TURISMO, ALEJANDRO ROJAS DÍAZ DURÁN.- FIRMA.- LA SECRETARIA DE CULTURA, ELENA CEPEDA DE LEÓN.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, ELÍAS MIGUEL MORENO BRIZUELA.- FIRMA.- EL SECRETARIO DE TRABAJO Y FOMENTO AL EMPLEO, BENITO MIRÓN LINCE.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, MARIO M. DELGADO CARRILLO.- FIRMA.- LA SECRETARÍA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, MARÍA ROSAMÁRQUEZ CABRERA.- FIRMA.
+En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los seis días del mes de julio del año dos mil once.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.-EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE LEAL FERNÁNDEZ.- FIRMA.- LA SECRETARIA DE DESARROLLO ECONÓMICO, LAURA VELÁZQUEZ ALZÚA.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA DELGADO PERALTA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, FERNANDO JOSÉ ABOITIZ SARO.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, MARTÍ BATRES GUADARRAMA.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE FINANZAS, ARMANDO LÓPEZ CÁRDENAS.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, RAÚL ARMANDO QUINTERO MARTÍNEZ.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MANUEL MONDRAGÓN Y KALB.- FIRMA.- EL SECRETARIO DE TURISMO, ALEJANDRO ROJAS DÍAZ DURÁN.- FIRMA.- LA SECRETARIA DE CULTURA, ELENA CEPEDA DE LEÓN.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, ELÍAS MIGUEL MORENO BRIZUELA.- FIRMA.- EL SECRETARIO DE TRABAJO Y FOMENTO AL EMPLEO, BENITO MIRÓN LINCE.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, MARIO M. DELGADO CARRILLO.- FIRMA.- LA SECRETARÍA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, MARÍA ROSA MÁRQUEZ CABRERA.- FIRMA.
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
@@ -2021,3 +2041,13 @@ VIGÉSIMO PRIMERO. La Secretaría de Finanzas en la medida de sus atribuciones, 
 VIGÉSIMO SEGUNDO. Se abroga la Ley del Sistema de Protección Civil del Distrito Federal publicada en la Gaceta Oficial del Distrito Federal el 08 de julio de 2011, el Reglamento de la Ley de Protección Civil para el Distrito Federal publicado en la Gaceta Oficial del Distrito Federal el 23 de diciembre de 2005; debiendo observarse respecto a este último lo señalado en el Transitorio Noveno de esta Ley; asimismo se deroga cualquier disposición que contravenga lo dispuesto por esta Ley.
 
 VIGÉSIMO TERCERO. Se abrogan los términos de Referencia y las Normas Técnicas Complementarias que se opongan a la presente Ley.
+
+G.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
