@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2014-10-31"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -563,11 +563,11 @@ Se presume, salvo prueba en contrario, que un hijo nacido en matrimonio es hijo 
 
 Toda persona que encontrare un recién nacido o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo al Ministerio Público con los vestidos, valores o cualesquiera otros objetos encontrados con él, y declarará el día y lugar donde lo hubiere hallado así como las demás circunstancias que en su caso hayan concurrido. Una vez lo anterior, el Ministerio Público dará aviso de tal situación al Juez del Registro Civil, para los efectos correspondientes.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 66.
 
-La misma obligación tienen los jefes, directores o administradores de los establecimientos de reclusión, y de cualquier casa de comunidad, especialmente los de los hospitales, casas de maternidad e inclusas, respecto de los niños nacidos o expuestos en ellas y en caso de incumplimiento, la autoridad del órgano político administrativo de la Demarcación Territorial del Distrito Federal que corresponda, impondrá al infractor una multa de diez a cincuenta días del importe del salario mínimo general diario vigente en el Distrito Federal.
+La misma obligación tienen los jefes, directores o administradores de los establecimientos de reclusión, y de cualquier casa de comunidad, especialmente los de los hospitales, casas de maternidad e inclusas, respecto de los niños nacidos o expuestos en ellas y en caso de incumplimiento, la autoridad del órgano político administrativo de la Demarcación Territorial del Distrito Federal que corresponda, impondrá al infractor una multa de diez a cincuenta veces del importe de la Unidad de Cuenta de la Ciudad de México vigente.
 
 ###### ARTICULO 67.
 
@@ -4735,11 +4735,11 @@ Se requiere licencia judicial para que el tutor pueda transigir o comprometer en
 
 El nombramiento de árbitros hecho por el tutor deberá sujetarse a la aprobación del juez.
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 568.
 
-Para que el tutor transija cuando el objeto de la reclamación consista en bienes inmuebles, muebles preciosos o bien en valores mercantiles o industriales cuya garantía exceda de dos mil quinientas veces el salario mínimo del Distrito Federal, necesita del consentimiento del curador y de la aprobación judicial otorgada con audiencia de éste.
+Para que el tutor transija cuando el objeto de la reclamación consista en bienes inmuebles, muebles preciosos o bien en valores mercantiles o industriales cuya garantía exceda de dos mil quinientas veces la Unidad de Cuenta de la Ciudad de México vigente, necesita del consentimiento del curador y de la aprobación judicial otorgada con audiencia de éste.
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -5617,11 +5617,11 @@ Sólo puede constituirse el patrimonio de la familia con bienes sitos en el luga
 
 Cada familia sólo puede constituir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 730.
 
-El valor máximo de los bienes afectados al patrimonio familiar, señalados en el artículo 723, será por la cantidad resultante de multiplicar el factor 10,950 por el importe de tres salarios mínimos generales diarios, vigentes en el Distrito Federal, en la época en que se constituya el patrimonio, autorizando como incremento anual, el porcentaje de inflación que en forma oficial, determine el Banco de México. Este incremento no será acumulable.
+El valor máximo de los bienes afectados al patrimonio familiar, señalados en el artículo 723, será por la cantidad resultante de multiplicar el factor 10,950 por el importe de tres veces la Unidad de Cuenta de la Ciudad de México vigente, en la época en que se constituya el patrimonio, autorizando como incremento anual, el porcentaje de inflación que en forma oficial, determine el Banco de México. Este incremento no será acumulable.
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -10671,9 +10671,9 @@ ARTICULO 2,315.- En la venta de que habla el artículo 2,312, mientras que no pa
 
 ARTICULO 2,316.- El contrato de compra-venta no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE ENERO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-ARTICULO 2,317.- Las enajenaciones de bienes inmuebles cuyo valor de avalúo no exceda al equivalente a trescientas sesenta y cinco veces el salario mínimo general diario vigente en el Distrito Federal en el momento de la operación y la constitución o trasmisión de derechos reales estimados hasta la misma cantidad o que garanticen un crédito no mayor de dicha suma, podrán otorgarse en documento privado firmado por los contratantes ante dos testigos cuyas firmas se ratifiquen ante Notario, Juez competente o Registro Público de la Propiedad.
+ARTICULO 2,317.- Las enajenaciones de bienes inmuebles cuyo valor de avalúo no exceda al equivalente a trescientas sesenta y cinco veces la Unidad de Cuenta de la Ciudad de México vigente en el momento de la operación y la constitución o trasmisión de derechos reales estimados hasta la misma cantidad o que garanticen un crédito no mayor de dicha suma, podrán otorgarse en documento privado firmado por los contratantes ante dos testigos cuyas firmas se ratifiquen ante Notario, Juez competente o Registro Público de la Propiedad.
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -10691,13 +10691,15 @@ ARTICULO 2,318.- Si alguno de los contratantes no supiere escribir, firmará a s
 
 ARTICULO 2,319.- De dicho instrumento se formarán dos originales, uno para el comprador y el otro para el Registro Público.
 
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+ARTICULO 2,320.- Si el valor de avalúo del inmueble excede de trescientos sesenta y cinco veces la Unidad de Cuenta de la Ciudad de México vigente en el momento de la operación, su venta se hará en escritura pública, salvo lo dispuesto por el artículo 2317.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+ARTICULO 2,321.- Tratándose de bienes ya inscritos en el Registro y cuyo valor no exceda de trescientas sesenta y cinco veces la Unidad de Cuenta de la Ciudad de México vigente en el momento de la operación, cuando la venta sea al contado podrá formalizarse, haciéndola constar por escrito en el certificado de inscripción de propiedad que el registrador tiene obligación de expedir al vendedor a cuyo favor estén inscritos los bienes.
+
 > <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
-
-ARTICULO 2,320.- Si el valor de avalúo del inmueble excede de trescientos sesenta y cinco veces el salario mínimo general diario vigente en el Distrito Federal en el momento de la operación, su venta se hará en escritura pública, salvo lo dispuesto por el artículo 2317.
-
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
-
-ARTICULO 2,321.- Tratándose de bienes ya inscritos en el Registro y cuyo valor no exceda de trescientas sesenta y cinco veces el salario mínimo general diario vigente en el Distrito Federal en el momento de la operación, cuando la venta sea al contado podrá formalizarse, haciéndola constar por escrito en el certificado de inscripción de propiedad que el registrador tiene obligación de expedir al vendedor a cuyo favor estén inscritos los bienes.
 
 La constancia de la venta será ratificada ante el registrador, quien tiene obligación de cerciorarse de la identidad de las partes y de la autenticidad de las firmas, y previa comprobación de que están cubiertos los impuestos correspondientes a la compraventa realizada en esta forma, hará una nueva inscripción de los bienes vendidos en favor del comprador.
 
@@ -11141,7 +11143,9 @@ ARTICULO 2,448 C.- La duración mínima de todo contrato de arrendamiento de inm
 
 ARTICULO 2,448 D.- Para los efectos de este capítulo la renta deberá estipularse en moneda nacional y solo podrá ser aumentada anualmente.
 
-En aquellos contratos en que el importe de la renta mensual no exceda de ciento cincuenta salarios mínimos generales vigentes en el Distrito Federal, el incremento no podrá exceder del 10% de la cantidad pactada como renta mensual.
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+En aquellos contratos en que el importe de la renta mensual no exceda de a 5,400 veces la Unidad de Cuenta de la Ciudad de México vigente y no exceda de 9,000 veces la Unidad de Cuenta de la Ciudad de México vigente; el incremento no podrá exceder del 10% de la cantidad pactada como renta mensual.
 
 > <small>(REFORMADO, G.O. 16 DE ENERO DE 2003)</small>
 
@@ -11543,17 +11547,17 @@ ARTICULO 2,555.- El mandato debe otorgarse en escritura pública o en carta pode
 
 I.- Cuando sea general;
 
-> <small>(REFORMADA, D.O.F. 6 DE ENERO DE 1994)</small>
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-II.- Cuando el interés del negocio para el que se confiere sea superior al equivalente a mil veces el salario mínimo general vigente en el Distrito Federal al momento de otorgarse; o
+II.- Cuando el interés del negocio para el que se confiere sea superior al equivalente a mil veces la Unidad de Cuenta de la Ciudad de México vigente al momento de otorgarse; o
 
 III.- Cuando en virtud de él haya de ejecutar el mandatario, a nombre del mandante, algún acto que conforme a la ley debe constar en instrumento público.
 
-> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-ARTICULO 2,556.- El mandato podrá otorgarse en escrito privado firmado ante dos testigos, sin que sea necesaria la previa ratificación de las firmas, cuando el interés del negocio para el que se confiere no exceda de mil veces el salario mínimo general vigente en el Distrito Federal al momento de otorgarse.
+ARTICULO 2,556.- El mandato podrá otorgarse en escrito privado firmado ante dos testigos, sin que sea necesaria la previa ratificación de las firmas, cuando el interés del negocio para el que se confiere no exceda de mil veces la Unidad de Cuenta de la Ciudad de México vigente al momento de otorgarse.
 
-Sólo puede ser verbal el mandato cuando el interés del negocio no exceda de cincuenta veces el salario mínimo general vigente en el Distrito Federal al momento de otorgarse.
+Sólo puede ser verbal el mandato cuando el interés del negocio no exceda de cincuenta veces la Unidad de Cuenta de la Ciudad de México vigente al momento de otorgarse.
 
 ARTICULO 2,557.- La omisión de los requisitos establecidos en los artículos que preceden, anula el mandato, y sólo deja subsistentes las obligaciones contraídas entre el tercero que haya procedido de buena fe y el mandatario, como si éste hubiese obrado en negocio propio.
 
@@ -14602,3 +14606,13 @@ PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario O
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO.- El Jefe de Gobierno deberá realizar las modificaciones necesarias al Reglamento del Registro Civil del Distrito Federal, dentro de los sesenta días siguientes a la publicación del presente Decreto.
+
+G.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
