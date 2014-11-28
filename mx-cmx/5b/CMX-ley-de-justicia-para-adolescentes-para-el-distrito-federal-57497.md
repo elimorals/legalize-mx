@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-justicia-para-adolescentes-para-el-distrito-federal-5749
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-14"
-last_updated: "2014-11-27"
+last_updated: "2014-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57497&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-10-25"
 
 LEY DE JUSTICIA PARA ADOLESCENTES PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 14 de noviembre de 2007.
 
@@ -2364,7 +2364,11 @@ La queja se interpondrá por escrito dentro de los tres días a partir de que se
 
 Una vez turnado el recurso, el Tribunal de Alzada, dentro de las cuarenta y ocho horas siguientes le dará entrada al recurso y requerirá al Juez cuya conducta omisa haya dado lugar al recurso para que rinda informe en un plazo no mayor de dos días. Trascurrido este plazo, con informe o sin él, se dictará dentro de cuarenta y ocho horas la resolución que proceda. Si se estima fundado el recurso la Sala Especializada requerirá al Juez para que cumpla con las obligaciones determinadas en la ley en un plazo no mayor a dos días sin perjuicio de las responsabilidades que le resulten.
 
-La falta del informe a que se refiere el párrafo anterior establece la presunción de ser cierta la omisión atribuida y hará incurrir al Juez en multa de diez a cien veces el salario mínimo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+La falta del informe a que se refiere el párrafo anterior establece la presunción de ser cierta la omisión atribuida y hará incurrir al Juez en multa de diez a cien veces la Unidad de Cuenta de la Ciudad de México vigente.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -2949,3 +2953,13 @@ G.O. 27 DE NOVIEMBRE DE 2014.
 Primero. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
 
 Segundo. El presente decreto modifica el diverso por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Justicia para Adolescentes para el Distrito Federal, publicado el quince de abril de dos mil catorce en la Gaceta Oficial del Distrito Federal y entrará en vigor en la fecha en que entre el mismo.
+
+G.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
