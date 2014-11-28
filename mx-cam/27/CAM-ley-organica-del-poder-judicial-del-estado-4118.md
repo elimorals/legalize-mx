@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-poder-judicial-del-estado-4118"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1980-12-04"
-last_updated: "2014-06-27"
+last_updated: "2014-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. DE 28 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el jueves 4 de diciembre de 1980.
 
@@ -2278,3 +2280,27 @@ SEGUNDO. El nombramiento de la Magistrada Suplente de la Sala Administrativa del
 TERCERO. El Tribunal Pleno procederá, en el término de treinta días naturales, contados a partir de la vigencia de este decreto, a hacer las adecuaciones correspondientes en los reglamentos y acuerdos administrativos respectivos, así como a emitir aquellos que con motivo de este decreto sean necesarios.
 
 CUARTO. Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan a las de este decreto
+
+P.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor el día 3 de diciembre de 2014, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley Orgánica del Poder Judicial del Estado de Campeche expedida por Decreto No. 16, publicada en el Periódico Oficial del estado el día cuatro de diciembre de mil novecientos ochenta.
+
+TERCERO.- Los Poderes Ejecutivo y Judicial harán las previsiones en sus respectivos presupuestos de egresos para el ejercicio fiscal del año 2015, con el fin de llevar a cabo todo lo previsto en la presente Ley.
+
+CUARTO.- Las disposiciones relativas a los jueces de control y tribunales de enjuiciamiento entrarán en vigor en los términos de la declaratoria que establezca en el Estado de Campeche el Sistema de Justicia Penal Acusatorio y Oral y una vez que haya entrado en vigor el Código Nacional de Procedimientos Penales. Entretanto, los actuales Jueces de Primera Instancias del Ramo Penal continuarán ejerciendo sus atribuciones de conformidad con el sistema penal vigente.
+
+En cuanto a lo dispuesto en esta ley sobre el sistema penal de corte acusatorio y oral entrará en vigor el mismo día en que entre en vigor el Código Nacional de Procedimientos Penales.
+
+QUINTO.- La Sala Familiar señalada en los artículos 14 y 42 e la presente ley se creará por acuerdo del pleno cuando, por razones presupuestales, sea viable su implementación. Mientras tanto, la sala Civil-Mercantil seguirá conociendo los asuntos en materia familiar.
+
+SEXTO.- El Pleno del Tribunal Superior de Justicia emitirá, en un plazo no mayor a treinta días, todos los reglamentos, acuerdos y disposiciones legales o, en su caso, modificaciones legales que sean necesarias para la correcta implementación del presente Decreto.
+
+SÉPTIMO.- Hasta que inicien sus labores los juzgados de primera instancia del tercero, cuarto y quinto distritos judiciales del estado, los jugados respectivos del primer distrito judicial, conocerán de las controversias que se susciten en aquellos distritos.
+
+OCTAVO.- Hasta que inicien sus labores los juzgados de cuantía menor previstos en esta Ley, los juzgados respectivos conservarán jurisdicción en los negocios y causas de la competencia de aquellos.
+
+NOVENO.- Los juzgados penales que actualmente conocen del sistema tradicional penal, Auxiliares y Menores de Primera Instancia dependientes del Poder Judicial del Estado, una vez que concluyan de manera definitiva el conocimiento de las causas o asuntos sometidos a su jurisdicción, por acuerdo del Tribunal Pleno, se les asignará en las sedes en que actualmente se encuentran establecidos las nuevas competencias y funciones que requiere la mejor impartición de justicia.
+
+DÉCIMO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, que se opongan al contenido del presente decreto.
