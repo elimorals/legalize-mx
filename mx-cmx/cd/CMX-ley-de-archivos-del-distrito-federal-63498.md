@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-archivos-del-distrito-federal-63498"
 country: "mx"
 rank: "ley"
 publication_date: "2008-10-08"
-last_updated: "2008-10-08"
+last_updated: "2014-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63498&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-10-02"
 
 LEY DE ARCHIVOS DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 8 de octubre de 2008.
 
@@ -558,7 +558,7 @@ VI. Intervenir en el destino de los documentos de archivo de su área de adscrip
 
 VII. Expedir las certificaciones de los documentos que conformen los fondos documentales resguardados en los repositorios de su responsabilidad;
 
-VIII. Proponer a la autoridad competente del ente público, la celebración de convenios y acuerdos con instituciones públicas y privadas, nacionales e internacionales, para la capacitación del personal en materia de administración de documentos e intercambio de conocimientos técnicos y operativos archivísticos; y (sic)
+VIII. Proponer a la autoridad competente del ente público, la celebración de convenios y acuerdos con instituciones públicas y privadas, nacionales e internacionales, para la capacitación del personal en materia de administración de documentos e intercambio de conocimientos técnicos y operativos archivísticos; y
 
 IX. Realizar anualmente un diagnóstico archivístico de los fondos documentales de su área de adscripción;
 
@@ -752,9 +752,11 @@ III. Destitución para los casos de las fracciones I, IV y V.
 
 Las sanciones previstas en el artículo anterior se aplicarán de acuerdo con los procedimientos y parámetros de las sanciones establecidas en la Ley Federal de Responsabilidades de los servidores públicos aplicable en el Distrito Federal, sin eximir de las responsabilidades penales o civiles en que pudieran incurrir los servidores públicos.
 
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 67.
 
-Incurrirán en infracción a la presente Ley, los particulares que lleven a cabo alguna de las conductas señaladas en el artículo 64 de la presente Ley, por lo cual se harán acreedores a una multa que va desde los cinco hasta los trescientos días de salario mínimo general vigente en el Distrito Federal, al momento de cometer la falta, sin perjuicio de la responsabilidad civil o penal en la que pudieran incurrir.
+Incurrirán en infracción a la presente Ley, los particulares que lleven a cabo alguna de las conductas señaladas en el artículo 64 de la presente Ley, por lo cual se harán acreedores a una multa que va desde los cinco hasta las trescientos veces la Unidad de Cuenta de la Ciudad de México vigente, al momento de cometer la falta, sin perjuicio de la responsabilidad civil o penal en la que pudieran incurrir.
 
 ###### Artículo 68.
 
@@ -797,3 +799,15 @@ SÉPTIMO.- Publíquese en la Gaceta Oficial del Distrito Federal para su debida 
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veintisiete días del mes de agosto del año dos mil ocho.- POR LA MESA DIRECTIVA.- DIP. AGUSTÍN CARLOS CASTILLA MARROQUÍN, PRESIDENTE.- SECRETARIA, DIP. LETICIA QUEZADA CONTRERAS.- SECRETARIO, DIP. ALFREDO VINALAY MORA.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, base segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida aplicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los dos días del mes de octubre del año dos mil ocho.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, ARQ. J. ARTURO AISPURO CORONEL.- FIRMA.- LA SECRETARIA DE DESARROLLO ECONÓMICO, LAURA VELÁZQUEZ ALZÚA.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA DELGADO PERALTA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, JORGE ARGANIS DÍAZ LEAL.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, MARTÍ BATRES GUADARRAMA.- FIRMA.- EL SECRETARIO DE SALUD, ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE FINANZAS, MARIO DELGADO CARRILLO.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, ARMANDO QUINTERO MARTÍNEZ.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MANUEL MONDRAGÓN Y KALB.- FIRMA.- EL SECRETARIO DE TURISMO, ALEJANDRO ROJAS DÍAZ DURÁN.- FIRMA.- LA SECRETARIA DE CULTURA, ELENA CEPEDA DE LEÓN.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, ELÍAS MIGUEL MORENO BRIZUELA.- FIRMA.- EL SECRETARIO DE TRABAJO Y FOMENTO AL EMPLEO, BENITO MIRÓN LINCE.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, AXEL DIDRIKSSON TAKAYANAGUI.- FIRMA.- LA SECRETARIA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, MARÍA ROSA MÁRQUEZ CABRERA.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
