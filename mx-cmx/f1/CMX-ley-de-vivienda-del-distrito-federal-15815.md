@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-vivienda-del-distrito-federal-15815"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-02"
-last_updated: "2010-12-22"
+last_updated: "2014-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15815&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-01-10"
 
 LEY DE VIVIENDA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 2 de marzo de 2000.
 
@@ -82,9 +82,11 @@ I. ACCIÓN HABITACIONAL- La actividad tendiente a la producción, distribución,
 
 II. ASAMBLEA- La Asamblea Legislativa del Distrito Federal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE EL ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.(REFORMADA, G.O. 22 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE EL ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III. AYUDA DE BENEFICIO SOClAL- Aquellos porcentajes o montos fijados por la administración que significan un no pago y que disminuyen la deuda de los beneficiarios;
+> <small>(REFORMADA, G.O. 22 DE DICIEMBRE DE 2010)</small>
+
+III. AYUDA DE BENEFICIO SOCIAL- Aquellos porcentajes o montos fijados por la administración que significan un no pago y que disminuyen la deuda de los beneficiarios;
 
 IV. BENEFICIARIOS- Los sujetos favorecidos de una acción habitacional o de un crédito de vivienda de interés social o popular;
 
@@ -128,21 +130,31 @@ XXIII. SUELO PARA VIVIENDA- Los terrenos física y legalmente susceptibles de se
 
 XXIV. VIVIENDA PROGRESIVA- La acción destinada a satisfacer las necesidades habitacionales y cambiantes de las familias desde las etapas iniciales, en un proceso paulatino y discontinuo de construcción y adaptación;
 
-XXV. VIVIENDA DE INTERÉS POPULAR- La vivienda cuyo precio de venta al público es superior a 15 salarios mínimos anuales, vigentes en el Distrito Federal y no exceda de 25 salarios mínimos anuales;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-XXVI. VIVIENDA DE INTERÉS SOCIAL- La vivienda cuyo precio máximo de venta al público es de 15 salarios mínimos anuales vigentes en el Distrito Federal;
+XXV. VIVIENDA DE INTERÉS POPULAR – La vivienda cuyo precio de venta al público es superior a 5400 veces la Unidad de Cuenta de la Ciudad de México vigente y no exceda de 9000 veces la Unidad de Cuenta de la Ciudad de México vigente;
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XXVI. VIVIENDA DE INTERÉS SOCIAL– La vivienda cuyo precio máximo de venta al público es de 5400 veces la Unidad de Cuenta de la Ciudad de México vigente;
 
 XXVII. VIVIENDA TERMINADA- La acción habitacional que se realiza en un proceso continuo y único de construcción.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE EL ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.(ADICIONADA, G.O. 22 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE EL ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 22 DE DICIEMBRE DE 2010)</small>
 
 XXVIII. INDÍGENA- Es la persona integrante de algún pueblo o comunidad indígena, la conciencia de su identidad indígena, es el criterio fundamental para determinar a quienes se aplican las disposiciones de la presente Ley;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE EL ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.(ADICIONADA, G.O. 22 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE EL ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 22 DE DICIEMBRE DE 2010)</small>
 
 XXIX. PUEBLOS ORIGINARIOS- Núcleos de población, que conforman una unidad social, económica y cultural, y que su asentamiento territorial es preexistente al inicio de la colonización, y que reconocen autoridades propias de acuerdo con sus sistemas normativos internos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE EL ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.(ADICIONADA, G.O. 22 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE EL ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 22 DE DICIEMBRE DE 2010)</small>
 
 XXX. COMUNIDADES INDÍGENAS RESIDENTES- Son aquellas que se han constituido en una unidad social, económica y cultural, a partir de su asentamiento y permanencia en el Distrito Federal, que son producto de la migración hacia el (sic) ciudad de México, y que mantienen y reproducen sus formas de organización e instituciones; o parte de ellas.
 
@@ -642,7 +654,7 @@ Salón de Sesiones de la Asamblea Legislativa del Distrito Federal, a 28 de dici
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C. Base Segunda fracción II, inciso b, de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial de la Jefa de Gobierno del Distrito Federal, en la Ciudad de México, a los diez días del mes de enero del dos mil.- LA JEFA DE GOBIERNO DEL DISTRITO FEDERAL, ROSARIO ROBLES BERLANGA.- FIRMA.- EL SECRETARIO DE GOBIERNO, LEONEL GODOY RANGEL.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, ROBERTO EIBENSCHUTZ HARTMAN.- FIRMA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 5 DE SEPTIEMBRE DE 2000.
 
@@ -659,3 +671,13 @@ G.O. 22 DE DICIEMBRE DE 2010.
 PRIMERO.- El presente decreto entrará en vigor a los treinta días siguientes de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
+
+G.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
