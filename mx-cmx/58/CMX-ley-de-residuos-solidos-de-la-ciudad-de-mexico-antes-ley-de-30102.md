@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-residuos-solidos-de-la-ciudad-de-mexico-antes-ley-de-301
 country: "mx"
 rank: "ley"
 publication_date: "2003-04-22"
-last_updated: "2014-09-08"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30102&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-05"
 
 LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 22 de abril de 2003.
 
@@ -1176,19 +1176,21 @@ Las sanciones cometidas por la violación de las disposiciones de la presente Le
 
 I. Amonestación cuando por primera vez se incumplan con las disposiciones contenidas en los artículos 25 fracción V y 33 de esta Ley;
 
-> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-II. Multa de 20 a 200 días de salario mínimo vigente en el Distrito Federal contra quien por segunda ocasión realice alguna de las conductas descritas en la fracción anterior o por violaciones a lo dispuesto por los artículos 25 fracciones I, II y VI; 26 segundo y tercer párrafos; 40 segundo y tercer párrafos; y 42 de la presente Ley;
+II. Multa de 20 a 200 veces la Unidad de Cuenta de la Ciudad de México vigente contra quien por segunda ocasión realice alguna de las conductas descritas en la fracción anterior o por violaciones a lo dispuesto por los artículos 25 fracciones I, II y VI; 26 segundo y tercer párrafos; 40 segundo y tercer párrafos; y 42 de la presente Ley;
 
-III. Multa de 150 a mil días de salario mínimo vigente en el Distrito Federal las violaciones a lo dispuesto por los artículos 25 fracciones III, IV, VII y VIII; 38 tercer párrafo; 55 y 59 de la presente Ley y la Ley Federal de Responsabilidades de los Servidores Públicos; y
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE NOVIEMBRE DE 2010)</small>
+III. Multa de 150 a mil veces la Unidad de Cuenta de la Ciudad de México vigente (sic) las violaciones a lo dispuesto por los artículos 25 fracciones III, IV, VII y VIII; 38 tercer párrafo; 55 y 59 de la presente Ley y la ley Federal de Responsabilidades de los Servidores Públicos; y
 
-III Bis. Multa de 500 a dos mil días de salario mínimo vigente en el Distrito Federal por la violación a lo dispuesto en el artículo 25 fracción XI BIS; y
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+III Bis. Multa de 500 a dos mil veces la Unidad de Cuenta de la Ciudad de México vigente por la violación a lo dispuesto en el artículo 25 fracción XI BIS; y
 
-IV. Multa de mil a veinte mil días de salario mínimo vigente en el Distrito Federal por violaciones a lo dispuesto por los artículos 25 fracciones IX, X, XI, XII y XIII; 36 Bis, 36 Ter y 36 Quater de la presente ley.
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+IV. Multa de mil a veinte mil veces la Unidad de Cuenta de la Ciudad de México vigente por violaciones a lo dispuesto por los artículos 25 fracciones IX, X, XI, XII y XIII; 36 Bis, 36 Ter y 36 Quater de la presente ley.
 
 ###### Artículo 70.
 
@@ -1298,7 +1300,7 @@ POR LA MESA DIRECTIVA.- DIP. ALEJANDRO DIEZ BARROSO REPIZO, PRESIDENTE.- DIP. RO
 
 En cumplimiento de lo dispuesto por los artículos 122. apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48,49 y 67 fracción II, del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los cinco días del mes de abril del dos mil tres.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, LIC. ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, CLAUDIA SHEINBAUM PARDO - FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, CÉSAR BUENROSTRO HERNÁNDEZ - FIRMA.- LA SECRETARIA DE SALUD, ASA CRISTINA LAURELL.- FIRMA.
 
-N. DE E.: A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 10 DE FEBRERO DE 2004.
 
@@ -1363,3 +1365,13 @@ QUINTO.- En consecuencia, la Secretaría del Medio Ambiente, la Secretaría de O
 SEXTO.- El Jefe de Gobierno del Distrito Federal contará con un plazo de 90 días hábiles contados a partir de la entrada en vigor del presente Decreto para realizar los cambios necesarios a la normatividad en la materia y adecuarlos al contenido del presente Decreto.
 
 SÉPTIMO.- Se derogan todas aquellas disposiciones que contravengan el contenido del presente Decreto.
+
+G.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
