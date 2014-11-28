@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-justicia-para-adolescentes-del-estado-de-mexico-53769"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-25"
-last_updated: "2013-11-29"
+last_updated: "2014-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE MEXICO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE DICIEMBRE DE 2014 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 25 de enero de 2007.
 
@@ -745,7 +747,11 @@ En las actuaciones en que comparezcan los denunciantes, ofendidos, testigos, per
 
 Su respuesta se hará constar, y si es en sentido afirmativo, se procederá a recibir la declaración que corresponda.
 
-A los servidores públicos de que habla este artículo, que omitan formular la protesta en los términos referidos, se les impondrán por el superior jerárquico las correcciones disciplinarias a que se refiere el artículo 34 del Código de Procedimientos Penales para el Estado de México.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+A los servidores públicos de que habla este artículo, que omitan formular la protesta en los términos referidos, se les impondrán por el superior jerárquico los medios de apremio a que se refiere el artículo 104 del Código Nacional de Procedimientos Penales.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE AGOSTO DE 2013)</small>
 
@@ -1173,9 +1179,13 @@ IX. Las objeciones en relación con las pruebas admitidas se harán valer inmedi
 
 ### CAPÍTULO V. DE LAS PRUEBAS ADICIONALES Y DE LA VALORACIÓN DE LAS PRUEBAS
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 130.
 
-Adicionalmente a los medios de prueba establecidos en el Código de Procedimientos Penales para el Estado de México, se admitirán en este procedimiento las siguientes:
+Adicionalmente a los medios de prueba establecidos en el Código Nacional de Procedimientos Penales, se admitirán en este procedimiento las siguientes:
 
 I. La presuncional en su doble aspecto, legal y humana: Que es la consecuencia que la ley, o el Juez de Adolescentes deducen de un hecho conocido o debidamente probado para averiguar la verdad de otro desconocido; la primera se llama legal y la segunda humana;
 
@@ -2438,3 +2448,15 @@ SEGUNDO.- El presente Decreto entrará en vigor a los treinta días siguientes d
 TERCERO.- Los asuntos que hayan sido turnados, así como los que se encuentren en trámite ante los órganos jurisdiccionales a los que hace mención la reforma propuesta, continuarán con su substanciación hasta su conclusión, igual circunstancia se observará en las salas del Tribunal Superior de Justicia del Estado, hasta la entrada en vigor del presente Decreto.
 
 CUARTO.- El Consejo de la Judicatura deberá emitir los lineamientos administrativos referentes al sistema de remisión de exhortos y despachos por medios electrónicos, dentro de los treinta días siguientes a la entrada en vigor de este Decreto.
+
+G.G. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el mismo día que entre en vigor el Código Nacional de Procedimientos Penales, en el Estado de México.
+
+TERCERO.- La Secretaría de Seguridad Ciudadana y los municipios de la Entidad, con la entrada en vigor del presente Decreto, deberán contar con cuerpos especializados de policía, con capacidad para cumplir de manera eficaz y eficiente con las atribuciones que derivan de la entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de México.
+
+CUARTO.- El Titular del Ejecutivo Estatal reformará el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de México, antes de la entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de México.
+
+QUINTO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
