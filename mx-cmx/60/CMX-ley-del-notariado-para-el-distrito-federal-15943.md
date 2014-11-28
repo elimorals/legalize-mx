@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-notariado-para-el-distrito-federal-15943"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-28"
-last_updated: "2012-11-16"
+last_updated: "2014-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15943&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-02-14"
 
 LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 28 de marzo de 2000.
 
@@ -41,6 +41,8 @@ DECRETO
 LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL, I LEGISLATURA
 
 DECRETA
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO CUARTO DEL DECRETO SIN NÚMERO, PUBLICADO EN LA G.O. DE 28 DE NOVIEMBRE DE 2014, LAS REFERENCIAS QUE SE HAGAN DEL SALARIO MÍNIMO EN LAS NORMAS LOCALES VIGENTES, INCLUSO EN AQUELLAS PENDIENTES DE PUBLICAR O DE ENTRAR EN VIGOR, SE ENTENDERÁN HECHAS A LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO, A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.</small>
 
 LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL
 
@@ -842,11 +844,11 @@ Para que la persona que haya obtenido la patente pueda actuar en ejercicio de la
 
 Para que el notario del Distrito Federal pueda actuar, debe:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, G.O. 23 DE JULIO DE 2012)</small>
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-I. Obtener fianza del Colegio a favor de las Autoridades competentes, por la cantidad que resulte de multiplicar por veinte mil, el importe del salario mínimo general diario en el Distrito Federal, vigente a la fecha de la constitución de la misma. Sólo que el Colegio, por causa justificada, no otorgue la fianza o la retire, el Notario deberá obtenerla de compañía legalmente autorizada por el monto señalado. Dicha fianza deberá mantenerse vigente y actualizarse en el mes de enero de cada año, modificándose en la misma forma en que se haya modificado a esa fecha el salario mínimo de referencia. El Notario deberá presentar anualmente del Colegio o, en su caso, de la compañía legalmente autorizada, el documento que acredite la constitución de la fianza correspondiente ante la Autoridad competente. La omisión en que incurra el Notario a esta disposición será sancionada por la Autoridad administrativa en términos de la presente Ley. El contrato de fianza correspondiente se celebrará en todo caso en el concepto de que el fiador no gozará de los beneficios de orden y excusión;
+I. Obtener fianza del Colegio a favor de las Autoridades competentes, por la cantidad que resulte de multiplicar por veinte mil veces la Unidad de Cuenta de la Ciudad de México vigente, a la fecha de la constitución de la misma. Sólo que el Colegio, por causa justificada, no otorgue la fianza o la retire, el Notario deberá obtenerla de compañía legalmente autorizada por el monto señalado. Dicha fianza deberá mantenerse vigente y actualizarse en el mes de enero de cada año. El Notario deberá presentar anualmente del Colegio o, en su caso, de la compañía legalmente autorizada, el documento que acredite la constitución de la fianza correspondiente ante la Autoridad competente. La omisión en que incurra el Notario a esta disposición será sancionada por la Autoridad administrativa en términos de la presente Ley. El contrato de fianza correspondiente se celebrará en todo caso en el concepto de que el fiador no gozará de los beneficios de orden y excusión;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -858,7 +860,7 @@ II. Proveerse a su costa de protocolo y sello, registrar su sello, firma y rúbr
 
 III. Establecer una oficina para el desempeño de su función dentro del territorio del Distrito Federal e iniciar el ejercicio de sus funciones en un plazo que no excederá de noventa días naturales contados a partir de la fecha en que rinda su protesta;
 
-IV. Dar aviso de lo anterior a las autoridades competentes y al Colegio; señalando con precisión al exterior del inmueble que ocupe, el número de la notaría; su nombre y apellidos; horario de trabajo, días hábiles o si prefiere los inhábiles; teléfonos y otros datos que permitan al público la expedita comunicación con la notaría a su cargo, y (sic)
+IV. Dar aviso de lo anterior a las autoridades competentes y al Colegio; señalando con precisión al exterior del inmueble que ocupe, el número de la notaría; su nombre y apellidos; horario de trabajo, días hábiles o si prefiere los inhábiles; teléfonos y otros datos que permitan al público la expedita comunicación con la notaría a su cargo, y
 
 V. Ser miembro del Colegio;
 
@@ -2192,9 +2194,13 @@ VII. Por no obtener en tiempo o mantener en vigor la garantía del ejercicio de 
 
 VIII. Por cualquier otra falta menor que sea subsanable.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 227.
 
-Se sancionará al notario con multa de uno a doce meses de salario mínimo general vigente en el momento del incumplimiento:
+Se sancionará al notario con multa de uno a treinta veces la Unidad de Cuenta de la Ciudad de México vigente en el momento del incumplimiento:
 
 I. Por reincidir, en la comisión de alguna de las faltas a que se refiere el artículo anterior, o por no haber constituido o reconstituido la fianza en el plazo de un mes a partir de la aplicación de la sanción a que se refiere la fracción VII del artículo anterior;
 
@@ -2847,3 +2853,13 @@ PRIMERO.- Las reformas a la Ley Orgánica y al Reglamento Interior de las Comisi
 SEGUNDO.- Las reformas mencionadas a la Ley del Notariado entrarán en vigor al momento de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO.- Remítase al Jefe de Gobierno del Distrito Federal para efectos de su publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
