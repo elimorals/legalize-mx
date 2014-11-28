@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-comision-estatal-de-energia-de-72772"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-01-08"
-last_updated: "2010-01-08"
+last_updated: "2014-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72772&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,17 @@ state: "BCN"
 ---
 # REGLAMENTO INTERNO DE LA COMISION ESTATAL DE ENERGIA DE BAJA CALIFORNIA
 
-REGLAMENTO INTERNO DE LA COMISION ESTATAL DE ENERGIA DE BAJA CALIFORNIA
+REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL DE ENERGÍA DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL DE ENERGÍA DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 28 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 8 de enero de 2010.
 
 JOSÉ GUADALUPE OSUNA MILLÁN, GOBERNADOR DEL ESTADO, EN EJERCICIO DE LA FACULTAD QUE ME CONFIERE EL ARTÍCULO 49 FRACCIÓN I Y XVI DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA; Y CON FUNDAMENTO EN LOS ARTÍCULOS 3 Y 9 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA, Y
 
-CONSIDERANDO.
+CONSIDERANDO...
 
 NOVENO.- Que en términos de lo dispuesto por el articulo 49 fracciones I y XVI, de la Constitución Política del Estado Libre y Soberano de Baja California, el Gobernador del Estado está facultado para formular y expedir los reglamentos para el buen despacho de la Administración Pública, así como hacer que se cumplan las leyes y demás disposiciones que tengan vigencia en el Estado; por lo que se expide el siguiente:
 
@@ -209,7 +211,7 @@ a) Unidad de Asuntos Jurídicos.
 
 I.1.- Subdirección Técnica.
 
-I 2.- Subdirección Administrativa y Financiera.
+I.2.- Subdirección Administrativa y Financiera.
 
 #### SECCIÓN I. DE LA DIRECCIÓN GENERAL
 
@@ -372,3 +374,13 @@ JOSÉ GUADALUPE OSUNA MILLÁN
 SECRETARIO DE GOBIERNO
 
 JOSÉ FRANCISCO BLAKE MORA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interno de la Comisión Estatal de Energía de Baja California, publicado en el Periódico Oficial del Estado el 08 de enero de 2010.
+
+TERCERO.- Los asuntos que se encontraren en trámite al momento de entrar en vigor el presente ordenamiento, serán resueltos por la unidad administrativa que corresponda, conforme a las atribuciones que este reglamento le confiere.
