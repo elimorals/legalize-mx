@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-ministerio-publico-del-estado-de-guanajuato-78
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-24"
-last_updated: "2012-09-11"
+last_updated: "2014-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78873&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE GUANAJUATO
 
-LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE GUANAJUATO
+LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 24 de diciembre de 2010.
 
@@ -73,17 +73,23 @@ IV. Las personas que sean sujetas a acciones de procuración de justicia de conf
 
 Principios rectores y naturaleza jurídica
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 3.
 
-La función ministerial se regirá por los principios de respeto a los derechos humanos, certeza, buena fe, unidad, objetividad, indivisibilidad, irrevocabilidad, imparcialidad, irrecusabilidad, independencia, legalidad, probidad, profesionalismo, celeridad, eficiencia y eficacia, cuya finalidad será proporcionar una pronta, plena y adecuada procuración de justicia.
+La función ministerial se regirá por los principios de respeto a los derechos humanos, certeza, buena fe, unidad, objetividad, indivisibilidad, irrevocabilidad, imparcialidad, irrecusabilidad, independencia, legalidad, probidad, profesionalismo, lealtad, celeridad, eficiencia y eficacia, cuya finalidad será proporcionar una pronta, plena y adecuada procuración de justicia.
 
 La Procuraduría General de Justicia forma parte de la administración pública estatal centralizada, cuenta con autonomía técnica, operativa y de criterio jurídico, y ejerce sus funciones bajo la dirección del Procurador General de Justicia.
 
 Función ministerial
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 4.
 
-La función ministerial recaerá en el Procurador, los Subprocuradores, los Directores Ministeriales, los Jefes de Zona y los Agentes y Delegados del Ministerio Público.
+La función ministerial recaerá en el Procurador, los Subprocuradores, en los Directores, Coordinadores, Subcoordinadores, los Jefes Ministeriales y en los Agentes del Ministerio Público.
 
 En el sistema a que se refieren los artículos 18 de la Constitución Política de los Estados Unidos Mexicanos y 13 de la Constitución particular del estado, se ejercerá por el Ministerio Público Especializado en Justicia para Adolescentes.
 
@@ -115,7 +121,11 @@ V. Respetar en su actuación los Derechos Humanos;
 
 VI. Establecer, desarrollar y operar los mecanismos de selección, permanencia, profesionalización, especialización, retiro y vinculación de sus servidores públicos, en los términos de esta Ley;
 
-VII. Otorgar a la víctima o al ofendido del delito o de conductas tipificadas como tales, la atención médica, psicológica y asistencia social de urgencia, en términos de la normatividad aplicable;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+VII. Otorgar a la víctima o al ofendido del delito o de conductas tipificadas como tales, asesoría jurídica penal, así como atención médica, psicológica y asistencia social de urgencia, en términos de la normatividad aplicable;
 
 VIII. Promover la aplicación de mecanismos alternativos de solución de controversias, de conformidad con la normativa correspondiente; y
 
@@ -135,47 +145,117 @@ I. El Procurador General de Justicia;
 
 II. Las Subprocuradurías;
 
-III. La Visitaduría General;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-IV. La Comisión Interna de Consulta;
+III. La Fiscalía Especializada en Investigación de Delitos cometidos por Servidores Públicos;
 
-V. La Comisión Externa de Consulta;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-VI. La Comisión del Servicio de Carrera del Ministerio Público y Peritos;
+IV. La Agencia de Investigación Criminal, a la cual se adscribirán:
 
-VII. La Comisión del Servicio Profesional de Carrera Policial y de Honor y Justicia;
+a) La Dirección General de la Policía Ministerial;
 
-VIII. Las Direcciones Ministeriales;
+b) La Dirección General de Servicios Periciales;
 
-IX. La Coordinación General Ejecutiva;
+c) La Dirección de Análisis de Información;
 
-X. La Coordinación de Agencias Especializadas en Justicia para Adolescentes;
+d) La Dirección de Tecnologías de Información;
 
-XI. La Coordinación de Atención a Víctimas del Delito;
+e) El Centro de Atención y Servicios; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+f) Las demás áreas que prevea la normatividad aplicable.
 
-XII. (DEROGADA, P.O. 11 DE SEPTIEMBRE DE 2012)
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-XIII. Las Jefaturas de Zona del Ministerio Público;
+V. La Visitaduría General;
 
-XIV. Los Agentes y Delegados del Ministerio Público;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-XV. Los Agentes del Ministerio Público Especializados en Justicia para Adolescentes;
+VI. La Comisión Interna de Consulta;
 
-XVI. La Dirección General de Administración;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-XVII. La Coordinación General de Servicios Periciales;
+VII. La Comisión Externa de Consulta;
 
-XVIII. La Coordinación General de la Policía Ministerial;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-XIX. La Dirección de Informática, Sistemas y Telecomunicaciones;
+VIII. La Comisión del Servicio de Carrera del Ministerio Público y Peritos;
 
-XX. El Consejo de Profesionalización del Ministerio Público;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-XXI. El Instituto de Formación Profesional; y
+IX. La Comisión del Servicio Profesional de Carrera Policial y de Honor y Justicia;
 
-XXII. Las demás áreas que prevea el reglamento de esta Ley.
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+X. La Coordinación de Atención a Víctimas y Ofendidos del Delito;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XI. La Unidad de Asesoría Jurídica Penal a Víctimas y Ofendidos del Delito;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XII. La Unidad de Supervisión de Medidas Cautelares y de la Suspensión Condicional del Proceso;
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XIII. Las Direcciones Ministeriales;
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XIV. Las Unidades de Investigación Especializadas;
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XV. Las Jefaturas Ministeriales;
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XVI. Los Agentes del Ministerio Público;
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XVII. Los Agentes del Ministerio Público Especializados en Justicia para Adolescentes;
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XVIII. Los Módulos de Atención Primaria;
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XIX. La Unidad de Atención Integral y Especializada a las Mujeres;
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XX. El Centro de Evaluación y Control de Confianza;
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XXI. La Dirección General de Administración;
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XXII. La Dirección General Jurídica;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XXIII. La Unidad de Administración y Disposición de Bienes Relacionados con Hechos Delictuosos;
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XXIV. El Instituto de Formación Profesional; y
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XXV. Las demás áreas que deriven del marco normativo.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Asimismo, la Procuraduría tendrá a su cargo la administración, dirección y coordinación del Centro de Justicia para las Mujeres del Estado de Guanajuato.
 
 Organización
 
@@ -191,9 +271,11 @@ Cada Subprocuraduría tendrá las direcciones, coordinaciones, unidades, agencia
 
 Designación de titulares de las áreas de la Procuraduría
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 10.
 
-El Procurador nombrará y removerá libremente a los Subprocuradores, al titular de la Policía Ministerial y al Visitador General. Los demás servidores públicos de la Procuraduría serán nombrados y removidos en los términos de esta Ley, su reglamento y demás disposiciones aplicables.
+El Procurador nombrará y removerá libremente a los Subprocuradores, al titular de la Agencia de Investigación Criminal, de la Policía Ministerial y al Visitador General. Los demás servidores públicos de la Procuraduría serán nombrados y removidos en los términos de esta Ley, su reglamento y demás disposiciones aplicables.
 
 Sistema de profesionalización
 
@@ -226,6 +308,20 @@ Actas de atención y circunstanciadas
 ###### Artículo 15.
 
 La Procuraduría levantará actas de atención y actas circunstanciadas, cuando así se requiera y resulte procedente, por conducto del personal y de los agentes del Ministerio Público que determine el reglamento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Asimismo, expedirá constancias de antecedentes penales y de revisión vehicular, previo pago de derechos conforme a la legislación aplicable, por conducto del personal y área que prevea el Reglamento de esta Ley o determine el Procurador mediante Acuerdo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Facultad de abstenerse de investigar
+
+###### Artículo 15 Bis.
+
+El Ministerio Público podrá abstenerse de investigar, cuando los hechos relatados en la denuncia, querella o acto equivalente, no fueren constitutivos de delito o cuando los antecedentes y datos suministrados permitan establecer que se encuentra extinguida la acción penal o la responsabilidad penal del imputado. Esta decisión será siempre fundada y motivada.
 
 ### Capítulo II. Procurador General de Justicia
 
@@ -281,7 +377,11 @@ V. Solicitar la declaración de procedencia por la comisión de delitos del orde
 
 VI. Orientar las políticas de participación de la Procuraduría en las instancias de coordinación de los Sistemas Nacional y Estatal de Seguridad Pública, de acuerdo con la ley de la materia y demás disposiciones aplicables, así como participar, promover, celebrar, ejecutar y dar seguimiento en el ámbito de su competencia a los acuerdos que se adopten en el marco de dichos sistemas;
 
-VII. Auxiliar y en su caso solicitar el auxilio de las autoridades federales, estatales y municipales en la investigación de los delitos, en los términos previstos en las leyes o en los convenios que al respecto se celebren;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+VII. Auxiliar y en su caso solicitar el auxilio de las autoridades federales, estatales y municipales en la investigación de los delitos y en materia de asistencia jurídica internacional, en los términos previstos en las leyes o en los convenios que al respecto se celebren;
 
 VIII. Celebrar contratos, convenios de colaboración y de coordinación, así como acuerdos interinstitucionales, para el cumplimiento de las atribuciones de la Procuraduría;
 
@@ -339,7 +439,17 @@ Naturaleza y atribuciones del Ministerio Público
 
 El Ministerio Público es la Institución que por disposición de la Constitución Política de los Estados Unidos Mexicanos y de la del Estado, tiene a su cargo la investigación y persecución de los delitos, y le corresponde el ejercicio de la acción penal ante los tribunales, sin perjuicio de aquellos casos en que lo puedan hacer los particulares.
 
-El Ministerio Público dirigirá la investigación de los delitos y, para ese efecto, las policías actuarán bajo su conducción y mando, en términos de lo previsto por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política para el Estado de Guanajuato, las disposiciones aplicables y los protocolos de actuación que se establezcan al respecto.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+El Ministerio Público conducirá la investigación, dirigirá a las Policías y coordinará a los servicios periciales durante la investigación, en términos de lo previsto por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política para el Estado de Guanajuato y los Tratados Internacionales, las disposiciones aplicables y los Protocolos de actuación que se establezcan al respecto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+La investigación de los delitos se efectuará de manera inmediata, eficiente, exhaustiva, profesional e imparcial, libre de estereotipos y discriminación, orientada a explorar todas las líneas de investigación posibles que permitan allegarse de datos para el esclarecimiento del hecho que la ley señala como delito, así como la identificación de quien lo cometió o participó en su comisión.
 
 Ejercicio de atribuciones del Ministerio Público
 
@@ -365,7 +475,11 @@ Atribuciones
 
 El Ministerio Público, para el cumplimiento de sus funciones constitucionales y legales, tiene las siguientes atribuciones:
 
-I. Recibir las denuncias o querellas que le sean presentadas sobre acciones u omisiones que puedan constituir delitos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+I. Recibir las denuncias o querellas que le presenten en forma oral, por escrito, o a través de medios digitales, incluso mediante denuncias anónimas en términos de las disposiciones legales aplicables, sobre hechos que puedan constituir algún delito;
 
 II. Investigar los hechos materia de la denuncia o querella;
 
@@ -379,7 +493,11 @@ VI. Propiciar, cuando proceda, mecanismos alternativos de solución de controver
 
 VII. Asegurar objetos, productos e instrumentos del delito y efectos de él, elementos materiales, indicios y toda evidencia física, así como dispositivos y medios de almacenamiento electrónicos y sistemas de información en general, que puedan constituir dato de prueba de la comisión del hecho punible, en términos de las disposiciones aplicables;
 
-VIII. Asegurar bienes, declarar su abandono y participar en la disposición final de los mismos con las demás autoridades intervinientes, en los términos y plazos que establezcan las disposiciones aplicables;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+VIII. Asegurar bienes y participar en la disposición final de los mismos con las demás autoridades intervinientes, en los términos y plazos que establezcan las disposiciones aplicables;
 
 IX. Dirigir y coordinar a la Policía Ministerial y otras policías en funciones de investigación, así como a los servicios periciales y a sus demás órganos auxiliares;
 
@@ -409,9 +527,29 @@ XXI. Intervenir conforme a las leyes aplicables en los juicios civiles y de cual
 
 XXII. Promover la extinción de dominio de bienes relacionados o vinculados con delitos, en los términos de la normativa aplicable;
 
-XXIII. Calificar la detención y decretar la retención de los inculpados en términos de la legislación procesal penal; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXIV. Las demás que le asignen las disposiciones legales aplicables y de manera particular las previstas en la legislación procesal penal.
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XXIII. Ordenar, en casos urgentes, bajo su responsabilidad y fundando y expresando los datos de prueba que motiven su proceder, la detención de una persona, en los supuestos y términos autorizados en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política para el Estado de Guanajuato y en la legislación aplicable;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XXIV. Calificar la detención y decretar la retención de los imputados en términos de la legislación procesal penal;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XXV. Vigilar que en toda investigación de los delitos se cumpla estrictamente con los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política para el Estado de Guanajuato y en los Tratados Internacionales; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XXVI. Las demás que le asignen las disposiciones legales aplicables y de manera particular las previstas en la legislación procesal penal.
 
 Auxiliares del Ministerio Público
 
@@ -537,9 +675,19 @@ Atribuciones de la Policía Ministerial
 
 La Policía Ministerial tendrá las siguientes atribuciones:
 
-I. Recibir las denuncias o querellas que le sean presentadas sobre acciones u omisiones que puedan constituir delitos, cuando así proceda;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+I. Recibir las denuncias o querellas sobre hechos que puedan ser constitutivos de delito e informar al Ministerio Público por cualquier medio y de forma inmediata de las diligencias practicadas;
 
 II. Investigar los hechos denunciados o querellados, bajo la conducción y mando del Ministerio Público;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Tratándose de informaciones anónimas, constatará la veracidad de los datos aportados mediante los actos de investigación que consideren conducentes para este efecto. De confirmarse la información, se iniciará la investigación correspondiente;
 
 III. Verificar la información de las denuncias que le sean presentadas cuando éstas no sean lo suficientemente claras o la fuente no esté identificada, e informará al Ministerio Público;
 
@@ -565,17 +713,37 @@ XIII. Dar cumplimiento a las órdenes de aprehensión y demás mandatos minister
 
 XIV. Hacer uso de la fuerza pública de manera racional, congruente, oportuna y con respeto a los derechos humanos; y
 
-XV. Las que de manera específica señale la Ley General del Sistema Nacional de Seguridad Pública y las demás disposiciones jurídicas aplicables.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Técnicas de Investigación en caso de delitos graves
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XV. Entrevistar a las personas que pudieran aportar algún dato o elemento para la investigación;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XVI. Requerir a las autoridades competentes y solicitar a las personas físicas o morales, informes y documentos para fines de la investigación. En caso de negativa, informará al Ministerio Público para que determine lo conducente; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XVII. Las que de manera específica señale la Ley General del Sistema Nacional de Seguridad Pública y las demás disposiciones jurídicas aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Técnicas de investigación en caso de delitos
 
 ###### Artículo 36.
 
-Tratándose de investigaciones de delitos graves, el Procurador o el servidor público en quien se delegue tal atribución, podrá autorizar a elementos de la Policía Ministerial, para que acudan a determinados lugares, se introduzcan entre grupos de personas o actividades, sin dar a conocer su identidad o la simulen, haciendo uso de los instrumentos y herramientas con que se cuente en la Institución para tal efecto, a fin de llevar a cabo la investigación de hechos punibles y para el conocimiento de formas de operación de integrantes de grupos o personas relacionadas con conductas ilícitas, identificación o rescate de personas y para el aseguramiento de objetos, productos, instrumentos o efectos del delito, y toda evidencia que pueda constituir dato de prueba de la comisión del hecho punible.
+Tratándose de investigaciones de delitos, el Procurador o el servidor público en quien se delegue tal atribución, podrá autorizar a elementos de la Policía Ministerial, para que acudan a determinados lugares, se introduzcan entre grupos de personas o actividades, sin dar a conocer su identidad o la simulen, haciendo uso de los instrumentos y herramientas con que se cuente en la Institución para tal efecto, a fin de llevar a cabo la investigación de hechos punibles y para el conocimiento de formas de operación de integrantes de grupos o personas relacionadas con conductas ilícitas, identificación o rescate de personas y para el aseguramiento de objetos, productos, instrumentos o efectos del delito, y toda evidencia que pueda constituir dato de prueba de la comisión del hecho punible.
 
-El Procurador expedirá los lineamientos generales para el cumplimiento de lo dispuesto en el párrafo anterior, lo que será catalogado como información reservada.
+El Procurador expedirá los protocolos para el cumplimiento de lo dispuesto en el párrafo anterior, lo que será catalogado como información reservada.
 
-En las actividades que desarrollen el o los elementos de Policía Ministerial en términos de este artículo se considerará que actúan en cumplimiento de un deber, siempre que su desempeño se apegue a los lineamientos generales a que se refiere el párrafo precedente.
+En las actividades que desarrollen el o los elementos de Policía Ministerial en términos de este artículo se considerará que actúan en cumplimiento de un deber, siempre que su desempeño se apegue a lo dispuesto en los párrafos precedentes.
 
 Informe Policial Homologado
 
@@ -593,7 +761,7 @@ IV. Motivo, que se clasifica en:
 
 a) Tipo de evento; y
 
-b) Subtipo de evento.
+b) Subtipo de evento;
 
 V. La ubicación del evento;
 
@@ -709,7 +877,7 @@ Servicios Periciales
 
 ###### Artículo 42.
 
-Los (sic) Servicios Periciales es el auxiliar técnico y científico del Ministerio Público que tiene a su cargo la elaboración, por conducto de los peritos, de informes y dictámenes en las diversas especialidades forenses con estricto apego a la ley. Actuará bajo la autoridad y mando inmediato del Ministerio Público, y contará con la autonomía técnica e independencia de criterio que le corresponde en el estudio de los asuntos que se someten a su pericia.
+Los Servicios Periciales es el auxiliar técnico y científico del Ministerio Público que tiene a su cargo la elaboración, por conducto de los peritos, de informes y dictámenes en las diversas especialidades forenses con estricto apego a la ley. Actuará bajo la autoridad y mando inmediato del Ministerio Público, y contará con la autonomía técnica e independencia de criterio que le corresponde en el estudio de los asuntos que se someten a su pericia.
 
 Atribuciones generales de los Servicios Periciales
 
@@ -727,7 +895,7 @@ IV. Preservar la integridad de los indicios, huellas o vestigios del hecho delic
 
 V. Elaborar y actualizar las guías, manuales y protocolos para la formulación de dictámenes periciales;
 
-VI. Integrar el archivo criminal de la Procuraduría y expedir las cartas de antecedentes penales; y
+VI. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2014); y
 
 VII. Las que señale la legislación procesal penal, el reglamento de esta Ley y las demás disposiciones aplicables.
 
@@ -765,13 +933,51 @@ El Ministerio Público podrá habilitar en carácter de perito a cualquier perso
 
 En casos urgentes, preferentemente habilitará en carácter de perito a servidores públicos de instancias gubernamentales, dentro del área, ciencia o disciplina de que se trate.
 
-### Capítulo VI. Atención a Víctimas del Delito
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+### Capítulo VI. Análisis de Información
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Analistas de información
+
+###### Artículo 45 Bis.
+
+Los analistas de información, son peritos en su rama, auxiliares del Ministerio Público, encargados de rastrear, identificar, recabar, registrar, almacenar, procesar, clasificar, analizar e interrelacionar información para la investigación de los delitos, conformando bases de datos y sistemas automatizados que permitan el análisis y el uso constante de la información acumulada y la implementación de estrategias o tácticas indagatorias.
+
+La información obtenida con motivo de las atribuciones referidas en el párrafo anterior, sólo podrá ser utilizada para efectos de la investigación de los delitos.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Requisitos para ser analista de información
+
+###### Artículo 45 Ter.
+
+Para ser analista de información se requiere:
+
+I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos, preferentemente guanajuatense;
+
+II. Tener título profesional de licenciatura o grado académico afín, o bien, contar con dos años de experiencia dentro de la Procuraduría;
+
+III. Presentar y aprobar los exámenes, evaluaciones y cursos que se apliquen de acuerdo a la normatividad correspondiente;
+
+IV. Tener reconocida probidad y ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso, ni estar sujeto a proceso penal por delito doloso;
+
+V. No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público, ni estar sujeto a procedimiento de responsabilidad por falta grave que amerite tales sanciones;
+
+VI. No hacer uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo;
+
+VII. Aprobar los procesos de evaluación de control de confianza; y
+
+VIII. Los demás requisitos que establezcan los ordenamientos jurídicos conducentes.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO VI], P.O. 28 DE NOVIEMBRE DE 2014)
+
+### Capítulo VII. Atención a Víctimas del Delito
 
 Obligación de la Procuraduría
-
-### Capítulo VII. Criterios de Oportunidad
-
-Aplicación exclusiva de los criterios de oportunidad
 
 ###### Artículo 46.
 
@@ -789,17 +995,37 @@ II. Solicitar la colaboración de las dependencias e instituciones, así como la
 
 III. Celebrar los convenios necesarios con instituciones públicas o privadas para el cumplimiento de sus objetivos; y
 
-IV. Las demás que le confieran otros ordenamientos jurídicos aplicables.
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+IV. Brindar atención y apoyo a las mujeres víctimas del delito y a efecto de que la reparación del daño se realice de manera integral, adecuada, diferenciada, transformadora y efectiva por el daño o menoscabo que hayan sufrido en sus derechos como consecuencia de una conducta susceptible de ser tipificada como delito, bajo un enfoque de derechos humanos y con perspectiva de género;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+V. Orientar, asesorar o intervenir legalmente en el procedimiento penal en representación de la víctima u ofendido, a través de los asesores jurídicos de la Unidad de Asesoría Jurídica Penal a Víctimas y Ofendidos del Delito, en los términos de la legislación conducente; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+VI. Las demás que le confieran otros ordenamientos jurídicos aplicables.
 
 Remisión de derechos a otras leyes
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 48.
 
-Durante la averiguación previa y el proceso penal, la víctima u ofendido del delito o conductas tipificadas como tales, tendrá los derechos a que se refiere la Ley de Atención y Apoyo a la Víctima y al Ofendido del Delito en el Estado de Guanajuato.
+Durante el procedimiento penal, la víctima u ofendido del delito o conductas tipificadas como tales, tendrá los derechos a que se refieren la Ley General de Víctimas, la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y las leyes locales en la materia.
 
-### Capítulo VIII. Excusa y Recusación
+(REUBICADO [N. DE E. ANTES CAPÍTULO VII], P.O. 28 DE NOVIEMBRE DE 2014)
 
-Motivos de excusa y recusación
+### Capítulo VIII. Criterios de Oportunidad
+
+Aplicación exclusiva de los criterios de oportunidad
 
 ###### Artículo 49.
 
@@ -811,17 +1037,33 @@ Aplicación de los criterios de oportunidad
 
 Para aplicar criterios de oportunidad invariablemente el agente del Ministerio Público:
 
-I. Requerirá autorización de su superior jerárquico;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Verificará que se encuentre reparado razonablemente el daño ocasionado a la víctima u ofendido del delito;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-III. Deberá sujetarse a la reglamentación y a los lineamientos generales que emita el Procurador, con base en razones objetivas, de forma transparente y sin discriminación;
+I. Requerirá autorización del Procurador o de su superior jerárquico;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+II. Verificará que se encuentre reparado o garantizado razonablemente el daño ocasionado a la víctima u ofendido del delito o que exista constancia de manifestación de ésta sobre falta de interés jurídico en dicha reparación;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+III. Deberá sujetarse a la reglamentación, a los lineamientos y criterios generales que emita el Procurador, con base en razones objetivas, de forma transparente y sin discriminación, valorando las circunstancias especiales en cada caso, de conformidad con lo dispuesto en la normatividad aplicable;
 
 IV. En caso de que se requiera, solicitará los dictámenes correspondientes y demás elementos que resulten necesarios para determinar la procedencia de la aplicación del criterio de oportunidad;
 
 V. Consultará el registro general de la aplicación de criterios de oportunidad;
 
-VI. Deberá cerciorarse que no se afecte gravemente el interés público y que los hechos no hayan sido cometidos dolosamente por servidores públicos en ejercicio de su cargo o con motivo de él; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+VI. Deberá cerciorarse que no se trate de delitos contra el libre desarrollo de la personalidad, de violencia familiar, ni en los casos de delitos fiscales o aquellos que afecten gravemente el interés público; y
 
 VII. Las demás que derivan de las disposiciones respectivas.
 
@@ -833,13 +1075,19 @@ Registro de los criterios de oportunidad
 
 La Procuraduría General de Justicia, a través del área correspondiente, llevará el registro general de los asuntos en los que se haya aplicado un criterio de oportunidad en la institución, sin perjuicio del registro propio de las agencias del Ministerio Público que lo apliquen.
 
-### Capítulo I. Sistema de servicio de carrera
+(REUBICADO [N. DE E. ANTES CAPÍTULO VIII], P.O. 28 DE NOVIEMBRE DE 2014)
 
-Definición del sistema de servicio de carrera
+### Capítulo IX. Excusa y Recusación
+
+Motivos de excusa y recusación
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 52.
 
-Los servidores públicos de la Procuraduría deberán excusarse del conocimiento de los asuntos en que intervengan, por los mismos motivos establecidos respecto de los jueces y magistrados en la legislación procesal penal del Estado. El inculpado, la víctima u ofendido, podrán solicitar por escrito la recusación invocando alguno de tales motivos.
+Los servidores públicos de la Procuraduría deberán excusarse del conocimiento de los asuntos en que intervengan, por los mismos motivos establecidos respecto de los jueces y magistrados en la legislación procesal penal aplicable. El inculpado, la víctima u ofendido, podrán solicitar por escrito la recusación invocando alguno de tales motivos.
 
 Excusa
 
@@ -873,7 +1121,9 @@ Se considerará falta administrativa el que un servidor público no se excuse es
 
 ## Título Tercero. Servicio, Desarrollo, Formación y Responsabilidades de los Servidores Públicos de la Procuraduría General de Justicia
 
-### Capítulo II. Servicio de carrera del Ministerio Público y Peritos
+### Capítulo I. Sistema de servicio de carrera
+
+Definición del sistema de servicio de carrera
 
 ###### Artículo 57.
 
@@ -885,7 +1135,7 @@ Propósitos del servicio de carrera
 
 El servicio de carrera tiene como propósito desarrollar, en quienes ingresen a él, conocimientos, habilidades y actitudes, así como reforzar sus valores a fin de alcanzar en forma integral su desempeño profesional.
 
-### Capítulo III. Desarrollo Policial
+### Capítulo II. Servicio de carrera del Ministerio Público y Peritos
 
 #### Sección Primera. Concepto, etapas y bases del servicio de carrera
 
@@ -1031,7 +1281,7 @@ Separación del servicio
 
 La separación del servicio de carrera ministerial y pericial por el incumplimiento de los requisitos de ingreso y permanencia, se sujetará a las siguientes reglas y las demás que se establezcan en el reglamento de esta Ley:
 
-I. Se deberá presentar reporte fundado y motivado ante la Visitaduría General, en el cual deberá señalarse el requisito de ingreso o permanencia que presuntamente haya sido incumplido por el integrante del servicio de carrera de la Procuraduría, adjuntando o señalando los documentos y demás pruebas que se considere (sic) pertinentes;
+I. Se deberá presentar reporte fundado y motivado ante la Visitaduría General, en el cual deberá señalarse el requisito de ingreso o permanencia que presuntamente haya sido incumplido por el integrante del servicio de carrera de la Procuraduría, adjuntando o señalando los documentos y demás pruebas que se considere pertinentes;
 
 II. La Visitaduría General notificará el reporte al servidor público respectivo y lo citará a una audiencia, dentro de los tres días hábiles siguientes, para que manifieste lo que a su derecho convenga, y adjunte los documentos y demás elementos probatorios que estime procedentes;
 
@@ -1069,9 +1319,7 @@ Objeto de la Comisión del Servicio de Carrera del Ministerio Público y Peritos
 
 La Comisión del Servicio de Carrera del Ministerio Público y Peritos tiene por objeto administrar, diseñar y ejecutar los lineamientos del servicio de carrera de ministerios públicos y peritos, comprendiendo las etapas del mismo desde el reclutamiento hasta la separación del servicio, establecerá y publicará la forma y criterios de evaluación para el ingreso y promoción de los servidores públicos del servicio de carrera y resolverá sobre la designación de los servidores públicos con base en la evaluación.
 
-### Capítulo IV. Instituto de Formación Profesional
-
-Objetivo del Instituto
+### Capítulo III. Desarrollo Policial
 
 #### Sección Primera. Concepto y Bases del Desarrollo Policial
 
@@ -1329,9 +1577,9 @@ La Comisión del Servicio Profesional de Carrera Policial y de Honor y Justicia,
 
 V. En lo no previsto y en lo que no se oponga, el procedimiento de separación de la carrera policial por el incumplimiento de los requisitos de ingreso y permanencia, se sujetará a lo dispuesto para el procedimiento de responsabilidad administrativa establecido en el Capítulo V de este Título.
 
-### Capítulo V. Responsabilidades
+### Capítulo IV. Instituto de Formación Profesional
 
-Responsabilidad de los servidores públicos de la Procuraduría
+Objetivo del Instituto
 
 ###### Artículo 96.
 
@@ -1409,9 +1657,9 @@ Obligación de profesionalizarse
 
 Los servidores públicos de la Procuraduría están obligados a participar en las actividades de profesionalización, que al efecto se determinen.
 
-### Capítulo VI. Régimen Disciplinario del Personal Policial
+### Capítulo V. Responsabilidades
 
-Disciplina policial
+Responsabilidad de los servidores públicos de la Procuraduría
 
 ###### Artículo 100.
 
@@ -1475,7 +1723,7 @@ VI. Faltar injustificadamente a sus actividades por más de tres días en un per
 
 VII. Faltar a la verdad, en las solicitudes que presenten para la obtención de permisos o autorizaciones;
 
-VIII. Solicitar u obtener un beneficio indebido de autoridades, funcionarios, abogados litigantes o de cualquier otra persona, valiéndose de la condición de servidor público de Procuraduría (sic);
+VIII. Solicitar u obtener un beneficio indebido de autoridades, funcionarios, abogados litigantes o de cualquier otra persona, valiéndose de la condición de servidor público de Procuraduría;
 
 IX. Destruir, mutilar, ocultar o alterar expedientes o documentos que tengan a su cargo con motivo de su función;
 
@@ -1697,9 +1945,9 @@ La persona que hubiera dejado de pertenecer a la Procuraduría podrá ser sujeta
 
 Las sanciones a las que se refiere este artículo también podrán ser aplicadas a aquellos servidores públicos que se hubieran separado del cargo por cualquier causa durante la substanciación del procedimiento de responsabilidad administrativa, con independencia de la falta administrativa que se le impute y de las consecuencias ocasionadas con la misma.
 
-### Capítulo VII. Recurso de Reconsideración
+### Capítulo VI. Régimen Disciplinario del Personal Policial
 
-Recurso de Reconsideración
+Disciplina policial
 
 ###### Artículo 117.
 
@@ -1779,9 +2027,9 @@ Funcionamiento de la Comisión del Servicio Profesional de Carrera Policial y de
 
 El funcionamiento de la Comisión del Servicio Profesional de Carrera Policial y de Honor y Justicia, se regirá por lo que disponga el reglamento de esta Ley.
 
-### Capítulo VIII. Prescripción de la Responsabilidad Administrativa y de las Medidas y Correcciones Disciplinarias
+### Capítulo VII. Recurso de Reconsideración
 
-Prescripción
+Recurso de Reconsideración
 
 ###### Artículo 123.
 
@@ -1799,9 +2047,9 @@ Resolución del Recurso de Reconsideración
 
 El Procurador resolverá el recurso de reconsideración en el término de diez días hábiles, debiendo notificarse en forma personal dentro del plazo de tres días hábiles siguientes a la fecha de la resolución en el domicilio para oír y recibir notificaciones, que el servidor público deberá señalar en la ciudad de Guanajuato, capital, en el propio escrito de interposición del recurso, en caso de no señalar domicilio se le harán las notificaciones por lista que se fije en la Visitaduría General.
 
-### Capítulo IX. Impedimentos
+### Capítulo VIII. Prescripción de la Responsabilidad Administrativa y de las Medidas y Correcciones Disciplinarias
 
-Impedimentos
+Prescripción
 
 ###### Artículo 126.
 
@@ -1823,9 +2071,9 @@ Si el medio de defensa interpuesto por el servidor público ordena la reposició
 
 La prescripción podrá decretarse de oficio o a petición de parte.
 
-### Capítulo Único. Disposiciones Complementarias
+### Capítulo IX. Impedimentos
 
-Protesta del cargo
+Impedimentos
 
 ###### Artículo 129.
 
@@ -1839,7 +2087,19 @@ III. Ejercer las funciones de tutor, curador o albacea judicial, a no ser que te
 
 IV. Ejercer o desempeñar las funciones de depositario o apoderado judicial, síndico, administrador, interventor en quiebra o concurso, notario, corredor, comisionista o árbitro.
 
-## Título Cuarto. Disposiciones Complementarias
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+## Título Cuarto. Disposiciones Finales
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+### Capítulo I. Disposiciones Complementarias
+
+Protesta del cargo
 
 ###### Artículo 130.
 
@@ -1865,9 +2125,11 @@ En los procedimientos judiciales o administrativos en que deba intervenir el Pro
 
 Diligencias de investigación fuera del lugar de trámite de la indagatoria
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 133.
 
-Las diligencias de investigación de los delitos que deban practicarse fuera del lugar en que se esté tramitando alguna indagatoria, se encargarán a quien corresponda desempeñar esas funciones en el lugar donde deban practicarse, enviándole comunicación por cualquier medio con las inserciones necesarias, conservando la constancia respectiva o bien, el Procurador, los subprocuradores o los directores ministeriales, facultarán a los servidores públicos del Ministerio Público para que realicen las actividades propias de su función en lugares diversos a los de su adscripción del Estado.
+Las diligencias de investigación de los delitos que deban practicarse fuera del lugar en que se esté tramitando alguna indagatoria, se encargarán a quien corresponda desempeñar esas funciones en el lugar donde deban practicarse, enviándole comunicación por cualquier medio con las inserciones necesarias, conservando la constancia respectiva o bien, el Procurador, los subprocuradores, los coordinadores, subcoordinadores, o directores o jefes ministeriales facultarán a los servidores públicos del Ministerio Público para que realicen las actividades propias de su función en lugares diversos a los de su adscripción del Estado.
 
 Validez de las diligencias del Ministerio Público
 
@@ -1889,23 +2151,105 @@ La Procuraduría General de Justicia deberá contar con los instrumentos tecnol�
 
 De las comunicaciones entre jueces y Ministerio Público y demás autoridades competentes existirá un registro fehaciente.
 
-Reclamación administrativa para solicitar la práctica de diligencias durante la investigación
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 137.
 
-En caso de que durante la investigación el Ministerio Público rechace la solicitud del inculpado, su defensor, la víctima u ofendido para la práctica de diligencias para el esclarecimiento de los hechos, dentro de los tres días siguientes a que surta efectos la notificación del rechazo, el solicitante podrá interponer reclamación administrativa por escrito, exponiendo los agravios correspondientes y siguiendo en lo conducente el trámite previsto en esta ley para el recurso de reconsideración. Dicha reclamación se interpondrá ante el superior jerárquico inmediato del rechazante, para que en el ámbito administrativo emita un pronunciamiento definitivo sobre el rechazo.
-
-En caso de que el superior jerárquico resuelva que las diligencias solicitadas son conducentes, ordenará que las mismas se lleven a cabo a la brevedad posible; en caso de que niegue la solicitud, se podrá interponer el medio impugnativo de reclamación previsto por la Ley del Proceso Penal para el Estado de Guanajuato.
+(DEROGADO, P.O. 28 DE NOVIEMBRE DE 2014)
 
 Presencia del Ministerio Público en las audiencias
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 138.
 
-Si el agente del Ministerio Público no comparece o se separa de la audiencia, se procurará su reemplazo en la misma inmediatamente después de recibir la comunicación por parte de la autoridad judicial al superior jerárquico, para efectos de proveer al reemplazo en los términos que establezca el reglamento de esta Ley.
+Si el agente del Ministerio Público no comparece, se ausenta o se separa de la audiencia, se procederá a su reemplazo en la misma inmediatamente después de recibir la comunicación por parte de la autoridad judicial al superior jerárquico, para efectos de proveer al reemplazo.
 
 La autoridad judicial además comunicará al Subprocurador o, en su caso, al Procurador, la incomparecencia o ausencia del agente del Ministerio Público, quien a su vez lo hará del conocimiento de la Visitaduría General.
 
 La incomparecencia o separación de audiencia injustificadas del agente del Ministerio público, serán causa grave de responsabilidad administrativa. El agente del Ministerio Público que pretenda justificar el motivo de su ausencia o separación, lo hará por escrito dentro de las treinta y seis horas siguientes a la misma ante su superior jerárquico y la Visitaduría General.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+### Capítulo II. Fondo Auxiliar para la Procuración de Justicia
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO Y SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Integración
+
+###### Artículo 139.
+
+El Fondo Auxiliar para la Procuración de Justicia, de conformidad con la Ley para la Administración y Disposición de Bienes Relacionados con Hechos Delictuosos para el Estado de Guanajuato y demás legislación aplicable se integrará por:
+
+I. Los recursos que al efecto le destinen la Federación, el Estado o los Municipios, así como las asociaciones de la sociedad civil organizada;
+
+II. Las donaciones o aportaciones recibidas por instituciones públicas o privadas;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+III. Los productos de la enajenación de los bienes abandonados;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+IV. El porcentaje que corresponda del numerario decomisado y de los recursos que se obtengan por la enajenación de los bienes decomisados, una vez satisfecha la reparación a la víctima conforme a lo dispuesto en el Código Nacional de Procedimientos Penales;
+
+V. El 50% de los ingresos obtenidos por los derechos establecidos por la expedición de constancias;
+
+VI. El 50% de otros ingresos propios que genere la Procuraduría General de Justicia del Estado;
+
+VII. Los productos derivados de la administración y, en su caso, disposición de bienes, sobre los que se haya decretado la extinción de dominio;
+
+VIII. Los rendimientos de cantidades depositadas por cualquier causa al Ministerio Público;
+
+IX. El importe del pago de las multas impuestas por la Visitaduría General; y
+
+X. Las demás que prevean las Leyes.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Destino de los recursos
+
+###### Artículo 140.
+
+Los productos que integran el Fondo se podrán destinar, además de lo contemplado en la Ley para la Administración y disposición de bienes relacionados con hechos delictuosos para el Estado de Guanajuato, a:
+
+I. Contratación de seguros cuando exista posibilidad de la pérdida o daño de los bienes asegurados, administrados por la Unidad para la administración y disposición de bienes de la Procuraduría, siempre y cuando el valor y las características lo ameriten, de conformidad con la normativa aplicable;
+
+II. Asesoría y consultoría en materia de procuración de justicia, derechos humanos y perspectiva de género;
+
+III. Equipamiento para vigilancia y seguridad de las instalaciones, equipos, documentos, información y personal de la Procuraduría; y
+
+IV. Los demás previstos en las leyes.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Comité de Aplicación de Recursos del Fondo
+
+###### Artículo 141.
+
+Para la determinación y autorización de la aplicación de los recursos con cargo al Fondo, se integrará un Comité en los términos que dispongan los lineamientos que emita el Procurador.
+
+A las sesiones de dicho Comité, se deberá invitar a un representante de la Secretaría de la Transparencia y Rendición de Cuentas.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Fiscalización del Fondo
+
+###### Artículo 142.
+
+La administración y aplicación del Fondo se fiscalizará trimestralmente por las Secretarías de Finanzas, Inversión y Administración y, de la Transparencia y Rendición de Cuentas.
+
+Asimismo, la Procuraduría rendirá un informe especial trimestral al titular del Ejecutivo Estatal, sobre la administración y recursos del Fondo.
 
 T R A N S I T O R I O S
 
@@ -1974,3 +2318,35 @@ Dicho dictamen deberá señalar el personal como los recursos materiales y finan
 Artículo Sexto. Las obligaciones y compromisos adquiridos por el Secretariado Ejecutivo para la realización de las funciones de prevención del delito y participación ciudadana, así como los correspondientes a las labores de información en seguridad pública, seguirán vigentes y corresponderá a la Secretaría continuar su cumplimiento.
 
 Del personal y de los recursos materiales y financieros que actualmente integran el patrimonio del Secretariado Ejecutivo utilizados para la realización de las acciones relativas a la prevención del delito y participación ciudadana, así como los correspondientes a las labores de información en seguridad pública, serán destinados los indispensables a la Secretaría para cumplir con sus nuevas atribuciones en esas materias y los compromisos referidos en el párrafo anterior.
+
+P.O. 28 DE NOVIEMBRE DE 2014.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Artículo entrará en vigencia el día l de junio de 2016, con la excepción que se detalla en el siguiente artículo segundo transitorio.
+
+Inicio de vigencia inmediato
+
+Artículo Segundo. El contenido de los artículos 4, primer párrafo; 7, en sus fracciones III a X y XIII a XXV, así como en su segundo párrafo; 10; 15, segundo párrafo; 43, fracción VI; 45 Bis; 45 Ter; 47, fracción IV; 133; 139, fracciones I, II y V a X; 140; 141 y 142, entraran en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Subsistencia de Acuerdos Institucionales
+
+Artículo Tercero. Los Acuerdos emitidos por el Procurador General de Justicia del Estado, en que se contemple la creación o constitución de las Áreas elevadas a categoría legal por virtud de este Decreto, así como aquellos relacionados con la presente Reforma, continuarán vigentes en lo que no contravengan al presente Decreto, hasta en tanto se emitan nuevas disposiciones que expresa o tácitamente las deroguen.
+
+Delegados del Ministerio Público
+
+Artículo Cuarto. Los Delegados del Ministerio Público tendrán las mismas atribuciones y les regirán los mismos requisitos y reglas respecto a la función ministerial que las establecidas para los Agentes del Ministerio Público, en tanto se realizan los ajustes administrativos correspondientes.
+
+Dotación presupuestaria
+
+Artículo Quinto. Para la adecuada operación de las funciones de asesoría jurídica penal a víctimas y ofendidos del delito, de supervisión de medidas cautelares y de suspensión condicional del proceso, así como de administración y disposición de bienes relacionados con hechos delictuosos, se dotará de la asignación presupuestal correspondiente.
+
+Ultractividad
+
+Artículo Sexto. Las disposiciones de la presente Ley que se derogan o reforman por virtud de este Artículo, conforme al Artículo Primero Transitorio, continuarán aplicándose en lo conducente a los casos iniciados previamente a su entrada en vigor, así como en los procedimientos iniciados con posterioridad que se rijan por el Código de Procedimientos Penales para el Estado de Guanajuato y por la Ley del Proceso Penal para el Estado de Guanajuato.
+
+TRANSITORIOS DEL DECRETO
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto entrará en vigencia en los términos que se precisan en cada uno de los artículos que lo conforman.
