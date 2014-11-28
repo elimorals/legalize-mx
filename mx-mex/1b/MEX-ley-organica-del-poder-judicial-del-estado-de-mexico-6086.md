@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-judicial-del-estado-de-mexico-6086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-08"
-last_updated: "2014-01-24"
+last_updated: "2014-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "MEX"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE MEXICO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE DICIEMBRE DE 2014 EN LA GACETA DE GOBIERNO DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 4 PUBLICADO EN LA G.G. DE 30 DE SEPTIEMBRE DE 2009, EL SISTEMA PROCESAL PENAL ACUSATORIO ADVERSARIAL Y ORAL HA SIDO INCORPORADO EN EL PRESENTE ORDENAMIENTO, Y ENTRARÁ EN VIGOR EN LOS SIGUIENTES PLAZOS Y DISTRITOS: 1) EL PRIMERO DE OCTUBRE DE DOS MIL NUEVE, EN LOS DISTRITOS JUDICIALES DE TOLUCA, LERMA, TENANCINGO Y TENANGO DEL VALLE; 2) EL PRIMERO DE ABRIL DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE CHALCO, OTUMBA Y TEXCOCO; 3) EL PRIMERO DE OCTUBRE DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE NETZAHUALCÓYOTL, EL ORO, IXTLAHUACA, SULTEPEC Y TEMASCALTEPEC; 4) EL PRIMERO DE ABRIL DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE TLALNEPANTLA, CUAUTITLÁN Y ZUMPANGO; 5) EL PRIMERO DE OCTUBRE DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE ECATEPEC DE MORELOS, JILOTEPEC Y VALLE DE BRAVO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 8 de septiembre de 1995.
 
@@ -73,7 +75,9 @@ III. Los juzgados y tribunales de primera instancia;
 
 IV. Los juzgados de cuantía menor; y
 
-V. Los servidores públicos de la administración de justicia, en los términos que establece esta ley, los códigos de procedimientos civiles y penales y demás disposiciones legales.
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+V. Los servidores públicos de la administración de justicia, en los términos que establece esta ley, el Código de Procedimientos Civiles, el Código Nacional de Procedimientos Penales y, demás disposiciones legales.
 
 > <small>(REFORMADO, G.G. 26 DE OCTUBRE DE 2011)</small>
 
@@ -107,7 +111,7 @@ VIII. Los servidores públicos de carácter técnico de las dependencias del Pod
 
 IX. Los síndicos e interventores de quiebras y de concursos;
 
-X. Los tutores, curadores, depositarios, albaceas y los interventores judiciales, en las funciones que les sean asignadas por la ley; y (sic)
+X. Los tutores, curadores, depositarios, albaceas y los interventores judiciales, en las funciones que les sean asignadas por la ley; y
 
 > <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2002)</small>
 
@@ -141,11 +145,9 @@ III. Realizar todas las acciones necesarias para la plena ejecución de sus reso
 
 IV. Auxiliar a los órganos jurisdiccionales de la federación y a las demás autoridades, en los términos de las disposiciones legales;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
-
-V. Diligenciar exhortos, cartas rogatorias, suplicatorias, requisitorias y despachos en las materias de su competencia, que les envíen los jueces del Estado, de otras entidades federativas o del extranjero que se ajusten a la ley procesal del Estado;
+V. Diligenciar exhortos, cartas rogatorias, suplicatorias, requisitorias y despachos en las materias de su competencia, que les envíen los jueces del Estado, de otras entidades federativas o del extranjero que se ajusten a las leyes procesales aplicables;
 
 VI. Proporcionar a las autoridades competentes los datos e informes que soliciten, cuando proceda conforme a la ley;
 
@@ -531,13 +533,11 @@ X. Desempeñar las atribuciones que esta ley le encomienda en lo relativo al arc
 
 XI. Informar anualmente al pleno del Tribunal Superior de Justicia sobre las actividades del Poder Judicial;
 
-XII. Representar al Tribunal Superior de Justicia en los actos jurídicos y oficiales o designar, en su caso, representante para tal efecto; y (sic)
+XII. Representar al Tribunal Superior de Justicia en los actos jurídicos y oficiales o designar, en su caso, representante para tal efecto; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
-
-XIII. Solicitar a la Sala Colegiada o Tribunal Oral respectivo, que ejerza la facultad de atracción para conocer de asuntos de la competencia de la Sala Unitaria o del juzgado de juicio oral correspondiente; y
+XIII. Solicitar a la Sala Colegiada, que ejerza la facultad de atracción para conocer de asuntos de la competencia de la Sala Unitaria;
 
 > <small>(ADICIONADA, G.G. 8 DE MAYO DE 2003)</small>
 
@@ -877,7 +877,7 @@ XXVI. Supervisar el funcionamiento de las salas y los juzgados;
 
 XXVII. Pedir al pleno del Tribunal Superior de Justicia la información y opiniones que requiera para el mejor desempeño de sus funciones;
 
-XXVIII. Solicitar de los magistrados del pleno del Tribunal Superior de Justicia su colaboración para el mejor desempeño de sus funciones de vigilancia; y (sic)
+XXVIII. Solicitar de los magistrados del pleno del Tribunal Superior de Justicia su colaboración para el mejor desempeño de sus funciones de vigilancia; y
 
 > <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2002)</small>
 
@@ -1099,7 +1099,9 @@ Los tribunales y juzgados en materia penal conocerán y resolverán:
 
 I. De todos los procesos de este ramo;
 
-II. De la diligenciación de exhortos, cartas rogatorias, suplicatorias, requisitorias y despachos en materia penal que le envíen los jueces del Estado, de otras entidades federativas o del extranjero, que se ajusten a la ley procesal del Estado; y
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+II. De la diligenciación de exhortos, cartas rogatorias, suplicatorias, requisitorias y despachos en materia penal que le envíen los jueces del Estado, de otras entidades federativas o del extranjero, que se ajusten a las leyes procesales aplicables;
 
 III. De los demás asuntos cuyo conocimiento les atribuyan las leyes.
 
@@ -1119,7 +1121,9 @@ I. Cumplir y hacer cumplir sin demora y con apego a la ley, los acuerdos y deter
 
 II. Dirigir el desarrollo de los procesos, presidir las audiencias de pruebas y dictar las resoluciones en términos de ley;
 
-III. Diligenciar exhortos, cartas rogatorias, suplicatorias, requisitorias y despachos que envíen los jueces del Estado, de otras entidades federativas o del extranjero, que se ajusten a las leyes procesales del Estado;
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+III. Diligenciar exhortos, cartas rogatorias, suplicatorias, requisitorias y despachos que envíen los jueces del Estado, de otras entidades federativas o del extranjero, que se ajusten a las leyes procesales aplicables;
 
 IV. Rendir al Tribunal Superior de Justicia y a las autoridades correspondientes, dentro de los primeros cinco días de cada mes, los datos estadísticos de los asuntos de su competencia iniciados y concluidos;
 
@@ -1471,11 +1475,9 @@ Las ausencias temporales de los servidores públicos del Poder Judicial se supli
 
 I. Las de los jueces que no excedan de tres meses dentro del juzgado en que ocurra, por el primer secretario de acuerdos; en su defecto, por los demás secretarios en su orden o bien por el juez que designe el Consejo de la Judicatura.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
-
-Las de los jueces de control y de juicio oral por otro que asigne el administrador del juzgado o tribunal;
+Las de los jueces de control, de juicio oral y de ejecución de sentencias, por otro que asigne el administrador del juzgado o tribunal.
 
 II. La del secretario general de acuerdos, por el secretario de la sala que designe el Consejo de la Judicatura;
 
@@ -1665,7 +1667,9 @@ a). Las partes en el procedimiento.
 
 b). El Ministerio Público, en los procesos en que intervenga.
 
-c). El ofendido, en los procesos penales.
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+c) La víctima u ofendido, en los procesos penales.
 
 Si falta alguno de los requisitos anteriores, la denuncia será desechada de plano.
 
@@ -1891,9 +1895,13 @@ El Fondo Auxiliar para la Administración de Justicia se integra con:
 
 I. Fondo propio, constituido por:
 
-a) El monto de las cauciones otorgadas para garantizar la libertad provisional, que se hagan efectivas en los casos señalados por el Código de Procedimientos Penales.
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
-b) El monto de las cantidades otorgadas para obtener los beneficios de la conmutación de las sanciones y de la suspensión condicional de la condena, que se haga efectiva en los casos previstos por el Código Penal.
+a) El monto de la garantía económica que se haga efectiva en términos del Código Nacional de Procedimientos Penales.
+
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+b) El monto de las cantidades otorgadas para la procedencia de sustitutivos de la pena de prisión o suspensión de ésta, que se haga efectiva en los casos previstos por el Código Penal.
 
 c) Las multas que por cualquier causa impongan las salas del Tribunal Superior de Justicia o los jueces.
 
@@ -1903,7 +1911,9 @@ e) El producto de los objetos o instrumentos materia del delito que sean de uso 
 
 f) Los muebles y valores depositados por cualquier motivo ante los tribunales judiciales que no fueren retirados por quien tenga derecho a ellos, dentro del término de un año computado a partir de la fecha en que haya causado ejecutoria la resolución definitiva.
 
-g) El monto de la reparación del daño, cuando la parte ofendida renuncie al mismo o no lo reclame dentro del término de un año a partir de la fecha en que tenga derecho a obtenerlo, siempre que le hubiere sido notificado.
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+g) El monto de la reparación del daño, cuando la víctima u ofendido renuncie al mismo o no lo reclame dentro del término de un año a partir de la fecha en que tenga derecho a obtenerlo, siempre que le hubiere sido notificado.
 
 II. Fondo ajeno, constituido por depósitos en efectivo o en valores, que por cualquier causa se realicen o se hayan realizado ante los tribunales judiciales.
 
@@ -2177,7 +2187,9 @@ El departamento de oficialía de partes y estadística, dependerá del Consejo d
 
 El Departamento tendrá las siguientes funciones:
 
-I. Coordinar las oficialías de partes civiles, penales y familiares establecidas en los diferentes distritos judiciales, para vigilar la recepción y equitativa distribución de los asuntos entre los juzgados;
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+I. Coordinar las oficialías de partes civiles y familiares establecidas en los diferentes distritos judiciales, para vigilar la recepción y equitativa distribución de los asuntos entre los juzgados;
 
 II. Proporcionar a las partes interesadas o autorizadas, con base en los registros existentes, la información estadística;
 
@@ -2369,9 +2381,11 @@ La función jurisdiccional en materia penal se ejerce por:
 
 I. Jueces de control;
 
-II. Jueces de juicio oral;
+II. (DEROGADA, G.G. 28 DE NOVIEMBRE DE 2014)
 
-III. Tribunales de juicio oral;
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+III. Tribunales de enjuiciamiento;
 
 IV. Jueces ejecutores de sentencias; y
 
@@ -2389,31 +2403,41 @@ El Poder Judicial del Estado contará con jueces y magistrados especializados en
 
 Los jueces tendrán fe pública en el ejercicio de su función.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 189.
 
-Los jueces en materia penal conocerán:
+Los jueces en materia penal conocerán de conformidad con el Código Nacional de Procedimientos Penales:
 
-I. De la etapa de investigación que requiera intervención judicial, el juez de control;
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+I. De la etapa de investigación, el juez de control;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 II. De la etapa intermedia, el juez de control;
 
-III. De la etapa de juicio, el juez o tribunal de juicio oral; y
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+III. De la etapa de juicio, el Tribunal de Enjuiciamiento;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 IV. De la etapa de ejecución, el juez ejecutor de sentencias.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
-Artículo 189 bis.- (DEROGADO, G.G. 30 DE SEPTIEMBRE DE 2009)
+Artículo 189 bis.- El Tribunal de Enjuiciamiento estará conformado por un juez que conocerá de todos los delitos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+El Consejo de la Judicatura proveerá lo necesario para la atención de asuntos que no admitan demora en días inhábiles.
 
-> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
-### CAPITULO SEGUNDO. De los Juzgados de Control, de los Tribunales y Juzgados de Juicio Oral y de Ejecución de Sentencia
+### CAPITULO SEGUNDO. De los Juzgados de Control, de los Tribunales de Enjuiciamiento y de los Juzgados de Ejecución de Sentencias
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2429,47 +2453,17 @@ II. Notificadores; y
 
 III. El personal auxiliar que determine el Consejo de la Judicatura.
 
-El tribunal de juicio oral se integrará por tres jueces y uno de ellos lo presidirá, según el turno respectivo.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 191.
 
-Los jueces de control tienen las siguientes atribuciones:
-
-I. Resolver sobre medidas cautelares, providencias precautorias y técnicas de investigación que requieran control judicial, en los términos de las disposiciones legales;
-
-II. Autorizar la interrupción legal del embarazo;
-
-III. Resolver sobre las resoluciones de reserva, no ejercicio y desistimiento de la acción penal;
-
-IV. Resolver las impugnaciones en contra de las decisiones definitivas del ministerio público que autoricen o nieguen la aplicación de un criterio de oportunidad;
-
-V. Conocer sobre los mecanismos alternativos de solución de conflictos en los términos que la ley señala;
-
-VI. Conocer del control de la detención;
-
-VII. Resolver sobre la vinculación o no a proceso de los imputados;
-
-VIII. Recibir la prueba anticipada; y
-
-IX. Las demás que les confiera la ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+Los jueces de control y los del Tribunal de Enjuiciamiento, tendrán las facultades y obligaciones que establecen la Constitución Política de los Estados Unidos Mexicanos, el Código Nacional de Procedimientos Penales y demás disposiciones aplicables.
 
 ###### Artículo 192.
 
-El juez que presida el tribunal del juicio oral tendrá, además, las siguientes facultades:
-
-I. Dirigir la deliberación de los asuntos de su competencia;
-
-II. Representar al tribunal en el trámite de juicio de garantías; y
-
-III. Las demás que señalen las leyes.
+(DEROGADO, G.G. 28 DE NOVIEMBRE DE 2014)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2479,7 +2473,9 @@ III. Las demás que señalen las leyes.
 
 La competencia territorial de los jueces ejecutores de sentencias será la que determine el pleno del Tribunal Superior de Justicia.
 
-Será competente para resolver sobre los beneficios, el tratamiento, la extinción de las penas y demás que establece el Código de Procedimientos Penales para el Estado, el juez ejecutor de sentencias que tenga competencia en el Centro de internamiento donde el interno se encuentre al momento de cumplir con los requisitas que para tales derechos señala la ley; o bien, el juez adscrito al Centro del cual, el interno haya sido trasladado a un Centro Preventivo Federal o de otra entidad federativa.
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+Será competente para resolver sobre los beneficios, el tratamiento, la extinción de las penas y demás que establezca la normatividad aplicable, el juez ejecutor de sentencias que tenga competencia en el Centro de Internamiento donde el interno se encuentre al momento de cumplir con los requisitos que para tales derechos señala la ley; o bien, el juez adscrito al Centro del cual, el interno haya sido trasladado a un Centro Preventivo Federal o de otra entidad federativa.
 
 Para la revocación de los beneficios o tratamiento, será competente el que los haya concedido, salvo que se encuentre en un Centro de internamiento, en cuyo caso, resolverá el juez de la adscripción.
 
@@ -2817,7 +2813,7 @@ G.G. 21 DE DICIEMBRE DE 2005.
 
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
-SEGUNDO.- La reforma, adición y derogación de las diversas disposiciones contenidas en el Código Penal del Estado de México, en la Ley Orgánica del Poder Judicial del Estado de México y en la Ley Orgánica de la Procuraduría del Estado de México, contenidas en el presente decreto tendrán vigencia, hasta en tanto entre (sic) en vigor las reformas a los artículos 82, 89 en su segundo párrafo, 99 en su primer párrafo a la adición del segundo párrafo al artículo 102 y el artículo 104 bis de la Constitución Política del Estado Libre y Soberano de México, aprobado por esta Legislatura.
+SEGUNDO.- La reforma, adición y derogación de las diversas disposiciones contenidas en el Código Penal del Estado de México, en la Ley Orgánica del Poder Judicial del Estado de México y en la Ley Orgánica de la Procuraduría del Estado de México, contenidas en el presente decreto tendrán vigencia, hasta en tanto entre en vigor las reformas a los artículos 82, 89 en su segundo párrafo, 99 en su primer párrafo a la adición del segundo párrafo al artículo 102 y el artículo 104 bis de la Constitución Política del Estado Libre y Soberano de México, aprobado por esta Legislatura.
 
 G.G. 4 DE AGOSTO DE 2006.
 
@@ -3054,3 +3050,15 @@ G.G. 24 DE ENERO DE 2014.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor el mismo día que entre en vigor el Código Nacional de Procedimientos Penales, en el Estado de México.
+
+TERCERO.- La Secretaría de Seguridad Ciudadana y los municipios de la Entidad, con la entrada en vigor del presente Decreto, deberán contar con cuerpos especializados de policía, con capacidad para cumplir de manera eficaz y eficiente con las atribuciones que derivan de la entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de México.
+
+CUARTO.- El Titular del Ejecutivo Estatal reformará el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de México, antes de la entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de México.
+
+QUINTO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
