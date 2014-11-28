@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-turismo-de-la-ciudad-de-mexico-antes-ley-de-turismo-7627
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-30"
-last_updated: "2012-07-06"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76273&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-08-23"
 
 LEY DE TURISMO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 30 de agosto de 2010.
 
@@ -45,6 +45,8 @@ DECRETO POR EL QUE SE EXPIDE LA LEY DE TURISMO DEL DISTRITO FEDERAL.
 ###### ARTÍCULO ÚNICO.
 
 Se expide la Ley de Turismo del Distrito Federal para quedar como sigue:
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO CUARTO DEL DECRETO SIN NÚMERO, PUBLICADO EN LA G.O. DE 28 DE NOVIEMBRE DE 2014, LAS REFERENCIAS QUE SE HAGAN DEL SALARIO MÍNIMO EN LAS NORMAS LOCALES VIGENTES, INCLUSO EN AQUELLAS PENDIENTES DE PUBLICAR O DE ENTRAR EN VIGOR, SE ENTENDERÁN HECHAS A LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO, A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.</small>
 
 LEY DE TURISMO DEL DISTRITO FEDERAL
 
@@ -670,7 +672,7 @@ De la misma manera, la Secretaría gestionará ante las autoridades correspondie
 
 La Secretaría, estimulará y promoverá entre la iniciativa privada y el sector social, la creación y fomento de cadenas productivas y redes de valor en torno a los desarrollos turísticos nuevos y existentes, con el fin de detonar la economía local y buscar el desarrollo regional.
 
-###### Articulo 56.
+###### Artículo 56.
 
 La Secretaria de Desarrollo Rural y Equidad para las Comunidades es la dependencia encargada de establecer, formular y ejecutar la política y programas de Turismo Alternativo en la zona rural y pueblos originarios, así como su promoción y fomento y las demás que esta Ley, sus reglamentos y demás ordenamientos jurídicos aplicables le confieran.
 
@@ -770,7 +772,7 @@ IV. Formular quejas, denuncias y reclamaciones; y
 
 V. Los demás derechos reconocidos por las disposiciones federales y del Distrito Federal, aplicables a la materia.
 
-###### Articulo 58.
+###### Artículo 58.
 
 Se consideran obligaciones de los turistas:
 
@@ -926,7 +928,11 @@ Las infracciones que los prestadores de servicios turísticos cometan a lo dispu
 
 La imposición de sanciones a que refiere el artículo anterior, se aplicarán a los prestadores de servicios turísticos con base en los siguientes criterios:
 
-I. Multa de 25 a 100 días de salario mínimo vigente en el Distrito Federal, por reincidencia en el incumplimiento a lo dispuesto en el artículo 60 fracciones I, II, III IV y V.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+I. Multa de 25 a 100 veces la Unidad de Cuenta de la Ciudad de México vigente, por reincidencia en el incumplimiento a lo dispuesto en el artículo 60 fracciones I, II, III IV y V.
 
 II. Suspensión de 15 días naturales por segunda reincidencia a las obligaciones establecidas en el artículo 60 fracciones II, III y IV.
 
@@ -975,3 +981,13 @@ Artículo Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal y para
 Artículo Tercero.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
 
 Artículo Cuarto.- El Jefe de Gobierno deberá expedir las modificaciones en el Reglamento de la presente Ley derivadas del presente decreto, dentro de los 90 días naturales a partir de la entrada en vigor del presente decreto.
+
+G.G. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
