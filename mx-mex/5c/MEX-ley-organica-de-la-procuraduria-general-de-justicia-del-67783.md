@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-procuraduria-general-de-justicia-del-67783"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-03-20"
-last_updated: "2013-07-18"
+last_updated: "2014-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67783&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MEXICO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE DICIEMBRE DE 2014 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 20 de marzo de 2009.
 
@@ -41,9 +43,11 @@ LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO
 
 ### CAPITULO I. Del Ministerio Público
 
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público e interés general y tiene por objeto regular la forma de organización, el funcionamiento y el ejercicio de las atribuciones que corresponden a esa Dependencia del. Poder Ejecutivo, así como la distribución de las competencias de los órganos que la integran, delimitando las atribuciones y funciones del Titular de esa Dependencia; así como la organización del Ministerio Público, establecer sus atribuciones generales y normar su actividad en la investigación de los hechos posiblemente constitutivos de delitos como fase preparatoria de la acción penal y, en su caso, como presupuesto para definir la existencia del interés social en su persecución.
+La presente Ley es de orden público e interés general y tiene por objeto establecer las atribuciones, organización y funciones de la Procuraduría General de Justicia del Estado de México, así como de los órganos que la integran, para el despacho de los asuntos que al Ministerio Público y a la Policía de Investigación le confiere la Constitución Política de los Estados Unidos Mexicanos, el Código Nacional de Procedimientos Penales, la Constitución Política del Estado Libre y Soberano de México, la presente Ley y las demás disposiciones aplicables.
 
 ###### ARTÍCULO 2.
 
@@ -59,361 +63,233 @@ Las disposiciones de esta Ley son obligatorias para el Ministerio Público, sus 
 
 Los Tribunales del Estado, además, aplicarán y atenderán a la presente Ley por cuanto a los actos realizados por el Ministerio Público bajo el imperio de la misma.
 
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 4.
 
-La presente Ley deberá aplicarse e interpretarse en armonía con sus principios rectores, conforme a las garantías individuales, a las normas constitucionales relativas a la función ministerial y a los principios generales del derecho. Cuando la Ley no señale un procedimiento especial o una forma determinada para la realización de un acto, serán admisibles y válidas todas aquellas firmas que resulten adecuadas para lograr los fines del mismo, siempre que no se contrapongan a sus disposiciones.
+La presente Ley deberá aplicarse e interpretarse en armonía con los principios rectores y los derechos humanos consagrados en las normas constitucionales relativas a la función ministerial y a los principios generales del derecho.
 
 ###### ARTÍCULO 5.
 
 Para los efectos, aplicación e interpretación de esta Ley se entiende por:
 
-I. Agente: El Agente del Ministerio Público;
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
-II. Código de Procedimientos Penales: El Código de Procedimientos Penales para el Estado de México;
+I. Código Nacional: Al Código Nacional de Procedimientos Penales;
 
-III. Código Penal: El Código Penal del Estado de México;
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
-IV. Constitución: La Constitución Política de los Estados Unidos Mexicanos;
+II. Código Penal: Al Código Penal del Estado de México;
 
-V. Constitución del Estado: La Constitución Política del Estado Libre y Soberano de México;
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
-VI. Convenios de colaboración: Los Convenios celebrados por la Procuraduría General de justicia del Estado de México con otra u otras Procuradurías o Dependencias de otros Estados o del Distrito Federal, con la Procuraduría General de la República o con otras Dependencias o Entidades Federales, Estatales o Municipales;
+III. Constitución: La Constitución Política de los Estados Unidos Mexicanos;
 
-VII. Procurador: El Procurador General de Justicia del Estado de México;
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
-VIII. Procuraduría: La Procuraduría General de Justicia del Estado de México; y
+IV. Constitución del Estado: La Constitución Política del Estado Libre y Soberano de México;
 
-IX. Servicios Periciales: El Instituto de Servicios Periciales del Estado de México y los Peritos que lo integran.
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
-### CAPITULO II. Principios Rectores
+V. Ley: A la Ley Orgánica de la Procuraduría General de Justicia del Estado de México;
+
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+VI. Personal Operativo: A los Agentes del Ministerio Público, de la Policía de Investigación y los Servicios Periciales;
+
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+VII. Policía de Investigación: A la Policía facultada para investigar;
+
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+VIII. Procurador: El Procurador General de Justicia del Estado de México;
+
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+IX. Procuraduría: La Procuraduría General de Justicia del Estado de México;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+X. Servicios Periciales: El Instituto de Servicios Periciales del Estado de México y los Peritos que lo integran.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+### CAPITULO II. Principios Rectores y función de la Procuraduría
+
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 6.
 
-Son principios rectores de la presente Ley y de la actuación del Ministerio Público, los siguientes:
+La actuación del Personal Operativo se sujetará a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, confidencialidad, lealtad, responsabilidad, transparencia, imparcialidad y respeto a los derechos humanos.
 
-A. En lo referente a las atribuciones del Ministerio Público:
-
-I. UNIDAD: El Ministerio Público constituye una unidad colectiva, por lo que sus agentes actúan representando en cada uno de sus actos el interés exclusivo y único de la Institución.
-
-En el ejercicio de sus atribuciones la actuación de cada agente representa una continuidad con relación a la actuación de sus similares, independientemente de su jerarquía, particularidades de su nombramiento o funciones específicamente encomendadas;
-
-II. INDIVISIBILIDAD: Como unidad colectiva, el Ministerio Público, no obstante la pluralidad de agentes que lo conforman, posee indivisibilidad de funciones. Cada uno de sus agentes puede sustituirse en cualquier momento por otro, sin que sea necesario el cumplimiento de formalidades y sin que se afecte la validez de lo actuado por cualquiera de ellos.
-
-El otorgamiento del carácter de Agente del Ministerio Público confiere al titular todas las atribuciones establecidas en esta y otras leyes para la investigación de los delitos y para su persecución ante los tribunales; salvo las que expresamente se encuentren reservadas para órganos o funcionarios específicos.
-
-Sin perjuicio de lo anterior, el Procurador, por cualquier medio, podrá establecer Iimitantes a las facultades y deberes otorgados al personal que conforma la Procuraduría, las que únicamente tendrán efectos para la determinación de responsabilidades individuales; por lo que, en su caso, no podrán ser invocadas para afectar la validez del acto realizado en contravención a las mismas;
-
-III. NDEPENDENCIA: Los Agentes del Ministerio Público serán autónomos en su decisión sobre casos concretos, sin perjuicio de los mecanismos de revisión, supervisión, atracción y control jerárquico que establece esta Ley y su reglamento.
-
-IV. JERARQUIA: El Ministerio Público constituye una estructura jerarquizada en la que cada superior controla el desempeño de quienes le asisten y es responsable por la gestión de los funcionarios a su cargo, sin perjuicio de las responsabilidades en que cada uno de ellos pueda incurrir por sus propios actos. El superior jerárquico posee facultad de atracción respecto de los asuntos en conocimiento de sus subordinados y goza de sus mismas atribuciones aunque no le estén expresamente encomendadas.
-
-V. BUENA FE: El Ministerio Público no persigue intereses propios o ajenos, sino que, como representante de la sociedad, realiza llanamente la voluntad de la ley.
-
-En la investigación de los delitos se debe tomar en cuenta no solo las circunstancias que eventualmente le permitan probar su acusación, sino también las que sirvan para atenuar o excluir la responsabilidad del inculpado. Sus funcionarios deberán abstenerse de incurrir en prácticas dilatorias o en abuso de las facultades que la Ley les confiere.
-
-VI. IRRECUSABILlDAD: El Ministerio Público tiene potestad para conocer de cualquier asunto de su competencia, independientemente de cualquier circunstancia subjetiva que le acompañe.
-
-VII. GRATUIDAD: Los servicios que proporcione el Ministerio Público y sus órganos auxiliares durante la investigación y persecución de los delitos de su competencia serán gratuitos. Los servicios de carácter pericial que se otorguen fuera de dichos supuestos se sujetarán a lo que dispongan las leyes correspondientes.
-
-VIII. LEGALIDAD: El Ministerio Público realizará sus actos con estricta sujeción a la ley. Siempre que tenga conocimiento de la posible comisión de un delito que se persiga de oficio o por denuncia estará obligado a investigarlo. La misma obligación tendrá respecto de los delitos que sólo se persigan por querella a partir de que la misma le sea formulada.
-
-El ejercicio de la acción penal será obligatorio tan pronto estime acreditadas las hipótesis jurídicas establecidas en la ley.
-
-El no ejercicio de la acción penal sólo podrá decretarse por las causales expresamente determinadas en la ley;
-
-IX. OPORTUNIDAD: En función del principio de legalidad el Ministerio Público sólo podrá suspender la investigación del delito a desistirse total o parcialmente de su persecución ante los tribunales, en los siguientes casos:
-
-a) Cuando se trate de un hecho que por su insignificancia, por lo exiguo de la contribución del partícipe por su mínima culpabilidad, no afecte el interés público, salvo que haya sido cometido por un servidor público estatal o municipal en ejercicio de sus funciones.
-
-b) Cuando el imputado haya realizado cuanto estaba a su alcance para impedir la ejecución del hecho o haya contribuido decisivamente al esclarecimiento de la participación de otros imputados en el mismo hecho o en otro más grave.
-
-c) Cuando el imputado haya sufrido, como consecuencia directa del hecho, un daño físico o psíquico, grave o irreparable que le incapacite para el ejercicio de sus ocupaciones ordinarias o cuando tratándose de un delito culposo haya sufrido un daño de carácter moral de difícil superación.
-
-d) Cuando la pena que corresponda por el delito de cuya persecución se prescinda, carezca de importancia en consideración a la pena ya impuesta, a la que corresponde por los restantes hechos o calificaciones o a la que se le impondría en un procedimiento tramitado en el extranjero.
-
-e) Cuando el inculpado sea entregado en extradición por la misma conducta o por diversa, en el caso de que la sanción impuesta por el requirente reste trascendencia a la que se le pudiese imponer.
-
-f) Cuando la realización del procedimiento implique riesgo o amenazas graves a la seguridad exterior del Estado.
-
-g) Cuando exista colaboración del inculpado para evitar la consumación de delitos graves o lograr la desarticulación de organizaciones criminales.
-
-h) Cuando el inculpado haya sufrido, por su conducta culposa, daño grave que haga desproporcionada o inhumana la aplicación de la sanción.
-
-i) Cuando el delito no siendo grave, afecte un bien jurídico individual y se haya reparado el daño causado. Determinándose objetivamente la ausencia de interés público en la persecución.
-
-j) Cuando el reproche de culpabilidad hacia la conducta sea de tan secundaria consideración que haga a la sanción penal una respuesta desproporcionada.
-
-k) Cuando la persecución penal de un delito que comprende problemas sociales más significativos, siempre y cuando exista y se produzca una solución alternativa, adecuada a los intereses de las víctimas y la sociedad.
-
-l) Cuando se emplee cualquier mecanismo alternativo para la solución del conflicto, previsto en el presente ordenamiento.
-
-m) Cuando el imputado se encuentre afectado por una enfermedad incurable, en estado terminal, según dictamen pericial, o tenga más de 70 años y no exista mayor daño al interés social.
-
-El Ministerio Público buscará prioritariamente la solución del conflicto penal mediante la aplicación de las formas alternas que prevé esta ley y promoverá la paz social privilegiando la persecución de los hechos punibles que afecten gravemente el interés público.
-
-La aplicación de criterios de oportunidad se hará siempre con base en razones objetivas valoradas conforme a las pautas generales fijadas por el Procurador y estará sujeta a los controles jurisdiccionales que determine el Código de Procedimientos Penales.
-
-B. En lo referente a la integración de la averiguación previa y a la actuación del Ministerio Público durante el proceso:
-
-I. DIRECCIÓN DE LA INVESTIGACIÓN: Corresponde a los Agentes del Ministerio Público la investigación de los delitos para lo cual se auxiliarán de la Policía Ministerial y los Servicios Periciales los que estarán bajo su autoridad y mando inmediato.
-
-Los titulares de la Policía Ministerial y de los Servicios Periciales deberán cumplir y hacer cumplir las órdenes del Ministerio Público, cualquiera que sea la jerarquía del funcionario del cual emanen.
-
-Las órdenes del Ministerio Público no afectarán las opiniones técnicas y científicas que emitan los peritos en sus dictámenes.
-
-El Ministerio Público tiene el carácter de autoridad en términos de lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y la Constitución del Estado;
-
-II. FE PÚBLICA: Los Agentes del Ministerio Público darán fe de sus propias actuaciones, las que serán válidas aún cuando no se asiente razón de ello.
-
-Tampoco será necesario que actúen en compañía de testigos de asistencia o de otros funcionarios.
-
-Las diligencias que practique el Ministerio Público solo serán nulas en los casos en que así lo disponga expresamente la ley.
-
-III. COLABORACIÓN: Las autoridades, tribunales, organismos y dependencias oficiales establecidas en el Estado, así como las personas físicas y jurídico colectivas que en él residan o transiten, están obligadas a proporcionar el auxilio que les requiera el Ministerio Público en el ejercicio de sus atribuciones y en términos de los ordenamientos legales relacionados.
-
-Cuando las Corporaciones Policiales Estatales y Municipales presten auxilio al Ministerio Público lo harán con estricta sujeción a las instrucciones que de él reciban.
-
-Salvo las excepciones establecidas en la presente ley, quien presencie o tenga conocimiento de la comisión de un delito tendrá la obligación de proporcionar todos los datos e informes que le sean requeridos por el Ministerio Público para su esclarecimiento.
-
-Los denunciantes y querellantes estarán obligados a suministrar toda la información y documentación de que dispongan y que se encuentre relacionada con sus imputaciones y no solo aquella en que pretendan sustentar las mismas.
-
-El Ministerio Público podrá recurrir a los medios que le autorice la ley para hacer cumplir sus determinaciones;
-
-IV.- LEALTAD: Quienes con cualquier carácter intervengan en la averiguación previa deberán conducirse con lealtad y buena fe, evitando planteamientos dilatorios o meramente formales, así como cualquier abuso en las facultades que les concede la ley.
-
-Lo dispuesto en la presente fracción no podrá afectar o restringir en modo alguno los derechos de defensa;
-
-V. REGULARIDAD: El Ministerio Público velará por la regularidad en la integración de las indagatorias, vigilará el correcto ejercicio de las facultades otorgadas a quienes en ellas intervienen y procurará su celeridad y su encausamiento al descubrimiento de la verdad histórica.
-
-Podrá aplicar criterios de economía procesal, subsanar y corregir los defectos o excesos en sus actuaciones, siempre que la ley no disponga lo contrario y ello resulte conducente para los fines de la indagatoria o para preservar los derechos de los involucrados o de cualquier tercero con interés debidamente acreditado.
-
-VI. RESERVA: Todas las actuaciones de la averiguación previa serán reservadas, salvo para el ofendido, víctima, representantes o sus abogados; para el inculpado o su defensor, quienes tendrán acceso a las constancias en los términos que fije la ley.
-
-Las promociones o pedimentos que el Ministerio Público pretenda presentar en el proceso y las constancias que hubiere obtenido de este mismo sólo podrán ser mostradas al ofendido, a la víctima, o a sus representantes o a sus abogados.
-
-El Ministerio Público cuidará que la información que deba proporcionar no lesione el honor, ni los derechos de las personas involucradas en las indagatorias, ni ponga en peligro las investigaciones que se realicen; y
-
-VII. TRATO DIGNO: El Ministerio Público y sus auxiliares deberán proporcionar un trato digno y adecuado a toda persona con la que, con motivo de sus funciones, deban interactuar, independientemente de su edad, sexo, estado civil, raza, idioma, religión, ideología, orientación sexual, posición social o económica, discapacidad, condición física o estado de salud.
-
-Siempre que el ofendido o la víctima se lo solicite le orientará y explicará suficientemente los trámites, procedimientos y posibles vicisitudes que puedan presentarse o que tengan que atenderse con motivo o como resultado de la integración de la indagatoria en la que estuvieren interviniendo.
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 7.
 
-REGLAS PARA EL EJERCICIO DE CRITERIOS DE OPORTUNIDAD: Los criterios de oportunidad a que se refiere el artículo 6, apartado A, fracción IX de esta ley, podrán ejercerse en la averiguación previa o en cualquier etapa del proceso, antes de que se dicte sentencia.
+La Procuraduría es una institución única, indivisible y jerárquica en su organización, ubicada en el ámbito del Poder Ejecutivo Estatal, en la que se integra el Ministerio Público, la Policía de Investigación, los Servicios Periciales, el servicio de mecanismos alternativos de solución de controversias en materia penal y demás servicios públicos que se le confieren, en términos de las disposiciones jurídicas aplicables.
 
-En los casos en que el Ministerio Público aplique criterios de oportunidad, su decisión quedará sujeta a la aprobación del superior jerárquico inmediato del Agente de que se trate y a que la decisión se comunique a la víctima.
-
-En los casos previstos en el apartado A del artículo 6, fracción IX de esta ley, será necesario que se haya reparado el daño ocasionado o firmado un acuerdo con la víctima en ese sentido o garantizada suficientemente esa reparación.
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 8.
 
-Cuando la aplicación de criterios de oportunidad sea resuelta favorablemente, la acción pública se convertirá en privada. Dicha resolución deberá ser comunicada a la víctima, quien en el término de treinta días podrá interponer recurso de revocación en la averiguación previa.
+La Procuraduría, de conformidad con las disposiciones de esta Ley y del Código Nacional tiene a su cargo la justicia restaurativa, la investigación, el ejercicio de la acción penal y la persecución de los delitos hasta obtener resoluciones definitivas.
 
-Una vez que cause estado la resolución sobre la aplicación de criterios de oportunidad, surgirá a favor de la víctima el derecho de acción privada como consecuencia de la responsabilidad que nace de los hechos ilícitos, en los términos del Código Civil del Estado de México.
-
-La aplicación de los criterios de oportunidad podrá ser solicitada y aplicada en cualquier estado de la averiguación previa o el proceso hasta antes de cerrada la instrucción, y en términos del Código de Procedimientos Penales.
+Los procedimientos seguidos en la investigación y persecución de los delitos, tendrán por objeto esclarecer los hechos, procurar que el culpable sea sancionado, proteger al inocente y que los daños causados por el delito se reparen.
 
 ###### ARTÍCULO 9.
 
-EXTINCIÓN DE LA ACCIÓN PENAL POR REPARACIÓN DEL DAÑO: En los casos de delitos contra la propiedad o que causen un perjuicio principalmente patrimonial, cometidos sin violencia en las personas, la acción penal quedará extinta cuando el imputado repare el daño ocasionado, garantice razonablemente su reparación o celebre un acuerdo en ese sentido, siempre a satisfacción y con el consentimiento de la víctima que tenga derecho a reclamarlo libremente expresado en condiciones de igualdad. Si las víctimas fueran varias, deberán consentir todas.
-
-Esta disposición será aplicable a cualquier delito culposo.
+(DEROGADO, G.G. 28 DE NOVIEMBRE DE 2014)
 
 ### CAPITULO III. Atribuciones y Facultades del Ministerio Público
 
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 10.
 
-El Ministerio Público tendrá las atribuciones y obligaciones que le señalen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de México, la Ley Orgánica de la Administración Pública del Estado de México, el Código de Procedimientos Penales para el Estado de México, la presente ley y otros ordenamientos jurídicos; además de las siguientes:
+El Ministerio Público tendrá además de las funciones, atribuciones y obligaciones que le señalen la Constitución, los instrumentos legales internacionales vinculatorios para el Estado Mexicano, el Código Nacional, la Constitución del Estado, las leyes nacionales y generales, la presente Ley y otros ordenamientos jurídicos aplicables, las siguientes:
 
-A. En la averiguación previa:
+I. Promover los mecanismos alternativos de solución de controversias, conforme a la legislación aplicable y los acuerdos que para tal efecto emita el Procurador;
 
-> <small>(REFORMADA, G.G. 26 DE OCTUBRE DE 2011)</small>
+II. En los casos de denuncia de hechos no constitutivos de delito y en los supuestos que a continuación se indican, el Ministerio Público debe abstenerse de dar inicio a la carpeta de investigación cuando:
 
-I. Recibir las denuncias o querellas sobre los hechos que puedan constituir delito de la competencia del fuero común.
+a) Se trate de hechos respecto de los cuales el Código Nacional le permita abstenerse de investigar o la aplicación de algún criterio de oportunidad.
 
-La presentación de denuncias y querellas podrá realizarse por medios electrónicos y sistemas de información, de conformidad con los acuerdos y demás disposiciones normativas que emita el Procurador.
+b) Los hechos puedan admitir algún mecanismo alternativo de solución de controversias en materia penal y los interesados acepten someterse a ese procedimiento.
 
-En los casos de denuncias con motivo de la pérdida o extravío de objetos o documentos, así como aquellos en que el denunciante requiera de constancia o certificación de la denuncia o querella, la Procuraduría emitirá vía electrónica la constancia o certificación correspondiente, la cual tendrá plena validez oficial y surtirá efectos legales ante cualquier autoridad administrativa, laboral o jurisdiccional, únicamente sobre la denuncia realizada, sin prejuzgar sobre la veracidad de los hechos asentados. Lo anterior, sin perjuicio de que el ciudadano pueda presentarse a ratificar la denuncia o querella ante el Ministerio Público;
+c) En los supuestos que en su caso, determine el Procurador mediante disposiciones normativas, observando lo dispuesto en el Código Nacional.
 
-> <small>(REFORMADA, G.G. 26 DE OCTUBRE DE 2011)</small>
+De actualizarse alguno de los supuestos previstos en los incisos anteriores, el Ministerio Público deberá fundar y motivar esta decisión e iniciará la noticia criminal de los hechos vertidos por el denunciante, a efecto de ponderar el inicio de la investigación.
 
-II. Hacer la clasificación legal de los hechos que le sean denunciados.
+La noticia criminal que inicie el Ministerio Público deberá contener los datos personales del denunciante, la narración de los hechos, los motivos por los cuales se abstuvo de iniciar la investigación correspondiente o, en su caso, el medio alternativo de solución de conflictos adoptados: la abstención deberá ser autorizada por el superior jerárquico inmediato y en su caso, notificará al denunciante o querellante o a la víctima u ofendido para los efectos legales conducentes.
 
-Los agentes del Ministerio Público, ante una denuncia de hechos, iniciarán la carpeta de investigación y realizarán las diligencias necesarias sin dilación alguna.
+De no iniciar la investigación, los hechos denunciados se registrarán como noticias criminales.
 
-En los casos de denuncia de hechos no constitutivos de delito y en los casos que a continuación se indican, el Ministerio Público podrá abstenerse de dar inicio a la carpeta de investigación:
+III. Iniciar la carpeta de investigación si de los datos aportados por el denunciante o querellante, así como de los datos recabados por el Ministerio Público, se desprende la probable comisión de un delito;
 
-a) Cuando se trate de hechos respecto de los cuales el Código de Procedimientos Penales para el Estado de México permita la aplicación de algún criterio de oportunidad;
+IV. Iniciar la noticia criminal, sin demora, en todos los casos en que tenga conocimiento de la desaparición o extravío de alguna persona y elevarla a carpeta de investigación cuando se identifiquen elementos que presuman la comisión de un hecho delictuoso.
 
-b) Cuando los hechos puedan admitir algún mecanismo alternativo de solución de conflictos; y
+Asimismo, deberá actualizar la base de datos con la información de los reportes de personas desaparecidas o extraviadas, solicitar informes y enviar alertas a dependencias, entidades de la Federación, los Estados, el Distrito Federal y a los Municipios, para su búsqueda y localización;
 
-c) En los supuestos que, en su caso, determine el Procurador mediante disposiciones normativas, observando lo dispuesto en el Código de Procedimientos Penales para el Estado de México.
+V. Recibir las denuncias o querellas que le presenten en forma oral, por escrito o a través de medios digitales, incluso mediante informaciones anónimas, en términos de las disposiciones jurídicas aplicables, sobre hechos que puedan constituir delito, así como iniciar la investigación u ordenar a la policía que investigue la veracidad de los datos aportados.
 
-De actualizarse alguno de los supuestos previstos en los incisos anteriores, los agentes del Ministerio Público levantarán acta circunstanciada de los hechos vertidos por el denunciante, a efecto de ponderar el inicio de la investigación.
+En los casos de denuncias con motivo de la pérdida o extravío de objetos o documentos, así como aquéllos en que el denunciante requiera de constancia o certificación de la denuncia o querella la Procuraduría emitirá vía electrónica la constancia o certificación correspondiente, la cual tendrá plena validez oficial y surtirá efectos legales ante cualquier autoridad administrativa, laboral o jurisdiccional, únicamente sobre la denuncia realizada, sin prejuzgar sobre la veracidad de los hechos asentados.
 
-El acta circunstanciada deberá contener los datos personales del denunciante, la narración de los hechos, los motivos por los cuales se abstuvo de Iniciar la investigación correspondiente y, en su caso, el medio alternativo de solución de conflictos adoptado; ésta deberá ser autorizada por el superior jerárquico inmediato y, en su caso, notificada al denunciante o querellante o a la víctima u ofendido para los efectos legales conducentes.
+Lo anterior, sin perjuicio de que el ciudadano pueda presentarse a ratificar la denuncia o querella ante el Ministerio Público;
 
-El Ministerio Público tendrá las atribuciones a que se refiere el aparrado A de este artículo, aún tratándose de actas circunstanciadas, así como las demás que le confieren otros ordenamientos legales, en la parte que corresponda.
+VI. Ejercer la conducción y mando de la investigación de los delitos por conducto de la Policía de Investigación, en coordinación con peritos, en forma continua, sin dilaciones y hasta la conclusión legal de la misma, de conformidad con el Código Nacional, los acuerdos y circulares que expida el Procurador;
 
-De no iniciar la investigación, los hechos denunciados se registrarán corno constancias de hechos o noticias criminales.
+VII. Determinar la terminación anticipada de la investigación cuando se apliquen mecanismos alternos de acuerdo al Código Nacional, así como los acuerdos y circulares que expida el Procurador;
 
-Si por el contrario, de los datos aportado por el denunciante o querellante, así como de los datos recabados por el agente del Ministerio Público, se desprenda la probable comisión de un delito, el Ministerio Público elevará el acta circunstanciada a carpeta de investigación;
+VIII. Solicitar, ejecutar u ordenar las técnicas de investigación aplicables, conforme al Código Nacional y los acuerdos y circulares del Procurador, en base a lo siguiente:
 
-> <small>(ADICIONADO, G.G. 18 DE JULIO DE 2013)</small>
+a) Solicitar al Juez de Control, la autorización para realizar las técnicas de investigación que requieren control judicial.
 
-El Ministerio Público iniciará la noticia criminal en todos los casos en que tenga conocimiento de la desaparición o extravío de alguna persona y la elevará a carpeta de investigación cuando se identifiquen elementos que presuman la comisión de un hecho delictuoso. En ambos supuestos, se deberán realizar, de inmediato, todas las diligencias de la investigación que sean necesarias para su localización.
+b) Aplicar las técnicas de investigación que no requieren control judicial, los programas y protocolos que al efecto se emitan y demás disposiciones aplicables.
 
-> <small>(ADICIONADO, G.G. 18 DE JULIO DE 2013)</small>
+c) Guardar estricta confidencialidad respecto de la información que se genere con las técnicas de investigación, cuya revelación no autorizada será sancionada con las disposiciones penales aplicables.
 
-Asimismo, deberá actualizar la base de datos con la información de los reportes de personas desaparecidas o extraviadas; solicitará informes y enviará alertas a dependencias, entidades federales y entidades federativas, para su búsqueda y localización.
+IX. Instruir y cerciorarse de que se ha seguido la cadena de custodia de los indicios o evidencias, y las disposiciones para su preservación y procesamiento;
 
-III. Investigar los delitos de su competencia con todas las facultades que éste y otros ordenamientos jurídicos le otorguen. Para ello se auxiliará de la Policía Ministerial y de los Servicios Periciales y, en su caso, de los demás órganos y autoridades que prevea la ley;
+X. Dictar, en su caso, medidas de protección para las víctimas u ofendidos;
 
-IV. Turnar a las autoridades correspondientes las indagatorias que no sean de su competencia, lo que hará de inmediato en los casos en que conozca de ellas con motivo de la detención en flagrancia del o los probables responsables;
+XI. Actuar durante todas las etapas del procedimiento en las que intervenga, con absoluto apego a las disposiciones jurídicas aplicables;
 
-V. Recabar testimonios, ordenar peritajes, formular requerimientos, practicar inspecciones, preservar el lugar de los hechos, obtener evidencias y desahogar e integrar a la averiguación previa las pruebas que tiendan a acreditar el delito en la forma que determine el Código de Procedimientos Penales para fundamentar el ejercicio de la acción penal; así como para acreditar y cuantificar la reparación de los daños y perjuicios causados;
+XII. Ejercer funciones de investigación respecto de los delitos en materias concurrentes, cuando las leyes otorguen competencia a las autoridades del fuero común, siempre que prevenga en el conocimiento del asunto, le soliciten al Ministerio Público local la ejecución de la investigación o se actualicen las hipótesis que para tal efecto se contemplen en las disposiciones jurídicas aplicables;
 
-VI. Solicitar a la autoridad judicial el desahogo de los medios de prueba que sólo por su conducto puedan recabarse; así como las órdenes de cateo, de arraigo, restricción y otras medidas precautorias que sean procedentes;
+XIII. Declinar la competencia a favor del Ministerio Público de la Federación, Militar o de otra entidad federativa, en los términos legalmente procedentes y turnará a las autoridades correspondientes la investigación de delitos que no sean de su competencia, lo que hará de inmediato en los casos en que conozca de ellas con motivo de la detención en flagrancia del o los imputados. En todo caso, el Ministerio Público deberá conservar una copia certificada de lo actuado;
 
-VII. Decretar el aseguramiento de los objetos, instrumentos y productos del delito, así como de las cosas, evidencias, valores y substancias relacionadas con el mismo;
+XIV. Ordenar y recabar informes, entrevistas, peritajes, inspecciones, procesamiento del lugar de los hechos, obtener evidencias, formular requerimientos, e integrar a la carpeta de investigación los datos de prueba que tiendan a establecer el hecho que las disposiciones jurídicas señalan como delito en la forma que determine el Código Nacional, para fundamentar el ejercicio de la acción penal, así como para acreditar y cuantificar la reparación de los daños y perjuicios causados;
 
-VIII. Decretar las medidas cautelares y precautorias a que se refiere esta ley y otros ordenamientos;
+XV. Solicitar la colaboración para la práctica de diligencias al Ministerio Público Federal, Militar y al del resto de las entidades federativas, así como obsequiar las que les sean solicitadas, en los términos que establezcan los convenios correspondientes;
 
-IX. Solicitar la colaboración para la práctica de diligencias al Ministerio Público Federal, Militar y al del resto de las Entidades Federativas; así como obsequiar las que les sean solicitadas, en los términos que establezcan los convenios correspondientes;
+XVI. Restituir provisionalmente a las víctimas en el goce de sus derechos, en los términos que dispone esta Ley o, en su caso, ordenar que los bienes controvertidos se mantengan a disposición del Ministerio Público cuando ello sea procedente;
 
-X. Ordenar la detención y, en su caso, retener al o los probables responsables de la comisión de delitos, en los términos previstos por el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos y demás ordenamientos aplicables;
+XVII. Aplicar los medios de apremio que establece el Código Nacional y las correcciones disciplinarias que autorice esta Ley, para hacer cumplir sus determinaciones, independientemente de la facultad para iniciar la carpeta de investigación por desobediencia o demás delitos que resulten;
 
-XI. Otorgar la libertad caucional a los inculpados que se encuentren a su disposición, cuando proceda;
+XVIII. Velar para que en todos los actos iniciales del procedimiento, tanto el imputado como la víctima u ofendido conozcan los derechos que le reconocen en ese momento procedimental la Constitución Federal, los Tratados internacionales de los que el Estado Mexicano sea parte, y demás leyes aplicables, en los términos establecidos en el Código Nacional;
 
-XII. Restituir provisionalmente al ofendido en el goce de sus derechos, en los términos que dispone esta ley o, en su caso, ordenar que los bienes controvertidos se mantengan a disposición del Ministerio Público cuando ello sea procedente;
+XIX. Hacer la clasificación legal de los hechos que le sean denunciados, y una vez cerciorado de que el hecho sea constitutivo de delito, iniciará la carpeta de investigación y realizará las diligencias necesarias sin dilación alguna;
 
-XIII. Aplicar los criterios de oportunidad que autoriza esta ley, cuando ello sea procedente;
+XX. Determinar en funciones de conducción y mando, los hechos concretos, personas, domicilios y demás lugares u objetos que deben ser investigados por la Policía de Investigación;
 
-XIV. Procurar la solución del conflicto penal mediante el uso de las formas de justicia restaurativa y de la conciliación, en los términos que esta ley establece;
+XXI. Ordenar a la policía, a sus auxiliares u otras autoridades de los tres órdenes de gobierno, en el ámbito de su competencia, la práctica de diligencias conducentes para el esclarecimiento del hecho probablemente delictivo. Así como analizar y aprobar las que dichas autoridades hubieren practicado;
 
-XV. Requerir el auxilio de las autoridades estatales y municipales cuando ello sea necesario para el ejercicio de sus funciones;
+XXII. Instruir o asesorar, en su caso, a la Policía de Investigación, sobre la legalidad, pertinencia y suficiencia de los indicios recolectados o por recolectar, así como las demás actividades de investigación;
 
-XVI. Aplicar las medidas de apremio y las correcciones disciplinarias que le autorice la ley para hacer cumplir sus determinaciones; independientemente de la facultad para iniciar averiguación previa por desacato o demás delitos que resulten cometidos;
+XXIII. Requerir informes, documentación a otras autoridades y a particulares, así como solicitar la intervención y práctica de peritajes y demás medios de investigación;
 
-XVII. Recurrir o impugnar, mediante el procedimiento que establezca la ley, ante el superior jerárquico o el órgano de control correspondiente, los actos indebidos o negligentes en que incurran las autoridades al resolver los requerimientos o solicitudes que les hubiere formulado;
+XXIV. Solicitar a la autoridad jurisdiccional las audiencias y demás actuaciones que requieran y que resulten indispensables para la investigación y el proceso o los recursos, e incluso la ejecución de las sanciones penales;
 
-XVIII. Acordar el archivo provisional de las indagatorias cuando no se reúnan los requisitos exigidos por el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos para el ejercicio de la acción penal;
+XXV. Requerir el estudio del riesgo procesal de los imputados contra los que se prepara la solicitud de una medida cautelar o su modificación;
 
-XIX. Poner a disposición de la autoridad competente a los inimputables mayores de edad a quienes se deban aplicar medidas de seguridad, ejercitando las acciones correspondientes, en los términos establecidos por los ordenamientos jurídicos aplicables;
+XXVI. Solicitar a la autoridad jurisdiccional la autorización de providencias precautorias y medidas cautelares, de conformidad con el Código Nacional;
 
-XX. Levantar actas circunstanciadas, conciliaciones y constancias de hechos, en los supuestos que la ley expresamente determine y, en su caso, expedir constancia de las mismas a los interesados, cuando ello sea procedente;
+XXVII. Ordenar la detención y retención de los imputados cuando proceda;
 
-XXI. Determinar el no ejercicio de la acción penal conforme a la legislación aplicable; y
+XXVIII. Decidir la aplicación de alguna solución alterna o forma de terminación anticipada del proceso penal previstos en las disposiciones legales aplicables;
 
-XXII. Las demás que establezcan las normas aplicables.
+XXIX. Realizar las acciones necesarias para garantizar la seguridad y proporcionar auxilio a víctimas, ofendidos, testigos, jueces, magistrados, el Ministerio Público, policías de investigación, peritos y, en general, de todos los sujetos que con motivo de su intervención en el procedimiento, exista un riesgo objetivo para su vida o integridad corporal;
 
-B. En ejercicio de la acción penal y como parte en el proceso:
+XXX. Llevar a cabo las acciones necesarias para solicitar la declaración de abandono de bienes a favor del Estado o decomiso; ordenar su destrucción o devolución; o realizar el procedimiento para la extinción del dominio, en los términos de la legislación aplicable;
 
-I. Ejercitar la acción penal ante la autoridad jurisdiccional competente, en la vía que corresponda, concretando la acusación y, en su caso, ampliar ésta cuando proceda;
+XXXI. Ejercer la acción penal cuando proceda;
 
-II. Aclarar los pedimentos de ejercicio de la acción penal en los que la autoridad judicial haya determinado que no se encuentran satisfechos los requisitos de los mismos;
+XXXII. Solicitar, cuando fuere procedente, la orden de aprehensión, reaprehensión, de comparecencia o de cita;
 
-III. Solicitar a la autoridad judicial las órdenes de aprehensión, de reaprehensión y de comparecencia o de presentación, cuando se reúnan los requisitos del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos;
+XXXIII. Poner a disposición de la autoridad judicial a las personas dentro de los plazos establecidos por la Ley;
 
-IV. Poner a disposición de la autoridad judicial a las personas detenidas, aprehendidas o reaprehendidas; así como los objetos y evidencias aseguradas, en los términos de las disposiciones jurídicas aplicables;
+XXXIV. Promover el sobreseimiento del procedimiento cuando se cumplan los mecanismos alternativos de solución de controversias, soluciones alternas o formas anticipadas de terminación del proceso penal, cuando proceda en términos de la legislación aplicable;
 
-V. Solicitar que se preserve el lugar de los hechos, los instrumentos, objetos y evidencias del delito; así como la identidad y domicilios del inculpado y de los testigos, cuando ello sea necesario;
+XXXV. Ordenar el cumplimiento de las providencias precautorias, las medidas de protección, y las medidas cautelares aplicables en el procedimiento, y verificar su cumplimiento en el ámbito de su competencia y en atención a las disposiciones conducentes;
 
-VI. Pedir el embargo precautorio, de bienes para los efectos de la reparación del daño, en los términos que prevenga la ley;
+XXXVI. Intervenir e impulsar los procesos que se ventilen ante los juzgados de control, de juicio, cualquier otro especializado y de ejecución de sanciones penales;
 
-VII. Solicitar las órdenes de arraigo, de cateo y otras medidas precautorias, que sean procedentes;
+XXXVII. Formular en su caso, la acusación dentro del término legal, sometiendo a la autorización previa del Procurador el sobreseimiento o la suspensión del proceso, para su confirmación, revocación o modificación, previa a su planteamiento al órgano jurisdiccional;
 
-VIII. Aportar las pruebas y promover todo lo conducente para el completo esclarecimiento de los hechos delictuosos y de las circunstancias en que éstos se realizaron; así como para acreditar las particularidades del inculpado; ello con el fin de que en su oportunidad se impongan, a quienes hayan incurrido en las conductas materia de su acusación, las sanciones y medidas de seguridad previstas en las leyes; de igual forma, para demostrar los daños y perjuicios causados y fijar el monto de su reparación;
+XXXVIII. Aportar los datos de prueba para las resoluciones intermedias o de terminación anticipada del proceso penal, o los medios de prueba y su legal desahogo para la debida comprobación de la existencia del delito y la plena responsabilidad del acusado, las circunstancias en que hubiese sido cometido, la existencia de los daños, así como para la fijación del monto de su reparación, para los fines que la ley establezca;
 
-IX. Formular conclusiones acusatorias cuando sean procedentes, en los términos que establezca el Código de Procedimientos Penales; desahogar las vistas que se le formulen y solicitar las sanciones y medidas de seguridad que correspondan según el caso;
+XXXIX. Solicitar a la autoridad judicial la imposición de las penas o medidas de seguridad que correspondan;
 
-X. Desistirse de la acción penal en ejercicio de los criterios de oportunidad establecido en esta ley y de conformidad con otros supuestos establecidos en el Código de Procedimientos Penales;
+XL. Solicitar y requerir el pago de la reparación del daño a favor de la víctima u ofendido del delito, sin perjuicio de que éstos lo pudieran solicitar directamente;
 
-XI. Interponer los recursos que la ley establece y expresar los agravios correspondientes, así como promover y dar seguimiento a los incidentes que la misma admite;
+XLI. Interponer los medios de impugnación conducentes y aportar los elementos de prueba cuando sea procedente, formular los agravios o alegatos correspondientes para la substanciación de los mismos;
 
-XII. Oponerse al otorgamiento de la libertad provisional del inculpado y promover lo conducente para ello cuando existan razones de interés público;
+XLII. Acudir puntualmente a las audiencias que fijen las autoridades judiciales, con los datos, órganos y medios de prueba conducentes, y permanecer en éstas, promoviendo oralmente lo que en derecho proceda, solicitando copia de los registros respectivos para el acervo institucional;
 
-XIII. Orientar a las víctimas y ofendidos respecto de los trámites y vicisitudes del proceso; así como coordinar las actividades de quien se haya constituido en su coadyuvante;
+XLIII. Intervenir en las audiencias de modificación y duración de las penas, y promover lo que legalmente procede;
 
-XIV. Vigilar que el proceso se tramite en forma regular, promoviendo lo necesario para que el Juzgador aplique las leyes y para que se cumplan sus determinaciones;
+XLIV. Orientar a las víctimas respecto de los trámites e incidencias del proceso; así como coordinarse con quien se haya constituido como su asesor legal;
 
-XV. Recurrir en queja o mediante el procedimiento que establezca la ley, ante el superior jerárquico o el órgano de control correspondiente, por los actos indebidos o negligentes en que incurran las autoridades al resolver las promociones o solicitudes que les hubieren formulado;
+XLV. Velar, en la esfera de su competencia, por el respeto de los derechos humanos que otorgan la Constitución Federal, los Tratados Internacionales, la Constitución del Estado y demás disposiciones jurídicas aplicables;
 
-XVI. Requerir el auxilio de las autoridades estatales y municipales cuando ello sea necesario para el ejercicio de sus funciones; y
+XLVI. Proporcionar atención a las victimas ofendidos y testigos;
 
-XVII. La demás que prevean éste y otros ordenamientos jurídicos aplicables.
+XLVII. Promover la participación de la comunidad en los programas que implemente o en los que participe, en los términos que los mismos establezcan;
 
-C. Generales:
+XLVIII. Cuidar que en los asuntos en que intervenga, se cumplan las determinaciones de la autoridad judicial;
 
-I. Velar, en la esfera de su competencia, por el respeto de los derechos humanos que otorgan la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de México y las leyes que de ellas emanan;
+XLIX. Rendir los informes que le sean solicitados por las autoridades federales y estatales, de conformidad con el Código Nacional;
 
-II. Proporcionar atención a las víctimas y a los ofendidos del delito;
+L. Auxiliar a las autoridades federales y de otras entidades federativas, en la investigación de los delitos de la competencia de éstos, en los términos de los convenios, bases y demás instrumentos de colaboración celebrados al efecto;
 
-III. Realizar estudios y programas de prevención del delito, en el ámbito de su competencia y coadyuvar con organismos sociales, educativos o de seguridad pública en la difusión e implementación de estrategias para la prevención de la criminalidad en general;
+LI. Ejercer las facultades que en materia de seguridad pública le confiere la ley;
 
-IV. Promover la participación de la comunidad en los programas que implemente o en los que participe, en los términos que los mismos establezcan;
+LII. Orientar a los particulares que formulen quejas por irregularidades o hechos que no sean constitutivos de delito, para que acudan ante las instancias competentes;
 
-V. Promover lo necesario, dentro de sus atribuciones, para la recta y expedita administración de justicia;
+LIII. Representar a quienes establezcan las leyes, conforme a la normatividad aplicable;
 
-VI. Cuidar que en los asuntos en que intervenga, se cumplan las determinaciones de la autoridad judicial;
+LIV. Rendir los informes que les sean requeridos para atender las solicitudes de organismos internacionales, nacionales y estatales de derechos humanos, dentro del plazo que les sea señalado;
 
-VII. Intervenir, en su carácter de representante social, ante los órganos jurisdiccionales del orden civil y familiar, en la protección de los menores e incapaces, en los juicios en que, de acuerdo con la ley de la materia, tenga intervención;
+LV. Registrar sus actuaciones en el sistema informático de la institución, obtener el número único de carpeta que proporcione el mismo y alimentarlo con la información requerida;
 
-VIII. Presentar ante las autoridades judiciales las promociones conducentes al interés de la Procuraduría;
+LVI. Decretar el aseguramiento de los objetos, instrumentos y productos del delito así como de las cosas, evidencias, valores y substancias relacionadas con el mismo;
 
-IX. Rendir los informes que le sean solicitados por las autoridades judiciales federales y estatales;
+LVII. Poner a disposición de la autoridad competente a los inimputables mayores de edad a quienes se deban aplicar medidas de seguridad, ejercitando las acciones correspondientes, en los términos establecidos en los ordenamientos jurídicos aplicables;
 
-X. Auxiliar a las autoridades federales y de otras Entidades de la República, en la persecución de los delitos de la competencia de éstos, en los términos de los convenios, bases y demás instrumentos de colaboración celebrados al efecto;
+LVIII. Oponerse a los sustitutivos penales o beneficios preliberacionales, cuando los sentenciados no cumplan con los requisitos legales;
 
-XI. Participar en el Sistema Nacional de Seguridad Pública, de conformidad con la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, la presente ley y demás ordenamientos jurídicos;
-
-XII. Ejercer las facultades que en materia de seguridad pública le confiere la ley;
-
-XIII. Recabar de las autoridades federales, estatales y municipales, así como de instituciones públicas y privadas. Los informes, documentos y pruebas que se requieran para el ejercicio de sus funciones;
-
-XIV. Orientar a los particulares que formulen quejas por irregularidades o hechos que no sean constitutivos de delito, para que acudan ante las instancias competentes;
-
-XV. Resguardar e implementar las medidas necesarias para la conservación, asignación y adjudicación de los bienes que se encuentren a su disposición y que no hubieren sido reclamados;
-
-XVI. Administrar y disponer de los fondos propios que le asigne o faculte la ley, al constituir, en los términos que la misma disponga; y
-
-XVII. Las demás que le señalen éste y otros ordenamientos.
-
-> <small>(ADICIONADO, G.G. 26 DE OCTUBRE DE 2011)</small>
-
-D. En materia de investigación y persecución de los delitos de narcomenudeo a que se refiere el Capítulo VII del Título Décimo Octavo de la Ley General de Salud:
-
-I. Investigar los delitos contra la salud, en su modalidad de narcomenudeo, en los casos de su competencia, conforme a lo dispuesto por el artículo 474 de la Ley General de Salud, y ejercer todas las atribuciones que le correspondan, en los términos de lo dispuesto por el ordenamiento citado, el Código de Procedimientos Penales para el Estado de México y demás disposiciones aplicables;
-
-II. Turnar al Ministerio Público de la Federación las investigaciones que sean de su competencia, en términos del segundo párrafo del artículo 474 de la Ley General de Salud. En estos casos, el Ministerio Público del fuero común podrá practicar las diligencias inmediatas que correspondan, debiendo remitir al Ministerio Público de la Federación, dentro de los tres días de haberlas concluido, el acta o actas levantadas y todo lo que con ellas se relacione; pero si hubiese detenidos, la remisión se hará sin demora y se observarán las disposiciones relativas a la retención ministerial por flagrancia.
-
-Si se advierte la incompetencia, remitirá el expediente al Ministerio Público de la Federación que corresponda a fin de que se continúe el procedimiento, para lo cual las diligencias desahogadas hasta ese momento gozarán de plena validez;
-
-III. Determinar el no ejercicio de la acción penal conforme a la legislación aplicable.
-
-Cuando el no ejercicio de la acción penal sea determinado de conformidad con lo dispuesto por el artículo 478 de la Ley General de Salud, el Ministerio Público deberá informar al consumidor o farmacodependiente !a ubicación de las instituciones o centros para el tratamiento médico o de orientación para la prevención de la farmacodependencia. Asimismo, deberá realizar un reporte del no ejercicio de la acción penal a la autoridad sanitaria local, con el propósito de que ésta promueva la correspondiente orientación médica o de prevención.
-
-Al tercer reporte del Ministerio Público, el tratamiento del consumidor o farmacodependiente será obligatorio;
-
-IV. Informar al Ministerio Público de la Federación del inicio de las investigaciones por delitos contra la salud en su modalidad de narcomenudeo, previstos en el Capítulo VII del Título Décimo Octavo de la Ley General de Salud, cuya competencia sea local en términos del artículo 474 de dicha Ley, a efecto de que la autoridad federal cuente con los elementos necesarios para, en su caso, solicitar la remisión de la investigación. En estos casos, las diligencias desahogadas hasta ese momento por el Ministerio Público del Estado de México gozarán de plena validez;
-
-V. Ejecutar las técnicas de investigación que establece el artículo 180 Bis del Código Federal de Procedimientos Penales en los casos de los delitos previstos en el Capítulo VII del Título Décimo Octavo de la Ley General de Salud, cuya competencia sea local, en los términos del artículo 474 del mismo ordenamiento, conforme a las bases que acuerde el Titular de la Institución con las autoridades federales competentes; y
-
-VI. Las demás que establezcan las normas aplicables.
-
-> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
-
-E. En materia de técnicas de investigación:
-
-I. Solicitar al Juez de Control, la autorización para realizar las técnicas de investigación que requieren control judicial y que se encuentran contenidas en el Código de Procedimientos Penales para el Estado de México;
-
-II. Aplicar las técnicas de investigación que no requieren control judicial, en términos del Código de Procedimientos Penales de la entidad, los programas y protocolos que al efecto se emitan y demás disposiciones aplicables;
-
-III. Solicitar al Procurador o algún subprocurador, mediante escrito fundado y motivado la autorización para emplear las técnicas de investigación o bien para solicitar la autorización del órgano jurisdiccional según corresponda;
-
-IV. La información que se genere con las técnicas de investigación, es de estricta confidencialidad, cuya revelación no autorizada será sancionada con las disposiciones penales aplicables; y
-
-V. El servidor público involucrado en las técnicas de investigación a que se refiere esta Ley, deberá contar con la correspondiente certificación de control de confianza, establecida en el Sistema Nacional de Seguridad Pública.
+LIX. Las demás funciones que le atribuyan otras disposiciones jurídicas y el Procurador.
 
 ### CAPITULO IV. Aplicación de la ley
 
@@ -421,9 +297,11 @@ V. El servidor público involucrado en las técnicas de investigación a que se 
 
 LEYES ESPECIALES: En materia de justicia para adolescentes y cualquiera otra que se encuentre regulada por leyes especiales en las que se dé intervención al Ministerio Público, se aplicarán los principios y disposiciones contenidos en esta ley, en cuanto no se opongan expresamente a los que las mismas establezcan.
 
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 12.
 
-SUPLETORIEDAD: En todo lo que no se encuentre expresamente regulado en la presente ley se aplicará supletoriamente, en cuanto resulten conducentes y no se le opongan, las disposiciones contenidas en el Código Penal y el Código de Procedimientos Penales; así como, en su caso, las demás leyes que imperen en el Estado.
+En todo lo que no se encuentre expresamente regulado en la presente Ley se aplicará supletoriamente, en cuanto resulten conducentes y no se le opongan, las disposiciones contenidas en el Código Penal y el Código Nacional, así como, en su caso, las demás leyes que imperen en el Estado.
 
 ###### ARTÍCULO 13.
 
@@ -437,97 +315,157 @@ El Instituto de Servicios Periciales únicamente expedirá certificados de antec
 
 La Procuraduría establecerá un sistema informático por el que los interesados podrán solicitar se les informe si tienen o no registros de antecedentes penales, en los términos que establezcan los acuerdos que emita el Procurador para tal efecto.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
-### CAPITULO V. Imposición de Medidas Cautelares, Providencias Precautorias y Medidas de Protección
+### CAPITULO V. Imposición de Medidas De Protección, Providencias Precautorias y Medidas Cautelares
 
-> <small>(REFORMADO, G.G. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 14.
 
-A partir de que tenga conocimiento de los hechos y en cualquier momento de la investigación, de oficio o a petición de la víctima u ofendido, el Ministerio Público impondrá una o varias de las medidas cautelares o providencias precautorias que se establecen en el Código de Procedimientos Penales para el Estado de México y demás disposiciones aplicables, con la finalidad de asegurar la presencia del imputado en el juicio, el desarrollo de la investigación, la protección de la víctima o del ofendido, de los testigos o de la comunidad y garantizar la reparación del daño.
+Para la imposición de medidas de protección, providencias precautorias y medidas cautelares, el Ministerio Público estará a lo dispuesto en el Título VI del Código Nacional.
 
-El Ministerio Público dictará las órdenes necesarias para garantizar el cumplimiento de la o las medidas cautelares o providencias precautorias.
+El Ministerio Público tomará en cuenta para la aplicación de una medida de protección que el agresor:
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2011)</small>
+I. Haya intimidado a la víctima;
+
+II. Haya sido previamente denunciado o condenado por violencia familiar;
+
+III. Cuente con antecedentes de personalidad violenta, de consumo de sustancias ilícitas o problemas con el consumo de alcohol;
+
+IV. Tenga condena o proceso pendiente por delitos sexuales, contra la vida o la integridad corporal o por posesión de armas; o
+
+V. Tenga perfil violento.
+
+La ejecución y vigilancia de las medidas de protección quedará a cargo de la Policía de Investigación y de los auxiliares del Ministerio Público, en el ámbito de su competencia.
+
+El Ministerio Público integrará una base de datos con las medidas de protección impuestas, la cual consultará antes de imponer alguna, para determinar la idoneidad de la medida a imponer.
+
+El incumplimiento de alguna de las medidas de protección faculta al Ministerio Público para imponer alguna de las medidas de apremio previstas en el Código Nacional.
+
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 15.
 
-Dentro del término de veinticuatro horas de la determinación de la imposición de la medida cautelar o providencia precautoria, el Ministerio Público comunicará la misma, por cualquier medio, a la oficina del Poder Judicial establecida para ello, con la finalidad de que la autoridad judicial conozca la imposición de la medida y fije día y hora para la celebración de una audiencia de revisión de las medidas.
+La prohibición de acercarse o comunicarse con la víctima u ofendido, o para asistir (sic) acercarse al domicilio de aquéllos o al lugar donde se encuentre alguno de éstos, se establecerá de forma que no haya contacto físico, visual o verbal por cualquier medio.
+
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 16.
 
-El Ministerio Público deberá notificar a la persona o personas respecto de quienes se afecten de manera provisional sus derechos con la imposición de dichas medidas, el lugar, día y hora de la celebración de la audiencia de revisión de las medidas cautelares, así como la autoridad judicial que la presidirá. Dicha notificación producirá el efecto de citación correspondiente.
+La separación inmediata del domicilio se fijará por un tiempo determinado y se ejecutará mediante la notificación del requerimiento respectivo, y en caso de no hacer la separación inmediata, se procederá con el consentimiento del beneficiario de la medida, al ingreso al inmueble para extraer las pertenencias del sujeto separado y ponerlas en el lugar que éste solicite dentro del territorio del Estado de México, en su defecto, se enviarán al depósito de objetos de la Procuraduría General de Justicia, levantando al efecto el registro correspondiente. Esta actuación será videograbada.
+
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 17.
 
-El día y hora señalado para la audiencia de revisión de medidas cautelares, el juez que la presida verificará la asistencia del Ministerio Público, la víctima o el ofendido, el destinatario de la medida cautelar o su defensor. Si no se encontrase presente el destinatario de la medida, será representado por su defensor o ante la ausencia de éste, por el defensor de oficio adscrito al juzgado correspondiente.
+La entrega inmediata de objetos de uso personal y documentos de identidad de la víctima que tuviera en su posesión el probable responsable, se ordenará mediante notificación personal, otorgando un plazo prudente para la entrega voluntaria y el lugar donde se efectuará, en caso de negativa o desacato, se solicitará la autorización judicial para el cateo del inmueble donde los indicios indiquen que se haya el documento.
 
-Si faltase el Ministerio Público pero se encuentra el ofendido y la medida cautelar protege sus derechos, el juez continuará con el desarrollo de la audiencia. Si faltaren el Ministerio Público y la víctima u ofendido, el juez sin más trámite levantará la medida cautelar impuesta.
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 18.
 
-Presentes las partes en la audiencia, el Ministerio Público expondrá al juzgador los motivos que tuvo para imponer la medida cautelar y las razones por las que considera que la misma debe ser confirmada, así como las características de su ejecución y el tiempo que considera para su duración; posteriormente escuchará a la víctima u ofendido y al final al destinatario de la medida por sí o su defensor.
+El Procurador emitirá la normatividad necesaria para regular la ejecución de las medidas de protección, de conformidad con las disposiciones legales aplicables.
 
-Escuchados los alegatos por las partes, el juez podrá fomentar un acuerdo entre las partes, ya sea para resolver el conflicto o para que se establezca una situación jurídica provisional específica.
-
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 19.
 
-A partir de que tenga conocimiento de los hechos y en cualquier momento de la investigación, de oficio o a petición de la víctima u ofendido, el Ministerio Público impondrá una o varias de las medidas de protección, que se establecen en el Código de Procedimientos Penales para el Estado de México y demás disposiciones aplicables, con la finalidad de brindar protección a la víctima u ofendido, y de todos los sujetos que intervengan en el proceso.
+El Ministerio Público podrá modificar o levantar la medida de protección en cuanto se modifiquen las condiciones que las generaron.
 
-El Ministerio Público dictará las órdenes necesarias para el debido cumplimiento y ejecución de las medidas de protección impuestas.
-
-Tratándose de delitos vinculados a la violencia de género, y en los casos en que las víctimas u ofendidos sean menores de edad, el Ministerio Público dictará de inmediato, de oficio, las medidas de protección apropiadas para salvaguardar su seguridad e integridad física y psicológica.
-
-El Ministerio Público informará a la víctima u ofendido sobre las medidas de protección pertinentes, así como las condiciones y limitantes para su aplicación y las circunstancias en que podrán ser revocadas.
-
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 20.
 
-En caso de que el Ministerio Público tenga conocimiento del quebrantamiento de alguna de las medidas cautelares, providencias precautorias o medidas de protección, de oficio, iniciará la investigación correspondiente por los hechos delictuosos correspondientes.
+El Ministerio Público deberá sustentar su petición de ratificación o modificación al juez, con la oportunidad necesaria, para que la audiencia se celebre en el término legal.
 
-### CAPITULO VI. De la Policía Ministerial, Peritos y otras policías
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+### CAPITULO VI. De la Policía de Investigación y Servicios Periciales
+
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 21.
 
-INTERVENCIÓN DE LA POLICÍA MINISTERIAL: La Policía Ministerial auxiliará al Ministerio Público mediante el ejercicio de las siguientes atribuciones:
+La Policía de Investigación actuará bajo la conducción y mando del Ministerio Público en la investigación de los delitos en estricto apego a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución y tendrá las siguientes obligaciones:
 
-I. Investigar los hechos posiblemente delictuosos en los términos que le ordene el Ministerio Público, para lo cual podrá acudir al lugar de los hechos, entrevistarse con personas y autoridades que puedan tener conocimiento de los mismos, vigilar el comportamiento de quienes puedan estar involucrados, obtener información que obre en poder de las autoridades e instituciones públicas y localizar, recoger, preservar y poner a disposición del Ministerio Público los instrumentos, evidencias, objetos y productos del delito, en los términos que éste y otros ordenamientos jurídicos determinen;
+I. Recibir las denuncias sobre hechos que puedan ser constitutivos de delito e informar al Ministerio Público por cualquier medio y de forma inmediata de las diligencias practicadas;
 
-II. Documentar el resultado de sus investigaciones mediante la suscripción de partes informativos, toma de fotografías y la grabación de imágenes y sonidos, conforme a las disposiciones contenidas en esta ley y los demás ordenamientos aplicables; así como intervenir las comunicaciones privadas en los supuestos y términos que establezca la ley;
+II. Recibir denuncias anónimas y cerciorarse de la veracidad de los datos aportados, e inmediatamente hacerlo del conocimiento del Ministerio Público, a efecto de que éste coordine la investigación;
 
-III Investigar cuando tenga noticia de un hecho posiblemente constitutivo de delito que sea perseguible de oficio, informando de inmediato al Ministerio Público y debiendo tomar todas las medidas y providencias necesarias para impedir que se pierdan, destruyan o alteren los instrumentos, evidencias, objetos y productos del ilícito; así como para propiciar la seguridad y el auxilio a las víctimas y ofendidos;
+III. Realizar detenciones en los casos que autoriza la Constitución, haciendo saber a la persona detenida los derechos que ésta le otorga;
 
-IV. Detener, en los casos de flagrancia, al probable responsable de los hechos y ponerlo de inmediato a disposición del Ministerio Público;
+IV. Impedir que se consumen los delitos o que los hechos produzcan consecuencias ulteriores.
 
-V. Cumplir las órdenes de localización, presentación, comparecencia y detención que le ordene el Ministerio Público;
+Especialmente estará obligada a realizar todos los actos necesarios para evitar una agresión real, actual o inminente y sin derecho en protección de bienes jurídicos de los gobernados a quienes tiene la obligación de proteger;
 
-VI. Ejecutar las órdenes de presentación, comparecencia, aprehensión, reaprehensión, arresto y cateo emitidas por la autoridad judicial;
+V. Actuar bajo el mando del Ministerio Público en el aseguramiento de bienes relacionados con la investigación de los delitos;
 
-VII. Ejecutar los arraigos y vigilar el cumplimiento de las órdenes de restricción, en los términos autorizados por la autoridad judicial o ministerial;
+VI. Informar sin dilación por cualquier medio al Ministerio Público sobre la detención de cualquier persona, e inscribir inmediatamente las detenciones en el registro que al efecto establezcan las disposiciones aplicables;
 
-VIII. Preservar y vigilar los lugares y objetos que le ordene el Ministerio Público;
+VII. Practicar las Inspecciones y otros actos de investigación, así como reportar sus resultados al Ministerio Público en aquellos que se requiera autorización judicial, deberá solicitarla a través del Ministerio Público;
 
-IX. Asegurar que las órdenes y determinaciones del Ministerio Público sean cumplidas, incluyendo las medidas precautorias a que se refiere el capitulo V de esta ley;
+VIII. Preservar y procesar, en coordinación con los servicios periciales el lugar de los hechos o del hallazgo y la integridad de los indicios y dar aviso al Ministerio Público conforme a las disposiciones aplicables para su conducción jurídica e iniciar y continuar la cadena de custodia de los indicios recabados hasta que otra autoridad asuma competencia sobre estos;
 
-X. Efectuar y participar en los operativos policiales conforme a las instrucciones que para el efecto reciban;
+IX. Recolectar y resguardar en su caso, objetos relacionados con la investigación de los delitos, en los términos de la fracción anterior;
 
-XI. Atender los auxilios que se le soliciten en los términos que le sean autorizados; y
+X. Entrevistar a las personas que pudieran aportar algún dato o elemento para la investigación;
 
-XII. Las demás que esta ley, el reglamento interno de la Policía Ministerial y otros ordenamientos jurídicos dispongan.
+XI. Requerir a las autoridades competentes y solicitar a las personas físicas o jurídicas colectivas, informes y documentos para fines de la investigación. En caso de negativa, informará al Ministerio Público para que determine lo conducente;
+
+XII. Proporcionar atención a víctimas u ofendidos o testigos del delito. Para tal efecto, deberá:
+
+a) Prestar protección y auxilio inmediato, de conformidad con las disposiciones aplicables.
+
+b) Informar a la víctima u ofendido sobre los derechos que en su favor se establecen.
+
+c) Procurar que reciban atención médica y psicológica cuando sea necesaria.
+
+d) Adoptar las medidas que se consideren necesarias, en el ámbito de su competencia, tendientes a evitar que se ponga en peligro su integridad física y psicológica.
+
+XIII. Dar cumplimiento a los mandamientos ministeriales y jurisdiccionales que les sean instruidos;
+
+XIV. Poner a disposición del Ministerio Público a las personas detenidas sin demora;
+
+XV. Atender los auxilios que se le soliciten en los términos que le sean autorizados;
+
+XVI. Emitir los informes, partes policiales y demás documentos que se generen con los requisitos de fondo y forma que establezcan las disposiciones aplicables, para tal efecto se podrán apoyar en los conocimientos que resulten necesarios sin que ellos constituyan dictámenes periciales;
+
+XVII. Garantizar que se deje registro de cada una de sus actuaciones, así como llevar un control y seguimiento de estas;
+
+XVIII. Las demás que le confieran el Código Nacional, esta Ley y otras disposiciones aplicables.
+
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 22.
 
-INTERVENCIÓN DE PERITOS: Los peritos dilucidarán las cuestiones técnicas, artísticas o científicas que les plantee el Ministerio Público.
+Los Servicios Periciales contarán con las siguientes atribuciones:
 
-Los servicios periciales orientarán y asesorarán además al Ministerio Público, cuando así se les requiera, en materia de investigación criminal y apreciación de pruebas sin que ello comprometa la independencia y objetividad de su función.
+I. Auxiliar al Ministerio Público y a la Policía de Investigación en la búsqueda, preservación y obtención de indicios, a fin de coadyuvar en el cumplimiento de sus funciones constitucionales de investigación y persecución de los delitos;
 
-Recolectarán la evidencia procediendo a su debido embalaje y preservación y pondrán a disposición del Ministerio Público el material sensible significativo que resulte de sus intervenciones.
+II. Establecer los mecanismos de atención y procedimientos de registro, de las solicitudes de Servicios Periciales en las diferentes especialidades, formuladas por el Ministerio Público o la Policía de Investigación y, en su caso, por los órganos jurisdiccionales y demás autoridades, así como de los programas de supervisión y seguimiento de la atención a tales solicitudes;
 
-Los peritos rendirán sus dictámenes e informes dentro de los términos que les sean fijados por el Ministerio Público.
+III. Brindar asesoría técnica a las unidades administrativas y órganos desconcentrados de la Procuraduría, así como a otras instancias que lo requieran, en el ámbito de su competencia;
+
+IV. Diseñar y establecer los requisitos mínimos de los dictámenes e informes, así como emitir, en coordinación con las unidades administrativas competentes, guías, protocolos y manuales técnicos que deban observarse en la intervención pericial y para la formulación de dictámenes de las diversas especialidades periciales, dentro del marco de la autonomía técnica de dichos servicios, velando porque se cumplan con las formalidades y requisitos que establecen las leyes del procedimiento, así como con las normas científicas y técnicas aplicables;
+
+V. Opinar sobre los anteproyectos de acuerdos, circulares, instructivos y manuales para regular la función pericial y la actuación de los peritos;
+
+VI. Supervisar técnica y administrativamente la emisión de los dictámenes periciales, a efecto de que éstos cumplan con la metodología pericial y las normas vigentes;
+
+VII. Dirigir, operar y supervisar los laboratorios forenses;
+
+VIII. Atender las instrucciones del Ministerio Público y de la Policía de Investigación, los procedimientos y protocolos para la recolección, el levantamiento, la preservación y el traslado de indicios, huellas o vestigios del hecho delictivo y de los instrumentos, objetos o productos del delito, así como para asegurar su integridad a través de la cadena de custodia;
+
+IX. Operar los bancos de datos criminalísticos de la Procuraduría, materia de su competencia, que se integren al Sistema Nacional de Seguridad Pública;
+
+X. Operar y administrar un sistema informático de registro y análisis de perfiles genéticos de personas, vestigios biológicos, huellas y otros elementos relacionados con hechos delictivos, que se obtengan de conformidad con las disposiciones aplicables, así como establecer criterios generales para el acceso al sistema y su uso;
+
+XI. Operar y administrar un sistema informático de registro y análisis de la huella balística, análisis de voz, sistemas biométricos y otros elementos relacionados con hechos delictuosos, que se obtengan de conformidad con las disposiciones aplicables, así como establecer criterios generales para el acceso al sistema y su uso;
+
+XII. Proponer a las unidades administrativas competentes la adquisición del equipo adecuado para el desarrollo de los Servicios Periciales y promover la cooperación en la materia con las procuradurías de las entidades federativas, así como con otras instituciones;
+
+XIII. Las demás que esta Ley y otras disposiciones legales o el Procurador les señalen.
 
 ###### ARTÍCULO 23.
 
@@ -547,9 +485,13 @@ En tal supuesto los mencionados funcionarios deberán comunicar de inmediato lo 
 
 El Ministerio Público examinará las actuaciones que le hubieren sido entregadas y dispondrá lo conducente para la regularización de la indagatoria.
 
-## TITULO SEGUNDO. DE LA ORGANIZACIÓN DEL MINISTERIO PÚBLICO
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
-### CAPITULO ÚNICO. Del Ministerio Público
+## TITULO SEGUNDO. DEL MINISTERIO PÚBLICO Y SUS AUXILIARES
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+### CAPITULO ÚNICO. Del Ministerio Público y sus Auxiliares
 
 ###### ARTÍCULO 25.
 
@@ -563,15 +505,19 @@ AGENTES DEL MINISTERIO PÚBLICO: El Ministerio Público ejercerá sus atribucion
 
 Para todos los efectos legales son y tienen el carácter de Agentes del Ministerio Público, además de los designados como tales, el Procurador, el Subprocurador General, los Fiscales Especiales, Titulares de Unidad, Directores Generales, Directores y Subdirectores de Área, Coordinadores y Jefes de Departamento y en general los titulares de las Áreas, Coordinadores y Jefes de Departamento y en general, los titulares de las Áreas, Dependencias o Unidades que tengan encomendada cualquiera de las atribuciones a que se refiere el artículo 10 de esta ley.
 
-Se exceptúan de lo anterior, los directores, titulares y personal de las áreas administrativas de la Procuraduría, los Servicios Periciales y la Policía Ministerial, así como los que carezcan de título registrado y cédula que los autorice a ejercer la profesión de Licenciado en Derecho.
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+Se exceptúan de lo anterior, los directores, titulares y personal de las áreas administrativas de la Procuraduría, los Servicios Periciales y la Policía de Investigación, así como los que carezcan de título registrado y cédula que los autorice a ejercer la profesión de Licenciado en Derecho.
+
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 27.
 
-AUXILIARES Y APOYOS JURIDICOS, ADMINISTRATIVOS Y TÉCNICOS DEL MINISTERIO PÚBLICO. El Ministerio Público cuenta con los siguientes auxiliares y apoyos:
+Para el eficaz cumplimiento de las atribuciones conferidas por las disposiciones jurídicas aplicables, el Ministerio Público y la Policía de Investigación cuentan con los siguientes auxiliares y apoyos:
 
 A. Directos:
 
-I. La Policía Ministerial del Estado; y
+I. Las instituciones policiales del Estado de México y de sus municipios;
 
 II. Los Servicios Periciales.
 
@@ -579,15 +525,17 @@ B. Complementarios:
 
 I. Los Síndicos de los Ayuntamientos;
 
-II. Los Cuerpos de Seguridad Pública Estatal y Municipal; y
+II. Las policías federales;
 
-III. Las demás autoridades que prevengan las Leyes.
+III. Las fuerzas armadas;
+
+IV. Las demás autoridades que prevengan las leyes.
 
 C. Jurídicos:
 
 I. Las áreas o unidades que realicen funciones normativas, jurídicas o de consulta;
 
-II. Los asesores internos o externos en materia legal; y
+II. Los asesores internos o externos en materia legal;
 
 III. Las áreas de vinculación y de relaciones interinstitucionales.
 
@@ -595,79 +543,79 @@ D. Técnicos:
 
 I. Las áreas o unidades de planeación y de elaboración de políticas públicas;
 
-II. Las áreas o unidades de atención y apoyo a ofendidos y víctimas del delito;
+II. Las áreas o unidades de atención y apoyo a las víctimas;
 
-III. Las áreas o unidades de mediación, conciliación y de apoyo para la solución de controversias;
+III. Las áreas de resguardo y administración de indicios o evidencias;
 
-IV. Las áreas de capacitación y profesionalización; y
+IV. Las áreas o unidades de atención inmediata, mediación, conciliación y de apoyo para la solución de controversias;
 
-V. Las áreas de estadísticas, sistemas, logística y archivo.
+V. Las áreas de capacitación y profesionalización;
+
+VI. Las áreas de estadísticas, sistemas, logística y archivo.
 
 E. Administrativos:
 
-I. Las áreas de gestión y administración de recursos humanos y materiales; y
+I. Las áreas de gestión y administración de recursos humanos y materiales;
 
-II. Las áreas de comunicación social, relaciones públicas, control de agenda y atención al público.
+II. Las áreas de comunicación social, relaciones públicas y atención al público.
 
-F. Otros:
+F. Las demás áreas o unidades que sean necesarias para el eficaz ejercicio de sus atribuciones.
 
-I. Las demás áreas o unidades que sean necesarias para el eficaz ejercicio de sus atribuciones.
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 28.
 
-MANDO DIRECTO: En el ejercicio de la investigación criminal el Ministerio Público tendrá la conducción de la actividad de las Policías y de los Servicios Periciales y dispondrá de los demás apoyos y auxiliares en los términos que éste y los demás ordenamientos legales establezcan.
+Los Ministerios Públicos no podrán ser coartados, ni impedidos en el ejercicio de sus funciones por ninguna autoridad pública, en consecuencia, las autoridades estatales y municipales, les prestarán sin demora la colaboración que requieran para el mejor cumplimiento de sus funciones.
 
-Los Agentes del Ministerio Público en la investigación de los delitos y de las conductas tipificadas como tales, asumirán el mando directo de la Policía Ministerial y de los Servicios Periciales, sin que por ningún motivo queden subordinados, directa o indirectamente a un agente o funcionario de éstos, cualquiera que sea el cargo o jerarquía administrativa que ostenten.
-
-Los Agentes del Ministerio Público no podrán ser coartados, ni impedidos en el ejercicio de sus funciones por ninguna autoridad pública; en consecuencia, las autoridades estatales y municipales, les prestarán sin demora la colaboración que requieran para el mejor cumplimiento de sus funciones.
-
-Los peritos, en ejercicio de su encargo, tienen autonomía técnica, por lo que las órdenes del Ministerio Público no afectarán los criterios que emitan en sus dictámenes.
+Los peritos en ejercicio de su encargo, tienen autonomía técnica, por lo que las órdenes del Ministerio Público no afectarán los criterios que emitan en sus dictámenes.
 
 ## TITULO TERCERO. BASES GENERALES DE ORGANIZACIÓN DE LA PROCURADURIA
 
 ### CAPITULO I. De la organización de la Procuraduría
 
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 29.
 
-ORGANIZACIÓN DE LA PROCURADURIA: El Ministerio Público, sus auxiliares y apoyos jurídicos, administrativos y técnicos, con excepción de los complementarios, están organizados en una dependencia de la Administración Pública Estatal que se denomina Procuraduría General de Justicia del Estado de México.
+Al frente de la Procuraduría y del Ministerio Público estará el Procurador cuya autoridad se extiende a todos los servidores públicos que conforman una y otro.
 
-Al frente de dicha dependencia y del Ministerio Público estará el Procurador General de Justicia del Estado de México, cuya autoridad se extiende a todos los servidores públicos que conforman una y otro.
+El Procurador ejercerá sus atribuciones con base en lo dispuesto en la Constitución Federal, en la Constitución del Estado, en la Ley Orgánica de la Administración Pública del Estado de México, en la presente ley y en otros ordenamientos jurídicos sus procedimientos serán eficaces y expeditos, procurando la simplificación y rapidez en sus actuaciones.
 
-El Procurador General de justicia ejercerá sus atribuciones con base en lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado, en la Ley Orgánica de la Administración Pública del Estado de México, en la presente ley y en otros ordenamientos jurídicos. Sus procedimientos serán eficaces y expeditos, procurando la simplificación y rapidez en sus actuaciones.
-
-> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 30.
 
-DENOMINACIÓN: La denominación de Procuraduría General de Justicia del Estado identifica tanto a la propia institución del Ministerio Público como a la forma de organización administrativa que asume, por lo que podrán utilizarse indistintamente para designar a una y otra. Lo anterior, sin perjuicio de las funciones de atribuciones que, sin ser propias del Ministerio Público, se encuentren conferidas a la Procuraduría General de Justicia del Estado de México o al Procurador.
+La denominación de Procuraduría identifica tanto a la propia institución del Ministerio Público como a la forma de organización administrativa que asume, por lo que podrán utilizarse indistintamente para designar a una y otra.
+
+Lo anterior, sin perjuicio de las funciones de atribuciones que, sin ser propias del Ministerio Público, se encuentren conferidas a la Procuraduría o al Procurador.
+
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 31.
 
-TITULARIDAD. El Procurador General de Justicia del Estado será:
+El Procurador será:
 
 I. El jefe del Ministerio Público;
 
-II. (DEROGADA, G.G. 19 DE DICIEMBRE DE 2012)
+II. El titular y representante de la Procuraduría.
 
-III. El titular y representante de la Procuraduría General de Justicia del Estado.
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 32.
 
-BASES GENERALES. Para el despacho de los asuntos que competen a la Procuraduría General de Justicia y al Ministerio Público, el presente ordenamiento y demás disposiciones aplicables, el Procurador se auxiliará de:
+La Procuraduría se organizará a través de las unidades administrativas necesarias para el cumplimiento de sus atribuciones, de acuerdo con el presupuesto y normatividad aplicables.
 
-I. El Subprocurador General;
+Para el despacho de los asuntos que competen a la Procuraduría y al Ministerio Público, en el presente ordenamiento y demás disposiciones aplicables, el Procurador se auxiliará de:
+
+I. Subprocurador General;
 
 II. Subprocuradores;
 
-III. Fiscales Regionales;
+III. Fiscales;
 
-IV. Fiscales Especiales;
+IV. Titulares de unidades especializadas;
 
-V. Titulares de Unidades Especializadas;
-
-VI. Agentes del Ministerio Público, Agentes de la Policía Ministerial y Peritos; y
-
-VII. Directores, Subdirectores, Jefes de Departamento, Titulares de órganos y unidades técnicas y administrativas y demás servidores públicos que establezca el reglamento de esta ley y otras disposiciones aplicables.
+V. Coordinadores, directores generales, titulares de órganos desconcentrados, unidades técnicas y administrativas directores de área, subdirectores, jefes de departamento, y demás servidores públicos que establezca el Reglamento de esta Ley y otras disposiciones aplicables.
 
 ###### ARTÍCULO 33.
 
@@ -675,51 +623,83 @@ SISTEMA DE ESPECIALIZACIÓN. Para el desarrollo de las funciones de la Procuradu
 
 I. Sistema de especialización:
 
-a) La Procuraduría contará con unidades administrativas especializadas en la investigación y persecución de géneros de delitos, atendiendo a las formas ele manifestación de la delincuencia organizada, así como la naturaleza, complejidad e incidencia de los delitos del orden común.
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+a) La Procuraduría contará con unidades administrativas especializadas en la investigación y persecución de géneros delictivos o para temas de combate a la delincuencia, atendiendo a sus formas de manifestación, así como la naturaleza, complejidad e incidencia de los delitos del orden común.
 
 b) Las unidades administrativas especializadas actuarán en todo el territorio del Estado en coordinación con los órganos y unidades desconcentradas.
 
-c) Las unidades administrativas especializadas, según su nivel orgánico, funcional y presupuestal, podrán contar con direcciones, subdirecciones y demás unidades que establezcan las disposiciones aplicables.
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+c) Las unidades administrativas especializadas, según su nivel orgánico, funcional y presupuestal, podrán contar con direcciones, subdirecciones y demás unidades que establezcan las disposiciones aplicables, así como con Personal Operativo.
 
 II. Sistema de organización territorial:
 
-a) El Procurador, mediante acuerdo, podrá establecer Fiscalías o Unidades Regionales en circunscripciones que abarcarán uno o más municipios del Estado. Al frente de cada Fiscalía Regional habrá un Fiscal, quien ejercerá el mando y autoridad jerárquica sobre los Agentes del Ministerio Público, de la Policía Ministerial y Servicios Periciales.
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+a) Habrá fiscalías regionales en circunscripciones que abarcarán uno o más municipios del Estado de México. Al frente de cada fiscalía regional habrá un fiscal, quien ejercerá el mando y autoridad jerárquica sobre el personal que le sea adscrito.
 
 b) Las sedes de las Fiscalías serán definidas atendiendo a la incidencia delictiva, densidad de población, las características geográficas del Estado y la correcta distribución de las cargas de trabajo.
 
-c) La Procuraduría podrá contar con unidades administrativas a cargo de la coordinación, supervisión y evaluación de las Fiscalías Especiales y Regionales. En su caso, el Procurador determinará mediante acuerdo el número de unidades administrativas y fiscalías que les estén adscritas.
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
-d) Las Fiscalías Regionales de la Procuraduría contarán con los servidores públicos y agencias del Ministerio Público, que ejercerán sus funciones en la circunscripción territorial que determine el Procurador mediante acuerdo, así como las demás unidades administrativas y de investigación que establezcan las disposiciones aplicables.
+c) Las fiscalías regionales de la Procuraduría contarán con servidores públicos que ejercerán sus funciones en la circunscripción territorial que determine el Procurador mediante acuerdo.
 
-e) Las Fiscalías Regionales atenderán los asuntos en materia de averiguación previa, ejercicio de la acción penal, reserva, incompetencia, acumulación, no ejercicio de la acción penal, control de procesos, amparo, prevención del delito, servicios a la comunidad, servicios administrativos y otros, de conformidad con las facultades que les otorgue el reglamento de esta ley y el Procurador mediante acuerdo.
+d) (DEROGADO, G.G. 28 DE NOVIEMBRE DE 2014)
 
-f) El Procurador expedirá las normas necesarias para la coordinación y articulación de las fiscalías o unidades regionales con los órganos centrales y unidades especializadas, a efecto de garantizar la unidad de actuación y dependencia jerárquica del Ministerio Público.
+e) (DEROGADO, G.G. 28 DE NOVIEMBRE DE 2014)
+
+f) (DEROGADO, G.G. 28 DE NOVIEMBRE DE 2014)
+
+> <small>(ADICIONADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+Las fiscalías regionales y unidades administrativas especializadas atenderán los asuntos en materia de investigación de delitos, ejercicio de la acción penal, criterios de oportunidad, mecanismos alternativos de solución de controversias, soluciones alternas y formas de terminación anticipada del proceso penal, archivo temporal, incompetencia, acumulación, no ejercicio de la acción penal, abstención de investigar, amparo, y los demás que resulten aplicables de conformidad con las facultades que les otorgue el Reglamento de esta Ley y el Procurador mediante acuerdo.
+
+> <small>(ADICIONADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+La Procuraduría podrá contar con unidades administrativas a cargo de la coordinación, supervisión y evaluación de las fiscalías. En su caso, el Procurador mediante acuerdo, podrá establecer nuevas fiscalías y unidades administrativas, y determinar su adscripción.
+
+> <small>(ADICIONADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+El Procurador expedirá las normas necesarias para la coordinación y articulación de las fiscalías con los órganos centrales, desconcentrados y demás unidades administrativas, a efecto de garantizar la unidad de actuación y dependencia Jerárquica del Ministerio Público.
+
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 34.
 
-ORGANIZACIÓN REGLAMENTARIA Y POR ACUERDO: Los Coordinadores. Fiscales Regionales Fiscales Especiales, Titulares de Unidades Especializadas, Agentes de la Policía Ministerial, Directores Generales, Agentes del Ministerio Público, Agentes de la Policía Ministerial, Servicios Periciales y Peritos, Directores, Subdirectores, Jefes de Departamento, titulares de órganos y unidades técnicas y administrativas y demás servidores públicos que establezca el Reglamento de esta ley y otras disposiciones aplicables se organizarán de conformidad con los acuerdos que emita el Procurador al efecto, en los cuales se deberán tomar en consideración las categorías del Servicio Civil de Carrera, en lo que resulten aplicables.
+El personal de la Procuraduría se organizará de conformidad con el Reglamento de esta Ley; con los acuerdos y circulares que emita el Procurador, los manuales de organización y de procedimientos, así como con los protocolos de actuación, en los cuales se deberán tomar en consideración las categorías del Servicio Profesional de Carrera, en lo que resulte aplicable.
 
 ###### ARTÍCULO 35.
 
 ÓRGANOS ADMINISTRATIVOS. El Reglamento de esta ley establecerá las unidades y órganos técnicos y administrativos, así como sus atribuciones.
 
-El Procurador, de conformidad con las disposiciones presupuestales, podrá crear unidades administrativas especializadas distintas a las previstas en el reglamento de esta ley, para la investigación y persecución de géneros de delitos, atendiendo a las necesidades del servicio, así como fiscalías especiales para el conocimiento, atención y persecución de delitos específicos que por su trascendencia, interés y características así lo ameriten.
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+El Procurador podrá crear unidades administrativas distintas a las previstas en el Reglamento de esta Ley, para la investigación y persecución de delitos, y el ejercicio de las demás atribuciones de la Procuraduría, atendiendo a las necesidades del servicio, así como aquellos que por su trascendencia, interés y características lo ameriten, de conformidad con la disponibilidad presupuestal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 36.
 
-DELEGACIÓN DE FACULTADES. El Procurador, para la mejor organización y funcionamiento de la Institución, podrá delegar facultades, excepto aquellas que por disposición de la Constitución Política del Estado de México, la presente ley y demás ordenamientos aplicables, deban ser ejercidas por el propio Procurador. Asimismo, podrá adscribir orgánicamente las unidades y órganos técnicos y administrativos que establezca el reglamento de esta ley y demás disposiciones aplicables.
+El Procurador, para la mejor organización y funcionamiento de la Procuraduría, podrá delegar facultades, excepto aquéllas que por disposición de la Constitución Federal, la Constitución del Estado, la presente Ley y demás ordenamientos jurídicos aplicables, deban ser ejercidas por el propio Procurador.
 
 Los acuerdos por los cuales se disponga la creación de unidades administrativas especializadas y fiscalías especiales, se deleguen facultades o se adscriban los órganos y unidades, se publicarán en el Periódico Oficial "Gaceta del Gobierno".
 
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 37.
 
-REQUISITOS PARA SER PROCURADOR, Y SUBPROCURADOR GENERAL: Para ser Procurador y Subprocurador General, se requiere contar con los requisitos a que se refiere el artículo 84 de la Constitución Política del Estado Libre y Soberano de México, con excepción del último párrafo de dicho artículo en el caso del Subprocurador General.
+Para ser Procurador se deberán cumplir los requisitos que al efecto establece el artículo 84 de la Constitución del Estado.
+
+El Procurador será designado por el Gobernador del Estado de México, en términos de lo dispuesto por el último párrafo del precepto citado en este artículo.
+
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 38.
 
-Los Coordinadores, Fiscales Regionales. Fiscales Especiales, Titulares de Unidades Especializadas, Directores Generales y demás servidores públicos de la Procuraduría, deberán reunir los requisitos que se establezca en el reglamento de esta ley y demás disposiciones aplicables y serán designados y removidos libremente por el Procurador.
+Los coordinadores, fiscales, titulares de unidades especializadas, directores generales y demás servidores públicos de la Procuraduría, deberán reunir los requisitos que se establezcan en el reglamento de esta ley y demás disposiciones aplicables y serán designados y removidos libremente por el Procurador.
 
-En todo caso, los Agentes del Ministerio Público deberán contar con titulo debidamente registrado y cédula profesional que los autorice a ejercer la profesión de Licenciado en Derecho, con la antigüedad que señale el reglamento de esta ley sin perjuicio de que en el mismo se establezcan otros requisitos relativos a experiencia, probidad, capacidad, control de confianza, especialización y ausencia de antecedentes penales, entre otros.
+En todo caso los Agentes del Ministerio Público deberán contar con título debidamente registrado y cédula profesional que los autorice a ejercer la profesión de Licenciado en Derecho, con la antigüedad que señale el reglamento de esta ley, sin perjuicio de que en el mismo se establezcan otros requisitos.
 
 ###### ARTÍCULO 39.
 
@@ -735,85 +715,105 @@ Las atribuciones expresamente señaladas como reservadas podrán ser concurrente
 
 ASIGNACIÓN DE ATRIBUCIONES EN SUPLENCIA: El funcionario que supla a otro en los términos de lo dispuesto por esta ley, por su reglamento o mediante Acuerdo, asumirá sus facultades y atribuciones, sin más limitaciones que las que expresamente determine el superior jerárquico.
 
-### CAPITULO II. Del Procurador y del Subprocurador General
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+### CAPITULO II. Del Procurador
+
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 42.
 
-FACULTADES DEL PROCURADOR. El Procurador, como titular de la Institución, posee todas las atribuciones que éste y los demás ordenamientos jurídicos confieren al Ministerio Público. A él corresponde:
+Corresponde al Procurador el ejercicio de las siguientes atribuciones:
 
-A. Como jefe del Ministerio Público, Titular y Representante de la Procuraduría:
-
-I. Ejercer, por sí o por conducto de sus subalternos, las atribuciones que confiere a la Institución la presente ley;
+I. Ejercer, por sí o por conducto de sus subalternos, las atribuciones que confiere a la Procuraduría la presente Ley y demás ordenamientos jurídicos aplicables;
 
 II. Representar a la Procuraduría para todos los efectos legales;
 
-III. Llevar las relaciones interinstitucionales con la Administración Pública del Estado, la Procuraduría General de la República, la del Distrito Federal y con las Procuradurías Generales de Justicia de los Estados, la Procuraduría de Justicia Militar, la Procuraduría Federal de Protección al Ambiente y cualquier dependencia o entidad de la administración pública federal centralizada, descentralizada y paraestatal, al igual que con cualquier dependencia o entidades de la República y el Distrito Federal, cualquiera que sea su naturaleza jurídica;
+III. Denunciar las contradicciones de tesis respecto de la jurisprudencia del Tribunal Superior de Justicia del Estado de México o de los tribunales federales, en los términos de la Ley Orgánica del Poder Judicial del Estado de México, así como en los términos de la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, respectivamente;
 
-IV. Suscribir y vigilar que se cumplan los convenios de colaboración que, en materia de procuración de justicia y de seguridad pública, se celebren con la Federación y otras entidades de la República;
+IV. Visitar las agencias del Ministerio Publico y demás unidades de la Procuraduría, dictando las medidas necesarias para asegurar la mayor eficiencia del servicio, y asimismo, prevenir violaciones a los derechos humanos de los usuarios;
 
-V. Denunciar las contradicciones de tesis respecto de la jurisprudencia del Tribunal Superior de Justicia del Estado de México o de los tribunales federales, en los términos de la Ley Orgánica del Poder judicial del Estado de México, así como en los términos de la Ley de Amparo, respectivamente;
+V. Cambiar o autorizar el cambio de adscripción o comisión de los servidores públicos de la Procuraduría, cuando las necesidades del servicio así lo exijan;
 
-VI. Visitar por sí o por conducto del funcionario que designe al efecto, las Agencias del Ministerio Público y demás unidades de la Procuraduría, dictando las medidas necesarias para asegurar la mayor eficiencia del servicio;
+VI. Emitir los lineamientos para suspender a los servidores públicos de la Procuraduría en el caso que se les hubiere dictado auto de vinculación a proceso por la comisión de delito doloso. Dicha suspensión se prolongará hasta que exista sentencia ejecutoriada;
 
-VII. Cambiar de adscripción o comisión a los servidores públicos de la Procuraduría, cuando las necesidades del servicio así lo exijan;
+VII. Organizar y controlar a la Policía de Investigación y a los Servicios Periciales y ejercer a su arbitrio el mando directo de ambas unidades;
 
-VIII. Suspender a los servidores públicos de la Procuraduría en el caso que se les hubiere dictado auto de formal prisión o de sujeción a proceso por la comisión del delito doloso. Dicha suspensión se prolongará hasta que exista sentencia ejecutoriada. En caso de que ésta fuese condenatoria, serán destituidos; si por el contrario fuese absolutoria, se le restituirá en sus derechos;
+VIII. Dar a los servidores públicos de la Procuraduría las instrucciones generales o especiales que estime convenientes para el cumplimiento de sus deberes y para la homologación de criterios y de acciones;
 
-IX. Organizar y controlar a la Policía Ministerial y a los Servicios Periciales y ejercer a su arbitrio el mando directo de ambas unidades;
+IX. Encomendar a cualquiera de los servidores públicos de la Procuraduría, independientemente de sus atribuciones específicas el estudio, atención y trámite de los asuntos que estime conveniente o que le encargue la autoridad competente, para su ejecución, conforme al cargo que desempeñan;
 
-X. Dar a los funcionarios y empleados de la Procuraduría, las instrucciones generales o especiales que estime convenientes para el cumplimiento de sus deberes y para la homologación de criterios y de acciones;
+X. Vigilar el cumplimiento de las obligaciones de los servidores públicos de la Procuraduría; ordenar la substanciación de procedimientos a la autoridad competente, en términos de los ordenamientos jurídicos aplicables;
 
-XI. Encomendar a cualquiera de los servidores públicos de la Procuraduría, independientemente de sus atribuciones específicas, el estudio, atención y trámite de los asuntos que estime conveniente o que le encargue el Gobernador para su ejecución y que no sean incompatibles con el cargo que desempeñan;
+XI. Promover, en general, las medidas que convengan para lograr que la procuración y administración de justicia sea pronta y expedita;
 
-XII. Solicitar y recabar de cualquier autoridad o institución pública o privada, o persona física, los informes, datos, copias y certificaciones o cualquier documento que necesitare para el ejercicio de sus funciones;
+XII. Resolver los casos de duda que se susciten con motivo de la interpretación o aplicación de la normatividad interna, así como los casos de controversia de competencia o sobre cualquier materia que le corresponda;
 
-XIII. Exigir que se hagan efectivas, en su oportunidad, las responsabilidades en que incurran los servidores públicos por los delitos y faltas oficiales que cometieren en el desempeño de sus cargos;
+XIII. Ordenar o autorizar al personal de la Procuraduría para auxiliar a otras autoridades que lo requieran en el desempeño de una o varias funciones, que sean compatibles con las que correspondan a la procuración de justicia.
 
-XIV. Promover, en general, las medidas que con vengan para lograr que la procuración y administración de justicia sea pronta y expedita;
+El personal autorizado, en los términos antes señalados, no quedará, por este hecho, comisionado con las autoridades a quiénes auxilie;
 
-XV. Investigar las detenciones arbitrarias y otros abusos que se cometan, adoptando las medidas necesarias para hacerlos cesar de inmediato, sin perjuicio de proveer la conducente para fincar las responsabilidades correspondientes;
+XIV. Velar por la exacta observancia de la Constitución Federal, los tratados internacionales ratificados por el Estado Mexicano, la Constitución del Estado y las leyes que de ellas emanen, en el ámbito de su competencia;
 
-XVI. Realizar por sí o con la colaboración de universidades, organismos públicos o privados, dependencias municipales, estatales o federales, los estudios necesarios para diseñar, implementar y evaluar la política criminal del Estado;
+XV. Emitir los acuerdos, circulares, instructivos, manuales de organización y de procedimientos, bases y demás normas administrativas necesarias que rijan la actuación de las unidades administrativas y órganos técnicos, centrales y desconcentrados de la Procuraduría, así como del Personal Operativo y demás personal;
 
-XVII. Vigilar el cumplimiento de las obligaciones de los servidores públicos subalternos y en su caso, imponer las sanciones que por faltas administrativas incurran aquellos en el desempeño de su cometido, en los términos que prevé esta ley, la Ley de Responsabilidades de los Servidores Públicos del Estado de México y Municipios y los demás ordenamientos jurídicos aplicables;
+XVI. Determinar la política institucional del Personal Operativo, así como los criterios y prioridades en la persecución e investigación de los delitos y, en su caso, el ejercicio de la acción penal;
 
-XVIII. Resolver los casos de duda que se susciten con motivo de la interpretación o aplicación de la normatividad interna, así como los casos de conflicto de competencia o sobre cualquier materia que le correspondan;
+XVII. Dirigir, organizar, administrar, controlar y supervisar el funcionamiento de la Procuraduría, y ejercer la disciplina entre sus integrantes;
 
-XIX. Ordenar o autorizar al personal de la institución para auxiliar a otras autoridades que lo requieran en el desempeño de una o varias funciones, que sean compatibles con las que correspondan a la procuración de justicia. El personal autorizado, en los términos antes señalados, no quedará, por este hecho, comisionado con las autoridades a quienes auxilie;
+XVIII. Dirigir y coordinar el desarrollo de la función investigadora y acusatoria contra los imputados, directamente o a través de los servidores públicos facultados;
 
-XX. Realizar la enajenación de objetos y valores que expresamente autorice el Código de Procedimientos Penales y las demás disposiciones jurídicas aplicables, en los términos que las mismas establezcan;
+XIX. Designar y remover, de conformidad con las disposiciones jurídicas aplicables a los titulares de las unidades administrativas y órganos técnicos, centrales y desconcentrados de la Procuraduría;
 
-XXI. Velar por la exacta observancia de la Constitución Federal, de la Constitución Política del Estado de México y de las leyes que de ambas emanen, en el ámbito de su competencia;
+XX. Emitir los acuerdos con relación a la aplicación de mecanismos alternativos de solución de controversias, abstención de investigar, criterios de oportunidad, soluciones alternas y formas anticipadas de terminación del proceso penal, entre otras figuras procedimentales;
 
-XXII. Participar en el Consejo Coordinador Estatal de Seguridad Pública;
+XXI. Implementar sistemas y procedimientos de evaluación en el cumplimiento de las funciones asignadas al personal y a las unidades administrativas de la Procuraduría;
 
-XXIII. Intervenir en los convenios de coordinación operativa y de cooperación técnica y científica, así como en los de colaboración que celebre el Gobierno del Estado con la Procuraduría General de la República, con las Procuradurías de los Estados, con la del Distrito Federal, con la Procuraduría de Justicia Militar y con la Procuraduría Federal de Protección al Ambiente; así como con las dependencias, entidades o personas de los sectores público, social y privado, que se estimen convenientes; y
+XXII. Promover e implementar la modernización y aplicación de tecnologías de información, relativas al mejoramiento y simplificación de las funciones de la Procuraduría;
 
-XXIV. Las demás que le encomienden éste y los demás ordenamientos jurídicos o el Gobernador.
+XXIII. Intervenir como parte en todos los procesos en que los ordenamientos jurídicos aplicables le confiere tal carácter, directamente o a través de los demás servidores públicos de la Procuraduría;
 
-B. (DEROGADO, G.G. 19 DE DICIEMBRE DE 2012)
+XXIV. Administrar y ejercer el Fondo Auxiliar para la Procuración de Justicia, de conformidad con los ordenamientos jurídicos aplicables;
 
-C. Son atribuciones del Procurador:
+XXV. Llevar las relaciones interinstitucionales con la Administración Pública del Estado, la Procuraduría General; de la República, la del Distrito Federal y las Procuradurías o Fiscalías Generales de Justicia de las entidades federativas, la Procuraduría de Justicia Militar, la Procuraduría Federal de Protección al Ambiente y cualquier dependencia o entidad de la administración pública, cualquiera que sea su naturaleza jurídica;
 
-I. Emitir las disposiciones conducentes al buen despacho de las funciones de la Procuraduría;
+XXVI. Suscribir convenios o cualquier otro instrumento jurídico que tenga relación con los fines que a la Procuraduría le encomienda la Constitución Federal, la Constitución del Estado, la presente Ley y demás ordenamientos jurídicos aplicables, así como vigilar su cumplimiento;
 
-II. Suscribir convenios o cualquier otro instrumento jurídico que tenga relación con los fines que a la Procuraduría le encomienda la Constitución, la Constitución del Estado, la presente ley y demás ordenamientos jurídicos aplicables;
+XXVII. Realizar por sí, o en colaboración con las dependencias y entidades del Estado, de universidades, organismos públicos o privados, dependencias municipales, estatales o federales, los estudios necesarios para diseñar, implementar y evaluar la política criminal del Estado de México;
 
-III. Expedir los acuerdos de adscripción y organización, manuales de procedimientos normativos, de coordinación, de operación y de cualquier naturaleza necesarios para el funcionamiento de la dependencia y la atención al público;
+XXVIII. Coadyuvar en la política estatal de prevención del delito;
 
-IV. Implementar sistemas y procedimientos de evaluación en el cumplimiento de las funciones asignadas al personal y a las unidades administrativas de la Procuraduría;
+XXIX. Participar en el Consejo Estatal de Seguridad Pública;
 
-V. Promover e implementar la modernización y aplicación de tecnologías de información, relativas al mejoramiento y simplificación de las funciones de la Procuraduría;
+XXX. Solicitar y recabar de cualquier autoridad, institución pública o privada y persona física, los informes, datos, copias y certificaciones o cualquier documento que necesitare para el ejercicio de sus funciones;
 
-VI. Solicitar a la autoridad judicial competente, la intervención de las comunicaciones privadas, en los términos que previene la Constitución General y demás ordenamientos legales;
+XXXI. Investigar las detenciones arbitrarias y otros abusos que se cometan, adoptando las medidas necesarias para hacerlos cesar de inmediato, sin perjuicio de proveer lo conducente para fincar las responsabilidades correspondientes;
 
-VII. Intervenir como parte en todos los procesos en que la ley le confiere tal carácter, directamente o a través de los demás servidores públicos de la Procuraduría;
+XXXII. Realizar la enajenación de objetos y valores que expresamente autorice el Código Nacional y las demás disposiciones jurídicas aplicables, en los términos que las mismas establezcan;
 
-VIII. Administrar y ejercer el Fondo Auxiliar para la Procuración de Justicia, de conformidad con esta ley y su reglamento; y
+XXXIII. Coordinarse con el organismo protector de víctimas competente para la protección y asistencia a víctimas, ofendidos y testigos e intervinientes en el proceso penal;
 
-IX. Las demás que, con tal carácter, le señalen éste y otros ordenamientos jurídicos o el Gobernador.
+XXXIV. Establecer las directrices del programa de protección y asistencia a víctimas, ofendidos y testigos e intervinientes en el proceso penal, en coordinación con el organismo protector de víctimas competente;
 
-D. Son facultades indelegables del Procurador:
+XXXV. Resolver por sí o a través del servidor público en quien delegue dicha facultad, las inconformidades interpuestas por la víctima u ofendido en contra de las determinaciones del Ministerio Público, sobre su negativa u omisión en determinados actos de investigación o excepciones de la acción penal;
+
+XXXVI. Conocer y resolver de las excusas y recusaciones que sean interpuestas por los agentes del Ministerio Público y contra ellos;
+
+XXXVII. Contratar profesionales, técnicos expertos y asesores especializados, en los casos que se requiera;
+
+XXXVIII. Poner en conocimiento de la autoridad competente las irregularidades que se adviertan o se denuncien ante los órganos jurisdiccionales o dependencias judiciales, para que se adopten las medidas pertinentes y en caso de responsabilidad, promueva lo conducente;
+
+XXXIX. Solicitar a la autoridad competente, la aplicación de sanciones a los miembros de las instituciones de seguridad pública o empresas de seguridad privada, que infrinjan disposiciones legales reglamentarias, omitan o retarden la ejecución de un acto propio relacionado con funciones de investigación o lo cumplan negligentemente, independientemente de que se les inicie o no carpeta de investigación;
+
+XL. Solicitar al órgano jurisdiccional competente, la intervención de las comunicaciones privadas, en los términos que previene la Constitución Federal y demás ordenamientos jurídicos aplicables;
+
+XLI. Las demás que, con tal carácter, le señalen éste y otros ordenamientos jurídicos, el Consejo Nacional de Seguridad Pública, el Consejo Estatal de Seguridad Pública y demás autoridades competentes.
+
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 43.
+
+Corresponde al Procurador el ejercicio de las siguientes facultades indelegables:
 
 I. Manejar, dirigir y controlar la Procuraduría y establecer las políticas correspondientes;
 
@@ -825,49 +825,17 @@ IV. Conceder licencias al personal de la Procuraduría, en los términos de los 
 
 V. Someter al acuerdo del Gobernador los asuntos que competen a la Procuraduría;
 
-VI. Desempeñar las comisiones y funciones especificas que le con fiera el Gobernador para su ejecución personal, e informar sobre el desarrollo de las mismas;
+VI. Desempeñar las comisiones y funciones específicas que le confiera el Gobernador para su ejecución personal, e informar sobre el desarrollo de las mismas;
 
-VII. Comparecer y rendir a los Poderes del Estado, cuando la ley así lo requiera, los informes que estime procedentes o que le sean solicitados, en relación con los asuntos relativos a la Procuraduría;
+VII. Comparecer y rendir a los Poderes del Estado, cuando la ley así lo requiera, les (sic) informes que estime procedentes o que le sean solicitados, en relación con los asuntos relativos a la Procuraduría;
 
-VIII. Someter a la consideración el proyecto de presupuesto anual de egresos de la Procuraduría y en su caso, sus modificaciones;
+VIII. Someter a la consideración del Titular del Ejecutivo del Estado el proyecto de presupuesto anual de egresos de la Procuraduría y en su caso, sus modificaciones;
 
 IX. Presentar al Ejecutivo del Estado, una memoria anual de los trabajos realizados en la Procuraduría;
 
-X. Vigilar que se dé el debido seguimiento a los acuerdos que se tomen en las Conferencias Nacionales de Procuradores Generales de Justicia de México; y
+X. Vigilar que se dé el debido seguimiento a los acuerdos que se tomen en las Conferencias Nacionales de Procuradores Generales de Justicia de México;
 
 XI. Las demás que, con tal carácter, le señalen éste y otros ordenamientos jurídicos o el Gobernador.
-
-###### ARTÍCULO 43.
-
-ATRIBUCIONES DEL SUBPROCURADOR GENERAL. El Subprocurador General, tendrá las siguientes atribuciones generales:
-
-I. Normar, supervisar, controlar, dirigir y evaluar las actividades y el ejercicio de las atribuciones de las unidades administrativas sujetas a su adscripción, mando o autoridad, de acuerdo con lo dispuesto en el reglamento de esta ley y mediante Acuerdo del Procurador;
-
-II. Acordar con el Procurador el despacho de los asuntos de su competencia;
-
-III. Suplir al Procurador en los términos señalados en el reglamento de esta ley;
-
-IV. Desempeñar las funciones y comisiones que le encomiende el Procurador e informarle sobre el desarrollo y resultado de las mismas;
-
-V. Someter a la aprobación del Procurador los estudios y proyectos que se elaboren en la Subprocuraduría bajo su responsabilidad;
-
-VI. Recibir en acuerdo a los titulares de las unidades administrativas de su adscripción en los asuntos que se encuentren sujetos a su mando o autoridad, de acuerdo con lo dispuesto en el reglamento de esta ley o por acuerdo del Procurador;
-
-VII. Auxiliar al Procurador en el ejercicio de las facultades y obligaciones que esta ley y otras disposiciones jurídicas le confieren;
-
-VIII. Suscribir los documentos relativos al ejercicio de sus funciones y aquellos que le sean señalados por delegación o le correspondan por suplencia;
-
-IX. Dictaminar los asuntos que el Procurador reciba en consulta o revisión y que le sean turnados por éste para su atención;
-
-X. Formular los anteproyectos de presupuesto y de los programas correspondientes a las unidades administrativas de su adscripción;
-
-XI. Proporcionar la información o cooperación técnica que les sean requeridas por otras dependencias del Ejecutivo, de acuerdo a las normas y políticas que hubiera expedido y señalado el Procurador mediante Acuerdo;
-
-XII. Vigilar que en los asuntos de su competencia se dé cumplimiento a los ordenamientos legales y a las demás disposiciones que resulten aplicables;
-
-XIII. Proponer al Procurador la expedición de manuales, acuerdos, criterios, instrucciones y circulares; y
-
-XIV. Las demás que le confieran el reglamento de esta ley o las que le encomiende el Procurador mediante acuerdo o instrucciones personales.
 
 ### CAPITULO III. De los Nombramientos y Suplencias
 
@@ -877,21 +845,23 @@ EFECTOS DE LOS NOMBRAMIENTOS: Los nombramientos que se expidan de Agentes del Mi
 
 Los nombramientos de funcionarios que, sin perjuicio de su denominación o categoría, sean y tengan el carácter de Agentes del Ministerio Público conferirán a su titular las mismas atribuciones a que se refiere la primera parte del párrafo anterior; pero el funcionario que la ejercite fuera del ámbito que su encargo, encomienda o comisión le confieren y sin sujetarse a los lineamientos e instrucciones que reciba, será sujeto de responsabilidad.
 
-Los Agentes de la Policía Ministerial y de los servidores públicos de Servicios Periciales, sea cual fuere su denominación y categoría, gozarán de todas las atribuciones que éste y los demás ordenamientos les confieren; las que ejercerán con estricta sujeción a las comisiones, encargos, encomiendas o instrucciones que reciban.
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+La Policía de Investigación y Servicios Periciales, sea cual fuere su denominación y categoría, gozarán de todas las atribuciones que éste y los demás ordenamientos les confieren; las que ejercerán con estricta sujeción a las comisiones, encargos, encomiendas o instrucciones que reciban.
 
 El resto de los nombramientos conferirán a sus titulares las atribuciones propias de la función que se les encomienden y las que el reglamento de esta ley y los demás ordenamientos jurídicos les señalen.
 
 Los nombramientos concluirán al término del período para el cual fueren conferidos o al finalizar el período de Gobierno dentro del cual hubieren sido otorgados; pero sus efectos se extenderán hasta que el nuevo funcionario designado entre en funciones o hasta que se expida nuevo nombramiento, sin que por tal motivo se entiendan prorrogados o ratificados. Se exceptúan de lo anterior, los nombramientos de los funcionarios que hayan sido incorporados al Servicio Civil de Carrera.
 
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 45.
 
-El Procurador y el Subprocurador General, serán nombrados y removidos por el Gobernador en los términos de la Constitución Política del Estado de México.
-
-Los Subprocuradores, Titulares de Unidad, Fiscales Especiales y Fiscales Regionales serán nombrados y removidos libremente por acuerdo del Gobernador, a propuesta del Procurador, cuando la ley o las demás disposiciones aplicables no prevengan otra forma.
+Los subprocuradores, titulares de unidad, fiscales serán nombrados y removidos libremente por acuerdo del Gobernador, a propuesta del Procurador, cuando la ley o las demás disposiciones aplicables no prevengan otra forma.
 
 Los demás servidores públicos de la Procuraduría, serán nombrados y removidos por el Procurador o de acuerdo con las disposiciones del Servicio Civil de Carrera, siempre que dichos funcionarios se encuentren dentro de dicho régimen; en caso contrario podrán ser nombrados y removidos libremente por el Procurador.
 
-Para el nombramiento e ingreso del personal de la Policía Ministerial se atenderá a lo dispuesto en esta ley y sus disposiciones reglamentarias y complementarias, con exclusión de lo que disponga la Ley de Seguridad Pública del Estado.
+Para el nombramiento e ingreso del personal de la Policía de Investigación se atenderá a lo dispuesto en esta ley y sus disposiciones reglamentarias y complementarias, con exclusión de lo que disponga la Ley de Seguridad Pública del Estado.
 
 ###### ARTÍCULO 46.
 
@@ -1007,11 +977,13 @@ La formación, capacitación, adiestramiento y profesionalización de los servid
 
 La instancia de profesionalización competente en el Estado de México, emitirá la constancia del desempeño para los efectos de la certificación de los servidores públicos.
 
-## TITULO SÉPTIMO
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADA], G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 26 DE OCTUBRE DE 2011)</small>
+## TITULO SÉPTIMO. DE LA COORDINACIÓN DE AGENTES DEL MINISTERIO PÚBLICO AUXILIARES DEL PROCURADOR
 
-### CAPITULO ÚNICO. Del Servicio de Carrera
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+### CAPITULO ÚNICO. Naturaleza Jurídica
 
 > <small>(REFORMADO, G.G. 26 DE OCTUBRE DE 2011)</small>
 
@@ -1019,13 +991,27 @@ La instancia de profesionalización competente en el Estado de México, emitirá
 
 Para los efectos del servicio de carrera, se aplicará lo establecido en la Ley General del Sistema Nacional de Seguridad Pública y en la Ley de Seguridad del Estado de México.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 56.
 
-(DEROGADO, G.G. 26 DE OCTUBRE DE 2011)
+La Coordinación de Agentes del Ministerio Público Auxiliares del Procurador será la unidad administrativa encargada de llevar a cabo las visitas ordinarias y extraordinarias de evaluación, técnica y jurídica para el debido cumplimiento de las funciones, así como las evaluaciones de desarrollo técnico y jurídico de los agentes del Ministerio Público, de la Policía de investigación, de los Peritos y de los especialistas en mecanismos alternativos de solución de controversias, y demás unidades que realicen actividades sustantivas, en términos del Reglamento de la presente Ley.
+
+La Coordinación de Agentes del Ministerio Público Auxiliares del Procurador tendrá pleno acceso a los detenidos, servidores públicos, bienes e indicios, registros, expedientes, documentos e información que se encuentren bajo la autoridad de los agentes del Ministerio Público, de la Policía de investigación, de los Peritos y demás personal de la Procuraduría a quienes se realiza la visita, así como a las instalaciones correspondientes, la documentación, el equipo y los elementos que se encuentren en el lugar, de conformidad con las disposiciones legales y normativas emitidas por el Procurador.
+
+Será causa de responsabilidad penal o administrativa, en su caso, el no proporcionar la información o no permitir la actuación conforme a derecho de los agentes de referencia, cuando realicen las visitas y evaluaciones de mérito.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 57.
 
-(DEROGADO, G.G. 26 DE OCTUBRE DE 2011)
+Tratándose de los elementos de la Policía de investigación, serán sancionados por la Comisión de Honor y Justicia, en términos de lo dispuesto por la Ley de Seguridad del Estado de México.
+
+Para el caso de Peritos y Agentes del Ministerio Público, serán sancionados en términos de la Ley de Seguridad del Estado de México, sin perjuicio de las atribuciones de la Contraloría Interna de la Procuraduría y de la Inspección General de las Instituciones de Seguridad Pública del Estado de México.
+
+La aplicación de las sanciones deberá registrarse en el expediente personal del infractor.
+
+La imposición de las sanciones que determinen las autoridades correspondientes, se hará con independencia de las que correspondan por responsabilidad civil, penal o administrativa, en que incurran los integrantes de las instituciones de seguridad pública, de conformidad con las demás disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 58.
 
@@ -1194,3 +1180,15 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- El titular del Ejecutivo Estatal, en un término no mayor a cinco días, realizará las adecuaciones al Reglamento Interior del Instituto de Atención a las Víctimas del Delito, para dar cumplimiento al presente Decreto.
 
 CUARTO.- Hasta en tanto sea creada la Unidad Administrativa que opere las acciones relacionadas con la búsqueda y localización de personas desaparecidas o extraviadas, el Instituto de Atención a las Víctimas del Delito del Estado de México seguirá operando el Programa ODISEA.
+
+G.G. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el mismo día que entre en vigor el Código Nacional de Procedimientos Penales, en el Estado de México.
+
+TERCERO.- La Secretaría de Seguridad Ciudadana y los municipios de la Entidad, con la entrada en vigor del presente Decreto, deberán contar con cuerpos especializados de policía, con capacidad para cumplir de manera eficaz y eficiente con las atribuciones que derivan de la entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de México.
+
+CUARTO.- El Titular del Ejecutivo Estatal reformará el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de México, antes de la entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de México.
+
+QUINTO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
