@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-553-del-sistema-estatal-de-seguridad-publica-68984"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-24"
-last_updated: "2014-07-16"
+last_updated: "2014-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68984&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 553 DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEXTO DE LA LEY NÚMERO 310 DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 28 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO “EN TODO SU CONTENIDO EXCEPTO EL TÍTULO DÉCIMO, EL CAPÍTULO II DEL TÍTULO TERCERO Y LOS ARTÍCULOS 21, 21 BIS DE LA MISMA”.]</small>
+
 LEY NÚMERO 553 DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE NOVIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 24 de junio de 2009.
 
@@ -2498,3 +2500,27 @@ G.O. 16 DE JULIO DE 2014.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO. La presente ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, salvo lo dispuesto en los artículos transitorios siguientes.
+
+SEGUNDO. El Ejecutivo del Estado expedirá las disposiciones reglamentarias necesarias para el debido cumplimiento de esta Ley, entre tanto, seguirán vigentes los reglamentos aplicables a las Instituciones de Seguridad Pública, en lo que no se opongan a esta Ley.
+
+TERCERO. En tanto no se emita una nueva ley que regule las atribuciones, facultades, obligaciones y restricciones de las empresas de seguridad privada, dichas empresas se continuarán rigiendo por el Título Décimo, De los Servicios de Seguridad Privada de la Ley Número 553 del Sistema Estatal de Seguridad Pública para el Estado de Veracruz de Ignacio de la Llave.
+
+CUARTO. Dentro de los sesenta días hábiles siguientes a la publicación de la presente ley, el Ejecutivo del Estado enviará iniciativa al Congreso local para que dictamine, discuta y en su caso, apruebe, la Ley para la Prevención de la Violencia y la Delincuencia en el Estado de Veracruz de Ignacio de la Llave, misma que armonizará en el Estado la Ley General para la Prevención Social de la Violencia y la Delincuencia.
+
+QUINTO. Los servicios de carrera vigentes en las instituciones de Seguridad Pública a la fecha de entrada en vigor de este ordenamiento, deberán ajustarse a los requisitos, criterios y procedimientos que establecen la Ley General del Sistema Nacional de Seguridad Pública y esta Ley, en un plazo no mayor a un año.
+
+SEXTO. Se abroga la Ley Número 553 del Sistema Estatal de Seguridad Pública para el Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial de fecha veinticuatro de junio de 2009, en todo su contenido excepto el Título Décimo, el Capítulo II del Título Tercero y los artículos 21, 21 Bis de la misma, y se derogan las demás disposiciones que se opongan a la presente Ley.
+
+SÉPTIMO. Se extingue el organismo público descentralizado denominado Centro Estatal de Evaluación y Control de Confianza.
+
+OCTAVO. Todos los procedimientos que se encuentren vigentes ante la Comisión de Honor y Justicia de la Secretaría de Seguridad Pública, se continuarán de conformidad con la Ley Número 553 del Sistema Estatal de Seguridad Pública para el Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave, el día veinticuatro de junio del año dos mil nueve.
+
+NOVENO. Las Comisiones y en su caso los respectivos Comités de los Servicios Profesionales de Carrera, Honor y Justicia para los Integrantes de las Instituciones Policiales, deberán estar instaladas en su totalidad el once de mayo de 2016.
+
+DÉCIMO. Se derogan los artículos 259 Bis, 259 Ter, 259 Quater, 259 Quinquies, 259 Sexies, 259 Septies y 259 Octies relativos al Procedimiento Administrativo para los Integrantes de las Instituciones de Seguridad Pública del Estado y de los municipios, del Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave.
+
+DÉCIMO PRIMERO. Se derogan todas las disposiciones que se opongan a la presente Ley.
