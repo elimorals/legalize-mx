@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-alcoholes-para-el-municipio-de-ensenada-baja-2791
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-01-10"
-last_updated: "2010-04-30"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE ALCOHOLES PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 10 de enero de 2003.
 
@@ -53,7 +53,7 @@ IV.- EMITIR RESOLUCIÓN DEFINITIVA EN EL RECURSO DE REVISIÓN; Y,
 
 V.- LAS DEMAS FACULTADES QUE LE CONFIERE ESTE ORDENAMIENTO Y OTRAS LEYES.
 
-LA VOTACION FUE LA SIGUIENTE:--OCHO VOTOS A FAVOR, EMITIDOS POR LOS MUNIClPES, ABELARDO ANTILLON MACIAS, SINDICO PROCURADOR, JULlAN LEOBARDO RIVERA VELÁZQUEZ, ROGELIO AROS GUZMÁN, OLGA EDITH LUCERO WALFORS, THELMA ROSA CASTAÑEDA CUSTODIA, JESUS BERNARDO GASTELUM VALENZUELA Y MARCO ANTONIO SEPÚLVEDA NAVARRO, Y JORGE ANTONIO CATALAN SOSA, PRESIDENTE MUNICIPAL; CINCO VOTOS EN CONTRA; CORRESPONDIENTES A LOS REGIDORES, MARCOS PEREZ NÚÑEZ, SALVADOR SOLORIO TOVAR, ALFONSO SIORDIA ALOR, JESUS RAMON ESPINOZA MORALES Y JUVENTINO ALANIZ PINEDO. CON LA AUSENCIA EN EL MOMENTO DE LA VOTACION, DEL REGIDOR EFRAIN ABRAHAM GUTlERREZ GALINDO, Y LA INASISTENCIA DEL REGIDOR, LUIS FERNANDO VALDEZ CARMONA.
+LA VOTACION FUE LA SIGUIENTE:--OCHO VOTOS A FAVOR, EMITIDOS POR LOS MUNICIPES, ABELARDO ANTILLON MACIAS, SINDICO PROCURADOR, JULIAN LEOBARDO RIVERA VELÁZQUEZ, ROGELIO AROS GUZMÁN, OLGA EDITH LUCERO WALFORS, THELMA ROSA CASTAÑEDA CUSTODIA, JESUS BERNARDO GASTELUM VALENZUELA Y MARCO ANTONIO SEPÚLVEDA NAVARRO, Y JORGE ANTONIO CATALAN SOSA, PRESIDENTE MUNICIPAL; CINCO VOTOS EN CONTRA; CORRESPONDIENTES A LOS REGIDORES, MARCOS PEREZ NÚÑEZ, SALVADOR SOLORIO TOVAR, ALFONSO SIORDIA ALOR, JESUS RAMON ESPINOZA MORALES Y JUVENTINO ALANIZ PINEDO. CON LA AUSENCIA EN EL MOMENTO DE LA VOTACION, DEL REGIDOR EFRAIN ABRAHAM GUTIERREZ GALINDO, Y LA INASISTENCIA DEL REGIDOR, LUIS FERNANDO VALDEZ CARMONA.
 
 Se extiende la presente certificación para los usos a que haya lugar, en la Ciudad de Ensenada, Baja California, veintiséis de Diciembre del año dos mil dos.
 
@@ -75,9 +75,11 @@ REGLAMENTO DE ALCOHOLES
 
 DISPOSICIONES GENERALES.
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 1.
 
-El objeto del presente ordenamiento es regular la venta, almacenaje para su venta y la venta para su consumo de bebidas alcohólicas en el municipio de Ensenada.
+El objeto del presente ordenamiento es regular la venta, almacenaje y consumo de bebidas alcohólicas en cualquiera de sus modalidades en el municipio de Ensenada.
 
 ###### ARTÍCULO 2.
 
@@ -195,7 +197,9 @@ V.- Las demás facultades que le confiere éste ordenamiento y otras leyes.
 
 Son atribuciones del Presidente Municipal:
 
-I.- Canalizar las solicitudes que se reciban para la expedición de permisos permanentes para la venta, almacenaje para su venta y venta para consumo de bebidas con graduación alcohólica al Ayuntamiento para el otorgamiento o negativa del mismo.
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+I.- Canalizar las solicitudes que se reciban para la expedición de permisos permanentes para la venta, almacenaje y consumo de bebidas con graduación alcohólica en cualquiera de sus modalidades al Ayuntamiento para el otorgamiento o negativa del mismo.
 
 II.- Rechazar el trámite de la solicitud de permiso cuando no se cumpla previamente con los requisitos que para tal efecto señala este reglamento.
 
@@ -207,7 +211,9 @@ IV.- Determinar la suspensión de la venta y consumo de bebidas alcohólicas en 
 
 V.- Autorizar la ampliación de los horarios de funcionamiento de los establecimientos a que se refiere el presente ordenamiento.
 
-VI.- Revocar y reubicar, los permisos otorgados para la venta. Almacenaje para su venta o venta para consumo de bebidas con graduación alcohólica, previo procedimiento que para tal efecto establezca el presente reglamento, respetando los derechos de audiencia y defensa, de conformidad con lo establecido por el artículo 32 de la Ley.
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+VI.- Revocar y reubicar, los permisos otorgados para la venta, almacenaje y consumo de bebidas con graduación alcohólica en cualquiera de sus modalidades, previo procedimiento que para tal efecto establezca el presente reglamento, respetando los derechos de audiencia y defensa, de conformidad con lo establecido por el artículo 32 de la Ley;
 
 VII.- Emitir resolución definitiva sobre los recursos de revocación que sean interpuestos por los particulares.
 
@@ -367,7 +373,7 @@ V.- Licorería.- Establecimiento mercantil cuya actividad es la venta de bebidas
 
 VI.- Depósito, Agencia y Sub-agencia.- Son los establecimientos cuya actividad principal sea la venta de cerveza por cartón en envase cerrado o vinos de mesa cuyo contenido de alcohol sea menor de doce grados.
 
-VII.- Bodega.- Establecimiento habilitado exclusivamente para almacenar bebidas alcohólicas mercancías diversas para su posterior distribución al mayoreo; y (sic)
+VII.- Bodega.- Establecimiento habilitado exclusivamente para almacenar bebidas alcohólicas mercancías diversas para su posterior distribución al mayoreo; y
 
 ###### ARTÍCULO 20.
 
@@ -509,9 +515,13 @@ XXV.- Utilizar el permiso por una persona distinta a la autorizada en el mismo, 
 
 XXVI. Las demás prohibiciones que establezcan las leyes y ordenamientos aplicables vigentes.
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 25.
 
-Queda prohibida la instalación u operación de los giros referidos en los artículos 20 y 21 del presente ordenamiento, cuya actividad principal sea la venta para consumo de bebidas alcohólicas en envase abierto, en una distancia de 150 metros radiales al principal acceso de los centros educativos, lugares de atención o guarda de menores, iglesias o templos, centros deportivos u otros giros similares.
+Queda prohibida la instalación u operación de los giros referidos en el artículo 20 del presente ordenamiento, cuya actividad principal sea la venta para consumo de bebidas alcohólicas en envase abierto, en una distancia de 150 metros radiales al principal acceso de los centros educativos, lugares de atención o guarda de menores, iglesias o templos, centros deportivos u otros giros similares.
+
+Sin embargo dicha prohibición aplica de igual forma a Salones Sociales, cuya actividad principal es el esparcimiento o entretenimiento de las personas, siendo por ende su actividad accesoria el consumo de bebidas alcohólicas, cualquiera que sea su graduación.
 
 En los establecimientos mencionados en el artículo 19 del presente ordenamiento será la propia autoridad municipal quien determine la procedencia en su caso, de su ubicación a menos de los 150 metros radiales, de acuerdo a la posible afectación social o saturación de giros similares.
 
@@ -553,7 +563,7 @@ c).- Restaurant Bar de 10:00 a.m. a 02:00 hrs.
 
 d).- Bar Turístico y Bar Terraza de 10:00 a.m. a 02:00 hrs.
 
-e).- Billar de 10:00 a.m. a 24:hrs.
+e).- Billar de 10:00 a.m. a 24:00 hrs.
 
 f). - Hotel de 10:00 a.m. a 24:00 hrs.
 
@@ -585,9 +595,11 @@ Los días de cierre obligatorio serán los que determinen las leyes federales o 
 
 Queda a juicio del ayuntamiento, negar, rechazar e inclusive emitir acuerdos de moratoria en la expedición de permisos permanentes que puedan significar problemas de seguridad pública, alteren la paz social o el bienestar de los ciudadanos ensenadenses.
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 33.
 
-Para la expedición de permisos que autoricen cualesquiera de las actividades, las autoridades municipales deberán observar la zonificación de usos de suelo compatibles con las actividades relativas a la venta, almacenaje para su venta o venta para consumo de bebidas alcohólicas, con el fin de respetar el Plan de Desarrollo Urbano y la normatividad relativa a la materia.
+Para la expedición de permisos que autoricen cualquiera de las actividades, las autoridades municipales deberán observar la zonificación de usos de suelo compatibles con las actividades relativas a la venta, almacenaje y consumo de bebidas alcohólicas en cualquiera de sus modalidades, con el fin de respetar el Plan de Desarrollo Urbano y la normatividad relativa a la materia.
 
 ###### ARTÍCULO 34.
 
@@ -913,7 +925,9 @@ II.- Al presentarse los Inspectores al lugar en donde deba practicarse la dilige
 
 III.- Los Inspectores se deberán identificar ante la persona con quien se entienda la diligencia, requiriéndola para que designe dos testigos; si estos no son designados o los designados no aceptan servir como tales, los Inspectores los designarán, haciendo constar esta situación en el acta que (sic)
 
-IV.- En toda orden de visita para verificar el exacto cumplimiento de las disposiciones administrativas, se levantará acta en la que harán constar en forma circunstancial los hechos u omisiones conocidos por los Inspectores, relativos a la venta de bebidas con graduación alcohólica, en los términos de la propia Ley para la Venta, Almacenaje y Consumo Público de Bebidas Alcohólicas en el Estado de Baja California y del presente ordenamiento o en su caso las irregularidades detectadas durante la Inspección.
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+IV.- En toda orden de visita para verificar el exacto cumplimiento de las disposiciones administrativas, se levantará acta en la que harán constar en forma circunstancial los hechos u omisiones conocidos por los Inspectores, relativos a la venta, almacenaje y consumo de bebidas con graduación alcohólica en cualquiera de sus modalidades, en los términos de la propia Ley para la Venta, Almacenaje y Consumo Público de Bebidas Alcohólicas en el Estado de Baja California y del presente ordenamiento o en su caso las irregularidades detectadas durante la Inspección.
 
 V.- Si al término de ejecución de la orden de visita, el visitado o la persona con quien se entendió la diligencia o los testigos se niegan a firmar el acta, o el visitado o la persona con quien se entendió la diligencia se niega a aceptar copia del acta, dicha circunstancia se asentará en la propia acta, sin que esto afecte la validez y valor probatorio de la misma; dándose por concluida la visita domiciliaria; y,
 
@@ -927,7 +941,9 @@ Los visitados, sus representantes, o la persona con quien se entienda la orden d
 
 I.- Permitir a los Inspectores designados por la Autoridad Municipal, el acceso al lugar o lugares objeto de la misma, en cualquier día y hora hábil del establecimiento y en caso de ser necesario, previa resolución que dicte la Dirección de Alcoholes, se podrá practicar diligencias en los establecimientos en cualquier día y hora inhábiles según sea el caso.
 
-II.- Así como mantener la documentación que acrediten (sic) el cumplimiento de las disposiciones administrativas referentes a la Venta de Bebidas con Graduación Alcohólica, de los que los Inspectores podrán sacar copias para que previo cotejo con sus originales se certifiquen por éstos y sean anexados a las actas informativas que levanten con motivo de la visita.
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+II.- Así como mantener la documentación que acrediten (sic) el cumplimiento de las disposiciones administrativas referentes a la Venta, almacenaje y consumo de Bebidas con Graduación Alcohólica en cualquiera de sus modalidades, de los que los Inspectores podrán sacar copias para que previo cotejo con sus originales se certifiquen por éstos y sean anexados a las actas informativas que levanten con motivo de la visita.
 
 III.- Asimismo los permisionarios deberán permitir el acceso en cualquier día y hora hábil el (sic) establecimiento o giro y facilitar la inspección previa identificación de las Autoridades Municipales competentes, con el objeto de constatar el exacto cumplimiento de la Ley y los reglamentos.
 
@@ -981,7 +997,7 @@ IV.- Por vender, ceder, prestar, arrendar, gravar, permutar, transferir los perm
 
 V.- Cuando se decrete la clausura definitiva.
 
-VI.- Cualesquier otro acto, que ha juicio de la autoridad municipal, afecte al permiso o al interés social.
+VI.- Cualesquier otro acto, que ha (sic) juicio de la autoridad municipal, afecte al permiso o al interés social.
 
 ###### ARTÍCULO 71.
 
@@ -1337,7 +1353,7 @@ Lic. Ma. Eloisa Talavera Hernandez
 
 Secretaria Fedataria
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 15 DE ENERO DE 2010.
 
@@ -1350,3 +1366,9 @@ P.O. 30 DE ABRIL DE 2010.
 ###### ARTICULO UNICO.
 
 La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Una vez siendo aprobada la presente reforma, publíquese en el Periódico Oficial del Gobierno del Estado de Baja California, para que surta efectos al día siguiente de su publicación en todo el territorio del Municipio de Ensenada B. C.
+
+SEGUNDO.- La presente reforma al artículo 25 con relación a las distancias, no afectara a los establecimientos que cuenten con su permiso permanente con giro de Salón Social ya instalados con anterioridad en el Municipio de Ensenada, B.C., siempre y cuando cuenten con su revalidación anual del permiso vigente en tiempo y forma.
