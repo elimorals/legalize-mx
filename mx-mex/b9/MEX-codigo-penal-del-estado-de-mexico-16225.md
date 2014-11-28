@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2014-10-23"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE NOVIEMBRE DE 2014.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -141,13 +141,11 @@ Es continuado, cuando existe unidad de propósito delictivo, pluralidad de condu
 
 ### CAPITULO II. LOS DELITOS GRAVES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE ENERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 9.
 
-Se califican como delitos graves para todos los efectos legales: El cometido por conductores de vehículos de motor, indicado en el artículo 61 segundo párrafo, fracciones I, II, III y V; el de rebelión, previsto en los artículos 107 último párrafo, 108 primer y tercer párrafos y 110; el de sedición, señalado en el artículo 113 segundo párrafo; el de cohecho, previsto en los artículos 129 y 130 en términos del párrafo segundo del artículo 131, si es cometido por elementos de cuerpos policíacos o servidores de seguridad pública; el de abuso de autoridad, contenido en los artículos 136 fracciones V, X y 137 fracción II; el de peculado, señalado en el artículo 140 fracción II; el de prestación ilícita del servicio público de transporte de pasajeros, señalado en el artículo 148 párrafo segundo; el de encubrimiento, previsto en el artículo 152 párrafo segundo; el de falso testimonio, contenido en las fracciones III y IV del artículo 156; el de evasión a que se refiere el artículo 160; el delito de falsificación de documentos, previsto en el artículo 170 fracción II; el que se refiere a la falsificación y utilización indebida de títulos al portador, documentos de crédito público y documentos relativos al crédito señalado en el artículo 174; el delito de usurpación de funciones públicas o de profesiones, previsto en el artículo 176 penúltimo párrafo; el de uso indebido de uniformes, insignias, distinciones o condecoraciones previsto en el artículo 177; el de delincuencia organizada, previsto en el artículo 178; los delitos cometidos por fraccionadores, señalados en el artículo 189; el de ataques a las vías de comunicación y transporte, contenido en los artículos 193 tercer párrafo y 195; el que se comete en contra de las personas menores de edad y quienes no tienen la capacidad para comprender el significado del hecho, establecidos en los artículos 204 y 205; los contemplados con la utilización de imágenes y/o voz de personas menores de edad o personas que no tienen la capacidad para comprender el significado del hecho para la pornografía, establecidos en el artículo 206; el de lenocinio, previsto en los artículos 209 y 209 bis; el Tráfico de Menores, contemplado en el artículo 219; el de cremación de cadáver señalado en el artículo 225; el cometido en contra de los productos de los montes o bosques, señalado en los párrafos segundo y tercero, fracciones I, II y III del artículo 229; el deterioro de área natural protegida, previsto en el artículo 230; el de lesiones, que señala el artículo 238 fracción V; el de homicidio, contenido en el artículo 241; el de feminicidio, previsto en el artículo 242 Bis; el de secuestro, señalado por el artículo 259; el de privación de la libertad de menor de edad, previsto en el artículo 262 primer párrafo; el de extorsión contenido en el último párrafo del artículo 266; el asalto a una población a que se refiere el artículo 267; el de trata de personas, contemplado en el artículo 268 bis; el de violación, señalado por los artículos 273 y 274; el de robo, contenido en los artículos 290 fracciones I en su tercer párrafo, II, III, IV, V, XVI y XVII, y 292; el de abigeato, señalado en los artículos 297 fracciones II y III, 298 fracción II, y 299 fracciones I y IV; el de despojo, a que se refiere el artículo 308, en su fracción III, párrafos tercero y cuarto; y el de daño en los bienes, señalado en el artículo 311; y, en su caso, su comisión en grado de tentativa como lo establece este código, y los previstos en las leyes especiales cuando la pena máxima exceda de diez años de prisión.
+Se califican como delitos graves para todos los efectos legales: El cometido por conductores de vehículos de motor, indicado en el artículo 61 segundo párrafo, fracciones I, II, III y V; el de rebelión, previsto en los artículos 107 último párrafo, 108 primer y tercer párrafos y 110; el de sedición, señalado en el artículo 113 segundo párrafo; el de cohecho, previsto en los artículos 129 y 130 en términos del párrafo segundo del artículo 131, si es cometido por elementos de cuerpos policíacos o servidores de seguridad pública; el de abuso de autoridad, contenido en los artículos 136, fracciones V, X y 137, fracción II; el de peculado, señalado en el artículo 140, fracción II; el de prestación ilícita del servicio público de transporte de pasajeros, señalado en "el artículo 148 párrafo segundo; el de encubrimiento, previsto en el artículo 152 párrafo segundo; el de falso testimonio, contenido en las fracciones III y IV del artículo 156; el de evasión a que se refiere el artículo 160; el delito de falsificación de documentos, previsto en el artículo 170, fracción II; el que se refiere a la falsificación y utilización indebida de títulos al portador, documentos de crédito público y documentos relativos al crédito señalado en el artículo 174; el delito de usurpación de funciones públicas o de profesiones, previsto en el artículo 176 penúltimo párrafo; el de uso indebido de uniformes, insignias, distinciones o condecoraciones previsto en el artículo 177; el de delincuencia organizada, previsto en el artículo 178; los delitos cometidos por fraccionadores, señalados en el artículo 189; el de ataques a las vías de comunicación y transporte, contenido en los artículos 193 tercer párrafo y 195; el que se comete en contra de las personas menores de edad y quienes no tienen la capacidad para comprender el significado del hecho, establecidos en los artículos 204 y 205; los contemplados con la utilización de imágenes y/o voz de personas menores de edad o personas que no tienen la capacidad para comprender el significado del hecho para la pornografía, establecidos en el artículo 206; el de lenocinio, previsto en los artículos 209 y 209 bis; el Tráfico de Menores, contemplado en el artículo 219; el de cremación de cadáver señalado en el artículo 225; el cometido en contra de los productos de los montes o bosques, señalado en los párrafos segundo y tercero, fracciones I, II y III del artículo 229; el deterioro de área natural protegida, previsto en el artículo 230; el de lesiones, que señala el artículo 238 fracción V; el de homicidio, contenido en el artículo 241; el de feminicidio, previsto en el artículo 242 Bis; el de secuestro, señalado por el artículo 259; el de privación de la libertad de menor de edad, previsto en el artículo 262 primer párrafo; el de extorsión contenido en el último párrafo del artículo 266; el asalto a una población a que se refiere el artículo 267; el de trata de personas, contemplado en el artículo 268 bis; el de violación, señalado por los artículos 273 y 274, el de robo, contenido en los artículos 290, fracciones I en su tercer párrafo, II, III, IV, V, XVI y XVII, y 292; el de abigeato, señalado en los artículos 297, fracciones II y III, 298, fracción II, y 299, fracciones I y IV; el de despojo, a que se refiere el artículo 308, en su fracción III, párrafos tercero y cuarto; el de daño en los bienes, señalado en el artículo 311; y el de operaciones con recursos, derechos o bienes de procedencia ilícita, previsto en los artículos 316, 318, 319 y 320; y, en su caso, su comisión en grado de tentativa como lo establece este código, y los previstos en las leyes especiales cuando la pena máxima exceda de diez años de prisión.
 
 > <small>(ADICIONADO, G.G. 26 DE OCTUBRE DE 2011)</small>
 
@@ -423,7 +421,9 @@ a) Las hipótesis a que se refiere la fracción anterior;
 
 b) El restablecimiento de su honor, mediante disculpa pública, a través de los mecanismos que señale la autoridad judicial;
 
-c) La reparación por la afectación en su entorno laboral, educativo y psicológico, a fin de lograr su restablecimiento; ante la imposibilidad de éste, la indemnización correspondiente, en los términos del artículo 141.1 del Código de Procedimientos Penales para el Estado de México.
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+c) La reparación por la afectación en su entorno laboral, educativo y psicológico, a fin de lograr su restablecimiento, ante la imposibilidad de este, la indemnización correspondiente, en términos del Código Nacional de Procedimientos Penales.
 
 La indemnización a que se refiere el párrafo anterior se cuantificará en base a diversos factores como la pérdida del empleo, la inasistencia a las jornadas laborales, la necesidad de cambio de plantel educativo o inasistencia a éste, y demás datos relevantes que permitan realizar la cuantificación correspondiente, y
 
@@ -525,11 +525,11 @@ Si las personas que tienen derecho a la reparación del daño no lo reclaman den
 
 Cuando el procesado se sustraiga a la acción de la justicia, los depósitos que garanticen la reparación del daño se entregarán al ofendido o a sus causahabientes inmediatamente después del acuerdo de reaprehensión o de revocación de libertad que corresponda.
 
-> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 38.
 
-Los objetos de uso lícito con que se cometa el delito y sean propiedad del inculpado o de un tercero obligado a la reparación, se asegurarán de oficio por el Ministerio Público o por la autoridad judicial para garantizar el pago de la reparación del daño y solamente se levantará el aseguramiento si los propietarios otorgan garantía en cualquiera de las modalidades que la ley señala para cubrir ese pago. Se exceptúan de lo establecido en este precepto todo tipo de vehículos automotores de uso particular y no podrán ser trasladados al depósito vehicular; únicamente se aseguraran los vehículos que se encuentren relacionados en delitos graves que ameriten prisión preventiva oficiosa establecida en el artículo 194 apartado “A” del Código de Procedimientos Penales para el Estado de México vigente y los destinados al transporte público.
+Los objetos de uso lícito con que se cometa el delito y sean propiedad del inculpado o de un tercero obligado a la reparación, se asegurarán de oficio por el Ministerio Público o por la autoridad judicial para garantizar el pago de la reparación del daño y solamente se levantará el aseguramiento si los propietarios otorgan garantía en cualquiera de las modalidades que la ley señala para cubrir ese pago. Se exceptúan de lo establecido en este precepto todo tipo de vehículos automotores de uso particular y no podrán ser trasladados al depósito vehicular. Únicamente se asegurarán los vehículos que se encuentren relacionados en delitos graves que ameriten prisión preventiva oficiosa establecida en el Código Nacional de Procedimientos Penales y los destinados al transporte público.
 
 ### CAPITULO IV. TRABAJO EN FAVOR DE LA COMUNIDAD
 
@@ -607,13 +607,19 @@ Si el delito por el que se impuso la publicación de sentencia, fue cometido por
 
 El decomiso de los bienes producto del enriquecimiento ilícito consiste en la pérdida de su propiedad o posesión, su importe se aplicará en forma equitativa a la procuración y administración de justicia.
 
-### CAPITULO IX. DECOMISO DE LOS INSTRUMENTOS, OBJETOS Y EFECTOS DEL DELITO
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO IX. DECOMISO DE LOS INSTRUMENTOS, OBJETOS Y EFECTOS DEL DELITO Y POR VALOR EQUIVALENTE
 
 ###### Artículo 48.
 
 El decomiso consiste en la pérdida de la propiedad o posesión de los instrumentos, objetos y efectos del delito, a favor y en forma equitativa de la procuración y administración de justicia. Los de uso ilícito se decomisarán todos. Los de uso lícito sólo los que deriven de delitos dolosos, salvo determinación de la ley.
 
 Tratándose de bienes inmuebles en el delito cometido por fraccionadores pasaran a propiedad del organismo encargado del desarrollo urbano en el Estado de México para la regularización o reserva territorial con el objeto del ordenamiento urbano de los municipios, autorizándose las anotaciones necesarias en los registros agrario (sic) y de la propiedad que correspondan.
+
+> <small>(ADICIONADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+En los casos de los delitos a que se refiere el Título Quinto del Libro Segundo de este Código, también se podrán decomisar bienes del imputado cuyo valor sea equivalente, cuando los instrumentos, objetos y productos del delito se hayan perdido, consumido o extinguido, no sea posible localizarlos o se trate de bienes que constituyan garantías de créditos preferentes. En los casos que así se establezca, se podrá decretar el aseguramiento de bienes propiedad del o los imputados, así como de aquéllos respecto de los cuales se conduzca como dueño.
 
 ### CAPITULO X. CONFINAMIENTO
 
@@ -1043,11 +1049,11 @@ La recomendación deberá ser confirmada por el tribunal de alzada correspondien
 
 ### CAPITULO X. EJECUCION DE PENAS
 
-> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 81.
 
-La ejecución de penas privativas y restrictivas de la libertad, corresponde al Poder Ejecutivo y al Poder Judicial del Estado en la forma expresada en el Código de Procedimientos Penales del Estado y en la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado. Éstos no podrán ejecutar pena alguna en otra forma que la expresada en la Legislación aplicable.
+La ejecución de penas privativas y restrictivas de la libertad corresponde al Poder Ejecutivo y al Poder Judicial del Estado en la forma expresada en el Código Nacional de Procedimientos Penales y en la legislación en materia de ejecución de penas. Estos no podrán ejecutar pena alguna en otra forma que la expresada en la Legislación aplicable.
 
 ###### Artículo 82.
 
@@ -1121,9 +1127,9 @@ El perdón puede ser otorgado por el ofendido o por su representante legal, si a
 
 El perdón concedido a uno de los inculpados se extenderá a todos los demás. Igualmente se extenderá al encubridor.
 
-> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
-El perdón podrá ser otorgado en cualesquiera de las etapas del procedimiento penal. Si la sentencia ha causado ejecutoria, el ofendido podrá otorgarlo ante el tribunal de alzada, para los efectos de lo dispuesto en la fracción III del artículo 424 del Código de Procedimientos Penales para el Estado de México.
+El perdón podrá ser otorgado en cualquiera de las etapas del procedimiento penal. Si la sentencia ha causado ejecutoria, la víctima u ofendido podrán otorgarlo ante el tribunal de alzada.
 
 > <small>(ADICIONADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
@@ -1373,7 +1379,7 @@ DELITOS CONTRA LA ADMINISTRACION PUBLICA
 
 ###### Artículo 117.
 
-Comete el delito de desobediencia el que sin causa legítima, rehusare prestar un servicio de interés público a que la ley lo obligue.
+Comete el delito de desobediencia el que sin causa legítima rehusare prestar un servicio de interés público a que la ley lo obligue.
 
 También comete este delito, quien desobedezca una medida cautelar, providencia precautoria o medida de protección dictada por el Ministerio Público o por una autoridad judicial o cualquier mandato legítimo de una autoridad competente.
 
@@ -1567,11 +1573,15 @@ VI. Cuando por sí o a través de otra persona, ejerciendo violencia física o m
 
 VII. Cuando realice una conducta ilícita u omita una lícita debida, que lesione los intereses de la persona que presente la querella o denuncia a que se refiere la fracción anterior, o contra de algún tercero con quien dicha persona guarde vínculo familiar de negocio o afectivo;
 
-VIII. Cuando se detenga a una persona durante la averiguación previa fuera de los casos previstos por la ley; la retenga por más de cuarenta y ocho horas o de noventa y seis en los casos de delincuencia organizada; la consigne sin que preceda denuncia, acusación o querella; o la mantenga en incomunicación;
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+VIII. Cuando se detenga a una persona notoriamente fuera de los casos previstos por la ley, la retenga por más de cuarenta y ocho horas, ejercite acción penal, sin que preceda denuncia o querella o la mantenga en incomunicación;
 
 IX. Cuando sin orden de la autoridad competente, obligue a los particulares a presentar documentos o realice la inspección en bienes de su propiedad o posesión; en incomunicación; vínculo familiar, de negocio o afectivo; y
 
-X. Cuando después de haber ejecutado una orden de aprehensión, no ponga al inculpado a disposición del juez sin dilación alguna;
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+X. Cuando después de haber ejecutado una orden de aprehensión, reaprehensión, detención en flagrancia o por caso urgente, ponga al imputado a disposición de la autoridad competente, fuera de los términos legales establecidos;
 
 > <small>(ADICIONADA, G.G. 10 DE AGOSTO DE 2004)</small>
 
@@ -1829,6 +1839,8 @@ Al que venda o suministre bebidas alcohólicas, sin contar con la licencia de fu
 
 ### CAPITULO II. ACUSACION O DENUNCIAS FALSAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 148 Ter.
 
 Al que preste servicios educativos que conforme a la ley requieren autorización o reconocimiento de validez oficial de estudios y no los haya obtenido, se le impondrá de cinco a diez años de prisión y una multa de mil a mil quinientos días. En caso de reincidencia la pena se incrementará de una a dos terceras partes. La situación de trámite de la incorporación no libera de la responsabilidad.
@@ -1907,7 +1919,7 @@ Estarán exentos de las penas impuestas a los encubridores, los que lo sean de s
 
 ###### Artículo 154.
 
-Al que impute falsamente a otro un hecho considerado como delito si esta imputación se hiciera ante un servidor público que, por razón de su cargo, empleo o comisión deba proceder a la averiguación del mismo, se impondrán de dos a seis años de prisión, de cincuenta a quinientos días multa y hasta un mil días multa por concepto de reparación del daño.
+Al que impute falsamente a otro un hecho considerado como delito, si esta imputación se hiciera ante un servidor público, que por razón de su cargo, empleo o comisión deba proceder a la investigación del mismo, se impondrán de dos a seis años de prisión de cincuenta a quinientos días multa y hasta un mil días multa por concepto de reparación del daño.
 
 No se procederá contra el autor de este delito, sino en virtud de sentencia ejecutoriada o auto de sobreseimiento dictado por el órgano jurisdiccional que hubiese conocido del delito imputado.
 
@@ -1937,9 +1949,13 @@ Este delito se perseguirá por querella, salvo que la cuantía o monto del litig
 
 Comete el delito de falso testimonio, el que:
 
-I. Interrogado por alguna autoridad pública o fedatario en ejercicio de sus funciones o con motivo de ellas, faltare a la verdad;
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
-II. Examinado por la autoridad judicial como testigo, faltare a la verdad en relación con el hecho que se trata de averiguar ya sea afirmando, negando u ocultando la existencia de alguna circunstancia que pueda servir de prueba sobre la verdad o falsedad del hecho principal, o que aumente o disminuya la gravedad;
+I. Entrevistado o interrogado por alguna autoridad pública o fedatario en ejercicio de sus funciones o con motivo de ellas faltare a la verdad;
+
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+II. Al rendir su entrevista o declaración como testigo, faltare a la verdad en relación con el hecho, que se trata de investigar ya sea afirmando, negando u ocultando la existencia de alguna circunstancia que pueda servir de prueba sobre la verdad o falsedad del hecho principal o que aumente o disminuya la gravedad;
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 6 DE SEPTIEMBRE DE 2011)</small>
 
@@ -1953,9 +1969,9 @@ Al responsable de este delito se le impondrán de dos a seis años de prisión y
 
 Cuando la falsedad o el ocultamiento de la verdad a que se refiere la fracción I de este artículo, se hagan en procedimientos que versen sobre alimentos se le impondrán de tres a siete años de prisión y de cincuenta a mil días multa.
 
-> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
-En el caso de la fracción II, la pena será de tres a quince años de prisión y de cien a quinientos días multa, para el testigo que fuere examinado en un procedimiento penal, cuando al inculpado se le haya impuesto una pena mayor de tres años de prisión y el testimonio falso haya servido de base para la condena.
+En el caso de la fracción II, la pena será de tres a quince años de prisión y de cien a quinientos días multa, para el testigo que fuere examinado en un procedimiento penal, cuando al imputado se le haya impuesto una pena mayor de tres años de prisión y el testimonio falso haya servido de base para la condena.
 
 ###### Artículo 157.
 
@@ -2359,7 +2375,9 @@ A los responsables de este delito se les impondrán de uno a tres años de prisi
 
 Se impondrán las penas señaladas en el artículo anterior a:
 
-I. Los médicos, que habiendo otorgado responsiva para hacerse cargo de la curación de algún lesionado o enfermo lo abandonen en su tratamiento sin causa justificada o no cumplan con los deberes que les impone el Código de Procedimientos Penales del Estado de México;
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+I. Los médicos, que habiendo otorgado responsiva para hacerse cargo de la curación de algún lesionado o enfermo lo abandonen en su tratamiento sin causa justificada o no cumplan con los deberes que les impone el Código Nacional de Procedimientos Penales;
 
 II. Los médicos, cirujanos, parteros, enfermeros y demás profesionales y similares y auxiliares que se nieguen a prestar sus servicios a un lesionado o enfermo, o al parto de una mujer, en caso de notoria urgencia, por exigir el pago anticipado de sus servicios, sin dar inmediato aviso a las autoridades correspondientes u organismos de asistencia pública para que procedan a su atención; y
 
@@ -2703,9 +2721,9 @@ Este delito se perseguirá por querella.
 
 Al que provoque públicamente a cometer un delito, o haga la apología de éste o de algún vicio, si el delito no se ejecutare, se le impondrán de tres a seis meses de prisión y de treinta a sesenta días multa. En caso contrario, se impondrá la pena que le corresponda como instigador del delito cometido.
 
-> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
-Se excluye de este delito, al servidor público que en cumplimiento de su deber realice alguna de las técnicas de investigación reconocidas en el Código de Procedimientos Penales para el Estado de México, siempre y cuando ejerza su función en términos de las disposiciones jurídicas aplicables.
+Se excluye de este delito, al servidor público que en cumplimiento de su deber realice alguno de los actos de investigación reconocidos en el Código Nacional de Procedimientos Penales, siempre y cuando ejerza su función en términos de las disposiciones jurídicas aplicables.
 
 SUBTITULO QUINTO
 
@@ -3113,9 +3131,9 @@ Para efectos de este capítulo, se entiende que una lesión amerita hospitalizac
 
 El Ministerio Público se abstendrá de ejercer acción penal, tratándose de lesiones culposas de las que según la clasificación médica tarden en sanar menos de quince días, causadas con motivo de accidentes ocasionados por el tránsito de vehículos. En estos casos, la autoridad que conozca de los hechos remitirá el asunto a la instancia conciliadora establecida en la Ley Orgánica Municipal del Estado de México, siempre y cuando el conductor que ocasione el hecho de tránsito no se encuentre en estado de ebriedad o bajo el influjo de estupefacientes o sustancias psicotrópicas.
 
-> <small>(ADICIONADO, G.G. 1 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
-En los casos de lesiones causadas con motivo de accidentes ocasionados por el tránsito de vehículos, distintas a las señaladas en el párrafo anterior, el Ministerio Público podrá aplicar los criterios de oportunidad, dependiendo de las particularidades de cada caso, en términos de lo dispuesto por el Código de Procedimientos Penales para el Estado de México.
+En los casos de lesiones causadas con motivo de accidentes ocasionados por el tránsito de vehículos, distintas a las señaladas en el párrafo anterior, el Ministerio Público podrá aplicar los criterios de oportunidad, dependiendo de las particularidades de cada caso, en términos de lo dispuesto por el Código Nacional de Procedimientos Penales.
 
 > <small>(ADICIONADO, G.G. 1 DE DICIEMBRE DE 2010)</small>
 
@@ -3755,7 +3773,9 @@ Al que tenga cópula con una mujer mayor de quince años y menor de dieciocho ob
 
 No se procederá contra el inculpado del estupro, si no es por querella de la mujer ofendida, de sus padres o, a falta de éstos, de sus representantes legítimos.
 
-### CAPITULO UNICO
+### CAPÍTULO ÚNICO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 273.
 
@@ -4261,9 +4281,9 @@ Comete este delito el que por cualquier medio dañe, destruya o deteriore un bie
 
 El Ministerio Público se abstendrá de ejercer acción penal tratándose de daño en bienes muebles o inmuebles de propiedad privada, causado por accidentes ocasionados con motivo del tránsito de vehículos. En estos casos, la autoridad que conozca de los hechos remitirá el asunto a la instancia conciliadora establecida en la Ley Orgánica Municipal del Estado de México, siempre y cuando el conductor que ocasione el hecho de tránsito no se encuentre en estado de ebriedad o bajo el influjo de estupefacientes o sustancias psicotrópicas.
 
-> <small>(ADICIONADO, G.G. 1 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
-Si como resultado de un accidente de tránsito se ocasionan daños en bienes de la administración pública municipal o estatal, el Ministerio Público podrá aplicar los criterios de oportunidad en términos de lo dispuesto por el Código de Procedimientos Penales para el Estado de México.
+Si como resultado de un accidente de tránsito se ocasionan daños en bienes de la administración pública municipal o estatal, el Ministerio Público podrá aplicar los criterios de oportunidad en términos de lo dispuesto por el Código Nacional de Procedimientos Penales.
 
 > <small>(ADICIONADO, G.G. 1 DE DICIEMBRE DE 2010)</small>
 
@@ -4313,43 +4333,81 @@ Al que sin permiso y fuera de los casos en que la ley lo permita, se introduzca 
 
 A quienes compren, vendan o en cualquier forma transfieran o adquieran ilegalmente la tenencia de bienes sujetos a régimen ejidal o comunal, con propósito de lucro o para obtener un beneficio para sí o para otros, se les impondrán de dos a diez años de prisión y de cien a mil días multa.
 
-> <small>(DEROGADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 28 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN], G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
-## TITULO QUINTO. DELITO CONTRA EL PROCESO ELECTORAL
+## TÍTULO QUINTO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 28 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 316.
 
-(DEROGADO, G.G. 28 DE JUNIO DE 2014)
+Se impondrá de cinco a quince años de prisión y de mil a cinco mil días multa al que, por sí o por interpósita persona, realice cualquiera de las siguientes conductas:
+
+I. Adquiera, enajene, administre, custodie, posea, cambie, convierta, deposite, retire, dé o reciba por cualquier motivo, invierta, traspase, transporte o transfiera dentro del territorio estatal, de éste hacia las demás Entidades Federativas y Distrito Federal o a la inversa, recursos, derechos, valores o bienes de cualquier naturaleza que procedan o representen el producto de una actividad ilícita;
+
+II. Oculte, encubra o pretenda ocultar o encubrir la naturaleza, origen, ubicación, destino, movimiento, propiedad o titularidad de recursos, derechos, valores o bienes de procedencia ilícita.
+
+En la realización de estas conductas el sujeto activo deberá tener conocimiento de que los recursos, derechos, valores o bienes, proceden o representan el producto de una actividad ilícita;
+
+III. Para efectos de lo dispuesto en este artículo, se entenderá que una persona tiene conocimiento de que los recursos, derechos, valores o bienes, proceden o representan el producto de una actividad ilícita cuando:
+
+A) No verifique las circunstancias del bien de la operación o de los sujetos involucrados y elementos objetivos acreditables en el caso concreto, pudiendo hacerlo;
+
+B) Se realicen actos u operaciones a nombre de un tercero, sin el consentimiento de éste o sin título jurídico que lo justifique, de manera que no se actualice la gestión de negocios en términos de la legislación civil aplicable.
+
+Cuando la Secretaría de Finanzas, en ejercicio de sus facultades de fiscalización, encuentre elementos que permitan presumir la comisión de alguno de los delitos referidos en este Capítulo, deberá ejercer respecto de los mismos las facultades de comprobación que le confieren las leyes, denunciar los hechos que probablemente puedan constituir dichos ilícitos, y atender sin demora las solicitudes de información que le realice el Ministerio Público.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 317.
 
-(DEROGADO, G.G. 28 DE JUNIO DE 2014)
+Para efectos de este Capítulo, se entenderá que son producto de una actividad ilícita, los recursos, derechos, valores o bienes de cualquier naturaleza, cuando existan indicios fundados o certeza de que provienen directa o indirectamente, o representan las ganancias derivadas de la comisión de algún delito.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 318.
 
-(DEROGADO, G.G. 28 DE JUNIO DE 2014)
+Se impondrán de tres a diez años de prisión y de ochocientos a dos mil seiscientos días multa a quien haga uso de recursos, derechos, valores o bienes de procedencia ilícita para alentar alguna actividad que la Ley prevea como hecho ilícito a través de la realización de cualquiera de las conductas señaladas en las fracciones I y II del artículo 316, siempre que no se incurra en el delito de operaciones con recursos de procedencia ilícita.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 319.
 
-(DEROGADO, G.G. 28 DE JUNIO DE 2014)
+Se impondrá de tres a diez años de prisión y de ochocientos a dos mil seiscientos días multa, a quien ponga a nombre de terceros recursos, derechos, valores o bienes de procedencia ilícita para llevar a cabo la ocultación de éstos; aun cuando los terceros no tengan conocimiento de la procedencia ilícita de los recursos, derechos, valores o bienes.
+
+La misma sanción prevista en el párrafo anterior se impondrá a quien permita que se pongan bajo su nombre recursos, derechos, valores o bienes que procedan o representen el producto de una actividad ilícita.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 320.
 
-(DEROGADO, G.G. 28 DE JUNIO DE 2014)
+Se sancionará con prisión de tres a diez años y de mil a cinco mil días multa a quien auxilie, colabore o asesore profesional o técnicamente a otros para la realización de cualquiera de las conductas previstas en los artículos 316, 318 y 319 de este Código.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 321.
 
-(DEROGADO, G.G. 28 DE JUNIO DE 2014)
+Las penas previstas en este Capítulo se aumentarán de la siguiente manera:
+
+Desde un tercio hasta en una mitad, cuando quien cometa el delito, tenga el carácter de consejero, administrador, funcionario, empleado, apoderado o prestador de servicios de cualquier persona sujeta al régimen de prevención de operaciones con recursos de procedencia ilícita, o las realice dentro de los dos años siguientes de haberse separado de alguno de dichos cargos.
+
+Desde una mitad hasta el doble, si la conducta es cometida por servidores públicos encargados de prevenir, detectar, denunciar, investigar o juzgar la comisión de delitos o ejecutar las sanciones penales, o sea cometida por ex servidores públicos encargados de tales funciones, cuando dicha conducta ilícita sea cometida en los dos años posteriores a la terminación del servicio público desempeñado.
+
+En ambos casos, además, se les impondrá inhabilitación para desempeñar empleo, cargo o comisión hasta por un tiempo igual al de la pena de prisión impuesta, la cual comenzará a partir del cumplimiento de dicha pena.
+
+Asimismo, las penas previstas en este Capítulo se aumentarán hasta en una mitad si quien realice cualquiera de las conductas previstas en los artículos 316, 318, 319 y 320, utiliza a personas menores de dieciocho años de edad o personas que no tienen capacidad para comprender el significado del hecho o que no tienen capacidad para resistirlo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 322.
 
-(DEROGADO, G.G. 28 DE JUNIO DE 2014)
+Tratándose de la comisión culposa del delito previsto en el presente Capítulo se impondrá una pena de tres a doce años de prisión y de quinientos a tres mil días multa.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 323.
 
-(DEROGADO, G.G. 28 DE JUNIO DE 2014)
+Cuando la persona que realiza los actos jurídicos descritos en este delito, revele a la autoridad competente la identidad de quien haya aportado los recursos o de quien se conduzca como dueño, la pena podrá ser reducida hasta en una tercera parte de la misma.
 
 ###### Artículo 324.
 
@@ -5266,3 +5324,15 @@ G.G. 23 DE OCTUBRE DE 2014.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el mismo día que entre en vigor el Código Nacional de Procedimientos Penales, en el Estado de México.
+
+TERCERO.- La Secretaría de Seguridad Ciudadana y los municipios de la Entidad, con la entrada en vigor del presente Decreto, deberán contar con cuerpos especializados de policía, con capacidad para cumplir de manera eficaz y eficiente con las atribuciones que derivan de la entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de México.
+
+CUARTO.- El Titular del Ejecutivo Estatal reformará el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de México, antes de la entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de México.
+
+QUINTO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
