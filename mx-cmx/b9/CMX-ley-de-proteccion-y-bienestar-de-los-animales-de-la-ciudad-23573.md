@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-proteccion-y-bienestar-de-los-animales-de-la-ciudad-2357
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-26"
-last_updated: "2012-11-02"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23573&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-01-08"
 
 LEY DE PROTECCIÓN A LOS ANIMALES DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 26 de febrero de 2002.
 
@@ -1388,23 +1388,35 @@ Para el caso de mayores de dieciocho años, se procederá la amonestación o la 
 
 Las sanciones por las infracciones cometidas por la violación a las disposiciones de la presente Ley, se aplicarán conforme a lo siguiente:
 
-I. Corresponde a la Secretaría de Salud, en el ámbito de su respectiva competencia, siguiendo el procedimiento regulado por el artículo 56 párrafo primero, de la presente Ley, imponer sin perjuicio de las sanciones reguladas, en otras Legislaciones aplicables, multas de ciento cincuenta a trescientos días de salario mínimo vigente en el Distrito Federal, por violaciones a lo dispuesto a los artículos 24, Fracciones II, III, 25 Fracción XIV, 46, 47, 49, 50, 52 y 53 de la presente Ley.
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+I. Corresponde a la Secretaría de Salud, en el ámbito de su respectiva competencia, siguiendo el procedimiento regulado por el artículo 56 párrafo primero, de la presente Ley, imponer sin perjuicio de las sanciones reguladas, en otras Legislaciones aplicables, multas de ciento cincuenta a trescientos veces la Unidad de Cuenta de la Ciudad de México vigente, por violaciones a lo dispuesto a los artículos 24, Fracciones II, III, 25 Fracción XIV, 46, 47, 49, 50, 52 y 53 de la presente Ley.
 
 II. Corresponde a las Delegaciones, a través de su respectiva Dirección General Jurídica y de Gobierno, en el ámbito de sus respectivas competencias, observando el procedimiento regulado por el artículo 56 párrafo primero, de la presente Ley, imponer, sin perjuicio de las sanciones reguladas en otras Legislaciones, aplicables las sanciones siguientes:
 
 a) Amonestación. Para quienes incumplan con el primer párrafo del artículo 15 de está Ley y por violaciones a lo dispuesto por el artículo 31 de este ordenamiento.
 
-b) Multa de 1 a 150 días de salario mínimo vigente en el Distrito Federal, por violaciones a lo dispuesto por los artículos 25, Fracciones III, VI, VII, XII, XIII y XV, 27, 28, 32, 35, 36, 37, 39, 40, 41, 42, 43, 45, 45 Bis, 54 y 55 de la presente Ley.
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-c) Multa de 150 a 300 días de salario mínimo vigente en el Distrito Federal, por violaciones a lo dispuesto por el artículo 25, Fracción II de la presente Ley.
+b) Multa de 1 a 150 veces la Unidad de Cuenta de la Ciudad de México vigente, por violaciones a lo dispuesto por los artículos 25, Fracciones III, VI, VII, XII, XIII y XV, 27, 28, 32, 35, 36, 37, 39, 40, 41, 42, 43, 45, 45 Bis, 54 y 55 de la presente Ley.
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+c) Multa de 150 a 300 veces la Unidad de Cuenta de la Ciudad de México vigente, por violaciones a lo dispuesto por el artículo 25, Fracción II de la presente Ley.
 
 III. Corresponde a los Juzgados Cívicos, siguiendo el procedimiento regulado por el artículos 56 párrafo primero y 12 Bis de la presente Ley, imponer las sanciones siguientes:
 
-a) Multa de 1 a 10 días de salario mínimo vigente en el Distrito Federal o arresto administrativo de 6 a 12 horas, por violaciones a lo dispuesto por el artículo 25 fracciones I y XI de la presente Ley;
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-b) Multa de 1 a 20 días de salario mínimo vigente en el Distrito Federal, o arresto administrativo de 13 a 24 horas, por violaciones a lo dispuesto por los artículos 24, fracciones VI, VIII, IX; 25, fracciones IV, V; IX y X; 29 y 34 de la presente Ley, y
+a) Multa de 1 a 10 veces la Unidad de Cuenta de la Ciudad de México vigente o arresto administrativo de 6 a 12 horas, por violaciones a lo dispuesto por el artículo 25 fracciones I y XI de la presente Ley;
 
-c) Multa de 21 a 30 días de salario mínimo vigente en el Distrito Federal, o arresto administrativo de 25 a 36 horas, por violaciones a lo dispuesto por los artículos 24, fracciones I, IV, V y VII; 25, fracción VIII; 30, 33 y 51 de la presente Ley.
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+b) Multa de 1 a 20 veces la Unidad de Cuenta del Estado (sic) Distrito Federal vigente, o arresto administrativo de 13 a 24 horas, por violaciones a lo dispuesto por los artículos 24, fracciones VI, VIII, IX; 25, fracciones IV, V; IX y X; 29 y 34 de la presente Ley, y
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+c) Multa de 21 a 30 veces la Unidad de Cuenta de la Ciudad de México vigente, o arresto administrativo de 25 a 36 horas, por violaciones a lo dispuesto por los artículos 24, fracciones I, IV, V y VII; 25, fracción VIII; 30, 33 y 51 de la presente Ley.
 
 Los animales que sean presentados y que estén relacionados con las infracciones enunciadas en la Fracción III, serán retenidos y canalizados a los Centros de Control Animal de las Delegaciones, para los efectos de los artículos 27, 29, 30 y 32 de la presente Ley; los que expedirán en caso de reclamación del animal por el propietario, el Certificado Veterinario de Salud, procediendo a la desparasitación interna y externa y la vacunación, a efecto de evitar enfermedades transmisibles a otros animales o personas y otorgará la placa de identificación correspondiente, previo pago de los derechos que se causen, con cargo al propietario.
 
@@ -1434,15 +1446,19 @@ Tratándose de animales perdidos o abandonados en la vía pública y sin dueño 
 
 El Reglamento, establecerá los mecanismos de registro de las Asociaciones y los procedimientos para acreditar su personalidad y poder actuar ante las autoridades administrativas competentes.
 
-> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 66.
 
-Las infracciones a lo dispuesto en esta Ley, que en el cuerpo de la misma no tuviere señalada una sanción especial, serán sancionadas a juicio de las autoridades competentes con multa de veintiuno a treinta días de salario mínimo vigente en el Distrito Federal o arresto inconmutable de 24 a 36 horas, según la gravedad de la falta, la intención con la cual ésta fue cometida y las consecuencias a que haya dado lugar; cuando las sanciones sean de la competencia de las Delegaciones o de la Secretaría de Salud, la sanción consistirá solamente en multa.
+Las infracciones a lo dispuesto en esta Ley, que en el cuerpo de la misma no tuviere señalada una sanción especial, serán sancionadas a juicio de las autoridades competentes con multa de veintiuno a treinta veces la Unidad de Cuenta de la Ciudad de México vigente o arresto inconmutable de 24 a 36 horas, según la gravedad de la falta, la intención con la cual ésta fue cometida y las consecuencias a que haya dado lugar; cuando las sanciones sean de la competencia de las Delegaciones o de la Secretaría de Salud, la sanción consistirá solamente en multa.
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 Las infracciones a lo dispuesto por esta Ley, cuyo conocimiento no se encuentre reservado a una autoridad especial, será de la competencia de las Delegaciones, a través de su respectiva Dirección General Jurídica y de Gobierno.
 
-En el caso de que las infracciones hayan sido cometidas por personas que ejerzan cargos de dirección en Instituciones Científicas o directamente vinculadas con la explotación y cuidado de los animales víctimas de maltrato o se trate de propietarios de vehículos exclusivamente destinados al transporte de éstos, el conocimiento de la infracción será competencia de las Delegaciones y la multa será de cincuenta a ciento cincuenta días de salario mínimo vigente en el Distrito Federal, sin perjuicio de las demás sanciones que proceden conforme a otras Leyes.
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+En el caso de que las infracciones hayan sido cometidas por personas que ejerzan cargos de dirección en Instituciones Científicas o directamente vinculadas con la explotación y cuidado de los animales víctimas de maltrato o se trate de propietarios de vehículos exclusivamente destinados al transporte de éstos, el conocimiento de la infracción será competencia de las Delegaciones y la multa será de cincuenta a ciento cincuenta veces la Unidad de Cuenta de la Ciudad de México vigente, sin perjuicio de las demás sanciones que proceden conforme a otras Leyes.
 
 ###### Artículo 67.
 
@@ -1557,3 +1573,13 @@ G.O. 2 DE NOVIEMBRE DE 2012.
 PRIMERO.- El presente decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas las disposiciones contrarias a este decreto.
+
+G.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
