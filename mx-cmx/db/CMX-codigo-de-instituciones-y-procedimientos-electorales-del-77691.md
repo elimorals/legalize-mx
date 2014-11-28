@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-instituciones-y-procedimientos-electorales-del-77691"
 country: "mx"
 rank: "codigo"
 publication_date: "2010-12-20"
-last_updated: "2014-06-30"
+last_updated: "2014-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77691&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-12-16"
 
 CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el lunes 20 de diciembre de 2010.
 
@@ -43,6 +43,8 @@ D E C R E T A
 DECRETO POR EL QUE SE EXPIDE EL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL DISTRITO FEDERAL.
 
 ÚNICO. Se expide el Código de Instituciones y Procedimientos Electorales del Distrito Federal, para quedar como sigue:
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO CUARTO DEL DECRETO SIN NÚMERO, PUBLICADO EN LA G.O. DE 28 DE NOVIEMBRE DE 2014, LAS REFERENCIAS QUE SE HAGAN DEL SALARIO MÍNIMO EN LAS NORMAS LOCALES VIGENTES, INCLUSO EN AQUELLAS PENDIENTES DE PUBLICAR O DE ENTRAR EN VIGOR, SE ENTENDERÁN HECHAS A LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO, A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.</small>
 
 CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL DISTRITO FEDERAL
 
@@ -5024,7 +5026,11 @@ VI. Hacer las contribuciones necesarias a los organismos de seguridad social, co
 
 Los Partidos Políticos podrán otorgar reconocimientos en efectivo a sus militantes o simpatizantes por su participación temporal en campañas electorales, siempre y cuando no medie relación laboral con el Partido Político.
 
-La cantidad máxima que podrá erogar un Partido Político para dicho concepto, no podrá exceder hasta 20 días de Salario Mínimo General Vigente para el Distrito Federal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+La cantidad máxima que podrá erogar un Partido Político para dicho concepto, no podrá exceder hasta 20 veces la Unidad de Cuenta de la Ciudad de México vigente.
 
 #### SECCIÓN CUARTA. DEL FINANCIAMIENTO PRIVADO
 
@@ -7254,11 +7260,19 @@ El Instituto Electoral conocerá de las infracciones que cometan:
 
 I. Los ciudadanos que participen como observadores electorales, a quien podrá sancionarse con la cancelación inmediata de su acreditación como observadores electorales y la inhabilitación para desarrollar esa tarea en al menos dos procesos electorales.
 
-II. Las organizaciones a las que pertenezcan los observadores electorales, según lo previsto en este Código, a quien podrá sancionarse con multa de 50 a 200 días de salario mínimo general vigente para el Distrito Federal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+II. Las organizaciones a las que pertenezcan los observadores electorales, según lo previsto en este Código, a quien podrá sancionarse con multa de 50 a 200 veces la Unidad de Cuenta de la Ciudad de México vigente.
 
 III. Las autoridades del Distrito Federal en los casos en que no proporcionen en tiempo y forma, la información que les sea solicitada por los órganos del Instituto Electoral. Para ello una vez conocida la infracción, se integrará un expediente que será remitido al superior jerárquico de la autoridad infractora, para que éste proceda en los términos de ley. El superior jerárquico deberá comunicar al Instituto Electoral las medidas que haya adoptado en el caso;
 
-IV. Los funcionarios electorales, a quienes procederá sancionar, en su caso, con amonestación, suspensión, destitución del cargo o multa hasta de cien días de salario mínimo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+IV. Los funcionarios electorales, a quienes procederá sancionar, en su caso, con amonestación, suspensión, destitución del cargo o multa hasta de cien veces la Unidad de Cuenta de la Ciudad de México vigente, en los términos que señale el Estatuto del Servicio Profesional Electoral;
 
 V. Los notarios públicos, por el incumplimiento de las obligaciones que el presente Código les imponen. Conocida la infracción, se integrará un expediente que se remitirá a la Consejería Jurídica para que previa garantía de audiencia imponga la sanción que en su caso proceda la cual podrá ir desde una amonestación pública hasta una multa de cincuenta a cinco mil días de salario mínimo general vigente en el Distrito Federal. La Consejería Jurídica deberá comunicar al Instituto Electoral las medidas que haya adoptado en el caso;
 
@@ -7342,9 +7356,17 @@ Las infracciones a que se refiere el artículo 377 de este ordenamiento serán s
 
 I. Respecto de los Partidos Políticos:
 
-a) Tratándose de las hipótesis previstas en las fracciones IX, X, XVI y XVIII del artículo 377, con multa de 50 hasta 5 mil días de salario mínimo vigente para el Distrito Federal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-b) Tratándose de las hipótesis previstas en las fracciones II y IV del artículo 377, con multa de 10 mil hasta 50 mil días de salario mínimo general vigente para el Distrito Federal;
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+a) Tratándose de las hipótesis previstas en las fracciones IX, X, XVI y XVIII del artículo 377, con multa de 50 hasta 5 mil veces la Unidad de Cuenta de la Ciudad de México vigente;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+b) Tratándose de las hipótesis previstas en las fracciones II y IV del artículo 377, con multa de 10 mil hasta 50 mil veces la Unidad de Cuenta de la Ciudad de México vigente;
 
 c) Tratándose de las hipótesis previstas en las fracciones V, VIII, XIII y XIV del artículo 377, hasta con la reducción del 1% al 50% de las ministraciones mensuales del financiamiento público que les corresponda, por el periodo que señale la resolución;
 
@@ -7366,7 +7388,11 @@ b) Por las causas de las fracciones I, II y IX del artículo 377, hasta con la p
 
 Las sanciones aplicables a las conductas que refiere el artículo 378 consistirán en:
 
-I. En los supuestos previstos en las fracciones I, II, IV y IX, hasta con multa de 10 a 5 mil días de salario mínimo vigente para el Distrito Federal; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+I. En los supuestos previstos en las fracciones I, II, IV y IX, hasta con multa de 10 a 5 mil veces la Unidad de Cuenta de la Ciudad de México vigente; y
 
 II. Por las causas señaladas en las fracciones VII, VIII y IX y tratándose de persona diversa a la del precandidato o candidato, hasta con el doble del precio comercial del tiempo contratado o del monto de la aportación ilícitamente realizada.
 
@@ -7471,3 +7497,13 @@ SÉPTIMO.- Los procedimientos y actividades del Instituto Electoral que se hayan
 OCTAVO.- No será aplicable lo dispuesto en el Artículo 316 BIS a los titulares de los Permisos Administrativos Temporales Revocables vigentes al momento de la publicación del presente Decreto.
 
 NOVENO.- El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
