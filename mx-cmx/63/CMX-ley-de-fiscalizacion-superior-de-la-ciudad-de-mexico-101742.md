@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fiscalizacion-superior-de-la-ciudad-de-mexico-101742"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-09"
-last_updated: "2014-07-09"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101742&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2014-06-09"
 
 LEY DE FISCALIZACIÓN SUPERIOR DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 9 de julio de 2014.
 
@@ -39,6 +39,8 @@ DECRETO POR EL QUE SE EXPIDE LA LEY DE FISCALIZACIÓN SUPERIOR DE LA CIUDAD DE M
 ###### ARTÍCULO PRIMERO.
 
 Se expide la Ley de Fiscalización Superior de la Ciudad de México en al tenor siguiente:
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO CUARTO DEL DECRETO SIN NÚMERO, PUBLICADO EN LA G.O. DE 28 DE NOVIEMBRE DE 2014, LAS REFERENCIAS QUE SE HAGAN DEL SALARIO MÍNIMO EN LAS NORMAS LOCALES VIGENTES, INCLUSO EN AQUELLAS PENDIENTES DE PUBLICAR O DE ENTRAR EN VIGOR, SE ENTENDERÁN HECHAS A LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO, A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.</small>
 
 LEY DE FISCALIZACIÓN SUPERIOR DE LA CIUDAD DE MÉXICO
 
@@ -422,9 +424,11 @@ XXIV. En general, todas las que deriven de esta Ley, de su Reglamento y de las d
 
 Las facultades que la presente ley establece podrán ser delegables en términos del Reglamento Interior de la Auditoria Superior, o de los Acuerdos que emita el Auditor Superior al respecto, previa publicación en la Gaceta Oficial del Distrito Federal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 15.
 
-Para el cumplimiento de las atribuciones que le confiere esta Ley, el Código y demás normas de orden público, la Auditoría Superior, previo apercibimiento empleará indistintamente como medida de apremio la Sanción económica de veinte a ciento ochenta días de salario mínimo general vigente en el Distrito Federal, cantidad que será duplicada en caso de reincidencia y que será efectiva a través de la Tesorería del Distrito Federal.
+Para el cumplimiento de las atribuciones que le confiere esta Ley, el Código y demás normas de orden público, la Auditoría Superior, previo apercibimiento empleará indistintamente como medida de apremio la Sanción económica de veinte a ciento ochenta veces la Unidad de Cuenta de la Ciudad de México vigente, cantidad que será duplicada en caso de reincidencia y que será efectiva a través de la Tesorería del Distrito Federal.
 
 Si existe resistencia al mandamiento legítimo de autoridad, se procederá en términos del Código Penal del Distrito Federal respecto del delito de desobediencia y resistencia de particulares.
 
@@ -554,11 +558,15 @@ La revisión de la Cuenta Pública tiene por objeto determinar el resultado de l
 
 La revisión no sólo comprenderá la conformidad de las partidas de ingresos y egresos, sino que se extenderá a una revisión legal, de gestión, programática, económica y contable del ingreso y del gasto públicos, y verificará la exactitud y la justificación de los cobros y pagos hechos, de acuerdo con los precios y tarifas autorizados o de mercado y de las cantidades erogadas, siempre vigilando que se obtengan mejores condiciones de precio, calidad y oportunidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 29.
 
-La Asamblea, por Acuerdo de su Pleno, podrá solicitar a la Auditoría Superior la realización de auditorías especiales, cuando se presuma alguno de los siguientes supuestos:
+La Asamblea, por acuerdo de su Pleno, podrá solicitar a la Auditoría Superior la realización de auditorías especiales, cuando se presuma alguno de los siguientes supuestos:
 
-I. Un daño patrimonial que afecte la Hacienda Pública de la Ciudad de México o en su caso, al patrimonio de los entes públicos o de las entidades paraestatales, por un monto que resulte superior a cien mil veces el salario mínimo diario general vigente en de la (sic) Ciudad de México;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+I. Un daño patrimonial que afecte la Hacienda Pública del Distrito Federal o, en su caso, al patrimonio de los entes públicos o de las entidades paraestatales, por un monto que resulte superior a cien mil veces la Unidad de Cuenta de la Ciudad de México vigente;
 
 II. Posibles actos de corrupción;
 
@@ -1277,3 +1285,15 @@ Lo anterior, atendiendo al principio de supremacía constitucional de conformida
 Los Derechos y prerrogativas laborales de los trabajadores de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal serán respetados por el presente Decreto y la Auditoría Superior de la Ciudad de México, por ende no serán objeto de restricción, privación o afectación con las modificaciones y cambios que se lleguen a realizar.
 
 Recinto de la Asamblea Legislativa del Distrito Federal, a los nueve días del mes de junio del año dos mil catorce.- POR LA MESA DIRECTIVA.- DIP. SANTIAGO TABOADA CORTINA, PRESIDENTE.- FIRMA.- DIP. JORGE AGUSTÍN ZEPEDA CRUZ, SECRETARIO.- FIRMA.- DIP. ALBERTO EMILIANO CINTA MARTÍNEZ, SECRETARIO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
