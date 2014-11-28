@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-educacion-del-distrito-federal-16351"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-08"
-last_updated: "2014-04-16"
+last_updated: "2014-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16351&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-05-05"
 
 LEY DE EDUCACIÓN DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 8 de junio de 2000.
 
@@ -41,6 +41,8 @@ LEY
 LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL, I LEGISLATURA
 
 DECRETA
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO CUARTO DEL DECRETO SIN NÚMERO, PUBLICADO EN LA G.O. DE 28 DE NOVIEMBRE DE 2014, LAS REFERENCIAS QUE SE HAGAN DEL SALARIO MÍNIMO EN LAS NORMAS LOCALES VIGENTES, INCLUSO EN AQUELLAS PENDIENTES DE PUBLICAR O DE ENTRAR EN VIGOR, SE ENTENDERÁN HECHAS A LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO, A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.</small>
 
 LEY DE EDUCACIÓN DEL DISTRITO FEDERAL
 
@@ -110,7 +112,7 @@ b) Será nacional, en cuanto -sin hostilidades ni exclusivismos- atenderá a la 
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 15 DE MAYO DE 2007)</small>
 
-c) Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio por la dignidad de la persona y la integridad de la familia, la convicción por el interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los seres humanos, evitando los privilegios de raza, de religión, de grupo, de sexo, de condición económica e individuales; y (sic)
+c) Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio por la dignidad de la persona y la integridad de la familia, la convicción por el interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los seres humanos, evitando los privilegios de raza, de religión, de grupo, de sexo, de condición económica e individuales; y
 
 > <small>(REFORMADO, G.O. 15 DE MAYO DE 2007)</small>
 
@@ -128,7 +130,7 @@ f) Fomentará la incorporación a la educación y formación de las personas que
 
 g) Garantizará, en el ámbito de su competencia, que la educación en todos sus niveles se realice en el marco de igualdad sustantiva entre mujeres y hombres.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 10.
 
@@ -162,7 +164,7 @@ XI. Promover, fomentar y difundir los derechos humanos, así como el respeto de 
 
 XII. Proteger, preservar y fortalecer las lenguas y las manifestaciones culturales y artísticas de las comunidades indígenas que habitan en el Distrito Federal.
 
-XIII. lmpulsar la creación artística y propiciar la adquisición, el enriquecimiento y la difusión de los bienes y valores de la cultura universal, en especial de aquellos que constituyen el patrimonio cultural de la nación.
+XIII. Impulsar la creación artística y propiciar la adquisición, el enriquecimiento y la difusión de los bienes y valores de la cultura universal, en especial de aquellos que constituyen el patrimonio cultural de la nación.
 
 XIV. Desarrollar, a través de la educación artística, las capacidades, habilidades, valores, actitudes y hábitos estéticos que propicien la formación de una cultura artística permanente como forma de vida.
 
@@ -276,7 +278,7 @@ XXII. Desarrollar innovaciones pedagógicas para mejorar la calidad educativa.
 
 XXIII. Evaluar permanentemente los métodos y técnicas de formación y capacitación del personal docente para la planificación, desarrollo y evaluación del proceso educativo.
 
-XXIV. lmpulsar la educación tecnológica, así como la investigación científica y tecnológica, de manera concurrente con la federación.
+XXIV. Impulsar la educación tecnológica, así como la investigación científica y tecnológica, de manera concurrente con la federación.
 
 > <small>(REFORMADA, G.O. 22 DE JULIO DE 2010)</small>
 
@@ -1018,7 +1020,7 @@ XI. Crear bibliotecas en los centros educativos, en las colonias y barrios, dot�
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE ENERO DE 2008)</small>
 
-XII. ..., y (sic)
+XII. (Sic), y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE ENERO DE 2008)</small>
 
@@ -1152,7 +1154,7 @@ II. Colaborar con las autoridades escolares en la atención de los problemas rel
 
 > <small>(REFORMADA, G.O. 4 DE ENERO DE 2008)</small>
 
-III. Informarse de los resultados de las evaluaciones educativas de sus hijos o pupilos, y (sic)
+III. Informarse de los resultados de las evaluaciones educativas de sus hijos o pupilos, y
 
 > <small>(REFORMADA, G.O. 4 DE ENERO DE 2008)</small>
 
@@ -1380,7 +1382,7 @@ La integración y funcionamiento de los consejos de escuela, de zona, de delegac
 
 ###### Artículo 176.
 
-En cada uno de los establecimientos de educación básica y medía superior que integran el sistema educativo del Distrito Federal, los que ejercen la patria potestad o tutores podrán constituirse en asociaciones de padres de familia, para intervenir en las siguientes funciones:
+En cada uno de los establecimientos de educación básica y medía (sic) superior que integran el sistema educativo del Distrito Federal, los que ejercen la patria potestad o tutores podrán constituirse en asociaciones de padres de familia, para intervenir en las siguientes funciones:
 
 I. Defender los derechos que en materia educativa tienen sus asociados.
 
@@ -1464,7 +1466,11 @@ Las infracciones enumeradas en el artículo anterior, según la gravedad de las 
 
 I. Amonestación por escrito.
 
-II. Multa hasta por el equivalente a cinco mil veces el salario mínimo general vigente en el Distrito Federal y en la fecha en que se cometa la infracción. Las multas impuestas podrán duplicarse en caso de reincidencia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+II. Multa hasta por el equivalente a cinco mil veces la Unidad de Cuenta de la Ciudad de México vigente y en la fecha en que se cometa la infracción. Las multas impuestas podrán duplicarse en caso de reincidencia.
 
 III. Revocación de la autorización o retiro del reconocimiento de validez oficial de estudios, independientemente de la multa que, en su caso, proceda.
 
@@ -1618,7 +1624,7 @@ Se derogan todas las disposiciones legales y administrativas que se opongan a la
 
 G.O. 8 DE MAYO DE 2008.
 
-DECRETO POR EL QUE SE REFORMA EL ARTICULO 33 DE LA LEY DE EDUCACION DEL DISTRITO FEDERAL.
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 33 DE LA LEY DE EDUCACIÓN DEL DISTRITO FEDERAL.
 
 PRIMERO.- Remítase al Jefe de Gobierno para su promulgación y publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión también en el Diario Oficial de la Federación.
 
@@ -1628,7 +1634,7 @@ TERCERO.- La forma como se entregaran los anteojos, la elaboración y actualizac
 
 G.O. 8 DE MAYO DE 2008.
 
-DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS DE LA LEY DE EDUCACION DEL DISTRITO FEDERAL.
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE EDUCACIÓN DEL DISTRITO FEDERAL.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación.
 
@@ -1677,3 +1683,13 @@ El presente decreto entrará en vigor al día siguiente de su publicación en la
 ###### ARTÍCULO SEGUNDO.
 
 El cumplimiento del presente Decreto por parte del Gobierno del Distrito Federal se hará conforme a la suficiencia presupuestal con que se cuente en cada ejercicio presupuestal correspondiente, conforme a las disposiciones federales aplicables.
+
+G.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
