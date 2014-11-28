@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-atencion-y-apoyo-a-la-victima-y-al-ofendido-del-50702"
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-30"
-last_updated: "2013-06-07"
+last_updated: "2014-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50702&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE ATENCIÓN Y APOYO A LA VÍCTIMA Y AL OFENDIDO DEL DELITO EN EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 30 de mayo de 2006.
 
@@ -66,6 +66,12 @@ I. Consejo: el Consejo de Atención y Apoyo para las Víctimas y Ofendidos del D
 II. Coordinación: la Coordinación de Atención a Víctimas y Ofendidos del Delito de la Procuraduría General de Justicia del Estado de Guanajuato; y
 
 III. Fondo: el Fondo para la Atención y Apoyo a las Víctimas y a los Ofendidos del Delito del Estado de Guanajuato.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+IV. Unidad: la Unidad de Asesoría Jurídica Penal a Víctimas y Ofendidos del Delito.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -119,39 +125,81 @@ En caso de conflicto entre las disposiciones del presente ordenamiento y otro qu
 
 La víctima y el ofendido según corresponda, tendrán derecho a:
 
-l. Recibir, desde el momento en que resienten la conducta susceptible de ser tipificada como delito, atención médica y psicológica de urgencia y asistencia social;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+I. Recibir, desde el momento en que resienten la conducta susceptible de ser tipificada como delito, atención médica y psicológica de urgencia, asistencia social, así como asesoría jurídica;
 
 II. Ser coadyuvantes del Ministerio Público;
 
-III. Ser informados desde su primera intervención en el procedimiento penal, de los derechos que en su favor establecen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política para el Estado de Guanajuato, y demás leyes aplicables; y de la trascendencia y alcance legal de cada una de las actuaciones en las que intervenga y del desarrollo del mismo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+III. Ser informados desde su primera intervención en el procedimiento penal, de los derechos que en su favor le reconocen en ese momento procedimental la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política para el Estado de Guanajuato, los Tratados Internacionales, y las leyes que de ellos emanen; y de la trascendencia y alcance legal de cada una de las actuaciones en las que intervenga y del desarrollo del mismo;
 
 IV. Ejercer la acción penal particular cuando así lo autorice la legislación penal;
 
-V. Participar en el procedimiento de justicia restaurativa;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-VI. Otorgar su consentimiento para que les sean practicados exámenes físicos o mentales. Tratándose de menores de edad o incapaces, la autorización podrá ser otorgada por persona que ejerza la patria potestad, tutela o curatela. En caso de que no exista una persona que ejerza esos derechos, se hará mediante el consentimiento de una institución pública de asistencia familiar o de derechos humanos;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-VII. Solicitar a la autoridad judicial o ministerial que corresponda, las medidas cautelares y providencias necesarias para la protección y restitución de sus derechos;
+V. Participar en los mecanismos alternativos de solución de controversias;
 
-VIII. Recibir servicio de intérprete o traductor, cuando pertenezcan a un grupo étnico o pueblos indígenas, no conozcan o no comprendan el idioma español, o padezcan alguna discapacidad que les impida oír o hablar;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+VI. Otorgar su consentimiento informado para que les sean practicados exámenes físicos o mentales. Tratándose de menores de edad o incapaces, la autorización podrá ser otorgada por persona que ejerza la patria potestad, tutela o curatela. En caso de que no exista una persona que ejerza esos derechos, se hará mediante el consentimiento de una institución pública de asistencia familiar o de derechos humanos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+VII. Solicitar a la autoridad judicial o ministerial que corresponda, las medidas de protección, providencias precautorias y medidas cautelares;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+VIII. Recibir gratuitamente la asistencia de intérprete o traductor desde la denuncia hasta la conclusión del procedimiento penal, cuando pertenezcan a un grupo étnico o pueblos indígenas, no conozcan o no comprendan el idioma español, o padezcan alguna discapacidad que les impida oír o hablar;
 
 IX. Recibir en forma gratuita, cuando la soliciten, copia simple o certificada de la denuncia o querella interpuesta ante el Ministerio Público;
 
 X. Ser asistidos por personal de apoyo, incluidos especialistas y familiares del menor de edad o incapaz en cualquier acto procesal al que sean llamados, tomándose las medidas necesarias para salvaguardar su dignidad, seguridad e identidad;
 
-XI. Contar con asistencia jurídica gratuita para el caso de impugnación de las determinaciones del Ministerio público, cuando no esté satisfecha la reparación del daño y se trate de víctimas y ofendidos de escasos recursos económicos en términos del Reglamento de esta Ley; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XII. Los demás derechos que establezcan la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política para el Estado de Guanajuato, los tratados internacionales y las demás leyes aplicables.
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-Los derechos de la víctima u ofendido que se vinculen con el procedimiento penal se ejercerán y harán efectivos en los términos que se contengan en la legislación procesal penal del estado.
+XI. Recibir asesoría jurídica gratuita en cualquier etapa del procedimiento, así como intervenir en todo el procedimiento por sí o a través de quien lo represente, conforme a lo dispuesto por la legislación aplicable;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XII. Solicitar directamente ante el Órgano Jurisdiccional, que se le repare el daño causado por la comisión del delito, sin perjuicio de que el Ministerio Público lo solicite; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XIII. Los demás derechos que establezcan la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política para el Estado de Guanajuato, los tratados internacionales y las demás leyes aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Los derechos de la víctima u ofendido que se vinculen con el procedimiento penal se ejercerán y harán efectivos en los términos que se contengan en la legislación procesal penal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 9.
 
-La víctima u ofendido tendrá derecho a recibir de forma gratuita atención psicológica y médica especializada por parte del Sistema Estatal de Salud de Guanajuato, en los términos de lo previsto en esta Ley y su Reglamento. La institución de salud que brinde el servicio deberá hacer llegar los comprobantes de los gastos erogados al Ministerio Público para que éste los integre al expediente para efectos de pago de la reparación del daño y en el momento procesal oportuno se realice el cobro de los mismos al inculpado, sentenciado o tercero civilmente responsable aplicándose su recuperación en favor del Fondo.
+La víctima u ofendido tendrá derecho a recibir de forma gratuita atención psicológica y médica especializada por parte del Sistema Estatal de Salud de Guanajuato, en los términos de lo previsto en esta Ley y su Reglamento. La institución de salud que brinde el servicio deberá hacer llegar los comprobantes de los gastos erogados al Ministerio Público para que éste los integre al expediente para efectos de pago de la reparación del daño y en el momento procesal oportuno se realice el cobro de los mismos al inculpado o sentenciado aplicándose su recuperación en favor del Fondo.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -187,13 +235,21 @@ Las medidas de atención y protección consisten en:
 
 I. Asistencia médica, psicológica y psiquiátrica: Comprenderá los servicios que resulten necesarios para las víctimas u ofendidos que hayan sufrido, como consecuencia directa de la comisión de conductas susceptibles de ser tipificadas como delitos que afecten la vida o la salud, daños físicos o mentales que ameriten atención médica, psicológica o psiquiátrica;
 
-II. Asistencia jurídica: Que consiste en asesoría para el ejercicio de los derechos que son reconocidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política para el Estado de Guanajuato, en esta Ley y en las demás leyes aplicables;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+II. Asesoría jurídica: Que consiste en asesoría, orientación y representación para el ejercicio de los derechos que son reconocidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política para el Estado de Guanajuato, los Tratados Internacionales, en esta Ley y en las demás leyes aplicables;
 
 III. Asistencia social y de prevención victimológica: Información, ayuda y orientación para superar la problemática familiar o de entorno social causada por la comisión de la conducta susceptible de ser tipificada como delito, lo que incluirá dictamen victimológico en el que se expongan los factores que influyeron en la victimización a fin de evitarla en lo futuro, además de las reacciones mediatas e inmediatas que se deben observar al ser víctima u ofendido;
 
 IV. Ayuda económica: La que se otorgará a la víctima u ofendido· que por su situación económica no pueda solventar las necesidades originadas como consecuencia directa o inmediata de la comisión de la conducta susceptible de ser tipificada como delito; y
 
-V. Providencias· de protección: Son las que deberán prestarse siempre que existan datos suficientes de los que se desprenda un riesgo fundado para la victima u ofendido; se proporcionarán tomando las medidas necesarias para proteger su vida, integridad física y patrimonio, así como de sus familiares directos, testigos de cargo y dependientes directos de éstos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+V. Medidas de protección: Son las que deberán prestarse siempre que existan datos suficientes de los que se desprenda un riesgo fundado para la víctima u ofendido; se proporcionarán tomando las medidas necesarias para proteger su vida, integridad física y patrimonio, así como de sus familiares directos, testigos de cargo y dependientes directos de éstos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -245,19 +301,23 @@ Las dependencias y entidades de la administración pública estatal o municipal,
 
 La Procuraduría General de Justicia del Estado vigilará que se cumplan los derechos de las víctimas y de los ofendidos en las distintas etapas del procedimiento penal; y coordinará las acciones tendientes a proporcionarles las medidas a que se refiere el artículo 12 de esta ley. Para tal efecto la misma Procuraduría, concertará acciones con organismos públicos y privados y con otras instituciones que por la naturaleza de sus funciones estén relacionadas con el apoyo a la víctima o al ofendido.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 17.
 
-La Procuraduría General de Justicia del Estado celebrará acuerdos o convenios de coordinación y colaboración con las procuradurías de justicia de los demás estados, del Distrito Federal, y de la Procuraduría General de la República, para que la víctima o el ofendido reciban una adecuada atención y tengan expeditos los derechos que le otorga la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política para el Estado de Guanajuato, esta Ley y demás disposiciones jurídicas aplicables.
+La Procuraduría General de Justicia del Estado celebrará acuerdos o convenios de coordinación y colaboración con las procuradurías de justicia de los demás estados, del Distrito Federal, y de la Procuraduría General de la República, para que la víctima o el ofendido reciban una adecuada atención y tengan expeditos los derechos que le otorga la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política para el Estado de Guanajuato, los Tratados Internacionales, esta Ley y demás disposiciones jurídicas aplicables.
 
 ###### Artículo 18.
 
 La Procuraduría General de Justicia del Estado proporcionará a la víctima y al ofendido:
 
-I. Asesoría jurídica gratuita, pronta, completa e imparcial por parte del agente del Ministerio Público;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+I. Asesoría jurídica penal gratuita, pronta, completa e imparcial por parte del agente del ministerio público o de los Asesores Jurídicos adscritos a la Unidad, según corresponda;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -269,13 +329,13 @@ III. Asesoría, orientación y gestión de apoyos de tipo asistencial y social, 
 
 IV. Las demás que le encomiende el Consejo y la presente ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 19.
 
-El Ministerio Público deberá informar a la víctima o al ofendido desde su primera intervención en la investigación, de los derechos que en su favor establece la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política para el Estado, debiendo dejar constancia en el expediente y remitir copia a la Coordinación.
+El Ministerio Público deberá informar a la víctima o al ofendido desde su primera intervención en la investigación, de los derechos que en su favor le reconocen en ese momento procedimental la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política para el Estado de Guanajuato, los Tratados Internacionales, y las leyes que de ellos emanen, debiendo dejar constancia en el expediente y remitir copia a la Coordinación.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -329,17 +389,29 @@ La Secretaría de Salud otorgará a la víctima u ofendido, la atención médica
 
 Cuando así se solicite y la índole de la afectación lo amerite, se procurará que la atención esté a cargo de una persona del mismo sexo que la víctima u ofendido y podrá brindarse en el domicilio de ésta.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 26.
 
-Los apoyos señalados en esta Ley que se otorguen a la víctima o al ofendido no podrán ser mayores que la afectación producida por el delito. Los apoyos que se presten serán los necesarios para atender las consecuencias de la comisión del delito en términos de esta Ley y su Reglamento. Los gastos y erogaciones que se originen por la prestación de estos apoyos se documentarán para realizar el trámite para su cobro al inculpado, sentenciado o tercero civilmente responsable, en el momento procesal oportuno, el cual se aplicará a favor del Fondo.
+Los apoyos señalados en esta Ley que se otorguen a la víctima o al ofendido no podrán ser mayores que la afectación producida por el delito. Los apoyos que se presten serán los necesarios para atender las consecuencias de la comisión del delito en términos de esta Ley y su Reglamento y demás legislación aplicable. Los gastos y erogaciones que se originen por la prestación de estos apoyos se documentarán para realizar el trámite para su cobro al inculpado, sentenciado o tercero civilmente responsable, en el momento procesal oportuno, el cual se aplicará a favor del Fondo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 Los gastos y erogaciones que se originen por la prestación de las medidas de atención, protección, apoyos o servicios otorgados a las víctimas u ofendidos, darán derecho tanto a su restitución como a la reparación del daño, en los términos que dispone el Código Penal del Estado de Guanajuato.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
 Para lo anterior, será necesario acreditar la erogación realizada y los gastos efectuados, además de que éstos guarden relación directa con la atención que se prestó a la víctima u ofendido, generada por la comisión de una conducta susceptible de ser tipificada como delito.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 La Coordinación sujetándose al reglamento de esta Ley, deberá remitir al Ministerio Público la documental que compruebe los gastos y erogaciones aludidos o, la víctima u ofendido presentarla cuando se le requiera, para proceder a la solicitud de la condena de reparación del daño a cargo del inculpado y a favor del Fondo.
 
@@ -359,17 +431,61 @@ El Sistema para el Desarrollo Integral de la Familia y la Secretaría de Desarro
 
 La Procuraduría General de Justicia del Estado y el Sistema para el Desarrollo Integral de la Familia, en el ámbito de sus respectivas competencias, proporcionarán asesoría, protección y asistencia a menores, adultos mayores, personas con discapacidad o con alta vulnerabilidad social, que se encuentren en situación de víctimas u ofendidos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 29.
 
-La Secretaría de Seguridad Pública directamente o en coordinación con los cuerpos de seguridad pública de los municipios atenderá en el ámbito de su competencia a las víctimas y a los ofendidos. Tendrá las obligaciones que le impone la ley de la materia, dando especial importancia a las solicitudes que se promuevan por la víctima o el ofendido de manera directa o (sic) través del agente del Ministerio Público.
+La Secretaría de Seguridad Pública directamente o en coordinación con los cuerpos de seguridad pública de los municipios atenderá en el ámbito de su competencia a las víctimas y a los ofendidos. Tendrá las obligaciones que le impone la ley de la materia, dando especial importancia a las solicitudes que se promuevan por la víctima o el ofendido de manera directa o través de su Asesor Jurídico o del agente del ministerio público.
 
-#### SECCIÓN SEGUNDA. DEL CONSEJO DE ATENCIÓN Y APOYO PARA LAS VÍCTIMAS Y OFENDIDOS DEL DELITO
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-#### SECCIÓN TERCERA. DEL FONDO PARA LA ATENCIÓN Y APOYO A LAS VÍCTIMAS Y A LOS OFENDIDOS DEL DELITO
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+#### SECCIÓN SEGUNDA. DE LA ASESORÍA JURÍDICA PENAL A VÍCTIMAS Y OFENDIDOS DEL DELITO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 29 Bis.
+
+La Asesoría Jurídica penal a víctimas y ofendidos del delito, cuando así proceda, conforme al marco jurídico aplicable, se otorgará a través de los Asesores Jurídicos adscritos a la Unidad.
+
+La Asesoría Jurídica comprende la orientación, asesoría o intervención legal en el procedimiento penal en representación de la víctima u ofendido.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 29 Ter.
+
+Los Asesores Jurídicos adscritos a la Unidad, tendrán las siguientes atribuciones:
+
+I. Brindar durante cualquier etapa del procedimiento, asistencia jurídica gratuita en materia penal, a la víctima u ofendido;
+
+II. Intervenir y replicar en las audiencias, en representación de la víctima u ofendido cuantas veces y en el orden que lo autorice el Órgano Jurisdiccional;
+
+III. Informar, cuando así se solicite por la víctima u ofendido, sobre el desarrollo del procedimiento penal;
+
+IV. Promover lo conducente dentro del procedimiento penal, informándolo previamente a la víctima u ofendido;
+
+V. Formular preguntas al imputado, si es que éste decide libremente declarar, así como a los testigos o peritos durante el desarrollo del interrogatorio ante la autoridad competente;
+
+VI. Ofrecer durante el procedimiento penal medios de prueba de la víctima u ofendido;
+
+VII. Exponer alegatos de clausura; y
+
+VIII. Las demás que señalen las leyes.
+
+Cuando la víctima u ofendido tuviera alguna discapacidad, sea extranjero o perteneciere a un pueblo o comunidad indígena, el Asesor Jurídico deberá tener conocimiento de su lengua y cultura y, en caso de que no fuere posible, deberá actuar asistido de un intérprete que tenga dicho conocimiento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+(REUBICADA [N. DE E. ANTES SECCIÓN SEGUNDA, P.O. 28 DE NOVIEMBRE DE 2014)
+
+#### SECCIÓN TERCERA. DEL CONSEJO DE ATENCIÓN Y APOYO PARA LAS VÍCTIMAS Y OFENDIDOS DEL DELITO
 
 ###### Artículo 30.
 
@@ -527,11 +643,15 @@ XIII. Las demás establecidas por el Consejo.
 
 (DEROGADO, P.O. 12 DE AGOSTO DE 2011)
 
-#### SECCIÓN ÚNICA. DE LA PARTICIPACIÓN INTERINSTITUCIONAL EN LA PREVENCIÓN
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+(REUBICADA [N. DE E. ANTES SECCIÓN TERCERA, P.O. 28 DE NOVIEMBRE DE 2014)
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+#### SECCIÓN CUARTA. DEL FONDO PARA LA ATENCIÓN Y APOYO A LAS VÍCTIMAS Y A LOS OFENDIDOS DEL DELITO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 35.
 
@@ -549,19 +669,15 @@ I. La cantidad que se recabe por concepto de garantías económicas en materia p
 
 II. Las cantidades reintegradas que por concepto de pago de la reparación del daño se cubran a las personas que por su carácter de víctimas u ofendidos hayan recibido servicios de asistencia en términos de esta Ley, en la parte que corresponda a los servicios prestados, así como el pago determinado en favor del Fondo, cuando éste hubiera erogado gastos que conforme a la legislación penal, deban ser a cargo del obligado a la reparación del daño;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 12 DE AGOSTO DE 2011)</small>
-
-III. Las multas impuestas por el Ministerio Público o por la Visitaduría General de la Procuraduría General de Justicia del Estado;
+III. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2014)
 
 IV. Las aportaciones que al respecto le otorgue el Gobierno del Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2011)</small>
-
-V. El producto de la venta de los bienes abandonados;
+V. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2014)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -580,6 +696,38 @@ VII. Los rendimientos que se obtengan de las inversiones y reinversiones de los 
 > <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2011)</small>
 
 VIII. Por el pago de la reparación del daño causado, cuando se trate de hechos punibles que afecten intereses colectivos o difusos o que afecten el patrimonio del Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+IX. El monto de las garantías económicas que se hagan efectivas;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+X. El porcentaje que corresponda del numerario decomisado y de los recursos que se obtengan por la enajenación de los bienes decomisados, una vez satisfecha la reparación a la víctima conforme a lo dispuesto en el Código Nacional de Procedimientos Penales;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XI. El monto de las reparaciones del daño no reclamadas;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XII. El 50% de los ingresos obtenidos por los derechos establecidos por la expedición de constancias por parte de la Procuraduría General de Justicia del Estado de Guanajuato;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XIII. El 50% de otros ingresos propios que genere la Procuraduría General de Justicia del Estado; y
+
+XIV. Las demás que prevean las Leyes.
 
 > <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
@@ -647,7 +795,11 @@ Los lineamientos, directrices, criterios y políticas para el manejo del Fondo s
 
 ### CAPÍTULO IV. DE LA PARTICIPACIÓN CIUDADANA E INTERINSTITUCIONAL EN LA PREVENCIÓN
 
-#### SECCIÓN ÚNICA. MEDIOS DE IMPUGNACIÓN
+#### SECCIÓN ÚNICA. DE LA PARTICIPACIÓN INTERINSTITUCIONAL EN LA PREVENCIÓN
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 42.
 
@@ -709,7 +861,7 @@ Para el fortalecimiento de la cultura de prevención del delito con la participa
 
 ### CAPÍTULO V. DE LOS MEDIOS DE IMPUGNACIÓN
 
-#### SECCIÓN ÚNICA. DE LAS SANCIONES
+#### SECCIÓN ÚNICA. MEDIOS DE IMPUGNACIÓN
 
 ###### ARTÍCULO 48.
 
@@ -720,6 +872,8 @@ Las resoluciones que afecten a las víctimas por actos de las autoridades consig
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE AGOSTO DE 2011)</small>
 
 ### CAPÍTULO VI. DE LAS SANCIONES
+
+#### SECCIÓN ÚNICA. DE LAS SANCIONES
 
 ###### Artículo 49.
 
@@ -764,3 +918,21 @@ P.O. 7 DE JUNIO DE 2013.
 Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
+
+P.O. 28 DE NOVIEMBRE DE 2014.
+
+TRANSITORIOS DEL ARTÍCULO SEXTO DEL DECRETO NÚMERO 194.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Artículo entrará en vigencia el día 1 de junio de 2016.
+
+Ultractividad
+
+Artículo Segundo. Las disposiciones de la presente Ley que se derogan o reforman por virtud de este Artículo, conforme al Artículo Primero Transitorio, continuarán aplicándose en lo conducente a los asuntos iniciados previamente a su entrada en vigor, así como en los iniciados con posterioridad que se rijan por el Código de Procedimientos Penales para el Estado de Guanajuato y por la Ley del Proceso Penal para el Estado de Guanajuato.
+
+TRANSITORIO DEL DECRETO
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto entrará en vigencia en los términos que se precisan en cada uno de los artículos que lo conforman.
