@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-tribunal-de-lo-contencioso-administrativo-7002
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-10"
-last_updated: "2014-07-21"
+last_updated: "2014-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70025&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-08-28"
 
 LEY ORGÁNICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 10 de septiembre de 2009.
 
@@ -506,7 +506,9 @@ III. Suspensión del empleo hasta por quince días;
 
 IV. Destitución del puesto;
 
-V. Multa económica de 50 a 180 días de salario mínimo general vigente en el Distrito Federal; e
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+V. Multa económica de 50 a 180 veces la Unidad de Cuenta de la Ciudad de México vigente; e
 
 VI. Inhabilitación temporal o definitiva para desempeñar empleo, cargo o comisión en el propio Tribunal.
 
@@ -578,7 +580,9 @@ I. Apercibimiento o amonestación;
 
 II. Expulsión de la Sala, de la parte o de su representante legal, que altere el orden;
 
-III. Multa de 30 a 180 días de salario mínimo general vigente en el Distrito Federal;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+III. Multa de 30 a 180 veces la Unidad de Cuenta de la Ciudad de México vigente;
 
 IV. Auxilio de la fuerza pública; y
 
@@ -596,7 +600,7 @@ Las Salas del Tribunal no admitirán promociones o solicitudes, incluyendo recur
 
 El pago no admitido de una contribución por la autoridad fiscal, podrá ser consignado por el contribuyente, mediante escrito dirigido a este Tribunal, acompañando cheque certificado o de caja a nombre de la Tesorería del Distrito Federal, y el “Formato respectivo de la Tesorería”, en el que aparezca la determinación del crédito.
 
-Recibido por este Órgano Jurisdiccional y por el Presidente del Tribunal de lo Contencioso Administrativo del Distrito Federal, éste lo remitirá a la autoridad fiscal en el término de dos días hábiles a partir de su recepción, en el caso que no reúna los requisitos señalados en el párrafo anterior, se prevendrá por única ocasión, a efecto de que se subsane la (sic) deficiencias, para lo cual contará con un término de tres días hábiles, si fuere omiso o no cumpliere con lo requerido se tendrá por no hecha la consignación, ordenando la devolución de los documentos presentados.
+Recibido por este Órgano Jurisdiccional y por el Presidente del Tribunal de lo Contencioso Administrativo del Distrito Federal, éste lo remitirá a la autoridad fiscal en el término de dos días hábiles a partir de su recepción, en el caso que no reúna los requisitos señalados en el párrafo anterior, se prevendrá por única ocasión, a efecto de que se subsane la deficiencias (sic), para lo cual contará con un término de tres días hábiles, si fuere omiso o no cumpliere con lo requerido se tendrá por no hecha la consignación, ordenando la devolución de los documentos presentados.
 
 > <small>(ADICIONADO, G.O. 24 DE JULIO DE 2012)</small>
 
@@ -658,7 +662,9 @@ II. Nulidad de notificaciones; e
 
 III. Interrupción del procedimiento.
 
-Los incidentes ajenos al negocio principal o notoriamente frívolos e improcedentes, deberán ser desechados por los Magistrados, pudiendo imponer a quien lo promueva una multa de diez a cincuenta veces el salario mínimo general vigente en el Distrito Federal.
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Los incidentes ajenos al negocio principal o notoriamente frívolos e improcedentes, deberán ser desechados por los Magistrados, pudiendo imponer a quien lo promueva una multa de diez a cincuenta veces la Unidad de Cuenta de la Ciudad de México vigente.
 
 > <small>(ADICIONADO, G.O. 24 DE JULIO DE 2012)</small>
 
@@ -892,7 +898,9 @@ Si la Sala Superior considera fundada la recusación, el recusado será substitu
 
 Si se trata de algún Magistrado de la Sala Superior, el mismo deberá de abstenerse de conocer del asunto.
 
-Si se declarare infundada la recusación interpuesta, la Sala Superior, decidirá de acuerdo con su prudente arbitrio si hubo mala fe por parte de quien la haya hecho valer, y en tal caso, le impondrá una sanción consistente en multa por el importe de diez a cincuenta veces el salario mínimo general vigente en el Distrito Federal en la fecha en que se haya interpuesto la recusación.
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Si se declarare infundada la recusación interpuesta, la Sala Superior, decidirá de acuerdo con su prudente arbitrio si hubo mala fe por parte de quien la haya hecho valer, y en tal caso, le impondrá una sanción consistente en multa por el importe de diez a cincuenta veces la Unidad de Cuenta de la Ciudad de México vigente en la fecha en que se haya interpuesto la recusación.
 
 ### CAPITULO VI. Demanda y Contestación
 
@@ -1170,7 +1178,9 @@ A fin de que las partes puedan rendir sus pruebas, los funcionarios o autoridade
 
 Cuando sin causa justificada la autoridad demandada no expida las copias de los documentos ofrecidos por el demandante para probar los hechos imputados a aquélla y siempre que los documentos solicitados hubieran sido identificados con toda precisión tanto en sus características como en su contenido, se presumirán ciertos los hechos que pretenda probar con esos documentos.
 
-En los casos en que la autoridad requerida no sea parte e incumpla, el Magistrado Instructor podrá hacer valer como medida de apremio la imposición de una multa por el monto equivalente de entre cincuenta y cien veces el salario mínimo general vigente en el Distrito Federal, al funcionario omiso. También podrá comisionar al Secretario o Actuario que deba recabar la certificación omitida u ordenar la compulsa de los documentos exhibidos por las partes, con los originales que obren en poder de la autoridad.
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+En los casos en que la autoridad requerida no sea parte e incumpla, el Magistrado Instructor podrá hacer valer como medida de apremio la imposición de una multa por el monto equivalente de entre cincuenta y cien veces la Unidad de Cuenta de la Ciudad de México vigente, al funcionario omiso. También podrá comisionar al Secretario o Actuario que deba recabar la certificación omitida u ordenar la compulsa de los documentos exhibidos por las partes, con los originales que obren en poder de la autoridad.
 
 Cuando se soliciten copias de documentos que no puedan proporcionarse en la práctica administrativa normal, las autoridades podrán solicitar un plazo adicional para realizar las diligencias extraordinarias que el caso amerite y si al cabo de éstas no se localizan, el Magistrado Instructor presumirá ciertos los hechos que pretenda probar con esos documentos.
 
@@ -1210,11 +1220,19 @@ IV. Por una sola vez, por la causa que lo justifique y antes de vencer los plazo
 
 V. El perito tercero será designado por el Magistrado Instructor. En el caso de que no hubiere perito en la ciencia o arte sobre el cual verse el peritaje, el Magistrado Instructor designará bajo su responsabilidad a la persona que debe rendir dicho dictamen y las partes cubrirán sus honorarios. Cuando haya lugar a designar perito tercero valuador, el nombramiento deberá recaer en una institución fiduciaria, debiendo cubrirse sus honorarios por las partes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 117.
 
-Los testigos, que no podrán exceder de tres por cada hecho, deberán ser presentados por el oferente. Sin embargo cuando estuviere imposibilitado para hacerlo, lo manifestará así bajo protesta de decir verdad y pedirá que se les cite. El Magistrado Instructor ordenará la citación con apercibimiento de arresto hasta por veinticuatro horas y de no comparecer o de negarse a declarar, se le impondrá una multa de 1 a 15 días de salario mínimo general vigente en el Distrito Federal.
+Los testigos, que no podrán exceder de tres por cada hecho, deberán ser presentados por el oferente.
 
-En caso de que el señalamiento de domicilio de algún testigo resulte inexacto o de comprobarse que se solicitó su citación con el propósito de retardar el procedimiento, se impondrá al oferente una multa de 1 a 30 días de salario mínimo general vigente en el Distrito Federal, en el momento de imponerse la misma, debiendo declararse desierta la prueba testimonial.
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Sin embargo cuando estuviere imposibilitado para hacerlo, lo manifestará así bajo protesta de decir verdad y pedirá que se les cite. El Magistrado Instructor ordenará la citación con apercibimiento de arresto hasta por veinticuatro horas y de no comparecer o de negarse a declarar, se le impondrá una multa de 1 a 15 veces la Unidad de Cuenta de la Ciudad de México vigente.
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+En caso de que el señalamiento de domicilio de algún testigo resulte inexacto o de comprobarse que se solicitó su citación con el propósito de retardar el procedimiento, se impondrá al oferente una multa de 1 a 30 veces la Unidad de Cuenta de la Ciudad de México vigente, en el momento de imponerse la misma, debiendo declararse desierta la prueba testimonial.
 
 Cuando los testigos tengan su domicilio fuera del Distrito Federal, se podrá desahogar la prueba mediante exhorto, previa calificación hecha por el Magistrado Instructor del interrogatorio presentado, pudiendo repreguntar el Magistrado o Juez que desahogue el exhorto. Para diligenciar el exhorto el Magistrado Instructor podrá solicitar el auxilio de algún Juez o Magistrado del Poder Judicial del Fuero Común o de algún Tribunal Administrativo Local que corresponda al domicilio del testigo.
 
@@ -1410,7 +1428,9 @@ En caso de incumplimiento de sentencia firme, el actor podrá, por una sola vez,
 
 Se interpondrá por escrito ante el Magistrado que corresponda, en dicho escrito se expresarán las razones por las que se considera que hubo exceso o defecto en el cumplimiento de la sentencia, repetición de la resolución anulada, o bien, se expresará la omisión en el cumplimiento de la resolución de que se trate.
 
-El Magistrado Instructor pedirá un informe a la autoridad a quien se impute el incumplimiento de sentencia, que deberá rendir dentro del plazo de cinco días, vencido dicho plazo, con informe o sin él, la Sala resolverá si la autoridad ha cumplido con los términos de la sentencia, de lo contrario, la requerirá para que cumpla en un término de otros cinco días, amonestándola y previniéndola de que en caso de renuencia se le impondrá una multa de cincuenta a ciento ochenta días de salario mínimo general vigente para el Distrito Federal.
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+El Magistrado Instructor pedirá un informe a la autoridad a quien se impute el incumplimiento de sentencia, que deberá rendir dentro del plazo de cinco días, vencido dicho plazo, con informe o sin él, la Sala resolverá si la autoridad ha cumplido con los términos de la sentencia, de lo contrario, la requerirá para que cumpla en un término de otros cinco días, amonestándola y previniéndola de que en caso de renuencia se le impondrá una multa de cincuenta a ciento ochenta veces la Unidad de Cuenta de la Ciudad de México vigente.
 
 ### CAPITULO XIII. De los Recursos
 
@@ -1472,7 +1492,9 @@ VI. Cuando el negocio sea de importancia y trascendencia, debiendo el recurrente
 
 VII. Cuando se trate de resoluciones en materia de responsabilidades administrativas de los servidores públicos o la ley que resulte aplicable; y
 
-VIII. Cuando el valor del negocio exceda de 20 veces el salario mínimo general vigente elevado al año en el Distrito Federal, al momento de emitirse la resolución de que se trate.
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+VIII. Cuando el valor del negocio exceda de 7,200 veces la Unidad de Cuenta de la Ciudad de México vigente, al momento de emitirse la resolución de que se trate.
 
 ### CAPITULO XIV. De la Jurisprudencia
 
@@ -1510,23 +1532,37 @@ Las Salas del Tribunal están obligadas a aplicar la jurisprudencia del Tribunal
 
 El juicio contencioso administrativo a que se refiere esta Ley se tramitará y resolverá en la vía sumaria, de conformidad con las disposiciones específicas que para su simplificación y abreviación se establecen en este Capítulo y, en lo no previsto, se aplicarán las demás disposiciones de esta Ley.
 
-> <small>(ADICIONADO, G.O. 24 DE JULIO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 147.
 
-Cuando se impugnen resoluciones definitivas cuyo importe no exceda de dos veces el salario mínimo general vigente en el Distrito Federal elevado al año al momento de su emisión, procederá el Juicio en la vía Sumaria siempre que se trate de alguna de las resoluciones definitivas siguientes:
+Cuando se impugnen resoluciones definitivas cuyo importe no exceda de 720 veces la Unidad de Cuenta de la Ciudad de México vigente al momento de su emisión, procederá el Juicio en la vía Sumaria siempre que se trate de alguna de las resoluciones definitivas siguientes:
+
+> <small>(ADICIONADA, G.O. 24 DE JULIO DE 2012)</small>
 
 I. Las dictadas por autoridades del Distrito Federal, por las que se fije en cantidad líquida un crédito fiscal;
 
+> <small>(ADICIONADA, G.O. 24 DE JULIO DE 2012)</small>
+
 II. Las que únicamente impongan multas o sanciones, pecuniaria o restitutoria, por infracción a las normas administrativas vigentes en el Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 24 DE JULIO DE 2012)</small>
 
 III. Las que exijan el pago de créditos fiscales, cuando el monto de los exigibles no exceda el importe citado;
 
+> <small>(ADICIONADA, G.O. 24 DE JULIO DE 2012)</small>
+
 IV. Las recaídas a un recurso administrativo, cuando la impugnada sea alguna de las consideradas en los incisos anteriores y el importe de esta última, no exceda el antes señalado.
+
+> <small>(ADICIONADO, G.O. 24 DE JULIO DE 2012)</small>
 
 Para determinar la cuantía en los casos de las fracciones I, II y III, sólo se considerará el crédito principal sin accesorios ni actualizaciones.
 
+> <small>(ADICIONADO, G.O. 24 DE JULIO DE 2012)</small>
+
 Cuando en un mismo acto se contenga más de una determinación de las mencionadas anteriormente no se acumulará el monto de cada una de ellas para efectos de determinar la procedencia de esta vía.
+
+> <small>(ADICIONADO, G.O. 24 DE JULIO DE 2012)</small>
 
 La demanda deberá presentarse por escrito dirigido al Tribunal, dentro de los quince días siguientes a aquél en que surta efectos la notificación de la resolución impugnada o del día siguiente al que se hubiera tenido conocimiento u ostentado sabedor del mismo o de su ejecución.
 
@@ -1727,3 +1763,13 @@ G.O. 21 DE JULIO DE 2014.
 PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
