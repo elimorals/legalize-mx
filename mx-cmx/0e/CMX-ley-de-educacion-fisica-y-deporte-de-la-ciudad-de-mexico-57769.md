@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-educacion-fisica-y-deporte-de-la-ciudad-de-mexico-57769"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-04"
-last_updated: "2013-08-08"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57769&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-12-12"
 
 LEY DE EDUCACIÓN FÍSICA Y DEPORTE DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 4 de enero de 2008.
 
@@ -42,9 +42,13 @@ ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL IV LEGISLATURA.
 
 D E C R E T A
 
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO CUARTO DEL DECRETO SIN NÚMERO, PUBLICADO EN LA G.O. DE 28 DE NOVIEMBRE DE 2014, LAS REFERENCIAS QUE SE HAGAN DEL SALARIO MÍNIMO EN LAS NORMAS LOCALES VIGENTES, INCLUSO EN AQUELLAS PENDIENTES DE PUBLICAR O DE ENTRAR EN VIGOR, SE ENTENDERÁN HECHAS A LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO, A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.</small>
+
 DECRETO POR EL QUE SE EXPIDE LA LEY DE EDUCACIÓN FÍSICA Y DEPORTE DEL DISTRITO FEDERAL.
 
 Artículo Único.- Se expide la Ley de Educación Física y Deporte del Distrito Federal para quedar como sigue:
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO CUARTO DEL DECRETO SIN NÚMERO, PUBLICADO EN LA G.O. DE 28 DE NOVIEMBRE DE 2014, LAS REFERENCIAS QUE SE HAGAN DEL SALARIO MÍNIMO EN LAS NORMAS LOCALES VIGENTES, INCLUSO EN AQUELLAS PENDIENTES DE PUBLICAR O DE ENTRAR EN VIGOR, SE ENTENDERÁN HECHAS A LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO, A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.</small>
 
 LEY DE EDUCACIÓN FÍSICA Y DEPORTE DEL DISTRITO FEDERAL.
 
@@ -126,7 +130,11 @@ Las funciones que conforme a esta Ley corresponden al Sistema estarán a cargo d
 
 Las instituciones educativas públicas y privadas promoverán el deporte en sus planteles, de conformidad a los programas educativos diseñados por la autoridad competente, por lo que cuidarán que se imparta la clase de educación física cuando menos tres veces por semana; en caso de no contar con el espacio suficiente podrán utilizar las instalaciones deportivas públicas más cercanas previa autorización de la autoridad delegacional correspondiente.
 
-Las instituciones educativas privadas podrán permitir el acceso y uso de sus instalaciones a sus alumnos y a los padres de familia de éstos; y en su caso los deportistas y/o habitantes del Distrito Federal, ajenos a los Planteles; dentro de los horarios y condiciones que establezca su Reglamento respectivo; por lo que hace a los deportistas y/o habitantes del Distrito Federal se les podrá cobrar una cuota de recuperación para el mantenimiento de sus instalaciones, la cual será de un salario diario vigente en el Distrito Federal, al momento de realizarse la actividad o deporte.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Las instituciones educativas privadas podrán permitir el acceso y uso de sus instalaciones a sus alumnos y a los padres de familia de éstos; y en su caso los deportistas y/o habitantes del Distrito Federal, ajenos a los Planteles; dentro de los horarios y condiciones que establezca su Reglamento respectivo; por lo que hace a los deportistas y/o habitantes del Distrito Federal se les podrá cobrar una cuota de recuperación para el mantenimiento de sus instalaciones, la cual será de una vez la Unidad de Cuenta de la Ciudad de Méxicovigente (sic), al momento de realizarse la actividad o deporte.
 
 ###### Artículo 11.
 
@@ -572,7 +580,7 @@ d) Haber obtenido triunfos trascendentales en competiciones organizadas por las 
 
 ###### Artículo 35.
 
-Los deportistas con discapacidad física, intelectual o sensorial o enfermedad mental se considerarán de alto rendimiento cumpliendo los requisitos citados, en atención a su trayectoria deportiva y relevancia social, la obtención de esta condición. (sic)
+Los deportistas con discapacidad física, intelectual o sensorial o enfermedad mental se considerarán de alto rendimiento cumpliendo los requisitos citados, en atención a su trayectoria deportiva y relevancia social, la obtención de esta condición.
 
 ###### Artículo 36.
 
@@ -957,3 +965,13 @@ G.O. 8 DE AGOSTO DE 2013.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal, y en el Diario Oficial de la Federación para su mayor difusión.
 
 SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.G. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
