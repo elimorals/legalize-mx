@@ -4,7 +4,7 @@ identifier: "TLA-ley-de-atencion-y-proteccion-a-victimas-y-ofendidos-del-100777"
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-03"
-last_updated: "2014-05-03"
+last_updated: "2014-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS Y OFENDIDOS DEL DELITO PARA EL ESTADO DE TLAXCALA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el No. Extraordinario del Periódico Oficial del Estado de Tlaxcala, el sábado 3 de mayo del 2014.
 
@@ -41,9 +41,15 @@ LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS Y OFENDIDOS DEL DELITO PARA EL ESTADO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 1.
 
-La presente ley es de orden público, interés social y de observancia general en el territorio del Estado Libre y Soberano de Tlaxcala. Tiene por objeto garantizar a las víctimas y ofendidos de los delitos y de violaciones a los derechos humanos que les reconocen la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales celebrados y ratificados por el Estado Mexicano, la Constitución Política del Estado Libre y Soberano de Tlaxcala y demás disposiciones aplicables; así como establecer las bases para la implementación y funcionamiento de las medidas para su atención y protección, y asegurar la restitución de sus derechos de manera prioritaria y de ser posible, inmediata.
+La presente ley es de orden público, interés social y de observancia general en el territorio del Estado Libre y Soberano de Tlaxcala. Tiene por objeto garantizar a las víctimas y ofendidos de los delitos y de violaciones a los derechos humanos que les reconocen la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales celebrados y ratificados por el Estado Mexicano, la Constitución Política del Estado Libre y Soberano de Tlaxcala, la Ley General de Víctimas y demás disposiciones aplicables; así como establecer las bases para la implementación y funcionamiento de las medidas para su atención y protección, y asegurar la restitución de sus derechos de manera prioritaria y de ser posible, inmediata.
+
+Esta Ley será de aplicación complementaria y, en su caso, supletoria a la Ley General de Víctimas.
+
+La presente Ley obliga, a sus respectivas competencias, a las autoridades del Gobierno del Estado, de los Municipios, así como de sus poderes constitucionales, y a cualquiera de sus oficinas, dependencias, organismos o instituciones públicas o privadas cuyas facultades, funciones o atribuciones estén relacionadas con la ayuda, asistencia, protección o reparación integral a las víctimas.
 
 ###### Artículo 2.
 
@@ -59,19 +65,53 @@ IV. Establecer los deberes y obligaciones específicos a cargo de las autoridade
 
 V. Establecer las sanciones respecto al incumplimiento por acción o por omisión de cualquiera de sus disposiciones.
 
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+VI. Determinar la intervención y coordinación que en términos de la Ley General de Víctimas deberán observar las autoridades del Estado, los Municipios, las organizaciones de la sociedad civil y todos aquellos que intervengan en los procedimientos relacionados con las víctimas, y
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+VII. Establecer los mecanismos e instancias que emitirán las políticas para la protección de las víctimas en términos de lo previsto en la Ley General de Víctimas.
+
 ###### Artículo 3.
 
 La calidad de víctima no se encuentra sujeta a que se identifique, aprehenda, enjuicie o condene al responsable del daño, así como a la existencia de cualquier relación de parentesco, laboral o afectiva entre el responsable y aquella.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 4.
 
-Para los efectos de esta Ley, se consideran víctimas aquellas personas físicas que hayan sufrido directa o indirectamente algún daño o menoscabo económico, físico, mental, emocional o en general, cualquier riesgo o lesión a sus bienes jurídicos o derechos, como consecuencia de la comisión de un delito o violaciones a sus derechos humanos reconocidos en la Constitución Federal, en los Tratados Internacionales, la Constitución Política del Estado Libre y Soberano de Tlaxcala, legislación penal vigente y demás normatividad aplicable, derivada de una averiguación previa, un procedimiento penal, o administrativo, o en su caso de una carpeta de investigación.
+Para los efectos de esta Ley, se consideran víctimas aquellas personas físicas que hayan sufrido directa o indirectamente algún daño o menoscabo económico, físico, mental, emocional o en general, cualquier riesgo o lesión a sus bienes jurídicos o derechos, como consecuencia de la comisión de un delito o violaciones a sus derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales, la Constitución Política del Estado Libre y Soberano de Tlaxcala, legislación penal vigente y demás normatividad aplicable, derivada de una averiguación previa, un procedimiento penal, o administrativo, o en su caso de una carpeta de investigación.
 
 También se consideran víctimas los grupos, comunidades u organizaciones sociales que hubieren sido afectadas en sus derechos, intereses o bienes jurídicos colectivos como resultado de la comisión de un delito o la violación de sus derechos humanos.
 
 La calidad de víctima se adquiere con la acreditación del daño o menoscabo de los derechos en los términos establecidos en la presente Ley, con independencia de que se identifique, aprehenda, o condene al responsable del daño o bien de que la víctima participe en algún procedimiento judicial o administrativo derivado de aquel.
 
 Se consideraran ofendidos, aquellos individuos que sufren en forma indirecta un daño material o moral con motivo de la comisión de un delito.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 4 bis. Para efectos de esta Ley, el otorgamiento de la calidad de víctima se realiza por la determinación de cualquiera de las siguientes autoridades:
+
+I. Por el órgano jurisdiccional durante el trámite del procedimiento penal o de justicia para adolescentes;
+
+II. Por el órgano jurisdiccional mediante sentencia ejecutoriada;
+
+III. El juez en materia de amparo, civil o familiar que tenga los elementos para acreditar que el sujeto es víctima;
+
+IV. Los órganos jurisdiccionales internacionales de protección de derechos humanos a los que México les reconozca competencia, y La Comisión Ejecutiva que podrá tomar en consideración las determinaciones de:
+
+a) El Ministerio Público;
+
+b) La autoridad responsable de la violación a los derechos humanos que le reconozca tal carácter;
+
+c) Los organismos públicos de protección de los derechos humanos, o
+
+d) Los organismos internacionales de protección de derechos humanos a los que México les reconozca competencia.
+
+El reconocimiento de la calidad de víctima tendrá como efecto que esta pueda acceder a los recursos del Fondo y a la reparación integral de conformidad con lo previsto en la presente Ley, el Reglamento y demás disposiciones correlativas.
+
+La Comisión Ejecutiva deberá estudiar el caso y, de ser procedente, dar el reconocimiento formal de la condición de víctima. A dicho efecto deberá tener en cuenta los informes de la autoridad competente, de los que se desprendan las situaciones para determinar que la persona que lo ha solicitado, podrá adquirir la condición de víctima.
 
 ###### Artículo 5.
 
@@ -123,7 +163,9 @@ XIV. Participación conjunta: Para prevenir y evitar la vulnerabilidad de las v�
 
 La víctima tiene derecho a colaborar con las investigaciones y las medidas para lograr superar su condición de vulnerabilidad, atendiendo al contexto, siempre y cuando las medidas no impliquen un detrimento a sus derechos.
 
-XV. Progresividad y no regresividad: Los servidores públicos que son sujetos obligados en los términos de las (sic) presente Ley tendrá (sic) la obligación de realizar todas las acciones necesarias para garantizar los derechos reconocidos en la misma y no podrán restringir, limitar, condicionar ni supeditar los derechos, estándares o niveles de cumplimiento alcanzados.
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XV. Progresividad y no regresividad: Los servidores públicos que son sujetos obligados en los términos de la presente Ley tendrán la obligación de realizar todas las acciones necesarias para garantizar los derechos reconocidos en la misma y no podrán restringir, limitar, condicionar ni supeditar los derechos, estándares o niveles de cumplimiento alcanzados.
 
 XVI. Publicidad: Todas las acciones, mecanismos y procedimientos deberán ser públicos, siempre que esto no vulnere los derechos humanos de las víctimas o las garantías para su protección.
 
@@ -137,45 +179,63 @@ El Estado y sus municipios deberán contar con un mecanismo eficaz de rendición
 
 XIX. Trato preferente: Todos los servidores públicos en el ámbito de sus respectivas competencias, tendrán la obligación de garantizar el trato digno y preferente a las víctimas
 
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XX. Empoderamiento y reintegración: Todas las acciones que se realicen en beneficio de las víctimas estarán orientadas a fortalecer su independencia, autodeterminación y desarrollo personal para que puedan lograr su completa recuperación, asumir el pleno ejercicio de sus derechos y retomar su proyecto de vida.
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XXI. Factibilidad: Las instituciones sujetas a esta Ley, están obligadas al diseño de políticas públicas y estrategias operativas viables, sustentables y de alcance definido en tiempo, espacio y previsión de recursos presupuestales, que permitan la articulación e implementación de esta Ley de forma armónica y garanticen la vigencia efectiva de los derechos de las víctimas.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 6.
 
 Para efectos de la presente ley se entenderá por:
 
-I. Código de Procedimientos. El Código Nacional de Procedimientos Penales;
+I. Asesor Jurídico: Asesor Jurídico del Estado para la Atención a Víctimas;
 
-II. Código Penal. El Código Penal para el Estado Libre y Soberano de Tlaxcala;
+II. Asesoría Jurídica: Asesoría Jurídica Estatal de Atención a Víctimas;
 
-III. Comisión Ejecutiva. La Comisión Ejecutiva de Atención a Víctimas y Ofendidos;
+III. Código de Procedimientos. El Código Nacional de Procedimientos Penales;
 
-IV. Compensación. A la erogación económica a que la víctima tenga derecho en los términos de esta Ley;
+IV. Código Penal. El Código Penal para el Estado Libre y Soberano de Tlaxcala;
 
-V. Daño. Muerte o lesiones corporales, daños o perjuicios morales y materiales, salvo a los bienes de propiedad de la persona responsable de los daños; pérdidas de ingresos directamente derivadas de un interés económico; pérdidas de ingresos directamente derivadas del uso del medio ambiente incurridas como resultado de un deterioro significativo del medio ambiente, teniendo en cuenta los ahorros y los costos; costo de las medidas de restablecimiento, limitado al costo de las medidas efectivamente adoptadas o que vayan a adoptarse; y costo de las medidas preventivas, incluidas cualesquiera pérdidas o daños causados por esas medidas, en la medida en que los daños deriven o resulten;
+V. Comisión Ejecutiva. La Comisión Ejecutiva de Atención a Víctimas y Ofendidos;
 
-VI. Delito. Acto u omisión que sancionan las leyes penales;
+VI. Compensación. A la erogación económica a que la víctima tenga derecho en los términos de esta Ley;
 
-VII. DIF. Sistema para el Desarrollo Integral de la Familia del Estado de Tlaxcala;
+VII. Daño. Muerte o lesiones corporales, daños o perjuicios morales y materiales, salvo a los bienes de propiedad de la persona responsable de los daños; pérdidas de ingresos directamente derivadas de un interés económico; pérdidas de ingresos directamente derivadas del uso del medio ambiente incurridas como resultado de un deterioro significativo del medio ambiente, teniendo en cuenta los ahorros y los costos; costo de las medidas de restablecimiento, limitado al costo de las medidas efectivamente adoptadas o que vayan a adoptarse; y costo de las medidas preventivas, incluidas cualesquiera pérdidas o daños causados por esas medidas, en la medida en que los daños deriven o resulten;
 
-VIII. Estado. El Estado Libre y Soberano de Tlaxcala;
+VIII. Delito. Acto u omisión que sancionan las leyes penales;
 
-IX. Fondo. El Fondo para la Ayuda, Asistencia y Reparación de las Víctimas y Ofendidos;
+IX. DIF. Sistema para el Desarrollo Integral de la Familia del Estado de Tlaxcala;
 
-X. Hecho victimizante. A los actos u omisiones que dañan, menoscaban o ponen en peligro los bienes jurídicos o derechos de una persona convirtiéndola en víctima. Éstos pueden estar tipificados como delito o constituir una violación a los derechos humanos reconocidos por la Constitución Federal, la particular del Estado, así como los Tratados Internacionales suscritos por el Estado Mexicano;
+X. Estado. El Estado Libre y Soberano de Tlaxcala;
 
-XI. Ley. La Ley de Atención y Protección a Víctimas y Ofendidos del Delito para el Estado de Tlaxcala;
+XI. Fondo. El Fondo de Ayuda, Asistencia y Reparación de daño de las Víctimas y Ofendidos;
 
-XII. Procuraduría. La Procuraduría General de Justicia del Estado;
+XII. Hecho victimizante. A los actos u omisiones que dañan, menoscaban o ponen en peligro los bienes jurídicos o derechos de una persona convirtiéndola en víctima. Éstos pueden estar tipificados como delito o constituir una violación a los derechos humanos reconocidos por la Constitución Federal, la particular del Estado, así como los Tratados Internacionales suscritos por el Estado Mexicano;
 
-XIII. Registro. El Registro Estatal de Víctimas y Ofendidos;
+XIII. Ley. La Ley de Atención y Protección a Víctimas y Ofendidos del Delito para el Estado de Tlaxcala;
 
-XIV. Reglamento. El Reglamento de la Ley de Atención a Víctimas y Ofendidos del Delito para el Estado de Tlaxcala;
+XIV. Plan Estatal: Plan Estatal Anual Integral de Atención a Víctimas, emanado del Sistema Estatal;
 
-XV. Sistema. El Sistema de Atención y Protección a Víctimas y Ofendidos del Estado de Tlaxcala;
+XV. Programa Estatal: Programa de Atención Integral a Víctimas y Ofendidos, emanado de la Comisión Ejecutiva para la ejecución del Plan Estatal;
 
-XVI. Víctima. Persona física que directa o indirectamente ha sufrido daño o menoscabo de sus derechos producto de una violación de derechos humanos o de la comisión de un delito;
+XVI. Procuraduría. La Procuraduría General de Justicia del Estado;
 
-XVII. Víctima potencial. Las personas físicas cuya integridad física o derechos peligren por prestar asistencia a la víctima ya sea por impedir o detener la violación de derechos o la comisión de un delito, y
+XVII. Registro. El Registro Estatal de Víctimas y Ofendidos;
 
-XVIII. Violación de derechos humanos. A todo acto u omisión que afecte los derechos humanos reconocidos en la Constitución Federal o en los Tratados Internacionales, cuando sea imputable a un servidor público en el ejercicio de sus funciones o atribuciones o a un particular que ejerza funciones pública (sic).
+XVIII. Reglamento. El Reglamento de la Ley de Atención a Víctimas y Ofendidos del Delito para el Estado de Tlaxcala;
+
+XIX. Sistema. El Sistema de Atención y Protección a Víctimas y Ofendidos del Estado de Tlaxcala;
+
+XX. Víctima. Persona física que directa o indirectamente ha sufrido daño o menoscabo de sus derechos producto de una violación de derechos humanos o de la comisión de un delito;
+
+XXI. Víctima potencial. Las personas físicas cuya integridad física o derechos peligren por prestar asistencia a la víctima ya sea por impedir o detener la violación de derechos o la comisión de un delito, y
+
+XXII. Violación de derechos humanos. A todo acto u omisión que afecte los derechos humanos reconocidos en la Constitución Federal o en los Tratados Internacionales, cuando sea imputable a un servidor público en el ejercicio de sus funciones o atribuciones o a un particular que ejerza funciones públicas.
 
 ###### Artículo 7.
 
@@ -184,6 +244,14 @@ Las dependencias, entidades y organismos públicos y privados encargados de la a
 ###### Artículo 8.
 
 En caso de conflicto entre las disposiciones contenidas en esta Ley y otros ordenamientos que tengan por objeto la protección de las víctimas y ofendidos, habrá de aplicarse aquella que le resulte más favorable.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 8 bis. El Estado garantizará en todo momento los recursos necesarios para la implementación de la presente Ley, con el objetivo de permitir el fortalecimiento institucional, el capital humano, los recursos técnicos, materiales y otros que resulten necesarios.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 8 ter. El Sistema gestionará el apoyo técnico a los Municipios con el fin de desarrollar bajo el principio de corresponsabilidad las acciones contenidas en la Ley General de Víctimas, la presente Ley, el Reglamento y demás disposiciones aplicables.
 
 ### CAPÍTULO II. DE LOS DERECHOS EN GENERAL DE LAS VÍCTIMAS Y OFENDIDOS
 
@@ -581,9 +649,11 @@ La suspensión de los beneficios otorgados de conformidad con la presente Ley pr
 
 ### CAPÍTULO V. EL SISTEMA DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS Y OFENDIDOS DEL ESTADO DE TLAXCALA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 40.
 
-Se establece el Sistema de Atención a Víctimas y Ofendidos del Estado de Tlaxcala, como mecanismo de vinculación y coordinación de las diversas instancias competentes en materia de protección de los derechos de las víctimas y ofendidos.
+Se establece el Sistema de Atención a Víctimas y Ofendidos del Estado de Tlaxcala, como un órgano de coordinación operativa en el Estado y con el Sistema Nacional de Atención a Víctimas dirigida a consolidar la planeación, establecimiento y realización de las políticas públicas, acciones y medidas necesarias para la tutela integral de las víctimas.
 
 Su objeto es brindar atención oportuna e integral a las víctimas y ofendidos de delitos, por sí misma o en coordinación con instituciones especializadas, en términos de la normativa aplicable; coadyuvar al eficaz desempeño de las autoridades con competencia en esta materia, y diseñar y ejecutar políticas, programas y esquemas de colaboración y coordinación interinstitucional de atención a víctimas y ofendidos de delitos, en términos de las disposiciones aplicables.
 
@@ -591,25 +661,35 @@ Su objeto es brindar atención oportuna e integral a las víctimas y ofendidos d
 
 El Sistema se integrará por:
 
-I. El Poder Ejecutivo, por conducto de:
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-a) El titular del Ejecutivo del Estado;
+l. El Poder Ejecutivo, por conducto de:
 
-b) La Procuraduría;
+a) El titular del Ejecutivo del Estado, quien lo presidirá;
 
-c) La Secretaría de Salud;
+b) La Secretaría de Gobierno;
 
-d) La Secretaría de Planeación y Finanzas;
+b) (sic) La Procuraduría;
 
-e) La Secretaría de Educación;
+d) La Secretaría de Salud;
 
-f) La Secretaría de Seguridad Pública, e
+e) La Secretaría de Planeación y Finanzas;
 
-g) El DIF;
+f) La Secretaría de Educación;
 
-II. El Poder Judicial por conducto de los magistrados del Tribunal Superior de Justicia y el Consejo de la Judicatura.
+g) La Comisión Estatal de Seguridad;
 
-III. El Poder Legislativo por conducto de las comisiones siguientes:
+h) La titular del DIF, y
+
+i) El Instituto Estatal de la Mujer.
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+II. El Poder Judicial por conducto del Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura.
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+III. El Poder Legislativo por conducto del Presidente de la Mesa Directiva del Congreso del Estado y de los Presidentes de las comisiones siguientes:
 
 a) Derechos Humanos;
 
@@ -625,13 +705,63 @@ V. Los ayuntamientos del Estado;
 
 VI. Las universidades y representantes de organizaciones civiles especializadas en la defensa de los derechos de las víctimas y ofendidos, y
 
-VII. Las demás instituciones, organizaciones públicas y privadas, nacionales o extranjeras que se requieran para el cumplimiento de su objeto.
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+VII. Los integrantes del Pleno de la Comisión Ejecutiva de Atención a Víctimas.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 41 bis. Los integrantes del Sistema se reunirán en Pleno o en subcomisiones, las cuales se deberán crear de conformidad con lo establecido en el Reglamento.
+
+El Pleno se reunirá por lo menos una vez cada seis meses a convocatoria de su Presidente, quien integrará la agenda de los asuntos a tratar tomando en consideración las recomendaciones de la Comisión Ejecutiva, y en forma extraordinaria, cada que una situación urgente así lo requiera a solicitud de cualquiera de los integrantes del Sistema. Los integrantes tienen obligación de comparecer a las sesiones.
+
+El quórum para las reuniones del Sistema se conformará con la mitad más uno de sus integrantes. Los acuerdos se tomarán por la mayoría de los integrantes presentes con derecho a voto.
+
+Corresponderá al Presidente del Sistema la facultad de promover en todo tiempo su efectiva coordinación y funcionamiento. Los integrantes del mismo podrán formular propuestas de acuerdos que permitan su mejor funcionamiento.
+
+El Presidente del Sistema será suplido en sus ausencias por el Secretario de Gobierno. Los demás integrantes del Sistema Estatal deberán asistir personalmente.
+
+Tendrán el carácter de invitados a las sesiones del Sistema o de sus comités, las instituciones u organizaciones privadas o sociales, los colectivos o grupos de víctimas o las demás instituciones nacionales o extranjeras, que por acuerdo del Pleno de la Comisión Ejecutiva deban participar en la sesión que corresponda.
+
+El Reglamento establecerá el mecanismo de invitación correspondiente. Los invitados acudirán a las reuniones con derecho a voz pero sin voto.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 41 ter. El Sistema Estatal, para su adecuado funcionamiento, tendrá las siguientes atribuciones:
+
+I. Las que en términos del presente ordenamiento correspondan al Poder Ejecutivo;
+
+II. La coordinación y colaboración entre las instituciones, entidades públicas nacionales, estatales y municipales, organismo autónomo encargado de la protección, ayuda, asistencia, atención, defensa de los derechos humanos, acceso a la justicia, a la verdad y a la reparación integral de las víctimas;
+
+III. Formular propuestas a la Comisión Ejecutiva sobre la elaboración del Plan y Programa Estatales y demás instrumentos programáticos relacionados con la protección, ayuda, asistencia, atención, defensa de los derechos humanos, acceso a la justicia, a la verdad y a la reparación integral de las víctimas;
+
+IV. Aprobar el Programa Estatal;
+
+V. Formular propuestas a la Comisión Ejecutiva Nacional sobre la elaboración del Programa Anual Nacional;
+
+VI. Impulsar la participación de la comunidad en las actividades de atención a víctimas;
+
+VII. Proponer a la Comisión Ejecutiva la emisión de criterios de cooperación y coordinación para la atención médica, psicológica y jurídica de las víctimas, así como la gestoría de trabajo social respecto de las mismas;
+
+VIII. Fomentar la cultura de respeto a las víctimas y a sus derechos;
+
+IX. Adoptar estrategias de coordinación en materia de política victimológica;
+
+X. Promover la uniformidad de criterios jurídicos al interior del Poder Ejecutivo del Estado en las materias que regula esta Ley, y
+
+XI. Las demás que le otorga esta Ley y otras disposiciones aplicables.
 
 ###### Artículo 42.
 
 El Sistema será operado por un órgano rector de carácter permanente con personalidad jurídica y patrimonio propios y que gozará de autonomía técnica y de gestión, denominado Comisión Ejecutiva de Atención a Víctimas y Ofendidos del Estado de Tlaxcala.
 
-Para el ejercicio de sus atribuciones la Comisión Ejecutiva contará con un Comité Evaluador y con los comités especiales que se consideren necesarios para el ejercicio de las atribuciones que le confieren esta Ley y otras disposiciones aplicables. Las disposiciones relativas a la organización y funcionamiento de los comités se regularán en el Reglamento.
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Para el ejercicio de sus atribuciones la Comisión Ejecutiva contará con un Comité Evaluador y con los comités especiales que se consideren necesarios para el ejercicio de las atribuciones que le confieren esta Ley y otras disposiciones aplicables. Las disposiciones relativas a la organización y funcionamiento de los comités se regularán en el Reglamento, encaminado al estudio de grupos vulnerables tales como niños, adultos mayores, mujeres, indígenas, migrantes, personas con discapacidad, entre otros; de víctimas del delito como violencia familiar, violencia sexual, trata y tráfico de personas, personas desaparecidas, no localizadas, ausentes o extraviadas, homicidio, tortura, tratos crueles, inhumanos o degradantes, detención arbitraria y de víctimas de violaciones a derechos humanos.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 42 bis. Estos comités generarán diagnósticos situacionales precisos que les permitan evaluar las leyes, políticas públicas o acciones estatales que impiden un acceso efectivo de las víctimas a la atención, asistencia, protección, justicia, verdad o reparación integral. Evaluarán también las políticas de prevención sobre la situación concreta que se evalúa desde una visión de seguridad ciudadana y humana. Las autoridades están obligadas a entregar toda la información que requieran estos comités para la evaluación y elaboración de los diagnósticos cuidando la información de carácter privado de las víctimas.
 
 ###### Artículo 43.
 
@@ -639,7 +769,9 @@ La Comisión Ejecutiva se integrará por:
 
 I. Un Comisionado Presidente que será el titular del Poder Ejecutivo del Estado;
 
-II. Ocho comisionados que serán los titulares de:
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+II. Siete comisionados que serán los titulares de:
 
 a) La Procuraduría;
 
@@ -649,7 +781,9 @@ c) La Secretaría de Planeación y Finanzas;
 
 d) La Secretaría de Educación;
 
-e) La Secretaría de Seguridad Pública;
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+e) La Comisión Estatal de Seguridad;
 
 f) El DIF, e
 
@@ -675,47 +809,151 @@ El Comisionado Presidente podrá invitar a las sesiones, con derecho a voz pero 
 
 La Comisión Ejecutiva tendrá las siguientes atribuciones:
 
-I. Garantizar el ejercicio pleno de los derechos de las víctimas y ofendidos contenidos en la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, los tratados internacionales celebrados y ratificados por el Estado Mexicano, esta Ley y otras disposiciones aplicables;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-II. Instrumentar y evaluar los mecanismos para asegurar la protección y atención de las víctimas y ofendidos;
+I. Bajo un esquema de colaboración y coordinación ejecutar y dar seguimiento a los acuerdos y resoluciones adoptadas por el Sistema Estatal;
 
-III. Recibir, tramitar y determinar la procedencia de las solicitudes para el otorgamiento de los beneficios establecidos en esta Ley, de conformidad con el procedimiento previsto en la misma;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-IV. Participar en la formulación e implementación de la política estatal en materia de protección y atención a víctimas y ofendidos;
+II. Garantizar el acceso a los servicios multidisciplinarios y especializados que el Estado proporcionará a las víctimas de delitos por violaciones a sus derechos humanos, para lograr su reincorporación a la vida social;
 
-V. Proponer reformas a las disposiciones constitucionales, legales y reglamentarias relacionadas con la protección y atención a las víctimas y ofendidos;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-VI. Elaborar el Programa de Atención Integral a Víctimas y Ofendidos con el objeto de diseñar, implementar, coordinar, supervisar y evaluar las políticas y acciones del Sistema y garantizar el cumplimiento de esta Ley; así como rendir anualmente al Titular del Ejecutivo un informe sobre su eficacia;
+III. Elaborar el Programa Estatal con el objeto de crear, reorientar, dirigir, planear, coordinar, ejecutar y supervisar las políticas públicas, que responda al propósito de cumplir adecuadamente con el Plan Estatal Anual Integral de Atención a Víctimas;
 
-VII. Elaborar programas emergentes de protección y atención a víctimas y ofendidos cuando se considere procedente;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-VIII. Operar y supervisar el funcionamiento del Fondo y emitir los lineamientos para la asignación de sus recursos;
+IV. Proponer políticas públicas al Sistema Estatal de prevención de delitos y violaciones a derechos humanos, así como de atención, asistencia, protección, acceso a la justicia, a la verdad y reparación integral a víctimas del delito y violación de derechos humanos de acuerdo con los principios establecidos en la Ley General de Víctimas;
 
-IX. Promover la obtención de recursos, aportaciones y donaciones ante los organismos nacionales e internacionales;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-X. Operar y supervisar el funcionamiento del Registro;
+V. Diseñar un mecanismo de seguimiento y evaluación de las obligaciones previstas en esta Ley;
 
-XI. Formular recomendaciones a los integrantes del sistema sobre el desempeño de las atribuciones relacionadas con el mismo;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-XII. Elaborar su reglamento interior;
+VI. Desarrollar las medidas previstas en la Ley General y en la presente Ley para la protección inmediata de las víctimas cuando su vida o su integridad se encuentren en riesgo;
 
-XIII. Garantizar la coordinación interinstitucional del Sistema;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-XIV. Establecer políticas y lineamientos mínimos que deberán implementarse en la capacitación, formación, actualización y especialización de servidores públicos o personal de las instituciones encargadas de la aplicación de la presente Ley;
+VII. Coordinar a las instituciones competentes para la atención de una problemática específica como los centros y direcciones de atención a víctimas, sistemas estatales y municipales de desarrollo para la integración de la familia, institutos de las mujeres; entre otras, en conjunto con el Sistema Estatal, de acuerdo con los principios establecidos en la Ley General de Víctimas, la presente ley, así como los de coordinación, concurrencia y subsidiariedad;
 
-XV. Emitir los lineamientos para el intercambio de información entre las autoridades y personal encargados de la aplicación de la presente Ley;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-XVI. Crear y coordinar los comités especiales de protección y atención a víctimas y ofendidos;
+VIII. Establecer mecanismos para la capacitación, formación, actualización y especialización de servidores públicos o dependientes de las instituciones, de conformidad con lo dispuesto en esta Ley;
 
-XVII. Implementar el cumplimiento de las resoluciones de los organismos nacionales e internacionales de protección de derechos humanos, de acuerdo al ámbito de su competencia;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-XVIII. Realizar diagnósticos estatales que permitan la evaluación de problemáticas concretas;
+IX. Realizar las acciones necesarias para la adecuada operación del Registro Estatal de Víctimas y de la Asesoría Jurídica Estatal;
 
-XIX. Apoyar a las organizaciones de la sociedad civil que se dedican a la protección y atención de las víctimas y ofendidos;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-XX. Recibir y evaluar los informes rendidos anualmente por los titulares del Fondo y del Registro, y
+X. Cumplir las directrices para alimentar de información el Registro Nacional de Víctimas;
 
-XXI. Las demás que le asignen la presente Ley y otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XI. Rendir un informe anual ante el Sistema Estatal, sobre los avances del Plan Estatal y demás obligaciones previstas en esta Ley;
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XII. Administrar y vigilar el adecuado ejercicio del Fondo y emitir las recomendaciones pertinentes a fin de garantizar su óptimo y eficaz funcionamiento, con base en los principios de publicidad, transparencia y rendición de cuentas;
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XIII. Crear mecanismos e incentivos para nutrir de recursos al Fondo;
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XIV. Elaborar anualmente las tabulaciones de montos relacionados con las medidas de ayuda y asistencia en los términos de esta ley y su reglamento;
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XV. Solicitar al órgano competente se apliquen las medidas disciplinarias y sanciones correspondientes, a los funcionarios que incumplan con lo dispuesto en la presente Ley;
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XVI. Nombrar a los titulares del Fondo, del Registro Estatal y de la Asesoría Jurídica Estatal;
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XVII. Proponer al Titular del Poder Ejecutivo el proyecto de Reglamento Estatal de la presente Ley, sus reformas y adiciones;
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XVIII. Fijar medidas, lineamientos o directrices de carácter obligatorio que faciliten condiciones dignas, integrales y efectivas para la atención, asistencia y protección de las víctimas, que permitan su recuperación y restablecimiento para lograr el pleno ejercicio de su derecho a la justicia, a la verdad y a la reparación integral;
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XIX. Promover la coordinación institucional de las dependencias, instituciones y órganos nacionales, estatales y municipales;
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XX. Establecer medidas que contribuyan a garantizar la reparación integral, efectiva y eficaz de las víctimas que hayan sufrido un daño como consecuencia de la comisión de un delito o de la violación de sus derechos humanos;
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XXI. Fijar las directrices que faciliten el acceso efectivo de las víctimas a la verdad y a la justicia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XXII. Emitir los lineamientos para la canalización oportuna y eficaz del capital humano, recursos técnicos, administrativos y económicos que sean necesarios para el cumplimiento de las acciones, planes, proyectos y programas de atención, asistencia, acceso a la justicia, a la verdad y reparación integral de las víctimas en los ámbitos estatal y municipal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XXIII. Crear una plataforma que permita integrar, desarrollar y consolidar la información sobre las víctimas a nivel estatal a fin de orientar políticas, programas, planes y demás acciones a favor de las víctimas para la prevención del delito y de violaciones a los derechos humanos, atención, asistencia, acceso a la verdad, justicia y reparación integral con el fin de llevar a cabo el monitoreo, seguimiento y evaluación del cumplimiento de las políticas, acciones y responsabilidades establecidas en esta Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XXIV. Adoptar las acciones necesarias para garantizar el ingreso de las víctimas al Registro Estatal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XXV. Coadyuvar en la elaboración de los protocolos generales de actuación para la prevención, atención e investigación de delitos o violaciones a los derechos humanos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XXVI. Elaborar los manuales, lineamientos, programas y demás acciones, acorde a lo establecido por la normatividad de la materia en sus protocolos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XXVII. Diseñar un protocolo de participación efectiva a fin de que se brinden las condiciones necesarias para el derecho a la participación de la sociedad civil organizada o no en el diseño, promoción y evaluación de los programas y acciones para la protección de víctimas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XXVIII. Analizar y generar, en casos de graves violaciones a derechos humanos o delitos graves cometidos contra un grupo de víctimas, programas integrales emergentes de ayuda, atención, asistencia, protección, acceso o justicia, a la verdad y reparación integral;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XXIX. Realizar un diagnóstico estatal que permita evaluar las problemáticas concretas que enfrenten las víctimas en términos de prevención del delito o de violaciones a los derechos humanos, atención, asistencia, acceso a la justicia, derecho a la verdad y reparación integral del daño;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XXX. Generar diagnósticos específicos sobre las necesidades estatales y municipales en materia de capacitación, capital humano, y materiales que se requieran para garantizar un estándar mínimo de atención digna a las víctimas cuando requieran acciones de ayuda, apoyo, asistencia o acceso a la justicia, a la verdad y la reparación integral, de tal manera que sea disponible y efectiva. Estos diagnósticos servirán de base para la canalización o distribución de recursos y servicios de atención a víctimas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XXXI. Brindar apoyo de acuerdo a sus políticas y estrategias viables, sustentables y de alcance definido conforme a los recursos presupuestales con los que cuente, a favor de las organizaciones de las (sic) sociedad civil que se dedican a la ayuda, atención y asistencia a favor de las víctimas, priorizando aquellas que se encuentren en lugares donde las condiciones de acceso a la ayuda, asistencia, atención y reparación integral es difícil debido a las condiciones precarias de desarrollo y marginación conforme al Reglamento;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XXXII. Implementar los mecanismos de control, con la participación de la sociedad civil, que permitan supervisar y evaluar las acciones, programas, planes y políticas públicas en materia de víctimas. La supervisión deberá ser permanente y los comités u órganos específicos que se instauren al respecto, emitirán recomendaciones que deberán ser respondidas por las instituciones correspondientes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XXXIII. Aprobar el Plan Anual de Capacitación y Estímulos de la Asesoría Jurídica Estatal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XXXIV. Recibir y evaluar los informes rendidos por los titulares del Fondo, Registro y Asesoría Jurídica, y emitir las recomendaciones pertinentes a fin de garantizar un óptimo y eficaz funcionamiento, siguiendo con los principios de publicidad y transparencia; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XXXV. Las demás que se deriven de la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 46 bis. La Comisión Ejecutiva, contará con asesores victimológicos, capacitados, con el fin de brindar atención especializada en forma directa, y personalizada a la víctima, responsables de investigar la repercusión del hecho delictivo o la violación a derechos humanos para intervenir de forma interdisciplinaria en el ámbito psicológico, biológico y sociológico; tienen como deber acompañar a las víctimas en la recuperación de su proyecto de vida evitando la revictimización, al favorecer su empoderamiento y el respeto de sus derechos ante las autoridades.
+
+El perfil profesional y las funciones específicas de los asesores victimológicos se definirán en el Reglamento.
 
 ### CAPÍTULO VI. DISTRIBUCIÓN DE COMPETENCIAS
 
@@ -741,25 +979,53 @@ V. Abstenerse de solicitar o recibir por la prestación de sus servicios obsequi
 
 VI. Las demás señaladas en la presente Ley y otras disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 49.
 
-Corresponde al titular del Ejecutivo del Estado el ejercicio de las atribuciones siguientes:
+De conformidad con las obligaciones derivadas de la creación del Sistema Nacional de Atención a Víctimas como institución encargada en materia de atención integral a víctimas, en el marco de la Ley General de Víctimas, el Poder Ejecutivo del Estado deberá:
 
-I. Formular y conducir la política estatal de atención a víctimas y ofendidos;
+I. Instrumentar y articular sus políticas en concordancia con la política nacional integral, para la adecuada atención y protección a las víctimas;
 
-II. Garantizar el cumplimiento de la presente Ley, su reglamento y demás disposiciones aplicables;
+II. Ejercer sus facultades reglamentarias para la aplicación de la presente Ley;
 
-III. Asegurar la difusión y promoción de los derechos de las víctimas y ofendidos;
+III. Colaborar y coordinarse con el Sistema Nacional de Atención a Víctimas;
 
-IV. Realizar, en coordinación con la Comisión Estatal de Derechos Humanos y organizaciones civiles de protección de los derechos de las víctimas y ofendidos, campañas de información en materia de protección de los derechos humanos y del conocimiento de la presente ley;
+IV. Participar en la elaboración del Programa Nacional previsto en la Ley General de Víctimas;
 
-V. Formular programas y acciones orientados a fomentar la cultura del respeto a los derechos humanos de las víctimas y ofendidos;
+V. Fortalecer e impulsar la creación de las instituciones públicas y privadas que prestan atención a las víctimas;
 
-VI. Someter a la aprobación de la Comisión Ejecutiva las propuestas para la designación de los titulares del Fondo y del Registro;
+VI. Promover, en coordinación con el gobierno federal, programas y proyectos de atención, educación, capacitación, investigación y cultura de los derechos humanos de las víctimas de acuerdo con el Programa;
 
-VII. Promover que los derechos de las víctimas y ofendidos y la protección de los mismos sean atendidos de forma preferente por todas las autoridades, y
+VII. Impulsar programas locales para el adelanto, desarrollo de las mujeres, eliminación de la violencia de género y mejorar su calidad de vida;
 
-VIII. Las demás que le confieran la presente Ley y otras disposiciones aplicables.
+VIII. Impulsar las gestiones para la creación o fortalecimiento de refugios para las víctimas conforme al modelo de atención diseñado por el Sistema Nacional de Atención a Víctimas;
+
+IX. Promover programas de información a la población en materia;
+
+X. Impulsar programas integrales de educación en materia de prevención del delito y atención a víctimas;
+
+XI. Difundir por todos los medios de comunicación el contenido de esta Ley;
+
+XII. Rendir ante el Congreso un informe anual sobre los avances de los programas y de la política victimológica en el Estado;
+
+XIII. Intercambiar información con el Sistema Nacional de Atención a Víctimas con el objeto de dar cumplimiento a lo establecido por el artículo 118 fracción XII de la Ley General de Víctimas;
+
+XIV. Revisar y evaluar la eficacia de las acciones, las políticas públicas, los programas del estado, con base en los resultados de las investigaciones que al efecto se realicen;
+
+XV. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos, en la ejecución de los programas del estado;
+
+XVI. Recibir de las organizaciones privadas las propuestas y recomendaciones sobre atención y protección de las víctimas, a fin de mejorar los mecanismos en la materia;
+
+XVII. Proporcionar a las instancias encargadas de realizar estadísticas, la información necesaria para su elaboración;
+
+XVIII. Impulsar reformas, en el ámbito de su competencias (sic), para el cumplimiento de los objetivos de la presente Ley;
+
+XIX. Someter a la aprobación de la Comisión Ejecutiva las propuestas para la designación de los titulares del Fondo y del Registro;
+
+XX. Celebrar convenios de cooperación, coordinación y concertación aplicables a la materia, que les conceda la Ley u otros ordenamientos legales, y
+
+XXI. Emitir el Reglamento Estatal.
 
 ###### Artículo 50.
 
@@ -771,9 +1037,11 @@ II. En el ámbito de su competencia, la atención y protección jurídica de los
 
 III. Las demás que establezca la presente Ley y otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 51.
 
-Corresponde al titular de la Secretaría de Seguridad Pública el ejercicio de las atribuciones siguientes:
+Corresponde al titular de la Comisión Estatal de Seguridad el ejercicio de las atribuciones siguientes:
 
 I. Capacitar al personal de las diferentes instituciones policiales en materia de atención y protección a las víctimas y ofendidos;
 
@@ -841,11 +1109,11 @@ II. Promover la formación y especialización en materia de atención a víctima
 
 III. Establecer las políticas, normas y criterios en materia de protección y atención a víctimas y ofendidos;
 
-IV. Coordinar el servicio integral de asesoría jurídica y representación de las víctimas y ofendidos del delito;
+IV. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2014)
 
 V. En el ámbito de su competencia, la atención y protección jurídica de los niños, niñas, adolescentes, mujeres, personas con discapacidad y personas adultas mayores víctimas y ofendidos de cualquier delito;
 
-VI. Evaluar la ejecución del Programa de Atención y Apoyo a Víctimas y Ofendidos;
+VI. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2014)
 
 VII. Proporcionar a las víctimas y ofendidos orientación y asesoría para la eficaz atención y protección de los derechos humanos, y
 
@@ -865,55 +1133,57 @@ IV. Solicitar, cuando sea conducente, medidas cautelares para garantizar la segu
 
 V. Las demás que establezcan esta ley y otras disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 58.
 
-Corresponde a los municipios el ejercicio de las siguientes atribuciones:
+Corresponden a los Municipios, de conformidad con lo dispuesto en la Ley General de Víctimas, las siguientes competencias:
 
-I. Formular e implementar la política municipal en materia de atención y protección de las víctimas y ofendidos;
+I. Instrumentar y articular, en concordancia con las políticas nacional y estatal, la política municipal para la adecuada atención y protección a las víctimas;
 
-II. Coadyuvar en la adopción y consolidación del Sistema;
+II. Coadyuvar con los Gobiernos Federal y Estatal, en la ejecución de los acuerdos tomados por el Sistema Nacional de Víctimas, por el Sistema Estatal y en su caso, por la Comisión Ejecutiva Estatal;
 
-III. Promover cursos de capacitación en materia de atención a víctimas y ofendidos para los servidores públicos municipales;
+III. Promover, en coordinación con las autoridades estatales, cursos de sensibilización y capacitación a las personas que atienden a víctimas;
 
-IV. Ejecutar las acciones necesarias para el cumplimiento del Programa;
+IV. Ejecutar las acciones necesarias para el cumplimiento del Plan y Programas Estatales;
 
-V. Apoyar la creación de programas de reeducación integral para los imputados;
+V. Apoyar la creación de programas integrales de educación para los imputados;
 
-VI. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+VI. Impulsar las gestiones para la creación o fortalecimiento de refugios para las víctimas conforme al modelo de atención diseñado por el Sistema Nacional de Atención a Víctimas;
 
-VII. Fomentar la creación de refugios seguros para las víctimas y ofendidos, y
+VII. Participar y coadyuvar en la protección y atención a las víctimas;
 
-VIII. Las demás que establezcan la presente ley y otras disposiciones aplicables.
+VIII. Atender las solicitudes formuladas por la Comisión Ejecutiva Estatal, en el ámbito de sus atribuciones;
 
-### CAPÍTULO VII. PROGRAMA DE ATENCIÓN INTEGRAL A VÍCTIMAS Y OFENDIDOS
+IX. Celebrar convenios de cooperación, coordinación y concertación de la materia, y
+
+X. Las demás aplicables a la materia, que les conceda la Ley General de Víctimas, la presente Ley, el Reglamento u otros ordenamientos legales aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO VII. PLAN Y PROGRAMA DE ATENCIÓN INTEGRAL A VÍCTIMAS Y OFENDIDOS
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 59.
 
-El Programa de Atención Integral a Víctimas y Ofendidos deberá contener:
+EI Sistema diseñará el Plan Estatal con el propósito de fijar políticas públicas y sus objetivos.
 
-I. Un diagnóstico de los servicios a víctimas y ofendidos;
+Para alcanzar estos, la Comisión Ejecutiva elaborará un Programa Estatal, en el que se establecerá por lo menos lo siguiente:
 
-II. La realización de investigaciones en materia de Víctimas;
+I. Actividades para la realización de los derechos de las víctimas a la ayuda inmediata, a la asistencia y atención, a la justicia, a la verdad y a la reparación integral, ordenadas mediante líneas estratégicas, objetivos, metas e indicadores de cumplimiento;
 
-III. Un programa de promoción para el establecimiento de centros, albergues e instituciones para la oportuna y eficaz atención a las víctimas y ofendidos del delito;
+II. Responsables de su ejecución;
 
-IV. Un programa de vinculación de los servicios gubernamentales y no gubernamentales que se brindan a las víctimas del delito, a fin de optimizar los recursos y lograr la protección integral que otorga esta Ley;
+III. Tiempos máximos de cumplimiento;
 
-V. La propuesta de una estrategia de colaboración interinstitucional;
+IV. Lineamientos generales para casos de emergencia;
 
-VI. La identificación de los mecanismos de enlace con las instancias similares que atienden a víctimas en las Entidades Federativas.
+V. Mecanismos de coordinación, evaluación, monitoreo y seguimiento, y
 
-VII. Una estrategia de comunicación con organismos de otras entidades federativas o federales, dedicados a la planeación y al desarrollo del programa de protección a víctimas;
+VI. Presupuesto y origen de los recursos asignados para su realización.
 
-VIII. El diseño, programación y calendario de cursos de capacitación y actualización en temas relativos a la prevención, atención y protección a las víctimas, incluidos los menores de edad, tanto para el personal del Órgano encargado de la Atención a las Víctimas de los Delitos, como para organizaciones públicas, sociales y de carácter privado que, por razón de sus funciones, tengan trato con víctimas;
-
-IX. La elaboración de códigos de ética, manuales, instructivos y formatos para brindar un servicio eficiente;
-
-X. Estrategias de difusión en los medios masivos de comunicación, de los servicios en materia de víctimas, así como de la información que sirva para sensibilizar a la sociedad sobre los problemas de las víctimas;
-
-XI. Elaboración de estrategias para favorecer una cultura de atención y apoyo para las víctimas del delito, y
-
-XII. El establecimiento de los mecanismos de evaluación y seguimiento de actividades del Órgano encargado de la Atención a las Víctimas de los Delitos.
+En la elaboración del Programa Estatal se atenderá la política victimológica nacional.
 
 ###### Artículo 60.
 
@@ -925,13 +1195,33 @@ La evaluación del Programa de Atención y Apoyo a Víctimas y Ofendidos estará
 
 Se crea la Asesoría Jurídica de Atención a Víctimas del Estado de Tlaxcala, como área especializada en asesoría jurídica para víctimas, dependiente de la Comisión Ejecutiva Estatal.
 
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+El titular de la Asesoría Jurídica, será designado por la Comisión Ejecutiva y durará dos años en el cargo, pudiendo ser reelecto hasta por dos años más.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 62.
 
-En caso de que la víctima o el ofendido no pudieran designar un asesor jurídico particular, se le designará uno de oficio. Esto sin perjuicio de que pueda actuar por sí, en cualquier parte del procedimiento.
+La víctima o el ofendido tendrán derecho a nombrar un abogado. En caso de que la víctima o el ofendido no pudieran designar un asesor jurídico particular, se le designará un asesor jurídico de los que se refiere el presente capítulo, en especial a:
+
+I. Las personas que estén desempleadas y no perciban ingresos;
+
+II. Los trabajadores jubilados o pensionados, así como sus cónyuges;
+
+III. Los trabajadores eventuales o subempleados;
+
+IV. Los indígenas, y
+
+V. Las personas que por cualquier razón social o económica tengan la necesidad de estos servicios.
+
+La designación del asesor jurídico, es sin perjuicio de que la víctima pueda actuar por sí, en cualquier etapa del procedimiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 63.
 
-La prestación del servicio de asesoría jurídica a las víctimas y ofendidos en los términos de la presente Ley, se realizará por los asesores jurídicos, cuya intervención se regirá por las siguientes bases:
+La prestación del servicio de asesoría jurídica a las víctimas y ofendidos en los términos de la presente Ley, será gratuito y se realizará por los asesores jurídicos, cuya intervención se regirá por las siguientes bases:
 
 I. Podrán ser designados en cualquier etapa del procedimiento;
 
@@ -975,6 +1265,10 @@ XIV. Impulsar la actividad procesal, y
 
 XV. Interponer los medios de impugnación que procedan contra las resoluciones que afecten los derechos de la víctima u ofendido.
 
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XVI. Las demás que se requieran para la defensa integral de los derechos de las víctimas.
+
 ###### Artículo 65.
 
 El Gobernador del Estado de Tlaxcala, reglamentará lo pertinente acerca de la integración, garantía de capacidad institucional y funciones de la Asesoría Jurídica de Atención a las Víctimas del Estado, determinando los ajustes institucionales necesarios respetando los criterios establecidos por la Ley General de Víctimas.
@@ -983,9 +1277,13 @@ La estructura, operación, funcionamiento, atribuciones y facultades de la Aseso
 
 ### CAPÍTULO IX. REGISTRO ESTATAL DE VÍCTIMAS Y OFENDIDOS
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 66.
 
-El Registro Estatal de Víctimas y Ofendidos es el mecanismo de carácter técnico y administrativo encargado de recibir, concentrar y organizar la información relativa a las víctimas y ofendidos en el Estado. Estará adscrito a la Comisión Ejecutiva y contará con un director, designado por la misma a propuesta del titular del Ejecutivo.
+El Registro Estatal de Víctimas y Ofendidos es el mecanismo de carácter técnico y administrativo adscrito a la Comisión Ejecutiva, que soporta el proceso de ingreso y registro de las víctimas de delito y de violaciones de derechos humanos al Sistema creado por la Ley General de Víctimas, de forma complementaria al Registro Nacional de Víctimas.
+
+El Registro contará con un director, designado por la Comisión Ejecutiva a propuesta del titular del Ejecutivo.
 
 ###### Artículo 67.
 
@@ -1001,9 +1299,11 @@ IV. Rendir informes periódicos sobre las actividades del Registro, de conformid
 
 V. Las demás que le confieran esta Ley, su Reglamento y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 68.
 
-El Registro se integrará por:
+El Registro recabará e integrará su información, entre otras, por las siguientes fuentes, siempre que cumplan los requisitos contemplados en la Ley General de Víctimas y en la presente Ley:
 
 I. Las solicitudes de ingreso de las víctimas y ofendidos, realizadas por sí mismos o a través de su representante, familiares o persona de su confianza;
 
@@ -1011,11 +1311,47 @@ II. Las solicitudes de ingreso que presenten las autoridades encargadas de la ap
 
 III. Los registros que actualmente existen en poder de las autoridades estatales y municipales encargadas de la atención de víctimas y ofendidos.
 
-Las solicitudes de ingreso al registro a que se refiere el presente Artículo se remitirán a la Comisión Ejecutiva. El Registro de la víctima y ofendido no implica el acceso de oficio a los beneficios otorgados por la presente Ley.
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Las solicitudes de ingreso al registro a que se refiere el presente artículo se remitirán a la Comisión Ejecutiva. El registro de la víctima y ofendido no implica el acceso de oficio a los beneficios otorgados por la presente Ley.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Las entidades productoras y usuarias de la información sobre las víctimas a nivel estatal y que posean registros de víctimas, pondrán a disposición del Registro la información que producen y administran, de conformidad con lo establecido en las leyes que regulan el manejo de datos personales, para lo cual se suscribirán los respectivos acuerdos de confidencialidad para el uso de la información.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Los datos del Registro serán, como mínimo, los establecidos en los artículos 99 y 104 de la Ley General de Víctimas.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+El Reglamento de esta ley establecerá la responsabilidad de las Instituciones que reciban la solicitud de ingreso al Registro.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 68 bis. Toda autoridad competente que tenga contacto con la víctima estará obligada a recibir su declaración para solicitar su inscripción ante el Registro, la cual consistirá en una narración de los hechos con los detalles y elementos de prueba que la misma ofrezca, la cual se hará constar en el Formato Único de declaración.
+
+El Ministerio Público, los Defensores Públicos, los asesores jurídicos y los asesores victimológicos, no podrán negarse a recibir dicha declaración y enviar el Formato Único a la entidad correspondiente de acuerdo a lo establecido en la presente Ley.
+
+Cuando la víctima sea mayor de doce años podrá solicitar su ingreso al Registro por sí misma o a través de sus representantes.
+
+En los casos de víctimas menores de doce años, se podrá solicitar su ingreso a través de su representante legal, asesor jurídico o victimológico o de los representantes especiales para niñas, niños y adolescentes que contempla la Ley.
+
+Cuando las autoridades citadas no se encuentren, accesibles, disponibles o se nieguen a recibir la declaración, la víctima podrá acudir a cualquier otra autoridad para realizar su declaración, las cuales tendrán las obligaciones que la Ley General de Víctimas determine.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 68 ter. Una vez recibida la denuncia, queja o el conocimiento de los hechos, deberán ponerla en conocimiento en forma inmediata de la autoridad competente más cercana.
+
+En el caso de las personas que se encuentren bajo custodia del Estado, las autoridades que estén a cargo de los centros de reinserción social, estarán obligadas a recibir su declaración con la presencia de los representantes jurídicos de las personas declarantes, así como de representantes de la Comisión Estatal de Derechos Humanos y de la Comisión Ejecutiva.
+
+Toda autoridad pública que tenga conocimiento de un hecho de violación de derechos humanos, como tortura, detención arbitraria, desaparición forzada, ejecución arbitraria o violencia sexual, deberá denunciarlo de inmediato ante la autoridad competente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 69.
 
-La solicitud de ingreso al registro deberá contener como mínimo:
+La solicitud de ingreso al Registro se realizará en forma gratuita y deberá contener como mínimo:
 
 I. Los datos de identificación de la víctima o el ofendido;
 
@@ -1031,11 +1367,21 @@ VI. La información del parentesco o relación afectiva con la víctima o el ofe
 
 En caso de que se omita alguno de los requisitos previstos en este artículo, la Comisión Ejecutiva solicitará a la entidad que tramitó inicialmente el ingreso, la información en un plazo que no excederá de diez días.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+En ningún caso el servidor público responsable podrá negarse a recibir la solicitud de registro.
+
 ###### Artículo 70.
 
 Presentada la información, deberá ingresarse al Registro, procediéndose a la valoración de la información que se encuentre en la solicitud y de la documentación que se acompañe a la misma.
 
-La Comisión Ejecutiva podrá solicitar la información adicional que considere pertinente a las autoridades que dieron trámite a la solicitud o directamente a la víctima y ofendido en caso de duda razonable de la ocurrencia de los hechos.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Para mejor proveer, la Comisión Ejecutiva, podrá solicitar la información que considere necesaria a cualquiera de las autoridades del orden estatal y municipal, las que estarán en el deber de suministrarla en un plazo que no supere los diez días hábiles.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+La Comisión Ejecutiva podrá solicitar la información adicional que considere pertinente a las autoridades que dieron trámite a la solicitud o directamente a la víctima y ofendido en caso de duda razonable de la ocurrencia de los hechos. En caso de hechos probados o de naturaleza pública deberá aplicarse el principio de buena fe a que hace referencia esta Ley.
 
 ###### Artículo 71.
 
@@ -1045,51 +1391,97 @@ I. Exista sentencia condenatoria o resolución por parte de la autoridad jurisdi
 
 II. Exista una determinación de la Comisión Estatal de Derechos Humanos en esta materia que dé cuenta de esos hechos, incluidas recomendaciones, conciliaciones o medidas precautorias;
 
-III. La víctima o el ofendido, que hayan sido reconocidos como tal por el Ministerio Público o la Autoridad judicial, aún cuando no se haya dictado sentencia o resolución;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+III. La víctima o el ofendido, que hayan sido reconocidos como tal por el Ministerio Público o la Autoridad judicial, la Comisión Estatal de Derechos Humanos o la Comisión Nacional de los Derechos Humanos, aún cuando no se haya dictado sentencia o resolución;
 
 IV. Cuando la víctima cuente con informe que le reconozca tal carácter emitido por algún mecanismo internacional de protección de derechos humanos al que México le reconozca competencia, y
 
 V. Cuando la Autoridad responsable de la violación a los derechos humanos le reconozca tal carácter.
 
-### CAPÍTULO X. FONDO PARA LA AYUDA, ASISTENCIA Y REPARACIÓN DE LAS VÍCTIMAS Y OFENDIDOS
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 71 bis. El Poder Ejecutivo del Estado, a través de sus organismos, dependencias y entidades de Salud Pública y de procuración de justicia, y los municipios que cuenten con la infraestructura y la capacidad de prestación de servicios, en el marco de sus competencias, serán las entidades obligadas a otorgar el carnet que identifique a las víctimas ante el Sistema y sus instituciones, con base en la inscripción correspondiente en el Registro, sea de forma directa o mediante el Registro, conforme a lo que disponga el Reglamento de la Ley General de Víctimas y los lineamientos que para el efecto emita la Comisión Ejecutiva.
+
+La ausencia de carnet de identificación por parte de la víctima no será impedimento para ninguna autoridad para cumplir con las obligaciones previstas en esta Ley, en el marco de sus respectivas competencias.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 71 ter. La inscripción en el Registro tendrá como efecto conformar el padrón de víctimas, con independencia de su posterior o no reconocimiento como tal.
+
+La realización del proceso de valoración para el registro definitivo, no suspende, en ningún caso, las medidas de ayuda de emergencia a las que tiene derecho la víctima, conforme lo establece la presente Ley.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 71 quáter. Se podrá cancelar la inscripción en el Registro cuando, después de realizada la valoración contemplada en esta Ley, incluido el haber escuchado a la víctima o a quien haya solicitado la inscripción, la Comisión Ejecutiva encuentre que la solicitud de registro es contraria a la verdad respecto de los hechos victimizantes de tal forma que sea posible verificar que la persona no es víctima. La negación se hará en relación con cada uno de los hechos y no podrá hacerse de manera global o general.
+
+La decisión que cancela el ingreso en el Registro deberá estar debidamente fundada y motivada. Deberá notificarse personalmente y por escrito a la víctima, a su representante legal, a la persona debidamente autorizada por ella para notificarse o a quien haya solicitado la inscripción, con el fin de que la víctima pueda interponer, si lo desea, recurso de inconformidad de la decisión ante la Comisión Ejecutiva para que ésta sea aclarada, modificada, adicionada o revocada de acuerdo al procedimiento que establezca el Reglamento de la presente Ley.
+
+La notificación se hará en forma directa. En el caso de no existir otro medio más eficaz para hacer la notificación personal, se le enviará a la víctima una citación a la dirección, al número telefónico o a la dirección de correo electrónico que figuren en el formato único de declaración o en los demás sistemas de información, a fin de que comparezca a la diligencia de notificación personal.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO X. FONDO DE AYUDA, ASISTENCIA Y REPARACIÓN DE DAÑO A LAS VÍCTIMAS Y OFENDIDOS
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 72.
 
-Se crea el Fondo de Ayuda, Asistencia y Reparación de daño a las Víctimas y Ofendidos que tendrá por objeto brindar los recursos económicos necesarios para hacer efectivas las medidas de ayuda, asistencia y reparación integral del daño a víctimas y ofendidos en los términos previstos por esta Ley, y se integrará por:
+Se crea el Fondo de Ayuda, Asistencia y Reparación de Daño a las Víctimas y Ofendidos que tendrá por objeto brindar los recursos económicos necesarios para hacer efectivas las medidas de ayuda, asistencia y reparación integral del daño a víctimas y ofendidos en los términos previstos por esta Ley.
 
-I. Multas impuestas por las autoridades judiciales en el Estado, como sanción económica;
+La víctima podrá acceder de manera subsidiaria al Fondo en los términos de esta Ley, sin perjuicio de las responsabilidades y sanciones administrativas, penales y civiles que resulten.
 
-II. Multas por las que se conmute la pena de prisión, decretadas por el Ejecutivo del Estado o por las autoridades judiciales del mismo;
+El Fondo se integrará por:
 
-III. Cantidades provenientes de cauciones otorgadas para obtener la libertad provisional bajo caución que se hagan efectivas;
+I. Multas que sean impuestas como pena por las autoridades judiciales en el Estado, en los supuestos previstos en el Código Penal;
 
-IV. Asignaciones que hagan al Fondo en los presupuestos de egresos del Estado y la Federación;
+II. Cantidades provenientes de cauciones otorgadas para obtener la libertad provisional bajo caución que se hagan efectivas;
 
-V. Los recursos que le asigne la Procuraduría;
+III. El monto de la reparación del daño, en aquellos casos en que la víctima u ofendido renuncien a ella, no se encuentren identificados o no la exijan dentro del plazo de tres meses, en los términos que señala el Código Penal;
+
+IV. Asignaciones que se hagan al Fondo en el presupuesto de egresos del Estado, sin que pueda disponerse de dichos recursos para fines diversos a los señalados por esta Ley;
+
+V. Asignaciones que se hagan al Fondo en el presupuesto de egresos de la Federación;
 
 VI. Rendimientos que se obtengan de las inversiones o reinversiones de los recursos del Fondo;
 
 VII. Intereses que generen los depósitos del Fondo;
 
-VIII. Enajenación de bienes decomisados, fianzas o garantías que se hagan efectivas;
+VIII. Recursos obtenidos por la enajenación de bienes decomisados y abandonados, así como los bienes sobre los que se haya decretado la extinción de dominio y bienes producto del lavado de dinero en procesos penales, en términos de lo previsto por el Código de Procedimientos;
 
 IX. Sanciones pecuniarias cuando se viole la presente Ley;
 
-X. Donaciones y aportaciones hechas por terceros;
+X. Donaciones y aportaciones hechas en efectivo o en especie por personas físicas o morales de carácter público, privado o social nacionales o extranjeras de manera altruista;
 
-XI. Subastas públicas de objetos y valores a disposición de autoridades investigadoras o judiciales, cuando no hayan sido reclamados;
+XI. Subastas públicas de objetos a disposición de autoridades investigadoras o judiciales, cuando no hayan sido reclamados;
 
-XII. Ingresos derivados de la recuperación de recursos asignados a la víctima o el ofendido con motivo de la reparación de daños realizada por le (sic) responsable, la compañía aseguradora o afianzadora, y
+XII. Ingresos derivados de la recuperación de recursos asignados a la víctima o el ofendido con motivo de la reparación de daños realizada por el responsable, la compañía aseguradora o afianzadora, y
 
 XIII. Los demás recursos que establezcan esta Ley y otras disposiciones aplicables.
 
+La aplicación de recursos establecidos en otros mecanismos a favor de la víctima y los de esta Ley se hará de manera complementaria, a fin de evitar su duplicidad. El acceso a los recursos a favor de cada víctima no podrá ser superior a los límites establecidos en esta Ley y las disposiciones correspondientes.
+
+Las compensaciones subsidiarias se cubrirán con los recursos del Fondo correspondiente al ejercicio fiscal vigente al momento de la calificación. La Comisión Ejecutiva velará por la maximización del uso de los recursos del Fondo, priorizando en todo momento aquellos casos de mayor gravedad del hecho victimizante.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 73.
 
-Cuando la situación lo amerite podrán crearse fondos emergentes por decisión de la Comisión Ejecutiva, el cual tendrá adjudicados parte de los recursos del Fondo por un tiempo determinado.
+Cuando la situación lo amerite podrán crearse fondos emergentes para los apoyos establecidos en el Título Tercero de la Ley General de Víctimas, por decisión de la Comisión Ejecutiva, el cual tendrá adjudicados parte de los recursos del Fondo por un tiempo determinado.
+
+La Comisión Ejecutiva, en un plazo máximo de diez días, determinará los apoyos económicos de emergencia que se requieran.
 
 ###### Artículo 74.
 
 El Fondo estará exento de toda imposición de carácter fiscal local, así como de los diversos gravámenes que pudieren estar sujetas las operaciones que realicen con el Estado de Tlaxcala.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 74 bis. El Estado se subrogará en los derechos de las víctimas para cobrar el importe que por concepto de compensación haya erogado en su favor con cargo al Fondo. La Asesoría Jurídica podrá hacer valer los derechos para la recuperación de los recursos empleados por el Fondo.
+
+Para tal efecto, se aportarán al estado los elementos de prueba necesarios para el ejercicio de los derechos derivados de la subrogación.
+
+El Ministerio Público estará obligado a ofrecer los elementos probatorios señalados en el párrafo anterior, en los momentos procesales oportunos, a fin de garantizar que sean valorados por el juzgador al momento de dictar sentencia, misma que deberá prever de manera expresa la subrogación a favor del Estado en el derecho de la víctima a la reparación del daño y el monto correspondiente a dicha subrogación, en los casos en que así proceda.
 
 #### SECCIÓN PRIMERA. DE LA ADMINISTRACIÓN
 
@@ -1115,15 +1507,25 @@ IV. Crear mecanismos e incentivos para nutrir de recursos el Fondo, y
 
 V. Realizar las previsiones necesarias a fin de procurar la solvencia del Fondo.
 
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+VI. Las demás que establezca la presente Ley, el Reglamento y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 78.
 
-Los recursos del Fondo se aplicarán al otorgamiento de apoyos de carácter económico a la víctima o el ofendido, los cuales podrán ser de ayuda, asistencia o reparación integral, en los términos de la Ley General de Víctimas, la presente ley y las disposiciones legales aplicables. El titular del Fondo determinará el apoyo que corresponda otorgar a la víctima o el ofendido, previa opinión del Comité Evaluador.
+Los recursos del Fondo se aplicarán al otorgamiento de apoyos de carácter económico a la víctima o el ofendido, los cuales podrán ser de ayuda, asistencia o reparación integral, en los términos de la Ley General de Víctimas, la presente ley, el Reglamento y las disposiciones legales aplicables. El titular del Fondo determinará el apoyo que corresponda otorgar a la víctima o el ofendido, previa opinión del Comité Evaluador. El titular del Fondo será el responsable de instruir a la institución fiduciaria la entrega de la indemnización o compensación que corresponda otorgar a la víctima.
 
-#### SECCIÓN TERCERA (SIC). DEL PROCEDIMIENTO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+#### SECCIÓN SEGUNDA. DEL PROCEDIMIENTO
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 79.
 
-Para acceder a los recursos del Fondo, la víctima o el ofendido deberán presentar la solicitud correspondiente ante la Comisión Ejecutiva Estatal de acuerdo a los términos que se establezca en el Reglamento de esta Ley.
+Para acceder a los recursos del Fondo, la víctima o el ofendido deberán estar inscritos en el Registro y presentar la solicitud correspondiente ante la Comisión Ejecutiva Estatal de acuerdo a los términos que se establezca en el Reglamento de esta Ley.
 
 ###### Artículo 80.
 
@@ -1131,17 +1533,95 @@ Quien reciba la solicitud deberá remitir la misma a la Comisión Ejecutiva en u
 
 En cuanto reciba la solicitud, la Comisión Ejecutiva la turnará al Comité Evaluador, para la integración del expediente que servirá de base al titular del Fondo para la elaboración de la propuesta correspondiente.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+El Reglamento especificará el procedimiento que se seguirá para el otorgamiento de la ayuda.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+La Comisión Ejecutiva deberá integrar el expediente completo en un plazo no mayor a veinte días hábiles, salvo caso justificado.
+
 Cuando se trate de víctimas u ofendidos de escasos recursos económicos, la Comisión Ejecutiva concederá de inmediato el apoyo económico, informando de ello al Comité Evaluador y al titular del Fondo.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 80 bis. El Comité Evaluador deberá integrar el expediente en un plazo no mayor de cuatro días, el cual deberá contener como mínimo:
+
+I. Los documentos presentados por la víctima;
+
+II. Descripción del daño o daños que haya sufrido la víctima;
+
+III. Detalle de las necesidades que requiera la víctima para enfrentar las consecuencias del delito o de la violación a sus derechos humanos, y
+
+IV. En su caso, la relación de partes médicos o psicológicos donde detallen las afectaciones que tiene la víctima con motivo de la comisión del delito o de la violación a los derechos humanos.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 80 ter. En el caso de la solicitud de ayuda o apoyo se agregará además:
+
+I. Estudio de trabajo social elaborado por el Comité Evaluador en el que se haga una relación de las condiciones de victimización que enfrenta la víctima y las necesidades que requiere satisfacer para enfrentar las secuelas del hecho victimizante;
+
+II. Dictamen médico donde se especifique las afectaciones físicas y/o mentales sufridas, las secuelas y el tratamiento, prótesis y demás necesidades que requiere la persona para su recuperación;
+
+III. Dictamen psicológico en caso de que la víctima requiera atención a la salud emocional donde se especifique las necesidades que requieren ser cubiertas para la recuperación de la víctima, y
+
+IV. Propuesta de resolución para la aprobación de la Comisión Ejecutiva.
+
+La víctima sólo estará obligada a entregar la información, documentación y pruebas que obren en su poder. Es responsabilidad del Comité Evaluador lograr la integración de la carpeta respectiva.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 81.
 
-Las solicitudes que se presenten en los términos de este Capítulo se atenderán en el orden en que se reciban y hasta donde alcancen los recursos del Fondo.
+Las solicitudes que se presenten en los términos de este Capítulo se atenderán considerando:
 
-En el caso de que con posterioridad a la asignación de los recursos del Fondo a la víctima o el ofendido, se obtenga la reparación del daño a cargo del inculpado, sentenciado o tercero civilmente responsable, el solicitante reintegrará al Fondo el monto de los beneficios económicos obtenidos.
+I. La condición socioeconómica de la víctima;
+
+II. La repercusión del daño en la vida familiar;
+
+III. La imposibilidad de trabajar como consecuencia del daño;
+
+IV. El número, edad y condición de los dependientes económicos, y
+
+V. Los recursos disponibles en el Fondo.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 82.
 
-Los apoyos económicos que se otorguen con cargo al Fondo de conformidad con esta Ley no podrán ser mayores que la afectación producida por la comisión del delito.
+La Comisión Ejecutiva determinará el monto del pago de una compensación en forma subsidiaria a cargo del Fondo, tomando en cuenta:
+
+a) La determinación del Ministerio Público cuando el responsable se haya sustraído de la justicia, haya muerto, desaparecido o se haya dictado un archivo temporal por no existir datos que demuestren la probable autoría o participación de persona determinada, y
+
+b) La resolución firme emitida por la autoridad judicial.
+
+La determinación de la Comisión Ejecutiva deberá dictarse dentro del plazo de noventa días contados a partir de la emisión de la resolución correspondiente.
+
+El monto de la compensación subsidiaria no podrá exceder de quinientas veces el salario mínimo mensual en la entidad, ha (sic) ser proporcional a la gravedad del daño sufrido y no podrá implicar el enriquecimiento para la víctima.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 82 bis. La Comisión Ejecutiva compensará de forma subsidiaria el daño causado a la víctima de los delitos considerados como graves en aquellos casos en que la víctima haya sufrido daño o menoscabo a su libertad, o si la víctima directa hubiera fallecido o sufrido un deterioro incapacitante en su integridad física y/o mental como consecuencia del delito.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 82 ter. La Comisión Ejecutiva evaluará la procedencia de la compensación subsidiaria cuando la víctima, que no haya sido reparada, exhiba ante ella todos los elementos a su alcance que lo demuestre y presente sus alegatos. La víctima podrá presentar entre otros:
+
+I. Las constancias del agente del ministerio público que competa, de las que se desprenda que las circunstancias del caso hacen imposible formalizar la investigación al imputado ante la autoridad jurisdiccional;
+
+II. Las constancias de la autoridad judicial en las que se hayan decretado la suspensión del procedimiento o el sobreseimiento de la causa, siempre que la causal no se refiera a la inexistencia del hecho delictivo;
+
+III. La sentencia firme de la autoridad judicial, en la que se señalen los conceptos que conforman la reparación del daño, así como la resolución que precise, en su caso el monto cubierto, por el sentenciado y el que no tuvo capacidad de resarcir, y
+
+IV. La resolución emitida por autoridad competente u organismo público de protección de los derechos humanos de donde se desprenda que no ha obtenido reparación del daño, de la persona directamente responsable de satisfacer dicha reparación.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 82 quáter. La Comisión Ejecutiva tendrá derecho a exigir que el sentenciado restituya al Fondo los recursos erogados por concepto de la compensación subsidiaria otorgada a la víctima por el delito que aquél cometió.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 82 quinquies. La obtención de la compensación subsidiaria no extingue el derecho de la víctima a exigir reparación de cualquier otra naturaleza.
 
 ###### Artículo 83.
 
@@ -1191,39 +1671,123 @@ Las autoridades promoverán el aseguramiento de las personas y de sus bienes en 
 
 Para el fortalecimiento de la cultura de prevención del delito con la participación ciudadana las autoridades educativas implementarán acciones que apoyen la institucionalización de este tipo de programas.
 
-### CAPÍTULO XII. INFRACCIONES, SANCIONES Y RECURSOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO XII. DE LA CAPACITACIÓN, FORMACIÓN, ACTUALIZACIÓN Y ESPECIALIZACIÓN ASÍ COMO LA DIFUSIÓN DE DERECHOS
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 91.
 
-El incumplimiento a las disposiciones contenidas en este ordenamiento por parte de los servidores públicos, así como las resoluciones que afecten a las víctimas y ofendidos por actos de las autoridades consignadas en esta Ley, que no sean de carácter procedimental, serán sancionadas conforme a la Ley de Responsabilidades de los Servidores Públicos para el Estado de Tlaxcala, sin perjuicio de las sanciones que procedan en materia civil y penal por los mismos hechos.
+La Comisión Ejecutiva garantizará:
+
+I. La inclusión dentro de sus programas de formación y capacitación contenidos temáticos sobre los principios, derechos, mecanismos, acciones y procedimientos reconocidos por la Ley General de Victimas y la presente Ley, así como las disposiciones específicas de derechos humanos contenidos en la Constitución y Tratados Internacionales, protocolos específicos y demás instrumentos del Derecho Internacional de los Derechos Humanos, y
+
+II. El diseño e implementación de un sistema de seguimiento que logre medir el impacto de la capacitación en los miembros de sus respectivas dependencias. A dicho efecto deberá tenerse en cuenta, entre otros aspectos, las denuncias y quejas hechas contra dichos servidores públicos, las sanciones impuestas, las entrevistas y sondeos directos practicados a las víctimas.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 92.
+
+Todo procedimiento de ingreso, selección, permanencia, estímulo, promoción y reconocimiento de servidores públicos que, por su competencia, tengan trato directo o brinden su servicio a víctimas en cumplimento de medidas de asistencia, ayuda, apoyo, reparación integral o cualquier mecanismo de acceso a la justicia, deberá incluir, dentro de los criterios de valoración, un rubro relativo a Derechos Humanos.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 93.
+
+La Comisión Ejecutiva aprobará un programa continuo de capacitación y formación para servidores públicos que atienden víctimas. Este programa deberá garantizar como mínimo:
+
+I. La formación en derechos de las víctimas a la verdad, la justicia y la reparación integral;
+
+II. Política y clínica victimológica;
+
+III. Enfoque diferencial para mujeres, niños, niñas, jóvenes, comunidades o pueblos originarios y otros grupos vulnerables;
+
+IV. Procedimientos administrativos y judiciales;
+
+V. Normatividad internacional, nacional y estatal relacionada, y
+
+VI. Rutas y procedimientos de atención a víctimas.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 94.
+
+La Comisión Ejecutiva implementará una estrategia integral de difusión de los derechos de las víctimas en todo el territorio estatal que permita a las mismas, a las organizaciones y a la población en general el conocimiento de los derechos contemplados en la Ley General de Víctimas, la presente Ley, su Reglamento y otras normas relacionadas.
+
+La Procuraduría y la Comisión Estatal de Seguridad deberán disponer lo pertinente para que los contenidos temáticos señalados en la Ley General de Victimas, la presente Ley y sus reglamentaciones pertinentes sean parte de las estrategias, políticas y modelos de profesionalización, así como los de supervisión de los programas correspondientes en los institutos de capacitación.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 95.
+
+Los institutos y academias que sean responsables de la capacitación, formación, actualización y especialización de los servidores públicos estatales y municipales, deberán coordinarse entre sí con el objeto de cumplir cabalmente los Programas Rectores de Profesionalización señalados en la Ley General de Víctimas y los lineamientos mínimos impuestos por el presente Capítulo de esta Ley y otros ordenamientos.
+
+Asimismo deberán proponer la celebración de convenios de colaboración con universidades, mediante la creación de cátedras u otras iniciativas y otras instituciones educativas, públicas o privadas, nacionales o extranjeras, con el objeto de brindar formación académica integral y de excelencia a los servidores públicos de sus respectivas dependencias.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 96.
+
+Como parte de la atención, asistencia, protección y reparación integral, se brindará a las víctimas formación, capacitación y orientación ocupacional. A tal efecto y sin perjuicio de las iniciativas públicas que correspondan, se diseñarán estrategias en coordinación con entidades o empresas privadas que se integren al programa.
+
+La formación y capacitación se realizará con enfoque diferencial y transformador. Se ofrecerán a la víctima programas en virtud de su interés, condición y contexto, atendiendo a la utilidad de dicha capacitación o formación. El objeto es brindar a la víctima herramientas idóneas que ayuden a hacer efectiva la atención y la reparación integral, así como favorecer el fortalecimiento y resiliencia de la víctima.
+
+Asimismo deberá brindarse a la víctima orientación ocupacional específica que le permita optar sobre los programas, planes y rutas de capacitación y formación más idóneos conforme su interés, condición y contexto.
+
+Para el cumplimiento de lo descrito se aplicarán los programas existentes en el ámbito estatal y municipal, garantizando su coherencia con los principios rectores, derechos y garantías detallados en la misma.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO XIII. INFRACCIONES, SANCIONES Y RECURSOS
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 97.
+
+El incumplimiento a las disposiciones contenidas en este ordenamiento por parte de los servidores públicos, así como las resoluciones que afecten a las víctimas y ofendidos por actos de las autoridades consignadas en esta Ley, que no sean de carácter procedimental, serán sancionadas conforme a la Ley de Responsabilidades de los Servidores Públicos para el Estado de Tlaxcala, sin perjuicio de las sanciones que procedan en materia civil y penal por los mismos hechos.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 98.
 
 A los facultativos, personal médico y demás prestadores de servicios en las instituciones de salud del Estado que en contra de la voluntad de la víctima o el ofendido les hayan practicado cualquier tipo de exploración física, se les impondrá una multa de treinta a cien días de salario mínimo general diario vigente en el Estado, al momento de cometerse la infracción.
 
 Se aplicará el doble de la sanción establecida en el párrafo anterior cuando se hubiere utilizado la fuerza física para practicar exploración física en contra de la voluntad de la víctima o del ofendido, o se hubiere ejercido coacción para obtener la autorización respectiva.
 
-###### Artículo 93.
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-Será sancionado con multa de treinta a cincuenta días de salario mínimo general diario vigente en el Estado al momento de cometerse la infracción, el Ministerio Público que, por cualquier situación o circunstancia en la investigación, durante el ejercicio de la acción penal o durante el procedimiento omita recabar de oficio o presentar al juzgador las pruebas que tiendan a la comprobación de los daños y perjuicios causados por el delito.
+###### Artículo 99.
 
-###### Artículo 94.
+Será sancionado con multa de treinta a cincuenta días de salario mínimo general diario vigente en el Estado al momento de cometerse la infracción, el agente del Ministerio Público que, por cualquier situación o circunstancia en la investigación, durante el ejercicio de la acción penal o durante el procedimiento omita recabar de oficio o presentar al juzgador las pruebas que tiendan a la comprobación de los daños y perjuicios causados por el delito.
 
-Queda prohibido al juzgador o al Ministerio Público dar a conocer por cualquier medio, cualquier clase de escritos, actas de acusación, testimonios y demás piezas de los procesos, así como el nombre de la víctima o el ofendido, a personas que no tengan interés jurídico ni formen parte en el proceso. Quien viole esta prohibición será sancionado con multa de quinientos a mil días de salario mínimo general diario vigente en el Estado al momento de cometerse la infracción.
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-###### Artículo 95.
+###### Artículo 100.
 
-Al juez o tribunal que en la sentencia que ponga fin al proceso penal, en los términos de la Ley respectiva, no se ocupe de resolver sobre la reparación de daños y en su caso, el pago de los perjuicios, cuando estos hayan sido probados y cuantificados, determinando en forma clara y precisa su monto y la imposición de la pena o medida que proceda por este concepto, se le impondrá una multa de treinta a doscientos cincuenta días multa de salario mínimo general diario vigente en el Estado al momento de cometerse la infracción.
+Queda prohibido al juzgador o al agente del Ministerio Público dar a conocer por cualquier medio, cualquier clase de escritos, actas de acusación, testimonios y demás piezas de los procesos, así como el nombre de la víctima o el ofendido, a personas que no tengan interés jurídico ni formen parte en el proceso. Quien viole esta prohibición será sancionado con multa de quinientos a mil días de salario mínimo general diario vigente en el Estado al momento de cometerse la infracción.
 
-###### Artículo 96.
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 101.
+
+Al juez o tribunal que en la sentencia que ponga fin al proceso penal, en los términos de la Ley respectiva, no se ocupe de resolver sobre la reparación del daño y en su caso, el pago de los perjuicios, cuando estos hayan sido probados y cuantificados, determinando en forma clara y precisa su monto y la imposición de la pena o medida que proceda por este concepto, se le impondrá una multa de treinta a doscientos cincuenta días de salario mínimo general diario vigente en el Estado al momento de cometerse la infracción.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 102.
 
 La Comisión Ejecutiva podrá recibir quejas u observaciones de la ciudadanía, cuando el personal de las entidades, dependencias y organismos que integran el Sistema, no presten los servicios de atención y protección a víctimas y ofendidos previstos en ésta Ley.
 
-###### Artículo 97.
+> <small>(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 97], P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 103.
 
 Las quejas que resulten procedentes serán canalizadas a la Contraloría del Ejecutivo para que proceda en el ámbito administrativo, sin perjuicio de las demás sanciones a que haya lugar.
 
-###### Artículo 98.
+> <small>(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 98], P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 104.
 
 Los recursos de inconformidad contra las resoluciones dictadas con motivo de la aplicación de la presente ley, se sustanciarán de conformidad con lo previsto por la Ley del Procedimiento Administrativo del Estado de Tlaxcala y sus Municipios.
 
@@ -1237,23 +1801,79 @@ La presente Ley entrará en vigor el día siguiente al de su publicación en el 
 
 Se abroga el Decreto número 130, publicado en el Periódico Oficial del Gobierno del Estado, Tomo LXXX, segunda época, número extraordinario, en fecha 9 de enero de 1998, por el que se establece el Fondo Protector de las Víctimas del Delito y Ayuda a Procesados Indigentes en el Estado de Tlaxcala, así como sus disposiciones reglamentarias.
 
-Los trámites iniciados ante este Fondo, con anterioridad a la entrada en vigor del presente Decreto, continuarán sin perjuicio de aplicar las disposiciones contenidas en esta Ley.
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Cualquier referencia que en las Leyes, Reglamentos y demás ordenamientos jurídicos vigentes en el Estado de Tlaxcala se haga al Fondo de Protección a las Víctimas de los Delitos y Ayuda a los Indigentes Procesados en el Estado de Tlaxcala, con motivo de la entrada en vigor de la presente Ley, se entenderá efectuada al Fondo de Ayuda, Asistencia y Reparación de Daño a las Víctimas y Ofendidos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Los recursos humanos, materiales y financieros del Fondo de Protección a las Víctimas de los Delitos y Ayuda a los Indigentes Procesados en el Estado de Tlaxcala, pasarán a formar parte del Fondo de Ayuda, Asistencia y Reparación de Daño a las Víctimas y Ofendidos, a fin de hacer efectivas la medidas de ayuda, asistencia y reparación integral del daño a víctimas y ofendidos previstas en la Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Dicho proceso será supervisado por la Secretaría de Planeación y Finanzas, la Contraloría del Ejecutivo y la Oficialía Mayor de Gobierno, en el ámbito de sus respectivas competencias.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO TERCERO.
 
-El Gobernador del Estado girará las instrucciones procedentes para la creación de los mecanismos necesarios que doten de recursos al Fondo, lo que informará al Congreso del Estado en la cuenta pública correspondiente.
+Los derechos y obligaciones laborales del Fondo que se extingue o desaparece, serán asumidas por el Fondo de Ayuda, Asistencia y Reparación de Daño a las Víctimas y Ofendidos, como unidad administrativa de readscripción, debiendo respetar los derechos de los trabajadores, en términos de las disposiciones legales aplicables.
 
 ###### ARTÍCULO CUARTO.
 
 La instalación de la Comisión Ejecutiva, así como la designación de los titulares del Fondo y del Registro deberán realizarse dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto.
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO QUINTO.
 
-El reglamento de la presente Ley deberá expedirse dentro de los ciento ochenta días siguientes a su entrada en vigor.
+El reglamento de la presente Ley deberá expedirse dentro de los doscientos setenta días siguientes a su entrada en vigor.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO SEXTO.
 
-Se derogan las disposiciones que se opongan al presente Decreto.
+Los inmuebles que formen parte del patrimonio del Fondo de Protección a las Víctimas de los Delitos y Ayuda a los Indigentes Procesados en el Estado de Tlaxcala, serán transferidos al Fondo de Ayuda, Asistencia y Reparación de daño a las Víctimas y Ofendidos mediante los procedimientos jurídicos y administrativos pertinentes.
+
+Para los efectos que se deriven de la transferencia de los recursos humanos, materiales y financieros, así como para la operación administrativa del Fondo de Ayuda, Asistencia y Reparación de Daño a las Víctimas y Ofendidos, se deja subsistente el domicilio fiscal con que ha venido operando el Fondo de Protección a las Víctimas de los Delitos y Ayuda a los Indigentes Procesados en el Estado de Tlaxcala hasta el momento en que se constituya el Fideicomiso del Fondo de Ayuda, Asistencia y Reparación de Daño a las Víctimas y Ofendidos.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+###### ARTÍCULO SÉPTIMO.
+
+Por cuanto hace a los programas a cargo del Fondo de Protección a las Víctimas de los Delitos y Ayuda a los Indigentes Procesados en el Estado de Tlaxcala, iniciados antes de la entrada en vigor de la presente Ley, deberá continuarse con su ejecución hasta su total cumplimiento.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+###### ARTÍCULO OCTAVO.
+
+El proyecto de Programa Anual de Atención a Víctimas del Estado deberá ser diseñado por la Comisión Ejecutiva en un plazo no mayor de noventa días naturales a partir de la aprobación del Plan Anual Integral de Atención a Víctimas.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+###### ARTÍCULO NOVENO.
+
+Se autoriza al titular del Poder Ejecutivo del Estado para que por conducto de la Secretaría de Planeación y Finanzas proceda a realizar las acciones necesarias para la constitución del Fideicomiso del Fondo.
+
+Una vez constituido el Fondo, el Comité Técnico del Fondo deberá quedar instituido dentro de los treinta días hábiles siguientes y el mismo dispondrá de treinta días hábiles para expedir sus Reglas de Operación.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+###### ARTÍCULO DÉCIMO.
+
+El Gobernador del Estado deberá emitir la reglamentación, los acuerdos, circulares, instructivos, bases, manuales de organización, protocolos, procedimientos y/o lineamientos que resulten necesarios para dar cumplimiento a las obligaciones que sean competencia estatal, que se deriven de la presente Ley de conformidad al presupuesto aprobado, en un plazo no mayor a doscientos setenta días naturales a partir de la entrada en vigor de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Una vez que quede instalada la Comisión Ejecutiva Estatal, está deberá designar al titular de la Asesoría Jurídica Estatal.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 AL EJECUTIVO PARA QUE LO SANCIONE Y MANDE PUBLICAR
 
@@ -1278,3 +1898,15 @@ EL SECRETARIO DE GOBIERNO.
 LEONARDO ERNESTO ORDOÑEZ CARRERA
 
 Rúbrica y sello
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala, a excepción de la reforma al artículo 93 del Código de Procedimientos Penales para el Estado Libre y Soberano de Tlaxcala, publicado en el Periódico Oficial del Gobierno del Estado el dos de enero de mil novecientos ochenta, la cual entrará en vigor el día treinta y uno de diciembre de dos mil catorce de manera simultánea con el nuevo Código Penal para el Estado Libre y Soberano de Tlaxcala publicado en el Periódico Oficial del Gobierno del Estado el treinta y uno de mayo de dos mil trece.
+
+###### ARTÍCULO SEGUNDO.
+
+Cuando las leyes, reglamentos o cualquier ordenamiento de observancia general vigente en el Estado de Tlaxcala se refieran al Código de Procedimientos Penales del Estado de Tlaxcala, se entenderá que se refieren al Código Nacional de Procedimientos Penales publicado en el Diario Oficial de la Federación del cinco de marzo de dos mil catorce, conforme a las reglas de vigencia establecidas en el artículo transitorio anterior y a la Declaratoria expedida por el Congreso del Estado con fecha veintidós de octubre de dos mil catorce y publicada en el Periódico Oficial del Gobierno del Estado de fecha veintitrés de octubre del año en curso.
