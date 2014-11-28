@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-parques-y-jardines-del-municipio-de-ensenada-6072
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-11"
-last_updated: "2008-04-11"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE PARQUES Y JARDINES DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 11 de abril de 2008.
 
@@ -235,9 +235,11 @@ El Departamento de Parques y Jardines promoverá y dará asesoría a las asociac
 
 No se permitirá a los particulares sin la regulación y aprobación por escrito de la Dirección de Ecología para la forestación o reforestación en los bienes de uso común.
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 26.
 
-Queda estrictamente prohibida la instalación de anuncios o cualquier tipo de propaganda en árboles, arbustos y en los bienes municipales de uso común.
+Queda estrictamente prohibida la instalación de anuncios o cualquier tipo de propaganda en árboles, arbustos y en los bienes municipales de uso común, salvo en los casos previstos en este ordenamiento.
 
 ### Capitulo IV. PARA EL EMPLEO DE AREAS VERDES DE USO COMÚN
 
@@ -245,9 +247,47 @@ Queda estrictamente prohibida la instalación de anuncios o cualquier tipo de pr
 
 Para poder utilizar un área verde de uso común el particular deberá solicitar al Ayuntamiento el permiso correspondiente.
 
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 27 Bis.
+
+Las áreas verdes de propiedad municipal, podrán ser otorgadas para su cuidado a personas físicas y morales, mediante el Formato Adopta un Área Verde que expide la Dirección de Ecología Municipal, debiendo cumplir con los siguientes requisitos:
+
+I.- Llenar y firmar los documentos correspondientes que expide la Dirección de Ecología Municipal así como de cumplir con todos los requisitos del Formato Adopta un Área Verde y visita de inspección del área que se pretende adoptar.
+
+II.- Utilizar únicamente plantas nativas o endémicas.
+
+III.- Especificar si ocupará o no, anuncio o letrero del adoptante, mismo que no podrá exceder de una altura de 80 centímetros y de 80 centímetros de ancho, en fondo blanco, de preferencia de madera reciclada y que necesariamente llevará el escudo Municipal.
+
+IV.- En caso de que el área asignada sean áreas de juegos de parques se podrán (sic) colocar 1 anuncio o letrero del adoptante y en el caso de áreas verdes de parques se podrán colocar hasta dos letreros, cumpliendo con lo establecido en la fracción III este artículo pudiendo otorgarse de manera separada la adopción del área verde en parques y áreas de juegos del mismo.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 27 Ter.
+
+Será causa de cancelación de la adopción de las áreas verdes propiedad del Municipio, en los siguientes casos:
+
+I.- Situar un cerco perimetral sobre la misma, sin la autorización previa de la Dirección de Servicios Públicos Municipales;
+
+II.- Que se destine el área verde adoptada para uso distinto que el asignado.
+
+III.- El que establezca en el área verde adoptada un anuncio o letrero distinto al especificado en el artículo anterior.
+
+IV.- Y en general la inobservancia de los artículos del presente reglamento, en lo relativo al cuidado de las áreas verdes.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 27 Quarter.- Son susceptibles de otorgar en adopción las áreas verdes camellones en vías primarias, camellones en vías secundarias, parques y jardines, jardineras ubicadas en banquetas y Áreas de valor ambiental.
+
 ###### Artículo 28.
 
 Quien haga uso de una (sic) área verde de uso común deberá hacerse responsable de la limpieza del área ocupada, del manejo adecuado de sus residuos sólidos y los daños que ocasione a dicho bien.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 28 Bis.
+
+Los adoptantes de áreas verdes dentro de la jurisdicción de este Municipio tendrán la obligación de mantenerla limpia, bridarle riego necesario para evitar se seque, fertilizarla según sus necesidades y procurar un aspecto adecuado mediante su podado regular.
 
 ### Capitulo V. DERRIBO, PODA Y TRASPLANTE DE LOS ÁRBOLES
 
@@ -630,3 +670,9 @@ PRESIDENTE MUNICIPAL DEL H. XVIII AYUNTAMIENTO DE ENSENADA
 LIC. JULIO CESAR ARENAS RUIZ
 
 SECRETARIO FEDATARIO DEL H. XVIII AYUNTAMIENTO DE ENSENADA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE NOVIEMBRE DE 2014.
+
+ÚNICO.- Una vez siendo aprobada la presente reforma, publíquese en el Periódico Oficial del Gobierno del Estado de Baja California, para que surta efectos al día siguiente de su publicación en todo el territorio del Municipio de Ensenada B. C.
