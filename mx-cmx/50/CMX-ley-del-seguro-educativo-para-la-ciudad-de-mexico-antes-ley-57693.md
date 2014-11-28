@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-seguro-educativo-para-la-ciudad-de-mexico-antes-ley-576
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-26"
-last_updated: "2007-12-26"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57693&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-12-20"
 
 LEY DEL SEGURO EDUCATIVO PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 26 de diciembre de 2007.
 
@@ -50,9 +50,11 @@ Artículo Primero.- Se expide la Ley del Seguro Educativo para el Distrito Feder
 
 LEY DEL SEGURO EDUCATIVO PARA EL DISTRITO FEDERAL
 
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 1.
 
-Esta ley es de orden público, de interés social y de observancia general en el Distrito Federal. Tiene por objeto establecer el derecho de los estudiantes de primaria y secundaria inscritos en las escuelas públicas en el Distrito Federal y del Bachillerato de la Universidad Autónoma de la Ciudad de México, tendrán derecho a recibir una pensión mensual no menor a la mitad del salario mínimo diario vigente en el Distrito Federal, cuando el padre, la madre o el tutor responsable de la manutención fallezca.
+Esta ley es de orden público, de interés social y de observancia general en el Distrito Federal. Tiene por objeto establecer el derecho de los estudiantes de primaria y secundaria inscritos en las escuelas públicas en el Distrito Federal y del Bachillerato de la Universidad Autónoma de la Ciudad de México, tendrán derecho a recibir una pensión mensual no menor a la mitad de una la (sic) Unidad de Cuenta de la Ciudad de México vigente, cuando el padre, la madre o el tutor responsable de la manutención fallezca.
 
 ###### Artículo 2.
 
@@ -97,3 +99,15 @@ TERCERO.- En tanto no se apruebe el presupuesto necesario para hacer efectivo el
 Recinto de la Asamblea Legislativa del Distrito Federal, a los treinta y un días del mes de octubre del año dos mil siete. POR LA MESA DIRECTIVA.- DIP. FERNANDO ESPINO ARÉVALO, PRESIDENTE.- DIP. HUMBERTO MORGAN COLÓN, SECRETARIO.- DIP. AGUSTÍN CARLOS CASTILLA MARROQUÍN.- SECRETARIO.- Firmas.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, base segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veinte días del mes de diciembre del año dos mil siete. EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, AXEL DIDRIKSSON TAKAYANAGUI.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
