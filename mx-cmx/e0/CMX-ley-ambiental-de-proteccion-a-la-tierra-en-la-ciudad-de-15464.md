@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-proteccion-a-la-tierra-en-la-ciudad-de-15464"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-13"
-last_updated: "2013-09-17"
+last_updated: "2014-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15464&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-12-31"
 
 LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de enero de 2000.
 
@@ -182,7 +182,7 @@ V. Las actividades vinculadas con la prestación del servicio público de sumini
 
 VI. La Ejecución de programas destinados a fomentar la educación ambiental y a otorgar incentivos para la aplicación de tecnología ambiental y para la conservación de servicios ambientales en las áreas naturales protegidas de competencia del Distrito Federal, las áreas comunitarias de conservación ecológica y el suelo de conservación;
 
-VII. La participación social encaminada al desarrollo sustentable del Distrito Federal; y (sic)
+VII. La participación social encaminada al desarrollo sustentable del Distrito Federal; y
 
 VIII. La elaboración y aplicación de planes y programas que contengan políticas de desarrollo integral de la entidad bajo criterios ambientales;
 
@@ -356,7 +356,7 @@ FUENTES NATURALES DE CONTAMINACIÓN: las de origen biogénico, de fenómenos nat
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 17 DE SEPTIEMBRE DE 2013)</small>
 
-GARANTÍA DE REGENERACIÓN DE LA TIERRA: Responsabilidad a cargo de las autoridades competentes en la materia y de la sociedad, en armonía consistente en garantizar las condiciones necesarias para que los diversos sistemas de vida de la Tierra puedan absorber, daños, adaptarse a las perturbaciones y regenerarse sin alterar significativamente sus características de estructura y funcionalidad, reconociendo que los sistemas de vida tienen límites en su capacidad de regenerarse, y que la humanidad tienen (sic) límites en su capacidad de revertir sus acciones;
+GARANTÍA DE REGENERACIÓN DE LA TIERRA: Responsabilidad a cargo de las autoridades competentes en la materia y de la sociedad, en armonía consistente en garantizar las condiciones necesarias para que los diversos sistemas de vida de la Tierra puedan absorber, daños, adaptarse a las perturbaciones y regenerarse sin alterar significativamente sus características de estructura y funcionalidad, reconociendo que los sistemas de vida tienen límites en su capacidad de regenerarse, y que la humanidad tienen límites en su capacidad de revertir sus acciones;
 
 GACETA OFICIAL: La Gaceta Oficial del Distrito Federal;
 
@@ -384,7 +384,7 @@ MANIFESTACIÓN DE IMPACTO AMBIENTAL: El documento mediante el cual se da a conoc
 
 MATERIALES Y RESIDUOS PELIGROSOS: Las substancias, compuestos o residuos y sus mezclas, que por sus características corrosivas, tóxicas, reactivas, explosivas, inflamables o biológicas infecciosas, representan un riesgo para el ambiente, de conformidad con las normas oficiales mexicanas aplicables;
 
-NORMAS AMBIENTALES PARA EL DISTRITO FEDERAL: Las que emita la autoridad competente en ésta materia, en función de las atribuciones que esta ley y otros ordenamientos legales le confiere (sic);
+NORMAS AMBIENTALES PARA EL DISTRITO FEDERAL: Las que emita la autoridad competente en ésta materia, en función de las atribuciones que esta ley y otros ordenamientos legales le confiere;
 
 NORMAS OFICIALES: Las normas oficiales mexicanas aplicables en materia ambiental;
 
@@ -726,7 +726,7 @@ XLIV. Promover el establecimiento y la aplicación de programas de educación am
 
 XLV. Regular y determinar la restauración ambiental de las áreas que hayan sido objeto de explotación de minerales u otros depósitos del subsuelo;
 
-XLVI. Verificar el cumplimiento de las Normas Oficiales Mexicanas y de las normas ambientales para el Distrito Federal; y (sic)
+XLVI. Verificar el cumplimiento de las Normas Oficiales Mexicanas y de las normas ambientales para el Distrito Federal; y
 
 > <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -788,7 +788,7 @@ Para tal efecto, las delegaciones deberán destinar, en la medida de sus posibil
 
 > <small>(REFORMADA, G.O. 18 DE FEBRERO DE 2011)</small>
 
-VII. Aplicar las sanciones administrativas, medidas correctivas y de seguridad correspondiente (sic) por infracciones a esta Ley y sus reglamentos; así como levantar la denuncia correspondiente en contra de los funcionarios o personas que inciten o propicien invasiones a áreas verdes de suelo urbano y al suelo de conservación.
+VII. Aplicar las sanciones administrativas, medidas correctivas y de seguridad correspondiente por infracciones a esta Ley y sus reglamentos; así como levantar la denuncia correspondiente en contra de los funcionarios o personas que inciten o propicien invasiones a áreas verdes de suelo urbano y al suelo de conservación.
 
 > <small>(ADICIONADA, G.O. 3 DE MAYO DE 2011)</small>
 
@@ -1104,7 +1104,7 @@ El programa de ordenamiento ecológico surtirá sus efectos a partir del día si
 
 ###### ARTÍCULO 33.
 
-Los programas de ordenamiento ecológico deberá (sic) ser revisado en forma permanente, y en su caso, actualizado cada tres años.
+Los programas de ordenamiento ecológico deberá ser revisado en forma permanente, y en su caso, actualizado cada tres años.
 
 ###### ARTÍCULO 34.
 
@@ -1424,7 +1424,7 @@ III. Negar la autorización solicitada, cuando:
 
 a) Se contraponga con lo establecido en esta Ley, su reglamento, las normas oficiales mexicanas, las normas ambientales del Distrito Federal, los planes y programas de ordenamiento ecológico y de desarrollo urbano y demás disposiciones legales aplicables;
 
-b) La obra o actividad afecte a la población en su salud o una o más especies amenazadas, o en peligro de extinción o a las zonas intermedias de salvaguarda y elementos que contribuyen al ciclo hidrológico o algún o algunos ecosistemas en particular; y (sic)
+b) La obra o actividad afecte a la población en su salud o una o más especies amenazadas, o en peligro de extinción o a las zonas intermedias de salvaguarda y elementos que contribuyen al ciclo hidrológico o algún o algunos ecosistemas en particular; y
 
 c) Exista falsedad en la información proporcionada por los promoventes, respecto de los impactos ambientales de la obra o actividad de que se trate;
 
@@ -1588,7 +1588,7 @@ VI. Descripción de los materiales o productos que vayan a emplearse en la ejecu
 
 VII. Monto de la inversión requerida para ejecutar la obra o actividad, así como porcentaje de ésta que se destinará a la instrumentación de medidas de prevención, mitigación y compensación de impactos ambientales;
 
-VIII. Programa calendarizado de ejecución de la obra o actividad indicando fechas de inicio y conclusión de las actividades; y (sic)
+VIII. Programa calendarizado de ejecución de la obra o actividad indicando fechas de inicio y conclusión de las actividades; y
 
 IX. Medidas contempladas para la prevención o mitigación de impactos ambientales que pudieran ocasionarse con la realización de la obra o actividad;
 
@@ -1888,7 +1888,7 @@ IV. Los relativos al pago de contribuciones o cualquier tipo de ingresos por ser
 
 > <small>(ADICIONADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-V. El monto de las multas que se impongan por fracciones (sic) a las disposiciones ambientales;
+V. El monto de las multas que se impongan por fracciones a las disposiciones ambientales;
 
 > <small>(ADICIONADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -1952,7 +1952,7 @@ I. Adquieran, instalen y operen las tecnologías, sistemas, equipos y materiales
 
 > <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-II. Realicen desarrollo (sic) tecnológicos y de ecotecnias viables cuya aplicación demuestre prevenir o reducir las emisiones contaminantes, la producción de grandes cantidades de residuos sólidos urbanos, el consumo de agua o el consumo de energía, en los términos de los programas que al efecto se expidan;
+II. Realicen desarrollo tecnológicos y de ecotecnias viables cuya aplicación demuestre prevenir o reducir las emisiones contaminantes, la producción de grandes cantidades de residuos sólidos urbanos, el consumo de agua o el consumo de energía, en los términos de los programas que al efecto se expidan;
 
 > <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
 
@@ -2968,7 +2968,7 @@ IV. Cuando deban ejecutarse para evitar afectaciones significativas en la infrae
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 24 DE NOVIEMBRE DE 2011)</small>
 
-Cuando el derribo, poda o trasplante de árboles, ubicados en bienes de dominio público o en propiedades de particulares se realice en contravención a lo establecido en las fracciones anteriores, se estará a lo dispuesto en los artículos 345bis, 349, 349bis y 349ter del Código Penal para el Distrito Federal.
+Cuando el derribo, poda o trasplante de árboles, ubicados en bienes de dominio público o en propiedades de particulares se realice en contravención a lo establecido en las fracciones anteriores, se estará a lo dispuesto en los artículos 345 bis, 349, 349 bis y 349 ter del Código Penal para el Distrito Federal.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 24 DE NOVIEMBRE DE 2011)</small>
 
@@ -2982,7 +2982,7 @@ En todo caso, el derribo de árboles sólo será procedente cuando no exista otr
 
 La Secretaría expedirá conforme a las disposiciones previstas en esta Ley, las normas ambientales en las que se establezcan los requisitos y especificaciones técnicas que deberán cumplir las personas físicas o morales, tanto públicas como privadas, que realicen la poda, derribo y trasplante de árboles en el Distrito Federal.
 
-Lo dispuesto en este capítulo, así como en el Reglamento de la presente Ley y en las normas ambientales conducentes, serán (sic) aplicable a las actividades relacionadas con la poda, derribo o trasplante de árboles, siempre que dichas actividades no se realicen en terrenos forestales o de aptitud preferentemente forestal.
+Lo dispuesto en este capítulo, así como en el Reglamento de la presente Ley y en las normas ambientales conducentes, serán aplicable a las actividades relacionadas con la poda, derribo o trasplante de árboles, siempre que dichas actividades no se realicen en terrenos forestales o de aptitud preferentemente forestal.
 
 > <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
 
@@ -3724,11 +3724,23 @@ IV.- Usar cualquier dispositivo o sistema no autorizado.
 
 Los centros de verificación vehicular deberán obtener y mantener vigentes las siguientes pólizas de:
 
-I. Fianza para garantizar el cumplimiento de las obligaciones y condiciones establecidas en esta Ley, su Reglamento, el programa de Verificación Vehicular, la autorización y circulares correspondientes, expedida por compañía autorizada por el equivalente a once mil quinientos días de salario mínimo general vigente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II.- Fianza que garantice el buen uso, posesión, manejo extravío, destrucción, pérdida por cualquier motivo o deterioro de la constancia de verificación que se utilice en el Programa de Verificación Vehicular vigente; así como la devolución oportuna del remanente de la documentación oficial, al término de cada uno de los periodos de verificación o en el caso de que el Centro de Verificación Vehicular deje de prestar el servicio y cuidado de los documentos referidos, considerando que el valor unitario deberá ser de 3 días de salario mínimo general vigente, por un monto total y cantidad que se considere conveniente. La vigencia de esta fianza deberá renovarse durante el tiempo en que permanezca en vigor la autorización.
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-III.- Seguro que ampare la constancia de verificación que se utilice en el Programa de Verificación Vehicular vigente, contra los riesgos de incendio, inundación, robo con violencia y/o asalto y terremoto, considerando que el valor unitario deberá ser de 3 días de salario mínimo general vigente, por un monto total y cantidad que se considere conveniente. La vigencia de este seguro deberá renovarse durante el tiempo en que permanezca en vigor la autorización.
+I.- Fianza para garantizar el cumplimiento de las obligaciones y condiciones establecidas en esta Ley, su Reglamento, el programa de Verificación Vehicular, la autorización y circulares correspondientes, expedida por compañía autorizada por el equivalente a once mil quinientas veces la Unidad de Cuenta de la Ciudad de México vigente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+II.- Fianza que garantice el buen uso, posesión, manejo extravío, destrucción, perdida por cualquier motivo o deterioro de la constancia de verificación que se utilice en el Programa de Verificación Vehicular vigente; así como la devolución oportuna del remanente de la documentación oficial, al término de cada uno de los periodos de verificación o en el caso de que el Centro de Verificación Vehicular deje de prestar el servicio y cuidado de los documentos referidos, considerando que el valor unitario deberá ser de 3 veces la Unidad de Cuenta de la Ciudad de México vigente, por un monto total y cantidad que se considere conveniente. La vigencia de esta fianza deberá renovarse durante el tiempo en que permanezca en vigor la autorización.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+III.- Seguro que ampare la constancia de verificación que se utilice en el Programa de Verificación Vehicular vigente, contra los riesgos de incendio, inundación, robo con violencia y/o asalto y terremoto, considerando que el valor unitario deberá ser de 3 veces la Unidad de Cuenta de la Ciudad de México vigente, por un monto total y cantidad que se considere conveniente. La vigencia de este seguro deberá renovarse durante el tiempo en que permanezca en vigor la autorización.
 
 ###### ARTÍCULO 194.
 
@@ -3818,9 +3830,11 @@ IV. Llevar un registro con la información de las operaciones de mantenimiento y
 
 V. Dar aviso a la Secretaría cuando dejen de prestar el servicio de suministro y mantenimiento de equipos y programas de cómputo;
 
-> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VI. Presentar y mantener en vigor una fianza de tres mil días de salario mínimo, para garantizar el cumplimiento de las obligaciones y la confidencialidad de los sistemas de seguridad, durante la vigencia de la autorización, misma que se hará efectiva en los casos que la prestación del servicio contravenga las disposiciones aplicables;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+VI. Presentar y mantener en vigor una fianza de tres mil veces la Unidad de Cuenta de la Ciudad de México vigente, para garantizar el cumplimiento de las obligaciones y la confidencialidad de los sistemas de seguridad, durante la vigencia de la autorización, misma que se hará efectiva en los casos que la prestación del servicio contravenga las disposiciones aplicables;
 
 > <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -4088,7 +4102,11 @@ Cada una de las infracciones a esta Ley, su reglamento, las normas ambientales d
 
 I. Amonestación con apercibimiento;
 
-II. Multa por el equivalente desde veinte hasta cien mil días de salario mínimo general vigente en el Distrito Federal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+II. Multa por el equivalente desde veinte hasta cien mil veces la Unidad de Cuenta de la Ciudad de México vigente;
 
 III. Clausura temporal o definitiva, parcial o total de las fuentes contaminantes, de las obras y actividades, así como de las instalaciones en que se desarrollen los hechos que den lugar a la imposición de la sanción;
 
@@ -4308,7 +4326,7 @@ NOVENO.- En tanto se expiden las disposiciones reglamentarias de esta Ley, segui
 
 Salón de sesiones de la Asamblea Legislativa del Distrito Federal, a 21 de diciembre de mil novecientos noventa y nueve.- POR LA MESA DIRECTIVA, DIP. RENE BALDOMERO RODRÍGUEZ RUIZ, PRESIDENTE.- DIP. YOLANDA TELLO MONDRAGON, SECRETARIO.- DIP. JOSE LUIS BENITEZ GIL, SECRETARIO.- FIRMAS.
 
-En cumplimiento de lo dispuesto por lo dispuesto (sic) por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto promulgatorio, en la Residencia Oficial de la Jefa de Gobierno del Distrito Federal, en la Ciudad de México, a los treinta y un días del mes de diciembre de mil novecientos noventa y nueve.- LA JEFA DE GOBIERNO DEL DISTRITO FEDERAL, ROSARIO ROBLES BERNLANGA (sic).- FIRMA.- EL SECRETARIO DE GOBIERNO, LEONEL GODOY RANGEL.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, ROBERTO EIBENSCHUTZ HARTMAN.- FIRMA.- EL SECRETARIO DEL MEDIO AMBIENTE, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.
+En cumplimiento de lo dispuesto por lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto promulgatorio, en la Residencia Oficial de la Jefa de Gobierno del Distrito Federal, en la Ciudad de México, a los treinta y un días del mes de diciembre de mil novecientos noventa y nueve.- LA JEFA DE GOBIERNO DEL DISTRITO FEDERAL, ROSARIO ROBLES BERNLANGA (sic).- FIRMA.- EL SECRETARIO DE GOBIERNO, LEONEL GODOY RANGEL.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, ROBERTO EIBENSCHUTZ HARTMAN.- FIRMA.- EL SECRETARIO DEL MEDIO AMBIENTE, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.
 
 N. DE E.: A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
 
@@ -4487,3 +4505,13 @@ TERCERO.- En tanto se expidan las disposiciones administrativas que deriven de l
 CUARTO.- Todos los procedimientos y recursos administrativos relacionados con las materias de esta ley iniciadas con anterioridad a la entrada en vigor del presente decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en ese momento.
 
 QUINTO.- Las reformas a la Ley Ambiental del Distrito Federal, turnadas a la Comisión de Preservación del Medio Ambiente, Protección Ecológica y Cambio Climático, durante el Primer Periodo Ordinario, el Primer Receso y el Segundo Periodo Ordinario, del Primer Año de Ejercicio, y las que se presenten en lo sucesivo, relativo a la Ley Ambiental del Distrito Federal, se entenderán referidas a la Ley Ambiental de Protección a la Tierra en el Distrito Federal.
+
+G.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
