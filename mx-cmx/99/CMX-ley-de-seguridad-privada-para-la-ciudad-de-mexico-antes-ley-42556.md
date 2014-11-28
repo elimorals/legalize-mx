@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-seguridad-privada-para-la-ciudad-de-mexico-antes-ley-425
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-24"
-last_updated: "2013-07-11"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42556&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-12-14"
 
 LEY DE SEGURIDAD PRIVADA PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 24 de enero de 2005.
 
@@ -122,7 +122,7 @@ XXIII. Reglamento: El Reglamento de la Ley de Seguridad Privada para el Distrito
 
 XXIV. Reincidencia: La comisión de dos o más infracciones a las normas jurídicas y administrativas relacionadas con la seguridad privada en un periodo de seis meses;
 
-XXV. Salario mínimo: El salario mínimo diario general vigente en el Distrito Federal al momento de la comisión de la infracción;
+XXV. (DEROGADA, G.O. 28 DE NOVIEMBRE DE 2014)
 
 XXVI. Secretaría: La Secretaría de Seguridad Pública del Distrito Federal;
 
@@ -133,6 +133,10 @@ XXVIII. Servicios de Seguridad Privada: Los realizados por personas físicas o m
 XXIX. Unidad de Verificación: Unidad administrativa responsable del ejercicio de las facultades de supervisión y verificación de las actividades y servicios de seguridad privada; y
 
 XXX. Unidad de Evaluación y Certificación: Unidad administrativa responsable de dirigir, coordinar y llevar a cabo las evaluaciones establecidas por la Secretaría a las personas físicas que prestan servicios o realizan actividades de seguridad privada, así como expedir la certificación de aptitud, idoneidad y confiabilidad a elementos operativos y elementos de apoyo para prestar servicios de seguridad privada, en los casos establecidos por las disposiciones jurídicas y administrativas aplicables.
+
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XXXI. Unidad de Cuenta de la Ciudad de México.- El valor expresado en pesos que se utilizará, de manera individual o por múltiplos de ésta, para determinar sanciones y multas administrativas, conceptos de pago y montos de referencia, previstos en las normas locales vigentes del Distrito Federal.
 
 ###### Artículo 4.
 
@@ -494,7 +498,7 @@ X. No ser adicto al consumo de alcohol, sustancias psicotrópicas y estupefacien
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE JUNIO DE 2013)</small>
 
-XI. No haber sido destituidos de los cuerpos de seguridad pública, ni de las fuerzas armadas, despedidos de las empresas de seguridad privada o habérsele revocado su licencia, por cualquiera de los siguientes motivos:: (sic)
+XI. No haber sido destituidos de los cuerpos de seguridad pública, ni de las fuerzas armadas, despedidos de las empresas de seguridad privada o habérsele revocado su licencia, por cualquiera de los siguientes motivos::
 
 > <small>(REFORMADO, G.O. 26 DE JUNIO DE 2013)</small>
 
@@ -578,7 +582,7 @@ VIII. Accionistas, socios, gestores, representantes legales, mandatarios y apode
 
 IX. Sanciones administrativas y penales;
 
-X. Armamento, y (sic)
+X. Armamento, y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -738,7 +742,9 @@ El prestatario deberá:
 
 I. Cubrir los daños que provoque cualquier elemento de su seguridad privada; si la autoridad a si (sic) lo considera.
 
-II. En el caso de que su seguridad privada no cuente con los requisitos que exige la ley de Seguridad Privada y la ley de Seguridad Pública ambas del Distrito Federal, por el solo hecho de contratarlo se hará acreedor de una multa de 3 500 a 5000 días de salario mínimo.
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+II. En el caso de que su seguridad privada no cuente con los requisitos que exige la ley de Seguridad Privada y la ley de Seguridad Pública ambas del Distrito Federal, por el solo hecho de contratarlo se hará acreedor de una multa de 3500 a 5000 veces la Unidad de Cuenta de la Ciudad de México vigente.
 
 III. Para los casos de lesiones y homicidio por parte del prestador del servicio de seguridad privada, el prestatario deberá denunciar los hechos, inmediatamente al Ministerio Público, proporcionando toda la información requerida del presunto responsable, de lo contrario se hará acreedor a las sanciones que el Nuevo Código Penal del Distrito Federal señalan.
 
@@ -760,7 +766,7 @@ A fin de comprobar que los titulares de permisos, autorizaciones y licencias que
 
 ###### Artículo 40.
 
-La Secretaría podrá requerir la documentación relacionada con el permiso, autorización o licencia otorgados; así como los datos, informes y bienes a los titulares, ya se en sus domicilios, establecimientos, en el lugar donde se encuentren prestando el servicio, donde realicen actividades de seguridad privada o en las oficinas de la Secretaría.
+La Secretaría podrá requerir la documentación relacionada con el permiso, autorización o licencia otorgados; así como los datos, informes y bienes a los titulares, ya se (sic) en sus domicilios, establecimientos, en el lugar donde se encuentren prestando el servicio, donde realicen actividades de seguridad privada o en las oficinas de la Secretaría.
 
 ###### Artículo 41.
 
@@ -856,7 +862,9 @@ I. Apercibimiento;
 
 II. Amonestación con difusión pública de la misma, y
 
-III. Multa de hasta cinco mil veces el salario mínimo general vigente en el Distrito Federal.
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+III. Multa de hasta cinco mil veces la Unidad de Cuenta de la Ciudad de México vigente.
 
 ###### Artículo 50.
 
@@ -996,7 +1004,9 @@ Cuando la orden de clausura no pueda ejecutarse debido a la oposición del titul
 
 Con base en dicho informe, el superior jerárquico emitirá resolución fundada y motivada en la que impondrá a la persona que se haya opuesto a la diligencia la sanción prevista en esta Ley, dictará una nueva orden de clausura y solicitará el concurso de la fuerza pública para su ejecución.
 
-En caso de que una persona física o moral preste servicios o realice actividades de seguridad privada sin contar con el permiso, autorización o licencia de la Secretaría, o cuando no hubiere obtenido la revalidación correspondiente, se procederá a emitir acuerdo de suspensión o clausura según el caso y se impondrá al infractor una multa por el equivalente de hasta cinco mil veces el salario mínimo, sin perjuicio de la aplicación de sanciones o penas de otra naturaleza.
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+En caso de que una persona física o moral preste servicios o realice actividades de seguridad privada sin contar con el permiso, autorización o licencia de la Secretaría, o cuando no hubiere obtenido la revalidación correspondiente, se procederá a emitir acuerdo de suspensión o clausura según el caso y se impondrá al infractor una multa de hasta por el equivalente de hasta cinco mil veces la Unidad de Cuenta de la Ciudad de México vigente, sin perjuicio de la aplicación de sanciones o penas de otra naturaleza.
 
 ###### Artículo 58.
 
@@ -1030,7 +1040,7 @@ I. A los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia;
 
 II. Garantizar que se atiendan de manera expedita las quejas y denuncias, respecto de los servicios y actividades de seguridad privada en el Distrito Federal;
 
-III. Asegurar al interior de la Secretaría que las acciones encaminadas a la detección de probables actos ilícitos en los que se encuentren involucrados los elementos operativos o de apoyo, se lleven acabo con estricto apego a derecho, y
+III. Asegurar al interior de la Secretaría que las acciones encaminadas a la detección de probables actos ilícitos en los que se encuentren involucrados los elementos operativos o de apoyo, se lleven a cabo con estricto apego a derecho, y
 
 IV. Efectuar la integración de datos que permitan detectar irregularidades en el desempeño de los prestadores de servicios y realizadores de actividades de seguridad privada en el Distrito Federal.
 
@@ -1074,7 +1084,7 @@ II. Establecer y consolidar un sistema administrativo en materia de intercambio 
 
 III. Celebrar acuerdos de colaboración en materia de prevención, control y solución de problemas derivados de los servicios o actividades de seguridad privada en la zona metropolitana del valle de México, e igualmente promover la unificación de las legislaciones en esta materia;
 
-IV. Convocar y coordinar reuniones periódicas con las autoridades competentes en las entidades de la zona metropolitana del valle de México, a fin de establecer mecanismos y medidas necesarias para el mejor control gubernamental de los servicios de seguridad privada, y (sic)
+IV. Convocar y coordinar reuniones periódicas con las autoridades competentes en las entidades de la zona metropolitana del valle de México, a fin de establecer mecanismos y medidas necesarias para el mejor control gubernamental de los servicios de seguridad privada, y
 
 V. El apoyo permanente a fin de aplicar sanciones administrativas a infractores de la Ley, Reglamento y otras disposiciones de la materia y cuyos responsables se localicen en territorio distinto al Distrito Federal;
 
@@ -1125,3 +1135,13 @@ G.O. 11 DE JULIO DE 2013.
 PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
