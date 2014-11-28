@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2014-10-08"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -372,7 +372,9 @@ ARTÍCULO 38 (Días de multa). La multa consiste en el pago de una cantidad de d
 
 El día multa equivale a la percepción neta diaria del inculpado en el momento de cometer el delito.
 
-El límite inferior del día multa será el equivalente al salario mínimo diario vigente en el Distrito Federal al momento de cometerse el delito.
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+El límite inferior del día multa será el equivalente al valor, al momento de cometerse el delito, de la Unidad de Cuenta de la Ciudad de México del Distrito Federal vigente, prevista en la Ley de la Unidad de Cuenta de la Ciudad de México y que se actualizará en la forma establecida en esa Ley.
 
 Para fijar el día multa se tomará en cuenta:
 
@@ -2230,6 +2232,8 @@ Si los actos de necrofilia se hacen consistir en la realización del coito, la p
 
 ### CAPÍTULO III. FRAUDE
 
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 209.
 
 Al que amenace a otro con causarle un mal en su persona, bienes, honor o derechos, o en la persona, honor, bienes o derechos de alguien con quien esté ligado por algún vínculo, se le impondrá de tres meses a un año de prisión o de noventa a trescientos sesenta días multa.
@@ -2248,9 +2252,9 @@ Este delito se perseguirá por querella.
 
 DELITO DE COBRANZA ILEGITIMA
 
-> <small>(ADICIONADO, G.O. 22 DE AGOSTO DE 2014)</small>
+(ADICIONADO, G.O. 22 DE AGOSTO DE 2014) (F. DE E., G.O. 28 DE NOVIEMBRE DE 2014)
 
-ARTÍCULO 209 BIS. Al que con la intención de requerir el pago de una deuda, ya sea propia del deudor o de quien funja como referencia o aval, utilice medios ilícitos e ilegítimos, se valga del engaño, o efectúe actos de hostigamiento, e intimidación, se le impondrá prisión de seis meses a dos años y una multa de ciento cincuenta a trescientos días de salario mínimo, además de las sanciones que correspondan si para tal efecto se emplearon documentación, sellos falsos o se usurparon funciones públicas o de profesión. Para la reparación del daño cometido se estará a lo dispuesto en el artículo 46 de este Código.
+ARTÍCULO 209 BIS. Al que con la intención de requerir el pago de una deuda, ya sea propia del deudor o de quien funja como referencia o aval, utilice medios ilícitos o efectúe actos de hostigamiento e intimidación, se le impondrá prisión de seis meses a dos años y una multa de ciento cincuenta a trescientos días de salario mínimo, además de las sanciones que correspondan si para tal efecto se emplearon documentación, sellos falsos o se usurparon funciones públicas o de profesión. Para la reparación del daño cometido se estará a lo dispuesto en el artículo 46 de este Código.
 
 ### CAPÍTULO IV. ADMINISTRACIÓN FRAUDULENTA
 
@@ -2282,7 +2286,7 @@ Los delitos previstos en este Capítulo, se perseguirán por querella.
 
 ### CAPÍTULO IX. ENCUBRIMIENTO POR RECEPTACIÓN
 
-> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 212.
 
@@ -2352,15 +2356,17 @@ Al que con ánimo de dominio y sin consentimiento de quien legalmente pueda otor
 
 I. (DEROGADA, G.O. 15 DE MAYO DE 2003)
 
-> <small>(REFORMADA, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-II. Prisión de seis meses a dos años y sesenta a ciento cincuenta días multa, cuando el valor de lo robado no exceda de trescientas veces el salario mínimo o cuando no sea posible determinar el valor de lo robado;
+II. Prisión de seis meses a dos años y sesenta a ciento cincuenta días multa, cuando el valor de lo robado no exceda de trescientas veces la Unidad de Cuenta de la Ciudad de México vigente o cuando no sea posible determinar el valor de lo robado;
 
-III. Prisión de dos a cuatro años y de ciento cincuenta a cuatrocientos días multa, cuando el valor de lo robado exceda de trescientas pero no de setecientas cincuenta veces el salario mínimo, y
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, G.O. 11 DE ABRIL DE 2014)</small>
+III. Prisión de dos a cuatro años y de ciento cincuenta a cuatrocientos días multa, cuando el valor de lo robado exceda de trescientas pero no de setecientas cincuenta veces la Unidad de Cuenta de la Ciudad de México vigente, y
 
-IV. Prisión de cuatro a diez años y de cuatrocientos a seiscientos días multa, cuando el valor de lo robado exceda de setecientas cincuenta veces el salario mínimo.
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+IV. Prisión de cuatro a diez años y de cuatrocientos a seiscientos días multa, cuando el valor de lo robado exceda de setecientas cincuenta veces la Unidad de Cuenta de la Ciudad de México vigente.
 
 > <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
 
@@ -2460,21 +2466,25 @@ Para la aplicación de la sanción, se dará por consumado el robo desde el mome
 
 Al que con perjuicio de alguien disponga para sí o para otro de una cosa mueble ajena, de la cual se le haya transmitido la tenencia pero no el dominio, se le impondrán:
 
-I. De treinta a noventa días multa, cuando el valor de lo dispuesto no exceda de cincuenta veces el salario mínimo, o no sea posible determinar su valor;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-II. Prisión de cuatro meses a tres años y de noventa a doscientos cincuenta días multa, cuando el valor de lo dispuesto exceda de cincuenta pero no de quinientas veces el salario mínimo;
+I. De treinta a noventa días multa, cuando el valor de lo dispuesto no exceda de cincuenta veces la Unidad de Cuenta de la Ciudad de México vigente, o no sea posible determinar su valor;
 
-> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-III. Prisión de tres a cuatro años y de doscientos cincuenta a seiscientos días multa, cuando el valor de lo dispuesto exceda de quinientas pero no de cinco mil veces el salario mínimo;
+II. Prisión de cuatro meses a tres años y de noventa a doscientos cincuenta días multa, cuando el valor de lo dispuesto exceda de cincuenta pero no de quinientas veces la Unidad de Cuenta de la Ciudad de México vigente;
 
-> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-IV. Prisión de cuatro a seis años y de seiscientos a novecientos días multa, si el valor de lo dispuesto excede de cinco mil pero no de diez mil veces el salario mínimo; y
+III. Prisión de tres a cuatro años y de doscientos cincuenta a seiscientos días multa, cuando el valor de lo dispuesto exceda de quinientas pero no de cinco mil veces la Unidad de Cuenta de la Ciudad de México vigente;
 
-> <small>(ADICIONADA, G.O. 9 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-V. Prisión de seis a doce años y de novecientos a mil doscientos cincuenta días multa, si el valor de lo dispuesto excede de diez mil veces el salario mínimo.
+IV. Prisión de cuatro a seis años y de seiscientos a novecientos días multa, si el valor de lo dispuesto excede de cinco mil pero no de diez mil veces la Unidad de Cuenta de la Ciudad de México vigente; y
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+V. Prisión de seis a doce años y de novecientos a mil doscientos cincuenta días multa, si el valor de lo dispuesto excede de diez mil veces la Unidad de Cuenta de la Ciudad de México vigente.
 
 ###### ARTÍCULO 228.
 
@@ -2500,25 +2510,15 @@ Se equipara al abuso de confianza, y se sancionará con las mismas penas asignad
 
 Al que por medio del engaño o aprovechando el error en que otro se halle, se haga ilícitamente de alguna cosa u obtenga un lucro indebido en beneficio propio o de un tercero, se le impondrán:
 
-I. De veinticinco a setenta y cinco días multa, cuando el valor de lo defraudado no exceda de cincuenta veces el salario mínimo, o no sea posible determinar su valor;
+I. De veinticinco a setenta y cinco días multa, cuando el valor de lo defraudado no exceda de cincuenta veces la Unidad de Cuenta de la Ciudad de México vigente, o no sea posible determinar su valor;
 
-II. Prisión de cuatro meses a dos años seis meses y de setenta y cinco a doscientos días multa, cuando el valor de lo defraudado exceda de cincuenta pero no de quinientas veces el salario mínimo;
+II. Prisión de cuatro meses a dos años seis meses y de setenta y cinco a doscientos días multa, cuando el valor de lo defraudado exceda de cincuenta pero no de quinientas veces la Unidad de Cuenta de la Ciudad de México vigente;
 
-> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2006)</small>
+III. Prisión de dos años seis meses a cuatro años y de doscientos a quinientos días multa, cuando el valor de lo defraudado exceda de quinientas pero no de cinco mil veces la Unidad de Cuenta de la Ciudad de México vigente;
 
-III. Prisión de dos años seis meses a cuatro años y de doscientos a quinientos días multa, cuando el valor de lo defraudado exceda de quinientas pero no de cinco mil veces el salario mínimo;
+IV. Prisión de cuatro a seis años y de quinientos a ochocientos días multa, cuando el valor de lo defraudado exceda de cinco mil pero no de diez mil veces la Unidad de Cuenta de la Ciudad de México vigente; y
 
-> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2006)</small>
-
-IV. Prisión de cuatro a seis años y de quinientos a ochocientos días multa, cuando el valor de lo defraudado exceda de cinco mil pero no de diez mil veces el salario mínimo; y
-
-> <small>(ADICIONADA, G.O. 9 DE JUNIO DE 2006)</small>
-
-V. Prisión de seis a once años y de ochocientos a mil doscientos días multa, cuando el valor de lo defraudado exceda de diez mil veces el salario mínimo.
-
-> <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
-
-Cuando el delito se cometa en contra de dos o más personas, se impondrá además las dos terceras partes de las penas previstas en las fracciones anteriores.
+V. Prisión de seis a once años y de ochocientos a mil doscientos días multa, cuando el valor de lo defraudado exceda de diez mil veces la Unidad de Cuenta de la Ciudad de México vigente.
 
 ###### ARTÍCULO 231.
 
@@ -2668,17 +2668,21 @@ A quienes cometan en forma reiterada despojo de inmuebles urbanos en el Distrito
 
 Al que destruya o deteriore una cosa ajena o una propia en perjuicio de otro, se le impondrán las siguientes penas:
 
-I. De veinte a sesenta días multa, cuando el valor del daño no exceda de veinte veces el salario mínimo, o no sea posible determinar su valor;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-II. Prisión de seis meses a dos años y sesenta a ciento cincuenta días multa, cuando el valor del daño exceda de veinte pero no de trescientas veces el salario mínimo;
+I. De veinte a sesenta días multa, cuando el valor del daño no exceda de veinte veces la Unidad de Cuenta de la Ciudad de México vigente, o no sea posible determinar su valor;
 
-> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-III. Prisión de dos a tres años y de ciento cincuenta a cuatrocientos días multa, cuando el valor del daño exceda de trescientos pero no de setecientas cincuenta veces el salario mínimo; y
+II. Prisión de seis meses a dos años y sesenta a ciento cincuenta días multa, cuando el valor del daño exceda de veinte pero no de trescientas veces la Unidad de Cuenta de la Ciudad de México vigente;
 
-> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-IV. Prisión de tres a siete años y de cuatrocientos a seiscientos días multa, cuando el valor del daño exceda de setecientas cincuenta veces el salario mínimo.
+III. Prisión de dos a tres años y de ciento cincuenta a cuatrocientos días multa, cuando el valor del daño exceda de trescientos pero no de setecientas cincuenta veces la Unidad de Cuenta de la Ciudad de México vigente; y
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+IV. Prisión de tres a siete años y de cuatrocientos a seiscientos días multa, cuando el valor del daño exceda de setecientas cincuenta veces la Unidad de Cuenta de la Ciudad de México vigente.
 
 ###### ARTÍCULO 240.
 
@@ -2744,9 +2748,13 @@ Al conductor de un vehículo automotor que se retire del lugar en que participó
 
 ###### ARTÍCULO 243.
 
-Se impondrá prisión de 2 a 7 años de prisión, y de cincuenta a ciento veinte días multa, a quien después de la ejecución de un delito y sin haber participado en él, adquiera posea, desmantele, venda, enajene, comercialice, trafique, pignore, reciba, traslade, use u oculte el o los instrumentos, objetos o productos de aquél, con conocimiento de esta circunstancia si el valor de cambio no excede de quinientas veces el salario mínimo.
+Se impondrá prisión de 2 a 7 años de prisión, y de cincuenta a ciento veinte días multa, a quien después de la ejecución de un delito y sin haber participado en él, adquiera posea, desmantele, venda, enajene, comercialice, trafique, pignore, reciba, traslade, use u oculte el o los instrumentos, objetos o productos de aquél, con conocimiento de esta circunstancia si el valor de cambio no excede de quinientas veces la Unidad de Cuenta de la Ciudad de México vigente.
 
-Si el valor de éstos es superior a quinientas veces el salario, se impondrá de 5 a 10 años de pena privativa de libertad y de doscientos a mil quinientos días multa.
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Si el valor de éstos es superior a quinientas veces la Unidad de Cuenta de la Ciudad de México vigente, se impondrá de 5 a 10 años de pena privativa de libertad y de doscientos a mil quinientos días multa.
+
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
 
 Cuando el o los instrumentos, objetos o productos de un delito se relacionan con el giro comercial del tenedor o receptor, si éste es comerciante o sin serlo se encuentra en posesión de dos o más de los mismos, se tendrá por acreditado que existe conocimiento de que proviene o provienen de un ilícito.
 
@@ -2788,15 +2796,17 @@ Se investigarán de oficio los delitos a que se refieren los artículos 227, 228
 
 El sentenciado ejecutoriado por los delitos de Abuso de Confianza, Fraude, Administración Fraudulenta e Insolvencia Fraudulenta, sean perseguibles por querella o de oficio, podrá obtener su libertad inmediata cuando cubra la totalidad de la reparación del daño y una vez que se decrete la extinción de la potestad de ejecutar las penas y las medidas de seguridad, por parte de la autoridad judicial única y exclusivamente, y para tal efecto es suficiente la manifestación expresa del querellante o denunciante de que el daño patrimonial ocasionado le ha sido resarcido.
 
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 247.
 
-Para establecer la cuantía que corresponda a los delitos previstos en este Título, así como para la determinación de la multa, se tomará en consideración el salario mínimo vigente en el Distrito Federal, al momento de la ejecución del delito.
+Para establecer la cuantía que corresponda a los delitos previstos en este Título, así como para la determinación de la multa, se tomará en consideración veces (sic) la Unidad de Cuenta de la Ciudad de México vigente, al momento de la ejecución del delito.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 248.
 
-No se impondrá sanción alguna por los delitos previsto en los artículos 220, en cualquiera de la (sic) modalidades a que se refieren las fracciones I, III y IX del artículo 224, 228, 229, 230, 232 y 234; cuando el monto o valor del objeto, lucro, daño o perjuicio no exceda de cincuenta veces el salario mínimo; despojo a que se refiere el artículo 237 fracciones I y II, siempre y cuando no se cometan con violencia física o moral y no intervengan dos o más personas y 239, todos ellos cuando el agente sea primo-delincuente, si este restituye el objeto del delito o satisface los daños y perjuicios o, si no es posible la restitución, cubra el valor del objeto y los daños y perjuicios, antes de que el Ministerio Público ejercite acción penal, salvo que se trate de delitos cometidos con violencia por personas armadas o medie privación de la libertad o extorsión.
+No se impondrá sanción alguna por los delitos previsto (sic) en los artículos 220, en cualquiera de la (sic) modalidades a que se refieren las fracciones I, III y IX del artículo 224, 228, 229, 230, 232 y 234; cuando el monto o valor del objeto, lucro, daño o perjuicio no exceda de cincuenta veces la Unidad de Cuenta de la Ciudad de México vigente; despojo a que se refiere el artículo 237 fracciones I y II, siempre y cuando no se cometan con violencia física o moral y no intervengan dos o más personas y 239, todos ellos cuando el agente sea primo-delincuente, si este restituye el objeto del delito o satisface los daños y perjuicios o, si no es posible la restitución, cubra el valor del objeto y los daños y perjuicios, antes de que el Ministerio Público ejercite acción penal, salvo que se trate de delitos cometidos con violencia por personas armadas o medie privación de la libertad o extorsión.
 
 En los mismos supuestos considerados en el párrafo anterior, se reducirá en una mitad la sanción que corresponda al delito cometido, si antes de dictarse sentencia en segunda instancia, el agente restituye la cosa o entrega su valor y satisface los daños y perjuicios causados.
 
@@ -2807,6 +2817,8 @@ El juzgador podrá suspender al agente, de dos a cinco años en el ejercicio de 
 ## TÍTULO DÉCIMO SEXTO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
 
 ### CAPÍTULO XI. CONCUSIÓN
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 250.
 
@@ -3012,15 +3024,17 @@ Si la conducta que se señala en la fracción II se hiciere en perjuicio de la p
 
 > <small>(REFORMADO, G.O. 9 DE JUNIO DE 2006)</small>
 
-ARTÍCULO 268 Cuando las conductas previstas en el artículo anterior produzcan beneficios económicos al propio servidor público, a su cónyuge, descendientes o ascendientes, parientes por consanguinidad o afinidad hasta el cuarto grado, concubina o concubinario, pareja permanente, adoptante o adoptado, a cualquier tercero con el que tenga vínculos afectivos, económicos o de dependencia administrativa directa, socios o sociedades de las que el servidor público o las personas antes referidas formen parte, se impondrán las siguientes sanciones:
-
-Si el monto de los beneficios no excede del equivalente a mil quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, se impondrán de dos a nueve años de prisión y de mil a mil quinientos días multa.
-
-Cuando el monto de los beneficios a que hace referencia este artículo exceda mil quinientas veces el salario mínimo diario vigente en el Distrito Federal, se impondrán de cuatro a doce años de prisión y de mil quinientos a dos mil días multa.
-
 ###### ARTÍCULO 268.
 
-Cuando las conductas previstas en el artículo anterior produzcan beneficios económicos al propio servidor público, a su cónyuge, descendientes o ascendientes, parientes por consanguinidad o afinidad hasta el cuarto grado, concubina o concubinario, pareja permanente, adoptante o adoptado, a cualquier tercero con el que tenga vínculos afectivos, económicos o de dependencia administrativa directa, socios o sociedades de las que el servidor público o las personas antes referidas formen parte, se le aumentarán las penas en una tercera parte.
+Cuando las conductas previstas en el artículo anterior produzcan beneficios económicos al propio servidor público, a su cónyuge, descendientes o ascendientes, parientes por consanguinidad o afinidad hasta el cuarto grado, concubina o concubinario, pareja permanente, adoptante o adoptado, a cualquier tercero con el que tenga vínculos afectivos, económicos o de dependencia administrativa directa, socios o sociedades de las que el servidor público o las personas antes referidas formen parte, se impondrán las siguientes sanciones:
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Si el monto de los beneficios no excede del equivalente a mil quinientas veces la Unidad de Cuenta de la Ciudad de México vigente en el momento de cometerse el delito, se impondrán de dos a nueve años de prisión y de mil a mil quinientos días multa.
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Cuando el monto de los beneficios a que hace referencia este artículo exceda mil quinientas veces la Unidad de Cuenta de la Ciudad de México vigente, se impondrán de cuatro a doce años de prisión y de mil quinientos a dos mil días multa.
 
 ### CAPÍTULO VI. EJERCICIO ILEGAL DEL PROPIO DERECHO
 
@@ -3084,27 +3098,33 @@ Si la conducta anterior produce un beneficio económico, la sanción se aumentar
 
 Al servidor público que por sí o por interpósita persona, solicite o reciba indebidamente para sí o para otro, dinero o cualquier otra dádiva, o acepte una promesa, para hacer o dejar de hacer algo relacionado con sus funciones, se le impondrán las siguientes sanciones:
 
-I. Cuando la cantidad o el valor de la dádiva o promesa no exceda del equivalente de quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, o no sea valuable, se impondrán de uno a cuatro años de prisión y de treinta a trescientos días multa; o
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-II. Cuando la cantidad o el valor de la dádiva, promesa o prestación exceda de quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, se impondrán de dos a nueve años de prisión y de trescientos a ochocientos días multa.
+I. Cuando la cantidad o el valor de la dádiva o promesa no exceda del equivalente de quinientas veces la Unidad de Cuenta de la Ciudad de México vigente en el momento de cometerse el delito, o no sea valuable, se impondrán de uno a cuatro años de prisión y de treinta a trescientos días multa; o
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+II. Cuando la cantidad o el valor de la dádiva, promesa o prestación exceda de quinientas veces la Unidad de Cuenta de la Ciudad de México vigente en el momento de cometerse el delito, se impondrán de dos a nueve años de prisión y de trescientos a ochocientos días multa.
 
 ### CAPÍTULO II. DELITOS EN EL ÁMBITO DE LA PROCURACIÓN DE JUSTICIA
 
 ###### ARTÍCULO 273.
 
-Se impondrán prisión de seis meses a cuatro años y de cincuenta a quinientos días multa, al servidor público que:
+Se impondrán (sic) prisión de seis meses a cuatro años y de cincuenta a quinientos días multa, al servidor público que:
 
 I. Disponga o distraiga de su objeto, dinero, valores, inmuebles o cualquier otra cosa, si los hubiere recibido por razón de su cargo; o
 
 II. Indebidamente utilice fondos públicos u otorgue alguno de los actos a que se refiere el artículo 267 de este Código, con el objeto de promover la imagen política o social de su persona, de su superior jerárquico o de un tercero, o a fin de denigrar a cualquier persona.
 
-Cuando el monto o valor exceda de quinientas veces el salario mínimo, se impondrán prisión de cuatro a doce años y de quinientos a dos mil días multa.
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Cuando el monto o valor exceda de quinientas veces la Unidad de Cuenta de la Ciudad de México vigente, se impondrán (sic) prisión de cuatro a doce años y de quinientos a dos mil días multa.
 
 ### CAPÍTULO III
 
 ###### ARTÍCULO 274.
 
-Al servidor público que con tal carácter exija por sí o por interpósita persona a título de impuesto o contribución, recargo, renta rédito, salario o emolumento, dinero, valores, servicios o cualquier otra cosa que sepa no es debida, o en mayor cantidad de la que señala la ley, se le impondrán de tres meses a dos años de prisión, de treinta a trescientos días multa e inhabilitación de tres meses a dos años para desempeñar cargo, empleo o comisión en el servicio público, cuando el valor de lo exigido no exceda de quinientos (sic) veces el salario mínimo, o no sea valuable. Si el valor de lo exigido excede de quinientas veces el salario mínimo, se le impondrán de dos a doce años de prisión, de trescientos a quinientos días multa e inhabilitación de dos a doce años para desempeñar cargo, empleo o comisión en el servicio público.
+Al servidor público que con tal carácter exija por sí o por interpósita persona a título de impuesto o contribución, recargo, renta rédito, salario o emolumento, dinero, valores, servicios o cualquier otra cosa que sepa no es debida, o en mayor cantidad de la que señala la ley, se le impondrán de tres meses a dos años de prisión, de treinta a trescientos días multa e inhabilitación de tres meses a dos años para desempeñar cargo, empleo o comisión en el servicio público, cuando el valor de lo exigido no exceda de quinientas veces la Unidad de Cuenta de la Ciudad de México vigente, o no sea valuable. Si el valor de lo exigido excede de quinientas veces la Unidad de Cuenta de la Ciudad de México vigente, se le impondrán de dos a doce años de prisión, de trescientos a quinientos días multa e inhabilitación de dos a doce años para desempeñar cargo, empleo o comisión en el servicio público.
 
 ### CAPÍTULO IV. DELITOS COMETIDOS EN EL ÁMBITO DE LA ADMINISTRACIÓN DE JUSTICIA
 
@@ -3116,9 +3136,13 @@ Para determinar el enriquecimiento del servidor público, se tomarán en cuenta 
 
 Al servidor público que cometa el delito de enriquecimiento ilícito, se le impondrán las siguientes sanciones:
 
-Cuando el monto a que ascienda el enriquecimiento ilícito no exceda del equivalente a cinco mil veces el salario mínimo diario vigente en el lugar y el momento en que se comete el delito, se impondrá de seis meses a cinco años de prisión y de cincuenta a trescientos días multa.
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente a cinco mil veces el salario mínimo antes anotado, se impondrán de dos a doce años de prisión y de trescientos a seiscientos días multa.
+Cuando el monto a que ascienda el enriquecimiento ilícito no exceda del equivalente a cinco mil veces la Unidad de Cuenta de la Ciudad de México vigente en el momento en que se comete el delito, se impondrá de seis meses a cinco años de prisión y de cincuenta a trescientos días multa.
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente a cinco mil veces la Unidad de Cuenta de la Ciudad de México vigente antes anotado, se impondrán de dos a doce años de prisión y de trescientos a seiscientos días multa.
 
 ### CAPÍTULO V. OMISIÓN DE INFORMES MÉDICO FORENSES
 
@@ -3144,9 +3168,13 @@ Al particular que promueva una conducta ilícita de un servidor público, o se p
 
 Al particular que de manera espontánea le ofrezca dinero o cualquier dádiva u otorgue promesa a un servidor público o a interpósita persona, para que dicho servidor haga u omita un acto relacionado con sus funciones, se le impondrán las siguientes sanciones:
 
-I. De seis meses a tres años de prisión y de veinte a doscientos días multa cuando la cantidad o el valor de la dádiva o promesa no exceda del equivalente a cien veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, o no sea valuable; o
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-II. De uno a cinco años de prisión y de trescientos a ochocientos días multa cuando la cantidad o el valor de la dádiva, promesa o prestación excedan de cien veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito.
+I. De seis meses a tres años de prisión y de veinte a doscientos días multa cuando la cantidad o el valor de la dádiva o promesa no exceda del equivalente a cien veces la Unidad de Cuenta de la Ciudad de México vigente en el momento de cometerse el delito, o no sea valuable; o
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+II. De uno a cinco años de prisión y de trescientos a ochocientos días multa cuando la cantidad o el valor de la dádiva, promesa o prestación excedan de cien veces la Unidad de Cuenta de la Ciudad de México vigente en el momento de cometerse el delito.
 
 El juez podrá imponer al particular una tercera parte de las penas señaladas en el párrafo anterior, o eximirlo de las mismas, cuando hubiese actuado para beneficiar a alguna persona con la que lo ligue un vínculo familiar, de dependencia o cuando haya denunciado espontáneamente el delito cometido.
 
@@ -3486,7 +3514,9 @@ DELITOS COMETIDO (SIC) POR PARTICULARES ANTE EL MINISTERIO PÚBLICO, AUTORIDAD J
 
 Al que para obtener un beneficio indebido para sí o para otro, simule un acto jurídico, un acto o escrito judicial o altere elementos de prueba y los presente en juicio, o realice cualquier otro acto tendiente a inducir a error a la autoridad judicial o administrativa, con el fin de obtener sentencia, resolución o acto administrativo contrario a la ley, se le impondrán de seis meses a seis años de prisión y de cincuenta a doscientos cincuenta días multa. Si el beneficio es de carácter económico, se impondrán las penas previstas para el delito de fraude.
 
-Este delito se perseguirá por querella, salvo que la cuantía o monto exceda de cinco mil veces el salario mínimo general vigente en el Distrito Federal, al momento de realizarse el hecho.
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Este delito se perseguirá por querella, salvo que la cuantía o monto exceda de cinco mil veces la Unidad de Cuenta de la Ciudad de México vigente, al momento de realizarse el hecho.
 
 ### CAPÍTULO I. PRODUCCIÓN, IMPRESIÓN, ENAJENACIÓN, DISTRIBUCIÓN, ALTERACIÓN O FALSIFICACIÓN DE TÍTULOS AL PORTADOR, DOCUMENTOS DE CRÉDITO PÚBLICOS O VALES DE CANJE
 
@@ -4859,3 +4889,13 @@ TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 G.O. 8 DE OCTUBRE DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Distrito Federal.
+
+G.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
