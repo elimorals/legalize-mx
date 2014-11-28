@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-6019
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-28"
-last_updated: "2014-08-07"
+last_updated: "2014-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60192&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-03-07"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 28 de marzo de 2008.
 
@@ -356,9 +356,9 @@ VI. Remuneración mensual bruta y neta de todos los servidores públicos por sue
 
 VII. Una lista con el importe por concepto de viáticos y gastos de representación que mensualmente los servidores públicos hayan ejecutado por concepto de encargo o comisión;
 
-> <small>(REFORMADA, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-VIII. La relación de los bienes que le sean asignados y el monto a que ascienden los mismos, siempre que su valor sea superior a trescientos cincuenta veces el salario mínimo vigente del Distrito Federal, así como el catálogo o informe de altas y bajas;
+VIII. La relación de los bienes que le sean asignados y el monto a que ascienden los mismos, siempre que su valor sea superior a trescientos cincuenta veces la Unidad de Cuenta de la Ciudad de México vigente del Distrito Federal, así como el catálogo o informe de altas y bajas;
 
 > <small>(REFORMADA, G.O. 29 DE AGOSTO DE 2011)</small>
 
@@ -2395,3 +2395,13 @@ DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 16 DE LA LEY DE TRANSPARENCIA Y ACCES
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y, para su mayor difusión, en el Diario Oficial de la Federación.
+
+G.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
