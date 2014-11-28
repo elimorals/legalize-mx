@@ -4,7 +4,7 @@ identifier: "CMX-codigo-fiscal-de-la-ciudad-de-mexico-antes-codigo-fiscal-71178"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-12-29"
-last_updated: "2014-08-20"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71178&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-12-28"
 
 CÓDIGO FISCAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 2009.
 
@@ -49,6 +49,8 @@ D E C R E T A
 DECRETO POR EL QUE SE EXPIDE EL CÓDIGO FISCAL DEL DISTRITO FEDERAL.
 
 ÚNICO.- Se expide el Código Fiscal del Distrito Federal, para quedar como sigue:
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO CUARTO DEL DECRETO SIN NÚMERO, PUBLICADO EN LA G.O. DE 28 DE NOVIEMBRE DE 2014, LAS REFERENCIAS QUE SE HAGAN DEL SALARIO MÍNIMO EN LAS NORMAS LOCALES VIGENTES, INCLUSO EN AQUELLAS PENDIENTES DE PUBLICAR O DE ENTRAR EN VIGOR, SE ENTENDERÁN HECHAS A LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO, A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.</small>
 
 CÓDIGO FISCAL DEL DISTRITO FEDERAL
 
@@ -156,9 +158,13 @@ XLIII. Tribunal de lo Contencioso: El Tribunal de lo Contencioso Administrativo 
 
 XLIV. Universidad: La Universidad Autónoma de la Ciudad de México;
 
-XLV. Vivienda de Interés Popular: Aquella cuyo precio de venta al público es superior a 15 y hasta 30 salarios mínimos anuales vigentes en el Distrito Federal, y
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-XLVI. Vivienda de Interés Social: Aquella cuyo precio máximo de venta al público es de 15 salarios mínimos anuales vigentes en el Distrito Federal.
+XLV. Vivienda de Interés Popular: Aquella cuyo precio de venta al público es superior a 5400 veces la Unidad de Cuenta de la Ciudad de México vigente y hasta 10800 veces la Unidad de Cuenta de la Ciudad de México vigente;
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XLVI. Vivienda de Interés Social: Aquella cuyo precio máximo de venta al público es de 5400 veces la Unidad de Cuenta de la Ciudad de México vigente.
 
 ###### ARTICULO 3.
 
@@ -522,11 +528,13 @@ La cancelación de las garantías en las que con motivo de su otorgamiento se hu
 
 Procede garantizar el interés fiscal, cuando:
 
-I. Se solicite la suspensión del procedimiento administrativo de ejecución y el crédito fiscal exceda de ochocientas veces el salario mínimo general diario vigente en el Distrito Federal;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2012)</small>
+I. Se solicite la suspensión del procedimiento administrativo de ejecución y el crédito fiscal exceda de ochocientas veces la Unidad de Cuenta de la Ciudad de México vigente;
 
-II. Se solicite prórroga para el pago de los créditos fiscales o para que sean cubiertos en parcialidades, si dichas facilidades se conceden individualmente y siempre que el crédito fiscal tenga un monto superior a ochocientas veces el salario mínimo general diario vigente en el Distrito Federal, tratándose de créditos fiscales de derechos por el suministro de agua el monto de éstos deberá ser superior a mil quinientas veces el salario mínimo general diario vigente en el Distrito Federal;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+II. Se solicite prórroga para el pago de los créditos fiscales o para que sean cubiertos en parcialidades, si dichas facilidades se conceden individualmente y siempre que el crédito fiscal tenga un monto superior a ochocientas veces la Unidad de Cuenta de la Ciudad de México vigente, tratándose de créditos fiscales de derechos por el suministro de agua el monto de éstos deberá ser superior a mil quinientas veces la Unidad de Cuenta de la Ciudad de México vigente;
 
 III. Se solicite la aplicación del producto en los términos del artículo 385 de este Código;
 
@@ -844,9 +852,9 @@ II. Que el contribuyente acredite fehacientemente que interpuso los medios de de
 
 III. Que la reducción no sea superior a un 40%.
 
-> <small>(ADICIONADO, G. O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-Para efectos de lo dispuesto en este artículo, tratándose de devoluciones mayores a setenta y ocho salarios mínimos generales vigentes en el Distrito Federal, la Secretaría realizará los pagos mediante transferencia electrónica a la clave bancaria estandarizada que al efecto sea proporcionada por el contribuyente en su solicitud de devolución.
+Para efectos de lo dispuesto en este artículo, tratándose de devoluciones mayores a sesenta y ocho veces la Unidad de Cuenta de la Ciudad de México vigente, la Secretaría realizará los pagos mediante transferencia electrónica a la clave bancaria estandarizada que al efecto sea proporcionada por el contribuyente en su solicitud de devolución.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -2026,7 +2034,9 @@ I. Todo acto por el que se transmita la propiedad, incluyendo la donación, la q
 
 En las permutas se considerará que se efectúan dos adquisiciones.
 
-En el caso de adquisiciones por causa de muerte, se aplicará una tasa de 0% del Impuesto sobre Adquisición de Inmuebles, siempre que el valor del inmueble a la fecha de la escritura de adjudicación no exceda de la suma equivalente a doce mil setenta y tres veces al Salario Mínimo General Vigente en el Distrito Federal;
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+En el caso de adquisiciones por causa de muerte, se aplicará una tasa de 0% del Impuesto sobre Adquisición de Inmuebles, siempre que el valor del inmueble a la fecha de la escritura de adjudicación no exceda de la suma equivalente a doce mil setenta y tres veces la Unidad de Cuenta de la Ciudad de México vigente;
 
 II. La compraventa en la que el vendedor se reserve el dominio, aun cuando la transferencia de ésta opere con posterioridad;
 
@@ -2472,9 +2482,9 @@ VI. Los contribuyentes de este impuesto deberán presentar, con las declaracione
 
 La Secretaría podrá autorizar en forma previa, sistemas electrónicos alternos de control, para la emisión de boletos de los espectáculos públicos que se realicen en el Distrito Federal, verificando que dichos sistemas cuenten con niveles de seguridad que garanticen su confiabilidad, respecto a los boletos no vendidos, de acuerdo con el procedimiento que la misma determine mediante reglas de carácter general;
 
-> <small>(REFORMADA, G. O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-VII. Garantizar el interés fiscal cuando se encuentren en la hipótesis prevista en la fracción II del artículo 140 de este Código, siempre y cuando el crédito fiscal exceda de ochocientas veces el salario mínimo general diario vigente en el Distrito Federal, y
+VII. Garantizar el interés fiscal cuando se encuentren en la hipótesis prevista en la fracción II del artículo 140 de este Código, siempre y cuando el crédito fiscal exceda de ochocientas veces la Unidad de Cuenta de la Ciudad de México vigente, y
 
 > <small>(ADICIONADA, G. O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -8060,9 +8070,13 @@ Para la obtención de la reducción, los contribuyentes deberán presentar la co
 
 IV. Las micro, pequeñas y medianas empresas industriales, que comprueben haber llevado a cabo la adquisición o arrendamiento de maquinaria y equipo que incremente la capacidad instalada de la empresa, tendrán derecho a una reducción equivalente al 10% por concepto del Impuesto Predial.
 
-Los contribuyentes para obtener la reducción a que se refiere esta fracción, deberán presentar una constancia emitida por la Secretaría de Desarrollo Económico, con la que se acredite, en el caso de las micro industrias, que realizaron una inversión adicional de por lo menos 2,500 días de salario mínimo general vigente en el Distrito Federal; en el caso de las pequeñas industrias, de por lo menos 5,200 días de salario mínimo general vigente en el Distrito Federal, y en el caso de industrias medianas, de por lo menos 7,000 días de salario mínimo general vigente en el Distrito Federal.
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-V. Las empresas de producción agropecuaria o agroindustrial que realicen inversiones adicionales en maquinaria o equipo de por lo menos 3,000 días de salario mínimo general vigente en el Distrito Federal, tendrán derecho a una reducción equivalente al 30% por concepto del Impuesto Predial, para lo cual deberán presentar una constancia emitida por la Comisión de Recursos Naturales y Desarrollo Rural.
+Los contribuyentes para obtener la reducción a que se refiere esta fracción, deberán presentar una constancia emitida por la Secretaría de Desarrollo Económico, con la que se acredite, en el caso de las micro industrias, que realizaron una inversión adicional de por lo menos 2,500 veces la Unidad de Cuenta de la Ciudad de México vigente; en el caso de las pequeñas industrias, de por lo menos 5,200 veces la Unidad de Cuenta de la Ciudad de México vigente, y en el caso de industrias medianas, de por lo menos 7,000 veces la Unidad de Cuenta de la Ciudad de México vigente.
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+V. Las empresas de producción agropecuaria o agroindustrial que realicen inversiones adicionales en maquinaria o equipo de por lo menos 3,000 veces la Unidad de Cuenta de la Ciudad de México vigente, tendrán derecho a una reducción equivalente al 30% por concepto del Impuesto Predial, para lo cual deberán presentar una constancia emitida por la Comisión de Recursos Naturales y Desarrollo Rural.
 
 VI. Las empresas que acrediten que iniciaron operaciones en los sectores de alta tecnología, tendrán derecho a una reducción equivalente al 55% respecto del Impuesto sobre Nóminas, del 30% por concepto del Impuesto Predial y del 80% tratándose del Impuesto sobre Adquisición de Inmuebles.
 
@@ -8392,7 +8406,9 @@ Las personas a que se refiere este artículo, para obtener la reducción deberá
 
 Las personas físicas o morales que organicen loterías, rifas, sorteos, juegos con apuestas, apuestas permitidas, concursos de toda clase, que cuenten con instalaciones ubicadas en el Distrito Federal destinadas a la celebración de sorteos o apuestas permitidas o juegos con apuestas, tendrán derecho a una reducción del 10% respecto del impuesto a que hace referencia el artículo 145 de este Código.
 
-Para obtener los beneficios a que se refiere este artículo, las personas físicas y morales a que hace referencia el primer párrafo, deberán acreditar mediante una constancia emitida por la Secretaría de Finanzas, que hayan generado como mínimo dos mil empleos directos y/o indirectos y una inversión acumulada y consolidada en activos fijos superior a cincuenta mil veces el salario mínimo general vigente en el Distrito Federal elevado al año. Sin excepción, la inversión debió realizarse en las instalaciones ubicadas en el Distrito Federal que se destinen a la celebración de las loterías, rifas, sorteos, apuestas permitidas o juegos con apuestas.
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Para obtener los beneficios a que se refiere este artículo, las personas físicas y morales a que hace referencia el primer párrafo, deberán acreditar mediante una constancia emitida por la Secretaría de Finanzas, que hayan generado como mínimo dos mil empleos directos y/o indirectos y una inversión acumulada y consolidada en activos fijos superior a 18,000,000 veces la Unidad de Cuenta de la Ciudad de México vigente. Sin excepción, la inversión debió realizarse en las instalaciones ubicadas en el Distrito Federal que se destinen a la celebración de las loterías, rifas, sorteos, apuestas permitidas o juegos con apuestas.
 
 También gozarán de este beneficio, las personas físicas o morales que obtengan los premios derivados o relacionados con las actividades a que se refiere el primer párrafo de este artículo.
 
@@ -8552,9 +8568,9 @@ b). Los aprovechamientos que se cobren por el uso o disfrute de bienes o por la 
 
 c). Se podrán establecer aprovechamientos diferenciales por el uso de bienes o prestación de servicios, cuando éstos respondan a estrategias de comercialización o racionalización y se otorguen de manera general. La omisión total o parcial en el cobro de los aprovechamientos establecidos en los términos de este Código, afectará a los Órganos, disminuyendo una cantidad equivalente a dos veces el valor de la omisión efectuada del presupuesto del Órgano de que se trate.
 
-> <small>(REFORMADO, G.O. 19 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-d). Los aprovechamientos generados por multas administrativas causadas por establecimientos mercantiles con una superficie no mayor a 30 metros cuadrados, cuyo titular sea persona física y que funcionen con aviso o permiso con giro de impacto vecinal y que prohíban la venta de bebidas alcohólicas, podrán cubrirse en pagos parciales hasta por 36 meses, siempre que el monto de la multa impuesta no exceda de 40 días de salario mínimo vigente en el Distrito Federal.
+d). Los aprovechamientos generados por multas administrativas causadas por establecimientos mercantiles con una superficie no mayor a 30 metros cuadrados, cuyo titular sea persona física y que funcionen con aviso o permiso con giro de impacto vecinal y que prohíban la venta de bebidas alcohólicas, podrán cubrirse en pagos parciales hasta por 36 meses, siempre que el monto de la multa impuesta no exceda de 40 veces la Unidad de Cuenta de la Ciudad de México vigente.
 
 > <small>(REFORMADO, G.O. 19 DE MAYO DE 2011)</small>
 
@@ -9936,9 +9952,15 @@ VII. Las autoridades administrativas y las partes interesadas se conducirán, en
 
 La autoridad que tramite el procedimiento administrativo, velará por mantener el buen orden y de exigir que se le guarde respeto, tanto de las partes interesadas como de cualquier persona que ocurra a los locales de las unidades administrativas, así como de los demás servidores públicos, pudiendo al efecto aplicar correcciones disciplinarias e, incluso, pedir el auxilio de la fuerza pública, por la violación a este precepto, levantando al efecto acta circunstanciada en la que hará constar tal situación. Dicha facultad sancionadora también se ejercerá para hacer cumplir sus determinaciones. Son correcciones disciplinarias:
 
+> <small>(ADICIONADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Son correcciones disciplinarias: (sic)
+
 I. Apercibimiento, y
 
-II. Multa de cien hasta doscientos días de salario mínimo general vigente en el Distrito Federal.
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+II. Multa de cien hasta doscientas veces la Unidad de Cuenta de la Ciudad de México vigente.
 
 Las conductas indebidas a que se refiere este artículo, por parte de los servidores públicos se sancionarán de acuerdo con lo dispuesto por la Ley Federal de Responsabilidades de los Servidores Públicos.
 
@@ -10890,9 +10912,11 @@ b). En un 20% del monto de las contribuciones omitidas o del beneficio indebido,
 
 La falta de pago de los aprovechamientos a que se refiere el artículo 304, tendrá como consecuencia que no se puedan utilizar para el ejercicio del comercio, las vías y áreas públicas permisionadas o concesionadas y, por lo tanto, las Delegaciones podrán proceder al retiro de las personas que las ocupen, independientemente de las demás sanciones que resulten aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTICULO 474.
 
-A las personas que mediante terceros fijen, instalen, ubiquen o modifiquen anuncios de propaganda sin previo pago de los derechos a que se refiere el artículo 193 de este Código, se les aplicará una sanción económica de entre doscientos y doscientos cincuenta días de Salario Mínimo General Vigente en el Distrito Federal, más las actualizaciones, recargos y gastos del retiro de dichos anuncios; una vez retirada, la estructura utilizada en dichos anuncios quedará a disposición de la autoridad.
+A las personas que mediante terceros fijen, instalen, ubiquen o modifiquen anuncios de propaganda sin previo pago de los derechos a que se refiere el artículo 193 de este Código, se les aplicará una sanción económica de entre doscientos y doscientos cincuenta veces la Unidad de Cuenta de la Ciudad de México vigente más las actualizaciones, recargos y gastos del retiro de dichos anuncios; una vez retirada, la estructura utilizada en dichos anuncios quedará a disposición de la autoridad.
 
 > <small>(REFORMADO EN SU CUOTA, G.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -10931,6 +10955,8 @@ V. De $22,135.50 a $55,339.00, por no presentar el aviso para dictaminar el cump
 VI. De $19,922.00 a $49,802.50, por no dictaminar el cumplimiento de las obligaciones fiscales o no presentar el dictamen conforme lo establecen las disposiciones fiscales, habiendo formulado el aviso respectivo, en su caso.
 
 ### CAPITULO VII. De los Delitos Cometidos por Depositarios e Interventores
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 476.
 
@@ -11096,11 +11122,15 @@ IX. Por llevar a cabo la interconexión entre la toma de agua potable y la de ag
 
 X. Al usuario que se reconecte al servicio hidráulico y se encuentre éste restringido o suspendido, ya sea en el cuadro donde se aloja el medidor o en la tubería que se encuentra en la vía pública, retire el engomado, rompa el sello o abra la válvula del lugar donde se ejecutó la restricción o suspensión, se le aplicará una multa de $4,465.76 a $206,618.96. Para imponer la multa, se tomará en consideración el tipo de usuario y la reincidencia en la conducta, y
 
-XI. A quienes desperdicien el agua tratándose de uso doméstico de 400 a 700 salarios mínimos vigentes en el Distrito Federal y en uso no doméstico de 2250 a 4500 salarios mínimos generales vigentes en el Distrito Federal, la multa se aplicará previa verificación y levantamiento del acta correspondiente, en el recibo de pago de los derechos por el suministro de agua del bimestre inmediato.
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XI. A quienes desperdicien el agua tratándose de uso doméstico de 400 a 700 veces la Unidad de Cuenta de la Ciudad de México vigente en el Distrito Federal y en uso no doméstico de 2250 a 4500 veces la Unidad de Cuenta de la Ciudad de México vigente, la multa se aplicará previa verificación y levantamiento del acta correspondiente, en el recibo de pago de los derechos por el suministro de agua del bimestre inmediato.
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 481.
 
-Cuando se deje sin efectos una notificación practicada ilegalmente, ya sea por virtud de una resolución administrativa o jurisdiccional emitida por autoridad competente, se podrá imponer al notificador, actuario o personal habilitado que la hubiere practicado, una multa mínima de 30 veces el salario mínimo general diario vigente en el Distrito Federal y hasta el 50% de la cantidad consignada en el documento a diligenciar.
+Cuando se deje sin efectos una notificación practicada ilegalmente, ya sea por virtud de una resolución administrativa o jurisdiccional emitida por autoridad competente, se podrá imponer al notificador, actuario o personal habilitado que la hubiere practicado, una multa mínima de 30 veces la Unidad de Cuenta de la Ciudad de México vigente y hasta el 50% de la cantidad consignada en el documento a diligenciar
 
 ### CAPITULO VIII. De los Delitos de Falsificación en Materia Fiscal
 
@@ -11232,7 +11262,9 @@ Al servidor público que en ejercicio de sus funciones o con motivo de ellas, co
 
 Comete el delito de defraudación fiscal quien mediante el uso de engaños o aprovechamiento de errores, omita total o parcialmente el pago de alguna contribución o aprovechamiento, previstos en este Código u obtenga, para sí o para un tercero, un beneficio indebido en perjuicio de la Hacienda Pública del Distrito Federal.
 
-El delito previsto en este artículo se sancionará con prisión de tres meses a dos años si el monto de lo defraudado no excede de mil veces el salario mínimo general diario vigente en el Distrito Federal; si el monto de lo defraudado excede la cantidad anterior, pero no de dos mil veces dicho salario, la sanción será de dos a cinco años de prisión; y si el valor de lo defraudado fuere mayor de esta última cantidad, la sanción será de cinco a nueve años de prisión.
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+El delito previsto en este artículo se sancionará con prisión de tres meses a dos años si el monto de lo defraudado no excede de mil veces la Unidad de Cuenta de la Ciudad de México vigente; si el monto de lo defraudado excede la cantidad anterior, pero no de dos mil veces dicha Unidad de Cuenta de la Ciudad de México vigente, la sanción será de dos a cinco años de prisión; y si el valor de lo defraudado fuere mayor de esta última cantidad, la sanción será de cinco a nueve años de prisión.
 
 Para los efectos de este artículo se tomará en cuenta el monto de las contribuciones o aprovechamientos defraudados en un mismo año de calendario, aun cuando sean diferentes y se trate de diversas conductas.
 
@@ -11276,7 +11308,9 @@ II. (DEROGADA, G.O. 30 DE DICIEMBRE DE 2010)
 
 III. Omitan total o parcialmente el pago del Impuesto Predial, como consecuencia de la omisión o inexactitud en la manifestación de las características físicas de los inmuebles de su propiedad, el destino o uso de los mismos.
 
-Los delitos previstos en este artículo se sancionarán con prisión de tres meses a dos años si el monto de lo defraudado no excede de mil veces el salario mínimo general diario vigente en el Distrito Federal; si el monto de lo defraudado excede de la cantidad anterior, pero no de dos mil veces dicho salario, la sanción será de dos a cinco años de prisión; y si el valor de lo defraudado fuere mayor de esta última cantidad, la sanción será de cinco a nueve años de prisión.
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Los delitos previstos en este artículo se sancionarán con prisión de tres meses a dos años si el monto de lo defraudado no excede de mil veces la Unidad de Cuenta de la Ciudad de México vigente; si el monto de lo defraudado excede de la cantidad anterior, pero no de dos mil veces dicha Unidad, la sanción será de dos a cinco años de prisión; y si el valor de lo defraudado fuere mayor de esta última cantidad, la sanción será de cinco a nueve años de prisión.
 
 Las sanciones previstas en este artículo, sólo se aplicarán a los propietarios o poseedores de inmuebles de uso habitacional, cuando hayan omitido total o parcialmente el pago de las contribuciones a su cargo durante un lapso mayor de un año.
 
@@ -11304,7 +11338,9 @@ VI. Se reconecten al servicio de suministro de agua encontrándose suspendido o 
 
 VII. Comercien sin contar con la autorización respectiva, con el agua provista por la autoridad competente, para usos no comerciales.
 
-Los delitos previstos en este artículo se sancionarán con prisión de tres meses a dos años si el monto de lo defraudado no excede de mil veces el salario mínimo general diario vigente en el Distrito Federal; si el monto de lo defraudado excede la cantidad anterior, pero no de dos mil veces dicho salario, la sanción será de dos a cinco años de prisión; y si el valor de lo defraudado fuere mayor de esta última cantidad, la sanción será de cinco a nueve años de prisión.
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Los delitos previstos en este artículo se sancionarán con prisión de tres meses a dos años si el monto de lo defraudado no excede de mil veces la Unidad de Cuenta del Estado Distrito Federal vigente; si el monto de lo defraudado excede la cantidad anterior, pero no de dos mil veces dicha Unidad, la sanción será de dos a cinco años de prisión; y si el valor de lo defraudado fuere mayor de esta última cantidad, la sanción será de cinco a nueve años de prisión.
 
 Tratándose de los supuestos previstos en las fracciones I, V, VI y VII de este artículo, se impondrá una sanción de tres meses a nueve años de prisión, siempre que no se pueda cuantificar el monto de lo defraudado.
 
@@ -11326,7 +11362,7 @@ III. Desocupe el lugar donde se hubiera iniciado un procedimiento de comprobaci�
 
 ###### ARTICULO 500.
 
-Se impondrá sanción de uno a seis años de prisión al depositario o interventor designado por las autoridades fiscales del Distrito Federal que, con perjuicio del fisco del Distrito Federal, disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubiesen constituido, si el valor de lo dispuesto no excede de dos mil veces el salario mínimo general diario vigente en el Distrito Federal; cuando exceda, la sanción será de tres a nueve años de prisión.
+Se impondrá sanción de uno a seis años de prisión al depositario o interventor designado por las autoridades fiscales del Distrito Federal que, con perjuicio del fisco del Distrito Federal, disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubiesen constituido, si el valor de lo dispuesto no excede de dos mil veces la Unidad de Cuenta de la Ciudad de México vigente; cuando exceda, la sanción será de tres a nueve años de prisión.
 
 Igual sanción, de acuerdo al valor de dichos bienes, se aplicará al depositario que los oculte o no los ponga a disposición de la autoridad competente que lo requiera.
 
@@ -12138,7 +12174,7 @@ G.O. 26 DE NOVIEMBRE DE 2010.
 
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
 
-SEGUNDO.- La presente Ley (sic) entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
+SEGUNDO.- La presente Ley entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
 
 G.O. 22 DE DICIEMBRE DE 2010.
 
@@ -14893,3 +14929,13 @@ El presente Decreto entrará en vigor a partir del día siguiente al de su publi
 ###### ARTÍCULO SEGUNDO.
 
 Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y aplicación.
+
+G.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
