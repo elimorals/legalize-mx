@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-estatal-de-la-juventud-35835"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-24"
-last_updated: "2013-10-30"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35835&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL INSTITUTO ESTATAL DE LA JUVENTUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 24 de diciembre de 2003.
 
@@ -129,47 +129,51 @@ V. Celebrar los acuerdos y convenios con las autoridades federales, estatales y 
 
 VI. Promover, realizar y difundir estudios e investigaciones de la problemática y características juveniles;
 
-VII. Alentar, recibir, evaluar y canalizar las propuestas, sugerencias e inquietudes de la juventud;
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-VIII. Prestar los servicios que se establezcan en los programas que formule el Instituto en la aplicación de esta Ley;
+VII. Coordinarse con la Secretaría de Desarrollo Social, para la elaboración de un estudio de las zonas de marginación rural o urbana y de atención prioritaria donde radiquen jóvenes, con el objeto de realizar las acciones necesarias de desarrollo social para impulsar condiciones de igualdad de oportunidades real y efectiva.
 
-IX. Coordinar, promover y ejecutar acciones para el reconocimiento público y difusión de las actividades sobresalientes de los jóvenes del Estado;
+VIII. Alentar, recibir, evaluar y canalizar las propuestas, sugerencias e inquietudes de la juventud;
 
-X. Elaborar programas y cursos de capacitación y desarrollo tendientes al mejoramiento de la juventud del Estado;
+IX. Prestar los servicios que se establezcan en los programas que formule el Instituto en la aplicación de esta Ley;
 
-XI. Fomentar la creación de instancias municipales o regionales de atención a la juventud; a fin de que los municipios desarrollen programas específicos que atiendan y den seguimiento a la problemática concreta que tienen los jóvenes, tales como asuntos de empleo, deportivos, esparcimiento, culturales, de lucha contra las adicciones, desarrollo humano, convivencia social, combate a la delincuencia, entre otras;
+X. Coordinar, promover y ejecutar acciones para el reconocimiento público y difusión de las actividades sobresalientes de los jóvenes del Estado;
 
-XII. Impulsar en los procesos de planeación, programación y presupuestación, políticas públicas que beneficien a los jóvenes;
+XI. Elaborar programas y cursos de capacitación y desarrollo tendientes al mejoramiento de la juventud del Estado;
 
-XIII. Promover, en el ámbito de su competencia y ante las instancias que correspondan, la formulación y ejecución de acciones programas de combate a la marginación y exclusión de los jóvenes, a fin de propiciar condiciones de vida digna;
+XII. Fomentar la creación de instancias municipales o regionales de atención a la juventud; a fin de que los municipios desarrollen programas específicos que atiendan y den seguimiento a la problemática concreta que tienen los jóvenes, tales como asuntos de empleo, deportivos, esparcimiento, culturales, de lucha contra las adicciones, desarrollo humano, convivencia social, combate a la delincuencia, entre otras;
 
-XIV. Alentar y apoyar la integración de organizaciones juveniles que promuevan la participación de los jóvenes en los distintos ámbitos de la sociedad;
+XIII. Impulsar en los procesos de planeación, programación y presupuestación, políticas públicas que beneficien a los jóvenes;
 
-XV. Gestionar ante las instancias que correspondan, la actualización y el fortalecimiento de los mecanismos jurídicos que aseguren el ejercicio eficaz de los derechos de los jóvenes;
+XIV. Promover, en el ámbito de su competencia y ante las instancias que correspondan, la formulación y ejecución de acciones programas de combate a la marginación y exclusión de los jóvenes, a fin de propiciar condiciones de vida digna;
 
-XVI. Promover, procurar y velar, en el ámbito de su competencia, que los jóvenes disfruten de los derechos que les están reconocidos en los ordenamientos jurídicos internacionales, federales y estatales, así como impulsar acciones para difundirlos y defenderlos;
+XV. Alentar y apoyar la integración de organizaciones juveniles que promuevan la participación de los jóvenes en los distintos ámbitos de la sociedad;
 
-XVII. Diseñar, en la esfera de su competencia, estrategias tendientes a prevenir, atender y erradicar la violencia entre los jóvenes y el abuso hacia ellos, así como para combatir las prácticas de violación a sus derechos;
+XVI. Gestionar ante las instancias que correspondan, la actualización y el fortalecimiento de los mecanismos jurídicos que aseguren el ejercicio eficaz de los derechos de los jóvenes;
 
-XVIII. Fomentar, en coordinación con las instancias competentes, la formulación e implementación de programas preventivos, de tratamiento y de rehabilitación en materia de adicciones, así como en educación sexual y salud reproductiva, entre otros;
+XVII. Promover, procurar y velar, en el ámbito de su competencia, que los jóvenes disfruten de los derechos que les están reconocidos en los ordenamientos jurídicos internacionales, federales y estatales, así como impulsar acciones para difundirlos y defenderlos;
 
-XIX. Promover la participación de los jóvenes en proyectos productivos del sector público y privado;
+XVIII. Diseñar, en la esfera de su competencia, estrategias tendientes a prevenir, atender y erradicar la violencia entre los jóvenes y el abuso hacia ellos, así como para combatir las prácticas de violación a sus derechos;
 
-XX. Promover e impulsar la creación de fuentes de empleo y el financiamiento de créditos productivos, sociales y de servicios para los jóvenes;
+XIX. Fomentar, en coordinación con las instancias competentes, la formulación e implementación de programas preventivos, de tratamiento y de rehabilitación en materia de adicciones, así como en educación sexual y salud reproductiva, entre otros;
 
-XXI. Impulsar y promover ante las autoridades competentes el establecimiento de programas educativos, becas, y apoyos financieros que alienten y estimulen la continuidad de los procesos de enseñanza-aprendizaje de los jóvenes;
+XX. Promover la participación de los jóvenes en proyectos productivos del sector público y privado;
 
-XXII. Promover, en coordinación con las dependencias competentes, el turismo juvenil;
+XXI. Promover e impulsar la creación de fuentes de empleo y el financiamiento de créditos productivos, sociales y de servicios para los jóvenes;
 
-XXIII. Promover ante las dependencias y entidades que correspondan, el establecimiento de espacios de expresión cultural y artística para los jóvenes;
+XXII. Impulsar y promover ante las autoridades competentes el establecimiento de programas educativos, becas, y apoyos financieros que alienten y estimulen la continuidad de los procesos de enseñanza-aprendizaje de los jóvenes;
 
-XXIV. Solicitar asesoría a organizaciones nacionales e internacionales para que apoyen proyectos dirigidos a los jóvenes;
+XXIII. Promover, en coordinación con las dependencias competentes, el turismo juvenil;
 
-XXV. Fomentar y difundir entre los jóvenes el acceso a acervos bibliográficos y documentales en las materias de interés para ellos, así como promover su acceso a nuevas tecnologías de información y comunicación;
+XXIV. Promover ante las dependencias y entidades que correspondan, el establecimiento de espacios de expresión cultural y artística para los jóvenes;
 
-XXVI. Apoyar, en la esfera de su competencia, albergues, centros de atención e integración y casas de asistencia para jóvenes; y
+XXV. Solicitar asesoría a organizaciones nacionales e internacionales para que apoyen proyectos dirigidos a los jóvenes;
 
-XXVII. Las demás que le otorguen esta Ley, otros ordenamientos legales y el Reglamento Interior del Instituto.
+XXVI. Fomentar y difundir entre los jóvenes el acceso a acervos bibliográficos y documentales en las materias de interés para ellos, así como promover su acceso a nuevas tecnologías de información y comunicación;
+
+XXVII. Apoyar, en la esfera de su competencia, albergues, centros de atención e integración y casas de asistencia para jóvenes; y
+
+XXVIII. Las demás que le otorguen esta Ley, otros ordenamientos legales y el Reglamento Interior del Instituto.
 
 ### CAPÍTULO II. DE LA ESTRUCTURA ORGÁNICA Y FUNCIONAL DEL INSTITUTO ESTATAL DE LA JUVENTUD
 
@@ -568,3 +572,7 @@ P.O. 24 DE DICIEMBRE DE 2010.
 P.O. 30 DE OCTUBRE DE 2013.
 
 Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 28 DE NOVIEMBRE DE 2014.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
