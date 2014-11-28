@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-juventud-para-el-estado-de-nuevo-leon-62363"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-28"
-last_updated: "2013-06-26"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 28 de julio de 2008.
 
@@ -155,9 +155,11 @@ V. Garantizar la no discriminación en el empleo a las jóvenes embarazadas o en
 
 VI. Promover convenios de colaboración con instituciones públicas y privadas para fomentar las pasantías remuneradas, vinculadas a la formación profesional de los jóvenes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 8.
 
-El Ejecutivo promoverá a través de las instancias correspondientes el empleo y programas que contribuyan a la capacitación laboral de los jóvenes, y el apoyo al desarrollo de proyectos productivos juveniles.
+El Ejecutivo promoverá a través de las instancias correspondientes el empleo y programas que contribuyan a la capacitación laboral de los jóvenes, y el apoyo al desarrollo de proyectos productivos juveniles, con énfasis de impulso a proyectos de jóvenes emprendedores que habitan en zonas de marginación rural o urbana y de atención prioritaria y desventaja social.
 
 Así como la creación de una bolsa de trabajo en la que se incluyan a los jóvenes no importando su escolaridad, e impulsará la generación de micro y pequeña empresa con apoyo de organismos públicos y privados.
 
@@ -415,7 +417,7 @@ VI. Lineas de acción para promover la inclusión en la vida laboral y productiv
 
 a) Fomentar que los jóvenes puedan adquirir conocimientos prácticos sin suspender sus estudios;
 
-b) Consolidar su incorporación a la actividad económica mediante una ocupación específica y formal, promoviendo su contratación en el sector público o privado; y (sic)
+b) Consolidar su incorporación a la actividad económica mediante una ocupación específica y formal, promoviendo su contratación en el sector público o privado; y
 
 c) Establecer mecanismos para garantizar los derechos de los jóvenes en el área laboral, sin menospreciar su condición social o económica;
 
@@ -437,7 +439,9 @@ XII. Mecanismos para el acceso de los jóvenes a actividades de turismo juvenil;
 
 XIII. Mecanismos para el acceso de los jóvenes a actividades físicas y al disfrute de espectáculos deportivos, y debe contemplar un sistema de promoción y apoyo a iniciativas deportivas juveniles;
 
-XIV. Acciones afirmativas para los sectores de los jóvenes en desventaja social;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XIV. Acciones afirmativas para los sectores de los jóvenes en zonas de marginación socioeconómica rural o urbana y de atención prioritaria, así como en desventaja social;
 
 XV. Definición e implementación de programas y proyectos juveniles que incluyan las verdaderas aspiraciones, intereses y prioridades de los jóvenes del Estado;
 
@@ -486,5 +490,9 @@ P.O. 27 DE JUNIO DE 2012.
 Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 26 DE JUNIO DE 2013.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE NOVIEMBRE DE 2014.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
