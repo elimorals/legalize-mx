@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-de-procesos-productivos-eficientes-para-la-68062
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2010-12-22"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68062&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-04-22"
 
 LEY DE FOMENTO DE PROCESOS PRODUCTIVOS EFICIENTES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 23 de abril de 2009.
 
@@ -45,6 +45,8 @@ DECRETO POR EL QUE SE EXPIDE LA LEY DE FOMENTO DE PROCESOS PRODUCTIVOS EFICIENTE
 ###### ARTÍCULO ÚNICO.
 
 Se expide la Ley de Fomento de Procesos Productivos Eficientes para el Distrito Federal, para quedar como sigue:
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO CUARTO DEL DECRETO SIN NÚMERO, PUBLICADO EN LA G.O. DE 28 DE NOVIEMBRE DE 2014, LAS REFERENCIAS QUE SE HAGAN DEL SALARIO MÍNIMO EN LAS NORMAS LOCALES VIGENTES, INCLUSO EN AQUELLAS PENDIENTES DE PUBLICAR O DE ENTRAR EN VIGOR, SE ENTENDERÁN HECHAS A LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO, A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.</small>
 
 LEY DE FOMENTO DE PROCESOS PRODUCTIVOS EFICIENTES PARA EL DISTRITO FEDERAL
 
@@ -272,31 +274,53 @@ Los gastos derivados de la revisión de una producción no contaminante y la cap
 
 Para establecer las sanciones, la Secretaría fundamentará y motivará sus resoluciones considerando, para su individualización, los elementos señalados en la Ley de Procedimiento Administrativo del Distrito Federal.
 
-Las sanciones económicas deberán establecerse entre el mínimo y máximo establecido, y considerando el salario mínimo general vigente en el Distrito Federal al momento de cometerse alguna violación establecida en la presente Ley.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Las sanciones económicas deberán establecerse entre el mínimo y máximo establecido, y considerando veces (sic) la Unidad de Cuenta de la Ciudad de México vigente al momento de cometerse alguna violación establecida en la presente Ley.
 
 En los casos de reincidencia en alguna violación establecida en el presente capítulo, en el período de un año, se aplicará hasta el doble de la sanción originalmente impuesta, sin exceder del doble del máximo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 40.
 
-En caso de que cualquier empresa o individuo viole las previsiones contenidas en el artículo 23 de esta Ley o falsee, adultere la información de la etiqueta referente a la composición de materiales, o no de una información veraz y oportuna, las dependencias encargadas de la supervisión de calidad y tecnología deberán ordenar la rectificación correspondiente en un término de diez días naturales, en el caso de no subsanar los (sic) recomendaciones emitidas por la autoridad correspondiente, se impondrá una multa de 10 a 50 días de salario mínimo general vigente en el Distrito Federal.
+En caso de que cualquier empresa o individuo viole las previsiones contenidas en el artículo 23 de esta Ley o falsee, adultere la información de la etiqueta referente a la composición de materiales, o no de una información veraz y oportuna, las dependencias encargadas de la supervisión de calidad y tecnología deberán ordenar la rectificación correspondiente en un término de diez veces (sic) naturales, en el caso de no subsanar los (sic) recomendaciones emitidas por la autoridad correspondiente, se impondrá una multa de 10 a 50 veces la Unidad de Cuenta de la Ciudad de México vigente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 41.
 
-En caso de que cualquier empresa o individuo viole las previsiones establecidas en el segundo párrafo del artículo 26 de esta Ley, produciendo o vendiendo materiales de construcción o decoración tóxicos o dañinos, cuyo nivel de toxicidad rebase los estándares locales, tal empresa o individuo; la Secretaría deberá de multarlo de 100 a 500 días de salario mínimo general vigente en el Distrito Federal, y en su caso, deberá dar vista las autoridades correspondientes de acuerdo con las leyes administrativas, civiles o penales.
+En caso de que cualquier empresa o individuo viole las previsiones establecidas en el segundo párrafo del artículo 26 de esta Ley, produciendo o vendiendo materiales de construcción o decoración tóxicos o dañinos, cuyo nivel de toxicidad rebase los estándares locales, tal empresa o individuo; la Secretaría deberá de multarlo de 100 a 500 veces la Unidad de Cuenta de la Ciudad de México vigente, y en su caso, deberá dar vista (sic) las autoridades correspondientes de acuerdo con las leyes administrativas, civiles o penales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 42.
 
-En caso de que cualquier empresa o individuo viole las previsiones establecidas en el primer párrafo del artículo 29 de esta Ley, e incumpla su obligación de reciclar sus desechos o embalajes, la Secretaría, así como las delegaciones que lleven a cabo funciones homólogas, deberán ordenar a la parte efectuar rectificaciones en un término de veinte días naturales contados a partir de la notificación, además de imponer una multa de 30 a 70 días de salario mínimo general vigente en el Distrito Federal si la parte no lleva a cabo la rectificación.
+En caso de que cualquier empresa o individuo viole las previsiones establecidas en el primer párrafo del artículo 29 de esta Ley, e incumpla su obligación de reciclar sus desechos o embalajes, la Secretaría, así como las delegaciones que lleven a cabo funciones homólogas, deberán ordenar a la parte efectuar rectificaciones en un término de veinte veces (sic) naturales contados a partir de la notificación, además de imponer una multa de 30 a 70 veces la Unidad de Cuenta de la Ciudad de México si la parte no lleva a cabo la rectificación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 43.
 
-Si cualquier empresa o individuo viola las previsiones establecidas en el tercer párrafo del artículo 31 de esta Ley, falla al implementar revisiones de producción eficiente, o ha efectuado estas revisiones pero no reporta los resultados, la Secretaría del Medio Ambiente deberá ordenar a la parte efectuar la rectificación correspondiente dentro de un término de veinte días contados a partir de la notificación, e imponer, además, una multa de 50 a 70 días de salario mínimo general vigente en el Distrito Federal si la parte no hace la rectificación correspondiente.
+Si cualquier empresa o individuo viola las previsiones establecidas en el tercer párrafo del artículo 31 de esta Ley, falla al implementar revisiones de producción eficiente, o ha efectuado estas revisiones pero no reporta los resultados, la Secretaría del Medio Ambiente deberá ordenar a la parte efectuar la rectificación correspondiente dentro de un término de veinte días contados a partir de la notificación, e imponer, además, una multa de 50 a 70 veces la Unidad de Cuenta de la Ciudad de México vigente si la parte no hace la rectificación correspondiente.
 
-> <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 44.
 
-En caso de que cualquier empresa o individuo viole las previsiones del artículo 34 de esta Ley, o no realice la publicación de los requerimientos respecto a la información de emisión de contaminantes, la Secretaría de Medio Ambiente impondrá una multa de cuarenta a sesenta días de salario mínimo general vigente en el Distrito Federal, y deberá publicar la información relativa a las circunstancias de la parte emisora de contaminantes.
+En caso de que cualquier empresa o individuo viole las previsiones del artículo 34 de esta Ley, o no realice la publicación de los requerimientos respecto a la información de emisión de contaminantes, la Secretaría de Medio Ambiente impondrá una multa de cuarenta a sesenta la Unidad de Cuenta de la Ciudad de México vigente, y deberá publicar la información relativa a las circunstancias de la parte emisora de contaminantes.
 
 ## TRANSITORIOS
 
@@ -314,10 +338,20 @@ Recinto de la Asamblea Legislativa del Distrito Federal, a los diecinueve días 
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida aplicación y observancia, expido el presente decreto promulgatorio en la residencia oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintidós días del mes de abril del año dos mil nueve.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- LA SECRETARIA DE DESARROLLO ECONÓMICO, LAURA VELÁZQUEZ ALZUA.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA DELGADO PERALTA.- FIRMA.- EL SECRETARIO DE SALUD, ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, AXEL DIDRIKSSON TAKAYANAGUI.- FIRMA.- LA SECRETARIA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, MARÍA ROSA MÁRQUEZ CABRERA.- FIRMA.- EL SECRETARIO DE FINANZAS, MARIO MARTÍN DELGADO CARRILLO.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, JORGE ARGANIS DÍAZ LEAL.- FIRMA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
 
 G.O. 22 DE DICIEMBRE DE 2010.
 
 PRIMERO.- Túrnese el presente Decreto al Jefe de Gobierno del Distrito Federal, para su promulgación y debido cumplimiento.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
