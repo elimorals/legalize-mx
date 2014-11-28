@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-la-proteccion-de-sujetos-en-situacion-de-riesgo-en-889
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-23"
-last_updated: "2012-07-23"
+last_updated: "2014-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88926&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 LEY PARA LA PROTECCIÓN DE SUJETOS EN SITUACIÓN DE RIESGO EN EL PROCESO PENAL DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE SERVICIOS PERICIALES DEL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. DE 28 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 23 de julio de 2012.
 
@@ -362,3 +364,15 @@ C. Jorge Luis González Curi, Diputado Presidente.- C. Carlos Alberto Arjona Gut
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, a los diez días del mes de julio del año dos mil doce.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO EUTIMIO ORTEGA BERNES.- LA SUBSECRETARIA "A" DE GOBIERNO, ENCARGADA DEL DESPACHO DE LA SECRETARIA DE GOBIERNO, MTRA. PERLA KARINA CASTRO FARIAS.- RUBRICAS.
+
+N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+P.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor el 3 de diciembre de 2014, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía de marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+TERCERO. Se abroga la Ley para la Protección de Sujetos en Situación de Riesgo en el Proceso Penal del estado de Campeche, expedida por decreto número 241, publicada en el Periódico Oficial del estado número 5043 , de fecha 23 de julio de 2012.
+
+CUARTO. La fiscalía General del Estado de Campeche, en un plazo no mayor de 30 días hábiles posteriores a la fecha de entrada en vigor del presente decreto, deberá incluir en su reglamento Interior la Oficina para la Protección de Sujetos en Situación de Riesgo, dependiente de la Vice fiscalía General de Derechos Humanos.
