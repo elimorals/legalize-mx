@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2013-09-13"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -809,7 +809,7 @@ V.- El requerimiento de un acto a la parte que deba cumplirlo;
 
 > <small>(REFORMADA, P.O. 10 DE AGOSTO DE 1987)</small>
 
-VI.- Las sentencias definitivas; y (sic)
+VI.- Las sentencias definitivas; y
 
 > <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2007)</small>
 
@@ -3021,9 +3021,9 @@ XV.- La consignación en pago;
 
 XVI.- Las acciones relativas a servidumbres legales o que consten en títulos públicos y;
 
-> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-XVII.- Los asuntos relativos a la pérdida de la patria potestad, cuando en estos sea parte la Procuraduría para la Defensa de los Menores y la Familia del Estado, por las causas a que se refieren las fracciones III y IV del artículo 441, así como la relativa a la fracción V del artículo 440, todas del Código Civil para el Estado de Baja California, y la persona menor de dieciocho años de edad o que no tengan la capacidad de comprender el significado del hecho de que se trate, se encuentre bajo la tutela del Sistema para el Desarrollo Integral de la Familia; y
+XVII.- Los asuntos relativos a la pérdida de la patria potestad, cuando en estos sea parte la Procuraduría para la Defensa de los Menores y la Familia del Estado, por las causas a que se refieren las fracciones III y IV del artículo 441, así como la relativa a la fracción V del artículo 440, todas del Código Civil para el Estado de Baja California, o sobre la guarda y custodia de la persona menor de dieciocho años de edad o que no tengan la capacidad de comprender el significado del hecho de que se trate, se encuentre bajo la tutela del Sistema para el Desarrollo Integral de la Familia;
 
 XVIII.- En general, las cuestiones que por su naturaleza requieran celeridad o lo determine la ley.
 
@@ -4047,7 +4047,7 @@ ART. 581.- En los casos a que se refieren los artículos 578 y 580 se cancelará
 
 En el caso del artículo 579, si el precio de la venta fuere insuficiente para pagar las hipotecas anteriores y las posteriores, sólo se cancelarán éstas, conforme a lo prevenido en la primera parte de este artículo.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
+(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
 ART. 582.- Cuando, conforme a lo prevenido en el artículo 569, el acreedor hubiere optado por la administración de las fincas embargadas, se observarán las siguientes reglas:
 
@@ -4557,11 +4557,11 @@ ART. 667.- La sentencia que decrete el divorcio por mutuo consentimiento, es ape
 
 ART. 668.- Ejecutoriada la sentencia de divorcio, el tribunal mandará remitir copia de ella al Juez del Registro Civil de su jurisdicción, al del lugar en que el matrimonio se efectuó y al de nacimiento de los divorciados para los efectos de los artículos 111, 113 y 288 del Código Civil.
 
-(REFORMADA SU DENOMINACIÓN, P.O. 20 DE JULIO DE 1979) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 TITULO DECIMOSEGUNDO
 
-De los recursos y de la revisión de oficio.
+De los recursos y de la revisión de oficio de la revocación, revisión y apelación
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -4740,6 +4740,12 @@ ART. 700.- La apelación interpuesta en los juicios sumarios, solo se admitirán
 (REFORMADO, P.O. 20 DE JULIO DE 1979) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
 ART. 701.- En las apelaciones en materia sumaria, solo será admisible la prueba documental pública superveniente.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+ART. 701 BIS.- El recurso interpuesto en contra de las determinaciones de la Procuraduría para la Defensa del Menor y la Familia, será remitido por la Procuraduría del DIF dentro del plazo de diez días siguientes al en que la reciba, al Juez Familiar junto con la copia certificada de la resolución recurrida, el escrito que contenga el recurso interpuesto, la constancia de notificación, así como de las actuaciones en las que haya basado su determinación, donde conste la naturaleza y estado del proceso administrativo del menor.
+
+Recibidas las copias certificadas por el Juez Familiar, sin más trámite y dentro de un término de 5 días siguientes decidirá respecto a la procedencia del recurso. Si el juez declara admisible el recurso interpuesto ordenara a la Procuraduría para la Defensa del Menor y la Familia, que le envíe el expediente administrativo original a fin de resolver sobre el recurso de Revisión e iniciar el procedimiento especial previsto por los artículos 926 y 930 de este Código Adjetivo Civil.
 
 (REFORMADA SU DENOMINACIÓN, P.O. 20 DE JULIO DE 1979) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -6287,6 +6293,10 @@ ART. 925.- Todos los problemas inherentes a la familia se consideran de orden p�
 
 ART. 926.- El Juez de lo Familiar estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de personas menores de dieciocho años de edad y de alimentos, decretando las medidas proporcionales que tiendan a preservarla y protegerla, anteponiendo siempre el interés superior del menor y de las personas con discapacidad, debiendo razonar y sustentar la medida decretada.
 
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Cuando se trate de calificar, ratificar o modificar medidas dictadas por la Procuraduría para la Defensa del Menor y la Familia relativas a la no reintegración temporal del menor a su entorno familiar, su ingreso a una institución pública, privada u hogar voluntario o substituto o la afectación de derechos de familia, la audiencia será oral y el Juez escuchara al menor cuando la edad del menor lo permita, así como a las partes involucradas a efecto de dictar las medidas que garanticen el interés superior del menor.
+
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
 ART. 927.- En todos los asuntos de orden familiar en los que exista controversia entre partes, el Juez tendrá la obligación de citar a las partes para que asistan personalmente a una audiencia de conciliación en la que sólo se tratará de resolver sus diferencias mediante convenio con el que pueda terminarse la controversia y poner fin al procedimiento.
@@ -6328,6 +6338,10 @@ ART. 929.- No se requieren formalidades especiales para, acudir ante el Juez de 
 ART. 930.- Podrá acudirse al Juez de lo Familiar, por escrito o por comparecencia personal en los casos urgentes a que se refiere el Artículo anterior, exponiendo de manera breve y concisa los hechos de que se trate. Con las copias respectivas de esa comparecencia y de los documentos que en su caso se presenten, se correrá traslado a la parte demandada, la que deberá comparecer en la misma forma dentro del término de cinco días. En tales comparecencias las partes deberán ofrecer las pruebas respectivas. Al ordenarse ese traslado, el Juez deberá señalar día y hora para la celebración de la audiencia respectiva.
 
 Tratándose de alimentos, ya sean provisionales o los que se deban por contrato, por testamento o por disposición de la Ley, el Juez fijará a petición del acreedor, sin audiencia del deudor y mediante información que estime necesaria, una pensión alimenticia provisional, mientras se resuelve el juicio en definitiva.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Tratándose de determinaciones dictadas por la Procuraduría para la Defensa del Menor y la Familia relativas a la no reintegración temporal del menor a (sic) con sus tutores, su ingreso a una institución pública, privada u hogar voluntario o substituto, o por la afectación de derechos de familia, el Juez en la primer audiencia podrá ratificar o modificar las medias (sic) dictadas por la Procuraduría para la Defensa del Menor y la Familia, cuando existiere algún familiar que pueda hacerse cargo del menor, en tanto se resuelve en definitiva la situación jurídica del menor.
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2004)</small>
 
@@ -6994,3 +7008,7 @@ P.O. 23 DE AGOSTO DE 2013.
 P.O. 13 DE SEPTIEMBRE DE 2013.
 
 Único.- Las presentes reformas entrarán en vigor a los noventa días posteriores a la publicación del presente decreto en el Periódico Oficial del Estado.
+
+P.O. 28 DE NOVIEMBRE DE 2014.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
