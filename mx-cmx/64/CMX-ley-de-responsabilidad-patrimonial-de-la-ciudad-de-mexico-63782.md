@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-responsabilidad-patrimonial-de-la-ciudad-de-mexico-63782
 country: "mx"
 rank: "ley"
 publication_date: "2008-10-21"
-last_updated: "2012-02-17"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63782&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-10-17"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 21 de octubre de 2008.
 
@@ -47,6 +47,8 @@ LEY DE RESPONSABILIDAD PATRIMONIAL DEL DISTRITO FEDERAL
 ###### ARTÍCULO PRIMERO.
 
 Se expide la Ley de Responsabilidad Patrimonial del Distrito Federal para quedar como sigue:
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO CUARTO DEL DECRETO SIN NÚMERO, PUBLICADO EN LA G.O. DE 28 DE NOVIEMBRE DE 2014, LAS REFERENCIAS QUE SE HAGAN DEL SALARIO MÍNIMO EN LAS NORMAS LOCALES VIGENTES, INCLUSO EN AQUELLAS PENDIENTES DE PUBLICAR O DE ENTRAR EN VIGOR, SE ENTENDERÁN HECHAS A LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO, A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.</small>
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL DISTRITO FEDERAL
 
@@ -188,7 +190,9 @@ I. En el caso de daños emergentes, lucro cesante, daños personales o muerte, l
 
 II. En caso de daño moral, la autoridad administrativa o jurisdiccional, en su caso, calculará el monto de la indemnización de acuerdo a los criterios establecidos por el Código Civil para el Distrito Federal, tomando igualmente en consideración la magnitud del daño.
 
-La indemnización por daño moral que el Ente Público esté obligado a cubrir, no excederá del equivalente a 10,000 veces el salario mínimo general diario vigente en el Distrito Federal, por cada reclamante afectado.
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+La indemnización por daño moral que el Ente Público esté obligado a cubrir, no excederá del equivalente a 10,000 veces la Unidad de Cuenta de la Ciudad de México vigente, por cada reclamante afectado.
 
 Para el cálculo de los montos de las indemnizaciones a que se refieren las fracciones anteriores, las autoridades tomarán también en cuenta el nivel de ingreso familiar del afectado, en caso de muerte.
 
@@ -421,3 +425,13 @@ PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal para su debida d
 SEGUNDO.- Se abrogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.G. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
