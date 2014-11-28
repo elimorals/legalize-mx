@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2014-09-19"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -6769,11 +6769,13 @@ Cuando la posesión se adquiere por medio de violencia, aunque ésta cese y la p
 
 La posesión adquirida por medio de un delito, se tendrá en cuenta para la prescripción a partir de la fecha en que haya quedando extinguida la pena o prescrita la acción penal, considerándose la posesión como de mala fe.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 1143.
 
-El que hubiere poseído bienes inmuebles por el tiempo y las condiciones exigidas por este Código para adquirirlos por prescripción, puede promover juicio contra el que aparezca como propietario de esos bienes en el Registro Público de la Propiedad y de Comercio, a fin de que se declare que la prescripción se ha consumado y que ha adquirido, por ende, la propiedad.
+El que hubiere poseído bienes inmuebles por el tiempo y las condiciones exigidas por este código para adquirirlos por prescripción, puede promover juicio contra el que aparezca como propietario de esos bienes en el Registro Público de la Propiedad y de Comercio y también en contra del propietario, cuando no coincidan, si el poseedor sabe de antemano quién es este último, a fin de que se declare que la prescripción se ha consumado y que ha adquirido, por ende, la propiedad.
+
+Para los efectos de (sic) párrafo anterior, el poseedor del bien deberá manifestar bajo protesta de decir verdad, si lo conoce o desconoce a un propietario diferente al que aparece como propietario en el Registro Público de la Propiedad y de Comercio.
 
 ###### ARTICULO 1144.
 
@@ -16268,3 +16270,7 @@ TERCERO.- Una vez aprobado, túrnese el presente Decreto al Titular del Poder Ej
 P.O. 19 DE SEPTIEMBRE DE 2014.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE NOVIEMBRE DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
