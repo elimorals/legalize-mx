@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-publicidad-exterior-del-distrito-federal-76110"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-20"
-last_updated: "2012-08-21"
+last_updated: "2014-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76110&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-08-04"
 
 LEY DE PUBLICIDAD EXTERIOR DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 20 de agosto de 2010.
 
@@ -184,7 +184,7 @@ XXXIX. Valla: Cartelera situada en lotes baldíos o estacionamientos públicos, 
 
 XL. Vías primarias: Espacios públicos destinados al tránsito vehicular o peatonal o ambos, determinados para efectos de esta Ley por acuerdo fundado y motivado del titular de la Secretaría, que deberá publicarse en la Gaceta Oficial del Distrito Federal;
 
-XLI. Vías secundarias: Espacios públicos destinados al tránsito vehicular o peatonal o ambos, ubicados en el interior de pueblos, barrios, colonias o zonas habitacionales urbanas y rurales, siempre que no estén consideradas como vías primarias, y (sic)
+XLI. Vías secundarias: Espacios públicos destinados al tránsito vehicular o peatonal o ambos, ubicados en el interior de pueblos, barrios, colonias o zonas habitacionales urbanas y rurales, siempre que no estén consideradas como vías primarias, y
 
 XLII. Suelo de conservación: La clasificación establecida en la fracción II del artículo 30 de la Ley de Desarrollo Urbano del Distrito Federal.
 
@@ -276,7 +276,7 @@ VI. El titular de la Autoridad del Espacio Público del Distrito Federal;
 
 VII. El titular de la Procuraduría Ambiental y del Ordenamiento Territorial;
 
-VIII. El Jefe Delegacional de la demarcación territorial a la que correspondan los asuntos a tratar; y (sic)
+VIII. El Jefe Delegacional de la demarcación territorial a la que correspondan los asuntos a tratar; y
 
 > <small>(REFORMADA, G.O. 21 DE AGOSTO DE 2012)</small>
 
@@ -438,7 +438,7 @@ En ningún caso la propaganda institucional podrá instalarse en muros, bardas o
 
 La instalación de propaganda electoral se regirá por las disposiciones de las Leyes electorales.
 
-###### Articulo 22.
+###### Artículo 22.
 
 Queda prohibida la instalación de anuncios mixtos, salvo en los establecimientos mercantiles de menos de cien metros cuadrados de construcción, conforme a las disposiciones del reglamento.
 
@@ -504,7 +504,7 @@ II. La distribución de espacios para anuncios se determinará considerando las 
 
 III. Una vez determinada la distribución de espacios para anuncios en un nodo, no podrá modificarse a menos que sea para redistribuir los anuncios, para reducir las dimensiones de los mismos o el número de los ya existentes;
 
-IV. Los nodos publicitarios podrán comprender predios que alojen bombas de agua, estaciones del Sistema de Transporte Colectivo, del Metrobús y del Servicio de Transportes Eléctricos del Distrito Federal, y demás inmuebles destinados a un servicio público; y (sic)
+IV. Los nodos publicitarios podrán comprender predios que alojen bombas de agua, estaciones del Sistema de Transporte Colectivo, del Metrobús y del Servicio de Transportes Eléctricos del Distrito Federal, y demás inmuebles destinados a un servicio público; y
 
 V. Los anuncios no deberán obstruir el paso peatonal ni secar, mutilar, descortezar, podar, talar o derribar árboles para su instalación;
 
@@ -580,7 +580,7 @@ VI. La columna de soporte deberá observar la forma y el material que determine 
 
 VII. La distancia mínima entre un anuncio autosoportado unipolar respecto de otro instalados en una misma acera, deberá ser de al menos doscientos cincuenta metros, delimitados por un diámetro de cien metros, distancias que serán computadas y determinadas por la Secretaría;
 
-VIII. Los anuncios deberán instalarse en ambas aceras de manera intercalados; y (sic)
+VIII. Los anuncios deberán instalarse en ambas aceras de manera intercalados; y
 
 IX. En ningún caso los anuncios podrán instalarse en un nodo publicitario, ni en elementos del patrimonio cultural urbano, ni en Suelo de Conservación, ni a una distancia menor de doscientos metros medidos en proyección horizontal a partir de los límites de los elementos mencionados en esta fracción.
 
@@ -626,7 +626,7 @@ a) De propaganda comercial en los corredores publicitarios;
 
 b) Denominativos en inmuebles ubicados en vías primarias;
 
-c) Denominativos en inmuebles ubicados en Áreas de Conservación Patrimonial y demás elementos del patrimonio cultural urbano; y (sic)
+c) Denominativos en inmuebles ubicados en Áreas de Conservación Patrimonial y demás elementos del patrimonio cultural urbano; y
 
 d) Denominativos en inmuebles ubicados en Suelo de Conservación;
 
@@ -658,7 +658,7 @@ La licencia de anuncios en mobiliario urbano, deberá solicitarse por escrito al
 
 Las Delegaciones expedirán:
 
-I. Licencia de anuncios denominativos en inmuebles ubicados en vías secundarias; y (sic)
+I. Licencia de anuncios denominativos en inmuebles ubicados en vías secundarias; y
 
 II. Autorización temporal para anuncios en tapiales en vias secundarias;
 
@@ -898,7 +898,7 @@ III. Plano en el que se indiquen ubicación, diseño, dimensiones, materiales, c
 
 IV. Responsiva de un Director Responsable de Obra y de un Corresponsable en Seguridad Estructural;
 
-V. Recibo de pago de los derechos correspondientes previstos en el Código Fiscal del Distrito Federal; y (sic)
+V. Recibo de pago de los derechos correspondientes previstos en el Código Fiscal del Distrito Federal; y
 
 VI. Fecha y firma del solicitante;
 
@@ -932,7 +932,7 @@ III. Domicilio y dirección electrónica para oír y recibir notificaciones, del
 
 IV. Plano en el que se indiquen ubicación, diseño, dimensiones, materiales, colores y demás especificaciones técnicas del anuncio, así como una fotografía del inmueble;
 
-V. Recibo de pago de los derechos correspondientes previstos en el Código Fiscal del Distrito Federal; y (sic)
+V. Recibo de pago de los derechos correspondientes previstos en el Código Fiscal del Distrito Federal; y
 
 VI. Fecha y firma del solicitante;
 
@@ -1006,7 +1006,7 @@ III. Domicilio y dirección electrónica para oír y recibir notificaciones, del
 
 IV. Plano en el que se indiquen ubicación, diseño, dimensiones, materiales, colores y demás especificaciones técnicas del tapial, pendón o gallardete, así como una fotografía del inmueble donde se pretendan instalar, con el montaje de los mismos;
 
-V. Recibo de pago de los derechos correspondientes previstos en el Código Fiscal del Distrito Federal; y (sic)
+V. Recibo de pago de los derechos correspondientes previstos en el Código Fiscal del Distrito Federal; y
 
 VI. Fecha y firma del solicitante;
 
@@ -1070,9 +1070,11 @@ Toda persona podrá presentar ante la Procuraduría Ambiental y del Ordenamiento
 
 ### CAPÍTULO SEGUNDO. DE LAS INFRACCIONES Y SUS SANCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 85.
 
-Se sancionará con multa de 250 a 500 días de salario mínimo general vigente en el Distrito Federal, al titular de un Permiso Administrativo Temporal Revocable, licencia o autorización temporal que incumpla con colocar en el anuncio una placa de identificación del Permiso Administrativo Temporal Revocable o licencia respectiva con las características que señale el reglamento; (sic)
+Se sancionará con multa de 250 a 500 veces la Unidad de Cuenta de la Ciudad de México vigente, al titular de un Permiso Administrativo Temporal Revocable, licencia o autorización temporal que incumpla con colocar en el anuncio una placa de identificación del Permiso Administrativo Temporal Revocable o licencia respectiva con las características que señale el reglamento;
 
 Cuando el infractor cometa por segunda ocasión la misma infracción prevista en este artículo, será sancionado con el doble de la multa impuesta en la primera ocasión y el retiro del anuncio a su costa.
 
@@ -1080,9 +1082,11 @@ En caso de que el infractor cometa por tercera ocasión la misma infracción pre
 
 Quienes resulten afectados en su interés legítimo, en los términos de la Ley de Procedimiento Administrativo del Distrito Federal, pueden ejercer las acciones correspondientes ante las autoridades competentes, cuando se hayan otorgado permisos, licencias y autorizaciones temporales en contravención a las disposiciones contenidas en la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 86.
 
-Se sancionará con multa de 1500 a 2000 días de salario mínimo general vigente en el Distrito Federal, arresto administrativo inconmutable de 24 a 36 horas y el retiro del anuncio a su costa al publicista y al responsable solidario que sin contar con el Permiso Administrativo Temporal Revocable, licencia o autorización temporal respectivo, ejecute o coadyuve en la instalación de un anuncio.
+Se sancionará con multa de 1500 a 2000 veces la Unidad de Cuenta de la Ciudad de México vigente, arresto administrativo inconmutable de 24 a 36 horas y el retiro del anuncio a su costa al publicista y al responsable solidario que sin contar con el Permiso Administrativo Temporal Revocable, licencia o autorización temporal respectivo, ejecute o coadyuve en la instalación de un anuncio.
 
 Cuando el infractor cometa por segunda ocasión la misma infracción prevista en este artículo, será sancionado con el doble de la multa impuesta en la primera ocasión, arresto administrativo inconmutable de 24 a 36 horas y retiro del anuncio a su costa.
 
@@ -1090,9 +1094,11 @@ En caso de que el infractor cometa por tercera ocasión la misma infracción pre
 
 La Procuraduría Ambiental y del Ordenamiento Territorial del Distrito Federal podrá realizar ante la autoridad administrativa competente o ante el Tribunal de lo Contencioso Administrativo del Distrito Federal, la acción que considere pertinente para demandar la anulación de actos administrativos dictados en contra de las disposiciones contenidas en esta Ley y demás disposiciones jurídicas de que ella emanen, cuya consecuencia sea la afectación o posibilidad de afectación del derecho de los habitantes del Distrito Federal a gozar de un entorno natural y urbano armónico que propicie una mejor calidad de vida.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 87.
 
-Se sancionará con multa de 1500 a 2000 días de salario mínimo general vigente en el Distrito Federal, arresto administrativo inconmutable de 24 a 36 horas y el retiro del anuncio a su costa, a la persona física que sin contar con la autorización temporal correspondiente, ejecute o coadyuve en la instalación de pendones o gallardetes en un inmueble público o privado, puente vehicular o peatonal, paso a desnivel, bajo-puente, muro de contención, talud, poste, semáforo, o en cualquier otro elemento de la infraestructura urbana.
+Se sancionará con multa de 1500 a 2000 veces la Unidad de Cuenta de la Ciudad de México vigente, arresto administrativo inconmutable de 24 a 36 horas y el retiro del anuncio a su costa, a la persona física que sin contar con la autorización temporal correspondiente, ejecute o coadyuve en la instalación de pendones o gallardetes en un inmueble público o privado, puente vehicular o peatonal, paso a desnivel, bajo-puente, muro de contención, talud, poste, semáforo, o en cualquier otro elemento de la infraestructura urbana.
 
 Cuando el infractor cometa por segunda ocasión la misma infracción prevista en este artículo, será sancionado con el doble de la multa impuesta en la primera ocasión, arresto administrativo inconmutable de 24 a 36 horas y el retiro de los anuncios a su costa.
 
@@ -1100,9 +1106,11 @@ En caso de que el infractor cometa por tercera ocasión la misma infracción pre
 
 Cuando los pendones o gallardetes contengan publicidad relativa a la venta de inmuebles y no se haya expedido la autorización de uso y ocupación respectiva, la Delegación condicionará la expedición de dicha autorización al pago de la multa y al retiro de los pendones o gallardetes respectivos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 88.
 
-Se sancionará con multa de 1500 a 2000 días de salario mínimo general vigente en el Distrito Federal y arresto administrativo inconmutable de 24 a 36 horas y el retiro del anuncio a su costa, a la persona física que ejecute o coadyuve en la instalación de uno o más anuncios adheridos a un inmueble público o privado, puente vehicular o peatonal, paso a desnivel, bajo-puente, muro de contención, talud, poste, semáforo, o a cualquier otro elemento de la infraestructura urbana.
+Se sancionará con multa de 1500 a 2000 veces la Unidad de Cuenta de la Ciudad de México vigente y arresto administrativo inconmutable de 24 a 36 horas y el retiro del anuncio a su costa, a la persona física que ejecute o coadyuve en la instalación de uno o más anuncios adheridos a un inmueble público o privado, puente vehicular o peatonal, paso a desnivel, bajo-puente, muro de contención, talud, poste, semáforo, o a cualquier otro elemento de la infraestructura urbana.
 
 Cuando el infractor cometa por segunda ocasión la misma infracción prevista en este artículo, será sancionado con el doble de la multa impuesta en la primera ocasión, arresto administrativo inconmutable de 24 a 36 horas y el retiro a su costa de los anuncios.
 
@@ -1110,9 +1118,11 @@ En caso de que el infractor cometa por tercera ocasión la misma infracción pre
 
 En cualquier caso, cuando el anuncio contenga publicidad relativa a la celebración de un espectáculo público, las Delegaciones negarán el permiso para la celebración, o lo revocarán de oficio si ya lo hubieren expedido.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 89.
 
-Se sancionará con multa de 250 a 500 días de salario mínimo general vigente en el Distrito Federal y retiro del anuncio a su costa, al titular de la licencia que incurra en cualquiera de las siguientes infracciones:
+Se sancionará con multa de 250 a 500 veces la Unidad de Cuenta de la Ciudad de México vigente y retiro del anuncio a su costa, al titular de la licencia que incurra en cualquiera de las siguientes infracciones:
 
 I. Agregue elementos de propaganda al contenido de un anuncio denominativo,
 
@@ -1124,25 +1134,31 @@ Cuando el infractor cometa por segunda ocasión la misma infracción prevista en
 
 En caso de que el infractor cometa por tercera ocasión la misma infracción prevista en este artículo, será sancionado con el doble de la multa impuesta en la segunda ocasión, el retiro a su costa del anuncio y arresto administrativo inconmutable de 24 a 36 horas. El Instituto presentará además, ante el Ministerio Público, la denuncia o querella por la comisión del delito que corresponda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 90.
 
-Se sancionará con multa de 300 a 600 días de salario mínimo general vigente en el Distrito Federal y retiro a su costa del anuncio, al titular de la licencia que instale un anuncio denominativo en un inmueble distinto de aquel en donde se desarrolle la actividad de la denominación o razón social respectiva.
+Se sancionará con multa de 300 a 600 veces la Unidad de Cuenta de la Ciudad de México vigente y retiro a su costa del anuncio, al titular de la licencia que instale un anuncio denominativo en un inmueble distinto de aquel en donde se desarrolle la actividad de la denominación o razón social respectiva.
 
 Cuando el infractor cometa por segunda ocasión la misma infracción prevista en este artículo, será sancionado con el doble de la multa impuesta en la primera ocasión y el retiro a su costa del anuncio.
 
 En caso de que el infractor cometa por tercera ocasión la misma infracción prevista en este artículo, será sancionado con el doble de la multa impuesta en la segunda ocasión, el retiro a su costa del anuncio y arresto administrativo inconmutable de 24 a 36 horas. El Instituto presentará además, ante el Ministerio Público, la denuncia o querella por la comisión del delito que corresponda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 91.
 
-Se sancionará con multa de 300 a 600 días de salario mínimo general vigente en el Distrito Federal y retiro a su costa del anuncio, al titular de la licencia que instale un anuncio denominativo de tal forma que sobresalga total o parcialmente del contorno de la fachada.
+Se sancionará con multa de 300 a 600 veces la Unidad de Cuenta de la Ciudad de México vigente y retiro a su costa del anuncio, al titular de la licencia que instale un anuncio denominativo de tal forma que sobresalga total o parcialmente del contorno de la fachada.
 
 Cuando el infractor cometa por segunda ocasión la misma infracción prevista en este artículo, será sancionado con el doble de la multa impuesta en la primera ocasión y el retiro a su costa del anuncio.
 
 En caso de que el infractor cometa por tercera ocasión la misma infracción prevista en este artículo, será sancionado con el doble de la multa impuesta en la segunda ocasión, el retiro a su costa del anuncio y arresto administrativo inconmutable de 24 a 36 horas. El Instituto presentará además, ante el Ministerio Público, la denuncia o querella por la comisión del delito que corresponda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 92.
 
-Se sancionará con multa de 1500 a 2000 días de salario mínimo general vigente en el Distrito Federal, arresto administrativo inconmutable de 24 a 36 horas y el retiro del anuncio, a la persona física que ejecute o coadyuve en la instalación de un anuncio en un mueble urbano sin contar con la licencia de la Secretaría.
+Se sancionará con multa de 1500 a 2000 veces la Unidad de Cuenta de la Ciudad de México vigente, arresto administrativo inconmutable de 24 a 36 horas y el retiro del anuncio, a la persona física que ejecute o coadyuve en la instalación de un anuncio en un mueble urbano sin contar con la licencia de la Secretaría.
 
 Se entiende que coadyuva en la instalación quien coloque o introduzca el anuncio, equipo o materiales necesarios para su instalación en el mueble urbano donde vaya a ser o haya sido instalado el anuncio.
 
@@ -1152,17 +1168,21 @@ En caso de que el infractor cometa por tercera ocasión la misma infracción pre
 
 Si el mueble urbano consiste en una caseta telefónica o caja de registro de líneas telefónicas, el retiro del anuncio podrá consistir en la aplicación de pintura al mueble urbano.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 93.
 
-Se sancionará con multa de 1500 a 2000 días de salario mínimo general vigente en el Distrito Federal y el retiro del anuncio a su costa, al titular de una autorización temporal que no retire los pendones, gallardetes y demás anuncios en el plazo de cinco días hábiles previstos en esta Ley.
+Se sancionará con multa de 1500 a 2000 veces la Unidad de Cuenta de la Ciudad de México vigente y el retiro del anuncio a su costa, al titular de una autorización temporal que no retire los pendones, gallardetes y demás anuncios en el plazo de cinco días hábiles previstos en esta Ley.
 
 Cuando el infractor cometa por segunda ocasión la misma infracción prevista en este artículo, será sancionado con el doble de la multa impuesta en la primera ocasión y el retiro de los anuncios a su costa.
 
 En caso de que el infractor cometa por tercera ocasión la misma infracción prevista en este artículo, será sancionado con el doble de la multa impuesta en la segunda ocasión y el retiro a su costa del anuncio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 94.
 
-Se sancionará con multa de 1500 a 2000 días de salario mínimo general vigente en el Distrito Federal y remisión del vehículo al depósito de la Secretaría de Seguridad Pública del Distrito Federal, al conductor de un vehículo desde el cual se proyecten anuncios sobre las edificaciones públicas o privadas, sea que el vehículo se encuentre en movimiento o estacionado.
+Se sancionará con multa de 1500 a 2000 veces la Unidad de Cuenta de la Ciudad de México vigente y remisión del vehículo al depósito de la Secretaría de Seguridad Pública del Distrito Federal, al conductor de un vehículo desde el cual se proyecten anuncios sobre las edificaciones públicas o privadas, sea que el vehículo se encuentre en movimiento o estacionado.
 
 En todo caso, el propietario del vehículo será responsable solidario por las sanciones que se apliquen al conductor.
 
@@ -1241,3 +1261,13 @@ Tercero. Para la expedición de la licencia para anuncios adheridos a muros cieg
 Cuarto. Para la reubicación de los anuncios a que hacen referencia los artículos tercero y cuarto transitorios de la Ley, se deberá respetar la proporcionalidad y equidad con base en las dimensiones de los anuncios registrados en los inventarios del Programa de Reordenamiento hasta el 19 de mayo de 2011.
 
 Quinto. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+G.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
