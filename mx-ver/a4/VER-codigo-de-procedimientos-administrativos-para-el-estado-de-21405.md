@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-administrativos-para-el-estado-de-2140
 country: "mx"
 rank: "codigo"
 publication_date: "2001-01-29"
-last_updated: "2013-12-16"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE NOVIEMBRE DE 2014.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el lunes 29 de enero de 2001.
 
@@ -211,7 +211,7 @@ IV. Hacer del conocimiento de los particulares, cuando así lo soliciten, el est
 
 V. Hacer constar, en forma escrita, la recepción de los documentos que le presenten;
 
-VI. Recibir las pruebas y alegatos que les presenten; y (sic)
+VI. Recibir las pruebas y alegatos que les presenten; y
 
 VII. Informar y orientar a los particulares sobre el ejercicio de sus derechos y el cumplimiento de sus obligaciones.
 
@@ -633,7 +633,7 @@ Pueden articularse posiciones al mandatario, siempre que tenga poder bastante pa
 
 ###### Artículo 55.
 
-Si el citado para absolver posiciones comparece, la autoridad o el Tribunal abrirán (sic) el pliego y procederán a realizar la calificación de las posiciones.
+Si el citado para absolver posiciones comparece, la autoridad o el Tribunal abrirán el pliego y procederán a realizar la calificación de las posiciones.
 
 ###### Artículo 56.
 
@@ -1215,7 +1215,7 @@ En el despacho de los asuntos se deberá observar un orden riguroso en la tramit
 
 Iniciado el procedimiento, la autoridad, a fin de asegurar la eficacia de la resolución que pudiera recaer, podrá adoptar las medidas provisionales establecidas en este Código u otras normas aplicables, siempre que existieren elementos suficientes.
 
-###### Articulo 148.
+###### Artículo 148.
 
 En las promociones, actuaciones o resoluciones del procedimiento administrativo podrán utilizarse formas impresas autorizadas previamente y publicadas en la Gaceta Oficial, las cuales serán distribuidas gratuitamente por las autoridades. En caso de no existir formas autorizadas, las promociones se presentarán en escrito libre.
 
@@ -1941,7 +1941,7 @@ Si al designarse bienes para el embargo se opusiere un tercero, fundándose en e
 
 ###### Artículo 202.
 
-Si los bienes señalados para la traba de ejecución estuvieron embargados por otras autoridades no fiscales o sujetos a cédula hipotecaria, se practicará no obstante el embargo. Los bienes embargados se entregarán al depositario designado por la oficina ejecutora, excepto en los casos en que exista un depositario judicial, y se dará aviso a la autoridad correspondiente, quien deberá notificar al o (sic) los interesados para que puedan hacer valer el medio de impugnación respectivo.
+Si los bienes señalados para la traba de ejecución estuvieron embargados por otras autoridades no fiscales o sujetos a cédula hipotecaria, se practicará no obstante el embargo. Los bienes embargados se entregarán al depositario designado por la oficina ejecutora, excepto en los casos en que exista un depositario judicial, y se dará aviso a la autoridad correspondiente, quien deberá notificar al o los interesados para que puedan hacer valer el medio de impugnación respectivo.
 
 Si los bienes señalados para la ejecución hubieren sido ya embargados por parte de otras autoridades fiscales, federales a locales, se practicará el embargo, entregándose los bienes al depositario que designe la oficina ejecutora y se dará aviso a dichas autoridades.
 
@@ -2127,7 +2127,7 @@ Los acreedores que aparezcan en el certificado de gravámenes, serán citados pa
 
 Los acreedores a que alude el párrafo anterior, tendrán derecho a concurrir al remate y hacer las observaciones que estimen del caso, las cuales serán resueltas por la oficina ejecutora en el acto de la diligencia.
 
-###### Articulo 225.
+###### Artículo 225.
 
 Mientras no se finque el remate, el deudor puede hacer el pago del crédito fiscal y sus accesorios, caso en el cual se levantará el embargo.
 
@@ -2775,145 +2775,33 @@ Queda estrictamente prohibido a los servidores públicos de la Secretaría que h
 
 ### CAPÍTULO V (SIC). DEL PROCEDIMIENTO ADMINISTRATIVO PARA LOS INTEGRANTES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO Y DE LOS MUNICIPIOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE AGOSTO DE 2013)</small>
-
 ###### Artículo 259 Bis.
 
-Los nombramientos de los integrantes de las instituciones de seguridad pública del Estado y de los municipios sólo dejarán de surtir efectos en forma definitiva, sin responsabilidad para la entidad pública para la que prestan sus servicios, por las causas siguientes:
-
-> <small>(ADICIONADA, G.O. 5 DE NOVIEMBRE DE 2010)</small>
-
-I. Separación, por incumplir cualquiera de los requisitos de permanencia, o cuando en los procesos de promoción concurran las siguientes circunstancias:
-
-a) Si hubiere sido convocado a tres procesos consecutivos de promoción sin que haya participado en los mismos sin causa justificada, o que habiendo participado en dichos procesos, no hubiere obtenido el grado inmediato superior que le correspondería, por causas imputables a él, sólo en el caso de no cumplir con los requisitos de permanencia;
-
-b) Que hubiere alcanzado la edad máxima correspondiente a su jerarquía, de acuerdo con lo establecido en las disposiciones aplicables;
-
-c) Que de su expediente personal no se desprendan méritos suficientes a juicio de las Comisiones para conservar su permanencia; y
-
-> <small>(ADICIONADA, G.O. 5 DE NOVIEMBRE DE 2010)</small>
-
-II. Baja, por:
-
-a) Renuncia;
-
-b) Muerte o incapacidad permanente;
-
-c) Jubilación o retiro;
-
-d) Por conclusión del término fijado en el nombramiento; y
-
-e) Por mutuo consentimiento.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE AGOSTO DE 2013)</small>
+(DEROGADO, G.O. 28 DE NOVIEMBRE DE 2014)
 
 ###### Artículo 259 Ter.
 
-El titular o responsable de la entidad pública podrá decretar la remoción de un integrante de instituciones de seguridad pública, además de por el incumplimiento de las obligaciones que señalan los artículos 28 y 29 de la Ley del Sistema Estatal de Seguridad Pública, en cualquiera de los casos siguientes:
-
-> <small>(ADICIONADA, G.O. 5 DE NOVIEMBRE DE 2010)</small>
-
-I. Por incurrir en faltas de probidad u honradez debidamente comprobadas;
-
-> <small>(ADICIONADA, G.O. 5 DE NOVIEMBRE DE 2010)</small>
-
-II. Por incurrir en violencia, amagos, injurias o malos tratamientos en contra de sus jefes o compañeros o en contra de cualquier persona, ya sea dentro o fuera del servicio;
-
-> <small>(ADICIONADA, G.O. 5 DE NOVIEMBRE DE 2010)</small>
-
-III. Por acumular, sin permiso o causa justificada, más de tres faltas de asistencia consecutivas (sic) o cinco discontinuas, en un período de treinta días;
-
-> <small>(ADICIONADA, G.O. 5 DE NOVIEMBRE DE 2010)</small>
-
-IV. Por abandonar o desatender sus labores, sobre todo si la función es delicada o peligrosa y requiere su presencia constante, salvo que esto ocurra por causa justificada;
-
-> <small>(ADICIONADA, G.O. 5 DE NOVIEMBRE DE 2010)</small>
-
-V. Por ocasionar intencionalmente daños a edificios, obras, maquinaria, materias primas y demás objetos relacionados con la función que realiza;
-
-> <small>(ADICIONADA, G.O. 5 DE NOVIEMBRE DE 2010)</small>
-
-VI. Por cometer actos inmorales durante el servicio;
-
-> <small>(ADICIONADA, G.O. 5 DE NOVIEMBRE DE 2010)</small>
-
-VII. Por revelar información estrictamente oficial, en perjuicio de la institución;
-
-> <small>(ADICIONADA, G.O. 5 DE NOVIEMBRE DE 2010)</small>
-
-VIII. Por comprometer con su imprudencia, descuido o negligencia, la seguridad de la entidad pública o lugar en que preste sus servicios o de las personas que allí se encuentren;
-
-> <small>(ADICIONADA, G.O. 5 DE NOVIEMBRE DE 2010)</small>
-
-IX. Por desobedecer, sin causa justificada, las órdenes o instrucciones que reciba de sus superiores, relacionadas con el servicio;
-
-> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 2013)</small>
-
-X. Por concurrir al desempeño de sus funciones en estado de embriaguez o bajo la influencia de narcóticos o drogas enervantes, salvo que, en este último caso, exista prescripción médica. Antes de iniciar su servicio, deberá poner en conocimiento el hecho a la entidad pública y exhibir la prescripción suscrita por el médico;
-
-> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 2013)</small>
-
-XI. Por sentencia ejecutoriada que imponga al integrante de instituciones de seguridad pública pena de prisión por la comisión de un delito intencional; y
-
-> <small>(ADICIONADA, G.O. 5 DE NOVIEMBRE DE 2010)</small>
-
-XII. Por causas análogas a las establecidas con anterioridad, que revistan igual gravedad y generen consecuencias semejantes en lo que al trabajo se refiere.
-
-> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 2013)</small>
+(DEROGADO, G.O. 28 DE NOVIEMBRE DE 2014)
 
 ###### Artículo 259 Quáter.
 
-Cuando el integrante de alguna de las instituciones a que se refiere este capítulo incurra en alguno de los casos previstos en el artículo anterior o cuando deje de reunir los requisitos de permanencia establecidos en la Ley del Sistema Estatal de Seguridad Pública para el estado de Veracruz de Ignacio de la Llave, dará lugar a su remoción; en tal caso, el funcionario designado por el órgano competente de cada institución, con intervención del afectado, quien podrá ser acompañado de un representante legal, procederá a levantar el acta circunstanciada que corresponda.
-
-> <small>(ADICIONADO, G.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO, G.O. 28 DE NOVIEMBRE DE 2014)
 
 ###### Artículo 259 Quinquies.
 
-Para los efectos del artículo anterior, se observará el siguiente procedimiento:
-
-> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 2013)</small>
-
-I. El integrante de alguna de las instituciones de seguridad pública deberá ser citado por escrito, en el lugar donde preste sus servicios o en el domicilio que tenga registrado ante la entidad pública, en un plazo no menor de cinco ni mayor de quince días hábiles, a una audiencia en la que se levantará el acta circunstanciada que corresponda;
-
-> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 2013)</small>
-
-II. En caso de que el integrante se niegue a recibir el citatorio, se levantará un acta ante dos testigos, haciéndose constar esta circunstancia;
-
-> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 2013)</small>
-
-III. Si el integrante no se encuentra en el centro de trabajo, ni en el domicilio indicado en la fracción I, el citatorio se le dejará con la persona que se encuentre en dicho domicilio y de no haber nadie en él, con un vecino, y se levantará un acta ante dos testigos, haciendo constar esta circunstancia;
-
-IV. En los casos a que se refieren las dos fracciones anteriores, el citatorio surtirá todos sus efectos;
-
-> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 2013)</small>
-
-V. El levantamiento del acta no se suspenderá por la inasistencia del integrante, si fue debidamente notificado para comparecer; el acta así levantada surtirá todos los efectos legales procedentes;
-
-> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 2013)</small>
-
-VI. En el acta circunstanciada se asentarán con precisión los hechos, la declaración del integrante afectado en su caso y la de los testigos que propongan las partes; y
-
-> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 2013)</small>
-
-VII. Cuando en el acta circunstanciada aparezcan elementos que hagan presumir que son ciertos los actos imputados al integrante, el funcionario autorizado para ello podrá dar por terminados los efectos del nombramiento, comunicándolo al afectado por escrito, al que se acompañará copia del acta de referencia.
-
-> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 2013)</small>
+(DEROGADO, G.O. 28 DE NOVIEMBRE DE 2014)
 
 ###### Artículo 259 Sexies.
 
-Si durante el procedimiento no se prueba la causa de remoción, el integrante de alguna de las instituciones a que se refiere este capítulo tendrá derecho a que se le indemnice con el importe de veinte días de salario por cada uno de los años de servicios prestados, el importe de tres meses de salario y el pago de los salarios vencidos desde la fecha de la separación hasta que se cumplimente en definitiva la sentencia pronunciada por el tribunal; así como al pago de las prestaciones devengadas a que tenga derecho al momento de la separación injustificada.
-
-> <small>(ADICIONADO, G.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO, G.O. 28 DE NOVIEMBRE DE 2014)
 
 ###### Artículo 259 Septies.
 
-En contra del acta circunstanciada que se levante en el procedimiento a que se refiere este Capítulo se podrá interponer el recurso de revocación o el juicio contencioso previsto en este Código.
-
-> <small>(ADICIONADO, G.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO, G.O. 28 DE NOVIEMBRE DE 2014)
 
 ###### Artículo 259 Octies.
 
-Las atribuciones de los órganos de control interno de las autoridades y del superior jerárquico para determinar responsabilidades e imponer sanciones caducan en tres años, contados a partir de la fecha de la comisión de la infracción.
+(DEROGADO, G.O. 28 DE NOVIEMBRE DE 2014)
 
 ## TÍTULO CUARTO. DEL RECURSO DE REVOCACIÓN
 
@@ -3777,7 +3665,7 @@ Para la resolución del recurso de revisión se observará lo siguiente:
 
 I. Si se considera infundada alguna causal de sobreseimiento del juicio, se modificará esta resolución cuando apareciere probado otro motivo legal para ello, o bien se revocará la determinación, para emitir sentencia en la que decida la cuestión planteada;
 
-II. Si se acreditan violaciones cometidas durante el procedimiento del juicio, que hayan dejando sin defensa al recurrente y trasciendan al sentido de las sentencias, se revocarán éstas y se mandará reponer el procedimiento;
+II. Si se acreditan violaciones cometidas durante el procedimiento del juicio, que hayan dejando (sic) sin defensa al recurrente y trasciendan al sentido de las sentencias, se revocarán éstas y se mandará reponer el procedimiento;
 
 III. Cuando se estimen fundados los agravios en los que se sostenga que se omitió el análisis de determinados argumentos o la valoración de algunas pruebas, se realizará el estudio de unos y de otras;
 
@@ -3944,3 +3832,27 @@ Segundo. La actualización de contribuciones, aprovechamientos y sus accesorios,
 Tercero. Las autoridades fiscales, mediante reglas de carácter general, establecerán las bases bajo las cuales los contribuyentes del Impuesto por la Prestación de Servicios de Hospedaje deberán cumplir con la obligación de dictaminar el referido impuesto en términos de la presente reforma, pudiendo en su caso brindar facilidades administrativas.
 
 Cuarto. Las autoridades fiscales, mediante reglas de carácter general, establecerán las bases bajo las cuales los contribuyentes del Impuesto sobre Loterías, Rifas, Sorteos y Concursos deberán cumplir con la obligación de dictaminar el referido impuesto en términos de la presente reforma.
+
+G.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO. La presente ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, salvo lo dispuesto en los artículos transitorios siguientes.
+
+SEGUNDO. El Ejecutivo del Estado expedirá las disposiciones reglamentarias necesarias para el debido cumplimiento de esta Ley, entre tanto, seguirán vigentes los reglamentos aplicables a las Instituciones de Seguridad Pública, en lo que no se opongan a esta Ley.
+
+TERCERO. En tanto no se emita una nueva ley que regule las atribuciones, facultades, obligaciones y restricciones de las empresas de seguridad privada, dichas empresas se continuarán rigiendo por el Título Décimo, De los Servicios de Seguridad Privada de la Ley Número 553 del Sistema Estatal de Seguridad Pública para el Estado de Veracruz de Ignacio de la Llave.
+
+CUARTO. Dentro de los sesenta días hábiles siguientes a la publicación de la presente ley, el Ejecutivo del Estado enviará iniciativa al Congreso local para que dictamine, discuta y en su caso, apruebe, la Ley para la Prevención de la Violencia y la Delincuencia en el Estado de Veracruz de Ignacio de la Llave, misma que armonizará en el Estado la Ley General para la Prevención Social de la Violencia y la Delincuencia.
+
+QUINTO. Los servicios de carrera vigentes en las instituciones de Seguridad Pública a la fecha de entrada en vigor de este ordenamiento, deberán ajustarse a los requisitos, criterios y procedimientos que establecen la Ley General del Sistema Nacional de Seguridad Pública y esta Ley, en un plazo no mayor a un año.
+
+SEXTO. Se abroga la Ley Número 553 del Sistema Estatal de Seguridad Pública para el Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial de fecha veinticuatro de junio de 2009, en todo su contenido excepto el Título Décimo, el Capítulo II del Título Tercero y los artículos 21, 21 Bis de la misma, y se derogan las demás disposiciones que se opongan a la presente Ley.
+
+SÉPTIMO. Se extingue el organismo público descentralizado denominado Centro Estatal de Evaluación y Control de Confianza.
+
+OCTAVO. Todos los procedimientos que se encuentren vigentes ante la Comisión de Honor y Justicia de la Secretaría de Seguridad Pública, se continuarán de conformidad con la Ley Número 553 del Sistema Estatal de Seguridad Pública para el Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave, el día veinticuatro de junio del año dos mil nueve.
+
+NOVENO. Las Comisiones y en su caso los respectivos Comités de los Servicios Profesionales de Carrera, Honor y Justicia para los Integrantes de las Instituciones Policiales, deberán estar instaladas en su totalidad el once de mayo de 2016.
+
+DÉCIMO. Se derogan los artículos 259 Bis, 259 Ter, 259 Quater, 259 Quinquies, 259 Sexies, 259 Septies y 259 Octies relativos al Procedimiento Administrativo para los Integrantes de las Instituciones de Seguridad Pública del Estado y de los municipios, del Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave.
+
+DÉCIMO PRIMERO. Se derogan todas las disposiciones que se opongan a la presente Ley.
