@@ -4,7 +4,7 @@ identifier: "CMX-ley-que-establece-el-derecho-a-contar-con-una-beca-para-los-360
 country: "mx"
 rank: "ley"
 publication_date: "2004-01-27"
-last_updated: "2004-01-27"
+last_updated: "2014-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36045&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2004-01-16"
 ---
 # LEY QUE ESTABLECE EL DERECHO A CONTAR CON UNA BECA PARA LOS JOVENES RESIDENTES EN EL DISTRITO FEDERAL, QUE ESTUDIEN EN LOS PLANTELES DE EDUCACION MEDIA SUPERIOR Y SUPERIOR DEL GOBIERNO DEL DISTRITO FEDERAL
 
-LEY QUE ESTABLECE EL DERECHO A CONTAR CON UNA BECA PARA LOS JOVENES RESIDENTES EN EL DISTRITO FEDERAL, QUE ESTUDIEN EN LOS PLANTELES DE EDUCACION MEDIA SUPERIOR Y SUPERIOR DEL GOBIERNO DEL DISTRITO FEDERAL
+LEY QUE ESTABLECE EL DERECHO A CONTAR CON UNA BECA PARA LOS JÓVENES RESIDENTES EN EL DISTRITO FEDERAL, QUE ESTUDIEN EN LOS PLANTELES DE EDUCACIÓN MEDIA SUPERIOR Y SUPERIOR DEL GOBIERNO DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal el martes 27 de enero de 2004.
 
@@ -44,9 +44,11 @@ DECRETA:
 
 DECRETO DE LEY QUE ESTABLECE EL DERECHO A CONTAR CON UNA BECA PARA LOS JÓVENES RESIDENTES EN EL DISTRITO FEDERAL, QUE ESTUDIEN EN LOS PLANTELES DE EDUCACIÓN MEDIA SUPERIOR Y SUPERIOR DEL GOBIERNO DEL DISTRITO FEDERAL.
 
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 1º.
 
-Los jóvenes residentes en el Distrito Federal, que estudien en los planteles de educación Media Superior y Superior del Gobierno del Distrito Federal, tendrán derecho a recibir de parte de estas Instituciones, una Beca no menor a medio salario mínimo mensual vigente en el Distrito Federal.
+Los jóvenes residentes en el Distrito Federal, que estudien en los planteles de educación Media Superior y Superior del Gobierno del Distrito Federal, tendrán derecho a recibir de parte de estas Instituciones, una Beca no menor a quince veces la Unidad de Cuenta de la Ciudad de México vigente.
 
 ###### Artículo 2º.
 
@@ -92,9 +94,11 @@ Los servidores públicos, responsables de la ejecución de esta Ley, que no cump
 
 Así mismo, los servidores públicos no podrán en ningún caso condicionar o negar el otorgamiento del apoyo económico, ni podrán emplearlo para hacer proselitismo partidista, en caso contrario, serán sancionados de acuerdo a lo establecido en el párrafo anterior.
 
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 8.
 
-La persona que proporcione información falsa o no cumpla con los requisitos para solicitar el apoyo económico, o para conservarlo pagará una multa equivalente a los 50 días de salario mínimo vigente en el Distrito Federal.
+La persona que proporcione información falsa o no cumpla con los requisitos para solicitar el apoyo económico, o para conservarlo pagará una multa equivalente a las 50 veces la Unidad de Cuenta de la Ciudad de México vigente.
 
 ## TRANSITORIOS
 
@@ -105,3 +109,15 @@ SEGUNDO.- En tanto no se expida el Reglamento de la presente Ley, el procedimien
 Recinto de la Asamblea Legislativa del Distrito Federal, a los treinta días del mes de diciembre del año dos mil tres. POR LA MESA DIRECTIVA.- DIP. LORENA VILLAVICENCIO AYALA, PRESIDENTA.- DIP. GABRIELA GONZÁLEZ MARTÍNEZ, SECRETARIA.- DIP. JUVENTINO RODRÍGUEZ RAMOS, SECRETARIO.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b) de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México a los dieciséis días del mes de enero de dos mil cuatro. EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.- LA SECRETARIA DE DESARROLLO SOCIAL, RAQUEL SOSA ELÍZAGA.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
