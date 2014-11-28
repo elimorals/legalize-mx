@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-propiedad-en-condominio-de-inmuebles-para-el-78798"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-27"
-last_updated: "2012-06-14"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78798&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-01-20"
 
 LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 27 de enero de 2011.
 
@@ -148,7 +148,7 @@ II.- Atendiendo a su uso; podrán ser:
 
 a) Habitacional.- Son aquellos inmuebles en los que la unidad de propiedad privativa están destinadas a la vivienda;
 
-b) Comercial o de Servicios.- Son aquellos inmuebles en los que la unidad de propiedad privativa, es destinado (sic) a la actividad propia del comercio o servicio permitido;
+b) Comercial o de Servicios.- Son aquellos inmuebles en los que la unidad de propiedad privativa, es destinado a la actividad propia del comercio o servicio permitido;
 
 c) Industrial.- Son aquellos en donde la unidad de propiedad privativa, se destina a actividades permitidas propias del ramo;
 
@@ -326,7 +326,7 @@ Para el caso de las fracciones I a la X de éste artículo se aplicará de maner
 
 En el caso de las obras establecidas en la Fracción III, éstas podrán llevarse a cabo solamente si en Asamblea General existe acuerdo unánime de los condóminos, excepto en las áreas verdes, y en el último caso, además, se indemnizará en caso de haber afectados a su plena satisfacción.
 
-El infractor de estas disposiciones será responsable del pago de los gastos que se efectúen para reparar las instalaciones o reestablecer (sic) los servicios de que se trate y estará obligado a dejar las cosas en el estado en que se encontraban, asimismo responderá de los daños y perjuicios que resulten, y se hará acreedor a las sanciones previstas en la presente ley; sin perjuicio de las responsabilidades del orden civil o penal en que puedan incurrir.
+El infractor de estas disposiciones será responsable del pago de los gastos que se efectúen para reparar las instalaciones o reestablecer los servicios de que se trate y estará obligado a dejar las cosas en el estado en que se encontraban, asimismo responderá de los daños y perjuicios que resulten, y se hará acreedor a las sanciones previstas en la presente ley; sin perjuicio de las responsabilidades del orden civil o penal en que puedan incurrir.
 
 La Procuraduría podrá intervenir a petición de parte en el ámbito de sus atribuciones así como la Procuraduría Ambiental
 
@@ -384,7 +384,7 @@ III.- El propietario o propietarios del condominio en caso de enajenación, resp
 
 > <small>(REFORMADA, G.O. 3 DE ABRIL DE 2012)</small>
 
-IV.- Para realizar obras nuevas, excepto en áreas verdes, que no impliquen la modificación de la Escritura Constitutiva y se traduzcan en mejor aspecto o mayor comodidad, se requerirá acuerdo aprobatorio de la Asamblea General a la que deberán asistir por lo menos la mayoría simple de los condóminos, cumpliendo con lo señalado en la fracción IV artículo (sic) 32 de esta Ley;
+IV.- Para realizar obras nuevas, excepto en áreas verdes, que no impliquen la modificación de la Escritura Constitutiva y se traduzcan en mejor aspecto o mayor comodidad, se requerirá acuerdo aprobatorio de la Asamblea General a la que deberán asistir por lo menos la mayoría simple de los condóminos, cumpliendo con lo señalado en la fracción IV artículo 32 de esta Ley;
 
 V.- En caso de falta de administrador las reparaciones o reposiciones urgentes en los bienes y servicios comunes podrán ser efectuados por cualquiera de los condóminos, los gastos que haya realizado serán reembolsados repartiendo el costo en partes iguales entre todos los condóminos, previa autorización del comité de vigilancia e informando detalladamente en la Asamblea General siguiente;
 
@@ -436,7 +436,7 @@ Así también, podrán celebrarse otro tipo de asambleas, siempre sujetas a la A
 
 I.- Las de administradores, que se celebrarán en el caso de un conjunto condominal o cuando el condominio se hubiese subdividido en razón de haber adoptado una organización por secciones o grupos, para tratar los asuntos relativos a los bienes de uso común del conjunto condominal o condominio. Serán convocadas por el comité de administración del mismo;
 
-II.- Las de sección o grupo, que se celebrarán cuando el condominio se compone de diferentes edificios, alas, secciones, zonas, manzanas, entradas y áreas en donde se tratarán asuntos de áreas internas en común que sólo dan servicio o sirven a las mismas; serán convocadas de acuerdo a lo establecido en el Artículo 32 de esta Ley y sus determinaciones en ningún caso podrán contravenir o afectar las decisiones de la Asamblea General del condominio; y (sic)
+II.- Las de sección o grupo, que se celebrarán cuando el condominio se compone de diferentes edificios, alas, secciones, zonas, manzanas, entradas y áreas en donde se tratarán asuntos de áreas internas en común que sólo dan servicio o sirven a las mismas; serán convocadas de acuerdo a lo establecido en el Artículo 32 de esta Ley y sus determinaciones en ningún caso podrán contravenir o afectar las decisiones de la Asamblea General del condominio; y
 
 III.- Las Asambleas Generales de Condóminos del conjunto condominal, las cuales serán opcionales a las asambleas de administradores. En las sesiones de administradores se deberá elegir el Comité de Administración y el Comité de Vigilancia del conjunto condominal. De igual modo, se podrá tratar cualquier asunto relacionado con las áreas comunes del conjunto condominal y serán convocadas en los términos del Artículo 32 de esta Ley;
 
@@ -878,7 +878,7 @@ El Reglamento Interno del condominio, y en su caso, del conjunto condominal, deb
 
 ###### Artículo 55.
 
-Cada condómino y poseedores del condominio, en su caso, están obligados a cubrir puntualmente las cuotas que para tal efecto establezca la Asamblea General, salvo lo dispuesto en el Título Quinto de esta Ley, los (sic) cuales serán destinadas para:
+Cada condómino y poseedores del condominio, en su caso, están obligados a cubrir puntualmente las cuotas que para tal efecto establezca la Asamblea General, salvo lo dispuesto en el Título Quinto de esta Ley, los cuales serán destinadas para:
 
 I.- Constituir el fondo de administración y mantenimiento destinado a cubrir el gasto corriente que se genere en la administración, operación y servicios no individualizados de las áreas comunes y áreas verdes del condominio;
 
@@ -966,7 +966,11 @@ II.- Si al concurrir las partes manifiestan su voluntad de no conciliar;
 
 III.- Si las partes concilian sus diferencias.
 
-En caso de que no concurra a la junta de conciliación, la parte contra la cual se presentó la reclamación, habiéndosele notificado en tiempo y forma, la Procuraduría podrá imponerle una multa de 50 hasta 100 salarios mínimos vigentes en el Distrito Federal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+En caso de que no concurra a la junta de conciliación, la parte contra la cual se presentó la reclamación, habiéndosele notificado en tiempo y forma, la Procuraduría podrá imponerle una multa de 50 hasta 100 veces la Unidad de Cuenta de la Ciudad de México vigente.
 
 Para el caso de que ambas partes hayan concurrido a la Junta de Conciliación y no se haya logrado ésta, la Procuraduría someterá inmediatamente en un mismo acto sus diferencias al arbitraje, ya sea en amigable composición o en estricto derecho.
 
@@ -1102,7 +1106,7 @@ La Administración Pública del Distrito Federal promoverá una cultura condomin
 
 La Procuraduría coadyuvará y asesorará en la creación y funcionamiento de asociaciones civiles orientados a la difusión y desarrollo de la cultura condominal, así como a iniciativas ciudadanas relacionadas con ésta.
 
-La Procuraduría deberá promover la creación de cuatro comités básicos, formadas y coordinadas (sic) por condóminos y/o poseedores voluntarios, comprometidos con los proyectos específicos a desarrollar en el condominio, con el objeto de complementar las actividades de la administración en los espacios comunes, para preservar el ambiente físico induciendo a la sustentabilidad del hábitat y promover las relaciones armónicas entre condóminos y poseedores, tales como:
+La Procuraduría deberá promover la creación de cuatro comités básicos, formadas y coordinadas por condóminos y/o poseedores voluntarios, comprometidos con los proyectos específicos a desarrollar en el condominio, con el objeto de complementar las actividades de la administración en los espacios comunes, para preservar el ambiente físico induciendo a la sustentabilidad del hábitat y promover las relaciones armónicas entre condóminos y poseedores, tales como:
 
 a) Comité de Ecología o Medio Ambiente.- Su actividad es atender a las áreas verdes, en azoteas promover la agricultura urbana, captar el agua pluvial, reciclar el agua gris, promover el ahorro de agua con dispositivos domésticos, reciclar la basura de sólidos, promover el uso de energía solar en áreas comunes y capacitar a la población para el manejo de sus mascotas;
 
@@ -1124,7 +1128,7 @@ En el tema de residuos sólidos, la Asamblea fomentara que exista el número suf
 
 Si el inmueble sujeto al Régimen de Propiedad en Condominio estuviera en estado ruinoso o se destruyera en su totalidad por cualquier tipo de siniestro o en una proporción que represente más del 35% de su valor, sin considerar el valor del terreno y según peritaje practicado por las autoridades competentes o por una Institución Financiera autorizada, se podrá acordar en Asamblea General Extraordinaria con la asistencia mínima de la mayoría simple del total de condóminos y por un mínimo de votos que representen el 51% del valor total del condominio y la mayoría simple del numero total de condóminos.
 
-a) La reconstrucción de las partes comunes o su venta, de conformidad con lo establecido en este Título, las disposiciones legales sobre desarrollo urbano y otras que fueren aplicables; y (sic)
+a) La reconstrucción de las partes comunes o su venta, de conformidad con lo establecido en este Título, las disposiciones legales sobre desarrollo urbano y otras que fueren aplicables; y
 
 b) La extinción total del régimen;
 
@@ -1156,27 +1160,49 @@ Lo anterior será de acuerdo a lo establecido en la presente Ley, su Reglamento,
 
 La contravención a las disposiciones de esta ley establecidas en los artículos 14, 16, 19, 21, 25, 43, 44, 49, 59 y 73, serán sancionadas con multa que se aplicará de acuerdo con los siguientes criterios:
 
-I.- Por faltas que afecten la tranquilidad o la comodidad de la vida condominal, se aplicará multa por el equivalente de diez a cien días de salario mínimo general vigente en el Distrito Federal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II.- Por faltas que afecten el estado físico del inmueble sin que esto signifique poner en riesgo la seguridad de los demás condóminos; que impidan u obstaculicen el uso adecuado de las instalaciones y áreas comunes; o que afecten el funcionamiento del condominio, se aplicará multa por el equivalente de cincuenta a doscientos días de salario mínimo general vigente en el Distrito Federal;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-III.- Por aquellas faltas que provoquen un daño patrimonial, o pongan en riesgo la seguridad del inmueble o las personas, se aplicará multa por el equivalente de cincuenta a trescientos días de salario mínimo general vigente en el Distrito Federal;
+I.- Por faltas que afecten la tranquilidad o la comodidad de la vida condominal, se aplicará multa por el equivalente de diez a cien veces la Unidad de Cuenta de la Ciudad de México vigente;
 
-IV.- Por incumplimiento en el pago oportuno de las cuotas ordinarias, extraordinarias de administración, de mantenimiento y las correspondientes al fondo de reserva, se aplicará multa de 10 a 100 días de salario mínimo general vigente en el Distrito Federal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+II.- Por faltas que afecten el estado físico del inmueble sin que esto signifique poner en riesgo la seguridad de los demás condóminos; que impidan u obstaculicen el uso adecuado de las instalaciones y áreas comunes; o que afecten el funcionamiento del condominio, se aplicará multa por el equivalente de cincuenta a doscientos veces la Unidad de Cuenta de la Ciudad de México vigente;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+III.- Por aquellas faltas que provoquen un daño patrimonial, o pongan en riesgo la seguridad del inmueble o las personas, se aplicará multa por el por el equivalente de cincuenta a trescientos veces la Unidad de Cuenta de la Ciudad de México vigente;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+IV.- Por incumplimiento en el pago oportuno de las cuotas ordinarias, extraordinarias de administración, de mantenimiento y las correspondientes al fondo de reserva, se aplicará multa de 10 a 100 veces la Unidad de Cuenta de la Ciudad de México vigente;
 
 V.- Los Administradores o Comités de Vigilancia que a juicio de la Asamblea General, Consejo, o de la Procuraduría no hagan un buen manejo o vigilancia de las cuotas de servicios, mantenimiento y administración, de reserva o extraordinarias, por el abuso de su cargo o incumplimiento de sus funciones, o se ostenten como tal sin cumplir lo que esta Ley y su reglamento establecen para su designación, estarán sujetos a las sanciones establecidas en las fracciones I, II, III y IV de este artículo, aumentando un 50% la sanción que le corresponda, independientemente de las responsabilidades o sanciones a que haya lugar, contempladas en otras Leyes;
 
-> <small>(REFORMADA, G.O. 3 DE ABRIL DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VI.- Se aplicará multa de 50 a 200 días de salario mínimo general vigente en el Distrito Federal al administrador o persona que tenga bajo su custodia el libro de actas debidamente autorizado y que habiendo sido notificado de una Asamblea General legalmente constituida no lo presente para el desahogo de la misma;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, G.O. 3 DE ABRIL DE 2012)</small>
+VI.- Se aplicará multa de 50 a 200 veces la Unidad de Cuenta de la Ciudad de México vigente al administrador o persona que tenga bajo su custodia el libro de actas debidamente autorizado y que habiendo sido notificado de una Asamblea General legalmente constituida no lo presente para el desahogo de la misma;
 
-VII.- Se aplicará multa de 50 a 300 días de salario mínimo general vigente en el Distrito Federal por incumplimiento a lo dispuesto en el artículo 44 de la presente Ley. En los casos de reincidencia, se aplicará hasta el doble de la sanción originalmente impuesta; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA, G.O. 3 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-VIII.- Se aplicara multa de 100 a 400 días de salario mínimo general vigente en el Distrito Federal, a los administradores que realicen cobros no previstos en esta ley y aprobados por la Asamblea General en viviendas de interés social y popular. En los casos de reincidencia, se aplicará hasta el doble de la sanción originalmente impuesta.
+VII.- Se aplicará multa de 50 a 300 veces la Unidad de Cuenta de la Ciudad de México vigente por incumplimiento a lo dispuesto en el artículo 44 de la presente Ley. En los casos de reincidencia, se aplicará hasta el doble de la sanción originalmente impuesta; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+VIII.- Se aplicara multa de 100 a 400 veces la Unidad de Cuenta de la Ciudad de México vigente, a los administradores que realicen cobros no previstos en esta ley y aprobados por la Asamblea General en viviendas de interés social y popular. En los casos de reincidencia, se aplicará hasta el doble de la sanción originalmente impuesta.
 
 ###### Artículo 88.
 
@@ -1184,7 +1210,7 @@ Las sanciones establecidas en la presente Ley se aplicarán independientemente d
 
 La Asamblea General podrá resolver en una reunión especial convocada para tal efecto y de acuerdo a lo establecido en el artículo 32 de la presente Ley, para tomar las siguientes medidas:
 
-I.- Iniciar las acciones civiles correspondientes para exigir al condómino que incumpla con las obligaciones establecidas en la presente Ley, o las contenidas en la Escritura Constitutiva o en los acuerdos de la propia Asamblea General o en el Reglamento Interno, el cumplimiento forzoso de dichas obligaciones; y (sic)
+I.- Iniciar las acciones civiles correspondientes para exigir al condómino que incumpla con las obligaciones establecidas en la presente Ley, o las contenidas en la Escritura Constitutiva o en los acuerdos de la propia Asamblea General o en el Reglamento Interno, el cumplimiento forzoso de dichas obligaciones; y
 
 II.- En caso de que dicho incumplimiento sea reiterado o grave, se podrá demandar ante los juzgados civiles, la imposición de las sanciones pecuniarias que se hubieren previsto, las cuales podrán llegar incluso hasta la enajenación del inmueble y la rescisión del contrato que le permite ser poseedor derivado;
 
@@ -1225,3 +1251,13 @@ G.O. 14 DE JUNIO DE 2012.
 PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal, para su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
