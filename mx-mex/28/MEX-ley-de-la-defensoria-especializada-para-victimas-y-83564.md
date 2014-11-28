@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-defensoria-especializada-para-victimas-y-83564"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-26"
-last_updated: "2014-01-29"
+last_updated: "2014-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83564&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY DE LA DEFENSORIA ESPECIALIZADA PARA VICTIMAS Y OFENDIDOS DEL DELITO DEL ESTADO DE MEXICO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE DICIEMBRE DE 2014 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE LA DEFENSORÍA ESPECIALIZADA PARA VÍCTIMAS Y OFENDIDOS DEL DELITO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 29 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta de Gobierno del Estado de México, el miércoles 26 de octubre de 2011.
 
@@ -51,7 +53,7 @@ La presente Ley será aplicable en el Estado de México para todas las víctimas
 
 ###### Artículo 3.
 
-Esta Ley se aplicará a todas las victimas y ofendidos, sin distinción alguna motivada por razones de origen étnico, nacionalidad, género, edad, discapacidad, condición social, condiciones de salud, credo o religión, prácticas culturales, opinión política o de otra indole, preferencias sexuales, estado civil o cualquier otra que atente contra la dignidad humana.
+Esta Ley se aplicará a todas las víctimas y ofendidos, sin distinción alguna motivada por razones de origen étnico, nacionalidad, género, edad, discapacidad, condición social, condiciones de salud, credo o religión, prácticas culturales, opinión política o de otra indole, preferencias sexuales, estado civil o cualquier otra que atente contra la dignidad humana.
 
 ###### Artículo 4.
 
@@ -67,9 +69,9 @@ Para los efectos de esta Ley se entiende por:
 
 I. Centro de Atención: al Centro de Atención e Información para Víctimas y Ofendidos del Delito;
 
-> <small>(REFORMADA, G.G. 29 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
-II. Código de Procedimientos Penales: al Código de Procedimientos Penales para el Estado de México;
+II. Código Nacional: al Código Nacional de Procedimientos Penales;
 
 III. Código Penal: al Código Penal del Estado de México;
 
@@ -83,25 +85,33 @@ VI. Defensoría: a la Defensoría Especializada para Víctimas y Ofendidos del D
 
 VII. Director General: al Director General de la Defensoría Especializada para Víctimas y Ofendidos del Delito;
 
-VIII. Estado: al Estado de México;
+> <small>(ADICIONADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+VIII. Defensor: a las y los servidores públicos especializados en atención y defensa de las víctimas u ofendidos;
+
+IX. Estado: al Estado de México;
 
 > <small>(REFORMADA, G.G. 29 DE ENERO DE 2014)</small>
 
-IX. Ley: a la Ley de la Defensoría Especializada para Víctimas y Ofendidos del Delito del Estado de México;
+X. Ley: a la Ley de la Defensoría Especializada para Víctimas y Ofendidos del Delito del Estado de México;
 
-X. Ofendido: a las personas a que se refieren los tratados internacionales, las leyes generales, la legislación federal y el marco jurídico estatal;
+XI. Ofendido: a las personas a que se refieren los tratados internacionales, las leyes generales, la legislación federal y el marco jurídico estatal;
 
-XI. Procuraduría: a la Procuraduría General de Justicia del Estado de México;
+XII. Procuraduría: a la Procuraduría General de Justicia del Estado de México;
 
-XII. Reparación del daño: a la reparación del daño en términos de lo dispuesto por el Código Penal y Código de Procedimientos Penales;
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+XIII. Reparación del daño: a la reparación del daño en términos de lo dispuesto por el Código Penal y Código Nacional de Procedimientos Penales;
 
 > <small>(REFORMADA, G.G. 29 DE ENERO DE 2014)</small>
 
-XIII. Consejera/o: a la Consejera o Consejero Jurídico del Ejecutivo Estatal;
+XIV. Consejera/o: a la Consejera o Consejero Jurídico del Ejecutivo Estatal;
 
-XIV. Tratados Internacionales: a los Tratados Internacionales suscritos por México, de conformidad con el artículo 133 de la Constitución Federal; y
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
-XV. Víctima: a las personas a que se refieren los tratados internacionales, las leyes generales, la legislación federal y el marco jurídico estatal.
+XV. Tratados Internacionales: a los Tratados Internacionales suscritos por México, de conformidad con el artículo 133 de la Constitución Federal;
+
+XVI. Víctima: a las personas a que se refieren los tratados internacionales, las leyes generales, la legislación federal y el marco jurídico estatal.
 
 ###### Artículo 7.
 
@@ -339,7 +349,9 @@ V. Ser informado a través de los Defensores del Centro de Atención o los medio
 
 VI. Ser reparado en el daño en términos de la legislación penal aplicable;
 
-VII. Recibir orientación tratándose de delitos que admitan la celebración de acuerdos reparatorios, acerca de las consecuencias de carácter legal y patrimonial que implique dicha celebración; recibir información con precisión sobre las condiciones y términos previstos en la legislación penal para tal efecto;
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+VII. Participar y recibir orientación tratándose de delitos que admitan la celebración de mecanismos alternativos de solución de controversias, acerca de las consecuencias de carácter legal y patrimonial que implique dicha celebración, recibir información con precisión sobre las condiciones y términos previstos en la legislación penal y procesal para tal efecto;
 
 VIII. Solicitar al Ministerio Público que imponga las medidas que garanticen su protección;
 
@@ -368,6 +380,24 @@ XIX. Solicitar el traslado de la autoridad al lugar en donde éste se encuentre,
 XX. Impugnar las omisiones del Ministerio Público en la investigación de los delitos, así como las resoluciones de reserva, no ejercicio, desistimiento de la acción penal o suspensión del procedimiento cuando no esté satisfecha la reparación del daño; y
 
 XXI. Solicitar las providencias precautorias y medidas de protección o cautelares previstas en la Ley.
+
+> <small>(ADICIONADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+XXII. Contar con la información sobre los derechos que en su beneficio existan, así como, ser atendidos por personal del mismo sexo, o del sexo que la víctima u ofendido elija, tomando en consideración el procedimiento aplicable para testimonios especiales;
+
+> <small>(ADICIONADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+XXIII. Contar con la asistencia y patrocinio de un defensor gratuito en cualquier etapa del procedimiento, siempre que así lo solicite la víctima u ofendido;
+
+> <small>(ADICIONADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+XXIV. Tener acceso a los registros de investigación durante el procedimiento, así como a obtener copia gratuita de éstos, salvo que la información esté sujeta a reserva o resulte confidencial conforme a la normatividad aplicable.
+
+> <small>(ADICIONADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 20 Bis.
+
+En cualquier etapa del procedimiento, las víctimas u ofendidos podrán designar a un defensor, cuya intervención será entre otras para orientar, asesorar y defender legalmente en el procedimiento penal, civil, familiar, mercantil o de amparo cuando estos últimos se deriven de la comisión de un hecho delictuoso, quien actuará en representación de la víctima u ofendido, los defensores sólo promoverán lo que previamente informen a su representado.
 
 ### CAPÍTULO II. OBLIGACIONES DEL DEFENSOR
 
@@ -455,7 +485,9 @@ VIII. En caso de secuestro, solicitar al Juez que las personas que hayan sido co
 
 Son obligaciones del defensor, los siguientes:
 
-I. Pugnar que las niñas, niños y adolescentes sean tratados con tacto y sensibilidad durante todo el procedimiento penal, tomando en cuenta su situación personal, sus necesidades inmediatas, edad, género, discapacidad y nivel de madurez, respetando plena ente su integridad física y mental;
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+I. Pugnar que las niñas, niños y adolescentes sean tratados con tacto y sensibilidad durante todo el procedimiento penal, tomando en cuenta su situación personal, sus necesidades inmediatas, edad, género, discapacidad y nivel de madurez, respetando plenamente su integridad física y mental considerando los principios del interés superior de las niñas, niños y adolescentes, la prevalencia de sus derechos, su protección integral y los derechos consagrados en la Constitución Federal, en los Tratados Internacionales así como los previstos en la presente Ley y demás ordenamientos aplicables;
 
 II. Velar por que las niñas, niños y adolescentes reciban un trato en lo individual como un ser humano con sus propias necesidades, deseos y sentimientos personales;
 
@@ -481,9 +513,11 @@ XII. Tutelar todos los derechos de las niñas, niños y adolescentes, previstos 
 
 ### CAPÍTULO V. DE LAS MEDIDAS ESPECIALES PARA MUJERES EN SITUACIÓN DE VULNERABILIDAD, ADULTOS MAYORES, DISCAPACITADOS Y EXTRANJEROS
 
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 24.
 
-Tratándose de delitos vinculados a la violencia de género, además de las medidas que establece la presente Ley, el defensor deberá solicitar las medidas de protección o cautelares que resulten procedentes, de conformidad con las disposiciones aplicables.
+Tratándose de delitos vinculados a la violencia de género, además de las medidas que establece la presente Ley, el defensor deberá solicitar las medidas de protección o cautelares que resulten procedentes, de conformidad con la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y demás disposiciones aplicables.
 
 ###### Artículo 25.
 
@@ -636,3 +670,15 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
 
 CUARTO.- La Consejería Jurídica, la Secretaría de Finanzas y la Secretaría de la Contraloría proveerán lo necesario para dar cumplimiento a lo establecido en este Decreto.
+
+G.G. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor el mismo día que entre en vigor el Código Nacional de Procedimientos Penales, en el Estado de México.
+
+TERCERO.- La Secretaría de Seguridad Ciudadana y los municipios de la Entidad, con la entrada en vigor del presente Decreto, deberán contar con cuerpos especializados de policía, con capacidad para cumplir de manera eficaz y eficiente con las atribuciones que derivan de la entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de México.
+
+CUARTO.- El Titular del Ejecutivo Estatal reformará el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de México, antes de la entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de México.
+
+QUINTO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
