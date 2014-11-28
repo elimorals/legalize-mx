@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-prevenir-la-violencia-en-los-espectaculos-50293"
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-03"
-last_updated: "2014-03-13"
+last_updated: "2014-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50293&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2006-04-11"
 
 LEY PARA PREVENIR LA VIOLENCIA EN LOS ESPECTÁCULOS DEPORTIVOS EN EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 3 de mayo de 2006.
 
@@ -332,7 +332,7 @@ XI.- Cumplir con los señalamientos de acceso y salida de los establecimientos d
 
 XII.- Abstenerse de interrumpir o dificultar el servicio público de transporte, a través de obstaculizar alguna vía de comunicación o de la retención de algún medio de transporte de pasajeros o de carga;
 
-XIII.- Abstenerse de asistir al Espectáculo Deportivo en estado de ebriedad o bajo el influjo de narcóticos, y (sic)
+XIII.- Abstenerse de asistir al Espectáculo Deportivo en estado de ebriedad o bajo el influjo de narcóticos, y
 
 > <small>(ADICIONADA, G.O. 13 DE MARZO DE 2014)</small>
 
@@ -344,11 +344,11 @@ XV.- Las demás que señale la Ley y otras disposiciones aplicables.
 
 Además de las disposiciones referidas en el artículo anterior, los integrantes de los Grupos de animación deberán:
 
-I.-Respetar el lugar de permanencia asignado por los Titulares en el Recinto Deportivo;
+I.- Respetar el lugar de permanencia asignado por los Titulares en el Recinto Deportivo;
 
 II.- Respetar el ingreso y salida del Grupo de Animación rival;
 
-III.-Portar y mostrar cuando las autoridades lo requieran, la credencial expedida por el Club deportivo correspondiente, que lo acredita como integrante de un grupo de animación determinado;
+III.- Portar y mostrar cuando las autoridades lo requieran, la credencial expedida por el Club deportivo correspondiente, que lo acredita como integrante de un grupo de animación determinado;
 
 IV.- Respetar los tiempos y rutas determinados por la Secretaría y Seguridad Pública para el ingreso y salida del Recinto Deportivo;
 
@@ -416,21 +416,31 @@ Se sancionará con el impedimento para organizar de uno a tres Espectáculos Dep
 
 ###### Artículo 25.
 
-Se sancionará con el equivalente de 5-10 días de salario mínimo, el incumplimiento de las obligaciones contempladas en las fracciones I, II, III, IV y V del artículo I5 de esta Ley.
+Se sancionará con el equivalente de 5-10 días de salario mínimo, el incumplimiento de las obligaciones contempladas en las fracciones I, II, III, IV y V del artículo 15 de esta Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 26.
 
-Se sancionará con el equivalente de 10 a 20 días de salario mínimo, por el incumplimiento de las disposiciones contenidas en la fracción I, artículo 14 de esta Ley.
+Se sancionará con el equivalente de 10 a 20 veces la Unidad de Cuenta de la Ciudad de México vigente, por el incumplimiento de las disposiciones contenidas en la fracción I, artículo 14 de esta Ley;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 27.
 
-Se sancionará con el equivalente de 5 a 10 días de salario mínimo, o arresto de 6-12 horas por el incumplimiento de las disposiciones contenidas en la fracción XIII, del artículo 14 de esta Ley.
+Se sancionará con el equivalente de 5 a 10 veces la Unidad de Cuenta de la Ciudad de México vigente, o arresto de 6-12 horas por el incumplimiento de las disposiciones contenidas en la fracción XIII, del artículo 14 de esta Ley;
 
-> <small>(REFORMADO, G.O. 13 DE MARZO DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 28.
 
-Se sancionará con el equivalente de 40 a 80 días de salario mínimo o arresto de 12 a 24 horas por el incumplimiento de lo dispuesto en las fracciones II, III, IV, VI y XIV del artículo 14 de esta Ley.
+Se sancionará con el equivalente de 40 a 80 veces la Unidad de Cuenta de la Ciudad de México vigente o arresto de 12 a 24 horas por el incumplimiento de lo dispuesto en las fracciones II, III, IV, VI y XIV del artículo 14 de esta Ley.
 
 ###### Artículo 29.
 
@@ -483,3 +493,13 @@ SEGUNDO.- Se deroga toda disposición que se oponga al presente decreto.
 G.O. 13 DE MARZO DE 2014.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
