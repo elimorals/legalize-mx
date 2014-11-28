@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-responsabilidad-civil-para-la-proteccion-del-derecho-504
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-19"
-last_updated: "2006-05-19"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50490&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2006-05-11"
 ---
 # LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCION DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN DE LA CIUDAD DE MEXICO -- ANTES LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCION DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL --
 
-LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCION DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL
+LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCIÓN DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Número Bis de la Gaceta Oficial del Distrito Federal, el miércoles 19 de mayo de 2006.
 
@@ -43,6 +43,8 @@ ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 III LEGISLATURA.
 
 D E C R E T A
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO CUARTO DEL DECRETO SIN NÚMERO, PUBLICADO EN LA G.O. DE 28 DE NOVIEMBRE DE 2014, LAS REFERENCIAS QUE SE HAGAN DEL SALARIO MÍNIMO EN LAS NORMAS LOCALES VIGENTES, INCLUSO EN AQUELLAS PENDIENTES DE PUBLICAR O DE ENTRAR EN VIGOR, SE ENTENDERÁN HECHAS A LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO, A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.</small>
 
 LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCIÓN DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL.
 
@@ -288,9 +290,13 @@ La reparación del daño comprende la publicación o divulgación de la sentenci
 
 En ningún caso, las sanciones derivadas del daño al patrimonio moral serán privativas de la libertad de las personas.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 41.
 
-En los casos en que no se pudiere resarcir el daño en términos del artículo 39 se fijará indemnización tomando en cuenta la mayor o menor divulgación que el acto ilícito hubiere tenido, las condiciones personales de la víctima y las demás circunstancias del caso, en ningún caso el monto por indemnización deberá exceder de trescientos cincuenta días de salario mínimo general vigente en el Distrito Federal, lo anterior no incluye los gastos y costas que deberá sufragar y que podrán ser restituidos conforme lo que dispone en estos casos el Código Procedimientos Civiles para el Distrito Federal.
+En los casos en que no se pudiere resarcir el daño en términos del artículo 39 se fijará indemnización tomando en cuenta la mayor o menor divulgación que el acto ilícito hubiere tenido, las condiciones personales de la víctima y las demás circunstancias del caso, en ningún caso el monto por indemnización deberá exceder de trescientos cincuenta veces la Unidad de Cuenta de la Ciudad de México vigente, lo anterior no incluye los gastos y costas que deberá sufragar y que podrán ser restituidos conforme lo que dispone en estos casos el Código (sic) Procedimientos Civiles para el Distrito Federal.
 
 En los casos de los sujetos contemplados en el artículo 33 de esta ley el Juez podrá, dependiendo las características especiales del caso, disminuir hasta en un setenta por ciento la cantidad máxima establecida en el presente artículo.
 
@@ -321,3 +327,15 @@ QUINTO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor d
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veintisiete días del mes de abril del año dos mil seis.- POR LA MESA DIRECTIVA.- DIP. MARÍA GUADALUPE CHAVIRA DE LA ROSA, PRESIDENTA.- DIP. JORGE GARCÍA RODRÍGUEZ, SECRETARIO.- DIP. MARÍA TERESITA DE JESÚS AGUILAR MARMOLEJO, SECRETARIA.- (Firmas)
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b) de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México a los once días del mes de mayo del dos mil seis.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ALEJANDRO DE JESÚS ENCINAS RODRÍGUEZ.- FIRMA.- EL SECRETARIO DE GOBIERNO, RICARDO RUIZ SUÁREZ.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
