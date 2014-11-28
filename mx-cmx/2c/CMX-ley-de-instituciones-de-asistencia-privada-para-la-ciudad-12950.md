@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-instituciones-de-asistencia-privada-para-la-ciudad-12950
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-14"
-last_updated: "2010-11-23"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12950&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-11"
 
 LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 14 de diciembre de 1998.
 
@@ -112,7 +112,7 @@ Las instituciones de asistencia privada se consideran de utilidad pública y ord
 
 Las obras caritativas practicadas por una persona física o moral exclusivamente con fondos propios no estarán sujetas a la presente Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 6°.
 
@@ -130,7 +130,7 @@ La denominación de cada Institución de Asistencia Privada se formará libremen
 
 ### CAPITULO II. CONSTITUCION DE LAS INSTITUCIONES DE ASISTENCIA PRIVADA
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 8°.
 
@@ -250,7 +250,7 @@ Los patronos de las fundaciones constituidas en la forma prevenida por este cap�
 
 ### CAPITULO III. DE LOS BIENES QUE CORRESPONDEN A LA ASISTENCIA PRIVADA POR DISPOSICIÓN TESTAMENTARIA O DE LA LEY
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 24.
 
@@ -284,7 +284,7 @@ Una vez concedida la autorización a que se refiere el artículo 26 de esta Ley,
 
 Los donativos a favor de las Instituciones, hechos conforme a esta Ley, no podrán revocarse una vez perfeccionados. Sin embargo, se admitirá la reducción de las donaciones cuando perjudiquen la obligación del donante de ministrar alimentos a aquellas personas a quienes los deba conforme a la ley, en la proporción que señale el Juez competente atendiendo a las disposiciones del Código Civil. Las Instituciones podrán recibir apoyo de Voluntarios que, sin ánimo de lucro ni remuneración, realicen actividades de asistencia privada de acuerdo al objeto de la Institución de que se trate, la cual coordinará dichas actividades.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPITULO V. DE LAS REFORMAS A LOS ESTATUTOS, EXTINCIÓN Y LIQUIDACIÓN DE LAS INSTITUCIONES DE ASISTENCIA PRIVADA
 
@@ -296,7 +296,7 @@ Cuando las instituciones consideren necesario reformar los estatutos, someterán
 
 El Consejo Directivo resolverá lo que corresponda, sujetándose a lo que disponen los artículos 8º y 9º de esta Ley y demás disposiciones legales aplicables. Al reformar los estatutos se estará a lo dispuesto por el fundador o fundadores, en lo relativo al objeto y clase de actos de asistencia que deberá ejecutar la institución.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 30.
 
@@ -420,7 +420,7 @@ Si hubiere remanentes de la liquidación, éstos se aplicarán con sujeción a l
 
 ### CAPITULO VI. DE LA REPRESENTACIÓN Y ADMINISTRACIÓN DE LAS INSTITUCIONES DE ASISTENCIA PRIVADA
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 40.
 
@@ -448,7 +448,7 @@ IV. Desempeñar durante su vida el cargo de presidente o miembro del patronato d
 
 Cuando no se establezca en sus estatutos la forma en la cual se tomaran las decisiones, se estará a lo siguiente: si son dos Fundadores deberá ser por unanimidad, en caso de ser tres o más fundadores, decidirán por mayoría simple.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 42.
 
@@ -542,7 +542,9 @@ X. Abstenerse de cancelar las hipotecas constituidas a favor de las institucione
 
 XI. Abstenerse de nombrar a personas que tengan parentesco por consanguinidad o afinidad dentro de cualquier grado con los miembros del patronato, para desempeñar cualquier cargo o empleo remunerado de la institución;
 
-XII. No entregar dinero, mercancías o valores que no estén amparados con documentos, siempre que el monto de aquel o el valor de los últimos exceda de un día de salario mínimo vigente en el Distrito Federal;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+XII. No entregar dinero, mercancías o valores que no estén amparados con documentos, siempre que el monto de aquel o el valor de los últimos exceda del valor de la Unidad de Cuenta de la Ciudad de México vigente;
 
 XIII. Abstenerse de celebrar contratos respecto de los bienes de las instituciones que administren, con cualquier miembro del patronato, su cónyuge y parientes por consanguinidad o afinidad dentro del cuarto grado;
 
@@ -576,7 +578,7 @@ Los empleados de las instituciones, que manejen fondos, estarán obligados a con
 
 Los patronatos tendrán las facultades y obligaciones que establece esta Ley y los estatutos de la institución que representan y serán responsables por los actos y omisiones que cometan en el ejercicio de sus funciones.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPITULO VII. DE LOS PROGRAMAS DE TRABAJO Y ESTIMACIÓN DE PRESUPUESTOS DE LAS INSTITUCIONES
 
@@ -654,7 +656,7 @@ Es obligación de los patronatos remitir a la Junta un duplicado de los contrato
 
 Los contratos y avisos deberán remitirse dentro (sic) los treinta días siguientes a la fecha en que se celebre el contrato o se consume la desocupación.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPITULO IX. DE LA OBTENCIÓN DE FONDOS
 
@@ -712,7 +714,7 @@ Cuando las instituciones adquieran valores negociables de renta fija, ellos debe
 
 Las Instituciones podrán hacer inversiones en la construcción de viviendas unifamiliares, conjuntos habitacionales, condominios o locales. La venta o renta de dichos inmuebles deberá hacerse conforme a las condiciones que proponga el Patronato y que autorice la Junta.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 66.
 
@@ -840,7 +842,7 @@ El Consejo Directivo celebrará sesiones ordinarias por lo menos una vez al mes 
 
 El Presidente del Consejo Directivo tendrá voto de calidad en caso de empate.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 76.
 
@@ -904,7 +906,7 @@ III. Tener conocimientos o haberse destacado en el ámbito de la asistencia soci
 
 No podrán ser representantes de las instituciones de asistencia privada ante el Consejo Directivo, las personas que desempeñen cargo de elección popular, los Secretarios y Subsecretarios de Estado y los Oficiales Mayores de las Secretarías de Estado de la Administración Pública Federal; el Jefe de Gobierno, los Secretarios, Subsecretarios y el Oficial Mayor del Distrito Federal; los titulares de los órganos político-administrativos en las demarcaciones del Distrito Federal; los Directores Generales, Gerentes Generales o similares de los organismos descentralizados y las empresas de participación estatal de las administraciones públicas federal y del Distrito Federal.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 81.
 
@@ -998,7 +1000,7 @@ XXII. Autorizar medios electrónicos para recibir comunicaciones por parte de la
 
 XXIII. Las demás que le confiera esta Ley y otras disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 82.
 
@@ -1114,7 +1116,7 @@ Cuando las instituciones, sin causa justificada, no paguen dentro del mes corres
 
 Los intereses que se cobren a las instituciones en mora, se destinarán a crear e incrementar un fondo de ayuda extraordinaria para las instituciones. El Consejo Directivo aprobará las reglas de operación del fondo, así como la utilización y destino de cualquier cantidad del mismo.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 87.
 
@@ -1134,7 +1136,7 @@ Todas las instituciones autorizadas deberán estar inscritas en el Registro. La 
 
 Con base en lo anterior, la Junta elaborará y actualizará anualmente un directorio que contenga los datos del Registro, mismo que deberá difundirse y ponerse a disposición del que lo solicite.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPITULO XI. DE LAS VISITAS DE INSPECCIÓN Y SUPERVISIÓN A LAS INSTITUCIONES
 
@@ -1144,7 +1146,7 @@ Con base en lo anterior, la Junta elaborará y actualizará anualmente un direct
 
 La Junta deberá realizar visitas de inspección o de supervisión, para vigilar el exacto cumplimiento, por parte de las Instituciones, de las obligaciones que establece esta Ley y otras disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 89.
 
@@ -1214,7 +1216,7 @@ Desahogada la vista o cumplido el plazo, el Presidente dará cuenta al Consejo D
 
 Cuando los Patronos, funcionarios, representantes legales o empleados de alguna Institución, se resistan a que se practiquen las visitas de que trata esta Ley, o no proporcionen los datos requeridos se levantará un acta ante dos testigos, haciendo constar los hechos, mismos que se harán del conocimiento del Consejo Directivo para que se impongan las sanciones correspondientes.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPITULO XII. DE LOS ACTOS REALIZADOS ANTE NOTARIOS, JUECES Y DIRECTORES DE REGISTROS PÚBLICOS
 
@@ -1274,7 +1276,7 @@ Las violaciones a esta Ley, a su reglamento o a los acuerdos y resoluciones que,
 
 Al aplicarse las sanciones, el Consejo Directivo evaluará la gravedad de la conducta infractora y las circunstancias particulares del caso y considerará, en su caso, la reincidencia en que se hubiere incurrido, para determinar la sanción que corresponda imponer.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 103.
 
@@ -1372,7 +1374,7 @@ Salón de sesiones de la Asamblea Legislativa del Distrito Federal, a diez de di
 
 En cumplimiento de lo dispuesto en el artículo 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los once días del mes de diciembre de mil novecientos noventa y ocho.- El Jefe de Gobierno del Distrito Federal, Cuauhtémoc Cárdenas Solórzano.- Rúbrica.- La Secretaría de Gobierno, Rosario Robles Berlanga.- Rúbrica.- La Secretaria de Educación, Salud y Desarrollo Social, Clara Jusidman Rapoport.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 23 DE NOVIEMBRE DE 2010.
 
@@ -1387,3 +1389,13 @@ CUARTO. Hasta en tanto el Jefe de Gobierno del Distrito Federal expida las dispo
 QUINTO. El Jefe de Gobierno del Distrito Federal, podrá, al concluir el período para el que fue designado el presidente de la Junta de Asistencia Privada del Distrito Federal que se encuentre en funciones al entrar en vigor el presente decreto, ratificarlo en ese cargo para que lo continúe desempeñando por un segundo período de tres años, o proceder a un nuevo nombramiento en los términos que establece el artículo 76 de la Ley que se modifica.
 
 SEXTO. Túrnese al Jefe de Gobierno del Distrito Federal para su promulgación y publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
