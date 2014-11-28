@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-y-defensa-de-los-derechos-de-los-menores-6192
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-04"
-last_updated: "2013-10-04"
+last_updated: "2014-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61926&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE LOS MENORES Y LA FAMILIA EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 4 de julio de 2008.
 
@@ -841,37 +841,21 @@ IV.- El nombre y domicilio del menor en estado de vulnerabilidad.
 
 La Procuraduría, podrá recibir denuncias anónimas, en cuyo caso tendrá la obligación de realizar todas las diligencias necesarias para comprobar la veracidad del hecho.
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 41.
 
 La Procuraduría, al recibir una denuncia, ordenará por medio del Área Jurídica, el inicio de una investigación, misma que estará a cargo del Área de Trabajo Social.
 
-Si de la investigación resulta que el menor se encuentra en situación de peligro, la Procuraduría podrá trasladarlo a un albergue temporal; en cuyo caso, deberá informar dentro de las cuarenta y ocho horas siguientes de la decisión dictada, al Ministerio Público o al Juez competente o bien, a la autoridad política del lugar que corresponda, para que califique la medida preventiva adoptada y en su caso, inicien las actuaciones necesarias, en el ámbito de su competencia, para determinar la situación legal del menor.
+Si de la investigación resulta que el menor se encuentra en situación de peligro, la Procuraduría podrá trasladarlo a un albergue temporal; en cuyo caso, deberá informar dentro de las cuarenta y ocho horas siguientes de la decisión dictada al Ministerio Público o al Juez competente o bien, a la autoridad política del lugar que corresponda, para que califique la medida preventiva adoptada y en su caso, inicien las actuaciones necesarias en el ámbito de su competencia en los términos del Código de procedimientos Penales para el Estado de Baja California, para determinar la situación legal del menor.
 
 Aunado a lo anterior, la Procuraduría llevará a cabo las diligencias y actuaciones necesarias para proteger y salvaguardar los derechos fundamentales del menor.
 
-Una vez que todas las áreas de la Procuraduría hayan realizado sus investigaciones, estudios, pruebas, dictámenes y en general todas las diligencias necesarias, la Procuraduría recomendará a la autoridad que tenga bajo su disposición al menor, la reintegración inmediata del menor a su medio familiar o, bien, la no reintegración temporal por existir condiciones nocivas para el menor.
+Una vez que todas las áreas de la Procuraduría hayan realizado sus investigaciones, estudios, pruebas, dictámenes y en general, todas las diligencias necesarias, propondrá el cumplimiento de un Plan Social en caso de ser necesario, así como su duración, el cual podrá cumplirse estando el menor en el seno familiar o en una institución pública, privada u hogar voluntario, en cuyo caso lo remitirá al Juez de Familia que conozca del asunto para que sea tomado en consideración.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Cuando la Determinación dentro del Procedimiento administrativo sea, la no reintegración temporal del menor por existir condiciones nocivas para el menor la Procuraduría ubicara al menor en una institución pública, privada u hogar voluntario con la finalidad de que reciba las atenciones e instrucciones adecuadas a su edad y nivel de madurez, y lo hará del Conocimiento del Juez Familiar a efecto de que este dentro del procedimiento especial previsto por el artículo 926 y 930 del Código de Procedimientos Civiles del Estado de Baja California, determine el tiempo que el menor deba estar ubicado en las instalaciones señaladas, o en su defecto designe un tutor con base a las consideraciones individuales de cada caso.
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
-
-En el último supuesto a que se refiere el párrafo anterior, la Procuraduría recomendará también el cumplimiento de un Plan Social y su duración, así como la ubicación del menor en una institución pública, privada u hogar voluntario con la finalidad de que reciba las atenciones e instrucciones adecuadas a su edad y nivel de madurez, en tanto, la autoridad competente determine su reintegración.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE SEPTIEMBRE DE 2013)</small>
-
-El tiempo que en (sic) el menor deba estar ubicado en las instalaciones señaladas en el párrafo anterior, será determinado, con base a las consideraciones individuales de cada caso, por la autoridad competente a propuesta de la Procuraduría.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 13 DE SEPTIEMBRE DE 2013)</small>
-
-Si la autoridad competente aplica las medidas a que se refiere el párrafo anterior, la Procuraduría vigilará sobre su cumplimiento; y de persistir las condiciones nocivas para el menor en su entorno familiar, solicitará se resuelva sobre la custodia del menor a la Autoridad Jurisdiccional, y se de vista a la Representación Social, a efecto de que se inicien las gestiones necesarias para determinar su situación jurídica definitiva.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+La Procuraduría vigilará sobre el cumplimiento de lo ordenado por el Juez Familiar; y de persistir las condiciones nocivas para el menor en su entorno familiar, solicitará se resuelva sobre la custodia definitiva del menor a favor de persona distinta a sus padres, remitiendo la información obtenida dentro de su procedimiento administrativo de seguimiento para que el Juez determine en definitiva sobre la custodia del menor.
 
 Si de las investigaciones realizadas por la Procuraduría, no se consideró necesaria la separación preventiva de algún menor, pero a su juicio existen indicios de la posible comisión de algún delito, se hará del conocimiento inmediato del Ministerio Público.
 
@@ -879,9 +863,11 @@ Si de las investigaciones realizadas por la Procuraduría, no se consideró nece
 
 Cuando se trate de menores puestos a disposición de la Procuraduría por autoridad competente, se seguirá en lo que resulte aplicable, el procedimiento previsto en el artículo anterior.
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 43.
 
-Las determinaciones de la Procuraduría deberán ser notificadas conforme a las disposiciones aplicables de la Ley del Procedimiento para los Actos de la Administración Pública del Estado de Baja California.
+Las determinaciones de la Procuraduría que afecten derechos de guarda, custodia, convivencia y de familia de los menores respecto de sus padres deberán ser notificadas de manera personal al tutor, al menor afectado cuando su edad y comprensión lo haga posible y al Ministerio Público dentro de las 24 horas siguientes, el resto serán notificadas conforme a las disposiciones aplicables de la Ley del Procedimiento para los Actos de la Administración Pública del Estado de Baja California.
 
 ### CAPÍTULO II. DEL PROCEDIMIENTO DE ASIGNACIÓN DE MENORES ABANDONADOS Y EXPÓSITOS EN HOGAR SUSTITUTOS EN VIAS DE ADOPCIÓN
 
@@ -1003,6 +989,30 @@ Para que pueda ser aplicada una sanción de las señaladas en el artículo anter
 
 En todo lo no previsto en la presente Ley, se deberá aplicar supletoriamente el Código de Procedimientos Civiles para el Estado de Baja California.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+## TÍTULO QUINTO
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO ÚNICO. DE LOS RECURSOS
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+DEL RECURSO DE REVISIÓN
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 63.
+
+En contra de las determinaciones de la Procuraduría, procederá el Recurso de Revisión, mismo que deberá ser presentado ante la Procuraduría por escrito por los tutores o familiar a quien afecte la determinación, dentro de los tres días hábiles siguientes contados a partir del día siguiente que surta efecto la notificación de la resolución que se recurre, en el que se expresaran los agravios que le causan al recurrente la resolución.
+
+La procuraduría, en un plazo de diez días remitirá al Juez Familiar copia certificada de la resolución recurrida, el escrito de revisión interpuesto, la constancia de notificación, así como de las actuaciones que creyere convenientes donde conste la naturaleza y estado del proceso del menor.
+
+Recibidas las copias certificadas por el Juez Familiar, sin más trámite y dentro de un término de 5 días siguientes decidirá respecto a la procedencia del recurso. Si el juez declara admisible la revisión ordenará a la Procuraduría que le envíe el expediente administrativo original a fin de resolver sobre el recurso interpuesto y la situación jurídica del menor en los términos del artículo 926, 930 y 701 Bis del Código de Procedimientos Civiles del Estado.
+
 ## ARTÍCULOS TRANSITORIOS
 
 PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -1086,3 +1096,7 @@ P.O. 4 DE OCTUBRE DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 28 DE NOVIEMBRE DE 2014.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
