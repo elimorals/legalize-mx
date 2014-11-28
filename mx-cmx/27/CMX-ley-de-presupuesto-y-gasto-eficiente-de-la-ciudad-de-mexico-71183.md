@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-presupuesto-y-gasto-eficiente-de-la-ciudad-de-mexico-711
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-31"
-last_updated: "2014-05-08"
+last_updated: "2014-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71183&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-12-28"
 
 LEY DE PRESUPUESTO Y GASTO EFICIENTE DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 31 de diciembre de 2009.
 
@@ -47,6 +47,8 @@ D E C R E T A
 DECRETO POR EL QUE SE EXPIDE LA LEY DE PRESUPUESTO Y GASTO EFICIENTE DEL DISTRITO FEDERAL.
 
 Ú N I C O.- Se expide la Ley de Presupuesto y Gasto Eficiente del Distrito Federal, para quedar como sigue:
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO CUARTO DEL DECRETO SIN NÚMERO, PUBLICADO EN LA G.O. DE 28 DE NOVIEMBRE DE 2014, LAS REFERENCIAS QUE SE HAGAN DEL SALARIO MÍNIMO EN LAS NORMAS LOCALES VIGENTES, INCLUSO EN AQUELLAS PENDIENTES DE PUBLICAR O DE ENTRAR EN VIGOR, SE ENTENDERÁN HECHAS A LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO, A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.</small>
 
 LEY DE PRESUPUESTO Y GASTO EFICIENTE DEL DISTRITO FEDERAL
 
@@ -218,7 +220,7 @@ Sistema de Evaluación del Desempeño: Conjunto de elementos metodológicos que 
 
 Subsidios: Asignaciones previstas en el Presupuesto de Egresos para los diferentes sectores de la sociedad para fomentar el desarrollo de actividades sociales o eco nómicas prioritarias de interés general
 
-Tesorería: Tesorería del Distrito Federal, y (sic)
+Tesorería: Tesorería del Distrito Federal, y
 
 Unidades Responsables del Gasto: Órganos Autónomos y de Gobierno, Dependencias, Órganos Desconcentrados, Delegaciones y Entidades y cualquier otro órgano o unidad que realicen erogaciones con cargo al Presupuesto de Egresos.
 
@@ -512,7 +514,7 @@ III. Las actividades y sus respectivas previsiones de gasto público correspondi
 
 La programación y presupuestación anual del gasto público se realizará con apoyo en los Anteproyectos de Presupuesto que elaboren las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades para cada ejercicio fiscal y con base en:
 
-I. Las políticas del Programa General y los programas sectoriales establecidos en la Ley de Planeación, y (sic)
+I. Las políticas del Programa General y los programas sectoriales establecidos en la Ley de Planeación, y
 
 > <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
@@ -1188,9 +1190,11 @@ b) En caso de robo o pérdida total, una vez que sea reintegrado su valor por el
 
 c) Cuando el costo de mantenimiento acumulado sea igual o mayor a su valor de enajenación presente.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Las unidades nuevas que se adquieran no podrán costar más de 110 veces el salario mínimo mensual vigente en el Distrito Federal, y por sus características técnicas y mecánicas deberán estar en condiciones de obtener el holograma doble cero o mejor en su primer verificación de emisiones contaminantes.
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Las unidades nuevas que se adquieran no podrán costar más de 3300 veces la Unidad de Cuenta de la Ciudad de México vigente, y por sus características técnicas y mecánicas deberán estar en condiciones de obtener el holograma doble cero o mejor en su primer verificación de emisiones contaminantes.
 
 Solo podrán exceder el costo señalado en el párrafo anterior, los vehículos blindados que se adquieran, de acuerdo con lo establecido en el penúltimo párrafo del artículo 86 de la presente Ley.
 
@@ -1452,7 +1456,7 @@ f) Debe definirse la forma de realizar el trámite;
 
 g) Sólo podrán exigirse los datos y documentos anexos estrictamente necesarios para tramitar la solicitud y acreditar si el potencial beneficiario cumple con los criterios de elegibilidad;
 
-h) Se deberán definir con precisión los plazos que tiene el supuesto beneficiario, para realizar el tramite, así como el plazo de prevención y el plazo máximo de resolución de la autoridad, y (sic)
+h) Se deberán definir con precisión los plazos que tiene el supuesto beneficiario, para realizar el tramite, así como el plazo de prevención y el plazo máximo de resolución de la autoridad, y
 
 i) Se deberán especificar las unidades administrativas ante quienes se realiza el tramite o, en caso, si hay algún mecanismo alterno.
 
@@ -2095,3 +2099,13 @@ El presente decreto entrará en vigor a partir del día siguiente al de su publi
 ###### ARTÍCULO SEGUNDO.
 
 Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y aplicación.
+
+G.G. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
