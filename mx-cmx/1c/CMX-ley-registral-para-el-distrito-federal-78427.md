@@ -4,7 +4,7 @@ identifier: "CMX-ley-registral-para-el-distrito-federal-78427"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-21"
-last_updated: "2014-06-20"
+last_updated: "2014-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78427&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-01-18"
 
 LEY REGISTRAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 21 de enero de 2011.
 
@@ -43,6 +43,8 @@ D E C R E T A
 DECRETO POR EL QUE SE EXPIDE LA LEY REGISTRAL PARA EL DISTRITO FEDERAL.
 
 Artículo Único.- Se expide la Ley Registral para el Distrito Federal para quedar como sigue:
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO CUARTO DEL DECRETO SIN NÚMERO, PUBLICADO EN LA G.O. DE 28 DE NOVIEMBRE DE 2014, LAS REFERENCIAS QUE SE HAGAN DEL SALARIO MÍNIMO EN LAS NORMAS LOCALES VIGENTES, INCLUSO EN AQUELLAS PENDIENTES DE PUBLICAR O DE ENTRAR EN VIGOR, SE ENTENDERÁN HECHAS A LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO, A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.</small>
 
 LEY REGISTRAL PARA EL DISTRITO FEDERAL
 
@@ -80,7 +82,7 @@ VI. Certificado Electrónico: es el documento firmado electrónicamente por un p
 
 VII. Código: al Código Civil para el Distrito Federal;
 
-VIII. Consejería Jurídica: a la Consejería Jurídica y de Servicios Legales del Gobierno del Distrito Federal; y (sic)
+VIII. Consejería Jurídica: a la Consejería Jurídica y de Servicios Legales del Gobierno del Distrito Federal; y
 
 IX. Copia certificada electrónica: es la reproducción total o parcial de una escritura o acta, así como de sus respectivos documentos del apéndice, o sólo de éstos o de alguno o algunos de ellos, que el Notario expide únicamente en soporte electrónico y que autoriza mediante su firma electrónica notarial. La copia certificada electrónica que el notario autorice será un documento notarial válido jurídicamente y se considerará con valor equivalente a la copia certificada prevista en la Ley del Notariado para el Distrito Federal;
 
@@ -1172,9 +1174,13 @@ II. Por no anotar los avisos a que se refiere la presente Ley; y
 
 III. Cuando sin causa justificada se niegue la atención a los usuarios del servicio.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 102.
 
-Se sancionará al Titular, a los Registradores y a los demás servidores adscritos al registro, con multa de uno a doce meses de salario mínimo general vigente en el Distrito Federal, en el momento del incumplimiento:
+Se sancionará al Titular, a los Registradores y a los demás servidores adscritos al registro, con multa de treinta a trescientos sesenta veces la Unidad de Cuenta de la Ciudad de México vigente, en el momento del incumplimiento:
 
 I. Por reincidir, en la comisión de alguna de las faltas a que se refiere el artículo anterior; y,
 
@@ -1265,3 +1271,13 @@ CUARTO.- El Jefe de Gobierno deberá realizar las adecuaciones necesarias al Reg
 QUINTO.- El proceso registral en curso, deberá ajustarse a las disposiciones del presente Decreto.
 
 SEXTO.- Los recursos en trámite a la entrada en vigor del presente Decreto se acogerán a las disposiciones del mismo, en lo que beneficie al usuario del servicio registral.
+
+G.O. 28 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
