@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-instituto-municipal-de-la-juventud-de-60261"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-22"
-last_updated: "2008-02-22"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "BCN"
 
 REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA JUVENTUD DE ENSENADA IMJUVENS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 22 de febrero de 2008.
 
-MARIO ALBERTO GARCIA SALAIZA, SECRETARIO FEDATARIO DEL XIX AYUNTAMIENTO CONSTITUCIONAL DE ENSENADA, BAJA CALIFORNIA CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTICULOS 115 FRACCION II DE LA CONSTlTUCION POLlTICA DE LOS ESTADOS UNIDOS MEXICANOS; 81 DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA; ARTICULO 5 DE LA LEY DEL REGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA Y ARTICULO 66, FRACCION IX Y X DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA; HACE CONSTAR Y CERTIFICA, QUE EN SESION ORDINARIA DE CABILDO CELEBRADA EL DIA 22 DE ENERO DEL AÑO 2008, SE TOMO EL SIGUIENTE:
+MARIO ALBERTO GARCIA SALAIZA, SECRETARIO FEDATARIO DEL XIX AYUNTAMIENTO CONSTITUCIONAL DE ENSENADA, BAJA CALIFORNIA CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTICULOS 115 FRACCION II DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS; 81 DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA; ARTICULO 5 DE LA LEY DEL REGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA Y ARTICULO 66, FRACCION IX Y X DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA; HACE CONSTAR Y CERTIFICA, QUE EN SESION ORDINARIA DE CABILDO CELEBRADA EL DIA 22 DE ENERO DEL AÑO 2008, SE TOMO EL SIGUIENTE:
 
 ACUERDO
 
@@ -83,21 +83,25 @@ El objeto del presente reglamento es dotar de estructura jurídica, administrati
 
 Cuenta con el fin de establecer las bases normativas que propicien el desarrollo integral de los jóvenes del Municipio, procurando su integración y participación en las distintas áreas del desarrollo humano en materias cultural, económica, deportiva, educativa, científica, tecnológica, recreativa, social y familiar, así como laboral y política en aquellos que sean mayores de edad, en especial en aquellas áreas encaminadas a fortalecer el entorno y desarrollo de la juventud, proporcionando alternativas reales que contribuyan a su plena realización y que permitan su respeto y la participación plena en el progreso de la nación.
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 4.
 
 De los conceptos.
 
 Para los efectos del presente reglamento se entenderá por:
 
-l. INSTITUTO o IMJUVENS: Al Instituto Municipal de la Juventud de Ensenada.
+I. INSTITUTO o IMJUVENS: Al Instituto Municipal de la Juventud de Ensenada.
 
 II. CONSEJO: El Consejo de la Juventud del Instituto.
 
-III. DIRECCIÓN GENERAL: El Director General del Instituto.
+III. DIRECCIÓN GENERAL: El Director General del Instituto
 
 IV. JÓVENES: Los mexicanos y mexicanas, originarios o radicados en el municipio de Ensenada, cuyas edades están ubicadas en el grupo de edad comprendido entre los 12 y 29 años.
 
 V. DESARROLLO INTEGRAL DE LOS JÓVENES: El conjunto de dimensiones físicas, psicológicas, sociales y culturales que, articuladas coherentemente, garanticen y potencialicen la participación de los jóvenes como ciudadanos en ejercicio pleno de sus derechos y deberes políticos y civiles en la sociedad.
+
+VI. LEY: Ley de la Juventud del Estado de Baja California.
 
 ### Capítulo II. Del Instituto Municipal de la Juventud
 
@@ -225,19 +229,23 @@ Los órganos directivos cuentan con las atribuciones que se establecen en el pre
 
 #### Sección Primera. Del Consejo de la Juventud
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 9.
 
 Del Consejo de la Juventud.
 
 El Consejo de la Juventud es el órgano de gobierno y la máxima autoridad directiva del Instituto, y se integrará por:
 
-l. Un Presidente, que será el Presidente Municipal.
+I. Un Presidente, que será el Presidente Municipal.
 
 II. Un Secretario, que será el Director del IMJUVENS.
 
-III. Los munícipes integrantes de la Comisión Edilicia de Juventud y Deporte.
+III. Los munícipes integrantes de la Comisión Edilicia de Juventud.
 
-IV. Doce vocales que residan en el Municipio.
+IV. Once vocales que residan en el Municipio.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 10.
 
@@ -245,25 +253,41 @@ De los vocales, miembros del Consejo de la Juventud.
 
 Los vocales a que se refiere la fracción IV del artículo anterior, son los siguientes:
 
-l. El Secretario de Desarrollo Social.
+I. El Secretario de Desarrollo Social.
 
 II. El Secretario General del Ayuntamiento.
 
 III. El Director de Educación.
 
-IV. El Coordinador General de Gabinete del Ayuntamiento.
+IV. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2014)
 
 V. Un representante propuesto por las organizaciones de jóvenes, legalmente constituidas del municipio.
 
-VI. Un representante del sector estudiantil. (La Comisión Edilicia de Juventud y Deporte definirá la metodología, con base en criterios objetivos, para la designación de dicho representante.)
+VI. Un representante del sector estudiantil. (La Comisión Edilicia de Juventud definirá la metodología, con base en criterios objetivos, para la designación de dicho representante.)
 
-VII. Seis jóvenes, de los que dos deberán ser mujeres, uno de la zona rural, y uno representante de las personas con discapacidad, y que serán designados por el Ayuntamiento de las propuestas que presente la población con motivo de la convocatoria abierta y recibidas por conducto de la Comisión Edilicia de Juventud y Deporte.
+VII. Seis jóvenes, de los que tres deberán ser mujeres, uno representante de las personas con discapacidad, y uno de la zona rural del municipio, y que serán designados por el Ayuntamiento de las propuestas que presente la población con motivo de la convocatoria abierta y recibidas por conducto de la Comisión Edilicia de Juventud.
 
-La convocatoria a que se refiere la quinta fracción del presente artículo, se llevará a cabo conforme la metodología, la fecha y los términos que disponga el acuerdo que para tal efecto apruebe el Ayuntamiento, a propuesta de la Comisión Edilicia de Juventud y Deporte;
+La convocatoria a que se refieren las fracciones V, VI y VII del presente artículo, se llevara a cabo conforme la metodología, la fecha y los términos que disponga el acuerdo que para tal efecto apruebe el Ayuntamiento, a propuesta de la Comisión Edilicia de Juventud, y una vez aprobada, deberá ser publicada en uno de los diarios de mayor circulación del municipio, en la página electrónica del Ayuntamiento, y en los Estrados del Instituto Municipal de la Juventud de Ensenada.
 
 La convocatoria deberá lanzarse cada tres años, dentro del primer semestre de gestión de la Administración Pública Municipal de que se trate, cuidando siempre que ésta sea destinada a los grupos juveniles con mayor arraigo y participación en el municipio y que hayan demostrado su efectivo interés en mejorar, de forma integral, el nivel de vida de los jóvenes sin perjuicio de las demás propuestas que puedan provenir de la sociedad en general.
 
 Los miembros integrantes del Consejo de la Juventud a que se refiere el artículo anterior y el presente, tienen derecho a voz y a voto en las deliberaciones de las sesiones del Consejo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 10 Bis.
+
+Una vez establecida la convocatoria, el plazo para recibir solicitudes será de diez días hábiles, contados a partir del día hábil siguiente al que se publique la misma.
+
+Una vez cumplido el plazo para la recepción de documentos, los integrantes de la Comisión de Juventud, en coordinación con el Director del IMJUVENS, analizaran en un plazo no mayor de veinte días hábiles, las solicitudes que hayan sido presentadas durante el periodo de la convocatoria.
+
+En el caso de las solicitudes presentadas por las Asociaciones Civiles, estas deberán estar acompañadas por un acta simple que avale al ciudadano propuesto por dicha asociación.
+
+Una vez realizado el proceso de selección en la Comisión, esta deberá presentar las propuestas al Cabildo para su ratificación.
+
+Una vez seleccionados los miembros del Consejo, el Director del Instituto, se (sic) instruirá al Secretario Fedatario del Ayuntamiento para que lo notifique a efecto de que rinda protesta de ley y asuma sus funciones.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 11.
 
@@ -271,9 +295,11 @@ De las suplencias y temporalidad del cargo.
 
 Por cada miembro propietario se deberá nombrar un suplente, quien lo sustituirá en sus faltas temporales y gozará de los mismos derechos y obligaciones que los titulares.
 
-Los cargos conferidos a los integrantes del Consejo son de carácter honorífico, por lo que no se debe recibir remuneración económica alguna por su ejercicio, a excepción del Director General, cargo que sí es remunerado por sus actividades de Director General del Instituto y no por el carácter de consejero que ostenta, conforme lo disponga el Presupuesto de Egresos aprobado para el Instituto.
+En el caso de que el miembro propietario y su respectivo suplente cuenten con más de tres faltas injustificadas consecutivas, ambos serán suspendidos de sus cargos.
 
-Los miembros del Consejo duran en su cargo por un periodo de tres años.
+Los cargos conferidos a los integrantes del Consejo son de carácter honorífico, por lo que no se debe recibir remuneración económica alguna por su ejercicio, a excepción del Director General, cargo que sí es remunerado por sus actividades de Director General del Instituto y no por el carácter de consejero que ostenta, conforme lo disponga el presupuesto de Egresos aprobado para el Instituto.
+
+Los miembros del Consejo duran en su cargo por un periodo de tres años, contados a partir del día primero de Marzo de la Administración Municipal entrante, hasta el último día del mes de febrero de la siguiente Administración Municipal.
 
 ###### Artículo 12.
 
@@ -339,7 +365,9 @@ Son funciones del Secretario del Consejo:
 
 l. Elaborar el orden del día de las sesiones del Consejo, tomando en cuenta los asuntos que, a propuesta de los miembros del mismo, se deban incluir.
 
-II. Enviar con cinco días hábiles de anticipación, la convocatoria y el orden del día de las sesiones del Consejo.
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+II. Convocar a sesiones ordinarias con cinco días de anticipación y extraordinarias con 24 horas de anticipación.
 
 III. Pasar lista de asistencia e informar al Presidente si el Consejo puede sesionar válidamente.
 
@@ -357,19 +385,25 @@ IX. Aquéllas que sean inherentes a su condición de Secretario del Consejo.
 
 #### Sección Tercera. De las Sesiones del Consejo
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 16.
 
 De las sesiones ordinarias y extraordinarias.
 
-El Consejo celebra sesiones plenarias de trabajo de manera ordinaria en forma trimestral, pudiendo convocar a reuniones extraordinarias cuantas veces sea necesario por conducto del Presidente.
+La convocatoria para las sesiones ordinarias deberá notificarse por escrito a todos sus integrantes con un mínimo de cinco días hábiles de anticipación.
 
-Para ambas sesiones se debe notificar por escrito a todos sus integrantes con un mínimo de cinco días hábiles de anticipación; las sesiones son públicas excepto cuando a criterio del Consejo, por la naturaleza del asunto a tratar, deban ser privadas.
+En el caso de las sesiones extraordinarias, estas deben ser notificadas con 24 horas de anticipación.
+
+Las sesiones son públicas, excepto cuando a criterio del Consejo, por la naturaleza del asunto a tratar, deban ser privadas.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 17.
 
 Del quórum para sesionar.
 
-El Consejo sesiona válidamente con la asistencia del cincuenta por ciento mas uno de sus integrantes, pero contando necesariamente con la presencia del Presidente y del Secretario.
+El Consejo sesiona válidamente con la asistencia del cincuenta por ciento más uno de sus integrantes activos.
 
 ###### Artículo 18.
 
@@ -660,3 +694,9 @@ Presidente Municipal del XIX Ayuntamiento de Ensenada, B.C.
 MARIO ALBERTO GARCIA SALAIZA
 
 Secretario Fedatario del XIX Ayuntamiento de Ensenada, B.C.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE NOVIEMBRE DE 2014.
+
+ÚNICO.- Una vez siendo aprobada la presente reforma, publíquese en el Periódico Oficial del Gobierno del Estado de Baja California, para que surta efectos al día siguiente de su publicación en todo el territorio del Municipio de Ensenada B. C.
