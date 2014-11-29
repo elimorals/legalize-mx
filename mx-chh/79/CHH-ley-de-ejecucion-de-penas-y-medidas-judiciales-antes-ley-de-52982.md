@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ejecucion-de-penas-y-medidas-judiciales-antes-ley-de-529
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-09"
-last_updated: "2014-11-15"
+last_updated: "2014-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE EJECUCIÓN DE PENAS Y MEDIDAS JUDICIALES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 9 de diciembre de 2006.
 
@@ -69,7 +69,9 @@ Objeto de la ley.
 
 Este ordenamiento tiene por objeto:
 
-I.- Establecer las bases para la coordinación entre autoridades judiciales, administrativas y entidades de derecho privado, en materia de ejecución y vigilancia de las medidas cautelares decretadas y aquellas condiciones por cumplir que deriven de la celebración de la SUSPENSIÓN del proceso a prueba en los procedimientos penales;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+I.- Establecer las bases para la coordinación entre autoridades judiciales, administrativas y entidades de derecho privado, en materia de ejecución y vigilancia de las medidas cautelares decretadas y aquellas condiciones por cumplir que deriven de la celebración de la suspensión condicional del proceso en los procedimientos penales;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -89,11 +91,11 @@ Los reglamentos deberán estar acordes con los protocolos internacionales y con 
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
-VI. Establecer los lineamientos generales para el desarrollo de las relaciones entre internos y autoridades penitenciarias, durante el tiempo que permanezcan en prisión; así como el contacto que deberán tener con el exterior, y
+VI.- Establecer los lineamientos generales para el desarrollo de las relaciones entre internos y autoridades penitenciarias, durante el tiempo que permanezcan en prisión; así como el contacto que deberán tener con el exterior, y
 
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
-VII. Establecer las bases mínimas de asistencia postpenitenciaria.
+VII.- Establecer las bases mínimas de asistencia postpenitenciaria.
 
 ###### Artículo 3.
 
@@ -115,7 +117,9 @@ I.- Ley.- La Ley de Ejecución de Penas y Medidas Judiciales.
 
 II.- Código Penal.- El Código Penal del Estado de Chihuahua del 2006.
 
-III.- Código de Procedimientos.- El Código de Procedimientos Penales del Estado de Chihuahua del 2006.
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+III.- Código de Procedimientos.- El Código Nacional de Procedimientos Penales.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -131,11 +135,17 @@ V.- Sistema.- El Sistema Estatal Penitenciario.
 
 VI.- Establecimientos penitenciarios.- Los Centros de Reinserción Social dependientes de la Fiscalía General del Estado de Chihuahua, por conducto de la Fiscalía.
 
-VII.- Medidas judiciales.- Las medidas cautelares; las condiciones por cumplir durante la suspensión del proceso a prueba, y las medidas de seguridad, todas ellas impuestas por la autoridad judicial.
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+VII.- Medidas judiciales.- Las medidas cautelares; las condiciones por cumplir durante la suspensión condicional del proceso, y las medidas de seguridad, todas ellas impuestas por la autoridad judicial.
 
 VIII.- Consejo.- El Consejo Técnico Interdisciplinario.
 
 IX.- Estudios de personalidad.- Los estudios practicados por el Consejo Técnico Interdisciplinario en las áreas médica, sicológica, siquiátrica, educativa, criminológica, social y ocupacional, y de vigilancia.
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+X.- Instituto.- El Órgano denominado Instituto de Servicios Previos al Juicio, dependiente del Supremo Tribunal de Justicia del Estado.
 
 ###### Artículo 5.
 
@@ -153,11 +163,13 @@ Los derechos y beneficios que esta Ley prevé para el sentenciado le serán info
 
 La persona en calidad de interno, gozará del derecho a recibir copias de la legislación estatal vigente aplicable a la ejecución de penas y medidas de seguridad.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 6.
 
 Competencia.
 
-El Tribunal de Juicio Oral o el Juez de Garantía, en su caso, será competente para realizar la primera fijación de la pena o las medidas de seguridad, así como de las condiciones de su cumplimiento. Lo relativo a las sucesivas fijaciones, extinción, sustitución o modificación de aquellas será competencia del Juez de Ejecución de Penas.
+El Tribunal de Enjuiciamiento o el Juez de Control, en su caso, será competente para realizar la primera fijación de la pena o las medidas de seguridad, así como de las condiciones de su cumplimiento. Lo relativo a las sucesivas fijaciones, extinción, sustitución o modificación de aquellas será competencia del Juez de Ejecución de Penas.
 
 ###### Artículo 7.
 
@@ -177,21 +189,29 @@ El Ministerio Público intervendrá en los procesos de ejecución de la pena, ve
 
 ## TÍTULO SEGUNDO. DE LAS AUTORIDADES EN MATERIA DE PENAS, MEDIDAS DE SEGURIDAD Y MEDIDAS JUDICIALES
 
-### CAPÍTULO I. DEL JUEZ DE GARANTÍA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO I. DEL JUEZ DE CONTROL
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 9.
 
-Vigilancia del Juez de Garantía.
+Vigilancia del Juez de Control.
 
-Durante el procedimiento penal, el Juez de Garantía que dicte alguna medida cautelar personal o real o que haya dictado condiciones a cumplir durante la suspensión del proceso a prueba, tendrá a su cargo la vigilancia sobre la ejecución de las primeras, así como del cumplimiento de las restantes, de acuerdo con las formas de coordinación y distribución de competencias que esta Ley establece.
+Durante el procedimiento penal, el Juez de Control que dicte alguna medida cautelar personal o real o que haya dictado condiciones a cumplir durante la suspensión condicional del proceso, tendrá a su cargo la vigilancia sobre la ejecución de las primeras, así como del cumplimiento de las restantes, de acuerdo con las formas de coordinación y distribución de competencias que esta Ley establece.
 
 ###### Artículo 10.
 
 Sentencia en procedimiento abreviado.
 
-Cuando el Juez de Garantía dicte sentencia en procedimiento abreviado que resulte condenatoria para el acusado, el Juez de Ejecución de Penas correspondiente tendrá a su cargo la vigilancia de la ejecución de las penas o medidas de seguridad impuestas en la resolución.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-Si la sentencia en procedimiento abreviado resulta absolutoria para el acusado, el propio Juez de Garantía remitirá su resolución a la Dirección, para que se ejecute la revocación de las medidas cautelares impuestas, en su caso.
+Cuando el Juez de Control dicte sentencia en procedimiento abreviado que resulte condenatoria para el acusado, el Juez de Ejecución de Penas correspondiente tendrá a su cargo la vigilancia de la ejecución de las penas o medidas de seguridad impuestas en la resolución.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Si la sentencia en procedimiento abreviado resulta absolutoria para el acusado, el propio Juez de Control remitirá su resolución a la Dirección, para que se ejecute la revocación de las medidas cautelares impuestas, en su caso.
 
 ### CAPÍTULO II. DEL JUEZ DE EJECUCIÓN DE PENAS
 
@@ -261,17 +281,13 @@ Si se requiere producción de prueba con el fin de sustentar la revisión, susti
 
 La rendición de la prueba se llevará a cabo conforme a los requisitos establecidos para su desahogo en la etapa de debate de juicio oral.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+La autoridad ejecutora tendrá las facultades de dirección de debate y de disciplina en la audiencia, previstas en los artículos 354 y 355, ambos del Código de Procedimientos.
 
-La autoridad ejecutora tendrá las facultades de dirección de debate y de disciplina en la audiencia, previstas en los artículos 328 y 329, ambos del Código de Procedimientos.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
-
-La (sic) resoluciones deberán emitirse inmediatamente después de concluido el debate. Excepcionalmente, en casos de extrema complejidad, el Juez podrá retirarse a deliberar su fallo en la forma establecida en el artículo 371 del Código de Procedimientos.
+La (sic) resoluciones deberán emitirse inmediatamente después de concluido el debate. Excepcionalmente, en casos de extrema complejidad, el Juez podrá retirarse a deliberar su fallo en la forma establecida en el artículo 400 del Código de Procedimientos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -347,9 +363,11 @@ La Fiscalía, dependiente de la Fiscalía General del Estado, será el órgano d
 
 I.- En materia de medidas judiciales dictadas durante el proceso.
 
-a) Ejecutar las medidas cautelares de prisión preventiva, presentación periódica, en su caso, y localización electrónica.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-b) Vigilar y coordinar la ejecución del resto de las medidas cautelares reales y personales, así como el cumplimiento de las condiciones impuestas durante la suspensión del proceso a prueba.
+a) Ejecutar las medidas cautelares de prisión preventiva y, en su caso, localización electrónica.
+
+b) (DEROGADO, P.O. 29 DE NOVIEMBRE DE 2014)
 
 II.- En materia de penas y medidas de seguridad.
 
@@ -387,23 +405,37 @@ h) Coadyuvar en el mantenimiento de la estadística criminal del Estado; y
 
 i) Las demás que otras leyes y reglamentos establezcan.
 
-> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 16 Bis.
+
+Facultades del Instituto de Servicios Previos al Juicio.
+
+El Instituto, dependiente del Supremo Tribunal de Justicia del Estado, será el órgano al que corresponderá:
+
+I. En materia de medidas judiciales dictadas durante el proceso.
+
+a) La evaluación de riesgos que, para el proceso y sus intervinientes, representen los imputados, de conformidad con lo señalado en el segundo párrafo del artículo 156 del Código Nacional de Procedimientos Penales.
+
+b) La supervisión y seguimiento de las medidas cautelares distintas a la prisión preventiva, así como el cumplimiento de las condiciones establecidas a los imputados en la suspensión condicional del proceso.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 16 Ter.
 
 Atribuciones de las Autoridades Auxiliares.
 
 I. Ejecutar las medidas judiciales en la forma y términos previstos por la ley, y de acuerdo a la naturaleza y modalidades específicas de las mismas.
 
-II. Establecer, conjuntamente con la Fiscalía, programas y protocolos orientados a la eficacia y cumplimiento de las medidas judiciales a su cargo.
+II. Establecer, conjuntamente bajo la Dirección del Instituto, mediante los convenios correspondientes, programas y protocolos orientados a la eficacia y cumplimiento de las medidas judiciales a su cargo.
 
 III. Elaborar un dictamen técnico debidamente justificado, en el que se determine la conveniencia de mantener, revisar, sustituir, modificar o cancelar la medida vigilada.
 
-IV. Informar a la Fiscalía sobre el cumplimiento, incumplimiento o cualquier irregularidad detectada.
+IV. Informar al Instituto sobre el cumplimiento, incumplimiento o cualquier irregularidad detectada.
 
-> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2011)</small>
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-###### Artículo 16 Ter.
+###### Artículo 16 Quáter.
 
 Sanciones a los Servidores Públicos Responsables.
 
@@ -417,7 +449,9 @@ La omisión o incumplimiento a las atribuciones establecidas en el artículo ant
 
 Secretaría de Hacienda.
 
-Corresponde a la Secretaría de Finanzas el auxilio en la ejecución:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Corresponde a la Secretaría de Hacienda el auxilio en la ejecución:
 
 I.- Durante el procedimiento, de la medida cautelar de garantía económica, tratándose de depósitos de dinero.
 
@@ -425,11 +459,9 @@ II.- Durante la fase de cumplimiento de sentencia firme, de las penas de:
 
 a) Sanción pecuniaria.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
-
-b) Intervención en la administración de personas morales privadas.
+b) Intervención en la administración de personas jurídicas privadas.
 
 ###### Artículo 18.
 
@@ -449,11 +481,11 @@ d) (DEROGADO, P.O. 7 DE MAYO DE 2011)
 
 e) Abstención de viajar al extranjero.
 
-> <small>(REFORMADO SU RUBRO, P.O. 7 DE MAYO DE 2011)</small>
+> <small>(REFORMADO SU RUBRO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 19.
 
-Instituciones policiales en el Estado.
+Instituciones Policiales en el Estado.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -465,11 +497,17 @@ I.- Durante el procedimiento, de las medidas cautelares o condiciones de:
 
 a) Sometimiento al cuidado o vigilancia que determine el juez.
 
-b) Arraigo domiciliario con modalidades.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-c) Prohibición de concurrir a determinadas reuniones o de visitar ciertos lugares.
+b) Resguardo domiciliario con modalidades.
 
-d) Prohibición de convivir o comunicarse con personas determinadas.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+c) Prohibición de concurrir a determinadas reuniones o de acercarse a ciertos lugares.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+d) Prohibición de convivir, acercarse o comunicarse con personas determinadas.
 
 e) Separación inmediata del domicilio.
 
@@ -587,7 +625,9 @@ En el cumplimiento de las penas o medidas judiciales dictadas por la autoridad c
 
 Depósito de dinero.
 
-Cuando durante el procedimiento el Juez de Garantía haya impuesto la medida cautelar de garantía económica consistente en depósito de dinero, el imputado u otra persona, constituirán el depósito del monto fijado en alguna de las oficinas de Recaudación de Rentas de la Secretaría de Finanzas del Estado.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Cuando durante el procedimiento el Juez de Control haya impuesto la medida cautelar de garantía económica consistente en depósito de dinero, el imputado u otra persona, constituirán el depósito del monto fijado en alguna de las oficinas de Recaudación de Rentas de la Secretaría de Hacienda del Estado.
 
 El certificado de depósito se presentará dentro del plazo fijado por la autoridad judicial, y quedará bajo la custodia del Administrador de Oficina correspondiente, asentándose constancia de ello. Cuando por razón de la hora o por ser día feriado no pueda verificarse el depósito directamente en la oficina mencionada, el juzgado recibirá la cantidad exhibida y la mandará depositar el primer día hábil siguiente.
 
@@ -597,31 +637,39 @@ Garantía hipotecaria.
 
 Cuando la medida cautelar de garantía económica consista en hipoteca, que podrá ser otorgada por el imputado o por tercera persona, el inmueble no deberá tener gravamen alguno y su valor comercial determinado por institución o persona autorizada, será cuando menos el de un tanto más del monto fijado. En este caso, la garantía hipotecaria se otorgará ante el propio juzgado que conoce el proceso y surtirá sus efectos una vez que se haya inscrito en el Registro Público de la Propiedad, donde se le dará preferencia a este asiento.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 25.
 
 Garantía prendaria.
 
-La garantía prendaria también podrá otorgarse ante el propio Juez de Garantía que conozca del proceso y, en lo conducente, serán aplicables las reglas a que alude el artículo anterior, salvo el caso del valor de la prenda, que será de dos tantos más, cuando menos, del monto fijado.
+La garantía prendaria también podrá otorgarse ante el propio Juez de Control que conozca del proceso y, en lo conducente, serán aplicables las reglas a que alude el artículo anterior, salvo el caso del valor de la prenda, que será de dos tantos más, cuando menos, del monto fijado.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 26.
 
 Póliza de fianza personal.
 
-Es admisible la póliza de fianza personal cuando el monto de la garantía económica no exceda del equivalente a cien días del salario mínimo. Salvo que se trate de empresas dedicadas a otorgar fianzas, el fiador deberá responder las preguntas que le haga el Juez de Garantía sobre su solvencia económica. El valor de la póliza será, al menos, de un tanto más al del monto fijado.
+Es admisible la póliza de fianza personal cuando el monto de la garantía económica no exceda del equivalente a cien días del salario mínimo. Salvo que se trate de empresas dedicadas a otorgar fianzas, el fiador deberá responder las preguntas que le haga el Juez de Control sobre su solvencia económica. El valor de la póliza será, al menos, de un tanto más al del monto fijado.
 
 ###### Artículo 27.
 
 Depósito de valores.
 
-Cuando la garantía económica fijada como medida cautelar consista en el depósito de valores distintos al dinero, dichos bienes serán recibidos e inventariados por el Juez de Garantía y puestos bajo custodia del administrador de oficina.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Cuando la garantía económica fijada como medida cautelar consista en el depósito de valores distintos al dinero, dichos bienes serán recibidos e inventariados por el Juez de Control y puestos bajo custodia del administrador de oficina.
 
 El valor de los bienes deberá corresponder, cuando menos, a dos tantos más del monto fijado, y se constatará con un avalúo practicado por quienes estén autorizados para hacerla, de conformidad con la legislación respectiva.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 28.
 
 Regla general para la garantía económica.
 
-Al formalizarse la garantía económica se hará saber a quién funja como garante que queda sujeto al procedimiento administrativo de ejecución previsto en el Código Fiscal del Estado y que no operan en su favor los beneficios de orden, división y excusión. También se le informará del contenido de los artículos 178 y 180 del Código de Procedimientos Penales.
+Al formalizarse la garantía económica se hará saber a quien funja como garante que queda sujeto al procedimiento administrativo de ejecución previsto en el Código Fiscal del Estado y que no operan en su favor los beneficios de orden, división y excusión. También se le informará del contenido de los artículos 175 y 177, fracción VIII del Código Nacional de Procedimientos Penales.
 
 #### SECCIÓN SEGUNDA. PROHIBICIÓN DE SALIR DEL PAIS, DE LA LOCALIDAD EN LA CUAL RESIDE O DEL ÁMBITO TERRITORIAL
 
@@ -629,37 +677,33 @@ Al formalizarse la garantía económica se hará saber a quién funja como garan
 
 Prohibición de salir del país.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-Cuando se determine la medida cautelar de prohibición de salir del país, requerirá el juez de garantía o el tribunal de juicio oral la entrega del pasaporte y demás documentos que permitan la salida del territorio nacional, remitiendo constancia de la resolución a la Secretaría General de Gobierno para que, de conformidad con sus atribuciones, dé aviso a las autoridades en materia de relaciones exteriores y a las consulares de otros países para hacer efectiva la medida.
+Cuando se determine la medida cautelar de prohibición de salir del país, requerirá el Juez de Control o el Tribunal de Enjuiciamiento la entrega del pasaporte y demás documentos que permitan la salida del territorio nacional, remitiendo constancia de la resolución a la Secretaría General de Gobierno para que, de conformidad con sus atribuciones, dé aviso a las autoridades en materia de relaciones exteriores y a las consulares de otros países para hacer efectiva la medida.
 
 El aviso a las autoridades señaladas también se realizará en caso de sustitución, modificación o cancelación de la medida.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 30.
 
 Prohibición de salir de la localidad o del ámbito territorial.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2011)</small>
+Si la medida cautelar consiste en la prohibición de salir de la localidad de residencia del imputado o de la circunscripción territorial del Estado, se comunicará el proveído al Instituto, el cual de manera periódica ordenará se visite el domicilio proporcionado por el imputado, para corroborar que aún reside en la localidad.
 
-Si la medida cautelar consiste en la prohibición de salir de la localidad de residencia del imputado o de la circunscripción territorial del Estado, se comunicará el proveído a la Fiscalía, la que de manera periódica ordenará se visite el domicilio proporcionado por el imputado, para corroborar que aún reside en la localidad.
+Durante la ejecución de esta medida, el imputado deberá comunicar al Instituto su cambio de domicilio y cualquier otra circunstancia que permita su localización.
 
-Durante la ejecución de esta medida, el imputado deberá comunicar a la Fiscalía su cambio de domicilio y cualquier otra circunstancia que permita su localización.
-
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2011)</small>
-
-En caso de incumplimiento, los cuerpos de seguridad pública darán aviso oportuno a la Fiscalía para los efectos procesales a que haya lugar.
+En caso de incumplimiento, los cuerpos de seguridad pública darán aviso oportuno al Instituto para los efectos procesales a que haya lugar.
 
 #### SECCIÓN TERCERA. OBLIGACIÓN DE SOMETERSE AL CUIDADO O VIGILANCIA DE UNA PERSONA O INSTITUCIÓN DETERMINADA
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 31.
 
 Ejecución de la medida.
 
-Cuando durante el procedimiento penal se determine la medida cautelar de someterse al cuidado o vigilancia de una persona o institución determinada por el juez, o dicha particularidad se imponga como condición en la suspensión del proceso a prueba, se señalará, a quien resulte responsable de la ejecución, las modalidades con que la medida o condición se habrá de cumplir, así como la periodicidad con la que deberá informar.
+Cuando durante el procedimiento penal se determine la medida cautelar de someterse al cuidado o vigilancia de una persona o institución determinada por el juez, o dicha particularidad se imponga como condición en la suspensión condicional del proceso, se señalará, a quien resulte responsable de la ejecución, las modalidades con que la medida o condición se habrá de cumplir, así como la periodicidad con la que deberá informar.
 
 #### SECCIÓN CUARTA. PRESENTACIÓN ANTE EL JUEZ U OTRA AUTORIDAD
 
@@ -667,7 +711,9 @@ Cuando durante el procedimiento penal se determine la medida cautelar de someter
 
 Presentación ante el juez.
 
-Al dictarse la medida cautelar de presentación periódica ante el Juez de Garantía, el sometido a la medida acudirá ante el administrador de oficina que corresponda, con la periodicidad que la autoridad judicial haya determinado, a efecto de informar sobre sus actividades.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Al dictarse la medida cautelar de presentación periódica ante el Juez de Control, el sometido a la medida acudirá ante el administrador de oficina que corresponda, con la periodicidad que la autoridad judicial haya determinado, a efecto de informar sobre sus actividades.
 
 La presentación a que se refiere el párrafo anterior se hará sin perjuicio de que el imputado pueda ser requerido en cualquier momento por el juzgador.
 
@@ -675,25 +721,19 @@ La presentación a que se refiere el párrafo anterior se hará sin perjuicio de
 
 Presentación ante otra autoridad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
-
-Si corresponde aplicar la medida cautelar de presentación periódica ante otra autoridad, el sometido a la medida acudirá ante la Fiscalía, con la periodicidad que se haya determinado, a efecto de informar sobre sus actividades.
+Si corresponde aplicar la medida cautelar de presentación periódica ante otra autoridad, el sometido a la medida acudirá a la oficina que designe el Instituto, con la periodicidad que se haya determinado, a efecto de informar sobre sus actividades.
 
 La presentación a que se refiere el párrafo anterior se hará sin perjuicio de que el imputado pueda ser requerido en cualquier momento por el juzgador.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+Al dictarse la medida, el juez dará aviso inmediato al Instituto, a efecto de estar en posibilidades de ejecutarla. Cuando la medida deba ejecutarse en algún distrito judicial donde el Instituto no tenga representación administrativa, dicha dependencia coordinará y vigilará su ejecución, por conducto de las autoridades municipales con las que tenga celebrados convenios de colaboración, llevando un registro permanente sobre el cumplimiento de la medida en aquellas instancias.
 
-Al dictarse la medida, el juez dará aviso inmediato a la mencionada Fiscalía, a efecto de estar en posibilidades de ejecutarla. Cuando la medida deba ejecutarse en algún distrito judicial donde la Fiscalía no tenga representación administrativa, dicha dependencia coordinará y vigilará su ejecución, por conducto de las autoridades municipales con las que tenga celebrados convenios de colaboración, llevando un registro permanente sobre el cumplimiento de la medida en aquellas instancias.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
-
-En cualquier caso, la Fiscalía informará oportunamente al Juez de Garantía sobre el cumplimiento de la medida.
+En cualquier caso, el Instituto informará oportunamente al Juez de Control sobre el cumplimiento de la medida.
 
 #### SECCIÓN QUINTA. LOCALIZADORES ELECTRÓNICOS
 
@@ -707,21 +747,25 @@ Al solicitarse la medida cautelar de fijación de localizadores electrónicos al
 
 Todo imputado a quien se le haya fijado la medida establecida en el párrafo anterior, deberá cumplir las condiciones, términos y requisitos que señale la Fiscalía.
 
-#### SECCIÓN SEXTA. ARRAIGO DOMICILIARIO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2011)</small>
+#### SECCIÓN SEXTA. RESGUARDO DOMICILIARIO
+
+(NOTA: EL 5 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 110/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS CONSISTENTES EN SU EXPULSIÓN DEL ORDEN JURÍDICO DESDE LA FECHA DE LA ENTRADA EN VIGOR DE ESTA LEY, ES DECIR AL 13 DE JUNIO DE 2016, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 35.
 
-Arraigo.
+Resguardo.
 
-El imputado, al solicitar el arraigo, informará a los Tribunales el domicilio en el que la medida habrá de cumplirse, sea en su propio domicilio o en el de otra persona.
+El imputado, al solicitar el resguardo, informará a los Tribunales el domicilio en el que la medida habrá de cumplirse, sea en su propio domicilio o en el de otra persona.
 
-Al solicitarse el arraigo, el Ministerio Público o la Defensa, deberá basar su solicitud en un Dictamen Técnico que elaborará la Fiscalía en el que determiné la viabilidad de su imposición.
+Al solicitarse el resguardo, el Ministerio Público o la Defensa, deberá basar su solicitud en un Dictamen Técnico que elaborará la Fiscalía en el que determine la viabilidad de su imposición.
 
-Cuando el Juez decrete el arraigo, determinará si es o no con vigilancia y sus modalidades que estime convenientes.
+Cuando el Juez decrete el resguardo, determinará si es o no con vigilancia y sus modalidades que estime convenientes.
 
-En todos los casos que al imputado se le conceda el arraigo, deberá cumplir con las condiciones, términos y requisitos que señale la Fiscalía.
+En todos los casos que al imputado se le conceda el resguardo, deberá cumplir con las condiciones, términos y requisitos que señale la Fiscalía.
 
 ###### Artículo 36.
 
@@ -733,33 +777,37 @@ En todos los casos que al imputado se le conceda el arraigo, deberá cumplir con
 
 Ejecución de la medida.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
-
-Al determinarse la prohibición de acudir a determinadas reuniones o de visitar ciertos lugares, se comunicará la resolución a la Fiscalía o a otros cuerpos de seguridad pública en el Estado, en su caso, con la finalidad de que sea ejercida la vigilancia pertinente sobre el imputado en el cumplimiento de esa determinación, en la que indicará específicamente las restricciones impuestas.
+Al determinarse la prohibición de acudir a determinadas reuniones o de acercarse a ciertos lugares, se comunicará la resolución a la Fiscalía o a otros cuerpos de seguridad pública en el Estado, en su caso, con la finalidad de que sea ejercida la vigilancia pertinente sobre el imputado en el cumplimiento de esa determinación, en la que indicará específicamente las restricciones impuestas.
 
 La autoridad ejecutora informará sobre el cumplimiento de la medida con la periodicidad determinada por la autoridad judicial.
 
 #### SECCIÓN OCTAVA. PROHIBICIÓN DE CONVIVIR O COMUNICARSE CON PERSONAS DETERMINADAS
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 38.
 
 Ejecución de la medida.
 
-Al imponerse la medida de prohibición de convivencia o comunicación con personas determinadas, se aplicará, en lo conducente, lo dispuesto en el Artículo anterior.
+Al imponerse la medida de prohibición de convivir, acercarse o comunicarse con personas determinadas, se aplicará, en lo conducente, lo dispuesto en el artículo anterior.
 
 #### SECCIÓN NOVENA. SEPARACIÓN DEL DOMICILIO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 39.
 
 Ejecución de la medida.
 
-Si se decreta la medida cautelar de separación del domicilio del imputado, se comunicará el proveído a la Fiscalía o a otros cuerpos de seguridad publica en el Estado, para su efectivo cumplimiento, en los términos del artículo 179 del Código de Procedimientos.
+Si se decreta la medida cautelar de separación del domicilio del imputado, se comunicará el proveído a la Fiscalía o a otros cuerpos de seguridad pública en el Estado, para su efectivo cumplimiento.
+
+La separación del domicilio, como medida cautelar personal, deberá establecerse por un plazo mínimo de un mes, sin que pueda exceder de seis meses; podrá prorrogarse por períodos iguales, si así lo solicita la víctima u ofendido o el Ministerio Público y se mantienen las razones que la justificaron.
+
+La medida podrá interrumpirse a solicitud de la víctima u ofendido y después de oír al Ministerio Público. Cuando se trate de ofendidos menores de edad, el cese procederá cuando así lo solicite su representante legal, después de escuchar la opinión del menor, de un especialista y del Ministerio Público.
+
+Para levantar la medida cautelar personal, el imputado deberá comprometerse formalmente a no incurrir en hechos que puedan afectar a la víctima u ofendido, bajo apercibimiento de adoptar otras medidas cautelares más graves.
 
 #### SECCIÓN DÉCIMA. SUSPENSIÓN DE DERECHOS
 
@@ -767,9 +815,9 @@ Si se decreta la medida cautelar de separación del domicilio del imputado, se c
 
 Ejecución de la medida.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-La ejecución de la medida cautelar de suspensión de derechos que dicte la autoridad judicial, será notificada a la Fiscalía y estará sujeta a las siguientes reglas:
+La ejecución de la medida cautelar de suspensión de derechos que dicte la autoridad judicial, será notificada al Instituto y estará sujeta a las siguientes reglas:
 
 a) Si se trata de suspensión de funciones de un servidor público, se remitirá el proveído al superior jerárquico correspondiente, a efecto de que materialmente ejecute la medida.
 
@@ -785,15 +833,13 @@ En todos los casos, se remitirá junto con el proveído los datos necesarios par
 
 #### SECCIÓN DÉCIMA PRIMERA. INTERNAMIENTO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 41.
 
-Ejecución de la medida
+Ejecución de la medida.
 
-Al pronunciarse sobre la imposición de medidas cautelares, el Juez de Garantía podrá decretar el internamiento del imputado en centro de salud, centro de atención a adictos u hospitales psiquiátricos, cuando su estado de salud así lo amerite. De verificarse lo anterior, se remitirá la resolución a la Secretaría de Salud, a cuyo cargo quedará la ejecución y vigilancia de la medida, en centros u hospitales públicos o privados, tomando en cuenta la elección del imputado o de sus representantes, y de acuerdo con las posibilidades económicas del mismo.
+Al pronunciarse sobre la imposición de medidas cautelares, el Juez de Control podrá decretar el internamiento del imputado en centro de salud, centro de atención a adictos u hospitales psiquiátricos, cuando su estado de salud así lo amerite. De verificarse lo anterior, se remitirá la resolución a la Secretaría de Salud, a cuyo cargo quedará la ejecución y vigilancia de la medida, en centros u hospitales públicos o privados, tomando en cuenta la elección del imputado o de sus representantes, y de acuerdo con las posibilidades económicas del mismo.
 
 #### SECCIÓN DÉCIMA SEGUNDA. PRISIÓN PREVENTIVA
 
@@ -811,11 +857,9 @@ La ejecución de la medida cautelar de prisión preventiva será cumplida en el 
 
 Cumplimiento de la medida.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
-
-El Juez de Garantía remitirá su resolución a la Fiscalía, la que formará el expediente respectivo, para el debido y exacto cumplimiento de la medida.
+El Juez de Control remitirá su resolución a la Fiscalía, la que formará el expediente respectivo, para el debido y exacto cumplimiento de la medida.
 
 El sitio destinado para cumplir la prisión preventiva será distinto a aquél en el que se ejecute la pena de prisión, del que deberá estar completamente separado. Las mujeres quedarán recluidas en lugares diferentes al de los hombres.
 
@@ -847,21 +891,25 @@ Serán aplicables para el cumplimiento de la prisión preventiva, en lo conducen
 
 ### CAPÍTULO II. MEDIDAS CAUTELARES REALES
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 48.
 
-Embargo provisional.
+Embargo precautorio.
 
-Al decretarse la medida cautelar de embargo provisional, se remitirá la resolución a la Fiscalía, la cual la remitirá al Registro Público de la Propiedad.
+Al decretarse la medida cautelar de embargo precautorio, se remitirá la resolución a la Fiscalía, la cual la remitirá al Registro Público de la Propiedad; así mismo, se le notificará al Instituto para su conocimiento.
 
-### CAPÍTULO III. EJECUCIÓN DE CONDICIONES DURANTE LA SUSPENSIÓN DEL PROCESO A PRUEBA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO III. EJECUCIÓN DE CONDICIONES DURANTE LA SUSPENSIÓN CONDICIONAL DEL PROCESO
 
 ###### Artículo 49.
 
 Coordinación, ejecución y vigilancia de las condiciones.
 
-La coordinación interinstitucional para la ejecución y vigilancia de las condiciones por cumplir durante la suspensión del proceso a prueba, en los términos del Capítulo II, Título Séptimo, del Código de Procedimientos, se llevará a cabo de la siguiente manera:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+La coordinación interinstitucional para la ejecución y vigilancia de las condiciones por cumplir durante la suspensión condicional del proceso, en los términos del Capítulo III, Título I, del Libro Segundo del Código de Procedimientos, se llevará a cabo de la siguiente manera:
 
 I.- Residir en un lugar determinado.- Se sujetará a las disposiciones de ejecución de la medida cautelar de prohibición de salir del ámbito territorial que fije el juez.
 
@@ -883,53 +931,57 @@ IV.- Participar en programas especiales para la prevención y tratamiento de adi
 
 V.- Aprender una profesión u oficio o seguir cursos de capacitación en el lugar o la institución que determine el juez.- Quedará sujeta a la revisión por parte de las Secretarías de Educación, Cultura y Deporte; de Economía, y del Trabajo y Previsión Social, quienes darán seguimiento a la incorporación del imputado a alguno de los centros que ofrezcan servicios educativos o de capacitación para el trabajo, informando sobre los avances programáticos que alcance el imputado, así como de la culminación de los estudios, en su caso.
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-VI.- Prestar servicio social a favor del Estado o de instituciones de beneficencia pública.- Quedará sujeta a la revisión por parte de la Fiscalía, la que inscribirá al imputado en un listado especial de prestadores de servicio y le indicará la institución en la que deba realizarse, el horario en el que se cumplirá, así como las labores que desempeñará. Así mismo, supervisará el trabajo del imputado periódicamente, e informará sobre su cumplimiento.
+VI.- Prestar servicio social a favor del Estado o de instituciones de beneficencia pública.- Quedará sujeta a la revisión por parte del Instituto, el que inscribirá al imputado en un listado especial de prestadores de servicio y le indicará la institución en la que deba realizarse, el horario en el que se cumplirá, así como las labores que desempeñará. Así mismo, supervisará el trabajo del imputado periódicamente, e informará sobre su cumplimiento.
 
 VII.- Someterse a tratamiento médico o sicológico, de preferencia en instituciones públicas.- Se sujetará, en lo conducente, a las disposiciones de ejecución de la medida cautelar de internamiento en centro de salud u hospital siquiátrico.
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-VIII.- Tener un trabajo o empleo, o adquirir, en el plazo que el juez determine, un oficio, arte o profesión, si no tiene medios propios de subsistencia.- Se sujetará, en lo conducente, a lo dispuesto en la fracción V del presente artículo. Si la condición consiste en la adquisición de trabajo, oficio o empleo, se hará por conducto de las Secretarías de Educación, Cultura y Deporte; de Economía, y del Trabajo y Previsión Social.
+VIII.- Tener un trabajo o empleo, o adquirir, en el plazo que el juez determine, un oficio, arte, industria o profesión, si no tiene medios propios de subsistencia.- Se sujetará, en lo conducente, a lo dispuesto en la fracción V del presente artículo. Si la condición consiste en la adquisición de trabajo, oficio o empleo, se hará por conducto de las Secretarías de Educación, Cultura y Deporte; de Economía, y del Trabajo y Previsión Social.
 
 IX.- Someterse a la vigilancia que determine el juez.- Se sujetará a las disposiciones de ejecución de la medida cautelar de sometimiento al cuidado o vigilancia de una persona o institución determinada que informe regularmente al juez.
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-X.- No poseer ni portar armas.- Al decretarse esta condición, se dará aviso a los cuerpos de seguridad pública en el Estado, así como a la Secretaría de la Defensa Nacional, para llevar un registro de la condición impuesta, a efecto de que en un evento posterior en el que constate su incumplimiento, se dé aviso al Juez de Garantía para los efectos procesales correspondientes.
+X.- No poseer ni portar armas.- Al decretarse esta condición, se dará aviso a los cuerpos de seguridad pública en el Estado, así como a la Secretaría de la Defensa Nacional, para llevar un registro de la condición impuesta, a efecto de que en un evento posterior en el que constate su incumplimiento, se dé aviso al Juez de Control para los efectos procesales correspondientes.
 
 XI.- No conducir vehículos.- Se sujetará a las disposiciones de ejecución de la medida cautelar de suspensión de derechos.
 
 XII.- Abstenerse de viajar al extranjero.- Se sujetará a las disposiciones de ejecución de la medida cautelar de prohibición de salir del país.
 
-XIII.- Cumplir con los deberes de deudor alimentario.- En su cumplimiento, quedará sujeta al aviso que los acreedores alimentarios o sus representantes formulen al Juez de Garantía.
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-### CAPÍTULO IV. DISPOSICIONES COMUNES A LAS MEDIDAS CAUTELARES y SUSPENSIÓN DEL PROCESO A PRUEBA
+XIII.- Cumplir con los deberes de deudor alimentario.- En su cumplimiento, quedará sujeta al aviso que los acreedores alimentarios o sus representantes formulen al Juez de Control.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+### CAPÍTULO IV. DISPOSICIONES COMUNES A LAS MEDIDAS CAUTELARES Y SUSPENSIÓN CONDICIONAL DEL PROCESO
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 50.
 
 Irregularidades o incumplimiento de las medidas.
 
-Si durante el período de cumplimiento de las medidas cautelares o condiciones, la autoridad, persona o institución ejecutora observa o da cuenta de incumplimiento o de cualquier irregularidad, dará aviso inmediato al Juez de Garantía, por conducto de la Fiscalía, para los efectos procesales conducentes.
+Si durante el período de cumplimiento de las medidas cautelares o condiciones, la autoridad, persona o institución ejecutora observa o da cuenta de incumplimiento o de cualquier irregularidad, dará aviso inmediato al Juez de Control, por conducto del Instituto, para los efectos procesales conducentes.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 51.
 
 Sustitución, modificación o cancelación de las medidas cautelares o condiciones.
 
-El Juez de Garantía informará a la persona o institución ejecutora sus determinaciones sobre la sustitución, modificación o cancelación de la medida cautelar, así como de la revocatoria o cesación provisional de los efectos de la suspensión del proceso a prueba, en su caso.
+El Juez de Control informará a la persona o institución ejecutora sus determinaciones sobre la sustitución, modificación o cancelación de la medida cautelar, así como de la revocatoria o cesación provisional de los efectos de la suspensión condicional del proceso, en su caso.
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 52.
 
 Ente coordinador.
 
-La comunicación entre el órgano jurisdiccional y las autoridades señaladas como auxiliares, se llevará a cabo por conducto de la Fiscalía, quien además llevará un registro general sobre las medidas cautelares y condiciones decretadas, la sustitución, modificación o cancelación de las primeras, así como de la revocatoria o cesación provisional de las segundas.
+La comunicación entre el órgano jurisdiccional y las autoridades señaladas como auxiliares, se llevará a cabo por conducto del Instituto, quien además llevará un registro general sobre las medidas cautelares y condiciones decretadas, la sustitución, modificación o cancelación de las primeras, así como de la revocatoria o cesación provisional de las segundas.
 
 ## TÍTULO CUARTO. EJECUCIÓN DE LAS PENAS Y MEDIDAS DE SEGURIDAD
 
@@ -939,11 +991,9 @@ La comunicación entre el órgano jurisdiccional y las autoridades señaladas co
 
 Ejecución de las penas y medidas de seguridad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ENERO DE 2010)</small>
-
-Para la ejecución de las penas y medidas de seguridad, el Juez de Garantía o el Tribunal de Juicio Oral que dictó la sentencia, o el Tribunal de Alzada, según corresponda, deberá:
+Para la ejecución de las penas y medidas de seguridad, el Juez de Control o el Tribunal de Enjuiciamiento que dictó la sentencia, o el Tribunal de Alzada, según corresponda, deberá:
 
 I.- Tratándose de penas privativas de la libertad.-
 
@@ -1505,29 +1555,33 @@ Publicación.
 
 Todas las resoluciones que concedan un indulto se publicarán en el Periódico Oficial del Estado y se comunicarán a la autoridad judicial que pronunció la sentencia para que haga la anotación correspondiente en el proceso.
 
-#### SECCIÓN TERCERA. LIBERTAD O DISMINUCIÓN DE LA PENA POR REVISIÓN DE SENTENCIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+#### SECCIÓN TERCERA. LIBERTAD O DISMINUCIÓN DE LA PENA POR RECONOCIMIENTO DE INOCENCIA DEL SENTENCIADO O ANULACIÓN DE SENTENCIA
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 90.
 
 Procedencia.
 
-La libertad definitiva o disminución de la pena procederá como consecuencia de la resolución que las determine en el recurso de revisión, en los términos del Título Décimo, Capítulo V del Código de Procedimientos Penales.
+La libertad definitiva o disminución de la pena procederá como consecuencia de la resolución que las determine en el Reconocimiento de inocencia del sentenciado o en la Anulación de la sentencia, en los términos del Título XIII, del Libro Segundo del Código de Procedimientos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 91.
 
-Libertad por revisión de sentencia.
+Libertad por Reconocimiento de inocencia del sentenciado o por la anulación de la sentencia.
 
-Cuando por revisión de sentencia se resuelva la absolución del condenado, la Sala Colegiada en materia penal que haya conocido del recurso remitirá la constancia de su resolución a la Fiscalía y al Juez de Ejecución de Penas para que sin demora la ejecuten; así mismo, a la Fiscalía General del Estado, para su conocimiento.
+Cuando por Reconocimiento de inocencia del sentenciado o por Anulación de la sentencia se resuelva la absolución del condenado, el Tribunal de alzada que haya conocido del recurso remitirá la constancia de su resolución a la Fiscalía y al Juez de Ejecución de Penas para que sin demora la ejecuten; así mismo, a la Fiscalía General del Estado, para su conocimiento.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 92.
 
 Disminución de penas.
 
-Cuando la consecuencia del recurso de revisión sea la disminución de las penas impuestas al condenado, se aplicará, en lo conducente, lo dispuesto en el artículo anterior.
+Cuando la consecuencia del Reconocimiento de inocencia del sentenciado o la Anulación de la sentencia sea la disminución de las penas impuestas al condenado, se aplicará, en lo conducente, lo dispuesto en el artículo anterior.
 
 #### SECCIÓN CUARTA. REHABILITACIÓN
 
@@ -1537,11 +1591,13 @@ Rehabilitación de derechos.
 
 Obtenida la libertad definitiva, el liberado podrá exigir que sean rehabilitados sus derechos políticos, civiles o de familia, suspendidos con motivo del procedimiento penal y la sanción impuesta.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 94.
 
 Solicitud de rehabilitación.
 
-Una vez presentada la solicitud de rehabilitación, el Juez de Ejecución de Penas verificará que el condenado haya extinguido la sanción privativa de libertad impuesta; que resultó absuelto por revisión de sentencia o que le fue concedido el indulto, según sea el caso.
+Una vez presentada la solicitud de rehabilitación, el Juez de Ejecución de Penas verificará que el condenado haya extinguido la sanción privativa de libertad impuesta; que resultó absuelto por Reconocimiento de inocencia del sentenciado, por la Anulación de la sentencia, o que le fue concedido el indulto, según sea el caso.
 
 ###### Artículo 95.
 
@@ -1655,7 +1711,9 @@ El sentenciado que considere que al dictarse la sentencia, en la que no hubo pro
 
 Sustitución de la prisión.
 
-El Juez de Garantía, o el Tribunal de Juicio Oral, considerando los resultados de los estudios de personalidad que emita la Fiscalía, podrá sustituir la pena de prisión, en los términos siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+El Juez de Control, o el Tribunal de Enjuiciamiento, considerando los resultados de los estudios de personalidad que emita la Fiscalía, podrá sustituir la pena de prisión, en los términos siguientes:
 
 I. Por multa o trabajo en favor de la comunidad, cuando no exceda de tres años, y
 
@@ -1781,7 +1839,9 @@ La ejecución de la pena de prohibición de residir o acudir a un lugar determin
 
 Ejecución.
 
-Al haberse indicado la forma de dar cumplimiento al pago de la reparación del daño, en los términos del Artículo 385 del Código de Procedimientos Penales del Estado, se enviará constancia de la sentencia firme al Juez de Ejecución de Penas, para llevar a cabo el seguimiento correspondiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Al haberse indicado la forma de dar cumplimiento al pago de la reparación del daño, en los términos del artículo 409, párrafo segundo del Código de Procedimientos, se enviará constancia de la sentencia firme al Juez de Ejecución de Penas, para llevar a cabo el seguimiento correspondiente:
 
 I.- Si no se pagó la reparación del daño en los términos fijados en la sentencia, el Juez de Ejecución de Penas dará inicio al procedimiento administrativo de ejecución en los términos del Código Fiscal del Estado.
 
@@ -1931,13 +1991,17 @@ Ejecución de la pena.
 
 La ejecución de la pena de suspensión del derecho para conducir vehículos de motor quedará, en lo conducente, sujeta a las reglas dispuestas para la medida cautelar de suspensión de derechos.
 
-#### SECCIÓN SÉPTIMA. CONSECUENCIAS PARA PERSONAS MORALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+#### SECCIÓN SÉPTIMA. CONSECUENCIAS PARA PERSONAS JURÍDICAS
 
 ###### Artículo 122.
 
 Ejecución de la suspensión, disolución, prohibición, remoción e intervención.
 
-I. Disolución.- La autoridad judicial designará en el mismo acto un liquidador que procederá a cumplir todas las obligaciones contraídas hasta entonces por la persona moral, inclusive las responsabilidades derivadas del delito cometido, observando las disposiciones legales sobre prelación de créditos, conforme a la naturaleza de éstos y de la entidad objeto de la liquidación.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+I. Disolución. La autoridad judicial designará en el mismo acto un liquidador que procederá a cumplir todas las obligaciones contraídas hasta entonces por la persona jurídica, inclusive las responsabilidades derivadas del delito cometido, observando las disposiciones legales sobre prelación de créditos, conforme a la naturaleza de éstos y de la entidad objeto de la liquidación.
 
 La conclusión de toda actividad social se hará sin perjuicio de la realización de los actos necesarios para la disolución y liquidación total.
 
@@ -1949,7 +2013,9 @@ Cuando concluya el período previsto para la administración sustituta, la desig
 
 IV. Intervención.- Se ejercerá con las atribuciones que la ley confiere al interventor,
 
-Al imponer las consecuencias Jurídicas, la autoridad judicial tomará las medidas pertinentes para dejar a salvo los derechos de los trabajadores y terceros frente a la persona Jurídica colectiva, así como aquellos otros derechos que sean exigibles frente a otras personas, derivados de actos celebrados con la persona moral sancionada.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Al imponer las consecuencias jurídicas, la autoridad judicial tomará las medidas pertinentes para dejar a salvo los derechos de los trabajadores y terceros frente a la persona jurídica colectiva, así como aquellos otros derechos que sean exigibles frente a otras personas, derivados de actos celebrados con la persona jurídica sancionada.
 
 Estos derechos quedan a salvo, aun cuando la autoridad judicial no tome las medidas a que se refiere el párrafo anterior.
 
@@ -2884,3 +2950,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto, en materia del delito de tortura, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+P.O. 29 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Inicio de Vigencia.
+
+El presente Decreto entrará en vigor al momento en el que inicie su vigencia el Código Nacional de Procedimientos Penales, de conformidad con la declaratoria que al efecto se emita por el Congreso del Estado, en los términos del Artículo Segundo Transitorio de dicho cuerpo normativo.
+
+SEGUNDO.- Derogación tácita de preceptos incompatibles.
+
+Quedan derogadas todas las disposiciones legales que se opongan al contenido del presente Decreto.
+
+TERCERO.- Cuando en cualquier disposición legal se haga referencia al Código de Procedimientos Penales del Estado de Chihuahua, se entenderá que se refiere al Código Nacional de Procedimientos Penales.
