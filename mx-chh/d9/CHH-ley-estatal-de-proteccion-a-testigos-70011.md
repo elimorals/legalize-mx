@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-proteccion-a-testigos-70011"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-22"
-last_updated: "2011-11-12"
+last_updated: "2014-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70011&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY ESTATAL DE PROTECCION A TESTIGOS
 
-LEY ESTATAL DE PROTECCION A TESTIGOS
+LEY ESTATAL DE PROTECCIÓN A TESTIGOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 22 de agosto de 2009.
 
@@ -107,7 +107,7 @@ Entidades de protección y asistencia.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 La protección y asistencia a que se refiere la presente Ley, debe proporcionarlas el Ministerio Público, a través de la Oficina de Protección a Testigos de la Fiscalía Especializada en Atención a Víctimas y Ofendidos del Delito y demás obligados por la presente Ley.
 
@@ -203,11 +203,15 @@ Toda medida de protección debe ser impuesta provisionalmente, de acuerdo con la
 
 Cuando por el cambio de las circunstancias que dieron lugar a la medida de protección, o por su ineficacia, sea necesario modificarla, se podrán imponer otras medidas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 19.
 
-Catálogo de medidas de protección.
+Catálogo de medidas de protección y asistencia.
 
-Además de las medidas establecidas por el Código de Procedimientos Penales del Estado, para garantizar los fines de la investigación criminal o del proceso penal, el Ministerio Público, en coordinación con la Oficina de Protección a Testigos, podrá disponer la ejecución de las medidas de protección que resulten adecuadas, entre ellas:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Además de las medidas establecidas por el Código Nacional de Procedimientos Penales, para garantizar los fines de la investigación criminal o del proceso penal, el Ministerio Público, en coordinación con la Oficina de Protección a Testigos, podrá disponer la ejecución de las medidas de protección y asistencia que resulten adecuadas, entre ellas:
 
 1.- Proveer la seguridad necesaria para la protección de la integridad física de los intervinientes o testigos y, en su caso, de la de sus allegados. Para tales efectos se podrá disponer:
 
@@ -259,17 +263,21 @@ En tales casos, la autoridad judicial competente, bien de oficio o a solicitud d
 
 Dicho material será devuelto a la persona a la que se le hubiere retenido, una vez comprobado que no existen elementos de riesgo que permitan identificar a las personas protegidas. En caso contrario, la autoridad judicial correspondiente ordenará la destrucción o resguardo de tales materiales.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 21.
 
-Desalojo del imputado del domicilio de la víctima.
+Separación Inmediata del imputado del domicilio de la víctima.
 
-Tratándose de los casos de delitos sexuales o de violencia familiar, el Ministerio Público deberá solicitar al Juez de Garantía, el desalojo del imputado del domicilio de la víctima.
+Tratándose de los casos de delitos sexuales o de violencia familiar, el Ministerio Público deberá ordenar fundada y motivadamente la aplicación de la medida de protección de separación inmediata del imputado del domicilio de la víctima, establecida en la fracción III del artículo 137 del Código Nacional de Procedimientos Penales. Así mismo, deberá solicitar al Juez de Control la audiencia a que hace referencia el párrafo doce de dicho numeral.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 22.
 
-Prohibición de acercarse a los intervinientes, testigos y sus allegados.
+Prohibición de acercarse o comunicarse con la víctima u ofendido, o la limitación para asistir o acercarse al domicilio o al lugar donde éstos se encuentren.
 
-En los casos en que el Ministerio Público lo estime necesario, podrá solicitar al órgano judicial competente, la prohibición al imputado de acercarse a los sujetos protegidos, así como a sus lugares de trabajo o estudio y demás lugares en que éstos se encuentren.
+En los casos en que el Ministerio Público lo estime necesario, podrá ordenar fundada y motivadamente la aplicación de las medidas de protección de prohibición de acercarse o comunicarse con la víctima u ofendido, o la limitación para asistir o acercarse al domicilio o al lugar donde éstos se encuentren, establecidas en las fracciones I y II del artículo 137 del Código Nacional de Procedimientos Penales. Así mismo, deberá solicitar al Juez de Control la audiencia a que hace referencia el párrafo doce de dicho numeral.
 
 ###### ARTÍCULO 23.
 
@@ -367,11 +375,15 @@ Fiscalía General del Estado.
 
 La Fiscalía General, a través de la Fiscalía Especializada en Atención a Víctimas y Ofendidos del Delito, es el órgano facultado para garantizar la protección de los intervinientes, testigos y sus allegados, otorgando a quienes considere pertinente, las medidas necesarias para garantizar su vida, su integridad física, y cualquier otro bien que les sea propio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 29.
 
-Subprocuraduría de Derechos Humanos y Atención a Víctimas del Delito.
+Fiscalía Especializada en Atención a Víctimas y Ofendidos del Delito.
 
-La Subprocuraduría, a través de su Oficina de Protección a Testigos, en el cumplimiento de los objetivos de esta Ley, sin perjuicio de aquéllas conferidas por otros ordenamientos, tiene las siguientes atribuciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+La Fiscalía Especializada en Atención a Víctimas y Ofendidos del Delito, a través de su Oficina de Protección a Testigos, en el cumplimiento de los objetivos de esta Ley, sin perjuicio de aquéllas conferidas por otros ordenamientos, tiene las siguientes atribuciones:
 
 I. Elaborar anualmente un programa de protección a los intervinientes y testigos en riesgo y sus allegados, así como el presupuesto estimado necesario para su ejecución;
 
@@ -445,13 +457,13 @@ El mismo trámite se seguirá en los casos en que el Ministerio Público se nieg
 
 La competencia para resolver el conflicto a que se refiere el artículo anterior, corresponderá:
 
-I. Al Juez de Garantía, si se promueve previo o durante la fase de investigación y hasta el auto de apertura de juicio oral;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+I. Al Juez de Control, si se promueve previo o durante la fase de investigación y hasta el auto de apertura de juicio oral;
 
-> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-II. Al Juez o al Presidente del Tribunal de Juicio Oral, desde el dictado del auto de apertura de juicio oral; durante la audiencia de debate y en la fase de ejecución de penas y medidas de seguridad, y
+II. Al Tribunal de Enjuiciamiento, desde el dictado del auto de apertura de juicio oral; durante la audiencia de debate y en la fase de ejecución de penas y medidas de seguridad, y
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
@@ -531,7 +543,7 @@ Adscripción y administración.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 Los fondos para la protección y asistencia a que se refiere la presente Ley, serán administrados por la Dirección Administrativa de la Fiscalía General del Estado.
 
@@ -565,7 +577,7 @@ En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veinte días de
 
 El Gobernador Constitucional del Estado. LIC. JOSE REYES BAEZA TERRAZAS. Rúbrica. El Secretario General de Gobierno. LIC. SERGIO GRANADOS PINEDA. Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 25 DE SEPTIEMBRE DE 2010.
 
@@ -620,3 +632,15 @@ El presente Decreto entrará en vigor a los quince días siguientes de su public
 ###### ARTÍCULO SEGUNDO.
 
 Aquellas causas en las que se haya dictado Auto de Apertura de Juicio Oral antes de la entrada en vigor del presente Decreto, serán conocidas por Tribunales Colegiados de Juicio Oral bajo las normas previstas con anterioridad para dichos Tribunales; lo mismo se observará para las Salas Penales en materia de recursos. Lo previsto en este artículo transitorio regirá igualmente en materia de extinción de dominio.
+
+P.O. 29 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Inicio de Vigencia.
+
+El presente Decreto entrará en vigor al momento en el que inicie su vigencia el Código Nacional de Procedimientos Penales, de conformidad con la declaratoria que al efecto se emita por el Congreso del Estado, en los términos del Artículo Segundo Transitorio de dicho cuerpo normativo.
+
+SEGUNDO.- Derogación tácita de preceptos incompatibles.
+
+Quedan derogadas todas las disposiciones legales que se opongan al contenido del presente Decreto.
+
+TERCERO.- Cuando en cualquier disposición legal se haga referencia al Código de Procedimientos Penales del Estado de Chihuahua, se entenderá que se refiere al Código Nacional de Procedimientos Penales.
