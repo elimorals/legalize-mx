@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2014-09-27"
+last_updated: "2014-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -683,9 +683,17 @@ IX. Un representante de la Secretaría de Seguridad Pública del Estado, que a s
 
 X. Un representante de la Dirección General de Prevención y Reinserción Social;
 
-XI. El Secretario Ejecutivo del Consejo Municipal, y
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XII. En el caso de los municipios cabecera de Distrito Judicial, se invitará al alcaide del centro de reclusión distrital.
+XI. El Secretario Ejecutivo del Consejo Municipal;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XII. El presidente municipal podrá invitar al titular de la XII Zona Militar, o al representante que éste designe, y
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XIII. En el caso de los municipios cabecera de Distrito Judicial, se invitará al alcalde del centro de reclusión distrital.
 
 ###### ARTICULO 48.
 
@@ -2022,3 +2030,9 @@ QUINTO. El Secretario de Seguridad Pública del Estado deberá formar la Unidad 
 SEXTO. El Secretario de Seguridad Pública del Estado deberá expedir el reglamento interno en el que se incluya a la Policía Procesal, en un plazo que no exceda de treinta días contados a partir de la vigencia del presente Decreto.
 
 SÉPTIMO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 29 DE NOVIEMBRE DE 2014.
+
+PRIMERO. Este Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
