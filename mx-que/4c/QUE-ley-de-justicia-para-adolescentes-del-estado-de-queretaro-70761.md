@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-justicia-para-adolescentes-del-estado-de-queretaro-70761
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-23"
-last_updated: "2014-07-04"
+last_updated: "2014-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70761&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE QUERETARO - ANTES LEY PARA LA IMPARTICION DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE QUERETARO -
 
-LEY PARA LA IMPARTICIÓN DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE QUERÉTARO
+> <small>[N. DE E. DE CONFORMIDAD CON LA LEY NACIONAL DEL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES, PUBLICADA EN EL D.O.F. DE 16 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO. TRANSITORIOS: ARTÍCULO PRIMERO. VIGENCIA PARA LOS EFECTOS SEÑALADOS EN EL PÁRRAFO TERCERO DEL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 18 DE JUNIO DE 2008, SE DECLARA QUE LA PRESENTE LEGISLACIÓN INCORPORA EL SISTEMA PROCESAL PENAL ACUSATORIO Y ENTRARÁ EN VIGOR EL 18 DE JUNIO DE 2016. LOS REQUERIMIENTOS NECESARIOS PARA LA PLENA OPERACIÓN DEL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES DEBERÁN ESTAR INCORPORADOS EN UN PLAZO NO MAYOR A TRES AÑOS A PARTIR DE LA FECHA DE ENTRADA EN VIGOR DEL PRESENTE DECRETO. ARTÍCULO SEGUNDO. ABROGACIÓN SE ABROGA LA LEY PARA EL TRATAMIENTO DE MENORES INFRACTORES PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 24 DE DICIEMBRE DE 1991 Y SUS POSTERIORES REFORMAS. SE ABROGAN TAMBIÉN LAS LEYES RESPECTIVAS DE LAS ENTIDADES FEDERATIVAS VIGENTES A LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, PARA EFECTOS DE SU APLICACIÓN EN LOS PROCEDIMIENTOS PENALES PARA ADOLESCENTES INICIADOS POR HECHOS QUE OCURRAN A PARTIR DE LA ENTRADA EN VIGOR DE LA PRESENTE LEY. ARTÍCULO TERCERO. CARGA CERO LOS PROCEDIMIENTOS PENALES PARA ADOLESCENTES QUE A LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO SE ENCUENTREN EN TRÁMITE, CONTINUARÁN SU SUSTANCIACIÓN DE CONFORMIDAD CON LA LEGISLACIÓN APLICABLE EN EL MOMENTO DEL INICIO DE LOS MISMOS.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2014.
+LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE QUERÉTARO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 23 de octubre de 2009.
 
@@ -35,7 +37,9 @@ CONSIDERANDO.
 
 Por lo anteriormente expuesto, la Quincuagésima Quinta Legislatura del Estado de Querétaro, expide la siguiente:
 
-LEY PARA LA IMPARTICIÓN DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE QUERÉTARO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE QUERÉTARO
 
 ## Título Primero. Del sistema integral de justicia para adolescentes
 
@@ -77,7 +81,9 @@ IV. Subsidiariedad: reduce la acción del Estado a lo que la sociedad civil no p
 
 V. Especialización: requiere que todas las autoridades que intervienen en el sistema integral, conozcan a plenitud la protección de derechos de los adolescentes;
 
-VI. Celeridad Procesal: garantiza que en los procesos en los que están involucrados adolescente (sic), se realicen sin demora y con la mínima duración posible;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+VI. Celeridad Procesal: garantiza que en los procesos en los que están involucrados adolescentes, se realicen sin demora y con la mínima duración posible, por lo que las autoridades y órganos operadores del Sistema, deberán ejercer sus funciones y atender las solicitudes de los interesados con prontitud y eficacia, sin causar dilaciones injustificadas;
 
 VII. Flexibilidad: permite una concepción dúctil de la ley;
 
@@ -91,15 +97,37 @@ XI. Responsabilidad limitada: consiste en afrontar las consecuencias de su acci�
 
 XII. Proporcionalidad: sirve como punto de apoyo de la ponderación entre principios, cuando dos de ellos entran en colisión porque la aplicación de uno implica la reducción del campo de aplicación de otro, correspondiendo al Juez determinar si esa reducción es proporcional a la luz de la importancia del principio afectado;
 
-XIII. Jurisdiccionalidad: la potestad del órgano gubernamental para dirimir litigios, aplicando normas sustantivas e instrumentales, por un oficio objetivamente competente y un agente imparcial; y
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XIV. Principios procesales del sistema acusatorio: oportunidad, oralidad, inmediación, concentración, publicidad, contradicción, continuidad, libertad probatoria y libre valoración de la prueba.
+XIII. Jurisdiccionalidad: la potestad del órgano gubernamental para dirimir litigios, aplicando normas sustantivas e instrumentales, por un oficio objetivamente competente y un agente imparcial;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XIV. Principios procesales del sistema acusatorio: oportunidad, oralidad, inmediación, concentración, publicidad, contradicción, continuidad, libertad probatoria y libre valoración de la prueba;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XV. Dignidad humana: En todo momento, las autoridades y órganos operadores del Sistema, deberán respetar y proteger en forma ponderada, tanto la dignidad del adolescente imputado y de los menores de doce años de edad, como la dignidad del ofendido y de la víctima;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XVI. Accesibilidad: Implementación de medidas que aseguren el acceso de las personas con discapacidad, en igualdad de condiciones con las demás personas, a la administración y procuración de justicia, así como a los servicios de defensoría pública y asesoría jurídica, debiendo preverse por las autoridades, ajustes razonables al procedimiento, cuando se requiera; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XVII. Buena fe: Toda persona que intervenga en cualquiera de los procedimientos que regula esta Ley, deberá conducirse con probidad, evitando los planteamientos dilatorios de carácter formal o cualquier otro abuso o conducta que desnaturalice el ejercicio de las facultades o derechos que la norma les conceda.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+No podrán aplicarse excepciones a los principios antes señalados que no estén expresamente establecidos en esta Ley u otras aplicables y que sean conformes a la Constitución y a los Tratados Internacionales suscritos por México, en materia de derechos humanos.
 
 ###### Artículo 4.
 
 Esta Ley debe aplicarse e interpretarse, de conformidad con los principios rectores del Sistema Integral de Justicia para Adolescentes, la Constitución Política de los Estados Unidos Mexicanos, los Tratados internacionales aplicables a la materia de los que México sea parte, la Constitución Política del Estado de Querétaro y la Ley para la Protección de los Derechos de las Niñas, Niños y Adolescentes del Estado de Querétaro.
 
-En lo no previsto por esta Ley podrá aplicarse supletoriamente el Código Penal del Estado de Querétaro y el Código de Procedimientos Penales del Estado de Querétaro, siempre que no se opongan a los principios rectores y ordenamientos referidos, protegiendo la integridad de los derechos y garantías de los adolescentes.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+En lo no previsto por esta Ley podrá aplicarse supletoriamente el Código Penal del Estado de Querétaro y el Código Nacional de Procedimientos Penales, siempre que no se opongan a los principios rectores y ordenamientos referidos, protegiendo la integridad de los derechos y garantías de los adolescentes.
 
 ### Capítulo Segundo. De los sujetos
 
@@ -113,7 +141,9 @@ Para los efectos de esta Ley, la edad del sujeto se comprobará con la respectiv
 
 Los derechos y garantías reconocidos a los adolescentes son irrenunciables, tienen un carácter enunciativo y no limitativo, considerando como tales:
 
-I. Todos los previstos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales aplicables en la materia de los que México sea parte, Ley para la protección de los Derechos de Niñas, Niños y Adolecentes (sic) y la Constitución Política del Estado de Querétaro;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+I. Todos los previstos en la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales aplicables en la materia de los que México sea parte, Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes, y la Constitución Política del Estado de Querétaro;
 
 II. A la libertad. Cualquier medida que implique una restricción a ésta, deberá aplicarse de forma excepcional, como último recurso y durante el tiempo más breve que proceda, de conformidad con lo previsto por esta Ley;
 
@@ -125,9 +155,21 @@ V. Carga de la prueba por parte del órgano acusador;
 
 VI. Ser defendidos en igualdad de circunstancias respecto de su acusador;
 
-VII. Hacerse representar por un defensor de oficio o privado que posea cedula profesional que lo acredite como licenciado en derecho;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-VIII. Ser informados, en lenguaje claro y accesible, de acuerdo con su edad y condición, sin demora y personalmente o a través de quienes ejerzan la patria potestad, tutela, custodia o representación legal sobre:
+VII. A comunicarse con un familiar y con su Defensor cuando sea detenido, debiendo brindarle el Ministerio Público todas las facilidades para lograrlo;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+VIII. A tener una defensa adecuada por parte de un licenciado en derecho o abogado titulado, con cédula profesional, especializado en la materia, al cual elegirá libremente incluso desde el momento de su detención y, a falta de éste, por el Defensor Público especializado que le corresponda, así como a reunirse o entrevistarse con él en estricta confidencialidad;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+IX. A estar asistido de su defensor al momento de rendir su declaración, así como en cualquier otra actuación en la que intervenga el adolescente y a entrevistarse en privado previamente con él;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+X. Ser informados, en lenguaje claro y accesible, de acuerdo con su edad y condición, sin demora y personalmente o a través de quienes ejerzan la patria potestad, tutela, custodia o representación legal sobre:
 
 a) Las razones por las que se les detiene, juzga o impone una medida.
 
@@ -141,9 +183,37 @@ e) La disposición de defensa jurídica gratuita.
 
 f) Todo aquello que interese respecto de su sujeción al Sistema Integral de Justicia para Adolescentes;
 
-IX. Participación de quienes ejerzan la patria potestad, tutela o custodia, en las actuaciones y les brinden asistencia general; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-X. Ser asistidos de oficio y en todos los actos procesales, por persona que comprenda plenamente su idioma, lenguaje, dialecto o cultura, en caso de ser indígena, extranjeros, padecer alguna discapacidad o no sepan leer ni escribir.
+XI. Participación de quienes ejerzan la patria potestad, tutela o custodia, en las actuaciones y les brinden asistencia general;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XII. Ser asistidos de oficio y en todos los actos procesales, por persona que comprenda plenamente su idioma, lenguaje, dialecto o cultura, en caso de ser indígena, extranjeros, padecer alguna discapacidad o no sepan leer ni escribir; caso en el que las autoridades competentes deberán realizar, incluso de oficio, los ajustes que sean necesarios al procedimiento para salvaguardar sus derechos, en alguno de los anteriores supuestos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XIII. A que se le informe, tanto en el momento de su detención, como en su comparecencia ante el Ministerio Público o el Juez de control, los hechos que se le imputan y los derechos que le asisten, así como, en su caso, el motivo de la privación de su libertad y el servidor público que la ordenó, exhibiéndosele, según corresponda, la orden emitida en su contra;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XIV. A no ser sometido en ningún momento del procedimiento a técnicas ni métodos que atenten contra su dignidad, induzcan o alteren su libre voluntad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XV. A no autoincriminarse;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XVI. A ser presentado ante el Ministerio Público o ante el Juez de Control, según el caso, inmediatamente después de ser detenido o aprehendido; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XVII. En su caso, a solicitar desde el momento de su detención, asistencia social para los menores de edad o personas con discapacidad cuyo cuidado personal tenga a su cargo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+En el evento de que el imputado tenga a su cuidado menores de edad, personas con discapacidad o adultos mayores que dependan de él, y no haya otra persona que pueda ejercer ese cuidado, el Ministerio Público deberá canalizarlos a instituciones de asistencia social que correspondan, a efecto de recibir la protección.
 
 ###### Artículo 7.
 
@@ -253,29 +323,89 @@ XXVII. Ser preparado psicológicamente para salir del centro de internamiento, c
 
 XXVIII. Los demás que se prevean en esta Ley y en otros ordenamientos aplicables.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 11.
 
-Además de los previstos en la Constitución Política de los Estados Unidos Mexicanos y demás legislación aplicable, las víctimas u ofendidos tienen los siguientes derechos:
+Además de los previstos en la Constitución Política de los Estados Unidos Mexicanos, Tratados Internacionales en derechos humanos suscritos por México y demás legislación aplicable, las víctimas u ofendidos tienen los siguientes derechos:
 
-I. Ser informados sobre sus derechos cuando realicen la denuncia, o bien, en su primera intervención en el proceso;
+I. A ser informado de los derechos que en su favor le reconoce la Constitución, desde la denuncia o querella, o bien, desde su primera intervención en el procedimiento;
 
-II. Intervenir en el proceso, conforme lo establece esta Ley;
+II. A que el Ministerio Público y sus auxiliares, así como el órgano jurisdiccional, les faciliten el acceso a la justicia y les presten los servicios que constitucionalmente tienen encomendados, con legalidad, honradez, lealtad, imparcialidad, profesionalismo, eficiencia y eficacia y con la debida diligencia;
 
-III. Aportar y que el Ministerio Público les reciba todos los datos o elementos de prueba con los que cuenten, o bien, a constituirse en coadyuvantes de aquél, para lo cual podrán nombrar licenciado en derecho que los represente;
+III. A contar con información sobre los derechos que en su beneficio existan, como ser atendidos por personal del mismo sexo, o del sexo que la víctima elija, cuando así lo requieran y sea esto posible; también a recibir desde la comisión del delito, atención médica y psicológica de urgencia, así como asistencia jurídica a través de un asesor jurídico;
 
-IV. Ser informados de las resoluciones que finalicen o suspendan el proceso, siempre que lo hayan solicitado y tengan domicilio conocido;
+IV. A comunicarse con un familiar e incluso con su asesor jurídico, inmediatamente después de haberse cometido el delito;
 
-V. Ser escuchados antes de cada decisión que implique la extinción o suspensión de la acción penal, siempre que lo soliciten;
+V. A ser informado, cuando así lo solicite, del desarrollo del procedimiento por su asesor jurídico, el Ministerio Público y, en su caso, por la autoridad judicial;
 
-VI. Tomar la palabra, si están presentes en la audiencia de juicio, después de los informes finales y antes de concederle la palabra final al adolescente;
+VI. A ser tratado con respeto y dignidad;
 
-VII. Ser interrogados o a participar en el acto para el cual fueron citados, en el lugar de su residencia, si por su edad, condición física o psíquica se les dificulta gravemente comparecer ante cualquier autoridad del proceso, a cuyo fin deberán requerir la dispensa, por sí o a través de un tercero, con anticipación;
+VII. A hacerle saber que podrá contar con un asesor jurídico gratuito, cuando así lo solicite, en cualquier etapa del procedimiento, en los términos de la legislación aplicable;
 
-VIII. Recibir asesoría jurídica y la protección especial de su integridad física o psíquica, con inclusión de su familia inmediata, cuando reciban amenazas o corran peligro en razón del papel que cumplen en el proceso;
+VIII. A recibir trato sin discriminación a fin de evitar que se atente contra la dignidad humana y se anulen o menoscaben sus derechos y libertades, por lo que la protección de sus derechos se hará sin distinción alguna;
 
-IX. Obtener la reparación del daño, el resarcimiento de los perjuicios y, en su caso, interponer demanda en contra de terceros civilmente obligados a ello; y
+IX. A acceder a la justicia de manera pronta, gratuita e imparcial respecto de sus denuncias o querellas;
 
-X. Interponer los recursos que esta Ley establece.
+X. A participar en los mecanismos alternativos de solución de controversias que precedan;
+
+XI. A recibir gratuitamente la asistencia de un intérprete o traductor desde la denuncia hasta la conclusión del procedimiento penal, cuando la víctima u ofendido pertenezca a un grupo étnico o pueblo indígena o no conozca o no comprenda el idioma español;
+
+XII. En caso de tener alguna discapacidad, a que se realicen los ajustes al procedimiento penal que sean necesarios para salvaguardar sus derechos;
+
+XIII. A que se le reciban todos los datos o elementos de prueba pertinentes con los que cuente, tanto en la investigación como en el procedimiento, a que se desahoguen las diligencias correspondientes y a intervenir en el juicio e interponer los recursos en los términos que establezca esta Ley y demás legislación aplicable;
+
+XIV. A intervenir en todo el procedimiento por sí o a través de su asesor jurídico, conforme lo dispuesto en esta Ley y demás ordenamientos aplicables;
+
+XV. A que se le provea protección cuando exista riesgo para su vida o integridad personal;
+
+XVI. A solicitar la realización de los actos de investigación que en su caso correspondan, salvo que el Ministerio Público considere que no es necesario, debiendo fundar y motivar su negativa;
+
+XVII. A recibir atención médica y psicológica o a ser canalizado a instituciones que le proporcionen estos servicios, así como a recibir protección especial de su integridad física y psíquica cuando así lo solicite o cuando se trate de delitos que así lo requieran;
+
+XVIII. A solicitar medidas de protección, providencias precautorias y medidas cautelares;
+
+XIX. A solicitar el traslado de la autoridad al lugar en donde se encuentre, para ser interrogada o participar en el acto para el cual fue citada, cuando por su edad, enfermedad grave o por alguna otra imposibilidad física o psicológica se dificulte su comparecencia, a cuyo fin deberá requerir la dispensa, por sí o por un tercero, con anticipación;
+
+XX. A impugnar, por sí o por medio de su representante, las omisiones o negligencias que cometa el Ministerio Público en el desempeño de sus funciones de investigación, en los términos previstos en esta Ley y en las demás disposiciones legales aplicables;
+
+XXI. A tener acceso a los registros de la investigación durante el procedimiento, así como a obtener copia gratuita de éstos, salvo que la información esté sujeta a reserva así determinada por el órgano jurisdiccional;
+
+XXII. A ser restituido en sus derechos, cuando éstos estén acreditados;
+
+XXIII. A que se le garantice la reparación del daño durante el procedimiento, en cualquiera de las formas previstas en esta Ley;
+
+XXIV. A que se le repare el daño causado por la comisión del delito, pudiendo solicitarlo directamente al órgano jurisdiccional, sin perjuicio de que el Ministerio Público lo solicite;
+
+XXV. Al resguardo de su identidad, privacidad y demás datos personales cuando sean menores de edad, se trate de delitos de violación contra la libertad y el normal desarrollo psicosexual, violencia familiar, secuestro, trata de personas o cuando a juicio del órgano jurisdiccional sea necesario para su protección, salvaguardando en todo caso los derechos de la defensa;
+
+XXVI. A ser notificado de las resoluciones que puedan implicar la extinción, suspensión o desistimiento de la acción penal y de todas aquellas que finalicen el procedimiento, de conformidad con lo establecido en esta Ley;
+
+XXVII. Hacer uso de la voz, si está presente en la audiencia de juicio, conforme a lo establecido en esta Ley;
+
+XXVIII. A solicitar la reapertura del procedimiento cuando se haya decretado su suspensión; y
+
+XXIX. Los demás que establezcan esta Ley y otras disposiciones aplicables.
+
+En el caso de que los ofendidos o víctimas sean personas menores de dieciocho años, el órgano jurisdiccional o el Ministerio Público tendrán en cuenta los principios del interés superior de los niños o adolescentes, la prevalencia de sus derechos, su protección integral y los derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales, así como los previstos en la presente Ley.
+
+Para los delitos que impliquen violencia contra las mujeres, se deberán observar todos los derechos que en su favor establece la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, la ley local de la materia y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 11 Bis.
+
+Las partes en cuyo favor se haya establecido un plazo, podrán renunciar a él o consentir su abreviación mediante manifestación expresa por escrito.
+
+En caso de que el plazo sea común para las partes, para proceder en los mismos términos, todos los interesados deberán expresar su voluntad en el mismo sentido.
+
+Cuando sea el Ministerio Público el que renuncie a un plazo o consienta en su abreviación, deberá oírse a la víctima u ofendido para que manifieste lo que a su interés convenga.
+
+El defensor no podrá ejercer estas prerrogativas, sin previa autorización expresa del adolescente y explicación cabal a éste y a quien ejerza sobre él la patria potestad, la tutela o curatela, de las consecuencias de dichos actos.
+
+El asesor jurídico deberá proceder, en lo conducente, en los mismos términos previstos en el párrafo anterior de este artículo, respecto del ofendido o la víctima.
+
+Cuando la renuncia o abreviación del plazo pueda afectar la defensa adecuada o los intereses de algún adolescente o menor de edad, el órgano jurisdiccional podrá, a su prudente arbitrio, conferirle o no eficacia a esas promociones, salvaguardando y haciendo primar en todo momento los derechos fundamentales de dichos sujetos.
 
 ## Título Segundo. De las autoridades, instituciones y órganos del sistema integral
 
@@ -307,7 +437,13 @@ Las autoridades señaladas, tendrán las facultades y obligaciones que le señal
 
 El procedimiento de justicia para adolescentes, tiene como objetivo establecer la existencia jurídica de una conducta tipificada como delito por las leyes del Estado, determinar su responsabilidad y el grado de ésta y, en su caso, disponer la aplicación de las medidas que correspondan. Se llevará a cabo de acuerdo a las disposiciones de la presente Ley, con respeto irrestricto de los principios contemplados en sus artículos 3 y 4.
 
-Son partes en el procedimiento, el Ministerio Público, el adolescente y su defensor.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Tendrán la calidad de parte en el procedimiento previsto en este Título Tercero, el adolescente imputado y su defensor, el Ministerio Público, la víctima u ofendido y su asesor jurídico.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+También gozarán de esta calidad procesal, tratándose de adolescentes o menores de edad, la persona de su confianza que ejerza sobre ellos patria potestad, la tutela o curatela.
 
 ###### Artículo 14.
 
@@ -319,9 +455,11 @@ II. Menor de doce años de edad al momento de cometerla, se remitirán las actua
 
 ### Capítulo Segundo. De los actos procesales
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 15.
 
-Para establecer la existencia jurídica de las conductas sancionables, se estará a la tipificación señalada en la ley correspondiente. La consideración de gravedad será la que establezca al respecto el Código de Procedimientos Penales del Estado de Querétaro, para los delitos correspondientes a las conductas cometidas por los adolescentes.
+Para establecer la existencia jurídica de las conductas sancionables, se estará a la tipificación señalada en la ley correspondiente. La consideración de gravedad para las conductas sancionables cometidas por los adolescentes, será la que establezca al respecto la Constitución Política de los Estados Unidos Mexicanos y el Código Nacional de Procedimientos Penales.
 
 ###### Artículo 16.
 
@@ -341,7 +479,9 @@ Tratándose de audiencias orales, siempre se registrarán en audio o video para 
 
 Los plazos procesales serán improrrogables y comenzarán a correr al día siguiente de su notificación; se contarán en días hábiles, con excepción de que se trate de la declaración inicial y de resolver sobre la vinculación a proceso.
 
-El Juzgador podrá dictar de oficio los trámites y providencias encaminados a que la justicia sea pronta y expedita, en el marco de los principios rectores del sistema.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+El Juzgador podrá dictar de oficio y a petición fundada de parte, los trámites y providencias encaminados a que la justicia sea pronta y expedita, en el marco de los principios rectores del sistema y disposiciones que establece esta Ley.
 
 ###### Artículo 18.
 
@@ -397,13 +537,17 @@ II. El adolescente es detenido inmediatamente después de haberla cometido;
 
 En caso de que se requiera la formulación de querella para la persecución de la conducta por la que el adolescente fuera detenido, se decretará la retención del mismo, hasta por un plazo de seis horas; si al término de dicho plazo la querella no se hubiere formulado, se le dejará en inmediata libertad.
 
-Sólo en casos urgentes, cuando se trate de conducta considerada como delito por las leyes del Estado y calificada como grave, ante el riesgo fundado de que el adolescente pueda sustraerse a la acción de la justicia, si no se puede ocurrir ante la autoridad judicial por razón de la hora, lugar o circunstancia, el Ministerio Público, bajo su responsabilidad, podrá ordenar su detención, fundando y expresando los indicios que motiven su proceder.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Sólo en casos urgentes, cuando se trate de conducta considerada como delito por las leyes del Estado y calificada como grave según el Código Nacional de Procedimientos Penales o cuando, ante el riesgo fundado de que el adolescente pueda sustraerse a la acción de la justicia, si no se puede ocurrir ante la autoridad judicial por razón de la hora, lugar o circunstancia, el Ministerio Público, bajo su responsabilidad, podrá ordenar su detención, fundando y expresando los indicios que motiven su proceder.
 
 Cuando el Ministerio Público decrete una detención por flagrancia o caso urgente, al momento de realizar la remisión al Juez, deberá proporcionar todos los datos relativos a tal medida cautelar, así como los elementos que consideró para ordenarla.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 27.
 
-El Ministerio Público realizará la remisión del expediente de investigación, mediante acta circunstanciada en la que se hará constar por escrito:
+El Ministerio Público remitirá el caso a través de acta circunstanciada en la que hará constar lo siguiente:
 
 I. La autoridad que deba conocer, según la calificación de la conducta sancionable, en los términos del artículo 7 de la presente Ley;
 
@@ -419,9 +563,11 @@ VI. Los datos y elementos de convicción, así como la enunciación de la eviden
 
 VII. La solicitud de que se gire orden de comparecencia o de detención, según proceda.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 28.
 
-El Ministerio Público podrá archivar las investigaciones en las que no existan elementos suficientes para proceder y no se puedan practicar otras diligencias en ese sentido o cuando no se hubiera determinado quiénes hayan podido intervenir en los hechos, sin perjuicio de ordenar la reapertura de las investigaciones, si aparecieren nuevos elementos de convicción que así lo justifiquen, siempre que no haya operado la prescripción.
+El Ministerio Público podrá archivar las investigaciones en términos del Código Nacional de Procedimientos Penales; temporalmente aquéllas de las que no se desprendan elementos suficientes para proceder y no se puedan practicar otras diligencias en ese sentido o cuando no se hubiera determinado quiénes hayan podido intervenir en los hechos, sin perjuicio de ordenar la reapertura de las investigaciones, si aparecieren nuevos elementos de convicción que así lo justifiquen, siempre que no haya operado la prescripción.
 
 ###### Artículo 29.
 
@@ -515,29 +661,29 @@ Cuando se trate de conductas que no estén previstas en el catálogo anterior, p
 
 #### Sección Segunda. De la fase inicial
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 35.
 
-Hecha la remisión del expediente de investigación, el Juez de Preparación de Juicio hará la radicación de inmediato a efecto de citar, en su caso, a la audiencia de vinculación a proceso, a la que deberán concurrir el Ministerio Público, el adolescente presunto responsable asistido de su defensor, los coadyuvantes y, en su caso, quienes ejerzan la patria potestad, tutela o custodia del adolescente, cuando así se solicite.
+Remitido el caso, el Juez de Preparación de Juicio hará la radicación de inmediato a efecto de citar, en su caso, a la audiencia inicial, a la que deberán concurrir el Ministerio Público, el adolescente imputado asistido de su defensor, los coadyuvantes y, en su caso, quienes ejerzan patria potestad, tutela o custodia del adolescente, cuando así se solicite.
 
-En la audiencia de vinculación a proceso, si el adolescente desea hacerlo se recibirá su declaración inicial y se determinará sobre la procedencia de medidas cautelares, si el Ministerio Público las solicitare.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 36.
 
-Para la celebración de la audiencia de vinculación a proceso, si el adolescente no se encontrara detenido, el Juez podrá emitir, a solicitud del Ministerio Público:
+Para la celebración de la audiencia inicial, si el adolescente no se encontrara detenido, el Juez podrá emitir, a solicitud del Ministerio Público:
 
-I. Orden de comparecencia, en los casos en los que la conducta de que se trate no merezca medida de internamiento, para lo cual, mediante actuario, lo citará el día y hora fijado para la celebración de la audiencia de vinculación a proceso, la que deberá efectuarse en un plazo no mayor de cinco días.
+I. Orden de comparecencia, en los casos en los que la conducta de que se trate no merezca medida de internamiento, para lo cual, mediante actuario, lo citará el día y hora fijado para la celebración de la audiencia inicial, la que deberá efectuarse en un plazo no mayor de cinco días. En caso de no comparecer voluntariamente, podrá hacerlo comparecer con el auxilio de la fuerza pública; y
 
-En caso de no comparecer voluntariamente, podrá hacerlo comparecer con el auxilio de la fuerza pública; y
+II. Orden de detención, ejecutada mediante el auxilio de la fuerza pública, cuando la conducta que se investiga merezca medida de internamiento, en los casos de detención preventiva oficiosa o cuando se advierta necesidad de cautela, en términos de la Constitución Política de los Estados Unidos Mexicanos y del Código Nacional de Procedimientos Penales.
 
-II. Orden de detención, ejecutada mediante el auxilio de la fuerza pública, cuando la conducta que se investiga merezca medida de internamiento.
+Lograda la detención del adolescente, el Juez citará a la audiencia inicial, que deberá efectuarse en un plazo no mayor a veinticuatro horas, contadas a partir de que el adolescente es puesto a disposición del Juez.
 
-Lograda la detención del adolescente, el Juez citará a la audiencia de sujeción a proceso, que deberá efectuarse en un plazo no mayor a veinticuatro horas, contadas a partir de que el adolescente es puesto a disposición del Juez.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 37.
 
-Si la remisión es con detenido, a la mayor brevedad y dentro de las veinticuatro horas siguientes, el Juez deberá examinar la legalidad de la detención; en caso de que ésta resultare improcedente, decretará su libertad. Si ratificare la detención, deberá celebrar la audiencia de vinculación a proceso de inmediato.
-
-En todos los casos se resolverá si se vincula o no a proceso al adolescente, dentro de un plazo que no deberá exceder de setenta y dos horas, contadas a partir de la puesta a disposición.
+Si la remisión es con detenido, a la mayor brevedad y dentro de las veinticuatro horas siguientes, el Juez deberá celebrar audiencia de control de detención en la que se examinará su legalidad; en caso de que ésta resultare improcedente, decretará su libertad y en caso contrario deberá celebrar de inmediato, la audiencia para formular imputación.
 
 ###### Artículo 38.
 
@@ -545,7 +691,9 @@ Los procedimientos en los que se ven involucrados adolescentes, son de interés 
 
 En función de lo anterior y para salvaguardar plenamente el derecho que tienen a ser escuchados, su declaración inicial debe ser voluntaria, necesaria, pronta, breve y eficiente. Las mismas reglas se observarán, en lo aplicable, en las entrevistas que voluntariamente tenga el adolescente con el Ministerio Público.
 
-La audiencia de vinculación a proceso será oral y continua. El Juez procurará que en todo momento el adolescente esté debidamente informado de las acusaciones en su contra y las consecuencias jurídicas de las mismas; concederá el uso de la voz al Ministerio Público para que exponga los cargos que presenta en contra del adolescente y las solicitudes hechas al juzgador. Las partes tendrán derecho a manifestar lo que a su derecho convenga, sin más límite que el respeto al turno que el juez conceda y la racionalidad en el uso del tiempo. A continuación, el Juez dictará la resolución correspondiente, pudiendo señalar un receso máximo de una hora cuando la complejidad del asunto lo amerite. El Juez vinculará a proceso, cuando estime que existen elementos suficientes para ir a juicio, es decir, que obren datos que establezcan que se ha cometido una conducta sancionable y que exista la probabilidad de que el adolescente haya participado en la misma. Contra esta resolución no procede recurso alguno.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+La audiencia inicial que comprende, en su caso, control de detención, formulación de imputación, discusión de medidas cautelares y vinculación a proceso, será oral y continua. El Juez procurará que en todo momento el adolescente esté debidamente informado de las imputaciones en su contra y las consecuencias jurídicas de las mismas; en la vinculación a proceso, concederá el uso de la voz al Ministerio Público para que exponga los cargos que presenta en contra del adolescente y las solicitudes hechas al juzgador. Las partes tendrán derecho a manifestar lo que a su derecho convenga, sin más límite que el respeto al turno que el juez conceda y la racionalidad en el uso del tiempo. A continuación, el Juez dictará la resolución correspondiente, pudiendo señalar un receso máximo de una hora cuando la complejidad del asunto lo amerite. El Juez vinculará a proceso, cuando estime que existen elementos suficientes para ir a juicio, es decir, que obren datos que establezcan que se ha cometido una conducta sancionable y que exista la probabilidad de que el adolescente haya participado en la misma. Contra esta resolución procede el recurso de apelación.
 
 ###### Artículo 39.
 
@@ -575,9 +723,11 @@ El Juez podrá dictar las órdenes necesarias para garantizar el cumplimiento de
 
 Cuando lo estime necesario, el Juez podrá ordenar la valoración interdisciplinaria del adolescente, pero cuando se trate de conducta grave siempre deberá ordenarla.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 40.
 
-La detención preventiva debe aplicase (sic) sólo cuando la conducta de que se trate sea grave y la persona a quien se atribuya sea mayor de catorce años de edad al momento de cometerla.
+La detención preventiva debe aplicase (sic) sólo cuando la conducta de que se trate lo amerite de manera oficiosa o cuando el Ministerio Público acredite necesidad de cautela y la persona a quien se atribuya sea mayor de catorce años de edad al momento de cometerla.
 
 ###### Artículo 41.
 
@@ -650,6 +800,14 @@ Cuando el adolescente renuncie a su derecho a no declarar dicha renuncia operar�
 ###### Artículo 45.
 
 Quienes no puedan hablar o no lo puedan hacer en español, formularán sus preguntas o contestaciones por escrito o por medio de intérprete o traductor, leyéndose o relatándose las preguntas o las contestaciones en la audiencia, conforme a lo prescrito por esta Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Si se trata de una persona con algún tipo de discapacidad, tiene derecho a que se le facilite un intérprete o aquellos medios tecnológicos que le permitan obtener de forma comprensible la información solicitada o, a falta de éstos, a alguien que sepa comunicarse con ella. En los actos de comunicación, los órganos jurisdiccionales deberán cerciorarse que la persona con discapacidad ha sido informada de las actuaciones y decisiones judiciales que deba conocer y de que comprende su alcance. Para ello, deberá utilizarse el medio que, según el caso, garantice que tal comprensión exista.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Cuando a solicitud fundada de la persona con discapacidad o a juicio de la autoridad competente sea necesario adoptar otras medidas para salvaguardar su derecho a ser debidamente asistida, la persona con discapacidad podrá recibir asistencia en materia de estenografía proyectada, en los términos de la ley de la materia, por un intérprete de lengua de señas o a través de cualquier otro medio que permita un entendimiento cabal de todas y cada una de las actuaciones.
 
 En caso de manifiesto abuso de la palabra, el Juez llamará la atención a la parte que esté haciendo uso de ella y si persiste, podrá limitar racionalmente el tiempo de la intervención, según la naturaleza y complejidad de los hechos en examen, las pruebas recibidas y las cuestiones a resolver.
 
@@ -739,17 +897,27 @@ Los procedimientos alternativos al juzgamiento responden a los principios de sub
 
 #### Sección Segunda. De la conciliación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 56.
 
-Procederá la conciliación, cuando se trate:
+Procederán los mecanismos alternos de solución de controversias, cuando se trate:
 
-I. De los casos previstos por la fracción II del artículo 7 de la presente ley y no se consideren graves, en los términos del Código de Procedimientos Penales del Estado de Querétaro;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+I. De los casos previstos por la fracción II del artículo 7 de la presente Ley y no se consideren graves, en los términos del Código Nacional de Procedimientos Penales;
 
 II. De conductas que se persigan a petición de parte; y
 
-III. De las que persiguiéndose de oficio, sean de carácter patrimonial y no se consideren graves en los términos del Código de Procedimientos Penales del Estado de Querétaro, siempre que se garantice la reparación del daño.
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+III. De las que persiguiéndose de oficio, sean de carácter patrimonial, ejecutados sin violencia y no se consideren graves en los términos del Código Nacional de Procedimientos Penales, siempre que se garantice la reparación del daño.
 
 En los casos de querella, es obligación del Ministerio Público proponer y, en su caso, realizar la conciliación. En los demás casos se realizará ante el Juez que corresponda, siempre a petición de parte.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+No procederá la conciliación, cuando se trate de delitos de violencia familiar.
 
 ###### Artículo 57.
 
@@ -757,7 +925,9 @@ La conciliación, como acto jurídico voluntario realizado entre el adolescente 
 
 Para conciliar, se podrá recurrir al asesoramiento y al auxilio de personas o entidades especializadas en la procuración de acuerdos entre las partes en conflicto. Los conciliadores deberán guardar secreto sobre lo que conozcan en las deliberaciones y discusiones de las partes.
 
-La autoridad no aprobará la conciliación cuando tenga fundados motivos para estimar que alguno de los participantes no está en condiciones de igualdad para negociar o ha actuado bajo coacción o amenaza.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+La autoridad no aprobará la conciliación cuando tenga fundados motivos para estimar que alguno de los participantes no está en condiciones de igualdad para negociar, que ha actuado bajo coacción o amenaza o cuando las obligaciones que se pretenden contraer resulten notoriamente desproporcionadas.
 
 ###### Artículo 58.
 
@@ -777,9 +947,11 @@ No se podrá invocar, dar lectura, ni incorporar como medio de prueba ningún an
 
 #### Sección Tercera. De la suspensión a prueba
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 61.
 
-En los casos de conductas tipificadas como delito en las leyes del Estado, salvo las contempladas en las fracciones I, III, V, VI, VIII (cuando el valor de lo robado exceda de 600 veces el salario mínimo en los supuestos en que el Código Penal del Estado de Querétaro lo establezca como conducta agravante o dentro del capítulo denominado Posesión, alteración, comercialización o disposición de vehículos o autopartes de procedencia ilícita) y XVII del artículo 34 de la presente Ley, procederá la suspensión a prueba al adolescente, siempre que:
+En los casos de conductas tipificadas como delito en las leyes del Estado, salvo las que ameriten detención preventiva oficiosa o en aquellos en los que el Ministerio Público acredite que existe necesidad de cautela según el Código Nacional de Procedimientos Penales, procederá la suspensión a prueba al adolescente, siempre que:
 
 I. No se le haya concedido este beneficio con anterioridad;
 
@@ -827,6 +999,10 @@ Para fijar las condiciones, el Juez oirá al Ministerio Público, quien solicita
 
 En los casos suspendidos, en virtud de las disposiciones correspondientes a esta sección, el juzgador tomará las medidas necesarias para evitar la pérdida, destrucción o ineficacia de los medios de prueba conocidos y las que soliciten las partes.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Hasta en tanto no sea revocada, la suspensión a prueba interrumpirá los plazos para la prescripción de la acción penal del delito de que se trate.
+
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 64.
@@ -869,21 +1045,23 @@ VII. La resolución se notificará a la Dirección General de Reinserción Socia
 
 ### Capítulo Único. Del procedimiento
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 68.
 
-En los casos de conductas sancionables, cometidas por personas menores de doce años de edad o por las señaladas en la fracción III del artículo 8 de esta Ley, conocerá la Procuraduría de la Defensa del Menor y la Familia, a efecto de resolver sobre la imposición de medidas para la rehabilitación y asistencia social.
-
-La Procuraduría de la Defensa del Menor y la Familia, tendrá facultades suficientes para obtener el apoyo de la familia y de la comunidad en el tratamiento de los niños, adecuándolo a las características propias de cada uno de éstos, de su familia y de su entorno social, con el objeto de lograr su autoestima, a través del desarrollo de sus potenciales y de la autodisciplina necesaria para propiciar en el futuro el equilibrio entre sus condiciones de vida individual, familiar y colectiva, así como para modificar los factores negativos de su estructura biopsicosocial para favorecer un desarrollo armónico, útil y sano.
+En los casos de conductas sancionables, cometidas por personas menores de doce años de edad o por las señaladas en la fracción III del artículo 8 de esta Ley, conocerá la Procuraduría de la Defensa del Menor y la Familia, a efecto de resolver sobre la imposición o no de medidas para su rehabilitación y asistencia social. En caso de que se determine como improcedente la imposición de medidas al niño, se dictará resolución debidamente fundada y motivada.
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2014)</small>
 
+La Procuraduría de la Defensa del Menor y la Familia, tendrá facultades suficientes para obtener el apoyo de la familia y de la comunidad en el tratamiento de los niños, adecuándolo a las características propias de cada uno de éstos, de su familia y de su entorno social, con el objeto de lograr su autoestima, a través del desarrollo de sus potenciales y de la autodisciplina necesaria para propiciar en el futuro el equilibrio entre sus condiciones de vida individual, familiar y colectiva, así como para modificar los factores negativos de su estructura biopsicosocial para favorecer un desarrollo armónico, útil y sano.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 69.
 
-El Ministerio Público hará la remisión del expediente a la Procuraduría de la Defensa del Menor y la Familia, mediante acta circunstanciada, por escrito, que contenga los datos de la victima u ofendido y del niño involucrado, así como una descripción de los hechos y de las circunstancias de lugar, tiempo y modo que hagan posible la evaluación de la conducta del menor.
+El Ministerio Público practicará las diligencias indispensables e inmediatamente hará la remisión de la carpeta a la Procuraduría de la Defensa del Menor y la Familia, mediante acta circunstanciada, por escrito, que contenga los datos de la víctima u ofendido y del niño involucrado, así como una descripción de los hechos y de las circunstancias de lugar, tiempo y modo que hagan posible la evaluación de la conducta del menor.
 
-Recibida la información se abrirá el expediente que corresponda, procediendo a citar a quienes ejerzan la patria potestad, tutela o custodia y al niño, señalando las audiencias necesarias para resolver sobre la sujeción de programas de rehabilitación y determinar las medidas de asistencia social que se otorgarán.
+Recibida la información se abrirá el expediente que corresponda, citará a quienes ejerzan la patria potestad, tutela o custodia del niño, y de ser procedente, señalará las audiencias necesarias para resolver sobre la sujeción de programas de rehabilitación y determinar las medidas de asistencia social que, en su caso, se otorgarán.
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2014)</small>
 
@@ -1545,9 +1723,11 @@ La resolución que recaiga será ejecutada, a menos que el recurso haya sido int
 
 #### Sección Tercera. Del recurso de apelación
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 136.
 
-El recurso de apelación procederá contra las resoluciones dictadas por el Juez, siempre que causen agravio irreparable, pongan fin a la acción o imposibiliten que ésta continúe.
+El recurso de apelación procederá contra las resoluciones dictadas por el Juez, en su caso, en los supuestos de procedencia a los que se refiere el Código Nacional de Procedimientos Penales o cuando causen agravio irreparable, pongan fin a la acción o imposibiliten que ésta continúe.
 
 ###### Artículo 137.
 
@@ -1652,3 +1832,9 @@ P.O. 4 DE JULIO DE 2014.
 Artículo Primero. La Presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 29 DE NOVIEMBRE DE 2014.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
