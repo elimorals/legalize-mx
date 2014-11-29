@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-ejecutivo-del-estado-de-queretaro-65079"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-17"
-last_updated: "2014-03-12"
+last_updated: "2014-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -181,7 +181,7 @@ X. La Secretaría de Salud;
 
 XI. La Oficialía Mayor;
 
-XII. La Procuraduría General de Justicia, y (sic)
+XII. La Procuraduría General de Justicia, y
 
 XIII. La Secretaría de Seguridad Ciudadana;
 
@@ -849,9 +849,17 @@ XVIII. Programar y desarrollar actividades recreativas y de integración familia
 
 XIX. Coordinar funcionalmente las áreas de apoyo administrativo del Poder Ejecutivo del Estado;
 
-XX. Ejercer la facultad económico-coactiva conforme a las leyes aplicables; y
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XXI. Las demás facultades y obligaciones que le señalan las leyes y reglamentos vigentes en el Estado.
+XX. Ejercer la facultad económica-coactiva conforme a las leyes aplicables;
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XXI. Representar legalmente y llevar a cabo la defensa de los intereses del Estado en los procedimientos contenciosos en materia laboral en que sea parte, independiente de la intervención que por disposición de otros ordenamientos corresponda a otras dependencias, entidades, organismos o áreas; y
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XXII. Las demás facultades y obligaciones que le señalen las leyes y reglamentos vigentes en el Estado.
 
 ### Capítulo Décimo Tercero. De la Secretaría de Seguridad Ciudadana
 
@@ -1133,7 +1141,7 @@ P.O. 5 DE JULIO DE 2013.
 
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
-Artículo Segundo. El Gobernador del Estado nombrará al Director General del Instituto Queretano del Transporte, dentro los (sic) 10 diez días naturales siguientes al de la entrada en vigor de la presente Ley.
+Artículo Segundo. El Gobernador del Estado nombrará al Director General del Instituto Queretano del Transporte, dentro (sic) los 10 diez días naturales siguientes al de la entrada en vigor de la presente Ley.
 
 Artículo Tercero. En tanto se expide el nombramiento de Director General del Instituto, asumirá dichas funciones, en carácter de encargado de despacho, el Director de Transporte de la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro.
 
@@ -1178,3 +1186,13 @@ Artículo Cuarto. El personal que a la entrada en vigor de la presente Ley se en
 Artículo Quinto. Se reconoce la titularidad de las relaciones laborales colectivas al Sindicato Nacional de Trabajadores de la Educación, en términos de su registro vigente y de acuerdo con las disposiciones legales correspondientes.
 
 Artículo Sexto. Las autoridades competentes respetarán íntegramente los derechos de los trabajadores de la Educación, la normatividad señalada en el Acuerdo Nacional para la Modernización de la Educación Básica y los convenios firmados con el Sindicato Nacional de Trabajadores de la Educación, en tanto no contravengan las disposiciones de la presente Ley y de las Leyes Federales aplicables.
+
+P.O. 29 DE NOVIEMBRE DE 2014.
+
+Artículo Primero. EI (sic) presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Para los efectos legales a que haya lugar, la Oficialía Mayor del Poder Ejecutivo del Estado de Querétaro, sustituirá a la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro en los procedimientos contenciosos en materia laboral a que se refiere esta Ley, así como en los actos jurídicos derivados y también de los que se deriven de tales juicios, que se inicien en forma posterior a la entrada en vigor de esta Ley.
+
+Artículo Cuarto. Dentro de los 90 días naturales siguientes a la entrada en vigor de la presente Ley, deberán realizarse las adecuaciones que correspondan a los reglamentos interiores de la Secretaría de Gobierno y de la Oficialía Mayor, respectivamente, para armonizarlos con la presente Ley.
