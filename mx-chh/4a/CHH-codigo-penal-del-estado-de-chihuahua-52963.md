@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2014-11-15"
+last_updated: "2014-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # CODIGO PENAL DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2014.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -301,13 +303,13 @@ Autoría indeterminada
 
 Cuando varios sujetos, sin concierto alguno, intervengan en la comisión de un delito, y no pueda precisarse el daño que cada quien produjo, para su punibilidad se estará a lo previsto en el artículo 79 de este Código.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 26.
 
-Responsabilidad de las personas morales
+Responsabilidad de las personas jurídicas.
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2011)</small>
-
-Para los efectos de este Código, sólo pueden ser penalmente responsables las personas físicas. Sin embargo, cuando un miembro o representante de una persona moral, con excepción de las instituciones públicas del Estado, cometa algún delito con los medios que para delinquir, la misma persona moral le proporcione, de modo que el delito resulte cometido a su nombre y bajo el amparo o en beneficio de aquélla, el Juzgador impondrá en la sentencia, previo el procedimiento correspondiente y con intervención del representante legal, las consecuencias jurídicas accesorias previstas en el artículo 64 de este Código para dichas personas, independientemente de la responsabilidad en que hubieren incurrido las personas físicas por los delitos cometidos.
+Para los efectos de este Código, sólo pueden ser penalmente responsables las personas físicas. Sin embargo, cuando un miembro o representante de una persona jurídica, con excepción de las instituciones públicas del Estado, cometa algún delito con los medios que para delinquir, la misma persona jurídica le proporcione, de modo que el delito resulte cometido a su nombre y bajo el amparo o en beneficio de aquélla, el Juzgador impondrá en la sentencia, previo el procedimiento correspondiente y con intervención del representante legal, las consecuencias jurídicas accesorias previstas en el artículo 64 de este Código para dichas personas, independientemente de la responsabilidad en que hubieren incurrido las personas físicas por los delitos cometidos.
 
 ### CAPÍTULO IV. CONCURSO DE DELITOS
 
@@ -367,15 +369,17 @@ Si los errores a que se refieren los incisos anteriores son vencibles, se estar�
 
 IX. (Inexigibilidad de otra conducta). En atención a las circunstancias que concurren en la realización de una conducta ilícita, no sea racionalmente exigible al sujeto una conducta diversa a la que realizó, en virtud de no haberse podido conducir conforme a derecho;
 
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-Las causas que excluyen el delito se resolverán de oficio, en cualquier etapa del procedimiento. El Ministerio Público podrá resolverlas desde el inicio de la investigación si cuenta con los elementos para hacerlo, siendo dicha resolución revisable por el Juez de Garantía en los términos del artículo 227 del Código de Procedimientos Penales.
+Las causas que excluyen el delito se resolverán de oficio, en cualquier etapa del procedimiento. El Ministerio Público podrá resolverlas desde el inicio de la investigación si cuenta con los elementos para hacerlo, siendo dicha resolución revisable por el Juez de Control en los términos del artículo 258 del Código Nacional de Procedimientos Penales.
 
 Si en los casos de las fracciones IV, V y VI de este artículo el sujeto se excediere, se estará a lo previsto en el artículo 80 de este Código.
 
 ## TÍTULO TERCERO. CONSECUENCIAS JURÍDICAS DEL DELITO
 
-### CAPÍTULO I. CATÁLOGO DE PENAS Y MEDIDAS DE SEGURIDAD Y DE CONSECUENCIAS JURÍDICAS PARA LAS PERSONAS MORALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO I. CATÁLOGO DE PENAS Y MEDIDAS DE SEGURIDAD Y DE CONSECUENCIAS JURÍDICAS PARA LAS PERSONAS JURÍDICAS
 
 ###### Artículo 29.
 
@@ -423,11 +427,15 @@ II. Tratamiento de inimputables o imputables disminuidos; y
 
 III. Tratamiento de deshabituación o desintoxicación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 31.
 
-Consecuencias para las personas morales
+Consecuencias para las personas jurídicas.
 
-Las consecuencias jurídicas accesorias aplicables a las personas morales que se encuentren en los supuestos previstos en el artículo 26 de este Código, son:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Las consecuencias legales accesorias aplicables a las personas jurídicas que se encuentren en los supuestos previstos en el artículo 26 de este Código, son:
 
 I. Suspensión;
 
@@ -641,27 +649,25 @@ Tienen derecho a la reparación del daño:
 
 I. La víctima:
 
-a) El directamente afectado por el delito;
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+a) El sujeto pasivo que resiente directamente sobre su persona la afectación producida por la conducta delictiva;
 
 b) Las agrupaciones, en los delitos que afectan intereses colectivos o difusos, siempre que su objeto se vincule directamente con esos intereses; o
 
 c) Las comunidades indígenas, en los hechos punibles que impliquen discriminación o genocidio respecto de sus miembros o generen regresión demográfica, depredación de su hábitat, contaminación ambiental, explotación económica o alienación cultural.
 
-II. En caso de muerte de la víctima, los ofendidos, con el presente orden de prelación:
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-a) El cónyuge, concubinario o la persona que hubiere vivido de forma permanente con la víctima durante, por lo menos, dos años anteriores al hecho;
+II. El ofendido:
 
-b) Los dependientes económicos;
+a) La persona física o moral titular del bien jurídico lesionado o puesto en peligro por la acción u omisión prevista en la ley penal como delito;
 
-c) Los descendientes consanguíneos o civiles;
+b) En los delitos cuya consecuencia fuera la muerte de la víctima o en el caso en que ésta no pudiera ejercer personalmente los derechos que este Código le otorga, se considerarán como ofendidos, en el siguiente orden, el o la cónyuge, la concubina o concubinario, el conviviente, los parientes por consanguinidad en la línea recta ascendente o descendente sin limitación de grado, por afinidad y civil, o cualquier otra persona que tenga relación afectiva con la víctima;
 
-d) Los ascendientes consanguíneos o civiles; o
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-e) Los parientes colaterales, consanguíneos o civiles, hasta el segundo grado.
-
-> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2011)</small>
-
-III. Las personas morales de derecho público que hubieren realizado erogaciones con motivo del hecho ilícito.
+III. Las personas jurídicas de derecho público que hubieren realizado erogaciones con motivo del hecho ilícito.
 
 ###### Artículo 47.
 
@@ -829,23 +835,35 @@ Aplicación y alcances
 
 Cuando el sujeto haya sido sentenciado por un delito cuya comisión haya sido determinada por la adicción en el uso de bebidas alcohólicas, estupefacientes, psicotrópicos o sustancias que produzcan efectos similares, independientemente de la pena que corresponda, se le aplicará tratamiento de deshabituación o desintoxicación, el cual no podrá exceder del término de la pena impuesta por el delito cometido, ni ser inferior a un año.
 
-### CAPÍTULO XVI. SUSPENSIÓN, DISOLUCIÓN, PROHIBICIÓN DE REALIZAR DETERMINADAS OPERACIONES, REMOCIÓN E INTERVENCIÓN DE PERSONAS MORALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO XVI
+
+SUSPENSIÓN, DISOLUCIÓN, PROHIBICIÓN DE REALIZAR DETERMINADAS OPERACIONES, REMOCIÓN E INTERVENCIÓN DE PERSONAS JURÍDICAS.
 
 ###### Artículo 64.
 
 Definición y duración
 
-Las consecuencias jurídicas que se podrán imponer a las personas morales son las siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-I. Suspensión.- Consiste en la cesación de la actividad de la persona moral durante el tiempo que determine la autoridad judicial, la cual no podrá exceder de dos años.
+Las consecuencias legales que se podrán imponer a las personas jurídicas son las siguientes:
 
-II. Disolución.- Consiste en la conclusión definitiva de toda actividad social de la persona moral, además de la imposibilidad de constituir una nueva sociedad con el mismo objeto social e integrantes.
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+I. Suspensión.- Consiste en la cesación de la actividad de la persona jurídica durante el tiempo que determine la autoridad judicial, la cual no podrá exceder de dos años.
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+II. Disolución.- Consiste en la conclusión definitiva de toda actividad social de la persona jurídica, además de la imposibilidad de constituir una nueva sociedad con el mismo objeto social e Integrantes.
 
 III. Prohibición de realizar determinados negocios u operaciones.- Se refiere exclusivamente a los que determine la autoridad judicial, que deberán tener relación directa con el delito cometido, y podrá ser hasta por cinco años.
 
 IV. Remoción.- Consiste en la sustitución de los administradores por uno designado por la autoridad judicial, durante un período máximo de tres años.
 
-V. Intervención.- Consiste en la vigilancia de las funciones que realizan los órganos de representación de la persona moral, hasta por tres años.
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+V. Intervención.- Consiste en la vigilancia de las funciones que realizan los órganos de representación de la persona jurídica, hasta por tres años.
 
 ## TÍTULO CUARTO. APLICACIÓN DE PENAS Y MEDIDAS DE SEGURIDAD
 
@@ -865,33 +883,47 @@ Fijación de la pena en delito consumado
 
 Cuando la ley establece una pena se entiende que la impone a los autores o partícipes del delito consumado.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 67.
 
-Criterios de individualización
+Criterios de Individualización
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2009)</small>
+Dentro de los márgenes de punibilidad establecidos en la ley penal, el Tribunal de enjuiciamiento individualizará la sanción tomando como referencia la gravedad de la conducta típica y antijurídica, así como el grado de culpabilidad del sentenciado.
 
-La autoridad judicial, al dictar sentencia condenatoria, determinará la pena y medida de seguridad establecida para cada delito y las individualizará dentro de los límites señalados, en proporción a la gravedad del ilícito, al grado de culpabilidad del agente, y al bien jurídico afectado, tomando en cuenta:
+I. La gravedad de la conducta típica y antijurídica estará determinada por:
 
-I. La naturaleza de la acción u omisión y los medios empleados para ejecutarla;
+a) El valor del bien jurídico;
 
-II. La magnitud del daño causado al bien jurídico o del peligro en que éste fue colocado;
+b) Su grado de afectación;
 
-III. Las circunstancias de tiempo, lugar, modo y ocasión del hecho realizado;
+c) La naturaleza dolosa o culposa de la conducta;
 
-IV. La forma y grado de intervención del agente en la comisión del delito; los vínculos de parentesco, amistad o relación entre el activo y el pasivo, así como su calidad y la de la víctima u ofendido;
+d) Los medios empleados;
 
-V. Los usos y costumbres, cuando el procesado sea miembro de un pueblo o comunidad indígena, se tomarán en cuenta, sus usos y costumbres;
+e) Las circunstancias de tiempo, modo, lugar u ocasión del hecho;
 
-VI. Los motivos que lo impulsaron o determinaron a delinquir;
+f) La forma de intervención del sentenciado.
 
-VII. Las condiciones fisiológicas y psíquicas específicas en que se encontraba el activo en el momento de la comisión del delito;
+Las medidas de seguridad no accesorias a la pena y las consecuencias jurídicas aplicables a las personas morales, serán individualizadas tomando solamente en consideración la gravedad de la conducta típica y antijurídica.
 
-VIII. Las condiciones particulares del género;
+II. El grado de culpabilidad estará determinado por el juicio de reproche, según el sentenciado haya tenido, bajo las circunstancias y características del hecho, la posibilidad concreta de comportarse de distinta manera y de respetar la norma jurídica quebrantada.
 
-IX. Las circunstancias del activo y pasivo antes y durante la comisión del delito, que sean relevantes para individualizar la sanción, así como el comportamiento posterior del acusado con relación al delito cometido; y
+Para determinar el grado de culpabilidad también se tomarán en cuenta:
 
-X. Las demás circunstancias especiales del agente, que sean relevantes para determinar la posibilidad que tuvo de haber ajustado su conducta a las exigencias de la norma.
+a) Los motivos que impulsaron la conducta del sentenciado;
+
+b) Las condiciones fisiológicas y psicológicas específicas en que se encontraba en el momento de la comisión del hecho;
+
+c) La edad, el nivel educativo, las costumbres, las condiciones sociales y culturales;
+
+d) Los vínculos de parentesco, amistad o relación que guarde con la víctima u ofendido;
+
+e) Las demás circunstancias especiales del sentenciado, víctima u ofendido, siempre que resulten relevantes para la individualización de la sanción.
+
+Si en un mismo hecho intervinieron varias personas, cada una de ellas será sancionada de acuerdo con el grado de su propia culpabilidad.
+
+Cuando el sentenciado pertenezca a un grupo étnico o pueblo indígena se tomarán en cuenta, además de los aspectos anteriores, sus usos y costumbres.
 
 ###### Artículo 68.
 
@@ -939,11 +971,13 @@ Circunstancias particulares del ofendido
 
 No es imputable al acusado el aumento de gravedad proveniente de circunstancias particulares del ofendido, si las ignoraba inculpablemente al cometer el delito.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 71.
 
 Circunstancias personales y subjetivas
 
-El aumento o la disminución de la pena, fundados en las relaciones personales o en las circunstancias subjetivas del autor de un delito, no son aplicables a los demás sujetos que intervinieron en aquél. Son aplicables las que se funden en circunstancias objetivas, si los demás sujetos tienen conocimiento de ellas.
+El aumento o la disminución de la pena, fundados en las relaciones personales o en las circunstancias subjetivas del autor de un delito, no serán aplicables a los demás sujetos que intervinieron en aquél. Sí serán aplicables las que se fundamenten en circunstancias objetivas, siempre que los demás sujetos tengan conocimiento de ellas.
 
 ###### Artículo 72.
 
@@ -999,19 +1033,23 @@ En la aplicación de las penas o medidas de seguridad a que se refiere este art�
 
 ### CAPÍTULO IV. PUNIBILIDAD EN EL CASO DE CONCURSO DE DELITOS Y DELITO CONTINUADO
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 76.
 
 Sanción en concurso de delitos
 
-En caso de concurso ideal, se impondrán las sanciones correspondientes al delito que merezca la mayor penalidad, las cuales podrán aumentarse sin rebasar la mitad del máximo de la duración de las penas correspondientes de los delitos restantes, si las sanciones aplicables son de la misma naturaleza; cuando sean de diversa naturaleza podrán imponerse las penas correspondientes a los restantes delitos. En ningún caso, la pena aplicable podrá exceder de los máximos señalados en el Título Tercero del Libro Primero de este Código.
+En caso de concurso ideal, se impondrán las sanciones correspondientes al delito que merezca la mayor penalidad, las cuales podrán aumentarse sin rebasar la mitad del máximo de la duración de las penas correspondientes de los delitos restantes, siempre que las sanciones aplicables sean de la misma naturaleza; cuando sean de diversa naturaleza, podrán imponerse las consecuencias jurídicas señaladas para los restantes delitos. En ningún caso, la pena aplicable podrá exceder de los máximos señalados en el Titulo Tercero del Libro Primero de este Código.
 
-En caso de concurso real, se impondrá la pena del delito que merezca la mayor, la cual podrá aumentarse con las penas que la ley contempla para cada uno de los delitos restantes, sin que exceda del máximo señalado en el artículo 32 de este Código.
+En caso de concurso real se impondrá la sanción del delito más grave, la cual podrá aumentarse con las penas que la ley contempla para cada uno de los delitos restantes, sin que exceda del máximo señalado en el artículo 32 de este Código.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 77.
 
 Punibilidad del delito continuado
 
-En caso de delito continuado, se aumentarán en una mitad las penas que la ley prevea para el delito cometido.
+No habrá concurso cuando las conductas constituyan un delito continuado; sin embargo, en estos casos se aumentará la sanción penal hasta en una mitad de la correspondiente al máximo del delito cometido.
 
 ### CAPÍTULO V. PUNIBILIDAD DE LA COMPLICIDAD, AUXILIO EN CUMPLIMIENTO DE PROMESA ANTERIOR Y AUTORÍA INDETERMINADA
 
@@ -1045,9 +1083,9 @@ Al que incurra en exceso, en los casos previstos en las fracciones IV, V y VI de
 
 Sustitución de la prisión
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-El Juez de Garantía, o el Tribunal de Juicio Oral, considerando los resultados de los estudios de personalidad que emita la Fiscalía, podrá sustituir la pena de prisión, en los términos siguientes:
+El Juez de Control, o el Tribunal de Enjuiciamiento, considerando los resultados de los estudios de personalidad que emita la Fiscalía, podrá sustituir la pena de prisión, en los términos siguientes:
 
 I. Por multa o trabajo en favor de la comunidad, cuando no exceda de tres años; y
 
@@ -1249,7 +1287,9 @@ Procedencia de la extinción
 
 La resolución sobre la extinción punitiva se dictará de oficio o a solicitud de parte.
 
-Las penas y medidas de seguridad ya impuestas, que deban extinguirse por alguno de los supuestos a que se refieren las fracciones III y VIII a que se refiere el artículo anterior, estarán sujetas al recurso de revisión previsto en el Código de Procedimientos Penales.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Las penas y medidas de seguridad ya impuestas, que deban extinguirse por alguno de los supuestos a que se refieren las fracciones III y VIII a que se refiere el artículo anterior, estarán sujetas a lo dispuesto en Título XIII, Libro Segundo del Código Nacional de Procedimientos Penales.
 
 ###### Artículo 94.
 
@@ -1294,6 +1334,50 @@ El perdón del ofendido o del legitimado para otorgarlo, extingue la pretensión
 > <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
 
 El perdón sólo beneficia al imputado en cuyo favor se otorga. Cuando sean varias las víctimas u ofendidos y cada una pueda ejercer separadamente la facultad de perdonar al responsable del delito y al encubridor, el perdón sólo surtirá efectos por lo que hace a quien lo otorga. Siempre que en un procedimiento penal se otorgue el perdón de la víctima u ofendido, ello se hará constar en el registro correspondiente.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Los delitos perseguibles por querella son:
+
+a) Los que atentan contra el cumplimiento de la obligación alimentaria previsto en el artículo 188 del Código Penal, salvo cuando se trate de personas menores de edad, incapaces y adultos mayores;
+
+b) Lesiones que tarden en sanar menos de quince días;
+
+c) Lesiones que tarden más de quince días y menos de sesenta;
+
+d) Peligro de contagio;
+
+e) Amenazas;
+
+f) Allanamiento de vivienda, despacho, oficina o establecimiento mercantil;
+
+g) Revelación de secretos;
+
+h) Estupro;
+
+i) Abusos sexuales, excepto los contemplados en los artículos 4 y 175 del Código Penal;
+
+j) Hostigamiento sexual;
+
+k) Procreación asistida e inseminación artificial, en los términos del artículo 151 del Código Penal;
+
+l) Privación de la libertad con fines sexuales;
+
+m) Abuso de confianza;
+
+n) Fraude;
+
+o) Daños, con excepción de los contemplados en el artículo 237 del Código Penal;
+
+p) Despojo;
+
+q) Administración fraudulenta;
+
+r) Robo, Robo de Ganado y Encubrimiento por Receptación, cuando los mismos sean cometidos por el ascendiente, descendiente, cónyuge, parientes por consanguinidad y afinidad hasta el segundo grado, concubina o concubinario, adoptante o adoptado.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Se requerirá querella para la persecución de terceros que hubiesen incurrido en la ejecución del delito con los sujetos que se mencionan con antelación.
 
 ###### Artículo 99.
 
@@ -4512,3 +4596,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 La modificación o reubicación de los tipos penales a que se refiere este Decreto, no implicará la libertad de los responsables por los delitos cometidos con anterioridad a su vigencia, siempre que los hechos se sigan comprendiendo en los tipos modificados.
+
+P.O. 29 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Inicio de Vigencia.
+
+El presente Decreto entrará en vigor al momento en el que inicie su vigencia el Código Nacional de Procedimientos Penales, de conformidad con la declaratoria que al efecto se emita por el Congreso del Estado, en los términos del Artículo Segundo Transitorio de dicho cuerpo normativo.
+
+SEGUNDO.- Derogación tácita de preceptos incompatibles.
+
+Quedan derogadas todas las disposiciones legales que se opongan al contenido del presente Decreto.
+
+TERCERO.- Cuando en cualquier disposición legal se haga referencia al Código de Procedimientos Penales del Estado de Chihuahua, se entenderá que se refiere al Código Nacional de Procedimientos Penales.
