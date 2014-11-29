@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2014-11-25"
+last_updated: "2014-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # CODIGO CIVIL DEL ESTADO DE JALISCO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE ABRIL DE 2015 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2014.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -163,19 +165,21 @@ I. Hay capacidad de goce cuando se tiene la aptitud para adquirir derechos y con
 
 II. Hay capacidad de ejercicio cuando se tiene aptitud para ejercitar derechos y cumplir obligaciones.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Art. 21.
 
-La capacidad jurídica es la regla, y la incapacidad debe ser establecida en la ley.
+La capacidad jurídica es la regla, y la incapacidad puede ser natural o legal, en los términos que dicte ley.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 22.
 
-La menor edad, el estado de interdicción y las demás incapacidades establecidas por la ley, son restricciones a la capacidad de ejercicio.
-
-Sin embargo, los incapaces pueden ejercitar sus derechos o contraer obligaciones por medio de sus representantes.
+La minoría de edad y el estado de interdicción, son restricciones a la capacidad de ejercicio.
 
 ###### Art. 23.
 
-La capacidad de ejercicio se reconoce por la ley a los mayores de edad en pleno uso de sus facultades psíquicas y a los menores emancipados.
+(DEROGADO, P.O. 29 DE NOVIEMBRE DE 2014)
 
 ### CAPITULO II. De los derechos de personalidad
 
@@ -439,49 +443,57 @@ La mayoría de edad comienza a los dieciocho años.
 
 El mayor de edad dispone libremente de su persona y de sus bienes, salvo los casos de excepción establecidos en las leyes.
 
-### CAPITULO VI. De la minoría de edad e incapacidad
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2011)</small>
+### CAPÍTULO VI. De la Limitación a la Capacidad de Ejercicio
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 48.
 
-La minoría de edad comienza con el nacimiento y concluye al cumplir dieciocho años.
+La capacidad de ejercicio se reconoce por la ley a los mayores de edad, así como a las personas menores de edad emancipadas, en los casos que determine la ley.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 49.
 
-Son incapaces:
-
-I. El menor de edad;
-
-II. El mayor de edad que padezca enajenación psíquica aunque tenga intervalos lúcidos; y
-
-III. Los sordomudos que no sepan darse a entender por escrito, mediante intérprete, o por el lenguaje mímico de sistemas educativos y de comunicación universalmente aceptados.
+La minoría de edad, la interdicción y demás incapacidades que establezca la ley, son limitaciones a la capacidad de ejercicio.
 
 ### CAPITULO VII. Del estado de interdicción
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Art. 50.
 
-Son nulos todos los actos de administración ejecutados y los contratos celebrados por los incapacitados, sin la autorización del tutor.
+La limitación a la capacidad de ejercicio impuesta por la interdicción podrá ser total o parcial, en los términos que dicte la sentencia respectiva, en la que deberá establecerse en qué tipo de actos el incapaz goza de plena autonomía en el ejercicio de su capacidad jurídica y en qué otros deberá intervenir un tutor para otorgarle asistencia.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 51.
 
-Son también nulos los actos de administración y los contratos celebrados por los menores emancipados, cuando se refieran a la enajenación, gravamen o hipoteca de bienes raíces.
+Son nulos todos los actos de administración ejecutados y los contratos celebrados por los incapaces, sin la asistencia del tutor, cuando se requiera la misma.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 52.
 
-La nulidad a que se refieren los dos artículos anteriores, sólo puede ser alegada, sea como acción, sea como excepción, por el mismo incapacitado o por sus legítimos representantes; pero no por las personas con quienes contrató, ni por los fiadores que se hayan dado al constituirse la obligación, ni por los mancomunados en ella.
+La nulidad a que se refieren los dos artículos anteriores, sólo puede ser alegada, sea como acción, sea como excepción, por los incapaces o por sus legítimos representantes; pero no por las personas con quienes contrató, ni por los fiadores que se hayan dado al constituirse la obligación, ni por los mancomunados en ella.
 
 ###### Art. 53.
 
 La acción para pedir la nulidad, prescribe en los términos en que prescriben las acciones personales o reales, según la naturaleza del acto cuya nulidad se pretende.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Art. 54.
 
-Los menores de edad no pueden alegar la nulidad a que se refiere este capítulo, en las obligaciones que hubieren contraído sobre las materias propias de la profesión o arte en que sean peritos.
+Las personas menores de edad no pueden alegar la nulidad a que se refiere este capítulo, en las obligaciones que hubieren contraído sobre las materias propias de la profesión o arte en que sean peritos.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 55.
 
-Tampoco pueden alegarla los menores, si han presentado certificados falsos del Registro Civil para hacerse pasar como mayores o han manifestado dolosamente que lo eran.
+Tampoco pueden alegarla las personas menores de edad, si han presentado certificados falsos del Registro Civil para hacerse pasar como mayores o han manifestado dolosamente que lo eran.
 
 ### CAPITULO VIII. De la emancipación
 
@@ -585,9 +597,13 @@ El domicilio legal de una persona es el lugar donde la ley fija su residencia pa
 
 Se reputa domicilio legal:
 
-I. Del menor de edad no emancipado, el de la persona a cuya patria potestad está sujeto;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-II. Del menor que no esté bajo la patria potestad y del mayor incapacitado, el de su tutor;
+I. De la persona menor de edad no emancipada, el de la persona a cuya patria potestad está sujeto;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+II. De la persona menor de edad que no esté bajo la patria potestad y de los incapaces, el de su tutor;
 
 III. De los militares en servicio activo, el lugar en que estén destinados;
 
@@ -1467,7 +1483,9 @@ II. Por haberse cumplido el término prefijado en el contrato de sociedad;
 
 III. Por la realización completa del fin social, o por haberse vuelto imposible la consecución del objeto de la sociedad;
 
-IV. Por la muerte o incapacidad de uno de los socios que tengan responsabilidad ilimitada por los compromisos sociales, salvo que en la escritura constitutiva se haya pactado que la sociedad continúe con los sobrevivientes o con los herederos de aquél;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+IV. Por la muerte o incapacidad que le impida obligarse de uno de los socios que tengan responsabilidad ilimitada por los compromisos sociales, salvo que en la escritura constitutiva se haya pactado que la sociedad continúe con los sobrevivientes o con los herederos de aquél;
 
 V. Por la muerte del socio industrial, siempre que su industria haya dado nacimiento a la sociedad;
 
@@ -1665,7 +1683,9 @@ VI. El atentado contra la vida de alguno de los casados para contraer matrimonio
 
 VII. Las enfermedades crónicas e incurables que sean, además, contagiosas y que pongan en peligro la vida o hereditarias; y cualesquiera otra enfermedad o conformación especial que sean contrarias a los fines del matrimonio, bien porque impidan las funciones relativas, o bien porque científicamente hagan prever algún perjuicio grave o degeneración para los descendientes; la impotencia incurable para la cópula salvo cuando exista por causa de la edad o cuando por otra diversa causa sea conocida por ambos contrayentes;
 
-VIII. La enajenación psíquica declarada judicialmente; y
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+VIII. El estado de interdicción que se lo impida;
 
 IX. La fuerza o miedo graves;
 
@@ -2289,9 +2309,11 @@ El parentesco por consanguinidad no dispensado, ilegítima el matrimonio y la ac
 
 La ilegitimidad que se funde en alguna de las causas de la fracción VII del artículo 268, sólo puede ser pedida por los cónyuges, dentro del término de sesenta días contados desde que se celebró el matrimonio.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Art. 392.
 
-Tienen derecho a pedir la ilegitimidad a que se refiere la fracción VIII del artículo 268, el otro cónyuge o el tutor del incapacitado, o éste cuando sea levantada la declaratoria de interdicción.
+Tienen derecho a pedir la ilegitimidad a que se refiere la fracción VIII del artículo 268, el otro cónyuge, el tutor del incapaz o éste cuando pueda realizar el acto, con o sin asistencia del tutor.
 
 #### Sección Cuarta. De la ilicitud en el matrimonio
 
@@ -3741,7 +3763,7 @@ III. Los vínculos afectivos y la convivencia existentes entre padres e hijos pe
 
 IV. Se reincorpore en la medida de lo posible a los niños, niñas y adolescentes a su ambiente familiar;
 
-V. Las medidas que promuevan la recuperación física y psicológica. así la como (sic) la reincorporación a un ambiente familiar y social garanticen el respeto de su personalidad individual;
+V. Las medidas que promuevan la recuperación física y psicológica, así la como (sic) la reincorporación a un ambiente familiar y social garanticen el respeto de su personalidad individual;
 
 VI. La identidad de las personas menores de edad se resguarde de cualquiera que no sea parte;
 
@@ -4005,6 +4027,8 @@ Estas medidas se seguirán a instancia de las personas interesadas, del menor cu
 
 ### CAPITULO I. Disposiciones generales
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Art. 597.
 
 La patria potestad se acaba:
@@ -4113,13 +4137,15 @@ II. Cuando por el mal estado habitual de su salud, no pueden atender debidamente
 
 ###### Art. 603.
 
-La tutela es la institución de orden público e interés social, que respecto de los incapacitados, tiene por objeto la guarda de la persona y los bienes, o solamente los bienes.
+La tutela es la institución de orden público e interés social, que respecto de los incapaces, tiene por objeto la guarda de la persona y los bienes, o solamente los bienes.
 
 ###### Art. 604.
 
 La tutela se ejercerá en los casos siguientes:
 
-I. Sobre quienes no estando sujetos a patria potestad, tienen incapacidad natural o legal, o solamente la segunda para gobernarse por sí mismos;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+I. Sobre quienes no estando sujetos a patria potestad, tienen incapacidad natural o legal, o solamente la segunda, en cuyo caso deberá atenderse al grado de limitación impuesto a la capacidad de ejercicio; y
 
 II. Sobre quienes estando sujetos a patria potestad:
 
@@ -4133,9 +4159,13 @@ c) En el caso de oposición de intereses entre dos o más menores sujetos a una 
 
 Tienen incapacidad natural y legal:
 
-I. Los menores de edad; y
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-II. Los mayores de edad que no puedan gobernarse y obligarse por sí mismos o manifestar su voluntad por algún medio.
+I. Las personas menores de edad; y
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+II. Los mayores de edad, no puedan gobernarse y obligarse por sí mismos o con asistencia de un representante o manifestar su voluntad por algún medio.
 
 ###### Art. 606.
 
@@ -4145,9 +4175,11 @@ Los menores de edad emancipados tienen incapacidad legal para los actos que se m
 
 La tutela es un cargo de interés público del que nadie puede eximirse, sino por causa legítima.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Art. 608.
 
-El que se rehusare sin causa legal a desempeñar el cargo de tutor, es responsable de los daños y perjuicios que de su negativa resulten al incapacitado.
+El que se rehusare sin causa legal a desempeñar el cargo de tutor, es responsable de los daños y perjuicios que de su negativa resulten al incapaz.
 
 ###### Art. 609.
 
@@ -4161,51 +4193,67 @@ Ningún incapaz puede tener a un mismo tiempo más de un tutor y de un curador d
 
 El tutor y el curador pueden desempeñar respectivamente la tutela o la curatela hasta de tres incapaces. Si estos son hermanos o son coherederos y legatarios de la misma persona, puede nombrarse un solo tutor y un curador a todos ellos, aunque sean más de tres.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Art. 612.
 
-Los cargos de tutor y de curador de un incapaz no pueden ser desempeñados al mismo tiempo por una sola persona. Tampoco pueden desempeñarse por personas que tengan entre sí parentesco en cualquier grado de la línea recta, o dentro del cuarto grado de la colateral.
+Los cargos de tutor y de curador de un incapaz no pueden ser desempeñados al mismo tiempo por una sola persona.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 613.
 
-Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado a quien deba nombrarse tutor, su ejecutor testamentario y en caso de intestado los parientes y personas con quienes hayan vivido, están obligados a dar parte del fallecimiento al juez, dentro de ocho días, a fin de que provea a la tutela, bajo la pena equivalente a una multa igual a considerar el salario mínimo general de veinticinco a cien días.
-
-Los Oficiales del Registro Civil, las autoridades administrativas y las judiciales tienen obligación de dar aviso a los jueces de los casos en que sea necesario nombrar tutor y que lleguen a su conocimiento en el ejercicio de sus funciones.
+Cuando fallezca una persona que ejerza la patria potestad sobre un incapaz a quien deba nombrarse tutor, su ejecutor testamentario y en caso de intestado los parientes y personas con quienes hayan vivido, están obligados a dar parte del fallecimiento al Juez, dentro de ocho días, a fin de que provea a la tutela, bajo la pena equivalente a una multa igual a considerar el salario mínimo general de veinticinco a cien días.
 
 ###### Art. 614.
 
 La tutela es testamentaria, legítima o dativa.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Art. 615.
 
-Ninguna tutela puede conferirse sin que previamente se declare, en los términos que disponga el Código de Procedimientos Civiles, el estado de incapacidad de la persona que va a quedar sujeta a ella.
+Ninguna tutela puede conferirse sin que previamente se declare, en los términos que disponga el Código de Procedimientos Civiles, la incapacidad y las limitaciones a la capacidad de ejercicio de la persona que va a quedar sujeta a ella.
 
 ###### Art. 616.
 
 Los tutores y curadores no pueden ser removidos de su cargo sin que previamente hayan sido oídos y vencidos en juicio.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Art. 617.
 
-El menor de edad disminuido o perturbado en sus facultades intelectivas, aunque tenga intervalos lúcidos, y aquéllos que padezcan alguna afección originada por enfermedad o deficiencia persistente de carácter físico, psicológico o sensorial o por la adicción a substancias tóxicas, como el alcohol, los sicotrópicos o los estupefacientes; siempre que debido a la disminución en las facultades intelectivas que ésto le provoca no puedan gobernarse y obligarse por sí mismos o manifestar su voluntad por algún medio, estará sujeto a la tutela mientras no llegue a la mayor edad.
+La persona menor de edad que no puedan (sic) gobernarse y obligarse por sí mismos o con asistencia de un representante o manifestar su voluntad por algún medio estará sujeta a tutela mientras no llegue a la mayoría de edad.
 
-Si al cumplirse ésta continuare el impedimento, el incapaz se sujetará a nueva tutela, previo juicio de interdicción en el cual serán oídos el tutor y el curador anteriores.
+Si al cumplirse ésta continuare el impedimento, el incapaz se sujetará a nueva tutela, previo juicio de interdicción en el que serán oídos, el incapaz, el tutor y curador anteriores y se determinará el grado de incapacidad y las limitaciones a la capacidad de ejercicio.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 618.
 
-Los hijos menores de un incapacitado, quedarán bajo la patria potestad del ascendiente que corresponda conforme a la ley y no habiéndolo, se les proveerá de tutor.
+Los hijos menores de un incapacitado que no pueda darles la debida atención y cuidado, quedarán bajo la patria potestad que corresponda conforme al artículo 572 de este Código, y no habiéndolo, se les proveerá de tutor.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 619.
 
-El cargo de tutor, del mayor de edad que no pueda gobernarse ni obligarse por sí mismo o manifestar su voluntad por algún medio, durará el tiempo que subsista la interdicción, cuando sea ejercido por los descendientes o por los ascendientes. El cónyuge sólo tendrá obligación de desempeñar ese cargo mientras tenga dicho carácter. Los extraños que desempeñen la tutela de que se trata, tienen derecho de que se les releve de ella a los diez años de ejercicio.
+El cargo de tutor, de la persona mayor de edad incapaz durará el tiempo que subsista la interdicción, cuando sea ejercido por los parientes consanguíneos en línea recta sin limitación de grados, los colaterales dentro del cuarto grado y los afines dentro del segundo. El cónyuge sólo tendrá obligación de desempeñar ese cargo mientras tenga dicho carácter. Los extraños que desempeñen la tutela de que se trata, tienen derecho de que se les releve de ella a los diez años de ejercicio.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 620.
 
-La interdicción de que habla el artículo anterior no cesará sino por la muerte del incapacitado o por sentencia definitiva, que se pronunciará conforme a las mismas reglas establecidas para declarar la interdicción.
+El estado de interdicción no cesará sino por la muerte del incapaz o por sentencia definitiva, que se pronunciará conforme a las mismas reglas establecidas para declarar la interdicción.
 
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 2011)</small>
+Al presentarse algún cambio en la diversidad funcional del incapaz deberá ajustarse el grado de interdicción a través de sentencia definitiva.
+
+Las sentencias a que se refiere este artículo se pronunciarán conforme a las mismas reglas establecidas para declarar la interdicción.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 621.
 
-El Juez de Primera Instancia del domicilio del incapacitado y, si no lo hubiere, el Juez Menor o el de Paz, sin perjuicio de las atribuciones que competen al Consejo de Familia, siempre con intervención del Agente de la Procuraduría Social, cuidará provisionalmente de la persona y los bienes del incapacitado hasta que se nombre tutor, salvo que exista un documento público, en donde se haya efectuado la auto designación de tutor, en cuyo caso se estará a lo ahí establecido.
+El Juez de Primera Instancia del domicilio del incapacitado y, si no lo hubiere, el Juez Menor o el de Paz, sin perjuicio de las atribuciones que competen al Consejo de Familia, siempre con intervención del Agente de la Procuraduría Social, cuidará provisionalmente de la persona y los bienes del incapaz hasta que se nombre tutor, salvo que exista un documento público, en donde se haya efectuado la auto designación de tutor, en cuyo caso se estará a lo ahí establecido.
 
 ###### Art. 622.
 
@@ -4221,17 +4269,21 @@ El ascendiente que sobreviva, de los dos que en cada grado deben ejercer la patr
 
 El nombramiento de tutor testamentario hecho en los términos del artículo anterior, excluye del ejercicio de la patria potestad a los ascendientes de ulteriores grados.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Art. 625.
 
-Si los ascendientes excluidos estuvieren incapacitados o ausentes, la tutela cesará cuando cese el impedimento o se presenten los ascendientes, a no ser que el testador haya dispuesto expresamente que continúe la tutela.
+Si los ascendientes excluidos estuvieren ausentes o fueren declarados incapaces, la tutela cesará cuando cese el impedimento o se presenten los ascendientes, a no ser que el testador haya dispuesto expresamente que continúe la tutela.
 
 ###### Art. 626.
 
 El que en su testamento, aunque sea un menor no emancipado, deje bienes ya sea por legado o por herencia, a un incapaz que no esté bajo su patria potestad, puede nombrarle tutor solamente para la administración de los bienes que le deja. Aun cuando en la disposición testamentaria correspondiente se prevenga que el beneficiario no reciba los productos del capital dejado en herencia o legado, no subsistirá dicha disposición en lo estrictamente indispensable para satisfacer las necesidades alimentarias del menor.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Art. 627.
 
-Si fueren varios los menores, podrá nombrárseles un tutor común o conferirse a persona diferente la tutela de cada uno de ellos, sobre todo, cuando los intereses de alguno o algunos fueren opuestos.
+Si fueren varias las personas menores de edad, podrá nombrárseles un tutor común o conferirse a persona diferente la tutela de cada uno de ellos, sobre todo, cuando los intereses de alguno o algunos fueren opuestos.
 
 ###### Art. 628.
 
@@ -4239,9 +4291,11 @@ El padre que ejerza la tutela de un hijo sujeto a interdicción por incapacidad 
 
 La madre, en su caso, podrá hacer el nombramiento de que trata ese artículo.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Art. 629.
 
-En ningún otro caso hay lugar a la tutela testamentaria del incapacitado.
+En ningún otro caso hay lugar a la tutela testamentaria del incapaz.
 
 ###### Art. 630.
 
@@ -4315,9 +4369,11 @@ El Consejo Estatal de Familia podrá además, en los términos de este artículo
 
 El cónyuge es tutor legítimo y forzoso del otro, en caso de incapacidad de éste.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Art. 641.
 
-Son tutores de su padre y de su madre libres de matrimonio que estén incapacitados sus hijos mayores de edad.
+Son tutores de su padre y de su madre libres de matrimonio que hubieren sido declarados incapaces, sus hijos mayores de edad.
 
 ###### Art. 642.
 
@@ -4327,15 +4383,29 @@ Cuando haya dos o más hijos, será preferido el que viva en compañía del padr
 
 Los padres son de derecho tutores de sus hijos, solteros o viudos, cuando éstos no tengan hijos que puedan desempeñar la tutela, debiéndose poner de acuerdo respecto a quién de los dos ejercerá el cargo.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Art. 644.
 
-A falta de tutor testamentario y de persona que con arreglo a los artículos anteriores deba desempeñar la tutela, serán llamadas a ella sucesivamente los abuelos, observándose lo establecido en el artículo 582, los hermanos del incapacitado y los demás colaterales a que se refiere la fracción II del artículo 636 tomándose en consideración en su caso lo que dispone el artículo 637.
+A falta de tutor testamentario y de persona que con arreglo a los artículos anteriores deba desempeñar la tutela, serán llamadas a ella sucesivamente los abuelos, observándose lo establecido en el artículo 582, los hermanos del incapaz y los demás colaterales a que se refiere la fracción II del artículo 636 tomándose en consideración en su caso lo que dispone el artículo 637.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 645.
 
-El tutor del incapacitado que tenga hijos menores bajo su patria potestad, será también tutor de ellos, si no hay otro ascendiente a quien la ley llame al ejercicio de aquel derecho.
+El tutor del incapaz que tenga hijos menores bajo su patria potestad, será también tutor de ellos, si no hay otro ascendiente a quien la ley llame al ejercicio de aquel derecho.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 646.
+
+El tutor de los incapacitados estará obligado a presentar ante la Procuraduría Social en los meses de julio y enero de cada año una certificación médica que declaren acerca de la salud de la persona sujeta a interdicción, a quien para este efecto reconocerán en presencia del curador.
+
+Sin perjuicio de lo anterior, el Juez, de oficio o a petición de parte, en cualquier momento podrá solicitar los estudios que considere necesarios, para ajustar el grado de interdicción del incapaz.
+
+El incapacitado podrá manifestar su opinión a la Procuraduría Social, misma que se cerciorará del estado que guardan el incapaz y sus bienes y tomará todas las medidas que estime convenientes para mejorar su condición. En caso de que existieren elementos que pongan en detrimento la salud del incapacitado, la Procuraduría solicitará al Juez decrete la adopción de medidas para mejorar su condición.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 646.
 
@@ -4347,7 +4417,9 @@ La Procuraduría Social se cerciorará del estado que guarda el incapacitado y t
 
 ###### Art. 647.
 
-Los recursos y patrimonio del incapacitado se destinarán en forma preferente a su seguridad, alivio y mejoría en la calidad de vida; quien desempeñe la tutoría adoptará las medidas que juzgue oportunas, proponiéndolas para tal efecto a la Procuraduría Social para su aprobación. Las medidas que fueren muy urgentes podrán ser ejecutadas de inmediato, quedándose obligado a dar cuenta a la Procuraduría Social para su conocimiento y consideración.
+Los recursos y patrimonio del incapaz que no pueda gobernarse ni obligarse por sí mismo o manifestar su voluntad por algún medio, se destinarán en forma preferente a su seguridad, alivio y mejoría en la calidad de vida; quien desempeñe la tutoría adoptará las medidas que juzgue oportunas, proponiéndolas para tal efecto a la Procuraduría Social para su aprobación. Las medidas que fueren urgentes podrán ser ejecutadas de inmediato, quedándose obligado a dar cuenta a la Procuraduría Social para su conocimiento y consideración.
+
+Para el caso de que el incapaz pueda gobernarse y obligarse por sí mismo o manifestar su voluntad por cualquier medio, el tutor deberá asistirlo en la toma de decisiones respecto de sus recursos y patrimonio, respetando y acatando en todo momento la decisión tomada por la persona en estado de interdicción.
 
 ### CAPITULO VI. De las personas inhábiles para el desempeño de la tutela y de las que deben ser separadas de ella
 
@@ -4437,7 +4509,9 @@ I. Los menores de edad;
 
 II. Los mayores de edad que se encuentren bajo tutela;
 
-III. Los que hayan sido removidos de otra tutela por haberse conducido mal, ya respecto de la persona, ya respecto de la administración de los bienes del incapacitado;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+III. Los que hayan sido removidos de otra tutela por haberse conducido mal, ya respecto de la persona, ya respecto de la administración de los bienes del incapaz;
 
 IV. Los que por sentencia que cause ejecutoria, hayan sido condenados a la privación de este cargo o a la inhabilitación para obtenerlo;
 
@@ -4447,11 +4521,15 @@ V. El que haya sido condenado por delitos contra la propiedad o por delitos infa
 
 VI. Los que no tengan oficio o modo de vivir conocido y sean notoriamente de mala conducta;
 
-VII. Los que al deferirse la tutela, tengan pleito pendiente con el incapacitado;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-VIII. Los deudores del incapacitado, en cantidad considerable a juicio del juez, a no ser que el que nombre tutor testamentario, lo haya hecho con conocimiento de la deuda, declarándolo así expresamente al hacer el nombramiento;
+VII. Los que al deferirse la tutela, tengan pleito pendiente con el incapaz;
 
-IX. Los funcionarios o empleados de la administración pública sea federal, estatal o municipal, tratándose de tutela dativa. Tampoco el cónyuge, los ascendientes o descendientes de empleados o funcionarios del poder judicial;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+VIII. Los deudores del incapaz, en cantidad considerable a juicio del Juez, a no ser que el que nombre tutor testamentario, lo haya hecho con conocimiento de la deuda, declarándolo así expresamente al hacer el nombramiento;
+
+IX. (DEROGADA, P.O. 29 DE NOVIEMBRE DE 2014)
 
 X. El que no esté domiciliado en el lugar en que deba ejercer la tutela;
 
@@ -4469,7 +4547,9 @@ I. Los comprendidos en el artículo anterior desde que sobrevenga o se advierta 
 
 II. Los que sin haber caucionado su manejo conforme a la ley, ejerzan la administración de la tutela;
 
-III. Los que se conduzcan mal en el desempeño de la tutela, ya sea respecto de la persona, ya respecto de la administración de los bienes del incapacitado;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+III. Los que se conduzcan mal en el desempeño de la tutela, ya sea respecto de la persona, ya respecto de la administración de los bienes del incapaz;
 
 IV. Los tutores que no rindan sus cuentas dentro del término fijado al respecto por este código;
 
@@ -4479,7 +4559,7 @@ VI. El tutor que permanezca ausente por más de tres meses, del lugar en que se 
 
 ###### Art. 656.
 
-Lo dispuesto en la fracción IX del artículo 654 se aplicará, en cuanto fuere posible, a la tutela de los disminuidos o perturbados en sus facultades intelectivas, aunque tenga intervalos lúcidos, y aquéllos que padezcan alguna afección originada por enfermedad o deficiencia persistente de carácter físico, psicológico o sensorial, o por la adicción a substancias tóxicas, como el alcohol, los sicotrópicos o los estupefacientes; y de los que abusen habitualmente de las drogas enervantes.
+(DEROGADO, P.O. 29 DE NOVIEMBRE DE 2014)
 
 > <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
 
@@ -4543,13 +4623,17 @@ Mientras que se califica el impedimento o la excusa, el juez nombrará un tutor 
 
 El tutor testamentario que se excuse de ejercer la tutela, perderá todo derecho a lo que le hubiere dejado el testador por este concepto.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Art. 667.
 
-El tutor que sin excusa o desechada la que hubiere propuesto, no desempeñe la tutela, pierde el derecho que tenga para heredar al incapacitado que muera intestado, y es responsable de los daños y perjuicios que por su renuncia hayan sobrevenido al mismo incapacitado. En igual pena incurre la persona a quien corresponda la tutela legítima, si habiendo sido legalmente citada, no se presenta al Juez manifestando su parentesco con el incapaz.
+El tutor que sin excusa o desechada la que hubiere propuesto, no desempeñe la tutela, pierde el derecho que tenga para heredar al incapaz que muera intestado, y es responsable de los daños y perjuicios que por su renuncia hayan sobrevenido al mismo incapaz. En igual pena incurre la persona a quien corresponda la tutela legítima, si habiendo sido legalmente citada, no se presenta al Juez manifestando su parentesco con el incapaz.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 668.
 
-Muerto el tutor que esté desempeñando la tutela, sus herederos o ejecutores testamentarios están obligados a dar aviso al juez, quien proveerá inmediatamente al incapacitado del tutor que corresponda, según la ley.
+Muerto el tutor que esté desempeñando la tutela, sus herederos o ejecutores testamentarios están obligados a dar aviso al Juez, quien proveerá inmediatamente al incapaz del tutor que corresponda, según la ley.
 
 ### CAPITULO IX. Del desempeño de la tutela
 
@@ -4573,9 +4657,11 @@ I. Los tutores testamentarios, cuando expresamente los haya relevado de esta obl
 
 II. El tutor que no administre bienes;
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-III. Cuando la tutela del incapacitado recaiga en el cónyuge o en parientes consanguíneos hasta el cuarto grado, no se dará garantía, salvo el caso de que el Juez, con audiencia del curador, el Agente de la Procuraduría Social o del Consejo de Familia, lo crea conveniente; y
+III. Cuando la tutela del incapaz recaiga en el cónyuge o en parientes consanguíneos hasta el cuarto grado, no se dará garantía, salvo el caso de que el Juez, con audiencia del curador, el Agente de la Procuraduría Social o del Consejo de Familia, lo crea conveniente; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 IV. Los que custodien a un expósito, por más de diez años, a no ser que hayan recibido pensión para cuidar de él.
 
@@ -4587,19 +4673,21 @@ Los comprendidos en la fracción I del artículo anterior, sólo estarán obliga
 
 En el caso de la fracción II del artículo 670, luego que se realicen algunos créditos o derechos o se recobren los bienes, aun cuando sea en parte, estará obligado el tutor a dar la garantía correspondiente. El curador vigilará, bajo su más estrecha responsabilidad, el cumplimiento de este artículo.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 673.
 
-La garantía que presten los tutores no impedirá que el Juez, a moción del Agente de la Procuraduría Social, del curador, de los parientes próximos del incapacitado, o de éste si ha cumplido dieciséis años, dicte las providencias que se estimen útiles para la conservación de los bienes del pupilo.
+La garantía que presten los tutores no impedirá que el Juez, a moción del Agente de la Procuraduría Social, del curador, de los parientes próximos del incapaz, o de éste si ha cumplido dieciséis años, dicte las providencias que se estimen útiles para la conservación de los bienes del pupilo.
 
 ###### Art. 674.
 
 Siempre que el tutor sea también coheredero del incapaz y éste no tenga más bienes que los hereditarios, no se podrá exigir al tutor otra garantía que la de su misma porción hereditaria, a no ser que ésta porción no iguale a la mitad de la porción del incapaz, ya que en tal caso se integrará la garantía con bienes propios del tutor o con fianza.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Art. 675.
 
-Siendo varios los incapacitados cuyo haber consista en bienes procedentes de una herencia indivisa, si son varios los tutores, sólo se exigirá a cada uno de ellos, garantía por la parte que corresponda a su representado.
+Siendo varios los incapaces cuyo haber consista en bienes procedentes de una herencia indivisa, si son varios los tutores, sólo se exigirá a cada uno de ellos, garantía por la parte que corresponda a su representado.
 
 ###### Art. 676.
 
@@ -4617,11 +4705,11 @@ III. Por el de los enseres y semovientes, así como por el de los productos de l
 
 IV. En las negociaciones mercantiles o industriales, por el veinte por ciento del importe de las mercancías y demás efectos muebles, calculados por los libros si están llevados en debida forma, o a juicio de peritos.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 678.
 
-Si los bienes del incapacitado enumerados en el artículo que precede, aumentan o disminuyen durante la tutela, podrá aumentarse o disminuirse proporcionalmente la hipoteca, prenda o fianza, a pedimento del tutor, del curador, de la Procuraduría Social o del Consejo de Familia.
+Si los bienes del incapaz enumerados en el artículo que precede, aumentan o disminuyen durante la tutela, podrá aumentarse o disminuirse proporcionalmente la hipoteca, prenda o fianza, a pedimento del tutor, del curador, de la Procuraduría Social o del Consejo de Familia.
 
 ###### Art. 679.
 
@@ -4651,27 +4739,45 @@ Es también obligación del curador y del Consejo de Familia, vigilar el estado 
 
 Cuando el tutor tenga que administrar bienes, no podrá entrar a la administración sin que antes se nombre curador, excepto cuando la tutela la desempeñe el Consejo de Familia.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Art. 685.
 
-El tutor que entre a la administración de los bienes sin que se haya nombrado curador, será responsable de los daños y perjuicios que cause al incapacitado y, además, separado de la tutela; mas ningún extraño puede rehusarse a tratar con él judicial o extrajudicialmente, alegando la falta del curador.
+El tutor que entre a la administración de los bienes sin que se haya nombrado curador, será responsable de los daños y perjuicios que cause al incapaz y, además, separado de la tutela; mas ningún extraño puede rehusarse a tratar con él judicial o extrajudicialmente, alegando la falta del curador.
 
 ###### Art. 686.
 
 El tutor está obligado:
 
-I. A la custodia del incapacitado;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-II. A destinar los recursos del incapacitado para procurar su buen estado de salud física y psíquica, así como a la prevención de enfermedades y en su caso a la recuperación de niveles de salud universalmente aceptados;
+I. A la custodia del incapaz;
 
-III. A realizar formal inventario debidamente circunstanciado de cuanto constituye el patrimonio del incapacitado, dentro del término que el juez designe, con intervención del curador y del mismo incapacitado si goza de discernimiento y ha cumplido dieciséis años de edad, el término para formar el inventario no podrá ser mayor de tres meses;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-IV. A administrar el caudal de los incapacitados.
+II. A destinar los recursos del incapaz que no pueda gobernarse ni obligarse por sí mismo o manifestar su voluntad por algún medio, para procurar su buen estado de salud física y psíquica, así como a la prevención de enfermedades y en su caso a la recuperación de niveles de salud universalmente aceptados;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+III. A realizar formal inventario debidamente circunstanciado de cuanto constituye el patrimonio del incapaz, dentro del término que el Juez designe, con intervención del curador y del mismo incapaz si goza de discernimiento y ha cumplido dieciséis años de edad, el término para formar el inventario no podrá ser mayor de tres meses;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+IV. A administrar el caudal del incapaz que no pueda gobernarse ni obligarse por sí mismo o manifestar su voluntad por algún medio;
 
 El pupilo será consultado para los actos importantes de la administración, cuando es capaz de discernimiento y mayor de dieciséis años; pero la falta de consulta no surte efectos contra tercero. La administración de los bienes que el pupilo menor ha adquirido con su trabajo, le corresponde a él y no al tutor;
 
-V. A representar al incapacitado en juicio y fuera de él, en todos los actos civiles con excepción del matrimonio, del reconocimiento de hijos, del testamento y de otros estrictamente personales; y
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-VI. A solicitar oportunamente la autorización judicial para todo lo que legalmente no puede hacer sin ella.
+V. A representar al incapaz que no pueda gobernarse ni obligarse por sí mismo o manifestar su voluntad por algún medio, en juicio y fuera de él, en todos los actos civiles con excepción del matrimonio, del reconocimiento de hijos, del testamento, de otros estrictamente personales y los que se hubieran determinado en la sentencia respectiva;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+VI. Asistir al incapacitado cuyo grado de discernimiento le permita gobernarse u obligarse por sí mismo o manifestar su voluntad por algún medio, según el grado de limitación a la capacidad de ejercicio impuesto en el estado de interdicción; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+VII. A solicitar oportunamente la autorización judicial para todo lo que legalmente no puede hacer sin ella.
 
 ### CAPITULO XI. Reglas sobre la administración de bienes
 
@@ -4695,13 +4801,23 @@ Si el que tenía la patria potestad sobre el menor, lo había dedicado a alguna 
 
 Si las rentas del menor no alcanzan a cubrir los gastos de su alimentación y educación, el juez decidirá si ha de ponérsele a aprender un oficio o adoptarse otro medio para evitar la enajenación de los bienes y, si fuere posible, sujetará a las rentas de éstos, los gastos de alimentación.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Art. 692.
 
-Si los pupilos fuesen indigentes o careciesen de suficientes medios para los gastos que demande su alimentación y educación, el tutor exigirá judicialmente la prestación de esos gastos a los parientes que tienen obligación legal de alimentar a los incapacitados. Las expensas que esto origine, serán cubiertas por el deudor alimentario. Cuando el mismo tutor sea obligado a dar alimentos por razón de su parentesco con el pupilo, el curador ejercitará la acción a que este artículo se refiere.
+Si los pupilos fuesen indigentes o careciesen de suficientes medios para los gastos que demande su alimentación y educación, el tutor exigirá judicialmente la prestación de esos gastos a los parientes que tienen obligación legal de alimentar a los incapaces. Las expensas que esto origine, serán cubiertas por el deudor alimentario. Cuando el mismo tutor sea obligado a dar alimentos por razón de su parentesco con el pupilo, el curador ejercitará la acción a que este artículo se refiere.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 693.
 
-Si los pupilos indigentes no tienen personas que estén obligadas a alimentarlos o si teniéndolas, no pudieren hacerlo, el tutor, con autorización del juez, quien oirá el parecer del curador y del Consejo de Familia, pondrá al menor en un establecimiento de Beneficencia Pública descentralizada o privada en donde pueda educarse. Si ni eso fuere posible, el tutor procurará que los particulares suministren trabajo al incapacitado, compatible con su edad y circunstancias personales, con la obligación de alimentarlo y educarlo. No por esto el tutor queda eximido de su cargo, ya que continuará vigilando al menor, a fin de que no sufra daño por lo excesivo del trabajo, lo insuficiente de la alimentación o lo defectuoso de la educación que se le imparta.
+Si los pupilos indigentes no tienen personas que estén obligadas a alimentarlos o si teniéndolas, no pudieren hacerlo, el tutor, con autorización del Juez, quien oirá el parecer del curador y del Consejo de Familia, pondrá a la persona menor de edad en un establecimiento de beneficencia pública descentralizada o privada en donde pueda educarse. Si ni eso fuere posible, el tutor procurará que los particulares suministren trabajo al incapaz, compatible con su edad y circunstancias personales, con la obligación de alimentarlo y educarlo. No por esto el tutor queda eximido de su cargo, ya que continuará vigilando a la persona menor de edad, a fin de que no sufra daño por lo excesivo del trabajo, lo insuficiente de la alimentación o lo defectuoso de la educación que se le imparta.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+###### Art. 693 Bis.
+
+El tutor administrará los bienes del incapaz, cuando éste tenga limitación en la capacidad de ejercicio, en los términos de la sentencia respectiva, a falta de disposición expresa en la sentencia, se estará a lo dispuesto en este capítulo y demás artículos aplicables.
 
 ### CAPITULO XII. De las cuentas de la tutela
 
@@ -4711,27 +4827,37 @@ Si los pupilos indigentes no tienen personas que estén obligadas a alimentarlos
 
 La obligación de hacer inventarios no puede ser dispensada ni aún por los que tienen derecho de nombrar tutor testamentario.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Art. 695.
 
-Mientras que el inventario no estuviere formado, la tutela debe limitarse a los actos de mera protección a la persona y conservación de los bienes del incapacitado.
+Mientras que el inventario no estuviere formado, la tutela debe limitarse a los actos de mera protección a la persona y conservación de los bienes del incapaz.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 696.
 
-El tutor está obligado a señalar en el inventario, el crédito que tenga contra el incapacitado; si no lo hace, pierde el derecho de cobrarlo.
+El tutor está obligado a señalar en el inventario, el crédito que tenga contra el incapaz; si no lo hace, pierde el derecho de cobrarlo.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 697.
 
-Los bienes que el incapacitado adquiera después de la formación del inventario, se incluirán inmediatamente en él, con las mismas formalidades prescritas en la fracción III del artículo 686.
+Los bienes que el incapaz adquiera después de la formación del inventario, se incluirán inmediatamente en él, con las mismas formalidades prescritas en la fracción III del artículo 686.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 698.
 
-Hecho el inventario, no se admitirá al tutor rendir prueba contra él, en perjuicio del incapacitado, ni antes ni después de la mayor edad de éste, ya sea que litigue en nombre propio o con la representación del incapacitado.
+Hecho el inventario, no se admitirá al tutor rendir prueba contra él, en perjuicio del incapaz, ni antes ni después de la mayor edad de éste, ya sea que litigue en nombre propio o con la representación del incapaz.
 
 Se exceptúan de lo dispuesto en el párrafo anterior, los casos en que el error del inventario sea evidente o cuando se trate de un derecho claramente establecido.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Art. 699.
 
-La omisión de bienes en el inventario, no puede perjudicar los intereses del menor.
+La omisión de bienes en el inventario, no puede perjudicar los intereses del incapaz.
 
 ###### Art. 700.
 
@@ -4741,9 +4867,11 @@ El tutor, dentro del primer mes de ejercer su cargo, fijará con aprobación del
 
 Lo dispuesto en el artículo anterior no libera al tutor de justificar, al rendir sus cuentas, que efectivamente han sido gastadas dichas sumas en sus respectivos objetos.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Art. 702.
 
-Cuando entre los bienes del incapacitado se encuentren establecimientos agrícolas, comerciales, industriales o ganaderos que normalmente requieren una atención directa y permanente, y no puedan ser atendidos por el tutor, éste lo pondrá en conocimiento del Consejo de Familia para tomar la determinación que sea más favorable a los intereses del incapacitado.
+Cuando entre los bienes del incapaz se encuentren establecimientos agrícolas, comerciales, industriales o ganaderos que normalmente requieren una atención directa y permanente, y no puedan ser atendidos por el tutor, éste lo pondrá en conocimiento del Consejo de Familia para tomar la determinación que sea más favorable a los intereses del incapaz.
 
 ###### Art. 703.
 
@@ -4753,9 +4881,11 @@ El dinero que resulte sobrante después de cubiertas las cargas y atenciones de 
 
 Mientras que se hacen las imposiciones del capital, el tutor con intervención del Consejo de Familia, depositará las cantidades que se perciban en una institución bancaria procurando obtener el mayor rendimiento posible considerando también la pronta liquidez.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Art. 705.
 
-Los bienes inmuebles, los derechos anexos a ellos y los muebles valiosos, no pueden ser enajenados ni gravados por el tutor, sino por causa de absoluta necesidad o evidente utilidad del incapacitado, debidamente justificada, y previa la autorización judicial que se dictará con audiencia del curador.
+Los bienes inmuebles, los derechos anexos a ellos y los muebles valiosos, no pueden ser enajenados ni gravados por el tutor, sino por causa de absoluta necesidad o evidente utilidad del incapaz, debidamente justificada, y previa la autorización judicial que se dictará con audiencia del curador.
 
 ###### Art. 706.
 
@@ -4763,23 +4893,29 @@ Cuando la enajenación se haya permitido para cubrir con su producto algún obje
 
 Mientras no se haga la inversión, deberá depositarse el numerario en una institución bancaria, procurándose el mayor rendimiento posible considerando también su pronta liquidez.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Art. 707.
 
-En la enajenación de alhajas y muebles valiosos, el juez decidirá la forma y condición para proceder a ello, buscando el mayor beneficio al incapacitado.
+En la enajenación de alhajas y muebles valiosos, el Juez decidirá la forma y condición para proceder a ello, buscando el mayor beneficio al incapaz.
 
-Los tutores no podrán vender valores comerciales, industriales, títulos de rentas, acciones, frutos y ganados pertenecientes al incapacitado, por menor valor del que se cotice en la plaza el día de la venta; ni otorgar garantía o fianza a nombre de su pupilo u obligarlo solidariamente.
+Los tutores no podrán vender valores comerciales, industriales, títulos de rentas, acciones, frutos y ganados pertenecientes al incapaz, por menor valor del que se cotice en la plaza el día de la venta; ni otorgar garantía o fianza a nombre de su pupilo u obligarlo solidariamente.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 708.
 
-Cuando se trata de enajenar, gravar o hipotecar a título oneroso, bienes que pertenezcan al incapacitado como copropietario, se comenzará por mandar justipreciar dichos bienes, para fijar con toda precisión su valor y la parte que en ellos represente el incapacitado, a fin de que el juez resuelva si conviene o no que se dividan materialmente dichos bienes para que aquél reciba en plena propiedad su porción; o si, por el contrario, es conveniente la enajenación, gravamen o hipoteca, fijando en este caso las condiciones y seguridades con que debe hacerse.
+Cuando se trata de enajenar, gravar o hipotecar a título oneroso, bienes que pertenezcan al incapaz como copropietario, se comenzará por mandar justipreciar dichos bienes, para fijar con toda precisión su valor y la parte que en ellos represente el incapaz, a fin de que el Juez resuelva si conviene o no que se dividan materialmente dichos bienes para que aquél reciba en plena propiedad su porción; o si, por el contrario, es conveniente la enajenación, gravamen o hipoteca, fijando en este caso las condiciones y seguridades con que debe hacerse.
 
 ###### Art. 709.
 
 Para todos los gastos extraordinarios que no sean de conservación ni de reparación, necesita el tutor ser autorizado por el Consejo de Familia.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Art. 710.
 
-Se requiere licencia judicial para que el tutor pueda transigir o comprometer en árbitros, los negocios del incapacitado.
+Se requiere licencia judicial para que el tutor pueda transigir o comprometer en árbitros, los negocios del incapaz.
 
 ###### Art. 711.
 
@@ -4789,61 +4925,87 @@ El nombramiento de árbitros hecho por el tutor deberá sujetarse a la aprobaci�
 
 Para que el tutor transija, cuando el objeto de la reclamación consista en bienes inmuebles, muebles valiosos o bien en valores mercantiles o industriales, necesita de la aprobación del Consejo de Familia otorgada con audiencia del curador.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Art. 713.
 
-Ni con licencia judicial, ni en subasta o fuera de ella, ni con autorización del Consejo de Familia puede el tutor comprar o arrendar los bienes del incapacitado, ni hacer contrato alguno respecto de ellos, alcanzando dicha prohibición a sus ascendientes, cónyuge, hijos o hermanos por consanguinidad o afinidad. Si lo hiciere, además de la nulidad del contrato, el acto será suficiente para que se le remueva.
+El tutor no puede comprar o arrendar los bienes del incapaz, ni hacer contrato alguno respecto de ellos, alcanzando dicha prohibición a sus ascendientes, cónyuge, hijos o hermanos por consanguinidad o afinidad. Si lo hiciere, además de la nulidad del contrato, el acto será suficiente para que se le remueva.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 714.
 
-Cesa la prohibición del artículo anterior, respecto de la venta de bienes, en el caso de que el tutor o sus parientes allí mencionados sean coherederos, partícipes o socios del incapacitado.
+Cesa la prohibición del artículo anterior, respecto de la venta de bienes, en el caso de que el tutor o sus parientes allí mencionados sean coherederos, partícipes o socios del incapaz.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 715.
 
-El tutor no podrá hacerse pago de sus créditos contra el incapacitado sin la conformidad del curador y del Consejo de Familia.
+El tutor no podrá hacerse pago de sus créditos contra el incapaz sin la conformidad del curador y del Consejo de Familia.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 716.
 
-El tutor no puede aceptar para sí, a título gratuito u oneroso, la cesión de algún derecho o crédito contra el incapacitado.
+El tutor no puede aceptar para sí, a título gratuito u oneroso, la cesión de algún derecho o crédito contra el incapaz.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 717.
 
-El tutor no puede dar en arrendamiento los bienes del incapacitado, por más de cinco años, sino en caso de necesidad o utilidad, previos el consentimiento del curador y del Consejo de Familia, observándose en su caso lo dispuesto en el artículo 713.
+El tutor no puede dar en arrendamiento los bienes del incapaz, por más de cinco años, sino en caso de necesidad o utilidad, previos el consentimiento del curador y del Consejo de Familia, observándose en su caso lo dispuesto en el artículo 713.
 
 ###### Art. 718.
 
 El arrendamiento hecho de conformidad con el artículo anterior, subsistirá por el tiempo convenido, aun cuando se acabe la tutela, pero será nula toda anticipación de renta o alquileres por más de dos años.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Art. 719.
 
-Sin autorización judicial, no puede el tutor, contraer deudas en nombre del incapacitado, ya sea que se constituya o no garantía de cualquiera especie en el contrato.
+Sin autorización judicial, no puede el tutor, contraer deudas en nombre del incapaz, ya sea que se constituya o no garantía de cualquiera especie en el contrato.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 720.
 
-El tutor no puede hacer donaciones a nombre del incapacitado.
+El tutor no puede hacer donaciones a nombre del incapaz.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 721.
 
-El tutor tiene, respecto del menor, los mismos deberes en todo lo relativo a la custodia, educación y formación que corresponden a quien ejerza la patria potestad.
+El tutor tiene, respecto de la persona menor de edad, los mismos deberes en todo lo relativo a la custodia, educación y formación que corresponden a quien ejerza la patria potestad.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 722.
 
-Durante la tutela, no corre la prescripción ni la usucapión entre el tutor y el incapacitado.
+Durante la tutela, no corre la prescripción ni la usucapión entre el tutor y el incapaz.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 723.
 
-El tutor tiene obligación de admitir las donaciones simples, legados y herencias que se dejen al incapacitado.
+El tutor tiene obligación de admitir las donaciones simples, legados y herencias que se dejen al incapaz.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 724.
 
-La expropiación por causa de utilidad pública, de bienes de incapacitados, no se sujetará a las reglas antes establecidas, sino a lo que dispongan las leyes de la materia.
+La expropiación por causa de utilidad pública, de bienes de incapaces, no se sujetará a las reglas antes establecidas, sino a lo que dispongan las leyes de la materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 725.
 
-Cuando la tutela del incapacitado recayere en su cónyuge, continuará éste ejerciendo los derechos conyugales, con las siguientes modificaciones:
+Cuando la tutela del incapaz recayere en su cónyuge, continuará éste ejerciendo los derechos conyugales, con las siguientes modificaciones:
 
 I. En los casos en que conforme a derecho fuera necesario el consentimiento del cónyuge incapaz, se suplirá éste por el Consejo de Familia, con audiencia del curador; y
 
-II. En los casos en que el cónyuge incapaz requiera querellarse del otro o demandarlo para asegurar sus derechos violados o amenazados, será representado por un tutor interino que el juez le nombrará. Es obligación del curador promover este nombramiento y si no la cumple, será responsable de los perjuicios que se causen al incapacitado. También podrá promover este nombramiento el Consejo de Familia o los parientes del incapacitado.
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+II. En los casos en que el cónyuge incapaz requiera querellarse del otro o demandarlo para asegurar sus derechos violados o amenazados, será representado por un tutor interino que el Juez le nombrará. Es obligación del curador promover este nombramiento y si no la cumple, será responsable de los perjuicios que se causen al incapaz. También podrá promover este nombramiento el Consejo de Familia o los parientes del incapaz.
 
 ###### Art. 726.
 
@@ -4853,23 +5015,27 @@ Cuando la tutela del incapaz recaiga en el cónyuge, éste sólo podrá gravar o
 
 Cuando la tutela recaiga en cualquiera otra persona, se ejercerá conforme a las reglas establecidas para la tutela de los menores.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 728.
 
-En caso de maltrato, de negligencia en los cuidados debidos al incapacitado o de mala administración de sus bienes, podrá el tutor ser removido de la tutela a petición del curador, de los parientes del incapacitado, del Agente de la Procuraduría Social, o del Consejo de Familia.
+En caso de maltrato, de negligencia en los cuidados debidos al incapaz o de mala administración de sus bienes, podrá el tutor ser removido de la tutela a petición del curador, de los parientes del incapaz, del Agente de la Procuraduría Social, o del Consejo de Familia.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 729.
 
-El tutor tiene derecho a una retribución sobre los rendimientos que produzcan los bienes del incapacitado, que podrá fijar el ascendiente o extraño que conforme a derecho lo nombre en su testamento y, para los tutores legítimos y dativos, el Consejo de Familia.
+El tutor tiene derecho a una retribución sobre los rendimientos que produzcan los bienes del incapaz, que podrá fijar el ascendiente o extraño que conforme a derecho lo nombre en su testamento y, para los tutores legítimos y dativos, el Consejo de Familia.
 
 ###### Art. 730.
 
 La retribución así fijada por el Consejo de Familia, no podrá ser menor del cinco ni mayor del diez por ciento de los rendimientos líquidos de dichos bienes.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Art. 731.
 
-Si los bienes del incapacitado tuvieren un aumento en sus productos, debido exclusivamente a la industria y diligencia del tutor, tendrá derecho a que se le aumente la remuneración hasta un veinte por ciento de los productos líquidos. La calificación del aumento se hará por el Consejo de Familia, con audiencia del curador.
+Si los bienes del incapaz tuvieren un aumento en sus productos, debido exclusivamente a la industria y diligencia del tutor, tendrá derecho a que se le aumente la remuneración hasta un veinte por ciento de los productos líquidos. La calificación del aumento se hará por el Consejo de Familia, con audiencia del curador.
 
 ###### Art. 732.
 
@@ -4880,6 +5046,8 @@ Para que pueda hacerse en la retribución de los tutores, el aumento extraordina
 El tutor no tendrá derecho a remuneración alguna y restituirá lo que por este título hubiese recibido, si contraviniese lo dispuesto en el artículo 271.
 
 ### CAPITULO XIII. De la extinción de la tutela
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 734.
 
@@ -4899,9 +5067,11 @@ La cuenta de administración comprenderá, no sólo las cantidades en numerario 
 
 El tutor es responsable del valor de los créditos activos, si dentro de sesenta días, contados desde el vencimiento de su plazo, no ha obtenido su pago o garantía que asegure éste, o no ha pedido judicialmente el uno o la otra.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Art. 738.
 
-Si el incapacitado no está en posesión de algunos bienes a que tiene derecho, será responsable el tutor de la pérdida de ellos, si dentro de dos meses, contados desde que tuvo noticia del derecho del incapacitado, no entabla a nombre de éste, judicialmente, las acciones conducentes para recobrarlos.
+Si el incapaz no está en posesión de algunos bienes a que tiene derecho, será responsable el tutor de la pérdida de ellos, si dentro de dos meses, contados desde que tuvo noticia del derecho del incapaz, no entabla a nombre de éste, judicialmente, las acciones conducentes para recobrarlos.
 
 ###### Art. 739.
 
@@ -4911,25 +5081,33 @@ Lo dispuesto en el artículo anterior se entiende sin perjuicio de la responsabi
 
 Las cuentas deben rendirse en el lugar en que se desempeñe la tutela.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Art. 741.
 
-Deben abonarse al tutor todos los gastos hechos debida y legalmente, aunque los haya anticipado de su propio caudal y aunque de ellos no haya resultado utilidad al incapacitado, si esto ha sido sin culpa del primero.
+Deben abonarse al tutor todos los gastos hechos debida y legalmente, aunque los haya anticipado de su propio caudal y aunque de ellos no haya resultado utilidad al incapaz, si esto ha sido sin culpa del primero.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 742.
 
-Ninguna anticipación ni crédito contra el incapacitado se abonará al tutor, si excede de la mitad de la renta anual de los bienes de aquél, a menos que al efecto haya sido autorizado por el juez con audiencia del curador y del Consejo de Familia.
+Ninguna anticipación ni crédito contra el incapaz se abonará al tutor, si excede de la mitad de la renta anual de los bienes de aquél, a menos que al efecto haya sido autorizado por el Juez con audiencia del curador y del Consejo de Familia.
 
 ###### Art. 743.
 
 El tutor será igualmente indemnizado, según el prudente arbitrio del Consejo de Familia, del daño que haya sufrido por causa de la tutela y en desempeño necesario de ella, cuando no haya existido de su parte culpa o negligencia.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Art. 744.
 
-La obligación de dar cuentas no puede ser dispensada en contrato o testamento, ni aún por el mismo incapacitado; y si esa dispensa se pusiere como condición en cualquier acto, se tendrá por no puesta.
+La obligación de dar cuentas no puede ser dispensada en contrato o testamento, ni aún por el mismo incapaz; y si esa dispensa se pusiere como condición en cualquier acto, se tendrá por no puesta.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 745.
 
-El tutor que sea reemplazado por otro, estará obligado, y lo mismo sus herederos, a rendir cuenta general de la tutela al que le reemplaza. El nuevo tutor responderá al incapacitado por los daños y perjuicios si no pudiere y tomare las cuentas de su antecesor.
+El tutor que sea reemplazado por otro, estará obligado, y lo mismo sus herederos, a rendir cuenta general de la tutela al que le reemplaza. El nuevo tutor responderá al incapaz por los daños y perjuicios si no pudiere y tomare las cuentas de su antecesor.
 
 ###### Art. 746.
 
@@ -4949,33 +5127,35 @@ El convenio celebrado entre el tutor y el del pupilo que estuvo bajo su guarda, 
 
 ### CAPITULO XIV. De la entrega de los bienes
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Art. 750.
 
-La tutela que verse sobre la persona y bienes del incapacitado se extingue:
-
-I. Por la muerte del pupilo o porque desaparezca la incapacidad; y
-
-II. Cuando el incapacitado sujeto a tutela, entre a la patria potestad por cualquier causa.
+La tutela que verse sobre la persona y bienes del incapaz se extingue, además de los supuestos previstos en el artículo 620, cuando el incapaz entre a la patria potestad por cualquier causa.
 
 ### CAPITULO XV. Del curador
 
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 751.
 
-El tutor, concluida la tutela, está obligado a entregar todos los bienes del incapacitado y todos los documentos que le pertenezcan, conforme al inventario y a las cuentas aprobadas.
+El tutor, concluida la tutela, está obligado a entregar todos los bienes del incapaz y todos los documentos que le pertenezcan, conforme al inventario y a las cuentas aprobadas.
 
 ###### Art. 752.
 
 La obligación de entregar los bienes no se suspende por estar pendiente la rendición de cuentas. La entrega debe ser hecha durante el mes siguiente a la terminación de la tutela. Cuando los bienes sean muy cuantiosos o estuvieren ubicados en diversos lugares, el juez puede fijar un término prudente para su conclusión, pero en todo caso deberá comenzarse en el plazo antes señalado.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Art. 753.
 
-El tutor que entre al cargo sucediendo a otro, está obligado a exigir la entrega de bienes y cuentas al que le ha precedido; si no la exige, es responsable de todos los daños y perjuicios que por su omisión se siguieren al incapacitado.
+El tutor que entre al cargo sucediendo a otro, está obligado a exigir la entrega de bienes y cuentas al que le ha precedido; si no la exige, es responsable de todos los daños y perjuicios que por su omisión se siguieren al incapaz.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 754.
 
-La entrega de los bienes y la cuenta de la tutela, se efectuarán a expensas del incapacitado. Si para realizarse no hubiere fondos disponibles, el Consejo de Familia podrá autorizar al tutor a fin de que se proporcionen los necesarios para la primera y éste adelantará los relativos a la segunda, los cuales le serán reembolsados con los primeros fondos de que se pueda disponer.
+La entrega de los bienes y la cuenta de la tutela, se efectuarán a expensas del incapaz. Si para realizarse no hubiere fondos disponibles, el Consejo de Familia podrá autorizar al tutor a fin de que se proporcionen los necesarios para la primera y éste adelantará los relativos a la segunda, los cuales le serán reembolsados con los primeros fondos de que se pueda disponer.
 
 ###### Art. 755.
 
@@ -4993,13 +5173,17 @@ Cuando en la cuenta resulte con saldo a cargo del tutor, aunque por un arreglo c
 
 Si la caución fuere de fianza, el convenio que conceda nuevos plazos al tutor, se hará saber al fiador; si éste consiente, permanecerá obligado hasta la solución; si no está conforme no habrá espera y se podrá exigir el pago inmediato o la sustitución del fiador por otro igualmente idóneo que acepte el convenio.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Art. 759.
 
-Todas las acciones por hechos relativos a la administración de la tutela, que el incapacitado pueda ejercitar contra su tutor o contra los fiadores y garantes de éste, prescribirán en cuatro años, contados desde el día en que se cumpla la mayor edad, o desde el momento en que se hayan recibido los bienes y la cuenta de la tutela o desde que haya cesado la incapacidad en los demás casos previstos por la ley.
+Todas las acciones por hechos relativos a la administración de la tutela, que el incapaz pueda ejercitar contra su tutor o contra los fiadores y garantes de éste, prescribirán en cuatro años, contados desde el día en que se cumpla la mayor edad, o desde el momento en que se hayan recibido los bienes y la cuenta de la tutela o desde que haya cesado la incapacidad o éste pueda comparecer personalmente a juicio en los demás casos previstos por la ley.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 760.
 
-Si la tutela hubiere fenecido durante la minoridad, el menor podrá ejercitar las acciones correspondientes contra el primer tutor y los que le hubieren sucedido en el cargo, computándose entonces los términos desde el día en que llegue a la mayor edad. Tratándose de los demás incapacitados, los términos se computarán desde que cese la incapacidad.
+Si la tutela hubiere fenecido durante la minoridad, la persona menor de edad podrá ejercitar las acciones correspondientes contra el primer tutor y los que le hubieren sucedido en el cargo, computándose entonces los términos desde el día en que llegue a la mayor edad. Tratándose de los demás incapaces, los términos se computarán desde que cese la incapacidad.
 
 ### CAPITULO UNICO. Disposiciones generales
 
@@ -5007,7 +5191,9 @@ Si la tutela hubiere fenecido durante la minoridad, el menor podrá ejercitar la
 
 ###### Art. 761.
 
-Todas las personas sujetas a tutela, ya sea testamentaria, legítima, dativa o voluntaria, además del tutor tendrán un curador, excepto en los casos en que la tutela sea desempeñada por una institución de beneficencia pública, descentralizada o particular; cuando el incapaz no tenga bienes o cuando se desempeñe, subsistiendo la patria potestad.
+Todas las personas sujetas a tutela testamentaria, legítima, dativa o voluntaria, además del tutor tendrán un curador.
+
+Se exceptúa de lo previsto en el párrafo anterior en los casos en que la tutela sea desempeñada por una institución de beneficencia pública, descentralizada o particular; cuando el incapaz no tenga bienes o cuando se desempeñe, subsistiendo la patria potestad.
 
 ###### Art. 762.
 
@@ -5045,21 +5231,29 @@ El curador en todos los demás casos será nombrado por el juez.
 
 El curador esta obligado a:
 
-I. Defender los derechos del incapacitado en juicio o fuera de él, exclusivamente en el caso de que estén en oposición con los del tutor;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-II. Vigilar la conducta del tutor y a poner en conocimiento del Consejo de Familia todo aquello que considere que pueda ser perjudicial para el incapacitado;
+I. Defender los derechos del incapaz en juicio o fuera de él, exclusivamente en el caso de que estén en oposición con los del tutor;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+II. Vigilar la conducta del tutor y a poner en conocimiento del Consejo de Familia todo aquello que considere que pueda ser perjudicial para el incapaz;
 
 III. Dar aviso al juez para que se haga el nombramiento del tutor, cuando éste faltare o abandonare la tutela; y
 
 IV. Cumplir las demás obligaciones que la ley le señale.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Art. 770.
 
-El curador que no cumpla los deberes prescritos en el artículo precedente, será responsable de los daños y perjuicios que resultaren al incapacitado.
+El curador que no cumpla los deberes prescritos en el artículo precedente, será responsable de los daños y perjuicios que resultaren al incapaz.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 771.
 
-Las funciones del curador cesarán cuando el incapacitado salga de la tutela; pero si sólo variaren las personas de los tutores, el curador continuará en la curaduría.
+Las funciones del curador cesarán cuando el incapaz salga de la tutela; pero si sólo variaren las personas de los tutores, el curador continuará en la curaduría.
 
 ###### Art. 772.
 
@@ -5785,7 +5979,9 @@ La posesión adquirida por medio de un delito, se tendrá en cuenta para la usuc
 
 La usucapión puede comenzar y correr contra cualquier persona, excepto en los casos siguientes:
 
-I. En contra de los incapacitados, cuando no se haya discernido su tutela conforme a las leyes. Los incapacitados tendrán derecho de exigir responsabilidad a sus tutores cuando por culpa de éstos no se hubiere interrumpido la usucapión;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+I. En contra de los incapaces, cuando no se haya discernido su tutela conforme a las leyes. Los incapaces tendrán derecho de exigir responsabilidad a sus tutores cuando por culpa de éstos no se hubiere interrumpido la usucapión;
 
 II. Entre ascendientes y descendientes, durante la patria potestad respecto de los bienes a que los segundos tengan derecho conforme a la ley;
 
@@ -5793,7 +5989,9 @@ III. Entre hermanos;
 
 IV. Entre consortes;
 
-V. Entre los incapacitados y sus tutores o curadores, mientras dure la tutela;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+V. Entre los incapaces y sus tutores o curadores, mientras dure la tutela;
 
 VI. Entre beneficiarios del patrimonio familiar respecto de los bienes que integran éste;
 
@@ -8731,13 +8929,17 @@ El custodio responderá por los daños y perjuicios causados por las personas me
 
 No recaerá responsabilidad por daños y perjuicios sobre quien ejerce la patria potestad ni la guarda y custodia, cuando la persona menor de edad al momento de producirlos se encuentre bajo cuidado y vigilancia de otras persona (sic) en guarderías, colegios, talleres y cualquier otra institución que implicitamente se encuentre obligada a ejercer cuidado y vigilancia.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Art. 1399.
 
-Lo dispuesto en los dos artículos anteriores es aplicable a los tutores, respecto de los incapacitados que tienen bajo su cuidado.
+Lo dispuesto en los dos artículos anteriores es aplicable a los tutores, respecto de los incapaces que tienen bajo su cuidado.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 1400.
 
-Ni quien ejerza la patria potestad ni los tutores tienen obligación de responder de los daños y perjuicios que causen los incapacitados sujetos a su cuidado y vigilancia, si probaren que les ha sido imposible evitarlos. Esta imposibilidad no resulta de la mera circunstancia de haber sucedido el hecho fuera de su presencia, si aparece que ellos no han ejercido suficiente vigilancia sobre los incapacitados.
+Ni quien ejerza la patria potestad ni los tutores tienen obligación de responder de los daños y perjuicios que causen los incapaces sujetos a su cuidado y vigilancia, si probaren que les ha sido imposible evitarlos. Esta imposibilidad no resulta de la mera circunstancia de haber sucedido el hecho fuera de su presencia, si aparece que ellos no han ejercido suficiente vigilancia sobre los incapaces.
 
 ###### Art. 1401.
 
@@ -8911,13 +9113,17 @@ Para los efectos de este capítulo, se entiende que la autoridad sustituye a la 
 
 La venta queda perfeccionada cuando causa estado la resolución que dicte la autoridad, aprobando el procedimiento del remate.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Art. 1435.
 
-No pueden adquirir en remate, los jueces, secretarios y demás servidores públicos de los juzgados; los magistrados del tribunal que administrativa y judicialmente sean superiores de los jueces; la autoridad administrativa que decrete y realice el remate, los superiores de ésta y los empleados de ambos; el ejecutado, sus procuradores, abogados y fiadores; los albaceas y tutores, si se trata de bienes pertenecientes a una sucesión o a los incapacitados, respectivamente, ni los peritos que hayan valuado los bienes objeto del remate.
+No pueden adquirir en remate, los jueces, secretarios y demás servidores públicos de los juzgados; los magistrados del tribunal que administrativa y judicialmente sean superiores de los jueces; la autoridad administrativa que decrete y realice el remate, los superiores de ésta y los empleados de ambos; el ejecutado, sus procuradores, abogados y fiadores; los albaceas y tutores, si se trata de bienes pertenecientes a una sucesión o a los incapaces, respectivamente, ni los peritos que hayan valuado los bienes objeto del remate.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 1436.
 
-El producto de la venta según sea el caso se aplicará en primer término, al pago de los gastos que se originen con la almoneda y el remanente a cubrir pasivos a cargo del ejecutado; o como ingreso del erario público, cuando los bienes rematados fueren confiscados, y finalmente cuando se trata de venta de bienes por causa de división de copropiedad, reparto para el pago del haber hereditario, o de disposición de bienes de menores incapacitados, se entregará el remanente a quien sea el titular de los bienes rematados según el interés que representen.
+El producto de la venta según sea el caso se aplicará en primer término, al pago de los gastos que se originen con la almoneda y el remanente a cubrir pasivos a cargo del ejecutado; o como ingreso del erario público, cuando los bienes rematados fueren confiscados, y finalmente cuando se trata de venta de bienes por causa de división de copropiedad, reparto para el pago del haber hereditario, o de disposición de bienes de personas menores de edad, se entregará el remanente a quien sea el titular de los bienes rematados según el interés que representen.
 
 ###### Art. 1437.
 
@@ -10401,7 +10607,9 @@ La prescripción se suspende y, por tanto, no puede comenzar ni correr:
 
 I. Entre ascendientes y descendientes, durante la patria potestad;
 
-II. Entre los incapacitados y sus tutores mientras dura la tutela;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+II. Entre los incapaces y sus tutores mientras dura la tutela;
 
 III. Entre consortes mientras subsista legalmente su unión matrimonial;
 
@@ -10417,7 +10625,9 @@ VIII. Entre las personas jurídicas y sus administradores mientras éstos estén
 
 IX. Entre el deudor que ha ocultado dolosamente la existencia de la deuda y el acreedor, mientras el dolo no haya sido descubierto;
 
-X. Para los menores y mayores incapacitados mientras no tengan representante legal en forma individualizada, y por seis meses más siguientes al nombramiento del mismo, o a la cesación de la incapacidad;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+X. Para incapaces mientras no tengan representante legal en forma individualizada, y por seis meses más siguientes al nombramiento del mismo, o a la cesación de la incapacidad;
 
 XI. Para quienes se encuentran en servicio público fuera del territorio del Estado; y
 
@@ -13185,7 +13395,9 @@ El tercero que hubiere contratado con el mandatario que se excedió en sus facul
 
 No pueden ser procuradores en juicio:
 
-I. Los incapacitados;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+I. Los incapaces; y
 
 II. Los servidores públicos judiciales y aquellos que laboren en las dependencias fiscales, dentro de los límites de su circunscripción territorial.
 
@@ -14939,7 +15151,9 @@ I. El coheredero o partícipe, sobre los inmuebles repartidos, en cuanto importe
 
 II. Los descendientes de cuyos bienes fueren meros administradores los ascendientes, sobre los bienes de éstos, para garantizar la conservación y devolución de aquéllos;
 
-III. Los menores y demás incapacitados sobre los bienes de sus tutores por los que éstos administren;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+III. Las personas menores de edad y demás incapaces sobre los bienes de sus tutores por los que éstos administren;
 
 IV. Los legatarios, por el importe de sus legados, si no hubiere hipoteca especial designada por el mismo testador;
 
@@ -15223,7 +15437,9 @@ La omisión de lo previsto en la fracción II provoca su nulidad de pleno derech
 
 No podrá someterse a contrato de compromiso arbitral:
 
-I. Ninguna controversia de un incapacitado, por su tutor o quien tenga la patria potestad sobre él, salvo que haya autorización judicial expresa en ese sentido, acreditando el beneficio para el incapacitado;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+I. Ninguna controversia de un incapaz, por su tutor o quien tenga la patria potestad sobre él, salvo que haya autorización judicial expresa en ese sentido, acreditando el beneficio para el incapaz;
 
 II. Ninguna controversia de una sucesión, sino hasta que el albacea haya obtenido el consentimiento unánime de los herederos; salvo que se trate de cumplimentar una cláusula compromisoria pactada por el autor de la sucesión en un contrato;
 
@@ -15495,9 +15711,11 @@ II. Cuando se refiera a una controversia presente o para prevenir una controvers
 
 III. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2004)
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Art. 2635.
 
-Los ascendientes y tutores sólo podrán transigir en nombre de quienes ejercen la patria potestad o el cargo de tutor, cuando la transacción sea necesaria o útil para los intereses de los incapacitados y previa autorización judicial.
+Los ascendientes y tutores sólo podrán transigir en nombre de quienes ejercen la patria potestad o el cargo de tutor, cuando la transacción sea necesaria o útil para los intereses del incapaz y previa autorización judicial.
 
 ###### Art. 2636.
 
@@ -17219,7 +17437,9 @@ III. Al cónyuge supérstite, cuando esté impedido de trabajar o no tenga biene
 
 IV. A los ascendientes;
 
-V. A los hermanos y demás parientes colaterales dentro del cuarto grado, si están incapacitados o mientras que no cumplan dieciocho años, si no tienen bienes para subvenir a sus necesidades; y
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+V. A los hermanos y demás parientes colaterales dentro del cuarto grado, si son incapaces o mientras que no cumplan dieciocho años, si no tienen bienes para subvenir a sus necesidades; y
 
 VI. A la persona con quien el testador vivió como si fuera su cónyuge durante los cinco años que precedieron inmediatamente a su muerte o con quien tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante esa vida en común y el superviviente esté imposibilitado para trabajar y no tenga bienes propios suficientes. Este derecho subsistirá mientras el beneficiario no contraiga nupcias y observe buena conducta. Si fueren varias las personas que se encuentren en el mismo caso a que se refiere este artículo, respecto del testador, ninguna de ellas tendrá derecho a alimentos.
 
@@ -17315,11 +17535,11 @@ El derecho a reclamar la herencia prescribe en diez años contados a partir del 
 
 Pueden aceptar o repudiar la herencia todos los que tienen la libre disposición de sus bienes.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 2995.
 
-La herencia dejada a los menores y demás incapacitados, será aceptada por sus representantes, quienes podrán repudiarla con autorización judicial, previa audiencia del Agente de la Procuraduría Social.
+La herencia dejada a las personas menores de edad y demás incapaces, será aceptada por sus representantes, quienes podrán repudiarla con autorización judicial, previa audiencia del Agente de la Procuraduría Social.
 
 ###### Art. 2996.
 
@@ -18494,3 +18714,9 @@ P.O. 30 DE OCTUBRE DE 2014.
 P.O. 25 DE NOVIEMBRE DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al dia siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 29 DE NOVIEMBRE DE 2014.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Los juicios que se encuentren en trámite a la entrada en vigor del presente decreto, podrán substanciarse con estas reglas siempre que no se afecten derechos de terceros.
