@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-estatal-del-deporte-21462"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-03-13"
-last_updated: "2001-03-13"
+last_updated: "2014-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21462&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 REGLAMENTO DE LA LEY ESTATAL DEL DEPORTE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 29 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Sección XVII del Periódico Oficial del Estado de Jalisco, el martes 13 de marzo de 2001.
 
@@ -35,7 +37,7 @@ Guadalajara, Jalisco, febrero 8 ocho del año 2001 dos mil uno.
 
 Con fundamento en los artículos 15 fracción I, 36, 35, 46 y 50 fracciones VIII y XXIII de la Constitución Política; 1°, 2°, 3°, 5°, 6°, 19 fracción II, 20, 21 y 22 fracciones I, II, III, IV, XX, XXI, y XXII, 31 fracción XX, 32 fracción I, 32 bis fracción I y 33 fracción III de la Ley Orgánica del Poder Ejecutivo; ambos ordenamientos de esta Entidad Federativa y con base en los siguientes
 
-CONSIDERANDOS:.
+CONSIDERANDOS:...
 
 En virtud de lo anterior y con base en los fundamentos y razonamientos expuestos, el Ejecutivo a mi cargo tiene a bien emitir el siguiente
 
@@ -139,7 +141,7 @@ El CODE funcionará orgánicamente para impulsar, fomentar y desarrollar la cult
 
 El CODE tendrá, además de las atribuciones que expresamente le confiere la Ley, las siguientes:
 
-I. Estudiar y analizar las propuestas tendientes a la ejecución y evaluación de la política estatal en el ámbito de la cultura física y el deporte, a fin de obtener mayor participación en los programas operativos; y (sic)
+I. Estudiar y analizar las propuestas tendientes a la ejecución y evaluación de la política estatal en el ámbito de la cultura física y el deporte, a fin de obtener mayor participación en los programas operativos; y
 
 II. Elaborar planes y programas tendientes a establecer estrategias y acuerdos que propicien la obtención e incremento de todo tipo de recursos necesarios para su desarrollo, además de establecer los mecanismos para asegurar la participación de los deportistas en la preparación de los programas, conforme a las convocatorias que emita;
 
@@ -586,3 +588,15 @@ DR. MAURICIO LIMÓN AGUIRRE
 EL C. SECRETARIO DE EDUCACION
 
 LIC. MIGUEL AGUSTÍN LIMÓN MACÍAS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE NOVIEMBRE DE 2014.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga el Reglamento de la Ley Estatal del Deporte, publicado el 13 de marzo de 2001, sección XVII en el Periódico Oficial "El Estado de Jalisco".
+
+TERCERO. El Code Jalisco realizará campañas de promoción para la difusión del reconocimiento deportivo para promover que en Jalisco se cuente con las instalaciones apropiadas, así como con personal capacitado o certificado; en los términos de la Ley y su reglamento.
+
+Dicha campaña se difundirá en la página de Internet del Code Jalisco, publicaciones, folletos, estrados, periódicos murales, boletines o en cualquier otro medio a su alcance.
