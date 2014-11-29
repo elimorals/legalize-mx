@@ -4,7 +4,7 @@ identifier: "CHH-ley-reguladora-de-la-base-de-datos-geneticos-para-el-estado-683
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-01"
-last_updated: "2010-10-02"
+last_updated: "2014-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68301&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY REGULADORA DE LA BASE DE DATOS GENETICOS PARA EL ESTADO DE CHIHUAHUA
 
-LEY REGULADORA DE LA BASE DE DATOS GENETICOS PARA EL ESTADO DE CHIHUAHUA
+LEY REGULADORA DE LA BASE DE DATOS GENÉTICOS PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 1 de abril de 2009.
 
@@ -55,7 +55,7 @@ Creación del Sistema Estatal de Registros de ADN.
 
 La presente Ley regula un Sistema Estatal de Registros de ADN, constituido sobre la base de huellas genéticas determinadas con ocasión de una investigación penal, así como para los procedimientos de determinación de parentesco biológico, identificación de cadáveres, restos óseos, óbitos, fetos o de averiguación de personas desaparecidas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -65,9 +65,9 @@ La obtención de la huella genética se realizará por profesionales y técnicos
 
 Dependencia orgánica.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 La administración y custodia del Sistema estará a cargo de la Fiscalía General del Estado, a través de la Dirección de Servicios Periciales y Ciencias Forenses, correspondiéndole el ingreso y la gestión de la información.
 
@@ -75,9 +75,9 @@ La administración y custodia del Sistema estará a cargo de la Fiscalía Genera
 
 Principios.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 El Sistema tendrá carácter reservado. La información en él contenida sólo podrá ser indirectamente consultada por el Ministerio Público y los tribunales del ámbito Penal y de lo Familiar, a través de informes emitidos por los peritos a cargo. La Policía Estatal Única, de acuerdo a la normatividad que para tal efecto expida la Fiscalía General del Estado podrá tener acceso a la información de forma indirecta, previa autorización del Ministerio Público, y los defensores públicos y privados, previa autorización del Tribunal respectivo.
 
@@ -101,7 +101,7 @@ II. Alfanumérico: Perteneciente a un conjunto de caracteres que incluyen letras
 
 III. Evidencia: Es un objeto, sustancia o elemento de interés que permite la identificación de los factores que intervienen en un fenómeno criminal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -125,11 +125,15 @@ Registro de Sentenciados.
 
 El Registro de Sentenciados contendrá las huellas genéticas de las personas que hubieren sido condenadas en un proceso penal por sentencia ejecutoriada, en los casos a que se refiere el artículo 19 de esta Ley. Las huellas genéticas incluidas en este Registro deberán ser integradas adicionalmente a los antecedentes que consten en el prontuario penal de los sentenciados. La eliminación de los antecedentes contenidos en el prontuario penal, realizada en conformidad a la ley y a los reglamentos correspondientes, no implicará la eliminación de la huella genética contenida en el Registro de que trata este artículo.
 
-###### Artículo 8o.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 8°.
 
 Registro de Imputados.
 
-El Registro de Imputados contendrá las huellas genéticas de quienes hubieren sido imputados de un delito, determinadas sobre la base de muestras biológicas obtenidas de conformidad con lo dispuesto en el Código de Procedimientos Penales y en el artículo 19 de esta Ley.
+El Registro de Imputados contendrá las huellas genéticas de quienes hubieren sido imputados de un delito, determinadas sobre la base de muestras biológicas obtenidas de conformidad con lo dispuesto en el Código Nacional de Procedimientos Penales y en el artículo 19 de esta Ley.
 
 ###### Artículo 9o.
 
@@ -143,7 +147,7 @@ Registro de Víctimas.
 
 En el Registro de Víctimas se contendrán las huellas genéticas de las víctimas de un delito, determinadas en el curso de un procedimiento penal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -179,11 +183,15 @@ La presente Ley se inscribe en el marco de lo dispuesto en la Ley de Transparenc
 
 ### CAPÍTULO III. DE LA TOMA DE MUESTRAS, OBTENCIÓN DE EVIDENCIAS, DETERMINACIÓN DE HUELLAS GENÉTICAS Y COTEJO DE LAS MISMAS
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 14.
 
 Obtención de muestras biológicas.
 
-Peritos de la Dirección de Servicios Periciales y Ciencias Forenses y personal capacitado, procederán a la toma de muestras y fluidos de la víctima, detenido o imputado, así como del lugar del delito. La toma de muestras que requieran inspecciones, reconocimientos o intervenciones corporales, sin consentimiento del afectado, requerirá, en todo caso, autorización judicial, de acuerdo con lo establecido en el Código de Procedimientos Penales.
+Peritos de la Dirección de Servicios Periciales y Ciencias Forenses y personal capacitado, procederán a la toma de muestras y fluidos de la víctima, detenido o imputado, así como del lugar del delito. La toma de muestras que requieran inspecciones, reconocimientos o intervenciones corporales, sin consentimiento del afectado, requerirá, en todo caso, autorización judicial, de acuerdo con lo establecido en el Código Nacional de Procedimientos Penales.
 
 ###### Artículo 15.
 
@@ -195,19 +203,23 @@ Toda persona que intervenga en la toma de muestras, obtención de evidencias y d
 
 Remisión de informe y material biológico.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 Al determinarse la huella genética por parte de la Dirección de Servicios Periciales y Ciencias Forenses, ésta rendirá el informe que dé cuenta de la pericia y metodología y lo remitirá a la autoridad correspondiente.
 
-Cuando un peritaje recaiga sobre objetos que se consuman al ser analizados para la obtención de huella genética, la Dirección de Servicios Periciales y Ciencias Forenses notificará lo conducente al Ministerio Público, a efecto de que éste proceda en los términos del artículo 270 del Código de Procedimientos Penales.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Cuando un peritaje recaiga sobre objetos que se consuman al ser analizados para la obtención de huella genética, la Dirección de Servicios Periciales y Ciencias Forenses notificará lo conducente al Ministerio Público, a efecto de que éste proceda en los términos del artículo 274 del Código Nacional de Procedimientos Penales.
 
 ###### Artículo 17.
 
 Pericia de cotejo y remisión de informe.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -221,9 +233,9 @@ Conservación y destrucción del material biológico.
 
 Inmediatamente después de emitido el informe de que trata el artículo precedente o de recibidas las tomas a que se refiere el artículo 14, la Dirección de Servicios Periciales y Ciencias Forenses deberá proceder a la conservación del material biológico que hubiere sido objeto de un examen de ADN.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 La conservación de las muestras biológicas se hará por parte de la Dirección de Servicios Periciales y Ciencias Forenses, de acuerdo con el siguiente esquema:
 
@@ -235,7 +247,7 @@ III. Evidencias, por cinco años.
 
 IV. ADN obtenido de las evidencias, por dos años.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -265,13 +277,21 @@ Cuando, por sentencia ejecutoriada, se condene a un imputado cuya huella genéti
 
 Si no se hubiere determinado la huella genética del imputado durante el procedimiento penal, en la sentencia condenatoria el Tribunal ordenará que se determine, previa toma de muestras biológicas si fuere necesario, y se incluya en el Registro de Sentenciados.
 
-En todo caso, el Tribunal de Juicio Oral competente, de oficio o a petición del Ministerio Público, y en consideración a los antecedentes personales del sentenciado, así como a la naturaleza, modalidades y móviles determinantes del delito, podrá ordenar en la sentencia la práctica de las mismas diligencias de toma de muestras biológicas y determinación y registro de huellas genéticas respecto de un sentenciado con pena de prisión.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+En todo caso, el Tribunal de Enjuiciamiento competente, de oficio o a petición del Ministerio Público, y en consideración a los antecedentes personales del sentenciado, así como a la naturaleza, modalidades y móviles determinantes del delito, podrá ordenar en la sentencia la práctica de las mismas diligencias de toma de muestras biológicas y determinación y registro de huellas genéticas respecto de un sentenciado con pena de prisión.
 
 ###### Artículo 21.
 
 Eliminación de huellas genéticas contenidas en la base de datos.
 
-Las huellas genéticas contenidas en los Registros de Imputados y de Víctimas, serán eliminadas por la Dirección de Servicios Periciales y Ciencias Forenses, previa notificación al Ministerio Público, Juez de Garantía o Tribunal de Juicio Oral:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Las huellas genéticas contenidas en los Registros de Imputados y de Victimas, serán eliminadas por la Dirección de Servicios Periciales y Ciencias Forenses, previa notificación al Ministerio Público, Juez de Control o Tribunal de Enjuiciamiento:
 
 A).- Una vez que se hubiere puesto término al procedimiento penal respectivo, ya sea por sentencia condenatoria, absolutoria o por la concurrencia de causas eximentes por falta de imputabilidad o culpabilidad, salvo resolución judicial en contrario. Si hubo juicio, procederá la eliminación desde que se falló por resolución ejecutoriada, sin perjuicio de lo previsto en el párrafo primero del artículo precedente, en un plazo no superior a tres días, contado desde que le fuere comunicado el término del procedimiento por el Ministerio Público. Dicha comunicación se efectuará por cualquier medio idóneo que permita dejar constancia fehaciente de su despacho y recepción.
 
@@ -343,7 +363,7 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 
 LIC. JOSE REYES BAEZA TERRAZAS. Gobernador Constitucional del Estado. Rúbrica. LIC. SERGIO GRANADOS PINEDA. Secretario General de Gobierno. Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 28 DE NOVIEMBRE DE 2009.
 
@@ -392,3 +412,15 @@ P.O. 2 DE OCTUBRE DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Inicio de Vigencia.
+
+El presente Decreto entrará en vigor al momento en el que inicie su vigencia el Código Nacional de Procedimientos Penales, de conformidad con la declaratoria que al efecto se emita por el Congreso del Estado, en los términos del Artículo Segundo Transitorio de dicho cuerpo normativo.
+
+SEGUNDO.- Derogación tácita de preceptos incompatibles.
+
+Quedan derogadas todas las disposiciones legales que se opongan al contenido del presente Decreto.
+
+TERCERO.- Cuando en cualquier disposición legal se haga referencia al Código de Procedimientos Penales del Estado de Chihuahua, se entenderá que se refiere al Código Nacional de Procedimientos Penales.
