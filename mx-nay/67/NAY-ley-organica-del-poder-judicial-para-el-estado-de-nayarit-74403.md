@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-judicial-para-el-estado-de-nayarit-74403
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-03-20"
-last_updated: "2014-08-18"
+last_updated: "2014-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGÁNICA DEL PODER JUDICIAL PARA EL ESTADO DE NAYARIT
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL DECRETO SIN NÚMERO DE LA DECLARATORIA DE IMPLEMENTACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO EN EL ESTADO DE NAYARIT, VÉASE LOS ARTÍCULOS PRIMERO, SEGUNDO, TERCERO Y CUARTO PUBLICADOS EN EL P.O. DE 18 DE AGOSTO DE 2014.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 20 de marzo de 2010.
 
@@ -45,23 +45,29 @@ LEY ORGÁNICA DEL PODER JUDICIAL PARA EL ESTADO DE NAYARIT
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 Artículo 1
 
-La presente Ley es de orden público y tiene por objeto regular la organización y funcionamiento del Poder Judicial del Estado de Nayarit, a quien corresponde ejercer las atribuciones que le competen en materia de control constitucional local, en los asuntos de orden electoral, civil, familiar, penal, justicia para adolescentes, extinción de dominio y en los del orden federal en los casos en que las leyes de la materia le confiera jurisdicción.
+La presente Ley es de orden público y tiene por objeto regular la organización y funcionamiento del Poder Judicial del Estado de Nayarit, a quien corresponde ejercer las atribuciones que le competen en materia de control constitucional local, en los asuntos de orden electoral, civil, familiar, penal, justicia para adolescentes, mercantil en jurisdicción concurrente, extinción de dominio, administrativo y fiscal, así como en los del orden federal en los casos en que las leyes de la materia le confiera jurisdicción.
 
 Artículo 2
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Para los efectos del artículo anterior, corresponde al Poder Judicial del Estado:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Corresponde al Poder Judicial:
 
 1. Garantizar la supremacía de la Constitución, en los términos que ésta misma establece, así como la tutela de los derechos en ella contenidos, interpretarla, anular los actos, leyes y normas que la contravengan;
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR EL PRESENTE NUMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-2. Dirimir las controversias del fuero común en el orden civil, familiar, penal, de justicia para adolescentes, mercantil en jurisdicción concurrente y extinción de dominio;
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+2. Dirimir las controversias del fuero común en el orden civil, familiar, penal, de adolescentes, mercantil en jurisdicción concurrente, extinción de dominio, administrativo y fiscal;
 
 > <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
 
@@ -419,6 +425,12 @@ Artículo 28
 
 2. El magistrado que disienta de la mayoría podrá formular voto particular en un plazo no mayor de tres días, que se insertará en la ejecutoria respectiva, salvo en el caso de la Sala Constitucional-electoral, que se regirá por la ley de la materia.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR EL PRESENTE NUMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+3. Tratándose de la jurisdicción administrativa y fiscal, la Sala Constitucional-Electoral estará a lo dispuesto por el artículo 31 BIS de la presente Ley.
+
 Artículo 29
 
 1. La sala colegiada correspondiente calificará las excusas e impedimentos de sus integrantes. Si con motivo de la excusa o del impedimento, el asunto no pudiere ser resuelto, se hará del conocimiento del Presidente del Tribunal para que designe al magistrado supernumerario que deba sustituirlo.
@@ -435,11 +447,31 @@ Artículo 30
 
 Artículo 31
 
-La Sala Constitucional-Electoral, tendrá competencia para conocer y resolver los asuntos que le confiere la Constitución Política del Estado y las leyes de la materia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+La Sala Constitucional-Electoral, tendrá competencia para conocer y resolver los asuntos que le confiere la Constitución Política del Estado y las leyes aplicables.
 
 > <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
 
 Asimismo, en jurisdicción concurrente conforme a lo previsto en el artículo 107 fracción XII, de la Constitución Política de los Estados Unidos Mexicanos, tendrá competencia para conocer con carácter de superior jerárquico del juzgador que emita el acto, de los amparos que se promuevan por violaciones a los derechos y garantías previstas en los artículos 16, en materia penal, 19 y 20 de la propia Constitución Federal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 31 Bis
+
+1. Para el ejercicio de la jurisdicción administrativa y fiscal, la Sala Constitucional- Electoral será la máxima autoridad y órgano especializado en la materia.
+
+2. En esos efectos, la Sala funcionará de la siguiente manera:
+
+a. Los magistrados que la integran tienen competencia unitaria para conocer, substanciar y resolver el juicio contencioso administrativo de acuerdo con las leyes aplicables.
+
+b. El Pleno de la misma tiene competencia para conocer y resolver el recurso de reconsideración que prevé la ley de la materia.
+
+3. La organización administrativa de la Sala garantizará su funcionamiento conforme a los principios de la función judicial. El personal que a ella se adscriba, de conformidad con el estatuto judicial, tendrá las atribuciones y funciones que establece esta ley y el reglamento correspondiente.
 
 ### CAPÍTULO III. DE LAS SALAS COLEGIADAS
 
@@ -477,7 +509,17 @@ Corresponde conocer y resolver a las salas de los asuntos siguientes:
 
 En materia penal, cuando un juez resuelva un asunto, la Sala correspondiente tendrá que conocer de los recursos que deriven de aquél.
 
-6. Las demás que expresamente les encomiende la ley.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR EL PRESENTE NUMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+6. De los recursos de reconsideración, en jurisdicción administrativa y fiscal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR EL PRESENTE NUMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+7. Los demás que expresamente les encomiende la ley.
 
 ### CAPÍTULO VI. DE LOS PRESIDENTES DE LAS SALAS
 
@@ -1803,9 +1845,13 @@ En los asuntos de la competencia de las salas, se interrumpirá y dejará de ser
 
 3. Para la modificación de la jurisprudencia del Tribunal se observarán las mismas reglas establecidas en esta Ley para su formación.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 Artículo 140
 
-Las tesis y criterios que al efecto fije la Sala Constitucional-Electoral, se regirán por las leyes de la materia.
+Las tesis y criterios que al efecto fije la Sala Constitucional-Electoral, se regirán por las leyes aplicables.
 
 ## TÍTULO DECIMO. DEL ARCHIVO, BOLETIN JUDICIAL, BIBLIOTECAS
 
@@ -2030,3 +2076,7 @@ Artículo Segundo.- La presente Declaratoria deberá difundirse mediante Bando S
 Artículo Tercero.- Para su conocimiento y efectos conducentes, remítase el presente Decreto a las Cámaras que componen el Honorable Congreso de la Unión, a las legislaturas estatales y a la Asamblea Legislativa del Distrito Federal.
 
 Artículo Cuarto.- Comuníquese el presente Decreto a la Secretaría de Gobernación del Gobierno de la República, por conducto de la Secretaría Técnica del Consejo de Coordinación para la Implementación del Sistema de Justicia Penal.
+
+P.O. 29 DE NOVIEMBRE DE 2014.
+
+Único.- El presente decreto entrará en vigor el diecinueve de diciembre de dos mil catorce, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
