@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-secretaria-de-desarrollo-94537"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-30"
-last_updated: "2013-03-30"
+last_updated: "2014-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO, FORESTAL Y PESQUERO DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2014.
 
 Reglamento publicado en el Suplemento 7363 del Periódico Oficial del Estado de Tabasco, el sábado 30 de marzo de 2013.
 
@@ -56,6 +56,10 @@ III. POFAE: Fideicomiso Irrevocable de Administración denominado Fondo de Fomen
 IV. Órgano de Consulta: Consejo Estatal de Desarrollo Rural Sustentable del Estado de Tabasco;
 
 V. Reglamento: Reglamento Interior de la Secretaría de Desarrollo Agropecuario, Forestal y Pesquero;
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+V BIS. Órgano Desconcentrado: Comisión Estatal Forestal (COMESFOR);
 
 VI. Secretaría: Secretaría de Desarrollo Agropecuario, Forestal y Pesquero;
 
@@ -99,6 +103,10 @@ Para el estudio, planeación y despacho de los asuntos de su competencia, la Sec
 
 1.6. Unidad de Monitoreo y Evaluación.
 
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+1.7. Dirección de Programas Federales.
+
 2. COORDINACIÓN DE DESARROLLO RURAL.
 
 2.1. Unidad de Apoyo Ejecutivo.
@@ -117,25 +125,43 @@ Para el estudio, planeación y despacho de los asuntos de su competencia, la Sec
 
 4. SUBSECRETARIA DE GANADERÍA.
 
-4.1. Dirección de Ganadería de Especies Mayores.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-4:2. Dirección de Ganadería de Especies Menores.
+4.1. Dirección de Especies Mayores.
 
-5. SUBSECRETARÍA DE PESCA Y ACUACULTURA.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+4.2. Dirección de Especies Menores.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+5. SUBSECRETARÍA DE PESCA Y ACUICULTURA.
 
 5.1. Dirección de Fomento Pesquero.
 
-5.2. Dirección de Acuacultura.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-6. DIRECCIÓN GENERAL DE DELEGACIONES.
+5.2. Dirección de Acuicultura.
 
-6.1. Delegación Chontalpa - Costa.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-6.2. Delegación Usumacinta.
+6. DIRECCIÓN GENERAL DE DESARROLLO REGIONAL.
 
-6.3. Delegación Sierra.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-6.4. Delegación Centro - Pantanos.
+6.1. Delegación Regional Chontalpa.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+6.2. Delegación Regional Usumacinta.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+6.3. Delegación Regional Sierra.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+6.4. Delegación Regional Centro.
 
 6.5. Dirección de Prevención y Manejo de Riesgos.
 
@@ -143,17 +169,37 @@ Para el estudio, planeación y despacho de los asuntos de su competencia, la Sec
 
 7.1. Consejo Estatal de Desarrollo Rural Sustentable del Estado de Tabasco.
 
-8. ENTIDADES PARAESTATALES SECTORIZADAS.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-8.1. Fideicomiso Irrevocable de Administración· denominado Fondo de Fomento Agropecuario del Estado de Tabasco (FOFAE).
+8. ÓRGANO ADMINISTRATIVO DESCONCENTRADO.
 
-8.2. Fondo de Garantía para las Empresas de Solidaridad del Estado de Tabasco (FOGATAB).
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-8.3. Fideicomiso Fuente Alterna de Pago (AGROTAB).
+8.1. Comisión Estatal Forestal (COMESFOR).
 
-8.4. Fondo de Apoyo a la Mujer (FAM).
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-8.5. Fondo de Garantía Mutualista Tabasco (FOGAMU).
+9. ENTIDADES SECTORIZADAS.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+9.1. Fideicomiso Irrevocable de Administración denominado Fondo de Fomento Agropecuario del Estado de Tabasco (FOFAE).
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+9.2. Fondo de Garantía para las Empresas de Solidaridad del Estado de Tabasco (FOGATAB).
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+9.3. Fideicomiso Fuente Alterna de Pago (AGROTAB).
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+9.4. Fondo de Apoyo a la Mujer (FAM).
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+9.5. Fondo de Garantía Mutualista Tabasco (FOGAMU).
 
 Artículo 9 (sic). Los servidores públicos de la Secretaría están obligados a guardar estricta reserva y confidencialidad sobre los asuntos de su competencia, sujetando sus actos a la aplicabilidad de las disposiciones legales conducentes.
 
@@ -289,7 +335,7 @@ XVI. Las demás que le encomiende el Secretario y las que determinen las disposi
 
 Para el desempeño de sus atribuciones, la Dirección de Administración contará con las siguientes Unidades Administrativas:
 
-I. Subdirección Programas Federales y Estatales;
+I. (DEROGADA, P.O. 29 DE NOVIEMBRE DE 2014)
 
 II. Subdirección de Recursos Humanos;
 
@@ -353,6 +399,10 @@ X. Coordinar y mantener actualizado el inventario de los bienes y servicios info
 
 XI. Establecer y coordinar los programas y proyectos estratégicos en materia de tecnologías de la información y comunicaciones que lleven a cabo las Unidades Administrativas de la Secretaría;
 
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XI BIS. Cumplir con los lineamientos legales establecidos para la protección de datos personales en posesión de la Secretaría;
+
 XII. Contribuir al desarrollo de sistemas de información del Sector en el Estado, con la Administración Pública Federal, Municipal; y
 
 XIII. Las demás que le encomiende el Secretario y las que determinen las disposiciones legales y administrativas aplicables.
@@ -401,11 +451,41 @@ VII. Coordinar la integración de los acuerdos del Secretario con el Gobernador 
 
 VIII. Las demás que le encomiende el Secretario y las que determinen las disposiciones legales y administrativas aplicables.
 
-### CAPÍTULO I. DE LA COORDINACIÓN DE DESARROLLO RURAL Y LAS SUBSECRETARÍAS
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO VII. DE LA DIRECCIÓN DE PROGRAMAS FEDERALES
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 19 Bis.
+
+Corresponde a la Dirección de Programas Federales, el ejercicio de las siguientes atribuciones:
+
+I. Coordinar conjuntamente con la Dirección de Administración, las acciones de las unidades administrativas de la Secretaría para formular y ejercer el presupuesto de los programas federales convenidos con el Ejecutivo del Estado;
+
+II. Coadyuvar en la formulación de los convenios y acuerdos que celebren las unidades administrativas de la Secretaría, con relación a los programas federales, en el ámbito de su competencia;
+
+III. Coordinar y supervisar el seguimiento del presupuesto de los programas federales operados a través del FOFAE, estableciendo mecanismos de control, que permitan ejercer los recursos conforme a las reglas de operación, normatividad federal y demás disposiciones aplicables;
+
+IV. Elaborar las actas del Comité Técnico del FOFAE y seguimiento a los acuerdos que se deriven;
+
+V. Participar en el Comité de Adquisiciones, Arrendamientos y Servicios del Sector Público, aplicable a los Gastos de Operación de los Programas Federales;
+
+VI. Coordinar la integración de los avances físicos, financieros y cierre-finiquito de los programas federales operados por el FOFAE;
+
+VII. Participar en las acciones de evaluación de los programas federales, en coordinación con la instancia federal competente;
+
+VIII. Coordinar las acciones de promoción y difusión de los programas federalizados;
+
+IX. Coordinar las actividades en materia de procesamiento de datos en los sistemas de información de los programas federales convenidos;
+
+X. Coordinar e integrar las modificaciones y adecuaciones presupuestarias para el ejercicio de los recursos federales operados por el FOFAE; y
+
+XI. Las demás que le encomiende el Secretario y las que determinen las disposiciones legales y administrativas aplicables.
 
 ## TÍTULO CUARTO. ATRIBUCIONES GENÉRICAS DE LA COORDINACIÓN DE DESARROLLO RURAL, SUBSECRETARÍAS Y DIRECCIONES
 
-### CAPÍTULO II. DE LAS DIRECCIONES
+### CAPÍTULO I. DE LA COORDINACIÓN DE DESARROLLO RURAL Y LAS SUBSECRETARÍAS
 
 ###### Artículo 20.
 
@@ -441,7 +521,7 @@ XIV. Establecer esquemas de coordinación con las áreas de la Secretaría para 
 
 XV. Las demás que le encomiende el Secretario y las que determinen las disposiciones legales y administrativas aplicables.
 
-### CAPÍTULO I. DE LA COORDINACIÓN DE DESARROLLO RURAL
+### CAPÍTULO II. DE LAS DIRECCIONES
 
 ###### Artículo 21.
 
@@ -477,7 +557,7 @@ XIV. Las demás que le encomiende el superior jerárquico y las que determinen l
 
 ## TÍTULO QUINTO. DE LAS ATRIBUCIONES ESPECÍFICAS DE LA COORDINACIÓN DE DESARROLLO RURAL Y SUS DIRECCIONES
 
-### CAPÍTULO II. DE LA DIRECCIÓN DE ORGANIZACIÓN PARA LA PRODUCCIÓN
+### CAPÍTULO I. DE LA COORDINACIÓN DE DESARROLLO RURAL
 
 ###### Artículo 22.
 
@@ -527,7 +607,7 @@ III. Dirección de Agronegocios; y
 
 IV. Dirección de Capacitación y Asistencia Técnica.
 
-### CAPÍTULO III. DE LA DIRECCIÓN DE AGRONEGOCIOS
+### CAPÍTULO II. DE LA DIRECCIÓN DE ORGANIZACIÓN PARA LA PRODUCCIÓN
 
 ###### Artículo 24.
 
@@ -559,7 +639,7 @@ XII. Promover, desarrollar y fortalecer las capacidades productivas de comunidad
 
 XIII. Las demás que le encomiende el superior jerárquico o el Secretario y las que determinen las disposiciones legales y administrativas aplicables.
 
-### CAPÍTULO IV. DE LA DIRECCIÓN DE CAPACITACIÓN Y ASISTENCIA TÉCNICA
+### CAPÍTULO III. DE LA DIRECCIÓN DE AGRONEGOCIOS
 
 ###### Artículo 25.
 
@@ -583,7 +663,7 @@ VIII. Promover y fomentar las acciones de mejoramiento, tecnificación y mecaniz
 
 IX. Las demás que le encomiende el superior jerárquico o el Secretario y las que determinen las disposiciones legales y administrativas aplicables.
 
-### CAPÍTULO I. DE LA SUBSECRETARÍA DE PESCA Y ACUACULTURA
+### CAPÍTULO IV. DE LA DIRECCIÓN DE CAPACITACIÓN Y ASISTENCIA TÉCNICA
 
 ###### Artículo 26.
 
@@ -601,13 +681,19 @@ V. Supervisar acciones en materia de capacitación y asistencia técnica; y
 
 VI. Las demás que le encomiende el superior jerárquico o el Secretario y las que determinen las disposiciones legales y administrativas aplicables.
 
-## TÍTULO SEXTO. DE LAS ATRIBUCIONES ESPECÍFICAS DE LA SUBSECRETARÍA DE PESCA Y ACUACULTURA Y SUS DIRECCIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-### CAPÍTULO II. DE LA DIRECCIÓN DE FOMENTO PESQUERO
+## TÍTULO SEXTO. DE LAS FACULTADES ESPECÍFICAS DE LA SUBSECRETARÍA DE PESCA Y ACUICULTURA Y SUS DIRECCIONES
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO I. DE LA SUBSECRETARÍA DE PESCA Y ACUICULTURA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 27.
 
-A la Subsecretaría de Pesca y Acuacultura, le corresponden las siguientes atribuciones:
+A la Subsecretaría de Pesca y Acuicultura, le corresponden las siguientes atribuciones:
 
 I. Instrumentar, difundir y dar seguimiento al programa de desarrollo agropecuario, pesquero y acuícola de la Secretaría, conforme a las políticas, normas y procedimientos que señalen las entidades federales, el Plan Estatal de Desarrollo correspondiente y los programas sectoriales y regionales;
 
@@ -615,7 +701,9 @@ II. Planear el desarrollo, mejoramiento y tecnificación de las actividades rela
 
 III. Implementar los programas, de manera coordinada con las instancias federales, estatales y municipales en materia pesquera y acuícola;
 
-IV. Realizar actividades tendientes a fomentar la modernización, tecnificación y rentabilidad de la pesca, acuacultura y sanidad e inocuidad, en coordinación con las instancias federales, estatales y municipales competentes;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+IV. Realizar actividades tendientes a fomentar la modernización, tecnificación y rentabilidad de la pesca, acuicultura y sanidad e inocuidad, en coordinación con las instancias federales, estatales y municipales competentes;
 
 V. Fomentar la capitalización de las unidades de producción, el manejo sustentable de los recursos naturales, inducir procesos de transformación y agregación de valor; así como impulsar el desarrollo de capacidades;
 
@@ -627,7 +715,7 @@ VIII. Regular con la Coordinación de Desarrollo Rural, respecto de las obras de
 
 IX. Las demás que le encomiende su superior jerárquico, el Secretario y las que determinen las disposiciones legales y administrativas aplicables.
 
-### CAPÍTULO III. DE LA DIRECCIÓN DE ACUACULTURA
+### CAPÍTULO II. DE LA DIRECCIÓN DE FOMENTO PESQUERO
 
 ###### Artículo 28.
 
@@ -635,7 +723,9 @@ Corresponde a la Dirección de Fomento Pesquero, el ejercicio de las siguientes 
 
 I. Establecer políticas, lineamientos, criterios, sistemas y procedimientos técnicos y administrativos para fomentar la producción pesquera y acuícola, que permita atender las necesidades del sector;
 
-II. Elaborar y promover programas productivos en materia de pesca y acuacultura;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+II. Elaborar y promover programas productivos en materia de pesca y acuicultura;
 
 III. Proponer al Secretario y superior jerárquico, la celebración de convenios, acuerdos y demás instrumentos jurídicos que permitan fomentar y promover el desarrollo pesquero y acuícola;
 
@@ -655,15 +745,21 @@ X. Promover entre las organizaciones de productores, los instrumentos que les pe
 
 XI. Las demás· que le encomiende el superior jerárquico, el Secretario y las que determinen las disposiciones legales y administrativas aplicables.
 
-### CAPÍTULO I. DE LA SUBSECRETARÍA DE DESARROLLO AGRÍCOLA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO III. DE LA DIRECCIÓN DE ACUICULTURA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 29.
 
-Corresponde a la Dirección de Acuacultura, el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección de Acuicultura el ejercicio de las siguientes atribuciones:
 
 I. Establecer políticas, lineamientos, criterios, sistemas y procedimientos técnicos y administrativos para fomentar la producción acuícola, que permita atender las necesidades del sector;
 
-II. Elaborar y promover programas productivos en materia de acuacultura;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+II. Elaborar y promover programas productivos en materia de acuicultura;
 
 III. Proponer al Secretario y superior jerárquico, la celebración de convenios, acuerdos y demás instrumentos jurídicos que permitan fomentar y promover el desarrollo acuícola;
 
@@ -683,7 +779,7 @@ X. Las demás que le encomiende el superior jerárquico, el Secretario y las que
 
 ## TÍTULO SÉPTIMO. DE LAS FACULTADES ESPECÍFICAS DE LA SUBSECRETARÍA DE DESARROLLO AGRÍCOLA Y SUS DIRECCIONES
 
-### CAPÍTULO II. DE LA DIRECCIÓN DE CULTIVOS BÁSICOS
+### CAPÍTULO I. DE LA SUBSECRETARÍA DE DESARROLLO AGRÍCOLA
 
 ###### Artículo 30.
 
@@ -711,7 +807,7 @@ X. Regular con la Coordinación de Desarrollo Rural, respecto de las obras de ri
 
 XI. Las demás que le encomiende el Secretario y las que determinen las disposiciones legales y administrativas aplicables.
 
-### CAPÍTULO III. DE LA DIRECCIÓN DE INFRAESTRUCTURA AGRÍCOLA
+### CAPÍTULO II. DE LA DIRECCIÓN DE CULTIVOS BÁSICOS
 
 ###### Artículo 31.
 
@@ -731,7 +827,9 @@ VI. Apoyar en el cumplimiento a las medidas de control fitosanitario, en coordin
 
 VII. Implementar los programas coordinadamente con las autoridades federales, estatales y municipales en materia de agricultura, preservación y restauración de recursos naturales;
 
-VIII. Supervisar la aplicación de la normatividad de los programas ejecutados a través de las áreas operativas de las Delegaciones Regionales, dependientes de la Dirección General de Delegaciones, como responsables del proceso, para alcanzar los resultados y metas previstas;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+VIII. Aplicar el manual de normas presupuestarias del programa operativo anual, así como las reglas de operación que apliquen a los programas federales en concurrencia, y coordinar el seguimiento con las delegaciones regionales dependientes de la Dirección General de Desarrollo Regional, como área responsable de verificar los bienes adquiridos y la supervisión de la aplicación en campo, para alcanzar los resultados y metas previstas;
 
 IX. Fomentar los servicios agrícolas que establezca la Secretaría, relativos a la distribución de semillas, fertilizantes, árboles frutales y material vegetativo;
 
@@ -743,21 +841,29 @@ XII. Coordinar las acciones para prevención y manejo de riesgos, promoviendo el
 
 XIII. Las demás que le encomiende el superior jerárquico, el Secretario y las que determinen las disposiciones legales y administrativas aplicables.
 
-### CAPÍTULO I. DE LA SUBSECRETARÍA DE GANADERÍA
+### CAPÍTULO III. DE LA DIRECCIÓN DE INFRAESTRUCTURA AGRÍCOLA
 
 ###### Artículo 32.
 
 Corresponde a la Dirección de Infraestructura Agrícola, el ejercicio de las siguientes atribuciones:
 
-I. Proponer y evaluar las acciones para la ampliación, rehabilitación o modernización de la infraestructura existente, en las unidades de producción, para lograr el aprovechamiento eficaz de sus instalaciones;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+I. Proponer, planear, organizar y evaluar las acciones para la ampliación, rehabilitación, conservación, modernización y tecnificación de la infraestructura agrícola existente, en las unidades de producción para lograr el aprovechamiento eficaz de sus instalaciones;
 
 II. Otorgar asesoría técnica a los productores, en las acciones de construcción de infraestructura productiva, con el propósito de eficientar los subsidios otorgados mediante los programas ejecutados por la Secretaría;
 
-III. Elaborar inventario de infraestructura forestales, pesqueras, acuícolas y agropecuarias existente, georeferenciando su ubicación, mismo que deberá actualizarse el primer trimestre de cada año;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-IV. Promover y planificar propuestas de Infraestructura forestales, pesqueras, acuícolas y agropecuarias, con un año de anticipación, para contar con una cartera de proyectos elaborados, a más tardar, en el cuarto trimestre del ejercicio;
+III. Elaborar inventario de infraestructura agrícola existente, georeferenciando su ubicación, mismo que deberá actualizarse el primer trimestre de cada año;
 
-V. Operar los programas y proyectos de infraestructura forestales, pesqueras, acuícolas y agropecuarias implementados, diseñados o convenidos por la Secretaría, en apego a la normatividad aplicable a cada uno de ellos;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+IV. Promover y planificar propuestas de infraestructura agrícola, con un año de anticipación, para contar con una cartera de proyectos elaborados, a más tardar, el cuarto trimestre del ejercicio;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+V. Operar los programas y proyectos de infraestructura agrícola implementados, diseñados o convenidos por la Secretaría, en apego a la normatividad aplicable a cada uno de ellos;
 
 VI. Coordinar y definir con las autoridades federales, estatales, y municipales competentes, la ejecución y supervisión de las acciones de Infraestructura, para la conservación, manejo y uso de los recursos hídricos del Estado, en beneficio del desarrollo de las actividades forestales, pesqueras, acuícolas y agropecuarias, del sector;
 
@@ -767,7 +873,7 @@ VIII. Las demás que le encomiende el superior jerárquico, el Secretario y las 
 
 ## TÍTULO OCTAVO. DE LAS FACULTADES ESPECÍFICAS DE LA SUBSECRETARÍA DE GANADERÍA Y SUS DIRECCIONES
 
-### CAPÍTULO II. DE LA DIRECCIÓN DE GANADERÍA DE ESPECIES MAYORES
+### CAPÍTULO I. DE LA SUBSECRETARÍA DE GANADERÍA
 
 ###### Artículo 33.
 
@@ -791,11 +897,15 @@ VIII. Regular con la Coordinación de Desarrollo Rural, respecto de las obras de
 
 IX. Las demás que le encomiende el Secretario y las que determinen las disposiciones legales y administrativas aplicables.
 
-### CAPÍTULO III. DE LA DIRECCIÓN DE GANADERÍA DE ESPECIES MENORES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO II. DE LA DIRECCIÓN DE ESPECIES MAYORES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 34.
 
-Corresponde a la Dirección de Ganadería de Especies Mayores, el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección de Especies Mayores, el ejercicio de las siguientes atribuciones:
 
 I. Establecer políticas, lineamientos, criterios, sistemas y procedimientos técnicos y administrativos para fomentar la producción de especies mayores, que permita atender las necesidades del sector;
 
@@ -823,11 +933,15 @@ XII. Coordinar la participación de la Secretaría en las exposiciones que se ll
 
 XIII. Las demás que le encomiende el superior jerárquico, el Secretario y las que determinen las disposiciones legales y administrativas aplicables.
 
-### CAPÍTULO I. DE LA DIRECCIÓN GENERAL DE DELEGACIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO III. DE LA DIRECCIÓN DE ESPECIES MENORES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 35.
 
-Corresponde a la Dirección de Ganadería de Especies Menores, el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección de Especies Menores, el ejercicio de las siguientes atribuciones:
 
 I. Establecer políticas, lineamientos, criterios, sistemas y procedimientos técnicos y administrativos para fomentar la producción de especies menores, que permita atender las necesidades del sector;
 
@@ -851,13 +965,19 @@ X. Implementar programas que coadyuven al equipamiento de las unidades de produc
 
 XI. Las demás que le encomiende el superior jerárquico, el Secretario y las que determinen las disposiciones legales y administrativas aplicables.
 
-## TÍTULO NOVENO. DE LA DIRECCIÓN GENERAL DE DELEGACIONES, LAS DELEGACIONES REGIONALES Y SU DIRECCIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-### CAPÍTULO II. DE LAS ATRIBUCIONES DE LAS DELEGACIONES REGIONALES
+## TÍTULO NOVENO. DE LA DIRECCIÓN GENERAL DE DESARROLLO REGIONAL, LAS DELEGACIONES REGIONALES Y LA DIRECCIÓN
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO I. DE LA DIRECCIÓN GENERAL DE DESARROLLO REGIONAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 36.
 
-Corresponde a la Dirección General de Delegaciones, las siguientes atribuciones:
+Corresponde a la Dirección General de Desarrollo Regional, las siguientes atribuciones:
 
 I. Coordinar y dirigir la operación y difusión de los programas y acciones de la Secretaría, con base en las disposiciones normativas;
 
@@ -883,27 +1003,39 @@ XI. Elaborar y gestionar el presupuesto anual para la operación de la Direcció
 
 XII. Las demás que le encomiende el Secretario y las que determinen las disposiciones legales y administrativas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 37.
 
-Para el mejor desempeño de sus atribuciones, la Dirección General de Delegaciones, contará con las siguientes Unidades Administrativas:
+Para el mejor desempeño de sus atribuciones, la Dirección General de Desarrollo Regional, contará con las siguientes Unidades Administrativas:
 
-I. Delegación Regional Chontalpa-Costa;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+I. Delegación Regional Chontalpa;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 II. Delegación Regional Usumacinta;
 
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 III. Delegación Regional Sierra;
 
-IV. Delegación Regional Centro-Pantanos; y
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+IV. Delegación Regional Centro; y
 
 V. Dirección de Prevención y Manejo de Riesgos.
 
-### CAPÍTULO III. DE LA DIRECCIÓN DE PREVENCIÓN Y MANEJO DE RIESGOS
+### CAPÍTULO II. DE LAS ATRIBUCIONES DE LAS DELEGACIONES REGIONALES
 
 ###### Artículo 38.
 
 Corresponde a las Delegaciones Regionales, las siguientes atribuciones:
 
-I. Implementar los programas de desarrollo agrícola, pecuario, forestal, pesquero, acuacultura, sanidad e inocuidad alimentaria, desarrollo rural, infraestructura, agroindustria, comercialización, capacitación, financiamiento, sistemas de información agroalimentaria y transferencia de tecnología, conforme a la normatividad vigente;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+I. Implementar los programas de desarrollo agrícola, pecuario, forestal, pesquero, acuicultura, sanidad e inocuidad alimentaria, desarrollo rural, infraestructura, agroindustria, comercialización, capacitación, financiamiento, sistemas de información agroalimentaria y transferencia de tecnología, conforme a la normatividad vigente;
 
 II. Supervisar y evaluar el avance de los programas de su competencia;
 
@@ -925,7 +1057,7 @@ X. Promover las acciones para fortalecer el desarrollo rural sustentable de la r
 
 XI. Las demás que le encomiende el superior jerárquico, el Secretario y las que determinen las disposiciones legales y administrativas aplicables.
 
-### CAPÍTULO I. DEL ÓRGANO DE CONSULTA
+### CAPÍTULO III. DE LA DIRECCIÓN DE PREVENCIÓN Y MANEJO DE RIESGOS
 
 ###### Artículo 39.
 
@@ -953,21 +1085,37 @@ X. Establecer en coordinación con las instancias federales competentes, los pun
 
 XI. Las demás que le encomien.de el superior jerárquico, el Secretario y las que determinen las disposiciones legales y administrativas aplicables.
 
-## TÍTULO DÉCIMO. DEL ÓRGANO DE CONSULTA Y ENTIDADES PARAESTATALES SECTORIZADAS DE LA SECRETARÍA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+## TÍTULO DÉCIMO. DEL ÓRGANO DE CONSULTA, ÓRGANO DESCONCENTRADO Y ENTIDADES SECTORIZADAS DE LA SECRETARÍA
 
 ## TÍTULO UNDÉCIMO. AUSENCIAS Y SUPLENCIAS DE LOS SERVIDORES PÚBLICOS
 
-### CAPÍTULO II. DE LAS ENTIDADES PARAESTATALES SECTORIZADAS
+### CAPÍTULO I. DEL ÓRGANO DE CONSULTA
 
 ###### Artículo 40.
 
 El Consejo Estatal de Desarrollo Rural Sustentable del Estado de Tabasco es el Órgano de Consulta de la Secretaría.
 
-### CAPÍTULO ÚNICO. DE LAS AUSENCIAS Y SUPLENCIAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO II. COMISIÓN ESTATAL FORESTAL
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 40 Bis.
+
+La Secretaría cuenta con la Comisión Estatal Forestal, como un órgano administrativo desconcentrado, el cual cuenta con las facultades y atribuciones señaladas en la Ley Forestal del Estado de Tabasco, el Acuerdo de Creación, su Reglamento Interior y demás disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO III. DE LAS ENTIDADES SECTORIZADAS
+
+(REUBICADO Y REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)
 
 ###### Artículo 41.
 
-La Secretaría coordinará las funciones de las Entidades Paraestatales Sectorizadas, cuyos fines y objetivos tengan vinculación con las atribuciones de la Secretaría, de conformidad con el ordenamiento legal que los rige y se contará con las siguientes:
+La Secretaría coordinará las funciones de las Entidades Sectorizadas, cuyos fines y objetivos tengan vinculación con las atribuciones de la Secretaría, de conformidad con el ordenamiento legal que los rige y se contará con las siguientes:
 
 I. FOFAE; Fideicomiso Irrevocable de Administración denominado Fondo de Fomento Agropecuario del Estado de Tabasco;
 
@@ -981,11 +1129,15 @@ V. Fondo de Garantía Mutualista Tabasco (FOGAMU); y
 
 VI. Las demás que con ese carácter estén constituidas o que se constituyan.
 
+### CAPÍTULO ÚNICO. DE LAS AUSENCIAS Y SUPLENCIAS
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 42.
 
-Durante las ausencias del Secretario, el despacho y resolución de los asuntos correspondientes a la Secretaría, estarán a cargo del Coordinador de Desarrollo Rural, Subsecretarios de Desarrollo Agrícola, de Ganadería, de Pesca y Acuacultura y la Dirección General de Delegaciones o del titular de la Unidad de Asuntos Jurídicos y de Acceso a la Información, en el orden mencionado.
+Durante las ausencias del Secretario, el despacho y resolución de los asuntos correspondientes a la Secretaría, estarán a cargo del Coordinador de Desarrollo Rural, Subsecretarios de Desarrollo Agrícola, de Ganadería, de Pesca y Acuicultura y la Dirección General de Desarrollo Regional o del Titular de la Unidad de Asuntos Jurídicos y Acceso a la Información, en el orden mencionado.
 
-En las ausencias del Titular de la Coordinación, de las Subsecretarías, de la Dirección General y demás Unidades Administrativas, serán suplidos para el despacho de los asuntos de su correspondiente competencia, en su caso, por el servidor público adscrito en el área de su responsabilidad que ellos mismos designen por escrito.
+En la ausencia del Titular de la Coordinación, de las Subsecretarías, de la Dirección General y demás Unidades Administrativas, serán suplidos para el despacho de los asuntos de su correspondiente competencia, por su ausencia no mayores a 15 días, por el servidor público que ellos designen, en las ausencias mayores a 15 días por quien designe el Secretario.
 
 ## TRANSITORIOS
 
@@ -1012,3 +1164,15 @@ COORDINADOR GENERAL DE ASUNTOS JURÍDICOS
 LIC. PEDRO JIMÉNEZ LEÓN
 
 SECRETARIO DE DESARROLLO AGROPECUARIO, FORESTAL Y PESQUERO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE NOVIEMBRE DE 2014.
+
+PRIMERO. Las presentes reformas, adiciones y derogaciones al Reglamento Interior de la Secretaría de Desarrollo Agropecuario, Forestal y Pesquero, entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los asuntos que con motivo de las reformas a este Reglamento deban transferirse de una unidad administrativa a otra, serán resueltos por la unidad administrativa competente.
+
+TERCERO. Para el mejor funcionamiento, de las unidades administrativas que integran a la Secretaría se deberán actualizar los respectivos manuales de Organización y Procedimientos.
+
+CUARTO. En tanto se expiden los Manuales señalados en el artículo anterior, en caso de duda sobre la interpretación del reglamento, el Secretario queda facultado para resolver lo conducente
