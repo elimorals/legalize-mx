@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-la-fiscalia-general-del-estado-de-yucatan-77229"
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-10"
-last_updated: "2014-06-28"
+last_updated: "2014-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77229&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "YUC"
 
 LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JUNIO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN, PUBLICADA EN EL D.O. DE 29 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE NOVIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el miércoles 10 de noviembre de 2010.
 
@@ -605,7 +607,7 @@ X. Implementar los mecanismos necesarios para realizar una eficaz supervisión r
 
 XI. Las demás que le señalen esta Ley, su Reglamento y otras disposiciones legales aplicables.
 
-> <small>(REFORMADA SU NUMERACION, D.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADA SU NUMERACIÓN, D.O. 1 DE MARZO DE 2011)</small>
 
 ### CAPÍTULO III. De las Unidades de Solución de Controversias
 
@@ -619,7 +621,7 @@ Las Unidades de Solución de Controversias de la Fiscalía General, deberán pre
 
 El Reglamento de esta Ley deberá establecer las funciones de las Unidades de Solución de Controversias y las facultades y obligaciones del personal adscrito a las mismas.
 
-> <small>(REFORMADA SU NUMERACION, D.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADA SU NUMERACIÓN, D.O. 1 DE MARZO DE 2011)</small>
 
 ### CAPÍTULO IV. Del Servicio de Escolta Pública
 
@@ -1220,3 +1222,33 @@ A partir de la entrada en vigor de este decreto se deroga la Ley Orgánica del T
 Décimo. Derogación tácita
 
 A partir de la entrada en vigor de este decreto quedan derogadas todas las disposiciones de igual o menor rango en lo que se opongan a su contenido.
+
+D.O. 29 DE NOVIEMBRE DE 2014.
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Abrogación
+
+A partir de la entrada en vigor de este decreto, quedará abrogada la Ley de la Fiscalía General del Estado de Yucatán, expedida mediante decreto 340 publicado en el Diario Oficial del Gobierno del Estado de Yucatán, el 10 de noviembre de 2010.
+
+Tercero. Obligación normativa
+
+El Gobernador expedirá el Reglamento de la Ley de la Fiscalía General del Estado de Yucatán, dentro de los ciento ochenta días naturales contados a partir de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Cuarto. Vigencia de las disposiciones reglamentarias
+
+En tanto entra en vigor el Reglamento de la Ley de la Fiscalía General del Estado de Yucatán que se expide, se aplicará el Reglamento de la Ley de la Fiscalía General del Estado de Yucatán, publicado el 13 de mayo de 2011.
+
+Quinto. Servicio de Escolta Pública
+
+El Servicio de Escolta Pública otorgado mediante la Ley de la Fiscalía General del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el 10 de noviembre de 2010, continuará prestándose en los términos previstos en el propio decreto hasta su conclusión.
+
+Sexto. Servicio profesional de carrera
+
+Las normas relativas al Servicio Profesional de Carrera de la Fiscalía General del Estado previstas en la Ley de la Fiscalía General del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el 10 de noviembre de 2010, seguirán vigentes hasta el momento en que entre en vigor el ordenamiento que regule el sistema de seguridad pública del estado.
+
+Séptimo. Derogación tácita
+
+Se derogan todas las disposiciones legales y normativas de igual o menor jerarquía en lo que se opongan al contenido de este decreto.
