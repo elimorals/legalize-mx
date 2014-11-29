@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-medidas-cautelares-del-proceso-penal-en-el-estado-de-101
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-29"
-last_updated: "2014-05-29"
+last_updated: "2014-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101136&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "YUC"
 
 LEY DE MEDIDAS CAUTELARES DEL PROCESO PENAL EN EL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO CUARTO DEL DECRETO 233/2014 POR EL QUE SE DECLARA LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE YUCATÁN, PUBLICADO EN EL D.O. DE 29 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE NOVIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el jueves 29 de mayo de 2014.
 
@@ -672,3 +674,31 @@ Gobernador del Estado de Yucatán
 Víctor Edmundo Caballero Durán
 
 Secretario General de Gobierno
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 29 DE NOVIEMBRE DE 2014.
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, con excepción de lo dispuesto en los artículos transitorios segundo, tercero y cuarto, que entrarán en vigor de manera simultánea al Código Nacional de Procedimientos Penales en el Estado de Yucatán.
+
+Segundo. Abrogación del código de procedimientos penales
+
+Se abroga el Código de Procedimientos en Materia Penal del Estado de Yucatán, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 15 de diciembre de 1994. Los procedimientos penales que, a la entrada en vigor del Código Nacional de Procedimientos Penales en el Estado de Yucatán, se encuentren en trámite, con base en el Código de Procedimientos en Materia Penal del Estado de Yucatán, continuarán su sustanciación de conformidad con éste.
+
+Tercero. Abrogación del código procesal penal
+
+Se abroga, en términos del artículo transitorio tercero del Código Nacional de Procedimientos Penales, el Código Procesal Penal para el Estado de Yucatán, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 8 de junio de 2011. Los procedimientos penales que, a la entrada en vigor del Código Nacional de Procedimientos Penales en el Estado de Yucatán, se encuentren en trámite, con base en el Código Procesal Penal para el Estado de Yucatán, continuarán su sustanciación de conformidad con éste.
+
+Cuarto. Abrogación de la ley de medidas cautelares
+
+Se abroga la Ley de Medidas Cautelares del Proceso Penal en el Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán el 29 de mayo de 2014.
+
+Quinto. Obligación normativa
+
+El Poder Ejecutivo del Estado de Yucatán, en términos del artículo 164, párrafo primero, del Código Nacional de Procedimientos Penales, deberá expedir el decreto por el que se regule a la autoridad de supervisión de medidas cautelares y de la suspensión condicional del proceso, el cual entrará en vigor, en el Estado de Yucatán, de manera simultánea al Código Nacional de Procedimientos Penales.
+
+Sexto. Derogación tácita
+
+Se derogan todas las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
