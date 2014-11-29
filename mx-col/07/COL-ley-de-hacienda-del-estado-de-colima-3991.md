@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2014-09-06"
+last_updated: "2014-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -441,15 +441,15 @@ III.- La prestación de servicios de paraderos de casas rodantes, móviles o aut
 
 IV.- El alojamiento o albergue temporal de personas en bungalows, hostales, villas, casas y departamentos amueblados.
 
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+
+Artículo 41 A BIS.- Están obligados al pago de este impuesto, las personas físicas y morales que presten los servicios a que se refiere el artículo anterior, quienes podrán trasladar su importe a las personas que reciban dichos servicios.
+
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
 Artículo 41 B.- Es base para el cálculo de este impuesto el importe total de la contraprestación por concepto de hospedaje, sin incluir otros impuestos, alimentos, y demás servicios accesorios.
 
 Tratándose de servicios de hospedaje prestados bajo el sistema o modalidad de uso en tiempo compartido, será base del impuesto, el ingreso que se obtenga por concepto de cuotas para el uso de las instalaciones.
-
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
-
-Artículo 41 A BIS.- Están obligados al pago de este impuesto, las personas físicas y morales que presten los servicios a que se refiere el artículo anterior, quienes podrán trasladar su importe a las personas que reciban dichos servicios.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -461,19 +461,21 @@ I.- Por el servicio de hospedaje en hoteles, paraderos de casas rodantes, servic
 
 II.- Por el servicio de hospedaje en moteles, la tasa del 5%.
 
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+
+Artículo 41 C BIS.- El impuesto establecido en este capítulo se causará en el momento en que se perciba el importe de las contraprestaciones por el servicio de hospedaje.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 41 C BIS-1.- Los contribuyentes enterarán el impuesto mediante declaración definitiva que presentarán en las formas oficiales aprobadas para el efecto, en las Receptorías de Rentas de la Secretaría de Finanzas y Administración, en las instituciones de crédito o en los establecimientos autorizados, a más tardar el día 17 del mes siguiente a aquél en que se reciban las contraprestaciones.
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Si el contribuyente opera en dos o más establecimientos, presentará declaración por cada uno de ellos, sustituyendo la homoclave del Registro Federal de Contribuyentes por una determinante numérica de tres dígitos diferente para cada establecimiento, la cual será progresiva, a partir del 001.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
-
-Artículo 41 C BIS.- El impuesto establecido en este capítulo se causará en el momento en que se perciba el importe de las contraprestaciones por el servicio de hospedaje.
+Si el contribuyente opera en dos o más establecimientos, presentará declaración por cada uno de ellos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -615,7 +617,11 @@ Artículo 41 J.- La base de este impuesto será:
 
 I.- Para lo señalado en la fracción I del artículo 41 H de esta Ley, el valor del premio o premios obtenidos; y
 
-II.- En el caso de la fracción II del artículo 41 H de esta Ley, el valor total de los boletos, billetes, contraseñas o de cualesquiera otros instrumentos que permitan la participación en loterías, rifas, sorteos, concursos y juegos con cruce de apuestas legalmente permitidos, que hayan sido distribuidos o enajenados para el evento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+II.- En el caso de la fracción II del artículo 41 H de esta Ley, el valor total de los boletos, billetes, contraseñas o de cualesquiera otros instrumentos que permitan la participación en loterías, rifas, sorteos, concursos y juegos con cruce de apuestas legalmente permitidos, que hayan sido distribuidos o enajenados para el evento, disminuyendo las cantidades efectivamente devueltas a los clientes, así como los premios efectivamente pagados o entregados a los ganadores de los mismos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -694,6 +700,144 @@ Los contribuyentes deberán presentar declaraciones aun cuando no exista impuest
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 Artículo 41 R BIS.- (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 41 R BIS 1.- Las personas físicas o moralesy (sic) las unidades económicas sin personalidad jurídica, que realicen pagos a trabajadores por concepto de edificación de obra, acabados, modificaciones y/o remodelaciones e incumplan con la presentación de las declaraciones para el pago de este impuesto, deberán proporcionar a la autoridad fiscal competente, la base para determinar el impuesto causado y los accesorios legales generados.
+
+Cuando se trate de obra privada y no sea posible establecer la base del impuesto, ésta se calculará multiplicando el costo de la mano de obra que corresponda, por el número de metros cuadrados de construcción que declare el propio contribuyente o determine la autoridad fiscal competente, de acuerdo con la siguiente tabla:
+
+Tipo de obra: Costo por metro
+
+cuadrado, en días
+
+de salario mínimo:
+
+Bardas 4.893
+
+Bodegas 6.586
+
+Canchas de tenis 2.744
+
+Casa habitación de interés social 10.930
+
+Casa habitación residencial de lujo 13.000
+
+Casa habitación tipo medio 16.967
+
+Cines 12.639
+
+Edificios habitacionales de interés social 10.585
+
+Edificios habitacionales tipo medio 12.279
+
+Edificios habitacionales de lujo 18.034
+
+Edificios de oficinas 10.585
+
+Edificios de oficinas y locales comerciales 13.941
+
+Escuelas de estructura de concreto 9.754
+
+Escuelas de estructura metálica 11.416
+
+Estacionamientos 6.178
+
+Gasolineras 7.276
+
+Gimnasios 10.930
+
+Hospitales 18.786
+
+Hoteles 18.912
+
+Hoteles de lujo 25.482
+
+Locales comerciales 11.353
+
+Naves industriales 9.691
+
+Naves para fábricas, bodegas y/o talleres 6.774
+
+Piscinas 8.656
+
+Remodelaciones 11.165
+
+Templos 10.428
+
+Urbanizaciones 3.748
+
+Vías de comunicación subterráneas y conexas 19.257
+
+Cuando se trate de obra contratada de conformidad con las disposiciones de la Ley Estatal de Obras Públicas o su equivalente federal y no sea posible establecer la basedel (sic) impuesto, ésta se calculará aplicando al importe total del contrato, el factor que representa la mano de obra, de acuerdo con la siguiente tabla:
+
+Tipo de obra: Factor aplicable
+
+Agua potable (material contratista) urbanización 16.00
+
+Agua potable (material propietario) urbanización 31.00
+
+Alumbrado público y canalizaciones telefónicas 38.00
+
+Canales de riego 10.75
+
+Cimentaciones profundas 5.25
+
+Cisternas 14.50
+
+Construcciones no residenciales 27.75
+
+Contratos de mano de obra 76.00
+
+Drenaje (vías terrestres) 25.50
+
+Drenajes (material contratista) urbanización 19.75
+
+Drenajes (material propietario) urbanización 33.00
+
+Drenes de riego 10.75
+
+Escuelas de estructura de concreto 11.75
+
+Escuela de estructura metálica 11.25
+
+Líneas de transmisiones eléctricas 22.50
+
+Nivelaciones de riego 6.50
+
+Pavimentación (vías terrestres) 9.50
+
+Pavimentación - urbanización 16.50
+
+Pozos de riego 7.00
+
+Presas (cortinas, diques y vertederos) 10.75
+
+Puentes (incluye terraplenes) 19.75
+
+Puentes (no incluye terraplenes) 18.75
+
+Remodelaciones en general 17.00
+
+Remodelaciones de escuelas 7.50
+
+Subestaciones 20.75
+
+Terracerías 10.75
+
+Túneles (suelos blandos) 23.00
+
+Túneles (suelos duros) 13.25
+
+Viaductos elevados 23.50
+
+Vías férreas 14.00
+
+Viviendas de interés social 27.75
+
+Viviendas residenciales 26.25
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
@@ -3635,15 +3779,27 @@ NUMERO DE DÍAS DE
 
 SALARIO MÍNIMO
 
-I.- Recepción, evaluación y otorgamiento del resolutivo del informe de factibilidad ambiental en materia de impacto ambiental 30.000
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADA EN SU MONTO, P.O. 29 DE NOVIEMBRE DE 2014)
+
+I.- Recepción, evaluación y otorgamiento del resolutivo del informe de factibilidad ambiental en materia de impacto ambiental 35.000
 
 Estarán exentos de pago de este derecho las personas físicas y morales cuyo capital en la actividad u obra a desarrollar sea menor o igual a 2,850 días de salario mínimo, así como en el supuesto a que hace referencia el último párrafo del artículo 42 de la Ley Ambiental para el Desarrollo Sustentable del Estado de Colima.
 
 II.- Recepción, evaluación y otorgamiento del resolutivo de la manifestación de impacto ambiental:
 
-1.- En su modalidad MIA-1 70.000
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-2.- En su modalidad MIA-2 120.000
+(ACTUALIZADO EN SU MONTO, P.O. 29 DE NOVIEMBRE DE 2014)
+
+1.- En su modalidad MIA-1 75.000
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADO EN SU MONTO, P.O. 29 DE NOVIEMBRE DE 2014)
+
+2.- En su modalidad MIA-2 125.000
 
 III.- Por la recepción, evaluación y en su caso otorgamiento del refrendo del resolutivo o ampliación de vigencia:
 
@@ -3657,7 +3813,11 @@ III.- Por la recepción, evaluación y en su caso otorgamiento del refrendo del 
 
 5.- En su modalidad de riesgo ambiental 20.000
 
-IV.- Por la recepción, evaluación y otorgamiento del resolutivo del manifiesto de riesgo ambiental 70.000
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADA EN SU MONTO, P.O. 29 DE NOVIEMBRE DE 2014)
+
+IV.- Por la recepción, evaluación y otorgamiento del resolutivo del manifiesto de riesgo ambiental 75.000
 
 V.- Por la inscripción o refrendo en el Registro Estatal de Prestadores de Servicios, de las personas físicas o morales que realicen manifiestos de impacto o riesgo, diagnóstico ambiental o informes de factibilidad, anualmente:
 
@@ -3667,7 +3827,11 @@ V.- Por la inscripción o refrendo en el Registro Estatal de Prestadores de Serv
 
 VI.- Por la inscripción o refrendo en el Registro Estatal de Prestadores de Servicios Ambientales, de los laboratorios ambientales que realicen análisis de contaminantes, anualmente 300.000
 
-VII.- Por la recepción, evaluación y otorgamiento del resolutivo del manifiesto de diagnóstico ambiental en materia de impacto ambiental 150.000
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADA EN SU MONTO, P.O. 29 DE NOVIEMBRE DE 2014)
+
+VII.- Por la recepción, evaluación y otorgamiento del resolutivo del manifiesto de diagnóstico ambiental en materia de impacto ambiental 155.000
 
 VIII.- Poda o derribo de árboles:
 
@@ -3705,19 +3869,33 @@ No se pagará el derecho a que se refiere esta fracción, cuando el Instituto di
 
 IX.- Por la recepción, evaluación y otorgamiento de la licencia ambiental única a las fuentes fijas de jurisdicción estatal:
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADO EN SU MONTO, P.O. 29 DE NOVIEMBRE DE 2014)
+
+1.- Por la recepción y evaluación 30.000
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADO EN SU MONTO, P.O. 29 DE NOVIEMBRE DE 2014)
+
+2.- Por el otorgamiento de la licencia 15.000
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+X.- Por la recepción, evaluación y otorgamiento de la resoluciónde (sic) la licencia local de funcionamiento a las fuentes fijas de jurisdicción estatal:
+
 1.- Por la recepción y evaluación 10.000
 
 2.- Por el otorgamiento de la licencia 5.000
 
-X.- Por la recepción, evaluación y otorgamiento de la licencia local de funcionamiento a las fuentes fijas de jurisdicción estatal:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-1.- Por la recepción y evaluación 10.000
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-2.- Por el otorgamiento de la licencia 5.000
-
-XI.- Por la recepción, evaluación y otorgamiento de la autorización para efectuar la
-
-reutilización o reciclaje de residuos sólidos:
+XI.- Por la recepción, evaluación y otorgamiento de la autorización para efectuar la recolección, transporte, acopio, reutilización o reciclaje de residuos sólidos:
 
 1.- Por la recepción y evaluación 5.000
 
@@ -3774,6 +3952,12 @@ residuos especiales 15.000
 XVIII.- Por la revalidación de la resolución del plan de
 
 manejo de residuos especiales 5.000
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XIX.- Por el otorgamiento del dictamen de ruido. 30.000
 
 No se pagarán los derechos establecidos en las fracciones I, II, III, IV y VII de este artículo, cuando los servicios de que se trate estén destinados a la realización de obras públicas.
 
@@ -4404,6 +4588,204 @@ el siguiente derecho:
 - Por cada 100 kilómetros recorridos 10.000
 
 - Por cada 200 kilómetros recorridos 20.000
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+IV.- Informes catastrales relacionados con los predios registrados, a solicitud de los interesados:
+
+1.- Certificado 1.800
+
+2.- Sin certificar 1.000
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+V.- Por la impresión de archivos digitales:
+
+a).- Plano general a diferentes escalas:
+
+1.- Graficado y certificado incluyendo
+
+manzanas, predios y calles 8.000
+
+2.- Por cada impresión de hasta 1.10 X 0.84 mts. 8.000
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+VI.- Por cartografía a escala 1:1,000 en forma digital de las distintas manchas urbanas:
+
+1.- Archivos DXF (manzanas, predios y
+
+nomenclaturas de calles) 75.000
+
+2.- Por cada capa adicional 20.000
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+VII.- Por cartografía en formato digital por cada mancha urbana que incluya:
+
+a).- Plano general a diferentes escalas:
+
+1.- Archivo en formato "Shape", manzanas y predios. 100.000
+
+2.- Por cada capa adicional. 50.000
+
+3.- Por cada capa adicional al plano general. 2.500
+
+4.- Por cada impresión de hasta 1.10 X 0.84 mts. 2.500
+
+b).- Por la expedición de planos de predios urbanos con medidas, superficies y nombres de calles:
+
+1.- Sin nombre de colindantes. 3.600
+
+2.- Con nombre de colindantes. 4.600
+
+c).- Por cada impresión simple de planos en tamaño carta u oficio que incluya:
+
+1.- Manzanas, predios y nombre de calles. 5.000
+
+2.- Predios rústicos, vías de comunicación, hidrografía. 5.000
+
+3.- Por cada nombre de colindante o propietario. 3.480
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+VIII.- Por cartografía a escala 1:1,000 en formato digital de los distintos polígonos ejidales parcelarios, solares o predios de la pequeña propiedad por municipio:
+
+1.- Archivos en formatos DXF (predios). 75.000
+
+2.- Por cada capa adicional. 20.000
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+IX.- Por cartografía en formato digital por cada polígono ejidal parcelario, solar o predios de la pequeña propiedad por municipio:
+
+1.- Archivos en formato "Shape" (predios). 100.000
+
+2.- Por cada capa adicional. 50.000
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+X.- Por cartografía en formato digital en archivo de formato PDF:
+
+1.- Por mancha urbana (manzanas, predios
+
+y nomenclaturas de calles). 37.500
+
+2.- Por cada capa adicional en mancha urbana. 10.000
+
+3.- Por cada polígono ejidal parcelario, solar
+
+o predios de la pequeña propiedad por municipio. 37.500
+
+4.- Por cada capa adicional de polígonos
+
+parcelarios, solares o predios de la
+
+pequeña propiedad. 10.000
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XI.- Por búsqueda en los archivos
+
+históricos catastrales. 7.500
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XII.- Registro de peritos valuadores:
+
+1.- Por los derechos de registro y expedición
+
+de credencial de perito Valuador. 30.000
+
+2.- Refrendo. 20.000
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XIII.- Por cada asignación o punto de
+
+coordenadas geodésicas. 10.000
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 62 Bis 2 A.- Por los servicios prestados en la Dirección del Registro del Territorio:
+
+I.- Por impresión de la cédula territorial
+
+con información general de un objeto territorial. 4.000
+
+II.- Por servicios de asesoría en materia de:
+
+a).- Generación y uso de metadatos geográficos (4 horas). 41.000
+
+b).- Arcgis nivel básico (12 horas). 142.000
+
+c).- Arcgis nivel medio (12 horas). 203.000
+
+d).- Arcgis nivel avanzado (12 horas). 244.000
+
+e).- Autocad (civilcad) nivel básico (10 horas). 102.000
+
+f).- Autocad (civilcad) nivel medio (10 horas). 135.000
+
+g).- Autocad (civilcad) nivel avanzado (10 horas). 169.000
+
+h).- Normatividad vigente (5 horas). 51.000
+
+i).- Uso y tratamiento de imágenes (16 horas). 406.000
+
+j).- Manejo de GPS (8 horas). 203.000
+
+k).- Manejo de estación total (8 horas). 162.000
+
+l).- Uso y manejo de navegador (8 horas). 122.000
+
+m).- Interpretación de la norma ISO 9000 (15 horas). 80.000
+
+n).- Aplicación de la norma ISO 9001 (15 horas). 90.000
+
+ñ).- Generación de planes y procesos de calidad (20 horas). 120.000
+
+o).- Generación de indicadores de calidad (15 horas). 80.000
+
+p).- Uso y manejo de documentos de calidad (15 horas). 90.000
+
+q).- Formación de la coordinación de calidad (20 horas). 120.000
+
+r).- Generación de manuales de organización (15 horas). 80.000
+
+s).- Manejo del sistema integral de gestión registral
+
+(SIGER) (20 horas). 102.000
+
+t).- Manejo del sistema web del Instituto (20 horas). 102.000
+
+u).- Instalación de redes y adquisición de equipos
+
+(20 horas). 102.000
+
+v).- Herramientas informáticas (20 horas). 102.000
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -5260,3 +5642,41 @@ P.O. 9 DE AGOSTO DE 2014.
 P.O. 6 DE SEPTIEMBRE DE 2014.
 
 ÚNICO.- El presente Decreto deberá publicarse en el Periódico Oficial "El Estado de Colima" y entrará en vigor el día 01 de septiembre de 2014.
+
+P.O. 29 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el 1° de enero de 2015, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Para los efectos del ajuste monetario en el pago de las contribuciones a que se refiere el artículo segundo transitorio del decreto de reformas a la Ley de Hacienda del Estado, publicado en el Periódico Oficial "El Estado de Colima", el 31 de diciembre de 1997 y en el caso concreto de los derechos que se causan por los servicios prestados en los Kioscos de Trámites y Servicios Electrónicos, durante el año 2015, el monto se ajustará a la decena de pesos inferior más próxima.
+
+TERCERO.- Durante el ejercicio fiscal 2015, las personas físicas y morales, tenedoras o usuarias de los vehículos a que se refiere el Capítulo VIII, del Título Primero, de la Ley de Hacienda del Estado de Colima, inscritos en el Registro Público Vehicular en el ejercicio 2014 o anteriores, tendrán derecho a que se les otorgue un subsidio por el equivalente al 100% del Impuesto Sobre Tenencia o Uso de Vehículos que se cause por el ejercicio fiscal 2015, siempre que cumplan con los siguientes requisitos:
+
+I.- Que no tengan adeudos del ejercicio 2014 y anteriores por cualquiera de los conceptos siguientes:
+
+a) Impuestos, derechos y aprovechamientos estatales;
+
+b) Impuestos, derechos y multas federales, administrados por el Gobierno del Estado de Colima en términos del Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus Anexos, incluyendo los créditos fiscales cuya recuperación tiene a su cargo el Gobierno del Estado de Colima de conformidad con el Anexo Núm. 18 a dicho Convenio, aunque su pago deba realizarse a la Tesorería de la Federación;
+
+c) Impuesto Predial, Derechos por consumo de agua y multas impuestas por las autoridades federales no fiscales, a favor de cualquier municipio del Estado de Colima; y
+
+II.- Que el pago de las contribuciones vehiculares correspondientes al ejercicio fiscal 2015 que resulte procedente, se efectúe de enero a marzo de dicho año.
+
+CUARTO.- Durante el ejercicio fiscal 2015, las personas físicas y morales, tenedoras o usuarias de los vehículos a que se refiere el Capítulo VIII, del Título Primero, de la Ley de Hacienda del Estado de Colima, que se inscriban en el Registro Público Vehicular en el ejercicio fiscal 2015, tendrán derecho a que se les otorgue un subsidio por el equivalente al 100% del Impuesto Sobre Tenencia o Uso de Vehículos que se cause por el mismo ejercicio, siempre que cumplan con los siguientes requisitos:
+
+I.- Que hubieran adquirido vehículos nuevos o importados entre los días 21 de noviembre y 31 de diciembre del 2014, sin que los mismos se hubieran inscrito en el Registro Público Vehicular del Estado en dicho periodo;
+
+II.- Que adquieran vehículos nuevos o importados durante el ejercicio fiscal 2015;
+
+III.- Que la inscripción en el Registro Público Vehicular del Estado, de los vehículos señalados en las fracciones anteriores de este Transitorio, se realice dentro de los 30 días hábiles siguientes a la fecha de su adquisición; y
+
+IV.- Que no tengan adeudos del ejercicio 2014 y anteriores, ni vencidos en 2015, por cualquiera de los conceptos siguientes:
+
+a) Impuestos, derechos y aprovechamientos estatales.
+
+b) Impuestos, derechos y multas federales, administrados por el Gobierno del Estado de Colima en términos del Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus Anexos, incluyendo los créditos fiscales cuya recuperación tiene a su cargo el Gobierno del Estado de Colima de conformidad con el Anexo Núm. 18 a dicho Convenio, aunque su pago deba realizarse a la Tesorería de la Federación; y
+
+c) Impuesto Predial, Derechos por consumo de agua y multas impuestas por las autoridades federales no fiscales, a favor de cualquier municipio del Estado de Colima.
+
+Para los efectos de la aplicación del subsidio a que se refiere este Transitorio, se considerará que el arrendatario es el tenedor o usuario del vehículo, cuando la posesión del mismo se le hubiera otorgado mediante arrendamiento puro o financiero. De igual forma se entenderá que los 30 días hábiles a que se refiere la fracción III de este Transitorio, contarán a partir de la fecha en que se realice la entrega material de la unidad vehicular al adquirente, lo cual podrá acreditarse con la presentación de una constancia expedida por el distribuidor que realizó la venta, en la que se señale la fecha en que se realizó la entrega material del vehículo al adquirente.
+
+El subsidio a que se refiere este Transitorio, no será aplicable respecto de los vehículos propiedad de los gobiernos federal, estatal y municipales, ni de sus organismos descentralizados y autónomos.
