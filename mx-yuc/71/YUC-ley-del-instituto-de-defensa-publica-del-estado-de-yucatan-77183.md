@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-instituto-de-defensa-publica-del-estado-de-yucatan-7718
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-05"
-last_updated: "2011-03-01"
+last_updated: "2014-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL INSTITUTO DE DEFENSA PÚBLICA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el viernes 5 de noviembre de 2010.
 
@@ -49,19 +49,11 @@ LEY DEL INSTITUTO DE DEFENSA PÚBLICA DEL ESTADO DE YUCATÁN
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO, D.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 1.
 
-Esta Ley es de orden público e interés social y tiene por objeto:
-
-I. Garantizar el derecho a la defensa penal pública, gratuita y profesional;
-
-II. Asegurar el derecho de acceso a la justicia en asuntos civiles, familiares, administrativos, mercantiles y de amparo, mediante la asesoría jurídica, siempre que lo soliciten y acrediten que carecen de medios económicos para sufragar los gastos correspondientes;
-
-III. Regular la prestación del servicio de defensa pública en el Estado de Yucatán;
-
-IV. Normar la integración, funcionamiento, competencia y administración del Instituto de Defensa Pública del Estado, y
-
-V. Establecer el servicio profesional de carrera para los servidores públicos adscritos al Instituto de Defensa Pública del Estado.
+Las disposiciones de esta ley son de orden público e interés social, y tienen por objeto regular la prestación del servicio de defensa pública, así como la organización y el funcionamiento del Instituto de Defensa Pública del Estado de Yucatán.
 
 ###### Artículo 2.
 
@@ -89,39 +81,17 @@ X. Servicio: al servicio de defensa pública, que comprende la defensa penal pú
 
 XI. El Sistema: el Sistema de Licitaciones de la Defensa Penal Pública.
 
+> <small>(REFORMADO, D.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 3.
 
-El Servicio se regirá de acuerdo a los principios siguientes:
+El Servicio se regirá por los principios de confidencialidad, continuidad, diligencia, excelencia, gratuidad, independencia funcional, legalidad, parcialidad, profesionalismo, solución alternativa de controversias, respeto a los derechos humanos, transparencia y uso efectivo de recursos.
 
-I. Confidencialidad: el servidor público deberá guardar reserva o secreto de la información revelada por los usuarios o terceros con ocasión del ejercicio del Servicio. La información así obtenida sólo puede revelarla con consentimiento previo de quien se la confió. Excepcionalmente puede revelar aquella información que permita prevenir un delito o proteger a personas en peligro;
-
-II. Diligencia: el Servicio exigirá el cuidado, esfuerzo y prontitud para encausar las acciones encaminadas a evitar una decisión tardía o errónea, procurando que los procesos se resuelvan en los plazos establecidos;
-
-III. Excelencia: implica que el servidor público que presta el Servicio debe esmerarse en lograr niveles óptimos de desempeño, sobre la base de estándares de calidad;
-
-IV. Gratuidad: la defensa pública es un servicio que se recibirá sin costo alguno en materia de derecho penal y en las demás áreas del derecho cuando el solicitante acredite que no cuenta con recursos económicos para retribuir los servicios de un abogado postulante;
-
-V. Independencia funcional: el Servicio debe ejercerse con libertad y autonomía, por lo que en el ejercicio de sus funciones, el servidor público actuará siguiendo su criterio técnico o jurídico, sin aceptar presiones o instrucciones, internas o externas, particulares para el caso;
-
-VI. Legalidad: el servidor público actuará a favor de los intereses del usuario cumpliendo y exigiendo el cumplimiento de la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, en particular los referidos a la protección de los derechos humanos, la Constitución Política del Estado de Yucatán, las leyes y demás disposiciones reglamentarias y normativas;
-
-VII. Parcialidad: el servidor público que preste el Servicio deberá ejercer su función en atención a lograr la solución más favorable al usuario;
-
-VIII. Profesionalismo: el servidor público que preste el Servicio deberá dominar los conocimientos técnicos y habilidades especiales que se requieran para el ejercicio de su función y tener un comportamiento ético, honesto, calificado, responsable y capaz;
-
-IX. Solución de conflictos: el servidor público que preste el Servicio deberá promover la asesoría e intervención en forma adicional al proceso legal en el campo de la solución alterna de los conflictos participando en la conciliación, mediación y el arbitraje;
-
-X. Transparencia: el servidor público que preste el Servicio deberá conducirse en forma diáfana y pulcra en su actuación jurídica;
-
-XI. Unidad de actuación: los actos y procedimientos en los que se intervenga deberán realizarse de manera continua y sin interrupciones en todas las etapas del proceso, desde el inicio del caso hasta su conclusión definitiva, salvo causas de fuerza mayor. Cuando hubiere conflicto de intereses en la defensa en un mismo proceso o desavenencia con el usuario, éste o el Defensor Público o Asesor Jurídico pueden solicitar cambio de designación, y
-
-XII. Uso efectivo de recursos: implica la asignación, inversión y conservación de manera austera de los recursos materiales y financieros, así como bienes y servicios del sector público orientados a los resultados programados y a la satisfacción plena del interés público.
+> <small>(REFORMADO, D.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 4.
 
-Las autoridades y órganos del Estado, en el ámbito de su competencia, prestarán la colaboración requerida para el cumplimiento de las funciones del Servicio.
-
-Por tanto, estarán obligados a prestar auxilio a los defensores públicos y asesores jurídicos; a facilitar el ejercicio de sus funciones y a proporcionar la información que requieran, así como las certificaciones, constancias y copias indispensables para el servicio que realicen.
+Las autoridades y órganos del estado y municipios, en el ámbito de su competencia, deberán prestar la colaboración requerida por el Instituto, para el cumplimiento de sus funciones, proporcionando gratuitamente la información que requieran, así como certificaciones, constancias y copias indispensables.
 
 ### CAPÍTULO II. Del Servicio de Defensa Pública
 
@@ -131,9 +101,13 @@ El Servicio tiene por objeto:
 
 I. Proporcionar defensa penal de alta calidad profesional y gratuita a las personas que carezcan de abogado por cualquier circunstancia;
 
-II. Velar por la igualdad ante la ley; por el debido proceso y actuar con profundo respeto por la dignidad humana de los representados;
+> <small>(REFORMADA, D.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-III. Ofrecer servicios a los adolescentes sujetos a la Ley de Justicia para Adolescentes del Estado de Yucatán, y
+II. Velar por la igualdad ante la ley, por el debido proceso y por la dignidad humana de los representados;
+
+> <small>(REFORMADA, D.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+III. Representar y defender legalmente a los adolescentes, en los términos de la Ley de Justicia para Adolescentes del Estado de Yucatán, y
 
 IV. Asesorar en asuntos civiles, familiares, administrativos, mercantiles y de amparo a quienes así lo soliciten y que no se encuentren en condiciones de retribuir los servicios de un abogado postulante.
 
@@ -157,7 +131,9 @@ II. Inserción gratuita de edictos en el curso del proceso cuando se trate de do
 
 III. Asistencia pericial gratuita en el proceso a cargo del personal técnico adscrito al Instituto o en su caso, a otro órgano de la administración pública y a favor de las personas que no se encuentran en condiciones de pagar este servicio.
 
-Excepcionalmente y cuando en el Instituto o en algún otro órgano de la administración pública no existan técnicos en la materia que se requiera, la asistencia se proporcionará por peritos que sean designados de entre los técnicos privados, a costa del interesado. El Instituto podrá, si su situación presupuestal lo permite, hacerse cargo de esos costos, mismos que contratará conforme a los procedimientos previstos en el Sistema, y
+> <small>(REFORMADO, D.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Cuando en el Instituto o en algún otro órgano de la administración pública no existan técnicos en la materia que se requiera, la asistencia se proporcionará por peritos designados de entre los técnicos privados, a costa del interesado. El Instituto podrá, si su situación presupuestal lo permite, hacerse cargo de esos costos, previa contratación del técnico privado respectivo, conforme a los procedimientos previstos en el Sistema, y
 
 IV. Obtención de copias de documentos, testimonios e instrumentos que obren en los expedientes seguidos en un proceso o procedimiento que se instruya al solicitante y sean necesarios para ejercer su defensa o representación jurídica.
 
@@ -237,9 +213,11 @@ VIII. Los trabajadores sociales, y
 
 IX. El demás personal administrativo que el Instituto requiera para su operación y que determine el Reglamento, en atención al presupuesto que le sea otorgado.
 
+> <small>(REFORMADO, D.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 13.
 
-La adscripción de los defensores públicos y asesores jurídicos será determinada por el Defensor General. El Defensor General designará por cada Fiscalía o Unidad Investigadora y por cada Juzgado o tribunal en cada uno de los departamentos judiciales, el número suficiente de defensores públicos y asesores jurídicos, así como el personal de auxilio necesario.
+La adscripción de los defensores públicos y asesores jurídicos será determinada por el Defensor General. El Defensor General designará por cada fiscalía investigadora del Ministerio Público y por cada juzgado o tribunal en cada uno de los distritos y departamentos judiciales, el número suficiente de defensores públicos, asesores jurídicos y el personal de auxilio necesario.
 
 ###### Artículo 14.
 
@@ -261,7 +239,9 @@ II. Tener cuando menos treinta años de edad, el día de su designación;
 
 III. Acreditar experiencia de tres años en la práctica procesal de alguna rama del derecho;
 
-IV. Poseer, al día de la designación, título y cédula profesional de Licenciado en Derecho, expedido por la autoridad o institución legalmente facultada para ello con antigüedad mínima de cinco años, computada al día de su designación;
+> <small>(REFORMADA, D.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+IV. Poseer, al día de la designación, título y cédula profesional de abogado o licenciado en derecho, expedido por la autoridad o institución legalmente facultada para ello con antigüedad mínima de cinco años, computada al día de su designación;
 
 V. Gozar de buena reputación, prestigio profesional y no haber sido condenado por delito doloso que amerite sanción privativa de libertad;
 
@@ -341,15 +321,19 @@ Las ausencias accidentales o temporales del Defensor General serán suplidas por
 
 ### CAPÍTULO III. De los Defensores Públicos
 
+> <small>(REFORMADO, D.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 19.
 
-Los defensores públicos serán asignados inmediatamente por el Instituto, sin más requisitos que la solicitud formulada por el imputado en cualquier momento del proceso, el sentenciado, el fiscal o el órgano jurisdiccional, según sea el caso.
+Los defensores públicos serán asignados inmediatamente por el Instituto, a solicitud formulada por el imputado, acusado, sentenciado, el fiscal o el órgano jurisdiccional, según sea el caso, en cualquier momento del procedimiento.
 
 ###### Artículo 20.
 
 Los defensores públicos tendrán las facultades y obligaciones siguientes:
 
-I. Atender inmediatamente las solicitudes formuladas por el imputado, sentenciado, el fiscal o el órgano jurisdiccional, necesarias para la defensa;
+> <small>(REFORMADA, D.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+I. Atender inmediatamente las solicitudes formuladas por el imputado, el fiscal o el órgano jurisdiccional, necesarias para la defensa;
 
 II. Asumir la defensa del imputado desde su primera actuación en el proceso, haciéndole saber sus derechos y cerciorándose de que los comprenda, hasta la completa ejecución de la sentencia;
 
@@ -357,19 +341,29 @@ III. Solicitar el no ejercicio de la acción penal, la suspensión condicional d
 
 IV. Procurar el uso de mecanismos alternativos de solución de controversias con objeto de lograr un resultado restaurativo;
 
-V. Entrevistar al imputado para conocer de viva voz la versión personal de los hechos que motivan la investigación o detención, así como los argumentos, datos y medios de prueba que le sirvan para tratar de justificar o explicar su participación en los mismos hechos, con el propósito de que pueda hacerlos valer ante el fiscal o la autoridad jurisdiccional;
+> <small>(REFORMADA, D.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-VI. Asistir jurídicamente al usuario en el momento en que rinda su declaración, así como en cualquier otra diligencia que establezca la ley;
+V. Entrevistar al imputado, oportunamente y en forma privada, para conocer de viva voz la versión personal de los hechos que motivan la investigación o detención, así como los argumentos, datos y medios de prueba que le sirvan para tratar de justificar o explicar su participación en los mismos hechos, con el propósito de que pueda hacerlos valer ante el fiscal o la autoridad jurisdiccional;
+
+> <small>(REFORMADA, D.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+VI. Asistir jurídicamente al imputado en el momento en que rinda su declaración así como en cualquier otra diligencia que establezca la ley;
 
 VII. Comparecer a todos los actos del proceso en que se requiera su intervención;
 
-VIII. Informar oportunamente al usuario o a sus familiares del trámite legal que deberá desarrollarse en todas las etapas del proceso, para establecer con ellos una comunicación estrecha;
+> <small>(REFORMADA, D.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+VIII. Informar oportunamente al imputado, o a sus familiares, del trámite legal que deberá desarrollarse en todas las etapas del proceso, así como establecer una comunicación directa con aquel, procurando el desarrollo normal de las audiencias;
 
 IX. Analizar las constancias que obren en la carpeta de investigación a fin de contar con mayores elementos para la defensa;
 
-X. Preparar la defensa y realizar todos los actos, diligencias y solicitudes que establezca la legislación en materia de procedimiento penal y de justicia para adolescentes, en su caso, con la finalidad de lograr el resultado más favorable al usuario;
+> <small>(REFORMADA, D.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XI. Hacer valer los argumentos y datos de prueba que desvirtúen la existencia del hecho que la ley señala como delito o de la probable comisión o participación del usuario, en la audiencia de vinculación a proceso;
+X. Preparar la defensa y realizar los actos, diligencias y solicitudes que establezca la legislación en materia procesal penal y de justicia para adolescentes, en su caso, con la finalidad de lograr el resultado más favorable al imputado;
+
+> <small>(REFORMADA, D.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XI. Hacer valer los argumentos y datos de prueba que desvirtúen la existencia del hecho que la ley señala como delito, de la probable comisión o participación del imputado, la procedencia de alguna causal de inimputabilidad, sobreseimiento, excluyente de responsabilidad o la prescripción de la acción penal a favor del imputado, en la audiencia respectiva;
 
 XII. Participar en el debate sobre medidas cautelares, procurando su no imposición o la aplicación de las menos gravosas;
 
@@ -377,13 +371,19 @@ XIII. Promover la revisión, sustitución, modificación o cancelación de las m
 
 XIV. Proponer la aplicación de algún procedimiento especial, en caso de ser procedente;
 
-XV. Ofrecer en la etapa intermedia los medios de prueba que se desahogarán en la audiencia de juicio oral y promover la exclusión de los ofrecidos por el fiscal o el acusador coadyuvante cuando no se ajusten a la ley;
+> <small>(REFORMADA, D.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XVI. Oponer las excepciones que puedan plantearse en la audiencia intermedia o en la de debate de juicio oral;
+XV. Recabar y ofrecer, en la etapa intermedia, los medios de prueba que se desahogarán en la audiencia de juicio y promover la exclusión de los ofrecidos por el fiscal, la víctima u ofendido, cuando no se ajusten a la ley;
 
-XVII. Participar en la audiencia de debate de juicio oral, exponiendo sus alegatos de apertura, desahogando sus pruebas y controvirtiendo las de los otros intervinientes y formular sus alegatos de clausura;
+> <small>(REFORMADA, D.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XVIII. Hacer valer las causas de inimputabilidad, sobreseimiento o excluyentes de responsabilidad a favor de los imputados, así como la prescripción de la acción penal;
+XVI. Oponer las excepciones que puedan plantearse en la etapa intermedia o en la audiencia de juicio;
+
+> <small>(REFORMADA, D.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XVII. Participar en la audiencia de juicio y exponer los alegatos de apertura, desahogar las pruebas y controvertir las de los otros intervinientes, realizar las objeciones que procedan, así como formular los alegatos de clausura;
+
+XVIII. (DEROGADA, D.O. 29 DE NOVIEMBRE DE 2014)
 
 XIX. Procurar la continuidad y uniformidad de los criterios en la defensa;
 
@@ -391,7 +391,9 @@ XX. Interponer los recursos e incidentes que procedan y, en su caso, el juicio d
 
 XXI. Llevar registro de los asuntos a su cargo;
 
-XXII. Informar al Defensor General sobre los asuntos en que intervengan;
+> <small>(REFORMADA, D.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XXII. Informar al Defensor General o la persona que este designe sobre los asuntos en que intervengan;
 
 XXIII. Rendir, mensualmente, informe sobre sus intervenciones efectuadas, proporcionando los datos necesarios para la estadística correspondiente;
 
@@ -403,7 +405,9 @@ XXVI. Asesorar al sentenciado sobre los derechos que le conceden las disposicion
 
 XXVII. Guardar el secreto profesional en el desempeño de sus funciones, y
 
-XXVIII. Las demás promociones necesarias para realizar una defensa adecuada que propicie una impartición de justicia expedita, pronta que deriven de otras disposiciones.
+> <small>(REFORMADA, D.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XXVIII. Las demás que permitan una defensa adecuada en los términos de la ley de la materia y otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 21.
 
@@ -507,7 +511,9 @@ I. Ser ciudadano mexicano en ejercicio de sus derechos políticos y civiles;
 
 II. Acreditar experiencia profesional de tres años en la práctica procesal del derecho en la rama relacionada con la prestación de sus servicios;
 
-III. Poseer, al día de su designación, título y cédula profesional de Licenciado en Derecho, expedido por la autoridad o institución legalmente facultada para ello;
+> <small>(REFORMADA, D.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+III. Poseer, al día de su designación, título y cédula profesional de abogado o licenciado en derecho, expedido por la autoridad o institución legalmente facultada para ello;
 
 IV. Gozar de buena reputación, prestigio profesional y no haber sido condenado por delito doloso que amerite sanción privativa de libertad;
 
@@ -577,9 +583,11 @@ El Mediador será imparcial y no tendrá facultades para sustituir las decisione
 
 ### CAPÍTULO VII. De los Titulares de Unidad
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 36.
 
-El Titular de unidad, deberán (sic) reunir para su designación, los siguientes requisitos:
+El Titular de unidad, deberá reunir para su designación, los siguientes requisitos:
 
 I. Ser ciudadano mexicano y estar en pleno ejercicio de sus derechos civiles y políticos;
 
@@ -587,7 +595,9 @@ II. Tener cuando menos treinta años de edad, el día de su designación;
 
 III. Acreditar experiencia profesional de dos años de práctica en las actividades propias de sus funciones;
 
-IV. Poseer, al día de la designación, título y cédula profesional de Licenciado en Derecho, expedido por la autoridad o institución legalmente facultada para ello con antigüedad mínima de tres años computada al día de su designación. En el caso del Titular de la Unidad de Administración y Finanzas contar con título y cédula profesional de Licenciado en administración pública, finanzas públicas, economía, contador público o carrera afín a tales profesiones;
+> <small>(REFORMADA, D.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+IV. Poseer, al día de la designación, título y cédula profesional de abogado o licenciado en derecho, expedido por la autoridad o institución legalmente facultada para ello con antigüedad mínima de tres años computada al día de su designación. En el caso del Titular de la Unidad de Administración y Finanzas contar con título y cédula profesional de licenciado en administración pública, finanzas públicas o economía, contador público o carrera afín a tales profesiones;
 
 V. Gozar de buena reputación, prestigio profesional y no haber sido condenado por delito doloso que amerite sanción privativa de libertad, y
 
@@ -645,7 +655,9 @@ VIII. Elaborar los programas de trabajo de los Peritos y Trabajadores Sociales y
 
 IX. Todas las demás que le confieran esta Ley, el Reglamento y el Defensor General.
 
-El Titular de la Unidad de Servicios Forenses y Trabajo Social tendrá bajo su cargo a los peritos y trabajadores sociales necesarios para el cumplimiento de sus facultades y obligaciones.
+> <small>(REFORMADO, D.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+El Titular de la Unidad de Servicios Forenses y Trabajo Social tendrá bajo su cargo a los peritos, intérpretes y trabajadores sociales necesarios para el cumplimiento de sus facultades y obligaciones.
 
 ###### Artículo 39.
 
@@ -681,17 +693,19 @@ El Titular de la Unidad Administrativa tendrá bajo su cargo al personal adminis
 
 ### CAPÍTULO VIII. De los Servicios Auxiliares
 
+> <small>(REFORMADO, D.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 40.
 
-Cuando las necesidades del Servicio lo requieran y para la eficaz atención de los asuntos de su competencia, el Instituto podrá contratar los servicios de personas e instituciones dedicadas a la práctica procesal del derecho que sean de reconocida probidad, capacidad y experiencia, de acuerdo con los criterios siguientes:
+El Instituto, cuando las necesidades del Servicio lo requieran, podrá contratar:
 
-I. La contratación será para desempeñar funciones de consultoría externa en la etapa del proceso ante los tribunales y para proveer de servicios periciales para una mayor eficacia en la defensa;
+I. Los servicios de personas e instituciones dedicadas a la práctica procesal del derecho que sean de reconocida probidad, capacidad y experiencia.
 
-II. La contratación se efectuará para apoyar las funciones de los defensores públicos y asesores jurídicos en los asuntos que determine el Instituto, y
+II. Los servicios de un consultor en una ciencia, arte o técnica para que acompañe al Defensor Público en las audiencias para apoyarlo técnicamente.
 
-III. Los abogados particulares, en solidaridad con las finalidades sociales del Instituto, podrán también asesorar externamente a los defensores públicos y a los asesores jurídicos de esta institución sin percibir honorarios por su actuación profesional, suscribiendo el convenio de colaboración correspondiente.
+La contratación será para desempeñar funciones de consultoría externa en la etapa del proceso ante los tribunales y para proveer de servicios periciales para una mayor eficacia en la defensa, en los asuntos que determine el Instituto, y se realizará conforme a los procedimientos previstos para el Sistema.
 
-La contratación a que se refieren las fracciones I y II de este artículo se realizará conforme a los procedimientos previstos para el Sistema.
+Los abogados particulares, en solidaridad con las finalidades sociales del Instituto, podrán también asesorar externamente a los defensores públicos y a los asesores jurídicos de esta institución sin percibir honorarios por su actuación profesional, suscribiendo el convenio de colaboración correspondiente.
 
 ###### Artículo 41.
 
@@ -918,3 +932,17 @@ D.O. 1 DE MARZO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 Este Decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 29 DE NOVIEMBRE DE 2014.
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Interpretación
+
+En tanto entra en vigor, en el estado de Yucatán, el Código Nacional de Procedimientos Penales, cuando en este decreto que se haga referencia a la audiencia de juicio deberá entenderse la audiencia de debate de juicio oral prevista en el Código Procesal Penal para el Estado de Yucatán.
+
+Tercero. Derogación tácita
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
