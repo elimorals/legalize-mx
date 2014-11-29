@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-proteccion-a-victimas-y-personas-que-intervienen-en-9976
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-20"
-last_updated: "2014-03-20"
+last_updated: "2014-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE PROTECCIÓN A VÍCTIMAS, OFENDIDOS Y PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 20 de marzo de 2014.
 
@@ -47,9 +47,11 @@ La presente Ley es de orden público, de interés social y de observancia genera
 
 Sus disposiciones obligan, en el ámbito de sus respectivas competencias, a las autoridades del Estado y municipios, en cualquiera de sus dependencias, organismos o instituciones públicas, así como a las instituciones privadas que tengan por finalidad velar por la protección de las víctimas u ofendidos del delito, al proporcionarles ayuda o asistencia.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 2.
 
-Esta Ley tiene por objeto garantizar el efectivo ejercicio de los derechos de la víctima u ofendido del delito, así como establecer las medidas y procedimientos que garanticen la protección y atención de las personas que intervienen en el procedimiento penal, cuando éstas se encuentren en situación de riesgo grave o peligro inminente con motivo de su participación o como resultado del mismo, en términos de lo dispuesto por el artículo 20, apartado C, fracción V, de la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales celebrados y ratificados por el Estado mexicano, la Ley General de Víctimas y demás leyes aplicables en la materia.
+Esta Ley tiene por objeto garantizar el efectivo ejercicio de los derechos de la víctima u ofendido del delito, así como establecer las medidas y procedimientos que garanticen la protección y atención de las personas que intervienen en el procedimiento penal, cuando éstas se encuentren en situación de riesgo grave o peligro inminente con motivo de su participación o como resultado del mismo, en términos de lo dispuesto por el artículo 20, apartado C, fracción V, de la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales celebrados y ratificados por el Estado mexicano, el Código Nacional de Procedimientos Penales, la Ley General de Víctimas y demás leyes aplicables en la materia.
 
 ###### Artículo 3.
 
@@ -63,7 +65,9 @@ La Procuraduría promoverá la celebración de acuerdos y convenios con autorida
 
 Son beneficiarios de esta Ley las personas que tengan carácter de víctima u ofendido del delito, así como las demás personas que intervienen en el procedimiento penal a los que esta norma les otorgue protección, sin distinción alguna.
 
-Esta Ley se interpretará de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales vigentes en nuestro País y la Ley General de Víctimas, favoreciendo en todo tiempo la protección más amplia de las personas a quienes se les otorgan derechos.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Esta Ley se interpretará de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales vigentes en nuestro País, el Código Nacional de Procedimientos Penales y la Ley General de Víctimas, favoreciendo en todo tiempo la protección más amplia de las personas a quienes se les otorgan derechos.
 
 ###### Artículo 5.
 
@@ -157,9 +161,21 @@ XXIX. Víctima: La persona física que directa o indirectamente ha sufrido daño
 
 XXX. Víctima Directa: La persona física que ha sufrido el daño o menoscabo en su integridad física o mental, bienes o derechos, como consecuencia de la comisión del delito;
 
-XXXI. Víctima Indirecta: Los familiares o personas físicas que se encuentren a cargo de la víctima directa o que tengan con ella una relación inmediata; y
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XXXII. Víctima Potencial: La persona cuya integridad o derechos peligren como consecuencia de prestar asistencia o apoyo a la víctima, ya sea por impedir o detener la comisión del delito.
+XXXI. Víctima Indirecta: Los familiares o personas físicas que se encuentren a cargo de la víctima directa o que tengan con ella una relación por consanguinidad o afinidad inmediata;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XXXII. Víctima Potencial: La persona cuya integridad o derechos peligren como consecuencia de prestar asistencia o apoyo a la víctima, ya sea por impedir o detener la comisión del delito;
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XXXIII. Asesor Jurídico: Al Asesor Jurídico de Víctimas, el cual tendrá un carácter público cuando sea asignado por la Comisión Ejecutiva, en términos de lo dispuesto por la presente Ley, cuyos servicios serán gratuitos; asimismo, podrá tener el carácter de privado, cuando la víctima lo designe directamente con cargo a su patrimonio; y
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XXXIV. Fondo: El Fondo de Ayuda, Asistencia y Reparación Integral del Estado de Querétaro.
 
 ## Título Segundo. De la protección de los derechos de la víctima u ofendido del delito
 
@@ -173,7 +189,9 @@ Derechos generales
 
 La víctima u ofendido del delito tienen los siguientes derechos generales:
 
-I. Ser informado de los derechos que en su favor se establecen en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales, la Constitución Política del Estado de Querétaro, la Ley General de Víctimas y demás normatividad aplicable;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+I. Ser informado de los derechos que en su favor se establecen en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales, el Código Nacional de Procedimientos Penales, la Constitución Política del Estado de Querétaro, la Ley General de Víctimas y demás normatividad aplicable;
 
 II. A que se le garanticen y respeten sus derechos de ayuda, asistencia y atención; de acceso a la justicia; los relativos al procedimiento penal; a la verdad; y a la reparación integral; todos los anteriores en términos de la Ley General de Víctimas;
 
@@ -251,9 +269,17 @@ IV. Obtener una reparación integral del responsable del delito, por los daños 
 
 V. Recibir gratuitamente la asistencia de un traductor de su lengua o intérprete, en caso de no hablar el idioma español o tener algún tipo de discapacidad que le impida comprender la información;
 
-VI. Impugnar las decisiones del Ministerio Público y de los órganos jurisdiccionales, en términos de las leyes en la materia; y
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-VII. Los demás señalados (sic) otras leyes aplicables en la materia.
+VI. Impugnar las decisiones del Ministerio Público y de los órganos jurisdiccionales, en términos de las leyes en la materia;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+VII. Contar con un Asesor Jurídico gratuito en cualquier etapa del procedimiento, en términos de lo previsto en el Código Nacional de Procedimientos Penales y demás legislación aplicable en la materia; y
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+VIII. Los demás señalados en otras leyes aplicables en la materia.
 
 Sección Cuatro
 
@@ -265,7 +291,9 @@ Para garantizar los derechos de la víctima u ofendido del delito dentro del pro
 
 I. Presentar querella o denuncia, cuando se cumplan los requisitos legales para ello;
 
-II. Ejercitar la acción penal privada, en los casos y términos dispuestos por la Ley Adjetiva Penal;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+II. Ejercitar la acción penal por particular, en los casos y términos dispuestos por el Código Nacional de Procedimientos Penales;
 
 III. Recibir asesoría y representación legal por asesor jurídico proporcionado por el Estado, en caso de no contar con los recursos necesarios para contratar un asesor particular a su costa;
 
@@ -277,7 +305,9 @@ VI. Coadyuvar con el Ministerio Público;
 
 VII. A que se le reciban todos los datos, medios y pruebas con los que cuente, que puedan contribuir a la demostración de los hechos, de la responsabilidad penal, así como de la existencia y monto de los daños y perjuicios;
 
-VIII. Intervenir en el procedimiento, por sí o a través de su asesor jurídico, así como interponer los medios de impugnación previstos en la Ley Adjetiva Penal;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+VIII. Intervenir en el procedimiento, por sí o a través de su asesor jurídico, así como interponer los medios de impugnación previstos en el Código Nacional de Procedimientos Penales;
 
 IX. Solicitar las medidas precautorias o cautelares que garanticen su seguridad y la de las demás personas que intervienen en el procedimiento penal; para la protección y restitución de sus derechos o bienes; para la investigación y persecución del responsable del delito; así como para el aseguramiento de bienes destinados a la reparación de daños y perjuicios; todo ello conforme a la legislación aplicable;
 
@@ -287,7 +317,9 @@ XI. Solicitar al Juez la entrega de la cantidad otorgada para garantizar la repa
 
 La entrega de esas cantidades no implica que se haya efectuado la reparación integral de los daños y perjuicios, y su aplicación se realizará proporcionalmente en los casos que así corresponda, tendiendo el o los receptores el deber de devolver la cantidad recibida en el caso de dictarse sentencia absolutoria;
 
-XII. Rendir o ampliar sus declaraciones sin ser identificado dentro de la audiencia en aquellos casos previstos en la Ley Adjetiva Penal, teniendo el Juez la obligación de resguardar sus datos personales;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XII. Rendir o ampliar sus declaraciones sin ser identificado dentro de la audiencia en aquellos casos previstos en el Código Nacional de Procedimientos Penales, teniendo el Juez la obligación de resguardar sus datos personales;
 
 XIII. Que se le informe sobre la realización de las audiencias donde se vaya a resolver sobre sus derechos y a estar presente en las mismas;
 
@@ -309,7 +341,9 @@ I. Conocer los hechos constitutivos de delito de que fueron objeto, la identidad
 
 II. Participar activamente en la búsqueda de la verdad de los hechos y en los diferentes mecanismos previstos en los ordenamientos legales para expresar sus opiniones y preocupaciones, cuando sus intereses pudieran verse afectados; decidiendo libremente sobre su participación, para lo cual podrá solicitar la información sobre las implicaciones legales; y
 
-III. Los demás señalados por la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales, la Ley General de Víctimas, la Constitución Política del Estado de Querétaro, esta Ley y cualquier otra disposición aplicable en la materia.
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+III. Los demás señalados por la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales, el Código Nacional de Procedimientos Penales, la Ley General de Víctimas, la Constitución Política del Estado de Querétaro, esta Ley y cualquier otra disposición aplicable en la materia.
 
 Sección Seis
 
@@ -401,9 +435,11 @@ El proceso de incorporación se realizará de manera gradual y progresiva, dando
 
 La víctima de delitos que afecten su integridad física o psicológica, tendrá derecho a que se le practiquen los exámenes que por su estado requiera y a que se le proporcione el tratamiento especializado durante el tiempo necesario para su total recuperación.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 17.
 
-Las instituciones de salud a cargo del Estado y Municipios, que presten servicios de emergencia a víctimas que no tengan el carácter de derechohabientes, podrán solicitar a la Procuraduría apoyo para que ésta gestione recursos ante el Fideicomiso para la Procuración de Justicia, Asistencia y Apoyo a las Víctimas del Delito, por su (sic) siglas FIPROJUSAA, con los cuales se puedan cubrir el material médico quirúrgico, medicamentos u honorarios de médicos especialistas con los que no cuenten y resulten indispensables para la atención de la víctima; para ello se atenderá a las disposiciones normativas aplicables al Fideicomiso, así como a la disponibilidad de recursos del mismo.
+Las instituciones de salud a cargo del Estado y Municipios, que presten servicios de emergencia a víctimas que no tengan el carácter de derechohabientes, podrán solicitar a la Comisión Ejecutiva su apoyo para que autorice el ejercicio de recursos del Fondo para cubrir el material médico quirúrgico, medicamentos u honorarios de médicos especialistas con los que no cuenten y resulten indispensables para la atención de la víctima; para ello, se atenderá a las disposiciones normativas aplicables al Fondo, así como a la disponibilidad de recursos del mismo.
 
 ###### Artículo 18.
 
@@ -715,7 +751,9 @@ VII. Las demás que señale esta Ley y otras disposiciones legales aplicables en
 
 Los integrantes de las corporaciones de policía del Estado y municipios en el ámbito de sus respectivas competencias tendrán, en lo concerniente a la aplicación de esta Ley, las facultades y obligaciones siguientes:
 
-I. Informar a la víctima del delito, desde el momento en que se presente o comparezca ante ellos, los derechos que le otorga la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales, la Ley General de Víctimas, la Constitución Política del Estado de Querétaro, la presente Ley, las leyes sustantiva y adjetiva penal vigentes en el Estado, así como las demás disposiciones legales aplicables, debiendo dejar constancia escrita de la lectura y explicación realizada;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+I. Informar a la víctima del delito, desde el momento en que se presente o comparezca ante ellos, los derechos que le otorga la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales, el Código Nacional de Procedimientos Penales, la Ley General de Víctimas, la Constitución Política del Estado de Querétaro, la presente Ley, la Ley sustantiva penal vigente en el Estado, así como las demás disposiciones legales aplicables, debiendo dejar constancia escrita de la lectura y explicación realizada;
 
 II. Permitir la participación de la víctima y de su asesor jurídico en los procedimientos encaminados a la procuración de justicia, así como el ejercicio de su coadyuvancia;
 
@@ -911,7 +949,7 @@ I. Dar publicidad a las disposiciones de la presente Ley y demás ordenamientos 
 
 II. Cumplir y hacer cumplir a los servidores públicos municipales las disposiciones de la Ley General de Víctimas, de la presente Ley y de las demás disposiciones legales aplicables en la materia;
 
-III. Celebrar a nombre y por acuerdo del Ayuntamiento, los convenios de cooperación, coordinación y concertación para el mejor desempeño de las funciones y cumplimiento de las obligaciones que la Ley General de Víctimas, la presente Ley y las demás disposiciones legales aplicables en la materia; (sic)
+III. Celebrar a nombre y por acuerdo del Ayuntamiento, los convenios de cooperación, coordinación y concertación para el mejor desempeño de las funciones y cumplimiento de las obligaciones que la Ley General de Víctimas, la presente Ley y las demás disposiciones legales aplicables en la materia;
 
 IV. Vigilar y verificar la actuación de las dependencias municipales en lo relativo al correcto y oportuno ejercicio de sus funciones, así como del cumplimiento de los deberes que le impone la Ley General de Víctimas, la presente Ley y de las demás disposiciones legales aplicables en la materia;
 
@@ -1113,9 +1151,29 @@ IX. Establecer mecanismos para la capacitación, formación, actualización y es
 
 X. Rendir un informe anual ante el Sistema Estatal de Atención a Víctimas, sobre los avances del Programa de Atención Integral a Víctimas y demás obligaciones previstas en esta Ley;
 
-XI. Promover la coordinación interinstitucional de las dependencias, instituciones y órganos que integran el Sistema Estatal de Atención a Víctimas; y
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XII. Las demás que señale esta Ley y otras disposiciones legales aplicables en la materia.
+XI. Promover la coordinación interinstitucional de las dependencias, instituciones y órganos que integran el Sistema Estatal de Atención a Víctimas;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XII. Nombrar, con aprobación del Sistema Estatal, a los titulares del Fondo, de la Asesoría Jurídica y del Registro;
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XIII. Vigilar la adecuada operación de la Asesoría Jurídica de Atención a Víctimas, dictando los lineamientos e instrucciones necesarias para tal efecto;
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XIV. Administrar y vigilar el adecuado ejercicio de los recursos del Fondo, dictando las recomendaciones necesarias para garantizar su óptimo y eficaz funcionamiento, observando para tal efecto los principios de publicidad, transparencia y rendición de cuentas;
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XV. Recibir y evaluar los informes que le rindan los titulares del Fondo, de la Asesoría Jurídica, así como del Registro; emitiendo las recomendaciones pertinentes para garantizar su óptimo y eficaz funcionamiento, rindiendo un informe anual de sus resultados al Sistema Estatal y demás organismos competentes en materia de control y auditoría; y
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XVI. Las demás que señale esta Ley y otras disposiciones legales aplicables en la materia.
 
 ###### Artículo 52.
 
@@ -1211,15 +1269,29 @@ Sección Tres
 
 De la asesoría jurídica a víctimas
 
-###### Artículo 58.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-La asesoría jurídica a víctimas estará a cargo de la Dirección de Atención a Víctimas u Ofendidos del Delito de la Procuraduría General de Justicia y se otorgará por asesores jurídicos de atención a víctimas.
+###### Articulo 58.
+
+La Asesoría Jurídica de Atención (sic) Víctimas, es un órgano de la Comisión Ejecutiva que gozará de independencia técnica y operativa en el cumplimiento de sus funciones.
+
+Se integrará por asesores jurídicos públicos, peritos y por personal técnico, de acuerdo con las necesidades de servicio y disponibilidad presupuestal.
+
+La Comisión Ejecutiva asignará a un asesor jurídico público en términos de lo previsto en el Código Nacional de Procedimientos Penales, sin más requisitos que la solicitud de la víctima y el previo ingreso de ésta al Registro Estatal; podrá, además, nombrarlo a petición de institución, organismo de derechos humanos u organización de la sociedad civil, facultados legalmente para la protección de los derechos de víctimas del delito.
+
+El servicio del asesor jurídico público será gratuito y se prestará a todas las víctimas que no puedan contratar a un asesor jurídico privado, observando para tal efecto los requisitos y procedimientos establecidos en la presente Ley.
+
+La víctima del delito podrá solicitar en cualquier momento la revocación o cambio del asesor jurídico público cuando se actualice alguna de las causas de impedimento o recusación aplicables al Defensor Público; de igual manera, el asesor jurídico público deberá excusarse cuando se actualice cualquiera de los supuestos de impedimento a que se ha hecho referencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 59.
 
-En materia de asesoría jurídica a víctimas, la Dirección de Atención a Víctimas u Ofendidos del Delito ejercerá las atribuciones siguientes:
+La Asesoría jurídica de Atención a Víctimas tendrá las atribuciones y deberes siguientes:
 
-I. Coordinar el servicio de asesoría jurídica en asuntos del fuero común, a fin de garantizar los derechos de las mismas contenidos en esta Ley, en Tratados Internacionales y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+I. Coordinar el servicio de asesoría jurídica en asuntos del fuero común, a fin de garantizar los derechos de las mismas contenidos en esta Ley, los Tratados Internacionales, el Código Nacional de Procedimientos Penales y demás disposiciones aplicables;
 
 II. Coordinar el servicio de representación y asesoría jurídica de las víctimas en materia penal, a fin de garantizar el acceso a la justicia, a la verdad y la reparación integral;
 
@@ -1231,15 +1303,37 @@ V. Celebrar convenios de coordinación con todos aquellos que puedan coadyuvar e
 
 VI. Las demás que se requiera para la defensa de los derechos de las víctimas.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 60.
 
-La víctima del delito tendrá derecho a nombrar un asesor jurídico, al cual elegirá libremente desde el momento de su ingreso al Registro.
+La víctima del delito tiene derecho a nombrar un asesor jurídico en cualquiera de las etapas del procedimiento penal, para que le asista y comparezca en todos los actos en que ésta sea requerida.
 
-En caso de no contar con asesor jurídico particular, se le deberá nombrar uno público.
+Para ser designado como Asesor Jurídico de Víctimas Público, se requiere:
 
-La víctima tendrá el derecho de que su asesor jurídico comparezca a todos los actos en los que ésta sea requerida.
+I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos;
 
-El servicio de la asesoría jurídica será gratuito y se prestará a todas las víctimas que no puedan contratar a un asesor particular.
+II. Contar con residencia mínima de dos años en el Estado de Querétaro;
+
+III. Contar con título de licenciado en derecho, expedido y registrado legalmente, con la correspondiente cédula profesional y tener por lo menos tres años de ejercicio profesional en materias relacionadas con el ámbito penal;
+
+IV. Tener acreditado, en su caso, el Servicio Militar Nacional;
+
+V. Ser de notoria buena conducta, honradez y probidad;
+
+VI. No haber sido condenado por sentencia ejecutoriada como responsable de un delito doloso, ni estar sujeto a proceso penal;
+
+VII. No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público, ni estar sujeto a procedimiento de responsabilidad administrativa federal o local, en los términos de las normas aplicables;
+
+VIII. No hacer uso de sustancias psicotrópicas, de estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo;
+
+IX. Ser seleccionado en el proceso respectivo, según las bases de la convocatoria correspondiente;
+
+X. Cumplir con los programas de profesionalización que establezcan las disposiciones aplicables; y
+
+XI. Los demás que se establezca por otras leyes aplicables en la materia.
+
+Las facultades y deberes del Asesor Jurídico de Víctimas se ajustarán a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales, el Código Nacional de Procedimientos Penales, la Ley General de Víctimas, la presente Ley y las demás disposiciones legales aplicables en la materia.
 
 ## Título Cuarto. Del Registro Estatal de Víctimas
 
@@ -1489,7 +1583,9 @@ IV. Peritos;
 
 V. Policías;
 
-VI. Ministerio Público, Jueces y miembros del Poder Judicial; y
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+VI. Ministerio Público, Defensores, Jueces y miembros del Poder Judicial; y
 
 VII. Otras personas cuya relación sea por parentesco o cercanas a las señaladas en los incisos anteriores y por la colaboración o participación de aquellos en el procedimiento penal, les genere situaciones de riesgo grave o peligro inminente.
 
@@ -1713,9 +1809,11 @@ VI. Las obligaciones generales y específicas de la autoridad ejecutora de la me
 
 VII. El procedimiento para la revocación o terminación de las medidas de protección.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 98.
 
-El Programa de Protección a Personas se aplicará en los casos en que las personas a proteger se encuentren en una situación de riesgo grave o peligro inminente con motivo de su participación, directa o indirecta, en un procedimiento penal seguido por delitos graves, así calificados por la Ley Adjetiva Penal vigente en el Estado de Querétaro.
+El Programa de Protección a Personas se aplicará en los casos en que las personas a proteger se encuentren en una situación de riesgo grave o peligro inminente con motivo de su participación, directa o indirecta, en un procedimiento penal seguido por delitos graves, así calificados por el Código Nacional de Procedimientos Penales.
 
 En los demás casos, corresponderá al Ministerio Público y a la autoridad judicial que conozcan del procedimiento penal, ordenar y hacer que se cumplan las medidas de protección necesarias para garantizar la seguridad e integridad de las personas que intervengan en éstos, cuando se encuentren en una situación de riesgo grave o peligro inminente; lo anterior, con excepción de las medidas de protección establecidas en el artículo 21, apartado A, fracciones III y IV, y apartado B, fracciones I, incisos c) y d), II, IV, V, VII y VIII de la presente Ley, cuya aplicación corresponderá en forma exclusiva al titular de la Unidad de Protección a Personas, por lo que deberán darle la intervención correspondiente.
 
@@ -1785,6 +1883,10 @@ IX. En el caso de haber sido reubicado, deberá abstenerse de entrar en contacto
 
 X. Las demás que se consideren necesarias por la Unidad de Protección a Personas.
 
+### Capítulo I. Del objeto e integración
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 102.
 
 La autoridad que otorgue la medida de protección podrá mantener, modificar o suprimir todas o algunas de las medidas de protección en cualquiera de las etapas del procedimiento penal cuando exista la solicitud de la persona o se produzcan hechos o circunstancias que así lo ameriten.
@@ -1838,6 +1940,280 @@ El Estado o cualquiera de sus servidores públicos que apliquen la presente Ley,
 ###### Artículo 108.
 
 Toda persona que conozca de información relacionada con la aplicación o ejecución de las medidas a que se refiere el presente Capítulo, estará obligada legalmente a mantenerla bajo reserva, por lo que se le fincará responsabilidad legal en el caso de incumplir con este deber, aplicándosele las sanciones que procedan en términos de la normatividad penal relativa a delitos contra la inviolabilidad del secreto, contra el servicio público o contra la administración de justicia, independientemente de la civil y administrativa que resulte.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+## Título Sexto. Del Fondo de Ayuda, Asistencia y Reparación Integral del Estado de Querétaro
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+### Capítulo II. De los fines del fondo
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 109.
+
+La Comisión Ejecutiva tendrá bajo su responsabilidad la administración de los recursos del Fondo, los cuales estarán destinados a brindar a la víctima del delito o de violaciones a los derechos humanos, la ayuda, asistencia y reparación integral a los que tenga derecho, en términos de la Ley General de Víctimas y de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 110.
+
+Para ser beneficiarios de ayuda, asistencia o reparación integral con recursos del Fondo, las víctimas deberán solicitar su inscripción en el Registro Estatal de Víctimas; la Comisión Ejecutiva ordenará la evaluación del entorno familiar y social del solicitante, así como las demás circunstancias que resulten necesarias para cada caso, con el objeto de contar con información suficiente para determinar las medidas o compensación que resulte procedente, conforme a la normatividad aplicable al Fondo.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 111.
+
+Los recursos del Fondo se integrarán por:
+
+I. Recursos expresamente autorizados para dicho fin en el Presupuesto de Egresos del Estado, sin que éstos puedan ser destinados para un fin diverso;
+
+II. El producto de la enajenación de los bienes que sean decomisados en los procedimientos penales del fuero común, una vez que se haya cubierto la reparación de daños y perjuicios en términos de lo dispuesto por el Código Nacional de Procedimientos Penales;
+
+III. Recursos provenientes de las fianzas o garantías que se hagan efectivas cuando los imputados incumplan con las obligaciones impuestas por la autoridad;
+
+IV. Las aportaciones que a este fin hagan en efectivo o en especie las personas físicas o morales de carácter público, privado o social, nacionales o extranjeras, de manera altruista;
+
+V. Los rendimientos que generen los recursos que obren en el Fondo;
+
+VI. Los reembolsos que se obtengan del responsable del delito por la recuperación de lo erogado anticipadamente por los conceptos de medidas de compensación o reparación de daños y perjuicios; y
+
+VII. Los demás recursos que se determinen en las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 112.
+
+La constitución del Fondo será con independencia de la existencia de otros ya establecidos o que se establezcan para la atención a víctimas, en cuyo caso la aplicación de recursos se hará de manera complementaria, evitando la duplicidad de funciones.
+
+El acceso a los recursos a favor de cada víctima no podrá ser superior a los límites establecidos en esta Ley y las disposiciones correspondientes.
+
+La Comisión Ejecutiva velará por la maximización del uso de los recursos del Fondo, priorizando en todo momento aquellos casos de mayor gravedad.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 113.
+
+El Fondo estará exento de toda imposición de carácter fiscal y parafiscal estatal, así como de los diversos gravámenes estatales a que puedan estar sujetas las operaciones que se realicen por el Fondo.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 114.
+
+La Comisión Ejecutiva emitirá las reglas de operación y demás lineamientos administrativos necesarios para el debido funcionamiento del Fondo, observando para tal efecto lo dispuesto por la presente Ley y demás normatividad aplicable en la materia.
+
+La Comisión Ejecutiva podrá autorizar la creación de un fondo de emergencia para que, a través de éste, se realice el otorgamiento de los apoyos relativos a las medidas de ayuda inmediata señaladas en el Título Segundo, Capítulo II, Sección Uno de la presente Ley, del cual podrá disponerse durante el ejercicio fiscal anual que corresponda.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+### Capítulo III. De la administración del Fondo
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 115.
+
+Los recursos del Fondo serán destinados a:
+
+I. Otorgar a la víctima medidas de ayuda, asistencia y reparación integral, en términos de lo previsto esta Ley;
+
+II. Cubrir, a favor de la víctima, medidas de compensación en forma subsidiaria, en los términos establecidos por la presente Ley;
+
+III. Proveer material médico quirúrgico, medicamentos u honorarios de médicos especialistas para la atención de la víctima, en los términos dispuestos por el artículo 17 de la presente Ley;
+
+IV. Prestar ayuda inmediata a la víctima proporcionándole la atención y tratamiento que requiera atendiendo a la gravedad del daño sufrido y a la prioridad de recibir asistencia, observando para tal efecto los lineamientos establecidos por la presente Ley respecto a los servicios que deban ser prestados por instituciones públicas; y
+
+V. Los demás fines que se determinen por otras disposiciones legales que resulten aplicables al Fondo.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+### Capítulo IV. De la procedencia de las medidas de compensación
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 116.
+
+El Fondo será administrado por la Comisión Ejecutiva, a través de un Director General, observando para tal efecto lo dispuesto en la presente Ley, su reglamento y las reglas de operación aprobadas por la Comisión Ejecutiva de Atención a Víctimas, así como en las disposiciones legales aplicables en materia de ejercicio de recursos públicos y conforme a los criterios de transparencia, oportunidad, eficiencia y rendición de cuentas.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 117.
+
+Los recursos del Fondo serán administrados y operados a través de un fideicomiso público.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 118.
+
+Serán partes del fideicomiso:
+
+I. Fideicomitente: El Poder Ejecutivo del Estado de Querétaro, a través de la Secretaría de Planeación y Finanzas, en los términos de los artículos 10 y 64 de la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro;
+
+II. Fiduciario: La institución de crédito que designe el fideicomitente, debidamente autorizada por la autoridad competente para realizar operaciones fiduciarias; y
+
+III. Fideicomisario: El Poder Ejecutivo del Estado de Querétaro, a través de la Comisión Ejecutiva de Atención a Víctimas, las víctimas u ofendidos del delito que autorice la Comisión Ejecutiva.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 119.
+
+La Comisión Ejecutiva ejercerá, respecto del Fideicomiso, las facultades y obligaciones siguientes:
+
+I. Instruir por escrito al Director General, para que los recursos del Fondo se destinen al cumplimiento de su objeto y fines;
+
+II. Supervisar el correcto ejercicio de los recursos fideicomitidos;
+
+III. Instruir al fiduciario a fin de que invierta los ingresos fideicomitidos, en valores debidamente autorizados, procurando que sean los que produzcan mayores beneficios; y
+
+IV. Las demás que se establezcan en el contrato de fideicomiso respectivo, sus reglas de operación y demás disposiciones legales aplicables al Fondo.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 120.
+
+El Director General del Fondo será nombrado por la Comisión Ejecutiva con la aprobación del Sistema Estatal, y tendrá las facultades y obligaciones siguientes:
+
+I. Ejecutar las acciones necesarias para la correcta administración de los recursos del Fondo, verificando que éstos se destinen exclusivamente al cumplimiento de los fines y objetos establecidos en la presente Ley, y demás disposiciones normativas aplicables;
+
+II. Ejecutar las acciones que le sean ordenadas por la Comisión Ejecutiva, para el debido logro de los fines y objetivos del Fondo;
+
+III. Coordinar, organizar y vigilar el eficaz funcionamiento del Fondo;
+
+IV. Gestionar todo lo necesario para que los recursos del Fondo sean ingresados oportunamente;
+
+V. Presentar periódicamente informes a la Comisión Ejecutiva y demás órganos competentes en materia de fiscalización de recursos públicos, así como rendir cuenta del ejercicio anual ante el Pleno del Sistema Estatal de Atención a Víctimas;
+
+VI. Realizar las previsiones necesarias para procurar que el Fondo tenga la solvencia necesaria para el cumplimiento de sus fines; y
+
+VII. Las demás que se establezcan en el contrato de fideicomiso respectivo, sus reglas de operación y demás disposiciones legales aplicables al Fondo.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 121.
+
+El ejercicio de los recursos del Fondo será fiscalizado y auditado por la Entidad Superior de Fiscalización del Estado, y la Secretaría de la Contraloría.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 122.
+
+Se entiende por compensación la erogación de recursos del Fondo que se hace a favor de la víctima, tratándose de la comisión de delitos graves así calificados por la ley penal, en los que la víctima haya sufrido daño o menoscabo a su libertad o si la víctima directa hubiere fallecido o sufrido un deterioro incapacitante en su integridad física y/o mental como consecuencia del delito.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 123.
+
+La compensación se otorgará tomando en consideración todos los perjuicios y pérdidas económicamente evaluables que sean consecuencia directas de la comisión de los delitos referidos en el artículo precedente, o de la violación de derechos humanos, incluyendo el error judicial, de conformidad con lo que establezca esta Ley y su Reglamento.
+
+Los conceptos comprendidos en la aplicación de medidas de compensación incluyen:
+
+I. La reparación del daño sufrido por la víctima en su integridad física;
+
+II. La reparación de los daños patrimoniales;
+
+III. La reparación del daño moral sufrido por la víctima o las personas relacionadas con ésta que tengan derecho a recibir la reparación integral, observándose para tal efecto lo dispuesto por el Código Civil del Estado de Querétaro;
+
+IV. El resarcimiento de los perjuicios ocasionados,
+
+V. El pago de los gastos y costas judiciales del Asesor Jurídico cuando éste hubiere sido privado, salvo que se le hubiere ofrecido a la víctima el servicio de un Asesor Jurídico Público y ésta lo hubiere rechazado;
+
+VI. El pago de tratamientos médicos o terapéuticos que sean necesarios para la recuperación de la salud psíquica y física de la víctima, observándose para tal efecto lo dispuesto por el artículo 8 de la presente Ley; y
+
+VII. Los gastos comprobables de transporte, alojamiento, comunicación o alimentación que le ocasione trasladarse al lugar del juicio o para asistir a su tratamiento, si la víctima reside en municipio o lugar distinto al del enjuiciamiento o donde recibe la atención, debiendo observarse para tal efecto los requisitos y condiciones establecidas en la presente Ley, su Reglamento y las normas de operación del Fondo.
+
+Las normas reglamentarias establecerán el procedimiento y el monto de gasto comprobable mínimo, que no deberá ser mayor al veinticinco por ciento del monto total.
+
+La compensación subsidiaria no podrá exceder del monto a que se refiere el artículo 125 de la presente Ley, tomando en cuenta la proporcionalidad del daño y los conceptos referidos en el artículo 126.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 124.
+
+Las víctimas de violaciones a sus derechos humanos, tendrán derecho a solicitar medidas de compensación en los términos y montos que se determine en la resolución que emita en su caso:
+
+I. Un órgano jurisdiccional estatal;
+
+II. Un órgano jurisdiccional nacional, internacional o reconocido por los Tratados Internacionales ratificados por México;
+
+III. Un organismo público de protección de los derechos humanos; o
+
+IV. Un organismo internacional de protección de los derechos humanos reconocido por los Tratados Internacionales ratificados por México, cuando su resolución no sea susceptible de ser sometida a la consideración de un órgano jurisdiccional internacional previsto en el mismo tratado en el que se encuentre contemplado el organismo en cuestión.
+
+Lo anterior, sin perjuicio de las responsabilidades civiles, penales y administrativas que los mismos hechos pudieran implicar.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 125.
+
+El monto de la compensación subsidiaria podrá alcanzar hasta quinientas veces el salario mínimo mensual vigente en el Estado de Querétaro. Deberá ser proporcional a la gravedad del daño sufrido y no podrá implicar el enriquecimiento para la víctima.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 126.
+
+La Comisión Ejecutiva determinará el monto del apoyo o asistencia a otorgar, teniendo en cuenta:
+
+I. La determinación del Ministerio Público, cuando el responsable se haya sustraído de la justicia, haya muerto o desaparecido o se haga valer un criterio de oportunidad;
+
+II. La resolución firme emitida por la autoridad judicial;
+
+III. La opinión técnico-jurídica del Director General del Fondo, respecto a la procedencia o no del otorgamiento;
+
+IV. La gravedad del hecho punible cometido o de la violación de derechos humanos sufrida;
+
+V. Los perjuicios, sufrimientos o pérdidas económicamente evaluables, atendiendo en su caso al contenido de la sentencia que ponga fin al procedimiento;
+
+VI. El resultado de los estudios de entorno social y familiar realizados a la víctima; y
+
+VII. Que la víctima no haya sido reparada, debiendo para tal efecto exhibir ante la Comisión Ejecutiva todos los elementos a su alcance que así lo demuestren.
+
+Cuando se trate de resoluciones que determinen la compensación a la víctima a cargo al sentenciado, la víctima deberá acreditar que realizó el procedimiento legal procedente para obtener la reparación del daño directamente de éste, sin haber logrado el pago total.
+
+La determinación de la Comisión Ejecutiva deberá dictarse dentro del plazo de noventa días, contados a partir de la recepción de la solicitud.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 127.
+
+Se consideran como documentos idóneos para acreditar lo establecido en la fracción VII del artículo anterior, entre otros, los siguientes:
+
+I. Las constancias del agente del Ministerio Público de las que se desprendan que las circunstancias de hecho hacen imposible la consignación del imputado ante la autoridad jurisdiccional y, por lo tanto, hacen imposible el ejercicio de la acción penal;
+
+II. La sentencia firme de la autoridad judicial, en la que se señalen los conceptos a reparar;
+
+III. Las constancias del procedimiento legal promovido por la víctima para obtener del sentenciado el pago de los conceptos condenados en sentencia, así como el monto de los conceptos pagados y los que hayan quedado sin cubrirse; y
+
+IV. La resolución emitida por autoridad competente u organismo de protección de los derechos humanos, de donde se desprenda que no ha obtenido la reparación del daño, de la persona directamente responsable de satisfacer dicho concepto.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 128.
+
+La Comisión Ejecutiva se subrogará en los derechos de las víctimas en lo concerniente a lo erogado a su favor por concepto de compensación, para hacer efectivo el cobro y recuperación del recurso ejercido.
+
+Para tal efecto, la víctima que se vea beneficiada con la medida, entregará los elementos de prueba necesarios para el ejercicio de los derechos derivados de la subrogación.
+
+Por su parte, el Ministerio Público deberá ofrecer elementos probatorios para acreditar la existencia de daños y perjuicios en el momento procesal oportuno, a fin de garantizar que los mismos sean valorados por el juzgador al dictar sentencia; en el caso de apoyos otorgados a la víctima previo a sentencia, la Comisión Ejecutiva lo hará del conocimiento del Ministerio Público por escrito, solicitándole de manera expresa que se solicite la subrogación del derecho de reparación a su favor por los conceptos que hayan sido erogados con recursos del fondo.
+
+En el caso de las compensaciones por error judicial, éstas se cubrirán con cargo al presupuesto del Poder Judicial.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 129.
+
+La Comisión Ejecutiva promoverá el procedimiento económico coactivo para hacer efectiva la subrogación del monto de la reparación, sin perjuicio de que dicho cobro pueda reclamarse por la vía civil al sentenciado o a quienes tengan el carácter de terceros obligados a cubrirla.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 130.
+
+El Reglamento precisará el funcionamiento, alcance y criterios específicos de asignación de recursos del Fondo.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 131.
+
+La obtención de la compensación subsidiaria no extingue el derecho de la víctima a exigir la reparación que se derive de cualquier otra naturaleza.
 
 ## TRANSITORIOS
 
@@ -1918,3 +2294,15 @@ Lic. Marcelo López Sánchez
 Secretario de Desarrollo Sustentable
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE NOVIEMBRE DE 2014.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Hasta en tanto se crea la Asesoría Jurídica de Víctimas de la Comisión Ejecutiva, las funciones del Asesor Jurídico Público seguirán cumpliéndose a través del área jurídica de la Dirección de Atención a Víctimas y Ofendidos del Delito, de la Procuraduría General de Justicia del Estado de Querétaro, conforme a sus posibilidades de servicio.
+
+Artículo Cuarto. Las disposiciones del Código de Procedimientos Penales para el Estado de Querétaro continuarán en vigencia, conforme a la gradualidad establecida en el Decreto por el que la Quincuagésima Séptima Legislatura del Estado de Querétaro, declara que en la legislación local ha quedado incorporado el Sistema Procesal Penal Acusatorio y declara el inicio de vigencia del Código Nacional de Procedimientos Penales.
