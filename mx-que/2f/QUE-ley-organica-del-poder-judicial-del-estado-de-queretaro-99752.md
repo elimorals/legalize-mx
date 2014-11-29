@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-judicial-del-estado-de-queretaro-99752"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-03-20"
-last_updated: "2014-06-29"
+last_updated: "2014-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99752&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO EN LO RELATIVO A LA IMPLEMENTACIÓN DEL SISTEMA PENAL ACUSATORIO ADVERSARIAL, LA VIGENCIA SERÁ GRADUAL Y REGIONAL, DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE ESTA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL P.O. DE 20 DE MARZO DE 2014.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 20 de marzo de 2014.
 
@@ -255,7 +255,9 @@ IX. Nombrar a los jueces de primera instancia y menores; tomarles la protesta de
 
 X. Acordar la división del territorio del Estado en distritos judiciales, modificar la jurisdicción territorial y competencia de los juzgados en materia o cuantía, así como ampliar o reducir el número de distritos judiciales, a propuesta del Consejo de la Judicatura.
 
-Asimismo, acordar la integración de las regiones judiciales en tratándose del Sistema Penal Acusatorio Adversarial.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Asimismo, acordar la integración de las regiones judiciales en tratándose del Sistema Penal Acusatorio.
 
 El Acuerdo del Pleno deberá ser publicado en el Periódico Oficial del Gobierno del Estado y en los diarios de mayor circulación en la Entidad, debiendo difundirse en los estrados judiciales la modificación que se realice, con arreglo a esta facultad;
 
@@ -469,31 +471,39 @@ b) La apelación contra resoluciones que concedan o nieguen cualquier tipo de li
 
 c) La apelación contra resoluciones que deriven de procesos que se sigan por delitos graves;
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-d) Las apelaciones derivadas de los asuntos seguidos por delitos contra la salud, en la modalidad de narcomenudeo, previstos en el Capítulo VII del Título Décimo Octavo de la Ley General de Salud, que sean competencia de las autoridades del fuero común, sujetándose a las disposiciones locales respectivas, salvo en los casos del destino y destrucción de narcóticos y la clasificación de los delitos como graves para fines del otorgamiento de la libertad provisional bajo caución, en los cuales se observarán las disposiciones del Código Federal de Procedimientos Penales; y
+d) Las apelaciones derivadas de los asuntos seguidos por delitos contra la salud, en la modalidad de narcomenudeo, previstos en la Ley General de Salud, que sean competencia de las autoridades del fuero común, sujetándose a las disposiciones locales respectivas, salvo en los casos del destino y destrucción de narcóticos y la clasificación de los delitos como graves para fines del otorgamiento de la libertad provisional bajo caución, en los cuales se observarán las disposiciones del Código Federal de Procedimientos Penales.
 
 > <small>(ADICIONADO, P.O. 16 DE MAYO DE 2014)</small>
 
 e) Los recursos en el que les otorgue competencia objetiva esta Ley u otras disposiciones aplicables; y
 
-II. En el Sistema Penal Acusatorio Adversarial:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+II. En el Sistema Penal Acusatorio:
 
 a) La apelación contra sentencias definitivas;
 
-b) La revisión extraordinaria;
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2014)</small>
+b) El reconocimiento de inocencia o anulación de sentencia;
+
+(REFORMADO, P.O. 16 DE MAYO DE 2014) (REPUBLICADO, P.O. 29 DE NOVIEMBRE DE 2014)
 
 c) La apelación contra resoluciones que concedan o nieguen cualquier tipo de medida cautelar de carácter personal;
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-d) Las apelaciones derivadas de los asuntos seguidos por delitos contra la salud, en la modalidad de narcomenudeo, previstos en el Capítulo VII del Título Décimo Octavo de la Ley General de Salud, que sean competencia de las autoridades del fuero común, sujetándose a las disposiciones locales respectivas, salvo en los casos del destino y destrucción de narcóticos y la clasificación de los delitos como graves, en los cuales se observarán las disposiciones del Código Federal de Procedimientos Penales; y
+d) La apelación derivada de los asuntos seguidos por delitos contra la salud, en la modalidad de narcomenudeo, previstos en la Ley General de Salud, que sean competencia de las autoridades del fuero común, sujetándose a las disposiciones del Código Nacional de Procedimientos Penales, salvo en los casos del destino y destrucción de narcóticos y la clasificación de los delitos como graves, en los cuales se observarán las disposiciones del Código Federal de Procedimientos Penales;
 
-> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-e) Los recursos en el que les otorgue competencia objetiva esta Ley u otras disposiciones aplicables.
+e) La apelación contra resoluciones que deriven de procesos que se sigan por delitos establecidos en el Código Nacional de Procedimientos Penales, como de prisión preventiva oficiosa; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+f) Los recursos en el que les otorgue competencia objetiva esta Ley u otras disposiciones aplicables.
 
 En ambos sistemas, los demás asuntos se resolverán de manera unitaria, así como las apelaciones y demás recursos procedentes contra las resoluciones de los jueces de ejecución de sanciones penales.
 
@@ -621,7 +631,9 @@ I. Dar fe de los acuerdos y resoluciones dictados por el Pleno, el Consejo de la
 
 II. Practicar las diligencias que el Pleno, el Consejo de la Judicatura o el Presidente del Tribunal Superior de Justicia le encomiende;
 
-III. Practicar las notificaciones que se hagan a los interesados de las resoluciones dictadas por el Pleno, por el Consejo de la Judicatura o por el Presidente del Tribunal Superior de Justicia;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+III. Autorizar las notificaciones que se hagan a los interesados de las resoluciones dictadas por el Pleno, por el Consejo de la Judicatura o por el Presidente del Tribunal Superior de Justicia;
 
 IV. Informar a la Oficialía Mayor los puntos resolutivos de las sentencias dictadas por el Pleno del Tribunal Superior de Justicia o por el Consejo, con motivo de las sanciones administrativas de quejas interpuestas contra los servidores públicos del Poder Judicial;
 
@@ -757,7 +769,9 @@ V. Los juzgados de ejecución de sanciones penales; y
 
 VI. Los juzgados mixtos.
 
-La jurisdicción de primera instancia en el Sistema Penal Acusatorio Adversarial está a cargo de los jueces de control y de los de juicio oral, en términos de esta Ley.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+La jurisdicción de primera instancia en el Sistema Penal Acusatorio está a cargo de los jueces de control del Tribunal de Enjuiciamiento y Jueces de Ejecución; en términos del Código Nacional de Procedimientos Penales y de esta Ley.
 
 ###### Artículo 61.
 
@@ -765,7 +779,9 @@ El Pleno del Tribunal Superior de Justicia determinará el número de juzgados c
 
 Cuando en un distrito judicial exista más de un juzgado, se designarán por orden numérico.
 
-Igualmente determinará el número de jueces de control y de juicio oral en los términos de la última parte del primer párrafo de este artículo.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Igualmente determinará el número de jueces de control, de enjuiciamiento y de ejecución, en los términos de la última parte del primer párrafo de este artículo.
 
 ###### Artículo 62.
 
@@ -783,7 +799,9 @@ V. El personal administrativo que se requiera; y
 
 VI. Los prestadores de servicio social o practicantes que discrecionalmente considere pertinentes el titular del juzgado respectivo.
 
-Los juzgados que funcionen conforme al Sistema Penal Acusatorio Adversarial tendrán los funcionarios y el personal administrativo auxiliar que determine el Consejo de la Judicatura.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Los juzgados que funcionen conforme al Sistema Penal Acusatorio tendrán los funcionarios y el personal administrativo auxiliar que determine el Consejo de la Judicatura.
 
 ### Capítulo VIII. De la competencia de los juzgados
 
@@ -1027,9 +1045,11 @@ VIII. Realizar la integración de las actuaciones en el sistema electrónico de 
 
 IX. Las que establezca la presente Ley y las demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 79.
 
-Para ser Secretario de Acuerdos, Secretario Proyectista, Secretario Auxiliar o Actuario, deberán reunir los requisitos siguientes:
+Para ser Secretario de Acuerdos, Secretario Proyectista, Secretario Auxiliar, Actuario o Notificador, deberán reunir los requisitos siguientes:
 
 I. Ser mexicano en pleno ejercicio de sus derechos civiles y políticos;
 
@@ -1039,7 +1059,9 @@ III. Haber satisfecho los requisitos de la convocatoria que expida el Consejo de
 
 IV. Ser de notoria buena conducta, honradez y honestidad.
 
-En el caso de los actuarios, además deberán contar con la habilidad de conducir vehículo automotor y con licencia para conducir vigente.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+En el caso de los actuarios o notificadores, además deberán contar con la habilidad de conducir vehículo automotor y con licencia para conducir vigente.
 
 ### Capítulo XI. De los juzgados menores
 
@@ -1085,23 +1107,31 @@ Los Secretarios de Acuerdos de los juzgados menores, tendrán las mismas faculta
 
 En el caso de faltas temporales del juez, lo suplirá el Secretario de Acuerdos, actuando con testigos de asistencia, cuando no se nombre persona para tal efecto, pero se abstendrá de dictar sentencia alguna.
 
-### Capítulo XII. Del Sistema Penal Acusatorio Adversarial
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+### Capítulo XII. Del Sistema Penal Acusatorio
 
 #### Sección Primera. Disposiciones generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 87.
 
-La función jurisdiccional en el Sistema Penal Acusatorio Adversarial se ejerce por:
+La función jurisdiccional en el Sistema Penal Acusatorio se ejerce por:
 
 I. Jueces de Control;
 
-II. Jueces de Juicio Oral;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+II. Jueces de Enjuiciamiento, actuando de manera unitaria o de forma colegiada por tres jueces;
 
 III. Jueces de Ejecución; y
 
 IV. Salas del Tribunal Superior de Justicia.
 
-Los jueces del Sistema Penal Acusatorio Adversarial, tendrán competencia en todo el Estado de Querétaro, sin restricción de cuantía o pena.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Los jueces del Sistema Penal Acusatorio, tendrán competencia en todo el Estado de Querétaro, sin restricción de cuantía o pena.
 
 Los jueces del sistema elegirán de entre ellos un juez coordinador, quien durará en su encargo un año.
 
@@ -1123,7 +1153,9 @@ IV. Encargado de causas;
 
 V. Encargado de salas;
 
-VI. Actuario, en las regiones donde no exista Coordinación de Actuarios;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+VI. Notificador;
 
 VII. Oficial de actas;
 
@@ -1167,37 +1199,67 @@ XIV. Resolver sobre las impugnaciones que haga la víctima u ofendido o su aseso
 
 XV. Integrar las actuaciones en el sistema electrónico de gestión correspondiente; y
 
-XVI. Las demás que le confieran esta Ley y otros ordenamientos legales.
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XVI. Las demás que le confieran esta Ley, el Código Nacional de Procedimientos Penales y otros ordenamientos legales aplicables.
 
 Tratándose de solicitudes de medidas cautelares, providencias precautorias y técnicas de investigación de la autoridad que requieran control judicial, se deberá llevar un registro de todas las comunicaciones entre jueces y Ministerio Público y demás autoridades competentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 91.
 
-Los jueces de juicio oral tendrán las siguientes facultades:
+El Tribunal de Enjuiciamiento, como órgano Jurisdiccional integrado de manera unitaria o por tres jueces, tendrán las siguientes facultades:
 
 I. Tramitar y resolver los asuntos de su competencia;
 
 II. Integrar las actuaciones en el sistema electrónico de gestión correspondiente; y
 
-III. Las demás que le confiera esta Ley y otros ordenamientos legales.
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+III. Las demás que le confiera esta Ley el Código Nacional de Procedimientos Penales y otros ordenamientos legales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 92.
 
-Cuando se constituya Tribunal de Juicio Oral, que se integrará por tres jueces, funcionará en pleno y contará con un Presidente quien presidirá las sesiones, dirigirá el debate y conservará el orden.
+El Tribunal de Enjuiciamiento se integra de manera Colegiada por tres jueces, que funcionará en pleno y contará con un Presidente, quien presidirá las sesiones, dirigirá el debate y conservará el orden.
 
 La sentencia será siempre redactada por uno de los miembros del Tribunal de Juicio Oral, designado por éste. En caso de disidencia, será redactada por su autor. La sentencia señalará el nombre de su redactor y el del disidente.
 
-Las resoluciones del Tribunal de Juicio Oral se tomarán por unanimidad o por mayoría de votos. En el caso de que un Juez no esté de acuerdo con la decisión adoptada por la mayoría, extenderá y firmará su voto particular, expresando sucintamente su opinión.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Las resoluciones del Tribunal de Enjuiciamiento se tomarán por unanimidad o por mayoría de votos. En el caso de que un Juez no esté de acuerdo con la decisión adoptada por la mayoría, extenderá y firmará su voto particular, expresando sucintamente su opinión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Son competencia del Tribunal de Enjuiciamiento, actuando de manera colegiada, los supuestos que a continuación se citan:
+
+I. En relación a la pena, incluyendo agravantes, aquellos delitos cuya media aritmética sea superior a 10 años;
+
+II. En cuanto al número de acusados, cuando sean más de 3 en una misma causa; y
+
+III. En aquellos asuntos que por las circunstancia del hecho, exista un notable interés social respecto a la resolución del proceso penal de que se trate.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 93.
 
-Serán facultades de los miembros del Tribunal de Juicio Oral:
+Serán facultades de los miembros del Tribunal de Enjuiciamiento:
 
 I. Elegir de entre sus miembros a su Presidente;
 
-II. Expedir los acuerdos necesarios para el mejor ejercicio de sus funciones; y
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-III. Dictar las sentencias que correspondan dentro de los asuntos que sean de su competencia.
+II. Expedir los acuerdos necesarios para el mejor ejercicio de sus funciones;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+III. Dictar las sentencias que correspondan dentro de los asuntos que sean de su competencia; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+IV. Las demás que le confiera esta Ley, el Código Nacional de Procedimientos Penales y otros ordenamientos legales aplicables.
 
 ###### Artículo 94.
 
@@ -1553,7 +1615,13 @@ V. Capturar de manera veraz y oportuna en los programas o sistemas informáticos
 
 VI. Contribuir a la integración de las actuaciones en el sistema electrónico de gestión o de control de los órganos y dependencias del Poder Judicial en el ámbito de su competencia; y
 
-VII. Las demás que establezca la presente Ley y las demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+VII. Integrar información estadística relativa a la aplicación de los mecanismos alternativos de solución de controversias en el Estado; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+VIII. Las demás que establezca la presente Ley y las demás disposiciones aplicables.
 
 #### Sección Sexta. De la Dirección de Psicología
 
@@ -1631,7 +1699,7 @@ VI. Nombrar a los servidores judiciales responsables de las dependencias de apoy
 
 VII. Tomar las providencias necesarias para el eficiente manejo administrativo del Poder Judicial, vigilando en todo momento que se cumplan las disposiciones legales y administrativas correspondientes;
 
-VIII. Para el caso del Sistema Penal Acusatorio Adversarial, mediante acuerdo general, determinará los casos en que se integrará Tribunal de Juicio Oral;
+VIII. (DEROGADA, P.O. 29 DE NOVIEMBRE DE 2014)
 
 IX. Vigilar la administración y manejo del Fondo Auxiliar para la Administración de Justicia, con transparencia, eficacia, honradez y estricto apego a las políticas de disciplina, racionalidad y austeridad;
 
@@ -1909,6 +1977,10 @@ X. Las demás que le confiera la presente Ley y otras disposiciones legales apli
 
 La Visitaduría Judicial tiene por objeto verificar el debido funcionamiento de los juzgados y supervisar las conductas de los integrantes de éstos, conforme a los lineamientos emitidos por el Consejo de la Judicatura.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Igualmente, verificar el debido funcionamiento de los jueces en el sistema acusatorio y supervisar las conductas de los integrantes de éstos, de conformidad con los informes de la Coordinación Jurídico Administrativa.
+
 ###### Artículo 130.
 
 La Visitaduría Judicial tendrá las siguientes funciones específicas:
@@ -2072,6 +2144,10 @@ El Consejo de la Judicatura estará facultado para emitir los acuerdos generales
 ###### Artículo 140.
 
 El Consejo de la Judicatura establecerá un sistema de evaluación institucional respecto de la carrera judicial, en atención a los méritos para la selección, promoción y permanencia en el cargo, las categorías, descripción y perfil de puestos, así como la capacitación y el desarrollo de los servidores judiciales, en los términos de esta Ley y demás disposiciones aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Artículo 140 bis. La carrera judicial se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
 
 ###### Artículo 141.
 
@@ -2455,7 +2531,9 @@ En el Poder Judicial del Estado, tendrán el carácter de trabajadores de confia
 
 Artículo Primero. La presente Ley iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
-Artículo Segundo. En lo relativo a la implementación del Sistema Penal Acusatorio Adversarial, la vigencia de esta Ley será gradual y regional, por lo tanto, su aplicación será progresiva, conforme a las siguientes fechas:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Artículo Segundo. En lo relativo a la implementación del Sistema Penal Acusatorio, la vigencia de esta Ley será gradual y regional, por lo tanto, su aplicación será progresiva, conforme a las siguientes fechas:
 
 a) El 02 de junio de 2014: en los Distritos Judiciales de San Juan del Río, que comprende los Municipios de San Juan del Río, Tequisquiapan y Pedro Escobedo; y Amealco de Bonfil, integrado por los Municipios de Amealco de Bonfil y Huimilpan.
 
@@ -2463,9 +2541,9 @@ b) El 29 de septiembre de 2014: en los Distritos Judiciales de Cadereyta de Mont
 
 c) El 30 de marzo de 2015: en el Distrito Judicial de Querétaro, que comprende los Municipios de Querétaro, El Marqués y Corregidora.
 
-> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-Por cuanto ve al Juzgado Especializado en Ejecución de Sanciones Penales, creado por el Pleno del Tribunal Superior de Justicia en sesión del 17 de junio de 2011, tendrá las facultades a que refiere el Artículo 94 de esta Ley, con excepción del último párrafo; las que deberá ejercer a partir de la implementación del Sistema Penal Acusatorio Adversarial, en la gradualidad que establecen los incisos anteriores.
+Por cuanto ve al Juzgado Especializado en Ejecución de Sanciones Penales, creado por el Pleno del Tribunal Superior de Justicia, en sesión del 17 de junio de 2011, tendrá las facultades a que refiere el artículo 94 de esta Ley, con excepción del último párrafo, las que deberá ejercer a partir de la implementación del Sistema Penal Acusatorio, en la gradualidad que establecen los incisos anteriores.
 
 Artículo Tercero. Se abroga la Ley Orgánica del Poder Judicial del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga” número 69, de fecha 17 de diciembre de 2008.
 
@@ -2524,3 +2602,9 @@ P.O. 29 DE JUNIO DE 2014.
 Artículo Primero. La presente Ley entrará en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”.
 
 Artículo Segundo. La Sala Electoral del Tribunal Superior de Justicia del Poder Judicial del Estado, continuará conociendo de los procedimientos que en materia electoral se encuentren en trámite a la entrada en vigor de la presente Ley, hasta su conclusión. Asimismo, conocerá de aquellos que se presenten hasta en tanto quede constituido el Tribunal Electoral del Estado de Querétaro, a partir de la conclusión de los asuntos que les determinen en los términos de las demás salas del tribunal a que pertenece.
+
+P.O. 29 DE NOVIEMBRE DE 2014.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
