@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-justicia-especial-para-adolescentes-infractores-del-5177
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-16"
-last_updated: "2014-11-19"
+last_updated: "2014-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY DE JUSTICIA ESPECIAL PARA ADOLESCENTES INFRACTORES DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA LEY NACIONAL DEL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES, PUBLICADA EN EL D.O.F. DE 16 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO. TRANSITORIOS: ARTÍCULO PRIMERO. VIGENCIA PARA LOS EFECTOS SEÑALADOS EN EL PÁRRAFO TERCERO DEL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 18 DE JUNIO DE 2008, SE DECLARA QUE LA PRESENTE LEGISLACIÓN INCORPORA EL SISTEMA PROCESAL PENAL ACUSATORIO Y ENTRARÁ EN VIGOR EL 18 DE JUNIO DE 2016. LOS REQUERIMIENTOS NECESARIOS PARA LA PLENA OPERACIÓN DEL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES DEBERÁN ESTAR INCORPORADOS EN UN PLAZO NO MAYOR A TRES AÑOS A PARTIR DE LA FECHA DE ENTRADA EN VIGOR DEL PRESENTE DECRETO. ARTÍCULO SEGUNDO. ABROGACIÓN SE ABROGA LA LEY PARA EL TRATAMIENTO DE MENORES INFRACTORES PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 24 DE DICIEMBRE DE 1991 Y SUS POSTERIORES REFORMAS. SE ABROGAN TAMBIÉN LAS LEYES RESPECTIVAS DE LAS ENTIDADES FEDERATIVAS VIGENTES A LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, PARA EFECTOS DE SU APLICACIÓN EN LOS PROCEDIMIENTOS PENALES PARA ADOLESCENTES INICIADOS POR HECHOS QUE OCURRAN A PARTIR DE LA ENTRADA EN VIGOR DE LA PRESENTE LEY. ARTÍCULO TERCERO. CARGA CERO LOS PROCEDIMIENTOS PENALES PARA ADOLESCENTES QUE A LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO SE ENCUENTREN EN TRÁMITE, CONTINUARÁN SU SUSTANCIACIÓN DE CONFORMIDAD CON LA LEGISLACIÓN APLICABLE EN EL MOMENTO DEL INICIO DE LOS MISMOS.]</small>
+
 LEY DE JUSTICIA ESPECIAL PARA ADOLESCENTES INFRACTORES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial el Estado de Chihuahua, el sábado 16 de septiembre de 2006.
 
@@ -105,7 +107,11 @@ Adolescentes con trastorno mental.
 
 Los adolescentes que al momento de realizar el hecho tipificado como delito, padezcan de algún trastorno mental que les impida comprender la trascendencia y las consecuencias de la conducta realizada, quedan exentos de responsabilidad. En este supuesto o cuando el trastorno se presente durante el procedimiento o en la fase de ejecución, la autoridad judicial competente podrá entregar al adolescente a quienes legalmente corresponda hacerse cargo de él.
 
-El proceso que se instruya al adolescente infractor con trastorno mental, será el que establece el Código de Procedimientos Penales para inimputables.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+El proceso que se instruya al adolescente infractor con trastorno mental, será el que establece el Código Nacional de Procedimientos Penales para inimputables, en el Título IX, del Libro Segundo.
 
 Si el trastorno se presenta en la fase de ejecución, el Juez podrá resolver sobre la adecuación de la medida impuesta, considerando las características del trastorno y las necesidades del tratamiento.
 
@@ -323,7 +329,11 @@ III. Cualquier otro dato que permita su identificación pública.
 
 Los órganos especializados deben garantizar que la información que brinden sobre estadísticas judiciales no contravenga el principio de confidencialidad ni el derecho a la privacidad consagrado en esta Ley.
 
-Salvo lo dispuesto para la suspensión del proceso a prueba, los antecedentes y registros relacionados con adolescentes sometidos a proceso o sancionados conforme a esta Ley, no pueden ser utilizados en otro juicio y serán tratados de acuerdo con la Ley en la materia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Salvo lo dispuesto para la suspensión condicional del proceso, los antecedentes y registros relacionados con adolescentes sometidos a proceso o sancionados conforme a esta Ley, no pueden ser utilizados en otro juicio y serán tratados de acuerdo con la Ley en la materia.
 
 ###### Artículo 32.
 
@@ -335,7 +345,11 @@ Todo adolescente tiene derecho a impugnar en los supuestos previstos por esta Le
 
 Derecho de la víctima u ofendido.
 
-La víctima u ofendido podrá participar en el proceso e interponer los recursos correspondientes conforme a lo establecido en esta Ley y el Código de Procedimientos Penales.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+La víctima u ofendido podrá participar en el proceso e interponer los recursos correspondientes conforme a lo establecido en esta Ley y el Código Nacional de Procedimientos Penales.
 
 El Ministerio Público deberá hacer saber a la víctima u ofendido, desde su primera declaración, los derechos que la amparan.
 
@@ -359,15 +373,27 @@ Principio de justicia especializada.
 
 Desde el inicio del proceso, todas las actuaciones y diligencias estarán a cargo de órganos especializados en materia de justicia para adolescentes infractores.
 
-Toda mención que en esta Ley se haga del Juez de Garantía, del Juez de Juicio Oral, del Juez de Ejecución, del Tribunal, del Ministerio Público o de la Defensa Pública, se entenderá como referida a servidores públicos especializados en justicia para adolescentes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Estas autoridades tendrán las facultades, atribuciones y obligaciones establecidas en esta Ley y en las leyes supletorias; a excepción de las señaladas para el Juez de Juicio Oral, quien tendrá las que corresponden al Tribunal de Juicio Oral, quien tendrá las que corresponden al Tribunal de Juicio Oral y a su Presidente.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Toda mención que en esta Ley se haga del Juez de Control, del Tribunal de Enjuiciamiento, del Juez de Ejecución, del Tribunal, del Ministerio Público o de la Defensa Pública, se entenderá como referida a servidores públicos especializados en justicia para adolescentes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Estas autoridades tendrán las facultades, atribuciones y obligaciones establecidas en esta Ley y en las leyes supletorias.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 37.
 
 Jurisdicción.
 
-La jurisdicción de la primera instancia en materia de justicia especializada para adolescentes infractores, estará a cargo de un Juez de Garantía y de un Juez de Juicio Oral; y la de segunda instancia, de una Sala Unitaria Especializada del Supremo Tribunal de Justicia del Estado.
+La jurisdicción de la primera instancia en materia de justicia especializada para adolescentes infractores, estará a cargo de un Juez de Control y de un Tribunal de Enjuiciamiento; y la de segunda instancia, de un Tribunal de Alzada Especializado del Supremo Tribunal de Justicia del Estado.
 
 ###### Artículo 38.
 
@@ -439,7 +465,11 @@ El cómputo de la prescripción se suspenderá:
 
 I. Durante el trámite de extradición internacional o con entidades federativas o el distrito federal;
 
-II. Cuando se toma un criterio de oportunidad; por la suspensión del proceso a prueba; y por formas alternativas de justicia que no extingan la acción penal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+II. Cuando se toma un criterio de oportunidad; por la suspensión condicional del proceso; y por formas de solución alterna del procedimiento que no extingan la acción penal;
 
 III. Por la declaración formal de que el adolescente se ha sustraído a la acción de la justicia. En este caso, el término de la suspensión no podrá exceder de un tiempo igual al de la prescripción de la acción; una vez cumplido este plazo, empezará el de la prescripción; o,
 
@@ -455,25 +485,31 @@ Las medidas sancionadoras prescriben en un término igual al ordenado para cumpl
 
 Estos plazos empezarán a contar desde la fecha en que la resolución que imponga la medida sancionadora ha causado ejecutoria o bien, desde que comenzó el incumplimiento.
 
-### Capítulo IV. Formas alternativas de justicia
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+### Capítulo IV. Formas de solución alterna del procedimiento
 
 #### Sección I
 
 Disposiciones Generales.
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 46.
 
 Requisitos especiales para la procedencia.
 
-Con excepción de los delitos de homicidio doloso, secuestro, secuestro exprés, extorsión, robo de vehículo cometido con violencia en las personas, violación cuando se realice por medio de la violencia física o moral, tortura, trata de personas, desaparición forzada de personas y tráfico de menores, tanto si quedaran consumados como si sólo se manifiestan en grado de tentativa en aquellos que la permitan, procederán las formas alternativas de justicia previstas en este Capítulo, hasta antes de dictarse el auto de apertura a juicio.
+Con excepción de los delitos de homicidio doloso, secuestro, secuestro exprés, extorsión, robo de vehículo cometido con violencia en las personas, violación cuando se realice por medio de la violencia física o moral, tortura, trata de personas, desaparición forzada de personas y tráfico de menores, tanto si quedaran consumados como si sólo se manifiestan en grado de tentativa en aquellos que la permitan, procederán las soluciones alternas del procedimiento previstas en este Capítulo, hasta antes de dictarse el auto de apertura a juicio.
 
-Tampoco procederán estas formas alternativas de justicia cuando exista oposición del Ministerio Público u oposición fundada de la víctima u ofendido o su representante legal.
+Tampoco procederán estas soluciones alternas del procedimiento cuando exista oposición del Ministerio Público u oposición fundada de la víctima u ofendido o su representante legal.
 
-Para la procedencia de las formas alternativas de Justicia, además de la solicitud del adolescente, es indispensable el consentimiento de su padre, madre, de ambos, o del representante de aquél. Si no existe quien ejerza la patria potestad o la tutela en el adolescente; se desconoce quiénes son dichas personas o su paradero o cuando su localización sea difícil, el Juez de Garantía, analizando las circunstancias del caso y los términos del acuerdo reparatorio, convalidará el consentimiento otorgado por el adolescente.
+Para la procedencia de las soluciones alternas del procedimiento, además de la solicitud del adolescente, es indispensable el consentimiento de su padre, madre, de ambos, o del representante de aquél. Si no existe quien ejerza la patria potestad o la tutela en el adolescente; se desconoce quiénes son dichas personas o su paradero o cuando su localización sea difícil, el Juez de Control, analizando las circunstancias del caso y los términos del acuerdo reparatorio, convalidará el consentimiento otorgado por el adolescente.
 
-Salvo en el caso de convalidación de consentimiento dispuesto en el párrafo anterior, durante la audiencia en la que se resuelva sobre la procedencia de las formas alternativas de justicia, deberán estar presentes el Ministerio Público, la víctima u ofendido, el adolescente, su defensor, su padre, su madre, o ambos, o su representante.
+Salvo en el caso de convalidación de consentimiento dispuesto en el párrafo anterior, durante la audiencia en la que se resuelva sobre la procedencia de las soluciones alternas del procedimiento, deberán estar presentes el Ministerio Público, la víctima u ofendido, el adolescente, su defensor, su padre, su madre, o ambos, o su representante.
 
 #### Sección II
 
@@ -489,11 +525,17 @@ Los acuerdos reparatorios se regirán por los principios de voluntariedad de las
 
 Requisito de validez.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MAYO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Para la validez del acuerdo reparatorio, se requerirá, además de la voluntad del adolescente infractor, el consentimiento expreso de su padre, de su madre, de ambos, o de su representante, y cumplir con los requisitos de procedencia, establecidos por el artículo 197 del Código de Procedimientos Penales.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-Se exceptúan del párrafo anterior aquellos casos en los que el juez de garantía haya convalidado dicho acuerdo en los términos del artículo 46.
+Para la validez del acuerdo reparatorio, se requerirá, además de la voluntad del adolescente infractor, el consentimiento expreso de su padre, de su madre, de ambos, o de su representante, y cumplir con los requisitos de procedencia, establecidos por el artículo 187 del Código Nacional de Procedimientos Penales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Se exceptúan del párrafo anterior aquellos casos en los que el Juez de Control haya convalidado dicho acuerdo en los términos del artículo 46.
 
 La exigencia a que se refiere el primer párrafo del presente artículo también será aplicable cuando la víctima u ofendido sea menor de edad.
 
@@ -513,7 +555,11 @@ Prevención.
 
 Siempre que se conceda una salida alterna, el Juez prevendrá al adolescente para que cumpla con las condiciones impuestas y al padre o la madre o su representante para que, en su caso, coadyuven con la vigilancia.
 
-#### Sección III. Suspensión del Proceso a Prueba
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+#### Sección III. Suspensión Condicional del Proceso
 
 > <small>(REFORMADO EN SU RUBRO, P.O. 27 DE OCTUBRE DE 2007)</small>
 
@@ -521,23 +567,27 @@ Siempre que se conceda una salida alterna, el Juez prevendrá al adolescente par
 
 Solicitud de suspensión del proceso a prueba y condiciones por cumplir durante el período.
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-A solicitud del Ministerio Público, procederá la suspensión del proceso a prueba, siempre y cuando el adolescente no se encuentre gozando o haya gozado del mismo en proceso diverso o no haya sido condenado por conductas tipificadas como dolosas, fundada en las directrices que para tal efecto emitirá el Fiscal General.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+A solicitud del Ministerio Público, procederá la suspensión condicional del proceso, siempre y cuando el adolescente no se encuentre gozando o haya gozado del mismo en proceso diverso o no haya sido condenado por conductas tipificadas como dolosas, fundada en las directrices que para tal efecto emitirá el Fiscal General.
 
 > <small>(ADICIONADO, P.O. 7 DE MAYO DE 2011)</small>
 
 Además de los casos del artículo 46, procederá en todos los casos cuando en razón de la edad del adolescente, no pueda ser sujeto a una medida sancionadora privativa de libertad.
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-El Juez de Garantía fijará el plazo de suspensión del proceso a prueba, que no podrá ser inferior a seis meses ni superior a un año, y determinará imponer al adolescente una o varias de las condiciones que deberá cumplir.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+El Juez de Control fijará el plazo de suspensión condicional del proceso, que no podrá ser inferior a seis meses ni superior a un año, y determinará imponer al adolescente una o varias de las condiciones que deberá cumplir.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE ENERO DE 2010)</small>
 
 El Ministerio Público y la víctima u ofendido o su representante, podrán proponer al Juez las condiciones a que debe someterse el adolescente.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO] PRIMER PARRAFO, P.O. 30 DE ENERO DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO] PRIMER PÁRRAFO, P.O. 30 DE ENERO DE 2010)</small>
 
 Las condiciones a cumplir son las siguientes:
 
@@ -577,19 +627,27 @@ Para fijar tales condiciones, el Juez puede disponer que el adolescente infracto
 
 El Juez preguntará al adolescente si se obliga a cumplir con las condiciones impuestas y, en su caso, lo prevendrá sobre las consecuencias de su inobservancia.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 51.
 
 Revocación de la suspensión.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ENERO DE 2010)</small>
+Si el adolescente se aparta considerablemente y en forma injustificada de las condiciones impuestas, no cumple con el plan de reparación, o posteriormente se le inicia nuevo proceso por delito doloso o es condenado en forma ejecutoriada por conducta tipificada como delito doloso, cuando la suspensión condicional del proceso se refiera a un hecho típico de esta naturaleza, el Juez, previa petición del Agente del Ministerio Público o de la víctima u ofendido, convocará a las partes a una audiencia en la que se debatirá sobre la revocatoria y resolverá de inmediato, fundada y motivadamente, acerca de la reanudación de la persecución de la conducta típica. En lugar de la revocatoria, el Juez podrá ampliar el plazo de la suspensión condicional del proceso hasta por seis meses más. Esta extensión del término puede imponerse sólo por una vez.
 
-Si el adolescente se aparta considerablemente y en forma injustificada de las condiciones impuestas, no cumple con el plan de reparación, o posteriormente se le inicia nuevo proceso por delito doloso o es condenado en forma ejecutoriada por conducta tipificada como delito doloso, cuando el proceso suspendido a prueba se refiera a un hecho típico de esta naturaleza, el Juez, previa petición del Agente del Ministerio Público o de la víctima u ofendido, convocará a las partes a una audiencia en la que se debatirá sobre la revocatoria y resolverá de inmediato, fundada y motivadamente, acerca de la reanudación de la persecución de la conducta típica. En lugar de la revocatoria, el Juez podrá ampliar el plazo de la suspensión a prueba hasta por seis meses más, Esta extensión del término puede imponerse sólo por una vez.
+Si la víctima u ofendido ha recibido pagos durante la suspensión condicional del proceso que posteriormente es revocada, ellos se destinarán a la indemnización por daños y perjuicios que le pudiere corresponder.
 
-Si la víctima u ofendido ha recibido pagos durante la suspensión del proceso a prueba que posteriormente es revocada, ellos se destinarán a la indemnización por daños y perjuicios que le pudiere corresponder.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE RUBRO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2011)</small>
+> <small>(ADICIONADO EN SU RUBRO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 51 Bis.
+
+Efectos de la suspensión condicional del proceso.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2011)</small>
 
 Efectos de la suspensión del proceso a prueba.
 
@@ -609,7 +667,11 @@ El proceso para adolescentes infractores tiene por objeto determinar si existe u
 
 Plazos.
 
-Respecto de adolescentes sujetos a medida sancionadora privativa de libertad, los plazos son improrrogables, salvo las excepciones previstas en esta Ley. Si el adolescente se encuentra en libertad, serán prorrogables conforme lo establece el Código de Procedimientos Penales.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Respecto de adolescentes sujetos a medida sancionadora privativa de libertad, los plazos son improrrogables, salvo las excepciones previstas en esta Ley. Si el adolescente se encuentra en libertad, serán prorrogables conforme lo establece el Código Nacional de Procedimientos Penales.
 
 En todos los plazos relativos a la privación de la libertad del adolescente, se contarán también los días inhábiles.
 
@@ -663,11 +725,15 @@ Separación de procesos en distintas jurisdicciones.
 
 Cuando en la comisión del hecho típico participen adolescentes y mayores de edad, las causas serán tramitadas separadamente, cada una en la jurisdicción que corresponda.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 60.
 
 Criterios de oportunidad.
 
-Serán de aplicación los criterios de oportunidad previstos por el Código de Procedimientos Penales.
+Serán de aplicación los criterios de oportunidad previstos por el Código Nacional de Procedimientos Penales.
 
 ###### Artículo 61.
 
@@ -679,7 +745,11 @@ Serán de aplicación los criterios de oportunidad previstos por el Código de P
 
 Medidas.
 
-Serán aplicables las medidas cautelares que establece el Código de Procedimientos Penales en todo cuanto no se contraponga a esta Ley.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Serán aplicables las medidas cautelares que establece el Código Nacional de Procedimientos Penales en todo cuanto no se contraponga a esta Ley.
 
 La detención cautelar de un adolescente sólo procederá en los supuestos en que se le puede aplicar la medida sancionadora privativa de libertad.
 
@@ -693,7 +763,11 @@ Detención cautelar.
 
 La detención cautelar de un adolescente es una medida de carácter excepcional, sólo se utilizará si no fuere posible aplicar otra menos grave. En ningún caso podrá ser ordenada con el objeto de facilitar la realización del estudio psicosocial.
 
-Será aplicada por los períodos más breves posibles y no podrá exceder de un año, prorrogable por dos meses en caso de reposición de la audiencia de juicio. Además podrá, en cualquier momento, ser revocada o sustituida por otra medida menos grave, de conformidad con lo establecido en el Código de Procedimientos Penales, y se ejecutará en centros especializados para adolescentes, separados de adolescentes que hayan sido sancionados con medida privativa de libertad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Será aplicada por los períodos más breves posibles y no podrá exceder de un año, prorrogable por dos meses en caso de reposición de la audiencia de juicio. Además podrá, en cualquier momento, ser revocada o sustituida por otra medida menos grave, de conformidad con lo establecido en el Código Nacional de Procedimientos Penales, y se ejecutará en centros especializados para adolescentes, separados de adolescentes que hayan sido sancionados con medida privativa de libertad.
 
 ###### Artículo 64.
 
@@ -709,7 +783,7 @@ A fin de que la detención cautelar sea lo más breve posible, el Juez y los ór
 
 Detención en caso de flagrancia o caso urgente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ENERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ENERO DE 2010)</small>
 
 Se podrá detener al adolescente en caso de flagrancia o caso urgente sin orden judicial o cuando se haya fugado de un centro especializado de internamiento en el que estaba cumpliendo una medida cautelar o sancionadora.
 
@@ -815,21 +889,25 @@ V. En presencia de su padre, madre, o ambos, o de su representante, si él o su 
 
 Cuando la declaración se rinda ante el Ministerio Público, esta deberá ser videograbada.
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 72.
 
 Plazo para el cierre de la investigación.
 
-Antes de concluir la audiencia de vinculación a proceso, el Juez de Garantía fijará un plazo no mayor a seis meses para el cierre de la investigación.
+Antes de concluir la audiencia de vinculación a proceso, el Juez de Control fijará un plazo no mayor a seis meses para el cierre de la investigación.
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 73.
 
 Cierre de la investigación.
 
-Al concluir el plazo a que se refiere el artículo anterior, el Ministerio Público en un plazo de diez días deberá formular la acusación o solicitar el sobreseimiento o la suspensión del proceso. El Juez de Garantía correrá traslado por el mismo plazo al adolescente y a su defensor, quienes podrán ofrecer, en ese plazo, la prueba para el juicio.
+Al concluir el plazo a que se refiere el artículo anterior, el Ministerio Público en un plazo de diez días deberá formular la acusación o solicitar el sobreseimiento o la suspensión del proceso. El Juez de Control correrá traslado por el mismo plazo al adolescente y a su defensor, quienes podrán ofrecer, en ese plazo, la prueba para el juicio.
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2011)</small>
 
@@ -837,7 +915,11 @@ Al concluir el plazo a que se refiere el artículo anterior, el Ministerio Públ
 
 Procedimiento abreviado.
 
-Además de los previstos en el Código de Procedimientos Penales, el procedimiento abreviado se sujetará al cumplimiento de los siguientes requisitos de validez:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Además de los previstos en el Código Nacional de Procedimientos Penales, el procedimiento abreviado se sujetará al cumplimiento de los siguientes requisitos de validez:
 
 I. La voluntad del adolescente infractor, y
 
@@ -853,21 +935,29 @@ Audiencia intermedia.
 
 Transcurrido el término señalado en el artículo 73, el Juez citará a las partes, en un plazo igual, a una audiencia para decidir las pruebas que se desahogarán en el juicio y remitirá a la autoridad correspondiente el auto de apertura de juicio oral.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 76.
 
 Resolución de apertura del juicio.
 
-El Juez de Garantía hará llegar la resolución de apertura del juicio al Juez de Juicio Oral competente, dentro de las cuarenta y ocho horas siguientes a su notificación. También pondrá a su disposición a los adolescentes sometidos a medida cautelar privativa de la libertad u otras personales.
+El Juez de Control hará llegar la resolución de apertura del juicio al Tribunal de Enjuiciamiento competente, dentro de las cuarenta y ocho horas siguientes a su notificación. También pondrá a su disposición a los adolescentes sometidos a medida cautelar privativa de la libertad u otras personales.
 
-Una vez radicado el proceso ante el Juez de Juicio Oral, éste señalará la fecha para la celebración de la audiencia de debate, la que deberá tener lugar no antes de quince ni después de treinta días naturales desde dicha radicación. El adolescente deberá ser citado, por lo menos, con siete días de anticipación a la celebración de la audiencia.
+Una vez radicado el proceso ante el Tribunal de Enjuiciamiento, éste señalará la fecha para la celebración de la audiencia de debate, la que deberá tener lugar no antes de quince ni después de treinta días naturales desde dicha radicación. El adolescente deberá ser citado, por lo menos, con siete días de anticipación a la celebración de la audiencia.
 
 #### Sección IV. Juicio Especial para Adolescentes Infractores
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 77.
 
 Derecho a optar por modalidad de juicio.
 
-El adolescente, su padre, madre, o ambos, su representante o su defensor, podrán solicitar que la audiencia sea pública y el Juez de Juicio Oral así lo resolverá de considerarlo conveniente.
+El adolescente, su padre, madre, o ambos, su representante o su defensor, podrán solicitar que la audiencia sea pública y el Tribunal de Enjuiciamiento así lo resolverá de considerarlo conveniente.
 
 ###### Artículo 78.
 
@@ -893,13 +983,21 @@ I. Serán proporcionales a las circunstancias y gravedad de la conducta realizad
 
 II. Tomarán en cuenta, a su favor, sus necesidades particulares y las posibilidades reales de cumplirlas.
 
-En caso de que la sentencia sea condenatoria, el Juez de Juicio Oral deberá imponer en todos los casos la sanción de amonestación y hasta un máximo de cuatro medidas más, compatibles entre sí, de modo que su ejecución pueda ser simultánea y, en ningún caso, sucesiva.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+En caso de que la sentencia sea condenatoria, el Tribunal de Enjuiciamiento deberá imponer en todos los casos la sanción de amonestación y hasta un máximo de cuatro medidas más, compatibles entre sí, de modo que su ejecución pueda ser simultánea y, en ningún caso, sucesiva.
 
 ###### Artículo 81.
 
 Criterios para la individualización de la medida sancionadora.
 
-Para la determinación de la medida sancionadora y a fin de lograr una correcta individualización, el Juez de Juicio Oral debe considerar:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Para la determinación de la medida sancionadora y a fin de lograr una correcta individualización, el Tribunal de Enjuiciamiento debe considerar:
 
 I. Los fines establecidos en esta Ley;
 
@@ -919,31 +1017,47 @@ VII. Cualquier otro supuesto que establezca la legislación penal, siempre que n
 
 Audiencia de comunicación de la sentencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2011)</small>
 
 En la audiencia en que se comunica la sentencia, deberán concurrir el Ministerio Público, el adolescente, su defensor y, en su caso, podrán asistir su padre, madre, ambos, o su representante. La ausencia de estos últimos no suspenderá la audiencia.
 
-En caso de que la sentencia sea condenatoria, el Juez de Juicio Oral explicará al adolescente las medidas impuestas, los motivos de su decisión, las características generales de la ejecución de la medida y las consecuencias de su incumplimiento. En particular, le hará saber sobre la posibilidad de que la medida se pueda agravar, al grado de aplicar el internamiento de conformidad con lo dispuesto en esta Ley. Estas prevenciones formarán parte integral de la sentencia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+En caso de que la sentencia sea condenatoria, el Tribunal de Enjuiciamiento explicará al adolescente las medidas impuestas, los motivos de su decisión, las características generales de la ejecución de la medida y las consecuencias de su incumplimiento. En particular, le hará saber sobre la posibilidad de que la medida se pueda agravar, al grado de aplicar el internamiento de conformidad con lo dispuesto en esta Ley. Estas prevenciones formarán parte integral de la sentencia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 83.
 
 Notificación a la Subdirección.
 
-Firme la sentencia, el Juez de Juicio Oral establecerá las condiciones y la forma en que se debe cumplir, y notificará de esto a la Subdirección de Ejecución de Medidas para Adolescentes para que elabore el Plan Individual de Ejecución.
+Firme la sentencia, el Tribunal de Enjuiciamiento establecerá las condiciones y la forma en que se debe cumplir, y notificará de esto a la Subdirección de Ejecución de Medidas para Adolescentes para que elabore el Plan Individual de Ejecución.
 
 #### Sección V. Recursos
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 84.
 
 Determinación de los recursos.
 
-Los recursos aplicables para el Sistema de Justicia Especial para Adolescentes son los que señala el Código de Procedimientos Penales, así como el Recurso de Inconformidad.
+Los recursos aplicables para el Sistema de Justicia Especial para Adolescentes son los que señala el Código Nacional de Procedimientos Penales, así como el Recurso de Inconformidad.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 85.
 
 Autoridades.
 
-El recurso de inconformidad en materia de adolescentes será conocido por el Juez y los de apelación, casación y revisión, por una Sala Especializada del Supremo Tribunal de Justicia.
+El recurso de inconformidad en materia de adolescentes será conocido por el Juez y el de apelación por una Sala Especializada del Supremo Tribunal de Justicia.
 
 ###### Artículo 86.
 
@@ -955,31 +1069,51 @@ Frente al rechazo de la reconsideración administrativa, el adolescente o su def
 
 Este recurso se regirá por las disposiciones relativas al recurso de apelación.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 87.
 
 Apelación.
 
-Serán apelables las siguientes resoluciones dictadas por el Juez:
+Serán apelables las siguientes resoluciones emitidas:
 
-I. Las que pusieren término al procedimiento o hicieren imposible su prosecución;
+I. Por el Juez de Control:
 
-II. Las que se pronunciaren sobre las medidas cautelares;
+a) Las que nieguen el anticipo de prueba;
 
-III. Las que concedieren, negaren o revocaren la suspensión del proceso a prueba;
+b) Las que nieguen la posibilidad de celebrar acuerdos reparatorios o no los ratifiquen;
 
-IV. El auto que resuelva sobre la vinculación del adolescente a proceso;
+c) La negativa o cancelación de orden de aprehensión;
 
-V. La negativa de orden de aprehensión;
+d) La negativa de orden de cateo;
 
-VI. Las resoluciones denegatorias de prueba dictadas hasta en el auto de apertura de juicio oral;
+e) Las que se pronuncien sobre las providencias precautorias o medidas cautelares;
 
-VII. Las que nieguen la posibilidad de celebrar acuerdos reparatorios;
+f) Las que pongan término al procedimiento o lo suspendan;
 
-VIII. Las que resuelven un recurso de inconformidad.
+g) El auto que resuelve la vinculación del adolescente a proceso;
 
-IX. Las resoluciones que, con posterioridad al dictado de la sentencia, se pronuncien sobre una modificación, sustitución o revocación de las medidas sancionadoras impuestas; y,
+h) Las que concedan, nieguen o revoquen la suspensión condicional del proceso;
 
-X. Las demás que esta Ley señale.
+i) La negativa de abrir el procedimiento abreviado;
+
+j) La sentencia definitiva dictada en el procedimiento abreviado, y
+
+k) Las que excluyan algún medio de prueba;
+
+II. Por el Tribunal de Enjuiciamiento:
+
+a) Las que versen sobre el desistimiento de la acción penal por el Ministerio Público; y
+
+b) La sentencia definitiva en relación a aquellas consideraciones contenidas en la misma, distintas a la valoración de la prueba, siempre y cuando no comprometan el principio de inmediación, o bien, aquellos actos que impliquen una violación grave del debido proceso;
+
+III. En ambos casos:
+
+a) Las que resuelven un recurso de inconformidad;
+
+b) Las que, con posterioridad al dictado de la sentencia, se pronuncien sobre una modificación, sustitución o revocación de las medidas sancionadoras impuestas.
 
 ### Capítulo VI. Medidas sancionadoras
 
@@ -1169,7 +1303,7 @@ Cuando los adolescentes cumplan la mayoría de edad, antes o durante la ejecuci�
 
 Catálogo de delitos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2011)</small>
 
 La privación de libertad en centro especializado para adolescentes deberá ser aplicada únicamente en los casos de hechos típicos graves, que son los siguientes:
 
@@ -1193,13 +1327,13 @@ f) Trata de personas;
 
 g) Tortura;
 
-h) Desaparición forzada de personas; y (sic)
+h) Desaparición forzada de personas; y
 
 i) Tráfico de menores, salvo lo previsto en el artículo 167 del Código Penal;
 
 > <small>(ADICIONADO, P.O. 30 DE ENERO DE 2010)</small>
 
-j) Extorsión; y (sic)
+j) Extorsión; y
 
 > <small>(ADICIONADO, P.O. 30 DE ENERO DE 2010)</small>
 
@@ -1467,11 +1601,15 @@ Cuando esté próximo a egresar del Centro Especializado, el adolescente deberá
 
 ### Capítulo VII. Disposiciones finales
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 122.
 
 Aplicación supletoria.
 
-En lo no previsto en este ordenamiento, si no se opone a sus principios, derechos y garantías, se aplicarán el Código Penal, el Código de Procedimientos Penales y la Ley de Mediación del Estado.
+En lo no previsto en este ordenamiento, si no se opone a sus principios, derechos y garantías, se aplicarán el Código Penal, el Código Nacional de Procedimientos Penales y la Ley de Mediación del Estado.
 
 ## TRANSITORIOS
 
@@ -1487,7 +1625,7 @@ Artículo Tercero. Derogación.- Los artículos 2, inciso b); 8° Bis, así como
 
 Artículo Cuarto. Derogación Tácita de Preceptos Incompatibles.- Quedan derogados, en los términos señalados en los textos precedentes, los preceptos de la legislación de la Entidad que se opongan a las disposiciones de este Ordenamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE OCTUBRE DE 2007)</small>
 
 Artículo Quinto. Asuntos en Trámite.- En los Distritos Judiciales en los que inicie la aplicación de la presente Ley, los adolescentes que se encuentren cumpliendo una medida, de conformidad con el Código para la Protección y Defensa del Menor, quedarán sujetos a todo lo previsto en la presente legislación. Para tales efectos, las autoridades de los tribunales para menores deberán poner a disposición de las nuevas autoridades a los menores que se encuentren cumpliendo una medida de internamiento.
 
@@ -1541,7 +1679,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FERNANDO RODRIGUEZ MORENO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 13 DE OCTUBRE DE 2007.
 
@@ -1578,3 +1716,15 @@ P.O. 19 DE NOVIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Inicio de Vigencia.
+
+El presente Decreto entrará en vigor al momento en el que inicie su vigencia el Código Nacional de Procedimientos Penales, de conformidad con la declaratoria que al efecto se emita por el Congreso del Estado, en los términos del Artículo Segundo Transitorio de dicho cuerpo normativo.
+
+SEGUNDO.- Derogación tácita de preceptos incompatibles.
+
+Quedan derogadas todas las disposiciones legales que se opongan al contenido del presente Decreto.
+
+TERCERO.- Cuando en cualquier disposición legal se haga referencia al Código de Procedimientos Penales del Estado de Chihuahua, se entenderá que se refiere al Código Nacional de Procedimientos Penales.
