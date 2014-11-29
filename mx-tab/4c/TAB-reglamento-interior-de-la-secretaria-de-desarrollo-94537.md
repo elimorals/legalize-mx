@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-secretaria-de-desarrollo-94537"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-30"
-last_updated: "2013-03-30"
+last_updated: "2014-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,806 +21,1158 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO AGROPECUARIO, FORESTAL Y PESQUERO DEL ESTADO DE TABASCO
 
-LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO, FORESTAL Y PESQUERO DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 1999.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2014.
 
-Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 22 de diciembre de 1993.
+Reglamento publicado en el Suplemento 7363 del Periódico Oficial del Estado de Tabasco, el sábado 30 de marzo de 2013.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+LIC. ARTURO NÚÑEZ JIMÉNEZ, GOBERNADOR DEL ESTADO DE TABASCO, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 51, FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO; CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTÍCULOS 7, FRACCIÓN II Y 8 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO; Y
 
-CARLOS SALINAS DE GORTARI, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes sabed:
+CONSIDERANDO.
 
-Que el H. Congreso de la Unión, se ha servido dirigirme el siguiente
+Por lo anteriormente expuesto, fundado y motivado tengo a bien emitir el siguiente:
 
-DECRETO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO, FORESTAL Y PESQUERO
 
-"EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A:
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES Y ESTRUCTURA ORGÁNICA
 
-LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
-## TITULO PRIMERO. DEL REGIMEN ADMINISTRATIVO DE LOS CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL
+###### Artículo 1.
 
-### CAPITULO I. DEL AMBITO DE APLICACION DE LA LEY
+Las disposiciones de este Reglamento tienen por objeto establecer la estructura orgánica y definir las atribuciones de las unidades administrativas que conforman la Secretaría de Desarrollo Agropecuario, Forestal y Pesquero.
 
-###### ARTICULO 1o.
+###### Artículo 2.
 
-La presente Ley tiene por objeto regular la construcción, operación, explotación, conservación y mantenimiento de los caminos y puentes a que se refieren las fracciones I y V del artículo siguiente, los cuales constituyen vías generales de comunicación, así como los servicios de autotransporte federal que en ellos operan y sus servicios auxiliares.
+Para los efectos del presente Reglamento, se entenderá por:
 
-###### ARTICULO 2o.
+I Gobernador: Gobernador del Estado Libre y Soberano de Tabasco;
 
-Para los efectos de esta Ley, se entenderá por:
+II. Entidades: Entidades paraestatales sectorizadas a la Secretaría de Desarrollo Agropecuario, Forestal y Pesquero;
 
-I. Caminos o carreteras:
+III. POFAE: Fideicomiso Irrevocable de Administración denominado Fondo de Fomento Agropecuario del Estado de Tabasco;
 
-a) Los que entronquen con algún camino de país extranjero.
+IV. Órgano de Consulta: Consejo Estatal de Desarrollo Rural Sustentable del Estado de Tabasco;
 
-b) Los que comuniquen a dos o más estados de la Federación; y
+V. Reglamento: Reglamento Interior de la Secretaría de Desarrollo Agropecuario, Forestal y Pesquero;
 
-c) Los que en su totalidad o en su mayor parte sean construidos por la Federación; con fondos federales o mediante concesión federal por particulares, estados o municipios.
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-II. Carta de Porte: Es el título legal del contrato entre el remitente y la empresa y por su contenido se decidirán las cuestiones que se susciten con motivo del transporte de las cosas; contendrá las menciones que exige el Código de la materia y surtirá los efectos que en él se determinen;
+V BIS. Órgano Desconcentrado: Comisión Estatal Forestal (COMESFOR);
 
-III. Derecho de vía: Franja de terreno que se requiere para la construcción, conservación, ampliación, protección y en general para el uso adecuado de una vía general de comunicación, cuya anchura y dimensiones fija la Secretaría, la cual no podrá ser inferior a 20 metros a cada lado del eje del camino. Tratándose de carreteras de dos cuerpos, se medirá a partir del eje de cada uno de ellos;
+VI. Secretaría: Secretaría de Desarrollo Agropecuario, Forestal y Pesquero;
 
-IV. Paradores: instalaciones y construcciones adyacentes al derecho de vía de una carretera federal en las que se presten servicios de alojamiento, alimentación, servicios sanitarios, servicios a vehículos y comunicaciones, a las que se tiene acceso desde la carretera;
+VII. Secretario: Secretario de Desarrollo Agropecuario, Forestal y Pesquero; y
 
-V. Puentes:
+VIII. Unidades Administrativas: Las áreas dentro de la estructura orgánica de la Secretaría, responsables de la ejecución de programas, subprogramas y proyectos, citando de manera enunciativa más no limitativa a la Coordinación de Desarrollo Rural, de ahora en adelante la "Coordinación", las Subsecretarías y las Direcciones.
 
-a) Nacionales: Los construidos por la Federación; con fondos federales o mediante concesión o permiso federales por particulares, estados o municipios en los caminos federales, o vías generales de comunicación; o para salvar obstáculos topográficos sin conectar con caminos de un país vecino, y
+###### Artículo 3.
 
-b) Internacionales: Los construidos por la Federación; con fondos federales o mediante concesión federal por particulares, estados o municipios sobre las corrientes o vías generales de comunicación que formen parte de las líneas divisorias internacionales.
+La Secretaría es una Dependencia de la administración pública centralizada; su representación corresponde al Secretario y tiene a su cargo atender los asuntos que le encomienden la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco, y demás leyes, reglamentos, acuerdos y circulares que expida el Gobernador.
 
-VI. Secretaría: La Secretaría de Comunicaciones y Transportes;
+###### Artículo 4.
 
-VII. Servicios Auxiliares: Los que sin formar parte del autotransporte federal de pasajeros, turismo o carga, complementan su operación y explotación;
+La Secretaría y sus unidades administrativas deberán conducir sus actividades conforme a las políticas, lineamientos y objetivos establecidos para el buen funcionamiento de los programas a su cargo.
 
-VIII. Servicio de autotransporte de carga: El porte de mercancías que se presta a terceros en caminos de jurisdicción federal;
+###### Artículo 5.
 
-IX. Servicio de autotransporte de pasajeros: El que se presta en forma regular sujeto a horarios y frecuencias para la salida y llegada de vehículos;
+El Secretario, para el óptimo desempeño de sus funciones, se auxiliará de las Unidades Administrativas definidas en la estructura orgánica que establece el presente Reglamento y el Manual de Organización y Procedimientos respectivo.
 
-X. Servicio de autotransporte de turismo: el que se presta en forma no regular destinado al traslado de personas con fines recreativos, culturales y de esparcimiento hacia centros o zonas de interés;
+###### Artículo 6.
 
-XI. Servicio de paquetería y mensajería: El porte de paquetes debidamente envueltos y rotulados o con embalaje que permita su traslado y que se presta a terceros en caminos de jurisdicción federal;
+Al frente de cada Coordinación, Subsecretaría y Dirección habrá un titular que será el responsable de su funcionamiento, los cuales serán auxiliados por las áreas correspondientes y por aquellos que se requieran para las necesidades del servicio y que figuren en el presupuesto autorizado.
 
-XII. Terminales: Las instalaciones auxiliares al servicio del autotransporte de pasajeros, en donde se efectúa la salida y llegada de autobuses para el ascenso y descenso de viajeros, y tratándose de autotransporte de carga, en las que se efectúa la recepción, almacenamiento y despacho de mercancías, el acceso, estacionamiento y salida de los vehículos destinados a este servicio;
+### CAPÍTULO II. DE LA ESTRUCTURA ORGÁNICA
 
-XIII. Transporte privado: Es el que efectúan las personas físicas o morales respecto de bienes propios o conexos de sus respectivas actividades, así como de personas vinculadas con los mismos fines, sin que por ello se genere un cobro; y
+###### Artículo 7.
 
-XIV. Vías generales de comunicación: Los caminos y puentes tal como se definen en el presente artículo.
+Para el estudio, planeación y despacho de los asuntos de su competencia, la Secretaría contará con la siguiente estructura orgánica:
 
-###### ARTICULO 3o.
+1. SECRETARIO:
 
-Son parte de las vías generales de comunicación los terrenos necesarios para el derecho de vía, las obras, construcciones y demás bienes y accesorios que integran las mismas.
+1.1. Secretaría Particular.
 
-###### ARTICULO 4o.
+1.2. Dirección de Administración.
 
-A falta de disposición expresa en esta Ley o en sus reglamentos o en los tratados internacionales, se aplicarán:
+1.3. Unidad de Asuntos Jurídicos y de Acceso a la Información.
 
-I. La Ley de Vías Generales de Comunicación; y
+1.4. Dirección de Tecnologías de Información y Comunicación.
 
-II. Los códigos de Comercio, Civil para el Distrito Federal en materia Común, y para toda la República en materia Federal, y Federal de Procedimientos Civiles.
+1.5. Unidad de Apoyo Ejecutivo.
 
-### CAPITULO II. JURISDICCION Y COMPETENCIA
+1.6. Unidad de Monitoreo y Evaluación.
 
-###### ARTICULO 5o.
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-Es de jurisdicción federal todo lo relacionado con los caminos, puentes y los servicios de autotransporte que en ellos operan y sus servicios auxiliares.
+1.7. Dirección de Programas Federales.
 
-Corresponden a la Secretaría, sin perjuicio de las otorgadas a otras dependencias de la Administración Pública Federal las siguientes atribuciones:
+2. COORDINACIÓN DE DESARROLLO RURAL.
 
-I. Planear, formular y conducir las políticas y programas para el desarrollo de los caminos, puentes, servicios de autotransporte federal y sus servicios auxiliares;
+2.1. Unidad de Apoyo Ejecutivo.
 
-II. Construir y conservar directamente caminos y puentes;
+2.2. Dirección de Capacitación y Asistencia Técnica.
 
-III. Otorgar las concesiones y permisos a que se refiere esta Ley; vigilar su cumplimiento y resolver sobre su revocación o terminación en su caso;
+2.3. Dirección de Organización para la Producción.
 
-> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1999)</small>
+2.4. Dirección de Agronegocios.
 
-IV. Vigilar, verificar e inspeccionar que los caminos y puentes, así como los servicios de autotransporte y sus servicios auxiliares, cumplan con los aspectos técnicos y normativos correspondientes;
+3. SUBSECRETARÍA DE DESARROLLO AGRÍCOLA.
 
-V. Determinar las características y especificaciones técnicas de los caminos y puentes;
+3.1. Dirección de Cultivos Básicos.
 
-VI. Expedir las normas oficiales mexicanas de caminos y puentes así como de vehículos de autotransporte y sus servicios auxiliares;
+3.2. Dirección de Infraestructura Agrícola.
 
-VII. (DEROGADA, D.O.F. 4 DE ENERO DE 1999)
+4. SUBSECRETARIA DE GANADERÍA.
 
-VIII. Establecer las bases generales de regulación tarifaria; y
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-IX. Las demás que señalen otras disposiciones legales aplicables.
+4.1. Dirección de Especies Mayores.
 
-## TITULO SEGUNDO. DE LOS CAMINOS Y PUENTES
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-### CAPITULO III. CONCESIONES Y PERMISOS
+4.2. Dirección de Especies Menores.
 
-###### ARTICULO 6o.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-Se requiere de concesión para construir, operar, explotar, conservar y mantener los caminos y puentes federales.
+5. SUBSECRETARÍA DE PESCA Y ACUICULTURA.
 
-Las concesiones se otorgarán a mexicanos o sociedades constituidas conforme a las leyes mexicanas, en los términos que establezcan esta Ley y los reglamentos respectivos.
+5.1. Dirección de Fomento Pesquero.
 
-Las concesiones se otorgarán hasta por un plazo de 30 años, y podrán ser prorrogadas hasta por un plazo equivalente al señalado originalmente, siempre que el concesionario hubiere cumplido con las condiciones impuestas y lo solicite durante la última quinta parte de su vigencia y a más tardar un año antes de su conclusión.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-La Secretaría contestará en definitiva las solicitudes de prórroga a que se refiere el párrafo anterior, dentro de un plazo de 60 días naturales contado a partir de la fecha de presentación de la misma debidamente requisitada y establecerá las nuevas condiciones de la concesión, para lo cual deberá tomar en cuenta la inversión, los costos futuros de ampliación y mejoramiento y las demás proyecciones financieras y operativas que considere la rentabilidad de la concesión.
+5.2. Dirección de Acuicultura.
 
-###### ARTICULO 7o.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-Las concesiones a que se refiere este capítulo se otorgarán mediante concurso público, conforme a lo siguiente:
+6. DIRECCIÓN GENERAL DE DESARROLLO REGIONAL.
 
-I. La Secretaría, por sí o a petición del interesado, expedirá convocatoria pública para que, en un plazo razonable, se presenten proposiciones en sobre cerrado, que será abierto en día prefijado y en presencia de los interesados.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-Cuando exista petición del interesado, la Secretaría, en un plazo razonable, expedirá la convocatoria o señalará al interesado las razones de la improcedencia en un plazo no mayor de 90 días;
+6.1. Delegación Regional Chontalpa.
 
-II. La convocatoria se publicará simultáneamente en el Diario Oficial de la Federación, en un periódico de amplia circulación nacional y en otro de la entidad o entidades federativas en donde se lleve a cabo la obra;
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-III. Las bases del concurso incluirán como mínimo las características técnicas de la construcción de la vía o el proyecto técnico, el plazo de la concesión, los requisitos de calidad de la construcción y operación; los criterios para su otorgamiento serán principalmente los precios y tarifas para el usuario, el proyecto técnico en su caso, así como las contraprestaciones ofrecidas por el otorgamiento de la concesión.
+6.2. Delegación Regional Usumacinta.
 
-IV. Podrán participar uno o varios interesados que demuestren su solvencia económica, así como su capacidad técnica, administrativa y financiera, y cumplan con los requisitos que establezcan las bases que expida la Secretaría;
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-V. A partir del acto de apertura de propuestas y durante el plazo en que las mismas se estudien y homologuen, se informará a todos los interesados de aquéllas que se desechen, y las causas principales que motivaren tal determinación;
+6.3. Delegación Regional Sierra.
 
-VI. La Secretaría, con base en el análisis comparativo de las proposiciones admitidas, emitirá el fallo debidamente fundado y motivado, el cual será dado a conocer a todos los participantes. La proposición ganadora estará a disposición de los participantes durante 10 días hábiles a partir de que se haya dado a conocer el fallo, para que manifiesten lo que a su derecho convenga; y
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-VII. No se otorgará la concesión cuando ninguna de las proposiciones presentadas cumplan con las bases del concurso o por caso fortuito o fuerza mayor. En este caso, se declarará desierto el concurso y se procederá a expedir una nueva convocatoria.
+6.4. Delegación Regional Centro.
 
-###### ARTICULO 8o.
+6.5. Dirección de Prevención y Manejo de Riesgos.
 
-Se requiere permiso otorgado por la Secretaría para:
+7. ÓRGANO DE CONSULTA.
 
-I. La operación y explotación de los servicios de autotransporte federal de carga, pasaje y turismo;
+7.1. Consejo Estatal de Desarrollo Rural Sustentable del Estado de Tabasco.
 
-II. La instalación de terminales interiores de carga y unidades de verificación;
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-III. Los servicios de arrastre, arrastre y salvamento y depósito de vehículos;
+8. ÓRGANO ADMINISTRATIVO DESCONCENTRADO.
 
-IV. Los servicios de paquetería y mensajería;
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-V. La construcción, operación y explotación de terminales de pasajeros;
+8.1. Comisión Estatal Forestal (COMESFOR).
 
-VI. La construcción de accesos, cruzamientos e instalaciones marginales, en el derecho de vía de las carreteras federales;
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-VII. El establecimiento de paradores, salvo cuando se trate de carreteras concesionadas;
+9. ENTIDADES SECTORIZADAS.
 
-VIII. La instalación de anuncios y señales publicitarias;
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-IX. La construcción, modificación o ampliación de las obras en el derecho de vía;
+9.1. Fideicomiso Irrevocable de Administración denominado Fondo de Fomento Agropecuario del Estado de Tabasco (FOFAE).
 
-X. La construcción y operación de puentes privados sobre vías generales de comunicación; y
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XI. El transporte privado de personas y de carga salvo lo dispuesto en el artículo 40 de la presente Ley.
+9.2. Fondo de Garantía para las Empresas de Solidaridad del Estado de Tabasco (FOGATAB).
 
-Los reglamentos respectivos señalarán los requisitos para el establecimiento, construcción, operación y explotación de las instalaciones y servicios antes citados.
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-En los casos a que se refieren las fracciones I a III, IV y XI del presente artículo, los permisos se otorgarán a todo aquel que cumpla con los requisitos establecidos en esta Ley y su reglamento.
+9.3. Fideicomiso Fuente Alterna de Pago (AGROTAB).
 
-La Secretaría podrá concursar, en los términos del artículo anterior, el otorgamiento de permisos cuando se trate de servicios auxiliares vinculados a la infraestructura carretera.
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-Los permisos se otorgarán por tiempo indefinido, excepto los que se otorguen para anuncios de publicidad, los cuales tendrán la duración y condiciones que señale el reglamento respectivo.
+9.4. Fondo de Apoyo a la Mujer (FAM).
 
-###### ARTICULO 9o.
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-Los permisos a que se refiere esta Ley se otorgarán a mexicanos o sociedades constituidas conforme a las leyes mexicanas, en los términos que establezcan los reglamentos respectivos.
+9.5. Fondo de Garantía Mutualista Tabasco (FOGAMU).
 
-La resolución correspondiente deberá emitirse en un plazo que no exceda de 30 días naturales, contado a partir de aquél en que se hubiere presentado la solicitud debidamente requisitada, salvo que por la complejidad de la resolución sea necesario un plazo mayor, que no podrá exceder de 45 días naturales. En los casos que señale el reglamento, si transcurrido dicho plazo no se ha emitido la resolución respectiva, se entenderá como favorable.
+Artículo 9 (sic). Los servidores públicos de la Secretaría están obligados a guardar estricta reserva y confidencialidad sobre los asuntos de su competencia, sujetando sus actos a la aplicabilidad de las disposiciones legales conducentes.
 
-###### ARTICULO 10.
+## TÍTULO SEGUNDO. DE LAS ATRIBUCIONES DEL SECRETARIO
 
-Las concesiones y permisos a que se refiere esta Ley se ajustarán a las disposiciones en materia de competencia económica.
+### CAPÍTULO ÚNICO
 
-###### ARTICULO 11.
+###### Artículo 10.
 
-La Secretaría llevará internamente un registro de las sociedades que presten servicios de autotransporte o sus servicios auxiliares.
+Al Secretario le corresponde la representación, trámite y solución de los asuntos competencia de la Secretaría, quien para la mejor distribución y desarrollo del trabajo podrá delegar sus atribuciones en servidores públicos subalternos; sin perder por ello su ejercicio directo, con excepción de aquellas que por su naturaleza o disposición legal sean indelegables.
 
-###### ARTICULO 12.
+###### Artículo 11.
 
-La Secretaría estará facultada para establecer modalidades en la explotación de caminos y puentes y en la prestación de los servicios de autotransporte y sus servicios auxiliares, sólo por el tiempo que resulte estrictamente necesario, de conformidad con los reglamentos respectivos.
+El Secretario expedirá los Manuales de Organización y de Procedimientos de la Secretaría, mismos que deberán contener información sobre la estructura orgánica y la forma de realizar las actividades de sus diversas unidades administrativas, así como, mantenerlos debidamente actualizados.
 
-## TITULO TERCERO. DEL AUTOTRANSPORTE FEDERAL
+###### Artículo 12.
 
-### CAPITULO IV. TARIFAS
+Corresponde al Secretario ejercer las siguientes atribuciones:
 
-###### ARTICULO 13.
+I. Planear, instrumentar y evaluar las políticas de desarrollo agropecuario, forestal, pesquero, acuícola y los programas que de éstos se deriven;
 
-La Secretaría podrá autorizar, dentro de un plazo de 60 días naturales, contado a partir de la presentación de la solicitud, la cesión de los derechos y obligaciones establecidos en las concesiones o permisos, siempre que éstos hubieren estado vigentes por un lapso no menor a 3 años; que el cedente haya cumplido con todas sus obligaciones; y que el cesionario reúna los mismos requisitos que se tuvieron en cuenta para el otorgamiento de la concesión o permiso respectivos.
+II. Instrumentar y coordinar políticas administrativas de la Secretaría, de conformidad con las leyes, decretos, reglamentos, manuales, circulares y demás disposiciones del Poder Ejecutivo y la normatividad aplicable;
 
-Si transcurrido el plazo a que se refiere este artículo no se ha emitido la resolución respectiva, se entenderá como favorable.
+III. Suscribir todo tipo de contratos, convenios, acuerdos de apoyo financiero, instrumentos para la cooperación y coordinación, entre otros, con las diversas dependencias del Gobierno Federal, Estatal, Municipal, instituciones de educación, investigación, productores, organizaciones productivas, civiles y sociales, sociedades mercantiles y prestadores de servicios profesionales, en los asuntos relacionados con las atribuciones de la Secretaría;
 
-###### ARTICULO 14.
+IV. Coordinar los programas convenidos de la Secretaría, con las autoridades federales, estatales y municipales en materia agropecuaria, forestal, pesquera, acuícola, sanidad; inocuidad, agroindustrial, fomento a la comercialización, sistemas de información agroalimentaria e infraestructura en general;
 
-En ningún caso se podrá ceder, hipotecar, ni en manera alguna gravar o enajenar la concesión o el permiso, los derechos en ellos conferidos, los caminos, puentes, los servicios de autotransporte y sus servicios auxiliares, así como los bienes afectos a los mismos, a ningún Gobierno o Estado extranjeros.
+V. Promover la integración e implementación de los sistemas y servicios necesarios para apoyar y orientar los programas y acciones para el desarrollo rural en el Estado de Tabasco, previstos en la normatividad aplicable;
 
-### CAPITULO UNICO. DE LA CONSTRUCCION, CONSERVACION Y EXPLOTACION DE LOS CAMINOS Y PUENTES
+VI. Impulsar programas para el mejoramiento y tecnificación de las actividades productivas del sector, promoviendo el encadenamiento de todas las etapas del proceso, desde la producción primaria hasta la comercialización;
 
-###### ARTICULO 15.
+VII. Promover coordinadamente con las dependencias federales, estatales y municipales, la actualización y aplicación de la normatividad técnica y legal para la ejecución de los programas y proyectos para el mejoramiento de las actividades del sector;
 
-El título de concesión, según sea el caso, deberá contener, entre otros:
+VIII. Coordinar conjuntamente con el Gobierno Federal, la normatividad jurídica aplicable a las campañas de prevención en materia de sanidad agropecuaria y acuícola contra plagas y enfermedades, y las medidas de control para la movilización de productos agropecuarios que garanticen la protección sanitaria del sector;
 
-I. Nombre y domicilio del concesionario;
+IX. Instrumentar las campañas de sanidad agropecuaria, acuícola e inocuidad agroalimentaria de interés público para el Estado y de carácter obligatorio, sobre aquellas plagas que, por su naturaleza y su impacto económico, se consideren un riesgo para la salud de la población y actividad productiva;
 
-II. Objeto, fundamentos legales y los motivos de su otorgamiento;
+X. Impulsar, promover, apoyar e instrumentar programas y acciones en materia de capacitación, asistencia técnica, transferencia de tecnología y propiedad industrial e intelectual, para el fortalecimiento técnico y administrativo de las unidades agropecuarias, forestales, pesqueras y acuícolas que propicien la mejora y calidad de sus procesos de organización, producción y comercialización, para una mayor competitividad;
 
-III. Las características de construcción y las condiciones de conservación y operación de la vía;
+XI. Coordinar conjuntamente con las dependencias federales, estatales, municipales e instituciones de investigación y educación, acciones de investigación y transferencia de tecnología para el aprovechamiento racional de los recursos naturales renovables y no renovables, para impulsar el desarrollo rural sustentable;
 
-IV. Las bases de regulación tarifaria para el cobro de las cuotas en las carreteras y puentes;
+XII. Definir, impulsar y gestionar instrumentos legales que permitan a productores y organizaciones, contar con esquemas de financiamiento y servicios de garantías para la realización de sus proyectos y modernización de la actividad productiva;
 
-V. Los derechos y obligaciones de los concesionarios;
+XIII. Suscribir todo tipo de contratos, convenios, acuerdos, licencias de uso sobre derechos de propiedad industrial e intelectual, propiedad de la Secretaría, con Dependencias del Gobierno Federal, Estatal, Municipal, instituciones de educación, investigación; productores, organizaciones productivas, civiles y sociales, sociedades mercantiles, en los asuntos relacionados con la competencia de la Secretaría;
 
-VI. El periodo de vigencia;
+XIV. Impulsar programas para prevención y manejo de riesgos, promoviendo el aseguramiento de las unidades de producción, así como el tipo de uso de suelo en las áreas con siniestralidad recurrente, dictaminadas por las instituciones competentes;
 
-VII. El monto del fondo de reserva destinado a la conservación y mantenimiento de la vía;
+XV. Coadyuvar en las acciones de protección de las unidades de producción del sector, ante riesgos por contingencias climatológicas que implemente el Gobierno del Estado, en coordinación con las diferentes instancias competentes;
 
-VIII. Las contraprestaciones que deban cubrirse al gobierno Federal, mismas que serán fijadas por la Secretaría de Hacienda y Crédito Público a propuesta de la Secretaría, y
+XVI. Promover programas de reconversión que permitan el uso del potencial productivo de las regiones, acorde con la demanda del mercado;
 
-IX. Las causas de revocación y terminación.
+XVII. Promover la mejora regulatoria, en coordinación con los tres órdenes de Gobierno, impulsando acciones para la simplificación administrativa de trámites y servicios que incentiven la inversión productiva del sector y una mayor competitividad;
 
-### CAPITULO I. DISPOSICIONES GENERALES
+XVIII. Fomentar y promover coordinadamente con los tres órdenes de Gobierno, sistemas de acopio, almacenamiento, transporte, distribución de productos del sector y su industrialización;
 
-###### ARTICULO 16.
+XIX. Promover, ante las instancias correspondientes, el establecimiento de estímulos fiscales para impulsar la producción, transformación, agregación de valor y comercialización de los productos del sector;
 
-Las concesiones terminan por:
+XX. Promover, gestionar, coordinar, y llevar a cabo la realización de congresos, convenciones, talleres, seminarios, cursos, ferias, exposiciones y concursos del sector, con el objeto de establecer intercambios tecnológicos, la comercialización de productos y la generación de conocimientos dentro del sector;
 
-I. Vencimiento del plazo establecido en el título o de la prórroga que se hubiera otorgado;
+XXI. Proponer y participar coordinadamente con las instancias correspondientes, la ejecución de obras para beneficio del sector, destinadas al mejoramiento de las comunidades rurales y sus actividades productivas;
 
-II. Renuncia del titular;
+XXII. Promover coordinadamente con las instancias competentes, la integración de figuras organizacionales para la producción;
 
-III. Revocación;
+XXIII. Gestionar con la banca de desarrollo y comercial, así como con organismos auxiliares de crédito, apoyos crediticios que formulen y operen nuevos mecanismos de financiamiento para el desarrollo de proyectos del sector que sean competencia de la Secretaría;
 
-IV. Rescate;
+XXIV. Delegar sus facultades en servidores públicos subalternos por razones de organización y servicio; y
 
-V. Desaparición del objeto o de la finalidad de la concesión;
+XXV. Las demás que le encomiende el Gobernador y las que determinen las disposiciones legales y administrativas aplicables.
 
-VI. Liquidación;
+## TÍTULO TERCERO. DE LAS UNIDADES DE APOYO DEL SECRETARIO
 
-VII. Quiebra, para lo cual se estará a lo dispuesto en la Ley de la materia; y
+### CAPÍTULO I. DE LA SECRETARÍA PARTICULAR
 
-VIII. Las causas previstas en el título respectivo.
+###### Artículo 13.
 
-Para la terminación de los permisos son aplicables a las fracciones II, III y VI a VIII.
+Corresponde a la Secretaría Particular, el ejercicio de las siguientes atribuciones:
 
-La terminación de la concesión o el permiso no exime a su titular de las responsabilidades contraídas, durante su vigencia, con el Gobierno Federal y con terceros.
+I. Atender, coordinar y dar seguimiento a la agenda del Secretario, en coordinación con las demás áreas, para su cumplimiento;
 
-### CAPITULO II. DEL AUTOTRANSPORTE DE PASAJEROS
+II. Coordinar las giras de trabajo del Secretario, conjuntamente con las áreas e instancias correspondientes;
 
-###### ARTICULO 46.
+III. Dar seguimiento a los acuerdos y compromisos del Secretario, con las áreas e instancias correspondientes;
 
-Atendiendo a su operación y al tipo de vehículos, el servicio de autotransporte de pasajeros se clasificará de conformidad con lo establecido en el reglamento respectivo.
+IV. Administrar, supervisar y sistematizar el registro, seguimiento y archivo de los documentos turnados al Secretario;
 
-###### ARTICULO 47.
+V. Planear y coordinar las reuniones que el Secretario celebre con titulares de las dependencias y entidades de la administración pública;
 
-Los permisos que otorgue la Secretaría para prestar servicios de autotransporte de pasajeros de y hacia los puertos marítimos y aeropuertos federales, se ajustarán a los términos que establezcan los reglamentos y normas oficiales mexicanas correspondientes. Al efecto, la Secretaría recabará previamente la opinión de quien tenga a su cargo la administración portuaria o del aeropuerto de que se trate.
+VI. Controlar y gestionar las peticiones y quejas que los ciudadanos realicen ante la Secretaría;
 
-La opinión a que se refiere este artículo deberá emitirse en un plazo no mayor de 30 días naturales, contado a partir de la fecha de recepción de la solicitud; en caso contrario se entenderá que no tiene observaciones.
+VII. Fungir como enlace entre el Secretario y los titulares de las dependencias federales, estatales y municipales, para la organización de audiencias, reuniones o diálogos;
 
-###### ARTICULO 17.
+VIII. Convocar a reuniones internas de la Secretaría, cuando así lo disponga el Secretario; y
 
-Las concesiones y permisos se podrán revocar por cualquiera de las causas siguientes:
+IX. Las demás que le encomiende el Secretario y las que determinen las disposiciones legales y administrativas aplicables.
 
-I. No cumplir, sin causa justificada, con el objeto, obligaciones o condiciones de las concesiones y permisos en los términos establecidos en ellos;
+### CAPÍTULO II. DE LA DIRECCIÓN DE ADMINISTRACIÓN
 
-II. Interrumpir el concesionario la operación de la vía total o parcialmente, sin causa justificada;
+Artículo. 14. Corresponde a la Dirección de Administración, el ejercicio de las siguientes atribuciones:
 
-III. Interrumpir el permisionario la prestación del servicio de autotransporte de pasajeros total o parcialmente, sin causa justificada;
+I. Aplicar, vigilar y promover el aprovechamiento de los recursos humanos, financieros y materiales asignados a la Secretaría, conforme a la normatividad aplicable;
 
-IV. Reincidir en la aplicación de tarifas superiores a las autorizadas o registradas;
+II. Emitir políticas, para que las unidades administrativas de la Secretaría formulen y ejerzan su presupuesto programático, de conformidad con los lineamientos externos e internos y la normatividad vigente;
 
-V. Ejecutar actos que impidan o tiendan a impedir la actuación de otros prestadores de servicios o permisionarios que tengan derecho a ello;
+III. Supervisar el registro del Programa Operativo Anual autorizado a la Secretaría, sus ampliaciones, reducciones, transferencias y adecuaciones presupuestarias, así como el trámite de las órdenes de pago, de acuerdo a los ordenamientos aplicables y conducentes;
 
-VI. No cubrir las indemnizaciones por daños que se originen con motivo de la prestación de los servicios;
+IV. Supervisar el trámite de las instrucciones de pago de los gastos de operación de los programas convenidos con la Federación, con base en las reglas de operación vigentes;
 
-VII. Cambiar de nacionalidad el concesionario o permisionario;
+V. Informar a las unidades administrativas, el ejercicio presupuestal conciliado con la Secretaría de Planeación y Finanzas para evaluar el avance físico y financiero de los proyectos;
 
-VIII. Ceder, hipotecar, gravar o transferir las concesiones y permisos, los derechos en ellos conferidos o los bienes afectos a los mismos, a algún gobierno o estado extranjero o admitir a éstos como socios de las empresas concesionarias o permisionarias;
+VI. Coordinar el pago a proveedores, contratistas, prestadores de servicios y acreedores;
 
-IX. Ceder o transferir las concesiones, permisos o los derechos en ellos conferidos, sin autorización de la Secretaría;
+VII. Coordinar la operación de las cuentas bancarias aperturadas para el ejercicio y la ejecución del presupuesto autorizado, así como de los gastos de operación federal;
 
-X. Modificar o alterar substancialmente la naturaleza o condiciones de los caminos y puentes o servicios sin autorización de la Secretaría;
+VIII. Coordinar y supervisar los sistemas de contabilidad y control financiero de la Secretaría, de conformidad con el Manual de Contabilidad Gubernamental y los lineamentos establecidos por la Secretaría de Planeación y Finanzas;
 
-XI. Prestar servicios distintos a los señalados en el permiso respectivo;
+IX. Coordinar la atención de auditorías con las áreas involucradas de la Secretaría, para su cumplimiento;
 
-XII. No otorgar o no mantener en vigor la garantía de daños contra terceros;
+X. Supervisar el trámite de las nóminas, conforme a las directrices y lineamientos establecidos por la Secretaría de Administración;
 
-XIII. Incumplir reiteradamente cualquiera de las obligaciones o condiciones establecidas en esta Ley o en sus reglamentos; y
+XI. Supervisar los movimientos de altas, bajas, cambios de adscripción, promociones, reclasificaciones, reingresos, permisos sin goce de sueldo y demás trámites del personal de la Secretaría, ante la Secretaría de Administración;
 
-XIV. Las demás previstas en la concesión o el permiso respectivo.
+XII. Presidir las reuniones del Subcomité de compras de la Secretaría, ante el Comité de Compras del Poder Ejecutivo del Estado.
 
-El titular de una concesión o permiso que hubiere sido revocado, estará imposibilitado para obtener otro nuevo dentro de un plazo de 5 años, contado a partir de que hubiere quedado firme la resolución respectiva.
+XIII. Coordinar la elaboración y ejecución del Programa Anual de Adquisiciones de los Bienes de Consumo y Servicios, conforme a la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios del Estado de Tabasco, su Reglamento y demás normatividad aplicable;
 
-### CAPITULO III. AUTOTRANSPORTE DE TURISMO
+XIV. Coordinar los procedimientos de adquisiciones, servicios y arrendamientos del Programa Operativo Anual y de los gastos de operación de los programas federales de la Secretaría;
 
-###### ARTICULO 48.
+XV. Proporcionar a las Unidades Administrativas de la Secretaría y a su personal adscrito, conforme a los lineamientos establecidos, apoyo en materia de servicios administrativos y generales; conservación y mantenimiento de bienes muebles e inmuebles; adquisiciones y suministros así como archivo y servicio para el mejor ejercicio de sus atribuciones; y
 
-Los permisos que otorgue la Secretaría para prestar servicios de autotransporte de turismo, podrán ser por su destino nacionales o internacionales.
+XVI. Las demás que le encomiende el Secretario y las que determinen las disposiciones legales y administrativas aplicables.
 
-El servicio nacional de autotransporte de turismo se prestará en todos los caminos de jurisdicción federal sin sujeción a horarios o rutas determinadas. Dicho servicio, atendiendo a su operación y tipo de vehículo se clasificará de conformidad con lo establecido en el reglamento respectivo.
+###### Artículo 15.
 
-###### ARTICULO 49.
+Para el desempeño de sus atribuciones, la Dirección de Administración contará con las siguientes Unidades Administrativas:
 
-Los permisos para prestar los servicios de autotransporte turístico autorizan a sus titulares para el ascenso y descenso de turistas en puertos marítimos, aeropuertos y terminales terrestres, en servicios previamente contratados.
+I. (DEROGADA, P.O. 29 DE NOVIEMBRE DE 2014)
 
-###### ARTICULO 18.
+II. Subdirección de Recursos Humanos;
 
-Cumplido el término de la concesión, y en su caso, de la prórroga que se hubiere otorgado, la vía general de comunicación con los derechos de vía y sus servicios auxiliares, pasarán al dominio de la Nación, sin costo alguno y libre de todo gravamen.
+III. Subdirección de Recursos Financieros y Contabilidad y
 
-### CAPITULO IV. AUTOTRANSPORTE DE CARGA
+IV. Subdirección de Recursos Materiales y Servicios Generales.
 
-###### ARTICULO 50.
+### CAPÍTULO III. UNIDAD DE ASUNTOS JURÍDICOS Y DE ACCESO A LA INFORMACIÓN
 
-El permiso de autotransporte de carga autoriza a sus titulares para realizar el autotransporte de cualquier tipo de bienes en todos los caminos de jurisdicción federal.
+###### Artículo 16.
 
-La Secretaría regulará el autotransporte de materiales, residuos, remanentes y desechos peligrosos que circulen en vías generales de comunicación, sin perjuicio de las atribuciones que la ley otorga a otras dependencias del Ejecutivo Federal. Los términos y condiciones a que se sujetará este servicio, se precisarán en los reglamentos respectivos.
+Corresponde a la Unidad de Asuntos Jurídicos y de Acceso a la Información, el ejercicio de las siguientes atribuciones:
 
-Tratándose de objetos voluminosos o de gran peso, se requiere de permiso especial que otorgue la Secretaría, en los términos de esta Ley y los reglamentos respectivos.
+I. Fungir como Representante legal de la Secretaría, ante las autoridades federales, del fuero común, administrativas y del trabajo para promover y realizar todos los actos permitidos por las leyes que favorezcan a la Secretaría;
 
-###### ARTICULO 51.
+II. Atender, coordinar y supervisar los asuntos jurídicos de la Secretaría, Órgano de consulta y Entidades, estableciendo vinculación con la Coordinación General de Asuntos Jurídicos;
 
-Las maniobras de carga y descarga y, en general, las que auxilien y complementen el servicio de autotransporte federal de carga, no requerirán autorización alguna para su prestación, por lo que los usuarios tendrán plena libertad para contratar estos servicios con terceros o utilizar su propio personal para realizarlo.
+III. Proponer modificaciones y actualizaciones a las leyes, reglamentos, acuerdos, circulares y demás disposiciones de carácter legal que competan a la Secretaría;
 
-###### ARTICULO 19.
+IV. Elaborar en materia de amparo, los informes previos y justificados que deba rendir la Secretaría o sus Unidades Administrativas e intervenir cuando sea señalada con el carácter de tercero perjudicado;
 
-En caso de que la Secretaría considere que en alguna o en algunas rutas no exista competencia efectiva en la explotación del servicio de autotransporte federal de pasajeros solicitará la opinión de la Comisión Federal de Competencia para que, en caso de resultar favorable se establezcan las bases tarifarias respectivas. Dicha regulación se mantendrá sólo mientras subsisten las condiciones que la motivaron.
+V. Formular y analizar las adecuaciones a los contratos, acuerdos, convenios y demás actos jurídicos de las diversas unidades administrativas, así como del Órgano de Consulta y Entidades;
 
-### CAPITULO I. CLASIFICACION DE LOS SERVICIOS AUXILIARES
+VI. Substanciar los procedimientos administrativos que se inicien con motivo·de los reportes emitidos por las unidades administrativas, levantar las actas administrativas correspondientes y, agotado el procedimiento, resolver previo acuerdo del Secretario sobre la rescisión, sanción, suspensión, cancelación, caducidad, renovación, nulidad y demás efectos legales de las resoluciones, en relación con los hechos en que incurran los trabajadores de la Secretaría;
 
-###### ARTICULO 52.
+VII. Elaborar y en su caso presentar las denuncias y querellas referente a los ilícitos cometidos en perjuicio de la Secretaría;
 
-Los permisos que en los términos de esta Ley otorgue la Secretaría para la prestación de servicios auxiliares al autotransporte federal, serán los siguientes:
+VIII. Realizar cobros extrajudiciales, reconocimientos de adeudos, compromisos de pagos y rescisiones relacionadas con los deudores de la Secretaría, de conformidad con la legislación aplicable;
 
-I. Terminales de pasajeros;
+IX. Expedir certificaciones de los documentos existentes en los archivos de la Secretaría, por mandato de autoridad debidamente fundado y motivado;
 
-II. Terminales interiores de carga;
+X. Ejercer las atribuciones que establece el Artículo 39 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco; y
 
-III. Arrastre, salvamento y depósito de vehículos;
+XI. Las demás que le encomiende el Secretario y las que determinen las disposiciones legales y administrativas aplicables.
 
-IV. Unidades de verificación; y
+### CAPÍTULO IV. DE LA DIRECCION DE TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIÓN
 
-V. Paquetería y mensajería.
+###### Artículo 17.
 
-## TITULO CUARTO. DE LOS SERVICIOS AUXILIARES AL AUTOTRANSPORTE FEDERAL
+Corresponde a la Dirección de Tecnologías de Información y Comunicación, el ejercicio de las siguientes atribuciones:
 
-### CAPITULO II. TERMINALES DE PASAJEROS
+I. Coordinar, desarrollar e implementar los sistemas de información que sean requeridos por las unidades administrativas de la Secretaría;
 
-###### ARTICULO 53.
+II. Proporcionar, soporte técnico y actualización a los sistemas de información que sean administrados por la Secretaría;
 
-Para la prestación del servicio de autotransporte de pasajeros, los permisionarios deberán contar con terminales de origen y destino conforme a los reglamentos respectivos, para el ascenso y descenso de pasajeros; sin perjuicio de obtener, en su caso, la autorización de uso del suelo por parte de las autoridades estatales y municipales.
+III. Proporcionar los servicios en materia de Hardware y Software requeridos por las unidades administrativas de la Secretaría;
 
-La operación y explotación de terminales de pasajeros, se llevará a cabo conforme a los términos establecidos en el Reglamento correspondiente.
+IV. Cumplir las políticas que expida el Gobernador en materia de uso y ahorro de Tecnologías de la Información y Comunicación, para optimizar la calidad de los servicios públicos;
 
-###### ARTICULO 20.
+V. Establecer la arquitectura tecnológica que permita la integración y comunicación de los sistemas de información de la Secretaría, así como promover su interacción con las demás dependencias del Gobierno del Estado;
 
-La Secretaría podrá establecer las tarifas aplicables para la operación de las Unidades de Verificación, así como las bases de regulación tarifaria de los servicios de arrastre, arrastre y salvamento y depósito de vehículos.
+VI. Emitir la opinión técnica sobre la procedencia de la contratación de bienes; servicios y derechos de uso de tecnología de la Secretaría;
 
-En los supuestos a que se refieren este artículo y el anterior en los que se fijen tarifas, éstas deberán ser máximas e incluir mecanismos de ajuste que permitan la prestación de servicios en condiciones satisfactorias de calidad, competitividad y permanencia.
+VII. Fungir como enlace de Tecnologías de la Información y Comunicaciones de la Secretaria ante las demás dependencias del Gobierno del Estado;
 
-### CAPITULO III. TERMINALES INTERIORES DE CARGA
+VIII. Establecer, coordinar y supervisar los planes de acción en caso de contingencias y los mecanismos de seguridad de los sistemas informáticos institucionales y de la infraestructura de tecnologías de información de la Secretaría;
 
-###### ARTICULO 54.
+IX. Vigilar el cumplimiento de las garantías otorgadas por los proveedores de bienes y servicios informáticos contratados por la Secretaría;
 
-Las terminales interiores de carga son instalaciones auxiliares al servicio de transporte en las que se brindan a terceros servicios de transbordo de carga y otros complementarios. Entre estos se encuentran: carga y descarga de camiones y de trenes, almacenamiento, acarreo, consolidación y desconsolidación de cargas y vigilancia y custodia de mercancías.
+X. Coordinar y mantener actualizado el inventario de los bienes y servicios informáticos de la Secretaría con la Dirección de Administración;
 
-Para su instalación y conexión a la vía férrea y a la carretera federal requerirá permiso de la Secretaría.
+XI. Establecer y coordinar los programas y proyectos estratégicos en materia de tecnologías de la información y comunicaciones que lleven a cabo las Unidades Administrativas de la Secretaría;
 
-###### ARTICULO 21.
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-Cuando un permisionario sujeto a regulación tarifaria considere que no se cumplen las condiciones señaladas en este capítulo, podrá solicitar opinión de la Comisión Federal de Competencia. Si dicha Comisión opina que las condiciones de competencia hacen improcedente en todo o en parte la regulación, se deberán hacer las modificaciones o supresiones que procedan.
+XI BIS. Cumplir con los lineamientos legales establecidos para la protección de datos personales en posesión de la Secretaría;
 
-## TITULO QUINTO. DEL AUTOTRANSPORTE INTERNACIONAL DE PASAJEROS, TURISMO Y CARGA
+XII. Contribuir al desarrollo de sistemas de información del Sector en el Estado, con la Administración Pública Federal, Municipal; y
 
-###### ARTICULO 59.
+XIII. Las demás que le encomiende el Secretario y las que determinen las disposiciones legales y administrativas aplicables.
 
-El autotransporte internacional de pasajeros, turismo y carga es el que opera de un país extranjero al territorio nacional, o viceversa, y se ajustará a los términos y condiciones previstos en los tratados internacionales aplicables.
+### CAPÍTULO V. DE LA UNIDAD DE APOYO EJECUTIVO
 
-###### ARTICULO 60.
+###### Artículo 18.
 
-Los vehículos nacionales y extranjeros destinados a la prestación de servicios de autotransporte internacional de pasajeros, turismo y carga a que se refiere el artículo anterior, deberán cumplir con los requisitos de seguridad establecidos por esta Ley y sus reglamentos; asimismo, deberán contar con placas metálicas de identificación e instrumentos de seguridad. Los operadores de dichos vehículos deberán portar licencia de conducir vigente.
+Corresponde a la Unidad de Apoyo Ejecutivo, el ejercicio de las siguientes atribuciones:
 
-###### ARTICULO 61.
+I. Coordinar conjuntamente con la Coordinación, Subsecretarías y Direcciones, los proyectos y estudios en materia de desarrollo agropecuario, forestal, pesquero y acuícola, de acuerdo a las necesidades de la Entidad;
 
-Los semirremolques de procedencia extranjera que se internen al país en forma temporal, podrán circular en los caminos de jurisdicción federal, hasta por el período autorizado en los términos de la ley de la materia, siempre y cuando acrediten su legal estancia. En el arrastre deberán utilizar un vehículo autorizado para la prestación del servicio de autotransporte de carga.
+II. Convocar a reuniones de carácter técnico y administrativo tanto a la Coordinación, Subsecretarías y Direcciones de la Secretaría, así como a expertos para los fines que se requieran;
 
-### CAPITULO IV. ARRASTRE, SALVAMENTO Y DEPOSITO
+III. Coordinar y dar seguimiento a los acuerdos del Secretario con la Coordinación, Subsecretarías y Direcciones;
 
-###### ARTICULO 55.
+IV. Contribuir en el análisis de las propuestas de mejora de la estructura, organización, operación y procedimientos de la Secretaría;
 
-Los servicios de arrastre, arrastre y salvamento y depósito de vehículos se sujetarán a las condiciones de operación y modalidades establecidas en los reglamentos respectivos.
+V. Supervisar la integración de documentos de promoción de las actividades de desarrollo agropecuario, forestal, pesquero y acuícola del Estado;
 
-###### ARTICULO 22.
+VI. Participar en coadyuvancia con la Coordinación, Subsecretarías y Direcciones, en la definición de criterios de participación en foros, ferias y exposiciones en el ámbito local, regional e internacional;
 
-Es de utilidad pública la construcción, conservación y mantenimiento de los caminos y puentes. La Secretaría por sí, o a petición de los interesados, efectuará la compraventa o promoverá la expropiación de los terrenos, construcciones y bancos de material necesarios para tal fin. La compraventa o expropiación se llevará a cabo conforme a la legislación aplicable.
+VII. Actuar como enlace técnico entre la Secretaría y las entidades homólogas del sector público y privado que para tal fin existen; y
 
-En el caso de compra venta, ésta podrá llevarse a cabo a través de los interesados, por cuenta de la Secretaría.
+VIII Las demás que le encomiende el Secretario y las que determinen las disposiciones legales y administrativas aplicables.
 
-Los terrenos y aguas nacionales así como los materiales existentes en ellos, podrán ser utilizados para la construcción, conservación y mantenimiento de los caminos y puentes conforme a las disposiciones legales.
+### CAPÍTULO VI. DE LA UNIDAD DE MONITOREO Y EVALUACIÓN
 
-###### ARTICULO 23.
+###### Artículo 19.
 
-No podrán ejecutarse trabajos de construcción o reconstrucción en los caminos y puentes concesionados, sin la previa aprobación por la Secretaría, de los planos, memoria descriptiva y demás documentos relacionados con las obras que pretendan ejecutarse.
+Corresponde a la Unidad de Monitoreo y Evaluación, el ejercicio de las siguientes atribuciones:
 
-Se exceptúan de lo dispuesto en el párrafo precedente, los trabajos de urgencia y de mantenimiento que sean necesarios para la conservación y buen funcionamiento del camino concesionado.
+I. Supervisar que los proyectos y las acciones anuales del sector, estén vinculados con el Plan Estatal de Desarrollo;
 
-Para los trabajos de urgencia, la Secretaría indicará los lineamientos para su realización. Una vez pasada la urgencia, será obligación del concesionario la realización de los trabajos definitivos que se ajustarán a las condiciones del proyecto aprobado por la Secretaría.
+II. Coordinar y supervisar las evaluaciones de resultados de los programas sujetos a los indicadores, metas y objetivos definidos en el Programa Sectorial;
 
-### CAPITULO V. UNIDADES DE VERIFICACION Y CENTROS DE CAPACITACION
+III. Establecer y coordinar los sistemas de monitoreo y evaluación de los programas y apoyos de la Secretaría;
 
-###### ARTICULO 56.
+IV. Coordinar y supervisar con las unidades operativas las actualizaciones permanentes de padrones de productores y empresas agroindustriales;
 
-Las unidades de verificación físico-mecánica de los vehículos que circulen por carreteras federales, podrán ser operadas por particulares mediante permiso expedido por la Secretaría y su otorgamiento se ajustará, en lo conducente, al procedimiento a que se refiere el artículo 7o. de esta Ley.
+V. Promover la generación e integración de información estadística de los programas y proyectos de la Secretaria;
 
-###### ARTICULO 57.
+VI. Coordinar la integración del informe de gobierno correspondiente al sector;
 
-Para operar un centro destinado a la capacitación y el adiestramiento de conductores del servicio de autotransporte federal, será necesario contar con las autorizaciones que otorguen las autoridades correspondientes. La Secretaría se coordinará con las autoridades competentes para los requisitos de establecimiento, así como para los planes y programas de capacitación y adiestramiento.
+VII. Coordinar la integración de los acuerdos del Secretario con el Gobernador e Instancias de la administración pública Federal y Estatal;
 
-###### ARTICULO 24.
+VIII. Las demás que le encomiende el Secretario y las que determinen las disposiciones legales y administrativas aplicables.
 
-Los cruzamientos de caminos federales sólo podrán efectuarse previo permiso de la Secretaría.
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-Las obras de construcción y conservación de los cruzamientos se harán por cuenta del operador de la vía u obra que cruce a la ya establecida, previo cumplimiento de los requisitos establecidos en el permiso y en los reglamentos respectivos.
+### CAPÍTULO VII. DE LA DIRECCIÓN DE PROGRAMAS FEDERALES
 
-### CAPITULO VI. PAQUETERIA Y MENSAJERIA
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-###### ARTICULO 58.
+###### Artículo 19 Bis.
 
-La prestación del servicio de paquetería y mensajería requiere de permiso que otorgue la Secretaría en los términos de esta Ley y estará sujeto a las condiciones que establezca el Reglamento respectivo. A este servicio se le aplicarán las disposiciones de la carta de porte.
+Corresponde a la Dirección de Programas Federales, el ejercicio de las siguientes atribuciones:
 
-###### ARTICULO 25.
+I. Coordinar conjuntamente con la Dirección de Administración, las acciones de las unidades administrativas de la Secretaría para formular y ejercer el presupuesto de los programas federales convenidos con el Ejecutivo del Estado;
 
-La Secretaría, tomando en cuenta las circunstancias de cada caso, podrá prever la construcción de los libramientos necesarios que eviten el tránsito pesado por las poblaciones.
+II. Coadyuvar en la formulación de los convenios y acuerdos que celebren las unidades administrativas de la Secretaría, con relación a los programas federales, en el ámbito de su competencia;
 
-La Secretaría, considerando la importancia del camino, la continuidad de la vía y la seguridad de los usuarios, podrá convenir con los municipios, su paso por las poblaciones, dejando la vigilancia y regulación del tránsito dentro de la zona urbana a las autoridades locales.
+III. Coordinar y supervisar el seguimiento del presupuesto de los programas federales operados a través del FOFAE, estableciendo mecanismos de control, que permitan ejercer los recursos conforme a las reglas de operación, normatividad federal y demás disposiciones aplicables;
 
-Asimismo, la Secretaría podrá convenir con los estados y municipios la conservación, reconstrucción y ampliación de tramos federales;
+IV. Elaborar las actas del Comité Técnico del FOFAE y seguimiento a los acuerdos que se deriven;
 
-### CAPITULO I. DE LA RESPONSABILIDAD EN LOS CAMINOS, PUENTES Y AUTOTRANSPORTE DE PASAJEROS Y TURISMO
+V. Participar en el Comité de Adquisiciones, Arrendamientos y Servicios del Sector Público, aplicable a los Gastos de Operación de los Programas Federales;
 
-###### ARTICULO 62.
+VI. Coordinar la integración de los avances físicos, financieros y cierre-finiquito de los programas federales operados por el FOFAE;
 
-Los concesionarios a que se refiere esta Ley están obligados a proteger a los usuarios en los caminos y puentes por los daños que puedan sufrir con motivo de su uso. Asimismo, los permisionarios de autotransporte de pasajeros y turismo protegerán a los viajeros y su equipaje por los daños que sufran con motivo de la prestación del servicio.
+VII. Participar en las acciones de evaluación de los programas federales, en coordinación con la instancia federal competente;
 
-La garantía que al efecto se establezca deberá ser suficiente para que el concesionario ampare al usuario de la vía durante el trayecto de la misma, y el permisionario a los viajeros desde que aborden hasta que desciendan del vehículo.
+VIII. Coordinar las acciones de promoción y difusión de los programas federalizados;
 
-Los concesionarios y permisionarios deberán otorgar esta garantía en los términos que establezca el reglamento respectivo.
+IX. Coordinar las actividades en materia de procesamiento de datos en los sistemas de información de los programas federales convenidos;
 
-###### ARTICULO 63.
+X. Coordinar e integrar las modificaciones y adecuaciones presupuestarias para el ejercicio de los recursos federales operados por el FOFAE; y
 
-Las personas físicas y morales autorizadas por los gobiernos de los estados y del Distrito Federal para operar autotransporte público de pasajeros, y que utilicen tramos de las vías de jurisdicción federal, garantizarán su responsabilidad, en los términos de este capítulo, por los daños que puedan sufrir los pasajeros que transporten, sin perjuicio de que satisfagan los requisitos y condiciones para operar en carreteras de jurisdicción federal.
+XI. Las demás que le encomiende el Secretario y las que determinen las disposiciones legales y administrativas aplicables.
 
-###### ARTICULO 64.
+## TÍTULO CUARTO. ATRIBUCIONES GENÉRICAS DE LA COORDINACIÓN DE DESARROLLO RURAL, SUBSECRETARÍAS Y DIRECCIONES
 
-El derecho a percibir las indemnizaciones establecidas en este capítulo y la fijación del monto se sujetará a las disposiciones del Código Civil para el Distrito Federal en materia común, y para toda la República en Materia Federal. Para la prelación en el pago de las mismas, se estará a lo dispuesto en el artículo 501 de la Ley Federal del Trabajo.
+### CAPÍTULO I. DE LA COORDINACIÓN DE DESARROLLO RURAL Y LAS SUBSECRETARÍAS
 
-La Secretaría resolverá administrativamente las controversias que se originen en relación con el seguro del viajero o usuario de la vía, sin perjuicio de que las partes sometan la controversia a los tribunales judiciales competentes.
+###### Artículo 20.
 
-###### ARTICULO 65.
+Corresponde a la Coordinación y Subsecretarías, el ejercicio de las siguientes atribuciones genéricas:
 
-Cuando se trate de viajes internacionales, el permisionario se obliga a proteger al viajero desde el punto de origen hasta el punto de destino, en los términos que establezcan los tratados y convenios internacionales.
+I. Dirigir y evaluar el funcionamiento y desempeño de las unidades administrativas adscritas;
 
-###### ARTICULO 26.
+II. Acordar con el Secretario, la agenda de los asuntos que les correspondan;
 
-Los accesos que se construyan dentro del derecho de vía se considerarán auxiliares a los caminos federales.
+III. Ejercer las funciones que les sean delegadas por el Secretario; realizar los actos que les instruya y aquellos que les correspondan por suplencia;
 
-En los terrenos adyacentes a las vías generales de comunicación materia de esta Ley, hasta en una distancia de 100 metros del límite del derecho de vía, no podrán establecerse trabajos de explotación de canteras o cualquier tipo de obras que requieran el empleo de explosivos o de gases nocivos.
+IV. Suscribir los contratos, acuerdos y demás documentos relativos al ejercicio de sus funciones y aquellos que por delegación de firma les instruya el Secretario, cumpliendo con las disposiciones establecidas en los manuales de normas presupuestarias de la administración pública vigente;
 
-## TITULO SEXTO. DE LA RESPONSABILIDAD
+V. Formular el anteproyecto del programa presupuestal anual de la Coordinación o Subsecretaría a su cargo y una vez aprobado vigilar su ejecución;
 
-### CAPITULO II. DE LA RESPONSABILIDAD EN EL AUTOTRANSPORTE DE CARGA
+VI. Coordinarse con los titulares de las demás unidades administrativas, para el despacho de los asuntos de su competencia;
 
-###### ARTICULO 66.
+VII. Coadyuvar con las unidades administrativas en la elaboración de anteproyectos de leyes, acuerdos, decretos, reglamentos; manuales, circulares y demás disposiciones de carácter legal, en el ámbito de su competencia;
 
-Los permisionarios de servicios de autotransporte de carga son responsables de las pérdidas y daños que sufran los bienes o productos que transporten, desde el momento en que reciban la carga hasta que la entreguen a su destinatario, excepto en los siguientes casos:
+VIII. Proponer al Secretario, el ingreso, contrataciones, licencias y cambio de adscripción del personal de las unidades administrativas adscritas, cuando las necesidades del servicio lo requieran;
 
-I. Por vicios propios de los bienes o productos, o por embalajes inadecuados;
+IX. Rendir informe al Secretario de las actividades desarrolladas por la Coordinación o Subsecretarías bajo su cargo;
 
-II. Cuando la carga por su propia naturaleza sufra deterioro o daño total o parcial;
+X. Proporcionar, de conformidad con los lineamientos de la Secretaría, la información, cooperación y asesoría técnica requeridas por otras dependencias y entidades de la administración pública federal, estatal y municipal o por las demás unidades administrativas de la propia Secretaría;
 
-III. Cuando los bienes se transporten a petición escrita del remitente en vehículos descubiertos, siempre que por la naturaleza de aquéllos debiera transportarse en vehículos cerrados o cubiertos;
+XI. Coordinar el avance físico de los programas en campo, en el ámbito de su competencia;
 
-IV. Falsas declaraciones o instrucciones del cargador, del consignatario o destinatario de los bienes o del titular de la carta de porte; y
+XII. Coordinar las acciones de mejora regulatoria, para la simplificación administrativa que contribuya a la reducción de trámites y servicios, y que incentiven la inversión productiva del sector;
 
-V. Cuando el usuario del servicio no declare el valor de la mercancía, la responsabilidad quedará limitada a la cantidad equivalente a 15 días de salario mínimo general vigente en el Distrito Federal, por tonelada o la parte proporcional que corresponda tratándose de embarques de menor peso.
+XIII. Establecer y coordinar las acciones de capacitación y actualización de los recursos humanos adscritos a la Coordinación y Subsecretarías;
 
-###### ARTICULO 67.
+XIV. Establecer esquemas de coordinación con las áreas de la Secretaría para el desempeño de sus atribuciones; y
 
-Cuando el usuario del servicio pretenda que en caso de pérdida o daño de sus bienes, inclusive los derivados de caso fortuito o fuerza mayor, el permisionario responda por el precio total de los mismos, deberá declarar el valor correspondiente, en cuyo caso deberá cubrir un cargo adicional equivalente al costo de la garantía respectiva que pacte con el permisionario.
+XV. Las demás que le encomiende el Secretario y las que determinen las disposiciones legales y administrativas aplicables.
 
-###### ARTICULO 68.
+### CAPÍTULO II. DE LAS DIRECCIONES
 
-Es obligación de los permisionarios de autotransporte de carga garantizar, en los términos que autorice la Secretaría, los daños que puedan ocasionarse a terceros en sus bienes y personas, vías generales de comunicación y cualquier otro daño que pudiera generarse por el vehículo o por la carga en caso de accidente, según lo establezca el reglamento respectivo.
+###### Artículo 21.
 
-Tratándose de materiales, residuos, remanentes y desechos peligrosos, el seguro deberá amparar la carga desde el momento en que salga de las instalaciones del expedidor o generador, hasta que se reciba por el consignatario o destinatario en las instalaciones señaladas como destino final, incluyendo los riesgos que la carga o descarga resulten dentro o fuera de sus instalaciones. Salvo pacto en contrario, su carga y descarga quedarán a cargo de los expedidores y consignatarios, por lo que éstos deberán garantizar en los términos de este artículo los daños que pudieran ocasionarse en estas maniobras, así como el daño ocasionado por derrame de estos productos en caso de accidente.
+Corresponde a las Direcciones, el ejercicio de las siguientes atribuciones genéricas:
 
-###### ARTICULO 69.
+I. Planear, programar, presupuestar y dar seguimiento a los programas y proyectos en el ámbito de su competencia;
 
-El permisionario que participe en la operación de servicios de transporte multimodal internacional, sólo será responsable ante el usuario del servicio en las condiciones y términos del contrato de transporte establecido en la carta de porte y únicamente por el segmento del transporte terrestre en que participe.
+II. Elaborar los dictámenes, opiniones e informes requeridos por el superior jerárquico o por el Secretario;
 
-###### ARTICULO 27.
+III. Proponer al superior jerárquico, la selección y contratación del personal de su unidad administrativa, el otorgamiento de las licencias y cambios de adscripción a que haya lugar;
 
-Por razones de seguridad, la Secretaría podrá exigir a los propietarios de los predios colindantes de los caminos que los cerquen o delimiten, según se requiera, respecto del derecho de vía.
+IV. Asesorar técnicamente en los asuntos de su especialidad, a los servidores públicos de la Secretaría;
 
-###### ARTICULO 28.
+V. Coadyuvar con las unidades administrativas en la elaboración de anteproyectos de leyes, acuerdos, decretos, reglamentos, manuales, circulares y demás disposiciones de carácter legal, en el ámbito de su competencia;
 
-Se requiere permiso previo de la Secretaría para la instalación de líneas de transmisión eléctrica, postes, cercas, ductos de transmisión de productos derivados del petróleo o cualquiera otra obra subterránea, superficial o aérea, en las vías generales de comunicación que pudieran entorpecer el buen funcionamiento de los caminos federales. La Secretaría evaluará, previo dictamen técnico, la procedencia de dichos permisos.
+VI. Coordinarse con los titulares de otras unidades administrativas, cuando se requiera para el mejor funcionamiento de la Secretaría;
 
-El que sin permiso, con cualquier obra o trabajo invada las vías de comunicación a que se refiere esta Ley, estará obligado a demoler la obra ejecutada en la parte de la vía invadida y del derecho de vía delimitado y a realizar las reparaciones que la misma requiera.
+VII. Recibir en acuerdo a los servidores públicos adscritos a la unidad administrativa;
 
-###### ARTICULO 29.
+VIII. Coordinar los horarios y permisos del personal adscrito a su unidad administrativa, para el mejor desempeño de sus atribuciones;
 
-El derecho de vía y las instalaciones asentadas en él, no estarán sujetas a servidumbre.
+IX. Rendir informe de las actividades de la unidad administrativa al superior jerárquico o al Secretario;
 
-## TITULO SEPTIMO. INSPECCION, VERIFICACION Y VIGILANCIA
+X. Implementar las acciones de mejora regulatoria, para la simplificación administrativa de los trámites y servicios que incentiven la inversión productiva del sector;
 
-###### ARTICULO 70.
+XI. Implementar las acciones de capacitación, actualización y evaluación de los recursos humanos adscritos a su unidad administrativa;
 
-La Secretaría tendrá a su cargo la inspección y vigilancia para garantizar el cumplimiento de esta Ley, sus reglamentos y las normas oficiales mexicanas que expida de acuerdo con la misma. Para tal efecto podrá requerir en cualquier tiempo a los concesionarios y permisionarios, informes con los datos técnicos, administrativos, financieros y estadísticos, que permitan a la Secretaría conocer la forma de operar y explotar los caminos, puentes y los servicios de autotransporte y sus servicios auxiliares.
+XII. Proporcionar la información que le sea solicitada por la Unidad de Asuntos Jurídicos y de Acceso a la Información, en relación al acceso a la información de esta Secretaría;
 
-Asimismo, la Secretaría podrá inspeccionar o verificar que tanto el autotransporte federal como particular cumplen con las disposiciones sobre pesos, dimensiones y de seguridad en las carreteras, de acuerdo con lo establecido en las normas oficiales mexicanas respectivas.
+XIII. Establecer esquemas de coordinación con las áreas de la Secretaría para el desempeño de sus atribuciones; y
 
-La Secretaría podrá autorizar a terceros para que lleven a cabo verificaciones de acuerdo con lo establecido en la Ley Federal sobre Metrología y Normalización.
+XIV. Las demás que le encomiende el superior jerárquico y las que determinen las disposiciones legales y administrativas aplicables.
 
-###### ARTICULO 71.
+## TÍTULO QUINTO. DE LAS ATRIBUCIONES ESPECÍFICAS DE LA COORDINACIÓN DE DESARROLLO RURAL Y SUS DIRECCIONES
 
-Las visitas de inspección se practicarán en días y horas hábiles, por inspectores autorizados que exhiban identificación vigente y orden de visita, en la que se especifiquen las disposiciones cuyo cumplimiento habrá de inspeccionarse. Sin embargo, podrán practicarse inspecciones en días y horas inhábiles en aquellos casos en que el tipo y la naturaleza de los servicios así lo requieran, en cuyo caso se deberán habilitar en la orden de visita.
+### CAPÍTULO I. DE LA COORDINACIÓN DE DESARROLLO RURAL
 
-Los concesionarios de caminos y puentes y los permisionarios que presten servicios de autotransporte y sus servicios auxiliares, están obligados a proporcionar a los inspectores designados por la Secretaría, todos los datos o informes que les sean requeridos y permitir el acceso a sus instalaciones para cumplir su cometido conforme a la orden de visita emitida por la Secretaría. La información que proporcionen tendrá carácter confidencial.
+###### Artículo 22.
 
-###### ARTICULO 72.
+Corresponde a la Coordinación de Desarrollo Rural, el ejercicio de las siguientes atribuciones:
 
-De toda visita de inspección se levantará acta debidamente circunstanciada, en presencia de dos testigos propuestos por la persona que haya atendido la visita o por el inspector si aquélla se hubiere negado a designarlo.
+I. Coordinar, instrumentar y evaluar los programas de desarrollo rural de la Secretaría, con especial atención a las regiones con mayor rezago, impulsando su transformación;
 
-###### ARTICULO 73.
+II. Apoyar al Secretario en la coordinación y evaluación de las Subsecretarías y Dirección General de Delegaciones.
 
-En el acta que se levante con motivo de una visita de inspección se hará constar lo siguiente:
+III. Promover coordinadamente con las instancias competentes, la integración de figuras organizacionales con capacidad de autogestión;
 
-I. Hora, día, mes y año en que se practicó la visita;
+IV. Instrumentar esquemas de financiamiento mediante la creación de fondos de fomento y garantía, ante instancias similares que permitan la participación de la banca comercial y de desarrollo, así como las organizaciones auxiliares de crédito, en los proyectos productivos;
 
-II. Ubicación de las instalaciones del concesionario o permisionario donde se practicó la visita;
+V. Participar con las autoridades Federales, Estatales y Municipales competentes, en la aplicación de la normatividad técnica y legal, para la ejecución de programas y proyectos de infraestructura, para el mejoramiento de la actividad forestal, pesquera, acuícola, agrícola y pecuaria;
 
-III. Nombre y firma del inspector;
+VI. Colaborar coordinadamente con las instancias correspondientes, para la ejecución de acciones en beneficio del sector, destinadas al mejoramiento de las comunidades rurales, en especial de alta y muy alta marginación, y sus actividades productivas;
 
-IV. Nombre, domicilio y firma de las personas designadas como testigos;
+VII. Coordinar con las autoridades competentes, el desarrollo de la infraestructura industrial y comercial de la producción agropecuaria, forestal, pesquera y acuícola, promoviendo la certificación de origen y calidad de los productos;
 
-V. Nombre y carácter o personalidad jurídica de la persona que atendió la visita de inspección;
+VIII. Instrumentar programas de capacitación a los productores rurales, que propicie la transferencia tecnológica, el desarrollo de capacidades gerenciales, productivas y de comercialización;
 
-VI. Objeto de la visita;
+IX. Promover y fomentar las acciones de mejoramiento, tecnificación y mecanización, con la finalidad de incrementar la productividad y competitividad;
 
-VII. Fecha de la orden de visita, así como los datos de identificación del inspector;
+X. Coordinar e implementar las acciones de investigación y transferencia tecnológica que permitan incrementar la producción del sector;
 
-VIII. Declaración de la persona que atendió la visita o su negativa a permitirla; y
+XI. Planear conjuntamente con las Subsecretarias y Dirección General de Delegaciones, las estrategias para la operación de los programas forestales, pequero, acuícola, agrícola y pecuario, sanidad e inocuidad, desarrollo rural, infraestructura, agroindustria, comercialización, financiamiento, capacitación, sistema de información agroalimentario y transferencia tecnológica;
 
-IX. Síntesis descriptiva sobre la visita, asentando los hechos, datos y omisiones derivados del objeto de la misma.
+XII. Coadyuvar con las instancias correspondientes en el establecimiento de estímulos fiscales para fomentar la producción, transformación y comercialización de los productos del sector;
 
-Una vez elaborada el acta, el inspector proporcionará una copia de la misma a la persona que atendió la visita, aun en el caso de que ésta se hubiera negado a firmarla, hecho que no afectará su validez.
+XIII. Participar juntamente con la Subdirección de Programas Federales y Estatales de la Dirección de Administración; en las acciones de formular y ejercer el presupuesto de los programas y proyectos federales y Estatales;
 
-El visitado contará con un término de 10 días hábiles, a fin de que presente las pruebas y defensas que estime conducentes, en el caso de alguna infracción a las disposiciones de la presente Ley. Con vista en ellas o a falta de su presentación, la Secretaría dictará la resolución que corresponda.
+XIV. Participar en las modificaciones y adecuaciones presupuestarias para el ejercicio de los recursos federales operados por el FOFAE;
 
-###### ARTICULO 30.
+XV. Fomentar y coordinar con la participación de las dependencias y entidades competentes, los programas de promoción de las exportaciones y la inversión extranjera en las actividades del sector; y
 
-La Secretaría podrá otorgar concesiones para construir, mantener, conservar y explotar caminos y puentes a los particulares, estados o municipios, conforme al procedimiento establecido en la presente Ley; así como para mantener, conservar y explorar caminos federales construidos o adquiridos por cualquier título por el Gobierno Federal. En este último caso, las concesiones no podrán ser por plazos mayores a 20 años. La Secretaría garantizará, cuando haya vías alternas, la operación de una libre de peaje.
+XVI. Las demás que le encomiende el Secretario y las que determinen las disposiciones legales y administrativas aplicables.
 
-Excepcionalmente la Secretaría podrá otorgar concesión a los gobiernos de los estados o a entidades paraestatales sin sujetarse al procedimiento de concurso a que se refiere esta Ley. Cuando la construcción u operación de la vía la contrate con terceros deberá obtener previamente la aprobación de la Secretaría y aplicar el procedimiento de concurso previsto en el artículo 7 de esta Ley.
+###### Artículo 23.
 
-La construcción, mantenimiento, conservación y explotación de los caminos y puentes estarán sujetos a lo dispuesto en esta Ley y sus reglamentos, y a las condiciones impuestas en la concesión respectiva.
+Para el desempeño de sus atribuciones, la Coordinación de Desarrollo Rural contará con las siguientes Unidades Administrativas:
 
-###### ARTICULO 31.
+I. Unidad de Apoyo Ejecutivo;
 
-El establecimiento de puentes internacionales lo hará el Gobierno Federal por conducto de la Secretaría o bien podrá concesionar, en la parte que corresponda al territorio nacional, su construcción, operación, explotación, conservación y mantenimiento a particulares, estados y municipios en los términos de esta Ley, y conforme a lo que establezcan los convenios que al efecto se suscriban.
+II. Dirección de Organización para la Producción;
 
-En todo caso el Gobierno Federal llevará a cabo directamente las negociaciones con el otro país para el establecimiento del puente.
+III. Dirección de Agronegocios; y
 
-###### ARTICULO 32.
+IV. Dirección de Capacitación y Asistencia Técnica.
 
-No podrán abrirse al uso público los caminos y puentes que se construyan, sin que previamente la Secretaría constate que su construcción se ajustó al proyecto y especificaciones aprobadas y que cuenta con los señalamientos establecidos en la norma oficial mexicana correspondiente. Al efecto, el concesionario deberá dar aviso a la Secretaría de la terminación de la obra y ésta dispondrá de un plazo de 15 días naturales para resolver lo conducente; si transcurrido este plazo no se ha emitido la resolución respectiva, se entenderá como favorable.
+### CAPÍTULO II. DE LA DIRECCIÓN DE ORGANIZACIÓN PARA LA PRODUCCIÓN
 
-## TITULO OCTAVO. DE LAS SANCIONES
+###### Artículo 24.
 
-###### ARTICULO 74.
+Corresponde a la Dirección de Organización para la Producción, el ejercicio de las siguientes atribuciones:
 
-Las infracciones a lo dispuesto en la presente Ley, serán sancionadas por la Secretaría de acuerdo con lo siguiente:
+I. Ejecutar y evaluar las políticas de desarrollo rural sustentable establecidas en el Plan Estatal de Desarrollo correspondiente;
 
-I. Prestar servicios de autotransporte federal sin el permiso respectivo, con multa de quinientos a dos mil salarios mínimos;
+II. Coordinar, difundir y dar seguimiento a la operación de los programas de desarrollo rural, coordinadamente con las dependencias federales, estatales y municipales competentes, a través de la Dirección General de Delegaciones, en apego a la normatividad aplicable;
 
-II. Prestar servicios de autotransporte federal con vehículos cuyas condiciones no cumplan con los reglamentos correspondientes, con multa de cien a mil salarios mínimos;
+III. Proponer estrategias de financiamiento para el medio rural y la conformación de intermediarios financieros;
 
-III. Aplicar tarifas superiores a las que en su caso se autoricen, con multa de cien a quinientos salarios mínimos;
+IV. Gestionar con la banca de desarrollo y comercial, así como las organizaciones auxiliares de crédito, apoyos crediticios al amparo de los fideicomisos establecidos, formular y operar nuevos mecanismos de financiamiento, fondos de inversión, y fomento y garantías para el desarrollo de proyectos;
 
-IV. Conducir en estado de ebriedad o bajo los efectos de drogas de abuso, con multa al conductor de cien a doscientos salarios y suspensión de la licencia por un año; por la segunda infracción, cancelación de la licencia;
+V. Promover los programas de financiamiento rural orientados al ahorro comunitario, para la formación de grupos de ahorradores y fondos de desarrollo rural;
 
-V. Rebasar, el autotransporte, los máximos de velocidad establecidos por la Secretaría, con multa al conductor de cincuenta a cien salarios mínimos; suspensión de la licencia por seis meses por la segunda infracción, y cancelación de la misma por la tercera infracción;
+VI. Coordinarse con las instancias correspondientes para fomentar acciones que posibiliten la integración de los productores a las cadenas productivas;
 
-VI. Conducir vehículos de autotransporte en caminos y puentes sin la licencia que exija la ley, con multa de cincuenta a cien salarios mínimos; en la misma infracción incurrirá el empresario o dueño de vehículo que autorice su manejo cuando el conductor no cuente con licencia;
+VII. Coadyuvar en coordinación con las instancias competentes, en la realización de obras de infraestructura destinadas al mejoramiento de las actividades productivas;
 
-VII. Destruir, inutilizar, apagar, quitar o cambiar una señal establecida para la seguridad de las vías generales de comunicación terrestres o medios de autotransporte que en ellas operan, con multa de cien a quinientos salarios mínimos;
+VIII. Participar en acciones de promoción para conformar figuras organizativas que les facilite su integración a las cadenas productivas, para la mejora de su actividad y comercialización;
 
-VIII. Colocar intencionalmente señales con ánimo de ocasionar daño a vehículos en circulación, con multa de cien a quinientos salarios mínimos; y
+IX. Coadyuvar con las unidades administrativas de la Secretaría en la operación de los programas de desarrollo rural, en el cumplimiento de las medidas de control fitozoosanitario;
 
-IX. Cualquier otra infracción a lo previsto en esta Ley o sus reglamentos, será sancionada con multa hasta de mil salarios mínimos.
+X. Participar en las reuniones de los consejos municipales, distritales y estatal de desarrollo rural sustentable, promoviendo las acciones y programas de su competencia;
 
-En caso de reincidencia. La Secretaría podrá imponer una multa equivalente hasta el doble de las cuantías señaladas, salvo las excepciones o casos específicos previstos en esta Ley.
+XI. Dar seguimiento al avance de la operación de los programas de desarrollo rural, integrando los informes correspondientes;
 
-Para los efectos del presente capítulo, se entiende por salario mínimo, el salario mínimo general vigente en el Distrito Federal al momento de cometerse la infracción.
+XII. Promover, desarrollar y fortalecer las capacidades productivas de comunidades consideradas como de alta y muy alta marginación; y
 
-###### ARTICULO 75.
+XIII. Las demás que le encomiende el superior jerárquico o el Secretario y las que determinen las disposiciones legales y administrativas aplicables.
 
-El que sin haber previamente obtenido concesión o permiso de la Secretaría opere o explote caminos, puentes o terminales, perderá en beneficio de la Nación, las obras ejecutadas y las instalaciones establecidas.
+### CAPÍTULO III. DE LA DIRECCIÓN DE AGRONEGOCIOS
 
-Una vez que la Secretaría tenga conocimiento de ello, procederá al aseguramiento de las obras ejecutadas y las instalaciones establecidas poniéndolas bajo la guarda de un interventor, previo inventario que al respecto se formule. Posteriormente al aseguramiento, se concederá un plazo de 10 días hábiles al presunto infractor para que presente las pruebas y defensas que estime pertinentes en su caso; pasado dicho término, la Secretaría dictará la resolución fundada y motivada que corresponda.
+###### Artículo 25.
 
-###### ARTICULO 76.
+Corresponde a la Dirección de Agronegocios, el ejercicio de las siguientes atribuciones:
 
-El monto de las sanciones administrativas que se impongan a los permisionarios con motivo del servicio, será garantizado con el valor de los propios vehículos o mediante el otorgamiento de garantía suficiente para responder de las mismas. En caso de que la garantía sea el vehículo, podrá entregarse en depósito a su conductor o a su legítimo propietario, quienes deberán presentarlo ante la autoridad competente cuando ésta lo solicite.
+I. Identificar, promover y vincular los productos agropecuarios, pesqueros y agroindustriales del Estado con mercados locales, nacionales e internacionales;
 
-El propietario del vehículo dispondrá de un plazo de 30 días naturales, contado a partir de la fecha en que se fijó la multa para cubrirla así como los gastos a que hubiere lugar; en caso contrario, se formulará la liquidación y se turnará, junto con el vehículo, a la autoridad fiscal competente, para su cobro, sin perjuicio de lo previsto en el artículo 80 de esta Ley.
+II. Difundir y coordinar con la participación de las instituciones federales, estatales y municipales competentes, los programas de apoyo a la agroindustria y comercialización de productos;
 
-###### ARTICULO 77.
+III. Fomentar y fortalecer en coordinación con las autoridades competentes, las acciones para el eslabonamiento de las cadenas en los procesos de producción, acopio, agregación de valor y mercado;
 
-Al imponer las sanciones a que se refiere este Título, la Secretaría deberá considerar:
+IV. Integrar y difundir la información de mercados que impulsen el desarrollo del sector;
 
-I. La gravedad de la infracción;
+V. Contribuir en coordinación con las autoridades competentes en el desarrollo de la infraestructura agroindustrial y comercial de las actividades del sector, que propicien el desarrollo económico sustentable y acorde a los mercados;
 
-II. los daños causados; y
+VI. Promover la certificación y calidad de productos agropecuarios, pesqueros, acuícolas y de valor agregado;
 
-III. La reincidencia.
+VII. Fomentar y coordinar con la participación de las dependencias y entidades competentes, los programas de promoción de exportaciones y la atracción de inversión nacional y extranjera en el sector;
 
-###### ARTICULO 78.
+VIII. Promover y fomentar las acciones de mejoramiento, tecnificación y mecanización, con la finalidad de incrementar la productividad y competitividad; y
 
-Las sanciones que se señalan en este Título se aplicarán sin perjuicio de la responsabilidad penal que resulte, ni de que, cuando proceda, la Secretaría revoque la concesión o permiso.
+IX. Las demás que le encomiende el superior jerárquico o el Secretario y las que determinen las disposiciones legales y administrativas aplicables.
 
-###### ARTICULO 79.
+### CAPÍTULO IV. DE LA DIRECCIÓN DE CAPACITACIÓN Y ASISTENCIA TÉCNICA
 
-Para declarar la revocación de las concesiones y permisos, suspensión de servicios y la imposición de las sanciones previstas en esta Ley, se estará a lo siguiente:
+###### Artículo 26.
 
-I. La Secretaría hará saber al presunto infractor la causa o causas de la sanción, concediéndole un plazo de 15 días hábiles para que presente sus pruebas y defensas; y
+Corresponde a la Dirección de Capacitación y Asistencia Técnica, el ejercicio de las siguientes atribuciones:
 
-II. Presentadas las pruebas y defensas o vencido el plazo señalado en la fracción anterior sin que se hubieren presentado, la Secretaría dictará la resolución que corresponda en un plazo no mayor a 30 días naturales.
+I. Organizar y evaluar la operación de los programas de capacitación, aplicando los lineamientos normativos vigentes;
 
-###### ARTICULO 80.
+II. Implementar acciones de capacitación al personal técnico y productores, en las diferentes etapas del proceso productivo y de comercialización;
 
-Contra las resoluciones dictadas por la Secretaría con fundamento en esta Ley, se podrá interponer, ante la propia Secretaría, recurso de reconsideración, dentro del plazo de 15 días naturales siguientes a la fecha de la notificación de tales resoluciones.
+III. Elaborar e implementar en coordinación con las instituciones de educación e investigación y los productores, el Programa de Investigación, con el objeto de incrementar la productividad del sector e impulsar los procesos de transferencia y adopción de tecnología;
 
-El recurso tiene por objeto revocar, modificar o confirmar la resolución reclamada y los fallos que se dicten contendrán la fijación del acto impugnado, los fundamentos legales en que se apoye y los puntos de resolución. Los reglamentos de la presente Ley establecerán los términos y demás requisitos para la tramitación y sustanciación del recurso.
+IV. Promover ante los productores la aplicación de paquetes tecnológicos, métodos y sistemas de producción validados por los institutos de investigación, que contribuyan a elevar la productividad;
 
-La interposición del recurso se hará mediante escrito dirigido a la autoridad emisora del acto, en el que se deberá expresar el nombre y domicilio del recurrente y los agravios, acompañándose los elementos de prueba que se consideren necesarios, así como, en su caso, las constancias que acrediten la personalidad del promovente.
+V. Supervisar acciones en materia de capacitación y asistencia técnica; y
 
-La interposición del recurso suspenderá la ejecución de la resolución impugnada.
+VI. Las demás que le encomiende el superior jerárquico o el Secretario y las que determinen las disposiciones legales y administrativas aplicables.
 
-La Secretaría dictará resolución en un término que no excederá de 60 días naturales contados a partir de la fecha en que se haya interpuesto el recurso.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-###### ARTICULO 33.
+## TÍTULO SEXTO. DE LAS FACULTADES ESPECÍFICAS DE LA SUBSECRETARÍA DE PESCA Y ACUICULTURA Y SUS DIRECCIONES
 
-Los servicios de autotransporte federal, serán los siguientes:
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-I. De pasajeros;
+### CAPÍTULO I. DE LA SUBSECRETARÍA DE PESCA Y ACUICULTURA
 
-II. De turismo; y
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-III. De carga.
+###### Artículo 27.
 
-###### ARTICULO 34.
+A la Subsecretaría de Pesca y Acuicultura, le corresponden las siguientes atribuciones:
 
-La prestación de los servicios de autotransporte federal podrá realizarlo el permisionario con vehículos propios o arrendados, de acuerdo a lo dispuesto en esta Ley y sus reglamentos, los tratados y acuerdos internacionales sobre la materia y normas oficiales mexicanas.
+I. Instrumentar, difundir y dar seguimiento al programa de desarrollo agropecuario, pesquero y acuícola de la Secretaría, conforme a las políticas, normas y procedimientos que señalen las entidades federales, el Plan Estatal de Desarrollo correspondiente y los programas sectoriales y regionales;
 
-###### ARTICULO 35.
+II. Planear el desarrollo, mejoramiento y tecnificación de las actividades relacionadas con la producción pesquera, en una perspectiva de desarrollo económico sustentable;
 
-Todos los vehículos de autotransporte de carga, pasaje y turismo que transiten en caminos y puentes de jurisdicción federal, deberán cumplir con la verificación técnica de su condiciones físicas y mecánicas y obtener la constancia de aprobación correspondiente con la periodicidad y términos que la Secretaría establezca en la norma oficial mexicana respectiva.
+III. Implementar los programas, de manera coordinada con las instancias federales, estatales y municipales en materia pesquera y acuícola;
 
-Las empresas que cuenten con los elementos técnicos conforme a la norma oficial mexicana respectiva, podrán ellas mismas realizar la verificación técnica de sus vehículos.
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-###### ARTICULO 36.
+IV. Realizar actividades tendientes a fomentar la modernización, tecnificación y rentabilidad de la pesca, acuicultura y sanidad e inocuidad, en coordinación con las instancias federales, estatales y municipales competentes;
 
-Los conductores de vehículos de autotransporte federal deberán obtener y, en su caso, renovar, la licencia federal que expida la Secretaría, en los términos que establezcan los reglamentos respectivos. Quedan exceptuados de esta disposición los conductores de vehículos a los que se refieren los artículos 40 y 44.
+V. Fomentar la capitalización de las unidades de producción, el manejo sustentable de los recursos naturales, inducir procesos de transformación y agregación de valor; así como impulsar el desarrollo de capacidades;
 
-El interesado deberá aprobar los cursos de capacitación y actualización de conocimientos teóricos y prácticos con vehículos y simuladores que se establezcan en los reglamentos respectivos.
+VI. Participar con las dependencias federales, estatales y municipales competentes, en la elaboración del plan rector del uso de suelo y agua en la entidad;
 
-Los permisionarios están obligados a vigilar y constatar que los conductores de sus vehículos cuentan con la licencia federal vigente.
+VII. Evaluar el desarrollo de los programas pesqueros y acuícolas;
 
-La Secretaría llevará un registro de las licencias que otorgue.
+VIII. Regular con la Coordinación de Desarrollo Rural, respecto de las obras de riego, drenaje y mejoramiento de terreno de uso pesquero y acuícola; y
 
-###### ARTICULO 37.
+IX. Las demás que le encomiende su superior jerárquico, el Secretario y las que determinen las disposiciones legales y administrativas aplicables.
 
-Los permisionarios tendrán la obligación, de conformidad con la ley de la materia, de proporcionar a sus conductores capacitación y adiestramiento para lograr que la prestación de los servicios sea eficiente, segura y eficaz.
+### CAPÍTULO II. DE LA DIRECCIÓN DE FOMENTO PESQUERO
 
-###### ARTICULO 38.
+###### Artículo 28.
 
-Los permisionarios de los vehículos son solidariamente responsables con sus conductores, en los términos de esta Ley, sus reglamentos y demás disposiciones legales aplicables, de los daños que causen con motivo de la prestación del servicio.
+Corresponde a la Dirección de Fomento Pesquero, el ejercicio de las siguientes atribuciones:
 
-###### ARTICULO 39.
+I. Establecer políticas, lineamientos, criterios, sistemas y procedimientos técnicos y administrativos para fomentar la producción pesquera y acuícola, que permita atender las necesidades del sector;
 
-Los vehículos destinados al servicio de autotransporte federal y privado de pasajeros, turismo y carga, deberán cumplir con las condiciones de peso, dimensiones, capacidad y otras especificaciones, así como con los límites de velocidad en los términos que establezcan los reglamentos respectivos. Asimismo, están obligados a contar con dispositivos de control gráficos o electrónicos de velocidad máxima.
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-###### ARTICULO 40.
+II. Elaborar y promover programas productivos en materia de pesca y acuicultura;
 
-No se requerirá de permiso para el transporte privado, en los siguientes casos:
+III. Proponer al Secretario y superior jerárquico, la celebración de convenios, acuerdos y demás instrumentos jurídicos que permitan fomentar y promover el desarrollo pesquero y acuícola;
 
-I. Vehículos de menos de 9 pasajeros; y
+IV. Dar seguimiento a la aplicación de la normatividad de los programas realizados a través de las áreas operativas de la Dirección General de Delegaciones, a fin de alcanzar los resultados y metas previstas;
 
-II. Vehículos de menos de 4 toneladas de carga útil. Tratándose de personas morales, en vehículos hasta de 8 toneladas de carga útil.
+V. Realizar, en coordinación con la Dirección de Prevención y Manejo de Riesgos, la ejecución de los programas tendientes a elevar el estatus sanitario, en apego a la normatividad establecida;
 
-Lo anterior, sin perjuicio de que para el transporte de materiales, residuos, remanentes y desechos peligrosos se cumpla con las disposiciones legales aplicables.
+VI. Dar cumplimiento a las medidas de control zoosanitario, en coordinación con las aéreas afines de la Subsecretaría;
 
-###### ARTICULO 41.
+VII. Realizar acciones para fortalecer la actividad pesquera y acuícola, mediante acciones de mejoramiento genético, manejo de las unidades productivas, reproducción, nutrición, aprovechamiento de cuerpos de agua, embalses y sanidad e inocuidad, en coordinación con las instancias federales, estatales y municipales competentes;
 
-La Secretaría expedirá permiso a los transportistas autorizados por las autoridades estatales o municipales para el uso de caminos de jurisdicción federal que no excedan de 30 kilómetros y sean requeridos para la operación de sus servicios, en los términos del reglamento respectivo.
+VIII. Promover y coordinar con las instituciones federales y estatales, programas de investigación, capacitación y transferencia de tecnología en beneficio del sector;
 
-###### ARTICULO 42.
+IX. Promover, organizar y dar seguimiento a los programas de repoblación con crías de peces, en coordinación con instituciones de educación e investigación y organizaciones de productores, a través de los programas y acciones que realiza la Secretaría;
 
-Las empresas dedicadas al arrendamiento de remolques y semirremolques con placas de servicio de autotransporte federal a que se refiere esta Ley, deberán registrarse ante la Secretaría, en los términos y condiciones que señale el reglamento respectivo. Asimismo, sólo podrán arrendar sus unidades a permisionarios que cubran los mismos requisitos que los permisionarios de servicio de autotransporte federal.
+X. Promover entre las organizaciones de productores, los instrumentos que les permitan tener acceso a esquemas de financiamiento para la mejora de su actividad productiva; y
 
-###### ARTICULO 43.
+XI. Las demás· que le encomiende el superior jerárquico, el Secretario y las que determinen las disposiciones legales y administrativas aplicables.
 
-Sólo podrán obtener registro como empresas arrendadoras de remolques y semirremolques los que cumplan con los siguientes requisitos:
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-I. Estar constituidas como sociedades mercantiles conforme a las leyes mexicanas y que su objeto social establezca expresamente el servicio de arrendamiento de remolques y semirremolques;
+### CAPÍTULO III. DE LA DIRECCIÓN DE ACUICULTURA
 
-II. Obtener placas y tarjeta de circulación para cada remolque y semirremolque; y
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-III. Acreditar la propiedad de las unidades.
+###### Artículo 29.
 
-Estas empresas no podrán en ningún caso prestar directamente el servicio de autotransporte federal de carga.
+Corresponde a la Dirección de Acuicultura el ejercicio de las siguientes atribuciones:
 
-###### ARTICULO 44.
+I. Establecer políticas, lineamientos, criterios, sistemas y procedimientos técnicos y administrativos para fomentar la producción acuícola, que permita atender las necesidades del sector;
 
-Las empresas arrendadoras de automóviles para uso particular, que circulen en carreteras de jurisdicción federal, podrán optar por obtener de la Secretaría tarjeta de circulación y placas de servicio federal.
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-###### ARTICULO 45.
+II. Elaborar y promover programas productivos en materia de acuicultura;
 
-Tratándose de arrendamiento puro y financiero de vehículos destinados al servicio federal de autotransporte, se estará a las disposiciones legales de la materia.
+III. Proponer al Secretario y superior jerárquico, la celebración de convenios, acuerdos y demás instrumentos jurídicos que permitan fomentar y promover el desarrollo acuícola;
+
+IV. Dar seguimiento a la aplicación de la normatividad de los programas realizados a través de las áreas operativas de la Dirección General de Delegaciones, a fin de alcanzar los resultados y metas previstas;
+
+V. Realizar, en coordinación con la Dirección de de (sic) Prevención y Manejo de Riesgos, la ejecución de los programas tendientes a elevar el estatus sanitario, en apego a la normatividad establecida;
+
+VI. Realizar acciones para fortalecer la actividad acuícola, mediante acciones de mejoramiento genético, manejo de las unidades productivas, reproducción, nutrición, aprovechamientos de cuerpo de agua, embalses y sanidad e inocuidad, en coordinación con las instancias federales, estatales y municipales competentes;
+
+VII. Promover y coordinar con las instituciones federales y estatales, programas de investigación, capacitación y transferencia de tecnología en beneficio del sector;
+
+VIII. Promover, organizar y dar seguimiento a los programas de repoblación con crías de peces, en coordinación con instituciones de educación e investigación y organizaciones de productores, a través de los programas y acciones que realiza la Secretaría;
+
+IX. Promover entre las organizaciones de productores, los instrumentos que les permitan tener acceso a esquemas de financiamiento para la mejora de su actividad productiva; y
+
+X. Las demás que le encomiende el superior jerárquico, el Secretario y las que determinen las ·disposiciones legales y administrativas aplicables.
+
+## TÍTULO SÉPTIMO. DE LAS FACULTADES ESPECÍFICAS DE LA SUBSECRETARÍA DE DESARROLLO AGRÍCOLA Y SUS DIRECCIONES
+
+### CAPÍTULO I. DE LA SUBSECRETARÍA DE DESARROLLO AGRÍCOLA
+
+###### Artículo 30.
+
+A la Subsecretaría de Desarrollo Agrícola, le corresponden las siguientes atribuciones:
+
+I. Instrumentar, difundir y dar seguimiento al programa de desarrollo agrícola de la Secretaría, conforme a las políticas, normas y procedimientos establecidos por las entidades federales, el Plan Estatal de Desarrollo y los programas sectoriales y regionales;
+
+II. Planear el desarrollo, mejoramiento y tecnificación de las actividades relacionadas con la producción agrícola, en una perspectiva de desarrollo económico sustentable;
+
+III. Participar con las dependencias federales, estatales y municipales competentes, en la elaboración del plan rector del uso del suelo y agua en la entidad;
+
+IV. Implementar los programas en materia de desarrollo agrícola de manera coordinada con las instancias federales, estatales y municipales correspondientes;
+
+V. Fomentar la modernización, tecnificación y rentabilidad de la agricultura;
+
+VI. Fomentar la capitalización de las unidades de producción;
+
+VII. Promover el manejo sustentable del suelo y agua;
+
+VIII. Inducir la creación y el desarrollo de infraestructura agrícola básica y de agregación de valor;
+
+IX. Realizar actividades tendientes a fomentar y evaluar el desarrollo de los programas agrícolas;
+
+X. Regular con la Coordinación de Desarrollo Rural, respecto de las obras de riego, drenaje y mejoramiento de terreno de uso agrícola; y
+
+XI. Las demás que le encomiende el Secretario y las que determinen las disposiciones legales y administrativas aplicables.
+
+### CAPÍTULO II. DE LA DIRECCIÓN DE CULTIVOS BÁSICOS
+
+###### Artículo 31.
+
+Corresponde a la Dirección de Cultivos Básicos, el ejercicio de las siguientes atribuciones:
+
+I. Establecer políticas, lineamientos, criterios, sistemas y procedimientos técnicos y administrativos, para fomentar la producción primaria y propiciar la cadena de valor, que permita atender las necesidades del sector;
+
+II. Regular, difundir y dar seguimiento a los programas de desarrollo agrícola en cultivos tropicales de importancia en el Estado;
+
+III. Planear el desarrollo, mejoramiento y tecnificación de las actividades relacionadas con la producción agrícola y su aprovechamiento racional;
+
+IV. Aplicar la observancia de la normatividad jurídica establecida en materia agrícola;
+
+V. Apoyar a la Dirección de Prevención y Manejo de Riesgos, la ejecución de los programas tendientes a elevar el estatus sanitario, en apego a la normatividad establecida;
+
+VI. Apoyar en el cumplimiento a las medidas de control fitosanitario, en coordinación con las áreas afines de la Secretaría;
+
+VII. Implementar los programas coordinadamente con las autoridades federales, estatales y municipales en materia de agricultura, preservación y restauración de recursos naturales;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+VIII. Aplicar el manual de normas presupuestarias del programa operativo anual, así como las reglas de operación que apliquen a los programas federales en concurrencia, y coordinar el seguimiento con las delegaciones regionales dependientes de la Dirección General de Desarrollo Regional, como área responsable de verificar los bienes adquiridos y la supervisión de la aplicación en campo, para alcanzar los resultados y metas previstas;
+
+IX. Fomentar los servicios agrícolas que establezca la Secretaría, relativos a la distribución de semillas, fertilizantes, árboles frutales y material vegetativo;
+
+X. Promover acciones de extensionismo y asesoría técnica en materia agrícola a las organizaciones de productores;
+
+XI. Promover y apoyar la agricultura orgánica, inocua y sustentable y su certificación;
+
+XII. Coordinar las acciones para prevención y manejo de riesgos, promoviendo el aseguramiento de las unidades de producción, así como el tipo de uso de suelo en las áreas dictaminadas por las dependencias competentes como de riesgo y siniestralidad recurrente por contingencias climatológicas; y
+
+XIII. Las demás que le encomiende el superior jerárquico, el Secretario y las que determinen las disposiciones legales y administrativas aplicables.
+
+### CAPÍTULO III. DE LA DIRECCIÓN DE INFRAESTRUCTURA AGRÍCOLA
+
+###### Artículo 32.
+
+Corresponde a la Dirección de Infraestructura Agrícola, el ejercicio de las siguientes atribuciones:
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+I. Proponer, planear, organizar y evaluar las acciones para la ampliación, rehabilitación, conservación, modernización y tecnificación de la infraestructura agrícola existente, en las unidades de producción para lograr el aprovechamiento eficaz de sus instalaciones;
+
+II. Otorgar asesoría técnica a los productores, en las acciones de construcción de infraestructura productiva, con el propósito de eficientar los subsidios otorgados mediante los programas ejecutados por la Secretaría;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+III. Elaborar inventario de infraestructura agrícola existente, georeferenciando su ubicación, mismo que deberá actualizarse el primer trimestre de cada año;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+IV. Promover y planificar propuestas de infraestructura agrícola, con un año de anticipación, para contar con una cartera de proyectos elaborados, a más tardar, el cuarto trimestre del ejercicio;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+V. Operar los programas y proyectos de infraestructura agrícola implementados, diseñados o convenidos por la Secretaría, en apego a la normatividad aplicable a cada uno de ellos;
+
+VI. Coordinar y definir con las autoridades federales, estatales, y municipales competentes, la ejecución y supervisión de las acciones de Infraestructura, para la conservación, manejo y uso de los recursos hídricos del Estado, en beneficio del desarrollo de las actividades forestales, pesqueras, acuícolas y agropecuarias, del sector;
+
+VII. Coordinar y definir conjuntamente con las instancias competentes en coparticipación, la ejecución y supervisión de obras de infraestructura y equipamiento, forestales, pesqueras, acuícolas y agropecuarias; destinadas al mejoramiento de las actividades productivas, de transformación y agregación al valor; y
+
+VIII. Las demás que le encomiende el superior jerárquico, el Secretario y las que determinen las disposiciones legales y administrativas aplicables.
+
+## TÍTULO OCTAVO. DE LAS FACULTADES ESPECÍFICAS DE LA SUBSECRETARÍA DE GANADERÍA Y SUS DIRECCIONES
+
+### CAPÍTULO I. DE LA SUBSECRETARÍA DE GANADERÍA
+
+###### Artículo 33.
+
+A la Subsecretaría de Ganadería, le corresponden las siguientes atribuciones:
+
+I. Instrumentar, difundir y dar seguimiento al programa de desarrollo pecuario, de la Secretaría, conforme a las políticas, normas y procedimientos que señalen las entidades federales, el Plan Estatal de Desarrollo y los programas sectoriales y regionales;
+
+II. Planear el desarrollo, mejoramiento y tecnificación de las actividades relacionadas con la producción ganadera, en una perspectiva de desarrollo económico sustentable;
+
+III. Implementar los programas de manera coordinada con las instancias federales, estatales y municipales en materia pecuaria;
+
+IV. Coordinar y atender la observancia de la normatividad jurídica establecida en materia de sanidad e inocuidad alimentaria, así como instrumentar y evaluar en coordinación con el Gobierno Federal las campañas de prevención, control de plagas, enfermedades y las movilizaciones de productos pecuarios, que garanticen la protección sanitaria del sector;
+
+V. Realizar actividades tendientes a fomentar la modernización, tecnificación y rentabilidad de la ganadería, en coordinación con las instancias federales, estatales y municipales competentes;
+
+VI. Fomentar la capitalización de las unidades de producción, el manejo sustentable de los recursos naturales, inducir procesos de transformación y agregación de valor; así como impulsar el desarrollo de capacidades en el medio rural;
+
+VII. Evaluar el desarrollo de los programas pecuarios;
+
+VIII. Regular con la Coordinación de Desarrollo Rural, respecto de las obras de riego, drenaje y mejoramiento de terreno de uso Pecuario; y
+
+IX. Las demás que le encomiende el Secretario y las que determinen las disposiciones legales y administrativas aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO II. DE LA DIRECCIÓN DE ESPECIES MAYORES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 34.
+
+Corresponde a la Dirección de Especies Mayores, el ejercicio de las siguientes atribuciones:
+
+I. Establecer políticas, lineamientos, criterios, sistemas y procedimientos técnicos y administrativos para fomentar la producción de especies mayores, que permita atender las necesidades del sector;
+
+II. Elaborar programas tendientes a incrementar la productividad de la ganadería bovina y otras especies mayores para la producción de carne y leche;
+
+III. Fomentar, entre productores y organizaciones, la integración de sus proyectos productivos, que incluyan aspectos de adopción de innovaciones tecnológicas, sistemas eficientes de administración, agregación de valor de los productos, subproductos y detección de nichos de mercado;
+
+IV. Promover e implementar en coordinación con las instancias federales, estatales y municipales competentes, acciones tendientes a fomentar y consolidar la actividad pecuaria mediante el mejoramiento genético, manejo de las unidades de producción, reproducción, nutrición, aprovechamiento de praderas y sanidad;
+
+V. Realizar en coordinación con la Dirección de Prevención y Manejo de Riesgos, la ejecución de los programas tendientes a elevar el estatus sanitario, en apego a la normatividad establecida;
+
+VI. Dar cumplimiento a las medidas de control zoosanitario, en coordinación con las áreas afines de la Subsecretaría;
+
+VII. Coordinar con el área competente de la Secretaría, la elaboración de programas de capacitación, investigación, aplicación de paquetes tecnológicos, métodos y sistemas de producción que contribuyan a elevar la productividad;
+
+VIII. Apoyar los programas de investigación, validación y transferencia de tecnologías, para mejorar la rentabilidad y sustentabilidad de los sistemas de producción pecuaria de especies mayores;
+
+IX. Promover entre las organizaciones de productores, los instrumentos que les permitan tener acceso a esquemas de financiamiento para la mejora de su actividad productiva;
+
+X. Dar seguimiento a la operación de los programas pecuarios estatales y los convenidos con la Federación;
+
+XI. Coordinar las acciones para prevención y manejo de riesgos, promoviendo el aseguramiento de las unidades de producción, así como el tipo de uso de suelo en las áreas dictaminadas por las dependencias competentes como áreas de riesgo y siniestralidad recurrente por contingencias climatológicas;
+
+XII. Coordinar la participación de la Secretaría en las exposiciones que se lleven, a efecto, con base en sus atribuciones; y
+
+XIII. Las demás que le encomiende el superior jerárquico, el Secretario y las que determinen las disposiciones legales y administrativas aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO III. DE LA DIRECCIÓN DE ESPECIES MENORES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 35.
+
+Corresponde a la Dirección de Especies Menores, el ejercicio de las siguientes atribuciones:
+
+I. Establecer políticas, lineamientos, criterios, sistemas y procedimientos técnicos y administrativos para fomentar la producción de especies menores, que permita atender las necesidades del sector;
+
+II. Implementar programas tendientes a incrementar la productividad de la ganadería ovina, caprina, porcina, avícola y apícola;
+
+III. Realizar en coordinación con las instancias federales, estatales y municipales competentes, los programas tendientes a fomentar la actividad, a través de acciones de mejoramiento genético, manejo de las unidades de producción, reproducción, nutrición, aprovechamiento de praderas y sanidad animal;
+
+IV. Dar seguimiento a la aplicación de la normatividad de los programas realizados, a través de las áreas operativas de la Dirección General de Delegaciones, a fin de alcanzar los resultados y metas previstas;
+
+V. Realizar, en coordinación con la Dirección de Sanidad e Inocuidad Alimentaria, la ejecución de los programas tendientes a elevar el estatus sanitario, observando la normatividad aplicable;
+
+VI. Dar cumplimiento de las medidas de control zoosanitario, en coordinación con las áreas competentes de la Subsecretaria;
+
+VII. Coordinar, con el área competente de la Secretaría, la elaboración de programas de capacitación, investigación, aplicación de paquetes tecnológicos, métodos y sistemas de producción que contribuyan a elevar la productividad;
+
+VIII. Promover entre las organizaciones de productores, los instrumentos que les permitan el acceso a esquemas de financiamiento para la mejora de su actividad productiva;
+
+IX. Coordinar, con el área competente de la Secretaría, la elaboración de sistemas de información de mercados que contribuyan a elevar la competitividad de la producción de especies menores;
+
+X. Implementar programas que coadyuven al equipamiento de las unidades de producción del sector; y
+
+XI. Las demás que le encomiende el superior jerárquico, el Secretario y las que determinen las disposiciones legales y administrativas aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+## TÍTULO NOVENO. DE LA DIRECCIÓN GENERAL DE DESARROLLO REGIONAL, LAS DELEGACIONES REGIONALES Y LA DIRECCIÓN
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO I. DE LA DIRECCIÓN GENERAL DE DESARROLLO REGIONAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 36.
+
+Corresponde a la Dirección General de Desarrollo Regional, las siguientes atribuciones:
+
+I. Coordinar y dirigir la operación y difusión de los programas y acciones de la Secretaría, con base en las disposiciones normativas;
+
+II. Acordar con el Secretario, la agenda de los asuntos de su competencia;
+
+III. Planear de manera conjunta, con la Coordinación y las Subsecretarías de Pesca y Acuacultura, de Desarrollo Agrícola y de Ganadería; las estrategias para la operación de los programas forestales, pesquero, acuícola, agrícola, pecuario, sanidad e inocuidad, desarrollo rural, infraestructura, agroindustria, comercialización, financiamiento, capacitación, sistema de información agroalimentaria y transferencia tecnológica;
+
+IV. Promover, difundir y fomentar a través de las delegaciones regionales y con la participación de los ayuntamientos, las políticas de desarrollo rural sustentable;
+
+V. Coordinar y supervisar la integración de los informes de avances de operación de los programas que ejecuten las delegaciones regionales;
+
+VI. Promover y ejecutar a través de las delegaciones regionales, los programas de reconversión productiva que determinen las instancias normativas de la Secretaría, en áreas con potencial;
+
+VII. Coordinar, programar y dar seguimiento a las acciones, competencia de la Secretaría, que el Gobierno del Estado implemente ante situaciones de contingencia o declaratoria de desastres de la Entidad;
+
+VIII. Coordinar y tramitar a través la Dirección de Prevención y Manejo de Riesgos, los reportes de plagas y enfermedades que afecten a las unidades productivas en la región;
+
+IX. Coordinar la difusión de los programas para prevención y manejo de riesgos, promoviendo el aseguramiento de las unidades de producción; así como la promoción para el cambio de actividades en las áreas dictaminadas por las dependencias competentes como de riesgo y siniestralidad recurrente por contingencias climatológicas;
+
+X. Coadyuvar en los procesos de transferencia de tecnología que fortalezcan la consolidación de las unidades productivas;
+
+XI. Elaborar y gestionar el presupuesto anual para la operación de la Dirección y las Delegaciones Regionales; y
+
+XII. Las demás que le encomiende el Secretario y las que determinen las disposiciones legales y administrativas aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 37.
+
+Para el mejor desempeño de sus atribuciones, la Dirección General de Desarrollo Regional, contará con las siguientes Unidades Administrativas:
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+I. Delegación Regional Chontalpa;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+II. Delegación Regional Usumacinta;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+III. Delegación Regional Sierra;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+IV. Delegación Regional Centro; y
+
+V. Dirección de Prevención y Manejo de Riesgos.
+
+### CAPÍTULO II. DE LAS ATRIBUCIONES DE LAS DELEGACIONES REGIONALES
+
+###### Artículo 38.
+
+Corresponde a las Delegaciones Regionales, las siguientes atribuciones:
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+I. Implementar los programas de desarrollo agrícola, pecuario, forestal, pesquero, acuicultura, sanidad e inocuidad alimentaria, desarrollo rural, infraestructura, agroindustria, comercialización, capacitación, financiamiento, sistemas de información agroalimentaria y transferencia de tecnología, conforme a la normatividad vigente;
+
+II. Supervisar y evaluar el avance de los programas de su competencia;
+
+III. Coordinarse con la Dirección General de Delegaciones, áreas normativas de la Secretaría, direcciones de desarrollo municipal y demás instituciones vinculadas para la operación de los programas;
+
+IV. Planear y difundir los programas de la Secretaría en los consejos de desarrollo municipal y distrital que le correspondan;
+
+V. Mantener vínculo con las organizaciones productivas y productores, para la adecuada difusión y aplicación de los programas en la región;
+
+VI. Promover las políticas en materia de conservación, mejoramiento y uso sustentable de los recursos naturales de suelo y agua, así como los programas de reconversión productiva que las instancias normativas establezcan;
+
+VII. Difundir programas para prevención y manejo de riesgos, promoviendo el aseguramiento de las unidades de producción, así como el tipo de uso de suelo en las áreas dictaminadas por las dependencias competentes como de riesgo y siniestralidad recurrente por contingencias climatológicas;
+
+VIII. Recibir, registrar y tramitar a través de la Dirección General de Delegaciones, ante la Dirección de Prevención y Manejo de Riesgos de la Secretaría, los reportes de plagas y enfermedades que afecten a las unidades productivas en la región;
+
+IX. Elaborar los informes de avances de operación de los programas que se desarrollan en la región y que sean de su competencia;
+
+X. Promover las acciones para fortalecer el desarrollo rural sustentable de la región, conforme a la normatividad aplicable; y
+
+XI. Las demás que le encomiende el superior jerárquico, el Secretario y las que determinen las disposiciones legales y administrativas aplicables.
+
+### CAPÍTULO III. DE LA DIRECCIÓN DE PREVENCIÓN Y MANEJO DE RIESGOS
+
+###### Artículo 39.
+
+A la Dirección de Prevención y Manejo de Riesgos, le corresponde el ejercicio de las siguientes atribuciones:
+
+I. Establecer políticas, lineamientos, criterios, sistemas y procedimientos técnicos y administrativos para la implementación de campañas fitozoosanitarias y acuícolas; así como el control de la movilización y rastreabilidad de productos y subproductos de origen vegetal, animal, pesquero y acuícola;
+
+II. Instrumentar y evaluar las campañas de prevención contra plagas y enfermedades que afectan la producción agropecuaria y acuícola en el Estado; así como los programas de inocuidad agroalimentaria, en coordinación con las instancias federales, estatales y municipales competentes;
+
+III. Coordinar, supervisar y atender la observancia de la normatividad jurídica establecida en materia de sanidad;
+
+IV. Regular, vigilar e inspeccionar la movilización de productos y subproductos agrícolas, pecuarios, pesqueros y acuícolas durante su traslado a los centros de acopio, distribución y venta;
+
+V. Supervisar el cumplimiento de las medidas de control fitozoosanitaria y acuícola, en coordinación con las áreas competentes de la Secretaría;
+
+VI. Realizar en coordinación con las instancias federales, estatales y municipales competentes, las acciones de prevención, combate y erradicación de plagas y enfermedades que afecten la producción agropecuaria, acuícola y la salud pública;
+
+VII. Coadyuvar con las instancias federales y estatales competentes, en la vigilancia y control de la movilización de productos y subproductos forestales y fauna silvestre;
+
+VIII. Organizar y supervisar el funcionamiento de los organismos auxiliares reconocidos por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, responsables de la operación y administración de las campañas de sanidad vegetal, salud animal, sanidad acuícola e inocuidad agroalimentaria;
+
+IX. Coordinar, promover y aplicar programas de capacitación técnica continua y acreditación en materia de salud animal, sanidad vegetal, acuícola, inocuidad y de verificación para el personal de la Dirección;
+
+X. Establecer en coordinación con las instancias federales competentes, los puntos de verificación interna para controlar la movilización de animales, productos y subproductos agropecuarios, pesqueros y acuícolas; y
+
+XI. Las demás que le encomien.de el superior jerárquico, el Secretario y las que determinen las disposiciones legales y administrativas aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+## TÍTULO DÉCIMO. DEL ÓRGANO DE CONSULTA, ÓRGANO DESCONCENTRADO Y ENTIDADES SECTORIZADAS DE LA SECRETARÍA
+
+## TÍTULO UNDÉCIMO. AUSENCIAS Y SUPLENCIAS DE LOS SERVIDORES PÚBLICOS
+
+### CAPÍTULO I. DEL ÓRGANO DE CONSULTA
+
+###### Artículo 40.
+
+El Consejo Estatal de Desarrollo Rural Sustentable del Estado de Tabasco es el Órgano de Consulta de la Secretaría.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO II. COMISIÓN ESTATAL FORESTAL
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 40 Bis.
+
+La Secretaría cuenta con la Comisión Estatal Forestal, como un órgano administrativo desconcentrado, el cual cuenta con las facultades y atribuciones señaladas en la Ley Forestal del Estado de Tabasco, el Acuerdo de Creación, su Reglamento Interior y demás disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO III. DE LAS ENTIDADES SECTORIZADAS
+
+(REUBICADO Y REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)
+
+###### Artículo 41.
+
+La Secretaría coordinará las funciones de las Entidades Sectorizadas, cuyos fines y objetivos tengan vinculación con las atribuciones de la Secretaría, de conformidad con el ordenamiento legal que los rige y se contará con las siguientes:
+
+I. FOFAE; Fideicomiso Irrevocable de Administración denominado Fondo de Fomento Agropecuario del Estado de Tabasco;
+
+II. Fondo de Garantía para las Empresas de Solidaridad del Estado de Tabasco (FOGATAB);
+
+III. Fideicomiso de Fuente Alterna de Pago (AGROTAB);
+
+IV. Fondo de Apoyo a la Mujer (FAM);
+
+V. Fondo de Garantía Mutualista Tabasco (FOGAMU); y
+
+VI. Las demás que con ese carácter estén constituidas o que se constituyan.
+
+### CAPÍTULO ÚNICO. DE LAS AUSENCIAS Y SUPLENCIAS
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 42.
+
+Durante las ausencias del Secretario, el despacho y resolución de los asuntos correspondientes a la Secretaría, estarán a cargo del Coordinador de Desarrollo Rural, Subsecretarios de Desarrollo Agrícola, de Ganadería, de Pesca y Acuicultura y la Dirección General de Desarrollo Regional o del Titular de la Unidad de Asuntos Jurídicos y Acceso a la Información, en el orden mencionado.
+
+En la ausencia del Titular de la Coordinación, de las Subsecretarías, de la Dirección General y demás Unidades Administrativas, serán suplidos para el despacho de los asuntos de su correspondiente competencia, por su ausencia no mayores a 15 días, por el servidor público que ellos designen, en las ausencias mayores a 15 días por quien designe el Secretario.
 
 ## TRANSITORIOS
 
-###### ARTICULO PRIMERO.
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Desarrollo Agropecuario, Forestal y Pesca, publicado en el Suplemento "B" al Periódico Oficial del Estado número 7278, de fecha 6 de junio de 2012, y se derogan todas las disposiciones que se opongan al presente Reglamento.
 
-###### ARTICULO SEGUNDO.
+TERCERO. Los asuntos que con motivo de este Reglamento deban transferirse de una unidad administrativa a otra, serán resueltos por la unidad administrativa competente conforme a las disposiciones del presente Reglamento.
 
-Se abroga la Ley sobre Construcción de Caminos en Cooperación con los Estados, publicada en el Diario Oficial de la Federación el 8 de mayo de 1934.
+CUARTO. Para su mejor funcionamiento, las unidades administrativas u órganos deberán formular sus respectivos manuales de organización y en tanto no se expidan, en caso de duda sobre su interpretación, el Secretario resolverá lo conducente.
 
-###### ARTICULO TERCERO.
+DADO EN EL RECINTO OFICIAL DEL PODER EJECUTIVO, EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO A LOS QUINCE DÍAS DEL MES DE MARZO DEL AÑO DOS MIL TRECE.
 
-Se derogan los artículos 1o., fracciones VI y VII; 8o., párrafos segundo a cuarto; 9o., fracciones VII y VIII; 21 a 28; 39; 85; 87; 88; 90; 91; 97; 98; 100 a 105; 109; 128; 146 a 168 y 537 a 540 de la Ley de Vías Generales de Comunicación; y las demás disposiciones que se opongan a la presente Ley.
+"SUFRAGIO EFECTIVO. NO REELECCIÓN"
 
-A partir de la entrada en vigor de la presente Ley, se dejan sin efecto únicamente por lo que se refiere a las materias reguladas en la misma, los artículos 3o. a 5o.; 10; 12 a 20; 29 a 38; 40 a 84; 86; 89; 92 a 96; 99; 110; 116 a 124; 126; 127; 523 a 532; 535 y 541 de la Ley de Vías Generales de Comunicación.
+LIC. ARTURO NÚÑEZ JIMÉNEZ
 
-###### ARTICULO CUARTO.
+GOBERNADOR DEL ESTADO DE TABASCO
 
-Las infracciones cometidas con anterioridad a la entrada en vigor de la presente Ley, se sancionarán de conformidad con las disposiciones vigentes al momento en que se cometieron.
+LIC. JUAN JOSÉ PERALTA FÓCIL
 
-###### ARTICULO QUINTO.
+COORDINADOR GENERAL DE ASUNTOS JURÍDICOS
 
-Las disposiciones reglamentarias y administrativas en vigor se continuarán aplicando, mientras se expiden los nuevos reglamentos, salvo en lo que se oponga a la presente Ley.
+LIC. PEDRO JIMÉNEZ LEÓN
 
-###### ARTICULO SEXTO.
+SECRETARIO DE DESARROLLO AGROPECUARIO, FORESTAL Y PESQUERO
 
-Las concesiones y permisos otorgados con anterioridad a la entrada en vigor de la presente Ley, continuarán en vigor en los términos y condiciones consignados en los mismos, hasta el término de su vigencia.
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-Por lo que se refiere a las concesiones y permisos en trámite se estará a lo dispuesto en la Ley de Vías Generales de Comunicación.
+P.O. 29 DE NOVIEMBRE DE 2014.
 
-###### ARTICULO SEPTIMO.
+PRIMERO. Las presentes reformas, adiciones y derogaciones al Reglamento Interior de la Secretaría de Desarrollo Agropecuario, Forestal y Pesquero, entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Las garantías a que se refieren los artículos 62 y primer párrafo del 68, entrarán en vigor 12 meses después de su publicación en el Diario Oficial de la Federación.
+SEGUNDO. Los asuntos que con motivo de las reformas a este Reglamento deban transferirse de una unidad administrativa a otra, serán resueltos por la unidad administrativa competente.
 
-México, D.F., a 13 de diciembre de 1993.- Dip. Cuauhtémoc López Sánchez, Presidente.- Sen. Eduardo Robledo Rincón, Presidente.- Dip. Sergio González Santa Cruz, Secretario.- Sen. Jorge Rodríguez León, Secretario.- Rúbricas".
+TERCERO. Para el mejor funcionamiento, de las unidades administrativas que integran a la Secretaría se deberán actualizar los respectivos manuales de Organización y Procedimientos.
 
-En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los quince días del mes de diciembre de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
-
-D.O.F. 4 DE ENERO DE 1999.
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los siguientes transitorios.
-
-SEGUNDO.- La organización de la Policía Federal Preventiva durará un máximo de sesenta días contados a partir de la entrada en vigor del presente Decreto, lapso en el que no ejercerá las atribuciones conferidas por este Decreto, las cuales corresponderán a las policías administrativas que han venido realizándolas con fundamento en disposiciones de la Ley Orgánica de la Administración Pública Federal, la Ley General de Población, la Ley de Vías Generales de Comunicación y los demás ordenamientos reformados por este Decreto.
-
-TERCERO.- Se faculta al Ejecutivo Federal para dictar los acuerdos que estime necesarios, con el fin de que las atribuciones de la institución policial previstas en el artículo 4 de la Ley de la Policía Federal Preventiva, sean asumidas con la gradualidad que permita asegurar la continuidad de las respectivas funciones y puedan llevarse a cabo las transferencias de recursos humanos, materiales y financieros de las policías administrativas cuya competencia corresponderá a la Policía Federal Preventiva, sin detrimento de la eficacia de los servicios.
-
-Para ese solo efecto y en los términos de los acuerdos correspondientes, que deberán publicarse en el Diario Oficial de la Federación, las policías administrativas existentes hasta la fecha de entrada en vigor de esta Ley, una, varias o todas, según sea el caso, seguirán cumpliendo con sus atribuciones en los términos de los ordenamientos legales y reglamentarios respectivos, hasta por un plazo no mayor de veinticuatro meses contados a partir de la entrada en vigor del presente Decreto, en el entendido de que la coordinación entre ellas deberá quedar a cargo del Comisionado de la Policía Federal Preventiva, a partir de su nombramiento.
-
-Los miembros de las policías administrativas antes citadas exclusivamente podrán formar parte de la Policía Federal Preventiva si cumplen con los requisitos que establece la Ley para su ingreso o permanencia.
-
-CUARTO.- Los derechos de los miembros de las policías administrativas de Migración, Fiscal Federal y Federal de Caminos, serán respetados conforme a las disposiciones legales aplicables.
-
-QUINTO.- Las menciones a la Policía de Migración y a la Policía Federal de Caminos que aparezcan en otros ordenamientos, se entenderán referidas a la Policía Federal Preventiva.
-
-Las menciones a la Policía Fiscal Federal que aparezcan en cualquier ordenamiento legal, se entenderán referidas a la Unidad de Apoyo para la Inspección Fiscal y Aduanera.
-
-SEXTO.- El Ejecutivo Federal publicará en el Diario Oficial de la Federación el Reglamento Interior de la Policía Federal Preventiva, dentro del año siguiente a la entrada en vigor del presente Decreto.
-
-SÉPTIMO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+CUARTO. En tanto se expiden los Manuales señalados en el artículo anterior, en caso de duda sobre la interpretación del reglamento, el Secretario queda facultado para resolver lo conducente
