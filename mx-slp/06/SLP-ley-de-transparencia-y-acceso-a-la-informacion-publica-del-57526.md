@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-5752
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-18"
-last_updated: "2014-06-21"
+last_updated: "2014-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57526&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de octubre de 2007.
 
@@ -975,11 +975,13 @@ La CEGAIP manejará autónomamente su presupuesto, el que deberá elaborar integ
 
 La CEGAIP tiene por objeto fundamental, vigilar el cumplimiento de la presente Ley. Sus resoluciones son definitivas y todos los entes obligados deberán acatarlas.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTICULO 83.
 
-La CEGAIP, a través de su Comisionado Presidente, rendirá un informe anual en el mes de octubre, ante el Pleno del Congreso del Estado; del que recibirá, en su caso, recomendaciones y sugerencias.
+La CEGAIP, a través de su Comisionado Presidente, presentará por escrito dentro de los primeros dos meses del año, un informe anual de las actividades de la Comisión, que entregará a los poderes del Estado; y comparecerá ante la Comisión de Transparencia y Acceso a la Información Pública del Poder Legislativo, dentro de los treinta días naturales siguientes a su presentación, para exponer el informe en el Congreso del Estado y recibir de los legisladores, opiniones, preguntas, y sugerencias respecto de los resultados de su desempeño. Dicha comparecencia será difundida en la forma más amplia posible para conocimiento de la sociedad.
 
-Cuando así lo determine el Pleno del Congreso, los comisionados de la CEGAIP, conforme a lo dispuesto por la Ley Orgánica del Poder Legislativo del Estado, comparecerán ante las comisiones legislativas, a rendir los informes que se les requieran, o a ampliar la información contenida en el informe anual. Las comparecencias podrán realizarse de manera colegiada o individual, según lo determine el Congreso del Estado, y deberán realizarse por lo menos una vez al año. El informe quedará a disposición del público.
+En el informe anual precitado, se debe utilizar un lenguaje claro y accesible que facilite su comprensión por parte de los ciudadanos.
 
 ###### ARTICULO 84.
 
@@ -1564,3 +1566,11 @@ P.O. 21 DE JUNIO DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE NOVIEMBRE DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El informe de actividades de la Comisión Estatal de Garantía de Acceso a la Información Pública del Estado de San Luis Potosí, correspondiente al año dos mil catorce, comprenderá el lapso de octubre de dos mil trece a diciembre de dos mil catorce.
+
+TERCERO. Se deroga (sic) todas las disposiciones legales que se opongan al presente Decreto.
