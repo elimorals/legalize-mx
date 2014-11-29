@@ -4,7 +4,7 @@ identifier: "YUC-codigo-procesal-penal-para-el-estado-de-yucatan-81654"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-06-08"
-last_updated: "2011-06-08"
+last_updated: "2014-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81654&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "YUC"
 ---
 # CODIGO PROCESAL PENAL PARA EL ESTADO DE YUCATAN
 
-CODIGO PROCESAL PENAL PARA EL ESTADO DE YUCATAN
+CÓDIGO PROCESAL PENAL PARA EL ESTADO DE YUCATÁN
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO PUBLICADO EN EL SUPLEMENTO DEL D.O. DEL 8 DE JUNIO DE 2011, EL PRESENTE ORDENAMIENTO ENTRARA EN VIGOR EL 15 DE NOVIEMBRE PREVIA SU PUBLICACION EN EL DIARIO OFICIAL DEL GOBIERNO DEL ESTADO, Y SUS DISPOSICIONES SE APLICARAN GRADUALMENTE, HASTA ABARCAR LOS TRES DEPARTAMENTOS JUDICIALES DEL ESTADO DE YUCATAN.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO Y TRANSITORIOS PRIMERO Y TERCERO DEL DECRETO NÚMERO 233/2014, PUBLICADO EN EL D.O. DE 29 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO SE ABROGA DE MANERA SIMULTÁNEA A LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, EL CUAL SURTE EFECTOS EN EL ESTADO DE YUCATÁN EL 22 DE SEPTIEMBRE DE 2015.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 8 de junio de 2011.
 
@@ -1339,7 +1339,7 @@ Forma de recibir notificaciones
 
 ###### Artículo 110.
 
-En su primera intervención, el imputado deberá indicar su domicilio y señalar el lugar o la forma para recibir notificaciones Deberá (sic) mantener actualizada esta información.
+En su primera intervención, el imputado deberá indicar su domicilio y señalar el lugar o la forma para recibir notificaciones (sic) Deberá mantener actualizada esta información.
 
 La falta de información sobre sus generales, o el proporcionar datos falsos sobre éstos, podrán ser considerados como indicios de sustracción a la acción de la justicia.
 
@@ -4964,3 +4964,41 @@ GOBERNADORA DEL ESTADO DE YUCATÁN
 C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 29 DE NOVIEMBRE DE 2014.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL DECRETO NÚMERO 233/2014.</small>
+
+D E C R E T O:
+
+Por el que se declara la entrada en vigor del Código Nacional de Procedimientos Penales en el Estado de Yucatán
+
+Artículo Único.- El Código Nacional de Procedimientos Penales entrará en vigor en el Estado de Yucatán el 22 de septiembre de 2015.
+
+Artículos transitorios:
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, con excepción de lo dispuesto en los artículos transitorios segundo, tercero y cuarto, que entrarán en vigor de manera simultánea al Código Nacional de Procedimientos Penales en el Estado de Yucatán.
+
+Segundo. Abrogación del código de procedimientos penales
+
+Se abroga el Código de Procedimientos en Materia Penal del Estado de Yucatán, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 15 de diciembre de 1994. Los procedimientos penales que, a la entrada en vigor del Código Nacional de Procedimientos Penales en el Estado de Yucatán, se encuentren en trámite, con base en el Código de Procedimientos en Materia Penal del Estado de Yucatán, continuarán su sustanciación de conformidad con éste.
+
+Tercero. Abrogación del código procesal penal
+
+Se abroga, en términos del artículo transitorio tercero del Código Nacional de Procedimientos Penales, el Código Procesal Penal para el Estado de Yucatán, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 8 de junio de 2011. Los procedimientos penales que, a la entrada en vigor del Código Nacional de Procedimientos Penales en el Estado de Yucatán, se encuentren en trámite, con base en el Código Procesal Penal para el Estado de Yucatán, continuarán su sustanciación de conformidad con éste.
+
+Cuarto. Abrogación de la ley de medidas cautelares
+
+Se abroga la Ley de Medidas Cautelares del Proceso Penal en el Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán el 29 de mayo de 2014.
+
+Quinto. Obligación normativa
+
+El Poder Ejecutivo del Estado de Yucatán, en términos del artículo 164, párrafo primero, del Código Nacional de Procedimientos Penales, deberá expedir el decreto por el que se regule a la autoridad de supervisión de medidas cautelares y de la suspensión condicional del proceso, el cual entrará en vigor, en el Estado de Yucatán, de manera simultánea al Código Nacional de Procedimientos Penales.
+
+Sexto. Derogación tácita
+
+Se derogan todas las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
