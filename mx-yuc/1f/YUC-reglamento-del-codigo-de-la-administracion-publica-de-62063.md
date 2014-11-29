@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-codigo-de-la-administracion-publica-de-62063"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2014-07-24"
+last_updated: "2014-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE NOVIEMBRE DE 2014.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de julio de 2008.
 
@@ -791,11 +791,11 @@ Los órganos desconcentrados dependientes del Despacho del Gobernador tendrán l
 
 ### CAPÍTULO ÚNICO. De la organización y atribuciones de la Secretaría General de Gobierno
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 37.
 
-Para el ejercicio de las atribuciones que le confiere el Código y el despacho de los asuntos de su competencia, la Secretaría General, contará con la siguiente estructura:
+Para el ejercicio de las atribuciones que le confiere el Código y el despacho de los asuntos de su competencia, esta Secretaría contará con la siguiente estructura:
 
 I. Subsecretaría de Prevención y Seguridad Pública:
 
@@ -833,7 +833,9 @@ e) (DEROGADO, D.O. 1 DE ENERO DE 2013)
 
 III. Subsecretaría de Desarrollo Social y Asuntos Religiosos:
 
-a) (DEROGADO, D.O. 1 DE ENERO DE 2013)
+> <small>(ADICIONADO, D.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+a) Dirección de Asuntos Religiosos;
 
 b) Dirección del Consejo Estatal de Población, y
 
@@ -1117,31 +1119,43 @@ IV. Desarrollar los proyectos, programas y acciones correspondientes a la polít
 
 V. Proponer alternativas de solución en los conflictos religiosos que se susciten en la Entidad;
 
-> <small>(ADICIONADA, D.O. 1 DE ENERO DE 2013)</small>
+VI. (DEROGADA, D.O. 29 DE NOVIEMBRE DE 2014)
 
-VI. Realizar la investigación y análisis de los movimientos religiosos en el Estado y rendir los informes correspondientes al Secretario General de Gobierno;
+VII. (DEROGADA, D.O. 29 DE NOVIEMBRE DE 2014)
 
-> <small>(ADICIONADA, D.O. 1 DE ENERO DE 2013)</small>
+VIII. (DEROGADA, D.O. 29 DE NOVIEMBRE DE 2014)
 
-VII. Recibirlos avisos para la celebración de actos religiosos de culto público con carácter extraordinario, fuera de los templos;
+IX. (DEROGADA, D.O. 29 DE NOVIEMBRE DE 2014)
 
-> <small>(ADICIONADA, D.O. 1 DE ENERO DE 2013)</small>
-
-VIII. Orientar a las asociaciones religiosas en sus trámites de registro, certificaciones, declaratorias de procedencia, constancias, aperturas de templos, regularización patrimonial y demás análogos;
-
-> <small>(ADICIONADA, D.O. 1 DE ENERO DE 2013)</small>
-
-IX. Promover la participación de las asociaciones religiosas en las actividades oficiales correspondientes;
-
-> <small>(ADICIONADA, D.O. 1 DE ENERO DE 2013)</small>
-
-X. Permitir, a solicitud de parte, la implementación de medidas a efecto de que se proporcione asistencia espiritual en centros de salud, de asistencia o de reinserción social, así como en estaciones migratorias a cargo del Estado, y
+X. (DEROGADA, D.O. 29 DE NOVIEMBRE DE 2014)
 
 XI. Las demás que establezcan otras disposiciones legales aplicables.
 
+> <small>(ADICIONADO, D.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 53.
 
-(DEROGADO, D.O. 1 DE ENERO DE 2013)
+Al Director de Asuntos Religiosos le corresponde el despacho de los siguientes asuntos:
+
+I. Elaborar los programas relativos a la promoción, difusión y observancia del marco jurídico en materia religiosa, y la cultura de la tolerancia;
+
+II. Organizar los cursos, talleres, foros, seminarios, campañas publicitarias, material didáctico y cualquier otro acto afín para propiciar la observancia de la ley y fomentar la cultura de la tolerancia;
+
+III. Realizar la investigación y análisis de los movimientos religiosos en el estado y rendir los informes correspondientes a sus superiores;
+
+IV. Participar en la formulación y aplicación de convenios de coordinación o colaboración, con los demás órdenes de gobierno, en materia de asuntos religiosos;
+
+V. Recibir los avisos para la celebración de actos religiosos de culto público con carácter extraordinario, fuera de los templos;
+
+VI. Orientar a las asociaciones religiosas en sus trámites de registro, certificaciones, declaratorias de procedencia, constancias, aperturas de templos, regularización patrimonial y demás análogos;
+
+VII. Promover la participación de las asociaciones religiosas en las actividades oficiales correspondientes;
+
+VIII. Permitir, a solicitud de parte, la implementación de medidas a efecto de que se proporcione asistencia espiritual en centros de salud, de asistencia, de reinserción social y en estaciones migratorias a cargo del Estado;
+
+IX. Participar en la solución de conflictos religiosos que se originen en la entidad, y
+
+X. Las demás que le encomienden otras disposiciones normativas aplicables.
 
 ###### Artículo 54.
 
@@ -3325,6 +3339,10 @@ a) Dirección de Organización Social;
 
 b) Dirección de Vinculación Territorial;
 
+> <small>(ADICIONADO, D.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+c) Dirección de Promoción Social;
+
 II. Dirección General de Planeación y Concertación Sectorial;
 
 a) Dirección de Apoyo a la Economía Familiar;
@@ -3460,6 +3478,26 @@ IV. Fomentar la creación de programas conjuntos con el sector privado y organiz
 V. Diseñar y ejecutar programas de turismo social, en el ámbito de su competencia, en coordinación con los sectores público, privado y social, y
 
 VI. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables
+
+> <small>(ADICIONADO, D.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 148 Bis.
+
+El Director de Promoción Social tendrá las siguientes facultades y obligaciones:
+
+I. Proponer programas de políticas sociales compensatorias focalizadas hacia los adultos mayores y personas con discapacidad que fortalezcan, consoliden y amplíen los procesos de organización, participación ciudadana y cohesión social;
+
+II. Proponer y, en su caso, implementar y ejecutar programas y acciones encaminados a la promoción y fortalecimiento de la cohesión social;
+
+III. Proponer la elaboración de publicaciones y materiales de promoción e información de los programas sociales a su cargo en la Secretaría;
+
+IV. Proponer la celebración (sic) convenios de cooperación y coordinación entre la Secretaría y las dependencias y entidades de la Administración Pública estatal, federal y municipal, así como con organismos nacionales e internacionales, universidades e instituciones de educación superior para el establecimiento de agencias de desarrollo humano local e implementación de programas de desarrollo social;
+
+V. Proponer la celebración de convenios de cooperación y coordinación entre la Secretaría y colegios de profesionistas, cámaras empresariales, universidades e instituciones de educación media superior y superior, organizaciones de la sociedad civil, así como con empresas públicas y privadas, orientados a los programas de desarrollo social y promoción social;
+
+VI. Participar en la elaboración de planes, programas y proyectos específicos para promover hábitos alimenticios adecuados y saludables, en el marco del fortalecimiento de la cohesión social, y
+
+VII. Las demás que le otorguen este reglamento y otras disposiciones normativas aplicables.
 
 > <small>(REFORMADO, D.O. 1 DE ENERO DE 2013)</small>
 
@@ -5367,7 +5405,9 @@ XIX. Autorizar las adquisiciones con cargo al presupuesto, así como presentar a
 
 XX. Llevar la contabilidad general de esta Secretaría, por acuerdo del Secretario y en coordinación con la Secretaría de Administración y Finanzas cualquier otro que determine la Ley correspondiente;
 
-XXI. Tramitar ante la Oficialía Mayor, por acuerdo del Secretario, todo lo relativo a nombramientos, ascensos, renuncias, remociones, cambios de adscripción y licencias;
+> <small>(REFORMADA, D.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XXI. Tramitar ante la Secretaría de Administración y Finanzas, por acuerdo del Secretario, todo lo relativo a nombramientos, ascensos, renuncias, remociones, cambios de adscripción y licencias;
 
 XXII. Analizar y desarrollar los sistemas de información de los diferentes departamentos administrativos que integran esta Secretaría;
 
@@ -5405,7 +5445,9 @@ III. Llevar el control de asistencias, retardos y faltas del personal de esta Se
 
 IV. Elaborar la documentación necesaria para la tramitación de todo lo relativo a nombramientos, ascensos, renuncias, remociones, cambios de adscripción, bajas, ceses, licencias, vacaciones y expedición de documentos de identificación para el personal de esta Secretaría;
 
-V. Aplicar la normatividad y políticas que emita el Oficial Mayor en materia de recursos humanos;
+> <small>(REFORMADA, D.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+V. Aplicar la normatividad y políticas que emita el Secretario de Administración y Finanzas en materia de recursos humanos;
 
 VI. Efectuar el envío oportuno de la nómina de pagos y viáticos, de acuerdo a los lineamientos y calendarios establecidos, y verificar que esté debidamente requisitada y documentada;
 
@@ -7001,7 +7043,7 @@ El Director General de Fomento a la Inversión y Comercio tendrá las siguientes
 
 > <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-l. Promover al Estado en el ámbito regional, nacional e internacional a través de programas permanentes de promoción, con objeto de que los inversionistas conozcan las ventajas competitivas que ofrece el Estado de Yucatán y la capacidad de sus recursos humanos;
+I. Promover al Estado en el ámbito regional, nacional e internacional a través de programas permanentes de promoción, con objeto de que los inversionistas conozcan las ventajas competitivas que ofrece el Estado de Yucatán y la capacidad de sus recursos humanos;
 
 II. Seleccionar personas y lugares adecuados para promover las diversas áreas de la actividad económica en el Estado;
 
@@ -7311,7 +7353,7 @@ VI. Las demás que le otorguen este Reglamento y otras disposiciones normativas 
 
 El Director de Normatividad Fiduciaria tendrá las siguientes facultades y obligaciones:
 
-l. Celebrar los convenios necesarios para dar validez a los proyectos presentados por los sectores, público, social y privado, que serán financiados por la Secretaría a través del fideicomiso "Fondo Yucatán";
+I. Celebrar los convenios necesarios para dar validez a los proyectos presentados por los sectores, público, social y privado, que serán financiados por la Secretaría a través del fideicomiso "Fondo Yucatán";
 
 II. Llevar a cabo los trámites jurídicos que avalen la obtención de los recursos financieros de instituciones públicas y privadas, así como de organismos internacionales, enfocadas al apoyo y ejecución de los proyectos y programas a cargo de la Secretaría a través del fideicomiso "Fondo Yucatán", y
 
@@ -7985,11 +8027,11 @@ XIV. Las demás que le otorguen este Reglamento y otras disposiciones normativas
 
 ### CAPÍTULO ÚNICO. De la organización y atribuciones de la Secretaría de Desarrollo Rural
 
-> <small>(REFORMADO, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, D.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 498.
 
-Para el ejercicio de las atribuciones que le confiere el Código y el despacho de los asuntos de su competencia, esta Secretaría contará con la siguiente estructura:
+Para el ejercicio de las atribuciones que le confiere el Código y el despacho de los asuntos de su competencia, la Secretaría de Desarrollo Rural contará con la siguiente estructura:
 
 I. Jefatura del Despacho del Secretario;
 
@@ -8003,9 +8045,11 @@ c) Dirección de Agricultura;
 
 d) Dirección de Infraestructura y Equipamiento Agroindustrial;
 
-e) Dirección de Desarrollo Rural y Comercialización, y
+e) Dirección de Desarrollo Rural y Comercialización;
 
-f) Dirección de Desarrollo de Capacidades y Extensionismo Rural.
+f) Dirección de Desarrollo de Capacidades y Extensionismo Rural;
+
+g) Dirección de Apoyo a la Mujer y Grupos Vulnerables;
 
 III. Dirección de Planeación, Financiamiento y Coordinación Sectorial;
 
@@ -8191,41 +8235,29 @@ XIII. Supervisar la construcción, operación, mantenimiento y rehabilitación d
 
 XIV. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
 
-> <small>(REFORMADO, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, D.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 506.
 
 El Director de Desarrollo Rural y Comercialización tendrá las siguientes facultades y obligaciones:
 
-I. Difundir entre las productoras los programas de apoyo institucional, dirigidos hacía la producción artesanal y productiva;
+I. Promover las actividades de los productores en el medio rural, a través del desarrollo y fortalecimiento de su organización y capacitación;
 
-II. Evaluar, dictaminar y gestionar, en su caso, los recursos que requieren los proyectos y solicitudes propuestas por las mujeres, que por sus características de elegibilidad puedan recibir apoyo gubernamental;
+II. Impulsar la consolidación de proyectos productivos de inversión y sociales, así como la creación de agro negocios, la integración de las cadenas productivas y la comercialización de los productos del campo, a fin de mejorar la productividad, la calidad y la presencia de los productos agropecuarios en los mercados nacional e internacional;
 
-III. Promover la asistencia técnica y capacitación entre las artesanas y productoras, para el mejoramiento de la actividad artesanal y productiva;
+III. Impulsar inversiones estratégicas en los procesos agroindustriales, comerciales y logísticos, así como apoyar y operar los componentes y servicios de apoyo a la comercialización que se establezcan, en coordinación con el gobierno federal;
 
-IV. Promover y coordinar eventos y ferias dirigidos a impulsar la producción artesanal de la mujer rural;
+IV. Diseñar e implementar acciones y estrategias que permitan a los productores agropecuarios tener acceso a financiamientos, seguros, innovaciones tecnológicas, canales de comercialización adecuados y mejores sistemas de administración;
 
-V. Promover acciones que contribuyan al mejoramiento del sector artesanal del medio rural;
+V. Promover la identificación de corredores agrícolas y pecuarios para el desarrollo de proyectos logísticos de acopio y agregación de valor a los productos;
 
-VI. Representar legalmente al Fondo de Micro créditos del Estado de Yucatán ante los Tribunales Estatales o Federales en los Procedimientos, Juicios o Asuntos litigiosos de cualquier materia o naturaleza en la que su Dependencia sea parte o tenga interés jurídico, facultándolo para interponer cualquier tipo de demanda así como a contestar las demandas interpuestas en contra de su Dependencia, así como a ejercitar las acciones, excepciones y defensas que correspondan en los juicios que se tramiten ante los Tribunales competentes, con todas las facultades inherentes a un Representante Legal en asuntos Judiciales;
+VI. Elaborar estudios que generen información acerca de los productos agropecuarios, clientes potenciales, competidores y entorno económico de los distintos mercados, para realizar una planeación estratégica que permita una comercialización rentable, formal y organizada, en apoyo a los productos agropecuarios de la entidad;
 
-VII. Ejecutar los fondos de micro créditos que le sean asignados para su operación, así como generar la información contable y administrativa relativa a los mismos;
+VII. Apoyar y asesorar a los productores para la comercialización de productos agropecuarios y agroindustriales en los mercados estatal, nacional e internacional, a través de la vinculación entre productores e industriales y empresas de servicios, en beneficio de los participantes del proceso comercial;
 
-VIII. Organizar las sesiones de los comités técnicos que administren los recursos, a cargo de los mencionados fondos de micro créditos;
+VIII. Promover las actividades de los productores en el medio rural, a través del desarrollo y fortalecimiento de su organización y capacitación, y
 
-IX. Mantener un sistema de información institucional actualizado sobre los fondos y programas que opera;
-
-X. Fungir en los cargos que le sean asignados en los programas y fondos de créditos que opere esta Secretaría;
-
-XI. Notificar a los beneficiarios los acuerdos que tomen los comités técnicos que administren los programas y fondos de créditos que tenga en operación;
-
-XII. Resguardar la documentación de los programas y fondos de créditos que tenga en operación;
-
-XIII. Gestionar ante la iniciativa privada acciones encaminadas a la comercialización de los productos artesanales, así como los elaborados por las mujeres campesinas;
-
-XIV. Promover las actividades de los productores en el medio rural, a través del desarrollo y fortalecimiento de su organización y capacitación, y
-
-XV. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+IX. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
 
 > <small>(REFORMADO, D.O. 1 DE ENERO DE 2013)</small>
 
@@ -8276,6 +8308,42 @@ XX. Coordinar la operatividad de las Unidades Regionales de Desarrollo Rural, y 
 XXI. Establecer canales de comunicación entre las unidades regionales de desarrollo rural y la Secretaría, a efecto de garantizar el oportuno seguimiento de los asuntos encomendados, el intercambio de información relacionada con la instrumentación de los programas, apoyos y servicios del sector agropecuario en el Estado, y garantizar su adecuada y oportuna atención, y
 
 XXII. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 507 Bis.
+
+El Director de Apoyo a la Mujer y Grupos Vulnerables tendrá las siguientes facultades y obligaciones:
+
+I. Difundir entre las productoras los programas de apoyo institucional, dirigidos hacía la producción artesanal y productiva;
+
+II. Evaluar, dictaminar y gestionar, en su caso, los recursos que requieren los proyectos y solicitudes propuestas por las mujeres, que por sus características de elegibilidad puedan recibir apoyo gubernamental;
+
+III. Promover la asistencia técnica y capacitación entre las artesanas y productoras, para el mejoramiento de la actividad artesanal y productiva;
+
+IV. Promover y coordinar, eventos y ferias dirigidos a impulsar la producción artesanal de la mujer rural;
+
+V. Promover acciones que contribuyan al mejoramiento del sector artesanal del medio rural;
+
+VI. Representar legalmente al Fondo de Micro créditos del Estado de Yucatán ante los tribunales estatales o federales en los procedimientos, juicios o asuntos litigiosos de cualquier materia o naturaleza en la que su dependencia sea parte o tenga interés jurídico, facultándolo para interponer cualquier tipo de demanda así como a contestar las demandas interpuestas en contra de su dependencia, así como a ejercitar las acciones, excepciones y defensas que correspondan en los juicios que se tramiten ante los tribunales competentes, con todas las facultades inherentes a un representante legal en asuntos judiciales;
+
+VII. Ejecutar los fondos de micro créditos que le sean asignados para su operación, así como generar la información contable y administrativa relativa a los mismos;
+
+VIII. Organizar las sesiones de los comités técnicos que administren los recursos, a cargo de los mencionados fondos de micro créditos;
+
+IX. Mantener un sistema de información institucional actualizado sobre los fondos y programas que opera;
+
+X. Fungir en los cargos que le sean asignados en los programas y fondos de créditos que opere esta Secretaría;
+
+XI. Notificar a los beneficiarios los acuerdos que tomen los comités técnicos que administren los programas y fondos de créditos que tenga en operación;
+
+XII. Resguardar la documentación de los programas y fondos de créditos que tenga en operación;
+
+XIII. Gestionar ante la iniciativa privada acciones encaminadas a la comercialización de los productos artesanales así como los elaborados por las mujeres campesinas;
+
+XIV. Planear, desarrollar e implementar programas de apoyo, a efecto de brindar seguridad económica y social a los habitantes de las comunidades rurales de la entidad, con énfasis en la participación de la mujer y de los grupos prioritarios, y
+
+XV. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
 
 > <small>(REFORMADO, D.O. 1 DE ENERO DE 2013)</small>
 
@@ -9975,7 +10043,7 @@ XX. Supervisar que los Órganos de Control Interno den seguimiento a las observa
 
 XXI. Formular informes técnicos y contables, opiniones que les sean encomendados por la superioridad, en aquellos asuntos que sean propios de su competencia;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 XXII. Integrar el informe que el Director General del Sector Estatal y Paraestatal deba rendir al Secretario, en base a los informes recibidos de los Contralores Internos, por las auditorías practicadas a las dependencias en cuanto al ejercicio de los recursos estatales y los resultados de éstas, para la instrumentación de las acciones y medidas correctivas que correspondan, en el ámbito de su competencia;
 
@@ -10085,9 +10153,9 @@ XI. Llevar un registro de los sistemas informáticos y bases de datos de las dep
 
 XII. Proponer a su superior, el uso y aprovechamiento adecuado de nuevas tecnologías y herramientas de cómputo;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XIII. Implementar y, en su caso, promover las políticas de operación, seguridad y utilización de tecnologías de información y comunicaciones de la Dirección General del Sector Estatal y Paraestatal, acordes con las políticas que, para tal efecto, establezca la Oficialía Mayor;
+XIII. Implementar y, en su caso, promover las políticas de operación, seguridad y utilización de tecnologías de información y comunicaciones de la Dirección General del Sector Estatal y Paraestatal, acordes con las políticas que, para tal efecto, establezca la Secretaría de Administración y Finanzas;
 
 XIV. Remitir a su superior jerárquico el avance mensual del programa anual de trabajo, así como las actividades realizadas durante ese período;
 
@@ -10663,7 +10731,7 @@ Artículo 562 Duodécimus. (DEROGADO, D.O. 30 DE DICIEMBRE DE 2011)
 
 Para el ejercicio de las atribuciones que le confiere el Código y el despacho de los asuntos de su competencia, la Secretaría del Trabajo y Previsión Social contará con la siguiente estructura administrativa:
 
-l. Unidad de Administración y Finanzas;
+I. Unidad de Administración y Finanzas;
 
 II. Unidad de Previsión Social;
 
@@ -10693,7 +10761,7 @@ b) Junta Local de Conciliación y Arbitraje.
 
 Los titulares de las unidades de la Secretaría, en lo general, tendrán las facultades y obligaciones siguientes:
 
-l. Emitir los dictámenes, opiniones, estudios e informes sobre los asuntos de su competencia, así como los que le encomiende el Titular;
+I. Emitir los dictámenes, opiniones, estudios e informes sobre los asuntos de su competencia, así como los que le encomiende el Titular;
 
 II. Expedir, conforme a las políticas establecidas por el Titular, certificaciones de constancias que obren en los expedientes relativos a los asuntos de su competencia;
 
@@ -10757,7 +10825,7 @@ XIV. Las demás que establezcan este Reglamento y otras disposiciones legales ap
 
 Al Titular de la Unidad de Administración y Finanzas le corresponde el despacho de los siguientes asuntos:
 
-l. Programar, organizar y controlar el suministro y aplicación de los recursos humanos, materiales, financieros y técnicos, así como los servicios generales necesarios para el funcionamiento de las unidades administrativas de la Secretaría;
+I. Programar, organizar y controlar el suministro y aplicación de los recursos humanos, materiales, financieros y técnicos, así como los servicios generales necesarios para el funcionamiento de las unidades administrativas de la Secretaría;
 
 II. Integrar, en coordinación con las demás unidades administrativas, los anteproyectos de presupuesto de ingresos y egresos de la Secretaría y someterlos a la consideración del Secretario, así como realizar la calendarización de los recursos del presupuesto autorizado;
 
@@ -10791,7 +10859,7 @@ XIV. Las demás que establezcan este Reglamento y otras disposiciones legales ap
 
 Al Titular de la Unidad de Previsión Social le corresponde el despacho de los siguientes asuntos:
 
-l. Promover, en el Estado, acciones para el bienestar físico, social y cultural de los trabajadores y sus familias, en los renglones de orientación ocupacional, y recreación, cultura y deporte, de acuerdo a los lineamientos establecidos en materia de previsión social en la legislación aplicable;
+I. Promover, en el Estado, acciones para el bienestar físico, social y cultural de los trabajadores y sus familias, en los renglones de orientación ocupacional, y recreación, cultura y deporte, de acuerdo a los lineamientos establecidos en materia de previsión social en la legislación aplicable;
 
 II. Colaborar con las autoridades federales competentes, en materia de previsión social, de acuerdo a las disposiciones legales y al convenio de colaboración que, en su caso, se suscriba;
 
@@ -10877,7 +10945,9 @@ XI. Supervisar y evaluar la eficacia de los sistemas y programas computacionales
 
 XII. Proporcionar la asistencia técnica que requieran las áreas de trabajo de la Secretaría y dar el mantenimiento adecuado a los equipos de cómputo;
 
-XIII. Proponer las modificaciones en materia de informática que procuren el incremento en la eficacia de todas la áreas de la Secretaría de conformidad con las normas, estándares, políticas, lineamientos, procedimientos que establezca la Dirección General de Tecnologías de la Información de la Oficialía Mayor, y
+> <small>(REFORMADA, D.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XIII. Proponer las modificaciones en materia de informática que procuren el incremento en la eficacia de todas la áreas de la Secretaría de conformidad con las normas, estándares, políticas, lineamientos, procedimientos que establezca la Dirección General de Tecnologías de la Información de la Secretaría de Administración y Finanzas, y
 
 XIV. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
 
@@ -10887,7 +10957,7 @@ XIV. Las demás que establezcan este Reglamento y otras disposiciones legales ap
 
 Al Titular de la Unidad de Empleo y Productividad Laboral le corresponde el despacho de los siguientes asuntos:
 
-l. Investigar, desarrollar y divulgar métodos, técnicas y sistemas dirigidos al examen, diagnóstico y mejoramiento de los niveles de calidad y productividad de los centros de trabajo;
+I. Investigar, desarrollar y divulgar métodos, técnicas y sistemas dirigidos al examen, diagnóstico y mejoramiento de los niveles de calidad y productividad de los centros de trabajo;
 
 II. Coadyuvar con las demás unidades de la Secretaría en el diseño, promoción e instrumentación de cursos y programas dirigidos a la formación especializada de recursos humanos para la organización y ejecución del proceso capacitador y para el mejoramiento de la calidad y productividad de los centros de trabajo;
 
@@ -11005,7 +11075,7 @@ VIII. Dirección de Normatividad y Políticas Culturales.
 
 El Secretario de la Cultura y las Artes tendrá las siguientes facultades y obligaciones:
 
-l. Establecer, dirigir y controlar la política de la Secretaría y la del sector Cultura, Artes y Tradiciones, de conformidad con la legislación aplicable, con los objetivos, estrategias y prioridades de los planes, nacional y estatal, de desarrollo y con los lineamientos que el Gobernador del Estado expresamente le señale;
+I. Establecer, dirigir y controlar la política de la Secretaría y la del sector Cultura, Artes y Tradiciones, de conformidad con la legislación aplicable, con los objetivos, estrategias y prioridades de los planes, nacional y estatal, de desarrollo y con los lineamientos que el Gobernador del Estado expresamente le señale;
 
 II. Proponer al Titular del Poder Ejecutivo del Estado, los proyectos de iniciativas de leyes o decretos, reglamentos, acuerdos, circulares y órdenes, sobre los asuntos de la competencia de la Secretaría y del sector respectivo;
 
@@ -11063,7 +11133,7 @@ XXIV. Las demás que le otorguen este Reglamento y otras disposiciones aplicable
 
 El Secretario Técnico y de Vinculación tendrá las siguientes facultades y obligaciones:
 
-l. Proporcionar servicios de logística al Secretario;
+I. Proporcionar servicios de logística al Secretario;
 
 II. Fungir como enlace informativo entre los titulares de las diferentes áreas de la Secretaría, a efecto de dar a conocer las instrucciones que emita el Secretario;
 
@@ -11117,7 +11187,7 @@ V. Las demás que establezcan este Reglamento y otras disposiciones aplicables.
 
 El Director de Administración y Finanzas tendrá las siguientes facultades y obligaciones:
 
-l. Dirigir a las áreas administrativas de la Secretaría, en la operación de los recursos que le sean autorizados por el Gobierno Estatal, durante el ejercicio presupuestal correspondiente, conforme a las normas y procedimientos establecidos al respecto;
+I. Dirigir a las áreas administrativas de la Secretaría, en la operación de los recursos que le sean autorizados por el Gobierno Estatal, durante el ejercicio presupuestal correspondiente, conforme a las normas y procedimientos establecidos al respecto;
 
 II. Coordinar, dirigir y supervisar la acción y gestión de los departamentos adscritos al área de su competencia, en lo relativo a sus responsabilidades y funciones que le corresponden;
 
@@ -11257,7 +11327,7 @@ Para el cumplimiento de sus atribuciones, la Dirección de Proyectos y Evaluaci�
 
 El Director de Desarrollo Cultural y Artístico tendrá las siguientes facultades y obligaciones:
 
-l. Coordinar y organizar el desempeño de las labores encomendadas a las áreas administrativas de apoyo técnico y operativo adscritas a la Dirección a su cargo;
+I. Coordinar y organizar el desempeño de las labores encomendadas a las áreas administrativas de apoyo técnico y operativo adscritas a la Dirección a su cargo;
 
 II. Gestionar los respaldos, permisos y apoyos interinstitucionales necesarios para la eficaz realización de los programas y eventos artísticos y culturales, programados por las áreas administrativas a su cargo;
 
@@ -11303,7 +11373,7 @@ Para el cumplimiento de sus atribuciones, la Dirección de Desarrollo Cultural y
 
 El Director de Asuntos y Servicios Jurídicos tendrá las siguientes facultades y obligaciones:
 
-l. Elaborar y revisar los instrumentos jurídicos que la Secretaría celebre con las diversas Dependencias y Entidades de los tres órdenes de gobierno, asociaciones y personas físicas o morales, así como visarlos y someterlos a la consideración del Secretario;
+I. Elaborar y revisar los instrumentos jurídicos que la Secretaría celebre con las diversas Dependencias y Entidades de los tres órdenes de gobierno, asociaciones y personas físicas o morales, así como visarlos y someterlos a la consideración del Secretario;
 
 II. Registrar y llevar el control los (sic) contratos, convenios, acuerdos y demás actos jurídicos de los que se generen derechos y obligaciones a cargo de la Secretaría;
 
@@ -11357,7 +11427,9 @@ X. Integrar y elaborar el anteproyecto de presupuesto y el Programa Operativo An
 
 XI. Procesar y consolidar la información sobre las acciones culturales y organizacionales que realiza la Secretaría y establecer datos estadísticos que permitan retroalimentar a las áreas;
 
-XII. Proponer a la Dirección de Administración y Finanzas los lineamientos metodológicos y normativos para que elabore, actualice y trámite ante la Secretaría de Planeación y Presupuesto y la Oficialía Mayor, la autorización del Organigrama General de la Secretaría, así como los particulares de cada área;
+> <small>(REFORMADA, D.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XII. Proponer a la Dirección de Administración y Finanzas los lineamientos metodológicos y normativos para que elabore, actualice y trámite ante la Secretaría de Administración y Finanzas la autorización del organigrama general de la Secretaría, así como los particulares de cada área;
 
 XIII. Elaborar, en coordinación con la Dirección de Administración y Finanzas, el diagnóstico de necesidades de capacitación y a partir de éste, el programa de capacitación de la Secretaría y coordinar su aplicación para el personal;
 
@@ -11489,7 +11561,7 @@ Para el cumplimiento de sus atribuciones, la Dirección de Normatividad y Polít
 
 Para efectos de este Libro se entenderá por:
 
-l. Acta: documento escrito en el que se hacen constar los acuerdos adoptados durante la sesión correspondiente, firmado por quienes en ella intervinieron.
+I. Acta: documento escrito en el que se hacen constar los acuerdos adoptados durante la sesión correspondiente, firmado por quienes en ella intervinieron.
 
 II. Carpeta: conjunto de documentos consistente en: convocatoria de la sesión, orden del día, informes y demás escritos inherentes a la sesión.
 
@@ -11519,7 +11591,7 @@ X. Sesión Extraordinaria: la que puede realizarse en cualquier tiempo y que se 
 
 La administración de las entidades paraestatales estará a cargo de:
 
-l. Una Junta de Gobierno o su equivalente, que se integrará al menos con los siguientes miembros propietarios:
+I. Una Junta de Gobierno o su equivalente, que se integrará al menos con los siguientes miembros propietarios:
 
 a) Presidente: el Gobernador del Estado o la persona que éste designe;
 
@@ -11609,7 +11681,7 @@ XIII. Aprobar un código de ética o conducta, con el propósito de reforzar la 
 
 El Presidente de la Junta de Gobierno o su equivalente tendrá las siguientes facultades y obligaciones:
 
-l. Presidir las sesiones de la Junta de Gobierno o su equivalente;
+I. Presidir las sesiones de la Junta de Gobierno o su equivalente;
 
 II. Participar con voz y voto en las sesiones Junta (sic) de Gobierno o su equivalente. En caso de empate, emitir voto de calidad;
 
@@ -11633,7 +11705,7 @@ Día de las sesiones.
 
 Son facultades y obligaciones del Secretario de Actas y Acuerdos:
 
-l. Elaborar el proyecto de la Orden del Día;
+I. Elaborar el proyecto de la Orden del Día;
 
 II. Convocar a los integrantes de la Junta de Gobierno o su equivalente y, en su caso, a los participantes invitados, por instrucción del Presidente;
 
@@ -11681,7 +11753,7 @@ VII. Las demás que le establezcan este Reglamento y otras disposiciones aplicab
 
 Son facultades y obligaciones de los Vocales:
 
-l. Participar con voz y voto en las sesiones de la Junta de Gobierno o su equivalente;
+I. Participar con voz y voto en las sesiones de la Junta de Gobierno o su equivalente;
 
 II. Proponer y promover acuerdos orientados al logro de los objetivos de la
 
@@ -11733,7 +11805,7 @@ En su caso, el Secretario de Actas y Acuerdos hará los trámites conducentes an
 
 La Orden del Día de las sesiones de la Junta de Gobierno o su equivalente, deberá contener, en lo general, lo siguiente:
 
-l. Lista de Asistencia y declaración de quórum legal;
+I. Lista de Asistencia y declaración de quórum legal;
 
 II. Lectura y aprobación, en su caso, de la Orden del Día;
 
@@ -11921,7 +11993,7 @@ La desincorporación de las entidades paraestatales de la Administración Públi
 
 Para el caso de la extinción de un organismo descentralizado, la Junta de Gobierno establecerá los lineamientos para el desarrollo de la extinción y designará un responsable quién deberá:
 
-l. Levantar el inventario de los bienes, obligaciones y procesos en trámite inherentes al organismo;
+I. Levantar el inventario de los bienes, obligaciones y procesos en trámite inherentes al organismo;
 
 II. Someter al dictamen del auditor designado por la Secretaría de la Contraloría General del Estado, los estados financieros inicial y final de extinción y, cuando proceda, los anuales intermedios;
 
@@ -11973,7 +12045,7 @@ La persona designada como responsable para realizar las actividades señaladas e
 
 En cuanto a la fusión de entidades paraestatales, la Junta de Gobierno o equivalente establecerá los lineamientos para el desarrollo de la fusión y designará un responsable, quien deberá:
 
-l. Levantar el inventario de los bienes de la Entidad fusionante y someter al dictamen del auditor designado para tal efecto por la Secretaría de la Contraloría General del Estado los últimos estados financieros;
+I. Levantar el inventario de los bienes de la Entidad fusionante y someter al dictamen del auditor designado para tal efecto por la Secretaría de la Contraloría General del Estado los últimos estados financieros;
 
 > <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
 
@@ -12015,7 +12087,7 @@ Una vez concluido el proceso de desincorporación de una entidad, la Dependencia
 
 Para el Registro de Entidades Paraestatales a que se refiere el Código de la Administración Pública de Yucatán, se deberá cumplir con los requisitos previstos en el mismo y presentar la documentación siguiente:
 
-l. Original y copia certificada del documento, oficio o contrato que deba registrarse;
+I. Original y copia certificada del documento, oficio o contrato que deba registrarse;
 
 II. En el caso de decretos, deberá presentarse un ejemplar del Diario Oficial del Gobierno del Estado de Yucatán en que se hubiere publicado;
 
@@ -12033,7 +12105,7 @@ La Secretaría de Administración y Finanzas y la Secretaría de la Contraloría
 
 Para la cancelación de las inscripciones en el Registro de Entidades Paraestatales se deberá:
 
-l. Presentar un ejemplar del Diario Oficial del Gobierno del Estado de Yucatán en que se hubiere publicado el acto;
+I. Presentar un ejemplar del Diario Oficial del Gobierno del Estado de Yucatán en que se hubiere publicado el acto;
 
 II. Original y copia del documento del mandato del proceso de desincorporación de la Entidad y de la documentación sustento del proceso, y
 
@@ -12227,7 +12299,7 @@ C. JESÚS RIVERO COVARRUBIAS
 
 COORDINADOR GENERAL DE COMUNICACIÓN SOCIAL
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O. 23 DE FEBRERO DE 2009.
 
@@ -12348,3 +12420,17 @@ Los procedimientos de separación y remoción iniciados con anterioridad a la en
 Décimo cuarto. Derogación tácita
 
 Se derogan todas las disposiciones normativas de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
+
+D.O. 29 DE NOVIEMBRE DE 2014.
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Adecuaciones administrativas
+
+La Secretaría General de Gobierno, la Secretaría de Desarrollo Social y la Secretaría de Desarrollo Rural deberán realizar los trámites administrativos necesarios a fin de dar cumplimiento, en el ámbito de sus respectivas competencias, a las disposiciones de este decreto, dentro de los ciento veinte días naturales contados a partir de su entrada en vigor.
+
+Tercero. Derogación tácita
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto
