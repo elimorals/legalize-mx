@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-extincion-de-dominio-del-estado-de-queretaro-99777"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-20"
-last_updated: "2014-03-20"
+last_updated: "2014-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "QUE"
 
 LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE QUERÉTARO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A LOS NOVENTA DÍAS NATURALES SIGUIENTES A SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 20 de marzo de 2014.
 
@@ -47,9 +45,11 @@ LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE QUERÉTARO
 
 ### Capítulo I. Del objeto de la Ley, definiciones y aplicación supletoria
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de observancia general en el Estado de Querétaro. Sus disposiciones son de orden público e interés social y tienen por objeto regular el procedimiento de extinción de dominio de bienes a favor del Estado, conforme a lo dispuesto en el artículo 22, párrafo segundo, de la Constitución Política de los Estados Unidos Mexicanos.
+La presente Ley es de observancia general en el Estado de Querétaro. Sus disposiciones son de orden público e interés social y tienen por objeto regular el procedimiento de extinción de dominio de bienes a favor del Estado, conforme a lo dispuesto en el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 2.
 
@@ -83,13 +83,17 @@ XIII. Secretaría: La Secretaría de Planeación y Finanzas del Poder Ejecutivo 
 
 XIV. Tercero: La persona que sin ser el demandado en el procedimiento de extinción de dominio, cuenta con legitimación para acudir al proceso, con el fin de deducir un derecho propio sobre los bienes materia de la acción; y
 
-XV. Víctima y ofendido: Las personas que tengan tal carácter en términos del Código Penal para el Estado de Querétaro, de la legislación procesal penal y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XV. Víctima y ofendido: Las personas que tengan tal carácter en términos del Código Penal para el Estado de Querétaro, del Código Nacional de Procedimientos Penales y demás disposiciones aplicables.
 
 ###### Artículo 3.
 
 A falta de regulación expresa en esta Ley, se aplicarán supletoriamente los siguientes ordenamientos:
 
-I. En la preparación del ejercicio de la acción de extinción de dominio: la legislación procesal penal y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+I. En la preparación del ejercicio de la acción de extinción de dominio: el Código Nacional de Procedimientos Penales y demás disposiciones aplicables;
 
 II. En el procedimiento de extinción de dominio: el Código de Procedimientos Civiles;
 
@@ -147,7 +151,9 @@ El ejercicio de la acción de extinción de dominio se sustentará en la siguien
 
 I. En las investigaciones y procedimientos para la prevención de los delitos que realicen las autoridades competentes de cualquier fuero, de conformidad con las leyes aplicables;
 
-II. En las averiguaciones previas o carpetas de investigación que instruya, en términos de la legislación procesal penal aplicable;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+II. En las averiguaciones previas o carpetas de investigación que instruya, en términos del Código Nacional de Procedimientos Penales;
 
 III. En la información que sobre las personas o bienes relacionados con la acción, obre en los archivos o expedientes de las autoridades de la administración pública estatal o municipal en el Estado de Querétaro o las correspondientes de la Federación u otras entidades federativas, siempre que, en este último caso, no exista un procedimiento de extinción de dominio previo, promovido por la autoridad federal o local competente, que recaiga sobre el mismo bien o persona;
 
@@ -185,7 +191,9 @@ Se entenderá por ocultar, la acción de esconder y disimular bienes que son pro
 
 III. Aquellos que estén siendo utilizados por un tercero para la comisión de hechos ilícitos o de actos ejecutivos preparativos o previos relacionados con éstos, si su dueño tuvo conocimiento de ello y no lo notificó a la autoridad por cualquier medio o tampoco llevó a cabo acción alguna para impedirlo. Se presume que este último sujeto tuvo conocimiento, si permitió o toleró el uso de sus bienes, en contravención de las disposiciones legales en materia de prevención de operaciones con recursos de procedencia ilícita.
 
-El Ministerio Público especializado tendrá la carga de acreditar los extremos del supuesto a que se refiere el párrafo primero de la presente fracción, lo que no podrá fundarse únicamente en la confesión del inculpado del delito o de quien cometió o participó en la realización de los actos ejecutivos preparativos o previos de referencia; y
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+El Ministerio Público especializado tendrá la carga de acreditar los extremos del supuesto a que se refiere el párrafo primero de la presente fracción, lo que no podrá fundarse únicamente en la confesión del imputado del delito o de quien cometió o participó en la realización de los actos ejecutivos preparativos o previos de referencia; y
 
 IV. Aquellos que estén titulados a nombre de terceros y se acredite que los bienes son producto o están relacionados con la comisión de los delitos a que se refiere el artículo 11 o de actos ejecutivos preparativos o previos relacionados con estos delitos y el imputado, se ostente o comporte como dueño.
 
@@ -245,7 +253,9 @@ III. Solicitar al Juez, expida las medidas cautelares previstas en esta Ley; y
 
 IV. Las demás que señale esta Ley y otras disposiciones aplicables.
 
-La documentación e información obtenida de expedientes de actuaciones de autoridad competente, se sujetará a lo dispuesto en la legislación procesal penal aplicable.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+La documentación e información obtenida de expedientes de actuaciones de autoridad competente, se sujetará a lo dispuesto en el Código Nacional de Procedimientos Penales.
 
 Asimismo, realizará las acciones necesarias para recabar información sobre la identificación de los bienes materia de la extinción, elaborará el correspondiente inventario de éstos en el caso de que no exista y determinará las medidas cautelares que resulte necesario solicitar al Juez, para su conservación.
 
@@ -423,7 +433,7 @@ De no haber señalamiento, todas las notificaciones, incluso las de carácter pe
 
 ###### Artículo 43.
 
-Admitida la demanda, el Juez mandará publicar un extracto del auto respectivo en tres ocasiones, de tres en tres días, debiendo mediar entre cada publicación dos días hábiles, en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", así como en un diario de circulación nacional, cuyo gasto correrá a cargo de la Procuraduría, para que comparezca cualquier persona que se considere afectada por el procedimiento de extinción de dominio, que no haya sido señalada como parte del juicio en términos de la fracción VII artículo (sic) 38, con el objeto de que acuda a manifestar lo que a su derecho convenga.
+Admitida la demanda, el Juez mandará publicar un extracto del auto respectivo en tres ocasiones, de tres en tres días, debiendo mediar entre cada publicación dos días hábiles, en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", así como en un diario de circulación nacional, cuyo gasto correrá a cargo de la Procuraduría, para que comparezca cualquier persona que se considere afectada por el procedimiento de extinción de dominio, que no haya sido señalada como parte del juicio en términos de la fracción VII artículo 38, con el objeto de que acuda a manifestar lo que a su derecho convenga.
 
 Toda persona afectada que considere tener interés jurídico sobre los bienes materia de la acción de extinción de dominio, deberá comparecer dentro de los diez días hábiles siguientes contados a partir de aquél en que haya tenido conocimiento de la acción, a fin de acreditar su interés jurídico y expresar lo que a su derecho convenga.
 
@@ -463,7 +473,7 @@ En la denuncia podrá formularse la descripción de los bienes que el denunciant
 
 El particular que denuncie o aporte medios de prueba que conduzcan a que se declare judicialmente la extinción de dominio, podrá recibir como retribución un porcentaje del cinco por ciento del valor comercial de los bienes respectivos, después de la determinación relativa a los derechos preferentes, conforme a lo dispuesto en el artículo 68.
 
-El valor comercial de los bienes se determinará mediante avalúo, que elaborará el área pericial adscrita la (sic) Procuraduría y que exhibirá el Ministerio Público especializado durante el procedimiento.
+El valor comercial de los bienes se determinará mediante avalúo, que elaborará el área pericial adscrita (sic) la Procuraduría y que exhibirá el Ministerio Público especializado durante el procedimiento.
 
 El denunciante tendrá derecho a que se guarde absoluta secrecía respecto de sus datos personales.
 
@@ -731,7 +741,7 @@ Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquí
 
 Artículo Tercero. El titular del Poder Ejecutivo del Estado promoverá las modificaciones jurídicas e instruirá se realicen las administrativas y presupuestales necesarias para implementar las instituciones previstas en el presente ordenamiento, para el siguiente ejercicio fiscal.
 
-Artículo Cuarto. La Procuraduría General de Justicia y el Poder Judicial del Estado, ambos del Estado de Querétaro, dentro los (sic) sesenta días naturales siguientes al inicio de vigencia de la presente Ley, proporcionarán la capacitación técnica respectiva a los Jueces, Agentes del Ministerio Público y personal al que corresponda conocer de los procedimientos de extinción de dominio.
+Artículo Cuarto. La Procuraduría General de Justicia y el Poder Judicial del Estado, ambos del Estado de Querétaro, dentro (sic) los sesenta días naturales siguientes al inicio de vigencia de la presente Ley, proporcionarán la capacitación técnica respectiva a los Jueces, Agentes del Ministerio Público y personal al que corresponda conocer de los procedimientos de extinción de dominio.
 
 Asimismo, el titular del Poder Ejecutivo del Estado, en el mismo plazo referido en el párrafo anterior, deberá proporcionar la capacitación técnica al personal de su adscripción que participe en los procedimientos de extinción de dominio.
 
@@ -788,3 +798,11 @@ Lic. Julio Cesar Pérez Rangel
 Oficial Mayor
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE NOVIEMBRE DE 2014.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que las previstas en la presente Ley, que se opongan a la misma.
