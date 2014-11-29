@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-sistema-de-seguridad-ciudadana-del-estado-de-102265"
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-30"
-last_updated: "2014-08-30"
+last_updated: "2014-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DEL SISTEMA DE SEGURIDAD CIUDADANA DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 30 de agosto de 2014.
 
@@ -99,77 +99,153 @@ VII. Centro Estatal de Evaluación y Control de Confianza: El organismo, entidad
 
 VIII. Centro Estatal de Prevención Social: En adelante Centro Estatal, la instancia de gobierno, con participación social, especializada en materia de prevención de la violencia, la delincuencia, conductas antisociales y faltas administrativas, que promueve y coordina a diversas instancias de gobierno y el sector social para que coadyuven al combate de los factores que vulneran la seguridad de las personas, con acciones de carácter transversal que refuercen el vínculo sociedad autoridad y erradiquen las causas generadoras de la inseguridad humana en una permanente interrelación;
 
-IX. Comisión: Encargo que se hace a una o varias personas para realizar una actividad determinada;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-X. Comisión de Carrera Policial: Órgano colegiado responsable de planear, coordinar, dirigir y supervisar la carrera policial;
+IX. Código Nacional: Código Nacional de Procedimientos Penales;
 
-XI. Consejo de Honor y Justicia: Órgano colegiado o su similar, en términos de las disposiciones reglamentarias aplicables para cada corporación, que tiene por objeto sustanciar los procedimientos relativos al régimen disciplinario policial en su etapa de enjuiciamiento;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XII. Consejo Estatal de Seguridad: En adelante el Consejo Estatal, es el órgano colegiado que constituye la instancia superior de coordinación del Sistema de Seguridad Ciudadana del Estado de Querétaro;
+X. Comisión: Encargo que se hace a una o varias personas para realizar una actividad determinada;
 
-XIII. Corporación: Dependencia estatal o municipal que desempeñe funciones policiales, así como las de tránsito o vialidad;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XIV. C.U.I.P.: Clave Única de Identificación Permanente;
+XI. Comisión de Carrera Policial: Órgano colegiado responsable de planear, coordinar, dirigir y supervisar la carrera policial;
 
-XV. Desarrollo policial: El conjunto integral de reglas y procesos debidamente estructurados y enlazados entre sí, que comprenden la Carrera Policial, los esquemas de profesionalización, la certificación y el régimen disciplinario de los policías de carrera adscritos a las corporaciones; y tiene por objeto garantizar el desarrollo institucional, la estabilidad, la seguridad y la igualdad de oportunidades de los mismos, elevar la profesionalización, fomentar la vocación de servicio y el sentido de pertenencia, así como garantizar el cumplimiento de los principios y valores rectores que rigen la función policial;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XVI. Grado: Nivel escalafonario dentro de la carrera policial; sólo se otorga por concurso;
+XII. Consejo de Honor y Justicia: Órgano colegiado o su similar, en términos de las disposiciones reglamentarias aplicables para cada corporación, que tiene por objeto sustanciar los procedimientos relativos al régimen disciplinario policial en su etapa de enjuiciamiento;
 
-XVII. Habilitación: Permiso expedido por la Secretaría de Seguridad Ciudadana del Estado de Querétaro, para que una persona física pueda emplearse con prestadores de servicios de seguridad privada o los ofrezca directamente y no autoriza la portación de armas de fuego;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XVIII. Instituciones de Seguridad Pública: Las Instituciones Policiales, de Procuración de Justicia, del Sistema Penitenciario y dependencias encargadas de la Seguridad Pública a nivel federal, estatal y municipal;
+XIII. Consejo Estatal de Seguridad: En adelante el Consejo Estatal, es el órgano colegiado que constituye la instancia superior de coordinación del Sistema de Seguridad Ciudadana del Estado de Querétaro;
 
-XIX. Licencia Oficial Colectiva: Permiso otorgado por la Secretaría de la Defensa Nacional para portar armas de fuego;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XX. Mando: Autoridad ejercida por un superior jerárquico de la corporación, en servicio activo, sobre el personal que se encuentre subordinado a él, en razón de su cargo o comisión;
+XIV. Corporación: Dependencia estatal o municipal que desempeñe funciones policiales, así como las de tránsito o vialidad;
 
-XXI. Modalidad: Conjunto de actividades de seguridad privada que, clasificadas por su especialidad, pueden autorizarse a las empresas y al personal de seguridad privada;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XXII. Orden general: Instrucción policial de alcance general que obra materializada en un documento escrito, dirigido al personal operativo de la corporación en su conjunto o a una parte de sus miembros, mediante la cual se establecen y ordenan políticas y procedimientos obligatorios que regulan la actuación policial, pudiéndose designar como instructivos, directrices o denominación análoga, con estricto apego a los protocolos de actuación;
+XV. C.U.I.P.: Clave Única de Identificación Permanente;
 
-XXIII. Orden particular: La instrucción policial escrita o verbalmente expresada, que se dirige a una persona o grupo determinado de personas dentro de la corporación, estableciendo mandamientos puntuales para casos determinados en modo, tiempo o lugar, pudiendo establecer, asimismo, políticas y procedimientos de alcance general, pero exclusivamente vinculantes para el destinatario;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XXIV. Participación de la comunidad: La intervención de la sociedad civil, tenga o no estructura organizativa, en apoyo a las autoridades, en acciones de prevención de la violencia, la delincuencia, conductas antisociales y faltas administrativas, cultura de la legalidad y la denuncia, que coadyuvará, entre otros, en los procesos de evaluación de las políticas de atención y prevención, así como de las instituciones de seguridad;
+XVI. Desarrollo policial: El conjunto integral de reglas y procesos debidamente estructurados y enlazados entre sí, que comprenden la Carrera Policial, los esquemas de profesionalización, la certificación y el régimen disciplinario de los policías de carrera adscritos a las corporaciones; y tiene por objeto garantizar el desarrollo institucional, la estabilidad, la seguridad y la igualdad de oportunidades de los mismos, elevar la profesionalización, fomentar la vocación de servicio y el sentido de pertenencia, así como garantizar el cumplimiento de los principios y valores rectores que rigen la función policial;
 
-XXV. Personal de seguridad privada: Personas físicas dedicadas a la prestación de ese servicio, en forma independiente o como empleados u operarios, bajo cualquier vínculo jurídico y que requieren para ello de habilitación;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XXVI. Personal sin carrera policial: Personas contratadas para realizar funciones de carácter administrativo sin nombramiento como policía;
+XVII. Grado: Nivel escalafonario dentro de la Carrera Policial; sólo se otorga por concurso;
 
-XXVII. Policía de Seguridad y Custodia Penitenciaria: Quien, con independencia de su denominación, tiene como misión vigilar el orden y la seguridad en el interior e inmediaciones de los centros de reinserción social estatales; impedir que los procesados y sentenciados se sustraigan de la acción de la justicia y proveer los apoyos que las autoridades judiciales y ministeriales requieran para el debido cumplimiento de sus resoluciones;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XXVIII. Policía o personal operativo: Quien realiza las funciones de prevención de la violencia, la delincuencia, conductas antisociales y faltas administrativas, así como de tránsito y vialidad, y cumple con los requisitos de ingreso y permanencia que esta Ley y los demás ordenamientos aplicables establecen;
+XVIII. Habilitación: Permiso expedido por la Secretaría de Seguridad Ciudadana del Estado de Querétaro, para que una persona física pueda emplearse con prestadores de servicios de seguridad privada o los ofrezca directamente y no autoriza la portación de armas de fuego;
 
-XXIX. Principios de la función policial: La legalidad, objetividad, eficiencia, profesionalismo, honradez, imparcialidad, solidaridad, lealtad y respeto a los derechos humanos;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XXX. Policía Procesal: Aquella a la que corresponda coadyuvar con las autoridades jurisdiccionales, garantizando el mantenimiento del orden y la seguridad en las audiencias y diligencias que ordenen los jueces de control y de juicio;
+XIX. Instituciones de Seguridad Pública: Las Instituciones Policiales, de Procuración de Justicia, del Sistema Penitenciario y dependencias encargadas de la Seguridad Pública a nivel federal, estatal y municipal;
 
-XXXI. Profesionalización: Proceso de formación, permanente y progresivo, que se integra por las etapas de formación inicial, actualización, promoción, especialización y alta dirección, para desarrollar al máximo las competencias, capacidades y habilidades de los integrantes de las Instituciones policiales;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XXXII. Protocolo de actuación: Instrucción policial de alcance general que obra en documento escrito, dirigida al personal operativo de la corporación, en la cual se establecen procedimientos obligatorios para regular la actuación policial;
+XX. Licencia Oficial Colectiva: Permiso otorgado por la Secretaría de la Defensa Nacional para portar armas de fuego;
 
-XXXIII. Registro de personal: El registro de personal de las instituciones de seguridad pública y privada;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XXXIV. Registro Estatal: Las bases de datos estatales y la información contenida en ellas, en materia de detenciones, información criminal, personal de seguridad pública, servicios de seguridad privada, armamento y equipo, registros biométricos, y las demás necesarias para la operación del Sistema de Seguridad Ciudadana del Estado de Querétaro;
+XXI. Mando: Autoridad ejercida por un superior jerárquico de la corporación, en servicio activo, sobre el personal que se encuentre subordinado a él, en razón de su cargo o comisión;
 
-XXXV. Secretaría: La Secretaría de Seguridad Ciudadana del Estado de Querétaro;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XXXVI. Seguridad Ciudadana: Modelo de organización y enfoque rector de la gestión de la política securitaria, que implica una alianza entre los ciudadanos y la policía para alcanzar, bajo un principio de coparticipación, un clima sostenible de seguridad en democracia, favoreciendo una cultura de promoción de la paz y la cooperación en beneficio de las personas y los grupos sociales, la prevención de todas las formas de violencia, la solución pacífica de los conflictos, la justicia restaurativa y el respeto a los derechos humanos, como un valor intrínseco de la comunidad, a partir de la concurrencia de los individuos y la policía, autoridades no policiales, organismos públicos no gubernamentales, organizaciones intermedias u otras formas asociativas de participación ciudadana;
+XXII. Modalidad: Conjunto de actividades de seguridad privada que, clasificadas por su especialidad, pueden autorizarse a las empresas y al personal de seguridad privada;
 
-XXXVII. Seguridad Humana: Derecho de las personas a vivir en libertad, con dignidad y seguridad, a disponer de iguales oportunidades para disfrutar de todos sus derechos y a desarrollar plenamente su potencial humano;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XXXVIII. Seguridad Privada: Servicios de naturaleza privada, que por razones de orden e interés público quedan sujetos al régimen administrativo de autorización y habilitación, consistentes en la prestación de servicios de seguridad, protección, vigilancia o custodia de personas, lugares o establecimientos, de bienes o valores y similares, incluido su traslado, a cargo de particulares;
+XXIII. Orden general: Instrucción policial de alcance general que obra materializada en un documento escrito, dirigido al personal operativo de la corporación en su conjunto o a una parte de sus miembros, mediante la cual se establecen y ordenan políticas y procedimientos obligatorios que regulan la actuación policial, pudiéndose designar como instructivos, directrices o denominación análoga, con estricto apego a los protocolos de actuación;
 
-XXXIX. Seguridad Pública: Función a cargo de la Federación, el Distrito Federal, los Estados y los Municipios, que tiene como fines salvaguardar la integridad y derechos de las personas, así como preservar las libertades, el orden y la paz públicos; comprende la prevención especial y general de los delitos, la investigación para hacerla efectiva, la sanción de las infracciones administrativas, la investigación y la persecución de los delitos, así como el tratamiento de los menores en conflicto con la ley penal y la reinserción social del sentenciado;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XL. Servicio: Actividad específica dentro del trabajo policial que es asignada a cada policía, ya sea temporal o permanentemente, dependiendo de las necesidades operativas de la corporación;
+XXIV. Orden particular: La instrucción policial escrita o verbalmente expresada, que se dirige a una persona o grupo determinado de personas dentro de la corporación, estableciendo mandamientos puntuales para casos determinados en modo, tiempo o lugar, pudiendo establecer, asimismo, políticas y procedimientos de alcance general, pero exclusivamente vinculantes para el destinatario;
 
-XLI. Unidad de Asuntos Internos: Instancia que, bajo cualquier denominación y conforme lo establezcan las disposiciones reglamentarias aplicables en cada corporación, se encuentre a cargo del régimen disciplinario en su etapa de investigación y acusación ante el Consejo de Honor y Justicia;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XLII. Víctima: Persona física que directa o indirectamente ha sufrido daño o el menoscabo de sus derechos producto de una violación de derechos humanos o de la comisión de un delito;
+XXV. Participación de la comunidad: La intervención de la sociedad civil, tenga o no estructura organizativa, en apoyo a las autoridades, en acciones de prevención de la violencia, la delincuencia, conductas antisociales y faltas administrativas, cultura de la legalidad y la denuncia, que coadyuvará, entre otros, en los procesos de evaluación de las políticas de atención y prevención, así como de las instituciones de seguridad;
 
-XLIII. Víctima potencial: Las personas físicas cuya integridad física o derechos peligren por prestar asistencia a la víctima, ya sea por impedir o detener la violación de derechos o la comisión de un delito; y
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XLIV. Violación de derechos humanos: Todo acto u omisión que afecte los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos o en los Tratados Internacionales, cuando el agente sea servidor público en el ejercicio de sus funciones o atribuciones o un particular que ejerza funciones públicas. También se considera violación de derechos humanos cuando la acción u omisión referida sea realizada por un particular instigado o autorizado, explícita o implícitamente por un servidor público o cuando actúe con aquiescencia o colaboración de un servidor público.
+XXVI. Personal de seguridad privada: Personas físicas dedicadas a la prestación de ese servicio, en forma independiente o como empleados u operarios, bajo cualquier vínculo jurídico y que requieren para ello de habilitación;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XXVII. Personal sin carrera policial: Personas contratadas para realizar funciones de carácter administrativo sin nombramiento como policía;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XXVIII. Policía de Seguridad y Custodia Penitenciaria: Quien, con independencia de su denominación, tiene como misión vigilar el orden y la seguridad en el interior e inmediaciones de los centros de reinserción social estatales; impedir que los procesados y sentenciados se sustraigan de la acción de la justicia y proveer los apoyos que las autoridades judiciales y ministeriales requieran para el debido cumplimiento de sus resoluciones;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XXIX. Policía o personal operativo: Quien realiza las funciones de prevención de la violencia, la delincuencia, conductas antisociales y faltas administrativas, así como de tránsito y vialidad, y cumple con los requisitos de ingreso y permanencia que esta Ley y los demás ordenamientos aplicables establecen;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XXX. Principios de la función policial: La legalidad, objetividad, eficiencia, profesionalismo, honradez, imparcialidad, solidaridad, lealtad y respeto a los derechos humanos;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XXXI. Policía Procesal: Aquella a la que corresponda coadyuvar con las autoridades jurisdiccionales, garantizando el mantenimiento del orden y la seguridad en las audiencias y diligencias que ordenen los jueces de control y de juicio;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XXXII. Profesionalización: Proceso de formación, permanente y progresivo, que se integra por las etapas de formación inicial, actualización, promoción, especialización y alta dirección, para desarrollar al máximo las competencias, capacidades y habilidades de los integrantes de las Instituciones policiales;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XXXIII. Protocolo de actuación: Instrucción policial de alcance general que obra en documento escrito, dirigida al personal operativo de la corporación, en la cual se establecen procedimientos obligatorios para regular la actuación policial;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XXXIV. Registro de personal: El registro de personal de las instituciones de seguridad pública y privada;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XXXV. Registro Estatal: Las bases de datos estatales y la información contenida en ellas, en materia de detenciones, información criminal, personal de seguridad pública, servicios de seguridad privada, armamento y equipo, registros biométricos, y las demás necesarias para la operación del Sistema de Seguridad Ciudadana del Estado de Querétaro;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XXXVI. Secretaría: La Secretaría de Seguridad Ciudadana del Estado de Querétaro;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XXXVII. Seguridad Ciudadana: Modelo de organización y enfoque rector de la gestión de la política securitaria, que implica una alianza entre los ciudadanos y la policía para alcanzar, bajo un principio de coparticipación, un clima sostenible de seguridad en democracia, favoreciendo una cultura de promoción de la paz y la cooperación en beneficio de las personas y los grupos sociales, la prevención de todas las formas de violencia, la solución pacífica de los conflictos, la justicia restaurativa y el respeto a los derechos humanos, como un valor intrínseco de la comunidad, a partir de la concurrencia de los individuos y la policía, autoridades no policiales, organismos públicos no gubernamentales, organizaciones intermedias u otras formas asociativas de participación ciudadana;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XXXVIII. Seguridad Humana: Derecho de las personas a vivir en libertad, con dignidad y seguridad, a disponer de iguales oportunidades para disfrutar de todos sus derechos y a desarrollar plenamente su potencial humano;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XXXIX. Seguridad Privada: Servicios de naturaleza privada, que por razones de orden e interés público quedan sujetos al régimen administrativo de autorización y habilitación, consistentes en la prestación de servicios de seguridad, protección, vigilancia o custodia de personas, lugares o establecimientos, de bienes o valores y similares, incluido su traslado, a cargo de particulares;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XL. Seguridad Pública: Función a cargo de la Federación, el Distrito Federal, los Estados y los Municipios, que tiene como fines salvaguardar la integridad y derechos de las personas, así como preservar las libertades, el orden y la paz públicos; comprende la prevención especial y general de los delitos, la investigación para hacerla efectiva, la sanción de las infracciones administrativas, la investigación y la persecución de los delitos, así como el tratamiento de los menores en conflicto con la ley penal y la reinserción social del sentenciado;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XLI. Servicio: Actividad específica dentro del trabajo policial que es asignada a cada policía, ya sea temporal o permanentemente, dependiendo de las necesidades operativas de la corporación;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XLII. Unidad de Asuntos Internos: Instancia que, bajo cualquier denominación y conforme lo establezcan las disposiciones reglamentarias aplicables en cada corporación, se encuentre a cargo del régimen disciplinario en su etapa de investigación y acusación ante el Consejo de Honor y Justicia;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XLIII. Víctima: Persona física que directa o indirectamente ha sufrido daño o el menoscabo de sus derechos producto de una violación de derechos humanos o de la comisión de un delito;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XLIV. Víctima potencial: Las personas físicas cuya integridad física o derechos peligren por prestar asistencia a la víctima, ya sea por impedir o detener la violación de derechos o la comisión de un delito; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XLV. Violación de derechos humanos: Todo acto u omisión que afecte los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos o en los Tratados Internacionales, cuando el agente sea servidor público en el ejercicio de sus funciones o atribuciones o un particular que ejerza funciones públicas. También se considera violación de derechos humanos cuando la acción u omisión referida sea realizada por un particular instigado o autorizado, explícita o implícitamente por un servidor público o cuando actúe con aquiescencia o colaboración de un servidor público.
 
 ## Título Segundo. De las autoridades estatales, municipales y sus auxiliares en materia de seguridad
 
@@ -519,7 +595,9 @@ IV. Vigilar el tránsito de vehículos y peatones en las calles, caminos y área
 
 V. Cumplir y hacer cumplir esta Ley, sus disposiciones reglamentarias y demás ordenamientos relativos a la seguridad;
 
-VI. Realizar operativos de vigilancia y detener en flagrancia al indiciado, poniéndolo a disposición de la autoridad competente en forma inmediata, así como cualquier objeto relacionado con el hecho;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+VI. Realizar operativos de vigilancia y detener en flagrancia al imputado, poniéndolo a disposición de la autoridad competente en forma inmediata, así como cualquier objeto relacionado con el hecho;
 
 VII. Prestar apoyo a los órganos jurisdiccionales, administrativos y electorales, cuando así lo requieran, para el debido ejercicio de sus funciones;
 
@@ -1477,11 +1555,13 @@ Se integrará una base estatal de datos en la que se registrará la información
 
 Esta base estatal de datos se actualizará permanentemente y se integrará con la información que aporten las instituciones de seguridad pública, que coadyuve a salvaguardar la integridad y derechos de las personas, así como preservar las libertades, el orden y la paz públicos, mediante la prevención, persecución y sanción de las infracciones y delitos, así como la reinserción social y tratamiento de menores infractores. Contendrá información individual y estadística, relativa a las conductas delictivas, investigaciones, averiguaciones previas, órdenes de detención o aprehensión, medidas cautelares, sentencias, ejecución de penas y medidas de seguridad, incluyendo datos sobre reincidencia.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 104.
 
-Esta información servirá para analizar la incidencia del delito y planear estrategias para garantizar la seguridad, además de evaluar y reorientar el Sistema Estatal, pero también para auxiliar al órgano encargado de la función persecutoria en la identificación de la persona imputada y al Poder Judicial, en la individualización de la pena o la determinación de la reincidencia del sujeto, en su caso.
+Esta información servirá para analizar la incidencia del delito y planear estrategias para garantizar la seguridad, además de evaluar y reorientar el Sistema Estatal, pero también para auxiliar al órgano encargado de la función persecutoria en la identificación de la persona imputada y al Poder Judicial, en la individualización de la pena o la determinación de la reincidencia del sujeto, en su caso y dar seguimiento al cumplimiento de medidas cautelares distintas a la prisión preventiva, de conformidad con las disposiciones aplicables del Código Nacional.
 
-Dicha información se dará de baja de la base de datos, por resoluciones de no ejercicio de la acción penal, sobreseimiento, sentencias absolutorias o indulto necesario, en su caso, trasmitiendo al Sistema Único de Información Criminal todos los datos que requiera para identificar a los infractores, indiciados, procesados o sentenciados.
+Dicha información se dará de baja de la base de datos, por resoluciones de no ejercicio de la acción penal, sobreseimiento, sentencias absolutorias o indulto necesario, en su caso, trasmitiendo al Sistema Único de Información Criminal todos los datos que requiera para identificar a los infractores, imputados, procesados o sentenciados.
 
 ###### Artículo 105.
 
@@ -1573,7 +1653,9 @@ I. Averiguaciones previas o carpetas de investigación iniciadas, especificando 
 
 II. La emisión, cancelación y ejecución de penas y medidas de seguridad, órdenes de aprehensión o de comparecencia u otros mandamientos análogos. Dicha información se registrará como “no disponible” en la base de datos por resoluciones de libertad, por desvanecimiento de datos o falta de elementos para procesar, así como por sentencias absolutorias. Las órdenes de presentación o aprehensión, sólo se notificarán cuando sean ejecutadas, procurando lo pertinente para que no se ponga en riesgo la investigación o la causa procesal respectiva;
 
-III. La información individual de las personas señaladas como probables responsables de delitos, indiciados, procesados y sentenciados, en el que se incluyan, entre otros, sus datos generales, perfiles criminológicos, medios de identificación, recursos, modos de operación, reincidencia, penalidad y tiempo compurgado en su caso, además de la ficha de identificación personal de cada interno, su fotografía y estudios técnicos interdisciplinarios. Con los insumos de estos registros se mantendrán actualizadas las bases de datos en materia victimológica, penitenciaria y de violencia de género;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+III. La información individual de las personas señaladas como probables responsables de delitos, imputados, procesados, acusados y sentenciados, en el que se incluyan, entre otros, sus datos generales, perfiles criminológicos, medios de identificación, recursos, modos de operación, reincidencia, penalidad y tiempo compurgado en su caso, además de la ficha de identificación personal de cada interno, su fotografía y estudios técnicos interdisciplinarios. Con los insumos de estos registros se mantendrán actualizadas las bases de datos en materia victimológica, penitenciaria y de violencia de género;
 
 IV. Las estimaciones, técnica y científicamente sustentadas, que permitan calcular las cifras de casos violentos y delitos no denunciados, así como las encuestas, sondeos e investigaciones sobre percepción social en temas de seguridad;
 
@@ -1723,15 +1805,19 @@ La Secretaría de Seguridad Ciudadana auxiliará a los Presidentes Municipales, 
 
 #### Sección Primera. De las obligaciones de los Policías
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 125.
 
-Los policías estatales y municipales sujetarán su actuación a los principios y valores rectores de la función policial; cumpliendo en todo momento con los deberes y obligaciones que se establecen en la presente Ley y los siguientes:
+Los policías estatales y municipales sujetarán su actuación a los principios y valores rectores de la función policial; cumpliendo en todo momento con los deberes y obligaciones que se establecen en la presente Ley, entre las que se encuentran los siguientes:
 
 I. Conducirse siempre con dedicación y disciplina, apego al orden jurídico y respeto a las garantías y derechos humanos;
 
 II. Abstenerse en todo momento y bajo cualquier circunstancia, de infligir, tolerar, encubrir o permitir actos de tortura u otros tratos o sanciones crueles, inhumanos o degradantes, aún cuando se trate de una orden superior o se argumenten circunstancias especiales, tales como amenaza a la seguridad de las personas o cualquier otra; al conocimiento de ello, lo denunciarán inmediatamente ante la autoridad competente;
 
-III. Prestar auxilio a las personas amenazadas por algún peligro o que hayan sido víctimas de delito, así como brindar protección a sus bienes y derechos. Su actuación será congruente, oportuna y proporcional al hecho;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+III. Prestar auxilio a las personas amenazadas por algún peligro o que hayan sido víctimas de delito, así como brindar protección a sus bienes y derechos, impidiendo que se consumen los delitos o que los hechos produzcan consecuencias ulteriores, realizando todos los actos necesarios para evitar una agresión real, actual o inminente y sin derecho, en protección de sus bienes jurídicos. Su actuación será congruente, oportuna y proporcional al hecho;
 
 IV. Observar un trato respetuoso con todas las personas, debiendo abstenerse de todo acto arbitrario y de limitar indebidamente las acciones o manifestaciones que, en ejercicio de sus derechos constitucionales y con carácter pacífico, realice la población;
 
@@ -1741,59 +1827,121 @@ VI. Desempeñar su servicio sin solicitar ni aceptar compensaciones, pagos o gra
 
 VII. Abstenerse de realizar la detención de persona alguna, sin cumplir con los requisitos constitucionales y legales aplicables;
 
-VIII. Velar por la vida e integridad física de las personas detenidas, en tanto se ponen a disposición de la autoridad competente;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-IX. Obedecer las órdenes de los superiores jerárquicos, excepto cuando éstas resulten notoriamente ilegales, así como desempeñar debidamente las comisiones conferidas relacionadas con su servicio;
+VIII. Hacer saber a los detenidos los derechos que a su favor otorga la Constitución Política de los Estados Unidos Mexicanos;
 
-X. Preservar el secreto de los códigos, claves, contraseñas y medios operativos de comunicación e identificación de la corporación a que pertenecen, así como de los asuntos que por razón del desempeño de su función conozcan, con las excepciones que determinen las leyes;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XI. Utilizar los medios disuasivos a su alcance, antes de recurrir al uso de la fuerza;
+IX. Identificar y entrevistar a las personas que pudieran aportar algún dato o elemento para la investigación, con pleno respeto de sus derechos, documentando la información que éste le proporcione;
 
-XII. Utilizar la fuerza pública de manera racional, congruente, oportuna y con respeto a los derechos humanos, ajustándose a los protocolos y disposiciones administrativas que al efecto se (sic) establezcan las corporaciones;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XIII. Someterse, en el momento en que sean requeridos, a los exámenes médicos, psicológicos y sobre consumo de bebidas embriagantes, enervantes, estupefacientes o sustancias psicotrópicas que determine cada corporación o el Consejo Estatal;
+X. Velar por la vida e integridad física de las personas detenidas, en tanto se ponen a disposición de la autoridad competente;
 
-XIV. Formular y presentar en forma veraz, completa y oportuna, los partes informativos, informes, remisiones, bitácoras, roles de servicio, estados de fuerza y demás documentos relacionados con el servicio;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XV. Usar en forma debida y cuidar el equipo que le sea proporcionado para el correcto desempeño de su servicio, destinándolo exclusivamente al cumplimiento de sus funciones y hacer entrega inmediata de él al separarse del servicio, ya sea en forma temporal o definitiva;
+XI. Obedecer las órdenes de los superiores jerárquicos, excepto cuando éstas resulten notoriamente ilegales, así como desempeñar debidamente las comisiones conferidas relacionadas con su servicio;
 
-XVI. Portar solamente las armas de cargo que les hayan sido autorizadas y asignadas en su horario de servicio;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XVII. Portar siempre, durante su servicio, la credencial e insignias oficiales que lo acredite como miembro de una corporación de Policía;
+XII. Preservar el secreto de los códigos, claves, contraseñas y medios operativos de comunicación e identificación de la corporación a que pertenecen, así como de los asuntos que por razón del desempeño de su función conozcan, con las excepciones que determinen las leyes;
 
-XVIII. Abstenerse de consumir sustancias tóxicas, estupefacientes, psicotrópicos, sustancias volátiles inhalables o cualquiera otra sustancia prohibida que produzca efectos análogos;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XIX. Presentar documentos personales fidedignos, desde su ingreso y en todos los actos de la carrera policial; o bien, para obtener una prestación económica o en especie, derivada de su relación administrativa con el Estado;
+XIII. Utilizar los medios disuasivos a su alcance, antes de recurrir al uso de la fuerza;
 
-XX. Abstenerse de imputar hechos falsos a sus superiores jerárquicos, a sus iguales o a sus subordinados;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XXI. Abstenerse de faltar o abandonar su servicio sin causa o motivo justificado o la autorización correspondiente;
+XIV. Utilizar la fuerza pública de manera racional, congruente, oportuna y con respeto a los derechos humanos, ajustándose a los protocolos y disposiciones administrativas que al efecto establezcan las corporaciones;
 
-XXII. Asistir puntualmente al desempeño del servicio, comisión, entrenamientos o instrucción que se imparta, en los horarios establecidos por la corporación para tal efecto;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XXIII. Abstenerse de realizar actos, en lo individual o conjuntamente, que vulneren la disciplina de manera tal, que afecte la correcta prestación de su servicio o desconozca la autoridad de sus superiores;
+XV. Someterse, en el momento en que sean requeridos, a los exámenes médicos, psicológicos y sobre consumo de bebidas embriagantes, enervantes, estupefacientes o sustancias psicotrópicas que determine cada corporación o el Consejo Estatal;
 
-XXIV. Observar las normas de disciplina y orden que establezcan las disposiciones reglamentarias y administrativas internas de cada una de las corporaciones;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XXV. Abstenerse de impedir por cualquier medio, por sí o por interpósita persona, la formulación de quejas o denuncias; así como de omitir o realizar conductas que lesionen los intereses de los quejosos o denunciantes;
+XVI. Formular y presentar en forma veraz, completa y oportuna, los partes informativos, informes, remisiones, bitácoras, roles de servicio, estados de fuerza y demás documentos relacionados con el servicio;
 
-XXVI. Entregar sin demora, a la autoridad correspondiente, todo objeto, documento o valor que se asegure o retenga en el desempeño de la función;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XXVII. Cumplir en tiempo y forma con los requisitos de promoción que establezca la presente Ley y los ordenamientos respectivos, para permanecer en la carrera policial;
+XVII. Usar en forma debida y cuidar el equipo que le sea proporcionado para el correcto desempeño de su servicio, destinándolo exclusivamente al cumplimiento de sus funciones y hacer entrega inmediata de él al separarse del servicio, ya sea en forma temporal o definitiva;
 
-XXVIII. Asistir a los cursos de capacitación, actualización y especialización a que sean convocados por sus superiores;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XXIX. Respetar las señales y demás dispositivos de tránsito;
+XVIII. Portar solamente las armas de cargo que les hayan sido autorizadas y asignadas en su horario de servicio;
 
-XXX. Tramitar de manera personal su inclusión o actualización en el Registro Nacional de Personal de Seguridad Pública ante el Consejo Estatal de Seguridad, en un plazo no mayor de quince días hábiles, contados a partir de su ingreso en la corporación;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XXXI. Cuando se tenga que detener a menores de edad, por la presunta comisión de delito o infracciones administrativas, se deberá ponerlos inmediatamente y sin demora a disposición del Ministerio Público o Juzgado Cívico, según corresponda, informándoles sobre los derechos que le garantizan los ordenamientos aplicables;
+XIX. Portar siempre, durante su servicio, la credencial e insignias oficiales que lo acredite como miembro de una corporación de Policía;
 
-XXXII. Auxiliar, de modo prioritario, a las personas menores de dieciocho años de edad que se encuentren amenazadas por algún peligro o que hayan sido víctimas de algún delito, así como brindar protección a sus bienes y derechos;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XXXIII. Vigilar las instalaciones estratégicas a las que hayan sido comisionados; y
+XX. Abstenerse de consumir sustancias tóxicas, estupefacientes, psicotrópicos, sustancias volátiles inhalables o cualquiera otra sustancia prohibida que produzca efectos análogos;
 
-XXXIV. Las demás que se establezcan en la presente Ley y demás ordenamientos que regulen la materia.
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XXI. Presentar documentos personales fidedignos, desde su ingreso y en todos los actos de la carrera policial; o bien, para obtener una prestación económica o en especie, derivada de su relación administrativa con el Estado;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XXII. Abstenerse de imputar hechos falsos a sus superiores jerárquicos, a sus iguales o a sus subordinados;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XXIII. Abstenerse de faltar o abandonar su servicio sin causa o motivo justificado o la autorización correspondiente;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XXIV. Asistir puntualmente al desempeño del servicio, comisión, entrenamientos o instrucción que se imparta, en los horarios establecidos por la corporación para tal efecto;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XXV. Abstenerse de realizar actos, en lo individual o conjuntamente, que vulneren la disciplina de manera tal, que afecte la correcta prestación de su servicio o desconozca la autoridad de sus superiores;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XXVI. Observar las normas de disciplina y orden que establezcan las disposiciones reglamentarias y administrativas internas de cada una de las corporaciones;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XXVII. Abstenerse de impedir por cualquier medio, por sí o por interpósita persona, la formulación de quejas o denuncias; así como de omitir o realizar conductas que lesionen los intereses de los quejosos o denunciantes;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XXVIII. Entregar sin demora, a la autoridad correspondiente, todo objeto, documento o valor que se asegure o retenga en el desempeño de la función;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XXIX. Cumplir en tiempo y forma con los requisitos de promoción que establezca la presente Ley y los ordenamientos respectivos, para permanecer en la carrera policial;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XXX. Asistir a los cursos de capacitación, actualización y especialización a que sean convocados por sus superiores;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XXXI. Respetar las señales y demás dispositivos de tránsito;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XXXII. Tramitar de manera personal su inclusión o actualización en el Registro Nacional de Personal de Seguridad Pública ante el Consejo Estatal de Seguridad, en un plazo no mayor de quince días hábiles, contados a partir de su ingreso en la corporación;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XXXIII. Cuando se tenga que detener a menores de edad, por la presunta comisión de delito o infracciones administrativas, se deberá ponerlos inmediatamente y sin demora a disposición del Ministerio Público o Juzgado Cívico, según corresponda, informándoles sobre los derechos que le garantizan los ordenamientos aplicables;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XXXIV. Auxiliar, de modo prioritario, a las personas menores de dieciocho años de edad que se encuentren amenazadas por algún peligro o que hayan sido víctimas de algún delito, así como brindar protección a sus bienes y derechos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XXXV. Vigilar las instalaciones estratégicas a las que hayan sido comisionados; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XXXVI. Las demás que se establezcan en la presente Ley, el Código Nacional y demás disposiciones legales aplicables.
 
 ###### Artículo 126.
 
@@ -1807,7 +1955,9 @@ III. Practicar las diligencias necesarias que permitan el esclarecimiento de los
 
 IV. Efectuar las detenciones en los casos de la comisión de delito en flagrancia;
 
-V. Participar en la investigación de los delitos, en la detención de personas y en el aseguramiento de bienes que el Ministerio Público considere se encuentren relacionados con los hechos delictivos, observando las disposiciones constitucionales y legales aplicables;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+V. Participar en la investigación de los delitos, en la detención de personas y en el aseguramiento de bienes que el Ministerio Público considere se encuentren relacionados con los hechos delictivos, observando las disposiciones constitucionales, las establecidas por el Código Nacional y demás disposiciones legales aplicables;
 
 VI. Registrar de inmediato la detención, en términos de las disposiciones aplicables, así como remitir sin demora y por cualquier medio la información al Ministerio Público;
 
@@ -1859,21 +2009,43 @@ XII. Proporcionar atención a víctimas, ofendidos o testigos del delito; para t
 
 1. Prestar protección y auxilio inmediato, de conformidad con las disposiciones legales aplicables.
 
-2. Procurar que reciban atención médica y psicológica cuando sea necesaria.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-3. Adoptar las medidas que se consideren necesarias tendientes a evitar que se ponga en peligro su integridad física y psicológica, en el ámbito de su competencia.
+2. Informar a la víctima u ofendido sobre los derechos que en su favor se establecen.
 
-4. Preservar los indicios y elementos de prueba que la víctima y ofendido aporten en el momento de la intervención policial y remitirlos de inmediato al Ministerio Público para que éste acuerde lo conducente.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-5. Asegurar que puedan llevar a cabo la identificación del imputado sin riesgo para ellos;
+3. Procurar que reciban atención médica y psicológica cuando sea necesaria.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+4. Adoptar las medidas que se consideren necesarias tendientes a evitar que se ponga en peligro su integridad física y psicológica, en el ámbito de su competencia.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+5. Preservar los indicios y elementos de prueba que la víctima y ofendido aporten en el momento de la intervención policial y remitirlos de inmediato al Ministerio Público para que éste acuerde lo conducente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+6. Brindar las medidas de seguridad necesarias, a efecto de garantizar que las víctimas u ofendidos o testigos del delito puedan llevar a cabo identificación del imputado, sin riesgo para ellos;
 
 XIII. Dar cumplimiento a las órdenes de aprehensión y demás mandatos ministeriales y jurisdiccionales de que tenga conocimiento con motivo de sus funciones;
 
-XIV. Preservar el orden de las salas de juicio penal en las audiencias respectivas, así como conducir y custodiar a los declarantes velando por su seguridad;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XV. Colaborar con las autoridades judiciales y administrativas en la ejecución de medidas de apremio; y
+XIV. Ejecutar las órdenes de comparecencia de acuerdo a lo establecido por el Código Nacional y demás disposiciones legales aplicables;
 
-XVI. Las demás que le confieran las disposiciones aplicables.
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XV. Preservar el orden de las salas de juicio penal en las audiencias respectivas, así como conducir y custodiar a los declarantes, velando por su seguridad;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XVI. Colaborar con las autoridades judiciales y administrativas en la ejecución de medidas de apremio; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XVII. Las demás que le confieran el Código Nacional y demás disposiciones legales aplicables.
 
 #### Sección Segunda. De los derechos de los Policías
 
@@ -2111,9 +2283,11 @@ XVI. Supervisar que los aspirantes se sujeten a los manuales de las academias; y
 
 XVII. Las demás que establezcan las disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 146.
 
-Cada corporación elaborará el programa del curso de formación inicial, que deberá ser aprobado por la Comisión de Carrera Policial, debiendo contener el sustento teórico-práctico en materia policial, de tránsito y de emergencias; el impulso al desarrollo profesional, humanístico, científico, técnico y cultural; el fomento al respeto de los derechos humanos, la autoestima y la reafirmación de la identidad nacional.
+Cada corporación elaborará el programa del curso de formación inicial, que deberá ser aprobado por la Comisión de Carrera Policial, debiendo contener el sustento teórico-práctico en materia policial, de tránsito y de emergencias; el impulso al desarrollo profesional, humanístico, científico, técnico y cultural; el fomento al respeto de los Derechos Humanos, la autoestima y la reafirmación de la identidad nacional. En este programa se deberá contemplar la capacitación en materia de justicia para adolescentes.
 
 ###### Artículo 147.
 
@@ -3386,3 +3560,11 @@ Capitán Adolfo Vega Montoto
 Secretario de Seguridad Ciudadana
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE NOVIEMBRE DE 2014.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
