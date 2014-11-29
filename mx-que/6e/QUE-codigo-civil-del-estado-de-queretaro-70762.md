@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-70762"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2014-07-04"
+last_updated: "2014-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 
@@ -1323,13 +1323,25 @@ El dominio de los bienes comunes reside en ambos cónyuges mientras subsista la 
 
 El socio administrador está obligado a solicitar la manifestación de voluntad de la otra parte, para ejecutar actos de dominio y constituir garantías reales sobre los bienes de la sociedad. En caso de controversia, el juez familiar resolverá oyendo a ambas partes.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 182.
 
-La sentencia que declare la ausencia de uno de los cónyuges, suspende la sociedad conyugal, pudiendo solicitar el otro la liquidación de la misma y recibir la parte que le corresponda, después de que se cubran las deudas sociales.
+La suspensión de la sociedad conyugal procede:
+
+I. Por separación de los cónyuges a causa de un hecho generador de una causal de divorcio necesario, el que tendrá que ser probado en la sentencia de divorcio. Los efectos de la sociedad conyugal cesarán, para el cónyuge culpable, en cuanto le favorezcan; éstos no podrán comenzar de nuevo sino por convenio expreso;
+
+II. La declaración de ausencia interrumpe la sociedad conyugal, y hace cesar para él, a partir de que cause ejecutoria la sentencia que así lo haya declarado y ésta quedará restaurada si el cónyuge ausente regresa o se probare su existencia.
+
+En el caso de ausencia declarada judicialmente o de incapacidad sobrevenida, sólo podrá comprometerse el fondo social mediante autorización judicial; y
+
+III. Cuando el divorcio se determine por lo establecido en el artículo 246 fracción XVII, los derechos se suspenderán a partir de la separación de los cónyuges y respecto de los bienes que se adquieran con posterioridad a la misma.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 183.
 
-El abandono injustificado por más de seis meses del domicilio conyugal por uno de los cónyuges, hace cesar para él, desde el día del abandono, los efectos de la sociedad conyugal en cuanto le favorezcan; éstos no podrán comenzar de nuevo sino por convenio expreso.
+En los casos de violencia familiar la suspensión de la sociedad conyugal y la cesación de derechos respecto a la misma, aplicará a partir del hecho generador de violencia.
 
 ###### Artículo 184.
 
@@ -7107,13 +7119,17 @@ IV. Falta de reciprocidad internacional;
 
 V. Utilidad pública;
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-VI. Renuncia o remoción de algún cargo conferido en el testamento; y
+VI. Renuncia o remoción de algún cargo conferido en el testamento;
 
-> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-VII. Por incumplimiento injustificado a sus obligaciones de proporcionar alimentos, declarada judicialmente por sentencia firme.
+VII. Por incumplimiento injustificado a sus obligaciones de proporcionar alimentos, declarada judicialmente por sentencia firme; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+VIII. Por Violencia familiar declarada judicialmente por sentencia firme.
 
 ###### Artículo 1207.
 
@@ -10153,7 +10169,7 @@ Si el que paga ignoraba, cuando lo hizo, la existencia del plazo, tendrá derech
 
 ###### Artículo 1844.
 
-El plazo se presume establecido en favor del deudor, a menos que resulte, de la estipulación y de las circunstancias, que ha sido establecido a favor del acreedor o de las dos partes.
+El plazo se presume establecido en favor del deudor, a menos que resulte, de la estipulación y de las circunstancias, que ha sido establecido en favor del acreedor o de las dos partes.
 
 ###### Artículo 1845.
 
@@ -15834,3 +15850,9 @@ P.O. 4 DE JULIO DE 2014.
 Artículo Primero. La Presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 29 DE NOVIEMBRE DE 2014.
+
+Artículo Primero. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente.
