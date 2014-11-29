@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2014-11-25"
+last_updated: "2014-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "JAL"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE ABRIL DE 2015 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -3928,11 +3930,9 @@ V. Abstenerse de denostar a la autoridad, de lo contrario quedará sujeto a la s
 
 VI. Señalar domicilio para recibir notificaciones en segunda instancia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE ABRIL DE 2014)</small>
-
-En materia familiar, cuando sea en beneficio de menores, o incapacitados, o personas con discapacidad, el Tribunal de Apelación deberá suplir la deficiencia de los conceptos de agravio expresados
+En materia familiar, cuando sea en beneficio de personas menores de edad, o incapaces, o personas con discapacidad, el Tribunal de Apelación deberá suplir la deficiencia de los conceptos de agravio expresados.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -4060,11 +4060,11 @@ II. Cuando se trate de autos que pongan fin a un juicio o procedimiento;
 
 III. En los demás casos en que expresamente lo determine la ley.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 441.
 
-La apelación admitida en ambos efectos, suspende desde luego el procedimiento y la ejecución de la sentencia o del auto, hasta que éstos causen ejecutoria y, entre tanto, sólo podrán dictarse resoluciones que se refieran a la administración custodia y conservación de bienes embargados o intervenidos judicialmente, así como custodia de menores e incapacitados y separación de personas, siempre que la apelación no verse sobre alguno de éstos puntos.
+La apelación admitida en ambos efectos, suspende desde luego el procedimiento y la ejecución de la sentencia o del auto, hasta que éstos causen ejecutoria y, entre tanto, sólo podrán dictarse resoluciones que se refieran a la administración custodia y conservación de bienes embargados o intervenidos judicialmente, así como custodia de personas menores de edad e incapaces y separación de personas, siempre que la apelación no verse sobre alguno de éstos puntos.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -6858,9 +6858,11 @@ Al promoverse el juicio sucesorio debe presentarse la partida de defunción del 
 
 Cuando con fundamento en la declaración de ausencia o de presunción de muerte de un ausente, se haya abierto sucesión, si durante la secuela del juicio se hace constar la fecha de la muerte, desde ella se entenderá abierta la sucesión y cesando en sus funciones el representante, se procederá al nombramiento del interventor o albacea con arreglo a derecho.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTICULO 825.
 
-En los juicios sucesorios en que haya herederos o legatarios menores e incapacitados, que no tuvieren representante legítimo, se procederá desde luego a designarlo con arreglo a derecho.
+En los juicios sucesorios en que haya herederos o legatarios que sean personas menores de edad e incapaces, que no tuvieren representante legítimo, se procederá desde luego a designarlo con arreglo a derecho.
 
 ###### ARTICULO 826.
 
@@ -6890,11 +6892,11 @@ III.- Los juicios que sigan los herederos deduciendo la acción de petición de 
 
 IV.- Las acciones de los legatarios reclamando sus legados, siempre que sean posteriores a la formación de los inventarios y anteriores a la adjudicación, exceptuando los legados de alimentos, de pensiones, de educación y de uso y habitación.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 831.
 
-En los juicios sucesorios el Agente de la Procuraduría Social representará a los herederos ausentes mientras no se presenten o no acrediten su representante legítimo, a los menores o incapacitados que no tengan representantes legítimos y a la beneficencia pública cuando no haya herederos legítimos dentro de los grados que fija la ley y mientras no se haga reconocimiento o declaración de herederos.
+En los juicios sucesorios el Agente de la Procuraduría Social representará a los herederos ausentes mientras no se presenten o no acrediten su representante legítimo, a las personas menores de edad o incapaces que no tengan representantes legítimos y a la beneficencia pública cuando no haya herederos legítimos dentro de los grados que fija la ley y mientras no se haga reconocimiento o declaración de herederos.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -6968,13 +6970,11 @@ La junta se verificará dentro de los ocho días siguientes a la citación, si l
 
 Si hubiere herederos cuyo domicilio se ignora, se les citará por medio de edictos que se mandarán publicar por diez días en el lugar del juicio, en los sitios de costumbre, en el último domicilio del finado o en el de nacimiento. Además, se mandará publicar por tres veces, de diez en diez días, en el Boletín Judicial o en el Periódico Oficial del Estado, así como en un diario de los de mayor circulación, a juicio del Juez.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTICULO 840.
 
-Si hubiere herederos menores o incapacitados que tengan tutor, se citará a éste para la junta.
-
-Si los herederos menores no tuvieren tutor, se les nombrará con arreglo a derecho.
-
-Respecto al declarado ausente se entenderá la citación con el que fuere su representante legítimo.
+Si hubiere personas herederas menores de edad o incapaces que tengan tutor, se citará a éste para la junta.
 
 ###### ARTICULO 841.
 
@@ -7782,9 +7782,9 @@ Los actos de jurisdicción voluntaria de que no se hiciere mención especial en 
 
 Los actos de que tratan los capítulos siguientes se sujetarán a las reglas que en ellos se establecen y a las contenidas en el presente, en cuanto no se opongan a lo establecido en sus respectivos capítulos.
 
-### CAPITULO III.
+### CAPITULO III.. De la Disposición de Bienes de Personas Menores de Edad, Incapaces y Ausentes y de la Transacción sobre sus Derechos
 
-De la Disposición de Bienes de Menores, Incapacitados y Ausentes y de la Transacción Sobre sus Derechos.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 965.
 
@@ -7810,15 +7810,21 @@ V. Por el Agente de la Procuraduría Social y los Consejos de Familia.
 
 Si a la petición de declaración de minoridad se acompaña la certificación del Registro Civil, se hará la declaración de plano. En caso contrario se citará a una audiencia que se verificará dentro del tercer día, a la que concurrirá el menor si fuere posible y el Agente de la Procuraduría Social; en ella, con o sin la asistencia de éste y por las certificaciones del Registro Civil si hasta este momento se presentaron, por el aspecto del menor y a falta de aquéllas o de la presencia de éste, por medio de información de testigos, se hará o denegará la declaración correspondiente.
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 967.
 
-La declaración de incapacidad por causa de enajenación psíquica, embriaguez habitual o toxicomanía, podrá pedirse:
+La declaración de interdicción o su modificación, podrá pedirse:
 
-I. Por el Cónyuge;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+I. Por el propio incapaz;
+
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2006)</small>
 
 II. Por los presuntos herederos legítimos;
+
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2006)</small>
 
 III. Por el ejecutor testamentario;
 
@@ -7826,47 +7832,125 @@ III. Por el ejecutor testamentario;
 
 IV. Por el Agente de la Procuraduría Social; y
 
-V. Por el Consejo de Familia.
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE JULIO DE 2011)</small>
+V. Por el Consejo de Familia;
 
-VI. Por aquel que tenga conocimiento de que existe un documento público de tutela voluntaria en donde se le designa como tutor.
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+VI. Por aquel que tenga conocimiento de que existe un documento público de tutela voluntaria en donde se le designa como tutor;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+VII. Por cualquiera que por disposición de ley tenga derecho a ejercer la tutela; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+VIII. Por sus parientes consanguíneos en línea recta sin limitación de grados, los colaterales dentro del cuarto grado y los afines dentro del segundo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+ARTICULO 967 BIS. Toda solicitud de declaratoria de estado de interdicción deberá presentarse conforme a lo siguiente:
+
+I. Si el que promueve es la persona interesada en ejercer la tutela podrá aceptar previamente su nombramiento, manifestando, bajo protesta de decir verdad que reúne los requisitos que el Código Civil exige para ser tutor y que no tiene impedimento legal para ejercer tal cargo.
+
+II. Se señalará el nombre y domicilio de los parientes de la persona de quien se pide la declaración a quienes pueda corresponder la tutela legítima.
+
+III. Señalar si la persona respecto de la cual se pide interdicción puede ser trasladada al juzgado
+
+IV. A la solicitud se acompañará:
+
+a) El diagnóstico y expediente clínicos;
+
+b) los medios de convicción que se estimen idóneos.
+
+Los documentos expedidos por instituciones públicas del sector salud no requerirán ratificación del médico tratante.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 968.
 
-En los casos del artículo anterior, presentada la solicitud de interdicción el tribunal proveerá auto para que, dentro de los tres días siguientes, sea reconocido el incapacitado por tres médicos que nombrará: la diligencia de reconocimiento se practicará en presencia del tribunal, del Agente de la Procuraduría Social y de la persona que solicitó la interdicción, levantándose acta en que conste el resultado.
+Para la declaratoria de interdicción de personas que no tiene aptitud de expresar su voluntad o están impedidos para entender y querer las consecuencias de sus actos, aunque tenga intervalos lúcidos, por causa de enfermedad congénita o adquirida antes de la mayoría de edad, se estará a lo siguiente:
+
+I. Presentada la demanda, si la solicitud cumple los requisitos del artículo 967 Bis, el Juez dictará auto de admisión en donde:
+
+a) Señalará fecha para audiencia dentro de los treinta días siguientes a la presentación, a la que comparecerán los promoventes, el agente de la Procuraduría Social, la persona respecto de la cual se pide la interdicción y el médico designado por el Juez;
+
+b) En caso de que la persona respecto de la cual se pide interdicción no pueda ser trasladada al juzgado, se autorizará el desahogo de la audiencia en el domicilio que en se encuentre ésta, en cuyo caso se podrán habilitar días y horas inhábiles; y
+
+c) Designará médico especialista para que realice la evaluación de la persona sobre la cual se pide la declaración y rinda su informe personalmente el día de la audiencia.
+
+II. En el desahogo de la audiencia a que hace referencia la fracción anterior, se estará a lo siguiente:
+
+a) La audiencia se practicará de manera personal por el Juez en presencia del Agente de la Procuraduría Social, la persona que solicitó la declaración de interdicción y la persona sobre la que se pide la interdicción.
+
+b) Abierta la audiencia, el Juez pondrá a la vista del médico especialista el diagnóstico y expediente clínicos del presunto incapaz, para que manifieste lo que corresponda;
+
+c) El agente de la Procuraduría Social, previa entrevista con la persona respecto de la cual se pide interdicción, manifestará al Juez lo que a la representación social corresponda;
+
+d) El Juez entrevistará a la persona respecto de la cual se pide interdicción a fin de cerciorarse del estado de salud física y mental en que se encuentra.
+
+Si hubiera oposición fundada, el Juez substanciará en la vía incidental, y escuchará al solicitante de la declaración. Si fuera desechado el incidente, continuará la audiencia.
+
+III. El Juez tomando en cuenta las actuaciones que obran en el expediente, dictará a (sic) sentencia dentro de los diez días siguientes a la celebración de la audiencia.
+
+En caso de que sea comprobada la incapacidad, en la sentencia se señalará lo siguiente:
+
+a) Se declara el estado de interdicción;
+
+b) De ser procedente, se decretará la patria potestad prorrogada;
+
+c) En su caso, se llamará al ejercicio de la tutela a las personas a quienes corresponda conforme a la ley, pudiendo exceptuarlas de prestar las garantías que exige para el cargo el Código Civil; y
+
+d) De ser procedente, establecerá los actos personalísimos que podrá realizar por sí mismo; y
+
+e) Mandará publicar por una única ocasión la sentencia en el periódico oficial El Estado de Jalisco.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 969.
 
-Si del dictamen pericial resultare comprobada la demencia o por lo menos duda fundada acerca de la incapacidad de la persona cuya interdicción se pide, el Tribunal dictará las siguientes medidas:
+Para la declaratoria de interdicción de personas que no tiene aptitud de expresar su voluntad o están impedidos para entender y querer las consecuencias de sus actos, aunque tenga intervalos lúcidos, por causas presentadas después de la mayoría de edad, se estará a lo siguiente:
 
-> <small>(REFORMADA, P.O. 30 DE JULIO DE 2011)</small>
+I. Presentada la solicitud el Juez dictará auto en el que señalará fecha para entrevistar al presunto incapaz, para evaluar de forma directa su diversidad funcional. Para tal efecto se asistirá con un perito. El presunto incapaz si así lo desea, podrá ser asistido por la persona de confianza que éste designe.
 
-I. Nombrará tutor y curador interinos, sujetándose a las disposiciones de este capítulo, pero sin que pueda ser nombrada la persona que haya promovido la interdicción, salvo que se encuentre en el supuesto comprendido en el artículo 967, fracción VI;
+Si de las constancias y entrevistas resultare comprobada o por lo menos existe duda fundada acerca de la incapacidad de la persona cuya interdicción se pide, el Tribunal dictará las siguientes medidas:
 
-> <small>(REFORMADA, P.O. 30 DE JULIO DE 2011)</small>
+a) Nombrará tutor y curador interinos, sujetándose a las disposiciones de este capítulo;
 
-II. Pondrá los bienes del presunto incapacitado bajo la administración del tutor interino, y los de la copropiedad, si los hubiere, bajo la administración de otro cónyuge, y
+b) Pondrá los bienes del presunto incapacitado bajo la administración del tutor interino, y los de copropiedad, si los hubiere; y
 
-III. Proveerá legalmente a la patria potestad o tutela de las personas que tuviere bajo su guarda el presunto incapacitado.
+c) Proveerá legalmente a la patria potestad o tutela de las personas que tuviere bajo su guarda el presunto incapacitado.
 
 Del auto en que se dicten esas providencias no procederá apelación sino en el efecto devolutivo.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 970.
 
-Dictadas las providencias que establece el artículo anterior y previo nuevo reconocimiento del presunto incapacitado, que deberá practicarse como se dispone en el artículo 968, dentro de un término que en ningún caso excederá de cuarenta días, el Juez citará a junta, en la cual, si estuvieren conformes el tutor y el Agente de la Procuraduría Social, dictará su resolución declarando o no el estado de interdicción, según el sentido en que hayan emitido su dictamen la mayoría de los peritos. Sí hubiere oposición, se substanciará el respectivo juicio ordinario entre el que pide la interdicción y el opositor u opositores. En el juicio será oído el presunto incapacitado si lo pidiere, y durante la tramitación subsistirán las medidas decretadas conforme al artículo 969.
+Dictada la providencia que establece el artículo anterior, el Juez, de oficio requerirá con cargo al promovente, la información que considere necesaria y al menos tres dictámenes de peritos de las instituciones que considere, ello para estar en aptitud de conocer la verdad material de la discapacidad y así poder fijar los límites a la capacidad de ejercicio, pudiendo ser éstos la mera asistencia o la guarda absoluta para el caso de que la persona incapaz no pueda gobernarse ni obligarse por sí mismo o manifestar su voluntad por algún medio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+ARTICULO 970 BIS. Vistos los documentos y dictámenes a que hace referencia el artículo anterior y antes de emitir el fallo, el Juez, deberá sostener hasta tres entrevistas con el presunto incapaz, en las que se abordarán diversos temas y servirán para evaluar de forma directa la diversidad funcional. El presunto incapaz, si así lo desea, podrá ser asistido por la persona de confianza que éste designe.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+ARTICULO 970 TER. Hecho lo anterior, dentro de un término que en ningún caso excederá de cuarenta días, el Juez citará a junta, en la cual, si estuvieren conformes el tutor interino, el Agente de la Procuraduría Social y el incapaz en caso de que pueda manifestar su voluntad por cualquier medio, dictará su resolución declarando o no el estado de interdicción, y en su caso, el grado de la misma, según el sentido que arrojen las constancias y dictámenes. Si hubiere oposición, su (sic) substanciará el respectivo juicio ordinario entre el que pide la interdicción y el opositor u opositores. En el juicio será oído el presunto incapacitado si lo pidiere, y durante la tramitación subsistirá la designación de tutor y curador interinos.
 
 ###### ARTICULO 971.
 
 En todo procedimiento para declarar la interdicción, se observarán las siguientes reglas:
 
-I.- Mientras no se pronuncie sentencia irrevocable, la tutela interina debe limitarse a los actos de mera protección a la persona y conservación de los bienes del incapacitado. Si ocurriere urgente necesidad de otros actos, el tutor interino podrá obrar prudentemente previa autorización judicial;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-II.- El estado de demencia puede probarse por testigos o documentos; pero en todo caso se requiere certificación de tres médicos, por lo menos, que nombrará el Juez, sin perjuicio de la prueba pericial que las partes promuevan. El tutor puede nombrar un médico para que tome parte en el reconocimiento o reconocimientos que se practiquen, y se oiga su dictamen;
+I. Mientras no se pronuncie sentencia irrevocable, la tutela interina debe limitarse a los actos de mera protección y conservación de los bienes de la persona que no pueda gobernarse ni obligarse por sí misma manifestar su voluntad por algún medio y, en caso de que la persona pueda manifestar su voluntad por cualquier medio, la tutela interina será de mera asistencia prevaleciendo siempre la voluntad del incapaz.
+
+Si ocurriere urgente necesidad de otros actos, el tutor interino podrá obrar prudentemente previa autorización judicial;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+II. La incapacidad para gobernarse u obligarse por sí misma o manifestar su voluntad por algún medio puede comprobarse por testigos o documentos; pero en todo caso se requiere certificación de tres dictámenes, sin perjuicio de la prueba pericial que las partes promuevan.
 
 > <small>(REFORMADA, P.O. 11 DE ENERO DE 1990)</small>
 
@@ -7874,31 +7958,25 @@ III.- El que promueva dolosamente la interdicción incurrirá en las penas que l
 
 IV.- Luego que cause ejecutoria la sentencia de interdicción, el Juez llamará al ejercicio de la tutela a las personas a quienes corresponda conforme a la ley, o hará el nombramiento de tutor en los casos que para ello esté legalmente facultado. Cuando el cargo de tutor definitivo deba recaer en el tutor interino, bastará confirmar el nombramiento anterior; lo mismo se observará para el nombramiento de curador definitivo.
 
-> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2011)</small>
-
 ###### ARTICULO 971
 
-Bis. En todo procedimiento emanado de un documento público en donde se establezca la tutela voluntaria, para declarar la interdicción se observarán las siguientes reglas:
+BIS. (DEROGADO, P.O. 29 DE NOVIEMBRE DE 2014)
 
-I. Mientras no se pronuncie sentencia irrevocable, la tutela interina debe limitarse a los actos de mera protección a la persona y conservación de los bienes del incapacitado. Si ocurriere urgente necesidad de otros actos, el tutor interino podrá obrar prudentemente, previa autorización judicial;
-
-II. El estado de demencia o incapacidad psíquica será declarado de conformidad con lo establecido en el Capítulo II del Título Décimo Tercero del Código de Procedimientos Civiles del Estado de Jalisco, y
-
-III. El que promueva dolosamente la interdicción incurrirá en las penas que la ley impone por falsedad y calumnia y, sin perjuicio de la responsabilidad civil en que incurra, deberá pagar una multa hasta por el importe de ciento ochenta días a favor del erario estatal.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 972.
 
-El procedimiento que tenga por objeto hacer cesar la interdicción, se seguirá en todo caso como el que la declaró, observándose en lo conducente las disposiciones de los artículos anteriores.
-
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+El procedimiento que tenga por objeto hacer cesar la interdicción o modificar la limitación a la capacidad de ejercicio, se tramitará en vía incidental dentro del mismo juicio en el que se declaró. Para tal efecto se harán llegar al Juez los medios que se estimen pertinentes para justificar la pretensión y se realizará diligencia de reconocimiento en presencia del Tribunal.
 
 ###### ARTICULO 973.
 
-La declaración de estado de los sordomudos se hará mediante el dictamen unánime de tres facultativos que reconozcan al incapaz, en presencia del Juez y del Agente de la Procuraduría Social.
+(DEROGADO, P.O. 29 DE NOVIEMBRE DE 2014)
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 974.
 
-Las sentencias que declaren la interdicción y las que le pongan término, se publicarán en el periódico Oficial, y en el diario de mayor circulación en el Estado, a juicio del Juez por tres veces de tres en tres días.
+Las sentencias que declaren la interdicción deberán establecer el tipo de actos en que el incapaz goza de plena autonomía en el ejercicio de su capacidad jurídica y en qué otros deberá intervenir un representante para otorgarle asistencia. Éstas, las que modifiquen su grado y pongan término a la interdicción, se publicarán por una sola ocasión en el Periódico Oficial “El Estado de Jalisco”, o en el diario de mayor circulación en el Estado.
 
 Sección 2a.
 
@@ -7924,19 +8002,23 @@ No habiendo relevación de garantía se exigirá ésta proporcionada al caudal q
 
 Si el que no está en ejercicio de la patria potestad nombra tutor con arreglo a lo dispuesto en el capítulo de la Tutela Testamentaria en el Código Civil, se discernirá el cargo con relevo de garantía, si así lo hubiere dispuesto el testador en cuanto al caudal que deje. Lo dispuesto en este artículo se entenderá sin perjuicio de lo previsto en el artículo 976 de este código.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 979.
 
-Siempre que corresponda al juez el nombramiento de tutor, deberá recibir información sumaria de estar el menor en alguno de los casos que conforme al Código Civil tiene lugar la Tutela Dativa, y convocará por edictos publicados por dos veces en el Boletín Judicial, o en el Periódico Oficial del Estado, así como en un diario de los de mayor circulación, a juicio del juez, a los parientes del incapacitado a quienes pueda corresponder la tutela legítima.
+Siempre que corresponda al Juez el nombramiento de tutor dativo a persona menores (sic) de edad, deberá recibir información sumaria de estar en alguno de los casos que conforme al Código Civil tiene lugar la Tutela Dativa, y convocará por edictos publicados por dos veces en el Boletín Judicial, o en el Periódico Oficial del Estado, o en un diario de los de mayor circulación, a juicio del Juez, a los parientes del incapaz a quienes pueda corresponder la tutela legítima.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 980.
 
-Cuando expire el término de los edictos sin que se presente algún pariente del incapacitado, se procederá al nombramiento de tutor dativo. Se hará lo mismo en casos de suma urgencia, aun cuando no haya concluido dicho término.
+Cuando expire el término de los edictos sin que se presente algún pariente del incapaz, se procederá al nombramiento de tutor dativo. Se hará lo mismo en casos de suma urgencia, aún cuando no haya concluido dicho término.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 981.
 
-El menor podrá oponerse al nombramiento de tutor hecho por la persona que no siendo ascendiente lo hubiere instituido heredero o legatario, cuando tuviere dieciséis años o más.
+La persona menor de edad podrá oponerse al nombramiento de tutor hecho por la persona que no siendo ascendiente lo hubiere instituido heredero o legatario, cuando tuviere dieciséis años o más.
 
 ###### ARTICULO 982.
 
@@ -8150,15 +8232,17 @@ Cuando del examen de la cuenta resulten motivos graves para sospechar dolo o fra
 
 En todos los casos en que el tutor necesite para algún acto de la licencia del juez o de su aprobación, se requerirá la previa audiencia del curador, con el cual, en caso de oposición, se substanciará juicio ordinario. En este juicio se decidirá solamente la diferencia entre el tutor y el curador y no se admitirá, ni de las sentencias definitivas ni de las interlocutorias, recurso alguno. De la denegación de la licencia que haya pedido el tutor con aprobación del curador, se admitirán los recursos que correspondan según derecho, a los negocios de mayor interés.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ### CAPITULO IV.
 
 De la Adopción.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 1014.
 
-Será necesario obtener licencia judicial para disponer de los bienes que pertenezcan exclusivamente a menores, incapacitados y ausentes, que correspondan a las clases siguientes:
+Será necesario obtener licencia judicial para disponer de los bienes que pertenezcan exclusivamente a personas menores de edad, incapaces y ausentes, que correspondan a las clases siguientes:
 
 I.- Bienes raíces;
 
@@ -8196,11 +8280,11 @@ Si en la primer almoneda no hubiere postor, el Juez convocará, a solicitud del 
 
 Para la venta de acciones y títulos de venta, se concederá la autorización sobre la base de que no se haga por menor valor del que se cotice en la plaza el día de la venta y por conducto de comerciante establecido y acreditado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 1018.
 
-El precio de la venta se entregará al tutor si las fianzas o garantías que tuviese prestadas son suficientes para responder de él, o si estuviere relevado de prestarlas por el testador o sea cónyuge, ascendiente o hijo del incapacitado.
+El precio de la venta se entregará al tutor si las fianzas o garantías que tuviese prestadas son suficientes para responder de él, o si estuviere relevado de prestarlas por el testador o sea cónyuge, ascendiente o hijo del incapaz.
 
 El Juez señalará un término prudente al tutor para que justifique la inversión del precio de lo enajenado.
 
@@ -8220,29 +8304,35 @@ Para la venta de los bienes inmuebles del hijo o de los muebles preciosos, reque
 
 También requerirán los padres la autorización judicial para gravar los bienes inmuebles de sus hijos o consentir la extinción de derechos reales, observándose en lo relativo las disposiciones del párrafo anterior, para obtenerla.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTICULO 1022.
 
-Para recibir dinero prestado en nombre del menor o incapacitado, necesita el tutor la autorización judicial, que solo podrá concederse con audiencia del curador.
+Para recibir dinero prestado en nombre la (sic) persona menor de edad o incapaz, necesita el tutor la autorización judicial, que sólo podrá concederse con audiencia del curador.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 1023.
 
-Para transigir sobre derechos de menores o incapacitados, deberán observarse en lo relativo las disposiciones de los artículos anteriores, teniendo presente que la autorización deberá recaer sobre las bases de la transacción propuesta.
+Para transigir sobre derechos de personas menores de edad o incapaces, deberán observarse en lo relativo las disposiciones de los artículos anteriores, teniendo presente que la autorización deberá recaer sobre las bases de la transacción propuesta.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 1024.
 
-Cuando en virtud de la transacción reciba el menor alguna cantidad, se observará lo dispuesto en este capítulo.
+Cuando en virtud de la transacción reciba la persona menor de edad alguna cantidad, se observará lo dispuesto en este capítulo.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 1025.
 
-Lo dispuesto en los artículos que preceden se aplicará al gravamen y enajenación de los bienes de ausentes, así como al arrendamiento por más de cinco años de bienes de los ausentes, menores o incapacitados.
+Lo dispuesto en los artículos que preceden se aplicará al gravamen y enajenación de los bienes de ausentes, así como al arrendamiento por más de cinco años de bienes de los ausentes, personas menores de edad o incapaces.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 1026.
 
-Cuando se trata de enajenar, gravar o hipotecar a título oneroso, bienes que pertenezcan al incapacitado como copropietario, se comenzará por mandar justipreciar dichos bienes para fijar con toda precisión su valor y la parte que en ellos represente el incapacitado, a fin de que el juez resuelva si conviene o no que se dividan materialmente dichos bienes para que aquel reciba en plena propiedad su porción; o si, por el contrario, es conveniente la enajenación, gravamen o hipoteca fijando en este caso las condiciones y seguridades con que debe hacerse; pudiendo, si lo estimare conveniente, dispensar la almoneda siempre que consientan en ello el tutor y el curador.
+Cuando se trata de enajenar, gravar o hipotecar a título oneroso, bienes que pertenezcan al incapaz como copropietario, se comenzará por mandar justipreciar dichos bienes para fijar con toda precisión su valor y la parte que en ellos represente el incapaz, a fin de que el Juez resuelva si conviene o no que se dividan materialmente dichos bienes para que aquél reciba en plena propiedad su porción; o si, por el contrario, es conveniente la enajenación, gravamen o hipoteca fijando en este caso las condiciones y seguridades con que debe hacerse; pudiendo, si lo estimare conveniente, dispensar la almoneda siempre que consientan en ello el tutor y el curador.
 
 ### CAPITULO V.
 
@@ -8250,7 +8340,7 @@ De la Excusa y Pérdida de la Patria Potestad y de la Emancipación.
 
 ###### ARTICULO 1027.
 
-El que pretenda adoptar a alguna persona, deberá acreditar los requisitos establecidos en el Código Civil, según se trate de adopción plena o simple, los cuales deberán de acompañarse en la promoción inicial, y en la cual deberán manifestar: el nombre y edad del menor o incapacitado, el nombre y domicilio de quienes ejerzan sobre él la patria potestad o la tutela y, en su caso, el de la persona o del organismo público o privado que lo tenga bajo su custodia.
+El que pretenda adoptar a alguna persona, deberá acreditar los requisitos establecidos en el Código Civil, según se trate de adopción plena o simple, los cuales deberán de acompañarse en la promoción inicial, y en la cual deberán manifestar: el nombre y edad de la persona en minoría de edad o incapaz, el nombre y domicilio de quienes ejerzan sobre él la patria potestad o la tutela y, en su caso, el de la persona o del organismo público o privado que lo tenga bajo su custodia.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
@@ -9229,3 +9319,9 @@ DECRETO NÚMERO 24977/LX/14 POR EL QUE SE REFORMAN DEL ARTÍCULO 225, 226 Y 227 
 P.O. 25 DE NOVIEMBRE DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al dia siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 29 DE NOVIEMBRE DE 2014.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Los juicios que se encuentren en trámite a la entrada en vigor del presente decreto, podrán substanciarse con estas reglas siempre que no se afecten derechos de terceros.
