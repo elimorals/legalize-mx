@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-103369"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-10-29"
-last_updated: "2014-10-29"
+last_updated: "2014-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 29 de octubre de 2014.
 
@@ -737,7 +737,11 @@ V. Los demás asuntos que establezcan esta Ley y otras disposiciones legales apl
 
 Las salas unitarias en materia penal conocerán de:
 
-I. Los recursos de casación, revisión y apelación, en los términos que establezcan las leyes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+I. El recurso de apelación, del procedimiento de reconocimiento de inocencia del sentenciado y anulación de sentencia, en los términos que establezcan las leyes.
 
 II. Las recusaciones y excusas de los jueces en materia penal.
 
@@ -747,11 +751,15 @@ IV. Las excitativas de justicia que se promuevan en contra de los jueces y tribu
 
 V. Los demás asuntos que establezcan esta Ley y otras disposiciones legales aplicables.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 59.
 
-Las salas colegiadas en materia penal conocerán de los recursos de casación y revisión en los supuestos del artículo 42, fracción X, de la presente Ley.
+Las salas colegiadas en materia penal conocerán del recurso de apelación y del procedimiento de reconocimiento de inocencia del sentenciado y anulación de sentencia en los supuestos del artículo 42, fracción X, de la presente Ley.
 
-El recurso de casación no podrá ser conocido por el magistrado o magistrados que hubieren intervenido en el mismo asunto en apelación, y el recurso de revisión no podrá ser conocido por el magistrado o magistrados que hubieren intervenido en el mismo asunto en apelación o casación.
+El procedimiento de reconocimiento de inocencia del sentenciado y anulación de sentencia no podrá ser conocido por el magistrado o magistrados que hubieren intervenido en el mismo asunto en apelación.
 
 ###### ARTÍCULO 60.
 
@@ -791,9 +799,13 @@ V. Excusarse del conocimiento de los asuntos en donde tengan causa de impediment
 
 VI. Las demás facultades o atribuciones que les establezcan las leyes.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 63.
 
-Las salas especializadas en justicia para adolescentes siempre serán unitarias y conocerán de los recursos de apelación, casación y revisión, los que, aunque atañan a un mismo proceso, podrán resolverse por una misma sala.
+Las salas especializadas en justicia para adolescentes siempre serán unitarias y conocerán del recurso de apelación, y el procedimiento de reconocimiento de inocencia del sentenciado y anulación de sentencia, los que, aunque atañan a un mismo proceso, podrán resolverse por una misma sala.
 
 ###### ARTÍCULO 64.
 
@@ -915,7 +927,11 @@ Adicionalmente, el Secretario General, para el cumplimiento de sus atribuciones,
 
 Los juzgados de primera instancia podrán ser de ramo civil, familiar, penal, de extinción de dominio o mixtos. Tendrán jurisdicción en todo el distrito y residirán en su cabecera, salvo determinación del Pleno. Cuando haya dos o más de la misma materia, se les denominará en forma ordinal señalando su ramo.
 
-La jurisdicción de primera instancia en materia penal estará a cargo de los jueces de garantía, de justicia para adolescentes y ejecución, así como de los tribunales de juicio oral, en los términos de la legislación procesal. Los jueces de garantía tienen a su cargo el ejercicio de las atribuciones de control judicial establecidas en el artículo 16, párrafo decimotercero, de la Constitución Federal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+La jurisdicción de primera instancia en materia penal estará a cargo de los jueces de control, de justicia para adolescentes y ejecución, así como de los tribunales de enjuiciamiento, en los términos de la legislación procesal. Los jueces de control tienen a su cargo el ejercicio de las atribuciones de control judicial establecidas en el artículo 16, párrafo decimotercero, de la Constitución Federal.
 
 ###### ARTÍCULO 78.
 
@@ -931,9 +947,13 @@ En asuntos de su competencia y cuando su mejor despacho lo requiera, los jueces 
 
 En casos de urgencia que se presenten en asuntos del ramo penal o del familiar, que el juez calificará bajo su más estricta responsabilidad, podrá disponer el traslado inmediato del personal del juzgado del lugar de su ubicación a otro punto de su distrito, previo aviso al Presidente.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 81.
 
-Los tribunales de juicio oral en materia penal se integrarán de forma unitaria y colegiadamente con tres jueces, en el supuesto del artículo 42, fracción X de esta Ley.
+Los tribunales de enjuiciamiento en materia penal se integrarán de forma unitaria y colegiadamente con tres jueces, en el supuesto del artículo 42, fracción X de esta Ley.
 
 ###### ARTÍCULO 82.
 
@@ -1053,9 +1073,13 @@ En materia de extinción de dominio los jueces civiles y mixtos conocerán de la
 
 #### Sección Tercera. De los juzgados y tribunales del sistema penal acusatorio
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 97.
 
-Corresponde a los jueces de garantía:
+Corresponde a los jueces de control:
 
 I. Otorgar las autorizaciones judiciales previas que solicite el Ministerio Público para realizar las actuaciones que priven, restrinjan o perturben los derechos asegurados por la Constitución Federal, la Constitución y los tratados internacionales vigentes en el país.
 
@@ -1075,9 +1099,13 @@ VIII. Proveer e imponer, en la esfera de su competencia, dentro de la suspensió
 
 IX. Las demás atribuciones que les otorgue la ley.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 98.
 
-Corresponde a los tribunales de juicio oral en materia penal:
+Corresponde a los tribunales de enjuiciamiento en materia penal:
 
 I. Conocer y juzgar los procesos sometidos a su conocimiento.
 
@@ -1113,13 +1141,21 @@ X. Conocer los procedimientos penales iniciados con motivo de hechos cometidos p
 
 XI. Las demás atribuciones que les otorgue la ley.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 100.
 
-Corresponde a los jueces de justicia para adolescentes, en el ámbito de su competencia, el ejercicio de las facultades establecidas para los jueces de garantía, tribunales de juicio oral y jueces de ejecución de penas, así como las que deriven de las leyes de la materia.
+Corresponde a los jueces de justicia para adolescentes, en el ámbito de su competencia, el ejercicio de las facultades establecidas para los jueces de control, tribunales de enjuiciamiento y jueces de ejecución de penas, así como las que deriven de las leyes de la materia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 101.
 
-La administración de los juzgados de garantía, especializados en justicia para adolescentes, de ejecución de penas y de los tribunales de juicio oral que operen el sistema penal acusatorio, estará a cargo de la Dirección de Gestión Judicial, en los términos que dispone esta Ley y el Reglamento.
+La administración de los juzgados de control, especializados en justicia para adolescentes, de ejecución de penas y de los tribunales de enjuiciamiento que operen el sistema penal acusatorio, estará a cargo de la Dirección de Gestión Judicial, en los términos que dispone esta Ley y el Reglamento.
 
 #### Sección Cuarta. De los juzgados menores
 
@@ -1647,7 +1683,7 @@ Los funcionarios adscritos a la Dirección General Jurídica estarán facultados
 
 ###### ARTÍCULO 165.
 
-La administración de los juzgados de garantía, especializados en justicia para adolescentes, de ejecución de penas y de los tribunales de juicio oral, que operen el sistema penal acusatorio, estará a cargo de la Dirección de Gestión Judicial, que dependerá de la Presidencia.
+La administración de los juzgados de control, especializados en justicia para adolescentes, de ejecución de penas y de los tribunales de enjuiciamiento, que operen el sistema penal acusatorio, estará a cargo de la Dirección de Gestión Judicial, que dependerá de la Presidencia.
 
 ###### ARTÍCULO 166.
 
@@ -1703,7 +1739,11 @@ IV. No haber sido condenado por sentencia ejecutoria como responsable por delito
 
 Se podrán establecer unidades especiales integradas por varios defensores públicos y a cargo de un coordinador especial, para la atención de determinadas materias en uno o varios distritos judiciales o para todo el territorio del Estado, siempre que así lo requiera el servicio.
 
-En particular deberá conformarse una unidad especial para la atención de los asuntos de casación que se interpongan ante el Tribunal y otra para aquellos en los que se encuentren involucrados indígenas, adolescentes y las demás que se determinen en el Reglamento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+En particular deberá conformarse una unidad especial para la atención de los asuntos de apelación que se interpongan ante el Tribunal y otra para aquellos en los que se encuentren involucrados indígenas, adolescentes y las demás que se determinen en el Reglamento.
 
 ###### ARTÍCULO 173.
 
@@ -1743,7 +1783,7 @@ El Instituto de Justicia Alternativa ejercerá sus atribuciones por conducto de 
 
 ###### ARTÍCULO 179.
 
-Corresponde al Tribunal la evaluación de los riesgos que, para el proceso y sus intervinientes, representen los imputados; la supervisión y seguimiento de las medidas cautelares distintas a la prisión preventiva, así como el cumplimiento de las condiciones establecidas a los imputados en la suspensión del proceso a prueba, las cuales estarán a cargo del Instituto de Servicios Previos al Juicio.
+Corresponde al Tribunal la evaluación de los riesgos que, para el proceso y sus intervinientes, representen los imputados; la supervisión y seguimiento de las medidas cautelares distintas a la prisión preventiva, así como el cumplimiento de las condiciones establecidas a los imputados en la suspensión condicional del proceso, las cuales estarán a cargo del Instituto de Servicios Previos al Juicio.
 
 ###### ARTÍCULO 180.
 
@@ -1777,9 +1817,13 @@ De igual forma el cuerpo policiaco o la autoridad investigadora que sea la respo
 
 El Ministerio Público y la defensa, deberán recibir los reportes y la demás información que el Instituto de Servicios Previos al Juicio genere en el ejercicio de sus funciones.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 187.
 
-Una vez que haya sido aprobada la suspensión del proceso a prueba dentro de una causa, el juez deberá notificar tal situación al Instituto de Servicios Previos al Juicio a efecto de que esta dé inicio al proceso de supervisión respectivo.
+Una vez que haya sido aprobada la suspensión condicional del proceso dentro de una causa, el juez deberá notificar tal situación al Instituto de Servicios Previos al Juicio a efecto de que esta dé inicio al proceso de supervisión respectivo.
 
 En caso de incumplimiento de alguna o de la totalidad de las condiciones establecidas al imputado para el mantenimiento de la suspensión, el Instituto deberá notificar lo anterior al juez que las decretó.
 
@@ -1918,6 +1962,12 @@ XXII. Fijar las bases de la política informática y estadística del Poder Judi
 XXIII. Realizar los procedimientos de desincorporación de bienes.
 
 XXIV. Desempeñar cualquier otra función que la ley o el Reglamento le encomienden.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XXV. Recibir, tramitar y resolver el procedimiento de queja señalado en el artículo 135 del Código Nacional de Procedimientos Penales.
 
 ### CAPÍTULO TERCERO. DE LA UNIDAD DE IGUALDAD DE GÉNERO Y DERECHOS HUMANOS
 
@@ -2126,6 +2176,10 @@ Para amparar las cantidades que reciba el Fondo por concepto de depósito o cauc
 Las cantidades que fueran recibidas por los conceptos a que se refieren los artículos anteriores, serán reintegrados (sic) al depositante o persona autorizada. El Reglamento determinará el procedimiento para dar cumplimiento a lo señalado en este artículo.
 
 ### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN DE GESTIÓN JUDICIAL
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 216.
 
@@ -2364,6 +2418,10 @@ II. De uno a diez años: al funcionario o empleado que con la comisión de la fa
 III. De diez a veinte años: al funcionario o empleado que con la comisión de la falta administrativa, ocasione daño o perjuicio u obtenga un beneficio o lucro que exceda de la cantidad establecida en la fracción anterior; así como al funcionario o empleado que cometa una falta administrativa considerada como grave.
 
 ### CAPÍTULO TERCERO. DEL INSTITUTO DE SERVICIOS PREVIOS AL JUICIO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 235.
 
@@ -2693,7 +2751,11 @@ Si todos los magistrados del mismo ramo se inhibieren del conocimiento de un asu
 
 Inhibidos del conocimiento de un negocio todos los magistrados, estos serán sustituidos por los jueces de primera instancia del Distrito Judicial Morelos que correspondan al ramo que pertenezca el asunto, empezando por prelación ordinal de asignación y agotados estos, pasará a un juez de otro ramo en el orden señalado.
 
-Para los efectos de este artículo, los juzgados familiares se considerarán como del ramo civil y tendrán prelación cuando se trate de asuntos correspondientes a la materia familiar. De igual forma, en materia penal se iniciará por los de juicio oral, seguidos por los de garantía, según las reglas de turno de cada uno de los tribunales. El juez o los jueces que conozcan del asunto actuarán como integrantes del tribunal de alzada únicamente para dichos efectos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Para los efectos de este artículo, los juzgados familiares se considerarán como del ramo civil y tendrán prelación cuando se trate de asuntos correspondientes a la materia familiar. De igual forma, en materia penal se iniciará por los de enjuiciamiento, seguidos por los de control, según las reglas de turno de cada uno de los tribunales. El juez o los jueces que conozcan del asunto actuarán como integrantes del tribunal de alzada únicamente para dichos efectos.
 
 Si se inhibiere el magistrado de una Sala Unitaria Especializada en Justicia para Adolescentes, deberá conocer un magistrado de la misma especialidad, si no lo hubiere o los existentes resulten igualmente impedidos, el asunto lo resolverá un juez especializado en la materia.
 
@@ -2717,9 +2779,17 @@ Impedidos los jueces de primera instancia, se remitirá el negocio a los del dis
 
 Para los efectos del presente Capítulo, se entenderá por más cercano aquel distrito con cuya cabecera sea más rápida la comunicación terrestre.
 
-Si el que se tenga que inhibir es un juez de garantía, conocerá del asunto otro del distrito judicial correspondiente según el turno que se lleve, en caso de que todos los jueces de ese distrito estuvieren impedidos para conocer del asunto, deberá acudir a la ciudad en que esté radicado el asunto otro juez de garantía del distrito más cercano. Lo mismo aplicará para los jueces especializados en justicia para adolescentes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-De igual forma, los jueces de tribunal oral que se abstengan del conocimiento de un asunto, si se trata de aquellos que deben resolverse de forma unitaria se atenderán las reglas descritas en el párrafo anterior, y por cuanto hace a los que se deban atender de manera colegiada, si se trata de uno de sus integrantes se seguirán dichas reglas; si se trata de dos o de la totalidad de su miembros, se deberá asignar una diversa terna según las cargas de trabajo del tribunal.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Si el que se tenga que inhibir es un juez de control, conocerá del asunto otro del distrito judicial correspondiente según el turno que se lleve, en caso de que todos los jueces de ese distrito estuvieren impedidos para conocer del asunto, deberá acudir a la ciudad en que esté radicado el asunto otro juez de control del distrito más cercano. Lo mismo aplicará para los jueces especializados en justicia para adolescentes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+De igual forma, los jueces de tribunal de enjuiciamiento que se abstengan del conocimiento de un asunto, si se trata de aquellos que deben resolverse de forma unitaria se atenderán las reglas descritas en el párrafo anterior, y por cuanto hace a los que se deban atender de manera colegiada, si se trata de uno de sus integrantes se seguirán dichas reglas; si se trata de dos o de la totalidad de su miembros, se deberá asignar una diversa terna según las cargas de trabajo del tribunal.
 
 Lo anterior también será aplicable cuando una terna haya conocido anteriormente de un asunto, en atención a lo establecido en la codificación procesal penal.
 
@@ -2866,3 +2936,17 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veintiocho días del mes de octubre del año dos mil catorce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. RAYMUNDO ROMERO MALDONADO. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Inicio de Vigencia.
+
+El presente Decreto entrará en vigor al momento en el que inicie su vigencia el Código Nacional de Procedimientos Penales, de conformidad con la declaratoria que al efecto se emita por el Congreso del Estado, en los términos del Artículo Segundo Transitorio de dicho cuerpo normativo.
+
+SEGUNDO.- Derogación tácita de preceptos incompatibles.
+
+Quedan derogadas todas las disposiciones legales que se opongan al contenido del presente Decreto.
+
+TERCERO.- Cuando en cualquier disposición legal se haga referencia al Código de Procedimientos Penales del Estado de Chihuahua, se entenderá que se refiere al Código Nacional de Procedimientos Penales.
