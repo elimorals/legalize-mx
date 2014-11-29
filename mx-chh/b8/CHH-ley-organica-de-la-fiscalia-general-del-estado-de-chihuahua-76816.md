@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-de-la-fiscalia-general-del-estado-de-chihuahua-768
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-09-25"
-last_updated: "2014-05-14"
+last_updated: "2014-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2014.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 14 DE MAYO DE 2014, NO APLICA AL ARTICULADO DEL DECRETO 1201/2013 X P.E. PUBLICADO EN EL P.O. DE 10 DE MAYO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 25 de septiembre de 2010.
 
@@ -107,7 +105,7 @@ VIII. Ejercer el mando sobre la Policía Estatal Única en los términos de su L
 
 IX. Ejercitar las acciones legales en materia del Sistema Especializado de Justicia para Adolescentes Infractores;
 
-X. Organizar, dirigir y supervisar la Escuela Estatal de Policía, el Centro Estatal de Control de Confianza, los Centros de Control, Comando, Comunicaciones y Cómputo, los Laboratorios de la Dirección de Servicios Periciales y Ciencias Forenses, el Centro de Justicia Alternativa y las demás Unidades Técnicas y Administrativas que establezcan las leyes y sus reglamentos, y (sic)
+X. Organizar, dirigir y supervisar la Escuela Estatal de Policía, el Centro Estatal de Control de Confianza, los Centros de Control, Comando, Comunicaciones y Cómputo, los Laboratorios de la Dirección de Servicios Periciales y Ciencias Forenses, el Centro de Justicia Alternativa y las demás Unidades Técnicas y Administrativas que establezcan las leyes y sus reglamentos, y
 
 > <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
 
@@ -329,13 +327,17 @@ II. Promover las acciones penales, civiles y administrativas e interponer los re
 
 III. Velar para que el imputado sea instruido en sus derechos constitucionales;
 
-IV. Citar u ordenar la presentación de cualquier persona, siempre que ello sea procedente para el ejercicio de sus funciones. Tratándose del imputado, no podrá ordenar su presentación. El agente del Ministerio Público podrá hacer uso de los medios de apremio que le confiere el Código de Procedimientos Penales, para el cumplimiento de sus atribuciones;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+IV. Citar u ordenar la presentación de cualquier persona, siempre que ello sea procedente para el ejercicio de sus funciones. Tratándose del imputado, no podrá ordenar su presentación. El agente del Ministerio Público podrá hacer uso de los medios de apremio que le confiere el Código Nacional de Procedimientos Penales, para el cumplimiento de sus atribuciones;
 
 V. Vigilar que los derechos de la víctima u ofendido sean adecuadamente tutelados;
 
 VI. Promover la conciliación y los acuerdos reparatorios entre la víctima u ofendido y el imputado, en los casos autorizados por la ley;
 
-VII. Solicitar la aplicación de los criterios de oportunidad, el sobreseimiento del proceso, la suspensión del proceso a prueba y la apertura del procedimiento abreviado, en los supuestos previstos por la Ley;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+VII. Solicitar la aplicación de los criterios de oportunidad, el sobreseimiento del proceso, la suspensión condicional del proceso y la apertura del procedimiento abreviado, en los supuestos previstos por la Ley;
 
 VIII. Vigilar la correcta aplicación de la ley, en los casos de delitos cometidos por miembros de pueblos o comunidades indígenas;
 
@@ -640,3 +642,15 @@ De conformidad con el Artículo Séptimo, se dispondrán de ciento ochenta días
 ###### ARTÍCULO CUARTO.
 
 El Ejecutivo del Estado realizará las previsiones presupuestales necesarias, para que la Unidad Especializada para la Investigación y Persecución de los Delitos previstos en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, sea elevada a rango de Fiscalía Especializada en el plazo de un año contado a partir de la publicación del presente Decreto, y contará con el mismo término para implementar las acciones necesarias a efecto de dar cabal cumplimiento a las obligaciones previstas en el cuerpo del presente Decreto.
+
+P.O. 29 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Inicio de Vigencia.
+
+El presente Decreto entrará en vigor al momento en el que inicie su vigencia el Código Nacional de Procedimientos Penales, de conformidad con la declaratoria que al efecto se emita por el Congreso del Estado, en los términos del Artículo Segundo Transitorio de dicho cuerpo normativo.
+
+SEGUNDO.- Derogación tácita de preceptos incompatibles.
+
+Quedan derogadas todas las disposiciones legales que se opongan al contenido del presente Decreto.
+
+TERCERO.- Cuando en cualquier disposición legal se haga referencia al Código de Procedimientos Penales del Estado de Chihuahua, se entenderá que se refiere al Código Nacional de Procedimientos Penales.
