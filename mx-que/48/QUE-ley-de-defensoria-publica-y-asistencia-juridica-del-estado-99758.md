@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-defensoria-publica-y-asistencia-juridica-del-estado-9975
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-20"
-last_updated: "2014-03-20"
+last_updated: "2014-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99758&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE DEFENSORÍA PÚBLICA Y ASISTENCIA JURÍDICA DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 20 de marzo de 2014.
 
@@ -45,9 +45,13 @@ LEY DE DEFENSORÍA PÚBLICA Y ASISTENCIA JURÍDICA DEL ESTADO DE QUERÉTARO
 
 La presente Ley es de orden público e interés social; tiene por objeto crear y organizar el Instituto de Defensoría Pública y Asistencia Jurídica del Estado de Querétaro, en lo sucesivo “el Instituto”, como organismo público descentralizado, competente para normar, diseñar, coordinar, ejecutar, vigilar y evaluar las políticas públicas, programas y acciones generales y particulares relativas al sistema de servicios de defensa pública, así como el de asesoría y asistencia jurídica en materia civil, mercantil y familiar, que dicho organismo preste en el Estado.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 2.
 
-El Instituto cuenta con personalidad jurídica y patrimonio propio, con domicilio legal en la ciudad de Santiago de Querétaro, Qro., sectorizado a la Secretaría de Gobierno del Poder Ejecutivo del Estado, pudiendo contar con oficinas en las cabeceras de los distritos judiciales que sean necesarias para la debida prestación de sus servicios en todo el territorio del Estado.
+El Instituto cuenta con personalidad jurídica y patrimonio propio, con domicilio legal en la ciudad de Santiago de Querétaro, Qro., sectorizado a la Secretaría de Gobierno del Poder Ejecutivo del Estado, pudiendo contar con oficinas en las cabeceras de los distritos judiciales que sean necesarias para la debida prestación de sus servicios en todo el territorio del Estado, ubicados en lugares de fácil acceso para la población. Los Defensores Públicos y los asesores jurídicos contarán con espacios de trabajo dignos y seguros, así como con espacios de reunión con los usuarios y equipados con la tecnología apropiada para el desempeño de sus labores.
+
+Además de lo anterior, la Procuraduría General de Justicia del Estado, los juzgados y tribunales del Poder Judicial del Estado podrán proporcionar en sus locales, ubicación física apropiada y suficiente para la actuación de los Defensores Públicos y asesores jurídicos.
 
 ###### Artículo 3.
 
@@ -251,7 +255,7 @@ VI. Estudiar y, en su caso, aprobar los tabuladores y prestaciones correspondien
 
 VII. Solicitar al Director General la información relativa a todos los asuntos que sean de su competencia;
 
-VIII. Aprobar anualmente el anteproyecto de presupuesto egresos (sic) del Instituto, que será enviado a la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado;
+VIII. Aprobar anualmente el anteproyecto de presupuesto (sic) egresos del Instituto, que será enviado a la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado;
 
 IX. Aprobar la implementación de mecanismos para la adquisición de recursos adicionales a los presupuestados, con estricto apego a la normatividad aplicable a las gestiones y recursos públicos;
 
@@ -435,7 +439,9 @@ VI. No haber sido condenado mediante sentencia ejecutoriada por delito doloso co
 
 VII. No estar inhabilitado por resolución firme, para el desempeño de cargos públicos;
 
-VIII. Acreditar conocimientos y habilidades para el litigio en materia de derechos humanos, medios alternos de solución de conflictos, justicia para adolescentes y en el sistema procesal penal acusatorio, así como reunir los demás requisitos que establezca el estatuto; y
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+VIII. Acreditar conocimientos y habilidades para el litigio en materia de derechos humanos, medios alternos de solución de conflictos, justicia para adolescentes, en el sistema procesal penal acusatorio, materia civil, mercantil y familiar, dependiendo de la asignación para la cual se postulen, así como reunir los demás requisitos que establezca el estatuto; y
 
 IX. No ser ministro de ningún culto religioso.
 
@@ -447,7 +453,9 @@ IX. No ser ministro de ningún culto religioso.
 
 Los servicios a cargo del Instituto, se prestarán a través de:
 
-I. Defensores públicos: en los asuntos del orden penal, de justicia para adolescentes, que va desde la averiguación previa o investigación hasta la ejecución de las penas o medidas de seguridad; y
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+I. Defensores públicos: en los asuntos del orden penal, de justicia para adolescentes, desde el momento en que sean requeridos, hasta la ejecución de las penas o medidas de seguridad; y
 
 II. Asesores jurídicos; quienes brindarán los servicios de orientación jurídica y de asistencia, consistentes en representación y patrocinio jurídicos en los asuntos del orden civil, familiar y mercantil, a las personas que establece este ordenamiento, salvo cuando por disposición expresa de la Ley corresponda prestarlos a otras instituciones.
 
@@ -467,7 +475,9 @@ II. Autonomía e independencia técnico-funcional: los servicios se ejercerán c
 
 III. Excelencia: los servicios se desempeñarán con capacidad, dedicación, esmero, aplicación, responsabilidad y eficiencia relevantes, sobre la base de altos estándares de calidad que sean concretos a cada asunto, sin perjuicio de los generales que pueda fijar mediante acuerdo el Instituto;
 
-IV. Subsidiariedad, mínima afectación y solución alternativa de conflictos: se deben privilegiar, en los casos concretos que resulte aplicable, estrategias jurídicas y procesales que propicien solucionar las controversias suscitadas, primordialmente las penales, mediante los mecanismos jurídicos menos lesivos para el usuario, que establezcan las leyes, que sean alternos y subsidiarios a las instancias, procedimientos e intervención judiciales, como pueden ser la conciliación, la mediación, la suspensión a prueba del procedimiento, la prescripción de antecedentes penales, el arbitraje y demás aplicables;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+IV. Subsidiariedad, mínima afectación y solución alternativa de controversias: se deben privilegiar, en los casos concretos que resulte aplicable, estrategias jurídicas y procesales que propicien solucionar las controversias suscitadas, primordialmente las penales, mediante los mecanismos jurídicos menos lesivos para el usuario, que establezcan las leyes, que sean alternos y subsidiarios a las instancias, procedimientos e intervención judiciales;
 
 V. Convencionalidad y pro persona: los servicios se prestarán solicitando a las autoridades competentes, el respeto a los derechos humanos que para los usuarios se establezcan en los Tratados y Convenciones Internacionales de los que México sea parte, promoviendo en todo momento la interpretación que favorezca a dichos patrocinados, la protección más amplia;
 
@@ -485,7 +495,9 @@ XI. Transparencia y conocimiento: se debe mantener constantemente informados a l
 
 XII. Lenguaje asequible: el personal del Instituto deberá dirigirse al usuario utilizando un modo de hablar y de comunicar, que sea sencillo, concreto y de fácil comprensión para cualquier persona, evitando usar formulismos, palabras o conceptos rebuscados, así como tecnicismos legales, complejos o especializados;
 
-XIII. Obligatoriedad y Gratuidad: tiene como propósito hacer realidad el derecho fundamental de acceso a la tutela judicial efectiva, a favor de todas aquellas personas que se encuentren en alguna condición de pobreza, marginación, desigualdad, desventaja, ya sea de carácter económica, social, racial, de salud, edad o de cualquier otra índole y en razón de las cuales no puede solventar los costos de contratar un abogado. Por ello, el Estado brindará a dichas personas, en forma gratuita y obligatoria, los servicios que preste el Instituto, cuando las mismas tengan el carácter de usuario que establece la presente Ley;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XIII. Obligatoriedad y Gratuidad: tiene como propósito hacer realidad el derecho fundamental de acceso a la tutela judicial efectiva, a favor de los imputados que no cuenten con un defensor particular en materia penal y justicia para adolescentes, y en materia civil, mercantil y familiar, a todas aquellas personas que se encuentren en alguna condición de pobreza, marginación, desigualdad, desventaja, ya sea de carácter económica, social, racial, de salud, edad o de cualquier otra índole y en razón de las cuales no puede solventar los costos de contratar un abogado. Por ello, el Estado brindará a dichas personas, en forma gratuita y obligatoria, los servicios que preste el Instituto, cuando las mismas tengan el carácter de usuario que establece la presente Ley;
 
 XIV. Honestidad y ética: los servicios deben prestarse en todo momento con respeto, rectitud, decoro, cortesía y decencia, principalmente para con los usuarios;
 
@@ -495,7 +507,9 @@ XVI. Profesionalismo: se deberá dominar y aplicar al caso concreto, los conocim
 
 XVII. Confidencialidad: se debe guardar absoluta reserva o secreto de la información que tenga conocimiento con motivo del ejercicio de sus funciones, sea que le fuere revelada por los usuarios, por terceros o por cualquier otra razón.
 
-La información así obtenida sólo puede revelarla con el consentimiento previo de quien se la confió, previa autorización de su superior jerárquico. Excepcionalmente puede revelar aquella información que permita prevenir un acto delictuoso o proteger a personas en peligro; y
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+La información así obtenida sólo puede revelarla con el consentimiento previo de quien se la confió y la autorización de su superior jerárquico; y
 
 XVIII. Unidad y continuidad de actuación: los actos y procedimientos en que se intervenga deberán realizarse por el mismo servidor público, de manera continua, sin sustituciones o interrupciones innecesarias, en todas las etapas del procedimiento, desde el inicio del caso hasta su conclusión definitiva, salvo causas de fuerza mayor.
 
@@ -569,11 +583,17 @@ En caso de que se resuelva el retiro del servicio, se concederá al interesado u
 
 El servicio de defensoría pública, en las materias que se mencionan a continuación, comprenderá las obligaciones, garantías del derecho de defensa y demás deberes siguientes:
 
-I. En el sistema procesal penal acusatorio: las que se establezcan en la legislación de procedimientos penales y demás ordenamientos aplicables;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-II. En el sistema justicia para adolescentes: las que se establezcan en la Ley para la Impartición de Justicia para Adolescentes del Estado de Querétaro y demás ordenamientos aplicables; y
+I. En el sistema procesal penal acusatorio: las que se establezcan en el Código Nacional de Procedimientos Penales y demás ordenamientos aplicables;
 
-III. En materia de ejecución de sanciones: las se (sic) establezcan en la Ley de Ejecución de Penas y Medidas de Seguridad del Estado de Querétaro y demás ordenamientos aplicables.
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+II. En el sistema justicia para adolescentes: las que se establezcan en la Ley de Justicia para Adolescentes del Estado de Querétaro vigente y demás ordenamientos aplicables; y
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+III. En materia de ejecución de sanciones: las (sic) se establezcan en la Ley de Ejecución de Penas y Medidas de Seguridad del Estado de Querétaro vigente y demás ordenamientos aplicables.
 
 ###### Artículo 39.
 
@@ -641,7 +661,7 @@ El servicio de defensoría pública, en el sistema penal mixto, ante las Salas d
 
 I. Entrevistar a su defendido y examinar en forma integral las constancias del expediente, a fin de conocer los elementos con que cuenta para preparar y entablar, en segunda instancia, la defensa adecuada de su patrocinado;
 
-II. Promover y dar seguimiento oportuno a los recursos competencia de las Salas del Tribunal, expresando, asimismo, los motivos de inconformidad en los que hagan valer todas aquellas circunstancias probadas del expediente que favorezcan su (sic) patrocinado;
+II. Promover y dar seguimiento oportuno a los recursos competencia de las Salas del Tribunal, expresando, asimismo, los motivos de inconformidad en los que hagan valer todas aquellas circunstancias probadas del expediente que favorezcan (sic) su patrocinado;
 
 III. Atender inmediatamente las solicitudes formuladas por su defendido o por la (sic) salas, necesarias para la defensa;
 
@@ -723,7 +743,7 @@ En la elaboración del plan anual, el Director General podrá solicitar sugerenc
 
 ###### Artículo 51.
 
-Con independencia de los requisitos para el ingreso, permanencia o ascenso en el servicio profesional de carrera relativo, el Instituto deberá tomar las medidas pertinentes para que se impartan a sus defensores públicos y asesores jurídicos, no menos 120 (sic) horas anuales de programas académicos y prácticos de capacitación.
+Con independencia de los requisitos para el ingreso, permanencia o ascenso en el servicio profesional de carrera relativo, el Instituto deberá tomar las medidas pertinentes para que se impartan a sus defensores públicos y asesores jurídicos, no menos (sic) 120 horas anuales de programas académicos y prácticos de capacitación.
 
 ### Capítulo X. Del Servicio Profesional de Carrera
 
@@ -783,11 +803,11 @@ También serán causas de responsabilidad para cualquier servidor público estat
 
 Artículo Primero. La presente Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”.
 
-Artículo Segundo. Se abroga el Reglamento Interior de la Defensoría de Oficio, publicado el día 31 de mayo de 1984, en el Periódico Oficial del Gobierno Estado (sic) de Querétaro “La Sombra de Arteaga”.
+Artículo Segundo. Se abroga el Reglamento Interior de la Defensoría de Oficio, publicado el día 31 de mayo de 1984, en el Periódico Oficial del Gobierno (sic) Estado de Querétaro “La Sombra de Arteaga”.
 
 Artículo Tercero. Se derogan todas las demás disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
-Artículo Cuarto. El Estatuto de Servicio Profesional de Carrera de la Defensoría Pública, será expedido por el Gobernador del Estado, a más tardar 30 días naturales previos al 02 de junio de 2014 y partir (sic) de tal fecha tendrá vigor en todo el territorio del Estado.
+Artículo Cuarto. El Estatuto de Servicio Profesional de Carrera de la Defensoría Pública, será expedido por el Gobernador del Estado, a más tardar 30 días naturales previos al 02 de junio de 2014 y (sic) partir de tal fecha tendrá vigor en todo el territorio del Estado.
 
 Artículo Quinto. El Gobernador del Estado nombrará al Director General del Instituto, a más tardar el 29 de marzo de 2015.
 
@@ -846,3 +866,11 @@ Lic. Arsenio Durán Becerra
 Procurador General de Justicia
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE NOVIEMBRE DE 2014.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Articulo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
