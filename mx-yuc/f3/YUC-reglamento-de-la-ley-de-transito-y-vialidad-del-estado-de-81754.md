@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-ley-de-transito-y-vialidad-del-estado-de-81754
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-21"
-last_updated: "2011-12-30"
+last_updated: "2014-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81754&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DE LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE NOVIEMBRE DE 2014.
 
 Reglamento publicado en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 21 de junio de 2011.
 
@@ -65,7 +65,7 @@ IX. La promoción de la educación vial y la regulación de las escuelas de mane
 
 X. Los procedimientos a seguir en caso de accidentes de tránsito y la responsabilidad civil resultante;
 
-XI. La prestación del servicio público de tránsito, peritación, arrastre y auxilio vial, cargo (sic) de la Secretaría de Seguridad Pública;
+XI. La prestación del servicio público de tránsito, peritación, arrastre y auxilio vial, (sic) cargo de la Secretaría de Seguridad Pública;
 
 XII. La determinación de las conductas infractoras derivadas del incumplimiento de las normas en materia de tránsito y vialidad, así como las sanciones aplicables a las mismas;
 
@@ -1415,7 +1415,7 @@ Cuidado y conservación de las placas
 
 ###### Artículo 84.
 
-Se prohíbe remachar, soldar, modificar la forma de las placas de circulación o colocar en el lugar éstas (sic), objetos o dispositivos decorativos que se asemejen a placas de circulación nacionales o extrajeras.
+Se prohíbe remachar, soldar, modificar la forma de las placas de circulación o colocar en el lugar (sic) éstas, objetos o dispositivos decorativos que se asemejen a placas de circulación nacionales o extrajeras.
 
 Vehículos con placas de circulación expedidas en el extranjero
 
@@ -1581,7 +1581,7 @@ Reposición de las placas
 
 La pérdida, robo o deterioro total o parcial de una o ambas placas de circulación, obliga a obtener un nuevo juego de las mismas, dentro de un plazo de 15 días naturales, salvo el caso de que se trate de robo, desuso o destrucción total del Vehículo, pues entonces se dará de baja éste y consecuentemente las placas.
 
-En caso pérdida (sic) o robo de placas, el propietario o poseedor legal del Vehículo deberá de hacerlo del conocimiento inmediato del Ministerio Público y de la Secretaría.
+En caso (sic) pérdida o robo de placas, el propietario o poseedor legal del Vehículo deberá de hacerlo del conocimiento inmediato del Ministerio Público y de la Secretaría.
 
 ### CAPÍTULO IV. Del permiso provisional
 
@@ -1686,6 +1686,10 @@ El cambio de los hologramas que acreditan la verificación de contaminantes y el
 > <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
 El Poder Ejecutivo podrá refrendar la tarjeta de circulación, placas y calcomanía correspondiente a la placa de circulación al vencimiento de sus vigencias, en la forma prevista en el artículo siguiente.
+
+> <small>(ADICIONADO, D.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+El Gobernador, mediante decreto, podrá prorrogar, por un año, la vigencia del refrendo a que se refiere el párrafo anterior por una sola ocasión.
 
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -1847,7 +1851,7 @@ Requisitos para obtener el permiso para aprender a conducir
 
 ###### Artículo 122.
 
-Para obtener el permiso para aprender conducir (sic), el interesado deberá satisfacer los siguientes requisitos:
+Para obtener el permiso para aprender (sic) conducir, el interesado deberá satisfacer los siguientes requisitos:
 
 I. Tener 16 años cumplidos al día de la solicitud;
 
@@ -2181,7 +2185,7 @@ Reportes obligatorios de los propietarios o posesionarios de los vehículos
 
 ###### Artículo 146.
 
-Los propietarios o posesionarios de un Vehículo, estarán obligados a reportar en forma inmediata a la Secretaría, siguientes (sic) asuntos:
+Los propietarios o posesionarios de un Vehículo, estarán obligados a reportar en forma inmediata a la Secretaría, (sic) siguientes asuntos:
 
 l. Cambio de domicilio;
 
@@ -2681,7 +2685,7 @@ II. Auxiliar a los agentes, en materia de seguridad vial, realizando las maniobr
 
 III. Fungir como enlace con la Secretaría o la autoridad que ejerza sus funciones, y
 
-IV. Informar por escrito de las infracciones a la Ley o este Reglamento en la zona escolar de la institución educativa a la que pertenece y remitirlo a la Secretaría; (sic)
+IV. Informar por escrito de las infracciones a la Ley o este Reglamento en la zona escolar de la institución educativa a la que pertenece y remitirlo a la Secretaría;
 
 Contenido del acta elaborada por el Comisionado Escolar de Vialidad
 
@@ -2707,7 +2711,7 @@ Derechos y preferencias de los senescentes y personas con discapacidad
 
 ###### Artículo 190.
 
-Los senescentes y las personas con discapacidad, gozarán de los derechos y preferencias de paso previstos para los peatones en el artículo 48 la (sic) Ley.
+Los senescentes y las personas con discapacidad, gozarán de los derechos y preferencias de paso previstos para los peatones en el artículo 48 la Ley.
 
 Los conductores de vehículos que se encuentren detenidos en los cruces, estarán obligados a retardar la marcha de sus vehículos hasta que los senescentes y las personas con discapacidad, han cruzados totalmente la Vía Pública.
 
@@ -3247,7 +3251,7 @@ II. Periférico de la Ciudad de Mérida:
 
 a) Velocidad máxima, 90 kilómetros por hora y mínima, 70 kilómetros por hora, en el carril central;
 
-b) (sic) Velocidad máxima, 90 kilómetros por hora y mínima, 70 kilómetros por hora, en el carril izquierdo, y
+b) Velocidad máxima, 90 kilómetros por hora y mínima, 70 kilómetros por hora, en el carril izquierdo, y
 
 c) Velocidad máxima, 80 kilómetros por hora y mínima, 60 kilómetros por hora, en el carril derecho.
 
@@ -3455,7 +3459,7 @@ El Conductor que pretenda dar vuelta en "U", en cruceros donde la calle transver
 
 Ningún Conductor deberá cambiar de dirección en "U" para colocarse en sentido opuesto, en o cerca de una curva o en una cima, donde su Vehículo no pueda ser visto por otro Conductor desde una distancia de seguridad, de acuerdo con la velocidad máxima permitida en la Vía Pública.
 
-Uso carriles (sic) diseñados exclusivamente para realizar cambios de dirección
+Uso (sic) carriles diseñados exclusivamente para realizar cambios de dirección
 
 ###### Artículo 253.
 
@@ -3731,7 +3735,7 @@ Estacionamiento de autobuses en la Vía Pública
 
 ###### Artículo 271.
 
-Los autobuses y cualquier otro Vehículo de servicio público de transporte pasajeros (sic), excepto los taxis, no podrán estacionarse en cantidad superior a un Vehículo en los lugares autorizados por la autoridad correspondiente, para cambio de moneda o boletos y en este caso, lo harán solamente por el tiempo necesario para las actividades antes señaladas.
+Los autobuses y cualquier otro Vehículo de servicio público de transporte (sic) pasajeros, excepto los taxis, no podrán estacionarse en cantidad superior a un Vehículo en los lugares autorizados por la autoridad correspondiente, para cambio de moneda o boletos y en este caso, lo harán solamente por el tiempo necesario para las actividades antes señaladas.
 
 Estacionamiento de flotillas
 
@@ -3985,7 +3989,7 @@ Obligación de obedecer los Dispositivos para el Control del Tránsito y la Vial
 
 ###### Artículo 297.
 
-Todos los Usuarios de las Vías Públicas estarán obligados a conocer el significado los (sic) Dispositivos para el Control del Tránsito y la Vialidad y obedecerlos, así como las indicaciones de los agentes para dirigir la circulación en las vías públicas, en los términos de este Reglamento.
+Todos los Usuarios de las Vías Públicas estarán obligados a conocer el significado (sic) los Dispositivos para el Control del Tránsito y la Vialidad y obedecerlos, así como las indicaciones de los agentes para dirigir la circulación en las vías públicas, en los términos de este Reglamento.
 
 Prioridad de los Dispositivos para el Control del Tránsito y la Vialidad
 
@@ -4091,7 +4095,7 @@ b) Siga: dos toques cortos, los conductores deberán continuar;
 
 c) Precaución: un toque largo, los conductores deberán disminuir su velocidad;
 
-d) Alto total: tres toques largos, todos los conductores que acceden a la intersección deben hacer alto, y (sic)
+d) Alto total: tres toques largos, todos los conductores que acceden a la intersección deben hacer alto, y
 
 e) En caso de congestionamiento vehicular, dará tres o más toques cortos para conminar al orden y a la calma, procediendo posteriormente a la regulación del flujo y desahogo vehicular, de acuerdo a las indicaciones anteriores;
 
@@ -4311,7 +4315,7 @@ XXII. SR-26. Prohibido seguir de frente;
 
 XXIII. SR-27. Prohibido el paso a bicicletas, vehículos pesados y motocicletas;
 
-XXIV. SR-28. Prohibido el paso a vehículos tracción (sic) animal;
+XXIV. SR-28. Prohibido el paso a vehículos (sic) tracción animal;
 
 XXV. SR-29. Prohibido el paso de vehículos de maquinaria agrícola;
 
@@ -4875,7 +4879,7 @@ Las maniobras de ascenso y descenso de pasajeros deberán realizarse por el tiem
 
 Los avisos para detener la marcha de los vehículos de servicio público de transporte de pasajeros, deberán hacerse únicamente por medio de señales audibles.
 
-Identificación de los vehículos de servicio público de transporte pasajeros (sic)
+Identificación de los vehículos de servicio público de transporte (sic) pasajeros
 
 ###### Artículo 341.
 
@@ -4899,7 +4903,7 @@ Prohibiciones a los conductores de vehículos de servicio público de transporte
 
 ###### Artículo 343.
 
-Se prohíbe a los conductores de vehículos del servicio público de transporte pasajeros (sic):
+Se prohíbe a los conductores de vehículos del servicio público de transporte (sic) pasajeros:
 
 I. Realizar ascenso y descenso de pasaje en los lugares distintos de los autorizados;
 
@@ -5121,7 +5125,7 @@ Para transportar materiales u objetos repugnantes a la vista y al olfato será n
 
 I. Llevarlos en dispositivos perfectamente cerrados;
 
-II. Contar con el permiso de la Secretaria, que fijará el horario y derrotero correspondiente, y
+II. Contar con el permiso de la Secretaría, que fijará el horario y derrotero correspondiente, y
 
 III. Sujetará a las disposiciones del permiso correspondiente y a las de la Ley de Salud del Estado vigente.
 
@@ -5213,7 +5217,7 @@ V. Fijar en lugar visible de la terminal, una señal informativa en la que apare
 
 a) La clase de servicio que se presta en la terminal, ya sea de transporte de pasajeros o de carga, y
 
-b) El horario a que estén sujetas las actividades de la terminal y las tarifas que rigen la prestación del servicio correspondiente., (sic) y
+b) El horario a que estén sujetas las actividades de la terminal y las tarifas que rigen la prestación del servicio correspondiente., y
 
 VI. Notificar a la Secretaría y demás autoridades que hayan intervenido en la autorización, cuando hayan decidido dejar de hacer uso de la misma, para efectos de la cancelación correspondiente.
 
@@ -5821,7 +5825,7 @@ Obligaciones de las instituciones médicas
 
 ###### Artículo 404.
 
-Es obligación de las instituciones médicas públicas o privadas y de los profesionales de la medicina, dar aviso a la Secretaría cuando presten atención a una persona con lesiones fueron (sic) causadas en algún hecho o accidente de tránsito y emitir en forma inmediata, un dictamen médico del lesionado en donde se haga constar lo siguiente:
+Es obligación de las instituciones médicas públicas o privadas y de los profesionales de la medicina, dar aviso a la Secretaría cuando presten atención a una persona con lesiones (sic) fueron causadas en algún hecho o accidente de tránsito y emitir en forma inmediata, un dictamen médico del lesionado en donde se haga constar lo siguiente:
 
 I. Nombre y domicilio del lesionado;
 
@@ -5833,7 +5837,7 @@ IV. Lesiones que presenta;
 
 V. Determinar si presenta estado de ebriedad o carece de aptitud para conducir por el influjo de drogas, psicotrópicos, estupefacientes o sustancias análogas;
 
-VI. Determinar si las lesiones ponen en peligro la vida, si tardan más o menos de 15 días en sanar, o causan incapacidad parcial o total, en su caso, y si las cicatrices o secuelas permanentes (sic), y
+VI. Determinar si las lesiones ponen en peligro la vida, si tardan más o menos de 15 días en sanar, o causan incapacidad parcial o total, en su caso, y si las cicatrices o secuelas (sic) permanentes, y
 
 VII. Nombre, domicilio, número de cédula profesional y firma de quien atendió al lesionado.
 
@@ -5997,7 +6001,7 @@ Conocimiento de los hechos o accidentes de tránsito
 
 ###### Artículo 417.
 
-Los peritos, al tener conocimiento de un hecho o accidente de tránsito, procederán con la agilidad y precisión necesaria a fin de los (sic) heridos graves, si los hubiere, tengan la posibilidad de sobrevivir; para evitar mayores daños sobre los bienes de los involucrados y de terceros, así como para facilitar la normalización del Tránsito.
+Los peritos, al tener conocimiento de un hecho o accidente de tránsito, procederán con la agilidad y precisión necesaria a fin de (sic) los heridos graves, si los hubiere, tengan la posibilidad de sobrevivir; para evitar mayores daños sobre los bienes de los involucrados y de terceros, así como para facilitar la normalización del Tránsito.
 
 Los peritos, al llegar al lugar del hecho o accidente de tránsito, deberán iniciar de forma inmediata la atención del caso, por lo que durante su trayecto, deberán recabar la siguiente información:
 
@@ -6129,7 +6133,7 @@ II. La trayectoria y posición de los vehículos o peatones y los objetos dañad
 
 III. La longitud de las huellas y características de los residuos dejadas sobre el pavimento o superficie de rodamiento;
 
-IV. Los nombres o números y orientación de las calles y nombre de colonia (sic) o fraccionamiento;
+IV. Los nombres o números y orientación de las calles y nombre de (sic) colonia o fraccionamiento;
 
 V. El nombre y la firma del Perito que conozca del accidente de tránsito, y
 
@@ -6157,7 +6161,7 @@ Forma de garantizar los daños causados
 
 ###### Artículo 425.
 
-Cuando las partes involucradas en un accidente de Tránsito o los propietarios, posesionarios y/o representante legal, no llegaren a un arreglo, y únicamente existan daños materiales y el valor o la Póliza de seguro del Vehículo del probable responsable, garantice el daño ocasionado por éste, se remitirá el peritaje y se pondrá disposición (sic) de la autoridad ministerial los vehículos.
+Cuando las partes involucradas en un accidente de Tránsito o los propietarios, posesionarios y/o representante legal, no llegaren a un arreglo, y únicamente existan daños materiales y el valor o la Póliza de seguro del Vehículo del probable responsable, garantice el daño ocasionado por éste, se remitirá el peritaje y se pondrá (sic) disposición de la autoridad ministerial los vehículos.
 
 Cuando el valor o la Póliza de seguro del Vehículo del presunto responsable, no garantice los daños ocasionados, se remitirá de igual forma al Conductor probable responsable.
 
@@ -6189,7 +6193,7 @@ I. Ninguno de los conductores se encuentre con aliento alcohólico, bajo el infl
 
 II. No existan lesionados o cuando existan, sean mayores de edad y sus heridas tarden en sanar menos de 15 días y por tanto no pongan en peligro la vida;
 
-III. No haya, con (sic) consecuencia del siniestro, persona o personas fallecidas;
+III. No haya, con consecuencia del siniestro, persona o personas fallecidas;
 
 IV. Los involucrados sean propietarios, posesionarios, representantes legales, o que tengan la custodia legal de los bienes dañados;
 
@@ -6267,7 +6271,7 @@ La Secretaría prestará el servicio público especializado de transporte de car
 
 I. En los casos, en que se requiera para retirar de la Vía Pública algún Vehículo, a solicitud del Perito, quien primeramente deberá solicitar una grúa de la Secretaría;
 
-II. En caso de que la Secretaría no cuente con grúas disponibles, se proporcionará al propietario, posesionario o conductor del Vehículo, una lista de los concesionarios del servicio especializado de grúas, para que decida libremente al prefiera (sic);
+II. En caso de que la Secretaría no cuente con grúas disponibles, se proporcionará al propietario, posesionario o conductor del Vehículo, una lista de los concesionarios del servicio especializado de grúas, para que decida libremente al (sic) prefiera;
 
 III. En caso de que el propietario, posesionario o conductor del Vehículo se encuentre imposibilitado para decidir por cualquier motivo, en su lugar podrá decidir el ajustador de la aseguradora que ampara al Vehículo y, en caso de no estar presente o no contar con seguro, se nombrará la grúa del concesionario que se encuentre en turno, para remitirlo al depósito vehicular correspondiente, y
 
@@ -6425,7 +6429,7 @@ Para la aplicación de las sanciones establecidas en la ley, deberá atenderse a
 
 I. La clasificación de la infracción;
 
-II. La reiteración la (sic) infracción;
+II. La reiteración (sic) la infracción;
 
 III. Las circunstancias de modo, tiempo y lugar donde se cometa la infracción;
 
@@ -6499,7 +6503,7 @@ Puntos de acumulación
 
 ###### Artículo 454.
 
-Los puntos de acumulación a que se refiere la fracción II artículo (sic) anterior, se contabilizarán de la siguiente manera:
+Los puntos de acumulación a que se refiere la fracción II (sic) artículo anterior, se contabilizarán de la siguiente manera:
 
 I. Un punto: por infringir cualquier disposición de la Ley o este Reglamento, considerada Leve, y
 
@@ -6511,7 +6515,7 @@ Cuando el conductor infrinja cualquier disposición de la Ley o este Reglamento,
 
 Los puntos de acumulación tendrán una vigencia de un año, contados a partir de la fecha de la expedición de la primera boleta de infracción.
 
-El Registro Estatal de Control Vehicular deberá llevar el conteo de los puntos de acumulación, a efecto de que la Secretaría notifique con oportunidad a los conductores, acerca de las suspensiones y, en su caso, revocaciones sus (sic) licencias o permisos de conducir.
+El Registro Estatal de Control Vehicular deberá llevar el conteo de los puntos de acumulación, a efecto de que la Secretaría notifique con oportunidad a los conductores, acerca de las suspensiones y, en su caso, revocaciones (sic) sus licencias o permisos de conducir.
 
 La acumulación de puntos no exime al titular de la licencia o del permiso de conducir, del cumplimiento de la sanción que le corresponda por la infracción cometida.
 
@@ -6607,7 +6611,7 @@ b) Nombre y domicilio del infractor, salvo que éste no se encuentre presente o 
 
 c) Placas de circulación o, en su caso, número de permiso para circular;
 
-d) Número y tipo permiso (sic) o licencia de conducir o, en su caso, del permiso para aprender a conducir, y
+d) Número y tipo (sic) permiso o licencia de conducir o, en su caso, del permiso para aprender a conducir, y
 
 e) Nombre, número de placa, adscripción y firma del Agente que impuso la sanción.
 
@@ -6637,7 +6641,7 @@ Retención de la placa
 
 ###### Artículo 466.
 
-En el caso de los conductores de vehículos con placas de otros estados del país cometan (sic) alguna infracción a las disposiciones de Tránsito y Vialidad, el Agente podrá retenerse (sic) una placa de circulación o los documentos establecidos en el artículo anterior, como medida para garantizar el pago de la multa correspondiente.
+En el caso de los conductores de vehículos con placas de otros estados del país (sic) cometan alguna infracción a las disposiciones de Tránsito y Vialidad, el Agente podrá retenerse (sic) una placa de circulación o los documentos establecidos en el artículo anterior, como medida para garantizar el pago de la multa correspondiente.
 
 Se procederá de igual forma, tratándose de vehículos registrados en el Estado de Yucatán, cuando no acrediten la verificación de contaminantes o cuando a pesar de contar con el holograma de verificación de contaminantes, en forma ostensible se aprecie que sus emisiones de ruido y contaminantes pueden rebasar los límites máximos permisibles. Lo anterior a efecto de garantizar que los propietarios o posesionarios del Vehículo cumplan con los requisitos y normas establecidos en este Reglamento y demás disposiciones legales y normativas aplicables.
 
@@ -6777,7 +6781,7 @@ Interposición del recurso de revisión
 
 ###### Artículo 482.
 
-En contra de las sanciones que se impongan por violaciones la (sic) Ley y este Reglamento, procede el Recurso de Revisión que se interpondrá ante el Juez de Vialidad que las haya impuesto.
+En contra de las sanciones que se impongan por violaciones (sic) la Ley y este Reglamento, procede el Recurso de Revisión que se interpondrá ante el Juez de Vialidad que las haya impuesto.
 
 El procedimiento y la forma para interponer el recurso de revisión, se sujetará a lo dispuesto en la Ley de Actos y Procedimientos Administrativos del Estado de Yucatán.
 
@@ -7015,7 +7019,7 @@ C. LUIS FELIPE SAIDÉN OJEDA
 
 SECRETARIO DE SEGURIDAD PÚBLICA
 
-> <small>N. DE E. VEASE ANEXO EN EL D.O. DE 21 DE JUNIO DE 2011, PAGINAS DE LA 246 A LA 286. F. DE E. AL ANEXO, D.O. 24 DE JUNIO DE 2011.</small>
+> <small>N. DE E. VÉASE ANEXO EN EL D.O. DE 21 DE JUNIO DE 2011, PÁGINAS DE LA 246 A LA 286. F. DE E. AL ANEXO, D.O. 24 DE JUNIO DE 2011.</small>
 
 > <small>N. DE E. VÉASE REFORMAS AL ANEXO, D.O. 30 DE DICIEMBRE DE 2011, PÁGINAS DE LA 35 A LA 75.</small>
 
@@ -7026,3 +7030,13 @@ D.O. 30 DE DICIEMBRE DE 2011.
 PRIMERO. Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 SEGUNDO. Se derogan todas las disposiciones de igual o menor rango que se opongan a las disposiciones del Reglamento de la Ley de Tránsito y Vialidad del Estado de Yucatán, contenidas en este Decreto.
+
+D.O. 29 DE NOVIEMBRE DE 2014.
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Derogación tácita
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan al contenido de este decreto.
