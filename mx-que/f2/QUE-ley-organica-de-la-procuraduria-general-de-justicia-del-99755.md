@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-de-la-procuraduria-general-de-justicia-del-99755"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-03-20"
-last_updated: "2014-06-29"
+last_updated: "2014-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 20 de marzo de 2014.
 
@@ -67,9 +67,11 @@ VII. Instituto: el Instituto de Profesionalización de la Procuraduría General 
 
 VIII. FIPROJUSAA: Fideicomiso para la Procuración de Justicia, Asistencia y Apoyo a las Víctimas del Delito.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 4.
 
-(Ministerio Público y Policías). La investigación de los delitos corresponde al Ministerio Público y a las Policías. Para el cumplimiento de sus fines, el Ministerio Público contará con la Policía de Investigación del Delito, que estará bajo su conducción y mando inmediato.
+(Ministerio Público y Policías). La investigación de los delitos corresponde al Ministerio Público y a las Policías en términos del artículo 21 de la Constitución. Para el cumplimiento de sus fines, el Ministerio Público contará con la Policía de Investigación del Delito, que estará bajo su conducción y mando inmediato.
 
 ###### Artículo 5.
 
@@ -97,15 +99,25 @@ IX. Promover, respetar, proteger y garantizar los Derechos Humanos, de conformid
 
 X. Informar a las víctimas u ofendidos sobre los derechos que en su favor establecen la Constitución y las leyes aplicables en la materia; cuando así lo soliciten, del desarrollo del procedimiento penal que corresponda; en las diferentes etapas de éste, obtener, aportar, ofrecer datos y medios de prueba, así como participar en su desahogo, auxiliando a las víctimas u ofendidos al respecto. Cuando se considere que no es necesario el desahogo de actuaciones de investigación requeridas por las partes, deberá fundar y motivar su negativa;
 
-XI. Propiciar la aplicación de los mecanismos alternativos de solución de controversias, conforme a la ley de la materia, actuando con imparcialidad, sin que existan ventajas indebidas y, en su caso, someter a consideración y autorización del Procurador, la aplicación de criterios de oportunidad; y
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XII. Las demás que le correspondan conforme a la normatividad aplicable.
+XI. Propiciar la aplicación de los mecanismos alternativos de solución de controversias, conforme a la ley de la materia, actuando con imparcialidad, sin que existan ventajas indebidas y, en su caso, someter a consideración y autorización del Procurador, la aplicación de criterios de oportunidad;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XII. Garantizar la protección de víctimas, ofendidos, testigos y, en general, de todos los sujetos que intervienen en el proceso; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XIII. Las demás que le correspondan conforme a la legislación procedimental y demás normatividad aplicable.
 
 ###### Artículo 6.
 
 (Atribuciones del Ministerio Público Especializado en Justicia para Adolescentes). Corresponde al Ministerio Público Especializado en Justicia para Adolescentes:
 
-I. Investigar las conductas tipificadas como delito por las leyes del Estado y por la Ley General de Salud, que sean atribuidas a personas menores de 18 años, que sean de la competencia de los tribunales del Estado de Querétaro;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+I. Investigar las conductas tipificadas como delito por las leyes del Estado y por la demás legislación aplicable, atribuidas a personas menores de 18 años, que sean de la competencia de los tribunales del Estado de Querétaro;
 
 II. Velar en todo momento por el respeto, integridad, dignidad y estricto cumplimiento de los derechos y garantías de los adolescentes sujetos a la ley de la materia, así como de las víctimas u ofendidos por las conductas tipificadas como delitos, presuntamente realizados por aquéllos;
 
@@ -113,7 +125,9 @@ III. Determinar la apertura de un expediente de investigación, en el que deber�
 
 IV. Realizar lo conducente para que, desde el momento en que le sea puesto a disposición un adolescente, se asigne a éste un Defensor Público Especializado;
 
-V. Informar de inmediato al adolescente, a las personas que ejercen sobre él patria potestad, custodia o tutela, a la persona con quien viva y a su defensor, respecto a su situación jurídica y los derechos que le asisten; entre ellos, el de la aplicación de medios alternos de solución de conflictos, cuando así proceda;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+V. Informar de inmediato al adolescente, a las personas que ejercen sobre él patria potestad, custodia o tutela, a la persona con quien viva y a su defensor, respecto a su situación jurídica y los derechos que le asisten; entre ellos, el de la aplicación de mecanismos alternativos de solución de controversias, cuando así proceda;
 
 VI. Privilegiar la aplicación de medios alternos de solución de conflictos y, en su caso, someter a consideración y autorización del Procurador, la aplicación de criterios de oportunidad;
 
@@ -177,13 +191,17 @@ V. Auxiliar al Ministerio Público en las diferentes etapas del procedimiento pe
 
 VI. Recibir los escritos que se presenten, asentando al calce razón del día y hora de su recibo, precisando el número de hojas que contengan, los documentos anexos y objetos que se entreguen, dando cuenta con ellos al Agente del Ministerio Público, a más tardar dentro del plazo de veinticuatro horas;
 
-VII. Por acuerdo del Ministerio Público, preparar, para efectos de certificación, previo cotejo que haga con los originales o copias, según el caso, los testimonios de las actuaciones de carpetas de investigación, mecanismos alternativos de solución de controversias, atención integral o de constancias que obren en ellas, así como cotejar para efectos de certificación los documentos que hayan de ser agregados a éstas;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+VII. Por acuerdo del Ministerio Público, preparar, para efectos de certificación, previo cotejo que haga con los originales o copias, según el caso, los registros de las carpetas de investigación, mecanismos alternativos de solución de controversias, atención integral o de constancias que obren en ellas, así como cotejar para efectos de certificación, los documentos que hayan de ser agregados a éstas;
 
 VIII. Cuidar los libros, sellos, documentos, mobiliario y demás objetos que se encuentren en la Agencia del Ministerio Público a la que esté adscrito;
 
 IX. Recibir las cantidades que se depositen por concepto de caución para gozar de libertad, multas y cualquier otro tipo de depósito o pago, remitiéndolos de inmediato a la Dirección de Servicios Administrativos o a la institución recaudatoria autorizada.
 
-Para el efecto de esta fracción, deberá llevar un libro de registro en el que se asentará: el número de las carpetas de investigación o medios alternos de solución de conflictos en que se hagan los depósitos, el importe de éstos, la fecha de recepción y de entrega a la Dirección de Servicios Administrativos o a la institución recaudatoria autorizada y el registro de su devolución o entrega, todo lo cual debe ser adecuadamente supervisado por el Agente del Ministerio Público, bajo su más estricta responsabilidad; y
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Para el efecto de esta fracción, deberá llevar un libro de registro en el que se asentará: el número de las carpetas de investigación y del empleo de mecanismos alternativos de solución de controversias en que se hagan los depósitos, el importe de éstos, la fecha de recepción y de entrega a la Dirección de Servicios Administrativos o a la institución recaudatoria autorizada y el registro de su devolución o entrega; todo lo cual debe ser adecuadamente supervisado por el Agente del Ministerio Público, bajo su más estricta responsabilidad; y
 
 X. Las demás facultades y obligaciones que legalmente le correspondan.
 
@@ -199,7 +217,9 @@ II. Ejercer la conducción y mando de la investigación de los delitos del fuero
 
 III. Ordenar a la Policía, a sus auxiliares o a otras autoridades del Estado o de los municipios, en el ámbito de su competencia, la práctica de diligencias conducentes para el esclarecimiento del hecho que la ley señale como delito, así como analizar y tomar en consideración las que dichas autoridades hubieren practicado;
 
-IV. Dictar, en su caso, las medidas y providencias necesarias para impedir que se pierdan, destruyan o alteren los indicios o cualquier objeto relacionado con el delito, así como cerciorarse de que se han seguido las disposiciones para su preservación y procesamiento;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+IV. Dictar, en su caso, las medidas y providencias necesarias para impedir que se pierdan, destruyan o alteren los indicios o cualquier objeto relacionado con el delito, así como cerciorarse de que se han seguido las disposiciones para su preservación y procesamiento, respetando la correcta aplicación de la cadena de custodia conforme a la legislación procedimental aplicable;
 
 V. Ejercer funciones de investigación respecto de los delitos en materias concurrentes, cuando las leyes le otorguen competencia a las autoridades del fuero común;
 
@@ -239,7 +259,9 @@ XXII. Ejercer ante la autoridad judicial competente, en materia de ejecución de
 
 XXIII. Decidir sobre la procedencia de alguna forma de terminación anticipada del proceso, en los términos de la ley aplicable; y
 
-XXIV. Las demás que señale esta Ley y otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XXIV. Las demás que señale esta Ley, la legislación procedimental y otras disposiciones aplicables.
 
 Los Agentes del Ministerio Público tendrán la conducción y mando inmediato en el ejercicio de sus funciones, sobre todos los miembros de la Policía de Investigación del Delito y de las Policías Estatal y Municipal.
 
@@ -251,7 +273,9 @@ I. Observar las normas establecidas en la legislación de procedimientos penales
 
 II. Recibir y dar trámite a las denuncias o querellas que le sean formuladas, ordenando de forma inmediata las diligencias necesarias para la obtención de datos que establezcan que se ha cometido un hecho que la ley señale como delito y que exista la probabilidad de que el señalado como imputado lo cometió o participó en su comisión;
 
-III. Observar irrestrictamente los principios de publicidad, contradicción, concentración, continuidad, inmediación y demás previstos en la Constitución, en la Constitución del Estado y en la legislación de procedimientos penales aplicable;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+III. Observar irrestrictamente los principios de publicidad, contradicción, concentración, continuidad, inmediación y demás previstos en la Constitución del Estado y en la legislación procedimental aplicable;
 
 IV. Privilegiar los mecanismos alternativos de solución de controversias cuando en el procedimiento, tanto la víctima u ofendido como el imputado, participen conjuntamente en la solución de las cuestiones derivadas del hecho que la ley señale como delito, en busca de un resultado restaurativo, en los términos establecidos en la legislación aplicable;
 
@@ -571,7 +595,7 @@ XIX. Cambiar la adscripción del personal operativo, cuando lo estime necesario;
 
 XX. Nombrar Agentes del Ministerio Público Especializados y disponer la apertura de Agencias Especializadas, cuando lo estime conveniente;
 
-XXI. Resolver por sí o a través de los Subprocuradores, la inconformidad que se presente contra las determinaciones del Ministerio Público sobre abstención de investigar, archivo temporal, archivo definitivo o sobre la aplicación de criterios de oportunidad, en términos de lo dispuesto por las leyes aplicables;
+XXI. (DEROGADA, P.O. 29 DE NOVIEMBRE DE 2014)
 
 XXII. Decidir por sí o a través del servidor público en quien delegue dicha facultad, sobre la postura que deberá asumirse ante la vista que haya dado el órgano jurisdiccional durante cualquier etapa del procedimiento que ante él se tramite, en términos de lo dispuesto por las leyes aplicables;
 
@@ -603,7 +627,7 @@ XXXII. Las demás facultades y obligaciones que otras leyes y reglamentos le con
 
 I. Ejercerán las funciones que señale esta Ley para el Procurador, durante las faltas temporales de éste;
 
-II. Por delegación del Procurador, resolver las inconformidades presentadas en contra de las determinaciones del Ministerio Público sobre abstención de investigar, archivo temporal, archivo definitivo o sobre la aplicación de criterios de oportunidad, en términos de lo dispuesto por las leyes aplicables;
+II. (DEROGADA, P.O. 29 DE NOVIEMBRE DE 2014)
 
 III. Por delegación del Procurador, resolver sobre la postura que deberá asumirse ante la vista que haya dado el órgano jurisdiccional durante cualquier etapa del procedimiento que ante éste se tramite, en términos de lo dispuesto por las leyes aplicables;
 
@@ -641,25 +665,45 @@ V. Registrar y dar inicio a las carpetas de investigación sin detenido, recaban
 
 VI. Dictaminar, registrar y remitir a las diferentes áreas de justicia alternativa, los casos en los que proceda la aplicación de mecanismos alternativos de solución de controversias en materia penal;
 
-VII. Proponer a las partes la intervención de un especialista en mecanismos alternativos de solución de controversias, para que participe y facilite la concreción de acuerdos reparatorios, cuando así resulte procedente;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-VIII. Decretar la suspensión de la investigación durante el plazo para el cumplimiento del acuerdo reparatorio y dar seguimiento a dicho cumplimiento; en caso de incumplimiento, levantar la suspensión y turnar la carpeta de investigación a la Dirección de Investigaciones y Procesos para continuar con la investigación;
+VII. Proponer a las partes la intervención de un especialista en mecanismos alternativos de solución de controversias, para que participe y facilite la concreción de acuerdos reparatorios, cuando así resulte procedente, conforme a la legislación aplicable;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+VIII. Solicitar al Juez de Control la aprobación de acuerdo reparatorio de cumplimiento diferido y decrete la suspensión de la investigación durante el plazo establecido para el cumplimiento; en caso de incumplimiento, solicitarle se levante la suspensión de la investigación;
 
 IX. Dictaminar, registrar y remitir para su atención a las autoridades federales, estatales, municipales u organismos descentralizados, los casos que resulten de su competencia, en términos de las disposiciones aplicables;
 
 X. Resolver, en los términos de las disposiciones aplicables, la abstención de investigación, el archivo temporal, el no ejercicio de la acción penal, la aplicación de criterios de oportunidad o, en su caso, remitir las carpetas de investigación al Ministerio Público de Investigaciones y Procesos, para su conocimiento y resolución, comunicando por escrito al denunciante o querellante según corresponda;
 
-XI. Aprobar, a través del Agente del Ministerio Público, los acuerdos reparatorios celebrados en la etapa de investigación, debiendo verificar que las obligaciones que se contraen no resulten notoriamente desproporcionadas y que los intervinientes estén en condiciones de igualdad para negociar y no se haya actuado bajo coacción o amenaza;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XII. Elaborar las actas de aviso o constancias que soliciten las personas, por el extravío de documentos u objetos, siempre que no estén relacionados con hechos constitutivos de delito;
+XI. Aprobar, a través del Agente del Ministerio Público, en términos de la legislación procedimental aplicable, los acuerdos reparatorios de cumplimiento inmediato celebrados en la etapa de investigación, debiendo verificar que las obligaciones que se contraen no resulten notoriamente desproporcionadas y que los intervinientes estén en condiciones de igualdad para negociar y no se haya actuado bajo coacción o amenaza;
 
-XIII. Registrar la información de las personas atendidas, asuntos planteados, así como la canalización y atención brindada en coordinación con la Dirección de Tecnologías de Información y Comunicación;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XIV. Expedir certificación de antecedentes penales, únicamente a las autoridades que en ejercicio de sus funciones las soliciten y constancias en los términos establecidos en la legislación aplicable. En su caso, copias certificadas de los documentos a que se refiere dicha certificación, siempre que éstos tengan relación con un procedimiento jurisdiccional;
+XII. Supervisar, dar seguimiento y llevar registro del cumplimiento de los acuerdos reparatorios celebrados ante el Ministerio Público;
 
-XV. Realizar, a petición y costa del procesado, la cancelación administrativa de antecedente penal, expidiendo la constancia que acredite lo anterior, cuando la autoridad jurisdiccional hubiera declarado la prescripción de antecedente penal, previa acreditación de haber cumplido la sanción impuesta, mediante las documentales conducentes, expidiendo la constancia que así lo acredite; y
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XVI. Las demás que le otorguen las disposiciones aplicables.
+XIII. Elaborar las actas de aviso o constancias que soliciten las personas, por el extravío de documentos u objetos, siempre que no estén relacionados con hechos constitutivos de delito;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XIV. Registrar la información de las personas atendidas, asuntos planteados, así como la canalización y atención brindada en coordinación con la Dirección de Tecnologías de Información y Comunicación;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XV. Expedir certificación de antecedentes penales, únicamente a las autoridades que en ejercicio de sus funciones las soliciten y a las personas de cuyos antecedentes se trate, por ser necesarias para ejercitar un derecho o cumplir un deber legalmente previstos. En su caso, copias certificadas de los documentos a que se refiere dicha certificación, siempre que éstos tengan relación con un procedimiento jurisdiccional;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XVI. Realizar, a petición y costa del procesado, la cancelación administrativa de antecedente penal, expidiendo la constancia que acredite lo anterior, cuando la autoridad jurisdiccional hubiera declarado la prescripción de antecedente penal, previa acreditación de haber cumplido la sanción impuesta, mediante las documentales conducentes, expidiendo la constancia que así lo acredite; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XVII. Las demás que le otorguen las disposiciones aplicables.
 
 ###### Artículo 40.
 
@@ -671,21 +715,41 @@ II. Coordinar y supervisar por sí o a través de sus auxiliares, el desarrollo 
 
 III. Supervisar por sí o a través de sus auxiliares, que los asuntos que sean susceptibles de resolverse mediante mecanismos alternativos de solución de controversias, sean canalizados de inmediato a la Dirección de Justicia Alternativa para el trámite correspondiente;
 
-IV. Autorizar o no autorizar, por sí o a través del Subdirector, las determinaciones de los Agentes del Ministerio Público que consulten el archivo temporal, el no ejercicio de la acción penal o la abstención de investigación, así como sobre la aplicación de criterios de oportunidad. De resultar procedente la consulta, se ordenará la notificación a la parte ofendida para que, en su caso, formule la correspondiente inconformidad ante el Procurador;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-V. Realizar estudios de organización y funcionamiento de sus áreas, de acuerdo a las necesidades, para el mejor desempeño del trabajo encomendado, sometiendo los resultados y propuestas a consideración del Procurador;
+IV. Autorizar o no autorizar, por sí o a través del Subdirector, las determinaciones de los Agentes del Ministerio Público que consulten el archivo temporal, el no ejercicio de la acción penal o la abstención de investigación, así como sobre la aplicación de criterios de oportunidad. De resultar procedente la consulta, se ordenará la notificación al ofendido o víctima para que, en su caso, formule la correspondiente impugnación ante el Juez de Control;
 
-VI. Implementar los controles y registros de personas atendidas y canalizadas a justicia penal alternativa, de inicios de carpetas de investigación, de determinaciones emitidas y remisión de carpetas de investigación al Ministerio Público de Justicia Penal Alternativa o al Ministerio Público de Investigación y Procesos, según corresponda;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-VII. Representar a la Procuraduría, por acuerdo del Procurador, ante las instancias u organismos que se relacionen con las funciones a su cargo;
+V. Turnar las solicitudes de colaboración ministerial y carpetas de investigación por causa de incompetencia a las autoridades correspondientes;
 
-VIII. Coordinarse con otras instancias u organismos públicos, sociales y privados, tanto locales como federales, en un plano de colaboración, en todo aquello que se relacione con las atribuciones de la Dirección;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-IX. Proponer al Procurador la celebración de acuerdos, convenios u otros instrumentos de coordinación y colaboración relacionados con las atribuciones de la Dirección;
+VI. Realizar estudios de organización y funcionamiento de sus áreas, de acuerdo a las necesidades, para el mejor desempeño del trabajo encomendado, sometiendo los resultados y propuestas a consideración del Procurador;
 
-X. Proponer al Instituto los requerimientos en materia de profesionalización para el personal de la Dirección a su cargo; y
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XI. Las demás que le confiera el Procurador.
+VII. Implementar los controles y registros de personas atendidas y canalizadas a justicia penal alternativa, de inicios de carpetas de investigación, de determinaciones emitidas y remisión de carpetas de investigación al Ministerio Publico de Justicia Penal Alternativa o al Ministerio Público de Investigación y Procesos, según corresponda;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+VIII. Representar a la Procuraduría, por acuerdo del Procurador, ante las instancias u organismos que se relacionen con las funciones a su cargo;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+IX. Coordinarse con otras instancias u organismos públicos, sociales y privados, tanto locales como federales, en un plano de colaboración, en todo aquello que se relacione con las atribuciones de la Dirección;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+X. Proponer al Procurador la celebración de acuerdos, convenios u otros instrumentos de coordinación y colaboración relacionados con las atribuciones de la Dirección;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XI. Proponer al Instituto los requerimientos en materia de profesionalización para el personal de la Dirección a su cargo; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XII. Las demás que le confiera el Procurador.
 
 ### Capítulo IV. De la Dirección de Justicia Alternativa
 
@@ -703,7 +767,9 @@ III. Los Agentes del Ministerio Público, Facilitadores, Invitadores y personal 
 
 (Atribuciones de la Dirección de Justicia Alternativa). La Dirección de Justicia Alternativa tendrá las siguientes atribuciones:
 
-I. Conocer de las controversias que los particulares planteen de forma directa o por canalización del Ministerio Público, para procurar que se solucionen a través de acuerdos reparatorios en los mecanismos alternos de solución de controversias, los que procederán únicamente en los casos siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+I. Conocer, en términos de la legislación aplicable, de las controversias que los particulares planteen de forma directa o por canalización del Ministerio Público, para procurar que se solucionen a través de acuerdos reparatorios en los mecanismos alternativos de solución de controversias, los que procederán únicamente en los casos siguientes:
 
 a) Delitos que se persiguen por querella o requisito equivalente de parte ofendida.
 
@@ -725,15 +791,29 @@ V. Recabar las firmas de las partes en los acuerdos reparatorios celebrados ante
 
 VI. Verificar que las obligaciones contenidas en los acuerdos reparatorios no resulten notoriamente desproporcionadas y que los intervinientes estuvieron en condiciones de igualdad y exentos de intimidación, amenaza o coacción;
 
-VII. Aprobar, a través del Agente del Ministerio Público, el acuerdo reparatorio resultante de los mecanismos alternativos de solución que den fin a la controversia penal;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-VIII. Supervisar, dar seguimiento y llevar registro del cumplimiento de los acuerdos reparatorios celebrados ante el Ministerio Público;
+VII. Aprobar, a través del Ministerio Público, el acuerdo reparatorio de cumplimiento inmediato resultante de los mecanismos alternativos de solución que den fin a la controversia penal;
 
-IX. Registrar la información de los asuntos de su competencia, en coordinación con la Dirección de Tecnologías de Información y Comunicación; y
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-X. Las demás que le confiera la legislación de la materia.
+VIII. Solicitar al Juez de Control la aprobación de acuerdo reparatorio de cumplimiento diferido y decrete la suspensión de la investigación durante el plazo fijado para el cumplimiento; en caso de incumplimiento, solicitarle se levante la suspensión de la investigación;
 
-Los Agentes del Ministerio Público de la Dirección de Justicia Alternativa, tienen fe pública en el ejercicio de sus atribuciones; los acuerdos reparatorios que ponen fin a las controversias de las partes, tendrá efectos de cosa juzgada y traerán aparejada ejecución en caso de incumplimiento, siendo éste el documento base de la acción.
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+IX. Supervisar, dar seguimiento y llevar registro del cumplimiento de los acuerdos reparatorios celebrados ante el Ministerio Público;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+X. Registrar la información de los asuntos de su competencia, en coordinación con la Dirección de Tecnologías de Información y Comunicación; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XI. Las demás que le confiera la legislación de la materia.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+Los Agentes del Ministerio Público de la Dirección de Justicia Alternativa, tienen fe pública en el ejercicio de sus atribuciones; los acuerdos reparatorios que ponen fin a las controversias de las partes, tendrán efecto de cosa juzgada.
 
 ###### Artículo 43.
 
@@ -793,7 +873,9 @@ V. Propiciar, en los casos que así proceda, la aplicación de mecanismos altern
 
 VI. Proponer a las partes la intervención de un especialista en mecanismos alternativos de solución de controversias, para que participe y facilite la concreción de acuerdos reparatorios;
 
-VII. Decretar la suspensión de la investigación durante el plazo legalmente establecido para el cumplimiento del acuerdo reparatorio y darle seguimiento. En caso de incumplimiento, levantará la suspensión y continuará con la investigación;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+VII. Solicitar al Juez de Control la aprobación del acuerdo reparatorio de cumplimiento diferido y decrete la suspensión de la investigación durante el plazo fijado para el cumplimiento; en caso de incumplimiento, solicitarle se levante la suspensión de la investigación;
 
 VIII. Ejercitar la acción penal pública ante los órganos jurisdiccionales competentes, en los casos legalmente procedentes;
 
@@ -819,9 +901,13 @@ III. Vigilar, promover y dar seguimiento al procedimiento penal, a fin de que se
 
 IV. Solicitar al Procurador la intervención de comunicaciones privadas, de conformidad con la ley de la materia;
 
-V. Autorizar o no autorizar las determinaciones de los Agentes del Ministerio Público que consulten la abstención de la investigación, el archivo temporal, el no ejercicio de la acción penal o la aplicación de criterios de oportunidad. De resultar procedente la consulta, se ordenará la notificación a la parte ofendida para que, en su caso, formule la correspondiente inconformidad ante el Procurador;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-VI. Autorizar las determinaciones de los Agentes del Ministerio Público que pongan fin al procedimiento penal y, en su caso, turnar al Procurador las inconformidades para su determinación;
+V. Autorizar o no autorizar, por sí o a través del Subdirector, las determinaciones de los Agentes del Ministerio Público que consulten la abstención de la investigación, el archivo temporal, el no ejercicio de la acción penal o la aplicación de criterios de oportunidad. De resultar procedente la consulta, se ordenará la notificación al ofendido o víctima para que, en su caso, formule la correspondiente impugnación ante el Juez de Control;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+VI. Autorizar las determinaciones de los Agentes del Ministerio Público que pongan fin al procedimiento penal;
 
 VII. Turnar las solicitudes de colaboración ministerial y causas por incompetencia a las autoridades correspondientes;
 
@@ -847,9 +933,11 @@ El Procurador determinará las áreas que requieran especialización por funció
 
 La Dirección de Policía de Investigación del Delito contará con mecanismos de vinculación y participación ciudadana, que coadyuven en la mejora de su funcionamiento y garanticen el respeto a los derechos humanos, conforme a la naturaleza de la función que desempeña.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 49.
 
-(Deber de colaboración en la investigación y persecución del delito). Toda persona física o moral, tiene el deber de prestar el auxilio necesario para la investigación y persecución de los delitos en los términos previstos legalmente; esta colaboración debe realizarse especialmente por quienes ejerzan funciones de vigilancia, seguridad o custodia pública o privada. Cualquier omisión, retraso o negativa injustificada, será sancionada en los términos de la legislación aplicable.
+(Deber de colaboración en la investigación y persecución del delito). Toda persona física o moral, privada o pública tiene el deber de prestar el auxilio necesario para la investigación y persecución de los delitos en los términos previstos legalmente; esta colaboración debe realizarse especialmente por quienes ejerzan funciones de vigilancia, seguridad o custodia pública o privada. Cualquier omisión, retraso o negativa injustificada, será sancionada en los términos de la legislación aplicable.
 
 ###### Artículo 50.
 
@@ -995,7 +1083,9 @@ II. Las Subdirecciones, Departamentos, Coordinaciones, Unidades, Jefaturas y dem
 
 I. Elaborar programas y ejecutar acciones destinadas a garantizar a la víctima u ofendido del delito, el ejercicio de sus derechos a recibir asesoría jurídica, atención médica y psicológica de urgencia;
 
-II. Proporcionar a la víctima u ofendido del delito asesoría jurídica y asistencia psicológica de urgencia, aplicando los procedimientos de asistencia, atención integral y protección en el ámbito de competencia de la autoridad ministerial;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+II. Proporcionar a la víctima u ofendido del delito, asesoría jurídica y asistencia psicológica de urgencia, aplicando los procedimientos de asistencia, atención integral y protección, en el ámbito de competencia de la autoridad ministerial, con respeto a las atribuciones de las autoridades competentes en materia de víctimas;
 
 III. Brindar orientación a la víctima u ofendido del delito sobre sus derechos, así como los procedimientos y requisitos para ejercerlos;
 
@@ -1085,7 +1175,9 @@ XIII. Otorgar, en el ámbito de su competencia, las medidas y providencias neces
 
 (Atribuciones de los Asesores Jurídicos de Víctimas). Para proporcionar a la víctima u ofendido del delito la asesoría, acompañamiento y representación necesaria ante las instancias ministeriales y jurisdiccionales, la Dirección contará con Asesores Jurídicos de Víctimas, que tendrán como facultades y obligaciones siguientes:
 
-l. Proporcionar a la víctima u ofendido del delito, información sobre sus derechos y los requisitos para ejercerlos, otorgándole el apoyo necesario para que pueda hacerlos efectivos;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+I. Proporcionar a la víctima u ofendido del delito, información sobre sus derechos y los requisitos para ejercerlos, otorgándole el apoyo necesario para que pueda hacerlos efectivos, con respeto a las atribuciones de las autoridades competentes en materia de víctimas;
 
 II. Representar a la víctima u ofendido del delito en todas las audiencias en las que éste participe, salvo las excepciones previstas en fa Ley;
 
@@ -2252,3 +2344,9 @@ P.O. 29 DE JUNIO DE 2014.
 Artículo Primero. La presente Ley entrará en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 Artículo Segundo. Se derogan todas aquellas disposiciones legales de igual o menor jerarquía que se opongan a la presente.
+
+P.O. 29 DE NOVIEMBRE DE 2014.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
