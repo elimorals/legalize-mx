@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-extincion-de-dominio-del-estado-de-chihuahua-74537"
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-07"
-last_updated: "2013-12-18"
+last_updated: "2014-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 7 de abril de 2010.
 
@@ -67,7 +67,11 @@ Disposiciones supletorias.
 
 A falta de regulación suficiente en la presente Ley respecto de las instituciones y supuestos jurídicos regulados por la misma, se estará a las siguientes reglas de supletoriedad:
 
-I. En la preparación del ejercicio de la acción de extinción de dominio, a lo previsto en el Código de Procedimientos Penales del Estado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+I. En la preparación del ejercicio de la acción de extinción de dominio, a lo previsto en el Código Nacional de Procedimientos Penales.
 
 II. En cuanto al hecho ilícito, al Código Penal del Estado;
 
@@ -119,7 +123,7 @@ Procede la extinción de dominio respecto de los bienes a que se refiere esta Le
 
 I. Secuestro;
 
-II. Robo de vehículos, y (sic)
+II. Robo de vehículos, y
 
 III. Trata de personas.
 
@@ -299,11 +303,15 @@ Condena en gastos y costas.
 
 En los juicios que se tramiten por extinción de dominio, no habrá lugar a condenación en costas. Cada parte será responsable de sus propios gastos y los que originen las diligencias que promuevan. En el caso del Ministerio Público, los gastos originados por las promociones y diligencias solicitadas correrán a cargo del erario estatal.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 24.
 
 Formulación de la acción de extinción de dominio.
 
-La acción de extinción de dominio se formulará mediante demanda del Ministerio Público, previo acuerdo del Procurador General de Justicia del Estado o del servidor público en quien delegue dicha atribución.
+La acción de extinción de dominio se formulará mediante demanda del Ministerio Público, previo acuerdo del Fiscal General del Estado o del servidor público en quien delegue dicha atribución.
 
 ###### Artículo 25.
 
@@ -868,3 +876,15 @@ P.O. 18 DE DICIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Inicio de Vigencia.
+
+El presente Decreto entrará en vigor al momento en el que inicie su vigencia el Código Nacional de Procedimientos Penales, de conformidad con la declaratoria que al efecto se emita por el Congreso del Estado, en los términos del Artículo Segundo Transitorio de dicho cuerpo normativo.
+
+SEGUNDO.- Derogación tácita de preceptos incompatibles.
+
+Quedan derogadas todas las disposiciones legales que se opongan al contenido del presente Decreto.
+
+TERCERO.- Cuando en cualquier disposición legal se haga referencia al Código de Procedimientos Penales del Estado de Chihuahua, se entenderá que se refiere al Código Nacional de Procedimientos Penales.
