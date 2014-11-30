@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-sistema-estatal-de-seguridad-publica-de-baja-84647"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-31"
-last_updated: "2013-11-30"
+last_updated: "2014-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 31 de diciembre de 2011.
 
@@ -45,7 +45,9 @@ LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE BAJA CALIFORNIA SUR
 
 La presente Ley es de orden público, interés social y observancia general; regula la integración, organización y funcionamiento del Sistema Estatal de Seguridad Pública; establece las competencias y esquemas de coordinación entre las diversas autoridades de seguridad Pública en el Estado; y tiene por objeto:
 
-l. Normar la seguridad pública en el Estado de Baja California Sur, que comprende la sanción de las infracciones administrativas, la prevención especial y general de los delitos, la investigación de los mismos, la persecución de los probables responsables, así como la ejecución de las penas y medidas de seguridad;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2014)</small>
+
+I. Normar la seguridad pública en el Estado de Baja California Sur, que comprende la sanción de las infracciones administrativas, la prevención especial y general de los delitos, la investigación de los mismos, la persecución de los imputados, así como la ejecución de las penas y medidas de seguridad, la supervisión de las condiciones impuestas en la suspensión condicional del proceso, y medidas cautelares;
 
 II. Establecer las bases de coordinación con la Federación, las Entidades Federativas, el Distrito Federal y los Municipios, a fin de integrar el Sistema Estatal de Seguridad Pública;
 
@@ -139,7 +141,9 @@ XXII. Programa Estatal: El Programa Estatal de Seguridad Pública;
 
 XXIII. Programa Municipal: Los Programas Municipales de Seguridad Pública;
 
-XXIV. Policía Estatal: Policita (sic) Estatal Preventiva;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2014)</small>
+
+XXIV. Policía Estatal: La Policía Estatal Preventiva y Policía Procesal:
 
 XXV. Policía Ministerial: Policía Ministerial Investigadora de la Procuraduría General de Justicia;
 
@@ -203,9 +207,17 @@ V. Las autoridades administrativas competentes en materia de:
 
 a) Prevención del delito;
 
-b) Reinserción social;
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2014)</small>
 
-c) Internamiento y adaptación de adolescentes; y
+b) Servicios previos al juicio, seguimiento de medidas cautelares y de las condiciones impuestas en la suspensión condicional del proceso;
+
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2014)</small>
+
+c) Reinserción social; y
+
+> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2014)</small>
+
+d) Internamiento y adaptación de adolescentes.
 
 VI. Los demás Organismos Auxiliares en la materia.
 
@@ -273,7 +285,9 @@ VIII. Requerir al Subsecretario de Seguridad Pública la realización de estudio
 
 IX. Presidir el Consejo Estatal de Seguridad Pública;
 
-X. Vigilar que todas las acciones, estrategias y políticas en materia de seguridad pública en el Estado, sean acordes con el respeto a las garantías individuales y los derechos humanos;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2014)</small>
+
+X. Vigilar que todas las acciones, estrategias y políticas en materia de seguridad pública en el Estado, sean acordes con el respeto a los derechos humanos y sus garantías.
 
 XI. Las demás que le confieran la Constitución, la Constitución Estatal, esta Ley y demás ordenamientos legales aplicables.
 
@@ -429,11 +443,11 @@ VI. Las demás que le asigne el Gobernador del Estado y el Consejo.
 
 #### SECCIÓN CUARTA. DE LA SUBSECRETARÍA DE SEGURIDAD PÚBLICA EN EL ESTADO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 20.
 
-Son atribuciones del Subsecretario de Seguridad Pública:
+Son atribuciones del subsecretario de Seguridad Pública:
 
 l. Ejecutar las órdenes que dicte el Gobernador en materia de Seguridad Pública;
 
@@ -499,15 +513,37 @@ XXVIII. Regular los sistemas disciplinarios de las corporaciones a su cargo, as�
 
 XXIX. Operar y controlar las bases de datos criminalísticos, de personal e información;
 
-XXX. Mantener actualizados los Registros que esta Ley establece y que sean de su competencia;
+> <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2014)</small>
 
-XXXI. Participar en el Sistema Nacional de Seguridad Pública de conformidad con la Ley General del Sistema Nacional de Seguridad Pública;
+XXX. Realizar las funciones de evaluación de riesgos que representen los imputados, así como la supervisión y seguimiento de las medidas cautelares distintas a la prisión preventiva y del cumplimiento de las condiciones impuestas en la suspensión condicional del proceso por los jueces de control;
 
-XXXII. Coadyuvar con los tres órdenes de gobierno en el ámbito de sus respectivas atribuciones en la búsqueda de menores desaparecidos o secuestrados, con la participación de la sociedad civil y medios de comunicación;
+> <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2014)</small>
 
-XXXIII. Fortalecer los sistemas de seguridad social de los servidores públicos, sus familias y dependientes, e instrumentar los complementarios a éstos; y
+XXXI. Diseñar, aplicar y, en su caso coordinar estrategias, planes y programas para cumplir con las funciones de evaluación de riesgos, supervisión y seguimiento de las medidas cautelares distintas a la prisión preventiva, así como de las condiciones impuestas en la suspensión condicional del proceso;
 
-XXXIV. Las demás que establezcan la Constitución Estatal; esta Ley y demás ordenamientos de la materia.
+> <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2014)</small>
+
+XXXII. Generar y mantener actualizado el registro de seguimiento al cumplimiento de las medidas cautelares y de la suspensión condicional del proceso impuestas por los jueces de control;
+
+(REUBICADA [N. DE E. Y REFORMADA], B.O. 30 DE NOVIEMBRE DE 2014)
+
+XXXIII. Mantener actualizados los registros que esta Ley establece y que sean de su competencia;
+
+(REUBICADA, B.O. 30 DE NOVIEMBRE DE 2014)
+
+XXXIV. Participar en el Sistema Nacional de Seguridad Pública de conformidad con la Ley General del Sistema Nacional de Seguridad Pública;
+
+(REUBICADA, B.O. 30 DE NOVIEMBRE DE 2014)
+
+XXXV. Coadyuvar con los tres órdenes de gobierno en el ámbito de sus respectivas atribuciones en la búsqueda de menores desaparecidos o secuestrados, con la participación de la sociedad civil y medios de comunicación:
+
+(REUBICADA, B.O. 30 DE NOVIEMBRE DE 2014)
+
+XXXVI. Fortalecer los sistemas de seguridad social de los servidores públicos, sus familias y dependientes, e instrumentar los complementarios a éstos; y
+
+(REUBICADA, B.O. 30 DE NOVIEMBRE DE 2014)
+
+XXXVII. Las demás que establezcan la Constitución Estatal, esta Ley y demás ordenamientos de la materia.
 
 #### SECCIÓN QUINTA. DEL PROCURADOR GENERAL DE JUSTICIA
 
@@ -691,7 +727,9 @@ IV. Principio de Promoción: Fomentar en la comunidad la cultura de la legalidad
 
 Las Instituciones de Seguridad Pública y Policiales estarán sujetas a los derechos y obligaciones que señala la presente Ley, su reglamento y demás disposiciones que al efecto se emitan.
 
-l. Los integrantes de las Instituciones Policiales Estatales que regula la presente Ley, operarán en todo el territorio del Estado y se desarrollarán las siguientes funciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE NOVIEMBRE DE 2014)</small>
+
+I. Los integrantes de las instituciones policiales estatales que regula la presente Ley, operarán en todo el territorio del Estado y desarrollarán las siguientes funciones:
 
 a. Investigación: realizar el análisis y estudios de prevención del delito a través de los sistemas homologados de recolección, clasificación, registro, evaluación y explotación de información;
 
@@ -699,7 +737,17 @@ b. Prevención: prevenir la comisión de delitos e infracciones administrativas,
 
 c. Reacción: garantizar, mantener y restablecer el orden y la paz públicas;
 
-d. Custodia Penitenciaria: vigilancia en el interior de los Centros de Reinserción Social, así como en los Centros de de (sic) Internamiento para Adolescentes;
+> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2014)</small>
+
+d) Seguimiento de Medidas Cautelares y de las Condiciones del Proceso a Prueba: Dar seguimiento al cumplimiento de las medidas cautelares, así como de las condiciones impuestas por el juez de control en la suspensión condicional del proceso;
+
+> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2014)</small>
+
+e) Custodia Procesal: Trasladar y custodiar a los imputados sujetos a prisión preventiva a las salas de audiencia, así como dar seguridad durante las audiencias bajo las normas establecidas en el Código Nacional de Procedimientos Penales y de los lineamientos que al efecto dicte el Tribunal y la autoridad jurisdiccional que las presida.
+
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2014)</small>
+
+f) Custodia Penitenciaria: Vigilancia en el interior de los Centros de Reinserción Social, así como en los Centros de Internamiento para Adolescentes;
 
 II. Los Cuerpos Preventivos de Seguridad Pública Municipal cuyos miembros se denominarán policías preventivos municipales operarán en el territorio del municipio que corresponda.
 
@@ -720,6 +768,10 @@ Las funciones de los Ministerios Públicos, los Policías Ministeriales y Perito
 ###### Artículo 32.
 
 Para el cumplimiento de sus atribuciones la Subsecretaría se apoyará en la Policía Estatal Preventiva, con el propósito de cumplir los objetivos y fines de esta Ley y su reglamento en el ámbito de su competencia.
+
+> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2014)</small>
+
+La Policía Procesal formará parte de la Policía Estatal y estará adscrita a la Dirección General de Ejecución, Prevención y Reinserción Social.
 
 ###### Artículo 33.
 
@@ -807,79 +859,157 @@ l. Cumplir las disposiciones legales que se relacionen con el ejercicio de sus f
 
 II. Respetar irrestrictamente los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos;
 
-III. Realizar la detención de personas sólo en los casos en que se cumplan los requisitos previstos en los ordenamientos legales, protegiendo sus derechos y garantías constitucionales;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2014)</small>
 
-IV. Elaborar el informe policial homologado, registros, partes policiales y demás documentos, con los requisitos de fondo y forma que establezcan las disposiciones aplicables;
+III. Realizar la detención de personas sólo en los casos en que se cumplan los requisitos previstos en los ordenamientos legales, protegiendo sus derechos humanos, informando el motivo de la detención y los derechos que le asisten;
 
-V. Colaborar con las autoridades judiciales, electorales y administrativas de la Federación, el Distrito Federal, los Estados y los Municipios en el cumplimiento de sus funciones, cuando sean requeridos para ello;
+> <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2014)</small>
 
-VI. Aplicar los protocolos y disposiciones especiales para el adecuado resguardo de los derechos de las víctimas;
+IV. Elaborar inmediatamente el registro de la detención e inscribirlo en el Registro Administrativo de Detenciones conforme a las disposiciones aplicables, así como todos aquellos registros exigidos en el Código Nacional de Procedimientos Penales;
 
-VII. Proteger a los menores de edad, adultos mayores, enfermos, personas discapacitadas y grupos vulnerables que se encuentren en situación de riesgo, procurando que reciban el apoyo inmediato de las instituciones competentes;
+(REUBICADA, B.O. 30 DE NOVIEMBRE DE 2014)
 
-VIII. Ejercer sus funciones con absoluta imparcialidad, evitando actos discriminatorios hacia las personas en razón de su origen étnico, sexo, edad, color de piel, religión, nacionalidad, estado civil, estado de salud, condición económica, preferencia sexual, ideología política y cualquier otra que atente contra la dignidad humana;
+V. Elaborar el informe policial homologado, registros, partes policiales y demás documentos, con los requisitos de fondo y forma que establezcan las disposiciones aplicables;
 
-IX. Evitar todo acto arbitrario y abstenerse de impedir la realización de manifestaciones que en ejercicio de sus derechos constitucionales realice la población;
+(REUBICADA, B.O. 30 DE NOVIEMBRE DE 2014)
 
-X. Mantenerse debidamente informado de la problemática que prevalece en el ámbito específico de su adscripción;
+VI. Colaborar con las autoridades judiciales, electorales y administrativas de la Federación, el Distrito Federal, los Estados y los Municipios en el cumplimiento de sus funciones, cuando sean requeridos para ello;
 
-XI. Conocer el Programa Estatal, proyectos, estrategias y acciones que se relacionen directamente con el cumplimiento de sus atribuciones;
+(REUBICADA, B.O. 30 DE NOVIEMBRE DE 2014)
 
-XII. Fomentar la participación de la comunidad en las actividades que se relacionen con la seguridad pública;
+VII. Aplicar los protocolos y disposiciones especiales para el adecuado resguardo de los derechos de las víctimas;
 
-XIII. Asistir a los cursos de capacitación, actualización, especialización y adiestramiento a los que sean convocados;
+(REUBICADA, B.O. 30 DE NOVIEMBRE DE 2014)
 
-XIV. Someterse cuantas veces sea necesario, a las pruebas de evaluación de desempeño y de control de confianza, en los términos y condiciones que determina esta Ley;
+VIII. Proteger a los menores de edad, adultos mayores, enfermos, personas discapacitadas y grupos vulnerables que se encuentren en situación de riesgo, procurando que reciban el apoyo inmediato de las instituciones competentes;
 
-XV. Cumplir sin dilación las órdenes emitidas por sus superiores jerárquicos, siempre y cuando no sean contrarias a la Ley;
+(REUBICADA, B.O. 30 DE NOVIEMBRE DE 2014)
 
-XVI. Respetar a sus subordinados y ser ejemplo de honradez, disciplina, honor y lealtad a las instituciones;
+IX. Ejercer sus funciones con absoluta imparcialidad, evitando actos discriminatorios hacia las personas en razón de su origen étnico, sexo, edad, color de piel, religión, nacionalidad, estado civil, estado de salud, condición económica, preferencia sexual, ideología política y cualquier otra que atente contra la dignidad humana;
 
-XVII. Guardar reserva de los asuntos de los que tenga conocimiento por razón de su función, ajustándose a las excepciones que determinen las leyes aplicables;
+(REUBICADA, B.O. 30 DE NOVIEMBRE DE 2014)
 
-XVIII. Usar con decoro los uniformes e insignias que para tal efecto se determinen;
+X. Evitar todo acto arbitrario y abstenerse de impedir la realización de manifestaciones que en ejercicio de sus derechos constitucionales realice la población;
 
-XIX. Abstenerse de usar e impedir que se utilicen indebidamente los vehículos, armamento, uniformes, insignias, identificaciones, chalecos, equipos de radiocomunicación, equipo táctico-policial y demás bienes institucionales que se proporcionen para el desempeño del servicio;
+(REUBICADA, B.O. 30 DE NOVIEMBRE DE 2014)
 
-XX. Presentarse puntualmente al desempeño del servicio o comisión en el lugar designado;
+XI. Mantenerse debidamente informado de la problemática que prevalece en el ámbito específico de su adscripción;
 
-XXI. Abstenerse de rendir cualquier tipo de informe falso a sus superiores respecto del desempeño de sus funciones;
+(REUBICADA, B.O. 30 DE NOVIEMBRE DE 2014)
 
-XXII. Utilizar la sirena, altavoz y luces intermitentes del vehículo a su cargo, sólo en casos de emergencia;
+XII. Conocer el Programa Estatal, proyectos, estrategias y acciones que se relacionen directamente con el cumplimiento de sus atribuciones;
 
-XXIII. Abstenerse de disponer de los bienes asegurados para beneficio propio o de terceros;
+(REUBICADA, B.O. 30 DE NOVIEMBRE DE 2014)
 
-XXIV. Abstenerse de introducir a las instalaciones de sus instituciones bebidas embriagantes, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo cuando sean producto de detenciones, cateos, aseguramientos u otros similares, y que previamente exista la autorización correspondiente;
+XIII. Fomentar la participación de la comunidad en las actividades que se relacionen con la seguridad pública:
 
-XXV. Prescindir del consumo dentro o fuera del servicio, de sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo los casos en que el consumo de los medicamentos controlados sea autorizado mediante prescripción médica, avalada por los servicios médicos de las Instituciones;
+(REUBICADA, B.O. 30 DE NOVIEMBRE DE 2014)
 
-XXVI. Privarse de consumir en las instalaciones de sus instituciones o en actos de servicio, bebidas embriagantes;
+XIV. Asistir a los cursos de capacitación, actualización, especialización y adiestramiento a los que sean convocados;
 
-XXVII. Evitar que personas ajenas a sus instituciones realicen actos inherentes a las atribuciones que tenga encomendadas o bien, que lo acompañen a realizar actos del servicio;
+(REUBICADA, B.O. 30 DE NOVIEMBRE DE 2014)
 
-XXVIII. Rendir al término de sus actividades o de la comisión que le fuera encomendada, los partes de novedades o informes que correspondan;
+XV. Someterse cuantas veces sea necesario, a las pruebas de evaluación de desempeño y de control de confianza, en los términos y condiciones que determina esta Ley;
 
-XXIX. Obtener y mantener actualizado su Certificado Único Policial;
+(REUBICADA, B.O. 30 DE NOVIEMBRE DE 2014)
 
-XXX. Someterse a evaluaciones periódicas para acreditar el cumplimiento de sus requisitos de permanencia, así como mantener vigente la certificación respectiva;
+XVI. Cumplir sin dilación las órdenes emitidas por sus superiores jerárquicos, siempre y cuando no sean contrarias a la Ley;
 
-XXXI. Responder sobre la ejecución de las órdenes directas que reciba a un sólo superior jerárquico, por regla general, respetando preponderantemente la línea de mando;
+(REUBICADA, B.O. 30 DE NOVIEMBRE DE 2014)
 
-XXXII. Abstenerse de ingresar uniformado a bares, cantinas, centros de apuesta, de juegos, u otros de este tipo, salvo orden expresa para el desempeño de sus funciones;
+XVII. Respetar a sus subordinados y ser ejemplo de honradez, disciplina, honor y lealtad a las instituciones;
 
-XXXIII. Conocer y utilizar de manera proporcional el uso de la fuerza;
+(REUBICADA, B.O. 30 DE NOVIEMBRE DE 2014)
 
-XXXIV. Permanecer en el servicio, acuartelamiento o comisión, hasta la presentación de su relevo o la obtención de la autorización para retirarse;
+XVIII. Guardar reserva de los asuntos de los que tenga conocimiento por razón de su función, ajustándose a las excepciones que determinen las leyes aplicables;
 
-XXXV. No realizar actos individuales o en grupo, que relajen la disciplina, afecten el servicio o desconozcan la autoridad de sus superiores;
+(REUBICADA, B.O. 30 DE NOVIEMBRE DE 2014)
 
-XXXVI. No faltar ni abandonar el servicio, sin causa o motivo justificado;
+XIX. Usar con decoro los uniformes e insignias que para tal efecto se determinen;
 
-XXXVII. Identificarse con documento oficial que emita la autoridad competente, en el que se señale la Institución Policial a la que pertenece;
+(REUBICADA, B.O. 30 DE NOVIEMBRE DE 2014)
 
-XXXVIII. Apoyar a las autoridades que lo soliciten, en situaciones de grave riesgo, catástrofes o desastres; y
+XX. Abstenerse de usar e impedir que se utilicen indebidamente los vehículos, armamento, uniformes, insignias, identificaciones, chalecos, equipos de radiocomunicación, equipo táctico-policial y demás bienes institucionales que se proporcionen para el desempeño del servicio;
 
-XXXIX. Cumplir con las demás obligaciones que establezca la presente Ley y demás ordenamientos aplicables.
+(REUBICADA, B.O. 30 DE NOVIEMBRE DE 2014)
+
+XXI. Presentarse puntualmente al desempeño del servicio o comisión en el lugar designado;
+
+(REUBICADA, B.O. 30 DE NOVIEMBRE DE 2014)
+
+XXII. Abstenerse de rendir cualquier tipo de informe falso a sus superiores respecto del desempeño de sus funciones;
+
+(REUBICADA, B.O. 30 DE NOVIEMBRE DE 2014)
+
+XXIII. Utilizar la sirena, altavoz y luces intermitentes del vehículo a su cargo, sólo en casos de emergencia;
+
+(REUBICADA, B.O. 30 DE NOVIEMBRE DE 2014)
+
+XXIV. Abstenerse de disponer de los bienes asegurados para beneficio propio o de terceros;
+
+(REUBICADA, B.O. 30 DE NOVIEMBRE DE 2014)
+
+XXV. Abstenerse de introducir a las instalaciones de sus instituciones bebidas embriagantes, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo cuando sean producto de detenciones, cateos, aseguramientos u otros similares, y que previamente exista la autorización correspondiente;
+
+(REUBICADA, B.O. 30 DE NOVIEMBRE DE 2014)
+
+XXVI. Prescindir del consumo dentro o fuera del servicio, de sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo los casos en que el consumo de los medicamentos controlados sea autorizado mediante prescripción médica, avalada por los servicios médicos de las instituciones;
+
+(REUBICADA, B.O. 30 DE NOVIEMBRE DE 2014)
+
+XXVII. Privarse de consumir en las instalaciones de sus instituciones o en actos de servicio, bebidas embriagantes;
+
+(REUBICADA, B.O. 30 DE NOVIEMBRE DE 2014)
+
+XXVIII. Evitar que personas ajenas a sus instituciones realicen actos inherentes a las atribuciones que tenga encomendadas o bien, que lo acompañen a realizar actos del servicio;
+
+(REUBICADA, B.O. 30 DE NOVIEMBRE DE 2014)
+
+XXIX. Rendir al término de sus actividades o de la comisión que le fuera encomendada, los partes de novedades o informes que correspondan;
+
+(REUBICADA, B.O. 30 DE NOVIEMBRE DE 2014)
+
+XXX. Obtener y mantener actualizado su Certificado Único Policial;
+
+(REUBICADA, B.O. 30 DE NOVIEMBRE DE 2014)
+
+XXXI. Someterse a evaluaciones periódicas para acreditar el cumplimiento de sus requisitos de permanencia, así como mantener vigente la certificación respectiva;
+
+(REUBICADA, B.O. 30 DE NOVIEMBRE DE 2014)
+
+XXXII. Responder sobre la ejecución de las órdenes directas que reciba a un sólo superior jerárquico, por regla general, respetando preponderantemente la línea de mando;
+
+(REUBICADA, B.O. 30 DE NOVIEMBRE DE 2014)
+
+XXXIII. Abstenerse de ingresar uniformado a bares, cantinas, centros de apuesta, de juegos, u otros de este tipo, salvo orden expresa para el desempeño de sus funciones;
+
+(REUBICADA, B.O. 30 DE NOVIEMBRE DE 2014)
+
+XXXIV. Conocer y utilizar de manera proporcional el uso de la fuerza:
+
+(REUBICADA, B.O. 30 DE NOVIEMBRE DE 2014)
+
+XXXV. Permanecer en el servicio, acuartelamiento o comisión, hasta la presentación de su relevo o la obtención de la autorización para retirarse;
+
+(REUBICADA, B.O. 30 DE NOVIEMBRE DE 2014)
+
+XXXVI. No realizar actos individuales o en grupo, que relajen la disciplina, afecten el servicio o desconozcan la autoridad de sus superiores:
+
+(REUBICADA, B.O. 30 DE NOVIEMBRE DE 2014)
+
+XXXVII. No faltar ni abandonar el servicio, sin causa o motivo justificado;
+
+(REUBICADA, B.O. 30 DE NOVIEMBRE DE 2014)
+
+XXXVIII. Identificarse con documento oficial que emita la autoridad competente, en el que se señale la institución policial a la que pertenece;
+
+(REUBICADA, B.O. 30 DE NOVIEMBRE DE 2014)
+
+XXXIX. Apoyar a las autoridades que lo soliciten, en situaciones de grave riesgo, catástrofes o desastres; y
+
+(REUBICADA, B.O. 30 DE NOVIEMBRE DE 2014)
+
+XL. Cumplir con las demás obligaciones que establezca la presente Ley y demás ordenamientos aplicables.
 
 ###### Artículo 47.
 
@@ -891,19 +1021,27 @@ l. Dirigir las investigaciones que les fueren asignadas;
 
 II. Promover las acciones penales, civiles y administrativas e interponer los recursos correspondientes, conforme a lo establecido en las Leyes de la materia;
 
-III. Recabar los antecedentes y elementos de convicción tendientes al esclarecimiento de los hechos materia de la denuncia o querella.
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2014)</small>
+
+III. Recabar los antecedentes, datos de prueba y elementos de convicción tendientes al esclarecimiento de los hechos materia de la denuncia o querella;
 
 IV. Ejercer la acción penal en la forma establecida por las leyes aplicables;
 
-V. Promover los mecanismos de justicia restaurativa entre la víctima u ofendido y el imputado, en los casos que corresponda;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2014)</small>
+
+V. Promover los mecanismos alternativos de solución de controversias entre la víctima u ofendido y el imputado en los casos que proceda;
 
 VI. Abstenerse de iniciar investigación respecto de hechos que notoriamente no sean constitutivos de delito;
 
 VII. Adoptar las medidas necesarias para la protección, atención y auxilio de las víctimas, ofendidos y testigos; e implementar medidas de protección hacia sus propios funcionarios cuando el caso lo requiera;
 
-VIII. Dirigir a la Policía Ministerial y al resto de las Instituciones Policiales del Estado cuando éstos actúen como auxiliares en la investigación y persecución de delitos, vigilando que los mismos realicen sus actuaciones con pleno respeto a los derechos fundamentales y conforme a los principios de legalidad y objetividad;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2014)</small>
 
-IX. Decretar el no ejercicio de la acción penal o el archivo definitivo de la investigación;
+VIII. Dirigir a la Policía Ministerial y al resto de las instituciones policiales del Estado cuando éstos actúen como auxiliares en la investigación y persecución de los delitos, vigilando que los mismos realicen sus actuaciones con pleno respeto a los derechos humanos y conforme a los principios de legalidad, objetividad, eficiencia, profesionalismo y honradez.
+
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2014)</small>
+
+IX. Decretar la facultad de abstención de la investigación, el no ejercicio de la acción penal o el archivo temporal de la investigación, así como la aplicación de un criterio de oportunidad;
 
 X. Solicitar la suspensión del proceso a prueba y la apertura del procedimiento abreviado, en los supuestos previstos por las leyes aplicables;
 
@@ -925,13 +1063,17 @@ II. Utilizar los protocolos de investigación y de cadena de custodia existentes
 
 III. Realizar, bajo la conducción y mando del Ministerio Público, la investigación de delitos, así como las actuaciones que le instruya éste o la autoridad jurisdiccional, conforme a las normas aplicables;
 
-IV. Informar al probable responsable al momento de su detención, sobre los derechos que a su favor establece la Constitución y demás normas aplicables;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2014)</small>
+
+IV. Informar al imputado al momento de su detención el motivo de la misma, así como los derechos que a su favor establece la Constitución y demás normas aplicables;
 
 V. Poner a disposición de la autoridad competente a los menores de edad que hubieren incurrido en acciones u omisiones, correspondientes a ilícitos tipificados por las Leyes penales;
 
 VI. Recibir las denuncias sobre hechos que puedan ser constitutivos de delitos cuando debido a las circunstancias del caso, aquéllas no puedan ser formuladas directamente ante el Ministerio Público, al que deberán informar de inmediato, así como de las diligencias practicadas, en términos de las disposiciones aplicables;
 
-VII. Verificar la información de las denuncias que les sean presentadas, cuando éstas no sean lo suficientemente claras o la fuente no esté identificada, e informar al Ministerio Público para que, en su caso, les dé trámite conforme a la normatividad vigente;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2014)</small>
+
+VII. Verificar la información de las denuncias anónimas que les sean presentadas, cuando éstas no sean lo suficientemente claras o la fuente no esté identificada, e informar al Ministerio Público para que, en su caso, les dé trámite conforme a la normatividad vigente;
 
 VIII. Practicar las diligencias necesarias que permitan el esclarecimiento de los delitos y la identidad de los autores o participes del hecho, en cumplimiento de los mandatos del Ministerio Público;
 
@@ -939,7 +1081,9 @@ IX. Participar en la investigación, detención de personas y en el aseguramient
 
 X. Registrar de inmediato las detenciones en el Registro correspondiente e informar de las mismas sin demora al Ministerio Público;
 
-XI. Poner a disposición de la autoridad competente a las personas detenidas sin dilación alguna, bajo su más estricta responsabilidad, así como los bienes que se encuentren en posesión de éstos al momento de su detención;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2014)</small>
+
+XI. Poner inmediatamente a disposición de la autoridad competente a las personas detenidas, bajo su más estricta responsabilidad, así como los bienes que se encuentran en posesión de éstos al momento de su detención, debiendo acompañarlo de su inventario correspondiente de conformidad con lo establecido en el Código Nacional de Procedimientos Penales;
 
 XII. Preservar el lugar de los hechos, los indicios, huellas o vestigios del delito, además de los instrumentos u objetos relacionados con éste;
 
@@ -959,21 +1103,41 @@ C.- Policía Estatal y Municipal Preventiva, en el ámbito de sus respectivas co
 
 I. Participar en el diseño e instrumentación de los programas de prevención del delito que refiere esta Ley;
 
-II. Realizar la investigación en materia de análisis y estudios de prevención del delito;
+> <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2014)</small>
 
-III. Prevenir la comisión de delitos e infracciones administrativas;
+II. Investigar delitos bajo la dirección y mando del Ministerio Público;
 
-IV. Garantizar, mantener y en su caso, restablecer el orden y la paz públicas;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2014)</small>
 
-V. Regular la vialidad de vehículos y peatones en las vías primarias y secundarias que se encuentren dentro de su ámbito de su competencia;
+III. Realizar la investigación en materia de análisis y estudios de prevención del delito;
 
-VI. Vigilar el cumplimiento estricto de las Leyes, reglamentos gubernativos y de policía;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2014)</small>
 
-VII. Auxiliar en los términos de ésta y otras Leyes a los poderes legislativo y judicial del Estado, a las dependencias del Poder Ejecutivo, a los órganos electorales y a los organismos de la administración pública paraestatal; y
+IV. Prevenir la comisión de delitos e infracciones administrativas;
 
-VIII. Las demás que le confieran ésta y otras Leyes.
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2014)</small>
 
-Cuando por razones de lugar, hora y circunstancias, los Policías Preventivos Estatales o Municipales sean los primeros en conocer de un hecho delictuoso, deberán realizar bajo su responsabilidad las acciones previstas en el presente Artículo, apartado A, en las fracciones II, III, IV, V, VI, X, XI, XII, XIII, XVI, XVII y XVIII, hasta que el Ministerio Público o los Policías Ministeriales intervengan. Cuando estos últimos tomen conocimiento, les informarán de lo actuado y les entregarán los instrumentos, objetos y evidencias materiales que hayan asegurado y elaborarán un registro fidedigno de lo ocurrido.
+V. Garantizar, mantener y en su caso, restablecer el orden y la paz públicas;
+
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2014)</small>
+
+VI. Regular la vialidad de vehículos y peatones en las vías primarias y secundarias que se encuentren dentro de su ámbito de competencia;
+
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2014)</small>
+
+VII. Vigilar el cumplimiento estricto de las leyes, reglamentos gubernativos y de policía;
+
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2014)</small>
+
+VIII. Auxiliar en los términos de ésta y otras leyes a los Poderes Legislativo y Judicial del Estado, a las dependencias del Poder Ejecutivo, a los órganos electorales y a los organismos de la administración pública paraestatal; y
+
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2014)</small>
+
+IX. Las demás que le confieran ésta y otras leyes.
+
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2014)</small>
+
+Cuando por razones de lugar, hora y circunstancia, los policías preventivos estatales o municipales sean los primeros en conocer de un hecho delictuoso, deberán realizar bajo su responsabilidad las acciones previstas en el presente artículo, apartado B, en las fracciones II, III, IV, V, VI, X, XI, XII, XIII, XVI, XVII y XVIII, hasta que el Ministerio Público o los policías ministeriales intervengan. Cuando éstos últimos tomen conocimiento, les informarán de lo actuado y les entregarán los instrumentos, objetos y evidencias materiales que hayan asegurado y elaborarán un registro fidedigno de lo ocurrido.
 
 D.- Peritos.-
 
@@ -1367,45 +1531,67 @@ El Titular de la Dirección General de Prevención y Reinserción Social será i
 
 ### CAPÍTULO ÚNICO. DE LAS DISPOSICIONES GENERALES
 
-###### Artículo 76.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE NOVIEMBRE DE 2014)</small>
 
-La legalidad, el orden y la disciplina conforman la base del funcionamiento y organización de las instituciones, por lo que sus integrantes deberán sujetar su conducta a la observancia de las Leyes, órdenes y jerarquías, así como a la obediencia y al alto concepto del honor, de la justicia y de la ética.
+###### Articulo 76.
+
+La legalidad, el orden y la disciplina conforman la base del funcionamiento y organización de las instituciones de seguridad pública y procuración de justicia, por lo que sus integrantes deberán sujetar su conducta a los principios de objetividad, eficiencia, honestidad, profesionalismo, así como al respeto a los derechos humanos y la observancia de las leyes, órdenes y jerarquías, así como a la obediencia y al alto concepto del honor. de la justicia y de la ética.
 
 La disciplina demanda respeto y consideración mutua entre el superior jerárquico y sus subordinados.
 
+> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2014)</small>
+
+Los correctivos disciplinarios y sanciones que establece este ordenamiento se aplicarán independientemente y sin perjuicio de la responsabilidad penal, civil o patrimonial en que pudiera haber incurrido el servidor público perteneciente a instituciones policiales o de procuración de justicia.
+
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 77.
 
-Los correctivos disciplinarios son las sanciones a que se hace acreedor el elemento de las Instituciones Policiales o de Procuración de Justicia, que comete alguna falta por haber infringido un precepto legal o reglamentario, sin perjuicio de su responsabilidad en la comisión de un hecho que la legislación aplicable señale como delito.
+Los correctivos disciplinarios serán impuestos por el órgano de control interno de la institución correspondiente, a los servidores públicos de las instituciones policiales o de procuración de justicia, que cometan alguna falta a los principios de actuación que regule esta Ley y demás disposiciones aplicables, cuya gravedad no amerite la imposición de alguna de las sanciones que establece este ordenamiento.
+
+Tratándose del arresto, éste será impuesto por el superior jerárquico inmediato de los elementos policiales que cometan alguna falta a los principios de actuación que regule esta Ley y demás disposiciones aplicables, cuya gravedad no amerite la imposición de alguna otra corrección disciplinaria o de las sanciones que establece este ordenamiento.
+
+Las sanciones que establece esta Ley serán impuestas por la Comisión de Honor y Justicia que se instituya en cada una de las instituciones policiales o de procuración de justicia.
+
+Tanto la imposición de los correctivos disciplinarios como sanciones se regirán por los principios de legalidad, necesidad y proporcionalidad.
+
+Para la aplicación de cualquier correctivo disciplinario o sanción deberá previamente concedérsele al implicado el derecho de audiencia.
+
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 78.
 
-En atención a la gravedad de la falta se aplicarán los siguientes correctivos disciplinarios:
+En proporción de la gravedad de la falta, se impondrán los siguientes correctivos disciplinarios:
 
-I. Amonestación;
+I. La amonestación: Consiste en advertir al servidor público, de la omisión o falta cometida en el cumplimiento de sus deberes, invitándolo a corregirse y explicándole las consecuencias legales de la reincidencia.
 
-II. Arresto hasta de treinta y seis horas;
+La amonestación podrá ser verbal o escrita, pero en todo caso se deberá dejar constancia escrita en el expediente del elemento a quien se le imponga.
 
-III. Suspensión temporal de funciones sin goce de sueldo; y
+II. El arresto: Consiste en ordenar al elemento policial la permanencia temporal en un lugar determinado, por haber incurrido en una o varias de las faltas citadas en el ordenamiento correspondiente, o por haber acumulado cinco amonestaciones en un periodo de un año.
 
-IV. Cese de la Institución Policial o de Procuración de Justicia. Para la aplicación de cualquier correctivo disciplinario, deberá previamente concederse al implicado el derecho de audiencia.
+La orden de arresto deberá hacerse constar por escrito, especificando el motivo y la duración del mismo, dejado constancia en el expediente del elemento policial al que se le imponga.
 
-Los reglamentos correspondientes contendrán el catálogo de faltas, sanciones, procedimientos y términos para el trámite de los recursos que contra los correctivos disciplinarios procedan.
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 79.
 
-Por lo que respecta a la amonestación y el arresto, se considerará que:
+El afectado podrá inconformarse ante el titular de la institución policial o de procuración de justicia de que se trate, contra la imposición de cualquiera de estos correctivos disciplinarios, dentro de los tres días hábiles siguientes al de su aplicación. Esta inconformidad. no suspenderá los efectos de la amonestación o arresto, pero en caso de declararse infundada la imposición del correctivo disciplinario, el titular de la institución correspondiente, ordenará eliminar el registro del expediente personal del elemento.
 
-I. La amonestación es el acto mediante el cual el superior advierte al subalterno de la omisión o falta cometida en el cumplimiento de sus deberes, invitándolo a corregirse;
+> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2014)</small>
 
-II. El arresto es la permanencia del elemento en el lugar que designe el superior jerárquico, por haber incurrido en una o varias de las faltas citadas en el Reglamento correspondiente, o por haber acumulado cinco amonestaciones en un periodo de un año. La orden de arresto deberá hacerse por escrito, especificando el motivo y la duración del mismo;
+###### Artículo 79 Bis.
 
-III. Suspensión temporal de funciones sin goce de Sueldo, procede en contra de aquellos elementos que incurren reiteradamente en faltas o indisciplinas que por su naturaleza no ameriten la destitución del cargo.
+En proporción de la gravedad de la falta, se impondrán las siguientes sanciones:
 
-IV. El cese es la terminación de la relación laboral de los elementos de las Instituciones Policiales o de Procuración de Justicia, por las causas previstas y sancionadas por esta Ley y el Reglamento correspondiente.
+I. La suspensión temporal de funciones sin goce de sueldo: Procede en contra de aquellos elementos que incurran reiteradamente en faltas o indisciplinas que por su naturaleza no ameriten la destitución del cargo; y
 
-La separación y el cese de los integrantes de las Instituciones Policiales o de Procuración de Justicia son de orden público e interés social.
+II. Destitución: Es la terminación de la relación laboral de los elementos de las instituciones policiales o de procuración de justicia por las causas previstas y sancionadas por esta Ley y el reglamento correspondiente.
 
-Los elementos de las Instituciones Policiales y de Procuración de Justicia que promuevan un juicio o medio de defensa de carácter laboral y obtengan resolución favorable, serán indemnizados, sin que por ningún motivo proceda su reinstalación.
+La separación y la destitución de los integrantes de las instituciones policiales o de procuración de justicia, son de orden público e interés social, y los elementos de estas instituciones que promuevan un juicio o medio de defensa de carácter laboral y obtengan resolución favorable, serán indemnizados sin que por ningún motivo proceda su reinstalación.
+
+Para aplicación de cualquier sanción, deberá previamente concederse al implicado el derecho de audiencia.
+
+Las leyes y reglamentos internos de las instituciones de seguridad pública y procuración de justicia, contendrán el catálogo de faltas, sanciones, procedimientos y términos para el trámite de los recursos que contra las sanciones procedan.
 
 #### SECCIÓN PRIMERA. DE LA SUSPENSIÓN TEMPORAL
 
@@ -1413,9 +1599,11 @@ Los elementos de las Instituciones Policiales y de Procuración de Justicia que 
 
 La suspensión temporal de las funciones se determinará y la impondrá la Institución Policial o de Procuración de Justicia a la cual pertenezca el elemento, pudiendo ser de carácter preventivo o correctivo, atendiendo a las causas que la motiven.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE NOVIEMBRE DE 2014)</small>
+
 ###### Artículo 81.
 
-La suspensión temporal de carácter preventivo procederá en contra de aquellos elementos por su presunta responsabilidad derivada de actos u omisiones que motiven ser sujetos a investigación administrativa por parte de los órganos de control interno o sujetos a una averiguación previa, ante la autoridad competente, y cuya permanencia en el servicio pudiera afectar a la corporación o a la comunidad en general.
+La suspensión temporal de carácter preventivo procederá en contra de aquellos elementos por su probable responsabilidad derivada de actos u omisiones que motiven ser sujetos a investigación administrativa por parte de los órganos de control interno o sujetos a una averiguación previa o carpeta de investigación, ante la autoridad competente, y cuya permanencia en el servicio pudiera afectar a la corporación o a la comunidad en general.
 
 La suspensión subsistirá en tanto el asunto del que se trate no esté total y definitivamente resuelto en la instancia final del procedimiento correspondiente.
 
@@ -2118,3 +2306,17 @@ Los reglamentos y disposiciones municipales derivadas del contenido de la presen
 ###### ARTÍCULO TERCERO
 
 El Gobernador del Estado, para llevar a cabo las adecuaciones derivadas del presente decreto a los reglamentos y disposiciones administrativas emanadas del contenido de la presente Ley cuenta con un plazo de ciento veinte días, contados a partir del día siguiente a su entrada en vigor.
+
+B.O. 30 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Estado proveerá los recursos humanos, materiales y financieros para la operación de la Dirección de Servicios Previos a Juicio, Seguimiento de Medidas Cautelares y de la Suspensión Condicional del Proceso, así como para la Policía Procesal; para el cumplimiento de lo dispuesto en el presente artículo transitorio, la Secretaría de Finanzas y la Oficialía Mayor de Gobierno, deberán hacer los ajustes presupuestales y administrativos necesarios.
+
+TERCERO.- El titular del Poder Ejecutivo del Estado dentro de los ciento veinte días naturales siguientes a la entrada en vigor del presente Decreto, deberá llevar a cabo las modificaciones necesarias al Reglamento Interior de la Secretaría General de Gobierno o generar los relativos a las nuevas áreas.
+
+CUARTO.- En las disposiciones legales y administrativas del régimen normativo del Estado en donde se aluda a la Defensoría de Oficio, se entenderá por Defensoría Pública.
+
+QUINTO.- Para efectos de la presente Ley y demás disposiciones legales y administrativas, en donde se aluda a la Secretaría de Seguridad Pública, se entenderá a la Subsecretaría de Seguridad Pública.
+
+SEXTO.- Las figuras jurídicas relacionadas con el Sistema Penal Acusatorio y Oral en el Estado de Baja California Sur, entrarán en vigor de manera simultánea en los términos y plazos que se señalen en el DECRETO de DECLARATORIA de INCORPORACIÓN al Código Nacional de Procedimientos Penales emitido por este órgano legislativo, en fecha 26 de junio de 2014 y publicado mediante Decreto número 2176 de fecha 27 de junio de 2014.
