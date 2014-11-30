@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-de-baja-california-sur-44518"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-03-20"
-last_updated: "2014-06-28"
+last_updated: "2014-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE JUNIO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y TERCERO DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL B.O. DE 30 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS CIENTO VEINTE DÍAS DESPUÉS DE LA PUBLICACIÓN DEL CITADO CÓDIGO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2014 (ABROGADO).
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de marzo de 2005.
 
@@ -2423,7 +2425,7 @@ III.- Intervengan dos o más personas, cualquiera que sea su coparticipación;
 
 IV.- El responsable allane el domicilio de la víctima o la sorprenda en despoblado;
 
-V.- El delito fuese cometido por la persona que tiene al ofendido bajo su custodia, guarda, educación o adoctrinamiento religioso; y (sic)
+V.- El delito fuese cometido por la persona que tiene al ofendido bajo su custodia, guarda, educación o adoctrinamiento religioso; y
 
 VI.- Se haya cometido por un servidor público, en ejercicio de sus funciones, aprovechando los medios o circunstancias que éstas le proporcionan.
 
@@ -3041,7 +3043,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 
 B.O. 31 DE MARZO DE 2008.
 
-PRIMERO.-El presente decreto entrará en vigor al siguiente día de su publicación en el Boletín Oficial del Gobierno Estado (sic) de Baja California Sur.
+PRIMERO.-El presente decreto entrará en vigor al siguiente día de su publicación en el Boletín Oficial del Gobierno (sic) Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
 
@@ -3132,3 +3134,19 @@ B.O. 28 DE JUNIO DE 2014.
 Primero.- La presente Derogación entrará en vigor, el mismo día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 Segundo.- Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen, salvo que esta reforma resulte más benéfica. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+B.O. 30 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Este Código entrará en vigor ciento veinte días después de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Una vez iniciada la vigencia del presente Código, los ordenamientos legales que remitan a alguna disposición del Código Penal aprobado en fecha 01 de marzo del 2005 y sus reformas, se estarán a las disposiciones del presente ordenamiento.
+
+TERCERO.- Una vez iniciada la vigencia del presente Código, queda abrogado el Código Penal para el Estado de Baja California Sur, expedido mediante decreto 1525, publicado en el Boletín del Gobierno del Estado de Baja California Sur, en fecha 20 de marzo del 2005, sus reformas y demás leyes que se opongan al presente.
+
+CUARTO.- Para los hechos ejecutados antes de que entre en vigor el presente decreto, se continuará aplicando el Código Penal anterior, a menos que los imputados manifiesten su voluntad de acogerse al ordenamiento que estimen más favorable en los términos de lo dispuesto en el presente Código.
+
+QUINTO.- Para los casos de que los imputados manifiesten su voluntad de acogerse al presente ordenamiento por estimarlo más favorable, antes de que entre en vigor el Sistema de Justicia Penal Acusatorio y Oral conforme al decreto de incorporación al mismo, se sustanciarán conforme al Código de Procedimientos Penales para el Estado de Baja California Sur, pero en el caso de que las disposiciones del presente ordenamiento aludan al Código Nacional de Procedimientos Penales y a la Ley Nacional de Ejecución de Sanciones Penales, se tendrán como remitidos al Código de Procedimientos Penales para el Estado de Baja California Sur y a la Ley de Ejecución de Sanciones y Medidas de Seguridad para el Estado de Baja California Sur.
+
+De igual forma, en los supuestos aquí referidos, las remisiones específicas que haga el Código de Procedimientos Penales para el Estado de Baja California Sur a artículos del Código Penal aprobado en fecha 01 de marzo del 2005 y sus reformas, se estarán a las disposiciones coincidentes del presente Código.
+
+De acogerse los imputados y sentenciados al presente ordenamiento, cuyos asuntos se estén sustanciando, bajo el Código de Procedimientos Penales para el Estado de Baja California Sur, los tipos penales establecidos como graves dentro del catálogo del artículo 148 del mismo, se tendrán como remitidos a los tipos penales que en este ordenamiento correspondan con independencia de los artículos en que recaiga su tipificación dentro de este cuerpo normativo.
