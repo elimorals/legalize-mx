@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-judicial-del-estado-de-baja-2994"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-04-20"
-last_updated: "2014-10-20"
+last_updated: "2014-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE OCTUBRE DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y TERCERO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADA EN EL B.O. DE 30 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EL PRIMERO DE FEBRERO DEL AÑO DOS MIL QUINCE.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 20 de abril de 1996.
 
@@ -2778,3 +2780,19 @@ Segundo.- Los procedimientos penales iniciados antes de la entrada en vigor del 
 B.O. 20 DE OCTUBRE DE 2014.
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 30 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Boletín Oficial del Gobierno del Estado Libre y Soberano de Baja California Sur, mismo que entrará en vigor el día primero de febrero del año dos mil quince.
+
+SEGUNDO.- Los preceptos relativos a las figuras que regulan el Sistema Acusatorio entrarán en vigor conforme a la gradualidad señalada en las Declaratorias de Adopción e inicio de vigencia del Código Nacional de Procedimientos Penales en el Estado Libre y Soberano de Baja California Sur y de incorporación del Sistema Procesal Penal Acusatorio en el Estado Libre y Soberano de Baja California Sur, publicada mediante decreto No. 2176 de fecha 27 de Junio de 2014.
+
+TERCERO.- Se abroga la Ley Orgánica del Poder Judicial del Estado de Baja California Sur, expedida mediante el decreto No. 1083 publicada en Boletín Oficial del Gobierno del Estado de Baja California Sur, el 20 de abril de 1996, con todas sus reformas y adiciones.
+
+CUARTO.- El Pleno del Tribunal Superior de Justicia tiene un plazo máximo de noventa días, a partir de la entrada en vigor del presente Decreto, para la expedición de los reglamentos que sean necesarios para dar cumplimiento al presente decreto.
+
+QUINTO.- La Secretaría de Finanzas del Gobierno del Estado de Baja California Sur y el Congreso del Estado de Baja California Sur, deberán considerar en los presupuestos correspondientes los recursos económicos para la creación de la infraestructura y equipamiento para dar cumplimiento al presente Decreto.
+
+SEXTO.- Los asuntos iniciados con anterioridad al presente Decreto continuarán tramitándose conforme a la ley aplicable en ese momento hasta su total conclusión.
+
+SÉPTIMO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
