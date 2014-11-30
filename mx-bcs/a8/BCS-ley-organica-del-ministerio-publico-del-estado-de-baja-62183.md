@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-ministerio-publico-del-estado-de-baja-62183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-07-08"
-last_updated: "2011-12-20"
+last_updated: "2014-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,13 @@ state: "BCS"
 
 LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADA EN EL B.O. DE 30 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 8 de julio de 2008.
 
-DECRETO No.1752
+DECRETO No. 1752
 
 EL HONORABLE CONGRESO DEL ESTADO DE BAJA CALIFORNIA SUR DECRETA:
 
@@ -763,7 +765,7 @@ XIV.- Las demás que determinen las disposiciones legales aplicables, la present
 
 ###### Artículo 23.
 
-Para el cumplimiento de sus funciones la Subprocuraduría de Control de Procesos, contará con el número de Agencias del Ministerio Público adscritas a los Tribunales en todo el Estado, que sean necesarios conforme lo autorice el presupuesto, así como con las áreas administrativas que prevea el Reglamento Interior en el cual se establezca quien suplirá en sus funciones en los casos previstos por la Ley; (sic)
+Para el cumplimiento de sus funciones la Subprocuraduría de Control de Procesos, contará con el número de Agencias del Ministerio Público adscritas a los Tribunales en todo el Estado, que sean necesarios conforme lo autorice el presupuesto, así como con las áreas administrativas que prevea el Reglamento Interior en el cual se establezca quien suplirá en sus funciones en los casos previstos por la Ley;
 
 ###### Artículo 24.
 
@@ -1219,7 +1221,7 @@ VIII.- Presentar a la Secretaria de Finanzas del Gobierno del Estado la cuenta j
 
 IX.- Cumplir oportunamente los acuerdos y demás determinaciones emitidas por el Consejo Técnico, o por su Presidente;
 
-X.- Elaborar en el mes de diciembre de cada año el informe anual de ingresos y de egresos del Fondo y someterlo a la consideración del Consejo para su análisis y aprobación correspondientes; y (sic)
+X.- Elaborar en el mes de diciembre de cada año el informe anual de ingresos y de egresos del Fondo y someterlo a la consideración del Consejo para su análisis y aprobación correspondientes; y
 
 ###### Artículo 60.
 
@@ -1546,3 +1548,37 @@ UNICO. El presente decreto entrara en vigor al día siguiente de su publicación
 B.O. 20 DE DICIEMBRE DE 2011.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Baja California Sur.
+
+B.O. 30 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley, entrará en vigor en los términos y plazos que al efecto señalan las Declaratorias de Adopción e Inicio de vigencia del Código Nacional de Procedimientos Penales en el Estado Libre y Soberano de Baja California Sur, y de incorporación del Sistema Procesal Penal Acusatorio en el Estado Libre y Soberano de Baja California Sur, por decreto número 2176, publicado en el Boletín Extraordinario número 30, de fecha 27 de junio del 2014
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica del Ministerio Público del Estado de Baja California Sur, expedida mediante Decreto 1752 publicado en el Boletín Oficial del Gobierno del Estado en fecha 08 de Julio de 2008, en los términos previstos en el artículo primero transitorio.
+
+###### ARTÍCULO TERCERO.
+
+La entrada en vigor del presente decreto, no afectará de ninguna forma la tramitación de las averiguaciones previas o procesos penales iniciados antes de su vigencia, y los agentes del ministerio público seguirán obligados a dar continuidad a los mismos, bajo las normas adjetivas vigentes al momento de la ejecución del hecho delictivo y de la Ley Orgánica del Ministerio Público expedida mediante Decreto 1752 publicado en el Boletín Oficial del Gobierno del Estado en fecha 08 de Julio de 2008.
+
+###### ARTÍCULO CUARTO.
+
+Los acuerdos, circulares y demás disposiciones administrativas dictadas por el Procurador General de Justicia, con fundamento en la Ley Orgánica que se abroga mediante el presente decreto, continuarán en vigor en lo que no se oponga a la presente ley hasta que aquél dicte las normas administrativas que correspondan.
+
+###### ARTÍCULO QUINTO.
+
+La Secretaria de Finanzas y la Oficialía Mayor de Gobierno del Estado, deberán llevar a cabo los trámites y ajustes administrativos y presupuestales, para dar debido cumplimiento a lo dispuesto por la presente ley.
+
+###### ARTÍCULO SEXTO.
+
+El titular del Poder Ejecutivo del Estado dentro de los noventa días después a la publicación en el boletín oficial del Presente Decreto, deberán regular las disposiciones dentro de sus ordenamientos, para dar cumplimiento a las obligaciones que se imponen en el presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los Integrantes de la Procuraduría General de Justicia del Estado de Baja California Sur, tendrán un plazo máximo de hasta el 18 de junio de 2016 para cumplir con los procesos de capacitación para operar el sistema de justicia penal acusatorio y oral.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan las disposiciones que contravengan este Decreto.
