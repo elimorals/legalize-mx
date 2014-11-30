@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-administracion-publica-del-estado-de-45700"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-07-14"
-last_updated: "2014-10-20"
+last_updated: "2014-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45700&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2014.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el jueves 14 de julio de 2005
 
@@ -40,6 +40,8 @@ SE EXPIDE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CAL
 ###### ARTÍCULO ÚNICO.
 
 Se expide la Ley Orgánica de la Administración Pública del Estado de Baja California Sur para quedar como sigue:
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO QUINTO DEL DECRETO 2195, PUBLICADO EN EL B.O. 30 DE NOVIEMBRE DE 2014, PARA EFECTOS DE LA PRESENTE LEY Y DEMÁS DISPOSICIONES LEGALES Y ADMINISTRATIVAS, EN DONDE SE ALUDA A LA SECRETARÍA DE SEGURIDAD PÚBLICA, SE ENTENDERÁ A LA SUBSECRETARÍA DE SEGURIDAD PÚBLICA.</small>
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
@@ -323,7 +325,9 @@ m) Conocer y substanciar los procedimientos relativos a los recursos administrat
 
 n) Encargarse de las funciones del Ejecutivo del Estado, en materia del Notariado de conformidad con las leyes respectivas, incluyendo la autorización, organización, vigilancia y sanción de las actividades de los Notarios Titulares y Notarios Adscritos; así como organizar, dirigir y supervisar el Archivo General de Notarias;
 
-o) Coordinar, supervisar, controlar y vigilar las acciones correspondientes a la organización, desempeño y funcionamiento de la Defensoría de Oficio;
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2014)</small>
+
+o) Coordinar, supervisar, controlar y vigilar las acciones correspondientes a la organización, desempeño y funcionamiento de la Dirección General de la Defensoría Pública, de conformidad con su Ley Orgánica y reglamento interno;
 
 p) Coordinar las acciones de la Comisión Implementadora del Nuevo Sistema de Justicia Penal;
 
@@ -393,7 +397,9 @@ a) Formular, conducir y evaluar las políticas y programas relativos a la seguri
 
 b) Promover en coordinación con la sociedad, campañas tendientes a la prevención de los delitos;
 
-c) Prestar al Poder Judicial del Estado y demás autoridades de carácter jurisdiccional, el auxilio, cuando lo solicite, para el debido cumplimiento de sus resoluciones;
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2014)</small>
+
+c) Prestar al Poder Judicial del Estado y demás autoridades de carácter jurisdiccional, el auxilio, cuando lo solicite, para el debido cumplimiento de sus resoluciones, así como para custodiar al imputado, mantener el orden y la tranquilidad en el interior de las salas en que se lleve a cabo una audiencia penal, evitando cualquier incidente o contingencia que ponga en riesgo la integridad física de las partes, del órgano jurisdiccional o de los asistentes y personal que se encuentre en dichas salas;
 
 d) Coordinarse con las autoridades federales y municipales para enfrentar los problemas relativos a la seguridad pública;
 
@@ -405,11 +411,15 @@ g) Controlar en coordinación con la Procuraduría General de Justicia del Estad
 
 h) Controlar y supervisar los servicios de seguridad privada que se presten en el Estado, así como ejercer las funciones asignadas al Estado en la Ley en la Ley (sic) de la materia;
 
-i) Organizar, supervisar y controlar la operación de la Academia Estatal de Seguridad Pública, la Policía Estatal Preventiva y el Centro Estatal de Control de Confianza;
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2014)</small>
+
+i) Organizar, supervisar y controlar la operación de la Academia Estatal de Seguridad Pública, la Policía Estatal Preventiva, Policía Procesal, el Centro Estatal de Control de Confianza, y la Dirección de Servicios Previos a Juicio, Seguimiento de Medidas Cautelares y de la Suspensión Condicional del Proceso;
 
 j) Celebrar con autoridades que conforman el Sistema Estatal de Seguridad Pública, convenios que permitan preservar el orden y respeto dentro de la sociedad;
 
-k) Coordinar y operar los registros estatales de información en materia criminal, vehicular, de personal de instituciones de seguridad pública, así como de internos en los centros de reinserción social y de internamiento y tratamiento externo para adolescentes y demás registros nacionales de información sobre seguridad pública;
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2014)</small>
+
+k) Coordinar y operar las registros estatales de información en materia criminal, vehicular, de personal de instituciones de seguridad pública, así como de internos en los centros de reinserción social y de internamiento y tratamiento externo para adolescentes, el registro de seguimiento al cumplimiento de las medidas cautelares y de la condiciones de la suspensión condicional del proceso impuestas por el órgano jurisdiccional y demás registros nacionales de información sobre seguridad pública.
 
 l) Proporcionar a la Procuraduría General de Justicia la información que se tenga sobre personas y vehículos que ingresen o abandonen el territorio estatal;
 
@@ -1628,3 +1638,17 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 B.O. 20 DE OCTUBRE DE 2014.
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 30 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Estado proveerá los recursos humanos, materiales y financieros para la operación de la Dirección de Servicios Previos a Juicio, Seguimiento de Medidas Cautelares y de la Suspensión Condicional del Proceso, así como para la Policía Procesal; para el cumplimiento de lo dispuesto en el presente artículo transitorio, la Secretaría de Finanzas y la Oficialía Mayor de Gobierno, deberán hacer los ajustes presupuestales y administrativos necesarios.
+
+TERCERO.- El titular del Poder Ejecutivo del Estado dentro de los ciento veinte días naturales siguientes a la entrada en vigor del presente Decreto, deberá llevar a cabo las modificaciones necesarias al Reglamento Interior de la Secretaría General de Gobierno o generar los relativos a las nuevas áreas.
+
+CUARTO.- En las disposiciones legales y administrativas del régimen normativo del Estado en donde se aluda a la Defensoría de Oficio, se entenderá por Defensoría Pública.
+
+QUINTO.- Para efectos de la presente Ley y demás disposiciones legales y administrativas, en donde se aluda a la Secretaría de Seguridad Pública, se entenderá a la Subsecretaría de Seguridad Pública.
+
+SEXTO.- Las figuras jurídicas relacionadas con el Sistema Penal Acusatorio y Oral en el Estado de Baja California Sur, entrarán en vigor de manera simultánea en los términos y plazos que se señalen en el DECRETO de DECLARATORIA de INCORPORACIÓN al Código Nacional de Procedimientos Penales emitido por este órgano legislativo, en fecha 26 de junio de 2014 y publicado mediante Decreto número 2176 de fecha 27 de junio de 2014.
