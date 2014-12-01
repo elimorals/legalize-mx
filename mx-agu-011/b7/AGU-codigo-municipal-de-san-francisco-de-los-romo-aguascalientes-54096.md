@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-francisco-de-los-romo-aguascalientes-54
 country: "mx"
 rank: "codigo"
 publication_date: "2007-02-12"
-last_updated: "2014-07-28"
+last_updated: "2014-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2014.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 12 de febrero de 2007.
 
@@ -1461,7 +1461,7 @@ APARTADO SEPTIMO
 
 Contraloría y Desarrollo Administrativo Municipal
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO 108.
 
@@ -4189,7 +4189,7 @@ III. Anexo a la solicitud de servicio, deberá enviarse un Inventario del vehíc
 
 ###### ARTICULO 346.
 
-Queda prohibido al Resguardante o Usuario enviar los vehículos automotores a talleres externos sin la autorización escrita del Director General de Finazas y Administración del Municipio o del Jefe del Taller.
+Queda prohibido al Resguardante o Usuario enviar los vehículos automotores a talleres externos sin la autorización escrita del Director General de Finazas (sic) y Administración del Municipio o del Jefe del Taller.
 
 Si el Resguardante o Usuario traslada el vehículo automotor a un taller externo sin contar con la autorización a que se refiere el párrafo anterior, el costo de la reparación será atribuida al Resguardante o Usuario, debiendo el Taller verificar la bitácora del vehículo para revisar que no se le hayan sustituido piezas.
 
@@ -4475,7 +4475,7 @@ I. AMONESTACION POR ESCRITO, CON APERCIBIMIENTO DE SANCION MAYOR, por violación
 
 II.- REASIGNACION DE LOS BIENES MUEBLES, A RESGUARDANTE DIVERSO DENTRO DE LA MISMA DEPENDENCIA MUNICIPAL, por violación a lo dispuesto por los Artículos 282, 289 fracción VII y 290 fracción I; 328 fracciones V y X; 330 segundo párrafo y 332 fracción V;
 
-III. REASIGNACION DE LOS BIENES MUEBLES A RESGUARDANTE DIVERSO EN OTRA DEPENDECIA MUNICIPAL, por violación a lo dispuesto por los Artículos 290 fracción II; 332 fracciones I, II, III, IV, VI, VII, VIII, IX, XI; 335, 346, 355 párrafo final y 358;
+III. REASIGNACION DE LOS BIENES MUEBLES A RESGUARDANTE DIVERSO EN OTRA DEPENDECIA (SIC) MUNICIPAL, por violación a lo dispuesto por los Artículos 290 fracción II; 332 fracciones I, II, III, IV, VI, VII, VIII, IX, XI; 335, 346, 355 párrafo final y 358;
 
 IV. REPOSICION DE BIENES MUEBLES IGUALES O DE SIMILARES CARACTERISTICAS Y OPERATIVIDAD, por incurrir en los supuestos que señalan los Artículos 309, 311, 312, 313, 318 y 325;
 
@@ -4843,15 +4843,23 @@ El encargado del depósito de pertenencias tendrá bajo su más estricta respons
 
 Cuando se recojan armas, objetos peligrosos, enervantes, psicotrópicos, estupefacientes o cualquier tipo de droga prohibida, u objeto motivo de la comisión de algún ilícito o cualquier objeto utilizado para delinquir, se pondrán inmediatamente a disposición del Juez Calificador para que proceda a su remisión, mediante oficio, a la autoridad competente.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 404.
 
-Al infractor al dejar sus pertenencias en el depósito, se le entregará el recibo inventario debidamente firmado y sellado por el encargado del depósito. Dicho recibo será reintegrado al encargado, una vez que las cosas sean recibidas por los familiares, personas expresamente autorizadas, o por el propio infractor.
+El infractor al dejar sus pertenencias en el depósito, se le entregará el recibo inventariado, debidamente firmado y sellado por el encargado del depósito. Dicho recibo será reintegrado al encargado, una vez que las cosas sean recibidas por los familiares, personas expresamente autorizadas o por el propio infractor.
 
 Al infractor se le notificará que cuenta con el término de treinta días naturales para reclamar la devolución de sus pertenencias, a partir del día siguiente al de su egreso.
 
-En caso de no recogerlas dentro de dicho término, se tendrán como abandonadas y se procederá, por conducto de los Jueces Calificadores de Seguridad Pública, a su donación y entrega al Sistema D.I.F. Municipal para la beneficencia pública, cuando el valor de los objetos no exceda de diez días de salario mínimo general vigente en el área geográfica correspondiente.
+Si transcurrido el término de treinta días naturales, las pertenencias no fueren reclamadas, o bien que abandonadas en la vía pública se ignore su dueño, se procederá de la siguiente manera:
 
-Cuando el valor de los objetos exceda de dicho valor se procederá a solicitar su venta en almoneda pública conforme a las disposiciones del presente Código y el producto quedará a disposición del legítimo propietario en la Dirección General de Finanzas y Administración del Municipio. El término para reclamar dicho producto prescribe en un año después de fincado el remate.
+El Síndico Municipal, clasificará los bienes de los que se trate, en aquellos de los que se (sic) puedan ser útiles al Sistema Municipal de Desarrollo Integral para la Familia, y en los que aquellos que por su condición física o jurídica no lo sean.
+
+En el primer caso pasados treinta días sin que hayan sido reclamados por quienes acrediten ser sus legítimos dueños, el Síndico Municipal levantará acta circunstanciada de las causas de las cuales llegaron a su posesión con la presencia de un representante de la Dirección de Asuntos Jurídicos y de la Contraloria Municipal, ordenando su remisión al Sistema Municipal de Desarrollo Integral para la Familia para su disposición final.
+
+Tratándose de los segundos, el Síndico Municipal remitirá en su caso, oficio a las autoridades competentes por medio de los cuales comunique que pasados treinta días de su notificación se dispondrá la destrucción de los objetos, misma que se llevará a cabo en presencia de dos testigos de asistencia, así como de un representante de la Dirección de Asuntos Jurídicos y Contraloría Municipal, levantándose acta circunstanciada de dicho procedimiento.
+
+En ningún caso el personal del Municipio podrá tener dominio de los bienes para sí o por sus cónyuges, ascendientes, descendientes y colaterales dentro del cuarto grado, consanguíneos o por afinidad.
 
 ### CAPITULO V. De los Jueces Calificadores de Tránsito
 
@@ -6651,7 +6659,7 @@ III. En las calles de ancho de arroyo mayor a quince metros, las luminarias se i
 
 IV. En las calles con camellón central menor a 3.5 metros, sin interferencia de árboles, se utilizará un arbotante con doble luminaria, ubicado al centro del mismo;
 
-V. En las calles con camellón central mayor a 3.5 metros o con interferencia de árboles, se instalarán luminarias en forma bilateral pareada o en tresbolillo en ambas guarniciones del camellón. Se usará un arbotante reforzado con doble luminaria en brazo de 3 a 5 metros en los casos que la Dirección de de Servicios Públicos lo determine; y
+V. En las calles con camellón central mayor a 3.5 metros o con interferencia de árboles, se instalarán luminarias en forma bilateral pareada o en tresbolillo en ambas guarniciones del camellón. Se usará un arbotante reforzado con doble luminaria en brazo de 3 a 5 metros en los casos que la Dirección de de (sic) Servicios Públicos lo determine; y
 
 VI. El alumbrado en túneles viales deberá cumplir con lo especificado en la Norma Oficial Mexicana aplicable y vigente.
 
@@ -7503,7 +7511,7 @@ VI. Procurar el buen estado de los jardines que se encuentran dentro de los pant
 
 Los Administradores de los cementerios tendrán las siguientes obligaciones:
 
-I. Cuidar y aplicar las medidas necesarias para la conservación, limpieza e higiene del cementerio;
+l. Cuidar y aplicar las medidas necesarias para la conservación, limpieza e higiene del cementerio;
 
 II. Cuidar que los sepulcros en general, guarden entre sí la distancia señalada en este Capítulo y estén numerados convenientemente para su debida identificación;
 
@@ -7571,7 +7579,7 @@ Las fosas tendrán como medida mínima, dos metros cincuenta centímetros de lon
 
 Los receptáculos o reposos podrán ser:
 
-I. Terrestres, verticales y horizontales; y
+l. Terrestres, verticales y horizontales; y
 
 II. Gavetas subterráneas o áreas de concreto.
 
@@ -7989,7 +7997,7 @@ Las acciones de cambio de uso de suelo, derribo y remoción de vegetación, así
 
 ###### ARTICULO 760.
 
-La adecuada forestación de banquetas, camellones y aquellas áreas de donación que el Municipio determine en el proceso de autorización de fraccionamientos de nueva creación, deberá ser por cuenta del fracccionador y se apegará a lo siguiente:
+La adecuada forestación de banquetas, camellones y aquellas áreas de donación que el Municipio determine en el proceso de autorización de fraccionamientos de nueva creación, deberá ser por cuenta del fraccionador y se apegará a lo siguiente:
 
 I Utilizar sólo especies adecuadas según el Manual de Forestación y Manejo de Áreas Verdes Urbanas del Municipio de San Francisco de los Romo que emita la Dirección de Servicios Públicos en coordinación con la Subdirección de Ecología;
 
@@ -15641,7 +15649,7 @@ XXIV. Servicios Administrativos: Es el inmueble en donde trabajan empleados púb
 
 Estos servicios se pueden ubicar en vialidades de tipo secundario y primario, los cuales también deberán contar con cajones de estacionamiento dentro de sus inmuebles, conforme lo señalan el Código Urbano y este Código;
 
-XXV: Servicios Mecánicos y de Mantenimiento Vehicular: Son los establecimientos que se dedican a realizar en su interior cualquier tipo de reparación o servicio de mantenimiento mecánico, eléctrico, de hojalatería, pintura, suspensión y llantas entre otros a maquinaria o vehículos de cualquier especie, independientemente de que su movimiento o funcionamiento sea impulsado por motores de combustión interna de cualquier tipo de combustible o que el mismo sea provocado por algún tipo de generador eléctrico.
+XXV. Servicios Mecánicos y de Mantenimiento Vehicular: Son los establecimientos que se dedican a realizar en su interior cualquier tipo de reparación o servicio de mantenimiento mecánico, eléctrico, de hojalatería, pintura, suspensión y llantas entre otros a maquinaria o vehículos de cualquier especie, independientemente de que su movimiento o funcionamiento sea impulsado por motores de combustión interna de cualquier tipo de combustible o que el mismo sea provocado por algún tipo de generador eléctrico.
 
 Entiéndase por esto a cualquier tipo de talleres de reparación, independientemente de la función mecánica o eléctrica que desempeñe el vehículo.
 
@@ -17077,7 +17085,7 @@ En las zonas habitacionales se prohíbe la instalación de cualquier anuncio cla
 
 En las zonas habitacionales se permite la instalación de los siguientes anuncios:
 
-I. Eventuales en plano vertical, sin iluminación y uno por cada frente del predio en construcción, con superficie que no exceda de 0.60 metros cuadrados;
+l. Eventuales en plano vertical, sin iluminación y uno por cada frente del predio en construcción, con superficie que no exceda de 0.60 metros cuadrados;
 
 II. Tratándose de usos comerciales en estas zonas, se podrá utilizar hasta el 30 por ciento de superficie del frente del inmueble para la colocación de un anuncio;
 
@@ -20868,6 +20876,12 @@ P.O. 19 DE MAYO DE 2014.
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 P.O. 28 DE JULIO DE 2014.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 1 DE DICIEMBRE DE 2014.
 
 ###### ARTICULO ÚNICO.
 
