@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-servicio-geologico-mexicano-73940"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-03-24"
-last_updated: "2013-09-11"
+last_updated: "2014-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73940&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-09-28"
 
 ESTATUTO ORGÁNICO DEL SERVICIO GEOLÓGICO MEXICANO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE DICIEMBRE DE 2014.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 24 de marzo de 2010.
 
@@ -321,29 +321,23 @@ XXXI. En el ámbito de sus facultades, supervisar las actividades y establecer l
 
 XXXII. Desarrollar conforme a la Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear la Exploración y Explotación de minerales radiactivos;
 
-XXXIII. Solicitar a la Secretaría de Energía las asignaciones que estime necesarias para la exploración y explotación e instalación de plantas de beneficio en materia de minerales radiactivos, de acuerdo a las disposiciones que sobre la misma establece la Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear; y (sic)
+XXXIII. Solicitar a la Secretaría de Energía las asignaciones que estime necesarias para la exploración y explotación e instalación de plantas de beneficio en materia de minerales radiactivos, de acuerdo a las disposiciones que sobre la misma establece la Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear; y
 
-> <small>(REFORMADA, D.O.F. 11 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2014)</small>
 
-XXXIV. Establecer los mecanismos para la certificación de reservas mineras;
+XXXIV. Las demás que le otorgue el Órgano de Gobierno y las disposiciones legales.
 
-> <small>(ADICIONADA, D.O.F. 11 DE SEPTIEMBRE DE 2013)</small>
+XXXV. (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2014)
 
-XXXV. Establecer los mecanismos necesarios para implantar los sistemas de calidad a través de normas aplicables a los productos y servicios que ofrece el organismo;
+XXXVI. (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2014)
 
-> <small>(ADICIONADA, D.O.F. 11 DE SEPTIEMBRE DE 2013)</small>
+XXXVII. (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2014)
 
-XXXVI. Establecer los procedimientos de gestión de calidad y competitividad nacional e internacional a través de la aplicación de normas ISO correspondientes;
-
-> <small>(ADICIONADA, D.O.F. 11 DE SEPTIEMBRE DE 2013)</small>
-
-XXXVII. Las demás que le otorgue el Órgano de Gobierno y las disposiciones legales.
-
-> <small>(REFORMADO, D.O.F. 11 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 15.
 
-El Director General será auxiliado de manera directa por tres Directores de Área: de Operación Geológica; de Minerales Energéticos; y de Administración y Finanzas, por tres Subdirectores de Área: Jurídico; de Desarrollo Estratégico; y de Centros Experimentales, así como por una Coordinación Regional cuyas funciones se desarrollarán conforme a las disposiciones aplicables al organismo.
+El Director General será auxiliado de manera directa por los Directores de Área de Operación Geológica; de Minerales Energéticos; de Administración y Finanzas y dos Subdirectores, uno Jurídico y otro de Desarrollo Estratégico así como de una Coordinación Regional cuyas funciones se desarrollarán conforme a las disposiciones aplicables al organismo.
 
 ###### ARTICULO 16.
 
@@ -353,11 +347,11 @@ El Director General podrá delegar cualquiera de sus facultades en otros servido
 
 #### Sección Primera. De los Directores de Area
 
-> <small>(REFORMADO, D.O.F. 11 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 17.
 
-La Dirección de Operación Geológica para el desarrollo de sus funciones, tendrá el apoyo directo e inmediato de una Subdirección de Geología, una Subdirección de Recursos Minerales y una Subdirección de Geociencia.
+La Dirección de Operación Geológica para el desarrollo de sus funciones, tendrá el apoyo directo e inmediato de una Subdirección de Geología, una Subdirección de Recursos Minerales y una Subdirección de Geociencia Digital.
 
 ###### ARTICULO 18.
 
@@ -375,9 +369,13 @@ V. Elaborar y mantener actualizada la Carta Geológica de México, en las escala
 
 VI. Generar e integrar la información geoquímica del territorio nacional obtenida de acuerdo a normas internacionales y establecer las características geofísicas del subsuelo y proporcionar su interpretación;
 
-> <small>(REFORMADA, D.O.F. 11 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2014)</small>
 
-VII. Dar a la pequeña y mediana minería, y al sector social, asesoría técnica en materia de evaluación de depósitos minerales para su aprovechamiento;
+VII. Dar a la pequeña y mediana minería, y al sector social, asesoría técnica en materia de evaluación de depósitos minerales, procesos metalúrgicos y análisis físico-químicos de muestras de minerales, para su aprovechamiento;
+
+> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2014)</small>
+
+VII Bis. Proporcionar el servicio de laboratorio y el estudio e interpretación de análisis químicos, fisicoquímicos, metalúrgicos y geológicos de muestras en estado sólido, líquido o gaseoso;
 
 VIII. (DEROGADA, D.O.F. 11 DE SEPTIEMBRE DE 2013)
 
@@ -427,11 +425,11 @@ XXX. Atender las disposiciones que establece la Ley Minera y su Reglamento en ma
 
 XXXI. Las demás que le otorgue el Director General.
 
-> <small>(REFORMADO, D.O.F. 11 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 19.
 
-La Dirección de Minerales Energéticos para el desarrollo de sus funciones, tendrá el apoyo directo e inmediato de una Subdirección de Exploración de Recursos Energéticos.
+La Dirección de Minerales Energéticos para el desarrollo de sus funciones, tendrá el apoyo directo e inmediato de una Subdirección de Gas.
 
 ###### ARTICULO 20.
 
@@ -625,9 +623,9 @@ V. La Subdirección Jurídica establecerá un sistema para el registro de las tr
 
 VI. La Subdirección Jurídica podrá transigir en términos del presente artículo, los asuntos y controversias que se generen en el organismo con motivo de sus actividades.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 11 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE DICIEMBRE DE 2014)</small>
 
-#### Sección Cuarta. De la Subdirección de Desarrollo Estratégico y de la Subdirección de Centros Experimentales
+#### Sección Cuarta. De la Subdirección de Desarrollo Estratégico
 
 ###### ARTICULO 27.
 
@@ -661,43 +659,17 @@ XIII. Difundir los servicios y la imagen que genera el organismo; y
 
 XIV. Las demás que le otorgue el Director General.
 
-> <small>(ADICIONADO, D.O.F. 11 DE SEPTIEMBRE DE 2013)</small>
-
 ###### ARTICULO 27 Bis.
 
-La Subdirección de Centros Experimentales tendrá las funciones siguientes:
-
-I. Proporcionar los servicios de laboratorio en sus modalidades de análisis químicos, fisicoquímicos, estudios de caracterización y metalúrgicos de muestras minerales en estado sólido y líquido;
-
-II. Coordinar los programas de capacitación, acreditación y certificación de normas nacionales e internacionales que apliquen;
-
-III. Supervisar y coordinar la operación técnica y administrativa de los laboratorios;
-
-IV. Prestar a clientes externos los servicios de laboratorio descritos mediante contratos con personas físicas o morales nacionales o extranjeras;
-
-V. Organizar y supervisar el sistema integral de gestión de laboratorios;
-
-VI. Validar la adquisición de equipos y materiales de los laboratorios;
-
-VII. Evaluar y aprobar los nuevos servicios que satisfagan la demanda del mercado con procedimientos técnicos y precios respectivos;
-
-VIII. Proporcionar el servicio de laboratorio y el estudio e interpretación de análisis químicos, físico químicos, metalúrgicos y geológicos de muestras en estado sólido, líquido o gaseoso;
-
-IX. Establecer las bases que garanticen la protección al medio ambiente y la seguridad e higiene en las actividades que desarrollan en los Centros;
-
-X. Coordinar los programas de ampliación y modernización de la infraestructura de los centros experimentales;
-
-XI. Validar los resultados de ensayos y calibraciones elaborados en los centros experimentales conforme a los requerimientos establecidos en las Normas ISO aplicables; y
-
-XII. Desempeñar las demás funciones que le asigne el Director General.
+(DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2014)
 
 #### Sección Quinta. De la Coordinación Regional
 
-> <small>(REFORMADO, D.O.F. 11 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 28.
 
-La Coordinación Regional para el desarrollo de sus funciones, tendrá el apoyo directo e inmediato de las Gerencias Regionales siguientes: Centro, Centro-Norte, Norte, Noroeste, Sur, Centro-Occidente y Occidente.
+La Coordinación Regional para el desarrollo de sus funciones, tendrá el apoyo directo e inmediato de las Gerencias siguientes: Gerencia Regional Norte, Gerencia Regional Centro-Norte, Gerencia Regional Noroeste, Gerencia Regional Sur, Gerencia Regional Occidente, Gerencia Regional Centro y Gerencia Regional Centro-Occidente.
 
 ###### ARTICULO 29.
 
@@ -764,3 +736,9 @@ D.O.F. 11 DE SEPTIEMBRE DE 2013.
 PRIMERO.- Publíquense las presentes modificaciones al Estatuto Orgánico del Servicio Geológico Mexicano en el Diario Oficial de la Federación y en su página web.
 
 SEGUNDO.- Se deroga todas aquellas disposiciones internas de carácter administrativo que se opongan a las presentes modificaciones.
+
+D.O.F. 1 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Las presentes modificaciones al Estatuto Orgánico entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones internas de carácter administrativo que se opongan a las presentes modificaciones.
