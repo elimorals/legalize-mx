@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-la-comision-de-ahorro-de-energia-del-643
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-16"
-last_updated: "2008-10-16"
+last_updated: "2014-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64377&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION DE AHORRO DE ENERGIA DEL ESTADO DE SONORA
 
-REGLAMENTO INTERIOR DE LA COMISION DE AHORRO DE ENERGIA DEL ESTADO DE SONORA
+REGLAMENTO INTERIOR DE LA COMISIÓN DE AHORRO DE ENERGÍA DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISIÓN DE ENERGÍA DEL ESTADO DE SONORA, PUBLICADO EN EL B.O. DE 1 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE DICIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 16 de octubre de 2008.
 
@@ -429,7 +431,7 @@ VII. Realizar e informar a la Dirección General y Unidades Administrativas de l
 
 VIII. Implementar los controles de personal en apego a los lineamientos de las condiciones generales de trabajo;
 
-IX. Garantizar la correcta publicación, atención y control de la información que la Ley de Acceso a la Información Pública del Estado de Sonora, Requiera (sic);
+IX. Garantizar la correcta publicación, atención y control de la información que la Ley de Acceso a la Información Pública del Estado de Sonora, Requiera;
 
 X. Proponer anualmente al Director General un programa de prestaciones, remuneraciones e incentivos para el personal de la Comisión de acuerdo al cumplimiento de metas y desempeño de sus funciones;
 
@@ -652,3 +654,19 @@ UNIDAD TECNICA UNIDAD DE RELACIONES UNIDAD
 INTERINSTITUCIONALES ADMINISTRATIVA
 
 Y DIFUSIÓN Y CONTABLE
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 1 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado;
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Comisión de Ahorro de Energía del Estado de Sonora, publicado en el Boletín Oficial del Gobierno del Estado Número 31, sección I, de fecha 16 de octubre de 2008.
+
+###### ARTÍCULO TERCERO.
+
+·Los manuales de organización, de procedimientos y, en su caso, de servicios al público deberán expedirse dentro de los sesenta días posteriores a la publicación del Reglamento Interior, así como establecer que el titular de la Comisión de Energía del Estado de Sonora, queda facultado para resolver las cuestiones que se presenten en tanto se expidan los mencionados manuales administrativos.
