@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2014-06-24"
+last_updated: "2014-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2014.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -33,7 +33,7 @@ Que el H. Congreso del Estado ha decretado lo siguiente:
 
 El XXVI Congreso Constitucional del Estado de Campeche, con su carácter de Constituyente, ha tenido a bien expedir la siguiente:
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE DICIEMBRE DE 1961)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE DICIEMBRE DE 1961)</small>
 
 CONSTITUCION POLITICA DEL ESTADO DE CAMPECHE
 
@@ -341,23 +341,29 @@ IV.- Por adquirir la calidad de ciudadano de otro Estado, salvo cuando haya sido
 
 V.- En los demás casos que la Ley establezca.
 
+> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 184, PUBLICADO EN EL P.O. 1 DE DICIEMBRE DE 2014, SE MODIFICÓ EL NÚMERO DE FRACCIONES PRESENTE ARTÍCULO.</small>
+
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
 ###### ARTICULO 21.
 
 Se suspende el ejercicio de los derechos o prerrogativas de los ciudadanos campechanos:
 
-I.- Por falta de cumplimiento, sin causa justificada, de alguna de las obligaciones que impone el Artículo 19 de esta Constitución. La suspensión durará un año y se impondrá además de las otras penas que por el mismo hecho señalare la Ley;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2014)</small>
 
-II.- Por estar sujeto a proceso criminal, por delito que merezca pena corporal, a contar desde la fecha del auto de formal prisión;
+I.- Por falta de cumplimiento, sin causa justificada, de alguna de las obligaciones que impone el artículo 19 de esta Constitución. La suspensión durará un año y se impondrá además de las otras sanciones que por el mismo hecho señalare la Ley;
 
-III.- Durante la extinción de una pena corporal;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2014)</small>
 
-IV.- Por estar prófugo de la justicia, desde que se dicte la orden de aprehensión, hasta que prescriba la acción penal;
+II.- Durante el cumplimiento de la sanción privativa de libertad proveniente de una sentencia condenatoria firme emitida por juez competente;
 
-V.- Por sentencia ejecutoriada que imponga como pena esa suspensión; y
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2014)</small>
 
-VI.- Por vagancia o ebriedad consuetudinarias declaradas en los términos que prevengan las leyes.
+III.- Por estar prófugo de la justicia desde que se dicte la orden de aprehensión, hasta que prescriba la acción penal; y,
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2014)</small>
+
+IV.- Por sentencia ejecutoria que imponga como sanción esa suspensión.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -449,11 +455,11 @@ XI.- La ley local establecerá las sanciones a las violaciones a estas disposici
 
 ### CAPITULO VIII. De la Forma de Gobierno
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 25.
 
-El Estado adopta para su régimen interior, la forma de gobierno republicano, representativo y popular, como lo previene el pacto federal.
+El Estado adopta para su régimen interior, la forma de gobierno republicano, representativo, democrático y laico como lo previene el pacto federal.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -567,7 +573,7 @@ c).- Si se es oriundo de otro Estado, tener residencia cuando menos de cinco añ
 
 No será impedimento la ausencia eventual en cualquiera de los casos, siempre que no se conserve la vecindad de otro Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 34.
 
@@ -589,9 +595,9 @@ III.- Los jefes militares del Ejército Nacional y los de la fuerza del Estado o
 
 IV.- Los jefes de la Guardia Nacional que estuvieren en servicio activo, por el distrito o distritos en donde ejerzan mando;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2014)</small>
 
-V.- El Gobernador del Estado, los titulares de las dependencias y entidades de la Administración Pública Estatal, los titulares de las direcciones de la propia Administración, los Magistrados del Tribunal Superior de Justicia y el Procurador General de Justicia;
+V.- El Gobernador del Estado, los titulares de las dependencias y entidades de la Administración Pública Estatal, los titulares de las direcciones de la propia Administración, los Magistrados del Tribunal Superior de Justicia y el Fiscal General del Estado;
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1996)</small>
 
@@ -699,7 +705,7 @@ III.- A los Ayuntamientos en asuntos del Ramo Municipal;
 
 > <small>(REFORMADA, P.O. 19 DE ENERO DE 2006)</small>
 
-IV.- Al Tribunal Superior de Justicia, en materia de su competencia; y (sic)
+IV.- Al Tribunal Superior de Justicia, en materia de su competencia; y
 
 > <small>(ADICIONADA, P.O. 19 DE ENERO DE 2006)</small>
 
@@ -1261,7 +1267,7 @@ XXIX.- Promover la inversión de todos los sectores de acuerdo con el programa d
 
 > <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
-XXX.- Conceder, conforme a las leyes, indulto, remisión o conmutación de penas impuestas por los Tribunales del Estado; y (sic)
+XXX.- Conceder, conforme a las leyes, indulto, remisión o conmutación de penas impuestas por los Tribunales del Estado; y
 
 > <small>(REFORMADA, P.O. 8 DE JUNIO DE 2011)</small>
 
@@ -1315,25 +1321,35 @@ Los acuerdos, órdenes y disposiciones que dicte el Gobernador y que sean despac
 
 Las faltas de los Secretarios de las dependencias de la Administración Pública serán suplidas en la forma que determine la correspondiente Ley Orgánica.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 75.
 
-La Ley organizará el Ministerio Público del Estado, cuyos funcionarios serán nombrados y removidos por el Gobernador, de acuerdo con la ley respectiva. El Ministerio Público estará presidido por un Procurador General de Justicia del Estado, quien deberá satisfacer los requisitos que señala el artículo 79, con excepción de la edad, que no podrá ser menor de treinta años; y será designado y removido por el Gobernador con ratificación del Congreso del Estado o, en sus recesos, de la Diputación Permanente.
+La Ley organizará el Ministerio Público del Estado, cuyos integrantes serán libremente nombrados y removidos por el Gobernador, de acuerdo con la Ley respectiva. El Ministerio Público estará presidido por un Fiscal General del Estado, quien deberá satisfacer los requisitos que señala el artículo 79, con excepción de la edad, que no podrá ser menor de treinta años; y será designado y removido por el titular del Ejecutivo Estatal con ratificación del Congreso del Estado o, en sus recesos, de la Diputación Permanente.
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1985)</small>
+El Ministerio Público, como institución de buena fe y en su carácter de representante de los intereses de la sociedad, tendrá las siguientes atribuciones:
 
-Incumbe al Ministerio Público estatal la persecución, ante los tribunales locales, de todos los delitos del orden común; por lo mismo a él le corresponderá solicitar las órdenes de aprehensión contra los inculpados; buscar y presentar las pruebas que acrediten la responsabilidad de éstos; hacer que los juicios se sigan con toda regularidad para que la administración de justicia sea pronta y expedita; pedir la aplicación de las penas e intervenir en todos los negocios que la ley determine.
+I. Investigar y perseguir los delitos del fuero común cometidos en el territorio del Estado o que surtan sus efectos en el interior, con estricto respeto a los Derechos Humanos que precisan la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado. Esta función podrá ejercerla en coordinación con las Instituciones de Seguridad Pública, quienes actuarán bajo la conducción y mando del Ministerio Público, en términos de la Constitución Política de los Estados Unidos Mexicanos y las Leyes generales aplicables;
 
-> <small>(REFORMADO, P.O. 24 DE MARZO DE 1997)</small>
+II. El ejercicio de la acción penal ante los órganos jurisdiccionales;
+
+III. Ordenar detenciones en casos urgentes o de flagrancia, en las condiciones que señalan la Constitución Política de los Estados Unidos Mexicanos y las Leyes generales aplicables;
+
+IV. Velar por la legalidad como uno de los principios rectores de la convivencia social y promover la pronta, completa e imparcial procuración de justicia;
+
+V. Proteger los intereses de los menores, incapaces, ausentes e ignorados, así como los individuales y sociales, en los términos que determinen las Leyes; y
+
+VI. Las demás que establezcan las Leyes reglamentarias.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 76.
 
-El Procurador General de Justicia del Estado intervendrá personalmente en las controversias que se susciten entre dos o más Municipios del Estado, o entre éste y dichos Municipios. En los negocios en que el Estado fuese parte, así como en los que deba (sic) intervenir el Ministerio Público, el Procurador General lo hará por sí o por medio de sus agentes. Tanto él como sus agentes serán responsables de toda falta, omisión o violación a la ley, en que incurran con motivo de sus funciones.
+El Fiscal General del Estado intervendrá personalmente en las controversias que se susciten entre dos o más Municipios del Estado, o entre éste y dichos Municipios. En los negocios en los que deba intervenir el Ministerio Público, el Fiscal General lo hará por sí o por medio de sus Vicefiscales Generales, Directores, Coordinadores, fiscales o agentes del Ministerio Público. Tanto él como los antecitados servidores públicos serán responsables de toda falta, omisión o violación a la Ley en que incurran con motivo de sus funciones.
 
-La función de consejero jurídico del Gobernador estará a cargo de la dependencia del Ejecutivo del Estado que la correspondiente ley orgánica establezca.
+La función de Consejero Jurídico del Gobernador estará a cargo de la Dependencia del Ejecutivo del Estado que la correspondiente ley orgánica establezca.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPITULO XV BIS. Del Seguro Social de Acceso a la Justicia
 
@@ -1465,11 +1481,15 @@ III.- Gozar de buena reputación.
 
 Durarán en sus cargos seis años, a cuyo vencimiento, de ser confirmados sus nombramientos, serán inamovibles y sólo podrán ser removidos de sus cargos cuando falten al cumplimiento de sus deberes oficiales o violen notoriamente las buenas costumbres, de acuerdo con lo que dispone el artículo 86, o previo el juicio de responsabilidad correspondiente.
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 85.
 
-Los jueces menores deberán ser ciudadanos mexicanos en el ejercicio de sus derechos civiles y políticos; gozar de buena reputación y poseer título profesional de abogado expedido por autoridad o corporación legalmente facultada para ello y durarán en su cargo el tiempo que determine la ley. Los jueces menores y sus secretarios quedan comprendidos en la prohibición contenida en el artículo 83.
+El Poder Judicial del Estado contará con Jueces de Control, Tribunales de Enjuiciamiento y Jueces de Ejecución de Sanciones en materia penal, así como con Jueces de Justicia para Adolescentes, quienes tendrán las facultades y obligaciones que les otorguen la Constitución Política de los Estados Unidos Mexicanos, esta Constitución, las Leyes penales y la propia Ley Orgánica del Poder Judicial.
+
+Para ocupar el cargo de Jueces Penales o de Justicia para Adolescentes es necesario, además de los requisitos señalados en esta Constitución, no haberse desempeñado como Fiscal General del Estado o Vicefiscal General, Fiscal, Agente del Ministerio Público o Agente de la Policía Ministerial Investigadora, por lo menos 2 años anteriores a la fecha de protesta del cargo.
+
+Los Jueces de Cuantía Menor deberán cumplir los mismos requisitos señalados para los Jueces de primera instancia. Los Jueces de Cuantía Menor y sus secretarios quedan comprendidos en la prohibición contenida en el artículo 83 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -1537,7 +1557,7 @@ VI.- Nombrar a los jueces de primera instancia y menores y a los empleados de lo
 
 VII.- Conceder licencia a los jueces de primera instancia y menores y a los empleados de los juzgados de primera instancia y menores; y resolver acerca de sus renuncias;
 
-VIII.- Nombrar y remover a los empleados del Tribunal Superior de Justicia, aceptarles sus renuncias; y (sic)
+VIII.- Nombrar y remover a los empleados del Tribunal Superior de Justicia, aceptarles sus renuncias; y
 
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1985)</small>
 
@@ -1629,11 +1649,11 @@ La propaganda que, bajo cualquier modalidad de la comunicación social, difundan
 
 El Gobernador del Estado durante el tiempo de su encargo, sólo podrá ser acusado por los delitos de traición a la patria, violaciones a la Constitución Federal y del Estado y a las leyes que de ambas emanen, ataque a la libertad electoral, delitos graves del orden común, y manejo indebido de fondos y recursos federales, o estatales.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 91.
 
-Para proceder penalmente contra los Diputados, Magistrados del H. Tribunal Superior de Justicia, Jueces de Primera Instancia, y Menores, Secretarios de las Dependencias de la Administración Pública del Estado, Procurador General de Justicia, Auditor Superior del Estado, Magistrados de la Autoridad Electoral Jurisdiccional del Estado, Presidente de la Comisión de Derechos Humanos del Estado, Comisionado Presidente y demás Comisionados integrantes de la Comisión de Transparencia y Acceso a la Información Pública del Estado, Presidentes, Regidores y Síndicos de HH. Ayuntamientos y Juntas Municipales, y Comisarios Municipales, por la comisión de delitos durante el tiempo de su encargo, se requerirá que el H. Congreso del Estado, por mayoría absoluta de sus miembros presentes en sesión, declare si ha o no lugar a proceder contra el inculpado. En caso negativo quedarán reservadas las acciones para cuando el servidor público cese en sus funciones, para lo cual quedará interrumpido el término prescriptorio. En caso afirmativo quedará el inculpado separado de su cargo y sujeto a la acción de los tribunales comunes.
+Para proceder penalmente contra los Diputados, Magistrados del H. Tribunal Superior de Justicia, Jueces de Primera Instancia y de Cuantía Menor, Secretarios de las Dependencias de la Administración Pública del Estado, Fiscal General del Estado, Auditor Superior del Estado, Magistrados de la Autoridad Electoral del Estado, Presidente de la Comisión de Derechos Humanos del Estado, Comisionado Presidente y demás Comisionados integrantes de la Comisión de Transparencia y Acceso a la Información Pública del Estado, Presidentes, Regidores y Síndicos de HH. Ayuntamientos y Juntas Municipales, y Comisarios Municipales, por la comisión de delitos durante el tiempo de su encargo, se requerirá que el H. Congreso del Estado, por mayoría absoluta de sus miembros presentes en sesión, declare si ha o no lugar a proceder contra el inculpado. En caso negativo quedarán reservadas las acciones para cuando el servidor público cese en sus funciones, para lo cual quedará interrumpido el término prescriptorio. En caso afirmativo quedará el inculpado separado de su cargo y sujeto a la acción de los tribunales comunes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 1996)</small>
 
@@ -1765,7 +1785,7 @@ Los poderes del Estado, los Municipios, y todos los entes públicos y organismos
 
 Para el cobro de las indemnizaciones y sanciones pecuniarias impuestas por la Auditoría Superior del Estado, el Poder Ejecutivo Estatal aplicará el procedimiento, administrativo de ejecución de conformidad con las leyes vigentes.
 
-(REUBICADO [N. DE E. ANTES CAPITULO XIX], P.O. 18 DE NOVIEMBRE DE 2009)
+(REUBICADO [N. DE E. ANTES CAPÍTULO XIX], P.O. 18 DE NOVIEMBRE DE 2009)
 
 ### CAPITULO XX. Prevenciones Generales
 
@@ -1973,7 +1993,7 @@ d) El procedimiento y condiciones para que el gobierno estatal asuma una funció
 
 e) Las disposiciones aplicables en aquellos Municipios que no cuenten con los bandos o reglamentos correspondientes.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO CON EL ARTICULO QUE LO INTEGRA], P.O. 18 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA], P.O. 18 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 109.
 
@@ -2089,11 +2109,15 @@ Las publicaciones de carácter confesional, ya sea por su programa, por su títu
 
 Los asuntos políticos locales, no podrán ser tratados por agrupaciones cuyos títulos, programas o fines indiquen relación con alguna confesión religiosa. Los templos y sus dependencias no podrán albergar reuniones de carácter político.
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 125.
 
-El Ejecutivo creará el sistema penitenciario estableciendo las cárceles de reclusión preventiva, las penitenciarías o colonias penales que fueran necesarias, organizando en unas y otras su sistema de trabajo adecuado, como medio de regeneración de los delincuentes. El Ejecutivo podrá celebrar convenios con la Federación, para que los reos sentenciados extingan su pena en establecimientos federales de reclusión, aun cuando éstos se hallen fuera del Estado.
+El Ejecutivo creará el Sistema Estatal Penitenciario, el cual se organizará sobre la base del respeto a los derechos humanos, del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, y observará los beneficios previstos en las Leyes aplicables en la materia.
+
+Los que obtengan sentencia condenatoria de prisión, en los casos y condiciones que establezca la Ley, podrán cumplir su sanción en los centros de reinserción social más cercanos a su domicilio, a fin de propiciar su reinserción a la comunidad. Esta disposición no será aplicable en los casos de internos que requieran medidas especiales de seguridad.
+
+El Estado y los municipios, en ejercicio de la función de seguridad pública en sus respectivos ámbitos de competencia, deberán establecer programas de prevención del delito, investigación y persecución del mismo para hacerla efectiva, así como la sanción de las infracciones administrativas; igualmente preservarán las libertades, la paz y el orden públicos en los términos de la legislación respectiva; para tal efecto, podrán celebrar los convenios de coordinación necesarios en los términos que establezca la Ley. La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 1975)</small>
 
@@ -2123,7 +2147,7 @@ El Estado vigilará y cooperará con el Gobierno Federal en la observancia de la
 
 Ninguna disposición de esta Ley fundamental producirá efecto, cuando contravenga algún precepto de la Constitución Política de los Estados Unidos Mexicanos.
 
-(REUBICADO [N. DE E. ANTES CAPITULO XX], P.O. 18 DE NOVIEMBRE DE 2009)
+(REUBICADO [N. DE E. ANTES CAPÍTULO XX], P.O. 18 DE NOVIEMBRE DE 2009)
 
 ###### ARTICULO 130.
 
@@ -2135,7 +2159,7 @@ La presente Constitución puede ser modificada mediante la reforma, adición o d
 
 El Congreso del Estado, o la Diputación Permanente en los recesos de aquél, hará el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada o no la modificación, procediendo a expedir el respectivo decreto en el primero de dichos casos.
 
-> <small>(ADICIONADO [N. DE E. REUBICADO, ANTES CAPITULO XXI], P.O. 18 DE NOVIEMBRE DE 2009)</small>
+> <small>(ADICIONADO [N. DE E. REUBICADO, ANTES CAPÍTULO XXI], P.O. 18 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 132.
 
@@ -2730,3 +2754,11 @@ Décimo.- Los Poderes Ejecutivo y Legislativo tomarán todas las medidas necesar
 El H. Congreso del Estado deberá prever en el Presupuesto de Egresos del Estado, las partidas presupuestales correspondientes para el adecuado ejercicio de las funciones de las autoridades electorales creadas en el presente decreto.
 
 Undécimo.- La reforma a los artículos 32 y 102 en materia de reelección de Diputados locales, así como de Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos y los integrantes de las Juntas Municipales, no será aplicable a los legisladores locales e integrantes de Ayuntamientos y de las Juntas Municipales que hayan protestado el cargo y se encuentren en funciones a la entrada en vigor del presente decreto
+
+P.O. 1 DE DICIEMBRE DE 2014.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El Congreso del Estado decretará oportunamente las adecuaciones necesarias al marco normativo de la entidad, en los términos y plazos que permitan su entrada en vigor de conformidad con la Declaratoria de Incorporación del Estado de Campeche al Sistema Procesal Acusatorio e inicio de vigencia gradual del Código Nacional de Procedimientos Penales.
+
+Tercero.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, que se opongan al contenido del presente decreto.
