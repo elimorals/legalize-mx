@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-secretaria-de-desarrollo-88357"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-06-18"
-last_updated: "2012-06-18"
+last_updated: "2014-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88357&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 18 de junio de 2012.
 
@@ -165,7 +165,7 @@ XXV.- Contribuir al desarrollo económico del Estado a través del aprovechamien
 
 XXVI.- Resolver las dudas que se susciten con motivo de la interpretación o aplicación de este Reglamento, así como los casos no previstos en el mismo; y
 
-XXVIl.- Las demás que señalen las Leyes y Reglamentos, o le señale el Gobernador.
+XXVII.- Las demás que señalen las Leyes y Reglamentos, o le señale el Gobernador.
 
 ###### ARTÍCULO 11.
 
@@ -195,7 +195,13 @@ V.- Coordinar con otros servidores públicos de la Secretaría y de los organism
 
 VI.- Proporcionar la información o la cooperación que le sea requerida por otras dependencias o entidades del Ejecutivo Estatal, previo acuerdo con el Secretario;
 
-VII.- Dar trámite administrativo a las medidas que procuren el cumplimiento de los preceptos constitucionales, legales y reglamentarios por parte del Poder Ejecutivo, en el ámbito de su competencia; y
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2014)</small>
+
+VII.- Dar trámite administrativo a las medidas que procuren el cumplimiento de los preceptos constitucionales, legales y reglamentarios por parte del Poder Ejecutivo, en el ámbito de su competencia;
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2014)</small>
+
+VII Bis.- Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que le sean señalados por delegación o le correspondan por suplencia; y
 
 VIII.- Las demás que les confieran las disposiciones normativas vigentes en la Entidad y el Secretario, en el ámbito de sus funciones.
 
@@ -409,11 +415,13 @@ VII.- Impulsar la celebración de convenios de coordinación y colaboración que
 
 VIII.- Promover proyectos que contribuyan al desarrollo sustentable a través del cumplimiento de la normatividad;
 
-IX.- Crear el programa estatal de industria limpia, a fin de promover y cumplir con la normatividad ecológica vigente;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2014)</small>
+
+IX.- Fomentar la participación de las empresas del Estado en programas que promuevan el cumplimiento de la normatividad ecológica vigente;
 
 X.- Promover la atracción de fondos que contribuyan al cumplimiento de la normatividad ecológica;
 
-XI.- Diseñar y ejecutar el Programa Premios Hidalgo, a fin de reconocer e incentivar las capacidades e iniciativas empresariales;
+XI.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2014);
 
 XII.- Establecer el programa de vinculación y coordinación con organismos empresariales;
 
@@ -439,9 +447,21 @@ VI.- Diseñar e implementar sistemas de información económica de la Secretarí
 
 VII.- Concentrar y actualizar las bases de datos de la estadística macroeconómica del Estado, a efecto de facilitar a las unidades administrativas de la Secretaría la correcta toma de decisiones;
 
-VIII.- Sistematizar los registros administrativos de la Secretaría, determinando la metodología para la presentación de resultados; y
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2014)</small>
 
-IX.- Las demás que le confieran las disposiciones normativas vigentes y el Secretario.
+VIII.- Sistematizar los registros administrativos de la Secretaría, determinando la metodología para la presentación de resultados;
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2014)</small>
+
+IX.- Vigilar y asegurar el cumplimiento de las obligaciones en materia de archivos y transparencia en el Sector Desarrollo Económico:
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2014)</small>
+
+X.- Suscribir los contratos de adquisiciones, arrendamientos y servicios de la Secretaría, vigilando que cumplan con las disposiciones legales aplicables; y
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2014)</small>
+
+XI.- Las demás que le confieran las disposiciones normativas vigentes y el Secretario.
 
 ###### ARTÍCULO 23.
 
@@ -502,3 +522,9 @@ Dado en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Pachuca de
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. JOSÉ FRANCISCO OLVERA RUIZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE DICIEMBRE DE 2014.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
