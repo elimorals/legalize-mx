@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2014-06-16"
+last_updated: "2014-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CÓDIGO PENAL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE DICIEMBRE DE 2014.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -173,7 +173,7 @@ III.- Que no hayan estado presentes en la ejecución del nuevo delito, o que hab
 
 IV.- Que no hayan sabido antes que se iba a cometer el nuevo delito.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 20 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 20 DE OCTUBRE DE 2005)</small>
 
 ### CAPITULO IV. CAUSAS DE EXCLUSIÓN DEL DELITO
 
@@ -1205,7 +1205,7 @@ El plazo para la prescripción se aumentará en una mitad más, si el imputado, 
 
 La acción penal prescribirá en un plazo igual al término medio aritmético de la pena privativa de libertad que corresponda al delito cometido, incluyendo sus modalidades. Tratándose de los delitos de oficio, dicho plazo nunca será menor de tres años ni mayor de quince y en los delitos de querella nunca será menor de dos años ni mayor de diez.
 
-(NOTA: EL 3 DE AGOSTO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 1/2014, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, RESPECTO A “SECUESTRO” SURTIÓ EFECTOS RETROACTIVOS AL 28 DE FEBRERO DE 2011 Y A “TRATA DE PERSONAS” SURTIÓ EFECTOS RETROACTIVOS AL 15 DE JUNIO DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(NOTA: EL 3 DE AGOSTO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 1/2014, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, RESPECTO A "SECUESTRO" SURTIÓ EFECTOS RETROACTIVOS AL 28 DE FEBRERO DE 2011 Y A "TRATA DE PERSONAS" SURTIÓ EFECTOS RETROACTIVOS AL 15 DE JUNIO DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADO, B.O. 28 DE NOVIEMBRE DE 2013)</small>
 
@@ -1319,7 +1319,7 @@ II.- En el caso de las demás penas y medidas de seguridad, desde el día en que
 
 La prescripción de las sanciones privativas de libertad, sólo se interrumpe con la aprehensión del sentenciado, aunque ésta se ejecute por diversos delitos, o por la formal solicitud de entrega que el Ministerio Público haga a otra entidad federativa en la que aquél se encuentre detenido, en cuyo caso subsistirá la interrupción hasta en tanto la autoridad requerida niegue dicha entrega o desaparezca la situación legal del detenido que motive aplazar el cumplimiento de lo solicitado.
 
-La prescripción de la sanción pecuniaria, se interrumpirá por cualquier gestión realizada ante autoridad competente, que tenga por objeto hacerla efectiva. Por lo que respecta a la prescripción de la pena de la reparación de daños y perjuicios o de otras de carácter pecuniario, también se interrumpirán éstas, por las promociones que el ofendido o persona a cuyo favor se haya decretado dicha reparación haga (sic) ante la autoridad fiscal correspondiente y por las actuaciones que esa autoridad realice para ejecutarlas, así como por el inicio de juicio ejecutivo ante autoridad civil usando como título la sentencia condenatoria respectiva.
+La prescripción de la sanción pecuniaria, se interrumpirá por cualquier gestión realizada ante autoridad competente, que tenga por objeto hacerla efectiva. Por lo que respecta a la prescripción de la pena de la reparación de daños y perjuicios o de otras de carácter pecuniario, también se interrumpirán éstas, por las promociones que el ofendido o persona a cuyo favor se haya decretado dicha reparación (sic) haga ante la autoridad fiscal correspondiente y por las actuaciones que esa autoridad realice para ejecutarlas, así como por el inicio de juicio ejecutivo ante autoridad civil usando como título la sentencia condenatoria respectiva.
 
 ### CAPITULO UNICO. IMPUTABILIDAD EN RAZON DE LA EDAD
 
@@ -1879,7 +1879,7 @@ Cuando los actos de corrupción se realicen reiteradamente sobre el mismo menor 
 
 > <small>(REFORMADO, B.O. 11 DE OCTUBRE DE 2012)</small>
 
-Todo sujeto pasivo de este delito quedará sujeto a los tratamientos médicos y psicológicos adecuados para su recuperación, de acuerdo con las medidas cautelares que al efecto sean establecidas por el Ministerio Público en cualquier momento de la investigación y que, en su caso, deberán ratificadas (sic) o modificadas por el juez que conozca de la causa penal. En ambos casos, si se hace necesario, dichas medidas cautelares se harán cumplir coercitivamente.
+Todo sujeto pasivo de este delito quedará sujeto a los tratamientos médicos y psicológicos adecuados para su recuperación, de acuerdo con las medidas cautelares que al efecto sean establecidas por el Ministerio Público en cualquier momento de la investigación y que, en su caso, deberán (sic) ratificadas o modificadas por el juez que conozca de la causa penal. En ambos casos, si se hace necesario, dichas medidas cautelares se harán cumplir coercitivamente.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -1973,7 +1973,7 @@ Al que dé en arrendamiento una finca, teniendo conocimiento de que será destin
 
 (DEROGADO, B.O. 7 DE ABRIL DE 2008)
 
-### CAPITULO II. ABUSO DE AUTORIDAD, INCUMPLIMIENTO DE DEBER LEGAL Y TORTURA
+### CAPITULO II. ABUSO DE AUTORIDAD E INCUMPLIMIENTO DE DEBER LEGAL
 
 ###### ARTICULO 175.
 
@@ -2010,6 +2010,8 @@ Se impondrán las mismas sanciones previstas en este Título o en el subsecuente
 ###### ARTICULO 179.
 
 Cuando los delitos de abuso de autoridad o incumplimiento de un deber legal, coalición, intimidación y cohecho, previstos en este Título, sean cometidos por servidores públicos miembros de alguna corporación policial, las penas previstas se aumentarán en una mitad y, además, se impondrán, destitución, en su caso, e inhabilitación de uno a diez años, para desempeñar otro empleo, cargo o comisión públicos.
+
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 1 DE DICIEMBRE DE 2014)</small>
 
 ### CAPITULO V. COHECHO
 
@@ -2063,15 +2065,7 @@ XVI.- Omitir el registro de la detención correspondiente o dilatar injustificad
 
 ###### ARTICULO 181.
 
-Comete el delito de tortura el servidor público que, directamente o valiéndose de terceros y en ejercicio de sus funciones, inflija a una persona dolores o sufrimientos graves, sean físicos o psíquicos, con el fin de obtener de ella o de un tercero su confesión, una información, un comportamiento determinado o con el propósito de castigarla por un hecho cierto o supuesto.
-
-> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
-
-Al responsable del delito de tortura se le impondrán de tres a diez años de prisión, de veinte a trescientos días multa y destitución, en su caso, e inhabilitación para desempeñar otro empleo, cargo o comisión públicos, por el término de dos a diez años, independientemente de la pena que corresponda si resultare otro delito. En caso de reincidencia la inhabilitación será definitiva.
-
-La misma sanción del párrafo anterior, se impondrá a cualquier persona que participe por sí o por orden o autorización de algún servidor público, en la comisión del delito de tortura.
-
-Tratándose del delito de tortura, en ningún caso podrá invocarse la excluyente de responsabilidad prevista en la fracción VIII del artículo 13 de este Código.
+(DEROGADO, B.O. 1 DE DICIEMBRE DE 2014)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 2 DE DICIEMBRE DE 2013)</small>
 
@@ -3057,7 +3051,7 @@ En las excepciones señaladas en el párrafo anterior, la acción penal se extin
 
 > <small>(ADICIONADO, B.O. 23 DE JUNIO DE 2011)</small>
 
-Para que surta efectos legales el desinterés jurídico citado en el párrafo anterior o el perdón del ofendido en el resto de los supuestos del delito de violencia intrafamiliar, el agresor deberá abstenerse de cometer la conducta delictiva descrita en este artículo por lo menos durante un año, a partir de la manifestación expresa de los mismos, cumplir con sus obligaciones alimenticias, cuando las tuviere, someterse a terapia psicológica y/o psiquiátrica y, en su caso, pagar el tratamiento que requiera la víctima. Para tal efecto se suspenderá el procedimiento en tanto (sic) hasta en tanto se cumpla con dichos requisitos.
+Para que surta efectos legales el desinterés jurídico citado en el párrafo anterior o el perdón del ofendido en el resto de los supuestos del delito de violencia intrafamiliar, el agresor deberá abstenerse de cometer la conducta delictiva descrita en este artículo por lo menos durante un año, a partir de la manifestación expresa de los mismos, cumplir con sus obligaciones alimenticias, cuando las tuviere, someterse a terapia psicológica y/o psiquiátrica y, en su caso, pagar el tratamiento que requiera la víctima. Para tal efecto se suspenderá el procedimiento en tanto hasta en tanto (sic) se cumpla con dichos requisitos.
 
 > <small>(ADICIONADO, B.O., 17 DE MAYO DEL 2001)</small>
 
@@ -4832,3 +4826,9 @@ DECRETO NÚMERO 114 POR EL QUE SE ADICIONAN UN CAPÍTULO III DENOMINADO "USURPAC
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 1 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
