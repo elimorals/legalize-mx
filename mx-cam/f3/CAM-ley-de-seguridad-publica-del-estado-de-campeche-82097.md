@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-seguridad-publica-del-estado-de-campeche-82097"
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-23"
-last_updated: "2011-06-23"
+last_updated: "2014-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82097&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. DE 1 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el jueves 23 de junio de 2011.
 
@@ -2432,3 +2434,17 @@ C. Fernando Chan Chi, Diputado Presidente.- C. Rocío Adriana Abreu Artiñano, D
 En cumplimiento de lo dispuesto por los Artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, a los catorce días del mes de junio de dos mil once.- El Gobernador Constitucional del Estado, Lic. Fernando Eutimio Ortega Bernes.- El Secretario de Gobierno. Lic. William Roberto Sarmiento Urbina.- Rúbricas.
+
+N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+P.O. 1 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor el día 3 tres de diciembre de 2014 previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Seguridad Pública del Estado de Campeche expedida mediante Decreto 132 publicada en el Periódico Oficial del Estado el 23 de junio de 2011.
+
+TERCERO. El Ejecutivo del Estado expedirá las disposiciones reglamentarias de la presente Ley o modificará las ya existentes, en un plazo no mayor a treinta días naturales a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. El H. Congreso del Estado deberá prever en el Presupuesto de Egresos del Estado las partidas presupuestales correspondientes para la adecuada integración y conformación del Consejo Estatal de Seguridad Pública y los demás órganos que establece esta Ley, para el cabal cumplimiento de sus atribuciones.
+
+QUINTO. Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente Decreto.
