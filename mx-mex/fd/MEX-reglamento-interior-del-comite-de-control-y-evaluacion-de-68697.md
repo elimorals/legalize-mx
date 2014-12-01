@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-comite-de-control-y-evaluacion-de-68697
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-25"
-last_updated: "2009-05-25"
+last_updated: "2014-12-01"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL COMITE DE CONTROL Y EVALUACION DE LA SECRETARIA DEL AGUA Y OBRA PUBLICA
 
-REGLAMENTO INTERIOR DEL COMITE DE CONTROL Y EVALUACION DE LA SECRETARIA DEL AGUA Y OBRA PUBLICA
+REGLAMENTO INTERIOR DEL COMITÉ DE CONTROL Y EVALUACIÓN DE LA SECRETARÍA DEL AGUA Y OBRA PÚBLICA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERNO DEL COMITÉ DE CONTROL Y EVALUACIÓN DE LA SECRETARÍA DEL AGUA Y OBRA PÚBLICA (COCOE) DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 1 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2014 (SIN EFECTOS).
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el lunes 25 de mayo de 2009.
 
@@ -328,3 +330,15 @@ LIC. GUSTAVO VAZQUEZ LOPEZ
 Coordinador de Estudios y Proyectos Especiales y Vocal del Comité
 
 (Rúbrica).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 1 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Reglamento Interior en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se deja sin efectos el reglamento Interior del COCOE aprobado el 25 de mayo de 2009.
+
+CUARTO.- La interpretación o aplicación del presente Reglamento, así como lo no previsto en el mismo, será resuelto por la Secretaría de la Contraloría.
