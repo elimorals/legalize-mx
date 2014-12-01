@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-tribunal-de-lo-contencioso-82672"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-31"
-last_updated: "2011-08-31"
+last_updated: "2014-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82672&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2011-06-29"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 1 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EL PRIMERO DE ENERO DE DOS MIL QUINCE.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE DICIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el miércoles 31 de agosto de 2011.
 
@@ -928,7 +930,7 @@ IV. Remitir los recursos de apelación a la ponencia que corresponda según el n
 
 V. Solicitar en caso de escritos iniciales de demanda, una copia de la misma sin anexos, para la Secretaría General de Compilación y Difusión del Tribunal;
 
-VI. Registrar las promociones, según el número de juicio que indiquen las partes, en el sistema integral jurídico del Tribunal. subsistema de Oficialía de Partes, para distribuirlas al día siguiente a la Sala o ponencia a la que estén dirigidas;
+VI. Registrar las promociones, según el número de juicio que indiquen las partes, en el sistema integral jurídico del Tribunal, subsistema de Oficialía de Partes, para distribuirlas al día siguiente a la Sala o ponencia a la que estén dirigidas;
 
 VII. Remitir el mismo día las promociones para que se pueda llevar a cabo la celebración de la audiencia fijada para tal efecto, cuando lo señalen las partes por escrito en sus promociones o las soliciten los Secretarios de Acuerdos de las Salas;
 
@@ -1641,3 +1643,15 @@ SECRETARIO GENERAL DE ACUERDOS
 (Firma)
 
 LIC. RUBÉN ALCALÁ FERREIRA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 1 DE DICIEMBRE DE 2014.
+
+PRIMERO.- El presente Reglamento entrará en vigor a partir del primero de enero de dos mil quince y los asuntos que se encuentren en trámite se resolverán conforme al vigente Reglamento.
+
+SEGUNDO.- Se abroga el Reglamento Interior del Tribunal de lo Contencioso Administrativo del Distrito Federal publicado en la Gaceta Oficial del Distrito Federal del treinta y uno de agosto de dos mil once.
+
+TERCERO.- Hasta en tanto no se actualicen los manuales y procedimientos administrativos, continuarán vigentes los existentes, siempre y cuando no se contrapongan al contenido y alcance del presente Reglamento.
+
+CUARTO.- Publíquese en la Gaceta Oficial del Distrito Federal.
