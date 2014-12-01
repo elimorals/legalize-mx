@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-la-procuraduria-general-de-justicia-del-81816"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-20"
-last_updated: "2011-06-20"
+last_updated: "2014-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEXTO TRANSITORIO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. DE 1 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el lunes 20 de Junio de 2011.
 
@@ -243,7 +245,7 @@ Las atribuciones de la institución en materia de ejecución de sanciones compre
 
 I. Intervenir en los procesos de ejecución de la sanción velando por el respeto de los derechos fundamentales y de las disposiciones de la sentencia (sic);
 
-II. Acudir a las audiencias ante el Juez de Ejecución que tengan como finalidad resolver las peticiones de las partes relativos a la revocación de cualquier beneficio concedido a los sentenciados por cualquier autoridad jurisdiccional, y en aquellos casos en que deba resolverse sobre libertad anticipada, libertad preparatoria, remisión parcial de la sanción o libertad definitiva, así como las que por su naturaleza o importancia requieran debate o producción de prueba en los términos de la legislación aplicable (sic);
+II. Acudir a las audiencias ante el Juez de Ejecución que tengan como finalidad resolver las peticiones de las partes relativos a la revocación de cualquier beneficio concedido a los sentenciados por cualquier autoridad jurisdiccional, y en aquellos casos en que deba resolverse sobre libertad anticipada, libertad preparatoria, remisión parcial de la sanción o libertad definitiva, así como las que por su naturaleza o importancia requieran debate o producción de prueba en los términos de la legislación aplicable;
 
 III. Vigilar a los sentenciados que se encuentren gozando del beneficio de condena condicional en los términos de la Ley correspondiente; y
 
@@ -297,7 +299,7 @@ XVIII. Proponer al titular del ejecutivo la designación de los subprocuradores 
 
 XIX. Dirigir y supervisar la actuación de la Agencia Estatal de Investigaciones, de la Dirección de Servicios Periciales, del Instituto de Formación Profesional y demás unidades administrativas que integren la institución;
 
-XX. Ejercer atracción sobre los asuntos competencia de la institución, para conocer personalmente o designar (sic) la Fiscalía Especializada o Unidad de Investigación que deberá conocer de los mismos. También podrá cambiar de adscripción a todo el personal de la dependencia, con excepción de los Subprocuradores, cuyo cambio se hará previo acuerdo que se publicará en el Periódico Oficial del Estado;
+XX. Ejercer atracción sobre los asuntos competencia de la institución, para conocer personalmente o designar la Fiscalía Especializada o Unidad de Investigación que deberá conocer de los mismos. También podrá cambiar de adscripción a todo el personal de la dependencia, con excepción de los Subprocuradores, cuyo cambio se hará previo acuerdo que se publicará en el Periódico Oficial del Estado;
 
 XXI. Crear coordinaciones, fiscalías, agencias del Ministerio Público, direcciones, unidades y departamentos, de acuerdo con las necesidades del servicio;
 
@@ -561,7 +563,7 @@ III. Establecer y actualizar los lineamientos generales para la emisión de los 
 
 IV. Proponer las necesidades de infraestructura física, equipo tecnológico y materiales requeridos para el óptimo desarrollo de los servicios que presta la Dirección de Servicios Periciales;
 
-V. Promover la formación, capacitación y actualización científica y técnica del personal de la Dirección; y (sic)
+V. Promover la formación, capacitación y actualización científica y técnica del personal de la Dirección; y
 
 VI. Coordinar y supervisar el funcionamiento de los servicios periciales de la Dirección;
 
@@ -1004,3 +1006,25 @@ C. Fernando Chan Chi, Diputado Presidente.- C. Rocío Adriana Abreu Artiñano, D
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, a los dieciséis días del mes de junio de dos mil once.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO EUTIMIO ORTEGA BERNES.- EL SECRETARIO DE GOBIERNO, LIC. WILLIAM ROBERTO SARMIENTO URBINA.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE DICIEMBRE DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor el 3 de diciembre de 2014, salvo en lo que atañe a las disposiciones que se refiere a la estructura orgánica y organización administrativa, las que cobrarán vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los asuntos y procedimientos penales que se encuentren en trámite ante la Procuraduría General de Justicia del Estado de Campeche, continuarán su trámite ante la Fiscalía General del Estado de Campeche, de conformidad con las disposiciones, etapas y plazos establecidos en la Declaratoria de Incorporación del Estado de Campeche al Sistema Procesal Acusatorio e Inicio de vigencia del Código Nacional de Procedimientos Penales.
+
+TERCERO.- Todos los recursos humanos, materiales y presupuestales, así como el acervo documental de la Procuraduría General de Justicia del Estado de Campeche, pasarán a formar parte de la Fiscalía General del Estado de Campeche.
+
+CUARTO.- El actual titular de la Procuraduría General de Justicia del Estado de Campeche continuará desempeñando su respectivo cargo hasta que se extinga el periodo para el que fue nombrado y ratificado por el Congreso del Estado, con la denominación de Fiscal General del Estado.
+
+QUINTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+SEXTO.- Se abroga la Ley Orgánica de la Procuraduría General de Justicia del Estado de Campeche, expedida por Decreto número 134, publicada en el Periódico Oficial del Estado número 4778, de fecha 20 de junio de 2011.
+
+SÉPTIMO.- La Ley en materia de Servicios Periciales será decretada en un plazo no mayor a 90 días hábiles posteriores a la fecha de entrada en vigor del presente decreto, mientras tanto, el Instituto de Servicios Periciales se seguirá denominando Dirección de Servicios Periciales, y su organización y funcionamiento se regirá conforme a las disposiciones previstas en esta Ley para el Instituto Pericial.
+
+OCTAVO.- El Poder Ejecutivo, en un plazo no mayor a 60 días siguientes a la fecha de entrada en vigor del presente decreto, deberá emitir el Reglamento Interior de la Fiscalía General.
+
+NOVENO.- Para los efectos de esta Ley, todas las remisiones hechas a la Ley Orgánica de la Procuraduría General de Justicia del Estado de Campeche se entenderán hechas a la Ley Orgánica de la Fiscalía General del Estado de Campeche. Asimismo, las remisiones hechas al Procurador General y a los Subprocuradores se entenderán realizadas al Fiscal General y a los Vice fiscales Generales, respectivamente, de conformidad con la estructura prevista en esta Ley.
