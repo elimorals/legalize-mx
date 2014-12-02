@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-asistencia-social-del-estado-de-jalisco-15763"
 country: "mx"
 rank: "codigo"
 publication_date: "1998-01-15"
-last_updated: "2014-08-09"
+last_updated: "2014-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2014.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 15 de enero de 1998.
 
@@ -147,11 +147,11 @@ XV. Las acciones de apoyo a los migrantes en estado de vulnerabilidad, que trans
 
 XVI. Los demás servicios que tiendan a atender y complementar el desarrollo de aquellas personas que por sí mismas no pueden satisfacer sus necesidades personales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 5.
 
-son sujetos de asistencia social, de manera prioritaria, los siguientes:
+Son sujetos de asistencia social, de manera prioritaria, los siguientes:
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2006)</small>
 
@@ -181,13 +181,17 @@ X. Las personas afectadas por un desastre y que queden en estado de necesidad o 
 
 XI. Personas que por alguna enfermedad se encuentren en estado de abandono o indigencia;
 
-> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2014)</small>
 
-XII. Migrantes en estado de vulnerabilidad que transitan por el territorio de la entidad; y
+XII. Migrantes en estado de vulnerabilidad que transitan por el territorio de la entidad;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2014)</small>
 
-XIII. Los jefes de familias monoparentales con hijos menores de edad, carentes de recursos económicos o que se encuentren en estado de desamparo, marginación o maltrato.
+XIII. Los jefes de familia monoparentales con hijos menores de edad, carentes de recursos económicos o que se encuentren en estado de desamparo, marginación o maltrato; y
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2014)</small>
+
+XIV. Las personas que sufran o padezcan algún trastorno o enfermedad mental, siempre y cuando sus ingresos o de la familia o institución a la cual dependan, sean insuficientes para su subsistencia y satisfacer sus necesidades médicas.
 
 ###### Artículo 6.
 
@@ -3368,5 +3372,9 @@ P.O. 28 DE MARZO DE 2014.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 9 DE AGOSTO DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 2 DE DICIEMBRE DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
