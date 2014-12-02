@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-administracion-de-bienes-asegurados-o-89624"
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-27"
-last_updated: "2014-09-27"
+last_updated: "2014-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS O ABANDONADOS PARA EL ESTADO DE
 
 > <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y CUARTO TRANSITORIOS DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, DECOMISADOS O ABANDONADOS PARA EL ESTADO DE JALISCO, PUBLICADA EN EL P.O. DE 27 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2014 (ABROGADA).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en la Sección VI del Periódico Oficial del Estado de Jalisco, el jueves 27 de septiembre de 2012.
 
@@ -63,11 +63,21 @@ I. Bienes asegurados: aquellos que con motivo de un procedimiento administrativo
 
 II. Bienes abandonados: aquellos cuyo propietario o interesado previo aseguramiento por autoridad administrativa o judicial no los reclamó dentro de los plazos a que se refiere la presente ley;
 
-III. Ley: la Ley para la Administración de Bienes Asegurados o Abandonados para el Estado de Jalisco y sus Municipios;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2014)</small>
 
-IV. Procuraduría: la Procuraduría General de Justicia del Estado de Jalisco;
+III. Fiscalía: la Fiscalía General del Estado;
 
-V. Servicio Estatal de Administración de Bienes: el órgano desconcentrado de la Secretaría de Finanzas del Poder Ejecutivo del Estado, denominado Servicio Estatal de Administración de Bienes.
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2014)</small>
+
+IV. Ley: la Ley para la Administración de Bienes Asegurados o Abandonados para el Estado de Jalisco y sus Municipios;
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2014)</small>
+
+V. Secretaría: la Secretaría de Planeación, Administración y Finanzas del Estado; y
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2014)</small>
+
+VI. Servicio Estatal de Administración de Bienes: el órgano desconcentrado de la Secretaría de Planeación, Administración y Finanzas del Estado, denominado Servicio Estatal de Administración de Bienes.
 
 ###### Artículo 4.
 
@@ -201,9 +211,11 @@ Los bienes asegurados durante la averiguación previa se pondrán jurídicamente
 
 Los productos que por guarda y custodia de bienes en depósito obtengan las dependencias públicas por bienes remitidos por la autoridad competente, serán destinados a la asistencia social estatal o municipal, según sea el caso, cumpliendo las disposiciones de la Ley de Presupuesto Contabilidad y Gasto Público del Estado de Jalisco.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 21.
 
-La moneda nacional o extranjera que se asegure, deberá depositarse en la Secretaría de Finanzas a disposición del Servicio Estatal de Administración de Bienes, para que responda de ella ante la autoridad que haya ordenado el aseguramiento.
+La moneda nacional o extranjera que se asegure, deberá depositarse en la Secretaría a disposición del Servicio Estatal de Administración de Bienes, para que responda de ella ante la autoridad que haya ordenado el aseguramiento.
 
 Estos depósitos devengarán intereses a la tasa legal que precise el Código Civil del Estado de Jalisco.
 
@@ -213,9 +225,11 @@ En caso de billetes o piezas metálicas que por tener marcas, señas u otras car
 
 La autoridad que asegure depósitos, títulos de crédito y, en general, cualesquiera bienes o derechos relativos a operaciones que las instituciones financieras establecidas en el país celebren con sus clientes, dará aviso inmediato al Servicio Estatal de Administración de Bienes y a las autoridades competentes.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 23.
 
-Las especies de flora y fauna de reserva ecológica que se aseguren, serán provistas de los cuidados necesarios y depositados en zoológicos o en instituciones análogas, considerando la opinión de la Secretaría del Medio Ambiente para el Desarrollo Sustentable del Estado de Jalisco.
+Las especies de flora y fauna de reserva ecológica que se aseguren, serán provistas de los cuidados necesarios y depositados en zoológicos o en instituciones análogas, considerando la opinión de la Secretaria de Medio Ambiente y Desarrollo Territorial.
 
 ###### Artículo 24.
 
@@ -227,7 +241,9 @@ Los bienes que sean de mantenimiento incosteable, así como los perecederos, fun
 
 Los bienes perecederos podrán ser vendidos a precio de mercado.
 
-El producto que se obtenga de la enajenación de los bienes a que se refiere el párrafo anterior se enterará a la Secretaría de Finanzas del Estado para su custodia hasta en tanto se determine su devolución o se declare su abandono. Los recursos que se generen por la administración o enajenación de los bienes no devueltos deben ser destinados a los órganos de seguridad pública, a la administración de justicia y a la asistencia social, según lo determine el Órgano de Gobierno, cumpliendo las disposiciones de la Ley de Presupuesto Contabilidad y Gasto Público del Estado de Jalisco.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2014)</small>
+
+El producto que se obtenga de la enajenación de los bienes a que se refiere el párrafo anterior se enterará a la Secretaría para su custodia hasta en tanto se determine su devolución o se declare su abandono. Los recursos que se generen por la administración o enajenación de los bienes no devueltos deben ser destinados a los órganos de seguridad pública, a la administración de justicia y a la asistencia social, según lo determine el Órgano de Gobierno, cumpliendo las disposiciones de la Ley del Presupuesto, Contabilidad y Gasto Público del Estado de Jalisco.
 
 ###### Artículo 26.
 
@@ -379,17 +395,21 @@ Aquellos distintos al numerario serán enajenados en subastas por el Servicio Es
 
 A los aprovechamientos que se obtengan, antes de ser devueltos, les serán descontados el pago de la multa en los casos que proceda, los costos de administración, así como gastos de mantenimiento y conservación de los bienes que hayan generado por su aseguramiento.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 51.
 
-Los aprovechamientos que se obtengan derivados del abandono de bienes se enterarán a la Secretaría de Finanzas del Estado o, en su caso, al Órgano de Hacienda Municipal, y se destinarán, a apoyar los presupuestos de egresos de seguridad pública, impartición de justicia y la asistencia social en los montos y porcentajes que determine el Órgano de Gobierno del Servicio Estatal de Administración de Bienes o en su caso la autoridad municipal de acuerdo con lo dispuesto en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Jalisco.
+Los aprovechamientos que se obtengan derivados del abandono de bienes se enterarán a la Secretaría o, en su caso, al Órgano de Hacienda Municipal, y se destinarán a apoyar los presupuestos de egresos de seguridad pública, impartición de justicia y la asistencia social en los montos y porcentajes que determine el Órgano de Gobierno del Servicio Estatal de Administración de Bienes o, en su caso, la autoridad municipal, de acuerdo con lo dispuesto en la Ley del Presupuesto, Contabilidad y Gasto Público del Estado de Jalisco.
 
 ## TÍTULO CUARTO. DEL ÓRGANO DE ADMINISTRACIÓN
 
 ### CAPÍTULO ÚNICO. DEL SERVICIO ESTATAL DE ADMINISTRACIÓN DE BIENES
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 52.
 
-El Servicio Estatal de Administración de Bienes es un órgano desconcentrado de la Secretaría de Finanzas del Gobierno del Estado de Jalisco, el cual tendrá por objeto la administración de los bienes asegurados en los términos previstos en esta ley.
+El Servicio Estatal de Administración de Bienes es un órgano desconcentrado de la Secretaría, el cual tendrá por objeto la administración de los bienes asegurados en los términos previstos en esta ley.
 
 ###### Artículo 53.
 
@@ -399,15 +419,19 @@ El Servicio Estatal de Administración de Bienes contará con un Director Genera
 
 El Órgano de Gobierno del Servicio Estatal de Administración de Bienes estará integrado por:
 
-a) El titular de la Secretaría de Administración, quien lo presidirá;
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2014)</small>
+
+a) El titular de la Secretaría, quien lo presidirá;
 
 b) Un representante de la Secretaría General de Gobierno;
 
-c) Un representante de la Secretaría de Finanzas;
+c) (DEROGADO, P.O. 2 DE DICIEMBRE DE 2014)
 
-d) Un representante de la Procuraduría;
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2014)</small>
 
-e) Un representante de la Secretaría de Seguridad Pública;
+d) Un representante de la Fiscalía;
+
+e) (DEROGADO, P.O. 2 DE DICIEMBRE DE 2014)
 
 f) Un representante del Instituto Jalisciense de Asistencia Social, y
 
@@ -467,9 +491,11 @@ V. Nombrar y remover depositarios, interventores o administradores de los bienes
 
 VI. Las demás que señalen esta ley o los reglamentos aplicables.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 59.
 
-El Servicio Estatal de Administración de Bienes rendirá un informe anual a la Procuraduría y al Consejo de la Judicatura Estatal del Poder Judicial del Estado sobre los bienes asegurados y su administración, de aquellos que sean abandonados y decomisados, así como de las enajenaciones y arrendamientos que haya realizado en los términos de esta ley.
+El Servicio Estatal de Administración de Bienes rendirá un informe anual a la Fiscalía y al Consejo de la Judicatura Estatal del Poder Judicial del Estado sobre los bienes asegurados y su administración, de aquellos que sean abandonados y decomisados, así como de las enajenaciones y arrendamientos que haya realizado en los términos de esta ley.
 
 ###### Artículo 60.
 
@@ -544,3 +570,7 @@ TERCERO. El Ejecutivo del Estado deberá expedir el reglamento de la presente Le
 CUARTO. Se abroga la Ley para la Administración de Bienes Asegurados o Abandonados para el Estado de Jalisco y sus Municipios, en los términos del artículo primero transitorio.
 
 QUINTO. Los procedimientos iniciados antes de la entrada en vigor del presente Decreto que se encuentren en trámite, continuarán su sustanciación, de conformidad con la legislación aplicable al momento de iniciados los mismos.
+
+P.O. 2 DE DICIEMBRE DE 2014.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
