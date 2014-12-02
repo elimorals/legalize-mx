@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-hacienda-del-estado-de-nayarit-90652"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-22"
-last_updated: "2013-12-21"
+last_updated: "2014-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE HACIENDA DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección Décima Primera del Periódico Oficial del Estado de Nayarit, el sábado 22 de diciembre de 2012.
 
@@ -327,27 +327,33 @@ Este impuesto se causará y pagará conforme a las cuotas y tasas que señala la
 
 #### SECCIÓN QUINTA. Del Pago
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 29.
 
-El impuesto se liquidará presentando la factura o documento en que se haya hecho constar la adquisición como sigue:
+El impuesto se liquidará presentando la factura o documento en que se haya hecho constar la adquisición, dentro de los 30 días siguientes a la operación de compraventa, donación, prescripción o por cualquier otra causa o título.
 
-I. En los casos de bienes adquiridos, por donación, dentro de los 15 días Siguientes a aquel en que el poseedor reclame sus derechos de propietario ante cualquier autoridad;
+Tratándose de adquisición de vehículos, el adquirente será responsable del pago del impuesto que hubiera dejado de cubrirse en anteriores operaciones de compraventa.
 
-II. En los casos de bienes adquiridos, por donación, dentro de los 15 días siguientes al de la fecha de la donación;
+Cuando el sujeto obligado al pago de este impuesto no liquide el mismo en los plazos aquí previstos, se harán acreedores al pago de una multa equivalente a tres días de salario mínimo general vigente en la Entidad, por cada mes de retraso en el pago.
 
-III. Dentro de los 15 días siguientes a la realización de todas las demás Adquisiciones, y
+Para este efecto se considerará como fecha de la adquisición la que aparezca en la factura o documento en que se haya hecho constar la misma a favor del sujeto obligado, en su defecto la que corresponda al mes inmediato anterior al de la realización del trámite de baja y alta respectivo.
 
-IV. Tratándose de adquisiciones de vehículos el adquiriente será responsable del pago del impuesto que hubiera dejado de cubrirse en anteriores operaciones de compraventa.
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2014)</small>
 
-Cuando el sujeto obligado al pago de este impuesto no liquide el mismo en los plazos aquí previstos, se harán acreedores al pago de una multa equivalente a tres días de salario mínimo general vigente en la Entidad, por cada mes de retraso en el pago. Para este efecto se considerará como fecha de la adquisición la que aparezca en la factura o documento en que se haya hecho constar la misma a favor del sujeto obligado, o en su defecto, la que corresponda al mes inmediato anterior al de la realización del trámite de baja y alta respectivo.
+#### SECCIÓN SEXTA. DE LAS EXENCIONES
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2014)</small>
 
 #### SECCIÓN PRIMERA. Del Padrón Vehicular del Estado de Nayarit
 
-#### SECCIÓN PRIMERA. Del Objeto
-
 ###### Artículo 30.
 
-No causan el impuesto las operaciones por las que deba pagarse el impuesto al valor agregado.
+Están exentas del pago de este impuesto:
+
+I.- Las operaciones de compraventa de vehículos usados por cuya enajenación deba pagarse el impuesto al valor agregado, y
+
+II.- La compra de vehículos efectuada por personas físicas o morales cuyo giro sea la compraventa de vehículos automotores, siempre que hayan sido adquiridos de personas físicas que no realicen actividades empresariales.
 
 ### CAPÍTULO II
 
@@ -377,7 +383,7 @@ h) Motocicleta acuática: vehículo acuático autopropulsado, con eslora de 2 o 
 
 Asimismo, para efectos de este impuesto, se considera que el uso o tenencia del vehículo se efectúa dentro de la circunscripción territorial del Estado de Nayarit, cuando el registro del mismo se realice en el registro vehicular del Estado de Nayarit o en su defecto, cuando el domicilio del propietario, tenedor o usuario del vehículo se localice en el propio Estado.
 
-#### SECCIÓN SEGUNDA. De los Sujetos
+#### SECCIÓN PRIMERA. Del Objeto
 
 ###### Artículo 32.
 
@@ -427,13 +433,13 @@ APARTADO A
 
 DEL IMPUESTO SOBRE TENENCIA O USO DE VEHÍCULOS DE 10 AÑOS O MÁS DE MODELO ANTERIOR
 
-#### SECCIÓN TERCERA. De la Base
+#### SECCIÓN SEGUNDA. De los Sujetos
 
 ###### Artículo 34.
 
 Este impuesto se causará sobre la tenencia o uso de los vehículos automotores: automóviles, autobuses, camiones y tractores, a excepción de tractores destinados a actividades agrícolas, remolques, semirremolques, motocicletas, embarcaciones y motos acuáticas de modelo anterior a los diez últimos ejercicios fiscales, que circulen habitualmente por la circunscripción territorial del Estado de Nayarit.
 
-#### SECCIÓN CUARTA. Del pago
+#### SECCIÓN TERCERA. De la Base
 
 ###### Artículo 35.
 
@@ -447,13 +453,13 @@ Para los efectos de este impuesto, la autoridad fiscal presumirá, salvo prueba 
 
 La Federación, el Estado, los Municipios, así como sus organismos y entidades, deberán pagar el Impuesto sobre Tenencia o Uso de Vehículos, con las excepciones que en la misma se señalan, aun cuando de conformidad con otras leyes o decretos no estén obligados a pagar contribuciones estatales o municipales o estén exentos de ellos.
 
-#### SECCIÓN PRIMERA. De los sujetos
+#### SECCIÓN CUARTA. Del pago
 
 ###### Artículo 36.
 
 El presente impuesto se causará por la tenencia o uso de automóviles, autobuses, camiones y tractores, a excepción de tractores destinados a actividades agrícolas; remolques, semirremolques, motocicletas, embarcaciones y motos acuáticas que sean de año modelo posterior a diez ejercicios fiscales a partir del año de su fabricación, accionados por motores de combustión interna, y/o energía eléctrica y/o híbridos.
 
-#### SECCIÓN SEGUNDA. Del Objeto
+#### SECCIÓN PRIMERA. De los sujetos
 
 ###### Artículo 37.
 
@@ -499,7 +505,7 @@ APARTADO B
 
 DEL IMPUESTO SOBRE TENENCIA O USO DE VEHÍCULOS NUEVOS Y DE HASTA 9 AÑOS MODELO ANTERIOR
 
-#### SECCIÓN TERCERA. De la Base
+#### SECCIÓN SEGUNDA. Del Objeto
 
 ###### Artículo 38.
 
@@ -599,19 +605,19 @@ VIII. Comerciantes en el ramo de vehículos: a las personas físicas y morales c
 
 La Federación, el Distrito Federal, los Estados, los Municipios, los organismos descentralizados o cualquier otra persona, deberán pagar el impuesto que establece este Apartado, con las excepciones que en la misma se señalan, aun cuando de conformidad con otras leyes o decretos no estén obligados a pagar impuestos o estén exentos de ellos.
 
-#### SECCIÓN CUARTA. Del Pago
+#### SECCIÓN TERCERA. De la Base
 
 ###### Artículo 43.
 
 Es objeto de este impuesto, la tenencia o uso de los vehículos a que se refiere el Apartado "B" de este Capítulo.
 
-#### SECCIÓN PRIMERA. Exenciones
+#### SECCIÓN CUARTA. Del Pago
 
 ###### Artículo 44.
 
 El presente impuesto se causará por la tenencia o uso de vehículos a que se refiere este Apartado. La base del impuesto será la que resulte de multiplicar el valor total del vehículo consignado en la primera facturación por la tarifa que corresponda.
 
-#### SECCIÓN SEGUNDA. De la Responsabilidad Solidaria
+#### SECCIÓN PRIMERA. Exenciones
 
 ###### Artículo 45.
 
@@ -815,7 +821,7 @@ APARTADO C
 
 DISPOSICIONES COMUNES APLICABLES Al IMPUESTO DE TENENCIA O USO DE VEHÍCULOS
 
-#### SECCIÓN PRIMERA. Del Objeto
+#### SECCIÓN SEGUNDA. De la Responsabilidad Solidaria
 
 ###### Artículo 53.
 
@@ -829,7 +835,7 @@ Las compañías aseguradoras no podrán acreditar el impuesto correspondiente, t
 
 El importe a acreditar no será sujeto de devolución.
 
-#### SECCIÓN SEGUNDA. De los Sujetos
+#### SECCIÓN PRIMERA. Del Objeto
 
 ###### Artículo 54.
 
@@ -847,7 +853,7 @@ Las autoridades Estatales competentes, solamente registrarán vehículos cuyos p
 
 ### CAPÍTULO I. DEL IMPUESTO AL HOSPEDAJE
 
-#### SECCIÓN TERCERA. De la Base
+#### SECCIÓN SEGUNDA. De los Sujetos
 
 ###### Artículo 55.
 
@@ -863,7 +869,7 @@ Tratándose de servicios prestados bajo el régimen de tiempo compartido o de cu
 
 El impuesto a que se refiere este capítulo se causará al momento en que se perciban las contraprestaciones por los servicios gravados, incluyendo depósitos, anticipos, y cualquier otro concepto relativo a estos servicios.
 
-#### SECCIÓN CUARTA. De la Cuota
+#### SECCIÓN TERCERA. De la Base
 
 ###### Artículo 58.
 
@@ -873,7 +879,7 @@ Están obligados al pago del Impuesto al Hospedaje, las personas físicas y mora
 
 El contribuyente trasladará el impuesto, en forma expresa y por separado, a las personas que reciban los servicios objeto de esta contribución. Se entenderá por traslado del impuesto el cobro o cargo que el contribuyente debe hacer a las personas que reciban los servicios de hospedaje, por un monto equivalente al impuesto establecido en este capítulo.
 
-#### SECCIÓN QUINTA. Del Pago
+#### SECCIÓN CUARTA. De la Cuota
 
 ###### Artículo 60.
 
@@ -883,13 +889,13 @@ La base para el cálculo de este impuesto se integra con el valor total de la co
 
 Los servicios prestados bajo el sistema "todo incluido" por el cual el pago de la contraprestación contemple servicios adicionales al de hospedaje tales como alimentación, transportación y otros similares, considerarán como base gravable únicamente el importe correspondiente al albergue. El contribuyente podrá estimar el Importe relativo al servicio de hospedaje dentro del sistema "todo incluido" sin que ningún caso puede ser inferior al 40% del monto total de los servicios comprendidos bajo este sistema, excluyendo las propinas y los impuestos que se trasladen al consumidor.
 
-#### SECCIÓN SEXTA. De las Exenciones
+#### SECCIÓN QUINTA. Del Pago
 
 ###### Artículo 62.
 
 Este impuesto se calculará y liquidará aplicando la tasa que al efecto establezca la Ley de Ingresos del Estado.
 
-#### SECCIÓN SÉPTIMA. De la Estimación de las Erogaciones
+#### SECCIÓN SEXTA. De las Exenciones
 
 ###### Artículo 63.
 
@@ -897,7 +903,7 @@ Los contribuyentes deberán presentar declaración bimestral ante la oficina rec
 
 El pago será la cantidad que resulte de aplicar la tasa del impuesto sobre el total de los ingresos por la prestación de los servicios a que se refiere este Capítulo, obtenido en el período por el que se efectúa la declaración.
 
-#### SECCIÓN OCTAVA. De las Obligaciones de los Contribuyentes de este Impuesto
+#### SECCIÓN SÉPTIMA. De la Estimación de las Erogaciones
 
 ###### Artículo 64.
 
@@ -915,9 +921,7 @@ E) Seminarios
 
 F) Internados
 
-#### SECCIÓN PRIMERA. Del Objeto
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+#### SECCIÓN OCTAVA. De las Obligaciones de los Contribuyentes de este Impuesto
 
 ###### Artículo 65.
 
@@ -927,9 +931,9 @@ I. Cuando no presenten sus declaraciones, o no lleven los libros y registros con
 
 II. Cuando por los informes que se obtengan se ponga de manifiesto que entre la tributación pagada en la que debió enterarse, exista discrepancia mayor a un 3%.
 
-#### SECCIÓN SEGUNDA. De los Sujetos
+#### SECCIÓN PRIMERA. Del Objeto
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 66.
 
@@ -955,9 +959,9 @@ VI. Expedir comprobantes por la contraprestación objeto de este impuesto, lleva
 
 ### CAPITULO II. DEL IMPUESTO A LA VENTA DE BEBIDAS CON CONTENIDO ALCOHÓLICO
 
-#### SECCIÓN TERCERA. De la Base y Tasa
+#### SECCIÓN SEGUNDA. De los Sujetos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 67.
 
@@ -971,13 +975,15 @@ Venta, la enajenación que realice cualquier persona física o moral de los bien
 
 Se entiende que la venta se efectúa en territorio del Estado, si en él se lleva a cabo la entrega material de la bebida.
 
-#### SECCIÓN CUARTA. Del pago
+#### SECCIÓN TERCERA. De la Base y Tasa
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 68.
 
 Son sujetos de este impuesto, las personas físicas y morales que realicen en territorio del Estado de Nayarit, la venta de los bienes a que se refiere el artículo anterior.
 
-#### SECCIÓN QUINTA. De las obligaciones de los contribuyentes
+#### SECCIÓN CUARTA. Del pago
 
 ###### Artículo 69.
 
@@ -989,7 +995,7 @@ El impuesto deberá incluirse en el precio correspondiente, sin que se considere
 
 Este impuesto se calculará aplicando al valor que señala el artículo anterior, la tasa del 3 %.
 
-#### SECCIÓN PRIMERA. Del Objeto
+#### SECCIÓN QUINTA. De las obligaciones de los contribuyentes
 
 ###### Artículo 71.
 
@@ -1031,7 +1037,7 @@ Cuando la venta se realice en hoteles bajo el sistema "todo incluido", en el que
 
 Los contribuyentes deberán exhibir los documentos y registros que acrediten dicha estimación, cuando la Autoridad se los requiera.
 
-#### SECCIÓN SEGUNDA. De los Sujetos
+#### SECCIÓN PRIMERA. Del Objeto
 
 ###### Artículo 75.
 
@@ -1047,51 +1053,51 @@ IV. Proporcionar la información que en relación con este impuesto se les solic
 
 ### CAPÍTULO III. DE LOS IMPUESTOS ADICIONALES
 
-#### SECCIÓN TERCERA. De la Base
+#### SECCIÓN SEGUNDA. De los Sujetos
 
 ###### Artículo 76.
 
 Es objeto de los impuestos adicionales el pago de impuestos, de derechos y productos que establezca la Ley de Ingresos del Estado.
 
-#### SECCIÓN CUARTA. Del Pago
+#### SECCIÓN TERCERA. De la Base
 
 ###### Artículo 77.
 
 Son sujetos de los impuestos adicionales los propios impuestos, derechos y productos considerados como tales en la Ley de Ingresos del Estado.
 
-#### SECCIÓN QUINTA. Para el Fomento de la Educación
+#### SECCIÓN CUARTA. Del Pago
 
 ###### Artículo 78.
 
 La base de los impuestos adicionales, será el monto de lo que pague por concepto de impuestos, derechos y productos.
 
-#### SECCIÓN SEXTA. Para la Asistencia Social
+#### SECCIÓN QUINTA. Para el Fomento de la Educación
 
 ###### Artículo 79.
 
 Los impuestos adicionales se causarán y harán efectivos en el momento en que se paguen los impuestos, derechos y productos que establezca la Ley de Ingresos del Estado.
 
-#### SECCIÓN SÉPTIMA. Para la Universidad Autónoma de Nayarit
+#### SECCIÓN SEXTA. Para la Asistencia Social
 
 ###### Artículo 80.
 
 Este impuesto se causará y pagará conforme a la tarifa que fije la Ley de Ingresos del Estado.
 
-#### SECCIÓN OCTAVA. De las Exenciones
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+#### SECCIÓN SÉPTIMA. Para la Universidad Autónoma de Nayarit
 
 ###### Artículo 81.
 
 Este impuesto se causará y pagará conforme a las tasas que señala la Ley de Ingresos del Estado.
 
-#### SECCIÓN PRIMERA. Del Objeto
+#### SECCIÓN OCTAVA. De las Exenciones
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 82.
 
 Este impuesto se causará y pagará conforme a las tasas que señala la Ley de Ingresos del Estado y previene la Ley del Patronato para Administrar el citado impuesto.
 
-#### SECCIÓN SEGUNDA. De los Sujetos
+#### SECCIÓN PRIMERA. Del Objeto
 
 ###### Artículo 83.
 
@@ -1099,31 +1105,31 @@ Se exime del pago de los impuestos adicionales a que se refiere este Capítulo, 
 
 ### CAPÍTULO IV. DEL IMPUESTO SOBRE NÓMINAS
 
-#### SECCIÓN TERCERA. De la Base
+#### SECCIÓN SEGUNDA. De los Sujetos
 
 ###### Artículo 84.
 
 Es objeto de este impuesto, la realización en el Estado de Nayarit, de pagos a través de nóminas, listas de raya, recibos o por cualquier otra denominación o forma, destinados a remunerar el trabajo personal subordinado derivado de una relación laboral.
 
-#### SECCIÓN CUARTA. De la Cuota
+#### SECCIÓN TERCERA. De la Base
 
 ###### Artículo 85.
 
 Son sujetos de este impuesto las personas físicas o morales obligadas a efectuar los pagos a que se refiere el artículo anterior.
 
-#### SECCIÓN QUINTA. Del Pago
+#### SECCIÓN CUARTA. De la Cuota
 
 ###### Artículo 86.
 
 Es base del Impuesto Sobre Nómina el monto total de las erogaciones realizadas por el concepto de remuneraciones al trabajo personal subordinado, aun cuando no exceda del salario mínimo.
 
-#### SECCIÓN SEXTA. De las Exenciones
+#### SECCIÓN QUINTA. Del Pago
 
 ###### Artículo 87.
 
 El impuesto sobre nóminas se liquidará aplicando la tasa del 2.0 % a la base gravable señalada para este impuesto.
 
-#### SECCIÓN SÉPTIMA. De la Estimación de Erogaciones
+#### SECCIÓN SEXTA. De las Exenciones
 
 ###### Artículo 88.
 
@@ -1133,7 +1139,7 @@ La Secretaría de Administración y Finanzas podrá celebrar convenios con los s
 
 La obligación de presentar declaración subsistirá, aun cuando no se hayan efectuado erogaciones gravadas.
 
-#### SECCIÓN OCTAVA. De las Obligaciones de los Contribuyentes de este Impuesto
+#### SECCIÓN SÉPTIMA. De la Estimación de Erogaciones
 
 ###### Artículo 89.
 
@@ -1167,7 +1173,7 @@ b) Asociaciones de trabajadores, organismos empresariales que no realicen activi
 
 c) Los partidos políticos.
 
-#### SECCIÓN PRIMERA. Diversos Aprovechamientos
+#### SECCIÓN OCTAVA. De las Obligaciones de los Contribuyentes de este Impuesto
 
 ###### Artículo 90.
 
@@ -1177,7 +1183,7 @@ I. Cuando no presenten sus declaraciones o no lleven los libros o registros cont
 
 II. Cuando, por los informes que se obtengan, se ponga de manifiesto que entre la tributación pagada y la que debió enterarse, exista discrepancia mayor a un 3%.
 
-#### SECCIÓN SEGUNDA. De Las Participaciones Federales
+#### SECCIÓN PRIMERA. Diversos Aprovechamientos
 
 ###### Artículo 91.
 
@@ -1195,6 +1201,8 @@ V. Las personas físicas o morales cuyo domicilio fiscal, para efecto de impuest
 
 ### CAPÍTULO ÚNICO. DE LOS DERECHOS
 
+#### SECCIÓN SEGUNDA. De Las Participaciones Federales
+
 #### SECCIÓN TERCERA. Ingresos Extraordinarios
 
 ## TÍTULO CUARTO. DERECHOS
@@ -1205,9 +1213,9 @@ V. Las personas físicas o morales cuyo domicilio fiscal, para efecto de impuest
 
 Los derechos por la prestación de servicios públicos en el Estado, se causarán en el momento en que el sujeto reciba la prestación del servicio o en el momento en que se provoque por parte del Estado, el gasto que deba ser remunerado por aquél, salvo el caso que la disposición que fije el derecho señale cosa distinta.
 
-Tratándose del derecho por servicios de vigilancia, inspección y control por concepto del control de la obra pública, la dependencia o entidad contratante retendrá al contratista que ejecute obra con recursos públicos estatales, lo que corresponda de aplicar el cinco al millar del monto de cada una de las estimaciones pagadas.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2014)</small>
 
-Los recursos recaudados por este concepto deberán destinarse a la fiscalización de las obras públicas. El 50% de dichos recursos será aplicado directamente por el órgano de control interno del ente público contratante; el resto deberá entregarse al Órgano de Fiscalización Superior del Estado durante los primeros quince días del mes siguiente al que se recauden, para que dentro del ámbito de sus atribuciones, los destine al mismo fin.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 93.
 
@@ -1444,3 +1452,7 @@ Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Const
 P.O. 21 DE DICIEMBRE DE 2013.
 
 Artículo único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 2 DE DICIEMBRE DE 2014.
+
+ÚNICO.- El presente decreto entrará en vigor al dial siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
