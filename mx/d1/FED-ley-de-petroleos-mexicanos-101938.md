@@ -4,7 +4,7 @@ identifier: "FED-ley-de-petroleos-mexicanos-101938"
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-11"
-last_updated: "2014-08-11"
+last_updated: "2014-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101938&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-08-11"
 
 LEY DE PETRÓLEOS MEXICANOS
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL ARTÍCULO PRIMERO DEL DECRETO POR EL QUE SE EXPIDEN LA LEY DE PETRÓLEOS MEXICANOS Y LA LEY DE LA COMISIÓN FEDERAL DE ELECTRICIDAD, Y SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE LAS ENTIDADES PARAESTATALES; LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO Y LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR EL DÍA SIGUIENTE A QUE QUEDE DESIGNADO EL NUEVO CONSEJO DE ADMINISTRACIÓN DE PETRÓLEOS MEXICANOS EN TÉRMINOS DE LA MISMA Y CONFORME AL TRANSITORIO QUINTO DEL ARTÍCULO PRIMERO DEL DECRETO MENCIONADO, SALVO POR LO QUE SE SEÑALA EN LOS TRANSITORIOS DÉCIMO Y DÉCIMO CUARTO DEL ARTÍCULO PRIMERO DEL DECRETO CITADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL ACUERDO POR EL QUE SE EMITE LA DECLARATORIA A QUE SE REFIERE EL DÉCIMO TRANSITORIO DE LA LEY DE PETRÓLEOS MEXICANOS, PUBLICADO EN EL D.O.F. DE 2 DE DICIEMBRE DE 2014, LA SECRETARÍA DE ENERGÍA DECLARA QUE SE ENCUENTRA EN FUNCIONES EL NUEVO CONSEJO DE ADMINISTRACIÓN DE PETRÓLEOS MEXICANOS Y ESTÁN EN OPERACIÓN LOS MECANISMOS DE FISCALIZACIÓN, TRANSPARENCIA Y RENDICIÓN DE CUENTAS QUE PREVÉ LA LEY DE PETRÓLEOS MEXICANOS.</small>
 
 TEXTO ORIGINAL.
 
@@ -1580,3 +1580,35 @@ Tercero. La reforma al artículo 3o. de la Ley Federal de las Entidades Paraesta
 México, D.F., a 5 de agosto de 2014.- Dip. José González Morfín, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gómez, Secretario.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Rúbricas.”
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a once de agosto de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 2 DE DICIEMBRE DE 2014.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL ACUERDO QUE SE RELACIONA CON EL ORDENAMIENTO.</small>
+
+ACUERDO POR EL QUE SE EMITE LA DECLARATORIA A QUE SE REFIERE EL DÉCIMO TRANSITORIO DE LA LEY DE PETRÓLEOS MEXICANOS.
+
+CONSIDERANDO
+
+Que de conformidad con el artículo 25, párrafo cuarto de la Constitución Política de los Estados Unidos Mexicanos, el sector público tendrá a su cargo, de manera exclusiva, las áreas estratégicas que se señalan en el artículo 28, párrafo cuarto de la propia Constitución, manteniendo siempre el Gobierno Federal la propiedad y el control sobre los organismos y empresas productivas del Estado que en su caso se establezcan;
+
+Que el Transitorio Tercero del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en Materia de Energía, publicado el 20 de diciembre de 2013 en el Diario Oficial de la Federación, dispone que la ley establecerá la forma y plazos, los cuales no podrán exceder dos años a partir de la publicación de dicho Decreto, para que los organismos descentralizados denominados Petróleos Mexicanos y Comisión Federal de Electricidad se conviertan en empresas productivas del Estado;
+
+Que con fecha 11 de agosto de 2014, se publicó en el Diario Oficial de la Federación el Decreto por el que se expide la Ley de Petróleos Mexicanos, la cual dispone que a partir de su entrada en vigor, Petróleos Mexicanos se transforma por ministerio de ley en una empresa productiva del Estado;
+
+Que la citada ley establece, en su Décimo Transitorio, que el régimen especial previsto en la misma para Petróleos Mexicanos y sus empresas productivas subsidiarias, en materia de presupuesto, deuda, adquisiciones, arrendamientos, servicios y obras, responsabilidades administrativas, bienes, remuneraciones y empresas productivas subsidiarias y empresas filiales, entrará en vigor hasta que se encuentre en funciones el nuevo Consejo de Administración de Petróleos Mexicanos y estén en operación los mecanismos de fiscalización, transparencia y rendición de cuentas en ella contenidos;
+
+Que en la misma disposición transitoria, se prevé que para los efectos anteriores el Consejo de Administración de Petróleos Mexicanos notificará a la Secretaría de Energía, la actualización de los supuestos señalados, para que esta última emita la declaratoria respectiva, misma que deberá publicarse en el Diario Oficial de la Federación, y
+
+Que en términos de lo anterior, el Consejo de Administración de Petróleos Mexicanos, durante la sesión 881 extraordinaria, celebrada el 7 de noviembre de 2014, adoptó el Acuerdo número CA-123/2014 en el cual solicitó a la Secretaría de Energía que una vez que entren en vigor las disposiciones aprobadas en la referida sesión, emita la declaratoria de que se encuentran en operación los mecanismos de fiscalización, transparencia y rendición de cuentas previstos en la Ley de Petróleos Mexicanos; he tenido a bien expedir el siguiente:
+
+ACUERDO
+
+###### ARTÍCULO ÚNICO.
+
+La Secretaría de Energía declara que se encuentra en funciones el nuevo Consejo de Administración de Petróleos Mexicanos y están en operación los mecanismos de fiscalización, transparencia y rendición de cuentas que prevé la Ley de Petróleos Mexicanos.
+
+## TRANSITORIO
+
+ÚNICO. El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
