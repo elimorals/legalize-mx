@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-asistencia-social-para-el-estado-y-municipios-de-san-236
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-19"
-last_updated: "2014-11-27"
+last_updated: "2014-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de enero de 2002.
 
@@ -135,7 +135,9 @@ j) La asistencia social en materia de nutrición, emprendiendo acciones para pro
 
 k) La promoción y apoyo del desarrollo comunitario en las localidades y zonas con población en estado de riesgo o desventaja social, poniendo especial interés en las comunidades rurales.
 
-l) Proporcionar a los adultos mayores en situación vulnerable, servicios de alojamiento, alimentación, vestido, atención médica, trabajo social, actividades culturales, recreativas, ocupacionales, psicológicas y capacitación para el trabajo.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2014)</small>
+
+l) Proporcionar a los adultos mayores en situación vulnerable, servicios de alojamiento, alimentación y bebidas con alto contenido nutricional y bajo o nulo contenido calórico, vestido, atención médica, trabajo social, actividades culturales, recreativas, ocupacionales, psicológicas y capacitación para el trabajo.
 
 m) Los demás que resulten necesarios para mejorar las circunstancias de carácter físico, social y mental que impidan a los sujetos de asistencia su desarrollo e incorporación a la sociedad.
 
@@ -435,7 +437,9 @@ A efecto de otorgar la atención a los sujetos de asistencia social a que se ref
 
 I. El albergue temporal de menores con o sin discapacidad, mujeres y adultos mayores en situación vulnerable, en donde se llevan a cabo preferentemente los siguientes servicios:
 
-a) La alimentación y el vestido de esos sujetos.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2014)</small>
+
+a) La alimentación y bebidas con alto contenido nutricional y bajo o nulo contenido calórico.
 
 b) El fomento y cuidado de la salud.
 
@@ -897,7 +901,9 @@ II. Promover a través de los programas institucionales el mejoramiento de las c
 
 III. Propiciar la creación de establecimientos de asistencia social en beneficio de la población vulnerable;
 
-IV. Impulsar el sano crecimiento de las niñas y los niños, a través de la operación de los programas de salud y alimentación en su municipio;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2014)</small>
+
+IV. Impulsar el sano crecimiento de las niñas y los niños, a través de la operación de los programas de salud y alimentación de alto valor nutricional y bajo contenido cal6rico eh su municipio;
 
 V. Garantizar y promover el ejercicio de los derechos de las niñas y los niños;
 
@@ -953,7 +959,9 @@ Los DIF municipales ejercerán las funciones siguientes:
 
 I. Operar los programas de asistencia social en el ámbito municipal;
 
-II. Impulsar el sano crecimiento físico y mental de la niñez;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2014)</small>
+
+II. Impulsar el sano crecimiento físico y mental de la niñez; debiendo contar con personal capacitado en materia de nutrición, para dar seguimiento y monitoreo sobre la aplicación de programas de asistencia alimentaria que implemente, ajustados a los lineamientos de calidad nutricia estatales y federales, que aseguren un alto valor nutricional y bajo contenido calórico en los mismos;
 
 III. Asistir a las personas, familias y grupos en condiciones de vulnerabilidad, procurando su integración social;
 
@@ -1408,6 +1416,12 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
 
 P.O. 27 DE NOVIEMBRE DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 2 DE DICIEMBRE DE 2014.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
