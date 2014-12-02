@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-derechos-de-las-ninas-los-ninos-y-adolescentes-34462
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-25"
-last_updated: "2014-11-25"
+last_updated: "2014-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34462&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, LOS NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de octubre de 2003.
 
@@ -531,11 +531,11 @@ VI. Todos los demás delitos en los que pueda ser víctima.
 
 Las niñas, los niños y adolescentes tienen derecho a ser sujetos de protección, atención y asistencia social por parte de sus padres o tutores y de las autoridades correspondientes cuando se encuentren en circunstancias especialmente difíciles.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 36.
 
-Son niñas, niños y adolescentes en circunstancias especialmente difíciles, aquellos que se encuentren en condiciones de vulnerabilidad y requieran medidas de protección, como son:
+Son niñas, niños y adolescentes en circunstancias especialmente difíciles, aquellos que se encuentren en alguno de los siguientes grupos:
 
 I. De la y en la calle;
 
@@ -565,17 +565,17 @@ VIII. Víctimas de delito;
 
 IX. Refugiados o desplazados;
 
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2014)</small>
+(REPUBLICADA, P.O. 2 DE DICIEMBRE DE 2014)
 
 X. Las adolescentes embarazadas o que sean madres y que no cuenten con el respaldo de su familia ni con el sustento necesario para su manutención y la de sus hijos;
 
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2014)</small>
 
-XI. Huérfanos; y
+XI. Las demás niñas, niños y adolescentes que sean considerados como grupos vulnerables; y
 
-> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2014)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 2 DE DICIEMBRE DE 2014)</small>
 
-XII. Demás niñas, niños y adolescentes que sean considerados grupo en condición de vulnerabilidad.
+XII. Las niñas, niños y adolescentes que sufren de enfermedades o trastornos mentales.
 
 ###### Artículo 37.
 
@@ -1054,3 +1054,7 @@ P.O. 28 DE MARZO DE 2014.
 P.O. 25 DE NOVIEMBRE DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al dia siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 2 DE DICIEMBRE DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
