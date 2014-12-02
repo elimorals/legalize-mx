@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2014-10-09"
+last_updated: "2014-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -1285,7 +1285,7 @@ XIV. bis. (DEROGADA, P.O. 28 DE FEBRERO DE 2004)
 
 XV. Cualquier otro acto o contrato por el que se transmitan bienes inmuebles o derechos sobre los mismos.
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 2 DE DICIEMBRE DE 2014)</small>
 
 XVI. Las transmisiones que se realicen mediante actos o contratos objeto de este impuesto, por personas físicas o morales a las que se les lleve a cabo una auditoría ambiental por parte de la Secretaría de Medio Ambiente y Desarrollo Territorial, misma que deberá emitir el dictamen técnico respectivo sobre la procedencia de la solicitud para la obtención de estímulos fiscales en actividades de prevención y disminución de la contaminación ambiental, de conformidad con la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente; o bien, que la dirección o departamento de ecología o medio ambiente del municipio de que se trate, lleve a cabo una inspección ambiental a dichas personas y como resultado de la misma se obtenga la aprobación del municipio respectivo de este estímulo fiscal por actividades de prevención y disminución de la contaminación ambiental, conforme al reglamento de ecología o medio ambiente municipal correspondiente; podrán ser beneficiados en las leyes de ingresos correspondiente con la aplicación de una tarifa de factor 0.4 sobre el monto del impuesto, o la aplicación de la tarifa que se establezca en la ley de ingresos correspondiente.
 
@@ -1343,7 +1343,7 @@ XIV. En el caso de municipios que no cuenten con tablas de valores actualizadas,
 
 El impuesto sobre transmisiones patrimoniales se causará y liquidará aplicando la tasa o tarifa que establezca la ley de ingresos de cada municipio a la base determinada conforme a las disposiciones del artículo 114 de esta ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 2 DE DICIEMBRE DE 2014)</small>
 
 ###### Art. 116.
 
@@ -1557,7 +1557,7 @@ d) La realización de actos o contratos, cuando su objeto sea la construcción, 
 
 2. Se entiende por vivienda popular aquella cuyo valor catastral no exceda de veinticinco salarios mínimos generales vigentes, elevados al año, en el área geográfica donde se localice el inmueble, y
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 2 DE DICIEMBRE DE 2014)</small>
 
 VII. Las personas físicas o morales a las que se les lleve a cabo una auditoría ambiental por parte de la Secretaría de Medio Ambiente y Desarrollo Territorial, misma que deberá emitir el dictamen técnico respectivo sobre la procedencia de la solicitud para la obtención de estímulos fiscales en actividades de prevención y disminución de la contaminación ambiental, de conformidad con la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente; o bien, que la dirección o departamento de ecología o medio ambiente del municipio de que se trate, lleve a cabo una inspección ambiental a dichas personas y como resultado de la misma se obtenga la aprobación del municipio respectivo de este estímulo fiscal por actividades de prevención y disminución de la contaminación ambiental, conforme al reglamento de ecología o medio ambiente municipal correspondiente; podrán ser beneficiados en la ley de ingresos correspondiente con la aplicación de una tarifa de factor 0.4 sobre el monto del impuesto o la aplicación de la tarifa que se establezca en la ley de ingresos correspondiente.
 
@@ -2785,7 +2785,7 @@ VIII. El depositario interventor que tuviere conocimiento de irregularidades en 
 
 Si las medidas urgentes que dicten los depositarios interventores en los casos previstos en la frac. VIII del artículo anterior, no fuesen acatadas por el deudor o el personal de la negociación secuestrada, la Tesorería Municipal ordenará de plano que el depositario interventor se convierta en administrador, o sea substituido por un depositario administrador, quien tomará posesión de su cargo desde luego.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 2 DE DICIEMBRE DE 2014)</small>
 
 ###### Art. 276.
 
@@ -3603,7 +3603,7 @@ P.O. 27 DE DICIEMBRE DE 2011.
 
 DECRETO NÚMERO 23955/LIX/11, POR EL QUE SE REFORMA EL ARTÍCULO 147 DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO.
 
-PRIMERO. Los artículos primero y segundo del presente decreto, relativos la (sic) Ley de Hacienda Municipal y el Código Urbano para el Estado de Jalisco, entrarán en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+PRIMERO. Los artículos primero y segundo del presente decreto, relativos (sic) la Ley de Hacienda Municipal y el Código Urbano para el Estado de Jalisco, entrarán en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. El artículo tercero del presente decreto, relativo a la Ley de Ingresos del municipio de Guadalajara, Jalisco, para el ejercicio fiscal de 2012, entrará en vigor el día 1.° de enero de 2012, previa su publicación en el periódico oficial El Estado de Jalisco.
 
@@ -3674,3 +3674,7 @@ P.O. 9 DE OCTUBRE DE 2014.
 DECRETO NÚMERO 24967/LX/14 POR EL QUE SE REFORMAN LOS ARTÍCULOS 20 Y 316 BIS DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO.
 
 ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 2 DE DICIEMBRE DE 2014.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
