@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proteccion-civil-del-estado-de-jalisco-5874"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-10"
-last_updated: "2013-10-12"
+last_updated: "2014-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5874&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 10 de julio de 1993.
 
@@ -777,31 +777,35 @@ e) (DEROGADO, P.O. 3 DE JULIO DE 2004)
 
 V. Un representante por cada una de las dependencias del Poder Ejecutivo Estatal siguientes:
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2014)</small>
 
-a) Secretaría de Seguridad Pública, Prevención y Readaptación Social;
+a) Fiscalía General;
 
-b) Desarrollo Urbano SEDEUR;
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2014)</small>
+
+b) Secretaría de Infraestructura y Obra Pública;
 
 c) Desarrollo Integral de la Familia DIF Jalisco;
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2014)</small>
 
-d) Secretaría del Medio Ambiente y Desarrollo Sustentable SEMADES;
+d) Secretaría del Medio Ambiente y Desarrollo Territorial SEMADET;
 
 e) Secretaría de Salud SS;
 
 f) Secretaría de Desarrollo Rural SEDER;
 
-g) Secretaría de Finanzas;
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2014)</small>
 
-h) Procuraduría General del Estado PGJEJ;
+g) Secretaría de Planeación, Administración y Finanzas;
+
+h) (DEROGADO, P.O. 2 DE DICIEMBRE DE 2014)
 
 i) Secretaría de Educación SE;
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2014)</small>
 
-j) Secretaría de Desarrollo Humano;
+j) Secretaría de Desarrollo e Integración Social;
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2006)</small>
 
@@ -1055,9 +1059,9 @@ VIII. Las demás funciones que le confieran el Reglamento Interno, los acuerdos 
 
 Se crea la Unidad Estatal de Protección Civil y Bomberos, como un organismo público descentralizado con personalidad jurídica y patrimonio propio, estará constituido por:
 
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2014)</small>
 
-I. Una Junta de Gobierno que se integrará por un Presidente que será designado por el titular del Poder Ejecutivo del Estado, el Secretario General de Gobierno, el Secretario de Finanzas, el Secretario de Salud, el Secretario de Desarrollo Urbano y el Secretario de Desarrollo Rural, quienes podrán designar un suplente que los sustituya en sus ausencias, contando con los mismos derechos y obligaciones;
+I. Una Junta de Gobierno que se integrará por un Presidente que será designado por el titular del Poder Ejecutivo del Estado, el Secretario General de Gobierno, el Secretario de Planeación, Administración y Finanzas, el Secretario de Salud, el Secretario de Infraestructura y Obra Pública, el Secretario de Medio Ambiente y Desarrollo Territorial y el Secretario de Desarrollo Rural, quienes podrán designar un suplente que los substituya en sus ausencias, contando con los mismos derechos y obligaciones;
 
 > <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2000)</small>
 
@@ -1075,11 +1079,11 @@ IV. El Centro de Análisis del Riesgo.
 
 El Reglamento Interno de la Unidad Estatal determinará su estructura orgánica, atribuciones específicas y procedimientos de operación.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 37.
 
-La Procuraduría General de Justicia del Estado dispondrá se adscriba a la Unidad Estatal, una agencia del Ministerio Público especializada en esa materia.
+La Fiscalía General del Estado dispondrá se adscriba a la Unidad Estatal, una agencia del Ministerio Público especializada en esta materia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2006)</small>
 
@@ -1817,9 +1821,11 @@ VII. El beneficio directo o indirecto, que haya obtenido o pueda obtener el infr
 
 VIII. El cumplimiento que realice el infractor respecto de las medidas de seguridad o de las relativas a subsanar las conductas infractoras.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 83.
 
-Las sanciones pecuniarias a que se refiere este capítulo se considerarán créditos fiscales y serán hechos efectivos por la Secretaría de Finanzas o la Tesorería Municipal, a solicitud de la Unidad Estatal o la Unidad Municipal, según corresponda.
+Las sanciones pecuniarias a que se refiere este capítulo se considerarán créditos fiscales y serán hechos efectivos por la Secretaría de Planeación, Administración y Finanzas o la Tesorería Municipal, a solicitud de la Unidad Estatal o la Unidad Municipal, según corresponda.
 
 El procedimiento de notificación, ejecución y extinción de las sanciones pecuniarias, así como los recursos administrativos para oponerse a el procedimiento económico coactivo, se sujetará a las disposiciones de las leyes hacendarias aplicables.
 
@@ -2064,3 +2070,7 @@ P.O. 17 DE NOVIEMBRE DE 2012.
 P.O. 12 DE OCTUBRE DE 2013.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 2 DE DICIEMBRE DE 2014.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
