@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-de-la-ley-de-residuos-solidos-para-el-estado-de-8221
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-07-06"
-last_updated: "2011-07-06"
+last_updated: "2014-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82212&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # REGLAMENTO DE LA LEY DE RESIDUOS SOLIDOS PARA EL ESTADO DE ZACATECAS
 
-REGLAMENTO DE LA LEY DE RESIDUOS SOLIDOS PARA EL ESTADO DE ZACATECAS
+REGLAMENTO DE LA LEY DE RESIDUOS SÓLIDOS PARA EL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 6 de julio de 2011.
 
@@ -43,9 +43,11 @@ REGLAMENTO DE LA LEY DE RESIDUOS SÓLIDOS PARA EL ESTADO DE ZACATECAS.
 
 El presente ordenamiento tiene por objeto reglamentar y establecer las disposiciones que propicien el estricto cumplimiento de la Ley de Residuos Sólidos del Estado de Zacatecas, y rige en todo el territorio del Estado.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 2.
 
-La aplicación de este Reglamento corresponde al Ejecutivo del Estado por conducto del Instituto de Ecología y Medio Ambiente del Estado de Zacatecas, sin perjuicio de las atribuciones que correspondan a otras dependencias del Ejecutivo Estatal, así como a los Municipios en sus respectivos ámbitos de competencia, de conformidad con el marco legal aplicable y los instrumentos jurídicos de coordinación que se suscriban.
+La aplicación del presente Reglamento corresponde al Ejecutivo del Estado por conducto de la Secretaría del Agua y Medio Ambiente, sin perjuicio de las atribuciones que correspondan a otras dependencias del Ejecutivo Estatal, así como a los Municipios en sus respectivos ámbitos de competencia, de conformidad con el marco legal aplicable y los instrumentos jurídicos de coordinación que se suscriban.
 
 ###### ARTÍCULO 3.
 
@@ -85,9 +87,15 @@ XVI. Recolección selectiva secundaria: La acción de recolectar por separado lo
 
 XVII. Sistema de manejo ambiental: Conjunto de medidas que alientan la adopción de políticas de adquisiciones y prácticas de consumo que favorezcan la reducción, la reutilización y el reciclado de los residuos, así como el ahorro de agua y de energía.
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XVIII. La Secretaría: La Secretaría del Agua y Medio Ambiente del Gobierno del Estado.
+
+> <small>(REFORMADO PROEMIO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 4.
 
-Corresponde al Ejecutivo del Estado por conducto del Instituto de Ecología:
+Corresponde al Ejecutivo del Estado por conducto de la Secretaría:
 
 I. Formular, conducir y evaluar la política estatal en materia de residuos sólidos;
 
@@ -149,9 +157,13 @@ XIV. Requerir informes a concesionarios de los servicios de limpia y empresas de
 
 XV. Convocar y apoyar a organizaciones de la sociedad civil involucradas en actividades tendientes a fortalecer la capacidad de gestión integral de residuos sólidos a nivel municipal, entre otros a través de la creación y operación de centros de acopio de materiales valorizables;
 
-XVI. Convocar en coordinación con el Instituto de Ecología, a las instituciones educativas locales a participar en actividades tendientes a crear una cultura de consumo y producción sustentable que prevenga la generación de residuos, incremente la recuperación de materiales valorizables y contribuya a evitar riesgos al ambiente y la salud por residuos, e;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XVII. Impulsar, en coordinación con el Instituto de Ecología la adopción y seguimiento de la aplicación de sistemas de manejo ambiental en las dependencias municipales.
+XVI. Convocar en coordinación con la Secretaría, a las instituciones educativas locales a participar en actividades tendientes a crear una cultura de consumo y producción sustentable que prevenga la generación de residuos, incremente la recuperación de materiales valorizables y contribuya a evitar riesgos al ambiente y la salud por residuos, e;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XVII. Impulsar, en coordinación con la Secretaría la adopción y seguimiento de la aplicación de sistemas de manejo ambiental en las dependencias municipales.
 
 ###### ARTÍCULO 6.
 
@@ -173,9 +185,11 @@ Las medidas de utilidad pública, obras y acciones determinadas en la Ley, deber
 
 Además de las medidas y/o causas de utilidad pública establecidas en la legislación aplicable, se consideran de utilidad pública las acciones de contención del riesgo y preparación de posibles sitios contaminados para la realización de las obras de remediación que resulten imprescindibles para reducir los riesgos a la salud en el bien inmueble contaminado.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 10.
 
-En el caso de causas de utilidad pública derivadas de situaciones de emergencia, accidente o desastre que involucre el riesgo de diseminación de residuos sólidos, contaminación ambiental y daños a los seres vivos, los particulares involucrados, así como la primera autoridad que tome conocimiento del evento deberán notificar a el Instituto, así como a las autoridades de protección civil para que éstas actúen de conformidad con lo previsto en la Ley de Protección Civil para el Estado de Zacatecas y demás disposiciones que resulten aplicables.
+En el caso de causas de utilidad pública derivadas de situaciones de emergencia, accidente o desastre que involucre el riesgo de diseminación de residuos sólidos, contaminación ambiental y daños a los seres vivos, los particulares involucrados, así como la primera autoridad que tome conocimiento del evento deberán notificar a la Secretaría, así como a las autoridades de protección civil para que éstas actúen de conformidad con lo previsto en la Ley de Protección Civil para el Estado de Zacatecas y demás disposiciones que resulten aplicables.
 
 ### CAPÍTULO III. DEL ORGANISMO OPERADOR INTERMUNICIPAL
 
@@ -239,7 +253,7 @@ I. Consejo Directivo;
 
 II. Director General del Organismo Operador;
 
-III. Consejo Consultivo; y (sic)
+III. Consejo Consultivo; y
 
 ###### ARTÍCULO 16.
 
@@ -247,13 +261,19 @@ El Consejo Directivo es el Órgano Superior de Gobierno del Organismo Operador, 
 
 I. Un Presidente honorario será designado de común acuerdo entre los Presidentes Municipales participantes;
 
-I (SIC). Un Secretario Técnico que será el Director General del Organismo Operador;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-II. Comisario público; y
+II. Un Secretario Técnico que será el Director General del Organismo Operador;
 
-III. Los Vocales que serán:
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-a) El Instituto de Ecología y Medio Ambiente de Zacatecas; y
+III. Comisario público; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+IV. Los Vocales que serán:
+
+a) La Secretaría; y
 
 b) Los restantes Presidentes Municipales integrantes.
 
@@ -295,9 +315,11 @@ Para el buen desempeño de sus funciones y atribuciones, el Organismo Operador I
 
 ### CAPÍTULO I. DEL DIAGNÓSTICO BÁSICO PARA LA GESTIÓN INTEGRAL DE RESIDUOS SÓLIDOS URBANOS Y DE MANEJO ESPECIAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 19.
 
-El Instituto elaborará el diagnóstico básico estatal para la gestión integral de residuos sólidos; tomando en consideración la información generada por los Municipios, los sujetos regulados, y la sociedad civil en general.
+La Secretaría elaborará el diagnóstico básico estatal para la gestión integral de residuos sólidos; tomando en consideración la información generada por los municipios, los sujetos regulados y la sociedad civil en general.
 
 Los Municipios deberán realizar el diagnóstico básico municipal para la gestión integral de residuos sólidos urbanos, tomando en consideración la información proporcionada por los sujetos regulados y la sociedad civil en general, y los requerimientos del presente ordenamiento.
 
@@ -329,9 +351,11 @@ La actualización y revisión del diagnóstico básico estatal y los municipales
 
 ### CAPÍTULO II. PROGRAMAS DE MANEJO DE RESIDUOS SÓLIDOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 22.
 
-El Instituto elaborará y actualizará, en coordinación con las autoridades competentes, el Programa de Manejo de Residuos Sólidos Estatal con los datos obtenidos del diagnóstico básico estatal y la información proporcionada por los Municipios, los sujetos regulados y la sociedad civil en general.
+La Secretaría elaborará y actualizará, en coordinación con las autoridades competentes, el Programa de Manejo de Residuos Sólidos Estatal con los datos obtenidos del diagnóstico básico estatal y la información proporcionada por los municipios, los sujetos regulados y la sociedad civil en general.
 
 La actualización a que hace referencia el párrafo anterior se realizará cada tres años, posterior al reajuste de la base de datos de los diagnósticos básicos respectivos.
 
@@ -367,7 +391,9 @@ XIII. El inventario de sitios contaminados por residuos y procedimientos destina
 
 XIV. Los mecanismos para fomentar la vinculación entre los programas municipales correspondientes, a fin de crear sinergias;
 
-XV. La asistencia técnica que en su caso brinde el Instituto; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XV. La competencia técnica que en su caso determine la Secretaría; y
 
 XVI. Los indicadores de desempeño para evaluar la adecuada aplicación de los programas.
 
@@ -387,15 +413,19 @@ V. Establecer las acciones necesarias para detener la creación de tiraderos a c
 
 VI. Fortalecer el desarrollo científico y tecnológico a través de la investigación, con el objeto de reducir la generación, aumentar la valorización y elevar la eficacia ambiental de las opciones de manejo de residuos.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 25.
 
-El Instituto y los Municipios convocarán a los distintos sectores de la sociedad a participar en la planeación, formulación y ejecución de los programas previstos en la Ley de Residuos y el presente ordenamiento.
+La Secretaría y los municipios convocarán a los distintos sectores de la sociedad a participar en la planeación, formulación y ejecución de los programas previstos en la Ley de Residuos y el presente ordenamiento.
 
 ### CAPÍTULO III. DE LA EDUCACIÓN AMBIENTAL EN MATERIA DE RESIDUOS SÓLIDOS
 
+> <small>(REFORMADO PROEMIO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 26.
 
-El Instituto con la participación de la Secretaría de Educación y Cultura, promoverá:
+La Secretaría con la participación de la Secretaría de Educación, promoverá:
 
 I. La formulación de planes y programas educativos para la formación de especialistas en materia de residuos Sólidos del Estado;
 
@@ -403,27 +433,37 @@ II. La introducción en los programas educativos de la consideración a las prá
 
 III. La educación y capacitación de ciudadanos que actúen como vigilantes ambientales, para fomentar una conciencia de solidaridad social en apoyo a la difusión y aplicación del la Ley, este Reglamento y demás ordenamientos aplicables.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 27.
 
-El Instituto promoverá ante las instancias competentes en la materia, el establecimiento de programas curriculares para la capacitación del personal involucrado en el manejo de los residuos sólidos y en el desarrollo de los planes de manejo al respecto.
+La Secretaría promoverá ante las instancias competentes en la materia, el establecimiento de programas curriculares para la capacitación del personal involucrado en el manejo de los residuos sólidos y en el desarrollo de los planes de manejo al respecto.
 
-Para asegurar la calidad y confiabilidad de la capacitación a la que hace referencia el párrafo anterior, la Secretaría de Educación y Cultura y el Instituto deberán de establecer los criterios que deben reunir quienes impartan la capacitación y los procedimientos de acreditación de la misma.
+Para asegurar la calidad y confiabilidad de la capacitación a la que hace referencia el párrafo anterior, la Secretaría de Educacióny (sic) la Secretaría deberán establecer los criterios que deben reunir quienes impartan la capacitación y los procedimientos de acreditación de la misma.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 28.
 
-El Instituto de Ecología en coordinación con la Secretaría de Educación y Cultura y los organismos de investigación científica, promoverán la investigación y desarrollo tecnológico orientada a reducir la generación y a optimizar la valorización de residuos sólidos, que favorezca su desintegración rápida y ambientalmente efectiva en los sitios de disposición final y relacionada con la caracterización y remediación de sitios contaminados por residuos.
+La Secretaría en coordinación con la Secretaría de Educación y los organismos de investigación científica, promoverán la investigación y desarrollo tecnológico orientada a reducir la generación y a optimizar la valorización de residuos sólidos, que favorezca su desintegración rápida y ambientalmente efectiva en los sitios de disposición final y relacionada con la caracterización y remediación de sitios contaminados por residuos.
 
 ### CAPÍTULO IV. DE LA INFORMACIÓN SOBRE RESIDUOS SÓLIDOS
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 29.
 
-El Instituto difundirá a través de su portal electrónico los criterios y metodología establecidos previamente por las autoridades federales para la elaboración de los inventarios de tiraderos a cielo abierto de residuos sólidos o de sitios en los que se hayan abandonado clandestinamente residuos de diferente Índole.
+La Secretaría difundirá a través de su portal electrónico los criterios y metodología establecidos previamente por las autoridades federales para la elaboración de los inventarios de tiraderos a cielo abierto de residuos sólidos o de sitios en los que se hayan abandonado clandestinamente residuos de diferente índole.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 30.
 
-El Instituto destinará una sección de su página electrónica para la difusión de la información en materia de gestión integral de los residuos sólidos y peligrosos, así como acerca de los sitios contaminados con ellos, que le proporcionen las diversas instancias del Ejecutivo Estatal involucradas, por los Municipios y la Secretaria de Medio Ambiente y Recursos Naturales.
+La Secretaría, destinará una sección de su página electrónica para la difusión de la información en materia de gestión integral de los residuos sólidos y peligrosos, así como acerca de los sitios contaminados con ellos, que le proporcionen las diversas instancias del Ejecutivo Estatal involucradas, por los Municipios y la Secretaría de Medio Ambiente y Recursos Naturales.
 
-A partir de esta información, el Instituto construirá los indicadores que permitan evaluar el desempeño ambiental de la gestión integral de los residuos y la eficacia de la aplicación de la legislación en la materia, incluyendo los siguientes datos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+A partir de esa información, la Secretaría construirá los indicadores que permitan evaluar el desempeño ambiental de la gestión integral de los residuos y la eficacia de la aplicación de la legislación en la materia, incluyendo los siguientes datos:
 
 I. Cantidad total de residuos generados;
 
@@ -439,51 +479,69 @@ VI. Cantidad de sitios contaminados por residuos; y
 
 VII. Cantidad de contingencias ambientales o de emergencias relacionadas con residuos.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 31.
 
-Los prestadores de servicios de manejo integral de residuos sólidos autorizados por el Instituto presentarán mensualmente por medios electrónicos al Instituto el informe sobre las actividades realizadas al respecto, de conformidad con el formato oficial que se establezca para tal fin.
+Los prestadores de servicios de manejo integral de residuos sólidos autorizados por la Secretaría, presentarán mensualmente por medios electrónicos a la Secretaría, el informe sobre las actividades realizadas al respecto, de conformidad con el formato oficial que se establezca para tal fin.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 32.
 
-Los generadores de residuos de manejo especial proporcionarán al Instituto la información relativa al manejo de los mismos de conformidad con lo estipulado en este ordenamiento.
+Los generadores de residuos de manejo especial proporcionarán a la Secretaría la información relativa al manejo de los mismos, de conformidad con lo estipulado en este ordenamiento.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 33.
 
-El Instituto promoverá y apoyará el establecimiento de la base de datos en la que se sustente la Bolsa de subproductos para difundir los materiales valorizables que los generadores pongan a disposición de los interesados, así como la demanda de materiales por parte de quienes puedan aprovecharlos.
+La Secretaría promoverá y apoyará el establecimiento de la base de datos en la que se sustente la Bosa (sic) de subproductos para difundir los materiales valorizables que los generadores pongan a disposición de los interesados, así como la demanda de materiales por parte de quienes puedan aprovecharlos.
 
 ### CAPÍTULO V. DE LA PARTICIPACIÓN SOCIAL
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 34.
 
-El Instituto y los Municipios promoverán que los diversos sectores de la sociedad se integren y colaboren en el desarrollo de los programas a nivel estatal o municipal, con el objetivo de lograr la prevención de la generación, el manejo y gestión integral de los residuos; así como para prevenir la contaminación y remediación de los sitios contaminados con éstos.
+La Secretaría y los Municipios promoverán que los diversos sectores de la sociedad se integren y colaboren en el desarrollo de los programas a nivel estatal o municipal, con el objetivo de lograr la prevención de la generación, el manejo y gestión integral de residuos; así como para prevenir la contaminación y remediación de los sitios contaminados con éstos.
 
-Con los fines previstos en el párrafo anterior, el Instituto establecerá un registro de las organizaciones de la sociedad civil que están involucradas en actividades relacionadas con la prevención de la generación y el manejo integral de los residuos.
+Con los fines previstos en el párrafo anterior, la Secretaría establecerá un registro de las organizaciones de la sociedad civil involucradas en actividades relacionadas con la prevención de la generación y el manejo integral de los residuos.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 35.
 
-El Instituto y los Municipios conformarán brigadas de vigilantes ambientales comunitarios que apoyen en la difusión y promoción de la aplicación de la legislación de los residuos.
+La Secretaría y los Municipios conformarán brigadas de vigilantes ambientales comunitarios que apoyen en la difusión y promoción de la aplicación de la legislación de los residuos.
 
-Con el fin de incentivar la participación ciudadana en acciones como las previstas en el párrafo anterior, el Instituto y los Municipios podrán otorgar un reconocimiento público a las personas físicas o morales que se distingan por su contribución a mejorar la gestión y manejo integral de los residuos, con el apoyo del órgano de consulta pública respectivo.
+Con el fin de incentivar la participación ciudadana en acciones como las previstas en el párrafo anterior, la Secretaría y los Municipios podrán otorgar un reconocimiento público a las personas físicas o morales que distingan por su contribución a mejorar la gestión y manejo integral de los residuos, con el apoyo del órgano de consulta pública respectivo.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 36.
 
-El Instituto y los Municipios conformarán el órgano de consulta estatal y municipal respectivamente en materia de gestión integral de residuos, a fin de contar con la opinión de ciudadanos, organizaciones civiles, consejos de concertación ciudadana expertos y fomentar la participación informada, en materia de prevención y gestión integral de residuos.
+La Secretaría y los Municipios conformarán el órgano de consulta estatal y municipal respectivamente en materia de gestión integral de residuos, a fin de contar con la opinión de ciudadanos, organizaciones civiles, consejos de concertación ciudadana expertos y fomentar la participación informada, en materia de prevención y gestión integral de residuos.
 
 ###### ARTÍCULO 37.
 
 El órgano de consulta estatal o municipal, deberá estar integrado de la siguiente forma:
 
-I. Un presidente, que será el servidor público que designe el Instituto o la autoridad municipal competente;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+I. Un presidente, que será el servidor público que designe la Secretaría o la autoridad municipal competente;
 
 II. Un secretario designado por el órgano de consulta a propuesta del presidente del mismo; y
 
 III. Tres vocales, por cada uno de los sectores, productivo, científico y tecnológico, y de la sociedad civil, cuya participación será de tres años, renovándose por tercios cada año.
 
-El Instituto y las autoridades municipales según sea el caso, determinarán los requisitos de elegibilidad para que tales sectores designen a sus representantes y establecerá un procedimiento para invitarlos a proponer las candidaturas correspondientes.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+La Secretaría y las autoridades municipales según sea el caso, determinarán los requisitos de elegibilidad para que tales sectores designen a sus representantes y establecerá un procedimiento para invitarlos a proponer las candidaturas correspondientes.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 38.
 
-El órgano de consulta se regirá de acuerdo a un reglamento interior que para tales efectos formule, mismo que deberá de ser aprobado por el Instituto o las autoridades municipales según corresponda.
+El órgano de consulta se regirá de acuerdo a un reglamento interior que para tales efectos formule, mismo que deberá ser aprobado por la Secretaría o las autoridades municipales, según corresponda.
 
 ###### ARTÍCULO 39
 
@@ -539,9 +597,11 @@ III. Categoría C. Quienes generen más de 27.5 hasta 250 kilogramos por día o 
 
 ### CAPÍTULO II. DE LA AUTORIZACIÓN PARA El MANEJO DE RESIDUOS SÓLIDOS
 
+> <small>(REFORMADO PROEMIO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 43.
 
-El Instituto, previa aprobación de la manifestación de impacto ambiental de conformidad con los ordenamientos aplicables en la materia, autorizará las instalaciones y actividades que no sean de competencia Federal, relacionadas con el manejo de residuos sólidos en las que se realicen:
+La Secretaría, previa aprobación de la manifestación de impacto ambiental de conformidad con los ordenamientos aplicables en la materia, autorizará las instalaciones y actividades que no sean de competencia Federal, relacionadas con el manejo de residuos sólidos en las que se realicen:
 
 I. Almacenamiento Temporal;
 
@@ -557,27 +617,37 @@ VII. Disposición final; y
 
 VIII. Descontaminación o remediación de suelos y sitios contaminados por residuos.
 
-Toda persona física o moral que solicite autorización para instalaciones y actividades referidas en las fracciones I a VII, así como cualquier modalidad de procesamiento de los residuos sólidos, deberá presentar a el Instituto las medidas que adoptarán para prevenir la liberación de contaminantes al ambiente durante su operación, así como para evitar y controlar el desarrollo de fauna nociva en su caso.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-Por lo que respecta a la autorización por parte del Instituto para el transporte de residuos de manejo especial, esta se sujetará a la presentación de un informe sobre las medidas que se adoptarán para prevenir la diseminación de los residuos al transportarlos y en caso de accidente que provoque su derrame.
+Toda persona física o moral que solicite autorización para instalaciones y actividades referidas en las fracciones I a VII, así como cualquier modalidad de procesamiento de los residuos sólidos, deberá presentar a la Secretaría las medidas que adoptarán para prevenir la liberación de contaminantes al ambiente durante su operación, así como para evitar y controlar el desarrollo de fauna nociva en su caso.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+Por lo que respecta a la autorización por parte de la Secretaría para el transporte de residuos de manejo especial, ésta se sujetará a la presentación de un informe sobre las medidas que adoptarán para prevenir la diseminación de los residuos al transportarlos y en caso de accidente que provoque su derrame.
 
 ###### ARTÍCULO 44.
 
 La autorización de procesos e instalaciones de manejo de residuos sólidos sujetos al cumplimiento de normas oficiales mexicanas o de normas ambientales estatales estará condicionada al cumplimiento de lo establecido en las mismas.
 
-Al emitir la autorización el Instituto proporcionará los lineamientos a seguir destinados a prevenir riesgos a la salud y al ambiente que éstos pudieran ocasionar, de conformidad con lo previsto en este ordenamiento.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+Al emitir la autorización la Secretaría proporcionará los lineamientos a seguir destinados a prevenir riesgos a la salud y al ambiente que éstos pudieran ocasionar, de conformidad con lo previsto en este ordenamiento.
+
+> <small>(REFORMADO PROEMIO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 45.
 
-En cualquier actividad de manejo integral de residuos sólidos sujeta a autorización, el Instituto deberá:
+En cualquier actividad de manejo integral de residuos sólidos sujeta a autorización, la Secretaría deberá:
 
 l. Requerir la presentación de comprobantes de la capacidad técnica del personal involucrado en el manejo de los residuos sólidos de conformidad con las labores que realice, así como sobre su conocimiento acerca de los riesgos sanitarios y ambientales que conlleva dicho manejo y las prácticas adecuadas destinadas a prevenirlos; y
 
 II. La presentación del plan de emergencias ante la autoridad de protección civil competente; mismo que debe de incluir, según sea el caso la consideración a posibles eventos como: incendio, explosión, inundación, derrame o diseminación de los residuos sólidos y para responder a ellas.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 46.
 
-El Instituto se sujetará a lo dispuesto en los programas de ordenamiento ecológico, desarrollo urbano y ordenamiento territorial y, en su caso, a las restricciones para la ubicación de éstas que estipulen las normas oficiales mexicanas y las normas ambientales estatales que resulten aplicables, para emitir la autorización de impacto ambiental a instalaciones destinadas al manejo de los residuos sólidos.
+La Secretaría se sujetará a lo dispuesto en los programas de ordenamiento ecológico, desarrollo urbano y ordenamiento territorial y, en su caso, a las restricciones para la ubicación de éstas que estipulen las normas oficiales mexicanas y las normas ambientales estatales que resulten aplicables, para emitir la autorización de impacto ambiental a instalaciones destinadas al manejo de los residuos sólidos.
 
 ###### ARTÍCULO 47.
 
@@ -595,21 +665,31 @@ III. Obligación solidaria asumida por tercero que compruebe su idoneidad y solv
 
 IV. Prenda o hipoteca; y
 
-IV (SIC). Títulos de valor o cartera de créditos del interesado, en caso de que se demuestre la imposibilidad de exhibir alguna otra garantía financiera, los cuales se aceptarán al valor que para cada caso fije el Instituto de acuerdo con el volumen y características de los residuos cuyo manejo ha sido autorizado, así como la estimación de los costos que pueden derivar de la reparación del daño provocado en caso de accidente o de contaminación de los sitios, que se puedan ocasionar por el manejo de dichos residuos.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-El Instituto vigilará que las garantías sean suficientes tanto en el momento de su aceptación como con posterioridad y, si no lo fueren, exigirá su ampliación. En ningún caso se podrá dispensar el otorgamiento de la garantía, sin perjuicio de lo que establezcan otras disposiciones legales.
+V. Títulos de valor o cartera de créditos del interesado, en caso de que se demuestre la imposibilidad de exhibir alguna otra garantía financiera, los cuales se aceptarán al valor que para cada caso fije la Secretaría de acuerdo con el volumen y características de los residuos cuyo manejo ha sido autorizado, así como la estimación de los costos que pueden derivar de la reparación del daño provocado en caso de accidente o de contaminación de los sitios, que se puedan ocasionar por el manejo de dichos residuos.
 
-El Instituto establecerá las metodologías para la fijación de los montos de los seguros y garantías, mediante acuerdo que publicará en el Periódico Oficial de Gobierno.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+La Secretaría vigilará que las garantías sean suficientes tanto en el momento de su aceptación como con posterioridad y si no lo fueren, exigirá su ampliación. En ningún caso se podrá dispensar el otorgamiento de la garantía, sin perjuicio de lo que establezcan otras disposiciones legales.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+La Secretaría establecerá las metodologías para la fijación de los montos de los seguros y garantías, mediante acuerdo que publicará en el Periódico Oficial de Gobierno.
 
 ###### ARTÍCULO 48.
 
 Los prestadores de servicios de manejo de residuos sólidos autorizados recibirán un número de registro ambiental único, el cual deberá aparecer en todos los trámites que realicen en relación con sus actividades autorizadas.
 
-El Instituto establecerá y operará una base de datos que contenga información sobre las empresas autorizadas para el manejo de residuos sólidos y pondrá el padrón de empresas a disposición del público a través de su portal electrónico.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+La Secretaría establecerá y operará una base de datos que contenga información sobre las empresas autorizadas para el manejo de residuos sólidos y pondrá el padrón de empresas a disposición del público a través de su portal electrónico.
+
+> <small>(REFORMADO PROEMIO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 49.
 
-Para obtener la autorización correspondiente, los interesados deberán presentar solicitud, mediante formato que expida el Instituto, la cual contendrá como mínimo la siguiente información:
+Para obtener la autorización correspondiente, los interesados deberán presentar solicitud, mediante formato que expida la Secretaría la cual contendrá como mínimo la siguiente información:
 
 I. Datos generales de la persona física o moral, que incluyan nombre, denominación o razón social, teléfono, fax, domicilio para recibir notificaciones, dirección electrónica en su caso, y ubicación de las instalaciones expresada en coordenadas geográficas;
 
@@ -623,7 +703,9 @@ V. La capacidad anual estimada de las instalaciones en donde se pretende llevar 
 
 VI. Indicación del uso del suelo autorizado en el domicilio o zona donde se pretende instalar;
 
-VII. La actividad que se pretenda realizar, misma que se describirá de acuerdo con lo establecido en este Reglamento y en el formato que al respecto emita el Instituto;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+VII. La actividad que se pretenda realizar, misma que se describirá de acuerdo con lo establecido en este Reglamento y en el formato que al respecto emita la Secretaría;
 
 VIII. La fecha de inicio de operaciones y la inversión estimada del proyecto;
 
@@ -713,7 +795,9 @@ g) Las operaciones previas al confinamiento de los residuos, así como el diagra
 
 VIII. Para el transporte de residuos sólidos se describirán los residuos y la forma en que se recolectarán y transportarán, así como los vehículos que se utilizarán.
 
-Cuando los residuos sólidos estén sujetos a un plan de manejo que haya sido notificado al Instituto, para prevenir su generación y maximizar su valorización a través de la reutilización, reciclado o co-procesamiento de los materiales valorizables contenidos en ellos fuera de las instalaciones en donde se generaron, los prestadores de servicios involucrados podrán prescindir de aportar la información referida en los incisos II y III de este artículo, presentando el número de registro del citado plan de manejo.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+Cuando los residuos sólidos estén sujetos a un plan de manejo que haya sido notificado a la Secretaría, para prevenir su generación y maximizar su valorización a través de la reutilización, reciclado o co-procesamiento de los materiales valorizables contenidos en ellos fuera de las instalaciones en donde se generaron, los prestadores de servicios involucrados podrán prescindir de aportar la información referida en las fracciones II y III de éste artículo, presentando el número de registro del citado plan de manejo.
 
 ###### ARTÍCULO 51.
 
@@ -787,23 +871,33 @@ p) La determinación de las poblaciones receptoras más vulnerables; y
 
 q) La determinación de las posibles consecuencias o efectos adversos a la salud humana y al medio ambiente de la exposición que puede derivar de la presencia de los contaminantes o componentes críticos.
 
-Cuando se trate de las autorizaciones a que se refiere la fracción III de este artículo, el Instituto solicitará opinión a los Servicios Coordinados de Salud respecto de la documentación a que se refieren los incisos p) y q). Ambas dependencias suscribirán las bases de colaboración necesarias para fijar la forma y los plazos en que se dará atención al trámite de dichas solicitudes.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+Cuando se trate de las autorizaciones a que se refiere la fracción III de este artículo, la Secretaría solicitará opinión a los Servicios de Salud de Zacatecas respecto de la documentación a que se refieren los incisos p) y q). Ambas dependencias suscribirán las bases de colaboración necesarias para fijar la forma y los plazos en que se dará atención al trámite de dichas solicitudes.
+
+> <small>(REFORMADO PROEMIO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 53.
 
-El Instituto resolverá las solicitudes de autorización conforme al siguiente procedimiento
+La Secretaría resolverá las solicitudes de autorización conforme al siguiente procedimiento:
 
-I. Revisará la solicitud y los documentos presentados y, en su caso, prevendrá por única ocasión al interesado dentro del primer tercio del plazo de respuesta de cada trámite para que complete la información faltante, la cual deberá presentarse dentro de un plazo similar, contados (sic) a partir de la fecha en que surta efectos la notificación;
+I. Revisará la solicitud y los documentos presentados y, en su caso, prevendrá por única ocasión al interesado dentro del primer tercio del plazo de respuesta de cada trámite para que complete la información faltante, la cual deberá presentarse dentro de un plazo similar, contados a partir de la fecha en que surta efectos la notificación;
 
 II. Transcurrido el plazo sin que se desahogue la prevención, se desechará el trámite; y
 
-III. Concluidos los plazos anteriores, el Instituto reanudará y deberá resolver en los términos del artículo siguiente.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-Cuando el Instituto requiera información adicional, el requerimiento interrumpirá el plazo de resolución correspondiente.
+III. Concluidos los plazos anteriores, la Secretaría reanudará y deberá resolver en los términos del artículo siguiente.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+Cuando la Secretaría requiera información adicional, el requerimiento interrumpirá el plazo de resolución correspondiente.
+
+> <small>(REFORMADO PROEMIO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 54.
 
-Los plazos de resolución para las autorizaciones, atendiendo a la actividad respecto de la cual se solicite autorización del Instituto, serán los siguientes:
+Los plazos de resolución para las autorizaciones, atendiendo a la actividad respecto de la cual se solicite autorización dela (sic) Secretaría, serán los siguientes:
 
 I. Para la instalación de almacenes temporales y centros de acopio, treinta días hábiles;
 
@@ -813,9 +907,11 @@ III. Para la incineración, co-procesamiento térmico y disposición final de re
 
 IV. Para las demás actividades de manejo, cuarenta y cinco días hábiles.
 
+> <small>(REFORMADO PROEMIO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 55.
 
-Las autorizaciones que expida el Instituto deberán contener lo siguiente:
+Las autorizaciones que expida la Secretaría deberán contener lo siguiente:
 
 I. Nombre, denominación o razón social y domicilio del titular;
 
@@ -835,11 +931,15 @@ VIII. Garantías que deban exhibirse y el monto de las mismas; y
 
 IX. Las condiciones técnicas específicas para el desarrollo de la actividad o la prestación del servicio autorizadas.
 
-El Instituto establecerá condiciones técnicas a partir de la evaluación de la información y documentación presentada en la solicitud.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+La Secretaría establecerá condiciones técnicas a partir de la evaluación de la información y documentación presentada en la solicitud.
+
+> <small>(REFORMADO PROEMIO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 56.
 
-En tanto no se expidan las normas oficiales mexicanas que regulen tecnologías o procesos de tratamiento, incineración, gasificación, plasma, termólisis u otros para los residuos sólidos, el Instituto podrá solicitar al prestador de servicio el proyecto ejecutivo y desarrollo de un protocolo de pruebas, siempre que:
+En tanto no se expidan las normas oficiales mexicanas que regulen tecnologías o procesos de tratamiento, incineración, gasificación, plasma, termólisis u otros para los residuos sólidos, la Secretaría podrá solicitar al prestador de servicio el proyecto ejecutivo y desarrollo de un protocolo de pruebas, siempre que:
 
 I. La tecnología o el proceso sea innovador y no exista experiencia al respecto;
 
@@ -847,7 +947,9 @@ II. Existan antecedentes de que la citada tecnología o proceso no es eficaz par
 
 III. Se pretenda realizar incineración u otros tratamientos térmicos de residuos.
 
-El protocolo de pruebas se realizará de acuerdo con lo establecido en la norma oficial mexicana correspondiente o al procedimiento que en su caso haya establecido la autoridad ambiental federal o el Instituto.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+El protocolo de pruebas se realizará de acuerdo con lo establecido en la norma oficial mexicana correspondiente o al procedimiento que en su caso haya establecido la autoridad ambiental federal o la Secretaría
 
 ###### ARTÍCULO 57.
 
@@ -873,23 +975,33 @@ III. No hayan variado los residuos sólidos por los que fue otorgada la autoriza
 
 IV. El solicitante sea el titular de la autorización.
 
-La solicitud de prórroga se presentará por escrito y el Instituto podrá verificar el cumplimiento dado por parte del solicitante a las condiciones y términos establecidos en la autorización originalmente otorgada, así como en la Ley, este Reglamento y las normas oficiales mexicanas y normas ambientales estatales aplicables, previamente a resolver sobre la solicitud de prórroga.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-El Instituto resolverá sobre el otorgamiento de la prórroga de autorización en un plazo no mayor de noventa días hábiles contados a partir de la fecha en que la solicitud respectiva se haya recibido, aún cuando no se haya realizado la visita de verificación señalada en el párrafo anterior.
+La solicitud de prórroga se presentará por escrito y la Secretaría podrá verificar el cumplimiento dado por parte del solicitante a las condiciones y términos establecidos en la autorización originalmente otorgada, así como en la Ley, este Reglamento y las normas oficiales mexicanas y normas ambientales estatales aplicables, previamente a resolver sobre la solicitud de prórroga.
 
-Transcurrido dicho plazo sin que el Instituto hubiere emitido resolución alguna, se entenderá autorizada la prórroga.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+La Secretaríaresolverá (sic) sobre el otorgamiento de la prorroga de autorización en un plazo no mayor de noventa días hábiles contados a partir de la fecha en que la solicitud respectiva se haya recibido, aún cuando no se haya realizado la visita de verificación señalada en el párrafo anterior.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+Transcurrido dicho plazo sin que la Secretaría hubiere emitido resolución alguna, se entenderá autorizada la prorroga.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 59.
 
-Los titulares de una autorización podrán solicitar al Instituto la modificación de dicha autorización, para lo cual deberán presentar una solicitud, mediante formato expedido por el Instituto, la cual contendrá el número de autorización, la modificación que solicita y las causas que motivan la modificación, anexando los documentos con los cuales se acrediten dichas causas.
+Los titulares de una autorización podrán solicitar a la Secretaría la modificación de dicha autorización, para lo cual deberán presentar una solicitud, mediante formato expedido por la Secretaría, la cual contendrá el número de autorización, la modificación que solicita y las causas que motivan la modificación, anexando los documentos con los cuales se acrediten dichas causas.
 
-El Instituto aprobará, en su caso, la modificación solicitada en apego a las disposiciones contenidas en este Reglamento para el otorgamiento de autorizaciones.
+La Secretaría aprobará, en su caso, la modificación solicitada en apego a las disposiciones contenidas en este Reglamento para el otorgamiento de autorizaciones.
 
-Cuando se trate de cambio de denominación o razón social bastará con que se dé aviso al Instituto, mismo que se formulará por escrito y al cual deberá acompañarse copia certificada del acta de asamblea general extraordinaria de los accionistas o de socios de la persona moral correspondiente, protocolizada ante fedatario público y en la cual se haya acordado y aprobado el cambio de denominación o razón social, así como el instrumento jurídico mediante el cual se acredita la personalidad del representante legal de la empresa a la que se ha cambiado la denominación o razón social.
+Cuando se trate de cambio de denominación o razón social bastará con que se dé aviso a la Secretaría, mismo que se formulará por escrito y al cual deberá acompañarse copia certificada del acta de asamblea general extraordinaria de los accionistas o de socios de la persona moral correspondiente, protocolizada ante fedatario público y en la cual se haya acordado y aprobado el cambio de denominación o razón social, así como el instrumento jurídico mediante el cual se acredita la personalidad del representante legal de la empresa a la que se ha cambiado la denominación o razón social.
+
+> <small>(REFORMADO PROEMIO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 60.
 
-El Instituto para otorgar la prórroga o autorizar la modificación tomará en consideración lo siguiente:
+La Secretaría para otorgar la prórroga o autorizar la modificación tomará en consideración lo siguiente:
 
 I. Que durante el desarrollo de la actividad autorizada no se generen residuos que representen un riesgo a la población, al ambiente o a los recursos naturales y que dicha actividad cumpla con las disposiciones técnicas y jurídicas ambientales aplicables;
 
@@ -897,31 +1009,41 @@ II. Que se cumplan las obligaciones establecidas por las disposiciones jurídica
 
 III. Que se haya cumplido con las condicionantes establecidas en la autorización, cuando se trate de prórrogas.
 
+> <small>(REFORMADO PROEMIO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 61.
 
-El Instituto suspenderá los efectos de las autorizaciones otorgadas cuando:
+La Secretaría suspenderá los efectos de las autorizaciones otorgadas cuando:
 
 I. Se falsifiquen documentos para acreditar el cumplimiento de condiciones establecidas en la autorización; y
 
 II. El documento original de la autorización o sus reproducciones presenten alteraciones o modificaciones en su contenido.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 62.
 
-Cuando el Instituto tenga conocimiento de alguna de las causas de revocación o suspensión señaladas en los artículos anteriores o en la Ley, iniciará el procedimiento administrativo correspondiente.
+Cuando la Secretaría tenga conocimiento de alguna de las causas de revocación o suspensión señaladas en los artículos anteriores o en la Ley, iniciará el procedimiento administrativo correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 63.
 
-El Instituto otorgará consentimiento para la transferencia de autorizaciones cuando ésta se solicite con motivo de actos traslativos de dominio de empresas o instalaciones, escisión o fusión de sociedades.
+La Secretaría otorgará consentimiento para la transferencia de autorizaciones cuando ésta se solicite con motivo de actos traslativos de dominio de empresas o instalaciones, escisión o fusión de sociedades.
 
 Para el caso de actos traslativos de dominio, en la solicitud correspondiente se deberá proporcionar el documento protocolizado ante fedatario público que contenga dichos actos, el instrumento público que acredite la personalidad jurídica de quien será el representante legal, así como su declaración bajo protesta de decir verdad de que subsisten las condiciones consideradas para el otorgamiento de la autorización que se pretenda transferir y de que el adquirente no se encuentre sujeto a procedimientos administrativos, civiles o penales derivados de la Ley.
 
-El Instituto emitirá el consentimiento expreso para la transferencia de la autorización en un plazo que no excederá de quince días hábiles a partir del día hábil siguiente al que se presente la solicitud. Si transcurrido dicho plazo no se emitiere respuesta alguna se entenderá negado el consentimiento.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+La Secretaría emitirá el consentimiento expreso para la transferencia de la autorización en un plazo que no excederá de quince días hábiles a partir del día hábil siguiente al que se presente la solicitud. Si transcurrido dicho plazo no se emitiere respuesta alguna se entenderá negado el consentimiento.
 
 ###### ARTÍCULO 64.
 
 Los centros de acopio de materiales valorizables provenientes de generadores domiciliarios o de pequeños generadores se clasifican en:
 
-I. Centros privados, operados por prestadores de servicios que se dedican a su comercialización o reciclado, los cuales requerirán autorización del Instituto en los términos de este ordenamiento y que deben acompañar su solicitud de autorización con los permisos de uso del suelo, con la licencia de construcción y de funcionamiento que en su caso hayan sido emitidos por las autoridades municipales;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+I. Centros privados, operados por prestadores de servicios que se dedican a su comercialización o reciclado, los cuales requerirán autorización de la Secretaría en los términos de este ordenamiento y que deben acompañar su solicitud de autorización con los permisos de uso del suelo, con la licencia de construcción y de funcionamiento que en su caso hayan sido emitidos por las autoridades municipales;
 
 II. Centros de acopio de carácter social, operados y/o establecidos en instituciones educativas, organizaciones de la sociedad civil o centros comerciales para recibir por donación los materiales o productos post consumo valorizables, los cuales deben registrarse ante las autoridades municipales correspondientes; y
 
@@ -937,11 +1059,13 @@ Tratándose de los centros de acopio sociales y públicos, la retención de los 
 
 ### CAPÍTULO III. DE LAS OBLIGACIONES DE LOS GENERADORES DE RESIDUOS
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 65.
 
-Los generadores de residuos sólidos urbanos, de manejo especial y de residuos peligrosos competencia del Estado, están obligados a entregarlos a los servicios públicos o privados autorizados a llevar a cabo su recolección y manejo integral, salvo que se trate de residuos sujetos a un plan de manejo notificando a el Instituto en el cual se sometan a intercambio, donación o valorización aprobado por ésta.
+Los generadores de residuos sólidos urbanos, de manejo especial y de residuos peligrosos competencia del Estado, están obligados a entregarlos a los servicios públicos o privados autorizados a llevar a cabo su recolección y manejo integral, salvo que se trate de residuos sujetos a un plan de manejo notificando a la Secretaría en el cual se sometan a intercambio, donación o valorización aprobado por ésta.
 
-Tratándose de generadores de residuos sólidos de la Categoría A establecida en este ordenamiento, éstos deberán presentar un informe anual a el Instituto en el formato que establezca para tal fin, sobre el volumen y tipo de residuos generados, así como sobre su forma de manejo o bien hacer uso de la Certificación Ambiental mediante la cual se reportan a el Instituto las emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, así como los materiales y residuos sujetos a reporte.
+Tratándose de generadores de residuos sólidos de la Categoría A establecida en este ordenamiento, éstos deberán presentar un informe anual a la Secretaría en el formato que establezca para tal fin, sobre el volumen y tipo de residuos generados, así como sobre su forma de manejo o bien hacer uso de la Certificación Ambiental mediante la cual se reportan a la Secretaría las emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, así como los materiales y residuos sujetos a reporte.
 
 ###### ARTÍCULO 66.
 
@@ -953,7 +1077,9 @@ II. Los residuos sanitarios como pañales, toallas sanitarias, pañuelos desecha
 
 III. Los residuos punzocortantes, incluyendo vidrios rotos, deberán colocarse en la medida de lo posible en contenedores rígidos como cajas de cartón para evitar heridas a quienes manipulen los residuos;
 
-IV. Las pilas eléctricas deberán acopiarse por separado, siguiendo las precauciones para evitar descargas eléctricas, y en los sitios autorizados por el Instituto para su reciclado o disposición final;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+IV. Las pilas eléctricas deberán acopiarse por separado, siguiendo las precauciones para evitar descargas eléctricas, y en los sitios autorizados por la Secretaría para su reciclado o disposición final;
 
 V. Los residuos peligrosos domésticos deberán manejarse de conformidad a lo que establezcan los servicios urbanos y las normas oficiales mexicanas y normas ambientales aplicables, o se indique en los planes de manejo implantados por productores, importadores o distribuidores para a (sic) devolución de productos que al desecharse se conviertan en este tipo de residuos; y
 
@@ -977,17 +1103,23 @@ III. Naranja, Para el resto de los residuos destinados a disposición final.
 
 La separación de los materiales valorizables no considerados en la fracción II del presente artículo, para su recolección selectiva secundaria por los servicios municipales de limpia, se sujetará a lo que las autoridades correspondientes establezcan.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 69.
 
-El manejo de los residuos de la construcción o demolición es responsabilidad de los generadores y de las empresas involucradas y deberá reducirse, reutilizarse, reciclarse o disponerse en sitios autorizados por el Instituto.
+El manejo de los residuos de la construcción o demolición es responsabilidad de los generadores y de las empresas involucradas y deberá reducirse, reutilizarse, reciclarse o disponerse en sitios autorizados por la Secretaría
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 70.
 
-Los generadores de residuos sólidos de la Categoría A prevista en este Reglamento deberán utilizar los manifiestos que establezca el Instituto para declarar los residuos sólidos que se entregan a los prestadores de servicio de transporte autorizados y que se llevan a un destino final autorizado para su tratamiento o disposición final ambientalmente adecuados.
+Los generadores de residuos sólidos de la Categoría A prevista en este Reglamento deberán utilizar los manifiestos que establezca la Secretaría para declarar los residuos sólidos que se entregan a los prestadores de servicio de transporte autorizados y que se llevan a un destino final autorizado para su tratamiento o disposición final ambientalmente adecuados.
 
 En caso de que el generador contratare los servicios de un tercero para el transporte de los residuos sólidos deberá entregar a éste dos copias autógrafas de las cuales una conservará el transportista y la restante será para el responsable del sitio de disposición final de los residuos.
 
-Los manifiestos a los que hace referencia deberán ser adquiridos por los generadores quienes los deberán conservar por lo menos durante dos años y utilizarse como base para integrar los informes que se presentarán al Instituto como lo dispone este Reglamento o, según corresponda, para obtener la Certificación Ambiental.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+Los manifiestos a los que hace referencia deberán ser adquiridos por los generadores quienes los deberán conservar por lo menos durante dos años y utilizarse como base para integrar los informes que se presentarán a la Secretaría como lo dispone este Reglamento o, según corresponda, para obtener la Certificación Ambiental.
 
 ### CAPÍTULO IV. DE LOS PLANES DE MANEJO INTEGRAL
 
@@ -1023,7 +1155,7 @@ b) Mixtos, los que instrumenten los señalados en el inciso anterior con la part
 
 II. Considerando la posibilidad de asociación de los sujetos obligados a su formulación y ejecución, podrán ser:
 
-a) Individuales, aquéllos en los cuales sólo un sujeto obligado establece en un único plan, el manejo integral que dará a uno, varios o todos los residuos que genere, e (sic)
+a) Individuales, aquéllos en los cuales sólo un sujeto obligado establece en un único plan, el manejo integral que dará a uno, varios o todos los residuos que genere, e
 
 b) Colectivos, aquéllos que determinan el manejo integral que se dará a uno o más residuos específicos y el cual puede elaborarse o aplicarse por varios sujetos obligados.
 
@@ -1037,11 +1169,13 @@ IV. Atendiendo a la corriente del residuo; y
 
 V. Atendiendo al tipo de producto en la fase post consumo que se retorne a la cadena comercializador distribuidor- importador o productor.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 73.
 
-Los planes de manejo se deben presentar ante el Instituto para su consideración; la obtención de su registro, la conformación y actualización de la base de datos del diagnóstico básico correspondiente y su supervisión periódica, tratándose de los relativos a los residuos sólidos urbanos de grandes generadores; de residuos de manejo especial de actividades productivas; y de productos en la fase post consumo que al desecharse se convierten en dichos residuos.
+Los planes de manejo se deben presentar ante la Secretaría para su consideración; la obtención de su registro, la conformación y actualización de la base de datos del diagnóstico básico correspondiente y su supervisión periódica, tratándose de los relativos a los residuos sólidos urbanos de grandes generadores; de residuos de manejo especial de actividades productivas; y de productos en la fase post consumo que al desecharse se convierten en dichos residuos.
 
-Los requisitos, el contenido y la periodicidad de la presentación de los planes de manejo se sujetarán a lo previsto en este ordenamiento, así como en el formato que establezca el Instituto para tal fin, y de acuerdo con lo que dispongan las normas oficiales mexicanas y demás instrumentos jurídicos aplicables.
+Los requisitos, el contenido y la periodicidad de la presentación de los planes de manejo se sujetarán a lo previsto en este ordenamiento, así como en el formato que establezca la Secretaría para tal fin, y de acuerdo con lo que dispongan las normas oficiales mexicanas y demás instrumentos jurídicos aplicables.
 
 ###### ARTÍCULO 74.
 
@@ -1059,7 +1193,9 @@ V. Las empresas de servicio de manejo integral de residuos en cualquiera de sus 
 
 VI. Los productores, importadores, distribuidores y comercializadores, de los productos, sus envases, empaques o embalajes que al desecharse se convierten en residuos sólidos que se incluyan en los listados de residuos sujetos a planes de manejo de conformidad con las normas oficiales mexicanas correspondientes.
 
-En la formulación y ejecución de los planes de manejo a los que hace referencia este artículo, se contará con la orientación del Instituto a fin de facilitar su implementación ambientalmente adecuada, económicamente viable y socialmente aceptable.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+En la formulación y ejecución de los planes de manejo a los que hace referencia este artículo, se contará con la orientación de la Secretaría a fin de facilitar su implementación ambientalmente adecuada, económicamente viable y socialmente aceptable.
 
 En caso de que el plan de manejo sea contrario a los fines previstos en la Ley y en este ordenamiento deberá suspenderse y, de ser necesario, adoptarse las medidas para mitigar el daño al ambiente y la salud que hayan derivado de su aplicación.
 
@@ -1091,9 +1227,11 @@ II. Definición de responsabilidades diferenciadas de cada uno de los eslabones 
 
 III. Prácticas de consumo de materiales y de diseño y fabricación de productos, envases, empaques o embalajes, que faciliten su recuperación y valorización en su fase post consumo, de manera ambientalmente adecuada, económicamente viable, tecnológicamente factible y socialmente aceptable.
 
+> <small>(REFORMADO PROEMIO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 77.
 
-El Instituto puede convocar conjuntamente con los Ayuntamientos y de manera gradual a los productores, importadores, distribuidores y comercializadores de productos de consumo y envases y embalajes que al desecharse se conviertan en residuos sólidos urbanos o de manejo especial, susceptibles de ser objeto de planes de manejo para su devolución por parte de los consumidores, de conformidad con las disposiciones de la Ley General de Residuos y su Reglamento, la Ley y este ordenamiento a fin de:
+La Secretaría puede convocar conjuntamente con los Ayuntamientos y de manera gradual a los productores, importadores, distribuidores y comercializadores de productos de consumo y envases y embalajes que al desecharse se conviertan en residuos sólidos urbanos o de manejo especial, susceptibles de ser objeto de planes de manejo para su devolución por parte de los consumidores, de conformidad con las disposiciones de la Ley General de Residuos y su Reglamento, la Ley y este ordenamiento a fin de:
 
 I. Dar a conocer los que son prioritarios para su atención por el grado de dificultad que implica el manejo de los residuos que derivan de ellos o los problemas ambientales que se han visto asociados a las formas de disposición final comunes de los mismos;
 
@@ -1109,9 +1247,11 @@ V. Identificar las necesidades de infraestructura para el manejo integral de los
 
 VI. Identificar las necesidades a satisfacer para crear o fortalecer los mercados del reciclaje de los materiales valorizables que puedan recuperarse de los productos sujetos a los planes de manejo.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 78.
 
-Las personas físicas o morales y los ciudadanos en general, que así lo deseen y no estén obligados por este Reglamento, podrán formular y ejecutar planes de manejo tendientes a minimizar y dar un manejo ambientalmente adecuado a sus residuos, para lo cual pueden solicitar la orientación y asistencia técnica del Instituto.
+Las personas físicas o morales y los ciudadanos en general, que así lo deseen y no estén obligados por este Reglamento, podrán formular y ejecutar planes de manejo tendientes a minimizar y dar un manejo ambientalmente adecuado a sus residuos, para lo cual pueden solicitar la orientación y asistencia técnica de la Secretaría.
 
 ###### ARTÍCULO 79.
 
@@ -1125,15 +1265,21 @@ III. Los mecanismos para que otros sujetos obligados puedan incorporarse a los p
 
 IV. Los mecanismos de evaluación y mejora del plan de manejo.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 80.
 
-Para la valorización o aprovechamiento de los materiales contenidos en los residuos mediante un plan de manejo colectivo, se podrá transmitir la propiedad de los mismos a título oneroso o gratuito para ser reutilizados, para usarse como insumo o materia prima de otro proceso productivo, para convertirlos en composta o para generar energía, y podrán considerarse como subproductos cuando la transmisión de la propiedad esté documentada e incluida en el plan de manejo que se presente a el Instituto.
+Para la valorización o aprovechamiento de los materiales contenidos en los residuos mediante un plan de manejo colectivo, se podrá transmitir la propiedad de los mismos a titulo oneroso o gratuito para ser reutilizados, para usarse corno insumo o materia prima de otro proceso productivo, para convertirlos en composta o para generar energía, y podrán considerarse como subproductos cuando la transmisión de la propiedad esté documentada e incluida en el plan de manejo que se presente a la Secretaría.
+
+> <small>(REFORMADO PROEMIO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 81.
 
-Los sujetos obligados a presentar un plan de manejo ante el Instituto, aplicarán el siguiente procedimiento:
+Los sujetos obligados a presentar un plan de manejo ante la Secretaría, aplicarán el siguiente procedimiento:
 
-I. Solicitarán al Instituto, la difusión a través del sistema electrónico establecido para este efecto, de la siguiente información:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+I. Solicitarán a la Secretaría, la difusión a través del sistema electrónico establecido para este efecto, de la siguiente información:
 
 a) Nombre, denominación o razón social del solicitante, domicilio, giro o actividad preponderante, nombre de su representante legal;
 
@@ -1155,29 +1301,41 @@ b) Documento que contenga el plan de manejo; y
 
 c) Instrumentos que hubieren celebrado con las partes que intervienen en el plan de manejo colectivo, cuando sea el caso.
 
-IV. Una vez que se incorporen los datos, el Instituto automáticamente, por el mismo sistema, emitirá un acuse de recibo del plan de manejo correspondiente.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-En caso de que para el interesado no fuere posible anexar electrónicamente los documentos señalados en la fracción II del presente artículo, presentará copia de los mismos en las oficinas del Instituto y realizará la incorporación de la información señalada en la fracción I directamente en la Dependencia.
+IV. Una vez que se incorporen los datos, la Secretaría automáticamente, por el mismo sistema, emitirá un acuse de recibo del plan de manejo correspondiente.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+En caso de que para el interesado no fuere posible anexar electrónicamente los documentos señalados en la fracción II del presente artículo, presentará copia de los mismos en las oficinas de la Secretaría y realizará la incorporación de la información señalada en la fracción I directamente en la Dependencia.
 
 El procedimiento previsto en el presente artículo aplicará también cuando los interesados pretendan modificar un plan de manejo registrado.
 
 En este caso, será necesario que indiquen solamente el número de registro que les fue asignado con anterioridad.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 82.
 
-Para emitir el visto bueno a un plan de manejo, el Instituto lo sujetará a un proceso de evaluación cuya duración será de treinta días y al término del cual el Instituto otorgará el número de registro o podrá realizar observaciones y recomendaciones a las modalidades de manejo previstas en el plan, en cuyo caso el generador deberá incorporar en su informe anual la forma en que las atendió.
+Para emitir el visto bueno a un plan de manejo, la Secretaría lo sujetará a un proceso de evaluación cuya duración será de treinta días y al término del cual la Secretaría otorgará el número de registro o podrá realizar observaciones y recomendaciones a las modalidades de manejo previstas en el plan, en cuyo caso el generador deberá incorporar en su informe anual la forma en que las atendió.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 83.
 
-Las dependencias gubernamentales que desarrollen planes de manejo de residuos sólidos urbanos deberán notificarlo al Instituto para su registro y consideración.
+Las dependencias gubernamentales que desarrollen planes de manejo de residuos sólidos urbanos deberán notificarlo a la Secretaría para su registro y consideración.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 84.
 
-El Instituto puede revocar el registro, si las acciones establecidas en el plan de manejo son simuladas o contrarias a lo previsto en este ordenamiento, las normas oficiales mexicanas y a la normatividad estatal.
+La Secretaría puede revocar el registro, si las acciones establecidas en el plan de manejo son simuladas o contrarias a lo previsto en este ordenamiento, las normas oficiales mexicanas y a la normatividad estatal.
+
+> <small>(REFORMADO PROEMIO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 85.
 
-El Instituto podrá promover y suscribir convenios, en forma individual o colectiva, con el sector privado, las autoridades municipales, con otras dependencias estatales y con entidades federales, para el logro de los objetivos de los planes de manejo, así como para:
+La Secretaría podrá promover y suscribir convenios, en forma individual o colectiva, con el sector privado, las autoridades municipales, con otras dependencias estatales y con entidades federales, para el logro de los objetivos de los planes de manejo, así como para:
 
 I. Promover planes de manejo de aplicación regional o nacional;
 
@@ -1191,9 +1349,11 @@ V. Incentivar el desarrollo de tecnologías que sean económica, ambiental y soc
 
 ### CAPÍTULO V. DE LOS SISTEMAS DE MANEJO AMBIENTAL
 
+> <small>(REFORMADO PROEMIO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 86.
 
-El Instituto y los Municipios, podrán convenir con las dependencias gubernamentales respecto de:
+La Secretaría y los Municipios, podrán convenir con las dependencias gubernamentales respecto de:
 
 I. El establecimiento de un registro por dependencia, en el cual queden registradas las unidades responsables para la implementación de los Sistemas de Manejo Ambiental;
 
@@ -1215,9 +1375,11 @@ IV. Tengan un alto potencial de reciclaje; y
 
 V. Estén sujetos a planes de manejo para su devolución al productor, importador, distribuidor o comercializador en su fase post consumo.
 
+> <small>(REFORMADO PROEMIO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 88.
 
-Los obligados a implementar Sistemas de Manejo Ambiental notificarán al Instituto la ejecución de dichos sistemas y le proporcionarán:
+Los obligados a implementar Sistemas de Manejo Ambiental notificarán a la Secretaría la ejecución de dichos sistemas y le proporcionarán:
 
 I. El nombre de la dependencia gubernamental que implementará el Sistema;
 
@@ -1233,13 +1395,17 @@ VI. Un cronograma en el que enuncien las principales actividades y fechas de imp
 
 VII. Los indicadores que utilizarán para evaluar el desempeño de los sistemas de manejo ambiental, implementados por la dependencia.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 89.
 
-El Instituto y los Municipios registrarán los Sistemas de Manejo Ambiental y difundirán los resultados alcanzados.
+La Secretaría y los Municipios registrarán los Sistemas de Manejo Ambiental y difundirán los resultados alcanzados.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 90.
 
-Los obligados a implementar Sistemas de Manejo Ambiental deberán presentar al Instituto un informe cada tres años, donde manifiesten sus avances.
+Los obligados a implementar Sistemas de Manejo Ambiental deberán presentar a la Secretaría un informe cada tres años, donde manifiesten sus avances.
 
 ### CAPÍTULO VI. DE LAS FORMAS DE MANEJO DE RESIDUOS SÓLIDOS
 
@@ -1341,15 +1507,19 @@ II. El transportista conservará una de las copias que le entregue el generador,
 
 III. El destinatario de los residuos sólidos conservará la copia del manifiesto que le entregue el transportista, para su archivo, y firmará el original, mismo que deberá remitir de inmediato al generador; y
 
-IV. Si transcurrido un plazo de sesenta días naturales, contados a partir de la fecha en que la empresa de servicios de manejo correspondiente reciba los residuos sólidos para su transporte, no devuelve al generador el original del manifiesto debidamente firmado por el destinatario, el generador deberá informar a el Instituto de este hecho a efecto de que dicha dependencia determine las medidas que procedan.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+IV. Si transcurrido un plazo de sesenta días naturales, contados a partir de la fecha en que la empresa de servicios de manejo correspondiente reciba los residuos sólidos para su transporte, no devuelve al generador el original del manifiesto debidamente firmado por el destinatario, el generador deberá informar a la Secretaría de este hecho a efecto de que dicha dependencia determine las medidas que procedan.
 
 ###### ARTÍCULO 96.
 
 Los generadores podrán organizarse entre sí para implementar sistemas de recolección y transporte cuando se trate de residuos de manejo especial.
 
+> <small>(REFORMADO PROEMIO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 97.
 
-Para el caso de traslado de residuos sólidos desde o hacia la entidad, se deberá presentar ante el Instituto una solicitud de autorización, en el formato que expida esta dependencia, dicha solicitud deberá contener como mínimo:
+Para el caso de traslado de residuos sólidos desde o hacia la entidad, se deberá presentar ante la Secretaría una solicitud de autorización, en el formato que expida esta dependencia, dicha solicitud deberá contener como mínimo:
 
 I. Nombre y domicilio del responsable del traslado;
 
@@ -1369,17 +1539,23 @@ III. Tarjeta de circulación del vehículo empleado; y
 
 IV. Listado que contenga el nombre y domicilio de los generadores a que brindan el servicio.
 
-Los documentos señalados en las fracciones I, II y III, del presente artículo se presentarán en original y copia simple para su cotejo. En caso de que el servicio sea proporcionado por el Ayuntamiento se eximirá de la presentación del documento señalado en la fracción IV. El Instituto resolverá la solicitud dentro de los treinta días naturales siguientes a la fecha de su recepción.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+Los documentos señalados en las fracciones I, II y III, del presente artículo se presentarán en original y copia simple para su cotejo. En caso de que el servicio sea proporcionado por el Ayuntamiento se eximirá de la presentación del documento señalado en la fracción IV. La Secretaría resolverá la solicitud dentro de los treinta días naturales siguientes a la fecha de su recepción.
+
+> <small>(REFORMADO PROEMIO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 99.
 
-El Instituto resolverá las solicitudes de autorización conforme al siguiente procedimiento:
+La Secretaría resolverá las solicitudes de autorización conforme al siguiente procedimiento:
 
 I. La autoridad revisará la solicitud y los documentos presentados y, en su caso, prevendrá por única ocasión al interesado dentro de los diez primeros días del plazo de respuesta de cada trámite para que complete la información faltante, la cual deberá presentarse dentro de un plazo similar, contados a partir de la fecha en que surta efectos la notificación;
 
 II. Transcurrido el plazo sin que se desahogue la prevención, se desechará el trámite; y
 
-III. Concluidos los plazos anteriores, el Instituto reanudará y deberá resolver sobre la expedición de la autorización, la cual en todo caso estará sujeta a la supervisión e informes que solicite el Instituto.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+III. Concluidos los plazos anteriores, la Secretaría reanudará y deberá resolver sobre la expedición de la autorización, la cual en todo caso estará sujeta a la supervisión e informes que solicite la Secretaría.
 
 #### SECCIÓN IV. REUTILIZACIÓN, RECICLAJE Y COPROCESAMIENTO
 
@@ -1439,7 +1615,9 @@ I. Por las instalaciones en donde se realiza el confinamiento en:
 
 a) Públicos, cuando son propiedad de cualquier ente público y responsabilidad de las autoridades municipales o en su caso del concesionario garante de prestar el servicio; y
 
-b) Privados, cuando son propiedad de cualquier persona física o moral, y responsabilidad de las autoridades municipales o del Instituto;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+b) Privados, cuando son propiedad de cualquier persona física o moral, y responsabilidad de las autoridades municipales o de la Secretaría;
 
 II. Por sus celdas en:
 
@@ -1449,9 +1627,11 @@ b) Semi húmedos, los que reciben residuos con cantidades restringidas de residu
 
 c) Secos, los que reciben únicamente residuos sólidos secos.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 106.
 
-El Instituto determinará en la autorización respectiva, de conformidad con las especificaciones establecidas en su caso en la norma oficial mexicana aplicable y en los resultados del estudio de vulnerabilidad que presenten los promoventes, las distancias mínimas aceptables de las instalaciones o celdas de disposición final de residuos de manejo sólidos a los cuerpos de aquél.
+La Secretaría determinará en la autorización respectiva, de conformidad con las especificaciones establecidas en su caso en la norma oficial mexicana aplicable y en los resultados del estudio de vulnerabilidad que presenten los promoventes, las distancias mínimas aceptables de las instalaciones o celdas de disposición final de residuos de manejo sólidos a los cuerpos de agua.
 
 ###### ARTÍCULO 107.
 
@@ -1549,9 +1729,11 @@ XII. Durante la operación de las celdas de confinamiento es necesario aislar el
 
 ### CAPÍTULO VII. DEL INVENTARIO Y ADMINISTRACIÓN DE LOS SITIOS CONTAMINADOS
 
+> <small>(REFORMADO PROEMIO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 112.
 
-El Instituto elaborará y mantendrá actualizado el inventario de sitios contaminados por residuos sólidos, que contendrá al menos los datos siguientes:
+La Secretaría elaborará y mantendrá actualizado el inventario de sitios contaminados por residuos sólidos, que contendrá al menos los datos siguientes:
 
 I. Mapas de uso del suelo y localizaciones de los sitios contaminados o potencialmente contaminados
 
@@ -1569,9 +1751,11 @@ VII. Localización de cuerpos de agua o captación de aguas superficiales; y
 
 VIII. Información relacionada a posibles daños a la salud derivados de la contaminación que presente en el sitio.
 
+> <small>(REFORMADO PROEMIO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 113.
 
-El Instituto formulará un programa de administración de sitios contaminados, en el que:
+La Secretaría formulará un programa de administración de sitios contaminados, en el que:
 
 I. Definirá las regiones de interés y los bienes a proteger, en función de su vulnerabilidad;
 
@@ -1595,13 +1779,17 @@ II. La evaluación de riesgos a la salud y al ambiente que pudieran derivar de l
 
 III. La investigación de los métodos o técnicas ambientalmente adecuadas para remediar sitios contaminados; y
 
-IV. La elaboración y ejecución del proyecto para remediar sitios contaminados, una vez que este sea aprobado por el Instituto.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+IV. La elaboración y ejecución del proyecto para remediar sitios contaminados, una vez que este sea aprobado por la Secretaría.
 
 ### CAPÍTULO VIII. DE LA INSPECCIÓN, VERIFICACIÓN Y VIGILANCIA
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 115.
 
-El Instituto y los Ayuntamientos en el ámbito de su competencia, podrán realizar actos de inspección, verificación y vigilancia, mismas que podrán ser ordinarias y extraordinarias, las primeras se efectuarán en días y horas hábiles, las segundas en cualquier momento.
+La Secretaría y los Ayuntamientos en el ámbito de su competencia, podrán realizar actos de inspección, verificación y vigilancia, mismas que podrán ser ordinarias y extraordinarias, las primeras se efectuarán en días y horas hábiles, las segundas en cualquier momento.
 
 ###### ARTÍCULO 116.
 
@@ -1702,3 +1890,13 @@ SECRETARIO GENERAL DE GOBIERNO
 M. C. JULIO CESAR NAVA DE LA RIVA
 
 DIRECTOR GENERAL DEL INSTITUTO DE ECOLOGÍA Y MEDIO AMBIENTE DEL ESTADO DE ZACATECAS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano de Gobierno del Estado.
+
+Segundo. Se deroga el Reglamento de la Ley de Becas, Estímulos Educativos y Apoyos Financieros del Estado de Zacatecas publicado en el Periódico Oficial Órgano del Gobierno del Estado, Número 91, en fecha 12 de noviembre del 2011 y se derogan todas las disposiciones que contravengan el presente Decreto.
+
+Tercero: Se deroga el Reglamento de la Ley de Fomento para el Desarrollo Económico del Estado de Zacatecas, publicado en el Periódico Oficial, Órgano del Gobierno del Estado, en fecha 26 de marzo del año 2011.
