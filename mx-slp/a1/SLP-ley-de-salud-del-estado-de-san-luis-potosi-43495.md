@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2014-10-28"
+last_updated: "2014-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -1417,11 +1417,15 @@ III. Observar y recomendar, en coordinación con la Secretaría de Educación, q
 
 > <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2014)</small>
 
-IV. Promover investigaciones químicas, biológicas, sociales y económicas, encaminadas a conocer las condiciones de nutrición que prevalecen en la población; y establecer las necesidades mínimas de nutrimentos para el mantenimiento de las buenas condiciones de salud de la población, y
+IV. Promover investigaciones químicas, biológicas, sociales y económicas, encaminadas a conocer las condiciones de nutrición que prevalecen en la población; y establecer las necesidades mínimas de nutrimentos para el mantenimiento de las buenas condiciones de salud de la población,
 
-> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2008)</small>
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2008 Y REFORMADA P.O. 2 DE DICIEMBRE DE 2014)</small>
 
-V. Recomendar las dietas y los procedimientos que conduzcan al consumo efectivo de los mínimos de nutrimientos (sic) por la población en general.
+V. Recomendar las dietas y los procedimientos que conduzcan al consumo efectivo de los mínimos de nutrimientos (sic) por la población en general, y
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2014)</small>
+
+VI. Diseñar un sistema de seguimiento y evaluación de la asistencia alimentaria que proporcionan en todas sus modalidades, los sistemas municipales para el Desarrollo Integral de la familia, con el objetivo de verificar la correcta implementación de los mismos para la erradicación de la desnutrición y de la obesidad; así como, capacitar en materia de nutrición al personal de los sistemas municipales que lo soliciten.
 
 > <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
@@ -3926,6 +3930,12 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 P.O. 28 DE OCTUBRE DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 2 DE DICIEMBRE DE 2014.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
