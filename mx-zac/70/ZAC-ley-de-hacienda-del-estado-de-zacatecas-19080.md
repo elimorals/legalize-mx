@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-hacienda-del-estado-de-zacatecas-19080"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2014-06-21"
+last_updated: "2014-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE HACIENDA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el sábado 30 de diciembre del 2000.
 
@@ -2141,7 +2141,7 @@ Los conceptos no considerados en el presente artículo se tasarán de acuerdo co
 
 Del ingreso percibido por concepto de servicios catastrales, un 5% será destinado a la modernización integral de la administración hacendaria estatal, conforme al contrato de fideicomiso que para tal efecto se suscriba.
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+(DEROGADO ÚLTIMO PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2013) (REPUBLICADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NO. 220, P.O. 3 DE DICIEMBRE DE 2014)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
@@ -2431,7 +2431,7 @@ XVII. Cancelación de inscripción o anotación: 2 cuotas, y
 
 XVIII. Registro de instrumentos notariales celebrados ante fedatarios públicos de otras Entidades Federativas, con consecuencias jurídicas en el Estado, adicionalmente al monto de derechos que cause el acto: 30 cuotas.
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+(DEROGADO ÚLTIMO PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2013) (REPUBLICADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NO. 220, P.O. 3 DE DICIEMBRE DE 2014)
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
@@ -2685,7 +2685,7 @@ VI. Costo por inscripción a cada licitación de obra. 45 cuotas;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
-VII. Costo por inscripción a licitaciones de suministros, servicios y arrendamientos. 32 cuotas; (sic)
+VII. Costo por inscripción a licitaciones de suministros, servicios y arrendamientos. 32 cuotas;
 
 ###### ARTICULO 60.
 
@@ -3906,3 +3906,13 @@ P.O. 21 DE JUNIO DE 2014.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Segundo. Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 3 DE DICIEMBRE DE 2014.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Dentro de los 60 días siguientes a la entrada en vigor del presente Decreto, se deberán modificar las disposiciones internas que rigen el organismo, a efecto de adecuarse a la presente reforma.
+
+Tercero.- Se abroga el Decreto 605, por el que se reforman diversos ordenamientos legales para dar vigencia al Organismo Regularizador de la Tenencia de la Tierra en Zacatecas, publicado en Suplemento 2 al No. 40 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 18 de mayo de 2013. Y se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Cuarto.- Los procedimientos de regularización que hayan sido instaurados previo a la publicación de la presente reforma, se desahogarán y resolverán de conformidad con la Ley de Fraccionamientos Rurales, sin ordenarse la expedición del título, por lo que al momento de certificar la zona a la que pertenezca el inmueble e inicie el proceso de obtención del dominio pleno, el acuerdo de adjudicación servirá para acreditar el derecho que le asiste al interesado. Por tanto se remitirá el acuerdo al Organismo Regularizador de la Tenencia de la Tierra para que expida la escritura privada correspondiente.
