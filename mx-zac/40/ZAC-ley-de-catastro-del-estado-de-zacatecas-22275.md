@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-catastro-del-estado-de-zacatecas-22275"
 country: "mx"
 rank: "ley"
 publication_date: "1988-01-06"
-last_updated: "2013-05-18"
+last_updated: "2014-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22275&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE CATASTRO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 6 de enero de 1988.
 
@@ -459,7 +459,7 @@ III. Cuando un terreno sea fraccionado o subdividido;
 
 IV. Cuando se relotifiquen los lotes de un fraccionamiento;
 
-V. Cuando se fusionen inmuebles; y (sic)
+V. Cuando se fusionen inmuebles; y
 
 VI. Cuando se dividan terrenos por la apertura de calles o la realización de otras obras públicas;
 
@@ -501,79 +501,45 @@ Cuando por causas imputables al propietario o poseedor de un inmueble no se pued
 
 Los trabajos de deslinde catastral o de rectificación o aclaración de linderos, deberán hacerse por personal autorizado, en presencia de los propietarios legítimos o poseedores del inmueble o de sus representantes legales, asistiendo además los propietarios o poseedores de los inmuebles colindantes, quienes serán notificados previamente.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 2013)</small>
+(ABROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NO. 220, P.O. 3 DE DICIEMBRE DE 2014)
 
 ### CAPÍTULO QUINTO BIS. DE LOS PROGRAMAS DE REGULARIZACIÓN
 
-> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2013)</small>
-
-Artículo 38 Bis (sic).- Las disposiciones contenidas en el presente capitulo sólo se aplicarán en la valuación y revaluación de los bienes inmuebles sujetos a los programas de regularización que implemente el Organismo Regularizador de la Tenencia de la Tierra en Zacatecas, siempre y cuando sea la primera inscripción en el catastro o en el Registro Público de la Propiedad y del Comercio.
-
-> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2013)</small>
+Artículo 38 Bis (sic).- (ABROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NO. 220, P.O. 3 DE DICIEMBRE DE 2014)
 
 ###### Artículo 38 Ter.
 
-Para determinar el valor catastral de cada uno de los bienes inmuebles, se aplicarán los valores unitarios de suelo de acuerdo al sector catastral en que se encuentran situados.
-
-En caso de inmuebles, situados en sectores catastrales para los que no se hayan fijado valores unitarios o que los existentes ya no sean aplicables, la Secretaria de Finanzas a través de la Dirección de Catastro y Registro Público y los Ayuntamientos por conducto del Presidente Municipal, podrán fijar provisionalmente valores unitarios con base en los fijados para sectores similares. La medida provisional durará por el año calendario correspondiente.
-
-> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2013)</small>
+(ABROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NO. 220, P.O. 3 DE DICIEMBRE DE 2014)
 
 ###### Artículo 38 Quáter.
 
-Para la valuación de cada terreno deberá multiplicarse el valor unitario del suelo aplicable al sector catastral donde se ubique, por la superficie de terreno y por los factores de mérito o demérito que correspondan a su ubicación, forma y topografía.
-
-> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2013)</small>
+(ABROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NO. 220, P.O. 3 DE DICIEMBRE DE 2014)
 
 ###### Artículo 38 Quinquies.
 
-El valor catastral que se determine para cada inmueble será el que se obtenga de los valores del terreno.
-
-> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2013)</small>
+(ABROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NO. 220, P.O. 3 DE DICIEMBRE DE 2014)
 
 ###### Artículo 38 Sexies.
 
-La valuación y la revaluación catastral de inmuebles será realizada, en su caso, de acuerdo a los datos proporcionados por el Organismo Regularizador de la Tenencia de la Tierra en Zacatecas, en la solicitud de inscripción o de actualización al padrón catastral.
-
-En todos los casos, la autoridad catastral podrá realizar las visitas o estudios técnicos de campo que sean necesarios para constatar la veracidad de los datos proporcionados.
-
-> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2013)</small>
+(ABROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NO. 220, P.O. 3 DE DICIEMBRE DE 2014)
 
 ###### Artículo 38 Septies.
 
-Los propietarios y poseedores de un inmueble, tienen la obligación de proporcionar a la autoridad catastral los datos e informes que les sean solicitados acerca de dicho bien inmueble; de permitir el acceso al personal y prestar toda clase de facilidades para la realización de los trabajos catastrales.
-
-> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2013)</small>
+(ABROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NO. 220, P.O. 3 DE DICIEMBRE DE 2014)
 
 ###### Artículo 38 Octies.
 
-La valuación catastral de inmuebles ubicados en el territorio del Estado, se llevará a cabo cuando un bien inmueble se inscriba por primera vez en el padrón catastral o se inscriban en el Registro Público de la Propiedad y del Comercio.
-
-> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2013)</small>
+(ABROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NO. 220, P.O. 3 DE DICIEMBRE DE 2014)
 
 ###### Artículo 38 Nonies.
 
-La revaluación de inmuebles se llevará a cabo en los casos siguientes:
-
-I. Cuando venza la vigencia del valor catastral;
-
-II. Cuando se realice alguna modificación en las características del terreno;
-
-III. Cuando el sector catastral en donde se encuentre ubicado el inmueble cambie en sus características y calidad de uso, densidad, infraestructura o servicios que afecten notoriamente el valor unitario que previamente se le haya aprobado;
-
-IV. Cuando el bien inmueble sufra un cambio físico que altere notoriamente su valor, y
-
-V. Cuando se tengan valores unitarios aprobados para el sector catastral y el bien inmueble haya sido valuado aplicando valores unitarios provisionales.
-
-> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2013)</small>
+(ABROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NO. 220, P.O. 3 DE DICIEMBRE DE 2014)
 
 ###### Artículo 38 Decies.
 
-La valuación y revaluación catastral se sujetarán a lo dispuesto por esta Ley y a las normas, procedimientos técnicos y administrativos que establezca la autoridad catastral.
+(ABROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NO. 220, P.O. 3 DE DICIEMBRE DE 2014)
 
-> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2013)</small>
-
-Artículo 38 Undecies.- Cuando por causas imputables al propietario o poseedor de un inmueble no se puedan realizar en el campo los trabajos catastrales que resulten necesarios para determinar o verificar las características del inmueble respectivo, o determinar el valor catastral correspondiente, la autoridad catastral valuará o revaluará el bien inmueble con base en los elementos de que disponga, sin perjuicio de que se imponga al infractor, las sanciones que resulten procedentes.
+Artículo 38 Undecies.- (ABROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NO. 220, P.O. 3 DE DICIEMBRE DE 2014)
 
 ### CAPITULO SEXTO. DE LA ACLARACION Y DE LOS RECURSOS
 
@@ -678,3 +644,13 @@ P.O. 18 DE MAYO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE DICIEMBRE DE 2014.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Dentro de los 60 días siguientes a la entrada en vigor del presente Decreto, se deberán modificar las disposiciones internas que rigen el organismo, a efecto de adecuarse a la presente reforma.
+
+Tercero.- Se abroga el Decreto 605, por el que se reforman diversos ordenamientos legales para dar vigencia al Organismo Regularizador de la Tenencia de la Tierra en Zacatecas, publicado en Suplemento 2 al No. 40 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 18 de mayo de 2013. Y se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Cuarto.- Los procedimientos de regularización que hayan sido instaurados previo a la publicación de la presente reforma, se desahogarán y resolverán de conformidad con la Ley de Fraccionamientos Rurales, sin ordenarse la expedición del título, por lo que al momento de certificar la zona a la que pertenezca el inmueble e inicie el proceso de obtención del dominio pleno, el acuerdo de adjudicación servirá para acreditar el derecho que le asiste al interesado. Por tanto se remitirá el acuerdo al Organismo Regularizador de la Tenencia de la Tierra para que expida la escritura privada correspondiente.
