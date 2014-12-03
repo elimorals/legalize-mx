@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-patrimonio-del-estado-y-municipios-22279"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-18"
-last_updated: "2013-05-18"
+last_updated: "2014-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22279&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL PATRIMONIO DEL ESTADO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 18 de agosto de 2001.
 
@@ -69,15 +69,19 @@ LEY DEL PATRIMONIO DEL ESTADO Y MUNICIPIOS
 
 La presente ley es de orden público y de observancia general en el Estado de Zacatecas; tiene por objeto regular el patrimonio del Estado, municipios y sus respectivos organismos paraestatales y paramunicipales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 2.
 
-La regulación a que se refiere el artículo anterior comprende tanto los bienes muebles como los bienes inmuebles que conformen sus respectivos patrimonios, excepción hecha a los bienes inmuebles sujetos al régimen de fraccionamientos rurales, los que se regirán por su propia ley.
+La regulación a que se refiere el artículo anterior comprende tanto los bienes muebles como los bienes inmuebles que conformen sus respectivos patrimonios. En tratándose de los bienes sujetos al régimen de fraccionamientos rurales, se estará a lo que establece la propia Ley de Fraccionamientos Rurales para el Estado de Zacatecas.
 
 El patrimonio público se considera para los efectos de esta ley como inalienable, imprescriptible e inembargable; no podrá imponérsele ningún tipo de servidumbre; emplearse ninguna vía de apremio, dictarse mandamiento de ejecución ni hacerse efectivas por ejecución forzosa las sentencias dictadas en contra de los bienes que lo constituyen.
 
 Ningún particular podrá llegar a adquirir los bienes que lo conforman, por el hecho de tenerlos en su posesión por un tiempo determinado, salvo lo que se disponga en este mismo ordenamiento legal.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
+
+Cuando se trate de inmuebles sobre los que se implementen programas de vivienda, el Poder Ejecutivo del Estado podrá titularlos en favor de los beneficiarios, exceptuando las disposiciones que prevé la presente Ley.
 
 ###### Artículo 3.
 
@@ -658,3 +662,13 @@ P.O. 18 DE MAYO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE DICIEMBRE DE 2014.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Dentro de los 60 días siguientes a la entrada en vigor del presente Decreto, se deberán modificar las disposiciones internas que rigen el organismo, a efecto de adecuarse a la presente reforma.
+
+Tercero.- Se abroga el Decreto 605, por el que se reforman diversos ordenamientos legales para dar vigencia al Organismo Regularizador de la Tenencia de la Tierra en Zacatecas, publicado en Suplemento 2 al No. 40 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 18 de mayo de 2013. Y se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Cuarto.- Los procedimientos de regularización que hayan sido instaurados previo a la publicación de la presente reforma, se desahogarán y resolverán de conformidad con la Ley de Fraccionamientos Rurales, sin ordenarse la expedición del título, por lo que al momento de certificar la zona a la que pertenezca el inmueble e inicie el proceso de obtención del dominio pleno, el acuerdo de adjudicación servirá para acreditar el derecho que le asiste al interesado. Por tanto se remitirá el acuerdo al Organismo Regularizador de la Tenencia de la Tierra para que expida la escritura privada correspondiente.
