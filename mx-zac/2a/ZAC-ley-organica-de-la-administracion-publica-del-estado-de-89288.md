@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-de-la-administracion-publica-del-estado-de-89288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-08-04"
-last_updated: "2012-08-04"
+last_updated: "2014-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS
 
 > <small>N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL ARTÍCULO PRIMERO TRANSITORIO DE LA PRESENTE LEY ENTRARÁ EN VIGOR EL 1 DE ENERO DE 2013.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 4 de agosto de 2012.
 
@@ -381,6 +381,10 @@ XXII. Administrar los bienes muebles e inmuebles propiedad del Ejecutivo del Est
 
 XXIII. Ejercer actos de dominio sobre los bienes muebles e inmuebles propiedad del Estado, previo acuerdo del Titular del Poder Ejecutivo del Estado, en los términos que determine la Constitución Política del Estado y sus leyes reglamentarias; así como ejercer el derecho de reversión con la intervención de la Coordinación General Jurídica;
 
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
+
+Tratándose de programas de vivienda en los que intervenga el Gobierno del Estado, podrá otorgar las escrituras privadas de propiedad, que deriven de los mismos;
+
 XXIV. Administrar y operar los talleres gráficos del Ejecutivo del Estado y coordinar, conjuntamente con las dependencias y entidades interesadas, la edición de publicaciones oficiales;
 
 XXV. Editar, publicar y distribuir el Periódico Oficial, Órgano del Gobierno del Estado;
@@ -713,17 +717,27 @@ II. Ejecutar el programa de infraestructura del Gobierno del Estado en materia d
 
 III. Regular, promover y vigilar el desarrollo de las ciudades, pueblos, colonias, comunidades y demás asentamientos humanos, mediante una adecuada planificación y zonificación, en coordinación con la Unidad de Planeación y demás instancias competentes;
 
-IV. Promover y realizar acciones de vivienda de interés social y popular, obras de urbanización, de regularización de la tenencia de la tierra urbana para la vivienda, así como la constitución de reservas territoriales, de conformidad con lo dispuesto en el Código Urbano del Estado de Zacatecas;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2014)</small>
+
+IV. Promover y realizar acciones de vivienda, obras de urbanización y programas de mejoramiento, así como la constitución de reservas territoriales, de conformidad con lo dispuesto en la legislación de la materia.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
+
+Podrá coordinarse con entidades públicas o privadas que tengan por objeto la gestión y promoción de programas de vivienda;
 
 V. Planear y regular la creación, conservación, mejoramiento y crecimiento de polos de desarrollo, ciudades medias y áreas concentradoras de servicios, en coordinación con las instancias competentes;
 
 VI. Promover la elaboración y revisión de los planes de desarrollo urbano municipales, así como la creación y administración de reservas territoriales y zonas de reserva ecológica en los municipios, con la participación de los sectores público, privado y social;
 
-VII. Proponer las medidas necesarias para el mejoramiento urbano de las zonas marginadas y la regularización de los asentamientos irregulares;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2014)</small>
+
+VII. Proponer las medidas necesarias para el mejoramiento urbano de las zonas marginadas;
 
 VIII. Formular, de conformidad con las leyes vigentes y los programas de desarrollo urbano aplicables, los proyectos de declaratoria sobre usos, reservas y destinos de predios;
 
-IX. Elaborar en coordinación con las instancias correspondientes el Programa de Regularización de la Tenencia de la Tierra Urbana para la Vivienda;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2014)</small>
+
+IX. Elaborar en coordinación con las instancias correspondientes los programas de mejoramiento y vivienda;
 
 X. Integrar el programa anual de infraestructura del Estado, a partir de las solicitudes y proyectos de las dependencias y entidades de la Administración Pública Estatal y someterlo a consideración de la Unidad de Planeación del Titular del Poder Ejecutivo del Estado;
 
@@ -1404,3 +1418,15 @@ ING. RAFAEL SÁNCHEZ PREZA
 PROCURADOR GENERAL DE JUSTICIA DEL ESTADO
 
 LIC. ARTURO NAHLE GARCÍA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE DICIEMBRE DE 2014.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Dentro de los 60 días siguientes a la entrada en vigor del presente Decreto, se deberán modificar las disposiciones internas que rigen el organismo, a efecto de adecuarse a la presente reforma.
+
+Tercero.- Se abroga el Decreto 605, por el que se reforman diversos ordenamientos legales para dar vigencia al Organismo Regularizador de la Tenencia de la Tierra en Zacatecas, publicado en Suplemento 2 al No. 40 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 18 de mayo de 2013. Y se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Cuarto.- Los procedimientos de regularización que hayan sido instaurados previo a la publicación de la presente reforma, se desahogarán y resolverán de conformidad con la Ley de Fraccionamientos Rurales, sin ordenarse la expedición del título, por lo que al momento de certificar la zona a la que pertenezca el inmueble e inicie el proceso de obtención del dominio pleno, el acuerdo de adjudicación servirá para acreditar el derecho que le asiste al interesado. Por tanto se remitirá el acuerdo al Organismo Regularizador de la Tenencia de la Tierra para que expida la escritura privada correspondiente.
