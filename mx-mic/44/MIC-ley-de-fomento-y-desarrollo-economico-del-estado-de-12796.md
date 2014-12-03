@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-fomento-y-desarrollo-economico-del-estado-de-12796"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-03"
-last_updated: "2013-10-29"
+last_updated: "2014-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -646,3 +646,35 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Para la inclusión de los estímulos y beneficios fiscales derivados del presente Decreto, el Congreso del Estado dispondrá lo conducente en sus leyes de ingresos para el ejercicio 2014.
 
 TERCERO. Todo programa de estímulos, incentivos y acciones de capacitación así como las acciones afirmativas en el rubro, se ejecutarán de acuerdo a la programación presupuestal del próximo año a la fecha de la publicación del presente Decreto, de igual manera los estímulos fiscales, acciones afirmativas y gastos de adecuación física deberán de contemplarse en las respectivas leyes y presupuestos de ingresos y egresos de los tres Poderes del Estado, los gobiernos municipales, sus organismos descentralizados y sus organismos autónomos en el ejercicio del próximo año fiscal inmediato a la publicación del presente Decreto.
+
+P.O. 3 DE DICIEMBRE DE 2014
+
+N. DE. E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 343 POR EL QUE SE EXPIDE LA LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE MICHOACÁN DE OCAMPO.
+
+PRIMERO. Se abroga la Ley de Fomento y Desarrollo Económico del Estado de Michoacán de Ocampo, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, en la Cuarta Sección el día jueves 3 tres de Diciembre del año 1998 mil novecientos noventa y ocho, se derogan todas las disposiciones que se opongan a la presente Ley.
+
+## TRANSITORIOS
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Las solicitudes y procedimientos administrativos en trámite, se continuarán atendiendo hasta su desahogo y resolución con base en los ordenamientos jurídicos que les dio origen.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Desarrollo Económico establecerá en un plazo de 90 días un programa para la activa difusión de las normas del presente ordenamiento y sus beneficios para el desarrollo económico del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Los Reglamentos correspondientes deberán ser expedidos por el Ejecutivo del Estado en un término no mayor de 90 días, a partir de la publicación de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+Por única ocasión el Poder Legislativo designará a los consejeros del sector privado, mediante convocatoria pública; considerando los requisitos mencionados en la presente ley; dicha designación deberá ser a más tardar 90 días posteriores a la entrada en vigor de la presente.
+
+###### ARTÍCULO SEXTO.
+
+Notifíquese el presente decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y fines conducentes.
