@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-urbano-del-estado-de-zacatecas-12875"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-09-11"
-last_updated: "2013-05-18"
+last_updated: "2014-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CÓDIGO URBANO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2014.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 11 de septiembre de 1996.
 
@@ -3523,7 +3523,7 @@ c) Especificaciones del alumbrado público.
 
 9.- Propuesta, en su caso, del plano de las etapas de urbanización y secuencia de las mismas;
 
-10.- Especificaciones para las diversas obras de urbanización, conforme a las normas correspondientes; y (sic)
+10.- Especificaciones para las diversas obras de urbanización, conforme a las normas correspondientes; y
 
 > <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2011)</small>
 
@@ -4311,7 +4311,7 @@ Los gobiernos estatal y municipales deberán clasificar e inventariar las reserv
 
 Las acciones previstas en los artículos anteriores deberán ejecutarse en coordinación con las del Gobierno Federal, a efecto de contribuir a la normatividad de la tenencia y aprovechamiento adecuado del suelo urbano.
 
-Asimismo, se coordinarán las acciones de los tres niveles de gobierno para establecer la congruencia de las políticas agrarias con los programas de desarrollo urbano respectivos, relativas a la expropiación o aportación de tierra(sic) ejidales y comunales, así como para el establecimiento de las zonas de urbanización ejidal.
+Asimismo, se coordinarán las acciones de los tres niveles de gobierno para establecer la congruencia de las políticas agrarias con los programas de desarrollo urbano respectivos, relativas a la expropiación o aportación de tierra (sic) ejidales y comunales, así como para el establecimiento de las zonas de urbanización ejidal.
 
 ###### ARTICULO 424.
 
@@ -4451,9 +4451,9 @@ En el caso de que el asentamiento humano irregular se encuentre en terrenos ejid
 
 Para los efectos de este Código se entiende por regularización de la tenencia de la tierra, la legitimación de la posesión y la propiedad del suelo a las personas asentadas irregularmente, así como la incorporación de tal asentamiento a los programas de desarrollo urbano, como una acción de mejoramiento de los centros de población.
 
-> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
 
-La instancia encargada de ejecutar programas de regularización de la tenencia de la tierra será el Organismo Regularizador de la Tenencia de la Tierra en Zacatecas.
+La instancia encargada de ejecutar programas de regularización de la tenencia de la tierra será el Organismo Regularizador de la Tenencia de la Tierra en Zacatecas o aquél que el titular del Poder Ejecutivo del Estado faculte para ello.
 
 ###### ARTICULO 444.
 
@@ -4954,3 +4954,13 @@ P.O. 18 DE MAYO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE DICIEMBRE DE 2014.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Dentro de los 60 días siguientes a la entrada en vigor del presente Decreto, se deberán modificar las disposiciones internas que rigen el organismo, a efecto de adecuarse a la presente reforma.
+
+Tercero.- Se abroga el Decreto 605, por el que se reforman diversos ordenamientos legales para dar vigencia al Organismo Regularizador de la Tenencia de la Tierra en Zacatecas, publicado en Suplemento 2 al No. 40 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 18 de mayo de 2013. Y se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Cuarto.- Los procedimientos de regularización que hayan sido instaurados previo a la publicación de la presente reforma, se desahogarán y resolverán de conformidad con la Ley de Fraccionamientos Rurales, sin ordenarse la expedición del título, por lo que al momento de certificar la zona a la que pertenezca el inmueble e inicie el proceso de obtención del dominio pleno, el acuerdo de adjudicación servirá para acreditar el derecho que le asiste al interesado. Por tanto se remitirá el acuerdo al Organismo Regularizador de la Tenencia de la Tierra para que expida la escritura privada correspondiente.
