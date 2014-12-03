@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-por-el-que-se-establecen-las-normas-a-las-que-se-748
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-24"
-last_updated: "2008-10-24"
+last_updated: "2014-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74878&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "NLE"
 ---
 # REGLAMENTO POR EL QUE SE ESTABLECEN LAS NORMAS A LAS QUE SE SUJETARAN LAS CAMPAÑAS DE PROMOCION DEL VOTO QUE REALICEN ORGANIZACIONES CIUDADANAS
 
-REGLAMENTO POR EL QUE SE ESTABLECEN LAS NORMAS A LAS QUE SE SUJETARAN LAS CAMPAÑAS DE PROMOCION DEL VOTO QUE REALICEN ORGANIZACIONES CIUDADANAS
+REGLAMENTO POR EL QUE SE ESTABLECEN LAS NORMAS A LAS QUE SE SUJETARÁN LAS CAMPAÑAS DE PROMOCIÓN DEL VOTO QUE REALICEN ORGANIZACIONES CIUDADANAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO EN QUE SE ESTABLECEN LAS NORMAS PARA LAS CAMPAÑAS DE PROMOCIÓN DEL VOTO, PUBLICADO EN EL P.O. 3 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO ES ABROGADO.</small>
+
+ÚLTIMA REFORMA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 24 de octubre de 2008.
 
@@ -179,3 +181,11 @@ Presidente
 Dr. Alejandro Medina Pérez
 
 Secretario
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE DICIEMBRE DE 2014.
+
+Artículo Primero. El presente Reglamento en el que se establecen las normas para las campañas de promoción del voto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Artículo Segundo. Se abroga el Reglamento por el que se establecen las normas a las que se sujetarán las campañas de promoción del voto que realicen organizaciones ciudadanas, aprobado en fecha 13 de octubre de 2008 por el Pleno de la Comisión Estatal Electoral y publicado en el Periódico Oficial del Estado de Nuevo León el 24 de octubre del mismo año.
