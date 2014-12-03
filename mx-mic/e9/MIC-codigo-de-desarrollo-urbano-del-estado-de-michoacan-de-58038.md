@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-desarrollo-urbano-del-estado-de-michoacan-de-58038"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-12-26"
-last_updated: "2013-07-16"
+last_updated: "2014-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2014.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Michoacán, el miércoles 26 de diciembre de 2007.
 
@@ -3423,6 +3423,62 @@ g. Otras normas específicas de carácter general que se consideren necesarias;
 
 XII. La clasificación de los directores responsables de obra, que intervendrán en la elaboración de los proyectos urbanísticos y ejecutivos y los requisitos profesionales que deberán acreditar.
 
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 281 Bis.
+
+Previo a la expedición de licencia de uso de suelo por parte de la Dependencia Municipal, las estaciones de servicio de gasolina y diesel, deberán observar, como mínimo los lineamientos siguientes:
+
+I. Solamente se podrán establecer en predios que de acuerdo al programa de desarrollo urbano respectivo se establezca con el uso del suelo compatible o condicionado y ubicarse sobre vialidades de enlaces, accesos carreteros, libramientos, vías principales y colectoras.
+
+En los casos, en que un Municipio carezca de su programa de desarrollo urbano o se encuentre fuera del centro de población o límite del ámbito de aplicación, el particular deberá presentar un estudio técnico de factibilidad, para ser evaluado y dictaminado por el Ayuntamiento respectivo, a efecto de determinar la procedencia;
+
+II. Deberán ubicarse a una distancia mínima de resguardo de 100 metros a pozos de extracción de agua o manantiales;
+
+III. Cumplirán con las disposiciones en materia de protección civil, ambiental, de seguridad y demás legislación y normatividad aplicable, se ubicarán a una distancia de, cuando menos, 1,000 metros en forma radial una de otra, dentro de zona urbana, y de 10,000 metros cuando su ubicación sea en carreteras concesionadas, federales, estatales y secundarias.
+
+Las que se ubiquen en centros de población de menos de quince mil habitantes que se encuentren a una distancia menor de veinte kilómetros, uno del otro, no estarán sujetos a lo dispuesto en el párrafo anterior, en lo referente a la distancia entre una y otra estación de servicio.
+
+Cuando en la intersección de corredores con una sección vial no menor a 16 metros con camellones y de doble sentido de circulación, se ubique una frente a otra, éstas se considerarán como una sola para efectos de la medición señalada en el primer párrafo de la presente fracción;
+
+IV. Deberán ubicarse a una distancia mínima de resguardo de 50 metros a partir de los límites de propiedad del predio en cuestión de: viviendas, escuelas, hospitales, orfanatos, guarderías, asilos y centros de desarrollo infantil, mercados, cines, teatros, estadios, supermercados, auditorios, lugares para cultos religiosos, oficinas públicas o privadas, hoteles, moteles, centros comerciales, lugares de almacenamiento de armas, municiones y explosivos y cualquier otro en el que exista concentración de 100 o más personas;
+
+V. Que los predios colindantes y sus construcciones estén libres de riesgos probables para la seguridad del establecimiento según dictamen de la autoridad competente en materia de protección civil;
+
+VI. Que se ubiquen a una distancia de resguardo de 150 metros contados a partir de los limites de propiedad del predio en cuestión de cualquier industria o comercio que emplee productos químicos, soldadura o gas, se dedique a la fundición o utilice fuego o combustión;
+
+VII. El predio propuesto para una estación de servicio deberá garantizar vialidades internas, áreas de servicio público y de almacenamiento, así como los diversos elementos requeridos para su construcción y operación que establecen los manuales de especificaciones técnicas para proyecto y construcción de estaciones de servicio de gasolina y diesel, las Normas Oficiales Mexicanas aplicables y las establecidas por la Secretaría de Energía; y,
+
+VIII. Los demás que para el efecto establezcan las Secretarias de Energía, la de Comunicaciones y Transportes y la de Economía Federal, la Secretaría de Urbanismo y Medio Ambiente del Gobierno del Estado de Michoacán, la Junta de Caminos del Estado de Michoacán, las áreas de Protección Civil Estatal y municipales, los programas de desarrollo urbano, los ordenamientos ecológicos, los reglamentos de construcción de cada Municipio en donde se pretendan establecer y demás normatividad aplicable.
+
+La expedición de la licencia de uso de suelo no es motivo para dar inicio a construcción, adaptación o modificación de obra, hasta en tanto se obtenga la licencia de construcción correspondiente.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 281 Ter.
+
+Previo a la expedición de licencia de uso de suelo por parte de la Dependencia Municipal, las estaciones de servicio de gas carburación y establecimientos dedicados al almacenamiento, expendio o distribución de gas L.P., deberán observar, como mínimo los lineamientos siguientes:
+
+I. Solamente se podrán establecer en predios que de acuerdo al programa de desarrollo urbano respectivo se establezca con el uso del suelo compatible o condicionado y ubicarse sobre vialidades de enlaces, accesos carreteros, libramientos, vías principales y colectoras.
+
+En los casos, en que un Municipio carezca de su programa de desarrollo urbano o se encuentre fuera del centro de población o límite del ámbito de aplicación, el particular deberá presentar un estudio técnico de factibilidad, para ser evaluado y dictaminado por el Ayuntamiento respectivo, a efecto de determinar la procedencia;
+
+II. Que se ubiquen a una distancia de resguardo de 100 metros lineales de la primera línea de transmisión de energía eléctrica de alta tensión, tomando como referencia la base de la misma; del eje de vías férreas; de gasoductos, poliductos y estaciones para productos derivados del petróleo; dichas distancias se deberán medir tomando como referencia la ubicación de los tanques de almacenamiento de la estación de servicio a la proyección vertical de los elementos de restricción señalados;
+
+III. Que los predios colindantes y sus construcciones estén libres de riesgos probables para la seguridad del establecimiento según dictamen de la autoridad competente en materia de protección civil;
+
+IV. Que el predio donde se pretenda construir cuente con:
+
+a) Una distancia mínima de 100 metros medidos desde las tangentes de los tanques de almacenamiento hasta viviendas, escuelas, hospitales, orfanatos, guarderías, asilos y centros de desarrollo infantil, mercados, cines, teatros, estadios, supermercados, auditorios, lugares para cultos religiosos, oficinas públicas o privadas, hoteles, moteles, centros comerciales, lugares de almacenamiento de armas, municiones y explosivos y cualquier otro en el que exista concentración de 100 o más personas; y,
+
+b) Una distancia mínima de 50 metros medidos desde las tangentes de los tanques de almacenamiento hasta los límites del predio.
+
+V. Que se ubiquen a una distancia de resguardo de 150 metros a partir de los límites de propiedad del predio en cuestión de cualquier industria o comercio que emplee productos químicos, soldadura o gas, se dedique a la fundición o utilice fuego o combustión; y,
+
+VI. Los demás que para el efecto establezcan las Secretarías de Energía, Comunicaciones y Transportes y Economía Federal, la Secretaría de Urbanismo y Medio Ambiente del Gobierno del Estado de Michoacán, la Junta de Caminos del Estado de Michoacán, las áreas de Protección Civil estatal y municipales, los programas de desarrollo urbano, los ordenamientos ecológicos, los reglamentos de construcción de cada Municipio en donde se pretendan establecer y demás normatividad aplicable.
+
+La expedición de la licencia de uso de suelo no es motivo para dar inicio a construcción, adaptación o modificación de obra, hasta en tanto se obtenga la licencia de construcción correspondiente.
+
 ###### ARTÍCULO 282.
 
 En ausencia de reglamentos municipales de zonificación y usos del suelo, se aplicará supletoriamente el Reglamento de Zonificación y Usos del Suelo de ámbito estatal.
@@ -5467,7 +5523,7 @@ Los presentes ayuntamientos deberán elaborar y entregar a las administración m
 
 ###### ARTÍCULO DÉCIMO.
 
-Por única vez los plazos previstos en los artículos 92 y 93 para la elaboración de los programas de desarrollo urbano básicos contenidos en este Código, serán de doce meses, a partir del inicio de la gestión constitucional de los ayuntamientos y del Gobernador del Estado, que iniciarán funciones el 1 de enero y el 15 de de febrero del año 2008, respectivamente.
+Por única vez los plazos previstos en los artículos 92 y 93 para la elaboración de los programas de desarrollo urbano básicos contenidos en este Código, serán de doce meses, a partir del inicio de la gestión constitucional de los ayuntamientos y del Gobernador del Estado, que iniciarán funciones el 1 de enero y el 15 de de (sic) febrero del año 2008, respectivamente.
 
 ###### ARTÍCULO DÉCIMO PRIMERO.
 
@@ -5510,3 +5566,11 @@ P.O. 16 DE JULIO DE 2013.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Michoacán de Ocampo.
 
 SEGUNDO. Los procedimientos que se encuentren en trámite a la fecha de la entrada en vigor del presente Decreto, seguirán desarrollándose observando las normas contenidas en el Código de Desarrollo Urbano del Estado de Michoacán vigente al momento de iniciar su procedimiento respectivo, hasta su conclusión.
+
+P.O. 3 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. Los Ayuntamientos deberán adecuar o expedir su Reglamento relativo al Establecimiento y Funcionamiento de las Estaciones de Gasolina, Diesel y Gas Carburación, en un periodo no mayor a seis meses a partir de la publicación del presente Decreto.
+
+TERCERO. Las solicitudes de licencia de uso de suelo que se encuentren en trámite a la fecha de la entrada en vigor del presente Decreto, deberán adecuarse en un periodo no mayor a dos meses para cumplir con lo establecido en el presente Decreto.
