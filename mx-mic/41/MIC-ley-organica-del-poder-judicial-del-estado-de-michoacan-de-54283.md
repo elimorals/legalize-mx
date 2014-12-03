@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-poder-judicial-del-estado-de-michoacan-de-5428
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-02-15"
-last_updated: "2012-12-14"
+last_updated: "2014-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN, PUBLICADA EN EL P.O. DE 3 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en la Tercera Sección al Periódico Oficial del Estado de Michoacán, el jueves 15 de febrero de 2007.
 
@@ -1950,3 +1952,17 @@ P.O. 14 DE DICIEMBRE DE 2012.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. El Titular del Poder Ejecutivo del Estado realizará lo conducente para que el Registro Único de Personas Acreditadas en Michoacán comience a operar en un plazo no mayor a ciento ochenta días contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 3 DE DICIEMBRE DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente del de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Se abroga la Ley Orgánica del Poder Judicial del Estado de Michoacán de Ocampo publicada mediante Decreto número 132, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo el15 de febrero de 2007.
+
+Tercero. Los reglamentos que con motivo de esta ley, se requieran serán expedidos por el Poder Judicial en un plazo de noventa días siguientes a la publicación del presente Decreto; En tanto se expidan los reglamentos a los que se hace mención, seguirán aplicándose los vigentes en lo conducente en lo que no se opongan a lo señalado en el presente Decreto.
+
+Cuarto. Hasta en tanto el Supremo Tribunal de Justicia del Estado de Michoacán, conforme a su presupuesto realice las adecuaciones correspondientes para la creación de juzgados especializados en las diversas materias, excepto penal y justicia para adolescentes, serán competentes para conocer de las mismas, los juzgados de primera instancia en materia civil o familiar según corresponda.
+
+Quinto. En tanto entre en vigencia el Sistema de Justicia Penal Acusatorio, de manera gradual en todo el territorio, seguirán funcionando simultáneamente los juzgados con jurisdicción penal, hasta que se agoten los expedientes del sistema tradicional.
+
+Sexto. Lo relativo al sistema acusatorio y oral en materia penal entrará en vigor de acuerdo a la normatividad aplicable.
