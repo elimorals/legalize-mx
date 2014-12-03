@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2014-10-02"
+last_updated: "2014-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2014.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -1515,6 +1515,10 @@ El Secretario General de Gobierno y los demás titulares de las Dependencias del
 
 Los titulares de las Dependencias y de las Entidades deberán comparecer ante el Congreso del Estado o ante sus Comisiones, cuando sean requeridos para dar cuenta del estado que guardan sus respectivos ramos o cuando se discuta una iniciativa de Ley que les competa.
 
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
+
+En aras de dar cumplimiento a los principios constitucionales en materia de transparencia y acceso a la información pública, las Dependencias o Entidades a través de sus titulares, deberán exponer a la ciudadanía un informe anual del estado que guardan los asuntos de su competencia, observando para ello los parámetros establecidos en el marco legal aplicable.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 49.
@@ -2487,11 +2491,41 @@ Las solicitudes de licencia por más de un año o por tiempo indefinido, serán 
 
 La propaganda bajo cualquier modalidad de comunicación social, que difundan como tales los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública federal, estatal y municipal deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
 
-> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 90.
 
-La transparencia del servicio público y el derecho a la información serán garantizados por el Estado, en los términos de la legislación de la materia.
+El Estado contará con un órgano autónomo, especializado, imparcial, colegiado, con personalidad jurídica y patrimonio propio, con plena autonomía técnica, de gestión, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de garantizar el cumplimiento del derecho de acceso a la información pública y a la protección de datos personales en posesión de los sujetos obligados en los términos que establezca la ley de la materia.
+
+Dicho órgano estará conformado por tres Consejeros, de los cuales uno fungirá como Consejero Presidente y los restantes como Consejeros Ciudadanos; la legislación correspondiente que regirá a este órgano autónomo, establecerá las previsiones que permitan asegurar la protección, el respeto y la difusión del derecho de acceso a la información pública; así como sus atribuciones, integración y funcionamiento.
+
+En su funcionamiento se regirá bajo los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
+
+Los Consejeros de este órgano constitucional durarán en su encargo siete años. El Consejero Presidente será designado por los propios Consejeros, mediante voto secreto, por un periodo de tres años, con posibilidad de ser reelecto por un periodo igual. En la conformación se procurará la equidad de género.
+
+Para ser nombrado Consejero se requiere:
+
+I. Ser ciudadano chiapaneco en pleno uso de sus derechos.
+
+II. Tener más de treinta años de edad cumplidos al día de su nombramiento.
+
+III. No ser ni haber sido dirigente o representante de ningún partido o asociación política, ministro de ningún culto religioso, ni titular de alguna dependencia o entidad de los órganos autónomos estatales, cuando menos tres años antes al momento de su designación.
+
+IV. Haberse desempeñado destacadamente en actividades profesionales de servicio público o académicas, relacionadas preferentemente con la materia; contar con título y cédula profesional, así como experiencia mínima de 4 años en actividades de su profesión.
+
+V. Gozar de buena reputación, tener buena conducta y honorabilidad manifiesta.
+
+VI. No haber sido condenado en sentencia ejecutoria por delito intencional.
+
+VII. No estar inhabilitado para ocupar cargo público.
+
+El cargo de Consejero Presidente o Consejero Ciudadano, es incompatible con cualquier otro empleo, cargo o comisión sean lucrativas o no, salvo la docencia o la beneficencia pública o privada que no implique remuneración, siempre que sean compatibles con sus horarios, responsabilidades y actividades dentro del órgano constitucional.
+
+Los candidatos a Consejeros, serán propuestos y designados por los miembros del Congreso del Estado o en su caso, por la Comisión Permanente teniendo en cuenta sus antecedentes profesionales, y conducta personal proba.
+
+La designación de Consejeros, será a cargo del Congreso del Estado o en su caso, por la Comisión Permanente por mayoría calificada de votos de los diputados presentes, y deberán ser ratificados por el Titular del Poder Ejecutivo del Estado. La ratificación u objeción de la propuesta, se deberá realizar dentro de un plazo de diez días hábiles. Si el Ejecutivo objetara el nombramiento, el Congreso del Estado o en su caso, la Comisión Permanente realizará una nueva propuesta, con votación de las tres quintas partes de los miembros presentes, siguiendo el mismo procedimiento. Si este segundo nombramiento fuere objetado, el Congreso del Estado o la Comisión Permanente, en los mismos términos, designará al Consejero para la plaza vacante.
+
+Los consejeros sólo podrán ser removidos de sus funciones cuando transgredan en forma grave o reiterada las disposiciones contenidas en esta Constitución y la Ley de la materia, cuando por actos u omisiones se afecten las atribuciones del órgano constitucional, o cuando hayan sido sentenciados por un delito grave.
 
 ###### Artículo 91.
 
@@ -4436,3 +4470,35 @@ Los asuntos serán tramitados y resueltos conforme a las normas aplicables vigen
 Artículo Quinto.- A partir de que se realice la reforma al Código de Organización del Poder Judicial del Estado, los expedientes o asuntos administrativos en primera instancia, así como los de segunda instancia totalmente concluidos, que se encuentren en trámite o bajo cualquier concepto en el Tribunal de Justicia Electoral y Administrativa, se transferirán a las Salas Regionales Colegiadas Civiles o Mixtas, según corresponda conforme a sus jurisdicciones, para que continúen con su substanciación.
 
 Artículo Sexto.- La Secretaría de Hacienda proveerá los recursos presupuestales y financieros para el buen funcionamiento del Tribunal Constitucional.
+
+P.O. 3 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO 58, POR EL QUE SE REFORMA EL ARTÍCULO 90 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Los recursos humanos, materiales y financieros, así como los compromisos y procedimientos del Instituto de Acceso a la Información Pública del Estado de Chiapas, serán transferidos al nuevo órgano autónomo que por este Decreto se crea. Asimismo, se preservarán los derechos adquiridos de los trabajadores.
+
+Artículo Cuarto.- El órgano autónomo que por este Decreto se crea, deberá integrarse a más tardar dentro de los noventa días naturales siguientes a la entrada en vigencia del presente Decreto y comenzará a ejercer sus atribuciones a partir de que entren en vigor las normas previstas en la ley de la materia.
+
+En caso de que a la fecha de integración de este órgano autónomo no hubiesen entrado en vigor las normas previstas, se seguirán ejerciendo las atribuciones que a la fecha se encuentren vigentes y sean aplicables al Instituto de Acceso a la Información Pública del Estado de Chiapas en la Ley de la materia.
+
+Los actuales consejeros continuarán en su encargo hasta en tanto se realicen las designaciones conforme a lo dispuesto en el presente Decreto. Para no afectar el funcionamiento del órgano autónomo que mediante este Decreto se crea, continuará como Consejero Presidente quien hasta esta fecha ocupa el cargo de Consejero General del Instituto de Acceso a la Información Pública del Estado de Chiapas, hasta la designación de los nuevos Consejeros.
+
+Los Consejeros del Instituto de Acceso a la Información Pública del Estado de Chiapas que se encuentren en funciones al inicio del procedimiento de designación para la integración del órgano autónomo que este Decreto crea, podrán ser (sic) participar en el procedimiento de designación conforme a las disposiciones aplicables, siempre y cuando reúnan los requisitos que establece el presente Decreto.
+
+Artículo Quinto.- El Ejecutivo del Estado someterá a consideración del Congreso del Estado, en un plazo que no exceda de noventa días naturales contados a partir de la entrada en vigor del presente Decreto, las adecuaciones necesarias al marco jurídico que regula la transparencia y acceso a la información pública en el Estado de Chiapas, así como al órgano constitucional que por este Decreto se crea.
+
+Artículo Sexto.- Las Dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia a las disposiciones aplicables; debiendo la Secretaría de Hacienda, prever en el Presupuesto de Egresos, la suficiencia presupuestaria necesaria que otorgará al órgano autónomo que mediante este Decreto se crea, además de dictaminar la estructura funcional del mismo, para que éste logre la consecución de su objeto.
+
+Artículo Séptimo.- En tanto se expidan las disposiciones legales, reglamentarias y acuerdos generales, seguirán siendo aplicadas las que se encuentran vigentes a la entrada en vigor del presente Decreto, salvo en los casos en que se opongan al mismo.
+
+P.O. 3 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO 59, POR EL QUE SE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 48 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
