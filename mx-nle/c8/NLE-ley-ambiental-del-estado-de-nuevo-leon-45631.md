@@ -4,7 +4,7 @@ identifier: "NLE-ley-ambiental-del-estado-de-nuevo-leon-45631"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-15"
-last_updated: "2014-06-20"
+last_updated: "2014-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 15 de julio de 2005.
 
@@ -1887,7 +1887,7 @@ Para la aplicación de las disposiciones contenidas en el presente capítulo, se
 
 I. Fuentes emisoras de contaminación atmosférica de competencia estatal:
 
-a) Los establecimientos industriales en general, excepto los sectores industriales de competencia exclusiva de la Federación establecidos en el artículo 111 bis de la Ley General;
+a) Los establecimientos industriales en general, excepto los sectores industriales de competencia exclusiva de la Federación establecidos en el artículo 111bis de la Ley General;
 
 b) Los bienes y zonas de competencia estatal;
 
@@ -2633,7 +2633,7 @@ Los Municipios, en el ámbito de su jurisdicción territorial, podrán contar co
 
 ### CAPÍTULO IV. DENUNCIA CIUDADANA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 204.
 
@@ -2651,43 +2651,99 @@ La Secretaría reunirá informes y documentos relevantes que resulten de las act
 
 ###### Artículo 205.
 
-Cualquier persona física o moral, tiene el derecho y el deber de denunciar ante la Secretaría o el Municipio que corresponda, todo hecho u omisión que contravenga las disposiciones de esta Ley y demás ordenamientos que regulen las materias relacionadas con la protección al ambiente y recursos naturales.
+Cualquier persona física o moral, tiene el derecho y el deber de denunciar ante la Secretaría o el Municipio que corresponda, todo hecho, acción u omisión que contravenga las disposiciones de esta Ley y demás ordenamientos que regulen las materias relacionadas con la protección al ambiente y recursos naturales.
 
 La autoridad que tenga conocimiento de los hechos u omisiones señalados en el párrafo anterior, deberá denunciarlos ante la autoridad competente en la materia a fin de que se siga el procedimiento correspondiente.
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 206.
 
-La denuncia ciudadana podrá realizarse tanto en forma verbal, como por escrito, proporcionando como mínimo el denunciante:
+La denuncia ciudadana podrá realizarse por cualquier ciudadano, mediante cualquiera de las siguientes vías: de forma verbal, por escrito, llamada telefónica, por correo electrónico que para tal efecto establezca la Secretaría o cualquier otro medio que la Secretaria estime conveniente; proporcionando como mínimo el denunciante:
 
-I. Los hechos u omisiones denunciados; y
+l. El nombre o razón social, domicilio, teléfono si lo tiene, del denunciante y, en su caso, de su representante legal;
 
-II. En su caso los datos que permitan identificar al presunto infractor o localizar la fuente contaminante.
+II. Los hechos, acciones u omisiones denunciados; y
 
-La autoridad estará obligada a mantener en reserva el nombre del denunciante, cuando éste así lo solicite.
+III. En su caso, los datos que permitan identificar al presunto infractor o localizar la fuente contaminante.
+
+De la denuncia presentada, el servidor público que la reciba, levantará acta circunstanciada, el denunciante deberá ratificarla por escrito únicamente cuando se realice por vía telefónica, además deberá cumplir con los requisitos establecidos en el presente artículo, en un término de tres días hábiles siguientes a la formulación de la denuncia, caso en contrario se desechará el reporte de denuncia.
+
+No se admitirán denuncias notoriamente improcedentes o infundadas, aquéllas en las que se advierta mala fe, carencia de fundamento o inexistencia de petición, lo cual se notificará al denunciante.
+
+Si el denunciante solicita guardar secreto respecto de su identidad, por razones de seguridad e interés particular, la Secretaría llevará a cabo el seguimiento de la denuncia conforme a las atribuciones que la presente Ley y demás disposiciones jurídicas aplicables le otorgan.
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 207.
 
-La autoridad deberá llevar un registro de las denuncias recibidas y procederá a su verificación siempre que éstas reporten la información suficiente que lo permita.
+La autoridad, una vez recibida la denuncia, acusará recibo de su recepción, le asignará un número de expediente y la registrará.
 
-Una vez presentada la denuncia, la autoridad iniciará el procedimiento administrativo de inspección y vigilancia, y efectuará las diligencias necesarias con el propósito de determinar la existencia de los hechos u omisiones constitutivos de la denuncia.
+En caso de recibirse dos o más denuncias por los mismos hechos, acciones u omisiones, se acordará la acumulación en un solo expediente, debiéndose notificar a los denunciantes el acuerdo respectivo.
+
+Una vez registrada la denuncia, dentro de los 10 días hábiles siguientes a su presentación, la autoridad notificará al denunciante, señalando el trámite que se le ha dado a la misma.
+
+Si la denuncia presentada fuera competencia de otra autoridad, se acusará de recibo al denunciante pero no se admitirá la instancia y se turnará a la autoridad competente para su trámite y resolución, notificándole de tal hecho al denunciante, mediante acuerdo fundado y motivado.
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 208.
 
-Si de la diligencia se desprende que no es asunto de la competencia de la autoridad que haya recibido la denuncia, dentro de un plazo no mayor a 5-cinco días hábiles, turnará el asunto a la autoridad competente.
+Una vez admitida la denuncia, la autoridad iniciará el procedimiento administrativo de inspección y vigilancia, y efectuará las diligencias necesarias con el propósito de determinar la existencia de hechos, acciones u omisiones constitutivos de la denuncia.
+
+Si de la diligencia se desprende que no es asunto de la competencia de la autoridad que haya recibido la denuncia, dentro de un plazo no mayor a 10 diez días hábiles, turnará el asunto a la autoridad competente, notificándole de tal hecho al denunciante, mediante acuerdo fundado y motivado.
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 209.
 
-En todo caso, los denunciantes podrán coadyuvar con la autoridad para la comprobación de los hechos u omisiones denunciados, aportándole las pruebas, documentación e información que estime pertinentes.
+En todo caso, los denunciantes podrán coadyuvar con la autoridad para la comprobación de los hechos, acciones u omisiones denunciados, aportando las pruebas, documentación e información que estime pertinentes.
+
+Así mismo, los denunciantes podrán ser informados en todo momento sobre el avance del procedimiento administrativo de inspección y vigilancia que la autoridad inicie a raíz de la denuncia presentada, debiendo la autoridad correspondiente proteger en todo momento, tanto la información específica del procedimiento administrativo que se considere reservada, como los datos personales existentes dentro del expediente respectivo que sean considerados confidenciales, en términos de lo dispuesto en la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 210.
 
-La autoridad exhortará de manera permanente al público en general a denunciar hechos u omisiones que produzcan o puedan producir desequilibrio ecológico o daños al ambiente. Además, tendrá la obligación de informar al denunciante el resultado de su gestión, cuando el interesado lo solicite.
+La autoridad exhortará de manera permanente al público en general a denunciar hechos, acciones u omisiones que produzcan o puedan producir desequilibrio ecológico o daños al ambiente. Estableciendo campañas de concientización sobre la importancia de la cultura de la denuncia ambiental. Además, tendrá la obligación de informar al denunciante el resultado de su gestión, cuando el interesado lo solicite.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 211.
 
-Si del resultado de las investigaciones realizadas por la Secretaría, se desprende que se trata de actos, hechos u omisiones en que hubieren incurrido autoridades federales, estatales o municipales, emitirá las recomendaciones necesarias para promover ante estas u otras, la ejecución de las acciones procedentes.
+Si del resultado de las investigaciones realizadas por la Secretaría, se desprende que se trata de hechos, acciones u omisiones en que hubieren incurrido autoridades federales, estatales o municipales, emitirá las recomendaciones necesarias para promover ante éstas u otras, la ejecución de las acciones procedentes.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 211 Bis.
+
+La autoridad estatal ambiental podrá solicitar a las instituciones académicas, centros de investigación y organismos del sector público, social y privado, la elaboración de estudios, dictámenes o peritajes sobre cuestiones planteadas en las denuncias que le sean presentadas.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 211 Bis 1.
+
+La formulación de la denuncia, así como los acuerdos, resoluciones y recomendaciones que emita la autoridad estatal ambiental, no afectarán el ejercicio de otros derechos o medios de defensa que pudieran corresponder a los afectados conforme a las disposiciones jurídicas aplicables, no suspenderán ni interrumpirán sus plazos preclusivos, de prescripción o de caducidad.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 211 Bis 2.
+
+Los expedientes de denuncia ciudadana que hubieren sido abiertos, podrán ser concluidos por las siguientes causas:
+
+l. Por incompetencia de la autoridad estatal ambiental para conocer de la denuncia planteada;
+
+ll. Por haberse dictado la recomendación correspondiente;
+
+III. Cuando no existan contravenciones a la normatividad ambiental;
+
+IV. Por haberse dictado anteriormente un acuerdo de acumulación de expedientes;
+
+V. Por haberse solucionado la denuncia ciudadana mediante el uso de Métodos
+
+Alternos para la Solución de Conflictos entre las partes; y
+
+VI. Por la emisión de una resolución derivada del procedimiento de inspección.
 
 ###### Artículo 212.
 
@@ -3354,3 +3410,7 @@ P.O. 20 DE JUNIO DE 2014.
 Primero: El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Segundo: El reglamento o demás ordenamientos respectivos a los que hace mención el artículo 174 Bis de la Ley Ambiental para el Estado de Nuevo León, deberán publicarse dentro de un plazo de ciento ochenta días naturales contados a partir de la fecha de publicación del presente Decreto en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 3 DE DICIEMBRE DE 2014.
+
+Único.- El presente Decreto entra en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
