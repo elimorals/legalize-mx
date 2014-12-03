@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-civil-del-estado-de-zacatecas-8277"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-24"
-last_updated: "2014-07-05"
+last_updated: "2014-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CÓDIGO CIVIL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2014.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 24 de mayo de 1986.
 
@@ -955,7 +955,7 @@ Si las aguas son de propiedad federal, se estará a lo dispuesto en la ley respe
 
 238.- Si la especificación se hizo de mala fe, el dueño de la materia empleada tiene derecho de quedarse con la obra sin pagar nada al que la hizo, o exigir de éste que le pague el valor de la materia y le indemnice de los daños y perjuicios que se le hayan seguido.
 
-239.- La mala fe en los casos de mezcla o confusión se calificará conforme a Io dispuesto en los artículos 211 y 212.
+239.- La mala fe en los casos de mezcla o confusión se calificará conforme a lo dispuesto en los artículos 211 y 212.
 
 ### CAPITULO SEPTIMO. DE LA COPROPIEDAD
 
@@ -2367,7 +2367,7 @@ Si el testador no puede o no sabe leer, dictará en su idioma el testamento a un
 
 748.- El testamento público cerrado quedará sin efecto siempre que se encuentre roto el documento interior o abierto el que forma la cubierta; o borradas, raspadas o enmendadas las firmas que lo autorizan, aunque el contenido no sea vicioso.
 
-749.- Toda persona que tuviere en su poder un testamento público cerrado y no lo presente, como está prevenido en lo artículos 708 y 709, o lo substraiga dolosamente del lugar donde lo tenían, el testador o la persona que lo conservaba en depósito, incurrirá en la pena, si fuere heredera legítima o testamentaria, de la pérdida del derecho que pudiera tener, sin perjuicio de la que le corresponda conforme al Código Penal. Igual sanción se aplicará a quien lo oculte, rompa, altere o inutilice de cualquier otro modo.
+749.- Toda persona que tuviere en su poder un testamento público cerrado y no lo presente, como está prevenido en los artículos 708 y 709, o lo substraiga dolosamente del lugar donde lo tenían, el testador o la persona que lo conservaba en depósito, incurrirá en la pena, si fuere heredera legítima o testamentaria, de la pérdida del derecho que pudiera tener, sin perjuicio de la que le corresponda conforme al Código Penal. Igual sanción se aplicará a quien lo oculte, rompa, altere o inutilice de cualquier otro modo.
 
 ### CAPITULO CUARTO. DEL TESTAMENTO OLOGRAFO
 
@@ -4191,7 +4191,7 @@ EFECTOS DE LAS OBLIGACIONES ENTRE LAS PARTES CUMPLIMIENTO DE LAS OBLIGACIONES
 
 1381.- Puede, por último, hacerse contra la voluntad del deudor.
 
-1382.- En el caso de pago del un tercero se observarán las disposiciones relativas al mandato.
+1382.- En el caso de pago de un tercero se observarán las disposiciones relativas al mandato.
 
 1383.- Si el pago se hizo por un tercero ignorándolo el deudor, el que hizo el pago sólo tendrá el derecho de reclamar al deudor la cantidad que hubiere pagado al acreedor, si éste consintió en recibir menor suma que la debida.
 
@@ -5021,9 +5021,9 @@ III.- Que si se trata de una casa su precio no exceda de cinco mil cuatrocientos
 
 1670.- Si el valor del inmueble excede del equivalente a cien días del salario mínimo vigente en la época de la celebración del contrato, su venta se otorgará en escritura pública.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
 
-Sin embargo cuando se trate de operaciones o contratos otorgados por la Comisión para la Regularización de la Tenencia de la Tierra o por el Organismo Regularizador de la Tenencia de la Tierra en Zacatecas, podrán hacerse constar en documento privado celebrado ante dos testigos, que contenga además, la constancia a que se refiere el artículo 2475, fracción III de este Código.
+Sin embargo cuando se trate de operaciones o contratos otorgados por la Comisión para la Regularización de la Tenencia de la Tierra, por el Consejo Promotor de la Vivienda Popular en liquidación, por el Organismo Regularizador de la Tenencia de la Tierra en Zacatecas o por la Secretaría de Administración, podrán hacerse constar en documento privado celebrado ante dos testigos, que contenga además, la constancia a que se refiere el artículo 2475, fracción III de este Código.
 
 1671.- La venta de bienes raíces no producirá efectos contra terceros sino después de registrado en los términos prescritos por este Código.
 
@@ -5241,7 +5241,7 @@ IV.- En los demás casos, la obligación de restituir se rige por lo dispuesto e
 
 1751.- El interés legal es el veinticuatro por ciento anual.
 
-1752.- El interés convencional es el que fijen los contratantes, y puede ser mayor o menor que el interés legal; pero cuando el interés sea tan desproporcionado que haga fundadamente creer que se ha abusado del apuro pecuniario, de la inexperiencia, de la ignorancia o de la necesidad del deudor, a petición de este el Juez, tendiendo en cuenta las especiales circunstancias del caso, podrá reducir equitativamente el interés hasta el tipo legal.
+1752.- El interés convencional es el que fijen los contratantes, y puede ser mayor o menor que el interés legal; pero cuando el interés sea tan desproporcionado que haga fundadamente creer que se ha abusado del apuro pecuniario, de la inexperiencia, de la ignorancia o de la necesidad del deudor, a petición de este el Juez, teniendo en cuenta las especiales circunstancias del caso, podrá reducir equitativamente el interés hasta el tipo legal.
 
 Este artículo sólo es aplicable cuando el interés convencional excede del interés bancario.
 
@@ -5843,7 +5843,7 @@ Los Notarios insertarán este artículo en los testimonios de los poderes, que e
 
 1941.- El mandato podrá otorgarse en carta poder firmada ante dos testigos, sin que sea necesario la previa ratificación de las firmas, cuando el interés del negocio para el que se confiera exceda del valor correspondiente a cinco cuotas del salario mínimo vigente y no de cincuenta cuotas, ya que si sobrepasa deberá otorgarse en escritura pública.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2008)</small>
 
 1942.- El mandato debe otorgarse ante Notario Público:
 
@@ -6011,7 +6011,7 @@ VI.- Por las causas previstas en el Código de la Familia; para los poderes otor
 
 Asimismo el mandatario puede renunciar al mandato cuando y como le parezca.
 
-La parte que revoque o renuncia el mandato en tiempo inoportuno debe indemnizar a lo otra o a un tercero de los daños y perjuicios que le cause la revocación o renuncia.
+La parte que revoque o renuncia el mandato en tiempo inoportuno debe indemnizar a la otra o a un tercero de los daños y perjuicios que le cause la revocación o renuncia.
 
 1982.- Puede pactarse que el mandato sea irrevocable y, en ese caso no puede el mandatario renunciar a él.
 
@@ -6387,7 +6387,7 @@ La mayoría se computará por cantidades; pero cuando una sola persona represent
 
 2113.- El socio o socios administradores están obligados a rendir cuentas siempre que lo pida la mayoría de los socios, aún cuando no sea la época fijada en el contrato de sociedad.
 
-2114.- Cuando la administración no se hubiere limitado a alguno de los socios, todos tendrán derecho de concurrir a la dirección y manejo de los negocios comunes. Las decisiones serán tomadas por mayoría, tendiendo todos derecho de examinar los libros de contabilidad y demás papeles de ésta.
+2114.- Cuando la administración no se hubiere limitado a alguno de los socios, todos tendrán derecho de concurrir a la dirección y manejo de los negocios comunes. Las decisiones serán tomadas por mayoría, teniendo todos derecho de examinar los libros de contabilidad y demás papeles de ésta.
 
 ### CAPITULO QUINTO. DE LA DISOLUCION DE LA SOCIEDAD
 
@@ -7229,11 +7229,11 @@ XI.- En caso de juicio se llamará a todos los acreedores que hubiesen adquirido
 
 XII.- La hipoteca por declaración unilateral de voluntad no puede constituirse en fraude de los acreedores;
 
-XIII.- La hipoteca por declaración unilateral de voluntad caduca, cuando transcurren seis meses desde que se constituyó sin que el propietario haya ejercitado el derecho que le confiere el párrafo primero de la fracción lV de este artículo. Si la hipoteca se transmitió parcialmente dentro de ese plazo, sólo caducará la parte que no se haya transmitido;
+XIII.- La hipoteca por declaración unilateral de voluntad caduca, cuando transcurren seis meses desde que se constituyó sin que el propietario haya ejercitado el derecho que le confiere el párrafo primero de la fracción IV de este artículo. Si la hipoteca se transmitió parcialmente dentro de ese plazo, sólo caducará la parte que no se haya transmitido;
 
 XIV.- Transcurrido el plazo de seis de meses a que se refiere la fracción anterior y el establecido por esta ley al Notario para que dé el aviso correspondiente al Registro Público, si no se presentare el testimonio de la cesión o cesiones que haya celebrado el constituyente de la hipoteca por declaración unilateral de la voluntad, perderá la inscripción de ésta la preferencia que le correspondía. Las cesiones en este caso tendrán la preferencia que les corresponda según la fecha de su presentación;
 
-XV.- Si dentro de un año después de inscrita la hipoteca por declaración unilateral de voluntad, no se presenta para su registro el testimonio de una cesión, hecha por el propietario dentro de los seis meses a que se refiere la fracción XlV de este artículo, deja de surtir efectos, por ministerio de la ley, la inscripción de la hipoteca constituida por declaración unilateral . El Registrador en este caso la cancelará a petición de parte interesada o de oficio cuando advierta que se está en esta situación; pero si el propietario en tiempo cedió parcial o totalmente la hipoteca y el cesionario no inscribió oportunamente la cesión, se considerará al cesionario como acreedor quirografario;
+XV.- Si dentro de un año después de inscrita la hipoteca por declaración unilateral de voluntad, no se presenta para su registro el testimonio de una cesión, hecha por el propietario dentro de los seis meses a que se refiere la fracción XIV de este artículo, deja de surtir efectos, por ministerio de la ley, la inscripción de la hipoteca constituida por declaración unilateral . El Registrador en este caso la cancelará a petición de parte interesada o de oficio cuando advierta que se está en esta situación; pero si el propietario en tiempo cedió parcial o totalmente la hipoteca y el cesionario no inscribió oportunamente la cesión, se considerará al cesionario como acreedor quirografario;
 
 XVI.- Si la hipoteca por declaración unilateral de voluntad fuere embargada al propietario y caducare la hipoteca misma, el embargo se considerará trabado sobre el bien inmueble.
 
@@ -7297,7 +7297,7 @@ V.- Los acreedores de la herencia por el importe de sus créditos, si en la mism
 
 VI.- El Estado, los municipios y los establecimientos Públicos, sobre los bienes de sus administradores, para asegurar las rentas de sus respectivos cargos, salvo lo que al respecto dispongan las leyes administrativas.
 
-2408.- La constitución de la hipoteca, en los casos a que se refieren las fracción ll y lll del artículo anterior, puede ser pedida por el curador del incapacitado por los parientes de éste sin limitación de grado o por el Ministerio Público.
+2408.- La constitución de la hipoteca, en los casos a que se refieren las fracción II y III del artículo anterior, puede ser pedida por el curador del incapacitado por los parientes de éste sin limitación de grado o por el Ministerio Público.
 
 2409.- Los que tienen derecho de exigir la constitución de hipoteca necesaria, tienen también el de objetar la suficiencia de la que se ofrezca, y el de pedir su ampliación cuando los bienes hipotecados se hagan por cualquier motivo insuficientes para garantizar el crédito; en ambos casos resolverá el Juez.
 
@@ -7393,7 +7393,7 @@ TERCERA PARTE
 
 Esa declaración produce también el efecto de que dejen de devengar intereses las deudas del concurso, salvo los créditos hipotecarios y pignoraticios, que seguirán devengando los intereses correspondientes hasta donde alcance el valor de los bienes que los garanticen.
 
-2437.- Los capitales debidos serán pagados en el orden establecido en ese Título, y si después de satisfechas quedaren fondos pertenecientes, al concurso, se pagarán los réditos correspondientes, en el mismo orden en que se pagaron los capitales, pero reducidos los intereses al tipo legal a nos ser que se hubiere pactado un tipo menor. Sólo que hubiere bienes suficientes para que todos los acreedores queden pagados, se cubrirán los réditos al tipo convenido que sea superior al legal.
+2437.- Los capitales debidos serán pagados en el orden establecido en ese Título, y si después de satisfechas quedaren fondos pertenecientes, al concurso, se pagarán los réditos correspondientes, en el mismo orden en que se pagaron los capitales, pero reducidos los intereses al tipo legal a no ser que se hubiere pactado un tipo menor. Sólo que hubiere bienes suficientes para que todos los acreedores queden pagados, se cubrirán los réditos al tipo convenido que sea superior al legal.
 
 2438.- El deudor puede celebrar con sus acreedores los convenios que estime oportunos, pero esos convenios se harán precisamente en junta de acreedores debidamente constituida.
 
@@ -7459,7 +7459,7 @@ III.- La deuda de seguros de los propios bienes;
 
 IV.- Los créditos hipotecarios, comprendiéndose en el pago, los réditos de un año o los créditos pignoraticios según su fecha, así como sus réditos durante los últimos seis meses.
 
-2456.- Para que se paguen con la preferencia señalada los créditos comprendidos en las fracciones ll y lll del artículo anterior, son requisitos indispensables que los primeros hayan sido necesarios y que los segundos consten auténticamente.
+2456.- Para que se paguen con la preferencia señalada los créditos comprendidos en las fracciones II y III del artículo anterior, son requisitos indispensables que los primeros hayan sido necesarios y que los segundos consten auténticamente.
 
 2457.- Si el concurso llega al período en que deba pronunciarse sentencia de graduación sin que los acreedores hipotecarios o pignoraticios hagan uso del derecho de no entrar en concurso para cobrar sus créditos, dicho concurso hará vender los bienes y depositará el importe del crédito y de los réditos correspondientes, observándose en su caso, las disposiciones relativas a los ausentes.
 
@@ -8124,3 +8124,13 @@ P.O. 5 DE JULIO DE 2014.
 Artículo Primero:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo Segundo:- Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 3 DE DICIEMBRE DE 2014.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Dentro de los 60 días siguientes a la entrada en vigor del presente Decreto, se deberán modificar las disposiciones internas que rigen el organismo, a efecto de adecuarse a la presente reforma.
+
+Tercero.- Se abroga el Decreto 605, por el que se reforman diversos ordenamientos legales para dar vigencia al Organismo Regularizador de la Tenencia de la Tierra en Zacatecas, publicado en Suplemento 2 al No. 40 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 18 de mayo de 2013. Y se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Cuarto.- Los procedimientos de regularización que hayan sido instaurados previo a la publicación de la presente reforma, se desahogarán y resolverán de conformidad con la Ley de Fraccionamientos Rurales, sin ordenarse la expedición del título, por lo que al momento de certificar la zona a la que pertenezca el inmueble e inicie el proceso de obtención del dominio pleno, el acuerdo de adjudicación servirá para acreditar el derecho que le asiste al interesado. Por tanto se remitirá el acuerdo al Organismo Regularizador de la Tenencia de la Tierra para que expida la escritura privada correspondiente.
