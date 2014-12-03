@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-fraccionamientos-rurales-para-el-estado-de-zacatecas-690
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-13"
-last_updated: "2013-05-18"
+last_updated: "2014-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE FRACCIONAMIENTOS RURALES PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 13 de junio de 2009.
 
@@ -108,6 +108,10 @@ XII. Libro de Gobierno: Aquel en donde se registren las promociones y correspond
 XIII. Abandono: No trabajar la tierra por cinco años consecutivos, sin causa justificada, y
 
 XIV. Días: Referido a días hábiles.
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2014)</small>
+
+XV. Organismo Regularizador: al Organismo Regularizador de la Tenencia de la Tierra en Zacatecas.
 
 ###### Artículo 3.
 
@@ -649,6 +653,10 @@ II. Por pérdida de la capacidad procesal. En este caso, el procedimiento se int
 
 III. Por muerte o impedimento del represente legal. En este caso el procedimiento se reanudará tan pronto como se notifique a la parte interesada para que provea la substitución del representante desaparecido o ésta se apersone voluntariamente, por sí o por medio de nuevo mandatario o patrono.
 
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2014)</small>
+
+IV. Si la suspensión del procedimiento tarda más de 180 días, la Dirección resolverá tener por no interpuesta la acción planteada y en consecuencia mandar al archivo definitivo el expediente.
+
 ###### Artículo 79.
 
 Durante la interrupción no pueden realizarse actos procesales y este lapso no se computará en ningún término. Los términos correrán nuevamente desde el día en que cese la causa de interrupción. Los actos procesales que se verifiquen se considerarán como no realizados, sin que sea necesario pedir ni declarar su nulidad. Se exceptúan las medidas urgentes y de aseguramiento que sean necesarias a juicio del Director y aquella de mero trámite qué no impliquen impulso del procedimiento, las que sí podrán ser autorizadas.
@@ -825,7 +833,9 @@ IV. Deberá exhibirse el título o en su defecto, indicar el lugar donde el mism
 
 Con el escrito de denuncia de reconocimiento de derechos sucesorios, deberán acompañarse los siguientes documentos:
 
-I. Acta de defunción del autor de la sucesión, de no ser esto posible, otro documento, resolución o prueba bastante que acredite la muerte del autor de la sucesión;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2014)</small>
+
+I. Acta de defunción del autor de la sucesión, de no ser ésto posible, la sentencia que declare la presunción de muerte de un ausente;
 
 II. La designación de sucesores si la hubiere;
 
@@ -865,23 +875,25 @@ La radicación de todos los procedimientos de reconocimientos de derechos suceso
 
 Recibida la solicitud de denuncia, el Director señalará el día y hora en que deberá llevarse a cabo, el reconocimiento de herederos y designación de albacea y ordenará la publicación de los edictos, convocando a interesados y presuntos herederos, así como a todos aquellos a quienes se crean con derechos a la sucesión, en el Periódico Oficial y en uno de los periódicos de mayor circulación en la entidad, por dos veces consecutivas, de diez en diez días.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 107.
 
-El procedimiento de sucesión de derechos se desarrollará en tres secciones a saber:
+El procedimiento de sucesión de derechos se desarrollará en dos secciones a saber:
 
-I. Sección primera, denominada "De Sucesión e inventario", que contendrá la denuncia, las citaciones y convocatorias, reconocimiento de derechos hereditarios y designación de albacea, resoluciones sobre validez del testamento, capacidad para heredar y preferencia de derechos, así como el inventario de los inmuebles de los cuales es titular el De Cujus;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2014)</small>
 
-II. Sección Segunda, denominada "De Administración", que contendrá todo lo relativo a la administración, cuentas, su glosa y calificación, o
+I. Sección primera, denominada "De Sucesión e inventario", que contendrá la denuncia, las citaciones y convocatorias, reconocimiento de derechos hereditarios y designación de albacea, resoluciones sobre validez del testamento, capacidad para heredar y preferencia de derechos, así como el inventario de los inmuebles de los cuales es titular el De Cujus. La impugnación de una designación de sucesores se realizará en vía incidental;
 
-III. Sección Tercera, denominada “De Partición”, que contendrá el proyecto de distribución provisional de los productos de los bienes hereditarios, el de partición de los bienes, los incidentes conexos, los convenios, resoluciones y aplicación de los bienes.
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2014)</small>
+
+II. Sección Segunda, denominada "De Partición", que contendrá el proyecto de partición de los bienes, los incidentes conexos, los convenios, resoluciones y aplicación de los bienes;
+
+III. (DEROGADA, P.O. 3 DE DICIEMBRE DE 2014)
 
 ###### Artículo 108.
 
-Las secciones segunda y tercera del artículo anterior podrán omitirse cuando:
-
-I. El heredero sea único y al la vez desempeñe el cargo de albacea, y
-
-II. Todos los herederos manifiesten su conformidad con el inventario y la forma de partición.
+(DEROGADO, P.O. 3 DE DICIEMBRE DE 2014)
 
 ###### Artículo 109.
 
@@ -925,7 +937,9 @@ III. El fallecimiento del fraccionista sin dejar heredero legítimo;
 
 IV. El abandono del terreno por parte de su titular por cinco años consecutivos;
 
-V. Sembrar, cultivar o cosechar estupefacientes o psicotrópicos o permitir que otro lo haga en el lote de su propiedad;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2014)</small>
+
+V. La existencia de resolución judicial ejecutoriada, por medio de la cual se acredite que el fraccionista sembró, cultivó o cosechó estupefacientes o psicotrópicos, o haya permitido que otro llevara a cabo tales hechos en el inmueble del cual es titular;
 
 VI. Cuando se demuestre que el fraccionista enajenó el lote a una tercera persona y ésta sea quien promueva la declaración de vacancia, y
 
@@ -1111,9 +1125,11 @@ En todo caso, la reposición deberá Manifestarse literalmente en el texto del t
 
 ### Capítulo I. Del procedimiento administrativo de nulidad
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 134.
 
-La nulidad de un procedimiento administrativo del que derive un título se demandará a la Dirección y procederá la instauración del mismo en los siguientes casos:
+La nulidad de un procedimiento administrativo del que derive una declaratoria de adjudicación se interpondrá ante la Dirección, y procederá la instauración del mismo en los siguientes casos:
 
 I. Cuando el titulo se hubiere expedido con base en documentos falsos;
 
@@ -1125,9 +1141,11 @@ IV. Cuando el título haya surgido de un procedimiento administrativo viciado, o
 
 V. Los demás que señale la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 135.
 
-El procedimiento administrativo señalado en el artículo anterior sólo podrá ser instado por quien acredite tener un interés legítimo, dentro de los seis meses siguientes a la fecha en la que tuvo conocimiento de la expedición del título.
+El procedimiento administrativo señalado en el artículo anterior sólo podrá ser instado por quien acredite tener un interés legítimo o de oficio por la misma Dirección, dentro de los seis meses siguientes a la fecha en que tuvo conocimiento de la expedición del título.
 
 La interposición deberá hacerse mediante escrito dirigido a la Dirección y especificando en el mismo:
 
@@ -1155,13 +1173,17 @@ III. El certificado de inscripción en el Registro Público de la Propiedad del 
 
 IV. En caso de promover en representación de otra persona, conforme a lo dispuesto en la presente Ley, acompañará los documentos que acrediten tal calidad, y
 
-V. Las pruebas que ofrezca.
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2014)</small>
+
+V. Las pruebas que ofrezca, dentro de las que no serán admisibles la confesional y declaración de parte, en consideración a que la naturaleza de estas pruebas contraviene con la esencia del trámite administrativo, tomando en cuenta que éste no se equipara a una contienda entre particulares, por lo que no es concebible que el adjudicatario esté en aptitud legal de confesar o declarar hechos exclusivos de la autoridad; asimismo la prueba testimonial, ya que la materia del procedimiento de nulidad es derivada de un acto de autoridad, situación que no sería posible deducir a través del dicho de testigos.
 
 Si el promoverte fuere omiso respecto a la fracciones I, II y III de este artículo se le requerirá para que dentro del plazo de cinco días la subsane, apercibiéndolo que en caso de no hacerlo, se le tendrá por no interpuesto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 137.
 
-Admitido el procedimiento administrativo, deberá notificarse el mismo de manera personal al adjudicatario que tenga un derecho incompatible con la pretensión del promovente en el domicilio que éste proporcione en su escrito inicial, a efecto de que dentro del término de diez días hábiles comparezca a deducir lo que a sus intereses convenga, ofreciendo las pruebas que estime oportunas para acreditar sus manifestaciones.
+Admitido el procedimiento administrativo, deberá notificarse el mismo de manera personal al adjudicatario que tenga un derecho incompatible con la pretensión del promovente en el domicilio que éste proporcione en su escrito inicial, a efecto de que dentro del término de diez días hábiles comparezca a deducir lo que a sus intereses convenga, ofreciendo las pruebas que estime oportunas para acreditar sus manifestaciones, dentro de las que serán aplicables las reglas contenidas en la fracción V del artículo anterior.
 
 En caso de acreditarse el desconocimiento del domicilio, se le hará saber lo anterior mediante la publicación de un edicto por dos veces consecutivas de nueve en nueve días en el Periódico Oficial y en uno de mayor circulación en el Estado, a fin de que comparezca a manifestar lo que a su interés convenga dentro del plazo de treinta días, contados a partir de la última publicación.
 
@@ -1187,37 +1209,135 @@ Si el derecho a la división no es cuestionado por los interesados, la división
 
 Si el derecho a la partición es cuestionado, se les requerirá para que concerten en un proyecto de partición, y si no lo hicieren, el Director distribuirá el bien de acuerdo a las reglas que para la oposición a la partición en el Procedimiento Administrativo de Derechos Sucesorio contempla esta Ley.
 
-### Capítulo I. Del cambio de régimen
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2013)</small>
+### CAPÍTULO II BIS. Del procedimiento administrativo de división de las zonas de uso común
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 141 Bis.
+
+Las zonas de uso común podrán dividirse a petición por escrito de cualquiera de los adjudicatarios, acompañando los documentos siguientes:
+
+I. Original que acredite al solicitante como adjudicatario de un derecho de la zona comunal;
+
+II. Padrón de adjudicatarios autorizado por la Dirección. El padrón deberá contener nombre y domicilio del titular del derecho. En caso de ausencia o fallecimiento de aquél, se deberá señalar los datos de quien lo representa;
+
+III. Proyecto de división que se propone; y
+
+IV. Opinión favorable de cambio de uso de suelo emitida por las autoridades del fuero federal, estatal o municipal.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 141 Ter.
+
+La Dirección admitirá a trámite la solicitud, ordenando notificar con el proyecto de división a los adjudicatarios, para que en el término de treinta días comparezcan ante la Dirección a manifestar lo que a su derecho convenga, y fijará fecha para la realización de la Asamblea, que será presidida por el Director o persona designada para tal efecto.
+
+El proyecto de división referido en el párrafo anterior deberá considerar los asentamientos ahí existentes y será certificado y aprobado por el Organismo Regularizador, quien lo presentará en la Asamblea respectiva para su aprobación.
+
+Realizada la Asamblea y si existe consenso de las dos terceras partes de los adjudicatarios, la división se decretará sin más trámite de acuerdo a la propuesta de división.
+
+De no aprobarse el proyecto, se suspenderá la Asamblea y se les requerirá para que dentro de un término de treinta días presenten un nuevo proyecto de división; el cual deberá ser certificado y aprobado por el Organismo Regularizador y atenderá los planteamientos hechos en la Asamblea.
+
+Si el segundo proyecto no cumple con la aprobación calificada de la Asamblea, la Dirección pondrá fin al procedimiento administrativo de conformidad con el artículo 81 de la presente Ley.
 
 ## TÍTULO OCTAVO. DE LOS RECURSOS, DE LA EJECUCIÓN DE LAS SENTENCIAS Y DE LAS SENTENClAS
 
-### Capítulo II. De la afectación en materia de fraccionamientos
+### Capítulo I. Del cambio de régimen
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2013)</small>
 
 ###### Artículo 142.
 
 El Régimen de Fraccionamientos Rurales es de carácter social; sin embargo, aquellos que lo deseen podrán optar por el cambio de régimen y obtener el dominio pleno de sus predios con la intervención de la Dirección y el Organismo Regularizador de la Tenencia de la Tierra en Zacatecas.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2013)</small>
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
+
+En aquellos casos en que no se cuente con título definitivo, y se esté desahogando algún procedimiento ante la Dirección, una vez concluido el mismo, a petición del interesado se llevará a cabo el procedimiento de cambio de régimen con la sola resolución de adjudicación. De igual forma, por lo que respecta a reservas territoriales, la resolución que se emita, tendrá validez para los mismos efectos.
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 143.
 
-Los fraccionistas o adjudicatarios, a fin de adquirir el dominio pleno de sus tierras, deberán obtener escritura privada que acredite su propiedad.
+Los fraccionistas o adjudicatarios, de acuerdo a sus intereses, podrán iniciar el procedimiento para adquirir el dominio pleno de sus tierras, obteniendo escritura pública o privada que acredite su propiedad.
+
+La escritura privada se obtendrá a través del Organismo Regularizador o del organismo facultado para ello, en calidad de autorizado del Poder Ejecutivo.
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 144.
 
-El procedimiento de cambio de régimen deberá ser instaurado por el titular del predio o su representante legalmente acreditado.
+El procedimiento de cambio de régimen a través del dominio pleno, deberá ser instaurado por el titular del predio o su representante legalmente acreditado.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 144 Bis.
+
+Toda persona interesada en realizar el cambio de régimen de propiedad deberá reunir los siguientes requisitos:
+
+l. Poseer título definitivo expedido por el titular del Poder Ejecutivo del Estado, o resolución de adjudicación de la Dirección;
+
+ll. Que el documento se encuentre debidamente inscrito ante el Registro Público de la propiedad;
+
+III. Anexar plano de localización del terreno o lote certificado por el organismo regularizador;
+
+IV. Estar al corriente del pago del impuesto predial; y
+
+V. No existir ningún litigio pendiente de resolver respecto del predio del que se solicite el cambio de régimen.
+
+El Organismo Regularizador realizará a petición de la Dirección, los trabajos técnicos y de certificación que se requieran para el procedimiento del dominio pleno.
 
 ###### Artículo 145.
 
 (DEROGADO, P.O. 18 DE MAYO DE 2013)
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 146.
 
-La Dirección, entregará la documentación necesaria al Organismo Regularizador de la Tenencia de la Tierra en Zacatecas, para llevar a cabo el procedimiento de dominio pleno.
+El trámite se iniciará con la solicitud presentada ante la Dirección a la que anexarán los documentos que acrediten los requisitos señalados en el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 146 Bis.
+
+La solicitud deberá contener lo siguiente:
+
+l. Indicación del número de lote, nombre del fraccionamiento donde se ubica, superficie y localización, así como clase de tierra de que se trate;
+
+II. La declaración expresa de la voluntad del fraccionista de obtener del Poder Ejecutivo del Estado el dominio pleno sobre el lote; y
+
+III. La designación de la Notarla Pública ante la que se realizará la protocolización respectiva, el Organismo Regularizador o ante aquél facultado para emitir las escrituras privadas.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 146 Ter.
+
+A la recepción de la solicitud recaerá un acuerdo en el que se radicará el procedimiento, registrándose en el libro de gobierno correspondiente, ordenándose levantamiento topográfico del lote cuyo cambio de régimen se solicita. Asimismo, se ordenará publicar en el Periódico Oficial, por una sola vez el aviso de inicio del procedimiento, para que aquellos que tengan interés legal en oponerse al trámite lo hagan por escrito dentro de los diez días siguientes a la publicación. La oposición que se haga al trámite de cambio de régimen, se resolverá conforme a las reglas que para la oposición en el procedimiento administrativo de vacancia se estipulan en esta Ley.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 146 Quáter.
+
+Una vez exhibida por los interesados la publicación señalada en el artículo anterior, de oficio, el Director levantará el cómputo respecto del término para la presentación de cualquier oposición.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 146 Quinquies.
+
+Transcurrido este término sin existir oposición alguna, de oficio se citará a los interesados para oír resolución, la que se dictará dentro de un término no mayor de quince días.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 146 Sexies.
+
+Una vez resuelto el procedimiento, el titular del Poder Ejecutivo del Estado autorizará el dominio pleno mediante el acuerdo respectivo.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 146 Septies.
+
+Autorizado el cambio de régimen la Dirección remitirá el expediente respectivo a la Notaría Pública que corresponda para efectos de la protocolización, o en caso de así solicitarlo, al Organismo Regularizador para que expida la escritura privada.
 
 ###### Artículo 147.
 
@@ -1243,17 +1363,23 @@ La Dirección, entregará la documentación necesaria al Organismo Regularizador
 
 (DEROGADO, P.O. 18 DE MAYO DE 2013)
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 153.
 
-El primer instrumento privado que derive del dominio pleno que otorgue el Organismo Regularizador de la Tenencia de la Tierra en Zacatecas, será libre de derechos e impuestos estatales o municipales, con excepción del impuesto para la Universidad Autónoma de Zacatecas.
+La resolución que autoriza el cambio de régimen, se remitirá al Registro Público de la Propiedad para los trámites correspondientes.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 153 Bis.
+
+El propietario deberá pagar derechos e impuestos que se deriven de la expedición de la escritura correspondiente, además de cubrir los derechos de inscripción en el Registro Público de la Propiedad.
 
 ###### Artículo 154.
 
 (DEROGADO, P.O. 18 DE MAYO DE 2013)
 
-### Capítulo III. De la restitución de tierras
+### Capítulo II. De la afectación en materia de fraccionamientos
 
 ###### Artículo 155.
 
@@ -1279,11 +1405,15 @@ Si no se presenta escrito de inconformidad por el titular de los lotes afectados
 
 Desahogadas las pruebas que hubieren sido ofrecidas oportunamente, se dictará la resolución que proceda en un término de quince días.
 
-### Capítulo I. De los recursos
+### Capítulo III. De la restitución de tierras
 
 ###### Artículo 161.
 
 Para el caso de que un particular se encuentre en posesión de un bien perteneciente al régimen de fraccionamientos rurales y éste haya sido adjudicado a otro diverso mediante cualquiera de los procedimientos administrativos regulados por la presente Ley, la Dirección podrá requerir a aquél para que justifique la causa de su posesión en la forma y los términos legalmente idóneos.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
+
+Además, se ordenará el desahogo de un levantamiento topográfico a fin de identificar la superficie materia del procedimiento.
 
 ###### Artículo 162.
 
@@ -1291,7 +1421,7 @@ Para tal efecto se le concederá al requerido un término de cinco días hábile
 
 Si resultare que existe duplicidad de títulos expedidos por el Ejecutivo del Estado amparando el mismo inmueble, en la resolución que se dicte, el Director ordenará de manera oficiosa el inicio del procedimiento administrativo de nulidad de titulo, el cual deberá seguir la secuela contemplada para ese tipo de trámite.
 
-### Capítulo II. De la ejecución de las resoluciones
+### Capítulo I. De los recursos
 
 ###### Artículo 163.
 
@@ -1347,7 +1477,7 @@ Las resoluciones definitivas de segunda instancia causarán ejecutoria tan pront
 
 Transcurrido el término sin que se impugnen, se enviarán los autos originales de la resolución al Director para su cumplimiento.
 
-### Capítulo III. De las sanciones
+### Capítulo II. De la ejecución de las resoluciones
 
 ###### Artículo 173.
 
@@ -1382,6 +1512,8 @@ Cuando las partes o alguna de ellas, rehusare el cumplimiento de una resolución
 ###### Artículo 177.
 
 Para la ejecución de una resolución o convenio, se podrá disponer de los elementos necesarios para su debido cumplimiento. Todos los gastos que se originen serán por cuenta de quien solicite la ejecución forzosa.
+
+### Capítulo III. De las sanciones
 
 ###### Artículo 178.
 
@@ -1448,3 +1580,13 @@ P.O. 18 DE MAYO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE DICIEMBRE DE 2014.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Dentro de los 60 días siguientes a la entrada en vigor del presente Decreto, se deberán modificar las disposiciones internas que rigen el organismo, a efecto de adecuarse a la presente reforma.
+
+Tercero.- Se abroga el Decreto 605, por el que se reforman diversos ordenamientos legales para dar vigencia al Organismo Regularizador de la Tenencia de la Tierra en Zacatecas, publicado en Suplemento 2 al No. 40 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 18 de mayo de 2013. Y se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Cuarto.- Los procedimientos de regularización que hayan sido instaurados previo a la publicación de la presente reforma, se desahogarán y resolverán de conformidad con la Ley de Fraccionamientos Rurales, sin ordenarse la expedición del título, por lo que al momento de certificar la zona a la que pertenezca el inmueble e inicie el proceso de obtención del dominio pleno, el acuerdo de adjudicación servirá para acreditar el derecho que le asiste al interesado. Por tanto se remitirá el acuerdo al Organismo Regularizador de la Tenencia de la Tierra para que expida la escritura privada correspondiente.
