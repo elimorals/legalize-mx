@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-transporte-para-la-movilidad-sustentable-del-estado-5192
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-30"
-last_updated: "2012-09-14"
+last_updated: "2014-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE TRANSPORTE PARA LA MOVILIDAD SUSTENTABLE DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 30 de septiembre de 2006.
 
@@ -505,7 +505,9 @@ La modernización y racionalización del Servicio Estatal de Transporte se asien
 
 I. Movilidad Sustentable, estableciendo los siguientes lineamientos:
 
-a) Tienen uso preferencial del espacio público los peatones y el servicio público de transporte de pasajeros frente a otro tipo de vehículos;
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
+
+a) Tienen uso preferencial del espacio público los peatones, los ciclistas, y el servicio público de transporte de pasajeros frente a otro tipo de vehículos.
 
 b) Las autoridades estatales son responsables del diseño y aplicación de las políticas públicas en materia de infraestructura para la prestación del Servicio Estatal de Transporte;
 
@@ -739,7 +741,7 @@ Igualmente, estos plazos podrán variar, tratándose de los vehículos que prest
 
 ###### Artículo 30.
 
-Los prestadores del servicio de transporte están obligados a colocar en los vehículos que le sean autorizados, la información relativa al servicio que prestan, con arreglo a las disposiciones que señala el Reglamento. La información se colocará en un lugar visible al usuario y en los cuatro costados de las unidades y demás lugares que determine el Reglamento.
+Los prestadores del servicio de transporte están obligados a colocar en los vehículos que le sean autorizados, la información relativa al servicio que prestan, con arreglo a las disposiciones que señala el Reglamento. La información se colocará en un lugar visible al usuario y en los cuatro costados de las unidades y de más lugares que determine el Reglamento.
 
 ###### Artículo 31.
 
@@ -2002,3 +2004,7 @@ P.O. 24 DE DICIEMBRE DE 2010.
 P.O. 14 DE SEPTIEMBRE DE 2012.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 3 DE DICIEMBRE DE 2014.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
