@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-penales-para-el-estado-de-sonora-8462"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-17"
-last_updated: "2014-06-09"
+last_updated: "2014-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8462&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SONORA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SONORA, PUBLICADO EN EL B.O. DE FECHA 30 DE ENERO DE 2012, EL PRESENTE ORDENAMIENTO SERÁ ABROGADO, A PARTIR DEL 18 DE JUNIO DE 2016.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE DICIEMBRE DE 2014.
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 17 de agosto de 1949.
 
@@ -87,7 +87,7 @@ X.- En caso procedente, promover la conciliación o la mediación entre las part
 
 XI.- Lo demás que señalen las Leyes.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### ARTICULO 3o.
 
@@ -143,7 +143,7 @@ Asimismo, el Ministerio Público vigilará la correcta aplicación de las medida
 
 ### CAPITULO I. Competencia
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 11 DE MAYO DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE MAYO DE 1992)</small>
 
 ###### ARTICULO 6o.
 
@@ -193,7 +193,7 @@ En caso de concurso de delitos de los que deba conocer unos, el Juzgado de Prime
 
 En materia penal no cabe prórroga ni renuncia de jurisdicción.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE MARZO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MARZO DE 1997)</small>
 
 ###### ARTICULO 12.
 
@@ -323,7 +323,7 @@ Si antes de que se pongan las firmas o huellas los comparecientes hicieren algun
 
 Podrán entregarse al agente del Ministerio Público los expedientes para que los estudie fuera del local del tribunal, pero no a las demás partes que intervengan en éllos. Estas y el ofendido podrán imponerse de los autos en la secretaría del tribunal, debiéndose tomar las medidas necesarias para que no los destruyan, alteren o substraigan.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 11 DE MAYO DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE MAYO DE 1992)</small>
 
 ###### ARTICULO 29.
 
@@ -363,7 +363,7 @@ La infracción de las disposiciones contenidas en los artículos 22, 23, 24, 26,
 
 ARTICULO 32 BIS.- Las actuaciones serán nulas cuando carezcan de algunas de las formalidades esenciales que prevenga la ley, de manera que se cause perjuicio a cualquiera de las partes, así como cuando la ley expresamente determine la nulidad. Esta no podrá ser invocada por quien dio lugar a ello. La nulidad de una actuación se reclamará por la parte que la promueva, en la actuación subsecuente en que ésta deba intervenir; se substanciará conforme al procedimiento previsto para los incidentes no especificados. Cuando se resuelva la nulidad del acto, serán igualmente nulas las actuaciones posteriores al acto anulando, siempre que deriven precisamente de éste. Las resoluciones que resuelvan sobre la nulidad invocada, serán apelables en el efecto devolutivo.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 11 DE MAYO DE 1992)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 11 DE MAYO DE 1992)</small>
 
 ### CAPITULO III. Traductores
 
@@ -415,7 +415,7 @@ Las fianzas que deban otorgarse ante los tribunales, se sujetarán a las disposi
 
 En materia penal no se pagarán costas. El empleado que las cobrare o recibiere, aunque sea a título de gratificación, será destituído de su empleo, sin perjuicio de que sea consignado al Ministerio Público.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### ARTICULO 41.
 
@@ -443,7 +443,7 @@ Cuando durante el procedimiento judicial se encontrare que el hecho que se averi
 
 (DEROGADO, B.O. 11 DE MAYO DE 1992)
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### ARTICULO 46.
 
@@ -455,7 +455,7 @@ Los tribunales rechazarán de plano, sin necesidad de substanciar artículo, per
 
 ### CAPITULO V. Correcciones Disciplinarias y Medios de Apremio
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 21 DE ENERO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE ENERO DE 1988)</small>
 
 ###### ARTICULO 47.
 
@@ -483,7 +483,7 @@ Contra cualquiera providencia en que se imponga alguna corrección disciplinaria
 
 En vista de lo que manifieste el interesado, el funcionario que la hubiere impuesto resolverá desde luego lo que estime procedente.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 21 DE ENERO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE ENERO DE 1988)</small>
 
 ###### ARTICULO 49.
 
@@ -505,7 +505,7 @@ III.- Arresto hasta de treinta y seis horas.
 
 Cuando a juicio de la autoridad que haya empleado los medios de apremio, el o los usados resultaren ineficaces para hacer cumplir su determinación, pondrá el hecho en conocimiento del Ministerio Público, para los efectos que señala el Código Penal.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ### CAPITULO VI. Oficios de colaboración, requisitorias y exhortos
 
@@ -527,7 +527,7 @@ Se empleará la forma de exhorto, cuando se dirija a un Tribunal o Juez igual o 
 
 Se dará entera fe y crédito a los oficios de colaboración, a los exhortos y a las requisitorias que libren, según el caso, el Ministerio Público y los tribunales de la República, debiendo, en consecuencia, cumplimentarse siempre que llenen las condiciones fijadas por la ley o por los convenios de colaboración celebrados conforme al artículo 119 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### ARTICULO 52.
 
@@ -605,7 +605,7 @@ Fuera de los casos señalados en los artículos anteriores, los tribunales o jue
 
 ### CAPITULO VII. Cateos
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### ARTICULO 66.
 
@@ -719,7 +719,7 @@ Asimismo podrá ordenarse por teléfono a la policía que haga la citación, cum
 
 También podrá citarse por teléfono a la persona que haya manifestado expresamente su voluntad, para que se le cite por ese medio, dando el número del aparato al cual debe hablársele, sin perjuicio de que si no es hallada en ese lugar o no se considera conveniente hacerlo de esa manera, se le cite por alguno de los otros medios señalados en este Capítulo.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 84.
 
@@ -745,7 +745,7 @@ Cuando se ignorare la residencia de la persona que deba ser citada, se encargar�
 
 ### CAPITULO X. Audiencias de Derecho
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### ARTICULO 88.
 
@@ -877,7 +877,7 @@ Las notificaciones se harán a más tardar el día siguiente al en que se dicten
 
 Cuando la resolución entrañe una citación o un término para la práctica de una diligencia, se notificará personalmente con cuarenta y ocho horas de anticipación, cuando menos, al día y hora en que se haya de celebrar la actuación o audiencia a que se refiera, debiéndose tomar en cuenta lo dispuesto en el artículo 76 de este Código, y asistiéndose de traductor si la persona por notificarse no habla o no entiende suficientemente el idioma castellano.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### ARTICULO 106.
 
@@ -929,7 +929,7 @@ Las notificaciones hechas contra lo dispuesto en este capítulo, serán nulas, e
 
 ### CAPITULO I. Iniciación del Procedimiento
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### ARTICULO 115.
 
@@ -1003,11 +1003,11 @@ En los casos del artículo anterior se requerirá a quien haya presentado el doc
 
 Este artículo se aplicará también, en lo conducente, cuando se tache de falso a un testigo, con fundamento bastante, a juicio del tribunal.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ### CAPITULO II. Reglas especiales para la práctica de diligencias y levantamiento de actas de averiguación previa
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### ARTICULO 124.
 
@@ -1117,7 +1117,7 @@ Cuando dicho internamiento se haga en calidad de detenido, el traslado y vigilan
 
 En todo caso, el encargado del establecimiento a que se refiere el primer párrafo de este artículo, deberá informar por escrito a la autoridad mencionada, con una anticipación de cuando menos veinticuatro horas, bajo su estricta responsabilidad, sobre la fecha en que vaya a ser dado de alta el detenido, a fin de que se dicten las medidas que correspondan.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### ARTICULO 131.
 
@@ -1161,7 +1161,7 @@ En caso de que el indiciado quebrante el mandato de arraigo, se le sancionará e
 
 ### CAPITULO III. Consignación ante los Tribunales
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 135.
 
@@ -1383,7 +1383,7 @@ Tomando en cuenta la probable cuantía de los daños y perjuicios causados, seg�
 
 Para los efectos de este artículo, se entiende que el inculpado se encuentra sustraído de la acción de la justicia a partir del momento en que se dicte en su contra orden de aprehensión, reaprehensión o comparecencia, y hasta en tanto se ejecuta ésta.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 147.
 
@@ -1419,7 +1419,7 @@ Ordenada la apertura del procedimiento sumario, el Juez procurará cerrar la ins
 
 La declaración preparatoria se recibirá dentro de las cuarenta y ocho horas siguientes a la consignación al juzgado, en el local al que tenga acceso el público, sin que puedan estar presentes los testigos que deban ser examinados con relación a los hechos que se averigüen.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### ARTICULO 151.
 
@@ -1553,7 +1553,7 @@ Si dentro del término legal no se reúnen los requisitos necesarios para dictar
 
 ## TITULO QUINTO. Disposiciones comunes a la averiguación previa y a la instrucción
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 19 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
 ### CAPITULO I. Comprobación del Cuerpo del Delito y la Probable Responsabilidad del Inculpado
 
@@ -1663,7 +1663,7 @@ Si a pesar de haberse tomado las providencias que señala este artículo, no se 
 
 Los vestidos se describirán minuciosamente en el expediente y se conservarán en depósito seguro, para que puedan ser presentados a los testigos de identidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### ARTICULO 178.
 
@@ -1755,9 +1755,9 @@ Se califican como delitos graves, los previstos en los siguientes artículos del
 
 (NOTA: EL 3 DE AGOSTO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 1/2014, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, RESPECTO A “SECUESTRO” SURTIÓ EFECTOS RETROACTIVOS AL 28 DE FEBRERO DE 2011 Y A “TRATA DE PERSONAS” SURTIÓ EFECTOS RETROACTIVOS AL 15 DE JUNIO DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, B.O. 4 DE DICIEMBRE DE 2014)</small>
 
-Homicidio por culpa, previsto en el artículo 65, tercer párrafo; los supuestos previstos por el artículo 65 Bis; los supuestos previstos en la última parte del primer párrafo y segundo párrafo del artículo 65 Ter; homicidio previsto en el artículo 123; rebelión, previsto en el artículo 124; terrorismo y financiamiento al terrorismo previstos en el artículo 133 Bis; encubrimiento al terrorismo previsto en el artículo 133 Ter; evasión de presos, previsto en el artículo 134 cuando su comisión sea dolosa; asociación delictuosa, previsto en el artículo 142, tercer párrafo, en el caso de los supuesto (sic) previstos en el cuarto párrafo; violación de correspondencia, previsto en el segundo párrafo del artículo 152; corrupción de personas menores de edad previsto en los párrafos tercero, cuarto y quinto del artículo 168; utilización de imágenes y/o voces de personas menores de edad o de personas que no tienen la capacidad para comprender el significado del hecho para la pornografía previsto en el artículo 169 Bis 1; tortura, previsto en el artículo 181; desaparición forzada, previsto en los artículos 181 Bis y 181 Bis 3; abusos deshonestos previstos en el cuarto párrafo del artículo 213 únicamente en los supuestos de los párrafos segundo y tercero; violación y las figuras equiparadas, previstas en los artículos 218, 219 y 220; asalto, previsto en el artículo 241; lesiones que ponen en peligro la vida, previsto en el artículo 244, independientemente de las prevenciones establecidas en los artículos 245, 246, 247, 248 y 251; homicidio, previsto en el artículo 252, cuando se den los supuestos previstos en los artículos 256, 257, 258 y 259 párrafo segundo; auxilio o inducción al suicidio, cuando le correspondan las sanciones previstas en el segundo párrafo del artículo 264; feminicidio previsto en el artículo 263 Bis 1; aborto sin consentimiento y con violencia, previsto en el artículo 267; abandono de personas, previsto en el artículo 275, cuando le corresponda las sanciones señaladas en los párrafos segundo y tercero del mismo numeral; extorsión, previsto en el artículo 293; privación ilegal de la libertad, previsto en el artículo 294, cuando se da alguno de los supuestos establecidos en el artículo 295; SECUESTRO, previsto en los artículos 296, 297, 297 Bis, 297-B, 298, 298-A, 299 y 300; TRATA DE PERSONAS previsto en el artículo 301-J; sustracción de menores e incapaces, previsto en el artículo 301-E; robo, previsto en los artículos 308, fracciones I, IV, VII, VIII, IX, X y XII, excepto lo previsto en el penúltimo párrafo de este artículo, 308 Bis y 308 Bis C; abigeato respecto de ganado bovino, en los términos del artículo 312 y 313 y, respecto de ganado equino, ovino, caprino y porcino, en los términos del párrafo cuarto del artículo 312; abuso de confianza, en los casos del segundo párrafo del artículo 317; fraude, en los casos del segundo párrafo del artículo 320; despojo con intervención de autor intelectual en despoblado, en los términos del artículo 323, párrafo tercero en relación con el cuarto; daños, previsto en el artículo 327, cuando se trata de comisión dolosa; encubrimiento, previsto en los párrafos tercero y cuarto del artículo 329; y operaciones con recursos de procedencia ilícita, previsto en el artículo 329 Ter.
+Homicidio por culpa, previsto en el artículo 65, tercer párrafo; los supuestos previstos por el artículo 65 Bis; los supuestos previstos en la última parte del primer párrafo y segundo párrafo del artículo 65 Ter; homicidio previsto en el artículo 123; rebelión, previsto en el artículo 124; evasión de presos, previsto en el artículo 134 cuando su comisión sea dolosa; asociación delictuosa, previsto en el artículo 142, tercer párrafo, en el caso de los supuestos previstos en el cuarto párrafo; violación de correspondencia, previsto en el segundo párrafo del artículo 152; corrupción de personas menores de edad previsto en los párrafos tercero, cuarto y quinto del artículo 168; utilización de imágenes y/o voces de personas menores de edad o de personas que no tienen la capacidad para comprender el significado del hecho para la pornografía previsto en el artículo 169 Bis 1; tortura, previsto en el artículo 181; Desaparición forzada, previsto en los artículos 181 Bis y 181 Bis 3; abusos deshonestos previstos en el cuarto párrafo del artículo 213 únicamente en los supuestos de los párrafos segundo y tercero; violación y la (sic) figuras equiparadas, previstas en los artículos 218, 219 y 220; asalto, previsto en el artículo 241; lesiones que ponen en peligro la vida, previsto en el artículo 244, independientemente de las prevenciones establecidas en los artículos 245, 246, 247, 248 y 251; homicidio, previsto en el artículo 252, cuando se den los supuestos previstos en los artículos 256, 257, 258 y 259 párrafo segundo; auxilio o inducción al suicidio, cuando le correspondan las sanciones previstas en el segundo párrafo del artículo 264; feminicidio previsto en el artículo 263 Bis 1; aborto sin consentimiento y con violencia, previsto en el artículo 267; abandono de personas, previsto en el artículo 275, cuando le corresponda las sanciones señaladas en los párrafos segundo y tercero del mismo numeral; extorsión, previsto en el artículo 293; privación ilegal de la libertad, previsto en el artículo 294, cuando se da alguno de los supuestos establecidos en el artículo 295; SECUESTRO, previsto en los artículos 296, 297, 297 Bis, 297-B, 298, 298-A, 299 y 300; TRATA DE PERSONAS previsto en el artículo 301-J; sustracción de menores e incapaces, previsto en el artículo 301-E; robo, previsto en los artículos 308, fracciones I, IV, VII, VIII, IX, X y XII, excepto lo previsto en el penúltimo párrafo de este artículo, 308 Bis, 308 Bis C y 309; abigeato, en los términos de los artículos 312, 312 Bis y 313, respecto de ganado bovino y porcino, y respecto de las especies precisadas en el artículo 312 Bis y, respecto de ganado equino, ovino, caprino y porcino, en los términos del párrafo cuarto del artículo 312; abuso de confianza, en los casos del segundo párrafo del artículo 317; fraude, en los casos del segundo párrafo del artículo 320; despojo con intervención de autor intelectual en despoblado, en los términos del artículo 323, párrafo tercero en relación con el cuarto; daños, previsto en el artículo 327, cuando se trata de comisión dolosa; encubrimiento, previsto en los párrafos tercero y cuarto del artículo 329.
 
 Los delitos señalados en el párrafo anterior también serán considerados como graves aún en los casos de tentativa.
 
@@ -2177,7 +2177,7 @@ El careo solamente se practicará entre dos personas y no concurrirán a la dili
 
 Los careos, salvo los exceptuados en el artículo 256, se practicarán dando lectura a las declaraciones que se reputen contradictorias, llamando la atención de los careados sobre sus contradicciones, a fin de que discutan entre sí y pueda aclararse la verdad.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 259.
 
@@ -2187,7 +2187,7 @@ Cuando por cualquier motivo, no pudiere obtenerse la comparecencia de alguno de 
 
 Tratándose de careos entre el inculpado y quienes depongan en su contra, sólo procederán cuando lo solicite el inculpado o su defensor.
 
-> <small>(DEROGADO TERCER PARRAFO, B.O. 20 DE OCTUBRE DE 2005)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, B.O. 20 DE OCTUBRE DE 2005)</small>
 
 ### CAPITULO VIII. Documentos
 
@@ -2795,7 +2795,7 @@ Contra las resoluciones pronunciadas por el tribunal de revisión, no cabe recur
 
 Notificado el fallo a las partes, se remitirá desde luego la ejecutoria al tribunal que pronunció la resolución recurrida, devolviéndole el expediente, en su caso.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 11 DE MAYO DE 1992)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 11 DE MAYO DE 1992)</small>
 
 ### CAPITULO V. Queja
 
@@ -2885,7 +2885,7 @@ Toda vez que las circunstancias anteriores sólo podrán reducir la caución pre
 
 Si se negare la libertad caucional podrá solicitarse de nuevo y concederse por causas supervenientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### ARTICULO 352.
 
@@ -3483,7 +3483,7 @@ Cuando varios tribunales conocieren de procesos cuya separación se hubiere decr
 
 ### CAPITULO VI. Reparación del daño exigible a personas distintas del inculpado
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### ARTICULO 440.
 
@@ -3507,7 +3507,7 @@ En el caso de hallarse prófugo el inculpado, se continuará la tramitación del
 
 Las providencias precautorias que pudiere intentar quien tenga derecho a la reparación, se regirán por lo que dispone el Código de Procedimientos Civiles, sin perjuicio de las facultades que las leyes conceden al Fisco para asegurar su interés.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 19 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
 ### CAPITULO VI BIS. Incidente de Liquidación de Condena a la Reparación de Daños y Perjuicios
 
@@ -3549,7 +3549,7 @@ Tan pronto como se sospeche que el inculpado está loco, idiota, imbécil o sufr
 
 Inmediatamente que se compruebe que el inculpado está en alguno de los casos a que se refiere el artículo anterior cesará el procedimiento ordinario y se abrirá el especial en que la ley deja al recto criterio y a la prudencia del tribunal la forma de investigar el delito imputado, la participación que en élla hubiere tenido el inculpado, y la de estudiar la personalidad de éste, sin necesidad de que el procedimiento que se emplee sea similar al judicial.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### ARTICULO 448.
 
@@ -3567,87 +3567,87 @@ La vigilancia del recluído estará a cargo del órgano que designe el Ejecutivo
 
 ###### ARTICULO 451.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
 
 ###### ARTICULO 452.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
 
 ###### ARTICULO 453.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
 
 ###### ARTICULO 454.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
 
 ###### ARTICULO 455.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
 
 ###### ARTICULO 456.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
 
 ###### ARTICULO 457.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
 
 ###### ARTICULO 458.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
 
 ###### ARTICULO 459.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
 
 ###### ARTICULO 460.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
 
 ###### ARTICULO 461.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
 
 ###### ARTICULO 462.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
 
 ###### ARTICULO 463.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
 
 ###### ARTICULO 464.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
 
 ###### ARTICULO 465.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
 
 ###### ARTICULO 466.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
 
 ###### ARTICULO 467.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
 
 ###### ARTICULO 468.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
 
 ###### ARTICULO 469.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
 
 ###### ARTICULO 470.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
 
 ###### ARTICULO 471.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
 
 TITULO DECIMOTERCERO
 
@@ -3701,7 +3701,7 @@ Ejecución
 
 En toda sentencia condenatoria el Tribunal que la dicte prevendrá que se amoneste al reo para que no reincida, advirtiéndole de las sanciones a que se expone, lo que se hará en diligencia con las formalidades que señala el artículo 45 del Código Penal. La falta de esa diligencia no impedirá que se hagan efectivas las sanciones de reincidencia que fueren procedentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### ARTICULO 480.
 
@@ -3907,7 +3907,7 @@ Dictada la resolución se comunicará al tribunal que haya conocido del proceso 
 
 Cuando el sentenciado acredite plenamente que no puede cumplir algunas de las circunstancias de la sanción que le fue impuesta, por ser incompatible con su edad, sexo, salud o constitución física, podrá seguirse el procedimiento señalado por los artículos anteriores, sin que pueda modificarse lo que se relacione con la reparación de daños y perjuicios.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### ARTICULO 521.
 
@@ -3945,7 +3945,7 @@ El Ejecutivo Estatal, con base en la documentación relativa, si así conviniere
 
 ### CAPITULO VI BIS. Indulto necesario o reconocimiento de Inocencia
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 24 DE MARZO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE MARZO DE 1994)</small>
 
 ###### ARTICULO 526.
 
@@ -3989,7 +3989,7 @@ Recibido el proceso y, en su caso, las pruebas del promovente, se pondrá el exp
 
 Transcurridos los términos a que se refiere el artículo anterior, se fallará el asunto declarando fundada o no la solicitud, dentro de los 10 días hábiles siguientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 24 DE MARZO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE MARZO DE 1994)</small>
 
 ###### ARTICULO 531.
 
@@ -4013,7 +4013,7 @@ La rehabilitación de los derechos políticos se hará por el Congreso Local, a 
 
 La rehabilitación de los derechos civiles o de familia se hará, cuando proceda, por el tribunal que hubiere pronunciado la sentencia irrevocable.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### ARTICULO 534.
 
@@ -4269,13 +4269,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 B.O. 4 DE NOVIEMBRE DE 2010.
 
-DECRETO NUMERO 67, POR EL QUE SE ADICIONA UN TERCER PARRAFO AL ARTICULO 167 DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SONORA.
+DECRETO NÚMERO 67, POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 167 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SONORA.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 B.O. 4 DE NOVIEMBRE DE 2010.
 
-DECRETO NUMERO 68, POR EL QUE SE REFORMA EL PARRAFO CUARTO DEL ARTICULO 187 DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SONORA.
+DECRETO NÚMERO 68, POR EL QUE SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 187 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SONORA.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -4330,6 +4330,12 @@ B.O. 13 DE MARZO DE 2014.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
 B.O. 9 DE JUNIO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 4 DE DICIEMBRE DE 2014.
 
 ###### ARTÍCULO ÚNICO.
 
