@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-tribunal-de-lo-contencioso-administrativo-1244
 country: "mx"
 rank: "ley_organica"
 publication_date: "1977-01-26"
-last_updated: "1977-01-26"
+last_updated: "2014-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO-ADMINISTRATIVO DEL ESTADO DE SONORA
 
-LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO-ADMINISTRATIVO DEL ESTADO DE SONORA
+LEY ORGÁNICA DEL TRIBUNAL DE LO CONTENCIOSO-ADMINISTRATIVO DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 4 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE DICIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Alcance al Número 8 del Boletín Oficial del Estado de Sonora, el miércoles 26 de enero de 1977.
 
@@ -262,3 +264,35 @@ EL SECRETARIO DE GOBIERNO,
 Dr. Samuel Ocaña García.
 
 Firmado.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 4 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el al (sic) día siguiente du (sic) su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica del Tribunal de lo Contencioso Administrativo, publicada en el Boletín Oficial del Gobierno del Estado de Sonora el 26 de enero de 1977 en el alcance número 8.
+
+###### ARTÍCULO TERCERO.
+
+El Tribunal seguirá conociendo de los juicios y recursos que estuvieren en trámite en la fecha en que esta Ley entre en vigor, conforme al procedimiento contenido en el Título Sexto del Código Fiscal del Estado, el cual quedara derogado una vez que la sentencia que se dicte en el último juicio adquiera autoridad de cosa juzgada.
+
+En lo que respecta a los procedimientos y recursos cuya competencia le reconocen otras leyes y reglamentos al Tribunal Contencioso Administrativo y que actualmente se encuentran en trámite, se continuarán con su conocimiento.
+
+###### ARTÍCULO CUARTO.
+
+En tanto se designan y toman posesión los magistrados que deberán integrar el Tribunal en los términos del artículo 4 de la presente Ley, la actual Magistrada actualmente en funciones recibirá y continuará tramitando los juicios de conformidad con lo dispuesto en el artículo transitorio anterior y las disposiciones del presente ordenamiento.
+
+Para efectos de la primera integración del Tribunal, la actual Magistrada del Tribunal continuará en su encargo en carácter de Magistrada propietaria hasta el día 16 de Septiembre del año 2015, siendo elegible para un nuevo nombramiento en los términos de los artículos 4, 6 y 9 de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas aquellas disposiciones que se opongan a las contenidas en la presente Ley.
+
+###### ARTÍCULO SEXTO.
+
+En atención al artículo sexto transitorio de la Ley del Servicio Civil, el Tribunal de lo Contencioso Administrativo a que se refiere esta Ley, continuará conociendo de los asuntos previstos en el artículo 112 de la citada Ley del Servicio Civil, hasta en tanto se instala y constituye el Tribunal de Conciliación y Arbitraje.
