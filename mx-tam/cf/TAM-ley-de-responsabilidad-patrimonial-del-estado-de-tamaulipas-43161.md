@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-responsabilidad-patrimonial-del-estado-de-tamaulipas-431
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-11"
-last_updated: "2005-01-11"
+last_updated: "2014-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el martes 11 de enero de 2005.
 
@@ -137,11 +137,13 @@ Los daños y perjuicios que constituyan la lesión patrimonial reclamada deberá
 
 3. Las indemnizaciones por responsabilidad patrimonial que excedan el monto máximo contemplado en el presupuesto de egresos que corresponda, se cuantificarán en salarios mínimos diarios vigentes, liquidándose el importe correspondiente en la fecha de su pago.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 8.
 
-1. A falta de disposición expresa en esta ley, se aplicarán supletoriamente las contenidas en el Código Fiscal, el Código Civil y el Código de Procedimientos Civiles vigentes en el Estado.
+1. A falta de disposición expresa en esta ley, se aplicarán supletoriamente las contenidas en el Código Fiscal, el Código Civil, el Código Municipal y el Código de Procedimientos Civiles vigentes en el Estado.
 
-2. Para los efectos administrativos, la interpretación de este ordenamiento corresponde a cada ente público, y para los efectos jurisdiccionales corresponde al Tribunal Fiscal del Estado y al Poder Judicial, en su caso.
+2. Para los efectos administrativos, la interpretación de este ordenamiento corresponde a cada ente público, y para los efectos jurisdiccionales corresponde al Tribunal Fiscal del Estado, al Tribunal de Justicia Administrativa Municipal y al Poder Judicial, en su caso.
 
 ### CAPITULO II. DE LOS DAÑOS Y PERJUICIOS
 
@@ -265,9 +267,11 @@ d) La comprobación y valoración de las lesiones patrimoniales causadas, así c
 
 e) La determinación de que no se acreditaron las lesiones patrimoniales reclamadas y la improcedencia de la indemnización planteada.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 21.
 
-Las resoluciones emitidas por el ente público que nieguen la indemnización o que no satisfagan al reclamante, podrán ser impugnadas por la vía contenciosa ante el Tribunal Fiscal del Estado.
+Las resoluciones emitidas por el ente público que nieguen la indemnización o que no satisfagan al reclamante, podrán ser impugnadas por la vía contenciosa ante el Tribunal Fiscal del Estado o ante el Tribunal de Justicia Administrativa Municipal, en caso de haberse creado en el Municipio que corresponda.
 
 ###### ARTICULO 22.
 
@@ -368,3 +372,37 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los cinco días del mes de enero del año dos mil cinco.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO JAVIER HERNANDEZ FLORES.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTINEZ TORRES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Ayuntamientos que en forma libre decidan crear un Tribunal de Justicia Administrativa Municipal, deberán expresar con claridad en las disposiciones transitorias del Reglamento Interior, la fecha de inicio de sus funciones.
+
+###### ARTÍCULO TERCERO.
+
+En términos de lo dispuesto por la fracción XLVII del artículo 49 del Código Municipal para el Estado de Tamaulipas reformado mediante este Decreto, se deberá nombrar al juez del Tribunal Municipal de Justicia Administrativa.
+
+El procedimiento y reglas de elección del juez del Tribunal Justicia Administrativa Municipal a que se refiere este artículo, será el ordinario que contempla el artículo 330, del Código Municipal para el Estado de Tamaulipas, adicionado mediante este Decreto y las reglas y modalidades que al efecto se establezcan en el respectivo acuerdo que emita el Ayuntamiento correspondiente.
+
+###### ARTÍCULO CUARTO.
+
+Dentro de los 30 días siguientes a que concluya el procedimiento señalado en el artículo anterior, el Juez del Tribunal de Justicia Administrativa Municipal deberá realizar las designaciones y nombramientos correspondientes de los funcionarios que integren el Tribunal Municipal de Justicia Administrativa para su debida integración y funcionamiento.
+
+###### ARTÍCULO QUINTO.
+
+El titular del Tribunal presentará, dentro de los 10 días hábiles siguientes al inicio de funciones del órgano, un proyecto de Reglamento Interior, el cual deberá ser aprobado por las dos terceras partes de los integrantes del Ayuntamiento y publicarse en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEXTO.
+
+Los Ayuntamientos expedirán la convocatoria a que hace alusión el artículo 330, fracción I, del Código Municipal, con la anticipación suficiente para que antes del inicio de funciones del Tribunal de Justicia Administrativa ya se encuentre nombrado el Juez.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Ayuntamiento que corresponda, mediante el voto de las dos terceras partes de los miembros presentes podrá declarar la disolución del Tribunal Municipal de Justicia Administrativa. Para tal efecto deberá establecer de manera clara fundando y motivando las causas por las cuales ha tomado esa determinación. Previo a la fecha de extinción del Tribunal Municipal de Justicia Administrativa deberán concluirse los asuntos en trámite.
