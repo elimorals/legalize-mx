@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2014-09-27"
+last_updated: "2014-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -331,7 +331,7 @@ En ningún caso se entenderán exentos del pago del impuesto, los ingresos o pre
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-ARTICULO 19 QUATER. Para los efectos de este impuesto se consideran sujetos habituales, aquéllas personas que realicen dos o más actividades objeto de éste, en cada ejercicio éfiscal.
+ARTICULO 19 QUATER. Para los efectos de este impuesto se consideran sujetos habituales, aquéllas personas que realicen dos o más actividades objeto de éste, en cada ejercicio fiscal.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -505,9 +505,17 @@ e) Asociaciones rurales de interés colectivo.
 
 f) Unidad agrícola industrial de la mujer campesina.
 
-g) Colonias agrícolas y ganaderas, y
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
-III. Los pagos realizados a personas físicas por la prestación de su trabajo personal independiente por el cual se deba pagar y, en su caso, retener el Impuesto al Valor Agregado.
+g) Colonias agrícolas y ganaderas;
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+III. Los pagos realizados a personas físicas por la prestación de su trabajo personal independiente por el cual se deba pagar y, en su caso, retener el Impuesto al Valor Agregado, y
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+IV. El patrón que contrate a personas que padezcan discapacidad motriz y que para superarla requieran usar permanentemente prótesis, muletas o sillas de ruedas; mental; auditiva o de lenguaje, en un ochenta por ciento o más de la capacidad normal, o tratándose de débiles visuales en el mismo porcentaje, podrá deducir de sus ingresos, un monto equivalente al cien por ciento del impuesto causado por la remuneración del trabajador con alguna de las discapacidades citadas; el cual deberá acreditar mediante certificado de discapacidad que expida la Secretaría de Salud y apegarse al procedimiento que emita la Secretaría para la obtención de dichos estímulos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2900,3 +2908,9 @@ PRIMERO. Este Decreto entrará en vigor el uno de enero de dos mil quince.
 SEGUNDO. Se derogan todas las disposiciones que sean contrarias a lo dispuesto por el presente Decreto.
 
 TERCERO. La derogación del impuesto estatal sobre tenencia o uso de vehículos, no exime el cumplimiento de las obligaciones fiscales de ejercicios anteriores respecto de la contribución derogada, debiendo estar al corriente en el pago de los derechos de control vehicular los sujetos obligados.
+
+P.O. 4 DE DICIEMBRE DE 2014.
+
+Primero. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
