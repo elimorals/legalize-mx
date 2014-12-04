@@ -4,7 +4,7 @@ identifier: "SON-ley-que-regula-la-operacion-y-funcionamiento-de-los-42094"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2014-11-13"
+last_updated: "2014-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Cuarta Sección del Boletín Oficial del Estado de Sonora, el jueves 23 de diciembre de 2004.
 
@@ -179,9 +179,11 @@ V.- Restaurante.- Establecimiento donde se expenden alimentos preparados para su
 
 Los restaurantes deberán contar con suficientes mesas y sillas para los comensales, además de cocina industrial independiente para preparar alimentos, deberá tener el mobiliario, equipo y menú adecuados para que el importe de sus ventas de alimentos, sea por lo menos un 60% del importe de sus ventas totales anuales, reuniendo las condiciones higiénicas previstas en las Leyes General y Estatal de Salud. Podrán contar con barra y taburete, música ambiental y con grupos cantantes y/o musicales y con presentaciones artísticas y culturales para el sano esparcimiento de los clientes.
 
-> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 4 DE DICIEMBRE DE 2014)</small>
 
-V BIS.- Restaurante Bar.- Establecimiento donde se expenden alimentos preparados para su consumo inmediato, mismo que reúne y cumple con los elementos y requisitos de la fracción V de este artículo, pero que además podrá contar con bar anexo comunicado, el cual deberá estar claramente delimitado y separado del área de restaurante, ello no obstante su comunicación, donde podrán consumirse bebidas alcohólicas sin alimentos.
+V Bis.- Restaurante Rural.- Establecimiento situado en asentamiento humano que no rebase los 10,000 habitantes en su población, donde se expenden alimentos preparados para su consumo inmediato. La licencia que se autorice para la venta de bebidas con contenido alcohólico deberá ser para consumirse exclusivamente acompañadas con los alimentos y podrán servirse a manera de aperitivo antes de los alimentos en forma moderada y sólo en el caso de que el cliente vaya a consumir estos últimos. También las bebidas con contenido alcohólico podrán servirse con los alimentos y en forma más moderada después de ellos. En ningún caso, ni en ningún tiempo podrán servirse bebidas con contenido alcohólico a personas que muestren evidentes signos de ebriedad.
+
+Los restaurantes deberán contar con suficientes mesas y sillas para los comensales, además de cocina para preparar alimentos, deberá tener el mobiliario, equipo y menú adecuados para que el importe de sus ventas de alimentos, sea por lo menos un 60% del importe de sus ventas totales anuales, reuniendo las condiciones higiénicas previstas en las Leyes General y Estatal de Salud. Podrán contar con barra y taburete, música ambiental y con grupos cantantes y/o musicales y con presentaciones artísticas y culturales para el sano esparcimiento de los clientes.
 
 VI.- Tienda de Autoservicio.- Establecimiento cuya actividad comercial es la venta de comestibles, alimentos perecederos e imperecederos, artículos de consumo básicos de uso doméstico y otra clase de mercancías, en la modalidad de autoservicio, podrá contar con equipo necesario para surtir al cliente productos alimenticios embutidos, lácteos o marinos.
 
@@ -234,6 +236,10 @@ Así mismo, podrá celebrar eventos públicos masivos, tales como exposiciones, 
 XI.- Centro Deportivo o Recreativo.- Lugar en donde se ofrecen al público espectáculos deportivos o espacios físicos y servicios, destinados al esparcimiento, diversión o entretenimiento de los asistentes, en los que además pueden celebrarse eventos artísticos, culturales, sociales u otra clase de eventos y que podrá contar con venta y consumo de bebidas con contenido alcohólico mediante la licencia autorizada específica, en envases desechables higiénicos que no deberán ser de vidrio o cristal;
 
 XII.- Hotel o Motel.- Establecimiento público donde se proporciona hospedaje, además de diversos servicios integrados para la comodidad de los huéspedes, que podrán contar con venta de bebidas con contenido alcohólico, en los espacios físicos del mismo que tenga destinados a la alimentación, diversión, esparcimiento y entretenimiento de sus clientes o huéspedes o para la celebración de eventos especiales y sociales, posibilitándolo para simultáneamente presentar en éstos música ambiental viva o programada para bailar, siempre y cuando tengan dentro de su infraestructura general de operación, por lo menos establecimiento de restaurante y/o cantina y cuenten con licencia autorizada específica, pudiendo ofrecer el servicio de bar en las habitaciones de acuerdo a su calidad turística que en todo caso dictamine la autoridad estatal en materia de turismo;
+
+> <small>(ADICIONADA, B.O. 4 DE DICIEMBRE DE 2014)</small>
+
+XII Bis.- Hotel Rural o Motel Rural.- Establecimiento público, situado en asentamiento humano que no rebase los 10,000 habitantes en su población, donde se proporciona hospedaje, además de diversos servicios integrados para la comodidad de los huéspedes, que podrán contar con venta de bebidas con contenido alcohólico, en los espacios físicos del mismo que tenga destinados a la alimentación, diversión, esparcimiento y entretenimiento de sus clientes o huéspedes o para la celebración de eventos especiales y sociales, posibilitándolo para simultáneamente presentar en éstos música ambiental viva o programada para bailar, pudiendo ofrecer el servicio de bar en las habitaciones.
 
 XIII.- Porteadora.- La persona física o moral dedicada a la transportación de bebidas con contenido alcohólico dentro o fuera del Estado.
 
@@ -1580,3 +1586,9 @@ B.O. 13 DE NOVIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+B.O. 4 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
