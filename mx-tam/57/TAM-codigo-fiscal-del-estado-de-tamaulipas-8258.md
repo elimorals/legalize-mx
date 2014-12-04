@@ -4,7 +4,7 @@ identifier: "TAM-codigo-fiscal-del-estado-de-tamaulipas-8258"
 country: "mx"
 rank: "codigo"
 publication_date: "1976-12-29"
-last_updated: "2013-01-17"
+last_updated: "2014-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8258&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ CÓDIGO FISCAL DEL ESTADO
 
 > <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO SEGUNDO TRANSITORIO SE ABROGA EL PRESENTE CÓDIGO, EXCEPTUANDO SU CAPÍTULO RELATIVO AL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, HASTA EN TANTO INICIE SU VIGENCIA EL CÓDIGO DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE TAMAULIPAS QUE RESUELVE LAS CONTROVERSIAS DE CARÁCTER FISCAL, P.O. 28 DE DICIEMBRE DE 1991.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2012.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 17 DE ENERO DE 2013 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 19 DE DICIEMBRE DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de Diciembre de 1976.
 
@@ -931,17 +929,27 @@ Las resoluciones favorables a los particulares sólo podrán ser revocadas media
 
 El juicio de nulidad procede en los siguientes casos:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
-I.- Contra las resoluciones y liquidaciones de las autoridades fiscales, estatales o municipales, que determinen la existencia de un crédito fiscal, lo fijen en cantidad liquida o den las bases para su liquidación, siempre que:
+I.- Contra las resoluciones y liquidaciones de las autoridades fiscales, estatales o municipales que no cuenten con su propio Tribunal de Justicia Administrativa, que determinen la existencia de un crédito fiscal, lo fijen en cantidad liquida o den las bases para su liquidación, siempre que:
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 1.- El crédito que se le exige se ha extinguido legalmente.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
 2.- Exista error en el monto del crédito exigido;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 3.- No sea deudor del crédito que se le exige o no sea responsable de su pago;
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
 4.- Con anterioridad haya sido pagado el adeudo total o parcialmente;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 5.- Se pretenda cobrar dos veces el mismo adeudo.
 
@@ -1251,17 +1259,19 @@ VI.- Contra de ordenamientos que den normas o instrucciones de carácter general
 
 VII.- Cuando de las constancias de autos apareciera claramente que no existe la resolución o el acto impugnado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+VIII.- Cuando no se hagan valer conceptos de impugnación;
 
-VIII.- Cuando no se hagan valer conceptos de impugnación: y
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+IX.- Contra las resoluciones dictadas por los Tribunales de Justicia Administrativa Municipal; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
-IX.- En los demás casos en que la improcedencia resulte de alguna disposición de este Código o de las leyes fiscales especiales.
+X.- En los demás casos en que la improcedencia resulte de alguna disposición de este Código o de las leyes fiscales especiales.
 
 ###### ARTICULO 222.
 
@@ -1782,3 +1792,35 @@ Este porcentaje será distribuido en proporción a la recaudación que se obteng
 ###### ARTÍCULO TERCERO.
 
 Los procedimientos que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán su trámite conforme a las disposiciones aplicables al momento de su inicio.
+
+P.O. 4 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Ayuntamientos que en forma libre decidan crear un Tribunal de Justicia Administrativa Municipal, deberán expresar con claridad en las disposiciones transitorias del Reglamento Interior, la fecha de inicio de sus funciones.
+
+###### ARTÍCULO TERCERO.
+
+En términos de lo dispuesto por la fracción XLVII del artículo 49 del Código Municipal para el Estado de Tamaulipas reformado mediante este Decreto, se deberá nombrar al juez del Tribunal Municipal de Justicia Administrativa.
+
+El procedimiento y reglas de elección del juez del Tribunal (sic) Justicia Administrativa Municipal a que se refiere este artículo, será el ordinario que contempla el artículo 330, del Código Municipal para el Estado de Tamaulipas, adicionado mediante este Decreto y las reglas y modalidades que al efecto se establezcan en el respectivo acuerdo que emita el Ayuntamiento correspondiente.
+
+###### ARTÍCULO CUARTO.
+
+Dentro de los 30 días siguientes a que concluya el procedimiento señalado en el artículo anterior, el Juez del Tribunal de Justicia Administrativa Municipal deberá realizar las designaciones y nombramientos correspondientes de los funcionarios que integren el Tribunal Municipal de Justicia Administrativa para su debida integración y funcionamiento.
+
+###### ARTÍCULO QUINTO.
+
+El titular del Tribunal presentará, dentro de los 10 días hábiles siguientes al inicio de funciones del órgano, un proyecto de Reglamento Interior, el cual deberá ser aprobado por las dos terceras partes de los integrantes del Ayuntamiento y publicarse en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEXTO.
+
+Los Ayuntamientos expedirán la convocatoria a que hace alusión el artículo 330, fracción I, del Código Municipal, con la anticipación suficiente para que antes del inicio de funciones del Tribunal de Justicia Administrativa ya se encuentre nombrado el Juez.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Ayuntamiento que corresponda, mediante el voto de las dos terceras partes de los miembros presentes podrá declarar la disolución del Tribunal Municipal de Justicia Administrativa. Para tal efecto deberá establecer de manera clara fundando y motivando las causas por las cuales ha tomado esa determinación. Previo a la fecha de extinción del Tribunal Municipal de Justicia Administrativa deberán concluirse los asuntos en trámite.
