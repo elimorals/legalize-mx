@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2014-07-02"
+last_updated: "2014-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -289,7 +289,9 @@ IX. Resolver conforme al procedimiento que establece el artículo 7° de la Ley 
 
 Las atribuciones del Congreso del Estado en relación con sus asuntos internos son:
 
-I. Nombrar al Oficial Mayor; al Contralor Interno; al Coordinador del Instituto de Investigaciones Legislativas; al Coordinador de Servicios Parlamentarios; y al Coordinador de Finanzas, y removerlos conforme a lo dispuesto en el Reglamento;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+I. Nombrar al Oficial Mayor; al Coordinador General de Servicios Parlamentarios; al Contralor Interno; al Coordinador del Instituto de Investigaciones Legislativas; y al Coordinador de Finanzas, y removerlos conforme a lo dispuesto en el Reglamento;
 
 II. Coordinarse por conducto de la Comisión de Vigilancia, con la Auditoría Superior del Estado, en los términos que disponga la ley de la materia;
 
@@ -685,7 +687,9 @@ b) Instituto de Investigaciones Legislativas, con las siguientes áreas:
 
 3. Biblioteca.
 
-c) Coordinación de Servicios Parlamentarios.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+c) Coordinación General de Servicios Parlamentarios.
 
 d) Coordinación de Asesoría y Secretariado Técnico de Comisiones.
 
@@ -739,7 +743,9 @@ V. Vigilar que el desarrollo de las sesiones y los actos emanados de las mismas,
 
 VI. Designar las comisiones de cortesía que juzgue pertinentes;
 
-VII. Conducir y vigilar el trabajo de las comisiones, y coordinar los trabajos de la Coordinación de Servicios Parlamentarios, de la Coordinación de Asuntos Jurídicos, y de la Coordinación de Comunicación Social;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+VII. Conducir y vigilar el trabajo de las comisiones, y coordinar los trabajos de la Coordinación General de Servicios Parlamentarios; de la Coordinación de Asuntos Jurídicos, y de la Coordinación de Comunicación Social;
 
 VIII. Proponer al Pleno la designación, y la remoción en su caso, del Coordinador del Instituto de Investigaciones Legislativas;
 
@@ -1413,7 +1419,7 @@ Es competencia de la Comisión de Justicia, la atención, análisis, discusión 
 
 I. Los concernientes a la legislación civil o penal;
 
-II. Los relacionados con las leyes orgánicas del Poder Judicial, y de la Procuraduría General de Justicia del Estado;
+II. Los relacionados con las leyes orgánicas del Poder Judicial y de la Procuraduría General de Justicia del Estado;
 
 III. Los tocantes a justicia administrativa y laboral del Estado;
 
@@ -1707,7 +1713,9 @@ b) Del Instituto de Investigaciones Legislativas, dependiente del Comité respec
 
 II. De los Órganos de Apoyo, Administrativos y de Control:
 
-a) La Coordinación de Servicios Parlamentarios, dependiente de la Directiva: a la que corresponde la asistencia y realización de los trabajos necesarios para que ésta se encuentre en condiciones de ejercer sus funciones; así como la construcción y actualización de la página de internet del Congreso, en lo tocante a la Gaceta Parlamentaria.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+a) La Coordinación General de Servicios Parlamentarios, dependiente de la Directiva: a la que corresponde: la asistencia y realización de los trabajos necesarios para que ésta se encuentre en condiciones de ejercer sus funciones; así como la actualización en la página de internet del Congreso, de la información de la actividad legislativa, y en lo tocante a la Gaceta Parlamentaria; además, proponer el protocolo para el desarrollo de las sesiones del Pleno, y la Diputación Permanente.
 
 > <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2010)</small>
 
@@ -2238,3 +2246,11 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 TERCERO. Los poderes, Ejecutivo; Legislativo; y Judicial; los ayuntamientos; los organismos descentralizados; los organismos constitucionales autónomos, y los fideicomisos públicos, a través del órgano de control interno que les corresponda, deberán remitir a la Auditoría Superior del Estado, la información que obre en sus registros y archivos, de un periodo que deberá comprender de diez años anteriores a la fecha de publicación de este Decreto, relativa a las sanciones e inhabilitaciones dictadas en contra de todos y cada uno de los servidores públicos sujetos de responsabilidad, por los actos u omisiones que hayan realizado derivados de sus funciones, dentro del servicio público estatal y municipal; que deberán entregar sin exceder el plazo de ciento veinte días, contados a partir de la vigencia de este Decreto.
 
 CUARTO. La Auditoría Superior del Estado deberá recabar toda la información para la correcta integración del Registro Estatal de Servidores Públicos Sancionados e Inhabilitados, para lo cual, además de la recepción de toda la documentación a que refiere el transitorio tercero de este Decreto, deberá agregar todas las sanciones e inhabilitaciones que consten en los archivos de la propia Auditoría, así como revisar todas las actas de cabildo que se encuentren a su disposición de los 58 ayuntamientos de la Entidad, donde consten sanciones a servidores públicos, incluyendo las inhabilitaciones de diez años anteriores a la fecha de vigencia de este Decreto, a fin de que sean incorporadas al Registro Estatal de Servidores Públicos sancionados e Inhabilitados, para lo cual dispondrá de un termino de ciento cincuenta días contados a partir de la vigencia del presente Decreto, a efecto de poner en operación el Registro Estatal de Servidores Públicos Sancionados e Inhabilitados.
+
+P.O. 4 DE DICIEMBRE DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor el uno de enero de dos mil quince, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Por lo que corresponde a la Sexagésima Legislatura, a la entrada en vigor del presente Decreto, el funcionario que actualmente ocupa el cargo de Coordinador de Servicios Parlamentarios, electo el veinte de septiembre de dos mil doce, pasa a ser Coordinador General de Servicios Parlamentarios.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
