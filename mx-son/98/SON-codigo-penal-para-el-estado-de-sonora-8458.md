@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2014-12-01"
+last_updated: "2014-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CÓDIGO PENAL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE DICIEMBRE DE 2014.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -1205,7 +1205,7 @@ El plazo para la prescripción se aumentará en una mitad más, si el imputado, 
 
 La acción penal prescribirá en un plazo igual al término medio aritmético de la pena privativa de libertad que corresponda al delito cometido, incluyendo sus modalidades. Tratándose de los delitos de oficio, dicho plazo nunca será menor de tres años ni mayor de quince y en los delitos de querella nunca será menor de dos años ni mayor de diez.
 
-(NOTA: EL 3 DE AGOSTO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 1/2014, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, RESPECTO A "SECUESTRO" SURTIÓ EFECTOS RETROACTIVOS AL 28 DE FEBRERO DE 2011 Y A "TRATA DE PERSONAS" SURTIÓ EFECTOS RETROACTIVOS AL 15 DE JUNIO DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(NOTA: EL 3 DE AGOSTO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 1/2014, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, RESPECTO A “SECUESTRO” SURTIÓ EFECTOS RETROACTIVOS AL 28 DE FEBRERO DE 2011 Y A “TRATA DE PERSONAS” SURTIÓ EFECTOS RETROACTIVOS AL 15 DE JUNIO DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADO, B.O. 28 DE NOVIEMBRE DE 2013)</small>
 
@@ -4083,9 +4083,9 @@ VII.- En una oficina recaudadora o en otra en que se conserven caudales;
 
 VIII.- Aprovechando las condiciones de confusión que se produzcan por catástrofe o desorden público;
 
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, B.O. 4 DE DICIEMBRE DE 2014)</small>
 
-IX.- Respecto de maquinaria, insumos y equipos agrícolas, frutos por cosechar o cosechados que se encuentren en el asiento de producción;
+IX.- Respecto de maquinaria, insumos o productos pesqueros; maquinaria, insumos o productos acuícolas; maquinaria, insumos o productos avícolas; maquinaria, insumos o equipos para la engorda de ganado o la producción de leche; alimento para ganado; maquinaria, insumos o equipos agrícolas, frutos por cosechar o cosechados, siempre que dichos objetos materiales se encuentren en el asiento de producción o en el lugar o recipiente relacionado a éste donde se guarden o conserven.
 
 > <small>(REFORMADA, B.O. 17 DE JUNIO DE 2010)</small>
 
@@ -4101,13 +4101,13 @@ XI.- (DEROGADA, B.O. 16 DE DICIEMBRE DE 2013)
 
 XII.- Respecto de bienes que integren la infraestructura destinada a la prestación de los servicios de agua potable, alcantarillado y saneamiento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(REFORMADO, B.O. 4 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, B.O. 11 DE OCTUBRE DE 2012)</small>
+En el supuesto de la fracción I, cuando se haya utilizado violencia en las cosas sin que el agente haya portado arma de fuego o explosivo, así como en los supuestos de las fracciones V y VI, y tratándose de frutos, productos o alimento que se encuentren en el asiento de producción o en los lugares o recipientes precisados en la fracción IX, se impondrá la sanción establecida en el artículo 305, y podrá extinguirse la acción penal mediante la manifestación expresa por parte de la víctima u ofendido de su desinterés jurídico en relación con la investigación o la prosecución de la causa, siempre y cuando el monto del objeto materia del apoderamiento no exceda de doscientas veces el salario mínimo diario general vigente en la capital del Estado, al momento de cometerse el delito.
 
-En el supuesto de la fracción I, cuando se haya utilizado violencia en las cosas sin que el agente haya portado arma de fuego o explosivo, así como en los supuestos de las fracciones V y VI, y tratándose de frutos por cosechar o cosechados que se encuentren en el asiento de producción, precisados en la fracción IX, se impondrá la sanción establecida en el artículo 305, y podrá extinguirse la acción penal mediante la manifestación por parte de la víctima u ofendido de su desinterés jurídico en relación con la investigación, siempre y cuando el monto del objeto materia del apoderamiento no exceda de doscientas veces el salario mínimo diario general vigente en la capital del Estado, al momento de cometerse el delito.
+> <small>(REFORMADO, B.O. 4 DE DICIEMBRE DE 2014)</small>
 
-Cuando el objeto materia del apoderamiento lo constituya partes de vehículos de propulsión mecánica, cuyo valor exceda de trescientas veces el salario mínimo diario general vigente en la Capital del Estado, al momento de cometerse el delito, la sanción será la prevista en el primer párrafo de este artículo.
+Cuando el objeto materia del apoderamiento lo constituya partes de vehículos de propulsión mecánica, cuyo valor exceda de trescientas veces el salario mínimo diario general vigente en la Capital del Estado, al momento de cometerse el delito, la sanción será la prevista en el primer párrafo de este artículo. Igual sanción se aplicará a quien transporte o posea alguno de los objetos materiales referidos en la fracción IX cuyo valor exceda de doscientas veces el salario mínimo diario general vigente en la capital del Estado, siempre que no pueda justificar su legítima procedencia.
 
 > <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
@@ -4191,25 +4191,43 @@ ARTICULO 311 BIS.- En el presente capitulo, el Ministerio Público, en caso de r
 
 Comete el delito de abigeato el que se apodere de una o más cabezas de ganado de las especies señaladas en este Capítulo, sin consentimiento de la persona que pueda disponer de ellas conforme a la ley.
 
-Al responsable del delito de abigeato se le aplicarán de dos a diez años de prisión y de veinte a trescientos días multa, cuando el hecho se ejecute respecto de ganado bovino. Tratándose de ganado equino, ovino, caprino y porcino, la sanción será de uno a nueve años de prisión y de veinte a doscientos cincuenta días multa.
+> <small>(REFORMADO, B.O. 4 DE DICIEMBRE DE 2014)</small>
 
-Cuando se trate de ganado de cualquiera de las especies señaladas en este artículo, que sean el pie de cría o sementales en producción para el mejoramiento genético, las sanciones que correspondan se aumentarán en una tercera parte.
+Al responsable del delito de abigeato se le aplicarán de cuatro a diez años de prisión y de cuarenta a trescientos días multa, cuando el hecho se ejecute respecto de ganado bovino o porcino. Tratándose de ganado equino, ovino o caprino, la sanción será de uno a nueve años de prisión y de veinte a doscientos cincuenta días multa.
+
+> <small>(REFORMADO, B.O. 4 DE DICIEMBRE DE 2014)</small>
+
+Cuando se trate de semovientes de cualquiera de las especies señaladas en este Capítulo, que sean el pie de cría o sementales en producción, las sanciones que correspondan se aumentarán en una tercera parte.
 
 Si en la ejecución de este delito se utilizare violencia en las personas o en las cosas, el máximo de la pena de prisión que corresponda se aumentará en dos años.
 
 En todos los casos se impondrá como sanción el decomiso de los instrumentos del delito, considerándose entre éstos, enunciativamente, las cabalgaduras de que se sirvan los abigeos para arrear el ganado y los vehículos en que se realice su transporte o el de sus productos.
 
-Son aplicables al delito de abigeato las disposiciones contenidas en los artículos 306 y 307.
+> <small>(REFORMADO, B.O. 4 DE DICIEMBRE DE 2014)</small>
+
+Son aplicables al delito de abigeato las disposiciones contenidas en el artículo 306.
+
+> <small>(ADICIONADO, B.O. 4 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 312 BIS.- Se considera que comete el delito de abigeato y se sancionará con la misma pena establecida para el abigeato de ganado bovino o porcino, al que se apodere de una o más cabezas o practique cacería furtiva de borrego cimarrón uovíscanadenis, venado cola blanca uodocoileusvirginianus, venado bura u odocoileushemionus, berrendo o antilocapra americana, o de jabalí de collar o dycotilestajacu, siempre que se trate de semovientes ajenos.
+
+> <small>(REFORMADO, B.O. 4 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 313.
 
-Se considera que comete el delito de abigeato, para los efectos de la sanción:
+Se equipara al abigeato y se sancionará con la pena que corresponda de acuerdo a los artículos anteriores, atendiendo a la especie de ganado de que se trate:
 
-I.- El que adquiera, tenga en su poder, transporte o sacrifique ganado objeto o materia de un delito de abigeato, sea agente de la autoridad o particular, si no tomaron las medidas indispensables para cerciorarse de su legítima procedencia;
+I.- Al que marque, señale, o de cualquier manera estampe o coloque un signo o distintivo en cualquier parte del cuerpo de uno o más animales ajenos de las especies a que refiere este Capítulo, o de cualquier forma altere las marcas, señales o distintivos que tenga dicho ganado.
 
-II.- El que justifique la adquisición, posesión, transporte o sacrificio de ganado con documentación falsificada o con documentación auténtica, cuando las marcas o señales no correspondan o estén alteradas; y
+II.- Al que sacrifique, adquiera, transporte o de cualquier manera tenga en su poder, uno o más animales de las especies señaladas en este Capítulo, o parte de sus cuerpos, siempre que no pueda justificar su legítima procedencia.
 
-III.- El que marque ganado equino, asnal o bovino o señale este último, siendo ajeno, sin consentimiento del dueño, o al que altere en cualquier forma las marcas o señales que tenga dicho ganado.
+III.- Al que justifique el sacrificio, adquisición, transporte o posesión de uno o más animales de las especies señaladas en este Capítulo, o parte de sus cuerpos, con documentación falsificada o con documentación auténtica, cuando las marcas, señales o distintivos con que cuenten dichos animales o las características de las partes de los cuerpos no correspondan o estén alteradas.
+
+> <small>(ADICIONADO, B.O. 4 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 313 BIS.- Cuando los delitos previstos en este Capítulo se cometan entre ascendientes y descendientes, adoptante y adoptado, cónyuges, concubinos, hermanos o parientes consanguíneos en línea colateral hasta el tercer grado, así como por los suegros contra su yerno o nuera, por éstos contra aquellos, por un padrastro contra su hijastro o viceversa, sólo se perseguirán cuando lo pida el ofendido, excepto cuando se hubiere ejecutado empleándose violencia en las personas o en las cosas y no se trate de la estrictamente necesaria para materializar el sacrificio o la cacería furtiva, en su caso.
+
+En todos los casos previstos en este Capítulo, cuando no se haya utilizado la violencia en las personas o en las cosas, o cuando habiéndose utilizado se trate de la estrictamente necesaria para materializar el sacrificio o la cacería furtiva, la acción penal podrá extinguirse cuando exista manifestación expresa de desinterés jurídico por parte de la víctima u ofendido en la investigación del delito o la prosecución de la causa.
 
 ###### ARTICULO 314.
 
@@ -4832,3 +4850,9 @@ B.O. 1 DE DICIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+B.O. 4 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
