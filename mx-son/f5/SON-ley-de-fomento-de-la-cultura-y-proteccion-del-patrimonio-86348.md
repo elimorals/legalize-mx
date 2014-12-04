@@ -4,7 +4,7 @@ identifier: "SON-ley-de-fomento-de-la-cultura-y-proteccion-del-patrimonio-86348"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-01"
-last_updated: "2011-12-01"
+last_updated: "2014-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86348&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE FOMENTO DE LA CULTURA Y PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección VII del Boletín Oficial del Estado de Sonora, el jueves 1 de diciembre de 2011.
 
@@ -661,6 +661,8 @@ No obstante lo anterior, el Gobierno del Estado será coadyuvante en la protecci
 
 ### CAPÍTULO XIV. DE LAS SANCIONES
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], B.O. 4 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 71.
 
 Las autoridades educativas y culturales, con el apoyo de la Secretaría de Educación y Cultura, fomentarán el hábito de la lectura entre la población de Sonora y promoverán su mayor acceso a la producción escrita.
@@ -683,9 +685,13 @@ VI.- Organizar concursos anuales en el estado dirigidos, principalmente, a los a
 
 ### CAPÍTULO XV. DEL RECURSO
 
+> <small>(ADICIONADO, B.O. 4 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 73.
 
 Corresponde al Instituto ejercer, en el ámbito de su competencia, la vigilancia respecto del cumplimiento de las disposiciones de la presente ley, por parte de los particulares y de las autoridades; así como la imposición de las sanciones administrativas en los términos de esta ley y su Reglamento. La imposición de las penas de conductas violatorias a la presente ley que constituyan delitos, es facultad exclusiva de la autoridad judicial competente.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], B.O. 4 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 74.
 
@@ -693,11 +699,79 @@ Se impondrá multa hasta por el valor de los daños causados, a aquellas persona
 
 La sanción a que se refiere el párrafo anterior, se aplicará independientemente de la suspensión provisional de la obra por parte del Instituto o de la autoridad municipal en auxilio de aquél, procediéndose a su restauración o reconstrucción.
 
+> <small>(REFORMADO, B.O. 4 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 75.
 
-Los servidores públicos del Gobierno del Estado o ayuntamientos que autoricen la demolición y restauración de los bienes declarados y sujetos a protección sin ajustarse a lo dispuesto por esta ley, serán sancionados de acuerdo a la gravedad del daño ocasionado, con suspensión o destitución del cargo, en apego a los procedimientos establecidos por la Ley de la materia, sin perjuicio de la responsabilidad que otros ordenamientos jurídicos señalen.
+Los servidores públicos del Gobierno del Estado o ayuntamientos que autoricen la demolición y restauración de los bienes culturales declarados y sujetos a protección sin ajustarse a lo dispuesto por esta ley, serán sancionados de acuerdo a la gravedad del daño ocasionado, con suspensión o destitución del cargo, en apego a los procedimientos establecidos por la Ley de la materia, sin perjuicio de la responsabilidad que otros ordenamientos jurídicos señalen.
+
+> <small>(REFORMADO, B.O. 4 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 76.
+
+Las faltas administrativas se sancionarán con multa de 100 a 1000 días de salario mínimo general vigente en la capital del Estado, sin perjuicio de ordenar que el infractor cumpla con la obligación que es a su cargo conforme a la Ley y su reglamento.
+
+> <small>(ADICIONADO, B.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 77.
+
+Son faltas administrativas:
+
+I.- La ocultación de un bien cultural protegido por esta Ley;
+
+II.- La falta de comunicación de la transferencia de dominio de un bien cultura (sic) protegido por esta Ley;
+
+III.- El incumplimiento de disposiciones administrativas dadas por autoridades competentes, que no constituyen delito; y
+
+IV.- Toda contravención a esta Ley y su reglamento, que no esté considerado como delito.
+
+> <small>(ADICIONADO, B.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 78.
+
+Se impondrá prisión de seis meses a tres años y multa de diez a quinientos días de salario mínimo general vigente en el Estado, al que en contra de la prohibición de la Ley o de la autoridad a quien corresponda, dada por escrito y notificada personalmente al interesado, realice u ordene trabajos de construcción de cualquier índole, incluso de restauración, que cause daño en un bien adscrito al Patrimonio Cultura (sic) del Estado.
+
+> <small>(ADICIONADO, B.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 79.
+
+Se impondrá prisión de uno a cinco años y multa de cien a mil días de salario mínimo general vigente en el Estado, al que exporte o transmita a extranjeros bienes adscritos al Patrimonio Cultural del Estado.
+
+> <small>(ADICIONADO, B.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 80.
+
+Se impondrá prisión de uno a cinco años y multa de cien a mil días de salario mínimo general vigente en el Estado, al que destruya un bien adscrito al Patrimonio Cultural.
+
+> <small>(ADICIONADO, B.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 81.
+
+A los reincidentes en los delitos tipificados en esta Ley se les aumentará la sanción desde dos tercios hasta otro tanto de la duración de la pena. La sanción para quienes resulten delincuentes habituales, se aumentará de uno a dos tantos de la que corresponda al delito mayor.
+
+Para resolver sobre la reincidencia y habitualidad se estará a los principios del Código Penal del Estado.
+
+La graduación de las sanciones a que esta Ley se refiere se hará tomando en cuenta la educación, las costumbres y la conducta del sujeto, sus condiciones económicas y los motivos y circunstancias que le impulsaron a delinquir.
+
+> <small>(ADICIONADO, B.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTICULO 82.
+
+Corresponde a la Procuraduría General de Justicia del Estado, el ejercicio de las acciones que de acuerdo con sus facultades se deriven de la aplicación de esta Ley.
+
+> <small>(ADICIONADO, B.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 83.
+
+Para los efectos de este Capítulo serán solidariamente responsables de las violaciones a las disposiciones de esta Ley:
+
+I.- Los propietarios de los inmuebles involucrados en las citadas violaciones; y
+
+II.- Quienes ordenen o hayan ordenado las acciones constitutivas de la violación.
+
+(REUBICADO, B.O. 4 DE DICIEMBRE DE 2014)
+
+###### ARTÍCULO 84.
 
 Contra las resoluciones dictadas con fundamento en las disposiciones de la presente ley y demás derivadas de ésta, podrá interponerse el recurso de inconformidad que establece la Ley de Procedimiento Administrativo del Estado de Sonora.
 
@@ -722,3 +796,11 @@ SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- HERMOSILLO SONORA, 15 DE NOVIEMBR
 POR TANTO, MANDO SE PUBLIQUE EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO Y SE LE DÉ EL DEBIDO CUMPLIMIENTO.-
 
 DADO EN LA RESIDENCIA DEL PODER EJECUTIVO, EN LA CIUDAD DE HERMOSILLO, SONORA, A LOS DIECISEIS DÍAS DEL MES DE NOVIEMBRE DEL AÑO DOS MIL ONCE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO. GUILLERMO PADRÉS ELÍAS.- RÚBRICA.- EL SECRETARIO DE GOBIERNO.- HÉCTOR LARIOS CÓRDOVA.- RUBRICA.-
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 4 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
