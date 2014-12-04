@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2014-10-23"
+last_updated: "2014-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY NÚMERO 77 ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -795,13 +795,17 @@ XXVI.- De Vivienda;
 
 XXVII.- De Protección Civil;
 
-> <small>(ADICIONADA, B.O. 23 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, B.O. 4 DE DICIEMBRE DE 2014)</small>
 
-XXVIII.- De los Derechos de la Niñez y la Adolescencia; y
+XXVIII.- De los Derechos de la Niñez y la Adolescencia;
 
-> <small>(ADICIONADA, B.O. 23 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, B.O. 4 DE DICIEMBRE DE 2014)</small>
 
-XXIX.- Especiales aprobadas por el pleno del Congreso del Estado con tal carácter.
+XXIX.- Desarrollo Urbano; y
+
+> <small>(ADICIONADA, B.O. 4 DE DICIEMBRE DE 2014)</small>
+
+XXX.- Especiales aprobadas por el pleno del Congreso del Estado con tal carácter.
 
 ###### ARTÍCULO 93.
 
@@ -1956,6 +1960,12 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 B.O. 23 DE OCTUBRE DE 2014.
 
 DECRETO NÚMERO 118, POR EL QUE SE REFORMAN LOS ARTÍCULOS 32, FRACCIÓN XIV, 92 FRACCIONES XXVI Y XXVII, Y SE ADICIONAN LAS FRACCIONES XXVIII Y XXIX, Y SE DEROGA EL ARTÍCULO 182 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 4 DE DICIEMBRE DE 2014.
 
 ###### ARTÍCULO ÚNICO.
 
