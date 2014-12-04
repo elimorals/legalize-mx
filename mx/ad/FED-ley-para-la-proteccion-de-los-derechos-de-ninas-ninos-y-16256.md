@@ -4,7 +4,7 @@ identifier: "FED-ley-para-la-proteccion-de-los-derechos-de-ninas-ninos-y-16256"
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-29"
-last_updated: "2014-04-02"
+last_updated: "2014-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16256&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2000-05-23"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, PUBLICADA EN EL D.O.F. DE 4 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE DICIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 29 de mayo de 2000.
 
@@ -47,7 +49,7 @@ La Federación, el Distrito Federal, los estados y los municipios en el ámbito 
 
 ###### Artículo 2.
 
-Para los efectos de esta ley, son niñas y niños las personas de hasta 12 años incompletos (sic), y adolescentes los que tienen entre 12 años cumplidos y 18 años incumplidos.
+Para los efectos de esta ley, son niñas y niños las personas de hasta 12 años incompletos, y adolescentes los que tienen entre 12 años cumplidos y 18 años incumplidos.
 
 ###### Artículo 3.
 
@@ -578,3 +580,37 @@ D.O.F. 2 DE ABRIL DE 2014.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Se concede un plazo de trescientos sesenta y cinco días naturales, contados a partir de la fecha en que entren en vigor estas modificaciones, para que las empresas, instituciones, dependencias y, en general, todos los obligados conforme a este Decreto efectúen las adecuaciones físicas necesarias para dar cumplimiento a las disposiciones de la ley correspondiente.
+
+D.O.F. 4 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El Congreso de la Unión y las legislaturas de las entidades federativas, en el ámbito de sus respectivas competencias, realizarán las modificaciones legislativas conforme a lo dispuesto en el presente Decreto, dentro de los ciento ochenta días naturales siguientes a su entrada en vigor.
+
+TERCERO. Los Sistemas de Protección Locales y Municipales deberán integrarse a más tardar dentro de los noventa días siguientes a la entrada en vigor de las modificaciones legislativas a que se refiere el transitorio anterior.
+
+CUARTO. Se abroga la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes.
+
+QUINTO. Las disposiciones reglamentarias derivadas de esta Ley deberán ser expedidas por el Ejecutivo Federal en un plazo no mayor a los ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. La Procuraduría Federal de Protección de Niñas, Niños y Adolescentes deberá constituirse a partir del siguiente ejercicio presupuestal a la publicación del presente Decreto.
+
+Para efectos del párrafo anterior, el Sistema Nacional DIF deberá reformar su Estatuto Orgánico, a fin de que en un plazo no mayor a noventa días naturales, a partir de la entrada en vigor del presente Decreto, se formalice la creación de la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes, con sus respectivas unidades administrativas.
+
+SÉPTIMO. El Sistema Nacional de Protección Integral deberá quedar instalado dentro de los ciento ochenta días naturales, posteriores a la publicación del presente Decreto. En su primera sesión, el Presidente del Sistema Nacional de Protección Integral someterá a consideración y aprobación del mismo los lineamientos para su integración, organización y funcionamiento, así como la designación del Titular de la Secretaría Ejecutiva del Sistema.
+
+El Titular de la Secretaría Ejecutiva del Sistema, una vez instalado el Sistema Nacional de Protección Integral, dentro de los siguientes treinta días naturales, deberá presentar a consideración y en su caso aprobación de los integrantes del Pleno, el proyecto de lineamientos a que se refiere el artículo 129 de la Ley General de (sic) Derechos de Niñas, Niños y Adolescentes.
+
+El Presidente del Sistema Nacional de Protección Integral realizará las acciones necesarias para la elaboración del Programa Nacional, el cual deberá aprobarse dentro de los ciento ochenta días naturales siguientes a la instalación del Sistema Nacional de Protección.
+
+OCTAVO. Las referencias que esta Ley hace a la Fiscalía General de la República, se entenderán realizadas a la Procuraduría General de la República, hasta en tanto entre en vigor la autonomía constitucional de dicha Fiscalía.
+
+NOVENO. Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, celebrarán convenios y programas especiales para abatir el rezago de registro de nacimientos de niñas, niños y adolescentes.
+
+DÉCIMO. Para efectos de lo dispuesto en la fracción VI del artículo 122 de la Ley que se emite por virtud del presente Decreto, en tanto entran en vigor las disposiciones aplicables del Código Nacional de Procedimientos Penales, se aplicarán las medidas establecidas en la legislación procesal penal correspondiente.
+
+DÉCIMO PRIMERO. Los centros de asistencia que se encuentren operando con antelación a la entrada en vigor del presente Decreto contarán con un plazo de 180 días a partir de su publicación en el Diario Oficial de la Federación para realizar las adecuaciones conducentes en términos de lo previsto por la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+
+DÉCIMO SEGUNDO. La Cámara de Diputados del Congreso de la Unión, a propuesta del Ejecutivo Federal, establecerá una partida presupuestal para coadyuvar en la implementación de las adecuaciones a las que se refiere el transitorio anterior y la operación de los Centros de Asistencia Social.
+
+DÉCIMO TERCERO. Las autoridades de la federación, de las entidades federativas, de los municipios y de las demarcaciones territoriales del Distrito Federal, con el objeto de dar cumplimiento a lo previsto en la Ley que se expide por virtud del presente Decreto, deberán implementar las políticas y acciones correspondientes conforme a los programas aplicables y los que deriven de la misma.
