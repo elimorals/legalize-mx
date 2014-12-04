@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2014-06-28"
+last_updated: "2014-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -1075,11 +1075,11 @@ III. El secretario dará a conocer el resultado a la Presidencia del Congreso, s
 
 IV. Si al conocerse los resultados de la votación económica en voz de la Presidencia, algún diputado solicita que se cuenten los votos, el Presidente, los secretarios y todos los diputados volverán a ponerse de pie; en primer término los que hayan votado por la afirmativa y, posteriormente, los que se hayan manifestado por la negativa.
 
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 117.
 
-Previamente a su inclusión en la Gaceta Parlamentaria, el texto de los dictámenes aprobados por las comisiones deberá ser revisado, en cuanto a redacción y estilo, por la Coordinación de Servicios Parlamentarios, la que de encontrar observaciones que trasciendan su sentido, lo comunicará por escrito a los presidentes de las comisiones de origen, a efecto de que se tomen las medidas pertinentes. El dictamen se publicará en la Gaceta hasta que lo ordenen las propias comisiones.
+Previamente a su inclusión en la Gaceta Parlamentaria, el texto de los dictámenes aprobados por las comisiones deberá ser revisado en cuanto a redacción y estilo por la Coordinación General de Servicios Parlamentarios, la que de encontrar observaciones que trasciendan su sentido, lo comunicará por escrito a los presidentes de las comisiones de origen, a efecto de que se tomen las medidas pertinentes. El dictamen se publicará en la Gaceta hasta que lo ordenen las propias comisiones.
 
 ### CAPITULO V. DE LAS ACTAS
 
@@ -1321,7 +1321,9 @@ VI. Llevar el control trimestral del número de reuniones;
 
 VII. Recibir la acreditación del nombramiento del asesor y del secretario técnico de la comisión o comité que designe la Junta;
 
-VIII. Ser responsable de los expedientes y de los documentos desde el momento de recibirlos, y hasta la fecha de su devolución al Pleno con el dictamen correspondiente, a través de la Coordinación de Servicios Parlamentarios; cuando se trate de comisiones de dictamen legislativo;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+VIII. Ser responsable de los expedientes y de los documentos desde el momento de recibirlos, y hasta la fecha de devolución al Pleno con el dictamen correspondiente, a través de la Coordinación General de Servicios Parlamentarios, cuando se trate de comisiones de dictamen legislativo ésta última lo dará de Baja sin mayor trámite;
 
 IX. Firmar el libro de registro que para tal efecto debe mantener actualizado la Oficialía Mayor, a través de la oficialía de partes, sobre los documentos recibidos;
 
@@ -1453,7 +1455,9 @@ XIV. La comparecencia se declara concluida una vez que se considere agotada la m
 
 Para el trámite de los asuntos e iniciativas turnados a las comisiones y comités, éstas, a través de su presidente y secretario, respectivamente, instruirán a los secretarios técnicos que correspondan, elaboren un listado de asuntos en el que se detalle en orden cronológico, fecha de turno del asunto, descripción del documento turnado, efectos posibles del turno, en su caso, las comisiones o comités con las que se encuentre ligado, materia del asunto y, con la opinión del asesor respectivo, su viabilidad jurídica. En estos casos, las comisiones deberán en un término que no exceda de quince días hábiles, elaborar un programa de trabajo que incluya un cronograma para resolver cada uno de los asuntos turnados.
 
-Cuando un asunto por su naturaleza haya quedado sin materia sobre la cual resolver, la comisión previo acuerdo ya través de su presidente, mediante escrito lo hará del conocimiento de la Secretaría de la Directiva del Congreso, con atención a la Coordinación de Servicios Parlamentarios, solicitando que tal asunto sea dado de baja de los listados de asuntos pendientes de la comisión o comité de que se trate.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+Cuando un asunto por su naturaleza haya quedado sin materia sobre la cual resolver, la comisión, previo acuerdo y, a través de su presidente, mediante escrito lo hará del conocimiento de la Secretaría de la Directiva del Congreso, con atención a la Coordinación General de Servicios Parlamentarios, solicitando que tal asunto sea dado de baja de los listados de asuntos pendientes de la comisión o comité de que se trate.
 
 ###### ARTICULO 156.
 
@@ -1467,11 +1471,11 @@ I. Si únicamente se toma conocimiento, caso en el que la comisión o comité de
 
 II. Si son para su atención y expediente respectivo, caso en el que la comisión deberá emitir la resolución que corresponda en un término no mayor de quince dí as (sic) hábiles; salvo que por la naturaleza del asunto se requiera de más tiempo para resolver, situación de la que informarán por escrito al promovente o promoventes, y
 
-III. Si son para estudio y dictamen, en este caso, cuando se trate de iniciativas de reformas, adiciones, derogaciones o abrogación de leyes, éstas deberán ser resueltas en un término no mayor de seis meses contados a partir de la fecha de turno; respecto a las iniciativas de nuevos ordenamientos, podrán solicitarse a la Directiva hasta dos prórrogas de tres meses cada una, cuando por la naturaleza de las mismas, la comisión estime fundado llevar a cabo, consultas, foros, realizar análisis comparativos o investigaciones de cualquier otra naturaleza; pero en ningún caso el término deberá exceder de un año.
+III. Si son para estudio y dictamen, en este caso, cuando se trate de iniciativas de reformas, adiciones, derogaciones o abrogación de leyes, éstas deberán ser resueltas en un término no mayor de seis meses contados a partir de la fecha de tumo; respecto a las iniciativas de nuevos ordenamientos, podrán solicitarse a la Directiva hasta dos prórrogas de tres meses cada una, cuando por la naturaleza de las mismas, la comisión estime fundado llevar a cabo, consultas, foros, realizar análisis comparativos o investigaciones de cualquier otra naturaleza; pero en ningún caso el término deberá exceder de un año.
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
-Una vez firmados por los integrantes de la comisión, los dictámenes deberán entregarse a la Secretaría de la Directiva, en original y copia, adjuntando el dispositivo de almacenamiento de datos correspondiente, a través de la Coordinación de Servicios Parlamentarios, para que sean publicados en la Gaceta Parlamentaria, dentro del término que establece la ley; la copia deberá ser firmada y sellada de recibida y devuelta al Presidente de la comisión respectiva. En caso de que el asunto haya sido dictaminado por dos o más comisiones, la copia firmada y sellada de recibida, será devuelta al Presidente de la comisión en primer turno.
+Una vez firmados por los integrantes de la comisión, los dictámenes deberán entregarse a la Secretaría de la Directiva, en original y copia, adjuntando el dispositivo de almacenamiento de datos correspondiente, a través de la Coordinación General de Servicios Parlamentarios, para que sean publicados en la Gaceta Parlamentaria, dentro del término que establece la ley; la copia deberá ser firmada y sellada de recibida por el área correspondiente en el momento de su recepción, y devuelta al Presidente de la comisión respectiva. En caso de que el asunto haya sido dictaminado por dos o más comisiones, la copia firmada y sellada de recibida, será devuelta al Presidente de la comisión en primer turno.
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
 
@@ -1803,9 +1807,9 @@ XIII. Coordinarse con el Instituto de Investigaciones Legislativas, para la corr
 
 XIV. Las demás que le asignen la Oficialía, Mayor y la Junta de Coordinación Política.
 
-### CAPITULO VII. DE LA COORDINACION DE SERVICIOS PARLAMENTARIOS
+### CAPITULO VII. DE LA COORDINACIÓN GENERAL DE SERVICIOS PARLAMENTARIOS
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 184.
 
@@ -1829,57 +1833,95 @@ IV. No haber sido condenado por delito doloso, y
 
 V. Al momento de su nombramiento no prestar sus servicios profesionales en la administración pública en cualquiera de los tres órdenes de gobierno, a excepción de las actividades de carácter docente; ni desempeñar actividades privadas que representen conflicto de intereses.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
 ### CAPITULO VIII. DE LA COORDINACION DE ASESORIA Y SECRETARIADO TECNICO DE COMISIONES
 
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 185.
 
-Dependiente de la Directiva, el Congreso contará con una Coordinación de Servicios Parlamentarios, que se encargará de brindar los servicios necesarios para el desarrollo de las sesiones del Pleno del Congreso.
+Dependiente de la Directiva, el Congreso contará con una Coordinación General de Servicios Parlamentarios, que se encargará de brindar el apoyo técnico necesario para el desarrollo de las sesiones del Pleno del Congreso.
 
-Para ser Coordinador de Servicios Parlamentarios del Congreso se requiere:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+Para ser Coordinador General de Servicios Parlamentarios del Congreso se requiere:
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2012)</small>
 
 I. Contar con título y cédula profesional legalmente expedidos, relacionados con la función y tres años, cuando menos de experiencia en el ejercicio profesional;
 
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2012)</small>
+
 II. Estar en pleno ejercicio de sus derechos políticos y civiles;
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2012)</small>
 
 III. No haber sido condenado por delito doloso, y
 
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2012)</small>
+
 IV. Al momento de su nombramiento no prestar sus servicios profesionales en la administración pública en cualquiera de los tres órdenes de gobierno, a excepción de las actividades de carácter docente; ni desempeñar actividades privadas que representen conflicto de intereses.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 186.
 
-Corresponde a la Coordinación de Servicios Parlamentarios:
+Corresponde a la Coordinación General de Servicios Parlamentarios:
 
-I. Recibir de la oficialía de partes del Congreso, la correspondencia, asuntos y expedientes que se presenten a la Legislatura; consignarlos en los registros respectivos y entregarlos a la Directiva para su presentación al Pleno; así como llevarla secuencia de los trámites y las resoluciones sobre los mismos;
+I. Recibir de la oficialía de partes del Congreso, las iniciativas, la correspondencia, asuntos, y expedientes que se presenten a la Legislatura; consignarlos en los registros respectivos y entregarlos a la Directiva para su presentación al Pleno; así como llevar la secuencia de los trámites y las resoluciones sobre los mismos;
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2010)</small>
+II. Organizar, bajo las instrucciones de la Directiva, las sesiones, el orden del día, las actas, y preparar los documentos que vayan a tratarse en las mismas, a fin de que puedan desarrollarse de conformidad con lo establecido en la Ley Orgánica, y este Reglamento;
 
-II. Organizar, bajo las instrucciones de la Directiva, las sesiones, el orden del día, las actas, y preparar los documentos que vayan a tratarse en las mismas, a fin de que puedan desarrollarse conforme lo establecen, la Ley Orgánica, y este Reglamento;
+III. Actualizar el registro en el que se asienten en orden, los decretos expedidos por el Congreso;
 
-III. Procurar que los diputados cuenten con copias de las iniciativas, proyectos y dictámenes necesarios para el desempeño de sus actividades legislativas;
+IV. Recibir, dar cuenta a la Directiva, y contestar la correspondencia del Congreso que no sea de la competencia de las comisiones, comités y demás órganos del mismo; así como elaborar la que le indiquen;
 
-IV. Actualizar el libro de gobierno en el que se asienten en orden, un resumen del contenido de las leyes y decretos expedidos por el Congreso;
+V. Notificar en tiempo y forma a las autoridades municipales, estatales, federales, u organismos e instituciones que corresponda, los puntos de acuerdo aprobados por el Congreso, conforme se determine en los mismos;
 
-V. Recibir, dar cuenta a la Directiva, y contestar la correspondencia del Congreso que no sea de la competencia de las comisiones, comité y demás, órganos del mismo;
+VI. Supervisar la elaboración de las actas de las sesiones; y verificar que estén actualizados los expedientes de las sesiones;
 
-VI. Hacer llegar en tiempo y forma a las autoridades municipales, estatales y federales, u organismos e instituciones que corresponda, los puntos de acuerdo aprobados por el Congreso, conforme se determine en los mismos;
+VII. Tener actualizado el Diario de los Debates del Congreso, responsabilizándose de su publicación, y actualización en la página de internet del Congreso;
 
-VII. Verificar que estéactualizado (sic) el expediente de las actas de las sesiones, así como que se conserven en buen estado las grabaciones de las mismas;
+VIII. Presentar para su firma, al Presidente, y a los secretarios, todos los documentos derivados de las sesiones;
 
-VIII. Tener actualizado el Diario de los Debates del Congreso, responsabilizándose de su impresión, distribución y actualización en la página de internet del Congreso;
+IX. Elaborar, conforme lo disponga la Directiva, y notificar oportunamente vía electrónica, la Gaceta Parlamentaria del Congreso; así como publicarla en la página de internet del Congreso en los términos que dispone la Ley Orgánica;
 
-IX. Presentar para su firma, los documentos y libros al Presidente y los secretarios;
+X. Tener bajo su resguardo el archivo vigente de la Legislatura, sistematizarlo y mantenerlo en condiciones de consulta;
 
-X. Supervisar la elaboración de las actas de las sesiones del Congreso, así como verificar que queden asentadas en los libros correspondientes;
+XI. Publicar en el portal del Congreso, la información y estadística de las actividades legislativas como son: acuerdos con proyecto de resolución; decretos expedidos; el diario de los debates; dictámenes con proyecto de resolución; faltas y retardos, tanto de las sesiones ordinarias, como de la Diputación Permanente; las iniciativas recibidas; intervenciones en tribuna; minutas estatales; minutas federales; órdenes del día; participación en comisiones de cortesía; puntos de acuerdo; sesiones celebradas; votaciones por sesión;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
+XII. Enviar, al Ejecutivo del Estado, las minutas, acuerdos, y demás documentos oficiales que apruebe el Pleno del Congreso, o la Diputación Permanente, para sanción, promulgación y publicación en el Periódico Oficial, en su caso;
 
-XI. Formar, conforme lo disponga la Directiva, y enviar oportunamente vía electrónica, la Gaceta Parlamentaria del Congreso, e ingresarla a la página de internet del Congreso en los términos que dispone la Ley Orgánica;
+XIII. Elaborar la propuesta de protocolo para la celebración de:
 
-XII. Tener bajo su resguardo el archivo vigente de la Legislatura, sistematizarlo y mantenerlo en condiciones de consulta; y
+a) Sesiones del Pleno:
 
-XIII. Las demás que le atribuya la Ley Orgánica y le asigne la Directiva conforme a su competencia.
+1. Ordinarias.
+
+2. Extraordinarias.
+
+3. Privadas.
+
+4. Solemnes.
+
+b) Sesiones de la Diputación Permanente.
+
+c) Eventos oficiales:
+
+1. Parlamento Infantil.
+
+2. Parlamento Juvenil.
+
+3. Y los que la Directiva le indique;
+
+XIV. Elaborar las certificaciones de documentos propios del proceso legislativo;
+
+XV. Apoyar a los secretarios de la Directiva para verificar el quórum de asistencia, así como para levantar el cómputo y registro de las votaciones;
+
+XVI Proponer habitualmente a la Directiva, o a la Diputación Permanente, el programa de sesiones plenarias; y de la Diputación Permanente, y
+
+XVII, Las demás que le atribuya la Ley Orgánica y le asigne la Directiva conforme a su competencia.
 
 ### CAPITULO IX. DE LA COORDINACION DE ASUNTOS JURIDICOS
 
@@ -2332,3 +2374,11 @@ P.O. 28 DE JUNIO DE 2014.
 PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+P.O. 4 DE DICIEMBRE DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor el uno de enero de dos mil quince, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Por lo que corresponde a la Sexagésima Legislatura, a la entrada en vigor del presente Decreto, el funcionario que actualmente ocupa el cargo de Coordinador de Servicios Parlamentarios, electo el veinte de septiembre de dos mil doce, pasa a ser Coordinador General de Servicios Parlamentarios.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
