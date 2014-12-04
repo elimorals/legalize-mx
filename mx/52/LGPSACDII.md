@@ -4,7 +4,7 @@ identifier: "LGPSACDII"
 country: "mx"
 rank: "ley_general"
 publication_date: "2011-10-24"
-last_updated: "2011-10-24"
+last_updated: "2014-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83335&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LGPSACDII"
 ---
 # LEY GENERAL DE PRESTACION DE SERVICIOS PARA LA ATENCION, CUIDADO Y DESARROLLO INTEGRAL INFANTIL
 
-LEY GENERAL DE PRESTACION DE SERVICIOS PARA LA ATENCION, CUIDADO Y DESARROLLO INTEGRAL INFANTIL
+LEY GENERAL DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 24 de octubre de 2011.
 
@@ -318,21 +318,35 @@ XIII. Las demás que les señale esta Ley y otras disposiciones jurídicas feder
 
 El Consejo es una instancia normativa, de consulta y coordinación, a través de la cual se dará seguimiento continuo a las acciones que tengan por objeto promover mecanismos interinstitucionales, que permitan establecer políticas públicas y estrategias de atención en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 25.
 
-El Consejo se integrará con los Titulares de las siguientes dependencias y entidades:
+El Consejo se integrará con los Titulares de las siguientes dependencias y entidades de la Administración Pública Federal:
 
-I. La Secretaría, quien lo presidirá;
+> <small>(REFORMADA, D.O.F. 4 DE DICIEMBRE DE 2014)</small>
 
-II. La Secretaría de Gobernación;
+I. El Sistema Nacional DIF, quien lo presidirá;
 
-III. La Secretaría de Desarrollo Social;
+> <small>(REFORMADA, D.O.F. 4 DE DICIEMBRE DE 2014)</small>
 
-IV. La Secretaría de Educación Pública;
+II. La Secretaría;
 
-V. La Secretaría del Trabajo y Previsión Social;
+> <small>(REFORMADA, D.O.F. 4 DE DICIEMBRE DE 2014)</small>
 
-VI. El Sistema Nacional para el Desarrollo Integral de la Familia;
+III. La Secretaría de Gobernación;
+
+> <small>(REFORMADA, D.O.F. 4 DE DICIEMBRE DE 2014)</small>
+
+IV. La Secretaría de Desarrollo Social;
+
+> <small>(REFORMADA, D.O.F. 4 DE DICIEMBRE DE 2014)</small>
+
+V. La Secretaría de Educación Pública;
+
+> <small>(REFORMADA, D.O.F. 4 DE DICIEMBRE DE 2014)</small>
+
+VI. La Secretaría del Trabajo y Previsión Social;
 
 VII. El Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;
 
@@ -348,9 +362,11 @@ Serán invitados permanentes a las sesiones del Consejo, el Instituto Nacional d
 
 Los nombramientos en el Consejo serán honoríficos e institucionales.
 
+> <small>(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 26.
 
-El Ejecutivo Federal, a través de la Secretaría, podrá integrar al Consejo a los titulares de otras dependencias y entidades federales que presten servicios para la atención, cuidado y desarrollo integral infantil, o cuyo ámbito de atribuciones esté vinculado con estos servicios.
+El Ejecutivo Federal, a través del Sistema Nacional DIF, podrá integrar al Consejo a los titulares de otras dependencias y entidades federales que presten servicios para la atención, cuidado y desarrollo integral infantil o cuyo ámbito de atribuciones esté vinculado con estos servicios.
 
 ###### Artículo 27.
 
@@ -787,3 +803,39 @@ Octavo.- Las acciones que, en su caso, deban realizar las dependencias y entidad
 México, D.F., a 14 de septiembre de 2011.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. Cleominio Zoreda Novelo, Secretario.- Dip. Cora Cecilia Pinedo Alonso, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de octubre de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 4 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El Congreso de la Unión y las legislaturas de las entidades federativas, en el ámbito de sus respectivas competencias, realizarán las modificaciones legislativas conforme a lo dispuesto en el presente Decreto, dentro de los ciento ochenta días naturales siguientes a su entrada en vigor.
+
+TERCERO. Los Sistemas de Protección Locales y Municipales deberán integrarse a más tardar dentro de los noventa días siguientes a la entrada en vigor de las modificaciones legislativas a que se refiere el transitorio anterior.
+
+CUARTO. Se abroga la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes.
+
+QUINTO. Las disposiciones reglamentarias derivadas de esta Ley deberán ser expedidas por el Ejecutivo Federal en un plazo no mayor a los ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. La Procuraduría Federal de Protección de Niñas, Niños y Adolescentes deberá constituirse a partir del siguiente ejercicio presupuestal a la publicación del presente Decreto.
+
+Para efectos del párrafo anterior, el Sistema Nacional DIF deberá reformar su Estatuto Orgánico, a fin de que en un plazo no mayor a noventa días naturales, a partir de la entrada en vigor del presente Decreto, se formalice la creación de la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes, con sus respectivas unidades administrativas.
+
+SÉPTIMO. El Sistema Nacional de Protección Integral deberá quedar instalado dentro de los ciento ochenta días naturales, posteriores a la publicación del presente Decreto. En su primera sesión, el Presidente del Sistema Nacional de Protección Integral someterá a consideración y aprobación del mismo los lineamientos para su integración, organización y funcionamiento, así como la designación del Titular de la Secretaría Ejecutiva del Sistema.
+
+El Titular de la Secretaría Ejecutiva del Sistema, una vez instalado el Sistema Nacional de Protección Integral, dentro de los siguientes treinta días naturales, deberá presentar a consideración y en su caso aprobación de los integrantes del Pleno, el proyecto de lineamientos a que se refiere el artículo 129 de la Ley General de Derechos de Niñas, Niños y Adolescentes.
+
+El Presidente del Sistema Nacional de Protección Integral realizará las acciones necesarias para la elaboración del Programa Nacional, el cual deberá aprobarse dentro de los ciento ochenta días naturales siguientes a la instalación del Sistema Nacional de Protección.
+
+OCTAVO. Las referencias que esta Ley hace a la Fiscalía General de la República, se entenderán realizadas a la Procuraduría General de la República, hasta en tanto entre en vigor la autonomía constitucional de dicha Fiscalía.
+
+NOVENO. Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, celebrarán convenios y programas especiales para abatir el rezago de registro de nacimientos de niñas, niños y adolescentes.
+
+DÉCIMO. Para efectos de lo dispuesto en la fracción VI del artículo 122 de la Ley que se emite por virtud del presente Decreto, en tanto entran en vigor las disposiciones aplicables del Código Nacional de Procedimientos Penales, se aplicarán las medidas establecidas en la legislación procesal penal correspondiente.
+
+DÉCIMO PRIMERO. Los centros de asistencia que se encuentren operando con antelación a la entrada en vigor del presente Decreto contarán con un plazo de 180 días a partir de su publicación en el Diario Oficial de la Federación para realizar las adecuaciones conducentes en términos de lo previsto por la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+
+DÉCIMO SEGUNDO. La Cámara de Diputados del Congreso de la Unión, a propuesta del Ejecutivo Federal, establecerá una partida presupuestal para coadyuvar en la implementación de las adecuaciones a las que se refiere el transitorio anterior y la operación de los Centros de Asistencia Social.
+
+DÉCIMO TERCERO. Las autoridades de la federación, de las entidades federativas, de los municipios y de las demarcaciones territoriales del Distrito Federal, con el objeto de dar cumplimiento a lo previsto en la Ley que se expide por virtud del presente Decreto, deberán implementar las políticas y acciones correspondientes conforme a los programas aplicables y los que deriven de la misma.
