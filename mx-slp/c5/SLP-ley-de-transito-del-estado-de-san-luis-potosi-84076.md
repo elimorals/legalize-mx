@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-84076"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-10"
-last_updated: "2014-01-14"
+last_updated: "2014-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2014.
 
 Ley publicada en Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de noviembre de 2011.
 
@@ -693,9 +693,11 @@ La señalización vial en su carácter preventivo, restrictivo e informativo, ti
 
 La señalización deberá contemplar la inclusión de los ciclistas al sistema vial urbano.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 52.
 
-La velocidad reglamentaria en la zona urbana será definida por las autoridades municipales, conforme a los reglamentos respectivos.
+La velocidad reglamentaria en la zona urbana será definida por las autoridades municipales, conforme a los reglamentos respectivos. Las cuales estarán obligadas a colocar y mantener señalética sobre los límites de velocidad restrictivos; dichos señalamientos deberán ser homogéneos, distinguibles y conforme con los lineamientos de la Norma Oficial Mexicana que corresponda.
 
 Sin perjuicio de lo dispuesto en el párrafo anterior, el transporte público en sus diferentes modalidades, no podrá exceder en ningún lugar y por ninguna circunstancia, la velocidad de sesenta kilómetros por hora.
 
@@ -917,7 +919,7 @@ VII. Respetar los límites de velocidad que marcan los señalamientos viales, y 
 
 VIII. Evitar dar marcha a su vehículo hasta que aquellos la hayan cruzado, cuando le corresponde el paso a los peatones, ciclistas, escolares, personas adultas mayores y personas con discapacidad y éstos no alcancen a cruzar la calle;
 
-IX. Conservar la distancia de seguridad entre vehículo y vehículo, la cual es directamente proporcional a la velocidad de desplazamiento, tomando en cuenta las condiciones del camino y del vehículo, y (sic)
+IX. Conservar la distancia de seguridad entre vehículo y vehículo, la cual es directamente proporcional a la velocidad de desplazamiento, tomando en cuenta las condiciones del camino y del vehículo, y
 
 > <small>(ADICIONADA, P.O. 14 DE ENERO DE 2014)</small>
 
@@ -1410,3 +1412,9 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Los cincuenta y ocho ayuntamientos de la Entidad, tendrán seis meses a partir de la publicación del presente Decreto en el Periódico Oficial del Estado, para regularizar los montos en sus respectivas leyes de ingresos para el cobro del servicio de grúas; así como modificar, en lo conducente, la reglamentación respectiva de competencia municipal. De igual forma, regularizar los convenios con particulares para la prestación de dicho servicio.
 
 TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 4 DE DICIEMBRE DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
