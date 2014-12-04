@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2014-11-25"
+last_updated: "2014-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -41,9 +41,11 @@ CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 1o.
 
-El presente Código contiene las normas relativas a la organización, administración, funcionamiento y atribuciones de los Municipios del Estado de Tamaulipas, con base a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado.
+El presente Código contiene las normas relativas a la organización, administración, funcionamiento y atribuciones de los Municipios del Estado de Tamaulipas así como las bases de la Justicia Administrativa municipal, con base a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado.
 
 ###### ARTICULO 2o.
 
@@ -507,9 +509,9 @@ VII.- Contratar o concesionar obras y servicios públicos municipales en los té
 
 VIII.- Solicitar al Ejecutivo, por causa de utilidad pública, la expropiación de bienes, la ocupación temporal o la limitación de dominio.
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
-IX.- Nombrar y remover, a propuesta del Presidente Municipal, al Secretario del Ayuntamiento, a los titulares, sin importar la denominación que se le asigne al cargo, de las dependencias municipales encargadas de las funciones relativas a: Tesorería Municipal, Contraloría Municipal, Desarrollo Urbano y Ecología, Obras Públicas, Seguridad Pública, Servicios Públicos y Protección Civil, así como de aquéllos titulares de oficina que expresamente determine este Código. Tratándose de los nombramientos o designaciones de los titulares de las áreas de seguridad pública, previamente deberán cumplir con las disposiciones de la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas y demás disposiciones legales que correspondan;
+IX.- Nombrar y remover al Secretario del Ayuntamiento, al Tesorero Municipal, al Contralor Municipal, al Secretario de Desarrollo Urbano y Ecología o, en su caso, al Director de Obras y Servicios Públicos Municipales, al Secretario o Director de Seguridad Pública, según corresponda, y demás servidores públicos de la administración municipal, a propuesta del Presidente Municipal.
 
 > <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
 
@@ -611,9 +613,21 @@ XLIII.- Representar legalmente al Municipio con todas las facultades de un apode
 
 XLIV.- Establecer los Centros de Mediación Municipal necesarios conforme a la ley de la materia.
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2007)</small>
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
-XLV.- Las demás que determina este Código o cualquier otra Ley y sus reglamentos.
+XLV.- Emitir una convocatoria pública a efecto de que los ciudadanos que cumplan con los requisitos constitucionales y legales estén en aptitud de poder ser considerados para ser nombrados como Juez del Tribunal de Justicia Administrativa Municipal.
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+XLVI.- Realizar la evaluación, conforme a las reglas y modalidades que se establezcan en el Acuerdo que se emita para tal efecto, de los candidatos que cumplan con los requisitos constitucionales y legales para ser Juez del Tribunal de Justicia Administrativa Municipal.
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+XLVII.- Nombrar al Juez del Tribunal de Justicia Administrativa, a través del procedimiento de convocatoria pública que se apruebe previamente para tal efecto.
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+XLVIII.- Las demás que determina este Código o cualquier otra ley y sus reglamentos.
 
 ###### ARTICULO 50.
 
@@ -721,9 +735,9 @@ V.- Dar publicidad a las leyes, reglamentos y demás disposiciones de observanci
 
 VI.- Celebrar a nombre del Ayuntamiento todos los actos y contratos necesarios para el despacho de los negocios administrativos y la atención de los servicios públicos municipales. Asimismo, los Síndicos comparecerán en el otorgamiento de contratos o de cualquier otra obligación patrimonial.
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
-VII.- Proponer al Ayuntamiento los nombramientos del Secretario del Ayuntamiento, a los titulares, sin importar la denominación que se le asigne al cargo, de las dependencias municipales encargadas de las funciones relativas a: Tesorería Municipal, Contraloría Municipal, Desarrollo Urbano y Ecología, Obras Públicas, Seguridad Pública, Servicios Públicos y Protección Civil, así como de aquéllos titulares de oficina que expresamente determine este Código. Tratándose de los nombramientos o designaciones de los titulares de las áreas de seguridad pública, previamente deberán cumplir con las disposiciones de la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas y demás disposiciones legales que correspondan;
+VII.- Proponer al Ayuntamiento los nombramientos del Secretario, Tesorero Municipal, Contralor Municipal, Secretario de Desarrollo Urbano y Ecología o, en su caso, Director de Obras y Servicios Públicos Municipales, Secretario o Director de Seguridad Pública, según corresponda, y demás servidores públicos de la administración municipal, así como su remoción por causa justificada.
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -766,6 +780,10 @@ XXII.- Promover ante el Ayuntamiento la creación de Centros de Mediación Munic
 > <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2008)</small>
 
 XXIII.- Proponer al Ayuntamiento la creación de organismos o empresas paramunicipales en los términos que resulten más favorables para el desarrollo municipal.
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+XXIV.- Mandar publicar la convocatoria pública para que los interesados presenten sus candidaturas a ocupar el cargo de Juez del Tribunal de Justicia Administrativa Municipal.
 
 ###### ARTICULO 56.
 
@@ -1913,7 +1931,7 @@ Los propietarios o poseedores de predios baldíos o no edificados a que se refie
 
 Los Ayuntamientos deberán realizar las acciones de limpieza y desmonte necesarias para prevenir o limitar los daños a la salud de la población. Cuando las autoridades sanitarias determinen zonas o áreas de emergencia por la presencia de riesgos para la salud de la población o por un elevado número de casos de enfermedades transmitidas por vector.
 
-Los derechos por limpieza y desmonte de predios no edificados o baldíos se causarán y pagarán de acuerdo a lo establecido en la Ley de Ingresos Municipal respectiva y en aquellos Municipios que no exista (sic) contemplado el rubro, pagarán el costo del arrendamiento de la maquinaria y la mano de obra utilizada y en general el costo y demás elementos que requiere el Ayuntamiento para la prestación del servicio.
+Los derechos por limpieza y desmonte de predios no edificados o baldíos se causarán y pagarán de acuerdo a lo establecido en la Ley de Ingresos Municipal respectiva y en aquellos Municipios que no exista contemplado el rubro, pagarán el costo del arrendamiento de la maquinaria y la mano de obra utilizada y en general el costo y demás elementos que requiere el Ayuntamiento para la prestación del servicio.
 
 El incumplimiento de la obligación de limpieza y desmonte de predios establecido en el primer párrafo de este precepto, generará la imposición de las sanciones económicas a que se refiere el capítulo de sanciones administrativas de este Código.
 
@@ -3211,6 +3229,10 @@ Para los efectos de la prescripción los meses se regularán por el número de d
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2004)</small>
 
+## TÍTULO OCTAVO. DE LA JUSTICIA ADMINISTRATIVA MUNICIPAL
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
 ### CAPITULO V. DEL SERVICIO AL PUBLICO
 
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
@@ -3305,7 +3327,7 @@ La clasificación y catalogación de los acervos documentales con valor históri
 
 ### CAPITULO II. DE LOS RECURSOS ADMINISTRATIVOS
 
-(REUBICADO [N. DE E. ANTES ARTICULO 296], P.O. 20 DE ABRIL DE 2004)
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 301.
 
@@ -3393,6 +3415,10 @@ El Archivo General del Municipio podrá formar parte del sistema estatal o nacio
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2004)</small>
 
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 312.
 
 Habrá un Consejo Consultivo del Archivo General del Municipio, integrado por el Secretario del Ayuntamiento, quien lo presidirá, el titular del Archivo, quien será su Secretario Técnico, el titular de la Biblioteca Pública Municipal y cinco ciudadanos a propuesta de las instituciones educativas y de servicio social con residencia en el Municipio.
@@ -3406,6 +3432,10 @@ Las decisiones del Consejo Consultivo se tomarán por consenso y, en su caso, po
 Las declaratorias deducidas del Capítulo II de este Título serán emitidas por el Consejo Consultivo, imponiéndose previamente de la opinión respectiva al titular del órgano o dependencia municipal de donde provenga la documentación de que se trate. De no ponerse de acuerdo el Consejo Consultivo, resolverá el Ayuntamiento o el Presidente Municipal.
 
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
+
+### CAPÍTULO SEGUNDO. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA MUNICIPAL
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 314.
 
@@ -3439,6 +3469,10 @@ En la prestación de los servicios al público del Archivo General del Municipio
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 20 DE ABRIL DE 2004)</small>
 
+### CAPÍTULO TERCERO. DEL JUICIO DE NULIDAD
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 318.
 
 Salvo las excepciones previstas en este Código y en las leyes correspondientes, las infracciones administrativas al propio Código, a los bandos, reglamentos y demás disposiciones en materia municipal, se sancionarán con:
@@ -3469,9 +3503,13 @@ VIII.- Trabajo en favor de la comunidad.
 
 (REUBICADO, P.O. 20 DE ABRIL DE 2004)
 
+### CAPÍTULO CUARTO. DEL PROCEDIMIENTO SUMARIO
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 319.
 
-Con excepción de los casos y procedimientos previstos en este Código o en cualquier otra Ley, las impugnaciones de las resoluciones dictadas por las autoridades municipales, se regirán por lo dispuesto en este Capítulo.
+Con excepción de los casos y procedimientos previstos en este Código o en cualquier otra Ley, las impugnaciones de las resoluciones dictadas por las autoridades municipales, se regirán por lo dispuesto en este Capítulo. En los casos de aquellos municipios que cuenten con un Tribunal Municipal de Justicia Administrativa, cualquiera que sea su denominación, será optativo para el particular agotar previamente los recursos administrativos previstos ante la autoridad emisora del acto administrativo o intentar directamente el juicio de nulidad o el procedimiento sumario, según sea el caso, ante el referido Tribunal; o bien, si inició un recurso o medio de impugnación, previo desistimiento del mismo, podrá acudir al Tribunal Municipal dentro del término de ley. Ejercitada la acción ante éste, se extinguirá el derecho para ocurrir a otro medio de defensa ordinario.
 
 (REUBICADO [N. DE E. ANTES ARTICULO 297], P.O. 20 DE ABRIL DE 2004)
 
@@ -3517,6 +3555,1428 @@ IV.- Cuando se trate de pago de multas, se garantice el importe ante la Tesorer�
 
 V.- Que no se causen daños o perjuicios a terceros, o que se garanticen éstos para el caso de no obtener resolución favorable por el monto que fije discrecionalmente la autoridad administrativa, bajo su responsabilidad.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 324.
+
+Este título tiene por objeto establecer la organización y funcionamiento del Tribunal de Justicia Administrativa Municipal, dotado de facultades para conocer y resolver los conflictos y controversias que se susciten entre los particulares y la administración pública municipal, sus organismos descentralizados y empresas de participación municipal cuando estas últimas realicen funciones administrativas de autoridad; el procedimiento para su resolución y ejecución; los recursos que los particulares y las autoridades podrán interponer en contra de los fallos que pronuncie.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 325.
+
+Los Ayuntamientos que así lo determinen, y cuenten con capacidad económica, técnica y humana, podrán constituir un Tribunal de Justicia Administrativa Municipal, mediante acuerdo de las dos terceras partes de los integrantes del Ayuntamiento que decida su creación, debiendo garantizar el cumplimiento de los elementos y principios necesarios para que se imparta justicia en el orden municipal conforme a lo señalado en este Código.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 326.
+
+El Tribunal de Justicia Administrativa municipal es un órgano formalmente administrativo y materialmente jurisdiccional, autónomo en su funcionamiento y en su administración e independiente en sus decisiones. Está encargado de dirimir las controversias entre los particulares y las autoridades del municipio que corresponda, de conformidad con el procedimiento señalado en este Título y demás disposiciones aplicables.
+
+Para su organización y administración contará con un Reglamento Interior.
+
+El Tribunal contará con un presupuesto suficiente para desarrollar sus funciones que nunca será inferior al 0.1% respecto del Presupuesto de Egresos aprobado para el municipio en cuya jurisdicción se encuentre el Tribunal, mismo que administrará, ejercerá y justificará en los términos que fijen las leyes respectivas, y cuya asignación por concepto de gasto corriente no podrá ser menor al aprobado para el ejercicio anual inmediato anterior. En caso de que al término del ejercicio existan sumas no erogadas, se enterarán a la Hacienda Municipal.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 327.
+
+El Tribunal de Justicia Administrativa residirá en la cabecera del municipio que corresponda, sin perjuicio que por acuerdo del Ayuntamiento pueda variar su domicilio o descentralizar sus oficinas para una mejor atención de los asuntos.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 328.
+
+Todas las sesiones del Tribunal de Justicia Administrativa municipal serán públicas, con excepción de los casos en que la moral, el interés público o la Ley exijan que sean privadas.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 329.
+
+El Tribunal de Justicia Administrativa Municipal será uniinstancial y estará integrado por un Juez, un Secretario de acuerdos, un Actuario y el personal que sea autorizado por el Ayuntamiento y permita el presupuesto. Su remuneración será adecuada, irrenunciable y no podrá ser disminuida durante su encargo.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 330.
+
+El nombramiento del Juez del Tribunal de Justicia Administrativa Municipal deberá realizarse conforme a las siguientes reglas y procedimiento:
+
+I.- Tres meses antes de que concluya el nombramiento de Juez o cuando se genere la vacante o ausencia definitiva, el Ayuntamiento emitirá una convocatoria pública a efecto de que los ciudadanos que cumplan con los requisitos constitucionales y legales estén en aptitud de poder ser considerados para ser nombrados Juez del Tribunal de Justicia Administrativa Municipal;
+
+II.- Los candidatos que cumplan los requisitos, serán evaluados por el Ayuntamiento o la Comisión que éste designe en la convocatoria pública, conforme a las reglas y modalidades que se establezcan en el Acuerdo que para tal efecto se emita;
+
+III.- En sesión pública, el Ayuntamiento determinará por, al menos, las dos terceras partes de sus integrantes, a la persona que ocupará el cargo de Juez del Tribunal de Justicia Administrativa Municipal.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 331.
+
+Para ser Juez del Tribunal se requiere:
+
+I.- Ser ciudadano mexicano por nacimiento, nativo del Estado o con residencia en el mismo por más de cinco años ininterrumpidos e inmediatamente anteriores a la fecha de la designación, en pleno ejercicio de sus derechos políticos y civiles;
+
+II.- Poseer al día de la designación título profesional de Licenciado en Derecho, y que hayan transcurrido cuando menos cinco años de su expedición por autoridad o institución legalmente facultada para ello;
+
+III.- Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena corporal de más de un año de prisión;
+
+IV.- No ser ministro de algún culto o asociación religiosa; y
+
+V.- No haber desempeñado cargo de elección popular, federal, estatal o municipal, Secretario de Despacho del Ejecutivo, o Procurador General de Justicia, cuando menos el año previo al día de su nombramiento;
+
+VI.- Contar, preferentemente, con experiencia en órganos jurisdiccionales y en materia contencioso administrativa;
+
+VII.- No haber desempeñado, dentro de la jurisdicción del Tribunal que corresponda, algún cargo dentro de la administración pública municipal, centralizada o paramunicipal, cuando menos el año previo al día de su nombramiento;
+
+VIII.- No ejercer ningún otro cargo público durante el periodo en que funja como Juez.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 332.
+
+El Juez del Tribunal será nombrado por un período de cuatro años, los que se computarán a partir de la fecha de su nombramiento. Cuatro meses antes de la conclusión del cargo, previa evaluación objetiva y del desempeño, podrá ser ratificado por el Ayuntamiento.
+
+Hecha la ratificación por parte del Ayuntamiento, el Juez no podrá ser removido de su cargo sino únicamente por las causas señaladas en el siguiente artículo o las señaladas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas.
+
+En caso que el Ayuntamiento decida no ratificarlo en el cargo, se seguirá el procedimiento señalado en el artículo 330 de este Código y el Juez que no fue ratificado podrá de nueva cuenta presentar su candidatura al cargo.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 333.
+
+Son causas de terminación del cargo de Juez, las siguientes:
+
+I. Padecer incapacidad física o mental que imposibilite el desempeño de sus funciones;
+
+II. La renuncia;
+
+III. Haber desempeñado su cargo durante doce años; y
+
+IV. Cumplir setenta años de edad.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 334.
+
+El Juez del Tribunal tendrá las siguientes atribuciones y obligaciones:
+
+I.- Nombrar al Secretario de acuerdos del Tribunal y al resto del personal administrativo a su cargo, así como concederles licencias y acordar lo que proceda respecto a su remoción;
+
+II.- Resolver los juicios, recurso de queja e incidentes contemplados en este Código que se interpongan por las partes;
+
+III.- Aplicar medios de apremio y correcciones disciplinarias en los asuntos de su competencia;
+
+IV.- Dictar las medidas necesarias para el despacho pronto y expedito de los asuntos competencia del Tribunal;
+
+V.- Dictar las medidas administrativas para el buen funcionamiento del Tribunal y disciplina de su personal, y aplicarlas a todos sus empleados;
+
+VI.- Formular proyectos de Reglamentos necesarios para el buen funcionamiento del Tribunal y someterlos a consideración del Ayuntamiento;
+
+VII.- Rendir oportunamente y por escrito al Ayuntamiento, por conducto del Presidente Municipal, un informe anual de sus labores y de las principales resoluciones que haya dictado;
+
+VIII.- Las demás que señale este Código u otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 335.
+
+Para ser Secretario de Acuerdos se requiere cumplir con los siguientes requisitos:
+
+I.- Ser ciudadano mexicano por nacimiento, nativo del estado o con residencia en el mismo por más de tres años ininterrumpidos e inmediatamente anteriores a la fecha de la designación, en pleno ejercicio de sus derechos políticos y civiles;
+
+II.- Poseer al día de la designación título profesional de Licenciado en Derecho, y que hayan transcurrido cuando menos tres años de su expedición por autoridad o institución legalmente facultada para ello;
+
+III.- Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena corporal de más de un año de prisión;
+
+IV.- No ser ministro de algún culto o asociación religiosa; y
+
+V.- No haber desempeñado cargo de elección popular, federal, estatal o municipal, Secretario de Despacho del Ejecutivo, o Procurador General de Justicia, cuando menos el año previo al día de su nombramiento;
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 336.
+
+El Secretario de Acuerdos del Tribunal tendrá las siguientes atribuciones:
+
+I.- Acordar con el Juez lo relativo a las sesiones del Tribunal;
+
+II.- Dar cuenta al Juez de los asuntos a trámite;
+
+III.- Proyectar los acuerdos de trámite;
+
+IV.- Firmar, en unión del Juez, las determinaciones de éste;
+
+V.- En su caso, autorizar con su firma las actuaciones del Tribunal;
+
+VI.- Preparar y ejecutar las órdenes relacionadas con el ejercicio del presupuesto asignado;
+
+VII.- Tramitar los movimientos del personal y gestionar el cumplimiento de las obligaciones laborales del personal administrativo de la misma;
+
+VIII.- Coordinar las funciones administrativas necesarias para el buen funcionamiento del Tribunal;
+
+IX.- Expedir las copias simples y certificadas que sean solicitadas por las partes u otras autoridades, cerciorándose del pago de derechos por las mismas;
+
+X.- Coordinar la difusión de las actividades del Tribunal;
+
+XI.- Compilar las resoluciones del Tribunal y de otros organismos jurisdiccionales vinculados con la materia administrativa y fiscal; y
+
+XII.- Las demás que le atribuyan las disposiciones legales o le ordene el Juez.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN PRIMERA. DE LA COMPETENCIA DEL TRIBUNAL
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 337.
+
+El Tribunal será competente para conocer de los juicios que se promuevan en contra de los actos o resoluciones que se indican a continuación, dictados, ordenados, ejecutados o que se pretenda ejecutar, por autoridades administrativas, fiscales o entidades de la Administración Pública de los Municipios del Estado de Tamaulipas, cuando estas últimas actúen en carácter de autoridad:
+
+I.- Las liquidaciones emitidas por las autoridades fiscales municipales que determinen la existencia de un crédito fiscal, lo fijen en cantidad líquida o den las bases para su liquidación, siempre que:
+
+a) El crédito que se le exige se haya extinguido legalmente;
+
+b) Exista error en el monto del crédito exigido;
+
+c) No sea deudor del crédito que se le exige o no sea responsable de su pago;
+
+d) Con anterioridad haya sido pagado el adeudo total o parcialmente;
+
+e) Se pretenda cobrar dos veces el mismo adeudo.
+
+II.- La negativa de una autoridad competente para ordenar la devolución de un impuesto, derecho o aprovechamiento indebidamente percibido por el municipio;
+
+III.- De los procedimientos que impugnen una negativa ficta de las autoridades, en los términos de la Ley aplicable cuando ésta así lo determine, tanto en la materia administrativa como fiscal;
+
+IV.- La determinación o exigibilidad de un crédito fiscal por autoridad incompetente;
+
+V.- Los acuerdos que impongan sanciones por infracciones a leyes fiscales;
+
+VI.- El procedimiento económico - coactivo cuando no se ha ajustado a las normas fiscales. En este caso la nulidad sólo podrá hacerse valer en contra de la resolución que apruebe el remate, salvo que se trate de resoluciones cuya ejecución material sea de imposible reparación o de actos de ejecución sobre bienes legítimamente inembargables;
+
+VII.- La resolución administrativa de carácter fiscal favorable a los particulares;
+
+VIII.- Que causen un agravio en materia fiscal o administrativa, distinto a los precisados en las fracciones anteriores, así como todos aquellos actos realizados por cualquier autoridad administrativa municipal, fuera del procedimiento de ejecución fiscal;
+
+IX.- Que impongan sanciones no corporales por infracción a las leyes y reglamentos municipales, de carácter administrativo o fiscal;
+
+X.- Los dictados en materia de pensiones con cargo al erario de los Municipios de la entidad, o de las instituciones municipales de seguridad social;
+
+XI.- Las resoluciones que emitan los entes públicos en los procedimientos tramitados conforme a la Ley de Responsabilidad Patrimonial del Estado de Tamaulipas y sus Municipios;
+
+XII.- Cualquier acto u omisión definitivos de las autoridades administrativas de los municipios y de las entidades municipales, que afecten los intereses jurídicos de los particulares;
+
+XIII.- Las resoluciones dictadas por las autoridades municipales administrativas o fiscales, al resolver los recursos establecidos por las leyes y reglamentos respectivos;
+
+XIV.- Las resoluciones administrativas o fiscales dictadas por las autoridades municipales o los titulares de sus entidades municipales favorables a los particulares y de las cuales se pretenda su nulidad;
+
+XV.- Los que se promuevan en contra de las resoluciones negativas fictas;
+
+XVI.- Las resoluciones dictadas por el Ayuntamiento en los recursos previstos en el artículo 321 de este Código;
+
+XVII.- Las resoluciones dictadas en los recursos administrativos de competencia municipal.
+
+Los demás que se promuevan en contra de actos o resoluciones que por su naturaleza o por disposición de otras leyes se consideren como competencia del Tribunal.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN SEGUNDA. DE LAS PROMOCIONES, DILIGENCIAS Y MEDIOS DE APREMIO
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 338.
+
+Todas las promociones deberán estar firmadas por quien la formule, requisito sin el cual se tendrá por no presentada. Cuando el interesado no sepa o no pueda firmar, lo hará otra persona en su nombre y el interesado imprimirá su huella digital. Durante las audiencias las partes podrán realizar promociones oralmente.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 339.
+
+Las demandas, contestaciones, ocursos, informes y, en general, toda clase de actuaciones deberán redactarse en castellano. Los documentos que se presentaren en idioma extranjero deberán ser acompañados con la correspondiente traducción.
+
+En la tramitación del juicio contencioso administrativo impera el principio de impulso procesal de las partes.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 340.
+
+Las diligencias que deban practicarse fuera del recinto del Tribunal, se encomendarán a los Actuarios o a los Secretarios. Las que deban practicarse fuera del Estado se hará mediante exhorto que se envíe al Tribunal de Justicia Administrativa Municipal correspondiente, o en su defecto, a la autoridad judicial respectiva, con residencia en aquel lugar, quien actuará conforme lo ordene su legislación.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 341.
+
+El Juez de oficio o a petición de parte, para hacer cumplir sus determinaciones podrá hacer uso, indistintamente, de los siguientes medios de apremio:
+
+I.- Amonestación;
+
+II.- Multa equivalente al monto de sesenta y cinco a quinientas cuotas de salario mínimo vigente en el área geográfica del lugar de residencia del Tribunal. En caso de persistir el incumplimiento podrá aplicarse hasta el doble de la multa máxima antes referida;
+
+III.- Arresto hasta por treinta y seis horas; y
+
+IV.- Auxilio de la fuerza pública.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 342.
+
+El Juez tiene el deber de mantener el buen orden y de exigir que se les guarde el respeto y consideración debidos, tanto a ellos, como a los demás servidores públicos del Tribunal, sancionando, en el acto, las faltas que se cometieren, con multas que podrán ser de cinco a ciento veinte cuotas, observando lo dispuesto por los artículos 21 y 22 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Una cuota será el salario mínimo general diario que rija en el área geográfica del lugar de residencia del Tribunal.
+
+Pueden emplear también el uso de la fuerza pública.
+
+Si las faltas pudieren constituir delitos, se procederá contra quienes las cometieren, con arreglo a lo dispuesto en la legislación Penal del Estado.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 343.
+
+Podrá el Juez imponer, por resolución escrita y fundada, correcciones disciplinarias a los abogados, apoderados de las partes, así como de los directores, Secretarios y demás personal del Tribunal, por las faltas que cometan en el desempeño de su actividad.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 344.
+
+Se entenderá por corrección disciplinaria:
+
+I.- El apercibimiento o prevención.
+
+II.- La multa que se duplicará en caso de reincidencia y cuyo monto se fijará de acuerdo con el artículo 341 de este Código.
+
+III.- La suspensión sin goce de sueldo por un término de hasta ocho días, tratándose de servidores públicos del Tribunal.
+
+IV.- Arresto hasta por un término de seis horas.
+
+V.- El desalojo de la Sala de Audiencia.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN TERCERA. DE LAS PARTES
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 345.
+
+Son partes en el juicio de nulidad:
+
+I.- El actor, teniendo tal carácter quien aduce ser titular de un derecho subjetivo o de un interés legítimo individual o colectivo, siempre que alegue que el acto impugnado violan las disposiciones aplicables y con ello se produzca una afectación real y actual a su esfera jurídica, ya sea de manera directa o en virtud de su especial situación frente al orden jurídico;
+
+II.- El demandado, pudiendo tener tal carácter:
+
+a) La autoridad que haya expedido el acto o la resolución impugnada, o
+
+b) El particular que se haya visto favorecido con la resolución impugnada;
+
+III.- El Tesorero Municipal, o quien haga sus veces, si el acto impugnado es de naturaleza fiscal; el Síndico del Ayuntamiento, en caso de que el acto impugnado sea de naturaleza administrativa y conforme lo dispone el artículo 60 de este Código. Quienes ejercerán su legitimación procesal conforme a lo siguiente:
+
+a) Podrán contestar la demanda, ofrecer pruebas, expresar alegatos, hacer valer causales de improcedencia o sobreseimiento, formular todo tipo de objeciones e interrogatorios, promover incidentes o recursos y realizar cualquier intervención en beneficio y protección de los intereses de la administración pública municipal.
+
+b) Por la naturaleza de su participación, en caso de que no contesten la demanda dentro del término legal, no se les tendrá por no admitidos los hechos que el actor le atribuya al demandado, salvo prueba en contrario, ni los que por ser notorios resulten desvirtuados.
+
+IV.- El tercero interesado, pudiendo tener tal carácter:
+
+a) Quien tengan (sic) un interés opuesto al del actor, ya sea porque haya gestionado a su favor el acto que se impugna de nulidad, ya porque se trate de la contraparte del accionante en el procedimiento administrativo de donde emana el acto impugnado, o por contar con un interés legítimo individual o colectivo en que subsista el acto impugnado;
+
+b) Quien pueda verse afectado en sus intereses con la resolución del Tribunal;
+
+c) Quien se apersona como coadyuvante de la autoridad administrativa, cuando tenga un interés directo en la modificación o anulación de un acto favorable a un particular, o en la confirmación de uno que le es desfavorable; y
+
+d) Quien tenga un derecho incompatible con la pretensión del demandante.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 346.
+
+Las partes podrán autorizar para oír notificaciones en su nombre, a una o varias personas con capacidad legal, quienes quedarán facultadas para interponer los recursos que procedan, ofrecer e intervenir en el desahogo de pruebas, alegar en las audiencias, pedir se dicte sentencia para evitar la consumación del término de caducidad por inactividad procesal y realizar cualquier acto que resulte ser necesario para la defensa de los derechos del autorizante, pero no podrá substituir o delegar dichas facultades en un tercero. Las personas autorizadas conforme a la primera parte de este párrafo, deberán acreditar encontrarse legalmente autorizadas para ejercer la profesión de abogado o licenciado en Derecho, debiendo proporcionar los datos correspondientes en el escrito en que se otorgue dicha autorización y mostrar la cédula profesional para la práctica de la abogacía en las diligencias de prueba en que intervengan, en el entendido que el autorizado que no cumpla con lo anterior, perderá la facultad a que se refiere este artículo en perjuicio de la parte que lo hubiere designado, y únicamente tendrá las que se indican en el penúltimo párrafo de este artículo.
+
+Las personas autorizadas en los términos de este artículo, serán responsables de los daños y perjuicios que causen ante el que los autorice, de acuerdo a las disposiciones aplicables del Código Civil del Estado, relativas al mandato y las demás conexas. Los autorizados podrán renunciar a dicha calidad, mediante escrito presentado al Tribunal, haciendo saber las causas de la renuncia.
+
+El Tribunal llevará un libro de registro de cédulas profesionales de abogados, en donde podrán registrarse los profesionistas autorizados.
+
+Las partes podrán designar personas solamente autorizadas para oír notificaciones e imponerse de los autos, a cualquiera con capacidad legal, quien no gozará de las demás facultades a que se refieren los párrafos anteriores.
+
+El Juez al acordar lo relativo a la autorización a que se refiere este artículo deberá expresar con toda claridad el alcance con el que se reconoce la autorización otorgada.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN CUARTA. DE LAS NOTIFICACIONES Y DE LOS TÉRMINOS
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 347.
+
+Las resoluciones serán notificadas, personalmente, dentro del tercer día hábil a partir de aquél en que se pronunciaron; por lista, al día hábil siguiente al de ser emitidas; por correo certificado con acuse de recibo, en cuyo caso la pieza postal deberá ser depositada en el correo al día hábil siguiente de que se dictó la resolución; o a través de los medios electrónicos que disponga el Tribunal en su Reglamento Interior.
+
+Cuando se trate de citación para la práctica de alguna actuación procesal, se hará por lo menos con dos días hábiles de anticipación.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 348.
+
+Desde el primer escrito que presenten, los particulares deberán señalar domicilio en el municipio donde resida el Tribunal de Justicia Administrativa Municipal para que se hagan las notificaciones personales indicadas en este Código. Tendrán la obligación de hacer del conocimiento del Tribunal cualquier cambio de domicilio y en caso de no hacerlo así las notificaciones que deban ser personales se harán por lista.
+
+Así mismo, las partes podrán solicitar la autorización para sí o por persona autorizada en los términos que establecen los párrafos anteriores, el acceso a la Página Electrónica que para tal efecto tuviera el Tribunal de Justicia Administrativa, debiendo proporcionar el nombre del usuario previamente registrado en la base de datos del órgano contencioso administrativo, lo que les permitirá consultar en forma completa el expediente electrónico.
+
+Igualmente, si así lo desean, las partes podrán autorizar que a través del correo electrónico, y mediante el sistema del Tribunal Electrónico de Justicia Administrativa, se les realicen notificaciones, aún las de carácter personal, ordenadas con posterioridad a la fecha en que se otorgue este tipo de autorización, generándose en cada diligencia electrónica un registro que contendrá folio, Tribunal, expediente, fecha y hora de cada notificación, el cual será agregado a los autos y se tendrá por legalmente practicada la notificación hecha por este medio, surtiendo sus efectos en los términos previstos por el artículo 353 de este Código.
+
+Se excluye de la anterior forma de notificación el emplazamiento a juicio y las demás que el juez así lo considere conveniente.
+
+La consulta de expedientes electrónicos y las notificaciones personales electrónicas que se realicen mediante la utilización del Tribunal Electrónico de Justicia Administrativa, se ajustarán a los lineamientos de operación para el uso de éste que se establezcan en el Reglamento que para tal efecto emita el Ayuntamiento, a propuesta del titular del Tribunal.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 349.
+
+Para los efectos de esta Ley, son días hábiles todos los del año excepto los sábados y domingos; el 1° de enero, el primer lunes de febrero en conmemoración del 5 de febrero, el tercer lunes de marzo en conmemoración del 21 de marzo, el 1° y 5 de mayo, el 16 de septiembre, el 12 de octubre, el tercer lunes de noviembre en conmemoración del 20 de noviembre, el 25 de diciembre así como aquéllos en los que se suspendan las labores por acuerdo del Ayuntamiento o por determinación de otras disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 350.
+
+Son horas hábiles las comprendidas de las ocho a las diecinueve horas. Las horas de oficina del Tribunal se comprenderán de las ocho a las diecinueve horas, sin perjuicio de lo establecido en la fracción I del artículo 356 de este Código.
+
+El Tribunal podrá habilitar los días y horas inhábiles, cuando lo juzgue necesario.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 351.
+
+Las notificaciones se realizarán de la siguiente forma:
+
+I.- A las autoridades por oficio, correo certificado con acuse de recibo o personalmente a sus delegados o representantes si estuvieren en el Tribunal, en los casos a que se refiere la fracción II de este artículo.
+
+II.- A los particulares personalmente cuando se trate de la primera notificación;
+
+III.- Por lista o por correo certificado con acuse de recibo cuando la notificación no sea de carácter personal;
+
+Cuando el servicio postal devuelva por cualquier causa un oficio de notificación, ésta se hará personalmente y cuando fehacientemente no fuere posible, por lista.
+
+Salvo lo dispuesto en el artículo 348 de esta Ley, la primera notificación a la persona cuyo lugar de residencia, domicilio o habitación se ignore, se le hará por medio de edictos a cargo de la parte que lo señale, los cuales serán publicados por una ocasión en un periódico de los de mayor circulación en el municipio que corresponda a juicio del Juez y, en el Periódico Oficial del Estado. La notificación hecha de esta manera surtirá sus efectos a los diez días contados a partir del día siguiente de la publicación. Las demás notificaciones se le harán por lista.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 352.
+
+En el expediente respectivo, el Actuario asentará razón del envío por correo o la entrega de los oficios de notificación, así como de las notificaciones personales o por lista. Los acuses de recibo postales y las piezas certificadas devueltas, se agregarán como constancia a dichas actuaciones.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 353.
+
+Todas las notificaciones surtirán efectos a partir del día hábil siguiente al en que sean practicadas.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 354.
+
+Las notificaciones que no fueran practicadas en la forma que establecen las disposiciones precedentes serán nulas. Las partes afectadas podrán pedir su nulidad antes de que se dicte sentencia, ofreciendo las pruebas en el mismo escrito en que se promueva. El Tribunal decidirá de plano sin formar expediente. Declarada la nulidad, el procedimiento se repondrá a partir de la notificación irregular.
+
+Si se declara la nulidad de la notificación, se impondrá al servidor público responsable, una multa equivalente a un salario mínimo diario vigente en la capital del Estado. Podrá ser destituido de su cargo en caso de reincidencia, sin responsabilidad para el Estado.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 355.
+
+Cuando el afectado se haga sabedor de una providencia cuya notificación fue omitida o irregular, ésta se convalidará al comparecer dentro del juicio.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 356.
+
+El cómputo de los términos se sujetará a las reglas siguientes:
+
+I.- Los meses se regularán por el número de días que les correspondan, y los días se entenderán de veinticuatro horas naturales, contados (sic) de las cero a las veinticuatro horas;
+
+II.- Comenzarán a correr desde el día hábil siguiente al en que surta efectos la notificación respectiva; serán improrrogables y se incluirá en ellos el día del vencimiento;
+
+III.- Se contarán por días hábiles; y
+
+IV.- Cuando la Ley no señale término para la práctica de un acto judicial o para el ejercicio de algún derecho durante el juicio, se tendrá por señalado el de tres días.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN QUINTA. DE LAS CAUSALES DE NULIDAD
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 357.
+
+Son causas de nulidad de los actos impugnados las siguientes:
+
+I.- Incompetencia de la autoridad;
+
+II.- Incumplimiento u omisión de las formalidades del procedimiento o de la resolución combatida;
+
+III.- Cuando se aprecie que los hechos que motivaron el acto impugnado no se realizaron, fueron distintos o se apreciaron en forma equivocada, o bien se dictó en contravención de las disposiciones aplicadas o dejó de aplicar las debidas, en cuanto al fondo del asunto;
+
+IV.- En el caso de imposición de sanciones o la aplicación de facultades discrecionales, por arbitrariedad, desproporción, desigualdad, desvío de poder, injusticia manifiesta o cualquier otra causa similar.
+
+Por ser de orden público el Tribunal podrá hacer valer de oficio la incompetencia de la autoridad que emitió la resolución impugnada o para ordenar o tramitar el procedimiento del que deriva, así como la ausencia total de fundamentación y motivación en dicha resolución y la falta de firma autógrafa del servidor público emisor del acto.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN SEXTA. DE LA DEMANDA
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 358.
+
+La demanda deberá formularse por escrito y presentarse directamente ante la Oficialía de Partes del Tribunal dentro de los siguientes diez días hábiles, contados desde el día siguiente al en que haya surtido efectos la notificación de la resolución realizada al afectado, el procedimiento o el acuerdo que reclama, o al en que haya tenido conocimiento de ellos o de su ejecución, o al en que se hubiere ostentado sabedor de los mismos.
+
+Cuando la autoridad promueva la nulidad de una resolución favorable a un particular, la demanda podrá presentarse dentro de los cinco años siguientes a la fecha en que haya sido notificada la resolución, salvo que la misma haya originado efectos de tracto sucesivo, caso en el cual la autoridad podrá demandar su nulidad en cualquier tiempo; pero los efectos de la sentencia, en este último caso, si se declaran nulos, solo se retrotraerán hasta los cinco años anteriores a la presentación de la demanda.
+
+Cuando se trate de negativa ficta, el derecho a demandar nace al transcurrir cuarenta y cinco días después de que el particular presentó su petición, salvo que haya términos más reducidos en la ley de la materia, en cuyo caso la demanda se podrá interponer en cualquier tiempo posterior a dicho plazo, mientras no se notifique la resolución.
+
+Tratándose de la afirmativa ficta, la demanda de nulidad podrá promoverse en cualquier tiempo una vez transcurrido el plazo concedido a la autoridad ante quien se planteó la instancia no resuelta para expedir la constancia y términos de su configuración, y esto se omita; pero si se expide la constancia de reconocimiento y el particular estima que la misma no satisface su pretensión, el término para promover la demanda será el previsto en el primer párrafo del presente artículo.
+
+Las disposiciones administrativas de carácter general deberán impugnarse simultáneamente con el primer acto de aplicación sujetándose a los plazos previstos en este artículo.
+
+Cuando el interesado fallezca durante el plazo a que se refiere este Artículo, se suspenderá el término hasta un año, si antes no se ha aceptado el cargo de representante de la sucesión.
+
+En los casos de incapacidad o declaración de ausencia, decretadas por la autoridad judicial, el plazo para interponer el juicio contencioso correspondiente se suspenderá hasta por un año. La suspensión cesará tan pronto como se acredite que se ha aceptado el cargo de tutor del incapaz o representante legal del ausente, siendo en perjuicio del particular si durante el plazo antes mencionado no se provee sobre su representación.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 359.
+
+El demandante tendrá el derecho de ampliar la demanda dentro de los diez días hábiles siguientes a aquél en que surta efectos la notificación de la contestación de la misma, en los siguientes casos:
+
+I.- Cuando se impugne una negativa ficta;
+
+II.- Contra el acto principal del que derive la resolución impugnada en la demanda, así como su notificación, cuando se den a conocer en la contestación de la demanda, y
+
+III.- Cuando el actor manifieste bajo protesta de decir verdad que no conoce el contenido de la resolución que pretende impugnar y así lo exprese en su demanda, debiendo señalar la autoridad a quien le atribuye, su notificación o su ejecución. En este caso al contestar la demanda la autoridad acompañará constancia de la resolución administrativa y de su notificación.
+
+Tratándose de negativa ficta, cuando la autoridad demandada allegue al juicio constancia de la resolución negativa expresa, así como de su notificación, el demandante tendrá el derecho de ampliar la demanda o de promover un nuevo juicio dentro de los términos señalados en este Código.
+
+De igual forma se podrá ampliar la demanda inicial si el término para la interposición de la misma no ha precluido, en este caso se correrá traslado al demandado de la citada ampliación quien deberá contestar de idéntico término que se señala para la contestación de la demanda inicial.
+
+En el escrito de ampliación de demanda se deberán adjuntar las copias necesarias para el traslado, las pruebas y documentos que en su caso se presenten, aplicándose en lo conducente lo previsto en el último párrafo del artículo 360 de este Código.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 360.
+
+En la demanda deberá expresarse lo siguiente:
+
+I.- El nombre y apellidos, denominación o razón social del actor o, en su caso, de quien promueva en su nombre y el domicilio que señale para oír y recibir notificaciones;
+
+II.- La autoridad o autoridades demandadas o el nombre y domicilio del particular demandado en el caso que la autoridad demanda la nulidad de una resolución favorable a un particular;
+
+III.- El acto, procedimiento o resolución que de cada autoridad se impugne;
+
+IV.- La fecha de notificación o en la que se tuvo conocimiento de la existencia del acto impugnado;
+
+V.- El nombre y domicilio del tercero perjudicado, así como los motivos por los cuales se considera que debe ser llamado con ese carácter;
+
+VI.- La manifestación bajo protesta de decir verdad de los hechos en que se apoye la demanda, y los agravios que causa el acto, el procedimiento o la resolución impugnados;
+
+VII.- Las pruebas que el actor ofrezca y que sustenten la demanda, expresando la relación de la prueba ofrecida con la litis planteada, precisando claramente el hecho o hechos que se pretende acreditar;
+
+Adicionalmente cuando se ofrezcan las pruebas de inspección, pericial o testimonial, se precisarán los hechos sobre los que deban versar, el objeto de las mismas y en el caso de las dos últimas, se señalarán los nombres y domicilios del perito o de los testigos.
+
+Tratándose de la prueba de reconocimiento o inspección, se señalará el lugar en el que deba practicarse, así como el fin específico de la misma; cuando ésta se ofrezca con la asistencia de peritos o testigos, deberán señalarse sus nombres y domicilios.
+
+En el caso de pruebas documentales, se deberá mencionar la foja y el párrafo del instrumento donde conste la información con la que pretende demostrar los hechos.
+
+VIII.- La pretensión que se deduce;
+
+Cuando se omitan estos requisitos, el Juez que conozca del asunto requerirá mediante notificación personal al demandante para que los proporcione en un plazo de cinco días, apercibiéndolo de que de no hacerlo, se tendrá por no presentada la demanda. Cuando no obstante el apercibimiento se omitiere señalar el nombre y domicilio del tercero perjudicado o los motivos por los cuales deba ser llamado con ese carácter, el Juez resolverá lo que corresponda en los términos de la fracción IV del artículo 345 de este Código. Si no se hiciere manifestación respecto de someterse o no a un método alterno para la solución de conflictos, se entenderá que no hay voluntad para someterse a alguno de ellos, pudiéndolo hacer en cualquier etapa del procedimiento; y cuando se omitiere ofrecer o acompañar pruebas, solamente se tendrá por perdido el derecho de ofrecerlas.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 361.
+
+El demandante deberá acompañar a su demanda:
+
+I.- El documento que acredite su personalidad cuando no gestione a nombre propio, a menos que compruebe que dicha personalidad le fue reconocida por la autoridad demandada dentro del procedimiento del que emanó el acto impugnado;
+
+II.- El documento en que conste el acto impugnado, así como el acta de su notificación. Copia de la instancia no resuelta por la autoridad demandada, cuando se impugne la negativa ficta o la omisión de expedir la constancia de reconocimiento de la afirmativa ficta, así como cuando se impugne dicha constancia por no satisfacer la pretensión del particular;
+
+III.- Las pruebas documentales que ofrezca. Cuando las pruebas documentales no obren en poder del demandante o cuando no obstante sus gestiones no hubiera podido obtenerlas a pesar de tratarse de documentos que legalmente debieran estar a su disposición, éste deberá señalar el archivo o lugar en que se encuentren para que a su costa el Juez ordene expedir copia certificada de ellos o requiera su remisión, cuando ésta sea legalmente posible. Para este efecto el demandante deberá identificar con toda precisión los documentos, dependencia u oficina, y para tener por cumplido este requisito, bastará con que se acompañe copia de la solicitud presentada, con la que se acredite fehacientemente haber realizado la gestión por lo menos cinco días antes de la interposición de la demanda;
+
+IV.- El cuestionario que deba desahogar el perito o el interrogatorio que deberán contestar los testigos, todos ellos debidamente firmados por el oferente, asimismo señalará los nombres y domicilios de los peritos y testigos. Cuando el actor amplíe la demanda, al escrito de ampliación deberán acompañarse los documentos y pruebas a que se refiere este artículo en lo conducente; y
+
+V.- Una copia de la demanda y de los documentos anexados a ella, para cada una de las partes.
+
+Cuando el actor no acompañe los documentos a que se refiere este artículo, dará lugar a que se le requiera en los términos establecidos en el último párrafo del artículo 360 de este Código, pero por lo que hace al acto o resolución impugnados o al acta de notificación, bastará que manifieste bajo protesta de decir verdad que no se levantó o que no se le dejó copia de ellos, para que se tenga por presentada la demanda.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 362.
+
+El Tribunal desechará la demanda en los casos siguientes:
+
+I.- Si encontrare motivo manifiesto o indudable de improcedencia; y
+
+II.- Si fuera obscura o irregular y habiéndose prevenido al actor para subsanarla, éste no lo hiciere en el plazo de cinco días, contados a partir del día siguiente en que surta efectos la notificación. En este caso, el Juez al desechar la demanda deberá precisar los puntos de la prevención que no fueron atendidos y pondrá a disposición del interesado todos los documentos originales y copias simples que se hayan exhibido, con excepción de la demanda con la que se haya formado el expediente respectivo.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 363.
+
+No encontrándose irregularidades en la demanda o subsanadas éstas, se admitirá y correrá traslado de ella a la parte demandada y a los terceros, emplazándolos para que la contesten dentro del término de diez días hábiles, apercibiéndolos de que de no hacerlo se presumirán ciertos los hechos que el actor le impute de manera precisa al demandado, salvo prueba en contrario, o que por hechos notorios resulten desvirtuados.
+
+El Juez deberá observar, en todo caso, lo establecido en el artículo 345, fracción III, inciso b), de este Código.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN SÉPTIMA. DE LA CONTESTACIÓN
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 364.
+
+El plazo para contestar la demanda será de diez días hábiles, y para la ampliación de ésta, será de otros diez días hábiles y correrá individualmente a partir del día siguiente al en que surta efectos el emplazamiento.
+
+Los demandados y el tercero perjudicado expresarán en la contestación de demanda y en la ampliación de ésta lo siguiente:
+
+I. Los incidentes de previo y especial pronunciamiento a que haya lugar;
+
+II. Las causales de improcedencia y sobreseimiento que conozcan;
+
+III. Se referirá concretamente a cada uno de los hechos que el demandante le impute de manera expresa, afirmándolos, negándolos, expresando que los ignora por no ser propios o exponiendo como ocurrieron según sea el caso; si no produce contestación a todos los hechos, se tendrán por ciertos los que el actor les impute de manera precisa, salvo que por las pruebas rendidas o por hechos notorios resulten desvirtuados;
+
+IV. Los argumentos por medio de los cuales se demuestra la ineficacia de los conceptos de agravio;
+
+V. Cuando el acto impugnado sea una negativa ficta, la autoridad demandada deberá expresar en la contestación los motivos y fundamentos de dicha negativa, pudiendo referirse al fondo de la solicitud de origen, o bien, al incumplimiento de sus requisitos procesales o de forma, inclusive cuestiones de orden público; y
+
+VI. Las pruebas que ofrezca, expresando claramente el hecho o hechos que trata de acreditar con las mismas, así como las razones por las que considera que demostrarán sus afirmaciones.
+
+Tratándose de pruebas documentales, se deberá precisar la foja y el párrafo del instrumento donde conste la información con la que demostrará los hechos que pretende probar.
+
+En caso de que se ofrezcan las pruebas de inspección, pericial o testimonial, se precisarán los hechos sobre los que deben versar, el objeto de las mismas y, en su caso, se señalarán el nombre y el domicilio del perito y de cada testigo. Tratándose de la prueba de inspección se señalará el lugar en que deba practicarse, así como los puntos que la provoquen.
+
+Las pruebas que no cumplan con los señalamientos precisados en esta fracción se tendrán por no ofrecidas.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 365.
+
+Al escrito de contestación se deberán acompañar:
+
+I.- El documento justificativo de la personalidad del demandado cuando sea un particular y no actúe en nombre propio;
+
+II.- Las pruebas documentales que ofrezca, cuando las pruebas no obren en poder de la parte oferente, aplicará en lo conducente lo previsto en la fracción III del artículo 360;
+
+III.- El cuestionario que deban desahogar los peritos y el interrogatorio que deberán contestar los testigos, debidamente firmados por el demandado, expresando los nombres y domicilios de los mismos, y
+
+IV.- En su caso, constancia del acto, procedimiento o resolución impugnados y de las respectivas notificaciones, cuando el demandante haya manifestado bajo protesta de decir verdad que no se le entregaron; y
+
+V.- Una copia de la contestación de la demanda y sus anexos, para el actor y, en su caso, para el tercero perjudicado.
+
+Cuando no se adjunten los documentos, cuestionarios e interrogatorios a que se refiere este artículo, el Juez los requerirá para que los presenten dentro del plazo de tres días, apercibiéndolos que en caso de no hacerlo en tiempo se tendrá por no contestada la demanda si se trata de las referidas en las fracciones I y V de este artículo; pero tratándose de las señaladas en las fracciones II y III, se tendrán por no ofrecidas las pruebas.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 366.
+
+El tercero perjudicado podrá ser señalado por las partes o comparecer por sí mismo al juicio e interponer defensas y excepciones, aportar las pruebas que considere pertinentes y formular alegatos. En todo caso deberá acreditar el interés jurídico que le asiste.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 367.
+
+Si la parte emplazada no contesta la demanda dentro del término legal, el Juez deberá hacer efectivo el apercibimiento señalado en el artículo 363 del presente Código.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 368.
+
+En el auto en que se admita la contestación de la demanda o se tenga por no contestada, se señalará fecha para la audiencia previa a que se refiere el artículo 404 del presente Código, la cual se celebrará dentro de un plazo que no excederá de quince días, y si durante la audiencia alguna de las partes objeta un documento o firma, se substanciará por cuerda separada y deberá resolverse antes de que se dicte sentencia.
+
+Una vez verificada la audiencia previa, si ninguna de las pruebas admitidas requiere especial desahogo, se citará a la audiencia de juicio donde las partes podrán formular sus alegatos.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN OCTAVA. DE LAS AUDIENCIAS
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 369.
+
+Es obligación de las partes asistir a las audiencias del procedimiento, por sí o a través de sus legítimos representantes, que gocen de facultades para tal efecto.
+
+Las resoluciones pronunciadas en las audiencias se tendrán por notificadas en ese mismo acto, sin necesidad de formalidad alguna a quienes estén presentes o debieron haber estado.
+
+Las audiencias serán presididas por el Juez. Se desarrollarán oralmente en lo relativo a toda intervención de quienes participen en ella. Serán públicas, siguiendo en lo que les sean aplicables las reglas aplicables de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas.
+
+El Juez ordenará la práctica de las pruebas, dirigirá el debate y exigirá el cumplimiento de las formalidades que correspondan y moderará la discusión, podrá impedir que las alegaciones se desvíen hacia aspectos no pertinentes o inadmisibles, también podrá limitar el tiempo y número de veces del uso de la palabra a las partes que debieren intervenir, interrumpiendo a quienes hicieren uso abusivo de su derecho.
+
+El Juez contará con las más amplias facultades disciplinarias para mantener el orden durante el debate y durante las audiencias, para lo cual podrá ejercer el poder de mando de la fuerza pública e imponer indistintamente las medidas de apremio con que cuenta.
+
+El Juez determinará el inicio y la conclusión de cada una de las etapas de la audiencia, precluyendo los derechos procesales que debieron ejercitarse en cada una de ellas.
+
+La parte que asista tardíamente a una audiencia se incorporará al procedimiento en la etapa en que ésta se encuentre.
+
+Una vez que los testigos, peritos o partes concluyan su intervención, a petición de ellos podrán ausentarse del recinto oficial cuando el Juez lo autorice.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 370.
+
+Durante el desarrollo de las audiencias, de estimarlo necesario, el Juez podrá decretar recesos.
+
+Cuando una audiencia no logre concluirse en la fecha señalada para su celebración, el Juez podrá suspenderla o diferirla, y deberá fijarse, en el acto, la fecha y hora de su reanudación, salvo que ello resultare materialmente imposible, y ordenar su reanudación cuando resulte pertinente.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 371.
+
+Para producir fe, las audiencias se registrarán por medios electrónicos, o cualquier otro idóneo a juicio del Juez, que permita garantizar la fidelidad e integridad de la información, la conservación y reproducción de su contenido y el acceso a los mismos a quienes, de acuerdo a la ley, tuvieren derecho a ella.
+
+Al inicio de las audiencias, el Secretario del Tribunal hará constar oralmente en el registro a que se hace referencia en el párrafo anterior la fecha, hora y lugar de realización, el nombre de los servidores públicos del Tribunal, y demás personas que intervendrán.
+
+Las partes y los terceros que intervengan en el desarrollo de las audiencias deberán rendir previamente protesta de que se conducirán con verdad. Para tal efecto, el Secretario del Tribunal les tomará protesta, apercibiéndolos de las penas que se imponen a quienes declaran con falsedad.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 372.
+
+Al terminar las audiencias, se levantará acta que deberá contener, cuando menos:
+
+I. El lugar, la fecha y el expediente al que corresponde;
+
+II. El nombre de quienes intervienen y la constancia de la inasistencia de los que debieron o pudieron estar presentes, indicándose la causa de la ausencia si se conoce;
+
+III. Una relación sucinta del desarrollo de la audiencia, y
+
+IV. La firma del Juez y Secretario.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 373.
+
+El Secretario del Tribunal deberá certificar el medio en donde se encuentre registrada la audiencia respectiva, identificar dicho medio con el número de expediente y tomar las medidas necesarias para evitar que pueda alterarse.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 374.
+
+Se podrá solicitar copia simple o certificada de las actas o copia en medio electrónico de los registros que obren en el procedimiento, la que deberá ser certificada en los términos del artículo anterior a costa del litigante y previo el pago correspondiente.
+
+Tratándose de copias simples, el Tribunal debe expedir a la brevedad posible aquéllas que se le soliciten, bastando que la parte interesada lo realice verbalmente.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 375.
+
+La conservación de los registros estará a cargo del Tribunal, que deberá contar con el respaldo necesario, que se certificará en términos del artículo anterior. Cuando por cualquier causa se dañe el soporte material del registro afectando su contenido, el Juez ordenará reemplazarlo por una copia fiel, que obtendrá de quien la tuviere, si no dispone de ella directamente.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 376.
+
+En el Tribunal estarán disponibles los instrumentos y el personal necesarios para que las partes tengan acceso a los registros del procedimiento, a fin de conocer su contenido.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN NOVENA. DE LA AUDIENCIA PREVIA
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 377.
+
+La audiencia preliminar tiene por objeto:
+
+I. La depuración del procedimiento;
+
+II. La fijación de acuerdos sobre hechos no controvertidos;
+
+III. La fijación de acuerdos probatorios;
+
+IV. La calificación sobre la admisibilidad de las pruebas, y
+
+V. La citación para audiencia de juicio.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 378.
+
+La audiencia preliminar se llevará a cabo con o sin la asistencia de las partes.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 379.
+
+El Juez examinará las cuestiones relativas a la legitimación procesal y procederá, en su caso, a resolver las excepciones procesales con el fin de depurar el procedimiento.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 380.
+
+El Juez deberá analizar y resolver sobre las causales de improcedencia que de oficio o a petición de parte se hagan valer en términos del artículo 389 de este Código.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 381.
+
+Durante la audiencia, las partes podrán solicitar conjuntamente al Juez la fijación de acuerdos sobre hechos no controvertidos.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 382.
+
+El Juez podrá formular proposiciones a las partes para que realicen acuerdos probatorios respecto de aquellas pruebas ofrecidas a efecto de determinar cuáles resultan innecesarias.
+
+En caso de que las partes no lleguen a un acuerdo probatorio, el Juez procederá a la calificación sobre la admisibilidad de las pruebas, así como la forma en que deberán prepararse para su desahogo en la audiencia de juicio, quedando a cargo de las partes su oportuna preparación, bajo el apercibimiento que de no hacerlo se declararán desiertas de oficio las mismas por causas imputables al oferente. Las pruebas que ofrezcan las partes sólo deberán recibirse cuando estén permitidas por la ley y se refieran a los puntos cuestionados y se cumplan con los demás requisitos que se señalan en este Título.
+
+La preparación de las pruebas quedará a cargo de las partes, por lo que deberán presentar a los testigos, peritos y demás, pruebas que les hayan sido admitidas; y sólo de estimarlo necesario, el Juez, en auxilio del oferente, expedirá los oficios o citaciones y realizará el nombramiento del perito tercero en discordia, en el entendido de que serán puestos a disposición de la parte oferente los oficios y citaciones respectivas, a afecto de que preparen sus pruebas y éstas se desahoguen en la audiencia de juicio.
+
+En el mismo proveído, el Juez fijará fecha para la celebración de la audiencia de juicio, misma que deberá celebrarse dentro del lapso de cinco a cuarenta días.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN DÉCIMA. DE LA AUDIENCIA DEL JUICIO
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 383.
+
+La audiencia del juicio debe ser presidida, bajo pena de nulidad, por el Juez titular o por quien lo supla legalmente, será oral y tiene por objeto:
+
+I.- Desahogar en términos de este Código las pruebas que, debidamente ofrecidas y admitidas, así lo requieran;
+
+II.- Conocer cualquier cuestión incidental que se plantee en la misma audiencia; y
+
+III.- Recibir los alegatos que se formulen de forma verbal y breve.
+
+La falta de asistencia de las partes no impedirá la celebración de la audiencia.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 384.
+
+La audiencia de juicio deberá celebrarse en la hora y fecha señaladas para tal efecto y únicamente podrá diferirse en los supuestos siguientes:
+
+I.- Cuando alguna de las partes no sea enterada oportunamente del auto en que se señale la fecha y hora para la celebración de la audiencia, o del auto mediante el cual se pongan a la vista los dictámenes rendidos por los peritos, y
+
+II.- En caso fortuito o de fuerza mayor.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 385.
+
+Abierta la audiencia se procederá al desahogo de las pruebas que se encuentren debidamente preparadas en el orden que el Juez estime pertinente, llamando a las partes, o en su caso, a sus representantes, así como a los peritos, testigos y demás personas que por disposición de este Código deban intervenir en el juicio. Al efecto, el Juez contará con las más amplias facultades como rector del procedimiento, por lo que podrá determinar quiénes deban permanecer en el recinto en que se celebra y quiénes en lugar separado para ser introducidos en su oportunidad; dejando de recibir las pruebas que no se encuentren preparadas y haciendo efectivo el apercibimiento realizado al oferente. Quienes asistan a la audiencia deberán permanecer respetuosamente y en silencio mientras no estén autorizados para exponer o deban responder a las preguntas que se le formulen. No podrán provocar molestia, ofensa o adoptar comportamiento intimidatorio o provocativo contrario al decoro, ni producir disturbios o expresar de modo alguno manifestaciones o sentimientos.
+
+La audiencia no se suspenderá ni diferirá en ningún caso por falta de preparación o desahogo de las pruebas admitidas, salvo en aquellos casos expresamente determinados en este Título.
+
+En la audiencia sólo se concederá el uso de la palabra, por una vez, a cada una de las partes para formular sus alegatos.
+
+Enseguida, se declarará el asunto visto y se dictará la sentencia que en derecho corresponda. Si por la complejidad del asunto o por el volumen del expediente, el Juez lo estima necesario, citará las partes para la continuación de la audiencia dentro del término de diez días siguientes, para dictar la sentencia correspondiente.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 386.
+
+En cualquiera de los casos a que se refiere el último párrafo del artículo anterior, el Juez expondrá oralmente y de forma breve, los fundamentos de hecho y de derecho que motivaron su sentencia y leerá únicamente los puntos resolutivos. Acto seguido quedará a disposición de las partes copia de la sentencia que se pronuncie, por escrito.
+
+En caso de que en la fecha y hora fijada para esta audiencia no asistiere al Tribunal persona alguna, se dispensará la lectura de la misma.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 387.
+
+La audiencia del juicio una vez iniciada sólo podrá suspenderse en los siguientes casos:
+
+I.- Cuando los servidores públicos que correspondan no hayan expedido con la debida oportunidad las copias de los documentos que los particulares hubieran solicitado;
+
+II.- Cuando sea imposible el desahogo de las pruebas que por su propia naturaleza requieran desahogo material y dicha imposibilidad no sea atribuible a las partes;
+
+III.- En caso fortuito o de fuerza mayor;
+
+IV.- Cuando el Juez lo estime pertinente, sin perjuicio de las partes; y
+
+V.- Cuando sea imposible el desahogo de la audiencia en términos de alguna disposición legal.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 388.
+
+Respecto de las pruebas, la audiencia se sujetará a las siguientes reglas:
+
+I.- Se admitirán o desecharán las supervinientes que se ofrezcan, procediéndose, en el primer caso, a su desahogo;
+
+II.- El dictamen pericial deberá rendirse con la anticipación prevista en el párrafo segundo del artículo 412 de este Código, perdiendo las partes el derecho de hacerlo con posterioridad. El Tribunal nombrará perito tercero en discordia en los casos en que los dictámenes periciales de las partes sean contradictorios, suspendiendo la audiencia en este caso. Los honorarios de este perito correrán por cuenta de las partes cuyos dictámenes estén en contradicción. El perito tercero en discordia deberá asistir y ratificar su dictamen en la nueva audiencia o previamente a ella. En todo caso, el Juez podrá hacer uso de los medios de apremio previstos. Las partes, el Juez y los otros peritos podrán formular observaciones a los peritos y hacerles las preguntas que estimen pertinentes en relación con los puntos sobre los que dictaminen o con cualquiera de sus respuestas. El Juez calificará la pertinencia de las preguntas.
+
+III.- Las preguntas y las repreguntas que pudieran formular las partes a los testigos, deberán tener relación directa con los puntos controvertidos y estar concebidas en términos claros y precisos, procurando que en una sola no se comprenda más de un hecho. El Juez deberá calificar los interrogatorios, desechando las preguntas o repreguntas improcedentes. La protesta y examen de los testigos se hará en presencia de las partes. El Juez podrá hacer las preguntas que considere necesarias.
+
+Las repreguntas podrán formularse por escrito antes de la declaración de los testigos, o incluso verbalmente durante el desahogo de la prueba, ya sea en primera o ulterior intervención.
+
+IV.- Sólo podrán objetarse de falsos los documentos o firmas que formen parte de una prueba superviniente.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN DÉCIMA PRIMERA. DE LA IMPROCEDENCIA Y DEL SOBRESEIMIENTO
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 389.
+
+El juicio ante el Tribunal es improcedente:
+
+I.- Contra actos de autoridades de otros ayuntamientos, entidades federativas o dependientes de la Administración Pública Federal;
+
+II.- Contra actos legislativos del Congreso, sentencias o resoluciones del Poder Judicial, laudos de autoridades del trabajo y resoluciones de autoridades electorales y agrarias.
+
+III.- Contra actos que sean materia de otro juicio, recurso o medio de defensa ordinario o extraordinario que se encuentre pendiente de resolución, promovido por el mismo actor, contra las mismas autoridades y por los mismos actos, aunque los agravios alegados sean diversos;
+
+IV.- Contra actos que hayan sido materia de otro juicio contencioso administrativo;
+
+V.- Contra actos que no afecten los intereses jurídicos del actor, que se hayan consumado de un modo irreparable; o que hayan sido consentidos expresa o tácitamente, entendiéndose por éstos aquéllos contra los que no se promovió el juicio en los plazos señalados por este Código;
+
+VI.- Contra reglamentos, circulares o disposiciones de carácter general, que no se hayan aplicado concretamente al promovente;
+
+VII.- Cuando de las constancias de autos apareciere claramente demostrado que no existe el acto impugnado;
+
+VIII.- Cuando hayan cesado los efectos del acto impugnado o éste no pueda surtir efecto legal o material alguno; y
+
+IX.- En los demás casos en que la improcedencia resulte de alguna disposición legal.
+
+Las causales de improcedencia, en su caso, se harán valer de oficio o a propuesta de las partes.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 390.
+
+Procede el sobreseimiento del juicio:
+
+I.- Por desistimiento expreso del actor;
+
+II.- Cuando durante el juicio apareciere o sobreviniere alguna de las causas de improcedencia a que se refiere el artículo anterior;
+
+III.- Cuando la autoridad demandada satisfaga la pretensión del actor o revoque incondicional, plena y absolutamente el acto impugnado;
+
+IV.- Cuando el demandante muera durante el juicio, si el acto impugnado sólo afecta sus derechos personales;
+
+V.- Cuando no se haya efectuado ningún acto procesal durante el término de noventa días naturales, ni el actor hubiere promovido en ese mismo lapso, siempre que la promoción sea necesaria para la continuación del procedimiento. Celebrada la audiencia previa o propuesto el asunto para resolverse, no procederá el sobreseimiento por caducidad previsto en esta fracción; y
+
+VI.- En los demás casos en que, por disposición legal, haya impedimento para emitir resolución en cuanto al fondo del negocio.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN DÉCIMA SEGUNDA. DE LOS IMPEDIMENTOS Y EXCUSAS
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 391.
+
+El Juez del Tribunal, bajo su responsabilidad se excusará de intervenir en los siguientes casos:
+
+I.- Por ser cónyuge o pariente consanguíneo o por afinidad, del actor o del tercero perjudicado, de sus abogados o representantes, en línea recta sin limitación de grado, y dentro del cuarto grado en línea colateral; o dentro del segundo, por afinidad;
+
+II.- Por tener interés personal en el asunto que haya motivado el juicio;
+
+III.- Por tener amistad estrecha o enemistad manifiesta con alguna de las partes o de sus representantes;
+
+IV.- Por haber emitido la resolución o instruido el procedimiento combatido; o
+
+V.- Por ser parte en un juicio similar pendiente de resolución por el Tribunal.
+
+Estas causas determinan la excusa forzosa del Juez.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 392.
+
+Las partes podrán recusar al Juez o al Secretario, cuando estén en alguno de los casos de impedimento a que se refiere el artículo anterior. La recusación será resuelta por el propio Juez.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 393.
+
+El Juez del Tribunal que se considere impedido para conocer de algún asunto, hará en autos la manifestación a que se refiere el artículo anterior. En tal caso, el Secretario del Tribunal será quien continúe en el conocimiento y resolución del asunto.
+
+El Juez que teniendo impedimento para conocer de un negocio no haga la manifestación correspondiente, incurre en responsabilidad; así mismo es responsable si no teniéndolo, pretende que se le aparte del conocimiento de aquél.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 394.
+
+Las partes en juicio podrán, dentro del término de cinco días a partir de que comparezcan ante el Tribunal, denunciar cualquiera de los impedimentos a que se refiere el artículo 391 de este Código.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN DÉCIMA TERCERA. DE LOS INCIDENTES
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 395.
+
+Dentro del juicio contencioso administrativo, sólo serán admisibles como incidentes de previo y especial pronunciamiento los siguientes:
+
+I.- Falta de personalidad;
+
+II.- El de acumulación de autos; y
+
+III.- El de suspensión del juicio por causa de muerte del actor, o del demandado si este último fuere el particular y se impugna un acto que sólo afecta a su persona.
+
+Los incidentes se promoverán ante el Juez que conozca del juicio respectivo.
+
+Cuando este Código no prevea plazo específico para la interposición del incidente respectivo, se considerará el de cinco días hábiles contados a partir del siguiente al en que se tuvo conocimiento de los hechos que motivaron el mismo.
+
+Promovido un incidente se dará vista a las partes para que manifiesten lo que a su derecho convenga dentro del término de tres días. Transcurrido dicho término, hayan ejercido ese derecho o no, el Juez citará a una audiencia de pruebas y alegatos, la cual se celebrará dentro de las cuarenta y ocho horas siguientes. En el mismo acto de la audiencia dictará la resolución incidental o dentro de un término de tres días.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 396.
+
+La acumulación de dos o más juicios es procedente en los siguientes casos:
+
+I.- Cuando las partes sean las mismas y se invoquen idénticos agravios;
+
+II.- Cuando siendo diferentes las partes el acto impugnado sea el mismo, ya sea que esté impugnado total o parcialmente; y
+
+III.- Cuando se impugnen actos o resoluciones que sean antecedente o consecuencia de otros, independientemente de que las partes sean o no las mismas y los agravios sean o no diversos.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 397.
+
+Las partes podrán promover el incidente de acumulación hasta antes de la celebración de la audiencia del juicio. La acumulación podrá tramitarse de oficio.
+
+El Juez resolverá lo que proceda en el plazo de tres días hábiles.
+
+Una vez decretada la acumulación, el Juez agregará los autos del juicio más reciente a los del más antiguo, en un plazo que no excederá de tres días hábiles.
+
+No procede la acumulación cuando en alguno de los juicios ya se hubiere celebrado la audiencia de juicio.
+
+Decretada la acumulación, se suspenderá el curso del juicio que estuviere más próximo a su término, hasta que el otro se encuentre en el mismo estado, a fin de que ambos se decidan en una misma sentencia.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 398.
+
+Las demás cuestiones incidentales que surjan dentro del procedimiento, se substanciarán en la misma pieza de autos sin que se interrumpa la secuela del juicio, dándole vista a la parte interesada en el incidente y se fallarán junto con el principal.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN DÉCIMA CUARTA. DE LA SUSPENSIÓN DE LOS ACTOS IMPUGNADOS
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 399.
+
+A petición expresa de parte, el Juez, en el mismo auto que admita la demanda, decretará la suspensión de los actos impugnados, haciéndolo saber sin demora a la autoridad demandada para su observancia.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 400.
+
+La suspensión podrá solicitarla el actor en cualquier tiempo, mientras no se dicte sentencia definitiva, y tendrá por efecto mantener las cosas en el estado en que se encuentren hasta en tanto se pronuncie sentencia.
+
+No se otorgará la suspensión cuando de concederla se siga perjuicio al interés social, se contravengan disposiciones de orden público o se dejare sin materia el juicio.
+
+Se considera entre otros casos, que se sigue perjuicio al interés social o se contravengan disposiciones de orden público en los siguientes casos:
+
+I.- Se permita la consumación o continuación de delitos o de sus efectos;
+
+II.- Se impida la ejecución de medidas para combatir epidemias de carácter grave, el peligro de invasión de enfermedades exóticas en el estado o campañas u operativos contra el alcoholismo, la ludopatía, el tabaquismo o la venta ilícita de sustancias;
+
+III.- Se produzca daño al medio ambiente, al equilibrio ecológico o por ese motivo se afecte la salud de las personas;
+
+IV.- Cuando de otorgarse la suspensión se proceda a la instalación, se continúe el funcionamiento o se evite de alguna manera el control, la verificación o vigilancia del cumplimiento de los ordenamientos administrativos estatales o municipales de los casinos, centros de apuesta, salas de sorteos, casas de juego y establecimientos similares;
+
+V.- Cuando se trate de centros de vicio, de lenocinio o se dediquen al comercio de drogas y de enervantes.
+
+La suspensión podrá ser revocada o modificada por el Juez en cualquier etapa del juicio, ya sea oficiosamente o a petición de parte, si varían las condiciones por las cuales se otorgó, o si se argumentan o demuestran hechos o circunstancias que no se hubieren tomado en consideración al concederla.
+
+La suspensión se limitará a los actos, procedimientos o resoluciones que se impugnen y sus efectos. Al concederla, el Juez procurará precisar la situación en que habrá (sic) de quedar las cosas y tomará las medidas pertinentes para conservar la materia del juicio hasta su terminación.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 401.
+
+Cuando a juicio del Juez fuera necesario garantizar el interés fiscal, la suspensión del acto reclamado se concederá previo aseguramiento del mismo, mediante certificado de depósito expedido por la Tesorería Municipal que corresponda o con fianza otorgada por institución autorizada.
+
+Sin perjuicio de lo preceptuado en el párrafo anterior, el Juez podrá eximir el otorgamiento de garantía del adeudo fiscal, en los siguientes casos:
+
+I.- Siempre que previamente se haya constituido la garantía del interés fiscal ante la autoridad demandada;
+
+II.- Cuando se trate de persona distinta del obligado directamente al pago, o
+
+III.- Cuando de acuerdo a la apreciación del Juez y tratándose del cobro de sumas, éstas excedan de la posibilidad del quejoso.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 402.
+
+En los casos en que proceda la suspensión y pueda ocasionar daños o perjuicios a terceros, se concederá si el actor otorga garantía bastante, en las formas previstas en el artículo anterior, para reparar el daño e indemnizar los perjuicios que con aquélla se causaren, si no se obtiene sentencia favorable en el juicio.
+
+La suspensión quedará insubsistente si el tercero a su vez otorga caución bastante para que las cosas se mantengan en el estado en que se encontraban en el momento que ésta fue concedida y a cubrir los daños que sobrevengan en perjuicio del actor, en caso de que éste obtenga sentencia favorable.
+
+Para que surta efectos la caución que ofrezca el tercero conforme al párrafo anterior, deberá cubrir previamente el costo de la que hubiere otorgado el actor.
+
+No se admitirá la contragarantía cuando, de ejecutarse el acto demandado, quede sin materia el juicio.
+
+En todos los casos, el Juez podrá requerir al interesado o a las partes en el juicio, los informes que considere necesarios para estimar el monto de los daños y perjuicios objeto de garantía o contragarantía, y fijará discrecionalmente el monto de los mismos cuando no sean estimables en dinero.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 403.
+
+Para hacer efectivas las garantías otorgadas con motivo de la suspensión, el interesado deberá solicitarlo dentro de los treinta días siguientes a que cause ejecutoria la sentencia; si no lo hiciere dentro de ese término, se procederá a la devolución o cancelación de la garantía. La solicitud correspondiente se tramitará en la vía incidental.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 404.
+
+Cuando la autoridad demandada no cumpliere la suspensión concedida, a petición de parte se le requerirá el cumplimiento. Si dentro del día siguiente al requerimiento la autoridad no cumpliere con la medida cautelar, se procederá a imponerle una multa de trescientas a mil veces el salario mínimo vigente en el municipio donde resida el Tribunal de Justicia Administrativa Municipal.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN DÉCIMA QUINTA. DE LAS PRUEBAS
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 405.
+
+En el juicio contencioso administrativo son admisibles todas las pruebas que tengan relación directa con los hechos controvertidos, excepto la confesional por posiciones y la petición de informes salvo que éstos se limiten a hechos que consten en documentos que obren en poder de las autoridades y las que fueren contrarias a la moral o al derecho.
+
+Aquellas pruebas que se hubieren rendido ante las autoridades demandadas deberán ponerse a disposición del Juez con el expediente relativo, a petición de parte.
+
+Las pruebas supervinientes podrán presentarse hasta antes de dictarse sentencia.
+
+Cuando se ofrezcan las pruebas de inspección y pericial, el propietario, poseedor u ocupante del bien en el cual se deban desahogar las citadas probanzas, tendrá la obligación de permitir el acceso al mismo a fin de que se cumpla tal objetivo.
+
+Una vez admitida la prueba de inspección o pericial, el Juez prevendrá al propietario, poseedor u ocupante referido en el párrafo que antecede, a fin de que cumpla con dicha obligación, bajo los siguientes apercibimientos:
+
+a).- Cuando sea el oferente quien deba permitir el acceso, se le apercibirá que de no hacerlo así se tendrá por desierta la probanza de que se trate.
+
+b).- Para el caso de que sea algunas de las contrapartes del oferente de la prueba, la que deba permitir el acceso, se le apercibirá que de no cumplir con tal obligación se tendrán por ciertos los hechos que se pretendan acreditar con la prueba ofrecida.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 406.
+
+El Juez en la audiencia previa está facultado para calificar la pertinencia de las pruebas ofrecidas por las partes, y desechará aquellas que no se relacionen con los puntos controvertidos.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 407.
+
+El Juez podrá decretar en todo tiempo el desahogo de cualquier diligencia probatoria que estimen necesaria para mejor proveer.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 408.
+
+Los hechos notorios no requieren de prueba y el Juez podrá invocarlos en sus resoluciones, aún cuando las partes no lo hubieran hecho.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 409.
+
+Con el fin de que las partes puedan rendir sus pruebas en la audiencia del juicio, los servidores públicos tienen la obligación de expedir con toda oportunidad las copias de los documentos que aquellas les soliciten; si dichos servidores públicos no cumplieran con esta obligación, la parte interesada solicitará al Juez que requiera a las mismas.
+
+El Juez hará el requerimiento y suspenderá la audiencia por plazo que no exceda de cinco días hábiles; pero si no obstante dicho requerimiento no se expidieren, se tendrán por ciertos los hechos que se pretendan probar con dichos documentos si la autoridad omisa es parte en el juicio; si no lo es, el Juez hará uso de los medios de apremio para que las expidan.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 410.
+
+Las pruebas que lo ameriten se desahogarán en la audiencia del juicio. Si no fuera posible, se señalará nueva fecha para su desahogo en los casos previstos por este Código.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 411.
+
+Cuando el desahogo de las pruebas deba realizarse fuera de la jurisdicción del Tribunal de Justicia Administrativa del que se trate, el Juez, por conducto del Tribunal de Justicia Administrativa competente o, en su caso, del Supremo Tribunal de Justicia por conducto del Juez de Primera Instancia más próximo al de la localidad referida, girándole el exhorto correspondiente, acompañando los documentos, interrogatorios o cuestionarios correspondientes, debidamente calificados.
+
+Los Ayuntamientos podrán celebrar los convenios de colaboración necesarios para el cumplimiento de lo señalado en este artículo.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 412.
+
+La prueba pericial tendrá lugar en las cuestiones relativas a alguna ciencia o arte; admitida que fuera la prueba pericial se fijará un mismo plazo de tres días hábiles para que las partes presenten a sus peritos, personalmente o por escrito, a fin de que comprueben si reúnen los requisitos legales, manifiesten que no tienen impedimento legal para emitir su dictamen y acepten el cargo, con el apercibimiento que de no hacerlo solo se considerará el peritaje de quien haya cumplido; en la inteligencia de que los peritos deberán tener título en la especialidad a que pertenezca el asunto sobre el que habrán de dictaminar, si estuviera legalmente reglamentada; si no lo estuviera, o si estándolo no fuera posible designar un perito titulado, podrán ser nombrados al efecto personas entendidas en la ciencia o arte que deberán dictaminar; debiéndose acreditar el conocimiento en la ciencia, arte u oficio con la exhibición de documentos originales o debidamente certificados.
+
+Los peritos deberán presentar su dictamen a más tardar dentro de los cinco días hábiles siguientes contados a partir del día siguiente al en que se les tenga por cumplidos los requisitos y aceptado el cargo conferido. De no cumplirse este requisito y no hubiere circunstancia que justifique el incumplimiento, se tendrá por no presentado el dictamen.
+
+Si ninguno de los peritos de las partes rinde su dictamen en el término concedido para ello, se declarará desierta la prueba.
+
+Se tendrá por desierta la prueba pericial si el perito del oferente no acepta su cargo o no protesta conducirse con verdad y con apego al Código, o no exhibe los documentos que justifiquen su conocimiento en la ciencia o arte.
+
+Los dictámenes periciales se pondrán a la vista de las partes por lo menos con cinco días de anticipación a la celebración o reanudación de la audiencia, para que estén en aptitud de formular observaciones o interrogar a los peritos.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 413.
+
+El reconocimiento o inspección se practicará siempre previa citación de las partes, fijándose día, hora y lugar, la cual deberá precisarse en la audiencia previa. Las partes, sus representantes o abogados podrán ocurrir a la inspección y hacer las observaciones que estimen oportunas. También podrán concurrir a ella los testigos de identidad y los peritos que fueren necesarios.
+
+Del reconocimiento se levantará un acta que firmarán todos los que concurrieron, debiendo asentarse con exactitud los puntos que lo hayan provocado, las declaraciones de los testigos y peritos si los hubiere y todo lo que el Juez creyere conveniente para sustentar su juicio.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 414.
+
+Los testigos no podrán pasar de tres respecto de cada hecho. Deberán ser presentados por el oferente en la fecha de la audiencia y sólo en el caso de que éste manifieste bajo protesta de decir verdad su imposibilidad para presentarlos, el Juez los mandará citar si se proporcionan sus domicilios.
+
+El Juez ordenará la citación con apercibimiento de arresto hasta por 24 horas o multa equivalente de quince días de salario mínimo general diario vigente en el municipio donde resida el Tribunal de Justicia Administrativa, que aplicará al testigo que no comparezca sin causa justificada o que se niegue a declarar.
+
+En caso de que el señalamiento de domicilio de algún testigo resulte inexacto, o de comprobarse que se solicitó su citación con el propósito de retardar el procedimiento, se impondrá al promovente una multa equivalente de treinta días de salario mínimo general diario vigente en el municipio donde resida el Tribunal de Justicia Administrativa, debiendo declararse desierta la prueba testimonial.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 415.
+
+La valorización de las pruebas se hará de acuerdo con las siguientes disposiciones:
+
+I.- Harán prueba plena: la confesión expresa de las partes; las presunciones legales que no admitan prueba en contrario; los hechos afirmados por autoridades competentes en documentos públicos, pero si en éstos se contienen declaraciones de verdad o manifestaciones de hechos de particulares, los documentos solo prueban plenamente que, ante la autoridad que los expidió, se hicieron tales declaraciones o manifestaciones, pero no prueban la verdad de lo declarado o manifestado;
+
+II.- Tratándose de actos de comprobación de las autoridades administrativas se entenderán como legalmente afirmados los hechos que consten en las actas respectivas, salvo prueba en contrario;
+
+III.- El valor de las pruebas pericial, testimonial y de inspección o reconocimiento, así como el de las demás pruebas, quedará a la prudente apreciación del Juez;
+
+IV.- Los medios de prueba ofrecidos y admitidos serán valorados en su conjunto por el Juez, atendiendo a las reglas de la lógica y de la experiencia.
+
+Cuando por el enlace lógico de las pruebas rendidas y de las presunciones formadas, el Juez adquiriera convicción distinta acerca de los hechos materia del litigio, podrá valorar las pruebas sin sujetarse a lo dispuesto en las fracciones anteriores, debiendo fundar razonadamente esta parte de su sentencia.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN DÉCIMA SEXTA. DE LA SENTENCIA
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 416.
+
+Las sentencias deberán ser debidamente fundadas y motivadas, congruentes y exhaustivas. Su redacción contendrá:
+
+I.- La fijación clara y precisa de los puntos controvertidos, así como el examen y valorización de las pruebas;
+
+II.- El análisis de la procedencia del juicio y de los conceptos de agravio consignados en la demanda, para cuyo orden de estudio deberán atenderse preferentemente aquellos que impliquen un mayor beneficio para el demandante;
+
+III.- Los fundamentos en que se apoyen para declarar fundada o infundada la pretensión para reconocer la validez o nulidad del acto impugnado; para absolver o para condenar y, en su caso, para determinar los efectos de la sentencia; y
+
+IV.- Los puntos resolutivos en los que se expresarán los actos cuya validez se reconozca o cuya nulidad se declare; la reposición del procedimiento que se ordene; los términos de la modificación del acto impugnado o en su caso la condena que se decrete. Cuando se trate de omisiones o resoluciones que tengan relación con una afirmativa ficta, se deberá cuidar que los términos en que se decrete su configuración o la condena correspondiente nunca afecte derechos de terceros, se contravengan disposiciones de orden público o se cause un perjuicio al interés social.
+
+El Juez podrá corregir los errores u omisiones que adviertan en la cita de los preceptos que se consideren violados.
+
+En la sentencia se podrán examinar en su conjunto los agravios.
+
+Cuando en la sentencia se decrete el sobreseimiento del juicio o se reconozca la validez del acto o resolución impugnado, y en autos esté plenamente acreditada la falsedad de alguno de los hechos narrados bajo protesta de decir verdad en la demanda, o se advierta que el juicio fue promovido con el propósito de retrasar la solución del asunto del que emana el acto o resolución impugnado, de entorpecer la ejecución de éste o de obstaculizar la legal actuación de la autoridad; el Juez impondrá a la parte actora o a su representante, en su caso, a su abogado o a ambos, una multa equivalente al monto de sesenta y cinco a quinientas cuotas de salario mínimo vigente en el área geográfica del lugar de residencia del Tribunal. En caso de persistir el incumplimiento podrá aplicarse hasta el doble de la multa máxima antes referida; sin perjuicio de la responsabilidad de otra índole que pudiera resultarles al respecto.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 417.
+
+La sentencia definitiva podrá:
+
+I.- Reconocer la validez de la resolución o acto impugnados;
+
+II.- Declarar la nulidad de la resolución o acto impugnados;
+
+III.- Declarar la nulidad de la resolución o acto impugnados para determinados efectos, debiendo precisar con claridad la forma y términos en que la autoridad debe cumplirla, salvo que se trate de facultades discrecionales.
+
+Cuando en la sentencia de nulidad se reconozca un derecho subjetivo a favor del demandante, se deberá precisar con claridad la forma y términos en que la autoridad demandada debe cumplir la condena respectiva o restituir al actor en el goce del derecho afectado.
+
+El Tribunal deberá precisar con claridad la forma y términos en que la autoridad debe cumplirla.
+
+Cuando se impugne una disposición administrativa de carácter general y el concepto de agravio relativo resulte fundado y suficiente, la declaratoria de nulidad que corresponda se circunscribirá al acto concreto de aplicación.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN DÉCIMA SÉPTIMA. DE LOS RECURSOS
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 418.
+
+En los juicios promovidos ante el Tribunal de Justicia Administrativa solamente procede el recurso de queja en los siguientes casos:
+
+I.- Por exceso o defecto en la ejecución del auto en que se haya concedido la suspensión del acto o procedimiento impugnado;
+
+II.- Por exceso o defecto en la ejecución de la sentencia del Juez, que haya declarado fundada la pretensión del actor;
+
+III.- Contra actos de las autoridades demandadas tendientes a repetir el acto o procedimiento anulado;
+
+IV.- Cuando las autoridades demandadas no provean sobre la suspensión del acto combatido dentro del término legal, nieguen o rechacen la garantía ofrecida o reinicien la ejecución. En estos casos, al promoverse el recurso deberá de acompañarse el documento en que conste la solicitud de la suspensión, el ofrecimiento de la garantía o el reinicio de la ejecución; y
+
+V.- Cuando la autoridad omita dar cumplimiento a la sentencia o a la suspensión del acto impugnado.
+
+El recurso deberá interponerse por escrito ante el Juez que conozca o hubiere conocido del juicio, dentro de cinco días hábiles contados a partir del día hábil siguiente al en que haya surtido efectos la notificación de la resolución recurrida, o tenga conocimiento del acto u omisión de que se duele, acompañando una copia del recurso para cada una de las partes.
+
+Admitido el recurso, el Juez requerirá a la autoridad contra la que se hubiere interpuesto para que rinda informe justificado sobre la materia de la queja, dentro del plazo de tres días hábiles, y dentro de los cinco días hábiles siguientes dictará la resolución que proceda.
+
+Interpuesto el recurso y a solicitud de parte, el Juez mandará suspender la ejecución hasta en tanto se dicte resolución.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN DÉCIMA OCTAVA. DE LA EJECUCIÓN DE LA SENTENCIA
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 419.
+
+Causan ejecutoria:
+
+I.- La sentencias consentidas expresamente por las partes, sus representantes legítimos o sus mandatarios con poder bastante;
+
+II.- Las sentencias no impugnadas o de las que habiéndolo sido, se haya declarado desierto o improcedente el medio de impugnación o el promovente se haya desistido de él, o no se continuare el recurso en el término legal.
+
+Cuando haya causado ejecutoria una sentencia en que se haya declarado la nulidad, el Juez lo comunicará por oficio y sin demora alguna a las autoridades que hayan dictado, ejecutado, tratado de ejecutar el acto impugnado o sustituido a la autoridad que lo hizo, así como a cualquier otra autoridad que, por sus funciones, tenga que intervenir en la ejecución, para su debido cumplimiento, previniéndolas para que informen, dentro del término de diez días sobre el cumplimiento que den a la sentencia respectiva.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 420.
+
+En aquellos casos en que la sentencia decrete la nulidad del acto reclamado y dicha nulidad implique la cuantificación de alguna prestación económica para resarcir al accionante en su derecho violentado con el acto nulificado, la cuantificación de tales prestaciones deberá de tramitarse mediante un incidente de liquidación promovido a instancia de parte.
+
+Al incidente de referencia la parte actora deberá de adjuntar la propuesta detallada de la liquidación correspondiente y los elementos de prueba que soporten las cantidades propuestas.
+
+Para el caso de que el actor no cuente con los elementos de prueba necesarios para la elaboración de su propuesta, deberá hacer por escrito mención de dicha circunstancia, señalando las documentales e informes que requiere para tal efecto, así como la autoridad que cuenta con los mismos, a fin de que el Juez requiera a ésta última para que remita tal información, en un término de hasta diez días hábiles a partir de que surta efectos la notificación del requerimiento realizado, bajo el apercibimiento de que en caso de no acatarlo se aplicarán en su contra los medios de apremio que establece esta ley.
+
+Una vez que obre en autos la información requerida se le dará vista al accionante para que en un término de tres días formule la propuesta de liquidación correspondiente.
+
+Formulada que haya sido la propuesta de liquidación, se le dará vista a la parte demandada para que dentro del término de tres días hábiles formule las objeciones que considere pertinentes a la misma, aportando las probanzas que apoyen su oposición. Una vez desahogada la vista anterior, o bien transcurrido que haya sido el término concedido para ello, el Juez resolverá de plano el incidente dentro de los tres días siguientes.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 421.
+
+Si dentro del término de los diez días siguientes al en que haya causado ejecutoria una sentencia que declare la nulidad, ésta no se cumpliere, el Juez de oficio o a petición de parte requerirá a las autoridades condenadas que informen dentro de los tres días siguientes, respecto al cumplimiento de la sentencia.
+
+Concluido el término anterior, con informe o sin él, el Juez decidirá si hubo incumplimiento injustificado de la sentencia, resolviendo lo conducente. En caso de que resuelva la existencia de un incumplimiento injustificado procederá como sigue:
+
+I.- Impondrá a la autoridad que deba cumplir una multa de trescientas a mil veces el salario mínimo vigente en el municipio donde resida el Tribunal de Justicia Administrativa, tomando en cuenta la gravedad del incumplimiento y las consecuencias que ello hubiese ocasionado, informándose al Titular de la dependencia municipal, a quien se encuentre subordinada dicha autoridad.
+
+II.- En el supuesto de que la autoridad o el servidor público persistiera en no dar cumplimiento a la sentencia, el Juez requerirá al titular de la dependencia municipal, a quien se encuentre subordinada dicha autoridad, para que, en un plazo de cinco días hábiles, conmine a ésta a cumplir con la sentencia y proporcione el informe correspondiente, imponiéndosele, en caso de no cumplir con ello, una multa de trescientas a mil veces el salario mínimo vigente en el municipio donde resida el Tribunal de Justicia Administrativa.
+
+III.- De persistir el incumplimiento el Juez podrá decretar la destitución de la autoridad que deba llevar a cabo el cumplimiento de la sentencia, excepto que se trate de una autoridad de elección, en cuyo caso se procederá en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado.
+
+IV.- Una vez agotado lo anterior, y cuando la naturaleza del acto lo permita, el Juez podrá comisionar al funcionario jurisdiccional que por la índole de sus funciones estime más adecuado para que dé cumplimiento a la sentencia.
+
+Ante el incumplimiento de la sentencia por parte de las autoridades administrativas obligadas a ello, el Juez dará vista al Ministerio Público de los hechos acontecidos, para los efectos legales a que haya lugar.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 422.
+
+Las sanciones mencionadas en esta Sección también serán procedentes cuando no se cumpla en sus términos la suspensión que se hubiere decretado respecto al acto cuya nulidad se demandó en el juicio.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN DÉCIMA NOVENA. DE LA JURISPRUDENCIA DEL TRIBUNAL
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 423.
+
+La jurisprudencia de cada Tribunal de Justicia Administrativa se establecerá únicamente por reiteración de criterios.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 424.
+
+La jurisprudencia será obligatoria para las dependencias municipales que se encuentren dentro de la jurisdicción del Tribunal de Justicia Administrativa correspondiente.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 425.
+
+La jurisprudencia por reiteración del Tribunal de Justicia Administrativa se establece cuando se sustente un mismo criterio en cinco sentencias no interrumpidas por otra en contrario, resueltas en diferentes juicios.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 426.
+
+La jurisprudencia deberá ser publicada en los medios de consulta pública que para tal efecto determine el Ayuntamiento que corresponda.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN VIGÉSIMA. DE LA SUPLETORIEDAD
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 427.
+
+En todo lo no previsto se aplicarán supletoriamente las disposiciones del Código de Procedimientos Civiles para el Estado de Tamaulipas.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 428.
+
+Los Ayuntamientos que cuenten con la capacidad técnica, presupuestal y humana podrán establecer mediante acuerdo de las dos terceras partes del Ayuntamiento los actos de autoridad cuya impugnación podrá realizarse a través del procedimiento sumario establecido en este Capítulo.
+
+En caso que el Ayuntamiento correspondiente determine los actos de autoridad que se impugnarán a través del procedimiento sumario, será optativo para el particular agotar previamente los recursos administrativos previstos ante la autoridad emisora del acto o intentar directamente el procedimiento sumario ante el Tribunal; o bien, si inició un recurso o medio de impugnación, previo desistimiento del mismo, podrá acudir al Tribunal Municipal dentro del término de ley. Ejercitada la acción ante éste, se extinguirá el derecho para ocurrir a otro medio de defensa ordinario.
+
+En contra de los actos de autoridad que el Ayuntamiento determine como impugnables mediante el procedimiento sumario, no procederá el juicio de nulidad señalado en el Capítulo Tercero del presente Título.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 429.
+
+El procedimiento sumario se regirá por los principios de oralidad, inmediación, dispositivo, abreviación, celeridad, economía procesal, publicidad, continuidad y expeditez (sic).
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 430.
+
+La tramitación del procedimiento sumario se regirá por las siguientes reglas:
+
+I.- La demanda o la expresión de la causa de pedir se interpondrá dentro de los siguientes diez días hábiles al en que surta efectos la notificación del acto impugnado;
+
+II.- Una vez admitida la demanda, el Tribunal notificará a la autoridad demandada, en la vía más expedita, la interposición de la demanda a más tardar dentro de las veinticuatro horas siguientes;
+
+III.- El Tribunal fijará fecha y hora para la celebración de una audiencia de pruebas y alegatos verbales, la que deberá celebrarse a más tardar dentro de los tres días hábiles siguientes al en que se haya admitido la demanda o recibido la causa de pedir;
+
+IV.- El Tribunal dictará resolución, confirmando o revocando el acto impugnado, en el mismo acto de la audiencia o a más tardar dentro de los tres días hábiles siguientes de la celebración de la misma.
+
+V.- La resolución que dicte el Tribunal, se notificará a las partes dentro de las veinticuatro horas siguientes a su dictado, o bien en el acto de la audiencia si las partes se encontraren presentes;
+
+VI.- Las notificaciones surtirán sus efectos en el momento en el que hayan quedado legalmente hechas.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 431.
+
+Será optativo para el particular presentar demanda en la forma señalada por el artículo 358 de este Código o expresar la causa de pedir ante el Tribunal.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 432.
+
+El particular, o su representante, expresará verbalmente, o por escrito, y sin mayor formalidad la causa de pedir ante el funcionario del Tribunal que determine el Reglamento Interior, señalando los motivos por los cuales considera que se debe declarar la nulidad del acto impugnado.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 433.
+
+El Tribunal admitirá el procedimiento, notificándole al particular en el mismo acto en que se interponga la demanda o se exprese la causa de pedir, la fecha de la audiencia verbal de pruebas y alegatos y a la autoridad demandada, por los medios más expeditos a su alcance, a más tardar dentro de las veinticuatro horas siguientes.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 434.
+
+La audiencia verbal de pruebas y alegatos se celebrará con o sin asistencia de las partes. La autoridad demandada podrá hacerse representar por su titular o la persona que sea designada por éste. Los particulares podrán comparecer personalmente, por conducto de sus abogados autorizados en términos del artículo 348 de este Código o por un representante con facultades legales suficientes.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 435.
+
+En el procedimiento sumario son admisibles todos los medios de prueba previstos para el Juicio de Nulidad.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 436.
+
+El Juez dictará resolución al finalizar los alegatos de cada una de las partes o dentro de un término de setenta y dos horas contadas a partir de la conclusión de la audiencia.
+
+El Juez entrará al fondo del asunto y analizará la legalidad del acto impugnado en todas sus partes, aun y cuando los particulares no hayan expresado alegatos.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 437.
+
+Contra los acuerdos, autos y resoluciones dictados dentro del procedimiento sumario, no procederá recurso alguno ante instancia municipal o estatal.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 438.
+
+En todo lo no previsto para el Procedimiento Sumario se aplicarán, en lo que no se oponga, las disposiciones del Juicio de Nulidad.
+
 TRANSITORIOS:
 
 ###### ARTICULO PRIMERO.
@@ -3533,7 +4993,7 @@ Se abroga el Decreto No. 407, publicado en el Periódico Oficial del Estado No. 
 
 ###### ARTICULO CUARTO.
 
-Se derogan los Artículos 35, fracción III, 38, 39 y 40, de la Ley de la Policía Preventiva de los Municipios del Estado, así como todas las disposiciones que se opongan a este Código.
+Se derogan los Artículos 35, fracción III, 38, 39 y 40, de la Ley de Policía la Preventiva de los Municipios del Estado, así como todas las disposiciones que se opongan a este Código.
 
 > <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
 
@@ -3701,6 +5161,12 @@ Artículo Primero.- El presente Decreto entrará en vigor el día de su publicac
 
 Artículo Segundo.- Los Ayuntamientos que hubieren realizado disposiciones en materia de bonificación por pago anticipado o en relación a la situación personal de los contribuyentes durante el mes de enero del presente año podrán autorizar la adecuación de las previsiones correspondientes a lo dispuesto en este Decreto.
 
+P.O. 2 DE DICIEMBRE DE 2002.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 99, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 55, FRACCIÓN XIX, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
 P.O. 2 DE OCTUBRE DE 2003.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -3716,10 +5182,6 @@ Primero.- El presente decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Se derogan todas las disposiciones que contravengan el presente decreto.
 
 P.O. 22 DE ABRIL DE 2004.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NO. 99, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 55, FRACCIÓN XIX, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
-
-Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO UNICO.
 
@@ -4165,4 +5627,34 @@ El Ejecutivo del Estado deberá expedir los lineamientos que contengan los proce
 
 Se derogan todas las disposiciones jurídicas estatales que se opongan al presente Decreto.
 
-P.O. 2 DE DICIEMBRE DE 2002.
+P.O. 4 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Ayuntamientos que en forma libre decidan crear un Tribunal de Justicia Administrativa Municipal, deberán expresar con claridad en las disposiciones transitorias del Reglamento Interior, la fecha de inicio de sus funciones.
+
+###### ARTÍCULO TERCERO.
+
+En términos de lo dispuesto por la fracción XLVII del artículo 49 del Código Municipal para el Estado de Tamaulipas reformado mediante este Decreto, se deberá nombrar al juez del Tribunal Municipal de Justicia Administrativa.
+
+El procedimiento y reglas de elección del juez del Tribunal (sic) Justicia Administrativa Municipal a que se refiere este artículo, será el ordinario que contempla el artículo 330, del Código Municipal para el Estado de Tamaulipas, adicionado mediante este Decreto y las reglas y modalidades que al efecto se establezcan en el respectivo acuerdo que emita el Ayuntamiento correspondiente.
+
+###### ARTÍCULO CUARTO.
+
+Dentro de los 30 días siguientes a que concluya el procedimiento señalado en el artículo anterior, el Juez del Tribunal de Justicia Administrativa Municipal deberá realizar las designaciones y nombramientos correspondientes de los funcionarios que integren el Tribunal Municipal de Justicia Administrativa para su debida integración y funcionamiento.
+
+###### ARTÍCULO QUINTO.
+
+El titular del Tribunal presentará, dentro de los 10 días hábiles siguientes al inicio de funciones del órgano, un proyecto de Reglamento Interior, el cual deberá ser aprobado por las dos terceras partes de los integrantes del Ayuntamiento y publicarse en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEXTO.
+
+Los Ayuntamientos expedirán la convocatoria a que hace alusión el artículo 330, fracción I, del Código Municipal, con la anticipación suficiente para que antes del inicio de funciones del Tribunal de Justicia Administrativa ya se encuentre nombrado el Juez.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Ayuntamiento que corresponda, mediante el voto de las dos terceras partes de los miembros presentes podrá declarar la disolución del Tribunal Municipal de Justicia Administrativa. Para tal efecto deberá establecer de manera clara fundando y motivando las causas por las cuales ha tomado esa determinación. Previo a la fecha de extinción del Tribunal Municipal de Justicia Administrativa deberán concluirse los asuntos en trámite.
