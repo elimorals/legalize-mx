@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-registral-y-catastral-del-estado-de-nuevo-706
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-11"
-last_updated: "2010-06-07"
+last_updated: "2014-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70605&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NLE"
 ---
 # LEY DEL INSTITUTO REGISTRAL Y CATASTRAL DEL ESTADO DE NUEVO LEON
 
-LEY DEL INSTITUTO REGISTRAL Y CATASTRAL DEL ESTADO DE NUEVO LEON
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE MAYO DE 2015 EN EL P.O. DEL ESTADO DE NUEVO LEÓN SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO REFORMADO, EL PRESENTE ORDENAMIENTO ENTRARA EN VIGOR EL 1 DE ENERO DE 2011.</small>
+LEY DEL INSTITUTO REGISTRAL Y CATASTRAL DEL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 2009.
 
@@ -341,7 +341,9 @@ V. Administrar los recursos humanos, materiales y financieros del Instituto; de 
 
 VI. Administrar y prestar los servicios inherentes a la integración electrónica de la información de las bases de datos del Registro Público de la Propiedad y del Comercio, en su caso, y del Catastro del Estado.
 
-VII. Organizar, integrar y administrar el Registro Público de la Propiedad y del Comercio, en su caso, y la prestación de los servicios inherentes al mismo.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2014)</small>
+
+VII.- Organizar, integrar y administrar el Registro Público de la Propiedad y del Comercio, en su caso, y la prestación de los servicios inherentes al mismo, así como proponer ante la Junta de Gobierno los sistemas de trabajo que permitan llevar a cabo una mejor prestación de los servicios.
 
 VIII. Organizar, integrar y administrar el Catastro Estatal y la prestación de los servicios inherentes al mismo.
 
@@ -503,8 +505,14 @@ Décimo Quinto.- (ABROGADO, P.O. 7 DE JUNIO DE 2010)
 
 Décimo Sexto.- (ABROGADO, P.O. 7 DE JUNIO DE 2010)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 7 DE JUNIO DE 2010.
 
 Único.- El presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE DICIEMBRE DE 2014.
+
+(SIC) Segundo.- Se derogan todas las normas que se opongan a lo dispuesto en el presente Decreto.
+
+Tercero.- Los procedimientos judiciales iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán hasta su conclusión conforme a las disposiciones vigentes al momento de su inicio.
