@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2014-10-21"
+last_updated: "2014-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 25 de junio de 1999.
 
@@ -3963,9 +3963,11 @@ II. Por la emancipación del menor.
 
 III. Por llegar a la mayoría de edad el que estuvo sujeto a ella.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 545.
 
-Los derechos que la patria potestad confiere a quien o a quienes la ejercen, se pierden:
+Los derechos que la patria potestad confiere a quien o quienes la ejerzan, se pierden:
 
 I. Cuando el que la ejerza cometa algún delito grave o intencional contra el menor.
 
@@ -4002,6 +4004,10 @@ VII. Cuando quien la ejerza padezca alguna afección originada por enfermedad o 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 Acreditada la pérdida de la patria potestad respecto de un menor el juez en la misma sentencia deberá tomar las medidas preventivas respecto de los demás menores sobre los cuales se continúe ejerciendo la misma.
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2014)</small>
+
+VIII. Cuando el que la ejerza cometa actos de violencia grave a juicio del juzgador, de forma directa o indirecta en contra de los menores.
 
 ###### ARTÍCULO 546.
 
@@ -10835,7 +10841,7 @@ I. Si la prestación pagada es de hacer, pagar, a elección del acreedor, el pre
 
 II. Si se trata de capitales, deberá restituir lo recibido más los intereses legales, y
 
-III. Si el bien pagado produce frutos, deberá abonar los percibidos, y los dejados del percibir.
+III. Si el bien pagado produce frutos, deberá abonar los percibidos, y los dejados del (sic) percibir.
 
 ###### ARTÍCULO 1840.
 
@@ -21224,3 +21230,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE DICIEMBRE DE 2014.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su Publicación en el Periódico oficial del Estado dictamen (sic).
