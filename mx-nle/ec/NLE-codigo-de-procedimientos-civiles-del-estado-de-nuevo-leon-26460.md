@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2012-12-28"
+last_updated: "2014-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE MAYO DE 2015 EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -1443,13 +1445,13 @@ El juzgador está obligado a interrogar libremente al declarante con el fin de a
 
 La persona que intente demandar a su cónyuge, puede solicitar su separación provisional al Juez competente.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
-
 ###### Artículo 167.
 
-La mujer continuará habitando el domicilio conyugal, preferentemente; pero podrá escoger en su derecho, un lugar diferente, debiendo el juez vigilar que ello sea sin perjuicio de los hijos menores si los hubiera.
+(DEROGADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2014)
 
-Sin embargo, si el solicitante fuere el varón, el Juez tomará en cuenta siempre el interés superior de los menores, si los hubiere, y las circunstancias de cada caso; por lo que procurará que el cónyuge que conserve a su cuidado a los hijos siga habitando, si así lo desea, el domicilio conyugal. Esta resolución no admitirá recurso alguno.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2014)</small>
+
+El Juez tomará en cuenta siempre el interés superior de los menores, si los hubiere, y las circunstancias de cada caso; por lo que procurará que el cónyuge que conserve a su cuidado a los hijos siga habitando, si así lo desea, el domicilio conyugal.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
@@ -1581,9 +1583,15 @@ IV.- La solicitud de separación podrá ser escrita o verbal, sin requerirse nin
 
 Artículo 180 Bis V.- Presentada la solicitud de separación cautelar, el juez, sin más trámite, resolverá sobre su procedencia y si la concediere, dictará las disposiciones pertinentes para que se efectúe materialmente la separación atendiendo a las circunstancias de cada caso. En los casos regulados por los artículos 180 Bis VI, 180 Bis VII y 180 Bis VIII, deberán cumplirse los requisitos adicionales que los citados preceptos establecen.
 
-> <small>(REFORMADO, P.O. 3 DE ENERO DEL 2000)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2014)</small>
 
-Artículo 180 Bis VI.- Toda persona que ejerza la patria potestad, la tutela o tenga la custodia, de un menor u otro incapaz sujeto a violencia familiar de parte de la otra persona que también ejerce sobre éste la patria potestad, la tutela o custodia, podrá solicitar que el menor o incapaz sea separado del presunto agresor y depositado bajo el cuidado del solicitante, en el mismo domicilio en el que éste habitará y que será diverso al del presunto agresor. Con la solicitud de separación del menor deberá presentarse dictamen técnico, que respalde la separación solicitada. Presentada la solicitud de separación cautelar, acompañada del dictamen técnico, el juez, sin más trámite, resolverá sobre su procedencia y si la concediere, dictará las disposiciones pertinentes para que se efectúe materialmente la separación atendiendo a las circunstancias de cada caso.
+Artículo 180 Bis VI.- Toda persona que ejerza la patria potestad, la tutela o tenga la custodia, de un menor u otro incapaz sujeto a violencia familiar de parte de la otra persona que también ejerce sobre éste la patria potestad, la tutela o custodia, podrá solicitar que el menor o incapaz sea separado del presunto agresor y depositado bajo el cuidado del solicitante.
+
+El domicilio en que se depositará al menor, presunto agredido, debe estar dentro de la jurisdicción del juez que conoce de la solicitud y será diverso al del presunto agresor.
+
+Con la solicitud de separación del menor, el juez deberá actuar de inmediato y ordenar sin dilación alguna, la práctica de diligencias que permitan determinar la existencia o no del maltrato del menor, así como también deberá evaluarse al solicitante del acto prejudicial, a fin de evitar abusos y poner en riesgo la seguridad del menor, evaluaciones que estarán a cargo de la Procuraduría de la Defensa del Menor y la Familia.
+
+Una vez realizadas estas diligencias, el juez, sin más trámites, resolverá sobre la solicitud y si la concediere, dictará las disposiciones pertinentes para que se efectúe materialmente la separación atendiendo a las circunstancias del caso.
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
 
@@ -2285,17 +2293,19 @@ Es permitido articular posiciones al procurador que tenga poder especial para ab
 
 El cesionario se considera como apoderado del cedente para los efectos del párrafo que precede.
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2014)</small>
 
-Si el que debe absolver posiciones residiera fuera del lugar del procedimiento, aun cuando hubiese señalado domicilio para recibir notificaciones dentro del mismo, el Juez librará el correspondiente exhorto, acompañando cerrado y sellado el pliego en que constan las preguntas previa la calificación y del cual deberá dejarse una copia que, autorizada conforme a la ley con su firma y la del secretario, quedará en la Secretaría del Tribunal. El Juez exhortado recibirá la confesión, pero no podrá declarar confeso a ninguno de los litigantes, si no fuere expresamente facultado por el exhortante.
+Si el que debe absolver posiciones residiera fuera del lugar del procedimiento, aun cuando hubiese señalado domicilio para recibir notificaciones dentro del mismo, el Juez librará el correspondiente exhorto, acompañando cerrado y sellado el pliego en que constan las posiciones previa la calificación y del cual deberá dejarse una copia que, autorizada conforme a la ley con su firma y la del secretario, quedará en la Secretaría del Tribunal. El Juez exhortado recibirá la confesión, pero no podrá declarar confeso a ninguno de los litigantes, si no fuere expresamente facultado por el exhortante.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
 Si en el acto de la diligencia se articularen nuevas posiciones, éstas serán calificadas por el Juez exhortado, para cuyo efecto se acompañará con el exhorto copia certificada de la demanda y en su caso de la contestación si la hubiere y demás constancias pertinentes, además de la reconvención y contestación a la misma en el supuesto de haberse formulado.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 267.
 
-Las posiciones deben articularse en términos precisos; no han de ser insidiosas; no han de contener cada una más que un solo hecho y éste ha de ser propio del que declara. Un hecho complejo puede comprenderse en una posición cuando por la íntima relación que existe entre ellos, no pueda afirmarse o negarse uno sin afirmar o negar el otro. Se tiene por insidiosas las preguntas que se dirijan a ofuscar la inteligencia del que ha de responder con el objeto de obtener una confesión contraria a la verdad.
+Las posiciones deben articularse en términos precisos; no han de ser insidiosas; no han de contener cada una más que un solo hecho y éste ha de ser propio del que declara. Un hecho complejo puede comprenderse en una posición cuando por la íntima relación que existe entre ellos, no pueda afirmarse o negarse uno sin afirmar o negar el otro. Se tiene por insidiosas las posiciones que se dirijan a ofuscar la inteligencia del que ha de responder con el objeto de obtener una confesión contraria a la verdad.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
@@ -2303,9 +2313,11 @@ Las posiciones deben articularse en términos precisos; no han de ser insidiosas
 
 Las posiciones deberán concretarse a hechos que sean objeto del debate, debiendo repelerse de oficio las que no reúnan este requisito. El Juez deberá ser escrupuloso en el cumplimiento de este precepto.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 269.
 
-El que articula las preguntas, ya sea la parte misma, ya sea su apoderado, tiene derecho de asistir al interrogatorio y de hacer en el acto las nuevas preguntas que le convengan.
+El que articula las posiciones, ya sea la parte misma, ya sea su apoderado, tiene derecho de asistir al interrogatorio y de hacer en el acto las nuevas posiciones que le convengan.
 
 ###### Artículo 270.
 
@@ -2315,11 +2327,11 @@ La confesión judicial sólo produce efecto en lo que perjudica al que la hace, 
 
 No se procederá a citar a alguno para que absuelva posiciones, sino después de haber sido presentado el pliego que las contenga. Si éste se presentare cerrado deberá guardarse así en el secreto del Tribunal asentándose la razón respectiva en la misma cubierta que firmarán el juez y el secretario.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 272.
 
-Si el citado comparece, el Juez, en presencia de aquél abrirá el pliego, se impondrá de las posiciones y antes de proceder al interrogatorio, calificará las preguntas conforme a los Artículos 267 y 268. Acto seguido y estando de pie el absolvente, el Juez, o en su caso, el secretario, deberá tomarle la protesta de conducirse con verdad. Igualmente le hará saber que en caso de conducirse con falsedad, procederá de oficio a dar vista al Ministerio Público para efectos de que inicie la averiguación respectiva. Todo lo anterior deberá quedar asentado en el acta correspondiente.
+Si el citado comparece, el Juez, en presencia de aquél abrirá el pliego, se impondrá de las posiciones y antes de proceder al interrogatorio, calificará las posiciones conforme a los Artículos 267 y 268. Acto seguido y estando de pie el absolvente, el Juez, o en su caso, el secretario, deberá tomarle la protesta de conducirse con verdad. Igualmente le hará saber que en caso de conducirse con falsedad, procederá de oficio a dar vista al Ministerio Público para efectos de que inicie la averiguación respectiva. Todo lo anterior deberá quedar asentado en el acta correspondiente.
 
 ###### Artículo 273.
 
@@ -2381,9 +2393,11 @@ Se tendrá por confeso el articulante respecto de los hechos propios que afirmar
 
 Cuando la confesión se haga al contestar o formular la demanda o en cualquier otro acto del juicio, no será necesaria la ratificación para que aquélla sea válida y perfecta.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 285.
 
-Las autoridades, las corporaciones oficiales y los establecimientos que forman parte de la administración pública, no absolverán posiciones en la forma que establecen los artículos anteriores, pero la parte contraria podrá pedir que se les libre oficio, insertando las preguntas que quiera hacerles, para que, por vía de informe sean contestadas dentro del término que designe el juez o tribunal que no exceda de ocho días, apercibiendo a la parte absolvente que si dentro del término fijado no se recibe su contestación se le tendrá por confesa, dándose por absueltas las posiciones en sentido afirmativo. Esta declaración se hará según lo dispuesto en este Capítulo, que salvo la modificación hecha en el presente artículo, se observará en todas sus disposiciones.
+Las autoridades, corporaciones oficiales y los establecimientos que forman parte de la administración pública, no absolverán posiciones en la forma que establecen los artículos anteriores, pero la parte contraria podrá pedir que se les libre oficio, insertando las posiciones que quiera hacerles, para que, por vía de informe sean contestadas dentro del término que designe el juez o tribunal que no exceda de ocho días, apercibiendo a la parte absolvente que si dentro del término fijado no se recibe su contestación se le tendrá por confesa, dándose por absueltas las posiciones en sentido afirmativo. Esta declaración se hará según lo dispuesto en este Capítulo, que salvo la modificación hecha en el presente artículo, se observará en todas sus disposiciones.
 
 > <small>(REFORMADO, P.O. 14 DE ENERO DE 2005)</small>
 
@@ -8129,6 +8143,10 @@ Fuera de los casos anteriores, se ordenará requerir al deudor alimentista sobre
 
 La prueba documental podrá presentarse hasta antes de la etapa de calificación de pruebas en la Audiencia Preliminar, salvo la referida en la fracción I del artículo 1068 del presente Código, que deberá acompañarse junto con la demanda.
 
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2014)</small>
+
+En los casos en que los acreedores alimentarios tuvieren 65 años o más, el Juez dentro de la pensión provisional contemplará un porcentaje de los gastos que por concepto de salud se estén erogando al momento de solicitarlos.
+
 > <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 1071.
@@ -8181,7 +8199,7 @@ Se sujetarán al procedimiento oral, así como a las reglas especiales de esta s
 
 I.- La custodia provisional de los menores respecto de quienes ejercen la patria potestad; en este supuesto, cuando haya menores de doce años, éstos preferentemente deberán permanecer bajo custodia de la madre, salvo los casos de excepción contemplados por el artículo 414 Bis del Código Civil para el Estado de Nuevo León. Debiendo en todo caso el Juez, escuchar la opinión de los menores que han cumplido doce años, resolviendo siempre conforme al interés superior de éstos.
 
-II.- La convivencia entre los padres en relación con sus hijos, o entre éstos y aquellos, mientras estén sujetos a la patria potestad, y (sic)
+II.- La convivencia entre los padres en relación con sus hijos, o entre éstos y aquellos, mientras estén sujetos a la patria potestad, y
 
 > <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
@@ -8221,11 +8239,11 @@ En el supuesto de la fracción II del artículo 1076 del presente Código, el Ju
 
 La sentencia que se pronuncie en los asuntos a que se refieren las fracciones I y II del artículo 1076 de este Código, podrá modificarse cuando cambien las circunstancias afectándose el ejercicio de la acción que se dedujo, debiendo sustanciarse en forma incidental.
 
-> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 1081.
 
-La sentencia se ejecutará, si así se solicita, sin necesidad de fianza, reservándose lo relativo a las costas para cuando se pronuncie la sentencia ejecutoria, con excepción de la sentencia que ordene el cambio de custodia del menor, la cual se ejecutará una vez que quede firme, a fin de salvaguardar el interés superior del menor.
+La sentencia se ejecutará, si así se solicita, sin necesidad de fianza, reservándose lo relativo a las costas para cuando se pronuncie la sentencia ejecutoria, al igual se ejecutará la sentencia que ordene el cambio de custodia del menor, decretándose provisionalmente dicha sustitución para salvaguardar el interés superior del menor, y dicha medida cautelar seguirá hasta en tanto cause firmeza dicha sentencia.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
@@ -9676,3 +9694,9 @@ P.O. 28 DE DICIEMBRE DE 2012.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Segundo.- Los tratamientos derivados del perdón condicionado del Artículo 111 del Código Penal para el Estado de Nuevo León, continuarán hasta su terminación.
+
+P.O. 5 DE DICIEMBRE DE 2014.
+
+Segundo (sic).- Se derogan todas las normas que se opongan a lo dispuesto en el presente Decreto.
+
+Tercero.- Los procedimientos judiciales iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán hasta su conclusión conforme a las disposiciones vigentes al momento de su inicio.
