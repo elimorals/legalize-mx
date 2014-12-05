@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-del-estado-de-campeche-72269"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-21"
-last_updated: "2013-12-26"
+last_updated: "2014-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 21 de diciembre de 2009.
 
@@ -1371,9 +1371,9 @@ II.- Por certificación de cualquier acto que conste en
 
 los libros del Registro Civil, además del papel .6
 
-III.- Registro de nacimientos en las oficinas del
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2014)</small>
 
-Registro Civil EXENTO
+III.- Por expedición de la primera copia certificada del acta de registro de nacimiento. EXENTO
 
 IV.- Por la práctica a domicilio de registros de
 
@@ -2869,6 +2869,12 @@ Los sujetos del Impuesto Estatal Sobre Tenencia o Uso de Vehículos, deberán de
 
 Para efectos de esta Ley se entenderá que la tarifa a que hace referencia la fracción I del artículo 45 de esta ley se encuentra actualizada al 31 de diciembre del 2009.
 
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO OCTAVO.
+
+Se autoriza al Ejecutivo del Estado, por conducto de su Secretario de Finanzas, y a los Municipios, por conducto de sus presidentes y secretarios de sus respectivos HH. Ayuntamientos, a celebrar Convenios de Colaboración Administrativa en Materia Hacendaria de ingresos para que los Municipios efectúen la administración del Impuesto Adicional para la Preservación del Patrimonio Cultural, Infraestructura y Deporte, que ellos mismos causen. Asimismo, los recursos que genere la administración de este impuesto deberá tener el mismo destino por el cual fue creado de conformidad con el artículo 53-G de esta Ley, adecuado a la preservación del patrimonio cultural, infraestructura y deporte del Municipio, así como fuente de financiamiento para su aportación a convenios con los Gobiernos Federal o del Estado.
+
 Dado en el Salón de Sesiones del Palacio Legislativo, en la Ciudad de San Francisco de Campeche, Campeche, a los quince días del mes de diciembre del año dos mil nueve.- C. JORGE LUIS GONZALEZ CURI, DIPUTADO PRESIDENTE.- C. ROCIO ADRIANA ABREU ARTIÑANO, DIPUTADA SECRETARIA.- C. MANUEL ESTRELLA GONZALEZ, DIPUTADO SECRETARIO.- Rúbricas.
 
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
@@ -2918,3 +2924,9 @@ PRIMERO.- El presente decreto entrará en vigor el uno de enero de 2014, previa 
 SEGUNDO.- De la recaudación obtenida por concepto del Impuesto Estatal a la Venta Final de Bebidas con contenido Alcohólico, corresponderá a los municipios el 20%, distribuyéndose en proporción a la recaudación del mismo obtenida en sus respectivas jurisdicciones territoriales en el mes anterior.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias, de igual o menor jerarquía, del marco jurídico estatal, que se opongan al contenido del presente decreto
+
+P.O. 5 DE DICIEMBRE DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal, que se opongan al contenido del presente decreto.
