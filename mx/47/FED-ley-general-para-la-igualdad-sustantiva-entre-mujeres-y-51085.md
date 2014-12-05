@@ -4,7 +4,7 @@ identifier: "FED-ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-51085"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-08-02"
-last_updated: "2014-11-10"
+last_updated: "2014-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51085&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-07-27"
 
 LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 2 de agosto de 2006.
 
@@ -247,13 +247,17 @@ VIII. El establecimiento de medidas que aseguren la corresponsabilidad en el tra
 
 IX. La utilización de un lenguaje no sexista en el ámbito administrativo y su fomento en la totalidad de las relaciones sociales;
 
-> <small>(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
 
-X. En el sistema educativo, la inclusión entre sus fines de la formación en el respeto de los derechos y libertades y de la igualdad entre mujeres y hombres, así como en el ejercicio de la tolerancia y de la libertad dentro de los principios democráticos de convivencia; así como la inclusión dentro de sus principios de calidad, de la eliminación de los obstáculos que dificultan la igualdad efectiva entre hombres y mujeres, y
+X. En el sistema educativo, la inclusión entre sus fines de la formación en el respeto de los derechos y libertades y de la igualdad entre mujeres y hombres, así como en el ejercicio de la tolerancia y de la libertad dentro de los principios democráticos de convivencia; así como la inclusión dentro de sus principios de calidad, de la eliminación de los obstáculos que dificultan la igualdad efectiva entre mujeres y hombres;
 
-> <small>(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
 
-XI. Incluir en la formulación, desarrollo y evaluación de políticas, estrategias y programas de salud, los mecanismos para dar atención a las necesidades de mujeres y hombres en materia de salud.
+XI. Incluir en la formulación, desarrollo y evaluación de políticas, estrategias y programas de salud, los mecanismos para dar atención a las necesidades de mujeres y hombres en materia de salud, y
+
+> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+XII. Promover que en las prácticas de comunicación social de las dependencias de la Administración Pública Federal, así como en los medios masivos de comunicación electrónicos e impresos, se eliminen el uso de estereotipos sexistas y discriminatorios e incorporen un lenguaje incluyente.
 
 ### CAPÍTULO SEGUNDO. DE LOS INSTRUMENTOS DE POLÍTICA EN MATERIA DE IGUALDAD ENTRE MUJERES Y HOMBRES
 
@@ -630,3 +634,7 @@ D.O.F. 10 DE NOVIEMBRE DE 2014.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Las dependencias de la Administración Pública Federal y estatales, en coordinación con la Secretaría del Trabajo y Previsión Social, la Secretaría de Economía y el Instituto Nacional de las Mujeres deberán adecuar las normas oficiales mexicanas, modelos, procesos y manuales para la certificación existentes, a fin de dar cumplimiento a las disposiciones establecidas en un plazo máximo de 90 días, contados a partir del inicio de la vigencia del presente Decreto, atendiendo para su aplicabilidad al principio de progresividad.
+
+D.O.F. 5 DE DICIEMBRE DE 2014.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
