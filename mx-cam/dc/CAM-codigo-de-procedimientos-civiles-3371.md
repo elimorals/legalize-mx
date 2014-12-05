@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-procedimientos-civiles-3371"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-12-24"
-last_updated: "2012-08-13"
+last_updated: "2014-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES
 
-CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CAMPECHE
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE DICIEMBRE DE 2014 EN EL P.O. DEL ESTADO DE CAMPECHE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2012.
+CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CAMPECHE
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2014.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 24 de diciembre de 1942.
 
@@ -1681,7 +1683,7 @@ VIII.- Presunciones.
 
 ###### Art. 297.
 
-Los autos en que se niegue la admisión de una prueba son apelables; los en que se admita la prueba, no tienen ningún recurso.
+Los autos en que se niegue la admisión de una prueba son apelables; los en (sic) que se admita la prueba, no tienen ningún recurso.
 
 La apelación no suspende el curso del juicio; y si se revoca la resolución denegatoria de la prueba, se concederá para recibirla un término igual al que faltaba para vencerse el término probatorio, contado desde el momento en que se promovió la prueba.
 
@@ -2455,7 +2457,7 @@ III.- Que la declaración sea legal.
 
 ###### Art. 446.
 
-La declaración de estar confesa una parte, releva a la contraria de la obligación de probar lo hechos que eran materia de la confesión. El declarado confeso puede rendir prueba en contrario.
+La declaración de estar confesa una parte, releva a la contraria de la obligación de probar lo (sic) hechos que eran materia de la confesión. El declarado confeso puede rendir prueba en contrario.
 
 ###### Art. 447.
 
@@ -3225,7 +3227,9 @@ IV.- Cualquier instrumento privado, suscrito por el otorgante, que haya sido rec
 
 V.- La confesión judicial hecha de conformidad con el artículo 444;
 
-VI.- Las convenios celebrados ante el juez en el curso del juicio;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2014)</small>
+
+VI.- Los Convenios celebrados ante el juez en el curso del juicio, los celebrados ante los órganos de justicia alternativa de los Poderes Judicial y Ejecutivo, y aquéllos que adquieran el carácter de cosa juzgada.
 
 VII.- El juicio uniforme de contadores, si las partes ante el juez por escritura pública o por escrito privado reconocidos judicialmente, se hubieren sujetado a él; o si lo hubiesen aprobado y constare la aprobación de manera fehaciente.
 
@@ -4585,9 +4589,13 @@ Se llama ejecutoria la copia expedida por el tribunal superior, y también el te
 
 Siempre que se expida una ejecutoria, se tomará razón en los autos.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2014)</small>
+
 ###### Art. 847.
 
-Los convenios celebrados en el juicio serán ejecutados por el juez que conozca del negocio, y si se celebraron en segunda instancia, por el juez que conoció en primera instancia, observándose lo prevenido en el artículo 844. Estas reglas serán aplicables al juicio de contadores a que se refiere el artículo 569, fracción VII.
+Los convenios celebrados en el juicio serán ejecutados por el juez que conozca del negocio, y si se celebraron en segunda instancia, por el Juez que conoció en primera instancia, observándose lo previsto en el artículo 844. Estas reglas serán aplicables al juicio de contadores a que se refiere el artículo 569 fracción VII.
+
+Aquellos celebrados ante los órganos de justicia alternativa, serán ejecutados por el Juez que inicialmente haya tenido conocimiento del asunto, o ante el Juez de Primera Instancia en turno que sea competente.
 
 ###### Art. 848.
 
@@ -8357,6 +8365,36 @@ I. La revocación de la adopción; y
 
 II. Cuando el adoptante y el adoptado soliciten la conversión de la adopción simple en plena.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE DICIEMBRE DE 2014)</small>
+
+## TÍTULO VIGÉSIMO TERCERO. DE LA JUSTICIA ALTERNATIVA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE DICIEMBRE DE 2014)</small>
+
+### CAPITULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2014)</small>
+
+###### Art. 1470.
+
+Previo a emitir el auto de radicación, las partes deberán presentar ante el Juez, constancia de haber acudido, con la finalidad de resolver el conflicto, ante alguno de los órganos de justicia alternativa.
+
+La autoridad de segunda instancia, al recibir los autos correspondientes para el trámite del recurso de apelación, deberá hacer saber a las partes los beneficios y ventajas de los procedimientos alternativos y que para tal fin se encuentran a su disposición los órganos de justicia alternativa.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2014)</small>
+
+###### Art. 1471.
+
+La información, documentos y conversaciones derivados de los procedimientos alternativos, no podrán ser objeto de prueba en los Juicios Civiles, Mercantiles y Familiares.
+
+Los especialistas, así como toda persona vinculada en un procedimiento alternativo, no podrán ser ofrecidos como testigos.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2014)</small>
+
+###### Art. 1472.
+
+La conciliación procederá en todos los juicios, salvo que se trate de derechos irrenunciables.
+
 DISPOSICIONES TRANSITORIAS
 
 ###### Artículo 1º.
@@ -8522,3 +8560,9 @@ SEGUNDO.- Los procedimientos relativos a las materias de adopción y pérdida de
 TERCERO.- El Pleno del H. Tribunal Superior de Justicia del Estado de Campeche realizará todas las acciones necesarias para la implementación de lo dispuesto en el presente decreto.
 
 CUARTO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido de este decreto.
+
+P.O. 5 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Este decreto entrará en vigor a los 3 días siguientes, previo su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal, en lo que se opongan al contenido de este decreto
