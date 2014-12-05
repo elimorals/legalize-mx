@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-registro-civil-para-el-estado-de-nuevo-leon-60741"
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-10"
-last_updated: "2009-09-25"
+last_updated: "2014-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # LEY DEL REGISTRO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-LEY DEL REGISTRO CIVIL PARA EL ESTADO DE NUEVO LEON
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE MAYO DE 2015 EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-ULTIMA REFORMA PUBLICADA EN LA PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2009.
+LEY DEL REGISTRO CIVIL PARA EL ESTADO DE NUEVO LEÓN
+
+ÚLTIMA REFORMA PUBLICADA EN LA PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 10 de abril de 2008.
 
@@ -151,15 +153,23 @@ X. Notificar al superior jerárquico de la defunción, incapacidad, abandono o r
 
 XI. Fungir de enlace ante el Registro Nacional de Población e Identificación Personal de la Secretaría de Gobernación para la tramitación y entrega de la Clave Única del Registro de Población;
 
-XII. Enviar al Registro Nacional de Población, y al Instituto Nacional de Estadística,
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2014)</small>
 
-Geografía e Informática, copias de las actas de las que levantan los Oficiales;
+XII.- Enviar al Registro Nacional de Población, y al Instituto Nacional de Estadística y Geografía, copias de las actas de las que levantan los Oficiales;
 
 XIII. Dar aviso cada 90 días al Registro Federal de Electores del Instituto Federal Electoral de las actas levantadas por los Oficiales y que son remitidas a la Dirección en los casos de defunción de personas mayores de edad;
 
-XIV. Proporcionar capacitación en forma permanente y periódica a los Oficiales y al personal del Registro Civil, antes y durante el ejercicio de sus funciones, siendo ésta obligatoria con la finalidad de profesionalizar los servicios que presta la institución y actualización de sus servidores públicos; y
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2014)</small>
 
-XV. Las demás facultades que le confieran esta Ley y las demás disposiciones jurídicas aplicables.
+XIV.- Proporcionar capacitación en forma permanente y periódica a los Oficiales y al personal del Registro Civil, antes y durante el ejercicio de sus funciones, siendo ésta obligatoria con la finalidad de profesionalizar los servicios que presta e impartir cursos de actualización de sus servidores públicos;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2014)</small>
+
+XV.- Dar aviso cada 6 meses a la Secretaría de Desarrollo Social del Ejecutivo Federal y a la correspondiente del Estado, a los municipios y las instancias que así lo requieran, de las defunciones de personas de 65 o más años de edad, a fin de facilitar el cumplimiento de sus programas sociales y de beneficios dirigidos a este sector de la sociedad; y
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2014)</small>
+
+XVI.- Las demás facultades que le confieran esta Ley y las demás disposiciones jurídicas aplicables.
 
 ### CAPÍTULO III. DE LOS OFICIALES DEL REGISTRO CIVIL
 
@@ -237,7 +247,9 @@ XI. Suscribir con firma autógrafa las actas del estado civil y certificaciones 
 
 XII. Dar aviso a la Dirección de las faltas en que incurra el personal administrativo en el desempeño de su trabajo;
 
-XIII. Procurar que las personas que acuden a celebrar un contrato de matrimonio, reciban previamente información sobre la naturaleza, fines y efectos de dicho contrato;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2014)</small>
+
+XIII.- Procurar que las personas que acuden a celebrar un contrato de matrimonio, reciban previamente información sobre la naturaleza, fines y efectos de dicho contrato, además de proporcionarles información sobre la mediación o conciliación, como una forma efectiva de resolver sus conflictos en el matrimonio;
 
 XIV. Realizar las anotaciones marginales establecidas en el Código Civil para el Estado de Nuevo León, así como las ordenadas por autoridades competentes;
 
@@ -770,3 +782,9 @@ RODRIGO MEDINA DE LA CRUZ
 P.O. 25 DE SEPTIEMBRE DE 2009.
 
 Articulo Único,- El Presente Decreto entrará en vigor el 30 de septiembre de 2009.
+
+P.O. 5 DE DICIEMBRE DE 2014.
+
+(SIC) Segundo.- Se derogan todas las normas que se opongan a lo dispuesto en el presente Decreto.
+
+Tercero.- Los procedimientos judiciales iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán hasta su conclusión conforme a las disposiciones vigentes al momento de su inicio.
