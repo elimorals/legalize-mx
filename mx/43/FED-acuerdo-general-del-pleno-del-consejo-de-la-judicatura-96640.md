@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2014-11-19"
+last_updated: "2014-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE DICIEMBRE DE 2014.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -101,9 +101,9 @@ XIII. Presidente: Consejero Presidente del Consejo;
 
 XIV. Reglamento conjunto de transparencia: Reglamento de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal para la aplicación de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental; y
 
-> <small>(REFORMADA POR EL ARTÍCULO DÉCIMO SEGUNDO DEL ACUERDO GENERAL 36/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
 
-XV. Unidades administrativas: Las ponencias de los Consejeros, Oficialía Mayor, secretarías ejecutivas, coordinaciones, Unidad de Implementación de las Reformas Penal, de Juicio de Amparo y Derechos Humanos en el Poder Judicial de la Federación, secretarías técnicas de Comisiones, direcciones generales, así como la Unidad de Enlace del Consejo; el Archivo General del Consejo, las Administraciones de los Centros de Justicia Penal, y demás que sean autorizadas por el Pleno.
+XV. Unidades administrativas: Las ponencias de los Consejeros, Oficialía Mayor, secretarías ejecutivas, coordinaciones, Unidad de Implementación de las Reformas Penal, de Juicio de Amparo y Derechos Humanos en el Poder Judicial de la Federación, secretarías técnicas de Comisiones, direcciones generales, así como la Unidad de Enlace del Consejo; el Archivo General del Consejo, las Administraciones de los Centros de Justicia Penal, el Centro de Manejo Documental y Digitalización del Consejo y demás que sean autorizadas por el Pleno.
 
 ###### Artículo 3.
 
@@ -1863,9 +1863,17 @@ La Coordinación para la Transparencia contará con:
 
 I. Archivo General del Consejo;
 
-II. Secretaría Técnica del Comité de Acceso a la Información y Protección de Datos Personales del Consejo; y
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
 
-III. Unidad de Enlace del Consejo.
+II. Centro de Manejo Documental y Digitalización del Consejo;
+
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+III. Secretaría Técnica del Comité de Acceso a la Información y Protección de Datos Personales del Consejo; y
+
+> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+IV. Unidad de Enlace del Consejo.
 
 #### SECCIÓN SEGUNDA. DE LOS ÓRGANOS AUXILIARES EN LO PARTICULAR
 
@@ -3445,7 +3453,9 @@ Las ausencias de los secretarios técnicos de las Comisiones podrán ser suplida
 
 ### CAPITULO DÉCIMO PRIMERO. DE LAS ÁREAS ADSCRITAS A DIVERSAS UNIDADES ADMINISTRATIVAS
 
-#### SECCIÓN TERCERA. DE LA UNIDAD DE ENLACE DEL CONSEJO
+#### SECCIÓN SEGUNDA BIS. DEL CENTRO DE MANEJO DOCUMENTAL Y DIGITALIZACIÓN DEL CONSEJO
+
+> <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 188.
 
@@ -3491,7 +3501,7 @@ Se establece como domicilio oficial del Consejo, el edificio ubicado en la aveni
 
 Toda la correspondencia y trámites relacionados con los asuntos de la competencia del Consejo, deberán dirigirse y realizarse en el domicilio señalado en el artículo anterior.
 
-#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+#### SECCIÓN TERCERA. DE LA UNIDAD DE ENLACE DEL CONSEJO
 
 ###### Artículo 193.
 
@@ -3545,11 +3555,65 @@ XXI. Informar a la Coordinación para la Transparencia, Acceso a la Información
 
 XXII. Las demás que establezcan el Pleno y la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+
+###### Artículo 194 Bis.
+
+El Centro de Manejo Documental y Digitalización del Consejo es la unidad administrativa encargada del resguardo provisional, organización, digitalización, depuración y destrucción de los expedientes judiciales a cargo de los órganos jurisdiccionales, y digitalizar los expedientes de las áreas administrativas del propio Consejo; así como de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral del Poder Judicial de la Federación, cuando así lo requieran.
+
+Adicionalmente, podrá auxiliar a los órganos jurisdiccionales en la transferencia de los expedientes judiciales, para su destino final a las áreas de resguardo documental de la Suprema Corte de Justicia de la Nación, de conformidad con el Acuerdo General Conjunto de los Plenos de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal, relativo a la valoración, transferencia, y baja documental de los expedientes generados en los Juzgados de Distrito, Tribunales Unitarios de Circuito y Tribunales Colegiados de Circuito, correspondiente.
+
+> <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 194 Ter.
+
+El Centro de Manejo Documental y Digitalización del Consejo estará a cargo del servidor público que designe la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo, a propuesta del titular de la Coordinación para la Transparencia, Acceso a la Información y Archivos del Consejo.
+
+Para ser titular del Centro de Manejo Documental y Digitalización del Consejo se requiere cumplir con los siguientes requisitos:
+
+I. Contar con título y cédula profesional en materia de archivonomía, archivología, administración, derecho, contaduría pública o informática, con una antigüedad mínima de tres años; y
+
+II. Contar con experiencia en manejo documental o archivos mínima de tres años, debidamente acreditada.
+
+> <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 194 Quáter.
+
+El Centro de Manejo Documental y Digitalización del Consejo tendrá las siguientes atribuciones:
+
+I. Dirigir y dar seguimiento a los programas relativos a la recepción, organización, digitalización, depuración, destrucción y resguardo provisional de los expedientes judiciales, hasta su transferencia a las áreas de resguardo documental de la Suprema Corte de Justicia de la Nación, bajo custodia del Centro de Manejo Documental;
+
+II. Proporcionar el apoyo que requieran los órganos jurisdiccionales, así como las áreas administrativas del Consejo, en la digitalización de sus expedientes;
+
+III. Coordinar las acciones para la remisión de expedientes provenientes de los órganos jurisdiccionales, al Centro de Manejo Documental y Digitalización del Consejo para efectos de digitalización;
+
+IV. Auxiliar a los órganos jurisdiccionales en las gestiones necesarias para el traslado del archivo judicial bajo resguardo del Centro de Manejo Documental, a las áreas de resguardo documental de la Suprema Corte de Justicia de la Nación; de conformidad con lo establecido en el Manual para la organización de los archivos judiciales resguardados por la Suprema Corte de Justicia de la Nación, autorizado por el Ministro Presidente de la Suprema Corte de Justicia de la Nación y del Consejo;
+
+V. Apoyar a los órganos jurisdiccionales en las actividades relativas a la desintegración material del papel en desuso correspondiente a las constancias de los expedientes previamente desincorporados por los propios órganos;
+
+VI. Elaborar el programa de capacitación permanente, en coordinación con la Dirección General de Servicios al Personal, para los servidores públicos del Poder Judicial de la Federación en materia de manejo documental y digitalización;
+
+VII. Asesorar al personal de los órganos jurisdiccionales, en las acciones de rescate de expedientes judiciales siniestrados, cuando así lo instruya el Pleno o la Comisión para la Transparencia, Acceso a la información y Protección de Datos Personales del Consejo;
+
+VIII. Someter a consideración y, en su caso, aprobación de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo, por conducto de la Coordinación para la Transparencia, Acceso a la Información y Archivos del Consejo, los manuales, políticas, normas y lineamientos del Centro de Manejo Documental y Digitalización del Consejo relacionados con la organización, resguardo, digitalización, depuración y preservación de los expedientes judiciales, así como de los demás documentos administrativos que se requieran;
+
+IX. Coordinarse con la Dirección General de Estadística Judicial, para el desarrollo de las acciones encaminadas a incorporar al Sistema Integral de Seguimiento de Expedientes, las copias digitales certificadas de los expedientes judiciales, para su entrega como parte de las transferencias al Centro de Documentación y Análisis, Archivos y Compilación de Leyes de la Suprema Corte de Justicia de la Nación, en términos del Acuerdo General Conjunto de los Plenos de la Suprema Corte de Justicia. de la Nación y del Consejo de la Judicatura Federal, relativo a la valoración, transferencia, y baja documental de los expedientes generados en los Juzgados de Distrito, Tribunales Unitarios de Circuito y Tribunales Colegiados de Circuito, que corresponda;
+
+X. Coordinar con las Administraciones Regionales del Consejo, los servicios administrativos que en materia de recursos humanos, materiales, financieros, informáticos, de conservación y mantenimiento requieren los órganos jurisdiccionales en el traslado de la documentación, el dispositivo de seguridad y el aseguramiento en la póliza del Consejo correspondientes;
+
+XI. Gestionar en coordinación con la Dirección General de Tecnologías de la Información, las mejoras y actualizaciones tecnológicas que se requieran, para el óptimo funcionamiento del Centro de Manejo Documental y Digitalización del Consejo;
+
+XII. Instruir sobre la expedición de las constancias de cotejo documental que soliciten los titulares de los órganos jurisdiccionales y áreas administrativas, respecto de los expedientes que hayan remitido para su digitalización;
+
+XIII. Someter a consideración de la Coordinación para la Transparencia, Acceso a la Información y Archivos del Consejo, los movimientos de personal adscritos al Centro de Manejo Documental y Digitalización del Consejo, observando las disposiciones aplicables;
+
+XIV. Presentar a la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo, por conducto de la Coordinación para la Transparencia, Acceso a la Información y Archivos del Consejo, el Programa Anual de Trabajo, así como los informes que le sean requeridos; y
+
+XV. Las demás que determine el Pleno y la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo.
+
 #### SECCIÓN SEGUNDA. DE LAS SOLICITUDES DE INSCRIPCIÓN EN EL REGISTRO, ASÍ COMO DE MODIFICACIÓN Y CANCELACIÓN DEL MISMO, PRESENTADAS POR ESCRITO
-
-#### SECCIÓN TERCERA
-
-DE LA SOLICITUDES DE INSCRIPCIÓN EN EL REGISTRO, ASÍ COMO DE MODIFICACIÓN Y CANCELACIÓN DEL MISMO, PRESENTADAS EN LÍNEA, A TRAVÉS DE LA PÁGINA ELECTRÓNICA DEL CONSEJO
 
 ###### Artículo 195.
 
@@ -4439,7 +4503,9 @@ El Secretario Ejecutivo del Pleno y de la Presidencia, así como el Coordinador 
 
 ### CAPÍTULO TERCERO. DE LA INSCRIPCIÓN EN EL REGISTRO, SU MODIFICACIÓN Y CANCELACIÓN
 
-#### SECCIÓN CUARTA. DEL RESULTADO DE LA SOLICITUD DE INSCRIPCIÓN, MODIFICACIÓN O CANCELACIÓN
+#### SECCIÓN TERCERA
+
+DE LA SOLICITUDES DE INSCRIPCIÓN EN EL REGISTRO, ASÍ COMO DE MODIFICACIÓN Y CANCELACIÓN DEL MISMO, PRESENTADAS EN LÍNEA, A TRAVÉS DE LA PÁGINA ELECTRÓNICA DEL CONSEJO
 
 ###### Artículo 274.
 
@@ -4472,6 +4538,8 @@ En el caso de las solicitudes de cancelación los documentos que deben presentar
 Presentada la solicitud en los lugares a que se refiere el primer párrafo de este artículo, el servidor público autorizado llevará a cabo el cotejo de la documentación y certificará su contenido.
 
 En el supuesto de que la solicitud sea presentada a través de la página electrónica del Consejo, la asociación civil deberá remitir, mediante correo certificado la solicitud a que se refiere la fracción I del primer párrafo de este artículo, así como copias certificadas ante notario público del resto de la documentación a que aluden las fracciones II a VI del citado párrafo de este artículo, indicando el número de trámite, o presentarla en original y copia para cotejo en el Edificio Sede del Consejo, en la Administración Regional o en la Delegación Administrativa que corresponda, dentro de los tres días hábiles siguientes al de la presentación de la solicitud. En este último caso se observará lo previsto en el párrafo anterior.
+
+#### SECCIÓN CUARTA. DEL RESULTADO DE LA SOLICITUD DE INSCRIPCIÓN, MODIFICACIÓN O CANCELACIÓN
 
 ###### Artículo 276.
 
@@ -4682,3 +4750,15 @@ DÉCIMO. Las áreas administrativas del Consejo de la Judicatura Federal, en el 
 DÉCIMO PRIMERO. La creación de los jueces de Ejecución de los Centros de Justicia Penal quedará diferida hasta en tanto se expida la legislación en la materia.
 
 DÉCIMO SEGUNDO. Para efectos del artículo 110 de la Ley Orgánica del Poder Judicial de la Federación los Asistentes de Constancias y Registro de Tribunal de Alzada, Juzgado de Control, y Tribunal de Enjuiciamiento, constituyen una especialización de las categorías de secretarios de tribunal de Circuito y de juzgado de Distrito.
+
+D.O.F. 5 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. El domicilio y fecha de inicio de operaciones del Centro de Manejo Documental y Digitalización del Consejo de la Judicatura Federal se notificará mediante aviso que se publicará en los medios de difusión a que se refiere el artículo anterior.
+
+CUARTO. El titular del Centro de Manejo Documental y Digitalización del Consejo de la Judicatura Federal someterá a consideración y, en su caso, aprobación, de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo de la Judicatura Federal, por conducto de la Coordinación para la Transparencia, Acceso a la Información y Archivos del Consejo de la Judicatura Federal, los manuales del Centro de Manejo Documental y Digitalización del Consejo de la Judicatura Federal, dentro de los noventa días hábiles posteriores a la entrada en vigor del presente Acuerdo.
+
+QUINTO. La digitalización de los expedientes se llevará a cabo conforme a la calendarización que determine la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo de la Judicatura Federal, a propuesta del Centro de Manejo Documental y Digitalización del Consejo de la Judicatura Federal.
