@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-98413"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-02-06"
-last_updated: "2014-11-19"
+last_updated: "2014-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98413&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-01-29"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE DICIEMBRE DE 2014.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 6 de febrero de 2014.
 
@@ -69,9 +69,17 @@ II. La organización y conservación de los archivos en posesión de las áreas 
 
 III. La publicación en Internet de las sentencias ejecutorias o resoluciones públicas relevantes que generen los órganos jurisdiccionales, a fin de incentivar el interés de la población para que se involucre en el trabajo de éstos por medio de sus resoluciones, fomentando así una cultura de transparencia y acceso a la información;
 
-IV. La elaboración, recopilación, sistematización y divulgación de los criterios jurídicos novedosos o relevantes, que sin fuerza vinculatoria u obligatoria, emitan los órganos jurisdiccionales, a fin de que a través de su consulta se coadyuve en la argumentación de la comunidad jurídica nacional, se incentive la labor jurisdiccional y se brinde un grado mayor de confianza pública; y
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
 
-V. La difusión de las sentencias relevantes dictadas en los juicios relativos a delitos clasificados como de delincuencia organizada, contra la salud, de portación de armas de fuego de uso exclusivo del Ejército, Armada o Fuerza Aérea, o bien aquellas que sean consideradas como relevantes por los órganos jurisdiccionales en función del impacto que el conocimiento de tales resoluciones genere en la opinión pública.
+IV. La elaboración, recopilación, sistematización y divulgación de los criterios jurídicos novedosos o relevantes, que sin fuerza vinculatoria u obligatoria, emitan los órganos jurisdiccionales, a fin de que a través de su consulta se coadyuve en la argumentación de la comunidad jurídica nacional, se incentive la labor jurisdiccional y se brinde un grado mayor de confianza pública;
+
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+V. La difusión de las sentencias relevantes dictadas en los juicios relativos a delitos clasificados como de delincuencia organizada, contra la salud, de portación de armas de fuego de uso exclusivo del Ejército, Armada o Fuerza Aérea, o bien aquellas que sean consideradas como relevantes por los órganos jurisdiccionales en función del impacto que el conocimiento de tales resoluciones genere en la opinión pública; y
+
+> <small>(ADICIONADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+VI. La digitalización de expedientes y el manejo de documentos.
 
 ###### Artículo 2.
 
@@ -164,6 +172,58 @@ XLII. Valor contable: El que poseen los documentos o expedientes que sirven de e
 XLIII. Valor fiscal: Valor de los documentos o expedientes que sirven de explicación, justificación y comprobación de operaciones fiscales; y
 
 XLIV. Valor legal: Aquél que tienen los documentos o expedientes conforme a las disposiciones aplicables.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 2 Bis.
+
+Para efectos del Título Octavo de este Acuerdo se entenderá por:
+
+I. Acuerdo General Conjunto: El Acuerdo General Conjunto respectivo de los Plenos de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal, relativo a la valoración, transferencia, y baja documental de los expedientes generados en los Juzgados de Distrito, Tribunales Unitarios de Circuito y Tribunales Colegiados de Circuito;
+
+II. Áreas de resguardo documental de la Suprema Corte: Espacios destinados a la recepción de transferencias, organización, custodia, resguardo, valoración, conservación y consulta del archivo judicial, como son: los archivos de Primer Circuito, el Centro Archivístico Judicial, y su extensión, así como los archivos foráneos, dependientes del Centro de Documentación y Análisis, Archivos y Compilación de Leyes de la Suprema Corte de Justicia de la Nación;
+
+III. Asuntos Concluidos: Los expedientes relativos a un proceso jurisdiccional en los cuales, de conformidad con la legislación aplicable, se ha dictado su última resolución, bien sea porque la sentencia correspondiente causó ejecutoria y no requiere ejecución alguna o porque requiriéndola, existe proveído en el cual se determinó que quedó enteramente cumplida o que ya no hay motivo para la ejecución.
+
+En el ámbito administrativo, son aquellos en que ha sido agotado su trámite, asunto o proceso al que se refieren.
+
+En el ámbito de la jurisdicción penal, se entiende como asunto concluido aquel en que haya sentencia absolutoria definitiva, sea la del Juez de Distrito o del Tribunal Unitario, cuando se haya promovido el recurso de apelación; y en el caso de las condenatorias, tratándose del expediente formado por el Juez de conocimiento, se entenderá como concluido una vez que se determine, por proveído o acto jurídico equivalente, que se ha cumplido la sentencia respectiva, bien sea la del órgano jurisdiccional de primera instancia o de Apelación;
+
+IV. Centro de Documentación y Análisis: El Centro de Documentación y Análisis, Archivos y Compilación de Leyes de la Suprema Corte de Justicia de la Nación;
+
+V. Centro de Manejo Documental: Centro de Manejo Documental y Digitalización del Consejo del (sic) Judicatura Federal;
+
+VI. Conservación documental: Los métodos y técnicas que permiten asegurar la preservación a largo plazo de los expedientes que conforman el archivo generado en los órganos jurisdiccionales y áreas administrativas;
+
+VII. Constancia de Cotejo Documental: Constancia que emite el Centro de Manejo Documental, y que avala que las copias digitales de los expedientes corresponden con los originales;
+
+VIII. Copia digital: Archivo informático que contiene la reproducción exacta de las constancias que integran los expedientes;
+
+IX. Depuración: Retiro de aquellos documentos que no son parte del procedimiento, trámite o gestión que integra el expediente, o bien que carecen de valores documentales. En el ámbito jurisdiccional, la selección, retiro y desintegración material de algunas de las constancias que obran en los expedientes judiciales;
+
+X. Destrucción: La desintegración material de la totalidad de un expediente por carecer de valor jurídico, histórico o relevancia documental;
+
+XI. Digitalizar: Proceso de conversión de documentos en soporte de papel en archivos digitales o imágenes electrónicas, para almacenarlas en soportes tales como discos ópticos o magnéticos;
+
+XII. Expedientes: Expedientes Judiciales y Expedientes Administrativos;
+
+XIII. Expedientes Administrativos: Todos aquellos que reflejan los actos administrativos, fiscales, contables y legales, generados por las áreas administrativas del Consejo en el ejercicio de sus funciones;
+
+XIV. Expedientes Judiciales: Todo aquel integrado por constancias y las actuaciones que dan origen o se generan en un procedimiento judicial hasta su resolución;
+
+XV. FIREL: Firma Electrónica Certificada del Poder Judicial de la Federación;
+
+XVI. Organización: El conjunto de actividades encaminadas a la recopilación, ordenación y ubicación topográfica de los expedientes en el Centro de Manejo Documental;
+
+XVII. Remisión: Procedimiento mediante el cual los titulares de los órganos jurisdiccionales, ordenan el envío al Centro de Manejo Documental de los expedientes judiciales que han generado en sus adscripciones, de conformidad con los criterios y lineamientos del Manual de Operaciones del Centro de Manejo Documental;
+
+XVIII. Resguardo provisional: Periodo durante el cual los expedientes judiciales de órganos jurisdiccionales se encuentran bajo custodia del Centro de Manejo Documental, el cual deberá vigilar su conservación, integridad y disponibilidad, hasta que sean transferidos al área de resguardo documental de la Suprema Corte;
+
+XIX. Suprema Corte: La Suprema Corte de Justicia de la Nación;
+
+XX. Tribunal Electoral: El Tribunal Electoral del Poder Judicial de la Federación; y
+
+XXI. Valoración: Pronunciamiento de los titulares de los órganos jurisdiccionales en virtud del cual determinen que un expediente judicial, atendiendo a sus particularidades y con independencia del sentido de la resolución dictada en él, sea considerado de relevancia documental, depurable, destruible o conservable.
 
 ###### Artículo 3.
 
@@ -1791,6 +1851,276 @@ Las áreas administrativas tomarán las medidas necesarias para administrar y co
 
 Las áreas administrativas aplicarán las medidas técnicas de administración, conservación y respaldo que aseguren la validez, autenticidad, confidencialidad, integridad y disponibilidad de sus documentos electrónicos.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+## TÍTULO OCTAVO. DEL MANEJO DOCUMENTAL Y LA DIGITALIZACIÓN
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO PRIMERO. DE LA ENTREGA Y RECEPCIÓN DE LOS EXPEDIENTES JUDICIALES AL CENTRO DE MANEJO DOCUMENTAL Y DIGITALIZACIÓN DEL CONSEJO
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 201.
+
+Los titulares de los órganos jurisdiccionales con apoyo de las Administraciones Regionales y Administraciones de los Edificios realizarán la remisión de sus expedientes judiciales al Centro de Manejo Documental, de conformidad con el calendario que para tal efecto se establezca.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 202.
+
+El titular de cada órgano jurisdiccional designará, de entre su personal, al responsable de la remisión de los expedientes judiciales, lo cual se hará del conocimiento del Centro de Manejo Documental para su registro y control.
+
+El personal responsable de la remisión, efectuará en coordinación con personal del Centro de Manejo Documental el cotejo físico de los expedientes judiciales, y asentará las observaciones que deriven del proceso de revisión en los documentos para la entrega.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 203.
+
+Los órganos jurisdiccionales atenderán los lineamientos, políticas y criterios para la remisión de los expedientes judiciales al Centro de Manejo Documental, señalados en el Manual de Operaciones del Centro de Manejo Documental.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 204.
+
+Para efectos de digitalización, el Centro de Manejo Documental recibirá en resguardo provisional, los expedientes judiciales concluidos y de los que se haya ordenado su archivo por los titulares de los órganos jurisdiccionales.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 205.
+
+Para la entrega de los expedientes judiciales, de conformidad con los formatos establecidos en el Manual de Operaciones del Centro de Manejo Documental, se elaborarán los siguientes documentos:
+
+I. Acta de entrega de expedientes judiciales para resguardo provisional, firmada por el titular del órgano jurisdiccional y por el titular del Centro de Manejo Documental o quien él designe; y
+
+II. Inventario de expedientes judiciales para su resguardo provisional.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 206.
+
+La entrega física de los expedientes judiciales deberá hacerse en las instalaciones del Centro de Manejo Documental, por conducto del personal designado por el titular del órgano jurisdiccional.
+
+Cuando las cargas de trabajo lo permitan, personal del Centro de Manejo Documental podrá constituirse en el órgano jurisdiccional de que se trate, para la recepción de los expedientes judiciales, momento a partir del cual inicia el resguardo provisional.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO SEGUNDO. DE LA ENTREGA Y RECEPCIÓN DE LOS EXPEDIENTES ADMINISTRATIVOS AL CENTRO DE MANEJO DOCUMENTAL Y DIGITALIZACIÓN DEL CONSEJO
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 207.
+
+El titular de cada área administrativa designará, de entre su personal, al responsable de la remisión de los expedientes, lo cual se hará del conocimiento del Centro de Manejo Documental para su registro y control.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 208.
+
+Las áreas administrativas atenderán los lineamientos y criterios para la remisión de los expedientes al Centro de Manejo Documental, señalados en el Manual de Operaciones del Centro de Manejo Documental.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 209.
+
+Para efectos de digitalización, el Centro de Manejo Documental recibirá en custodia los expedientes administrativos, a solicitud de los titulares de las áreas administrativas.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 210.
+
+Para la entrega de los expedientes administrativos, de conformidad con los formatos establecidos en el Manual de Operaciones del Centro de Manejo Documental, se elaborarán los siguientes documentos:
+
+I. Acta de entrega de expedientes administrativos para digitalización, firmada por los titulares del área administrativa y del Centro de Manejo Documental o por quien éstos designen; y
+
+II. Inventario de expedientes administrativos para su digitalización.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 211.
+
+La entrega física de los expedientes administrativos deberá hacerse en las instalaciones del Centro de Manejo Documental, por conducto del personal designado por el titular del área administrativa.
+
+Cuando las cargas de trabajo lo permitan, personal del Centro de Manejo Documental podrá constituirse en el área administrativa de que se trate, para la recepción de los expedientes administrativos, momento a partir del cual inicia la custodia.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO TERCERO. DE LA CONSERVACIÓN DE LOS EXPEDIENTES
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 212.
+
+El Centro de Manejo Documental adoptará las medidas y procedimientos técnicos que garanticen la conservación y seguridad de los archivos bajo su custodia o resguardo provisional, que comprenden las siguientes acciones:
+
+I. Recibir para su control y custodia los expedientes, de conformidad con los procedimientos y lineamientos autorizados;
+
+II. Implementar las medidas que garanticen la preservación de los expedientes a su cargo;
+
+III. Establecer y controlar los procesos a que se someterán los expedientes;
+
+IV. Controlar el acceso y consulta de los expedientes a las personas legalmente autorizadas;
+
+V. Destinar y controlar la ubicación topográfica de los expedientes dentro del Centro de Manejo Documental; y
+
+VI. Coadyuvar con los órganos jurisdiccionales en la entrega de los expedientes judiciales, para su transferencia a las áreas de resguardo documental de la Suprema Corte.
+
+El Manual de Organización y Funcionamiento del Centro de Manejo Documental, establecerá los tramos de control de los servidores públicos en cada una de las etapas relacionadas con el manejo documental.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 213.
+
+El Centro de Manejo Documental mantendrá el resguardo provisional de los expedientes judiciales hasta en tanto los titulares de los órganos jurisdiccionales los soliciten, para su transferencia a las áreas de reguardo documental de la Suprema Corte.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO CUARTO. DE LA DIGITALIZACIÓN DE LOS EXPEDIENTES
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 214.
+
+El Centro de Manejo Documental llevará a cabo las acciones necesarias, para digitalizar todas las constancias que integran los expedientes judiciales que les sean remitidos de conformidad con lo dispuesto en el Acuerdo General Conjunto, y los expedientes administrativos remitidos por las áreas administrativas del propio Consejo.
+
+Para tal efecto, contará con un sistema de gestión documental que permita el control integral del proceso de digitalización de los expedientes bajo su resguardo, que garantice la calidad, conservación, seguridad e integridad de las copias digitales obtenidas.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 215.
+
+La copia digital de los expedientes se pondrá a disposición del requirente del servicio, acompañado del certificado de cotejo documental, para consulta y, en su caso, transferencia electrónica.
+
+Para tales efectos, se podrá hacer uso de los medios tecnológicos que se tengan disponibles que en todo caso, deberán garantizar la seguridad de la información.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO QUINTO. DE LA DEPURACIÓN Y DESTRUCCIÓN DE LOS EXPEDIENTES JUDICIALES
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 216.
+
+Los titulares de los órganos jurisdiccionales cuando así lo requieran, podrán solicitar apoyo al Centro de Manejo Documental, a fin de llevar a cabo la depuración o destrucción de los expedientes que les correspondan, en términos de lo señalado en el Acuerdo General Conjunto.
+
+Cuando se trate de depuración se deberán precisar los números de fojas a depurar en el Inventario de Expedientes Judiciales para resguardo provisional.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 217.
+
+La desintegración de las constancias retiradas o la destrucción completa de expedientes judiciales, se realizará en las instalaciones del Centro de Manejo Documental, ante la presencia del servidor público designado por el titular del órgano jurisdiccional, quien dará fe de su desintegración material, parcial o total, lo cual se hará del conocimiento del Centro de Manejo Documental para su registro y control.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO SEXTO. DEL PRÉSTAMO DE EXPEDIENTES JUDICIALES
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 218.
+
+El titular del órgano jurisdiccional o los servidores públicos autorizados por éste, podrán solicitar al Centro de Manejo Documental en calidad de préstamo, los expedientes que previamente hayan remitido para su resguardo provisional.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 219.
+
+La designación de los servidores públicos con autorización, para solicitar expedientes en calidad de préstamo, se harán del conocimiento del Centro de Manejo Documental para su registro y control.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 220.
+
+Los expedientes solicitados en calidad de préstamo serán remitidos por el Centro de Manejo Documental, a través de los servicios de mensajería que se tengan contratados por parte del Consejo y con las medidas necesarias para su aseguramiento.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 221.
+
+El préstamo de los expedientes judiciales tendrá una vigencia de hasta tres meses, al término de los cuales, podrá solicitarse la renovación del mismo, cuantas veces sea necesario.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO SÉPTIMO. DE LA TRANSFERENCIA DE LOS EXPEDIENTES JUDICIALES A LA SUPREMA CORTE
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 222.
+
+El Centro de Manejo Documental podrá auxiliar al órgano jurisdiccional, cuando éste lo requiera, para realizar la transferencia de sus expedientes a las áreas de resguardo documental de la Suprema Corte.
+
+El órgano jurisdiccional mediante acuerdo que emita el titular, cuando así lo considere conveniente, podrá facultar al Centro de Manejo Documental, para realizar la entrega física de los expedientes judiciales al Centro de Documentación y Análisis, atendiendo a los requisitos señalados en el Acuerdo General Conjunto; para lo cual designará al servidor público quien será responsable de formalizar la transferencia a la áreas de resguardo documental de la Suprema Corte en términos del Acuerdo General Conjunto.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 223.
+
+Al término del resguardo provisional, se deberá elaborar:
+
+I. Acta de conclusión de resguardo provisional de expedientes judiciales, firmada por el titular del Centro de Manejo Documental o quien él designe y el titular del órgano jurisdiccional; y
+
+II. Inventario de expedientes judiciales que concluyen su resguardo provisional.
+
+Lo anterior, conforme a lo formatos establecidos en el Manual de Operaciones del Centro de Manejo Documental.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO OCTAVO. DE LA ENTREGA RECEPCIÓN DE LOS EXPEDIENTES ADMINISTRATIVOS A LAS ÁREAS ADMINISTRATIVAS
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 224.
+
+La entrega de los expedientes administrativos, se realizará en coordinación con el área administrativa una vez concluida la digitalización. Al momento de dicha entrega concluirá la custodia.
+
+El titular del área administrativa que haya solicitado la digitalización de un expediente, podrá solicitar en cualquier momento su devolución, caso en el cual concluirá la custodia, aun cuando no se haya digitalizado.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 225.
+
+Al momento de la entrega a que se refiere el artículo anterior se deberá elaborar:
+
+I. Acta de devolución de expedientes administrativos, firmada por los titulares del Centro de Manejo Documental y del área administrativa respectivamente, o bien los designados para tales efectos; y
+
+II. Inventario de expedientes administrativos para su devolución.
+
+Lo anterior, de conformidad con los formatos establecidos en el Manual de Operaciones del Centro de Manejo Documental.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO NOVENO. DISPOSICIONES COMPLEMENTARIAS
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 226.
+
+La Coordinación de Administración Regional y la Dirección General de Servicios Generales, deberán atender los requerimientos del Centro de Manejo Documental, en materia de servicios generales, recursos materiales, financieros y el aseguramiento en la póliza del Consejo, en la remisión de los expedientes judiciales al Centro de Manejo Documental o la transferencia a las áreas de resguardo documental de la Suprema Corte.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 227.
+
+La Coordinación de Seguridad del Poder Judicial de la Federación, deberá realizar las acciones necesarias, en su ámbito de competencia, durante la remisión de los expedientes judiciales al Centro de Manejo Documental o la transferencia a las áreas de resguardo documental de la Suprema Corte.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 228.
+
+Para la digitalización de expedientes a cargo de la Suprema Corte o Tribunal Electoral, se deberá solicitar autorización de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo y se hará conforme a los términos y condiciones que de común acuerdo se establezcan para tal efecto.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 229.
+
+El Centro de Manejo Documental y Digitalización se coordinará con el Centro de Documentación y Análisis, para la definición de los calendarios para la transferencia de los expedientes judiciales, lo que deberá comunicar a los titulares de los órganos jurisdiccionales.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 230.
+
+Para la certificación de las copias digitales generadas por el Centro de Manejo Documental en el ejercicio de sus funciones, se podrá hacer uso de la FIREL en términos de las disposiciones aplicables.
+
 ## TRANSITORIOS
 
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1856,3 +2186,15 @@ DÉCIMO. Las áreas administrativas del Consejo de la Judicatura Federal, en el 
 DÉCIMO PRIMERO. La creación de los jueces de Ejecución de los Centros de Justicia Penal quedará diferida hasta en tanto se expida la legislación en la materia.
 
 DÉCIMO SEGUNDO. Para efectos del artículo 110 de la Ley Orgánica del Poder Judicial de la Federación los Asistentes de Constancias y Registro de Tribunal de Alzada, Juzgado de Control, y Tribunal de Enjuiciamiento, constituyen una especialización de las categorías de secretarios de tribunal de Circuito y de juzgado de Distrito.
+
+D.O.F. 5 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. El domicilio y fecha de inicio de operaciones del Centro de Manejo Documental y Digitalización del Consejo de la Judicatura Federal se notificará mediante aviso que se publicará en los medios de difusión a que se refiere el artículo anterior.
+
+CUARTO. El titular del Centro de Manejo Documental y Digitalización del Consejo de la Judicatura Federal someterá a consideración y, en su caso, aprobación, de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo de la Judicatura Federal, por conducto de la Coordinación para la Transparencia, Acceso a la Información y Archivos del Consejo de la Judicatura Federal, los manuales del Centro de Manejo Documental y Digitalización del Consejo de la Judicatura Federal, dentro de los noventa días hábiles posteriores a la entrada en vigor del presente Acuerdo.
+
+QUINTO. La digitalización de los expedientes se llevará a cabo conforme a la calendarización que determine la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo de la Judicatura Federal, a propuesta del Centro de Manejo Documental y Digitalización del Consejo de la Judicatura Federal.
