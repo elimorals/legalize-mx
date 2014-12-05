@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-vialidad-transito-y-control-vehicular-del-estado-de-6164
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-09"
-last_updated: "2010-12-22"
+last_updated: "2014-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CAM"
 ---
 # LEY DE VIALIDAD, TRANSITO Y CONTROL VEHICULAR DEL ESTADO DE CAMPECHE
 
-LEY DE VIALIDAD, TRANSITO Y CONTROL VEHICULAR DEL ESTADO DE CAMPECHE
+LEY DE VIALIDAD, TRÁNSITO Y CONTROL VEHICULAR DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el lunes 9 de junio de 2008.
 
@@ -317,9 +317,11 @@ Los agentes de tránsito tienen la obligación de brindar la información que le
 
 ### CAPÍTULO II. DE LAS OBLIGACIONES DE LOS CONDUCTORES DE VEHÍCULOS
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 31.
 
-Es obligación de los conductores de vehículos de transporte público, privado, mercantil o particular, obtener y portar consigo, la licencia para conducir o permiso, tarjeta y placas de circulación vigentes, así como la documentación establecida por esta Ley y otras disposiciones jurídicas y administrativas aplicables, de acuerdo con las categorías, modalidades y tipo de servicio.
+Es obligación de los conductores de vehículos de transporte público o privado, mercantil o particular, obtener y portar consigo, la licencia o permiso para conducir, tarjeta y placas de circulación vigentes, así como portar en el parabrisas el engomado que contiene el chip de radiofrecuencia y tener su comprobante de inscripción o actualización, emitido por el Registro Público Vehicular del Estado, y la demás documentación establecida por esta Ley y otras disposiciones jurídicas y administrativas aplicables, de acuerdo con las categorías, modalidades y tipo de servicio.
 
 El propietario de vehículo automotor que permita que este sea conducido por personas que carezcan de licencia o permiso para ello, será solidariamente responsable de los daños que lleguen a ocasionar con motivo de la conducción del vehículo.
 
@@ -497,9 +499,11 @@ Lo anterior sin perjuicio de los convenios que puedan celebrarse para asumir por
 
 Los agentes de tránsito deberán detener la marcha de cualquier vehículo cuando el conductor de éste se encuentre cometiendo alguna infracción a las disposiciones contenidas en esta Ley, su reglamento y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 52.
 
-Los vehículos podrán ser retirados de la circulación y asegurados en los depósitos vehiculares dependientes, autorizados o certificados por la Secretaría de Seguridad Pública, como medida de seguridad para evitar afectación al orden público e interés social cuando:
+La autoridad competente podrá, retirar los vehículos de circulación y asegurarlos en los depósitos vehiculares, autorizados o certificados por la Secretaría de Seguridad Pública y Protección a la Comunidad, en los supuestos previstos en las fracciones II, III, IV, VIII, IX, XIII y XV de este artículo, así también la autoridad competente inmovilizará los vehículos para circular, como medida de seguridad para evitar afectación al orden público e interés social, cuando se traten de las hipótesis a que se refieren las fracciones I, V, VI VII, X, XI, XII, XIV, XVI, XVII y XVIII de este numeral.
 
 I. A un conductor se le encuentre cometiendo violaciones a las disposiciones legales de tránsito y su comportamiento sea de agresividad física o verbal hacia el agente de tránsito;
 
@@ -533,7 +537,13 @@ XV. Cuando circulen utilizando cromática, torretas o sirenas de unidades de veh
 
 XVI. Cuando sean utilizados para Impartir clases de manejo sin contar con el permiso correspondiente, y
 
-XVII. En los demás casos que señale esta Ley y su Reglamento.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE DICIEMBRE DE 2014)</small>
+
+XVII. Por no portar en el parabrisas el engomado con chip de radiofrecuencia y no tener su comprobante de inscripción o actualización emitido por el Registro Público Vehicular del Estado, o teniendo el chip no pueda ser leído con los dispositivos RFID o porque se detecte que ha sido dañado intencionalmente para impedir la lectura.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 5 DE DICIEMBRE DE 2014)</small>
+
+XVIII. En los demás casos que señale esta Ley y su Reglamento.
 
 Sin perjuicio de las responsabilidades que corresponda, si la infracción da lugar a un delito, el infractor será puesto a disposición del Ministerio Público por los agentes de tránsito que tengan conocimiento del caso.
 
@@ -661,19 +671,19 @@ Para los efectos de esta ley, se entiende por vehículo motorizado aquél que no
 
 Los remolques, acoplados, casas rodantes u otros similares, que carezcan de propulsión pero que circulen por vías públicas, también se considerarán como vehículos motorizados para los efectos de esta ley.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 63.
 
-Para registrar un vehículo en el Estado y obtener la tarjeta de circulación del mismo, su propietario o tenedor deberá residir en la Entidad, acreditar la legítima adquisición o tenencia del vehículo, presentar el vehículo a inspección y formular una solicitud por escrito ante la autoridad de tránsito respectiva, en la que señale su nombre y domicilio, la descripción del vehículo en la que se incluya su marca, modelo, modalidad, color, números de motor y de serie. El solicitante, deberá señalar si se trata de un vehículo nuevo o usado, y en este último caso, los datos de su registro anterior.
+Para registrar un vehículo en el Estado y obtener la tarjeta de circulación del mismo, su propietario o tenedor deberá residir en la Entidad, acreditar la legítima adquisición o tenencia del vehículo, presentar el vehículo a inspección y formular una solicitud por escrito ante la autoridad de tránsito respectiva, en la que señale su nombre y domicilio, la descripción del vehículo en la que se incluya su marca, modelo, modalidad, color, números de motor y de serie, así como realizar su inscripción o actualización en el Registro Público Vehicular. El solicitante deberá señalar si se trata de un vehículo nuevo o usado, y en este último caso, los datos de su registro anterior.
 
 El Reglamento de esta ley, señalará de manera enunciativa, los documentos y medios de prueba que faciliten a los solicitantes el cumplimiento de los requisitos anteriores.
 
-###### Artículo 64.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2014)</small>
 
-Las personas que deseen obtener el registro y tarjeta de circulación de automóviles, autobuses para transporte de pasajeros y camiones de carga destinados al servicio público, además de cumplir con los requisitos antes señalados, deberán presentar el permiso o concesión otorgada por la autoridad correspondiente para la explotación del servicio de que se trate.
+###### Articulo 64.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
-
-En la tarjeta de circulación que se expida deberá contener los nombres de: propietario, tenedor y concesionario. Este último dato será el que el Instituto Estatal del Transporte comunique a la autoridad para que ésta incluya la fecha de terminación de la concesión.
+Las personas que deseen obtener el registro y tarjeta de circulación de automóviles, autobuses para transporte de pasajeros y camiones de carga destinados al servicio público, además de cumplir con los requisitos antes señalados, deberán presentar el permiso o concesión otorgada por la autoridad correspondiente para la explotación del servicio de que se trate y realizar su trámite de inscripción o actualización en el Registro Público Vehicular.
 
 ###### Artículo 65.
 
@@ -690,6 +700,10 @@ Cuando se cambie la carrocería, en condiciones que alteren las características
 ###### Artículo 67.
 
 En caso de deterioro o pérdida de la tarjeta de circulación, se expedirá un duplicado, previa solicitud del interesado y pago de los derechos correspondientes.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2014)</small>
+
+En caso de deterioro o pérdida del chip de radiofrecuencia se reinstalará de forma gratuita hasta la segunda ocasión, presentando la documentación requerida y anexando la manifestación hecha ante el Ministerio Público que especifique el motivo del trámite y el comprobante anterior, a partir de la tercera ocasión se realizará el cobro de los derechos que corresponda.
 
 ###### Artículo 68.
 
@@ -1327,10 +1341,18 @@ Dado en el Palacio del Gobierno del Estado, en San Francisco de Campeche, Campec
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, C.P. JORGE CARLOS HURTADO VALDEZ.- EL SECRETARIO DE GOBIERNO, M. EN D. RICARDO MEDINA FARFAN. RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 22 DE DICIEMBRE DE 2010.
 
 Primero.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 5 DE DICIEMBRE DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor el primero de enero del 2015, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El registro vehicular a que se hace referencia será obligatorio hasta el segundo año fiscal siguiente al de la entrada en vigor de este decreto. Hasta en tanto, el Registro Público Vehicular se tramite voluntariamente, estará libre del pago de los derechos a que se refiere este decreto.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente decreto
