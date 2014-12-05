@@ -4,7 +4,7 @@ identifier: "COA-ley-de-turismo-para-el-estado-de-coahuila-de-zaragoza-68148"
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-10"
-last_updated: "2012-06-05"
+last_updated: "2014-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68148&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE TURISMO PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 10 de febrero de 2009.
 
@@ -91,7 +91,9 @@ XVII. TITULAR DEL EJECUTIVO. El Gobernador Constitucional del Estado de Coahuila
 
 XVIII. TURISMO. La actividad realizada por una o más personas, durante sus viajes y estancias en lugares distintos a los de su residencia habitual, por un período de tiempo ininterrumpido menor de un año, por esparcimiento, recreación, salud, descanso, educación, cultura u otros afines, generándose de estas actividades beneficios económicos y sociales que contribuyen al desarrollo del Estado;
 
-XIX. TURISTA. Cualquier persona que se desplace de manera temporal fuera de su lugar de residencia habitual por un periodo consecutivo menor a un año, y que utilice alguno de los servicios turísticos a que se refiere esta ley, sin perjuicio de lo dispuesto para efectos migratorios en las leyes aplicables, y
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2014)</small>
+
+XIX. TURISTA. Las personas que viajan temporalmente fuera de su lugar de residencia habitual y que utilicen alguno de los servicios turísticos a que se refiere esta Ley sin perjuicio de lo dispuesto para efectos migratorios en las leyes aplicables,
 
 XX. ZONA TURÍSTICA. Las áreas desarrolladas o destinadas para llevar a cabo alguna actividad turística y la prestación de servicios turísticos, incluidas las zonas arqueológicas, paleontológicas, zonas con atractivos naturales y lugares históricos.
 
@@ -131,13 +133,33 @@ XIV. Participar en la revisión y colaboración respecto de las iniciativas de l
 
 XV. Promover, en coordinación con las instancias correspondientes y con los prestadores de servicios turísticos en el Estado, la educación ambiental del turista y de los residentes locales, fomentando la práctica y desarrollo de las actividades de turismo de naturaleza sustentable;
 
-XVI. Diseñar e implementar un sistema de informática que permita dar atención a las necesidades que demanda la actividad turística en el Estado;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2014)</small>
 
-XVII. Vigilar que la prestación del servicio turístico en el Estado se realice sin ejercer actos discriminatorios en razón de género, idioma, raza, nacionalidad, credo, condición económica, preferencia sexual o cualquier otra causa similar;
+XVI. Celebrar convenios con las autoridades y responsables de las áreas naturales protegidas y las zonas con turismo ecológico para la promoción de los atractivos naturales y culturales con los que cuenta el Estado.
 
-XVIII. Brindar, en coordinación con las instancias correspondientes, el apoyo necesario a los turistas en el caso de accidentes, emergencias y demás situaciones en materia de seguridad que requieran de su atención, y
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2014)</small>
 
-XIX. Las demás previstas en esta ley y demás disposiciones aplicables.
+XVII. Coordinar con la Secretaría de Medio Ambiente del Estado y con la Procuraduría de Protección al Ambiente del Estado, en el ámbito de sus respectivas atribuciones, la instrumentación de los programas y medidas para la preservación de los recursos naturales, prevención de la contaminación, para la ordenación y limpieza de las áreas naturales, para promover el turismo de naturaleza y el de bajo impacto, así como para el mejoramiento ambiental de las actividades e instalaciones turísticas;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2014)</small>
+
+XVIII. Participar en la regulación, administración y vigilancia de las Zonas de Desarrollo Turístico Sustentable en los Municipios del Estado, conforme a los convenios que al efecto se suscriban;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2014)</small>
+
+XIX. Diseñar e implementar un sistema de informática que permita dar atención a las necesidades que demanda la actividad turística en el Estado;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2014)</small>
+
+XX. Vigilar que la prestación del servicio turístico en el Estado se realice sin ejercer actos discriminatorios en razón de género, idioma, raza, nacionalidad, credo, condición económica, preferencia sexual o cualquier otra causa similar;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2014)</small>
+
+XXI. Brindar, en coordinación con las instancias correspondientes, el apoyo necesario a los turistas en el caso de accidentes, emergencias y demás situaciones en materia de seguridad que requieran de su atención, y
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2014)</small>
+
+XXII. Las demás previstas en esta ley y demás disposiciones aplicables.
 
 ###### Artículo 5.
 
@@ -630,3 +652,7 @@ P.O. 5 DE JUNIO DE 2012.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 5 DE DICIEMBRE DE 2014.
+
+ÚNICO.- El presente decreto entrara en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Estado.
