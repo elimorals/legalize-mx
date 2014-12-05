@@ -4,7 +4,7 @@ identifier: "LGPGIR"
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-10-08"
-last_updated: "2014-06-04"
+last_updated: "2014-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34141&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGPGIR"
 
 LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 8 de octubre de 2003.
 
@@ -692,7 +692,9 @@ IV. Celebrarán convenios con medios de comunicación masiva para la promoción 
 
 V. Promoverán el reconocimiento a los esfuerzos más destacados de la sociedad en materia de prevención y gestión integral de los residuos;
 
-VI. Impulsarán la conciencia ecológica y la aplicación de la presente Ley, a través de la realización de acciones conjuntas con la comunidad para la prevención y gestión integral de los residuos. Para ello, podrán celebrar convenios de concertación con comunidades urbanas y rurales, así como con diversas organizaciones sociales, y
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+VI. Impulsarán la conciencia ecológica y la aplicación de la presente Ley, a través de la realización de acciones conjuntas con la comunidad para la prevención y gestión integral de los residuos, así como el uso de materiales que cumplan con criterios de eficiencia ambiental y tecnológica. Para ello, podrán celebrar convenios de concertación con comunidades urbanas y rurales, así como con diversas organizaciones sociales, y
 
 VII. Concertarán acciones e inversiones con los sectores social y privado, instituciones académicas, grupos y organizaciones sociales y demás personas físicas y morales interesadas.
 
@@ -706,9 +708,11 @@ El Gobierno Federal, los gobiernos de las entidades federativas y los municipios
 
 Las autoridades de los tres órdenes de gobierno, en el ámbito de sus respectivas competencias, integrarán el Sistema de Información sobre la Gestión Integral de Residuos, que contendrá la información relativa a la situación local, los inventarios de residuos generados, la infraestructura disponible para su manejo, las disposiciones jurídicas aplicables a su regulación y control y otros aspectos que faciliten el logro de los objetivos de esta Ley y los ordenamientos que de ella deriven y de la Ley General del Equilibrio Ecológico y la Protección al Ambiente; la Ley de Transparencia y de Acceso a la Información Pública y demás disposiciones aplicables.
 
+> <small>(REFORMADO, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 38.
 
-Las autoridades de los tres órdenes de gobierno elaborarán y difundirán informes periódicos, sobre los aspectos relevantes contenidos en los sistemas de información a los que se hace referencia en el presente capítulo.
+Las autoridades de los tres órdenes de gobierno elaborarán y difundirán, anualmente, informes sobre los aspectos relevantes contenidos en los sistemas de información a los que se hace referencia en el presente capítulo.
 
 ###### Artículo 39.
 
@@ -1575,3 +1579,7 @@ QUINTO.- Las concesiones y permisos otorgados para construir, operar, explotar, 
 Por lo que se refiere a las concesiones y permisos en trámite se estará a lo dispuesto en la presente Ley de conformidad con las disposiciones aplicables al momento de iniciar dicho trámite.
 
 SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 5 DE DICIEMBRE DE 2014.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
