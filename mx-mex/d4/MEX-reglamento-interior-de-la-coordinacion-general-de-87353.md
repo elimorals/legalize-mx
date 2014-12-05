@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-coordinacion-general-de-87353"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-09-14"
-last_updated: "2011-09-14"
+last_updated: "2014-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87353&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA COORDINACIÓN GENERAL DE COMUNICACIÓN SOCIAL DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en la Sección Séptima de la Gaceta del Estado de México, el miércoles 14 de septiembre de 2011.
 
@@ -61,7 +61,7 @@ III. Dirección General de Seguimiento de Medios e Investigación.
 
 IV. Dirección General de Mercadotecnia.
 
-V. Dirección General de Comunicación Regional.
+V. (DEROGADA, G.G. 5 DE DICIEMBRE DE 2014)
 
 VI. Dirección Regional Valle de México.
 
@@ -261,19 +261,7 @@ IX. Las demás que le confieren otras disposiciones legales y aquellas que le en
 
 ###### Artículo 13.
 
-Corresponde a la Dirección General de Comunicación Regional:
-
-I. Establecer, en el ámbito de su competencia y previo acuerdo del Coordinador General, criterios y lineamientos de comunicación que deberán observarse en las giras de trabajo del Ejecutivo del Estado.
-
-II. Difundir las actividades de la Administración Pública Estatal, la opinión de los servidores públicos sobre temas de interés para la ciudadanía mexiquense y, en general, la información que contribuya a reafirmar la presencia del Gobierno del Estado en la opinión pública.
-
-III. Elaborar periódicamente un análisis de investigación para el desarrollo de estrategias de comunicación regional y municipal.
-
-IV. Detectar las necesidades de comunicación regional y municipal, de acuerdo con los requerimientos de la sociedad mexiquense y proponer acciones para su atención.
-
-V. Conocer y evaluar los resultados de las estrategias de comunicación, a fin de fortalecer la imagen institucional del Poder Ejecutivo del Estado.
-
-VI. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Coordinador General.
+(DEROGADO, G.G. 5 DE DICIEMBRE DE 2014)
 
 ###### Artículo 14.
 
@@ -323,7 +311,13 @@ XIII. Coordinar las acciones de protección civil de la Coordinación General, c
 
 XIV. Programar, organizar y coordinar las acciones de actualización y capacitación general y técnica especializada del personal de la Coordinación General, así como la evaluación de su desempeño y proponer los perfiles profesionales conforme a las necesidades institucionales.
 
-XV. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Coordinador General.
+> <small>(REFORMADA, G.G. 5 DE DICIEMBRE DE 2014)</small>
+
+XV. Expedir constancias o copias certificadas de los documentos existentes en sus archivos, cuando se trate de asuntos relacionados con sus atribuciones.
+
+> <small>(ADICIONADA, G.G. 5 DE DICIEMBRE DE 2014)</small>
+
+XVI. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Coordinador General.
 
 ### CAPÍTULO IV. DE LA SUPLENCIA DE LOS TITULARES
 
@@ -366,3 +360,13 @@ SECRETARIO GENERAL DE GOBIERNO
 LIC. LUIS ENRIQUE MIRANDA NAVA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 5 DE DICIEMBRE DE 2014.
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a las contenidas en el presente Acuerdo.
