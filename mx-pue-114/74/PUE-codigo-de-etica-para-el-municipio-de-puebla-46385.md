@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-etica-para-el-municipio-de-puebla-46385"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-09-05"
-last_updated: "2005-09-05"
+last_updated: "2014-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "PUE"
 ---
 # CODIGO DE ETICA PARA EL MUNICIPIO DE PUEBLA
 
-CODIGO DE ETICA PARA EL MUNICIPIO DE PUEBLA
+CÓDIGO DE ÉTICA PARA EL MUNICIPIO DE PUEBLA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE ÉTICA DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, PUBLICADO EN EL P.O. DE 5 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2014 (ABROGADO).
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 5 de septiembre de 2005.
 
@@ -45,7 +47,7 @@ HONORABLE CABILDO
 
 LOS SUSCRITOS OSBALDO GERARDO JOSÉ CORTE RAMÍREZ, JORGE ARTURO CRUZ LEPE, PABLO FERNÁNDEZ DEL CAMPO ESPINOSA Y JOSÉ LUIS RODRÍGUEZ SALAZAR INTEGRANTES DE LA COMISIÓN DE GOBERNACIÓN DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, CON FUNDAMENTO EN LO DISPUESTO POR EL ARTÍCULO 115 FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, 102 Y 105 FRACCIÓN III DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, 78 FRACCIÓN IV, 79 Y 84 DE LA LEY ORGÁNICA MUNICIPAL, SOMETEMOS A LA DISCUSIÓN Y APROBACIÓN DE ESTE HONORABLE CUERPO COLEGIADO, EL PRESENTE CÓDIGO DE ÉTICA PARA EL MUNICIPIO DE PUEBLA; POR LO QUE:
 
-CONSIDERANDO.
+CONSIDERANDO...
 
 En mérito de lo anterior proponemos a este Honorable cuerpo colegiado el siguiente:
 
@@ -246,3 +248,11 @@ Atentamente.- "Sufragio Efectivo. No Reelección".- H. Puebla de Zaragoza, veint
 Los Integrantes de la Comisión de Gobernación, Justicia y Seguridad Pública.- Regidores: Presidente.- OSBALDO GERARDO JOSE CORTE RAMIREZ.- Secretario.- JORGE ARTURO CRUZ LEPE.- Vocal.- PABLO FERNANDEZ DEL CAMPO ESPINOSA.- Vocal.- JOSE LUIS RODRIGUEZ SALAZAR.- Rúbricas.
 
 El Secretario del Honorable Ayuntamiento del Municipio de Puebla, en uso de las facultades que me confiere el artículo 138 fracción VII, de la Ley Orgánica Municipal, CERTIFICA: Que las presentes copias fotostáticas, compuestas de ocho fojas útiles por su frente, son copia fiel de sus originales, a las que me remito tengo a la vista y cotejé, relativas al Dictamen del Honorable Ayuntamiento del Municipio de Puebla, mediante el cual se aprueba el Código de Ética para el Municipio de Puebla, mismas que obran en el archivo de la Dirección Jurídica de la Secretaría General de este Honorable Ayuntamiento, expidiéndose la presente en la Heroica Puebla de Zaragoza a los dieciocho días del mes de Julio del año dos mil cinco, para los efectos legales a que haya lugar, quedando registrada con el número 690.- El Secretario del H. Ayuntamiento del Municipio de Puebla.- IGNACIO MIER VELASCO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Código entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Código de Ética para el Municipio de Puebla, publicado en el Periódico Oficial del Estado de fecha cinco de septiembre de dos mil cinco.
