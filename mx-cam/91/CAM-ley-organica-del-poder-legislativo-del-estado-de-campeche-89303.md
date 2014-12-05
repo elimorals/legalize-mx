@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-poder-legislativo-del-estado-de-campeche-89303
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-08-17"
-last_updated: "2014-06-24"
+last_updated: "2014-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CAM"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CAMPECHE
 
-> <small>N. DE E. DE CONFORMIDAD CON EL PRIMERO TRANSITORIO DEL DECRETO No. 136, PUBLICADO EN EL P.O. DE 24 DE JUNIO DE 2014, LAS PRESENTES REFORMAS ENTRAN EN VIGOR EL 1° DE JULIO DE 2014, PREVIA SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 17 de agosto de 2012.
 
@@ -523,7 +521,7 @@ V. La Comisión de Patrimonio del Estado y de los Municipios;
 
 VI. La Comisión de Desarrollo Social y Regional;
 
-VII. La Comisión de Desarrollo Rural;; (sic)
+VII. La Comisión de Desarrollo Rural;;
 
 VIII. La Comisión de Desarrollo Económico;
 
@@ -557,13 +555,17 @@ XXI. La Comisión de Asuntos Indígenas;
 
 XXII. La Comisión de la Juventud;
 
-XXIII. La Comisión de Ciencia y Tecnología; y (sic)
+XXIII. La Comisión de Ciencia y Tecnología; y
 
 XXIV. La Comisión de Medio Ambiente y Desarrollo Sustentable.
 
 > <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2013)</small>
 
 XXV. La Comisión de Recursos Hidráulicos.
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2014)</small>
+
+XXVI. La Comisión de Transparencia y Acceso a la Información Pública.
 
 ###### Art. 35.
 
@@ -671,7 +673,7 @@ XIV. Percibir la dieta que se apruebe en el presupuesto correspondiente la que s
 
 XV. Solicitar y, en su caso, obtener licencia para separarse temporalmente del ejercicio de su cargo;
 
-XVI. Solicitar a la Mesa Directiva y, en su caso, obtener la protección a la inviolabilidad de la función parlamentaria por el impulso de actos y opiniones de orden parlamentario. Este derecho se extenderá a quienes hayan sido diputados y una vez concluido su encargo se les pretenda exigir responsabilidad penal, civil o administrativa por esos actos u opiniones; y (sic)
+XVI. Solicitar a la Mesa Directiva y, en su caso, obtener la protección a la inviolabilidad de la función parlamentaria por el impulso de actos y opiniones de orden parlamentario. Este derecho se extenderá a quienes hayan sido diputados y una vez concluido su encargo se les pretenda exigir responsabilidad penal, civil o administrativa por esos actos u opiniones; y
 
 > <small>(REFORMADA, P.O. 24 DE JUNIO DE 2014)</small>
 
@@ -1371,11 +1373,11 @@ Del protocolo o ceremonial
 
 ###### Art. 106.
 
-En la sesión de apertura de un período ordinario de sesiones el presidente de la Mesa Directiva hará la declaración siguiente: "Siendo los ____ días del mes de ________ del año de ________, se abre él (sic) (primer o segundo) período ordinario de sesiones del (primer o segundo o tercer) año de ejercicio constitucional de la (número) Legislatura del Congreso del Estado de Campeche."
+En la sesión de apertura de un período ordinario de sesiones el presidente de la Mesa Directiva hará la declaración siguiente: "Siendo los ____ días del mes de ________ del año de ________, se abre él (primer o segundo) período ordinario de sesiones del (primer o segundo o tercer) año de ejercicio constitucional de la (número) Legislatura del Congreso del Estado de Campeche."
 
 ###### Art. 107.
 
-En la sesión de clausura de un período ordinario de sesiones el presidente de la Mesa Directiva hará la declaración siguiente: "Siendo los ___ días del mes de ______ del año de ______, se clausura él (sic) (primer o segundo) período ordinario de sesiones del (primer o segundo o tercer) año de ejercicio constitucional de la (número) Legislatura del Congreso del Estado de Campeche."
+En la sesión de clausura de un período ordinario de sesiones el presidente de la Mesa Directiva hará la declaración siguiente: "Siendo los ___ días del mes de ______ del año de ______, se clausura él (primer o segundo) período ordinario de sesiones del (primer o segundo o tercer) año de ejercicio constitucional de la (número) Legislatura del Congreso del Estado de Campeche."
 
 ###### Art. 108.
 
@@ -1383,11 +1385,11 @@ Cuando se trate de la apertura o de la clausura de un período extraordinario de
 
 ###### Art. 109.
 
-Al iniciarse un período de receso, la Diputación Permanente expedirá un acuerdo con el texto siguiente: "Siendo los ___ días del mes de _____ del año de _____, se abre él (sic) (primer o segundo) período de receso del (primer o segundo o tercer) año de ejercicio constitucional de la (número) Legislatura del Congreso del Estado de Campeche."
+Al iniciarse un período de receso, la Diputación Permanente expedirá un acuerdo con el texto siguiente: "Siendo los ___ días del mes de _____ del año de _____, se abre él (primer o segundo) período de receso del (primer o segundo o tercer) año de ejercicio constitucional de la (número) Legislatura del Congreso del Estado de Campeche."
 
 ###### Art. 110.
 
-Al concluir un período de receso el acuerdo que expida la Diputación Permanente será en los términos siguientes: "Siendo los ___ días del mes de ______ del año de ________, se clausura él (sic) (primer o segundo) período de receso del (primer o segundo o tercer) año de ejercicio constitucional de la (número) Legislatura del Congreso del Estado de Campeche."
+Al concluir un período de receso el acuerdo que expida la Diputación Permanente será en los términos siguientes: "Siendo los ___ días del mes de ______ del año de ________, se clausura él (primer o segundo) período de receso del (primer o segundo o tercer) año de ejercicio constitucional de la (número) Legislatura del Congreso del Estado de Campeche."
 
 Este acuerdo, así como el previsto en el artículo anterior, será firmado por los secretarios (sic)
 
@@ -1833,7 +1835,7 @@ I. En la misma sesión o reunión en la que se les aplicó una amonestación, re
 
 II. Provoquen un tumulto en la Asamblea; o
 
-III. No guarden la reserva de los asuntos tratados en las sesiones secretas; (sic)
+III. No guarden la reserva de los asuntos tratados en las sesiones secretas;
 
 ###### Art. 153.
 
@@ -2034,3 +2036,11 @@ PRIMERO.- El presente decreto entrará en vigor el 1° de julio de 2014, previa 
 SEGUNDO.- Las disposiciones relativas a la reelección serán aplicables a partir del año 2018.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, que se opongan al contenido del presente decreto.
+
+P.O. 5 DE DICIEMBRE DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+TERCERO.- La propuesta para la integración de esta comisión, deberá ser presentada ante el pleno en los términos y condiciones que establece la Ley Orgánica del Poder Legislativo del Estado de Campeche
