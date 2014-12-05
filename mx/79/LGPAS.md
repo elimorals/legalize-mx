@@ -4,7 +4,7 @@ identifier: "LGPAS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2007-07-24"
-last_updated: "2014-11-10"
+last_updated: "2014-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56140&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGPAS"
 
 LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 24 de julio de 2007.
 
@@ -105,6 +105,14 @@ II. Acuacultura comercial: Es la que se realiza con el propósito de obtener ben
 III. Acuacultura de fomento: Es la que tiene como propósito el estudio, la investigación científica y la experimentación en cuerpos de agua de jurisdicción federal, orientada al desarrollo de biotecnologías o a la incorporación de algún tipo de innovación tecnológica, así como la adopción o transferencia de tecnología, en alguna etapa del cultivo de especies de la flora y fauna, cuyo medio de vida total o parcial sea el agua;
 
 IV. Acuacultura didáctica: Es la que se realiza con fines de capacitación y enseñanza de las personas que en cualquier forma intervengan en la acuacultura en cuerpos de agua de jurisdicción federal;
+
+> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+IV BIS. Acuacultura industrial: Sistema de producción de organismos acuáticos a gran escala, con alto nivel de desarrollo empresarial y tecnológico y gran inversión de capital de origen público o privado;
+
+> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+IV TER. Acuacultura rural: Sistema de producción de organismos acuáticos a pequeña escala, realizada de forma familiar o en pequeños grupos rurales, llevada a cabo en cultivos extensivos o semi-intensivos, para el autoconsumo o venta parcial de los excedentes de la cosecha;
 
 V. Arte de pesca: Es el instrumento, equipo o estructura con que se realiza la captura o extracción de especies de flora y fauna acuáticas;
 
@@ -482,7 +490,9 @@ IV. Que la investigación científica y tecnológica se consolide como herramien
 
 V. Reconocer a la acuacultura como una actividad productiva que permita la diversificación pesquera, ofrecer opciones de empleo en el medio rural, incrementar la producción pesquera y la oferta de alimentos que mejoren la dieta de la población mexicana, así como la generación de divisas;
 
-VI. El ordenamiento de la acuacultura a través de programas que incluyan la definición de sitios para su realización, su tecnificación, diversificación, buscando nuevas tecnologías que reduzcan los impactos ambientales y que permitan ampliar el número de especies nativas que se cultiven;
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+VI. El ordenamiento de la acuacultura a través de programas que incluyan la definición de sitios para su realización, su tecnificación, diversificación, buscando nuevas tecnologías que reduzcan los impactos ambientales y que permitan ampliar el número de especies nativas que se cultiven, dando prioridad en todo momento al cultivo de especies nativas sobre las especies exóticas;
 
 VII. El uso de artes y métodos de pesca selectivos y de menor impacto ambiental, a fin de conservar y mantener la disponibilidad de los recursos pesqueros, la estructura de las poblaciones, la restauración de los ecosistemas costeros y acuáticos, así como, la calidad de los productos de la pesca;
 
@@ -1172,13 +1182,29 @@ I. Fomentar el desarrollo de la acuacultura como una actividad productiva que pe
 
 II. Incrementar la producción acuícola y la oferta de alimentos que mejoren la dieta de la población mexicana, así como generar divisas;
 
+> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+II BIS. Fortalecer el programa de acuacultura rural, que atienda la demanda alimentaria de las comunidades de escasos recursos, se mejore el ingreso de las mismas y se incentive el arraigo en la localidad;
+
+> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+II TER. Fortalecer los programas de capacitación de acuacultura rural, para los productos de localidades rurales;
+
 III. Promover la definición de sitios para su realización, su tecnificación y diversificación, orientándola para incrementar su eficiencia productiva reduciendo los impactos ambientales y buscando nuevas tecnologías que permitan ampliar el número de especies que se cultiven;
 
 IV. Impulsar el desarrollo de las actividades acuícolas para revertir los efectos de sobreexplotación pesquera;
 
-V. Aprovechar de manera responsable, integral y sustentable recursos acuícolas, para asegurar su producción óptima y su disponibilidad; y
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
 
-VI. Fomentar y promover la calidad y la diversidad de los recursos acuícolas.
+V. Aprovechar de manera responsable, integral y sustentable recursos acuícolas, para asegurar su producción óptima y su disponibilidad;
+
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+VI. Fomentar y promover la calidad y la diversidad de los recursos acuícolas, y
+
+> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+VII. Fomentar la transferencia y uso de tecnología en los procesos de producción acuícola en poblaciones rurales y de escasos recursos.
 
 ###### ARTÍCULO 79.
 
@@ -1202,9 +1228,13 @@ IV. Los programas de desarrollo de la acuacultura derivados de los señalados en
 
 La Federación y las Entidades Federativas, en los términos de la presente Ley, podrán convenir acciones que propicien el ordenamiento territorial de los desarrollos acuícolas ubicados en aguas continentales.
 
+> <small>(REFORMADO, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 82.
 
-Para regular e inducir las actividades de acuacultura llevadas a cabo en una región del país, con el propósito de garantizar la productividad, la funcionalidad y sustentabilidad del medio natural, las entidades federativas podrán establecer planes regionales de acuacultura, como instrumentos de planeación, conforme a las disposiciones de la presente Ley.
+Para regular e inducir las actividades de acuacultura llevadas a cabo en las distintas regiones del país, con el propósito de garantizar la productividad, la funcionalidad y la protección del medio natural, las entidades federativas deberán establecer planes de desarrollo regional en la materia con el apoyo del Gobierno Federal, que fungirán como instrumentos de planeación, conforme a las disposiciones de la presente Ley.
+
+Dichos planes deberán contemplar como eje rector la orientación de la acuacultura bajo un esquema de producción sustentable, cuidando la conservación y cultivo de especies endémicas. En los planes se establecerán metas cuantificables en períodos de tres a seis años, que permitan observar el crecimiento en la producción de especies nativas y su impacto en los mercados regionales.
 
 ### CAPÍTULO II. DE LA CARTA NACIONAL ACUÍCOLA
 
@@ -1226,7 +1256,9 @@ III. Análisis de capacidad instalada por región;
 
 IV. Las especificaciones respecto al dominio de la tecnología para la reproducción y cultivo de las especies acuícolas;
 
-V. Los planes de ordenamiento acuícola;
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+
+V. Los planes de ordenamiento acuícola, los cuales irán acompañados de especificaciones sobre los sistemas de información geográfica y programas de monitoreo ambiental empleados en su elaboración. Los programas de monitoreo ambiental deberán arrojar información, de ser el caso, del impacto sobre los ecosistemas de la pesca selectiva, de la introducción de fauna exótica y de la monoexplotación;
 
 VI. Las normas aplicables a aspectos de conservación, protección y/o aprovechamiento de los recursos acuícolas, incluyendo las relativas a la sanidad, calidad e inocuidad de los productos acuícolas;
 
@@ -1554,9 +1586,7 @@ La calidad de los productos a que se refiere este artículo se acreditará a tra
 
 > <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
 
-###### ARTÍCULO 119 Bis.
-
-Para los efectos de este capítulo, se entiende por:
+ARTÍCULO 119 BIS.- Para los efectos de este capítulo, se entiende por:
 
 I. Buenas prácticas pesqueras y acuícolas: Conjunto de procedimientos, actividades, condiciones y controles que se establezcan en normas oficiales mexicanas y demás disposiciones jurídicas que formule y expida la Secretaría, aplicables desde el procesamiento primario hasta la puesta a disposición del consumidor, de recursos pesqueros y recursos acuícolas para consumo humano, en las unidades dedicadas a la pesca o a la acuacultura y en los establecimientos Tipo Inspección Federal dedicados al procesamiento primario de dichos recursos, con el objeto de disminuir los riesgos asociados a agentes físicos, químicos o biológicos que los contaminen durante en (sic) su captura, procesamiento primario o recolección.
 
@@ -1576,9 +1606,7 @@ VIII. TIF: Abreviatura referente a establecimientos Tipo Inspección Federal y a
 
 > <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
 
-###### ARTÍCULO 119 Bis 1.
-
-Para los efectos de este capítulo, son atribuciones de la Secretaría:
+ARTÍCULO 119 BIS 1.- Para los efectos de este capítulo, son atribuciones de la Secretaría:
 
 I. Determinar y establecer las medidas y criterios aplicables en materia de buenas prácticas que habrán de aplicarse en la producción primaria y el procesamiento primario de recursos, partes y derivados de origen pesquero y acuícola para consumo humano en establecimientos TIF, para reducir los contaminantes o riesgos que puedan estar presentes en éstos; así como aquellas medidas y criterios que conforme al principio de reciprocidad sean necesarios para reconocer las buenas prácticas equivalentes que apliquen otros países para el caso de recursos pesqueros y recursos acuícolas para consumo humano que se destinen al comercio exterior;
 
@@ -1598,47 +1626,33 @@ Las atribuciones y facultades previstas en este artículo serán realizadas y ej
 
 > <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
 
-###### ARTÍCULO 119 Bis 2.
-
-El SENASICA certificará a petición de parte, previo cumplimiento de las disposiciones de esta Ley y demás que de ella emanen, la instalación y funcionamiento de establecimientos Tipo Inspección Federal dedicados al procesamiento primario de recursos, partes y derivados de origen pesquero y acuícola para consumo humano.
+ARTÍCULO 119 BIS 2.- El SENASICA certificará a petición de parte, previo cumplimiento de las disposiciones de esta Ley y demás que de ella emanen, la instalación y funcionamiento de establecimientos Tipo Inspección Federal dedicados al procesamiento primario de recursos, partes y derivados de origen pesquero y acuícola para consumo humano.
 
 > <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
 
-###### ARTÍCULO 119 Bis 3.
-
-Los establecimientos referidos en el artículo anterior utilizarán la denominación Tipo Inspección Federal o su abreviatura TIF de acuerdo a lo dispuesto por normas oficiales mexicanas y demás disposiciones jurídicas que se emitan conforme a este capítulo, como símbolo de calidad higiénico-sanitaria de los recursos pesqueros y recursos acuícolas, cuando sus instalaciones, equipo y proceso productivo se ajusten a las disposiciones de sanidad e inocuidad pesquera y acuícola, y de buenas prácticas pesqueras, acuícolas y de manufactura, y esta condición esté certificada por el SENASICA o por organismos de certificación acreditados en los términos de las disposiciones federales aplicables en materia de normalización.
+ARTÍCULO 119 BIS 3.- Los establecimientos referidos en el artículo anterior utilizarán la denominación Tipo Inspección Federal o su abreviatura TIF de acuerdo a lo dispuesto por normas oficiales mexicanas y demás disposiciones jurídicas que se emitan conforme a este capítulo, como símbolo de calidad higiénico-sanitaria de los recursos pesqueros y recursos acuícolas, cuando sus instalaciones, equipo y proceso productivo se ajusten a las disposiciones de sanidad e inocuidad pesquera y acuícola, y de buenas prácticas pesqueras, acuícolas y de manufactura, y esta condición esté certificada por el SENASICA o por organismos de certificación acreditados en los términos de las disposiciones federales aplicables en materia de normalización.
 
 > <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
 
-###### ARTÍCULO 119 Bis 4.
-
-Los establecimientos TIF deberán contar con responsables autorizados por el SENASICA que realicen la inspección o verificación en tal número que garantice su eficiencia. Los establecimientos autorizados para exportar recursos, partes y derivados de origen pesquero y acuícola para consumo humano, deberán contar con dichos responsables si el SENASICA lo determina o el país importador lo requiere.
+ARTÍCULO 119 BIS 4.- Los establecimientos TIF deberán contar con responsables autorizados por el SENASICA que realicen la inspección o verificación en tal número que garantice su eficiencia. Los establecimientos autorizados para exportar recursos, partes y derivados de origen pesquero y acuícola para consumo humano, deberán contar con dichos responsables si el SENASICA lo determina o el país importador lo requiere.
 
 Asimismo dichos establecimientos deberán tener a su servicio durante las horas laborables, cuando menos un responsable autorizado por el SENASICA para fines de control de vigilancia epidemiológica, y otras medidas sanitarias, de inocuidad y de buenas prácticas pesqueras, acuícolas y de manufactura.
 
 > <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
 
-###### ARTÍCULO 119 Bis 5.
-
-La certificación TIF tendrá validez y surtirá sus efectos en toda la República. Los establecimientos que cuenten con dicha certificación y denominación no serán objeto de inspección y resello por autoridad diversa, en la materia que regula el presente capítulo.
+ARTÍCULO 119 BIS 5.- La certificación TIF tendrá validez y surtirá sus efectos en toda la República. Los establecimientos que cuenten con dicha certificación y denominación no serán objeto de inspección y resello por autoridad diversa, en la materia que regula el presente capítulo.
 
 > <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
 
-###### ARTÍCULO 119 Bis 6.
-
-El SENASICA promoverá que los establecimientos de procesamiento primario de recursos, partes y derivados de origen pesquero y acuícola obtengan la denominación TIF, previo cumplimiento de las disposiciones de esta Ley, de las normas oficiales mexicanas que de ella deriven y demás disposiciones que emita el propio SENASICA en materia de sanidad e inocuidad pesquera y acuícola y buenas prácticas aplicables a dichos recursos.
+ARTÍCULO 119 BIS 6.- El SENASICA promoverá que los establecimientos de procesamiento primario de recursos, partes y derivados de origen pesquero y acuícola obtengan la denominación TIF, previo cumplimiento de las disposiciones de esta Ley, de las normas oficiales mexicanas que de ella deriven y demás disposiciones que emita el propio SENASICA en materia de sanidad e inocuidad pesquera y acuícola y buenas prácticas aplicables a dichos recursos.
 
 > <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
 
-###### ARTÍCULO 119 Bis 7.
-
-Los propietarios o poseedores de los establecimientos TIF, estarán obligados a proporcionar las facilidades necesarias para que el SENASICA o terceros acreditados, según corresponda, lleven a cabo su inspección, verificación o certificación.
+ARTÍCULO 119 BIS 7.- Los propietarios o poseedores de los establecimientos TIF, estarán obligados a proporcionar las facilidades necesarias para que el SENASICA o terceros acreditados, según corresponda, lleven a cabo su inspección, verificación o certificación.
 
 > <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
 
-###### ARTÍCULO 119 Bis 8.
-
-La certificación, verificación, dictámenes de prueba o evaluación de la conformidad de las normas oficiales mexicanas y demás disposiciones jurídicas en materia TIF las realizará el SENASICA a iniciativa propia o a petición del interesado, pudiendo hacerlo directamente o a través de organismos de certificación, unidades de verificación o laboratorios de pruebas acreditados en los términos de las disposiciones aplicables.
+ARTÍCULO 119 BIS 8.- La certificación, verificación, dictámenes de prueba o evaluación de la conformidad de las normas oficiales mexicanas y demás disposiciones jurídicas en materia TIF las realizará el SENASICA a iniciativa propia o a petición del interesado, pudiendo hacerlo directamente o a través de organismos de certificación, unidades de verificación o laboratorios de pruebas acreditados en los términos de las disposiciones aplicables.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 30 DE MAYO DE 2012)</small>
 
@@ -1646,37 +1660,27 @@ La certificación, verificación, dictámenes de prueba o evaluación de la conf
 
 > <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
 
-###### ARTÍCULO 119 Bis 9.
-
-La Secretaría establecerá las bases para la implementación de sistemas de trazabilidad de recursos, partes y derivados de origen pesquero o acuícola, para consumo humano, desde su origen hasta su destino. Los sistemas serán coordinados, supervisados y vigilados por la propia Secretaría, a través del SENASICA.
+ARTÍCULO 119 BIS 9.- La Secretaría establecerá las bases para la implementación de sistemas de trazabilidad de recursos, partes y derivados de origen pesquero o acuícola, para consumo humano, desde su origen hasta su destino. Los sistemas serán coordinados, supervisados y vigilados por la propia Secretaría, a través del SENASICA.
 
 La Secretaría, mediante normas oficiales mexicanas y demás disposiciones jurídicas, definirá los sistemas de trazabilidad aplicables a los recursos a que se refiere este capítulo.
 
 > <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
 
-###### ARTÍCULO 119 Bis 10.
-
-Los agentes involucrados en cada eslabón de la cadena de valor, deberán implementar y mantener un sistema de trazabilidad documentado en las etapas que le correspondan, en términos de lo establecido en las normas oficiales mexicanas y demás disposiciones jurídicas que emita la Secretaría para tal efecto.
+ARTÍCULO 119 BIS 10.- Los agentes involucrados en cada eslabón de la cadena de valor, deberán implementar y mantener un sistema de trazabilidad documentado en las etapas que le correspondan, en términos de lo establecido en las normas oficiales mexicanas y demás disposiciones jurídicas que emita la Secretaría para tal efecto.
 
 > <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
 
-###### ARTÍCULO 119 Bis 11.
-
-Los sistemas de trazabilidad de recursos, partes y derivados de origen pesquero o acuícola para consumo humano, sean nacionales o importados, garantizarán el rastreo en toda la cadena de su procesamiento primario y se deberá contar con la relación de proveedores y distribuidores o clientes.
+ARTÍCULO 119 BIS 11.- Los sistemas de trazabilidad de recursos, partes y derivados de origen pesquero o acuícola para consumo humano, sean nacionales o importados, garantizarán el rastreo en toda la cadena de su procesamiento primario y se deberá contar con la relación de proveedores y distribuidores o clientes.
 
 > <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
 
-###### ARTÍCULO 119 Bis 12.
-
-Los agentes involucrados deberán notificar a la Secretaría cuando sospechen que alguno de los recursos, partes y derivados de origen pesquero o acuícola, para consumo humano, que han capturado, extraído, recolectado, producido, criado, cortado, cocido, envasado, empacado, refrigerado, congelado, transportado, industrializado, distribuido o importado no cumplen con las disposiciones de buenas prácticas pesqueras o acuícolas o de manufactura. De ser procedente, la Secretaría ordenará de inmediato su retiro del mercado y, en su caso, dispondrá las medidas sanitarias que correspondan.
+ARTÍCULO 119 BIS 12.- Los agentes involucrados deberán notificar a la Secretaría cuando sospechen que alguno de los recursos, partes y derivados de origen pesquero o acuícola, para consumo humano, que han capturado, extraído, recolectado, producido, criado, cortado, cocido, envasado, empacado, refrigerado, congelado, transportado, industrializado, distribuido o importado no cumplen con las disposiciones de buenas prácticas pesqueras o acuícolas o de manufactura. De ser procedente, la Secretaría ordenará de inmediato su retiro del mercado y, en su caso, dispondrá las medidas sanitarias que correspondan.
 
 Cuando las mercancías sean retiradas del mercado, se informará a los consumidores de las razones de este retiro.
 
 > <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
 
-###### ARTÍCULO 119 Bis 13.
-
-Será parte del sistema de trazabilidad de los recursos, partes y derivados de origen pesquero o acuícola, para consumo humano, nacionales, de importación o exportación regulados por este capítulo y de acuerdo a lo establecido en normas oficiales mexicanas y demás disposiciones jurídicas que expida la Secretaría, la información que defina respecto de dichos recursos, partes y derivados, entre otros aspectos:
+ARTÍCULO 119 BIS 13.- Será parte del sistema de trazabilidad de los recursos, partes y derivados de origen pesquero o acuícola, para consumo humano, nacionales, de importación o exportación regulados por este capítulo y de acuerdo a lo establecido en normas oficiales mexicanas y demás disposiciones jurídicas que expida la Secretaría, la información que defina respecto de dichos recursos, partes y derivados, entre otros aspectos:
 
 I. El origen;
 
@@ -1692,9 +1696,7 @@ VI. La identificación individual o en grupo de acuerdo al producto en específi
 
 > <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
 
-###### ARTÍCULO 119 Bis 14.
-
-Para efectos de trazabilidad, las normas oficiales mexicanas y demás disposiciones jurídicas relativas a buenas prácticas pesqueras, acuícolas y de manufactura que expida la Secretaría, establecerán los requisitos que deberán contener las etiquetas de los recursos, partes y derivados de origen pesquero o acuícola, para consumo humano.
+ARTÍCULO 119 BIS 14.- Para efectos de trazabilidad, las normas oficiales mexicanas y demás disposiciones jurídicas relativas a buenas prácticas pesqueras, acuícolas y de manufactura que expida la Secretaría, establecerán los requisitos que deberán contener las etiquetas de los recursos, partes y derivados de origen pesquero o acuícola, para consumo humano.
 
 ## TÍTULO DÉCIMO SEGUNDO. DE LA INFORMACIÓN SOBRE PESCA Y ACUACULTURA
 
@@ -2107,3 +2109,15 @@ D.O.F. 10 DE NOVIEMBRE DE 2014.
 Artículo Primero.- El presente Decreto entrará en vigor el día 1 de enero del año 2015.
 
 Artículo Segundo.- Las erogaciones que, en su caso, deban realizarse con el fin de dar cumplimiento al presente Decreto estarán sujetas al presupuesto autorizado en el Presupuesto de Egresos de la Federación y se ejecutarán observando las prioridades que se establezcan en el Plan Nacional de Desarrollo, debiendo observar las disposiciones aplicables en materia presupuestaria a partir del ejercicio fiscal 2015.
+
+D.O.F. 5 DE DICIEMBRE DE 2014.
+
+DECRETO POR EL QUE SE ADICIONAN LAS FRACCIONES IV BIS Y IV TER AL ARTÍCULO 4°.; LAS FRACCIONES II BIS, II TER Y VII AL ARTÍCULO 78 DE LA LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES.
+
+Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 5 DE DICIEMBRE DE 2014.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 17, FRACCIÓN VI, 82 Y 84, FRACCIÓN V DE LA LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES.
+
+Único. El presente decreto entrará en vigor el siguiente día al de su publicación en el Diario Oficial de la Federación.
