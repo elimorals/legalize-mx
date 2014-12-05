@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2014-10-27"
+last_updated: "2014-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -3593,21 +3593,27 @@ Cuando las personas presentadas denoten peligrosidad o intenciones de evadirse s
 
 Cuando el presunto infractor padezca alguna enfermedad mental, a consideración del Médico de Turno, el Juez Calificador suspenderá el procedimiento y citará a las personas obligadas a la custodia del enfermo y a faltas de éstas, al Ministerio Público y a las autoridades del Sector Salud que deban intervenir, a fin de que se le proporcione la ayuda asistencial que se requiera.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 241.
 
-Si la persona presentada es extranjero, deberá acreditar su legal estancia en el País, si no lo hace, independientemente de que se le siga el procedimiento y se le impongan las sanciones a que haya lugar, se dará aviso a las Autoridades Migratorias inmediatamente y se le pondrá a su disposición para los efectos procedentes tomando en cuenta que:
+Si el probable infractor es extranjero, se harán de su conocimiento los derechos que tiene como extranjero en territorio Nacional y se le informará de manera inmediata a la autoridad Consular correspondiente, a fin de realizar las gestiones que a su derecho convengan.
 
-a) En caso de que la Autoridad Migratoria no acuda al aviso que se le dé en términos del párrafo anterior, el Juez Calificador pondrá en inmediata libertad al extranjero infractor, una vez concluido su arresto o pagada su multa;
+La notificación consular antes mencionada, se llevará a cabo previo consentimiento que se recabe del extranjero.
 
-b) Cuando el probable infractor no hable español, o se trate de un sordomudo, y no cuente con traductor o intérprete, se le proporcionará uno, sin cuya presencia el procedimiento administrativo no podrá dar inicio;
+Si el extranjero no habla español, se le proporcionará un intérprete, y en caso de no ser posible, agotadas todas las vías para contar con el apoyo de un intérprete, oficial o particular, profesional o certificado, se le proporcionará un traductor práctico, sin cuya presencia el procedimiento administrativo no podrá dar inicio;
 
-c) Si el probable infractor, no estuviere acompañado de una persona que fuera traductor o interprete, el Juez deberá de comunicarse de inmediato a la Dirección de los Juzgados Calificadores para que provea lo conducente; y
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2014)</small>
 
-d) Si transcurridas tres horas a partir del llamado a la Dirección de los Juzgados Calificadores, sin que se logre la comparecencia del traductor o interprete, el Juez sobreseerá el procedimiento y autorizará la salida del probable infractor.
+###### Artículo 241 Bis.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+Cuando el probable infractor sea indígena y no hable español, se le proporcionará un intérprete en términos del artículo anterior.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 241 Ter.
+
+Si el probable infractor es una persona con alguna discapacidad que haga imposible la adecuada comunicación y manifestar lo que a su derecho convenga, se le proporcionará un intérprete en términos del artículo 241 del presente Código.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -5869,7 +5875,7 @@ III. Colaborar con las autoridades del Estado y del Municipio para el debido cum
 
 ###### Artículo 382.
 
-Los administradores, gerentes, poseedores, arrendatarios o propietarios de inmuebles que por su propia naturaleza o por el uso a que sean destinados, reciban una afluencia multitudinaria de personas, están obligados a preparar un programa específico de protección civil, estableciendo para ello su comité interno de protección civil, conforme a las disposiciones del programa municipal, elaborando además su análisis de riesgos y su plan de prevención de contingencias; contado para ello con la asesoría técnica de la Unidad Operativa Municipal de Protección Civil.
+Los administradores, gerentes, poseedores, arrendatarios o propietarios de inmuebles que por su propia naturaleza o por el uso a que sean destinados, reciban una afluencia multitudinaria de personas, están obligados a preparar un programa específico de protección civil, estableciendo para ello su comité interno de protección civil, conforme a las disposiciones del programa municipal, elaborando además su análisis de riesgos y su plan de prevención de contingencias; (sic) para ello con la asesoría técnica de la Unidad Operativa Municipal de Protección Civil.
 
 > <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
@@ -6429,7 +6435,7 @@ Los vehículos que contengan y transporten materiales y sustancias inflamables, 
 
 No se permitirán maniobras de carga y descarga después de las dieciocho horas y ninguna hora de acceso a la ciudad los días sábados y domingos. Los carros tanques que abastezcan la gasolina y combustibles a los expendios urbanos, quedan exceptuados de lo anterior.
 
-Los propietarios o responsables deberán de proveer a los conductores de los vehículos de materiales o substancias químicas o con riesgo de incendio, del equipo de protección de personal e información necesaria para la prevención, manejo Y control en caso de fuga o derrame.
+Los propietarios o responsables deberán de proveer a los conductores de los vehículos de materiales o substancias químicas o con riesgo de incendio, del equipo de protección de personal e información necesaria para la prevención, manejo y control en caso de fuga o derrame.
 
 ###### Artículo 426.
 
@@ -16511,7 +16517,7 @@ En la evaluación de los estados límite de servicio a considerar en el diseño 
 
 RELLENOS: Los rellenos no incluirán materiales degradables ni excesivamente compresibles y deberán compactarse de modo que sus cambios volumétricos por peso propio, por saturación y por las acciones externas a que estarán sometidos, no causen daños intolerables a las instalaciones o a las estructuras alojadas en ellos o colocadas sobre los mismos. Se controlarán las condiciones de compactación de campo, a fin de cumplir las especificaciones de diseño.
 
-Los rellenos que vayan a ser contenidos por muros, deberán colocarse por procedimientos que eviten el desarrollo de empujes superiores a los considerados en el diseño. En el cálculo de los empujes, se tomarán en cuenta las acciones aplicables de los apartados relativos a Acciones y Diseño Por Viento y cualesquiera otras que actúen sobre el relleno o la estructura de retención. Se prestará especial atención a la construcción de drenes, filtros, lIoraderos y demás medidas tendientes a controlar los empujes de agua.
+Los rellenos que vayan a ser contenidos por muros, deberán colocarse por procedimientos que eviten el desarrollo de empujes superiores a los considerados en el diseño. En el cálculo de los empujes, se tomarán en cuenta las acciones aplicables de los apartados relativos a Acciones y Diseño Por Viento y cualesquiera otras que actúen sobre el relleno o la estructura de retención. Se prestará especial atención a la construcción de drenes, filtros, lloraderos y demás medidas tendientes a controlar los empujes de agua.
 
 ###### Artículo 1043.
 
@@ -16913,11 +16919,11 @@ V. UOMPC - Unidad Operativa Municipal de Protección Civil.
 
 El cumplimiento del presente apartado, es responsabilidad de los propietarios, administradores o responsables de los inmuebles regulados en el mismo.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 1106.
 
-La verificación del cumplimiento del presente apartado, corresponde a la UOMPROCI y a la Dirección.
+La verificación del cumplimiento del presente apartado corresponde a la UOMPC y la Dirección.
 
 ###### Artículo 1107.
 
@@ -18009,7 +18015,9 @@ V. Regular y especificar el contenido de el Programa de Desarrollo Urbano aplica
 
 VI. Regular conjuntamente con el Capítulo correspondiente de este Código Reglamentario, la colocación, fijación y diseño de anuncios y mobiliario urbano, así como su mantenimiento y conservación a fin de preservar la fisonomía e imagen urbana de la zona, preservándola de la contaminación visual, auditiva y ambiental;
 
-VII. Establecer las normas y principios básicos conforme a los cuales se llevarán a cabo las acciones de protección civil en la zona, a través de los organismos federales, estatales y municipales, así como los organismos sociales y académicos competentes en la materia;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
+VII. Establecer las normas y principios básicos conforme a los cuales se llevarán a cabo las acciones de protección civil en la zona, a través de los organismos federales, estatales y municipales (Unidad Operativa Municipal de Protección Civil), así como los organismos sociales y académicos competentes en la materia;
 
 VIII. Normar la ubicación y prestación de los servicios urbanos y de equipamiento en la zona;
 
@@ -25949,7 +25957,7 @@ El servicio de estacionamiento en la vía pública podrá ser concesionado por e
 
 ###### Artículo 1682 Ter.
 
-Para el cobro del uso de estacionamiento en la vía pública, el Ayuntamiento clasificará las zonas de estacionómetros de acuerdo a la demanda de espacios para estacionarse, así como los horarios de operación.
+Para el cobro del uso de estacionamiento en la vía pública el Ayuntamiento clasificará las zonas de estacionómetros de acuerdo a la demanda de espacios para estacionarse, así como los horarios de operación.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
@@ -33993,7 +34001,7 @@ Si alguno de los boxeadores al verificar el peso oficial está fuera de la divis
 
 ###### ARTÍCULO 2226.
 
-Si el Campeón no se encuentra dentro de la división correspondiente, perderá automáticamente el titulo, pero el encuentro se celebrará a doce "asaltos".
+Si el Campeón no se encuentra dentro de la división correspondiente, perderá automáticamente el título, pero el encuentro se celebrará a doce "asaltos".
 
 Si al efectuarse la pelea, el retador resulta vencedor, será reconocido como nuevo campeón de la división, si el ex-campeón fuera el vencedor, el título será declarado vacante. Si el resultado del encuentro fuera de empate, el título también será declarado vacante.
 
@@ -35767,6 +35775,10 @@ PRIMERO.- Las presentes reformas, entrarán en vigor a partir del día siguiente
 
 SEGUNDO.- Se derogan las demás disposiciones que sean contrarias al presente Decreto.
 
+P.O. 6 DE DICIEMBRE DE 2006.
+
+ÚNICO.- Se derogan las disposiciones que se opongan al presente Dictamen.
+
 P.O. 8 DE DICIEMBRE DE 2006.
 
 PRIMERO.- El presente Dictamen surtirá efectos a partir de la fecha de aprobación.
@@ -36212,3 +36224,11 @@ P.O. 27 DE OCTUBRE DE 2014.
 PRIMERO.- El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Dictamen.
+
+P.O. 5 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
+
+TERCERO. Se instruye a las Dependencias competentes a realizar las adecuaciones materiales y normativas necesarias para la aplicación de las disposiciones.
