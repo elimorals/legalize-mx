@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-6876
 country: "mx"
 rank: "ley"
 publication_date: "2009-05-09"
-last_updated: "2014-11-22"
+last_updated: "2014-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COL"
 ---
 # LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE COLIMA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE DICIEMBRE DE 2014 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZAR DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE COLIMA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2014.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 6 DE DICIEMBRE DE 2014.</small>
 
 Ley publicada en el Suplemento No. 4 del Periódico Oficial del Estado de Colima, el sábado 9 de mayo de 2009.
 
@@ -379,39 +379,37 @@ El Sistema Estatal tiene los siguientes objetivos:
 
 I. Promover la igualdad entre mujeres y hombres y contribuir a la erradicación de todo tipo de discriminación;
 
-II. Coadyuvar a la modificación de estereotipos que discriminan y fomentan la violencia de género; y
+> <small>(F. DE E., P.O. 6 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2014)</small>
+II. Coadyuvar a la modificación de estereotipos que discriminan y fomentan la violencia de género;
 
-III. Coadyuvar a la modificación de estereotipos que discriminan y fomentan la violencia de género; (sic)
+(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2014) (F. DE E., P.O. 6 DE DICIEMBRE DE 2014)
 
-> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2014)</small>
+III. Promover el desarrollo de programas y servicios que fomenten la igualdad entre mujeres y hombres;
 
-IV. Promover el desarrollo de programas y servicios que fomenten la igualdad entre mujeres y hombres;
+(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2014) (F. DE E., P.O. 6 DE DICIEMBRE DE 2014)
 
-> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2014)</small>
+IV. Instrumentar acciones afirmativas para lograr la igualdad entre mujeres y hombres;
 
-V. Instrumentar acciones afirmativas para lograr la igualdad entre mujeres y hombres;
+(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2014) (F. DE E., P.O. 6 DE DICIEMBRE DE 2014)
 
-> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2014)</small>
+V. Evaluar la progresividad en el cumplimiento de la Ley por parte de las dependencias públicas estatales y municipales;
 
-VI. Evaluar la progresividad en el cumplimiento de la Ley por parte de las dependencias públicas estatales y municipales;
+(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2014) (F. DE E., P.O. 6 DE DICIEMBRE DE 2014)
 
-> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2014)</small>
+VI. Proponer reformas legislativas y políticas públicas para erradicar la desigualdad de trato y oportunidades entre mujeres y hombres, en los ámbitos público y privado;
 
-VII. Proponer reformas legislativas y políticas públicas para erradicar la desigualdad de trato y oportunidades entre mujeres y hombres, en los ámbitos público y privado;
+(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2014) (F. DE E., P.O. 6 DE DICIEMBRE DE 2014)
 
-> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2014)</small>
+VII. Concertar acciones conjuntas con el sector privado que permitan la igualdad de oportunidades entre mujeres y hombres;
 
-VIII. Concertar acciones conjuntas con el sector privado que permitan la igualdad de oportunidades entre mujeres y hombres;
+(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2014) (F. DE E., P.O. 6 DE DICIEMBRE DE 2014)
 
-> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2014)</small>
+VIII. Elaborar y recomendar estándares que garanticen la transmisión en los medios de comunicación y órganos de comunicación social de los distintos entes públicos, de una imagen igualitaria, libre de estereotipos y plural de mujeres y hombres; y
 
-IX. Elaborar y recomendar estándares que garanticen la transmisión en los medios de comunicación y órganos de comunicación social de los distintos entes públicos, de una imagen igualitaria, libre de estereotipos y plural de mujeres y hombres; y
+(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2014) (F. DE E., P.O. 6 DE DICIEMBRE DE 2014)
 
-> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2014)</small>
-
-X. Impulsar acciones de coordinación entre las distintas dependencias del gobierno para formar y capacitar en materia de igualdad entre hombres y mujeres a los servidores públicos.
+IX. Impulsar acciones de coordinación entre las distintas dependencias del gobierno para formar y capacitar en materia de igualdad entre hombres y mujeres a los servidores públicos.
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2014)</small>
 
