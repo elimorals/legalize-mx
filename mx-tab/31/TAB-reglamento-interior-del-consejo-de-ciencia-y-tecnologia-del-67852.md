@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-consejo-de-ciencia-y-tecnologia-del-678
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-14"
-last_updated: "2009-03-14"
+last_updated: "2014-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67852&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DEL CONSEJO DE CIENCIA Y TECNOLOGIA DEL ESTADO DE TABASCO
 
-REGLAMENTO INTERIOR DEL CONSEJO DE CIENCIA Y TECNOLOGIA DEL ESTADO DE TABASCO
+REGLAMENTO INTERIOR DEL CONSEJO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 14 de marzo de 2009.
 
@@ -41,9 +41,19 @@ REGLAMENTO INTERIOR DEL CONSEJO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE TABASCO
 
 El presente Reglamento es de observancia obligatoria y tiene por objeto normar la organización y el funcionamiento del Consejo de Ciencia y Tecnología del Estado de Tabasco.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 2.
 
-El Consejo de Ciencia y Tecnología del Estado de Tabasco, el cual podrá denominarse como CCYTET o Consejo, es un Organismo Público Descentralizado del Ejecutivo del Estado, con personalidad jurídica y patrimonio propios, que tiene como finalidad atender las necesidades inherentes del Gobierno del Estado, en materia de ciencia y tecnología.
+El Consejo de Ciencia y Tecnología del Estado de Tabasco, es un Organismo Público Descentralizado del Gobierno del Estado, con personalidad jurídica y patrimonio propios, que tiene como finalidad atender las necesidades inherentes del Gobierno del Estado en materia de ciencia y tecnología.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 2.
+
+Bis. Para efectos de este Reglamento, se entenderá por:
+
+Consejo: Al Consejo de Ciencia y Tecnología del Estado de Tabasco, que indistintamente podrá citarse como CCYTET;
 
 ### CAPÍTULO II. DE LAS FUNCIONES Y ATRIBUCIONES DEL CONSEJO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE TABASCO
 
@@ -51,27 +61,39 @@ El Consejo de Ciencia y Tecnología del Estado de Tabasco, el cual podrá denomi
 
 Son funciones del Consejo de Ciencia y Tecnología del Estado de Tabasco:
 
-I. Asesorar al Ejecutivo Estatal en materia de ciencia y tecnología, vinculando el desarrollo del Estado con el de la Nación y su proyección a nivel internacional;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2014)</small>
 
-II. Ser órgano de consulta en materia de ciencia y tecnología, para las dependencias y entidades de la Administración Pública Estatal y de los municipios, así como de las personas físicas o jurídicas colectivas que lo requieran;
+I. Asesorar al Ejecutivo Estatal en materia de ciencia y la tecnología, su vinculación con el desarrollo del Estado, de la Nación y sus relaciones con el exterior;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+II. Ser órgano de consulta para las dependencias y entidades de la Administración Pública del Estado y de los municipios, así como de las personas físicas o jurídicas colectivas que lo requieran;
 
 III. Captar, analizar y jerarquizar sistemáticamente las capacidades y necesidades estatales de ciencia y tecnología;
 
-IV. Elaborar el programa especial en materia de ciencia y tecnología, procurando la más amplia participación de la comunidad científica y tecnológica, entidades gubernamentales y usuarios de productos derivados del conocimiento;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+IV. Elaborar el programa sectorial respectivo, procurando la más amplia participación de la comunidad científica y tecnológica, entidades gubernamentales y usuarios de productos derivados del conocimiento;
 
 V. Establecer y promover el Sistema Estatal de Información Científica y Tecnológica;
 
 VI. Fomentar y fortalecer las investigaciones básicas y tecnológicas que se necesiten en la Entidad, promoviendo la más amplia concertación y coordinación con los generadores y usuarios de sus resultados;
 
-VII. Canalizar recursos adicionales, provenientes de fuentes de financiamiento diferentes a las presupuestales, para el fomento y realización de investigaciones o proyectos de desarrollo tecnológico;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+VII. Canalizar recursos adicionales provenientes de otras fuentes, para el fomento y realización de investigaciones o proyectos de desarrollo tecnológico;
 
 VIII. Promover la creación de nuevas instituciones de investigación y proponer la constitución de empresas de base científica y tecnológica;
 
 IX. Formular un Programa Estatal de Formación de Recursos Humanos para la Investigación de Alto Nivel;
 
-X. Concertar convenios en materia de ciencia y tecnología con instituciones estatales y nacionales para el cumplimiento de sus objetivos;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2014)</small>
 
-XI. Promover la más amplia difusión de la actividad científica y tecnológica, por medio de la organización de congresos y la promoción de publicaciones generales y especializadas;
+X. Concertar convenios con instituciones estatales y nacionales para el cumplimiento de sus objetivos;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+XI. Promover la difusión y divulgación de la actividad científica y tecnológica, por medio de la organización de congresos y la promoción de publicaciones generales y especializadas, así como a través de los medios de comunicación disponibles;
 
 XII. Promover el establecimiento de premios y estímulos de ciencia y tecnología;
 
@@ -95,27 +117,49 @@ C).- Una Dirección General.
 
 La Junta Directiva es el máximo órgano de gobierno del Consejo y se integrará de la siguiente forma:
 
-I. Un Presidente, que será el Secretario de Educación;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+I. Un Presidente, que será el titular de la Secretaría de Educación;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 6 DE DICIEMBRE DE 2014)</small>
 
 II. Vocales Permanentes:
 
-A) El Secretario de Desarrollo Económico;
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2014)</small>
 
-B) El Secretario de Recursos Naturales y Protección Ambiental;
+A) El Titular de la Secretaría de Desarrollo Económico y Turismo;
 
-C) El Secretario de Salud;
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2014)</small>
 
-D) El Secretario de Desarrollo Agropecuario, Forestal y Pesca;
+B) El Titular de la Secretaría de Energía, Recursos Naturales y Protección Ambiental;
 
-E) El Secretario de Comunicaciones y Transportes;
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2014)</small>
 
-F) El Secretario de Contraloría; y
+C) El Titular de la Secretaría de Salud;
 
-G) El Secretario de Administración y Finanzas.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+D) El Titular de la Secretaría de Desarrollo Agropecuario, Forestal y Pesca;
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+E) El Titular de la Secretaría de Comunicaciones y Transportes;
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+F) El Titular de la Secretaría de Contraloría; y
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+G) El Titular de la Secretaría de Planeación y Finanzas.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 6 DE DICIEMBRE DE 2014)</small>
 
 III. Vocales temporales, que fungirán por periodos bienales no renovables:
 
-A) Un rector de una universidad o director de una institución de enseñanza superior o investigación de la Entidad;
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+A). El Titular de la rectoría de una universidad o el Titular de la Dirección General de una institución de enseñanza superior o investigación de la Entidad;
 
 B) Un representante de academia, asociación científica o tecnológica, o colegio de profesionistas;
 
@@ -155,17 +199,25 @@ III. Discutir y, en su caso, aprobar los programas del Consejo;
 
 IV. Aprobar los programas y presupuestos del Consejo;
 
-V. Aprobar el Reglamento Interior del Consejo; así como sus manuales de procedimientos y organización;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+V. Aprobar el Reglamento Interior del Consejo; así como sus manuales de función y organización;
 
 VI. Administrar el patrimonio del Consejo;
 
 VII. Aprobar de acuerdo con las leyes y reglamentos aplicables, las políticas bases y programas generales que regulan los convenios, contratos, pedidos o acuerdos que deba celebrar el Consejo con terceros en obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles;
 
-VIII. Conocer y, en su caso, aprobar los informes periódicos de actividades que rinda el Director General;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2014)</small>
 
-IX. Conferir poderes generales o especiales, a nombre del Consejo, oyendo la opinión del Director General;
+VIII. Conocer y, en su caso, aprobar los Informes periódicos de actividades que rinda el o la Titular de la Dirección General;
 
-X. Conceder licencias al Director General y nombrar a la persona que lo supla;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+IX. Conferir poderes generales o especiales, a nombre del Consejo, oyendo la opinión del o la Titular de la Dirección General;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+X. Conceder licencias al o la Titular de la Dirección General y nombrar a la persona que lo supla;
 
 XI. Solicitar la práctica de auditoría externa para verificar cualquier situación contable del Consejo;
 
@@ -175,19 +227,25 @@ XIII. Examinar y, en su caso, aprobar la cuenta anual del Consejo;
 
 XIV. Aprobar la estructura básica de la organización del Consejo y las modificaciones que procedan a la misma y al presente Reglamento;
 
-XV. Nombrar y remover, a propuesta del Director General, a los servidores públicos del Consejo que ocupen cargos en las dos jerarquías administrativas inferiores a la de aquél; y aprobar la fijación de sueldos y prestaciones, con sujeción a las disposiciones que para tal efecto disponga el Poder Ejecutivo a través de la Dependencia correspondiente;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+XV. Nombrar y remover, a propuesta del o la Titular de la Dirección General, a los servidores públicos del Consejo que ocupen cargos en las dos jerarquías administrativas inferiores a la de aquél, y aprobar la fijación de sueldos y prestaciones, con sujeción a las disposiciones que para tal efecto disponga el Poder Ejecutivo a través de la Dependencia correspondiente;
 
 XVI. Elegir a los miembros temporales de la Junta Directiva;
 
-XVII. Nombrar y remover a propuesta de su Presidente, entre personas ajenas al Consejo, al Secretario Técnico quien podrá o no ser miembro de la Junta Directiva;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+XVII. Nombrar y remover a propuesta de su Presidente, entre personas ajenas al Consejo, al Titular de la Secretaría Técnica quien podrá o no ser miembro de la Junta Directiva;
 
 XVIII. Fijar las tarifas por los servicios que preste el Consejo; y
 
 XIX. Las demás que le señalen otras disposiciones legales aplicables y las que se deriven del cumplimiento del objeto del Consejo.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 11.
 
-La Junta Directiva contará con un Secretario Técnico, quien será nombrado por ella a propuesta del Presidente de ésta.
+La Junta Directiva contará con un Titular de la Secretaría Técnica, quien será nombrado por ella a propuesta del Presidente de ésta.
 
 ###### ARTÍCULO 12.
 
@@ -265,11 +323,15 @@ Las resoluciones y acuerdos se tomarán por mayoría de votos de los miembros pr
 
 El Consejo Técnico estará integrado por:
 
-I. Un Presidente, que será el Director General del Consejo de Ciencia y Tecnología del Estado de Tabasco;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+I. Un Presidente, que será el o la Titular de la Dirección General del Consejo de Ciencia y Tecnología del Estado de Tabasco.
 
 II. Cinco investigadores distinguidos del Estado de Tabasco y representativos de las áreas básicas del conocimiento, designados por el Gobernador del Estado, consultando la opinión de la comunidad científica y tecnológica de la Entidad; y
 
 III. Cinco representantes de los sectores económicos y productivos de la Entidad, designados por el Gobernador del Estado.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 21.
 
@@ -289,7 +351,9 @@ II. Identificar objetivos y metas específicos en funciones sustantivas del Cons
 
 III. Proponer los mecanismos de evaluación que regirán la asignación de recursos para los proyectos de investigación y desarrollo tecnológico presentados por la Dirección General;
 
-IV. Recomendar a la Junta Directiva la asignación de recursos económicos a los proyectos presentados por el Director General;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+IV. Recomendar a la Junta Directiva la asignación de recursos económicos a los proyectos presentados por el o la titular de la Dirección General;
 
 V. Dar seguimiento a los proyectos a partir de los informes presentados por la Dirección General;
 
@@ -297,9 +361,11 @@ VI. Participar en la integración de comités editoriales de las publicaciones d
 
 VII. Promover y sugerir el establecimiento de convenios de intercambio académico con instancias de carácter científico en otros estados del País.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 24.
 
-El Consejo Técnico se reunirá tres veces al año en sesiones ordinarias, a solicitud del Director General, quien convocará por escrito con por lo menos 72 horas de anticipación.
+El Consejo Técnico se reunirá dos veces al año en sesiones ordinarias, a solicitud del o la Titular de la Dirección General, quien convocará por escrito con por lo menos 72 horas de anticipación.
 
 ###### ARTÍCULO 25.
 
@@ -321,19 +387,27 @@ La permanencia en el Consejo Técnico será con cargo honorífico y debido a su 
 
 En caso de inasistencia injustificada por tres ocasiones consecutivas a las sesiones que se convoquen de alguno de los integrantes designados, independientemente de que se trate de sesiones ordinarias o extraordinarias, causará baja de este órgano, y se procederá a proponer la designación de un nuevo representante que concluya el período. Atendiendo lo dispuesto en el artículo 20 de este Reglamento.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 30.
 
-Las resoluciones y acuerdos se tomarán por mayoría de votos de los miembros presentes, teniendo el Presidente del Consejo Técnico, voto de calidad en caso de empate.
+Las resoluciones y acuerdos se tomarán por mayoría de votos de los miembros presentes, teniendo el titular de la Presidencia del Consejo Técnico, voto de calidad en caso de empate.
 
 ### CAPÍTULO VII. DE LA ESTRUCTURA ORGÁNICA
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 31.
 
-Al frente del Consejo de Ciencia y Tecnología del Estado de Tabasco habrá un Director General que será nombrado y removido por el Titular del Poder Ejecutivo del Estado.
+Al frente del Consejo de Ciencia y Tecnología del Estado de Tabasco habrá un o una titular de la Dirección General que será nombrado y removido por el Titular del Poder Ejecutivo del Estado.
+
+> <small>N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 6 DE DICIEMBRE DE 2014, PÁGINAS 12, 17 Y 18.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 32.
 
-Sin perjuicio de las facultades y obligaciones que le señala el artículo 15 del Decreto de Creación, el Director General tendrá las siguientes:
+Sin perjuicio de las facultades y obligaciones que le señala el artículo 15 del Decreto de Creación, el o la titular de la Dirección General tendrá las siguientes:
 
 I. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de las funciones correspondientes a la Dirección General;
 
@@ -349,23 +423,39 @@ VI. Evaluar periódica y sistemáticamente, el desarrollo de las funciones compe
 
 VII. Celebrar los convenios, contratos y acuerdos necesarios para el cumplimiento del objeto del Consejo; respecto de aquellos programas aprobados por la Junta Directiva, informando a ésta del seguimiento de esos compromisos; de acuerdo a las políticas, bases y programas generales que los regulen;
 
-VIII. Nombrar a los apoderados legales que lo representen ante todo tipo de juicios seguidos ante órganos judiciales, administrativos o del trabajo en que sea parte;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2014)</small>
 
-IX. Nombrar a quién deberá representar a la institución en los procedimientos administrativos a que refiere la Ley de Responsabilidades de los Servidores Públicos del Estado; y
+VIII. Firmar el Reglamento Interior del Consejo y demás ordenamientos internos del Consejo, para su publicación en el Periódico Oficial del Gobierno del Estado, que previamente hayan sido aprobados en sesión por la H. Junta Directiva del Consejo.
 
-X. Las demás que señalen otras disposiciones aplicables a la propia Junta Directiva.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+IX. Ordenar la publicación en el Periódico Oficial del Gobierno del Estado de Tabasco, el Reglamento Interior y demás ordenamientos inherentes a la vida administrativa y jurídica del Consejo.
+
+X. Nombrar a los apoderados legales que lo representen ante todo tipo de juicios seguidos ante órganos judiciales, administrativos o del trabajo en que sea parte;
+
+XI. Nombrar a quién deberá representar a la institución en los procedimientos administrativos a que refiere la Ley de Responsabilidades de los Servidores Públicos del Estado; y
+
+XII. Las demás que señalen otras disposiciones aplicables a la propia Junta Directiva.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 33.
 
-Para el debido cumplimiento de los objetivos, funciones y atribuciones del CCYTET, la Dirección General se apoyará en la siguiente estructura:
+Para el debido cumplimiento de los objetivos, funciones y atribuciones del CCYTET, el o la Titular de la Dirección General se apoyará en la siguiente estructura:
 
-I. Dirección General;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+I. Dirección General:
 
 a) Coordinación Técnica;
 
 b) Unidad de Asuntos Jurídicos;
 
 c) Unidad de Acceso a la Información;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+d) Unidad de Control Interno
 
 II. Dirección de Vinculación, Investigación y Desarrollo;
 
@@ -397,29 +487,45 @@ V. Ser persona de amplia solvencia moral y reconocido prestigio.
 
 Son funciones genéricas de las Direcciones y Coordinaciones, las siguientes:
 
-I. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de sus atribuciones;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2014)</small>
 
-II. Formular la propuesta de los programas operativos anuales en cada una de sus áreas, de acuerdo a las necesidades del Estado y someterlos a la consideración del Director General;
+I. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de las funciones correspondientes de las direcciones o coordinaciones;
 
-III. Presentar al Director General la propuesta de solución de los asuntos cuya tramitación les corresponda;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2014)</small>
 
-IV. Formular dictámenes, opiniones e informes que les sean solicitados por el Director General, sobre asuntos y actividades que le competan a cada área;
+II. Formular la propuesta de los programas operativos anuales en cada una de sus áreas, de acuerdo a las necesidades del Estado y someterlos a la consideración del o la Titular de la Dirección General;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+III. Presentar al o la Titular de la Dirección General la propuesta de solución de los asuntos cuya tramitación corresponda a cada dirección o coordinación;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+IV. Formular dictámenes, opiniones e informes que les sean solicitados por el o la Titular de la Dirección General, sobre asuntos y actividades que le competan a cada área;
 
 V. Organizar y coordinar los eventos pertinentes para lograr los objetivos del Consejo;
 
-VI. Coordinar, dirigir y supervisar las tareas realizadas por el personal adscrito;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+VI. Coordinar, dirigir y supervisar las tareas realizadas por el personal a su cargo;
 
 VII. Asesorar técnicamente en asuntos de su competencia a las personas físicas o jurídicas colectivas, que lo requieran;
 
 VIII. Evaluar periódica y sistemáticamente el desarrollo de las funciones que sean competencia de la unidad administrativa a su cargo; y
 
-IX. Las demás que le asignen las leyes, decretos, acuerdos o el Director General.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+IX. Las demás que le asignen las leyes, decretos, acuerdos o le sean encomendadas por el o la Titular de la Dirección General.
 
 ### CAPÍTULO IX. FUNCIONES ESPECÍFICAS DE LAS DIRECCIONES Y COORDINACIONES
 
+> <small>N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 6 DE DICIEMBRE DE 2014, PÁGINAS 12, 19 Y 20.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 36.
 
-Son facultades y obligaciones de la Coordinación Técnica, las siguientes:
+Son funciones genéricas de las Direcciones y Coordinaciones, las siguientes:
 
 I. Coordinar la integración del programa operativo anual del CCYTET;
 
@@ -429,9 +535,23 @@ III. Realizar el seguimiento de la operación de los órganos de gobierno, consu
 
 IV. Integrar las propuestas de programas y proyectos estratégicos a realizar por el CCYTET, planteados por la Dirección General;
 
-V. Coordinar las funciones técnicas de carácter transversal, entre otras, la de diseño gráfico; y
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2014)</small>
 
-VI. Las demás que le otorguen otras disposiciones legales, administrativas, o le sean encomendadas por el Director General.
+V. Regular la administración, manejo, resguardo, conservación, preservación y coordinación de los archivos y documentos de interés público en los términos establecidos en la Ley de Archivos Públicos del Estado de Tabasco y demás disposiciones normativas en la materia.
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+VI. Instrumentar y operar el Centro de Documentación Científica y Tecnológica del CCYTET.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+VII. Coordinar la administración de la infraestructura informática, así como el mantenimiento y desarrollo de los sistemas, bases de datos y sitios web del Consejo;
+
+VIII….(SIC)
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+IX. Las demás que le otorguen otras disposiciones legales, administrativas, o le sean encomendadas por el o la Titular de la Dirección General.
 
 ###### ARTÍCULO 37.
 
@@ -439,31 +559,55 @@ Son facultades y obligaciones de la Unidad de Asuntos Jurídicos, las siguientes
 
 I. Opinar sobre las implicaciones legales que resulten de la implementación de cualquier actividad que el Consejo realice en la consecución de su objeto;
 
-II. Formar parte de la Comisión de Estudios Jurídicos del Gobierno del Estado, presidida por la Consejería Jurídica del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2014)</small>
 
-III. Establecer coordinación con la Consejería Jurídica de Poder Ejecutivo a fin de que el tratamiento de los asuntos jurídicos a cargo del Consejo, sea congruente con el esquema general definido por la referida dependencia;
+II. Formar parte de la Comisión de Estudios Jurídicos del Gobierno del Estado, presidida por el área de asuntos Jurídicos del Poder Ejecutivo;
 
-IV. Representar jurídicamente al Consejo, al Director General y a los servidores públicos adscritos a sus unidades administrativas en los asuntos contenciosos en que sean parte, con motivo de sus funciones, así como intervenir en toda clase de procedimientos judiciales, contenciosos y administrativos en el ámbito de su competencia, ante cualquier autoridad judicial o administrativa;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2014)</small>
 
-V. Validar los instrumentos jurídicos por medio de los cuales el Consejo formalice sus compromisos;
+III. Establecer coordinación con el área jurídica del Poder Ejecutivo, a fin de que el tratamiento de los asuntos jurídicos a cargo del Consejo, sea congruente con el esquema general definido por la referida dependencia del Poder Ejecutivo;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+IV. Representar jurídicamente al Consejo, al titular de la Dirección General, y a los servidores públicos adscritos a sus unidades administrativas en los asuntos contenciosos en que sea parte, con motivo de sus funciones, así como intervenir en toda clase de procedimientos judiciales, contenciosos y administrativos en el ámbito de su competencia, ante cualquier autoridad judicial o administrativa;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+V. Validar los instrumentos jurídicos por medio de los cuales el Consejo formalice compromiso alguno;
 
 VI. Formular las opiniones jurídicas de aquellos instrumentos que le sean turnados al Consejo para ese propósito;
 
 VII. Elaborar y actualizar los instrumentos normativos que regulen el funcionamiento del Consejo;
 
-VIII. Asistir al Director General del Consejo en la representación legal del organismo, en aquellos actos que requieran una participación de carácter legal;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2014)</small>
 
-IX. Certificar copias de documentos que obren en los archivos del Consejo, sólo por mandato expreso de autoridad competente debidamente fundado y motivado;
+VIII. Asistir al o la Titular de la Dirección General del Consejo, en la representación legal del organismo, en aquellos actos que requieran una participación de carácter legal;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+IX. Certificar copias de documentos que obren en los archivos del Consejo, sólo podrán expedirlos por mandato expreso de autoridad competente debidamente fundado y motivado; de conformidad a lo que establece el artículo 10 de la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco;
 
 X. Proporcionar Asesoría Jurídica a los funcionarios del Consejo;
 
 XI. Sistematizar, compilar y difundir la legislación estatal y federal relacionada con los asuntos competencia del Consejo; y
 
-XII. Las demás que le otorguen otras disposiciones legales, administrativas o le sean encomendadas por el Director General.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+XII. Realizar los trámites ante la Secretaría de Gobierno para la publicación de las (sic) normatividad interna del Consejo, en el Periódico Oficial del Gobierno del Estado de Tabasco; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+XIII. Las demás que le otorguen otras disposiciones legales, administrativas, o le sean encomendadas por el o la Titular de la Dirección General.
 
 ###### ARTÍCULO 38.
 
 Corresponde a la Unidad de Acceso a la Información el ejercicio de las atribuciones que establece el artículo 39 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 38.
+
+Bis. Corresponde a la Unidad de Control Interno el ejercicio de las atribuciones que establece el artículo 21 del Reglamento Interior de la Secretaría de Contraloría del Poder Ejecutivo del Estado de Tabasco
 
 ###### ARTÍCULO 39.
 
@@ -487,7 +631,21 @@ VIII. Atender los requerimientos de apoyo de las instituciones de educación sup
 
 IX. Identificar las características de desarrollo tecnológico e innovación necesarias para la creación de nuevos centros de investigación ya sean públicos o privados que requiera el desarrollo del Estado, así como proponer los instrumentos de promoción y financiamiento para lograr su establecimiento; y
 
-X. Las demás que le otorguen otras disposiciones legales, administrativas o le sean encomendadas por el Director General.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+X. Coordinar la Red de Vinculación, Investigación e Innovación Tecnológica del Estado de Tabasco con las Instituciones de Educación Superior, Centros de Investigación, Empresas y Entidades Gubernamentales para incrementar la competitividad del sector productivo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+XI. Coordinar las actividades de administración del Fondo Mixto de Fomento a la Investigación Científica y Tecnológica CONACYT - Gobierno del Estado de Tabasco;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+XII. Realizar cursos, talleres y diplomados para fomentar el desarrollo científico, tecnológico y la innovación, en las Instituciones, Centros de Investigación y Empresas en Tabasco; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+XIII. Las demás que le otorguen otras disposiciones legales, administrativas, o le sean encomendadas por el o la Titular de la Dirección General.
 
 ###### ARTÍCULO 40.
 
@@ -503,7 +661,9 @@ IV. Promover y ejecutar los programas de intercambio de profesores, investigador
 
 V. Instrumentar y operar el Sistema Estatal de Información Científica y Tecnológica, a efecto de conformar inventarios sobre los recursos humanos, materiales y financieros, destinados a la investigación científica y el desarrollo tecnológico en la Entidad; y
 
-VI. Las demás que le otorguen otras disposiciones legales, administrativas o le sean encomendadas por el Director General.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+VI. Las demás que le otorguen otras disposiciones legales, administrativas, o le sean encomendadas por el o la Titular de la Dirección General.
 
 ###### ARTÍCULO 41.
 
@@ -523,7 +683,9 @@ VI. Promover ante la autoridad educativa estatal y otras fuentes de financiamien
 
 VII. Coordinar la gestión de esfuerzos interinstitucionales para difundir en la ciudadanía la formación de una cultura científica; y
 
-VIII. Las demás que le otorguen otras disposiciones legales, administrativas o le sean encomendadas por el Director General.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+VIII. Las demás que le otorguen otras disposiciones legales, administrativas, o le sean encomendadas por el o la Titular de la Dirección General.
 
 ###### ARTÍCULO 42.
 
@@ -533,7 +695,9 @@ I. Formular y ejecutar estrategias de comunicación que permitan posicionar y fo
 
 II. Desarrollar estrategias para elevar los niveles de participación de los medios de comunicación masiva en la tarea de popularizar la ciencia y la tecnología;
 
-III. Coordinar las acciones de actualización de la información contenida en el sitio electrónico del CCYTET en la Internet;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+III. Coordinar las acciones de actualización de la información contenida en el sitio web oficial y redes sociales del CCYTET;
 
 IV. Formular acciones, diseñar y/o elaborar materiales de apoyo para la divulgación de la ciencia y la tecnología;
 
@@ -543,7 +707,9 @@ VI. Coordinar la producción editorial del Consejo y su distribución;
 
 VII. Diseñar y poner en práctica estrategias encaminadas a despertar el interés y a desarrollar las habilidades necesarias para la producción editorial de divulgación científica y tecnológica; y
 
-VIII. Las demás que le otorguen otras disposiciones legales, administrativas, o le encomiende el Director General.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+VIII. Las demás que le otorguen otras disposiciones legales, administrativas, o que le encomiende el o la Titular de la Dirección General.
 
 ###### ARTÍCULO 43.
 
@@ -551,7 +717,9 @@ Son facultades y obligaciones de la Dirección Administrativa las siguientes:
 
 I. Administrar eficientemente los recursos autorizados y disponibles del CCYTET, de acuerdo a la normatividad establecida;
 
-II. Informar en forma oportuna y veraz al Director General del CCYTET ya las Dependencias y Organismos que corresponda, el ejercicio de los recursos financieros;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+II. Informar en forma oportuna y veraz al o la Titular de la Dirección General del CCYTET y a las Dependencias y Organismos que corresponda, el ejercicio de los recursos financieros;
 
 III. Coordinar la integración del presupuesto y Programa Operativo Anual del CCYTET, para su presentación ante las instancias correspondientes;
 
@@ -565,7 +733,9 @@ VII. Coordinar el procedimiento de adquisición de bienes y servicios mediante e
 
 VIII. Determinar los procedimientos necesarios para establecer el control interno de los recursos con que cuenta el Consejo;
 
-IX. Prestar los servicios generales (vigilancia, recepción, conducción de vehículos, fotocopiado, etc.) y de mantenimiento del mobiliario y equipo del Consejo;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+IX. Asegurar la prestación de los servicios generales (vigilancia, recepción, conducción de vehículos, fotocopiado, etc) y mantenimiento de mobiliario y equipo del Consejo;
 
 X. Establecer y ejecutar las medidas de registro, control y desarrollo de los recursos humanos adscritos al Consejo;
 
@@ -577,7 +747,9 @@ XIII. Observar en lo procedente las normas sobre control, fiscalización y audit
 
 XIV. Coordinar la administración, mantenimiento y desarrollo de los sistemas informáticos, bases de datos y página web del Consejo; y
 
-XV. Las demás que le otorguen otras disposiciones legales, administrativas o le sean encomendadas por el Director General.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+XV. Las demás que le otorguen otras disposiciones legales, administrativas, o le sean encomendadas por el o la Titular de la Dirección General.
 
 ###### ARTÍCULO 44.
 
@@ -587,7 +759,9 @@ Para mejorar su funcionamiento, las Direcciones y Coordinaciones deberán de for
 
 Las Unidades Administrativas enumeradas en este Capítulo, contarán con la estructura orgánica necesaria para la realización de sus actividades, siempre que así se autorice en el presupuesto del CCYTET.
 
-### CAPÍTULO X. DE LAS COMISIONES ESPECIALES, TEMPORALES O PERMANENTES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO X. DE LAS COMISIONES ESPECIALES, TEMPORALES O PERMANENTES DE LA JUNTA DIRECTIVA
 
 ###### ARTÍCULO 46.
 
@@ -625,25 +799,33 @@ Las ausencias temporales de los directores y titulares de unidad administrativa,
 
 ### CAPÍTULO XII. DE LAS RELACIONES LABORALES
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 54.
 
-Las relaciones de trabajo entre el CCYTET y sus trabajadores, se regularán por las disposiciones jurídicas aplicables.
+Las relaciones de trabajo entre el CCYTET y sus trabajadores, se regularan por las disposiciones jurídicas aplicables a los organismos públicos descentralizados o los que más favorezcan a los trabajadores.
 
-Se consideran categorías de confianza las de Director General, directores de área, subdirectores, jefes de departamento, jefes de área, asesores y en general las que tienen como propósito realizar funciones de dirección, inspección, supervisión, fiscalización, vigilancia y trabajos exclusivos de los titulares.
+Son servidores públicos de confianza el (la) Titular de la Dirección General, el (la) Asesor (ra) jurídico (ca), los (las) Titulares de las Direcciones de Área, Subdirecciones, coordinaciones, Jefes (as) de Departamento, el primer nivel de Jefes (as) de Área, Asesores (as), Secretarías (os) Particulares y en general el personal que desempeñe tareas de inspección, supervisión, fiscalización o vigilancia, manejo de fondos o trabajos exclusivos de los titulares y los que consigne con este carácter el tabulador de sueldos y salarios autorizado para el CCYTET.
 
 ## TRANSITORIOS
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO PRIMERO.
 
-Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO SEGUNDO.
 
-Se abroga el Reglamento Interior del Consejo de Ciencia y Tecnología del Estado de Tabasco, de fecha 29 de junio de 2004 y publicado en Suplemento I al Periódico Oficial, número 6498 de fecha 15 de diciembre de 2004; así como su reforma y adición posterior.
+Se reforman y adicionan algunas disposiciones al Reglamento Interior del Consejo de Ciencia y Tecnología del Estado de Tabasco, expedido en fecha 05 de febrero de 2009 y publicado en Suplemento F del Periódico Oficial del Gobierno de Tabasco, número 6941 de fecha 14 de marzo de 2009.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO TERCERO.
 
-Los casos no previstos en este Reglamento, serán resueltos por la Junta Directiva o el Director General del Consejo, de conformidad con la competencia que a cada uno corresponda.
+Los casos no previstos en este Reglamento, serán resueltos por la H. Junta Directiva del Consejo o por el o la Titular de la Dirección General del Consejo, de conformidad con la competencia que corresponda.
 
 ###### ARTÍCULO CUARTO.
 
@@ -651,7 +833,7 @@ Cuando en otras disposiciones legales se dé una denominación distinta a alguna
 
 ###### ARTÍCULO QUINTO.
 
-A efecto de dar continuidad a los trabajos del Consejo Técnico previsto por el artículo 20 de este Reglamento, en un término de 60 días el Director General elaborará la propuesta de reinstalación de dicho Consejo.
+(DEROGADO, P.O. 6 DE DICIEMBRE DE 2014)
 
 ###### ARTÍCULO SEXTO.
 
@@ -676,3 +858,9 @@ SECRETARIO DE EDUCACIÓN.
 BIOL. MIGUEL O. CHÁVEZ LOMELÍ
 
 DIRECTOR GENERAL DEL CONSEJO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE TABASCO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE DICIEMBRE DE 2014.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 6 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE TABASCO.
