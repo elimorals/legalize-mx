@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "2014-07-15"
+last_updated: "2014-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO 951 , PUBLICADO EN EL P.O. 28 DE MARZO DE 2012, TODA MENCIÓN CONTENIDA EN LEYES , REGLAMENTOS Y, EN GENERAL, CUALQUIER DISPOSICIÓN RESPECTO DE LAS FUNCIONES DESEMPEÑADAS POR LA SECRETARÍA GENERAL DE GOBIERNO, EN MATERIA DE PREVENCIÓN Y REINSERCIÓN SOCIAL, ASÍ COMO DEL SISTEMA DE MENORES INFRACTORES, SE ENTENDERÁN AHORA REFERIDAS A LA SECRETARÍA DE SEGURIDAD PÚBLICA A LA CUAL SE HAN TRANSFERIDO, HASTA EN TANTO SE LLEVEN A CABO LAS ADECUACIONES CORRESPONDIENTES.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -501,7 +501,7 @@ a) Formular programas de desarrollo social y regional de carácter integral, en 
 
 b) Impulsar en las políticas públicas estatales y municipales, así como en la iniciativa privada, un compromiso compartido y corresponsable para la superación de la pobreza y la marginación, poniendo a la persona y a la familia en el eje de la política social.
 
-c) Coordinar la instrumentación de programas de desarrollo regional y microrregional (sic), promoviendo con los municipios la participación de los agentes públicos, privados y sociales, en la ejecución de proyectos detonadores del desarrollo regional.
+c) Coordinar la instrumentación de programas de desarrollo regional y microrregional, promoviendo con los municipios la participación de los agentes públicos, privados y sociales, en la ejecución de proyectos detonadores del desarrollo regional.
 
 d) Promover la construcción de la infraestructura y el equipamiento indispensable para el desarrollo social y regional de los municipios, comunidades y colonias populares, ejecutando las acciones que le correspondan.
 
@@ -529,7 +529,7 @@ VI. Promover, coordinadamente con las demás instituciones competentes y organis
 
 > <small>(REFORMADA, P.O. 19 DE JULIO DE 2007)</small>
 
-VII. Administrar los recursos del Fondo Estatal para la Infraestructura Social del Estado, derivado del Ramo 33, canalizando su ejercicio al financiamiento de obras y acciones sociales básicas, y a inversiones que beneficien directamente a sectores de la población que se encuentren en condiciones de rezago social y pobreza extrema; Así (sic) mismo, realizar el cálculo de distribución de los fondos para la Infraestructura Social Municipal, y para el Fortalecimiento de los Municipios, derivados del Ramo 33, entre los municipios del Estado, de conformidad con las normas y procedimientos que anualmente determine la Federación;
+VII. Administrar los recursos del Fondo Estatal para la Infraestructura Social del Estado, derivado del Ramo 33, canalizando su ejercicio al financiamiento de obras y acciones sociales básicas, y a inversiones que beneficien directamente a sectores de la población que se encuentren en condiciones de rezago social y pobreza extrema; Así mismo, realizar el cálculo de distribución de los fondos para la Infraestructura Social Municipal, y para el Fortalecimiento de los Municipios, derivados del Ramo 33, entre los municipios del Estado, de conformidad con las normas y procedimientos que anualmente determine la Federación;
 
 > <small>(REFORMADA, P.O. 19 DE JULIO DE 2007)</small>
 
@@ -1733,6 +1733,12 @@ DÉCIMO. En cumplimiento a la Ley que expide este Decreto, el titular del Poder 
 
 DÉCIMO PRIMERO. En términos de la Ley de Entrega Recepción de los Recursos Públicos del Estado, las secretarías, General de Gobierno; y de Finanzas entregarán a la Junta Directiva del Instituto Registral y Catastral del Estado, los bienes y recursos públicos que tenían bajo su administración con la consiguiente intervención que corresponda a la Contraloría General del Estado.
 
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2014)</small>
+
+DÉCIMO SEGUNDO. La obligación de los ayuntamientos de presentar al Congreso del Estado, sus proyectos de valores unitarios de suelo y construcción, antes del quince de octubre de cada año, prevista en la fracción III del artículo 78 de esta Ley, será aplicable a partir del año 2015.
+
+Asimismo, la determinación prevista en el artículo 84 de este Ordenamiento, relativa a que el Congreso del Estado apruebe anualmente los valores unitarios de suelo y construcción que presenten los ayuntamientos, también será observable a partir del año 2015.
+
 P.O. 2 DE JULIO DE 2014.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -1756,3 +1762,7 @@ CUARTO. Los ayuntamientos de la Entidad, contarán con treinta días naturales a
 QUINTO. Las concesiones otorgadas hasta antes de la entrada en vigor de este Decreto, continuarán surtiendo sus efectos jurídicos en términos de las condiciones en que fueron expedidas.
 
 SEXTO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE DICIEMBRE DE 2014.
+
+ÚNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
