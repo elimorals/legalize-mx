@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-proteccion-de-los-derechos-de-las-ninas-ninos-y-409
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-10"
-last_updated: "2014-05-14"
+last_updated: "2014-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TERMINO PERSONAS CON CAPACIDADES DIFERENTES, SE ENTENDERÁ QUE CORRESPONDE AL TERMINO PERSONAS CON DISCAPACIDAD.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 10 de septiembre de 2004.
 
@@ -759,9 +759,41 @@ Al presentarse alguno de los supuestos a que se hace mención en los artículos 
 
 Cuando el Ministerio Público lo estime necesario, dispondrá que las niñas, niños y adolescentes o sus familias, sigan un tratamiento psicológico ante la instancia correspondiente a fin de mejorar el ambiente familiar, o cuando el daño traiga como consecuencia la comisión de un delito, ejercitará la acción ante las instancias competentes.
 
-### CAPITULO UNICO. DE LAS SANCIONES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 8 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO TERCERO. DE LA PREVENCIÓN DEL ACOSO ESCOLAR
+
+> <small>(ADICIONADO, G.G. 8 DE DICIEMBRE DE 2014)</small>
+
+Artículo 60 bis.- Se considera acoso escolar cuando al menos una persona se sienta ofendida en una interacción en la que participan dos o más individuos y se presente de manera reiterada en ámbitos escolares.
+
+Para la prevención y erradicación del acoso escolar se consideran como partes a tratar:
+
+a) Agresor, entendiendo a éste como el sujeto activo de la agresión;
+
+b) Agredido, es quien recibe el acoso por parte del agresor;
+
+c) Auspiciadores, son quienes favorecen la conducta violenta del agresor, como testigos pasivos o incitadores de la violencia.
+
+> <small>(ADICIONADO, G.G. 8 DE DICIEMBRE DE 2014)</small>
+
+Artículo 60 ter.- La Procuraduría de la Defensa del Menor y la Familia, tendrá competencia para la prevención y eliminación de conductas de acoso escolar en las escuelas públicas y privadas del Estado de México, así como el control estadístico de incidencia.
+
+> <small>(ADICIONADO, G.G. 8 DE DICIEMBRE DE 2014)</small>
+
+Artículo 60 quáter.- Para efectos de prevenir y en su caso sancionar el acoso escolar, la Procuraduría de la Defensa del Menor y la Familia, promoverá y creará medidas de prevención en las escuelas con las siguientes directrices:
+
+a) El generar aptitudes idóneas y eficaces de defensa en los niños, niñas y adolescentes agredidos;
+
+b) Desalentar las conductas violentas de los agresores;
+
+c) Crear conductas efectivas de rechazo al acoso escolar de los niños, niñas y adolescentes para evitar que funcionen como auspiciadores;
+
+d) Promover la cultura de la paz y el respeto a la dignidad de la persona.
 
 ## TITULO SEPTIMO. DE LA INOBSERVANCIA DE LA LEY
+
+### CAPITULO UNICO. DE LAS SANCIONES
 
 ###### ARTICULO 61.
 
@@ -890,3 +922,11 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Cuando en los ordenamientos jurídicos estatales se haga referencia a la Secretaría de Finanzas, Planeación y Administración; de Desarrollo Urbano y Obras Públicas; de Educación, Cultura y Bienestar Social; del Trabajo y de la Previsión Social y, de Ecología, se entenderá, respectivamente, a la Secretaría de Finanzas; de Desarrollo Urbano; de Educación, de Trabajo y, de Medio Ambiente.
+
+G.G. 8 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
