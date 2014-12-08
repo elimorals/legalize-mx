@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-padron-vehicular-del-estado-de-aguascalientes-37
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-01"
-last_updated: "2013-12-31"
+last_updated: "2014-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37946&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO DEL PADRÓN VEHICULAR DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 1 de marzo de 2004.
 
@@ -131,9 +131,13 @@ III. Acreditar la legal y definitiva estancia en el país de los vehículos de p
 
 IV. Entregar las placas o la constancia de baja del Padrón vehicular respectiva;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2014)</small>
 
-V. Tratándose de vehículos inscritos en el Padrón de otras Entidades Federativas, o que sin estarlo se acredite la propiedad con documentos expedidos en otro Estado y aquellos que presenten aviso de baja de placas del servicio de transporte público federal otorgado por La Secretaría de Comunicaciones y Transportes, deberán solicitar la constancia de verificación de documentos que amparan la propiedad vehicular, así como la revisión física del vehículo pagando los derechos contemplados en la Ley de Ingresos del Estado del ejercicio fiscal que transcurra, a efecto de se expida la constancia respectiva; excepto aquellos vehículos que hayan sido refacturados por empresas no domiciliadas en el Estado, siempre y cuando quién expide dicha documentación sea el último propietario registrado en el Padrón Vehicular del Estado de Aguascalientes en el ejercicio fiscal en que se realice el trámite;
+V. Tratándose de vehículos inscritos en el Padrón de otras Entidades Federativas, o que sin estarlo se acredite la propiedad con documentos expedidos en otro Estado y aquellos que presenten aviso de baja de placas del servicio de transporte público federal otorgado por la Secretaría de Comunicaciones y Transportes, deberán solicitar la constancia de verificación de documentos que amparan la propiedad vehicular, así como la revisión física del vehículo para lo cual deberá haber pagado previamente los derechos contemplados en la Ley de Ingresos del Estado del ejercicio fiscal que transcurra, y haber solicitado una cita para la revisión física del vehículo, a efecto de (sic) se expida la constancia respectiva.
+
+El trámite de citas para la revisión física de vehículos a que se refiere la presente fracción, será regulado por la Secretaría de acuerdo al Manual para el sistema de citas que al efecto se emita.
+
+Se exceptúa de la obligación de solicitar la verificación y revisión a que se refiere el primer párrafo a los vehículos que hayan sido refacturados por empresas no domiciliadas en el Estado, siempre y cuando quién expida dicha documentación sea el último propietario registrado en el Padrón Vehicular del Estado de Aguascalientes en el ejercicio fiscal en que se realice el trámite;
 
 > <small>(REFORMADA, P.O. 1 DE MARZO DE 2010)</small>
 
@@ -154,6 +158,18 @@ Para los efectos del último párrafo del Artículo 7° de este Reglamento, se d
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 Además de los requisitos anteriores, los vehículos de procedencia extranjera distintos de los importados por el fabricante, ensamblador, distribuidor o comerciante en el ramo de vehículos, que acrediten la legal estancia en el país, así como en los casos que el propietario solicite placas de Auto Antiguo, y los que al solicitar cambio de propietario o baja por venta entreguen Acta Informativa levantada ante la Procuraduría General de Justicia del Estado de Aguascalientes, por el extravío de una o ambas placas de circulación, deberán ser presentados ante la Secretaría para proceder a la toma de calcas respectivas.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### ARTICULO 8°-A.
+
+Cuando se exija la revisión física de vehículos en términos del presente Reglamento, la autoridad que realice ésta revisión, contará con un plazo de quince días hábiles para emitir el documento donde determine la situación legal del vehículo.
+
+El término señalado en el párrafo anterior, comenzará a contarse a partir del día siguiente a aquél en que la autoridad efectúe la inspección que corresponda, siempre y cuando el interesado presente el vehículo para su revisión física el día y hora citados, ya que de no presentarlo la autoridad no podrá emitir la constancia respectiva
+
+Si transcurrido el plazo a que se refiere el primer párrafo de este artículo, la autoridad competente no emite el documento donde determine la situación legal del vehículo, se tendrán como validados los documentos por la autoridad, y como revisados sin observación que impida el trámite de inscripción al interesado en el Padrón.
+
+Los interesados deberán presentarse dentro de los 30 días hábiles siguientes a la fecha de la constancia de inspección física de vehículo, en las oficinas de la Secretaría, a efecto de solicitar el trámite de inscripción del vehículo en el Padrón. Una vez transcurrido dicho plazo perderá vigencia dicho documento y el interesado podrá optar por solicitar nuevamente la revisión física de su vehículo.
 
 ###### ARTICULO 9o.
 
@@ -287,7 +303,9 @@ Los acreditamientos y la comprobación a que se refiere el tercer párrafo del A
 
 En los trámites a que se refiere este Reglamento, los interesados podrán identificarse mediante la presentación de cualquiera de los siguientes documentos:
 
-I. Credencial para votar expedida por el Instituto Federal Electoral.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2014)</small>
+
+I. Credencial para votar expedida por el Instituto Federal Electoral o por el Instituto Nacional Electoral.
 
 II. Cédula profesional.
 
@@ -295,7 +313,13 @@ III. Licencia de conducir.
 
 IV. Cartilla del Servicio Militar Nacional.
 
-V. Pasaporte.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2014)</small>
+
+V. Pasaporte o Certificado de Matrícula Consular.
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2014)</small>
+
+VI. Documento migratorio emitido por la autoridad competente.
 
 Los documentos a que se refiere este artículo deberán estar vigentes al momento de realizar el trámite.
 
@@ -335,9 +359,9 @@ La fecha de pago consignada en los documentos señalados en las fracciones I a I
 
 Cuando no sea posible presentar cualquiera de los comprobantes señalados anteriormente, el interesado podrá presentar el contrato mediante el cual se le conceda el uso o goce del inmueble correspondiente a su domicilio, anexando además el último recibo de pago con requisitos fiscales. En caso de que no se cuente con dicho recibo, se podrá presentar en su defecto, la identificación y el documento donde conste el pago del impuesto predial correspondiente al último periodo causado relativos al propietario del inmueble.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2014)</small>
 
-Se entenderá que el interesado cumple con lo dispuesto en este articulo, cuando el domicilio manifestado en cualquiera de los comprobantes señalados en las fracciones I a la IV de este artículo coincida con el consignado en la credencial expedida por el Instituto Federal Electoral o cuando personal de la Secretaría realice una visita para la verificación de datos en ese domicilio.
+Se entenderá que el interesado cumple con lo dispuesto en este articulo, cuando el domicilio manifestado en cualquiera de los comprobantes señalados en las fracciones I a la IV de este artículo coincida con el consignado en la credencial expedida por el Instituto Federal Electoral, o por el Instituto Nacional Electoral, o cuando personal de la Secretaría realice una visita para la verificación de datos en ese domicilio.
 
 ###### ARTICULO 24.
 
@@ -345,11 +369,11 @@ Tratándose de vehículos por los cuales el interesado solicite su inscripción 
 
 Cuando la documentación comprobatoria proceda de otra Entidad Federativa, a efecto de comprobar su veracidad, la Secretaría solicitará a la autoridad recaudatoria correspondiente la autentificación de la misma, por lo que en tanto no se ratifique su validez no se atenderá el trámite solicitado, excepto en los casos en que el interesado, acepte expresamente responder solidariamente del impuesto federal que no se hubiere cubierto en cuyo caso la Secretaría autorizará el trámite correspondiente.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 25.
 
-En los trámites de inscripción, cambio de propietario o de servicio, canje y baja de un vehículo en el Padrón, cuando no sea posible regresar una o ambas placas de circulación, el interesado deberá de entregar, en su caso, la placa con la que cuente y, anexar acta informativa en donde conste la manifestación del extravío de la o de las placas, levantada ante la Procuraduría General de Justicia del Estado de Aguascalientes y presentar el vehículo para su verificación física en la Secretaría, salvo en los casos de robo o destrucción, baja administrativa y cuando así lo considere la propia Secretaría.
+En los trámites de inscripción, cambio de propietario o de servicio canje y baja de un vehículo en el Padrón, cuando no sea posible regresar una o ambas placas de circulación, el interesado deberá de entregar, en su caso, la placa con la que cuente y, anexar acta informativa en donde conste la manifestación del extravío de la o de las placas, levantada ante la Procuraduría General de Justicia y presentar el vehículo para su verificación física en la Secretaría, salvo en los casos de canje, robo o destrucción, baja administrativa y cuando así lo considere la propia Secretaría.
 
 ###### ARTICULO 26.
 
@@ -453,7 +477,7 @@ EL SECRETARIO DE FINANZAS Y ADMINISTRACION,
 
 Lic. Lic. Juan José León Rubio
 
-> <small>N. DE E. VER ANEXO I Y FORMATO EN LA PRIMERA SECCION DEL P.O. DE 1 DE MARZO DE 2004, DE LA PAGINA 11 A LA 12.</small>
+> <small>N. DE E. VER ANEXO I Y FORMATO EN LA PRIMERA SECCIÓN DEL P.O. DE 1 DE MARZO DE 2004, DE LA PAGINA 11 A LA 12.</small>
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
@@ -478,3 +502,9 @@ P.O. 31 DE DICIEMBRE DE 2013.
 PRIMERO.- Publíquese las presentes Reformas en el Periódico Oficial del Estado de Aguascalientes.
 
 SEGUNDO.- Las presentes Reformas entrarán en vigor el día 1 ° de enero de 2014.
+
+P.O. 8 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese las presentes reformas y adición, en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Las presentes Reformas entrarán en vigor el día siguiente al de su publicación
