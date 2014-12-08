@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-de-gestion-e-innovacion-48
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-02-06"
-last_updated: "2010-06-21"
+last_updated: "2014-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48722&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "AGU"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE GESTION E INNOVACION
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE GESTION E INNOVACION
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE GESTIÓN E INNOVACIÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA OFICIALÍA MAYOR DEL GOBIERNO DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 8 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de febrero de 2006.
 
@@ -410,7 +412,7 @@ XV. Asesorar y brindar asistencia técnica para adquirir bienes y servicios a la
 
 XVI. Los demás que le atribuya expresamente el Secretario y otros ordenamientos jurídicos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE JUNIO DE 2010)</small>
 
 ### CAPITULO VI. De la Coordinación Especializada en la Gestión del Capital Humano
 
@@ -672,10 +674,22 @@ ING. FLORENTINO REYES BERLIE,
 
 Secretario de Gestión e Innovación.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 21 DE JUNIO DE 2010.
 
 PRIMERO.- El presente Decreto de reforma a este reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- La Dirección General Administrativa realizará los tramites necesarios para realizar el ajuste presupuestal con motivo de la nueva organización que se propone en el presente Reglamento.
+
+P.O. 8 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial del Gobierno del Estado de Aguascalientes.
+
+SEGUNDO.- Este reglamento entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+TERCERO.- Se abroga el Reglamento Interior de la Secretaría de Gestión e Innovación, publicado en el Periódico Oficial del Estado de Aguascalientes en fecha 6 de febrero del año 2006 y cuya última reforma fue publicada en fecha 21 de junio del 2010.
+
+CUARTO.- Las referencias a la Secretaría de Gestión e Innovación que hagan las leyes y demás disposiciones administrativas, en adelante se entenderán realizadas a la Oficialía Mayor.
+
+QUINTO.- Se concede un plazo de ciento ochenta días naturales para adecuar los Manuales, Lineamientos y demás disposiciones relacionadas con el contenido del presente.
