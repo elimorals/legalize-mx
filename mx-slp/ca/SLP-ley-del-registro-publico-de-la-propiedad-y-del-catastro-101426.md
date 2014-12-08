@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-registro-publico-de-la-propiedad-y-del-catastro-101426"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-05"
-last_updated: "2014-06-05"
+last_updated: "2014-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SLP"
 
 LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL CATASTRO PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A LOS TREINTA DÍAS SIGUIENTES A SU PUBLICACIÓN.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 05 de junio de 2014.
 
@@ -1483,7 +1481,7 @@ III. Proponer, a la Junta la estructura que deba adoptar la administración, a f
 
 IV. Crear los manuales operativos de la administración, con base en la legislación y la normatividad propia del Instituto;
 
-V. Administrar los recursos humanos, materiales y financieros del Instituto, de acuerdo con lo establecido en las normas legales aplicables, y (sic)
+V. Administrar los recursos humanos, materiales y financieros del Instituto, de acuerdo con lo establecido en las normas legales aplicables, y
 
 VI. Administrar y prestar los servicios inherentes a la integración electrónica de la información de las bases de datos del Registro Público de la Propiedad y del Catastro del Estado.
 
@@ -1703,6 +1701,12 @@ DÉCIMO. En cumplimiento a la Ley que expide este Decreto, el titular del Poder 
 
 DÉCIMO PRIMERO. En términos de la Ley de Entrega Recepción de los Recursos Públicos del Estado, las secretarías, General de Gobierno; y de Finanzas entregarán a la Junta Directiva del Instituto Registral y Catastral del Estado, los bienes y recursos públicos que tenían bajo su administración, con la consiguiente intervención que corresponda a la Contraloría General del Estado.
 
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2014)</small>
+
+DÉCIMO SEGUNDO. La obligación de los ayuntamientos de presentar al Congreso del Estado, sus proyectos de valores unitarios de suelo y construcción, antes del quince de octubre de cada año, prevista en la fracción III del artículo 78 de esta Ley, será aplicable a partir del año 2015.
+
+Asimismo, la determinación prevista en el artículo 84 de este Ordenamiento, relativa a que el Congreso del Estado apruebe anualmente los valores unitarios de suelo y construcción que presenten los ayuntamientos, también será observable a partir del año 2015.
+
 Lo tendrá entendido el Ejecutivo del Estado, lo hará publicar, circular y obedecer.
 
 D A D O en el Centro Cultural de la Huasteca Potosina, Ciudad Valles, declarado recito oficial por única ocasión, del Honorable Congreso del Estado, el trece de mayo de dos mil catorce.
@@ -1724,3 +1728,9 @@ El Secretario General de Gobierno
 Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE DICIEMBRE DE 2014.
+
+ÚNICO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
