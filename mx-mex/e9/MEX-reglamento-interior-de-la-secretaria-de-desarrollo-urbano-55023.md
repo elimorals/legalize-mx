@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-de-desarrollo-urbano-55023
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-03-22"
-last_updated: "2014-10-02"
+last_updated: "2014-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "MEX"
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO URBANO DEL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE OCTUBRE DE 2014.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE DICIEMBRE DE 2014.</small>
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 22 de marzo de 2007.
 
@@ -115,9 +117,9 @@ XIV. Proponer al titular del Ejecutivo del Estado, a través de la Consejería J
 
 XV. Suscribir acuerdos, convenios y contratos en las materias competencia de la Secretaría, de conformidad con las disposiciones legales aplicables.
 
-> <small>(REFORMADA, G.G. 2 DE OCTUBRE DE 2014)</small>
+> <small>(F. DE E. G.G. 8 DE DICIEMBRE DE 2014)</small>
 
-XVI. Emitir licencias de uso del suelo, de cambio de uso del suelo, de densidad e intensidad y de altura de edificaciones, para conjuntos urbanos que se ubiquen en territorio de municipios a los que aún no se les haya transferido formalmente dichas funciones.
+XVI. Establecer lineamientos para la regularización de la tenencia de la tierra en el Estado.
 
 > <small>(REFORMADA, G.G. 2 DE OCTUBRE DE 2014)</small>
 
@@ -255,9 +257,9 @@ XIV. Dictaminar, en el ámbito de competencia de la Secretaría, las propuestas 
 
 XV. Establecer la congruencia del Plan Estatal de Desarrollo Urbano con el Plan de Desarrollo del Estado de México, así como con el Plan Nacional de Desarrollo, los programas sectoriales y los programas de ordenación de las zonas conurbadas interestatales.
 
-> <small>(ADICIONADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+(REFORMADA, G.G. 2 DE OCTUBRE DE 2014) (F. DE E. G.G. 8 DE DICIEMBRE DE 2014)
 
-XVI. Emitir licencias de uso de suelo, así como autorizar cambios de uso de suelo, de densidad, intensidad o de altura de edificaciones, para la integración de conjuntos urbanos que se ubiquen en el territorio de municipios a los que aún no se les han transferido dichas funciones.
+XVI. Emitir licencias de uso del suelo, de cambio de uso del suelo, de densidad e intensidad y de altura de edificaciones, para conjuntos urbanos que se ubiquen en territorio de municipios a los que aún no se les haya transferido formalmente dichas funciones.
 
 > <small>(REFORMADA, G.G. 2 DE OCTUBRE DE 2014)</small>
 
@@ -277,9 +279,9 @@ I. Autorizar conjuntos urbanos habitacionales de hasta mil viviendas; industrial
 
 II. Elaborar los acuerdos de autorización de conjuntos urbanos, subrogación del titular, cambio de tipo, revocación, extinción por renuncia o cualquier otro que corresponda expedir al Secretario.
 
-> <small>(REFORMADA, G.G. 2 DE OCTUBRE DE 2014)</small>
+(REFORMADA, G.G. 2 DE OCTUBRE DE 2014) (F. DE E. G.G. 8 DE DICIEMBRE DE 2014)
 
-III. Autorizar el inicio de ejecución de obras; la enajenación de lotes y la promoción del desarrollo; fideicomitir, gravar o afectar lotes; prórroga para ejecución de obras; aprobación de proyectos arquitectónicos de equipamiento urbano, relotificaciones; la sustitución, liberación o cancelación de garantías; condominios; proyectos arquitectónicos de equipamiento urbano; localización de áreas de donación fuera del desarrollo; sustitución de obras de equipamiento urbano y su ubicación fuera; respecto de los fraccionamientos y conjuntos urbanos autorizados.
+III. Autorizar el inicio de ejecución de obras; la enajenación de lotes; prórroga para ejecución de obras; proyectos arquitectónicos de las obras de equipamiento urbano; relotificaciones; la sustitución, liberación o cancelación de garantías; condominios; localización de áreas de donación fuera del desarrollo; sustitución de obras de equipamiento urbano y su ubicación fuera; respecto de los fraccionamientos y conjuntos urbanos autorizados.
 
 > <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
 
@@ -393,9 +395,9 @@ VII. Determinar el incumplimiento de las obligaciones previstas en los acuerdos 
 
 VIII. (DEROGADA, G.G. 2 DE SEPTIEMBRE DE 2009)
 
-> <small>(REFORMADA, G.G. 2 DE OCTUBRE DE 2014)</small>
+(REFORMADA, G.G. 2 DE OCTUBRE DE 2014) (F. DE E. G.G. 8 DE DICIEMBRE DE 2014)
 
-IX. Autorizar los proyectos ejecutivos y memoria de cálculo de las obras de equipamiento urbano, establecidas en los acuerdos de autorización de fraccionamientos, conjuntos urbanos, subdivisiones y condominios.
+IX. Solicitar los proyectos arquitectónicos de las obras de equipamiento urbano, establecidas en los acuerdos de autorización de fraccionamientos, conjuntos urbanos, subdivisiones y condominios.
 
 > <small>(REFORMADA, G.G. 2 DE OCTUBRE DE 2014)</small>
 
