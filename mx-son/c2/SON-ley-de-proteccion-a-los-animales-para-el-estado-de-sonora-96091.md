@@ -4,7 +4,7 @@ identifier: "SON-ley-de-proteccion-a-los-animales-para-el-estado-de-sonora-96091
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-27"
-last_updated: "2014-11-03"
+last_updated: "2014-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96091&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,6 +25,8 @@ LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SONORA
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE NOVIEMBRE DE 2014.
 
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 8 DE DICIEMBRE DE 2014.</small>
+
 Ley publicada en la Sección VII del Boletín Oficial del Estado de Sonora, el jueves 27 de junio de 2013.
 
 GUILLERMO PADRÉS ELÍAS, Gobernador del Estado Libre y Soberano de Sonora, a sus habitantes sabed:
@@ -39,13 +41,21 @@ EL H. CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SONORA, EN NOMBRE DEL PUEBLO, TIEN
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SONORA
 
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
 ### CAPÍTULO I. Normas preliminares
+
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 1.
 
 La presente Ley es de observancia general en el Estado de Sonora y tiene por objeto proteger y garantizar el bienestar de los animales domésticos, evitando que se les maltrate o martirice.
+
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 2.
 
@@ -67,17 +77,25 @@ VII.- Promover el respeto y consideración hacia estos animales; y
 
 VIII.- Proteger la salud y el bienestar público, controlando la población animal de perros y gatos.
 
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 3.
 
 Son animales domésticos aquéllos que a través de la historia han entrado en un proceso de domesticación, mansedumbre y dependencia con el ser humano, el cual se sirve de éstos para cubrir necesidades básicas como la convivencia, la alimentación, el trabajo, el deporte y la compañía, entre otras.
+
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 4.
 
 Toda persona tiene la obligación de brindar un trato digno y respetuoso a cualquier animal doméstico, entendiéndose por tal la aplicación de las medidas que para evitar dolor o angustia durante su posesión o propiedad, captura, traslado, exhibición, comercialización, adiestramiento y sacrificio, establecen esta ley, su Reglamento, las normas oficiales mexicanas y toda disposición jurídica relacionada con el tema.
 
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 5.
 
 Se considerarán como faltas sancionables en los términos de esta Ley y su Reglamento, las conductas previstas en los mismos por parte de su propietario o poseedor, así como de los encargados de su guarda o custodia o terceros que entren en relación con ellos.
+
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 6.
 
@@ -103,43 +121,67 @@ i) Descuidar su morada y las condiciones de aire, abrigo, alimento, movilidad, h
 
 j) Los actos u omisiones carentes de un motivo razonable o legítimo que sean susceptibles de causarles dolores, sufrimientos considerables o afectación grave de su salud.
 
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 7.
 
 Los particulares que incumplan con los principios y obligaciones establecidos en la presente Ley, estarán impedidos de recuperar a un animal hasta que, a juicio de la autoridad, desaparezcan en su totalidad las causas por las cuales hayan sido sancionados.
+
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 8.
 
 Queda prohibido en el Estado de Sonora, otorgar permisos, licencias y cualquier tipo de autorización municipal para la realización de corridas de toros, novillos y becerros, asimismo, para los denominados rejoneos. Quedan excluidos de los efectos de esta Ley las peleas de gallos, las charreadas y los jaripeos, siempre y cuando se realicen conforme al Reglamento expedido por la autoridad municipal.
 
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
 ### CAPÍTULO II. De las autoridades
+
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 9.
 
 Dentro del ámbito de sus respectivas jurisdicciones, corresponde a los Ayuntamientos vigilar y exigir el cumplimiento de esta Ley, así como imponer las sanciones previstas en la misma.
 
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 10.
 
 El Estado, los particulares, las sociedades protectoras de animales y las demás asociaciones constituidas para ese fin, prestarán su cooperación para efecto de alcanzar los fines que persigue la presente ley.
+
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 11.
 
 Los ayuntamientos y el Estado, en el ámbito de sus facultades, deberán contar con campañas y programas educativos sobre la cultura de protección a los animales, incluyéndolos en los programas educativos de la Secretaría de Educación y Cultura; asimismo, deberán contar con un departamento o área educativa en los antirrábicos municipales para difundir los cuidados a los animales, con base en las disposiciones de la presente ley en materia de trato digno y respetuoso.
 
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
 ## TÍTULO SEGUNDO. DE LA PROTECCIÓN DE LOS ANIMALES
 
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
 ### CAPITULO I. De las Obligaciones y Prohibiciones
+
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 12.
 
 Todo propietario de animales deberá registrar a sus mascotas ante la autoridad municipal, quien a su vez llevará un control para poder dar rastreabilidad a los animales que deambulan en vía pública; asímismo, deberán proporcionar la información que se le solicite, sea por requerimiento legal o a través de encuestas autorizadas por el Municipio y/o el Estado.
 
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 13.
 
 Para efectos de prevenir una infección o epidemia en la población, todo propietario o poseedor debe dar aviso a la autoridad municipal de la existencia de alguna enfermedad o conducta anormal de su animal.
 
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 14.
 
 La tenencia de cualquier animal obliga a su propietario o poseedor, a atender las enfermedades propias de su especie, así como a proporcionarle los tratamientos veterinarios preventivos y correctivos.
+
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 15.
 
@@ -147,25 +189,37 @@ El propietario, poseedor o encargado de un animal tiene la obligación de manten
 
 Las indemnizaciones correspondientes serán exigidas mediante el procedimiento que señalen las leyes aplicables, independientemente de que se sancione al responsable en términos del Reglamento.
 
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 16.
 
 Se prohíbe el uso de animales vivos para prácticas y competencias de tiro al blanco o el entrenamiento de animales de guardia, caza, carreras, de ataque o para verificar su agresividad.
+
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 17.
 
 Los perros y gatos deberán portar la placa de identificación que contenga: nombre del animal, nombre y domicilio del propietario e identificación oficial vigente de vacunación antirrábica, número de registro expedido por la autoridad municipal, especificación en caso de que cuente con esterilización, el cual deberá ser un collar emitido por la autoridad competente.
 
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 18.
 
 Con el fin de asegurar la convivencia pacífica del animal con la sociedad que le rodea y para efecto de poder transitar en la vía pública con éste, es obligación del propietario, poseedor o encargado, recoger sus heces y sujetarlo con lazo, cadena u otro medio semejante que le permita tenerlo bajo su control y dominio, con excepción de los collares de castigo.
+
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 19.
 
 Queda prohibido llevar un animal a protestas, marchas, manifestaciones o plantones sin las debidas precauciones que garanticen la seguridad del propio animal y de las personas, con motivo de su participación.
 
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 20.
 
 Toda persona que dedique sus actividades a la cría de animales, está obligada a utilizar los procedimientos más adecuados y disponer de todos los medios necesarios para que reciban un trato compasivo y acorde a su naturaleza.
+
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 21.
 
@@ -173,37 +227,45 @@ La autoridad competente deberá expedir licencias para la crianza de animales, l
 
 Se deberán realizar visitar periódicas para verificar que dicha actividad se desarrolle en instalaciones o predios cuyo suelo no esté destinado para casa habitación, industria, comercio o actividades similares, así como se revisara el estado de salud de los animales.
 
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 22.
 
 Toda persona que se dedique al adiestramiento de perros de seguridad y a la prestación de servicios de esa índole que manejen animales, deberán contar con una autorización del ayuntamiento respectivo.
+
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 23.
 
 Queda prohibida la venta de animales en la vía pública o vehículos, así como la comercialización de los que estén enfermos o con fracturas o lesiones
 
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 24.
 
 Los animales en exhibición y a la venta en tiendas de mascotas y similares, bajo ningún concepto deberán de permanecer enjaulados de manera continua más de catorce días, dichas jaulas deberán ser adecuadas para moverse libremente; asimismo, deberán contar con agua en todo momento y alimento a las horas correspondientes según su especie.
 
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 25.
-
-Queda prohibido el uso y tránsito de vehículos de tracción animal en vialidades asfaltadas y para uso distinto del agropecuario.
-
-###### Artículo 26.
 
 Queda prohibida la utilización de aditamentos que pongan en riesgo la integridad física de los animales y el uso de los mismos en la celebración de ritos y usos tradicionales que puedan afectar su bienestar.
 
-###### Artículo 27.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 26.
 
 Los animales guía o aquellos que por prescripción médica deban acompañar a alguna persona, tendrán libre acceso a todos los lugares y servicios públicos.
 
-###### Artículo 28.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 27.
 
 Nadie puede cometer actos susceptibles de ocasionar la muerte o mutilación de animales o modificar negativamente sus instintos naturales, excepción hecha a quienes estén legalmente autorizados para realizar dichas actividades o prácticas de la materia.
 
-### CAPITULO II. Investigación Científica con Animales
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
 
-###### Artículo 29.
+###### Artículo 28.
 
 Corresponde a la Secretaría de Seguridad Pública del Estado y a la autoridad municipal, en el ámbito de su competencia, el ejercicio de las siguientes facultades:
 
@@ -221,13 +283,23 @@ f) Impedir y remitir a la autoridad competente a quienes promuevan peleas de per
 
 g) Las demás que determine el Reglamento.
 
-### CAPÍTULO III. Traslado de Animales
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
 
-###### Artículo 30.
+### CAPITULO II. Investigación Científica con Animales
+
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 29.
 
 Los experimentos con animales domésticos deberán realizarse únicamente cuando estén plenamente justificados, sean imprescindibles para el estudio, avance de la ciencia y cuenten con la autorización correspondiente de conformidad con las disposiciones jurídicas y las Normas Oficiales Mexicanas aplicables.
 
-###### Artículo 31.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO III. Traslado de Animales
+
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 30.
 
 El traslado de animales deberá efectuarse bajo las siguientes condiciones:
 
@@ -271,75 +343,117 @@ XIX. Las operaciones de embarco y desembarco deberán hacerse utilizando los ins
 
 XX. Ninguna revisión sanitaria o de policía será motivo para ocasionar sufrimiento a los animales.
 
-###### Artículo 32.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 31.
 
 En el caso de que los vehículos en donde se transporten animales tengan que detenerse en el trayecto por complicaciones accidentales, causas fortuitas o de fuerza mayor, el responsable del traslado está obligado a llevarlos al sitio que para tal fin el Municipio correspondiente designe y éste deberá proporcionarles, con cargo al dueño o responsable del traslado, el alojamiento amplio y ventilado, abrevaderos y alimentos, hasta que sean rescatados y devueltos o, en su caso, entregados a las instituciones autorizadas para su custodia y disposición.
 
-### CAPÍTULO IV. De la Comercialización y Explotación de Animales
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
 
-###### Artículo 33.
+###### Artículo 32.
 
 En todo caso, el transporte de animales de consumo se ajustará a lo dispuesto por las Normas Oficiales Mexicanas y demás disposiciones jurídicas aplicables.
 
-###### Artículo 34.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO IV. De la Comercialización y Explotación de Animales
+
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 33.
 
 Queda prohibido el obsequio, distribución o venta de animales para cualquier tipo de propaganda, obras benéficas, ferias, kermeses escolares o como premios en sorteos, juegos, concursos, rifas, loterías o cualquier otra actividad análoga, con excepción de aquellos eventos que tienen como objeto la venta de animales y que estén legalmente autorizados para ello.
 
-###### Artículo 35.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 34.
 
 Los expendios de animales en las zonas urbanas estarán sujetos a los reglamentos que resulten aplicables, debiendo estar a cargo de un responsable que requerirá de una licencia específica de la autoridad municipal. La exhibición y venta de animales será realizada en locales e instalaciones adecuadas para su correcto cuidado, mantenimiento y protección del sol y de la lluvia y según las normas elementales de higiene y seguridad.
 
-###### Artículo 36.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 35.
 
 Queda prohibida la venta de animales vivos a personas menores de edad si no son acompañadas por quien ejerza la patria potestad, quienes se responsabilizarán de la adecuada subsistencia y buen trato para el animal.
 
-###### Artículo 37.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 36.
 
 Los vehículos de tracción animal, no podrán ser cargados con un peso excesivo o desproporcionado, teniendo en cuenta las condiciones de los animales que se empleen.
 
-###### Artículo 38.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 37.
 
 Las hembras en el período próximo al parto, entendiéndose por éste el último tercio de la gestación, no deberán ser forzadas a trabajos rudos, ni cargadas con peso excesivo.
 
-###### Artículo 39.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 38.
 
 Los animales que se empleen para tirar de carretas, arados o cualquier otro objeto, deberán ser uncidos sin maltrato y evitando que esto los lesione, debiéndose evitar por los medios necesarios que tal actividad les cause daño o lesión alguna.
 
-###### Artículo 40.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 39.
 
 En los casos de animales destinados para carga en el lomo, ésta no podrá ser en ningún caso superior a la tercera parte de su peso, ni agregar a ese peso el de una persona.
 
-###### Artículo 41.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 40.
 
 Si la carga consiste en haces de madera o varillas de metal, cajas u otra clase de bultos de naturaleza análoga, ésta se distribuirá proporcionalmente sobre el cuerpo del animal que la conduzca evitando que le cause algún maltrato o herida.
 
-###### Artículo 42.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 41.
 
 A los animales destinados al tiro o a la carga, no se les dejará sin alimentación y sin agua por un tiempo mayor de ocho horas consecutivas. Asimismo, se les deberá brindar descanso en lugares cubierto (sic) del sol y la lluvia y correctamente ventilados.
 
-###### Artículo 43.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 42.
 
 Cualquier animal que sea usado para la carga o recreo deberá contar con un certificado de salud emitido por la autoridad municipal correspondiente.
 
-###### Artículo 44.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 43.
 
 Los animales desnutridos, enfermos, heridos o con mataduras por ningún motivo serán utilizados para el tiro o la carga. Queda igualmente prohibido cabalgar sobre animales que se encuentren en esas condiciones.
 
-###### Artículo 45.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 44.
 
 Ningún animal destinado al tiro o carga podrá ser golpeado, fustigado o espoleado con exceso. Si cae deberá ser descargado y no golpeado para que se levante.
 
-###### Artículo 46.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 45.
 
 Los abrevaderos y lugares donde se alojen los animales deberán estar a (sic) cubierto del sol y la lluvia y distribuidos en el campo en forma conveniente, observando las disposiciones de las autoridades sanitarias.
 
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 46.
+
+Las disposiciones de este Capítulo se aplicarán en lo conducente a los animales de monta.
+
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
 ### CAPÍTULO V. De los Animales en Actividades de Entretenimiento Público
 
-> <small>(REFORMADO, B.O. 3 DE NOVIEMBRE DE 2014)</small>
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 47.
 
-Las disposiciones de este Capítulo se aplicarán en lo conducente a los animales de monta.
+Corresponde a las autoridades municipales, vigilar las condiciones en que se encuentren los animales en exposiciones o concursos.
+
+> <small>(REFORMADO, B.O. 3 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 48.
 
@@ -349,41 +463,45 @@ Queda prohibida la celebración y realización de espectáculos circenses públi
 
 Se sancionará con el equivalente de cinco mil veces el salario mínimo general diario vigente en la zona, a quién celebre o realice espectáculos circenses públicos o privados en los cuales se utilicen animales vivos.
 
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 49.
-
-Los ayuntamientos expedirán el permiso para la celebración de festividades públicas, espectáculos de circo o análogos, en los que se utilicen animales, de conformidad con las disposiciones correspondientes. Si se verifican infracciones del permisionario que impliquen maltrato hacia los animales, la autoridad municipal revocará el permiso y procederá a la cancelación del evento.
-
-###### Artículo 50.
 
 Los propietarios o responsables de la empresa o negociación que utilice animales para ofrecer espectáculos públicos, sacrificarán inmediatamente a los que por cualquier causa se hubiesen lesionado gravemente o mutilado un miembro u órgano necesarios para su desarrollo o subsistencia.
 
-###### Artículo 51.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 50.
 
 Todos los animales que por su naturaleza representen un peligro para el público, deberán estar encerrados en jaulas seguras y diseñadas conforme a las características que presenten durante el espectáculo; si es necesario, serán sujetados por una cadena.
 
-###### Artículo 52.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 51.
 
 Será obligación de los responsables de animales que se encuentren en exhibición, procurar que exista entre la jaula y el público una distancia precisada a través de una valla de protección, cerca o tubular que les proporcione seguridad a los asistentes.
 
-###### Artículo 53.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 52.
 
 Los dueños o responsables de los centros de espectáculos que intencionalmente o por negligencia contribuyan a que sus animales en exhibición o durante su actuación causen daños y perjuicios al público, serán sancionados en los términos del reglamento respectivo y sin perjuicio de lo que impongan las leyes aplicables en esta materia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE NOVIEMBRE DE 2014)</small>
 
-Artículo 53 (sic).- Queda prohibido ofrecer a los animales que permanezcan en cautiverio en ferias y jardines zoológicos, cualquier clase de alimento u objetos cuya ingestión o presencia pueda causarles daños o enfermedades.
+###### Artículo 53.
+
+Queda prohibido ofrecer a los animales que permanezcan en cautiverio en ferias y jardines zoológicos, cualquier clase de alimento u objetos cuya ingestión o presencia pueda causarles daños o enfermedades.
 
 Asimismo, estos centros deberán mantener a los animales en locales con una extensión de espacio tal, que les permita libertad y amplitud de movimientos y, durante su traslado, no podrán ser inmovilizados en una posición que les ocasione lesiones o sufrimientos. En todo momento o circunstancia, se observarán condiciones razonables de higiene y seguridad pública.
+
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
 
 ### CAPÍTULO VI. De la Captura de los Animales
 
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 54.
-
-Queda prohibido ofrecer a los animales que permanezcan en cautiverio en circos, ferias y jardines zoológicos, cualquier clase de alimento u objetos cuya ingestión o presencia pueda causarles daños o enfermedades.
-
-Asimismo, estos centros deberán mantener a los animales en locales con una extensión de espacio tal, que les permita libertad y amplitud de movimientos y, durante su traslado, no podrán ser inmovilizados en una posición que les ocasione lesiones o sufrimientos. En todo momento o circunstancia, se observarán condiciones razonables de higiene y seguridad pública.
-
-###### Artículo 55.
 
 La autoridad municipal capturará los animales:
 
@@ -393,15 +511,21 @@ II. Los que manifiesten signos de rabia u otras enfermedades graves o transmisib
 
 La autoridad municipal resguardará los que le sean entregados voluntariamente por los particulares, y por otras autoridades como consecuencia de aseguramientos.
 
-###### Artículo 56.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 55.
 
 La captura que efectúe la autoridad municipal en los términos del artículo anterior se realizará por personal debidamente capacitado y equipado para dar un trato adecuado y digno a los animales. En tal acción dicha autoridad podrá solicitar la asistencia de representantes de sociedades o asociaciones protectoras de animales legalmente constituidas.
 
-###### Artículo 57.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 56.
 
 Los animales capturados se depositarán en lugares apropiados para su guarda, donde recibirán el trato y alimentación adecuados conforme a las disposiciones de esta Ley. Cuando los animales capturados presenten alguna enfermedad, padecimiento o heridas se les dará atención médica veterinaria en el centro de salud animal. Aquellos animales con fracturas expuestas grave (sic) o con enfermedades o condiciones terminales serán sacrificados inmediatamente para evitarles sufrimiento y estrés innecesarios.
 
-###### Artículo 58.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 57.
 
 Cuando los animales capturados porten placa de identificación o se pueda identificar a los propietarios o poseedores en cualquier otra forma, los responsables de su guarda tan luego como los reciban, notificarán por cualquier medio eficaz al propietario que aparezca en aquella.
 
@@ -409,71 +533,109 @@ A partir de dicha notificación se abrirá un plazo de tres días naturales para
 
 La devolución no procederá si se manifiesta enfermedad grave o transmisible en el animal.
 
-### CAPÍTULO VII. Del Sacrificio de Animales
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
 
-###### Artículo 59.
+###### Artículo 58.
 
 Si nadie reclama al animal dentro del plazo previsto en el artículo anterior, se realizará su entrega a un albergue o en adopción a un particular.
 
-###### Artículo 60.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO VII. Del Sacrificio de Animales
+
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 59.
 
 El sacrificio de animales destinados para consumo deberá de ser humanitario, conforme a lo establecido en las normas ambientales y oficiales mexicanas, y con la autorización emitida por las autoridades sanitarias y administrativas que señalen las leyes y reglamentos aplicables, efectuándose ineludiblemente en locales adecuados y específicamente previstos para tal efecto.
 
-###### Artículo 61.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 60.
 
 Los animales mamíferos destinados al sacrificio deberán tener un período de descanso en los corrales del rastro por un mínimo de doce horas, durante el cual deberán recibir agua y alimento. Queda prohibido el sacrificio de las hembras en la etapa de gestación o en período de lactancia.
 
-###### Artículo 62.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 61.
 
 Las reses y demás cuadrúpedos destinados al sacrificio no podrán ser inmovilizados sino en el momento en que esta operación haya de realizarse.
 
-###### Artículo 63.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 62.
 
 En ningún caso los menores de edad podrán presenciar el sacrificio de los animales.
 
-###### Artículo 64.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 63.
 
 El sacrificio de un animal no destinado al consumo humano sólo podrá realizarse en razón del sufrimiento que le cause un accidente, enfermedad, incapacidad física o vejez extrema, con excepción de aquellos animales que se constituyan en una amenaza para la salud o los que por exceso de su especie signifiquen un peligro grave sanitario para la sociedad. Salvo por motivos de fuerza mayor o peligro inminente, ningún animal podrá ser muerto en la vía pública.
 
-###### Artículo 65.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 64.
 
 Los propietarios, encargados, administradores o empleados de expendios de animales o rastros, deberán sacrificar inmediatamente a los animales que por cualquier causa se hubiesen lesionado gravemente.
 
-###### Artículo 66.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 65.
 
 A ningún animal se le podrá dar muerte a través de envenenamiento, ahorcamiento, golpes, electrocución o algún otro procedimiento que cause sufrimiento innecesario o prolongue su agonía.
 
-###### Artículo 67.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 66.
 
 La captura por motivos de salud pública de perros y otros animales que deambulen sin dueño aparente y sin placa de identidad o de vacunación antirrábica, se efectuará únicamente a través y bajo la supervisión de las autoridades municipales y por personas adiestradas debidamente y equipadas para tal efecto, quienes evitarán cualquier acto de crueldad, tormento, sobreexcitación o escándalo público.
 
-### CAPÍTULO VIII. De la Denuncia Ciudadana
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
 
-###### Artículo 68.
+###### Artículo 67.
 
 Un animal capturado podrá ser reclamado por su dueño dentro de los tres días hábiles siguientes, exhibiendo el correspondiente documento de propiedad o acreditando la posesión. En caso de que el animal no sea solicitado a tiempo por su dueño, las autoridades lo entregarán a un albergue.
 
-###### Artículo 69.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO VIII. De la Denuncia Ciudadana
+
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 68.
 
 Toda persona podrá denunciar ante las autoridades municipales todo acto u omisión derivado del incumplimiento de esta Ley.
 
-###### Artículo 70.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 69.
 
 La denuncia se presentará por escrito, verbalmente o por cualquier medio electrónico, indicando el nombre y domicilio del denunciante y demás requisitos que señale el Reglamento.
 
-## TÍTULO TERCERO. ALBERGUES
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
 
-### CAPÍTULO I. De los Albergues
-
-###### Artículo 71.
+###### Artículo 70.
 
 La autoridad municipal ordenará que se lleven a cabo los actos de inspección y vigilancia a que se refiere esta Ley, sólo cuando medie denuncia y de ella se infieran datos suficientes sobre el posible incumplimiento de las disposiciones de este ordenamiento.
 
-###### Artículo 72.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+## TÍTULO TERCERO. ALBERGUES
+
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO I. De los Albergues
+
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 71.
 
 Como un instrumento de apoyo a las actividades municipales de protección a los animales de cualquier crueldad cometida en su contra y fomentar su trato digno y respetuoso, se establecen los albergues.
 
-###### Artículo 73.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 72.
 
 El establecimiento de los albergues tiene como objeto:
 
@@ -487,55 +649,83 @@ IV. Estructurar programas para entrenamiento de perros como auxilio para individ
 
 V. Establecer un censo municipal mediante el cual queden inscritos los animales que posean propietario junto a sus características básicas como son su sexo, raza, color, tamaño, peso, plan de vacunas u otros datos de identificación que puedan ser útiles.
 
-###### Artículo 74.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 73.
 
 Los particulares que depositen o adopten a un animal, deberán cubrir al albergue los derechos que para ese efecto señalen el reglamento respectivo.
 
-## TÍTULO CUARTO. INSPECCIÓN Y VIGILANCIA
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
 
-### CAPÍTULO I. De la Inspección y Vigilancia
-
-###### Artículo 75.
+###### Artículo 74.
 
 La creación de los albergues será responsabilidad de los Ayuntamientos, en coordinación con las sociedades protectoras de animales en el Municipio de que se trate, siendo el Estado autoridad subsidiaria en dicha obligación. Estos centros deberán poseer las características y el patrimonio que señale el reglamento.
 
-###### Artículo 76.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+## TÍTULO CUARTO. INSPECCIÓN Y VIGILANCIA
+
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO I. De la Inspección y Vigilancia
+
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 75.
 
 Las visitas de inspección y vigilancia se realizarán por conducto de personal municipal debidamente autorizado.
 
 Dicho personal, al realizar las visitas de inspección, deberá estar provisto del documento oficial que lo acredite como tal, así como de la orden escrita debidamente fundada y motivada expedida por la autoridad competente, en la que se precisará el lugar o zona que habrá de inspeccionarse, el objeto de la diligencia y el alcance de ésta.
 
-###### Artículo 77.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 76.
 
 Los actos de inspección y vigilancia en casas habitación solo se realizarán con el consentimiento de quien la habite. Cuando el habitante se niegue a permitir el acto de inspección y vigilancia, la autoridad competente procederá a imponer las sanciones a que hubiere lugar, previa audiencia del presunto infractor.
 
-###### Artículo 78.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 77.
 
 La visita de inspección y vigilancia se entenderá con el propietario o poseedor del animal. En caso de no encontrarse se le dejará citatorio para que espere en la fecha y hora señaladas para tal efecto, apercibiéndole que de no atender el citatorio, la diligencia se llevará a cabo con la persona que se encuentre en el domicilio.
 
-###### Artículo 79.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 78.
 
 En toda visita de inspección y vigilancia se levantará un acta en la que se hará constar en forma circunstanciada los hechos y omisiones que se hubiesen presentado durante la diligencia. El acta se firmará por la persona con quien se entendió la diligencia, los testigos y por el personal autorizado, quien entregará copia del acta para el interesado.
 
 Si la persona con quien se entendió la diligencia o los testigos se negaren a firmar el acta o a aceptar copia de la misma, dichas circunstancias se asentarán en ella, sin que esto afecte su validez y valor probatorio.
 
-###### Artículo 80.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 79.
 
 La persona con quien se entienda la diligencia estará obligada a permitir al personal autorizado el acceso al lugar o lugares sujetos a inspección, así como a proporcionar toda clase de información que se requiera para la verificación del cumplimiento de las disposiciones de esta Ley.
 
-###### Artículo 81.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 80.
 
 La autoridad municipal procederá, dentro de los quince días siguientes, contados a la conclusión de la práctica de la visita de inspección, a dictar por escrito la resolución respectiva, misma que se notificará al interesado personalmente.
 
-## TÍTULO QUINTO. MEDIDAS DE SEGURIDAD Y SANCIONES
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
 
-### CAPÍTULO I. De las Medidas de Seguridad
-
-###### Artículo 82.
+###### Artículo 81.
 
 En la resolución correspondiente se señalarán las medidas que deberán llevarse a cabo para corregir las deficiencias o irregularidades observadas, el plazo otorgado al infractor para satisfacerlas y, en su caso, las sanciones a que se hubiere hecho acreedor conforme a las disposiciones legales aplicables.
 
-###### Artículo 83.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+## TÍTULO QUINTO. MEDIDAS DE SEGURIDAD Y SANCIONES
+
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO I. De las Medidas de Seguridad
+
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 82.
 
 Las autoridades municipales podrán ordenar el aseguramiento precautorio de los animales relacionados con la conducta que dé lugar a la imposición de la medida de seguridad, cuando:
 
@@ -553,7 +743,9 @@ III. Se confirme que no existe un deterioro grave a la vida de los animales; y
 
 IV. Se acredite que no existe un riesgo inminente a la salud de las personas.
 
-###### Artículo 84.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 83.
 
 Al asegurar animales las autoridades podrán designar al infractor como depositario, siempre que:
 
@@ -561,33 +753,49 @@ I. No exista posibilidad inmediata de trasladarlos a instituciones registradas p
 
 II. No existan antecedentes de maltrato a los animales por parte del infractor.
 
-###### Artículo 85.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 84.
 
 Las autoridades municipales cuando realicen el aseguramiento precautorio, podrán entregar los animales asegurados a las instituciones autorizadas para tal efecto.
 
-###### Artículo 86.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 85.
 
 La medida de seguridad se impondrá previo dictamen de la autoridad municipal con audiencia de los afectados, de conformidad con lo dispuesto en el Reglamento.
 
-### CAPÍTULO II. Sanciones
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
 
-###### Artículo 87.
+###### Artículo 86.
 
 La medida de seguridad concluye con la imposición de la sanción. En caso de que no se imponga sanción alguna, la medida de seguridad cesará de inmediato.
 
-###### Artículo 88.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO II. Sanciones
+
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 87.
 
 La falta de cumplimiento de esta ley será sancionada conforme a lo establecido en el reglamento respectivo, independientemente de cualquier otro tipo de responsabilidades en que incurran los propietarios, posesionarios o encargados de un animal.
 
-###### Artículo 89.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 88.
 
 Aquellos servidores públicos que estén obligados a hacer valer la presente ley y que hagan caso omiso a sus obligaciones, serán sancionados según las consecuencias que se deriven de su conducta u omisión y de conformidad con lo dispuesto en el Reglamento.
 
-###### Artículo 90.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 89.
 
 Es responsable de las faltas previstas en esta ley, quien de cualquier modo participe en la ejecución de las mismas o induzca directa o indirectamente a alguien a cometerlas. Los padres o tutores de los menores de edad e incapaces serán responsables de las faltas que éstos cometan.
 
-###### Artículo 91.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 90.
 
 Las violaciones e infracciones cometidas a la presente Ley se sancionarán con:
 
@@ -607,25 +815,39 @@ VII. Las demás que señale el Reglamento.
 
 La aplicación de las sanciones anteriores se efectuará en la forma y términos que señale el reglamento de la materia.
 
-###### Artículo 92.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 91.
 
 Para efectos de determinar el monto total de la multa, la autoridad municipal analizará los actos de crueldad y demás que se hayan cometido considerando los aspectos comprendidos en el Reglamento respectivo.
 
 El producto de las multas se aplicará de la manera siguiente: 50% para el Ayuntamiento y 50% para la Sociedad o Sociedades Protectora de Animales que a juicio de las autoridades municipales lo merezcan.
 
-###### Artículo 93.
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 92.
 
 Es materia del Reglamento señalar la forma en que se sancionarán los casos de reincidencia.
 
 T R A N S I T O R I O S
 
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
 Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
 
 Artículo Segundo.- Los Ayuntamientos elaborarán el reglamento respectivo e integrarán los albergues de animales de conformidad con la presente Ley, en un término que no exceda de 90 días naturales, contados a partir de la fecha de entrada en vigor de la presente.
 
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
 Artículo Tercero.- Los Ayuntamientos deberán llevar a cabo, al menos una vez al año, campañas gratuitas de esterilización de animales domésticos.
 
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
+
 Artículo Cuarto.- Los Ayuntamientos, al llevar a cabo el registro de animales domésticos según lo dispuesto en el artículo 12 de la presente Ley, establecerán reducciones en los cobros respectivos a aquellos ciudadanos que cumplan con dicha obligación dentro de los primeros tres meses del comienzo del registro.
+
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
 
 Artículo Quinto.- Se derogan todas las disposiciones que se opongan a la presente Ley.
 
