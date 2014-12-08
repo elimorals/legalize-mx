@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-las-entidades-paramunicipales-del-municipio-35967
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-19"
-last_updated: "2013-12-06"
+last_updated: "2014-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LAS ENTIDADES PARAMUNICIPALES DEL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 19 de diciembre de 2003.
 
@@ -165,51 +165,23 @@ II.- Tres Regidores, Presidentes de las Comisiones relacionadas a la actividad d
 
 III.- Tres representantes de organismos sociales de la ciudad.
 
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2014)</small>
 
-ARTICULO 13 BIS.- Con excepción a lo dispuesto por los artículos 12 y 13 de este Reglamento, únicamente la Junta de Gobierno del Instituto Municipal de Planeación se integrará de la siguiente manera:
+ARTICULO 13 BIS.- Con excepción a lo dispuesto por los artículos 12 y 13 de este Reglamento, únicamente la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia, se integrará de la siguiente manera:
 
-I. El Presidente Municipal, quien presidirá la Junta de Gobierno;
+I.- El Presidente o Presidenta Municipal, quien presidirá la Junta de Gobierno:
 
-II. El Regidor Presidente de la Comisión de Planeación del Desarrollo Municipal;
+II.- Cuatro Regidores o Regidoras Presidentes/as de las Comisiones siguientes, y relacionadas a la actividad del Organismo:
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
+a) Comisión de Desarrollo Social;
 
-III. El Presidente de la Comisión de Desarrollo Urbano y Medio Ambiente;
+b) Comisión de Educación, Cultura y Bibliotecas;
 
-IV. Regidor Presidente de la Comisión de Obras y Servicios Públicos;
+c) Comisión de Gobernación y Legislación, y
 
-V. un representante de la Comisión Federal de electricidad (CFE):
+d) Comisión de la Familia.
 
-VI. Un representante de la Secretaría de Desarrollo Social (SEDESOL);
-
-VII. Un representante de la Secretaría de Desarrollo Urbano e Infraestructura del Estado (SIDUE);
-
-VIII. Un representante de la Comisión Estatal de Servicios Públicos de Tijuana (CESPT);
-
-IX. Director de Administración Urbana (DAU)
-
-X. Director de Obras e Infraestructura Urbana Municipal (DOIUM);
-
-XI. Director de Catastro Municipal (DCM);
-
-XII. Representante de teléfonos de Noroeste (TELNOR);
-
-XIII. Representante de la compañía de Gas de Tijuana;
-
-XIV. Un representante del Colegio de Arquitectos;
-
-XV. Un representante del Colegio de Notarios del Estado de Baja California;
-
-XVI. Un representante de la Cámara Mexicana de la Industria de la Construcción (CMIC);
-
-XVII. Un representante de la Universidad Autónoma de Baja California (UABC);
-
-XVIII. Un representante del Colegio de la Frontera (COLEF);
-
-XIX. Un representante del Consejo Empresarial de Tijuana (CDT), y
-
-XX. Un representante de la Cámara Nacional de la Industria de Desarrollo y Promoción de Vivienda en Baja California.
+III.- Cuatro integrantes de organismos representativos de la sociedad, cuyo objeto sea la promoción de la salud, la asistencia social y humana, la educación o el desarrollo integral de la niñez.
 
 ###### ARTICULO 14.
 
@@ -613,7 +585,7 @@ III.- Vigilar el cumplimiento del ejercicio de los presupuestos asignados y prog
 
 IV.- Sancionar las licitaciones relativas a todo tipo de adquisiciones y obras públicas a cargo de los organismos, empresas y fideicomisos;
 
-V.- Auditar el ejercicio presupuestal en todos sus rubros; (sic)
+V.- Auditar el ejercicio presupuestal en todos sus rubros;
 
 > <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
 
@@ -769,7 +741,7 @@ Los integrantes propietarios de los Órganos de Gobierno de las Entidades Paramu
 
 Dado en la Sala de Cabildo del Palacio Municipal, a la fecha de su presentación.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 23 DE SEPTIEMBRE DE 2005.
 
@@ -804,3 +776,13 @@ QUINTO. Se derogan todas aquellas disposiciones normativas y reglamentarias deri
 P.O. 6 DE DICIEMBRE DE 2013.
 
 EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
+
+P.O. 8 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en el Periódico Oficial del Estado de Baja California y/o Gaceta Municipal órgano de difusión del Ayuntamiento de Tijuana, Baja California.
+
+SEGUNDO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+TERCERO.- Se derogan todas y cada una de las disposiciones normativas y reglamentarias derivadas de acuerdos y reglamentos que se opongan a las presentes disposiciones legales.
+
+CUARTO.- Una vez debidamente publicado en el Periódico Oficial del Gobierno del Estado y en la Gaceta Municipal, notifíquese por medio de la Secretaria de Gobierno Municipal, a las dependencias correspondientes de esta administración, para la implementación inmediata de las reformas aprobadas.
