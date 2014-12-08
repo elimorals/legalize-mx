@@ -4,7 +4,7 @@ identifier: "SLP-codigo-fiscal-del-estado-de-san-luis-potosi-14989"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-08-05"
-last_updated: "2014-06-05"
+last_updated: "2014-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SLP"
 
 CÓDIGO FISCAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 5 DE JUNIO DE 2014, LA PRESENTE REFORMA ENTRA EN VIGOR A LOS TREINTA DÍAS SIGUIENTES A SU PUBLICACIÓN.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2014.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 5 de agosto de 1999.
 
@@ -547,7 +545,7 @@ Queda terminantemente prohibido a los funcionarios y empleados fiscales proporci
 
 ARTICULO 54 BIS. Las autoridades fiscales podrá (sic) condonar, total o parcialmente, las multas por infracción a las disposiciones fiscales, inclusive las determinadas por el propio contribuyente, para lo cual apreciará discrecionalmente las circunstancias del caso y los motivos que tuvo la autoridad al imponer la sanción.
 
-En todos los casos se atender á la gravedad y la reincidencia a la infracción, así como la capacidad económica del infractor y el perjuicio causado a la Hacienda Pública.
+En todos los casos se atender á (sic) la gravedad y la reincidencia a la infracción, así como la capacidad económica del infractor y el perjuicio causado a la Hacienda Pública.
 
 Sólo procederá la condonación de multas que hayan quedado firmes y siempre que un acto administrativo conexo no sea materia de impugnación.
 
@@ -1459,11 +1457,11 @@ Son infracciones por incumplimiento a la obligación principal de pago de las co
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
-I. El cuarenta porciento de las contribuciones omitidas, cuando el infractor las pague junto con sus accesorios, antes de la notificación de la resolución que determine el monto de las contribuciones omitidas, y
+I. El cuarenta porciento (sic) de las contribuciones omitidas, cuando el infractor las pague junto con sus accesorios, antes de la notificación de la resolución que determine el monto de las contribuciones omitidas, y
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
-II. Del cincuenta al ciento porciento de las contribuciones omitidas en los demás casos.
+II. Del cincuenta al ciento porciento (sic) de las contribuciones omitidas en los demás casos.
 
 Se aplicarán estas mismas multas en los casos de devoluciones o compensaciones que se efectúen y resulten improcedentes.
 
@@ -1992,3 +1990,13 @@ NOVENO. La substanciación y decisión de los asuntos y procedimientos que actua
 DÉCIMO. En cumplimiento a la Ley que expide este Decreto, el titular del Poder Ejecutivo del Estado podrá reorganizar la administración pública estatal, en las áreas que se afecten, quedando facultado para modificar y redistribuir las partidas del Presupuesto de Egresos para el ejercicio fiscal 2014 en que entra en vigor esta Ley, sin exceder los montos autorizados, para las dependencias que se reorganicen.
 
 DÉCIMO PRIMERO. En términos de la Ley de Entrega Recepción de los Recursos Públicos del Estado, las secretarías, General de Gobierno; y de Finanzas entregarán a la Junta Directiva del Instituto Registral y Catastral del Estado, los bienes y recursos públicos que tenían bajo su administración con la consiguiente intervención que corresponda a la Contraloría General del Estado.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2014)</small>
+
+DÉCIMO SEGUNDO. La obligación de los ayuntamientos de presentar al Congreso del Estado, sus proyectos de valores unitarios de suelo y construcción, antes del quince de octubre de cada año, prevista en la fracción III del artículo 78 de esta Ley, será aplicable a partir del año 2015.
+
+Asimismo, la determinación prevista en el artículo 84 de este Ordenamiento, relativa a que el Congreso del Estado apruebe anualmente los valores unitarios de suelo y construcción que presenten los ayuntamientos, también será observable a partir del año 2015.
+
+8 DE DICIEMBRE DE 2014.
+
+ÚNICO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
