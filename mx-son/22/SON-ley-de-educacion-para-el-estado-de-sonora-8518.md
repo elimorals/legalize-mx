@@ -4,7 +4,7 @@ identifier: "SON-ley-de-educacion-para-el-estado-de-sonora-8518"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2014-11-18"
+last_updated: "2014-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SON"
 ---
 # LEY DE EDUCACION PARA EL ESTADO DE SONORA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE DICIEMBRE DE 2014 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE NOVIEMBRE DE 2014.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 8 DE DICIEMBRE DE 2014.</small>
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 30 de diciembre de 1994.
 
@@ -455,9 +455,15 @@ II Bis A.- Coordinarse con las autoridades en materia de seguridad pública y sa
 
 II Bis B.- Coordinarse con la Secretaría de Salud y las Asociaciones de Padres de Familia de las escuelas de nivel básico para implementar acciones de inspección y vigilancia en las tiendas escolares, con el fin de evitar la venta de alimentos con bajo o nulo valor nutricional;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 18 DE NOVIEMBRE DE 2014)</small>
+(ADICIONADA, B.O. 3 DE NOVIEMBRE DE 2014) (F. DE E., B.O. 8 DE DICIEMBRE DE 2014)
 
-II Bis C.- Coordinarse con el Congreso del Estado, a través de su Comisión de Educación y Cultura, para establecer las bases del otorgamiento a la "Medalla al Mérito Estudiantil" a los Estudiantes Sonorenses en los niveles de Primaria, Secundaria y Media Superior, que hayan destacado académicamente y en las áreas de liderazgo, con el fin de premiar sus esfuerzos y reconocer sus méritos ante la comunidad.
+II Bis C.- Coordinarse con la Secretaría de Salud para implementar programas y ejecutar cursos de prevención de accidentes y primeros auxilios para los educandos y para el personal que labora en las escuelas de educación básica;
+
+(ADICIONADA, B.O. 18 DE NOVIEMBRE DE 2014) (F. DE E., B.O. 8 DE DICIEMBRE DE 2014)
+
+II Bis D.- Coordinarse con el Congreso del Estado, a través de su Comisión de Educación y Cultura, para establecer las bases del otorgamiento a la "Medalla al Mérito Estudiantil" a los Estudiantes Sonorenses en los niveles de Primaria, Secundaria y Media Superior, que hayan destacado académicamente y en las áreas de liderazgo, con el fin de premiar sus esfuerzos y reconocer sus méritos ante la comunidad.
+
+> <small>(F. DE E., B.O. 8 DE DICIEMBRE DE 2014)</small>
 
 Junto con la "Medalla al Mérito Estudiantil" se entregará un apoyo económico o en especie a elección del estudiante ganador, de acuerdo con las bases que se establezcan para ese fin.
 
@@ -1671,7 +1677,7 @@ c) En un plantel en que el docente no presta sus servicios, siempre y cuando se 
 
 Cuando exista más de un interesado que cumpla con los requisitos a que se hace referencia en las fracciones I y II de este artículo, la autoridad educativa local y los organismos descentralizados, en apego a los reglamentos de escalafón o de promociones o su equivalente para el nivel de educación media superior, determinarán la selección del Personal Docente que recibirá la Promoción.
 
-La asignación a que (sic) refiere este artículo se realizará siempre y cuando se haya cerrado la etapa de cambios de adscripción, como se prevé en el marco jurídico y disposiciones legales vigentes.
+La asignación a que refiere este artículo se realizará siempre y cuando se haya cerrado la etapa de cambios de adscripción, como se prevé en el marco jurídico y disposiciones legales vigentes.
 
 (NOTA: EL 22 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 40/2014, EN EXTENSIVA DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
