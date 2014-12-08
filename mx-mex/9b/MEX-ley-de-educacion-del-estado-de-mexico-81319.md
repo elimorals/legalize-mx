@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-educacion-del-estado-de-mexico-81319"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-06"
-last_updated: "2014-04-25"
+last_updated: "2014-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY DE EDUCACION DEL ESTADO DE MEXICO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE DICIEMBRE DE 2014 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 25 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 8 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Estado de México, el viernes 6 de mayo de 2011.
 
@@ -365,7 +367,7 @@ XXIV. Inculcar los principios y conceptos fundamentales para la protección del 
 
 XXV. Fomentar la cultura del agua, para darle un uso racional y responsable;
 
-XXVI. Impulsar una cultura de protección civil orientada a la prevención de desastres, así como al cuidado de la seguridad personal; y (sic)
+XXVI. Impulsar una cultura de protección civil orientada a la prevención de desastres, así como al cuidado de la seguridad personal; y
 
 XXVII. Fomentar la justicia, la libertad, la igualdad, la equidad, la solidaridad, el respeto, la tolerancia, la responsabilidad, la honradez y los demás valores que favorezcan la convivencia social armónica.
 
@@ -627,19 +629,25 @@ XLVII. Expedir los reglamentos, decretos, acuerdos, circulares y demás disposic
 
 XLVIII. Realizar acciones encaminadas a mejorar permanentemente la condición de vida para el educador; y
 
-> <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, G.G. 8 DE DICIEMBRE DE 2014)</small>
 
-XLIX. Ejecutar, en el ámbito de sus atribuciones, programas y acciones tendientes a fortalecer la autonomía de gestión de las escuelas. Tratándose de educación básica observarán los lineamientos que expida la Autoridad Educativa Federal para formular los programas de gestión escolar, mismos que tendrán como objetivos:
+XLIX. Establecer y vigilar la aplicación de los mecanismos para diagnosticar, prevenir, evitar, sancionar y erradicar la violencia, el hostigamiento, la intimidación y cualquier acto considerado como acoso escolar entre los alumnos de las instituciones educativas públicas y privadas del Estado de México;
 
-a) Usar los resultados de la evaluación como retroalimentación para la mejora continua en cada ciclo escolar.
+> <small>(REFORMADA, G.G. 8 DE DICIEMBRE DE 2014)</small>
 
-b) Desarrollar una planeación anual de actividades, con metas verificables y puestas en conocimiento de la autoridad educativa estatal y la comunidad escolar.
+L. Elaborar, operar y evaluar un plan de sana convivencia y disciplina escolar para el Sistema Educativo, que materialice el derecho de los estudiantes a su seguridad personal, libre de violencia, hostigamiento e intimidación, con la participación de especialistas en prevención y atención del acoso escolar, haciéndolo del conocimiento público por los medios disponibles;
 
-c) Administrar en forma transparente y eficiente los recursos que reciba para mejorar su infraestructura; comprar materiales educativos; resolver problemas de operación básicos y propiciar condiciones de participación para que alumnos, maestros y padres de familia o tutores, bajo el liderazgo del director se involucren en la resolución de los retos que cada escuela enfrenta.
+> <small>(ADICIONADA, G.G. 8 DE DICIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2014)</small>
+Ll. Vigilar que cada institución educativa del Estado realice, las acciones necesarias para diagnosticar, prevenir, evitar, sancionar y erradicar la violencia, el hostigamiento y la intimidación entre escolares en cualquiera de sus manifestaciones;
 
-L. Las demás que establezcan la Ley General, esta Ley y otras disposiciones aplicables.
+> <small>(ADICIONADA, G.G. 8 DE DICIEMBRE DE 2014)</small>
+
+LII. Detectar, atender, denunciar de inmediato ante la autoridad escolar, administrativa o ministerial competente y sancionar, los hechos de violencia, intimidación, hostigamiento, discriminación, difamación y cualquier otra manifestación que constituya acoso entre estudiantes, incluyendo aquellos que se comprometan por medios telefónicos, electrónicos o informáticos y sobre los que hayan sido testigos o hayan sido informados;
+
+> <small>(ADICIONADA, G.G. 8 DE DICIEMBRE DE 2014)</small>
+
+LIII. Las demás que con tal carácter establezcan la Ley General, esta Ley y otras disposiciones aplicables.
 
 #### SECCIÓN TERCERA. DE LAS ATRIBUCIONES DE LA AUTORIDAD EDUCATIVA MUNICIPAL
 
@@ -2710,3 +2718,11 @@ QUINTO.- El Ejecutivo del Estado en un plazo no mayor de treinta días hábiles 
 Las Secretarías de Educación y de Finanzas en el ámbito de sus atribuciones proveerán lo necesario para el cumplimiento de lo previsto en el párrafo anterior.
 
 SEXTO.- La Autoridad Educativa Estatal y los organismos descentralizados que impartan educación básica o media superior, deberán implementar un programa integral que organice y estructure debidamente las funciones y la adscripción del Personal con Funciones de Asesoría Técnica Pedagógica en servicio.
+
+G.G. 8 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
