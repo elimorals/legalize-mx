@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-catastro-del-estado-y-municipios-de-san-luis-potosi-8973
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-09"
-last_updated: "2014-06-05"
+last_updated: "2014-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE CATASTRO DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL CATASTRO PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 5 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2014 (ABROGADA).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 9 de octubre de 2012.
 
@@ -107,7 +107,7 @@ IX. Los demás obligados por esta Ley.
 
 Para los efectos de la presente Ley se entenderá por:
 
-I. AVALÚO CATASTRAL: Es el valor que se establece en la certificación que expida inmediatamente la autoridad catastral, de conformidad con la base grabable del impuesto predial del ejercicio fiscal correspondiente.. (sic)
+I. AVALÚO CATASTRAL: Es el valor que se establece en la certificación que expida inmediatamente la autoridad catastral, de conformidad con la base grabable del impuesto predial del ejercicio fiscal correspondiente..
 
 II. BIENES INMUEBLES: Los señalados expresamente en el Código Civil del Estado;
 
@@ -920,3 +920,13 @@ NOVENO. La substanciación y decisión de los asuntos y procedimientos que actua
 DÉCIMO. En cumplimiento a la Ley que expide este Decreto, el titular del Poder Ejecutivo del Estado podrá reorganizar la administración pública estatal, en las áreas que se afecten, quedando facultado para modificar y redistribuir las partidas del Presupuesto de Egresos para el ejercicio fiscal 2014 en que entra en vigor esta Ley, sin exceder los montos autorizados, para las dependencias que se reorganicen.
 
 DÉCIMO PRIMERO. En términos de la Ley de Entrega Recepción de los Recursos Públicos del Estado, las secretarías, General de Gobierno; y de Finanzas entregarán a la Junta Directiva del Instituto Registral y Catastral del Estado, los bienes y recursos públicos que tenían bajo su administración, con la consiguiente intervención que corresponda a la Contraloría General del Estado.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2014)</small>
+
+DÉCIMO SEGUNDO. La obligación de los ayuntamientos de presentar al Congreso del Estado, sus proyectos de valores unitarios de suelo y construcción, antes del quince de octubre de cada año, prevista en la fracción III del artículo 78 de esta Ley, será aplicable a partir del año 2015.
+
+Asimismo, la determinación prevista en el artículo 84 de este Ordenamiento, relativa a que el Congreso del Estado apruebe anualmente los valores unitarios de suelo y construcción que presenten los ayuntamientos, también será observable a partir del año 2015.
+
+P.O. 8 DE DICIEMBRE DE 2014.
+
+ÚNICO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
