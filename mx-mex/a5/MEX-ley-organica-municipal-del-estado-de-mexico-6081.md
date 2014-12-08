@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2014-11-21"
+last_updated: "2014-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -567,9 +567,27 @@ Para lo cual los Ayuntamientos deberán expedir o reformar, en su caso, en la te
 
 Los ayuntamientos sesionarán cuando menos una vez cada ocho días o cuantas veces sea necesario en asuntos de urgente resolución, a petición de la mayoría de sus miembros y podrán declararse en sesión permanente cuando la importancia del asunto lo requiera.
 
-Las sesiones de los ayuntamientos serán públicas, salvo que exista motivo que justifique que éstas sean privadas. Las causas serán calificadas previamente por el ayuntamiento.
+> <small>(REFORMADO, G.G. 8 DE DICIEMBRE DE 2014)</small>
+
+Las sesiones de los ayuntamientos serán públicas.
 
 Las sesiones de los ayuntamientos se celebrarán en la sala de cabildos; y cuando la solemnidad del caso lo requiera, en el recinto previamente declarado oficial para tal objeto.
+
+> <small>(ADICIONADO, G.G. 8 DE DICIEMBRE DE 2014)</small>
+
+Los ayuntamientos sesionarán en cabildo abierto cuando menos bimestralmente.
+
+> <small>(ADICIONADO, G.G. 8 DE DICIEMBRE DE 2014)</small>
+
+El cabildo en sesión abierta es la sesión que celebra el Ayuntamiento, en la cual los habitantes participan directamente con derecho a voz pero sin voto, a fin de discutir asuntos de interés para la comunidad y con competencia sobre el mismo.
+
+> <small>(ADICIONADO, G.G. 8 DE DICIEMBRE DE 2014)</small>
+
+En este tipo de sesiones el Ayuntamiento escuchará la opinión del público que participe en la Sesión y podrá tomarla en cuenta al dictaminar sus resoluciones.
+
+> <small>(ADICIONADO, G.G. 8 DE DICIEMBRE DE 2014)</small>
+
+El Ayuntamiento deberá emitir una convocatoria pública quince días naturales previos a la celebración del Cabildo en sesión abierta para que los habitantes del municipio que tengan interés se registren como participantes ante la Secretaría del Ayuntamiento.
 
 > <small>(ADICIONADO, G.G. 9 DE MARZO DE 2011)</small>
 
@@ -603,9 +621,9 @@ Los ayuntamientos no podrán revocar sus acuerdos sino en aquellos casos en que 
 
 Las sesiones del ayuntamiento serán presididas por el presidente municipal o por quien lo sustituya legalmente; constarán en un libro de actas en el cual deberán asentarse los extractos de los acuerdos y asuntos tratados y el resultado de la votación. Cuando se refieran a reglamentos y otras normas de carácter general que sean de observancia municipal éstos constarán íntegramente en el libro de actas debiendo firmar en ambos casos los miembros del Ayuntamiento que hayan estado presentes, debiéndose difundir en la Gaceta Municipal entre los habitantes del municipio y en los estrados de la Secretaría del Ayuntamiento. De las actas, se les entregará copia certificada a los integrantes del Ayuntamiento que lo soliciten en un plazo no mayor de ocho días.
 
-> <small>(REFORMADO, G.G. 5 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 8 DE DICIEMBRE DE 2014)</small>
 
-Todos los acuerdos de las sesiones públicas que no contengan información clasificada y el resultado de su votación, serán difundidos cada mes en la Gaceta Municipal y en los estrados de la Secretaría del Ayuntamiento, así como los datos de identificación de las actas que contengan acuerdos de sesiones privadas o con información clasificada, incluyendo en cada caso, la causa que haya calificado privada la sesión, o el fundamento legal que clasifica la información.
+Todos los acuerdos de las sesiones que no contengan información clasificada y el resultado de su votación, serán difundidos cada mes en la Gaceta Municipal y en los estrados de la Secretaría del Ayuntamiento, así como los datos de identificación de las actas que contengan información clasificada, incluyendo en cada caso, el fundamento legal que clasifica la información.
 
 > <small>(ADICIONADO, G.G. 9 DE MARZO DE 2011)</small>
 
@@ -801,9 +819,9 @@ XXXV. Coadyuvar en la ejecución de los planes y programas federales y estatales
 
 XXXV Bis.- Establecer, fomentar, coordinar y difundir permanentemente programas y acciones en materia de educación vial. Para el cumplimiento de esta disposición los ayuntamientos se auxiliarán de la participación directa de los concesionarios y permisionarios del transporte público;
 
-> <small>(REFORMADA, G.G. 25 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, G.G. 8 DE DICIEMBRE DE 2014)</small>
 
-XXXVI. Editar, publicar y circular la Gaceta Municipal órgano oficial, cuando menos cada tres meses para la difusión de todos los acuerdos de Cabildo de las sesiones públicas que no contengan información clasificada, los acuerdos de carácter general tomados por el ayuntamiento y de otros asuntos de interés público;
+XXXVI. Editar, publicar y circular la Gaceta Municipal órgano oficial, cuando menos cada tres meses para la difusión de todos los acuerdos de Cabildo de las sesiones que no contengan información clasificada, los acuerdos de carácter general tomados por el ayuntamiento y de otros asuntos de interés público;
 
 XXXVII. Organizar y promover la instrucción cívica que mantenga a los ciudadanos en conocimiento del ejercicio de sus derechos;
 
@@ -4162,3 +4180,9 @@ G.G. 21 DE NOVIEMBRE DE 2014.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 8 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
