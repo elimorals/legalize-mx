@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-judicial-del-estado-de-sonora-14212"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-12-12"
-last_updated: "2012-06-28"
+last_updated: "2014-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14212&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 12 de diciembre de 1996.
 
@@ -1231,43 +1231,33 @@ XIII.- Las demás que determinen las leyes y los correspondientes reglamentos in
 
 ### CAPITULO SEGUNDO. DE SU INTEGRACION
 
-> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, B.O. 9 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 83.
 
-El Consejo del Poder Judicial se integrará por cinco Consejeros propietarios y cuatro suplentes, en los términos establecidos por el artículo 120 de la Constitución Política del Estado.
+El Consejo del Poder Judicial se integrará por siete Consejeros, en los términos establecidos por el artículo 120 de la Constitución Política del Estado.
 
-> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, B.O. 9 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 84.
 
-Los Consejeros deberán reunir los requisitos señalados en el artículo 114 de la Constitución Política del Estado y además ser personas que se hayan distinguido por su capacidad profesional y administrativa, honestidad y honorabilidad en el ejercicio de sus actividades. Los designados por el Supremo Tribunal de Justicia, adicionalmente deberán gozar con reconocimiento en el ámbito judicial y tener en el desempeño de su cargo por lo menos dos años con anterioridad a la fecha de la designación.
+Los Consejeros deberán reunir los requisitos señalados en el artículo 120 de la Constitución Política del Estado y además ser personas que se hayan distinguido por su capacidad profesional y administrativa, honestidad y honorabilidad en el ejercicio de sus actividades.
 
-El Congreso del Estado, para designar a sus consejeros, emitirá una convocatoria que se publicará en la gaceta parlamentaria y, cuando menos, en dos de los periódicos de mayor circulación en el Estado en la cual se fijarán las fechas, los requisitos y los procedimientos idóneos para la realización de la propuestas del caso.
-
-> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, B.O. 9 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 85.
 
-Con excepción del Presidente del Consejo, los demás Consejeros durarán cinco años en su cargo y los propietarios no podrán ser nombrados para un nuevo periodo. En el caso de que llegare a nombrarse a un Magistrado del Supremo Tribunal de Justicia como consejero, su nombramiento se hará con arreglo a las disposiciones de la Constitución Política del Estado.
+El Presidente del Consejo y el diverso Magistrado de dicho órgano conservarán su calidad de consejeros mientras se encuentren en el ejercicio de sus cargos, los demás integrantes del Consejo serán designados por un período de seis años y no podrán ser reelectos.
 
-El periodo de nombramiento de los Consejeros propietarios y de sus suplentes, se computará a partir de la fecha en que los primeros entren en funciones.
+El periodo de nombramiento de los Consejeros propietarios se computará a partir de la fecha en que entren en funciones.
 
 Si al término del periodo del nombramiento de los Consejeros, por cualquier motivo no se hace la designación de nuevos Consejeros o los designados no se presentan al desempeño de su cargo, continuarán en funciones los individuos que conformen el Consejo del Poder Judicial del Estado, hasta que tomen posesión los nuevamente nombrados.
 
 En caso de falta absoluta o definitiva de un Consejero, se designará a la persona que deba sustituirlo, quien desempeñará sus funciones hasta concluir el periodo de aquél.
 
-> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
-
 ###### ARTICULO 86.
 
-Para los efectos de la designación de Consejeros que realice el Supremo Tribunal de Justicia, sólo serán considerados los Magistrados y Jueces con nombramiento definitivo, aun cuando estén desempeñando algún otro cargo en forma provisional, siempre que esto sea dentro del Poder Judicial del Estado.
-
-Los Magistrados y Jueces nombrados Consejeros, se separarán de su función jurisdiccional mediante licencia que, tratándose de Jueces de Primera Instancia y Magistrados Regionales de Circuito apruebe el Pleno del propio Consejo, o el Pleno del Supremo Tribunal de Justicia cuando se trate de integrantes de este último órgano o conforme lo dispone el articulo 116 de la Constitución Política del Estado.
-
-Las licencias surtirán efectos a partir de la fecha en que los Magistrados o Jueces inicien sus funciones como Consejeros. Al término de la respectiva licencia, el Pleno del Cuerpo Colegiado que corresponda reincorporará al Magistrado o Juez de que se trate al Tribunal o Juzgado de la última adscripción que hubiere tenido conforme al carácter de nombramiento definitivo, a menos que hayan sido legalmente separados del cargo o hubiesen renunciado a él.
-
-Los términos de los nombramientos de los Magistrados y Jueces de Primera Instancia designados Consejeros, se suspenderán a partir de que entren en funciones en estos últimos cargos y se reanudarán desde la fecha en que nuevamente sean reincorporados a su función jurisdiccional.
+(DEROGADO, B.O. 9 DE DICIEMBRE DE 2014)
 
 ###### ARTICULO 87.
 
@@ -2432,3 +2422,9 @@ B.O. 28 DE JUNIO DE 2012.
 La presente reforma entrará en vigor el 18 de junio de 2016, previa publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
 El Congreso del Estado podrá establecer, mediante declaratorias, la entrada en vigor de la presente reforma de manera gradual, antes del 18 de junio de 2016, en las modalidades que determine, por Distrito Judicial y por tipos de delitos.
+
+B.O. 9 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
