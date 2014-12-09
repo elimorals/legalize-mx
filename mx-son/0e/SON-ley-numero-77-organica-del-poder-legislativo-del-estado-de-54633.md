@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2014-12-04"
+last_updated: "2014-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY NÚMERO 77 ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -215,6 +215,8 @@ La Comisión de Régimen Interno y Concertación Política propondrá al pleno d
 
 ### CAPÍTULO III. DE LAS LICENCIAS Y RENUNCIAS DE LOS DIPUTADOS
 
+> <small>(REFORMADO, B.O. 9 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 27.
 
 Los diputados quedarán investidos del fuero constitucional durante el ejercicio de su encargo.
@@ -313,19 +315,21 @@ Los diputados no recibirán ninguna retribución extraordinaria por su asistenci
 
 ###### ARTÍCULO 38.
 
-Las licencias serán otorgadas por el pleno del Congreso del Estado o la Diputación Permanente, en su caso, en votación por mayoría absoluta.
+Las licencias y renuncias serán otorgadas por el pleno del Congreso del Estado o la Diputación Permanente, en su caso, en votación por mayoría absoluta.
 
-Se entenderá por licencias aquellas autorizaciones otorgadas a un diputado para ausentarse de sus funciones.
+Se entenderá por licencias aquellas autorizaciones temporales sin goce de sueldo otorgadas a un diputado para ausentarse de sus funciones.
 
-No podrán autorizarse más de dos licencias a un mismo diputado en el año legislativo, salvo el caso de licencias por enfermedad, gravidez o causas médicas graves.
+Cuando se presente una solicitud de licencia o renuncia por parte de un diputado y no se le resuelve, ya sea por el Pleno del Congreso o por la Diputación Permanente, respecto a la procedencia de la misma en un plazo de 3 días naturales, ésta deberá entenderse como aprobada en sus términos.
 
 ###### ARTÍCULO 39.
 
 No se concederán licencias con goce de dietas, salvo tratándose de licencias por enfermedad, gravidez o causas médicas graves.
 
+> <small>(REFORMADO, B.O. 9 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 40.
 
-Las renuncias al cargo de diputado serán aprobadas por el pleno del Congreso del Estado.
+Para los efectos del artículo 38 de la presente Ley, la renuncia se entenderá como la separación definitiva que realice una persona que ostente el cargo de diputado al mismo.
 
 ### CAPÍTULO ÚNICO. DE LA MESA DIRECTIVA
 
@@ -1183,9 +1187,7 @@ II.- Cuando se infrinjan disposiciones de esta ley, en cuyo caso deberá citarse
 
 III.- Cuando se viertan injurias, calumnias o difamaciones en contra de alguna autoridad, corporación o persona.
 
-IV.- Cuando el orador se aparte del asunto a discusión o finalice el tiempo otorgado para su participación.
-
-En los casos respectivos la Presidencia llamará al orden al orador.
+IV.- Cuando el orador se aparte del asunto a discusión o finalice el tiempo otorgado para su participación. En los casos respectivos la Presidencia llamará al orden al orador.
 
 ###### ARTÍCULO 144.
 
@@ -1970,3 +1972,9 @@ B.O. 4 DE DICIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 9 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
