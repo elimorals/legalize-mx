@@ -4,7 +4,7 @@ identifier: "ROO-codigo-fiscal-municipal-del-estado-de-quintana-roo-92421"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-01-15"
-last_updated: "2013-01-15"
+last_updated: "2014-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el martes 15 de enero de 2013.
 
@@ -1563,9 +1563,11 @@ III. Los motivos y fundamentos por los que se le considera responsable del créd
 
 IV. El plazo para el pago, que será de seis días hábiles, salvo que la ley señale otro.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 126.
 
-Las personas físicas y morales, están obligadas a pagar el dos por ciento del crédito fiscal por el concepto de gastos de ejecución por cada una de las diligencias que se indican a continuación:
+Las personas físicas y morales, están obligadas a pagar el cuatro por ciento del crédito fiscal por el concepto de gastos de ejecución por cada una de las diligencias que se indican a continuación:
 
 I. Por el requerimiento a que se refiere el primer párrafo del artículo 111, del presente código;
 
@@ -1573,7 +1575,9 @@ II. Por el embargo a que se refiere la fracción II del artículo 127 de este c�
 
 III. Por la de remate, enajenación fuera de remate o adjudicación al fisco municipal a que se refiere la fracción II del artículo 155 del presente ordenamiento.
 
-Cuando en los casos de las fracciones anteriores, el dos por ciento del crédito sea inferior a 5.5 del salario mínimo general correspondiente al Estado de Quintana Roo, se cobrará ésta cantidad en lugar del dos por ciento del crédito por cada acción efectuada por la autoridad fiscal.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+Cuando en los casos de las fracciones anteriores, el cuatro por ciento del crédito sea inferior a 5.5 del salario mínimo general correspondiente al Estado de Quintana Roo, se cobrará esta cantidad en lugar del cuatro por ciento del crédito por cada acción efectuada por la autoridad fiscal.
 
 En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias, podrá exceder de la cantidad equivalente a un salario mínimo general correspondiente al Estado de Quintana Roo, elevado al año.
 
@@ -2070,3 +2074,11 @@ ARQ. LUIS ALBERTO GONZÁLEZ FLORES.
 EL SECRETARIO DE HACIENDA DEL ESTADO DE QUINTANA ROO.
 
 C. JOSE MAURICIO GONGORA ESCALANTE.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE DICIEMBRE DE 2014.
+
+Primero. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
