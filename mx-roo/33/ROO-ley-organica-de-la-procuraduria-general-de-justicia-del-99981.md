@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-procuraduria-general-de-justicia-del-99981"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-12-24"
-last_updated: "2013-12-24"
+last_updated: "2014-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Número 113 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 24 de diciembre de 2013.
 
@@ -363,9 +363,17 @@ b) Fiscalía Especializada en Investigación de Secuestros;
 
 c) Fiscalía Especializada en la Investigación de Robo de Vehículos;
 
-d) Fiscalía Especializada en Investigación de Delitos Contra la Salud, en su modalidad de Narcomenudeo, y
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
 
-e) Fiscalía Especializada en Extinción de Dominio;
+d) Fiscalía Especializada en Investigación de Delitos Contra la Salud, en su modalidad de Narcomenudeo,
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+e) Fiscalía Especializada en Extinción de Dominio, y
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+f) Fiscalía Especializada en Delitos cometidos en Contra de los Migrantes;
 
 IX. La siguientes Unidades:
 
@@ -373,7 +381,9 @@ a) Unidad de Derechos Humanos, y
 
 b) Unidad de Justicia Alternativa Penal.
 
-X. Así como por las demás áreas administrativas de la Procuraduría, sin importar su denominación, que el servicio requiera y la partida presupuestal lo permita.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+X. Así como por las demás áreas administrativas, fiscalías o unidades especializadas de la Procuraduría, sin importar su denominación, que el servicio requiera y la partida presupuestal lo permita.
 
 ### CAPÍTULO II. REQUISITOS
 
@@ -853,7 +863,7 @@ XV. Las demás que dispongan otras disposiciones legales, o que el Procurador o 
 
 La Dirección General de Servicios Periciales bajo el mando, supervisión y responsabilidad de su Director, actuará con la autonomía técnica e independencia de juicio que le corresponda en el estudio de los asuntos que se sometan a su dictamen y rendirá sus correspondientes informes, certificados y dictámenes en las diversas especialidades pertinentes para el esclarecimiento de los hechos.
 
-Cuando las disposiciones aplicables lo permitan, el Procurador podrá habilitar a peritos en cualquier área, siempre y cuando cumplan con los requisitos dispuestos en esta ley. La Dirección de Servicios Periciales contará para la rendición de los correspondientes informes, certificados y dictámenes, con las especialidades que resulten necesarias y la partida presupuesta autorice.
+Cuando las disposiciones aplicables lo permitan, el Procurador podrá habilitar a peritos en cualquier área, siempre y cuando cumplan con los requisitos dispuestos en esta ley. La Dirección de Servicios Periciales contará para la rendición de los correspondientes informes, certificados y dictámenes, con las especialidades que resulten necesarias y la partida presupuestal autorice.
 
 ###### Artículo 37.
 
@@ -1545,7 +1555,7 @@ IV. Restituir a la víctima u ofendido en el goce de sus derechos, cuando ello s
 
 V. Acordar y en su caso solicitar al órgano jurisdiccional, la práctica de las actividades necesarias para la investigación, así como la aplicación de las medidas cautelares que resulten pertinentes, conforme a las disposiciones legales aplicables;
 
-VI. Dictar el aseguramiento de los objetos, valores, bienes, vehículos, instrumentos, huellas, efectos, vestigios o productos relacionados con el delito, conforme a lo dispuesto en los ordenamiento legales aplicables;
+VI. Dictar el aseguramiento de los objetos, valores, bienes, vehículos, instrumentos, huellas, efectos, vestigios o productos relacionados con el delito, conforme a lo dispuesto en los ordenamiento (sic) legales aplicables;
 
 VII. Solicitar y recabar de las dependencias y entidades de la administración pública federal y estatal, así como de los demás Estados y Municipios de la República, en los términos de las disposiciones legales aplicables, los informes, opiniones, documentos, dictámenes y demás elementos necesarios para la investigación de los delitos de su especialidad;
 
@@ -1657,11 +1667,67 @@ X. Presentar los medios de impugnación que señale la ley en la materia, cuando
 
 XI. Las demás que le atribuyan otras disposiciones legales o que el Procurador le encomiende.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN XVI BIS. DE LA FISCALÍA ESPECIALIZADA EN DELITOS COMETIDOS EN CONTRA DE LOS MIGRANTES
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 65 Bis.
+
+Son funciones y obligaciones de la Fiscalía Especializada en Delitos cometidos en Contra de los Migrantes, además de las inherentes al Ministerio Público, bajo el mando, supervisión y responsabilidad de su Titular:
+
+I. Conocer de las denuncias y querellas que se presenten, por hechos que pudieran ser constitutivos de los delitos del fuero común, en agravio de cualquier migrante;
+
+II. Recibir y atender toda denuncia o aviso que tenga relación con hechos posiblemente constitutivos de los delitos de su especialidad. Cuando lo requiera podrá auxiliarse de un perito traductor;
+
+III. Llevar a cabo las acciones necesarias para solicitar el auxilio y colaboración de los titulares de la representación diplomática o consular del país del que provenga el migrante, en los términos de los convenios internacionales y las disposiciones legales aplicables;
+
+IV. Atraer y recibir las investigaciones que se hayan iniciado en unidades diversas, por los delitos de su especialidad, para continuar con su atención y resolución procedente;
+
+V. Dirigir la investigación de los delitos que conozca, practicando y ordenando para ello todas las actividades que resulten necesarias para su comprobación y la identificación de quien lo cometió o participó en su comisión, en los términos de las disposiciones legales aplicables;
+
+VI. Solicitar al Procurador, la atracción de los asuntos que tengan vinculación con los delitos que persigue, y las materias que tienen encomendadas, de acuerdo con su especialidad;
+
+VII. Brindar atención jurídica, así como atención médica y psicológica a los migrantes que sean víctimas u ofendidos de los delitos, canalizándolos sin dilación al área o institución que corresponda;
+
+VIII. Restituir a la víctima u ofendido en el goce de sus derechos, en los términos de las disposiciones legales aplicables;
+
+IX. Acordar y en su caso, solicitar al órgano jurisdiccional, la práctica de las actividades necesarias para la investigación, así como la aplicación de las medidas cautelares que aseguren los derechos de los migrantes y todas aquellas que resulten pertinentes y la legislación así lo establezca;
+
+X. Dictar el aseguramiento de los objetos, valores, bienes, vehículos, instrumentos, huellas, efectos, vestigios o productos relacionados con el delito de su especialidad, conforme a lo dispuesto en los ordenamientos legales aplicables;
+
+XI. Solicitar y recabar de las dependencias y entidades de la administración pública federal y estatal, así como de los demás Estados y Municipios de la República, en los términos de las disposiciones legales aplicables, los informes, opiniones, documentos, dictámenes y demás elementos necesarios para la investigación de los delitos de su especialidad;
+
+XII. Solicitar y recabar de las personas físicas y morales, los informes, documentos y objetos que se consideren necesarios para la adecuada investigación del delito de su especialidad;
+
+XIII. Llevar el registro de los hechos delictivos cometidos en contra de migrantes que sean de su conocimiento, a efecto de realizar las estadísticas por el área correspondiente;
+
+XIV. Intercambiar información referente a su especialidad, con las autoridades estatales y federales, con el objeto de dar seguimiento a los hechos delictivos cometidos en perjuicio de los migrantes y proponer al Procurador las políticas y acciones en materia de prevención del delito en este sector;
+
+XV. Proponer al Procurador cursos y talleres de capacitación para la sensibilización del trato a los migrantes, así como de prevención e investigación de su especialidad;
+
+XVI. Acordar con el Procurador los asuntos de su competencia, y
+
+XVII. Las demás que le atribuyan otras disposiciones legales o que el Procurador le encomiende.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 65 Ter.
+
+La Fiscalía Especializada en Delitos cometidos en Contra de los Migrantes, estará ubicada físicamente en el lugar donde termine el Procurador, siendo de preferencia en las cercanías de la franja fronteriza del Estado.
+
+Además, contará con el número de agentes del Ministerio Público y personal que el servicio y el buen funcionamiento de dicha Fiscalía requiera la partida presupuestal lo permita.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 65 Quáter.
+
+Para efectos de los asuntos que conocerá la Fiscalía Especializada en Delitos cometidos en Contra de los Migrantes, se entenderá por Migrante a cualquier persona física que sale de su país de origen y que por cualquier tipo de motivación, transita o llega al territorio del Estado, sin importar sus estatus migratorio.
+
 #### SECCIÓN XVII. DE LA UNIDAD DE DERECHOS HUMANOS
 
 #### SECCIÓN XVIII. DE LA UNIDAD DE JUSTICIA ALTERNATIVA PENAL
-
-#### SECCIÓN I. DEL OFRECIMIENTO Y DESAHOGO DE LAS PRUEBAS
 
 ###### Artículo 66.
 
@@ -1707,7 +1773,7 @@ XIX. Dirigir unidades de protección y promoción de los derechos humanos instal
 
 XX. Las demás que le atribuyan otras disposiciones legales o que el Procurador le encomiende.
 
-#### SECCIÓN II. PRUEBA DOCUMENTAL
+#### SECCIÓN I. DEL OFRECIMIENTO Y DESAHOGO DE LAS PRUEBAS
 
 ###### Artículo 67.
 
@@ -3015,7 +3081,7 @@ El elemento de la Policía Ministerial al ser apartado del cargo, ya sea por sus
 
 ### CAPÍTULO VII. DE LAS PRUEBAS
 
-#### SECCIÓN III. PRUEBA PERICIAL
+#### SECCIÓN II. PRUEBA DOCUMENTAL
 
 ###### Artículo 163.
 
@@ -3065,7 +3131,7 @@ Al ofrecer la prueba de inspección se deberá indicar con precisión el objeto 
 
 No será admisible la prueba de inspección sobre documentos.
 
-#### SECCIÓN IV. DEL RECONOCIMIENTO O INSPECCIÓN OCULAR
+#### SECCIÓN III. PRUEBA PERICIAL
 
 ###### Artículo 171.
 
@@ -3093,7 +3159,7 @@ Para que haga fe en el Estado los documentos públicos procedentes del extranjer
 
 ###### Artículo 174.
 
-Los documentos que se presenten en otro idioma del español, deberá estar acompañado de su respectiva traducción, sin la cual será desechado (sic).
+Los documentos que se presenten en otro idioma del español, deberá estar acompañado de su respectiva traducción, sin la cual será desechado.
 
 ###### Artículo 175.
 
@@ -3137,7 +3203,7 @@ III. Los documentos cuya letra o firma ha sido judicialmente declarada propia po
 
 IV. El escrito impugnado en la parte en que reconozca la letra como suya aquél a quien perjudique.
 
-#### SECCIÓN V. PRUEBA TESTIMONIAL
+#### SECCIÓN IV. DEL RECONOCIMIENTO O INSPECCIÓN OCULAR
 
 ###### Artículo 182.
 
@@ -3155,7 +3221,7 @@ El perito tercero en discordia será nombrado por el Secretario Instructor. Los 
 
 Cuando la diligencia de que se trate deba presidirla el Secretario Instructor se señalará lugar, día y hora para que aquella se practique. En cualquiera otro caso se fijará a los peritos un término prudente para que presenten el dictamen correspondiente. El Secretario Instructor puede en todo caso formular a los peritos cuestiones que sean pertinentes al momento que emitan su opinión técnica.
 
-#### SECCIÓN VI. OTROS ELEMENTOS PROBATORIOS
+#### SECCIÓN V. PRUEBA TESTIMONIAL
 
 ###### Artículo 185.
 
@@ -3171,7 +3237,7 @@ Del reconocimiento se levantará acta, que firmarán los que a él concurran, as
 
 Cuando fuere necesario se levantarán planos, grabaciones de audio o video o se sacarán vistas fotográficas del lugar u objetos inspeccionados.
 
-#### SECCIÓN VII. VALORACIÓN
+#### SECCIÓN VI. OTROS ELEMENTOS PROBATORIOS
 
 ###### Artículo 187.
 
@@ -3218,6 +3284,8 @@ El Secretario Instructor tendrá la más amplia facultad para hacer a los testig
 ###### Artículo 195.
 
 El Secretario Instructor podrá dictar las providencias necesarias para que los testigos no se comuniquen entre sí, ni por medio de otra persona, antes de que rindan su declaración.
+
+#### SECCIÓN VII. VALORACIÓN
 
 ###### Artículo 196.
 
@@ -3378,3 +3446,13 @@ LIC. ROBERTO BORGE ANGULO.
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 
 M. EN A. JOSÉ GABRIEL CONCEPCIÓN MENDICUTI LORÍA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE DICIEMBRE DE 2014.
+
+Primero. El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Tercero. Para garantizar el cumplimiento del presente Decreto, el Titular del Poder Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y Planeación del Estado, establecerá las partidas presupuestales pertinentes en el Presupuesto de Egresos del Estado.
