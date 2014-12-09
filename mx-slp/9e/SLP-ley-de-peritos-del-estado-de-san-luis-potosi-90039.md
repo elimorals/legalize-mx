@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-peritos-del-estado-de-san-luis-potosi-90039"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-20"
-last_updated: "2012-10-20"
+last_updated: "2014-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SLP"
 
 LEY DE PERITOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL UNO DE MARZO DEL DOS MIL CATORCE PREVIA SU PUBLICACIÓN.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 20 de Octubre de 2012.
 
@@ -75,161 +73,165 @@ Se establece el Registro Estatal de Peritos como un medio de control de orden p�
 
 Los poderes Legislativo y Judicial y las dependencias del Ejecutivo del Estado, de los Municipios y sus organismos descentralizados, así como los organismos constitucionales autónomos, sólo admitirán los avalúos y dictámenes periciales que hayan sido expedidos por peritos inscritos en el Registro a que se refiere el artículo anterior, así como los avalúos catastrales y los emitidos por corredores públicos de conformidad con lo previsto en sus leyes o reglamentos respectivos.
 
-###### ARTÍCULO 5°.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
 
-Para efectos de la presente ley, los peritos se clasifican en:
+###### ARTÍCULO 5º.
 
-I. Peritos valuadores: Son los profesionistas, científicos, técnicos o prácticos, que en los términos y requisitos que previene esta Ley, cuenten con los conocimientos necesarios para emitir dictámenes técnicos de valor en los siguientes ramos:
+Para efectos de la presente Ley, los peritos se clasifican en:
 
-a) Bienes inmuebles;
+I. Peritos valuadores: son los profesionistas; científicos; técnicos, o prácticos, que en los términos y requisitos que previene esta Ley, cuenten con los conocimientos necesarios para emitir dictámenes técnicos de valor en los siguientes ramos:
 
-a. 1 Urbanos;
+a) Bienes inmuebles.
 
-b. 2 Rústicos;
+1. Urbanos.
 
-b) Bienes muebles;
+2. Rústicos.
 
-b. 1 Bienes agropecuarios;
+b) Bienes muebles.
 
-b. 2 Bienes industriales, maquinaria y equipo;
+1. Bienes agropecuarios.
 
-b. 3 Alhajas y metales;
+2. Bienes industriales; maquinaria, y equipo.
 
-b. 4 Antigüedades y obras de arte;
+3. Alhajas y metales.
 
-b. 5 Vehículos automotores;
+4. Antigüedades y obras de arte.
 
-b. 6 Aparatos e instrumentos electrónicos;
+5. Vehículos automotores.
 
-b. 7 Mobiliario y enseres menores
+6. Aparatos e instrumentos electrónicos.
+
+7. Mobiliario y enseres menores.
 
 c) Servicios.
 
-La función de los peritos valuadores consiste en expedir avalúos elaborados técnicamente sobre el valor de los bienes a que se refieren los incisos anteriores, según la modalidad solicitada y extender el documento que contenga el estudio que establezca dicho valor.
+La función de los peritos valuadores consiste en expedir avalúos elaborados técnicamente sobre el valor de los bienes a que se refieren los incisos anteriores, según la modalidad solicitada, y extender el documento que contenga el estudio que establezca dicho valor;
 
-II. Peritos dictaminadores: Son los profesionistas, científicos, técnicos o prácticos que en los· términos y bajo los requisitos que establece esta Ley, cuenten con los conocimientos necesarios en la ciencia, arte, oficio o industria sobre la que verse el asunto acerca del cual se elabore su dictamen.
+II. Peritos dictaminadores: son los profesionistas; científicos; técnicos, o prácticos que en los términos y bajo los requisitos que establece esta Ley, cuenten con los conocimientos necesarios en la ciencia, arte, oficio o industria sobre la que verse el asunto acerca del cual se elabore su dictamen.
 
 Con carácter enunciativo, las materias de pericia de los dictaminadores se clasifican en:
 
-1. Contabilidad;
+a) Contabilidad.
 
-2. Mecánica en general;
+b) Mecánica en general.
 
-3. Medicina general;
+c) Medicina general.
 
-4. Psicología;
+d) Psicología.
 
-5. Psiquiatría;
+e) Psiquiatría.
 
-6. Arquitectura;
+f) Arquitectura.
 
-7. Ingeniería;
+g) Ingeniería.
 
-8. Agronomía;
+h) Agronomía.
 
-9. Sociología;
+i) Sociología.
 
-10. Arquitectura;
+j) Arquitectura.
 
-11. Derecho;
+k) Derecho.
 
-12. Ciencias sociales;
+l) Ciencias sociales.
 
-13. Informática;
+m) Informática.
 
-14. Ciencias económicas;
+n) Ciencias económicas.
 
-15. Matemáticas;
+o) Matemáticas.
 
-16. Odontología;
+p) Odontología.
 
-17. Medicina veterinaria;
+q) Medicina veterinaria.
 
-18. Química;
+r) Química.
 
-19. Artes en general;
+s) Artes en general.
 
-20. Genética;
+t) Genética.
 
-21. Administración;
+u) Administración.
 
-22. Carpintería;
+v) Carpintería.
 
-23. Comercio;
+w) Comercio.
 
-24. Criminología;
+x) Criminología.
 
-25. Balística;
+y) Balística.
 
-26. Dactiloscopia;
+z) Dactiloscopía.
 
-27. Documentoscopía;
+aa) Documentoscopía.
 
-28. Grafoscopía y Documentología;
+bb) Grafoscopía y Documentología.
 
-29. Poligrafía;
+cc) Poligrafía.
 
-30. Medicina forense;
+dd) Medicina forense.
 
-31. Química forense;
+ee) Química forense.
 
-32. Tránsito terrestre, aéreo, náutico o fluvial;
+ff) Tránsito terrestre, aéreo, náutico o fluvial.
 
-33. Antropometría;
+gg) Antropometría.
 
-34. Análisis de voz;
+hh) Análisis de voz.
 
-35. Fotografía forense;
+ii) Fotografía forense.
 
-36. Audio y Video grabación forense;
+jj) Audio y video grabación forense;
 
-37. Criminalística de campo;
+kk) Criminalística de campo.
 
-38. Genética forense;
+ll) Genética forense.
 
-39. Identificación fisonómica;
+mm) Identificación fisonómica.
 
-40. Incendios y explosiones;
+nn) Incendios y explosiones.
 
-41. Propiedad intelectual;
+oo) Propiedad intelectual.
 
-42. Ingeniería civil, topografía y arquitectura forense;
+pp) Ingeniería civil, topografía y arquitectura forense.
 
-43. Odontología forense;
+qq) Odontología forense.
 
-44. Psicología forense;
+rr) Psicología forense.
 
-45. Psiquiatría forense;
+ss) Psiquiatría forense.
 
-46. Retrato hablado;
+tt) Retrato hablado.
 
-47. Computación e Informática forense;
+uu) Computación e informática forense;
 
-48. Medicina del Trabajo;
+vv) Medicina del trabajo.
 
-49. Radiología;
+ww) Radiología.
 
-50. Auditoría;
+xx) Auditoría.
 
-51. Ciencias ambientales;
+yy) Numismática.
 
-52. Numismática;
+zz) Propiedad intelectual.
 
-53. Propiedad Intelectual;
+aaa) Filatelia.
 
-54. Filatelia;
+bbb) Antropología.
 
-55. Antropología;
+ccc) Dibujo y planimetría.
 
-56. Dibujo y Planimetría, y
+ddd) Las demás que sean necesarias.
 
-57. Las demás que sean necesarias.
+La función de los peritos dictaminadores consiste en la emisión de opiniones fundadas que, expliquen; aclaren; definan, o clarifiquen en forma metodológica, técnica, o científica sobre el asunto en el que se solicite su intervención;
 
-La función de los peritos dictaminadores consiste en la emisión de opiniones fundadas que expliquen, aclaren, definan o clarifiquen en forma metodológica, técnica o científica sobre el asunto en el que se solicite su intervención.
+III. Peritos traductores e intérpretes: son los profesionistas, técnicos o prácticos que en los términos y bajo los requisitos que previene esta Ley, expresen en una lengua o idioma lo que está escrito o se ha expresado en otra u otro, incluso en un lenguaje no verbal.
 
-III. Peritos traductores e intérpretes: Son los profesionistas, técnicos o prácticos que en los términos y bajo los requisitos que previene esta Ley, expresen en una lengua o idioma lo que está escrito o se ha expresado en otra u otro, incluso en un lenguaje no verbal.
+La función de los peritos traductores e intérpretes consiste en realizar la traducción e interpretación, según el caso, de alguna de las lenguas o idiomas, o cualquier sistema de comunicación humana, y
 
-La función de los peritos traductores e intérpretes, consiste en realizar la traducción e interpretación, según el caso, de alguna de las lenguas o idiomas o cualquier sistema de comunicación humana.
+IV. Peritos ambientales: son las personas que prestan servicios profesionales con conocimientos científicos, teóricos o prácticos en materias ambientales.
+
+La función de los peritos ambientales consiste en realizar, informes preventivos; manifestaciones de impacto ambiental; estudios de riesgo; y demás estudios, opiniones, y dictámenes que se requieran en materia ambiental.
 
 ###### Artículo 6°.
 
@@ -243,7 +245,9 @@ Para efectos de la administración del Registro habrá una Comisión integrada p
 
 I. Un Presidente, que será el Secretario General de Gobierno;
 
-II. Un Secretario que será el Director General de Asuntos Jurídicos de Gobierno del Estado;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+II. Un Secretario, que será el Director General de Gobernación;
 
 III. El Director de Catastro del Estado;
 
@@ -258,6 +262,10 @@ VII. El Coordinador General de la Defensoría Social y de Oficio;
 VIII. Los Presidentes de los Colegios, asociaciones y barras de abogados que se encuentren reconocidos en el Estado, y
 
 IX. Los Presidentes de los Colegios o Asociaciones de Peritos que existan o se constituyan en el Estado.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+En ausencia del Presidente, éste designará por oficio a quien lo represente; y, en caso de ausencia del Secretario, éste será representado por el Director de Catastro.
 
 ###### ARTÍCULO 8°.
 
@@ -313,65 +321,81 @@ Los miembros de la Comisión están obligados a concurrir a todas las sesiones a
 
 ### CAPITULO III. Del Registro de Peritos
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 12.
 
-Para ejercer la actividad pericial en el Estado, los interesados deberán inscribirse en el Registro, presentando por escrito la solicitud correspondiente ante la Secretaría General de Gobierno, debiendo anexar a ésta los documentos que acrediten el cumplimiento de los siguientes requisitos:
+Para ejercer la actividad pericial en el Estado, los interesados deberán inscribirse en el Registro, presentando por escrito la solicitud correspondiente ante la Secretaría General de Gobierno, debiendo anexar a ésta, los documentos que acrediten el cumplimiento de los siguientes requisitos:
 
 I. Tratándose de peritos valuadores de bienes inmuebles:
 
-a) Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+a) Ser ciudadano mexicano en pleno ejercicio de sus derechos.
 
-b) Tener título profesional de arquitecto, ingeniero en las ramas afines o licenciatura en edificación y administración de obras, expedido y registrado por autoridad competente que lo faculte para ejercer la ciencia o disciplina de que se trate. Se deberá acreditar probada experiencia en el ramo, avalada por un colegio de profesionistas de alguna de las ramas señaladas, asociación de peritos o institución especializada, en la materia;
+b) Tener título profesional de arquitecto; ingeniero en las ramas afines, o licenciatura en edificación y administración de obras, expedido y registrado por autoridad competente, que lo faculte para ejercer la ciencia o disciplina de que se trate. Se deberá acreditar probada experiencia en el ramo, avalada por un colegio de profesionistas de alguna de las ramas señaladas, asociación de peritos o institución especializada, en la materia.
 
-c) Poseer cédula profesional expedida por la Dirección General de Profesiones dependiente de la Secretaría de Educación Pública;
+c) Poseer cédula profesional expedida por la Dirección General de Profesiones dependiente de la Secretaría de Educación Pública.
 
-d) Comprobar el ejercicio actual de su profesión con una antigüedad mínima de tres años de práctica;
+d) Comprobar el ejercicio actual de su profesión con una antigüedad mínima de tres años de práctica.
 
-e) Observar una conducta honesta y no haber sido condenado por delito doloso o culposo grave así señalado por la ley mediante sentencia ejecutoria, ni estar sujeto a proceso penal, y
+e) Observar una conducta honesta y no haber sido condenado por delito doloso o culposo grave así señalado por la ley, mediante sentencia ejecutoria, ni estar sujeto a proceso penal.
 
-f) Tener una residencia efectiva en el Estado no menor de tres años inmediatos anteriores a la fecha de la solicitud.
+f) Tener una residencia efectiva en el Estado no menor de tres años inmediatos anteriores a la fecha de la solicitud;
 
-II. Tratándose de peritos valuadores de bienes muebles en general y de servicios:
+II. Tratándose de peritos valuadores de bienes muebles en general, y de servicios:
 
-a) Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+a) Ser ciudadano mexicano en pleno ejercicio de sus derechos.
 
-b) Tener título profesional o técnico legalmente expedido y registrado ante la autoridad competente, que lo faculte para ejercer la profesión o técnica relativa a la rama que corresponda. En ambos casos deberán acreditar probada experiencia en el ramo en que pretenda dictaminar, avalada por un colegio o asociación de peritos del ramo o institución especializada en la materia;
+b) Tener título profesional o técnico legalmente expedido y registrado ante la autoridad competente, que lo faculte para ejercer la profesión o técnica relativa a la rama que corresponda. En ambos casos deberán acreditar probada experiencia en el ramo en que pretenda dictaminar, avalada por un colegio o asociación de peritos del ramo o institución especializada en la materia.
 
-c) En su caso, poseer cédula profesional expedida por la Dirección General de Profesiones dependiente de la Secretaría de Educación Pública;
+c) En su caso, poseer cédula profesional expedida por la Dirección General de Profesiones dependiente de la Secretaría de Educación Pública.
 
-d) Comprobar el ejercicio actual de su profesión, oficio o actividad con una antigüedad mínima de tres años de práctica;
+d) Comprobar el ejercicio actual de su profesión, oficio o actividad con una antigüedad mínima de tres años de práctica.
 
-e) Observar una conducta honesta y no haber sido condenado por delito doloso o culposo grave así señalado por la ley, mediante sentencia ejecutoria, ni estar sujeto a proceso penal, y
+e) Observar una conducta honesta y no haber sido condenado por delito doloso o culposo grave así señalado por la ley, mediante sentencia ejecutoria, ni estar sujeto a proceso penal.
 
-f) Tener una residencia efectiva en el Estado, no menor de tres años inmediatos anteriores a la fecha de la solicitud.
+f) Tener una residencia efectiva en el Estado no menor de tres años inmediatos anteriores a la fecha de la solicitud;
 
 III. Tratándose de peritos dictaminadores:
 
-a) Ser ciudadano mexicano en pleno en el pleno ejercicio de sus derechos;
+a) Ser ciudadano mexicano en pleno ejercicio de sus derechos.
 
-b) Tener título profesional o técnico legalmente expedidos y registrados ante la autoridad competente, que acrediten el conocimiento de la materia sobre la que se pretenda dictaminar. En ambos casos deberán acreditar probada experiencia en el ramo correspondiente, avalada por un colegio o asociación de peritos del ramo o institución especializada en la metería;
+b) Tener título profesional o técnico legalmente expedidos y registrados ante la autoridad competente, que acrediten el conocimiento de la materia sobre la que se pretenda dictaminar. En ambos casos deberán acreditar probada experiencia en el ramo correspondiente, avalada por un colegio o asociación de peritos del ramo o institución especializada en la materia.
 
-c) En su caso, poseer cédula profesional expedida por la Dirección General de Profesiones dependiente de la Secretaría de Educación Pública;
+c) En su caso, poseer cédula profesional expedida por la Dirección General de Profesiones dependiente de la Secretaría de Educación Pública.
 
-d) Comprobar el ejercicio actual de su profesión, oficio o actividad con una antigüedad mínima de tres años de práctica;
+d) Comprobar el ejercicio actual de su profesión, oficio o actividad con una antigüedad mínima de tres años de práctica.
 
-e) Observar una conducta honesta y no haber sido condenado por delito doloso o culposo grave así señalado por la ley, mediante sentencia ejecutoria, ni estar sujeto a proceso penal, y
+e) Observar una conducta honesta y no haber sido condenado por delito doloso o culposo grave así señalado por la ley, mediante sentencia ejecutoria, ni estar sujeto a proceso penal.
 
-f) Tener una residencia efectiva en el Estado, no menor de tres años inmediatos anteriores a la fecha de la solicitud.
+f) Tener una residencia efectiva en el Estado no menor de tres años inmediatos anteriores a la fecha de la solicitud;
 
-IV. Tratándose de peritos traductores o intérpretes:
+IV. Tratándose de peritos traductores, o intérpretes:
 
-a) Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+a) Ser ciudadano mexicano en pleno ejercicio de sus derechos.
 
-b) Tener título profesional o técnico legalmente expedidos y registrados ante la autoridad competente, que acrediten que el interesado domina y sabe interpretar el idioma o lengua de que se trate; o bien, constancia emitida por una Institución Oficial o documento análogo expedido legalmente, que demuestre el dominio del idioma, o cualquier proceso de comunicación humana;
+b) Tener título profesional o técnico legalmente expedidos y registrados ante la autoridad competente, que acrediten que el interesado domina y sabe interpretar el idioma o lengua de que se trate; o bien, constancia emitida por una institución oficial o documento análogo expedido legalmente, que demuestre el dominio del idioma, o cualquier proceso de comunicación humana.
 
-c) Tratándose de lenguas o dialectos de las etnias, se requerirá certificación del Instituto Nacional de Lenguas Indígenas que haga constar que el interesado domina y sabe interpretar la lengua de que se trata, así como el idioma español, o en su caso, constancia de las autoridades tradicionales de alguno de los pueblos indígenas que hablen la lengua respectiva;
+c) Tratándose de lenguas o dialectos de las etnias, se requerirá certificación del Instituto Nacional de Lenguas Indígenas, que haga constar que el interesado domina y sabe interpretar la lengua de que se trata, así como el idioma español o, en su caso, constancia de las autoridades tradicionales de alguno de los pueblos indígenas que hablen la lengua respectiva.
 
-d) En su caso, poseer cédula profesional expedida por la Dirección General de Profesiones dependiente de la Secretaría de Educación Pública;
+d) En su caso, poseer cédula profesional expedida por la Dirección General de Profesiones dependiente de la Secretaría de Educación Pública.
 
-e) Observar una Conducta honesta y no haber sido condenado por delito doloso o culposo grave así señalado por la ley, mediante sentencia ejecutoria, ni estar sujeto a proceso penal, y
+e) Observar una conducta honesta y no haber sido condenado por delito doloso o culposo grave así señalado por la ley, mediante sentencia ejecutoria, ni estar sujeto a proceso penal.
 
-f) Tener una residencia efectiva en el Estado, no menor de tres años inmediatos anteriores a la fecha de la solicitud.
+f) Tener una residencia efectiva en el Estado no menor de tres años inmediatos anteriores a la fecha de la solicitud, y
+
+V. Tratándose de peritos ambientales:
+
+a) Ser ciudadano mexicano en pleno ejercicio de sus derechos.
+
+b) Tener título profesional o técnico legalmente expedidos y registrados ante la autoridad competente, que acrediten el conocimiento de la materia sobre la que se pretende dictaminar. En ambos casos deberán acreditar probada experiencia en el ramo correspondiente, avalada por un colegio o asociación de peritos del ramo o institución especializada en la materia.
+
+c) En su caso, poseer cédula profesional expedida por la Dirección General de Profesiones dependiente de la Secretaría de Educación Pública.
+
+d) Comprobar el ejercicio actual de su profesión, oficio o actividad con una antigüedad mínima de tres años de práctica.
+
+e) Observar una conducta honesta y no haber sido condenado por delito doloso o culposo grave así señalado por la ley, mediante sentencia ejecutoria, ni estar sujeto a proceso penal.
+
+f) Tener una residencia efectiva en el Estado no menor de tres años inmediatos anteriores a la fecha de la solicitud.
 
 ###### ARTÍCULO 13.
 
@@ -383,9 +407,11 @@ II. Cédula profesional idónea en la materia del dictamen o en su caso, acredit
 
 Tratándose de asuntos graves o urgentes la Comisión o el Secretario, podrán expedir una autorización especial en forma inmediata, misma que el perito deberá acompañar al dictamen respectivo.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 14.
 
-La Secretaría recibirá la solicitud acompañada de los documentos a que se refiere el artículo 11 de esta Ley, turnándola, de inmediato a la Comisión para que resuelva si el interesado cumple con los requisitos para obtener la constancia. En caso de no ser cubierto alguno o algunos de los requisitos, se hará saber al interesado otorgándole un plazo de quince días hábiles para cubrirlos, mismo que se contará a partir del día siguiente al de la notificación; de no hacerlo así en el plazo señalado, se desechará la solicitud.
+La Secretaría recibirá la solicitud acompañada de los documentos a que se refiere el artículo 12 de esta Ley, turnándola, de inmediato, a la Comisión, para que resuelva si el interesado cumple con los requisitos para obtener la constancia. En caso de no ser cubierto alguno o algunos de los requisitos, se hará saber al interesado, otorgándole un plazo de quince días hábiles para cubrirlos, mismo que se contará a partir del día siguiente al de la notificación; de no hacerlo así en el plazo señalado, se desechará la solicitud.
 
 ###### ARTÍCULO 15.
 
@@ -485,7 +511,7 @@ c) Cuando se niegue a prestar sus servicios sin causa justificada;
 
 d) Cuando actúe con parcialidad en la elaboración del peritaje;
 
-e) Cuando haya otorgado responsiva en avalúos que no hubiere formulado personalmente; y (sic)
+e) Cuando haya otorgado responsiva en avalúos que no hubiere formulado personalmente; y
 
 f) Cuando formule peritajes estando inhabilitado para ello por las causas que establece esta ley o por decisión judicial;
 
@@ -558,3 +584,11 @@ El Secretario General de Gobierno
 Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE DICIEMBRE DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
