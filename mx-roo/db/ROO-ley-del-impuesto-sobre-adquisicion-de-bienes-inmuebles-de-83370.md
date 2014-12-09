@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-impuesto-sobre-adquisicion-de-bienes-inmuebles-de-83370
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-03"
-last_updated: "2012-10-30"
+last_updated: "2014-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL DECRETO NÚMERO: 162 POR EL QUE SE EXPIDE LA LEY DE HACIENDA DEL MUNICIPIO DE COZUMEL DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 9 DE DICIEMBRE DE 2014, SE DEROGA DE LA LEY DEL IMPUESTO SOBRE ADQUISICIÓN DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, TODA REFERENCIA REALIZADA RESPECTO DEL MUNICIPIO DE COZUMEL.]</small>
+
 LEY DEL IMPUESTO SOBRE ADQUISICIÓN DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Número 74 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 3 de octubre de 2011.
 
@@ -228,3 +230,53 @@ JOSÉ MAURICIO GÓNGORA ESCALANTE
 P.O. 30 DE OCTUBRE DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 9 DE DICIEMBRE DE 2014.
+
+PRIMERO. La presente ley, entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en la presente ley, salvo lo establecido en el Capítulo XVIII del Título Tercero de la Ley de Hacienda de los Municipios del Estado de Quintana Roo, mismo que será aplicado en todos sus términos en el Municipio de Cozumel, Quintana Roo.
+
+TERCERO. Se deroga de la Ley de Hacienda de los Municipios del Estado de Quintana Roo, toda referencia realizada respecto del Municipio de Cozumel, con la salvedad realizada en el artículo transitorio inmediato anterior de esta ley.
+
+CUARTO. Se deroga de la Ley del Impuesto Sobre Adquisición de Bienes Inmuebles de los Municipios del Estado de Quintana Roo toda referencia realizada respecto del Municipio de Cozumel.
+
+QUINTO. Los procedimientos iniciados por las autoridades municipales conforme a las disposiciones de la Ley de Hacienda de los Municipios del Estado de Quintana Roo, continuarán aplicando tales disposiciones hasta su conclusión.
+
+SEXTO. En tanto el Estado y el Municipio permanezcan adheridos al Sistema Nacional de Coordinación Fiscal, suscrito mediante convenio y anexos respectivos con la Secretaría de Hacienda y Crédito Público, quedan en suspenso los siguientes derechos:
+
+I.- Licencias, anuencias previas al otorgamiento de las mismas, en general concesiones, permisos o autorizaciones, o bien obligaciones y requisitos que condicionen el ejercicio de actividades comerciales o industriales y de prestación de servicios. Asimismo, los que resulten como consecuencia de permitir o tolerar excepciones a una disposición administrativa tales como la ampliación de horario, con excepción de las siguientes:
+
+a).- Licencias de construcción.
+
+b).- Licencias o permisos para efectuar conexiones a las redes públicas de agua y alcantarillado.
+
+c).- Licencias para fraccionar o lotificar terrenos.
+
+d).- Licencias para conducir vehículos.
+
+e).- Expedición de placas y tarjeta para la circulación de vehículos.
+
+f).- Licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales, cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general.
+
+g).- Licencias, permisos o autorizaciones para la colocación de anuncios y carteles o la realización de publicidad, excepto los que se realicen por medio de televisión, radio, periódicos y revistas.
+
+II.- Registros o cualquier acto relacionado con los mismos, a excepción de los siguientes:
+
+a).- Registro Civil
+
+b).- Registro de la Propiedad y del Comercio.
+
+III.- Uso de las vías públicas o la tenencia de bienes sobre las mismas. No se considerarán comprendidos dentro de lo dispuesto en esta fracción los derechos de estacionamiento de vehículos, el uso de la vía pública por comerciantes ambulantes o con puestos fijos o semifijos, ni por el uso o tenencia de anuncios.
+
+IV.- Actos de inspección y vigilancia.
+
+Los derechos locales o municipales no podrán ser diferenciales considerando el tipo de actividad a que se dedique el contribuyente, excepto tratándose de derechos diferenciales por los conceptos a los que se refieren los incisos del a) al g) de la fracción I y la fracción III.
+
+Las certificaciones de documentos así como la reposición de éstos por extravío o destrucción parcial o total, no quedará comprendida dentro de lo dispuesto en las fracciones I y II de este artículo. Tampoco quedan comprendidas las concesiones por el uso o aprovechamiento de bienes pertenecientes a las Entidades Federativas o a los municipios.
+
+En ningún caso lo dispuesto en este artículo, se entenderá que limita la facultad de los Estados y Municipios para requerir licencias, registros, permisos o autorizaciones, otorgar concesiones y realizar actos de inspección y vigilancia. Para el ejercicio de estas facultades no se podrá exigir cobro alguno, con las salvedades expresamente señaladas en este artículo.
+
+Para los efectos de coordinación con las Entidades, se considerarán derechos, aún cuando tengan una denominación distinta en la legislación local correspondiente, las contribuciones que tengan las características de derecho conforme al Código Fiscal de la Federación y la Ley de Ingresos de la Federación.
+
+También se considerarán como derechos para los efectos de este artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan la característica de derechos de acuerdo con el Código Fiscal de la Federación, aun cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
