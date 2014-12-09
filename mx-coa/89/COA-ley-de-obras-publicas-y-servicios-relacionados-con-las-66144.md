@@ -4,7 +4,7 @@ identifier: "COA-ley-de-obras-publicas-y-servicios-relacionados-con-las-66144"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-06"
-last_updated: "2013-05-10"
+last_updated: "2014-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66144&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 6 de enero de 2009.
 
@@ -115,7 +115,13 @@ IV. La instalación, montaje, colocación o aplicación, incluyendo las pruebas 
 
 V. La localización, exploración, perforación y extracción de agua para uso domestico, industrial y agropecuario, y
 
-VI. Todos aquellos de naturaleza análoga.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+VI.- Los trabajos destinados a la preservación, mantenimiento y restauración del medio ambiente;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+VII.- Todos aquellos de naturaleza análoga.
 
 ###### Artículo 4.
 
@@ -1744,3 +1750,7 @@ P.O. 10 DE MAYO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE DICIEMBRE DE 2014.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de la fecha de su Publicación en el Periódico oficial del Estado.
