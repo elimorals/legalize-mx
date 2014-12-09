@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-municipio-de-benito-juarez-del-estado-88631
 country: "mx"
 rank: "ley"
 publication_date: "2012-06-20"
-last_updated: "2014-10-08"
+last_updated: "2014-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL MUNICIPIO DE BENITO JUÁREZ, DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 20 de junio de 2012.
 
@@ -279,7 +279,9 @@ Este impuesto se causará de acuerdo con la siguiente:
 
 TARIFA
 
-I. Dramas, zarzuelas, comedia y Opera, 8%
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+I. Obras de teatro, zarzuelas, comedia y opera, 6 %.
 
 II. Variedades y similares, aún cuando se realicen en lugares como restaurantes, bares, cabarets, salones de fiesta o baile y centros nocturnos, 30%
 
@@ -291,7 +293,17 @@ V. Jaripeos, Box, Lucha, Juegos Deportivos, Kermeses o Verbenas, 12%
 
 VI. Ferias y juegos mecánicos en general, 10% o en su caso, la cuota diaria que fije la Tesorería Municipal de 3.5 a 10 S.M.G.
 
-VII. Bailes Públicos de 7 a 90 S.M.G.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+VII. Bailes públicos populares que se celebren de forma permanente o eventual:
+
+a) Según aforo hasta 100 personas, 7 SMG.
+
+b) De 101 hasta 500 personas, 50 SMG.
+
+c) De 501 hasta 2000 personas, 70 SMG.
+
+d) De 2001 en adelante, 90 SMG.
 
 VIII. No especificados, siempre que no sean gravados por el Impuesto al Valor agregado, del 15% al 30%.
 
@@ -306,6 +318,10 @@ XII. Juegos electromecánicos que funcionen con tarjetas, fichas y/o monedas, la
 XIII. Videojuegos, la cuota mensual por máquina será de 2.0 a 3.0 S.M.G.
 
 XIV. Eventos de luz y sonido, de 5.0 a 20 S.M.G.
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+XV. Conciertos, recitales y audiciones musicales de 10 al 12 %.
 
 ###### Artículo 28.
 
@@ -709,6 +725,10 @@ i) Lanchas para servicio Público:
 
 3. De más de 10 metros 45.0 S.M.G.
 
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+En el caso de los incisos a), b), c), d), e) y f) tratándose de matrícula y registro con motivo de la apertura de un primer negocio en los términos que señala la fracción XXVI del artículo 3 de la Ley de Desarrollo Económico y Competitividad para el Estado de Quintana Roo, se otorgará un descuento de hasta el 50% en el pago de los derechos respectivos, previa acreditación de los requisitos que establezca el ayuntamiento.
+
 II. Derechos de control vehicular:
 
 a) Para automóviles y camionetas particulares hasta de dos toneladas, 10% del Impuesto Sobre Tenencia o Uso de Vehículos, del año calendario vigente o 6.3 S.M.G., cualquiera que sea el mayor;
@@ -783,11 +803,19 @@ III. Por la expedición o renovación de licencias para conducir vehículos de m
 
 a) Licencia de servicio público estatal 4.5 S.M.G.
 
-b) Licencia de chofer 5.6 S.M.G.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
 
-c) Licencia de automovilista 5. S.M.G.
+b) Licencia de chofer 6.20 SMG.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+c) Licencia de automovilista 5.75 SMG.
 
 d) Licencia de motociclista 2.3 S.M.G.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+En el caso de los incisos b) y c) de ésta fracción, cuando se tramite la licencia por primera vez o renovación, con motivo de un primer empleo, se otorgará un descuento de hasta el 50% en el pago de los derechos respectivos, previa acreditación de la obtención del primer empleo a que hace referencia la ley de la materia.
 
 IV. Por la expedición del permiso provisional para conducir vehículos de motor, los derechos de (sic) causarán por cada mes de vigencia del mismo, conforme a la siguiente tarifa:
 
@@ -827,7 +855,15 @@ concesión.
 
 IX. Por el examen optometrista de agudeza visual para conducir un vehículo de motor, se causará el derecho equivalente a 1.2 S.M.G.
 
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+Cuando se tramite éste examen con motivo de un primer empleo, se otorgará un descuento de hasta el 50% en el pago del derecho respectivo, previa acreditación de la obtención del primer empleo a que hace referencia la ley de la materia.
+
 X. Por el examen de grupo sanguíneo y la expedición del comprobante correspondiente, se causará el derecho equivalente a 1.2 S.M.G.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+Cuando se tramite éste examen con motivo de un primer empleo, se otorgará un descuento de hasta el 50% en el pago del derecho respectivo, previa acreditación de la obtención del primer empleo a que hace referencia la ley de la materia.
 
 XI. Por el arrastre de grúa, derivado de hechos de tránsito 8.3 S.M.G.
 
@@ -1083,7 +1119,9 @@ TARIFA:
 
 I. Cuando se trate de casa habitación:
 
-a) Quedarán exentas las de interés social cuando sea autoconstrucción, previa verificación de la autoridad correspondiente, y la superficie total de construcción no exceda de 55 m2 de construcción m2.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+a) Quedarán exentas las de interés social cuando sea autoconstrucción o ampliación, previa verificación de la autoridad correspondiente, y la superficie total de construcción no exceda de 55 m2 de construcción m2 (sic).
 
 b) De interés medio, con mas
 
@@ -1093,9 +1131,13 @@ se pagará por m2 de construcción: 0.15 S.M.G.
 
 c) Residencial, se pagará por m2 de construcción:
 
-1. Zona Urbana. 0.20 S.M.G.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
 
-2. Residencial Zona Hotelera 0.25 S.M.G.
+1.- Zona urbana 0.25 SMG.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+2.- Zona Hotelera 0.30 SMG
 
 d) Por revisión, validación y aprobación de planos:
 
@@ -1105,15 +1147,25 @@ d) Por revisión, validación y aprobación de planos:
 
 II. Cuando se trate de construcciones destinadas a fines comerciales y/o de servicios, industriales o de cualquier otra índole distinta a la establecida en la fracción anterior, se pagará por m2 de construcción:
 
-a) Comercial y/o de servicios Zona Urbana. 0.25 S.M.G.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
 
-b) Comercial y/o de servicios Zona Turística. 0.50 S.M.G.
+a) Comercial y/o de servicios Zona Urbana 0.30 SMG.
 
-c) Comercial y/o de servidos en zonas diferentes a las anteriormente señaladas. 0.20 S.M.G.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
 
-d) Industrial y cualquier otra índole. 0.50 S.M.G.
+b) Comercial y/o de servicios Zona Turística 0.60 SMG.
 
-Las licencias y refrendos de obras comprendidas en la fracción I, se expedirán por un período de 360 días y las comprendidas en la fracción II, por los plazos que fijen el Ayuntamiento, los que no serán menores que el anterior.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+c) Comercial y/o de servicios en zonas diferentes a las anteriormente señaladas. 0.45 SMG.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+d) Industrial y cualquier otra índole. 0.75 SMG.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+Tratándose de construcciones y/o ampliaciones con motivo de la apertura de un primer negocio en los términos que señala la fracción XXVI del artículo 3 de la Ley de Desarrollo Económico y Competitividad para el Estado de Quintana Roo, se otorgará un descuento de hasta el 50% en el pago de la licencia de construcción, previa acreditación de los requisitos que establezca el ayuntamiento.
 
 III. Fraccionamiento de terreno: Sobre el monto total del presupuesto de obras de urbanización por ejecutar en el fraccionamiento o en las zonas que van a desarrollarse 2%. En este caso los derechos comprenden los gastos de revisión y el estudio de planos y proyectos, así como la, urbanización y se cobrarán en efectivo al quedar definidos los proyectos, antes de iniciar las obras.
 
@@ -1121,9 +1173,17 @@ El fraccionamiento de terreno, cuando sea destinado a la vivienda de interés so
 
 Cuando el Municipio no pueda efectuar por sí mismo la función contenida en la fracción H, de este artículo, podrá convenir con el Estado la mejor manera de llevarla a cabo, a fin de no ocasionar con su ejercicio afectación a la población.
 
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+Las licencias y refrendos de obras comprendidas en la fracción I, se expedirán por un período de 360 días y las comprendidas en la fracción II, por los plazos que fijen el Ayuntamiento, los que no serán menores que el anterior.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 68.
 
-La ejecución de toda obra sin licencia respectiva, se sancionará de 3 a 100 S.M.G., multa que podrá ampliarse hasta un 50% del costo estimado de la obra en caso de reincidencia.
+La ejecución de toda obra sin licencia respectiva, se sancionará de 1 a 10 SMG por metro cuadrado, multa que podrá ampliarse hasta un 50% del costo estimado de la obra en caso de reincidencia. Tratándose de viviendas de interés medio, la sanción no podrá exceder en un 30% sobre el valor total de la construcción realizada.
+
+Lo dispuesto en el párrafo anterior no será aplicable para las viviendas de interés social.
 
 ###### Artículo 69.
 
@@ -1147,9 +1207,11 @@ lo señalado en el inciso anterior,
 
 se cobrará por m2.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 71.
 
-Por la regularización de licencias para obras de construcción, reconstrucción, ampliación y demolición, se pagará el importe hasta 3 veces de la tarifa correspondiente prevista en el artículo 67.
+Por la regularización de las licencias para obras de construcción, reconstrucción, ampliación y demolición, se pagará el importe hasta 5 veces de la tarifa correspondiente prevista en el artículo 67.
 
 ###### Artículo 72.
 
@@ -1169,15 +1231,23 @@ Hotelera 10 S.M.G. por unidad privativa
 
 II. Por la autorización subdivisión o fraccionamiento de predios de tipo general:
 
-a) Cuando resulten 2 lotes 4.60 S.M.G.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
 
-b) Cuando resulten más de 2 lotes, por cada lote excedente 4.03 S.M.G.
+a) Cuando resulten 2 lotes 15 SMG.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+b) Cuando resulten más de 2 lotes, por cada lote excedente 15 SMG.
 
 III. Por la fusión de predios en general:
 
-a) Por la fusión de 2 lotes 4.60 S.M.G.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
 
-b) Por cada lote que exceda de 24.03 S.M.G.
+a) Por la fusión de 2 lotes 15 SMG.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+b) Por cada lote que exceda de 2, a 15 SMG.
 
 ### CAPÍTULO VI. PANTEONES
 
@@ -1539,6 +1609,26 @@ p) Por autorización para escrituración de lote
 
 (carta de liberación de lote) 6.75 S.M.G.
 
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+q) Certificación de medidas y colindancias Puerto Morelos, Leona Vicario y Zona Agropecuaria:
+
+1. Hasta 300 metros cuadrados 21.87 SMG.
+
+2. De 301 a 600 metros cuadrados 29.16 SMG.
+
+3. De 601 a 1000 metros cuadrados 36.45 SMG.
+
+4. De 1001 a 2000 metros cuadrados 43.74 SMG.
+
+5. De 2001 a 5000 metros cuadrados 58.32 SMG.
+
+6. De 5001 a 10000 metros cuadrados 72.90 SMG.
+
+7. De 10001 a 2 hectáreas 109.35 SMG.
+
+8. De 2.01 hectáreas a 4 hectáreas 174.96 SMG.
+
 ###### Artículo 83.
 
 Los alineamientos de predios tendrán una duración de seis meses, contados a partir de la fecha de su expedición.
@@ -1571,7 +1661,9 @@ II. Croquis de ubicación del establecimiento;
 
 III. Copia del recibo del pago del impuesto predial correspondiente al ejercicio fiscal de que se trate, así como el pago de los de derechos a que se refiere el artículo 120 de esta ley;
 
-En caso que se trate de un nuevo contribuyente, no podrá negársele la Licencia de Funcionamiento con motivo de un adeudo registrado en dicho domicilio, respecto de los derechos a que se refiere el artículo 120 de este ordenamiento; en tal caso, corresponde a la autoridad fiscal municipal correspondiente, hacer efectivo el cobro de la contribución omitida, a través del procedimiento administrativo de ejecución, al causante directo o su responsable solidario, sin que resulte afectado el nuevo solicitante de la licencia de funcionamiento.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+En caso de que se trate de un nuevo contribuyente, para el otorgamiento de una licencia de funcionamiento, el establecimiento, local, ubicación o plaza comercial deberán estar al corriente en el pago de los derechos de recolección, transporte, tratamiento y destino final de residuos sólidos a que se refiere el artículo 120 de esta Ley.
 
 IV. Original para cotejo y copia de la Licencia de Bebidas Alcohólicas con el resello actualizado en el domicilio y nombre de propietario, si en el establecimiento se expiden bebidas alcohólicas;
 
@@ -1580,6 +1672,14 @@ V. Constancia de uso de suelo del establecimiento; y
 VI. Autorización expedida por la Dirección de Protección Civil Municipal o la Autoridad Municipal competente en caso de que el giro sea considerado de riesgo de acuerdo a la reglamentación municipal correspondiente.
 
 Esta Licencia de Funcionamiento se expedirá por establecimiento y por giro de acuerdo a la clasificación que establece el artículo 88 de esta Ley.
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+VII. Copia simple y original para cotejo de documento que acredite la legal posesión o propiedad del inmueble de que se trate.
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+VIII. Si se encuentra en zona federal marítimo terrestre y ambientes costeros, copia simple y documento original para cotejo de la concesión emitida por la autoridad federal competente y constancia de no adeudo.
 
 ###### Artículo 87.
 
@@ -1592,6 +1692,10 @@ II. Copia del recibo del pago del impuesto predial correspondiente al ejercicio 
 III. Original para cotejo y copia de la Licencia de Bebidas Alcohólicas con resello actualizado en el domicilio y nombre de propietario, si se expiden bebidas alcohólicas;
 
 IV. Autorización expedida por la Dirección de Protección Civil Municipal o la Autoridad Municipal competente en caso de que el giro sea considerado de riesgo de acuerdo a la reglamentación municipal correspondiente.
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+V. Si se encuentra en zona federal marítimo terrestre, copia de la concesión y constancia de no adeudo.
 
 Así mismo los contribuyentes que modifiquen su domicilio fiscal, su actividad preponderante, denominación o razón social, o Registro Estatal de Contribuyentes deberán presentar adjunto a la forma aprobada por la Tesorería, la licencia de funcionamiento para que la autoridad Municipal proceda a la actualización de la misma; así como quienes suspendan actividades o pretendan cancelar su registro Municipal de contribuyentes, en todos los casos se sujetarán a los plazos establecidos en el artículo 85 de la presente Ley.
 
@@ -1873,6 +1977,14 @@ hogar de 3.5 S.M.G. a 10.0 S.M.G.
 
 LXXVII (SIC). Inmobiliarias de 1.0 S.M.G. a 5.0 S.M.G.
 
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+LXXVIII. Inmobiliarias de 1.0 S.M.G. a 5.0 S.M.G.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+Para el caso de expedición de la licencia de funcionamiento por la apertura de un primer negocio en los términos que señala la fracción XXVI del artículo 3 de la Ley de Desarrollo Económico y Competitividad para el Estado de Quintana Roo, se exentará el pago del primer año, previa acreditación de los requisitos que establezca el ayuntamiento.
+
 ###### Artículo 89.
 
 Los contribuyentes que no se hayan inscrito en el padrón municipal o que no hubieran solicitado la licencia correspondiente en los plazos establecidos en los artículos 85, 86 y 87 de esta Ley, serán requeridos por la autoridad fiscal municipal, según lo dispuesto en el Código Fiscal Municipal.
@@ -2047,71 +2159,79 @@ Por la expedición de licencias, permisos o autorizaciones que otorguen las auto
 
 TARIFA
 
-I. Denominativos, anualmente 2.0 S.M.G.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
 
-II. Anuncios colocados en vehículos de servicio público, por vehículo anualmente:
+I. Anuncios adosados sin iluminación, anualmente 6.0 SMG.
 
-a) En el exterior del vehículo 6.0 S.M.G.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
 
-b) En el interior del vehículo 1.2 S.M.G.
+II. Anuncios adheribles colocados en vehículos de servicio público, por vehículo anualmente:
 
-III. Volantes, Encartes Ofertas por mes 2.6 S.M.G.
+a) En el exterior del vehículo 18.0 SMG.
 
-IV. Por difusión fonética de publicidad
+b) En el interior del vehículo 3.6 SMG
 
-en la vía pública, por unidad de sonido
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
 
-por día 3.0 S.M.G.
+III. Volantes, encartes ofertas por mes 7.8 SMG.
 
-V. Mantas: en la vía pública por mes. 2.4 S.M.G.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
 
-VI. Por anuncios espectaculares con altura mínima de 3 metros, por artículo anualmente:
+IV. Por difusión fonética de publicidad en la vía pública anualmente, por unidad de sonido por día 9.0 SMG.
 
-a) Cuyo contenido se despliegue
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
 
-a través de una sola carátula,
+V. Mantas; en la vía pública por mes 7.2 SMG
 
-vista o pantalla excepto electrónicos 90.0 S.M.G.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
 
-b) Cuyo contenido se despliegue a
+VI. Por anuncios espectaculares para publicidad propia con altura a partir de 4 metros hasta 12 metros de altura total anualmente:
 
-través de 2 o más carátulas, vistas
+a) Cuyo contenido se despliegue a través de una sola carátula, vista o pantalla excepto electrónicos 270.0 SMG
 
-o pantallas, excepto electrónicos. 180 S.M.G.
+b) Cuyo contenido se despliegue a través de 2 o más carátulas, vistas o pantallas, excepto electrónicos 540.0 SMG.
 
 VII. Anuncios luminosos, anualmente
 
-a) Una pantalla 72.0 S.M.G.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
 
-b) Dos o más pantallas 90.0 S.M.G.
+a) Por pantalla 13.0 SMG.
+
+b) (DEROGADO, P.O. 9 DE DICIEMBRE DE 2014)
 
 VIII. Anuncios giratorios, anualmente 45.0 S.M.G.
 
-IX. Anuncio cuyo contenido se transfiera
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
 
-a través de pantalla electrónica,
+IX. Anuncio cuyo contenido se transfiera a través de pantalla electrónica anualmente.
 
-anualmente 200.0 S.M.G.
+a) Adosadas 600.0 SMG.
 
-X. Anuncios pintados, fijados, sobre
+b) Autosoportante 900.0 SMG.
 
-muros, tapias, fachadas, techos,
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
 
-marquesinas, etc., que no sean denominativos,
-
-por metro cuadrado anual 0.5 S.M.G.
+X. Anuncios pintados, por metro cuadrado anual 1.50 SMG
 
 XI. Por la cartelera de cines, por día 1.0 S.M.G.
 
 XII. Carteles y Posters, por mes 2 S.M.G.
 
-XIII. Anuncios luminosos de gas neón,
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
 
-por metro cuadrado anualmente 1.0 S.M.G.
+XIII. Anuncios luminosos de gas neón, por metro cuadrado anualmente 3.0 SMG.
 
-XIV. Anuncio espectacular denominativo
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
 
-de centro comercial, anualmente 45.0 S.M.G.
+XIV. Anuncio espectacular para publicidad de centros comerciales, publicidad a terceros y publicistas anualmente a la misma tarifa de 135.0 SMG.
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+XV. Tapiales anualmente 18.0 SMG.
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+XVI. Toldos en proyección y autosoportante anualmente 7.50 SMG.
 
 ###### Artículo 105.
 
@@ -2273,7 +2393,9 @@ Cuando el presente derecho sea cubierto en una sola emisión, cubra todo el año
 
 II. Por la presentación de desechos sólidos directamente en el relleno sanitario para su tratamiento y disposición final.
 
-Están obligados a realizar el pago de este derecho, las personas físicas o morales que presenten residuos sólidos directamente en las instalaciones del relleno sanitario, para su tratamiento y disposición final. La tarifa que deberán pagar por este servicio los sujetos obligados, es de $1.00 (un peso 00/100 M.N.) por kilogramo de residuos sólidos presentado.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+Están obligados a realizar el pago de éste derecho, las personas físicas o morales que presenten residuos sólidos directamente en las instalaciones del relleno sanitario, para su tratamiento y disposición final. La tarifa que deberá de pagar por este servicio los sujetos obligados es de $2.00 (Son: Dos Pesos 00/100 M.N.) por kilogramo de residuos sólidos presentado.
 
 Para determinar el monto deberán pesarse los residuos sólidos presentados, en la báscula instalada en el relleno sanitario para tal efecto, y que será operada por el organismo público descentralizado "Solución Integral de Residuos Sólidos Cancún”. Los derechos establecidos en la fracción II de este artículo, deberán ser cubiertos en las instalaciones del relleno sanitario que se encuentre en operación.
 
@@ -2310,6 +2432,8 @@ II. Para los establecimientos descritos en la fracción II del artículo anterio
 Los pagas se enterarán en forma anual durante los dos primeros meses del año o dentro de los veinte primeros días siguientes a la fecha de inicio de sus operaciones mercantiles. En este último caso, la autoridad fiscal impondrá una tarifa estimada y proporcional a los meses del año transcurridos.
 
 ### CAPÍTULO XXIII. OTROS NO ESPECIFICADOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 124.
 
@@ -2359,15 +2483,17 @@ a) Eventos en zonas urbanas
 
 populares De 1.00 a 4..00 (sic) S.M.G.
 
-b) Eventos en la zona centro de
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
 
-la cuidad De 15.00 a 30.00 S.M.G.
+b) Eventos en la zona centro de la ciudad de 30.00 a 45.00 SMG.
 
-c) Eventos en zona residencial De 31.00 a 50.00 S.M.G.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
 
-d) En las demás zonas no previstas
+c) Eventos en zona residencial de 50.00 a 80.00 SMG.
 
-con antelación De 31.00 a 50.00 S.M.G.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+d) en las demás zonas no previstas con antelación de 40.00 a 60.00 SMG.
 
 X. Por la expedición del permiso para realizar en calles maniobras de carga y descarga reguladas por el Reglamento de Transporte de Carga, se establece la siguiente tarifa:
 
@@ -2689,7 +2815,7 @@ Las flotillas de más de 10 vehículos cuyo propietario sea una misma persona f�
 
 ###### Artículo 125.
 
-Quedan comprendidas en este capítulo las personas físicas que realicen los siguientes actos o actividades:
+Quedan comprendidas en este capítulo las personas físicas y morales que realicen los siguientes actos o actividades:
 
 I. Los vendedores de tiempos compartidos;
 
@@ -2698,6 +2824,14 @@ II. Los Directores responsables de la construcción de obras;
 III. Los peritos valuadores;
 
 IV. Los promotores de tiempo compartido.
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+V. Degustación con venta en general.
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+VI. Exposiciones de productos y servicios en general.
 
 ###### Artículo 126.
 
@@ -2724,6 +2858,26 @@ valuadores de 10.0 S.M.G. a 50.0 S.M.G. por año.
 IV. Para los promotores de tiempos
 
 compartidos de 10.0 S.M.G. a 50.0 S.M.G. por año.
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+V. Para la degustación con venta en
+
+general de 10.0 a 15.0 SMG
+
+por día
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+VI. Para las exposiciones de productos y
+
+servicios en general de 0.5 a 3.0 SMG por
+
+metro
+
+cuadrado por
+
+día.
 
 ###### Artículo 127.
 
@@ -2923,6 +3077,10 @@ de fiestas
 
 57. Sonido fijo, por día 8 S.M.G.
 
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+Para el caso de expedición del permiso de operación a que se refiere ésta fracción, cuando se trate del inicio de operación de un primer negocio en los términos que señala la fracción XXVI del artículo 3 de la Ley de Desarrollo Económico y Competitividad para el Estado de Quintana Roo, se exentará el pago del derecho respectivo, previa acreditación de los requisitos que establezca el ayuntamiento.
+
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 V. Por los servicios prestados en el Parque Urbano Kabah, el solicitante deberá cubrir los salarlos mínimos vigentes de acuerdo al siguiente tabulador:
@@ -2944,6 +3102,16 @@ en grupo de 40 personas
 4. Venta de plantas de ornato producidas
 
 mediante acodos o estacas 1.0 S.M.G.
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+VI. Por el estudio y expedición de factibilidad ecológica,
+
+se causará el equivalente a 10 S.M.G.
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+VII. Por el estudio, análisis de la solicitud y en su caso la expedición o prorroga del permiso de Desarrollo el solicitante deberá de cubrir el equivalente a 0.08 S.M.G. por metro cuadrado, del total de la superficie respecto de la cual, solicita dicho permiso.
 
 ###### Artículo 131.
 
@@ -3447,7 +3615,7 @@ Tratándose de lo dispuesto en las fracciones II, III y IV, no se realizará cob
 
 ###### Artículo 133
 
-BIS.- Por los servicios que presta el Centro de Atención Canina, se pagarán los derechos por cada animal, conforme a la siguiente:
+Bis.- Por los servicios que presta el Centro de Atención Canina, se pagarán los derechos por cada animal, conforme a la siguiente:
 
 TARIFA
 
@@ -3477,17 +3645,53 @@ b) Cremación común $15.00 por kilogramo de peso del animal.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
+### CAPÍTULO XXX. DE LOS SERVICIOS QUE PRESTA LA DIRECCIÓN DE ZONA FEDERAL MARÍTIMO TERRESTRE
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 133
+
+Ter.- Por el servicio de Inscripción en el Registro Único de Personas Acreditadas, se realizará por única ocasión el pago de la tarifa de 4 S.M.G.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
 ### CAPÍTULO I. VENTA O EXPLOTACIÓN DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
 
 ###### Artículo 133
 
-TER.- Por el servicio de Inscripción en el Registro Único de Personas Acreditadas, se realizará por única ocasión el pago de la tarifa de 4 S.M.G.
+Quater.- Todos los servicios que proporcione la Dirección de Zona Federal Marítimo Terrestre, causarán los derechos con arreglo a lo siguiente:
 
-### CAPÍTULO II. BIENES MOSTRENCOS
+I. Constancias:
+
+a) De uso o no uso de la ZOFEMAT De 20.0 a 70.0 SMG.
+
+b) De no adeudo por derecho de uso, goce y/o aprovechamiento de la ZOFEMAT 10.0 S.M.G.
+
+II. Impresión de planos con levantamientos geodésicos, vértices GPS de la pleamar, de la zona federal marítimo terrestre, de los terrenos ganados al mar u alguna otra área federal costera. De 30.0 a 70.0 SMG.
+
+III. Levantamientos geodésicos, georeferenciación, vértices GPS, de la zona federal marítimo terrestre, terrenos ganados al mar u alguna otra área federal costera solicitada por un particular. De 40.0 a 100.0 SMG.
+
+IV. Por cualquier modificación en la superficie, nombre, domicilio, uso, concesión y/o propietario en el padrón de contribuyentes de la ZOFEMAT 5.0 SMG.
+
+V. Expedición de copia certificada de constancias existentes en los expedientes del padrón de usuarios y/o concesionarios y/o permisatarios de la ZOFEMAT 0.5 SMG. por cada hoja.
+
+VI. Por la visita técnica, revisión y resolución de congruencia de uso de suelo relativo a la ZOFEMAT De 50.0 a 70.0 SMG
+
+VII. Factibilidad de usos y aprovechamientos:
+
+a) Masajes 48.0 SMG.
+
+b) Artesanías 35.0 SMG.
+
+c) Prestadores de servicios turísticos 100.0 SMG.
+
+d) Eventos especiales 50.0 SMG. Por módulo.
+
+Tratándose de la apertura de un primer negocio en los términos que señala la fracción XXVI del artículo 3 de la ley de Desarrollo Económico y Competitividad para el Estado de Quintana Roo, se otorgará un descuento de hasta el 50% en el pago de los derechos que señala el presente capítulo, previa acreditación de los requisitos que establezca el ayuntamiento.
 
 ## TÍTULO CUARTO. PRODUCTOS
 
-### CAPÍTULO III. MERCADOS
+### CAPÍTULO II. BIENES MOSTRENCOS
 
 ###### Artículo 134.
 
@@ -3511,7 +3715,7 @@ En todos los casos en Que se autorice la enajenación de bienes del Municipio y 
 
 Los bienes de uso común o destinados al servicio del Municipio no podrán ser enajenados mientras tengan ese carácter, el que solo podrá cambiarse mediante la aprobación por mayoría calificada del Ayuntamiento respectivo, y en los términos y para los fines previstos en la Ley de los Municipios del Estado de Quintana Roo.
 
-### CAPÍTULO IV. ARRENDAMIENTO, EXPLOTACIÓN O ENAJENACIÓN DE EMPRESAS MUNICIPALES
+### CAPÍTULO III. MERCADOS
 
 ###### Artículo 139.
 
@@ -3521,7 +3725,7 @@ Se entiende por bienes mostrencos los bienes inmuebles abandonados y los predios
 
 El producto líquido de los bienes mostrencos que sean rematados o vendidos conforme a las disposiciones del Código Civil, constituirá un ingreso para la Hacienda Municipal.
 
-### CAPÍTULO V. CRÉDITOS A FAVOR DEL MUNICIPIO
+### CAPÍTULO IV. ARRENDAMIENTO, EXPLOTACIÓN O ENAJENACIÓN DE EMPRESAS MUNICIPALES
 
 ###### Artículo 141.
 
@@ -3641,9 +3845,7 @@ vía pública, pagaran diario 0.1 a 3.0 S.M.G.
 
 g) Otros no especificados, diario 0.8 a 5.0 S.M.G.
 
-### CAPÍTULO VI. VENTA DE OBJETOS RECOGIDOS POR EL DEPARTAMENTO DE LIMPIA Y TRANSPORTE
-
-Artículo. 145.- El Ayuntamiento podrán obtener ingresos para su hacienda mediante la venta de los objetos recogidos en la prestación del servido de limpia y transporte.
+### CAPÍTULO V. CRÉDITOS A FAVOR DEL MUNICIPIO
 
 ###### Artículo 142.
 
@@ -3653,13 +3855,15 @@ Se consideran productos los ingresos que se deriven del arrendamiento, explotaci
 
 La realización de las actividades a que se hace referencia en el artículo anterior se hará previo acuerdo del Ayuntamiento, observándose además las disposiciones de carácter Estatal que al respecto existan.
 
-### CAPÍTULO VII. PRODUCTOS DIVERSOS
+### CAPÍTULO VI. VENTA DE OBJETOS RECOGIDOS POR EL DEPARTAMENTO DE LIMPIA Y TRANSPORTE
+
+Artículo. 145.- El Ayuntamiento podrán obtener ingresos para su hacienda mediante la venta de los objetos recogidos en la prestación del servido de limpia y transporte.
 
 ###### Artículo 144.
 
 Se consideran productos aquellos ingresos que obtiene el Municipio mediante créditos de empresas, de personas físicas o morales para satisfacer sus necesidades económicas.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO VII. PRODUCTOS DIVERSOS
 
 ### CAPÍTULO ÚNICO
 
@@ -3690,6 +3894,8 @@ La Tesorería Municipal deberá ajustar sus procedimientos de cobro, liquidació
 Como participaciones del Estado se entienden aquellos ingresos que el Estado entrega al Municipio, deducibles de sus propios ingresos y que se regulan conforme a las disposiciones que al efecto establecen las leyes fiscales del estado o la Legislatura local.
 
 ## TÍTULO SÉPTIMO. APORTACIONES FEDERALES
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 150.
 
@@ -3808,6 +4014,12 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se deroga cualquier disposición que contravenga a lo dispuesto en el presente decreto.
 
 P.O. 8 DE OCTUBRE DE 2014.
+
+Primero. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 9 DE DICIEMBRE DE 2014.
 
 Primero. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
