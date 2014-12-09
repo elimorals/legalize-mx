@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-proteccion-y-bienestar-animal-del-estado-de-quintana-944
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-22"
-last_updated: "2013-05-22"
+last_updated: "2014-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE PROTECCIÓN Y BIENESTAR ANIMAL DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de Quintana Roo, el miércoles 22 de mayo de 2013.
 
@@ -549,9 +549,17 @@ VIII. La venta o adiestramiento de animales en áreas en las que se atente contr
 
 IX. El uso y tránsito de vehículos de tracción animal en vialidades asfaltadas, para fines distintos al uso agropecuario y turístico;
 
-X. La comercialización de animales enfermos, con lesiones, traumatismos, fracturas y heridas; y
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
 
-XI. La utilización de aditamentos que pongan en riesgo la integridad física de los animales.
+X. La comercialización de animales enfermos, con lesiones, traumatismos, fracturas y heridas;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+XI. La utilización de aditamentos que pongan en riesgo la integridad física de los animales, y
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+XII. La celebración y realización de espectáculos circenses públicos o privados, fijos o itinerantes, en los cuales se utilicen animales silvestres y/o domésticos, con fines de diversión, exhibición, manejo, adiestramiento y entretenimiento; sean éstos con o sin fines de lucro.
 
 ###### Artículo 36.
 
@@ -611,9 +619,11 @@ VI. Calendario de vacunación; y
 
 VII. Las demás que establezca el reglamento.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 45.
 
-Los establecimientos deberán diseñar e implementar para las tiendas de animales, centros de exhibición u otros lugares donde se conserven animales domésticos o de compañía, un plan de manejo de contingencia adecuado para garantizar el bienestar de los ejemplares bajo su custodia, debidamente avalado por la autoridad competente en materia de protección civil.
+Los establecimientos qué se dediquen a la comercialización, centros de exhibición u otros lugares donde se conserven animales domésticos o de compañía, deberán diseñar para los lugares donde conserven sus ejemplares, un plan de manejo de contingencia adecuado para garantizar el bienestar de los animales bajo su custodia, debidamente avalado por la autoridad competente en materia de protección civil.
 
 ### Capítulo IV. Obligaciones en Materia de Protección Animal
 
@@ -731,9 +741,11 @@ Las Asociaciones Protectoras de Animales podrán celebrar convenios con la Secre
 
 El Estado a través de la Secretaría, y los Municipios diseñarán e implementarán un programa de sustitución progresiva de animales de carga y tiro para actividades de trabajo por vehículos automotores, de tracción humana u otras alternativas disponibles, esto con el fin de lograr en un plazo no mayor a diez años el remplazo total de los animales de carga y tiro para dichas tareas.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 61.
 
-En toda exhibición o espectáculo público o privado, circos, filmación de películas, programas televisivos, anuncios publicitarios y durante la elaboración de cualquier material visual o auditivo, en el que participen animales vivos, debe garantizarse su trato digno y respetuoso durante todo el tiempo que dure su utilización, así como en su traslado y en los tiempos de espera.
+En toda exhibición o espectáculo público o privado, filmación de películas, programas televisivos, anuncios publicitarios y durante la elaboración de cualquier material visual auditivo en el que participen animales vivos, debe garantizase su trato digno y respetuoso durante el tiempo que dure su utilización así como en su traslado y en los tiempos de espera.
 
 ###### Artículo 62.
 
@@ -1106,3 +1118,13 @@ M. EN A. JOSÉ GABRIEL CONCEPCIÓN MENDICUTI LORÍA.
 EL SECRETARIO DE ECOLOGÍA Y MEDIO AMBIENTE DEL ESTADO DE QUINTANA ROO.
 
 CARLOS RAFAEL ANTONIO MUÑOZ BERZUNZA.
+
+N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+P.O. 9 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan las disposiciones legales vigentes que se opongan al presente decreto.
+
+TERCERO. Los Honorables Ayuntamientos de los Municipios del Estado, deberán efectuar las adecuaciones correspondientes a los reglamentos y demás ordenamientos relativos en los ciento veinte días naturales posteriores a la entrada en vigor del presente decreto, a fin de dar cabal cumplimiento al mismo.
