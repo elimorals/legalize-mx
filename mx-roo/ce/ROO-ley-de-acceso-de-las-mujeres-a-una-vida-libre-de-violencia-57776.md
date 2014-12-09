@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5777
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-27"
-last_updated: "2014-05-28"
+last_updated: "2014-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Extraordinario Número 77 al Periódico Oficial del Estado de Quintana Roo, el martes 27 de noviembre de 2007.
 
@@ -165,9 +165,11 @@ Por violencia laboral y docente se entenderá aquella que se ejerce por las pers
 
 Puede consistir en un solo evento dañino o en una serie de eventos cuya suma produce el daño. También incluye el acoso o el hostigamiento sexual.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 9.
 
-Constituye violencia laboral la negativa ilegal a contratar a la víctima, a respetar su permanencia o condiciones generales de trabajo; la descalificación del trabajo realizado; las amenazas; la intimidación; las humillaciones; la explotación o todo tipo de discriminación en el ámbito laboral por condición de género.
+Constituye violencia laboral la negativa ilegal a contratar a la víctima, a respetar su permanencia o condiciones generales de trabajo; la descalificación del trabajo realizado; las amenazas; la intimidación; las humillaciones; la explotación, el impedimento a las mujeres de llevar a cabo el periodo de lactancia previsto en la ley y todo tipo de discriminación por condición de género.
 
 ###### ARTÍCULO 10.
 
@@ -924,3 +926,9 @@ ROSARIO ORTÍZ YELADAQUI
 P.O. 28 DE MAYO DE 2014.
 
 Único. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 9 DE DICIEMBRE DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se concede un plazo de trescientos sesenta y cinco días naturales, contados a partir de la fecha en que entren en vigor estas reformas, para que las instituciones, dependencias, entidades y, en general todos los obligados conforme a este Decreto efectúen las adecuaciones físicas necesarias para dar cumplimiento a las disposiciones de la ley correspondiente.
