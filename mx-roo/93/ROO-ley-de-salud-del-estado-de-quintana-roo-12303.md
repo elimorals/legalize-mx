@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-salud-del-estado-de-quintana-roo-12303"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2014-05-28"
+last_updated: "2014-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE SALUD DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -771,7 +771,9 @@ En la organización y operación de los servicios de salud destinados a la atenc
 
 I.- Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los usuarios;
 
-II.- Acciones de orientación y vigilancia institucional del fomento a la lactancia materna y, en casos especiales la ayuda alimentaría directa tendiente a mejorar el estado nutricional del grupo materno infantil, y
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+II.- Acciones de orientación y vigilancia institucional, capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de vida y, en su caso la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno infantil, y
 
 III.- Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarréicos y las infecciones respiratorias agudas de los menores de 5 años.
 
@@ -3676,3 +3678,9 @@ CUARTO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en
 P.O. 28 DE MAYO DE 2014.
 
 Único. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 9 DE DICIEMBRE DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se concede un plazo de trescientos sesenta y cinco días naturales, contados a partir de la fecha en que entren en vigor estas reformas, para que las instituciones, dependencias, entidades y, en general, todos los obligados conforme a este Decreto efectúen las adecuaciones físicas necesarias para dar cumplimiento a las disposiciones de la ley correspondiente.
