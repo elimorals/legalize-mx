@@ -4,7 +4,7 @@ identifier: "ROO-ley-para-la-proteccion-de-los-derechos-de-las-ninas-ninos-y-398
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-04"
-last_updated: "2004-05-04"
+last_updated: "2014-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39874&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # LEY PARA LA PROTECCION DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUINTANA ROO
 
-LEY PARA LA PROTECCION DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUINTANA ROO
+LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2014.
 
 > <small>(F. DE E., P.O. 28 DE MAYO DE 2004)</small>
 
@@ -259,19 +259,37 @@ e) A que las autoridades competentes, a través de la Secretaría de Salud, el S
 
 4. Las niñas y adolescentes embarazadas recibirán un trato digno y respetuoso en los servicios de salud e información materno-infantil y atención médica hospitalaria;
 
-5. Apoyar las campañas de prevención y vacunación;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE DICIEMBRE DE 2014)</small>
 
-6. Realizar e impulsar campañas de prevención y detección de enfermedades e impedimentos físicos o mentales, programas de atención a enfermedades endémicas, epidérmicas, de transmisión sexual y del VIH/SIDA, así como programas de prevención e información sobre las mismas;
+5. Capacitar y fomentar la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de edad.
 
-7. Proporcionar complementos alimenticios a las niñas, niños y adolescentes que lo requieran;
+(REUBICADO, P.O. 9 DE DICIEMBRE DE 2014)
 
-8. Proporcionar información y educación sexual con perspectiva de género;
+6. Apoyar las campañas de prevención y vacunación;
 
-9. Asegurar que todos los sectores de la sociedad, y en particular los padres tengan conocimiento acerca de los principios básicos de la salud y la nutrición de las niñas, niños y adolescentes, las ventajas de la lactancia materna, la higiene y el saneamiento ambiental y las medidas de prevención de accidentes, tengan acceso a la educación pertinente y reciban apoyo en la aplicación de esos conocimientos;
+(REUBICADO, P.O. 9 DE DICIEMBRE DE 2014)
 
-10. Establecer medidas tendientes a prevenir los embarazos tempranos; y
+7. Realizar e impulsar campañas de prevención y detección de enfermedades e impedimentos físicos o mentales, programas de atención a enfermedades endémicas, epidérmicas, de transmisión sexual y del VIH/SIDA, así como programas de prevención e información sobre las mismas;
 
-11. Las demás acciones que coadyuven a asegurar el derecho a la salud en forma íntegra.
+(REUBICADO, P.O. 9 DE DICIEMBRE DE 2014)
+
+8. Proporcionar complementos alimenticios a las niñas, niños y adolescentes que lo requieran;
+
+(REUBICADO, P.O. 9 DE DICIEMBRE DE 2014)
+
+9. Proporcionar información y educación sexual con perspectiva de género;
+
+(REUBICADO [N. DE E. Y REFORMADO], P.O. 9 DE DICIEMBRE DE 2014)
+
+10. Asegurar que todos los sectores de la sociedad, y en particular los padres tengan conocimiento acerca de los principios básicos de la salud y la nutrición de las niñas, niños y adolescentes, las ventajas de la lactancia materna y del amamantamiento, la higiene y el saneamiento ambiental y las medidas de prevención de accidentes, tengan acceso a la educación pertinente y reciban apoyo en la aplicación de esos conocimientos;
+
+(REUBICADO, P.O. 9 DE DICIEMBRE DE 2014)
+
+11. Establecer medidas tendientes a prevenir los embarazos tempranos, y
+
+(REUBICADO, P.O. 9 DE DICIEMBRE DE 2014)
+
+12. Las demás acciones que coadyuven a asegurar el derecho a la salud en forma íntegra.
 
 V. A la alimentación
 
@@ -882,3 +900,11 @@ LIC. JOAQUÍN ERNESTO HENDRÍCKS DÍAZ
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO
 
 LIC. EFRAÍN VILLANUEVA ARCOS
+
+N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+P.O. 9 DE DICIEMBRE DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se concede un plazo de trescientos sesenta y cinco días naturales, contados a partir de la fecha en que entren en vigor estas reformas, para que las instituciones, dependencias, entidades y, en general todos los obligados conforme a este Decreto efectúen las adecuaciones físicas necesarias para dar cumplimiento a las disposiciones de la ley correspondiente.
