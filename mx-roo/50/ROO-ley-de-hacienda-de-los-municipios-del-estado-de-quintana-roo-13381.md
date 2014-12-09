@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-de-los-municipios-del-estado-de-quintana-roo-13
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-15"
-last_updated: "2014-10-08"
+last_updated: "2014-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "ROO"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
+> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS SEGUNDO Y TERCERO DE LA LEY DE HACIENDA DEL MUNICIPIO DE COZUMEL, DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 9 DE DICIEMBRE DE 2014, SE DEROGA TODA REFERENCIA REALIZADA RESPECTO DEL MUNICIPIO DE COZUMEL, SALVO LO ESTABLECIDO EN EL CAPÍTULO XVIII DEL TÍTULO TERCERO DEL PRESENTE ORDENAMIENTO, MISMO QUE SERÁ APLICADO EN TODOS SUS TÉRMINOS EN EL MUNICIPIO DE COZUMEL, QUINTANA ROO.</small>
+
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO CUARTO DEL DECRETO NÚMERO 235 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL MUNICIPIO DE BENITO JUÁREZ, DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 21 DE DICIEMBRE DE 2012, SE DEROGA EN LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, TODA REFERENCIA REALIZADA RESPECTO DEL MUNICIPIO DE BENITO JUÁREZ, CON LA SALVEDAD REALIZADA EN EL ARTÍCULO TERCERO TRANSITORIO DE ESTE DECRETO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de diciembre de 1997.
 
@@ -255,7 +257,7 @@ c).- Predios rústicos:
 
 2.- Predios rústicos dentro de Reserva o Zona Protegida con restricciones o impedimentos para construir 8.0 al millar
 
-3.- Predios rústicos dentro de Reserva o Zona Protegida con (sic) restricciones o impedimentos para construir 18.4 al millar
+3.- Predios rústicos dentro de Reserva o Zona Protegida con restricciones o impedimentos para construir 18.4 al millar
 
 4.- Predios rústicos que colinden con Zona Federal Marítima Terrestre 18.4 al millar
 
@@ -353,7 +355,7 @@ Cuando el impuesto causado sea cubierto en una sola emisión por anticipado y cu
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2006)</small>
 
-Cuando el contribuyente sea una persona con capacidades diferentes, pensionado, jubilado o cuente con su credencial del lNAPAM o INSEN, los Ayuntamientos que así lo consideren, podrán conceder un descuento hasta del 50% del total del importe señalado en el artículo 13 de esta Ley, cuando el importe anual causado sea cubierto en una sola exhibición por anticipado. Este beneficio se aplicará a un solo inmueble del contribuyente, si dicho inmueble corresponde al domicilio de su propia casa habitación y podrá aplicarse hasta por un valor de veinte mil S.M.G. al contribuyente que goce de este beneficio no le será aplicable lo dispuesto en el párrafo anterior.
+Cuando el contribuyente sea una persona con capacidades diferentes, pensionado, jubilado o cuente con su credencial del INAPAM o INSEN, los Ayuntamientos que así lo consideren, podrán conceder un descuento hasta del 50% del total del importe señalado en el artículo 13 de esta Ley, cuando el importe anual causado sea cubierto en una sola exhibición por anticipado. Este beneficio se aplicará a un solo inmueble del contribuyente, si dicho inmueble corresponde al domicilio de su propia casa habitación y podrá aplicarse hasta por un valor de veinte mil S.M.G. al contribuyente que goce de este beneficio no le será aplicable lo dispuesto en el párrafo anterior.
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2005)</small>
 
@@ -423,7 +425,7 @@ Este impuesto se causará de acuerdo con la siguiente tarifa:
 
 TARIFA
 
-ZONA “A” ZONA “B” ZONA”C”
+ZONA “A” ZONA “B” ZONA ”C”
 
 I.- Dramas, zarzuelas, 8% En todas las Zonas
 
@@ -537,7 +539,7 @@ tipo de ficha o moneda, y
 
 electrónicos, mensuales
 
-por cada juego de: 0.5 a 5.0 1.0a 5.0 1.0 a 5.0
+por cada juego de: 0.5 a 5.0 1.0 a 5.0 1.0 a 5.0
 
 S.M.G. S.M.G. S.M.G.
 
@@ -565,7 +567,7 @@ Monedas; Cuota
 
 mensual por máquina
 
-de: 2 a 3 2 a 3 2a3
+de: 2 a 3 2 a 3 2 a 3
 
 S.M.G. S.M.G. S.M.G.
 
@@ -1133,7 +1135,7 @@ a).- dos años:
 
 2.- Licencia de chofer 5.75 veces el S.M.G. vigente en el Estado.
 
-3.- Licencia de automovilista 5.18 veces el S.M .G. vigente en el Estado.
+3.- Licencia de automovilista 5.18 veces el S.M.G. vigente en el Estado.
 
 4.- Licencia de motociclista 2.30 veces el S.M.G. vigente en el Estado.
 
@@ -1361,7 +1363,7 @@ a).- Divorcios voluntarios
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2001)</small>
 
-3.- Por acta de audiencia 50 S.MG. 5.0 S.M.G. 5.0 S.M.G.
+3.- Por acta de audiencia 50 S.M.G. 5.0 S.M.G. 5.0 S.M.G.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2001)</small>
 
@@ -1711,7 +1713,7 @@ a).- Primer patio,
 
 concesión o refrendos
 
-por seis años 0.7 a 6.5 6.5 a 12.0 12.0a 18.5
+por seis años 0.7 a 6.5 6.5 a 12.0 12.0 a 18.5
 
 S.M.G. S.M.G. S.M.G.
 
@@ -1719,7 +1721,7 @@ b).- Segundo patio,
 
 concesión o refrendos
 
-por seis años de 0.5 a 4.5 4.5 a 8.5 8.5a 12.5
+por seis años de 0.5 a 4.5 4.5 a 8.5 8.5 a 12.5
 
 S.M.G. S.M.G. S.M.G.
 
@@ -1737,7 +1739,7 @@ S.M.G. S.M.G. S.M.G.
 
 e).- Zona de restos áridos,
 
-osarios a perpetuidad de 0.7 a 6.5 6.5 a 12.0 12.0a 18.5
+osarios a perpetuidad de 0.7 a 6.5 6.5 a 12.0 12.0 a 18.5
 
 S.M.G. S.M.G. S.M.G.
 
@@ -1749,7 +1751,7 @@ II.- Autorización de Traslado de cadáveres o restos áridos:
 
 TARIFA:
 
-ZONA “A” ZONA “B” ZONA”C”
+ZONA “A” ZONA “B” ZONA ”C”
 
 a).- Autorización de
 
@@ -1927,7 +1929,7 @@ Los derechos respectivos se cubrirán previamente de acuerdo con las cuotas que 
 
 TARIFA:
 
-ZONA “A” ZONA “B” ZONA”C”
+ZONA “A” ZONA “B” ZONA ”C”
 
 I.- Alineación de predios:
 
@@ -1937,7 +1939,7 @@ a).- En las zonas urbanas y residenciales denominadas "A" por la clasificación 
 
 1.- Con frente hasta
 
-de 20 metros 2.0 a7.0 2.0 a8.5 3.0 a 10
+de 20 metros 2.0 a 7.0 2.0 a 8.5 3.0 a 10
 
 S.M.G. S.M.G. S.M.G.
 
@@ -1991,7 +1993,7 @@ II.- Expedición:
 
 1. - Del número oficial 4.5 S.M.G. 5.0 S.M.G. 5.0 S.M.G.
 
-2. - De la placa 5.0 S,M.G. 5.5 S.M.G. 6.0 S.M.G.
+2. - De la placa 5.0 S.M.G. 5.5 S.M.G. 6.0 S.M.G.
 
 III.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 2001)
 
@@ -1999,19 +2001,19 @@ IV.- Constancia de uso y destino de suelo:
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2001)</small>
 
-1.- Interés social de 2.0 a4.0 3.0 a7.0 5.0 a10.0
+1.- Interés social de 2.0 a 4.0 3.0 a 7.0 5.0 a 10.0
 
 S.M.G. S.M.G. S.M.G.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2001)</small>
 
-2.- Nivel medio de 3.0 a10.0 4.0 a15.0 5.0 a20.0
+2.- Nivel medio de 3.0 a 10.0 4.0 a 15.0 5.0 a 20.0
 
 S.M.G. S.M.G. S.M.G.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2001)</small>
 
-3.- Residencial de 3.0 a14.0 5.0 a20.0 5.0 a28.0
+3.- Residencial de 3.0 a 14.0 5.0 a 20.0 5.0 a 28.0
 
 S.M.G. S.M.G. S.M.G.
 
@@ -2037,7 +2039,7 @@ V.- Para la fijación de las taifas correspondientes a los puntos 3 y 4 de esta 
 
 TARIFA:
 
-ZONA “A” ZONA “B” ZONA”C”
+ZONA “A” ZONA “B” ZONA ”C”
 
 1.- Hasta 15 salarios
 
@@ -2053,7 +2055,7 @@ mínimos de la zona
 
 económica elevado al
 
-año 8.0 S.M.G. 10.0S.M.G. 12.0 S.M.G.
+año 8.0 S.M.G. 10.0 S.M.G. 12.0 S.M.G.
 
 3.- De 26 a 213 salarios
 
@@ -2099,7 +2101,7 @@ b) Por croquis de localización. 8.10 S.M.G.
 
 c) Por copias de planos.
 
-1).- Copias heliogáficas y/o Bond. 8.10 S.M.G.
+1).- Copias heliográficas y/o Bond. 8.10 S.M.G.
 
 d) Por certificados de valor catastral y
 
@@ -2649,7 +2651,7 @@ La autorización para el funcionamiento de establecimientos comerciales fuera de
 
 TARIFA:
 
-ZONA “A” ZONA “B” ZONA”C”
+ZONA “A” ZONA “B” ZONA ”C”
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -2807,7 +2809,7 @@ La expedición de certificados de vecindad, de residencia y de morada conyugal c
 
 TARIFA:
 
-ZONA “A” ZONA “B” ZONA”C”
+ZONA “A” ZONA “B” ZONA ”C”
 
 1.- De vecindad:
 
@@ -2865,7 +2867,7 @@ Por la expedición de licencias, permisos o autorizaciones que otorguen las auto
 
 TARIFA:
 
-ZONA “A” ZONA “B” ZONA”C”
+ZONA “A” ZONA “B” ZONA ”C”
 
 I.- Denominativos,
 
@@ -3049,7 +3051,7 @@ Cuando el Municipio realice los servicios de desmonte, desyerbado o limpieza de 
 
 TARIFA
 
-a).- Por cada metro cuadrado 0.12 S. M.G.
+a).- Por cada metro cuadrado 0.12 S.M.G.
 
 El pago de las obligaciones establecidas, deberán de ser enterados en un término de quince días de manera conjunta con la multa correspondiente ante la Tesorería Municipal, una vez hecha la notificación mediante las formas que establece el Código Fiscal Municipal del Estado de Quintana Roo.
 
@@ -3295,13 +3297,13 @@ TARIFA
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-ZONA “A” ZONA “B” ZONA”C”
+ZONA “A” ZONA “B” ZONA ”C”
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2001)</small>
 
 a).- Puestos ubicados en
 
-la vía pública, mensual: 3 a7 3 a 7 3 a 13
+la vía pública, mensual: 3 a 7 3 a 7 3 a 13
 
 S.M.G. S.M.G. S.M.G.
 
@@ -3331,7 +3333,7 @@ d).- Por sitio exclusivo
 
 diario, por metro lineal
 
-de 0.3 a.0.6 0.6 a 0.9 0.9 a 12
+de 0.3 a .0.6 0.6 a 0.9 0.9 a 12
 
 S.M.G. S.M.G. S.M.G.
 
@@ -3571,9 +3573,9 @@ Por locales en los mercados y otros sitios, será pagada una renta mensual de ac
 
 TARIFA:
 
-ZONA “A” ZONA “B” ZONA”C”
+ZONA “A” ZONA “B” ZONA ”C”
 
-> <small>(REFORMADA, P.O 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
 I.- Mercados
 
@@ -3649,11 +3651,11 @@ S.M.G. S.M.G. S.M.G.
 
 II.- En Sitios Frente a Espectáculos Públicos:
 
-ZONA “A” ZONA “B” ZONA”C”
+ZONA “A” ZONA “B” ZONA ”C”
 
 Puestos semifijos, de
 
-refrescos, Y (sic)
+refrescos, Y
 
 comestibles en general,
 
@@ -3665,7 +3667,7 @@ S.M.G. S.M.G. S.M.G.
 
 III.- En Portales, Zaguanes y Calles:
 
-ZONA “A” ZONA “B” ZONA”C”
+ZONA “A” ZONA “B” ZONA ”C”
 
 a).- Puestos fijos o
 
@@ -3697,7 +3699,7 @@ S.M.G. S.M.G. S.M.G.
 
 IV.- Ambulantes
 
-ZONA “A” ZONA “B” ZONA”C”
+ZONA “A” ZONA “B” ZONA ”C”
 
 a).- Vendedores con carro
 
@@ -3849,6 +3851,8 @@ DONATIVOS: Son los ingresos que perciba el municipio a título gratuito, que sea
 
 Se entiende por financiamientos los ingresos que perciba el municipio por créditos que le sean concedidos por instituciones financieras, ya sean públicos, privadas o mixtas, y a corto plazo.
 
+T R A N S I T O R I O S
+
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2010)</small>
 
 PRIMERO.- En tanto el Estado y los Municipios permanezcan adheridos al Sistema Nacional de Coordinación Fiscal, suscrito mediante convenio y anexos respectivos con la Secretaría de Hacienda y Crédito Público, quedan en suspenso los siguientes:
@@ -3931,7 +3935,7 @@ VALOR VALOR SOBRE EL
 
 CATASTRAL CATASTRAL EXCEDENTE
 
-DE UN DE UN DEL LlM. INF.
+DE UN DE UN DEL LIM. INF.
 
 INMUEBLE INMUEBLE
 
@@ -4201,8 +4205,6 @@ Se dejan sin efectos todas las disposiciones legales que se opongan al presente 
 
 P.O. 16 DE DICIEMBRE DE 2003.
 
-## TRANSITORIOS
-
 PRIMERO.- En tanto el Estado y los Municipios permanezcan adheridos al Sistema Nacional de Coordinación Fiscal, quedan en suspenso los siguientes:
 
 I.- DERECHOS:
@@ -4313,7 +4315,7 @@ NO HABITACIONAL 7.75
 
 RUSTICO BALDIO 3.45
 
-SEPTIMO.- En el momento en el quede (sic) sin efecto lo dispuesto en los artículo tercero, cuarto, quinto y sexto transitorios de esta Ley, los Municipios de Cozumel, Othón P. Blanco, Isla Mujeres y Benito Juárez deberán presentar un análisis del impacto que implique la utilización de las tasas establecidas en el artículo 13 de la presente Ley.
+SEPTIMO.- En el momento en el (sic) quede sin efecto lo dispuesto en los artículo tercero, cuarto, quinto y sexto transitorios de esta Ley, los Municipios de Cozumel, Othón P. Blanco, Isla Mujeres y Benito Juárez deberán presentar un análisis del impacto que implique la utilización de las tasas establecidas en el artículo 13 de la presente Ley.
 
 OCTAVO.- Se derogan las disposiciones dictadas con anterioridad que se opongan al presente decreto.
 
@@ -4803,7 +4805,7 @@ CUARTO.- Para la determinación del impuesto predial en el Ejercicio Fiscal 2009
 
 QUINTO.- Para la determinación del impuesto predial en el Ejercicio Fiscal 2009, en el Municipio de Solidaridad, del Estado de Quintana Roo, se aplicará la tabla de cálculo anual del mencionado impuesto, contemplada en el Artículo Segundo Transitorio del Decreto Número 25, expedido por la XI Legislatura del Estado de Quintana Roo, y publicado en el Periódico Oficial del Gobierno del Estado, de fecha 13 de diciembre del año 2005.
 
-SEXTO.- Para la determinación del impuesto predial en el Ejercicio Fiscal 2009, en el Municipio de Benito Juárez, del Estado de Quintana Roo, se aplicará la tabla de cálculo anual del mencionado impuesto, contemplada en el Artículo Sexto Transitorio del Decreto Número 133, expedido por la Xl Legislatura del Estado de Quintana Roo, y publicado en el Periódico Oficial del Gobierno del Estado, de fecha 20 de diciembre del año 2006.
+SEXTO.- Para la determinación del impuesto predial en el Ejercicio Fiscal 2009, en el Municipio de Benito Juárez, del Estado de Quintana Roo, se aplicará la tabla de cálculo anual del mencionado impuesto, contemplada en el Artículo Sexto Transitorio del Decreto Número 133, expedido por la XI Legislatura del Estado de Quintana Roo, y publicado en el Periódico Oficial del Gobierno del Estado, de fecha 20 de diciembre del año 2006.
 
 SÉPTIMO.- Para la determinación del impuesto predial en el Ejercicio Fiscal 2009, en el Municipio de Tulum, del Estado de Quintana Roo, se aplicará la tabla de cálculo anual del mencionado impuesto, siendo la siguiente:
 
@@ -5219,7 +5221,7 @@ PRIMERO.- La presente ley, entrará en vigor el día de su publicación en el Pe
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto en la presente ley, salvo lo establecido en el Capítulo XVIII del Título Tercero de la Ley de Hacienda de los Municipios del Estado de Quintana Roo, mismo que será aplicado en todos sus términos en el Municipio de Tulum, Quintana Roo.
 
-TECERO.- Se deroga en la Ley de Hacienda de los Municipios del Estado de Quintana Roo, toda referencia realizada respecto del Municipio de Tulum, con la salvedad realizada en el artículo transitorio inmediato anterior de esta Ley.
+TECERO (SIC).- Se deroga en la Ley de Hacienda de los Municipios del Estado de Quintana Roo, toda referencia realizada respecto del Municipio de Tulum, con la salvedad realizada en el artículo transitorio inmediato anterior de esta Ley.
 
 CUARTO.- En tanto el Estado y el Municipio permanezcan adheridos al Sistema Nacional de Coordinación Fiscal, suscrito mediante convenio y anexos respectivos con la Secretaría de Hacienda y Crédito Público, quedan en suspenso los siguientes derechos:
 
@@ -5282,3 +5284,53 @@ P.O. 8 DE OCTUBRE DE 2014.
 Primero. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 9 DE DICIEMBRE DE 2014.
+
+PRIMERO. La presente ley, entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en la presente ley, salvo lo establecido en el Capítulo XVIII del Título Tercero de la Ley de Hacienda de los Municipios del Estado de Quintana Roo, mismo que será aplicado en todos sus términos en el Municipio de Cozumel, Quintana Roo.
+
+TERCERO. Se deroga de la Ley de Hacienda de los Municipios del Estado de Quintana Roo, toda referencia realizada respecto del Municipio de Cozumel, con la salvedad realizada en el artículo transitorio inmediato anterior de esta ley.
+
+CUARTO. Se deroga de la Ley del Impuesto Sobre Adquisición de Bienes Inmuebles de los Municipios del Estado de Quintana Roo toda referencia realizada respecto del Municipio de Cozumel.
+
+QUINTO. Los procedimientos iniciados por las autoridades municipales conforme a las disposiciones de la Ley de Hacienda de los Municipios del Estado de Quintana Roo, continuarán aplicando tales disposiciones hasta su conclusión.
+
+SEXTO. En tanto el Estado y el Municipio permanezcan adheridos al Sistema Nacional de Coordinación Fiscal, suscrito mediante convenio y anexos respectivos con la Secretaría de Hacienda y Crédito Público, quedan en suspenso los siguientes derechos:
+
+I.- Licencias, anuencias previas al otorgamiento de las mismas, en general concesiones, permisos o autorizaciones, o bien obligaciones y requisitos que condicionen el ejercicio de actividades comerciales o industriales y de prestación de servicios. Asimismo, los que resulten como consecuencia de permitir o tolerar excepciones a una disposición administrativa tales como la ampliación de horario, con excepción de las siguientes:
+
+a).- Licencias de construcción.
+
+b).- Licencias o permisos para efectuar conexiones a las redes públicas de agua y alcantarillado.
+
+c).- Licencias para fraccionar o lotificar terrenos.
+
+d).- Licencias para conducir vehículos.
+
+e).- Expedición de placas y tarjeta para la circulación de vehículos.
+
+f).- Licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales, cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general.
+
+g).- Licencias, permisos o autorizaciones para la colocación de anuncios y carteles o la realización de publicidad, excepto los que se realicen por medio de televisión, radio, periódicos y revistas.
+
+II.- Registros o cualquier acto relacionado con los mismos, a excepción de los siguientes:
+
+a).- Registro Civil
+
+b).- Registro de la Propiedad y del Comercio.
+
+III.- Uso de las vías públicas o la tenencia de bienes sobre las mismas. No se considerarán comprendidos dentro de lo dispuesto en esta fracción los derechos de estacionamiento de vehículos, el uso de la vía pública por comerciantes ambulantes o con puestos fijos o semifijos, ni por el uso o tenencia de anuncios.
+
+IV.- Actos de inspección y vigilancia.
+
+Los derechos locales o municipales no podrán ser diferenciales considerando el tipo de actividad a que se dedique el contribuyente, excepto tratándose de derechos diferenciales por los conceptos a los que se refieren los incisos del a) al g) de la fracción I y la fracción III.
+
+Las certificaciones de documentos así como la reposición de éstos por extravío o destrucción parcial o total, no quedará comprendida (sic) dentro de lo dispuesto en las fracciones I y II de este artículo. Tampoco quedan comprendidas las concesiones por el uso o aprovechamiento de bienes pertenecientes a las Entidades Federativas o a los municipios.
+
+En ningún caso lo dispuesto en este artículo, se entenderá que limita la facultad de los Estados y Municipios para requerir licencias, registros, permisos o autorizaciones, otorgar concesiones y realizar actos de inspección y vigilancia. Para el ejercicio de estas facultades no se podrá exigir cobro alguno, con las salvedades expresamente señaladas en este artículo.
+
+Para los efectos de coordinación con las Entidades, se considerarán derechos, aún cuando tengan una denominación distinta en la legislación local correspondiente, las contribuciones que tengan las características de derecho conforme al Código Fiscal de la Federación y la Ley de Ingresos de la Federación.
+
+También se considerarán como derechos para los efectos de este artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan la característica de derechos de acuerdo con el Código Fiscal de la Federación, aun cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
