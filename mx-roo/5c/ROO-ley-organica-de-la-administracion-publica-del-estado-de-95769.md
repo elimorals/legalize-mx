@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-administracion-publica-del-estado-de-95769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-08-19"
-last_updated: "2014-10-08"
+last_updated: "2014-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Número 67 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 19 de agosto de 2013.
 
@@ -1249,6 +1249,10 @@ XVIII. Vigilar la observancia de los principios de constitucionalidad y legalida
 
 XIX. Las demás que le encomienden expresamente las leyes y reglamentos.
 
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+El Gobernador del Estado podrá crear o suprimir mediante acuerdo, las Fiscalías o Unidades Especializadas de la Procuraduría General de Justicia del Estado, que se requieran para la investigación de los delitos.
+
 ###### ARTÍCULO 46.
 
 A la Secretaría de Seguridad Pública le compete el despacho de los siguientes asuntos:
@@ -1464,3 +1468,11 @@ P.O. 8 DE OCTUBRE DE 2014.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. En un plazo no mayor a 90 días hábiles el Titular del Poder Ejecutivo del Estado de Quintana Roo, a través de la instancia competente, deberá realizar las previsiones y adecuaciones administrativas necesarias, para el debido ejercicio y cumplimiento de la facultad establecida en el Artículo 37 fracción XXXVIII de esta ley.
+
+P.O. 9 DE DICIEMBRE DE 2014.
+
+Primero. El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Tercero. Para garantizar el cumplimiento del presente Decreto, el Titular del Poder Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y Planeación del Estado, establecerá las partidas presupuestales pertinentes en el Presupuesto de Egresos del Estado.
