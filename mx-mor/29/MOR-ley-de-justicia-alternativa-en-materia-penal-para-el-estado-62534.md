@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-justicia-alternativa-en-materia-penal-para-el-estado-625
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-18"
-last_updated: "2013-10-09"
+last_updated: "2014-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE JUSTICIA ALTERNATIVA EN MATERIA PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el lunes 18 de agosto de 2008.
 
@@ -55,7 +55,9 @@ I. Ley: La ley de Justicia Alternativa en Materia Penal para el Estado de Morelo
 
 II. Medios Alternos: Son los Métodos de solución como la mediación, conciliación y negociación;
 
-III. Centro: al Centro de Justicia Alternativa de la Procuraduría General de Justicia del Estado de Morelos;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+III. Centro: al Centro de Justicia Alternativa de la Fiscalía General del Estado de Morelos;
 
 IV. Principio de Justicia restaurativa: Es todo proceso en el que la víctima u ofendido y el imputado o condenado participan conjuntamente de forma activa en la resolución de cuestiones derivadas del delito en busca de un resultado restaurativo;
 
@@ -73,7 +75,9 @@ IX. Juntas de Orientación Ciudadana: Proceso desarrollado entre las partes, con
 
 X. Personal Especializado: Son los Profesionistas en la aplicación de las técnicas de Mediación, Conciliación y Negociación, entre otros, que lleven a cabo los medios alternos;
 
-XI. Director: Al Director General del Centro de Justicia Alternativa de la Procuraduría General de Justicia del Estado Morelos;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+XI. Director: Al Director General del Centro de Justicia Alternativa de la Fiscalía General del Estado Morelos;
 
 XII. Orientador Ciudadano: Son los Servidores Públicos del Centro de Justicia Alternativa, que darán información sobre su competencia y beneficios de los medios alternativos a las partes, y canalizarán cuando proceda, previo registro de las partes, al Centro de Justicia Alternativa. Además serán los encargados de elaborar los citatorios y comunicará de manera pertinente al Ministerio Público las decisiones de las partes, para su conocimiento;
 
@@ -87,9 +91,11 @@ XV. Acreditación: Es el documento por medio del cual el Centro autoriza y adscr
 
 ### CAPÍTULO SEGUNDO. DEL CENTRO DE JUSTICIA ALTERNATIVA Y SUS UNIDADES
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 4.
 
-El Centro de Justicia Alternativa, es un órgano de la Procuraduría General de Justicia del Estado de Morelos y será el rector de los medios alternativos de justicia en materia penal, con las facultades y atribuciones que establece esta ley.
+El Centro de Justicia Alternativa, es un órgano de Justicia de la Fiscalía General del Estado de Morelos y será rector de los medios alternativos de justicia en materia penal, con las facultades y atribuciones que establece la ley.
 
 ###### ARTÍCULO 5.
 
@@ -111,9 +117,9 @@ III. Prestar el servicio de información y orientación sobre los procedimientos
 
 IV. Difundir y fomentar la cultura de los medios alternos, como solución pacífica de los conflictos en la ciudadanía;
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-V. Proponer al Procurador la adscripción de las Unidades de Orientación Ciudadana;
+V. Proponer al Fiscal la adscripción de las Unidades de Orientación Ciudadana;
 
 VI. Revocar o suspender la Acreditación de las Unidades o la certificación de los prestadores, en los casos que así proceda, previa garantía de audiencia y defensa, fundando y motivando dicha resolución;
 
@@ -121,15 +127,17 @@ VII. Evaluar y en su caso Certificar a los Especialistas, así como llevar sus r
 
 VIII. Promover la capacitación constante de su personal;
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-IX. Promover y proponer al Procurador General de Justicia del Estado, la suscripción de convenios de colaboración, así como cartas de intención y otros instrumentos jurídicos con instituciones afines, para lograr los objetivos del Centro;
+IX. Promover y proponer al Fiscal General del Estado, la suscripción de convenios de colaboración, así como cartas de intención y otros instrumentos jurídicos con instituciones afines, para lograr los objetivos del Centro;
 
 X. Realizar Diagnósticos, investigaciones y análisis relacionados con sus funciones;
 
 XI. Llevar la estadística general del Centro, de sus unidades y demás prestadores de servicio;
 
-XII. Rendir al Procurador informe de sus actividades;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+XII. Rendir al Fiscal informe de sus actividades;
 
 XIII. Difundir el resultado de sus investigaciones, informes y actividades en general a través de los medios de comunicación en los términos de la Ley de información Pública, Estadística y protección de datos personales del Estado de Morelos;
 
@@ -147,7 +155,9 @@ El Centro de Justicia Alternativa estará integrado por los siguientes órganos:
 
 I. Dirección General del Centro de Justicia Alternativa;
 
-II. Dirección de Zona de Acuerdos Reparatorios, atendiendo a la organización de la Procuraduría;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+II. Dirección de Zona de Acuerdos Reparatorios, atendiendo a la organización de la Fiscalía;
 
 En cada Zona habrá las siguientes Subdirecciones:
 
@@ -157,11 +167,11 @@ II. Subdirección de Notificadores;
 
 III. Ministerios Públicos, personal jurídico, administrativo, notificadores y especialistas que el presupuesto permita.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 9.
 
-El Director General del Centro será designado por el Procurador General de Justicia del Estado de Morelos. El Director General para el ejercicio de sus funciones se auxiliará de los Directores de Zona de Acuerdos Reparatorios de cada área, de los Ministerios Públicos, personal especializado, y demás funcionarios.
+El Director General del Centro será designado por el Fiscal General del Estado de Morelos. El Director General para el ejercicio de sus funciones se auxiliará de los Directores de Zona de Acuerdos Reparatorios de cada área, de los Ministerio (sic) Públicos, personal especializado, y demás funcionarios.
 
 ###### ARTÍCULO 10.
 
@@ -195,31 +205,37 @@ III. Representar al Centro y promover convenios de colaboración necesarios para
 
 IV. Convocar a concurso para prestadores de servicios de colaboración necesarios para el desarrollo del mismo;
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-V. Expedir las acreditaciones del Centro autorizadas por el Procurador;
+V. Expedir las acreditaciones del Centro autorizadas por el Fiscal;
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-VI. Proponer al Procurador la adscripción de las Unidades de Orientación Ciudadana;
+VI. Proponer al Fiscal la adscripción de las Unidades de Orientación Ciudadana;
 
 VII. Llevar el registro de desempeño de los Especialistas;
 
-VIII. Presentar los planes y programas anuales del Centro para su aprobación por el Procurador del Estado;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+VIII. Presentar los planes y programas anuales del Centro para su aprobación por el Fiscal del Estado;
 
-IX. Proponer al Procurador reglamentos institucionales, y los manuales de procedimientos y de organización del Centro y sus unidades adscritas, así como los formatos de las sesiones que se utilizan en el Centro, revisarlos anualmente y en su caso actualizarlos;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+IX. Proponer al Fiscal reglamentos institucionales, y los manuales de procedimientos y de organización del Centro y sus unidades adscritas, así como los formatos de las sesiones que se utilizan en el Centro, revisarlos anualmente y en su caso actualizarlos;
 
-X. Proponer al Procurador las designaciones de Directores de Zona de Acuerdos Reparatorios, así como el personal del Centro, para aprobación;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+X. Proponer al Fiscal las designaciones de Directores de Zona de Acuerdos Reparatorios, así como el personal del Centro, para aprobación;
 
 XI. Divulgar las funciones del Centro, y los beneficios sociales de los servicios de Justicia alternativa y sus organismos;
 
-XII. Presentar los informes necesarios al Procurador de su administración;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-XIII. Elaborar el anteproyecto de presupuesto de egresos y presentárselo al Procurador para su aprobación;
+XII. Presentar los informes necesarios al Fiscal de su administración;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+XIII. Elaborar el anteProyecto de presupuesto de egresos y presentárselo al Fiscal para su aprobación;
 
 > <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
@@ -339,9 +355,11 @@ VI. Acudir a las revisiones y evaluaciones del Centro, así como proporcionar lo
 
 VII. Estas disposiciones también tienen que ser cumplidas por los especialistas privados nombrados por las partes.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 19.
 
-El personal del centro estará sujeto a la responsabilidad administrativa y en su caso a los procedimientos disciplinarios establecidos en la Ley Orgánica de la Procuraduría General de Justicia del Estado de Morelos y la Ley Estatal de Responsabilidades de los Servidores Públicos, así como las demás disposiciones aplicables a la materia.
+El personal del centro estará sujeto a la responsabilidad administrativa y en su caso a los procedimientos disciplinarios establecidos en la Ley Orgánica de la Fiscalía General del Estado de Morelos y la Ley Estatal de Responsabilidades de los Servidores Públicos, así como las demás disposiciones aplicables a la materia.
 
 ### CAPÍTULO CUARTO. DE LAS UNIDADES DE ORIENTACIÓN CIUDADANA
 
@@ -565,9 +583,11 @@ III. Las demás que establezca esta Ley, su reglamento y demás disposiciones ap
 
 ### CAPÍTULO NOVENO. DE LOS CONVENIOS
 
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 45.
 
-La Procuraduría General de Justicia del Estado, podrá celebrar convenios con las minorías étnicas, para incorporarlos como auxiliares en el Centro de Justicia Alternativa; a efecto de que participen en forma activa en la resolución de conflictos relacionados con sus grupos, en busca de un resultado restaurativo.
+La Fiscalía General del Estado, podrá celebrar convenios con las minorías étnicas, para incorporarlos como auxiliares en el Centro de Justicia Alternativa; a efecto de que participen en forma activa en la resolución de conflictos relacionados con sus grupos, en busca de un resultado restaurativo.
 
 ###### ARTÍCULO 46.
 
@@ -636,3 +656,9 @@ PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estad
 SEGUNDO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial ''Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+P.O. 10 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respetiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial ''Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
