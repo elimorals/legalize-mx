@@ -4,7 +4,7 @@ identifier: "BCS-codigo-de-procedimientos-civiles-para-el-estado-de-baja-11601"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-05-23"
-last_updated: "2012-12-31"
+last_updated: "2014-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE DICIEMBRE DE 2014.
 
 Código publicado en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 23 de mayo de 1997.
 
@@ -383,7 +383,7 @@ Las audiencias en todos los procedimientos serán públicas, pero el tribunal po
 
 Los jueces y magistrados a quienes corresponda, recibirán por sí mismos, las declaraciones y presidirán todos los actos de prueba, bajo su responsabilidad.
 
-> <small>(F. DE E., B.O. 3O DE JUNIO DE 1998)</small>
+> <small>(F. DE E., B.O. 30 DE JUNIO DE 1998)</small>
 
 ###### Artículo 60.
 
@@ -835,7 +835,7 @@ Además de las pruebas que tuviere, el solicitante está en la obligación de pr
 
 No se entregarán los autos originales para formular alegatos. La sentencia es apelable en ambos efectos y el recurso se substanciará como en los juicios ordinarios.
 
-> <small>(F. DE E., B.O. 3O DE JUNIO DE 1998)</small>
+> <small>(F. DE E., B.O. 30 DE JUNIO DE 1998)</small>
 
 ###### Artículo 122.
 
@@ -869,7 +869,7 @@ En las salas del tribunal y en los juzgados, los servidores públicos que determ
 
 En los lugares donde no exista Boletín Judicial u otra publicación equivalente, la segunda y ulteriores notificaciones se harán como se determina en el artículo 111, último párrafo, y si los interesados no ocurrieren al tribunal, surtirá sus efectos la notificación al día siguiente de aquél en que se fije en el tablero de avisos del juzgado, una cédula conteniendo el nombre del notificado; el del tribunal y la resolución que se hace saber, con la fecha en que se hace la fijación de la cédula. De todo lo cual se tomará razón en los autos bajo las penas a que se refiere el artículo anterior.
 
-> <small>(F. DE E., B.O. 3O DE JUNIO DE 1998)</small>
+> <small>(F. DE E., B.O. 30 DE JUNIO DE 1998)</small>
 
 Dentro de un procedimiento judicial, todos los edictos, convocatorias o avisos que por mandato legal o judicial se tengan que hacer del conocimiento de alguna persona o del público en general, así como aquellas comunicaciones similares de notarios públicos, corredores públicos o particulares que por cualquier causa deban hacerlos, por así obligarlos la ley por los cargos que ostenten, serán redactados de modo preciso y conciso, sintetizando las providencias que se ordenen publicar, evitando transcripciones literales, y señalándose únicamente los puntos substanciales. Las publicaciones de esos edictos, convocatorias y avisos sólo podrán realizarse en aquellos medios de difusión que tengan una sección especial destinada para "edictos, avisos y convocatorias judiciales" o sección destacada similar que represente el menor costo de todas las inserciones y anuncios por esos medios de comunicación.
 
@@ -929,9 +929,11 @@ III. Cinco días para la celebración de juntas, reconocimientos de firmas, exhi
 
 IV. Tres días para todos los demás casos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 137.
 
-La caducidad de la instancia operará de pleno derecho cualquiera que sea el estado del juicio desde el emplazamiento hasta antes de que concluya la audiencia de pruebas, alegatos y sentencia, si transcurridos seis meses naturales contados a partir de la notificación de la última determinación judicial, no hubiere promoción, de cualquiera de las partes, que tienda a llevar adelante el procedimiento. Los efectos y formas de la declaración de caducidad se sujetarán a las siguientes normas:
+La caducidad de la instancia operará de pleno derecho cualquiera que sea el estado del juicio, desde el auto que admita la demanda hasta antes de que se cite para sentencia, si transcurridos seis meses naturales contados a partir de la notificación de la última determinación judicial, no hubiere promoción, de cualquiera de las partes, que tienda a llevar adelante el procedimiento. Los efectos y formas de la declaración de caducidad se sujetarán a las siguientes normas:
 
 I. La caducidad de la instancia es de orden público, irrenunciable y no puede ser materia de convenios entre las partes. El juez la declarará de oficio o a petición de cualquiera de las partes cuando concurran las circunstancias a que se refiere el presente artículo;
 
@@ -1581,7 +1583,7 @@ Las providencias precautorias podrán dictarse:
 
 I. Cuando hubiere temor de que se ausente u oculte la persona contra quien deba entablarse o se haya entablado una demanda;
 
-II. Cuando se tema que se oculten o dilapiden los bienes en que debe ejercitarse una acción real, y (sic)
+II. Cuando se tema que se oculten o dilapiden los bienes en que debe ejercitarse una acción real, y
 
 III. Cuando la acción sea personal, siempre que el deudor no tuviere otros bienes que aquéllos en que se ha de practicar la diligencia y se tema que los oculte o enajene;
 
@@ -1875,7 +1877,7 @@ Sólo los hechos están sujetos a prueba; el derecho lo estará únicamente cuan
 
 El tribunal debe recibir las pruebas que le presenten las partes siempre que estén permitidas por la ley y se refieran a los puntos cuestionados.
 
-> <small>(F. DE E., B.O. 3O DE JUNIO DE 1998)</small>
+> <small>(F. DE E., B.O. 30 DE JUNIO DE 1998)</small>
 
 El auto en que se admita alguna prueba no es recurrible; el que la deseche es apelable en el efecto devolutivo si fuere apelable la sentencia definitiva.
 
@@ -2025,7 +2027,7 @@ Podrán articularse posiciones relativas a hechos negativos que envuelvan una ab
 
 Las posiciones deberán concretarse a hechos que sean objeto del debate, debiendo repelerse de oficio las que no reúnan este requisito. El juez deberá ser escrupuloso en el cumplimiento de este precepto.
 
-> <small>(F. DE E., B.O. 3O DE JUNIO DE 1998)</small>
+> <small>(F. DE E., B.O. 30 DE JUNIO DE 1998)</small>
 
 ###### Artículo 304.
 
@@ -2107,7 +2109,7 @@ I. Las escrituras públicas, pólizas y actas otorgadas ante notario o corredor 
 
 II. Los documentos auténticos expedidos por funcionarios que desempeñen cargo público en lo que se refiere al ejercicio de sus funciones;
 
-> <small>(F. DE E., B.O. 3O DE JUNIO DE 1998)</small>
+> <small>(F. DE E., B.O. 30 DE JUNIO DE 1998)</small>
 
 III. Los documentos auténticos, libros de actas, estatutos, registros y catastros que se hallen en los archivos públicos o los dependientes del Gobierno Federal, de los Estados, de los Ayuntamientos o del Distrito Federal;
 
@@ -2117,7 +2119,7 @@ V. Las certificaciones de constancias existentes en los archivos públicos exped
 
 VI. Las certificaciones de constancias existentes en los archivos parroquiales y que se refieren a actos pasados antes del establecimiento del Registro Civil, siempre que fueren cotejadas por notario público o quien haga sus veces con arreglo a derecho;
 
-> <small>(F. DE E., B.O. 3O DE JUNIO DE 1998)</small>
+> <small>(F. DE E., B.O. 30 DE JUNIO DE 1998)</small>
 
 VII. Las ordenanzas, estatutos, reglamentos y actas de sociedades o asociaciones, universidades, siempre que estuvieren aprobadas por el Gobierno Federal o de los Estados, y las copias certificadas que de ellos se expidieren;
 
@@ -2567,7 +2569,7 @@ Cuando haya necesidad de diferirla se continuará en las primeras horas hábiles
 
 En los tribunales colegiados, cuando falte la mayoría o estuviere integrada por magistrados diferentes a los que presidieron la audiencia anterior, tendrá efecto la ampliación de diligencias probatorias a que se refiere la fracción II del artículo 387.
 
-> <small>(F. DE E., B.O. 3O DE JUNIO DE 1998)</small>
+> <small>(F. DE E., B.O. 30 DE JUNIO DE 1998)</small>
 
 ### CAPITULO V. Del valor de las pruebas
 
@@ -2681,7 +2683,7 @@ La valoración de las pruebas se hará de acuerdo con el presente capítulo, a m
 
 Los demás medios de pruebas no comprendidos en este capítulo serán valorados por el juzgador atendiendo a las reglas de la lógica y la experiencia, exponiendo el juez cuidadosamente los fundamentos de la valoración jurídica realizada.
 
-> <small>(F. DE E., B.O. 3O DE JUNIO DE 1998)</small>
+> <small>(F. DE E., B.O. 30 DE JUNIO DE 1998)</small>
 
 ### CAPITULO VI. De la sentencia ejecutoria
 
@@ -2723,7 +2725,7 @@ El auto en que se declare que una sentencia ha causado o no ejecutoria, no admit
 
 ## TITULO SEPTIMO. De los juicios especiales y de las vías de apremio
 
-> <small>(F. DE E., B.O. 3O DE JUNIO DE 1998)</small>
+> <small>(F. DE E., B.O. 30 DE JUNIO DE 1998)</small>
 
 ### CAPITULO I. Del juicio especial de nulidad, rectificación o modificación, y reposición de actas del Registro Civil
 
@@ -3451,7 +3453,7 @@ Pedida la autorización a que se refiere la fracción V del artículo anterior, 
 
 Si el secuestro se efectúa en una finca rústica o en una negociación mercantil o industrial, el depositario será mero interventor con cargo a la caja, vigilando la contabilidad, y tendrá las siguientes atribuciones:
 
-> <small>(F. DE E., B.O. 3O DE JUNIO DE 1998)</small>
+> <small>(F. DE E., B.O. 30 DE JUNIO DE 1998)</small>
 
 I. Inspeccionará el manejo de la negociación o finca rústica en su caso, y las operaciones que en ellas respectivamente se hagan, a fin de que produzcan el mejor rendimiento posible;
 
@@ -4287,7 +4289,7 @@ II. De los autos definitivos que paralizan o ponen término al juicio haciendo i
 
 III. De las sentencias interlocutorias que paralizan o ponen término al juicio haciendo imposible su continuación.
 
-> <small>(F. DE E., B.O. 3O DE JUNIO DE 1998)</small>
+> <small>(F. DE E., B.O. 30 DE JUNIO DE 1998)</small>
 
 ###### Artículo 684.
 
@@ -4403,7 +4405,7 @@ IV. En los demás casos fijados por la ley.
 
 Se da el recurso de queja en contra de los ejecutores y secretarios por ante el juez. Contra los primeros sólo por exceso o defecto de las ejecuciones y por las decisiones en los incidentes de ejecución. Contra los segundos, por omisiones y negligencias en el desempeño de sus funciones.
 
-> <small>(F. DE E., B.O. 3O DE JUNIO DE 1998)</small>
+> <small>(F. DE E., B.O. 30 DE JUNIO DE 1998)</small>
 
 ###### Artículo 706.
 
@@ -4477,7 +4479,7 @@ En ningún caso la sentencia pronunciada en el juicio de responsabilidad civil a
 
 El concurso del deudor no comerciante puede ser voluntario o necesario. Es voluntario cuando el deudor se desprende de sus bienes para pagar a sus acreedores, presentándose por escrito acompañando un estado de su activo y pasivo con expresión del nombre y domicilio de sus deudores y acreedores, así como una explicación de las causas que hayan motivado su presentación en concurso. Sin estos requisitos no se admitirá la solicitud. No se incluirán en el activo los bienes que no puedan embargarse.
 
-> <small>(F. DE E., B.O. 3O DE JUNIO DE 1998)</small>
+> <small>(F. DE E., B.O. 30 DE JUNIO DE 1998)</small>
 
 Es necesario cuando dos o más acreedores de plazo cumplido han demandado o ejecutado ante uno mismo o diversos jueces a sus deudores y no haya bienes bastantes para que cada uno secuestre lo suficiente para cubrir su crédito y costas.
 
@@ -5331,7 +5333,7 @@ I. Con la certificación de la defunción del autor de la herencia se acompañar
 
 II. El inventario y avalúo se harán por el cónyuge o concubinario que sobreviva o el albacea si estuviere designado y, en su defecto, por el heredero que sea de más edad; el avalúo deberá ser firmado por un perito oficial o, en su defecto, por cualquier comerciante de honorabilidad reconocida;
 
-> <small>(F. DE E., B.O. 3O DE JUNIO DE 1998)</small>
+> <small>(F. DE E., B.O. 30 DE JUNIO DE 1998)</small>
 
 III. El juez convocará a junta a los interesados, nombrando en ella tutores especiales a los menores que no tuvieren representante legítimo o cuando el interés de éstos fuere opuesto al de aquéllos, y procurará ponerlos de acuerdo sobre la forma de hacer la partición. Si no logra ponerlos de acuerdo, nombrará un partidor entre los contadores oficiales a cargo del erario, para que en el término de cinco días presente el proyecto de partición, que dará a conocer a los interesados en una nueva junta a que serán convocados por cédula o correo. En esa misma audiencia oirá y decidirá las oposiciones, mandando hacer la adjudicación;
 
@@ -5363,7 +5365,7 @@ Formado por el albacea con la aprobación de los herederos el proyecto de partic
 
 Siempre que haya oposición de algún aspirante a la herencia o de cualquier acreedor, el notario suspenderá su intervención y enviará testimonio de las actas que hubiere levantado a la autoridad judicial que corresponda.
 
-> <small>(F. DE E., B.O. 3O DE JUNIO DE 1998)</small>
+> <small>(F. DE E., B.O. 30 DE JUNIO DE 1998)</small>
 
 ###### Artículo 857.
 
@@ -5491,7 +5493,7 @@ IV. Cuando lo juzgue necesario el juez o lo pidan las partes, y
 
 V. Cuando lo dispusieran las leyes.
 
-> <small>(F. DE E., B.O. 3O DE JUNIO DE 1998)</small>
+> <small>(F. DE E., B.O. 30 DE JUNIO DE 1998)</small>
 
 ###### Artículo 878.
 
@@ -5587,7 +5589,7 @@ V. Luego que cause ejecutoria la sentencia de interdicción, se procederá a nom
 
 VI. El tutor interino deberá rendir cuentas al tutor definitivo con intervención del curador;
 
-> <small>(F. DE E., B.O. 3O DE JUNIO DE 1998)</small>
+> <small>(F. DE E., B.O. 30 DE JUNIO DE 1998)</small>
 
 VII. Las mismas reglas en lo conducente se observarán para el juicio que tenga por objeto hacer cesar la interdicción; y
 
@@ -5857,7 +5859,7 @@ V. El juez mandará que se fijen las señales convenientes en los puntos deslind
 
 Los puntos respecto a los cuales hubiere oposición, no quedarán deslindados ni se fijará en ellos señal alguna, mientras no haya sentencia ejecutoria que resuelva la cuestión, dictada en el juicio correspondiente.
 
-> <small>(F. DE E., B.O. 3O DE JUNIO DE 1998)</small>
+> <small>(F. DE E., B.O. 30 DE JUNIO DE 1998)</small>
 
 ###### Artículo 923.
 
@@ -6137,7 +6139,7 @@ II. El condenado podrá proponer fianza de persona abonada para garantizar el pa
 
 III. Llegado el caso, el ejecutor asociado de la parte que obtuvo y sirviendo de mandamiento en forma la sentencia condenatoria, procederá al secuestro de bienes conforme a los artículos que siguen.
 
-> <small>(F. DE E., B.O. 3O DE JUNIO DE 1998)</small>
+> <small>(F. DE E., B.O. 30 DE JUNIO DE 1998)</small>
 
 ###### Artículo 968.
 
@@ -6334,3 +6336,13 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+B.O. 10 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos y demás asuntos relacionados con la materia a que se refiere el presente Decreto, iniciados con anterioridad a la entrada en vigor de la reforma, se tramitarán y resolverán conforme a las disposiciones vigentes en ese momento.
