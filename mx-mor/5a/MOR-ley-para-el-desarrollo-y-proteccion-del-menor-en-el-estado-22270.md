@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-el-desarrollo-y-proteccion-del-menor-en-el-estado-2227
 country: "mx"
 rank: "ley"
 publication_date: "1997-03-12"
-last_updated: "2014-05-28"
+last_updated: "2014-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY PARA EL DESARROLLO Y PROTECCIÓN DEL MENOR EN EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 12 de marzo de 1997.
 
@@ -51,13 +51,13 @@ El niño para el pleno y armonioso desarrollo de su personalidad, debe crecer en
 
 La presente Ley inicia declarando los derechos fundamentales del individuo en la minoría de edad reconocidos en diversos ordenamientos internacionales, nacionales y locales, entre ellos, la Convención de los Derechos del Niño, suscrita por el Estado Mexicano el 26 de enero de 1990, la Constitución General de la República, la Constitución Política del Estado de Morelos; la Ley Federal del Trabajo, el Código Civil para el Estado de Morelos; entre otros reconocimiento que se liga a las obligaciones que tiene el mundo adulto para con ellos, sea en su calidad de padres, autoridades y ciudadanos en general, bajo una visión distinta del concepto tradicional de autoridad, en su más amplio sentido, una autoridad que debe aprender a escuchar y valorar la voz y opinión de los niños o jóvenes, que instrumente acciones de protección y apoyo para su desarrollo, dentro de un criterio que los considere como personas en desarrollo.
 
-3.- En los programas de asistencia social, sobre todo en los aspectos relativos a la salud, educación, cultura y recreación, se impone como obligación la prioridad de atender a los menores; estimulando la participación de la sociedad civil en esta clase de asistencia, a través del otorgamiento de reconocimientos (sic) y de estímulos fiscales.
+3.- En los programas de asistencia social, sobre todo en los aspectos relativos a la salud, educación, cultura y recreación, se impone como obligación la prioridad de atender a los menores; estimulando la participación de la sociedad civil en esta clase de asistencia, a través del otorgamiento de reconocimientos y de estímulos fiscales.
 
 Atención especial requiere el caso de los niños y jóvenes de la calle, de los abandonados por cualquier circunstancia, los discapaces, los victimados o los que incurren en conductas antisociales, por cuyas condiciones se encuentran en un mayor estado de desprotección, estableciendo asistencia social y jurídica para ellos, imponiendo la obligación de reintegrarlos al seno familiar, en los casos en que sea posible a fin de evitar a la postre, adultos con una enorme carga de sentimientos de frustración y resentimiento social.
 
 Un medio para el cumplimiento de este objetivo particular es el de instituir la integración del Sistema Estatal de Justicia para el Menor Infractor, cuyo propósito sería la evaluación de las condiciones físicas, psíquicas, sociales y familiares del niño o joven que incurre en una conducta antisocial, en el que participen las dependencias involucradas y los profesionistas especializados en la materia.
 
-4.- En el presente ordenamiento se institucionaliza a través de Ley, la existencia de la Procuraduría de la Defensa del Menor, con facultades coercitivas que permitan el cumplimiento de sus atribuciones y resoluciones respetando en todo momento los principios constitucionales de audiencia y debido proceso. Esta dependencia tendría el encargo de proporcionar en todo momento el apoyo y la protección de los menores, solicitando el auxilio y colaboración de las demás dependencias del (sic) Gobierno Estatal y de los Municipales; y ejercer la representación del Sistema para el Desarrollo Integral de la Familia, en los casos en los que legalmente dicho organismo deba tener intervención ante los órganos jurisdiccionales en el Estado.
+4.- En el presente ordenamiento se institucionaliza a través de Ley, la existencia de la Procuraduría de la Defensa del Menor, con facultades coercitivas que permitan el cumplimiento de sus atribuciones y resoluciones respetando en todo momento los principios constitucionales de audiencia y debido proceso. Esta dependencia tendría el encargo de proporcionar en todo momento el apoyo y la protección de los menores, solicitando el auxilio y colaboración de las demás dependencias del Gobierno Estatal y de los Municipales; y ejercer la representación del Sistema para el Desarrollo Integral de la Familia, en los casos en los que legalmente dicho organismo deba tener intervención ante los órganos jurisdiccionales en el Estado.
 
 Por lo anteriormente expuesto y fundado esta Soberanía ha tenido a bien expedir la siguiente:
 
@@ -275,9 +275,11 @@ VIII.- Proporcionar complementos alimenticios a los menores que lo requieran;
 
 IX.- Establecer comedores para proporcionar una alimentación balanceada a los menores que se encuentren realizando estudios básicos en las escuelas del sector público.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 16.
 
-Los responsables, administradores, directores y demás personas encargadas de autorizar la admisión de centros de salud, hospitales, centros quirúrgicos, públicos o privados, médicos, paramédicos y enfermeras, tienen la obligación de dar asistencia en forma gratuita a los menores de edad lesionados o enfermos en casos de urgencia o gravedad.
+Los responsables, administradores, directores y demás personas encargadas de autorizar la admisión de centros de salud, hospitales, centros quirúrgicos, públicos o privados, médicos, así como personal paramédico y de enfermería, tienen la obligación de dar asistencia en forma gratuita a los menores de edad lesionados o enfermos en casos de urgencia o gravedad.
 
 ### CAPITULO V. EN EDUCACION, CULTURA Y RECREACION
 
@@ -882,3 +884,13 @@ P.O. 28 DE MAYO DE 2014.
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 10 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto, entrará en Vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad', Órgano de difusión del Gobierno del Estado de Morelos.
