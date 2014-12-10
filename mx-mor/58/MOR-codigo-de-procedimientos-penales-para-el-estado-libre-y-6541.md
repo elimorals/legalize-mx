@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-procedimientos-penales-para-el-estado-libre-y-6541"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2014-11-19"
+last_updated: "2014-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6541&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "MOR"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
+> <small>N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO NÚMERO DOS MIL CUARENTA Y OCHO, PUBLICADO EN EL P.O. DE 10 DE DICIEMBRE DE 2014, UNA VEZ EMITIDA LA DECLARATORIA DE ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, EN EL ESTADO DE MORELOS, QUE EMITA EL CONGRESO DEL ESTADO, QUEDARÁN ABROGADOS EL CÓDIGO DE PROCEDIMIENTOS PENALES EN EL ESTADO LIBRE Y SOBERANO DE MORELOS, PUBLICADO EN EL PERIÓDICO OFICIAL NÚMERO 1180, SEGUNDA SECCIÓN DE FECHA TREINTA Y UNO DE MARZO DE MIL NOVECIENTOS CUARENTA Y SEIS, EL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MORELOS, PUBLICADO EN EL PERIÓDICO OFICIAL NÚMERO 3820 TERCERA SECCIÓN EL DÍA NUEVE DE OCTUBRE DE MIL NOVECIENTOS NOVENTA Y SEIS Y EL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE MORELOS, APROBADO EL DÍA TRECE DE NOVIEMBRE DEL DOS MIL SIETE Y PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE MORELOS "TIERRA Y LIBERTAD", NÚMERO 4570 DE FECHA VEINTIDÓS DE NOVIEMBRE DEL DOS MIL SIETE, ASÍ MISMO, SE DEROGAN TODAS LAS DISPOSICIONES NORMATIVAS DE IGUAL O MENOR RANGO JERÁRQUICO QUE SE OPONGAN AL PRESENTE DECRETO.</small>
+
 > <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS SEGUNDO Y TERCERO TRANSITORIOS DE CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 22 DE NOVIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO EN LA MEDIDA EN QUE LOS PROCEDIMIENTOS INICIADOS CON ANTERIORIDAD A LA APLICACIÓN DEL NUEVO CÓDIGO QUEDEN AGOTADOS Y SUS DISPOSICIONES SE APLICARÁN A HECHOS QUE OCURRAN A PARTIR DE LAS CERO HORAS DEL DÍA 30 DE OCTUBRE DEL 2008, EN EL PRIMER DISTRITO JUDICIAL; A PARTIR DE LAS CERO HORAS DEL 1 DE JUNIO DEL 2009 EN EL SEXTO DISTRITO JUDICIAL CON SEDE EN CUAUTLA Y EN EL QUINTO DISTRITO JUDICIAL CON SEDE EN YAUTEPEC, MORELOS, Y A PARTIR DE LAS CERO HORAS DEL DÍA 1 DE FEBRERO DEL 2010, EN EL CUARTO DISTRITO JUDICIAL CON SEDE EN JOJUTLA, EN EL SEGUNDO DISTRITO JUDICIAL CON SEDE EN TETECALA, EN EL TERCER DISTRITO JUDICIAL CON SEDE EN PUENTE DE IXTLA Y EN EL SÉPTIMO DISTRITO JUDICIAL CON SEDE EN JONACATEPEC.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -2462,3 +2464,11 @@ P.O. 19 DE NOVIEMBRE DE 2014.
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 10 DE DICIEMBRE DE 2014.
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. Una vez emitida la Declaratoria de entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de Morelos, que emita el Congreso del Estado, quedarán abrogados el Código de Procedimientos Penales en el Estado Libre y Soberano de Morelos, publicado en el Periódico Oficial número 1180, segunda sección de fecha treinta y uno de marzo de mil novecientos cuarenta y seis, el Código de Procedimientos Penales para el Estado de Morelos, publicado en el Periódico Oficial número 3820 tercera sección el día nueve de octubre de mil novecientos noventa y seis y el Código de Procedimientos Penales del Estado de Morelos, aprobado el día trece de noviembre del dos mil siete y publicado en el Periódico Oficial del Gobierno del Estado de Morelos "Tierra y Libertad", número 4570 de fecha veintidós de noviembre del dos mil siete, así mismo, se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+TERCERA. En su caso, las menciones que en otros ordenamientos permanezcan y se hagan de los Códigos de Procedimientos Penales que se abrogan por virtud de la disposición transitoria que antecede, se entenderán referidas al Código Nacional de Procedimientos Penales.
