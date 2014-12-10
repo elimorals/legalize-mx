@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-procedimientos-penales-del-estado-de-morelos-57615"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-22"
-last_updated: "2014-10-08"
+last_updated: "2014-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO NÚMERO 2048 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE DISTINTOS ORDENAMIENTOS ESTATALES PARA LOGRAR SU ARMONIZACIÓN CON EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, PUBLICADO EN EL P.O. DE 10 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO UNA VEZ EMITIDA LA DECLARATORIA DE ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, EN EL ESTADO DE MORELOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el jueves 22 de noviembre de 2007.
 
@@ -35,7 +37,7 @@ Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo si
 
 LA QUINCUAGÉSIMA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE LE OTORGA EL ARTÍCULO 40, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL, Y, CON LOS SIGUIENTES:
 
-CONSIDERANDOS.
+CONSIDERANDOS...
 
 Motivados en los antecedentes y razonamientos expuestos, consideramos procedente la iniciativa que plantea el iniciador. En este contexto y con fundamento en los preceptos de derecho invocados en el proemio del presente, los diputados integrantes de ésta Comisión dictaminadora, coincidimos en someter a la consideración del pleno del pleno (sic) de éste Congreso la aprobación de (sic) presente Dictamen con proyecto de decreto del:
 
@@ -1587,7 +1589,7 @@ Si el imputado se presenta después de la declaratoria de sustracción a la acci
 
 Oportunidades y autoridad competente.
 
-El imputado tendrá derecho guardar (sic) silencio o a declarar cuantas veces quiera, siempre que su declaración sea pertinente y oportuna.
+El imputado tendrá derecho (sic) guardar silencio o a declarar cuantas veces quiera, siempre que su declaración sea pertinente y oportuna.
 
 En todos los casos, la declaración del imputado sólo tendrá validez si es prestada libre, informada y voluntariamente ante el juez y se encuentre asistido por su defensor.
 
@@ -2559,7 +2561,7 @@ Procederán los acuerdos reparatorios en los delitos culposos; aquellos en los q
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
-Se exceptúan de esta disposición los homicidios culposos en los supuestos a que se refiere el artículo 128, el feminicidio, el delito de aborto previsto en la fracción II del artículo 115, el de privación ilegal de la libertad previsto en el artículo 138, el de secuestro previsto en el artículo 141 párrafo primero, los delitos contra la libertad y el normal desarrollo psicosexual, el delito de robo cuando concurran las circunstancias a que se refieren las fracciones I, II, III. IV, V, VI, XI del inciso a y el inciso b del artículo 176, los previstos en el artículo 176bis (sic), el equiparable al abigeato previsto en el artículo 180, el abigeato y su equiparable cuando concurran las circunstancias previstas en el artículo 181, el despojo cuando concurran las circunstancias previstas en el artículo 185, los fraudes previstos en el artículo 189, fracciones I y V, cuando se simule un acto judicial, el delito cometido por fraccionadores previsto en el artículo 192, el daño cuando se cometa por medio de inundación, incendio o explosivos en términos del artículo 194, el de operaciones con recursos de procedencia ilícita, previsto en el artículo 198, el de tráfico de menores previsto en el artículo 204, párrafo segundo, el de corrupción de menores previsto en el artículo 212, el de peligro de devastación, previsto en el artículo 243, todos ellos del Código Penal vigente en el Estado, así como los delitos cometidos por servidores públicos en el ejercicio de sus funciones o con motivo de ellas y los realizados por sujetos que pertenezcan a alguna asociación delictuosa de conformidad con el Código Penal.
+Se exceptúan de esta disposición los homicidios culposos en los supuestos a que se refiere el artículo 128, el feminicidio, el delito de aborto previsto en la fracción II del artículo 115, el de privación ilegal de la libertad previsto en el artículo 138, el de secuestro previsto en el artículo 141 párrafo primero, los delitos contra la libertad y el normal desarrollo psicosexual, el delito de robo cuando concurran las circunstancias a que se refieren las fracciones I, II, III. IV, V, VI, XI del inciso a y el inciso b del artículo 176, los previstos en el artículo 176bis, el equiparable al abigeato previsto en el artículo 180, el abigeato y su equiparable cuando concurran las circunstancias previstas en el artículo 181, el despojo cuando concurran las circunstancias previstas en el artículo 185, los fraudes previstos en el artículo 189, fracciones I y V, cuando se simule un acto judicial, el delito cometido por fraccionadores previsto en el artículo 192, el daño cuando se cometa por medio de inundación, incendio o explosivos en términos del artículo 194, el de operaciones con recursos de procedencia ilícita, previsto en el artículo 198, el de tráfico de menores previsto en el artículo 204, párrafo segundo, el de corrupción de menores previsto en el artículo 212, el de peligro de devastación, previsto en el artículo 243, todos ellos del Código Penal vigente en el Estado, así como los delitos cometidos por servidores públicos en el ejercicio de sus funciones o con motivo de ellas y los realizados por sujetos que pertenezcan a alguna asociación delictuosa de conformidad con el Código Penal.
 
 > <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2009)</small>
 
@@ -5411,7 +5413,7 @@ Los juicios y procedimientos relacionados con las reformas contenidas en este de
 
 P.O. 5 DE ENERO DE 2011.
 
-PRIMERO.- El presente decreto iniciará su vigencia a partir del día siguiente a su publicación el (sic) Periódico Oficial "Tierra y Libertad" órgano oficial de difusión del gobierno del Estado de Morelos.
+PRIMERO.- El presente decreto iniciará su vigencia a partir del día siguiente a su publicación (sic) el Periódico Oficial "Tierra y Libertad" órgano oficial de difusión del gobierno del Estado de Morelos.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente ordenamiento.
 
@@ -5448,3 +5450,11 @@ P.O. 8 DE OCTUBRE DE 2014.
 PRIMERA.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos señalados en los artículos 44 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 10 DE DICIEMBRE DE 2014.
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. Una vez emitida la Declaratoria de entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de Morelos, que emita el Congreso del Estado, quedarán abrogados el Código de Procedimientos Penales en el Estado Libre y Soberano de Morelos, publicado en el Periódico Oficial número 1180, segunda sección de fecha treinta y uno de marzo de mil novecientos cuarenta y seis, el Código de Procedimientos Penales para el Estado de Morelos, publicado en el Periódico Oficial número 3820 tercera sección el día nueve de octubre de mil novecientos noventa y seis y el Código de Procedimientos Penales del Estado de Morelos, aprobado el día trece de noviembre del dos mil siete y publicado en el Periódico Oficial del Gobierno del Estado de Morelos “Tierra y Libertad”, número 4570 de fecha veintidós de noviembre del dos mil siete, así mismo, se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+TERCERA. En su caso, las menciones que en otros ordenamientos permanezcan y se hagan de los Códigos de Procedimientos Penales que se abrogan por virtud de la disposición transitoria que antecede, se entenderán referidas al Código Nacional de Procedimientos Penales.
