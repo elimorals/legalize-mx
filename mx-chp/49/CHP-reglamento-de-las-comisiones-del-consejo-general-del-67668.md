@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-de-las-comisiones-del-consejo-general-del-67668"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-02-18"
-last_updated: "2010-04-28"
+last_updated: "2014-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHP"
 ---
 # REGLAMENTO DE LAS COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO DE ELECCIONES Y PARTICIPACION CIUDADANA
 
-REGLAMENTO DE LAS COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO DE ELECCIONES Y PARTICIPACION CIUDADANA
+REGLAMENTO DE LAS COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 18 de febrero de 2009.
 
@@ -377,83 +377,81 @@ l) Llevar el archivo de la Comisión, y
 
 m) Las demás que le confiera el presente Reglamento, otras disposiciones legales aplicables y las que en el ámbito de competencia de la Comisión respectiva, le encomiende el Presidente de la misma.
 
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN POR EL PUNTO TERCERO DEL ACUERDO POR EL QUE SE APRUEBA EL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ## TÍTULO TERCERO. DE LAS SESIONES DE LAS COMISIONES
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL PUNTO TERCERO DEL ACUERDO POR EL QUE SE APRUEBA EL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 ### CAPÍTULO I. DEL TIPO DE SESIONES Y DE LA CONVOCATORIA
 
 ###### Artículo 27.
 
-Las Comisiones podrán celebrar sesiones ordinarias y extraordinarias o declararse en sesión permanente.
+(DEROGADO POR EL PUNTO TERCERO DEL ACUERDO POR EL QUE SE APRUEBA EL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA, P.O. 10 DE DICIEMBRE DE 2014)
 
 ###### Artículo 28.
 
-Las Comisiones sesionarán en forma ordinaria una vez al mes. El Presidente de la Comisión convocará por escrito a sus integrantes con 24 horas de anticipación por lo menos.
-
-El orden del día de las sesiones ordinarias incluirá asuntos generales para que los integrantes de la Comisión puedan plantear y exponer los temas que conforme a las funciones de la misma consideren pertinentes, reservándose su resolución para una próxima sesión.
+(DEROGADO POR EL PUNTO TERCERO DEL ACUERDO POR EL QUE SE APRUEBA EL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA, P.O. 10 DE DICIEMBRE DE 2014)
 
 ###### Artículo 29.
 
-Las sesiones extraordinarias tendrán por objeto tratar asuntos que por su urgencia o importancia para los fines del Instituto, a juicio de su Presidente o de la mayoría de sus integrantes no puedan postergarse para ser desahogados hasta la siguiente sesión ordinaria de la Comisión. Las sesiones extraordinarias serán convocadas por el Presidente de la Comisión o a petición de la mayoría de los consejeros que la integren.
-
-En las sesiones extraordinarias solamente podrán tratarse aquellos asuntos incluidos en el orden del día para los que fueron convocados. La convocatoria será enviada por el Presidente de la Comisión por lo menos con 12 horas de anticipación. En aquellos casos que el presidente de la Comisión considere de suma urgencia o gravedad, se podrá convocar fuera del plazo señalado en este artículo, e incluso no será necesaria la convocatoria escrita cuando se encuentren presentes en el mismo local los integrantes de la Comisión respectiva.
+(DEROGADO POR EL PUNTO TERCERO DEL ACUERDO POR EL QUE SE APRUEBA EL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA, P.O. 10 DE DICIEMBRE DE 2014)
 
 ###### Artículo 30.
 
-Las Comisiones podrán declararse en sesión permanente por mayoría de votos de los Consejeros que las integren, para tratar los asuntos que así lo requieran. La sesión concluirá una vez que se hayan desahogado los asuntos que motivaron la declaración.
+(DEROGADO POR EL PUNTO TERCERO DEL ACUERDO POR EL QUE SE APRUEBA EL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA, P.O. 10 DE DICIEMBRE DE 2014)
 
 ###### Artículo 31.
 
-Las convocatorias a sesiones deberán contener el día, la hora, el lugar en que se realizarán, y la indicación de su carácter ordinario o extraordinario. A ellas se agregarán el proyecto de orden del día que será elaborado por el Presidente de la Comisión, así como los documentos y anexos necesarios para el estudio y discusión de los asuntos a tratar.
-
-El Presidente de la Comisión deberá remitir copia de la convocatoria y de los documentos que se anexen al Consejero Presidente y al Secretario Ejecutivo del Instituto.
+(DEROGADO POR EL PUNTO TERCERO DEL ACUERDO POR EL QUE SE APRUEBA EL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA, P.O. 10 DE DICIEMBRE DE 2014)
 
 ###### Artículo 32.
 
-En el supuesto de que el Presidente de la Comisión no asista a la sesión convocada por él, o se ausente momentánea o definitivamente de la sesión, esta será presidida por el Consejero Electoral que sea designado por el Presidente de la Comisión.
+(DEROGADO POR EL PUNTO TERCERO DEL ACUERDO POR EL QUE SE APRUEBA EL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA, P.O. 10 DE DICIEMBRE DE 2014)
 
 ###### Artículo 33.
 
-Los integrantes de las Comisiones, el Consejero Presidente y el Secretario Ejecutivo, podrán proponer la inclusión de asuntos en el orden del día de una sesión ordinaria, dentro de las 12 horas siguientes a la fecha en que se reciba la convocatoria para la misma.
+(DEROGADO POR EL PUNTO TERCERO DEL ACUERDO POR EL QUE SE APRUEBA EL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA, P.O. 10 DE DICIEMBRE DE 2014)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL PUNTO TERCERO DEL ACUERDO POR EL QUE SE APRUEBA EL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 ### CAPÍTULO II. DEL DESARROLLO DE LAS SESIONES
 
 ###### Artículo 34.
 
-Las Comisiones podrán sesionar sólo cuando estén presentes la mayoría de los Consejeros que las integren.
+(DEROGADO POR EL PUNTO TERCERO DEL ACUERDO POR EL QUE SE APRUEBA EL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA, P.O. 10 DE DICIEMBRE DE 2014)
 
 ###### Artículo 35.
 
-Durante las sesiones de las Comisiones, los Consejeros que las integren tendrán derecho a voz y voto. En su caso, los Directores, Titulares de las Unidades Técnicas y los representantes que en caso asistan a las sesiones, tendrán derecho a voz. Cuando el tratamiento de los asuntos de las Comisiones así lo requiera, podrá solicitarse a través del Secretario Ejecutivo la intervención de algún funcionario del Instituto.
-
-Asimismo, podrá autorizarse la participación de invitados con derecho a voz, previo acuerdo de la Comisión respectiva.
+(DEROGADO POR EL PUNTO TERCERO DEL ACUERDO POR EL QUE SE APRUEBA EL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA, P.O. 10 DE DICIEMBRE DE 2014)
 
 ###### Artículo 36.
 
-Durante la sesión, los asuntos serán discutidos y, en su caso, votados conforme al orden del día. La Comisión podrá posponer la discusión o votación de algún asunto en particular si así lo acuerdan la mayoría de sus integrantes.
-
-A solicitud de algún integrante de la Comisión, la votación de un asunto se podrá dividir en lo general y en lo particular.
+(DEROGADO POR EL PUNTO TERCERO DEL ACUERDO POR EL QUE SE APRUEBA EL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA, P.O. 10 DE DICIEMBRE DE 2014)
 
 ###### Artículo 37.
 
-Para hacer uso de la palabra, los integrantes de la Comisión deberán solicitarlo a su Presidente. Una vez iniciada su intervención, no podrá ser interrumpida excepto por el Presidente de la Comisión.
+(DEROGADO POR EL PUNTO TERCERO DEL ACUERDO POR EL QUE SE APRUEBA EL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA, P.O. 10 DE DICIEMBRE DE 2014)
 
 ###### Artículo 38.
 
-Los acuerdos, informes, dictámenes o proyectos de resolución de la Comisión, se aprobarán por unanimidad o por mayoría de votos de los Consejeros presentes en la sesión. En caso de empate, el Presidente de la Comisión tendrá voto de calidad.
+(DEROGADO POR EL PUNTO TERCERO DEL ACUERDO POR EL QUE SE APRUEBA EL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA, P.O. 10 DE DICIEMBRE DE 2014)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL PUNTO TERCERO DEL ACUERDO POR EL QUE SE APRUEBA EL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 ### CAPÍTULO III. DE LAS ACTAS DE LAS SESIONES
 
 ###### Artículo 39.
 
-De cada sesión de las Comisiones, se elaborará un acta que contendrá la fecha en que se celebró, la lista de asistencia, la declaración de quórum legal, los puntos del orden del día, su desahogo, los acuerdos aprobados y la hora en que concluyó.
+(DEROGADO POR EL PUNTO TERCERO DEL ACUERDO POR EL QUE SE APRUEBA EL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA, P.O. 10 DE DICIEMBRE DE 2014)
 
 ###### Artículo 40.
 
-Dentro de las 48 horas siguientes a la conclusión de cada sesión, los Presidentes de las Comisiones deberán informar al Consejero Presidente y al Secretario Ejecutivo de los acuerdos aprobados por la Comisión respectiva, que por su importancia o urgencia ameriten ser tratados en sesión del Consejo General.
+(DEROGADO POR EL PUNTO TERCERO DEL ACUERDO POR EL QUE SE APRUEBA EL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA, P.O. 10 DE DICIEMBRE DE 2014)
 
 ###### Artículo 41.
 
-De cada sesión se levantará un proyecto de acta que deberá elaborar el Secretario Técnico de la Comisión para ser sometido a la aprobación de la misma en la siguiente sesión, debiendo incluirse en el orden del día y anexar el proyecto correspondiente a la convocatoria respectiva. Una vez aprobada el acta, deberá remitirse inmediatamente a la Secretaría Ejecutiva para dar cuenta de ella al Consejo General.
+(DEROGADO POR EL PUNTO TERCERO DEL ACUERDO POR EL QUE SE APRUEBA EL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA, P.O. 10 DE DICIEMBRE DE 2014)
 
 ## TRANSITORIOS
 
@@ -483,7 +481,7 @@ Que las presentes copias fotostáticas, constantes de cinco fojas útiles, relat
 
 Lo que se hace constar para los efectos legales a que haya lugar, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 13 trece días del mes de febrero del año 2009, dos mil nueve. Doy fe.- Rúbrica.
 
-N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 28 DE ABRIL DE 2010.
 
@@ -496,3 +494,19 @@ TERCERO.- EN TÉRMINOS DE LO DISPUESTO POR LOS ARTÍCULOS 391 Y 395 DEL CÓDIGO 
 CUARTO.- NOTIFÍQUESE ESTE ACUERDO A LA DIRECCIÓN EJECUTIVA DE ORGANIZACIÓN ELECTORAL, A LA UNIDAD TÉCNICA DE INFORMÁTICA Y A LA EMPRESA RESPONSABLE DE IMPLEMENTAR EL PROGRAMA DE RESULTADOS ELECTORALES PRELIMINARES, PARA LOS EFECTOS A QUE HAYA LUGAR EN EL ÁMBITO DE SUS RESPECTIVAS COMPETENCIAS.
 
 QUINTO.- PUBLÍQUESE EN EL PERIÓDICO OFICIAL DEL ESTADO.
+
+P.O. 10 DE DICIEMBRE DE 2014.
+
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL REGLAMENTO.
+
+…
+
+TERCERO.- SE DEROGA EL TÍTULO TERCERO, CAPÍTULOS DEL I AL III, ARTÍCULOS DEL 27 AL 41 DEL REGLAMENTO DE LAS COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA, APROBADO EN SESIÓN DEL CONSEJO GENERAL DE ESTE INSTITUTO EL 12 DE FEBRERO DE 2009 DOS MIL NUEVE.
+
+CUARTO.- EL PRESENTE REGLAMENTO ENTRARÁ EN VIGOR AL DÍA DE SU APROBACIÓN.
+
+QUINTO.- EL SECRETARIO DISPONDRÁ A LA BREVEDAD POSIBLE, LA EDICIÓN DEL NÚMERO DE EJEMPLARES DE ESTE REGLAMENTO QUE ESTIME NECESARIOS PARA SU ADECUADA DIFUSIÓN.
+
+SEXTO.- EN TÉRMINOS DE LO DISPUESTO POR LOS ARTÍCULOS 391 Y 395 DEL CÓDIGO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA, NOTIFÍQUESE EL CONTENIDO DEL PRESENTE ACUERDO A LOS REPRESETANTES (SIC) DE LOS PARTIDOS POLÍTICOS ACREDITADOS ANTE EL CONSEJO GENERAL DE ÉSTE ORGANISMO ELECTORAL.
+
+SÉPTIMO.- PUBLÍQUESE EN EL PERIÓDICO OFICIAL DEL ESTADO.
