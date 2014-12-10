@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-turismo-para-el-estado-de-baja-california-sur-80080"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-20"
-last_updated: "2013-07-20"
+last_updated: "2014-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE TURISMO PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California, el lunes 20 de diciembre de 2010.
 
@@ -153,9 +153,17 @@ c).- Turismo de Aventura: La categoría de turismo alternativo en la que se incl
 
 d).- Rutas Patrimoniales: una ruta de comunicación terrestre, acuática o de otro tipo físicamente determinada y caracterizada por poseer su propia y específica dinámica y funcionalidad histórica, así como por ser el resultado de movimientos interactivos de personas y de intercambios multidimensionales continuos y recíprocos de bienes, ideas, conocimientos y valores dentro de una zona o región a lo largo de considerables periodos y haber generado una fecundación de las culturas en el espacio y tiempo que se manifiesta, tanto de su patrimonio tangible como intangible.
 
-XXIV.- Turismo de Reuniones: Es el segmento de turismo relacionado con los congresos, convenciones, ferias, exposiciones, viajes de incentivo y otros eventos de características similares; y
+> <small>(REFORMADA, B.O. 10 DE DICIEMBRE DE 2014)</small>
 
-XXV.- Turismo Religioso: Es la actividad turística que comprende la visita a espacios como lugares sagrados, santuarios, tumbas; y la asistencia a peregrinaciones y celebraciones religiosas. Esta actividad coadyuva a mostrar la preservación de las manifestaciones culturales de los pueblos originarios a través del tiempo, fortaleciendo así su identidad.
+XXIV.- Turismo de reuniones: Es el segmento de turismo relacionado con los congresos, convenciones, ferias, exposiciones, viajes de incentivo y otros eventos de características similares:
+
+> <small>(REFORMADA, B.O. 10 DE DICIEMBRE DE 2014)</small>
+
+XXV.- Turismo Religioso: Es la actividad turística que comprende la visita a espacios como lugares sagrados, santuarios, tumbas; y la asistencia a peregrinaciones y celebraciones religiosas. Esta actividad coadyuva a mostrar la preservación de las manifestaciones culturales de los pueblos originarios a través del tiempo, fortaleciendo así su identidad; y
+
+> <small>(ADICIONADA, B.O. 10 DE DICIEMBRE DE 2014)</small>
+
+XXVI.- Turismo de deporte motor fuera de camino: La actividad turística relacionada con la práctica de campeonatos, seriales, exposiciones y demostraciones relativas a las carreras con vehículos acondicionados para transitar fuera de camino en ambiente de terreno natural, ya sea en desierto, dunas, trepadores en rocas, arrancones en pista de arena caracterizados por no circular sobre carreteras de concreto o caminos de asfalto.
 
 ## TÍTULO SEGUNDO. DE LA CONCURRENCIA Y COMPETENCIA DE AUTORIDADES
 
@@ -439,9 +447,17 @@ IV.- Turismo de Aventura;
 
 V.- Turismo de Reuniones;
 
-VI.- Turismo Social; y
+> <small>(REFORMADA, B.O. 10 DE DICIEMBRE DE 2014)</small>
 
-VII.- Turismo Religioso.
+VI.- Turismo Social;
+
+> <small>(REFORMADA, B.O. 10 DE DICIEMBRE DE 2014)</small>
+
+VII.- Turismo Religioso, y
+
+> <small>(ADICIONADA, B.O. 10 DE DICIEMBRE DE 2014)</small>
+
+VIII.- Turismo de deporte motor fuera de camino.
 
 ###### Artículo 28.
 
@@ -451,7 +467,9 @@ La Secretaría, coordinará sus acciones con la Secretaría de Desarrollo y Fome
 
 Para los efectos del artículo anterior, la Secretaría gestionará ante las instituciones de educación superior del Estado, los estudios sociales y de mercado necesarios.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO VI
+
+> <small>(ADICIONADO, B.O. 10 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 30.
 
@@ -467,7 +485,7 @@ IV.- La promoción del Estado como destino turístico; y
 
 V.- La innovación tecnológica en la prestación de servicios turísticos.
 
-### CAPÍTULO II. De los Derechos
+### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 31.
 
@@ -481,7 +499,7 @@ Artículo 31 BIS.- La Secretaría, escuchando a los organismos del sector, formu
 
 Artículo 31 TER.- La Secretaría promoverá inversiones que tiendan a incrementar las instalaciones destinadas al turismo social y realizará gestiones ante los prestadores de servicios turísticos, con el objeto de solicitar precios y tarifas preferenciales, así como paquetes que hagan posible el cumplimiento de los objetivos de este capítulo.
 
-### CAPÍTULO III. De las Obligaciones
+### CAPÍTULO II. De los Derechos
 
 ###### Artículo 32.
 
@@ -497,13 +515,19 @@ La Secretaría en coordinación con la Secretaría de Educación Pública, promo
 
 La Secretaría así como los prestadores de servicios turísticos, transmitirán a sus funcionarios y trabajadores, la importancia del turismo, así como las normas, principios y valores que rigen en materia turística.
 
-### CAPÍTULO I. De los Derechos
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 10 DE DICIEMBRE DE 2014)</small>
 
-### CAPÍTULO II. De sus Obligaciones
+### CAPÍTULO III. De las Obligaciones
+
+###### Artículo 34 Bis.
+
+Se reconoce al Turismo de Deporte Motor fuera de camino, como una modalidad del Turismo estatal que sirve de herramienta vinculatoria con el mercado internacional, nacional y regional por razón de la migración de grupos de personas a los eventos de campeonatos de competencias, seriales, exposiciones y demostraciones relacionadas con la industria turística automotriz y tecnológica en la materia.
+
+### CAPÍTULO I. De los Derechos
 
 ## TÍTULO QUINTO. DE LA PRESTACIÓN DE SERVICIOS TURÍSTICOS
 
-### CAPÍTULO III. De la Protección al Turista
+### CAPÍTULO II. De sus Obligaciones
 
 ###### Artículo 35.
 
@@ -535,7 +559,7 @@ VII.- Empresas de sistema de intercambio de servicios turísticos.
 
 La Secretaría vigilará que los servicios turísticos se presten con eficiencia, calidad y oportunidad, en apego a lo dispuesto por esta ley, sin perjuicio de la aplicación de otros ordenamientos federales, estatales y municipales.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO III. De la Protección al Turista
 
 ###### Artículo 39.
 
@@ -563,7 +587,7 @@ X.- Ser incluidos en catálogos, directorios y guías turísticas, de conformida
 
 XI.- Participar en los programas de capacitación turística que promueva o lleve a cabo la Secretaría.
 
-### CAPÍTULO I. De la Competitividad y Profesionalización en la Actividad Turística
+### CAPÍTULO ÚNICO
 
 ###### Artículo 40.
 
@@ -589,7 +613,7 @@ IX.- Cooperar con las autoridades federales, estatales y municipales, en las inv
 
 ## TÍTULO SEXTO. DE LAS Y LOS TURISTAS
 
-### CAPÍTULO II. De la Capacitación Turística
+### CAPÍTULO I. De la Competitividad y Profesionalización en la Actividad Turística
 
 ###### Artículo 41.
 
@@ -609,7 +633,7 @@ VI.- Disfrutar el libre acceso y goce de todo el patrimonio turístico, así com
 
 VII.- Contar con las condiciones de higiene y seguridad de sus personas y bienes en las instalaciones y servicios turísticos, en los términos establecidos en la legislación correspondiente.
 
-### CAPÍTULO III. De la Certificación de las y los Prestadores de Servicios Turísticos
+### CAPÍTULO II. De la Capacitación Turística
 
 ###### Artículo 42.
 
@@ -623,7 +647,7 @@ III.- Acatar las prescripciones particulares de establecimientos mercantiles y e
 
 IV.- Pagar el precio de los servicios utilizados en el momento de la presentación de la factura o del documento que ampare el pago en el plazo pactado.
 
-### CAPÍTULO I. De las Sanciones
+### CAPÍTULO III. De la Certificación de las y los Prestadores de Servicios Turísticos
 
 ###### Artículo 43.
 
@@ -655,7 +679,7 @@ Los prestadores de servicios que de conformidad con las disposiciones jurídicas
 
 ## TÍTULO SÉPTIMO. DEL REGISTRO NACIONAL DE TURISMO
 
-### CAPÍTULO II. Del Recurso de Reconsideración
+### CAPÍTULO I. De las Sanciones
 
 ###### Artículo 48.
 
@@ -670,6 +694,8 @@ Los Ayuntamientos tendrán la obligación de aportar a la. Secretaría, la infor
 La base de datos de las y los prestadores de servicios turísticos del Estado, será remitida por la Secretaría a la Secretaría de Turismo Federal, para integrar el Registro Nacional de Turismo.
 
 ## TÍTULO OCTAVO. DE LA CAPACITACIÓN Y CERTIFICACIÓN DE LAS Y LOS PRESTADORES DE SERVICIOS TURÍSTICOS
+
+### CAPÍTULO II. Del Recurso de Reconsideración
 
 ###### Artículo 51.
 
@@ -806,6 +832,12 @@ B.O. 16 DE NOVIEMBRE DE 2012.
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 B.O. 20 DE JULIO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE DICIEMBRE DE 2014.
 
 ###### ARTÍCULO ÚNICO.
 
