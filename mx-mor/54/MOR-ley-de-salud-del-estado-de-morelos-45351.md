@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-45351"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-29"
-last_updated: "2014-11-05"
+last_updated: "2014-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2014.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 5 DE NOVIEMBRE DE 2014 NO APLICA AL ARTICULADO DEL DECRETO 868 PUBLICADO EN EL P.O. DE 2 DE OCTUBRE DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de junio de 2005.
 
@@ -145,7 +143,9 @@ IV.- Rastros;
 
 V.- Establos y todo establecimiento que congregue a cualquier especie animal para ornato o consumo human, (sic) que potencialmente se conviertan en factor de riego (sic) sanitario;
 
-VI.- Reclusorios o centros de readaptación social;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+VI.- Establecimientos penitenciarios o centros de reinserción social;
 
 VII.- Peluquerías, salones de belleza, estéticas y establecimientos similares;
 
@@ -297,15 +297,21 @@ II.- Contribuir al desarrollo demográfico armónico del Estado;
 
 III.- Colaborar al bienestar social de la población del Estado de Morelos, mediante servicios de asistencia social, principalmente a menores en estado de abandono, adultos mayores desamparados y discapacitados, para fomentar su bienestar y propiciar su incorporación a una vida equilibrada en lo económico y en lo social;
 
-IV.- Dar impulso al desarrollo de la familia y la comunidad, así como la integración social y crecimiento físico y mental de la niñez y la adolescencia;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+IV.- Dar impulso al desarrollo de la familia y la comunidad, así como a las comunidades indígenas, a fin de propiciar el desarrollo de sus potencialidades político-sociales y culturales, con su participación y tomando en cuenta sus valores y organización social; además de la integración social y crecimiento físico y mental de la niñez y la adolescencia;
 
 V.- Apoyar el mejoramiento de las condiciones sanitarias ambientales del Estado, que propicien el desarrollo satisfactorio de la vida;
 
 VI.- Impulsar, en el ámbito Estatal, un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud;
 
-VII.- Fomentar estilos de vida saludables que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección; y
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-VIII.- Definir los mecanismos de coordinación y colaboración en materia de planeación de los servicios de salud en el estado, de conformidad con las aplicaciones de esta Ley y las que al respecto sean aplicables.
+VII.- Promover el conocimiento y desarrollo de la medicina tradicional indígena, su aplicación y práctica en condiciones adecuadas, así como la formación y capacitación de los recursos humanos requeridos;
+
+VIII.- Fomentar estilos de vida saludables que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección; y
+
+IX.- Definir los mecanismos de coordinación y colaboración en materia de planeación de los servicios de salud en el estado, de conformidad con las aplicaciones de esta Ley y las que al respecto sean aplicables.
 
 ###### Artículo 14.
 
@@ -347,17 +353,23 @@ XVII.- Llevar el Registro de Agrupaciones para la Salud; y
 
 XVIII.- Las demás atribuciones, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 15.
 
-La Secretaría de Salud de Morelos promoverá la participación en el Sistema Estatal de Salud, de los prestadores de servicios de salud de los sectores público, social y privado, así como sus trabajadores y de los usuarios de los mismos, en términos de las disposiciones que al efecto se expidan.
+La Secretaría de Salud de Morelos promoverá la participación en el Sistema Estatal de Salud, de los prestadores de servicios de salud de los sectores público, social y privado; de sus trabajadores y de los usuarios de los mismos, así como de las autoridades o representantes de las comunidades indígenas, en términos de las disposiciones que al efecto se expidan.
 
 Asimismo, fomentará la coordinación con los proveedores de insumos para la salud, a fin de racionalizar y procurar la disponibilidad de estos últimos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 16.
 
-La concertación de acciones entre la Secretaría de Salud del Estado de Morelos, y los integrantes de los sectores social y privado, se realizará mediante convenios y contratos, los cuales se ajustarán a las siguientes bases:
+La concertación de acciones entre la Secretaría de Salud del Estado de Morelos, y las autoridades o representantes de las comunidades indígenas, o los integrantes de los sectores social y privado, se realizará mediante convenios y contratos, los cuales se ajustarán a las siguientes bases:
 
-I.- Definición de las responsabilidades que asuman los integrantes de los sectores social y privado;
+> <small>(REFORMADA, 10 DE DICIEMBRE DE 2014)</small>
+
+I.- Definición de las responsabilidades que asuman las partes;
 
 II.- Determinación de las acciones de orientación, estímulo y apoyo que llevará a cabo la Secretaría de Salud de Morelos; y
 
@@ -617,7 +629,9 @@ IX.- La dotación total de un cuadro básico de los servicios de salud, conforme
 
 X.- La promoción del mejoramiento de la nutrición;
 
-XI.- La asistencia social a los grupos más vulnerables;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+XI.- La asistencia social a los grupos más vulnerables, incluyendo a los pertenecientes a comunidades indígenas;
 
 > <small>(ADICIONADA, P.O. 5 DE MARZO DE 2014)</small>
 
@@ -746,6 +760,10 @@ La Secretaría de Salud de Morelos establecerá los procedimientos para regular 
 ###### Artículo 59.
 
 Las autoridades sanitarias del Estado, las instituciones de salud y la Comisión de Arbitraje Médico del Estado establecerán sistemas de orientación y asesoría a los usuarios sobre el uso de los servicios de salud que requieran, así como procedimientos para que presenten sus quejas, reclamaciones y sugerencias respecto a la prestación de los servicios de salud y en relación a la falta de probidad, en su caso, de los servidores públicos.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+En el caso de las poblaciones o comunidades indígenas las autoridades sanitarias brindarán la asesoría y orientación en español y en la lengua o lenguas de uso en la región o comunidad.
 
 ###### Artículo 60.
 
@@ -880,6 +898,10 @@ En el ámbito de los servicios de salud reproductiva, quienes practiquen una est
 > <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
 
 Para disminuir el riesgo reproductivo, la Secretaría de Salud deberá informar a la mujer y al hombre, mediante campañas periódicas, los riesgos que puede haber en los embarazos antes de los veinte años, o en edad avanzada.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+En materia de planificación familiar, las acciones de información y orientación educativa en las comunidades indígenas deberán llevarse a cabo en español y en la lengua o lenguas indígenas en uso en la región o comunidad de que se trate.
 
 ###### Artículo 75.
 
@@ -1217,7 +1239,9 @@ Corresponde a la Secretaría de Salud de Morelos, sin perjuicio de las atribucio
 
 I.- Promover actividades tendientes a la formación, capacitación y actualización de los recursos humanos que se requieran para la satisfacción de las necesidades del Estado en materia de salud;
 
-II.- Apoyar la creación de centros de capacitación y actualización de los recursos humanos para la salud;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+II.- Apoyar la creación de centros de capacitación y actualización de los recursos humanos para la salud, así como para el desarrollo de la medicina tradicional y la prestación de este servicio en las comunidades indígenas;
 
 III.- Otorgar facilidades para la enseñanza y adiestramiento en servicio dentro de los establecimientos de salud, a las instituciones que tengan por objeto la formación, capacitación o actualización de profesionales, técnicos y auxiliares de la salud, de conformidad con las normas que rigen el funcionamiento de los primeros; y
 
@@ -1234,6 +1258,10 @@ II.- El perfil de los profesionales para la salud en sus etapas de formación.
 ###### Artículo 101.
 
 La Secretaría de Salud de Morelos, con la participación de las autoridades federales competentes, impulsará y fomentará la formación, capacitación y actualización de los recursos humanos para los servicios de salud, de conformidad con los objetivos y prioridades de los Sistemas Nacional y Estatal de Salud, de los programas educativos y de las necesidades de salud del Estado.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+Tratándose de las comunidades indígenas, los programas a los que se refiere el párrafo anterior, deberán difundirse en español y en la lengua o lenguas indígenas que correspondan.
 
 ###### Artículo 102.
 
@@ -1341,7 +1369,9 @@ I.- Educación para la salud;
 
 II.- Nutrición;
 
-III.- Control de los efectos nocivos del ambiente en la salud;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+III.- Control de los efectos nocivos del ambiente en la salud, adoptando medidas y promoviendo estrategias de mitigación y de adaptación a los efectos del cambio climático;
 
 IV.- Salud ocupacional; y
 
@@ -1507,17 +1537,25 @@ II.- Vigilar y certificar la calidad del agua para el consumo humano;
 
 III.- Promover y apoyar el saneamiento básico;
 
-IV.- Disponer y verificar que se cuente con información de toxicología actualizada, en la que se establezcan las medidas de respuesta al impacto en la salud originado por el uso de sustancias tóxicas o peligrosas; y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-V.- En general, ejercer actividades similares a las anteriores ante situaciones que causen riesgos o daños a la salud de las personas como brotes epidémicos y desastres.
+IV.- Disponer y verificar que se cuente con información de toxicología actualizada, en la que se establezcan las medidas de respuesta al impacto en la salud originado por el uso de sustancias tóxicas o peligrosas;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+V.- En general, ejercer actividades similares a las anteriores ante situaciones que causen riesgos o daños a la salud de las personas como brotes epidémicos y desastres;
 
 VI.- Vigilar y certificar la calidad del aire, en las ciudades del Estado;
 
 VII.- Vigilar los niveles de contaminación sonora que se produce en las ciudades del Estado.
 
-> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2013)</small>
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-VIII.- Coadyuvar, en términos de la Norma Oficial Mexicana correspondiente, en la debida identificación, separación, envasado, almacenamiento, recolección, transporte, tratamiento y disposición final de los Residuos Peligrosos Biológico-Infecciosos, en términos de la legislación aplicable.
+VIII.- Formular programas para la atención y control de los efectos nocivos del ambiente en la salud que consideren, entre otros, aspectos del cambio climático, y
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+IX.- Coadyuvar, en términos de la Norma Oficial Mexicana correspondiente, en la debida identificación, separación, envasado, almacenamiento, recolección, transporte, tratamiento y disposición final de los Residuos Peligrosos Biológico- Infecciosos, en términos de la legislación aplicable.
 
 ###### Artículo 118.
 
@@ -1561,7 +1599,9 @@ Las Entidades Federales en coordinación con el Ejecutivo Estatal, desarrollará
 
 ## TÍTULO OCTAVO. PREVENCIÓN Y CONTROL DE ENFERMEDADES, ACCIDENTES Y DESASTRES
 
-### CAPÍTULO II. ENFERMEDADES TRANSMISIBLES
+### CAPÍTULO II. ENFERMEDADES E INFECCIONES TRANSMISIBLES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 126.
 
@@ -1573,13 +1613,17 @@ II.- Establecer y operar el Sistema Estatal de Vigilancia Epidemiológica Apoyar
 
 III.- Promoverá la participación de los sectores público y privado del Estado en la aplicación de programas y actividades que establezca la Secretaría de Salud del Gobierno Federal, para la prevención y control de enfermedades, accidentes y desastres.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ### CAPÍTULO III. ENFERMEDADES NO TRANSMISIBLES
 
 ###### Artículo 127.
 
-Las Autoridades Sanitarias del Estado elaborarán programas o campañas temporales o permanentes para el control o erradicación de aquellas enfermedades transmisibles que constituyan un problema real o potencial para la protección de salud general a la población.
+Las Autoridades Sanitarias del Estado elaborarán programas o campañas temporales o permanentes para el control o erradicación de aquellas enfermedades o infecciones transmisibles que constituyan un problema real o potencial para la protección de salud general a la población.
 
-Asimismo realizarán actividades de vigilancia epidemiológica, de prevención y control de las siguientes enfermedades transmisibles:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+Asimismo, realizarán actividades de vigilancia epidemiológica, de prevención y control de las siguientes enfermedades o infecciones transmisibles:
 
 I.- Cólera, fiebre tifoidea, paratifoidea, shigelosis, amibiasis, hepatitis vírales y otras enfermedades del aparato digestivo;
 
@@ -1597,7 +1641,9 @@ VI.- Fiebre amarilla, dengue, y otras enfermedades vírales transmitidas por art
 
 VII.- Paludismo, tifo, fiebre recurrente transmitida por piojo y otras rickettsiosis, leishmaniasis, tripanosomiasis, oncocercosis;
 
-VIII.- Sífilis, infecciones gonocóccicas y otras enfermedades de transmisión sexual;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+VIII.- Sífilis, infecciones gonoccócicas y otras infecciones de transmisión sexual;
 
 IX.- Lepra y mal del pinto;
 
@@ -1677,9 +1723,11 @@ Los trabajadores de salud, del Gobierno del Estado y de los municipios, así com
 
 Quedan facultadas las autoridades sanitarias competentes para utilizar como elementos auxiliares, en la lucha contra las epidemias, todos los recursos médicos y de asistencia social de los sectores público, social y privado existentes en las regiones afectadas y en las colindantes, de acuerdo con las disposiciones de la Ley General de Salud, de esta Ley y los reglamentos aplicables.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 137.
 
-Las autoridades sanitarias del Estado señalarán el tipo de enfermos o portadores de gérmenes que podrán ser excluidos de los sitios de reunión, tales como hoteles, restaurantes, fábricas, talleres, cárceles, oficinas, escuelas, dormitorios, habitaciones colectivas, centros de espectáculos, deportivos etc.
+Las autoridades sanitarias del Estado señalarán el tipo de enfermos o portadores de gérmenes que podrán ser excluidos de los sitios de reunión, tales como hoteles, restaurantes, fábricas, talleres, establecimientos penitenciarios o centros de reinserción social, oficinas, escuelas, dormitorios, habitaciones colectivas, centros de espectáculos o deportivos, entre otros.
 
 ###### Artículo 138.
 
@@ -1813,9 +1861,11 @@ El Sistema Para el Desarrollo Integral de la Familia en Morelos que tendrá entr
 
 Las atribuciones y funciones que correspondan al sistema se regirán por la Ley de Asistencia Social del Estado de Morelos como lo marca el Artículo 11 de esta misma Ley.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 157.
 
-El Gobierno del Estado y los H. Ayuntamientos, promoverán la creación de establecimientos en los que se dé atención a personas con padecimientos discapacitantes, a niños desprotegidos y ancianos desamparados.
+El Gobierno del Estado y los H. Ayuntamientos, promoverán la creación de establecimientos en los que se brinde atención a personas con padecimientos discapacitantes, a menores desprotegidos y personas adultas mayores desamparadas.
 
 ###### Artículo 158.
 
@@ -2511,7 +2561,9 @@ Los vehículos para transportar animales destinados al sacrificio deberán cumpl
 
 El sacrificio de animales en los rastros se efectuará en los días y horas que fije la Autoridad Municipal.
 
-### CAPÍTULO VII. RECLUSORIOS O CENTROS DE READAPTACIÓN SOCIAL
+### CAPÍTULO VII. ESTABLECIMIENTOS PENITENCIARIOS O CENTROS DE REINSERCIÓN SOCIAL
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 250.
 
@@ -2525,25 +2577,33 @@ La Autoridad Municipal, conforme a las disposiciones legales en vigor, delimitar
 
 Las condiciones y requisitos sanitarios que deban reunir los establecimientos a que se refiere este Capítulo, serán fijados en las disposiciones reglamentarias y en las normas correspondientes.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ### CAPÍTULO VIII. PELUQUERÍAS, SALONES DE BELLEZA, ESTÉTICAS Y ESTABLECIMIENTOS SIMILARES
 
 ###### Artículo 253.
 
-Para los efectos de esta Ley, se entiende por reclusorio o centro de readaptación social, el local destinado a la internación de quienes se encuentran restringidos de su libertad por una resolución judicial o administrativa.
+Para los efectos de esta Ley, se entiende por establecimiento penitenciario o centro de reinserción social, el local destinado a la internación de quienes se encuentran restringidos de su libertad por una resolución judicial o administrativa.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 254.
 
-Los reclusorios estarán sujetos al control sanitario de los Servicios de Salud de Morelos, de conformidad con las disposiciones que se señalan en esta Ley y demás disposiciones generales aplicables.
+Los establecimientos penitenciarios estarán sujetos al control sanitario de los Servicios de Salud de Morelos, de conformidad con las disposiciones que se señalan en esta Ley y demás disposiciones generales aplicables.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 255.
 
-Los reclusorios y centros de readaptación social deberán contar, además de lo previsto por las disposiciones legales aplicables y las normas correspondientes, con un departamento de baños de regadera y con un consultorio médico, que cuente con el equipo necesario para la atención de aquellos casos de enfermedad de los internos en que no sea necesario el traslado de éstos a un hospital. Dicho consultorio y el personal técnico y profesional que laboran en el mismo deberán cumplir con las disposiciones legales y normatividad emitidas al respecto; requiriéndose de un responsable médico el cual deberá cumplir con lo establecido en esta Ley y otras disposiciones aplicables.
+Los establecimientos penitenciarios y centros de reinserción social deberán contar, además de lo previsto por las disposiciones legales aplicables y las normas correspondientes, con un departamento de baños de regadera y con un consultorio médico, que cuente con el equipo necesario para la atención de aquellos casos de enfermedad de los internos en que no sea necesario el traslado de éstos a un hospital. Dicho consultorio y el personal técnico y profesional que laboran en el mismo deberán cumplir con las disposiciones legales y normatividad emitidas al respecto; requiriéndose de un responsable médico el cual deberá cumplir con lo establecido en esta Ley y otras disposiciones aplicables.
 
 ###### Artículo 256.
 
 Tratándose de situaciones de emergencia, de enfermedades graves o cuando así lo requiera el tratamiento de un interno, a juicio del personal médico de la institución, previa la autorización del Director de la misma, el interno podrá ser trasladado a la unidad hospitalaria que el propio Director determine, lo que se deberá hacer del conocimiento de las autoridades competentes.
 
-Las personas encargadas de los servicios médicos de los reclusorios y centros de readaptación social que tengan conocimiento de alguna enfermedad transmisible, deberán adoptar las medidas de seguridad sanitaria que procedan para evitar la propagación de la misma, así como hacer la notificación a que se refiere el Artículo 129 y 131 de esta Ley.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+Las personas encargadas de los servicios médicos de los establecimientos penitenciarios y centros de reinserción social que tengan conocimiento de alguna enfermedad transmisible, deberán adoptar las medidas de seguridad sanitaria que procedan para evitar la propagación de la misma, así como hacer la notificación a que se refieren los artículos 129 y 131 de esta Ley.
 
 ### CAPÍTULO IX. PREVENCIÓN Y CONTROL DE LA RABIA EN ANIMALES
 
@@ -2697,7 +2757,9 @@ VI.- Prestar lo (sic) servicios de educación y difusión para la salud, dirigid
 
 VII.- Prestar los servicios de orientación y vigilancia relacionados con el sexo servicio;
 
-VIII.- Implementar las medidas y las actividades tendientes a prevenir y controlar la propagación de las enfermedades transmisibles por contacto sexual;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+VIII.- Implementar las medidas y las actividades tendientes a prevenir y controlar la propagación de las infecciones transmisibles por contacto sexual;
 
 IX.- Elaborar la información estadística relacionada con la actividad e informar a los Servicios de Salud de Morelos;
 
@@ -2773,11 +2835,15 @@ Queda prohibida la actividad de sexo servicio a las personas en los casos siguie
 
 I.- No cuente con la tarjeta y autorización de control sanitario vigentes.
 
-II.- Si padece alguna de las siguientes enfermedades:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+II.- Si padece alguna de las siguientes enfermedades o infecciones:
 
 a) Sífilis
 
-b) Blenorragia y enfermedades de transmisión sexual
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+b) Blenorragia e infecciones de transmisión sexual
 
 c) Herpes
 
@@ -2817,9 +2883,11 @@ Los sujetos deberán realizar sus actividades, con el uso de preservativos y los
 
 Queda prohibido el ejercicio de esta actividad a personas menores de dieciocho años y aquellas que padezcan alguna discapacidad mental.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 296.
 
-Se hará acreedor a una sanción, a los dueños de los establecimientos y a quien ejerza la actividad con pleno conocimiento de padecer alguna enfermedad de transmisión sexual u otra grave en período de transmisibilidad, sin perjuicio de las penas que corresponda cuando sean constitutivas de delitos.
+Se hará acreedor a una sanción, a los dueños de los establecimientos y a quien ejerza la actividad con pleno conocimiento de padecer alguna infección de transmisión sexual u otra grave en período de transmisibilidad, sin perjuicio de las penas que corresponda cuando sean constitutivas de delitos.
 
 ###### Artículo 297.
 
@@ -2853,17 +2921,21 @@ Los establecimientos que se autoricen para la actividad materia de este ordenami
 
 El establecimiento que inicie actividades sin que haya sido autorizado previamente será considerado como clandestino y será sancionado como tal.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 305.
 
-Las personas que hubieren contraído alguna enfermedad de transmisión sexual, deberán acudir a la autoridad sanitaria municipal para corroborar que se ha extinguido dicho padecimiento, comprobado mediante la práctica de estudios de laboratorio y el certificado médico que así lo acredite, hasta entonces podrá reincorporarse a sus actividades.
+Las personas que hubieren contraído alguna infección de transmisión sexual, deberán acudir a la autoridad sanitaria municipal para corroborar que se ha extinguido dicho padecimiento, comprobado mediante la práctica de estudios de laboratorio y el certificado médico que así lo acredite, hasta entonces podrá reincorporarse a sus actividades.
 
 ###### Artículo 306.
 
 En los casos de separación temporal de los sexo servidores, no podrán reingresar a ejercer la actividad si no se someten a los requisitos médicos establecidos.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 307.
 
-No podrán separarse definitivamente del control sanitario establecido sin que sean atendidos los sexo servidores, que al momento de solicitarlo, tuvieren manifestaciones de alguna enfermedad de transmisión sexual u otra, o se presuma que existe peligro de contagio. En este caso la Autoridad Municipal Sanitaria procederá a ejercer la vigilancia correspondiente del enfermo hasta su total restablecimiento.
+No podrán separarse definitivamente del control sanitario establecido sin que sean atendidos los sexo servidores, que al momento de solicitarlo, tuvieren manifestaciones de alguna infección de transmisión sexual u otra, o se presuma que existe peligro de contagio. En este caso la Autoridad Municipal Sanitaria procederá a ejercer la vigilancia correspondiente del enfermo hasta su total restablecimiento.
 
 ###### Artículo 308.
 
@@ -3199,6 +3271,10 @@ La autoridad del Registro Civil sólo admitirá como válidos los certificados q
 
 Corresponde a los Servicios de Salud de Morelos y a los Ayuntamientos, en el ámbito de sus respectivas competencias, la vigilancia del cumplimiento de este Título y demás disposiciones reglamentarias que se dicten con base en ella.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+La participación de las autoridades de las comunidades indígenas estará determinada por los convenios que celebren con el Gobierno del Estado y por lo que disponga esta ley y la demás legislación que resulte aplicable.
+
 ###### Artículo 356.
 
 Las demás dependencias o Entidades públicas en el Estado, coadyuvarán a la vigilancia del cumplimiento de las normas sanitarias y cuando encontraren irregularidades, que a su juicio constituyan violaciones a las mismas, lo harán del conocimiento de las autoridades sanitarias competentes.
@@ -3293,9 +3369,11 @@ En el caso de productos recogidos en procedimiento de muestreo o verificación, 
 
 Se consideran medidas de seguridad, las disposiciones que dicten los Servicios de Salud de Morelos y los H. Ayuntamientos, en el ámbito de su competencia, de conformidad con los preceptos de esta Ley y demás disposiciones aplicables, para proteger la salud de la población. Las medidas de seguridad se aplicarán sin perjuicio de las sanciones que en su caso correspondan.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 368.
 
-La participación de los Municipios estará determinada por los convenios que celebren con el Gobierno del Estado y por lo que dispongan las Leyes y reglamentos aplicables.
+La participación de los Municipios y de las autoridades de las comunidades indígenas estará determinada por los convenios que celebren con el Gobierno del Estado y por lo que dispongan las Leyes y reglamentos aplicables.
 
 ###### Artículo 369.
 
@@ -3423,17 +3501,21 @@ IV.- La calidad del reincidente del infractor; y
 
 V.- El beneficio obtenido por el infractor como resultado de la infracción.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 384.
 
-Se sancionará con multa hasta 1,000 veces el salario mínimo general diario vigente en el área geográfica que corresponda la violación de las disposiciones contenidas en los Artículos 43, 60, 61, 92, 107, 130, 131, 132, 144, 170, 195, 217, 226, 298, 342, 353, 354 de esta Ley y el 103 de la Ley General de Salud.
+Se sancionará con multa de hasta 1,000 veces el Salario Mínimo General diario vigente en Morelos la violación de las disposiciones contenidas en los artículos 43, 60, 61, 92, 107, 130, 131, 132, 144, 170, 195, 217, 226, 298, 342, 353 y 354 de esta Ley.
 
 ###### Artículo 385.
 
 Se sancionará con multa de 1,000 hasta 4,000 mil veces el salario mínimo general diario vigente en el área geográfica que corresponda, la violación de las disposiciones contenidas en los Artículos 119, 134, 140, 189, 233, 240, 241, 296, 340, 343, y 378 de esta Ley.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 386.
 
-Se sancionará con multa de 4,000 hasta 10,000 veces el salario mínimo general diario vigente en el área geográfica que corresponda, la violación de las disposiciones contenidas en los artículos 74, 121, 181, 182, 199, 361 y 376 de esta Ley y los artículos 100 y 101 de la Ley General de Salud.
+Se sancionará con multa de 4,000 hasta 10,000 veces el Salario Mínimo General diario vigente en Morelos la violación de las disposiciones contenidas en los artículos 74, 121, 181, 182, 199, 361 y 376 de esta Ley.
 
 ###### Artículo 387.
 
@@ -3890,3 +3972,71 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 10 DE DICIEMBRE DE 2014.
+
+DECRETO NO. 1818 POR EL QUE SE REFORMAN LOS ARTÍCULOS 384 Y 386 DE LA LEY DE SALUD DEL ESTADO DE MORELOS.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
+
+SEGUNDO.- Remítase el presente Decreto al titular del Poder Ejecutivo para los efectos constitucionales procedentes.
+
+P.O. 10 DE DICIEMBRE DE 2014.
+
+DECRETO NO. 1820 POR EL QUE SE REFORMAN LA FRACCIÓN VI, DEL APARTADO B, DEL ARTÍCULO 3; LOS ARTÍCULOS 137, LA DENOMINACIÓN DE SU CAPÍTULO VII; 253, 254; 255; Y EL SEGUNDO PÁRRAFO DEL ARTICULO 256 DE LA LEY DE SALUD DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 10 DE DICIEMBRE DE 2014.
+
+DECRETO NO. 1821 POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 109 Y SE REFORMAN LAS FRACCIONES IV Y V, ASÍ COMO SE ADICIONA UNA FRACCIÓN PARA SER LA VIII, RECORRIÉNDOSE EN SU ORDEN LA ACTUAL FRACCIÓN VIII PARA SER IX, EN EL ARTÍCULO 117, AMBOS DE LA LEY DE SALUD DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 10 DE DICIEMBRE DE 2014.
+
+DECRETO NO. 1822 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE SALUD DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 10 DE DICIEMBRE DE 2014.
+
+DECRETO NO. 1824 POR EL QUE SE REFORMAN LA DENOMINACIÓN DEL CAPÍTULO II, DEL TÍTULO OCTAVO, EL ARTÍCULO 127, EN SU PRIMER Y SEGUNDO PÁRRAFO, ASÍ COMO EN SU FRACCIÓN VIII; EL ARTÍCULO 283 EN SU FRACCIÓN VIII; EL ARTÍCULO 291, EN SU FRACCIÓN II E INCISO B); Y LOS ARTÍCULOS 296, 305 Y 307, TODOS DE LA LEY DE SALUD DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 10 DE DICIEMBRE DE 2014.
+
+DECRETO NO. 1826 POR EL QUE SE REFORMA EL ARTÍCULO 157, DE LA LEY DE SALUD DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
