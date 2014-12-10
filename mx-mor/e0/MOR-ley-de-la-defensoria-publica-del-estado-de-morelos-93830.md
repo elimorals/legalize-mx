@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-la-defensoria-publica-del-estado-de-morelos-93830"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-03"
-last_updated: "2014-11-12"
+last_updated: "2014-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 3 de abril de 2013.
 
@@ -479,9 +479,15 @@ III. Ser licenciado en derecho, con título y cédula profesional legalmente exp
 
 IV. No haber sido condenado por delito intencional;
 
-V. Aprobar los exámenes de oposición, de ingreso y permanencia que establezca el Reglamento de esta Ley, y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-VI. Los demás requisitos que para el efecto se establezcan en otras disposiciones jurídicas aplicables.
+V. Aprobar los exámenes de oposición, de ingreso y permanencia que establezca el Reglamento de esta Ley;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+VI. Contar con la certificación o capacitación correspondiente en materia penal de corte acusatorio a fin garantizar una defensa técnica adecuada al imputado, procesado o sentenciado, y
+
+VII. Los demás requisitos que para el efecto se establezcan en otras disposiciones jurídicas aplicables.
 
 ###### Artículo 34.
 
@@ -569,17 +575,25 @@ XIV. Guardar el secreto profesional en el desempeño de sus funciones, y
 
 XV. Las demás que les señalen la presente Ley, las que le sean aplicables a la Institución y las disposiciones de los órganos de Gobierno.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 38.
 
 Los Defensores Públicos no podrán recibir o cobrar por ningún motivo honorarios, ni reclamar cantidad alguna por ningún concepto de cualquier persona que defiendan o patrocinen. Asimismo les queda prohibido:
 
 I. El libre ejercicio de la profesión de abogado en cualquier materia, excepto cuando lo hagan por causa propia, de su cónyuge o su concubino y parientes hasta el cuarto grado, por consanguinidad, afinidad o en su caso, civil;
 
-II. Actuar como apoderados judiciales, tutores, curadores o albaceas, a menos que sean herederos o legatarios, ni tampoco podrán ser depositarios judiciales, síndicos, administradores, interventores en quiebra o concurso, ni corredores, comisionistas o árbitros;
+II. Actuar como apoderados judiciales, tutores, curadores o albaceas, a menos que sean herederos o legatarios; ni tampoco podrán ser depositarios judiciales, síndicos, administradores, interventores en quiebra o concurso, ni corredores, comisionistas o árbitros;
 
-III. Asistir a un imputado, procesado o sentenciado, cuando éste tenga defensor particular, y
+III. Asistir a un imputado, procesado o sentenciado, cuando éste tenga defensor particular;
 
-IV. El desempeño de las demás actividades que fueren semejantes a sus funciones o incompatibles con éstas.
+IV. Excusarse de su cargo conferido durante las audiencias ni una vez notificada de ellas;
+
+V. Ausentarse de las audiencias sin causa justificada, y
+
+VI. El desempeño de las demás actividades que fueren semejantes a sus funciones o incompatibles con éstas.
+
+Lo anterior sin detrimento de las sanciones previstas en el Código Nacional de Procedimientos Penales.
 
 #### SECCIÓN CUARTA. DE LAS RESPONSABILIDADES
 
@@ -605,9 +619,15 @@ VIII. Auxiliarse en el desempeño de sus funciones por personas no autorizadas e
 
 IX. Abandonar las funciones, comisión o servicio que tengan encomendado, sin causa justificada;
 
-X. Omitir someterse a los procesos de evaluación en los términos de la presente Ley y demás disposiciones jurídicas aplicables, y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-XI. Las demás que establezcan otras disposiciones jurídicas aplicables.
+X. Omitir someterse a los procesos de evaluación en los términos de la presente Ley y demás disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+XI. Cuando un Juez o Magistrado dé vista a su superior jerárquico por advertir una manifiesta y sistemática incapacidad técnica en él y sea substituido en sus funciones, y
+
+XII. Las demás que establezcan otras disposiciones jurídicas aplicables.
 
 #### SECCIÓN QUINTA. DE LAS EXCUSAS E IMPEDIMENTOS
 
@@ -886,3 +906,11 @@ P.O. 12 DE NOVIEMBRE DE 2014.
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 10 DE DICIEMBRE DE 2014.
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. Una vez emitida la Declaratoria de entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de Morelos, que emita el Congreso del Estado, quedarán abrogados el Código de Procedimientos Penales en el Estado Libre y Soberano de Morelos, publicado en el Periódico Oficial número 1180, segunda sección de fecha treinta y uno de marzo de mil novecientos cuarenta y seis, el Código de Procedimientos Penales para el Estado de Morelos, publicado en el Periódico Oficial número 3820 tercera sección el día nueve de octubre de mil novecientos noventa y seis y el Código de Procedimientos Penales del Estado de Morelos, aprobado el día trece de noviembre del dos mil siete y publicado en el Periódico Oficial del Gobierno del Estado de Morelos "Tierra y Libertad", número 4570 de fecha veintidós de noviembre del dos mil siete, así mismo, se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+TERCERA. En su caso, las menciones que en otros ordenamientos permanezcan y se hagan de los Códigos de Procedimientos Penales que se abrogan por virtud de la disposición transitoria que antecede, se entenderán referidas al Código Nacional de Procedimientos Penales.
