@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-proteccion-civil-del-estado-de-michoacan-de-ocampo-10378
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-25"
-last_updated: "2014-11-25"
+last_updated: "2014-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103785&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Octava Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el martes 25 de noviembre de 2014.
 
@@ -175,7 +175,9 @@ I. Asegurar el correcto funcionamiento del Sistema Estatal, y dictar los lineami
 
 II. Promover la incorporación de la Gestión Integral de Riesgos, en el marco del desarrollo estatal y municipal, estableciendo estrategias y políticas basadas en el análisis de riesgos, con el fin de evitar que se originen en el futuro, así como realizar acciones de intervención y respuesta, para reducir o eliminar los ya existentes;
 
-III. Contemplar en el Proyecto de Presupuesto de Egresos del Estado, de cada ejercicio fiscal, los recursos financieros necesarios para la operación y óptimo funcionamiento; y en su caso, adquisición o contratación de los Instrumentos Financieros de Gestión de Riesgos y los destinados a la Administración y Transferencia de Riesgos; con el fin de apoyar acciones de orden preventivo, de auxilio y recuperación de la población en casos de desastre;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+III. Contemplar en el Proyecto de Presupuesto de Egresos del Estado, de cada ejercicio fiscal, los recursos financieros necesarios para la operación y óptimo funcionamiento del fondo estatal de protección civil y desastres naturales; y en su caso, adquisición o contratación de los Instrumentos Financieros de Gestión de Riesgos y los destinados a la Administración y Transferencia de Riesgos; con el fin de apoyar acciones de orden preventivo, de auxilio y recuperación de la población en casos de desastre;
 
 IV. Solicitar al Ejecutivo Federal, la emisión de las Declaratorias de Emergencia o de Desastre Natural para el Estado o sus municipios, en los términos establecidos en esta Ley, y en la demás normatividad aplicable;
 
@@ -349,9 +351,17 @@ X. Requerir y supervisar la expedición del Atlas Estatal de Riesgos y los corre
 
 XI. Promover el desarrollo y la consolidación de una cultura estatal y municipal de Protección Civil, en apego a los principios del Sistema Nacional;
 
-XII. Crear comisiones o grupos de trabajo, que permitan complementar y apoyar en la íntegra consecución de las políticas y acuerdos alcanzados en el seno del Consejo Estatal; y,
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-XIII. Las demás que deriven de esta Ley, y las previstas en otras disposiciones jurídicas aplicables.
+XII. Crear comisiones o grupos de trabajo, que permitan complementar y apoyar en la íntegra consecución de las políticas y acuerdos alcanzados en el seno del Consejo Estatal;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+XIII. Aprobar anualmente el monto de los recursos económicos que ejercerá el Fondo Estatal de Protección Civil y Desastres Naturales a efecto de que se integren en el proyecto de presupuestos de egresos del Gobierno del Estado de Michoacán; y,
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+XIV. Las demás que deriven de esta Ley, y las previstas en otras disposiciones jurídicas aplicables.
 
 ###### Artículo 28.
 
@@ -913,7 +923,7 @@ Las Declaratorias de Emergencia o de Desastre Natural, deberán ser solicitadas 
 
 Los Ayuntamientos del Estado podrán solicitar la emisión de una Declaratoria de Emergencia o Desastre, para tal efecto, deberán remitir al Ejecutivo Estatal, toda aquella información requerida para su validación y procedencia. En caso de acreditar los requisitos fijados en el ordenamiento respectivo, el Estado gestionará la Declaratoria ante la Federación.
 
-### CAPÍTULO XVI. FONDO ESTATAL DE PROTECCIÓN CIVIL
+### CAPÍTULO XVII (SIC). FONDO ESTATAL DE PROTECCIÓN CIVIL Y DESASTRES NATURALES
 
 ###### Artículo 86.
 
@@ -951,23 +961,37 @@ Para los efectos del artículo anterior, las dependencias, instituciones, funcio
 
 Ante estos organismos fiscalizadores, se habrán de turnar y dar seguimiento a las quejas y denuncias presentadas sobre cualquier irregularidad o corrupción en el manejo de estos recursos, de acuerdo a su respectivo ámbito de competencia; con independencia de lo que corresponda conocer y resolver a las autoridades competentes en materia penal.
 
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REFORMADO], P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ### CAPÍTULO XVII. DONACIONES PARA AUXILIAR A LA POBLACIÓN MICHOACANA
 
 ###### Artículo 93.
 
 El Estado, a través de la Secretaría de Gobierno, y con acuerdo del Consejo Estatal, se encargará de crear y administrar un Fondo Estatal de Protección Civil, cuya finalidad será la de promover la prevención, la capacitación, el equipamiento, la capacidad de respuesta, la sistematización institucional y la Gestión Integral de Riesgos, que tengan a cargo las Coordinaciones y otros organismos públicos de Protección Civil que operen en la Entidad y en sus Municipios.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 93 Bis.
+
+El Estado, a través de la Secretaría de Gobierno y con acuerdo del Consejo Estatal, se encargará de crear y administrar el Fondo Estatal de Desastres Naturales, el cual tendrá como finalidad atender dentro de una determinada zona geográfica, la reparación de daños a la infraestructura pública y bienes públicos estatales y municipales no sujetos a aseguramiento, apoyar a toda la población afectada dentro de la zona siniestrada en sus necesidades inmediatas de protección a la vida, salud, alimentación, vestido y albergue; apoyar a las familias de bajos ingresos en la mitigación de los daños a su patrimonio productivo y su vivienda de conformidad con los planes de protección civil y las reglas de operación que para tal efecto se expidan.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 94.
 
-El Fondo Estatal de Protección Civil, se integrará con los recursos destinados por el Estado, y en su caso, por los Municipios, mismos que estarán contemplados en el Presupuesto de Egresos del Estado; además, con los subsidios otorgados por el Gobierno Federal, conforme a los recursos que sean aprobados para este propósito en el Presupuesto de Egresos de la Federación.
+El Fondo Estatal de Protección Civil, y Desastres Naturales se integrará con los recursos destinados por el Estado, que estarán contemplados en el Presupuesto de Egresos del Estado, y en su caso, los que se hubieren convenido con los ayuntamientos; además, con los subsidios otorgados por el Gobierno Federal, conforme a los recursos que sean aprobados para este propósito en el Presupuesto de Egresos de la Federación.
 
-El Fondo Estatal, habrá de utilizarse para complementar el presupuesto de gasto anual que se genere en los Municipios, dentro de los rubros señalados en el artículo anterior; pero únicamente aquellos que cuenten con su estructura de Protección Civil legalmente constituida, podrán acceder a dichos recursos.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+El Fondo Estatal, habrá de utilizarse para complementar el presupuesto de gasto anual que se genere en los Municipios, dentro de los rubros señalados en el artículo anterior.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 95.
 
-El Fondo Estatal de Protección Civil, será operado, ejercido, administrado y fiscalizado según lo establezca el Reglamento de esta Ley y la normatividad administrativa y fiscal aplicable. En el caso de recursos federales, se observarán los términos dispuestos en los convenios de coordinación celebrados para tal efecto; debiendo precisar los requisitos para el acceso, ejercicio y comprobación del gasto de los recursos, así como las obligaciones en el manejo, distribución y mantenimiento de equipos e infraestructura adquiridos.
+El Fondo Estatal de Protección Civil, y Desastres Naturales será operado, ejercido, administrado y fiscalizado según lo establezca el Reglamento de esta Ley y la normatividad administrativa y fiscal aplicable. En el caso de recursos federales, se observarán los términos dispuestos en los convenios de coordinación celebrados para tal efecto; debiendo precisar los requisitos para el acceso, ejercicio y comprobación del gasto de los recursos, así como las obligaciones en el manejo, distribución y mantenimiento de equipos e infraestructura adquiridos.
 
-En cualquier caso, las relaciones institucionales entre el Estado y los Municipios, definidas por la naturaleza, organización y destino de los recursos económicos que integren el Fondo Estatal de Protección Civil, serán regidas, además de esta Ley y su Reglamento, por lo previsto en la Ley de Coordinación Fiscal del Estado de Michoacán y demás ordenamientos fiscales aplicables.
+En cualquier caso, las relaciones institucionales entre el Estado y los Municipios, definidas por la naturaleza, organización y destino de los recursos económicos que integren el Fondo Estatal de Protección Civil, y Desastres Naturales serán regidas, además de esta Ley y su Reglamento, por lo previsto en la Ley de Coordinación Fiscal del Estado de Michoacán y demás ordenamientos fiscales aplicables.
 
 ### CAPÍTULO XVIII. SISTEMA DE INSPECCIÓN ESTATAL Y MUNICIPAL
 
@@ -1202,3 +1226,11 @@ ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECT
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la Residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a 25 veinticinco días del mes de noviembre del año 2014 dos mil catorce.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- DR. SALVADOR JARA GUERRERO.- EL SECRETARIO DE GOBIERNO.- MTRO. JAIME DARÍO OSEGUERA MÉNDEZ.- (Firmados).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE DICIEMBRE DE 2014.
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo para los efectos legales conducentes.
