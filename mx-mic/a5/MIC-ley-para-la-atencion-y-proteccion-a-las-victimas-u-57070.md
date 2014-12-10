@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-atencion-y-proteccion-a-las-victimas-u-57070"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-26"
-last_updated: "2007-09-26"
+last_updated: "2014-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY PARA LA ATENCION Y PROTECCION A LAS VICTIMAS U OFENDIDOS DEL DELITO DEL ESTADO DE MICHOACAN DE OCAMPO
 
-LEY PARA LA ATENCION Y PROTECCION A LAS VICTIMAS U OFENDIDOS DEL DELITO DEL ESTADO DE MICHOACAN DE OCAMPO
+LEY PARA LA ATENCIÓN Y PROTECCIÓN A LAS VÍCTIMAS U OFENDIDOS DEL DELITO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el miércoles 26 de septiembre de 2007.
 
@@ -205,7 +205,7 @@ Para efectos de la presente Ley se considera víctima del delito a:
 
 I. Quienes individual o colectivamente han sufrido daño físico o mental, sufrimiento emocional, desintegración social, familiar, afectación sobre su patrimonio o menoscabo substancial de sus derechos fundamentales, como consecuencia de un delito;
 
-II. Los familiares o personas que tengan relación inmediata con la víctima directa (sic), que mantengan dependencia económica de ésta o que resulten afectados en los aspectos señalados en la fracción anterior, como consecuencia de un delito; y,
+II. Los familiares o personas que tengan relación inmediata con la víctima directa, que mantengan dependencia económica de ésta o que resulten afectados en los aspectos señalados en la fracción anterior, como consecuencia de un delito; y,
 
 III. Las personas que hayan sufrido daños al intervenir para asistir a la víctima en peligro o para prevenir la victimización.
 
@@ -390,3 +390,23 @@ PRESIDENTE.- DIP. SALVADOR ORTIZ GARCÍA.- PRIMERA SECRETARIA.- DIP. MINERVA BAU
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 31 treinta y un días del mes de agosto del año 2007 dos mil siete.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- LA SECRETARIA DE GOBIERNO.- MARÍA GUADALUPE SÁNCHEZ MARTÍNEZ. (Firmados).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE DICIEMBRE DE 2014.
+
+Primero. El presente Decreto entrará en vigor en la misma fecha que señale la Declaratoria que al efecto expida el Congreso para la entrada en vigor del Código Nacional de Procedimientos Penales.
+
+Segundo. El Gobierno del Estado, sus dependencias y entidades deberán expedir la reglamentación para su exacta observancia, así como proveer los recursos materiales, económicos y humanos para la atención de víctimas a partir del de ejercicio fiscal 2015.
+
+Tercero. El Gobierno del Estado y los ayuntamientos deberán emitir la reglamentación que resulte necesaria para dar cumplimiento a las obligaciones que sean de su competencia, que se deriven de la presente ley en un plazo no mayor a ciento ochenta días naturales a partir de la entrada en vigor de la presente Ley.
+
+Cuarto. La Comisión Ejecutiva Estatal deberá elegirse dentro de los sesenta días naturales posteriores a la entrada en vigor de la presente Ley.
+
+Quinto. La Comisión Ejecutiva Estatal se instalará por primera vez con la designación de tres comisionados. El primero durará en su encargo dos años, el segundo, tres años y el tercero, cuatro años.
+
+Sexto. El Congreso del Estado de Michoacán de Ocampo deberá hacer las previsiones presupuestales necesarias para la operación de la presente Ley y la Secretaría de Finanzas y Administración establecerá una unidad programática presupuestal especifica en el Presupuesto de Egresos del Estado, para el ejercicio fiscal 2015.
+
+Séptimo. El Gobierno del Estado coadyuvará a crear el Fideicomiso para el Fondo de atención a víctimas ante una institución bancaria, con los fondos provenientes de lo señalado por el artículo 56 de esta Ley, y comenzara su operación con el ejercicio fiscal 2015.
+
+Octavo. Los registros de víctimas existentes al momento de la entrada en vigor de la presente Ley que se encuentren en cualquier institución o entidad del ámbito estatal, así como de la Comisión Estatal de Derechos Humanos, en aquellos casos en donde se hayan dictado recomendaciones, medidas precautorias o bien se hayan celebrado acuerdos de conciliación, serán integrados al registro que el presente ordenamiento prevé.
