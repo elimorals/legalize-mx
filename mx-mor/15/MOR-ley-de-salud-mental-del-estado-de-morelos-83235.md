@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-mental-del-estado-de-morelos-83235"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-12"
-last_updated: "2014-03-26"
+last_updated: "2014-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83235&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE SALUD MENTAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos el miércoles 12 de octubre de 2011.
 
@@ -57,7 +57,7 @@ En la iniciativa en estudio, el Diputado Esteban Gaona Jiménez, propone regular
 
 III.- CONSIDERANDOS.
 
-Por lo anteriormente expuesto, esta Soberanía ha tenido a bien expedir la siguiente: .
+Por lo anteriormente expuesto, esta Soberanía ha tenido a bien expedir la siguiente:
 
 LEY DE SALUD MENTAL DEL ESTADO DE MORELOS
 
@@ -285,7 +285,7 @@ XV.- A que se trate confidencialmente la información que le concierne;
 
 XVI.- Al acceso a su historial clínico. Se entiende que este derecho comprende no solo a personas internadas en una institución de salud mental, sino también a personas que han sido evaluadas o internadas en el pasado;
 
-XVII.- A presentar quejas conforme a los procedimientos establecidos en la normatividad vigente; y (sic)
+XVII.- A presentar quejas conforme a los procedimientos establecidos en la normatividad vigente; y
 
 XVIII.- A un recurso efectivo ante los tribunales competentes, que las ampare contra actos que violen los derechos fundamentales reconocidos por la Constitución federal, las leyes que de ella emanen, la constitución local y las leyes del estado y el derecho internacional;
 
@@ -667,7 +667,9 @@ IV.- Brindar asesoría y proporcionar información al Consejo, organismos centra
 
 V.- Elaborar y difundir encuestas, estudios, investigaciones, informes y demás trabajos que sobre salud mental se realicen;
 
-VI.- Mantener la confidencialidad y protección de los datos e información de los derechos de las personas con algún trastorno mental, atendiendo en todo momento lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado de Morelos y demás legislación aplicable, y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+VI.- Mantener la confidencialidad y protección de los datos e información de los derechos de las personas con algún trastorno mental, atendiendo en todo momento lo establecido en la Ley de Información Pública, Estadistica y Protección de Datos Personales del Estado de Morelos y demás legislación aplicable, y
 
 VII.- Las demás que le confiera la presente Ley y el Reglamento.
 
@@ -735,11 +737,13 @@ b).- En Segundo Lugar.- Lo será el propio fideicomitente, o sea, el Gobierno de
 
 El patrimonio del Fideicomiso se constituirá con las aportaciones que autorice el Congreso Local, a través del Presupuesto de Egresos del Gobierno del Estado de Morelos, para el ejercicio fiscal que corresponda, así como con los recursos que obtenga tanto de instituciones públicas como privadas.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 66.
 
-El fideicomiso contará con un Comité Técnico en cuya integración estará incluido el Secretario de Finanzas y Planeación, quien lo presidirá, el Secretario de Salud, el Secretario de la Contraloría y los demás miembros que se establezcan en el contrato de fideicomiso que al efecto se celebre.
+El fideicomiso contará con un Comité Técnico en cuya integración estará incluida la persona titular de la Secretaría (sic) Hacienda, quien lo presidirá, la persona titular de la Secretaría de Salud, la persona titular de la Secretaría de la Contraloría y los demás miembros que se establezcan en el contrato de fideicomiso que al efecto se celebre.
 
-Las facultades del Comité Técnico se determinarán de manera específica en el instrumento legal a que se refiere el párrafo anterior, y estarán circunscritas al cumplimiento de los objetivos a que se refiere el artículo 76 de la presente Ley.
+Las facultades del Comité Técnico, se determinarán de manera especifica en el instrumento legal a que se refiere el párrafo anterior, y estarán circunscritas al cumplimiento de los objetivos a que se refiere el artículo 63 de la presente Ley.
 
 ## TÍTULO VII. DE LAS SANCIONES Y EL RECURSO DE INCONFORMIDAD
 
@@ -840,3 +844,13 @@ TERCERA. Todas las referencias hechas en el marco normativa (sic) estatal, respe
 CUARTA. Las Secretarías de Gobierno, de Administración, de Hacienda y de la Contraloría del Poder Ejecutivo Estatal, deberán tomar las medidas administrativas necesarias para que los recursos humanos, presupuestarios y materiales asignados a la Secretaría de Seguridad Pública en el Presupuesto de Egresos para el Ejercicio Fiscal comprendido del primero de enero al treinta y uno de diciembre de 2014, se reasignen a la primera para la operación y funcionamiento de la Comisión Estatal de Seguridad Pública y el Órgano Desconcentrado denominado Secretariado Ejecutivo de (sic) Sistema Estatal Seguridad (sic) Pública.
 
 QUINTA. Con la finalidad de dar cumplimiento a lo dispuesto por los artículos Décimo Transitorio y 132, ambos del Código Nacional de Procedimientos Penales, el Secretario de Gobierno del Estado de Morelos, deberá de ejecutar todas y cada una de las acciones tendientes a la capacitación, adiestramiento y profesionalización de los elementos que integran la fuerza pública Estatal, debiendo de garantizar en dichas acciones los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los Derechos Humanos reconocidos en la Constitución Política de los Estado Unidos Mexicanos.
+
+P.O. 10 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
