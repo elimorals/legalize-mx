@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-del-gobierno-interior-del-ayuntamiento-del-50126"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-03-17"
-last_updated: "2014-10-30"
+last_updated: "2014-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO DEL GOBIERNO INTERIOR DEL AYUNTAMIENTO DEL MUNICIPIO DE BENITO JUÁREZ, QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 17 de marzo de 2006.
 
@@ -915,7 +915,9 @@ El Ayuntamiento establecerá, cuando menos, las siguientes Comisiones Ordinarias
 
 I. De Atención a la Niñez y Personas en situación de vulnerabilidad
 
-II. De Desarrollo Social y Participación Ciudadana;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+II. Comisión de Desarrollo Social y Organización Comunitaria;
 
 III. De Desarrollo Urbano y Transporte;
 
@@ -971,9 +973,11 @@ V. Estudiar la conveniencia de la celebración de convenios con la Federación, 
 
 VI. Proponer, analizar, estudiar y dictaminar las iniciativas tendientes a la promoción del desarrollo de las personas con capacidades diferentes y su participación en la sociedad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 109.
 
-Corresponde a la Comisión de Desarrollo Social y Participación Ciudadana:
+Corresponde a la Comisión de Desarrollo Social y Organización Comunitaria:
 
 I. Proponer, analizar, estudiar y dictaminar las iniciativas en materia de Desarrollo Social y Participación Ciudadana;
 
@@ -1798,3 +1802,11 @@ P.O. 30 DE OCTUBRE DE 2014.
 > <small>N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
 
 CUARTO.- El presente acuerdo entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+P.O. 10 DE DICIEMBRE DE 2014.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE LOS PUNTOS DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
+
+TERCERO.- Las reformas reglamentarias objeto de los puntos que anteceden, entraran en vigor a partir al día siguiente de su publicación en el periódico oficial del gobierno del Estado de Quintana Roo.
+
+CUARTO.- Para los efectos legales conducentes publíquense las reformas reglamentarias objeto de los puntos que anteceden, en la Gaceta Oficial del Municipio de Benito Juárez, Quintana Roo.
