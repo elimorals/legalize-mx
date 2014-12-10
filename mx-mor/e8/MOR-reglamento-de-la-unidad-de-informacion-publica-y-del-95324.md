@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-unidad-de-informacion-publica-y-del-95324"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-08-07"
-last_updated: "2013-08-07"
+last_updated: "2014-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO DE LA UNIDAD DE INFORMACIÓN PÚBLICA Y DEL CONSEJO DE INFORMACIÓN CLASIFICADA DEL CONSEJO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 7 de agosto de 2013.
 
@@ -121,15 +121,19 @@ El CIC, tiene por objeto resolver sobre la información que le sea turnada para 
 
 El CIC tomara sus decisiones por mayoría de votos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 11.
 
-De acuerdo a lo establecido en el artículo 75 de la Ley, el Consejo de Información Clasificada del Consejo de Ciencia y Tecnología del Estado de Morelos, se integra de la siguiente manera:
+De acuerdo a lo establecido en el artículo 75, de la Ley, el Consejo de Información Clasificada del Consejo de Ciencia y Tecnología del Estado de Morelos, se integra de la siguiente manera:
 
 a). El Director General del CCyTEM como Presidente del CIC, quien podrá emitir el voto de calidad en caso de empate en la votación; asimismo, le corresponde convocar a sesión a todos los integrantes del CIC para el caso de resolver sobre la clasificación de la información;
 
 b). El Director de Administración y Finanzas del CCyTEM como Secretario Técnico del Consejo, quien se encargará de agendar y organizar lo necesario para llevar a cabo las reuniones del mismo, así como recibir y registrar la documentación enviada por el titular de la Unidad de Información Pública para consideración del CIC, la cual formará parte del orden del día para su resolución correspondiente;
 
-c). El Director de Sistemas de Información del CCyTEM como Coordinador del Consejo, quien elaborará el orden del día de las reuniones del CIC, con los asuntos que para el caso le notifique el Secretario Técnico, así como redactar el acta o minuta del desarrollo de la misma;
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+c). El Subdirector de Sistemas de Información del CCyTEM como Coordinador del Consejo, quien elaborará el orden del día de las reuniones del CIC, con los asuntos que para el caso le notifique el Secretario Técnico, así como redactar el acta o minuta del desarrollo de la misma;
 
 d). El titular de la UDIP del CCyTEM y;
 
@@ -205,11 +209,11 @@ Cuando alguna de las Unidades Administrativas Internas envíe a la UDIP informac
 
 La persona titular de la UDIP se encargará de dar curso a las solicitudes de información pública que le presenten los particulares, y los auxiliarán en la elaboración de sus solicitudes y, en su caso, los orientará sobre la dependencia, entidad u otro órgano que pudiera tener la información que solicitan.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 26.
 
-En lo que al sistema lnfomex-Morelos se refiere, la persona titular de la UDIP, a través de la Dirección de Sistemas de Información del CCyTEM, deberá revisarlo diariamente, a efecto de canalizar de manera oportuna las solicitudes de información pública a la Unidad Administrativa Interna que le concierna dar la respuesta en los términos establecidos por la Ley, a efecto de que la persona titular de la UDIP, esté en condiciones de dar debida contestación a la solicitud de información pública, por el medio que haya elegido el solicitante.
-
-Para el caso de que alguna persona quiera ingresar una solicitud de información pública por escrito a cualquiera de las Unidades Administrativas Internas, la persona titular de cada una de ellas, orientará a la persona para indicarle la ubicación de la oficina de la UDIP; o bien, podrá recibir la solicitud de información pública con la responsabilidad de remitirla de manera inmediata a la persona titular de la UDIP para su atención y contestación oportuna.
+En lo que al sistema lnfomex-Morelos se refiere, la persona titular de la UDIP, a través de la Subdirección de Sistemas de Información del CCyTEM, deberá revisarlo diariamente, a efecto de canalizar de manera oportuna las solicitudes de información pública a la Unidad Administrativa Interna que le concierna dar la respuesta en los términos establecidos por la Ley, a efecto de que la persona titular de la UDIP, esté en condiciones de dar debida contestación a la solicitud de información pública, por el medio que haya elegido el solicitante.
 
 ###### Artículo 27.
 
@@ -288,3 +292,19 @@ LIC. MYRYAM BALBUENA BAZALDÚA
 CONTRALORA INTERNA DEL ORGANISMO
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor a partir del día siguiente publicación en (sic) Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Reglamento a la Secretaría de Gobierno de Estado, para su publicación correspondiente en el Periódico Oficial “Tierra y Libertad”.
+
+###### ARTÍCULO TERCERO.
+
+En caso de existir solicitud de información o procedimiento antes de la publicación del presente Reglamento, se atenderá de conformidad con lo establecido en la Ley de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos, el Reglamento de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos y Lineamientos y Criterios para el cumplimiento de las obligaciones de transparencia.
