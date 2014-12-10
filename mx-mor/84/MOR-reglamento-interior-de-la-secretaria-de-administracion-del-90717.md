@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-administracion-del-9071
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-01-02"
-last_updated: "2013-05-29"
+last_updated: "2014-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE ADMINISTRACIÓN DEL PODER EJECUTIVO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 2 de enero de 2013.
 
@@ -69,6 +69,8 @@ X. Jardín de Niños: Al Jardín de Niños del Poder Ejecutivo del Estado de Mor
 
 ### CAPÍTULO II. DE LA COMPETENCIA Y ORGANIZACIÓN
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 3.
 
 Para el despacho de los asuntos de su competencia la Secretaría, contará con los servidores públicos y Direcciones Generales, que en seguida se mencionan:
@@ -81,7 +83,7 @@ III. Secretaría Técnica del Titular de la Secretaría;
 
 IV. Dirección General de Recursos Humanos;
 
-V. (DEROGADA, P.O. 29 DE MAYO DE 2013)
+V. Unidad de Procesos para la Adjudicación de Contratos;
 
 VI. Dirección General de Patrimonio;
 
@@ -95,7 +97,9 @@ X. Dirección General de Soporte de Tecnologías de la Información y Comunicaci
 
 XI. Dirección General de Coordinación y Desarrollo Administrativo.
 
-La Unidad de Asesoría Jurídica y la Secretaría Técnica del Titular de la Secretaría estarán adscritas directamente a la Oficina del Secretario de Administración, y contarán con nivel de Dirección General; por lo cual le resultan aplicables, en lo conducente, las atribuciones genéricas de las Direcciones Generales previstas en el artículo 9 del presente Reglamento, así como las disposiciones relativas a las ausencias temporales y a la figura del encargado de despacho previstas por los artículos 23, 24 y 25 de este Reglamento.
+La Unidad de Asesoría Jurídica, la Unidad de Procesos para la Adjudicación de Contratos y la Secretaría Técnica del Titular de la Secretaría, contarán con nivel de Dirección General; por lo cual le resultan aplicables, en lo conducente, las atribuciones genéricas de las personas titulares de las Direcciones Generales previstas en el artículo 9 del presente Reglamento, así como las disposiciones relativas a las ausencias temporales y a la figura del encargado de despacho previstas por los artículos 23, 24 y 25 de este Reglamento.
+
+La Unidad de Asesoría Jurídica y la Secretaría Técnica del Titular de la Secretaría, estarán adscritas directamente a la Oficina del Secretario de Administración.
 
 Las Direcciones Generales señaladas en las fracciones anteriores estarán integradas por las personas titulares respectivas, quienes se auxiliarán del personal necesario para el desempeño de sus funciones, mismos que estarán definidos en el Manual de Organización de la Secretaría y considerados en el Presupuesto de Egresos del Gobierno del Estado, así como por aquél personal que por necesidades de la Secretaría se requiera, para el adecuado cumplimiento de las atribuciones establecidas.
 
@@ -119,7 +123,9 @@ I. Normar la política de administración de recursos humanos, adquisiciones, en
 
 II. Dirigir y controlar la administración de los recursos humanos de la Administración Pública Central, así como conducir las relaciones con los representantes de los trabajadores;
 
-III. Dirigir y controlar la adquisición de bienes y servicios, así como las enajenaciones y arrendamientos de la Administración Pública, proveyéndola de lo necesario, para su adecuado funcionamiento, de conformidad con el marco normativo aplicable y las disposiciones administrativas que dicte la persona titular del Poder Ejecutivo; sin perjuicio de las facultades encomendadas a las Unidades prevista en el artículo 5 de la Ley Orgánica;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+III. Dirigir y controlar la adquisición de bienes y servicios, así como las enajenaciones y arrendamientos de la Administración Pública, proveyéndola de lo necesario, para su adecuado funcionamiento, de conformidad con el marco normativo aplicable y las disposiciones administrativas que dicte la persona titular del Poder Ejecutivo;
 
 IV. Vigilar la administración de los almacenes generales de la Administración Pública Central, y determinar los criterios y políticas a seguir para que las Secretarías y Dependencias, mantengan actualizados los inventarios correspondientes;
 
@@ -361,9 +367,41 @@ XXV. Las demás que le confieran las disposiciones jurídicas aplicables o le de
 
 En relación con las atribuciones antes mencionadas y tratándose de los organismos auxiliares, se les brindará la asesoría necesaria y en su caso, se emitirán las opiniones correspondientes, cuando así lo soliciten.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 13.
 
-(DEROGADO, P.O. 29 DE MAYO DE 2013)
+A la persona titular de la Unidad de Procesos para la Adjudicación de Contratos le corresponden las siguientes atribuciones específicas:
+
+I. Fungir como única convocante en términos de la normativa aplicable en materia de adquisiciones, enajenaciones, arrendamientos y prestación de servicios, en los procedimientos administrativos de licitación pública y de subasta pública, con excepción de aquellos que se reserven a los Organismos Auxiliares por disposición expresa de la normatividad de los programas federales;
+
+II. Llevar a cabo de forma exclusiva los procedimientos administrativos de invitación a cuando menos tres personas o de adjudicación directa en términos de la normativa aplicable en materia de adquisiciones, enajenaciones, arrendamientos y prestación de servicios, con excepción de aquellos que se reserven a los Organismos Auxiliares por disposición expresa de la normativa de los programas federales;
+
+III. Asesorar a las Secretarías, Dependencias y Organismos Auxiliares, en los procedimientos administrativos para la adjudicación de contratos, a fin de que se cumplan con las disposiciones legales aplicables;
+
+IV. Solicitar información a las Secretarías, Dependencias y Organismos Auxiliares con fines de transparencia y optimización de los recursos, de los procesos administrativos para la enajenación de bienes y adjudicación de contratos en materia de adquisiciones, enajenaciones, arrendamientos y prestación de servicios, y supervisar que los mismos se apeguen a las normas jurídicas aplicables;
+
+V. Recibir y verificar los dictámenes que realicen las Secretarías, Dependencias y Organismos Auxiliares requirentes, respecto de las propuestas presentadas en los procesos administrativos para adjudicación de contratos, a fin de que se apegue a las normas jurídicas aplicables, la convocatoria y las bases respectivas;
+
+VI. Analizar los requerimientos que presenten las Secretarías, Dependencias y Organismos Auxiliares en materia de adquisiciones, enajenaciones, arrendamientos y prestación de servicios, verificando que cumplan con los requisitos exigidos por las disposiciones jurídicas aplicables;
+
+VII. Elaborar e integrar el Plan Anual de Adquisiciones, así como llevar a cabo un análisis y seguimiento estadístico del mismo a fin de identificar oportunidades de consolidación de adquisiciones;
+
+VIII. Formalizar y suscribir los contratos derivados de los procedimientos de adjudicación de contratos que lleve a cabo, asegurándose que los mismos se apeguen a las normas jurídicas aplicables;
+
+IX. Elaborar y proponer a la persona titular de la Secretaría, los Proyectos de Lineamientos administrativos en materia de adquisiciones, para ser sometidos a su vez a las autoridades competentes;
+
+X. Revisar que dentro de los procedimientos para la adjudicación de contratos, los participantes cumplan con el marco normativo y los principios que rigen las adquisiciones, enajenaciones, contratación de servicios, arrendamientos y servicios relacionados con las mismas;
+
+XI. Participar en los comités y subcomités en materia de adquisiciones, enajenaciones, arrendamientos y prestación de servicios, ejerciendo las facultades que le correspondan;
+
+XII. Elaborar y someter a la persona titular de la Secretaría, los proyectos de modificación a las disposiciones legales y administrativas en materia de adquisiciones, servicios y arrendamientos;
+
+XIII. Supervisar la actualización del Padrón de Proveedores del Gobierno del Estado, en términos de la normativa aplicables, y
+
+XIV. Las demás que le confieran las disposiciones jurídicas aplicables o le delegue la persona titular de la Secretaría;
+
+En relación con las atribuciones antes mencionadas y tratándose de los Organismos Auxiliares, se les brindará la asesoría necesaria y, en su caso, se emitirán las opiniones correspondientes, cuando así lo soliciten.
 
 ###### Artículo 14.
 
@@ -638,3 +676,19 @@ PRIMERA. El presente Decreto entrará en vigencia al día siguiente de su public
 SEGUNDA. Se instruye a las personas titulares de la Secretaria de Administración y la Secretaría Ejecutiva de la Gubernatura, a través de la Unidad de Procesos para la Adjudicación de Contratos del Poder Ejecutivo, para que dentro del plazo de treinta días contados a partir de la publicación del presente Decreto, se realicen todas las acciones necesarias a fin de que los recursos humanos, materiales y presupuestales asignados a la Secretaría de Administración, destinados a la Dirección General de Adquisiciones, se transfieran y se reasignen a la Unidad de Procesos para la Adjudicación de Contratos del Poder Ejecutivo, mediante las formalidades y procedimientos administrativos necesarios.
 
 TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2014.
+
+PRIMERA. El presente Decreto entrará en vigor a los cinco días hábiles siguientes a su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se abroga el Acuerdo por el que se crea la Unidad de Procesos para la Adjudicación de Contratos del Poder Ejecutivo del Estado de Morelos, así como el Reglamento Interior de la Unidad de Procesos para la Adjudicación de Contratos del Poder Ejecutivo del Estado de Morelos, ambos publicados en el Periódico Oficial “Tierra y Libertad”, el primero el día 02 de enero de 2013 en el ejemplar número 5054, y el segundo, el día diez de abril de 2013, en el ejemplar número 5083, respectivamente; y se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
+
+TERCERA. En un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, deberán adecuarse los Manuales de Organización, Políticas y Procedimientos y demás instrumentos administrativos aplicables a la Secretaría de Administración del Poder Ejecutivo Estatal, a efecto de armonizarlos con el contenido del presente instrumento.
+
+CUARTA. La Secretaría Ejecutiva de la Gubernatura, las Secretarías de Administración, de Hacienda y de la Contraloría, todas del Poder Ejecutivo Estatal, deberán tomar las medidas necesarias para que dentro de un plazo no mayor a treinta días hábiles, contados a partir de la publicación del presente Decreto, se realicen todas las acciones necesarias a fin de que los recursos humanos, materiales y presupuestales asignados a la Secretaría Ejecutiva de la Gubernatura, destinados a la Unidad de Procesos para la Adjudicación de Contratos del Poder Ejecutivo del Estado de Morelos, se transfieran y se reasignen a la Secretaría de Administración del Poder Ejecutivo Estatal, mediante las formalidades y procedimientos administrativos necesarios.
+
+QUINTA. La Unidad de Procesos para la Adjudicación de Contratos, deberá concluir los asuntos iniciados bajo las disposiciones jurídicas que se abrogan o derogan, conforme a las disposiciones jurídicas y administrativas aplicables y el Reglamento Interior de la Secretaría de Administración, sin que ello afecte la validez y procedencia de sus actos.
+
+SEXTA. De conformidad con lo dispuesto en los artículos 21, fracción XXX, de la Ley Orgánica de la Administración Pública del Estado de Morelos; y en los artículos 6, fracción XXXV, y 24, fracción I, del Reglamento Interior de la Secretaría de Gobierno; la Secretaría de Administración del Poder Ejecutivo Estatal, dentro del plazo de cinco días hábiles a que hace referencia la Disposición Primera Transitoria para la entrada en vigor del presente Instrumento, debe informar a la diversa Secretaría de Gobierno, la creación y denominación de la Unidad Administrativa de aquella, en virtud de este Decreto, así como registrar conforme a los formatos que expida la Dirección General Jurídica de la Secretaría de Gobierno, la firma autógrafa del funcionario y servidor público titular de la misma y los sellos correspondientes, para los efectos legales y administrativos a que haya lugar.
+
+SÉPTIMA. Dentro del plazo a que se refiere la Disposición Transitoria que antecede, la Secretaría de Administración del Poder Ejecutivo Estatal deberá realizar los trámites correspondientes para la identificación y asignación de plazas, así como para la expedición del nombramiento respectivo por parte de la Autoridad competente.
