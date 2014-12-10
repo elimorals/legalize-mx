@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-apodaca-4137
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-06"
-last_updated: "2014-06-18"
+last_updated: "2014-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "NLE"
 
 REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE APODACA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 6 de octubre de 2004.
 
@@ -1952,31 +1952,59 @@ El conductor será solidariamente responsable, junto con el propietario del veh�
 
 Las sanciones por faltas o violaciones al presente Reglamento, consistirán en:
 
-I. SUSPENSION DE LA LICENCIA DE CONDUCIR.- Se podrá suspender la licencia de conducir hasta por tres meses y en caso de reincidencia dentro de los siguientes seis meses se suspenderá hasta 18 meses, en los siguientes casos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+I. SUSPENSION DE LA LICENCIA DE CONDUCIR. Se podrá suspender la licencia de conducir hasta por tres meses y en caso de reincidencia dentro del lapso de un año se suspenderá hasta 12 meses, en los siguientes casos:
 
 A) Por abandonar injustificadamente el lugar de un accidente.
 
-B) Por manejar en estado de ebriedad, o en estado de ineptitud para conducir, bajo el influjo de drogas o sustancias tóxicas, en este caso, además de la sanción económica a que se haga acreedor.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-En este caso, la autoridad de tránsito al tener conocimiento de la comisión de infracciones por manejar en estado de ebriedad o de ineptitud para conducir, retendrá provisionalmente la licencia al conductor infractor y notificará de inmediato esta situación a la Secretaría de Finanzas y Tesorería General del Estado, enviándole la documentación en la que consten las infracciones cometidas.
+B) Por conducir un vehículo automotor en estado de ebriedad o de ineptitud para conducir, así como cuando sus facultades físicas o mentales se encuentren alteradas bajo el influjo de drogas, estupefacientes o medicamentos que afecten la capacidad de manejo.
 
-La Secretaría de Finanzas y Tesorería General del Estado dentro de los siguientes cinco días hábiles notificará a su vez al titular de la licencia, a fin de que, dentro de un plazo de quince días hábiles manifieste lo que a su derecho convenga.
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-Vencido el término para su defensa, la Secretaría de Finanzas y Tesorería General del Estado resolverá en definitiva y notificará dentro de los cinco días hábiles siguientes al titular de la licencia (y a la Autoridad de Tránsito respectiva).
+C) Utilizando a la vez, teléfonos celulares o cualquier tipo de aparato de comunicación y/o electrónico que distraiga la atención del conductor, a menos que estos cuenten con el sistema de manos libres, exceptuando a los vehículos oficiales de emergencia.
 
-La Autoridad de Tránsito retendrá la licencia de conducir al infractor, por el término que dure el procedimiento descrito anteriormente, (debiendo devolverla al titular en caso de resolución favorable a éste, o retenerla la (sic) por el término que dicte la Secretaría de Finanzas y Tesorería General del Estado, según sea el caso o hasta que se cumplan (sic) la sanción).
+I. Por conducir en alguna de las referidas condiciones, multa de 50 a 200 cuotas, tratamiento para los conductores en estado de ebriedad, suspensión de la vigencia de la licencia hasta por tres meses y arresto administrativo de ocho a doce horas.
 
-Para efectos de la reincidencia, la Secretaría de Finanzas y Tesorería General del Estado, elaborará un registro de conductores infractores, el cual deberá contener los datos del conductor, las infracciones cometidas y fechas de las mismas.
+II. Por conducir en alguna de las referidas condiciones; y cometer cualquier infracción administrativa, una multa de 100 a 300 cuotas, tratamiento para los conductores en estado de estado (sic) de ebriedad, suspensión de la vigencia de la licencia hasta por seis meses y arresto administrativo de doce a veinticuatro horas.
 
-Tratándose de menores de edad éstos no podrán tramitar una nueva licencia hasta la obtención de su mayoría de edad.
+III. Por conducir en alguna de las referidas condiciones, por más de dos veces en un lapso de un año, procederá multa de 200 a 600 cuotas, tratamiento para los conductores en estado de estado (sic) de ebriedad, suspensión de la vigencia de la licencia hasta por doce meses y arresto administrativo de veinticuatro a treinta y seis horas.
 
-C) Por orden judicial.
+IV. Por no acreditar haber acudido al menos al 90% de las sesiones de tratamiento decretadas, multa de 100 a 200 cuotas y suspensión de la licencia de conducir hasta por 18 meses.
 
-D) Por huir cuando después de cometer una infracción no se respeta la indicación de un Oficial de Tránsito para detenerse.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-E) Jugar carreras de vehículos sin las autorizaciones correspondientes.
+En todos los casos de infracciones con motivo de conducción en estado de ebriedad que afecten la capacidad de manejo, el infractor se deberá comprometer a asistir a tratamiento o cursos de rehabilitación y acreditar su cumplimiento ante la autoridad competente. De no efectuar el compromiso o no acreditarlo, se le suspenderá la vigencia de la licencia para conducir hasta por 18 meses.
 
-F) Transportar personas en los vehículos fuera de los lugares permitidos, de acuerdo con el Artículo 40 Fracción IV, del presente Reglamento.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+Tratándose de menores no emancipados que hayan cometido infracciones con motivo de conducción de vehículos en alguna de las condiciones señaladas en el Artículo 40 Fracción I y XXX, se les cancelara la licencia para conducir o estarán inhabilitados para obtenerla hasta por 12 meses, y en su caso el tratamiento o curso se acordará con quienes ejerzan la patria potestad o custodia, quienes deberán acompañar al infractor a dicho tratamiento o curso.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+La Secretaría de Seguridad Pública y Vialidad a través de la Dirección de Transito dentro de los siguientes diez días hábiles, contados a partir de la fecha de infracción, notificara al titular de la licencia a fin de que dentro del plazo de quince días hábiles manifieste lo a que (sic) su derecho convenga, presente las pruebas y genere alegatos de su intención.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+Vencido el termino para su defensa, La Secretaría de Seguridad Pública y Vialidad a través de la Dirección de Transito, resolverá en definitiva y lo notificara dentro de los quince días hábiles siguientes al titular de la licencia.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+Posteriormente, La Secretaria de Seguridad Pública y Vialidad a través de la Dirección de Transito notificara a la autoridad estatal competente en materia de expedición de licencias, sobre la resolución definitiva y en su caso le remitirá la licencia retenida, a fin de que esta efectué las anotaciones correspondientes en la Base de Datos donde se registren dichas sanciones, así como su cumplimiento, lo cual deberá tomarse en cuenta para determinar la reincidencia.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+Dicha autoridad municipal podrá reactivar la licencia de conducir si el infractor demuestra haber cumplido la sanción, o en su caso, solicite y realice 30 horas de servicio en la comunidad por cada mes que se le haya decretado la suspensión de la licencia de conducir.
+
+D) Por orden judicial.
+
+E) Por huir cuando después de cometer una infracción no se respeta la indicación de un Oficial de Tránsito para detenerse.
+
+F) Jugar carreras de vehículos sin las autorizaciones correspondientes.
+
+G) Transportar personas en los vehículos fuera de los lugares permitidos, de acuerdo con el Artículo 40 Fracción IV, del presente Reglamento.
 
 II. CANCELACIÓN DE LA LICENCIA DE CONDUCIR.- Se cancelará la licencia de conducir en los casos siguientes:
 
@@ -1984,7 +2012,7 @@ A) Por abandonar injustificadamente el lugar de un accidente en más de una ocas
 
 B) Por resultar responsable de más de dos accidentes graves en un período de un año.
 
-C) Al conducir bajo el influjo de drogas o sustancias tóxicas, en tres ocasiones en un período de seis meses.
+C) (DEROGADO, P.O. 10 DE DICIEMBRE DE 2014)
 
 D) Por orden judicial.
 
@@ -1992,7 +2020,7 @@ E) Al comprobarse a los conductores de vehículos de servicio público de pasaje
 
 F) Cuando se compruebe que la licencia fue obtenida dando falsa información.
 
-G) Agredir físicamente a un Oficial de Tránsito en el cumplimiento de su función.
+(SIC) Agredir físicamente a un Oficial de Tránsito en el cumplimiento de su función.
 
 Decretada la suspensión o cancelación de una licencia de conducir, se comunicará lo conducente a la Secretaría de Finanzas y Tesorería General del Estado para que proceda según sea el caso.
 
@@ -2700,11 +2728,51 @@ medicina que altere
 
 facultades 40 I 10 a 15
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 122 Manejar bajo el influjo
 
 de drogas o sustancias
 
-tóxicas 40 I 20 a 30
+tóxicas 40 I 50 a 200
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+Por conducir en la
+
+referida condición del
+
+numeral 122 y
+
+cometer cualquier
+
+infracción
+
+administrativa. 40 I 100 a 300
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+Por conducir en la
+
+referida condición del
+
+numeral 122 , por mas
+
+de dos veces en un
+
+lapso de un año. 40 I 200 a 600
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+Por no acreditar
+
+haber acudido al menos
+
+al 90% de las sesiones
+
+de tratamiento
+
+decretadas 136 I B 136
 
 123 Manejar con licencia
 
@@ -2720,13 +2788,91 @@ IV y V
 
 vencida 28 3 a 7
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 125 Manejar en estado de
 
-ebriedad 40 I 30 a 200
+ebriedad 40 I 50 a 200
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+Por conducir en la
+
+referida condición
+
+del numeral 125 y
+
+cometer cualquier
+
+infracción
+
+administrativa. 40 I 100 a 300
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+Por conducir en la
+
+referida condición
+
+del numeral 125, por
+
+mas de dos veces en
+
+un lapso de un año. 40 I 200 a 600
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+Por no acreditar
+
+haber acudido al
+
+90% de las sesiones
+
+de tratamiento
+
+decretadas 136 I B 100 a 200
 
 126 Manejar en estado de
 
-Ineptitud para conducir 40 I 30 a 200
+Ineptitud para conducir 40 I 50 a 200
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+Por conducir en la
+
+referida condición
+
+del numeral 126 y
+
+cometer cualquier
+
+infracción
+
+administrativa. 40 I 100 a 300
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+Por conducir en la
+
+referida condición
+
+del numeral 126, por
+
+más de dos veces en
+
+un lapso de un año. 40 I 200 a 600
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+Por no acreditar
+
+haber acudido al menos
+
+al 90% de las sesiones
+
+de tratamiento
+
+decretadas 136 I B 100 a 200
 
 127 Poseer, en el área de
 
@@ -3268,15 +3414,15 @@ flujo de vehículos o
 
 peatones 54 VI 10 a 30
 
-> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 222 Conducir un vehículo
 
 utilizando a la vez,
 
-teléfonos celulares
+teléfonos celulares o
 
-o cualquier tipo de aparato
+cualquier tipo de aparato
 
 de comunicación y/o
 
@@ -3284,15 +3430,41 @@ electrónico que distraiga
 
 la atención del conductor,
 
-a menos que estos
+a menos que estos cuenten
 
-cuenten con el sistema
+con el sistema de manos
 
-de manos libres,
+libres, exceptuando a los
 
-exceptuando a los vehículos
+vehículos oficiales de
 
-oficiales de emergencia 40 XXX 30 a 200
+emergencia. 40 XXX 50 a 200
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+Por conducir en la
+
+referida condición
+
+del numeral 222 y
+
+cometer cualquier
+
+infracción
+
+administrativa. 40 XXX 100 a 300
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+Por conducir en la
+
+referida condición
+
+del numeral 222, por
+
+más de dos veces en
+
+un lapso de un año. 40 XXX 200 a 600
 
 ###### ARTÍCULO 137.
 
@@ -3451,3 +3623,13 @@ P.O. 4 DE JULIO DE 2011
 P.O. 18 DE JUNIO DE 2014.
 
 SEGUNDO.- Que se giren instrucciones para su publicación en el Periódico Oficial del Estado, para iniciar su vigencia a los 30 días natuales siguientes a su publicación.
+
+P.O. 10 DE DICIEMBRE DE 2014.
+
+> <small>N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+
+PRIMERO.- Que se apruebe la reforma por modificación al artículo 136 Fracción I, Inciso B; la derogación del Inciso C de la Fracción II del Artículo 136 y la adición de dos supuestos a la línea Número 122, 126 y 222 del tabulador de infracciones del REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE APODACA NUEVO LEÓN.
+
+SEGUNDO.- Que se apruebe la iniciativa de reforma del REGLAMENTO DE TRANSITO Y VIALIDAD, después de cumplir con la Consulta Pública por el término de 5-cinco días hábiles.
+
+TERCERO.- Que se giren instrucciones para que se publique en el Periódico Oficial del Estado, para iniciar su vigencia quedando sin efecto las disposiciones anteriores y que se opongan al mismo.
