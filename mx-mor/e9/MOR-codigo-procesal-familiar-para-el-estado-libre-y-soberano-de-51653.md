@@ -4,7 +4,7 @@ identifier: "MOR-codigo-procesal-familiar-para-el-estado-libre-y-soberano-de-516
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2014-11-12"
+last_updated: "2014-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -929,7 +929,7 @@ COMPETENCIA POR RAZÓN DE TERRITORIO. Es órgano judicial competente por razón 
 
 I.- El Juzgado de la circunscripción territorial en que el actor o el demandado tengan su domicilio a elección del promovente, salvo que la ley ordena otra cosa. Si el demandado no tuviere domicilio fijo dentro del Estado, o fuere desconocido, será competente para conocer del proceso el órgano donde esté ubicado el domicilio del actor, salvo el derecho del demandado para impugnar la competencia;
 
-II. Para los asuntos referentes al matrimonio o al divorcio, lo será el del domicilio conyugal. Excepto en el caso de divorcio, si se alegare abandono o separación de hecho, será competente el órgano judicial que elija el promovente de entre su domicilio y el de el demandado;
+II. Para los asuntos referentes al matrimonio o al divorcio, lo será el del domicilio conyugal. Excepto en el caso de divorcio, si se alegare abandono o separación de hecho, será competente el órgano judicial que elija el promovente de entre su domicilio y el de el (sic) demandado;
 
 III. En los negocios relativos a la tutela, el Tribunal de la residencia de los tutores, salvo para su designación en el que lo será el del domicilio del menor o del incapaz;
 
@@ -1319,7 +1319,9 @@ II. (DEROGADA, P.O. 15 DE AGOSTO DE 2007)
 
 III. (DEROGADA, P.O. 15 DE AGOSTO DE 2007)
 
-IV. El arresto hasta por quince días, después de haberse aplicado la medida a que se refiere en la fracción I, y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+IV. El arresto hasta por treinta y seis horas, después de haberse aplicado la medida a que se refiere en la fracción I; y
 
 V. La rotura de cerraduras.
 
@@ -3677,7 +3679,7 @@ REGISTRO DE LA SENTENCIA EJECUTORIADA. Ejecutoriada la sentencia de divorcio, el
 
 ###### ARTÍCULO 442.
 
-IMPUGNACIÓN DE LAS SENTENCIAS. La sentencia de fondo es apelable en el efecto suspensivo pero podrá ejecutarse en lo que se refiera a pensión alimentaría.
+IMPUGNACIÓN DE LAS SENTENCIAS. La sentencia de fondo es apelable en el efecto suspensivo pero podrá ejecutarse en lo que se refiera a pensión alimentaría (sic).
 
 ### CAPÍTULO IV. DE LOS JUICIOS SOBRE PATERNIDAD, FILIACIÓN Y PATRIA POTESTAD
 
@@ -4235,7 +4237,7 @@ PROHIBICIÓN A LOS CÓNYUGES RECONCILIADOS DE PROMOVER UN NUEVO DIVORCIO. Los c�
 
 ###### ARTÍCULO 500.
 
-APELACIÓN DE LA SENTENCIA QUE DECRETA EL DIVORCIO. La sentencia de fondo es apelable en el efecto devolutivo, pero no podrá ejecutarse hasta que la apelación se decida, excepto en lo que se refiera a pensión alimentaría. La que lo niegue es apelable en el efecto suspensivo.
+APELACIÓN DE LA SENTENCIA QUE DECRETA EL DIVORCIO. La sentencia de fondo es apelable en el efecto devolutivo, pero no podrá ejecutarse hasta que la apelación se decida, excepto en lo que se refiera a pensión alimentaría (sic). La que lo niegue es apelable en el efecto suspensivo.
 
 ###### ARTÍCULO 501.
 
@@ -5839,7 +5841,7 @@ b) Acreedores privilegiados con derechos reales de prenda o hipoteca, en el orde
 
 c) Embargante en el orden que corresponda por concepto de prioridad en tiempo en la fecha de los embargos; excepto cuando el embargo se deba inscribir en el registro público, pues entonces regirá el orden de fechas de la inscripción, y
 
-d) Los demás acreedores no privilegiados intervienientes se sujetarán a un concurso.
+d) Los demás acreedores no privilegiados intervienientes (sic) se sujetarán a un concurso.
 
 ###### ARTÍCULO 672.
 
@@ -6860,3 +6862,9 @@ P.O. 12 DE NOVIEMBRE DE 2014.
 PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos a que se refieren los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 10 DE DICIEMBRE DE 2014.
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos a que se refieren los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del estado de Morelos.
