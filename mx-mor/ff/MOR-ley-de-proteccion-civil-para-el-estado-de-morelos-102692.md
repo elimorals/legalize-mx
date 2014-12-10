@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-proteccion-civil-para-el-estado-de-morelos-102692"
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-08"
-last_updated: "2014-10-08"
+last_updated: "2014-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "MOR"
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE MORELOS
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE DICIEMBRE DE 2014.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 8 de octubre de 2014.
 
@@ -943,7 +945,9 @@ I. El Gobernador del Estado, quien lo presidirá por sí o por el suplente que d
 
 II. El Secretario de Gobierno;
 
-III. El Secretario de Seguridad Pública;
+> <small>(F. DE E., P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+III. Comisionado Estatal de Seguridad Pública;
 
 IV. El Secretario de Salud;
 
@@ -1481,9 +1485,11 @@ La supervisión y el cumplimiento de las medidas de seguridad previstas en el ar
 
 El incumplimiento de las cláusulas establecidas en el convenio dará lugar a las sanciones que la Coordinación Estatal determine.
 
+> <small>(F. DE E., 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 143.
 
-La Coordinación Estatal, a petición de parte, emitirá opiniones en materia de riesgos, atendiendo a la clasificación hecha en el artículo 122, de esta Ley, y de Protección Civil para Proyectos e instalaciones existentes o de nueva creación.
+La Coordinación Estatal, a petición de parte, emitirá opiniones en materia de riesgos, atendiendo la clasificación hecha en el artículo 148, de esta Ley, y de Protección Civil para Proyectos e instalaciones existentes o de nueva creación.
 
 ###### Artículo 144.
 
