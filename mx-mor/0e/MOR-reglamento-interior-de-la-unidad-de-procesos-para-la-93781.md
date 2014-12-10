@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-unidad-de-procesos-para-la-93781"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-04-10"
-last_updated: "2013-04-10"
+last_updated: "2014-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA UNIDAD DE PROCESOS PARA LA ADJUDICACIÓN DE CONTRATOS DEL PODER EJECUTIVO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LAS DISPOSICIONES TRANSITORIAS PRIMERA Y SEGUNDA DEL DECRETO POR EL QUE SE REFORMA EL REGLAMENTO INTERIOR DE LA SECRETARÍA DE ADMINISTRACIÓN DEL PODER EJECUTIVO DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 10 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS CINCO DÍAS HÁBILES SIGUIENTES A SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 10 de abril de 2013.
 
@@ -31,7 +33,7 @@ Al margen izquierdo un Escudo del Estado de Morelos que dice: "Tierra y Libertad
 
 GRACO LUIS RAMÍREZ GARRIDO ABREU, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 70 FRACCIONES XVII Y XXVI DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, CONFORME A LO DISPUESTO POR EL ARTÍCULO 10 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS, Y CON BASE EN LA SIGUIENTE:
 
-EXPOSICIÓN DE MOTIVOS.
+EXPOSICIÓN DE MOTIVOS...
 
 Por lo anteriormente expuesto y fundado tengo a bien expedir el siguiente:
 
@@ -448,3 +450,21 @@ EL SECRETARIO EJECUTIVO DE LA GUBERNATURA
 LIC. JAIME ÁLVAREZ CISNEROS
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE DICIEMBRE DE 2014.
+
+PRIMERA. El presente Decreto entrará en vigor a los cinco días hábiles siguientes a su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se abroga el Acuerdo por el que se crea la Unidad de Procesos para la Adjudicación de Contratos del Poder Ejecutivo del Estado de Morelos, así como el Reglamento Interior de la Unidad de Procesos para la Adjudicación de Contratos del Poder Ejecutivo del Estado de Morelos, ambos publicados en el Periódico Oficial “Tierra y Libertad”, el primero el día 02 de enero de 2013 en el ejemplar número 5054, y el segundo, el día diez de abril de 2013, en el ejemplar número 5083, respectivamente; y se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
+
+TERCERA. En un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, deberán adecuarse los Manuales de Organización, Políticas y Procedimientos y demás instrumentos administrativos aplicables a la Secretaría de Administración del Poder Ejecutivo Estatal, a efecto de armonizarlos con el contenido del presente instrumento.
+
+CUARTA. La Secretaría Ejecutiva de la Gubernatura, las Secretarías de Administración, de Hacienda y de la Contraloría, todas del Poder Ejecutivo Estatal, deberán tomar las medidas necesarias para que dentro de un plazo no mayor a treinta días hábiles, contados a partir de la publicación del presente Decreto, se realicen todas las acciones necesarias a fin de que los recursos humanos, materiales y presupuestales asignados a la Secretaría Ejecutiva de la Gubernatura, destinados a la Unidad de Procesos para la Adjudicación de Contratos del Poder Ejecutivo del Estado de Morelos, se transfieran y se reasignen a la Secretaría de Administración del Poder Ejecutivo Estatal, mediante las formalidades y procedimientos administrativos necesarios.
+
+QUINTA. La Unidad de Procesos para la Adjudicación de Contratos, deberá concluir los asuntos iniciados bajo las disposiciones jurídicas que se abrogan o derogan, conforme a las disposiciones jurídicas y administrativas aplicables y el Reglamento Interior de la Secretaría de Administración, sin que ello afecte la validez y procedencia de sus actos.
+
+SEXTA. De conformidad con lo dispuesto en los artículos 21, fracción XXX, de la Ley Orgánica de la Administración Pública del Estado de Morelos; y en los artículos 6, fracción XXXV, y 24, fracción I, del Reglamento Interior de la Secretaría de Gobierno; la Secretaría de Administración del Poder Ejecutivo Estatal, dentro del plazo de cinco días hábiles a que hace referencia la Disposición Primera Transitoria para la entrada en vigor del presente Instrumento, debe informar a la diversa Secretaría de Gobierno, la creación y denominación de la Unidad Administrativa de aquella, en virtud de este Decreto, así como registrar conforme a los formatos que expida la Dirección General Jurídica de la Secretaría de Gobierno, la firma autógrafa del funcionario y servidor público titular de la misma y los sellos correspondientes, para los efectos legales y administrativos a que haya lugar.
+
+SÉPTIMA. Dentro del plazo a que se refiere la Disposición Transitoria que antecede, la Secretaría de Administración del Poder Ejecutivo Estatal deberá realizar los trámites correspondientes para la identificación y asignación de plazas, así como para la expedición del nombramiento respectivo por parte de la Autoridad competente.
