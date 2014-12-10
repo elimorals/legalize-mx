@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-la-proteccion-frente-al-consumo-de-tabaco-en-el-84195"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-14"
-last_updated: "2014-03-26"
+last_updated: "2014-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN FRENTE AL HUMO DE TABACO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 14 de diciembre de 2011.
 
@@ -135,9 +135,11 @@ VII. Las demás que le otorgue la presente Ley y demás disposiciones jurídicas
 
 En los centros deportivos, recreativos, parques, alamedas, jardines y plazas cívicas, la autoridad municipal colocara letreros o logotipos donde se indique la prohibición de fumar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 8.
 
-La Secretaría de Salud, a través del Organismo Público Descentralizado denominado Servicios de Salud del Estado de Morelos, ejercerá las siguientes atribuciones:
+La Secretaría de Salud, a través del Organismo Descentralizado denominado Servicios de Salud de Morelos, ejercerá las siguientes atribuciones:
 
 > <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
 
@@ -145,7 +147,9 @@ I. Llevar a cabo en coordinación con Seguridad Pública y los Municipios la ope
 
 II. Llevar a cabo campañas para la detección temprana del fumador, diseño de programas, de servicio de cesación y opciones terapéuticas que ayuden a dejar de fumar combinado con consejerías y otras intervenciones.
 
-III. Promover con las autoridades educativas la inclusión de contenidos acerca del tabaquismo en programas y materiales educativos;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+III. Promover con las autoridades educativas la inclusión de contenidos acerca del tabaquismo en programas y materiales educativos, así como la realización en las escuelas de foros en los que se aborde la problemática del consumo del tabaco y sus consecuencias;
 
 IV. La orientación a la población sobre los riesgos a la salud por el consumo de tabaco;
 
@@ -331,6 +335,10 @@ V. El beneficio obtenido por el infractor como resultado de la infracción.
 
 Se sancionará con multa equivalente de diez hasta cien veces el salario mínimo diario general vigente en el Estado de Morelos, el incumplimiento de lo dispuesto en los artículos 11 y 16 de esta ley, la multa será impuesta por el Juez Cívico correspondiente, y será puesto a disposición de éste, por cualquier policía del Estado de Morelos o bien de sus Municipios.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+Tratándose de las fracciones XI y XII, del artículo 11 de la presente Ley, la sanción administrativa a que se refiere el párrafo anterior se incrementará, hasta en una mitad, cuando el infractor sea el operador o conductor de la unidad de transporte de pasajeros, de escolares o de personal oficial y empresarial.
+
 ###### Artículo 31.
 
 Se sancionará con multa equivalente de quinientos hasta dos mil veces el salario mínimo diario general vigente en el Estado de Morelos, el incumplimiento de la disposición contenida en el artículo 12 de esta Ley.
@@ -456,3 +464,13 @@ TERCERA. Todas las referencias hechas en el marco normativa estatal, respecto de
 CUARTA. Las Secretarías de Gobierno, de Administración, de Hacienda y de la Contraloría del Poder Ejecutivo Estatal, deberán tomar las medidas administrativas necesarias para que los recursos humanos, presupuestarios y materiales asignados a la Secretaría de Seguridad Pública en el Presupuesto de Egresos para el Ejercicio Fiscal comprendido del primero de enero al treinta y uno de diciembre de 2014, se reasignen a la primera para la operación y funcionamiento de la Comisión Estatal de Seguridad Pública y el Órgano Desconcentrado denominado Secretariado Ejecutivo de Sistema Estatal (sic) Seguridad Pública.
 
 QUINTA. Con la finalidad de dar cumplimiento a lo dispuesto por los artículos Décimo Transitorio y 132, ambos del Código Nacional de Procedimientos Penales, el Secretario de Gobierno del Estado de Morelos, deberá de ejecutar todas y cada una de las acciones tendientes a la capacitación, adiestramiento y profesionalización de los elementos que integran la fuerza pública Estatal, debiendo de garantizar en dichas acciones los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los Derechos Humanos reconocidos en la Constitución Política de los Estado Unidos Mexicanos.
+
+P.O. 10 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
