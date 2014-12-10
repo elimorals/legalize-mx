@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-poder-judicial-morelos-6661"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-04-12"
-last_updated: "2014-05-21"
+last_updated: "2014-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6661&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DEL PODER JUDICIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 12 de abril de 1995.
 
@@ -163,11 +163,11 @@ II.- Segundo Circuito, que comprende los actuales distritos judiciales segundo, 
 
 III.- Tercer Circuito, que comprende los actuales distritos judiciales, quinto, sexto y séptimo, con sede en Cuautla.
 
-> <small>(REFORMADO, P.O. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 16.
 
-No obstante lo dispuesto en los artículos anteriores, el Pleno del Tribunal Superior de Justicia podrá crear otros circuitos y distritos judiciales para modificar la división judicial del territorio del Estado, y podrá ampliar o modificar la competencia territorial de los órganos jurisdiccionales de primera y segunda instancia, cuando así se requiera para brindar un mejor servicio en la administración de justicia.
+No obstante lo dispuesto en los artículos anteriores, el Pleno del Tribunal Superior de Justicia podrá crear otros circuitos y distritos judiciales para modificar la división judicial del territorio del Estado, y podrá ampliar o modificar la competencia territorial de los órganos jurisdiccionales de primera y segunda instancia, cuando así se requiera para brindar un mejor servicio en la administración de justicia y a fin de evitar causa de impedimento de los Tribunales Orales.
 
 ###### ARTICULO 17.
 
@@ -181,9 +181,9 @@ En cada distrito judicial y en cada demarcación habrá el número de juzgados d
 
 El Pleno del Tribunal podrá acordar, dentro de las posibilidades presupuestales, la conformación de Juzgados, integrados cada uno de ellos por los Jueces que sean necesarios para una mejor prestación del servicio judicial, quienes actuarán de forma unitaria o colegiada de conformidad con lo dispuesto por la Ley. En estos casos el Pleno designará a uno de los Jueces como coordinador.
 
-> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-Tratándose del sistema penal acusatorio y adversarial, los juzgados podrán integrarse con jueces que asuman atribuciones de garantía y de juicio oral, siempre y cuando un mismo juez no desempeñe ambas funciones en un mismo asunto.
+Tratándose del sistema penal acusatorio y adversarial, los juzgados podrán integrarse con jueces que asuman atribuciones de control, juicio oral, tribunal de enjuiciamiento y de ejecución de sanciones, siempre y cuando un mismo juez no desempeñe dos funciones en un mismo asunto.
 
 ## TITULO TERCERO. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
@@ -409,7 +409,7 @@ III.- Atender la correspondencia oficial de su Sala;
 
 IV.- Rendir los informes previo y justificado en los juicios de amparo promovidos contra actos de la Sala;
 
-V.- Procurar lo necesario para el debido cumplimiento de la función de la Sala; y (sic)
+V.- Procurar lo necesario para el debido cumplimiento de la función de la Sala; y
 
 > <small>(REFORMADA, P.O. 23 DE JULIO DE 2008)</small>
 
@@ -485,9 +485,9 @@ VI.- Los demás asuntos que les señalen las leyes.
 
 VII.- (DEROGADA, P.O. 23 DE JULIO DE 2008)
 
-> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-En el proceso penal acusatorio y adversarial el recurso de casación deberá ser conocido por Magistrados que no hubieren intervenido en el mismo asunto en apelación; y el recurso de revisión deberán conocerlo Magistrados que no hubieren intervenido en el mismo asunto en casación.
+En el proceso penal acusatorio y adversarial el recurso de apelación deberá ser conocido por Magistrados que no hubieren intervenido en el mismo asunto; y la solicitud de reconocimiento de inocencia y anulación de sentencia deberán conocerlo (sic) Magistrados que no hubieren intervenido en el mismo asunto en apelación.
 
 > <small>(ADICIONADO, P.O. 23 DE JULIO DE 2008)</small>
 
@@ -795,7 +795,7 @@ En el proceso penal acusatorio y adversarial, los Jueces y Magistrados podrán a
 
 ###### ARTICULO 66 Ter.
 
-En material penal tendrán la validez y eficacia de un documento físico original de registro, los archivos de documentos, mensajes, imágenes, bancos de datos y toda aplicación almacenada o transmitida por medios electrónicos, informáticos, magnéticos, ópticos, telemáticos o producidos por nuevas tecnologías, destinados a la tramitación judicial, ya sea que registren actos o resoluciones judiciales. Lo anterior siempre que cumplan con los procedimientos establecidos para garantizar su autenticidad, integridad y seguridad.
+En materia penal tendrán la validez y eficacia de un documento físico original de registro, los archivos de documentos, mensajes, imágenes, bancos de datos y toda aplicación almacenada o transmitida por medios electrónicos, informáticos, magnéticos, ópticos, telemáticos o producidos por nuevas tecnologías, destinados a la tramitación judicial, ya sea que registren actos o resoluciones judiciales. Lo anterior siempre que cumplan con los procedimientos establecidos para garantizar su autenticidad, integridad y seguridad.
 
 Las alteraciones que afecten la autenticidad o integridad de dichos soportes los harán perder el valor jurídico que se les otorga en el párrafo anterior.
 
@@ -811,7 +811,9 @@ El Consejo de la Judicatura dictará los lineamientos necesarios para normar el 
 
 Cuando una autoridad penal del Estado reciba por exhorto, mandamiento o comisión una solicitud para la realización de un acto procesal, deberá seguir los procedimientos legales vigentes para la autoridad que remite la solicitud.
 
-Tratándose del envío de exhorto, mandamiento o comisión a otro Estado, el Juez solicitará, en la medida en que no se contravengan las disposiciones de esa entidad, se ejecute de c (sic) al procedimiento vigente para la autoridad exhortante.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+Tratándose del envío de exhorto, mandamiento o comisión a otro Estado, el Juez solicitará, en la medida en que no se contravengan las disposiciones de esa entidad, se ejecute de acuerdo al procedimiento vigente para la autoridad exhortante.
 
 ### CAPITULO TERCERO. DE LOS JUECES MENORES
 
@@ -825,9 +827,9 @@ II.- Penales; y
 
 III.- Mixtos.
 
-> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-Para todos los efectos legales, se consideran jueces de primera instancia en materia penal a los jueces de garantía y los jueces de juicio oral.
+Para todos los efectos legales, se consideran jueces de primera instancia en materia penal a los jueces de control, jueces de enjuiciamiento y ejecución de sanciones.
 
 ###### ARTICULO 68.
 
@@ -849,7 +851,7 @@ III.- Habilitar al Secretario de acuerdos como Actuario, cuando las necesidades 
 
 IV.- Las demás que les asignen las leyes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 69.
 
@@ -861,39 +863,63 @@ II.- Practicar mensualmente visitas a los reclusorios dando cuenta al Tribunal S
 
 III.- Las demás que les asignen las leyes.
 
-> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 69 Bis.
 
-Los jueces de garantía actuarán en forma unitaria y tendrán las siguientes atribuciones:
+Los jueces de control actuarán en forma unitaria y tendrán las siguientes atribuciones:
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2008)</small>
 
 I.- Otorgar las autorizaciones judiciales previas que solicite el Ministerio Público para realizar las actuaciones que priven, restrinjan o perturben los derechos asegurados por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y los convenios y tratados internacionales vigentes en el país;
 
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2008)</small>
+
 II.- Dirigir las audiencias judiciales de la fase de investigación y resolver los incidentes que se promueven en ellas;
 
-III.- Decidir sobre la libertad o prisión preventiva y demás medidas cautelares de los imputados;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+III.- Decidir sobre la libertad o prisión preventiva, medidas de protección, providencias precautorias y demás medidas cautelares de los imputados;
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2008)</small>
 
 IV.- Resolver sobre la vinculación a proceso de los imputados;
 
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2008)</small>
+
 V.- Procurar la solución del conflicto a través de medidas alternas, con las limitaciones que establezca la ley;
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2008)</small>
 
 VI.- Dirigir la audiencia intermedia;
 
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2008)</small>
+
 VII.- Dictar sentencia en el procedimiento abreviado; y
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2008)</small>
 
 VIII.- Las demás que le otorgue la ley.
 
-> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 69 Ter.
 
-Los Tribunales de juicio oral en materia penal se integrarán por tres jueces que actuarán en forma colegiada y tendrán las siguientes atribuciones:
+Los Tribunales de enjuiciamiento en materia penal se integrarán por tres jueces que actuarán en forma colegiada y tendrán las siguientes atribuciones:
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2008)</small>
 
 I.- Conocer y juzgar los procesos sometidos a su conocimiento;
 
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2008)</small>
+
 II.- Resolver todas las cuestiones que se presentan durante el juicio;
 
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2008)</small>
+
 III.- Dictar sentencia con base en las pruebas presentadas durante la audiencia de juicio; y,
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2008)</small>
 
 IV.- Las demás que les otorgue la ley.
 
@@ -945,9 +971,9 @@ XIII.- Llevar los libros de gobierno y demás que ordenen las disposiciones lega
 
 XIV.- Las demás que les imponga la ley.
 
-> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-Tratándose de los juzgados penales del sistema procesal penal acusatorio y adversarial, donde se hubiere asignado un administrador de juzgado, las atribuciones previstas en las fracciones II, III, V, VIII, IX; X, XII y XIII, de este artículo, quedarán a cargo del administrador.
+Tratándose de los juzgados penales del sistema procesal penal acusatorio y adversarial, donde se hubiere asignado un administrador de juzgado, las atribuciones previstas en las fracciones II, III, V, VI, IX, X, XII y XIII de este artículo, quedarán a cargo del administrador.
 
 ###### ARTICULO 74.
 
@@ -1071,7 +1097,7 @@ Los Jueces de Paz tendrán como superior administrativo inmediato al Juez Menor 
 
 Los Jueces de Paz desempeñarán sus funciones dentro de los límites territoriales del municipio para el cual fueron designados.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JULIO DE 2008)</small>
 
 ### CAPITULO PRIMERO. DEL JURADO POPULAR
 
@@ -1355,11 +1381,11 @@ XXII.- Nombrar al personal supernumerario que las necesidades de la administraci
 
 XXIII.- Tomar todas las decisiones que tiendan a la correcta y adecuada aplicación de la presente ley, así como resolver cualquier situación no prevista por ella, en el ámbito de su competencia;
 
-XXIV.- Designar a los Jueces Auxiliares del Magistrado Visitador General; y (sic)
+XXIV.- Designar a los Jueces Auxiliares del Magistrado Visitador General; y
 
-> <small>(REFORMADA, P.O. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-XXV.- Estructurar; organizar y planear los proyectos para la implementación de los Juzgados de Garantía y Tribunal Oral, debiendo establecer los modelos de gestión necesarios para su buen funcionamiento;
+XXV.- Estructurar, organizar y planear los proyectos para la implementación de los juzgados de control, tribunal de enjuiciamiento y ejecución debiendo establecer los modelos de gestión necesarios para su buen funcionamiento;
 
 > <small>(ADICIONADA, P.O. 23 DE JULIO DE 2008)</small>
 
@@ -1405,7 +1431,7 @@ XII.- Remitir al Poder Legislativo, por conducto del Jefe del Ejecutivo, el proy
 
 > <small>(ADICIONADA, P.O. 23 DE MAYO DE 2001)</small>
 
-XIII.- Presentar ante el Congreso del Estado un informe trimestral de las Cuentas Públicas, que deberá contener la información del gasto programado y ejercido por cada una de las partidas autorizadas; y (sic)
+XIII.- Presentar ante el Congreso del Estado un informe trimestral de las Cuentas Públicas, que deberá contener la información del gasto programado y ejercido por cada una de las partidas autorizadas; y
 
 > <small>(REFORMADA, P.O. 23 DE JULIO DE 2008)</small>
 
@@ -1651,7 +1677,7 @@ El Boletín Judicial es el órgano encargado de publicar la relación de las res
 
 El Boletín Judicial circulará diariamente en todos los distritos judiciales, a excepción de los días inhábiles. En todos los tribunales del Estado habrá el número de ejemplares necesarios para consulta del público.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JULIO DE 2008)</small>
 
 ### CAPITULO QUINTO. DEL FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA
 
@@ -1907,7 +1933,7 @@ I.- Abstenerse, sin causa justificada, de realizar las audiencias y de dictar la
 
 II.- Dejar de concluir sin causa justificada, dentro de los términos de la ley, la instrucción de los procesos de su conocimiento;
 
-> <small>(REFORMADA, P.O.20 DE JULIO DE 2005)</small>
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2005)</small>
 
 III.- Dictar resoluciones o trámites infundados, notoriamente innecesarios o contra constancias de autos;
 
@@ -1923,15 +1949,15 @@ VIII.- Decretar un embargo, o ampliación de él, sin que se reúnan los requisi
 
 IX.- Dejar de concurrir o abandonar, sin causa justificada, sus labores oficiales;
 
-> <small>(REFORMADA, P.O.20 DE JULIO DE 2005)</small>
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2005)</small>
 
 X.- No respetar los mecanismos establecidos por el Consejo de la Judicatura del Estado para la designación de auxiliares de la administración de justicia;
 
 XI.- Dedicar a los servidores de la administración de justicia de su dependencia, al desempeño de labores ajenas a las funciones oficiales;
 
-XII.- Concurrir a sus labores bajo el efecto de algún estupefaciente o producto prohibido por la ley, salvo el caso de prescripción médica; y (sic)
+XII.- Concurrir a sus labores bajo el efecto de algún estupefaciente o producto prohibido por la ley, salvo el caso de prescripción médica; y
 
-> <small>(REFORMADA, P.O.20 DE JULIO DE 2005)</small>
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2005)</small>
 
 XIII.- Concurrir a sus labores en estado de intoxicación etílica o bajo la influencia de enervantes;
 
@@ -1977,7 +2003,7 @@ Se consideran como faltas de los miembros del Consejo de la Judicatura Estatal, 
 
 Si la falta se cometiere porque alguna de las Salas del Tribunal no dicte sus resoluciones dentro del termino legal, solamente será responsable el Magistrado Ponente cuando no presentare oportunamente el proyecto respectivo a la consideración de los demás Magistrados; y cualquiera de los tres será responsable si habiéndose presentado la ponencia correspondiente, no concurriere a la discusión del negocio o no firmare la sentencia dentro del mismo plazo legal, sin causa justificada en uno y otros casos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 186.
 
@@ -2113,7 +2139,7 @@ VI.- Inhabilitación temporal de uno a cinco años para desempeñar empleos, car
 
 La suspensión por más de cinco días, la destitución del cargo, la consignación ante la autoridad competente y la inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público solo podrán decretarse por el Consejo de la Judicatura Estatal.
 
-> <small>(REFORMADO, P.O.20 DE JULIO DE 2005)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2005)</small>
 
 ###### ARTICULO 195.
 
@@ -2259,7 +2285,7 @@ GUILLERMO MALO VELASCO.
 
 RUBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 23 DE MAYO DE 2001.
 
@@ -2310,3 +2336,11 @@ P.O. 21 DE MAYO DE 2014.
 Artículo Primero.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos previstos en los artículos 44 y 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 Artículo Segundo.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial Tierra y Libertad, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 10 DE DICIEMBRE DE 2014.
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. Una vez emitida la Declaratoria de entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de Morelos, que emita el Congreso del Estado, quedarán abrogados el Código de Procedimientos Penales en el Estado Libre y Soberano de Morelos, publicado en el Periódico Oficial número 1180, segunda sección de fecha treinta y uno de marzo de mil novecientos cuarenta y seis, el Código de Procedimientos Penales para el Estado de Morelos, publicado en el Periódico Oficial número 3820 tercera sección el día nueve de octubre de mil novecientos noventa y seis y el Código de Procedimientos Penales del Estado de Morelos, aprobado el día trece de noviembre del dos mil siete y publicado en el Periódico Oficial del Gobierno del Estado de Morelos “Tierra y Libertad”, número 4570 de fecha veintidós de noviembre del dos mil siete, así mismo, se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+TERCERA. En su caso, las menciones que en otros ordenamientos permanezcan y se hagan de los Códigos de Procedimientos Penales que se abrogan por virtud de la disposición transitoria que antecede, se entenderán referidas al Código Nacional de Procedimientos Penales.
