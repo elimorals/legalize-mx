@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-victimas-del-estado-de-morelos-antes-ley-de-atencion-951
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-17"
-last_updated: "2014-04-09"
+last_updated: "2014-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 LEY DE ATENCIÓN Y REPARACIÓN A VÍCTIMAS DEL DELITO Y DE VIOLACIONES A LOS DERECHOS HUMANOS PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 9 DE ABRIL DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 17 de julio de 2013.
 
@@ -84,6 +82,10 @@ Se denominarán víctimas directas cualquier persona física que individual o co
 Los familiares o personas físicas a cargo o que tengan una relación inmediata con la víctima directa, tanto formal como informal, que de alguna forma sufra un daño es una víctima indirecta.
 
 Se considera víctima potencial aquella que peligre en su esfera de derechos por auxiliar, impedir o detener la violación de un derecho de una víctima o la comisión de un delito y, por lo tanto, objeto de medidas de protección y atención.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+El ofendido en razón de la comisión de un delito, podrá tener la calidad de víctima directa, indirecta o potencial.
 
 La calidad de víctimas se adquiere con la acreditación del daño o menoscabo de los derechos en los términos establecidos en la presente Ley, independientemente de que se identifique, aprehenda o condene al responsable del daño, o de su participación en algún procedimiento judicial o administrativo. Dicha calidad tampoco se pierde al existir algún nexo entre la víctima y una persona condenada o vinculada a una investigación por comisión de un delito.
 
@@ -605,7 +607,9 @@ Para garantizar los derechos establecidos en el artículo precedente, los Podere
 
 Del mismo modo, las víctimas gozarán de los siguientes derechos:
 
-I. A ser informadas de manera clara, precisa y accesible de sus derechos por el Ministerio Público o la primera autoridad con la que tenga contacto o que conozca del hecho delictivo, tan pronto éste ocurra. El Ministerio Público deberá comunicar a la víctima los derechos que le reconocen la Constitución, los Tratados Internacionales y esta Ley a su favor, dejando constancia en la carpeta de investigación de este hecho, con total independencia de que exista o no un probable responsable de los hechos;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+I. A ser informadas, cuando así lo solicite de manera clara, precisa y accesible, de sus derechos por el Ministerio Público, Asesor Jurídico, Juez o Tribunal o con la primera autoridad con la que tenga contacto que conozca del hecho delictivo, tan pronto este ocurra. El Ministerio Público deberá comunicar a la víctima los derechos que le reconocen la Constitución, los Tratados Internacionales y esta Ley a su favor, dejando constancia en la carpeta de investigación de este hecho, con total independencia de que exista o no un probable responsable de los hechos;
 
 II. A que se les repare el daño en forma expedita, proporcional y justa. En los casos en que la autoridad judicial dicte una sentencia condenatoria, no podrá absolver al responsable de dicha reparación. Si la víctima o su Asesor Jurídico no solicitaren la reparación del daño, el Ministerio Público está obligado a hacerlo;
 
@@ -613,7 +617,9 @@ III. A coadyuvar con el Ministerio Público para que se les reciban todos los da
 
 IV. A intervenir en el juicio como partes plenas, ejerciendo durante el mismo sus derechos. Así mismo, tendrán derecho a que se les otorguen todas las facilidades para la presentación de denuncias o querellas;
 
-V. A ser asesoradas y representadas dentro de la investigación y el proceso por un Asesor Jurídico. En los casos en que no quieran o no puedan contratar un abogado, les será proporcionado dicho servicio por el Estado, de acuerdo al procedimiento que determine esta Ley y su Reglamento; esto incluirá su derecho a elegir libremente a su Representante Legal;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+V. A ser asesoradas y representadas en cualquier etapa del procedimiento por un Asesor Jurídico. En los casos en que no quieran o no pueda contratar un abogado, les será proporcionado dicho servicio por el Estado, en términos de la legislación aplicable.
 
 VI. A tener derecho a la Segunda Instancia y a otros recursos ordinarios y extraordinarios en los mismos casos y condiciones que el procesado y en los demás que establezcan las leyes;
 
@@ -639,9 +645,37 @@ XVI. A que se les informe sobre la realización de las audiencias donde se vaya 
 
 XVII. A que se les notifique toda resolución que pueda afectar sus derechos y a impugnar dicha resolución;
 
-XVIII. En los casos que impliquen graves violaciones a los Derechos Humanos, a solicitar la intervención de expertos independientes, a fin de que colaboren con las autoridades competentes en la investigación de los hechos y la realización de peritajes. Las organizaciones de la sociedad civil o grupos de víctimas podrán solicitar también que grupos de esos expertos revisen, informen y lleven a cabo recomendaciones para lograr el acceso a la justicia y a la verdad para las víctimas; y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-XIX. Cuando las víctimas no se expresen en el idioma castellano, se dispondrá de la presencia de traductores o intérpretes durante todo el proceso. Las sentencias serán traducidas para dicha comprensión.
+XVIII. En los casos que impliquen graves violaciones a los Derechos Humanos, a solicitar la intervención de expertos independientes, a fin de que colaboren con las autoridades competentes en la investigación de los hechos y la realización de peritajes. Las organizaciones de la sociedad civil o grupos de víctimas podrán solicitar también que grupos de esos expertos revisen, informen y lleven a cabo recomendaciones para lograr el acceso a la justicia y a la verdad para las víctimas;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+XIX. Cuando las víctimas no se expresen en el idioma español, se dispondrá de la presencia de traductores o intérpretes durante todo el proceso. Las sentencias serán traducidas para dicha comprensión;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+XX. A comunicarse, ínmedíatamente (sic) después de haberse cometido el delito, con un familiar, e incluso con su Asesor Jurídico;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+XXI. A que se le proporcione asistencia migratoria cuando tenga otra nacionalidad;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+XXII. A solicitar el traslado de la autoridad al lugar en donde se encuentre, para ser ínterrogada o participar en el acto para el cual fue citada, cuando por su edad, enfermedad grave o por alguna otra imposibilidad física o psicológica se dificulte su comparecencia, a cuyo fin deberá requerir la dispensa, por sí o por un tercero, con anticipación, y
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+XXIII. Los demás que establezcan otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+En el caso de que las víctimas sean personas menores de dieciocho años, el órgano jurisdiccional o el Ministerio Público tendrán en cuenta los principios del interés superior de los niños o adolescentes, la prevalencia de sus derechos, su protección integral y los derechos consagrados en la Constitución.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+Para los delitos que impliquen violencia contra las mujeres, se deberán observar todos los derechos que en su favor establece la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Morelos y demás disposiciones aplicables.
 
 ###### ARTÍCULO 51.
 
@@ -1870,6 +1904,14 @@ Primero. El presente Decreto iniciará su vigencia el día siguiente de su publi
 Segundo. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
 
 Tercero. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 10 DE DICIEMBRE DE 2014.
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. Una vez emitida la Declaratoria de entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de Morelos, que emita el Congreso del Estado, quedarán abrogados el Código de Procedimientos Penales en el Estado Libre y Soberano de Morelos, publicado en el Periódico Oficial número 1180, segunda sección de fecha treinta y uno de marzo de mil novecientos cuarenta y seis, el Código de Procedimientos Penales para el Estado de Morelos, publicado en el Periódico Oficial número 3820 tercera sección el día nueve de octubre de mil novecientos noventa y seis y el Código de Procedimientos Penales del Estado de Morelos, aprobado el día trece de noviembre del dos mil siete y publicado en el Periódico Oficial del Gobierno del Estado de Morelos "Tierra y Libertad", número 4570 de fecha veintidós de noviembre del dos mil siete, así mismo, se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+TERCERA. En su caso, las menciones que en otros ordenamientos permanezcan y se hagan de los Códigos de Procedimientos Penales que se abrogan por virtud de la disposición transitoria que antecede, se entenderán referidas al Código Nacional de Procedimientos Penales.
 
 ### CAPÍTULO III. DE LAS MEDIDAS DE REHABILITACIÓN
 
