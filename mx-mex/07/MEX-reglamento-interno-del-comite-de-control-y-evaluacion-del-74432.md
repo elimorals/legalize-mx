@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-comite-de-control-y-evaluacion-del-74432
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-25"
-last_updated: "2010-03-25"
+last_updated: "2014-12-10"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74432&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERNO DEL COMITE DE CONTROL Y EVALUACION DEL INSTITUTO DE CAPACITACION Y ADIESTRAMIENTO PARA EL TRABAJO INDUSTRIAL [ICATI]
 
-REGLAMENTO INTERNO DEL COMITE DE CONTROL Y EVALUACION DEL INSTITUTO DE CAPACITACION Y ADIESTRAMIENTO PARA EL TRABAJO INDUSTRIAL (ICATI)
+REGLAMENTO INTERNO DEL COMITÉ DE CONTROL Y EVALUACIÓN DEL INSTITUTO DE CAPACITACIÓN Y ADIESTRAMIENTO PARA EL TRABAJO INDUSTRIAL (ICATI)
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO DEL REGLAMENTO INTERNO DEL COMITÉ DE CONTROL Y EVALUACIÓN (COCOE) DEL INSTITUTO DE CAPACITACIÓN Y ADIESTRAMIENTO PARA EL TRABAJO INDUSTRIAL, PUBLICADO EN EL P.O. 10 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO SE DEJA SIN EFECTOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014 (SIN EFECTOS).
 
 Reglamento publicado en Sección Primera de la Gaceta del Gobierno del Estado de México, el jueves 25 de marzo de 2010.
 
@@ -442,3 +444,17 @@ C.P. Eduardo Mario Rubio Contreras
 Contralor Interno del ICATI y Secretario Técnico del COCOE
 
 (Rúbrica).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE DICIEMBRE DE 2014.
+
+TRANSITORIOS DEL REGLAMENTO INTERNO DEL COMITÉ DE CONTROL Y EVALUACIÓN (COCOE) DEL INSTITUTO DE CAPACITACIÓN Y ADIESTRAMIENTO PARA EL TRABAJO INDUSTRIAL
+
+PRIMERO.- Publíquese el presente Reglamento Interior en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se deja sin efectos el Reglamento Interior del Comité de Control y Evaluación, aprobado el dieciocho de febrero del año dos mil diez.
+
+CUARTO.- Las dudas que se susciten con motivo de la interpretación o aplicación del presente Reglamento, así como lo no previsto en el mismo, será resuelto por la Secretaría de la Contraloría.
