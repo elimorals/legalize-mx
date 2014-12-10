@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-para-el-proceso-de-titulacion-de-la-universidad-2279
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-05"
-last_updated: "2001-12-05"
+last_updated: "2014-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO PARA EL PROCESO DE TITULACION DE LA UNIVERSIDAD TECNOLOGICA EMILIANO ZAPATA DEL ESTADO DE MORELOS
 
-REGLAMENTO PARA EL PROCESO DE TITULACION DE LA UNIVERSIDAD TECNOLOGICA EMILIANO ZAPATA DEL ESTADO DE MORELOS
+REGLAMENTO PARA EL PROCESO DE TITULACIÓN DE LA UNIVERSIDAD TECNOLÓGICA EMILIANO ZAPATA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO ACADÉMICO DE ESTUDIANTES DE LA UNIVERSIDAD TECNOLÓGICA EMILIANO ZAPATA DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 10 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 5 de diciembre de 2001.
 
@@ -38,8 +40,6 @@ Que es importante para toda Institución Educativa del Estado conocer el nivel d
 Que es necesario conocer el nivel de aprovechamiento que han ido teniendo los alumnos a lo largo de sus estudios, motivo por el cual se deben de aplicar diversos criterios para poder obtener el título de Técnico Superior Universitario basado en una serie de requisitos, y que una vez obtenido este, el alumno podrá aplicarlos en su vida diaria, en el área que se haya especializado.
 
 Que por lo anterior y con el objeto de establecer las bases que deberá seguir el alumnado para obtener el título de Técnico Superior Universitario y las diversas modalidades mediante las cuales puede obtenerlo, y toda vez que ha sido aprobado el presente Reglamento por parte del Consejo Directivo como Órgano de Gobierno del Universidad Tecnológica Emiliano Zapata, se ha tenido a bien expedir el siguiente:
-
-REGLAMENTO PARA EL PROCESO DE TITULACION DE LA UNIVERSIDAD TECNOLOGICA EMILIANO ZAPATA DEL ESTADO DE MORELOS
 
 ###### Artículo 1.
 
@@ -202,3 +202,23 @@ EL SECRETARIO DE EDUCACIÓN
 M. EN C. FRANCISCO RAMÓN TALLABS ORTEGA
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE DICIEMBRE DE 2014.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" Órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Se abrogan los Reglamentos Académico de Estudiantes de la Universidad Tecnológica Emiliano Zapata del Estado de Morelos; de Actividades Culturales y Deportivas de la Universidad Tecnológica Emiliano Zapata del Estado de Morelos; de Becas de la Universidad Tecnológica Emiliano Zapata; de Biblioteca de la Universidad Tecnológica Emiliano Zapata del Estado de Morelos; de Estadías Profesionales de la Universidad Tecnológica Emiliano Zapata del Estado de Morelos; de Evaluación del Aprendizaje de la Universidad Tecnológica Emiliano Zapata del Estado de Morelos; del Servicio Social de la Universidad Tecnológica Emiliano Zapata del Estado de Morelos; para el Proceso de Titulación de la Universidad Tecnológica Emiliano Zapata del Estado de Morelos; de la Comisión de Honor y Justicia de la Universidad Tecnológica Emiliano Zapata del Estado de Morelos; publicados todos en el Periódico Oficial “Tierra y Libertad” número 4155, el día 5 de diciembre de 2001, y asimismo se deroga cualquier otra disposición de rango igual o inferior en cuanto se opongan a la regulación del presente Reglamento.
+
+TERCERO.- En el caso de existir trámites administrativos o académicos que se encuentren en tránsito al momento de la publicación del presente Reglamento, les será aplicable lo estipulado en el mismo, siempre y cuando su aplicación no sea en su perjuicio.
+
+Quedan sin efecto las multas establecidas con anterioridad a la entrada en vigor del presente Reglamento derivadas del préstamo de material bibliotecario, sin que dicha acción, los exonere de su obligación de devolver el material dado en préstamo.
+
+CUARTO.- Los asuntos que con motivo de este Reglamento deban pasar de una unidad administrativa a otra, serán resueltos por la nueva área señalada en el Reglamento, a excepción de los trámites urgentes o sujetos a plazos improrrogables, que serán resueltos por el área que tenga el asunto a su cargo.
+
+QUINTO.- El Consejo Académico de la Universidad Tecnológica Emiliano Zapata del Estado de Morelos, deberá instalarse en un plazo de ciento veinte días hábiles, contados a partir de la entrada en vigor del presente Decreto, en términos de lo dispuesto por el presente Reglamento, debiendo establecer en dicha sesión los lineamientos a los que hace alusión el presente Reglamento.
+
+SÉPTIMO (SIC).- La Universidad Tecnológica Emiliano Zapata del Estado de Morelos, a través de la Rectoría es responsable del uso y tratamiento de los datos personales del Estudiante, de conformidad con lo dispuesto en la Ley de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos.
+
+OCTAVO.- Los casos no previstos en este Reglamento se resolverán de conformidad con las leyes aplicables y demás disposiciones vigentes de la Universidad, o en su defecto por el titular de la Rectoría, y si no se resolvieran en esa instancia se someterán ante el Consejo Directivo de la Universidad.
