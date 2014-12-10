@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-fiscalia-general-del-estado-de-morelos-10001
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-03-26"
-last_updated: "2014-03-26"
+last_updated: "2014-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100011&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 26 de marzo de 2014.
 
@@ -51,33 +51,61 @@ Esta Ley es de orden público y de interés social, y tiene por objeto establece
 
 Para los efectos de esta Ley, se entenderá por:
 
-I. Cadena de custodia: A la actividad de hallazgo, fijación, identificación, embalaje, traslado, análisis y custodia de todos los elementos, objetos, indicios o evidencias que se relacionen con un hecho delictivo y el registro de las personas que intervienen en la actividad y tienen el resguardo de los mismos;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-II. Consejo: al Consejo de Profesionalización;
+I. Cadena de custodia, es el sistema de control y registro que se aplica al indicio, evidencia, objeto, instrumento o producto del hecho delictivo, desde su localización, descubrimiento aportación, en el lugar de los hechos o del hallazgo, hasta que la autoridad competente ordene su conclusión;
 
-III. Consejo de Honor: al Consejo de Honor y Justicia;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-IV. Fiscalía General: a la Fiscalía General del Estado de Morelos;
+II. Consejo, al Consejo de Profesionalización;
 
-V. Fiscal General: al Titular de la Fiscalía General;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-VI. Gobernador: al Titular del Poder Ejecutivo Estatal;
+III. Consejo de Honor, al Consejo de Honor y Justicia;
 
-VII. Ley: a la Ley Orgánica de la Fiscalía General del Estado de Morelos;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-VIII. Ley General: a la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI, del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos;
+IV. Fiscalía General, a la Fiscalía General del Estado de Morelos;
 
-IX. Ministerio Público: quien ejerce las funciones del Ministerio Público;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-X. Policía de Investigación Criminal: al cuerpo de Policía que auxilia al Ministerio Público en las funciones de investigación y persecución de los delitos, en términos de la Constitución Federal;
+V. Fiscal General, a la persona titular de la Fiscalía General;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+VI. Gobernador, a la persona titular del Poder Ejecutivo Estatal;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+VII. Ley, a la Ley Orgánica de la Fiscalía General del Estado de Morelos;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+VIII. Ley General, a la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI, del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+IX. Ministerio Público, a quien ejerce las funciones del Ministerio Público;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+X. Policía de Investigación Criminal, al cuerpo de Policía que auxilia al Ministerio Público en las funciones de investigación y persecución de los delitos, en términos de la Constitución Federal;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 XI. Reglamento, al Reglamento de la Ley;
 
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 XII. Secretario Técnico, a la persona Titular de la Secretaría Técnica del Consejo;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 XIII. Servicio de Carrera, al Servicio de Carrera de la Fiscalía General para los Agentes del Ministerio Público, Oficiales Auxiliares del Ministerio Público, Peritos y Agentes de la Policía de Investigación Criminal, y
 
-XIV. Servicios Periciales; al cuerpo de personas con conocimientos y experiencia en las diferentes profesiones, ciencias, técnicas, artes u oficios, que mediante la emisión de opiniones y dictámenes auxilian al Ministerio Público en su función.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+XIV. Servicios Periciales, al cuerpo de personas con conocimientos y experiencia en las diferentes profesiones, ciencias, técnicas, artes u oficios, que mediante la emisión de opiniones y dictámenes auxilian al Ministerio Público en su función.
 
 ###### Artículo 3.
 
@@ -139,7 +167,9 @@ Los servidores públicos que tengan bajo su mando a Agentes del Ministerio Públ
 
 El Ministerio Público es único, indivisible y jerárquico en su organización, sus funciones no podrán ser influidas ni restringidas sino en los casos que dispongan los ordenamientos legales.
 
-Su actuación se sujetará a los principios de legalidad, imparcialidad, probidad, objetividad, eficiencia, profesionalismo, honradez, respeto a los derechos humanos, confidencialidad, lealtad, responsabilidad y transparencia.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+Su actuación se sujetará a los principios de legalidad, imparcialidad, objetividad, eficiencia, eficacia, profesionalismo, honradez, lealtad, probidad y respeto a los derechos humanos reconocidos en la Constitución y en los tratados internacionales.
 
 ### CAPÍTULO II. DE LAS FUNCIONES DEL MINISTERIO PÚBLICO
 
@@ -165,7 +195,9 @@ VII. Brindar atención integral a las víctimas del delito, de conformidad con l
 
 VIII. Adoptar o, en su caso, ordenar las medidas necesarias para la protección, atención y auxilio de las víctimas, ofendidos y testigos, e implementarlas hacia sus propios funcionarios cuando se requiera;
 
-IX. Solicitar a los jueces competentes las órdenes de protección preventivas y emergentes, de conformidad con la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Morelos, y en los supuestos que procedan, con base en lo dispuesto en otras leyes que resulten aplicables;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+IX. Aplicar las medidas de protección conforme a las disposiciones del Código Nacional de Procedimientos Penales y la legislación aplicable;
 
 X. Promover la resolución de los conflictos surgidos como consecuencia de los delitos, a través de la mediación, conciliación, negociación y el proceso restaurativo entre la víctima u ofendido y el imputado ante la instancia competente, de conformidad con las leyes aplicables;
 
@@ -197,9 +229,15 @@ XXIII. Preparar y ejercer la acción de extinción de dominio, así como las atr
 
 XXIV. Ordenar por escrito, la realización de operaciones encubiertas y entregas vigiladas, siempre y cuando haya sido autorizado en cada caso por el Fiscal General o por el servidor público que éste designe, de conformidad con el Reglamento correspondiente. La orden respectiva deberá contener los términos, limitaciones, modalidades y condiciones a los que deberán sujetarse los Policías de Investigación Criminal que ejecuten la operación encubierta o la entrega vigilada;
 
-XXV. Activar y dar cumplimiento a los protocolos en materia de personas desaparecidas y demás instrumentos normativos aplicables para la investigación de los hechos delictivos, y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-XXVI. Las demás que le otorguen otras disposiciones jurídicas aplicables.
+XXV. Activar y dar cumplimiento a los protocolos en metería de personas desaparecidas y demás instrumentos normativos aplicables para la investigación de los hechos delictivos;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+XXVI. Autorizar la dispensa de la necropsia, cuando de la investigación no resulten datos relacionados con la existencia de un delito; y
+
+XXVII. Las demás que le otorguen otras disposiciones jurídicas aplicables.
 
 ###### Artículo 12.
 
@@ -265,6 +303,8 @@ El personal de la unidad especializada en combate al secuestro, deberá capacita
 
 Para ingresar al servicio de esta unidad especializada, los aspirantes deberán asumir el compromiso de sujetarse a vigilancia no intrusiva, por la autoridad competente, en cualquier tiempo de su servicio y dentro de los cinco años posteriores a la terminación del mismo, así como rendir y mantener actualizada la información en materia de secuestro y la realización de exámenes de control de confianza cuando sean requeridos, mismos que deberán acreditar para continuar en el servicio.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 #### SECCIÓN SEGUNDA. DE LA UNIDAD DE REPRESENTACIÓN SOCIAL, DESARROLLO PROFESIONAL Y ADMINISTRACIÓN
 
 #### SECCIÓN TERCERA. DE LA COORDINACIÓN DE ÓRGANOS AUXILIARES
@@ -272,34 +312,6 @@ Para ingresar al servicio de esta unidad especializada, los aspirantes deberán 
 ###### Artículo 14.
 
 En el ejercicio de sus funciones de investigación y persecución, son auxiliares del Ministerio Público todas las Instituciones Policiales, Estatales y Municipales, estando obligadas a cumplir con las órdenes que aquel les realice, a informarle de los asuntos en que intervengan con ese carácter, a proporcionarle la información que requiera y participar en el proceso penal con el carácter que corresponda.
-
-Son funciones del Ministerio Público en materia del delito de Trata de Personas:
-
-(NOTA: EL 7 DE JULIO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2014, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 27 DE MARZO DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-I. TENDRÁN COMPETENCIA PARA INVESTIGAR Y PERSEGUIR LOS DELITOS PREVISTOS EN EL CAPÍTULO VII, DEL TÍTULO CUARTO, DENOMINADO DELITOS CONTRA LA LIBERTAD Y OTRAS GARANTÍAS, DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS, DE ACUERDO A LAS FACULTADES QUE LA LEY LE OTORGA A LA INSTITUCIÓN DEL MINISTERIO PÚBLICO Y CON SUJECIÓN AL PROCESO PENAL ACUSATORIO VIGENTE EN EL ESTADO.
-
-II. Recibirá las denuncias de los hechos posiblemente constitutivos del delito de Trata de Personas y realizará las diligencias necesarias.
-
-III. Concentrará las carpetas iniciadas por ese delito o conexos, para desarrollar la investigación y proceder jurídicamente en el ámbito de sus atribuciones ante los órganos jurisdiccionales.
-
-IV. Otorgarán medidas de protección de manera inmediata a las Víctimas u ofendidos del delito y adoptarán todas las medidas necesarias para evitar que las víctimas sean revictimizadas en cualquier forma y hacer efectivo el derecho a la confidencialidad, proteger la identidad de la víctima y de su familia cuando proceda.
-
-V. Solicitarán colaboración a las Dependencias y Entidades de la Administración Pública Federal, Estatal y Municipal en la investigación del delito de Trata de Personas.
-
-VI. Podrá adoptar protocolos y lineamientos específicos de actuación y participar en la elaboración y propuesta de nuevos modelos para la investigación eficaz del delito.
-
-VII. Establecerá un registro de incidencia delictiva de los asuntos de su competencia para implementar medidas necesarias para su atención, prevención, investigación, tendiente a su erradicación; integrará una base de datos de las carpetas que se encuentren en proceso o en etapa de juicio, apoyándose en los sistemas informáticos de la Institución.
-
-VIII. Otorgar apoyo al Ministerio Público Federal y al de las Entidades Federativas en materia de delitos de Trata de Personas en los términos legales y generar estrecha comunicación con la Unidad Especializada en Investigación de Personas no Localizadas y Extraviadas, de la Fiscalía General del Estado de Morelos.
-
-IX. Solicitar al Ministerio Público Federal, Instituciones Federales o de las Entidades Federativas, el auxilio o colaboración para la práctica de diligencias en investigaciones de delitos de Trata de Personas o conexos, con base en las disposiciones aplicables y los convenios de colaboración.
-
-X. Enviar las Carpetas de Investigación o su desglose al Ministerio Público Federal, o a otras Unidades Especializadas de Investigación competentes, cuando los hechos que investiga, resulten competencia de aquél.
-
-XI. Deberá actuar de manera profesional y conducir sus actuaciones bajo los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los Derechos Humanos.
-
-Para los fines del presente artículo, se contará con la Unidad Especializada de Investigación en Delitos de Trata de Personas, que tendrá a su cargo Ministerios Públicos, peritos y Policías de Investigación Criminal y técnicos especializados, de conformidad con las disposiciones jurídicas aplicables.
 
 ###### Artículo 15.
 
@@ -315,13 +327,19 @@ Son obligaciones de la Policía de Investigación Criminal, con independencia de
 
 I. Velar por la legalidad y respeto a los Derechos Humanos, en el ámbito de su competencia, promoviendo la pronta, expedita y debida procuración de justicia;
 
-II. Recibir las denuncias sobre los hechos que pudieran ser constitutivos de delitos e informar inmediatamente de ello al Ministerio Público, realizando las diligencias urgentes e indispensables dependiendo el caso y actuar bajo la conducción y mando de aquél;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-III. Realizar la detención en casos legítimos, preservar el lugar de los hechos o hallazgos, procesar y trasladar indicios respetando la cadena de custodia;
+II. Recibir las denuncias sobre los hechos que pudieran ser constitutivos de delitos, así como recibir denuncias anónimas e informar inmediatamente de ello al Ministerio Público, realizando las diligencias urgentes e indispensables dependiendo el caso y actuar bajo la conducción y mando de aquél;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+III. Realizar la detención en los casos que autoriza la Constitución, haciendo saber a la persona detenida los derechos que le otorga la Ley, así como informar por cualquier medio al Ministerio Publico sobre la detención, e inscribir inmediatamente las mismas en el registro que al efecto establezcan las disposiciones aplicables, así mismo preservar el lugar de los hechos o hallazgos, tomando las providencias necesarias para recolectar, resguardar, procesar y trasladar indicios respetando la cadena de custodia;
 
 IV. Prestar auxilio y protección a víctimas, ofendidos o testigos del delito;
 
-V. Emitir los informes correspondientes, que deriven de los hechos investigados;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+V. Emitir el informe policial correspondiente que derive de los hechos investigados y demás documentos, de conformidad con las disposiciones aplicables. Para tal efecto se podrá apoyar en los conocimientos que resulten necesarios, sin que ello tenga el carácter de informes periciales;
 
 VI. Manejar correctamente los indicios, huellas o vestigios del hecho delictivo, respetando la cadena de custodia correspondiente;
 
@@ -335,13 +353,45 @@ X. Excusarse de intervenir de cualquier forma en la atención, tramitación o re
 
 XI. Participar en operativos de coordinación con otras autoridades o corporaciones policiales, así como brindar apoyo a otras autoridades;
 
-XII. Someterse a los procesos de control de confianza y evaluación de desempeño, de conformidad con las Leyes y Reglamentos aplicables;
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-XIII. Participar y asistir a los programas y cursos de capacitación que, para efectos de profesionalización, disponga la Fiscalía General;
+XII. Impedir que se consumen los delitos o que los hechos produzcan consecuencias ulteriores. Especialmente estará obligada a realizar todos los actos necesarios para evitar una agresión real, actual o inminente y sin derecho en protección de bienes jurídicos de los gobernados a quienes tiene la obligación de proteger;
 
-XIV. Desempeñar su función sin solicitar o aceptar compensaciones, pagos o gratificaciones, y
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-XV. Las demás que señalen otras disposiciones jurídicas aplicables.
+XIII. Actuar bajo el mando del Ministerio Público en el aseguramiento de bienes relacionados con la investigación de los delitos;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+XIV. Practicar las inspecciones y otros actos de investigación, así como reportar los resultados al Ministerio Público. En aquellos que se requiera autorización judicial, deberá solicitarla a través del Ministerio Público;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+XV. Entrevistar a las personas que pudieran aportar algún dato o elemento para la investigación;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+XVI. Requerir a las autoridades competentes y solicitar a las personas físicas o morales, informes y documentos para fines de la investigación. En caso de negativa, informará al Ministerio Público para que determine lo conducente;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+XVII. Proporcionar atención a víctimas u ofendidos o testigos del delito. Para tal efecto, deberá:
+
+a) Prestar protección y auxilio inmediato, de conformidad con las disposiciones aplicables;
+
+b) Informar a la víctima u ofendido sobre los derechos que en su favor se establecen;
+
+c) Procurar que reciban atención médica y psicológica cuando sea necesaria, y
+
+d) Adoptar las medidas que se consideren necesarias, en el ámbito de su competencia, tendientes a evitar que se ponga en peligro su integridad física y psicológica;
+
+XVIII. Someterse a los procesos de control de confianza y evaluación de desempeño, de conformidad con las Leyes y Reglamentos aplicables;
+
+XIX. Participar y asistir a los programas y cursos de capacitación que, para efectos de profesionalización, disponga la Fiscalía General;
+
+XX. Desempeñar su función sin solicitar o aceptar compensaciones, pagos o gratificaciones, y
+
+XXI. Las demás que señalen otras disposiciones jurídicas aplicables.
 
 El incumplimiento de estas obligaciones dará lugar a la sanción correspondiente en los términos de esta Ley y el Reglamento.
 
@@ -353,9 +403,13 @@ Son obligaciones de los Peritos, con independencia de las señaladas en otras di
 
 I. Manejar correctamente los indicios, huellas o vestigios del hecho delictivo, respetando la cadena de custodia correspondiente;
 
-II. Emitir los dictámenes con las formalidades técnicas y científicas, y conservarlos bajo los principios de confidencialidad y reserva;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-III. Cumplir con las órdenes legalmente fundadas del Ministerio Público, o autoridades administrativas de la Fiscalía General, así como auxiliar a las diferentes autoridades;
+II. Emitir los dictámenes con las formalidades técnicas y científicas, y conservarlos bajo los principios de confidencialidad y reserva; sin eximirlo de acudir a declarar en la Audiencia de Juicio Oral;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+III. Cumplir con las órdenes legalmente fundadas por el Ministerio Público, la Policía con conocimiento de éste o autoridades administrativas de la Fiscalía General, así como auxiliar a las diferentes autoridades;
 
 IV. Entregar, cuando así lo solicite el Ministerio Público, todos los objetos, materiales, evidencias e instrumentos del delito relacionados con las investigaciones encomendadas, así como aquellos de cualquier naturaleza que se encuentren abandonados;
 
@@ -421,9 +475,9 @@ Cada Unidad Administrativa, contará con los Directores, Coordinadores, Agentes 
 
 El Fiscal General, de conformidad con las disposiciones presupuestales asignadas para ello, podrá establecer las Unidades Administrativas u Operativas que se encuentren previstas en el Reglamento, podrá formar Unidades de Investigación para la persecución de delitos por géneros o específicos que por su trascendencia, interés y características así lo ameriten de acuerdo a las necesidades del servicio.
 
-#### SECCIÓN PRIMERA. DE LAS TÉCNICAS DE INVESTIGACIÓN
+#### SECCIÓN PRIMERA
 
-(NOTA: EL 7 DE JULIO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 24.
 
@@ -481,9 +535,7 @@ Las Fiscalías Regionales, en el ejercicio de sus funciones y actividades, organ
 
 Las Fiscalías Regionales tendrán jurisdicción en la demarcación territorial del Estado que les sea asignada por Acuerdo del Fiscal General, el que será publicado en el Periódico Oficial "Tierra y Libertad".
 
-#### SECCIÓN SEGUNDA. DE LA CADENA DE CUSTODIA
-
-(NOTA: EL 7 DE JULIO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+#### SECCIÓN SEGUNDA
 
 ###### Artículo 27.
 
@@ -531,7 +583,7 @@ VIII. Dirigir reuniones e integrar grupos de trabajo especiales, para el diseño
 
 IX. Fijar las condiciones generales para el personal que integra la Fiscalía General, en términos de la normativa que resulte aplicable;
 
-X. Determinar los cambios de adscripción del personal de la Fiscalía General, de acuerdo con las necesidades del servicio, conforme a (sic) la normativa aplicable lo permita;
+X. Determinar los cambios de adscripción del personal de la Fiscalía General, de acuerdo con las necesidades del servicio, conforme a la normativa aplicable lo permita;
 
 XI. Administrar, de manera racional, eficiente y eficaz, los recursos materiales financieros y humanos de la Fiscalía General destinados al cumplimiento de sus fines;
 
@@ -563,9 +615,13 @@ XXIV. Conocer y resolver las excusas y recusaciones que sean interpuestas por o 
 
 XXV. Determinar la política institucional del Ministerio Público, los criterios y prioridades en la investigación de los delitos y sobre el ejercicio de la acción penal;
 
-XXVI. Emitir disposiciones generales sobre los criterios de oportunidad que deban aplicar el Ministerio Público;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-XXVII. Solicitar a la autoridad jurisdiccional competente la intervención de comunicaciones conforme a la normativa aplicable;
+XXVI. Emitir las disposiciones generales sobre los criterios de oportunidad que deba aplicar el Ministerio Público y autorizar o delegar en el funcionario público la aplicación de los criterios de oportunidad;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+XXVII. Solicitar a la autoridad jurisdiccional competente la intervención de comunicaciones privadas conforme al Código Nacional de Procedimientos Penales y a la normativa aplicable;
 
 XXVIII. Emitir los criterios generales para el ejercicio de las atribuciones de la Fiscalía General en materia de justicia penal para adolescentes, de conformidad con las leyes aplicables;
 
@@ -629,9 +685,11 @@ VII. Aprobar examen de control de confianza en los términos que establezcan las
 
 El personal a que se refiere el presente artículo será nombrado y removido por el Fiscal General, conforme a la normativa aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 38.
 
-Los operadores de justicia alternativa, deberán cumplir los requisitos que se señalan en el artículo anterior, con excepción de lo dispuesto en las fracciones II y VII, en virtud de no adquirir la calidad de Ministerio Público y demás supuestos que establece la normativa aplicable, quienes deberán de contar con título y cédula profesional de la especialidad de que se trate, conforme lo determine el Reglamento.
+Los operadores de justicia alternativa deberán cumplir los requisitos que se señalan en el artículo anterior, con excepción de lo dispuesto en las fracciones II y VII, en virtud de no adquirir la calidad de Ministerio Público y demás supuestos que establece la normativa aplicable, quienes deberán de contar con título y cédula profesional de la especialidad de que se trate.
 
 Asimismo los asesores jurídicos que prestan asistencia a las victimas u ofendidos del delito, deberán cumplir los requisitos que se señalan en el artículo 37 de esta Ley, con excepción de lo dispuesto en la fracción VII, en virtud de no adquirir la calidad de Ministerio Público y demás supuestos que establece la normativa aplicable.
 
@@ -855,7 +913,9 @@ III. Un representante de la Secretaría de Gobierno, que contará con voz y voto
 
 IV. Un representante de la Secretaría de la Contraloría, que contará con voz y voto;
 
-V. Un representante del Consejo de Participación Ciudadana, que contará con voz y voto, y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+V. Un representante del Consejo Ciudadano de Seguridad Morelos, que contará con voz y voto, y
 
 VI. El Titular de la Visitaduría General, quien fungirá como Secretario Técnico y sólo tendrá derecho a voz.
 
@@ -929,9 +989,11 @@ Los Agentes del Ministerio Público y sus Oficiales Auxiliares del Ministerio P�
 
 Los Agentes del Ministerio Público y sus Oficiales Auxiliares del Ministerio Público, Peritos y Agentes de la Policía de Investigación Criminal, deberán someterse a la instrumentación de las evaluaciones del cumplimiento de sus obligaciones, así como su grado de eficacia, eficiencia y calidad, con base en los principios constitucionales de legalidad, honradez, lealtad, imparcialidad, profesionalismo, eficiencia y eficacia, para identificar las áreas de oportunidad del elemento para su permanencia, promoción y en su caso sanción.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 81.
 
-Para llevar a cabo el proceso de evaluación del desempeño, se estará a lo dispuesto en el Reglamento de la presente Ley.
+Para llevar a cabo el proceso de evaluación del desempeño, se estará a lo dispuesto en el Reglamento correspondiente.
 
 ###### Artículo 82.
 
@@ -1083,141 +1145,61 @@ El personal de la Fiscalía General, podrán excusarse y ser recusados en los as
 
 ### CAPÍTULO XIII. DE LAS TÉCNICAS DE INVESTIGACIÓN Y LA CADENA DE CUSTODIA
 
+> <small>(DEROGADA SU DENOMINACIÓN, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 93.
 
-En el desarrollo de la investigación de los delitos de delincuencia organizada, homicidio doloso, violación, secuestro, trata de personas, feminicidio y extorsión, así como de otros que se dispongan en la normativa aplicable, el Ministerio Público podrá emplear las técnicas de investigación autorizadas en el presente ordenamiento.
-
-Para los efectos conducentes, se entenderá por técnicas de investigación, a los procedimientos de investigación e inteligencia que se utilizan para prevenir, detectar y perseguir los delitos sancionados por la Ley.
-
-(NOTA: EL 7 DE JULIO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+En el desarrollo de la investigación de los delitos el Ministerio Público desarrollará las técnicas de investigación y la cadena de custodia de conformidad con la normativa aplicable.
 
 ###### Artículo 94.
 
-Son técnicas de investigación, aplicables por el Ministerio Público, la Policía de Investigación Criminal y los Peritos, en el ejercicio de sus atribuciones, las siguientes:
-
-I. Las entregas vigiladas, que consisten en la identificación y, en su caso, la intercepción en tránsito de bienes o recursos que sean objeto, instrumento o producto de delito, con el fin de retirarlos o sustituirlos parcialmente, según sea el caso, para luego permitir, bajo vigilancia, su envío, distribución o transportación dentro del territorio del Estado, con el fin de investigar el hecho delictivo, así como identificar y, en su caso, detener, con el empleo de los avances tecnológicos necesarios, a las personas u organizaciones involucradas en su comisión;
-
-II. Las entregas vigiladas o controladas, también tendrán alcances respecto de remesas de dinero, documentos o titulas representativos de un determinado valor económico;
-
-III. Las operaciones encubiertas, en las modalidades señaladas a continuación:
-
-a) La disposición y utilización de medios tecnológicos consistentes en el conjunto de aparatos y dispositivos para el manejo de datos, georeferenciación, localizadores, voz o imagen, bajo el control del Agente del Ministerio Público responsable de la investigación, con el objeto de descubrir cualquier actividad vinculada directa o indirectamente con hechos delictivos, así como la identidad de quienes cometan algún delito, y
-
-b) La infiltración de agentes, que serán policías en función de investigación de los delitos, Peritos o Agentes del Ministerio Público, con el objeto de actuar bajo una identidad supuesta en un determinado ambiente delincuencial para prevenir ,y reprimir acciones delictivas o para descubrir a los integrantes de alguna organización criminal;
-
-IV. La vigilancia electrónica de lugares privados, consistente en la colocación de micrófonos, cámaras, localizadores y utilización de imágenes satelitales de manera estratégica, a fin de acopiar información y pruebas respecto a la comisión del delito que se investiga y a la responsabilidad penal de sus autores;
-
-V. El empleo de informante, que es la persona que como testigo puede aportar datos a la investigación, permitiendo que una persona, sin tener el carácter de servidor público, coopere en la investigación de delitos, protegiendo en todo momento su identidad y su integridad por los medios que lo permitan;
-
-VI. El ofrecimiento de recompensas, mediante la compensación en numerario destinada a ser ofrecida a personas que, sin haber intervenido en el delito, brinden información útil, oportuna y eficaz para esclarecer el hecho, lograr la identificación y/o aprehensión de quienes hubieran tomado parte en la comisión del mismo o la localización de víctimas;
-
-VII. La colaboración con la justicia, considerándose a toda persona que, sin ser autor o partícipe en la comisión de algún delito, aporte datos para la investigación y persecución de los delitos y cuyas aportaciones sean útiles para la localización y detención de miembros delincuenciales, así como la localización de bienes, objetos o productos de delitos, bienes propiedad del probable responsable de la comisión de un delito o de los que se conduzca como dueño, o la localización de víctimas;
-
-VIII. La intervención de comunicaciones privadas, en la que el Fiscal General solicitará a la autoridad federal, la intervención de cualquier comunicación privada en los términos de lo previsto en el artículo 16, de la Constitución Federal, excepto cuando se trate de materias de carácter electoral, fiscal, mercantil, civil, laboral, administrativo, cuestiones exclusivamente políticas o de comunicaciones del detenido con su defensor;
-
-IX. La extracción de información, relativa a la obtenida de archivos electrónicos de aparatos que procesen información, y
-
-X. El programa de denuncia anónima, a fin de resguardar la identidad del denunciante.
-
-Las declaraciones de las personas a que hacen referencia las fracciones IV y V, serán valoradas por el órgano jurisdiccional.
-
-(NOTA: EL 7 DE JULIO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(DEROGADO, P.O. 10 DE DICIEMBRE DE 2014)
 
 ###### Artículo 95.
 
-Las técnicas de investigación a que se refieren las fracciones II, inciso a), III, IV, y VIII, del artículo 94 del presente ordenamiento, requerirán de autorización de la autoridad judicial; a solicitud del Fiscal General o algún otro Fiscal, sea Especializado o Regional.
-
-Respecto a las técnicas de investigación enunciadas en las fracciones I, II inciso b), V, VI, VII y IX, del artículo 94 de esta Ley, serán autorizadas por el Fiscal General o alguno de los Fiscales a que se refiere la presente Ley.
-
-(NOTA: EL 7 DE JULIO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(DEROGADO, P.O. 10 DE DICIEMBRE DE 2014)
 
 ###### Artículo 96.
 
-Para el empleo de las técnicas de investigación a que se refiere el artículo 94 de este instrumento, se requiere de la autorización previa del Fiscal General o alguno de los Fiscales, y su aplicación se realizará bajo la orden y supervisión del Agente del Ministerio Público responsable, en los términos autorizados.
-
-La ejecución de las técnicas de investigación autorizadas en este instrumento, se ajustarán a los protocolos que para tal efecto emita la Fiscalía General, los cuales tendrán la calidad de información confidencial en términos de la Ley de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos; en tal razón, no podrán ser difundidos o publicados bajo ningún concepto.
-
-(NOTA: EL 7 DE JULIO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(DEROGADO, P.O. 10 DE DICIEMBRE DE 2014)
 
 ###### Artículo 97.
 
-Para las entregas vigiladas y las operaciones encubiertas, el Agente del Ministerio Público, previa autorización del Fiscal General o alguno de los Fiscales, podrá posponer el aseguramiento de bienes o recursos y la detención de, participes de delitos, con el propósito de identificar a los sujetos responsables de los delitos, su forma de operación o ámbito de actuación, sistemas contables y de administración.
-
-(NOTA: EL 7 DE JULIO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(DEROGADO, P.O. 10 DE DICIEMBRE DE 2014)
 
 ###### Artículo 98.
 
-El Fiscal General o alguno de los Fiscales, podrá solicitar a instituciones públicas o privadas, en el ámbito de su competencia, su colaboración en la ejecución de las técnicas de investigación previstas en esta Ley.
-
-El Fiscal General, podrá suscribir con la Federación y las Entidades Federativas, Convenios de Colaboración para realizar operaciones conjuntas en la ejecución de las técnicas de investigación.
-
-Asimismo, cuando sea indispensable para el éxito de la investigación, los particulares podrán colaborar en la ejecución de las técnicas de investigación, siempre que consientan en ello.
-
-(NOTA: EL 7 DE JULIO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(DEROGADO, P.O. 10 DE DICIEMBRE DE 2014)
 
 ###### Artículo 99.
 
-El Fiscal General o alguno de los Fiscales, podrá autorizar a Agentes de la Policía En funciones de investigación de delitos, Agentes del Ministerio Público y Peritos, actuar bajo identidad supuesta para infiltrarse en la organización delincuencial, o adquirir y transportar los objetos, instrumentos o productos del delito, los que, en su momento, deberá retener y poner a disposición del Agente del Ministerio Público.
-
-La identidad supuesta, será otorgada por el tiempo indispensable para cumplir con la investigación. Los agentes infiltrados deberán desenvolverse jurídica y socialmente bajo tal identidad.
-
-La autorización que obre en la investigación, deberá contemplar la identidad supuesta con la que actuará en el caso concreto el agente infiltrado; la verdadera identidad será reservada y deberá conservarse fuera de las actuaciones con la debida seguridad.
-
-(NOTA: EL 7 DE JULIO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(DEROGADO, P.O. 10 DE DICIEMBRE DE 2014)
 
 ###### Artículo 100.
 
-Los agentes infiltrados, de conformidad con lo dispuesto por esta Ley y demás disposiciones aplicables, proporcionarán al Agente del Ministerio Público responsable de la investigación, la información, los documentos, registros, grabaciones y todo aquello que sirva de dato de prueba o indicio sobre el delito que se investigue.
-
-Las actividades que lleven a cabo los agentes infiltrados, se sujetarán a lo dispuesto por este instrumento y demás disposiciones aplicables, así como a los términos, limitaciones, modalidades y condiciones contenidos en la autorización correspondiente, según la naturaleza de la investigación de que se trate.
-
-(NOTA: EL 7 DE JULIO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(DEROGADO, P.O. 10 DE DICIEMBRE DE 2014)
 
 ###### Artículo 101.
 
-A los agentes infiltrados, y demás personal que intervengan en la preparación y ejecución de las técnicas de investigación que refiere esta Ley, se les considerará que actúan en cumplimiento de un deber y, por tanto, no se procederá penalmente en su contra, siempre que:
-
-I. Se haya tratado de una técnica autorizada legalmente;
-
-II. Durante su realización, haya emitido sus informes en los términos autorizados;
-
-III. Se haya sujetado a los lineamientos de la autorización;
-
-IV. La conducta realizada por el agente infiltrado haya sido ineludible y con el exclusivo propósito de preservar su integridad, su cobertura o la propia investigación;
-
-V. Se hayan entregado oportunamente todos los recursos, bienes o información obtenidos en la realización de las técnicas, y
-
-VI. Se hayan tomado las medidas necesarias, conforme a sus posibilidades, para evitar al máximo la producción de daños.
-
-El personal que realicen alguna de las técnicas de investigación, o quienes tengan participación en ellas, no podrán instigar o inducir a cualquier persona a cometer algún delito, ni participar en los hechos delictuosos que se investigan; la contravención a lo anterior ocasionará la responsabilidad penal resultante.
-
-(NOTA: EL 7 DE JULIO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(DEROGADO, P.O. 10 DE DICIEMBRE DE 2014)
 
 ###### Artículo 102.
 
-Las autorizaciones para la aplicación de técnicas de investigación que emita el Fiscal General o alguno de los Fiscales, serán confidenciales; su aplicación y ejecución se realizará por conducto de los Agentes del Ministerio Público y demás personal que se determine, quienes deberán guardar estricta reserva de su contenido.
-
-Durante el procedimiento penal, todos los documentos e información relacionados con las técnicas de investigación, así como los objetos, registros de voz e imágenes, cuentas u objetos que estén relacionados con éstas, serán considerados confidenciales.
-
-La información obtenida con motivo del desarrollo de alguna técnica de investigación que no tenga relación con el delito que se investiga, deberá ser destruida, salvo que de ella se desprendan elementos de algún delito diverso; en este caso, deberá ser materia de una investigación por separado.
-
-(NOTA: EL 7 DE JULIO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(DEROGADO, P.O. 10 DE DICIEMBRE DE 2014)
 
 ###### Artículo 103.
 
-Toda actuación que implique desapego a instrucciones o infiltraciones no autorizadas serán sancionadas en términos de lo dispuesto en la legislación aplicable.
+(DEROGADO, P.O. 10 DE DICIEMBRE DE 2014)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 104.
 
-En la práctica de sus funciones en la investigación y persecución de los delitos, los Agentes del Ministerio Público y de la Policía de Investigación Criminal, así como los Peritos, llevarán un sistema de control y registro de todo elemento que constituya indicio, huella, vestigio, evidencia, objeto, instrumento o producto del hecho delictivo, desde la localización, descubrimiento o aportación, sea en el lugar en que se conoció de los hechos o del hallazgo, hasta que la autoridad competente disponga su conclusión.
-
-Para el efecto, el Fiscal General dispondrá los lineamientos que regirán la cadena de custodia, considerando la identidad, estado original, condiciones de recolección, preservación, embalaje y traslado, así como los lugares y fechas de permanencia y los cambios que se presenten de los responsables de la custodia que se hayan realizado, registrándose de igual forma, los nombres e identificaciones de todas las personas que hayan tenido contacto con tales elementos.
-
-(NOTA: EL 7 DE JULIO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(DEROGADO, P.O. 10 DE DICIEMBRE DE 2014)
 
 ###### Artículo 105.
 
-En la aplicación de la cadena de custodia, se observarán todas las disposiciones normativas aplicables, sean del ámbito Federal o del Local y en los términos del Reglamento de la presente Ley.
+(DEROGADO, P.O. 10 DE DICIEMBRE DE 2014)
 
 DISPOSICIONES TRANSITORIAS
 
@@ -1258,3 +1240,13 @@ SECRETARIO DE GOBIERNO
 ING. JORGE VICENTE MESSEGUER GUILLÉN
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE DICIEMBRE DE 2014.
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. Una vez emitida la Declaratoria de entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de Morelos, que emita el Congreso del Estado, quedarán abrogados el Código de Procedimientos Penales en el Estado Libre y Soberano de Morelos, publicado en el Periódico Oficial número 1180, segunda sección de fecha treinta y uno de marzo de mil novecientos cuarenta y seis, el Código de Procedimientos Penales para el Estado de Morelos, publicado en el Periódico Oficial número 3820 tercera sección el día nueve de octubre de mil novecientos noventa y seis y el Código de Procedimientos Penales del Estado de Morelos, aprobado el día trece de noviembre del dos mil siete y publicado en el Periódico Oficial del Gobierno del Estado de Morelos “Tierra y Libertad”, número 4570 de fecha veintidós de noviembre del dos mil siete, así mismo, se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+TERCERA. En su caso, las menciones que en otros ordenamientos permanezcan y se hagan de los Códigos de Procedimientos Penales que se abrogan por virtud de la disposición transitoria que antecede, se entenderán referidas al Código Nacional de Procedimientos Penales.
