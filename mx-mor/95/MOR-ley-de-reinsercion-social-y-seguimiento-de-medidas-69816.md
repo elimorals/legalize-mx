@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-reinsercion-social-y-seguimiento-de-medidas-69816"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-24"
-last_updated: "2014-03-26"
+last_updated: "2014-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE REINSERCIÓN SOCIAL Y SEGUIMIENTO DE MEDIDAS CAUTELARES DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el lunes 24 de agosto de 2009.
 
@@ -89,9 +89,9 @@ I.- Ley.- La Ley de Reinserción Social y Seguimiento de Medidas Cautelares;
 
 II.- Código Penal.- El Código Penal del Estado de Morelos vigente;
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-III.- Código de Procedimientos.- Los Capítulos Primero, Tercero, Quinto, y Séptimo del Título Décimo Cuarto del Código de Procedimientos Penales para el Estado Libre y Soberano de Morelos, publicado el 31 de marzo de 1946; el Código de Procedimientos Penales para el Estado de Morelos publicado el 7 de octubre de 1996 y el Código de Procedimientos Penales del Estado de Morelos vigente, publicado el 22 de noviembre de 2007, según corresponda de conformidad con el régimen transitorio para la entrada en vigor de éste último;
+III.- Código.- La codificación procedimiental (sic) penal aplicable;
 
 > <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
 
@@ -107,7 +107,9 @@ VI.- Sistema.- El Sistema Estatal Penitenciario;
 
 VII.- Establecimientos penitenciarios.- Los Centros de Reinserción Social, en sus áreas varoniles y femenil, así como los centros especiales para la reclusión preventiva;
 
-VIII.- Medidas Cautelares.- Las medidas cautelares personales, reales y las condiciones por cumplir restrictivas de la libertad personal o de otros derechos durante la suspensión condicional del proceso a prueba, así como las medidas de seguridad, impuestas por la autoridad judicial;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+VIII.- Medidas Cautelares y condiciones.- Las medidas cautelares personales, reales y las condiciones por cumplir restrictivas de la libertad personal o de otros derechos durante la suspensión condicional del proceso a prueba, así como las medidas de seguridad, impuestas por la autoridad judicial;
 
 IX.- Consejo.- El Consejo Técnico Interdisciplinario;
 
@@ -191,7 +193,9 @@ IV. Librar las órdenes de detención que procedan en ejecución de sentencia;
 
 V. Ordenar la cesación de la pena o medida de seguridad una vez transcurrido el plazo fijado por la sentencia;
 
-VI. Resolver necesariamente en audiencia oral, en los términos de la presente Ley y el Código de Procedimientos Penales, todas las peticiones o planteamientos de las partes, relativos a la revocación de cualquier beneficio concedido a los sentenciados por cualquier autoridad jurisdiccional, y en aquellos casos en que deba resolverse sobre libertad anticipada, libertad preparatoria, remisión parcial de la pena o libertad definitiva, y todas aquellas peticiones que por su naturaleza o importancia requieran debate o producción de prueba, y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+VI.- Resolver necesariamente en audiencia oral, en los términos de la presente Ley y el Código, todas las peticiones o planteamientos de las partes, relativos a la revocación de cualquier beneficio concedido a los sentenciados por cualquier autoridad jurisdiccional, y en aquellos casos en que deba resolverse sobre libertad anticipada, libertad preparatoria, remisión parcial de la pena o libertad definitiva, y todas aquellas peticiones que por su naturaleza o importancia requieran debate o producción de prueba, y
 
 VII. Las demás atribuciones que esta Ley y otros ordenamientos le asignen.
 
@@ -209,9 +213,13 @@ II. Si se requiere producción de prueba con el fin de sustentar la revisión, s
 
 III. La rendición de la prueba se llevará a cabo conforme a los requisitos establecidos para su desahogo en la etapa de debate de juicio oral.
 
-IV. Tendrá las facultades, para el orden y disciplina en las audiencias contenidas en el Código de Procedimientos Penales.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-V. Las resoluciones deberán emitirse inmediatamente después de concluido el debate. Excepcionalmente, en casos de extrema complejidad, el Juez podrá retirarse a deliberar su fallo en la forma establecida en el Código de Procedimientos Penales.
+IV.- Tendrá las facultades, para el orden y disciplina en las audiencias contenidas en el Código Nacional;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+V.- Las resoluciones deberán emitirse inmediatamente después de concluido el debate. Excepcionalmente, en casos de extrema complejidad, el Juez podrá retirarse a deliberar su fallo en la forma establecida en el Código;
 
 VI. El Juez de Ejecución valorará los medios de prueba rendidos en la audiencia, conforme a las reglas generales establecidas para las audiencias de debate de juicio oral.
 
@@ -239,7 +247,9 @@ Para emitir sus resoluciones, los Jueces de Ejecución de Sanciones se ajustará
 
 I.- Tratándose de pena o medida de seguridad impuesta por sentencia definitiva que haya causado ejecutoria, al recibir copia certificada de ésta, dará inicio al procedimiento de ejecución de sentencia, realizando la notificación a la Unidad de Reinserción, al sentenciado, su defensor y al Ministerio Público, y
 
-II.- Las notificaciones y los actos procesales relativos a los medios de prueba, en el procedimiento de ejecución de sentencia, se ajustará a las directrices generales que se contienen en el Código de Procedimientos Penales.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+II.- Las notificaciones y los actos procesales relativos a los medios de prueba, en el procedimiento de ejecución de sentencia, se ajustará a las directrices generales que se contienen en el Código.
 
 ###### Artículo 13.
 
@@ -271,15 +281,21 @@ A la Unidad de Reinserción le corresponderá:
 
 I.- En materia de la aplicación y supervisión de las medidas cautelares y providencias precautorias:
 
-a) Realizar la evaluación de riesgos de cada imputado cuando esté detenido por el Ministerio Público antes de la audiencia de control de la Detención;
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+a) Realizar la evaluación de riegos (sic) procesales a la que hace alusión el Código, efectuada de oficio por un evaluador de la unidad competente en medidas cautelares y salidas alternas, utilizando los instrumentos respectivos para ello y verificando la información mediante fuentes fehacientes, dentro del término constitucional o antes de la audiencia de imposición de medidas cautelares, según sea el caso;
 
-b) Proporcionar información necesaria al Ministerio Público y la Defensa sugiriendo la medida cautelar más apropiada basada en el análisis de factores, circunstancias y perfil de cada detenido;
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-c) Proporcionar a las partes la información necesaria para que éstas aporten los antecedentes necesarios a los jueces para que decidan sobre la necesidad de imponer, modificar, adicionar o extinguir medidas cautelares, de modo que el imputado cumpla con sus obligaciones procesales;
+b) Vigilar que la unidad competente en medidas cautelares y salidas alternas entregue a las partes el instrumento resultado del proceso de evaluación de riesgos procesales, antes del inicio de la audiencia de imposición de medidas cautelares, mismo que podrán utilizar en el debate;
 
-d) Ejecutar las medidas cautelares de prisión preventiva, presentación periódica, en su caso, y localización electrónica;
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+c) Emitir reporte de cumplimiento o incumplimiento a las partes para informar sobre el estatus de las medidas cautelares en libertad o de las condiciones impuestas en suspensión condicional del proceso a prueba;
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+d) Ejecutar la medida cautelar de prisión preventiva;
 
 e) Vigilar y coordinar la ejecución del resto de las medidas cautelares reales y personales, así como el cumplimiento de las condiciones impuestas durante la suspensión condicional del proceso a prueba;
 
@@ -317,9 +333,9 @@ i) Las demás que otras leyes y reglamentos establezcan.
 
 De la competencia de la Unidad de Reinserción.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-La Unidad de Reinserción informará al Ministerio Público sobre la ejecución de la medida cautelar impuesta o de las condiciones a cumplir durante la suspensión del proceso condicional a prueba, y solicitará la intervención de la policía para el cumplimiento de la medida.
+La Unidad de Reinserción informará al Ministerio Público sobre la ejecución de la medida cautelar impuesta o de las condiciones a cumplir durante la suspensión del proceso condicional a prueba, y solicitará la intervención de la policía para el cumplimiento de la medida cuando el Juez ordene la intervención (sic) cuerpos policiales para la supervisión.
 
 La información al respecto deberá incluirse a la carpeta de investigación para conocimiento de la defensa.
 
@@ -373,35 +389,41 @@ VIII. La Secretaría de Desarrollo Social.
 
 ### CAPÍTULO PRIMERO. EVALUACIÓN DE RIESGOS PARA LA APLICACIÓN DE MEDIDAS CAUTELARES
 
-###### ARTÍCULO 19.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 19.
 
 Evaluación de Riesgos.
 
-La evaluación de riesgos es el análisis de las circunstancias personales, y socieconómicas (sic) y las demás que la autoridad determine, a petición de las partes, a efecto de imponer la medida cautelar idónea al imputado.
+La evaluación de riesgos es el análisis de las circunstancias personales, y socieconómicas (sic) y las demás que la ley determine, a petición de las partes, a efecto de imponer la medida cautelar idónea al imputado.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
-
-La Unidad de Reinserción realizará la evaluación conforme al Reglamento de esta Ley.
+La Unidad de Reinserción Social, a través del área de evaluación de la unidad competente de medidas cautelares y salidas alternas, realizará la evaluación de riesgos procesales conforme al Reglamento de esta Ley.
 
 ### CAPÍTULO SEGUNDO. EJECUCIÓN Y SEGUIMIENTO DE MEDIDAS CAUTELARES PERSONALES
 
 #### SECCIÓN 1. DE LOS MEDIOS PARA GARANTIZAR LA LIBERTAD PERSONAL
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 20.
 
-Los medios para garantizar la libertad personal.
+Medios para garantizar la libertad personal.
 
-Cuando durante el procedimiento el Juez de Control haya impuesto la medida cautelar de garantía respecto a la libertad personal, esta se podrá hacer en cualquiera de las formas previstas en el Código de Procedimientos Penales.
+Cuando durante el procedimiento el Juez de Control haya impuesto la medida cautelar de garantía respecto a la libertad personal, esta se podrá hacer en cualquiera de las formas previstas en el Código.
+
+A fin de verificar el cumplimiento a tal imposición, la Unidad de Reinserción Social, a través del área de supervisión adscrita a la unidad competente en medidas cautelares y salidas alternas, deberá verificar en la carpeta judicial, que obre el documento respectivo que acredite que se ha dado cumplimiento a la obligación impuesta y en caso de incumplimiento informará inmediatamente a las partes.
 
 #### SECCIÓN 2. PROHIBICIÓN DE SALIR DEL PAÍS, DE LA LOCALIDAD DE LA CUAL RESIDE, O DEL ÁMBITO TERRITORIAL
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 21.
 
 Prohibición de salir del país.
 
-Cuando se determine la medida cautelar de prohibición de salir del país, se requerirá la entrega del pasaporte y demás documentos que permitan la salida del territorio nacional, remitiendo constancia de la resolución a la Secretaría de Gobierno para que, de conformidad con sus atribuciones, de aviso a las autoridades en materia de relaciones exteriores y a las consulares de otros países, para hacer efectiva la medida. El aviso a las autoridades señaladas también se realizará en caso de sustitución, modificación o cancelación de la medida.
+Cuando se determine la medida cautelar de prohibición de salir del país, se dará aviso al Instituto Nacional de Migración y se le proporcionará todos los documentos y requisitos necesarios para que se pueda dar cumplimiento a la medida.
 
-La Secretaría establecerá un lugar específico para el resguardo del pasaporte y demás documentos requeridos por la autoridad judicial para el fin de esta medida.
+El aviso a la autoridad señalada también se realizará en caso de sustitución, modificación o cancelación de la medida.
 
 ###### Artículo 22.
 
@@ -413,119 +435,163 @@ Si la medida cautelar consiste en la prohibición de salir de la localidad de re
 
 #### SECCIÓN 3. PRESENTACIÓN ANTE EL JUEZ DE CONTROL U OTRA AUTORIDAD
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 23.
 
-Presentación periódica ante el Juez de Control.
+Presentación periódica ante el Juez o ante autoridad distinta que aquél designe.
 
-Al dictarse la medida cautelar de presentación periódica, el sometido a la medida, acudirá ante la autoridad que designe el Juez de Control, con la periodicidad que autoridad judicial haya determinado, a efecto de informar sobre sus actividades.
+Al dictarse la medida, el Juez de Control dará aviso inmediato a la Unidad de Reinserción, a efecto de estar en posibilidades de ejecutarla.
 
-La presentación a que se refiere el párrafo anterior se hará sin perjuicio de que el imputado pueda ser requerido en cualquier momento por el juzgador.
+Al dictarse la medida cautelar de presentación periódica, el sometido, acudirá ante la unidad competente en medidas cautelares y salidas alternas, en su sede más cercana, exceptuando los casos en los que el Juez designe autoridad o lugar diverso, con la periodicidad que el juzgador haya determinado, a efecto de informar sobre sus actividades.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+La unidad competente en medidas cautelares y salidas alternas, requerirá al imputado plasmar su firma en el libro de gobierno designado para ello ó el depósito de huella de forma electrónica; lo anterior para acreditar el cumplimiento a esta obligación.
+
+En caso de incumplimiento a esta imposición, la Unidad de Reinserción informará oportunamente a las partes el estatus de cumplimiento.
+
+La presentación a que se refiere este artículo se hará sin perjuicio de que el imputado pueda ser requerido en cualquier momento por el juzgador.
 
 ###### Artículo 24.
 
-Presentación ante la Unidad de Reinserción u otra autoridad.
-
-Si corresponde aplicar la medida cautelar de presentación periódica ante la Unidad de Reinserción u otra autoridad, la persona sometida a la medida acudirá ante la Dependencia que se señale, con la periodicidad que se haya determinado, a efecto de informar sobre sus actividades.
-
-La presentación a que se refiere el párrafo anterior se hará sin perjuicio de que el imputado pueda ser requerido en cualquier momento por el juzgador. Al dictarse la medida, el Juez de Control dará aviso inmediato a la Unidad de Reinserción, a efecto de estar en posibilidades de ejecutarla. Cuando la medida deba ejecutarse en algún distrito judicial donde la Unidad de Reinserción no tenga representación administrativa, dicha dependencia coordinará y vigilará su ejecución, por conducto de las autoridades municipales con las que tenga celebrados convenios de colaboración, llevando un registro permanente sobre el cumplimiento de la medida en aquellas instancias. En cualquier caso, la Unidad de Reinserción informará oportunamente al Ministerio Público sobre el cumplimiento de la medida, quien integrará el informe a la carpeta de investigación, para hacerlo del conocimiento de la Defensa.
+(DEROGADO, P.O. 10 DE DICIEMBRE DE 2014)
 
 #### SECCIÓN 4. LOCALIZADORES ELECTRÓNICOS
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 25.
 
-Sistema de monitoreo electrónico.
+Colocación de localizadores electrónicos.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
-
-Al dictarse la medida cautelar de fijación de localizadores electrónicos a distancia al imputado, la resolución del Juez de Control se comunicará directamente a la Unidad de Reinserción, a efecto de que dicha autoridad la ejecute.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+Al dictarse la medida cautelar de colocación de localizadores electrónicos, la resolución del Juez de Control se comunicará directamente a la unidad competente en medidas cautelares y salidas alternas para adultos, dependiente de la Unidad de Reinserción, a efecto de que dicha autoridad con auxilio de la Comisión Estatal de Seguridad Pública realice el monitoreo.
 
 La ejecución de la medida estará sujeta a la normatividad reglamentaria sobre el Programa de Monitoreo Electrónico a Distancia, que al efecto emita el Poder Ejecutivo del Estado.
 
-#### SECCIÓN 5. OBLIGACIÓN DE LA PRESENTACIÓN A SOMETERSE AL CUIDADO O VIGILANCIA DE UNA PERSONA O INSTITUCIÓN DETERMINADA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN 5. SOMETIMIENTO AL CUIDADO O VIGILANCIA DE UNA PERSONA O INSTITUCIÓN DETERMINADA O INTERNAMIENTO A INSTITUCIÓN DETERMINADA
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 26.
 
-Ejecución de la medida.
+Coordinación, supervisión y seguimiento de la medida.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+Cuando se imponga esta medida cautelar, la persona o institución que se queda al cuidado del imputado, será la responsable de emitir informe periódico a la unidad competente en medidas cautelares y salidas alternas.
 
-Cuando durante el procedimiento penal se determine la medida cautelar de someterse al cuidado o vigilancia, de alguna persona o institución determinada por el Juez de Control, o dicha particularidad se imponga como condición en la suspensión condicional del proceso a prueba, se señalará, a quien resulte responsable de la ejecución, las modalidades que con la medida o condición se habrán de cumplir, así como la periodicidad con la que deberá informar de dichas modalidades a la Unidad de Reinserción.
+En caso de ser una Institución determinada la que se queda al cuidado del imputado, la unidad competente en medidas cautelares y salidas alternas, solicitará informe periódico mediante oficio o, en su caso, personal de dicha unidad se constituirá en la Institución que lo tenga a su cargo a fin de verificar los avances.
 
-#### SECCIÓN 6. ARRAIGO DOMICILIARIO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN 6. RESGUARDO DOMICILIARIO
+
+(NOTA: EL 16 DE MAYO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO NOVENO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 2/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS A LA FECHA EN QUE ENTRÓ EN VIGOR EL DECRETO PUBLICADO EL DIEZ DE DICIEMBRE DE DOS MIL CATORCE, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 27.
 
-Arraigo Domiciliario sin vigilancia.
+Resguardo en su propio domicilio con las modalidades que el Juez disponga.
 
-Cuando se decrete el Arraigo Domiciliario sin vigilancia, el Juez de control establecerá el lugar en donde habrá de cumplirse. El Juez de Control comunicará en su resolución el tiempo por el que habrá de mantenerse la medida y, en su caso, las condiciones particulares de su cumplimiento.
+Cuando el Juzgador decrete la presente medida, establecerá el lugar, tiempo y las condiciones particulares bajo las cuales deberá de cumplirse; por lo que la unidad competente en medidas cautelares y salidas alternas, realizara la supervisión de acuerdo a lo ordenado por la autoridad judicial.
 
 ###### Artículo 28.
 
 (DEROGADO, P.O. 26 DE MARZO DE 2014)
 
-#### SECCIÓN 7. PROHIBICIÓN DE ACUDIR A DETERMINADAS REUNIONES, O DE VISITAR CIERTOS LUGARES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN 7. PROHIBICIÓN DE CONCURRIR A DETERMINADAS REUNIONES, O ACERCARSE A CIERTOS LUGARES
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 29.
 
-Ejecución de la medida.
+Coordinación y supervisión de la medida.
 
-Al determinarse la prohibición de acudir a determinadas reuniones o de visitar ciertos lugares, se comunicará la resolución a las policías municipales y en su defecto a la estatal o a otros cuerpos de seguridad pública en el Estado, en su caso, con la finalidad de que sea ejercida la vigilancia pertinente sobre el imputado en el cumplimiento de esa determinación, en la que indicará específicamente las restricciones impuestas.
+Cuando esta medida sea impuesta, la unidad competente en medidas cautelares y salidas alternas remitirá oficio a la Comisión Estatal de Seguridad Pública, a efecto de informar sobre esta medida, para que en caso de tener algún reporte sobre la violación del imputado a la restricción impuesta, informe inmediatamente a la primera, para que esta (sic) su vez realice el reporte correspondiente.
 
-La autoridad ejecutora informará sobre el cumplimiento de la medida con la periodicidad determinada por la autoridad judicial.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-#### SECCIÓN 8. PROHIBICIÓN DE CONVIVIR, COMUNICARSE O ACERCARSE A PERSONAS DETERMINADAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN 8
+
+PROHIBICIÓN DE CONVIVIR, ACERCARSE O COMUNICARSE CON DETERMINADAS PERSONAS, CON LAS VÍCTIMAS U OFENDIDOS O TESTIGOS, SIEMPRE QUE NO SE AFECTE EL DERECHO DE DEFENSA
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 30.
 
-Ejecución de la medida.
+Coordinación y supervisión de la medida.
 
-Al imponerse la medida de prohibición de convivencia, comunicación o acercamiento a personas determinadas, se aplicará, en lo conducente, lo dispuesto en el artículo anterior.
+Cuando se dicte la presente medida, la unidad competente en medidas cautelares y salidas alternas proporcionará los datos de esta última, a las personas, victimas, ofendidos o testigos, con los que tenga relación la imposición, para que en caso de darse un incumplimiento por parte del imputado informe de inmediato para realizar el reporte de incumplimiento correspondiente.
 
-#### SECCIÓN 1. SEPARACIÓN DEL DOMICILIO
+Se girará oficio a la Comisión Estatal de Seguridad Pública, a efecto de que tengan conocimiento de tal restricción para que, en caso de que les sea reportado un incidente al respecto, se preste el auxilio debido y se realice el reporte respectivo a la unidad competente en medidas cautelares y salidas alternas.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN 9. OTRAS MEDIDAS CAUTELARES
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 30 Bis.
+
+Suspensión temporal en el ejercicio del cargo cuando se atribuye la comisión de un delito a servidores públicos.
+
+La unidad competente en medidas cautelares y salidas alternas girará oficio a la institución a la (sic) se encuentra adscrito el imputado para que el servidor público sea suspendido del cargo de manera inmediata y, una vez hecho esto, remita a la citada unidad la documentación necesaria para acreditar el cumplimiento de la medida impuesta.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 30 Ter.
+
+Suspensión temporal en el ejercicio de una determinada actividad profesional o laboral.
+
+La unidad competente en medidas cautelares y salidas alternas se encargará de girar oficio a la autoridad que faculte al imputado a ejercer una actividad profesional o laboral, a efecto de que suspendan los efectos de la documentación que lo acredite, mientras dure la imposición de la medida cautelar.
 
 ### CAPÍTULO TERCERO. EJECUCIÓN DE MEDIDAS SANCIONADORAS
 
-#### SECCIÓN 2. INTERNAMIENTO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN 1. SEPARACIÓN INMEDIATA DEL DOMICILIO
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 31.
 
-Ejecución de la medida.
+Coordinación y Supervisión de la medida.
 
-Si se decreta la medida cautelar de separación del domicilio del imputado, se comunicará el proveído a las corporaciones municipales y en su defecto a la estatal o a otros cuerpos de Seguridad Pública en el Estado, para su efectivo cumplimiento.
+La unidad competente en medidas cautelares y salidas alternas, mediante los medios idóneos, corroborará el cumplimiento del imputado a tal imposición y durante la vigencia de la imposición verificará su cumplimiento.
 
-#### SECCIÓN 3. OBSERVACIÓN DE BUENA CONDUCTA INDIVIDUAL, FAMILIAR Y SOCIAL
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN 2. INTERNAMIENTO
 
 ###### Artículo 32.
 
-Ejecución de la medida.
+(DEROGADO, P.O. 10 DE DICIEMBRE DE 2014)
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-Al pronunciarse sobre la imposición de medidas cautelares, el Juez de Control podrá decretar el internamiento del imputado en centro de salud u hospital psiquiátrico, cuando su estado de salud así lo amerite. De verificarse lo anterior, se remitirá la resolución a la Secretaría de Salud, que auxiliará a la Unidad de Reinserción en la vigilancia de la medida en centros de salud u hospitales públicos o privados, tomando en cuenta la elección del imputado o de sus representantes, y de acuerdo con las posibilidades económicas del mismo. Durante la ejecución, la Secretaría de Salud informará periódicamente y en su caso podrá opinar sobre la conveniencia de mantener, revisar, sustituir, modificar o cancelar la medida.
+#### SECCIÓN 3. OBSERVACIÓN DE BUENA CONDUCTA INDIVIDUAL, FAMILIAR Y SOCIAL
 
-#### SECCIÓN 4. PROHIBICIÓN DE SALIR DE UN LUGAR DETERMINADO ENTRE CIERTAS HORAS
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 33.
 
-Ejecución de la medida.
+(DEROGADO, P.O. 10 DE DICIEMBRE DE 2014)
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Al determinarse la medida de observación de buena conducta individual, familiar y social, se comunicará la resolución a la Secretaría de Desarrollo Social para que por conducto del Sistema DIF Morelos o las autoridades correspondientes sea ejercida la vigilancia pertinente sobre el imputado en el cumplimiento de esa determinación, realizando las visitas domiciliarias y entrevistas que las autoridades estimen pertinentes. La autoridad ejecutora informará sobre el cumplimiento.
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-#### SECCIÓN 5. PRISIÓN PREVENTIVA
+#### SECCIÓN 4. PROHIBICIÓN DE SALIR DE UN LUGAR DETERMINADO ENTRE CIERTAS HORAS
 
 ###### Artículo 34.
 
-Ejecución de la medida.
+(DEROGADO, P.O. 10 DE DICIEMBRE DE 2014)
 
-Al determinarse la medida de prohibición de salir de un lugar determinado entre ciertas horas del día o la noche, se comunicará la resolución a las policías municipales y en su defecto a la estatal o a otros cuerpos de seguridad pública en el Estado, en su caso, con la finalidad de que sea ejercida la vigilancia pertinente sobre el imputado en el cumplimiento de esa determinación, en la que indicará específicamente las restricciones impuestas. La autoridad ejecutora informará sobre el cumplimiento de la medida con la periodicidad determinada por la autoridad judicial.
-
-#### SECCIÓN 1. DISPOSICIONES GENERALES
+#### SECCIÓN 5. PRISIÓN PREVENTIVA
 
 ###### Artículo 35.
 
@@ -571,87 +637,103 @@ Serán aplicables para el cumplimiento de la prisión preventiva, en lo conducen
 
 ### CAPÍTULO CUARTO. EJECUCIÓN DE LAS MEDIDAS CAUTELARES DE CARÁCTER REAL
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 41.
 
-Embargo precautorio.
+El embargo de bienes.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+Cuando durante el procedimiento el Juez de control haya impuesto la medida cautelar de embargo precautorio de bienes para la restitución de los derechos de la víctima, esta se podrá hacer en cualquiera de las formas previstas en el Código Federal de Procedimientos Civiles.
 
-Al decretarse la medida cautelar de embargo precautorio, se remitirá la resolución a la Secretaría de Hacienda, para los efectos del Capítulo Quinto del Título VII, del Código de Procedimientos Penales del Estado de Morelos, publicado el 22 de noviembre de 2007.
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 41 Bis.
+
+Inmovilización de cuentas y demás valores que se encuentren dentro del sistema financiero en cualquiera de las formas previstas en el Código Federal de Procedimientos Civiles.
+
+Una vez impuesta la presente medida cautelar, en el supuesto que el Juez ordene la inmovilización de cuentas y demás valores, refiera la cuenta e institución bancaria o de valores correspondiente, la unidad competente en medidas cautelares y salidas alternas girará oficio a tal institución, haciendo del conocimiento la orden judicial decretada para que se dé cumplimiento a la misma, debiendo acreditar ante dicha unidad, de manera oficial, que se han realizado los movimientos respectivos de forma inmediata.
 
 ### CAPÍTULO QUINTO. EJECUCIÓN DE LAS CONDICIONES DURANTE LA SUSPENSIÓN CONDICIONAL DEL PROCESO
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 42.
 
 Coordinación para la ejecución y vigilancia de las condiciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2013)</small>
+La Unidad de Reinserción Social, a través de la unidad competente en medidas cautelares y salidas alternas, previo mandato judicial, será la encargada de supervisar, coordinar y vigilar el cumplimiento de las obligaciones impuesta (sic) en la suspensión condicional del proceso a prueba.
 
-La coordinación interinstitucional para la ejecución y vigilancia de las condiciones por cumplir, durante la suspensión del proceso a prueba, en los términos del Código de Procedimientos Penales referido en el artículo precedente, se llevará a cabo de la siguiente manera:
+La unidad competente en medidas cautelares y salidas alternas, en caso de ser necesario, podrá canalizar a los imputados a instituciones públicas u organizaciones civiles, para que den cumplimiento cabal a sus obligaciones.
 
-I.- Residir en un lugar determinado.- Se sujetará a las disposiciones de ejecución de la medida cautelar de prohibición de salir del ámbito territorial que fije el Juez de Control;
+La coordinación y supervisión de las condiciones se darán de la siguiente manera:
 
-II.- Frecuentar o dejar de frecuentar determinados lugares o personas.- Se sujetará a las disposiciones de ejecución de las medidas cautelares de prohibición de concurrir a determinadas reuniones o de visitar ciertos lugares y de convivir o comunicarse con personas determinadas;
+I. Residir en un lugar determinado.- El supervisor de la unidad competente, requerirá al imputado comprobante de domicilio, carta de residencia o cualquier otro documento con el que acredite habitar en el lugar que le fue impuesto; realizará visita al lugar para verificar la existencia y programará en su agenda diversas fechas a fin de constituirse en el lugar, para corroborar que esté dando cumplimiento a la obligación que le fue impuesta; en general realizará todas las actividades que considere necesarias para verificar el cumplimiento;
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
+II. Frecuentar o dejar de frecuentar determinados lugares o personas.- Se sujetará a las disposiciones de ejecución de las medidas cautelares de prohibición de concurrir a determinadas reuniones o de acercarse ciertos lugares y de convivir o comunicarse con personas determinadas;
 
-III.- Abstenerse de consumir drogas o estupefacientes o de abusar de las bebidas alcohólicas.- Quedará sujeta a la revisión de la Unidad de Reinserción con el auxilio de la Secretaría de Salud, la que por conducto de las instituciones correspondientes, y a solicitud de la Unidad de Reinserción, practicará periódicamente exámenes, evaluaciones u otro tipo de procedimientos de demostración, informando oportunamente de ello, para los efectos procesales conducentes;
+III. Abstenerse de consumir drogas o estupefacientes o de abusar de las bebidas alcohólicas.- Quedará sujeta a la revisión de la Unidad de Reinserción con el auxilio de la Secretaría de Salud, la que por conducto de las instituciones correspondientes y, a solicitud de la Unidad de Reinserción, practicará periódicamente exámenes, evaluaciones u otro tipo de procedimientos de demostración, informando oportunamente de ello, para los efectos procesales conducentes;
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
+IV. Participar en programas especiales para la prevención y el tratamiento de adicciones.- Quedará sujeta a la revisión por parte de la unidad competente en medidas cautelares y salidas alternas con el auxilio de la Secretaría de Salud del Poder Ejecutivo Estatal, que incorporará al imputado para su participación en dichos programas, informando sobre su cumplimiento o, en su caso, podrá canalizarlo a organizaciones de la sociedad civil que presten este servicio de manera gratuita;
 
-IV.- Participar en programas especiales para la prevención y tratamiento de adicciones.- Quedará sujeta a la revisión por parte de la Unidad de Reinserción con el auxilio de la Secretaría de Salud, que incorporará al imputado para su participación en dichos programas, informando sobre su cumplimiento;
+V. Aprender una profesión u oficio o seguir cursos de capacitación en el lugar o la institución que determine el Juez de control.- En caso de que el juez no determine lugar o institución, el supervisor del caso canalizará al imputado a institución u organización civil en la que pueda dar cumplimiento, se podrá auxiliar de la Secretaría del Trabajo del Poder Ejecutivo Estatal y demás instituciones de gobierno que presten estos servicios a los ciudadanos;
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
+VI. Prestar servicio social a favor del Estado o de instituciones de beneficencia pública.- Quedará sujeta a la revisión de la unidad competente en medidas cautelares y salidas alternas, la que en caso de que el Juez no señale lugar específico, lo canalizará e indicará la institución en la que deba realizarse, el horario en el que se cumplirá, así como las labores que desempeñará. Asimismo, auxiliará en la supervisión en el trabajo del imputado periódicamente, e informará sobre su cumplimiento;
 
-V.- Comenzar o finalizar la escolaridad básica si no la ha cumplido; aprender una profesión u oficio o seguir cursos de capacitación en el lugar o la institución que determine el Juez de Control.- Quedará sujeta a la revisión por parte de la Unidad de Reinserción con el auxilio de la Secretaría de Educación, que dará seguimiento a la incorporación del imputado a alguno de los establecimientos penitenciarios que ofrezcan servicios educativos o de capacitación para el trabajo, informando a la mencionada Unidad sobre los avances programáticos que alcance el imputado, así como de la culminación de los estudios, en su caso;
+VII. Someterse a tratamiento médico o psicológico, de preferencia en instituciones públicas.- El supervisor del caso canalizará al imputado a institución pública u organización civil, que preste el servicio requerido para que el imputado pueda dar cumplimiento a la condición impuesta, dará seguimiento y solicitará los informes necesarios a tales instituciones únicamente respecto al cumplimiento en el tratamiento.
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
+Asimismo, informará a las partes cualquier situación que considere relevante;
 
-VI.- Prestar servicio social a favor del Estado o de instituciones de beneficencia pública o privada.- Quedará sujeta a la revisión de la Unidad de Reinserción con auxilio de la Secretaría de Desarrollo Social, la que inscribirá al imputado en un listado especial de prestadores de servicio y le indicará la institución en la que deba realizarse, el horario en el que se cumplirá, así como las labores que desempeñará. Asimismo, auxiliará en la supervisión en el trabajo del imputado periódicamente, e informará sobre su cumplimiento;
+VIII. Tener un trabajo o empleo, así como adquirir, en el plazo que el Juez de control determine, un oficio, arte, industria o profesión, si no tiene medios propios de subsistencia.- Quedará sujeta a la revisión por parte de la unidad de medidas cautelares con el auxilio de la Secretaría de Educación del Poder Ejecutivo Estatal, informando a la mencionada Unidad sobre los avances programáticos que alcance el imputado, así como de la culminación de los estudios, en su caso. Si la condición consiste en conseguir empleo, se dará intervención a la dependencia de la Secretaría del Trabajo del Poder Ejecutivo Estatal; en general el supervisor podrá realizar todas las acciones necesarias a fin de lograr el cumplimiento a la condición;
 
-VII.- Someterse a tratamiento médico o psicológico, de preferencia en instituciones públicas.- Se sujetará, en lo conducente, a las disposiciones de ejecución de la medida cautelar de internamiento en centro de salud u hospital psiquiátrico;
+IX. Someterse a la vigilancia que determine el Juez de control.- Se sujetará a las disposiciones de ejecución de la medida cautelar de sometimiento al cuidado o vigilancia de una persona o institución determinada que informe regularmente al Juez;
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
+X. No poseer ni portar armas.- Al decretarse esta condición, se dará aviso a los cuerpos de Seguridad Pública en el Estado, para llevar un registro de la condición impuesta, a efecto de que en un evento posterior en el que constate su incumplimiento, se dé aviso al Juez de control para los efectos procesales correspondientes;
 
-VIII.- Permanecer en un trabajo o empleo, o adquirir, en el plazo que el Juez de Control determine, un oficio, arte, industria o profesión, si no tiene medios propios de subsistencia.- Se sujetará, en lo conducente, a lo dispuesto en la fracción V del presente artículo. Si la condición consiste en conseguir empleo, se dará intervención a la dependencia de la Secretaría del Trabajo del Estado;
+XI. No conducir vehículos.- Al imponerse esta condición la unidad competente en medidas cautelares y salidas alternas requerirá al imputado la entrega de su licencia de manejo, misma que quedará bajo resguardo de la unidad competente, hasta en tanto permanezca vigente la condición. Girará oficio a la Secretaria de Movilidad y Transportes del Ejecutivo Estatal, a fin de que se abstenga de expedir licencia de conducir a la persona que se señale e informe en caso de que sea detenido por dicha autoridad manejando algún tipo de vehículo;
 
-IX.- Someterse a la vigilancia que determine el Juez de Control.- Se sujetará a las disposiciones de ejecución de la medida cautelar de sometimiento al cuidado o vigilancia de una persona o institución determinada que informe regularmente al Juez;
+XII. Abstenerse de viajar al extranjero.- Cuando se determine esta restricción, se dará aviso al Instituto Nacional de Migración y se le proporcionarán todos los documentos y requisito (sic) necesarios para que se pueda dar cumplimiento a la medida. El aviso a la autoridad señalada también se realizará en caso de sustitución, modificación o cancelación de la medida;
 
-X.- No poseer ni portar armas.- Al decretarse esta condición, se dará aviso a los cuerpos de Seguridad Pública en el Estado, para llevar un registro de la condición impuesta, a efecto de que en un evento posterior en el que constate su incumplimiento, se dé aviso al Juez de Control para los efectos procesales correspondientes;
+XIII. Cumplir con los deberes de deudor alimentario.- En su cumplimiento, quedará sujeta al aviso que los acreedores alimentarios o sus representantes formulen al Juez de control, y
 
-XI.- Abstenerse de viajar al extranjero.- Se sujetará a las disposiciones de ejecución de la medida cautelar de prohibición de salir del país;
+XIV. Cualquier otra condición que, a consideración del Juez de control, logre una efectiva tutela de los derechos de la víctima.
 
-XII.- Cumplir con los deberes de deudor alimentario.- En su cumplimiento, quedará sujeta al aviso que los acreedores alimentarios o sus representantes formulen al Juez de Control.
+Para fijar las condiciones, el Juez de control podrá disponer que el imputado sea sometido a una evaluación previa. El Ministerio Público, la víctima u ofendido, podrán proponer al Juez de control condiciones a las que consideran debe someterse el imputado.
+
+El Juez de control preguntará al imputado si se obliga a cumplir con las condiciones impuestas y, en su caso, lo prevendrá sobre las consecuencias de su inobservancia.
 
 ### CAPÍTULO SEXTO. DISPOSICIONES COMUNES A LAS MEDIDAS CAUTELARES Y SUSPENSIÓN CONDICIONAL DEL PROCESO A PRUEBA
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 43.
 
 Irregularidades o incumplimiento de las medidas.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+La unidad competente en medidas cautelares y salidas alternas será la encargada de supervisar el cumplimiento de las medidas cautelares en libertad y las condiciones en la suspensión condicional del proceso a prueba impuestas por el Juez, en la resolución emitida, bajo los lineamientos que establezca para ello y estrictamente durante el tiempo (sic) vigencia.
 
-Si durante el período de cumplimiento de las medidas cautelares o condiciones, la autoridad, persona o institución auxiliar observa o da cuenta de incumplimiento o de cualquier irregularidad, dará aviso inmediato a la Unidad de Reinserción, que a su vez informará al Ministerio Público para los efectos legales procesales.
+La unidad competente en medidas cautelares y salidas alternas, en caso de incumplimiento a las obligaciones impuestas por el Juez, emitirá informe a las partes para hacerles del conocimiento.
+
+También a petición de parte emitirá reportes a las partes respecto del seguimiento realizado por la referida unidad.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 44.
 
 Sustitución, modificación o cancelación de las medidas cautelares o condiciones.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+La unidad competente en medidas cautelares y salidas alternas suspenderá la supervisión de las medidas cautelares o la suspensión condicional del proceso, cuando la autoridad judicial así lo haya determinado.
 
-Cuando se modifiquen, sustituyan o cancelen las medidas cautelares impuestas al imputado, el Juez de Control informará a la Unidad de Reinserción dicha determinación, así como de la revocación o cesación provisional de los efectos de la suspensión del proceso a prueba, en su caso.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 45.
 
 Coordinación de comunicaciones.
 
-La comunicación entre el Ministerio Público y la Defensa y las autoridades señaladas como auxiliares, salvo disposición en contrario, se llevará a cabo por conducto de la Unidad de Reinserción, quien además llevará un registro general sobre las medidas cautelares y condiciones decretadas, la sustitución, modificación o cancelación de las primeras, así como de la revocación o cesación provisional de las segundas.
+La comunicación entre el Ministerio Público, la defensa y las autoridades señaladas como auxiliares, salvo disposición en contrario, se llevará a cabo por conducto de la unidad competente en medidas cautelares y salidas alternas, dependiente de la Unidad de Reinserción Social, quien además contará con una base de datos sobre el seguimiento de las medidas cautelares y condiciones decretadas, la sustitución, modificación o cancelación de las primeras, así como de la revocación o cesación provisional de las segundas.
 
 ### CAPÍTULO SÉPTIMO. DE LA EJECUCIÓN DE LAS PENAS Y MEDIDAS DE SEGURIDAD
 
-#### SECCIÓN 2. LA PENA DE PRISIÓN
+#### SECCIÓN 1. DISPOSICIONES GENERALES
 
 ###### Artículo 46.
 
@@ -669,7 +751,7 @@ b) Si el sentenciado estuviere en libertad, ordenar inmediatamente su aprehensi�
 
 II.- Tratándose de penas alternativas a la privativa de la libertad, remitir copia de la sentencia a la Unidad de Reinserción, a efecto de que ésta se coordine, en los términos de la presente Ley, con la institución encargada de su ejecución.
 
-#### SECCIÓN 3. MODALIDADES A LA PENA DE PRISIÓN
+#### SECCIÓN 2. LA PENA DE PRISIÓN
 
 ###### Artículo 47.
 
@@ -711,7 +793,7 @@ II.- Cuando el sentenciado reporte diversas penas por delitos cometidos antes de
 
 III.- Si el sentenciado estuvo sujeto de forma simultánea a dos o más procesos por la comisión de diversos delitos, fuera de los supuestos de concurso real o ideal, y en tales casos se haya dictado prisión preventiva y luego sentencia condenatoria, el tiempo que se cumplió con dicha medida cautelar se computará para el descuento de cada una de las penas de prisión impuestas.
 
-#### SECCIÓN 4. PENA DE CONFINAMIENTO
+#### SECCIÓN 3. MODALIDADES A LA PENA DE PRISIÓN
 
 ###### Artículo 52.
 
@@ -779,7 +861,7 @@ I.- Tendrá lugar desde las ocho, hasta las veinte horas del día siguiente, y
 
 II.- Su cumplimiento quedará sujeto a las disposiciones previstas en las fracciones II, III, IV y V del artículo 53 de la presente Ley.
 
-#### SECCIÓN 1. EL TRATAMIENTO PRELIBERACIONAL
+#### SECCIÓN 4. PENA DE CONFINAMIENTO
 
 ###### Artículo 57.
 
@@ -789,7 +871,7 @@ Previos los estudios especializados, y en los términos de los convenios de coor
 
 ### CAPÍTULO OCTAVO. DE LA LIBERTAD ANTICIPADA
 
-#### SECCIÓN 2. DE LA LIBERTAD PREPARATORIA
+#### SECCIÓN 1. EL TRATAMIENTO PRELIBERACIONAL
 
 ###### Artículo 58.
 
@@ -835,7 +917,7 @@ a) Salida diaria a trabajar o estudiar con reclusión nocturna y salida los sáb
 
 b) Reclusión los sábados y domingos para tratamiento técnico.
 
-#### SECCIÓN 3. DE LA REMISIÓN PARCIAL DE LA PENA
+#### SECCIÓN 2. DE LA LIBERTAD PREPARATORIA
 
 ###### Artículo 61.
 
@@ -851,11 +933,13 @@ III.- Que adopte en el plazo que en la resolución respectiva determine el Juez,
 
 IV.- Que haya reparado el daño causado.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 62.
 
 Improcedencia del beneficio.
 
-La libertad preparatoria no se concederá al sentenciado por los delitos calificados como graves señalados en el Código de Procedimientos Penales, ni en los casos de sentenciados que incurran reincidencia de delito doloso, o sean considerados delincuentes habituales.
+La libertad preparatoria no se concederá al sentenciado por los delitos calificados como graves señalados en el Código Nacional, ni en los casos de sentenciados que incurran (sic) reincidencia de delito doloso, o sean considerados delincuentes habituales.
 
 ###### Artículo 63.
 
@@ -907,7 +991,7 @@ Vigilancia.
 
 Los sentenciados que disfruten de la libertad preparatoria estarán sujetos a la vigilancia de la Unidad de Reinserción, por el tiempo que les falte para extinguir su sanción.
 
-#### SECCIÓN 4. DEL PROCEDIMIENTO PARA LA CONCESIÓN DE LIBERTAD ANTICIPADA
+#### SECCIÓN 3. DE LA REMISIÓN PARCIAL DE LA PENA
 
 ###### Artículo 67.
 
@@ -931,7 +1015,7 @@ Solicitud del beneficio.
 
 Presentada la solicitud del interesado para la remisión parcial de la pena, se abrirá el procedimiento respectivo.
 
-#### SECCIÓN 1. SUSTITUTIVOS PENALES
+#### SECCIÓN 4. DEL PROCEDIMIENTO PARA LA CONCESIÓN DE LIBERTAD ANTICIPADA
 
 ###### Artículo 69.
 
@@ -989,7 +1073,7 @@ Para ejercer la vigilancia, la Unidad de Reinserción está facultada para imple
 
 ### CAPÍTULO NOVENO. DE LOS SUSTITUTIVOS PENALES Y LA CONDENA CONDICIONAL
 
-#### SECCIÓN 2. CONDENA CONDICIONAL
+#### SECCIÓN 1. SUSTITUTIVOS PENALES
 
 ###### Artículo 75.
 
@@ -1021,7 +1105,7 @@ De la Multa.
 
 La multa consiste en el pago al Estado de una suma en dinero, que se fijará por unidades en días multa. El mínimo será de veinte y el máximo de veinte mil. El día multa equivale a la percepción neta diaria del sentenciado, considerando todos sus ingresos en el momento de la consumación del delito.
 
-#### SECCIÓN 1. CUMPLIMIENTO DE SENTENCIA
+#### SECCIÓN 2. CONDENA CONDICIONAL
 
 ###### Artículo 80.
 
@@ -1075,7 +1159,7 @@ El sentenciado que considere que al dictarse a sentencia, en la que no hubo pron
 
 ### CAPÍTULO DÉCIMO. LIBERTAD DEFINITIVA
 
-#### SECCIÓN 2. INDULTO
+#### SECCIÓN 1. CUMPLIMIENTO DE SENTENCIA
 
 ###### Artículo 87.
 
@@ -1097,7 +1181,7 @@ Constancia de salida.
 
 Al quedar en libertad definitiva una persona, el Juez de Ejecución de Sanciones le entregará una constancia de la legalidad de su salida, de la conducta observada durante su reclusión y de sus aptitudes para el trabajo, en relación con la información proporcionada por la Unidad de Reinserción. La elaboración y entrega de dicha constancia no deberá de retardar el acto de liberación del imputado o sentenciado.
 
-#### SECCIÓN 1. REPARACIÓN DEL DAÑO
+#### SECCIÓN 2. INDULTO
 
 ###### Artículo 90.
 
@@ -1127,13 +1211,15 @@ Todas las resoluciones que concedan un indulto se publicarán en el Periódico O
 
 ### CAPÍTULO DÉCIMO PRMERO (SIC). DE LA REPARACIÓN DEL DAÑO Y LA MULTA
 
-#### SECCIÓN 2. MULTA
+#### SECCIÓN 1. REPARACIÓN DEL DAÑO
 
 ###### Artículo 94.
 
 Ejecución.
 
-Al haberse indicado la forma de dar cumplimiento al pago de la reparación del daño, en términos de los artículos 36 al 42 del Código Penal y relativos del Código de Procedimientos Penales, se enviará constancia de la sentencia firme al Juez de Ejecución de Sanciones, para llevar a cabo el seguimiento correspondiente, de conformidad con lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+Al haberse indicado la forma de dar cumplimiento al pago de la reparación del daño, en términos de los artículos 36 al 42 del Código Penal y relativos del Código, se enviará constancia de la sentencia firme al Juez de Ejecución de Sanciones, para llevar a cabo el seguimiento correspondiente, de conformidad con lo siguiente:
 
 > <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
 
@@ -1149,7 +1235,7 @@ IV.- Tratándose del delito de despojo, cuando la autoridad judicial haya ordena
 
 En caso de negativa a restituirlo, el Juez de Ejecución de Sanciones ordenará se ponga en posesión material del inmueble a la víctima u ofendido o su representante, utilizando la fuerza pública necesaria para la ejecución y cumplimiento de la sentencia.
 
-#### SECCIÓN 1. DE LA SUPERVISIÓN DE LA AUTORIDAD
+#### SECCIÓN 2. MULTA
 
 ###### Artículo 95.
 
@@ -1163,7 +1249,7 @@ II.- Si dentro del plazo concedido, el sentenciado demuestra que carece de recur
 
 ### CAPÍTULO DÉCIMO SEGUNDO. MEDIDAS DE SEGURIDAD
 
-#### SECCIÓN 2. TRATAMIENTO DE INIMPUTABLES
+#### SECCIÓN 1. DE LA SUPERVISIÓN DE LA AUTORIDAD
 
 ###### Artículo 96.
 
@@ -1173,7 +1259,7 @@ De la supervisión de la autoridad.
 
 La supervisión de la autoridad se llevará a cabo mediante la orientación de la conducta del sentenciado, ejercida por la Unidad de Reinserción con el apoyo en su caso, de las autoridades auxiliares, con la finalidad de coadyuvar a la reinserción social del sentenciado y a la protección de la comunidad o las víctimas u ofendidos del delito. La autoridad judicial deberá disponer esta supervisión cuando en la sentencia se imponga una sanción que restrinja la libertad o derechos del sentenciado; sustituya la privación de libertad por otra sanción; conceda la condena condicional, y en los demás casos en los que la ley o la propia sentencia disponga. Su duración no deberá exceder de la correspondiente a la pena o medida de seguridad impuesta.
 
-#### SECCIÓN 3. TRATAMIENTO DE DESHABITUACIÓN O DESINTOXICACIÓN
+#### SECCIÓN 2. TRATAMIENTO DE INIMPUTABLES
 
 ###### Artículo 97.
 
@@ -1189,7 +1275,7 @@ Modificación o conclusión de la medida.
 
 El juez de Ejecución de Sanciones, podrá resolver sobre la modificación o conclusión de la medida, considerando las necesidades del tratamiento, que se acreditará mediante los informes rendidos por la institución encargada de la persona inimputable, según las características del caso.
 
-#### SECCIÓN 1. FINALIDAD DE LAS MEDIDAS CAUTELARES
+#### SECCIÓN 3. TRATAMIENTO DE DESHABITUACIÓN O DESINTOXICACIÓN
 
 ###### Artículo 99.
 
@@ -2005,13 +2091,15 @@ Las medidas cautelares se regularán conforme a lo que establezca la Ley de Just
 
 ### CAPÍTULO TERCERO. EJECUCIÓN Y SEGUIMIENTO DE MEDIDAS CAUTELARES PERSONALES
 
-#### SECCIÓN 2. TIPOS DE MEDIDAS CAUTELARES PARA ADOLESCENTES
+#### SECCIÓN 1. FINALIDAD DE LAS MEDIDAS CAUTELARES
 
 ###### Artículo 187.
 
 Finalidad de las medidas cautelares.
 
 La finalidad de las medidas cautelares es, de asegurar la presencia de adolescente durante el proceso o el imputado en el juicio, proteger a la sociedad, víctima y ofendido.
+
+#### SECCIÓN 2. TIPOS DE MEDIDAS CAUTELARES PARA ADOLESCENTES
 
 ###### Artículo 188.
 
@@ -2176,3 +2264,11 @@ TERCERA. Todas las referencias hechas en el marco normativa (sic) estatal, respe
 CUARTA. Las Secretarías de Gobierno, de Administración, de Hacienda y de la Contraloría del Poder Ejecutivo Estatal, deberán tomar las medidas administrativas necesarias para que los recursos humanos, presupuestarios y materiales asignados a la Secretaría de Seguridad Pública en el Presupuesto de Egresos para el Ejercicio Fiscal comprendido del primero de enero al treinta y uno de diciembre de 2014, se reasignen a la primera para la operación y funcionamiento de la Comisión Estatal de Seguridad Pública y el Órgano Desconcentrado denominado Secretariado Ejecutivo de (sic) Sistema Estatal Seguridad (sic) Pública.
 
 QUINTA. Con la finalidad de dar cumplimiento a lo dispuesto por los artículos Décimo Transitorio y 132, ambos del Código Nacional de Procedimientos Penales, el Secretario de Gobierno del Estado de Morelos, deberá de ejecutar todas y cada una de las acciones tendientes a la capacitación, adiestramiento y profesionalización de los elementos que integran la fuerza pública Estatal, debiendo de garantizar en dichas acciones los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los Derechos Humanos reconocidos en la Constitución Política de los Estado Unidos Mexicanos.
+
+P.O. 10 DE DICIEMBRE DE 2014.
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. Una vez emitida la Declaratoria de entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de Morelos, que emita el Congreso del Estado, quedarán abrogados el Código de Procedimientos Penales en el Estado Libre y Soberano de Morelos, publicado en el Periódico Oficial número 1180, segunda sección de fecha treinta y uno de marzo de mil novecientos cuarenta y seis, el Código de Procedimientos Penales para el Estado de Morelos, publicado en el Periódico Oficial número 3820 tercera sección el día nueve de octubre de mil novecientos noventa y seis y el Código de Procedimientos Penales del Estado de Morelos, aprobado el día trece de noviembre del dos mil siete y publicado en el Periódico Oficial del Gobierno del Estado de Morelos "Tierra y Libertad", número 4570 de fecha veintidós de noviembre del dos mil siete, así mismo, se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+TERCERA. En su caso, las menciones que en otros ordenamientos permanezcan y se hagan de los Códigos de Procedimientos Penales que se abrogan por virtud de la disposición transitoria que antecede, se entenderán referidas al Código Nacional de Procedimientos Penales.
