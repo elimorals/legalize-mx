@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-fomento-y-proteccion-pecuaria-del-estado-de-morelos-8907
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-15"
-last_updated: "2014-03-05"
+last_updated: "2014-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89073&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE FOMENTO Y PROTECCIÓN PECUARIA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 15 de agosto de 2012.
 
@@ -235,7 +235,9 @@ III. La Secretaría de Hacienda, del Gobierno del Estado.
 
 IV. La Secretaría de Salud, del Gobierno del Estado;
 
-V. Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+V. Fiscalía General del Estado de Morelos;
 
 VI. Los Ayuntamientos Constitucionales del Estado;
 
@@ -1071,6 +1073,14 @@ A fin de evitar la transmisión de brucelosis y tuberculosis al ser humano, con 
 
 El abastecimiento de carne deberá provenir de un centro de sacrificio autorizado por autoridad competente y contar con su respectivo sello de inspección sanitaria. En el caso de productos cárnicos se estará a la normatividad aplicable.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 143 Bis.
+
+Desde el momento en que se aprecien síntomas de enfermedad en los animales o cuando se sujeten a tratamiento con medicamentos, deberán seguir las medidas zoosanitarias correspondientes y se procederá a separarlo de los demás animales hasta que se dictamine sano en los términos de la normatividad aplicable, así como haya trascurrido el periodo de eliminación de los fármacos, conforme a la dosificación, tiempo de tratamiento y las instrucciones de las etiquetas del mismo, para asegurar la excreción de dichas sustancias y el completo restablecimiento del animal.
+
+En caso de que el animal no obtenga el Certificado Zoosanitario, deberá sacrificarse por separado y su carne no deberá destinarse para el consumo humano.
+
 ###### Artículo 144.
 
 La compraventa de productos veterinarios, químicos, farmacéuticos y biológicos para consumo y uso de los animales en el Estado, deberán estar autorizados por la autoridad federal competente, en términos de las Normas Oficiales Mexicanas.
@@ -1532,3 +1542,27 @@ P.O. 5 DE MARZO DE 2014.
 PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de Difusión del Gobierno del Estado de Morelos.
+
+P.O. 10 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO MIL OCHOCIENTOS SETENTA.- POR EL QUE SE ADICIONA EL ARTÍCULO 143 BIS.
+
+PRIMERO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el articulo 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 10 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO MIL OCHOCIENTOS SETENTA Y TRES.- POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 7.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión oficial del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan aquellas disposiciones de igual o menor rango que se opongan al contenido del presente Decreto.
