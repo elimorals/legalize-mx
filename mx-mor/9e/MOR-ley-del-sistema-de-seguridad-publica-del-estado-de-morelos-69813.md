@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-sistema-de-seguridad-publica-del-estado-de-morelos-6981
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-24"
-last_updated: "2014-03-26"
+last_updated: "2014-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el lunes 24 de agosto de 2009.
 
@@ -363,7 +363,7 @@ VII. Solicitar a través del Secretario Ejecutivo, cualquier tipo de informació
 
 En cada Sesión Ordinaria del Consejo Estatal, las Instituciones de Seguridad Pública entregarán con cinco días de anticipación, un informe actualizado que deberá contener datos precisos que permitan medir su desempeño, sobre lo siguiente:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 I. Comisión Estatal de Seguridad Pública:
 
@@ -373,29 +373,17 @@ b) Estadística de los operativos implementados en el Estado, así como los resu
 
 c) Estadística de las puestas a disposición realizadas ante las autoridades competentes;
 
-d) Estadística de los asuntos en los que ha participado en la investigación de delitos o conductas antisociales bajo la dirección del ministerio público y los resultados obtenidos de la misma;
+d) Estadística de los asuntos en los que ha participado en la investigación de delitos o conductas antisociales bajo la dirección del Ministerio Público y los resultados obtenidos de la misma;
 
-e) Estadística de las audiencias en las que se ha rendido testimonio sobre las actuaciones e investigaciones policiales y valor probatorio otorgado mediante resolución recaída con posterioridad a la comparecencia;
+e) Estadística de las audiencias en las que se ha rendido testimonio sobre las actuaciones e investigaciones policiales;
 
 f) Estadística del nivel promedio de educación de elementos policiales, mandos medios y superiores;
 
 g) Acciones implementadas en materia de Prevención del Delito y cumplimiento de programas y metas;
 
-h) Indicadores de reinserción social;
+h) En su caso, aquellas medidas que en lo general se hayan adoptado para el mejor desempeño de la Institución y en beneficio de la ciudadanía, y
 
-i) Nivel de atención a las familias de los internos;
-
-j) Calidad de los tratamientos encaminados a la reinserción social y reintegración social y familiar del adolescente;
-
-k) Indicadores de hacinamiento de internos;
-
-l) Resultados de la educación de los internos;
-
-m) Resultados del trabajo desempeñado por los internos;
-
-n) En su caso, aquellas medidas que en lo general se hayan adoptado para el mejor desempeño de la Institución y en beneficio de la ciudadanía;
-
-o) Cualquier otra información que para sus fines requiera el Consejo Estatal y el Secretariado Ejecutivo;
+i) Cualquier otra información que para sus fines requiera el Consejo Estatal y el Secretariado Ejecutivo;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
 
@@ -511,23 +499,23 @@ El órgano desconcentrado estará a cargo del Secretario Ejecutivo; durante sus 
 
 El Secretario Ejecutivo será nombrado y removido libremente por el Secretario y deberá cumplir con los siguientes requisitos:
 
-> <small>(REFORMADA, P.O. 1 DEMARZO DE 2013)</small>
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2013)</small>
 
 I. Ser ciudadano mexicano por nacimiento, que no tenga otra nacionalidad y este en pleno goce de sus derechos civiles y políticos;
 
-> <small>(REFORMADA, P.O. 1 DEMARZO DE 2013)</small>
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2013)</small>
 
 II. Tener más de treinta años de edad;
 
-> <small>(REFORMADA, P.O. 1 DEMARZO DE 2013)</small>
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2013)</small>
 
 III. Contar con título profesional de nivel Licenciatura debidamente registrado;
 
-> <small>(REFORMADA, P.O. 1 DEMARZO DE 2013)</small>
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2013)</small>
 
 IV. Tener reconocida capacidad y probidad; y
 
-> <small>(REFORMADA, P.O. 1 DEMARZO DE 2013)</small>
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2013)</small>
 
 V. No haber sido sentenciado por delito doloso o inhabilitado como servidor público.
 
@@ -611,13 +599,13 @@ Estos buzones independientemente de instalarse en las instituciones de seguridad
 
 ###### Artículo 26.
 
-Cuando para (sic) el cumplimiento de la función de Seguridad Pública, será necesaria la participación de dos o más entidades federativas o municipios, se establecerán consejos regionales de coordinación, con carácter temporal o permanente en los que participarán las instituciones de seguridad pública correspondientes.
+Cuando para el cumplimiento de la función de Seguridad Pública, será necesaria la participación de dos o más entidades federativas o municipios, se establecerán consejos regionales de coordinación, con carácter temporal o permanente en los que participarán las instituciones de seguridad pública correspondientes.
 
 En el caso de las zonas conurbadas entre dos o más entidades federativas, se podrán suscribir convenios e instalar consejos regionales con la participación de los municipios respectivos.
 
 Los consejos regionales se organizarán, en lo conducente, de manera similar al Consejo Estatal y se integrarán con los servidores públicos y personas que se determinen en el o los convenios Regionales que les den origen, tendrán las funciones relativas para ser posible la coordinación y los fines de la seguridad pública, en sus ámbitos de competencia.
 
-Los consejos regionales estatales y municipales podrán proponer en el ámbito de sus competencias, al Sistema Estatal, para que éste a su vez lo haga al Nacional, acuerdos, programas específicos y convenios sobre la materia de la coordinación (sic).
+Los consejos regionales estatales y municipales podrán proponer en el ámbito de sus competencias, al Sistema Estatal, para que éste a su vez lo haga al Nacional, acuerdos, programas específicos y convenios sobre la materia de la coordinación.
 
 Los consejos regionales intermunicipales deberán proporcionar cualquier información requerida y notificar de los acuerdos generados al Secretario Ejecutivo, quien será el encargado de coordinar a éstos últimos.
 
@@ -987,15 +975,23 @@ c) La Policía Industrial, Bancaria y Auxiliar;
 
 d) Personal de Seguridad y Custodia de los Centros de Reinserción Social y el de la autoridad encargada de dar seguimiento en las medidas cautelares y medidas impuestas a los adolescentes;
 
-e) La Policía Ministerial;
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+e) La Policía Ministerial, y
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+f) La Policía Especializada en Procesamiento de la Escena del Probable Hecho Delictivo;
 
 II. Municipales:
 
 a) La Policía Preventiva y de Tránsito, con todas las unidades y agrupamientos que prevean sus reglamentos respectivos.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 48.
 
-Las atribuciones de la Policía Preventiva Estatal, Policía Industrial, Bancaria y Auxiliar, y Personal de Seguridad y Custodia de los Centros de Reinserción Social, estarán contenidas en los ordenamientos respectivos, los cuales invariablemente deberán contener las facultades específicas que en materia de prevención, investigación científica, de reacción y custodia sean atribuibles a cada una de ellas.
+Las atribuciones de la Policía Preventiva Estatal, Policía Industrial, Bancaria y Auxiliar, Policía Especializada en Procesamiento de la Escena del Probable Hecho Delictivo y Personal de Seguridad y Custodia de los Centros de Reinserción Social, estarán contenidas en los ordenamientos respectivos, los cuales invariablemente deberán contener las facultades específicas que en materia de prevención, investigación científica, de reacción y custodia sean atribuibles a cada una de ellas.
 
 ###### Artículo 49.
 
@@ -1203,23 +1199,33 @@ En el caso de las instituciones de seguridad pública municipales, la función d
 
 Las unidades de policía encargadas de la investigación científica de los delitos se ubicarán en la estructura orgánica de la Institución de Procuración de Justicia, o bien en las instituciones policiales, o en ambas, mediante acuerdo o decreto expreso del Ejecutivo, y para el desempeño de sus funciones se coordinarán en los términos de la presente ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 72.
 
 El Estado, a través de las instituciones de seguridad pública, establecerá las funciones que realizarán las unidades operativas de investigación que podrán ser, entre otras, las siguientes:
 
-I. Recibir las denuncias sobre hechos que puedan ser constitutivos de delitos, sólo cuando debido a las circunstancias del caso aquéllas no puedan ser formuladas directamente ante el Ministerio Público, al que deberán informar de inmediato, así como de las diligencias practicadas y dejarán de actuar cuando él lo determine;
+I. Recibir las denuncias sobre hechos que puedan ser constitutivos de delitos, e informar inmediatamente al Ministerio Público por cualquier medio, así como hacerle de conocimiento las diligencias practicadas y dejarán de actuar cuando él lo determine;
 
-II. Deberán verificar la información de las denuncias que le sean presentadas cuando éstas no sean lo suficientemente claras o la fuente no esté identificada, e informará al Ministerio Público para que, en su caso, le dé trámite legal o la deseche de plano;
+II. Recibir denuncias anónimas y, de forma inmediata, dar conocimiento al Ministerio Público a efecto de que éste coordine la investigación;
 
 III. Practicar las diligencias necesarias que permitan el esclarecimiento de los delitos y la identidad de los probables responsables, en cumplimiento de los mandatos del Ministerio Público;
 
-IV. Efectuar las detenciones en los casos del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos; Participar en la investigación de los delitos, en la detención de personas y en el aseguramiento de bienes que el Ministerio Público considere se encuentren relacionados con los hechos delictivos, observando las disposiciones constitucionales y legales aplicables; Registrar de inmediato la detención en términos de las disposiciones aplicables, así como remitir sin demora y por cualquier medio la información al Ministerio Público; Poner a disposición de las autoridades competentes, sin demora alguna, a las personas detenidas y los bienes que se encuentren bajo su custodia, observando en todo momento el cumplimiento de los plazos constitucionales y legales establecidos; Proponer al Ministerio Público que requiera a las autoridades competentes, informes y documentos para fines de la investigación, cuando se trate de aquellos que sólo pueda solicitar por conducto de éste;
+IV. Efectuar las detenciones en los casos que autoriza la Constitución, haciendo saber a la persona detenida los derechos que ésta le otorga;
 
-V. Dejar constancia de cada una de sus actuaciones, así como llevar un control y seguimiento de éstas. Durante el curso de la investigación deberán elaborar informes sobre el desarrollo de la misma, y rendirlos al Ministerio Público, sin perjuicio de los informes que éste le requiera;
+V. Participar en la investigación de los delitos, en la detención de personas y en el aseguramiento de bienes que el Ministerio Público considere se encuentren relacionados con los hechos delictivos, observando las disposiciones constitucionales y legales aplicables;
 
-VI. Emitir los informes, partes policiales y demás documentos que se generen, con los requisitos de fondo y forma que establezcan las disposiciones aplicables, para tal efecto se podrán apoyar en los conocimientos que resulten necesarios;
+VI. Registrar de inmediato la detención en términos de las disposiciones aplicables, así como remitir sin demora y por cualquier medio la información al Ministerio Público;
 
-VII. Proporcionar atención a víctimas, ofendidos o testigos del delito; para tal efecto deberá:
+VII. Poner a disposición de las autoridades competentes, sin demora alguna, a las personas detenidas y los bienes que se encuentren bajo su custodia, observando en todo momento el cumplimiento de los plazos constitucionales y legales establecidos;
+
+VIII. Proponer al Ministerio Público que requiera a las autoridades competentes, informes y documentos para fines de la investigación, cuando se trate de aquellos que sólo pueda solicitar por conducto de éste;
+
+IX. Dejar constancia de cada una de sus actuaciones, así como llevar un control y seguimiento de éstas. Durante el curso de la investigación deberán elaborar informes sobre el desarrollo de la misma, y rendirlos al Ministerio Público, sin perjuicio de los informes que éste le requiera;
+
+X. Emitir los informes, partes policiales y demás documentos que se generen, con los requisitos de fondo y forma que establezcan las disposiciones aplicables, para tal efecto se podrán apoyar en los conocimientos que resulten necesarios;
+
+XI. Proporcionar atención a víctimas, ofendidos o testigos del delito; para tal efecto deberá:
 
 a. Prestar protección y auxilio inmediato, de conformidad con las disposiciones legales aplicables;
 
@@ -1227,13 +1233,19 @@ b. Procurar que reciban atención médica y psicológica cuando sea necesaria;
 
 c. Adoptar las medidas que se consideren necesarias tendientes a evitar que se ponga en peligro su integridad física y psicológica, en el ámbito de su competencia;
 
-d. Preservar los indicios y elementos de prueba que la víctima y ofendido aporten en el momento de la intervención policial y remitirlos de inmediato al Ministerio Público encargado del asunto para que éste acuerde lo conducente; y
+d. Preservar los indicios y elementos de prueba que la víctima y ofendido aporten en el momento de la intervención policial y remitirlos de inmediato al Ministerio Público encargado del asunto para que éste acuerde lo conducente, y
 
 e. Asegurar que puedan llevar a cabo la identificación del imputado sin riesgo para ellos.
 
-VIII. Dar cumplimiento a las órdenes de aprehensión y demás mandatos ministeriales y jurisdiccionales de que tenga conocimiento con motivo de sus funciones; y
+XII. Dar cumplimiento a los mandamientos ministeriales y jurisdiccionales que le sean instruidos;
 
-IX. Las demás que le confieran las disposiciones aplicables.
+XIII. Preservar el lugar de los hechos o del hallazgo y en general, realizar todos los actos necesarios para garantizar la integridad de los indicios. En su caso deberá dar aviso a la Policía Especializada en Procesamiento de la Escena del Hecho Delictivo y al Ministerio Público conforme a las disposiciones legales respectivas y a las leyes penales aplicables al caso específico;
+
+XIV. Recolectar y resguardar objetos relacionados con la investigación de los delitos, en los términos de la fracción anterior;
+
+XV. Requerir a las autoridades competentes y solicitar a las personas físicas o morales, informes y documentos para fines de la investigación. En caso de negativa, informará al Ministerio Público para que determine lo conducente, y
+
+XVI. Las demás que le confieran las disposiciones aplicables.
 
 ### CAPÍTULO II. DE LA CARRERA POLICIAL Y PROFESIONALIZACIÓN
 
@@ -1251,31 +1263,45 @@ IV. Instrumentar e impulsar la capacitación y profesionalización permanente de
 
 V. Los demás que establezcan las disposiciones que deriven de la presente ley.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 74.
 
 Las instituciones policiales, establecerán su organización jerárquica, considerando al menos las categorías siguientes:
 
-Inspectores;
+I. Comisarios;
 
-Oficiales, y
+II. Inspectores;
 
-Escala Básica.
+III. Oficiales, y
 
-En la policía ministerial se establecerán al menos niveles jerárquicos equivalentes a las primeras tres fracciones del presente artículo, con las respectivas categorías, conforme al modelo policial previsto en esta Ley.
+IV. Escala Básica.
+
+En la Policía Ministerial se establecerán al menos niveles jerárquicos equivalentes a las primeras tres fracciones del presente artículo, con las respectivas categorías, conforme al modelo policial previsto en esta Ley.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 75.
 
 Las categorías previstas en el artículo anterior considerarán, al menos, las siguientes jerarquías:
 
-Inspectores:
+I. Comisarios:
+
+a) Comisario General;
+
+b) Comisario Jefe, y
+
+c) Comisario.
+
+II. Inspectores:
 
 a) Inspector General;
 
-b) Inspector Jefe; e
+b) Inspector Jefe;
 
 c) Inspector.
 
-Oficiales:
+III. Oficiales:
 
 a) Subinspector;
 
@@ -1283,7 +1309,7 @@ b) Oficial, y
 
 c) Suboficial.
 
-III. Escala Básica:
+IV. Escala Básica:
 
 a) Policía Primero;
 
@@ -1291,7 +1317,7 @@ b) Policía Segundo;
 
 c) Policía Tercero, y
 
-d) Policía
+d) Policía.
 
 ###### Artículo 76.
 
@@ -1301,13 +1327,15 @@ Con base en las categorías jerárquicas señaladas en el artículo precedente, 
 
 Los titulares de las categorías jerárquicas estarán facultados para ejercer la autoridad y mando policial en los diversos cargos o comisiones.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 77.
 
 El orden de las categorías jerárquicas y grados tope del personal de las instituciones policiales con relación a las áreas operativas y de servicios será:
 
-Para las áreas operativas, de policía a Inspector General, y
+a. Para las áreas operativas, de policía a Comisario General, y
 
-Para los servicios, de policía a Inspector Jefe.
+b. Para los servicios, de policía a Comisario Jefe.
 
 ###### Artículo 78.
 
@@ -1683,11 +1711,25 @@ VII. Responder, sobre la ejecución de las órdenes directas que reciba, a un so
 
 VIII. Participar en operativos de coordinación con otras corporaciones policiales, así como brindarles, en su caso, el apoyo que conforme a derecho proceda;
 
-IX. Mantener en buen estado el armamento, material, municiones y equipo que se le asigne con motivo de sus funciones, haciendo uso racional de ellos sólo en el desempeño del servicio;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-Abstenerse de asistir uniformado a bares, cantinas, centros de apuestas o juegos, u otros centros de este tipo, si no media orden expresa para el desempeño de funciones o en casos de flagrancia, y
+IX. Preservar el lugar de los hechos o del hallazgo, cuando sean la primera autoridad policial en conocer del hecho probable delictivo, conforme a los lineamientos, protocolos, manuales y cualquier otro dispositivo legal previstos en las leyes penales;
 
-Las demás que establezcan las disposiciones legales aplicables.
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+X. Recabar los datos e información mediante entrevistas a los testigos, debiendo dar aviso a la Policía Especializada en Procesamiento de la Escena del Hecho Delictivo y al Ministerio Público correspondiente;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+XI. Mantener en buen estado el armamento, material, municiones y equipo que se le asigne con motivo de sus funciones, haciendo uso racional de ellos sólo en el desempeño del servicio;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+XII. Abstenerse de asistir uniformado a bares, cantinas, centros de apuestas o juegos, u otros centros de este tipo, si no media orden expresa para el desempeño de funciones o en casos de flagrancia, y
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+XIII. Las demás que establezcan las disposiciones jurídicas aplicables.
 
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
 
@@ -1745,11 +1787,25 @@ Las instituciones de seguridad pública impondrán las sanciones o correctivos d
 
 Las sanciones y procedimientos de aplicación se especificarán en el reglamento de la presente ley y serán, al menos, las siguientes:
 
-I. Amonestación;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-II. Suspensión, y
+I. Correctivos Disciplinarios:
 
-III. Remoción.
+a. Amonestación, y
+
+b. Arresto el cual no excederá de 36 horas, y
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+II. Sanciones:
+
+a. Cambio de Adscripción;
+
+b. Suspensión temporal de funciones, y
+
+c. Destitución o remoción.
+
+III. (DEROGADA, P.O. 10 DE DICIEMBRE DE 2014)
 
 ### CAPÍTULO II. DE LOS SISTEMAS COMPLEMENTARIOS DE SEGURIDAD SOCIAL Y RECONOCIMIENTOS
 
@@ -1775,7 +1831,9 @@ La Secretaría, en coordinación con el Comisionado Estatal, establecerá y oper
 
 I. Aplicar los procedimientos homologados del Sistema;
 
-II. Capacitar en materia de investigación científica y técnica a los servidores públicos;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+b (sic). Capacitar a los servidores públicos en materia de investigación científica y técnica, recolección y resguardo de objetos relacionados con la investigación de delitos; así como en el rubro de preservación y procesamiento de lugares o de hallazgos probablemente delictivos;
 
 III. Proponer y desarrollar los programas de investigación académica en materia ministerial, pericial y policial, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
 
@@ -1897,7 +1955,7 @@ Artículo 114 bis.- El Gobernador adoptará de inmediato las providencias necesa
 
 > <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2010)</small>
 
-Lo anterior independientemente y sin perjuicio de las pretensiones o acciones que correspondan a los afectados, de conformidad con lo dispuesto por el Artículo 113 Segundo (sic) párrafo de la Constitución Política de los Estados Unidos Mexicanos.
+Lo anterior independientemente y sin perjuicio de las pretensiones o acciones que correspondan a los afectados, de conformidad con lo dispuesto por el Artículo 113 Segundo párrafo de la Constitución Política de los Estados Unidos Mexicanos.
 
 ### CAPÍTULO II. DE LA PARTICIPACIÓN DE LA SOCIEDAD
 
@@ -2041,7 +2099,7 @@ Las policías preventivas estatales y municipales podrán desarrollar operativos
 
 > <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
-###### Articulo 130-A.
+###### Artículo 130-A.
 
 Con el objeto de establecer el Sistema de Prevención, Combate, Protección, Atención y Asistencia a las Víctimas del delito indicado por el artículo 148 bis del Código Penal vigente en la entidad, garantizándoles a éstas el respeto a su derecho a la libertad y la dignidad o de quienes podrían convertirse en víctimas, trátese de residentes o trasladadas al territorio del estado de Morelos, las autoridades que constituyen al Consejo Estatal de Seguridad Pública en términos del artículo 9 de la presente Ley, en el ámbito de sus respectivas atribuciones tienen la obligación de coordinarse para perseguir el delito de trata de personas, realizando las investigaciones y acciones necesarias para sancionar a los responsables, brindar atención y protección a los sujetos pasivos y, fundamentalmente, para prevenir la comisión del delito mediante el desarrollo de programas y acciones permanentes.
 
@@ -2053,7 +2111,7 @@ El Consejo Estatal de Seguridad Pública, conformará en los términos del artí
 
 (ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2011) (REFORMADA SU NUMERACIÓN [N. DE E. ANTES ARTÍCULO 131-C], P.O. 26 DE MARZO DE 2014)
 
-###### Articulo 130-C.
+###### Artículo 130-C.
 
 En la conformación de esta Comisión, el Consejo Estatal deberá garantizar que la misma contará con los representantes de las dependencias de la administración pública estatal, del Congreso del Estado y del Tribunal Superior de Justicia y de los especialistas, académicos y representes de la sociedad, suficientes para cumplir con los cometidos siguientes:
 
@@ -2341,13 +2399,13 @@ Para el acceso del público en general el principio que prevalecerá es que todo
 
 El Estado administrara la información de las bases de datos estatal y municipal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 147.
 
 El Secretario Ejecutivo, con la información que le proporcione la Comisión Estatal de Seguridad Pública, deberá presentar al Consejo Estatal en forma trimestral, un informe estadístico delincuencial con los siguientes aspectos:
 
-I. Incidencias delictivas en faltas Administrativas;
+I. Incidencias delictivas en faltas administrativas;
 
 II. Incidencia de delitos denunciados del fuero común en general;
 
@@ -2357,35 +2415,21 @@ IV. Incidencia de delitos denunciados del fuero común en general por municipio;
 
 V. Incidencia por cada tipo de delito del fuero común por municipio;
 
-VI. Número de averiguaciones previas consignadas con detenido y sin detenido. Y carpetas de investigación vinculadas a proceso, prisión preventiva o medida cautelar;
+VI. Número de averiguaciones previas consignadas con detenido y sin detenido por cada tipo de delito, así como carpetas de investigación vinculadas a proceso sin detenido y por cada tipo de delito;
 
-VII. Número de averiguaciones previas consignadas con detenido y sin detenido por cada tipo de delito, así como carpetas de investigación vinculadas a proceso sin detenido y por cada tipo de delito;
+VII. Número de averiguaciones previas y carpetas de investigación remitidas a la reserva;
 
-VIII. Número de averiguaciones previas y carpetas de investigación remitidas a la reserva;
+VIII. Número de órdenes de aprehensión solicitadas, obsequiadas, ejecutadas, canceladas y pendientes de ejecución;
 
-IX. Número de carpetas de investigación aprobadas para no ejercicio de la acción penal;
+IX. Adolescentes presentados ante el Ministerio Público; libertadas (sic), sujetos a proceso o medidas cautelares;
 
-X. Carpetas de investigación resueltas por Justicia Alternativa cuantos conoció y cuantos se resolvieron favorablemente;
+X. Adolescentes sujetos a medidas cautelares;
 
-XI. Número de órdenes de aprehensión solicitadas, obsequiadas, ejecutadas, canceladas y pendientes de ejecución;
+XI. Antecedentes y series históricas de los conceptos antes expuestos;
 
-XII. Número de presuntos responsables presentados a los jueces a los cuales se dictó formal prisión o liberación, así como vinculación o no vinculación y de los primeros, número de aquellos que obtuvieron libertad provisional o fueron ingresados a los centros de reinserción social;
+XII. Número de Denuncias Anónimas denunciadas al 089, y
 
-XIII. Sentencias absolutorias o condenatorias dictadas por los jueces penales del fuero común;
-
-XIV. Adolescentes presentados ante el Ministerio Público; libertadas, sujetos a proceso o medidas Cautelares;
-
-XV. Adolescentes remitidos ante el Tribunal Unitario de Justicia para Adolescentes;
-
-XVI. Adolescentes remitidos a la Dirección General de Ejecución de Medidas para Adolescentes y tipo de programa individualizado de ejecución de medida sancionadora, determinada por la unidad de atención integral de la dirección;
-
-XVII. Adolescentes sujetos a medidas cautelares;
-
-XVIII. Antecedentes y series históricas de los conceptos antes expuestos;
-
-XIX. Número de Denuncias Anónimas denunciadas al 089; y
-
-XX. Reporte del seguimiento de Denuncias Anónimas captadas por el 089, de emergencias 066 y/o por cualquier otro medio que se hagan presente estas.
+XIII. Reporte del seguimiento de Denuncias Anónimas captadas por el 089, de emergencias 066 y por cualquier otro medio que se hagan presente (sic) estas.
 
 Dicha información podrá ser utilizada para generar indicadores de medición del desempeño de las instituciones de seguridad pública.
 
@@ -2459,45 +2503,73 @@ El incumplimiento de las disposiciones de este capítulo, dará lugar a que la p
 
 ### CAPÍTULO I. DE LA REMOCION POLICIAL
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 159.
 
-Será causa de remoción sin indemnización, previo desahogo del procedimiento establecido en esta Ley, para los elementos de las instituciones de seguridad pública y sus auxiliares:
+Serán causas justificadas de remoción, sin responsabilidad para las instituciones de seguridad pública y por consiguiente sin indemnización, previo desahogo del procedimiento establecido en esta Ley, para los elementos de las instituciones de seguridad pública y sus auxiliares:
 
 I. Cometer falta grave a los principios de actuación, deberes y obligaciones previstos en la presente Ley y demás normatividad aplicable, para las instituciones de seguridad pública;
 
-II. Tener más de tres faltas de asistencia, en un período de treinta días sin permiso del Titular de la Dependencia Estatal o Municipal, ó sin causa justificada;
+II. Infligir, tolerar y permitir actos de tortura, sanciones crueles, inhumanas y degradantes, aun cuando se trate de una orden superior o se argumenten circunstancias especiales, tales como amenaza a la seguridad pública, urgencia de las investigaciones o cualquier otra;
 
-III. Abandonar injustificadamente el servicio asignado;
+III. Faltar a sus labores por tres o más días, en un período de treinta días naturales, sin permiso del Titular de la Dependencia Estatal o Municipal o sin causa justificada;
 
-IV. Resolución de autoridad competente que le impida continuar con el desempeño material de su servicio;
+IV. Abandonar injustificadamente el servicio asignado;
 
-V. Incurrir en faltas de probidad y honradez durante el servicio;
+V. Resolución de autoridad competente que le impida continuar con el desempeño material de su servicio;
 
-VI. Portar el arma a su cargo fuera del servicio, ó dentro del mismo, para un fin distinto a la seguridad pública;
+VI. No cumplir con diligencia el servicio que tenga encomendado y abstenerse de cualquier acto u omisión que cause la suspensión o deficiencia de dicho servicio o implique el ejercicio indebido de un empleo, cargo o comisión;
 
-VII. Poner en peligro a los particulares o a otros elementos de las instituciones de seguridad pública a causa de imprudencia, descuido o negligencia;
+VII. Incurrir en faltas de probidad y honradez durante el servicio, o cometer actos inmorales;
 
-VIII. Desacatar injustificadamente las órdenes de sus superiores, siempre y cuando éstas no constituyan la comisión de algún delito;
+VIII. No observar buena conducta, ni respetar la persona y órdenes de sus superiores jerárquicos;
 
-IX. Incumplir en forma reiterada los reglamentos y manuales de procedimientos;
+IX. Portar el arma a su cargo fuera del servicio o dentro del mismo, para un fin distinto a la seguridad pública;
 
-X. Revelar asuntos secretos o reservados de los que tengan conocimiento, sin el consentimiento de su superior jerárquico;
+X. Poner en peligro a los particulares o a otros elementos de las instituciones de seguridad pública a causa de imprudencia, descuido o negligencia;
 
-XI. Presentar por sí o interpósita persona, documentación alterada;
+XI. Asistir a sus labores bajo el influjo de bebidas alcohólicas, sustancias psicotrópicas o estupefacientes o por consumirlas durante el servicio o en su centro de trabajo
 
-XII. Incumplir en forma reiterada con los objetivos y metas programáticas específicas que le correspondan;
+XII. Consumir cualquier tipo de droga, psicotrópico, enervante, estupefaciente fuera o dentro del servicio;
 
-XIII. Aplicar a sus subalternos, en forma dolosa o reiterada, correctivos disciplinarios notoriamente injustificados;
+XIII. No obedecer sistemática e injustificadamente las órdenes que reciba de sus superiores con motivo del servicio que presta;
 
-XIV. Obligar por cualquier motivo a sus subalternos a entregarles dinero o cualquier otro tipo de dádivas;
+XIV. No custodiar y conservar la documentación e información que por razón del cargo o comisión esté a su cuidado o a la cual tenga acceso;
 
-XV. Incumplir la prohibición de no ser socio, propietario o empleado por sí o por interpósita persona de empresas de seguridad;
+XV. Revelar asuntos secretos o reservados de los que tengan conocimiento, sin el consentimiento de su superior jerárquico;
 
-XVI. Negar la información oficial que le sea solicitada por autoridades y órganos públicos autorizados;
+XVI. Presentar por sí o interpósita persona, documentación alterada o falsificada;
 
-XVII. Incurrir en alguna de las prohibiciones, establecidas en la presente ley; y
+XVII. Incumplir en forma reiterada con los objetivos y metas programáticas específicas que le correspondan;
 
-XVIII. Ser declarado responsable en cualquiera de los procesos instaurados en su contra, relativos a las causales contenidas en el presente artículo.
+XVIII. Aplicar a sus subalternos, en forma dolosa o reiterada, correctivos disciplinarios notoriamente injustificados;
+
+XIX. Obligar por cualquier motivo a sus subalternos a entregarles dinero o cualquier otro tipo de dádivas;
+
+XX. Incumplir la prohibición de no ser socio, propietario o empleado por sí o por interpósita persona de empresas de seguridad;
+
+XXI. Negar la información oficial que le sea solicitada por autoridades y órganos públicos autorizados;
+
+XXII. Solicitar, aceptar o recibir por sí o por interpósita persona, en el ejercicio de sus funciones, dinero u objetos, mediante enajenación a su favor, o en precio notoriamente inferior a aquél al que el bien de que se trate tenga en el mercado ordinario, o cualquier donación, empleo, cargo o comisión para sí, o para terceras personas;
+
+XXIII. No acreditar las evaluaciones y exámenes de control de confianza;
+
+XXIV. No atender con diligencia las instrucciones, requerimientos o resoluciones que reciba de otras autoridades o de sus titulares;
+
+XXV. No denunciar por escrito ante la autoridad correspondiente, los actos u omisiones que en ejercicio de sus funciones cometa algún servidor público, que pueda constituir responsabilidad administrativa o de cualquier otra naturaleza, en los términos de esta Ley y otros ordenamientos aplicables;
+
+XXVI. Aprovechar la posición que su cargo o comisión le confiere para inducir a que otro servidor público efectúe, retrase u omita realizar algún acto de su competencia, que le reporte cualquier beneficio, provecho o ventaja para sí, su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el Servidor Público o las personas antes referidas formen o hayan formado parte;
+
+XXVII. Ser condenado a pena de prisión resultado de una sentencia ejecutoriada;
+
+XXVIII. Incurrir en alguna de las prohibiciones, establecidas en la presente ley;
+
+XXIX. Causar intencionalmente daño o destrucción de material, herramientas, vestuario, equipo, vehículos y en general todo aquello propiedad de la corporación, de sus compañeros y demás personal de la misma;
+
+XXX. Ser declarado responsable en cualquiera de los procesos instaurados en su contra, relativos a las causales contenidas en el presente artículo, y
+
+XXXI. Las demás que señalen otros ordenamientos jurídicos aplicables.
 
 ###### Artículo 160.
 
@@ -2639,9 +2711,21 @@ La Fiscalía, la Comisión Estatal de Seguridad Pública y las áreas de Segurid
 
 El Consejo de Honor y Justicia confirmará, modificará o negará la propuesta de sanción, por unanimidad o mayoría simple de sus miembros, respecto de los siguientes asuntos:
 
-I. La suspensión temporal del elemento, y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-II. Los recursos de queja, revisión o rectificación.
+I. La destitución o remoción de la relación administrativa;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+II. La suspensión temporal de funciones;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+III. Cambio de adscripción, y
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+IV. Los recursos de queja y rectificación.
 
 ###### Artículo 177.
 
@@ -2689,9 +2773,11 @@ Las resoluciones que por votación tome el Consejo de Honor y Justicia, causaran
 
 Cuando se imponga suspensión temporal o destitución, se notificará al Sistema Nacional y al Secretariado Ejecutivo, para su control y trámites legales a que haya lugar, su incumplimiento dará lugar a las sanciones previstas por la Ley Estatal de Responsabilidades.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 182.
 
-Para los efectos de práctica de diligencia, audiencia y notificaciones se consideran hábiles todos los días del año de las ocho a las diecinueve horas, excepto sábados y domingos; y tratándose de investigaciones serán hábiles todos los días y horas.
+Para los efectos de práctica de diligencias, audiencias y notificaciones se consideran hábiles todos los días del año de las ocho a las diecinueve horas, excepto los sábados y domingos, y aquellos días señalados en el calendario oficial correspondiente y en los que por disposición gubernamental se suspendan las actividades; y tratándose de la etapa de investigación, serán hábiles todos los días y horas.
 
 ## TÍTULO DÉCIMO SEGUNDO. DE LOS RECURSOS EN EL PROCEDIMIENTO ADMINISTRATIVO
 
@@ -2795,43 +2881,7 @@ Las instituciones de seguridad pública, a través de sus áreas administrativas
 
 ###### Artículo 199.
 
-Son causas justificadas de terminación de la relación administrativa sin responsabilidad para las instituciones de seguridad pública las siguientes:
-
-I. La separación voluntaria o abandono del servicio;
-
-II. Cuando sin causa justificada faltare a sus labores por tres o más días en un período de treinta días;
-
-III. Por incapacidad permanente de la persona, física o mental, que le impida el desempeño de sus labores;
-
-IV. No cumplir con diligencia el servicio que tenga encomendado y abstenerse de cualquier acto u omisión que cause la suspensión o deficiencia de dicho servicio o implique el ejercicio indebido de un empleo, cargo o comisión;
-
-V. No utilizar los recursos humanos y materiales, así como las facultades que estén atribuidas y la información a que tenga acceso por su función, exclusivamente para los fines a que estén destinados;
-
-VI. No custodiar y conservar la documentación e información que por razón del cargo o comisión esté a su cuidado o a la cual tenga acceso;
-
-VII. No observar buena conducta, ni respetar la persona y órdenes de sus superiores jerárquicos;
-
-VIII. Cometer actos inmorales o ingerir bebidas alcohólicas durante el horario de servicio;
-
-IX. Revelar los asuntos secretos o reservados de que tuviere conocimiento con motivo del servicio;
-
-X. No obedecer sistemática e injustificadamente las órdenes que reciba de sus superiores con motivo del servicio que presta;
-
-XI. Acudir a la institución en estado de embriaguez o bajo la influencia de algún psicotrópico o enervante;
-
-XII. Solicitar, aceptar o recibir por sí o por interpósita persona, en el ejercicio de sus funciones, dinero u objetos, mediante enajenación a su favor, o en precio notoriamente inferior a aquél al que el bien de que se trate tenga en el mercado ordinario, o cualquier donación, empleo, cargo o comisión para sí, o para terceras personas;
-
-XIII. No acreditar las evaluaciones y exámenes de control de confianza;
-
-XIV. Ser condenado a pena de prisión resultado de una sentencia ejecutoriada;
-
-XV. No atender con diligencia las instrucciones, requerimientos o resoluciones que reciba de otras autoridades o de sus titulares;
-
-XVI. No denunciar por escrito ante la autoridad correspondiente, los actos u omisiones que en ejercicio de sus funciones cometa algún servidor público, que pueda constituir responsabilidad administrativa o de cualquier otra naturaleza, en los términos de esta Ley y otros ordenamientos aplicables;
-
-XVII. Aprovechar la posición que su cargo o comisión le confiere para inducir a que otro servidor público efectúe, retrase u omita realizar algún acto de su competencia, que le reporte cualquier beneficio, provecho o ventaja para sí, su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el Servidor Público o las personas antes referidas formen o hayan formado parte; y,
-
-XVIII. Las que señalen otros ordenamientos jurídicos aplicables.
+(DEROGADO, P.O. 10 DE DICIEMBRE DE 2014)
 
 ## TÍTULO DÉCIMO CUARTO. DE LA PRESCRIPCIÓN
 
@@ -3046,3 +3096,11 @@ TERCERA. Todas las referencias hechas en el marco normativa estatal, respecto de
 CUARTA. Las Secretarías de Gobierno, de Administración, de Hacienda y de la Contraloría del Poder Ejecutivo Estatal, deberán tomar las medidas administrativas necesarias para que los recursos humanos, presupuestarios y materiales asignados a la Secretaría de Seguridad Pública en el Presupuesto de Egresos para el Ejercicio Fiscal comprendido del primero de enero al treinta y uno de diciembre de 2014, se reasignen a la primera para la operación y funcionamiento de la Comisión Estatal de Seguridad Pública y el Órgano Desconcentrado denominado Secretariado Ejecutivo de Sistema Estatal (sic) Seguridad Pública.
 
 QUINTA. Con la finalidad de dar cumplimiento a lo dispuesto por los artículos Décimo Transitorio y 132, ambos del Código Nacional de Procedimientos Penales, el Secretario de Gobierno del Estado de Morelos, deberá de ejecutar todas y cada una de las acciones tendientes a la capacitación, adiestramiento y profesionalización de los elementos que integran la fuerza pública Estatal, debiendo de garantizar en dichas acciones los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los Derechos Humanos reconocidos en la Constitución Política de los Estado Unidos Mexicanos.
+
+P.O. 10 DE DICIEMBRE DE 2014.
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. Una vez emitida la Declaratoria de entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de Morelos, que emita el Congreso del Estado, quedarán abrogados el Código de Procedimientos Penales en el Estado Libre y Soberano de Morelos, publicado en el Periódico Oficial número 1180, segunda sección de fecha treinta y uno de marzo de mil novecientos cuarenta y seis, el Código de Procedimientos Penales para el Estado de Morelos, publicado en el Periódico Oficial número 3820 tercera sección el día nueve de octubre de mil novecientos noventa y seis y el Código de Procedimientos Penales del Estado de Morelos, aprobado el día trece de noviembre del dos mil siete y publicado en el Periódico Oficial del Gobierno del Estado de Morelos “Tierra y Libertad”, número 4570 de fecha veintidós de noviembre del dos mil siete, así mismo, se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+TERCERA. En su caso, las menciones que en otros ordenamientos permanezcan y se hagan de los Códigos de Procedimientos Penales que se abrogan por virtud de la disposición transitoria que antecede, se entenderán referidas al Código Nacional de Procedimientos Penales.
