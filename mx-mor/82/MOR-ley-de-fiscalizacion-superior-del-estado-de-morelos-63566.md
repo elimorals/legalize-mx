@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-fiscalizacion-superior-del-estado-de-morelos-63566"
 country: "mx"
 rank: "ley"
 publication_date: "2008-10-01"
-last_updated: "2012-08-15"
+last_updated: "2014-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 1 de octubre de 2008.
 
@@ -815,11 +815,15 @@ A la audiencia podrá asistir el representante de la entidad fiscalizada que par
 
 II. Celebrada la audiencia y desahogadas las pruebas si las hubiere, la Auditoría Superior resolverá dentro de los treinta días hábiles siguientes sobre la existencia o inexistencia de responsabilidad y fincará, en su caso, el pliego definitivo correspondiente, determinando la sanción que en su caso proceda, a él o los sujetos responsables.
 
-Se notificará el resultado a los responsables y a la entidad remitiendo un tanto autógrafo del mismo a la Secretaría de Finanzas y Planeación del Estado y las tesorerías municipales, para que si en un plazo de quince días naturales contados a partir de la notificación, este no es cubierto, se haga efectivo en términos de ley, mediante el procedimiento administrativo de ejecución.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+Se notificará el resultado a los responsables y a la Entidad remitiendo un tanto autógrafo del mismo a la Secretaría de Hacienda del Estado y las Tesorerías Municipales, para que si en un plazo de quince días naturales, contados a partir de la notificación, este no es cubierto, se haga efectivo en términos de Ley, mediante el procedimiento administrativo de ejecución.
 
 Cuando los responsables sean servidores públicos, dicha resolución será notificada al representante del ente fiscalizado y al órgano de control interno del mismo. De ser pecuniaria la sanción deberá ser a cargo del peculio del responsable y suficiente para cubrir los daños y perjuicios causados, o ambos, y se actualizará para los efectos de su pago, en la forma y términos que establezca la ley, tratándose de contribuciones y aprovechamientos.
 
-La Auditoría Superior podrá solicitar a la Secretaría de Finanzas y Planeación o a las tesorerías municipales, según corresponda, se proceda al embargo precautorio de los bienes de los responsables, a efecto de garantizar el cobro de la sanción impuesta, sólo cuando haya sido determinado en cantidad líquida el monto de la responsabilidad resarcitoria respectiva.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+La Auditoría Superior, podrá solicitar a la Secretaría de Hacienda o a las Tesorerías Municipales, según corresponda, se proceda al embargo precautorio de los bienes de los responsables, a efecto de garantizar el cobro de la sanción impuesta, sólo cuando haya sido determinado en cantidad líquida el monto de la responsabilidad resarcitoria respectiva.
 
 El o los responsables podrán solicitar la sustitución del embargo precautorio, por cualesquiera de las garantías que establece la legislación fiscal, a satisfacción de la Auditoría Superior; y
 
@@ -831,21 +835,25 @@ De no encontrar elementos suficientes para fincar responsabilidad, la Auditoría
 
 Las multas y sanciones resarcitorias a que se refiere la presente Ley, tendrán el carácter de créditos fiscales y se fijarán en cantidad líquida por la Auditoría Superior, haciéndose efectivas conforme al procedimiento administrativo de ejecución que establece la legislación aplicable.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 63.
 
-La Secretaría de Finanzas y Planeación y las tesorerías municipales en el ámbito de su competencia, deberán informar a la Auditoría Superior, de los trámites que se vayan realizando para la ejecución de los cobros respectivos y el monto recuperado.
+La Secretaría de Hacienda y las Tesorerías Municipales en el ámbito de su competencia, deberán informar a la Auditoría Superior, de los trámites que se vayan realizando para la ejecución de los cobros respectivos y el monto recuperado.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 64.
 
-La recuperación que se obtenga como resultado del fincamiento de responsabilidades resarcitorias, será depositada por los responsables en la Tesorería General del Estado, dependiente de la Secretaría de Finanzas y Planeación; el importe de los depósitos, deberá ser entregada por la depositaria a las respectivas áreas administrativas de los Poderes del Estado, tesorerías municipales y entes públicos estatales, municipales y autónomos, y demás entidades que sufrieron el daño o perjuicio respectivo, mediante liquidaciones periódicas. Dicho importe quedará en las áreas administrativas de las dependencias estatales o tesorerías y sólo podrá ser ejercido de conformidad con lo establecido en el presupuesto de egresos autorizado.
+La recuperación que se obtenga como resultado del fincamiento de responsabilidades resarcitorias, será depositada por los responsables, en la Tesorería General del Estado, dependiente de la Secretaría de Hacienda; el importe de los depósitos, deberá ser entregada por la depositaria a las respectivas áreas administrativas de los Poderes del Estado, Tesorerías Municipales y entes públicos estatales, municipales y autónomos, y demás Entidades que sufrieron el daño o perjuicio respectivo, mediante liquidaciones periódicas. Dicho importe quedará en las áreas administrativas de las Dependencias Estatales o Tesorerías y sólo podrá ser ejercido de conformidad con lo establecido en el presupuesto de egresos autorizado.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
+El importe líquido de las multas que en ejercicio de sus atribuciones imponga la Auditoría Superior, será depositado por los responsables, en la Tesorería General del Estado, dependiente de la Secretaría de Hacienda; su importe será entregado a la Auditoría Superior por la depositaria, integrando el Fondo para el Fortalecimiento de la Fiscalización Superior, el cual se ejercerá, para el equipamiento, y la capacitación del personal de la misma.
 
-El importe líquido de las multas que en ejercicio de sus atribuciones imponga la Auditoria Superior, será depositado por los responsables, en la Tesorería General del Estado, dependiente de la Secretaría de Finanzas y Planeación; su importe será entregado a la Auditoría Superior por la depositaria, integrando el Fondo para el Fortalecimiento de la Fiscalización Superior, el cual se ejercerá, para el equipamiento, y la capacitación del personal de la misma.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 65.
 
-Se crea el Fondo para el Fortalecimiento de la Fiscalización Superior; estará a cargo de la Auditoría Superior y se manejará prudencialmente bajo autorizaciones acordadas por el titular de la misma, el fondo se integrará con el importe de las sanciones que imponga la Auditoría Superior por multas económicas conforme a la ley, estas las colectará el Estado a través de la Secretaría de Finanzas y Planeación, Subsecretaría de Ingresos, Tesorería General de Gobierno del Estado, quien las liquidará mensualmente a la Auditoría Superior, para incrementar el Fondo para el Fortalecimiento de la Fiscalización Superior, la liquidación corresponderá al mes anterior la cual se entregara al concluir la segunda quincena del mes siguiente.
+Se crea el Fondo para el Fortalecimiento de la Fiscalización Superior; estará a cargo de la Auditoría Superior y se manejará prudencialmente bajo autorizaciones acordadas por el titular de la misma, el fondo se integrará con el importe de las sanciones que imponga la Auditoría Superior por multas económicas conforme a la Ley, estas las colectará el Estado, a través de la Secretaría de Hacienda, Subsecretaría de Ingresos, Tesorería General de Gobierno del Estado, quien las liquidará mensualmente a la Auditoría Superior, para incrementar el Fondo para el Fortalecimiento de la Fiscalización Superior, la liquidación corresponderá al mes anterior la cual se entregara al concluir la segunda quincena del mes siguiente.
 
 ###### Artículo 66.
 
@@ -923,7 +931,9 @@ La Comisión de Hacienda, Presupuesto y Cuenta Pública establecerá la fecha en
 
 > <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2012)</small>
 
-Artículo.73.- El Consejo Ciudadano Consultivo de Fiscalización, tendrá las siguientes atribuciones:
+###### Artículo 73.
+
+El Consejo Ciudadano Consultivo de Fiscalización, tendrá las siguientes atribuciones:
 
 I. Designar a su Presidente de manera anual;
 
@@ -1030,3 +1040,9 @@ P.O. 15 DE AGOSTO DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad, órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 SEGUNDO.- La Comisión de Hacienda, Presupuesto y Cuenta Pública emitirá la convocatoria para elegir a los integrantes del Consejo Ciudadano Consultivo previsto en la presente ley.
+
+P.O. 10 DE DICIEMBRE DE 2014.
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44 y la fracción XVII, del artículo 70, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
