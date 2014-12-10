@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2007-del-pleno-del-consejo-de-la-54003"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2007-02-16"
-last_updated: "2007-09-17"
+last_updated: "2014-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54003&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2007-02-07"
 ---
 # ACUERDO GENERAL 3/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACION Y FUNCIONAMIENTO DEL COMITE DE INVERSION DE RECURSOS FINANCIEROS DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-ACUERDO GENERAL 3/2007, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACION Y FUNCIONAMIENTO DEL COMITE DE INVERSION DE RECURSOS FINANCIEROS DEL CONSEJO DE LA JUDICATURA FEDERAL
+ACUERDO GENERAL 3/2007, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y FUNCIONAMIENTO DEL COMITÉ DE INVERSIÓN DE RECURSOS FINANCIEROS DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE SEPTIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE DICIEMBRE DE 2014.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 16 de febrero de 2007.
 
@@ -45,9 +45,11 @@ En consecuencia, con fundamento en las disposiciones constitucionales y legales 
 
 ACUERDO
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 47/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 1.
 
-El presente acuerdo tiene por objeto regular la toma de decisiones en materia de inversión de los recursos financieros, presupuestales y no presupuestales, del Consejo de la Judicatura Federal.
+El presente acuerdo tiene por objeto regular la toma de decisiones en materia de inversión de los recursos financieros, de carácter presupuestal y no presupuestal administrados por el Consejo de la Judicatura Federal, para el óptimo manejo de sus recursos.
 
 ###### Artículo 2.
 
@@ -63,65 +65,93 @@ IV. Comisión.- La Comisión de Administración del Consejo de la Judicatura Fed
 
 V. Comité.- El Comité de Inversión de Recursos Financieros del Consejo de la Judicatura Federal;
 
-VI. Secretario Ejecutivo de Finanzas.- El Titular de la Secretaría Ejecutiva de Finanzas del Consejo de la Judicatura Federal;
+VI. (DEROGADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 47/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE DICIEMBRE DE 2014)
 
 VII. Secretario Ejecutivo de Administración.- El Titular de la Secretaría Ejecutiva de Administración del Consejo de la Judicatura Federal;
 
-VIII. Director General de Tesorería.- El Titular de la Dirección General de Tesorería de la Secretaría Ejecutiva de Finanzas del Consejo de la Judicatura Federal; y
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 47/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE DICIEMBRE DE 2014)</small>
 
-IX. Contralor.- El Contralor del Poder Judicial de la Federación.
+VIII. Director General de Tesorería.- El Titular de la Dirección General de Tesorería del Consejo de la Judicatura Federal;
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 47/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE DICIEMBRE DE 2014)</small>
+
+IX. Director General de Programación y Presupuesto.- El Titular de la Dirección General de Programación y Presupuesto del Consejo de la Judicatura Federal;
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 47/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE DICIEMBRE DE 2014)</small>
+
+X. Asuntos Jurídicos.- La Dirección General de Asuntos Jurídicos del Consejo de la Judicatura Federal; y
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 47/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE DICIEMBRE DE 2014)</small>
+
+XI. Contraloría.- La Contraloría del Poder Judicial de la Federación.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 47/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 3.
 
-Se establece el Comité de Inversión de Recursos Financieros del Consejo de la Judicatura Federal, con carácter permanente, el cual tendrá por objeto ejecutar todas las acciones que en materia de inversión de sus recursos financieros sea necesario implementar, para obtener un óptimo aprovechamiento de éstos, a través del análisis y selección de las diversas opciones de inversión que ofrezcan las instituciones financieras y de banca legalmente autorizadas.
+Se establece el Comité de Inversión de Recursos Financieros del Consejo, con carácter permanente, el cual tendrá por objeto analizar, aprobar, instruir, evaluar y, en su caso, proponer la conducción de la inversión de los recursos financieros del Consejo, a las instituciones financieras por éste contratadas.
 
-Por lo que hace a los recursos patrimonio del Fondo de Apoyo a la Administración de Justicia, previstos en el Título Décimo Segundo de la Ley Orgánica del Poder Judicial de la Federación, corresponde al Comité proporcionar asesoría en la materia de su especialización, a solicitud de la Secretaría Técnica del Fondo, de conformidad con los términos que dicte la normatividad vigente.
+El Comité y la Secretaría Técnica del Fondo de Apoyo a la Administración de Justicia, podrán intercambiar información y emprender acciones conjuntas, a efecto de alinear las acciones de inversión de los recursos financieros a cargo del Consejo, de así convenir a los intereses del mismo.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 47/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 4.
 
-Los recursos financieros del Consejo son los siguientes:
+Los recursos financieros del Consejo que son objeto del presente Acuerdo General, son los siguientes:
 
-I. Recursos presupuestales, son los autorizados anualmente al Poder Judicial de la Federación en el Presupuesto de Egresos de la Federación; y
+I. Recursos presupuestales, exclusivamente referidos a los recursos de fideicomisos que se provean de recursos presupuestales; y
 
-II. Recursos no presupuestales, constituidos por capital que por cualquier título le corresponda administrar al Consejo de la Judicatura Federal.
+II. Recursos no presupuestales constituidos por capital que por cualquier título le corresponda administrar al Consejo, como fideicomisos, fondos de ahorro, entre otros:
+
+a. Fideicomiso para la administración del “Plan de Pensiones Complementarias de Magistrados de Circuito y Jueces de Distrito del Poder Judicial de la Federación”, de conformidad con el Acuerdo General 28/2005, del Pleno;
+
+b. Fideicomiso para la administración del Fondo por concepto de aportaciones para el “Programa de Mantenimiento de Viviendas de Magistrados y Jueces del Poder Judicial de la Federación”;
+
+c. Fideicomiso para la administración del “Plan de Apoyos Médicos Complementarios y de Apoyo Económico Extraordinario para los Servidores Públicos del Poder Judicial de la Federación con excepción de los de la Suprema Corte de Justicia de la Nación”; y
+
+d. Fondo de Reserva Individualizado, de conformidad con el Acuerdo General del Pleno que otorga y regula la prestación de este Fondo.
+
+III. Todos aquellos recursos de idéntica naturaleza que en lo futuro le corresponda administrar al Consejo, previa autorización del Pleno o la Comisión.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 47/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 5.
 
 El Comité estará integrado de la siguiente forma:
 
-I. Presidente: El Secretario Ejecutivo de Finanzas; y
+I. Presidente: El Secretario Ejecutivo de Administración; y
 
-II. Vocales: El Secretario Ejecutivo de Administración y el Director General de Tesorería.
+II. Vocales: Los directores generales de Tesorería y de Programación y Presupuesto.
 
 Los integrantes del Comité tendrán derecho a voz y voto, y no podrán ser representados en las sesiones.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 47/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 6.
 
-El Comité tendrá las siguientes atribuciones:
+El Comité tendrá las siguientes funciones:
 
-I. Decidir la estrategia de inversión de los recursos del Consejo, en la que se deberán especificar los montos, instituciones, plazos y tasas. No obstante lo anterior, el Comité podrá enviar el asunto a conocimiento de la Comisión cuando considere que, por su trascendencia, deba ser resuelto por ésta, la que a su vez, de considerarlo pertinente, podrá someterlo a la consideración del Pleno;
+I. Aprobar, con base en la información, estudios y análisis elaborados por las áreas competentes del Consejo y por la o las instituciones financieras con las que el Consejo tenga relación contractual, la estrategia de inversión de sus recursos financieros, de conformidad con las disposiciones normativas aplicables, con su naturaleza jurídica, su objetivo y fin. De esta determinación informará a la Comisión en la siguiente sesión ordinaria;
 
 II. Autorizar las políticas y procedimientos que permitan el mejor aprovechamiento de los recursos financieros, las que deberán hacerse del conocimiento de la Comisión en la siguiente sesión ordinaria;
 
-III. Determinar los niveles aceptables de rentabilidad en las inversiones para su contratación;
+III. Determinar los niveles aceptables de riesgo y rentabilidad de acuerdo con las estrategias de inversión autorizadas en cada caso;
 
-IV. Definir y autorizar las estrategias aplicables a las operaciones de inversión de los recursos financieros, dentro de los niveles de rentabilidad aceptados, determinando posturas de compra o venta, así como los montos y plazos de inversión;
+IV. Autorizar y supervisar que la o las instituciones financieras contratadas por el Consejo, apliquen debidamente las estrategias autorizadas, a fin de que las operaciones de inversión de los recursos financieros se mantengan dentro de los niveles de riesgo y rentabilidad previamente determinados;
 
-V. Autorizar la celebración de los contratos y demás instrumentos jurídicos que se requieran para la inversión de los recursos del Consejo con las instituciones seleccionadas cada vez que lo considere necesario, justificando sus propuestas. De todo contrato que se celebre el Comité deberá informar a la Comisión;
+V. Autorizar los criterios para la contratación de la o las instituciones financieras, garantizando las mejores condiciones de inversión y de administración de los recursos del Consejo. Para tal efecto, las áreas competentes deberán presentar un estudio de las condiciones del mercado y de las ofertas recibidas, así como la justificación de su propuesta, e informar de ello a la Comisión;
 
-VI. Autorizar los procedimientos mediante los cuales se lleven a cabo las operaciones con las instituciones financieras, lo que deberá ser informado a la Comisión;
+VI. Autorizar la celebración, modificación, renovación o cancelación de contratos y demás instrumentos jurídicos que se requieran para la inversión de los recursos del Consejo.
 
-VII. Autorizar la cancelación o la nueva contratación de inversiones con las diversas instituciones autorizadas, lo que deberá ser informado a la Comisión;
+De todo contrato que se celebre, modifique o cancele, el Comité, deberá contar con el dictamen de Asuntos Jurídicos;
 
-VIII. Analizar los resultados de las estrategias aplicadas en las operaciones de inversión y sus rendimientos;
+VII. Analizar los resultados de las estrategias aplicadas en las operaciones de inversión y sus rendimientos;
 
-IX. Rendir un informe a la Comisión sobre el comportamiento de las inversiones de los recursos financieros del Consejo, dentro de los primeros siete días de cada mes;
+VIII. Rendir trimestralmente un informe a la Comisión sobre el comportamiento de las inversiones de los recursos financieros del Consejo;
 
-X. Proporcionar a la Comisión y al Pleno los informes que requieran respecto a los rendimientos que se tengan de cada una de las inversiones;
+IX. Proporcionar a la Comisión y al Pleno los informes que requieran respecto a los rendimientos que se tengan de cada una de las inversiones; y
 
-XI. Proporcionar la asesoría que solicite la Secretaría Técnica del Fondo de Apoyo a la Administración de Justicia, así como las demás que disponga el acuerdo general que regula su constitución, organización y funcionamiento, y las que el Pleno o la Comisión le asignen, en relación con los recursos propios o administrados por el Consejo; y
-
-XII. Las demás que le sean conferidas por el Pleno o la Comisión.
+X. Las demás que le sean conferidas por el Pleno y la Comisión.
 
 ###### Artículo 7.
 
@@ -165,7 +195,7 @@ V. Verificar que las sesiones del Comité se lleven a cabo de acuerdo con los li
 
 VI. Las demás facultades que les sean encomendadas por la Comisión o por el Comité.
 
-> <small>(REFORMADO PRIMERO PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 33/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMERO PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 33/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 10.
 
@@ -191,33 +221,45 @@ IX. Formular el calendario anual de sesiones ordinarias a más tardar en los pri
 
 X. Intervenir con voz, pero sin voto, en las sesiones del Comité;
 
-XI. Negociar y cerrar las inversiones con las instituciones financieras autorizadas, en estricto apego a la estrategia y acuerdos que dicte el Comité, mediante el uso de herramientas informáticas que aseguren una adecuada transparencia para la selección de la mejor opción de inversión;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 47/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE DICIEMBRE DE 2014)</small>
 
-XII. Comunicar al Director General de Tesorería para que, en los términos acordados, realice la transferencia de recursos; y
+XI. Verificar que las operaciones efectuadas por la o las instituciones financieras se efectúen conforme lo instruido por el Comité, debiendo presentar a los integrantes del propio Comité los reportes de cumplimiento con la periodicidad que éste determine;
 
-XIII. Las demás que le encomiende la Comisión, el Comité o el Presidente del Comité.
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 47/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE DICIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 33/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2007)</small>
+XII. Elaborar el informe trimestral del comportamiento de las inversiones de los recursos financieros del Consejo;
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 47/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE DICIEMBRE DE 2014)</small>
+
+XIII. Elaborar el informe semestral de la gestión del Comité;
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 47/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE DICIEMBRE DE 2014)</small>
+
+XIV. En su caso, gestionar las operaciones de cierre de mesa de dinero respecto de aquellos recursos financieros que al efecto establezca el Comité, así como, informar oportunamente los resultados obtenidos a la Dirección General de Tesorería; y
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 47/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE DICIEMBRE DE 2014)</small>
+
+XV. Las demás que le encomiende la Comisión, el Comité y el Presidente del Comité.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 33/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2007)</small>
 
 Artículo 10 bis.- Las atribuciones del Secretario Técnico del Fondo de Apoyo a la Administración de Justicia son independientes de las que se le confieren como Secretario Técnico del Comité de Inversión, aun cuando recaigan en la misma persona. Por lo tanto, su actuación sólo producirá efectos respecto del Comité en el que se encuentre en función.
 
 ###### Artículo 11.
 
-La operación de las estrategias de inversión adoptadas por el Comité comprende las siguientes acciones:
-
-I. La negociación y cierre de las mesas de dinero, cuyo desarrollo corresponderá al Secretario Técnico del Comité; y
-
-II. La transferencia de los recursos a la o las instituciones financieras previamente determinadas, cuya realización corresponderá al Director General de Tesorería.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 47/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE DICIEMBRE DE 2014)
 
 ###### Artículo 12.
 
-El Director General de Tesorería deberá ejecutar la instrucción que, a efecto de finiquitar la operación de las estrategias de inversión, le comunique el Secretario Técnico del Comité.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 47/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE DICIEMBRE DE 2014)
 
 ###### Artículo 13.
 
 Las sesiones del Comité se celebrarán como sigue:
 
-I. El Comité sesionará de manera ordinaria por lo menos una vez al mes y de forma extraordinaria cuando así lo convoque su Presidente;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 47/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE DICIEMBRE DE 2014)</small>
+
+I. El Comité sesionará de manera ordinaria trimestralmente y de forma extraordinaria, cuando alguno de los miembros del mismo lo solicite;
 
 II. Las decisiones se tomarán por mayoría de votos de sus miembros presentes y, en caso de empate, el Presidente tendrá voto de calidad;
 
@@ -229,27 +271,37 @@ V. De cada sesión se levantará un acta con los acuerdos tomados, la que será 
 
 VI. Los asuntos que se sometan a la consideración del Comité, se presentarán en listados que contengan la información resumida de los casos que se dictaminen en cada sesión;
 
-VII. En cada sesión ordinaria el Director General de Tesorería deberá presentar a la consideración del Comité el informe de la situación actual de los mercados financieros y la propuesta de inversión por el período correspondiente para su aprobación, en su caso, así como el informe de posición de caja y de flujo de efectivo, en el que se deberá contemplar la información de las disponibilidades financieras, tales como el saldo inicial, los ingresos, los egresos, el saldo final y el comparativo entre los recursos que se vayan obteniendo;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 47/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE DICIEMBRE DE 2014)</small>
+
+VII. El Secretario Técnico del Comité requerirá a la o las instituciones financieras un informe trimestral de resultados, para que se presente en la sesión del Comité. Este informe deberá ser presentado en los formatos y bajo las indicaciones instruidas por el Comité;
 
 VIII. El orden del día deberá contener un rubro de seguimiento de los acuerdos adoptados por el Comité; y
 
-IX. El Comité deberá presentar un informe mensual a la Comisión en el que se indique el estado que guarden las inversiones realizadas y de los rendimientos generados por éstas.
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 47/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE DICIEMBRE DE 2014)</small>
+
+IX. El Comité deberá presentar trimestralmente, un informe a la Comisión en el que se indique el estado que guarden las inversiones realizadas y de los rendimientos generados por éstas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 47/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 14.
 
-El Titular de la Dirección General de Asuntos Jurídicos será asesor permanente del Comité, con las siguientes facultades:
+El Titular de Asuntos Jurídicos será asesor permanente del Comité, con las siguientes facultades:
 
 I. Asistir a las sesiones del Comité con derecho a voz, pero sin voto;
 
 II. Analizar los documentos relacionados con la competencia del Comité;
 
-III. Opinar y proporcionar la asesoría que le sea requerida en los asuntos de su especialización; y
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 47/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE DICIEMBRE DE 2014)</small>
+
+III. Asesorar en el ámbito de su competencia respecto de los asuntos que le sean requeridos; y
 
 IV. Proponer alternativas de solución cuando le sean solicitadas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 47/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 15.
 
-El Contralor tendrá el carácter de supervisor permanente en las sesiones del Comité, con las siguientes facultades:
+El Contralor por sí o por conducto de la Dirección General de Auditoría asistirá con voz en carácter de supervisor permanente a las sesiones del Comité, con las siguientes facultades:
 
 I. Asistir obligatoriamente a las sesiones del Comité;
 
@@ -259,27 +311,35 @@ III. Informar a la Comisión, con la periodicidad que ésta indique, sobre el fu
 
 ###### Artículo 16.
 
-(DEROGADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 33/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2007)
+(DEROGADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 33/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 17.
 
 El Secretario Técnico de la Comisión de Administración tendrá el carácter de invitado permanente a las sesiones del Comité, con derecho a voz, pero sin voto.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 47/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 18.
 
-El Comité podrá invitar a las sesiones a los representantes de los grupos financieros que requiera, entendidos éstos como las instituciones bancarias y financieras debidamente autorizadas, con quienes se tengan celebrados contratos o cualquier otro instrumento jurídico.
+El Comité, podrá invitar a las sesiones a los representantes de la o las instituciones financieras con las que guarde relación, así como a especialistas en la materia, que resulten de importancia para el mejor manejo de las inversiones del Consejo.
 
-La participación de los representantes de los grupos financieros se sujetará a lo siguiente:
+La participación de dichos representantes se sujetará a lo siguiente:
 
-I. Los representantes acreditados de los grupos financieros podrán participar en las sesiones del Comité, única y exclusivamente, cuando sean convocados como invitados;
+I. En el orden del día deberá consignarse el asunto y propósito de la invitación, especificando los motivos por los cuales se está requiriendo a la institución en lo particular;
 
-II. Los representantes de los grupos financieros, cuando sean requeridos para ello, podrán exponer ante los integrantes del Comité sus propuestas de inversión y los rendimientos que ofrecen;
+II. Los representantes acreditados podrán participar en las sesiones del Comité, única y exclusivamente, cuando sean convocados como invitados;
 
-III. En ningún momento los grupos financieros podrán tener conocimiento de las estrategias de inversión ni de la información financiera del Consejo de la Judicatura Federal, ni de cualquier otro acervo que pudiera estar contemplado como información reservada, de conformidad con la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+III. Los representantes cuando sean requeridos para ello, podrán exponer ante los integrantes del Comité sus propuestas de inversión y los rendimientos que ofrecen; y
+
+IV. El Comité no podrá revelar información a los grupos financieros que se haya clasificado como reservada, de conformidad con la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 47/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 19.
 
-Los contratos y demás instrumentos jurídicos que se requieran para la inversión de recursos que el Consejo autorice celebrar, tomarán en cuenta los rendimientos que la institución financiera otorgue en cada período de inversión, y será potestad del Comité incrementar o disminuir el monto de dicha inversión de acuerdo con los resultados que se observen.
+Los contratos, convenios y demás instrumentos jurídicos que se requiera suscribir para realizar las inversiones de los recursos del Consejo, deberán cumplir con los requisitos que el Banco de México, la Comisión Nacional Bancaria y de Valores, y demás instituciones nacionales e internacionales establezcan para tal fin. En dichos instrumentos se cuidará en todo momento las mejores condiciones de inversión de los recursos que el Consejo administra o en los cuales es fideicomitente.
+
+Asuntos Jurídicos deberá de considerar todo el marco legal y normativo para emitir su dictamen, el cual no comprenderá la determinación de la institución financiera, ni las condiciones de inversión, situación que quedará bajo la responsabilidad del Comité.
 
 ###### Artículo 20.
 
@@ -297,7 +357,7 @@ TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así 
 
 El LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 3/2007, del Pleno del Consejo de la Judicatura Federal, que Regula la Integración y Funcionamiento del Comité de Inversión de Recursos Financieros del Consejo de la Judicatura Federal, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de siete de febrero de dos mil siete, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Elvia Díaz de León D'Hers, María Teresa Herrera Tello, Miguel A. Quirós Pérez y Oscar Vázquez Marín.- México, Distrito Federal, a siete de febrero de dos mil siete.- Conste.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ACUERDO.</small>
 
 D.O.F. 17 DE SEPTIEMBRE DE 2007.
 
@@ -308,3 +368,11 @@ SEGUNDO.- Por esta ocasión, con la finalidad de dar cumplimiento al presente Ac
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Acuerdo.
 
 CUARTO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 10 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
