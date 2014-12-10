@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-justicia-para-adolescentes-del-estado-de-morelos-62577"
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-18"
-last_updated: "2014-11-12"
+last_updated: "2014-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el lunes 18 de agosto de 2008.
 
@@ -127,9 +127,13 @@ Adolescentes con trastorno mental.
 
 Los adolescentes que al momento de realizar el hecho tipificado como delito, padezcan de algún trastorno mental que les impida comprender la trascendencia y las consecuencias de la conducta realizada, quedan exentos de responsabilidad. En este supuesto o cuando el trastorno se presente durante el procedimiento o en la fase de ejecución, la autoridad judicial competente podrá entregar al adolescente a quienes legalmente corresponda hacerse cargo de él.
 
-El proceso que se instruya al adolescente infractor con trastorno mental, será el que establece el Código de Procedimientos Penales para inimputables.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-Si el trastorno se presenta en la fase de ejecución, el Magistrado podrá resolver sobre la adecuación de la medida impuesta, considerando las características del trastorno y las necesidades del tratamiento.
+El proceso que se instruya al adolescente infractor con trastorno mental, será el que para inimputables establece la codificación procedimental penal aplicable.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+Si el trastorno se presenta en la fase de ejecución, el Juez de Ejecución podrá resolver sobre la adecuación de la medida impuesta, considerando las características del trastorno y las necesidades del tratamiento.
 
 ###### Artículo 10.
 
@@ -137,11 +141,13 @@ Interpretación y aplicación.
 
 La interpretación y aplicación de las disposiciones contenidas en esta ley deberán hacerse en armonía con sus principios rectores, así como con la doctrina y normatividad internacional aplicable en la materia, en la forma que mejor garantice los derechos establecidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales ratificados por el Estado Mexicano, la Constitución del Estado, las leyes aplicables y la argumentación humanística.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 11.
 
 Supletoriedad.
 
-Sólo en lo no previsto por esta Ley, podrán aplicarse supletoriamente las disposiciones del Código de Procedimientos Penales del Estado de Morelos, siempre que no se opongan a los principios rectores y ordenamientos referidos, protegiendo la integridad de los derechos y garantías de los adolescentes.
+Sólo en lo no previsto por esta Ley, podrán aplicarse supletoriamente las disposiciones del Código Nacional de Procedimientos Penales, siempre que no se opongan a los principios rectores y ordenamientos referidos, protegiendo la integridad de los derechos y garantías de los adolescentes.
 
 ### CAPÍTULO II. PRINCIPIOS Y DERECHOS
 
@@ -261,7 +267,9 @@ I. Conocer de las causas instauradas en contra de las personas a las que se refi
 
 II. Velar porque a los adolescentes se les respeten los derechos fundamentales consagrados en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales ratificados por el Estado Mexicano, la Constitución Estatal y demás leyes aplicables;
 
-III. Dictar, cuando correspondiere, en los plazos y términos previstos por esta Ley, la vinculación a proceso y, en su caso, las medidas cautelares que solicite el Ministerio Público Especializado;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+III. Dictar, cuando correspondiere, en los plazos y términos previstos por esta Ley, la vinculación a proceso y, en su caso, las providencias precautorias y medidas cautelares que solicite el Ministerio Público Especializado, la víctima o el ofendido, en los términos que para tal efecto disponga la codificación procedimental penal aplicable;
 
 IV. Ejercer la custodia del adolescente detenido, y asegurarse de que no sea incomunicado, coaccionado, intimidado, torturado o sometido a tratos crueles, inhumanos o degradantes;
 
@@ -269,7 +277,9 @@ V. Resolver respecto de la suspensión del proceso a prueba, cuando así lo soli
 
 VI. Fijar a las partes el plazo para la precisión de los medios de prueba que ofrecerán en el juicio oral;
 
-VII. Presidir la audiencia de anticipo de prueba en los términos previstos por esta Ley y el Código de Procedimientos Penales para el Estado de Morelos;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+VII. Presidir la audiencia de anticipo de prueba en los términos previstos por esta Ley y la codificación procedimental penal aplicable;
 
 VIII. Aprobar los acuerdos reparatorios entre el adolescente y la víctima u ofendido, así como declarar la extinción de la acción penal o la reanudación del proceso por incumplimiento cuando procediere;
 
@@ -289,7 +299,9 @@ De los jueces de Juicio Oral.
 
 Corresponde al Juez de Juicio Oral especializado en adolescentes:
 
-I. Presidir la audiencia de juicio oral, resolver los asuntos sometidos a su conocimiento, conforme a los plazos y términos previstos en esta Ley y, en su caso, por lo dispuesto en el Código de Procedimientos Penales para el Estado de Morelos;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+I. Presidir la audiencia de juicio oral, resolver los asuntos sometidos a su conocimiento, conforme a los plazos y términos previstos en esta Ley y, en su caso, por lo dispuesto en la codificación procedimental penal aplicable
 
 II. Declarar la responsabilidad o inocencia del adolescente sometido a juicio;
 
@@ -297,15 +309,27 @@ III. Imponer las medidas sancionadoras, atendiendo a los principios de responsab
 
 IV. Las demás que le confieran las leyes.
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 25 Bis.
 
-Del Juez de Ejecución:
+Del Juez de Ejecución.
 
 El Juez de Ejecución es la autoridad judicial responsable del control y supervisión de la legalidad de la aplicación y ejecución de las medidas impuestas a los adolescentes; vigilará el respeto a las finalidades constitucionales y legales de la sanción impuesta y de las medidas de seguridad.
 
-En lo que no contravenga los principios que rigen el Sistema de Justicia para Adolescentes, el Juez de Ejecución tendrá las atribuciones previene la Ley de Reinserción Social y Seguimiento de Medidas Cautelares vigente en el Estado y la Ley de Justicia para Adolescentes del Estado de Morelos.
+En lo que no contravenga los principios que rigen el Sistema de Justicia para Adolescentes, el Juez de Ejecución tendrá las atribuciones que previene la Ley de Reinserción Social y Seguimiento de Medidas Cautelares vigente en el Estado y esta Ley, además de las siguientes:
+
+I.- Controlar que la ejecución de toda medida sancionadora se aplique de conformidad con la sentencia definitiva que la impuso, salvaguardando la legalidad y demás derechos y garantías que asisten al adolescente sancionado durante la ejecución de la medida;
+
+II.- Previo dictamen del equipo multidisciplinario, revisar las medidas sancionadoras a solicitud de parte, o de oficio, por lo menos una vez cada tres meses, para cesarlas, modificarlas o sustituirlas por otras menos graves, cuando no cumplan con los objetivos para las que fueron impuestas o por ser contrarias al proceso de reinserción social del adolescente;
+
+III.- Controlar el otorgamiento o denegación de cualquier beneficio relacionado con las medidas impuestas en sentencia definitiva;
+
+IV.- Ordenar la cesación de la medida sancionadora una vez transcurrido el plazo fijado por la sentencia;
+
+V.- Visitar los centros de ejecución de medidas privativas de libertad para adolescentes por lo menos una vez al mes, y
+
+VI.- Atender las solicitudes que hagan los adolescentes sancionados cuando así lo amerite la situación y resolver lo que corresponda.
 
 ###### Artículo 26.
 
@@ -329,13 +353,13 @@ VII. Las demás atribuciones que determinen la Constitución del Estado y las le
 
 ### CAPÍTULO II. DEL MINISTERIO PÚBLICO
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 27.
 
-Ministerio Público Especializado.
+Del Ministerio Público Especializado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2014)</small>
-
-La Fiscalía General del Estado de Morelos, contará con agentes del Ministerio Público especializados en adolescentes que tendrán los siguientes deberes y atribuciones:
+La Fiscalía General del Estado de Morelos contará con agentes del (sic) Ministerios Públicos Especializados en adolescentes, quienes tendrán las siguientes atribuciones:
 
 I. Realizar la investigación y persecución de las conductas tipificadas como delitos en las leyes del Estado atribuidas a adolescentes;
 
@@ -357,17 +381,11 @@ IX. Representar a las víctimas u ofendidos, cuando éstas se lo soliciten y no 
 
 X. Procurar las formas alternativas de justicia, a fin de cumplir con los principios de mínima intervención y de subsidiariedad;
 
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 2013)</small>
-
 XI. Someter a la aprobación del Juez de Control los acuerdos reparatorios que el adolescente y la víctima u ofendido hayan alcanzado;
 
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 2013)</small>
-
-XII. Solicitar al Juez de Control las ordenes de aprehensión y comparecencia del adolescente cuando procediere;
+XII. Solicitar al Juez de Control las órdenes de aprehensión y comparecencia del adolescente cuando procediere;
 
 XIII. Solicitar, en los casos que resulte procedente, la suspensión condicional del proceso a prueba;
-
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 2013)</small>
 
 XIV. Ejercitar la acción penal y poner inmediatamente al adolescente a disposición del Juez de Control, en los casos en que resulte procedente;
 
@@ -377,19 +395,21 @@ XVI. Presentar el escrito de acusación y medios de prueba;
 
 XVII. Aplicar los criterios de oportunidad, en los casos en los que resulte procedente, en los términos de la ley de la materia;
 
-XVIII. Solicitar la imposición de medidas cautelares en los casos y por los tiempos previstos en esta ley;
+XVIII. Ordenar de manera fundada y motivada, bajo su más estricta responsabilidad, la aplicación de medidas de protección idóneas, en los términos que disponga el Código Nacional de Procedimientos Penales;
 
-XIX. Solicitar la reparación del daño a favor de la víctima u ofendido;
+XIX. Solicitar la imposición de providencias precautorias y medidas cautelares en los casos y por los tiempos previstos en esta ley, así como en el Código Nacional de Procedimientos Penales;
 
-XX. Intervenir en todas las audiencias del proceso en los términos previstos por la ley de la materia;
+XX. Solicitar la reparación del daño a favor de la víctima u ofendido;
 
-XXI. Solicitar la imposición de medidas sancionadoras;
+XXI. Intervenir en todas las audiencias del proceso en los términos previstos por la ley de la materia;
 
-XXII. Interponer los recursos que le correspondan en los términos de la ley o desistirse de los ya interpuestos;
+XXII. Solicitar la imposición de medidas sancionadoras;
 
-XXIII. Garantizar que no se divulgue, total o parcialmente, por cualquier medio de comunicación, el nombre del adolescente o de la víctima u ofendido, los hechos o documentos relativos a la investigación o al proceso judicial, y
+XXIII. Interponer los recursos que le correspondan en los términos de la ley o desistirse de los ya interpuestos;
 
-XXIV. Las demás que le confieran las leyes.
+XXIV. Garantizar que no se divulgue, total o parcialmente, por cualquier medio de comunicación, el nombre del adolescente o de la víctima u ofendido, los hechos o documentos relativos a la investigación o al proceso judicial, y
+
+XXV. Las demás que le confieran las leyes.
 
 ### CAPÍTULO III. DE LA DEFENSORÍA PÚBLICA
 
@@ -417,11 +437,13 @@ VIII. Realizar todos los trámites o gestiones necesarias, en tiempo y conforme 
 
 ### CAPÍTULO IV. DIRECCIÓN DE EJECUCIÓN DE MEDIDAS PARA ADOLESCENTES
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 29.
 
-Dirección de Ejecución de Medidas para Adolescentes.
+De la Unidad de Ejecución de Medidas para Adolescentes.
 
-La Dirección de Ejecución de Medidas para Adolescentes es la dependencia del Poder Ejecutivo Estatal encargada de aplicar y verificar el cumplimiento de las medidas cautelares y sancionadoras decretadas por la autoridad jurisdiccional, en los términos regulados por esta Ley.
+La Unidad de Ejecución de Medidas para Adolescentes es la dependencia del Poder Ejecutivo Estatal encargada de aplicar y verificar el cumplimiento de las medidas cautelares y sancionadoras decretadas por la autoridad jurisdiccional, así como las condiciones decretadas por ésta última para la suspensión condicional del proceso a prueba, en los términos regulados por esta ley y la codificación procedimental penal aplicable.
 
 ###### Artículo 30.
 
@@ -431,7 +453,9 @@ La Dirección de Ejecución de Medidas para Adolescentes tendrá las siguientes 
 
 I. Integrar el expediente que contenga la información relativa a los datos de identificación del adolescente, a efecto de velar por la adecuada aplicación de las medidas que se le impongan;
 
-II. Asegurar el cumplimiento y garantía de los derechos que asisten a los adolescentes a quienes les ha sido impuesta medida cautelar o sancionadora, en coordinación con el Magistrado;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+II. Asegurar el cumplimiento y garantía de los derechos que asisten a los adolescentes a quienes les ha sido impuesta medida cautelar o sancionadora, así como condiciones para la suspensión del proceso, en coordinación con el Juez de Ejecución;
 
 III. Diseñar, coordinar, supervisar, organizar y administrar los programas de atención integral y seguimiento requeridos para la ejecución de las medidas cautelares y sancionadoras;
 
@@ -445,13 +469,17 @@ VII. Organizar, supervisar y coordinar la administración de los centros especia
 
 VIII. Impulsar la creación, con participación activa de la sociedad civil, las comunidades, los centros de educación formal, patronatos y redes de apoyo, de programas para el proceso de educación y reinserción social de los adolescentes sujetos a esta ley;
 
-IX. Velar, en lo administrativo, y en coordinación con el Magistrado para que la ejecución de toda medida cautelar o sancionadora, sea aplicada de conformidad con el auto o la sentencia definitiva que la impuso, garantizando los derechos que asisten al adolescente;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+IX. Velar, en lo administrativo y, en coordinación con la autoridad judicial correspondiente, para que la ejecución de toda medida cautelar o sancionadora, sea aplicada de conformidad con el auto o la sentencia definitiva que la impuso, garantizando los derechos que asisten al adolescente;
 
 X. Elaborar el Programa Individual de Ejecución del adolescente para la aplicación de la medida sancionadora impuesta, así como vigilar y asegurar que éste sea acorde a los objetivos fijados en la sentencia definitiva, en esta ley y demás instrumentos internacionales;
 
 XI. Informar al Magistrado trimestralmente sobre el avance en el Programa Individual de Ejecución de la medida sancionadora, de cada uno de los adolescentes que se encuentre bajo su responsabilidad;
 
-XII. Brindar toda la información que requiera el Magistrado y acatar las instrucciones que formule sobre la ejecución de las medidas cautelares o sancionadoras, programas y proyectos así como el manejo de los centros especializados de ejecución de medidas privativas de libertad para adolescentes;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+XII. Brindar toda la información que requiera el Magistrado y el Juez de Ejecución, y acatar las instrucciones que éste último formule sobre la ejecución de las medidas cautelares o sancionadoras, programas y proyectos así como el manejo de los centros especializados de ejecución de medidas privativas de libertad para adolescentes;
 
 XIII. Velar porque se respeten los derechos y garantías del adolescente mientras cumple la medida cautelar o sancionadora, especialmente en las privativas de libertad;
 
@@ -465,13 +493,13 @@ XVI. Las demás atribuciones que esta ley le asigne y las que se establezcan med
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 31.
 
-Normatividad aplicable.
+Normativa aplicable.
 
-El proceso especial para adolescentes se regirá, en lo que no esté expresamente previsto por esta Ley y en lo que no contravenga sus principios, derechos y garantías, por el Código de Procedimientos Penales del Estado de Morelos.
-
-También procederá lo dispuesto en el párrafo anterior en los casos en que los órganos del sistema integral de justicia para adolescentes conozcan de asuntos de naturaleza federal, por así disponerlo la Ley o los convenios que al efecto se celebren.
+El proceso especial para adolescentes se regirá, en lo que no esté expresamente previsto por esta Ley y en lo que no contravenga sus principios, derechos y garantías, por la codificación procedimental penal aplicable.
 
 ###### Artículo 32.
 
@@ -739,7 +767,9 @@ Cuando el Estado sea víctima, para los efectos de este capítulo, será represe
 
 Definición.
 
-Se entiende por acuerdo reparatorio el acuerdo entre la víctima u ofendido y el adolescente que lleva como resultado a la solución del conflicto mediante cualquier mecanismo idóneo, como la conciliación o la mediación, entre otros.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+Los acuerdos reparatorios son aquéllos celebrados entre la víctima u ofendido y el adolescente que, una vez aprobados por el Ministerio Público o el Juez de Control y cumplidos en sus términos, tienen como efecto la conclusión del proceso.
 
 El acuerdo reparatorio no implica ni requiere el reconocimiento, por parte del adolescente, de haber realizado la conducta que se le atribuye.
 
@@ -821,47 +851,49 @@ La resolución fijará las condiciones bajo las cuales se suspende el proceso o 
 
 La suspensión condicional del proceso, será apelable. Así mismo serán apelables, por el Ministerio Publico, las condiciones fijadas por el Juez al adolescente o cuando el Juez se haya excedido en sus facultades.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 72.
 
 Condiciones.
 
-El Juez Especializado fijará el plazo de suspensión del proceso a prueba, que no podrá ser inferior a seis meses ni superior a un año, y determinará una o varias de las condiciones que deberá cumplir el adolescente, entre las siguientes:
+El Juez Especializado fijará el plazo de suspensión del proceso a prueba, que no podrá ser inferior a seis meses ni superior a un año, y determinará imponer al imputado una o varias de las condiciones que deberá cumplir, las cuales podrán ser en forma enunciativa más no limitativa las siguientes:
 
-I. Residir en un lugar determinado;
+I.- Residir en un lugar determinado;
 
-II. Frecuentar o dejar de frecuentar determinados lugares o personas;
+II.- Frecuentar o dejar de frecuentar determinados lugares o personas;
 
-III. Abstenerse de consumir drogas o estupefacientes o de abusar de las bebidas alcohólicas;
+III.- Abstenerse de consumir drogas o estupefacientes o de abusar de las bebidas alcohólicas;
 
-IV. Participar en programas especiales para la prevención y tratamiento de adicciones;
+IV.- Participar en programas especiales para la prevención y tratamiento de adicciones;
 
-V. Comenzar o finalizar la escolaridad básica, aprender un oficio o seguir cursos de capacitación en el lugar o la institución que determine el juez;
+V.- Comenzar o finalizar la escolaridad básica, aprender un oficio o seguir cursos de capacitación en el lugar o la institución que determine el juez;
 
-VI. Prestar servicio social a favor del Estado o de instituciones de beneficencia pública o privada;
+VI.- Prestar servicio social a favor del Estado o de instituciones de beneficencia pública o privada;
 
-VII. Someterse a tratamiento médico o psicológico en las instituciones públicas o privadas que determine o autorice el juez;
+VII.- Someterse a tratamiento médico o psicológico en las instituciones públicas o privadas que determine o autorice el juez;
 
-VIII. Permanecer en un trabajo o empleo, o aprender y ejercer, en el plazo que el juez determine, un oficio, arte, industria o profesión, si no tiene medios propios de subsistencia;
+VIII.- Permanecer en un trabajo o empleo, o aprender y ejercer, en el plazo que el juez determine, un oficio, arte, industria o profesión, si no tiene medios propios de subsistencia;
 
-IX. Someterse a la vigilancia que determine el juez;
+IX.- Someterse a la vigilancia que determine el juez;
 
-X. No poseer o portar armas;
+X.- No poseer o portar armas;
 
-XI. No conducir vehículos;
+XI.- No conducir vehículos;
 
-XII. Abstenerse de viajar al extranjero;
+XII.- Abstenerse de viajar al extranjero;
 
-XIII. En caso de adolescentes emancipados, cumplir con los deberes de deudor alimentario, y
+XIII.- En caso de adolescentes emancipados, cumplir con los deberes de deudor alimentario;
 
-XIV. En caso de conductas tipificadas como delitos sexuales, la obligación de integrarse a programas de educación sexual que incorporen la perspectiva de género.
+XIV.- En caso de conductas tipificadas como delitos sexuales, la obligación de integrarse a programas de educación sexual que incorporen la perspectiva de género, y
 
-Cuando se acredite plenamente que el adolescente no puede cumplir con alguna de las obligaciones anteriores por ser contrarias a su salud, sus creencias religiosas o alguna otra causa de especial relevancia, el Juez de Garantía podrá substituirlas, fundada y motivadamente, por otra u otras análogas que resulten razonables.
+XV.- Cualquier otra condición que, a juicio del Juez de Control, logre una efectiva tutela de los derechos de la víctima.
+
+Cuando se acredite plenamente que el adolescente no puede cumplir con alguna de las obligaciones anteriores por ser contrarias a su salud, sus creencias religiosas o alguna otra causa de especial relevancia, el Juez de Control podrá substituirlas, fundada y motivadamente, por otra u otras análogas que resulten razonables.
 
 Para fijar las reglas, el Juez puede disponer que el adolescente sea sometido a una evaluación previa. La víctima u ofendido, podrán proponer al juez, condiciones a las que consideren debe someterse el adolescente, siempre y cuando éstas no resulten más gravosas que las solicitadas por el Ministerio Público.
 
-La decisión sobre la suspensión del proceso será pronunciada en audiencia, en presencia del adolescente, su defensor, el Ministerio Público y en su caso, la víctima u ofendido, quienes podrán expresar observaciones a las reglas impuestas en los términos de este artículo, las que serán resueltas de inmediato.
-
-El Juez Especializado prevendrá al adolescente sobre las reglas de conducta impuestas y las consecuencias de su inobservancia.
+La decisión sobre la suspensión del proceso será pronunciada en audiencia, en presencia del adolescente, su defensor, el Ministerio Público y en su caso, la víctima u ofendido, quienes podrán expresar observaciones a las reglas impuestas en los términos de este artículo, las que serán resueltas de inmediato. El Juez Especializado prevendrá al adolescente sobre las reglas de conducta impuestas y las consecuencias de su inobservancia
 
 ###### Artículo 73.
 
@@ -897,9 +929,39 @@ Transcurrido el plazo que se fije sin que la suspensión fuere revocada, cesará
 
 El plazo fijado para el cumplimiento de las obligaciones pactadas suspenderá el trámite del proceso y la prescripción de la acción penal y de la pretensión punitiva.
 
-### CAPÍTULO VII. INVESTIGACIÓN Y FORMULACIÓN DE LA IMPUTACIÓN INICIAL
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-### CAPÍTULO VIII. DECLARACIÓN DEL ADOLESCENTE
+### CAPÍTULO VI BIS. DE LA SUPERVISIÓN DE LAS CONDICIONES IMPUESTAS EN LA SUSPENSIÓN CONDICIONAL DEL PROCESO
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 76 Bis.
+
+Reglas para las obligaciones de la suspensión condicional del proceso.
+
+Para el seguimiento de las obligaciones previstas en el artículo 72, fracciones III, IV, V, VI, VIII y XIII, las instituciones públicas y privadas designadas por la autoridad judicial, informarán a la autoridad de supervisión de medidas cautelares y de la suspensión condicional del proceso sobre su cumplimiento.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 76 Ter.
+
+Notificación de las obligaciones de la suspensión condicional del proceso.
+
+Concluida la audiencia y aprobada la suspensión condicional del proceso y las obligaciones que deberá cumplir el imputado, se notificará a la autoridad de supervisión de medidas cautelares y de la suspensión condicional del proceso, con el objeto de que ésta dé inicio al proceso de supervisión. Para tal efecto, se le deberá proporcionar la información de las condiciones impuestas.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 76 Quater.
+
+Notificación del incumplimiento.
+
+Cuando considere que se ha actualizado un incumplimiento injustificado, la autoridad de supervisión de medidas cautelares y de la suspensión condicional del proceso enviará el reporte de incumplimiento a las partes para que soliciten la audiencia de revocación de la suspensión ante el juez competente.
+
+Si el Juez determina la revocación de la suspensión condicional del proceso, concluirá la supervisión de la autoridad de supervisión de medidas cautelares y de la suspensión condicional del proceso.
+
+El agente del Ministerio Público que reciba el reporte de la autoridad de supervisión de medidas cautelares y de la suspensión condicional del proceso, deberá solicitar audiencia para pedir la revisión de las condiciones u obligaciones impuestas a la brevedad posible.
+
+### CAPÍTULO VII. INVESTIGACIÓN Y FORMULACIÓN DE LA IMPUTACIÓN INICIAL
 
 ###### Artículo 77.
 
@@ -913,7 +975,9 @@ La detención se notificará inmediatamente a sus padres o a sus representantes 
 
 Supuestos de flagrancia.
 
-Los supuestos de flagrancia serán los previstos por el Código de Procedimientos Penales en vigor en el Estado.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+Los supuestos de flagrancia serán los previstos por la codificación procedimental penal aplicable.
 
 La detención se notificará inmediatamente a su padre, a su madre o a su representante, siempre que ello sea posible.
 
@@ -951,9 +1015,13 @@ Calificación de la detención.
 
 Inmediatamente de que el adolescente detenido en flagrancia o caso urgente sea puesto a disposición del Juez de Control, éste deberá convocar a una audiencia en la que le informará de sus derechos constitucionales y legales sino se le hubiese informado de los mismos con anterioridad y procederá a calificar la detención, ratificándola en caso de encontrarse ajustada a la ley o decretando la libertad con las reservas de ley. Si se ordena la libertad del imputado y el Ministerio Público desea formularle imputación, ésta deberá llevarse a cabo en audiencia diversa.
 
-A esta audiencia deberá concurrir el Ministerio Público quien deberá justificar ante el juez los motivos de la detención. La ausencia injustificada del Ministerio Público en la audiencia dará lugar a la liberación del adolescente.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-Cuando el adolescente haya sido aprehendido después de habérsele formulado la imputación, el juez convocará a una audiencia inmediatamente después de que aquel ha sido puesto a su disposición, en la que, a solicitud del Ministerio Público, podrá revocar, modificar o sustituir la medida cautelar decretada con anterioridad.
+En caso de que al inicio de la audiencia el Ministerio Público no esté presente, el Juez de Control declarará en receso la audiencia hasta por una hora y ordenará al administrador de salas del Tribunal que se comunique con el superior de aquél, con el propósito de que lo haga comparecer o lo sustituya. Concluido el receso sin obtener respuesta, se procederá a la inmediata liberación del detenido.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+Cuando el adolescente haya sido aprehendido después de habérsele formulado la imputación, el juez convocará a una audiencia inmediatamente después de que aquel ha sido puesto a su disposición, en la que, a solicitud del Ministerio Público, podrá revocar, modificar o sustituir la medida de protección, providencia precautoria o medida cautelar decretada con anterioridad.
 
 ###### Artículo 82.
 
@@ -973,7 +1041,9 @@ Inmediatamente después de que el imputado haya rendido su declaración preparat
 
 En caso de que el adolescente hubiera renunciado a los plazos a que se refiere el párrafo anterior, el Ministerio Público deberá solicitar y motivar en ese momento la vinculación del adolescente a proceso, exponiendo en la misma audiencia los antecedentes de la investigación con los que considera se acredita un hecho que la Ley señale como delito y que exista la probabilidad de que el adolescente lo cometió ó participó en su comisión. El juez resolverá lo conducente después de escuchar al adolescente. Si se decreta la vinculación a proceso, el Ministerio Público a continuación deberá solicitar las medidas cautelares que considere procedentes y el juez resolverá lo conducente.
 
-Si el adolescente solicita la prórroga del plazo señalado en el artículo 19 de la Constitución Federal, el Juez deberá señalar fecha para la celebración de la audiencia de vinculación a proceso dentro del plazo solicitado por el adolescente, sin que pueda superar de setenta y dos horas. En este caso, el Ministerio Público puede solicitar en el acto se apliquen medidas cautelares al adolescente.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+Si el adolescente solicita la prórroga del plazo señalado en el artículo 19 de la Constitución Federal, el Juez deberá señalar fecha para la celebración de la audiencia de vinculación a proceso dentro del plazo solicitado por el adolescente, sin que pueda superar de setenta y dos horas. En este caso, el Ministerio Público puede solicitar en el acto que se apliquen providencias precautorias o medidas cautelares al adolescente.
 
 La audiencia de vinculación a proceso deberá celebrarse, según sea el caso, dentro de las setenta y dos o ciento cuarenta y cuatro horas siguientes a que el adolescente detenido fue puesto a su disposición o que el adolescente compareció a la audiencia de formulación de la imputación. Si el adolescente requiere del auxilio judicial para citar testigos o peritos a la audiencia de vinculación a proceso, deberá solicitar dicho auxilio al menos con cuarenta y ocho horas de anticipación a la hora y fecha señaladas para la celebración de la audiencia. En caso contrario, deberá presentar sus medios de prueba a la audiencia de vinculación a proceso.
 
@@ -1013,19 +1083,29 @@ III. Solicitar la suspensión condicional del proceso a prueba.
 
 La acusación deberá contener, en lo aplicable, los mismos requisitos previstos por el Código de Procedimientos Penales, pero en lugar de pena, el Ministerio Público especializado solicitará la medida sancionadora que considere procedente.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 87.
 
 Audiencia intermedia.
 
-Presentada la acusación, el Juez tendrá un plazo de veinticuatro horas para notificar la acusación y citar a la audiencia intermedia. Dicha audiencia deberá celebrarse dentro de un plazo no menor a diez ni superior a quince días, contados a partir de la notificación.
+Una vez presentada la acusación, el Juez ordenará su notificación a las partes al día siguiente. Al acusado y su Defensor, a la víctima u ofendido por conducto de su Asesor jurídico, se les entregará copia de la acusación. Para estar en condiciones de señalar fecha de audiencia intermedia, el Ministerio Público deberá poner a disposición de las demás partes todos los antecedentes acumulados durante la investigación.
 
-Hasta cinco días antes de la fecha fijada para la realización de la audiencia intermedia la víctima u ofendido podrá hacer valer los derechos que establece el Código de Procedimientos Penales para la etapa intermedia, debiendo correr traslado en un plazo no mayor de veinticuatro horas al adolescente y a su defensa.
+El Ministerio Público deberá efectuar en favor de la defensa su descubrimiento probatorio en un plazo de tres días, contados a partir de que se haya presentado el escrito de acusación.
 
-En la audiencia intermedia se decidirá sobre la admisibilidad de las pruebas que se desahogarán en la audiencia de juicio oral. Antes de terminar la audiencia el Juez dictará el auto de apertura a juicio.
+Dentro de los tres días siguientes de la notificación de la acusación formulada por el Ministerio Público, la víctima u ofendido podrán, mediante escrito, hacer valer los derechos que establece la codificación procedimental penal aplicable para la etapa intermedia.
 
-La Audiencia Intermedia se desarrollará en los términos previstos en el Código de Procedimientos Penales, en lo que no contravenga las disposiciones de ésta Ley.
+Dentro de los tres días siguientes a la notificación de la solicitud de coadyuvancia de la víctima u ofendido, el acusado o su Defensor, mediante escrito dirigido al Ministerio Público, o bien en audiencia intermedia podrá hacer valer los derechos que establece la codificación procedimental penal aplicable para la etapa intermedia. Deberá descubrir los medios de prueba que pretenda desahogar en juicio para tal efecto, a partir de este momento y hasta en un plazo máximo de tres días deberá entregar física y materialmente a las demás partes dichos medios de prueba, con salvedad del informe pericial el cual deberá ser entregado a más tardar el día de la celebración de la audiencia intermedia, sin perjuicio de que se anuncie en este momento. El escrito del acusado o su Defensor se notificará al Ministerio Público y al coadyuvante dentro de las veinticuatro horas siguientes a su comparecencia.
 
-### CAPÍTULO IX. MEDIDAS CAUTELARES
+El Juez señalará fecha para que se lleve a cabo la audiencia intermedia, la cual deberá tener lugar en un plazo que no podrá ser menor a cinco ni exceder de diez días a partir de que fenezca el plazo establecido en el párrafo anterior para el descubrimiento probatorio de la defensa.
+
+Previa celebración de la audiencia intermedia, el Juez de control podrá, por una sola ocasión y a solicitud de la defensa, diferir, hasta por cinco días, la celebración de la audiencia intermedia. Para tal efecto, la defensa deberá exponer las razones por las cuales ha requerido dicho diferimiento.
+
+El Juez hará llegar el auto de apertura a juicio oral al Tribunal de enjuiciamiento competente dentro de los tres días siguientes de haberse dictado y pondrá a su disposición los registros, así como al acusado.
+
+La Etapa Intermedia se desarrollará en los términos previstos en la codificación procedimental penal aplicable, en lo que no contravenga las disposiciones de ésta Ley.
+
+### CAPÍTULO VIII. DECLARACIÓN DEL ADOLESCENTE
 
 ###### Artículo 88.
 
@@ -1053,7 +1133,7 @@ Valor de la declaración.
 
 No tendrá valor probatorio la admisión de los hechos por parte del adolescente salvo que ésta sea hecha ante el Juez competente con la presencia de su abogado defensor y en su caso persona de confianza, y previo a que haya tenido la oportunidad de entrevistarse en privado con aquellos.
 
-### CAPÍTULO X. JUICIO
+### CAPÍTULO IX. MEDIDAS CAUTELARES
 
 ###### Artículo 90.
 
@@ -1087,7 +1167,7 @@ Concepto de máxima prioridad.
 
 A fin de que la detención provisional sea lo más breve posible, los tribunales y los órganos de investigación deberán considerar de máxima prioridad la tramitación efectiva de los casos en que un adolescente se encuentre detenido.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO X. JUICIO
 
 ###### Artículo 93.
 
@@ -1139,7 +1219,7 @@ La sentencia debe estar debidamente fundada y motivada, escrita en un lenguaje a
 
 ## TÍTULO CUARTO. MEDIDAS SANCIONADORAS
 
-### CAPÍTULO II. MEDIDAS SANCIONADORAS SOCIO-EDUCATIVAS NO PRIVATIVAS DE LIBERTAD
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 98.
 
@@ -1183,7 +1263,7 @@ IV. La privación de libertad en centros especializados para ejecución de medid
 
 De acuerdo con las particularidades del caso, el Juez podrá ordenar que se brinde orientación a quienes ejerzan la patria potestad respecto del adolescente, lo que deberá ser considerado por la Dirección de Ejecución de Medidas al formular el Programa Individualizado correspondiente.
 
-### CAPÍTULO III. MEDIDAS SANCIONADORAS PRIVATIVAS DE LIBERTAD
+### CAPÍTULO II. MEDIDAS SANCIONADORAS SOCIO-EDUCATIVAS NO PRIVATIVAS DE LIBERTAD
 
 ###### Artículo 100.
 
@@ -1239,7 +1319,7 @@ Las ordenes de orientación y supervisión, consisten en mandamientos o prohibic
 
 El Magistrado podrá modificar las órdenes impuestas, en caso de que el adolescente las incumpla.
 
-### CAPÍTULO IV. APLICACIÓN Y EJECUCIÓN DE LAS MEDIDAS SANCIONADORAS
+### CAPÍTULO III. MEDIDAS SANCIONADORAS PRIVATIVAS DE LIBERTAD
 
 ###### Artículo 105.
 
@@ -1339,7 +1419,7 @@ Excepción al cumplimiento de la medida sancionadora.
 
 No podrá atribuirse al adolescente el incumplimiento de las medidas sancionadoras que se le hayan impuesto cuando sea el Estado quien haya incumplido en la creación y organización de los programas para el seguimiento, supervisión y atención integral de los adolescentes condenados.
 
-### CAPÍTULO V. PRINCIPIOS GENERALES Y DERECHOS DURANTE LA EJECUCIÓN Y CUMPLIMIENTO DE LAS MEDIDAS SANCIONADORAS Y DISCIPLINARIAS
+### CAPÍTULO IV. APLICACIÓN Y EJECUCIÓN DE LAS MEDIDAS SANCIONADORAS
 
 ###### Artículo 112.
 
@@ -1502,6 +1582,8 @@ Destrucción de los registros.
 Tres años después del cumplimiento de la medida sancionadora impuesta o extinguida la acción penal por las causales previstas en esta Ley o en las leyes generales, se destruirán todos los registros vinculados con el proceso legal.
 
 Si el adolescente fuere absuelto, el expediente y antecedentes se destruirán inmediatamente, a excepción de que su conservación sea en su beneficio.
+
+### CAPÍTULO V. PRINCIPIOS GENERALES Y DERECHOS DURANTE LA EJECUCIÓN Y CUMPLIMIENTO DE LAS MEDIDAS SANCIONADORAS Y DISCIPLINARIAS
 
 ###### Artículo 127.
 
@@ -1706,3 +1788,11 @@ P.O. 12 DE NOVIEMBRE DE 2014.
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículo (sic) 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 10 DE DICIEMBRE DE 2014.
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. Una vez emitida la Declaratoria de entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de Morelos, que emita el Congreso del Estado, quedarán abrogados el Código de Procedimientos Penales en el Estado Libre y Soberano de Morelos, publicado en el Periódico Oficial número 1180, segunda sección de fecha treinta y uno de marzo de mil novecientos cuarenta y seis, el Código de Procedimientos Penales para el Estado de Morelos, publicado en el Periódico Oficial número 3820 tercera sección el día nueve de octubre de mil novecientos noventa y seis y el Código de Procedimientos Penales del Estado de Morelos, aprobado el día trece de noviembre del dos mil siete y publicado en el Periódico Oficial del Gobierno del Estado de Morelos “Tierra y Libertad”, número 4570 de fecha veintidós de noviembre del dos mil siete, así mismo, se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+TERCERA. En su caso, las menciones que en otros ordenamientos permanezcan y se hagan de los Códigos de Procedimientos Penales que se abrogan por virtud de la disposición transitoria que antecede, se entenderán referidas al Código Nacional de Procedimientos Penales.
