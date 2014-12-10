@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-rural-sustentable-del-estado-de-morelos-67318
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-04"
-last_updated: "2014-10-08"
+last_updated: "2014-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67318&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de marzo de 2009.
 
@@ -143,7 +143,9 @@ XXV. Investigación y transferencia de tecnología: La investigación y la moder
 
 XXVI. Ley: La Ley de Desarrollo Rural Sustentable del Estado de Morelos;
 
-XXVII. Marginalidad: La definida de acuerdo con los criterios establecidos por el Instituto Nacional de Estadística, Geografía e Informática (INEGI) y el Consejo Nacional de Población (CONAPO);
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+XXVII. Marginalidad: La definida de acuerdo con los criterios establecidos por el Instituto Nacional de Estadística y Geografía y el Consejo Nacional de Población (CONAPO);
 
 XXVIII. Órdenes de Gobierno: Los gobiernos Federal, Estatal y Municipal;
 
@@ -227,7 +229,7 @@ Son organizaciones coadyuvantes en el desarrollo rural, las emanadas de sus resp
 
 I. Consejo Estatal de Desarrollo Rural Sustentable;
 
-II. Consejos Regionales de (sic) el Desarrollo Rural Sustentable;
+II. Consejos Regionales de el Desarrollo Rural Sustentable;
 
 III. Consejos Municipales de Desarrollo Rural Sustentable;
 
@@ -1534,3 +1536,13 @@ P.O. 8 DE OCTUBRE DE 2014.
 Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA (SIC). El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 10 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
