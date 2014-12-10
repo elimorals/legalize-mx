@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-gobierno-municipal-del-estado-de-baja-57967"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-10-10"
-last_updated: "2014-11-20"
+last_updated: "2014-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Extraordinario Número 45-Bis al Boletín Oficial del Estado de Baja California Sur, el miércoles 10 de octubre de 2007.
 
@@ -485,7 +485,9 @@ r) Acordar, en su caso, la categoría y denominación política que les correspo
 
 s) Convocar a elección de delegados municipales;
 
-t) Designar en el ámbito de sus respectivas competencias al (sic) Coordinación Municipal de Derechos Humanos, y crear la Coordinación Municipal de Atención a Personas con Capacidades Diferentes, las (sic) cual será autónoma en sus decisiones;
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 2014)</small>
+
+t) Designar en el ámbito de sus respectivas competencias al titular de la Coordinación Municipal de Derechos Humanos, y crear la Coordinación Municipal para la Inclusión de las Personas con Discapacidad;
 
 II.- En materia de obra pública y desarrollo urbano:
 
@@ -811,7 +813,9 @@ l) De Transporte Público;
 
 m) De saneamiento, agua potable y alcantarillado;
 
-n) De derechos humanos y atención a personas con capacidades diferentes.
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 2014)</small>
+
+n) De Derechos Humanos e Inclusión de las Personas con Discapacidad.
 
 o) Las demás que determine y apruebe el Ayuntamiento, de acuerdo con las necesidades de cada Municipio.
 
@@ -2410,3 +2414,9 @@ B.O. 20 DE OCTUBRE DE 2014.
 B.O. 20 DE NOVIEMBRE DE 2014.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE DICIEMBRE DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- En un plazo no mayor a 30 días hábiles, los Ayuntamientos de la Entidad proveerán en la esfera administrativa todas las acciones necesarias a fin de crear su correspondiente Coordinación Municipal para la Inclusión de las Personas con Discapacidad.
