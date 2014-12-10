@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-97482"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-01-17"
-last_updated: "2014-11-19"
+last_updated: "2014-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97482&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-01-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE DICIEMBRE DE 2014.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 17 de enero de 2014.
 
@@ -1217,9 +1217,11 @@ Si en el dictamen se concluye que no existen elementos suficientes para advertir
 
 #### SECCIÓN PRIMERA. INICIO DEL PROCEDIMIENTO ADMINISTRATIVO
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 128.
 
-El procedimiento de responsabilidad administrativa inicia por oficio, queja o denuncia presentada bajo protesta de decir verdad, por cualquier persona, por el servidor público que tenga conocimiento de los hechos o por el agente del Ministerio Público de la Federación. Las denuncias o quejas que se formulen deberán estar apoyadas en pruebas documentales o elementos probatorios suficientes para establecer la existencia de la infracción y presumir la responsabilidad del servidor público denunciado.
+El procedimiento de responsabilidad administrativa inicia de oficio, o por queja o denuncia presentada bajo protesta de decir verdad, por cualquier persona, por el servidor público que tenga conocimiento de los hechos o por el agente del Ministerio Público de la Federación. Las denuncias o quejas que se formulen deberán estar apoyadas en pruebas documentales o elementos probatorios suficientes para establecer la existencia de la infracción y presumir la responsabilidad del servidor público denunciado, y deberán presentarse en original y con el número de copias que sean necesarias, tanto del escrito como los anexos que se acompañen, para que, en su caso, pueda llevarse a cabo el envío a que se refiere el artículo 133 de este Acuerdo.
 
 En el supuesto en que se cuestione la autenticidad de la suscripción de dichos escritos, y a fin de evitar alteración, falsificación o suplantación de la personalidad, el órgano competente podrá requerir al promovente para que, previa identificación, ratifique el contenido del ocurso presentado a su nombre, lo que de no acontecer, generará que sea desechado de plano.
 
@@ -1251,9 +1253,19 @@ En ambos proveídos se determinará si el asunto se considera por su naturaleza 
 
 #### SECCIÓN SEGUNDA. TRÁMITE DEL PROCEDIMIENTO
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 133.
 
-En los procedimientos de responsabilidad administrativa se ordenará emplazar al servidor público enviándole copia del proveído donde se ordena el inicio del procedimiento, la queja o denuncia y anexos correspondientes, y, en su caso, del resultado de la investigación, para que en un plazo de cinco días hábiles formule un informe sobre los hechos que se le atribuyen.
+En los procedimientos de responsabilidad administrativa se ordenará emplazar al servidor público enviándole copia del:
+
+I. Proveído donde se ordena el inicio del procedimiento, precisando los hechos y fundamento de la probable responsabilidad administrativa;
+
+II. Escrito de denuncia o queja, y de los anexos con la que fue presentada. En el caso de los procedimientos que inicien de oficio, sólo se enviará la copia del proveído que ordene su inicio; y
+
+III. Resultado de la investigación, para que en un plazo de cinco días hábiles formule un informe sobre los hechos que se le atribuyen.
+
+En todo caso el servidor público estará en posibilidad de consultar el expediente en las instalaciones del área u órgano instructor, sin perjuicio de solicitar copias de las constancias que considere necesarias, así como la ampliación del plazo a que se refiere el artículo 136 de este Acuerdo.
 
 El informe deberá referirse a todos y cada uno de los hechos atribuidos; afirmándolos, negándolos, expresando los que ignore por no ser propios y refiriéndolos como crea que tuvieron lugar.
 
@@ -1280,6 +1292,10 @@ II. Diez días hábiles más: si se trata de servidor público que ya no está a
 III. Quince días hábiles más: en el caso de ex-servidor público del Poder Judicial de la Federación.
 
 La solicitud será calificada por el órgano encargado del trámite, quien en su caso, autorizará la ampliación.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 10 DE DICIEMBRE DE 2014)</small>
+
+Tratándose de los procedimientos de responsabilidad administrativa que inicien de oficio, los plazos establecidos en las fracciones anteriores, se aumentará un día más por cada doscientas fojas que contenga el expediente, sin exceder de treinta días hábiles.
 
 ###### Artículo 137.
 
@@ -2740,3 +2756,9 @@ DÉCIMO. Las áreas administrativas del Consejo de la Judicatura Federal, en el 
 DÉCIMO PRIMERO. La creación de los jueces de Ejecución de los Centros de Justicia Penal quedará diferida hasta en tanto se expida la legislación en la materia.
 
 DÉCIMO SEGUNDO. Para efectos del artículo 110 de la Ley Orgánica del Poder Judicial de la Federación los Asistentes de Constancias y Registro de Tribunal de Alzada, Juzgado de Control, y Tribunal de Enjuiciamiento, constituyen una especialización de las categorías de secretarios de tribunal de Circuito y de juzgado de Distrito.
+
+D.O.F. 10 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
