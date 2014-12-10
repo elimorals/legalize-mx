@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-nomenclatura-de-los-bienes-del-estado-de-morelos-y-89072
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-15"
-last_updated: "2012-08-15"
+last_updated: "2014-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89072&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE NOMENCLATURA DE LOS BIENES DEL ESTADO DE MORELOS Y DE SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 15 de agosto de 2012.
 
@@ -63,15 +63,21 @@ II. Cronista: El Cronista Municipal.
 
 III. Dirección: La Dirección de planeación urbana equivalente de cada Municipio;
 
-IV. Instituto: El Instituto de Cultura del Estado Morelos (sic);
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+IV. Secretaría de Cultura: La Secretaría de Cultura del Estado de Morelos;
 
 V. Municipios: Los municipios del Estado de Morelos;
 
 VI. Nomenclatura: Denominación de los bienes del Estado de Morelos y sus municipios, y
 
-VII. Secretaría: La Secretaría de Desarrollo Urbano y Obras Públicas
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-### CAPÍTULO TERCERO (SIC). DE LA NOMENCLATURA DE LOS BIENES
+VII. Secretaría: La Secretaría de Obras Públicas del Estado de Morelos.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO SEGUNDO. AUTORIDADES Y ÁMBITO DE APLICACIÓN
 
 ###### Artículo 4.
 
@@ -97,7 +103,7 @@ VII. Los museos y edificios construidos y sostenidos por el Estado o los municip
 
 VIII. En general todos aquellos bienes construidos y sostenidos por el Estado o los municipios, o que en lo sucesivo construyan y sostengan para la atención de cualquier servicio público local o que en la actualidad estén destinados a dicho servicio.
 
-### CAPÍTULO CUARTO. DEL PROCEDIMIENTO PARA DETERMINAR LA NOMENCLATURA DE LOS BIENES DEL ESTADO
+### CAPÍTULO TERCERO. DE LA NOMENCLATURA DE LOS BIENES
 
 ###### Artículo 6.
 
@@ -121,7 +127,7 @@ VI. No se emplearán fechas relacionadas con hechos y actos ilícitos, y
 
 VII. Se deberá dar preferencia a los nombres, fechas, lugares y cosas representativas del Estado de Morelos.
 
-### CAPÍTULO QUINTO. DEL PROCEDIMIENTO PARA DETERMINAR LA NOMENCLATURA DE LOS BIENES DE LOS MUNICIPIOS
+### CAPÍTULO CUARTO. DEL PROCEDIMIENTO PARA DETERMINAR LA NOMENCLATURA DE LOS BIENES DEL ESTADO
 
 ###### Artículo 7.
 
@@ -131,11 +137,13 @@ La Secretaría, deberá publicar en su portal de internet, la relación de obras
 
 La Secretaría, recibirá por escrito o vía electrónica, las propuestas de ciudadanos o representantes de los sectores social y privado para la nomenclatura de los bienes del Estado, mismas que deberán motivarse de acuerdo al tipo, ubicación, representatividad y uso del bien.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 9.
 
-Transcurridos cuarenta y cinco días naturales, la Secretaría remitirá las propuestas al Instituto de Cultura del Estado de Morelos, para que éste emita una terna para la nomenclatura.
+Transcurridos cuarenta y cinco días naturales, la Secretaría remitirá las propuestas a la Secretaría de Cultura, a fin de que esta última emita una terna para la nomenclatura.
 
-El Instituto, previa consulta a la Dirección General de Adquisiciones y Patrimonio tratándose de bienes de Gobierno del Estado, y al área administrativa correspondiente de los Ayuntamientos tratándose de bienes municipales y tomando en consideración lo dispuesto por el artículo 6 de esta ley, motivará su resolución y enviará la terna a la Secretaría en un plazo no mayor de 30 días naturales.
+La Secretaría de Cultura, previa consulta a la unidad administrativa encargada del registro y control del patrimonio del Estado tratándose de bienes de Gobierno del Estado, y al área administrativa correspondiente de los Ayuntamientos tratándose de bienes municipales y tomando en consideración lo dispuesto por el artículo 6 de esta Ley, motivará su resolución y enviará la terna a la Secretaría en un plazo no mayor de 30 días naturales.
 
 ###### Artículo 10.
 
@@ -143,15 +151,19 @@ Recibida la terna, la Secretaría procederá a la elección de la nomenclatura p
 
 La resolución de la Secretaría deberá motivarse y será publicada en su portal de internet.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 11.
 
-La Secretaría ingresará los datos de nomenclatura de los bienes del Estado a la Dirección General de Adquisiciones y Patrimonio tratándose de bienes de Gobierno del Estado, y al área administrativa correspondiente de los Ayuntamientos tratándose de bienes municipales.
+La Secretaría ingresará los datos de nomenclatura de los bienes del Estado a la unidad administrativa encargada del registro y control del patrimonio del Estado, y al área administrativa correspondiente de los Ayuntamientos tratándose de bienes municipales.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 12.
 
-La Secretaría, previa consulta al Instituto, podrá determinar la nomenclatura de aquellos bienes del Estado que ya estén construidos y que carezcan de alguna denominación, o ya teniéndola, ésta genere confusión.
+La Secretaría, previa consulta a la Secretaría de Cultura, podrá determinar la nomenclatura de aquellos bienes del Estado que ya estén construidos y que carezcan de alguna denominación, o ya teniéndola genere confusión.
 
-### CAPÍTULO SEXTO. DE LAS RESPONSABILIDADES
+### CAPÍTULO QUINTO. DEL PROCEDIMIENTO PARA DETERMINAR LA NOMENCLATURA DE LOS BIENES DE LOS MUNICIPIOS
 
 ###### Artículo 13.
 
@@ -180,6 +192,8 @@ El Cronista realizará y administrará un Registro Municipal de Nomenclatura, en
 ###### Artículo 18.
 
 La Dirección, previa consulta al Cronista, podrá determinar la nomenclatura de aquellos bienes del municipio que ya estén construidos y que carezcan de alguna denominación, o ya teniéndola, ésta genere confusión.
+
+### CAPÍTULO SEXTO. DE LAS RESPONSABILIDADES
 
 ###### Artículo 19.
 
@@ -210,3 +224,11 @@ SECRETARIO DE GOBIERNO.
 DR. OSCAR SERGIO HERNÁNDEZ BENÍTEZ.
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
