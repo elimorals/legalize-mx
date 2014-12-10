@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-ley-de-acceso-de-las-mujeres-a-una-vida-73550"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-04"
-last_updated: "2010-03-04"
+last_updated: "2014-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el jueves 4 de marzo de 2010.
 
@@ -421,25 +421,31 @@ III. La investigación multidisciplinaria sobre los tipos de violencia.
 
 El Sistema, o en su caso el Poder Ejecutivo del Estado, al ser notificado de la declaratoria de alerta de violencia contra las mujeres y del agravio comparado se sujetará a lo dispuesto por el artículo 37 de la Ley, y 23 de la Ley General.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 43.
 
-Para los efectos del artículo 39 de la Ley, la Mesa de Armonización Legislativa conformada por la Consejería Jurídica, el Instituto de la Mujer para el Estado de Morelos y el Congreso del Estado, sesionarán en la primera semana de marzo y septiembre, para efecto de revisar y analizarán los tratados internacionales ratificados por el Estado Mexicano, y los avances legislativos y reglamentarios en el país suscitados a lo largo de cada semestre del año, en sus respectivos ámbitos de competencia.
+Para los efectos del artículo 39 de la Ley, la Mesa de Armonización Legislativa conformada por la Consejería Jurídica, el Instituto y el Congreso del Estado, sesionarán en la primera semana de marzo, junio, septiembre y diciembre, para efecto de revisar y analizarán los tratados internacionales ratificados por el Estado Mexicano, y los avances legislativos y reglamentarios en el país suscitados a lo largo de cada semestre del año, en sus respectivos ámbitos de competencia.
 
-La Sesión será convocada por la Consejería Jurídica por lo menos con 15 días de anticipación, señalando fecha, hora, lugar, y duración aproximada.
+La Secretaría de Gobierno participará en las sesiones de la Mesa de Armonización, dada su calidad de Presidente del Sistema.
 
-La persona que acuda en representación del Instituto de la Mujer para el Estado de Morelos, deberá de llevar la recopilación y el análisis de los avances reglamentarios y normativos en el ámbito administrativo suscitados en el semestre, en otras entidades del país; el reporte de los tratados internacionales suscritos por el Estado Mexicano en ese mismo periodo y el reporte de las reformas, adiciones o entrada en vigor de normas reglamentarias o de carácter administrativo que en la materia, haya expedido el Gobernador del Estado en el semestre próximo anterior a la celebración de la Sesión.
+La Sesión, será convocada por el Instituto por lo menos con 5 días de anticipación, señalando fecha, hora, lugar, y duración aproximada.
 
-Con los anteriores elementos el día de la sesión, los integrantes de la Mesa acordarán las propuestas legislativas y reglamentarias en las que se deberá de trabajar desde esa fecha y hasta la siguiente sesión, respetando sus respectivos ámbitos de competencia, tomando los acuerdos respectivos y dándoles seguimiento a los mismos, para que dichas propuestas sigan los procedimientos legales que correspondan, se materialicen y adquieran vigencia.
+La persona que acuda en representación del Instituto, deberá de llevar la recopilación y el análisis de los avances reglamentarios y normativos en el ámbito administrativo suscitados en el semestre, en otras Entidades del País; el reporte de los tratados internacionales suscritos por el Estado Mexicano en ese mismo período y el reporte de las reformas, adiciones o entrada en vigor de normas reglamentarias o de carácter administrativo que en la materia, haya expedido el Gobernador del Estado en el trimestre próximo anterior a la celebración de la Sesión.
 
-De todas las sesiones la Consejería Jurídica levantará Acta de los acuerdos tomados y los compromisos adquiridos, misma que deberá de ser firmada por los asistentes a la sesión, al finalizar la misma.
+Con los anteriores elementos el día de la sesión, los integrantes de la Mesa de Armonización acordarán las propuestas legislativas y reglamentarias en las que se deberá de trabajar desde esa fecha y hasta la siguiente sesión, respetando sus respectivos ámbitos de competencia, tomando los Acuerdos respectivos y dándoles seguimiento a los mismos, para que dichas propuestas sigan los procedimientos legales que correspondan, se materialicen y adquieran vigencia.
 
-Quince días posteriores a la segunda sesión de cada año, la Consejería Jurídica elaborará y remitirá, con la información obtenida de las sesiones y los acuerdos tomados, el informe Anual a que se refiere el artículo 40 de la Ley, al Sistema.
+De todas las sesiones el Instituto levantará Acta de los Acuerdos tomados y los compromisos adquiridos, misma que deberá de ser firmada por los asistentes a la sesión, en la siguiente sesión.
+
+Quince días posteriores a la última sesión de cada año, el Instituto elaborará y remitirá, con la información obtenida de las sesiones y los Acuerdos tomados, el informe Anual a que se refiere el artículo 40, de la Ley, al Sistema.
 
 ### CAPÍTULO II. DE LAS ÓRDENES DE PROTECCIÓN
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 44.
 
-Para el trámite y otorgamiento de las órdenes de protección a que se refieren los artículos 41 y 42 de la Ley, se estará a lo dispuesto en el reglamento que para tal efecto expida el Ejecutivo Estatal.
+Para el trámite y otorgamiento de las órdenes de protección a que se refieren los artículos 41, 42, 42 Bis y 42 Ter de la Ley, se estará a lo dispuesto en el Reglamento que para tal efecto expida el Ejecutivo Estatal.
 
 ## TÍTULO CUARTO. DEL SISTEMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
@@ -962,3 +968,13 @@ RICARDO EMILIO ESPONDA GAXIOLA
 SECRETARIO DE DESARROLLO HUMANO Y SOCIAL
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE DICIEMBRE DE 2014.
+
+PRIMERA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+TERCERA. El Instituto de la Mujer para el Estado de Morelos, deberá remitir al Titular del Poder Ejecutivo Estatal, el proyecto con las adecuaciones necesarias al Reglamento para la aplicación de las Órdenes Protección en materia de Violencia contra las Mujeres y Violencia Familiar para el Estado de Morelos, para que éste lo expida en uso de su facultad reglamentaria.
