@@ -4,7 +4,7 @@ identifier: "SON-ley-que-regula-el-funcionamiento-y-operacion-de-yunques-y-61489
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-02"
-last_updated: "2013-06-27"
+last_updated: "2014-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61489&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # LEY QUE REGULA EL FUNCIONAMIENTO Y OPERACION DE YUNQUES Y RECICLADORAS PARA EL ESTADO DE SONORA
 
-LEY QUE REGULA EL FUNCIONAMIENTO Y OPERACION DE YUNQUES Y RECICLADORAS PARA EL ESTADO DE SONORA
+LEY QUE REGULA EL FUNCIONAMIENTO Y OPERACIÓN DE YUNQUES Y RECICLADORAS PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el lunes 2 de junio de 2008.
 
@@ -145,19 +145,23 @@ VI.- Permitir la inspección y verificación en los Yunques y Recicladoras a los
 
 VII.- Otorgar garantías ante la Secretaría y, en su caso, los ayuntamientos, para asegurar que al cierre de las operaciones de sus instalaciones, éstas queden libres de residuos y no presenten niveles de contaminación que puedan representar un riesgo para la salud humana y el ambiente;
 
-VIlI.- Proporcionar a la Secretaría y, en su caso, a los ayuntamientos la información que les sea requerida;
+VIII.- Proporcionar a la Secretaría y, en su caso, a los ayuntamientos la información que les sea requerida;
 
 > <small>(REFORMADA, B.O. 27 DE JUNIO DE 2013)</small>
 
 IX.- Verificar, en todo momento, el origen de los materiales u objetos que compran para el desarrollo de su actividad y llevar un registro con los datos de la identificación correspondiente de las personas que les ofrecen en venta dichos materiales u objetos, registrando la cantidad comprada y la fecha en que se llevó a cabo la compra;
 
-> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, B.O. 11 DE DICIEMBRE DE 2014)</small>
 
-X.- Proporcionar, mensualmente, a la Secretaría y a la Procuraduría General de Justicia, la lista de materiales y copia fotostática de las identificaciones oficiales de todas las personas a las que les compraron material reciclable de cualquier tipo; y
+X.- Proporcionar, mensualmente, a la Secretaría y a la Procuraduría General de Justicia, la lista de materiales y copia fotostática de las identificaciones oficiales de todas las personas de quienes adquirieron material reciclable de cualquier tipo;
 
-> <small>(ADICIONADA, B.O. 27 DE JUNIO DE 2013)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 11 DE DICIEMBRE DE 2014)</small>
 
-XI.- Las demás que esta ley y otros ordenamientos jurídicos establezcan.
+XI.- Poner en lugar visible del establecimiento la lista de encargados de la semana del Yunque o Recicladora, con su nombre y foto, al igual de su horario de trabajo, con el objetivo de que las autoridades puedan verificar quien es el encargado en todo momento; y
+
+> <small>(ADICIONADA, B.O. 11 DE DICIEMBRE DE 2014)</small>
+
+XII.- Las demás que esta ley y otros ordenamientos jurídicos establezcan.
 
 ###### Artículo 8.
 
@@ -271,17 +275,19 @@ Son infracciones a la presente ley, por parte de los propietarios o representant
 
 I.- Proporcionar información falsa a la Secretaría y, en su caso, a los ayuntamientos;
 
-II.- No poner en lugar visible del establecimiento el original o copia certificada de la autorización o revalidación y de la constancia de inscripción del Yunque o Recicladora ante el Registro;
+> <small>(REFORMADA, B.O. 11 DE DICIEMBRE DE 2014)</small>
+
+II.- No poner en lugar visible del establecimiento el original o copia certificada de la autorización o revalidación y de la constancia de inscripción del Yunque o Recicladora ante el Registro y la lista de encargados de la semana del Yunque o Recicladora, con su nombre y foto, al igual de su horario de trabajo, con el objetivo de que las autoridades puedan verificar quien es el encargado en todo momento;
 
 III.- Realizar dentro del establecimiento actividades distintas a las que se señalen en la autorización que para tal efecto le fue aprobada;
 
-lV.- No dar aviso a la Secretaría y, en su caso, a los ayuntamientos, de la terminación de sus actividades dentro del plazo señalado en la fracción IV del artículo 7 de esta ley;
+IV.- No dar aviso a la Secretaría y, en su caso, a los ayuntamientos, de la terminación de sus actividades dentro del plazo señalado en la fracción IV del artículo 7 de esta ley;
 
 V.- Impedir la inspección y verificación en los Yunques y Recicladoras a los inspectores de la Secretaría o del Ayuntamiento, según sea el caso;
 
-VI.- No otorgar las garantías a que se refiere la fracción Vll del artículo 7 de esta ley;
+VI.- No otorgar las garantías a que se refiere la fracción VII del artículo 7 de esta ley;
 
-VIl.- Operar sin la autorización para su establecimiento o la constancia de inscripción en el Registro;
+VII.- Operar sin la autorización para su establecimiento o la constancia de inscripción en el Registro;
 
 VIII.- Negarse a proporcionar a la Secretaría y, en su caso, a los ayuntamientos la información que les sea requerida;
 
@@ -303,21 +309,23 @@ III.- Clausura temporal o permanente, parcial o total; y
 
 IV.- Las demás que se señalen en esta ley, en su reglamento y demás ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO, B.O. 11 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 26.
 
 Las infracciones a lo establecido en la presente ley, se sancionarán por parte de la Secretaría y, en su caso, por los ayuntamientos, conforme a los siguientes supuestos:
 
 I.- Amonestación con apercibimiento:
 
-En los previstos en las fracciones II y VIII del artículo 24 de esta ley, cuando se cometan por primera ocasión;
+En lo previsto en la fracción VIII del artículo 24 de esta ley, cuando se cometan por primera ocasión;
 
 II.- Multa:
 
-Cuando se cometan por primera vez los supuestos previstos en las fracciones III, IV, V, IX y X, así como cuando se cometan por segunda ocasión los supuestos previstos en las fracciones II y VIII, todas del artículo 24 de esta ley; y
+Cuando se cometan por primera vez los supuestos previstos en las fracciones II, III, IV, V, IX y X, así como cuando se cometa por segunda ocasión el supuesto previsto en la fracción VIII, del artículo 24 de esta ley; y
 
 III.- Clausura temporal o permanente, parcial o total:
 
-Cuando se cometan por segunda vez los supuestos previstos en las fracciones III, IV, V, IX y X, así como cuando se cometan los supuestos previstos en las fracciones I, VI, VII y XI, todas del artículo 24 de esta ley.
+Cuando se cometan por segunda vez los supuestos previstos en las fracciones II, III, IV, V, IX y X, así como cuando se cometan los supuestos previstos en las fracciones I, VI, VII y XI, todas del artículo 24 de esta ley.
 
 ###### Artículo 27.
 
@@ -380,3 +388,9 @@ B.O. 27 DE JUNIO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 11 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
