@@ -4,7 +4,7 @@ identifier: "SON-ley-de-ordenamiento-territorial-y-desarrollo-urbano-del-51863"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-28"
-last_updated: "2013-06-27"
+last_updated: "2014-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51863&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE DICIEMBRE DE 2014.
 
 Ley publicada en el la Sección IV del Boletín Oficial del Estado de Sonora, el jueves 28 de septiembre de 2006.
 
@@ -737,9 +737,49 @@ VII.- Salvaguardar el patrimonio construido, preservando los edificios y conjunt
 
 VIII.- Procurar que el centro de población mantenga o desarrolle de manera integral la calidad de la imagen paisajística y urbana;
 
-IX.- Facilitar la comunicación y los desplazamientos de la población, otorgando preferencia a los sistemas colectivos de transporte; y
+> <small>(REFORMADA, B.O. 11 DE DICIEMBRE DE 2014)</small>
+
+IX.- Facilitar la comunicación y los desplazamientos de la población, otorgando preferencia a los sistemas colectivos de transporte y habilitando vías y espacios seguros y adecuados para la circulación de bicicletas, de forma tal que constituyan rutas y circuitos articulados entre sí conforme a los lineamientos técnicos que para tales efectos establezcan los institutos municipales de planeación, sus equivalentes municipales y supletoriamente o en coadyuvancia la instancia del Ejecutivo Estatal correspondiente.
 
 X.- Todos aquellos que permitan orientar el desarrollo del centro de población a condiciones de competitividad y sustentabilidad urbana.
+
+> <small>(ADICIONADO, B.O. 11 DE DICIEMBRE DE 2014)</small>
+
+ARTÍCULO 39 BIS.- La habilitación de vías y espacios seguros y adecuados para la circulación de bicicletas tendrá carácter obligatorio para todas las vías públicas que se tracen y construyan después de la entrada en vigor del presente ordenamiento; En el caso de vías ya existentes su adecuación será dictaminada por los institutos municipales de planeación y/o sus equivalentes estableciendo en los Programas de Desarrollo Urbano de los Centros Urbanos de Población. En ambos casos, según sus características físicas, condiciones y circunstancias se adecuaran dichas vías conforme a los preceptos plasmados en este artículo.
+
+I.- Los espacios adecuados para la circulación de bicicletas en las vialidades se adecuaran, habilitaran o implementaran según sea el caso de acuerdo a los modelos que describen en los siguientes incisos de manera enunciativa más no limitativa.
+
+a) Ciclovía: Vía construida para la circulación exclusiva de bicicletas y que está separada físicamente tanto del tráfico motorizado como del peatonal.
+
+1.- Ciclovia Unidireccional: diseño con un sentido de circulación en un mismo cuerpo vial.
+
+2.- Ciclovia Bidireccional: diseño con los dos sentidos de circulación ciclista en un mismo cuerpo vial.
+
+b) Ciclocarril: Carril acondicionado para la circulación exclusiva de bicicletas, separado del tráfico vehicular mediante señalización.
+
+c) Carril Compartido: vía, colectora o de acceso, que presenta bajos volúmenes de tránsito y que da prioridad a la circulación ciclista, compartiendo el espacio con el tránsito automotor de forma segura.
+
+II.- Las características y normas técnicas para la implementación de las vías descritas en el numeral anterior serán las siguientes:
+
+a) En vialidades que han de integrarse a la infraestructura ciclista se deberán considerar carriles exclusivos para la circulación de bicicletas con un ancho de 2.00 metros en un sentido, considerando 1.50 metros como distancia mínima permitida donde los asentamientos existentes no lo permitan en el corto plazo de ejecución.
+
+b) Los siguientes lineamientos de diseño muestran varios factores para la planeación de ciclovías, incluyendo niveles de separación entre avenidas, andadores, anchos, materiales, distancia de alto y estacionamientos.
+
+1.- La Ciclovía: de ser uso exclusivo para bicicletas. Puede ir paralela a una vía, y es físicamente separada por distancia o barreras verticales. El cruce entre la Ciclovía y peatones o automóviles debe ser minimizada. La Ciclovía requiere del suficiente espacio para su planeación y reserva territorial asegurando un futuro crecimiento.
+
+2.- Ciclocarriles: comparte el derecho de vía con una vialidad o andador. Es indicada por la simbología correspondiente en el pavimento, y franja continua pintada en el pavimento, señalamiento vial o alguna barrera o dispositivo; El Ciclocarril requiere de menos espacio que la Ciclovía, ya que siguen el alineamiento y derecho de vía compartido de un andador o vialidad.
+
+3.- Carril Compartido: comparte el derecho de vía con andadores o vialidades. No va indicada por alguna franja separadora, marca en pavimento y cualquier otro dispositivo de seguridad. Su diseño debe ser principalmente para calles locales.
+
+c) Ancho de Vía.- El ancho de vía mínimo para un carril de ciclovía y ciclocarriles de 2.0 metros. Esto debe de ser ajustado de acuerdo a cada clasificación de ciclovía y ciclocarril y condiciones de tráfico.
+
+1.- Para la Ciclovía: se debe de considerar un mínimo de carril de 2.50 metros de ancho para circulación en ambos sentidos.
+
+2.- Un ancho mínimo de 2.0 metros se debe de proporcionar para ciclocarril, lo que permite que circule una bicicleta en un solo sentido.
+
+c) Cruce de Infraestructura ciclista.- La colocación de áreas de espera ciclista adelantadas a la línea de alto de los vehículos motorizados, además de semáforos con fases especiales para ciclistas, permiten que estos usuarios comiencen su desplazamiento previo a los autos.
+
+III.- El Gobierno del Estado, Los Municipios y los Institutos Municipales de Planeación, áreas Municipales de Desarrollo Urbano, Tránsito y las que resultaren sus equivalentes o corresponsables en la demarcación en cuestión tomarán las previsiones presupuestales y operativas conducentes para la aplicación de los preceptos legales plasmados en el presente ordenamiento, procurando mediante el estudio sistemático y permanente del fenómeno de la movilidad urbana, generar acciones progresivas en favor del uso de la bicicleta como medio de transporte ecológico, sustentable y seguro.
 
 ###### ARTÍCULO 40.
 
@@ -1205,7 +1245,9 @@ II.- Los proyectos territoriales de inversión, que se constituyan integralmente
 
 III.- La introducción de redes de infraestructura de servicios, de agua potable, drenaje pluvial y sanitario, electrificación, alumbrado público, telefonía y otras instalaciones especiales para las actividades urbanas y productivas;
 
-IV.- La apertura de vialidades y sus elementos complementarios como andadores peatonales, entronques, enlaces y estacionamientos de vehículos;
+> <small>(REFORMADA, B.O. 11 DE DICIEMBRE DE 2014)</small>
+
+IV.- La apertura de vialidades y sus elementos complementarios como andadores peatonales, entronques, enlaces, estacionamientos de vehículos y estacionamiento de bicicletas garantizando en su diseño, instalación y ubicación la accesibilidad y seguridad tanto para el ciclista como para su bicicleta.
 
 V.- La previsión, ubicación y construcción de las áreas dedicadas a equipamiento urbano destinado a satisfacer las necesidades de educación, salud, esparcimiento, comunicación, transporte, abasto y servicios de la población;
 
@@ -2031,7 +2073,7 @@ AL MARGEN CENTRAL DERECHO UN SELLO CON EL ESCUDO NACIONAL QUE DICE: ESTADOS UNID
 
 AL MARGEN SUPERIOR IZQUIERDO UN SELLO CON EL ESCUDO NACIONAL QUE DICE: ESTADOS UNIDOS MEXICANOS.- GOBIERNO DEL ESTADO DE SONORA.- POR TANTO, MANDO SE PUBLIQUE EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO Y SE LE DE EL DEBIDO CUMPLIMIENTO.- DADO EN LA RESIDENCIA DEL PODER EJECUTIVO, EN LA CIUDAD DE HERMOSILLO, SONORA, A LOS VEINTE DÍAS DEL MES DE SEPTIEMBRE DEL AÑO DOS MIL SEIS.- SUFRAGIO EFECTIVO. NO REELECCIÓN. EL GOBERNADOR DEL ESTADO, EDUARDO BOURS CASTELO.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- ROBERTO RUIBAL ASTIAZARÁN.- RUBRICA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 5 DE AGOSTO DE 2011.
 
@@ -2066,3 +2108,17 @@ Los ayuntamientos del Estado deberán adecuar su reglamentación municipal en ma
 ###### ARTICULO CUARTO.
 
 Hasta en tanto los ayuntamientos no cuenten con lo señalado en el artículo anterior, deberán ceñir su actuación de manera supletoria a las disposiciones emanadas del presente Decreto.
+
+B.O. 11 DE DICIEMBRE DE 2014.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+###### ARTICULO SEGUNDO.
+
+Las instituciones públicas tendrán un plazo de 90 días para realizar las adecuaciones necesarias para contar con estacionamiento para bicicletas.
+
+###### ARTICULO TERCERO.
+
+El Ejecutivo del Estado y los Ayuntamientos dispondrán de lo necesario para la difusión, promoción y ejecución de las medidas derivadas del ordenamiento objeto de esta reforma, de manera tal que coadyuven a (sic) eficaz aplicación y conclusión de las mismas.
