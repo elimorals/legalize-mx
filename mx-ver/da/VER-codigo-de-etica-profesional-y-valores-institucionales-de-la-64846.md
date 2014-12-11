@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-etica-profesional-y-valores-institucionales-de-la-648
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-09"
-last_updated: "2008-12-09"
+last_updated: "2014-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64846&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 CODIGO DE ETICA PROFESIONAL Y VALORES INSTITUCIONALES DE LA PROCURADURIA GENERAL DE JUSTICIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO 20 DEL CÓDIGO DE CONDUCTA DE LA PROCURADURÍA GENERAL DE JUSTICIA, PUBLICADO EN EL P.O. DE 11 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2014 (ABROGADO).
 
 Código publicado en el Número Extraordinario 405 de la Gaceta Oficial del Estado de Veracruz, el martes 9 de diciembre de 2008.
 
@@ -230,3 +232,13 @@ EL PROCURADOR GENERAL DE JUSTICIA
 SALVADOR MIKEL RIVERA
 
 RÚBRICA.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE LA CARTA DE INTRODUCCIÓN AL CÓDIGO DE CONDUCTA DE LA PROCURADURÍA GENERAL DE JUSTICIA PUBLICADO EN EL P.O. 11 DE DICIEMBRE DE 2014.</small>
+
+CARTA DE INTRODUCCIÓN
+
+Como Titular de esta importante Área del Gobierno Estatal, a través de esta misiva, me dirijo a todos los ciudadanos y ciudadanas que prestan sus servicios en la misma, desde quienes están al frente de los cargos de alta responsabilidad hasta los que realizan las tareas más modestas, pero no por ello menos importantes, para comunicarles que a partir de esta fecha entra en vigor el Código de Conducta, el cual contiene una serie de valores que debemos observar, sin excepción alguna, todos quienes laboramos en la Procuraduría General de Justicia, y que normarán nuestro comportamiento no sólo en los espacios de trabajo y dentro de los edificios, sino que también extramuros, lo cual propiciará que pongamos en alto el nombre de esta Dependencia. Por ello les hago una exhortación para que cumplan con la doctrina que se contempla en este documento y a que compitan con sí mismos buscando la superación personal al asumir una nueva modalidad en sus formas de ser y de actuar.
+
+......
+
+......
