@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2014-12-04"
+last_updated: "2014-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CÓDIGO PENAL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE DICIEMBRE DE 2014.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -439,7 +439,7 @@ Para que proceda lo que se prevé en esta fracción, será necesario que el ofen
 
 En los supuestos de las fracciones II y III, cuando el responsable de resarcir daños y perjuicios carezca de medios y recursos para realizar el pago correspondiente, el Estado, a través de sus organismos y dependencias competentes, tendrá la obligación de proporcionar a la víctima los tratamientos y cuidados necesarios para su recuperación, en términos de la Ley de Atención y Protección a Víctimas del Delito, la Ley de Prevención y Atención de la Violencia Intrafamiliar para el Estado de Sonora, y en su caso, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia Familiar para el Estado de Sonora.
 
-(NOTA: EL 3 DE AGOSTO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 1/2014, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, RESPECTO A “SECUESTRO” SURTIÓ EFECTOS RETROACTIVOS AL 28 DE FEBRERO DE 2011 Y A “TRATA DE PERSONAS” SURTIÓ EFECTOS RETROACTIVOS AL 15 DE JUNIO DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(NOTA: EL 3 DE AGOSTO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 1/2014, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, RESPECTO A "SECUESTRO" SURTIÓ EFECTOS RETROACTIVOS AL 28 DE FEBRERO DE 2011 Y A "TRATA DE PERSONAS" SURTIÓ EFECTOS RETROACTIVOS AL 15 DE JUNIO DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADO, B.O. 28 DE NOVIEMBRE DE 2013)</small>
 
@@ -1205,7 +1205,7 @@ El plazo para la prescripción se aumentará en una mitad más, si el imputado, 
 
 La acción penal prescribirá en un plazo igual al término medio aritmético de la pena privativa de libertad que corresponda al delito cometido, incluyendo sus modalidades. Tratándose de los delitos de oficio, dicho plazo nunca será menor de tres años ni mayor de quince y en los delitos de querella nunca será menor de dos años ni mayor de diez.
 
-(NOTA: EL 3 DE AGOSTO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 1/2014, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, RESPECTO A “SECUESTRO” SURTIÓ EFECTOS RETROACTIVOS AL 28 DE FEBRERO DE 2011 Y A “TRATA DE PERSONAS” SURTIÓ EFECTOS RETROACTIVOS AL 15 DE JUNIO DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(NOTA: EL 3 DE AGOSTO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 1/2014, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, RESPECTO A "SECUESTRO" SURTIÓ EFECTOS RETROACTIVOS AL 28 DE FEBRERO DE 2011 Y A "TRATA DE PERSONAS" SURTIÓ EFECTOS RETROACTIVOS AL 15 DE JUNIO DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADO, B.O. 28 DE NOVIEMBRE DE 2013)</small>
 
@@ -1517,7 +1517,7 @@ Son armas prohibidas, enunciativamente:
 
 I.- Los puñales, verduguillos, cuchillos, machetes, navajas, instrumentos punzantes o cortantes, así como las armas ocultas o disimuladas en bastones u otros objetos;
 
-II.- Los boxes (sic), manoplas, macanas, chacos, hondas, correas con balas, pesas ocultas y otras similares;
+II.- Los boxes, manoplas, macanas, chacos, hondas, correas con balas, pesas ocultas y otras similares;
 
 III.- Las bombas, aparatos explosivos o de gases asfixiantes o tóxicos y las demás similares; y
 
@@ -4105,39 +4105,41 @@ XII.- Respecto de bienes que integren la infraestructura destinada a la prestaci
 
 En el supuesto de la fracción I, cuando se haya utilizado violencia en las cosas sin que el agente haya portado arma de fuego o explosivo, así como en los supuestos de las fracciones V y VI, y tratándose de frutos, productos o alimento que se encuentren en el asiento de producción o en los lugares o recipientes precisados en la fracción IX, se impondrá la sanción establecida en el artículo 305, y podrá extinguirse la acción penal mediante la manifestación expresa por parte de la víctima u ofendido de su desinterés jurídico en relación con la investigación o la prosecución de la causa, siempre y cuando el monto del objeto materia del apoderamiento no exceda de doscientas veces el salario mínimo diario general vigente en la capital del Estado, al momento de cometerse el delito.
 
-> <small>(REFORMADO, B.O. 4 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, B.O. 11 DE DICIEMBRE DE 2014)</small>
 
-Cuando el objeto materia del apoderamiento lo constituya partes de vehículos de propulsión mecánica, cuyo valor exceda de trescientas veces el salario mínimo diario general vigente en la Capital del Estado, al momento de cometerse el delito, la sanción será la prevista en el primer párrafo de este artículo. Igual sanción se aplicará a quien transporte o posea alguno de los objetos materiales referidos en la fracción IX cuyo valor exceda de doscientas veces el salario mínimo diario general vigente en la capital del Estado, siempre que no pueda justificar su legítima procedencia.
+A quien transporte o posea alguno de los objetos materiales referidos en la fracción IX cuyo valor exceda de doscientas veces el salario mínimo diario general vigente en la capital del Estado, siempre que no pueda justificar su legítima procedencia, le será aplicable la sanción prevista en el primer párrafo de este artículo.
 
-> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, B.O. 11 DE DICIEMBRE DE 2014)</small>
 
-ARTICULO 308 BIS.- Se sancionará con pena de cinco a quince años de prisión y hasta mil días multa, al que a sabiendas realice alguno de los siguientes actos, respecto de vehículos de propulsión mecánica robados:
+ARTICULO 308 BIS.- Se sancionará con pena de cinco a quince años de prisión y hasta mil días multa, al que realice alguno de los siguientes actos, respecto de vehículos de propulsión mecánica robados:
 
-I.- Los desmantele o comercialice conjunta o separadamente sus partes;
+I.- Los desmantele o comercialice conjunta o separadamente sus partes, sin la documentación que compruebe que el vehículo de propulsión mecánica no sea robado o de procedencia ilícita;
 
-II.- Los enajene o trafique de cualquier manera;
+II.- Enajene, trafique, permute o realice cualquier transacción del traslado de dominio de uno o más vehículos de propulsión mecánica a sabiendas de su procedencia ilícita;
 
-III.- Detente, posea, custodie, altere o modifique de cualquier manera la documentación que acredite su propiedad o identificación;
+III.- Altere, modifique, elabore o reproduzca, de cualquier manera, la documentación que acredite la propiedad o los datos de identificación o la documentación que acredite el pago de la tenencia, de uno o más vehículos de propulsión mecánica, sin la autorización de la autoridad competente para hacerlo;
 
-IV.- Altere o modifique de cualquier manera la serie del vehículo o ejecute actos tendientes a ocultar su identidad original;
+IV.- Detente, posea o custodie instrumentos para la alteración, modificación, elaboración o reproducción, de documentación que acredite la propiedad o los datos de identificación o la documentación que acredite el pago de las contribuciones de un vehículo automotor, o bien, elabore o posea documentación y elementos de identificación falsos, de uno o más vehículos de propulsión mecánica, con el propósito de su comercialización ilícita;
 
-V.- Traslade el o los vehículos robados a otra entidad federativa o al extranjero; o
+V.- Detente, posea, custodie, traslade o adquiera uno o más vehículos de propulsión mecánica con conocimiento de que son de procedencia ilícita o que, por su forma de adquisición, se advierta su origen ilegal;
 
-VI.- Utilice el o los vehículos robados en la comisión de otro u otros delitos.
+VI.- Detente o posea algún vehículo de propulsión mecánica que haya sido robado, salvo adquisición de buena fe; o
+
+VII.- Utilice uno o más vehículos de propulsión mecánica robados en la comisión de otro u otros delitos dolosos.
 
 A quien aporte recursos económicos o de cualquier índole, para la ejecución de las actividades descritas en las fracciones anteriores, se le considerará copartícipe en los términos del artículo 11 de este Código.
 
-Si en los actos mencionados participa algún servidor público que tenga a su cargo funciones de prevención, persecución o sanción del delito o de ejecución de penas, además de las sanciones a que se refiere este artículo, se le aumentará pena de prisión hasta en una mitad más y se le inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos por un periodo igual a la pena de prisión impuesta.
+Si en los actos mencionados participa algún servidor público que tenga a su cargo funciones de prevención, persecución o sanción del delito o de ejecución de penas, además de las sanciones a que se refiere este artículo, se le aumentará pena de prisión hasta en una mitad más y se le inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos por un período igual a la pena de prisión impuesta.
 
-Salvo los vehículos nuevos adquiridos directamente en las agencias distribuidoras de autos, en la adquisición de un vehículo usado, se deberá contar con la constancia que expida previamente, la Procuraduría General de Justicia del Estado, de que en sus registros no se encuentra reporte de robo respecto del vehículo de que se trate.
+Salvo los vehículos nuevos adquiridos directamente en las agencias distribuidoras de autos, se considerará adquisición de buena fe de un vehículo usado el contar con la constancia que expida previamente, la Procuraduría General de Justicia del Estado, de que en sus registros no se encuentra reporte de robo respecto del vehículo de que se trate o el haber celebrado o ratificado, ante Notario Público, Corredor Público, Juez de Primera Instancia en funciones de Notario Público o Síndico del Ayuntamiento que corresponda, ya sea el interesado o un representante designado por este, en su caso, el convenio o contrato de compraventa respectivo al vehículo de que se trate.
+
+Cuando el vehículo haya sido dado de baja por el propietario anterior y dado de alta por el nuevo propietario ante la Secretaría de Hacienda del Estado de Sonora o de otro estado del País.
 
 Si además de las hipótesis delictivas previstas en este artículo, resultare cometido otro, se aplicarán las reglas relativas al concurso de delitos.
 
-> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, B.O. 11 DE DICIEMBRE DE 2014)</small>
 
-###### ARTICULO 308-A.
-
-Se aplicará la pena prevista en el artículo 305 de este capítulo, al que sin tomar las medidas indispensables para cerciorarse de su procedencia legítima, lleve a cabo el desmantelamiento o comercialice conjunta o separadamente las partes de un vehículo de propulsión mecánica robado.
+ARTICULO 308 BIS A.- Se aplicará una pena de dos a diez años de prisión, al que sin tomar las medidas indispensables para cerciorarse de su procedencia legitima, desmantele o comercialice de manera conjunta o separadamente sus partes de uno o más vehículos de propulsión mecánica, o a quien las adquiera, detente, posea, custodie, enajene o transmita de cualquier manera a sabiendas de su origen.
 
 Por desmantelamiento se entenderá la acción de desarmar y desbaratar de manera total o parcial la estructura del vehículo.
 
@@ -4150,6 +4152,10 @@ Se sancionará con prisión de un mes a nueve años y de uno hasta doscientos ci
 > <small>(ADICIONADO, B.O. 16 DE DICIEMBRE DE 2013)</small>
 
 ARTICULO 308 BIS-C.- Se sancionará con prisión de cinco a quince años, a quien se apodere de bienes muebles destinados a los planteles educativos e instituciones de educación básica, media superior, superior, tales como infraestructura hidráulica y eléctrica, equipos de cómputo, equipos de aire acondicionado, sistemas de vigilancia, equipos de sonido, aparatos reproductores de imágenes, pantallas digitales o de televisión, sin consentimiento de la persona que pueda disponer de ella con arreglo a la ley; asimismo, los que por sus características físicas o sus componentes, formen parte de la infraestructura física de dichos lugares y aquellos cuyo valor individual o, en conjunto, al momento de la comisión del delito, exceda los cien días de salario mínimo diario vigente en la capital del Estado.
+
+> <small>(ADICIONADO, B.O. 11 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 308 BIS D.- Comete el delito de robo de vehículo de propulsión mecánica presunto, y se sancionará con pena de dos a diez años de prisión, la persona que se introduzca a un vehículo, sin la autorización de quien puede disponer de éste, con la finalidad de apoderarse del vehículo o algunas de sus partes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE JUNIO DE 2004)</small>
 
@@ -4819,7 +4825,7 @@ DECRETO NO. 103 POR EL QUE SE REFORMAN LAS DENOMINACIONES DEL TÍTULO VIGÉSIMO 
 
 ###### ARTÍCULO ÚNICO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
 B.O. 9 DE JUNIO DE 2014.
 
@@ -4856,3 +4862,9 @@ B.O. 4 DE DICIEMBRE DE 2014.
 ###### ARTÍCULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 11 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
