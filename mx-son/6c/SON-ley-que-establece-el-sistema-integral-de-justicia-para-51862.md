@@ -4,7 +4,7 @@ identifier: "SON-ley-que-establece-el-sistema-integral-de-justicia-para-51862"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-12"
-last_updated: "2010-11-08"
+last_updated: "2014-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51862&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE ESTABLECE EL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 8 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Edición Especial del Boletín Oficial del Estado de Sonora, el martes 12 de septiembre de 2006.
 
@@ -1287,9 +1287,31 @@ Cuando el instituto identifique que las características personales del adolesce
 
 Los adolescentes podrán cumplir un tiempo determinado por el tratamiento en dichas viviendas y regresar con su familia cuando hayan cumplido con la medida. En caso de que el adolescente no regresara a pernoctar en el centro o no cumpla con el programa de tratamiento que se le establezca, se le notificará al juez inmediatamente para que modifique la medida a internamiento en sistema cerrado.
 
+> <small>(REFORMADO, B.O. 11 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 129.
 
-La medida de internamiento para el tratamiento consiste en el internamiento del adolescente en un centro dependiente del Instituto por la comisión de una conducta tipificada como delito por las leyes penales calificada como grave, del que no se le permita salir hasta en tanto cumpla con la medida o exista una orden judicial que así lo decrete.
+La medida de internamiento para el tratamiento consiste en el internamiento del adolescente en un centro dependiente del Instituto por la comisión de una conducta tipificada como delito por las leyes penales calificada como grave que se señalan en este artículo, del que no se le permita salir hasta en tanto cumpla con la medida o exista una orden judicial que así lo decrete.
+
+Esta medida deberá ser aplicada únicamente en los siguientes casos:
+
+a) Homicidio Doloso;
+
+b) Feminicidio;
+
+c) Violación;
+
+d) Robo considerado como grave;
+
+e) Robo de Vehículos de Propulsión Mecánica;
+
+f) Trata de Personas;
+
+g) Corrupción de Personas Menores de Edad;
+
+h) Sustracción de Menores e Incapaces; y
+
+i) Extorción (sic).
 
 El término de la medida de internamiento para el tratamiento no podrá exceder de siete años.
 
@@ -1657,7 +1679,7 @@ EL SECRETARIO DE GOBIERNO
 
 ROBERTO RUIBAL ASTIAZARAN
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 B.O. 5 DE JULIO DE 2010.
 
@@ -1670,3 +1692,9 @@ B.O. 8 DE NOVIEMBRE DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 11 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
