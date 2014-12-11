@@ -4,7 +4,7 @@ identifier: "SON-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-del-63502
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-25"
-last_updated: "2011-11-07"
+last_updated: "2014-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección VIII del Boletín Oficial del Estado de Sonora, el jueves 25 de septiembre de 2008.
 
@@ -1351,9 +1351,11 @@ Si con anterioridad a que se dicte la resolución se presentan cambios o modific
 
 La Comisión o el Ayuntamiento comunicarán al interesado la determinación que corresponda, en un término de cinco días hábiles contados a partir del día en que hubieren recibido el aviso respectivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 103.
 
-Quienes hubieran obtenido la Licencia Ambiental Integral deberán presentar anualmente ante la Comisión o el Ayuntamiento respectivo, una Cédula de Operación.
+Quienes hubieran obtenido la Licencia Ambiental Integral deberán presentar anualmente ante la Comisión o el Ayuntamiento respectivo, una Cédula de Operación, sin que represente un costo para quien la tramite, siempre y cuando haya cumplido con la Reglamentación Municipal aplicable y ésta se haya presentado antes del vencimiento de la anterior.
 
 La Cédula de Operación se formulará y presentará dentro del período que señalen las autoridades ambientales, conforme a la guía que para el efecto emitan, la que deberá acompañarse de la información y documentación siguientes:
 
@@ -2738,3 +2740,9 @@ B.O. 7 DE NOVIEMBRE DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor después de transcurridos ciento ochenta días naturales, posteriores al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado
+
+B.O. 11 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
