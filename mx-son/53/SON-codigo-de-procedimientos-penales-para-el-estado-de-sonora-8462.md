@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-penales-para-el-estado-de-sonora-8462"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-17"
-last_updated: "2014-12-04"
+last_updated: "2014-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8462&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SONORA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SONORA, PUBLICADO EN EL B.O. DE FECHA 30 DE ENERO DE 2012, EL PRESENTE ORDENAMIENTO SERÁ ABROGADO, A PARTIR DEL 18 DE JUNIO DE 2016.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE DICIEMBRE DE 2014.
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 17 de agosto de 1949.
 
@@ -615,9 +615,9 @@ El cateo sólo podrá practicarse en virtud de orden escrita que de oficio, o a 
 
 Al concluir el cateo se levantará acta circunstanciada, en presencia de dos testigos propuestos por el ocupante del lugar cateado o en su ausencia o negativa, por la autoridad que practique la diligencia.
 
-> <small>(REFORMADO, B.O. 11 DE MAYO DE 1992)</small>
+> <small>(REFORMADO, B.O. 11 DE DICIEMBRE DE 2014)</small>
 
-Cuando se realice un cateo sin contar con la orden judicial correspondiente, la diligencia carecerá de valor probatorio, sin que sirva de excusa el consentimiento de los ocupantes del lugar.
+Cuando se realice un cateo sin contar con la orden judicial correspondiente, la diligencia carecerá de valor probatorio.
 
 > <small>(REFORMADO, B.O. 11 DE MAYO DE 1992)</small>
 
@@ -4340,3 +4340,9 @@ B.O. 4 DE DICIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 11 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
