@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-antes-ley-estatal-de-5890"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "2014-08-07"
+last_updated: "2014-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SALUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -1209,6 +1209,14 @@ Salud pública es la ciencia y el arte de prevenir la enfermedad, prolongar la v
 
 Se consideran acciones de salud pública, entre otras, el saneamiento del medio, la prevención, control de enfermedades y accidentes, promoción de la salud, control y vigilancia sanitaria, la prevención y control de adicciones, así como la detección y atención de la depresión y prevención del suicidio.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2014)</small>
+
+###### Art. 78 Bis.
+
+Será considerada acción de salud pública la obligación de que en todo edificio público o privado que genere concentraciones de al menos 500 personas en concurrencia, se cuente con al menos un desfibrilador externo automático.
+
 ### CAPITULO IX. De la asistencia social
 
 ###### Art. 79.
@@ -1813,7 +1821,7 @@ IV. Información de la existencia de personas que requieran de servicios de salu
 
 V. Formulación de sugerencias para mejorar los servicios de salud;
 
-VI. Información a las autoridades competentes de las irregularidades o deficiencias que se adviertan en la prestación de los servicios de salud; y (sic)
+VI. Información a las autoridades competentes de las irregularidades o deficiencias que se adviertan en la prestación de los servicios de salud; y
 
 > <small>(ADICIONADA, P.O. 13 DE MARZO DE 2001)</small>
 
@@ -3717,6 +3725,12 @@ Se sancionará con multa (sic) con multa equivalente de quinientas hasta mil vec
 
 Se sancionará con multa equivalente de quinientos hasta diez mil veces el salario minimo general vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los párrafos segundo y tercero párrafo del artículo 167 de esta ley.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE DICIEMBRE DE 2014)</small>
+
+Se sancionará con multa equivalente de cien hasta quinientas veces el salario mínimo general vigente en la zona económica de que se trate, al titular de la entidad pública que incumpla con la obligación contenida en el artículo 78 bis.
+
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 249.
@@ -3739,15 +3753,33 @@ La aplicación de las multas será sin perjuicio de que se ejecuten las medidas 
 
 Procederá la clausura, temporal o definitiva, parcial o total, según la gravedad de la infracción y las características de la actividad o establecimiento, en los siguientes casos:
 
-I. (DEROGADA, P.O. 9 DE DICIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE DICIEMBRE DE 2014)</small>
+
+I. Cuando no cuente con el desfibrilador externo automático, estando obligado;
 
 II. Cuando el peligro para la salud de las personas se origine por la violación reiterada de los preceptos de esta Ley y de las disposiciones que de ella emanen, constituyendo rebeldía a cumplir los requerimientos y disposiciones de la autoridad sanitaria;
 
 III. Cuando después de la reapertura de un establecimiento, local, fábrica, construcción o edificio, por motivo de suspensión de trabajo o actividades, o clausura temporal, las actividades que en él se realicen sigan constituyendo un peligro para la salud;
 
-IV. Cuando por la peligrosidad de las actividades que se realicen o por la naturaleza del establecimiento, local, fábrica, construcción o edificio de que se trate, sea necesario proteger la salud de la población; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V. En el caso de reincidencia a que se refiere el Art. 250 de esta Ley.
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2014)</small>
+
+IV. Cuando por la peligrosidad de las actividades que se realicen o por la naturaleza del establecimiento, local, fábrica, construcción o edificio de que se trate, sea necesario proteger la salud de la población;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2014)</small>
+
+V. En el caso de reincidencia a que se refiere el artículo 250 de esta Ley; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE DICIEMBRE DE 2014)</small>
+
+VI. Cuando no cumplan con las especificaciones que señalan la Ley General para el control del Tabaco, y la Ley de Protección contra la Exposición al Humo de Tabaco para el Estado de Jalisco y sus respectivos reglamentos.
 
 ###### Art. 253.
 
@@ -4236,3 +4268,17 @@ PRIMERO. El presente Decreto entrará en vigor al día al día (sic) siguiente d
 SEGUNDO. La Secretaría de Salud deberá someter a consideración del titular del Poder Ejecutivo del Estado, dentro de los noventa días posteriores a la entrada en vigor de este Decreto, los proyectos de adecuaciones a los reglamentos que corresponda para el debido cumplimiento del presente.
 
 TERCERO. Se faculta a la Secretaría de Planeación, Administración y Finanzas para que lleve a cabo las adecuaciones presupuestales y administrativas necesarias para el funcionamiento de la Comisión para la Protección contra Riesgos Sanitarios del Estado de Jalisco.
+
+P.O. 11 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente decreto entrará en vigor el 1.° de enero de 2015 previa su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. El Ejecutivo del Estado, deberá emitir el reglamento en materia de capacitación, uso y vigilancia, de desfibriladores externos automáticos, noventa días después de la entrada en vigor del presente decreto.
+
+TERCERO. Los municipios deberán adecuar sus disposiciones reglamentarias a la entrada en vigor del presente decreto.
+
+CUARTO. Los Poderes del Estado, Organismos Constitucionales Autónomos y los 125 ayuntamientos que resulten obligados en términos del presente decreto, deberán equipar, de manera gradual, sus instalaciones con desfibriladores externos automáticos.
+
+QUINTO. Los propietarios, poseedores, arrendatario o representantes legales de los establecimientos obligados por el presente decreto, a la entrada en vigor del presente decreto, de manera gradual, deberán dar cumplimiento a la obligación de equipar sus instalaciones con Desfibriladores Externos Automáticos.
+
+SEXTO. El Gobierno del Estado, en coordinación con los 125 ayuntamientos, implementarán campañas de difusión y capacitación en los establecimientos y dependencias que resulten obligados por el presente decreto.
