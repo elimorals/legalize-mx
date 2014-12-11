@@ -4,7 +4,7 @@ identifier: "SON-ley-de-transito-del-estado-de-sonora-8409"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-27"
-last_updated: "2014-11-03"
+last_updated: "2014-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8409&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE TRÁNSITO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 27 de febrero de 1984.
 
@@ -105,7 +105,7 @@ II.- Aprobar, con sujeción a la presente Ley, los reglamentos, las circulares y
 
 > <small>(REFORMADA, B.O. 3 DE SEPTIEMBRE DE 1987)</small>
 
-III.- Emitir los manuales de organización, de procedimientos y de servicios al público de los Policías de Tránsito Municipales;
+III.- Emitir los manuales de organización, de procedimientos y de servicios al público de las Policías de Tránsito Municipales.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -147,17 +147,17 @@ XI.- Resolver los recursos de inconformidad de la materia.
 
 XII.- Ordenar la ejecución de sus decisiones mediante el uso de la fuerza pública cuando el caso lo amerite.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, B.O. 11 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+XIII.- Elaborar y mantener permanentemente actualizadas las estadísticas que resulten necesarias para el mejor ejercicio de la función pública de tránsito;
 
-XIII.- Elaborar y mantener permanentemente actualizadas las estadísticas que resulten necesarias para el mejor ejercicio de la función pública de tránsito; y
+> <small>(REFORMADA, B.O. 11 DE DICIEMBRE DE 2014)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XIV.- Establecer las normas técnicas respecto a estacionamientos de bicicletas; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 21 DE NOVIEMBRE DE 2013)</small>
+> <small>(ADICIONADA, B.O. 11 DE DICIEMBRE DE 2014)</small>
 
-XIV.- Lo demás que ésta y otras disposiciones legales le señalen.
+XV.- Lo demás que esta y otras disposiciones legales le señalen.
 
 ###### ARTICULO 6o.
 
@@ -1065,7 +1065,7 @@ Dispositivos acústicos y ópticos en vehículos de emergencia.
 
 a).- Todo vehículo de emergencia autorizado, además del equipo y dispositivos obligatorios, deberá estar provisto de una sirena y/o campana capaces de dar una señal acústica audible, a una distancia no menor de 150 metros.
 
-b).- Además deberá estar provisto de una torreta con lámparas giratorias a 360 grados que proyecten una luz roja visible a una distancia no menor de 150 metros bajo la luz solar normal montada sobre la línea de centro del vehículo en su posición más alta posible, o de luces integradas a la sirena que emitan una luz roja intermitente hacia adelante y hacia atrás, visibles a la misma distancia; en este caso, el montaje de la sirena deberá ajustarse a lo anotado para la torreta o bien deberá estar provisto de 2 lámparas que emitan luz roja intermitente adelante y atrás, cuya intensidad sea suficiente para que sea visible bajo las condiciones anotadas para la torreta y deberán estar montadas tan arriba y tan ampliamente separadas lateralmente como sea posible sin sobresalir del vehículo.
+b).- Además, deberá estar provisto de una torreta con lámparas giratorias a 360 grados que proyecten una luz roja visible a una distancia no menor de 150 metros bajo la luz solar normal montada sobre la línea de centro del vehículo en su posición más alta posible, o de luces integradas a la sirena que emitan una luz roja intermitente hacia adelante y hacia atrás, visibles a la misma distancia; en este caso, el montaje de la sirena deberá ajustarse a lo anotado para la torreta o bien deberá estar provisto de 2 lámparas que emitan luz roja intermitente adelante y atrás, cuya intensidad sea suficiente para que sea visible bajo las condiciones anotadas para la torreta y deberán estar montadas tan arriba y tan ampliamente separadas lateralmente como sea posible sin sobresalir del vehículo.
 
 c).- Estos dispositivos no los utilizarán otros vehículos que no sean los de emergencia autorizados.
 
@@ -1323,7 +1323,7 @@ Se prohibe el uso innecesario de bocinas y en especial, cerca de hospitales, san
 
 ###### ARTICULO 84.
 
-Ningún conductor deberá seguir a un vehículo de bomberos u otros servicio (sic) de emergencia, ni detenerse, ni estacionarse a una distancia menor de ciento cincuenta metros de los hechos, salvo que se justifiquen estas operaciones.
+Ningún conductor deberá seguir a un vehículo de bomberos u otros de servicio (sic) de emergencia, ni detenerse, ni estacionarse a una distancia menor de ciento cincuenta metros de los hechos, salvo que se justifiquen estas operaciones.
 
 ###### ARTICULO 85.
 
@@ -1636,6 +1636,10 @@ Ninguna persona deberá conducir una bicicleta entre los carriles de tránsito y
 ###### ARTICULO 122.
 
 Ninguna persona que conduzca una bicicleta podrá llevar carga de cualquier naturaleza, a menos que el vehículo esté especialmente acondicionado para ello y no se afecte su estabilidad ni la visibilidad del conductor.
+
+> <small>(ADICIONADO, B.O. 11 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 122 BIS.- Todo conductor de bicicleta o motocicleta tiene derecho a que los edificios públicos cuenten con la estructura adecuada para el estacionamiento de bicicletas o motocicletas.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2029,7 +2033,7 @@ III.- Frente a una entrada de vehículos.
 
 IV.- Entre una zona de seguridad y la acera adyacente o a menos de 10.00 metros atrás o adelante de ese lugar.
 
-V.- A menos de 5.00 metros atrás o adelante de un hidrante.
+V.- A menos de 5.00 metros atrás o adelante de un hidratante.
 
 VI.- A menos de 5.00 metros de la entrada de una estación de bomberos o en la orilla opuesta a menos de 25.00 metros.
 
@@ -2114,6 +2118,10 @@ Ningún conductor deberá demorarse innecesariamente al cruzar la vía férrea. 
 ###### ARTICULO 170.
 
 Para pasar un cruce de ferrocarril con un tractor de orugas, para mecánica, grúa, aplanadora, equipos o estructuras, que tenga una velocidad normal de operación menor de 15 km/h o un claro inferior de rodada menor de 22 Cms., el conductor deberá, además de tomar las precauciones a que se refiere el Artículo anterior, solicitar autorización del jefe de la Estación más próxima de ferrocarril a fin de que se tomen las medidas de protección apropiadas para el cruzamiento.
+
+> <small>(ADICIONADO, B.O. 11 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 170 BIS.- Es obligación de las instituciones públicas, contar con la infraestructura necesaria para el estacionamiento de bicicletas y motocicletas garantizando en su diseño, instalación y ubicación la accesibilidad y seguridad tanto para el ciclista o motociclista, como para su bicicleta o motocicleta.
 
 #### SECCION XII. VEHICULOS DE EMERGENCIA
 
@@ -2365,49 +2373,49 @@ Las señales a que se refiere el Artículo anterior, son las que se consignan, c
 
 SEÑALES PREVENTIVAS
 
-Tienen por objeto advertir la existencia y naturaleza de un riesgo en el camino, son tableros de forma cuadrada, colocados con una de sus diagonales verticalmente pintadas de amarillo, con símbolos, caracteres y filete en negro, entre otras, las gráficas de la table (sic) número 1.
+Tienen por objeto advertir la existencia y naturaleza de un riesgo en el camino, son tableros de forma cuadrada, colocados con una de sus diagonales verticalmente pintadas de amarillo, con símbolos, caracteres y filete en negro, entre otras, las gráficas de la tabla número 1.
 
 SP-6 La señal CURVA, DERECHA ó IZQUIERDA, se utilizará para indicar curvas a la derecha ó a la izquierda con deflexión comprendida entre 10 y 45 grados de curvatura comprendido entre 4º y 20°.
 
 SP-7 La señal CODO, DERECHA ó IZQUIERDA, se utilizará para indicar curvas a la derecha ó a la izquierda con deflexión comprendida entre 10 y 45 grados de curvatura mayor de 20°. También se usará para indicar curvas con deflexión de más de 45 grados de curvatura mayor de 15°.
 
-SP-8 La señal CURVA-INVERSA, DERECHA-IZQUIERDA ó IZQUIERDA DERECHA, se utilizará para indicar la presencia de dos curvas de dirección contraria, separadas por una tangente menor de 60 m. cuando sus características geométricas sean las indicadas en el inciso SP-6.
+SP-8 La señal CURVA-INVERSA, DERECHA-IZQUIERDA ó IZQUIERDA-DERECHA, se utilizará para indicar la presencia de dos curvas de dirección contraria, separadas por una tangente de 60 m. cuando sus características (sic) las indicadas en el inciso SP-6.
 
-SP-9 La señal CODO INVERSO, DERECHO-IZQUIERDO ó IZQUIERDO-DERECHO, se utilizará para indicar la presencia de dos curvas de dirección contraria, separadas por una tangente menor de 60 m. cuando sus características (sic) las indicadas en el inciso SP-7.
+SP-9 La señal CODO INVERSO, DERECHO-IZQUIERDO ó IZQUIERDO-DERECHO, se utilizará para indicar la presencia de dos curvas de dirección contraria, separadas por una tangente menor de 60 m. cuando sus características geométricas sean las indicadas en el inciso SP-7.
 
 SP-10 La señal CAMINO SINUOSO se utilizará para indicar varias curvas sucesivas. Se usará una señal de camino sinuoso, derecho ó izquierdo, según sea la primera curva del tramo.
 
 SP-11 La señal CRUCE DE CAMINOS se utilizará para indicar la intersección de dos caminos.
 
-SP-12 La señal INTERSECCION EN T se utilizará para indicar un entronque en T de un camino con otro, aún en el caso de que dichos caminos se intersecten con un angulo diferente de 90°.
+SP-12 La señal INTERSECCIÓN EN T se utilizará para indicar un entronque en T de un camino con otro, aún en el caso de que dichos caminos se intersecten con un ángulo diferente de 90°.
 
-SP-13 La señal INTERSECCION LATERAL, DERECHA ó IZQUIERDA, se utilizará para indicar un entronque lateral con un camino, que lleva el usuario, cuando el camino lateral sea sensiblemente normal ó tenga una deflexión mayor de 90°.
+SP-13 La señal INTERSECCIÓN LATERAL, DERECHA ó IZQUIERDA, se utilizará para indicar un entronque lateral con un camino, que lleva el usuario, cuando el camino lateral sea sensiblemente normal ó tenga una deflexión mayor de 90°.
 
-SP-14 La señal INTERSECCION LATERAL OBLICUA, DERECHA O IZQUIERDA se utilizará para indicar el entronque de un camino lateral que intersecta al camino que lleva el usuario, con una deflexión sensiblemente menor de 90°.
+SP-14 La señal INTERSECCIÓN LATERAL OBLICUA, DERECHA O IZQUIERDA se utilizará para indicar el entronque de un camino lateral que intersecta al camino que lleva el usuario, con una deflexión sensiblemente menor de 90°.
 
-SP-15 La señal INTERSECCION EN Y se utilizará para indicar un entronque en forma de Y. No deberá usarse en intersecciones canalizadas, excepto cuando el usuario pueda optar indistintamente por circuitos a derecha ó izquierda.
+SP-15 La señal INTERSECCIÓN EN Y se utilizará para indicar un entronque en forma de Y. No deberá usarse en intersecciones canalizadas, excepto cuando el usuario pueda optar indistintamente por circuitos a derecha ó izquierda.
 
 SP-16 La señal GLORIETA se usará para indicar al conductor la proximidad de una intersección de tipo rotatorio.
 
-SP-17 La señal INCORPORACION DE TRANSITO se usará para advertir al usuario de la proximidad de una confluencia derecha ó izquierda por donde se le incorporará un vólumen de tránsito en el mismo sentido.
+SP-17 La señal INCORPORACIÓN DE TRANSITO se usará para advertir al usuario de la proximidad de una confluencia derecha ó izquierda por donde se le incorporará un volumen de tránsito en el mismo sentido.
 
-SP-18 La señal DOBLE CIRCULACION se usará para advertir al conductor que vaya por una via de un sólo sentido, que se aproxima a un tramo con circulación en ambos sentidos.
+SP-18 La señal DOBLE CIRCULACION se usará para advertir al conductor que vaya por una vía de un solo sentido, que se aproxima a un tramo con circulación en ambos sentidos.
 
 SP-19 La señal SALIDA se usará para advertir la proximidad de una rampa exclusica (sic) de salida.
 
 SP-20 La señal ESTRECHAMIENTO DEL CAMINO se usará para indicar que la anchura del camino se reduce, ya sea reduciendo el número de carriles ó simplemente las dimensiones de la sección transversal, en forma simétrica.
 
-SP-21 La señal ESTRECHAMIENTO ASIMETRICO se utilizará para indicar una reducción del camino por ocupación temporal de un lado de la corona, como cuando haya material acamellonado a la derecha. El simbolo invertido servirá para indicar la transición del lado izquierdo.
+SP-21 La señal ESTRECHAMIENTO ASIMETRICO se utilizará para indicar una reducción del camino por ocupación temporal de un lado de la corona, como cuando haya material acamellonado a la derecha. El símbolo invertido servirá para indicar la transición del lado izquierdo.
 
-SP-22 La señal PUENTE LEVADIZO se usará para indicar la proximidad de un puente cuyo sistema de piso puede estar momentaneamente elevado.
+SP-22 La señal PUENTE LEVADIZO se usará para indicar la proximidad de un puente cuyo sistema de piso puede estar momentáneamente elevado.
 
 SP-23 La señal PUENTE ANGOSTO se utilizará para indicar la proximidad de un puente cuya distancia entre guarniciones sea mayor de 6.50 m.
 
-SP-24 La señal ANCHURA LIBRE se utilizará para indicar la proximidad de pasos inferiores angostos u otras estructuras angostas que no permitan normalmente el paso simultaneo de dos vehículos. La distancia que marque la señal deberá indicar la anchura libre, aproximada al decimetro inferior.
+SP-24 La señal ANCHURA LIBRE se utilizará para indicar la proximidad de pasos inferiores angostos u otras estructuras angostas que no permitan normalmente el paso simultaneo de dos vehículos. La distancia que marque la señal deberá indicar la anchura libre, aproximada al decímetro inferior.
 
 SP-25 La señal ALTURA LIBRE se utilizará para indicar la proximidad de un paso inferior con un camino, ferrocarril ó cualquier otra estructura, cuyo espacio libre vertical sea menor de 4.50 m.
 
-En la parte media de la placa se anotará la altura libre aproximada al decimetro inferior.
+En la parte media de la placa se anotará la altura libre aproximada al decímetro inferior.
 
 SP-26 La señal VADO se utilizará para indicar la proximidad de un vado ó depresión inesperada en el camino.
 
@@ -2417,7 +2425,7 @@ SP-28 La señal SUPERFICIE DERRAPANTE se utilizará para indicar la proximidad d
 
 SP-29 La señal PENDIENTE PELIGROSA se utilizará para indicar la proximidad de una pendiente descendente en la cual se requiera frenar constantemente, de preferencia con el motor.
 
-SP-30 La señal ZONA DE DERRUMBES se utilizará para indicar a los conductores de vehículos la presencia de un tramo de camino en el caul (sic) existen posibilidades de encontrar derrumbes sobre el camino.
+SP-30 La señal ZONA DE DERRUMBES se utilizará para indicar a los conductores de vehículos la presencia de un tramo de camino en el cual existen posibilidades de encontrar derrumbes sobre el camino.
 
 SP-31 La señal OBRAS EN EL CAMINO se utilizará para marcar un tramo ocupado temporalmente por trabajadores, ó equipo dedicado a labores de conservación ó reconstrucción, ó por instalaciones que requieren invasión ó cruces en la superficie de rodamiento.
 
@@ -2455,7 +2463,7 @@ Normalmente la señal ALTO podrá colocarse en los siguientes casos:
 
 4) En cualquier intersección urbana en donde la posibilidad de accidentes haga imperativo el uso de una señal ALTO.
 
-En todos los casos, la señal se colocará sobre el camino ó calle de menor vólumen de tránsito, en el lugar preciso donde deban deternerse (sic) los vehículos.
+En todos los casos, la señal se colocará sobre el camino ó calle de menor volumen de tránsito, en el lugar preciso donde deban deternerse (sic) los vehículos.
 
 SR-7 La señal CEDA EL PASO implica que el conductor detenga ó aminore la velocidad de su vehículo, cuando sea necesario ceder el paso al tránsito que se va a cruzar ó a incorporar.
 
@@ -2465,7 +2473,7 @@ SR-9 La señal VELOCIDAD RESTRINGIDA se utilizará para indicar la limitación d
 
 SR-10 La señal VUELTA CONTINUA A LA DERECHA se utilizará en las intersecciones controladas por semáforo ó por agentes en las cuales está permitida la vuelta derecha en forma continua, aunque para el tránsito que siga de frente se indique el ALTO.
 
-SR-11 La señal CIRCULACION se usará en las intersecciones en que se desee indicar a los usuarios la obligación de circular en el sentido indicado, a fin de no invadir un carril de circulación de sentido contrario. La flecha se colocará horizontal ó inclinada indicando el sentido del tránsito.
+SR-11 La señal CIRCULACIÓN se usará en las intersecciones en que se desee indicar a los usuarios la obligación de circular en el sentido indicado, a fin de no invadir un carril de circulación de sentido contrario. La flecha se colocará horizontal ó inclinada indicando el sentido del tránsito.
 
 SR-12 La señal SOLO VUELTA IZQUIERDA se usará en ciertas intersecciones ó en su proximidad, donde se requiera indicar que uno ó varios carriles deberán usarse exclusivamente para ese movimiento y no deberán ser ocupados por vehículos que sigan de frente.
 
@@ -2473,13 +2481,13 @@ Esta señal también podrá ser de SOLO VUELTA DERECHA, aplicando el mismo conce
 
 SR-13 La señal CONSERVA SU DERECHA se empleará para advertir a los conductores de vehículos que deben transitar a su derecha, con objeto de dejar libre el carril ó los carriles de la izquierda, para permitir el rebase a los vehículos que circulan a mayor velocidad ó bien para facilitar movimientos de incorporación del lado izquierdo.
 
-SR-14 La señal DOBLE CIRCULACION será empleada en aquellas vías de un solo sentido cuando cambien a un tramo en el que se permita la circulación en dos sentidos.
+SR-14 La señal DOBLE CIRCULACIÓN será empleada en aquellas vías de un solo sentido cuando cambien a un tramo en el que se permita la circulación en dos sentidos.
 
 SR-15 La señal ALTURA LIBRE RESTRINGIDA se utilizará cuando la altura libre de un paso inferior u otra estructura sea menor de 4.30 m., para advertir a los conductores que está limitada a la que se específica la señal.
 
 SR-16 La señal ANCHURA LIBRE RESTRINGIDA se utilizará para advertir a los conductores que el ancho de la estructura no permite, normalmente, el paso simultaneo de dos vehículos.
 
-SR-17 La señal PESO MAXIMO RESTRINGIDO se colocará en los puentes u otros lugares del camino donde sea necesario limitar el peso de los vehículos, ya sea por la capacidad de los puentes ó por la de la superficie de rodamiento. Dentro del círculo se marcara el peso máximo permitido en toneladas.
+SR-17 La señal PESO MAXIMO RESTRINGIDO se colocará en los puentes u otros lugares del camino donde sea necesario limitar el peso de los vehículos, ya sea por la capacidad de los puentes ó por la de la superficie de rodamiento. Dentro del círculo se marcará el peso máximo permitido en toneladas.
 
 SR-18 La señal PROHIBIDO REBASAR se empleará para advertir a los conductores de vehículos los tramos en que no se permita rebasar a otro vehículo, por las condiciones especiales del ancho del camino, visibilidad, etc.
 
@@ -2489,11 +2497,11 @@ SR-20 La señal ESTACIONAMIENTO PROHIBIDO A CIERTAS HORAS será empleada en aque
 
 SR-22 La señal ESTACIONAMIENTO PERMITIDO UN CORTO PERIODO DENTRO DE UN HORARIO, se utilizará en aquellos sitios donde se desee obtener una mayor utilización del espacio disponible, beneficiando a un mayor número de usuarios en ese horario.
 
-SR-23 La señal PRINCIPIA PROHIBICION DE ESTACIONAMIENTO se empleará al iniciarse el tramo, de un camino ó de una calle, en los que los vehículos no deben estacionarse.
+SR-23 La señal PRINCIPIA PROHIBICIÓN DE ESTACIONAMIENTO se empleará al iniciarse el tramo, de un camino ó de una calle, en los que los vehículos no deben estacionarse.
 
 SR-24 La señal TERMINA PROHIBICION DE ESTACIONAMIENTO se empleará al terminar el tramo, de un camino ó de una calle, en los que los vehículos no deben estacionarse.
 
-SR-25 La señal PROHIBIDO ESTACIONARSE será utilizada en aquellos lugares donde esté completamente prohibido el estacionamiento de vehículos.
+SR-25 La señal PROHIBIDO ESTACIONARSE será utilizada en aquellos lugares donde este completamente prohibido el estacionamiento de vehículos.
 
 SR-26 La señal PROHIBIDO VUELTA A LA DERECHA será empleada en aquellos lugares donde no se permita la vuelta a la derecha, ya sea por tratarse de una circulación de sentido contrario, ó en casos específicos, para no interferir con otros movimientos importantes, inclusive el de peatones.
 
@@ -2511,7 +2519,7 @@ SR-32 La señal PROHIBIDO EL PASO DE MAQUINARIA AGRICOLA se utilizará para evit
 
 SR-33 La señal PROHIBIDO EL PASO A BICICLETAS se usará en aquellos caminos ó calles donde un estudio técnico indique la necesidad de prohibir la circulación de ciclistas en bien de la seguridad general.
 
-SR-34 La señal PROHIBIDO EL PASO DE PEATONES se usará al principio de aquellos caminos ó calles en los que el tránsito de vehículos haga peligroso el paso ó cruce de peatones y éstos tengan otro lugar por donde transitar ó cruzar.
+SR-34 La señal PROHIBIDO EL PASO DE PEATONES se usará al principio de aquellos caminos ó calles en los que el tránsito de vehículos haga peligroso el paso ó cruce de peatones y éstos tengan otro lugar por donde transitar o cruzar.
 
 SR-35 La señal PROHIBIDO EL PASO DE VEHICULOS PESADOS se empleará al principio de ciertos tramos de caminos ó rutas urbanas en los que no se permite el paso de vehículos pesados.
 
@@ -2537,7 +2545,7 @@ SI-21 Las SEÑALES ELEVADAS se emplearan cuando se estima que las señales later
 
 a) Cuando se desea controlar el tránsito en determinado carril.
 
-b) En arterias de dos ó más carriles en un sólo sentido con alto vólumen de tránsito.
+b) En arterias de dos ó más carriles en un solo sentido con alto volumen de tránsito.
 
 c) En vías de alta velocidad, en donde no haya espacio para el señalamiento a los lados ó bien, donde la iluminación de la zona lo hagan poco efectivo.
 
@@ -2547,7 +2555,7 @@ e) En autopistas, en entronques con otras carreteras.
 
 SI-22 Las señales NOMENCLATURA con los nombres de calles y avenidas, serán colocadas por las autoridades locales.
 
-SI-23 La señal SENTIDO DEL TRANSITO se usará para advertir a los conductores que en la calle que van a cruzar, el tránsito de vehículos está permitido en una sóla dirección.
+SI-23 La señal SENTIDO DEL TRANSITO se usará para advertir a los conductores que en la calle que van a cruzar, el tránsito de vehículos está permitido en una sola dirección.
 
 SI-24 La señal LIMITE DE ESTADOS se usará en aquellos puntos del camino donde se cruza un límite de Estados.
 
@@ -3464,3 +3472,17 @@ B.O. 3 DE NOVIEMBRE DE 2014.
 ###### ARTICULO ÚNICO.
 
 El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 11 DE DICIEMBRE DE 2014.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+###### ARTICULO SEGUNDO.
+
+Las instituciones públicas tendrán un plazo de 90 días para realizar las adecuaciones necesarias para contar con estacionamiento para bicicletas.
+
+###### ARTICULO TERCERO.
+
+El Ejecutivo del Estado y los Ayuntamientos dispondrán de lo necesario para la difusión, promoción y ejecución de las medidas derivadas del ordenamiento objeto de esta reforma, de manera tal que coadyuven a (sic) eficaz aplicación y conclusión de las mismas.
