@@ -4,7 +4,7 @@ identifier: "SON-ley-de-participacion-ciudadana-del-estado-de-sonora-82128"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-01"
-last_updated: "2011-07-01"
+last_updated: "2014-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # LEY DE PARTICIPACION CIUDADANA DEL ESTADO DE SONORA
 
-LEY PARTICIPACION CIUDADANA DEL ESTADO DE SONORA
+LEY PARTICIPACIÓN CIUDADANA DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Edición Especial Número 6 del Boletín Oficial del Estado de Sonora, el viernes 1 de julio de 2011.
 
@@ -113,9 +113,23 @@ VI.- El Presupuesto Participativo;
 
 VII.- Las Agencias de Desarrollo Local;
 
-VIII.- De los comités de participación ciudadana; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IX.- Los demás que establezcan otras disposiciones aplicables o las autoridades estatales y municipales, en los ámbitos de sus respectivas competencias, los cuales, en todo caso, deberán sujetarse a los principios rectores previstos en el artículo 3 de esta Ley.
+> <small>(REFORMADA, B.O. 11 DE DICIEMBRE DE 2014)</small>
+
+VIII.- De los comités de participación ciudadana;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 11 DE DICIEMBRE DE 2014)</small>
+
+IX.- Legislador Joven; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 11 DE DICIEMBRE DE 2014)</small>
+
+X.- Los demás que establezcan otras disposiciones aplicables o las autoridades estatales y municipales, en los ámbitos de sus respectivas competencias, los cuales, en todo caso, deberán sujetarse a los principios rectores previstos en el artículo 3 de esta ley.
 
 ###### ARTÍCULO 5.
 
@@ -1095,11 +1109,63 @@ En caso de separación, remoción o renuncia de cualquiera de los miembros del c
 
 El comité podrá invitar a algún vecino de la comunidad para que asuma una función que se encuentre vacante en el mismo, debiendo ser nombrado por votación de dos terceras partes de los miembros de dicho comité; por falta definitiva de los mismos deberá convocarse a asamblea pública para que decidan los vecinos sobre la integración de dicho comité.
 
-### CAPÍTULO ÚNICO. DE LAS PROHIBICIONES Y SANCIONES
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 11 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO X. DEL LEGISLADOR JOVEN
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 11 DE DICIEMBRE DE 2014)</small>
+
+ARTÍCULO 116 BIS.- La figura de legislador joven es un instrumento de participación ciudadana cuyo objetivo es la creación de un vínculo entre los jóvenes sonorenses y el Poder Legislativo, mediante el cual se crea un espacio para su expresión y participación en la vida política estatal, se les fomenta el conocimiento de la actividad y el proceso legislativo y se desarrolla en ellos una formación de cultura política.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 11 DE DICIEMBRE DE 2014)</small>
+
+ARTÍCULO 116 BIS 1.- La figura de Legislador Joven deberá realizarse a través de la Comisión de Deporte y Juventud del Congreso del Estado de Sonora, bajo las siguientes consideraciones:
+
+I.- Se llevará a cabo el mes de noviembre de cada año y el evento tendrá una duración de dos días en los cuales los diputados jóvenes electos deberán conformar Grupos Parlamentarios, elegir Mesa Directiva, proponer iniciativas y llevar a cabo una sesión en el Congreso del Estado.
+
+II.- Para los efectos de la fracción anterior, los diputados jóvenes se sujetarán lo más posible a los procedimientos y exigencias contenidas en la Ley Orgánica del Poder Legislativo, a fin de que conozcan y simulen fielmente el quehacer parlamentario.
+
+III.- Para la elección de los diputados jóvenes que realice la Comisión de Deporte y Juventud del Congreso del Estado de Sonora se tomará en cuenta la equidad de género.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 11 DE DICIEMBRE DE 2014)</small>
+
+ARTÍCULO 116 BIS 2.- Son atribuciones del Congreso:
+
+I.- Aprobar y ordenar la difusión de la convocatoria por medios impresos, páginas de internet y redes sociales; y
+
+II.- Designar una comisión para dar seguimiento a las iniciativas presentadas por los diputados jóvenes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+ARTÍCULO 116 BIS 3.- De los requisitos para ser elegido diputado joven:
+
+I.- Estar debidamente inscrito en institución académica cursando secundaria, preparatoria, universidad o posgrado;
+
+II.- Tener un promedio mayor a ochenta en escala del uno al cien o su equivalente según el sistema empleado por la institución académica;
+
+III.- Elaborar y presentar ante la Comisión de Deporte y Juventud iniciativa de ley en la cual destaquen un tema de su interés;
+
+IV.- Tener entre 12 y 29 años de edad el día de la inscripción; y
+
+V.- Presentar la documentación que sea requerida en la convocatoria.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 11 DE DICIEMBRE DE 2014)</small>
+
+ARTÍCULO 116 BIS 4.- Los casos no previstos serán resueltos oportunamente por la Comisión de Deporte y Juventud del Congreso del Estado.
 
 ## TÍTULO TERCERO. DE LAS PROHIBICIONES Y SANCIONES
 
-### CAPÍTULO ÚNICO. DEL RECURSO DE APELACIÓN
+### CAPÍTULO ÚNICO. DE LAS PROHIBICIONES Y SANCIONES
 
 ###### ARTÍCULO 117.
 
@@ -1122,6 +1188,8 @@ Sin perjuicio de lo dispuesto en el artículo anterior, se sancionará a quienes
 Se sancionará a quienes den a conocer públicamente las preferencias de los ciudadanos dentro de los cinco días anteriores a la jornada de consulta de los procedimientos de plebiscito, referéndum y consulta ciudadana, y hasta el cierre oficial de las consultas, con multa de doscientos a dos mil días de salario mínimo diario vigente en la capital del Estado.
 
 ## TÍTULO CUARTO. DEL RECURSO DE APELACIÓN
+
+### CAPÍTULO ÚNICO. DEL RECURSO DE APELACIÓN
 
 ###### ARTÍCULO 122.
 
@@ -1178,3 +1246,11 @@ GUILLERMO PADRES ELIAS
 EL SECRETARIO DE GOBIERNO
 
 HECTOR LARIOS CORDOVA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 11 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día 01 de enero de 2015, previa su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
