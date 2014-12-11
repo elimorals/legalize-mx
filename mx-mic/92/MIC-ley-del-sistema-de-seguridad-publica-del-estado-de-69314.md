@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-sistema-de-seguridad-publica-del-estado-de-69314"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-21"
-last_updated: "2014-06-27"
+last_updated: "2014-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "MIC"
 ---
 # LEY DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE MICHOACAN DE OCAMPO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE ABRIL DE 2015 EN EL P.O. DEL ESTADO DE MICHOACÁN SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS SEGUNDO Y SEXTO TRANSITORIO DEL DECRETO NÚMERO 352 POR EL QUE SE EXPIDE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE MICHOACÁN DE OCAMPO, PUBLICADO EN EL P.O. 11 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO ES ABROGADO EN LA MISMA FECHA QUE SEÑALE LA DECLARATORIA QUE AL EFECTO EXPIDA EL CONGRESO PARA LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2014 (ABROGADO).
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el martes 21 de julio de 2009.
 
@@ -2602,3 +2606,17 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 27 DE JUNIO DE 2014.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 11 DE DICIEMBRE DE 2014.
+
+Primero. Publíquese en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. El presente Decreto entrará en vigor en la misma fecha que señale la Declaratoria que al efecto expida el Congreso para la entrada en vigor del Código Nacional de Procedimientos Penales.
+
+Tercero. El Titular del Poder Ejecutivo del Estado y de los Ayuntamientos cuentan con 60 sesenta días naturales posteriores a la publicación del presente Decreto para emitir los reglamentos y realizar las adecuaciones jurídico-administrativas necesarias para el adecuado funcionamiento del presente ordenamiento.
+
+Cuarto. Dentro de los siguientes sesenta días naturales, a partir del día siguiente de la publicación del presente Decreto, el Titular del Poder Ejecutivo, deberá emitir su reglamento para la operación de la Dirección de Medidas Cautelares y de Suspensión Condicional del Proceso, previstas en los artículos 81, 82, 83, 84,85 y 86 de esta Ley.
+
+Quinto. La Secretaría de Finanzas y Administración deberá tomar las previsiones necesarias a efecto de que a la entrada en vigor del presente ordenamiento, la Secretaria de Seguridad Pública cuente con los recursos humanos, financieros y materiales para el funcionamiento de esta Ley.
+
+Sexto. Se abroga la Ley del Sistema de Seguridad Pública del Estado de Michoacán de Ocampo, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, publicada el 21 veintiuno de julio de 2009 dos mil nueve.
