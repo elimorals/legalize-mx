@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-municipal-8369"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-29"
-last_updated: "2012-08-06"
+last_updated: "2014-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # LEY DE HACIENDA MUNICIPAL
 
-LEY DE HACIENDA MUNICIPAL
+LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección Decimacuarta del Boletín Oficial del Estado de Sonora, el jueves 29 de diciembre de 1983.
 
@@ -1873,9 +1873,11 @@ VI.- Anuncios y/o publicidad cinematográfica; y
 
 VII.- Las demás que se establezcan en las leyes de ingresos de los Ayuntamientos.
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE DICIEMBRE DE 2014)</small>
 
-ARTICULO 138 BIS A.- Los pagos a que se refiere el artículo anterior, así como sus refrendos, serán cubiertos por las personas físicas o morales que fijen o coloquen los anuncios o carteles o realicen cualquier tipo de publicidad en los términos señalados en este Capítulo.
+ARTICULO 138 BIS A.- Los pagos a que se refiere el artículo anterior, serán cubiertos por las personas físicas o morales que fijen o coloquen los anuncios o carteles o realicen cualquier tipo de publicidad en los términos señalados en este Capítulo, en el caso de las personas físicas o morales, estas últimas consideradas como micro o pequeñas empresas, que fijen los anuncios o carteles para su propio negocio y que cumplan con la Reglamentación Municipal aplicable, realizarán los pagos solamente una vez al momento de su colocación.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
 Serán responsables solidarios los propietarios de los predios, fincas o vehículos en donde se fijen o coloquen los anuncios o carteles o se lleve a cabo la publicidad, así como las personas físicas o morales cuyos productos, servicios o actividades sean objeto de los anuncios, carteles o publicidad.
 
@@ -1941,7 +1943,7 @@ W).- Abarrotes.
 
 Deberá considerarse el caso de expedición de anuencias municipales por cambio de domicilio.
 
-lI.- Para la expedición de autorizaciones eventuales, por día, si se trata de:
+Il.- Para la expedición de autorizaciones eventuales, por día, si se trata de:
 
 A).- Fiestas sociales o familiares,
 
@@ -2906,3 +2908,9 @@ Transcurrido el plazo a que se refiere la fracción II de este artículo, la Sec
 II.- Para los efectos de lo dispuesto en los artículos 45 Bis y 50 Bis de la Ley que Regula la Operación y Funcionamiento de los Establecimientos Destinados a la Fabricación, Envasamiento, Distribución, Almacenamiento, Transportación, Venta y Consumo de Bebidas con Contenido Alcohólico en el Estado de Sonora, el canje de las licencias se efectuará en el transcurso de los meses de enero a mayo del año de calendario que corresponda y tendrá una vigencia de tres años, contados a partir del canje del presente ejercicio de 2012, debiendo presentarse para tales efectos, los requisitos correspondientes.
 
 Transcurrido el plazo a que se refiere el párrafo anterior, la Secretaría de Hacienda procederá de oficio a la cancelación de las licencias cuyos titulares no hayan solicitado su regularización conforme a esta Ley.
+
+B.O. 11 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
