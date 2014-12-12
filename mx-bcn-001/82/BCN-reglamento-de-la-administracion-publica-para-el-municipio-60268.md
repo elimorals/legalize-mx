@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-administracion-publica-para-el-municipio-60268
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-22"
-last_updated: "2014-10-31"
+last_updated: "2014-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60268&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 22 de febrero de 2008.
 
@@ -797,33 +797,55 @@ XX.- Promover y ser gestor ante las autoridades de la materia para la regulariza
 
 XXI.- Las demás que expresamente le encomienden las leyes, reglamentos o le instruya el Presidente Municipal.
 
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 46.
 
-La Secretaría del Ayuntamiento para el cumplimiento de sus Atribuciones, se integrará de la siguiente manera:
+La Secretaría del Ayuntamiento para el cumplimiento de sus atribuciones, se integrará de la siguiente manera:
+
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
 
 I. Subsecretaría del Ayuntamiento;
 
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
+
 II. Dirección de Asuntos Jurídicos;
+
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
 
 III. Dirección de Alcoholes y Espectáculos Públicos;
 
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
+
 IV. Dirección de Gobierno;
+
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
 
 V. Dirección de Comercio;
 
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
+
 VI. Dirección de Desarrollo Regional;
+
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
 
 VII. Oficialía de Registro Civil 01, con sede en la ciudad de Ensenada;
 
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
+
 VIII. Oficialía de Registro Civil 02, con sede en la Delegación de la Colonia Vicente Guerrero; y
+
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
 
 IX. Departamento de Atención a la Juventud y Junta de Reclutamiento.
 
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
+
 X. Unidad Municipal de Protección Civil.
 
-… (sic)
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2014)</small>
+
+XI.- Unidad de Asuntos Religiosos y Asociaciones Civiles.
 
 ###### ARTÍCULO 47.
 
@@ -1182,6 +1204,42 @@ VI.- Un Departamento Técnico que contara a su vez con:
 a) Área de Planeación, y
 
 b) Área de Inspección.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2014)</small>
+
+ARTÍCULO 56 CUARTER.- Corresponde a la Unidad de Asuntos Religiosos y Asociaciones Civiles, las siguientes atribuciones:
+
+I.- Coadyuvar con las Autoridades Federales y Estatales en el cumplimiento de las diversas disposiciones de las Leyes y reglamentos en materia de Culto Público y Asociaciones Civiles y demás disposiciones respectivos de cada materia;
+
+II.- Coordinarse con las demás autoridades del municipio, a fin de apoyar a las Agrupaciones Religiosas y Asociaciones civiles, en los trámites que realicen ante aquellas, bajo los principios de inmediatez y suplencia;
+
+III.- Promover y organizar eventos de capacitación para facilitar y vigilar que las agrupaciones religiosas cumplan con las diversas obligaciones a su cargo, mismas que se encuentran establecidas en la Ley de Asociaciones Religiosas y Culto Público y el Reglamento de la Ley de Asociaciones Religiosas y Culto Público;
+
+IV.- Coadyuvar y brindar asesoría a las Agrupaciones Religiosas en la integración de la documentación necesaria, a fin de auxiliarles en todo el procedimiento para la obtención del registro constitutivo como Asociación Religiosa, incluyendo la logística para su remisión ante la Secretaría de Gobernación, así como apoyarlas en todos los trámites que requieran realizar ante ésta;
+
+V.- Coordinar las acciones para que se provean las medidas conducentes en los centros de salud, de asistencia social, de readaptación social, estaciones migratorias y en todos aquellos lugares en los que los internos requieran recibir asistencia profesional;
+
+VI.- Recibir los avisos para la celebración de actos religiosos de culto público con carácter extraordinario, en la forma y términos que lo establece el artículo 22 de la Ley de Asociaciones Religiosas y Culto Público, pudiendo prohibir las (sic) realización de los actos si se actualizan los supuestos descritos en la mencionada disposición;
+
+VII.- Regular conjuntamente con la Dirección de Seguridad Pública Municipal, las facilidades necesarias para la realización de actos religiosos, de culto público con carácter extraordinario fuera de los templos, mediante la coordinación necesaria con las autoridades, en las materias de vialidad urbana y seguridad pública;
+
+VIII.- Llevar un registro actualizado de las diversas agrupaciones religiosas existentes en el municipio, de sus templos, representantes o apoderados y ministros del culto;
+
+IX.- Elaborar el manual de organización, en el que describan los criterios, procedimientos y sistemas informáticos necesarios para el debido funcionamiento de sus actividades;
+
+X.- Intervenir como conciliador, en el caso de que se presente algún conflicto entre las Agrupaciones Religiosas y sus asociados, apoderados, representantes o ministros del culto, a petición expresa de alguna de las partes;
+
+XI.- Expedir todo tipo de constancias, respecto de los actos que tenga conocimiento y respaldo documental, incluyendo las de notorio arraigo, a las que se refiere el artículo 8, fracción V del Reglamento de la Ley de Asociaciones Religiosas y Culto Público;
+
+XII.- Fomentar en la sociedad la libertad y el respeto en materia religiosa, así como la orientación y capacitación de los servidores públicos en esta materia;
+
+XIII.- Fomentar, asesorar y apoyar la creación de Asociaciones Civiles filantrópicas, que promuevan el bienestar y desarrollo social, y cuyos fines sean el fomento de las actividades descritas en los artículos 5° de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil, 3° y 4° de la Ley de Fomento a las Actividades de Bienestar y Desarrollo Social para el Estado de Baja California;
+
+XIV.- Realizar los estudios necesarios que permitan evaluar la participación de las Asociaciones Civiles y Religiosas en el cumplimiento de las líneas de acción del Plan Municipal de Desarrollo, en las áreas que implican su participación;
+
+XV.- Coordinar la interrelación del Ayuntamiento, Asociaciones Civiles y Agrupaciones Religiosas hacia la Comunidad, en materia de justicia social;
+
+XVI.- Las demás que le confiera el Presidente Municipal y le asigne el Secretario General.
 
 ###### ARTÍCULO 57.
 
@@ -2520,3 +2578,11 @@ PRIMERO.- Una vez siendo aprobada la presente reforma, publíquese en el Periód
 SEGUNDO.- La Unidad de Atención a Grupos Indígenas iniciará sus funciones a partir del día 1ro de Enero del año 2015, para tales efectos el titular del ejecutivo designará al titular de dicha unidad.
 
 TERCERO.- La partida con la que operará la Unidad de Atención a los Grupos Indígenas deberá ser asignada del mismo presupuesto de la Secretaría de Desarrollo Social Municipal.
+
+P.O. 12 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Una vez siendo aprobada la presente reforma, publíquese en el Periódico Oficial del Gobierno del Estado de Baja California, para que surta efectos a partir del día primero de Enero del año 2015 en todo el territorio del Municipio de Ensenada B. C.
+
+SEGUNDO.- Una vez aprobada la presente reforma, la Unidad de Asuntos Religiosos y Asociaciones Civiles iniciará sus funciones a partir del día primero de Enero del año 2015.
+
+TERCERO.- Contémplese en el Presupuesto de Egresos del año 2015.
