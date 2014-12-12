@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg165-2014del-consejo-general-del-instituto-103850"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-12-10"
-last_updated: "2014-12-10"
+last_updated: "2014-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103850&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-09-30"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL CUAL SE APRUEBA LA DESIGNACIÓN DE CONSEJERAS Y CONSEJEROS PRESIDENTES Y CONSEJERAS Y CONSEJEROS ELECTORALES DE ORGANISMOS PÚBLICOS LOCALES ELECTORALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE DICIEMBRE DE 2014.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 10 de diciembre de 2014.
 
@@ -139,11 +139,13 @@ Uribe Alvarado Consejera Electoral 3 años
 
 Isela Guadalupe
 
-Ruíz Visfocri Consejera Electoral 3 años
+(MODIFICADO POR ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL CUAL SE APRUEBA LA DESIGNACIÓN DE CONSEJERAS Y CONSEJEROS PRESIDENTES Y CONSEJERAS Y CONSEJEROS ELECTORALES DE ORGANISMOS PÚBLICOS LOCALES ELECTORALES, DE FECHA D.O.F. 12 DE DICIEMBRE DE 2014)
 
-María Elena
+Verónica Alejandra Consejera Electoral 3 años
 
-Adriana
+González
+
+Cárdenas
 
 4. Chiapas (Se adjuntan los dictámenes correspondientes y el análisis respecto de la integración conjunta del órgano superior de dirección, ambos como Anexo 4)
 
@@ -680,3 +682,21 @@ Se aprobó la designación para ocupar el cargo de Consejero Electoral del Organ
 Se aprobó en lo particular el listado de las y los ciudadanos designados para ocupar los cargos de Consejero Presidente y Consejeros Electorales del Organismo Público Local en el estado de Yucatán, por votación unánime de los Consejeros Electorales, Licenciado Enrique Andrade González, Maestro Marco Antonio Baños Martínez, Maestra Adriana Margarita Favela Herrera, Maestra Beatriz Eugenia Galindo Centeno, Doctor Ciro Murayama Rendón, Doctor Benito Nacif Hernández, Doctor José Roberto Ruiz Saldaña, Licenciada Alejandra Pamela San Martín Ríos y Valles, Maestro Arturo Sánchez Gutiérrez, Licenciado Javier Santiago Castillo y del Consejero Presidente, Doctor Lorenzo Córdova Vianello.
 
 El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 12 DE DICIEMBRE DE 2014.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DE ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se acata lo mandatado por la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, respecto a la revocación del Acuerdo INE/CG165/2014 del Consejo General del Instituto Nacional Electoral, sólo en lo que se refiere a la designación de la C. MARÍA ELENA ADRIANA RUIZ VISFOCRI como Consejera Electoral en el estado de Colima, por un periodo de tres años.
+
+SEGUNDO. En su lugar se designa a la C. VERÓNICA ALEJANDRA GONZÁLEZ CÁRDENAS como Consejera Electoral del Organismo Público Local del estado de Colima, en sustitución de la C. MARÍA ELENA ADRIANA RUIZ VISFOCRI para que concluya el cargo de 3 años que a esta última persona se le había conferido.
+
+TERCERO. Se instruye al Secretario Ejecutivo para que, por conducto de la Junta Local Ejecutiva en el estado de Colima, notifique el contenido del presente Acuerdo a las autoridades electorales locales, a la C. VERÓNICA ALEJANDRA GONZÁLEZ CÁRDENAS y a la C. MARÍA ELENA ADRIANA RUIZ VISFOCRI, para los efectos legales conducentes.
+
+CUARTO. La Consejera Electoral designada mediante este Acuerdo deberá rendir la protesta de ley el día 31 de octubre de 2014, en la sede del Organismo Público Local correspondiente al estado de Colima. Para tales efectos, su Consejera Presidenta deberá convocar a sesión de Consejo el mismo día y le tomará dicha protesta.
+
+QUINTO. Se instruye al Secretario a fin de que informe a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación el cumplimiento dado a la Sentencia dictada el 22 de octubre de 2014 en el SUP-RAP-142/2014 y su Acumulado, dentro de las veinticuatro horas siguientes a la aprobación de este Acuerdo.
+
+SEXTO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación, en el Periódico Oficial del Gobierno Constitucional del estado de Colima, en la Gaceta del Instituto nacional Electoral, así como en la portal electrónico del Instituto Nacional Electoral y en los Estrados de las Juntas Ejecutivas Local y Distritales del estado de Colima.
