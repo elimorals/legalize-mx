@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-la-ley-de-adquisiciones-arrendamientos-y-15450"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-11-11"
-last_updated: "2014-11-27"
+last_updated: "2014-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,53 +21,19 @@ state: "MIC"
 ---
 # REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS RELACIONADOS CON BIENES MUEBLES E INMUEBLES DEL ESTADO DE MICHOACAN DE OCAMPO
 
-DECLARATORIA DEL SEIS DE NOVIEMBRE DE DOS MIL CATORCE SOBRE LA FECHA A PARTIR DE LA CUAL EN LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN LAS PARTES TENDRÁN ACCESO A LOS EXPEDIENTES ELECTRÓNICOS, PODRÁN PROMOVER POR VÍA ELECTRÓNICA Y SOLICITAR LA RECEPCIÓN DE NOTIFICACIONES POR ESA VÍA
+REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES E INMUEBLES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2014.
 
-Declaratoria publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 13 de noviembre de 2014.
+Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el jueves 11 de noviembre de 1999.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Suprema Corte de Justicia de la Nación.- Secretaría General de Acuerdos.- Unidad del Poder Judicial de la Federación para el Control de Certificación de Firmas.
+VICTOR MANUEL TINOCO RUBI, Gobernador Constitucional del Estado de Michoacán de Ocampo, en ejercicio de la facultad que me confieren los Artículos 60, Fracción I, y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, y
 
-DECLARATORIA DEL SEIS DE NOVIEMBRE DE DOS MIL CATORCE SOBRE LA FECHA A PARTIR DE LA CUAL EN LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN LAS PARTES TENDRÁN ACCESO A LOS EXPEDIENTES ELECTRÓNICOS, PODRÁN PROMOVER POR VÍA ELECTRÓNICA Y SOLICITAR LA RECEPCIÓN DE NOTIFICACIONES POR ESA VÍA, LA CUAL SE EMITE AL TENOR DE LAS SIGUIENTES
+CONSIDERANDO.
 
-CONSIDERACIONES:
+Por lo anteriormente expuesto y fundado, tengo a bien expedir el presente Decreto que contiene el
 
-PRIMERA. Los Plenos de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal así como el Tribunal Electoral del Poder Judicial de la Federación emitieron el Acuerdo General Conjunto 1/2013, relativo a la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL) y al Expediente Electrónico, el cual se publicó en el Diario Oficial de la Federación del ocho de julio de dos mil trece;
-
-SEGUNDA. En el párrafo primero del artículo SEXTO TRANSITORIO del citado Acuerdo General Conjunto 1/2013 se dispuso que “La Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL) y los expedientes electrónicos regulados en este Acuerdo General Conjunto se integrarán y utilizarán, respectivamente, por los órganos de la Suprema Corte, del Tribunal Electoral, por los Tribunales de Circuito y los Juzgados de Distrito así como por las partes en los asuntos de la competencia de dichos órganos, a partir de las fechas que la Unidad determine, las cuales se indicarán en la declaración que emita y publique en el Diario Oficial de la Federación”;
-
-TERCERA. Los Plenos de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal emitieron el “Acuerdo General Conjunto 1/2014 por el que se regula la integración de los expedientes impreso y electrónico, y el acceso a éste, así como las notificaciones por vía electrónica, mediante el uso de la FIREL, a través del Sistema Electrónico del Poder Judicial de la Federación previsto en el artículo 3o. de la Ley de Amparo” publicado en el Diario Oficial de la Federación el dos de abril de dos mil trece;
-
-CUARTA. En el artículo SEGUNDO TRANSITORIO del citado Acuerdo General Conjunto 1/2014 se estableció:
-
-“A los expedientes electrónicos regulados en este Acuerdo General Conjunto podrán acceder los justiciables por conducto del SEPJF, mediante el uso de su FIREL, en las fechas que al efecto establezca la Unidad en la declaratoria que publique en el Diario Oficial de la Federación, tomando en cuenta las bases siguientes:
-
-I. El uso del expediente electrónico se iniciará en tres diferentes etapas: la primera, para la SCJN y los Órganos jurisdiccionales del PJF radicados en los Circuitos Primero al Cuarto; la segunda, para los radicados en los Circuitos Quinto al Décimo Quinto y la tercera, para los ubicados en los Circuitos Décimo Sexto al Trigésimo Segundo;
-
-II. A partir de las fechas indicadas en la declaración referida en la fracción I inmediata anterior, en la SCJN y en los Órganos jurisdiccionales del PJF, se integrarán los expedientes electrónicos en los términos previstos en este Acuerdo General Conjunto, relativos a los nuevos asuntos que se reciban, sean demandas, recursos o incidentes que se rijan por la Ley de Amparo vigente, y
-
-III. A partir de las fechas indicadas en la declaración referida en la fracción I que antecede, en las cuales se inicie el uso del expediente electrónico en la SCJN y en los Órganos jurisdiccionales del PJF, en todos los juicios de amparo y en los diversos recursos o incidentes derivados de éstos, que se rigen por la Ley de Amparo vigente, aun cuando se trate de asuntos o instancias respecto de las cuales no sea obligatoria la integración del expediente electrónico, las partes podrán promover, mediante el uso de su FIREL, en los términos previstos en los capítulos Séptimo y Octavo de este Acuerdo General Conjunto, para el efecto de que al expediente impreso respectivo se agreguen dichas promociones, tanto en la SCJN como en los Órganos jurisdiccionales del PJF, una vez certificada la coincidencia de su versión impresa con la recibida electrónicamente”;
-
-QUINTA. Tomando en cuenta la complejidad específica que implica concluir el desarrollo de la infraestructura necesaria para la integración y el uso del expediente electrónico en los 750 órganos jurisdiccionales del Poder Judicial de la Federación administrados por el Consejo de la Judicatura Federal (Tribunales Colegiados y Unitarios de Circuito así como Juzgados de Distrito), derivado de la cantidad y diversidad de asuntos del conocimiento de dichos órganos jurisdiccionales, en comparación con los trabajos que para tal fin se requieren en la Suprema Corte de Justicia de la Nación, se estima conveniente que en la primera etapa señalada en la fracción I del artículo segundo transitorio del Acuerdo General Conjunto 1/2014 antes referido, en un primer momento, únicamente en ese Alto Tribunal las partes puedan acceder a los expedientes electrónicos, promover en éstos y solicitar notificaciones por vía electrónica, al tenor de la nueva Ley de Amparo mediante el uso de su FIREL, sin menoscabo de que a la brevedad se determine la fecha en la que dichas actividades puedan llevarse a cabo en los órganos jurisdiccionales radicados en los Circuitos del I al IV.
-
-Por lo expuesto y fundado, la Unidad del Poder Judicial de la Federación para el Control de Certificación de Firmas declara:
-
-PRIMERA. A partir del primero de diciembre de dos mil catorce en los asuntos que se radiquen en la Suprema Corte de Justicia de la Nación, regulados por la Ley de Amparo vigente a partir del tres de abril de dos mil trece, las partes podrán mediante el uso de su FIREL, acceder a los expedientes electrónicos que al efecto se integren, presentar promociones por vía electrónica y solicitar la recepción de notificaciones por esta vía, en términos de lo establecido en el “Acuerdo General Conjunto 1/2014, de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal, por el que se regula la integración de los expedientes impreso y electrónico, y el acceso a éste, así como las notificaciones por vía electrónica, mediante el uso de la FIREL, a través del Sistema Electrónico del Poder Judicial de la Federación previsto en el artículo 3o. de la Ley de Amparo”;
-
-SEGUNDA. A partir del primero de diciembre de dos mil catorce las partes en los asuntos que se rigen por la Ley de Amparo vigente, que se hubieren radicado antes de esa fecha en la Suprema Corte de Justicia de la Nación, podrán presentar promociones por vía electrónica, mediante el uso de su FIREL, en los términos previstos en los Capítulos Séptimo y Octavo del referido Acuerdo General Conjunto 1/2014, aun cuando los expedientes respectivos únicamente obren en versión impresa.
-
-TERCERA. En términos de lo previsto en la parte inicial del inciso c) del párrafo segundo del artículo 12 del Acuerdo General Conjunto 1/2013 antes mencionado, las partes que cuenten con FIREL expedida, indistintamente, por la Suprema Corte de Justicia de la Nación, el Tribunal Electoral del Poder Judicial de la Federación o el Consejo de la Judicatura Federal, podrán acceder a los expedientes electrónicos de los asuntos radicados en aquélla, en términos de lo señalado en el párrafo último del artículo 22 del citado Acuerdo General Conjunto 1/2014.
-
-TRANSITORIOS:
-
-PRIMERO. La presente declaratoria entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO. Publíquese esta declaratoria en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y, en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Trasparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
-
-El Secretario General de Acuerdos de la Suprema Corte de Justicia de la Nación, Rafael Coello Cetina.- Rúbrica.- El Subsecretario General de Acuerdos de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación en términos de lo previsto en el artículo 202 de la Ley Orgánica del Poder Judicial de la Federación, Gabriel Mendoza Elvira.- Rúbrica.- La Directora General de Estadística Judicial del Consejo de la Judicatura Federal, Lorena Angélica Taboada Pacheco.- Rúbrica.- El Director General de Tecnologías de la Información de la Suprema Corte de Justicia de la Nación, Otilio Estéban Hernández Pérez.- Rúbrica.- El Director General de Sistemas del Tribunal Electoral del Poder Judicial de la Federación, David Amézquita Pérez.- Rúbrica.- El Director General de Tecnologías de la Información del Consejo de la Judicatura Federal, Juan José García Mora.- Rúbrica.- El Secretario de la Unidad, Iván Eladio Palacios Allec.- Rúbrica.
-
-EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CERTIFICA: Que esta copia fotostática constante de tres fojas útiles concuerda fiel y exactamente con el original de la DECLARATORIA DEL SEIS DE NOVIEMBRE DE DOS MIL CATORCE SOBRE LA FECHA A PARTIR DE LA CUAL EN LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN LAS PARTES TENDRÁN ACCESO A LOS EXPEDIENTES ELECTRÓNICOS, PODRÁN PROMOVER POR VÍA ELECTRÓNICA Y SOLICITAR LA RECEPCIÓN DE NOTIFICACIONES POR ESA VÍA, que obra en los archivos de la sección de instrumentos normativos de esta Secretaría General de Acuerdos y se expide para su publicación en el Diario Oficial de la Federación.- México, Distrito Federal, a siete de noviembre de dos mil catorce.- Rúbrica.
+REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS RELACIONADOS CON BIENES MUEBLES E INMUEBLES DEL ESTADO DE MICHOACAN DE OCAMPO
 
 ### Capítulo I. Disposiciones Generales
 
@@ -183,7 +149,7 @@ VI. En el caso de arrendamiento, la indicación de si éste es con opción a com
 
 Las bases para las licitaciones públicas serán elaboradas por el Comité, con base en el requerimiento de las dependencias y entidades, en el que se haga la descripción general y se señalen las especificaciones, cantidad y unidad de medida de los bienes o servicios que sean objeto de la licitación. Se pondrán a disposición de los interesados a partir de la fecha de publicación de la convocatoria y hasta cuarenta y ocho horas previas al acto de presentación y apertura de proposiciones, y contendrán, como mínimo, lo siguiente:
 
-l. Nombre, denominación o razón social de la dependencia o entidad que las emita, así como de la Dirección;
+I. Nombre, denominación o razón social de la dependencia o entidad que las emita, así como de la Dirección;
 
 II. La forma en que deberán acreditarse los interesados o sus representantes; fecha y hora de la junta de aclaraciones a las bases de la licitación, siendo optativa la asistencia a las reuniones que, en su caso, se realicen; fecha y hora para la presentación y apertura de las proposiciones, garantías, comunicación del fallo y firma del contrato, en el domicilio de la Dirección;
 
@@ -385,7 +351,7 @@ Tratándose de bienes o servicios sujetos a precios oficiales, se reconocerán l
 
 Las dependencias, entidades y la Dirección, deberán establecer con precisión en los contratos que celebren, además del contenido de las bases de la licitación a que se refiere el artículo 9º de este Reglamento, las condiciones específicas de pago siguientes:
 
-l. Plazo para efectuarlo a partir de la fecha en que sea exigible la obligación, que en ningún caso podrá ser inferior a veinte días hábiles;
+I. Plazo para efectuarlo a partir de la fecha en que sea exigible la obligación, que en ningún caso podrá ser inferior a veinte días hábiles;
 
 II. Tasa de descuento que en su caso se pacte por pronto pago; y,
 
@@ -537,6 +503,60 @@ La Coordinación de Contraloría y la Consejería Jurídica del Ejecutivo del Es
 
 Las facultades y atribuciones del Subcomité de Adquisiciones del Sistema de Seguridad Pública y Procuración de Justicia del Estado de Michoacán de Ocampo y de sus integrantes se establecerán en el Reglamento Interno que apruebe el mismo órgano colegiado en su primera sesión ordinaria.
 
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+
+ARTICULO 38 BIS.- Se autoriza la constitución del Subcomité de Adquisiciones del Organismo Público Descentralizado Servicios de Salud de Michoacán, que de igual forma tendrá las atribuciones que tiene conferidas el Comité para efectuar los procedimientos a los que se refiere el artículo 5° de este Reglamento, en el rubro de Salud.
+
+El Subcomité estará integrado por:
+
+Presidencia.
+
+I. Titular de los Servicios de Salud de Michoacán;
+
+El Titular de la Delegación Administrativa de los Servicios de Salud o su equivalente, será quien fungirá como suplente del Presidente.
+
+Vocales.
+
+I. Titular de la Subdirección de Recursos Financieros o su equivalente en los Servicios de Salud de Michoacán;
+
+II. Un Representante de la Unidad Solicitante de los Servicios de Salud de Michoacán interesada en la adquisición de los bienes, arrendamiento o contratación de los servicios; y,
+
+III. El Director General del Comité de Adquisiciones del Poder Ejecutivo o quien éste designe.
+
+Secretaría Técnica.
+
+I. Titular de la Subdirección de Recursos Materiales o su equivalente en los Servicios de Salud de Michoacán.
+
+La Coordinación de Contraloría y la Consejería Jurídica del Ejecutivo del Estado de Michoacán de Ocampo, tendrán representantes permanentes en el Subcomité de Adquisiciones del Organismo Público Descentralizado Servicios de Salud de Michoacán, con derecho a voz pero sin derecho a voto.
+
+Las facultades y atribuciones del Subcomité de Adquisiciones del Organismo Público Descentralizado Servicios de Salud de Michoacán y de sus integrantes, se establecerán en el Reglamento Interno que apruebe el mismo órgano colegiado en su primera sesión ordinaria.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 38 TER. Se autoriza la constitución del Subcomité de Adquisiciones de Política y Desarrollo Social, que se encargará de ejecutar los procedimientos y las acciones necesarias en esta materia, para efectuar las adquisiciones y contratación de servicios relacionados con la operación del Programa de Atención a Necesidades Básicas, de conformidad con las Reglas de Operación del mismo; así como también las relacionadas con el cumplimiento de los objetivos de la Política Social en el Estado y del Sistema Estatal de Desarrollo Social.
+
+El Subcomité estará integrado por:
+
+Presidencia.
+
+I. Titular de la Secretaría de Política Social, quien eventualmente podrá designar suplente;
+
+Vocales.
+
+I. Titular de la Delegación Administrativa de la Secretaría de Política Social;
+
+II. Un Representante de la Dirección interesada en la adquisición de los bienes, arrendamiento o contratación de los servicios; y
+
+III. El Director General del Comité de Adquisiciones del Poder Ejecutivo o quien éste designe.
+
+Secretaría Técnica.
+
+I. Titular de la Secretaría Técnica de la Secretaría de Política Social.
+
+Los integrantes señalados contarán con derecho a voz y voto; el Presidente, además tendrá voto de calidad en caso de empate.
+
+La Coordinación de Contraloría y la Consejería Jurídica del Ejecutivo del Estado de Michoacán de Ocampo, tendrán representantes permanentes en el Subcomité de Adquisiciones de Política y Desarrollo Social, con derecho a voz pero sin derecho a voto.
+
 ### Capítulo VI. De la Información y Verificación
 
 ###### ARTICULO 39.
@@ -602,3 +622,35 @@ El Subcomité de Adquisiciones del Sistema de Seguridad Pública y Procuración 
 ###### ARTÍCULO TERCERO.
 
 El Comité de Adquisiciones del Poder Ejecutivo, tendrá 15 días a partir de la publicación del presente Decreto para compartir al El Subcomité de Adquisiciones del Sistema de Seguridad Pública y Procuración de Justicia del Estado de Michoacán de Ocampo, el Padrón de Proveedores de la Administración Pública Estatal y todo lo relacionado con los procesos para llevar a cabo las licitaciones y adjudicaciones de contratos de adquisiciones y servicios relacionados.
+
+P.O. 27 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+El Subcomité de Adquisiciones del Organismo Público Descentralizado Servicios de Salud de Michoacán, deberá ser instalado dentro de los 15 días posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Comité de Adquisiciones del Poder Ejecutivo, tendrá 15 días a partir de la publicación del presente Decreto para compartir al Subcomité de Adquisiciones del Organismo Público Descentralizado Servicios de Salud de Michoacán, el Padrón de Proveedores de la Administración Pública Estatal y todo lo relacionado con los procesos para llevar a cabo las licitaciones y adjudicaciones de contratos de adquisiciones, arrendamientos y servicios relacionados.
+
+P.O. 12 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+El Subcomité de Adquisiciones de Política y Desarrollo Social, deberá quedar formalmente instalado dentro de los 15 días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Para la organización, funcionamiento y atribuciones de dicho Subcomité, éste deberá emitir su propio reglamento interno dentro de los 15 días hábiles posteriores al de su formal instalación.
+
+###### ARTICULO CUARTO.
+
+El Comité de Adquisiciones del Poder Ejecutivo, tendrá como máximo 15 días hábiles a partir de la instalación del Subcomité para compartir al mismo, a solicitud de éste, el Padrón de Proveedores de la Administración Pública Estatal actualizado, así como los formatos, las bases y lineamientos autorizados por dicho Órgano y todo lo relacionado con los procedimientos para llevar a cabo las adquisiciones y contratación de servicios que señala la ley de la materia.
