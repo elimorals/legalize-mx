@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-la-ley-de-adquisiciones-arrendamientos-y-15450"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-11-11"
-last_updated: "2014-11-27"
+last_updated: "2014-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES E INMUEBLES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el jueves 11 de noviembre de 1999.
 
@@ -531,6 +531,32 @@ La Coordinación de Contraloría y la Consejería Jurídica del Ejecutivo del Es
 
 Las facultades y atribuciones del Subcomité de Adquisiciones del Organismo Público Descentralizado Servicios de Salud de Michoacán y de sus integrantes, se establecerán en el Reglamento Interno que apruebe el mismo órgano colegiado en su primera sesión ordinaria.
 
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 38 TER. Se autoriza la constitución del Subcomité de Adquisiciones de Política y Desarrollo Social, que se encargará de ejecutar los procedimientos y las acciones necesarias en esta materia, para efectuar las adquisiciones y contratación de servicios relacionados con la operación del Programa de Atención a Necesidades Básicas, de conformidad con las Reglas de Operación del mismo; así como también las relacionadas con el cumplimiento de los objetivos de la Política Social en el Estado y del Sistema Estatal de Desarrollo Social.
+
+El Subcomité estará integrado por:
+
+Presidencia.
+
+I. Titular de la Secretaría de Política Social, quien eventualmente podrá designar suplente;
+
+Vocales.
+
+I. Titular de la Delegación Administrativa de la Secretaría de Política Social;
+
+II. Un Representante de la Dirección interesada en la adquisición de los bienes, arrendamiento o contratación de los servicios; y
+
+III. El Director General del Comité de Adquisiciones del Poder Ejecutivo o quien éste designe.
+
+Secretaría Técnica.
+
+I. Titular de la Secretaría Técnica de la Secretaría de Política Social.
+
+Los integrantes señalados contarán con derecho a voz y voto; el Presidente, además tendrá voto de calidad en caso de empate.
+
+La Coordinación de Contraloría y la Consejería Jurídica del Ejecutivo del Estado de Michoacán de Ocampo, tendrán representantes permanentes en el Subcomité de Adquisiciones de Política y Desarrollo Social, con derecho a voz pero sin derecho a voto.
+
 ### Capítulo VI. De la Información y Verificación
 
 ###### ARTICULO 39.
@@ -610,3 +636,21 @@ El Subcomité de Adquisiciones del Organismo Público Descentralizado Servicios 
 ###### ARTÍCULO TERCERO.
 
 El Comité de Adquisiciones del Poder Ejecutivo, tendrá 15 días a partir de la publicación del presente Decreto para compartir al Subcomité de Adquisiciones del Organismo Público Descentralizado Servicios de Salud de Michoacán, el Padrón de Proveedores de la Administración Pública Estatal y todo lo relacionado con los procesos para llevar a cabo las licitaciones y adjudicaciones de contratos de adquisiciones, arrendamientos y servicios relacionados.
+
+P.O. 12 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+El Subcomité de Adquisiciones de Política y Desarrollo Social, deberá quedar formalmente instalado dentro de los 15 días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Para la organización, funcionamiento y atribuciones de dicho Subcomité, éste deberá emitir su propio reglamento interno dentro de los 15 días hábiles posteriores al de su formal instalación.
+
+###### ARTICULO CUARTO.
+
+El Comité de Adquisiciones del Poder Ejecutivo, tendrá como máximo 15 días hábiles a partir de la instalación del Subcomité para compartir al mismo, a solicitud de éste, el Padrón de Proveedores de la Administración Pública Estatal actualizado, así como los formatos, las bases y lineamientos autorizados por dicho Órgano y todo lo relacionado con los procedimientos para llevar a cabo las adquisiciones y contratación de servicios que señala la ley de la materia.
