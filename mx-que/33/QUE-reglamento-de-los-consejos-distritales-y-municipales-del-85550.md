@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-de-los-consejos-distritales-y-municipales-del-85550"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-16"
-last_updated: "2014-02-21"
+last_updated: "2014-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 REGLAMENTO DE LOS CONSEJOS DISTRITALES Y MUNICIPALES DEL INSTITUTO ELECTORAL DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE QUERÉTARO, QUE ABROGA EL REGLAMENTO DE LOS CONSEJOS DISTRITALES Y MUNICIPALES DEL INSTITUTO ELECTORAL DE QUERÉTARO, PUBLICADO EN EL P.O. DE 12 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2014. (ABROGADO)
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 16 de diciembre de 2011.
 
@@ -668,3 +670,15 @@ P.O. 21 DE FEBRERO DE 2014.
 Primero. Se modifica el Reglamento de los Consejos Distritales y Municipales del Instituto Electoral de Querétaro, en los términos del Acuerdo del Consejo General del Instituto Electoral de Querétaro, relativo al proyecto de dictamen mediante el cual la Comisión Transitoria que dará cumplimiento al Artículo Tercero Transitorio de la Ley por la que se reforman y adicionan diversos preceptos de la Ley Electoral del Estado de Querétaro y la Ley de Medios de Impugnación en Materia Electoral del Estado de Querétaro, acuerda someter al Consejo General la propuesta de modificaciones al Reglamento de los Consejos Distritales y Municipales del Instituto Electoral de Querétaro.
 
 Segundo. Las presentes modificaciones entrarán en vigor al día siguiente de su aprobación por el Consejo General.
+
+G.G. 12 DE DICIEMBRE DE 2014.
+
+> <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO.</small>
+
+PRIMERO. El Consejo General del Instituto Electoral del Estado de Querétaro, de conformidad con los considerandos primero y cuarto de este Acuerdo, es competente para conocer, y en su caso, aprobar el Proyecto de Dictamen de la Comisión Jurídica, materia de la presente determinación.
+
+SEGUNDO. En términos de los considerandos primero y cuarto de este Acuerdo, se aprueba el Proyecto de Dictamen de la Comisión Jurídica, materia de esta determinación, el cual se tiene por reproducido como si a la letra se insertase, para que surta todos sus efectos legales.
+
+TERCERO. En observancia del Proyecto de Dictamen aprobado en el punto de acuerdo anterior, se abroga el Reglamento de los Consejos Distritales y Municipales del Instituto Electoral de Querétaro. Lo anterior surtirá efecto al día siguiente de la publicación de la presente determinación en el Periódico Oficial del Gobierno del Estado de Querétaro La Sombra de Arteaga.
+
+CUARTO. Publíquese el presente Acuerdo en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
