@@ -4,7 +4,7 @@ identifier: "FED-declaratorias-de-la-entrada-en-vigor-del-codigo-nacional-de-102
 country: "mx"
 rank: "otro"
 publication_date: "2014-09-24"
-last_updated: "2014-09-24"
+last_updated: "2014-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102463&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2014-09-17"
 ---
 # DECLARATORIAS DE LA ENTRADA EN VIGOR DEL CODIGO NACIONAL DE PROCEDIMIENTOS PENALES A NIVEL FEDERAL
 
-DECLARATORIA DE LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, A PARTIR DEL 24 DE NOVIEMBRE DE 2014, EN LOS ESTADOS DE DURANGO Y PUEBLA
+DECLARATORIA POR LA QUE EL CONGRESO DE LA UNIÓN DECLARA LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, A PARTIR DEL 16 DE MARZO DE 2015, EN LOS ESTADOS DE YUCATÁN Y ZACATECAS
 
 TEXTO ORIGINAL.
 
-Declaratoria publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 24 de septiembre de 2014.
+Declaratoria publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 12 de diciembre de 2014.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Congreso de la Unión.
 
@@ -31,6 +31,6 @@ EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, EN CUMPLIMIENTO A LO QUE DI
 
 DECLARATORIA
 
-El Congreso de la Unión declara la entrada en vigor del Código Nacional de Procedimientos Penales, a partir del 24 de noviembre de 2014, en los Estados de Durango y Puebla.
+El Congreso de la Unión declara la entrada en vigor del Código Nacional de Procedimientos Penales, a partir del 16 de marzo de 2015, en los Estados de Yucatán y Zacatecas.
 
-México, D.F., a 17 de septiembre de 2014.- Sen. Miguel Barbosa Huerta, Presidente.- Rúbrica.- Dip. Silvano Aureoles Conejo, Presidente.- Rúbrica.- Sen. Lucero Saldaña Pérez, Secretaria.- Rúbrica.- Dip. Laura Barrera Fortoul, Secretaria.- Rúbrica.
+México, D.F., a 2 de diciembre de 2014.- Sen. Miguel Barbosa Huerta, Presidente.- Rúbrica.- Dip. Silvano Aureoles Conejo, Presidente.- Rúbrica.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbrica.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Rúbrica.
