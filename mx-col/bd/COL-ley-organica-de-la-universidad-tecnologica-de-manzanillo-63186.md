@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-universidad-tecnologica-de-manzanillo-63186"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-09-07"
-last_updated: "2010-12-11"
+last_updated: "2014-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY ORGANICA DE LA UNIVERSIDAD TECNOLOGICA DE MANZANILLO
 
-LEY ORGANICA DE LA UNIVERSIDAD TECNOLOGICA DE MANZANILLO
+LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE MANZANILLO DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE MANZANILLO, PUBLICADA EN EL P.O. DE 13 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en la Edición Especial del Periódico Oficial del Estado de Colima, el domingo 7 de septiembre de 2008.
 
@@ -77,7 +79,7 @@ Para el ejercicio de sus fines, la Universidad, tendrá acceso a los recursos p�
 
 ###### ARTÍCULO 5°.
 
-La Universidad realizará sus fines de enseñanza, investigación, vinculación y extensión universitaria, respetando la libertad de cátedra e investigación y el libre examen y discusión de las ideas” (sic).
+La Universidad realizará sus fines de enseñanza, investigación, vinculación y extensión universitaria, respetando la libertad de cátedra e investigación y el libre examen y discusión de las ideas”.
 
 ###### ARTÍCULO 6°.
 
@@ -1083,8 +1085,22 @@ Dado en Palacio de Gobierno, el día siete del mes de septiembre del año dos mi
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. HÉCTOR MICHEL CAMARENA. Rúbrica.- EL SECRETARIO DE EDUCACIÓN, PROFR. CARLOS CRUZ MENDOZA.-Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 11 DE DICIEMBRE DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 13 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor el día siguiente de su publicación, en el Periódico Oficial, "El Estado de Colima"
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica de la Universidad Tecnológica de Manzanillo, publicada en el Periódico Oficial el 7 de septiembre del año 2008, y las demás disposiciones que se opongan a este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Universidad deberá expedir o ajustar el contenido de sus reglamentos y demás disposiciones normativas a los preceptos de esta Ley, en un término de noventa días contados a partir de la fecha de su publicación en el Periódico Oficial del Estado.
