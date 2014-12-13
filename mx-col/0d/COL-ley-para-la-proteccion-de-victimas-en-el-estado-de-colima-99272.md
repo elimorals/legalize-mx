@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-proteccion-de-victimas-en-el-estado-de-colima-99272
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-15"
-last_updated: "2014-08-30"
+last_updated: "2014-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99272&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COL"
 
 LEY PARA LA PROTECCIÓN DE VÍCTIMAS EN EL ESTADO DE COLIMA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 372, PUBLICADO EN EL P.O. DE 30 DE AGOSTO DE 2014, SE DECLARA QUE EN EL ESTADO DE COLIMA, SE INCORPORA EL SISTEMA PROCESAL PENAL ACUSATORIO A SU RÉGIMEN JURÍDICO Y ENTRA EN VIGOR EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES DE MANERA GRADUAL, POR REGIÓN O PARTIDO JUDICIAL, DE ACUERDO CON LAS PREVENCIONES DEL ARTÍCULO SEGUNDO DEL PROPIO DECRETO.</small>
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PROTECCIÓN DE VÍCTIMAS EN EL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 13 DE DICIEMBRE DE 2014; ORDENAMIENTO QUE ENTRA EN VIGOR EL 31 DE DICIEMBRE DEL AÑO 2014.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 15 de febrero de 2014.
 
@@ -888,3 +888,25 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Remítase copia de la Declaratoria a los poderes públicos de la Federación, de las Entidades Federativas y del Distrito Federal, así como a los demás poderes del Estado, para su conocimiento y efectos a que haya lugar.
+
+P.O. 13 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 31 de diciembre del año 2014, previa su publicación en el Periódico Oficial “El Estado de Colima”.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abrogan la Ley que Regula la Atención y Protección a la Víctima del Delito en el Estado de Colima, publicada el 23 de septiembre de 2006, mediante decreto número 416, en el Periódico Oficial “El Estado de Colima”; así como la Ley para la Protección de Víctimas en el Estado de Colima, publicado el día 15 de febrero de 2014, mediante decreto número 283, en el Periódico Oficial “El Estado de Colima”. Asimismo, quedan abrogadas todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Lo correspondiente en esta Ley al nuevo Sistema de Justicia Penal Acusatorio Adversarial, en tanto no entrare en vigor en las zonas y regiones, de conformidad a las fechas establecidas en la Declaratoria de Implementación de este Sistema, lo substanciarán las autoridades que al momento de la entrada en vigor de la presente Ley les corresponda.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo del Estado contará con un término de 120 días posteriores a la entrada en vigor del presente Decreto, para adecuar o emitir la reglamentación correspondiente que desarrolle las bases y lineamientos de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+En tanto se conforme la Unidad de Asesoría Jurídica Estatal, el Ministerio Público dará la asesoría necesaria a las víctimas y ofendidos, y en caso de que por éste se emitan acuerdos o determinación que afecten a los intereses de los antes mencionados, en estos casos, la asesoría jurídica la prestará la Defensoría Pública.
