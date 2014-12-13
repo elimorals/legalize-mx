@@ -4,7 +4,7 @@ identifier: "COL-ley-de-extincion-de-dominio-para-el-estado-de-colima-89244"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-25"
-last_updated: "2012-08-25"
+last_updated: "2014-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89244&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DE LA LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 13 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EL 31 DE DICIEMBRE DE 2014.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 25 de agosto de 2012.
 
@@ -39,7 +41,7 @@ D E C R E T O
 
 EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE LOS (SIC) ARTÍCULOS 33 FRACCIÓN II, Y 39 DE LA CONSTITUCIÓN POLÍTICA LOCAL, EN NOMBRE DEL PUEBLO, Y
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O...
 
 Por lo anteriormente expuesto se expide el siguiente
 
@@ -215,7 +217,7 @@ Durante la sustanciación del procedimiento, el Ministerio Público podrá solic
 
 ###### ARTÍCULO 19.
 
-En su caso, toda medida cautelar quedará anotada en Instituto (sic) para el Registro del Territorio y únicamente la podrá cancelar quien la hubiera ordenado. La Secretaría deberá ser notificada del otorgamiento de toda medida cautelar o levantamiento de cualquiera de éstas.
+En su caso, toda medida cautelar quedará anotada en (sic) Instituto para el Registro del Territorio y únicamente la podrá cancelar quien la hubiera ordenado. La Secretaría deberá ser notificada del otorgamiento de toda medida cautelar o levantamiento de cualquiera de éstas.
 
 ###### ARTÍCULO 20.
 
@@ -666,3 +668,15 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, el día 23 veintitrés del mes de agosto del año 2012 dos mil doce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE COLIMA, LIC. MARIO ANGUIANO MORENO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. RENÉ RODRÍGUEZ ALCARAZ. Rúbrica. EL SECRETARIO DE FINANZAS Y ADMINISTRACIÓN, DR. J. JESÚS OROZCO ALFARO. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE DICIEMBRE DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el 31 de diciembre de 2014, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El presente Decreto abroga la Ley de Extinción de Dominio para el Estado de Colima publicada el 25 de agosto de 2012, en el Periódico Oficial "El Estado de Colima".
+
+TERCERO.- Lo correspondiente en esta Ley al nuevo Sistema de Justicia Penal Acusatorio Adversarial, en tanto no entrare en vigor en las zonas y regiones, de conformidad a las fechas establecidas en la Declaratoria de Implementación de este Sistema, lo substanciaran las autoridades que al momento de la entrada en vigor de la presente Ley les corresponda.
+
+CUARTO.- El Poder Ejecutivo del Estado, contará con un plazo de 120 días naturales para expedir el Reglamento de la presente Ley.
