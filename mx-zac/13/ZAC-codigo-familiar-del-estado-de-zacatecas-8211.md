@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-familiar-del-estado-de-zacatecas-8211"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-10"
-last_updated: "2013-03-16"
+last_updated: "2014-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CÓDIGO FAMILIAR DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2014.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 10 de mayo de 1986.
 
@@ -227,6 +227,10 @@ Toda persona puede solicitar copia certificada de los actos del Registro Civil o
 
 El estado civil de las personas sólo se comprueba con las actas del Registro Civil, sus copias certificadas o los documentos del apéndice; ningún otro medio de prueba es admisible para ese objeto, salvo los casos expresamente consignados en esta ley o en el Código Civil vigente en el Estado.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2014)</small>
+
+Las copias certificadas emitidas mediante firma electrónica, también son medio de prueba, respecto del estado civil de las personas, cuando cumplan con las disposiciones contenidas en la Ley de Firma Electrónica del Estado de Zacatecas.
+
 ###### ARTICULO 24.
 
 Cuando no hayan existido registros, se hubieren perdido, fueren ilegibles o faltare el acta en que se suponga se encontraba la inscripción, sólo podrá probarse el acto en la forma y términos que establezca el Código de Procedimientos Civiles. El asentamiento del acta sólo procederá por sentencia firme.
@@ -285,7 +289,9 @@ Las declaraciones de nacimiento se harán presentando a la persona ante el Ofici
 
 Tienen obligación de declarar el nacimiento el padre y la madre conjunta o separadamente, dentro del término de noventa días siguientes a la fecha en que haya ocurrido.
 
-Si el registro no se hiciere dentro del término a que se refiere el párrafo que antecede y se tratare de un menor de seis años podrá hacerse extemporáneamente y el solicitante será sancionado con una multa de uno a tres días de salario mínimo vigente en el lugar y la fecha en que se pretenda hacer el registro. En los demás casos se estará a lo dispuesto en el artículo veinticuatro de esta Ley.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2014)</small>
+
+Si el registro no se hiciere dentro del tiempo a que se refiere el párrafo que antecede y se tratare de un menor de seis años podrá hacerse extemporáneamente.
 
 > <small>(ADICIONADO, P.O. 25 DE MAYO DE 1994)</small>
 
@@ -2735,7 +2741,7 @@ I. Que trate, de palabra y/o de obra, a los que están sujetos a ella con injust
 
 II. Que de manera intencional o por negligencia, propicie que su educación sea física, intelectual o socialmente inadecuada;
 
-III. Que les imponga o fomente hábitos que puedan dañar su salud física o mental; y (sic)
+III. Que les imponga o fomente hábitos que puedan dañar su salud física o mental; y
 
 IV. Que incurra frecuentemente en actos y formas de conducta que impliquen malos ejemplos o que puedan contribuir a su corrupción;
 
@@ -4762,3 +4768,17 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los procedimientos de presunción de muerte que iniciaron su trámite antes de la entrada en vigor de la presente reforma se regirán por lo dispuesto en el presente Decreto.
 
 TERCERO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+P.O. 13 DE DICIEMBRE DE 2014.
+
+DECRETO No. 217 POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 36 DEL CÓDIGO FAMILIAR DEL ESTADO DE ZACATECAS.
+
+ÚNICO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
+
+P.O. 13 DE DICIEMBRE DE 2014.
+
+DECRETO No. 218 POR EL QUE SE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 23 DEL CÓDIGO FAMILIAR DEL ESTADO DE ZACATECAS.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se derogan todas las disposiciones que contravengan al presente Decreto.
