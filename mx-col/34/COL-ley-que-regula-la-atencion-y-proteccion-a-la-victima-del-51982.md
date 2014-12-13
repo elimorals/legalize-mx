@@ -4,7 +4,7 @@ identifier: "COL-ley-que-regula-la-atencion-y-proteccion-a-la-victima-del-51982"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-23"
-last_updated: "2006-09-23"
+last_updated: "2014-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY QUE REGULA LA ATENCION Y PROTECCION A LA VICTIMA DEL DELITO EN EL ESTADO DE COLIMA
 
-LEY QUE REGULA LA ATENCION Y PROTECCION A LA VICTIMA DEL DELITO EN EL ESTADO DE COLIMA
+LEY QUE REGULA LA ATENCIÓN Y PROTECCIÓN A LA VÍCTIMA DEL DELITO EN EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PROTECCIÓN DE VÍCTIMAS EN EL ESTADO DE COLIMA, PUBLICADA EN EL SUPLEMENTO NO. 4 DEL P.O. DE 13 DE DICIEMBRE DE 2014, ORDENAMIENTO QUE ENTRA EN VIGOR EL 31 DE DICIEMBRE DE 2014.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 23 de septiembre de 2006.
 
@@ -602,3 +604,27 @@ C. Martín Flores Castañeda, Diputado Presidente. Rúbrica. C. David Enyelnim M
 Dado en Palacio de Gobierno, al día 08 del mes de septiembre del año dos mil seis.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO. Rúbrica. EL PROCURADOR GENERAL DE JUSTICIA, LIC. ARTURO DÍAZ RIVERA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 31 de diciembre del año 2014, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+###### ARTÍCULO SEGUNDO.
+
+Se abrogan la Ley que Regula la Atención y Protección a la Víctima del Delito en el Estado de Colima, publicada el 23 de septiembre de 2006, mediante decreto número 416, en el Periódico Oficial "El Estado de Colima"; así como la Ley para la Protección de Víctimas en el Estado de Colima, publicado el día 15 de febrero de 2014, mediante decreto número 283, en el Periódico Oficial "El Estado de Colima". Asimismo, quedan abrogadas todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Lo correspondiente en esta Ley al nuevo Sistema de Justicia Penal Acusatorio Adversarial, en tanto no entrare en vigor en las zonas y regiones, de conformidad a las fechas establecidas en la Declaratoria de Implementación de este Sistema, lo substanciarán las autoridades que al momento de la entrada en vigor de la presente Ley les corresponda.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo del Estado contará con un término de 120 días posteriores a la entrada en vigor del presente Decreto, para adecuar o emitir la reglamentación correspondiente que desarrolle las bases y lineamientos de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+En tanto se conforme la Unidad de Asesoría Jurídica Estatal, el Ministerio Público dará la asesoría necesaria a las víctimas y ofendidos, y en caso de que por éste se emitan acuerdos o determinación que afecten a los intereses de los antes mencionados, en estos casos, la asesoría jurídica la prestará la Defensoría Pública.
