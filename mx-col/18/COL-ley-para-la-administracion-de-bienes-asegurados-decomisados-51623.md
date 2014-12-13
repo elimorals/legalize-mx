@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-administracion-de-bienes-asegurados-decomisados-516
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-02"
-last_updated: "2013-08-24"
+last_updated: "2014-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, DECOMISADOS Y ABANDONADOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2013.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, DECOMISADOS Y ABANDONADOS DEL ESTADO DE COLIMA, PUBLICADA EN EL PERIÓDICO OFICIAL EL 13 DE DICIEMBRE DE 2014; ORDENAMIENTO QUE ENTRARÁ EN VIGOR EL 31 DE DICIEMBRE DE 2014.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 2 de septiembre de 2006.
 
@@ -518,3 +520,13 @@ P.O. 24 DE AGOSTO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
+
+P.O. 13 DE DICIEMBRE DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el 31 de diciembre de 2014, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El presente Decreto abroga la Ley para la Administración de Bienes Asegurados, Decomisados y Abandonados del Estado de Colima, publicada el 2 de septiembre de 2006, en el Periódico Oficial "El Estado de Colima".
+
+TERCERO.- Lo correspondiente en esta Ley al nuevo Sistema de Justicia Penal Acusatorio Adversarial, en tanto no entrare en vigor en las zonas y regiones, de conformidad a las fechas establecidas en la Declaratoria de Implementación de este Sistema, lo substanciarán las autoridades que al momento de la entrada en vigor de la presente Ley les corresponda.
+
+CUARTO.- El Poder Ejecutivo del Estado, contará con un plazo de 120 días naturales para el (sic) expedir el Reglamento de la presente Ley.
