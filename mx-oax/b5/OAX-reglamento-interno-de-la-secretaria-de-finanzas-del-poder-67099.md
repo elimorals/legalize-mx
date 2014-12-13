@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-de-la-secretaria-de-finanzas-del-poder-67099
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-02"
-last_updated: "2009-01-02"
+last_updated: "2014-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67099&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # REGLAMENTO INTERNO DE LA SECRETARIA DE FINANZAS DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO DE OAXACA
 
-REGLAMENTO INTERNO DE LA SECRETARIA DE FINANZAS DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO DE OAXACA
+REGLAMENTO INTERNO DE LA SECRETARÍA DE FINANZAS DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DEL REGLAMENTO INTERNO DE LA SECRETARÍA DE FINANZAS DEL PODER EJECUTIVO DEL ESTADO, PUBLICADA EN EL P.O. DE 13 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EL UNO DE ENERO DE DOS MIL QUINCE.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en el Extraordinario del Periódico Oficial del Estado de Oaxaca, el viernes 2 de enero de 2009.
 
@@ -794,3 +796,15 @@ ING. TEOFILO MANUEL GARCIA CORPUS
 SECRETARIO DE FINANZAS
 
 ARQ. MIGUEL ANGEL ORTEGA HABIB
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE DICIEMBRE DE 2014.
+
+Primero: El presente Reglamento entrará en vigor el uno de enero de dos mil quince, previa publicación en el órgano de difusión oficial del Estado.
+
+Segundo: Se abroga el Reglamento Interno de la Secretaría de Finanzas del Poder Ejecutivo del Gobierno del Estado de Oaxaca, aprobado por Decreto del Ejecutivo de fecha 2 de enero de 2009, publicado en el Extra del órgano de difusión oficial del Estado de fecha 2 de enero de 2009.
+
+Tercero: Se abroga el Reglamento de las Oficinas Recaudadoras, aprobado por Decreto del Ejecutivo de fecha 5 de noviembre de 1952, publicado en el órgano de difusión oficial del Estado de fecha 27 de diciembre de 1952.
+
+Cuarto: Se dejan sin efectos los Acuerdos por los que se delegan funciones y facultades a favor de los titulares de diversas áreas administrativas de la Secretaría de Finanzas del Poder Ejecutivo del Estado publicados en el órgano de difusión oficial del Estado los días 3 de diciembre de 2010; 10 de febrero de 2011; 7 de enero de 2012; 13 de marzo de 2012; 2 de junio de 2012; 16 de junio de 2012; 1 de septiembre de 2012, y 18 enero de 2014.
