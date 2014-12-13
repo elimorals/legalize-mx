@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-tecoman-colima-26794"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2014-06-28"
+last_updated: "2014-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26794&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE TECOMÁN, ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -1247,11 +1247,37 @@ Las personas que hagan uso de bienes inmuebles propiedad del municipio, pagarán
 
 (VÉASE ARCHIVO ANEXO)
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 110.
 
 En los cementerios públicos se causarán y pagarán los productos, de conformidad con la siguiente tarifa:
 
-(VÉASE ARCHIVO ANEXO)
+A) En el Panteón Municipal de Tecomán:
+
+I.- Venta de lotes en propiedad para gaveta individual sin construir de 3 m2 ... 79.00
+
+II.- Venta de lotes en propiedad para 3 gavetas familiar sin construir de 5 m2 ... 132.00
+
+III.- Venta de lotes en propiedad para 6 gavetas familiar sin construir de 5 m2 ... 211.00
+
+IV.- Venta de gaveta individual en área comunitaria ... 39.00
+
+V.- Venta de Nichos ... 125.00
+
+VI.- Locales Comerciales (10x12=120 m2). 1882.00
+
+B) En el Panteón Dolores
+
+I.- Venta de lotes en propiedad para gaveta individual de 3 m2 ... 47.00
+
+C) Fuera de La Cabecera Municipal
+
+I.- En los cementerios ubicados fuera de la cabecera municipal, se causará y pagará sólo el 50 por ciento de lo establecido en el inciso A) fracción I de este artículo.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 110 BIS.- En cuanto a la venta de las gavetas señaladas en el inciso A), fracción IV, del artículo 110 del (sic) la propia ley, éstas serán subsidiadas hasta por un 100%, siempre y cuando se realice un estudio socio económico, por el DIF Municipal, ambos pertenecientes al H. Ayuntamiento de Tecomán.
 
 ### CAPITULO III. RENDIMIENTOS FINANCIEROS DE CAPITAL Y VALORES
 
@@ -1455,6 +1481,12 @@ Lo dispuesto en el presente transitorio, no les será aplicable a los contribuye
 
 Para el ejercicio fiscal 2014, el plazo a que se refieren los artículos 77 y 80, párrafo segundo de esta ley se amplía hasta el 30 de abril.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2014)</small>
+
+###### ARTICULO NOVENO.
+
+Por concepto de adquisición de alguno de los lotes señalados en el inciso A), fracciones I, II. III y IV del artículo 110 reformado en la presente Ley, se aplicará un descuento del 30%, siempre y cuando sean adquiridos en un solo pago. Lo dispuesto por el presente artículo transitorio tendrá una vigencia del 01 de enero al 31 de julio del ejercicio fiscal 2015.
+
 El Gobernador del Estado dispondrá se imprima, publique, circule y observe.
 
 Dado en el Recinto Oficial del Poder Legislativo a los once días del mes de noviembre del año dos mil dos.
@@ -1592,3 +1624,9 @@ P.O. 5 DE ABRIL DE 2014.
 P.O. 28 DE JUNIO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor el 01 de junio de 2014, previa su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 13 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
