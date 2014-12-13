@@ -4,7 +4,7 @@ identifier: "COL-ley-de-la-defensoria-publica-del-estado-de-colima-88422"
 country: "mx"
 rank: "ley"
 publication_date: "2012-06-16"
-last_updated: "2012-06-16"
+last_updated: "2014-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88422&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 13 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 16 de junio del 2012.
 
@@ -545,7 +547,7 @@ XXVI. Asistir a las convocatorias de profesionalización, capacitación y actual
 
 XXVII. Velar por la igualdad ante la ley, por el debido proceso y actuar con profundo respeto por la dignidad humana de los usuarios;
 
-XXVIII. Vigilar el respeto a las garantías individuales de sus representados, así como de los derechos humanos. y formular las demandas de amparo respectivas, cuando aquéllas se estimen violadas;
+XXVIII. Vigilar el respeto a las garantías individuales de sus representados, así como de los derechos humanos y formular las demandas de amparo respectivas, cuando aquéllas se estimen violadas;
 
 XXIX. Llevar un registro y formar expedientes de control de todos los procedimientos o asuntos en que intervengan, desde que se les turnen hasta que termine su intervención;
 
@@ -1107,7 +1109,7 @@ El Director, el Subdirector, el Coordinador de los Defensores Públicos, los def
 
 ## TRANSITORIOS
 
-PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima. (sic)
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima.
 
 SEGUNDO.- Se abroga la Ley de la Defensoría de Oficio y Asesoría Jurídica del Estado de Colima, contenida en el Decreto número 368, publicada en el Periódico Oficial "El Estado de Colima", de fecha 15 de mayo de 2006.
 
@@ -1138,3 +1140,31 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, el día 15 quince del mes de junio del año 2012 dos mil doce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE COLIMA, LIC. MARIO ANGUIANO MORENO. Rúbrica. EL SECRETARIO GENERAL DE GOBEIRNO (SIC), LIC. RENÉ RODRÍGUEZ ALCARAZ. Rúbrica. EL SECRETARIO DE FINANZAS Y ADMINISTRACIÓN, DR. J. JESÚS OROZCO ALFARO. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P. O. 13 DE DICIEMBRE DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El personal de la Defensoría Pública que ocuparán los nuevos puestos que se generan, para efecto de implementar el nuevo sistema de Justicia Penal, tendrán:
+
+En lo referente al Director, Coordinador, Defensores Públicos, Auxiliares de Defensor, y Administrador de Agenda en Área Penal, haber acreditado a través de una institución educativa pública o privada, los conocimientos teóricos y prácticos necesarios sobre el Sistema de Justicia Penal Acusatorio.
+
+Tratándose de las áreas de Profesionalización y Gestión de Calidad y Tecnologías de la Información, deberán tener acreditado el perfil del puesto; de igual forma para la persona nombrada como Director del área civil-familiar-mercantil-administrativa y de amparo.
+
+El personal mencionado en los párrafos anteriores, deberá acreditar los conocimientos, actitudes y habilidades que integran la competencia de cada una de las áreas de desempeño, de acuerdo al modelo de competencias de la Defensoría Pública, durante el primer semestre del año 2015.
+
+Para la integración del Consejo Técnico de Profesionalización de la Defensoría Pública, se tendrá un plazo no mayor a 90 días, a partir de la entrada en vigor de esta Ley.
+
+TERCERO.- Se abroga la ley de la Defensoría Pública del Estado de Colima, contenida en el Decreto número 527, publicada en el Periódico Oficial "El Estado de Colima", de fecha 16 de junio de 2012
+
+CUARTO.- Se derogan todas las disposiciones legales que se opongan a la presente Ley.
+
+QUINTO.- Todos los recursos, instalaciones y mobiliario pertenecientes a las Defensorías Pública (sic) del Estado, se entregarán, previo inventario de la Dirección de Patrimonio del Gobierno del Estado, a la Dirección de Defensoría Pública.
+
+SEXTO.- Todo lo que se refiera al Nuevo Sistema de Justicia Penal Acusatorio Adversarial, entrará en vigor a partir de lo establecido por la Declaratoria de Incorporación del Estado de Colima al Nuevo Sistema de Justicia Penal y del Código Nacional de Procedimientos Penales, así como su reforma contenida en el decreto legislativo 409.
+
+SÉPTIMO.- El Poder Ejecutivo del Estado expedirá el Reglamento de la presente Ley, dentro de los seis meses siguientes a la entrada en vigor de la misma.
+
+OCTAVO.- Las obligaciones presupuestarias que se consignan en la presente Ley, serán obligatorias a partir del Presupuesto de Egresos correspondiente al ejercicio fiscal 2014.
