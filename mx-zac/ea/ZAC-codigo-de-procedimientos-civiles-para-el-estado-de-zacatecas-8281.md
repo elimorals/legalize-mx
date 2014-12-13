@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-procedimientos-civiles-para-el-estado-de-zacatecas-82
 country: "mx"
 rank: "codigo"
 publication_date: "1966-03-02"
-last_updated: "2013-03-16"
+last_updated: "2014-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2014.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el 2 de marzo de 1966.
 
@@ -1967,17 +1967,21 @@ III.- Los documentos auténticos, libros de actas, estatutos, registros y catast
 
 IV.- Los certificados de actas del estado civil expedidas por los Oficiales del Registro Civil, respecto de constancias existentes en los libros correspondientes;
 
-V.- Las certificaciones de constancias existentes en los archivos públicos expedidas por funcionarios a quienes competa;
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2014)</small>
 
-VI.- Las certificaciones de constancias existentes en los archivos parroquiales y que se refieran a actos pasados antes del establecimiento del Registro Civil, siempre que fueren cotejadas por Notario Público o quien haga sus veces, con arreglo a derecho;
+V.- Los documentos signados por los funcionarios competentes mediante firma electrónica, respecto del estado civil de las personas, cuando sean emitidos de acuerdo con las disposiciones de la Ley de Firma Electrónica del Estado de Zacatecas. En caso de ser impugnada la firma se procederá de conformidad a lo establecido en el artículo 11 de la Ley mencionada.
 
-VII.- Las ordenanzas, estatutos, reglamentos y actas de sociedades o asociaciones, y de universidades, siempre que su establecimiento estuviere aprobado por el Gobierno Federal o de los Estados, y las copias certificadas que de ellos se expidieren;
+VI.- Las certificaciones de constancias existentes en los archivos públicos expedidas por funcionarios a quienes competa;
 
-VIII.- Las actuaciones judiciales de toda especie;
+VII.- Las certificaciones de constancias existentes en los archivos parroquiales y que se refieran a actos pasados antes del establecimiento del Registro Civil, siempre que fueren cotejadas por Notario Público o quien haga sus veces, con arreglo a derecho;
 
-IX.- Las certificaciones que expidieren las bolsas mercantiles o mineras autorizadas por la ley y las expedidas por corredores públicos titulados con arreglo al Código de Comercio, y
+VIII.- Las ordenanzas, estatutos, reglamentos y actas de sociedades o asociaciones, y de universidades, siempre que su establecimiento estuviere aprobado por el Gobierno Federal o de los Estados, y las copias certificadas que de ellos se expidieren;
 
-X.- Los demás a los que se reconozca ese carácter por la ley.
+IX.- Las actuaciones judiciales de toda especie;
+
+X.- Las certificaciones que expidieren las bolsas mercantiles o mineras autorizadas por la ley y las expedidas por corredores públicos titulados con arreglo al Código de Comercio, y
+
+XI.- Los demás a los que se reconozca ese carácter por la ley.
 
 Los documentos públicos procedentes de los Estados, del Distrito y de los Territorios Federales harán fe sin necesidad de legalización de la firma del funcionario que los autorice.
 
@@ -3585,7 +3589,7 @@ VII.- Los conflictos sobre derechos de preferencia;
 
 VIII.- Las cuestiones de naturaleza análoga que se refieran a conflictos entre socios de personas jurídicas, con motivo del funcionamiento de éstas;
 
-IX.- Los asuntos que conforme a la ley deben ventilarse y decidirse en una sola audiencia y los que requieran celeridad o urgencia especiales; y (sic)
+IX.- Los asuntos que conforme a la ley deben ventilarse y decidirse en una sola audiencia y los que requieran celeridad o urgencia especiales; y
 
 X.- Los demás en que el juez lo estime conveniente por su naturaleza y siempre que los interesados estén de acuerdo que se siga el procedimiento oral.
 
@@ -6007,7 +6011,7 @@ I.- La habitación del demandado, su despacho, su establecimiento mercantil o su
 
 II.- El lugar en que trabaje u otro que frecuente y en que ha de creerse que se halle el demandado, y
 
-III.-. La finca o departamento arrendado, cuando de trate de desocupación o arrendamiento.
+III.-. La finca o departamento arrendado, cuando se trate de desocupación o arrendamiento.
 
 878.- La notificación de emplazamiento se practicará observando lo siguiente:
 
@@ -6097,7 +6101,7 @@ Las quejas en contra del secretario o testigo de asistencia notificador se hará
 
 891.- Cuando la cuantía de la reconvención que se haga valer sea mayor que la competencia del juzgado por razón del interés, serán aplicables a este respecto las reglas del artículo 116.
 
-### CAPITULO lll. Ejecución de las sentencias
+### CAPITULO III. Ejecución de las sentencias
 
 892.- Los jueces municipales y menores tienen obligación de proceder a la eficaz e inmediata ejecución de sus sentencias, y a este efecto dictarán todas las medidas necesarias en la forma y términos procedentes sin contrariar las siguientes reglas:
 
@@ -6141,9 +6145,9 @@ Para la desocupación de predios rústicos podrá concederse un plazo hasta de s
 
 901.- El tercero que considere perjudicados sus derechos al ejecutarse la sentencia ocurrirá al juez municipal o menor, en su caso, presentando pruebas, y el juez, con audiencia inmediata de las partes, resolverá si subsiste o no el secuestro o el acto de ejecución practicado, sin decidir sobre la propiedad de la cosa, ni sobre otros hechos controvertidos.
 
-Cuando el interés de la tercería exceda del que la ley someta a la jurisdicción de los jueces municipales o menores, será aplicable lo que a este respecto disponen los artículos 67, fracción lV, 113 y 116.
+Cuando el interés de la tercería exceda del que la ley someta a la jurisdicción de los jueces municipales o menores, será aplicable lo que a este respecto disponen los artículos 67, fracción IV, 113 y 116.
 
-### CAPITULO lV. Incidentes
+### CAPITULO IV. Incidentes
 
 902.- Las cuestiones incidentales que se susciten ante los jueces municipales y menores, se resolverán con la principal, a menos de que por su naturaleza sea forzoso decidirlas antes, o que se promuevan después de la sentencia; pero en ningún caso se formará artículo, sino que se decidirán de plano.
 
@@ -6173,9 +6177,9 @@ Cuando por motivos especiales fuere necesario hacer constar más de lo que cupie
 
 913.- De la recusación de un juez municipal o menor conocerá el juez de Primera Instancia del Distrito Judicial respectivo: si se declara probada la causa de recusación o si el juez se excusa por estar impedido para conocer del negocio, entrarán en funciones, por su orden, las personas a que se refiere la Ley Orgánica del Poder Judicial.
 
-Si los jueces impedidos no se excusaren, a pedimento de parte el superior impondrá corrección disciplinaria y hará la anotación en el expediente del funcionario. Las recusaciones de los secretarios de los juzgados se substanciarán en la forma prevenida en la fracción lll del artículo 34.
+Si los jueces impedidos no se excusaren, a pedimento de parte el superior impondrá corrección disciplinaria y hará la anotación en el expediente del funcionario. Las recusaciones de los secretarios de los juzgados se substanciarán en la forma prevenida en la fracción III del artículo 34.
 
-Si se declara improcedente o no probada la causa de recusación, se impondrá al recusante la sanción de multa que establece la fracción Vlll del mismo artículo anteriormente citado.
+Si se declara improcedente o no probada la causa de recusación, se impondrá al recusante la sanción de multa que establece la fracción VIII del mismo artículo anteriormente citado.
 
 ## TRANSITORIOS
 
@@ -6231,7 +6235,7 @@ El Secretario General de Gobierno.
 
 Lic. Alejandro Borrego Acuña.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P. O. 16 DE AGOSTO DE 1975.
 
@@ -6310,3 +6314,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los procedimientos de presunción de muerte que iniciaron su trámite antes de la entrada en vigor de la presente reforma se regirán por lo dispuesto en el presente Decreto.
 
 TERCERO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+P.O. 13 DE DICIEMBRE DE 2014.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se derogan todas las disposiciones que contravengan al presente Decreto.
