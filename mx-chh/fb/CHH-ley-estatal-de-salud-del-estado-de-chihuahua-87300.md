@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-del-estado-de-chihuahua-87300"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-14"
-last_updated: "2014-11-26"
+last_updated: "2014-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2012.
 
@@ -2819,6 +2819,8 @@ Los ingresos que se obtengan por los servicios de salubridad local que se preste
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 337.
 
 La Secretaría podrá revocar las autorizaciones que haya otorgado, en los siguientes casos:
@@ -3003,7 +3005,7 @@ DE LA PUBLICIDAD
 
 ###### Artículo 360.
 
-De acuerdo con la Ley General de Salud, con el fin de proteger la salud pública, es competencia de la Secretaría coadyuvar en la regulación de la publicidad que se refiera a la salud, al tratamiento de las enfermedades, a la rehabilitación de las personas con discapacidad, al ejercicio de las disciplinas para la salud y a los productos y servicios a que se refiere esta Ley aplicando, en su caso, los procedimientos establecidos en la Ley General de Salud y demás disposiciones aplicables.
+De acuerdo con la Ley General de Salud, con el fin de proteger la salud pública, es competencia de la Secretaría coadyuvar en la regulación de la publicidad que se refiera a la salud, al tratamiento de las enfermedades, a la rehabilitación de las personas con discapacidad, al ejercicio de las disciplinas para la salud, a las bebidas alcohólicas, bebidas no alcohólicas con azúcar y a los productos y servicios a que se refiere esta Ley aplicando, en su caso, los procedimientos establecidos en la Ley General de Salud y demás disposiciones aplicables.
 
 TÍTULO DECIMOCTAVO
 
@@ -3498,6 +3500,12 @@ P.O. 7 DE JUNIO DE 2014.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 26 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE DICIEMBRE DE 2014.
 
 ###### ARTÍCULO ÚNICO.
 
