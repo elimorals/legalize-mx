@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-de-sesiones-de-los-organismos-electorales-del-83634"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-05"
-last_updated: "2011-11-05"
+last_updated: "2014-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # REGLAMENTO DE SESIONES DE LOS ORGANISMOS ELECTORALES DEL ESTADO DE SAN LUIS POTOSI
 
-REGLAMENTO DE SESIONES DE LOS ORGANISMOS ELECTORALES DEL ESTADO DE SAN LUIS POTOSI
+REGLAMENTO DE SESIONES DE LOS ORGANISMOS ELECTORALES DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE SESIONES DE LOS ORGANISMOS ELECTORALES DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 13 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 5 de noviembre de 2011.
 
@@ -532,3 +534,11 @@ Lic. Rafael Rentería Armendáriz
 Secretario de Actas
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Con la vigencia del presente acuerdo se abroga el Reglamento de Sesiones de los Organismo Electorales, expedido por el Pleno del Consejo Estatal Electoral y de Participación Ciudadana mediante acuerdo número 70/10/2011 de fecha 10 de octubre del año 2011 dos mil once.
