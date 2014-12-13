@@ -4,7 +4,7 @@ identifier: "COL-ley-de-salud-del-estado-de-colima-18943"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-23"
-last_updated: "2014-08-16"
+last_updated: "2014-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE SALUD DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 23 de diciembre de 2000.
 
@@ -427,9 +427,9 @@ III.- Ser debidamente autorizado por las autoridades que designe la Secretaría 
 
 ## TITULO SEGUNDO. SISTEMA ESTATAL DE SALUD
 
-> <small>(REFORMADA SU NUMERACIÓN, P.O. 12 DE MAYO DE 2012)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 13 DE DICIEMBRE DE 2014)</small>
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### ARTICULO 14.
 
@@ -701,35 +701,95 @@ VII.- Coordinarse con la Secretaría del Trabajo y Previsión Social del Estado 
 
 VIII.- Las demás acciones que contribuyan a la promoción fomento (sic) de la salud mental de la población.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 13 DE DICIEMBRE DE 2014)</small>
 
-### CAPITULO III. ATENCIÓN MATERNO-INFANTIL
+### CAPITULO SEGUNDO (SIC). ATENCIÓN MATERNO-INFANTIL
 
-> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2014)</small>
 
-ARTICULO 20 BIS 10.- La protección materno-infantil abarca el período que incluye el embarazo, el parto, el post-parto y el puerperio, en razón de la condición de vulnerabilidad en que se encuentran la mujer y el producto. Dicha protección tiene carácter prioritario y comprende, de manera enunciativa y no limitativa, las siguientes acciones:
+ARTICULO 20 BIS 10.- Toda mujer en el Estado de Colima tiene derecho a la maternidad. Para posibilitar este derecho fundamental de las mujeres, el Estado fomentará y propiciará las condiciones para hacerlo efectivo. Asimismo, podrá celebrar convenios de coordinación con la Federación, otros Estados y los Municipios para la consecución de este objetivo.
 
-I.- La atención integral de la mujer durante el embarazo, el parto y el puerperio, incluyendo la atención psicológica que requiera;
+La protección materno-infantil abarca el período que incluye el embarazo, el parto, el post-parto y el puerperio, en razón de la condición de vulnerabilidad en que se encuentran la mujer y el producto. Dicha protección tiene carácter prioritario y comprende, de manera enunciativa y no limitativa, las siguientes acciones:
 
-II.- La atención del niño y la vigilancia de su crecimiento y desarrollo integral, incluyendo la promoción de la vacunación oportuna, atención prenatal; así como la prevención, detección y, en su caso, atención de las condiciones y enfermedades hereditarias y congénitas, incluyendo la aplicación de la prueba del tamiz ampliado;
+I. La atención integral de la mujer durante el embarazo, el parto y el puerperio, incluyendo la atención psicológica que requiera;
 
-III.- La revisión de retina y tamiz auditivo al prematuro;
+II. La atención del niño y la vigilancia de su crecimiento y desarrollo integral, incluyendo la promoción de la vacunación oportuna, atención prenatal; así como la prevención, detección y, en su caso, atención de las condiciones y enfermedades hereditarias y congénitas, incluyendo la aplicación de la prueba del tamiz ampliado;
 
-IV.- La aplicación del tamiz oftalmológico neonatal, a la cuarta semana del nacimiento, para la detección temprana de malformaciones que puedan causar ceguera, y su tratamiento, en todos sus grados, y
+III. La revisión de retina y tamiz auditivo al prematuro;
 
-V.- La atención del niño y su vigilancia durante el crecimiento y desarrollo, promoviendo la integración y el bienestar familiar.
+IV. La aplicación del tamiz oftalmológico neonatal, a la cuarta semana del nacimiento, para la detección temprana de malformaciones que puedan causar ceguera, y su tratamiento, en todos sus grados; y
 
-> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+V. La atención del niño y su vigilancia durante el crecimiento y desarrollo, promoviendo la integración y el bienestar familiar.
 
-ARTICULO 20 BIS 11.- En los servicios de salud se promoverá la organización institucional de comités de prevención de la mortalidad materna e infantil, a efecto de conocer, sistematizar y evaluar el problema, y de este modo adoptar las medidas conducentes.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+ARTICULO 20 BIS 11.- Toda mujer en el período de protección materno-infantil tendrá las siguientes prerrogativas:
 
-ARTICULO 20 BIS 12.- La protección de la salud física y mental de los menores es una responsabilidad que comparten los padres, tutores o quienes ejerzan la patria potestad sobre ellos, el Estado y la sociedad en general.
+a) Con relación al ejercicio igualitario de sus derechos:
 
-> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+I. Gozar de estabilidad en el empleo, cargo u ocupación que desarrolle, a no desempeñar jornadas laborales nocturnas, a no ser discriminada por el hecho de estar embarazada, a tener acceso al trabajo en las mismas condiciones que las mujeres no embarazadas y gozar de doce semanas de descanso, en los términos de lo señalado por la Ley de los Trabajadores al Servicio del Gobierno, Ayuntamientos, y Organismos Descentralizados del Estado;
 
-ARTICULO 20 BIS 13.- En la organización y operación de los servicios de salud destinados a la atención materno-infantil, las autoridades sanitarias competentes establecerán:
+II. Ocupar cargos de elección popular o de designación en los órganos de gobierno del Estado o Ayuntamientos, en igualdad de condiciones que lo hacen los varones o mujeres no embarazadas;
+
+III. Recibir educación, por lo que no podrá restringirse el acceso de las mujeres embarazadas a los centros de educación públicos o privados;
+
+IV. Accesar a los Centros de Atención a la Mujer, gubernamentales o privados;
+
+V. Recibir la ayuda psicológica o psiquiátrica durante el embarazo y después del parto, cuando se trate de embarazos no previstos. Esta ayuda deberá hacerse extensiva al padre, madre y demás familiares, principalmente, cuando la madre sea menor de edad.
+
+b) Con relación a la prestación de los servicios de salud, las mujeres embarazadas tienen los siguientes derechos:
+
+I. A ser informadas sobre las opciones disponibles legalmente en relación con el embarazo, el parto y la crianza de sus hijos y a recibir información detallada sobre todos los lugares, profesionales y métodos disponibles para el parto;
+
+II. A recibir información completa y actualizada sobre los beneficios y riesgos de todos los procedimientos, fármacos y pruebas que se usan durante el embarazo, parto y posparto;
+
+III. A que no se emplee en forma rutinaria prácticas y procedimientos que no estén respaldados por evidencias científicas;
+
+IV. A otorgar su consentimiento informado sobre los probables beneficios y riesgos potenciales inherentes a la intervención profesional;
+
+V. A elegir métodos no farmacológicos de alivio del dolor, utilizándose analgésicos o anestésicos solo si estos son requeridos específicamente para corregir una complicación;
+
+VI. A conocer el nombre y la calificación profesional de la persona que les administra un medicamento o le realiza un procedimiento durante la gestación, trabajo de parto y parto;
+
+VII. A ser informadas acerca de cualquier afección conocida o sospechada de sus hijos;
+
+VIII. A acceder a su historia clínica y solicitar una copia de la misma;
+
+IX. A recibir una atención cultural apropiada, es decir, una atención sensible, que responda a las creencias y valores, así como a las costumbres específicas de etnia y religión de la madre; y
+
+X. A ser informadas sobre el sistema de orientación y quejas disponibles para inconformarse por la prestación de los servicios de salud.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 20 BIS 12.- Durante el embarazo, se establecen las siguientes prohibiciones:
+
+I. En cualquier actividad que desarrolle la mujer embarazada, no podrá ser expuesta al contacto con agentes infectocontagiosos e inhalación de substancias tóxicas volátiles, o a trabajar en áreas con emanaciones radioactivas o contacto con substancias materiales o fluidos explosivos o peligrosos. Tampoco se les podrá obligar a realizar actividades físicas vigorosas, violentas o de levantamiento de pesos y cargas que pongan en riesgo su salud y la del bebé.
+
+Las mujeres que realicen actividades de pie en su trabajo, contarán con el derecho a sillas o asientos cómodos que les permitan reducir el agotamiento y los riesgos de salud inherentes;
+
+II. No se podrá negar el acceso a mujeres embarazadas con hijos en infancia temprana, a los establecimientos mercantiles de acceso al público bajo regulación del Estado o los Municipios, a menos que se trate de prohibiciones fundadas y acreditadas en la misma ley o que pongan en riesgo su salud o la de sus hijos.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 20 BIS 13.- En el caso de mujeres embarazadas a las que haya sido diagnosticado síndrome de inmunodeficiencia adquirida, contarán además con atención especializada a efecto de garantizar su salud y la del niño en gestación, otorgando las mejores condiciones de atención médica procurando que los responsables de la atención cuenten con la certificación de médico especialista, conforme a lo dispuesto por el artículo 81 de la Ley General de Salud.
+
+Asimismo, se deberá garantizar la confidencialidad de la identidad de la madre, del padre y del niño en todo momento, conforme a la legislación aplicable.
+
+Tratándose de partos prematuros o de madres con el síndrome de inmunodeficiencia adquirida, el Estado podrá llevar a cabo acciones que garanticen atención médica y quirúrgica especializada bajo los más altos estándares de calidad en el servicio de la salud.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 20 BIS 14.- A partir del momento en que un médico del servicio de salud público o privado tenga conocimiento de que una de sus pacientes se encuentra embarazada, tiene la obligación de informarle sobre la existencia de estas disposiciones, de su objeto y de la protección que brinda a las mujeres embarazadas.
+
+Deberá enfatizarse la difusión de esta información, tratándose de población con desventaja socioeconómicas y embarazadas adolescentes.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 20 BIS 15.- En los servicios de salud se promoverá la organización institucional de comités de prevención de la mortalidad materna e infantil, a efecto de conocer, sistematizar y evaluar el problema, y de este modo adoptar las medidas conducentes.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 20 BIS 16.- En la organización y operación de los servicios de salud destinados a la atención materno-infantil, las autoridades sanitarias competentes establecerán:
 
 I.- Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los usuarios;
 
@@ -741,15 +801,17 @@ IV.- Acciones para controlar las enfermedades prevenibles por vacunación, los p
 
 V.- Acciones de capacitación para fortalecer la competencia técnica de las parteras tradicionales, para la atención del embarazo, parto y puerperio.
 
-> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2014)</small>
 
-ARTICULO 20 BIS 14.- La Secretaría impulsará la participación de los sectores social y privado, así como de la sociedad en general, para el fortalecimiento de los servicios de salud en materia de atención materno-infantil, mediante la creación de Redes de Apoyo a la Salud Materno-Infantil, en el ámbito de su competencia.
+ARTICULO 20 BIS 17.- La Secretaría impulsará la participación de los sectores social y privado, así como de la sociedad en general, para el fortalecimiento de los servicios de salud en materia de atención materno-infantil, mediante la creación de Redes de Apoyo a la Salud Materno-Infantil, en el ámbito de su competencia.
 
 Lo anterior tendrá la finalidad de poner a disposición de las mujeres embarazadas, la información sobre la prestación de servicios médicos en esta materia, y en su caso, brindarles apoyo para acceder a éstos.
 
-> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+La protección de la salud física y mental de los menores es una responsabilidad que comparten los padres, tutores o quienes ejerzan la patria potestad sobre ellos, el Estado y la sociedad en general
 
-ARTICULO 20 BIS 15.- Las autoridades sanitarias, educativas y laborales en sus respectivos ámbitos de competencia, apoyarán y fomentarán:
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 20 BIS 18.- Las autoridades sanitarias, educativas y laborales en sus respectivos ámbitos de competencia, apoyarán y fomentarán:
 
 I.- Los programas para padres destinados a promover la atención materno-infantil;
 
@@ -757,9 +819,9 @@ II.- Las actividades recreativas, de esparcimiento y culturales destinadas a for
 
 III.- La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas.
 
-> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2014)</small>
 
-ARTICULO 20 BIS 16.- En materia de higiene escolar, deberán seguirse las normas oficiales mexicanas establecidas para proteger la salud del educando y de la comunidad escolar. Las autoridades educativas y sanitarias se coordinarán para la aplicación de las mismas.
+ARTICULO 20 BIS 19.- En materia de higiene escolar, deberán seguirse las normas oficiales mexicanas establecidas para proteger la salud del educando y de la comunidad escolar. Las autoridades educativas y sanitarias se coordinarán para la aplicación de las mismas.
 
 La prestación de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación que se establezcan entre las autoridades sanitarias y educativas competentes.
 
@@ -1914,3 +1976,7 @@ SEGUNDO.- Los Ayuntamientos que cuenten con reglamentos en materia de salud, con
 P.O. 16 DE AGOSTO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 13 DE DICIEMBRE DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
