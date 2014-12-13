@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-ejecutivo-del-estado-de-tabasco-24410"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-03-22"
-last_updated: "2013-05-25"
+last_updated: "2014-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24410&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el viernes 22 de marzo de 2002.
 
@@ -53,7 +53,9 @@ LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO
 
 La presente Ley tiene por objeto establecer los principios y las bases para la organización y funcionamiento de la Administración Pública del Estado de Tabasco, cuya naturaleza es centralizada y paraestatal.
 
-La administración pública centralizada se integra por la Gubernatura del Estado, las secretarías del ramo, las coordinaciones generales, la Procuraduría General de Justicia y las demás unidades administrativas que se integren para la buena marcha de la administración.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2014)</small>
+
+La administración pública centralizada se integra por la Gubernatura del Estado, las secretarías del ramo, las coordinaciones generales, y las demás unidades administrativas que se integren para la buena marcha de la administración.
 
 La administración pública paraestatal se conforma por los organismos públicos descentralizados, las empresas de participación estatal, los fideicomisos públicos y demás entidades, sin importar la forma en que sean identificadas.
 
@@ -95,23 +97,25 @@ XII.- Cobertura total, oportuna, ágil y especializada de los servicios de segur
 
 El Gobierno del Estado, promoverá la participación de organizaciones ciudadanas a efecto de fomentar la libre expresión de opiniones y recomendaciones de la sociedad respecto de la vigilancia, seguimiento, evaluación y mejoramiento de la administración pública en las diferentes dependencias y entidades de la Administración Pública Estatal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 4.
 
-La Gubernatura del Estado, las Secretarías del ramo, la Coordinación General de Asuntos Jurídicos, la Coordinación General de Desarrollo Regional y Proyectos Estratégicos y la Procuraduría General de Justicia, son las dependencias que integran la Administración Pública Centralizada.
+La Gubernatura del Estado, las Secretarías del ramo, la Coordinación General de Asuntos Jurídicos y la Coordinación General de Desarrollo Regional y Proyectos Estratégicos, son las dependencias que integran la Administración Pública Centralizada.
 
 El Gobernador podrá crear mediante acuerdo directo, las unidades administrativas necesarias para promover, coordinar o asesorar los programas o funciones de carácter prioritario o estratégico que requiera el desarrollo y seguridad del Estado.
 
 La Administración Pública Centralizada podrá contar con órganos administrativos desconcentrados, dotados de autonomía técnica y funcional, para apoyar la eficiente administración de los asuntos competencia de la misma y estarán jerárquicamente subordinados al Gobernador o al titular de la dependencia que se señale en el acuerdo o decreto respectivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 5.
 
-El Gobernador nombrará y removerá a los titulares de las dependencias a que se refiere la presente ley. El Procurador General de Justicia, deberá ser nombrado en los términos de su Ley Orgánica.
+El Gobernador nombrará y removerá libremente a los titulares de las dependencias a que se refiere la presente Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2014)</small>
 
-Para ser Titular de alguna Secretaría, de la Consejería Jurídica y entidades se requiere:
+Para ser Titular de alguna Secretaría, de la Coordinación General de Asuntos Jurídicos y de entidades, se requiere:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
@@ -353,7 +357,7 @@ IX. Atender y gestionar las peticiones y quejas que los ciudadanos hagan llegar 
 
 X. Atender a los diversos grupos de los sectores Social y Privado que soliciten audiencia al Gobernador y bajo sus directrices proceder a su adecuada canalización hacia las instancias competentes;
 
-XI. Archivar, resguardar y clasificar la correspondencia del Gobernador; y (sic)
+XI. Archivar, resguardar y clasificar la correspondencia del Gobernador; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE DICIEMBRE DE 2006)</small>
 
@@ -395,7 +399,7 @@ El Titular del Poder Ejecutivo designará al Coordinador General de Asuntos Jur�
 
 ###### ARTÍCULO 23.
 
-El Gobernador nombrará al Procurador General de Justicia en los términos de la Constitución Política del Estado y la Ley Orgánica de la Procuraduría General de Justicia del Estado de Tabasco.
+(DEROGADO, P.O. 13 DE DICIEMBRE DE 2014)
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
@@ -441,11 +445,15 @@ XII.- Secretaría de Contraloría;
 
 XIII.- Secretaría de Energía, Recursos Naturales y Protección Ambiental;
 
-XIV.- Coordinación General de Desarrollo Regional y Proyectos Estratégicos;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2014)</small>
 
-XV.- Coordinación General de Asuntos Jurídicos; y
+XIV. Coordinación General de Desarrollo Regional y Proyectos Estratégicos; y
 
-XVI.- Procuraduría General de Justicia.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2014)</small>
+
+XV. Coordinación General de Asuntos Jurídicos.
+
+XVI. (DEROGADA, P.O. 13 DE DICIEMBRE DE 2014)
 
 ### CAPÍTULO CUARTO. De las Atribuciones de las Dependencias de la Administración Pública Centralizada
 
@@ -499,9 +507,7 @@ XVII. Participar, con las Dependencias, Entidades y Sectores involucrados en la 
 
 XVIII. Vigilar que se cumplan las normas existentes en materia de seguridad e higiene en el trabajo, verificar que en los centros de trabajo se cumpla con las condiciones que establece la Ley Federal del Trabajo y las normas que de ellas se deriven; así como participar en la formulación y ejecución del Programa Estatal de Empleo, Capacitación y Formación para el trabajo, en coordinación con las dependencias involucradas en la materia;
 
-> <small>(REFORMADA, P.O. 2 DE MAYO DE 2007)</small>
-
-XIX. Otorgar, revisar, cancelar, revocar, modificar, prorrogar y revalidar las concesiones para la prestación de cualquier modalidad del servicio público de transporte en vías de jurisdicción local, así como declarar en términos de ley su caducidad, y en cualquier momento, ejercer el derecho de reversión de las concesiones;
+XIX. (DEROGADA, P.O. 13 DE DICIEMBRE DE 2014)
 
 > <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
@@ -533,7 +539,9 @@ I. Intervenir en el marco del Sistema Estatal de Seguridad Pública, y de las le
 
 II. Organizar, dirigir, administrar y supervisar los cuerpos policiales o de seguridad pública estatal, acorde a las facultades que al respecto establece el artículo 21 de la Constitución Federal, así como prestar el auxilio de la fuerza pública cuando lo requieran los diversos órganos y dependencias de los Poderes del Estado, de conformidad con la legislación y normatividad aplicable; igualmente garantizar el desempeño honesto de su personal y aplicar su régimen disciplinario, sin perjuicio de las atribuciones de las policías preventivas municipales;
 
-III. Instrumentar, operar, registrar y actualizar, en coordinación con la Secretaría de Gobierno, la Procuraduría General de Justicia, y las autoridades federales competentes, las investigaciones, estadísticas y mapas delictivos denunciados y no denunciados e incorporar esta variable en el diseño de las políticas en materia de prevención del delito;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2014)</small>
+
+III. Instrumentar, operar, registrar y actualizar, en coordinación con la Secretaría de Gobierno, la Fiscalía General del Estado, y las autoridades federales competentes, las investigaciones, estadísticas y mapas delictivos denunciados y no denunciados e incorporar esta variable en el diseño de las políticas en materia de prevención del delito;
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2008)</small>
 
@@ -1031,7 +1039,7 @@ XVIII. Programar, organizar, ejecutar y supervisar, en coordinación con las aut
 
 XIX. Coordinar, concertar y ejecutar programas especiales en materia de atención médica, salud pública o asistencia sanitaria, para la atención de los sectores sociales mas desprotegidos en las áreas rurales y urbanas, en especial para las personas discapacitadas, considerando la intervención de las Dependencias y Entidades de la Administración Pública correspondientes y la participación de los Sectores Social y Privado, lo anterior, con el propósito de elevar las condiciones de salud y el nivel de vida de la población;
 
-XX. Fomentar la participación de instituciones académicas, de investigación, de organizaciones no gubernamentales y de la sociedad, en la generación e instrumentación de estrategias, programas y recursos destinados a mejorar la salud de la población del Estado, así como a superar los rezagos sociales e impulsar el bienestar social; y (sic)
+XX. Fomentar la participación de instituciones académicas, de investigación, de organizaciones no gubernamentales y de la sociedad, en la generación e instrumentación de estrategias, programas y recursos destinados a mejorar la salud de la población del Estado, así como a superar los rezagos sociales e impulsar el bienestar social; y
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2006)</small>
 
@@ -1107,7 +1115,9 @@ XX. Participar en el ámbito estatal y con la intervención de las autoridades c
 
 XXI. Apoyar y asesorar a las Autoridades Municipales y a los diversos sectores de la sociedad, cuando éstos lo soliciten, en la elaboración de propuestas de obras y servicios;
 
-XXII. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2012)
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2014)</small>
+
+XXII. Otorgar, revisar, cancelar, revocar, modificar, prorrogar y revalidar las concesiones y permisos para la prestación de cualquier modalidad del servicio de transporte público en vías de jurisdicción local, en términos de la normatividad aplicable;
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
@@ -1631,15 +1641,7 @@ XXIX. Coordinar los procesos de transferencias de los servicios públicos a los 
 
 XXX. Regular, coordinar y supervisar la integración y funcionamiento de las unidades responsables de operar en la Administración Pública Centralizada y Paraestatal del Estado, el Sistema Estatal de Acceso y Transparencia de la Información Pública Gubernamental y Administración de los Datos Personales, asegurando que en su desempeño se cumpla con los términos previstos en la legislación y normatividad de la materia.
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2006)</small>
-
-###### ARTÍCULO 39 Bis.
-
-La Procuraduría General de Justicia es la Dependencia del Poder Ejecutivo que representa a la Institución del Ministerio Público.
-
-El Ministerio Público estará presidido por el Procurador General de Justicia del Estado, a quien corresponderá dirigir y conducir el funcionamiento del mismo.
-
-La competencia, organización y atribuciones del Ministerio Público, de sus órganos auxiliares y de sus áreas de apoyo, se sujetarán a las disposiciones Constitucionales, así como a lo previsto en la ley Orgánica de la Procuraduría General de Justicia del Estado de Tabasco, y las que le atribuyan expresamente las demás leyes y reglamentos respectivos.
+ARTÍCULO 39 BIS.- (DEROGADO, P.O. 13 DE DICIEMBRE DE 2014)
 
 ## TÍTULO TERCERO. De la Administración Pública Paraestatal
 
@@ -1924,3 +1926,23 @@ P.O. 25 DE MAYO DE 2013.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 13 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO 128, POR EL QUE SE DEROGA LA FRACCIÓN XIX DEL ARTÍCULO 27; Y SE ADICIONA UNA FRACCIÓN XXII AL ARTÍCULO 33, AMBOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones contrarias a este Decreto.
+
+P.O. 13 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO 167, POR EL QUE SE REFORMAN LOS ARTÍCULOS 1, PÁRRAFO SEGUNDO; 4, PÁRRAFO PRIMERO; 5, PÁRRAFOS PRIMERO Y SEGUNDO; 26, FRACCIONES XIV Y XV; Y 28, FRACCIÓN III. SE DEROGAN LOS ARTÍCULOS 23; LA FRACCIÓN XVI DEL ARTÍCULO 26 Y EL ARTÍCULO 39 BIS; TODOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Pleno del Tribunal o el Consejo de la Judicatura, en su caso, realizarán las acciones y dictarán los acuerdos de orden jurisdiccional y administrativo que resulten necesarios al interior del Poder Judicial del Estado, para la implementación y puesta en marcha de los órganos jurisdiccionales o unidades administrativas que se crean o modifican sus funciones con motivo de este Decreto.
+
+Del mismo modo, realizarán las gestiones necesarias ante los Poderes Ejecutivo y Legislativo del Estado, para atender adecuadamente las necesidades presupuestales derivadas de la entrada en vigor de este Decreto.
+
+TERCERO. Se derogan las demás disposiciones legales de igual naturaleza y aquellas reglamentarias que se opongan a la presente Ley.
