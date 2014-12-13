@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-los-trabajadores-al-servicio-del-estado-de-tabasco-7837"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-31"
-last_updated: "2013-04-24"
+last_updated: "2014-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el sábado 31 de marzo de 1990.
 
@@ -223,7 +223,7 @@ C).- Cometer contra el Titular de la Entidad Pública, sus jefes o contra los va
 
 D).- Por faltar más de tres días a sus labores sin permiso o sin causa justificada, en un lapso de 30 días;
 
-C) (sic).- Ocasionar intencionalmente daños materiales graves en los edificios, obras, maquinarias, instrumentos, materias primas y demás objetos relacionados con el trabajo; o causar daños por negligencia tal, que sea la causa de los daños;
+C) (SIC).- Ocasionar intencionalmente daños materiales graves en los edificios, obras, maquinarias, instrumentos, materias primas y demás objetos relacionados con el trabajo; o causar daños por negligencia tal, que sea la causa de los daños;
 
 F).- Por cometer actos indecentes o inmorales en el lugar o lugares en que preste sus servicios;
 
@@ -481,7 +481,7 @@ XII.- Impedir que se haga propaganda política, comercial o religiosa dentro de 
 
 XIII.- Impartir cursos de capacitación y adiestramiento para los trabajadores;
 
-XIV.- Participar en la integración y funcionamiento de las Comisiones de Seguridad e Higiene que deban formarse en cada centro de trabajo, de acuerdo con lo establecido por la Ley; y (sic)
+XIV.- Participar en la integración y funcionamiento de las Comisiones de Seguridad e Higiene que deban formarse en cada centro de trabajo, de acuerdo con lo establecido por la Ley; y
 
 XV.- Respetar los derechos otorgados a los trabajadores en los preceptos legales.
 
@@ -573,7 +573,7 @@ V. En el período de lactancia hasta por el término máximo de seis meses, tend
 
 VI. Durante los períodos de descanso a que se refieren la fracción II y III percibirán su salario íntegro.
 
-VII. A (sic) regresar al puesto que desempeñaban, siempre que no haya transcurrido más de un año de la fecha del parto.
+VII. A regresar al puesto que desempeñaban, siempre que no haya transcurrido más de un año de la fecha del parto.
 
 VIII. A que se computen en su antigüedad los períodos pre y postnatales.
 
@@ -1099,6 +1099,10 @@ En la audiencia sólo se aceptarán las pruebas ofrecidas previamente, a no ser 
 
 Los trabajadores podrán comparecer por sí o por representantes, acreditados mediante simple carta poder. Los titulares podrán hacerse representar por apoderados que acrediten ese carácter mediante simple oficio.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2014)</small>
+
+Los abogados patronos o asesores legales de las partes, sean o no apoderados de éstas, deberán acreditar ser abogados o licenciados en derecho con cédula profesional o personas que cuenten con carta de pasante vigente expedida por la autoridad competente para ejercer dicha profesión. Sólo se podrá autorizar a otras personas para oír notificaciones y recibir documentos, pero éstas no podrán comparecer en las audiencias ni efectuar promoción alguna.
+
 ###### ARTICULO 116.
 
 Cuando el demandado no conteste la demanda dentro del término concedido o si resulta mal representado, se tendrá por contestada la demanda en sentido afirmativo, salvo prueba en contrario.
@@ -1124,6 +1128,14 @@ No operará la caducidad, aún cuando el término transcurra, por el desahogo de
 ###### ARTICULO 121.
 
 Los incidentes que se susciten con motivo de la personalidad de las partes o de sus representantes, de la competencia del Tribunal, del interés de tercero, de nulidad de actuaciones u otros motivos, serán resueltos de plano.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 121 BIS.- A los abogados, litigantes o representantes de las partes que promuevan acciones, excepciones, incidentes, diligencias, ofrecimiento de pruebas, recursos y, en general, toda actuación en forma notoriamente improcedente, con la finalidad de prolongar, dilatar u obstaculizar la sustanciación o resolución de un juicio laboral, el Tribunal de Conciliación y Arbitraje le impondrá una multa de acuerdo a los artículos 128 y 129 de esta Ley.
+
+Si la dilación es producto de omisiones o conductas irregulares de los funcionarios o servidores públicos, la sanción aplicable será la suspensión hasta por treinta días sin pago de salario y, en caso de reincidencia, la destitución del cargo, en los términos de las disposiciones aplicables.
+
+Además, en este último supuesto, se dará vista al Ministerio Público para que investigue la posible comisión de delitos contra la administración de justicia.
 
 ###### ARTICULO 122.
 
@@ -1244,3 +1256,17 @@ P.O. 6 DE ABRIL DE 2013.
 P.O. 24 DE ABRIL DE 2013.
 
 ÚNICO: El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 13 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO 131, POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 115 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE TABASCO.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Los juicios iniciados con las disposiciones anteriores al presente Decreto deberán concluirse de conformidad a ellas.
+
+P.O. 13 DE DICIEMBRE DE 2014.
+
+DECRETO 132, POR EL QUE SE ADICIONA UN ARTÍCULO 121 BIS A LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE TABASCO.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
