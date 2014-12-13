@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-coordinacion-hacendaria-para-el-estado-de-zacatecas-4334
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-01"
-last_updated: "2014-01-15"
+last_updated: "2014-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43348&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "ZAC"
 
 LEY DE COORDINACIÓN HACENDARIA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2013.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 15 DE ENERO DE 2014 NO APLICA AL ARTICULADO DEL DECRETO 41 PUBLICADO EN EL P.O. DE 28 DE DICIEMBRE DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 1 de enero de 2005.
 
@@ -523,51 +521,31 @@ Sin perjuicio de lo dispuesto en el párrafo que antecede, los Municipios podrá
 
 El fondo de aportaciones para la Infraestructura Social Municipal será distribuido entre los Municipios, considerando criterios de pobreza extrema, conforme a la fórmula y procedimientos que se establecen en el artículo 35 de la Ley de Coordinación.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 52.
 
-A los Municipios les será liquidado mensualmente por la Secretaría en doce entregas iguales, el importe proveniente de la Recaudación Federal Participable por concepto del Fondo de Aportaciones para el Fortalecimiento Municipal que sea asignado en el Presupuesto de Egresos de la Federación para cada ejercicio fiscal, previo cumplimiento de los requisitos establecidos en las bases de coordinación que para ese efecto hayan sido convenidas las cuales estarán comprendidas en el documento denominado Lineamientos Generales de Operación del Ramo General 33.
+A los Municipios les será liquidado mensualmente por la Secretaría en doce entregas iguales, el importe proveniente de la Recaudación Federal Participable por concepto del Fondo de Aportaciones para el Fortalecimiento de los Municipios y Demarcaciones Territoriales del Distrito Federal que sea asignado en el Presupuesto de Egresos de la Federación para cada ejercicio fiscal, previo cumplimiento de los requisitos establecidos en las bases de coordinación que para ese efecto hayan sido convenidas las cuales estarán comprendidas en el documento denominado Lineamientos Generales de Operación del Ramo General 33.
 
-> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2009)</small>
+Los recursos que reciban los municipios derivados del fondo indicado en el párrafo anterior, podrán afectarse como garantía de cumplimiento de sus obligaciones fiscales, respecto al pago de derechos y aprovechamientos por conceptos de agua y derechos por descargas de aguas residuales.
 
-En términos de lo dispuesto en el artículo 51 de la Ley de Coordinación Fiscal, los recursos que correspondan a los Municipios, pertenecientes al Fondo de Aportaciones a que se refiere el presente artículo, podrán retenerse por parte del Gobierno del Estado a través de la Secretaría de Finanzas, previa solicitud por escrito de la Comisión Nacional del Agua y después de acreditar fehacientemente los incumplimientos de cada Municipio, en calidad de garantía de pago de los adeudos ya sean derechos y/o aprovechamientos que por concepto de agua aquéllos tengan con la federación.
+La Comisión Nacional del Agua podrá solicitar por escrito al Gobierno del Estado, a través de la Secretaría, previa acreditación del incumplimiento del pago de los derechos y aprovechamientos por concepto de agua y descargas de aguas residuales, la retención de la cantidad que cubra el pago incumplido, con cargo a los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y Demarcaciones Territoriales del Distrito Federal, que correspondan al municipio de que se trate, en términos de lo previsto en el artículo 51 de la Ley de Coordinación Fiscal.
 
-> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2009)</small>
+La Comisión Nacional del Agua sólo podrá solicitar al Gobierno del Estado la retención y pago a que se hace referencia en el párrafo anterior, en aquellos casos en que los adeudos generados por el incumplimiento tengan una antigüedad mayor a noventa días naturales.
 
-Los adeudos a los que se refiere el párrafo anterior, serán los que se generen a partir del ejercicio fiscal 2008 y los recursos que sean embargados necesariamente se aplicarán a los adeudos corrientes, es decir, no a adeudos históricos.
+Para efectos de lo dispuesto en el artículo 51 de la Ley de Coordinación Fiscal, se entenderá por obligaciones de pago de los derechos y aprovechamientos por concepto de agua y descargas de aguas residuales, las generadas por los adeudos que los municipios, incluyendo sus organismos operadores de agua, tengan con la Comisión Nacional del Agua por el derecho por uso, aprovechamiento o explotación de aguas nacionales, por uso o aprovechamiento de bienes del dominio público de la nación como cuerpos receptores de las descargas de aguas residuales, de conformidad con la Ley Federal de Derechos y por el aprovechamiento del suministro de agua en bloque en términos de la Ley de Ingresos de la Federación. El incumplimiento es la falta de pago total o parcial de las obligaciones que deben realizar los municipios, incluyendo sus organismos operadores de agua.
 
-> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2009)</small>
+Para acreditar el incumplimiento la Comisión Nacional del Agua, informará al municipio respectivo y en su caso, al organismo operador de agua, la cantidad adeudada, comunicando que no se ha cubierto el pago del trimestre o periodo de que se trate. Le concederá un plazo máximo de diez días hábiles, para que presente los comprobantes de pago o las aclaraciones a que haya lugar. En caso de que no se acredite el pago total, la Comisión Nacional del Agua deberá informar al municipio que procederá en términos del artículo 51 de la Ley de Coordinación Fiscal.
 
-Los montos máximos de retención de los recursos embargables para cada Municipio serán los siguientes:
+Vencido el plazo de diez días referido en el artículo anterior, la Comisión Nacional del Agua solicitará por escrito al Gobierno del Estado, por conducto de la Secretaría, la retención correspondiente. Para tales efectos enviará la relación de adeudos de cada uno de los municipios, incluyendo sus organismos operadores del agua, por cada una de las obligaciones incumplidas.
 
-- Para el ejercicio fiscal 2008 un 40%
+El Gobierno del Estado en su carácter de retenedor en un término de tres días hábiles contados a partir de la fecha de recepción del escrito de solicitud de la Comisión Nacional del Agua, por conducto de la Secretaria, realizará la retención correspondiente y efectuará el pago a dicha Comisión.
 
-- Para el ejercicio fiscal 2009 un 55%
+En caso de que los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y Demarcaciones Territoriales del Distrito Federal no sean suficientes para cubrir las obligaciones de pago de los derechos y aprovechamientos por concepto de agua y descargas de aguas residuales, la Comisión Nacional del Agua solicitará al Gobierno del Estado que a través de la Secretaría, efectúe la retención y pago hasta donde alcancen los recursos de dicho Fondo. Sin perjuicio de lo anterior, los saldos pendientes deberán cubrirse conforme se reciban las aportaciones futuras en dicho Fondo.
 
-- Para el ejercicio fiscal 2010 un 70%
+Las retenciones y pagos que se realicen con cargo a los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y Demarcaciones Territoriales del Distrito Federal, por adeudos que correspondan al municipio, sus organismos operadores de agua y, en su caso, sus organismos auxiliares, sólo podrán solicitarse en el caso de incumplimiento de los pagos correspondientes generados a partir del 1 de enero de 2014, en el entendido de que podrán efectuarse de manera gradual, considerando el 100% de la facturación o causación de los conceptos citados, con base en, al menos, los porcentajes establecidos en la tabla del séptimo transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Coordinación Fiscal y de la Ley General de Contabilidad Gubernamental, publicado en el Diario Oficial de la Federación el 9 de diciembre de 2013.
 
-- Para el ejercicio fiscal 2011 un 85%
-
-- De 2012 en adelante un 100%
-
-> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2009)</small>
-
-Para los efectos del párrafo segundo del presente artículo, la Comisión Estatal de Agua Potable y Alcantarillado entregará a la Comisión Nacional del Agua, dentro de los primeros diez días de cada mes, la relación de los volúmenes de agua que se entregaron a cada Municipio, así como la relación de los adeudos en los que incurra cada uno de ellos dentro de los primeros cinco días posteriores a la fecha de cobro correspondiente. En caso de que el Organismo Estatal no entregue esta relación, no podrán embargarse los recursos que correspondan a cada Municipio por concepto del Fondo de Aportaciones de que trata el presente artículo.
-
-> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2009)</small>
-
-De acuerdo al artículo 51 de la Ley de Coordinación Fiscal, el Organismo Estatal de agua podrá ceder o transferir los recursos embargados a los Municipios a fideicomisos o a alguna otra figura jurídica constituida para financiar la construcción de infraestructura hidráulica.
-
-> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2009)</small>
-
-La aplicación de este mecanismo de condonación se realizará conforme a la normatividad y las directrices que para su efecto emita el gobierno federal.
-
-> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2009)</small>
-
-Los recursos que correspondan a los municipios, pertenecientes al Fondo de Aportaciones para el Fortalecimiento Municipal, podrán retenerse por parte del Gobierno del Estado a través de la Secretaria de Finanzas, previa solicitud por escrito de la Comisión Federal de Electricidad, después de acreditar fehacientemente los incumplimientos de cada municipio, en calidad de garantía de pago de los adeudos por concepto de suministro de energía eléctrica, para 10 cual la empresa paraestatal federal deberá de acreditar al Estado el documento en que conste el compromiso de pago y el incumplimiento por parte del municipio de que se trate.
-
-> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2009)</small>
-
-Para los efectos de este artículo sólo podrá solicitarse la retención y pago señalados cuando el adeudo tenga una antigüedad mayor a 90 días naturales.
+En términos de lo dispuesto en el artículo 51, cuarto párrafo, de la Ley de Coordinación Fiscal, la Comisión Nacional del Agua, podrá ceder, afectar y en términos generales transferir los recursos derivados de la retención a que se refiere dicho artículo, para el financiamiento de infraestructura prioritaria en las materias de abastecimiento de agua potable, drenaje o saneamiento de aguas residuales, en la circunscripción territorial de cada municipio, con la participación, en su caso, del Gobierno del Estado y de los ayuntamientos.
 
 ###### Artículo 53.
 
@@ -844,3 +822,21 @@ P.O. 28 DE DICIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el 1° de enero de año 2014, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 13 DE DICIEMBRE DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Los montos máximos de retención de los recursos embargables para cada Municipio, solo podrán efectuarse de manera gradual, considerando el 100% de la facturación o causación de los conceptos referidos, con base en, al menos, los porcentajes siguientes:
+
+Para el ejercicio fiscal 2014 un 50%
+
+Para el ejercicio fiscal 2015 un 60%
+
+Para el ejercicio fiscal 2016 un 75%
+
+Para el ejercicio fiscal 2017 un 85%
+
+Para el ejercicio fiscal 2018 un 100%
+
+TERCERO.- Se derogan las disposiciones que contravengan este Decreto.
