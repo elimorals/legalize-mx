@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-de-la-procuraduria-general-de-justicia-del-91256"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-11-17"
-last_updated: "2013-11-14"
+last_updated: "2014-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "TAB"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TABASCO
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRARA EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN ÉL PERIÓDICO OFICIAL DEL ESTADO, DE MANERA GRADUAL, CONFORME A LO ESTABLECIDO EN LOS ARTÍCULOS TRANSITORIOS DEL DECRETO 206, PUBLICADO CON FECHA 29 DE AGOSTO DE DOS MIL DOCE, EN EL SUPLEMENTO "C" DEL PERIÓDICO OFICIAL DEL ESTADO, NÚMERO 7302, EN QUE SE EXPIDIÓ EL CÓDIGO PROCESAL PENAL ACUSATORIO PARA EL ESTADO DE TABASCO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO DÉCIMO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE TABASCO, PUBLICADA EN EL P.O. DE 13 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 17 de noviembre de 2012.
 
@@ -703,7 +703,7 @@ I.- Ser ciudadano mexicano;
 
 II.- Ser de notoria buena conducta y reconocida solvencia moral, no haber sido condenado por sentencia irrevocable como responsable de delito doloso;
 
-III.- Tener título legalmente expedido y registrado por la Autoridad competente lo (sic) faculte para ejercer la ciencia o disciplina de que se trate con tres años de experiencia profesional por lo menos y la constancia de grado de estudios de Posgrado cuando se requiere; tratándose de técnica o arte se deberá acreditar plenamente los conocimientos correspondientes a la disciplina sobre la que se deba dictaminar de acuerdo con las normas aplicables cuando no se requiera título o cédula profesional para su ejercicio;
+III.- Tener título legalmente expedido y registrado por la Autoridad competente (sic) lo faculte para ejercer la ciencia o disciplina de que se trate con tres años de experiencia profesional por lo menos y la constancia de grado de estudios de Posgrado cuando se requiere; tratándose de técnica o arte se deberá acreditar plenamente los conocimientos correspondientes a la disciplina sobre la que se deba dictaminar de acuerdo con las normas aplicables cuando no se requiera título o cédula profesional para su ejercicio;
 
 IV.- Tener cuando menos veintitrés años de edad cumplidos para perito profesional y veintiún años para perito técnico en el momento de presentar su documentación;
 
@@ -801,7 +801,7 @@ VII. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquel
 
 VIII. Recibir en acuerdo a los titulares de las unidades administrativas de su adscripción, en los asuntos que se encuentren sujetos a su mando o autoridad;
 
-IX. Resolver los conflictos de competencia que se presenten entre·las unidades administrativas a su cargo;
+IX. Resolver los conflictos de competencia que se presenten entre las unidades administrativas a su cargo;
 
 X. Otorgar audiencia al público, instruyendo a los Titulares de las unidades administrativas adscritas para la atención de los asuntos planteados;
 
@@ -1546,3 +1546,51 @@ P.O. 14 DE NOVIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE DICIEMBRE DE 2014.
+
+N. DE. E. ARTÍCULOS TRANSITORIOS DEL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 167.
+
+PRIMERO. La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. De conformidad con lo señalado en el artículo Octavo Transitorio del Decreto de Reformas a la Constitución Política del Estado Libre y Soberano de Tabasco, publicado en el Periódico Oficial del Estado el 21 de Junio de 2014, se formula y expide la Declaratoria expresa del inicio de vigencia de la Fiscalía General del Estado, como órgano constitucional autónomo.
+
+De igual modo, una vez publicado el presente decreto, se citará de inmediato al Procurador General de Justicia del Estado que se halle en funciones, a efecto de que rinda ante el Pleno de los Diputados del H. Congreso del Estado la protesta constitucional para el inicio de su encargo como Fiscal General del Estado de Tabasco por el tiempo que establece el artículo 54 Ter, de la Constitución, contabilizado a partir de la fecha en que haya sido designado como Procurador General de Justicia.
+
+TERCERO. Las facultades otorgadas al Procurador General de Justicia en las leyes, reglamentos y demás disposiciones jurídicas, se entenderán conferidas al Fiscal o a la Fiscalía General, siempre que éstas sean compatibles con las atribuciones que le otorga la Constitución Política del Estado Libre y Soberano de Tabasco y con su condición de órgano constitucional autónomo.
+
+Las disposiciones establecidas en la Nueva Ley Orgánica de la Fiscalía General del Estado de Tabasco, que son propias del Sistema de Justicia Procesal Penal Acusatorio, resultarán aplicables e iniciarán su vigencia partir de la fecha y en los términos en que lo haga el Código Nacional de Procedimientos Penales en el Estado de Tabasco.
+
+CUARTO. El Fiscal General expedirá los reglamentos Interior de la Fiscalía General y del Servicio Profesional de Carrera, así como los demás ordenamientos que resulten necesarios, dentro de los 180 días hábiles siguientes al inicio de la vigencia de la presente Ley.
+
+En tal razón, la Fiscalía general continuará aplicando las disposiciones reglamentarias y administrativas que no se opongan a la ley Orgánica de la Fiscalía general del Estado, hasta en tanto se expidan y entren en vigor los ordenamientos que los sustituyan.
+
+QUINTO. El otorgamiento de las prestaciones complementarias de seguridad social contenidas en las fracciones I y III del artículo 37 de esta Ley, se otorgarán en un plazo no mayor a dos años; las contenidas en las fracciones II y IV, del referido artículo, se otorgarán en un plazo no mayor de tres años, en ambos casos contados a partir del inicio de la vigencia del presente Decreto.
+
+SEXTO. La estructura orgánica y funcional de la Fiscalía General se integrará en forma paulatina conforme a las necesidades institucionales y capacidades presupuestales. El Fiscal General dictará los acuerdos administrativos necesarios para tales efectos.
+
+SÉPTIMO. Los recursos materiales, financieros, presupuestales con que cuenta la Procuraduría General de Justicia del Estado de Tabasco, pasarán a formar parte del patrimonio de la Fiscalía General del Estado.
+
+En razón de lo anterior, la Secretaría de Planeación y Finanzas, la de Administración, la Coordinación General de Asuntos Jurídicos y las demás dependencias del Poder Ejecutivo del Estado, conforme resulte necesario en el ámbito de sus respectivas competencias, en coordinación con el Fiscal General, deberán realizar las acciones administrativas y legales necesarias para la constitución del patrimonio de la Fiscalía General en tanto órgano constitucional autónomo y promover las adecuaciones correspondientes a dicha figura en cuanto a la contabilidad gubernamental y las reglas para el manejo presupuestal y financiero de los recursos de que disponga, tanto en el orden estatal como en el federal. Lo anterior, con la intervención y vigilancia que corresponda al Congreso del Estado y al Órgano de Fiscalización Superior.
+
+OCTAVO. Los servidores públicos de la Procuraduría General de Justicia del Estado, pasarán a formar parte de la Fiscalía General del Estado de Tabasco, sin que sus derechos laborales se vean afectados con la entrada en vigor de esta Ley.
+
+Los servidores públicos que a la fecha de entrada en vigor de este decreto hubiesen sido designados por el Titular del Poder Ejecutivo del Estado o por el Procurador General de Justicia, permanecerán en los cargos respectivos, hasta que sean nombrados por el Fiscal General los titulares de las nuevas unidades administrativas establecidas en la Ley Orgánica de la Fiscalía general del Estado.
+
+El Fiscal General emitirá las disposiciones que regirán para la presentación de la Declaración de Situación Patrimonial, de los servidores públicos de la Fiscalía obligados a la misma, en un plazo no mayor a ciento veinte días naturales contados a partir de la entrada en vigor del presente decreto.
+
+NOVENO. Los procedimientos jurisdiccionales y administrativos, relacionados con la separación, remoción, cese o cualquier otra forma de conclusión de los servicios de trabajadores o empleados al servicio de la Procuraduría General de Justicia que estuviesen en trámite a la entrada en vigor de este Decreto, se concluirán conforme a la normatividad que les era aplicable al inicio del procedimiento de que se trate. Los procedimientos iniciados después de la entrada en vigor de este Decreto y los ordenamientos administrativos correspondientes, se tramitarán conforme a ellos.
+
+Los procedimientos administrativos de responsabilidad iniciados a la fecha a los servidores públicos de la Procuraduría General de Justicia del Estado que se encuentren en trámite o pendientes de resolución a la entrada en vigor de este decreto continuaran conforme a la normatividad que les fue aplicable en el momento del inicio del procedimiento.
+
+DÉCIMO. Se abroga la Ley Orgánica de la Procuraduría General de Justicia del Estado de Tabasco, publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el 17 de noviembre de 2012. De igual manera, quedarán sin efecto las disposiciones que contravengan el presente Decreto.
+
+N. DE. E. TRANSITORIOS DEL DECRETO NÚMERO 167.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Pleno del Tribunal o el Consejo de la Judicatura, en su caso, realizarán las acciones y dictarán los acuerdos de orden jurisdiccional y administrativo que resulten necesarios al interior del Poder Judicial del Estado, para la implementación y puesta en marcha de los órganos jurisdiccionales o unidades administrativas que se crean o modifican sus funciones con motivo de este Decreto.
+
+Del mismo modo, realizarán las gestiones necesarias ante los Poderes Ejecutivo y Legislativo del Estado, para atender adecuadamente las necesidades presupuestales derivadas de la entrada en vigor de este Decreto.
+
+TERCERO. Se derogan las demás disposiciones legales de igual naturaleza y aquellas reglamentarias que se opongan a la presente Ley.
