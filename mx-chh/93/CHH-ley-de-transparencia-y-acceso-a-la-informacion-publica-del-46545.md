@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-4654
 country: "mx"
 rank: "ley"
 publication_date: "2005-10-15"
-last_updated: "2013-12-25"
+last_updated: "2014-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46545&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 15 de octubre de 2005.
 
@@ -379,7 +379,9 @@ V.- Declaraciones patrimoniales, salvo los datos que se clasifiquen.
 
 VI.- Nombre, domicilio oficial y dirección electrónica, en su caso, de los servidores públicos encargados del Comité de Información y de la Unidad de Información.
 
-VII.- Los planes estatal y municipales de desarrollo; los programas operativos anuales y sectoriales; las metas y objetivos de las unidades administrativas de los Entes Públicos y los avances de cada uno de ellos.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2014)</small>
+
+VII. Los planes estatal y municipales de desarrollo; los programas operativos anuales y sectoriales y, en su caso, sus reglas de operación; las metas y objetivos de las unidades administrativas de los Entes Públicos y los avances de cada uno de ellos.
 
 VIII.- Los servicios y programas que ofrecen, los trámites, requisitos y formatos para acceder a los mismos.
 
@@ -1518,3 +1520,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Por única ocasión, el actual Consejero Presidente podrá aspirar a ser reelecto bajo el nuevo esquema normativo previsto en el presente Decreto.
+
+P.O. 13 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
