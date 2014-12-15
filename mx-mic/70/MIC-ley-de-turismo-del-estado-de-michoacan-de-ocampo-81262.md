@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-turismo-del-estado-de-michoacan-de-ocampo-81262"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-03"
-last_updated: "2013-07-16"
+last_updated: "2014-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81262&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE TURISMO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Quinta Sección al Periódico Oficial del Estado de Michoacán, el martes 3 de mayo de 2011.
 
@@ -607,9 +607,17 @@ III. Elaboración y difusión de campañas de publicidad turística nacional e i
 
 IV. Participar con los sectores público, social y privado, en la constitución, fomento, desarrollo y operación de empresas, cualquiera que sea su naturaleza jurídica, dedicadas a la actividad turística;
 
-V. Asesorar a los inversionistas de los sectores social y privado en sus gestiones ante los organismos competentes a efecto de obtener asistencia técnica, información y demás apoyos para el desarrollo de la actividad turística; y,
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2014)</small>
 
-VI. Las demás que permitan mejorar la actividad y desarrollo turístico en el Estado.
+V. Implementar las acciones necesarias para apoyar a los prestadores de servicios turísticos, en caso de presentarse acontecimientos meteorológicos o sociales que los afecten directamente;
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2014)</small>
+
+VI. Asesorar a los inversionistas de los sectores social y privado en sus gestiones ante los organismos competentes a efecto de obtener asistencia técnica, información y demás apoyos para el desarrollo de la actividad turística; y,
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2014)</small>
+
+VII. Las demás que permitan mejorar la actividad y desarrollo turístico en el Estado.
 
 ###### ARTÍCULO 66.
 
@@ -693,7 +701,7 @@ XII. El titular de la Cámara Nacional de la Industria de Restaurantes y Aliment
 
 XIII. El titular de la Asociación de Hoteles y Moteles del Estado de Michoacán;
 
-XIV. El titular de la Asociación de Guías de Turistas en el Estado; y, (sic)
+XIV. El titular de la Asociación de Guías de Turistas en el Estado; y,
 
 XV. El titular de la Asociación Michoacana de Balnearios y Parques Acuáticos.
 
@@ -1228,3 +1236,7 @@ P.O. 16 DE JULIO DE 2013.
 PRIMERO.- El presente Decreto, entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO.- El Congreso del Estado, dentro de los noventa días naturales siguientes contados a partir de la fecha de entrada en vigor de este Decreto, a propuesta de la Comisión de Turismo, aprobará los lineamientos con base a los cuáles se otorgue la condecoración materia del artículo 49 de la Ley de Turismo del Estado de Michoacán de Ocampo.
+
+P.O. 15 DE DICIEMBRE DE 2014.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
