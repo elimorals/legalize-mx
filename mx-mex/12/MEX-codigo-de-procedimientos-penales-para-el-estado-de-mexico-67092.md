@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-67092
 country: "mx"
 rank: "codigo"
 publication_date: "2009-02-09"
-last_updated: "2014-06-27"
+last_updated: "2014-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MÉXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 4 PUBLICADO EN LA G.G. DE 30 DE SEPTIEMBRE DE 2009, EL SISTEMA PROCESAL PENAL ACUSATORIO ADVERSARIAL Y ORAL HA SIDO INCORPORADO EN EL PRESENTE ORDENAMIENTO, Y ENTRARÁ EN VIGOR EN LOS SIGUIENTES PLAZOS Y DISTRITOS: 1) EL PRIMERO DE OCTUBRE DE DOS MIL NUEVE, EN LOS DISTRITOS JUDICIALES DE TOLUCA, LERMA, TENANCINGO Y TENANGO DEL VALLE; 2) EL PRIMERO DE ABRIL DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE CHALCO, OTUMBA Y TEXCOCO; 3) EL PRIMERO DE OCTUBRE DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE NETZAHUALCÓYOTL, EL ORO, IXTLAHUACA, SULTEPEC Y TEMASCALTEPEC; 4) EL PRIMERO DE ABRIL DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE TLALNEPANTLA, CUAUTITLÁN Y ZUMPANGO; 5) EL PRIMERO DE OCTUBRE DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE ECATEPEC DE MORELOS, JILOTEPEC Y VALLE DE BRAVO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE DICIEMBRE DE 2014.
 
 Código publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 9 de febrero de 2009.
 
@@ -3091,7 +3091,7 @@ Al practicar la confrontación se cuidará que:
 
 I. La persona que sea objeto de ella no se disfrace, ni se desfigure, ni se borre las huellas o señales que puedan servir al que tiene que identificarla;
 
-II. Aquélla se presente acompañada cuando menos de tres personas, vestidas con ropas semejantes y con las mismas señas que las del confrontado, si fuere posible; y (sic)
+II. Aquélla se presente acompañada cuando menos de tres personas, vestidas con ropas semejantes y con las mismas señas que las del confrontado, si fuere posible; y
 
 III. Los individuos que acompañen a la persona que va a confrontarse sean de aspecto físico semejante.
 
@@ -3879,13 +3879,13 @@ Sin embargo, estas personas no podrán negar su testimonio cuando sean liberadas
 
 En caso de ser citadas, deberán comparecer y explicar el motivo del cual surge la obligación de guardar secreto y de abstenerse de declarar.
 
-Citación de testigos
+Comparecencia obligatoria de testigos
 
 ###### Artículo 347.
 
 Para el examen de testigos se librará orden de citación, salvo en el caso de que la parte interesada se comprometa a presentarlos. En esta última hipótesis, de no cumplir su ofrecimiento, se le tendrá por desistido de la prueba. En los casos de urgencia, los testigos podrán ser citados por cualquier medio que garantice la recepción de la citación, lo cual se hará constar. Además, el testigo podrá presentarse a declarar sin previa cita. Tratándose de testigos que fueren servidores públicos, la dependencia en la que se desempeñen adoptará las medidas correspondientes para garantizar su comparecencia.
 
-Comparecencia obligatoria de testigos
+Excepciones a la obligación de comparecencia
 
 ###### Artículo 348.
 
@@ -3893,7 +3893,7 @@ Si el testigo debidamente citado, no comparece sin justa causa a la audiencia de
 
 Las autoridades están obligadas a auxiliar oportuna y diligentemente al juez para garantizar la comparecencia obligatoria de los testigos. El juez podrá emplear contra las autoridades los medios de apremio que establece este código en caso de incumplimiento o retardo a sus determinaciones.
 
-Excepciones a la obligación de comparecencia
+Citación de testigos
 
 ###### Artículo 349.
 
@@ -4269,9 +4269,9 @@ El ministerio público manifestará su deseo de aplicar el procedimiento abrevia
 
 En caso de dictarse sentencia de condena, se aplicarán las penas mínimas previstas por la ley para el delito cometido, reducidas en un tercio, sin perjuicio de cualquier otro beneficio que proceda en términos del código penal.
 
-> <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, G.G. 15 DE DICIEMBRE DE 2014)</small>
 
-Tratándose de los delitos de extorsión, secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, el homicidio culposo de dos o más personas, violación, robo que ocasione la muerte, robo de vehículo automotor con violencia, robo cometido a interior de casa habitación con violencia, abuso de autoridad contemplado en la fracción II del segundo párrafo del artículo 137 bis, delitos contra el correcto funcionamiento de las instituciones de seguridad y órganos jurisdiccionales, de la seguridad de los servidores públicos y particulares, y el realizado contra el ambiente, contemplado en el párrafo segundo del artículo 229, solamente se aplicarán las penas mínimas previstas por la ley para el delito cometido, con exclusión de cualquier otro beneficio.
+Tratándose de los delitos de extorsión, secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, el homicidio culposo de dos o más personas, violación, las lesiones a que se refiere la fracción VIII del artículo 238 del Código Penal del Estado de México, robo que ocasione la muerte, robo de vehículo automotor con violencia, robo cometido a interior de casa habitación con violencia, abuso de autoridad contemplado en la fracción II del segundo párrafo del artículo 137 bis, delitos contra el correcto funcionamiento de las instituciones de seguridad y órganos jurisdiccionales, de la seguridad de los servidores públicos y particulares, y el realizado contra el ambiente, contemplado en el párrafo segundo del artículo 229, solamente se aplicarán las penas mínimas previstas por la ley para el delito cometido, con exclusión de cualquier otro beneficio.
 
 Verificación del juez
 
@@ -5085,9 +5085,9 @@ III. Manifestado datos de efectiva reinserción del sentenciado a la sociedad. E
 
 A los internos que por falta de ocupación laboral asistan regularmente a la escuela le serán tomadas en cuenta dichas actividades para el efecto de la remisión parcial de la pena y cualquier otra medida tendente a su reinserción social.
 
-> <small>(REFORMADO, G.G. 20 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.G. 15 DE DICIEMBRE DE 2014)</small>
 
-La remisión parcial de la pena no se concederá en los casos de internos sentenciados por el delito de extorsión, robo con violencia, secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación o robo que ocasione la muerte.
+La remisión parcial de la pena no se concederá en los casos de internos sentenciados por el delito de extorsión, robo con violencia, secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación, lesiones que se infieran a menores, incapaces o pupilos por quien ejerza la patria potestad, tutela o custodia, o por un integrante de su núcleo familiar o robo que ocasione la muerte.
 
 Programación de casos
 
@@ -5129,9 +5129,9 @@ IV. Traslado a institución abierta; y
 
 V. El régimen de prelibertad.
 
-> <small>(REFORMADO, G.G. 20 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.G. 15 DE DICIEMBRE DE 2014)</small>
 
-El régimen de prelibertad no se concederá en los casos de internos sentenciados por el delito de extorsión, robo con violencia, secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación o robo que ocasione la muerte.
+El régimen de prelibertad no se concederá en los casos de internos sentenciados por el delito de extorsión, robo con violencia, secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación, lesiones que se infieran a menores, incapaces o pupilos por quien ejerza la patria potestad, tutela o custodia, o por un integrante de su núcleo familiar o robo que ocasione la muerte.
 
 Momento para el otorgamiento
 
@@ -5183,9 +5183,9 @@ Beneficio de libertad condicionada
 
 El beneficio de libertad condicionada al sistema de localización y rastreo es un medio de ejecutar la sanción penal hasta en tanto se alcance la prelibertad, o libertad condicional.
 
-> <small>(REFORMADO, G.G. 20 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.G. 15 DE DICIEMBRE DE 2014)</small>
 
-Este beneficio no se concederá en los casos de internos sentenciados por el delito de extorsión, robo con violencia, secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación o robo que cause la muerte.
+Este beneficio no se concederá en los casos de internos sentenciados por el delito de extorsión, robo con violencia, secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación, lesiones que se infieran a menores, incapaces o pupilos por quien ejerza la patria potestad, tutela o custodia, o por un integrante de su núcleo familiar o robo que cause la muerte.
 
 > <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
 
@@ -5275,11 +5275,11 @@ La designación se hará conciliando las circunstancias de que al interno no pue
 
 Improcedencia de la libertad condicional
 
-> <small>(REFORMADO, G.G. 20 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.G. 15 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 469.
 
-La libertad condicional no se concederá en los delitos de extorsión, robo con violencia, secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación y robo que ocasione la muerte.
+La libertad condicional no se concederá en los delitos de extorsión, robo con violencia, secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación, lesiones que se infieran a menores, incapaces o pupilos por quien ejerza la patria potestad, tutela o custodia, o por un integrante de su núcleo familiar o robo que ocasione la muerte.
 
 Pérdida del derecho a la libertad condicional
 
@@ -5738,3 +5738,9 @@ G.G. 27 DE JUNIO DE 2014.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 15 DE DICIEMBRE DE 2014.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor a los cinco días siguientes al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
