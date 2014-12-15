@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-procuraduria-general-de-justicia-del-67783"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-03-20"
-last_updated: "2014-11-28"
+last_updated: "2014-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67783&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "MEX"
 ---
 # LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE DICIEMBRE DE 2014 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 20 de marzo de 2009.
 
@@ -617,6 +615,10 @@ IV. Titulares de unidades especializadas;
 
 V. Coordinadores, directores generales, titulares de órganos desconcentrados, unidades técnicas y administrativas directores de área, subdirectores, jefes de departamento, y demás servidores públicos que establezca el Reglamento de esta Ley y otras disposiciones aplicables.
 
+> <small>(ADICIONADO, G.G. 15 DE DICIEMBRE DE 2014)</small>
+
+El personal operativo que integra la unidad administrativa especializada en los delitos vinculados a la violencia de género deberán (sic) contar con la capacitación, especialización y certificación continua, observando las mejores prácticas en la atención de estos delitos así como a las víctimas de los mismos.
+
 ###### ARTÍCULO 33.
 
 SISTEMA DE ESPECIALIZACIÓN. Para el desarrollo de las funciones de la Procuraduría, se contará con un sistema de especialización y organización territorial y funcional, sujeto a las siguientes bases generales:
@@ -1192,3 +1194,9 @@ TERCERO.- La Secretaría de Seguridad Ciudadana y los municipios de la Entidad, 
 CUARTO.- El Titular del Ejecutivo Estatal reformará el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de México, antes de la entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de México.
 
 QUINTO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 15 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
