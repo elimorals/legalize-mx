@@ -4,7 +4,7 @@ identifier: "SON-codigo-fiscal-del-estado-de-sonora-16554"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-06-12"
-last_updated: "2013-12-19"
+last_updated: "2014-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # CODIGO FISCAL DEL ESTADO DE SONORA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 26 DE ENERO DE 2015 Y 2 DE MARZO DE 2015 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO FISCAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 19 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE DICIEMBRE DE 2014.
 
 Código publicado en la Segunda Sección del Boletín Oficial del Estado de Sonora, el lunes 12 de junio del 2000.
 
@@ -245,6 +247,12 @@ c).- En los demás casos, el lugar donde tengan el asiento principal de sus acti
 
 d).- A falta de los anteriores, su casa habitación.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+
+Siempre que los contribuyentes no hayan manifestado alguno de los domicilios citados en los incisos anteriores o no hayan sido localizados en los mismos, se considerará como domicilio el que hayan manifestado a las entidades financieras o a las sociedades cooperativas de ahorro y préstamo, cuando sean usuarios de los servicios que presten éstas.
+
 II.- En el caso de personas morales:
 
 a).- Cuando sean residentes en el Estado, el local en donde se encuentre la administración principal del negocio.
@@ -323,9 +331,13 @@ IV.- La indemnización a que se refiere el artículo 27 de este Código.
 
 Cuando el contribuyente interponga algún medio de defensa legal impugnando alguno de los conceptos señalados en el párrafo anterior, el orden señalado en el mismo no será aplicable respecto del concepto impugnado y garantizado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 20.
 
-Cuando en atención a la naturaleza y características de las operaciones que realizan los sujetos pasivos del impuesto de que se trate no sea posible, dentro de los procedimientos ordinarios, precisar con exactitud el monto del impuesto a pagar, la Secretaría de Finanzas podrá emitir bases especiales para la determinación de la prestación fiscal a cargo de ellos.
+Cuando en atención a la naturaleza y características de las operaciones que realizan los sujetos pasivos del impuesto de que se trate no sea posible, dentro de los procedimientos ordinarios, precisar con exactitud el monto del impuesto a pagar, la Secretaría de Hacienda podrá emitir bases especiales para la determinación de la prestación fiscal a cargo de ellos.
 
 ###### ARTÍCULO 21.
 
@@ -375,11 +387,11 @@ ARTÍCULO 24 BIS.- Los Poderes del Estado, incluidas en el Poder Ejecutivo las e
 
 El pago de los créditos fiscales deberá hacerse en efectivo, salvo que las disposiciones aplicables establezcan que se haga en especie.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 15 DE DICIEMBRE DE 2014)</small>
 
-Los giros postales, telegráficos o bancarios, los cheques certificados y los pagos en tarjeta de crédito o débito realizados en los lugares autorizados por la Secretaría de Hacienda, se admitirán como efectivo. También se admitirán como medio de pago los cheques de cuentas personales de los contribuyentes, los cuales se presumirán recibidos bajo la condición "salvo buen cobro" para los efectos de acreditar que se ha efectuado el pago.
+Los giros postales, telegráficos o bancarios, los cheques certificados y los pagos en tarjeta de crédito o débito realizados en los lugares autorizados por la Secretaría de Hacienda, se admitirán como efectivo. También se admitirán como medio de pago los cheques de cuentas personales de los contribuyentes, los cuales se presumirán recibidos bajo la condición “salvo buen cobro” para los efectos de acreditar que se ha efectuado el pago, en éste caso, la forma oficial, el recibo oficial o la forma valorada, expedidos y controlados exclusivamente por la Secretaría de Hacienda o la documentación que en las disposiciones respectivas se establezca en la que conste la impresión original de la máquina registradora tendrán validez una vez que se haya hecho efectivo en cheque personal en la cámara de compensación, momento en el que se entenderán como pagadas las contribuciones.
 
 ###### ARTÍCULO 26.
 
@@ -393,7 +405,11 @@ Cuando el pago hubiera sido menor al que corresponda, los recargos se computará
 
 Los recargos se causarán por cada mes o fracción que transcurra a partir del día en que debió hacerse el pago y hasta que el mismo se efectúe.
 
-Cuando los recargos determinados por el contribuyente sean inferiores a los que calcule la oficina recaudadora, ésta deberá aceptar al pago y procederá a exigir el remanente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+
+Cuando los recargos determinados por el contribuyente sean inferiores a los que calcule la oficina recaudadora, ésta deberá aceptar el pago y procederá a exigir el remanente.
 
 Cuando el contribuyente pague en una sola exhibición el total de las contribuciones omitidas, en forma espontánea, en los términos del artículo 84 de este Código, el importe de los recargos no excederá de los causados durante un año.
 
@@ -443,7 +459,11 @@ La obligación de devolver contribuciones pagadas en forma indebida prescribe en
 
 Para que proceda la devolución de cantidades pagadas indebidamente, será necesario:
 
-I.- Que se dicte acuerdo de la Secretaría de Finanzas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2014)</small>
+
+I.- Que se dicte acuerdo de la Secretaría de Hacienda;
 
 II.- Que el derecho a reclamar la devolución no se haya extinguido;
 
@@ -453,7 +473,11 @@ II.- Que el derecho a reclamar la devolución no se haya extinguido;
 
 Los contribuyentes obligados a pagar mediante declaración, podrán optar por compensar las cantidades que tengan a su favor, contra las que estén obligadas a pagar por adeudo propio o por retención a terceros, siempre que ambas deriven de una misma contribución. Al efecto bastará que efectúen la compensación de dichas cantidades, debiendo presentar aviso de compensación dentro de los cinco días siguientes a aquel en que la misma se haya efectuado, acompañado de la documentación que al efecto se solicite en la forma oficial correspondiente.
 
-Si las cantidades que tengan a su favor los contribuyentes no derivan de la misma contribución, gravamen, contrato o por la cual están obligados a efectuar el pago, la Secretaría de Finanzas, apreciara discrecionalmente la conveniencia de autorizar la compensación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+
+Si las cantidades que tengan a su favor los contribuyentes no derivan de la misma contribución, gravamen, contrato o por la cual están obligados a efectuar el pago, la Secretaría de Hacienda, apreciara discrecionalmente la conveniencia de autorizar la compensación.
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -473,11 +497,13 @@ Los contribuyentes que hayan ejercido la opción a que se refiere el primer pár
 
 Se podrán compensar los créditos y deudas entre el Estado por una parte y la Federación y Municipios, por la otra. Tratándose de la compensación con Federación y Municipios se requerirá acuerdo previo con éstos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 33.
 
-Las personas morales, así como las personas físicas que deban presentar declaraciones periódicas o tengan la obligación de pagar, retener o de recaudar impuestos, deberán solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría de Hacienda, proporcionar la información relacionada con su identidad, su domicilio y en general sobre su situación fiscal, mediante los avisos respectivos, dentro de los treinta días siguientes al inicio de sus actividades, salvo que las leyes fiscales señalen otro plazo. Las personas obligadas a presentar su inscripción y demás avisos, lo harán en las oficinas exactoras de su jurisdicción, las que deberán proporcionarles su cédula de registro expedida por la Secretaría de Hacienda, la cual deberá constar en lugar visible del establecimiento y a falta de este conservarse en el domicilio del interesado. Asimismo, las personas a que se refiere este párrafo estarán obligadas a manifestar al Registro Estatal de Contribuyentes su domicilio fiscal; en el caso de cambio de domicilio fiscal, deberán presentar el aviso correspondiente, dentro del mes siguiente al día en que tenga lugar dicho cambio salvo que al contribuyente se le hayan iniciado facultades de comprobación y no se le haya notificado la resolución a que se refiere el artículo 62 Bis de este Código, en cuyo caso deberá presentar el aviso previo a dicho cambio con cinco días de anticipación. La autoridad fiscal podrá considerar como domicilio fiscal del contribuyente aquel en que se verifique alguno de los supuestos establecidos en el artículo 15 de este Código, cuando el manifestado en las solicitudes y avisos a que se refiere este artículo no corresponda a alguno de los supuestos de dicho precepto.
+Las personas morales, así como las personas físicas que deban presentar declaraciones periódicas o tengan la obligación de pagar, retener o de recaudar impuestos, así como, todas aquellas personas físicas o morales cuyas actividades sean reguladas por leyes administrativas en el Estado, deberán solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría de Hacienda, proporcionar la información relacionada con su identidad, su domicilio y en general sobre su situación fiscal, mediante los avisos respectivos, dentro de los treinta días siguientes al inicio de sus actividades, salvo que las leyes fiscales señalen otro plazo. Las personas obligadas a presentar su inscripción y demás avisos, lo harán en las oficinas exactoras de su jurisdicción, las que deberán proporcionarles su cédula de registro expedida por la Secretaría de Hacienda, la cual deberá constar en lugar visible del establecimiento y a falta de este conservarse en el domicilio del interesado. Asimismo, las personas a que se refiere este párrafo estarán obligadas a manifestar al Registro Estatal de Contribuyentes su domicilio fiscal; en el caso de cambio de domicilio fiscal, deberán presentar el aviso correspondiente, dentro del mes siguiente al día en que tenga lugar dicho cambio salvo que al contribuyente se le hayan iniciado facultades de comprobación y no se le haya notificado la resolución a que se refiere el artículo 62 Bis de este Código, en cuyo caso deberá presentar el aviso previo a dicho cambio con cinco días de anticipación. La autoridad fiscal podrá considerar como domicilio fiscal del contribuyente aquel en que se verifique alguno de los supuestos establecidos en el artículo 15 de este Código, cuando el manifestado en las solicitudes y avisos a que se refiere este artículo no corresponda a alguno de los supuestos de dicho precepto.
 
 Quedan exceptuados de la obligación de inscribirse los sujetos a que alude el artículo 6 de este Código, sin menoscabo de la obligación de retener o de recaudar contribuciones en los casos que lo dispongan las leyes.
 
@@ -677,9 +703,11 @@ Cuando se requiera al promovente que cumpla los requisitos omitidos o proporcion
 
 Los actos administrativos que se deban notificar deberán tener por lo menos los siguientes requisitos:
 
-(REFORMADA, B.O. 29 DE DICIEMBRE DE 2006) (F. DE E., B.O. 12 DE FEBRERO DE 2007)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-I.- Constar por escrito en documento impreso;
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2014)</small>
+
+I.- Constar por escrito en documento impreso y con sello oficial.
 
 (REFORMADA, B.O. 29 DE DICIEMBRE DE 2006) (F. DE E., B.O. 12 DE FEBRERO DE 2007)
 
@@ -781,7 +809,11 @@ a).- Se llevará a cabo en el domicilio fiscal, establecimientos, sucursales, lo
 
 b).- Al presentarse los visitadores al lugar en donde deba practicarse la diligencia, entregarán la orden de verificación al visitado, a su representante legal, al encargado o a quien se encuentre al frente del lugar visitado, indistintamente, y con dicha persona se entenderá la visita de inspección.
 
-c).- Los visitadores se deberán identificar ante la persona con quien se entienda la diligencia, requiriéndola para que designe dos testigos; si éstos no son designados o los designados no aceptan servir como tales, los visitadores los designarán, haciendo constar esta situación en el acta que levanten, sin que esta circunstancia invalide los resultados de la inspección.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+
+c).- Los visitadores se deberán identificar mediante el documento oficial que los acredite como tales, los visitadores los designarán, haciendo constar esta situación en el acta que levanten, sin que esta circunstancia invalide los resultados de la inspección.
 
 d).- En toda visita domiciliaria se levantará acta en la que se harán constar en forma circunstanciada los hechos u omisiones conocidos por los visitadores, en los términos de este Código, o en su caso, las irregularidades detectadas durante la inspección.
 
@@ -1223,7 +1255,7 @@ a) El monto de las contribuciones omitidas desde el mes en que se debieron pagar
 
 b) Las multas que correspondan desde el mes en que se debieron pagar y hasta aquel en que se concluya la autorización.
 
-c) Los accesorios distintos de las multas que tenga a su cargo el contribuyente a la fecha en que se conceda (sic) la autorización.
+c) Los accesorios distintos de las multas que tenga a su cargo el contribuyente a la fecha en que se conceda la autorización.
 
 La modalidad del pago a plazos elegida por el contribuyente podrá modificarse para el crédito de que se trate por una sola ocasión, siempre y cuando el plazo en su conjunto no exceda del plazo máximo establecido en el presente artículo.
 
@@ -1583,7 +1615,13 @@ e).- Exigir bajo el título de cooperación u otros semejantes cualquier prestac
 
 f).- Inscribir o registrar documentos, instrumentos o libros en los que no se hayan cumplido las disposiciones fiscales;
 
-g).- Extender actas, expedir certificados, legalizar firmas o autorizar libros o documentos sin exigir de los interesados el cumplimiento de las obligaciones fiscales; y, (sic)
+g).- Extender actas, expedir certificados, legalizar firmas o autorizar libros o documentos sin exigir de los interesados el cumplimiento de las obligaciones fiscales; y,
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+
+h).- Eliminen obligaciones fiscales registradas a cargo de los contribuyentes, o concedan descuentos sobre conceptos de los cuales no se tenga facultad expresa.
 
 XIV.- Negarse a proporcionar los elementos que se requieran para comprobar el cumplimiento de las obligaciones fiscales, ya sea por resistirse a las visitas domiciliarias, no suministrar los datos e informes que legalmente puedan exigir los visitadores, no mostrar los libros, documentos, registros, bodegas, depósitos, locales, o en cualquiera otra forma.
 
@@ -2259,7 +2297,11 @@ Cuando se suspende el procedimiento administrativo de ejecución en los término
 
 ARTÍCULO 146 BIS.- La Secretaría de Hacienda podrá cancelar créditos fiscales por incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios.
 
-Se considerarán créditos de cobro incosteable, aquellos cuyo importe sea inferior o igual al equivalente en moneda nacional a 400 unidades de inversión, aquellos cuyo importe sea inferior o igual al equivalente en moneda nacional a 20,000 unidades de inversión y cuyo costo de recuperación rebase el 75% del importe del crédito, así como aquellos cuyo costo de recuperación sea igual o mayor a su importe.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+
+Se considerarán créditos de cobro incosteable, aquellos cuyo importe sea inferior o igual al equivalente en moneda nacional a 2,000 unidades de inversión, aquellos cuyo importe sea inferior o igual al equivalente en moneda nacional a 20,000 unidades de inversión y cuyo costo de recuperación rebase el 75% del importe del crédito, así como aquellos cuyo costo de recuperación sea igual o mayor a su importe.
 
 Se consideran insolventes los deudores o los responsables solidarios cuando no tengan bienes embargables para cubrir el crédito o éstos ya se hubieran realizado, cuando no se puedan localizar o cuando hubieran fallecido sin dejar bienes que puedan ser objeto del procedimiento administrativo de ejecución.
 
@@ -2268,6 +2310,14 @@ Cuando el deudor tenga dos o más créditos a su cargo, todos ellos se sumarán 
 La Secretaría de Hacienda expedirá Reglas de Carácter General para la aplicación de este artículo. En tanto se emitan las citadas Reglas, se aplicará supletoriamente el Acuerdo por el que se establecen Reglas de Carácter General para la cancelación de créditos fiscales a favor de la Federación, conforme a lo previsto en el artículo 146-A del Código Fiscal de la Federación.
 
 La cancelación de los créditos a que se refiere este artículo no libera de su pago.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+
+ARTÍCULO 146 TER.- La Secretaría de Hacienda podrá reducir total o parcialmente multas y recargos por infracciones a las disposiciones fiscales, a solicitud por escrito del sujeto obligado o su representante legal donde exprese las circunstancias que dificultan el regularizarse fiscalmente, para valoración y de proceder, la autorización que corresponda, siempre y cuando el importe de cada concepto a reducir, sean inferiores o iguales al equivalente en moneda nacional a 800 unidades de inversión.
+
+Lo previsto en este artículo no constituye instancia y las autorizaciones que otorguen las autoridades fiscales no podrán ser impugnadas por los particulares.
 
 ###### ARTÍCULO 147.
 
@@ -2299,17 +2349,29 @@ II.- Por la de embargo, incluyendo el señalado en el artículo 130, fracción V
 
 III.- Por la de remate, enajenación fuera de remate o adjudicación al fisco estatal.
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Cuándo en los casos de las fracciones anteriores, el 2% del crédito sea inferior a $180.00, se cobrará esa cantidad en vez del 2% del crédito.
+> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferior a $380.00, se cobrará esa cantidad en vez del 2% del crédito.
 
-En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias, podrán exceder de $17,000.00.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Las cantidades en pesos a que se refieren los párrafos segundo y tercero de este artículo, se actualizarán en los meses de enero y julio de cada año, conforme al factor que se obtenga de acuerdo con el siguiente procedimiento:
+> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
 
-El factor aplicable para el mes de enero, será el que resulte de dividir el índice nacional de precios al consumidor del mes de noviembre inmediato anterior entre el mes de junio inmediato anterior; el factor aplicable para el mes de julio, será el que se obtenga de dividir el índice nacional de precios al consumidor del mes de mayo entre el del mes de diciembre inmediato anterior.
+En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias, podrán exceder de $30,000.00.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+
+Las cantidades en pesos a que se refieren los párrafos segundo y tercero de este artículo, se actualizarán en el mes de enero de cada año, conforme al factor que se obtenga de acuerdo con el siguiente procedimiento;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+
+El factor aplicable será el que resulte de dividir el índice nacional de precios al consumidor del mes de noviembre inmediato anterior entre el índice nacional de precios al consumidor del mes de diciembre inmediato anterior.
 
 Asimismo, se pagarán por concepto de gastos de ejecución, los extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución, incluyendo los que en su caso deriven de los embargos señalados en el artículo 130 fracción V de este Código, que únicamente comprenderán los de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de investigaciones, de inscripciones o cancelaciones en el registro público que corresponda, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores, salvo cuando dichos depositarios renuncien expresamente al cobro de tales honorarios.
 
@@ -2747,7 +2809,7 @@ Los bienes adjudicados por las autoridades fiscales de conformidad con lo dispue
 
 Las adjudicaciones tendrán la naturaleza de dación en pago.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÍNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
 
@@ -2903,15 +2965,23 @@ III.- Fuera de los casos señalados en la fracción anterior, las notificaciones
 
 La lista a que se refiere la fracción III del artículo anterior, contendrá: el nombre de la persona a quien se notifique, el expediente en que la notificación se haga, y una síntesis de la parte dispositiva de la resolución correspondiente. En los autos se hará constar la fecha de la fijación de la lista.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 205.
 
-Las partes podrán autorizar por escrito a persona que a su nombre reciba las notificaciones, haga promociones de trámite, ofrezca y rinda pruebas, alegue e interponga recursos.
+Las partes podrán autorizar por escrito a una o a varias personas para que a su nombre reciban las notificaciones, hagan promociones de trámite, ofrezcan y rindan pruebas, aleguen e interpongan recursos.
 
 La persona deberá tener titulo de Licenciado en Derecho debidamente registrado en la Secretaría de Educación Pública o en la Dirección General de Profesiones del Estado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 206.
 
-Las notificaciones surtirán efectos al día hábil siguiente al en que se haya hecho la notificación personal o entregado el oficio que contenga copia de la resolución que se notifica, o fijado la lista respectiva.
+Las notificaciones surtirán efectos al día hábil siguiente en que se haya hecho la notificación personal o entregado el oficio que contenga copia de la resolución que se notifica, o fijado la lista respectiva.
 
 ###### ARTÍCULO 207.
 
@@ -2927,7 +2997,11 @@ Si se declara la nulidad, el Tribunal ordenará reponer la notificación anulada
 
 El cómputo de los términos se sujetara a las reglas siguientes:
 
-I.- Empezarán a correr desde el día siguiente al en que surta efectos la notificación; serán improrrogables y se incluirá en ellos el día del vencimiento; y,
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2014)</small>
+
+I.- Empezarán a correr desde el día hábil siguiente en que surta efectos la notificación; serán improrrogables y se incluirá en ellos el día del vencimiento; y,
 
 II.- Se contarán por días naturales, excluyendo los inhábiles, y aquellos en los que se suspendan las labores del Tribunal.
 
@@ -3263,7 +3337,7 @@ El Tribunal resolverá sobre la autenticidad del documento exclusivamente para l
 
 ###### ARTÍCULO 238.
 
-En los juicios que se tramiten ante el Tribunal de lo Contencioso Administrativo será admisibles toda clase de pruebas excepto la confesión de las autoridades.
+En los juicios que se tramiten ante el Tribunal de lo Contencioso Administrativo será (sic) admisibles toda clase de pruebas excepto la confesión de las autoridades.
 
 No se considerarán comprendidas en la prohibición la petición de informes a las autoridades fiscales respecto de hechos que consten en sus expedientes o de documentos agregados a ellos, ni los casos en que se demande la nulidad de la resolución dictada al decidir acerca de una consulta.
 
@@ -3562,3 +3636,17 @@ Para efectos del artículo 312, numeral 1, inciso b de la Ley de Hacienda del Es
 ###### ARTÍCULO CUARTO.
 
 Para efectos de la reforma al artículo 42 de la Ley de Tránsito para el Estado de Sonora, los propietarios de los vehículos deberán reponer las placas de circulación en el año 2014 sin costo.
+
+B.O. 15 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 1 de enero de 2015, previa su publicación en el Boletín Oficial del Gobierno del Estado, con excepción de las disposiciones contenidas en los artículos tercero, cuarto y quinto del presente ordenamiento, las cuales entrarán en vigor a partir de la publicación de este Decreto en el citado Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Todas aquellas operaciones en materia de derechos registrales, que se hayan formalizado ante notario público y que sean sujetas del arancel del año fiscal de 2014, y que estas se presenten para su registro en la vigencia del año fiscal de 2015, se les aplicará el arancel vigente en la época en que fueron formalizadas, es decir, en este caso, año fiscal 2014.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
