@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-municipal-8369"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-29"
-last_updated: "2014-12-11"
+last_updated: "2014-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY DE HACIENDA MUNICIPAL
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EN LOS B.O. DEL 2 DE MARZO DE 2015 Y 26 DE ENERO DE 2015 DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección Decimacuarta del Boletín Oficial del Estado de Sonora, el jueves 29 de diciembre de 1983.
 
@@ -635,7 +637,11 @@ La base del impuesto será:
 
 I.- Tratándose de predios urbanos y rurales, el valor catastral determinado según los estudios de valor practicados por el Ayuntamiento y consignados en los planos y tablas de valores unitarios de suelo y construcción que apruebe anualmente el Congreso del Estado. El impuesto se causará y pagará conforme a las tarifas que se fijen en las leyes de ingresos de los Ayuntamientos.
 
-II.- Tratándose de predios rústicos ejidales o comunales, el valor de la producción comercializada de cada cultivo por ciclo productivo, proveniente de dichos predios cuando sean aprovechados para la producción agropecuaria, silvícola o acuícola. El impuesto se causará y pagará a la tasa, tarifa o cuota que se fije en las leyes de ingresos de los Ayuntamientos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2014)</small>
+
+II.- Tratándose de predios rústicos ejidales o comunales, lo que resulte mayor entre el valor catastral y el valor comercial; las autoridades municipales procederán en su caso a la actualización del valor comercial del predio, tomando en consideración su extensión, ubicación, rentabilidad y otros factores que incrementen de forma alguna su valor. El impuesto se causará y pagará a la tasa, tarifa o cuota que se fije en las leyes de ingresos de los Ayuntamientos.
 
 ###### ARTICULO 56.
 
@@ -677,13 +683,13 @@ El pago por anualidad anticipada del Impuesto Predial, no impide el cobro de dif
 
 No obstante lo dispuesto en el primer párrafo de este artículo, el pago de la cuota mínima, en todos los casos, se hará mediante una sola exhibición en el mes de enero de cada año.
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-ARTICULO 61 BIS.- Tratándose de predios ejidales o comunales aprovechados para la producción agropecuaria, silvícola o acuícola, el pago se hará al efectuarse la venta de los productos y en su defecto, dentro de los veinte días siguientes a la fecha en que éstos se hubieran cosechado, debiéndose anexar a la declaración de que se trate la copia del permiso de siembra y copia de la factura o liquidación correspondiente.
+> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, B.O. 18 DE JULIO DE 2011)</small>
+ARTICULO 61 BIS.- Tratándose de predios ejidales o comunales el pago se realizará en la misma época y condiciones que se encuentra establecido para el impuesto predial urbano conforme el artículo 61 de esta Ley.
 
-A más tardar dentro de los 30 días naturales siguientes al de la recaudación correspondiente al impuesto efectivamente pagado conforme al párrafo anterior, los ayuntamientos entregarán el 50% al ejido o comunidad propietario o poseedor de los predios donde se genere el gravamen.
+Los ayuntamientos que perciban el impuesto predial ejidal entregarán el 50% de este gravamen al ejido o comunidad, propietario o poseedor de los predios donde se genere el mismo; para tales efectos, se procederá a la creación de un programa de fortalecimiento en cada Ayuntamiento mediante la creación de figura de fideicomiso o cualquier otra que determine (sic) los Ayuntamientos para su mejor funcionamiento y organización, en las cuales deberán participar autoridades locales como los propios sujetos que hubieran pagado el gravamen.
 
 ###### ARTICULO 62.
 
@@ -1813,7 +1819,7 @@ IV.- Las demás que se establezcan en las leyes de ingresos de los Ayuntamientos
 
 ARTICULO 137 BIS.- Para toda clase de anuncios y carteles o cualquier tipo de publicidad, excepto la que se realice por medio de televisión, radio, periódicos y revistas se necesita licencia, permiso o autorización por lo que se pagarán los derechos conforme a la siguiente tarifa:
 
-(VEASE TABLA ANEXA)
+(VÉASE TABLA ANEXA)
 
 > <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -2009,7 +2015,7 @@ III.- Las personas físicas o morales que hayan adquirido derechos sobre los pre
 
 ARTICULO 142 BIS.- Las contribuciones especiales por mejoras se causarán por las obras a que se refiere este artículo, atendiendo a la ubicación de los inmuebles dentro de las zonas de beneficio que también se señalan, hasta por un 80% del costo total de dichas obras.
 
-(VEASE TABLA ANEXA)
+(VÉASE TABLA ANEXA)
 
 > <small>(ADICIONADO, B.O. 7 DE MAYO DE 1992)</small>
 
@@ -2914,3 +2920,17 @@ B.O. 11 DE DICIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 15 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 1 de enero de 2015, previa su publicación en el Boletín Oficial del Gobierno del Estado, con excepción de las disposiciones contenidas en los artículos tercero, cuarto y quinto del presente ordenamiento, las cuales entrarán en vigor a partir de la publicación de este Decreto en el citado Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Todas aquellas operaciones en materia de derechos registrales, que se hayan formalizado ante notario público y que sean sujetas del arancel del año fiscal de 2014, y que estas se presenten para su registro en la vigencia del año fiscal de 2015, se les aplicará el arancel vigente en la época en que fueron formalizadas, es decir, en este caso, año fiscal 2014.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
