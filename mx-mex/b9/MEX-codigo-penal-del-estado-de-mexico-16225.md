@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2014-11-28"
+last_updated: "2014-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE DICIEMBRE DE 2014.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -615,7 +615,7 @@ El decomiso de los bienes producto del enriquecimiento ilícito consiste en la p
 
 El decomiso consiste en la pérdida de la propiedad o posesión de los instrumentos, objetos y efectos del delito, a favor y en forma equitativa de la procuración y administración de justicia. Los de uso ilícito se decomisarán todos. Los de uso lícito sólo los que deriven de delitos dolosos, salvo determinación de la ley.
 
-Tratándose de bienes inmuebles en el delito cometido por fraccionadores pasaran a propiedad del organismo encargado del desarrollo urbano en el Estado de México para la regularización o reserva territorial con el objeto del ordenamiento urbano de los municipios, autorizándose las anotaciones necesarias en los registros agrario (sic) y de la propiedad que correspondan.
+Tratándose de bienes inmuebles en el delito cometido por fraccionadores pasaran a propiedad del organismo encargado del desarrollo urbano en el Estado de México para la regularización o reserva territorial con el objeto del ordenamiento urbano de los municipios, autorizándose las anotaciones necesarias en los registros agrario y de la propiedad que correspondan.
 
 > <small>(ADICIONADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -753,9 +753,9 @@ Si el inculpado al rendir su declaración en la audiencia de juicio confiesa esp
 
 Si el inculpado de un delito patrimonial, paga espontáneamente la reparación del daño antes de que concluya la audiencia de juicio, el órgano jurisdiccional, atendiendo a las circunstancias especiales del hecho, podrá reducir hasta en una mitad la pena.
 
-> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, G.G. 15 DE DICIEMBRE DE 2014)</small>
 
-La reducción a que se refiere este artículo no se concederá en delitos de extorsión, secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación y robo que ocasione la muerte.
+La reducción a que se refiere este artículo no se concederá en delitos de extorsión, secuestro, lesiones que se infieran a menores, incapaces o pupilos por quien ejerza la patria potestad, tutela o custodia, o por un integrante de su núcleo familiar, homicidio doloso con modificativas que lo califiquen o lo agraven, violación y robo que ocasione la muerte.
 
 ### CAPITULO II. CASOS DE TENTATIVA
 
@@ -855,11 +855,11 @@ En caso de concurso se impondrá la pena correspondiente al delito que merezca l
 
 ### CAPITULO VI. CASOS DE REINCIDENCIA Y HABITUALIDAD
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 15 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 69.
 
-La reincidencia y habitualidad referida en los artículos 19 y 20 será tomada en cuenta para la individualización de la pena y para el otorgamiento o no de los beneficios o de los sustitutivos penales que la Ley prevé. No se otorgarán beneficios, sustitutivos, ni la suspensión de la pena de prisión cuando se trate de delitos de extorsión, robo con violencia, secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación y robo que cause la muerte.
+La reincidencia y habitualidad referida en los artículos 19 y 20 será tomada en cuenta para la individualización de la pena y para el otorgamiento o no de los beneficios o de los sustitutivos penales que la Ley prevé. No se otorgarán beneficios, sustitutivos ni la suspensión de la pena de prisión cuando se trate de delitos de extorsión, robo con violencia, secuestro, lesiones que se infieran a menores, incapaces o pupilos por quien ejerza la patria potestad, tutela o custodia, o por un integrante de su núcleo familiar, homicidio doloso con modificativas que lo califiquen o lo agraven, violación y robo que cause la muerte.
 
 > <small>(ADICIONADO, G.G. 18 DE MARZO DE 2011)</small>
 
@@ -2633,7 +2633,7 @@ Artículo 205 BIS.- (DEROGADO Y REUBICADO, G.G. 28 DE DICIEMBRE DE 2007)
 
 ### CAPITULO V. VIOLENCIA FAMILIAR
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 15 DE DICIEMBRE DE 2014)</small>
 
 ### CAPITULO VI. TRAFICO DE MENORES
 
@@ -2781,7 +2781,9 @@ l. El que estando obligado por la ley, sin motivo justificado abandone a sus des
 
 II. El que intencionalmente se coloque en estado de insolvencia, con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina, se le impondrán de dos a siete años de prisión y de treinta a trescientos días multa. El órgano jurisdiccional determinará la aplicación del producto del trabajo que realice el inculpado, para satisfacer las obligaciones alimentarias a su cargo; y
 
-III. El padre, madre, tutor o quien tenga legalmente la custodia de un menor de edad, que por incurrir en negligencia u omisión en más de una ocasión en las obligaciones que le impone la ley, ponga en riesgo la salud mental o física del menor, se le impondrán de dos a siete años de prisión y de treinta a trescientos días multa.
+> <small>(REFORMADA, G.G. 15 DE DICIEMBRE DE 2014)</small>
+
+III. El padre, madre, tutor o quien tenga legalmente la custodia de un menor de edad, que por incurrir en negligencia u omisión en más de una ocasión en las obligaciones que le impone la ley, ponga en riesgo la salud mental o física del menor, se le impondrán de tres a ocho años de prisión y de cincuenta a trescientos cincuenta días multa.
 
 El Ministerio Público solicitará al Sistema Estatal para el Desarrollo Integral de la Familia, información sobre antecedentes a que se refiere este artículo, en los términos de las disposiciones jurídicas aplicables.
 
@@ -2801,7 +2803,7 @@ En los casos de reincidencia del delito de incumplimiento de obligaciones alimen
 
 ###### Artículo 218.
 
-Al integrante de un núcleo familiar que haga uso de la violencia física o moral, en contra de otro integrante de ese núcleo que afecte o ponga en peligro su integridad física, psíquica o ambas; cause menoscabo en sus derechos, bienes o valores de algún integrante del núcleo familiar, se le impondrán de dos a cinco años de prisión y de cien a quinientos días multa y tratamiento psicoterapéutico, psicológico, psiquiátrico o reeducativo, sin perjuicio de las penas que correspondan por otros delitos que se consumen.
+Al integrante de un núcleo familiar que haga uso de la violencia física o moral en contra de otro integrante de ese núcleo que afecte o ponga en peligro su integridad física, psíquica o ambas, o cause menoscabo en sus derechos, bienes o valores de algún integrante del núcleo familiar, se le impondrán de tres a siete años de prisión y de doscientos a seiscientos días multa y tratamiento psicoterapéutico, psicológico, psiquiátrico o reeducativo, sin perjuicio de las penas que correspondan por otros delitos que se consumen.
 
 Por núcleo familiar debe entenderse el lugar en donde habitan o concurran familiares o personas con relaciones de familiaridad en intimidad, o el vínculo de mutua consideración y apoyo que existe entre las personas con base en la filiación o convivencia fraterna.
 
@@ -3159,13 +3161,15 @@ V. Cuando las lesiones produzcan enfermedad incurable, enajenación mental, pér
 
 VI. Cuando las lesiones sean calificadas, se aumentará la pena de prisión de seis meses a tres años;
 
-> <small>(REFORMADA, G.G. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, G.G. 15 DE DICIEMBRE DE 2014)</small>
 
-VII. Cuando la víctima u ofendido sea ascendiente, descendiente, hermano, pupilo, tutor, cónyuge, concubina o concubinario, o mantenga una relación sentimental o afectiva con el inculpado, se aumentarán de seis meses a dos años de prisión; y
+VII. Cuando la víctima u ofendido sea ascendiente, descendiente, hermano, pupilo, tutor, cónyuge, concubina o concubinario, o mantenga una relación sentimental o afectiva con el inculpado, se aumentarán de seis meses a dos años de prisión, salvo lo señalado por la siguiente fracción;
 
-> <small>(REFORMADA, G.G. 26 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADA, G.G. 15 DE DICIEMBRE DE 2014)</small>
 
-VIII. Cuando las lesiones a que se refiere éste artículo se infieran a los menores, incapaces o pupilos que se encuentren bajo la patria potestad, tutela o custodia del inculpado, se impondrá además de la pena correspondiente, la suspensión o privación de esos derechos;
+VIII. Cuando las lesiones se infieran a menores, incapaces o pupilos por quien ejerza la patria potestad, tutela o custodia, o por un integrante de su núcleo familiar, se aplicarán de diez a quince años de prisión y de doscientos a cuatrocientos días multa, además la suspensión o privación de esos derechos.
+
+A quien ejerza la patria potestad, tutela o custodia del menor víctima de las lesiones que haya consentido la conducta, se le aplicará la misma pena, además de la suspensión o privación de esos derechos. Se entenderá que hubo consentimiento cuando haya omitido realizar la denuncia correspondiente;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 19 DE AGOSTO DE 2011)</small>
 
@@ -3469,7 +3473,7 @@ No incurre en este delito la mujer que dé en adopción, en los términos de las
 
 ### CAPITULO X. REQUERIMIENTO ILICITO DE PAGO
 
-> <small>(ADICIONADO, G.G. 15 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.G. 15 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 255.
 
@@ -3685,7 +3689,7 @@ Este delito sólo se perseguirá por querella.
 
 ###### Artículo 268 Ter.
 
-A quien por medio de la violencia, amenaza, hostigamiento o intimidación, solicite a otro el pago de una deuda o supuesta deuda, fuera de los procedimientos establecidos en la ley, se le sancionará con una pena de seis meses a tres años de prisión y de ciento ochenta a trescientos sesenta días multa.
+A quien con la intención de requerir el pago de una deuda, se valga del engaño o lo pretenda, amenace, hostigue al deudor, o cometa actos de violencia en su contra, o de su aval, fiador, referencia, o a cualquier otra persona ligada con éstos, se le sancionará con una pena de seis meses a tres años de prisión y de ciento ochenta a trescientos sesenta días multa.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 6 DE ENERO DE 2012)</small>
 
@@ -5307,7 +5311,7 @@ Para el próximo ejercicio fiscal, la Legislatura proveerá la partida presupues
 
 El Fiscal especializado en Materia de Delitos Electorales deberá rendir un informe a la Legislatura del Estado a los noventa días siguientes de concluido el proceso electoral para el período constitucional 2015-2018.
 
-Se exhorta al Procurador General de Justicia del Estado de México, para que la designación del Fiscal Especializado en Materia Delitos Electorales y de los servidores públicos adscritos a ella recaigan (sic) en las personas que garanticen los principios enunciados en este artículo.
+Se exhorta al Procurador General de Justicia del Estado de México, para que la designación del Fiscal Especializado en Materia Delitos Electorales y de los servidores públicos adscritos a ella recaigan en las personas que garanticen los principios enunciados en este artículo.
 
 DÉCIMO SEXTO. La Legislatura del Estado, expedirá las normas aplicables para el cumplimiento de las funciones y fines del Instituto, señaladas en la fracción XV del artículo 168 y VIII del artículo 171 de este Decreto.
 
@@ -5336,3 +5340,23 @@ TERCERO.- La Secretaría de Seguridad Ciudadana y los municipios de la Entidad, 
 CUARTO.- El Titular del Ejecutivo Estatal reformará el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de México, antes de la entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de México.
 
 QUINTO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 15 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO 346, POR EL QUE SE REFORMAN LOS ARTÍCULOS 58 PÁRRAFO CUARTO, 69 PÁRRAFO PRIMERO, 217 FRACCIÓN III, 218 PÁRRAFO PRIMERO, Y 238 FRACCIONES VII Y VIII DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor a los cinco días siguientes al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 15 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO 347, POR EL QUE SE REFORMA EL ARTÍCULO 268 TER DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
