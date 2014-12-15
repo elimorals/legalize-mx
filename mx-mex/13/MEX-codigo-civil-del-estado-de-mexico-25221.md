@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2014-11-14"
+last_updated: "2014-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE DICIEMBRE DE 2014.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -888,6 +888,10 @@ V. El Titular u oficial del Registro Civil, procederá a interrogar a los testig
 > <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 VI. En caso de no existir impedimento, hará saber a los contrayentes los derechos y obligaciones del matrimonio y preguntará a cada uno de ellos si es su voluntad unirse en matrimonio; estando conformes los declarará unidos en nombre de la Ley y la sociedad, asentándose el acta correspondiente.
+
+> <small>(ADICIONADO, G.G. 15 DE DICIEMBRE DE 2014)</small>
+
+El Oficial del Registro Civil proporcionará a los futuros contrayentes cursos que deberán contener la información sobre los derechos y obligaciones que se derivan del matrimonio, apartados de salud reproductiva, la igualdad y la equidad de género, así como la prevención de la violencia familiar, para lo cual se auxiliará de los sistemas para el desarrollo integral de la familia.
 
 Irrenunciables los fines del matrimonio
 
@@ -17830,3 +17834,9 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- La Legislatura del Estado proveerá los recursos necesarios para el funcionamiento del Registro de Deudores Alimentarios Morosos.
+
+G.G. 15 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
