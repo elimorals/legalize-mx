@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-comite-de-control-y-evaluacion-cocoe-de-75882"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-07-28"
-last_updated: "2010-07-28"
+last_updated: "2014-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO DEL COMITE DE CONTROL Y EVALUACION (COCOE) DE RECICLAGUA AMBIENTAL, S.A. DE C.V., DEL ESTADO DE MEXICO
 
-REGLAMENTO DEL COMITE DE CONTROL Y EVALUACION (COCOE) DE RECICLAGUA AMBIENTAL, S.A. DE C.V.
+REGLAMENTO DEL COMITÉ DE CONTROL Y EVALUACIÓN (COCOE) DE RECICLAGUA AMBIENTAL, S.A. DE C.V.
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL CUARTO TRANSITORIO DEL REGLAMENTO INTERNO DEL COMITÉ DE CONTROL Y EVALUACIÓN (COCOE) DE RECICLAGUA AMBIENTAL S.A. DE C.V., PUBLICADO EN LA G.G. DE 15 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 15 DE DICIEMBRE DE 2014 (SIN EFECTOS).
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el miércoles 28 de julio de 2010.
 
@@ -81,7 +83,7 @@ V. El Titular de la Unidad de Asuntos Jurídicos, como vocal con derecho a voz y
 
 VI. El Titular del Departamento de Recursos Humanos, como vocal con derecho a voz y voto;
 
-VII. El Responsable de de la Unidad de Información, Planeación, Programación y Evaluación,
+VII. El Responsable de la Unidad de Información, Planeación, Programación y Evaluación,
 
 VIII. El Director General de Control y Evaluación "C", como vocal con derecho a voz;
 
@@ -296,3 +298,17 @@ LIC. RAFAEL HERNÁNDEZ GONZÁLEZ
 Jefe de la Unidad de Asuntos Jurídicos y Vocal del Comité de Control y Evaluación
 
 (Rúbrica).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 15 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Reglamento Interior en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Durante el año 2015 se continuará realizando cuatro sesiones ordinarias y para el año 2016 lo que marca el artículo ocho de este Reglamento.
+
+CUARTO.- Se deja sin efectos el Reglamento Interior del COCOE aprobado el 28 de julio de 2010.
+
+QUINTO.- Las dudas que se susciten con motivo de la interpretación o aplicación del presente Reglamento, así como lo no previsto en el mismo, será resuelto por la Secretaría de la Contraloría.
