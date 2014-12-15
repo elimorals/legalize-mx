@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2014-12-04"
+last_updated: "2014-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,15 @@ state: "SON"
 ---
 # LEY DE HACIENDA DEL ESTADO DE SONORA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE ENERO DE 2015 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 26 DE ENERO DE 2015 Y 2 DE MARZO DE 2015 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
 > <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE DICIEMBRE DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL B.O. DE 15 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A PARTIR DEL 1 DE ENERO DE 2015.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976.
 
@@ -1035,7 +1037,7 @@ a).- Cantinas, según su importancia, de $1,625.00 a $12,500.00;
 
 b).- Cantinas, en que solamente se expendan bebidas tales como vermouth, aperitales, anizados, vinos generosos, cremas, sidras, vinos de uva para mesa, tintos rosados y blancos, de $1,500.00 a $3,750.00;
 
-c).- Cantinas, anexas a restaurantes, que expendan bebidas tales como vemouth, aperitales, anizados, vinos generosos, cremas, sidras, vinos de uva para mesa, tintos, rosados y blancos de $1,000.00 a $2,500.00;
+c).- Cantinas, anexas a restaurantes, que expendan bebidas tales como vemouth (sic), aperitales, anizados, vinos generosos, cremas, sidras, vinos de uva para mesa, tintos, rosados y blancos de $1,000.00 a $2,500.00;
 
 > <small>(REFORMADO, B.O. 27 DE JULIO DE 1977)</small>
 
@@ -1557,9 +1559,9 @@ III.- (DEROGADA, B.O. 29 DE DICIEMBRE DE 1983)
 
 IV.- Cuando no sea posible especificar en forma separada el valor de los muebles e inmuebles: 3%.
 
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 15 DE DICIEMBRE DE 2014)</small>
 
-Cuando el sujeto del impuesto acredite su calidad de jubilado, pensionado o persona adulta de 60 años o más edad, en los términos del Artículo 298 fracción II del presente ordenamiento, se aplicará la tasa correspondiente, reducida en un 50%, siempre y cuando se trate de operaciones que no excedan de seis veces el salario mínimo general diario vigente en el área geográfica de que se trate, elevado al año.
+Cuando el sujeto del impuesto acredite su calidad de jubilado, pensionado o persona adulta de 60 años o más edad, en los términos del Artículo 298 fracción II del presente ordenamiento, se aplicará la tasa correspondiente reducida en un 50%, siempre y cuando se trate de operaciones que no excedan de seis veces el salario mínimo general diario vigente en el área geográfica de que se trate, elevado al año; esta reducción será efectiva en el Impuesto que corresponda al ejercicio fiscal en curso.
 
 ###### Artículo 189 Bis.
 
@@ -2228,6 +2230,62 @@ Los contribuyentes beneficiarios al (sic) estímulo previsto en este artículo, 
 > <small>(ADICIONADO, B.O. 15 DE ENERO DE 2009)</small>
 
 El beneficio que se confiere en el presente artículo no otorga a los contribuyentes el derecho de devolución, ni será aplicable en los accesorios en caso de que estos se hubieren causado.
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+
+Se otorga un estímulo fiscal a las micros, pequeñas, medianas y grandes empresas establecidas en el Estado que hayan generado empleos en los últimos 12 meses, o que vayan a generar empleo en el ejercicio fiscal de que se trate, equivalente al 13.8% del Impuesto sobre Remuneraciones al Trabajo Personal que se cause, el cual se disminuirá contra el propio impuesto, en la misma declaración del período al que corresponda el pago, en ese sentido los impuestos estatales causados por el pago de este impuesto sobre Remuneración al Trabajo Personal serán determinados una vez aplicando el estímulo.
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+
+Dicho estímulo será aplicable a todas las micros, pequeñas, medianas y grandes empresas del Estado que se encuentren legal y físicamente establecidas en Sonora; y que además hayan incrementado el número de trabajadores en los parámetros establecidos en la siguiente tabla, considerando para ello el incremento en la plantilla laboral, tomando como base los empleados formales registrados ante el Instituto Mexicano del Seguro Social al último día del ejercicio fiscal siguiente:
+
+> <small>N. DE E. VÉASE TABLA EN EL B.O. DE 15 DE DICIEMBRE DE 2014, PÁGINA 7.</small>
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+
+O bien que hayan presentado un incremento de por lo menos un 5% en sus remuneraciones al trabajo personal declaradas al último día del ejercicio fiscal inmediato anterior y su aumento al último día del ejercicio fiscal siguiente.
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+
+Las grandes empresas tendrán el beneficio fiscal siempre y cuando demuestren la conservación de por lo menos el 90% de su plantilla laboral; asimismo, aplicará a los contribuyentes de dicho Impuesto que presenten un incremento en su plantilla laboral durante el ejercicio de que se trate, tomando como base para su cálculo el número de trabajadores al mismo mes del año anterior y su aumento al período en declaraciones y que cumplan con los siguientes parámetros:
+
+> <small>N. DE E. VÉASE TABLA EN EL B.O. DE 15 DE DICIEMBRE DE 2014, PÁGINA 8.</small>
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+
+O bien que hayan presentado un incremento de por lo menos 5% en remuneraciones al trabajo personal declaradas en el mismo mes del año anterior y su incremento al periodo en declaración.
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+
+Para efectos del presente artículo, se considera como plantilla laboral el número de empleados registrados ante el Instituto Mexicano del Seguro Social.
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+
+El beneficio fiscal establecido en el presente artículo se aplicará única y exclusivamente si sus beneficiarios se encuentran al corriente en sus obligaciones fiscales relativas al Impuesto Sobre Remuneraciones al Trabajo Personal, en el momento en que se aplique el estímulo.
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+
+El beneficio fiscal señalado en el presente artículo, no será acumulable con otras reducciones o estímulos relacionados con el Impuesto sobre las Remuneraciones al Trabajo del Personal, ni dará derecho a devolución o compensación alguna.
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+
+Las empresas que no se ubiquen en los supuestos señalados en el presente artículo, podrán tener el presente beneficio, únicamente en el caso de que hayan realizado inversiones en activos fijos que representen un incremento de un 10% en el valor de los mismos, tomando como base para su cálculo, el valor de los activos al último día del ejercicio fiscal inmediato anterior y su aumento al último día del ejercicio fiscal siguiente, o bien que durante el ejercicio de que se trate realicen inversiones en activos fijos con las cuales vayan a incrementar el valor de los mismos en un 10% en comparación con el mismo mes del ejercicio anterior.
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+
+El otorgamiento de los beneficios en el pago del impuesto a que se refiere el presente artículo, no exime el pago del impuesto para el sostenimiento de las Universidades de Sonora y de la contribución para el Consejo Estatal de Concertación para la Obra Pública ni las Contribuciones para el Fortalecimiento de la Infraestructura Educativa.
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+
+Los contribuyentes que accedan a los beneficios previstos en este artículo, deberán presentar sus declaraciones fiscales de conformidad con las disposiciones vigentes, señalando el monto del impuesto causado y el monto del estímulo a que sean acreedores, mismo que será deducido del impuesto causado.
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+
+Los beneficios que se confieren en el presente artículo, no serán acumulables con otras reducciones establecidas en las disposiciones fiscales, ni darán lugar a la compensación o devolución alguna, ni serán aplicables en los accesorios en caso de que estos se hubieren causado.
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+
+Los presentes beneficios serán otorgados de conformidad con los lineamientos que al efecto expida la Secretaría de Hacienda.
 
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1999)</small>
 
@@ -3231,9 +3289,9 @@ Las cuotas de los derechos serán iguales, para quienes reciban servicios análo
 
 Para la determinación de las cuotas de los derechos, se tendrá en cuenta el costo de dichos servicios o el uso que se haga de ellos y la situación económica del obligado, conforme a las siguientes bases:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE DICIEMBRE DE 2014)</small>
 
-I.- Cuando el solicitante del servicio acredite su calidad de jubilado, pensionado o persona adulta de 60 años o más edad y sea el beneficiario directo del mismo, se aplicarán las cuotas correspondientes a los servicios que a continuación se detallan, reducidas en un 50%, excepto tratándose de aquéllos cuyas cuotas o tarifas contemplen reducciones en los términos de esta Ley.
+I.- Cuando el solicitante del servicio acredite su calidad de jubilado, pensionado o persona adulta de 60 años o más edad y sea el beneficiario directo del mismo, se aplicarán a las cuotas del ejercicio fiscal en curso que correspondan a los servicios que a continuación se detallan, reducidas en un 50%, excepto tratándose de aquellos cuyas cuotas o tarifas contemplen reducciones en los términos de esta Ley.
 
 a).- Derechos por expedición, transferencia, canje o revalidación de placas de transporte privado, para un solo vehículo de su propiedad.
 
@@ -3274,6 +3332,10 @@ f).- Otras instituciones de seguridad social de la federación, estados o munici
 > <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
 Las personas mayores de 60 años de edad que no cuenten con alguna identificación de las señaladas en los incisos anteriores, podrán demostrar su edad y hacerse acreedores a los beneficios correspondientes mediante la presentación de la credencial para votar expedida por el Instituto Federal Electoral.
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+
+La Secretaría de Hacienda podrá expedir las disposiciones necesarias para el cumplimiento de lo establecido en este artículo.
 
 ###### Artículo 299.
 
@@ -3895,17 +3957,11 @@ b).- Copia certificada $50.00
 
 4.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 18 DE DICIEMBRE DE 2003)</small>
+5.- (DEROGADO, B.O. 15 DE DICIEMBRE DE 2014)
 
-5.- Por anuencia para la expedición de permisos de caza. $795.00
+6.- (DEROGADO, B.O. 15 DE DICIEMBRE DE 2014)
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 18 DE DICIEMBRE DE 2003)</small>
-
-6.- Por anuencia para la expedición de permisos de asociaciones de caza, tiro y pesca, por socio. $117.00
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 18 DE DICIEMBRE DE 2003)</small>
-
-7.- Por anuencia para la expedición de permisos para portar armas y para compraventa y/o almacenaje de explosivos. $795.00
+7.- (DEROGADO, B.O. 15 DE DICIEMBRE DE 2014)
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -4415,6 +4471,10 @@ Por cuatro años. $650.00
 
 Por cinco años. $1,000.00
 
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+
+Permanente $2,029.00
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
@@ -4430,6 +4490,10 @@ Por dos años. $456.00
 Por tres años. $620.00
 
 Por cuatro años. $780.00
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+
+Permanente $1,640.00
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4450,6 +4514,10 @@ d).- De motociclista como sigue:
 Por dos años. $380.00
 
 Por tres años. $517.00
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+
+Permanente $1,090.00
 
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -4879,21 +4947,19 @@ En los casos que la transmisión de la propiedad del bien inmueble o de cualquie
 
 $2,500.00
 
-Tratando de transmisión de propiedad destinada para vivienda cuyo valor, tomando como base el valor más alto entre el avalúo catastral, el comercial y el precio pactado de la operación, no supere la suma que resulte de multiplicar 25 veces el salario mínimo general elevado al año vigente en el área geográfica de que se trate se cobrará:
+> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
 
-$650.00
+Tratándose del contrato de compraventa por el cual se transmita la propiedad destinada para vivienda, cuyo valor tomando como base el más alto entre el precio de la operación, el valor comercial y el valor catastral, no supere la suma que se obtenga de multiplicar por 25 veces el salario mínimo general elevado al año vigente en el área geográfica de que se trate se cobrará: $660.00
 
 b) Por el que fraccione, lotifique, relotifique, subdivida, fusione, cualquier inmueble rústico o urbano, o se constituya el régimen de propiedad condominal se cobrará por cada acto:
 
 $2,500.00
 
-c) El que contenga el crédito hipotecario constituido para la obtención de vivienda:
+> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
 
-$2,000.00
+c) Por el que contenga gravamen hipotecario, se cobrará: $2,030.00
 
-Tratando el crédito hipotecario constituido para la obtención, de vivienda, cuyo valor, tomando como base el valor más alto entre el avalúo catastral, el comercial y el precio pactado de la operación, no supere la suma que resulte de multiplicar 25 veces el salario mínimo general elevado al año vigente en el área geográfica de que se trate, por cada acto jurídico se cobrará:
-
-$650.00
+Tratándose de transmisión de propiedad destinada para vivienda cuyo valor, tomando como base el valor más alto entre el avaluó catastral, el comercial y el precio pactado de la operación, no supere la suma que resulte de multiplicar 25 veces el salario mínimo general elevado al año vigente en el área geográfica de que se trate, por cada acto jurídico se cobrará: $660.00
 
 d) Por el que se grave, limite, modifique la propiedad de un bien inmueble o de cualquier derecho real derivado de un contrato de crédito habilitación, avío o refaccionario, por cada acto jurídico se cobrará:
 
@@ -4935,9 +5001,9 @@ k) Para el caso de que el documento público o privado presentado para análisis
 
 $250.00
 
-Tratándose de documento público o privado presentado para análisis o calificación que contengan más de un inmueble destinado para la edificación de vivienda se cobrará adicional por cada uno de éstos:
+> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 15 DE DICIEMBRE DE 2014)</small>
 
-$75.00
+Tratándose de documento público o privado presentado para análisis o calificación que contenga declaración unilateral de voluntad para subdividir, lotificar o constituir el régimen de propiedad en condominio destinado a la edificación de vivienda por cada fracción, lote o condominio se cobrará adicional por cada uno de éstos: $76.00
 
 > <small>(REFORMADA, B.O. 19 DE DICIEMBRE DEL 2013)</small>
 
@@ -6559,6 +6625,30 @@ f) Instituciones privadas, por día. $15,000.00
 
 La realización de pagos por el uso, goce, aprovechamiento o explotación de bienes del dominio público del Estado a que se refieren los puntos 1 y 2 de esta fracción, no causarán el Impuesto para el Sostenimiento de las Universidades de Sonora y las contribuciones para el Consejo Estatal de Concertación para la Obra Pública las Contribuciones para el Fortalecimiento de la Infraestructura Educativa, establecidos en la presente Ley.
 
+> <small>(ADICIONADA, B.O. 15 DE DICIEMBRE DE 2014)</small>
+
+IX.- Servicios prestados por la Secretaría de Gobierno.
+
+1.- Por anuencia para la expedición de permisos de caza $1,215.00
+
+2.- Por anuencia para la expedición de permisos de
+
+asociaciones de caza, tiro y pesca, por socio $183.00
+
+3.- Por anuencia para la expedición de permisos para portar
+
+armas y para compraventa y/o almacenaje de explosivos $1,215.00
+
+4.- Anuencias para realización de actividades reguladas por las Leyes de Juegos y Sorteos de Asociaciones Religiosas y Culto Público:
+
+a).- Actos de culto público.
+
+b).- Carreras de caballos.
+
+c).- Peleas de gallos.
+
+La cuota a pagar es asignable por la Dependencia que preste el servicio.
+
 ## TITULO QUINTO. De los Productos y de los Aprovechamientos
 
 ###### Artículo 327.
@@ -6570,6 +6660,14 @@ La falta de pago oportuno de las cantidades que conforme a contratos o concesion
 ###### Artículo 328.
 
 Los ingresos reputados como aprovechamientos se recaudarán, según el caso, en los términos del Código Fiscal del Estado de Sonora, ordenamientos o estipulaciones que regulen su percepción.
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 329.
+
+Para los efectos de pago de las multas que impongan autoridades estatales distintas a las fiscales, la autoridad competente que la determine, rectifique y la notifique por sus propios medios, vencido el plazo para su pago y de no existir un recurso legal presentado en su contra, en el transcurso de los cinco días hábiles siguientes a dichos estatus las comunicarán oficialmente para cobro coactivo a la Dirección General de Recaudación, adscrita a la Secretaría de Hacienda, expresando el nombre del infractor, nombre comercial, Registro Federal de Contribuyentes o CURP, domicilio, concepto e importe, así como cualquier información que facilite su cobro.
+
+La Secretaría de Hacienda podrá emitir la normatividad que considere necesaria para llevar a cabo su registro y control de seguimiento, de común acuerdo con las autoridades.
 
 ## TRANSITORIOS
 
@@ -7166,3 +7264,17 @@ B.O. 4 DE DICIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 15 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 1 de enero de 2015, previa su publicación en el Boletín Oficial del Gobierno del Estado, con excepción de las disposiciones contenidas en los artículos tercero, cuarto y quinto del presente ordenamiento, las cuales entrarán en vigor a partir de la publicación de este Decreto en el citado Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Todas aquellas operaciones en materia de derechos registrales, que se hayan formalizado ante notario público y que sean sujetas del arancel del año fiscal de 2014, y que estas se presenten para su registro en la vigencia del año fiscal de 2015, se les aplicará el arancel vigente en la época en que fueron formalizadas, es decir, en este caso, año fiscal 2014.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
