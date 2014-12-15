@@ -4,7 +4,7 @@ identifier: "SON-ley-de-alianzas-publico-privadas-de-servicios-del-estado-de-621
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-14"
-last_updated: "2008-07-14"
+last_updated: "2014-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62117&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY DE ALIANZAS PUBLICO PRIVADAS DE SERVICIOS DEL ESTADO DE SONORA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 26 DE ENERO Y 2 DE MARZO DEL 2015 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE ALIANZAS PUBLICO PRIVADAS DE SERVICIOS DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el lunes 14 de julio de 2008.
 
@@ -189,19 +191,47 @@ III.- Si el impacto de dicha modificación en algún año calendario durante la 
 
 De aprobarse el incremento en presupuesto a que se refiere este artículo, el Ente Contratante deberá presupuestar los pagos ajustados bajo el Contrato con la preferencia prevista en esta ley.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+
+ARTÍCULO 17 BIS.- El Congreso del Estado, en el presupuesto de egresos del Gobierno del Estado de cada ejercicio fiscal, podrá realizar autorizaciones de montos globales para ser aplicados en esquemas de alianzas público privadas con el objeto de que las dependencias y entidades del gobierno del Estado, realicen las acciones que resulten necesarias para lograr una autorización definitiva del o los proyectos respectivos, tanto de la Secretaría como del propio Poder Legislativo, conforme lo indican los artículos subsecuentes de esta ley.
+
+En la autorización a que se refiere el párrafo anterior, el Congreso del Estado deberá establecer, cuando menos:
+
+I.- Nombre de la dependencia o entidad que deberá formular y, en su caso, ejecutar el proyecto.
+
+II.- Monto global estimado a ejercer en el o los proyectos.
+
+III.- Plazo máximo de duración del proyecto.
+
+IV.- Las fuentes y garantías de pago que se estimen necesarias.
+
+V.- El plazo en el cual deberá someterse a consideración del Congreso del Estado, para autorización definitiva, el o los proyectos de alianzas público privadas.
+
+Una vez que entre en vigor la autorización a que se refiere este artículo, las dependencias y entidades quedarán obligadas a elaborar el proyecto de alianza público privada con el objeto de cumplimentar los requerimientos a que se refieren los artículos subsecuentes de esta ley.
+
 ### CAPÍTULO III. AUTORIZACIÓN DEL PROYECTO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 18.
 
 Los Entes Contratantes deberán presentar las solicitudes de autorización de los Proyectos en la modalidad de Alianzas ante la Secretaría.
 
-La autorización del Proyecto se entenderá otorgada exclusivamente para efectos de que el Ente Contratante continúe con la elaboración de la documentación para el proceso de contratación de la Alianza.
+La autorización del Proyecto se entenderá otorgada exclusivamente para efectos de que el Ente Contratante continúe con la elaboración de la documentación para el proceso de obtener la aprobación del Congreso del Estado y, posteriormente, la contratación de la Alianza.
 
-En las autorizaciones, la Secretaría podrá emitir lineamientos sobre los montos de inversión de capital mínimos que se requerirán para cada tipo de Proyecto.
+En las autorizaciones, la Secretaría o el Congreso del Estado, podrán emitir lineamientos sobre los montos de inversión de capital mínimos que se requerirán para cada tipo de Proyecto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 19.
 
-La solicitud para la autorización deberá ir acompañada de la siguiente información:
+La solicitud para la autorización de la Secretaría deberá ir acompañada de la siguiente información:
 
 I.- La descripción del Proyecto y los requerimientos de servicios que se pretenden contratar para el mismo;
 
@@ -219,25 +249,35 @@ VI.- En su caso, la solicitud de una Garantía de Pago.
 
 El análisis comparativo entre elaborar el Proyecto a través de una Alianza o a través de gasto de inversión pública que debe realizar el Ente Contratante, tendrá como finalidad estimar si el Proyecto a través de una Alianza genera mayores beneficios técnicos, financieros y en calidad y oportunidad para el Estado, que los beneficios que se obtendrían en caso de que el Proyecto fuere ejecutado con inversión pública estatal o a través de las otras modalidades previstas en la legislación aplicable.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 21.
 
-Para la elaboración del análisis comparativo, los Entes Contratantes deberán apegarse a los lineamientos y metodología que la Secretaría emita previamente y publique en el Boletín Oficial del Gobierno del Estado.
+(DEROGADO, B.O. 15 DE DICIEMBRE DE 2014)
 
 ###### ARTÍCULO 22.
 
 En caso de que el Ente Contratante omitiera presentar la información prevista en el artículo anterior o la misma requiriera de aclaraciones, la Secretaría requerirá por escrito al Ente Contratante la información faltante en los términos y plazos señalados en el reglamento de esta ley.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 23.
 
-Cuando la solicitud presentada para la autorización del Proyecto cumpla con los requisitos establecidos en esta ley, su reglamento y los lineamientos correspondientes, la Secretaría procederá a emitir la resolución que corresponda siguiendo el procedimiento que se establece en el reglamento de esta ley.
+Cuando la solicitud presentada para la autorización del Proyecto cumpla con los requisitos establecidos en esta ley, su reglamento y los lineamientos correspondientes, la Secretaría procederá a emitir la resolución que corresponda para efecto de la aprobación definitiva del Congreso del Estado.
 
 ###### ARTÍCULO 24.
 
 Para emitir la autorización del Proyecto, la Secretaría deberá analizar y dictaminar si el Estado se beneficiará al desarrollar la Alianza, para lo cual considerará las características del Proyecto, el análisis comparativo que en términos del artículo 20 de esta Ley se lleve a cabo y el impacto en las finanzas públicas de las obligaciones de pago que se deriven de la Alianza.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 25.
 
-Una vez que la Secretaría autorice el desarrollo de la Alianza, el Ejecutivo del Estado someterá a la aprobación del Congreso del Estado el desarrollo del Proyecto como Alianza y la constitución de cualquier Garantía de Pago que, en su caso, se determine necesaria, adjuntando un informe sobre los términos de la solicitud de autorización establecida en el artículo 19 de la ley y la autorización de la Secretaría con respecto a la misma, señalando además, el presupuesto estimado para todos los ejercicios presupuestales en los que estaría vigente la Alianza. La aprobación del Congreso del Estado deberá considerar un margen de incremento al presupuesto del Proyecto para el caso de una modificación en términos del artículo 17 de la presente ley.
+Una vez que la Secretaría autorice el desarrollo de la Alianza, el Ejecutivo del Estado someterá a la aprobación del Congreso del Estado el desarrollo del Proyecto como Alianza y la constitución de la fuente y, en su caso, cualquier garantía de Pago que, en su caso, se determine necesaria, adjuntando un informe sobre los términos de la solicitud de autorización establecida en el artículo 19 de la ley y la autorización de la Secretaría con respecto a la misma, señalando además, el presupuesto estimado para todos los ejercicios presupuestales en los que estaría vigente la Alianza. La aprobación del Congreso del Estado deberá considerar un margen de incremento al presupuesto del Proyecto para el caso de una modificación en términos del artículo 17 de la presente ley.
 
 ### CAPÍTULO IV. DE LOS BIENES PÚBLICOS QUE PODRÁN USARSE EN LAS ALIANZAS
 
@@ -1018,3 +1058,19 @@ EDUARDO BOURS CASTELO
 EL SECRETARIO DE GOBIERNO
 
 ROBERTO RUIBAL ASTIAZARAN
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 15 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 1 de enero de 2015, previa su publicación en el Boletín Oficial del Gobierno del Estado, con excepción de las disposiciones contenidas en los artículos tercero, cuarto y quinto del presente ordenamiento, las cuales entrarán en vigor a partir de la publicación de este Decreto en el citado Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Todas aquellas operaciones en materia de derechos registrales, que se hayan formalizado ante notario público y que sean sujetas del arancel del año fiscal 2014, y que estas se presenten para su registro en la vigencia del año fiscal 2015, se les aplicará el arancel vigente en la época en que fueron formalizadas, es decir, en este caso, año fiscal 2014.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
